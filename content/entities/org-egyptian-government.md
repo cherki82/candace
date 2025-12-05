@@ -1,0 +1,25 @@
+---
+id: "org-egyptian-government"
+name: "Egyptian government"
+type: "ORG"
+aliases:
+  - "Egyptian presidency"
+  - "Egyptian presidency website"
+---
+
+# Egyptian government
+
+_Type: Organizations_
+
+**Also known as:** Egyptian presidency, Egyptian presidency website
+
+## Mentions
+
+### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
+
+- [00:16:50](/episodes/ep-ZAuuSq_j2_w.md#^t-00-16-27)
+  > "...med. Candice Owens just got vindicated again. The Egyptian government website confirms that Egyptian President el-Sisi flew on SUBTU. Remember when Candice Owens dropped..."
+
+## Relationships
+
+_No relationships extracted yet._

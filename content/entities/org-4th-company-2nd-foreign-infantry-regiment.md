@@ -1,0 +1,28 @@
+---
+id: "org-4th-company-2nd-foreign-infantry-regiment"
+name: "4th Company, 2nd Foreign Infantry Regiment"
+type: "ORG"
+---
+
+# 4th Company, 2nd Foreign Infantry Regiment
+
+_Type: Organizations_
+
+## Mentions
+
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
+
+- [00:16:09](/episodes/ep-tB5SXXmd9vU.md#^t-00-15-25)
+  > "...gust 25th of this year, the legionnaires from the 4th Company, 2nd Foreign Infantry Regiment, the 6th Light Armored Brigade, were integrated with U.S. Marines of the 6th Marine Regiment for a ..."
+
+## Relationships
+
+### Affiliated With
+
+- [6th Marine Regiment](/entities/org-6th-marine-regiment.md)
+  - [ep-tB5SXXmd9vU @ 00:16:09](/episodes/ep-tB5SXXmd9vU.md#^t-00-15-25): "...were integrated with U.S. Marines of the 6th Marine Regiment for a three-week training deployment..."
+
+### Member Of
+
+- [French Foreign Legion](/entities/org-french-foreign-legion.md)
+  - [ep-tB5SXXmd9vU @ 00:15:59](/episodes/ep-tB5SXXmd9vU.md#^t-00-15-25): "...the legionnaires from the 4th Company, 2nd Foreign Infantry Regiment, the 6th Light Armored Brigade, were integrated..."

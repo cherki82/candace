@@ -1,0 +1,28 @@
+---
+id: "person-robert-richards-the-fourth"
+name: "Robert Richards the Fourth"
+type: "PERSON"
+aliases:
+  - "Robert Richards IV"
+  - "Robert Richards the Fourth"
+---
+
+# Robert Richards the Fourth
+
+_Type: People_
+
+**Also known as:** Robert Richards IV, Robert Richards the Fourth
+
+## Mentions
+
+### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
+
+- [00:07:02](/episodes/ep-a-e7HC6SeK8.md#^t-00-06-21)
+  > "...ry and you should read this. And it tells us that Robert Richards the Fourth was in 2009 convicted of raping his three-year-old daughter, seven years after she, who was just fi..."
+
+## Relationships
+
+### Referenced By
+
+- [Robert H. Richards](/entities/person-robert-h-richards.md) **parent of** this
+  - [ep-a-e7HC6SeK8 @ 00:08:27](/episodes/ep-a-e7HC6SeK8.md#^t-00-07-45)

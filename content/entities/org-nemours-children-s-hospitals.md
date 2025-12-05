@@ -1,0 +1,24 @@
+---
+id: "org-nemours-children-s-hospitals"
+name: "Nemours Children's Hospitals"
+type: "ORG"
+aliases:
+  - "Nemours Children Hospital"
+---
+
+# Nemours Children's Hospitals
+
+_Type: Organizations_
+
+**Also known as:** Nemours Children Hospital
+
+## Mentions
+
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
+
+- [00:44:08](/episodes/ep-tB5SXXmd9vU.md#^t-00-43-28)
+  > "...er surgeries or yes, they do transgender, rather. Nemours Children's Hospitals are named for Nemours, France, the home of the du Pont family. Hotel du Pont is obviously walking d..."
+
+## Relationships
+
+_No relationships extracted yet._

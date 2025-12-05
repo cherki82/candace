@@ -1,0 +1,23 @@
+---
+id: "person-t-coleman-du-pont"
+name: "T. Coleman du Pont"
+type: "PERSON"
+---
+
+# T. Coleman du Pont
+
+_Type: People_
+
+## Mentions
+
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
+
+- [00:31:48](/episodes/ep-tB5SXXmd9vU.md#^t-00-31-13)
+  > "...ere sold to Wilmington Trust which was founded by T. Coleman du Pont, the French-American then-president of DuPont, to manage the growing fortune of the French-American..."
+
+## Relationships
+
+### Founded
+
+- [Wilmington Trust](/entities/org-wilmington-trust.md)
+  - [ep-tB5SXXmd9vU @ 00:31:48](/episodes/ep-tB5SXXmd9vU.md#^t-00-31-13): ""...which was founded by T. Coleman du Pont, the French-American then-president of DuPont...""
