@@ -18,7 +18,7 @@ _Type: People_
 ### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:16:52](/episodes/ep-ZAuuSq_j2_w.md#^t-00-16-27)
-  > "...vernment website confirms that Egyptian President el-Sisi flew on SUBTU. Remember when Candice Owens dropped that bombshell exposing that Egyptian presidential plane as t..."
+  > "...vernment website confirms that Egyptian President el-Sisi flew on SUBTU. Remember when Candace Owens dropped that bombshell exposing that Egyptian presidential plane as t..."
 
 ## Relationships
 

@@ -33,14 +33,14 @@ _Type: Organizations_
 - [00:40:13](/episodes/ep-a-e7HC6SeK8.md#^t-00-39-37)
   > "... because a unique opportunity presented itself at Turning Point USA where Tyler had begun telling people that TPUSA plans to roll out a program to build houses for fir..."
 - [00:56:37](/episodes/ep-a-e7HC6SeK8.md#^t-00-56-27)
-  > "...in this thing go down. I think that's fair. Maybe Turning Point will have some very clear answers. They haven't given us any thus far, just more attacks on Candice, mo..."
+  > "...in this thing go down. I think that's fair. Maybe Turning Point will have some very clear answers. They haven't given us any thus far, just more attacks on Candace, mo..."
 
 ### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 
 - [00:00:04](/episodes/ep-his-JBjlkh8.md#^t-00-00-00)
   > "...isode, where we went kind of for the jugular with Turning Point USA, because really I think everybody in the entire world has had enough with the non-response, trying ..."
 - [00:18:47](/episodes/ep-his-JBjlkh8.md#^t-00-18-04)
-  > "... that's stupid, not a good long-term strategy for Turning Point USA. Carry on. "The attacks and allegations from Candice are either lies, or they are innuendos thrown ..."
+  > "... that's stupid, not a good long-term strategy for Turning Point USA. Carry on. "The attacks and allegations from Candace are either lies, or they are innuendos thrown ..."
 - [00:37:17](/episodes/ep-his-JBjlkh8.md#^t-00-36-36)
   > "...ing at the live chat right now. They really think Turning Point's gonna kill me. They're like, don't go. Don't go in person. It's a setup. It's a trap. I really, guys,..."
 - [01:00:22](/episodes/ep-his-JBjlkh8.md#^t-00-59-56)
@@ -61,7 +61,7 @@ _Type: Organizations_
 ### Criticized
 
 - [Candace Owens](/entities/person-candace-owens.md)
-  - [ep-a-e7HC6SeK8 @ 00:56:40](/episodes/ep-a-e7HC6SeK8.md#^t-00-56-27): "...They haven't given us any thus far, just more attacks on Candice, more people reporting to be Christians attacking Candice, using biblical scripture."
+  - [ep-a-e7HC6SeK8 @ 00:56:40](/episodes/ep-a-e7HC6SeK8.md#^t-00-56-27): "...They haven't given us any thus far, just more attacks on Candace, more people reporting to be Christians attacking Candace, using biblical scripture."
 
 ### Referenced By
 

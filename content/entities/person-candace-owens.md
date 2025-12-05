@@ -4,14 +4,14 @@ name: "Candace Owens"
 type: "PERSON"
 aliases:
   - "Candace"
-  - "Candice"
+  - "Candace"
 ---
 
 # Candace Owens
 
 _Type: People_
 
-**Also known as:** Candace, Candice
+**Also known as:** Candace, Candace
 
 ## Mentions
 
@@ -25,7 +25,7 @@ _Type: People_
 ### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:56:40](/episodes/ep-a-e7HC6SeK8.md#^t-00-56-27)
-  > "...ticulate, as beautiful inside as outside. Candice Owens from the eyes of a 79-year-old. Thank you. I love meeting your generation, because I do think that that was..."
+  > "...ticulate, as beautiful inside as outside. Candace Owens from the eyes of a 79-year-old. Thank you. I love meeting your generation, because I do think that that was..."
 
 ### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 
@@ -49,9 +49,9 @@ _Type: People_
 
 ### Affiliated With
 
-- [Club Candice](/entities/org-club-candice.md)
-  - [ep-his-JBjlkh8 @ 00:02:57](/episodes/ep-his-JBjlkh8.md#^t-00-02-14): "[00:56:54] And you guys can now also gift someone a membership to Club Candice or the book club on our website."
-  - [ep-a-e7HC6SeK8 @ 00:54:34](/episodes/ep-a-e7HC6SeK8.md#^t-00-54-16): "[00:54:34] You can also now gift someone with a membership to Club Candice to join our book club."
+- [Club Candace](/entities/org-club-candace.md)
+  - [ep-his-JBjlkh8 @ 00:02:57](/episodes/ep-his-JBjlkh8.md#^t-00-02-14): "[00:56:54] And you guys can now also gift someone a membership to Club Candace or the book club on our website."
+  - [ep-a-e7HC6SeK8 @ 00:54:34](/episodes/ep-a-e7HC6SeK8.md#^t-00-54-16): "[00:54:34] You can also now gift someone with a membership to Club Candace to join our book club."
 - [Turning Point USA](/entities/org-turning-point-usa.md)
   - [ep-his-JBjlkh8 @ 00:07:26](/episodes/ep-his-JBjlkh8.md#^t-00-07-24): "[01:01:23] Look, I came from Turning Point USA, so you guys know that me doing this, there's an element of heartache."
 - [Home Title Lock](/entities/org-home-title-lock.md)

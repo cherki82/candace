@@ -13,7 +13,7 @@ _Type: Work_
 ### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:50:41](/episodes/ep-ZAuuSq_j2_w.md#^t-00-50-05)
-  > "...o that in your own capacity. We have that series, A Shot in the Dark, available on CandiceOwens.com for a reason, for first-time parents. It will shock you. I guess not..."
+  > "...o that in your own capacity. We have that series, A Shot in the Dark, available on CandaceOwens.com for a reason, for first-time parents. It will shock you. I guess not..."
 
 ## Relationships
 

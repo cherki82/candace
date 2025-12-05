@@ -17,7 +17,7 @@ _Type: Organizations_
 ### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:21:43](/episodes/ep-ZAuuSq_j2_w.md#^t-00-21-14)
-  > "...code Candice. Also, I want to tell you guys about Dose because the modern day diet is taking a toll on all Americans. Processed foods, hidden ingredients,..."
+  > "...code Candace. Also, I want to tell you guys about Dose because the modern day diet is taking a toll on all Americans. Processed foods, hidden ingredients,..."
 
 ## Relationships
 

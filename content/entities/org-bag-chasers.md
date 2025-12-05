@@ -17,7 +17,7 @@ _Type: Organizations_
 ### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:57:45](/episodes/ep-a-e7HC6SeK8.md#^t-00-57-13)
-  > "...ny blessings, Candice, from Anton Daniels and the Bag Chasers. Keep fighting the good fight. Snowy writes, integrity, courage, intelligence, articulate, as beaut..."
+  > "...ny blessings, Candace, from Anton Daniels and the Bag Chasers. Keep fighting the good fight. Snowy writes, integrity, courage, intelligence, articulate, as beaut..."
 
 ## Relationships
 

@@ -252,7 +252,7 @@ _Total claims: 240_
 
 ### [ep-a-e7HC6SeK8 @ 00:02:08](/episodes/ep-a-e7HC6SeK8.md#^t-00-01-30)
 
-> Comment read: "The purpose of Macron's lawsuit was that it was supposed to go nowhere because Candice was supposed to have been assassinated before the case got to court...This was their plan."
+> Comment read: "The purpose of Macron's lawsuit was that it was supposed to go nowhere because Candace was supposed to have been assassinated before the case got to court...This was their plan."
 
 **Type:** Factual
 
@@ -834,7 +834,7 @@ _Total claims: 240_
 
 ### [ep-his-JBjlkh8 @ 00:29:01](/episodes/ep-his-JBjlkh8.md#^t-00-28-45)
 
-> "In the near future, there will be a live stream here in Phoenix... If Candice is available, we would sincerely welcome her participation in that live stream at our studio here in Phoenix."
+> "In the near future, there will be a live stream here in Phoenix... If Candace is available, we would sincerely welcome her participation in that live stream at our studio here in Phoenix."
 
 **Type:** Promise
 
@@ -864,7 +864,7 @@ _Total claims: 240_
 
 ### [ep-his-JBjlkh8 @ 00:42:18](/episodes/ep-his-JBjlkh8.md#^t-00-42-06)
 
-> Question to the Pentagon: 'Does the D.O.D. have any evidence at all of a French military plot to assassinate Candice Owens?'
+> Question to the Pentagon: 'Does the D.O.D. have any evidence at all of a French military plot to assassinate Candace Owens?'
 
 **Type:** Factual
 
@@ -912,13 +912,13 @@ _Total claims: 240_
 
 ### [ep-his-JBjlkh8 @ 00:51:16](/episodes/ep-his-JBjlkh8.md#^t-00-50-53)
 
-> Rapper The Game is releasing an album that includes a track titled 'The Assassination of Candice Owens.'
+> Rapper The Game is releasing an album that includes a track titled 'The Assassination of Candace Owens.'
 
 **Type:** Factual
 
 ### [ep-his-JBjlkh8 @ 00:51:54](/episodes/ep-his-JBjlkh8.md#^t-00-51-46)
 
-> The Game said the track title 'The Assassination of Candice Owens' refers to an 'assassination of the character' and that 'the song is not about Candice.'
+> The Game said the track title 'The Assassination of Candace Owens' refers to an 'assassination of the character' and that 'the song is not about Candace.'
 
 **Type:** Factual
 
@@ -984,7 +984,7 @@ _Total claims: 240_
 
 ### [ep-his-JBjlkh8 @ 00:56:26](/episodes/ep-his-JBjlkh8.md#^t-00-56-18)
 
-> "Signed copies can only be purchased on CandiceOwens.com."
+> "Signed copies can only be purchased on CandaceOwens.com."
 
 **Type:** Factual
 

@@ -20,7 +20,7 @@ _Type: Organizations_
 ### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 
 - [00:06:37](/episodes/ep-his-JBjlkh8.md#^t-00-06-15)
-  > "... Let's keep it rolling. Candice has suggested the Utah Valley University event was unusual, and its details suggested a, quote, inside job. It was unusual. That's a fact. A..."
+  > "... Let's keep it rolling. Candace has suggested the Utah Valley University event was unusual, and its details suggested a, quote, inside job. It was unusual. That's a fact. A..."
 
 ### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 

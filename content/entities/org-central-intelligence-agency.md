@@ -17,7 +17,7 @@ _Type: Organizations_
 ### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:58:20](/episodes/ep-a-e7HC6SeK8.md#^t-00-57-57)
-  > "...the good fight. Snowy writes, integrity, courage, intelligence, articulate, as beautiful inside as outside. Candice Owens from the eyes of a 79-year-old. Thank you. I love meeti..."
+  > "...the good fight. Snowy writes, integrity, courage, intelligence, articulate, as beautiful inside as outside. Candace Owens from the eyes of a 79-year-old. Thank you. I love meeti..."
 
 ### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 

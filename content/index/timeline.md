@@ -860,7 +860,7 @@ _Total events: 147_
 
 <a id="event-2025-12-03-rapper-the-game-reportedly-releasing-a-song-titled"></a>
 
-#### 2025-12-03: Rapper The Game reportedly releasing a song titled 'The Assassination of Candice Owens'.
+#### 2025-12-03: Rapper The Game reportedly releasing a song titled 'The Assassination of Candace Owens'.
 
 **Mentioned in:**
 - [ep-his-JBjlkh8 @ 00:01:00](/episodes/ep-his-JBjlkh8.md#^t-00-00-44)
@@ -909,7 +909,7 @@ _Total events: 147_
 
 <a id="event-2025-12-03-rapper-the-game-announces-an-upcoming-album-includ"></a>
 
-#### 2025-12-03: Rapper The Game announces an upcoming album including a track titled 'The Assassination of Candice Owens'.
+#### 2025-12-03: Rapper The Game announces an upcoming album including a track titled 'The Assassination of Candace Owens'.
 
 **Mentioned in:**
 - [ep-his-JBjlkh8 @ 00:51:11](/episodes/ep-his-JBjlkh8.md#^t-00-50-53)
@@ -944,7 +944,7 @@ _Total events: 147_
 
 <a id="event-2025-12-03-signed-copies-of-candace-owens-book-available-excl"></a>
 
-#### 2025-12-03: Signed copies of Candace Owens' book available exclusively at CandiceOwens.com.
+#### 2025-12-03: Signed copies of Candace Owens' book available exclusively at CandaceOwens.com.
 
 **Mentioned in:**
 - [ep-his-JBjlkh8 @ 00:56:26](/episodes/ep-his-JBjlkh8.md#^t-00-56-18)
@@ -1075,9 +1075,9 @@ _Total events: 147_
 **Mentioned in:**
 - [ep-ZAuuSq_j2_w @ 00:37:53](/episodes/ep-ZAuuSq_j2_w.md#^t-00-37-19)
 
-<a id="event-2025-12-05-club-candice-launched-a-gift-membership-feature-on"></a>
+<a id="event-2025-12-05-club-candace-launched-a-gift-membership-feature-on"></a>
 
-#### 2025-12-05: Club Candice launched a gift-membership feature on the CandiceOwens.com website (new gifting option).
+#### 2025-12-05: Club Candace launched a gift-membership feature on the CandaceOwens.com website (new gifting option).
 
 **Mentioned in:**
 - [ep-ZAuuSq_j2_w @ 00:38:29](/episodes/ep-ZAuuSq_j2_w.md#^t-00-38-04)
@@ -1098,7 +1098,7 @@ _Total events: 147_
 
 <a id="event-2025-12-05-availability-of-the-documentary-series-a-shot-in-t"></a>
 
-#### 2025-12-05: Availability of the documentary series 'A Shot in the Dark' on CandiceOwens.com for first-time parents.
+#### 2025-12-05: Availability of the documentary series 'A Shot in the Dark' on CandaceOwens.com for first-time parents.
 
 **Mentioned in:**
 - [ep-ZAuuSq_j2_w @ 00:50:41](/episodes/ep-ZAuuSq_j2_w.md#^t-00-50-05)

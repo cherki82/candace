@@ -12,8 +12,10 @@ _Type: Work_
 
 ### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 
-- [00:01:04](/episodes/ep-his-JBjlkh8.md#^t-00-01-04)
-  > "...ho's a rapper, releasing a song that is entitled "The Assassination of Candace Owens." And I have more questions. I've got questions. Am I allowed to have questions? Welcome back to Ca..."
+- [00:01:00](/episodes/ep-his-JBjlkh8.md#^t-00-00-44)
+  > "...hose rapper is releasing a song that is entitled, The Assassination of Candace Owens. And I have more questions. I've got questions. Am I allowed to have questions? Welcome back to Can..."
+- [00:51:16](/episodes/ep-his-JBjlkh8.md#^t-00-50-53)
+  > "...rack list in this upcoming album that's entitled, The Assassination of Candace Owens. I'm having like the best year ever or something, I don't know. Why? Why? Why, The Game? Why's it g..."
 
 ## Relationships
 
