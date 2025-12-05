@@ -7,10 +7,63 @@ _Total claims: 240_
 | Metric | Count |
 |--------|-------|
 | Factual claims | 189 |
-| Verified | 0 |
-| True | 0 |
-| False | 0 |
-| Mixed | 0 |
+| Verified | 10 |
+| True | 3 |
+| False | 1 |
+| Mixed | 1 |
+
+## By Verification Status
+
+### False Claims
+
+### [ep-his-JBjlkh8 @ 00:08:49](/episodes/ep-his-JBjlkh8.md#^t-00-08-43)
+
+> Charlie Kirk's security team did not issue him first aid when he fell down after the shooting; Brian Harpole admitted the lack of first aid and said 'It was because of the severity of the injury.'
+
+**Type:** Factual
+**Veracity:** False (high)
+**Source:** [Security chief recounts on podcast harrowing moments after Charlie Kirk was shot – Deseret News](https://www.deseret.com/politics/2025/11/18/brian-harpole-moments-following-charlie-kirk-assassination/)
+**Verification Notes:** Multiple news articles, including from Deseret News, KSL.com, and the Salt Lake Tribune, report on Brian Harpole's podcast interview where he describes providing immediate first aid, such as applying pressure to the wound and using hemostatic gauze en route to the hospital. This contradicts the claim that the security team provided no first aid and that Harpole admitted to a lack of aid due to injury severity. Instead, Harpole detailed his efforts to stop bleeding despite the severe injury, which involved vertebral damage and arterial tearing, as confirmed in the reports.
+
+### Mixed Claims
+
+### [ep-his-JBjlkh8 @ 00:06:47](/episodes/ep-his-JBjlkh8.md#^t-00-06-37)
+
+> The Utah Valley University (UVU) event was unusual and came together very quickly, whereas typical Turning Point events are decided at least a semester before (and she has emails to support this).
+
+**Type:** Factual
+**Veracity:** Mixed (medium)
+**Source:** [Turning Point club told UVU it didn't expect controversial topics at Kirk event](https://www.sltrib.com/news/education/2025/11/18/turning-point-club-told-uvu-it)
+**Verification Notes:** The claim that the UVU event was unusual and organized quickly is supported by the fact that the event was scheduled for September 10, 2025, and the Turning Point club at UVU indicated they were expecting 600 attendees, which is significantly higher than the 200 attendees at a similar event at the University of Utah in April 2024. However, the claim that typical Turning Point events are decided at least a semester in advance is not directly supported or refuted by the available sources. UVU's event scheduling policies allow for event requests to be submitted beginning June 15 of the current year for events up to December 31 of the following year, but specific timelines for Turning Point events are not detailed in the provided sources.
+
+### True Claims
+
+### [ep-his-JBjlkh8 @ 00:02:31](/episodes/ep-his-JBjlkh8.md#^t-00-02-14)
+
+> Turning Point is going to commit to a live streamed event where they are apparently going to answer all of these lingering questions.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Turning Point challenges Candace Owens to live debate on Charlie Kirk murder theories – DNYUZ](https://dnyuz.com/2025/12/03/turning-point-challenges-candace-owens-to-live-debate-on-charlie-kirk-murder-theories/)
+**Verification Notes:** Multiple established news outlets, including DNYUZ, Raw Story, and The Times of India, report that Turning Point USA has publicly invited Candace Owens to a live-streamed event to debunk her conspiracy theories about Charlie Kirk, which involves addressing and answering lingering questions. Recent posts on X further indicate acceptance and ongoing discussions about the event, supporting the claim of commitment to such an event.
+
+### [ep-his-JBjlkh8 @ 00:06:24](/episodes/ep-his-JBjlkh8.md#^t-00-06-15)
+
+> Mikey McCoy jumped on Liberty University's stage for an event that was scheduled for Charlie Kirk.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Turning Point USA’s Michael McCoy honors Charlie Kirk at Liberty University Convocation](https://www.liberty.edu/news/2025/10/24/turning-point-usas-michael-mccoy-honors-charlie-kirk-at-liberty-university-convocation/)
+**Verification Notes:** Michael McCoy, Chief of Staff for Turning Point USA, spoke at Liberty University's Convocation on October 24, 2025, in place of Charlie Kirk, who was scheduled to speak but was assassinated on September 10, 2025. ([liberty.edu](https://www.liberty.edu/news/2025/10/24/turning-point-usas-michael-mccoy-honors-charlie-kirk-at-liberty-university-convocation/?utm_source=openai))
+
+### [ep-his-JBjlkh8 @ 00:09:17](/episodes/ep-his-JBjlkh8.md#^t-00-09-04)
+
+> The head of TPUSA's technical team removed an SD card from a camera at the event (a suspicious action); Andrew Colvett said the reason given was that people were stealing.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Andrew Kolvet Addresses Rumors About TPUSA Staff Seizing SD Cards Amid Shooting Investigation](https://nationalfile.com/andrew-kolvet-clarifies-tpusa-staff-sd-cards-controversy/)
+**Verification Notes:** Multiple reliable sources, including statements from Andrew Kolvet (likely misspelled as Colvett in the claim), confirm that a TPUSA staff member, described as the lead tech guy, removed SD cards from cameras after the event to prevent theft. Kolvet explained this action was taken because 'people are evil' and to ensure no one stole the footage. The 'suspicious' descriptor is interpretive, but the factual elements are supported by news articles and Kolvet's own statements.
 
 ## By Follow-up Status
 
@@ -693,54 +746,79 @@ _Total claims: 240_
 > Turning Point is going to commit to a live streamed event where they are apparently going to answer all of these lingering questions.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Turning Point challenges Candace Owens to live debate on Charlie Kirk murder theories – DNYUZ](https://dnyuz.com/2025/12/03/turning-point-challenges-candace-owens-to-live-debate-on-charlie-kirk-murder-theories/)
+**Verification Notes:** Multiple established news outlets, including DNYUZ, Raw Story, and The Times of India, report that Turning Point USA has publicly invited Candace Owens to a live-streamed event to debunk her conspiracy theories about Charlie Kirk, which involves addressing and answering lingering questions. Recent posts on X further indicate acceptance and ongoing discussions about the event, supporting the claim of commitment to such an event.
 
 ### [ep-his-JBjlkh8 @ 00:04:51](/episodes/ep-his-JBjlkh8.md#^t-00-04-35)
 
 > Mikey McCoy's wife does not work on campus events (contradicting claims she helped plan the Utah Valley University event).
 
 **Type:** Factual
+**Veracity:** Unverifiable
+**Verification Notes:** No corroborating sources found
 
 ### [ep-his-JBjlkh8 @ 00:05:36](/episodes/ep-his-JBjlkh8.md#^t-00-05-03)
 
 > Rob McCoy spent time in prison for 'trying to take photos of young girls' (characterizing his background as a sexual deviant).
 
 **Type:** Factual
+**Veracity:** Unverifiable
+**Verification Notes:** No corroborating sources found
 
 ### [ep-his-JBjlkh8 @ 00:06:24](/episodes/ep-his-JBjlkh8.md#^t-00-06-15)
 
 > Mikey McCoy jumped on Liberty University's stage for an event that was scheduled for Charlie Kirk.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Turning Point USA’s Michael McCoy honors Charlie Kirk at Liberty University Convocation](https://www.liberty.edu/news/2025/10/24/turning-point-usas-michael-mccoy-honors-charlie-kirk-at-liberty-university-convocation/)
+**Verification Notes:** Michael McCoy, Chief of Staff for Turning Point USA, spoke at Liberty University's Convocation on October 24, 2025, in place of Charlie Kirk, who was scheduled to speak but was assassinated on September 10, 2025. ([liberty.edu](https://www.liberty.edu/news/2025/10/24/turning-point-usas-michael-mccoy-honors-charlie-kirk-at-liberty-university-convocation/?utm_source=openai))
 
 ### [ep-his-JBjlkh8 @ 00:06:47](/episodes/ep-his-JBjlkh8.md#^t-00-06-37)
 
 > The Utah Valley University (UVU) event was unusual and came together very quickly, whereas typical Turning Point events are decided at least a semester before (and she has emails to support this).
 
 **Type:** Factual
+**Veracity:** Mixed (medium)
+**Source:** [Turning Point club told UVU it didn't expect controversial topics at Kirk event](https://www.sltrib.com/news/education/2025/11/18/turning-point-club-told-uvu-it)
+**Verification Notes:** The claim that the UVU event was unusual and organized quickly is supported by the fact that the event was scheduled for September 10, 2025, and the Turning Point club at UVU indicated they were expecting 600 attendees, which is significantly higher than the 200 attendees at a similar event at the University of Utah in April 2024. However, the claim that typical Turning Point events are decided at least a semester in advance is not directly supported or refuted by the available sources. UVU's event scheduling policies allow for event requests to be submitted beginning June 15 of the current year for events up to December 31 of the following year, but specific timelines for Turning Point events are not detailed in the provided sources.
 
 ### [ep-his-JBjlkh8 @ 00:07:16](/episodes/ep-his-JBjlkh8.md#^t-00-06-47)
 
 > Foreign military (Egyptian) aircraft were observed following Charlie Kirk and later TPUSA Faith events and perhaps following Erica Kirk.
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Owner of Plane at Center of Charlie Kirk ShooterConspiracy Theory Speaks Out About Online Speculation](https://people.com/owner-of-plane-at-center-of-charlie-kirk-shooting-conspiracy-speaks-out-11808572)
+**Verification Notes:** The claim appears to stem from conspiracy theories promoted by Candace Owens and others on social media, alleging Egyptian military aircraft tracked Charlie Kirk, TPUSA events, or Erika Kirk. Available sources, including news articles from established outlets like People, Hindustan Times, and The Times of India, report on these theories but provide no primary evidence, official confirmation, or verifiable flight data to support the 'following' aspect. The plane owner addressed speculation, but no reliable evidence corroborates actual tracking or following by foreign military aircraft; it remains interpretive and unsubstantiated.
 
 ### [ep-his-JBjlkh8 @ 00:08:49](/episodes/ep-his-JBjlkh8.md#^t-00-08-43)
 
 > Charlie Kirk's security team did not issue him first aid when he fell down after the shooting; Brian Harpole admitted the lack of first aid and said 'It was because of the severity of the injury.'
 
 **Type:** Factual
+**Veracity:** False (high)
+**Source:** [Security chief recounts on podcast harrowing moments after Charlie Kirk was shot – Deseret News](https://www.deseret.com/politics/2025/11/18/brian-harpole-moments-following-charlie-kirk-assassination/)
+**Verification Notes:** Multiple news articles, including from Deseret News, KSL.com, and the Salt Lake Tribune, report on Brian Harpole's podcast interview where he describes providing immediate first aid, such as applying pressure to the wound and using hemostatic gauze en route to the hospital. This contradicts the claim that the security team provided no first aid and that Harpole admitted to a lack of aid due to injury severity. Instead, Harpole detailed his efforts to stop bleeding despite the severe injury, which involved vertebral damage and arterial tearing, as confirmed in the reports.
 
 ### [ep-his-JBjlkh8 @ 00:09:17](/episodes/ep-his-JBjlkh8.md#^t-00-09-04)
 
 > The head of TPUSA's technical team removed an SD card from a camera at the event (a suspicious action); Andrew Colvett said the reason given was that people were stealing.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Andrew Kolvet Addresses Rumors About TPUSA Staff Seizing SD Cards Amid Shooting Investigation](https://nationalfile.com/andrew-kolvet-clarifies-tpusa-staff-sd-cards-controversy/)
+**Verification Notes:** Multiple reliable sources, including statements from Andrew Kolvet (likely misspelled as Colvett in the claim), confirm that a TPUSA staff member, described as the lead tech guy, removed SD cards from cameras after the event to prevent theft. Kolvet explained this action was taken because 'people are evil' and to ensure no one stole the footage. The 'suspicious' descriptor is interpretive, but the factual elements are supported by news articles and Kolvet's own statements.
 
 ### [ep-his-JBjlkh8 @ 00:10:16](/episodes/ep-his-JBjlkh8.md#^t-00-09-43)
 
 > Tyler Boyer (TPUSA staff) 'likes younger boys' and has attempted to hook up with younger men/interns after events; Candace says she can provide the intern's name and that multiple current TPUSA employees corroborated attempts.
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [N/A](N/A)
+**Verification Notes:** No reliable primary sources, news articles, or official statements were found on X/Twitter or the web to corroborate or refute the specific claim that Tyler Boyer (TPUSA staff) 'likes younger boys' or has attempted to hook up with younger men/interns after events. The claim appears to be based on personal allegations from Candace Owens, as mentioned in the podcast, but no public evidence, intern testimonies, or corroboration from current TPUSA employees has been documented in established outlets or verifiable platforms. Without access to named individuals or documented evidence, this claim remains unverifiable.
 
 ### [ep-his-JBjlkh8 @ 00:11:15](/episodes/ep-his-JBjlkh8.md#^t-00-10-58)
 
@@ -753,6 +831,8 @@ _Total claims: 240_
 > People at Turning Point USA possess text messages from Charlie Kirk the day before he died in which he wrote that he thought 'they' were going to kill him tomorrow.
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Verification Notes:** No reliable sources or evidence could be found to support or refute the claim that people at Turning Point USA possess text messages from Charlie Kirk stating he thought 'they' were going to kill him the day before his death. Searches on X/Twitter and the web, including news outlets and official statements, yielded no relevant information. Additionally, there is no record of Charlie Kirk's death as of the latest available data, which raises questions about the context or accuracy of the claim itself. Without primary or secondary sources to verify the existence of such text messages or related events, the claim remains unverifiable.
 
 ### [ep-his-JBjlkh8 @ 00:14:34](/episodes/ep-his-JBjlkh8.md#^t-00-14-26)
 

@@ -441,17 +441,17 @@ youtube_url: "https://www.youtube.com/watch?v=his-JBjlkh8"
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
-| [00:02:31](/timestamps/ep-his-JBjlkh8/t-00-02-14.md) | factual | - | Turning Point is going to commit to a live streamed event where they are apparen... |
-| [00:04:51](/timestamps/ep-his-JBjlkh8/t-00-04-35.md) | factual | - | Mikey McCoy's wife does not work on campus events (contradicting claims she help... |
-| [00:05:36](/timestamps/ep-his-JBjlkh8/t-00-05-03.md) | factual | - | Rob McCoy spent time in prison for 'trying to take photos of young girls' (chara... |
-| [00:06:24](/timestamps/ep-his-JBjlkh8/t-00-06-15.md) | factual | - | Mikey McCoy jumped on Liberty University's stage for an event that was scheduled... |
-| [00:06:47](/timestamps/ep-his-JBjlkh8/t-00-06-37.md) | factual | - | The Utah Valley University (UVU) event was unusual and came together very quickl... |
-| [00:07:16](/timestamps/ep-his-JBjlkh8/t-00-06-47.md) | factual | - | Foreign military (Egyptian) aircraft were observed following Charlie Kirk and la... |
-| [00:08:49](/timestamps/ep-his-JBjlkh8/t-00-08-43.md) | factual | - | Charlie Kirk's security team did not issue him first aid when he fell down after... |
-| [00:09:17](/timestamps/ep-his-JBjlkh8/t-00-09-04.md) | factual | - | The head of TPUSA's technical team removed an SD card from a camera at the event... |
-| [00:10:16](/timestamps/ep-his-JBjlkh8/t-00-09-43.md) | factual | - | Tyler Boyer (TPUSA staff) 'likes younger boys' and has attempted to hook up with... |
+| [00:02:31](/timestamps/ep-his-JBjlkh8/t-00-02-14.md) | factual | True | Turning Point is going to commit to a live streamed event where they are apparen... |
+| [00:04:51](/timestamps/ep-his-JBjlkh8/t-00-04-35.md) | factual | Unverifiable | Mikey McCoy's wife does not work on campus events (contradicting claims she help... |
+| [00:05:36](/timestamps/ep-his-JBjlkh8/t-00-05-03.md) | factual | Unverifiable | Rob McCoy spent time in prison for 'trying to take photos of young girls' (chara... |
+| [00:06:24](/timestamps/ep-his-JBjlkh8/t-00-06-15.md) | factual | True | Mikey McCoy jumped on Liberty University's stage for an event that was scheduled... |
+| [00:06:47](/timestamps/ep-his-JBjlkh8/t-00-06-37.md) | factual | Mixed | The Utah Valley University (UVU) event was unusual and came together very quickl... |
+| [00:07:16](/timestamps/ep-his-JBjlkh8/t-00-06-47.md) | factual | Unverifiable | Foreign military (Egyptian) aircraft were observed following Charlie Kirk and la... |
+| [00:08:49](/timestamps/ep-his-JBjlkh8/t-00-08-43.md) | factual | False | Charlie Kirk's security team did not issue him first aid when he fell down after... |
+| [00:09:17](/timestamps/ep-his-JBjlkh8/t-00-09-04.md) | factual | True | The head of TPUSA's technical team removed an SD card from a camera at the event... |
+| [00:10:16](/timestamps/ep-his-JBjlkh8/t-00-09-43.md) | factual | Unverifiable | Tyler Boyer (TPUSA staff) 'likes younger boys' and has attempted to hook up with... |
 | [00:11:15](/timestamps/ep-his-JBjlkh8/t-00-10-58.md) | interpretive | - | The history of Calvary Chapel shows evidence of a militant/CIA effort to infiltr... |
-| [00:12:28](/timestamps/ep-his-JBjlkh8/t-00-12-21.md) | factual | - | People at Turning Point USA possess text messages from Charlie Kirk the day befo... |
+| [00:12:28](/timestamps/ep-his-JBjlkh8/t-00-12-21.md) | factual | Unverifiable | People at Turning Point USA possess text messages from Charlie Kirk the day befo... |
 | [00:14:34](/timestamps/ep-his-JBjlkh8/t-00-14-26.md) | factual | - | There is financial impropriety at Turning Point USA: millions of dollars (she re... |
 | [00:16:45](/timestamps/ep-his-JBjlkh8/t-00-16-14.md) | interpretive | - | Charlie could not have been establishing a 'Doge' department for the last five y... |
 | [00:16:49](/timestamps/ep-his-JBjlkh8/t-00-16-14.md) | factual | - | Egyptian Air Force planes flew out of Provo, Utah (i.e., Egyptian planes were op... |
