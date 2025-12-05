@@ -22,7 +22,7 @@ _Type: Organizations_
 ### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:35:57](/episodes/ep-ZAuuSq_j2_w.md#^t-00-35-53)
-  > "...eal. Use code CANDICE10 for 10% off your order at NIMESKINCARE.COM. That's NIMESKINCARE.COM, and do not wait. Get your skin the care that it needs this winter. Treat ..."
+  > "...eal. Use code CANDACE10 for 10% off your order at NIMESKINCARE.COM. That's NIMESKINCARE.COM, and do not wait. Get your skin the care that it needs this winter. Treat ..."
 
 ### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 
