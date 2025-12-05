@@ -1,12 +1,12 @@
 # Claims Index
 
-_Total claims: 48_
+_Total claims: 52_
 
 ## Verification Summary
 
 | Metric | Count |
 |--------|-------|
-| Factual claims | 33 |
+| Factual claims | 40 |
 | Verified | 0 |
 | True | 0 |
 | False | 0 |
@@ -16,81 +16,123 @@ _Total claims: 48_
 
 ### Open Claims
 
-### [ep-his-JBjlkh8 @ 00:00:25](/episodes/ep-his-JBjlkh8.md#^t-00-00-00)
+### [ep-his-JBjlkh8 @ 00:05:36](/episodes/ep-his-JBjlkh8.md#^t-00-05-03)
 
-> Turning Point has moved to formally respond to all the things that we have said. And after a very long diatribe in which they wildly misrepresent the public and global investigation of Charlie Kirk's assassination, they at long last issued a public invitation or a challenge.
-
-**Type:** Factual
-
-### [ep-his-JBjlkh8 @ 00:02:31](/episodes/ep-his-JBjlkh8.md#^t-00-02-14)
-
-> Turning Point is going to commit to a live streamed event where they are apparently going to answer all of these lingering questions.
-
-**Type:** Promise
-
-### [ep-his-JBjlkh8 @ 00:04:46](/episodes/ep-his-JBjlkh8.md#^t-00-04-35)
-
-> She has suggested Michael is not his real name. It is. I have seen his birth certificate myself.
+> Rob McCoy tried to sanitize someone who spent time in prison for being a sexual deviant, for trying to take photos of young girls.
 
 **Type:** Factual
 
-### [ep-his-JBjlkh8 @ 00:05:03](/episodes/ep-his-JBjlkh8.md#^t-00-04-35)
+### [ep-his-JBjlkh8 @ 00:06:15](/episodes/ep-his-JBjlkh8.md#^t-00-05-36)
 
-> She has called it suspicious that Mikey's wife, who works at Turning Point, helped plan the campus tour event where Charlie was murdered, which she didn't, by the way. She doesn't work on campus events.
-
-**Type:** Factual
-
-### [ep-his-JBjlkh8 @ 00:06:37](/episodes/ep-his-JBjlkh8.md#^t-00-06-15)
-
-> Candace has suggested the Utah Valley University event was unusual, and its details suggested a, quote, inside job.
+> Rob McCoy spoke about Charlie's notebooks and how Mikey McCoy was talented.
 
 **Type:** Factual
 
-### [ep-his-JBjlkh8 @ 00:06:47](/episodes/ep-his-JBjlkh8.md#^t-00-06-37)
+### [ep-his-JBjlkh8 @ 00:06:24](/episodes/ep-his-JBjlkh8.md#^t-00-06-15)
 
-> It was unusual. That's a fact. And you can quote me on that because I worked for Turning Point USA, and I went on every tour, every tour since 2019. And typically those events are decided at least the semester before. This came together very quickly. It is unusual.
-
-**Type:** Factual
-
-### [ep-his-JBjlkh8 @ 00:08:35](/episodes/ep-his-JBjlkh8.md#^t-00-08-26)
-
-> She has suggested Charlie's security team intentionally denied him first aid after the shooting to ensure that he died.
+> Mikey McCoy jumped on Liberty University's stage for an event that was scheduled for Charlie Kirk.
 
 **Type:** Factual
 
-### [ep-his-JBjlkh8 @ 00:09:26](/episodes/ep-his-JBjlkh8.md#^t-00-09-04)
+### [ep-his-JBjlkh8 @ 00:06:59](/episodes/ep-his-JBjlkh8.md#^t-00-06-47)
 
-> She has spread absurd claims that Tyler Boyer, who we just had on the show, sexually abuses male interns.
+> The Utah Valley University event came together very quickly, unlike typical TPUSA events which are decided at least the semester before.
+
+**Type:** Factual
+
+### [ep-his-JBjlkh8 @ 00:07:38](/episodes/ep-his-JBjlkh8.md#^t-00-07-24)
+
+> Strange Egyptian jets were following Charlie Kirk and tracking TPUSA Faith events, following Erica Kirk many more times.
+
+**Type:** Factual
+
+### [ep-his-JBjlkh8 @ 00:08:49](/episodes/ep-his-JBjlkh8.md#^t-00-08-43)
+
+> Charlie's security team did not issue him first aid when he fell down after the shooting.
+
+**Type:** Factual
+
+### [ep-his-JBjlkh8 @ 00:09:02](/episodes/ep-his-JBjlkh8.md#^t-00-08-43)
+
+> Brian Harpole said it was because of the severity of the injury.
+
+**Type:** Factual
+
+### [ep-his-JBjlkh8 @ 00:10:22](/episodes/ep-his-JBjlkh8.md#^t-00-09-43)
+
+> Tyler Boyer hooked up with a younger intern and tried to hook up with young men currently working for Turning Point USA.
 
 **Type:** Factual
 
 ### [ep-his-JBjlkh8 @ 00:11:15](/episodes/ep-his-JBjlkh8.md#^t-00-10-58)
 
-> I do believe the Calvary Chapel, their history with Chuck Smith, the evidence that it was a militant CIA effort to infiltrate the Christian faith and to tie the Christian faith to the political ideology of Zionism.
+> Calvary Chapel, through its history with Chuck Smith, was a militant CIA effort to infiltrate the Christian faith and tie it to the political ideology of Zionism.
 
 **Type:** Interpretive
 
-### [ep-his-JBjlkh8 @ 00:12:32](/episodes/ep-his-JBjlkh8.md#^t-00-12-21)
+### [ep-his-JBjlkh8 @ 00:12:28](/episodes/ep-his-JBjlkh8.md#^t-00-12-21)
 
-> People at Turning Point USA are in possession of text messages the day before Charlie died, in which he wrote out to you, and not just to people that work at Turning Point USA, but also security guards, that he thought that they were going to kill him tomorrow, explicitly.
+> Charlie Kirk sent text messages the day before he died to people at Turning Point USA and security guards, saying he thought they were going to kill him tomorrow.
 
 **Type:** Factual
 
-### [ep-his-JBjlkh8 @ 00:14:26](/episodes/ep-his-JBjlkh8.md#^t-00-13-48)
+### [ep-his-JBjlkh8 @ 00:13:11](/episodes/ep-his-JBjlkh8.md#^t-00-13-03)
 
-> She has made claims of financial impropriety and fraud at Turning Point, adding up into the millions of dollars, which again is not true. Charlie made sure the organization was audited by a third party every year. He personally reviewed, and he signed off on every expense report and literally every single bill paid by the organization, down to a single United States dollar. We have never missed a 990 deadline.
+> Josh Hammer said this never happened, Charlie never blinked on Israel.
+
+**Type:** Factual
+
+### [ep-his-JBjlkh8 @ 00:15:05](/episodes/ep-his-JBjlkh8.md#^t-00-14-53)
+
+> Turning Point USA is evaporating millions of dollars into various LLCs that have names associated with the organization.
 
 **Type:** Factual
 
 ### [ep-his-JBjlkh8 @ 00:15:43](/episodes/ep-his-JBjlkh8.md#^t-00-15-32)
 
-> Charlie's explicit request to put together a Doge department seven days before he died.
+> Charlie Kirk made an explicit request to put together a DOGE department seven days before he died.
 
 **Type:** Factual
 
-### [ep-his-JBjlkh8 @ 00:17:02](/episodes/ep-his-JBjlkh8.md#^t-00-16-49)
+### [ep-his-JBjlkh8 @ 00:16:32](/episodes/ep-his-JBjlkh8.md#^t-00-16-14)
 
-> Candace has made other stranger allegations involving French paratroopers in maroon shirts, Egyptian Air Force planes flying out of Provo, Utah, and potential underground assassins traveling through unseen tunnels.
+> DOGE is a very new concept as of 2025, put into place by Donald Trump with Elon Musk and Vivek Ramaswamy.
+
+**Type:** Factual
+
+### [ep-his-JBjlkh8 @ 00:17:41](/episodes/ep-his-JBjlkh8.md#^t-00-17-22)
+
+> The Saudi king was on this Egyptian plane at some point in 2023.
+
+**Type:** Factual
+
+### [ep-his-JBjlkh8 @ 00:04:46](/episodes/ep-his-JBjlkh8.md#^t-00-04-35)
+
+> Michael is Mikey McCoy's real name; I have seen his birth certificate myself.
+
+**Type:** Factual
+
+### [ep-his-JBjlkh8 @ 00:04:51](/episodes/ep-his-JBjlkh8.md#^t-00-04-35)
+
+> Mikey McCoy's wife did not help plan the campus tour event where Charlie was murdered; she doesn't work on campus events.
+
+**Type:** Factual
+
+### [ep-his-JBjlkh8 @ 00:14:34](/episodes/ep-his-JBjlkh8.md#^t-00-14-26)
+
+> Charlie Kirk made sure the organization was audited by a third party every year.
+
+**Type:** Factual
+
+### [ep-his-JBjlkh8 @ 00:14:38](/episodes/ep-his-JBjlkh8.md#^t-00-14-26)
+
+> Charlie Kirk personally reviewed and signed off on every expense report and every single bill paid by the organization, down to a single United States dollar.
+
+**Type:** Factual
+
+### [ep-his-JBjlkh8 @ 00:14:49](/episodes/ep-his-JBjlkh8.md#^t-00-14-26)
+
+> Turning Point USA has never missed a 990 deadline.
 
 **Type:** Factual
 
@@ -106,21 +148,15 @@ _Total claims: 48_
 
 **Type:** Promise
 
-### [ep-his-JBjlkh8 @ 00:21:43](/episodes/ep-his-JBjlkh8.md#^t-00-21-20)
-
-> We shouldn't have to answer questions about secret tunnels or Egyptian Air Force planes.
-
-**Type:** Factual
-
 ### [ep-his-JBjlkh8 @ 00:23:43](/episodes/ep-his-JBjlkh8.md#^t-00-23-08)
 
-> Why the hell were these jets around Turning Point way before, years before, Charlie's assassination?
+> why the hell were these jets around Turning Point way before, years before, Charlie's assassination?
 
 **Type:** Factual
 
 ### [ep-his-JBjlkh8 @ 00:26:22](/episodes/ep-his-JBjlkh8.md#^t-00-25-49)
 
-> They were selling kit of what Charlie died in to the tune of 80 million plus dollars that they made in the first three weeks.
+> they were selling kit of what Charlie died in to the tune of 80 million plus dollars that they made in the first three weeks.
 
 **Type:** Factual
 
@@ -144,79 +180,67 @@ _Total claims: 48_
 
 ### [ep-his-JBjlkh8 @ 00:32:29](/episodes/ep-his-JBjlkh8.md#^t-00-32-11)
 
-> Charlie texting you guys and saying that he thought he was going to be assassinated that very next day.
+> Charlie texting you guys and saying that he thought he was going to be assassinated that very next day
 
 **Type:** Factual
 
 ### [ep-his-JBjlkh8 @ 00:34:16](/episodes/ep-his-JBjlkh8.md#^t-00-33-39)
 
-> You can pick the place, you can pick the time. I say we do it tomorrow.
+> I say we do it tomorrow.
 
 **Type:** Promise
 
 ### [ep-his-JBjlkh8 @ 00:39:08](/episodes/ep-his-JBjlkh8.md#^t-00-38-41)
 
-> Laura Loomer once handcuffed herself to the Twitter headquarters because they banned her account
-
-**Type:** Factual
-
-### [ep-his-JBjlkh8 @ 00:39:11](/episodes/ep-his-JBjlkh8.md#^t-00-38-41)
-
-> Laura Loomer wore the yellow Star of David
+> she once handcuffed herself to the Twitter headquarters because they banned her account... and she wore the yellow Star of David
 
 **Type:** Factual
 
 ### [ep-his-JBjlkh8 @ 00:39:20](/episodes/ep-his-JBjlkh8.md#^t-00-38-41)
 
-> Laura Loomer is not allowed to own a gun because of various psychotic events that required her hospitalization
-
-**Type:** Factual
-
-### [ep-his-JBjlkh8 @ 00:39:54](/episodes/ep-his-JBjlkh8.md#^t-00-39-20)
-
-> Laura Loomer hated Charlie Kirk when he was alive and now wants everyone to honor him by not prodding the narrative surrounding his death
+> she is apparently not allowed to own a gun because of various psychotic events that required her hospitalization
 
 **Type:** Factual
 
 ### [ep-his-JBjlkh8 @ 00:40:02](/episodes/ep-his-JBjlkh8.md#^t-00-39-20)
 
-> A couple of weeks before Charlie Kirk died, Laura Loomer called him a charlatan, a political opportunist, that he wasn't pro-Trump
+> Literally a couple of weeks before he died, she called Charlie a charlatan, a political opportunist, that he wasn't pro-Trump, simply because he hosted Dave Smith
 
 **Type:** Factual
 
 ### [ep-his-JBjlkh8 @ 00:41:04](/episodes/ep-his-JBjlkh8.md#^t-00-40-39)
 
-> The French Foreign Legion were apparently on the ground on the day of Charlie Kirk's assassination
+> the French Foreign Legion were apparently on the ground on the day of Charlie Kirk's assassination
 
 **Type:** Factual
 
-### [ep-his-JBjlkh8 @ 00:41:15](/episodes/ep-his-JBjlkh8.md#^t-00-40-39)
+### [ep-his-JBjlkh8 @ 00:41:41](/episodes/ep-his-JBjlkh8.md#^t-00-41-15)
 
-> Charlie Kirk's assassination is the biggest political assassination that has taken place since JFK
+> the biggest political assassination that has taken place since JFK
 
 **Type:** Interpretive
 
-### [ep-his-JBjlkh8 @ 00:42:18](/episodes/ep-his-JBjlkh8.md#^t-00-42-06)
-
-> Does the D.O.D. have any evidence at all of a French military plot to assassinate Candace Owens?
-
-**Type:** Factual
-
-### [ep-his-JBjlkh8 @ 00:43:02](/episodes/ep-his-JBjlkh8.md#^t-00-42-19)
-
-> Not that I'm aware of [evidence of a French military plot to assassinate Candace Owens], but you know, interesting question. I can try to find out and maybe let you know. I think that might be more of a law enforcement matter though
-
-**Type:** Factual
-
 ### [ep-his-JBjlkh8 @ 00:44:33](/episodes/ep-his-JBjlkh8.md#^t-00-44-11)
 
-> The president of France allegedly paid $1.5 million for my assassination
+> the president of France allegedly paid $1.5 million for my assassination
 
 **Type:** Factual
 
-### [ep-his-JBjlkh8 @ 00:44:41](/episodes/ep-his-JBjlkh8.md#^t-00-44-11)
+### [ep-his-JBjlkh8 @ 00:45:40](/episodes/ep-his-JBjlkh8.md#^t-00-44-57)
 
-> I have evidence they had French Foreign Legion on the ground the day that Charlie got assassinated
+> we just watched Trump get shot at and his ear clipped
+
+**Type:** Factual
+
+### [ep-his-JBjlkh8 @ 00:45:46](/episodes/ep-his-JBjlkh8.md#^t-00-45-41)
+
+> We just watched another person try to assassinate Trump on the golf field
+
+**Type:** Factual
+
+### [ep-his-JBjlkh8 @ 00:45:48](/episodes/ep-his-JBjlkh8.md#^t-00-45-41)
+
+> we watched Charlie Kirk die publicly
 
 **Type:** Factual
 
@@ -228,13 +252,13 @@ _Total claims: 48_
 
 ### [ep-his-JBjlkh8 @ 00:49:16](/episodes/ep-his-JBjlkh8.md#^t-00-49-01)
 
-> There is just like a six-day gap in Brigitte's schedule [during the dates that the Egyptian plane was flying around America]
+> we can't find the answer as to where Brigitte Macron was on the dates that the Egyptian plane was flying around America. It's just like a six-day gap in Brigitte's schedule
 
 **Type:** Factual
 
 ### [ep-his-JBjlkh8 @ 00:49:54](/episodes/ep-his-JBjlkh8.md#^t-00-49-40)
 
-> An hour and a half before Charlie Kirk was assassinated in Utah, Donald Trump and Emmanuel Macron had a phone call that has been recorded in Emmanuel Macron's public calendar
+> an hour and a half before Charlie Kirk was assassinated in Utah, Donald Trump and Emmanuel Macron had a phone call that has been recorded in Emmanuel Macron's public calendar
 
 **Type:** Factual
 
@@ -243,18 +267,6 @@ _Total claims: 48_
 > The Game, who is a hip hop rapper, is releasing an album, and he has a song on his track list in this upcoming album that's entitled, The Assassination of Candace Owens
 
 **Type:** Factual
-
-### [ep-his-JBjlkh8 @ 00:51:54](/episodes/ep-his-JBjlkh8.md#^t-00-51-46)
-
-> Recently, I've been seeing conspiracy theories about Candace Owens from herself, self-admitted. She feels like people are conspiring [against] her
-
-**Type:** Factual
-
-### [ep-his-JBjlkh8 @ 00:52:01](/episodes/ep-his-JBjlkh8.md#^t-00-51-46)
-
-> What it was is more so an assassination of the character. So I just used that because it was current news, but the song is not about Candace
-
-**Type:** Interpretive
 
 ### [ep-his-JBjlkh8 @ 00:57:53](/episodes/ep-his-JBjlkh8.md#^t-00-57-46)
 
@@ -270,7 +282,7 @@ _Total claims: 48_
 
 ### [ep-his-JBjlkh8 @ 00:58:37](/episodes/ep-his-JBjlkh8.md#^t-00-58-28)
 
-> That's why they want people to have less children, is because they want to increase their numbers while decreasing ours
+> that's why they want people to have less children, is because they want to increase their numbers while decreasing ours
 
 **Type:** Interpretive
 
@@ -280,25 +292,37 @@ _Total claims: 48_
 
 **Type:** Factual
 
+### [ep-his-JBjlkh8 @ 01:01:02](/episodes/ep-his-JBjlkh8.md#^t-01-00-40)
+
+> he said, 'I owe everything to Charlie'
+
+**Type:** Factual
+
 ### [ep-his-JBjlkh8 @ 01:01:42](/episodes/ep-his-JBjlkh8.md#^t-01-01-23)
 
 > I contributed greatly to Turning Point USA's success, and they would never deny that
 
 **Type:** Factual
 
-### [ep-his-JBjlkh8 @ 01:04:03](/episodes/ep-his-JBjlkh8.md#^t-01-03-25)
+### [ep-his-JBjlkh8 @ 01:03:01](/episodes/ep-his-JBjlkh8.md#^t-01-02-45)
 
-> To this day, the best interview that we have ever given. We were all—you could feel a spiritual movement in this room when we interviewed Phil Turney of the USS Liberty
+> Kanye said 'if you're a fan of Kanye West, you're not a fan of Kanye West. You're actually a fan of yourself. You believe in yourself and you think that you can do something in this world'
 
-**Type:** Interpretive
+**Type:** Factual
+
+### [ep-his-JBjlkh8 @ 01:04:00](/episodes/ep-his-JBjlkh8.md#^t-01-03-25)
+
+> we interviewed Phil Tourney of the USS Liberty
+
+**Type:** Factual
 
 ### [ep-his-JBjlkh8 @ 01:05:03](/episodes/ep-his-JBjlkh8.md#^t-01-04-46)
 
-> Like I said, I'll do this tomorrow
+> I'll do this tomorrow. We can live stream this
 
 **Type:** Promise
 
-### [ep-his-JBjlkh8 @ 01:05:12](/episodes/ep-his-JBjlkh8.md#^t-01-04-46)
+### [ep-his-JBjlkh8 @ 01:05:20](/episodes/ep-his-JBjlkh8.md#^t-01-04-46)
 
 > we can have the money go to Turning Point USA, every dollar that's raised I would gladly sacrifice that to the organization
 

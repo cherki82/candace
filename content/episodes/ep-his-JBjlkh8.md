@@ -9,7 +9,7 @@ youtube_url: "https://www.youtube.com/watch?v=his-JBjlkh8"
 
 **Published:** 2025-12-03 | [Watch on YouTube](https://www.youtube.com/watch?v=his-JBjlkh8)
 
-**Stats:** 86 entities | 34 events | 48 claims
+**Stats:** 86 entities | 34 events | 52 claims
 
 ---
 
@@ -441,54 +441,58 @@ youtube_url: "https://www.youtube.com/watch?v=his-JBjlkh8"
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
-| [00:00:25](/timestamps/ep-his-JBjlkh8/t-00-00-00.md) | factual | - | Turning Point has moved to formally respond to all the things that we have said.... |
-| [00:02:31](/timestamps/ep-his-JBjlkh8/t-00-02-14.md) | promise | - | Turning Point is going to commit to a live streamed event where they are apparen... |
-| [00:04:46](/timestamps/ep-his-JBjlkh8/t-00-04-35.md) | factual | - | She has suggested Michael is not his real name. It is. I have seen his birth cer... |
-| [00:05:03](/timestamps/ep-his-JBjlkh8/t-00-04-35.md) | factual | - | She has called it suspicious that Mikey's wife, who works at Turning Point, help... |
-| [00:06:37](/timestamps/ep-his-JBjlkh8/t-00-06-15.md) | factual | - | Candace has suggested the Utah Valley University event was unusual, and its deta... |
-| [00:06:47](/timestamps/ep-his-JBjlkh8/t-00-06-37.md) | factual | - | It was unusual. That's a fact. And you can quote me on that because I worked for... |
-| [00:08:35](/timestamps/ep-his-JBjlkh8/t-00-08-26.md) | factual | - | She has suggested Charlie's security team intentionally denied him first aid aft... |
-| [00:09:26](/timestamps/ep-his-JBjlkh8/t-00-09-04.md) | factual | - | She has spread absurd claims that Tyler Boyer, who we just had on the show, sexu... |
-| [00:11:15](/timestamps/ep-his-JBjlkh8/t-00-10-58.md) | interpretive | - | I do believe the Calvary Chapel, their history with Chuck Smith, the evidence th... |
-| [00:12:32](/timestamps/ep-his-JBjlkh8/t-00-12-21.md) | factual | - | People at Turning Point USA are in possession of text messages the day before Ch... |
-| [00:14:26](/timestamps/ep-his-JBjlkh8/t-00-13-48.md) | factual | - | She has made claims of financial impropriety and fraud at Turning Point, adding ... |
-| [00:15:43](/timestamps/ep-his-JBjlkh8/t-00-15-32.md) | factual | - | Charlie's explicit request to put together a Doge department seven days before h... |
-| [00:17:02](/timestamps/ep-his-JBjlkh8/t-00-16-49.md) | factual | - | Candace has made other stranger allegations involving French paratroopers in mar... |
+| [00:04:46](/timestamps/ep-his-JBjlkh8/t-00-04-35.md) | factual | - | Michael is Mikey McCoy's real name; I have seen his birth certificate myself. |
+| [00:04:51](/timestamps/ep-his-JBjlkh8/t-00-04-35.md) | factual | - | Mikey McCoy's wife did not help plan the campus tour event where Charlie was mur... |
+| [00:05:36](/timestamps/ep-his-JBjlkh8/t-00-05-03.md) | factual | - | Rob McCoy tried to sanitize someone who spent time in prison for being a sexual ... |
+| [00:06:15](/timestamps/ep-his-JBjlkh8/t-00-05-36.md) | factual | - | Rob McCoy spoke about Charlie's notebooks and how Mikey McCoy was talented. |
+| [00:06:24](/timestamps/ep-his-JBjlkh8/t-00-06-15.md) | factual | - | Mikey McCoy jumped on Liberty University's stage for an event that was scheduled... |
+| [00:06:59](/timestamps/ep-his-JBjlkh8/t-00-06-47.md) | factual | - | The Utah Valley University event came together very quickly, unlike typical TPUS... |
+| [00:07:38](/timestamps/ep-his-JBjlkh8/t-00-07-24.md) | factual | - | Strange Egyptian jets were following Charlie Kirk and tracking TPUSA Faith event... |
+| [00:08:49](/timestamps/ep-his-JBjlkh8/t-00-08-43.md) | factual | - | Charlie's security team did not issue him first aid when he fell down after the ... |
+| [00:09:02](/timestamps/ep-his-JBjlkh8/t-00-08-43.md) | factual | - | Brian Harpole said it was because of the severity of the injury. |
+| [00:10:22](/timestamps/ep-his-JBjlkh8/t-00-09-43.md) | factual | - | Tyler Boyer hooked up with a younger intern and tried to hook up with young men ... |
+| [00:11:15](/timestamps/ep-his-JBjlkh8/t-00-10-58.md) | interpretive | - | Calvary Chapel, through its history with Chuck Smith, was a militant CIA effort ... |
+| [00:12:28](/timestamps/ep-his-JBjlkh8/t-00-12-21.md) | factual | - | Charlie Kirk sent text messages the day before he died to people at Turning Poin... |
+| [00:13:11](/timestamps/ep-his-JBjlkh8/t-00-13-03.md) | factual | - | Josh Hammer said this never happened, Charlie never blinked on Israel. |
+| [00:14:34](/timestamps/ep-his-JBjlkh8/t-00-14-26.md) | factual | - | Charlie Kirk made sure the organization was audited by a third party every year. |
+| [00:14:38](/timestamps/ep-his-JBjlkh8/t-00-14-26.md) | factual | - | Charlie Kirk personally reviewed and signed off on every expense report and ever... |
+| [00:14:49](/timestamps/ep-his-JBjlkh8/t-00-14-26.md) | factual | - | Turning Point USA has never missed a 990 deadline. |
+| [00:15:05](/timestamps/ep-his-JBjlkh8/t-00-14-53.md) | factual | - | Turning Point USA is evaporating millions of dollars into various LLCs that have... |
+| [00:15:43](/timestamps/ep-his-JBjlkh8/t-00-15-32.md) | factual | - | Charlie Kirk made an explicit request to put together a DOGE department seven da... |
+| [00:16:32](/timestamps/ep-his-JBjlkh8/t-00-16-14.md) | factual | - | DOGE is a very new concept as of 2025, put into place by Donald Trump with Elon ... |
+| [00:17:41](/timestamps/ep-his-JBjlkh8/t-00-17-22.md) | factual | - | The Saudi king was on this Egyptian plane at some point in 2023. |
 | [00:18:34](/timestamps/ep-his-JBjlkh8/t-00-18-04.md) | prediction | - | They are going to, I will guarantee you, represent a military unit somewhere. |
 | [00:18:39](/timestamps/ep-his-JBjlkh8/t-00-18-04.md) | promise | - | I'm very close to figuring out exactly which military unit that was. |
-| [00:21:43](/timestamps/ep-his-JBjlkh8/t-00-21-20.md) | factual | - | We shouldn't have to answer questions about secret tunnels or Egyptian Air Force... |
-| [00:23:43](/timestamps/ep-his-JBjlkh8/t-00-23-08.md) | factual | - | Why the hell were these jets around Turning Point way before, years before, Char... |
-| [00:26:22](/timestamps/ep-his-JBjlkh8/t-00-25-49.md) | factual | - | They were selling kit of what Charlie died in to the tune of 80 million plus dol... |
+| [00:23:43](/timestamps/ep-his-JBjlkh8/t-00-23-08.md) | factual | - | why the hell were these jets around Turning Point way before, years before, Char... |
+| [00:26:22](/timestamps/ep-his-JBjlkh8/t-00-25-49.md) | factual | - | they were selling kit of what Charlie died in to the tune of 80 million plus dol... |
 | [00:26:31](/timestamps/ep-his-JBjlkh8/t-00-25-49.md) | factual | - | They made their entire budget for the year in the first couple of weeks followin... |
 | [00:29:01](/timestamps/ep-his-JBjlkh8/t-00-28-45.md) | promise | - | In the near future, there will be a live stream here in Phoenix, where we addres... |
 | [00:29:19](/timestamps/ep-his-JBjlkh8/t-00-28-45.md) | promise | - | If Candace is available, we would sincerely welcome her participation in that li... |
 | [00:32:29](/timestamps/ep-his-JBjlkh8/t-00-32-11.md) | factual | - | Charlie texting you guys and saying that he thought he was going to be assassina... |
-| [00:34:16](/timestamps/ep-his-JBjlkh8/t-00-33-39.md) | promise | - | You can pick the place, you can pick the time. I say we do it tomorrow. |
-| [00:39:08](/timestamps/ep-his-JBjlkh8/t-00-38-41.md) | factual | - | Laura Loomer once handcuffed herself to the Twitter headquarters because they ba... |
-| [00:39:11](/timestamps/ep-his-JBjlkh8/t-00-38-41.md) | factual | - | Laura Loomer wore the yellow Star of David |
-| [00:39:20](/timestamps/ep-his-JBjlkh8/t-00-38-41.md) | factual | - | Laura Loomer is not allowed to own a gun because of various psychotic events tha... |
-| [00:39:54](/timestamps/ep-his-JBjlkh8/t-00-39-20.md) | factual | - | Laura Loomer hated Charlie Kirk when he was alive and now wants everyone to hono... |
-| [00:40:02](/timestamps/ep-his-JBjlkh8/t-00-39-20.md) | factual | - | A couple of weeks before Charlie Kirk died, Laura Loomer called him a charlatan,... |
-| [00:41:04](/timestamps/ep-his-JBjlkh8/t-00-40-39.md) | factual | - | The French Foreign Legion were apparently on the ground on the day of Charlie Ki... |
-| [00:41:15](/timestamps/ep-his-JBjlkh8/t-00-40-39.md) | interpretive | - | Charlie Kirk's assassination is the biggest political assassination that has tak... |
-| [00:42:18](/timestamps/ep-his-JBjlkh8/t-00-42-06.md) | factual | - | Does the D.O.D. have any evidence at all of a French military plot to assassinat... |
-| [00:43:02](/timestamps/ep-his-JBjlkh8/t-00-42-19.md) | factual | - | Not that I'm aware of [evidence of a French military plot to assassinate Candace... |
-| [00:44:33](/timestamps/ep-his-JBjlkh8/t-00-44-11.md) | factual | - | The president of France allegedly paid $1.5 million for my assassination |
-| [00:44:41](/timestamps/ep-his-JBjlkh8/t-00-44-11.md) | factual | - | I have evidence they had French Foreign Legion on the ground the day that Charli... |
+| [00:34:16](/timestamps/ep-his-JBjlkh8/t-00-33-39.md) | promise | - | I say we do it tomorrow. |
+| [00:39:08](/timestamps/ep-his-JBjlkh8/t-00-38-41.md) | factual | - | she once handcuffed herself to the Twitter headquarters because they banned her ... |
+| [00:39:20](/timestamps/ep-his-JBjlkh8/t-00-38-41.md) | factual | - | she is apparently not allowed to own a gun because of various psychotic events t... |
+| [00:40:02](/timestamps/ep-his-JBjlkh8/t-00-39-20.md) | factual | - | Literally a couple of weeks before he died, she called Charlie a charlatan, a po... |
+| [00:41:04](/timestamps/ep-his-JBjlkh8/t-00-40-39.md) | factual | - | the French Foreign Legion were apparently on the ground on the day of Charlie Ki... |
+| [00:41:41](/timestamps/ep-his-JBjlkh8/t-00-41-15.md) | interpretive | - | the biggest political assassination that has taken place since JFK |
+| [00:44:33](/timestamps/ep-his-JBjlkh8/t-00-44-11.md) | factual | - | the president of France allegedly paid $1.5 million for my assassination |
+| [00:45:40](/timestamps/ep-his-JBjlkh8/t-00-44-57.md) | factual | - | we just watched Trump get shot at and his ear clipped |
+| [00:45:46](/timestamps/ep-his-JBjlkh8/t-00-45-41.md) | factual | - | We just watched another person try to assassinate Trump on the golf field |
+| [00:45:48](/timestamps/ep-his-JBjlkh8/t-00-45-41.md) | factual | - | we watched Charlie Kirk die publicly |
 | [00:48:24](/timestamps/ep-his-JBjlkh8/t-00-47-48.md) | factual | - | Thus far in the Brigitte Macron lawsuit, we have paid over a quarter of a millio... |
-| [00:49:16](/timestamps/ep-his-JBjlkh8/t-00-49-01.md) | factual | - | There is just like a six-day gap in Brigitte's schedule [during the dates that t... |
-| [00:49:54](/timestamps/ep-his-JBjlkh8/t-00-49-40.md) | factual | - | An hour and a half before Charlie Kirk was assassinated in Utah, Donald Trump an... |
+| [00:49:16](/timestamps/ep-his-JBjlkh8/t-00-49-01.md) | factual | - | we can't find the answer as to where Brigitte Macron was on the dates that the E... |
+| [00:49:54](/timestamps/ep-his-JBjlkh8/t-00-49-40.md) | factual | - | an hour and a half before Charlie Kirk was assassinated in Utah, Donald Trump an... |
 | [00:51:11](/timestamps/ep-his-JBjlkh8/t-00-50-53.md) | factual | - | The Game, who is a hip hop rapper, is releasing an album, and he has a song on h... |
-| [00:51:54](/timestamps/ep-his-JBjlkh8/t-00-51-46.md) | factual | - | Recently, I've been seeing conspiracy theories about Candace Owens from herself,... |
-| [00:52:01](/timestamps/ep-his-JBjlkh8/t-00-51-46.md) | interpretive | - | What it was is more so an assassination of the character. So I just used that be... |
 | [00:57:53](/timestamps/ep-his-JBjlkh8/t-00-57-46.md) | prediction | - | I spoke about it more at length with Russell Brand on his show, so that should b... |
 | [00:58:02](/timestamps/ep-his-JBjlkh8/t-00-57-46.md) | interpretive | - | There's definitively more of us. That's why they want to kill us, obviously |
-| [00:58:37](/timestamps/ep-his-JBjlkh8/t-00-58-28.md) | interpretive | - | That's why they want people to have less children, is because they want to incre... |
+| [00:58:37](/timestamps/ep-his-JBjlkh8/t-00-58-28.md) | interpretive | - | that's why they want people to have less children, is because they want to incre... |
 | [01:00:06](/timestamps/ep-his-JBjlkh8/t-00-59-56.md) | factual | - | there is definitely something military that happened when Charlie got assassinat... |
+| [01:01:02](/timestamps/ep-his-JBjlkh8/t-01-00-40.md) | factual | - | he said, 'I owe everything to Charlie' |
 | [01:01:42](/timestamps/ep-his-JBjlkh8/t-01-01-23.md) | factual | - | I contributed greatly to Turning Point USA's success, and they would never deny ... |
-| [01:04:03](/timestamps/ep-his-JBjlkh8/t-01-03-25.md) | interpretive | - | To this day, the best interview that we have ever given. We were all—you could f... |
-| [01:05:03](/timestamps/ep-his-JBjlkh8/t-01-04-46.md) | promise | - | Like I said, I'll do this tomorrow |
-| [01:05:12](/timestamps/ep-his-JBjlkh8/t-01-04-46.md) | promise | - | we can have the money go to Turning Point USA, every dollar that's raised I woul... |
+| [01:03:01](/timestamps/ep-his-JBjlkh8/t-01-02-45.md) | factual | - | Kanye said 'if you're a fan of Kanye West, you're not a fan of Kanye West. You'r... |
+| [01:04:00](/timestamps/ep-his-JBjlkh8/t-01-03-25.md) | factual | - | we interviewed Phil Tourney of the USS Liberty |
+| [01:05:03](/timestamps/ep-his-JBjlkh8/t-01-04-46.md) | promise | - | I'll do this tomorrow. We can live stream this |
+| [01:05:20](/timestamps/ep-his-JBjlkh8/t-01-04-46.md) | promise | - | we can have the money go to Turning Point USA, every dollar that's raised I woul... |
 
 </details>
 
