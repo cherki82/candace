@@ -443,11 +443,11 @@ youtube_url: "https://www.youtube.com/watch?v=his-JBjlkh8"
 |------|------|----------|-------|
 | [00:04:46](/timestamps/ep-his-JBjlkh8/t-00-04-35.md) | factual | - | Michael is Mikey McCoy's real name; I have seen his birth certificate myself. |
 | [00:04:51](/timestamps/ep-his-JBjlkh8/t-00-04-35.md) | factual | - | Mikey McCoy's wife did not help plan the campus tour event where Charlie was mur... |
-| [00:05:36](/timestamps/ep-his-JBjlkh8/t-00-05-03.md) | factual | - | Rob McCoy tried to sanitize someone who spent time in prison for being a sexual ... |
-| [00:06:15](/timestamps/ep-his-JBjlkh8/t-00-05-36.md) | factual | - | Rob McCoy spoke about Charlie's notebooks and how Mikey McCoy was talented. |
-| [00:06:24](/timestamps/ep-his-JBjlkh8/t-00-06-15.md) | factual | - | Mikey McCoy jumped on Liberty University's stage for an event that was scheduled... |
-| [00:06:59](/timestamps/ep-his-JBjlkh8/t-00-06-47.md) | factual | - | The Utah Valley University event came together very quickly, unlike typical TPUS... |
-| [00:07:38](/timestamps/ep-his-JBjlkh8/t-00-07-24.md) | factual | - | Strange Egyptian jets were following Charlie Kirk and tracking TPUSA Faith event... |
+| [00:05:36](/timestamps/ep-his-JBjlkh8/t-00-05-03.md) | factual | Unverifiable | Rob McCoy tried to sanitize someone who spent time in prison for being a sexual ... |
+| [00:06:15](/timestamps/ep-his-JBjlkh8/t-00-05-36.md) | factual | Unverifiable | Rob McCoy spoke about Charlie's notebooks and how Mikey McCoy was talented. |
+| [00:06:24](/timestamps/ep-his-JBjlkh8/t-00-06-15.md) | factual | True | Mikey McCoy jumped on Liberty University's stage for an event that was scheduled... |
+| [00:06:59](/timestamps/ep-his-JBjlkh8/t-00-06-47.md) | factual | Unverifiable | The Utah Valley University event came together very quickly, unlike typical TPUS... |
+| [00:07:38](/timestamps/ep-his-JBjlkh8/t-00-07-24.md) | factual | Unverifiable | Strange Egyptian jets were following Charlie Kirk and tracking TPUSA Faith event... |
 | [00:08:49](/timestamps/ep-his-JBjlkh8/t-00-08-43.md) | factual | - | Charlie's security team did not issue him first aid when he fell down after the ... |
 | [00:09:02](/timestamps/ep-his-JBjlkh8/t-00-08-43.md) | factual | - | Brian Harpole said it was because of the severity of the injury. |
 | [00:10:22](/timestamps/ep-his-JBjlkh8/t-00-09-43.md) | factual | - | Tyler Boyer hooked up with a younger intern and tried to hook up with young men ... |

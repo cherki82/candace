@@ -7,10 +7,23 @@ _Total claims: 52_
 | Metric | Count |
 |--------|-------|
 | Factual claims | 40 |
-| Verified | 0 |
-| True | 0 |
+| Verified | 5 |
+| True | 1 |
 | False | 0 |
 | Mixed | 0 |
+
+## By Verification Status
+
+### True Claims
+
+### [ep-his-JBjlkh8 @ 00:06:24](/episodes/ep-his-JBjlkh8.md#^t-00-06-15)
+
+> Mikey McCoy jumped on Liberty University's stage for an event that was scheduled for Charlie Kirk.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Turning Point USA’s Michael McCoy honors Charlie Kirk at Liberty University Convocation | Liberty News](https://www.liberty.edu/news/2025/10/24/turning-point-usas-michael-mccoy-honors-charlie-kirk-at-liberty-university-convocation/)
+**Verification Notes:** Multiple reliable sources, including Liberty University's official news site, confirm that Charlie Kirk was scheduled to speak at the university's convocation, but after his death, Michael McCoy (Mikey McCoy) spoke at the event to honor him. Additional sources from established outlets like WSET and NewsAdvance corroborate this, indicating the event proceeded with McCoy as the speaker in Kirk's place.
 
 ## By Follow-up Status
 
@@ -21,30 +34,41 @@ _Total claims: 52_
 > Rob McCoy tried to sanitize someone who spent time in prison for being a sexual deviant, for trying to take photos of young girls.
 
 **Type:** Factual
+**Veracity:** Unverifiable
+**Verification Notes:** No corroborating sources found
 
 ### [ep-his-JBjlkh8 @ 00:06:15](/episodes/ep-his-JBjlkh8.md#^t-00-05-36)
 
 > Rob McCoy spoke about Charlie's notebooks and how Mikey McCoy was talented.
 
 **Type:** Factual
+**Veracity:** Unverifiable
+**Verification Notes:** No corroborating sources found
 
 ### [ep-his-JBjlkh8 @ 00:06:24](/episodes/ep-his-JBjlkh8.md#^t-00-06-15)
 
 > Mikey McCoy jumped on Liberty University's stage for an event that was scheduled for Charlie Kirk.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Turning Point USA’s Michael McCoy honors Charlie Kirk at Liberty University Convocation | Liberty News](https://www.liberty.edu/news/2025/10/24/turning-point-usas-michael-mccoy-honors-charlie-kirk-at-liberty-university-convocation/)
+**Verification Notes:** Multiple reliable sources, including Liberty University's official news site, confirm that Charlie Kirk was scheduled to speak at the university's convocation, but after his death, Michael McCoy (Mikey McCoy) spoke at the event to honor him. Additional sources from established outlets like WSET and NewsAdvance corroborate this, indicating the event proceeded with McCoy as the speaker in Kirk's place.
 
 ### [ep-his-JBjlkh8 @ 00:06:59](/episodes/ep-his-JBjlkh8.md#^t-00-06-47)
 
 > The Utah Valley University event came together very quickly, unlike typical TPUSA events which are decided at least the semester before.
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Verification Notes:** No reliable sources, such as news articles or official statements, were found detailing the planning timeline for the Utah Valley University TPUSA event or comparing it to typical TPUSA event planning. Web searches and X posts provided context on TPUSA events but lacked specific evidence on when the UVU event was decided or scheduled.
 
 ### [ep-his-JBjlkh8 @ 00:07:38](/episodes/ep-his-JBjlkh8.md#^t-00-07-24)
 
 > Strange Egyptian jets were following Charlie Kirk and tracking TPUSA Faith events, following Erica Kirk many more times.
 
 **Type:** Factual
+**Veracity:** Unverifiable
+**Verification Notes:** No corroborating sources found
 
 ### [ep-his-JBjlkh8 @ 00:08:49](/episodes/ep-his-JBjlkh8.md#^t-00-08-43)
 
