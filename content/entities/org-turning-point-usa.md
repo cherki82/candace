@@ -264,6 +264,9 @@ _Type: Organizations_
 
 ### Referenced By
 
+- [Tyler Bowyer](/entities/person-tyler-bowyer.md) **COO of** this
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:27](/episodes/ep-a-e7HC6SeK8.md#^t-00-13-20)
+  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:41:28](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-40-46)
 - [T.W. Lewis Foundation](/entities/org-tw-lewis-foundation.md) **affiliated with** this
   - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:28:18](/episodes/ep-SKGUzGHymcI.md#^t-00-27-51)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) **affiliated with** this
@@ -273,7 +276,7 @@ _Type: Organizations_
   - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:13:24](/episodes/ep-pc3pxRyNFZk.md#^t-00-13-06)
 - [Donald Trump Jr.](/entities/person-donald-trump-jr.md) **affiliated with** this
   - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:32:26](/episodes/ep-Qt0VHV-POCg.md#^t-00-31-50)
-- [Tyler Boyer](/entities/person-tyler-boyer.md) **affiliated with** this
+- [Tyler Bowyer](/entities/person-tyler-bowyer.md) **affiliated with** this
   - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:41:28](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-40-46)
   - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:47:13](/episodes/ep-a-e7HC6SeK8.md#^t-00-46-48)
 - [Frank Turek](/entities/person-frank-turek.md) **affiliated with** this
@@ -282,7 +285,7 @@ _Type: Organizations_
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:58](/episodes/ep-his-JBjlkh8.md#^t-00-10-16)
 - [Candace Owens](/entities/person-candace-owens.md) **affiliated with** this
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:07:26](/episodes/ep-his-JBjlkh8.md#^t-00-07-24)
-- [Andrew Colbert](/entities/person-andrew-colbert.md) **board member of** this
+- [Andrew Kolvet](/entities/person-andrew-kolvet.md) **board member of** this
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:39:15](/episodes/ep-sreYYcID-QY.md#^t-00-38-58)
 - [Eric Bolling](/entities/person-eric-bolling.md) **board member of** this
   - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:25:58](/episodes/ep-aDlhjfW6hz8.md#^t-00-25-42)
@@ -314,7 +317,7 @@ _Type: Organizations_
   - [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:12:15](/episodes/ep-JQjCAsfoXEE.md#^t-00-11-52)
 - [Mikey McCoy](/entities/person-mikey-mccoy.md) **employed by** this
   - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:19:49](/episodes/ep-YFmRH8p5lt0.md#^t-00-19-41)
-- [Andrew Colvett](/entities/person-andrew-colvett.md) **employed by** this
+- [Andrew Colvett](/entities/person-andrew-kolvet.md) **employed by** this
   - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:27:06](/episodes/ep-UBkFkg4UNY8.md#^t-00-26-28)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) **founded** this
   - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:37:20](/episodes/ep-YaZfwLQ7vrI.md#^t-00-36-54)
@@ -329,19 +332,19 @@ _Type: Organizations_
 - [Stacey Sheridan](/entities/person-stacey-sheridan.md) **works at** this
   - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:35](/episodes/ep-c5BcKF91iec.md#^t-00-04-27)
   - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:23](/episodes/ep-a-e7HC6SeK8.md#^t-00-13-20)
-- [Andrew Collett](/entities/person-andrew-collett.md) **works at** this
+- [Andrew Kolvet](/entities/person-andrew-kolvet.md) **works at** this
   - [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 @ 00:13:00](/episodes/ep-5autG89PW6w.md#^t-00-12-28)
-- [Andrew Kolvet](/entities/person-andrew-colvett.md) **works at** this
+- [Andrew Kolvet](/entities/person-andrew-kolvet.md) **works at** this
   - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:11:09](/episodes/ep-K5GjF53bfN4.md#^t-00-10-43)
   - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:10:03](/episodes/ep-pc3pxRyNFZk.md#^t-00-10-01)
 - [Dylan Erickson](/entities/person-dylan-erickson.md) **works at** this
   - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:23:18](/episodes/ep-MUA9ebCF4Ow.md#^t-00-23-07)
 - [Austin Erickson](/entities/person-austin-erickson.md) **works at** this
   - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:23:18](/episodes/ep-MUA9ebCF4Ow.md#^t-00-23-07)
-- [Tyler Boyer](/entities/person-tyler-boyer.md) **works at** this
+- [Tyler Bowyer](/entities/person-tyler-bowyer.md) **works at** this
   - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:33:00](/episodes/ep-pc3pxRyNFZk.md#^t-00-32-53)
   - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:25:04](/episodes/ep-a-e7HC6SeK8.md#^t-00-24-50)
-- [Andrew Coltvet](/entities/person-andrew-coltvet.md) **works at** this
+- [Andrew Kolvet](/entities/person-andrew-kolvet.md) **works at** this
   - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:08:07](/episodes/ep-ja26iltROkM.md#^t-00-07-29)
 - [Rob McCoy](/entities/person-rob-mccoy.md) **works at** this
   - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:15:47](/episodes/ep-Qfwr08Ebczo.md#^t-00-15-33)

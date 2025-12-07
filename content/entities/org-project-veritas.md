@@ -17,6 +17,8 @@ _Type: Organizations_
 
 - [00:38:14](/episodes/ep-his-JBjlkh8.md#^t-00-37-59)
   > "...m are, okay. James O'Keefe, obviously formerly of Project Veritas, he's very much trusted. Matt Gaetz, I like him very much. But some of the people that they let in ..."
+- [00:38:19](/episodes/ep-his-JBjlkh8.md#^t-00-37-59)
+  > "...merly of Project Veritas, he's very much trusted. Matt Gaetz, I like him very much. But some of the people that they let in are almost the exact opposite of tru..."
 
 ## Relationships
 

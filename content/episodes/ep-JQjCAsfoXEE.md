@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=JQjCAsfoXEE"
 
 **Published:** 2025-11-17 | [Watch on YouTube](https://www.youtube.com/watch?v=JQjCAsfoXEE)
 
-**Stats:** 24 entities | 10 events | 16 claims
+**Stats:** 23 entities | 10 events | 16 claims
 
 ---
 
@@ -285,4 +285,4 @@ youtube_url: "https://www.youtube.com/watch?v=JQjCAsfoXEE"
 
 **Organizations:** [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [FBI](/entities/org-fbi.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
-**People:** [Andrew Kolvet](/entities/person-andrew-colvett.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erica-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [Josh Hammer](/entities/person-josh-hammer.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Steven Crowder](/entities/person-steven-crowder.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+**People:** [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erica-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [Josh Hammer](/entities/person-josh-hammer.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Steven Crowder](/entities/person-steven-crowder.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)

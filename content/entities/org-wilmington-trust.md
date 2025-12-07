@@ -16,11 +16,19 @@ _Type: Organizations_
 
 - [00:11:53](/episodes/ep-a-e7HC6SeK8.md#^t-00-11-12)
   > "...ite in this building that's actually owned by the Wilmington Trust at 500 Delaware Avenue. We've got Brigitte's lawyers at 919 North Market Street. Also in that build..."
+- [00:12:14](/episodes/ep-a-e7HC6SeK8.md#^t-00-11-53)
+  > "...dan's registered agent. That's Stacey Sheridan of Turning Point USA. We're going to talk about her in a second. We've got the Wilmington Trust actual location, which i..."
+- [00:11:53](/episodes/ep-a-e7HC6SeK8.md#^t-00-11-53)
+  > "... been there, okay? So here's our block. We've got a couple of blocks here, and we told you yesterday: we've got this FBI suite in this building that's actually owned by the Wilmington Trust at 500 Del..."
+- [00:12:18](/episodes/ep-a-e7HC6SeK8.md#^t-00-11-53)
+  > "We've got the Wilmington Trust actual location, which is at 1100 North Market."
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:31:48](/episodes/ep-tB5SXXmd9vU.md#^t-00-31-13)
   > "...l of lower Delaware branches of WSFS were sold to Wilmington Trust which was founded by T. Coleman du Pont, the French-American then-president of DuPont, to manage th..."
+- [00:31:35](/episodes/ep-tB5SXXmd9vU.md#^t-00-31-13)
+  > "...is? It's another bank center. This time, it's the Wilmington Savings Fund Society. In 1990, nearly all of lower Delaware branches of WSFS were sold to Wilmington Trust which was fou..."
 
 ## Relationships
 

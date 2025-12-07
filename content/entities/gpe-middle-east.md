@@ -17,6 +17,8 @@ _Type: Places_
 
 - [00:43:00](/episodes/ep-a-e7HC6SeK8.md#^t-00-42-29)
   > "...urse, France, right? America, France, Israel, the Middle East, Syria, Russia, and this is the Syria before Israel and the United States overthrew Assad. What was..."
+- [00:42:59](/episodes/ep-a-e7HC6SeK8.md#^t-00-42-29)
+  > "... what was going on that week involved, of course, France, right? America, France, Israel, the Middle East, Syria, Russia, and this is the Syria before Israe..."
 
 ## Relationships
 

@@ -31,3 +31,6 @@ _Type: Places_
 
 - [Camp Ripley Training Center](/entities/org-camp-ripley-training-center.md) **based in** this
   - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:16:44](/episodes/ep-tB5SXXmd9vU.md#^t-00-16-09)
+- [Camp Ripley](/entities/gpe-camp-ripley.md) **located in** this
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:16:44](/episodes/ep-tB5SXXmd9vU.md#^t-00-16-09)
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:23:52](/episodes/ep-a-e7HC6SeK8.md#^t-00-23-23)

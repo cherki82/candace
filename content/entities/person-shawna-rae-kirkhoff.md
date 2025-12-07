@@ -12,6 +12,8 @@ _Type: People_
 
 - [00:08:21](/episodes/ep-YaZfwLQ7vrI.md#^t-00-08-05)
   > "... and a United States Capitol Police officer named Shawna Rae Kirkhoff, right? A man named—a reporter named Steve Baker—who just deserves all of the credit on this amazin..."
+- [00:10:34](/episodes/ep-YaZfwLQ7vrI.md#^t-00-10-09)
+  > ".... A CIA spokeswoman, Liz Lyon, stated that Shawna Rae Kirkhoff, the alleged person who dropped off these pipe bombs, worked in Capitol Police Campus Security. She lives in Alexandria, Virginia. She is..."
 
 ## Relationships
 

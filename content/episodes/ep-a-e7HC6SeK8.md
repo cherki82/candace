@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=a-e7HC6SeK8"
 
 **Published:** 2025-12-02 | [Watch on YouTube](https://www.youtube.com/watch?v=a-e7HC6SeK8)
 
-**Stats:** 30 entities | 4 events | 12 claims
+**Stats:** 29 entities | 4 events | 12 claims
 
 ---
 
@@ -251,6 +251,6 @@ youtube_url: "https://www.youtube.com/watch?v=a-e7HC6SeK8"
 
 **Organizations:** [Club Candace](/entities/org-club-candace.md), [DuPont family](/entities/org-dupont-family.md), [FBI](/entities/org-fbi.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md), [White House](/entities/org-white-house.md)
 
-**People:** [Andrew Kolvet](/entities/person-andrew-colvett.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erica-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+**People:** [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erica-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
 **Work:** [Becoming Brigitte](/entities/work-becoming-brigitte.md)

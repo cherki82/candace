@@ -13,6 +13,11 @@ _Type: Work_
 
 ## Mentions
 
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
+
+- [00:00:33](/episodes/ep-sreYYcID-QY.md#^t-00-00-00)
+  > "...text messages that prove nothing. And a guy named Eric Bolling is just lying through his teeth on PBD, the PBD podcast, to establish this narrative which, for som..."
+
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:57:16](/episodes/ep-tB5SXXmd9vU.md#^t-00-56-36)

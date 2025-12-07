@@ -26,4 +26,9 @@ _Type: People_
 
 ## Relationships
 
-_No relationships extracted yet._
+### Former Contributor To
+
+- [PragerU](/entities/org-prageru.md)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#^t-00-47-39): "...er that's The Daily Wire, whether that's PragerU, Charlie Kirk (Charlie Kirk), Steven Crowder. I don't know what's going on even in this room, but it's not like w..."
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#^t-00-47-39): "...e she's ever been associated with. Whether that's Turning Point USA, whether that's The Daily Wire, whether that's PragerU, Charlie Kirk (Charlie Kirk), Steven Crowder..."
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#^t-00-47-39): "... Whether that's Turning Point USA, whether that's The Daily Wire, whether that's PragerU, Charlie Kirk (Charlie Kirk), Steven Crowder. I don't know what's going on ..."

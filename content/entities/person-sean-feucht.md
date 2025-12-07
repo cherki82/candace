@@ -12,6 +12,8 @@ _Type: People_
 
 - [00:10:20](/episodes/ep-YFmRH8p5lt0.md#^t-00-09-40)
   > "...h, this person who I hadn't heard of before named Sean Feucht. I believe I'm saying that correctly. Sean Feucht is announced as the Turning Point USA Faith contr..."
+- [00:18:30](/episodes/ep-YFmRH8p5lt0.md#^t-00-18-23)
+  > "...ellow plane again comes in. This time it flies to Kansas. Cairo to Kansas. And on April 23rd, Sean Feucht heads up the TPUSA Faith Kingdom to the Capitol To..."
 
 ### [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 

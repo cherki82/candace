@@ -2,9 +2,14 @@
 title: "Provo"
 id: "gpe-provo"
 type: "GPE"
+aliases:
+  - "Provo Utah"
+  - "Provo, Utah"
 ---
 
 _Type: Places_
+
+**Also known as:** Provo Utah, Provo, Utah
 
 ## Mentions
 
@@ -22,6 +27,8 @@ _Type: Places_
 
 - [00:00:33](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
   > "... What was the Egyptian military plane, which left Provo on the morning of Charlie (Charlie Kirk)'s assassination, doing in Delaware? Actually, we should fi..."
+- [00:03:23](/episodes/ep-SKGUzGHymcI.md#^t-00-02-39)
+  > "...n the morning at 7:14 a.m. local time from Provo, Utah. And it's headed to Wilmington, Delaware. It arrived in Wilmington, Delaware at 11:51 a.m. Eastern...."
 
 ### [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 
@@ -48,6 +55,10 @@ _Type: Places_
   > "...by writing: companies like Caldera Engineering in Provo, Utah, manufacture specialized industrial valves and control systems. While no public evidence curr..."
 - [00:18:58](/episodes/ep-aDlhjfW6hz8.md#^t-00-18-15)
   > "...by writing, companies like Caldera Engineering in Provo, Utah, manufacture specialized industrial valves and control systems. While no public evidence curr..."
+- [00:51:29](/episodes/ep-aDlhjfW6hz8.md#^t-00-51-24)
+  > "...ing: companies like Caldera Engineering in Provo, Utah, manufacture specialized industrial valves and control systems. While no public evidence currently links them to inte..."
+- [00:51:33](/episodes/ep-aDlhjfW6hz8.md#^t-00-51-24)
+  > "...ing, companies like Caldera Engineering in Provo, Utah, manufacture specialized industrial valves and control systems. While no public evidence currently links them to inte..."
 
 ### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 
@@ -60,6 +71,10 @@ _Type: Places_
 
 - [00:02:09](/episodes/ep-iHav0PPzUz8.md#^t-00-02-07)
   > "...ipped down to just 300 feet above ground over the Provo airport runway, and they made a loop. I'm going to show you a screenshot here. This is from FlightR..."
+- [00:59:46](/episodes/ep-iHav0PPzUz8.md#^t-00-59-20)
+  > "...look— joint military exercise between Egypt and America for some unknown reason, and Provo, Utah was the place they had to do this. And they decided to leave th..."
+- [00:12:53](/episodes/ep-iHav0PPzUz8.md#^t-00-12-29)
+  > "...d out that this foreign military plane arrived on September 4th—so six days before—into Provo, Utah, and departed six days later on September 10th, they ignored th..."
 
 ### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 
@@ -75,4 +90,8 @@ _Type: Places_
 
 ## Relationships
 
-_No relationships extracted yet._
+### Referenced By
+
+- [Caldera Engineering](/entities/org-caldera-engineering.md) **based in** this
+  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:18:48](/episodes/ep-aDlhjfW6hz8.md#^t-00-18-15)
+  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:18:58](/episodes/ep-aDlhjfW6hz8.md#^t-00-18-15)

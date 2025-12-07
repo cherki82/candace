@@ -41,8 +41,14 @@ _Type: Organizations_
 
 - [Candace Owens](/entities/person-candace-owens.md) **affiliated with** this
   - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:01:06](/episodes/ep-mKXdKV-OBog.md#^t-00-00-43)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) **contributor to** this
+  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:03](/episodes/ep-yAIb-NuUh_U.md#^t-00-00-01)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#^t-00-47-39)
 - [Candace Owens](/entities/person-candace-owens.md) **employed by** this
   - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:03](/episodes/ep-yAIb-NuUh_U.md#^t-00-00-01)
   - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:08:19](/episodes/ep-K5GjF53bfN4.md#^t-00-08-02)
+- [Steven Crowder](/entities/person-steven-crowder.md) **former contributor to** this
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#^t-00-47-39)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#^t-00-47-39)
 - [Wilks Brothers](/entities/person-wilks-brothers.md) **invested in** this
   - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:54](/episodes/ep-Qfwr08Ebczo.md#^t-00-13-27)

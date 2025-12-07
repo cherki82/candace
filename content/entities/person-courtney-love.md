@@ -12,6 +12,8 @@ _Type: People_
 
 - [00:12:30](/episodes/ep-7RLtGgkTh9o.md#^t-00-12-06)
   > "... New Yorker reported that she also tried to place Courtney Love and Lindsay Lohan into conservatorships. Oh, we're going to get there because as I started followin..."
+- [00:12:30](/episodes/ep-7RLtGgkTh9o.md#^t-00-12-06)
+  > "...ago, the New Yorker reported that she also tried to place Courtney Love and Lindsay Lohan into conservatorships. Oh, we're going to get there because as I started following the Calvary Chapel again—su..."
 
 ## Relationships
 

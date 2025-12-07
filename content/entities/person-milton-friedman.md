@@ -12,6 +12,8 @@ _Type: People_
 
 - [00:01:29](/episodes/ep-mKXdKV-OBog.md#^t-00-01-28)
   > "...s—your all-time favorite historical figure? Is it Milton Friedman, or is there someone else? Jesus Christ? Yeah, I would say—I gotta always say—Jesus Christ, probabl..."
+- [00:01:35](/episodes/ep-mKXdKV-OBog.md#^t-00-01-28)
+  > "... Is it Milton Friedman, or is there someone else? Jesus Christ? Yeah, I would say—I gotta always say—Jesus Christ, probably. Wow, that is a great question, histor..."
 
 ## Relationships
 

@@ -12,6 +12,8 @@ _Type: People_
 
 - [00:46:37](/episodes/ep-adJ4LNGp84I.md#^t-00-46-07)
   > "...erea Lee writes, one of Tyler Robinson's lawyers, Michael Burt, previously represented Richard Ramirez, aka the Night Stalker. Ramirez was in the same jail as Sea..."
+- [00:46:47](/episodes/ep-adJ4LNGp84I.md#^t-00-46-07)
+  > "...n's lawyers, Michael Burt, previously represented Richard Ramirez, aka the Night Stalker. Ramirez was in the same jail as Sean Penn in 1987, who was serving 33 days...."
 
 ## Relationships
 

@@ -17,6 +17,10 @@ _Type: Events_
 
 - [00:22:00](/episodes/ep-tB5SXXmd9vU.md#^t-00-21-46)
   > "...ie (Charlie Kirk) was shot. And that was known as Operation Bright Star, and that took place in Cairo, Egypt. Now, it is a biannual joint military operation. It's co-hoste..."
+- [00:21:46](/episodes/ep-tB5SXXmd9vU.md#^t-00-21-14)
+  > "... through to September 10th, the day that Charlie (Charlie Kirk) was shot. And that was known as Operation Bright Star, and that took place in Cairo, Egypt. Now, i..."
+- [00:22:03](/episodes/ep-tB5SXXmd9vU.md#^t-00-21-46)
+  > "... as Operation Bright Star, and that took place in Cairo, Egypt. Now, it is a biannual joint military operation. It's co-hosted by the United States and Egy..."
 
 ## Relationships
 

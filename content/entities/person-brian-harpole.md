@@ -8,6 +8,11 @@ _Type: People_
 
 ## Mentions
 
+### [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
+
+- [00:31:52](/episodes/ep-581dILVcEE4.md#^t-00-31-27)
+  > "...s—kind of a little bit. We're going to talk about Blake Neff, who dropped a receipt; Brian Harpole, the security who dropped a receipt—right after a few of our sp..."
+
 ### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 
 - [00:09:02](/episodes/ep-his-JBjlkh8.md#^t-00-08-43)

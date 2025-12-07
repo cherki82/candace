@@ -123,3 +123,6 @@ _Type: People_
 
 - [Ben Shapiro](/entities/person-ben-shapiro.md) **criticized** this
   - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:06:23](/episodes/ep-MUA9ebCF4Ow.md#^t-00-05-50)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) **interviewed by** this
+  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:31:35](/episodes/ep-SKGUzGHymcI.md#^t-00-31-12)
+  - [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 @ 00:27:38](/episodes/ep-QZWSsq8ZWzw.md#^t-00-27-09)

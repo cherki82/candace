@@ -21,6 +21,8 @@ _Type: People_
 
 - [00:46:58](/episodes/ep-tB5SXXmd9vU.md#^t-00-46-56)
   > "...ad brush, but a broad stroke. But I will say that Adam Sosnick is reaching levels of absurdity here. Rather than at all trying to prod the narrative of whether or..."
+- [00:47:14](/episodes/ep-tB5SXXmd9vU.md#^t-00-46-56)
+  > "... Take a listen to what Adam Sosnick had to say on Patrick Bet-David's podcast. Disgusting. Forget about what she said about Israel and Jews and BLM and liberals. This ..."
 
 ## Relationships
 

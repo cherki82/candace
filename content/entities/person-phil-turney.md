@@ -27,4 +27,6 @@ _Type: People_
 ### Referenced By
 
 - [Candace Owens](/entities/person-candace-owens.md) **interviewed** this
+  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 01:04:06](/episodes/ep-his-JBjlkh8.md#^t-01-03-25)
+- [Candace Owens](/entities/person-candace-owens.md) **interviewed** this
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:09](/episodes/ep-his-JBjlkh8.md#^t-00-09-34)

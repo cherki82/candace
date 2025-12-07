@@ -12,6 +12,8 @@ _Type: People_
 
 - [00:25:20](/episodes/ep-mKXdKV-OBog.md#^t-00-24-49)
   > "...uple of these headlines. I guess let's start with Mike Huckabee. He is the ambassador to Israel and apparently is completely shameless. Now just to go back—in case..."
+- [00:25:05](/episodes/ep-mKXdKV-OBog.md#^t-00-24-49)
+  > "...ngaging in naked propaganda to serve the state of Israel. So let me show you a couple of these headlines. I guess let's start with Mike Huckabee. He is the ..."
 
 ## Relationships
 

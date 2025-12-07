@@ -16,6 +16,8 @@ _Type: Organizations_
 
 - [00:15:27](/episodes/ep-a-e7HC6SeK8.md#^t-00-14-43)
   > "...re, right? We learn about this French and Israeli ACE Partners being the second largest shareholder of Satis. They decide to lease out this hangar. We learn that ..."
+- [00:21:49](/episodes/ep-a-e7HC6SeK8.md#^t-00-21-13)
+  > "...ere we are, right? We learn about this French and Israeli ACE Partners being the second largest shareholder of Satis. They decide to lease out this hangar. ..."
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 

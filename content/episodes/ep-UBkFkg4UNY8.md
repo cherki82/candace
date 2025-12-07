@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=UBkFkg4UNY8"
 
 **Published:** 2025-09-23 | [Watch on YouTube](https://www.youtube.com/watch?v=UBkFkg4UNY8)
 
-**Stats:** 25 entities | 5 events | 19 claims
+**Stats:** 24 entities | 5 events | 19 claims
 
 ---
 
@@ -377,6 +377,6 @@ youtube_url: "https://www.youtube.com/watch?v=UBkFkg4UNY8"
 
 **Organizations:** [Caldera Engineering](/entities/org-caldera-engineering.md), [FBI](/entities/org-fbi.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
-**People:** [Alex Clark](/entities/person-alex-clark.md), [Andrew Kolvet](/entities/person-andrew-colvett.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erica-kirk.md), [George Zinn](/entities/person-george-zinn.md), [Glenn Beck](/entities/person-glenn-beck.md), [Kash Patel](/entities/person-kash-patel.md), [Michael Knowles](/entities/person-michael-knowles.md), [Phil Lyman](/entities/person-phil-lyman.md), [Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Alex Clark](/entities/person-alex-clark.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erica-kirk.md), [George Zinn](/entities/person-george-zinn.md), [Glenn Beck](/entities/person-glenn-beck.md), [Kash Patel](/entities/person-kash-patel.md), [Michael Knowles](/entities/person-michael-knowles.md), [Phil Lyman](/entities/person-phil-lyman.md), [Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 **Work:** [Good Morning America](/entities/work-good-morning-america.md)

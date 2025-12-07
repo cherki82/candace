@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=SKGUzGHymcI"
 
 **Published:** 2025-11-19 | [Watch on YouTube](https://www.youtube.com/watch?v=SKGUzGHymcI)
 
-**Stats:** 26 entities | 9 events | 8 claims
+**Stats:** 25 entities | 9 events | 8 claims
 
 ---
 
@@ -294,4 +294,4 @@ youtube_url: "https://www.youtube.com/watch?v=SKGUzGHymcI"
 
 **Organizations:** [Club Candace](/entities/org-club-candace.md), [Federal Reserve](/entities/org-federal-reserve.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md)
 
-**People:** [Andrew Kolvet](/entities/person-andrew-colvett.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erica-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Kash Patel](/entities/person-kash-patel.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erica-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Kash Patel](/entities/person-kash-patel.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Tyler Robinson](/entities/person-tyler-robinson.md)

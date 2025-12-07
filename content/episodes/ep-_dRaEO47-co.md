@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=_dRaEO47-co"
 
 **Published:** 2025-09-11 | [Watch on YouTube](https://www.youtube.com/watch?v=_dRaEO47-co)
 
-**Stats:** 34 entities | 2 events | 10 claims
+**Stats:** 33 entities | 2 events | 10 claims
 
 ---
 
@@ -153,4 +153,4 @@ youtube_url: "https://www.youtube.com/watch?v=_dRaEO47-co"
 
 **Organizations:** [Antifa](/entities/org-antifa.md), [Berkeley](/entities/org-berkeley.md), [Black Lives Matter](/entities/org-black-lives-matter.md), [Fox News](/entities/org-fox-news.md), [Instagram](/entities/org-instagram.md), [RNC](/entities/org-rnc.md), [Stanford](/entities/org-stanford.md), [Turning Point USA](/entities/org-turning-point-usa.md), [UCLA](/entities/org-ucla.md), [White House](/entities/org-white-house.md)
 
-**People:** [Andrew Kolvet](/entities/person-andrew-colvett.md), [Brett Kavanaugh](/entities/person-brett-kavanaugh.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Rubin](/entities/person-dave-rubin.md), [Donald Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erica-kirk.md), [George Zinn](/entities/person-george-zinn.md), [Jay-Z](/entities/person-jay-z.md), [Kanye West](/entities/person-kanye-west.md), [Rush Limbaugh](/entities/person-rush-limbaugh.md)
+**People:** [Brett Kavanaugh](/entities/person-brett-kavanaugh.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Rubin](/entities/person-dave-rubin.md), [Donald Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erica-kirk.md), [George Zinn](/entities/person-george-zinn.md), [Jay-Z](/entities/person-jay-z.md), [Kanye West](/entities/person-kanye-west.md), [Rush Limbaugh](/entities/person-rush-limbaugh.md)

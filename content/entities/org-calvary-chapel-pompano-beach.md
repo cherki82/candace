@@ -17,5 +17,5 @@ _Type: Organizations_
 
 ### Referenced By
 
-- [Rob Coy](/entities/person-rob-coy.md) **founded** this
+- [Bob Coy](/entities/person-bob-coy.md) **founded** this
   - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:19:12](/episodes/ep-yAIb-NuUh_U.md#^t-00-18-59)

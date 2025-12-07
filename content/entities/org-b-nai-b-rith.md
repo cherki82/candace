@@ -12,6 +12,8 @@ _Type: Organizations_
 
 - [00:02:02](/episodes/ep-t1YtLS1n8Vs.md#^t-00-01-24)
   > "...n out of a Jewish Freemason organization known as B'nai B'rith. Now, if you're on my book club, you know this, but Sigmund Freud was a member of B'nai B'rith. We'..."
+- [00:02:10](/episodes/ep-t1YtLS1n8Vs.md#^t-00-02-02)
+  > "...ow, if you're on my book club, you know this, but Sigmund Freud was a member of B'nai B'rith. We're discussing; we're reading right now the book The Assault on Tru..."
 
 ## Relationships
 

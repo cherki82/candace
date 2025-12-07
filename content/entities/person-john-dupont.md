@@ -16,6 +16,8 @@ _Type: People_
 
 - [00:10:13](/episodes/ep-a-e7HC6SeK8.md#^t-00-09-45)
   > "...has found itself the focus of unsavory headlines. John DuPont shot Olympic wrestler David Schultz dead in the driveway of the family's mansion in 1996. Two years..."
+- [00:10:47](/episodes/ep-a-e7HC6SeK8.md#^t-00-10-27)
+  > "...ddicted Vegas sex worker. So she and her husband, Christopher Mosley, had her killed. Both John DuPont and Mosley died in prison. Okay, great, cool. France, France in t..."
 
 ## Relationships
 

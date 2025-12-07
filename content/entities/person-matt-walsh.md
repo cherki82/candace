@@ -17,6 +17,8 @@ _Type: People_
 
 - [00:20:27](/episodes/ep-K1tFD7FfoCU.md#^t-00-19-50)
   > "...ding donors—were very touched by a monologue that Matt Walsh did over on the Daily Wire. I didn't see it. I was too aggrieved to watch anything, but apparently ..."
+- [00:20:03](/episodes/ep-K1tFD7FfoCU.md#^t-00-19-50)
+  > "...ed by a monologue that Matt Walsh did over on the Daily Wire. I didn't see it. I was too aggrieved to watch anything, but apparently Matt Walsh did an amazing m..."
 
 ## Relationships
 

@@ -255,6 +255,20 @@ _Type: People_
 - [Turning Point USA](/entities/org-turning-point-usa.md)
   - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:01:22](/episodes/ep-YFmRH8p5lt0.md#^t-00-00-49): "the Turning Point USA organization that he was running"
 
+### Close Associate Of
+
+- [Rob McCoy](/entities/person-rob-mccoy.md)
+  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:00:05](/episodes/ep-581dILVcEE4.md#^t-00-00-00): ".... Rob McCoy, America's pastor. Remember, Charlie (Charlie Kirk) told him. Charlie (Charlie Kirk) told me I was America's pastor. Well, it sure as heck seems that ..."
+  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:03:51](/episodes/ep-581dILVcEE4.md#^t-00-03-33): "...y Tuesday. Rob McCoy, America's pastor. Remember, Charlie (Charlie Kirk) told him. Charlie (Charlie Kirk) told me I was America's pastor. Well, it sure as heck seems that this ..."
+  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:15:52](/episodes/ep-MUA9ebCF4Ow.md#^t-00-15-12): "...d us these lies. The amazing, heroic, magnificent Mikey McCoy had blood all over him. That's a lie, told by Pastor Rob McCoy. Charlie (Charlie Kirk) was a commit..."
+
+### Contributor To
+
+- [PragerU](/entities/org-prageru.md)
+  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:03](/episodes/ep-yAIb-NuUh_U.md#^t-00-00-01): "...omebody sent me this throwback clip from Charlie (Charlie Kirk) and me back when I had a show on PragerU. We were discussing the kind of allies that you need when..."
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#^t-00-47-39): "...er that's The Daily Wire, whether that's PragerU, Charlie Kirk (Charlie Kirk), Steven Crowder. I don't know what's going on even in this room, but it's not like w..."
+  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:01:46](/episodes/ep-yAIb-NuUh_U.md#^t-00-01-32): "...ay. Now somebody sent me this throwback clip from Charlie (Charlie Kirk) and me back when I had a show on PragerU. We were discussing the kind of allies that you need when bull..."
+
 ### Criticized
 
 - [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
@@ -289,6 +303,17 @@ _Type: People_
 - [Kash Patel](/entities/person-kash-patel.md)
   - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:50:32](/episodes/ep-YFmRH8p5lt0.md#^t-00-50-18): "Charlie (Charlie Kirk) had him on his show"
 
+### Interviewed By
+
+- [Tucker Carlson](/entities/person-tucker-carlson.md)
+  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:04:12](/episodes/ep-r1PS67aRmcA.md#^t-00-03-33): "... had a nice conversation on the day that Charlie (Charlie Kirk) died, and Tucker (Tucker Carlson) then sent a nice text because Ben had called him. And I guess Be..."
+  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:31:58](/episodes/ep-sreYYcID-QY.md#^t-00-31-15): "...n Netanyahu (Bibi) murdered Charlie Kirk. Tucker (Tucker Carlson) never said that. Megyn Kelly never said that. Dave Smith never said that. Instead what we are doin..."
+  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:01:06](/episodes/ep-MUA9ebCF4Ow.md#^t-00-00-40): "...ce of what Charlie (Charlie Kirk) said to Tucker (Tucker Carlson) backstage at the Student Action Summit in July. We're gonna get to that. Also, do you guys remembe..."
+- [Megyn Kelly](/entities/person-megyn-kelly.md)
+  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:31:35](/episodes/ep-SKGUzGHymcI.md#^t-00-31-12): "...rlie (Charlie Kirk) into the waiting SUV, he told Megyn Kelly something different about drones on that day. Take a listen. In fact, when we were driving into tha..."
+  - [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 @ 00:27:38](/episodes/ep-QZWSsq8ZWzw.md#^t-00-27-09): "...e a pause here. We're gonna get to something that Megyn Kelly shared on her show about a hex that was put on Charlie Kirk—which is important for us to discuss fo..."
+  - [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 @ 00:32:37](/episodes/ep-QZWSsq8ZWzw.md#^t-00-32-17): "...e a pause here. We're gonna get to something that Megyn Kelly shared on her show about a hex that was put on Charlie Kirk (Charlie Kirk), which is important for ..."
+
 ### Lives In
 
 - [Arizona](/entities/gpe-arizona.md)
@@ -300,6 +325,19 @@ _Type: People_
   - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:00:09](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00): "tracking Erica (Erica Kirk) and Charlie (Charlie Kirk)"
   - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 01:07:30](/episodes/ep-2WEHTk0Xewg.md#^t-01-06-45): "Erica Kirk has been—you could see the energy. She's gonna fight."
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:43:45](/episodes/ep-sreYYcID-QY.md#^t-00-43-40): "When's the last time you spoke to Erica?"
+
+### Political Ally Of
+
+- [Donald Trump](/entities/person-donald-trump.md)
+  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:03:13](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-03-03): "...hoosing. I am told that they are fans of Charlie (Charlie Kirk) and they are fans of Donald Trump. Although this source noted that Tyler, like many other conserva..."
+  - [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 00:00:16](/episodes/ep-2Riv3I7D0Yk.md#^t-00-00-00): "...nticipated. Because just 16 hours before Charlie (Charlie Kirk) was assassinated, he mysteriously retweeted a 2013 tweet from Donald Trump calling for public exec..."
+  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:00:19](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-00-00): "...f their choosing. I am told that they are fans of Charlie (Charlie Kirk) and they are fans of Donald Trump. Although this source noted that Tyler, like many other conservatives..."
+
+### Worked With
+
+- [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+  - [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 @ 00:20:43](/episodes/ep-5autG89PW6w.md#^t-00-19-58): "... executives would rather—and I'm now referring to Tyler Bowyer—impugn the character of the people who are doing exactly what Charlie (Charlie Kirk) would have don..."
+  - [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 @ 00:20:43](/episodes/ep-5autG89PW6w.md#^t-00-19-58): "... executives would rather—and I'm now referring to Tyler Bowyer—impugn the character of the people who are doing exactly what Charlie (Charlie Kirk) would have don..."
 
 ### Works At
 
@@ -333,3 +371,6 @@ _Type: People_
 - [Erika Kirk](/entities/person-erica-kirk.md) **married to** this
   - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:35:42](/episodes/ep-K5GjF53bfN4.md#^t-00-35-18)
   - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:21:26](/episodes/ep-K1tFD7FfoCU.md#^t-00-21-15)
+- [Andrew Kolvet](/entities/person-andrew-kolvet.md) **worked with** this
+  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:10:48](/episodes/ep-K5GjF53bfN4.md#^t-00-10-43)
+  - [To My Friend, Charlie Kirk. @ 00:14:33](/episodes/ep-_dRaEO47-co.md#^t-00-14-11)

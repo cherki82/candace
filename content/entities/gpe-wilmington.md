@@ -68,6 +68,13 @@ _Type: Places_
 
 ## Relationships
 
+### Located In
+
+- [Delaware](/entities/gpe-delaware.md)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:24](/episodes/ep-tB5SXXmd9vU.md#^t-00-23-12): "...harlie Kirk's (Charlie Kirk's) assassination from Provo, went over to Wilmington, Delaware. We learned that regarding that hangar, Satis, which is a French..."
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#^t-00-23-12): "...harlie Kirk's (Charlie Kirk's) assassination from Provo, went over to Wilmington, Delaware. We learned that regarding that hangar, Satis, which is a French..."
+  - [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:16:16](/episodes/ep-iHav0PPzUz8.md#^t-00-15-42): "... September 10th. It then laid over in Wilmington, Delaware, and departed back for Cairo on the 11th. I am telling you that when that plane left, okay, those p..."
+
 ### Referenced By
 
 - [Department of Justice](/entities/org-department-of-justice.md) **based in** this

@@ -2,9 +2,13 @@
 title: "AIPAC"
 id: "org-aipac"
 type: "ORG"
+aliases:
+  - "American Israel Public Affairs Committee"
 ---
 
 _Type: Organizations_
+
+**Also known as:** American Israel Public Affairs Committee
 
 ## Mentions
 

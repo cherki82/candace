@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=ja26iltROkM"
 
 **Published:** 2025-09-22 | [Watch on YouTube](https://www.youtube.com/watch?v=ja26iltROkM)
 
-**Stats:** 30 entities | 9 events | 14 claims
+**Stats:** 29 entities | 9 events | 14 claims
 
 ---
 
@@ -304,6 +304,6 @@ youtube_url: "https://www.youtube.com/watch?v=ja26iltROkM"
 
 **Organizations:** [AIPAC](/entities/org-aipac.md), [Amazon](/entities/org-amazon.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [FBI](/entities/org-fbi.md), [TMZ](/entities/org-tmz.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
-**People:** [Alex Jones](/entities/person-alex-jones.md), [Andrew Kolvet](/entities/person-andrew-colvett.md), [Bill Ackman](/entities/person-bill-ackman.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Eric Bolling](/entities/person-eric-bolling.md), [Erika Kirk](/entities/person-erica-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [George Zinn](/entities/person-george-zinn.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kash Patel](/entities/person-kash-patel.md), [Laura Loomer](/entities/person-laura-loomer.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Alex Jones](/entities/person-alex-jones.md), [Bill Ackman](/entities/person-bill-ackman.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Eric Bolling](/entities/person-eric-bolling.md), [Erika Kirk](/entities/person-erica-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [George Zinn](/entities/person-george-zinn.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kash Patel](/entities/person-kash-patel.md), [Laura Loomer](/entities/person-laura-loomer.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 **Work:** [Becoming Brigitte](/entities/work-becoming-brigitte.md)

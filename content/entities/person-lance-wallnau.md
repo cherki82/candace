@@ -16,6 +16,8 @@ _Type: People_
 
 - [00:11:54](/episodes/ep-YaZfwLQ7vrI.md#^t-00-11-32)
   > "...ly following the election results. One person was Lance Wallnau (Lance Wallnau), okay? I want you to remember this guy's name: Lance Wallnau (Lance Wallnau). Immed..."
+- [00:13:18](/episodes/ep-YaZfwLQ7vrI.md#^t-00-13-01)
+  > "...Wallnau (Lance Wallnau) is in this article. So is Sean Feucht (Sean Feucht). Now you're thinking these names might sound familiar. Certainly Sean Feucht (Sean Fe..."
 
 ## Relationships
 

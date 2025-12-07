@@ -8,6 +8,11 @@ _Type: Places_
 
 ## Mentions
 
+### [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
+
+- [01:03:09](/episodes/ep-czVBmqZP6Ss.md#^t-01-02-48)
+  > "...initely read Shlomo Sand. There is a book called “The Invention of the Jewish People” that gets into Israel full stop. He was, I believe, a professor, a historian, at Tel Aviv Universi..."
+
 ### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:31:34](/episodes/ep-mKXdKV-OBog.md#^t-00-30-55)

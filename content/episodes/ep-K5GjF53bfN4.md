@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=K5GjF53bfN4"
 
 **Published:** 2025-09-25 | [Watch on YouTube](https://www.youtube.com/watch?v=K5GjF53bfN4)
 
-**Stats:** 31 entities | 7 events | 11 claims
+**Stats:** 30 entities | 7 events | 11 claims
 
 ---
 
@@ -261,4 +261,4 @@ youtube_url: "https://www.youtube.com/watch?v=K5GjF53bfN4"
 
 **Organizations:** [Amazon](/entities/org-amazon.md), [FBI](/entities/org-fbi.md), [PragerU](/entities/org-prageru.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md)
 
-**People:** [Andrew Kolvet](/entities/person-andrew-colvett.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Elon Musk](/entities/person-elon-musk.md), [Erika Kirk](/entities/person-erica-kirk.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Josh Hammer](/entities/person-josh-hammer.md), [Justin Streiff](/entities/person-justin-strief.md), [Marissa Streit](/entities/person-marissa-streit.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Seth Dillon](/entities/person-seth-dillon.md), [Taylor Lorenz](/entities/person-taylor-lorenz.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Vivek Ramaswamy](/entities/person-vivek-ramaswamy.md), [Xavier DeRusso](/entities/person-xavier-derusso.md)
+**People:** [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Elon Musk](/entities/person-elon-musk.md), [Erika Kirk](/entities/person-erica-kirk.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Josh Hammer](/entities/person-josh-hammer.md), [Justin Streiff](/entities/person-justin-strief.md), [Marissa Streit](/entities/person-marissa-streit.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Seth Dillon](/entities/person-seth-dillon.md), [Taylor Lorenz](/entities/person-taylor-lorenz.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Vivek Ramaswamy](/entities/person-vivek-ramaswamy.md), [Xavier DeRusso](/entities/person-xavier-derusso.md)

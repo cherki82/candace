@@ -16,6 +16,8 @@ _Type: Work_
 
 - [01:04:00](/episodes/ep-his-JBjlkh8.md#^t-01-03-25)
   > ".... The truth shall set us all free. Thanks for the USS Liberty episode as well." To this day, the best interview that we have ever given. We were all—you could fe..."
+- [01:04:06](/episodes/ep-his-JBjlkh8.md#^t-01-03-25)
+  > "...iritual movement in this room when we interviewed Phil Turney of the USS Liberty. I'll never forget that interview. It transformed me. It was a major turning poi..."
 
 ## Relationships
 

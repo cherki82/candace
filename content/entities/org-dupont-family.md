@@ -42,7 +42,7 @@ _Type: Organizations_
 
 ### Affiliated With
 
-- [American military](/entities/org-american-military.md)
+- [United States military](/entities/org-united-states-military.md)
   - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:30:00](/episodes/ep-tB5SXXmd9vU.md#^t-00-29-47): ""DuPont also has extreme ties to both the American and the French military.""
 - [French military](/entities/org-french-military.md)
   - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:30:00](/episodes/ep-tB5SXXmd9vU.md#^t-00-29-47): ""DuPont also has extreme ties to both the American and the French military.""
@@ -54,5 +54,8 @@ _Type: Organizations_
 
 ### Referenced By
 
+- [Pierre Samuel du Pont de Nemours](/entities/person-pierre-samuel-du-pont-de-nemours.md) **founded** this
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:30:49](/episodes/ep-a-e7HC6SeK8.md#^t-00-30-38)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:29:47](/episodes/ep-tB5SXXmd9vU.md#^t-00-29-13)
 - [Lisa Dean](/entities/person-lisa-dean.md) **member of** this
   - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:39](/episodes/ep-a-e7HC6SeK8.md#^t-00-10-27)

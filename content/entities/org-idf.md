@@ -2,9 +2,14 @@
 title: "IDF"
 id: "org-idf"
 type: "ORG"
+aliases:
+  - "Israel Defense Forces"
+  - "Israeli Defense Forces"
 ---
 
 _Type: Organizations_
+
+**Also known as:** Israel Defense Forces, Israeli Defense Forces
 
 ## Mentions
 

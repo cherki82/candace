@@ -12,6 +12,11 @@ _Type: Organizations_
 
 ## Mentions
 
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
+
+- [00:04:43](/episodes/ep-sreYYcID-QY.md#^t-00-04-09)
+  > "...ootage of the alleged giant Boeing plane that hit the Pentagon building? We weren't allowed to see that for a very long time. I think someone actually in Congress..."
+
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:13:32](/episodes/ep-tB5SXXmd9vU.md#^t-00-13-15)

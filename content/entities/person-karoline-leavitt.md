@@ -12,6 +12,8 @@ _Type: People_
 
 - [00:27:43](/episodes/ep-mKXdKV-OBog.md#^t-00-27-32)
   > "...shamelessness that I don't know. What was it that Karoline Leavitt said? They asked Karoline Leavitt about this at the White House, and she said—and I quote—"The Whit..."
+- [00:27:45](/episodes/ep-mKXdKV-OBog.md#^t-00-27-32)
+  > "...id? They asked Karoline Leavitt about this at the White House, and she said—and I quote—"The White House was not aware of that meeting, but the president stands ..."
 
 ## Relationships
 

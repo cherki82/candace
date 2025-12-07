@@ -246,9 +246,9 @@ _Type: People_
 - [Tim Ballard](/entities/person-tim-ballard.md)
   - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:06:28](/episodes/ep-YA1FxrDWNIo.md#^t-00-06-12): "I've actually interviewed him."
   - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:06](/episodes/ep-YA1FxrDWNIo.md#^t-00-00-01): "I've actually interviewed him."
-- [Norm Finkelstein](/entities/person-norm-finkelstein.md)
+- [Norman Finkelstein](/entities/person-norman-finkelstein.md)
   - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:15:11](/episodes/ep-LATnak75Si0.md#^t-00-14-30): "when Norm Finkelstein was on our show"
-- [Phil Tourney](/entities/person-phil-tourney.md)
+- [Phil Turney](/entities/person-phil-turney.md)
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 01:04:06](/episodes/ep-his-JBjlkh8.md#^t-01-03-25): "when we interviewed Phil Tourney of the USS Liberty."
 - [Russell Brand](/entities/person-russell-brand.md)
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:56](/episodes/ep-his-JBjlkh8.md#^t-00-03-40): "[00:57:53] I spoke about it more at length with Russell Brand on his show, so that should be coming out soon."

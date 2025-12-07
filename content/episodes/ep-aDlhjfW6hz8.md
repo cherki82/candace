@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=aDlhjfW6hz8"
 
 **Published:** 2025-09-19 | [Watch on YouTube](https://www.youtube.com/watch?v=aDlhjfW6hz8)
 
-**Stats:** 25 entities | 6 events | 54 claims
+**Stats:** 24 entities | 6 events | 54 claims
 
 ---
 
@@ -325,4 +325,4 @@ youtube_url: "https://www.youtube.com/watch?v=aDlhjfW6hz8"
 
 **Organizations:** [AIPAC](/entities/org-aipac.md), [Caldera Engineering](/entities/org-caldera-engineering.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [FBI](/entities/org-fbi.md), [TMZ](/entities/org-tmz.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md), [White House](/entities/org-white-house.md)
 
-**People:** [Andrew Kolvet](/entities/person-andrew-colvett.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Eric Bolling](/entities/person-eric-bolling.md), [Erika Kirk](/entities/person-erica-kirk.md), [Kanye West](/entities/person-kanye-west.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Eric Bolling](/entities/person-eric-bolling.md), [Erika Kirk](/entities/person-erica-kirk.md), [Kanye West](/entities/person-kanye-west.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)

@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=LATnak75Si0"
 
 **Published:** 2025-11-05 | [Watch on YouTube](https://www.youtube.com/watch?v=LATnak75Si0)
 
-**Stats:** 37 entities | 8 events | 14 claims
+**Stats:** 36 entities | 8 events | 14 claims
 
 ---
 
@@ -393,7 +393,7 @@ youtube_url: "https://www.youtube.com/watch?v=LATnak75Si0"
 
 **Places:** [Israel](/entities/gpe-israel.md), [New York City](/entities/gpe-new-york-city.md), [Ukraine](/entities/gpe-ukraine.md), [United States](/entities/gpe-united-states.md), [Utah](/entities/gpe-utah.md)
 
-**Organizations:** [The Daily Wire](/entities/org-the-daily-wire.md), [The Pentagon](/entities/org-the-pentagon.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+**Organizations:** [The Daily Wire](/entities/org-the-daily-wire.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
 **People:** [Andrew Cuomo](/entities/person-andrew-cuomo.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Brett Cooper](/entities/person-brett-cooper.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erica-kirk.md), [Jesse Watters](/entities/person-jesse-watters.md), [Joe Gebbia](/entities/person-joe-gebbia.md), [Josh Hammer](/entities/person-josh-hammer.md), [Laura Loomer](/entities/person-laura-loomer.md), [Mamdani](/entities/person-mamdani.md), [Michael Bloomberg](/entities/person-michael-bloomberg.md), [Michael Knowles](/entities/person-michael-knowles.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Randy Fine](/entities/person-randy-fine.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Ted Cruz](/entities/person-ted-cruz.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Vivek Ramaswamy](/entities/person-vivek-ramaswamy.md)
 

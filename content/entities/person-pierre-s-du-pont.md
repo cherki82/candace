@@ -12,6 +12,8 @@ _Type: People_
 
 - [00:29:47](/episodes/ep-tB5SXXmd9vU.md#^t-00-29-13)
   > "...on, a philanthropic nonprofit that was founded by Pierre S. du Pont to make it function as a quote-unquote educational center. There's just one problem with that. Pier..."
+- [00:29:28](/episodes/ep-tB5SXXmd9vU.md#^t-00-29-13)
+  > "...ssed which would provide financial support to the Longwood Foundation, a philanthropic nonprofit that was founded by Pierre S. du Pont to make it function as a quote-unq..."
 
 ## Relationships
 

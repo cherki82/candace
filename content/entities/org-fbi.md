@@ -2,9 +2,13 @@
 title: "FBI"
 id: "org-fbi"
 type: "ORG"
+aliases:
+  - "Federal Bureau of Investigation"
 ---
 
 _Type: Organizations_
+
+**Also known as:** Federal Bureau of Investigation
 
 ## Mentions
 

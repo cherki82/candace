@@ -173,3 +173,6 @@ _Type: People_
 - [Mikey McCoy](/entities/person-mikey-mccoy.md) **child of** this
   - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:35:03](/episodes/ep-581dILVcEE4.md#^t-00-34-30)
   - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:38:52](/episodes/ep-LATnak75Si0.md#^t-00-38-18)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) **close associate of** this
+  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:00:05](/episodes/ep-581dILVcEE4.md#^t-00-00-00)
+  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:03:51](/episodes/ep-581dILVcEE4.md#^t-00-03-33)

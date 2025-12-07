@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=tB5SXXmd9vU"
 
 **Published:** 2025-12-01 | [Watch on YouTube](https://www.youtube.com/watch?v=tB5SXXmd9vU)
 
-**Stats:** 40 entities | 9 events | 80 claims
+**Stats:** 39 entities | 9 events | 80 claims
 
 ---
 
@@ -340,6 +340,6 @@ youtube_url: "https://www.youtube.com/watch?v=tB5SXXmd9vU"
 
 **Organizations:** [DuPont family](/entities/org-dupont-family.md), [FBI](/entities/org-fbi.md), [French Foreign Legion](/entities/org-french-foreign-legion.md), [Safari Club](/entities/org-safari-club.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [Utah Valley University](/entities/org-utah-valley-university.md), [White House](/entities/org-white-house.md)
 
-**People:** [Andrew Kolvet](/entities/person-andrew-colvett.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Eric Bolling](/entities/person-eric-bolling.md), [Freddie Ponton](/entities/person-freddie-ponton.md), [Jean-Michel Trogneux](/entities/person-jean-michel-trogneux.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Kanye West](/entities/person-kanye-west.md), [Pavel Durov](/entities/person-pavel-durov.md), [Steven Crowder](/entities/person-steven-crowder.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Xavier Poussard](/entities/person-xavier-poussard.md)
+**People:** [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Eric Bolling](/entities/person-eric-bolling.md), [Freddie Ponton](/entities/person-freddie-ponton.md), [Jean-Michel Trogneux](/entities/person-jean-michel-trogneux.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Kanye West](/entities/person-kanye-west.md), [Pavel Durov](/entities/person-pavel-durov.md), [Steven Crowder](/entities/person-steven-crowder.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Xavier Poussard](/entities/person-xavier-poussard.md)
 
 **Work:** [Becoming Brigitte](/entities/work-becoming-brigitte.md)

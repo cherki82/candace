@@ -27,7 +27,7 @@ _Type: Organizations_
 
 ### Based In
 
-- [Provo, Utah](/entities/gpe-provo-utah.md)
+- [Provo](/entities/gpe-provo.md)
   - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:18:48](/episodes/ep-aDlhjfW6hz8.md#^t-00-18-15): "Caldera Engineering in Provo, Utah"
   - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:18:58](/episodes/ep-aDlhjfW6hz8.md#^t-00-18-15): "companies like Caldera Engineering in Provo, Utah"
 

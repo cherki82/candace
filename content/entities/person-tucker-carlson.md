@@ -187,10 +187,13 @@ _Type: People_
   - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:03](/episodes/ep-r1PS67aRmcA.md#^t-00-04-34): "after I saw what he did with Nick Fuentes"
 - [Conrad Flynn](/entities/person-conrad-flynn.md)
   - [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 @ 00:04:33](/episodes/ep-5autG89PW6w.md#^t-00-04-11): "the writer-producer Conrad Flynn that recently went on to Tucker (Tucker Carlson)'s show"
-- [Andrew Colvett](/entities/person-andrew-colvett.md)
+- [Andrew Colvett](/entities/person-andrew-kolvet.md)
   - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:21:31](/episodes/ep-ozWJz2spBcI.md#^t-00-21-14): "Andrew Colvett when he sat across from Tucker Carlson"
 
 ### Referenced By
 
 - [Candace Owens](/entities/person-candace-owens.md) **interviewed** this
   - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:16:31](/episodes/ep-a-e7HC6SeK8.md#^t-00-16-11)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) **interviewed by** this
+  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:04:12](/episodes/ep-r1PS67aRmcA.md#^t-00-03-33)
+  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:31:58](/episodes/ep-sreYYcID-QY.md#^t-00-31-15)

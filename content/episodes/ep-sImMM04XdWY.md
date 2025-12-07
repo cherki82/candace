@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=sImMM04XdWY"
 
 **Published:** 2025-11-20 | [Watch on YouTube](https://www.youtube.com/watch?v=sImMM04XdWY)
 
-**Stats:** 43 entities | 15 events | 16 claims
+**Stats:** 42 entities | 15 events | 16 claims
 
 ---
 
@@ -282,6 +282,6 @@ youtube_url: "https://www.youtube.com/watch?v=sImMM04XdWY"
 
 **Organizations:** [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Club Candace](/entities/org-club-candace.md), [FBI](/entities/org-fbi.md), [Financial Times](/entities/org-financial-times.md), [Satis](/entities/org-satis.md), [Stanford University](/entities/org-stanford-university.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md), [White House](/entities/org-white-house.md)
 
-**People:** [Andrew Kolvet](/entities/person-andrew-colvett.md), [Bill Ackman](/entities/person-bill-ackman.md), [Brian Harpole](/entities/person-brian-harpole.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [George Zinn](/entities/person-george-zinn.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Kanye West](/entities/person-kanye-west.md), [Kash Patel](/entities/person-kash-patel.md), [Sean Ryan](/entities/person-sean-ryan.md), [Sergio Gor](/entities/person-sergio-gor.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Volodymyr Zelensky](/entities/person-volodymyr-zelensky.md), [Xavier Poussard](/entities/person-xavier-poussard.md)
+**People:** [Bill Ackman](/entities/person-bill-ackman.md), [Brian Harpole](/entities/person-brian-harpole.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [George Zinn](/entities/person-george-zinn.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Kanye West](/entities/person-kanye-west.md), [Kash Patel](/entities/person-kash-patel.md), [Sean Ryan](/entities/person-sean-ryan.md), [Sergio Gor](/entities/person-sergio-gor.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Volodymyr Zelensky](/entities/person-volodymyr-zelensky.md), [Xavier Poussard](/entities/person-xavier-poussard.md)
 
 **Work:** [Becoming Brigitte](/entities/work-becoming-brigitte.md)

@@ -1,16 +1,46 @@
 # Candace Knowledge Graph
 
+<div class="support-banner">
+  <span class="support-text">If you find this resource useful, consider supporting the project</span>
+  <a href="https://buymeacoffee.com/cherki" target="_blank" class="support-btn">☕ Buy Me a Coffee</a>
+</div>
+
+<style>
+.support-banner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.8em;
+  padding: 0.8em 1.2em;
+  margin: 0.5em 0 1.5em 0;
+  border-radius: 8px;
+  background: var(--lightgray);
+  border: 1px solid var(--gray);
+}
+.support-text {
+  color: var(--darkgray);
+  font-size: 0.95em;
+}
+.support-btn {
+  display: inline-block;
+  padding: 0.5em 1.2em;
+  background: var(--secondary);
+  color: var(--light) !important;
+  font-weight: 600;
+  text-decoration: none !important;
+  border-radius: 6px;
+  font-size: 0.9em;
+  white-space: nowrap;
+}
+.support-btn:hover {
+  opacity: 0.9;
+}
+</style>
+
 An open-source research database documenting Candace Owens' investigations into the Charlie Kirk assassination, the Brigitte Macron controversy, and related topics.
 
 This project uses AI to automatically transcribe episodes, extract entities (people, organizations, places), identify claims, build timelines, and map relationships—making it easy to search, verify, and cross-reference information across hundreds of hours of content.
-
----
-
-<div style="background: linear-gradient(135deg, #ff813f 0%, #ff5f6d 100%); padding: 1.2em 1.5em; border-radius: 10px; margin: 1.5em 0; text-align: center;">
-  <strong style="color: white; font-size: 1.1em;">Support This Project</strong><br>
-  <span style="color: rgba(255,255,255,0.9);">If you find this resource useful, consider buying me a coffee!</span><br>
-  <a href="https://buymeacoffee.com/cherki" target="_blank" style="display: inline-block; margin-top: 0.8em; padding: 0.6em 1.5em; background: white; color: #ff5f6d; font-weight: bold; text-decoration: none; border-radius: 6px;">☕ buymeacoffee.com/cherki</a>
-</div>
 
 ---
 

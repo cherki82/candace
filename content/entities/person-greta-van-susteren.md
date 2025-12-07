@@ -8,6 +8,11 @@ _Type: People_
 
 ## Mentions
 
+### [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
+
+- [00:01:58](/episodes/ep-K5GjF53bfN4.md#^t-00-01-27)
+  > "...ially because when he went on multiple hits doing Fox News and Greta Van Susteren's show, he lied about the contents of a letter that Charlie Kirk had written..."
+
 ### [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 
 - [00:26:16](/episodes/ep-czVBmqZP6Ss.md#^t-00-26-07)

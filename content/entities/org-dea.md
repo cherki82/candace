@@ -2,9 +2,13 @@
 title: "DEA"
 id: "org-dea"
 type: "ORG"
+aliases:
+  - "Drug Enforcement Administration"
 ---
 
 _Type: Organizations_
+
+**Also known as:** Drug Enforcement Administration
 
 ## Mentions
 

@@ -12,6 +12,8 @@ _Type: Organizations_
 
 - [00:32:55](/episodes/ep-tB5SXXmd9vU.md#^t-00-32-32)
   > "...arently a global biopharmaceutical company called Incyte owns it, okay? If they're using this construction site, it seems to me that they're doing it to buy..."
+- [00:33:45](/episodes/ep-tB5SXXmd9vU.md#^t-00-33-10)
+  > "...CEO of that biopharmaceutical company Incyte was? Hervé Hoppenot. And guess what? He's also French. He's not just French, but he is a French national. He seems to h..."
 
 ## Relationships
 

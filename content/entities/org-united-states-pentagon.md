@@ -2,9 +2,14 @@
 title: "United States Pentagon"
 id: "org-united-states-pentagon"
 type: "ORG"
+aliases:
+  - "Pentagon"
+  - "The Pentagon"
 ---
 
 _Type: Organizations_
+
+**Also known as:** Pentagon, The Pentagon
 
 ## Mentions
 

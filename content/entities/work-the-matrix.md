@@ -12,10 +12,29 @@ _Type: Work_
 
 ## Mentions
 
+### [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
+
+- [00:53:33](/episodes/ep-2Riv3I7D0Yk.md#^t-00-53-26)
+  > "...p and learning exactly how this matrix works. And Alex Jones brought this up on his show, my kill switch. Here's what he had to say. (Clip of Alex Jones:) "Boy,..."
+
+### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
+
+- [00:49:24](/episodes/ep-ZAuuSq_j2_w.md#^t-00-49-20)
+  > "...power do we have to fight the billionaires or the Department of Defense. The reality is, is like, you got to start in your home, right? There's just, it was a matrix. Take..."
+- [00:40:05](/episodes/ep-ZAuuSq_j2_w.md#^t-00-39-23)
+  > "...w the whole matrix works. Okay, comments. We have Deb Skates. That is a massive donation. Thank you so much, Deb. She wrote, you may need some help with legal f..."
+
 ### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:56:08](/episodes/ep-a-e7HC6SeK8.md#^t-00-55-43)
   > ".... And I feel like that's happened since I escaped the Matrix. This person writes, supporting my favorite girl. My mouth was wide when you dropped the name DuPon..."
+
+### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+
+- [00:48:49](/episodes/ep-tB5SXXmd9vU.md#^t-00-48-25)
+  > "...and he speaks about this. This is how they create the matrix. Insecure men speak like that, okay? They want people who are insecure to allow terrible things to ..."
+- [00:49:45](/episodes/ep-tB5SXXmd9vU.md#^t-00-49-28)
+  > "...lasting his early music. One of his first songs, "All Falls Down," and he speaks about this. This is how they create the matrix. Insecure men speak like that, okay?..."
 
 ## Relationships
 

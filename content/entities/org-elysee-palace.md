@@ -16,6 +16,10 @@ _Type: Organizations_
 
 - [00:24:51](/episodes/ep-ZAuuSq_j2_w.md#^t-00-24-28)
   > "...nd of strange that neither the White House or the Élysée Palace or even the United States Pentagon has formally denied this quote unquote crazy claim? That's what ..."
+- [00:24:47](/episodes/ep-ZAuuSq_j2_w.md#^t-00-24-28)
+  > "...at hey, isn't it kind of strange that neither the White House nor the Élysée Palace—or even the United States Pentagon—has formally denied this quote-unquote cra..."
+- [00:21:14](/episodes/ep-ZAuuSq_j2_w.md#^t-00-20-32)
+  > "... the White House or the Élysée Palace or even the United States Pentagon has formally denied this quote unquote crazy claim? That's what Hollywood's for, right? Yo..."
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 

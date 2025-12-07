@@ -23,3 +23,5 @@ _Type: People_
 
 - [Candace Owens](/entities/person-candace-owens.md) **interviewed** this
   - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:39:19](/episodes/ep-Qt0VHV-POCg.md#^t-00-38-57)
+- [Candace Owens](/entities/person-candace-owens.md) **interviewed** this
+  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:15:11](/episodes/ep-LATnak75Si0.md#^t-00-14-30)

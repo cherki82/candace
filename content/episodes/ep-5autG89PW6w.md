@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=5autG89PW6w"
 
 **Published:** 2025-10-07 | [Watch on YouTube](https://www.youtube.com/watch?v=5autG89PW6w)
 
-**Stats:** 26 entities | 6 events | 9 claims
+**Stats:** 25 entities | 6 events | 9 claims
 
 ---
 
@@ -294,6 +294,6 @@ youtube_url: "https://www.youtube.com/watch?v=5autG89PW6w"
 
 **Organizations:** [FBI](/entities/org-fbi.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [White House](/entities/org-white-house.md)
 
-**People:** [Andrew Kolvet](/entities/person-andrew-colvett.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erica-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [George Zinn](/entities/person-george-zinn.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kanye West](/entities/person-kanye-west.md), [Laura Loomer](/entities/person-laura-loomer.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erica-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [George Zinn](/entities/person-george-zinn.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kanye West](/entities/person-kanye-west.md), [Laura Loomer](/entities/person-laura-loomer.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 **Work:** [Succession](/entities/work-succession.md)

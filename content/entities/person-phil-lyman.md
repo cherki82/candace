@@ -52,7 +52,7 @@ _Type: People_
 
 ### Referenced By
 
-- [George Zin](/entities/person-george-zin.md) **endorsed** this
+- [George Zinn](/entities/person-george-zinn.md) **endorsed** this
   - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:03:27](/episodes/ep-adJ4LNGp84I.md#^t-00-02-54)
 - [George Zinn](/entities/person-george-zinn.md) **endorsed** this
   - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:03:27](/episodes/ep-adJ4LNGp84I.md#^t-00-02-54)

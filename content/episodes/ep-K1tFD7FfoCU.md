@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=K1tFD7FfoCU"
 
 **Published:** 2025-11-03 | [Watch on YouTube](https://www.youtube.com/watch?v=K1tFD7FfoCU)
 
-**Stats:** 30 entities | 7 events | 14 claims
+**Stats:** 29 entities | 7 events | 14 claims
 
 ---
 
@@ -283,4 +283,4 @@ youtube_url: "https://www.youtube.com/watch?v=K1tFD7FfoCU"
 
 **Organizations:** [AIPAC](/entities/org-aipac.md), [FBI](/entities/org-fbi.md), [Jerusalem Post](/entities/org-jerusalem-post.md), [Republican Jewish Coalition](/entities/org-republican-jewish-coalition.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md)
 
-**People:** [Andrew Kolvet](/entities/person-andrew-colvett.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erica-kirk.md), [Jesse Watters](/entities/person-jesse-watters.md), [Jussie Smollett](/entities/person-jussie-smollett.md), [Kash Patel](/entities/person-kash-patel.md), [Lindsey Graham](/entities/person-lindsey-graham.md), [Matt Walsh](/entities/person-matt-walsh.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Michael Starr](/entities/person-michael-starr.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Randy Fine](/entities/person-randy-fine.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+**People:** [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erica-kirk.md), [Jesse Watters](/entities/person-jesse-watters.md), [Jussie Smollett](/entities/person-jussie-smollett.md), [Kash Patel](/entities/person-kash-patel.md), [Lindsey Graham](/entities/person-lindsey-graham.md), [Matt Walsh](/entities/person-matt-walsh.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Michael Starr](/entities/person-michael-starr.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Randy Fine](/entities/person-randy-fine.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)

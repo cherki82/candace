@@ -73,4 +73,8 @@ _Type: Places_
 
 ## Relationships
 
-_No relationships extracted yet._
+### Referenced By
+
+- [Wilmington](/entities/gpe-wilmington.md) **located in** this
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:24](/episodes/ep-tB5SXXmd9vU.md#^t-00-23-12)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#^t-00-23-12)

@@ -12,6 +12,10 @@ _Type: Organizations_
 
 - [00:19:05](/episodes/ep-adJ4LNGp84I.md#^t-00-18-55)
   > "... you guys have been sending those clues about the Azov Battalion, about Ukrainian, Russian people that were coming into Utah. There seems to be some organized movem..."
+- [00:19:45](/episodes/ep-adJ4LNGp84I.md#^t-00-19-30)
+  > "...binson when he's a lot younger visiting his Uncle Mikey, okay? His Uncle Mikey, who is working with the Ukrainian Azov Battalion. He's a military man. And that g..."
+- [00:19:23](/episodes/ep-adJ4LNGp84I.md#^t-00-18-55)
+  > "... clues about the Azov Battalion, about Ukrainian, Russian people that were coming into Utah. There seems to be some organized movement, people that are bein..."
 
 ### [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
 

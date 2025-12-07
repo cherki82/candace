@@ -12,6 +12,8 @@ _Type: Organizations_
 
 - [00:16:26](/episodes/ep-tB5SXXmd9vU.md#^t-00-16-09)
   > "...Brigade, were integrated with U.S. Marines of the 6th Marine Regiment for a three-week training deployment. That took place in California. And then once that training en..."
+- [00:16:09](/episodes/ep-tB5SXXmd9vU.md#^t-00-15-25)
+  > "...gust 25th of this year, the legionnaires from the 4th Company, 2nd Foreign Infantry Regiment, the 6th Light Armored Brigade, were integrated with U.S. Marines of the 6th Marine Regiment for a ..."
 
 ## Relationships
 

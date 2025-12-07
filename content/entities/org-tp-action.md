@@ -17,5 +17,5 @@ _Type: Organizations_
 
 ### Referenced By
 
-- [Tyler Boyer](/entities/person-tyler-boyer.md) **employed by** this
+- [Tyler Bowyer](/entities/person-tyler-bowyer.md) **employed by** this
   - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:27](/episodes/ep-ozWJz2spBcI.md#^t-00-00-00)

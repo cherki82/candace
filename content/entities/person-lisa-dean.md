@@ -16,6 +16,8 @@ _Type: People_
 
 - [00:10:39](/episodes/ep-a-e7HC6SeK8.md#^t-00-10-27)
   > "...raced back to the DuPont family. It appeared that Lisa Dean, who is a DuPont, didn't approve of her drug-addicted son dating a drug-addicted Vegas sex worker. ..."
+- [00:10:32](/episodes/ep-a-e7HC6SeK8.md#^t-00-10-27)
+  > "...otel. She was killed by three hired hands. And as Dominick Dunne reported in Vanity Fair, the money traced back to the DuPont family. It appeared that Lisa Dean, wh..."
 
 ## Relationships
 

@@ -12,6 +12,8 @@ _Type: People_
 
 - [00:02:50](/episodes/ep-YA1FxrDWNIo.md#^t-00-02-13)
   > "...hane; I'd like to correct that record—his nephew, Shaner Broderick, who rather notoriously retraced the footpath of the killer with his two close friends. They were l..."
+- [00:11:37](/episodes/ep-YA1FxrDWNIo.md#^t-00-11-29)
+  > "...e moved to Utah to become a software engineer for JPMorgan Chase. And I guess the story goes that he became best friends with Shaner Broderick. I don't know. We'll ..."
 
 ### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
 

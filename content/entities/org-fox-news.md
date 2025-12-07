@@ -2,9 +2,15 @@
 title: "Fox News"
 id: "org-fox-news"
 type: "ORG"
+aliases:
+  - "FNC"
+  - "Fox"
+  - "Fox News Channel"
 ---
 
 _Type: Organizations_
+
+**Also known as:** FNC, Fox, Fox News Channel
 
 ## Mentions
 

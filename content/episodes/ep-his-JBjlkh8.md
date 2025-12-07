@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=his-JBjlkh8"
 
 **Published:** 2025-12-03 | [Watch on YouTube](https://www.youtube.com/watch?v=his-JBjlkh8)
 
-**Stats:** 33 entities | 5 events | 13 claims
+**Stats:** 32 entities | 5 events | 13 claims
 
 ---
 
@@ -479,4 +479,4 @@ youtube_url: "https://www.youtube.com/watch?v=his-JBjlkh8"
 
 **Organizations:** [Amazon](/entities/org-amazon.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Club Candace](/entities/org-club-candace.md), [DuPont family](/entities/org-dupont-family.md), [FBI](/entities/org-fbi.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
-**People:** [Andrew Kolvet](/entities/person-andrew-colvett.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Cam Higby](/entities/person-cam-higby.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Smith](/entities/person-dave-smith.md), [Donald Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erica-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kanye West](/entities/person-kanye-west.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+**People:** [Brigitte Macron](/entities/person-brigitte-macron.md), [Cam Higby](/entities/person-cam-higby.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Smith](/entities/person-dave-smith.md), [Donald Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erica-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kanye West](/entities/person-kanye-west.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)

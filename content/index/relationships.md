@@ -1,6 +1,6 @@
 # Relationships Index
 
-_Total relationships: 279_
+_Total relationships: 291_
 
 This page shows all extracted relationships between entities.
 
@@ -15,7 +15,7 @@ This page shows all extracted relationships between entities.
 | criticized | 25 |
 | member of | 19 |
 | based in | 15 |
-| founded | 13 |
+| founded | 14 |
 | married to | 10 |
 | headquartered in | 10 |
 | lives in | 8 |
@@ -33,18 +33,26 @@ This page shows all extracted relationships between entities.
 | sued | 2 |
 | advisor to | 2 |
 | debated | 2 |
+| worked with | 2 |
+| interviewed by | 2 |
+| located in | 2 |
 | child of | 1 |
 | pardoned | 1 |
 | born in | 1 |
 | acquired | 1 |
+| political ally of | 1 |
+| close associate of | 1 |
+| contributor to | 1 |
+| COO of | 1 |
+| former contributor to | 1 |
 
 <details open>
 <summary>Works At (33)</summary>
 
 - [Alex Clark](/entities/person-alex-clark.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
-- [Andrew Collett](/entities/person-andrew-collett.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
-- [Andrew Coltvet](/entities/person-andrew-coltvet.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
-- [Andrew Kolvet](/entities/person-andrew-colvett.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
+- [Andrew Kolvet](/entities/person-andrew-kolvet.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
+- [Andrew Kolvet](/entities/person-andrew-kolvet.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
+- [Andrew Kolvet](/entities/person-andrew-kolvet.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
 - [Ashley Reinsberg](/entities/person-ashley-reinsberg.md) → [The Free Press](/entities/org-the-free-press.md)
 - [Austin Erickson](/entities/person-austin-erickson.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
 - [Bari Weiss](/entities/person-bari-weiss.md) → [CBS](/entities/org-cbs.md)
@@ -57,7 +65,7 @@ This page shows all extracted relationships between entities.
 - [Charlie Kirk](/entities/person-charlie-kirk.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
 - [Cooper Brown](/entities/person-cooper-brown.md) → [Leadership Institute](/entities/org-leadership-institute.md)
 - [Dylan Erickson](/entities/person-dylan-erickson.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
-- [Erika Mendl](/entities/person-erika-mendl.md) → [TikTok](/entities/org-tiktok.md)
+- [Erica Mindel](/entities/person-erica-mindel.md) → [TikTok](/entities/org-tiktok.md)
 - [Gernot Omer](/entities/person-gernot-omer.md) → [BearingPoint](/entities/org-bearingpoint.md)
 - [Jeff Long](/entities/person-jeff-long.md) → [Utah Valley University](/entities/org-utah-valley-university.md)
 - [Josh Hammer](/entities/person-josh-hammer.md) → [Newsweek](/entities/org-newsweek.md)
@@ -73,7 +81,7 @@ This page shows all extracted relationships between entities.
 - [Sean Feucht](/entities/person-sean-feucht.md) → [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)
 - [Shaner Broderick](/entities/person-shaner-broderick.md) → [Senator Mike Lee](/entities/person-senator-mike-lee.md)
 - [Stacey Sheridan](/entities/person-stacey-sheridan.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
-- [Tyler Boyer](/entities/person-tyler-boyer.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
+- [Tyler Bowyer](/entities/person-tyler-bowyer.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 
@@ -90,7 +98,7 @@ This page shows all extracted relationships between entities.
 - [Candace Owens](/entities/person-candace-owens.md) → [Preborn](/entities/org-preborn.md)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
 - [Donald Trump Jr.](/entities/person-donald-trump-jr.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
-- [DuPont](/entities/org-dupont-family.md) → [American military](/entities/org-american-military.md)
+- [DuPont](/entities/org-dupont-family.md) → [United States military](/entities/org-united-states-military.md)
 - [DuPont](/entities/org-dupont-family.md) → [French military](/entities/org-french-military.md)
 - [Erwin Steele](/entities/person-erwin-steele.md) → [Caldera Engineering](/entities/org-caldera-engineering.md)
 - [FBI](/entities/org-fbi.md) → [Anti-Defamation League](/entities/org-anti-defamation-league.md)
@@ -110,7 +118,7 @@ This page shows all extracted relationships between entities.
 - [Rob McCoy](/entities/person-rob-mccoy.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
 - [T.W. Lewis Foundation](/entities/org-tw-lewis-foundation.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
 - [Ted Cruz](/entities/person-ted-cruz.md) → [The Daily Wire](/entities/org-the-daily-wire.md)
-- [Tyler Boyer](/entities/person-tyler-boyer.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
+- [Tyler Bowyer](/entities/person-tyler-bowyer.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
 - [Victoria Churchill](/entities/person-victoria-churchill.md) → [AIPAC](/entities/org-aipac.md)
 
 </details>
@@ -118,7 +126,7 @@ This page shows all extracted relationships between entities.
 <details open>
 <summary>Interviewed (31)</summary>
 
-- [Alex Clark](/entities/person-alex-clark.md) → [Andrew Colvett](/entities/person-andrew-colvett.md)
+- [Alex Clark](/entities/person-alex-clark.md) → [Andrew Colvett](/entities/person-andrew-kolvet.md)
 - [Andrew K. Smith](/entities/person-andrew-k-smith.md) → [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [Ben Shapiro](/entities/person-ben-shapiro.md) → [Candace Owens](/entities/person-candace-owens.md)
 - [Ben Shapiro](/entities/person-ben-shapiro.md) → [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
@@ -128,8 +136,8 @@ This page shows all extracted relationships between entities.
 - [Candace Owens](/entities/person-candace-owens.md) → [Ami Kozak](/entities/person-ami-kozak.md)
 - [Candace Owens](/entities/person-candace-owens.md) → [Norman Finkelstein](/entities/person-norman-finkelstein.md)
 - [Candace Owens](/entities/person-candace-owens.md) → [Tim Ballard](/entities/person-tim-ballard.md)
-- [Candace Owens](/entities/person-candace-owens.md) → [Norm Finkelstein](/entities/person-norm-finkelstein.md)
-- [Candace Owens](/entities/person-candace-owens.md) → [Phil Tourney](/entities/person-phil-tourney.md)
+- [Candace Owens](/entities/person-candace-owens.md) → [Norman Finkelstein](/entities/person-norman-finkelstein.md)
+- [Candace Owens](/entities/person-candace-owens.md) → [Phil Turney](/entities/person-phil-turney.md)
 - [Candace Owens](/entities/person-candace-owens.md) → [Russell Brand](/entities/person-russell-brand.md)
 - [Candace Owens](/entities/person-candace-owens.md) → [Phil Turney](/entities/person-phil-turney.md)
 - [Candace Owens](/entities/person-candace-owens.md) → [Tucker Carlson](/entities/person-tucker-carlson.md)
@@ -144,18 +152,18 @@ This page shows all extracted relationships between entities.
 - [Patrick Bet-David](/entities/person-patrick-bet-david.md) → [Eric Bolling](/entities/person-eric-bolling.md)
 - [Rob McCoy](/entities/person-rob-mccoy.md) → [Thomas Michael Camino](/entities/person-thomas-michael-camino.md)
 - [Sean Ryan](/entities/person-sean-ryan.md) → [Brian Harpole](/entities/person-brian-harpole.md)
-- [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md) → [Tyler Boyer](/entities/person-tyler-boyer.md)
+- [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md) → [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 - [Tucker Carlson](/entities/person-tucker-carlson.md) → [Candace Owens](/entities/person-candace-owens.md)
 - [Tucker Carlson](/entities/person-tucker-carlson.md) → [Nick Fuentes](/entities/person-nick-fuentes.md)
 - [Tucker Carlson](/entities/person-tucker-carlson.md) → [Conrad Flynn](/entities/person-conrad-flynn.md)
-- [Tucker Carlson](/entities/person-tucker-carlson.md) → [Andrew Colvett](/entities/person-andrew-colvett.md)
+- [Tucker Carlson](/entities/person-tucker-carlson.md) → [Andrew Colvett](/entities/person-andrew-kolvet.md)
 
 </details>
 
 <details open>
 <summary>Employed By (29)</summary>
 
-- [Andrew Colvett](/entities/person-andrew-colvett.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
+- [Andrew Colvett](/entities/person-andrew-kolvet.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
 - [Bari Weiss](/entities/person-bari-weiss.md) → [The New York Times](/entities/org-the-new-york-times.md)
 - [Blake Lively](/entities/person-blake-neff.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
 - [Brian Harpole](/entities/person-brian-harpole.md) → [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -183,7 +191,7 @@ This page shows all extracted relationships between entities.
 - [Shawna Rae Kirkhoff](/entities/person-shawna-rae-kirkhoff.md) → [United States Capitol Police](/entities/org-united-states-capitol-police.md)
 - [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
 - [Tim Ballard](/entities/person-tim-ballard.md) → [Operation Underground Railroad](/entities/org-operation-underground-railroad.md)
-- [Tyler Boyer](/entities/person-tyler-boyer.md) → [TP Action](/entities/org-tp-action.md)
+- [Tyler Bowyer](/entities/person-tyler-bowyer.md) → [TP Action](/entities/org-tp-action.md)
 
 </details>
 
@@ -247,7 +255,7 @@ This page shows all extracted relationships between entities.
 <summary>Based In (15)</summary>
 
 - [ACE Partners](/entities/org-ace-partners.md) → [Tel Aviv](/entities/gpe-tel-aviv.md)
-- [Caldera Engineering](/entities/org-caldera-engineering.md) → [Provo, Utah](/entities/gpe-provo-utah.md)
+- [Caldera Engineering](/entities/org-caldera-engineering.md) → [Provo](/entities/gpe-provo.md)
 - [Camp Ripley Training Center](/entities/org-camp-ripley-training-center.md) → [Minnesota](/entities/gpe-minnesota.md)
 - [DEA](/entities/org-dea.md) → [Wilmington, Delaware](/entities/gpe-wilmington.md)
 - [Department of Justice](/entities/org-department-of-justice.md) → [Wilmington, Delaware](/entities/gpe-wilmington.md)
@@ -265,10 +273,11 @@ This page shows all extracted relationships between entities.
 </details>
 
 <details open>
-<summary>Founded (13)</summary>
+<summary>Founded (14)</summary>
 
 - [B'nai B'rith](/entities/org-b-nai-b-rith.md) → [Anti-Defamation League](/entities/org-anti-defamation-league.md)
 - [Bari Weiss](/entities/person-bari-weiss.md) → [The Free Press](/entities/org-the-free-press.md)
+- [Bob Coy](/entities/person-bob-coy.md) → [Calvary Chapel Pompano Beach](/entities/org-calvary-chapel-pompano-beach.md)
 - [Charles Joseph Bonaparte](/entities/person-charles-joseph-bonaparte.md) → [FBI](/entities/org-fbi.md)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) → [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)
@@ -278,7 +287,7 @@ This page shows all extracted relationships between entities.
 - [Loren Cunningham](/entities/person-loren-cunningham.md) → [Youth With A Mission](/entities/org-youth-with-a-mission.md)
 - [Pavel Durov](/entities/person-pavel-durov.md) → [Telegram](/entities/org-telegram.md)
 - [Pierre S. du Pont](/entities/person-pierre-s-du-pont.md) → [Longwood Foundation](/entities/org-longwood-foundation.md)
-- [Rob Coy](/entities/person-rob-coy.md) → [Calvary Chapel Pompano Beach](/entities/org-calvary-chapel-pompano-beach.md)
+- [Pierre Samuel du Pont de Nemours](/entities/person-pierre-samuel-du-pont-de-nemours.md) → [DuPont family](/entities/org-dupont-family.md)
 - [T. Coleman du Pont](/entities/person-t-coleman-du-pont.md) → [Wilmington Trust](/entities/org-wilmington-trust.md)
 
 </details>
@@ -357,7 +366,7 @@ This page shows all extracted relationships between entities.
 
 - [Candace Owens](/entities/person-candace-owens.md) → [Riverbend Ranch](/entities/org-riverbend-ranch.md)
 - [Candace Owens](/entities/person-candace-owens.md) → [Nimee Skincare](/entities/org-nimeskincare-com.md)
-- [George Zin](/entities/person-george-zin.md) → [Phil Lyman](/entities/person-phil-lyman.md)
+- [George Zinn](/entities/person-george-zinn.md) → [Phil Lyman](/entities/person-phil-lyman.md)
 - [George Zinn](/entities/person-george-zinn.md) → [Phil Lyman](/entities/person-phil-lyman.md)
 - [Turning Point USA](/entities/org-turning-point-usa.md) → [Candace Owens](/entities/person-candace-owens.md)
 
@@ -369,8 +378,8 @@ This page shows all extracted relationships between entities.
 - [Candace Owens](/entities/person-candace-owens.md) → [Richards, Layton & Finger](/entities/org-richards-layton-finger.md)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) → [Candace Owens](/entities/person-candace-owens.md)
 - [Kash Patel](/entities/person-kash-patel.md) → [Robert Bowles](/entities/person-robert-bowles.md)
-- [Tyler Boyer](/entities/person-tyler-boyer.md) → [Stacey Sheridan](/entities/person-stacey-sheridan.md)
-- [Tyler Boyer](/entities/person-tyler-boyer.md) → [Andrew Colvett](/entities/person-andrew-colvett.md)
+- [Tyler Bowyer](/entities/person-tyler-bowyer.md) → [Stacey Sheridan](/entities/person-stacey-sheridan.md)
+- [Tyler Bowyer](/entities/person-tyler-bowyer.md) → [Andrew Colvett](/entities/person-andrew-kolvet.md)
 
 </details>
 
@@ -389,9 +398,9 @@ This page shows all extracted relationships between entities.
 <summary>Sibling Of (4)</summary>
 
 - [Burton Hibbs](/entities/person-burton-hibbs.md) → [Jack Hibbs](/entities/person-jack-hibbs.md)
-- [Butch Hibbs](/entities/person-butch-hibbs.md) → [Pastor Jack Hibbs](/entities/person-pastor-jack-hibbs.md)
+- [Burton Hibbs](/entities/person-burton-hibbs.md) → [Jack Hibbs](/entities/person-jack-hibbs.md)
+- [Jack Hibbs](/entities/person-jack-hibbs.md) → [Burton Hibbs](/entities/person-burton-hibbs.md)
 - [Jamie Lynn Spears](/entities/person-jamie-lynn-spears.md) → [Britney Spears](/entities/person-britney-spears.md)
-- [Pastor Jack Hibbs](/entities/person-pastor-jack-hibbs.md) → [Butch Hibbs](/entities/person-butch-hibbs.md)
 
 </details>
 
@@ -407,7 +416,7 @@ This page shows all extracted relationships between entities.
 <details open>
 <summary>Board Member Of (3)</summary>
 
-- [Andrew Colbert](/entities/person-andrew-colbert.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
+- [Andrew Kolvet](/entities/person-andrew-kolvet.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
 - [Eric Bolling](/entities/person-eric-bolling.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
 - [Rob McCoy](/entities/person-rob-mccoy.md) → [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)
 
@@ -416,8 +425,8 @@ This page shows all extracted relationships between entities.
 <details open>
 <summary>Appointed (3)</summary>
 
-- [Governor Spencer Cox](/entities/person-governor-spencer-cox.md) → [Judge Tony F. Graff Jr.](/entities/person-judge-tony-f-graff-jr.md)
-- [Governor Spencer Cox](/entities/person-governor-spencer-cox.md) → [Tony F. Graff Jr.](/entities/person-tony-f-graff-jr.md)
+- [Governor Cox](/entities/person-governor-cox.md) → [Judge Tony F. Graff Jr.](/entities/person-judge-tony-f-graff-jr.md)
+- [Governor Cox](/entities/person-governor-cox.md) → [Tony F. Graff Jr.](/entities/person-tony-f-graff-jr.md)
 - [Kash Patel](/entities/person-kash-patel.md) → [Robert Bowles](/entities/person-robert-bowles.md)
 
 </details>
@@ -464,6 +473,30 @@ This page shows all extracted relationships between entities.
 </details>
 
 <details open>
+<summary>Worked With (2)</summary>
+
+- [Andrew Kolvet](/entities/person-andrew-kolvet.md) → [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) → [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+</details>
+
+<details open>
+<summary>Interviewed By (2)</summary>
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) → [Tucker Carlson](/entities/person-tucker-carlson.md)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) → [Megyn Kelly](/entities/person-megyn-kelly.md)
+
+</details>
+
+<details open>
+<summary>Located In (2)</summary>
+
+- [Camp Ripley](/entities/gpe-camp-ripley.md) → [Minnesota](/entities/gpe-minnesota.md)
+- [Wilmington](/entities/gpe-wilmington.md) → [Delaware](/entities/gpe-delaware.md)
+
+</details>
+
+<details open>
 <summary>Child Of (1)</summary>
 
 - [Mikey McCoy](/entities/person-mikey-mccoy.md) → [Rob McCoy](/entities/person-rob-mccoy.md)
@@ -473,7 +506,7 @@ This page shows all extracted relationships between entities.
 <details open>
 <summary>Pardoned (1)</summary>
 
-- [Donald Trump](/entities/person-donald-trump.md) → [Tyler Boyer](/entities/person-tyler-boyer.md)
+- [Donald Trump](/entities/person-donald-trump.md) → [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
 </details>
 
@@ -488,5 +521,40 @@ This page shows all extracted relationships between entities.
 <summary>Acquired (1)</summary>
 
 - [Bank of America](/entities/org-bank-of-america.md) → [Bracebridge Complex](/entities/org-bracebridge-complex.md)
+
+</details>
+
+<details open>
+<summary>Political Ally Of (1)</summary>
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) → [Donald Trump](/entities/person-donald-trump.md)
+
+</details>
+
+<details open>
+<summary>Close Associate Of (1)</summary>
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) → [Rob McCoy](/entities/person-rob-mccoy.md)
+
+</details>
+
+<details open>
+<summary>Contributor To (1)</summary>
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) → [PragerU](/entities/org-prageru.md)
+
+</details>
+
+<details open>
+<summary>Coo Of (1)</summary>
+
+- [Tyler Bowyer](/entities/person-tyler-bowyer.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details open>
+<summary>Former Contributor To (1)</summary>
+
+- [Steven Crowder](/entities/person-steven-crowder.md) → [PragerU](/entities/org-prageru.md)
 
 </details>
