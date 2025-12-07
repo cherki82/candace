@@ -252,7 +252,7 @@ youtube_url: "https://www.youtube.com/watch?v=adJ4LNGp84I"
 
 - **2024-06-06**: George Zin endorsement appears on Phil Lyman's campaign website
 - **2025-05-01**: Governor Spencer Cox appoints Judge Tony F. Graf Jr. to 4th District Court
-- **2025-07-01**: Erica Mendel joins TikTok as public policy manager for hate speech
+- **2025-07-01**: Erica Mindel joins TikTok as public policy manager for hate speech
 - **2025-09-10**: Charlie Kirk assassinated by shooter Tyler Robinson at Utah Valley University
 - **2025-09-11**: TMZ publishes doorbell cam footage of Charlie Kirk's shooter
 - **2025-09-30**: Turning Point USA holds event at Utah State University
