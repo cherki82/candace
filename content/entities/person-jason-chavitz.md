@@ -14,7 +14,7 @@ _Type: People_
 
 ## Mentions
 
-### [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
+### [ep-pc3pxRyNFZk](/episodes/ep-pc3pxRyNFZk.md)
 
 - [00:22:13](/episodes/ep-pc3pxRyNFZk.md#^t-00-22-13)
   > "...News immediately after to provide a description of where he believed the shot came from, and that's Jason Chavitz, right? Jason Chavitz (Jason Chavitz) is a former politician and a Fox News contributor who was a w..."
@@ -32,9 +32,9 @@ _Type: People_
 ### Affiliated With
 
 - [Fox News](/entities/org-fox-news.md)
-  - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:22:17](/episodes/ep-pc3pxRyNFZk.md#^t-00-22-13): "Jason Chavitz is a former politician and a Fox News contributor"
+  - [ep-pc3pxRyNFZk @ 00:22:17](/episodes/ep-pc3pxRyNFZk.md#^t-00-22-13): "Jason Chavitz is a former politician and a Fox News contributor"
 
 ### Lives In
 
 - [Utah](/entities/gpe-utah.md)
-  - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:22:17](/episodes/ep-pc3pxRyNFZk.md#^t-00-22-13): "Jason Chavitz is a former politician and a Fox News contributor who was a witness to this event because he is from Utah."
+  - [ep-pc3pxRyNFZk @ 00:22:17](/episodes/ep-pc3pxRyNFZk.md#^t-00-22-13): "Jason Chavitz is a former politician and a Fox News contributor who was a witness to this event because he is from Utah."

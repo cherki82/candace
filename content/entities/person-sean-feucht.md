@@ -10,7 +10,7 @@ _Type: People_
 
 ## Mentions
 
-### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
+### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
 
 - [00:10:20](/episodes/ep-YFmRH8p5lt0.md#^t-00-10-20)
   > "...ouri. And this is relevant because on February 27th, this person who I hadn't heard of before named Sean Feucht. I believe I'm saying that correctly. Sean Feucht is announced as the Turning Point USA Faith contr..."
@@ -43,7 +43,7 @@ _Type: People_
 - [01:01:38](/episodes/ep-YFmRH8p5lt0.md#^t-01-01-05)
   > "...s before the assassination. So take from that what you will. Tim Morgan writes, "Candace, check out Sean Feucht and the allegations of financial ministry mismanagement online. And he and Pastor McCoy are plannin..."
 
-### [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
+### [ep-YaZfwLQ7vrI](/episodes/ep-YaZfwLQ7vrI.md)
 
 - [00:13:18](/episodes/ep-YaZfwLQ7vrI.md#^t-00-13-01)
   > "...okay? NAR. I brought this up to you before. Lance Wallnau (Lance Wallnau) is in this article. So is Sean Feucht (Sean Feucht). Now you're thinking these names might sound familiar. Certainly Sean Feucht (Sean Fe..."
@@ -55,9 +55,9 @@ _Type: People_
 ### Born In
 
 - [Montana](/entities/gpe-montana.md)
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:11:33](/episodes/ep-YFmRH8p5lt0.md#^t-00-11-02): "he was born in Montana"
+  - [ep-YFmRH8p5lt0 @ 00:11:33](/episodes/ep-YFmRH8p5lt0.md#^t-00-11-02): "he was born in Montana"
 
 ### Works At
 
 - [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:10:31](/episodes/ep-YFmRH8p5lt0.md#^t-00-10-20): "Sean Feucht is announced as the Turning Point USA Faith contributor"
+  - [ep-YFmRH8p5lt0 @ 00:10:31](/episodes/ep-YFmRH8p5lt0.md#^t-00-10-20): "Sean Feucht is announced as the Turning Point USA Faith contributor"

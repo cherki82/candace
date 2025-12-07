@@ -10,7 +10,7 @@ _Type: People_
 
 ## Mentions
 
-### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
+### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:36:32](/episodes/ep-SKGUzGHymcI.md#^t-00-36-19)
   > "...e that not only are conspiracies real, but they're actually common, okay? He sat down with comedian Theo Von and they discussed just that thing. Take a listen. What makes me nervous is the people that are not..."
@@ -19,7 +19,7 @@ _Type: People_
 - [00:40:44](/episodes/ep-SKGUzGHymcI.md#^t-00-40-29)
   > "...e it's retreating kind of. It will just go down in the, they need to release a f***ing hog. Classic Theo Von, classic Theo Von. And here's the reality. I told the truth about the Brigitte Macron story, right?..."
 
-### [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
+### [ep-t1YtLS1n8Vs](/episodes/ep-t1YtLS1n8Vs.md)
 
 - [00:46:59](/episodes/ep-t1YtLS1n8Vs.md#^t-00-46-32)
   > "...little bit undone because we're waking up. Marzi writes, “Hey, Candace (Candace Owens), did you see Theo Von's viral clip about letting Israel know that he is not going to end his own life?” My goodness. Why ..."

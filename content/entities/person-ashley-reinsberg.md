@@ -10,7 +10,7 @@ _Type: People_
 
 ## Mentions
 
-### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
+### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:29:33](/episodes/ep-mKXdKV-OBog.md#^t-00-29-33)
   > "...ou're gonna think this is SNL that fluttered into my inbox the other day from a writer. His name is Ashley Reinsberg. And this is—I'm just going to read you the email. This is it. It says, "Hi, Candace (Candace Owens..."
@@ -22,4 +22,4 @@ _Type: People_
 ### Works At
 
 - [The Free Press](/entities/org-the-free-press.md)
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:29:33](/episodes/ep-mKXdKV-OBog.md#^t-00-28-48): "a writer. His name is Ashley Reinsberg... reporting a piece for The Free Press"
+  - [ep-mKXdKV-OBog @ 00:29:33](/episodes/ep-mKXdKV-OBog.md#^t-00-28-48): "a writer. His name is Ashley Reinsberg... reporting a piece for The Free Press"

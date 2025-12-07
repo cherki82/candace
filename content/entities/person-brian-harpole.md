@@ -10,7 +10,7 @@ _Type: People_
 
 ## Mentions
 
-### [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
+### [ep-581dILVcEE4](/episodes/ep-581dILVcEE4.md)
 
 - [00:21:32](/episodes/ep-581dILVcEE4.md#^t-00-21-22)
   > "...ropping receipts—kind of a little bit. We're going to talk about Blake Neff, who dropped a receipt; Brian Harpole, the security who dropped a receipt—right after a few of our sponsors. Many people have been vilifi..."
@@ -25,7 +25,7 @@ _Type: People_
 - [00:29:05](/episodes/ep-581dILVcEE4.md#^t-00-29-05)
   > "...y since they have flown drones—many drones—at TPUSA events in the past. Here's his answer to that. (Brian Harpole Clip Continued) In your coordination with UVU, did they offer any assistance, anything at all? Yeah..."
 
-### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
+### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:30:56](/episodes/ep-SKGUzGHymcI.md#^t-00-30-31)
   > "...om. Now, our list of Turning Point lies is just getting longer every day. Yesterday we talked about Brian Harpole, the security guy who was not convincing at all. And he basically said, we didn't have drones becau..."
@@ -34,12 +34,12 @@ _Type: People_
 - [00:33:30](/episodes/ep-SKGUzGHymcI.md#^t-00-33-15)
   > "... later and they still don't have their ducks in a row. By the way, elsewhere in that interview with Brian Harpole, the security guy with Sean Ryan, he reiterates, he doubles down on the idea that Charlie (Charlie ..."
 
-### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
+### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 
 - [00:08:56](/episodes/ep-his-JBjlkh8.md#^t-00-08-43)
   > "...y gauze and tried to stop the bleeding. And they've admitted to that. In a sit-down with Sean Ryan, Brian Harpole said, "It was because of the severity of the injury." I'm sorry again that we noticed something tha..."
 
-### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
+### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
 
 - [00:00:01](/episodes/ep-sImMM04XdWY.md#^t-00-00-01)
   > "...urning Point USA and their affiliates are really reaching a fever pitch because we can confirm that Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day. And I..."
@@ -57,15 +57,15 @@ _Type: People_
 ### Employed By
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md)
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:00](/episodes/ep-581dILVcEE4.md#^t-00-23-32): "Brian Harpole is one of Charlie (Charlie Kirk)'s long-term security team members."
+  - [ep-581dILVcEE4 @ 00:24:00](/episodes/ep-581dILVcEE4.md#^t-00-23-32): "Brian Harpole is one of Charlie (Charlie Kirk)'s long-term security team members."
 
 ### Works At
 
 - [Turning Point USA](/entities/org-turning-point-usa.md)
-  - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#^t-00-00-01): "Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day."
+  - [ep-sImMM04XdWY @ 00:00:01](/episodes/ep-sImMM04XdWY.md#^t-00-00-01): "Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day."
 
 ### Referenced By
 
 - [Sean Ryan](/entities/person-sean-ryan.md) **interviewed** this
-  - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#^t-00-00-01)
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:09:02](/episodes/ep-his-JBjlkh8.md#^t-00-08-43)
+  - [ep-sImMM04XdWY @ 00:00:01](/episodes/ep-sImMM04XdWY.md#^t-00-00-01)
+  - [ep-his-JBjlkh8 @ 00:09:02](/episodes/ep-his-JBjlkh8.md#^t-00-08-43)

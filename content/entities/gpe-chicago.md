@@ -10,7 +10,7 @@ _Type: Places_
 
 ## Mentions
 
-### [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
+### [ep-UBkFkg4UNY8](/episodes/ep-UBkFkg4UNY8.md)
 
 - [00:19:46](/episodes/ep-UBkFkg4UNY8.md#^t-00-19-08)
   > "...were involved in taking that footage, and he sends him two numbers. And those two numbers were both Chicago-based. And when I looked up whose numbers those were, it looked to me like that was just kind of le..."
@@ -23,7 +23,7 @@ _Type: Places_
 - [00:21:42](/episodes/ep-UBkFkg4UNY8.md#^t-00-21-19)
   > "...ke, well, I didn't take the footage, but my friend took the footage, and his friend does not have a Chicago-based number. So I am confused, and we ask if he'd be willing to send us the footage and to get us ..."
 
-### [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
+### [ep-_dRaEO47-co](/episodes/ep-_dRaEO47-co.md)
 
 - [00:02:03](/episodes/ep-_dRaEO47-co.md#^t-00-02-03)
   > "...locked in. And I want you guys to know about our first planning sesh, okay? It was in the middle of Chicago O'Hare airport. There is this restaurant that's called the Macaroni Grill. And I sat down with Char..."

@@ -17,7 +17,7 @@ _Type: People_
 
 ## Mentions
 
-### [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
+### [ep-581dILVcEE4](/episodes/ep-581dILVcEE4.md)
 
 - [00:31:54](/episodes/ep-581dILVcEE4.md#^t-00-31-27)
   > "... will recall Blake Neff was the Turning Point USA employee that was standing directly next to super-Mikey McCoy when the shot rang out. And he—Blake Neff—has similarly decided to drop a receipt. This happened, I..."
@@ -52,12 +52,12 @@ _Type: People_
 - [00:37:58](/episodes/ep-581dILVcEE4.md#^t-00-37-46)
   > "...iated. When the call is initiated. So it's possible 45 seconds later he's now in the 12:25, and now Mikey's calling his dad. That's very interesting. That's just another data point that we at least have th..."
 
-### [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
+### [ep-7RLtGgkTh9o](/episodes/ep-7RLtGgkTh9o.md)
 
 - [00:39:46](/episodes/ep-7RLtGgkTh9o.md#^t-00-39-44)
   > "...at ending—the way he describes a person behind him walking—walking away—almost wild, considering—um—Mikey McCoy, the amazing Mikey McCoy, the not-so-amazing Mikey McCoy. And then he says this—he points over to t..."
 
-### [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
+### [ep-Cq7nj9rxPdo](/episodes/ep-Cq7nj9rxPdo.md)
 
 - [00:00:07](/episodes/ep-Cq7nj9rxPdo.md#^t-00-00-00)
   > "...oint USA has issued a statement, a couple of statements actually. For one, they say the reason that Mikey McCoy walked away so swiftly after Charlie (Charlie Kirk) got shot is because Charlie himself told Mikey ..."
@@ -92,7 +92,7 @@ _Type: People_
 - [00:46:25](/episodes/ep-Cq7nj9rxPdo.md#^t-00-46-25)
   > "...rug addicts. We're just high on conspiracy theory. Take a listen. "There's a suggestion online that Mikey—Charlie's chief of staff—one of the most sincere people you'd ever meet, brilliant, Christian, kind..."
 
-### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
+### [ep-JQjCAsfoXEE](/episodes/ep-JQjCAsfoXEE.md)
 
 - [00:11:39](/episodes/ep-JQjCAsfoXEE.md#^t-00-11-07)
   > "... when I had not. Again, I'll ask the question: why Erika? Why didn't Ben on stage say, "She accused Mikey or Rob (Pastor Rob McCoy)"? I've done multiple episodes now on Mikey, on Rob (Pastor Rob McCoy), sp..."
@@ -103,7 +103,7 @@ _Type: People_
 - [00:48:23](/episodes/ep-JQjCAsfoXEE.md#^t-00-48-07)
   > "...happened at the hospital. So where did this so-called blood come from? That was apparently all over Mikey because it wasn't when he got shot, and it wasn't at the hospital. The channel it's on is the Coach..."
 
-### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
+### [ep-K1tFD7FfoCU](/episodes/ep-K1tFD7FfoCU.md)
 
 - [00:27:51](/episodes/ep-K1tFD7FfoCU.md#^t-00-27-09)
   > "...he lied about the Catholic thing. That was my reason for going after Andrew Kolvet (Andrew Kolvet), Mikey McCoy (Mikey McCoy). Anybody that's told a lie—Rob McCoy (Rob McCoy), blood all over him— you got my atte..."
@@ -112,7 +112,7 @@ _Type: People_
 - [00:33:05](/episodes/ep-K1tFD7FfoCU.md#^t-00-32-27)
   > "... they've seen about Rob McCoy (Rob McCoy). They don't like the history of Rob McCoy (Rob McCoy) and Mikey McCoy (Mikey McCoy) and their involvement here. They don't like the video of Terrell (Terrell). They don'..."
 
-### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
+### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
 
 - [00:07:48](/episodes/ep-LATnak75Si0.md#^t-00-07-48)
   > "...d in this notebook, you'll see that I am using adjectives like "fantastic" and "heroic" to describe Mikey McCoy. And if during this process of our imagination, common sense comes on and we're like, "Oh, but wait..."
@@ -157,7 +157,7 @@ _Type: People_
 - [00:45:04](/episodes/ep-LATnak75Si0.md#^t-00-44-54)
   > "...something else I wanna say—building on yesterday—the feeling I'm getting that they were positioning Mikey to be the new Charlie (Charlie Kirk). Well, here's another little fun fact. Obviously, after Charli..."
 
-### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
+### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
 
 - [00:15:52](/episodes/ep-MUA9ebCF4Ow.md#^t-00-15-12)
   > "...okay? Just getting this together briefly. They told us these lies. The amazing, heroic, magnificent Mikey McCoy had blood all over him. That's a lie, told by Pastor Rob McCoy. Charlie (Charlie Kirk) was a commit..."
@@ -188,7 +188,7 @@ _Type: People_
 - [00:46:31](/episodes/ep-MUA9ebCF4Ow.md#^t-00-46-31)
   > "... interest in this Christian school. Anyway, and like I said, I want to know who went to school with Mikey and the Erickson brothers. Other comments we have: Angie—"We need Go Max merch. Team Candace for li..."
 
-### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
+### [ep-Qfwr08Ebczo](/episodes/ep-Qfwr08Ebczo.md)
 
 - [00:02:26](/episodes/ep-Qfwr08Ebczo.md#^t-00-02-07)
   > "...ve endorphins and happy people don't kill their husbands. Anyway, the thing that I realized is that Mikey McCoy, the chief of staff of Turning Point USA—Mikey McCoy—for whatever reason, he always requires an adj..."
@@ -269,7 +269,7 @@ _Type: People_
 - [00:13:10](/episodes/ep-Qfwr08Ebczo.md#^t-00-12-45)
   > "...ll nail down these specific dates in the future. We are working on it. Okay. Strikes me as odd that Mikey is just picking up the camera and capturing these moments. I don't know. I don't know for the first..."
 
-### [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
+### [ep-Qt0VHV-POCg](/episodes/ep-Qt0VHV-POCg.md)
 
 - [00:26:49](/episodes/ep-Qt0VHV-POCg.md#^t-00-26-17)
   > "...y around. Check it out at pplx.ai slash Candace. Again, that's pplx.ai slash Candace. All right, so Mikey McCoy is missing from the Charlie Kirk show. He seemed very happy to jump in that seat thereafter. I thin..."
@@ -278,14 +278,14 @@ _Type: People_
 - [00:35:46](/episodes/ep-Qt0VHV-POCg.md#^t-00-35-31)
   > "... bad guy. He's not a bad guy. Don Jr. is probably maybe akin in some ways to Mikey McCoy. I look at Mikey McCoy—I don't know Mikey McCoy at all—and I don't think he's an evil person. I think he is in the shadow ..."
 
-### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
+### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:28:54](/episodes/ep-SKGUzGHymcI.md#^t-00-28-27)
   > "... he gets shot, which makes sense, somebody sent it directly, I'm assuming this might have been what Mikey McCoy coordinated, sent it straight to Scottsdale. And I would like to know who specifically got onto thi..."
 - [00:30:24](/episodes/ep-SKGUzGHymcI.md#^t-00-29-52)
   > "...hat time, Turning Point headquarters, Elizabeth McCoy screamed, she grabbed her phone, she ran out. Mikey probably called her, that would make sense. And that's about 30 minutes away from the airport. If y..."
 
-### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
+### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
 
 - [00:19:49](/episodes/ep-YFmRH8p5lt0.md#^t-00-19-41)
   > "...uary. Now we're going now into 2024. I guess actually let's start with January. And January 3, 2024—Mikey McCoy's promoted to the chief of staff of Turning Point USA. I have the internal email, so that is a fact..."
@@ -298,21 +298,21 @@ _Type: People_
 - [00:49:12](/episodes/ep-YFmRH8p5lt0.md#^t-00-48-51)
   > "...s Russia, and it's their home. So it's interesting to consider that there are a lot of—I think even Mikey McCoy's wife might be Ukrainian. Correct me if I'm wrong on that, but that's something that I think is in..."
 
-### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
+### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:31:15](/episodes/ep-ZAuuSq_j2_w.md#^t-00-30-34)
   > "... to kill him? Andrew Kolvet. Can you tell us, Andrew? Can you tell us, Blake Neff? Can you tell us, Mikey McCoy? Or was he just full of fluff? Just full of fluff at the end. Just really just wanted Josh Hammer's..."
 - [00:29:47](/episodes/ep-ZAuuSq_j2_w.md#^t-00-29-14)
   > "...uys and said that he thought they were going to kill him. Can we get to that part? Okay, we get it. Mikey's amazing. Blake Neff's the smartest dude we know. It's right here in the Bible. Can we get to the ..."
 
-### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
+### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:18:58](/episodes/ep-a-e7HC6SeK8.md#^t-00-18-23)
   > "...rk) vacations up to Maine for a couple of weeks to be with his family. He goes off radar. We've got Mikey McCoy and his wife, Eliza, that join them for the first time. First time they're doing this joint family ..."
 - [00:19:05](/episodes/ep-a-e7HC6SeK8.md#^t-00-19-05)
   > "... Eliza, that join them for the first time. First time they're doing this joint family vacation. And Mikey's capturing these last videos that are going to warm our hearts about Charlie (Charlie Kirk). And h..."
 
-### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
+### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
 
 - [00:19:30](/episodes/ep-adJ4LNGp84I.md#^t-00-19-30)
   > "...s is Mike Mitchell, but there are old photos of Tyler Robinson when he's a lot younger visiting his Uncle Mikey, okay? His Uncle Mikey, who is working with the Ukrainian Azov Battalion. He's a military man. And ..."
@@ -321,7 +321,7 @@ _Type: People_
 - [00:23:12](/episodes/ep-adJ4LNGp84I.md#^t-00-23-05)
   > "...'ll actually do that tomorrow and we'll bring in the aspects and show you whether or not, you know, Uncle Mikey could be Mike Mitchell; could he be the detective? But I'm just seeing these recurring themes of th..."
 
-### [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
+### [ep-c5BcKF91iec](/episodes/ep-c5BcKF91iec.md)
 
 - [00:00:41](/episodes/ep-c5BcKF91iec.md#^t-00-00-00)
   > "...rlie's death within minutes. There was a video that is currently circulating of his chief of staff, Mikey McCoy. It's going viral for a lot of reasons. We're gonna go through that video, and buckle up because I ..."
@@ -368,7 +368,7 @@ _Type: People_
 - [00:13:33](/episodes/ep-c5BcKF91iec.md#^t-00-13-24)
   > "...ne minute and 45 seconds approximately before that shot goes off. And we can watch that here. I see Mikey's on his phone here. And you're gonna see he pulls it up, and he starts to cover his ear again. Now..."
 
-### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
+### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 
 - [00:04:35](/episodes/ep-his-JBjlkh8.md#^t-00-04-35)
   > "...rk)'s closest friends and against some of his most dedicated employees. Yes. She has suggested that Michael McCoy, Charlie (Charlie Kirk)'s chief of staff, knew Charlie (Charlie Kirk) would be murdered, was happy ..."
@@ -389,7 +389,7 @@ _Type: People_
 - [00:05:48](/episodes/ep-his-JBjlkh8.md#^t-00-05-36)
   > "...a good guy, and you're not gonna make us forget those things because you are trying to pretend that Mikey's actions were totally normal that day. They weren't. That's why I didn't make the public feel that..."
 
-### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
+### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
 
 - [00:22:17](/episodes/ep-vwG1juDCQZQ.md#^t-00-22-14)
   > "...nd. This is kind of the Meghan Markle thing, right? That we talk about. And I'm calling this out to Mikey McCoy. It's like: everybody wants to be famous until you're famous, okay? We want privacy now. Well, it d..."
@@ -414,7 +414,7 @@ _Type: People_
 - [00:51:21](/episodes/ep-vwG1juDCQZQ.md#^t-00-51-06)
   > "...at Candace would suggest that we're engaging in a cover-up." Yes: I did say that. I didn't say that Mikey murdered Charlie Kirk (Charlie Kirk). I said Turning Point is engaged in a cover-up because that is..."
 
-### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
+### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:00:47](/episodes/ep-yAIb-NuUh_U.md#^t-00-00-47)
   > "... you. We've had those. We definitely know who our allies are. I am resisting making a comment about Mikey McCoy, but ladies and gentlemen, we are definitively in the foxhole right now. And we are learning who Ch..."
@@ -426,31 +426,31 @@ _Type: People_
 ### Child Of
 
 - [Rob McCoy](/entities/person-rob-mccoy.md)
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:35:03](/episodes/ep-581dILVcEE4.md#^t-00-34-30): "He calls Rob McCoy. And he says, "Dad, someone shot Charlie (Charlie Kirk).""
-  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:38:52](/episodes/ep-LATnak75Si0.md#^t-00-38-18): "he immediately calls his dad. He calls Rob McCoy."
+  - [ep-581dILVcEE4 @ 00:35:03](/episodes/ep-581dILVcEE4.md#^t-00-34-30): "He calls Rob McCoy. And he says, "Dad, someone shot Charlie (Charlie Kirk).""
+  - [ep-LATnak75Si0 @ 00:38:52](/episodes/ep-LATnak75Si0.md#^t-00-38-18): "he immediately calls his dad. He calls Rob McCoy."
 
 ### Employed By
 
 - [Turning Point USA](/entities/org-turning-point-usa.md)
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:19:49](/episodes/ep-YFmRH8p5lt0.md#^t-00-19-41): "Mikey McCoy's promoted to the chief of staff of Turning Point USA"
+  - [ep-YFmRH8p5lt0 @ 00:19:49](/episodes/ep-YFmRH8p5lt0.md#^t-00-19-41): "Mikey McCoy's promoted to the chief of staff of Turning Point USA"
 - [Charlie Kirk](/entities/person-charlie-kirk.md)
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:04:35](/episodes/ep-his-JBjlkh8.md#^t-00-04-17): "She has suggested that Michael McCoy, Charlie Kirk's chief of staff,"
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:04:35](/episodes/ep-his-JBjlkh8.md#^t-00-04-17): "She has suggested that Michael McCoy, Charlie's chief of staff,"
+  - [ep-his-JBjlkh8 @ 00:04:35](/episodes/ep-his-JBjlkh8.md#^t-00-04-17): "She has suggested that Michael McCoy, Charlie Kirk's chief of staff,"
+  - [ep-his-JBjlkh8 @ 00:04:35](/episodes/ep-his-JBjlkh8.md#^t-00-04-17): "She has suggested that Michael McCoy, Charlie's chief of staff,"
 
 ### Married To
 
 - [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:30:00](/episodes/ep-SKGUzGHymcI.md#^t-00-29-52): "Elizabeth McCoy, the amazing Mike McCoy's wife."
+  - [ep-SKGUzGHymcI @ 00:30:00](/episodes/ep-SKGUzGHymcI.md#^t-00-29-52): "Elizabeth McCoy, the amazing Mike McCoy's wife."
 
 ### Works At
 
 - [Turning Point USA](/entities/org-turning-point-usa.md)
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:00:41](/episodes/ep-c5BcKF91iec.md#^t-00-00-00): "There was a video that is currently circulating of his chief of staff, Mikey McCoy."
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:08:57](/episodes/ep-c5BcKF91iec.md#^t-00-08-40): "Justin's the chief CFO—chief financial officer—and Mikey's the chief of staff."
-  - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:02:26](/episodes/ep-Qfwr08Ebczo.md#^t-00-02-07): "Mikey McCoy, the chief of staff of Turning Point USA—Mikey McCoy—for whatever reason,"
+  - [ep-c5BcKF91iec @ 00:00:41](/episodes/ep-c5BcKF91iec.md#^t-00-00-00): "There was a video that is currently circulating of his chief of staff, Mikey McCoy."
+  - [ep-c5BcKF91iec @ 00:08:57](/episodes/ep-c5BcKF91iec.md#^t-00-08-40): "Justin's the chief CFO—chief financial officer—and Mikey's the chief of staff."
+  - [ep-Qfwr08Ebczo @ 00:02:26](/episodes/ep-Qfwr08Ebczo.md#^t-00-02-07): "Mikey McCoy, the chief of staff of Turning Point USA—Mikey McCoy—for whatever reason,"
 
 ### Referenced By
 
 - [Pastor Rob McCoy](/entities/person-rob-mccoy.md) **parent of** this
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:08:12](/episodes/ep-c5BcKF91iec.md#^t-00-07-38)
-  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:16:41](/episodes/ep-MUA9ebCF4Ow.md#^t-00-15-57)
+  - [ep-c5BcKF91iec @ 00:08:12](/episodes/ep-c5BcKF91iec.md#^t-00-07-38)
+  - [ep-MUA9ebCF4Ow @ 00:16:41](/episodes/ep-MUA9ebCF4Ow.md#^t-00-15-57)

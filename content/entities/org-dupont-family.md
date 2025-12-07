@@ -15,7 +15,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
+### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:04:57](/episodes/ep-a-e7HC6SeK8.md#^t-00-04-57)
   > "...nch American families who might have some conflicted interests, particularly we were discussing the DuPont family, right? Mentioning the DuPont family led to a flurry of tips coming out of Delaware. It was incredi..."
@@ -62,12 +62,12 @@ _Type: Organizations_
 - [00:56:12](/episodes/ep-a-e7HC6SeK8.md#^t-00-55-43)
   > "...trix. This person writes, "Supporting my favorite girl. My mouth was wide when you dropped the name DuPont. I cried tonight. I love you, and I love Charlie (Charlie Kirk) from the get-go. A big part of my e..."
 
-### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
+### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 
 - [00:49:40](/episodes/ep-his-JBjlkh8.md#^t-00-49-40)
   > "...gap in Brigitte's schedule. And now, of course—especially as we have learned about Delaware and the DuPont-French connection, and the French Foreign Legion non-answer that we're getting, just gaslighting th..."
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:29:47](/episodes/ep-tB5SXXmd9vU.md#^t-00-29-47)
   > "...ke it function as a quote-unquote educational center. There's just one problem with that. Pierre S. du Pont was a member of the French-American family du Pont, which was descended from Pierre Samuel du Pont ..."
@@ -87,19 +87,19 @@ _Type: Organizations_
 ### Affiliated With
 
 - [United States military](/entities/org-united-states-military.md)
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:30:00](/episodes/ep-tB5SXXmd9vU.md#^t-00-29-47): ""DuPont also has extreme ties to both the American and the French military.""
+  - [ep-tB5SXXmd9vU @ 00:30:00](/episodes/ep-tB5SXXmd9vU.md#^t-00-29-47): ""DuPont also has extreme ties to both the American and the French military.""
 - [French military](/entities/org-french-military.md)
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:30:00](/episodes/ep-tB5SXXmd9vU.md#^t-00-29-47): ""DuPont also has extreme ties to both the American and the French military.""
+  - [ep-tB5SXXmd9vU @ 00:30:00](/episodes/ep-tB5SXXmd9vU.md#^t-00-29-47): ""DuPont also has extreme ties to both the American and the French military.""
 
 ### Headquartered In
 
 - [1100 North Market Street](/entities/gpe-1100-north-market-street.md)
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:34:39](/episodes/ep-tB5SXXmd9vU.md#^t-00-34-38): ""DuPont, which is connected to 1100 North Market Street.""
+  - [ep-tB5SXXmd9vU @ 00:34:39](/episodes/ep-tB5SXXmd9vU.md#^t-00-34-38): ""DuPont, which is connected to 1100 North Market Street.""
 
 ### Referenced By
 
 - [Pierre Samuel du Pont de Nemours](/entities/person-pierre-samuel-du-pont-de-nemours.md) **founded** this
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:30:49](/episodes/ep-a-e7HC6SeK8.md#^t-00-30-38)
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:29:47](/episodes/ep-tB5SXXmd9vU.md#^t-00-29-13)
+  - [ep-a-e7HC6SeK8 @ 00:30:49](/episodes/ep-a-e7HC6SeK8.md#^t-00-30-38)
+  - [ep-tB5SXXmd9vU @ 00:29:47](/episodes/ep-tB5SXXmd9vU.md#^t-00-29-13)
 - [Lisa Dean](/entities/person-lisa-dean.md) **member of** this
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:39](/episodes/ep-a-e7HC6SeK8.md#^t-00-10-27)
+  - [ep-a-e7HC6SeK8 @ 00:10:39](/episodes/ep-a-e7HC6SeK8.md#^t-00-10-27)

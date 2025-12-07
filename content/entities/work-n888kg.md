@@ -10,7 +10,7 @@ _Type: Work_
 
 ## Mentions
 
-### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
+### [ep-iHav0PPzUz8](/episodes/ep-iHav0PPzUz8.md)
 
 - [00:07:47](/episodes/ep-iHav0PPzUz8.md#^t-00-07-47)
   > "...rday at 1 p.m. Mountain Time, a private aircraft owned by one of our companies with the tail number N888KG departed the Provo Airport for Page, Arizona. Pursuant to a pre-scheduled flight plan, occupants at..."

@@ -14,7 +14,7 @@ _Type: Places_
 
 ## Mentions
 
-### [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
+### [ep-7RLtGgkTh9o](/episodes/ep-7RLtGgkTh9o.md)
 
 - [00:00:23](/episodes/ep-7RLtGgkTh9o.md#^t-00-00-00)
   > "...st), me telling you all about what happened behind the scenes when he was effectively kicked out of Hollywood, and the reason why I refused to publicly condemn him despite insistence from the brood of vipers. ..."
@@ -33,53 +33,53 @@ _Type: Places_
 - [00:29:16](/episodes/ep-7RLtGgkTh9o.md#^t-00-28-42)
   > "...to be accurate and made no sense to me at the time because I'm not hip. I don't follow a lot of the Hollywood stuff. Then she says, "Christian non-denominational, but she's LDS." "Born and raised LDS." "Bill G..."
 
-### [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
+### [ep-Cq7nj9rxPdo](/episodes/ep-Cq7nj9rxPdo.md)
 
 - [00:11:08](/episodes/ep-Cq7nj9rxPdo.md#^t-00-10-48)
   > "..."I have a handler." I thought that he was just saying that. I thought that he was referring to just Hollywood. I now very much believe that I have had handlers since 2018, and that things were done intentional..."
 - [01:08:20](/episodes/ep-Cq7nj9rxPdo.md#^t-01-08-20)
   > "... them that. You did it with Kanye; you put him on a psych 5150 hold. You did that to many people in Hollywood. I know how it works, and I'm teaching people to learn about your psychological operation—which is ..."
 
-### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
+### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
 
 - [00:49:46](/episodes/ep-MUA9ebCF4Ow.md#^t-00-49-22)
   > "... got blackballed because I oppose the Israeli agenda. I think he was talking about some Zionists in Hollywood, and he did mean to say DEF CON 3, but they pretended like—like— he was going to literally go aroun..."
 - [00:49:51](/episodes/ep-MUA9ebCF4Ow.md#^t-00-49-22)
   > "...and he did mean to say DEF CON 3, but they pretended like—like— he was going to literally go around Hollywood and start murdering Jewish people. And what he was saying was he was tired of people that were tryi..."
 
-### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
+### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:24:58](/episodes/ep-ZAuuSq_j2_w.md#^t-00-24-28)
   > "...—or even the United States Pentagon—has formally denied this quote-unquote crazy claim? That's what Hollywood's for, right? You—all of you at home, all across the world—you're supposed to be fat and dumb and e..."
 
-### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
+### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 
 - [00:51:29](/episodes/ep-his-JBjlkh8.md#^t-00-50-53)
   > "...ta be song number 13? What's going on? This better not be predictive programming, okay? We know how Hollywood gets down, okay? We're reading your books. Anyways, he was asked this question—this exact question—..."
 - [00:57:35](/episodes/ep-his-JBjlkh8.md#^t-00-57-02)
   > "...we stop subjecting ourselves to their systems—their financial systems, their peer pressure systems, Hollywood, you know, the adoration that we had for stars and we followed their trends. And if we actually stu..."
 
-### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
+### [ep-iHav0PPzUz8](/episodes/ep-iHav0PPzUz8.md)
 
 - [01:01:13](/episodes/ep-iHav0PPzUz8.md#^t-01-00-41)
   > "...ght that to the shores of America. They brought modern psychology to the shores of America and into Hollywood. And the good news is we're all waking up to it. People are understanding that we are in a battle—s..."
 
-### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
+### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
 
 - [00:50:37](/episodes/ep-sImMM04XdWY.md#^t-00-50-01)
   > "...ow fix it in this system. All of it's happening at once. The Epstein files, the sort of collapse of Hollywood, the stories that we are learning and watching the elites protect Jeffrey Epstein—his victims speak..."
 
-### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
+### [ep-sreYYcID-QY](/episodes/ep-sreYYcID-QY.md)
 
 - [00:12:38](/episodes/ep-sreYYcID-QY.md#^t-00-12-30)
   > "..., surprised by everything, why are you giving it to, like, TMZ—which covers celebrity gossip out of Hollywood—right? The New York Post. That's not supposed to be a local paper, a local news source. Why would y..."
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:50:14](/episodes/ep-tB5SXXmd9vU.md#^t-00-50-13)
   > "... the invites to Mar-a-Lago and you can hang out and get dressed up and hang out with cool people in Hollywood if you just look the other way when children are being abused? This is that mentality, okay? It's d..."
 
-### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
+### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:30:59](/episodes/ep-yAIb-NuUh_U.md#^t-00-30-45)
   > "...l the layers of the onion into our Epstein series that we have done. And it looks like they created Hollywood and fashion and movies as a means to traffic individuals, right? No one would blink twice. If you'r..."

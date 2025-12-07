@@ -10,22 +10,22 @@ _Type: Places_
 
 ## Mentions
 
-### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
+### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:20:11](/episodes/ep-SKGUzGHymcI.md#^t-00-20-11)
   > "...ns for no reason. I mean, just look at the choice of St. Louis, Wichita, Omaha, Lincoln, Williston, Minot, and Provo. None of these are standard diplomatic hubs. Most of those don't even have major consula..."
 
-### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
+### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
 
 - [00:39:49](/episodes/ep-YFmRH8p5lt0.md#^t-00-39-39)
   > "...t before Charlie's (Charlie Kirk's) assassination, rather. It comes down September 4th. It heads to Minot, North Dakota, and then it heads directly there to Provo. And it lands in Provo on September 4th at..."
 
-### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
+### [ep-iHav0PPzUz8](/episodes/ep-iHav0PPzUz8.md)
 
 - [00:19:07](/episodes/ep-iHav0PPzUz8.md#^t-00-19-07)
   > "...u will see this is what it did. It went from September 4th—it went from Cairo to Paris to France to Minot, North Dakota. On September 10th, it departed Provo—I think I'm missing one here, right? It didn't—..."
 
-### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
+### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:05:58](/episodes/ep-mKXdKV-OBog.md#^t-00-05-45)
   > "...mber—came into the United States on September 4th. You might recall it stopped for just one hour in Minot, North Dakota, which I learned has an Air Force base. It pretty much is just the Air Force base, by..."
@@ -48,7 +48,7 @@ _Type: Places_
 - [00:09:13](/episodes/ep-mKXdKV-OBog.md#^t-00-09-13)
   > "...ng, called Operation Valhalla Strike, allowed the unit to complete requirements not possible at the Minot Air Force Base, including full-distance live-fire exercises. Camp Ripley provided full-distance fir..."
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:16:36](/episodes/ep-tB5SXXmd9vU.md#^t-00-16-09)
   > "...amp began immediately. It was a joint exercise with civilians, which included military men from the Minot Air Force Base. And that joint exercise took place in Minnesota at Camp Ripley, and that ran just f..."

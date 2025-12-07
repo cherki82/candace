@@ -10,7 +10,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
+### [ep-2WEHTk0Xewg](/episodes/ep-2WEHTk0Xewg.md)
 
 - [00:17:16](/episodes/ep-2WEHTk0Xewg.md#^t-00-16-59)
   > "...did he get home? He's been so thorough in describing that cleanup job. And by the way, we know that Discord is going to later say that those messages were not coordinated on their server, which I would say w..."
@@ -21,26 +21,26 @@ _Type: Organizations_
 - [00:31:57](/episodes/ep-2WEHTk0Xewg.md#^t-00-31-35)
   > "...at's not true. So who made up these messages? When were these messages made up? Is the question. If Discord's saying they don't exist, this signals to me that these messages were just created, right? And I'm..."
 
-### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
+### [ep-5autG89PW6w](/episodes/ep-5autG89PW6w.md)
 
 - [00:38:02](/episodes/ep-5autG89PW6w.md#^t-00-38-02)
   > "...ture a guess that he is a federal asset of some description. Could be related to his online work on Discord chats. It's the only thing that makes sense to me. Anyways, I can tell you guys—I can break this fo..."
 
-### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
+### [ep-JQjCAsfoXEE](/episodes/ep-JQjCAsfoXEE.md)
 
 - [00:01:24](/episodes/ep-JQjCAsfoXEE.md#^t-00-01-24)
   > "...y, so much excitement, so much resurgence in faith and newfound interest in faith, and now there is discord, so many distractions, and that is just like Satan who comes to steal, kill, and destroy. He is cal..."
 - [00:01:35](/episodes/ep-JQjCAsfoXEE.md#^t-00-01-24)
   > "...ike Satan who comes to steal, kill, and destroy. He is called the Great Accuser. He is the sower of discord, the author of confusion. The reason I haven't weighed in on things is I am an eyewitness to events..."
 
-### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
+### [ep-QZWSsq8ZWzw](/episodes/ep-QZWSsq8ZWzw.md)
 
 - [00:07:14](/episodes/ep-QZWSsq8ZWzw.md#^t-00-06-51)
   > "...they believe they are going to convict Tyler Robinson on this. Oh, you know what? It's probably the Discord messages. I forgot, silly me. The Discord. I forgot. It was so explicit. How could we forget? Oh, L..."
 - [00:07:19](/episodes/ep-QZWSsq8ZWzw.md#^t-00-06-51)
   > "...er Robinson on this. Oh, you know what? It's probably the Discord messages. I forgot, silly me. The Discord. I forgot. It was so explicit. How could we forget? Oh, Lance, oh, Lance, wherefore art thou, Lance..."
 
-### [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
+### [ep-czVBmqZP6Ss](/episodes/ep-czVBmqZP6Ss.md)
 
 - [00:52:03](/episodes/ep-czVBmqZP6Ss.md#^t-00-51-44)
   > "...he did this alone? Absolutely not. This story makes entirely no sense. And then there's this random Discord, over Discord, okay? So Governor Cox came out and told us that there were messages about the rifle ..."
@@ -57,17 +57,17 @@ _Type: Organizations_
 - [00:54:20](/episodes/ep-czVBmqZP6Ss.md#^t-00-54-20)
   > "... nothing out of changing your outfit. We have a statement from Discord which kind of disputes that. Discord says, “In the course of our investigation, we identified a Discord account associated with the susp..."
 
-### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
+### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 
 - [00:22:05](/episodes/ep-his-JBjlkh8.md#^t-00-22-05)
   > "...ing young people, making heaven crowded. Don't give air to people who want to tear you down and sow discord. Lastly, we didn't respond because Charlie (Charlie Kirk) always viewed Candace as a friend, and we..."
 
-### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
+### [ep-ja26iltROkM](/episodes/ep-ja26iltROkM.md)
 
 - [00:15:36](/episodes/ep-ja26iltROkM.md#^t-00-15-13)
   > "...t was taken, the possibility of accomplices, the text message confession and related conversations, Discord chats, the angle of the shot and bullet impact, how the weapon was transported, hand gestures obser..."
 
-### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
+### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
 
 - [00:43:10](/episodes/ep-vwG1juDCQZQ.md#^t-00-42-32)
   > "...a glaring obvious hole and then just pooh-pooh it—which is kind of what Allie did regarding the fed Discord messages. I watched a clip. She like softens it and says, "Well, even if these are written by the f..."

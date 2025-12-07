@@ -2,6 +2,8 @@
 
 _Total claims: 1141_
 
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 <input type="radio" id="tab-type" name="claims-tab" checked class="tab-radio">
 <input type="radio" id="tab-veracity" name="claims-tab" class="tab-radio">
 
@@ -93,24 +95,36 @@ _Verifiable statements about events, dates, people, or facts_
 > he was texting people saying they are gonna kill me. On the same day that he's on this Zoom call—this is a fact—this night Zoom call, as Josh says it was at night, ... that same day, he's texting people saying they are going to kill me.
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Charlie Kirk death: Josh Hammer slams Candace Owens over 'Jewish donor' row, drops TPUSA boss's full texts | Hindustan Times](https://www.hindustantimes.com/world-news/us-news/charlie-kirk-death-josh-hammer-slams-candace-owens-over-jewish-donor-row-drops-tpusa-bosss-full-texts-101760037740362.html)
+**Verification Notes:** Multiple news articles, including this one from Hindustan Times, report that Josh Hammer released full text messages from a group chat involving Charlie Kirk to refute Candace Owens' claims, confirming a Zoom call or long talk the night before Kirk's death. However, no reliable sources quote or confirm any specific text from Kirk saying 'they are gonna kill me' on the same day as the Zoom call. The claim mixes verifiable elements (e.g., the existence of a night call and released texts about frustration with donors) with an unsubstantiated allegation about the 'kill me' text and its timing. To verify, access to the complete original text message screenshots, timestamps, or an official investigation report (e.g., via law enforcement or court documents) would be required, as news reports do not provide this detail.
 
 ### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:07:26](/episodes/ep-2WEHTk0Xewg.md#^t-00-07-18)
 
 > Charlie Kirk gets shot at 12:23 p.m.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [33 hours: A timeline of Charlie Kirk's shooting and the search for a suspect](https://www.npr.org/2025/09/12/nx-s1-5539285/charlie-kirk-shooting-manhunt-suspect-custody-timeline)
+**Verification Notes:** Multiple established news outlets, including NPR, Fox News, ABC News, and CNN, provide detailed timelines of the September 10, 2025, shooting at Utah Valley University, confirming that Charlie Kirk was shot at approximately 12:23 p.m. MT. This specific time is consistently reported in official updates from the FBI and law enforcement, aligning with eyewitness accounts and security footage references in the timelines.
 
 ### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:07:33](/episodes/ep-2WEHTk0Xewg.md#^t-00-07-18)
 
 > Charlie Kirk was shot at 12:23 p.m.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Charlie Kirk assassination: Timeline of Utah campus shooting details attack, manhunt for suspect](https://www.foxnews.com/us/charlie-kirk-assassination-timeline-utah-campus-shooting-details-attack-manhunt-suspect)
+**Verification Notes:** Multiple established news outlets, including Fox News, ABC News, NPR, and CNN, provide detailed timelines of the Charlie Kirk shooting at Utah Valley University on September 10, 2025. These sources consistently report the shooting occurring around midday, with specific details aligning on 12:23 p.m. as the time of the incident, supported by official updates and visual timelines.
 
 ### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:07:35](/episodes/ep-2WEHTk0Xewg.md#^t-00-07-18)
 
 > George Zinn announced as suspect in custody by Utah police 30 minutes after the shooting
 
 **Type:** Factual
+**Veracity:** False (high)
+**Source:** [George Zinn, arrested on suspicion of obstruction after Charlie Kirk shooting, is widely known Utah political ‘gadfly’](https://www.sltrib.com/news/2025/09/10/george-zinn-what-we-know-about-man/)
+**Verification Notes:** Multiple reliable news sources, including the Salt Lake Tribune (published approximately 4.5 hours after the shooting), The Hill, BBC, and others, report on George Zinn's arrest and role, with publication times starting several hours post-shooting (shooting at 12:23 p.m. MT on September 10, 2025). No primary sources, such as official Utah police statements or news reports, indicate an announcement 30 minutes after the shooting; official details emerged later, contradicting the claim's timeline.
 
 ### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:07:44](/episodes/ep-2WEHTk0Xewg.md#^t-00-07-18)
 
@@ -123,6 +137,9 @@ _Verifiable statements about events, dates, people, or facts_
 > Governor Cox mentions second suspect wearing all dark clothing 12 minutes into 5:30 p.m. press conference
 
 **Type:** Factual
+**Veracity:** False (high)
+**Source:** [Utah Gov. Cox shares more details from investigation into motive of Kirk shooting suspect | PBS News](https://www.pbs.org/newshour/nation/utah-gov-cox-shares-more-details-from-investigation-into-motive-of-kirk-shooting-suspect)
+**Verification Notes:** Multiple reliable news sources, including PBS, NBC, CBS, BBC, NPR, ABC, and CNBC, report on Governor Cox's statements and interviews following the Charlie Kirk shooting, focusing on a single suspect in custody with no mention of a second suspect or any description of dark clothing. One source explicitly notes authorities' confidence that the suspect acted alone, contradicting the claim of a second suspect being mentioned in any press conference.
 
 ### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:08:17](/episodes/ep-2WEHTk0Xewg.md#^t-00-07-58)
 
@@ -147,12 +164,18 @@ _Verifiable statements about events, dates, people, or facts_
 > Tyler Robinson entered the campus at 8:07 a.m. wearing a maroon t-shirt and shorts
 
 **Type:** Factual
+**Veracity:** True (medium)
+**Source:** [Fact Check: Tyler Robinson Was NOT Wearing A Trump Shirt In Photo -- The Original Image Of Kirk Shooting Suspect Was Edited](https://www.yahoo.com/news/articles/fact-check-tyler-robinson-not-063837838.html)
+**Verification Notes:** Reliable fact-check sources confirm a real photo exists of Tyler Robinson wearing a plain shirt (described in multiple reports as maroon) and shorts, taken in the context of his arrival on campus the morning of the incident. Posts found on X align with the 8:07 a.m. timeline and outfit description, supporting the official narrative. However, confidence is medium due to some online debate questioning if it's him, though primary news sources treat the photo as authentic and of Robinson.
 
 ### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:15:17](/episodes/ep-2WEHTk0Xewg.md#^t-00-15-06)
 
 > Governor Cox confirmed TMZ footage of man in maroon t-shirt and shorts is Tyler Robinson entering campus at 8:07 a.m.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Charlie Kirk shooting: Suspect Tyler Robinson seen in new video walking near UVU hours before fatal attack | Today News](https://www.livemint.com/news/us-news/charlie-kirk-shooting-suspect-tyler-robinson-seen-in-new-video-walking-near-uvu-hours-before-fatal-attack-11757881856515.html)
+**Verification Notes:** Multiple established news outlets (LiveMint, TMZ, Daily Mail, Fox News) report footage, including TMZ-obtained video, showing Tyler Robinson in a maroon t-shirt and shorts walking near or towards Utah Valley University campus at 8:07 a.m. Posts on X attribute outfit details and confirmation of an outfit change to Governor Cox's statements, aligning with official briefings where Cox revealed suspect details, supporting the claim that he confirmed the footage identification.
 
 ### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:15:41](/episodes/ep-2WEHTk0Xewg.md#^t-00-15-06)
 
@@ -165,6 +188,9 @@ _Verifiable statements about events, dates, people, or facts_
 > FBI recovered high-powered bolt-action rifle used in shooting in wooded area where shooter fled
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Remarks Delivered by Special Agent in Charge Robert Bohls at the September 11, 2025, Press Conference Regarding the Shooting At Utah Valley University](https://www.fbi.gov/contact-us/field-offices/saltlakecity/news/remarks-delivered-by-special-agent-in-charge-robert-bohls-at-the-september-11-2025-press-conference-regarding-the-shooting-at-utah-valley-university)
+**Verification Notes:** The FBI's official press conference remarks from September 11, 2025, confirm the recovery of a high-powered bolt-action rifle from a wooded area where the shooter fled, believed to be the weapon used in the shooting of Charlie Kirk at Utah Valley University. This is corroborated by multiple reliable news sources including Reuters, PBS, USA Today, and NBC News, all reporting the same details from the FBI announcement.
 
 ### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:17:49](/episodes/ep-2WEHTk0Xewg.md#^t-00-17-34)
 
@@ -183,6 +209,9 @@ _Verifiable statements about events, dates, people, or facts_
 > New York Post published exclusive photo of gun at 9:21 a.m. Mountain Time, two hours after FBI press conference
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** Searches for New York Post articles matching the claim returned no results confirming an exclusive photo of the gun published at 9:21 a.m. Mountain Time (11:21 a.m. Eastern) on September 11, 2025. Multiple reliable sources, including Wikipedia, NY Times, ABC News, and NBC News, describe official releases of photos, video, and rifle details by the FBI and law enforcement on September 11, but none attribute an exclusive gun photo to the New York Post. An FBI press conference occurred on September 11 (aligning with the 'two hours after' timeline if at ~7 a.m. MT), but the specific NY Post publication could not be located. Verification would require access to New York Post's publication archives or internal records from September 11, 2025, to confirm or refute the existence and timing of such an article.
 
 ### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:19:14](/episodes/ep-2WEHTk0Xewg.md#^t-00-18-53)
 
@@ -219,6 +248,9 @@ _Verifiable statements about events, dates, people, or facts_
 > Tyler Robinson in custody around 7 p.m. Sep 11 when local texts circulated he was picked up in Warner Valley
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Tyler_James_Robinson)
+**Verification Notes:** Reliable sources, including Wikipedia (sourced from news reports) and articles from BBC, NBC, CNN, and NPR, confirm Tyler Robinson was taken into custody on the evening of September 11, 2025, after surrendering at the Washington County Sheriff's Office in Utah, facilitated by his family and a retired detective. However, no primary sources (e.g., official police statements, arrest records, or news articles) specify the exact time as around 7 p.m., mention local texts circulating at that time, or indicate he was 'picked up' in Warner Valley (sources describe a voluntary surrender, not a pickup). Posts on X suggest times like 10 p.m. or 11 p.m., but these are inconclusive and not reliable evidence. Verification would require access to official arrest logs, police reports from Washington County Sheriff's Office, or FOIA-requested documents detailing the exact timeline and location; news archives do not provide this level of specificity for the custody event.
 
 ### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:23:20](/episodes/ep-2WEHTk0Xewg.md#^t-00-22-59)
 
@@ -249,6 +281,9 @@ _Verifiable statements about events, dates, people, or facts_
 > President Trump announces at 6 a.m. Sep 12 with high degree of certainty suspect in custody
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [N/A](N/A)
+**Verification Notes:** No reliable primary sources such as news articles, official statements, or government documents were found confirming that President Trump made an announcement at exactly 6 a.m. on September 12 about a suspect being in custody with a high degree of certainty. Posts on X from that date quote similar statements attributed to Trump on Fox & Friends, but X posts are inconclusive and cannot serve as factual evidence on their own. The claim mixes a specific time (6 a.m.) with a verifiable public appearance format (Fox & Friends, which airs starting at 6 a.m. ET), but without transcripts, video footage, or reports from established outlets like Fox News, CNN, or the White House, it remains unverifiable. Verification would require access to official Fox News archives, White House press releases, or contemporaneous news reports from September 12, 2025.
 
 ### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:26:54](/episodes/ep-2WEHTk0Xewg.md#^t-00-26-19)
 
@@ -273,6 +308,9 @@ _Verifiable statements about events, dates, people, or facts_
 > Tyler Robinson arrived on UVU campus in gray Dodge Challenger at 8:29 a.m. Sep 10 wearing maroon t-shirt, light-colored shorts, black hat with white logo, light-colored shoes; encountered in same clothing early morning Sep 12
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [IN THE COUNTY OF UTAH, STATE OF UTAH State of Utah vs. Tyler Robinson - Probable Cause Affidavit](https://media.deseret.com/media/misc/pdf/dn/news/RobinsonPC.pdf)
+**Verification Notes:** The claim directly matches the details in the official probable cause affidavit from the Utah County court, a primary government document, which states that surveillance footage showed Tyler Robinson arriving on UVU campus in a gray Dodge Challenger at approximately 8:29 a.m. on September 10, wearing a plain maroon t-shirt, light-colored shorts, a black hat with a white logo, and light-colored shoes. It further notes he was encountered in consistent clothing early on September 12. Multiple news outlets, including FOX 13 and ABC News, report on the arrest and reference similar details from official statements, supporting the claim's accuracy.
 
 ### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:28:30](/episodes/ep-2WEHTk0Xewg.md#^t-00-27-57)
 
@@ -399,6 +437,9 @@ _Verifiable statements about events, dates, people, or facts_
 > Charlie Kirk lost a two million dollar donation two days before he died because he pledged to bring Tucker Carlson to Turning Point conference
 
 **Type:** Factual
+**Veracity:** True (medium)
+**Source:** [Charlie Kirk lost donors over support for Tucker Carlson | The Jerusalem Post](https://www.jpost.com/international/article-869781)
+**Verification Notes:** The Jerusalem Post article reports on leaked messages from Candace Owens showing Charlie Kirk criticizing donors after losing a $2 million donation, directly supporting the claim's core elements. Additional web sources, including a Pravda EN article quoting Tucker Carlson, confirm the specific detail of the loss occurring two days before Kirk's death due to the pledge to feature Carlson at the Turning Point conference. Social media posts on X further corroborate this with references to a specific donor (Robert J. Shillman) withdrawing a $2 million pledge, though these are secondary and based on the same leaks and statements. No contradicting evidence was found in reliable sources.
 
 ### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:45:45](/episodes/ep-2WEHTk0Xewg.md#^t-00-45-18)
 
@@ -417,6 +458,9 @@ _Verifiable statements about events, dates, people, or facts_
 > American Jewish Committee called Charlie Kirk an anti-Semite and dangerous
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Antisemitic and Anti-Israel Conspiracy Theories Follow Fatal Shooting of Charlie Kirk | ADL](https://www.adl.org/resources/article/antisemitic-and-anti-israel-conspiracy-theories-follow-fatal-shooting-charlie)
+**Verification Notes:** No primary sources, such as an official statement from the American Jewish Committee (AJC) or reports from established news outlets, were found confirming that the AJC called Charlie Kirk an anti-Semite and 'dangerous.' Searches yielded discussions of conspiracy theories surrounding Kirk's death and corrections to unrelated antisemitism claims about him, but nothing directly supporting this specific claim. X posts repeat similar assertions, but they are inconclusive and not reliable evidence. Verification would require an official AJC press release, archived statement on their website, or direct quotes in reputable news articles (e.g., via FOIA or AJC archives if not publicly available).
 
 ### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:46:08](/episodes/ep-2WEHTk0Xewg.md#^t-00-46-02)
 
@@ -591,48 +635,72 @@ _Verifiable statements about events, dates, people, or facts_
 > Turning Point USA has responded to the release of the messages, so we are going to watch that. Spoiler alert: they were real, of course.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Candace Owens was not lying; Charlie Kirk's messages on Israel pressure two days before he was killed are genuine, says Turning Point](https://timesofindia.indiatimes.com/world/us/candace-owens-was-not-lying-charlie-kirks-messages-on-israel-pressure-two-days-before-he-was-killed-are-genuine-says-turning-point/articleshow/124371606.cms)
+**Verification Notes:** Reliable news outlets, including The Times of India and Newsweek, report that Turning Point USA, through spokesman Andrew Kolvet, confirmed the authenticity of the text messages released by Candace Owens. These messages involved Charlie Kirk expressing concerns about pressure from Israeli donors. Multiple X posts from various users also reflect this confirmation, aligning with the claim that TPUSA responded and admitted the messages were real.
 
 ### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candac... @ 00:13:40](/episodes/ep-5autG89PW6w.md#^t-00-13-12)
 
 > Andrew Kolvet, Turning Point's spokesperson, confirmed that the messages were in fact real.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [TPUSA’s Andrew Kolvet confirms Charlie Kirk texts revealed by Candace Owens are real | RISING+](https://thehill.com/video/tpusa%E2%80%99s-andrew-kolvet-confirms-charlie-kirk-texts-revealed-by-candace-owens-are-real-rising/11148582/)
+**Verification Notes:** Multiple established news outlets, including The Hill, Newsweek, Daily Mail, and Times of India, report that Andrew Kolvet, spokesperson for Turning Point USA, confirmed the authenticity of the leaked text messages during an episode of the Charlie Kirk Show in October 2025. This aligns directly with the claim, supported by consistent reporting across sources.
 
 ### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candac... @ 00:14:31](/episodes/ep-5autG89PW6w.md#^t-00-14-17)
 
 > that was a text grab, a screen grab that I had shared uh... with people, so it—it is authentic.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Charlie Kirk leaked text confirms he was livid about 'bullying' Jewish donors: 'I'm leaving pro-Israel cause' | Daily Mail Online](https://www.dailymail.co.uk/news/article-15171321/Charlie-Kirk-bullying-Jewish-Israel-donors.html)
+**Verification Notes:** Multiple established news outlets, including Daily Mail, Newsweek, and Western Journal, report that Andrew Kolvet confirmed the authenticity of the leaked text messages on the Charlie Kirk Show. This directly supports the claim that the screen grab is authentic. Additionally, Kolvet's statement about sharing it with people in government is consistent across reports and his own admission in the clip, with no contradicting evidence found.
 
 ### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candac... @ 00:15:06](/episodes/ep-5autG89PW6w.md#^t-00-15-02)
 
 > It took 33 hours for authorities to get their suspect.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Charlie Kirk shooting: An unlikely end to the 33-hour hunt for suspect](https://www.bbc.com/news/articles/c784end1wxvo)
+**Verification Notes:** Multiple established news sources, including BBC, NPR, and Wikipedia, confirm that the manhunt for suspect Tyler Robinson in the Charlie Kirk shooting lasted 33 hours, directly supporting the claim. For example, BBC explicitly describes it as a '33-hour hunt,' and NPR notes the suspect was detained less than 36 hours after the shooting, aligning with the timeline.
 
 ### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candac... @ 00:21:25](/episodes/ep-5autG89PW6w.md#^t-00-20-43)
 
 > Three people told me off-record—two people who have this in a written communication from Charlie (Charlie Kirk), one who is a Turning Point USA donor... The very day before Charlie (Charlie Kirk) died, he expressed that he thought he was going to be killed.
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** No primary sources, such as official statements from Turning Point USA, published text messages, or reports from established news outlets (e.g., Reuters, BBC, or The Guardian), were found confirming or refuting the existence of written communications from Charlie Kirk expressing fear for his life the day before his death on September 10, 2025, or the off-record conversations with three individuals. Social media posts discuss Candace Owens' revelations and alleged screenshots, but these are inconclusive and cannot serve as evidence. The podcast episode title suggests TPUSA confirmed related text messages, but without external verification, the claim remains unsubstantiated. To verify, would require: public confirmation from the three unnamed sources, release and authentication of the written communications (e.g., via forensic analysis or court documents), or an official TPUSA statement; alternatively, investigative reporting from reliable news sources or FOIA requests for any related law enforcement records on threats to Kirk.
 
 ### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candac... @ 00:24:14](/episodes/ep-5autG89PW6w.md#^t-00-24-12)
 
 > We actually spoke literally the night before his tragic and untimely death. I was on a small Zoom call with him and a couple others.
 
 **Type:** Factual
+**Veracity:** True (medium)
+**Source:** [“I Spoke To Charlie Kirk About Israel The Night Before His Death…” | Josh Hammer - YouTube](https://www.youtube.com/watch?v=bOWOWoM6Wcs)
+**Verification Notes:** Josh Hammer directly states in this interview that he spoke with Charlie Kirk on a Zoom call the night before Kirk's death, discussing Israel-related topics. This is corroborated by multiple posts on X (formerly Twitter) from various users, including one citing another individual (Eitan Fischberger) confirming the call involved Hammer and Rabbi PW. No sources refute the occurrence of the call, though it is a private event without public records like Zoom logs; confidence is medium due to reliance on self-reporting and social media corroboration without independent primary evidence like participant confirmations or call records.
 
 ### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candac... @ 00:28:53](/episodes/ep-5autG89PW6w.md#^t-00-28-35)
 
 > he was obviously dead before he hit the ground. That was not an entry wound that we saw. We saw an exit wound.
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Where and When Charlie Kirk Was Shot: Maps, Video and Photos - The New York Times](https://www.nytimes.com/2025/09/10/us/charlie-kirk-shooting-timeline-map.html)
+**Verification Notes:** No reliable primary sources, such as official autopsy reports, medical examiner statements, or ballistics analyses from government or law enforcement agencies, were found to confirm or refute the specifics of the wound (entry vs. exit) or the exact moment of death relative to hitting the ground. Available news articles from outlets like The New York Times provide timelines and maps of the shooting but lack forensic details. Posts on X discuss conflicting claims about entry/exit wounds but are not conclusive evidence. Verification would require access to the official autopsy report from the Utah medical examiner's office, ballistics reports from the FBI or local law enforcement, or declassified investigative documents via FOIA request.
 
 ### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candac... @ 00:29:01](/episodes/ep-5autG89PW6w.md#^t-00-28-35)
 
 > Why did his shirt move the way it did? When I've shot people, their shirts didn't move like that.
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [N/A](N/A)
+**Verification Notes:** The claim is a personal anecdote from Rob O'Neill based on his combat experiences, stating that shirts did not move in a particular way when he shot people. No primary sources, such as news articles, official forensic analyses, or expert statements, were found that directly support or refute this subjective observation. Multiple search strategies (e.g., queries on ballistics, gunshot wound analysis, shirt movement in shootings, and Rob O'Neill's comments on the Brian Thompson assassination) yielded no reliable evidence addressing this specific detail. To verify, access to classified military records, videos from O'Neill's operations, or independent ballistic experiments replicating similar conditions (e.g., clothing response to specific calibers and velocities) would be required, potentially via FOIA requests to the Department of Defense or expert forensic reconstructions.
 
 ### [From Britney To Charlie. With Pastors Like These, Who Nee... @ 00:02:12](/episodes/ep-7RLtGgkTh9o.md#^t-00-02-03)
 
@@ -711,180 +779,210 @@ _Verifiable statements about events, dates, people, or facts_
 > It was after the public execution of sitting President JFK in 1963 that the CIA established Operation Mockingbird.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. ... @ 00:05:44](/episodes/ep-JQjCAsfoXEE.md#^t-00-05-00)
 
 > On October 11th, when I infamously tweeted about the Egyptian military plane that left Provo on the morning of Charlie Kirk's assassination
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. ... @ 00:12:15](/episodes/ep-JQjCAsfoXEE.md#^t-00-11-52)
 
 > Terrell Farnsworth, the guy who takes out the SD cards, was there at all. Terrell does not do college campus events. He does the big events: the SAS, the AmFest.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. ... @ 00:12:50](/episodes/ep-JQjCAsfoXEE.md#^t-00-12-33)
 
 > Charlie Kirk flew into Salt Lake City that morning. Because why didn't he fly into the much closer Provo airport?
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. ... @ 00:15:09](/episodes/ep-JQjCAsfoXEE.md#^t-00-14-44)
 
 > Charlie Kirk landed into Salt Lake City at 9:23 a.m. local time.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. ... @ 00:16:55](/episodes/ep-JQjCAsfoXEE.md#^t-00-16-12)
 
 > between 2022 and September of 2025, both of those aircraft—SU-BTT, the yellow plane, and SU-BND, the blue plane—showed 68 overlaps with Erika's documented locations... I have since been able to add now 73 times that this overlapped
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. ... @ 00:17:22](/episodes/ep-JQjCAsfoXEE.md#^t-00-16-57)
 
 > The flights were majority clustered within five states: Kansas, Missouri, Nebraska, Delaware, and Utah.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. ... @ 00:19:15](/episodes/ep-JQjCAsfoXEE.md#^t-00-18-55)
 
 > On the day of Charlie Kirk's assassination, ... the blue plane, SU-BND, did, however, power on... transponding at the FBO at Duncan Aviation
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. ... @ 00:21:35](/episodes/ep-JQjCAsfoXEE.md#^t-00-21-01)
 
 > On September 10th, the day of Charlie Kirk's assassination, this plane first transponded from 9:05 a.m. plus 36 seconds until it was turned off at 10:34 a.m. and five seconds. Then the plane turned back on ... at 12:40 p.m. and 53 seconds, and it stayed on until 1:29 p.m. and 40 seconds.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. ... @ 00:24:14](/episodes/ep-JQjCAsfoXEE.md#^t-00-23-29)
 
 > in the hospital on that day, you told me—you were in the hospital—that you were told that there was a credible threat against me and Tucker Carlson. Specifically, you told me that me and Tucker Carlson were on a list
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. ... @ 00:26:14](/episodes/ep-JQjCAsfoXEE.md#^t-00-25-34)
 
 > The tail number is N560TW. It departed on the morning of September 10th from Scottsdale, Arizona, and it landed into Provo at 10:06 a.m. It then immediately turned around and departed for Santa Barbara. ... departed Santa Barbara at 11:37 a.m. for Scottsdale, landing at 12:44 p.m.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. ... @ 00:27:30](/episodes/ep-JQjCAsfoXEE.md#^t-00-26-57)
 
 > Duncan Aviation ... sourced rental cars for these quote-unquote Egyptians when they landed a couple of days before this operation. ... license plate numbers for four of the vehicles: T09-20-2ZS (silver 2025 Toyota RAV4, Utah), CWNN872 (white 2025 Toyota Camry, Arizona), TN12KM (white 2023 Toyota RAV4, Utah), Z923DA (black 2025 Toyota 4Runner, Utah)
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. ... @ 00:33:34](/episodes/ep-JQjCAsfoXEE.md#^t-00-32-54)
 
 > they missed their tax deadline—for the first time ... filed for an extension and then miss the extension deadline to file
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. ... @ 00:37:40](/episodes/ep-JQjCAsfoXEE.md#^t-00-37-02)
 
 > Turning Point USA sent $8,560,625 ... to America's Turning Point
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. ... @ 00:44:24](/episodes/ep-JQjCAsfoXEE.md#^t-00-43-52)
 
 > they cleared over $70 million in the first couple of weeks after Charlie Kirk was assassinated.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:02:34](/episodes/ep-K1tFD7FfoCU.md#^t-00-02-14)
 
 > Randy Fine has been so disgusting in his rhetoric towards Palestinians—saying essentially that they're just not even truly humans—that even AIPAC had to drop him.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:06:29](/episodes/ep-K1tFD7FfoCU.md#^t-00-06-07)
 
 > They fired him from Fox because he was speaking out against the Ukrainian war, and that was not allowed.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:07:05](/episodes/ep-K1tFD7FfoCU.md#^t-00-06-49)
 
 > these same individuals were squeezing Charlie leading up to the end of his life. They wanted Tucker Carlson to be gone, no longer allowed on the Turning Point USA stage
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:08:20](/episodes/ep-K1tFD7FfoCU.md#^t-00-08-16)
 
 > Before Charlie died—really kind of just before he died in July—I interviewed Nick Fuentes. And Charlie and I discussed the interview, and never once did he tell me not to speak to Nick Fuentes.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:08:39](/episodes/ep-K1tFD7FfoCU.md#^t-00-08-16)
 
 > I also had a long discussion with Andrew Colvet separately, telling them both that Charlie should host Nick Fuentes on his show and debate him. I tried to make that happen. Andrew Colvet can confirm that everything that I am saying is true.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:14:52](/episodes/ep-K1tFD7FfoCU.md#^t-00-14-16)
 
 > Charlie and Ben Shapiro did not get along. Because Charlie found out that Ben Shapiro was operating behind the scenes to stop him and sort of hinder the growth of Turning Point USA in our early days... I have only about 80 to 150 text messages from Charlie to that effect.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:15:28](/episodes/ep-K1tFD7FfoCU.md#^t-00-14-56)
 
 > Ben Shapiro told Charlie that Ben Shapiro was in part upset because I made a joke about him... and that I, Candace Owens, was going to Milo my career if Charlie didn't get away from me.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:18:55](/episodes/ep-K1tFD7FfoCU.md#^t-00-18-23)
 
 > Charlie loved Tucker Carlson... he fought for Tucker Carlson to be on the Turning Point stage until his dying day—literally.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:20:36](/episodes/ep-K1tFD7FfoCU.md#^t-00-20-31)
 
 > in the immediate aftermath of Charlie's death... the team reached out to host Matt Walsh to host Charlie Kirk's show... And they were told that that was not allowed to happen unless Ben Shapiro was also invited.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:20:53](/episodes/ep-K1tFD7FfoCU.md#^t-00-20-31)
 
 > the Jerusalem Post completely fictionalized or rather published a completely deranged lie about Erika Kirk... 'Mrs. Erika Kirk will accept the award on her husband's behalf'
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:22:13](/episodes/ep-K1tFD7FfoCU.md#^t-00-21-54)
 
 > Andrew Colvet, the spokesperson for Turning Point USA, instantly came out and slapped down the rumor... 'This is the first we're hearing of this. We've reached out to the reporter at the Jerusalem Post for a correction.'
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:23:33](/episodes/ep-K1tFD7FfoCU.md#^t-00-23-22)
 
 > he wavered in his support [for Israel]
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:36:52](/episodes/ep-K1tFD7FfoCU.md#^t-00-36-34)
 
 > Kash Patel... flew down in his FBI plane to go see her [Alexis] down in Nashville.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:37:08](/episodes/ep-K1tFD7FfoCU.md#^t-00-36-34)
 
 > there are clips of Kash Patel calling the FBI corrupt before he was in the FBI and saying that taxpayers shouldn't have to fund their personal trips.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Expressed Concerns About TPUSA Finances | Ca... @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)
 
 > a week before Charlie Kirk lost his life, he expressed some concerns about the finances at Turning Point USA
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Expressed Concerns About TPUSA Finances | Ca... @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)
 
@@ -897,6 +995,7 @@ _Verifiable statements about events, dates, people, or facts_
 > Charlie Kirk wanted to put together an entire department, a little mini-department, to address those concerns
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Expressed Concerns About TPUSA Finances | Ca... @ 00:00:08](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)
 
@@ -909,6 +1008,7 @@ _Verifiable statements about events, dates, people, or facts_
 > Benjamin Netanyahu tweeted before the president of the United States that Charlie Kirk had lost his life
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Expressed Concerns About TPUSA Finances | Ca... @ 00:01:53](/episodes/ep-K5GjF53bfN4.md#^t-00-01-27)
 
@@ -921,6 +1021,7 @@ _Verifiable statements about events, dates, people, or facts_
 > Benjamin Netanyahu lied about the contents of a letter that Charlie Kirk had written him back in May
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Expressed Concerns About TPUSA Finances | Ca... @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#^t-00-01-58)
 
@@ -975,6 +1076,7 @@ _Verifiable statements about events, dates, people, or facts_
 > Marissa Streit has not always been open about the fact that she worked for the IDF intelligence
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Expressed Concerns About TPUSA Finances | Ca... @ 00:08:35](/episodes/ep-K5GjF53bfN4.md#^t-00-08-02)
 
@@ -987,6 +1089,7 @@ _Verifiable statements about events, dates, people, or facts_
 > Turning Point will not release the footage
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Expressed Concerns About TPUSA Finances | Ca... @ 00:11:34](/episodes/ep-K5GjF53bfN4.md#^t-00-11-24)
 
@@ -1005,6 +1108,7 @@ _Verifiable statements about events, dates, people, or facts_
 > neither the feds nor the local police had ever reached out to the person who filmed the shooter sprinting across the rooftop
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Expressed Concerns About TPUSA Finances | Ca... @ 00:15:40](/episodes/ep-K5GjF53bfN4.md#^t-00-15-27)
 
@@ -1017,6 +1121,7 @@ _Verifiable statements about events, dates, people, or facts_
 > he walked in and gave the footage to the Orem Police Department... the feds never reached out to him until the 15th
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Expressed Concerns About TPUSA Finances | Ca... @ 00:19:12](/episodes/ep-K5GjF53bfN4.md#^t-00-19-04)
 
@@ -1047,6 +1152,7 @@ _Verifiable statements about events, dates, people, or facts_
 > on September 2nd... Charlie Kirk surprised the company by announcing that he was putting together a DOGE department
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Expressed Concerns About TPUSA Finances | Ca... @ 00:21:06](/episodes/ep-K5GjF53bfN4.md#^t-00-20-28)
 
@@ -1059,6 +1165,7 @@ _Verifiable statements about events, dates, people, or facts_
 > internal memo signed off by Charlie Kirk on September 2nd announcing Justin Strief as COO and empowering him to engage in an organizational-wide DOGE effort focused on efficiency, cost-effectiveness, metrics, and reshaping culture
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Expressed Concerns About TPUSA Finances | Ca... @ 00:22:52](/episodes/ep-K5GjF53bfN4.md#^t-00-22-38)
 
@@ -1077,6 +1184,7 @@ _Verifiable statements about events, dates, people, or facts_
 > sources at Turning Point said that Charlie Kirk wasn't just concerned about where the money was going, but also where the money was coming from
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Expressed Concerns About TPUSA Finances | Ca... @ 00:31:11](/episodes/ep-K5GjF53bfN4.md#^t-00-30-54)
 
@@ -1155,18 +1263,27 @@ _Verifiable statements about events, dates, people, or facts_
 > Bill Ackman gave $1.75 million to stop Mamdani.
 
 **Type:** Factual
+**Veracity:** Mixed (medium)
+**Source:** [Pro-Israel Billionaire Who Led Mamdani Scaremongering Now Offers to Help NYC's Next Mayor | Common Dreams](https://www.commondreams.org/news/ackman-congratulates-mamdani)
+**Verification Notes:** Initial reports from October 2025 indicate Bill Ackman donated $1 million to Defend NYC, a super PAC opposing Mamdani. A later November 2025 report states he 'dumped nearly $2 million' into stopping Mamdani, which is close to but not exactly $1.75 million. The claim's specific amount is not precisely matched across sources, making it mixed with the higher figure supported but not exact.
 
 ### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Cand... @ 00:10:30](/episodes/ep-LATnak75Si0.md#^t-00-09-44)
 
 > Michael Bloomberg gave $8.3 million to a Cuomo-affiliated super PAC to stop Mamdani.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Bloomberg pours more cash into Cuomo super PAC, bringing his total contribution to $8.3M - POLITICO](https://www.politico.com/news/2025/06/18/bloomberg-donation-cuomo-super-pac-00413966)
+**Verification Notes:** Multiple reliable sources, including POLITICO and The New York Times, confirm that Michael Bloomberg donated a total of $8.3 million to a super PAC affiliated with Andrew Cuomo in the 2025 New York City mayoral race, with the explicit aim of supporting Cuomo and opposing Zohran Mamdani. Reports detail incremental donations adding up to this amount, and the super PAC's activities were focused on anti-Mamdani efforts.
 
 ### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Cand... @ 00:10:41](/episodes/ep-LATnak75Si0.md#^t-00-10-30)
 
 > Airbnb co-founder Joe Gebbia gave $3.1 million to stop Mamdani.
 
 **Type:** Factual
+**Veracity:** Mixed (medium)
+**Source:** [Airbnb co-founder and Trump design official gives $2 million in support of Cuomo](https://www.nydailynews.com/2025/10/16/airbnb-co-founder-and-trump-official-gives-2-million-in-support-of-cuomo/)
+**Verification Notes:** Reliable news sources, including the New York Daily News and Yahoo News, confirm Joe Gebbia donated $2 million to super PACs supporting Andrew Cuomo in opposition to Zohran Mamdani in the 2025 NYC mayoral race. Posts found on X from journalists and Mamdani himself reference donations of $2 million or $3 million to anti-Mamdani efforts. No sources confirm the exact figure of $3.1 million, making the specific amount inaccurate, but the claim of a significant donation to stop Mamdani is supported by evidence.
 
 ### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Cand... @ 00:10:47](/episodes/ep-LATnak75Si0.md#^t-00-10-30)
 
@@ -1197,12 +1314,18 @@ _Verifiable statements about events, dates, people, or facts_
 > Bob Shulman took $2 million away from Charlie Kirk because he let Tucker Carlson hit the stage.
 
 **Type:** Factual
+**Veracity:** True (medium)
+**Source:** [Top pro-Israel TPUSA donor terminated support for Kirk in days before death, sources say - The Grayzone](https://thegrayzone.com/2025/09/22/israel-tpusa-donor-terminated-kirk/)
+**Verification Notes:** The article reports that ultra-Zionist billionaire Robert Shillman (likely a reference to 'Bob Shulman,' possibly a misspelling) ended funding for Turning Point USA due to Charlie Kirk's increasingly critical views on Israel. Additional posts found on X and other web sources, including leaks from group chat messages shared by Candace Owens, specify that Shillman withdrew a $2 million pledge specifically because Kirk refused to cancel Tucker Carlson from appearing at events. This aligns with the claim's details, though the exact name 'Shulman' appears to be a variant or error for 'Shillman.' Evidence is based on investigative reporting and secondary sources, with no direct primary document like an official statement found.
 
 ### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Cand... @ 00:31:39](/episodes/ep-LATnak75Si0.md#^t-00-31-13)
 
 > Charlie Kirk was never rendered any first aid immediately; security team did not administer first aid, no gauze, no hand on wound.
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** Multiple reliable sources, including Wikipedia, The Guardian, ABC News, BBC, and FBI releases, detail the shooting event, footage availability, security aspects, and timeline, but none directly address whether immediate first aid was administered by the security team, such as applying gauze or pressure to the wound. The widow's thanks to first responders in BBC reporting implies some response occurred, but this likely refers to emergency services rather than immediate security actions. To verify, access to the full multi-angle footage (as referenced in sources like The Guardian and ABC News visual timeline) or official incident reports from UVU security, first responders, or autopsy details would be required; these could be obtained via FOIA requests to the FBI or local authorities.
 
 ### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Cand... @ 00:32:30](/episodes/ep-LATnak75Si0.md#^t-00-31-55)
 
@@ -1221,90 +1344,107 @@ _Verifiable statements about events, dates, people, or facts_
 > Megyn Kelly produced video evidence of what Charlie Kirk said to Tucker Carlson backstage at the Student Action Summit in July
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Char... @ 00:05:16](/episodes/ep-MUA9ebCF4Ow.md#^t-00-05-02)
 
 > Candace Owens has not made the claim that Erika Kirk was behind the murder of Charlie Kirk
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Char... @ 00:09:46](/episodes/ep-MUA9ebCF4Ow.md#^t-00-09-38)
 
 > Charlie Kirk told Tucker Carlson backstage before July speech to 'go all the way' criticizing neocons drawing US into Iran war and Epstein's Israeli intelligence contacts
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Char... @ 00:12:06](/episodes/ep-MUA9ebCF4Ow.md#^t-00-11-22)
 
 > Video shows Charlie Kirk interrupting conversation and telling Tucker Carlson 'Go max' right before Tucker's speech
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Char... @ 00:15:57](/episodes/ep-MUA9ebCF4Ow.md#^t-00-15-12)
 
 > Pastor Rob McCoy claimed Mikey McCoy had blood all over him
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Char... @ 00:16:05](/episodes/ep-MUA9ebCF4Ow.md#^t-00-15-57)
 
 > Alex Clark and Andrew Colvett claimed Charlie Kirk was a committed evangelical who only liked Catholic architecture
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Char... @ 00:16:19](/episodes/ep-MUA9ebCF4Ow.md#^t-00-15-57)
 
 > Andrew Colvett claimed Charlie Kirk's neck stopped a .30-06 bullet because he ate salad and had strong bones as a miracle
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Char... @ 00:16:41](/episodes/ep-MUA9ebCF4Ow.md#^t-00-15-57)
 
 > Rob McCoy claimed Mikey McCoy called his dad first
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Char... @ 00:19:08](/episodes/ep-MUA9ebCF4Ow.md#^t-00-18-54)
 
 > UVU Turning Point chapter requested Charlie Kirk to speak on July 18th according to local Utah news
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Char... @ 00:19:36](/episodes/ep-MUA9ebCF4Ow.md#^t-00-18-54)
 
 > Turning Point USA approved UVU request and sent scouts to campus within two weeks in early August
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Char... @ 00:20:14](/episodes/ep-MUA9ebCF4Ow.md#^t-00-19-36)
 
 > UVU recommended against holding event in amphitheater for safety reasons but Turning Point USA insisted on outdoor location
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Char... @ 00:30:04](/episodes/ep-MUA9ebCF4Ow.md#^t-00-29-28)
 
 > Timpanogos Hospital (HCA, VDI system) and Utah Valley Hospital (IHC, Epic system) do not share patient information
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Char... @ 00:32:30](/episodes/ep-MUA9ebCF4Ow.md#^t-00-32-19)
 
 > The old man near the bush during setup is Butch Hibbs, brother of Pastor Jack Hibbs
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Char... @ 00:37:22](/episodes/ep-MUA9ebCF4Ow.md#^t-00-37-04)
 
 > Alexis Wilkins is suing Elijah Schaffer and others for $5 million over honeypot claims
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie K... @ 00:01:35](/episodes/ep-QZWSsq8ZWzw.md#^t-00-01-30)
 
 > FBI is putting an absurd amount of pressure right now on the authorities in Utah and also the rest of the government in Utah to come out and say that the Charlie Kirk case is closed
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Utah Valley Shooting Updates | Federal Bureau of Investigation](https://www.fbi.gov/news/press-releases/utah-valley-shooting-updates)
+**Verification Notes:** No reliable primary sources, such as official FBI statements, Utah government documents, or established news outlets (e.g., ABC News, The New York Times, BBC), confirm or refute the specific claim of FBI exerting pressure on Utah authorities to declare the Charlie Kirk assassination case closed as a lone gunman incident. Web searches and X posts reveal official narratives describing the suspect Tyler James Robinson as acting alone, with FBI collaboration in the investigation, but only unsubstantiated conspiracy theories on X suggest cover-ups or undue influence. Verification would require internal communications, such as leaked emails, FOIA-requested FBI or Utah state documents, or whistleblower testimony from involved authorities to confirm any pressure.
 
 ### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie K... @ 00:01:35](/episodes/ep-QZWSsq8ZWzw.md#^t-00-01-30)
 
@@ -1317,6 +1457,9 @@ _Verifiable statements about events, dates, people, or facts_
 > FBI wants Charlie Kirk's assassination to be officially ruled lone gunman
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** No reliable primary sources, such as official FBI statements, Utah government documents, or established news outlets (e.g., CNN, PBS, NPR), confirm or mention any FBI pressure on Utah authorities to rule the assassination as a lone gunman act or to close the case. Official reports and news articles describe the incident as perpetrated by a single suspect, Tyler James Robinson, who was charged with aggravated murder, with authorities expressing confidence he acted alone (e.g., statements from Utah Gov. Spencer Cox). The claim originates from an anonymous 'authoritative source' in the podcast, which mixes verifiable facts (e.g., the suspect's name and charges) with unverified interpretation of motives. To verify, access to internal FBI or Utah law enforcement communications, such as emails or memos via FOIA requests, or public statements from involved officials would be needed. Posts on X reflect public sentiment and conspiracy speculation but do not provide conclusive evidence.
 
 ### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie K... @ 00:02:30](/episodes/ep-QZWSsq8ZWzw.md#^t-00-02-13)
 
@@ -1341,6 +1484,9 @@ _Verifiable statements about events, dates, people, or facts_
 > There is absolutely no video which shows Tyler Robinson firing the weapon or even taking aim at Charlie Kirk
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** No reliable sources, including Wikipedia, CNN, ABC News, or other major outlets, confirm or deny the existence of video footage showing Tyler Robinson firing the weapon or taking aim at Charlie Kirk. Reports detail CCTV footage of Robinson before and after the incident, but not the act itself. The case is ongoing with a trial scheduled for 2026, and detailed evidence (such as potential surveillance videos) has not been publicly disclosed. Verification would require access to court documents, prosecution evidence lists, official police reports, or FOIA requests to the FBI or Utah authorities for any non-public video evidence.
 
 ### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie K... @ 00:03:25](/episodes/ep-QZWSsq8ZWzw.md#^t-00-02-58)
 
@@ -1395,6 +1541,9 @@ _Verifiable statements about events, dates, people, or facts_
 > Bullet was too fragmented to match Tyler's rifle
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Charlie Kirk shooting suspect referenced fascism and memes on bullets, officials say](https://www.nbcnews.com/tech/internet/charlie-kirk-shooting-suspect-fascism-memes-bullets-tyler-robinson-rcna230950)
+**Verification Notes:** No reliable primary sources, such as official forensic reports, court documents, or statements from law enforcement, were found detailing the condition of the bullet or any ballistic matching to Tyler Robinson's rifle. Available news articles discuss the suspect and ammunition but do not address bullet fragmentation or matching. Social media posts on X mention conflicting claims (e.g., some alleging a match, others questioning evidence), but these are not conclusive. Verification would require access to autopsy reports, ballistic analysis from the FBI or ATF, or court filings from the ongoing case, potentially obtainable via FOIA requests or trial proceedings.
 
 ### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie K... @ 00:05:35](/episodes/ep-QZWSsq8ZWzw.md#^t-00-05-00)
 
@@ -1407,6 +1556,9 @@ _Verifiable statements about events, dates, people, or facts_
 > Tyler Robinson has not confessed to anything
 
 **Type:** Factual
+**Veracity:** False (medium)
+**Source:** [Charlie Kirk: Tyler Robinson never went to Utah Valley University, disliked gun? Stunning twist in Charlie Kirk assassination plot - The Economic Times](https://economictimes.indiatimes.com/news/international/global-trends/us-news-candace-owens-tyler-robinson-never-went-to-utah-valley-university-disliked-gun-new-bombshell-in-charlie-kirk-assassination/articleshow/124248415.cms)
+**Verification Notes:** Multiple news sources and posts on X report that Tyler Robinson confessed or implied involvement to family members, leading to his surrender, as detailed in official affidavits and statements from Utah authorities. While he has not confessed to authorities directly and is not cooperating, the claim that he has not confessed 'to anything' is contradicted by these accounts of confessions to family.
 
 ### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie K... @ 00:05:50](/episodes/ep-QZWSsq8ZWzw.md#^t-00-05-35)
 
@@ -1587,120 +1739,140 @@ _Verifiable statements about events, dates, people, or facts_
 > his church was funded by the Wilks Brothers down in Texas.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | C... @ 00:13:54](/episodes/ep-Qfwr08Ebczo.md#^t-00-13-27)
 
 > The Wilks Brothers are the ones that fund DailyWire, the initial seed money behind DailyWire—not the initial seed money behind PragerU, but they majorly fund PragerU as well.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | C... @ 00:14:25](/episodes/ep-Qfwr08Ebczo.md#^t-00-14-10)
 
 > after 17 years as the head pastor of that church, Rob McCoy—it was publicly announced in January of this year—that he would be stepping down as the head pastor and instead assuming the role of pastor emeritus.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | C... @ 00:15:02](/episodes/ep-Qfwr08Ebczo.md#^t-00-14-54)
 
 > That transition took effect in mid-July of this year.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | C... @ 00:16:14](/episodes/ep-Qfwr08Ebczo.md#^t-00-15-33)
 
 > Rob actually put that secondary home in Coronado up for sale on August 24th, 2025, of this year.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | C... @ 00:17:15](/episodes/ep-Qfwr08Ebczo.md#^t-00-16-56)
 
 > Turning Point USA receives a request from UVU for Charlie Kirk to hold an event at Utah Valley on July 18th.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | C... @ 00:18:05](/episodes/ep-Qfwr08Ebczo.md#^t-00-17-43)
 
 > It's the application submitted mid-July by the UVU chapter of Kirk's Turning Point USA.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | C... @ 00:18:52](/episodes/ep-Qfwr08Ebczo.md#^t-00-18-24)
 
 > Tyler Robinson is charged with Kirk's murder.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | C... @ 00:19:41](/episodes/ep-Qfwr08Ebczo.md#^t-00-19-04)
 
 > there was no ambulance on standby, and that's against Utah law.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | C... @ 00:21:51](/episodes/ep-Qfwr08Ebczo.md#^t-00-21-39)
 
 > there were—for whatever reason—12 Israeli cell phones on the ground at Utah Valley University the day that Charlie Kirk was assassinated. ... 12 personal cell phone accounts that were opened in Israel ... and they were on the ground on September 10th at Utah Valley University when Charlie Kirk was shot.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | C... @ 00:22:41](/episodes/ep-Qfwr08Ebczo.md#^t-00-22-17)
 
 > The NSA knows this. Kash Patel knows this.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Why Isn't The Trump Family Asking Questions About Charlie... @ 00:00:02](/episodes/ep-Qt0VHV-POCg.md#^t-00-00-00)
 
 > the Turning Point USA Wikipedia entry got a very interesting update the night after Charlie Kirk was murdered
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Why Isn't The Trump Family Asking Questions About Charlie... @ 00:03:21](/episodes/ep-Qt0VHV-POCg.md#^t-00-02-59)
 
 > less than 36 hours after Charlie died—less than 36 hours, exact time, at 10:34 p.m. Eastern on September 11th—the Turning Point USA Wikipedia received a rather interesting update
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Why Isn't The Trump Family Asking Questions About Charlie... @ 00:03:52](/episodes/ep-Qt0VHV-POCg.md#^t-00-03-39)
 
 > It reads: "Rob McCoy and Charlie Kirk founded Turning Point USA Faith (TPUSA Faith) together."
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Why Isn't The Trump Family Asking Questions About Charlie... @ 00:06:42](/episodes/ep-Qt0VHV-POCg.md#^t-00-06-26)
 
 > "In 2021, Charlie Kirk founded TPUSA Faith, an organization that says it is dedicated to recruit pastors and other church leaders to be active in local and national political issues."
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Why Isn't The Trump Family Asking Questions About Charlie... @ 00:13:18](/episodes/ep-Qt0VHV-POCg.md#^t-00-12-33)
 
 > Clearing like a hundred million a year.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Why Isn't The Trump Family Asking Questions About Charlie... @ 00:14:01](/episodes/ep-Qt0VHV-POCg.md#^t-00-13-18)
 
 > For Charlie's birthday, President Trump signed into law—or established, rather—a holiday. And he decided that October 14th, which is Charlie Kirk's birthday, would be a National Day of Remembrance for Charlie Kirk.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Why Isn't The Trump Family Asking Questions About Charlie... @ 00:16:25](/episodes/ep-Qt0VHV-POCg.md#^t-00-16-13)
 
 > "Why was the wonderful Turning Point under investigation by deranged Jack Smith and the corrupt and incompetent Biden administration?"
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Why Isn't The Trump Family Asking Questions About Charlie... @ 00:30:09](/episodes/ep-Qt0VHV-POCg.md#^t-00-29-42)
 
 > Charlie had a Catholic funeral Mass, and he is buried in a Catholic cemetery.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Why Isn't The Trump Family Asking Questions About Charlie... @ 00:34:16](/episodes/ep-Qt0VHV-POCg.md#^t-00-34-09)
 
 > I do have confidence.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk And The Crossing Of The Delaware | Candace E... @ 00:03:23](/episodes/ep-SKGUzGHymcI.md#^t-00-02-39)
 
@@ -2168,6 +2340,9 @@ _Verifiable statements about events, dates, people, or facts_
 > Charlie Kirk was taken to Timpanogos Regional Hospital... a smaller regional hospital that was a little farther away... trauma III center.
 
 **Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** Multiple reliable sources, including Wikipedia, ABC News, Reuters, AP News, and local outlets like Lehi Free Press, confirm Charlie Kirk was rushed to and pronounced dead at Timpanogos Regional Hospital in Orem, Utah, following the shooting at Utah Valley University. This supports the claim that he was taken to Timpanogos, described as a smaller regional hospital. However, the claim that it was 'a little farther away' and a 'trauma III center' is mixed: posts on X and some reports suggest Utah Valley Hospital (a Level II trauma center) was closer and better equipped for severe trauma, indicating Timpanogos may indeed be farther and less equipped (potentially Level III), but official news sources do not explicitly confirm or refute the distance or exact trauma level comparison, mixing verifiable facts with interpretive elements.
 
 ### [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:31:35](/episodes/ep-YA1FxrDWNIo.md#^t-00-31-28)
 
@@ -2180,6 +2355,9 @@ _Verifiable statements about events, dates, people, or facts_
 > Kash Patel... fired the chief of the Utah bureau... replaced her with Robert Bowles in August.
 
 **Type:** Factual
+**Veracity:** Mixed (medium)
+**Source:** [Kash Patel questions grow as it's revealed he gutted Utah FBI leadership before Charlie Kirk assassination | Daily Mail Online](https://www.dailymail.co.uk/news/article-15089759/Kash-Patel-Utah-FBI-leadership-Charlie-Kirk-assassination.html)
+**Verification Notes:** Reliable sources, including the Daily Mail article and posts on X, confirm that Kash Patel fired the chief of the Utah FBI bureau (Mehtab Syed, a woman) in August 2025, a month before the Charlie Kirk assassination in September. Multiple news outlets and X posts support the firing and gutting of Utah FBI leadership. However, no sources mention the replacement being specifically Robert Bowles, making that part of the claim unverifiable without official FBI personnel records or announcements (e.g., via FOIA request or FBI press releases).
 
 ### [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:36:10](/episodes/ep-YA1FxrDWNIo.md#^t-00-35-28)
 
@@ -2192,72 +2370,106 @@ _Verifiable statements about events, dates, people, or facts_
 > the people who came in on that plane were not the people that went out on that plane
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 00:04:26](/episodes/ep-YFmRH8p5lt0.md#^t-00-04-11)
 
 > that plane we covered, the tail number SUBTT—just so you know—like a year earlier, that plane was in Utah at the same time as Charlie Kirk
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Who does Candace Owens think killed Charlie Kirk? Ex-TPUSA member gives bombshell update on ‘Egyptian Air Force’ theory | Hindustan Times](https://www.hindustantimes.com/world-news/us-news/who-does-candace-owens-think-killed-charlie-kirk-ex-tpusa-member-gives-bombshell-update-on-egyptian-air-force-theory-101760299828271.html)
+**Verification Notes:** No reliable sources, such as news articles or flight tracking records, were found to support or refute the claim that a plane with tail number SUBTT (likely referring to an Egyptian-registered aircraft, possibly SU-BTT) was in Utah in 2023 at the same time as Charlie Kirk or a Turning Point USA event. Available web results and X posts focus on conspiracy theories related to a 2025 Egyptian Air Force plane sighting in Utah but do not address 2023. Verification would require historical flight logs from databases like FlightAware or ADS-B Exchange for the specific tail number, cross-referenced with news reports or official schedules of Charlie Kirk's appearances in Utah in 2023.
 
 ### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 00:06:10](/episodes/ep-YFmRH8p5lt0.md#^t-00-05-35)
 
 > there was another Egyptian plane that left three hours after—Egyptian military plane that is—three hours after Charlie Kirk was assassinated from Provo, Utah... three days after Charlie Kirk was assassinated—that's when the rest of the Egyptian crew, whoever was on that plane, departed Provo
 
 **Type:** Factual
+**Veracity:** False (medium)
+**Source:** [Who Does Candace Owens Think Killed Charlie Kirk? Ex-TPUSA Member Pushes ‘Egyptian Air Force’ Theory | US News - Times Now](https://www.timesnownews.com/world/us/us-news/who-does-candace-owens-think-killed-charlie-kirk-ex-tpusa-member-pushes-egyptian-air-force-theory-article-152989540)
+**Verification Notes:** The claim about an Egyptian military plane (tail number SU-BND) departing Provo, Utah, three days after Charlie Kirk's assassination on September 10, 2025, is contradicted by reliable news sources reporting that similar allegations by Candace Owens were debunked due to her confusion of UTC with local Utah time. No primary sources, such as FAA flight records or official statements, confirm any Egyptian military planes departing Provo around that date; instead, reports treat these as unsubstantiated conspiracy theories facing backlash. Verification would require access to official FAA or FlightAware flight logs for September 13, 2025, at Provo Airport (PVU).
 
 ### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 00:08:42](/episodes/ep-YFmRH8p5lt0.md#^t-00-08-14)
 
 > Rob McCoy hosts the first-ever Turning Point USA Faith Pastors Tour of Israel January 10th to 19th
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [2023 01.10 – Charlie Kirk Rob McCoy FAM/ MKFAM23IS](https://inspiredtravel.com/mkfam23is/)
+**Verification Notes:** The official tour website from Inspired Travel confirms that Pastor Rob McCoy hosted the TPUSA Faith Pastors' Tour to Israel from January 10 to January 19, 2023. Additional context from reliable sources indicates TPUSA Faith was founded in 2021, supporting that this 2023 tour was the inaugural one, with subsequent tours (e.g., in 2025) referenced elsewhere.
 
 ### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 00:09:38](/episodes/ep-YFmRH8p5lt0.md#^t-00-08-56)
 
 > James O'Keefe gets pushed out. He's ousted from the board of his own company [Project Veritas] on February 20th
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [James O’Keefe ousted from right-wing activist group Project Veritas](https://www.cnn.com/2023/02/20/business/james-okeefe-project-veritas)
+**Verification Notes:** Multiple reliable news sources, including CNN, Fox News, The New York Times, and The Washington Times, published articles on February 20, 2023, reporting that James O'Keefe announced his ousting and departure from Project Veritas on that date. The reports confirm he was removed from leadership and the board of the organization he founded, aligning with the claim's details and specific date.
 
 ### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 00:10:31](/episodes/ep-YFmRH8p5lt0.md#^t-00-10-20)
 
 > Sean Feucht is announced as the Turning Point USA Faith contributor on February 27th
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Sean Feucht and TPUSA Faith Launch 50-State ‘Kingdom to the Capitol’ Tour | People For](https://www.peoplefor.org/rightwingwatch/post/sean-feucht-and-tpusa-faith-launch-50-state-kingdom-to-the-capitol-tour)
+**Verification Notes:** No reliable sources confirm the exact date of February 27th (likely 2023 based on context) for Sean Feucht's announcement as a Turning Point USA Faith contributor. Available sources discuss a partnership for the 'Kingdom to the Capitol' tour launching in March 2023, but do not specify an announcement on February 27th. To verify, an official TPUSA press release, social media post, or news article dated February 27, 2023, would be required; further searches with varied queries (e.g., exact date archives) yielded no such evidence.
 
 ### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 00:14:15](/episodes/ep-YFmRH8p5lt0.md#^t-00-13-53)
 
 > Turning Point USA has their first-ever Faith Pastor Summit... in Nashville... on March 24th, 2023
 
 **Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [Nashville Pastors Summit 2023](https://tpusafaith.com/nashville23/)
+**Verification Notes:** Reliable sources, including Turning Point USA's official Faith website and posts on X, confirm a TPUSA Faith Pastors Summit occurred in Nashville in 2023, but the date was May 24-26, not March 24. Additionally, an official page for a 2022 summit (tpusafaith.com/summit22/) indicates the 2023 event was not the first-ever, contradicting that part of the claim. The Nashville location is accurate.
 
 ### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 00:17:23](/episodes/ep-YFmRH8p5lt0.md#^t-00-16-57)
 
 > trans shooting at Covenant Elementary School in Nashville... March 27th
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [2023 Nashville school shooting - Wikipedia](https://en.wikipedia.org/wiki/2023_Nashville_school_shooting)
+**Verification Notes:** Multiple reliable sources, including Wikipedia, CNN, NPR, ABC News, and The New York Times, confirm that a mass shooting occurred on March 27, 2023, at The Covenant School (a private Christian elementary school) in Nashville, Tennessee. The shooter, 28-year-old Aiden Hale (born Audrey Hale), identified as transgender and killed three children and three adults before being killed by police. The claim's description of a 'trans shooting' aligns with the shooter's reported transgender identity, and the date and location are accurate.
 
 ### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 00:19:49](/episodes/ep-YFmRH8p5lt0.md#^t-00-19-41)
 
 > Mikey McCoy's promoted to the chief of staff of Turning Point USA. I have the internal email, so that is a fact. He gets the promotion January 3, 2024
 
 **Type:** Factual
+**Veracity:** Unverifiable (medium)
+**Source:** [Mikey McCoy | Historica Wiki | Fandom](https://historica.fandom.com/wiki/Mikey_McCoy)
+**Verification Notes:** Multiple sources, including news articles and LinkedIn profiles, confirm Mikey McCoy held the position of Chief of Staff at Turning Point USA starting in 2024 and continuing into 2025. However, no reliable public sources specify the exact promotion date of January 3, 2024. The claim references an internal email, which cannot be independently verified without access to Turning Point USA's internal communications or official announcements. To confirm the precise date, access to internal emails, HR records, or a FOIA-equivalent request (if applicable) would be required, but as a private organization, such details are not publicly available.
 
 ### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 00:20:57](/episodes/ep-YFmRH8p5lt0.md#^t-00-20-27)
 
 > Turning Point USA on February 11th... starts a chapter in Lincoln, Nebraska
 
 **Type:** Factual
+**Veracity:** False (medium)
+**Source:** [With a faculty adviser lined up, UNL prepared to recognize Turning Point USA chapter](https://journalstar.com/news/local/education/with-a-faculty-adviser-lined-up-unl-prepared-to-recognize/article_9e4003fd-bae9-52fe-874f-c3593ab2fdaf.html)
+**Verification Notes:** A September 2025 news article from the Lincoln Journal Star reports that Turning Point USA planned to establish a chapter at the University of Nebraska-Lincoln in 2024, but those plans were put on hold due to a protest that escalated into a political crisis. The university was only prepared to recognize the chapter in 2025 after securing a faculty adviser. This directly contradicts the claim of starting a chapter on February 11, 2024. No reliable sources, including official TPUSA announcements or news reports, were found confirming a chapter start on that specific date in 2024, though an earlier chapter formation was reported in 2018.
 
 ### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 00:26:47](/episodes/ep-YFmRH8p5lt0.md#^t-00-26-11)
 
 > Sean Feucht is credibly accused of having been involved in fraud and embezzlement... article broke [June 2024]
 
 **Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [Sean Feucht Accused of Moral, Ethical, and Financial Failure by Former Leaders - MinistryWatch](https://ministrywatch.com/sean-feucht-accused-of-moral-ethical-and-financial-failure-by-former-leaders/)
+**Verification Notes:** Multiple reliable sources, including MinistryWatch, Christianity Today, and Religion News Service, confirm credible accusations of fraud, embezzlement, and financial misconduct against Sean Feucht from former leaders and employees, with calls for investigations. These reports were published in early June 2025, not June 2024 as claimed, making the date inaccurate while the substance of the accusations is supported.
 
 ### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 01:01:27](/episodes/ep-YFmRH8p5lt0.md#^t-01-01-05)
 
 > one of those planes... the tail number for that plane was Googled by Israel on September 8th—two days before the assassination
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Charlie Kirk murder: 10 bombshell statements by Candace Owens – Tyler Robinson not the killer to ‘Egyptian plane’ theory | Hindustan Times](https://www.hindustantimes.com/world-news/us-news/charlie-kirk-murder-10-bombshell-statements-by-candace-owens-tyler-robinson-not-the-killer-to-egyptian-plane-theory-101764822111726.html)
+**Verification Notes:** No reliable sources, including news articles or official records, provide evidence that a specific plane tail number was searched on Google from Israel on September 8th, two days before Charlie Kirk's assassination on September 10th. The claim appears in Candace Owens' podcast as part of broader conspiracy theories involving planes and Israel, but it lacks supporting documentation. Verification would require access to Google's private search logs or data (e.g., via subpoena or internal records), which are not publicly available. Google Trends was suggested in the transcript, but it does not offer granular, country-specific data for obscure terms like tail numbers on exact dates. Multiple searches across web and X/Twitter yielded discussions of Owens' related claims (e.g., Egyptian planes, Israel links) but no confirmation or refutation of this specific Google search allegation.
 
 ### [Why Is Everyone Crashing Out Over The Charlie Kirk Invest... @ 00:02:01](/episodes/ep-YaZfwLQ7vrI.md#^t-00-01-21)
 
@@ -2327,24 +2539,36 @@ _Verifiable statements about events, dates, people, or facts_
 > Lance Wallnau... graduated from a military academy. His father, Carl Wallnau, was a major in the United States Air Force. Wallnau served under General Patton.
 
 **Type:** Factual
+**Veracity:** Mixed (medium)
+**Source:** [Lance Wallnau - Wikipedia](https://en.wikipedia.org/wiki/Lance_Wallnau)
+**Verification Notes:** Wikipedia confirms that Lance Wallnau attended Valley Forge Military Academy and College (supporting the graduation from a military academy) and that his father, Carl Wallnau, was an Air Force major. However, no reliable sources, including Wikipedia or other web results, mention Carl Wallnau serving under General Patton. This part of the claim appears unverifiable based on available information; verification would require access to military service records (e.g., via FOIA request to the National Archives or Department of Defense personnel files) to confirm any WWII-era service details under Patton's command.
 
 ### [Why Is Everyone Crashing Out Over The Charlie Kirk Invest... @ 00:20:07](/episodes/ep-YaZfwLQ7vrI.md#^t-00-19-33)
 
 > Sources within Turning Point's faith department tell me that Lance Wallnau was running the show behind the scenes through funding—that he put a ton of money into Turning Point USA Faith operations.
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [A far-right US youth group is ramping up its movement to back election deniers | The far right | The Guardian](https://www.theguardian.com/us-news/2024/mar/02/far-right-youth-group-turning-point-charlie-kirk)
+**Verification Notes:** Searches across web sources and X posts reveal evidence of partnerships and collaborations between Lance Wallnau and Turning Point USA (TPUSA), including joint tours like the Courage Tour and efforts to mobilize voters in swing states, but no reliable primary sources (e.g., news articles, financial disclosures, or official statements) confirm or refute Wallnau providing significant funding to TPUSA Faith operations. Claims of behind-the-scenes funding appear based on anonymous internal sources, which are inherently unverifiable without public documentation. Verification would require access to TPUSA's detailed IRS Form 990 donor schedules, audited financial statements, or confirmed disclosures from Wallnau or TPUSA officials; no such records are publicly available in searched sources.
 
 ### [Why Is Everyone Crashing Out Over The Charlie Kirk Invest... @ 00:22:16](/episodes/ep-YaZfwLQ7vrI.md#^t-00-22-07)
 
 > a Marine whose family knows Rob McCoy—well, Rob McCoy is friends with that Marine—that Marine's mother decides to storm into a bar and conduct a mass shooting.
 
 **Type:** Factual
+**Veracity:** False (high)
+**Source:** [Thousand Oaks shooting - Wikipedia](https://en.wikipedia.org/wiki/Thousand_Oaks_shooting)
+**Verification Notes:** Multiple reliable sources, including Wikipedia, NYT, CNN, and LA Times, confirm the shooter in the 2018 Thousand Oaks Borderline Bar incident was Ian David Long, a 28-year-old Marine veteran, who acted alone and died by suicide. There is no evidence that his mother was involved in the shooting, directly contradicting the claim. No primary sources (news articles, official statements) support a friendship or family connection between Rob McCoy and Ian David Long or his family; searches for such links yield only unsubstantiated social media speculation, making that part unverifiable but not altering the false core attribution of the shooting to the mother.
 
 ### [Why Is Everyone Crashing Out Over The Charlie Kirk Invest... @ 00:23:21](/episodes/ep-YaZfwLQ7vrI.md#^t-00-22-44)
 
 > a month after this, Rob McCoy then gets elected mayor of Thousand Oaks.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Councilmember Rob McCoy Has Resigned from the Thousand Oaks City Council — Conejo Valley Guide | Conejo Valley Events](https://www.conejovalleyguide.com/local-buzz/councilmember-rob-mccoy-has-resigned-from-the-thousand-oaks-city-council)
+**Verification Notes:** Multiple reliable sources, including local news outlets and biographical profiles, confirm that Rob McCoy served as Mayor of Thousand Oaks from December 2018 through December 2019. The Borderline Bar and Grill shooting occurred on November 7, 2018, so his assumption of the mayoral role in December 2018 is approximately one month later. In Thousand Oaks, the mayor is selected annually by the city council from its members, which aligns with the claim's timeline and use of 'elected' in the context of council selection.
 
 ### [Shocking Revelation About The Egyptian Planes... | Candac... @ 00:00:47](/episodes/ep-ZAuuSq_j2_w.md#^t-00-00-43)
 
@@ -2357,6 +2581,7 @@ _Verifiable statements about events, dates, people, or facts_
 > Cam Higby is on the payroll of Turning Point USA, beginning in August of this year.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Shocking Revelation About The Egyptian Planes... | Candac... @ 00:13:44](/episodes/ep-ZAuuSq_j2_w.md#^t-00-13-04)
 
@@ -2369,12 +2594,14 @@ _Verifiable statements about events, dates, people, or facts_
 > SUBND was the one that was transponding on the ground at Duncan Aviation on the day of Charlie Kirk's assassination, but it did not go anywhere.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Shocking Revelation About The Egyptian Planes... | Candac... @ 00:14:06](/episodes/ep-ZAuuSq_j2_w.md#^t-00-13-44)
 
 > yellow plane carried on to Delaware—Wilmington, Delaware—that morning.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Shocking Revelation About The Egyptian Planes... | Candac... @ 00:14:06](/episodes/ep-ZAuuSq_j2_w.md#^t-00-13-44)
 
@@ -2387,6 +2614,7 @@ _Verifiable statements about events, dates, people, or facts_
 > flight from Provo to Delaware on the yellow plane had only four people on board, one of which was a foreign dignitary.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Shocking Revelation About The Egyptian Planes... | Candac... @ 00:14:20](/episodes/ep-ZAuuSq_j2_w.md#^t-00-13-44)
 
@@ -2399,6 +2627,7 @@ _Verifiable statements about events, dates, people, or facts_
 > one of those individuals was using the name Walid Mahmood.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Shocking Revelation About The Egyptian Planes... | Candac... @ 00:14:47](/episodes/ep-ZAuuSq_j2_w.md#^t-00-14-25)
 
@@ -2411,18 +2640,21 @@ _Verifiable statements about events, dates, people, or facts_
 > Walid Mahmood came to Provo on May 27th of this year.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Shocking Revelation About The Egyptian Planes... | Candac... @ 00:15:18](/episodes/ep-ZAuuSq_j2_w.md#^t-00-15-09)
 
 > there is no transponder data which reflects that trip.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Shocking Revelation About The Egyptian Planes... | Candac... @ 00:15:34](/episodes/ep-ZAuuSq_j2_w.md#^t-00-15-09)
 
 > He was aboard another Egyptian military plane, and the tail number for that plane is SUBTU.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Shocking Revelation About The Egyptian Planes... | Candac... @ 00:16:04](/episodes/ep-ZAuuSq_j2_w.md#^t-00-15-51)
 
@@ -2441,6 +2673,7 @@ _Verifiable statements about events, dates, people, or facts_
 > the purple plane, SUBTU ... was once upon a time flown with the president of Egypt aboard ... back in 2023.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Shocking Revelation About The Egyptian Planes... | Candac... @ 00:16:40](/episodes/ep-ZAuuSq_j2_w.md#^t-00-16-27)
 
@@ -2453,6 +2686,7 @@ _Verifiable statements about events, dates, people, or facts_
 > Egyptian President el-Sisi flew on SUBTU ... on April 3rd, 2023 ... aboard that same exact aircraft, tail number SU-BTU, for a high-level sit-down with the Saudi Crown Prince Mohammed bin Salman.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Shocking Revelation About The Egyptian Planes... | Candac... @ 00:17:46](/episodes/ep-ZAuuSq_j2_w.md#^t-00-17-12)
 
@@ -2465,12 +2699,14 @@ _Verifiable statements about events, dates, people, or facts_
 > it was President al-Sisi that was aboard the jet on September 10th because he was photographed at a meeting with the Prime Minister of Tunisia, Sarah Zafrani—and it was in Egypt.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Shocking Revelation About The Egyptian Planes... | Candac... @ 00:18:01](/episodes/ep-ZAuuSq_j2_w.md#^t-00-17-47)
 
 > rule him out as having been the individual that was in Provo back in May because he was again photographed multiple times throughout that week in Egypt.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Shocking Revelation About The Egyptian Planes... | Candac... @ 00:18:01](/episodes/ep-ZAuuSq_j2_w.md#^t-00-17-47)
 
@@ -2573,108 +2809,126 @@ _Verifiable statements about events, dates, people, or facts_
 > Tyler Robinson has never confessed
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:02:27](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-02-23)
 
 > Tyler was bewildered by the idea that he carved casings
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:03:31](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-03-03)
 
 > Tyler absolutely did not author those text messages
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:04:51](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-04-48)
 
 > His parents don't believe that their son committed this crime
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:06:46](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-06-10)
 
 > Tyler has never even stepped foot on UVU campus
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:06:55](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-06-10)
 
 > Tyler was accepted into Utah State University, not Utah Valley
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:07:57](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-07-39)
 
 > Tyler Robinson was nearby the campus on that day
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:09:39](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-09-12)
 
 > Tyler potentially having some suicidal ideations, was en route to a remote area of Washington County
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:11:51](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-11-27)
 
 > The Feds told them that if they spoke out, their lives could be at risk [and convinced the family to go into witness protection]
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:12:33](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-12-08)
 
 > His father had no idea that Tyler was gay
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:14:16](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-14-01)
 
 > The family says that the photo of the young man that is coming up the stairs is definitively not Tyler Robinson
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:15:08](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-14-43)
 
 > Tyler Robinson's apartment was staged after his arrest
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:17:28](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-17-23)
 
 > Mike Mitchell is a retired detective that worked for me for many years
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:18:49](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-18-41)
 
 > The name of that individual is former deputy Mike Mitchell
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:19:17](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-18-41)
 
 > Mike Mitchell knows Tyler through the Boy Scouts [and he was the Boy Scout leader]
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:19:54](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-19-22)
 
 > Mike Mitchell retired last January
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:25:45](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-25-02)
 
 > Nick worked on Phil Lyman's gubernatorial campaign
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:28:37](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-27-53)
 
 > Phil Lyman's car was in the driveway of the now infamous TMZ footage [19 minutes before the shooter walked by]
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [To My Friend, Charlie Kirk. @ 00:00:28](/episodes/ep-_dRaEO47-co.md#^t-00-00-01)
 
@@ -2831,6 +3085,7 @@ _Verifiable statements about events, dates, people, or facts_
 > our FBI was founded by Charles Joseph Bonaparte
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Turning Point Has Been Keeping A BIG Secret. Did Charlie ... @ 00:04:29](/episodes/ep-a-e7HC6SeK8.md#^t-00-04-18)
 
@@ -2843,6 +3098,7 @@ _Verifiable statements about events, dates, people, or facts_
 > Napoleon Bonaparte was his great uncle
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Turning Point Has Been Keeping A BIG Secret. Did Charlie ... @ 00:06:49](/episodes/ep-a-e7HC6SeK8.md#^t-00-06-21)
 
@@ -2855,6 +3111,7 @@ _Verifiable statements about events, dates, people, or facts_
 > Robert Richards the Fourth was in 2009 convicted of raping his three-year-old daughter
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Turning Point Has Been Keeping A BIG Secret. Did Charlie ... @ 00:07:18](/episodes/ep-a-e7HC6SeK8.md#^t-00-07-02)
 
@@ -2867,18 +3124,21 @@ _Verifiable statements about events, dates, people, or facts_
 > the judge who sentenced the heir to the DuPont fortune let him off with no jail time
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Turning Point Has Been Keeping A BIG Secret. Did Charlie ... @ 00:08:27](/episodes/ep-a-e7HC6SeK8.md#^t-00-07-45)
 
 > his father is Robert H. Richards, a retired partner in the Richards, Layton & Finger law firm
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Turning Point Has Been Keeping A BIG Secret. Did Charlie ... @ 00:09:20](/episodes/ep-a-e7HC6SeK8.md#^t-00-09-06)
 
 > also admitted to sexually assaulting his infant son
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Turning Point Has Been Keeping A BIG Secret. Did Charlie ... @ 00:09:37](/episodes/ep-a-e7HC6SeK8.md#^t-00-09-06)
 
@@ -2891,6 +3151,7 @@ _Verifiable statements about events, dates, people, or facts_
 > John DuPont shot Olympic wrestler David Schultz dead in the driveway of the family's mansion in 1996
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Turning Point Has Been Keeping A BIG Secret. Did Charlie ... @ 00:10:20](/episodes/ep-a-e7HC6SeK8.md#^t-00-09-45)
 
@@ -2903,12 +3164,14 @@ _Verifiable statements about events, dates, people, or facts_
 > the money traced back to the DuPont family. It appeared that Lisa Dean—who is a DuPont—didn't approve of her drug-addicted son dating a drug-addicted Vegas sex worker. So she and her husband, Christopher Mosley, had her killed
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Turning Point Has Been Keeping A BIG Secret. Did Charlie ... @ 00:13:35](/episodes/ep-a-e7HC6SeK8.md#^t-00-13-20)
 
 > Donald Trump pardoned him. He pardoned Tyler Bowyer a couple of weeks ago
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Turning Point Has Been Keeping A BIG Secret. Did Charlie ... @ 00:17:15](/episodes/ep-a-e7HC6SeK8.md#^t-00-16-56)
 
@@ -2957,6 +3220,7 @@ _Verifiable statements about events, dates, people, or facts_
 > Benjamin Netanyahu calling Charlie Kirk and offering to take Turning Point to the next level
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Turning Point Has Been Keeping A BIG Secret. Did Charlie ... @ 00:22:11](/episodes/ep-a-e7HC6SeK8.md#^t-00-21-56)
 
@@ -3017,12 +3281,14 @@ _Verifiable statements about events, dates, people, or facts_
 > this donor was French American, and that this donor's name was Pierre... Pierre du Pont
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Turning Point Has Been Keeping A BIG Secret. Did Charlie ... @ 00:37:26](/episodes/ep-a-e7HC6SeK8.md#^t-00-36-55)
 
 > Turning Point USA put in a personal request to try to get the Egyptian plane story killed
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Turning Point Has Been Keeping A BIG Secret. Did Charlie ... @ 00:42:09](/episodes/ep-a-e7HC6SeK8.md#^t-00-41-44)
 
@@ -3119,6 +3385,9 @@ _Verifiable statements about events, dates, people, or facts_
 > the Senate has voted and they have passed a bipartisan resolution to designate October 14th, which is Charlie Kirk's birthday, as Charlie Kirk Remembrance Day.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Sen. Rick Scott Leads Unanimous Passage of Resolution Designating October 14th National Day of Remembrance for Charlie Kirk](https://www.rickscott.senate.gov/2025/9/sen-rick-scott-leads-unanimous-passage-of-resolution-designating-october-14th-national-day-of-remembrance-for-charlie-kirk)
+**Verification Notes:** Official Senate statements and multiple news sources (e.g., ABC News, The Hill, Axios) confirm the U.S. Senate passed a resolution by unanimous consent designating October 14—Charlie Kirk's birthday—as the National Day of Remembrance for Charlie Kirk. The passage is described as a rare bipartisan recognition, with no opposition from any senators, though sponsorship was primarily Republican.
 
 ### [Who Moved The Camera Right Above Charlie's Head? | Candac... @ 00:01:09](/episodes/ep-aDlhjfW6hz8.md#^t-00-00-55)
 
@@ -3149,12 +3418,18 @@ _Verifiable statements about events, dates, people, or facts_
 > he said, look, as you can see in the footage, I was sitting right to the left of Charlie when Charlie got shot. And I instantly knew that he was not going to be OK. I instantly knew that he was dead.
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [How the Charlie Kirk shooting unfolded – in maps, videos and images | Charlie Kirk shooting | The Guardian](https://www.theguardian.com/us-news/2025/sep/11/charlie-kirk-shooting-maps-videos-images)
+**Verification Notes:** The claim recounts a private conversation where an unnamed individual describes their position next to Charlie Kirk during the shooting and their immediate assessment of his condition. While news sources like The Guardian provide visual timelines, maps, and videos of the incident, they do not identify specific individuals seated to Kirk's left or confirm actions like securing footage. Social media posts discuss footage and suspicions about people near Kirk, but these are not reliable primary sources. Verification would require the individual's identity, access to unedited event footage for position confirmation, and possibly call records or statements from Candace Owens or the individual to substantiate the conversation.
 
 ### [Who Moved The Camera Right Above Charlie's Head? | Candac... @ 00:08:23](/episodes/ep-aDlhjfW6hz8.md#^t-00-07-53)
 
 > he says, because the first thing that I thought is that I better secure the footage and be helpful and give that footage, hand that footage over to the feds.
 
 **Type:** Factual
+**Veracity:** Unverifiable (medium)
+**Source:** [Candace Owens says a woman was seen with Charlie Kirk shooter, 'FBI didn't release video to frame Tyler Robinson' - The Times of India](https://timesofindia.indiatimes.com/world/us/candace-owens-says-a-woman-was-seen-with-charlie-kirk-shooter-fbi-didnt-release-video-to-frame-tyler-robinson/articleshow/124277202.cms)
+**Verification Notes:** No primary sources, such as official statements from TPUSA, the FBI, or investigative reports, confirm or refute that a specific individual secured and handed over footage to federal authorities following Charlie Kirk's shooting. News articles discuss Owens' claims about unreleased FBI-held video related to the incident, but do not verify the specific conversation or action described. Verification would require access to FBI investigative records, TPUSA internal communications, or court documents from the ongoing investigation, potentially obtainable via FOIA request.
 
 ### [Who Moved The Camera Right Above Charlie's Head? | Candac... @ 00:08:55](/episodes/ep-aDlhjfW6hz8.md#^t-00-08-33)
 
@@ -3167,6 +3442,9 @@ _Verifiable statements about events, dates, people, or facts_
 > I watched the footage... there is nothing gory about this shot at all... there's no blood from the back. There is no blood.
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** ["I'm very confused": Candace Owens reviews footage from the camera behind Charlie Kirk during his assassination and claims "there's no blood"](https://www.soapcentral.com/pop-culture/news-i-m-confused-candace-owens-reviews-footage-camera-behind-charlie-kirk-assassination-claims-there-s-blood)
+**Verification Notes:** Multiple news sources, including Soap Central and Times of India, report Candace Owens' claim that she viewed private footage from behind Charlie Kirk showing no blood or gore. However, the footage has not been publicly released, and no independent verification from official sources (e.g., forensic reports or law enforcement) confirms or refutes what it depicts. Verification would require public release of the footage, an official autopsy report detailing wound ballistics, or FOIA-requested documents from the FBI or local authorities investigating the September 10, 2025, shooting.
 
 ### [Who Moved The Camera Right Above Charlie's Head? | Candac... @ 00:11:42](/episodes/ep-aDlhjfW6hz8.md#^t-00-11-21)
 
@@ -3185,12 +3463,18 @@ _Verifiable statements about events, dates, people, or facts_
 > on Caldera's website, they noted that they have worked in Israel. They have a map that they note every country that they have done engineering projects in. And one of them, or two dots, are in Israel.
 
 **Type:** Factual
+**Veracity:** False (high)
+**Source:** [Caldera Engineering Official Website](https://calderaengineering.com/)
+**Verification Notes:** Searches of Caldera Engineering's website (calderaengineering.com) and related pages do not reveal any map showing engineering projects by country, nor any mention of work in Israel or dots representing projects there. Multiple site pages, including About Us, History, and Engineering sections, were reviewed with no reference to Israel or such a map. Additional searches for variations like project maps or international collaborations also yielded no supporting evidence, contradicting the claim.
 
 ### [Who Moved The Camera Right Above Charlie's Head? | Candac... @ 00:28:05](/episodes/ep-aDlhjfW6hz8.md#^t-00-27-56)
 
 > I spoke at Turning Point's conference—two conferences—last year... I went on tour with Turning Point last year. Live Free Tour, Charlie Kirk and Candace Owens.
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Turning Point USA - Wikipedia](https://en.wikipedia.org/wiki/Turning_Point_USA)
+**Verification Notes:** No reliable sources, such as news articles or official TPUSA announcements, were found confirming Candace Owens spoke at two TPUSA conferences or participated in the Live Free Tour with Charlie Kirk in 2024 ('last year' relative to the 2025 podcast date). Available sources, including Wikipedia, reference her involvement with TPUSA events in 2018 but provide no evidence for 2024. To verify, access to TPUSA's official 2024 event archives, speaker lists, video footage, or contemporaneous news reports from established outlets covering the specific conferences and tour dates would be required. The claim mixes verifiable past association with TPUSA (e.g., 2018 events) but the specific timing and details for 2024 remain unsupported.
 
 ### [Who Moved The Camera Right Above Charlie's Head? | Candac... @ 00:28:11](/episodes/ep-aDlhjfW6hz8.md#^t-00-27-56)
 
@@ -3239,6 +3523,9 @@ _Verifiable statements about events, dates, people, or facts_
 > This message is from May... Charlie sent me his tweet... And he wrote back—as you can see, and the date here is May 22nd of this year—'It totally is.'
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Candace Owens was not lying; Charlie Kirk's messages on Israel pressure two days before he was killed are genuine, says Turning Point](https://timesofindia.indiatimes.com/world/us/candace-owens-was-not-lying-charlie-kirks-messages-on-israel-pressure-two-days-before-he-was-killed-are-genuine-says-turning-point/articleshow/124371606.cms)
+**Verification Notes:** No reliable sources confirm or refute the existence of a specific text message from Charlie Kirk to Candace Owens dated May 22, 2025, with the described content about free speech censorship. While Turning Point USA has confirmed the authenticity of other leaked messages from Kirk regarding Israel-related pressures (from two days before his death), this particular May 22 exchange is not mentioned in any news articles, official statements, or verified documents. Verification would require access to original message screenshots, the full podcast episode for visual confirmation, or direct statements from Turning Point USA or other involved parties addressing this specific date and content.
 
 ### [Who Moved The Camera Right Above Charlie's Head? | Candac... @ 00:34:27](/episodes/ep-aDlhjfW6hz8.md#^t-00-34-12)
 
@@ -3329,12 +3616,18 @@ _Verifiable statements about events, dates, people, or facts_
 > We have now confirmed that there was indeed a woman who was with the shooter in the footage that was captured by the houses nearby the area. And for whatever reason, the FBI has not yet released or even acknowledged that that footage exists.
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Explosive allegation in Charlie Kirk shooting case: FBI suppressed video linking woman to Tyler Robinson? - The Economic Times](https://economictimes.indiatimes.com/news/international/global-trends/us-news-candace-owens-explosive-allegation-in-charlie-kirk-shooting-case-fbi-suppressed-video-linking-woman-to-tyler-robinson/articleshow/124344883.cms?from=mdr)
+**Verification Notes:** No primary sources, such as official FBI statements or documents, confirm the existence of footage showing a woman with the shooter (Tyler Robinson) or any suppression by the FBI. Established news outlets like BBC, CBS, CNN, and The Guardian report on the shooting investigation, suspect details, evidence (e.g., DNA, confessions), and motives but do not mention any such footage or woman. The claim originates from Candace Owens' podcast and social media posts on X, with one news article (The Economic Times) reporting her allegation without independent verification. To verify, access to the alleged door cam footage, FBI investigative records (via FOIA request), or confirmation from multiple reliable outlets that have reviewed the evidence would be needed. The lack of corroboration in official or major news sources for this high-profile case suggests it remains an unsubstantiated claim.
 
 ### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shoot... @ 00:02:16](/episodes/ep-adJ4LNGp84I.md#^t-00-02-10)
 
 > The venue was indeed secured in quick order, but that was because they had help from the White House, and Turning Point did not book that venue back in May, so we can formally debunk that. I was told that the White House stepped in and put in a personal phone call to the event coordinator. And they actually did already have an event that was scheduled. And the White House simply asked those people if they would be willing to move or reschedule their event. It was apparently supposed to be an RV show.
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Memorial service of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Memorial_service_of_Charlie_Kirk)
+**Verification Notes:** The memorial service for Charlie Kirk is well-documented as occurring at State Farm Stadium on September 21, 2025, with over 90,000 attendees and speeches from President Trump, Vice President Vance, and others. However, no reliable sources (including news articles from Fox News, CBS, PBS, NBC, USA Today, CNN, and Wikipedia) confirm or refute White House involvement in securing the venue, a personal phone call to the event coordinator, or the rescheduling of a scheduled RV show. X posts discuss rumors of a pre-booking in May but do not provide evidence for the claim's details. To verify, access to State Farm Stadium rental agreements, official White House or Turning Point USA statements on the booking process, or confirmation from RV show organizers about rescheduling would be required. No such primary evidence was found despite searching with variations on queries related to venue booking, White House involvement, and RV show rescheduling.
 
 ### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shoot... @ 00:04:12](/episodes/ep-adJ4LNGp84I.md#^t-00-03-37)
 
@@ -3359,6 +3652,9 @@ _Verifiable statements about events, dates, people, or facts_
 > The judge that is in the case that is overseeing the case against Tyler Robinson is Judge Tony F. Graff Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [JUDGE TONY F. GRAF, JR.](https://www.utcourts.gov/en/about/courts/judges-bios/district-courts/fourth-district-court/tony-f-graf-jr.html)
+**Verification Notes:** Multiple reliable sources, including the official Utah Courts website, Utah State Bar press release, and news articles from outlets like Utah Policy and The Salt Lake Tribune, confirm that Judge Tony F. Graf Jr. (noting minor spelling variation from 'Graff' in the claim) was appointed to the Fourth District Court in May 2025 by Governor Spencer Cox. Additional sources explicitly link him to presiding over the case against Tyler Robinson in the Charlie Kirk matter.
 
 ### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shoot... @ 00:06:44](/episodes/ep-adJ4LNGp84I.md#^t-00-06-18)
 
@@ -3371,6 +3667,9 @@ _Verifiable statements about events, dates, people, or facts_
 > Charlie Kirk did indeed have an autopsy.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Charlie Kirk autopsy: When will a detailed report be released after Utah shooting? What we know | Hindustan Times](https://www.hindustantimes.com/world-news/us-news/charlie-kirk-autopsy-when-will-a-detailed-report-be-released-after-utah-shooting-what-we-know-101757887508612.html)
+**Verification Notes:** Multiple reliable sources, including Hindustan Times, Wikipedia, and fact-checking sites like Factually.co, confirm that an autopsy was performed on Charlie Kirk following his shooting death on September 10, 2025, as required by Utah law for homicides. While the full report remains private and unreleased publicly, the fact of the autopsy's occurrence is consistently supported across news outlets and official contexts, refuting rumors of no autopsy.
 
 ### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shoot... @ 00:11:30](/episodes/ep-adJ4LNGp84I.md#^t-00-11-20)
 
@@ -3389,48 +3688,70 @@ _Verifiable statements about events, dates, people, or facts_
 > He was wise enough at 31 to put together a plan for succession. It's very clear what they decided, and they're implementing it now.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** ['Alive and Well': Pastor Rob McCoy Reveals Future of Turning Point USA at Charlie Kirk Memorial | US News - Times Now](https://www.timesnownews.com/world/us/us-news/pastor-rob-mccoy-charlie-kirk-memorial-turning-point-usa-future-article-152868500)
+**Verification Notes:** Multiple reliable sources, including news articles from Times Now, Fox News, and Hindustan Times, as well as podcasts from CrossExamined and I Don't Have Enough FAITH to Be an ATHEIST, report on Pastor Rob McCoy discussing the future of Turning Point USA shortly after Charlie Kirk's assassination. These sources describe McCoy revealing plans to continue Kirk's legacy, with involvement from Mikey McCoy as Chief of Staff, aligning with the claim of a clear succession plan being implemented. No reliable sources contradict this, though some social media posts express skepticism.
 
 ### [Charlie's Angels Or Demons? Disturbing Footage Emerges. |... @ 00:09:03](/episodes/ep-c5BcKF91iec.md#^t-00-08-40)
 
 > The minute Charlie was shot, he called me. Says, 'Dad, Charlie's been shot in the neck. Please call every pastor and pray.'
 
 **Type:** Factual
+**Veracity:** False (high)
+**Source:** [Pastor McCoy Caught Lying About Son in Charlie Kirk's Shooting](https://nationalfile.com/rob-mccoy-caught-in-blatant-lie-claims-mikey-had-blood-all-over-him/)
+**Verification Notes:** Multiple news articles, including from National File and Internewscast Journal, report that video footage from the September 10th incident directly contradicts Pastor Rob McCoy's account. The video shows Mikey McCoy turning and walking away less than a second after the shot, on his phone, without any blood on him or checking on Charlie Kirk, refuting the claim of an immediate call to his father describing the shooting in the neck and requesting prayers. Posts on X further highlight this timeline discrepancy, with sources agreeing the pastor's version is inaccurate.
 
 ### [Charlie's Angels Or Demons? Disturbing Footage Emerges. |... @ 00:09:57](/episodes/ep-c5BcKF91iec.md#^t-00-09-25)
 
 > Mikey did not have blood anywhere near him because Mikey was behind the tent when Charlie got shot.
 
 **Type:** Factual
+**Veracity:** True (medium)
+**Source:** [Candace Owens raises big questions about Michael McCoy and claims TPUSA tried to lift him as new Charlie Kirk after shooting - The Times of India](https://timesofindia.indiatimes.com/world/us-streamers/candace-owens-raises-big-questions-about-michael-mccoy-and-claims-tpusa-tried-to-lift-him-as-new-charlie-kirk-after-shooting/articleshow/125552591.cms)
+**Verification Notes:** Multiple news sources and social media discussions, including articles from The Times of India and The Guardian, report on Candace Owens' podcast claims about discrepancies in the narrative surrounding Charlie Kirk's shooting, such as Mikey McCoy's position and lack of blood evidence. Posts on X (formerly Twitter) describe video footage showing McCoy behind the tent, walking away immediately after the shot without approaching Kirk, supporting the claim that he had no blood on him. No reliable sources refute this, though it mixes verifiable video analysis with interpretive conspiracy elements; confidence is medium due to reliance on secondary reports of video without direct primary access.
 
 ### [Charlie's Angels Or Demons? Disturbing Footage Emerges. |... @ 00:10:34](/episodes/ep-c5BcKF91iec.md#^t-00-09-57)
 
 > It is exactly 834 milliseconds from the time that you hear the shot. That is how long it takes for Mikey McCoy to put the phone to his ear.
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Transcript of Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 from Candace podcast](https://podcasts.happyscribe.com/candace/charlie-s-angels-or-demons-disturbing-footage-emerges)
+**Verification Notes:** The claim originates from the podcast's own analysis of slowed-down video footage, stating exactly 834 milliseconds between the shot sound and Mikey McCoy raising his phone. No independent reliable sources (e.g., news articles from established outlets like Daily Mail or Wikipedia entries) confirm or refute this precise measurement. Posts on X repeat similar timings (e.g., 0.8 seconds) but vary (some claim before the shot) and are not conclusive evidence. To verify, access to the original high-resolution video footage of the September 10, 2025, event and precise audio-visual timing tools would be required for independent measurement.
 
 ### [Charlie's Angels Or Demons? Disturbing Footage Emerges. |... @ 00:24:51](/episodes/ep-c5BcKF91iec.md#^t-00-24-38)
 
 > They just shot Charlie... He's dead.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** Multiple reliable sources, including Wikipedia, FBI statements, and news outlets like The Guardian, BBC, and NBC News, confirm that Charlie Kirk was shot in the neck on September 10, 2025, at Utah Valley University during a Turning Point USA event and died shortly thereafter. The claim directly matches these verified facts about the shooting and his death.
 
 ### [Charlie's Angels Or Demons? Disturbing Footage Emerges. |... @ 00:39:39](/episodes/ep-c5BcKF91iec.md#^t-00-38-56)
 
 > Since the beginning of TPUSA, I knew in my gut that I might get wiped out at any time. I cannot explain it, but I dream about it all the time.
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** The claim refers to alleged private messages from Charlie Kirk to Candace Owens on April 6, 2018, expressing a premonition of his death. No primary sources, such as the actual messages, news articles, or official statements from Turning Point USA, were found to confirm or refute this. Searches on the web and X (formerly Twitter) for references to these messages, premonitions, or dreams yielded no supporting evidence. Verification would require access to Kirk's private communications (e.g., via subpoena or release by TPUSA officials like Mikey McCoy) or independent corroboration from involved parties. The cited Wikipedia page on Kirk's 2025 assassination provides context on his life and death but does not mention any 2018 premonitions.
 
 ### [Charlie's Angels Or Demons? Disturbing Footage Emerges. |... @ 00:39:44](/episodes/ep-c5BcKF91iec.md#^t-00-39-39)
 
 > I believe you were the piece that God meant me to meet that will finish the fight.
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Charlie Kirk predicted his own death before murder? Candace Owens shares chilling texts: ‘I might get wiped out' | Hindustan Times](https://www.hindustantimes.com/world-news/us-news/charlie-kirk-predicted-his-own-death-before-murder-candace-owens-shares-chilling-texts-i-might-get-wiped-out-101761613365981.html)
+**Verification Notes:** Multiple news outlets, including Hindustan Times, report that Candace Owens shared text messages from Charlie Kirk containing similar language about predicting his death and not living to see the end of the revolution, which aligns with parts of the transcript. However, the specific claim quote is from alleged private messages, and no primary evidence (e.g., screenshots, official statements from Turning Point USA, or independent verification) confirms authenticity. Verification would require access to Charlie Kirk's message archives, confirmation from Mikey McCoy (mentioned in the transcript), or a statement from Turning Point USA validating the texts. Ongoing disputes between Owens and TPUSA add uncertainty, but no direct refutation or confirmation of this exact phrase was found.
 
 ### [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:00:21](/episodes/ep-czVBmqZP6Ss.md#^t-00-00-00)
 
 > Charlie Kirk is dead and he was publicly executed
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:00:21](/episodes/ep-czVBmqZP6Ss.md#^t-00-00-00)
 
@@ -3455,12 +3776,14 @@ _Verifiable statements about events, dates, people, or facts_
 > Charlie Kirk was shot in the neck
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:04:44](/episodes/ep-czVBmqZP6Ss.md#^t-00-04-11)
 
 > Charlie Kirk was going through a spiritual transformation at the end
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:04:44](/episodes/ep-czVBmqZP6Ss.md#^t-00-04-11)
 
@@ -3473,6 +3796,7 @@ _Verifiable statements about events, dates, people, or facts_
 > Charlie Kirk wrote me a letter on May 2nd this year saying one of my greatest joys as a Christian is advocating for Israel and forming alliances to defend Judeo-Christian civilization
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:08:02](/episodes/ep-czVBmqZP6Ss.md#^t-00-07-17)
 
@@ -3485,6 +3809,7 @@ _Verifiable statements about events, dates, people, or facts_
 > In May, Charlie Kirk was concerned about Israel and their influence on American politics and how they were pushing things that he felt were in conflict with his beliefs
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:10:27](/episodes/ep-czVBmqZP6Ss.md#^t-00-09-49)
 
@@ -3515,6 +3840,7 @@ _Verifiable statements about events, dates, people, or facts_
 > A couple of weeks ago before Charlie Kirk lost his life, Charlie Kirk was in the Hamptons and Bill Ackman staged an intervention because Charlie Kirk's thoughts about Israel were a no-no, threats were made, Benjamin Netanyahu was called and Charlie Kirk was invited to Israel under duress, Charlie Kirk denied the funding and declined to go
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:15:50](/episodes/ep-czVBmqZP6Ss.md#^t-00-15-45)
 
@@ -3575,6 +3901,7 @@ _Verifiable statements about events, dates, people, or facts_
 > Charlie Kirk was praying the rosary and going to mass
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:21:25](/episodes/ep-czVBmqZP6Ss.md#^t-00-20-41)
 
@@ -3671,6 +3998,7 @@ _Verifiable statements about events, dates, people, or facts_
 > Tyler Robinson arrived at UVU campus at approximately 8:29 a.m. on September 10th in a gray Dodge Challenger, wearing a plain maroon t-shirt, light-colored shorts, a black hat with a white logo
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:41:35](/episodes/ep-czVBmqZP6Ss.md#^t-00-41-09)
 
@@ -3719,6 +4047,7 @@ _Verifiable statements about events, dates, people, or facts_
 > Tyler Robinson has not confessed to authorities and is not cooperating
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:51:05](/episodes/ep-czVBmqZP6Ss.md#^t-00-50-22)
 
@@ -3737,6 +4066,7 @@ _Verifiable statements about events, dates, people, or facts_
 > Tyler Robinson made messages on Discord about retrieving a rifle from a drop point, leaving the rifle in a bush wrapped in a towel, engraving bullets, changing outfits
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:52:25](/episodes/ep-czVBmqZP6Ss.md#^t-00-51-44)
 
@@ -3893,6 +4223,9 @@ _Verifiable statements about events, dates, people, or facts_
 > People at Turning Point USA are in possession of text messages the day before Charlie Kirk died, in which he wrote out to you—and not just to people that work at Turning Point USA, but also security guards—that he thought that they were going to kill him tomorrow
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Did Charlie Kirk predict his own murder? Candace Owens reveals eerie 'prophecy' text messages from years before his death - The Times of India](https://timesofindia.indiatimes.com/world/us/did-charlie-kirk-predict-his-own-murder-candace-owens-reveals-eerie-prophecy-text-messages-from-years-before-his-death/articleshow/125024848.cms)
+**Verification Notes:** No reliable primary sources, such as news articles from established outlets or official statements from Turning Point USA, confirm the existence of text messages from Charlie Kirk sent the day before his death (September 9, 2025) explicitly stating that 'they' were going to kill him tomorrow, sent to TPUSA staff and security guards. Available reports discuss other leaked texts (e.g., about Israel positions 48 hours prior or prophecies from years earlier), but none match this specific claim. Posts on X echo Candace Owens' assertions but are inconclusive and not factual evidence. Verification would require release of the alleged private text messages, court documents from the ongoing Utah prosecution, or a FOIA request for FBI investigative records related to Kirk's assassination on September 10, 2025.
 
 ### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invite... @ 00:12:32](/episodes/ep-his-JBjlkh8.md#^t-00-12-21)
 
@@ -4043,6 +4376,9 @@ _Verifiable statements about events, dates, people, or facts_
 > an hour and a half before Charlie Kirk was assassinated in Utah, Donald Trump and Emmanuel Macron had a phone call that has been recorded in Emmanuel Macron's public calendar... at 6:45 p.m. in French time. That's 10:45 a.m. in Utah time
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [N/A](N/A)
+**Verification Notes:** No reliable primary sources, such as news articles from established outlets, official government statements, or Macron's public calendar documents, were found confirming a phone call between Donald Trump and Emmanuel Macron on September 10, 2025, at 6:45 p.m. French time (10:45 a.m. Utah time). Posts on X mention this detail and reference public records, but X posts are not conclusive evidence and may contain unverified claims. Additionally, the exact time of Charlie Kirk's assassination is not detailed in reliable sources, making the '1.5 hours before' aspect impossible to confirm. Verification would require access to Emmanuel Macron's official public calendar for September 10, 2025, or FOIA-requested records from French or U.S. government sources documenting the call, as well as precise timestamps from police reports or news archives on the assassination timing.
 
 ### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invite... @ 00:49:54](/episodes/ep-his-JBjlkh8.md#^t-00-49-40)
 
@@ -4085,78 +4421,117 @@ _Verifiable statements about events, dates, people, or facts_
 > there were some Egyptian military men that were on the ground on September 10th in Utah on the day of Charlie Kirk's assassination
 
 **Type:** Factual
+**Veracity:** False (high)
+**Source:** [Who Does Candace Owens Think Killed Charlie Kirk? Ex-TPUSA Member Pushes ‘Egyptian Air Force’ Theory | US News - Times Now](https://www.timesnownews.com/world/us/us-news/who-does-candace-owens-think-killed-charlie-kirk-ex-tpusa-member-pushes-egyptian-air-force-theory-article-152989540)
+**Verification Notes:** Multiple reliable sources, including this article from Times Now and others like Yahoo News, refute the claim by noting it stems from Candace Owens' conspiracy theory undermined by errors such as time zone confusion (mistaking UTC for Utah time). Official investigations from the FBI and prosecutors attribute the assassination solely to Tyler James Robinson acting alone, with no mention of Egyptian military involvement in primary sources like Wikipedia, PBS News, or FBI updates. No evidence from established news outlets or government statements supports the presence of Egyptian military men in Utah on September 10, 2025.
 
 ### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:01:44](/episodes/ep-iHav0PPzUz8.md#^t-00-01-22)
 
 > This plane departed from the Biggs Army Airfield at 6:13 a.m. ... dipped down to just 300 feet above ground over the Provo airport runway, and they made a loop
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Fact Check: What specific evidence did reporters use to verify or ...](https://factually.co/fact-checks/media/evidence-reporters-used-to-verify-candace-owens-erika-kirk-timeline-43f325)
+**Verification Notes:** No primary sources, such as official FAA records, FlightRadar24 data, or government statements, were found to confirm the exact details of a plane departing Biggs Army Airfield at 6:13 a.m., dipping to 300 feet over Provo airport runway, and making a loop on September 10, 2025. Posts on X describe a similar military-related plane descending to around 200 feet over Provo on that date, but these are inconclusive and do not match the exact altitude or confirm the departure details. Verification would require access to official flight logs from the FAA, military records via FOIA request, or detailed tracking data from services like FlightRadar24 for the specific aircraft.
 
 ### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:03:38](/episodes/ep-iHav0PPzUz8.md#^t-00-03-31)
 
 > that dip took place approximately 26 minutes after Charlie Kirk was assassinated
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Video Footage of Shooter in Utah Valley University Shooting | Federal Bureau of Investigation](https://www.fbi.gov/video-repository/utah-valley-shooting-video-091025.mp4/view)
+**Verification Notes:** Reliable sources, including FBI updates and news reports from CNN, PBS, and AP, confirm Charlie Kirk's assassination occurred around 12:00 p.m. MT on September 10, 2025, at Utah Valley University in Provo, Utah. However, no primary sources (e.g., news articles, official statements, or flight records) mention or confirm a plane 'dip' approximately 26 minutes later. Discussions on X/Twitter reference similar suspicious flight activity (e.g., low-altitude passes around 24-30 minutes post-shooting), but these are not conclusive evidence. Verification would require public flight tracking data from sources like FlightRadar24 or ADS-B Exchange, official FAA logs, or a FOIA request for air traffic control records from Provo Airport on that date, cross-referenced with the precise assassination timestamp from court or investigative documents.
 
 ### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:04:12](/episodes/ep-iHav0PPzUz8.md#^t-00-03-31)
 
 > the plane is owned by a certain LSAI LLC
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [N/A](N/A)
+**Verification Notes:** No reliable sources (such as FAA registry, news articles, or official statements) were found confirming or refuting that the specific plane mentioned (which dipped low over Provo Airport) is owned by Lasai LLC. The claim originates from Candace Owens herself, but independent verification is lacking. To verify, access to FAA aircraft registration records, FlightRadar24 data linked to ownership, or a FOIA request for detailed flight logs would be required. Searches on the web and X yielded discussions of related planes (e.g., Egyptian jets or other private jets in Provo) but no direct evidence on Lasai LLC ownership.
 
 ### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:05:40](/episodes/ep-iHav0PPzUz8.md#^t-00-04-55)
 
 > Tyler Robinson was not on the Woodbury Building or on campus at all
 
 **Type:** Factual
+**Veracity:** False (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** Multiple reliable sources, including Wikipedia, Fox News, CNN, and NPR, confirm that Tyler Robinson was the accused shooter who fired from a rooftop on the UVU campus, approximately 142 yards from the event. This directly contradicts the claim that he was not on the Woodbury Building (identified in reports as the sniper location) or on campus at all. The evidence includes official statements, court documents, and news reports detailing his path across campus and surrender to authorities.
 
 ### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:05:46](/episodes/ep-iHav0PPzUz8.md#^t-00-05-40)
 
 > the plane departed from Provo, Utah at 1:20 p.m. local time
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Private Jet That Took Off From Utah After Charlie Kirk Assassination Disappears Mid-Flight Sparking Suspicion](https://www.latintimes.com/private-jet-that-took-off-utah-after-charlie-kirk-assassination-disappears-mid-flight-sparking-589463)
+**Verification Notes:** Multiple news sources, including Latin Times, People, US Weekly, and Daily Mail, confirm that a private jet (tail number N888KG) owned by Derek Maxfield departed from Provo Airport shortly after the Charlie Kirk shooting on September 10, 2025, and later disappeared from tracking. However, none provide the exact departure time of 1:20 p.m. local time. Posts on X suggest times around 1:11-1:12 p.m. MDT (based on UTC conversions from flight tracking data), but these are inconclusive as X posts may contain unverified claims, especially for controversial topics. To verify the precise time, official flight logs from the FAA, Flightradar24, or airport records would be required, potentially via a FOIA request.
 
 ### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:07:30](/episodes/ep-iHav0PPzUz8.md#^t-00-07-05)
 
 > the extensive efforts by law enforcement to locate Mr. Kirk's killer will be swift and successful. Spoiler alert: no, it has not been
 
 **Type:** Factual
+**Veracity:** False (high)
+**Source:** [Suspect in Charlie Kirk killing can wear street clothes in court amid 'extraordinary' attention](https://www.pbs.org/newshour/nation/suspect-in-charlie-kirk-killing-can-wear-street-clothes-in-court-amid-extraordinary-attention)
+**Verification Notes:** Multiple reliable sources, including PBS News, BBC, and FBI statements, confirm that suspect Tyler Robinson was arrested within days of the September 10, 2025, assassination, charged with the murder, and has appeared in court with prosecutors seeking the death penalty. This contradicts the claim that law enforcement efforts were not swift and successful in locating the killer, as an arrest occurred rapidly and the investigation led to charges.
 
 ### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:10:13](/episodes/ep-iHav0PPzUz8.md#^t-00-09-53)
 
 > airport personnel had been instructed to lie
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Owner of Plane at Center of Charlie Kirk Shooting Conspiracy Speaks Out](https://people.com/owner-of-plane-at-center-of-charlie-kirk-shooting-conspiracy-speaks-out-11808572)
+**Verification Notes:** No reliable primary sources (e.g., news articles from established outlets like Yahoo News, Daily Mail, or official FBI statements) confirm or refute the specific claim that airport personnel were instructed to lie about the N888KG flight. Web searches and X posts discuss conspiracy theories around the flight but provide no evidence of such instructions; they focus on the jet's departure and transponder issues. The claim appears based on hearsay from the podcast. Verification would require internal airport or federal documents, such as FAA records, flight manifests, or FOIA requests for communications directing personnel to withhold or falsify information.
 
 ### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:12:21](/episodes/ep-iHav0PPzUz8.md#^t-00-11-49)
 
 > an Egyptian Air Force plane took off from Provo, Utah airport ... arrived on September 4th ... departed six days later on September 10th
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Who does Candace Owens think killed Charlie Kirk? Ex-TPUSA member gives bombshell update on ‘Egyptian Air Force’ theory | Hindustan Times](https://www.hindustantimes.com/world-news/us-news/who-does-candace-owens-think-killed-charlie-kirk-ex-tpusa-member-gives-bombshell-update-on-egyptian-air-force-theory-101760299828271.html)
+**Verification Notes:** Multiple established news outlets, including Hindustan Times, The Economic Times, and Times of India, report on Candace Owens' claim that an Egyptian Air Force plane (tail number SU-BTT) was present in Provo, Utah, arriving on September 4th and departing on September 10th. These reports reference flight tracking data from sources like FlightRadar, with no contradictions to the dates. Debunkings focus on time zone errors regarding the exact timing on September 10th relative to the assassination, not the arrival or departure dates themselves.
 
 ### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:12:29](/episodes/ep-iHav0PPzUz8.md#^t-00-11-49)
 
 > Egyptian military plane had previously only ever been to the United States twice in that past year. And both times it was in the lead-up—in the weeks leading up to Charlie Kirk's assassination
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Who does Candace Owens think killed Charlie Kirk? Ex-TPUSA member gives bombshell update on ‘Egyptian Air Force’ theory | Hindustan Times](https://www.hindustantimes.com/world-news/us-news/who-does-candace-owens-think-killed-charlie-kirk-ex-tpusa-member-gives-bombshell-update-on-egyptian-air-force-theory-101760299828271.html)
+**Verification Notes:** Available news articles and X posts report on Candace Owens' claims about an Egyptian military plane (tail number SU-BTT) being in Provo, Utah, on September 10, 2025, with a prior trip to the US in July 2025. However, the specific assertion of 'only twice in the past year' prior to the September trip conflicts with initial reports (e.g., her own post claiming it was the 'first trip ever' in July) and later escalations in conspiracy theories mentioning multiple planes and up to 73 overlapping flights. No primary sources like official flight logs confirm the exact number of visits. Verification would require access to comprehensive flight records from sources such as FlightRadar24, FAA databases, or military aviation authorities, potentially obtainable via FOIA requests for international military flight details.
 
 ### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:15:23](/episodes/ep-iHav0PPzUz8.md#^t-00-15-02)
 
 > that plane was carrying military subcontractors. And ... they were dropped off in Provo
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Candace Owens Screws Up Time Zones While Promoting Latest Charlie Kirk Conspiracy](https://www.yahoo.com/news/articles/candace-owens-screws-time-zones-122944083.html)
+**Verification Notes:** The claim stems from conspiracy theories promoted by Candace Owens, with web sources and X posts echoing unverified allegations of Egyptian military subcontractors being dropped off in Provo on September 10. However, reliable news outlets report official investigations concluding the suspect acted alone, with debunkings focused on timing errors (e.g., time zone confusion). No primary sources, such as flight manifests or official passenger lists, confirm or refute the specific details about subcontractors. Verification would require access to FAA flight records, passenger manifests, or FOIA requests for aviation and investigative documents from U.S. authorities.
 
 ### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:16:07](/episodes/ep-iHav0PPzUz8.md#^t-00-15-42)
 
 > they did not make it back to Cairo ... those people were mysteriously missing from that plane
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Candace Owens says a whistleblower revealed that days before Charlie Kirk's assassination, Egyptian military subcontractors arrived in Provo, Utah](https://www.primetimer.com/news/candace-owens-says-a-whistleblower-revealed-that-days-before-charlie-kirks-assassination-egyptian-military-subcontractors-arrived-in-provo-utah)
+**Verification Notes:** The claim relies on an anonymous whistleblower cited by Candace Owens, with no publicly available primary evidence such as flight manifests, passenger lists, or official statements from the Egyptian government, FAA, or U.S. authorities confirming that military subcontractors were dropped off in Provo and did not return to Cairo. Web searches and X posts discuss the conspiracy theory but provide no verifiable documentation; articles report on Owens' allegations without independent confirmation and often highlight errors (e.g., time zone confusion). Verification would require access to confidential flight records, passenger manifests from the Egyptian Air Force, or FOIA requests to U.S. agencies like the FAA or DoD, which are not publicly available and may be classified due to the military nature of the flight.
 
 ### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:21:29](/episodes/ep-iHav0PPzUz8.md#^t-00-21-04)
 
 > Kash Patel shuts down Charlie Kirk foreign intelligence probe
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Official’s Access to F.B.I. Files in Charlie Kirk Case Drew Pushback - The New York Times](https://www.nytimes.com/2025/10/28/us/politics/fbi-files-charlie-kirk-case.html)
+**Verification Notes:** Multiple established news outlets, including The New York Times, Daily Mail, Hindustan Times, and Yahoo News, report that FBI Director Kash Patel pushed back against, clashed over, or shut down an inquiry by National Counterterrorism Center Director Joe Kent into potential foreign intelligence ties in Charlie Kirk's killing. These articles, published in late October 2025, confirm the claim based on sources within the administration and intelligence community.
 
 ### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:01:05](/episodes/ep-ja26iltROkM.md#^t-00-00-44)
 
@@ -4175,6 +4550,7 @@ _Verifiable statements about events, dates, people, or facts_
 > Charlie just loved the Lord
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:04:54](/episodes/ep-ja26iltROkM.md#^t-00-04-41)
 
@@ -4187,6 +4563,7 @@ _Verifiable statements about events, dates, people, or facts_
 > I've already been able to locate George Zinn in the crowd
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:07:49](/episodes/ep-ja26iltROkM.md#^t-00-07-29)
 
@@ -4199,6 +4576,7 @@ _Verifiable statements about events, dates, people, or facts_
 > I did not see any blood. In fact, the only blood that I did see at all—I'm talking about blood on the back—was on Charlie's left hand
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:08:26](/episodes/ep-ja26iltROkM.md#^t-00-08-07)
 
@@ -4211,6 +4589,7 @@ _Verifiable statements about events, dates, people, or facts_
 > I just spoke with the surgeon who worked on Charlie in the hospital. He said the bullet, quote, 'absolutely should have gone through'... But it didn't go through. Charlie's body stopped it... In the end, the coroner did find the bullet just beneath the skin
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:09:40](/episodes/ep-ja26iltROkM.md#^t-00-09-29)
 
@@ -4223,18 +4602,21 @@ _Verifiable statements about events, dates, people, or facts_
 > After interviews with the pilot, in consultation with the FAA, we determined the transponder was not turned off. Incomplete flight data in rural areas caused the apparent gap
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:17:13](/episodes/ep-ja26iltROkM.md#^t-00-17-09)
 
 > Derek Maxfield... issued a long statement on Instagram where he said that they got permission to—you know—turn off services, which are transponder services, and they got that permission from the air traffic controller
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:19:19](/episodes/ep-ja26iltROkM.md#^t-00-18-36)
 
 > that house next door that's been vacant and is owned by UVU
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:19:19](/episodes/ep-ja26iltROkM.md#^t-00-18-36)
 
@@ -4247,12 +4629,14 @@ _Verifiable statements about events, dates, people, or facts_
 > there was a massive pipeline that was almost exactly behind where Charlie was sitting
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:23:04](/episodes/ep-ja26iltROkM.md#^t-00-22-30)
 
 > within 48 hours... they decided to instead pave that area—repave it
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:23:04](/episodes/ep-ja26iltROkM.md#^t-00-22-30)
 
@@ -4319,6 +4703,7 @@ _Verifiable statements about events, dates, people, or facts_
 > I'm told that by some people that if I criticize AIPAC, I'm anti-Semitic
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:40:34](/episodes/ep-ja26iltROkM.md#^t-00-39-59)
 
@@ -4379,12 +4764,18 @@ _Verifiable statements about events, dates, people, or facts_
 > The yellow plane with tail number SUBTT stopped for just one hour in Minot, North Dakota on September 4th before making its way to Provo.
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [N/A](N/A)
+**Verification Notes:** No reliable sources, including news articles, official flight records, or government statements, were found mentioning a yellow plane with tail number SUBTT making a one-hour stopover in Minot, North Dakota, on September 4th (assuming 2025 based on context) before proceeding to Provo. Searches across web results and X posts yielded information on unrelated incidents, such as a July 2025 near-miss at Minot Airport and Egyptian jets in Provo on September 10th, but nothing matching the specific claim. Verification would require access to FAA flight logs, FlightAware or ADS-B tracking data, or official records from Minot International Airport/Minot AFB via FOIA request, which are not publicly available in the searched sources.
 
 ### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:07:04](/episodes/ep-mKXdKV-OBog.md#^t-00-06-30)
 
 > Kash Patel ended his press conference on September 12th with quote, 'Lastly, to my friend Charlie Kirk, rest now, my brother. We have the watch, and I'll see you in Valhalla.'
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [FBI Director Patel to Charlie Kirk: "See You in Valhalla" | Video | C-SPAN.org](https://www.c-span.org/clip/news-conference/fbi-director-patel-to-charlie-kirk-see-you-in-valhalla/5171858)
+**Verification Notes:** C-SPAN provides video evidence of Kash Patel ending his September 12, 2025, press conference with the tribute: 'Rest now, brother. We have the watch, and I will see you in Valhalla.' This is corroborated by multiple reliable sources, including FBI.gov transcripts, YouTube clips, and articles from The Guardian and Times of India, all confirming the quote and date in the context of a press conference on Charlie Kirk's killing.
 
 ### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:08:11](/episodes/ep-mKXdKV-OBog.md#^t-00-07-51)
 
@@ -4481,12 +4872,18 @@ _Verifiable statements about events, dates, people, or facts_
 > This is an actual group chat which happened two days before Charlie Kirk was assassinated. There were nine people in total on this chat, including Charlie Kirk and Rob McCoy.
 
 **Type:** Factual
+**Veracity:** Unverifiable (medium)
+**Source:** [After Charlie Kirk’s Assassination, a Bumper Crop of Conspiracy Theories](https://www.nytimes.com/2025/09/29/us/charlie-kirk-assassination-conspiracy-theories.html)
+**Verification Notes:** Multiple news sources, including The New York Times, Axios, and The Guardian, report on Candace Owens promoting conspiracy theories about Charlie Kirk's assassination, including claims of screenshots from group chats, but none provide independent verification of the screenshot's authenticity. Posts on X discuss Owens sharing the screenshot, but X content is not conclusive evidence. The claim mixes verifiable elements (e.g., the assassination date around September 10, 2025, based on timeline in sources) with unverified ones (the chat's existence and content). Verification would require statements from chat participants (e.g., Rob McCoy or others named), digital forensic analysis of the screenshot, or official investigation records from law enforcement, such as FBI documents obtained via FOIA.
 
 ### [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Ca... @ 00:16:50](/episodes/ep-ozWJz2spBcI.md#^t-00-16-33)
 
 > Charlie Kirk writes in this group chat, 'Just lost another huge Jewish donor—two million a year—because we won't cancel Tucker Carlson. I'm thinking of inviting Candace Owens.' [Followed by] 'Jewish donors play into all of the stereotypes. I cannot and will not be bullied like this, leaving me no choice but to leave the pro-Israel cause.'
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Charlie Kirk leaked text confirms he was livid about 'bullying' Jewish donors: 'I'm leaving pro-Israel cause' | Daily Mail Online](https://www.dailymail.co.uk/news/article-15171321/Charlie-Kirk-bullying-Jewish-Israel-donors.html)
+**Verification Notes:** Multiple established news outlets, including Daily Mail, Haaretz, Jewish Telegraphic Agency, and Jerusalem Post, report on leaked text messages from Charlie Kirk matching the quoted content, expressing frustration with Jewish donors over not canceling Tucker Carlson and stating he is leaving the pro-Israel cause. Turning Point USA spokesman Andrew Kolvet confirmed the authenticity of the screenshots on the 'Charlie Kirk Show,' supporting the claim's accuracy.
 
 ### [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Ca... @ 00:17:50](/episodes/ep-ozWJz2spBcI.md#^t-00-17-17)
 
@@ -4511,48 +4908,56 @@ _Verifiable statements about events, dates, people, or facts_
 > Charlie Kirk was shot from the front, and the bullet did not exit.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [REVELATIONS: The Truth About Charlie's Medical Report | C... @ 00:04:47](/episodes/ep-pc3pxRyNFZk.md#^t-00-04-14)
 
 > At least a fragment of the bullet was recovered from his neck.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [REVELATIONS: The Truth About Charlie's Medical Report | C... @ 00:05:05](/episodes/ep-pc3pxRyNFZk.md#^t-00-04-59)
 
 > A fragment was pulled from almost in line with your shoulder blade, right in the center, touching your spine.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [REVELATIONS: The Truth About Charlie's Medical Report | C... @ 00:05:34](/episodes/ep-pc3pxRyNFZk.md#^t-00-04-59)
 
 > They did not recover a bullet from a .30-06.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [REVELATIONS: The Truth About Charlie's Medical Report | C... @ 00:06:02](/episodes/ep-pc3pxRyNFZk.md#^t-00-05-41)
 
 > There is not one reflected onto Charlie Kirk's death certificate because they did not recover a bullet from a .30-06.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [REVELATIONS: The Truth About Charlie's Medical Report | C... @ 00:19:06](/episodes/ep-pc3pxRyNFZk.md#^t-00-18-51)
 
 > Deidre Weiss Amaro was announced as the new Utah medical examiner in May of 2024.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [REVELATIONS: The Truth About Charlie's Medical Report | C... @ 00:24:29](/episodes/ep-pc3pxRyNFZk.md#^t-00-24-13)
 
 > Jason Chavitz's parents are in the government. They're literally in the FBI.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [REVELATIONS: The Truth About Charlie's Medical Report | C... @ 00:37:28](/episodes/ep-pc3pxRyNFZk.md#^t-00-37-12)
 
 > Tail number N1098L plane left from Texas, went over to Utah right about the time that Charlie Kirk got assassinated. It dipped real low.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Ri... @ 00:00:45](/episodes/ep-q7f8r-THr84.md#^t-00-00-01)
 
@@ -4577,6 +4982,7 @@ _Verifiable statements about events, dates, people, or facts_
 > Turning Point employees are contacting me about things that took place leading up to Hamptons event, changes at organization in months leading up, what had been happening at company over last year
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Ri... @ 00:01:32](/episodes/ep-q7f8r-THr84.md#^t-00-01-14)
 
@@ -4589,6 +4995,7 @@ _Verifiable statements about events, dates, people, or facts_
 > George Zinn facing charges of obstruction of justice because he didn't do it and was harboring images of child abuse on his cell phone
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Ri... @ 00:03:31](/episodes/ep-q7f8r-THr84.md#^t-00-03-19)
 
@@ -4607,6 +5014,7 @@ _Verifiable statements about events, dates, people, or facts_
 > DNA consistent with Robinson on the rifle trigger
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Ri... @ 00:07:14](/episodes/ep-q7f8r-THr84.md#^t-00-06-59)
 
@@ -4619,6 +5027,7 @@ _Verifiable statements about events, dates, people, or facts_
 > Suspect crossed railing onto roof at approximately 12:15 p.m. and Charlie Kirk was shot at 12:23 p.m.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Ri... @ 00:08:28](/episodes/ep-q7f8r-THr84.md#^t-00-08-07)
 
@@ -4631,12 +5040,14 @@ _Verifiable statements about events, dates, people, or facts_
 > Suspect entered campus from the north at approximately 11:51 a.m. wearing black shirt with American flag, dark baseball cap, large sunglasses, walking with unusual gait consistent with rifle hidden in pants
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Ri... @ 00:12:01](/episodes/ep-q7f8r-THr84.md#^t-00-11-34)
 
 > Investigators found a bolt action rifle wrapped in a towel in wooded area with one spent round and three unspent rounds inscribed with 'Hey, fascist, catch', 'You've got notices bulge', 'What's this?', 'Oh, Bella ciao, Bella ciao, Bella ciao, ciao, ciao' and 'If you read this, you are gay, LMAO'
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Ri... @ 00:12:01](/episodes/ep-q7f8r-THr84.md#^t-00-11-34)
 
@@ -4661,12 +5072,14 @@ _Verifiable statements about events, dates, people, or facts_
 > Robinson's mother saw photo of shooter in news and thought it looked like her son, called him and he said he was home sick on September 10th
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Ri... @ 00:14:25](/episodes/ep-q7f8r-THr84.md#^t-00-14-08)
 
 > Over the last year Robinson had become increasingly more political, leaning left, pro-gay, trans-right-oriented, dating roommate Lance Twiggs, accused Charlie Kirk of spreading hate
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Ri... @ 00:14:30](/episodes/ep-q7f8r-THr84.md#^t-00-14-08)
 
@@ -4721,6 +5134,7 @@ _Verifiable statements about events, dates, people, or facts_
 > Police interviewed Robinson's roommate Lance Twiggs who provided text messages from Robinson about the shooting
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Ri... @ 00:19:03](/episodes/ep-q7f8r-THr84.md#^t-00-18-56)
 
@@ -4751,12 +5165,14 @@ _Verifiable statements about events, dates, people, or facts_
 > House where Tyler Robinson lived with Lance Twiggs is owned by Lance Twiggs's family and Tyler was paying rent to them
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Ri... @ 00:30:28](/episodes/ep-q7f8r-THr84.md#^t-00-30-01)
 
 > Lance Twiggs's family told me his parents kicked him out junior year of high school, he went to live with relatives, has issues with drinking, almost overdosed on vodka three years ago, showed up on drugs Easter Sunday ranting politically
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Ri... @ 00:30:35](/episodes/ep-q7f8r-THr84.md#^t-00-30-01)
 
@@ -5057,96 +5473,144 @@ _Verifiable statements about events, dates, people, or facts_
 > Brian Harpole lied badly to Sean Ryan in an interview
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Brian Harpole - Groundbreaking Evidence From Charlie Kirk’s Head of Security | SRS #254 - YouTube](https://www.youtube.com/watch?v=S0fmq1zffGw)
+**Verification Notes:** The interview between Brian Harpole and Shawn Ryan (likely intended as 'Sean Ryan' in the claim) exists and is documented in multiple sources, including news articles from Deseret News and KSL.com that report on Harpole's recounting of events without labeling them as lies. However, posts on X (formerly Twitter) contain user accusations of specific lies (e.g., about a 'trap door,' EMT presence, or drones), but these are inconclusive opinions and not supported by established news outlets or official investigations. No primary sources like fact-check articles, official statements, or documents confirm or refute deception. Verification would require access to the full interview transcript, cross-referenced with police reports, video footage, or eyewitness accounts from the event (e.g., via FOIA requests to Orem PD or Utah authorities) to check specific statements against evidence.
 
 ### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:00:39](/episodes/ep-sImMM04XdWY.md#^t-00-00-01)
 
 > Satis certainly wasn't established to provide any maintenance to those Egyptian planes, and it was more than likely a front for something else
 
 **Type:** Factual
+**Veracity:** False (medium)
+**Source:** [Satys Aerospace expanding painting and striping operations in Delaware](https://x.com/DelawareBRT/status/1995825524510163263)
+**Verification Notes:** Reliable sources, including business announcements and aviation industry reports, confirm that Satys Aerospace (likely the 'Satis' referenced) is a legitimate French aerospace company expanding its aircraft painting and maintenance operations in Delaware, such as at Wilmington Airport. This directly contradicts the claim that it was not established for plane maintenance and is instead a front. No credible evidence supports the 'front' allegation; instead, posts on X and web sources describe routine aviation maintenance activities for Egyptian-registered planes, including partnerships with companies like Duncan Aviation and Boeing for fleet services.
 
 ### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:01:02](/episodes/ep-sImMM04XdWY.md#^t-00-00-39)
 
 > Charlie Kirk called me and told me that they wanted me to stop speaking about Brigitte
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Candace Owens' spiral is a warning to my fellow Republicans | Opinion](https://www.usatoday.com/story/opinion/columnist/2025/11/25/candace-owens-exploit-kirk-macron-conspiracy/87464601007/)
+**Verification Notes:** No reliable primary sources, such as news articles, official statements, or documents, confirm or refute the occurrence of a specific phone call from Charlie Kirk to Candace Owens instructing her to stop speaking about Brigitte Macron. The claim originates from Owens' podcast and is echoed in social media posts on X, but these are not conclusive evidence. Multiple searches across web results and X posts discuss Owens' broader conspiracy theories involving Kirk, the Macrons, and assassination plots, but none provide verifiable details on this private call. Verification would require access to phone records (e.g., via subpoena or FOIA request to telecom providers), text message logs shared publicly with authentication, or corroborating statements from Kirk's estate, associates, or other witnesses.
 
 ### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:02:55](/episodes/ep-sImMM04XdWY.md#^t-00-02-44)
 
 > Andrew Colvett said, and I quote, 'Candace, it was supposed to be you'
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** ["Candace, it was supposed to be you": Candace Owens alleges Andrew Kolvet called her days after Charlie Kirk's assassination with shocking claim](https://www.sportskeeda.com/pop-culture/candace-supposed-you-candace-owens-alleges-andrew-kolvet-called-days-charlie-kirk-s-assassination-shocking-claim)
+**Verification Notes:** Multiple news outlets and posts on X report Candace Owens making this allegation in her podcast, including direct quotes matching the claim. However, the claim refers to a private phone conversation between Owens and Andrew Kolvet (likely misspelled as Colvett), with no publicly available recording, transcript, or confirmation/denial from Kolvet specifically addressing this quote. Andrew Kolvet has denied other related claims by Owens (e.g., about Israeli links) as 'laughably untrue' in sources like Hindustan Times, but not this exact statement. Verification would require a recording of the call, call logs, or a direct statement from Kolvet or witnesses confirming the quote.
 
 ### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:03:31](/episodes/ep-sImMM04XdWY.md#^t-00-03-29)
 
 > while the actual day on September 10th while Charlie Kirk was in the hospital, he told me that there was a list and that me and Tucker Carlson were on it
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Candace Owens Challenges Andrew Kolvet: Why Warned Her at the Hospital After Charlie Kirk's Death?](https://www.ibtimes.co.uk/tucker-carlson-charlie-kirk-death-candace-owens-news-1756132)
+**Verification Notes:** The claim refers to a private phone conversation on September 10th, when Charlie Kirk was in the hospital after being shot, where Andrew Kolvet allegedly warned Candace Owens about a 'list' including her and Tucker Carlson, advising them to lay low. News sources, including this article, report Owens publicly questioning Kolvet about issuing such a warning after Kirk's death, but they do not provide independent evidence confirming the conversation occurred or its content. X posts and other web results confirm the date of Kirk's hospitalization and shooting as September 10th, but offer no corroboration of the specific warning. Verification would require statements from Kolvet, call logs, or other direct evidence of the interaction, which are not publicly available.
 
 ### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:06:12](/episodes/ep-sImMM04XdWY.md#^t-00-05-36)
 
 > after our Egyptian plane, tail number SUBTT, landed into this federally monitored hangar, a foreign dignitary was then discreetly moved to 920 King Street, which we've learned and confirmed houses the DEA, the FBI, and the Secret Service
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [FBI Wilmington Field Office](https://www.fbi.gov/contact-us/field-offices/wilmington)
+**Verification Notes:** The part of the claim stating that 920 King Street houses the DEA, FBI, and Secret Service is supported by reliable government sources: the FBI Wilmington Resident Agency is located at 920 N. King Street, Wilmington, DE, and cross-references confirm DEA and Secret Service offices share the same address in official directories. However, no primary sources (e.g., news articles, official flight records, or government statements) were found confirming an Egyptian plane with tail number SUBTT (likely SU-BTT) landing in a federally monitored hangar in Wilmington, Delaware, or a foreign dignitary being discreetly moved from there to 920 King Street. Posts on X and podcast transcripts discuss these elements as part of conspiracy theories, but they are not conclusive evidence. Verification would require access to FAA flight logs, ADS-B tracking data from sites like FlightRadar24, or FOIA requests for federal agency records on diplomatic movements and hangar activities.
 
 ### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:07:51](/episodes/ep-sImMM04XdWY.md#^t-00-07-38)
 
 > March 13th, I do that first episode regarding Brigitte Macron. March 19th, just six days later, I'm fired from the Daily Wire
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Candace Owens - Wikipedia](https://en.wikipedia.org/wiki/Candace_Owens)
+**Verification Notes:** Available news articles and X posts confirm Candace Owens parted ways with the Daily Wire in late March 2024, with the public announcement on March 22, 2024, but no reliable sources specify an exact firing date of March 19, 2024, or confirm the Brigitte Macron episode aired precisely on March 13, 2024. One X post incorrectly suggests the episode was in March 2023, but most sources align with a March 2024 timeline for both events without exact dates. Verification would require access to internal Daily Wire employment records, official podcast publication logs, or timestamped episode archives from the Candace Owens Show.
 
 ### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:08:25](/episodes/ep-sImMM04XdWY.md#^t-00-08-18)
 
 > on December 3rd, before I interview him, I receive the first ever cease-and-desist letter from Brigitte Macron and her lawyers
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [IN THE SUPERIOR COURT OF THE STATE OF DELAWARE EMMANUEL MACRON and](https://clarelocke.com/wp-content/uploads/2025/07/Complaint89.pdf)
+**Verification Notes:** No reliable sources confirm the specific claim of receiving a cease-and-desist letter on December 3, 2024, as the first ever from Brigitte Macron and her lawyers. Available web results and X posts reference a defamation lawsuit filed in July 2025 and mention prior requests for retractions or a cease-and-desist in the case file, but none specify the December 3, 2024 date or confirm it as the first. Recent articles report on Owens' broader claims but do not independently verify this detail. To verify, access to the full lawsuit documents detailing dates of any cease-and-desist letters, or a copy of the letter itself with timestamp, would be required.
 
 ### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:09:08](/episodes/ep-sImMM04XdWY.md#^t-00-09-03)
 
 > seven days later is when it's publicly announced that Satis, that French company, has inked a deal in Wilmington, Delaware, for a hangar
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Satys Aerospace signs two-year lease for Wilmington Airport hangar](https://delawarebusinesstimes.com/news/satys-lease-wilmington-hangar/)
+**Verification Notes:** Multiple reliable news sources, including Delaware Business Times and Delaware Business Now, confirm that on December 10, 2024, Satys Aerospace (noted as 'Satis' in the claim, likely a transcription error) publicly announced a two-year lease deal for a hangar near Wilmington Airport in Delaware. This aligns with the claim's timeline of seven days after December 3rd.
 
 ### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:11:46](/episodes/ep-sImMM04XdWY.md#^t-00-11-43)
 
 > on February 24th, Charlie Kirk reaches out, and he tells me that the White House is asking me to stop speaking about Brigitte
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Candace Owens - Wikipedia](https://en.wikipedia.org/wiki/Candace_Owens)
+**Verification Notes:** No reliable external sources, such as news articles from established outlets (e.g., The Times of India, Daily Mail, USA Today) or official statements, confirm or refute the specific claim of Charlie Kirk contacting Candace Owens on February 24, 2025, to relay a White House request to stop discussing Brigitte Macron. The claim involves a private communication, and while Owens has made public allegations about related conspiracies involving Macron, Kirk's death, and assassination attempts (as noted in Wikipedia and other news sources), this particular interaction is not independently documented. Verification would require access to private text messages, phone records, or official White House communications (e.g., via FOIA request), or corroborating statements from involved parties, which are not available in public records.
 
 ### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:12:06](/episodes/ep-sImMM04XdWY.md#^t-00-11-43)
 
 > This is the day that Donald Trump meets with Emmanuel Macron
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Trump, Macron display stark differences on Ukraine despite friendly veneer | Reuters](https://www.reuters.com/world/macron-arrives-white-house-ukraine-talks-with-trump-2025-02-24/)
+**Verification Notes:** Multiple reliable sources, including Reuters, Al Jazeera, The Washington Post, and official White House records, confirm that Donald Trump held a bilateral meeting with Emmanuel Macron on February 24, 2025, at the White House, focusing on issues like the Ukraine war. This directly supports the claim's specific date.
 
 ### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:12:49](/episodes/ep-sImMM04XdWY.md#^t-00-12-26)
 
 > On February 25th, actually, Sergio Gor called me and asked me to stop speaking about Brigitte
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Candace Owens Details Alleged Macron-Paid Hit On Her - Catholics For Catholics](https://cforc.com/2025/11/candace-owens-details-alleged-macron-paid-hit-on-her/)
+**Verification Notes:** The claim involves a private phone call between Sergio Gor and Candace Owens on February 25th (likely 2025 based on context), which is inherently difficult to verify without direct evidence from the parties involved. Web searches and X posts reference Owens' broader allegations about Brigitte Macron and related threats, but provide no independent confirmation or refutation of this specific call. Posts on X repeat similar claims (with spelling variations like 'Sergio Gore'), but these are not reliable evidence. To verify, access to phone records, call logs, or statements from Gor or the White House would be required; no such primary sources were found in available results.
 
 ### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:13:03](/episodes/ep-sImMM04XdWY.md#^t-00-12-26)
 
 > February 26th. President Donald Trump calls me and asks me to stop speaking about Brigitte
 
 **Type:** Factual
+**Veracity:** Unverifiable (medium)
+**Source:** [Stop speaking about...': Candace Owens says Trump called her, asked her not to spin conspiracy theories that Macron's wife was born a man](https://timesofindia.indiatimes.com/world/us/stop-speaking-about-candace-owens-says-trump-called-her-asked-her-not-to-spin-conspiracy-theories-that-macrons-wife-was-born-a-man/articleshow/122188348.cms)
+**Verification Notes:** Multiple news outlets, including Times of India, The Independent, BBC, and Deadline, report that Candace Owens claimed Trump called her in February to ask her to stop discussing Brigitte Macron. These sources confirm the general claim of a February call but do not specify the exact date of February 26th or provide independent verification (e.g., no statements from Trump or White House logs). The claim relies solely on Owens' account, with no corroborating evidence found. To verify, access to White House phone records, Trump's personal call logs, or a deposition from the ongoing Macron defamation lawsuit against Owens would be required, as these could confirm or refute the private call.
 
 ### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:17:22](/episodes/ep-sImMM04XdWY.md#^t-00-16-53)
 
 > from the 20th to the 26th—that happens to be the period that Brigitte and Emmanuel Macron released to the Financial Times that they are suing me in a Delaware court
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Read the French President’s Lawsuit - The New York Times](https://www.nytimes.com/interactive/2025/07/23/world/europe/23int-macron-defemation-suit.html)
+**Verification Notes:** Multiple reliable sources, including The New York Times (July 23, 2025) and posts on X citing the Financial Times (July 23, 2025), confirm that Emmanuel and Brigitte Macron filed a defamation lawsuit against Candace Owens in Delaware Superior Court around July 23-24, 2025. This falls within the claimed period of July 20th to 26th. The RT post on X explicitly attributes the reporting to the Financial Times, supporting that the information was released or reported during that timeframe.
 
 ### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:33:44](/episodes/ep-sImMM04XdWY.md#^t-00-33-24)
 
 > Brian Harpole is actually presenting a text message between Dan Flood and Chief Long
 
 **Type:** Factual
+**Veracity:** Unverifiable (medium)
+**Source:** [UVU police chief promised to secure rooftops, head of Charlie Kirk’s security team says](https://www.sltrib.com/news/education/2025/11/18/uvu-police-chief-promised-secure/)
+**Verification Notes:** News articles from reliable outlets like The Salt Lake Tribune and Fox News report that Brian Harpole texted or raised concerns with UVU Police Chief Jeff Long about rooftop security, implying the communication was Harpole's. However, posts on X (formerly Twitter) claim the text exchange was actually between Dan Flood (a Turning Point USA security member) and Chief Long, aligning with the podcast claim. There are no primary sources, such as the actual text messages, screenshots with sender details, or official statements from Harpole, Flood, or Long, to confirm who sent the messages. Discrepancies between news reports and social media sentiment make it impossible to verify without access to the original texts or confirming documents, which could be obtained via FOIA requests to UVU or police records.
 
 ### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:40:39](/episodes/ep-sImMM04XdWY.md#^t-00-40-25)
 
 > the footage of Tyler Robinson turning himself in... is now missing
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Surveillance video of Charlie Kirk murder suspect missing from sheriff's office](https://kutv.com/news/2news-investigates/2news-investigates-discovers-possible-missing-evidence-in-charlie-kirk-murder-case)
+**Verification Notes:** Multiple news outlets, including KUTV and NPR affiliates, report that surveillance footage of Tyler Robinson turning himself in at the Washington County Sheriff’s Office is missing or no longer available, citing a 30-day retention period in responses to public records requests. This supports the claim directly, with no contradicting evidence found in reliable sources.
 
 ### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:06](/episodes/ep-sreYYcID-QY.md#^t-00-00-00)
 
@@ -5171,18 +5635,27 @@ _Verifiable statements about events, dates, people, or facts_
 > He writes, "I can get close to it, but there is a squad car parked right by it."
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Read the text messages between Charlie Kirk accused and roommate](https://www.bbc.com/news/articles/c99g1e0z2ero)
+**Verification Notes:** Multiple reliable news sources, including BBC and ABC News, report on text messages from court documents between Tyler Robinson and his roommate detailing events around the UVU shooting. The specific quote aligns with reported exchanges about retrieving the weapon and encountering police, as described in official statements and charging documents released by authorities.
 
 ### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:03:21](/episodes/ep-sreYYcID-QY.md#^t-00-02-45)
 
 > He says to Lance, allegedly, quote, "I worry about prints." "I had to leave it," referring to the rifle, "in a bush where I changed outfits."
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Read final texts Charlie Kirk suspect Tyler Robinson sent trans lover after assassination | Daily Mail Online](https://www.dailymail.co.uk/news/article-15107559/Tyler-Robinson-Charlie-Kirk-texts-transgender-girlfriend-Lance-Twiggs.html)
+**Verification Notes:** Multiple established news outlets, including Daily Mail, Newsweek, and The Times of India, report on the text messages between Tyler Robinson and Lance Twiggs, with details matching the quoted phrases 'I worry about prints' and 'I had to leave it in a bush where I changed outfits.' These reports are based on court documents and prosecutor revelations, supporting that the claim accurately reflects the content of the alleged texts, though some interpretations question their authenticity.
 
 ### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:04:09](/episodes/ep-sreYYcID-QY.md#^t-00-03-26)
 
 > according to locals—many of which have emailed me—any of the footage that they had, any footage that they found, they immediately sent over to the feds, and the feds told them that they were not allowed to share it at all.
 
 **Type:** Factual
+**Veracity:** Unverifiable (medium)
+**Source:** [Candace Owens weighs in on shocking probe into Tyler Robinson’s ‘missing’ surveillance video, ‘Maybe it never existed’ | Hindustan Times](https://www.hindustantimes.com/world-news/us-news/candace-owens-weighs-in-on-shocking-probe-into-tyler-robinson-s-missing-surveillance-video-maybe-it-never-existed-101763622371201.html)
+**Verification Notes:** The claim relies on anonymous emails from locals to Candace Owens alleging federal pressure not to share footage. News sources report on Owens' statements about missing or suppressed footage in the Charlie Kirk case, including FBI denials of requests for surveillance video, but no primary evidence (e.g., official statements, documents, or direct accounts from locals) independently confirms or refutes that federal agents specifically instructed locals not to share footage. Verification would require public statements from the locals, FBI internal communications obtained via FOIA, or investigative journalism corroborating the interactions.
 
 ### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:04:09](/episodes/ep-sreYYcID-QY.md#^t-00-03-26)
 
@@ -5207,18 +5680,27 @@ _Verifiable statements about events, dates, people, or facts_
 > It is a very clear image of Tyler Robinson, allegedly taken at 6:38 p.m. at a nearby Dairy Queen.
 
 **Type:** Factual
+**Veracity:** Mixed (medium)
+**Source:** [Was Tyler Robinson At Dairy Queen After Charlie Kirk Shooting? What We Know - Newsweek](https://www.newsweek.com/tyler-robinson-dairy-queen-charlie-kirk-2132434)
+**Verification Notes:** Multiple reliable sources, including Newsweek and Times Now, confirm that Candace Owens released a clear image purporting to show Tyler Robinson at a Dairy Queen in Orem at 6:38 p.m. after the shooting, matching the podcast claim. However, the image is unverified by law enforcement, and official sources have not confirmed its authenticity, timestamp, or that it depicts Robinson at that exact time. Fact-checks address related theories but do not debunk the image's existence, only specific interpretations. Verification would require official confirmation from Utah police, Dairy Queen surveillance records, or court documents via FOIA.
 
 ### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:06:14](/episodes/ep-sreYYcID-QY.md#^t-00-06-07)
 
 > you're wearing jeans, and you're wearing the maroon shirt.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Did Assassin Tyler Robinson Go Straight To Buy Himself Ice Cream At Dairy Queen 17 Minutes After Killing Charlie Kirk?](https://www.freepressjournal.in/world/did-assassin-tyler-robinson-go-straight-to-buy-himself-ice-cream-at-dairy-queen-17-minutes-after-killing-charlie-kirk)
+**Verification Notes:** Multiple reliable news sources, including Free Press Journal, Times Now, and Newsweek, consistently describe the photo shared by Candace Owens as depicting Tyler Robinson wearing a maroon shirt and jeans at a Dairy Queen, matching the claim's description of the attire in the image. While the photo's authenticity and timing are debated as unverified in some reports, the specific claim about the clothing shown in the photo is supported across sources.
 
 ### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:06:50](/episodes/ep-sreYYcID-QY.md#^t-00-06-07)
 
 > it's about a 17-minute drive away from the campus.
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Was Tyler Robinson At Dairy Queen After Charlie Kirk Shooting? What We Know - Newsweek](https://www.newsweek.com/tyler-robinson-dairy-queen-charlie-kirk-2132434)
+**Verification Notes:** Multiple established news outlets, including Newsweek, Times Now, and Yahoo, report on Candace Owens' podcast claim that the Dairy Queen is about a 17-minute drive from the campus where the Charlie Kirk shooting occurred on September 10, 2025. However, these sources primarily reiterate the claim without providing independent verification of the driving time, such as map calculations or official location details. Posts found on X also mention the 17-minute drive, reflecting public sentiment around the conspiracy theory, but X posts are inconclusive for factual verification, especially on controversial topics. The claim mixes verifiable elements (e.g., existence of a photo and locations in Orem, Utah) with unconfirmed interpretation (exact driving time). To verify, access to precise addresses of the campus shooting site and the specific Dairy Queen, along with tools like Google Maps for real-time driving estimates, would be required; no such primary evidence was found in available sources.
 
 ### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:09:40](/episodes/ep-sreYYcID-QY.md#^t-00-08-58)
 
@@ -5243,6 +5725,9 @@ _Verifiable statements about events, dates, people, or facts_
 > this clip is from the morning after Charlie Kirk's assassination. So TMZ had already publicized that footage.
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Charlie Kirk Person of Interest Seen On Video Heading Toward Campus](https://www.tmz.com/2025/09/11/charlie-kirk-possible-shooter-on-video-near-campus/)
+**Verification Notes:** No reliable sources were found confirming the exact date or time of the neighbor interview clip referenced in the claim. TMZ published the footage of the person of interest on September 11, 2025, in the evening (22:38), which is the day after the assassination on September 10, 2025. If the interview clip was indeed from the morning of September 11, the claim that TMZ had already publicized the footage by then would be false, but without confirmation of the clip's timing, the claim cannot be verified. Verification would require access to the original news broadcast or article containing the Samuel Steele interview, including its publication or air date.
 
 ### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:15:42](/episodes/ep-sreYYcID-QY.md#^t-00-15-33)
 
@@ -5255,6 +5740,9 @@ _Verifiable statements about events, dates, people, or facts_
 > A local source told me that virtually everyone on that block works for that company. The Steeles are a big family in Orem.
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Caldera Engineering Official Website](https://calderaengineering.com/)
+**Verification Notes:** No reliable primary sources, such as news articles, official documents, or government records, were found to confirm or refute the claim that virtually everyone on a specific block in Orem, Utah, works for Caldera Engineering or that the Steeles are a big family in Orem. The company's website and related business profiles confirm Caldera Engineering exists in nearby Provo, Utah, and manufactures valves, but provide no details on employee residences or family connections. X posts echo similar rumors but are not reliable evidence. Verification would require access to property records from Utah County assessor's office, Caldera Engineering's employee directories, or local census data via FOIA requests to confirm neighborhood employment patterns and family prominence.
 
 ### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:16:19](/episodes/ep-sreYYcID-QY.md#^t-00-16-13)
 
@@ -5279,6 +5767,9 @@ _Verifiable statements about events, dates, people, or facts_
 > I can't find her. We stalked; we looked through databases; we contacted Lance's family to see if they're familiar with that name. I cannot find a woman named Sherry Steele that lives in that building complex.
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [N/A](none)
+**Verification Notes:** No reliable sources, including news articles from established outlets (e.g., BBC as mentioned in the transcript), official statements, or public records, were found mentioning a Sherry Steele as a resident of any building complex in Orem, Utah, in connection with the Charlie Kirk shooting. Multiple search strategies across web results and X posts yielded no evidence of her existence, footage, or involvement. Verification would require access to private resident databases, property records from Utah County, voter registration logs, or FOIA requests for police reports and witness statements related to the incident. The absence of any public documentation for a purported witness in a high-profile assassination suggests the claim cannot be confirmed or refuted without these restricted sources.
 
 ### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:18:55](/episodes/ep-sreYYcID-QY.md#^t-00-18-18)
 
@@ -5297,6 +5788,9 @@ _Verifiable statements about events, dates, people, or facts_
 > There was one shot that rang out... People saw Charlie Kirk instantly get shot in the neck
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** Multiple reliable sources, including Wikipedia, BBC, and ABC News, confirm that Charlie Kirk was fatally shot in the neck with a single shot during his event at Utah Valley University in Orem, Utah on September 10, 2025. Eyewitness accounts and video footage described in news reports indicate that people in the audience saw the shooting occur instantly, with Kirk slumping in his chair and bleeding profusely from the neck wound.
 
 ### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:20:23](/episodes/ep-sreYYcID-QY.md#^t-00-20-17)
 
@@ -5333,6 +5827,9 @@ _Verifiable statements about events, dates, people, or facts_
 > the gun was found in the backyard of someone that I know... by a chicken coop.
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** No reliable primary sources, such as news articles from established outlets (e.g., CNN, Fox News, NYT) or official statements from law enforcement, confirm the gun was found in a backyard by a chicken coop. The claim appears to originate from local rumors and conspiracy theories discussed on podcasts and social media, with some posts on X mentioning 'woods' as the recovery location instead. Multiple searches across web results yield details on the shooting and suspect's path but no specifics on a chicken coop. Verification would require access to official police reports, evidence logs, or court documents from the Utah County prosecutor's office detailing the exact gun recovery site.
 
 ### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:25:04](/episodes/ep-sreYYcID-QY.md#^t-00-24-33)
 
@@ -5345,6 +5842,9 @@ _Verifiable statements about events, dates, people, or facts_
 > the house right next door to where the gun was found is a mysteriously vacant home that is owned by the university itself
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Fox News Digital report on murder weapon recovery (as cited in X posts)](https://www.foxnews.com/ (referenced in social media posts citing Fox News Digital))
+**Verification Notes:** No reliable primary sources, such as official police reports, news articles from established outlets, or property records, confirm or refute the claim of a mysteriously vacant university-owned home next to the gun's recovery site. Web searches and X posts mention the gun being found 'in the woods' or at a 'drop point' near Utah Valley University, with some unverified social media speculation about a chicken coop, but nothing addresses a adjacent university-owned vacant home. Verification would require access to official investigative documents (e.g., Washington County Sheriff's Office reports), property ownership records from local assessor's office or university disclosures, or FOIA requests for detailed crime scene maps.
 
 ### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:31:52](/episodes/ep-sreYYcID-QY.md#^t-00-31-15)
 
@@ -5363,6 +5863,9 @@ _Verifiable statements about events, dates, people, or facts_
 > somebody has fabricated a monstrous big lie that Israel had something to do with Charlie Kirk's horrific murder.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Antisemitic and Anti-Israel Conspiracy Theories Follow Fatal Shooting of Charlie Kirk | ADL](https://www.adl.org/resources/article/antisemitic-and-anti-israel-conspiracy-theories-follow-fatal-shooting-charlie)
+**Verification Notes:** Multiple reliable sources, including ADL, Wikipedia, Axios, SPLC, and CNN fact-checks, confirm that conspiracy theories alleging Israel's involvement in Charlie Kirk's assassination emerged immediately after the event. These theories are described as baseless and antisemitic by established outlets, supporting Netanyahu's claim that such accusations are fabricated lies. Official denials from Netanyahu and lack of evidence for the theories further corroborate this.
 
 ### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:33:27](/episodes/ep-sreYYcID-QY.md#^t-00-33-10)
 
@@ -5381,12 +5884,18 @@ _Verifiable statements about events, dates, people, or facts_
 > He told me so in a letter that he sent me just a few months ago. “One of my greatest joys as a Christian,” he said, “is advocating for Israel and forming alliances with Jews to protect Judeo-Christian civilization.”
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Netanyahu rejects 'insane' conspiracy theories that Israel was behind Charlie Kirk's assassination | The Times of Israel](https://www.timesofisrael.com/liveblog_entry/netanyahu-rejects-insane-conspiracy-theories-that-israel-was-behind-charlie-kirks-assassination/)
+**Verification Notes:** Multiple reliable news outlets, including The Times of Israel, Newsweek, and The Jewish Chronicle, confirm the existence of the letter from Charlie Kirk to Benjamin Netanyahu dated May, and report Netanyahu quoting from it with phrases matching or closely aligning with the claim (e.g., expressing joy in advocating for Israel and forming alliances to defend/protect Judeo-Christian civilization). The full letter, revealed in sources like Newsweek, supports Kirk's pro-Israel stance, corroborating the quoted sentiment despite minor wording variations in reports.
 
 ### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:34:28](/episodes/ep-sreYYcID-QY.md#^t-00-33-49)
 
 > A few weeks before his death, I spoke to Charlie. I invited him to visit Israel again.
 
 **Type:** Factual
+**Veracity:** True (medium)
+**Source:** [Fact Check: Who extended the invitation to Charlie Kirk to visit I...](https://factually.co/fact-checks/politics/charlie-kirk-israel-visit-2025-f493d0)
+**Verification Notes:** A fact-check article and other news reports from reliable outlets like The Times of Israel and Israel Hayom confirm that Israeli Prime Minister Benjamin Netanyahu extended a personal invitation to Charlie Kirk to visit Israel shortly before his death in September 2025. While some sources attribute a similar invitation to Minister Amichai Chikli for a January conference, the fact-check specifically verifies Netanyahu's involvement, supporting the claim of a conversation and invitation a few weeks prior. The exact details of the 'speech' (e.g., phone call vs. other communication) are not contradicted but not fully detailed in all sources, leading to medium confidence.
 
 ### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:35:57](/episodes/ep-sreYYcID-QY.md#^t-00-35-45)
 
@@ -5531,90 +6040,135 @@ _Verifiable statements about events, dates, people, or facts_
 > Yesterday, the FBI made a rather curious announcement. They announced that they were going to cut ties with the ADL.
 
 **Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [FBI cuts ties with Anti-Defamation League, FBI director says | Reuters](https://www.reuters.com/world/us/fbi-cuts-ties-with-anti-defamation-league-2025-10-01/)
+**Verification Notes:** Multiple reliable news sources, including Reuters, AP News, Fox News, and Al Jazeera, confirm that the FBI announced cutting ties with the ADL on or around October 1, 2025, due to criticisms of the ADL's extremism glossary including Charlie Kirk's organization. However, this announcement did not occur 'yesterday' relative to the current date of December 7, 2025; the timing element is inaccurate, while the core fact of the announcement is supported.
 
 ### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:02:02](/episodes/ep-t1YtLS1n8Vs.md#^t-00-01-24)
 
 > The reality is the ADL was born out of a Jewish Freemason organization known as B'nai B'rith.
 
 **Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [Anti-Defamation League - Wikipedia](https://en.wikipedia.org/wiki/Anti-Defamation_League)
+**Verification Notes:** Multiple reliable sources, including Britannica, ADL's official history page, and Wikipedia, confirm that the Anti-Defamation League (ADL) was founded in 1913 by the Independent Order of B'nai B'rith, a Jewish service organization, initially as the Anti-Defamation League of B'nai B'rith. This supports the claim that the ADL was 'born out of' B'nai B'rith, which is Jewish. However, while B'nai B'rith was founded in 1843 with a fraternal structure inspired by Freemasonry and some founders were Freemasons, it is not officially a Freemason organization but rather an independent Jewish fraternal group. The 'Freemason' label is an interpretive exaggeration not directly supported by primary sources like official histories or encyclopedias, which describe it as a Jewish service or fraternal organization.
 
 ### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:02:10](/episodes/ep-t1YtLS1n8Vs.md#^t-00-02-02)
 
 > Sigmund Freud was a member of B'nai B'rith.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Address to the Society of B'Nai B'Rith](https://pep-web.org/search/document/SE.020.0271A)
+**Verification Notes:** Multiple reliable sources, including academic articles from PubMed, PEP-Web, and historical archives from the Center for Jewish History, confirm that Sigmund Freud was a member of the B'nai B'rith organization in Vienna from 1897 until 1938. He delivered lectures and addresses to the group, as documented in primary texts and scholarly analyses.
 
 ### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:03:23](/episodes/ep-t1YtLS1n8Vs.md#^t-00-02-47)
 
 > They put the organization together to defend a pedophile and a murderer. His name is Leo Frank.
 
 **Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [Leo Frank - Wikipedia](https://en.wikipedia.org/wiki/Leo_Frank)
+**Verification Notes:** The Anti-Defamation League (ADL) was founded in October 1913 by B'nai B'rith, and its announcement by Adolf Kraus explicitly mentioned the Leo Frank case as an example of anti-Semitism, supporting the claim that the organization was formed in response to his trial. However, the ADL's broader mission was to combat defamation against Jews, not solely to defend Frank personally. Regarding Frank being a 'pedophile and a murderer,' he was convicted of murdering 13-year-old Mary Phagan in 1913, with allegations of sexual assault, but the conviction was for murder only (no rape charge was upheld), and his guilt remains highly disputed—many sources, including a 1986 posthumous pardon by Georgia, suggest innocence due to anti-Semitic bias in the trial and evidence pointing to another suspect (Jim Conley). Multiple reliable sources (e.g., Britannica, New Georgia Encyclopedia) confirm the ADL's founding link to the case but note debates over Frank's guilt, making the claim a mix of accurate historical context and contested interpretation.
 
 ### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:03:31](/episodes/ep-t1YtLS1n8Vs.md#^t-00-02-47)
 
 > Leo Frank was an unbelievably wealthy Jewish factory owner down in Atlanta. And this is 1913. Mary Phagan was a 13-year-old girl who worked at his pencil factory. She was found brutally raped.
 
 **Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [Leo Frank - Wikipedia](https://en.wikipedia.org/wiki/Leo_Frank)
+**Verification Notes:** Multiple reliable sources, including Wikipedia, New Georgia Encyclopedia, and History.com, confirm Leo Frank was a Jewish superintendent (not owner) of the National Pencil Company in Atlanta in 1913; Mary Phagan was a 13-year-old employee who was found strangled and sexually molested in the factory basement on April 26, 1913. The claim accurately states the year, location, Phagan's age, her employment, and that she was found raped/sexually assaulted. However, Frank was not the factory owner (he managed it) and descriptions of him as 'unbelievably wealthy' are exaggerated—he was a well-connected businessman but not extraordinarily so. Posts on X reflect ongoing debates but align with historical accounts of assault.
 
 ### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:04:24](/episodes/ep-t1YtLS1n8Vs.md#^t-00-04-15)
 
 > They still found Leo Frank guilty.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Leo Frank Case - New Georgia Encyclopedia](https://www.georgiaencyclopedia.org/articles/history-archaeology/leo-frank-case/)
+**Verification Notes:** Multiple reliable sources, including historical encyclopedias and academic accounts, confirm that Leo Frank was tried and convicted by a jury in Fulton County Superior Court in 1913 for the murder of Mary Phagan. The guilty verdict was reached on August 25, 1913, despite attempts by the defense to implicate others, such as the factory janitor Jim Conley.
 
 ### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:09:07](/episodes/ep-t1YtLS1n8Vs.md#^t-00-09-05)
 
 > The FBI director, Kash Patel, announced yesterday that he ended—he has—this is over.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Kash Patel pulls the plug on ADL’s FBI training on extremism - POLITICO](https://www.politico.com/news/2025/10/01/kash-patel-pulls-the-plug-on-adls-fbi-training-on-extremism-00591105)
+**Verification Notes:** Multiple established news outlets, including Politico, Reuters, USA Today, and Newsweek, reported on October 1, 2025, that FBI Director Kash Patel announced the termination of the FBI's training and intelligence-sharing partnership with the Anti-Defamation League (ADL). Patel made the announcement via a social media post, criticizing the ADL for spying on Americans and its ties to former Director James Comey. The timing of 'yesterday' in the claim is relative to the podcast episode and aligns with the reported announcement date in sources.
 
 ### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:09:33](/episodes/ep-t1YtLS1n8Vs.md#^t-00-09-05)
 
 > James Comey wrote love letters to the ADL and embedded FBI agents with them.
 
 **Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [Patel cuts ties Comey’s FBI made with ADL as organization faces backlash for TPUSA criticism](https://www.foxnews.com/politics/patel-cuts-ties-comeys-fbi-made-adl-organization-faces-backlash-tpusa-criticism)
+**Verification Notes:** The claim's phrase 'love letters' is a metaphorical expression used by FBI Director Kash Patel in his announcement, not literal letters, but it reflects documented praise from Comey, such as his 2014 speech to the ADL where he highlighted their partnership and training of 47,000 law enforcement officers. The 'embedded FBI agents' element is supported by reports of a formal FBI-ADL partnership under Comey involving intelligence sharing and agent training, as confirmed in multiple outlets including Fox News, Newsweek, and historical ADL-FBI collaborations; however, 'love letters' adds interpretive exaggeration.
 
 ### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:11:09](/episodes/ep-t1YtLS1n8Vs.md#^t-00-10-35)
 
 > They curiously removed the Azov Battalion from the hate list.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [The ADL issues statement declaring Ukraine’s Azov Battalion no longer ‘far-right’](https://thegrayzone.com/2022/12/08/adl-ukraines-azov-battalion-far-right/)
+**Verification Notes:** Multiple reliable sources, including reports from The Grayzone and ADL's own communications, confirm that in November 2022, the ADL issued a statement defending the Azov Battalion, stating it had been reformed after integration into the Ukrainian National Guard and no longer exhibited far-right influences. This change in stance effectively removes it from being classified as a hate or far-right group by the ADL, supporting the claim of removal from their 'hate list' (referring to tracked extremist entities).
 
 ### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:12:03](/episodes/ep-t1YtLS1n8Vs.md#^t-00-11-19)
 
 > In the state of Connecticut, the ADL shares an office space with the FBI.
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [X Post by Kyle - Undercover (2023)](https://x.com/kyleisbased/status/1699406224570343851)
+**Verification Notes:** No primary sources such as official property records, news articles from established outlets, or statements from the ADL or FBI were found to confirm or refute the claim of shared office space in Connecticut. The claim appears to originate from social media posts on X, which cite unspecified property records but do not provide them. Web searches yielded results about the FBI cutting ties with the ADL in 2025, but nothing on shared spaces. To verify, access to official Connecticut property records, ADL/FBI office directories, or a FOIA request for federal building occupancy details would be required. X posts are inconclusive and cannot serve as reliable evidence.
 
 ### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:13:12](/episodes/ep-t1YtLS1n8Vs.md#^t-00-12-45)
 
 > The FBI sent the specific Connecticut bureau down to UVU after Charlie Kirk was assassinated. To help investigate the assassination.
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Utah Valley Shooting Updates | Federal Bureau of Investigation](https://www.fbi.gov/news/press-releases/utah-valley-shooting-updates)
+**Verification Notes:** Multiple reliable sources, including FBI press releases, Wikipedia, and news outlets like NBC, CNN, and CBS, confirm FBI involvement in the investigation of Charlie Kirk's assassination at UVU, assisted by the Utah Department of Public Safety and ATF. However, no sources specify or mention the Connecticut field office being sent or involved. Posts on X discuss FBI agents at the scene but do not reference Connecticut. To verify this specific claim, access to internal FBI deployment records, official statements on field office assignments, or a FOIA request to the FBI for investigation team details would be required. The lack of mention in extensive coverage suggests this detail may not be publicly documented.
 
 ### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:19:20](/episodes/ep-t1YtLS1n8Vs.md#^t-00-18-54)
 
 > She works for the Orem Police Department. She's a records specialist.
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [N/A](N/A)
+**Verification Notes:** No reliable sources, such as news articles from established outlets (e.g., ABC News, NBC News, Wikipedia) or official statements from the Orem Police Department, were found confirming or refuting that a witness named Bishop works as a records specialist there. Searches for witnesses to the Charlie Kirk assassination yielded details on other individuals (e.g., Skyler Baird) but not Bishop in this role. Verification would require access to Orem Police Department employment records, a FOIA request for personnel files, or confirmatory reporting from credible news sources linking her to the department.
 
 ### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:21:17](/episodes/ep-t1YtLS1n8Vs.md#^t-00-21-03)
 
 > He ran for Utah governor in 2024.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Rep. Phil Lyman running for Utah governor in 2024](https://www.sltrib.com/news/politics/2023/10/30/rep-phil-lyman-running-utah/)
+**Verification Notes:** Multiple reliable sources, including news articles from Salt Lake Tribune and Deseret News, confirm that Phil Lyman announced and ran for Utah governor in 2024, challenging incumbent Spencer Cox in the Republican primary and later continuing as a write-in candidate after losing the primary.
 
 ### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:24:15](/episodes/ep-t1YtLS1n8Vs.md#^t-00-24-03)
 
 > Scott Robbins... he was also a gubernatorial candidate. He ran for governor of Utah in 2024.
 
 **Type:** Factual
+**Veracity:** False (high)
+**Source:** [2024 Utah gubernatorial election - Wikipedia](https://en.wikipedia.org/wiki/2024_Utah_gubernatorial_election)
+**Verification Notes:** Reliable sources including Wikipedia and Ballotpedia provide comprehensive lists of candidates who ran in the 2024 Utah gubernatorial election, including those in primaries, conventions, and the general election. Scott Robbins is mentioned in the Wikipedia article in a list that appears to be endorsers or related figures (e.g., alongside Jason Chaffetz and Robert O'Brien), but not as a candidate who declared, filed, or participated in the race. No news articles, official filings, or government records confirm he ran for governor; his absence from candidate lists contradicts the claim.
 
 ### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:32:29](/episodes/ep-t1YtLS1n8Vs.md#^t-00-31-51)
 
 > Skordas is running as a state prosecutor.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Greg Skordas - Criminal Defense Lawyer | Lexinter Law Directory](https://attorneys.lexinter.net/lawyers/greg-skordas)
+**Verification Notes:** Multiple reliable sources, including a 2025 law directory entry and campaign website, confirm Greg Skordas is running for Utah Attorney General, a position that serves as the state's top legal officer and prosecutor. This aligns with the claim of running as a 'state prosecutor,' as the AG role involves prosecutorial duties at the state level. Additional sources like Deseret News (2020) and Ballotpedia corroborate his history of running for this office, with recent information indicating an active 2025 campaign.
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:00:21](/episodes/ep-tB5SXXmd9vU.md#^t-00-00-01)
 
@@ -5633,12 +6187,16 @@ _Verifiable statements about events, dates, people, or facts_
 > Two days ago, I was contacted by a high-ranking employee of the French government. After determining this person's position and proximity to the French couple, I have deemed the information that they gave me to be credible enough to share publicly
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Candace Owens falsely accuses Macrons of assassination plot in bizarre conspiracy theory - Truth or Fake - France 24](https://www.france24.com/en/tv-shows/truth-or-fake/20251126-candace-owens-falsely-accuses-the-macrons-of-assassination-plot-in-bizarre-conspiracy-theory)
+**Verification Notes:** Multiple reliable news outlets (e.g., France 24, Euronews, Daily Mail) report on Owens' public claim of being contacted by a high-ranking French government employee on or around November 20, 2025, but emphasize that no evidence has been provided to support the contact or the alleged information shared. French media and officials have dismissed the broader assassination plot as false or unsubstantiated. The claim of the contact itself is a personal assertion without independent verification, such as communication records or whistleblower confirmation. Verification would require access to private communications (e.g., emails, messages), a public statement from the alleged employee, or results from an official investigation (e.g., via French or U.S. intelligence agencies).
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:03:17](/episodes/ep-tB5SXXmd9vU.md#^t-00-03-07)
 
 > this person claims the Macrons have executed upon and paid for my assassination
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:03:17](/episodes/ep-tB5SXXmd9vU.md#^t-00-03-07)
 
@@ -5651,6 +6209,7 @@ _Verifiable statements about events, dates, people, or facts_
 > the green light was given to a small team in the National Gendarmerie Intervention Group. I am told there is one Israeli that is on the assassination squad
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:03:25](/episodes/ep-tB5SXXmd9vU.md#^t-00-03-07)
 
@@ -5663,6 +6222,7 @@ _Verifiable statements about events, dates, people, or facts_
 > this person claims that Charlie Kirk's assassin trained with the French Legion 13th Brigade with multi-state involvement
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:03:45](/episodes/ep-tB5SXXmd9vU.md#^t-00-03-07)
 
@@ -5681,6 +6241,9 @@ _Verifiable statements about events, dates, people, or facts_
 > there was a paper trail that Macron allegedly paid $1.5 million... Two assassins were hired, one Israeli, one French-Canadian woman... the money ran through the elite gentlemen's club des Saints
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Candace Owens says Macrons ordered her assassination, but provides no evidence](https://www.euronews.com/my-europe/2025/11/27/candace-owens-says-macrons-ordered-her-assassination-but-provides-no-evidence)
+**Verification Notes:** Multiple news outlets, including Euronews, Jerusalem Post, and Times of India, report on Candace Owens' claims of a $1.5 million payment by Macron for assassins (one Israeli, one French-Canadian) routed through an elite club (variously reported as 'Club des Cent' or similar to 'club des Saints'), but all emphasize that no evidence or official confirmation has been provided. The claim remains unsubstantiated allegations amid a defamation lawsuit. Verification would require access to French government financial records, bank transfer documents, or investigative reports from authorities like the FBI (to which Owens reportedly submitted claims), potentially obtainable via FOIA requests or court proceedings.
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:04:32](/episodes/ep-tB5SXXmd9vU.md#^t-00-04-29)
 
@@ -5729,12 +6292,16 @@ _Verifiable statements about events, dates, people, or facts_
 > here is the official response issued by the Élysée Palace. Nothing.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Candace Owens Returns to Air: Submits Alleged State-Backed Plot Claims to White House and FBI | IBTimes UK](https://www.ibtimes.co.uk/candace-owens-returns-air-submits-alleged-state-backed-plot-claims-white-house-fbi-1759579)
+**Verification Notes:** Multiple reliable news sources, including IBTimes UK, Daily Mail, and CNN, cover Candace Owens' allegations of a French state-backed plot against her, including claims involving President Macron. However, none report any official response or statement issued directly by the Élysée Palace addressing these specific claims. A separate report mentions a French Ministry dismissing related allegations over a spelling error, but this is not attributed to the Élysée Palace itself. The absence of any documented response from the Élysée Palace supports the claim that their official response is 'nothing'.
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:09:12](/episodes/ep-tB5SXXmd9vU.md#^t-00-08-40)
 
 > Did I report it to the White House? Of course I reported it to the White House. Did I report it to the FBI? Of course I reported it to the FBI. Did I report it to our counter-terrorism unit? Of course I reported it
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:09:59](/episodes/ep-tB5SXXmd9vU.md#^t-00-09-23)
 
@@ -5747,6 +6314,7 @@ _Verifiable statements about events, dates, people, or facts_
 > the Safari Club, man, a covert alliance of intelligence services formed in 1976, that ran operations around Africa... members in pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, and France. Israel's involved, Rhodesia, South Africa
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:13:15](/episodes/ep-tB5SXXmd9vU.md#^t-00-12-42)
 
@@ -5765,6 +6333,7 @@ _Verifiable statements about events, dates, people, or facts_
 > I did not at all hear back from the FBI on the American side... the FBI left me on read
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:15:59](/episodes/ep-tB5SXXmd9vU.md#^t-00-15-25)
 
@@ -5777,6 +6346,7 @@ _Verifiable statements about events, dates, people, or facts_
 > according to the French Foreign Legion website, between August 2nd and August 25th of this year, the legionnaires from the 4th Company, 2nd Foreign Infantry Regiment, the 6th Light Armored Brigade, were integrated with U.S. Marines of the 6th Marine Regiment for a three-week training deployment. That took place in California
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:16:32](/episodes/ep-tB5SXXmd9vU.md#^t-00-16-09)
 
@@ -5789,12 +6359,16 @@ _Verifiable statements about events, dates, people, or facts_
 > another camp began immediately. It was a joint exercise with civilians, which included military men from the Minot Air Force Base. And that joint exercise took place in Minnesota at Camp Ripley, and that ran just for a couple of days until August 27th, and that was known as Operation Valhalla
 
 **Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [OPERATION Valhalla Strike sharpens 891st MSFS defenders’ readiness](https://www.minot.af.mil/News/Article-Display/Article/4294184/operation-valhalla-strike-sharpens-891st-msfs-defenders-readiness/)
+**Verification Notes:** Official U.S. Air Force sources, including from Minot Air Force Base and U.S. Strategic Command, confirm that Operation Valhalla Strike was a real training exercise held at Camp Ripley, Minnesota, from August 24-29, 2025, involving personnel from the 891st Missile Security Forces Squadron at Minot AFB. This supports the claim's elements of location, Minot AFB involvement, and the name 'Operation Valhalla' (full name is 'Valhalla Strike'). However, the dates are inaccurate—the exercise ran until August 29, not August 27, and was about six days long, not 'a couple of days.' No reliable sources mention it as a 'joint exercise with civilians'; this appears to be an unsubstantiated interpretation, though some unverified social media posts on X speculate about civilian involvement. Multiple government and military news outlets corroborate the core facts but refute or omit the civilian and exact date claims.
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:18:27](/episodes/ep-tB5SXXmd9vU.md#^t-00-18-18)
 
 > Tyler Robinson was never part of the French Foreign Legion. If he did not serve in an American military unit, he could not have trained with the French Foreign Legion
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:18:27](/episodes/ep-tB5SXXmd9vU.md#^t-00-18-18)
 
@@ -5837,6 +6411,7 @@ _Verifiable statements about events, dates, people, or facts_
 > another joint military operation began from August 29th through to September 10th, the day that Charlie Kirk was shot. And that was known as Operation Bright Star, and that took place in Cairo, Egypt. Now, it is a biannual joint military operation. It's co-hosted by the United States and Egypt
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:22:00](/episodes/ep-tB5SXXmd9vU.md#^t-00-21-46)
 
@@ -5855,6 +6430,7 @@ _Verifiable statements about events, dates, people, or facts_
 > the Egyptian plane, SU-BTT, our yellow plane, which departed on the morning of Charlie Kirk's assassination from Provo, went over to Wilmington, Delaware
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:24](/episodes/ep-tB5SXXmd9vU.md#^t-00-23-12)
 
@@ -5867,6 +6443,7 @@ _Verifiable statements about events, dates, people, or facts_
 > Satis, which is a French company, injected $1.5 million ostensibly to paint planes... in Wilmington, Delaware
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:24:00](/episodes/ep-tB5SXXmd9vU.md#^t-00-23-42)
 
@@ -5963,6 +6540,7 @@ _Verifiable statements about events, dates, people, or facts_
 > Brigitte just falls off a cliff for six days... Brigitte's just gone for six days
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:40:24](/episodes/ep-tB5SXXmd9vU.md#^t-00-40-05)
 
@@ -6047,114 +6625,165 @@ _Verifiable statements about events, dates, people, or facts_
 > we officially have become the number one podcast in the world
 
 **Type:** Factual
+**Veracity:** Mixed (medium)
+**Source:** [Candace Owens' podcast ranked top amid Charlie Kirk's death, she tells The Daily Wire: ‘Thank you for…’ | Hindustan Times](https://www.hindustantimes.com/world-news/us-news/candace-owens-podcast-ranked-top-amid-charlie-kirks-death-she-tells-tpusa-thank-you-for-101762479536714.html)
+**Verification Notes:** Multiple news sources, including Hindustan Times, Times of India, and Black Westchester, report that Candace Owens' podcast reached #1 in the world based on Podscribe's metrics for downloads and views per episode in November 2025, supporting the claim in that specific context. However, conflicting information from X posts and other checks indicate it was #1 only briefly on Podscribe (which may not filter fake engagement), and overall rankings (e.g., on Spotify or general charts) show it lower, with Joe Rogan as #1, making the absolute 'number one in the world' claim inaccurate or overstated.
 
 ### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:01:57](/episodes/ep-vwG1juDCQZQ.md#^t-00-01-30)
 
 > her independent podcast, Candace, has reached the top global ranking according to Podscribe data
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [October 2025 Podcast Rankings: The Daily, Crime Junkie & Joe Rogan Lead as Candace Climbs to the Top — Podscribe](https://podscribe.com/podcast-rankings/november-2025)
+**Verification Notes:** Podscribe's official rankings for October 2025 confirm that Candace Owens' podcast 'Candace' reached #1 globally in the 'downloads & views per episode' metric. Multiple news sources and social media posts corroborate this, aligning with the claim's reference to Podscribe data. While other metrics (e.g., audio reach) show different top podcasts, the claim is supported by the specified data source and category.
 
 ### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:02:51](/episodes/ep-vwG1juDCQZQ.md#^t-00-02-10)
 
 > Brigitte and Emmanuel Macron for that ill-advised lawsuit
 
 **Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [Macrons file defamation suit against US influencer Candace Owens](https://www.bbc.com/news/articles/c8739w8py4jo)
+**Verification Notes:** Multiple reliable sources, including BBC, The Guardian, Fortune, and official court documents from the Superior Court of Delaware, confirm that Emmanuel and Brigitte Macron filed a 22-count defamation lawsuit against Candace Owens on July 23, 2025, over her claims that Brigitte Macron was born male. This supports the existence of the lawsuit as a verifiable fact. However, the characterization of it as 'ill-advised' is Owens' subjective interpretation and not a verifiable element.
 
 ### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:04:13](/episodes/ep-vwG1juDCQZQ.md#^t-00-03-35)
 
 > Tony Burke, thank you for banning us from an entire country
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Conservative US commentator Candace Owens refused entry to Australia ahead of national speaking tour - ABC News](https://www.abc.net.au/news/2024-10-27/candace-owens-refused-visa-for-right-wing-speaking-tour/104524074)
+**Verification Notes:** Multiple reliable news sources, including ABC News, NBC News, and The Guardian, confirm that Australian Immigration Minister Tony Burke denied Candace Owens a visa in October 2024, effectively banning her from entering the country for a speaking tour. The decision was based on character grounds and concerns she could incite discord. Australia's High Court upheld the ban in October 2025. The claim refers to Owens being banned, with 'us' likely meaning her and her associated tour or show, which aligns with the evidence.
 
 ### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:04:30](/episodes/ep-vwG1juDCQZQ.md#^t-00-04-16)
 
 > There's just four of us that work on the actual podcast every day
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Candace Owens on X](https://x.com/RealCandaceO/status/1996228880458195178)
+**Verification Notes:** Multiple posts from Candace Owens' official X account, including this one dated 2025-12-03, consistently state that her podcast team consists of just 4 people (including herself) working on it daily. This matches the claim in the podcast transcript, with named team members (Savannah, Chris, Mark, Skylar) aligning with a small team of four. No contradicting evidence from reliable sources was found in web searches or other X posts.
 
 ### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:07:42](/episodes/ep-vwG1juDCQZQ.md#^t-00-07-11)
 
 > 9 days after he was assassinated
 
 **Type:** Factual
+**Veracity:** False (high)
+**Source:** [Erika Kirk - Wikipedia](https://en.wikipedia.org/wiki/Erika_Kirk)
+**Verification Notes:** Multiple reliable sources, including Wikipedia and news articles from NBC News and The New York Times, confirm Charlie Kirk's assassination on September 10, 2025, and the memorial service on September 21, 2025. This interval is 11 days, contradicting the claim of 9 days.
 
 ### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:12:38](/episodes/ep-vwG1juDCQZQ.md#^t-00-12-18)
 
 > to have seen the autopsy report, to have seen the different evidence portions that have been collected
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** No primary sources, such as official medical examiner reports, court documents, or statements from investigators, publicly confirm or refute whether Erika Kirk has seen the autopsy report or specific evidence portions in the Charlie Kirk assassination case. An autopsy is standard for homicides under Utah law, and evidence like DNA matches and shell casings has been reported in news outlets, but details of family access are not disclosed. The claim originates from Erika Kirk's own statement in a Jesse Watters interview, as noted in social media and news discussions. Verification would require FOIA requests for medical examiner records, court filings from the prosecution against Tyler Robinson, or official statements confirming what evidence was shared with the family.
 
 ### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:13:34](/episodes/ep-vwG1juDCQZQ.md#^t-00-13-30)
 
 > She says that she has seen the autopsy report
 
 **Type:** Factual
+**Veracity:** True (medium)
+**Source:** [Erika Kirk never watched assassination video, but has message for those who celebrated it](https://www.azcentral.com/story/news/politics/arizona/2025/11/06/erika-kirk-talks-assassination-with-jesse-watters/87117084007/)
+**Verification Notes:** News reports and posts found on X about Erika Kirk's interview with Jesse Watters indicate she discussed seeing evidence related to her husband's death, including the autopsy report. The podcast transcript directly quotes her statement, and secondary sources align with this without contradiction, though a primary transcript of the full interview would provide higher confidence.
 
 ### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:32:37](/episodes/ep-vwG1juDCQZQ.md#^t-00-31-56)
 
 > who toured with Charlie Kirk the most... I headlined more Turning Point USA campus tours than Candace Owens
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** Multiple searches for counts of TPUSA campus tours headlined by Candace Owens versus others (e.g., queries on joint tours with Charlie Kirk, Campus Clash series, and speaker frequencies) yielded references to specific events like the 2018 Campus Clash tour and a 2019 UVU event co-hosted with Kirk, but no comprehensive lists or comparisons of total headline appearances. News articles and X posts confirm Owens' frequent involvement in TPUSA events from 2018 to 2024, but lack quantifiable data on who headlined the most. Verification would require internal TPUSA records, such as event logs or official speaker schedules, potentially obtainable via FOIA if publicly funded elements are involved, or direct statements from TPUSA.
 
 ### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:34:12](/episodes/ep-vwG1juDCQZQ.md#^t-00-34-00)
 
 > events are booked the semester before
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Turning Point USA - Wikipedia](https://en.wikipedia.org/wiki/Turning_Point_USA)
+**Verification Notes:** No primary sources, such as official TPUSA documents, news articles from established outlets, or university records, were found detailing the typical booking timeline for TPUSA campus events. The Wikipedia entry describes TPUSA's mission and operations but does not address event booking processes or timelines. Posts on X suggest events are usually scheduled far in advance, but these cannot be used as conclusive evidence due to potential unreliability. Verification would require access to TPUSA's internal booking records, official statements from TPUSA or university administrations, or FOIA requests for campus event approvals to confirm standard practices.
 
 ### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:48:34](/episodes/ep-vwG1juDCQZQ.md#^t-00-48-15)
 
 > Turning Point made something like $90 million in the couple of weeks following Charlie's death
 
 **Type:** Factual
+**Veracity:** True (medium)
+**Source:** [Charlie Kirk left behind a vast, lucrative network of 500,000 donors who gave Turning Point $85 million in revenue](https://finance.yahoo.com/news/charlie-kirk-left-behind-vast-080200209.html)
+**Verification Notes:** Reliable news sources like Yahoo Finance and Fortune report that Turning Point USA had $85 million in revenue from a network of 500,000 donors following Charlie Kirk's death in September 2025, indicating a significant surge in donations post-death. Additional sources from The Guardian and Newsweek confirm increased fundraising and donations after the event, with one mentioning a $1 million pledge. Posts on X also reference figures around $80-90 million in the weeks following his death, supporting the claim's approximation of $90 million in that timeframe. Prior revenue was lower (e.g., $39.2 million in 2020), suggesting the jump includes post-death contributions. The claim is supported as an approximate figure, though exact timing and breakdown are not fully detailed in primary sources.
 
 ### [What Did Charlie Kirk Discover Near The End? | Candace Ep... @ 00:01:46](/episodes/ep-yAIb-NuUh_U.md#^t-00-01-32)
 
 > Frank Turek... was next to Charlie Kirk. Actually, when he was assassinated... he was wearing the white hat. He ducks down. He is one of the people that helped to get Charlie Kirk to the vehicle. He was at the hospital.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Charlie Kirk assassination eyewitness Frank Turek recounts ride to hospital | Fox News](https://www.foxnews.com/us/charlie-kirks-final-moments-emotionally-detailed-mentor-frank-turek-he-jesus-already)
+**Verification Notes:** Multiple reliable news sources, including Fox News, CBN News, and Church Leaders, confirm Frank Turek was a few feet away from Charlie Kirk during the assassination at Utah Valley University, was wearing a white hat, ducked down after the shot, helped load Kirk into an SUV, and accompanied him to the hospital while performing CPR. Posts on X further corroborate these details from eyewitness accounts and videos.
 
 ### [What Did Charlie Kirk Discover Near The End? | Candace Ep... @ 00:09:17](/episodes/ep-yAIb-NuUh_U.md#^t-00-09-14)
 
 > Thomas Michael Camino, 31 years old, of San Juan Capistrano, was convicted in May of molesting an eight-year-old girl and trying to lure a dozen others into sexual encounters by asking for help finding his cat. Orange County Superior Court Commissioner Richard M. Aronson imposed the maximum term [eight-year sentence].
 
 **Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [Child Molester Draws an 8-Year Term in Prison : Courts: Thomas Michael Cimino, who tried to lure girls with lost-cat story, gets maximum sentence ...](https://www.latimes.com/archives/la-xpm-1995-10-07-me-54219-story.html)
+**Verification Notes:** Multiple LA Times articles from 1995 confirm the conviction in May, molestation of an 8-year-old girl, attempts to lure over a dozen children using a lost cat story, and an 8-year maximum sentence imposed by Orange County Superior Court Commissioner Richard M. Aronson on Thomas Michael Cimino, aged 31, from San Juan Capistrano. The claim accurately describes these events but incorrectly spells the last name as 'Camino' instead of 'Cimino'.
 
 ### [What Did Charlie Kirk Discover Near The End? | Candace Ep... @ 00:11:21](/episodes/ep-yAIb-NuUh_U.md#^t-00-10-36)
 
 > Despite his conviction, despite having spent years in prison for these crimes, Rob McCoy... struck up thereafter and maintained a long friendship with Thomas Camino across decades... Rob then decides that Camino should be involved in the Calvary Chapel Church... that Camino should have access to young children in a program called Home Fellowship, which put him inside the homes of children.
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [The rise of Newbury Park Pastor Rob McCoy](https://www.vcstar.com/story/news/2022/10/05/godspeak-newbury-park-pastor-rob-mccoy/8182148001/)
+**Verification Notes:** No primary sources, such as news articles, court documents, or official statements, were found in the provided web results to confirm or refute the specific claim about Rob McCoy's long-term friendship with Thomas Camino post-conviction, or Camino's alleged involvement in the Calvary Chapel Church's Home Fellowship program granting access to children in 2022. The linked source is a 2022 news article profiling McCoy but does not mention Camino or the controversy. Posts on X discuss similar allegations stemming from the podcast, but they are not reliable evidence and reflect public sentiment rather than verified facts. To verify, would require access to 2022 news archives (e.g., local California outlets like VC Star or LA Times), court records of Camino's conviction, or official church statements/records from Calvary Chapel regarding the Home Fellowship program and any related controversies.
 
 ### [What Did Charlie Kirk Discover Near The End? | Candace Ep... @ 00:19:12](/episodes/ep-yAIb-NuUh_U.md#^t-00-18-59)
 
 > Florida Calvary Chapel in Pompano Beach—the founder was a pastor named Rob Coy... he got accused of molesting a four-year-old girl.
 
 **Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [Pastor Bob Coy of Calvary Chapel accused of molesting 4-year-old | Miami Herald](https://www.miamiherald.com/news/local/community/broward/article184564528.html)
+**Verification Notes:** Multiple reliable sources, including Miami Herald, Miami New Times, The Independent, and Christian Post, confirm that Bob Coy, founder of Calvary Chapel Fort Lauderdale (which originated in Pompano Beach, Florida), was accused in 2017 of molesting a 4-year-old girl and continuing the abuse into her teens. The claim accurately describes the accusation and location but incorrectly names the pastor as 'Rob Coy' instead of 'Bob Coy'; no sources refer to a 'Rob Coy' in this context. Wikipedia and other outlets note no charges were filed, but the accusation led to his firing from a subsequent job.
 
 ### [What Did Charlie Kirk Discover Near The End? | Candace Ep... @ 00:19:36](/episodes/ep-yAIb-NuUh_U.md#^t-00-18-59)
 
 > In 2024, the lead pastor was arrested after a sting operation into online sex abuse against children.
 
 **Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [TX Pastor Arrested on Child Porn Charges, Removed by Church Board](https://julieroys.com/houston-area-pastor-hollen-arrested-child-porn-charges-removed-church-board/)
+**Verification Notes:** Multiple reliable sources, including news outlets like The Roys Report and MinistryWatch, confirm that Bruce Hollen, lead pastor of Calvary Chapel of the Woodlands, was arrested in May 2024 on charges related to possession of child pornography (a form of online sex abuse against children) and later sentenced to prison. However, no sources describe the arrest as resulting from a 'sting operation'; it appears to have stemmed from a standard investigation into child pornography possession, making that specific detail inaccurate.
 
 ### [What Did Charlie Kirk Discover Near The End? | Candace Ep... @ 00:19:52](/episodes/ep-yAIb-NuUh_U.md#^t-00-19-42)
 
 > Calvary Chapel Cary—the lead pastor resigned amid allegations of incest with his own son, bullying, drug addiction, and the misuse of funds.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [What Did Charlie Kirk Discover Near The End? | Candace Ep... @ 00:20:46](/episodes/ep-yAIb-NuUh_U.md#^t-00-20-23)
 
 > Anthony Iglesias... is currently serving time. He was found guilty in Idaho State Correctional Facility for his crimes.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [What Did Charlie Kirk Discover Near The End? | Candace Ep... @ 00:27:07](/episodes/ep-yAIb-NuUh_U.md#^t-00-26-34)
 
 > Potter's Fields Ministry... brought in Pastor Rob McCoy as a CFO to help steer the ship of their finances.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 
 </details>
@@ -6986,9 +7615,27 @@ _Forward-looking statements about future events_
 <div class="tab-content tab-content-veracity">
 
 <details open>
-<summary>False (5)</summary>
+<summary>False (19)</summary>
 
 _Claims verified as inaccurate_
+
+### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:07:35](/episodes/ep-2WEHTk0Xewg.md#^t-00-07-18)
+
+> George Zinn announced as suspect in custody by Utah police 30 minutes after the shooting
+
+**Type:** Factual
+**Veracity:** False (high)
+**Source:** [George Zinn, arrested on suspicion of obstruction after Charlie Kirk shooting, is widely known Utah political ‘gadfly’](https://www.sltrib.com/news/2025/09/10/george-zinn-what-we-know-about-man/)
+**Verification Notes:** Multiple reliable news sources, including the Salt Lake Tribune (published approximately 4.5 hours after the shooting), The Hill, BBC, and others, report on George Zinn's arrest and role, with publication times starting several hours post-shooting (shooting at 12:23 p.m. MT on September 10, 2025). No primary sources, such as official Utah police statements or news reports, indicate an announcement 30 minutes after the shooting; official details emerged later, contradicting the claim's timeline.
+
+### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:07:58](/episodes/ep-2WEHTk0Xewg.md#^t-00-07-18)
+
+> Governor Cox mentions second suspect wearing all dark clothing 12 minutes into 5:30 p.m. press conference
+
+**Type:** Factual
+**Veracity:** False (high)
+**Source:** [Utah Gov. Cox shares more details from investigation into motive of Kirk shooting suspect | PBS News](https://www.pbs.org/newshour/nation/utah-gov-cox-shares-more-details-from-investigation-into-motive-of-kirk-shooting-suspect)
+**Verification Notes:** Multiple reliable news sources, including PBS, NBC, CBS, BBC, NPR, ABC, and CNBC, report on Governor Cox's statements and interviews following the Charlie Kirk shooting, focusing on a single suspect in custody with no mention of a second suspect or any description of dark clothing. One source explicitly notes authorities' confidence that the suspect acted alone, contradicting the claim of a second suspect being mentioned in any press conference.
 
 ### [The Great Exodus From Utah? Where Did The "Egyptians" Go ... @ 00:01:15](/episodes/ep-581dILVcEE4.md#^t-00-00-44)
 
@@ -6998,6 +7645,15 @@ _Claims verified as inaccurate_
 **Veracity:** False (high)
 **Source:** [Turning Point Usa Inc - Nonprofit Explorer - ProPublica](https://projects.propublica.org/nonprofits/organizations/800835023)
 **Verification Notes:** ProPublica provides access to Turning Point USA's historical IRS Form 990 filings, which show a fiscal year ending June 30 (confirmed by posts found on X referencing filings like the one covering July 1, 2020, to June 30, 2021). Per IRS rules, for a fiscal year ending June 30, the original Form 990 due date is November 15 of the same year, and filing for a 6-month extension moves the deadline to May 15 of the following year. The claim incorrectly states that the deadline with an extension is November 15, which is actually the original deadline without extension. No evidence was found of a change in fiscal year to make November 15 the extended date.
+
+### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie K... @ 00:05:50](/episodes/ep-QZWSsq8ZWzw.md#^t-00-05-35)
+
+> Tyler Robinson has not confessed to anything
+
+**Type:** Factual
+**Veracity:** False (medium)
+**Source:** [Charlie Kirk: Tyler Robinson never went to Utah Valley University, disliked gun? Stunning twist in Charlie Kirk assassination plot - The Economic Times](https://economictimes.indiatimes.com/news/international/global-trends/us-news-candace-owens-tyler-robinson-never-went-to-utah-valley-university-disliked-gun-new-bombshell-in-charlie-kirk-assassination/articleshow/124248415.cms)
+**Verification Notes:** Multiple news sources and posts on X report that Tyler Robinson confessed or implied involvement to family members, leading to his surrender, as detailed in official affidavits and statements from Utah authorities. While he has not confessed to authorities directly and is not cooperating, the claim that he has not confessed 'to anything' is contradicted by these accounts of confessions to family.
 
 ### [Charlie Kirk And The Crossing Of The Delaware | Candace E... @ 00:11:00](/episodes/ep-SKGUzGHymcI.md#^t-00-10-15)
 
@@ -7017,6 +7673,24 @@ _Claims verified as inaccurate_
 **Source:** [Field Offices | Federal Bureau of Investigation](https://www.fbi.gov/contact-us/field-offices)
 **Verification Notes:** The official FBI website lists field offices but does not specify 920 North King Street as the address for the Wilmington Resident Agency. Provided web search results for the query including 'Google info panel' do not show or confirm that Google displays this address. Multiple X posts from users who conducted Google searches and contacted the Baltimore FBI office (which oversees Delaware) state that no Google results show FBI offices at 920 North King Street, and the actual address is 500 Delaware Avenue. One post notes the FBI moved from North King Street some time ago. This contradicts the claim that Google will likely show 920 North King Street.
 
+### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 00:06:10](/episodes/ep-YFmRH8p5lt0.md#^t-00-05-35)
+
+> there was another Egyptian plane that left three hours after—Egyptian military plane that is—three hours after Charlie Kirk was assassinated from Provo, Utah... three days after Charlie Kirk was assassinated—that's when the rest of the Egyptian crew, whoever was on that plane, departed Provo
+
+**Type:** Factual
+**Veracity:** False (medium)
+**Source:** [Who Does Candace Owens Think Killed Charlie Kirk? Ex-TPUSA Member Pushes ‘Egyptian Air Force’ Theory | US News - Times Now](https://www.timesnownews.com/world/us/us-news/who-does-candace-owens-think-killed-charlie-kirk-ex-tpusa-member-pushes-egyptian-air-force-theory-article-152989540)
+**Verification Notes:** The claim about an Egyptian military plane (tail number SU-BND) departing Provo, Utah, three days after Charlie Kirk's assassination on September 10, 2025, is contradicted by reliable news sources reporting that similar allegations by Candace Owens were debunked due to her confusion of UTC with local Utah time. No primary sources, such as FAA flight records or official statements, confirm any Egyptian military planes departing Provo around that date; instead, reports treat these as unsubstantiated conspiracy theories facing backlash. Verification would require access to official FAA or FlightAware flight logs for September 13, 2025, at Provo Airport (PVU).
+
+### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 00:20:57](/episodes/ep-YFmRH8p5lt0.md#^t-00-20-27)
+
+> Turning Point USA on February 11th... starts a chapter in Lincoln, Nebraska
+
+**Type:** Factual
+**Veracity:** False (medium)
+**Source:** [With a faculty adviser lined up, UNL prepared to recognize Turning Point USA chapter](https://journalstar.com/news/local/education/with-a-faculty-adviser-lined-up-unl-prepared-to-recognize/article_9e4003fd-bae9-52fe-874f-c3593ab2fdaf.html)
+**Verification Notes:** A September 2025 news article from the Lincoln Journal Star reports that Turning Point USA planned to establish a chapter at the University of Nebraska-Lincoln in 2024, but those plans were put on hold due to a protest that escalated into a political crisis. The university was only prepared to recognize the chapter in 2025 after securing a faculty adviser. This directly contradicts the claim of starting a chapter on February 11, 2024. No reliable sources, including official TPUSA announcements or news reports, were found confirming a chapter start on that specific date in 2024, though an earlier chapter formation was reported in 2018.
+
 ### [Why Is Everyone Crashing Out Over The Charlie Kirk Invest... @ 00:08:21](/episodes/ep-YaZfwLQ7vrI.md#^t-00-08-05)
 
 > the person responsible for dropping off those pipe bombs was... a 31-year-old woman and a United States Capitol Police officer named Shawna Rae Kirkhoff
@@ -7035,11 +7709,92 @@ _Claims verified as inaccurate_
 **Source:** [Report linked ex-Capitol Police officer to 'Jan. 6 pipe bomber': What we know | Snopes.com](https://www.snopes.com/news/2025/11/11/capitol-police-kerkhoff-j6-bomber/)
 **Verification Notes:** No reliable sources, including news articles or official statements, confirm that a CIA spokeswoman named Liz Lyon made any statement about Shawna Rae Kirkhoff (or similar spellings like Shauni Rae Kerkhoff) working in Capitol Police Campus Security or living in Alexandria, Virginia. Searches for primary sources yielded reports about Kerkhoff from outlets like Blaze Media, which later retracted its claims linking her to the Jan. 6 pipe bombs after federal authorities charged Brian J. Cole instead. X posts mention Kerkhoff's background but attribute it to investigative reports, not a CIA spokeswoman. The absence of any evidence for Liz Lyon's statement across multiple sources indicates the claim is contradicted or fabricated.
 
+### [Why Is Everyone Crashing Out Over The Charlie Kirk Invest... @ 00:22:16](/episodes/ep-YaZfwLQ7vrI.md#^t-00-22-07)
+
+> a Marine whose family knows Rob McCoy—well, Rob McCoy is friends with that Marine—that Marine's mother decides to storm into a bar and conduct a mass shooting.
+
+**Type:** Factual
+**Veracity:** False (high)
+**Source:** [Thousand Oaks shooting - Wikipedia](https://en.wikipedia.org/wiki/Thousand_Oaks_shooting)
+**Verification Notes:** Multiple reliable sources, including Wikipedia, NYT, CNN, and LA Times, confirm the shooter in the 2018 Thousand Oaks Borderline Bar incident was Ian David Long, a 28-year-old Marine veteran, who acted alone and died by suicide. There is no evidence that his mother was involved in the shooting, directly contradicting the claim. No primary sources (news articles, official statements) support a friendship or family connection between Rob McCoy and Ian David Long or his family; searches for such links yield only unsubstantiated social media speculation, making that part unverifiable but not altering the false core attribution of the shooting to the mother.
+
+### [Who Moved The Camera Right Above Charlie's Head? | Candac... @ 00:16:38](/episodes/ep-aDlhjfW6hz8.md#^t-00-16-10)
+
+> on Caldera's website, they noted that they have worked in Israel. They have a map that they note every country that they have done engineering projects in. And one of them, or two dots, are in Israel.
+
+**Type:** Factual
+**Veracity:** False (high)
+**Source:** [Caldera Engineering Official Website](https://calderaengineering.com/)
+**Verification Notes:** Searches of Caldera Engineering's website (calderaengineering.com) and related pages do not reveal any map showing engineering projects by country, nor any mention of work in Israel or dots representing projects there. Multiple site pages, including About Us, History, and Engineering sections, were reviewed with no reference to Israel or such a map. Additional searches for variations like project maps or international collaborations also yielded no supporting evidence, contradicting the claim.
+
+### [Charlie's Angels Or Demons? Disturbing Footage Emerges. |... @ 00:09:03](/episodes/ep-c5BcKF91iec.md#^t-00-08-40)
+
+> The minute Charlie was shot, he called me. Says, 'Dad, Charlie's been shot in the neck. Please call every pastor and pray.'
+
+**Type:** Factual
+**Veracity:** False (high)
+**Source:** [Pastor McCoy Caught Lying About Son in Charlie Kirk's Shooting](https://nationalfile.com/rob-mccoy-caught-in-blatant-lie-claims-mikey-had-blood-all-over-him/)
+**Verification Notes:** Multiple news articles, including from National File and Internewscast Journal, report that video footage from the September 10th incident directly contradicts Pastor Rob McCoy's account. The video shows Mikey McCoy turning and walking away less than a second after the shot, on his phone, without any blood on him or checking on Charlie Kirk, refuting the claim of an immediate call to his father describing the shooting in the neck and requesting prayers. Posts on X further highlight this timeline discrepancy, with sources agreeing the pastor's version is inaccurate.
+
+### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:00:13](/episodes/ep-iHav0PPzUz8.md#^t-00-00-00)
+
+> there were some Egyptian military men that were on the ground on September 10th in Utah on the day of Charlie Kirk's assassination
+
+**Type:** Factual
+**Veracity:** False (high)
+**Source:** [Who Does Candace Owens Think Killed Charlie Kirk? Ex-TPUSA Member Pushes ‘Egyptian Air Force’ Theory | US News - Times Now](https://www.timesnownews.com/world/us/us-news/who-does-candace-owens-think-killed-charlie-kirk-ex-tpusa-member-pushes-egyptian-air-force-theory-article-152989540)
+**Verification Notes:** Multiple reliable sources, including this article from Times Now and others like Yahoo News, refute the claim by noting it stems from Candace Owens' conspiracy theory undermined by errors such as time zone confusion (mistaking UTC for Utah time). Official investigations from the FBI and prosecutors attribute the assassination solely to Tyler James Robinson acting alone, with no mention of Egyptian military involvement in primary sources like Wikipedia, PBS News, or FBI updates. No evidence from established news outlets or government statements supports the presence of Egyptian military men in Utah on September 10, 2025.
+
+### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:05:40](/episodes/ep-iHav0PPzUz8.md#^t-00-04-55)
+
+> Tyler Robinson was not on the Woodbury Building or on campus at all
+
+**Type:** Factual
+**Veracity:** False (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** Multiple reliable sources, including Wikipedia, Fox News, CNN, and NPR, confirm that Tyler Robinson was the accused shooter who fired from a rooftop on the UVU campus, approximately 142 yards from the event. This directly contradicts the claim that he was not on the Woodbury Building (identified in reports as the sniper location) or on campus at all. The evidence includes official statements, court documents, and news reports detailing his path across campus and surrender to authorities.
+
+### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:07:30](/episodes/ep-iHav0PPzUz8.md#^t-00-07-05)
+
+> the extensive efforts by law enforcement to locate Mr. Kirk's killer will be swift and successful. Spoiler alert: no, it has not been
+
+**Type:** Factual
+**Veracity:** False (high)
+**Source:** [Suspect in Charlie Kirk killing can wear street clothes in court amid 'extraordinary' attention](https://www.pbs.org/newshour/nation/suspect-in-charlie-kirk-killing-can-wear-street-clothes-in-court-amid-extraordinary-attention)
+**Verification Notes:** Multiple reliable sources, including PBS News, BBC, and FBI statements, confirm that suspect Tyler Robinson was arrested within days of the September 10, 2025, assassination, charged with the murder, and has appeared in court with prosecutors seeking the death penalty. This contradicts the claim that law enforcement efforts were not swift and successful in locating the killer, as an arrest occurred rapidly and the investigation led to charges.
+
+### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:00:39](/episodes/ep-sImMM04XdWY.md#^t-00-00-01)
+
+> Satis certainly wasn't established to provide any maintenance to those Egyptian planes, and it was more than likely a front for something else
+
+**Type:** Factual
+**Veracity:** False (medium)
+**Source:** [Satys Aerospace expanding painting and striping operations in Delaware](https://x.com/DelawareBRT/status/1995825524510163263)
+**Verification Notes:** Reliable sources, including business announcements and aviation industry reports, confirm that Satys Aerospace (likely the 'Satis' referenced) is a legitimate French aerospace company expanding its aircraft painting and maintenance operations in Delaware, such as at Wilmington Airport. This directly contradicts the claim that it was not established for plane maintenance and is instead a front. No credible evidence supports the 'front' allegation; instead, posts on X and web sources describe routine aviation maintenance activities for Egyptian-registered planes, including partnerships with companies like Duncan Aviation and Boeing for fleet services.
+
+### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:24:15](/episodes/ep-t1YtLS1n8Vs.md#^t-00-24-03)
+
+> Scott Robbins... he was also a gubernatorial candidate. He ran for governor of Utah in 2024.
+
+**Type:** Factual
+**Veracity:** False (high)
+**Source:** [2024 Utah gubernatorial election - Wikipedia](https://en.wikipedia.org/wiki/2024_Utah_gubernatorial_election)
+**Verification Notes:** Reliable sources including Wikipedia and Ballotpedia provide comprehensive lists of candidates who ran in the 2024 Utah gubernatorial election, including those in primaries, conventions, and the general election. Scott Robbins is mentioned in the Wikipedia article in a list that appears to be endorsers or related figures (e.g., alongside Jason Chaffetz and Robert O'Brien), but not as a candidate who declared, filed, or participated in the race. No news articles, official filings, or government records confirm he ran for governor; his absence from candidate lists contradicts the claim.
+
+### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:07:42](/episodes/ep-vwG1juDCQZQ.md#^t-00-07-11)
+
+> 9 days after he was assassinated
+
+**Type:** Factual
+**Veracity:** False (high)
+**Source:** [Erika Kirk - Wikipedia](https://en.wikipedia.org/wiki/Erika_Kirk)
+**Verification Notes:** Multiple reliable sources, including Wikipedia and news articles from NBC News and The New York Times, confirm Charlie Kirk's assassination on September 10, 2025, and the memorial service on September 21, 2025. This interval is 11 days, contradicting the claim of 9 days.
+
 
 </details>
 
 <details open>
-<summary>Mixed (3)</summary>
+<summary>Mixed (22)</summary>
 
 _Claims that are partially true or require context_
 
@@ -7061,6 +7816,60 @@ _Claims that are partially true or require context_
 **Source:** [Meet the Chernicks](https://mondoweiss.net/2010/09/meet-the-chernicks/)
 **Verification Notes:** The claim that Joyce Chernick is married to Aubrey Chernick and that they fund pro-Israel causes through the David Horowitz Freedom Center is supported by reliable sources, including articles detailing their philanthropic activities and connections to conservative, pro-Israel organizations. However, the specific assertion that Joyce Chernick yelled and withdrew a $1 million donation from Turning Point USA due to Tucker Carlson's speech is primarily based on Candace Owens' statements and echoed in social media posts on X, but lacks confirmation from primary sources like official statements, TPUSA records, or established news outlets. Verification would require access to internal TPUSA donor communications, leaked audio footage mentioned in the podcast, or public statements from the Chernicks or TPUSA.
 
+### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Cand... @ 00:10:22](/episodes/ep-LATnak75Si0.md#^t-00-09-44)
+
+> Bill Ackman gave $1.75 million to stop Mamdani.
+
+**Type:** Factual
+**Veracity:** Mixed (medium)
+**Source:** [Pro-Israel Billionaire Who Led Mamdani Scaremongering Now Offers to Help NYC's Next Mayor | Common Dreams](https://www.commondreams.org/news/ackman-congratulates-mamdani)
+**Verification Notes:** Initial reports from October 2025 indicate Bill Ackman donated $1 million to Defend NYC, a super PAC opposing Mamdani. A later November 2025 report states he 'dumped nearly $2 million' into stopping Mamdani, which is close to but not exactly $1.75 million. The claim's specific amount is not precisely matched across sources, making it mixed with the higher figure supported but not exact.
+
+### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Cand... @ 00:10:41](/episodes/ep-LATnak75Si0.md#^t-00-10-30)
+
+> Airbnb co-founder Joe Gebbia gave $3.1 million to stop Mamdani.
+
+**Type:** Factual
+**Veracity:** Mixed (medium)
+**Source:** [Airbnb co-founder and Trump design official gives $2 million in support of Cuomo](https://www.nydailynews.com/2025/10/16/airbnb-co-founder-and-trump-official-gives-2-million-in-support-of-cuomo/)
+**Verification Notes:** Reliable news sources, including the New York Daily News and Yahoo News, confirm Joe Gebbia donated $2 million to super PACs supporting Andrew Cuomo in opposition to Zohran Mamdani in the 2025 NYC mayoral race. Posts found on X from journalists and Mamdani himself reference donations of $2 million or $3 million to anti-Mamdani efforts. No sources confirm the exact figure of $3.1 million, making the specific amount inaccurate, but the claim of a significant donation to stop Mamdani is supported by evidence.
+
+### [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:30:44](/episodes/ep-YA1FxrDWNIo.md#^t-00-30-08)
+
+> Charlie Kirk was taken to Timpanogos Regional Hospital... a smaller regional hospital that was a little farther away... trauma III center.
+
+**Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** Multiple reliable sources, including Wikipedia, ABC News, Reuters, AP News, and local outlets like Lehi Free Press, confirm Charlie Kirk was rushed to and pronounced dead at Timpanogos Regional Hospital in Orem, Utah, following the shooting at Utah Valley University. This supports the claim that he was taken to Timpanogos, described as a smaller regional hospital. However, the claim that it was 'a little farther away' and a 'trauma III center' is mixed: posts on X and some reports suggest Utah Valley Hospital (a Level II trauma center) was closer and better equipped for severe trauma, indicating Timpanogos may indeed be farther and less equipped (potentially Level III), but official news sources do not explicitly confirm or refute the distance or exact trauma level comparison, mixing verifiable facts with interpretive elements.
+
+### [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:32:13](/episodes/ep-YA1FxrDWNIo.md#^t-00-31-28)
+
+> Kash Patel... fired the chief of the Utah bureau... replaced her with Robert Bowles in August.
+
+**Type:** Factual
+**Veracity:** Mixed (medium)
+**Source:** [Kash Patel questions grow as it's revealed he gutted Utah FBI leadership before Charlie Kirk assassination | Daily Mail Online](https://www.dailymail.co.uk/news/article-15089759/Kash-Patel-Utah-FBI-leadership-Charlie-Kirk-assassination.html)
+**Verification Notes:** Reliable sources, including the Daily Mail article and posts on X, confirm that Kash Patel fired the chief of the Utah FBI bureau (Mehtab Syed, a woman) in August 2025, a month before the Charlie Kirk assassination in September. Multiple news outlets and X posts support the firing and gutting of Utah FBI leadership. However, no sources mention the replacement being specifically Robert Bowles, making that part of the claim unverifiable without official FBI personnel records or announcements (e.g., via FOIA request or FBI press releases).
+
+### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 00:14:15](/episodes/ep-YFmRH8p5lt0.md#^t-00-13-53)
+
+> Turning Point USA has their first-ever Faith Pastor Summit... in Nashville... on March 24th, 2023
+
+**Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [Nashville Pastors Summit 2023](https://tpusafaith.com/nashville23/)
+**Verification Notes:** Reliable sources, including Turning Point USA's official Faith website and posts on X, confirm a TPUSA Faith Pastors Summit occurred in Nashville in 2023, but the date was May 24-26, not March 24. Additionally, an official page for a 2022 summit (tpusafaith.com/summit22/) indicates the 2023 event was not the first-ever, contradicting that part of the claim. The Nashville location is accurate.
+
+### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 00:26:47](/episodes/ep-YFmRH8p5lt0.md#^t-00-26-11)
+
+> Sean Feucht is credibly accused of having been involved in fraud and embezzlement... article broke [June 2024]
+
+**Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [Sean Feucht Accused of Moral, Ethical, and Financial Failure by Former Leaders - MinistryWatch](https://ministrywatch.com/sean-feucht-accused-of-moral-ethical-and-financial-failure-by-former-leaders/)
+**Verification Notes:** Multiple reliable sources, including MinistryWatch, Christianity Today, and Religion News Service, confirm credible accusations of fraud, embezzlement, and financial misconduct against Sean Feucht from former leaders and employees, with calls for investigations. These reports were published in early June 2025, not June 2024 as claimed, making the date inaccurate while the substance of the accusations is supported.
+
 ### [Why Is Everyone Crashing Out Over The Charlie Kirk Invest... @ 00:02:11](/episodes/ep-YaZfwLQ7vrI.md#^t-00-02-01)
 
 > Timpanogos Hospital... was further and also less equipped than UV Hospital... UV was a trauma one, and Timpanogos was trauma three
@@ -7070,13 +7879,193 @@ _Claims that are partially true or require context_
 **Source:** [Utah Trauma and Stroke Centers 2023](https://ems.utah.gov/wp-content/uploads/sites/34/2023/04/Copy-of-Utah-Trauma-Stroke-2023.pdf)
 **Verification Notes:** The Utah Bureau of EMS lists Level I trauma centers in Utah as Intermountain Medical Center and University of Utah Hospital (not Utah Valley Hospital). Additional sources confirm Utah Valley Hospital is a Level II trauma center, contradicting the claim that it is Level I. Timpanogos Regional Hospital is confirmed as Level III via its official website. Thus, the trauma level for Timpanogos is accurate, but for UV Hospital is not. 'Less equipped' aligns with Level II being higher than Level III. 'Further' is context-dependent and unverifiable without the incident's exact location, though some social media discussions suggest varying distances based on site (e.g., closer from UVU).
 
+### [Why Is Everyone Crashing Out Over The Charlie Kirk Invest... @ 00:17:14](/episodes/ep-YaZfwLQ7vrI.md#^t-00-16-39)
+
+> Lance Wallnau... graduated from a military academy. His father, Carl Wallnau, was a major in the United States Air Force. Wallnau served under General Patton.
+
+**Type:** Factual
+**Veracity:** Mixed (medium)
+**Source:** [Lance Wallnau - Wikipedia](https://en.wikipedia.org/wiki/Lance_Wallnau)
+**Verification Notes:** Wikipedia confirms that Lance Wallnau attended Valley Forge Military Academy and College (supporting the graduation from a military academy) and that his father, Carl Wallnau, was an Air Force major. However, no reliable sources, including Wikipedia or other web results, mention Carl Wallnau serving under General Patton. This part of the claim appears unverifiable based on available information; verification would require access to military service records (e.g., via FOIA request to the National Archives or Department of Defense personnel files) to confirm any WWII-era service details under Patton's command.
+
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:05:44](/episodes/ep-sreYYcID-QY.md#^t-00-05-26)
+
+> It is a very clear image of Tyler Robinson, allegedly taken at 6:38 p.m. at a nearby Dairy Queen.
+
+**Type:** Factual
+**Veracity:** Mixed (medium)
+**Source:** [Was Tyler Robinson At Dairy Queen After Charlie Kirk Shooting? What We Know - Newsweek](https://www.newsweek.com/tyler-robinson-dairy-queen-charlie-kirk-2132434)
+**Verification Notes:** Multiple reliable sources, including Newsweek and Times Now, confirm that Candace Owens released a clear image purporting to show Tyler Robinson at a Dairy Queen in Orem at 6:38 p.m. after the shooting, matching the podcast claim. However, the image is unverified by law enforcement, and official sources have not confirmed its authenticity, timestamp, or that it depicts Robinson at that exact time. Fact-checks address related theories but do not debunk the image's existence, only specific interpretations. Verification would require official confirmation from Utah police, Dairy Queen surveillance records, or court documents via FOIA.
+
+### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:01:24](/episodes/ep-t1YtLS1n8Vs.md#^t-00-00-42)
+
+> Yesterday, the FBI made a rather curious announcement. They announced that they were going to cut ties with the ADL.
+
+**Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [FBI cuts ties with Anti-Defamation League, FBI director says | Reuters](https://www.reuters.com/world/us/fbi-cuts-ties-with-anti-defamation-league-2025-10-01/)
+**Verification Notes:** Multiple reliable news sources, including Reuters, AP News, Fox News, and Al Jazeera, confirm that the FBI announced cutting ties with the ADL on or around October 1, 2025, due to criticisms of the ADL's extremism glossary including Charlie Kirk's organization. However, this announcement did not occur 'yesterday' relative to the current date of December 7, 2025; the timing element is inaccurate, while the core fact of the announcement is supported.
+
+### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:02:02](/episodes/ep-t1YtLS1n8Vs.md#^t-00-01-24)
+
+> The reality is the ADL was born out of a Jewish Freemason organization known as B'nai B'rith.
+
+**Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [Anti-Defamation League - Wikipedia](https://en.wikipedia.org/wiki/Anti-Defamation_League)
+**Verification Notes:** Multiple reliable sources, including Britannica, ADL's official history page, and Wikipedia, confirm that the Anti-Defamation League (ADL) was founded in 1913 by the Independent Order of B'nai B'rith, a Jewish service organization, initially as the Anti-Defamation League of B'nai B'rith. This supports the claim that the ADL was 'born out of' B'nai B'rith, which is Jewish. However, while B'nai B'rith was founded in 1843 with a fraternal structure inspired by Freemasonry and some founders were Freemasons, it is not officially a Freemason organization but rather an independent Jewish fraternal group. The 'Freemason' label is an interpretive exaggeration not directly supported by primary sources like official histories or encyclopedias, which describe it as a Jewish service or fraternal organization.
+
+### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:03:23](/episodes/ep-t1YtLS1n8Vs.md#^t-00-02-47)
+
+> They put the organization together to defend a pedophile and a murderer. His name is Leo Frank.
+
+**Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [Leo Frank - Wikipedia](https://en.wikipedia.org/wiki/Leo_Frank)
+**Verification Notes:** The Anti-Defamation League (ADL) was founded in October 1913 by B'nai B'rith, and its announcement by Adolf Kraus explicitly mentioned the Leo Frank case as an example of anti-Semitism, supporting the claim that the organization was formed in response to his trial. However, the ADL's broader mission was to combat defamation against Jews, not solely to defend Frank personally. Regarding Frank being a 'pedophile and a murderer,' he was convicted of murdering 13-year-old Mary Phagan in 1913, with allegations of sexual assault, but the conviction was for murder only (no rape charge was upheld), and his guilt remains highly disputed—many sources, including a 1986 posthumous pardon by Georgia, suggest innocence due to anti-Semitic bias in the trial and evidence pointing to another suspect (Jim Conley). Multiple reliable sources (e.g., Britannica, New Georgia Encyclopedia) confirm the ADL's founding link to the case but note debates over Frank's guilt, making the claim a mix of accurate historical context and contested interpretation.
+
+### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:03:31](/episodes/ep-t1YtLS1n8Vs.md#^t-00-02-47)
+
+> Leo Frank was an unbelievably wealthy Jewish factory owner down in Atlanta. And this is 1913. Mary Phagan was a 13-year-old girl who worked at his pencil factory. She was found brutally raped.
+
+**Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [Leo Frank - Wikipedia](https://en.wikipedia.org/wiki/Leo_Frank)
+**Verification Notes:** Multiple reliable sources, including Wikipedia, New Georgia Encyclopedia, and History.com, confirm Leo Frank was a Jewish superintendent (not owner) of the National Pencil Company in Atlanta in 1913; Mary Phagan was a 13-year-old employee who was found strangled and sexually molested in the factory basement on April 26, 1913. The claim accurately states the year, location, Phagan's age, her employment, and that she was found raped/sexually assaulted. However, Frank was not the factory owner (he managed it) and descriptions of him as 'unbelievably wealthy' are exaggerated—he was a well-connected businessman but not extraordinarily so. Posts on X reflect ongoing debates but align with historical accounts of assault.
+
+### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:09:33](/episodes/ep-t1YtLS1n8Vs.md#^t-00-09-05)
+
+> James Comey wrote love letters to the ADL and embedded FBI agents with them.
+
+**Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [Patel cuts ties Comey’s FBI made with ADL as organization faces backlash for TPUSA criticism](https://www.foxnews.com/politics/patel-cuts-ties-comeys-fbi-made-adl-organization-faces-backlash-tpusa-criticism)
+**Verification Notes:** The claim's phrase 'love letters' is a metaphorical expression used by FBI Director Kash Patel in his announcement, not literal letters, but it reflects documented praise from Comey, such as his 2014 speech to the ADL where he highlighted their partnership and training of 47,000 law enforcement officers. The 'embedded FBI agents' element is supported by reports of a formal FBI-ADL partnership under Comey involving intelligence sharing and agent training, as confirmed in multiple outlets including Fox News, Newsweek, and historical ADL-FBI collaborations; however, 'love letters' adds interpretive exaggeration.
+
+### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:16:36](/episodes/ep-tB5SXXmd9vU.md#^t-00-16-09)
+
+> another camp began immediately. It was a joint exercise with civilians, which included military men from the Minot Air Force Base. And that joint exercise took place in Minnesota at Camp Ripley, and that ran just for a couple of days until August 27th, and that was known as Operation Valhalla
+
+**Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [OPERATION Valhalla Strike sharpens 891st MSFS defenders’ readiness](https://www.minot.af.mil/News/Article-Display/Article/4294184/operation-valhalla-strike-sharpens-891st-msfs-defenders-readiness/)
+**Verification Notes:** Official U.S. Air Force sources, including from Minot Air Force Base and U.S. Strategic Command, confirm that Operation Valhalla Strike was a real training exercise held at Camp Ripley, Minnesota, from August 24-29, 2025, involving personnel from the 891st Missile Security Forces Squadron at Minot AFB. This supports the claim's elements of location, Minot AFB involvement, and the name 'Operation Valhalla' (full name is 'Valhalla Strike'). However, the dates are inaccurate—the exercise ran until August 29, not August 27, and was about six days long, not 'a couple of days.' No reliable sources mention it as a 'joint exercise with civilians'; this appears to be an unsubstantiated interpretation, though some unverified social media posts on X speculate about civilian involvement. Multiple government and military news outlets corroborate the core facts but refute or omit the civilian and exact date claims.
+
+### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:00:07](/episodes/ep-vwG1juDCQZQ.md#^t-00-00-00)
+
+> we officially have become the number one podcast in the world
+
+**Type:** Factual
+**Veracity:** Mixed (medium)
+**Source:** [Candace Owens' podcast ranked top amid Charlie Kirk's death, she tells The Daily Wire: ‘Thank you for…’ | Hindustan Times](https://www.hindustantimes.com/world-news/us-news/candace-owens-podcast-ranked-top-amid-charlie-kirks-death-she-tells-tpusa-thank-you-for-101762479536714.html)
+**Verification Notes:** Multiple news sources, including Hindustan Times, Times of India, and Black Westchester, report that Candace Owens' podcast reached #1 in the world based on Podscribe's metrics for downloads and views per episode in November 2025, supporting the claim in that specific context. However, conflicting information from X posts and other checks indicate it was #1 only briefly on Podscribe (which may not filter fake engagement), and overall rankings (e.g., on Spotify or general charts) show it lower, with Joe Rogan as #1, making the absolute 'number one in the world' claim inaccurate or overstated.
+
+### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:02:51](/episodes/ep-vwG1juDCQZQ.md#^t-00-02-10)
+
+> Brigitte and Emmanuel Macron for that ill-advised lawsuit
+
+**Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [Macrons file defamation suit against US influencer Candace Owens](https://www.bbc.com/news/articles/c8739w8py4jo)
+**Verification Notes:** Multiple reliable sources, including BBC, The Guardian, Fortune, and official court documents from the Superior Court of Delaware, confirm that Emmanuel and Brigitte Macron filed a 22-count defamation lawsuit against Candace Owens on July 23, 2025, over her claims that Brigitte Macron was born male. This supports the existence of the lawsuit as a verifiable fact. However, the characterization of it as 'ill-advised' is Owens' subjective interpretation and not a verifiable element.
+
+### [What Did Charlie Kirk Discover Near The End? | Candace Ep... @ 00:09:17](/episodes/ep-yAIb-NuUh_U.md#^t-00-09-14)
+
+> Thomas Michael Camino, 31 years old, of San Juan Capistrano, was convicted in May of molesting an eight-year-old girl and trying to lure a dozen others into sexual encounters by asking for help finding his cat. Orange County Superior Court Commissioner Richard M. Aronson imposed the maximum term [eight-year sentence].
+
+**Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [Child Molester Draws an 8-Year Term in Prison : Courts: Thomas Michael Cimino, who tried to lure girls with lost-cat story, gets maximum sentence ...](https://www.latimes.com/archives/la-xpm-1995-10-07-me-54219-story.html)
+**Verification Notes:** Multiple LA Times articles from 1995 confirm the conviction in May, molestation of an 8-year-old girl, attempts to lure over a dozen children using a lost cat story, and an 8-year maximum sentence imposed by Orange County Superior Court Commissioner Richard M. Aronson on Thomas Michael Cimino, aged 31, from San Juan Capistrano. The claim accurately describes these events but incorrectly spells the last name as 'Camino' instead of 'Cimino'.
+
+### [What Did Charlie Kirk Discover Near The End? | Candace Ep... @ 00:19:12](/episodes/ep-yAIb-NuUh_U.md#^t-00-18-59)
+
+> Florida Calvary Chapel in Pompano Beach—the founder was a pastor named Rob Coy... he got accused of molesting a four-year-old girl.
+
+**Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [Pastor Bob Coy of Calvary Chapel accused of molesting 4-year-old | Miami Herald](https://www.miamiherald.com/news/local/community/broward/article184564528.html)
+**Verification Notes:** Multiple reliable sources, including Miami Herald, Miami New Times, The Independent, and Christian Post, confirm that Bob Coy, founder of Calvary Chapel Fort Lauderdale (which originated in Pompano Beach, Florida), was accused in 2017 of molesting a 4-year-old girl and continuing the abuse into her teens. The claim accurately describes the accusation and location but incorrectly names the pastor as 'Rob Coy' instead of 'Bob Coy'; no sources refer to a 'Rob Coy' in this context. Wikipedia and other outlets note no charges were filed, but the accusation led to his firing from a subsequent job.
+
+### [What Did Charlie Kirk Discover Near The End? | Candace Ep... @ 00:19:36](/episodes/ep-yAIb-NuUh_U.md#^t-00-18-59)
+
+> In 2024, the lead pastor was arrested after a sting operation into online sex abuse against children.
+
+**Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [TX Pastor Arrested on Child Porn Charges, Removed by Church Board](https://julieroys.com/houston-area-pastor-hollen-arrested-child-porn-charges-removed-church-board/)
+**Verification Notes:** Multiple reliable sources, including news outlets like The Roys Report and MinistryWatch, confirm that Bruce Hollen, lead pastor of Calvary Chapel of the Woodlands, was arrested in May 2024 on charges related to possession of child pornography (a form of online sex abuse against children) and later sentenced to prison. However, no sources describe the arrest as resulting from a 'sting operation'; it appears to have stemmed from a standard investigation into child pornography possession, making that specific detail inaccurate.
+
 
 </details>
 
 <details open>
-<summary>True (5)</summary>
+<summary>True (57)</summary>
 
 _Claims verified as accurate_
+
+### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:07:26](/episodes/ep-2WEHTk0Xewg.md#^t-00-07-18)
+
+> Charlie Kirk gets shot at 12:23 p.m.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [33 hours: A timeline of Charlie Kirk's shooting and the search for a suspect](https://www.npr.org/2025/09/12/nx-s1-5539285/charlie-kirk-shooting-manhunt-suspect-custody-timeline)
+**Verification Notes:** Multiple established news outlets, including NPR, Fox News, ABC News, and CNN, provide detailed timelines of the September 10, 2025, shooting at Utah Valley University, confirming that Charlie Kirk was shot at approximately 12:23 p.m. MT. This specific time is consistently reported in official updates from the FBI and law enforcement, aligning with eyewitness accounts and security footage references in the timelines.
+
+### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:07:33](/episodes/ep-2WEHTk0Xewg.md#^t-00-07-18)
+
+> Charlie Kirk was shot at 12:23 p.m.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Charlie Kirk assassination: Timeline of Utah campus shooting details attack, manhunt for suspect](https://www.foxnews.com/us/charlie-kirk-assassination-timeline-utah-campus-shooting-details-attack-manhunt-suspect)
+**Verification Notes:** Multiple established news outlets, including Fox News, ABC News, NPR, and CNN, provide detailed timelines of the Charlie Kirk shooting at Utah Valley University on September 10, 2025. These sources consistently report the shooting occurring around midday, with specific details aligning on 12:23 p.m. as the time of the incident, supported by official updates and visual timelines.
+
+### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:15:06](/episodes/ep-2WEHTk0Xewg.md#^t-00-14-28)
+
+> Tyler Robinson entered the campus at 8:07 a.m. wearing a maroon t-shirt and shorts
+
+**Type:** Factual
+**Veracity:** True (medium)
+**Source:** [Fact Check: Tyler Robinson Was NOT Wearing A Trump Shirt In Photo -- The Original Image Of Kirk Shooting Suspect Was Edited](https://www.yahoo.com/news/articles/fact-check-tyler-robinson-not-063837838.html)
+**Verification Notes:** Reliable fact-check sources confirm a real photo exists of Tyler Robinson wearing a plain shirt (described in multiple reports as maroon) and shorts, taken in the context of his arrival on campus the morning of the incident. Posts found on X align with the 8:07 a.m. timeline and outfit description, supporting the official narrative. However, confidence is medium due to some online debate questioning if it's him, though primary news sources treat the photo as authentic and of Robinson.
+
+### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:15:17](/episodes/ep-2WEHTk0Xewg.md#^t-00-15-06)
+
+> Governor Cox confirmed TMZ footage of man in maroon t-shirt and shorts is Tyler Robinson entering campus at 8:07 a.m.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Charlie Kirk shooting: Suspect Tyler Robinson seen in new video walking near UVU hours before fatal attack | Today News](https://www.livemint.com/news/us-news/charlie-kirk-shooting-suspect-tyler-robinson-seen-in-new-video-walking-near-uvu-hours-before-fatal-attack-11757881856515.html)
+**Verification Notes:** Multiple established news outlets (LiveMint, TMZ, Daily Mail, Fox News) report footage, including TMZ-obtained video, showing Tyler Robinson in a maroon t-shirt and shorts walking near or towards Utah Valley University campus at 8:07 a.m. Posts on X attribute outfit details and confirmation of an outfit change to Governor Cox's statements, aligning with official briefings where Cox revealed suspect details, supporting the claim that he confirmed the footage identification.
+
+### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:17:49](/episodes/ep-2WEHTk0Xewg.md#^t-00-17-34)
+
+> FBI recovered high-powered bolt-action rifle used in shooting in wooded area where shooter fled
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Remarks Delivered by Special Agent in Charge Robert Bohls at the September 11, 2025, Press Conference Regarding the Shooting At Utah Valley University](https://www.fbi.gov/contact-us/field-offices/saltlakecity/news/remarks-delivered-by-special-agent-in-charge-robert-bohls-at-the-september-11-2025-press-conference-regarding-the-shooting-at-utah-valley-university)
+**Verification Notes:** The FBI's official press conference remarks from September 11, 2025, confirm the recovery of a high-powered bolt-action rifle from a wooded area where the shooter fled, believed to be the weapon used in the shooting of Charlie Kirk at Utah Valley University. This is corroborated by multiple reliable news sources including Reuters, PBS, USA Today, and NBC News, all reporting the same details from the FBI announcement.
+
+### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:28:30](/episodes/ep-2WEHTk0Xewg.md#^t-00-27-57)
+
+> Tyler Robinson arrived on UVU campus in gray Dodge Challenger at 8:29 a.m. Sep 10 wearing maroon t-shirt, light-colored shorts, black hat with white logo, light-colored shoes; encountered in same clothing early morning Sep 12
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [IN THE COUNTY OF UTAH, STATE OF UTAH State of Utah vs. Tyler Robinson - Probable Cause Affidavit](https://media.deseret.com/media/misc/pdf/dn/news/RobinsonPC.pdf)
+**Verification Notes:** The claim directly matches the details in the official probable cause affidavit from the Utah County court, a primary government document, which states that surveillance footage showed Tyler Robinson arriving on UVU campus in a gray Dodge Challenger at approximately 8:29 a.m. on September 10, wearing a plain maroon t-shirt, light-colored shorts, a black hat with a white logo, and light-colored shoes. It further notes he was encountered in consistent clothing early on September 12. Multiple news outlets, including FOX 13 and ABC News, report on the arrest and reference similar details from official statements, supporting the claim's accuracy.
+
+### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:45:45](/episodes/ep-2WEHTk0Xewg.md#^t-00-45-18)
+
+> Charlie Kirk lost a two million dollar donation two days before he died because he pledged to bring Tucker Carlson to Turning Point conference
+
+**Type:** Factual
+**Veracity:** True (medium)
+**Source:** [Charlie Kirk lost donors over support for Tucker Carlson | The Jerusalem Post](https://www.jpost.com/international/article-869781)
+**Verification Notes:** The Jerusalem Post article reports on leaked messages from Candace Owens showing Charlie Kirk criticizing donors after losing a $2 million donation, directly supporting the claim's core elements. Additional web sources, including a Pravda EN article quoting Tucker Carlson, confirm the specific detail of the loss occurring two days before Kirk's death due to the pledge to feature Carlson at the Turning Point conference. Social media posts on X further corroborate this with references to a specific donor (Robert J. Shillman) withdrawing a $2 million pledge, though these are secondary and based on the same leaks and statements. No contradicting evidence was found in reliable sources.
 
 ### [The Great Exodus From Utah? Where Did The "Egyptians" Go ... @ 00:25:08](/episodes/ep-581dILVcEE4.md#^t-00-24-53)
 
@@ -7096,6 +8085,69 @@ _Claims verified as accurate_
 **Source:** [Charlie Kirk Tribute Event Set for November 16 in Jerusalem | Israel Hayom](https://www.israelhayom.com/2025/11/12/charlie-kirk-tribute-november-jerusalem/)
 **Verification Notes:** Multiple established news sources, including Israel Hayom, The Jerusalem Post, and Fox News, confirm that Pastor Rob McCoy was in Jerusalem on November 16, 2025, delivering the main address at a tribute event honoring Charlie Kirk's life, organized by The Isaiah Projects and Gideon 300 at Beit Shmuel.
 
+### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candac... @ 00:00:35](/episodes/ep-5autG89PW6w.md#^t-00-00-00)
+
+> Turning Point USA has responded to the release of the messages, so we are going to watch that. Spoiler alert: they were real, of course.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Candace Owens was not lying; Charlie Kirk's messages on Israel pressure two days before he was killed are genuine, says Turning Point](https://timesofindia.indiatimes.com/world/us/candace-owens-was-not-lying-charlie-kirks-messages-on-israel-pressure-two-days-before-he-was-killed-are-genuine-says-turning-point/articleshow/124371606.cms)
+**Verification Notes:** Reliable news outlets, including The Times of India and Newsweek, report that Turning Point USA, through spokesman Andrew Kolvet, confirmed the authenticity of the text messages released by Candace Owens. These messages involved Charlie Kirk expressing concerns about pressure from Israeli donors. Multiple X posts from various users also reflect this confirmation, aligning with the claim that TPUSA responded and admitted the messages were real.
+
+### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candac... @ 00:13:40](/episodes/ep-5autG89PW6w.md#^t-00-13-12)
+
+> Andrew Kolvet, Turning Point's spokesperson, confirmed that the messages were in fact real.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [TPUSA’s Andrew Kolvet confirms Charlie Kirk texts revealed by Candace Owens are real | RISING+](https://thehill.com/video/tpusa%E2%80%99s-andrew-kolvet-confirms-charlie-kirk-texts-revealed-by-candace-owens-are-real-rising/11148582/)
+**Verification Notes:** Multiple established news outlets, including The Hill, Newsweek, Daily Mail, and Times of India, report that Andrew Kolvet, spokesperson for Turning Point USA, confirmed the authenticity of the leaked text messages during an episode of the Charlie Kirk Show in October 2025. This aligns directly with the claim, supported by consistent reporting across sources.
+
+### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candac... @ 00:14:31](/episodes/ep-5autG89PW6w.md#^t-00-14-17)
+
+> that was a text grab, a screen grab that I had shared uh... with people, so it—it is authentic.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Charlie Kirk leaked text confirms he was livid about 'bullying' Jewish donors: 'I'm leaving pro-Israel cause' | Daily Mail Online](https://www.dailymail.co.uk/news/article-15171321/Charlie-Kirk-bullying-Jewish-Israel-donors.html)
+**Verification Notes:** Multiple established news outlets, including Daily Mail, Newsweek, and Western Journal, report that Andrew Kolvet confirmed the authenticity of the leaked text messages on the Charlie Kirk Show. This directly supports the claim that the screen grab is authentic. Additionally, Kolvet's statement about sharing it with people in government is consistent across reports and his own admission in the clip, with no contradicting evidence found.
+
+### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candac... @ 00:15:06](/episodes/ep-5autG89PW6w.md#^t-00-15-02)
+
+> It took 33 hours for authorities to get their suspect.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Charlie Kirk shooting: An unlikely end to the 33-hour hunt for suspect](https://www.bbc.com/news/articles/c784end1wxvo)
+**Verification Notes:** Multiple established news sources, including BBC, NPR, and Wikipedia, confirm that the manhunt for suspect Tyler Robinson in the Charlie Kirk shooting lasted 33 hours, directly supporting the claim. For example, BBC explicitly describes it as a '33-hour hunt,' and NPR notes the suspect was detained less than 36 hours after the shooting, aligning with the timeline.
+
+### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candac... @ 00:24:14](/episodes/ep-5autG89PW6w.md#^t-00-24-12)
+
+> We actually spoke literally the night before his tragic and untimely death. I was on a small Zoom call with him and a couple others.
+
+**Type:** Factual
+**Veracity:** True (medium)
+**Source:** [“I Spoke To Charlie Kirk About Israel The Night Before His Death…” | Josh Hammer - YouTube](https://www.youtube.com/watch?v=bOWOWoM6Wcs)
+**Verification Notes:** Josh Hammer directly states in this interview that he spoke with Charlie Kirk on a Zoom call the night before Kirk's death, discussing Israel-related topics. This is corroborated by multiple posts on X (formerly Twitter) from various users, including one citing another individual (Eitan Fischberger) confirming the call involved Hammer and Rabbi PW. No sources refute the occurrence of the call, though it is a private event without public records like Zoom logs; confidence is medium due to reliance on self-reporting and social media corroboration without independent primary evidence like participant confirmations or call records.
+
+### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Cand... @ 00:10:30](/episodes/ep-LATnak75Si0.md#^t-00-09-44)
+
+> Michael Bloomberg gave $8.3 million to a Cuomo-affiliated super PAC to stop Mamdani.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Bloomberg pours more cash into Cuomo super PAC, bringing his total contribution to $8.3M - POLITICO](https://www.politico.com/news/2025/06/18/bloomberg-donation-cuomo-super-pac-00413966)
+**Verification Notes:** Multiple reliable sources, including POLITICO and The New York Times, confirm that Michael Bloomberg donated a total of $8.3 million to a super PAC affiliated with Andrew Cuomo in the 2025 New York City mayoral race, with the explicit aim of supporting Cuomo and opposing Zohran Mamdani. Reports detail incremental donations adding up to this amount, and the super PAC's activities were focused on anti-Mamdani efforts.
+
+### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Cand... @ 00:20:45](/episodes/ep-LATnak75Si0.md#^t-00-20-09)
+
+> Bob Shulman took $2 million away from Charlie Kirk because he let Tucker Carlson hit the stage.
+
+**Type:** Factual
+**Veracity:** True (medium)
+**Source:** [Top pro-Israel TPUSA donor terminated support for Kirk in days before death, sources say - The Grayzone](https://thegrayzone.com/2025/09/22/israel-tpusa-donor-terminated-kirk/)
+**Verification Notes:** The article reports that ultra-Zionist billionaire Robert Shillman (likely a reference to 'Bob Shulman,' possibly a misspelling) ended funding for Turning Point USA due to Charlie Kirk's increasingly critical views on Israel. Additional posts found on X and other web sources, including leaks from group chat messages shared by Candace Owens, specify that Shillman withdrew a $2 million pledge specifically because Kirk refused to cancel Tucker Carlson from appearing at events. This aligns with the claim's details, though the exact name 'Shulman' appears to be a variant or error for 'Shillman.' Evidence is based on investigative reporting and secondary sources, with no direct primary document like an official statement found.
+
 ### [Charlie Kirk And The Crossing Of The Delaware | Candace E... @ 00:12:40](/episodes/ep-SKGUzGHymcI.md#^t-00-12-23)
 
 > Wilmington used to have a Dassault Falcon authorized center, but it shut down around 2021.
@@ -7114,6 +8166,33 @@ _Claims verified as accurate_
 **Source:** [Satys Aerospace signs two-year lease for Wilmington Airport hangar](https://delawarebusinesstimes.com/news/satys-lease-wilmington-hangar/)
 **Verification Notes:** Multiple reliable news sources, including Delaware Business Times, Delaware Online, and Choose Delaware, confirm that Satys Aerospace, a French aircraft finishing company, announced and signed a lease in December 2024 to take over the hangar at Wilmington Airport previously vacated by Dassault. Articles published between December 10 and December 30, 2024, detail the two-year lease with options to renew, investment plans, and the site's use for aircraft painting and finishing.
 
+### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 00:08:42](/episodes/ep-YFmRH8p5lt0.md#^t-00-08-14)
+
+> Rob McCoy hosts the first-ever Turning Point USA Faith Pastors Tour of Israel January 10th to 19th
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [2023 01.10 – Charlie Kirk Rob McCoy FAM/ MKFAM23IS](https://inspiredtravel.com/mkfam23is/)
+**Verification Notes:** The official tour website from Inspired Travel confirms that Pastor Rob McCoy hosted the TPUSA Faith Pastors' Tour to Israel from January 10 to January 19, 2023. Additional context from reliable sources indicates TPUSA Faith was founded in 2021, supporting that this 2023 tour was the inaugural one, with subsequent tours (e.g., in 2025) referenced elsewhere.
+
+### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 00:09:38](/episodes/ep-YFmRH8p5lt0.md#^t-00-08-56)
+
+> James O'Keefe gets pushed out. He's ousted from the board of his own company [Project Veritas] on February 20th
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [James O’Keefe ousted from right-wing activist group Project Veritas](https://www.cnn.com/2023/02/20/business/james-okeefe-project-veritas)
+**Verification Notes:** Multiple reliable news sources, including CNN, Fox News, The New York Times, and The Washington Times, published articles on February 20, 2023, reporting that James O'Keefe announced his ousting and departure from Project Veritas on that date. The reports confirm he was removed from leadership and the board of the organization he founded, aligning with the claim's details and specific date.
+
+### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 00:17:23](/episodes/ep-YFmRH8p5lt0.md#^t-00-16-57)
+
+> trans shooting at Covenant Elementary School in Nashville... March 27th
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [2023 Nashville school shooting - Wikipedia](https://en.wikipedia.org/wiki/2023_Nashville_school_shooting)
+**Verification Notes:** Multiple reliable sources, including Wikipedia, CNN, NPR, ABC News, and The New York Times, confirm that a mass shooting occurred on March 27, 2023, at The Covenant School (a private Christian elementary school) in Nashville, Tennessee. The shooter, 28-year-old Aiden Hale (born Audrey Hale), identified as transgender and killed three children and three adults before being killed by police. The claim's description of a 'trans shooting' aligns with the shooter's reported transgender identity, and the date and location are accurate.
+
 ### [Why Is Everyone Crashing Out Over The Charlie Kirk Invest... @ 00:12:35](/episodes/ep-YaZfwLQ7vrI.md#^t-00-12-17)
 
 > four out of the six protest permits that were issued on January 6th were issued to independent, charismatic Christian groups
@@ -7123,13 +8202,373 @@ _Claims verified as accurate_
 **Source:** [The New Apostolic Reformation drove the January 6 riots, so why was it overlooked by the House Select Committee? – Baptist News Global](https://baptistnews.com/article/the-new-apostolic-reformation-drove-the-january-6-riots-so-why-was-it-overlooked-by-the-house-select-committee/)
 **Verification Notes:** Multiple reliable sources, including Baptist News Global, The Washington Post, and archived reports, confirm that four out of six protest permits issued on January 6, 2021, were granted to independent charismatic Christian groups, many affiliated with the New Apostolic Reformation (NAR), which had been involved in efforts to overturn the 2020 election results. No contradicting evidence was found in established news outlets or government records.
 
+### [Why Is Everyone Crashing Out Over The Charlie Kirk Invest... @ 00:23:21](/episodes/ep-YaZfwLQ7vrI.md#^t-00-22-44)
+
+> a month after this, Rob McCoy then gets elected mayor of Thousand Oaks.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Councilmember Rob McCoy Has Resigned from the Thousand Oaks City Council — Conejo Valley Guide | Conejo Valley Events](https://www.conejovalleyguide.com/local-buzz/councilmember-rob-mccoy-has-resigned-from-the-thousand-oaks-city-council)
+**Verification Notes:** Multiple reliable sources, including local news outlets and biographical profiles, confirm that Rob McCoy served as Mayor of Thousand Oaks from December 2018 through December 2019. The Borderline Bar and Grill shooting occurred on November 7, 2018, so his assumption of the mayoral role in December 2018 is approximately one month later. In Thousand Oaks, the mayor is selected annually by the city council from its members, which aligns with the claim's timeline and use of 'elected' in the context of council selection.
+
+### [Who Moved The Camera Right Above Charlie's Head? | Candac... @ 00:01:09](/episodes/ep-aDlhjfW6hz8.md#^t-00-00-55)
+
+> the Senate has voted and they have passed a bipartisan resolution to designate October 14th, which is Charlie Kirk's birthday, as Charlie Kirk Remembrance Day.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Sen. Rick Scott Leads Unanimous Passage of Resolution Designating October 14th National Day of Remembrance for Charlie Kirk](https://www.rickscott.senate.gov/2025/9/sen-rick-scott-leads-unanimous-passage-of-resolution-designating-october-14th-national-day-of-remembrance-for-charlie-kirk)
+**Verification Notes:** Official Senate statements and multiple news sources (e.g., ABC News, The Hill, Axios) confirm the U.S. Senate passed a resolution by unanimous consent designating October 14—Charlie Kirk's birthday—as the National Day of Remembrance for Charlie Kirk. The passage is described as a rare bipartisan recognition, with no opposition from any senators, though sponsorship was primarily Republican.
+
+### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shoot... @ 00:06:32](/episodes/ep-adJ4LNGp84I.md#^t-00-06-18)
+
+> The judge that is in the case that is overseeing the case against Tyler Robinson is Judge Tony F. Graff Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [JUDGE TONY F. GRAF, JR.](https://www.utcourts.gov/en/about/courts/judges-bios/district-courts/fourth-district-court/tony-f-graf-jr.html)
+**Verification Notes:** Multiple reliable sources, including the official Utah Courts website, Utah State Bar press release, and news articles from outlets like Utah Policy and The Salt Lake Tribune, confirm that Judge Tony F. Graf Jr. (noting minor spelling variation from 'Graff' in the claim) was appointed to the Fourth District Court in May 2025 by Governor Spencer Cox. Additional sources explicitly link him to presiding over the case against Tyler Robinson in the Charlie Kirk matter.
+
+### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shoot... @ 00:06:52](/episodes/ep-adJ4LNGp84I.md#^t-00-06-18)
+
+> Charlie Kirk did indeed have an autopsy.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Charlie Kirk autopsy: When will a detailed report be released after Utah shooting? What we know | Hindustan Times](https://www.hindustantimes.com/world-news/us-news/charlie-kirk-autopsy-when-will-a-detailed-report-be-released-after-utah-shooting-what-we-know-101757887508612.html)
+**Verification Notes:** Multiple reliable sources, including Hindustan Times, Wikipedia, and fact-checking sites like Factually.co, confirm that an autopsy was performed on Charlie Kirk following his shooting death on September 10, 2025, as required by Utah law for homicides. While the full report remains private and unreleased publicly, the fact of the autopsy's occurrence is consistently supported across news outlets and official contexts, refuting rumors of no autopsy.
+
+### [Charlie's Angels Or Demons? Disturbing Footage Emerges. |... @ 00:07:20](/episodes/ep-c5BcKF91iec.md#^t-00-07-11)
+
+> He was wise enough at 31 to put together a plan for succession. It's very clear what they decided, and they're implementing it now.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** ['Alive and Well': Pastor Rob McCoy Reveals Future of Turning Point USA at Charlie Kirk Memorial | US News - Times Now](https://www.timesnownews.com/world/us/us-news/pastor-rob-mccoy-charlie-kirk-memorial-turning-point-usa-future-article-152868500)
+**Verification Notes:** Multiple reliable sources, including news articles from Times Now, Fox News, and Hindustan Times, as well as podcasts from CrossExamined and I Don't Have Enough FAITH to Be an ATHEIST, report on Pastor Rob McCoy discussing the future of Turning Point USA shortly after Charlie Kirk's assassination. These sources describe McCoy revealing plans to continue Kirk's legacy, with involvement from Mikey McCoy as Chief of Staff, aligning with the claim of a clear succession plan being implemented. No reliable sources contradict this, though some social media posts express skepticism.
+
+### [Charlie's Angels Or Demons? Disturbing Footage Emerges. |... @ 00:09:57](/episodes/ep-c5BcKF91iec.md#^t-00-09-25)
+
+> Mikey did not have blood anywhere near him because Mikey was behind the tent when Charlie got shot.
+
+**Type:** Factual
+**Veracity:** True (medium)
+**Source:** [Candace Owens raises big questions about Michael McCoy and claims TPUSA tried to lift him as new Charlie Kirk after shooting - The Times of India](https://timesofindia.indiatimes.com/world/us-streamers/candace-owens-raises-big-questions-about-michael-mccoy-and-claims-tpusa-tried-to-lift-him-as-new-charlie-kirk-after-shooting/articleshow/125552591.cms)
+**Verification Notes:** Multiple news sources and social media discussions, including articles from The Times of India and The Guardian, report on Candace Owens' podcast claims about discrepancies in the narrative surrounding Charlie Kirk's shooting, such as Mikey McCoy's position and lack of blood evidence. Posts on X (formerly Twitter) describe video footage showing McCoy behind the tent, walking away immediately after the shot without approaching Kirk, supporting the claim that he had no blood on him. No reliable sources refute this, though it mixes verifiable video analysis with interpretive conspiracy elements; confidence is medium due to reliance on secondary reports of video without direct primary access.
+
+### [Charlie's Angels Or Demons? Disturbing Footage Emerges. |... @ 00:24:51](/episodes/ep-c5BcKF91iec.md#^t-00-24-38)
+
+> They just shot Charlie... He's dead.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** Multiple reliable sources, including Wikipedia, FBI statements, and news outlets like The Guardian, BBC, and NBC News, confirm that Charlie Kirk was shot in the neck on September 10, 2025, at Utah Valley University during a Turning Point USA event and died shortly thereafter. The claim directly matches these verified facts about the shooting and his death.
+
+### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:12:21](/episodes/ep-iHav0PPzUz8.md#^t-00-11-49)
+
+> an Egyptian Air Force plane took off from Provo, Utah airport ... arrived on September 4th ... departed six days later on September 10th
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Who does Candace Owens think killed Charlie Kirk? Ex-TPUSA member gives bombshell update on ‘Egyptian Air Force’ theory | Hindustan Times](https://www.hindustantimes.com/world-news/us-news/who-does-candace-owens-think-killed-charlie-kirk-ex-tpusa-member-gives-bombshell-update-on-egyptian-air-force-theory-101760299828271.html)
+**Verification Notes:** Multiple established news outlets, including Hindustan Times, The Economic Times, and Times of India, report on Candace Owens' claim that an Egyptian Air Force plane (tail number SU-BTT) was present in Provo, Utah, arriving on September 4th and departing on September 10th. These reports reference flight tracking data from sources like FlightRadar, with no contradictions to the dates. Debunkings focus on time zone errors regarding the exact timing on September 10th relative to the assassination, not the arrival or departure dates themselves.
+
+### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:21:29](/episodes/ep-iHav0PPzUz8.md#^t-00-21-04)
+
+> Kash Patel shuts down Charlie Kirk foreign intelligence probe
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Official’s Access to F.B.I. Files in Charlie Kirk Case Drew Pushback - The New York Times](https://www.nytimes.com/2025/10/28/us/politics/fbi-files-charlie-kirk-case.html)
+**Verification Notes:** Multiple established news outlets, including The New York Times, Daily Mail, Hindustan Times, and Yahoo News, report that FBI Director Kash Patel pushed back against, clashed over, or shut down an inquiry by National Counterterrorism Center Director Joe Kent into potential foreign intelligence ties in Charlie Kirk's killing. These articles, published in late October 2025, confirm the claim based on sources within the administration and intelligence community.
+
+### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:07:04](/episodes/ep-mKXdKV-OBog.md#^t-00-06-30)
+
+> Kash Patel ended his press conference on September 12th with quote, 'Lastly, to my friend Charlie Kirk, rest now, my brother. We have the watch, and I'll see you in Valhalla.'
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [FBI Director Patel to Charlie Kirk: "See You in Valhalla" | Video | C-SPAN.org](https://www.c-span.org/clip/news-conference/fbi-director-patel-to-charlie-kirk-see-you-in-valhalla/5171858)
+**Verification Notes:** C-SPAN provides video evidence of Kash Patel ending his September 12, 2025, press conference with the tribute: 'Rest now, brother. We have the watch, and I will see you in Valhalla.' This is corroborated by multiple reliable sources, including FBI.gov transcripts, YouTube clips, and articles from The Guardian and Times of India, all confirming the quote and date in the context of a press conference on Charlie Kirk's killing.
+
+### [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Ca... @ 00:16:50](/episodes/ep-ozWJz2spBcI.md#^t-00-16-33)
+
+> Charlie Kirk writes in this group chat, 'Just lost another huge Jewish donor—two million a year—because we won't cancel Tucker Carlson. I'm thinking of inviting Candace Owens.' [Followed by] 'Jewish donors play into all of the stereotypes. I cannot and will not be bullied like this, leaving me no choice but to leave the pro-Israel cause.'
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Charlie Kirk leaked text confirms he was livid about 'bullying' Jewish donors: 'I'm leaving pro-Israel cause' | Daily Mail Online](https://www.dailymail.co.uk/news/article-15171321/Charlie-Kirk-bullying-Jewish-Israel-donors.html)
+**Verification Notes:** Multiple established news outlets, including Daily Mail, Haaretz, Jewish Telegraphic Agency, and Jerusalem Post, report on leaked text messages from Charlie Kirk matching the quoted content, expressing frustration with Jewish donors over not canceling Tucker Carlson and stating he is leaving the pro-Israel cause. Turning Point USA spokesman Andrew Kolvet confirmed the authenticity of the screenshots on the 'Charlie Kirk Show,' supporting the claim's accuracy.
+
+### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:09:08](/episodes/ep-sImMM04XdWY.md#^t-00-09-03)
+
+> seven days later is when it's publicly announced that Satis, that French company, has inked a deal in Wilmington, Delaware, for a hangar
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Satys Aerospace signs two-year lease for Wilmington Airport hangar](https://delawarebusinesstimes.com/news/satys-lease-wilmington-hangar/)
+**Verification Notes:** Multiple reliable news sources, including Delaware Business Times and Delaware Business Now, confirm that on December 10, 2024, Satys Aerospace (noted as 'Satis' in the claim, likely a transcription error) publicly announced a two-year lease deal for a hangar near Wilmington Airport in Delaware. This aligns with the claim's timeline of seven days after December 3rd.
+
+### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:12:06](/episodes/ep-sImMM04XdWY.md#^t-00-11-43)
+
+> This is the day that Donald Trump meets with Emmanuel Macron
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Trump, Macron display stark differences on Ukraine despite friendly veneer | Reuters](https://www.reuters.com/world/macron-arrives-white-house-ukraine-talks-with-trump-2025-02-24/)
+**Verification Notes:** Multiple reliable sources, including Reuters, Al Jazeera, The Washington Post, and official White House records, confirm that Donald Trump held a bilateral meeting with Emmanuel Macron on February 24, 2025, at the White House, focusing on issues like the Ukraine war. This directly supports the claim's specific date.
+
+### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:17:22](/episodes/ep-sImMM04XdWY.md#^t-00-16-53)
+
+> from the 20th to the 26th—that happens to be the period that Brigitte and Emmanuel Macron released to the Financial Times that they are suing me in a Delaware court
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Read the French President’s Lawsuit - The New York Times](https://www.nytimes.com/interactive/2025/07/23/world/europe/23int-macron-defemation-suit.html)
+**Verification Notes:** Multiple reliable sources, including The New York Times (July 23, 2025) and posts on X citing the Financial Times (July 23, 2025), confirm that Emmanuel and Brigitte Macron filed a defamation lawsuit against Candace Owens in Delaware Superior Court around July 23-24, 2025. This falls within the claimed period of July 20th to 26th. The RT post on X explicitly attributes the reporting to the Financial Times, supporting that the information was released or reported during that timeframe.
+
+### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:40:39](/episodes/ep-sImMM04XdWY.md#^t-00-40-25)
+
+> the footage of Tyler Robinson turning himself in... is now missing
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Surveillance video of Charlie Kirk murder suspect missing from sheriff's office](https://kutv.com/news/2news-investigates/2news-investigates-discovers-possible-missing-evidence-in-charlie-kirk-murder-case)
+**Verification Notes:** Multiple news outlets, including KUTV and NPR affiliates, report that surveillance footage of Tyler Robinson turning himself in at the Washington County Sheriff’s Office is missing or no longer available, citing a 30-day retention period in responses to public records requests. This supports the claim directly, with no contradicting evidence found in reliable sources.
+
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:02:45](/episodes/ep-sreYYcID-QY.md#^t-00-02-05)
+
+> He writes, "I can get close to it, but there is a squad car parked right by it."
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Read the text messages between Charlie Kirk accused and roommate](https://www.bbc.com/news/articles/c99g1e0z2ero)
+**Verification Notes:** Multiple reliable news sources, including BBC and ABC News, report on text messages from court documents between Tyler Robinson and his roommate detailing events around the UVU shooting. The specific quote aligns with reported exchanges about retrieving the weapon and encountering police, as described in official statements and charging documents released by authorities.
+
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:03:21](/episodes/ep-sreYYcID-QY.md#^t-00-02-45)
+
+> He says to Lance, allegedly, quote, "I worry about prints." "I had to leave it," referring to the rifle, "in a bush where I changed outfits."
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Read final texts Charlie Kirk suspect Tyler Robinson sent trans lover after assassination | Daily Mail Online](https://www.dailymail.co.uk/news/article-15107559/Tyler-Robinson-Charlie-Kirk-texts-transgender-girlfriend-Lance-Twiggs.html)
+**Verification Notes:** Multiple established news outlets, including Daily Mail, Newsweek, and The Times of India, report on the text messages between Tyler Robinson and Lance Twiggs, with details matching the quoted phrases 'I worry about prints' and 'I had to leave it in a bush where I changed outfits.' These reports are based on court documents and prosecutor revelations, supporting that the claim accurately reflects the content of the alleged texts, though some interpretations question their authenticity.
+
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:06:14](/episodes/ep-sreYYcID-QY.md#^t-00-06-07)
+
+> you're wearing jeans, and you're wearing the maroon shirt.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Did Assassin Tyler Robinson Go Straight To Buy Himself Ice Cream At Dairy Queen 17 Minutes After Killing Charlie Kirk?](https://www.freepressjournal.in/world/did-assassin-tyler-robinson-go-straight-to-buy-himself-ice-cream-at-dairy-queen-17-minutes-after-killing-charlie-kirk)
+**Verification Notes:** Multiple reliable news sources, including Free Press Journal, Times Now, and Newsweek, consistently describe the photo shared by Candace Owens as depicting Tyler Robinson wearing a maroon shirt and jeans at a Dairy Queen, matching the claim's description of the attire in the image. While the photo's authenticity and timing are debated as unverified in some reports, the specific claim about the clothing shown in the photo is supported across sources.
+
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:20:22](/episodes/ep-sreYYcID-QY.md#^t-00-20-17)
+
+> There was one shot that rang out... People saw Charlie Kirk instantly get shot in the neck
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** Multiple reliable sources, including Wikipedia, BBC, and ABC News, confirm that Charlie Kirk was fatally shot in the neck with a single shot during his event at Utah Valley University in Orem, Utah on September 10, 2025. Eyewitness accounts and video footage described in news reports indicate that people in the audience saw the shooting occur instantly, with Kirk slumping in his chair and bleeding profusely from the neck wound.
+
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:33:19](/episodes/ep-sreYYcID-QY.md#^t-00-33-10)
+
+> somebody has fabricated a monstrous big lie that Israel had something to do with Charlie Kirk's horrific murder.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Antisemitic and Anti-Israel Conspiracy Theories Follow Fatal Shooting of Charlie Kirk | ADL](https://www.adl.org/resources/article/antisemitic-and-anti-israel-conspiracy-theories-follow-fatal-shooting-charlie)
+**Verification Notes:** Multiple reliable sources, including ADL, Wikipedia, Axios, SPLC, and CNN fact-checks, confirm that conspiracy theories alleging Israel's involvement in Charlie Kirk's assassination emerged immediately after the event. These theories are described as baseless and antisemitic by established outlets, supporting Netanyahu's claim that such accusations are fabricated lies. Official denials from Netanyahu and lack of evidence for the theories further corroborate this.
+
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:33:46](/episodes/ep-sreYYcID-QY.md#^t-00-33-10)
+
+> He told me so in a letter that he sent me just a few months ago. “One of my greatest joys as a Christian,” he said, “is advocating for Israel and forming alliances with Jews to protect Judeo-Christian civilization.”
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Netanyahu rejects 'insane' conspiracy theories that Israel was behind Charlie Kirk's assassination | The Times of Israel](https://www.timesofisrael.com/liveblog_entry/netanyahu-rejects-insane-conspiracy-theories-that-israel-was-behind-charlie-kirks-assassination/)
+**Verification Notes:** Multiple reliable news outlets, including The Times of Israel, Newsweek, and The Jewish Chronicle, confirm the existence of the letter from Charlie Kirk to Benjamin Netanyahu dated May, and report Netanyahu quoting from it with phrases matching or closely aligning with the claim (e.g., expressing joy in advocating for Israel and forming alliances to defend/protect Judeo-Christian civilization). The full letter, revealed in sources like Newsweek, supports Kirk's pro-Israel stance, corroborating the quoted sentiment despite minor wording variations in reports.
+
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:34:28](/episodes/ep-sreYYcID-QY.md#^t-00-33-49)
+
+> A few weeks before his death, I spoke to Charlie. I invited him to visit Israel again.
+
+**Type:** Factual
+**Veracity:** True (medium)
+**Source:** [Fact Check: Who extended the invitation to Charlie Kirk to visit I...](https://factually.co/fact-checks/politics/charlie-kirk-israel-visit-2025-f493d0)
+**Verification Notes:** A fact-check article and other news reports from reliable outlets like The Times of Israel and Israel Hayom confirm that Israeli Prime Minister Benjamin Netanyahu extended a personal invitation to Charlie Kirk to visit Israel shortly before his death in September 2025. While some sources attribute a similar invitation to Minister Amichai Chikli for a January conference, the fact-check specifically verifies Netanyahu's involvement, supporting the claim of a conversation and invitation a few weeks prior. The exact details of the 'speech' (e.g., phone call vs. other communication) are not contradicted but not fully detailed in all sources, leading to medium confidence.
+
+### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:02:10](/episodes/ep-t1YtLS1n8Vs.md#^t-00-02-02)
+
+> Sigmund Freud was a member of B'nai B'rith.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Address to the Society of B'Nai B'Rith](https://pep-web.org/search/document/SE.020.0271A)
+**Verification Notes:** Multiple reliable sources, including academic articles from PubMed, PEP-Web, and historical archives from the Center for Jewish History, confirm that Sigmund Freud was a member of the B'nai B'rith organization in Vienna from 1897 until 1938. He delivered lectures and addresses to the group, as documented in primary texts and scholarly analyses.
+
+### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:04:24](/episodes/ep-t1YtLS1n8Vs.md#^t-00-04-15)
+
+> They still found Leo Frank guilty.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Leo Frank Case - New Georgia Encyclopedia](https://www.georgiaencyclopedia.org/articles/history-archaeology/leo-frank-case/)
+**Verification Notes:** Multiple reliable sources, including historical encyclopedias and academic accounts, confirm that Leo Frank was tried and convicted by a jury in Fulton County Superior Court in 1913 for the murder of Mary Phagan. The guilty verdict was reached on August 25, 1913, despite attempts by the defense to implicate others, such as the factory janitor Jim Conley.
+
+### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:09:07](/episodes/ep-t1YtLS1n8Vs.md#^t-00-09-05)
+
+> The FBI director, Kash Patel, announced yesterday that he ended—he has—this is over.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Kash Patel pulls the plug on ADL’s FBI training on extremism - POLITICO](https://www.politico.com/news/2025/10/01/kash-patel-pulls-the-plug-on-adls-fbi-training-on-extremism-00591105)
+**Verification Notes:** Multiple established news outlets, including Politico, Reuters, USA Today, and Newsweek, reported on October 1, 2025, that FBI Director Kash Patel announced the termination of the FBI's training and intelligence-sharing partnership with the Anti-Defamation League (ADL). Patel made the announcement via a social media post, criticizing the ADL for spying on Americans and its ties to former Director James Comey. The timing of 'yesterday' in the claim is relative to the podcast episode and aligns with the reported announcement date in sources.
+
+### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:11:09](/episodes/ep-t1YtLS1n8Vs.md#^t-00-10-35)
+
+> They curiously removed the Azov Battalion from the hate list.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [The ADL issues statement declaring Ukraine’s Azov Battalion no longer ‘far-right’](https://thegrayzone.com/2022/12/08/adl-ukraines-azov-battalion-far-right/)
+**Verification Notes:** Multiple reliable sources, including reports from The Grayzone and ADL's own communications, confirm that in November 2022, the ADL issued a statement defending the Azov Battalion, stating it had been reformed after integration into the Ukrainian National Guard and no longer exhibited far-right influences. This change in stance effectively removes it from being classified as a hate or far-right group by the ADL, supporting the claim of removal from their 'hate list' (referring to tracked extremist entities).
+
+### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:21:17](/episodes/ep-t1YtLS1n8Vs.md#^t-00-21-03)
+
+> He ran for Utah governor in 2024.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Rep. Phil Lyman running for Utah governor in 2024](https://www.sltrib.com/news/politics/2023/10/30/rep-phil-lyman-running-utah/)
+**Verification Notes:** Multiple reliable sources, including news articles from Salt Lake Tribune and Deseret News, confirm that Phil Lyman announced and ran for Utah governor in 2024, challenging incumbent Spencer Cox in the Republican primary and later continuing as a write-in candidate after losing the primary.
+
+### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:32:29](/episodes/ep-t1YtLS1n8Vs.md#^t-00-31-51)
+
+> Skordas is running as a state prosecutor.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Greg Skordas - Criminal Defense Lawyer | Lexinter Law Directory](https://attorneys.lexinter.net/lawyers/greg-skordas)
+**Verification Notes:** Multiple reliable sources, including a 2025 law directory entry and campaign website, confirm Greg Skordas is running for Utah Attorney General, a position that serves as the state's top legal officer and prosecutor. This aligns with the claim of running as a 'state prosecutor,' as the AG role involves prosecutorial duties at the state level. Additional sources like Deseret News (2020) and Ballotpedia corroborate his history of running for this office, with recent information indicating an active 2025 campaign.
+
+### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:08:30](/episodes/ep-tB5SXXmd9vU.md#^t-00-08-00)
+
+> here is the official response issued by the Élysée Palace. Nothing.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Candace Owens Returns to Air: Submits Alleged State-Backed Plot Claims to White House and FBI | IBTimes UK](https://www.ibtimes.co.uk/candace-owens-returns-air-submits-alleged-state-backed-plot-claims-white-house-fbi-1759579)
+**Verification Notes:** Multiple reliable news sources, including IBTimes UK, Daily Mail, and CNN, cover Candace Owens' allegations of a French state-backed plot against her, including claims involving President Macron. However, none report any official response or statement issued directly by the Élysée Palace addressing these specific claims. A separate report mentions a French Ministry dismissing related allegations over a spelling error, but this is not attributed to the Élysée Palace itself. The absence of any documented response from the Élysée Palace supports the claim that their official response is 'nothing'.
+
+### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:01:57](/episodes/ep-vwG1juDCQZQ.md#^t-00-01-30)
+
+> her independent podcast, Candace, has reached the top global ranking according to Podscribe data
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [October 2025 Podcast Rankings: The Daily, Crime Junkie & Joe Rogan Lead as Candace Climbs to the Top — Podscribe](https://podscribe.com/podcast-rankings/november-2025)
+**Verification Notes:** Podscribe's official rankings for October 2025 confirm that Candace Owens' podcast 'Candace' reached #1 globally in the 'downloads & views per episode' metric. Multiple news sources and social media posts corroborate this, aligning with the claim's reference to Podscribe data. While other metrics (e.g., audio reach) show different top podcasts, the claim is supported by the specified data source and category.
+
+### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:04:13](/episodes/ep-vwG1juDCQZQ.md#^t-00-03-35)
+
+> Tony Burke, thank you for banning us from an entire country
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Conservative US commentator Candace Owens refused entry to Australia ahead of national speaking tour - ABC News](https://www.abc.net.au/news/2024-10-27/candace-owens-refused-visa-for-right-wing-speaking-tour/104524074)
+**Verification Notes:** Multiple reliable news sources, including ABC News, NBC News, and The Guardian, confirm that Australian Immigration Minister Tony Burke denied Candace Owens a visa in October 2024, effectively banning her from entering the country for a speaking tour. The decision was based on character grounds and concerns she could incite discord. Australia's High Court upheld the ban in October 2025. The claim refers to Owens being banned, with 'us' likely meaning her and her associated tour or show, which aligns with the evidence.
+
+### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:04:30](/episodes/ep-vwG1juDCQZQ.md#^t-00-04-16)
+
+> There's just four of us that work on the actual podcast every day
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Candace Owens on X](https://x.com/RealCandaceO/status/1996228880458195178)
+**Verification Notes:** Multiple posts from Candace Owens' official X account, including this one dated 2025-12-03, consistently state that her podcast team consists of just 4 people (including herself) working on it daily. This matches the claim in the podcast transcript, with named team members (Savannah, Chris, Mark, Skylar) aligning with a small team of four. No contradicting evidence from reliable sources was found in web searches or other X posts.
+
+### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:13:34](/episodes/ep-vwG1juDCQZQ.md#^t-00-13-30)
+
+> She says that she has seen the autopsy report
+
+**Type:** Factual
+**Veracity:** True (medium)
+**Source:** [Erika Kirk never watched assassination video, but has message for those who celebrated it](https://www.azcentral.com/story/news/politics/arizona/2025/11/06/erika-kirk-talks-assassination-with-jesse-watters/87117084007/)
+**Verification Notes:** News reports and posts found on X about Erika Kirk's interview with Jesse Watters indicate she discussed seeing evidence related to her husband's death, including the autopsy report. The podcast transcript directly quotes her statement, and secondary sources align with this without contradiction, though a primary transcript of the full interview would provide higher confidence.
+
+### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:48:34](/episodes/ep-vwG1juDCQZQ.md#^t-00-48-15)
+
+> Turning Point made something like $90 million in the couple of weeks following Charlie's death
+
+**Type:** Factual
+**Veracity:** True (medium)
+**Source:** [Charlie Kirk left behind a vast, lucrative network of 500,000 donors who gave Turning Point $85 million in revenue](https://finance.yahoo.com/news/charlie-kirk-left-behind-vast-080200209.html)
+**Verification Notes:** Reliable news sources like Yahoo Finance and Fortune report that Turning Point USA had $85 million in revenue from a network of 500,000 donors following Charlie Kirk's death in September 2025, indicating a significant surge in donations post-death. Additional sources from The Guardian and Newsweek confirm increased fundraising and donations after the event, with one mentioning a $1 million pledge. Posts on X also reference figures around $80-90 million in the weeks following his death, supporting the claim's approximation of $90 million in that timeframe. Prior revenue was lower (e.g., $39.2 million in 2020), suggesting the jump includes post-death contributions. The claim is supported as an approximate figure, though exact timing and breakdown are not fully detailed in primary sources.
+
+### [What Did Charlie Kirk Discover Near The End? | Candace Ep... @ 00:01:46](/episodes/ep-yAIb-NuUh_U.md#^t-00-01-32)
+
+> Frank Turek... was next to Charlie Kirk. Actually, when he was assassinated... he was wearing the white hat. He ducks down. He is one of the people that helped to get Charlie Kirk to the vehicle. He was at the hospital.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Charlie Kirk assassination eyewitness Frank Turek recounts ride to hospital | Fox News](https://www.foxnews.com/us/charlie-kirks-final-moments-emotionally-detailed-mentor-frank-turek-he-jesus-already)
+**Verification Notes:** Multiple reliable news sources, including Fox News, CBN News, and Church Leaders, confirm Frank Turek was a few feet away from Charlie Kirk during the assassination at Utah Valley University, was wearing a white hat, ducked down after the shot, helped load Kirk into an SUV, and accompanied him to the hospital while performing CPR. Posts on X further corroborate these details from eyewitness accounts and videos.
+
 
 </details>
 
 <details>
-<summary>Unverifiable (12)</summary>
+<summary>Unverifiable (79)</summary>
 
 _Claims that cannot be verified (e.g., private conversations)_
+
+### [Charlie's Final Hours. What Else Is Josh Hammer Lying Abo... @ 00:35:12](/episodes/ep-2Riv3I7D0Yk.md#^t-00-34-57)
+
+> he was texting people saying they are gonna kill me. On the same day that he's on this Zoom call—this is a fact—this night Zoom call, as Josh says it was at night, ... that same day, he's texting people saying they are going to kill me.
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Charlie Kirk death: Josh Hammer slams Candace Owens over 'Jewish donor' row, drops TPUSA boss's full texts | Hindustan Times](https://www.hindustantimes.com/world-news/us-news/charlie-kirk-death-josh-hammer-slams-candace-owens-over-jewish-donor-row-drops-tpusa-bosss-full-texts-101760037740362.html)
+**Verification Notes:** Multiple news articles, including this one from Hindustan Times, report that Josh Hammer released full text messages from a group chat involving Charlie Kirk to refute Candace Owens' claims, confirming a Zoom call or long talk the night before Kirk's death. However, no reliable sources quote or confirm any specific text from Kirk saying 'they are gonna kill me' on the same day as the Zoom call. The claim mixes verifiable elements (e.g., the existence of a night call and released texts about frustration with donors) with an unsubstantiated allegation about the 'kill me' text and its timing. To verify, access to the complete original text message screenshots, timestamps, or an official investigation report (e.g., via law enforcement or court documents) would be required, as news reports do not provide this detail.
+
+### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:19:06](/episodes/ep-2WEHTk0Xewg.md#^t-00-18-53)
+
+> New York Post published exclusive photo of gun at 9:21 a.m. Mountain Time, two hours after FBI press conference
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** Searches for New York Post articles matching the claim returned no results confirming an exclusive photo of the gun published at 9:21 a.m. Mountain Time (11:21 a.m. Eastern) on September 11, 2025. Multiple reliable sources, including Wikipedia, NY Times, ABC News, and NBC News, describe official releases of photos, video, and rifle details by the FBI and law enforcement on September 11, but none attribute an exclusive gun photo to the New York Post. An FBI press conference occurred on September 11 (aligning with the 'two hours after' timeline if at ~7 a.m. MT), but the specific NY Post publication could not be located. Verification would require access to New York Post's publication archives or internal records from September 11, 2025, to confirm or refute the existence and timing of such an article.
+
+### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:23:16](/episodes/ep-2WEHTk0Xewg.md#^t-00-22-59)
+
+> Tyler Robinson in custody around 7 p.m. Sep 11 when local texts circulated he was picked up in Warner Valley
+
+**Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Tyler_James_Robinson)
+**Verification Notes:** Reliable sources, including Wikipedia (sourced from news reports) and articles from BBC, NBC, CNN, and NPR, confirm Tyler Robinson was taken into custody on the evening of September 11, 2025, after surrendering at the Washington County Sheriff's Office in Utah, facilitated by his family and a retired detective. However, no primary sources (e.g., official police statements, arrest records, or news articles) specify the exact time as around 7 p.m., mention local texts circulating at that time, or indicate he was 'picked up' in Warner Valley (sources describe a voluntary surrender, not a pickup). Posts on X suggest times like 10 p.m. or 11 p.m., but these are inconclusive and not reliable evidence. Verification would require access to official arrest logs, police reports from Washington County Sheriff's Office, or FOIA-requested documents detailing the exact timeline and location; news archives do not provide this level of specificity for the custody event.
+
+### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:26:50](/episodes/ep-2WEHTk0Xewg.md#^t-00-26-19)
+
+> President Trump announces at 6 a.m. Sep 12 with high degree of certainty suspect in custody
+
+**Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [N/A](N/A)
+**Verification Notes:** No reliable primary sources such as news articles, official statements, or government documents were found confirming that President Trump made an announcement at exactly 6 a.m. on September 12 about a suspect being in custody with a high degree of certainty. Posts on X from that date quote similar statements attributed to Trump on Fox & Friends, but X posts are inconclusive and cannot serve as factual evidence on their own. The claim mixes a specific time (6 a.m.) with a verifiable public appearance format (Fox & Friends, which airs starting at 6 a.m. ET), but without transcripts, video footage, or reports from established outlets like Fox News, CNN, or the White House, it remains unverifiable. Verification would require access to official Fox News archives, White House press releases, or contemporaneous news reports from September 12, 2025.
+
+### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:46:08](/episodes/ep-2WEHTk0Xewg.md#^t-00-46-02)
+
+> American Jewish Committee called Charlie Kirk an anti-Semite and dangerous
+
+**Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Antisemitic and Anti-Israel Conspiracy Theories Follow Fatal Shooting of Charlie Kirk | ADL](https://www.adl.org/resources/article/antisemitic-and-anti-israel-conspiracy-theories-follow-fatal-shooting-charlie)
+**Verification Notes:** No primary sources, such as an official statement from the American Jewish Committee (AJC) or reports from established news outlets, were found confirming that the AJC called Charlie Kirk an anti-Semite and 'dangerous.' Searches yielded discussions of conspiracy theories surrounding Kirk's death and corrections to unrelated antisemitism claims about him, but nothing directly supporting this specific claim. X posts repeat similar assertions, but they are inconclusive and not reliable evidence. Verification would require an official AJC press release, archived statement on their website, or direct quotes in reputable news articles (e.g., via FOIA or AJC archives if not publicly available).
 
 ### [The Great Exodus From Utah? Where Did The "Egyptians" Go ... @ 00:03:51](/episodes/ep-581dILVcEE4.md#^t-00-03-33)
 
@@ -7176,6 +8615,78 @@ _Claims that cannot be verified (e.g., private conversations)_
 **Source:** [TPUSA responds to Candace Owens' claims on Charlie Kirk with a challenge: ‘The ball is now…’ | Hindustan Times](https://www.hindustantimes.com/world-news/us-news/tpusa-responds-to-candace-owens-claims-on-charlie-kirk-with-a-challenge-the-ball-is-now-101764791896733.html)
 **Verification Notes:** No primary sources, such as a direct X post from Blake Neff or news articles, were found confirming that he posted a screenshot of a call log with his mom at 11:24 Arizona time lasting 45 seconds. Searches on X and the web yielded discussions about related timelines, phone calls, and disputes involving Blake Neff, Candace Owens, and Charlie Kirk's death, but no evidence of the specific screenshot. To verify, access to Blake Neff's full X timeline, archived posts, or official statements confirming the post would be required.
 
+### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candac... @ 00:21:25](/episodes/ep-5autG89PW6w.md#^t-00-20-43)
+
+> Three people told me off-record—two people who have this in a written communication from Charlie (Charlie Kirk), one who is a Turning Point USA donor... The very day before Charlie (Charlie Kirk) died, he expressed that he thought he was going to be killed.
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** No primary sources, such as official statements from Turning Point USA, published text messages, or reports from established news outlets (e.g., Reuters, BBC, or The Guardian), were found confirming or refuting the existence of written communications from Charlie Kirk expressing fear for his life the day before his death on September 10, 2025, or the off-record conversations with three individuals. Social media posts discuss Candace Owens' revelations and alleged screenshots, but these are inconclusive and cannot serve as evidence. The podcast episode title suggests TPUSA confirmed related text messages, but without external verification, the claim remains unsubstantiated. To verify, would require: public confirmation from the three unnamed sources, release and authentication of the written communications (e.g., via forensic analysis or court documents), or an official TPUSA statement; alternatively, investigative reporting from reliable news sources or FOIA requests for any related law enforcement records on threats to Kirk.
+
+### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candac... @ 00:28:53](/episodes/ep-5autG89PW6w.md#^t-00-28-35)
+
+> he was obviously dead before he hit the ground. That was not an entry wound that we saw. We saw an exit wound.
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Where and When Charlie Kirk Was Shot: Maps, Video and Photos - The New York Times](https://www.nytimes.com/2025/09/10/us/charlie-kirk-shooting-timeline-map.html)
+**Verification Notes:** No reliable primary sources, such as official autopsy reports, medical examiner statements, or ballistics analyses from government or law enforcement agencies, were found to confirm or refute the specifics of the wound (entry vs. exit) or the exact moment of death relative to hitting the ground. Available news articles from outlets like The New York Times provide timelines and maps of the shooting but lack forensic details. Posts on X discuss conflicting claims about entry/exit wounds but are not conclusive evidence. Verification would require access to the official autopsy report from the Utah medical examiner's office, ballistics reports from the FBI or local law enforcement, or declassified investigative documents via FOIA request.
+
+### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candac... @ 00:29:01](/episodes/ep-5autG89PW6w.md#^t-00-28-35)
+
+> Why did his shirt move the way it did? When I've shot people, their shirts didn't move like that.
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [N/A](N/A)
+**Verification Notes:** The claim is a personal anecdote from Rob O'Neill based on his combat experiences, stating that shirts did not move in a particular way when he shot people. No primary sources, such as news articles, official forensic analyses, or expert statements, were found that directly support or refute this subjective observation. Multiple search strategies (e.g., queries on ballistics, gunshot wound analysis, shirt movement in shootings, and Rob O'Neill's comments on the Brian Thompson assassination) yielded no reliable evidence addressing this specific detail. To verify, access to classified military records, videos from O'Neill's operations, or independent ballistic experiments replicating similar conditions (e.g., clothing response to specific calibers and velocities) would be required, potentially via FOIA requests to the Department of Defense or expert forensic reconstructions.
+
+### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Cand... @ 00:31:39](/episodes/ep-LATnak75Si0.md#^t-00-31-13)
+
+> Charlie Kirk was never rendered any first aid immediately; security team did not administer first aid, no gauze, no hand on wound.
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** Multiple reliable sources, including Wikipedia, The Guardian, ABC News, BBC, and FBI releases, detail the shooting event, footage availability, security aspects, and timeline, but none directly address whether immediate first aid was administered by the security team, such as applying gauze or pressure to the wound. The widow's thanks to first responders in BBC reporting implies some response occurred, but this likely refers to emergency services rather than immediate security actions. To verify, access to the full multi-angle footage (as referenced in sources like The Guardian and ABC News visual timeline) or official incident reports from UVU security, first responders, or autopsy details would be required; these could be obtained via FOIA requests to the FBI or local authorities.
+
+### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie K... @ 00:01:35](/episodes/ep-QZWSsq8ZWzw.md#^t-00-01-30)
+
+> FBI is putting an absurd amount of pressure right now on the authorities in Utah and also the rest of the government in Utah to come out and say that the Charlie Kirk case is closed
+
+**Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Utah Valley Shooting Updates | Federal Bureau of Investigation](https://www.fbi.gov/news/press-releases/utah-valley-shooting-updates)
+**Verification Notes:** No reliable primary sources, such as official FBI statements, Utah government documents, or established news outlets (e.g., ABC News, The New York Times, BBC), confirm or refute the specific claim of FBI exerting pressure on Utah authorities to declare the Charlie Kirk assassination case closed as a lone gunman incident. Web searches and X posts reveal official narratives describing the suspect Tyler James Robinson as acting alone, with FBI collaboration in the investigation, but only unsubstantiated conspiracy theories on X suggest cover-ups or undue influence. Verification would require internal communications, such as leaked emails, FOIA-requested FBI or Utah state documents, or whistleblower testimony from involved authorities to confirm any pressure.
+
+### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie K... @ 00:01:59](/episodes/ep-QZWSsq8ZWzw.md#^t-00-01-30)
+
+> FBI wants Charlie Kirk's assassination to be officially ruled lone gunman
+
+**Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** No reliable primary sources, such as official FBI statements, Utah government documents, or established news outlets (e.g., CNN, PBS, NPR), confirm or mention any FBI pressure on Utah authorities to rule the assassination as a lone gunman act or to close the case. Official reports and news articles describe the incident as perpetrated by a single suspect, Tyler James Robinson, who was charged with aggravated murder, with authorities expressing confidence he acted alone (e.g., statements from Utah Gov. Spencer Cox). The claim originates from an anonymous 'authoritative source' in the podcast, which mixes verifiable facts (e.g., the suspect's name and charges) with unverified interpretation of motives. To verify, access to internal FBI or Utah law enforcement communications, such as emails or memos via FOIA requests, or public statements from involved officials would be needed. Posts on X reflect public sentiment and conspiracy speculation but do not provide conclusive evidence.
+
+### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie K... @ 00:03:18](/episodes/ep-QZWSsq8ZWzw.md#^t-00-02-58)
+
+> There is absolutely no video which shows Tyler Robinson firing the weapon or even taking aim at Charlie Kirk
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** No reliable sources, including Wikipedia, CNN, ABC News, or other major outlets, confirm or deny the existence of video footage showing Tyler Robinson firing the weapon or taking aim at Charlie Kirk. Reports detail CCTV footage of Robinson before and after the incident, but not the act itself. The case is ongoing with a trial scheduled for 2026, and detailed evidence (such as potential surveillance videos) has not been publicly disclosed. Verification would require access to court documents, prosecution evidence lists, official police reports, or FOIA requests to the FBI or Utah authorities for any non-public video evidence.
+
+### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie K... @ 00:05:35](/episodes/ep-QZWSsq8ZWzw.md#^t-00-05-00)
+
+> Bullet was too fragmented to match Tyler's rifle
+
+**Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Charlie Kirk shooting suspect referenced fascism and memes on bullets, officials say](https://www.nbcnews.com/tech/internet/charlie-kirk-shooting-suspect-fascism-memes-bullets-tyler-robinson-rcna230950)
+**Verification Notes:** No reliable primary sources, such as official forensic reports, court documents, or statements from law enforcement, were found detailing the condition of the bullet or any ballistic matching to Tyler Robinson's rifle. Available news articles discuss the suspect and ammunition but do not address bullet fragmentation or matching. Social media posts on X mention conflicting claims (e.g., some alleging a match, others questioning evidence), but these are not conclusive. Verification would require access to autopsy reports, ballistic analysis from the FBI or ATF, or court filings from the ongoing case, potentially obtainable via FOIA requests or trial proceedings.
+
 ### [Charlie Kirk And The Crossing Of The Delaware | Candace E... @ 00:03:23](/episodes/ep-SKGUzGHymcI.md#^t-00-02-39)
 
 > on the morning of Charlie Kirk's assassination, the plane... departed on the morning at 7:14 a.m. local time from Provo, Utah. And it's headed to Wilmington, Delaware. It arrived in Wilmington, Delaware at 11:51 a.m. Eastern.
@@ -7211,6 +8722,42 @@ _Claims that cannot be verified (e.g., private conversations)_
 **Source:** [Megyn Kelly gets into heated exchange at Turning Point USA event | CNN Politics](https://www.cnn.com/2025/09/25/politics/video/megyn-kelly-turning-point-usa-tour-charlie-kirk-contd-vrtc)
 **Verification Notes:** Conflicting statements exist from primary sources involved in the event: Frank Turek claimed in an interview on the Megyn Kelly Show that Charlie Kirk's team used drones to monitor the crowd and sent video footage, while Brian Harpole, head of security, stated in a podcast that drones were not allowed and not used. No independent reliable sources, such as news articles, official TPUSA statements, police reports from the assassination investigation, or FAA drone flight records, were found to confirm or refute the claim. Verification would require access to FAA flight logs for September 10, 2025, at Utah Valley University or official documents from the law enforcement investigation into the event.
 
+### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 00:04:26](/episodes/ep-YFmRH8p5lt0.md#^t-00-04-11)
+
+> that plane we covered, the tail number SUBTT—just so you know—like a year earlier, that plane was in Utah at the same time as Charlie Kirk
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Who does Candace Owens think killed Charlie Kirk? Ex-TPUSA member gives bombshell update on ‘Egyptian Air Force’ theory | Hindustan Times](https://www.hindustantimes.com/world-news/us-news/who-does-candace-owens-think-killed-charlie-kirk-ex-tpusa-member-gives-bombshell-update-on-egyptian-air-force-theory-101760299828271.html)
+**Verification Notes:** No reliable sources, such as news articles or flight tracking records, were found to support or refute the claim that a plane with tail number SUBTT (likely referring to an Egyptian-registered aircraft, possibly SU-BTT) was in Utah in 2023 at the same time as Charlie Kirk or a Turning Point USA event. Available web results and X posts focus on conspiracy theories related to a 2025 Egyptian Air Force plane sighting in Utah but do not address 2023. Verification would require historical flight logs from databases like FlightAware or ADS-B Exchange for the specific tail number, cross-referenced with news reports or official schedules of Charlie Kirk's appearances in Utah in 2023.
+
+### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 00:10:31](/episodes/ep-YFmRH8p5lt0.md#^t-00-10-20)
+
+> Sean Feucht is announced as the Turning Point USA Faith contributor on February 27th
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Sean Feucht and TPUSA Faith Launch 50-State ‘Kingdom to the Capitol’ Tour | People For](https://www.peoplefor.org/rightwingwatch/post/sean-feucht-and-tpusa-faith-launch-50-state-kingdom-to-the-capitol-tour)
+**Verification Notes:** No reliable sources confirm the exact date of February 27th (likely 2023 based on context) for Sean Feucht's announcement as a Turning Point USA Faith contributor. Available sources discuss a partnership for the 'Kingdom to the Capitol' tour launching in March 2023, but do not specify an announcement on February 27th. To verify, an official TPUSA press release, social media post, or news article dated February 27, 2023, would be required; further searches with varied queries (e.g., exact date archives) yielded no such evidence.
+
+### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 00:19:49](/episodes/ep-YFmRH8p5lt0.md#^t-00-19-41)
+
+> Mikey McCoy's promoted to the chief of staff of Turning Point USA. I have the internal email, so that is a fact. He gets the promotion January 3, 2024
+
+**Type:** Factual
+**Veracity:** Unverifiable (medium)
+**Source:** [Mikey McCoy | Historica Wiki | Fandom](https://historica.fandom.com/wiki/Mikey_McCoy)
+**Verification Notes:** Multiple sources, including news articles and LinkedIn profiles, confirm Mikey McCoy held the position of Chief of Staff at Turning Point USA starting in 2024 and continuing into 2025. However, no reliable public sources specify the exact promotion date of January 3, 2024. The claim references an internal email, which cannot be independently verified without access to Turning Point USA's internal communications or official announcements. To confirm the precise date, access to internal emails, HR records, or a FOIA-equivalent request (if applicable) would be required, but as a private organization, such details are not publicly available.
+
+### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 01:01:27](/episodes/ep-YFmRH8p5lt0.md#^t-01-01-05)
+
+> one of those planes... the tail number for that plane was Googled by Israel on September 8th—two days before the assassination
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Charlie Kirk murder: 10 bombshell statements by Candace Owens – Tyler Robinson not the killer to ‘Egyptian plane’ theory | Hindustan Times](https://www.hindustantimes.com/world-news/us-news/charlie-kirk-murder-10-bombshell-statements-by-candace-owens-tyler-robinson-not-the-killer-to-egyptian-plane-theory-101764822111726.html)
+**Verification Notes:** No reliable sources, including news articles or official records, provide evidence that a specific plane tail number was searched on Google from Israel on September 8th, two days before Charlie Kirk's assassination on September 10th. The claim appears in Candace Owens' podcast as part of broader conspiracy theories involving planes and Israel, but it lacks supporting documentation. Verification would require access to Google's private search logs or data (e.g., via subpoena or internal records), which are not publicly available. Google Trends was suggested in the transcript, but it does not offer granular, country-specific data for obscure terms like tail numbers on exact dates. Multiple searches across web and X/Twitter yielded discussions of Owens' related claims (e.g., Egyptian planes, Israel links) but no confirmation or refutation of this specific Google search allegation.
+
 ### [Why Is Everyone Crashing Out Over The Charlie Kirk Invest... @ 00:02:01](/episodes/ep-YaZfwLQ7vrI.md#^t-00-01-21)
 
 > the feds immediately seized the footage at Timpanogos Hospital
@@ -7238,11 +8785,461 @@ _Claims that cannot be verified (e.g., private conversations)_
 **Source:** [January 6 United States Capitol attack - Wikipedia](https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack)
 **Verification Notes:** No primary sources, established news outlets, or official documents were found confirming that exactly fifteen pastors and leaders surrounded Donald Trump at the White House before the January 6 Stop the Steal rally to discuss spiritual warfare. Posts found on X mention 15 NAR apostles and prophets meeting with high-level Trump administration officials on December 29, 2020, but this information is inconclusive for a controversial topic, does not specify the location as the White House, and does not confirm direct interaction with Trump himself. The cited Wikipedia page provides general context on January 6 events but lacks details on this specific claim. To verify, access to White House visitor logs from late December 2020, FOIA-requested documents from the Trump administration, or firsthand accounts from participants (e.g., via investigative reports or books by experts like Matthew D. Taylor) would be needed.
 
+### [Why Is Everyone Crashing Out Over The Charlie Kirk Invest... @ 00:20:07](/episodes/ep-YaZfwLQ7vrI.md#^t-00-19-33)
+
+> Sources within Turning Point's faith department tell me that Lance Wallnau was running the show behind the scenes through funding—that he put a ton of money into Turning Point USA Faith operations.
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [A far-right US youth group is ramping up its movement to back election deniers | The far right | The Guardian](https://www.theguardian.com/us-news/2024/mar/02/far-right-youth-group-turning-point-charlie-kirk)
+**Verification Notes:** Searches across web sources and X posts reveal evidence of partnerships and collaborations between Lance Wallnau and Turning Point USA (TPUSA), including joint tours like the Courage Tour and efforts to mobilize voters in swing states, but no reliable primary sources (e.g., news articles, financial disclosures, or official statements) confirm or refute Wallnau providing significant funding to TPUSA Faith operations. Claims of behind-the-scenes funding appear based on anonymous internal sources, which are inherently unverifiable without public documentation. Verification would require access to TPUSA's detailed IRS Form 990 donor schedules, audited financial statements, or confirmed disclosures from Wallnau or TPUSA officials; no such records are publicly available in searched sources.
+
+### [Who Moved The Camera Right Above Charlie's Head? | Candac... @ 00:07:29](/episodes/ep-aDlhjfW6hz8.md#^t-00-07-14)
+
+> he said, look, as you can see in the footage, I was sitting right to the left of Charlie when Charlie got shot. And I instantly knew that he was not going to be OK. I instantly knew that he was dead.
+
+**Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [How the Charlie Kirk shooting unfolded – in maps, videos and images | Charlie Kirk shooting | The Guardian](https://www.theguardian.com/us-news/2025/sep/11/charlie-kirk-shooting-maps-videos-images)
+**Verification Notes:** The claim recounts a private conversation where an unnamed individual describes their position next to Charlie Kirk during the shooting and their immediate assessment of his condition. While news sources like The Guardian provide visual timelines, maps, and videos of the incident, they do not identify specific individuals seated to Kirk's left or confirm actions like securing footage. Social media posts discuss footage and suspicions about people near Kirk, but these are not reliable primary sources. Verification would require the individual's identity, access to unedited event footage for position confirmation, and possibly call records or statements from Candace Owens or the individual to substantiate the conversation.
+
+### [Who Moved The Camera Right Above Charlie's Head? | Candac... @ 00:08:23](/episodes/ep-aDlhjfW6hz8.md#^t-00-07-53)
+
+> he says, because the first thing that I thought is that I better secure the footage and be helpful and give that footage, hand that footage over to the feds.
+
+**Type:** Factual
+**Veracity:** Unverifiable (medium)
+**Source:** [Candace Owens says a woman was seen with Charlie Kirk shooter, 'FBI didn't release video to frame Tyler Robinson' - The Times of India](https://timesofindia.indiatimes.com/world/us/candace-owens-says-a-woman-was-seen-with-charlie-kirk-shooter-fbi-didnt-release-video-to-frame-tyler-robinson/articleshow/124277202.cms)
+**Verification Notes:** No primary sources, such as official statements from TPUSA, the FBI, or investigative reports, confirm or refute that a specific individual secured and handed over footage to federal authorities following Charlie Kirk's shooting. News articles discuss Owens' claims about unreleased FBI-held video related to the incident, but do not verify the specific conversation or action described. Verification would require access to FBI investigative records, TPUSA internal communications, or court documents from the ongoing investigation, potentially obtainable via FOIA request.
+
+### [Who Moved The Camera Right Above Charlie's Head? | Candac... @ 00:10:36](/episodes/ep-aDlhjfW6hz8.md#^t-00-09-54)
+
+> I watched the footage... there is nothing gory about this shot at all... there's no blood from the back. There is no blood.
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** ["I'm very confused": Candace Owens reviews footage from the camera behind Charlie Kirk during his assassination and claims "there's no blood"](https://www.soapcentral.com/pop-culture/news-i-m-confused-candace-owens-reviews-footage-camera-behind-charlie-kirk-assassination-claims-there-s-blood)
+**Verification Notes:** Multiple news sources, including Soap Central and Times of India, report Candace Owens' claim that she viewed private footage from behind Charlie Kirk showing no blood or gore. However, the footage has not been publicly released, and no independent verification from official sources (e.g., forensic reports or law enforcement) confirms or refutes what it depicts. Verification would require public release of the footage, an official autopsy report detailing wound ballistics, or FOIA-requested documents from the FBI or local authorities investigating the September 10, 2025, shooting.
+
+### [Who Moved The Camera Right Above Charlie's Head? | Candac... @ 00:28:05](/episodes/ep-aDlhjfW6hz8.md#^t-00-27-56)
+
+> I spoke at Turning Point's conference—two conferences—last year... I went on tour with Turning Point last year. Live Free Tour, Charlie Kirk and Candace Owens.
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Turning Point USA - Wikipedia](https://en.wikipedia.org/wiki/Turning_Point_USA)
+**Verification Notes:** No reliable sources, such as news articles or official TPUSA announcements, were found confirming Candace Owens spoke at two TPUSA conferences or participated in the Live Free Tour with Charlie Kirk in 2024 ('last year' relative to the 2025 podcast date). Available sources, including Wikipedia, reference her involvement with TPUSA events in 2018 but provide no evidence for 2024. To verify, access to TPUSA's official 2024 event archives, speaker lists, video footage, or contemporaneous news reports from established outlets covering the specific conferences and tour dates would be required. The claim mixes verifiable past association with TPUSA (e.g., 2018 events) but the specific timing and details for 2024 remain unsupported.
+
+### [Who Moved The Camera Right Above Charlie's Head? | Candac... @ 00:33:18](/episodes/ep-aDlhjfW6hz8.md#^t-00-32-45)
+
+> This message is from May... Charlie sent me his tweet... And he wrote back—as you can see, and the date here is May 22nd of this year—'It totally is.'
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Candace Owens was not lying; Charlie Kirk's messages on Israel pressure two days before he was killed are genuine, says Turning Point](https://timesofindia.indiatimes.com/world/us/candace-owens-was-not-lying-charlie-kirks-messages-on-israel-pressure-two-days-before-he-was-killed-are-genuine-says-turning-point/articleshow/124371606.cms)
+**Verification Notes:** No reliable sources confirm or refute the existence of a specific text message from Charlie Kirk to Candace Owens dated May 22, 2025, with the described content about free speech censorship. While Turning Point USA has confirmed the authenticity of other leaked messages from Kirk regarding Israel-related pressures (from two days before his death), this particular May 22 exchange is not mentioned in any news articles, official statements, or verified documents. Verification would require access to original message screenshots, the full podcast episode for visual confirmation, or direct statements from Turning Point USA or other involved parties addressing this specific date and content.
+
+### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shoot... @ 00:00:52](/episodes/ep-adJ4LNGp84I.md#^t-00-00-36)
+
+> We have now confirmed that there was indeed a woman who was with the shooter in the footage that was captured by the houses nearby the area. And for whatever reason, the FBI has not yet released or even acknowledged that that footage exists.
+
+**Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Explosive allegation in Charlie Kirk shooting case: FBI suppressed video linking woman to Tyler Robinson? - The Economic Times](https://economictimes.indiatimes.com/news/international/global-trends/us-news-candace-owens-explosive-allegation-in-charlie-kirk-shooting-case-fbi-suppressed-video-linking-woman-to-tyler-robinson/articleshow/124344883.cms?from=mdr)
+**Verification Notes:** No primary sources, such as official FBI statements or documents, confirm the existence of footage showing a woman with the shooter (Tyler Robinson) or any suppression by the FBI. Established news outlets like BBC, CBS, CNN, and The Guardian report on the shooting investigation, suspect details, evidence (e.g., DNA, confessions), and motives but do not mention any such footage or woman. The claim originates from Candace Owens' podcast and social media posts on X, with one news article (The Economic Times) reporting her allegation without independent verification. To verify, access to the alleged door cam footage, FBI investigative records (via FOIA request), or confirmation from multiple reliable outlets that have reviewed the evidence would be needed. The lack of corroboration in official or major news sources for this high-profile case suggests it remains an unsubstantiated claim.
+
+### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shoot... @ 00:02:16](/episodes/ep-adJ4LNGp84I.md#^t-00-02-10)
+
+> The venue was indeed secured in quick order, but that was because they had help from the White House, and Turning Point did not book that venue back in May, so we can formally debunk that. I was told that the White House stepped in and put in a personal phone call to the event coordinator. And they actually did already have an event that was scheduled. And the White House simply asked those people if they would be willing to move or reschedule their event. It was apparently supposed to be an RV show.
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Memorial service of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Memorial_service_of_Charlie_Kirk)
+**Verification Notes:** The memorial service for Charlie Kirk is well-documented as occurring at State Farm Stadium on September 21, 2025, with over 90,000 attendees and speeches from President Trump, Vice President Vance, and others. However, no reliable sources (including news articles from Fox News, CBS, PBS, NBC, USA Today, CNN, and Wikipedia) confirm or refute White House involvement in securing the venue, a personal phone call to the event coordinator, or the rescheduling of a scheduled RV show. X posts discuss rumors of a pre-booking in May but do not provide evidence for the claim's details. To verify, access to State Farm Stadium rental agreements, official White House or Turning Point USA statements on the booking process, or confirmation from RV show organizers about rescheduling would be required. No such primary evidence was found despite searching with variations on queries related to venue booking, White House involvement, and RV show rescheduling.
+
+### [Charlie's Angels Or Demons? Disturbing Footage Emerges. |... @ 00:10:34](/episodes/ep-c5BcKF91iec.md#^t-00-09-57)
+
+> It is exactly 834 milliseconds from the time that you hear the shot. That is how long it takes for Mikey McCoy to put the phone to his ear.
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Transcript of Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 from Candace podcast](https://podcasts.happyscribe.com/candace/charlie-s-angels-or-demons-disturbing-footage-emerges)
+**Verification Notes:** The claim originates from the podcast's own analysis of slowed-down video footage, stating exactly 834 milliseconds between the shot sound and Mikey McCoy raising his phone. No independent reliable sources (e.g., news articles from established outlets like Daily Mail or Wikipedia entries) confirm or refute this precise measurement. Posts on X repeat similar timings (e.g., 0.8 seconds) but vary (some claim before the shot) and are not conclusive evidence. To verify, access to the original high-resolution video footage of the September 10, 2025, event and precise audio-visual timing tools would be required for independent measurement.
+
+### [Charlie's Angels Or Demons? Disturbing Footage Emerges. |... @ 00:39:39](/episodes/ep-c5BcKF91iec.md#^t-00-38-56)
+
+> Since the beginning of TPUSA, I knew in my gut that I might get wiped out at any time. I cannot explain it, but I dream about it all the time.
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** The claim refers to alleged private messages from Charlie Kirk to Candace Owens on April 6, 2018, expressing a premonition of his death. No primary sources, such as the actual messages, news articles, or official statements from Turning Point USA, were found to confirm or refute this. Searches on the web and X (formerly Twitter) for references to these messages, premonitions, or dreams yielded no supporting evidence. Verification would require access to Kirk's private communications (e.g., via subpoena or release by TPUSA officials like Mikey McCoy) or independent corroboration from involved parties. The cited Wikipedia page on Kirk's 2025 assassination provides context on his life and death but does not mention any 2018 premonitions.
+
+### [Charlie's Angels Or Demons? Disturbing Footage Emerges. |... @ 00:39:44](/episodes/ep-c5BcKF91iec.md#^t-00-39-39)
+
+> I believe you were the piece that God meant me to meet that will finish the fight.
+
+**Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Charlie Kirk predicted his own death before murder? Candace Owens shares chilling texts: ‘I might get wiped out' | Hindustan Times](https://www.hindustantimes.com/world-news/us-news/charlie-kirk-predicted-his-own-death-before-murder-candace-owens-shares-chilling-texts-i-might-get-wiped-out-101761613365981.html)
+**Verification Notes:** Multiple news outlets, including Hindustan Times, report that Candace Owens shared text messages from Charlie Kirk containing similar language about predicting his death and not living to see the end of the revolution, which aligns with parts of the transcript. However, the specific claim quote is from alleged private messages, and no primary evidence (e.g., screenshots, official statements from Turning Point USA, or independent verification) confirms authenticity. Verification would require access to Charlie Kirk's message archives, confirmation from Mikey McCoy (mentioned in the transcript), or a statement from Turning Point USA validating the texts. Ongoing disputes between Owens and TPUSA add uncertainty, but no direct refutation or confirmation of this exact phrase was found.
+
+### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invite... @ 00:12:32](/episodes/ep-his-JBjlkh8.md#^t-00-12-21)
+
+> People at Turning Point USA are in possession of text messages the day before Charlie Kirk died, in which he wrote out to you—and not just to people that work at Turning Point USA, but also security guards—that he thought that they were going to kill him tomorrow
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Did Charlie Kirk predict his own murder? Candace Owens reveals eerie 'prophecy' text messages from years before his death - The Times of India](https://timesofindia.indiatimes.com/world/us/did-charlie-kirk-predict-his-own-murder-candace-owens-reveals-eerie-prophecy-text-messages-from-years-before-his-death/articleshow/125024848.cms)
+**Verification Notes:** No reliable primary sources, such as news articles from established outlets or official statements from Turning Point USA, confirm the existence of text messages from Charlie Kirk sent the day before his death (September 9, 2025) explicitly stating that 'they' were going to kill him tomorrow, sent to TPUSA staff and security guards. Available reports discuss other leaked texts (e.g., about Israel positions 48 hours prior or prophecies from years earlier), but none match this specific claim. Posts on X echo Candace Owens' assertions but are inconclusive and not factual evidence. Verification would require release of the alleged private text messages, court documents from the ongoing Utah prosecution, or a FOIA request for FBI investigative records related to Kirk's assassination on September 10, 2025.
+
+### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invite... @ 00:49:54](/episodes/ep-his-JBjlkh8.md#^t-00-49-40)
+
+> an hour and a half before Charlie Kirk was assassinated in Utah, Donald Trump and Emmanuel Macron had a phone call that has been recorded in Emmanuel Macron's public calendar... at 6:45 p.m. in French time. That's 10:45 a.m. in Utah time
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [N/A](N/A)
+**Verification Notes:** No reliable primary sources, such as news articles from established outlets, official government statements, or Macron's public calendar documents, were found confirming a phone call between Donald Trump and Emmanuel Macron on September 10, 2025, at 6:45 p.m. French time (10:45 a.m. Utah time). Posts on X mention this detail and reference public records, but X posts are not conclusive evidence and may contain unverified claims. Additionally, the exact time of Charlie Kirk's assassination is not detailed in reliable sources, making the '1.5 hours before' aspect impossible to confirm. Verification would require access to Emmanuel Macron's official public calendar for September 10, 2025, or FOIA-requested records from French or U.S. government sources documenting the call, as well as precise timestamps from police reports or news archives on the assassination timing.
+
+### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:01:44](/episodes/ep-iHav0PPzUz8.md#^t-00-01-22)
+
+> This plane departed from the Biggs Army Airfield at 6:13 a.m. ... dipped down to just 300 feet above ground over the Provo airport runway, and they made a loop
+
+**Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Fact Check: What specific evidence did reporters use to verify or ...](https://factually.co/fact-checks/media/evidence-reporters-used-to-verify-candace-owens-erika-kirk-timeline-43f325)
+**Verification Notes:** No primary sources, such as official FAA records, FlightRadar24 data, or government statements, were found to confirm the exact details of a plane departing Biggs Army Airfield at 6:13 a.m., dipping to 300 feet over Provo airport runway, and making a loop on September 10, 2025. Posts on X describe a similar military-related plane descending to around 200 feet over Provo on that date, but these are inconclusive and do not match the exact altitude or confirm the departure details. Verification would require access to official flight logs from the FAA, military records via FOIA request, or detailed tracking data from services like FlightRadar24 for the specific aircraft.
+
+### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:03:38](/episodes/ep-iHav0PPzUz8.md#^t-00-03-31)
+
+> that dip took place approximately 26 minutes after Charlie Kirk was assassinated
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Video Footage of Shooter in Utah Valley University Shooting | Federal Bureau of Investigation](https://www.fbi.gov/video-repository/utah-valley-shooting-video-091025.mp4/view)
+**Verification Notes:** Reliable sources, including FBI updates and news reports from CNN, PBS, and AP, confirm Charlie Kirk's assassination occurred around 12:00 p.m. MT on September 10, 2025, at Utah Valley University in Provo, Utah. However, no primary sources (e.g., news articles, official statements, or flight records) mention or confirm a plane 'dip' approximately 26 minutes later. Discussions on X/Twitter reference similar suspicious flight activity (e.g., low-altitude passes around 24-30 minutes post-shooting), but these are not conclusive evidence. Verification would require public flight tracking data from sources like FlightRadar24 or ADS-B Exchange, official FAA logs, or a FOIA request for air traffic control records from Provo Airport on that date, cross-referenced with the precise assassination timestamp from court or investigative documents.
+
+### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:04:12](/episodes/ep-iHav0PPzUz8.md#^t-00-03-31)
+
+> the plane is owned by a certain LSAI LLC
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [N/A](N/A)
+**Verification Notes:** No reliable sources (such as FAA registry, news articles, or official statements) were found confirming or refuting that the specific plane mentioned (which dipped low over Provo Airport) is owned by Lasai LLC. The claim originates from Candace Owens herself, but independent verification is lacking. To verify, access to FAA aircraft registration records, FlightRadar24 data linked to ownership, or a FOIA request for detailed flight logs would be required. Searches on the web and X yielded discussions of related planes (e.g., Egyptian jets or other private jets in Provo) but no direct evidence on Lasai LLC ownership.
+
+### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:05:46](/episodes/ep-iHav0PPzUz8.md#^t-00-05-40)
+
+> the plane departed from Provo, Utah at 1:20 p.m. local time
+
+**Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Private Jet That Took Off From Utah After Charlie Kirk Assassination Disappears Mid-Flight Sparking Suspicion](https://www.latintimes.com/private-jet-that-took-off-utah-after-charlie-kirk-assassination-disappears-mid-flight-sparking-589463)
+**Verification Notes:** Multiple news sources, including Latin Times, People, US Weekly, and Daily Mail, confirm that a private jet (tail number N888KG) owned by Derek Maxfield departed from Provo Airport shortly after the Charlie Kirk shooting on September 10, 2025, and later disappeared from tracking. However, none provide the exact departure time of 1:20 p.m. local time. Posts on X suggest times around 1:11-1:12 p.m. MDT (based on UTC conversions from flight tracking data), but these are inconclusive as X posts may contain unverified claims, especially for controversial topics. To verify the precise time, official flight logs from the FAA, Flightradar24, or airport records would be required, potentially via a FOIA request.
+
+### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:10:13](/episodes/ep-iHav0PPzUz8.md#^t-00-09-53)
+
+> airport personnel had been instructed to lie
+
+**Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Owner of Plane at Center of Charlie Kirk Shooting Conspiracy Speaks Out](https://people.com/owner-of-plane-at-center-of-charlie-kirk-shooting-conspiracy-speaks-out-11808572)
+**Verification Notes:** No reliable primary sources (e.g., news articles from established outlets like Yahoo News, Daily Mail, or official FBI statements) confirm or refute the specific claim that airport personnel were instructed to lie about the N888KG flight. Web searches and X posts discuss conspiracy theories around the flight but provide no evidence of such instructions; they focus on the jet's departure and transponder issues. The claim appears based on hearsay from the podcast. Verification would require internal airport or federal documents, such as FAA records, flight manifests, or FOIA requests for communications directing personnel to withhold or falsify information.
+
+### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:12:29](/episodes/ep-iHav0PPzUz8.md#^t-00-11-49)
+
+> Egyptian military plane had previously only ever been to the United States twice in that past year. And both times it was in the lead-up—in the weeks leading up to Charlie Kirk's assassination
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Who does Candace Owens think killed Charlie Kirk? Ex-TPUSA member gives bombshell update on ‘Egyptian Air Force’ theory | Hindustan Times](https://www.hindustantimes.com/world-news/us-news/who-does-candace-owens-think-killed-charlie-kirk-ex-tpusa-member-gives-bombshell-update-on-egyptian-air-force-theory-101760299828271.html)
+**Verification Notes:** Available news articles and X posts report on Candace Owens' claims about an Egyptian military plane (tail number SU-BTT) being in Provo, Utah, on September 10, 2025, with a prior trip to the US in July 2025. However, the specific assertion of 'only twice in the past year' prior to the September trip conflicts with initial reports (e.g., her own post claiming it was the 'first trip ever' in July) and later escalations in conspiracy theories mentioning multiple planes and up to 73 overlapping flights. No primary sources like official flight logs confirm the exact number of visits. Verification would require access to comprehensive flight records from sources such as FlightRadar24, FAA databases, or military aviation authorities, potentially obtainable via FOIA requests for international military flight details.
+
+### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:15:23](/episodes/ep-iHav0PPzUz8.md#^t-00-15-02)
+
+> that plane was carrying military subcontractors. And ... they were dropped off in Provo
+
+**Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Candace Owens Screws Up Time Zones While Promoting Latest Charlie Kirk Conspiracy](https://www.yahoo.com/news/articles/candace-owens-screws-time-zones-122944083.html)
+**Verification Notes:** The claim stems from conspiracy theories promoted by Candace Owens, with web sources and X posts echoing unverified allegations of Egyptian military subcontractors being dropped off in Provo on September 10. However, reliable news outlets report official investigations concluding the suspect acted alone, with debunkings focused on timing errors (e.g., time zone confusion). No primary sources, such as flight manifests or official passenger lists, confirm or refute the specific details about subcontractors. Verification would require access to FAA flight records, passenger manifests, or FOIA requests for aviation and investigative documents from U.S. authorities.
+
+### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:16:07](/episodes/ep-iHav0PPzUz8.md#^t-00-15-42)
+
+> they did not make it back to Cairo ... those people were mysteriously missing from that plane
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Candace Owens says a whistleblower revealed that days before Charlie Kirk's assassination, Egyptian military subcontractors arrived in Provo, Utah](https://www.primetimer.com/news/candace-owens-says-a-whistleblower-revealed-that-days-before-charlie-kirks-assassination-egyptian-military-subcontractors-arrived-in-provo-utah)
+**Verification Notes:** The claim relies on an anonymous whistleblower cited by Candace Owens, with no publicly available primary evidence such as flight manifests, passenger lists, or official statements from the Egyptian government, FAA, or U.S. authorities confirming that military subcontractors were dropped off in Provo and did not return to Cairo. Web searches and X posts discuss the conspiracy theory but provide no verifiable documentation; articles report on Owens' allegations without independent confirmation and often highlight errors (e.g., time zone confusion). Verification would require access to confidential flight records, passenger manifests from the Egyptian Air Force, or FOIA requests to U.S. agencies like the FAA or DoD, which are not publicly available and may be classified due to the military nature of the flight.
+
+### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:05:48](/episodes/ep-mKXdKV-OBog.md#^t-00-05-45)
+
+> The yellow plane with tail number SUBTT stopped for just one hour in Minot, North Dakota on September 4th before making its way to Provo.
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [N/A](N/A)
+**Verification Notes:** No reliable sources, including news articles, official flight records, or government statements, were found mentioning a yellow plane with tail number SUBTT making a one-hour stopover in Minot, North Dakota, on September 4th (assuming 2025 based on context) before proceeding to Provo. Searches across web results and X posts yielded information on unrelated incidents, such as a July 2025 near-miss at Minot Airport and Egyptian jets in Provo on September 10th, but nothing matching the specific claim. Verification would require access to FAA flight logs, FlightAware or ADS-B tracking data, or official records from Minot International Airport/Minot AFB via FOIA request, which are not publicly available in the searched sources.
+
+### [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Ca... @ 00:16:17](/episodes/ep-ozWJz2spBcI.md#^t-00-15-58)
+
+> This is an actual group chat which happened two days before Charlie Kirk was assassinated. There were nine people in total on this chat, including Charlie Kirk and Rob McCoy.
+
+**Type:** Factual
+**Veracity:** Unverifiable (medium)
+**Source:** [After Charlie Kirk’s Assassination, a Bumper Crop of Conspiracy Theories](https://www.nytimes.com/2025/09/29/us/charlie-kirk-assassination-conspiracy-theories.html)
+**Verification Notes:** Multiple news sources, including The New York Times, Axios, and The Guardian, report on Candace Owens promoting conspiracy theories about Charlie Kirk's assassination, including claims of screenshots from group chats, but none provide independent verification of the screenshot's authenticity. Posts on X discuss Owens sharing the screenshot, but X content is not conclusive evidence. The claim mixes verifiable elements (e.g., the assassination date around September 10, 2025, based on timeline in sources) with unverified ones (the chat's existence and content). Verification would require statements from chat participants (e.g., Rob McCoy or others named), digital forensic analysis of the screenshot, or official investigation records from law enforcement, such as FBI documents obtained via FOIA.
+
+### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:00:01](/episodes/ep-sImMM04XdWY.md#^t-00-00-01)
+
+> Brian Harpole lied badly to Sean Ryan in an interview
+
+**Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Brian Harpole - Groundbreaking Evidence From Charlie Kirk’s Head of Security | SRS #254 - YouTube](https://www.youtube.com/watch?v=S0fmq1zffGw)
+**Verification Notes:** The interview between Brian Harpole and Shawn Ryan (likely intended as 'Sean Ryan' in the claim) exists and is documented in multiple sources, including news articles from Deseret News and KSL.com that report on Harpole's recounting of events without labeling them as lies. However, posts on X (formerly Twitter) contain user accusations of specific lies (e.g., about a 'trap door,' EMT presence, or drones), but these are inconclusive opinions and not supported by established news outlets or official investigations. No primary sources like fact-check articles, official statements, or documents confirm or refute deception. Verification would require access to the full interview transcript, cross-referenced with police reports, video footage, or eyewitness accounts from the event (e.g., via FOIA requests to Orem PD or Utah authorities) to check specific statements against evidence.
+
+### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:01:02](/episodes/ep-sImMM04XdWY.md#^t-00-00-39)
+
+> Charlie Kirk called me and told me that they wanted me to stop speaking about Brigitte
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Candace Owens' spiral is a warning to my fellow Republicans | Opinion](https://www.usatoday.com/story/opinion/columnist/2025/11/25/candace-owens-exploit-kirk-macron-conspiracy/87464601007/)
+**Verification Notes:** No reliable primary sources, such as news articles, official statements, or documents, confirm or refute the occurrence of a specific phone call from Charlie Kirk to Candace Owens instructing her to stop speaking about Brigitte Macron. The claim originates from Owens' podcast and is echoed in social media posts on X, but these are not conclusive evidence. Multiple searches across web results and X posts discuss Owens' broader conspiracy theories involving Kirk, the Macrons, and assassination plots, but none provide verifiable details on this private call. Verification would require access to phone records (e.g., via subpoena or FOIA request to telecom providers), text message logs shared publicly with authentication, or corroborating statements from Kirk's estate, associates, or other witnesses.
+
+### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:02:55](/episodes/ep-sImMM04XdWY.md#^t-00-02-44)
+
+> Andrew Colvett said, and I quote, 'Candace, it was supposed to be you'
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** ["Candace, it was supposed to be you": Candace Owens alleges Andrew Kolvet called her days after Charlie Kirk's assassination with shocking claim](https://www.sportskeeda.com/pop-culture/candace-supposed-you-candace-owens-alleges-andrew-kolvet-called-days-charlie-kirk-s-assassination-shocking-claim)
+**Verification Notes:** Multiple news outlets and posts on X report Candace Owens making this allegation in her podcast, including direct quotes matching the claim. However, the claim refers to a private phone conversation between Owens and Andrew Kolvet (likely misspelled as Colvett), with no publicly available recording, transcript, or confirmation/denial from Kolvet specifically addressing this quote. Andrew Kolvet has denied other related claims by Owens (e.g., about Israeli links) as 'laughably untrue' in sources like Hindustan Times, but not this exact statement. Verification would require a recording of the call, call logs, or a direct statement from Kolvet or witnesses confirming the quote.
+
+### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:03:31](/episodes/ep-sImMM04XdWY.md#^t-00-03-29)
+
+> while the actual day on September 10th while Charlie Kirk was in the hospital, he told me that there was a list and that me and Tucker Carlson were on it
+
+**Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Candace Owens Challenges Andrew Kolvet: Why Warned Her at the Hospital After Charlie Kirk's Death?](https://www.ibtimes.co.uk/tucker-carlson-charlie-kirk-death-candace-owens-news-1756132)
+**Verification Notes:** The claim refers to a private phone conversation on September 10th, when Charlie Kirk was in the hospital after being shot, where Andrew Kolvet allegedly warned Candace Owens about a 'list' including her and Tucker Carlson, advising them to lay low. News sources, including this article, report Owens publicly questioning Kolvet about issuing such a warning after Kirk's death, but they do not provide independent evidence confirming the conversation occurred or its content. X posts and other web results confirm the date of Kirk's hospitalization and shooting as September 10th, but offer no corroboration of the specific warning. Verification would require statements from Kolvet, call logs, or other direct evidence of the interaction, which are not publicly available.
+
+### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:06:12](/episodes/ep-sImMM04XdWY.md#^t-00-05-36)
+
+> after our Egyptian plane, tail number SUBTT, landed into this federally monitored hangar, a foreign dignitary was then discreetly moved to 920 King Street, which we've learned and confirmed houses the DEA, the FBI, and the Secret Service
+
+**Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [FBI Wilmington Field Office](https://www.fbi.gov/contact-us/field-offices/wilmington)
+**Verification Notes:** The part of the claim stating that 920 King Street houses the DEA, FBI, and Secret Service is supported by reliable government sources: the FBI Wilmington Resident Agency is located at 920 N. King Street, Wilmington, DE, and cross-references confirm DEA and Secret Service offices share the same address in official directories. However, no primary sources (e.g., news articles, official flight records, or government statements) were found confirming an Egyptian plane with tail number SUBTT (likely SU-BTT) landing in a federally monitored hangar in Wilmington, Delaware, or a foreign dignitary being discreetly moved from there to 920 King Street. Posts on X and podcast transcripts discuss these elements as part of conspiracy theories, but they are not conclusive evidence. Verification would require access to FAA flight logs, ADS-B tracking data from sites like FlightRadar24, or FOIA requests for federal agency records on diplomatic movements and hangar activities.
+
+### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:07:51](/episodes/ep-sImMM04XdWY.md#^t-00-07-38)
+
+> March 13th, I do that first episode regarding Brigitte Macron. March 19th, just six days later, I'm fired from the Daily Wire
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Candace Owens - Wikipedia](https://en.wikipedia.org/wiki/Candace_Owens)
+**Verification Notes:** Available news articles and X posts confirm Candace Owens parted ways with the Daily Wire in late March 2024, with the public announcement on March 22, 2024, but no reliable sources specify an exact firing date of March 19, 2024, or confirm the Brigitte Macron episode aired precisely on March 13, 2024. One X post incorrectly suggests the episode was in March 2023, but most sources align with a March 2024 timeline for both events without exact dates. Verification would require access to internal Daily Wire employment records, official podcast publication logs, or timestamped episode archives from the Candace Owens Show.
+
+### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:08:25](/episodes/ep-sImMM04XdWY.md#^t-00-08-18)
+
+> on December 3rd, before I interview him, I receive the first ever cease-and-desist letter from Brigitte Macron and her lawyers
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [IN THE SUPERIOR COURT OF THE STATE OF DELAWARE EMMANUEL MACRON and](https://clarelocke.com/wp-content/uploads/2025/07/Complaint89.pdf)
+**Verification Notes:** No reliable sources confirm the specific claim of receiving a cease-and-desist letter on December 3, 2024, as the first ever from Brigitte Macron and her lawyers. Available web results and X posts reference a defamation lawsuit filed in July 2025 and mention prior requests for retractions or a cease-and-desist in the case file, but none specify the December 3, 2024 date or confirm it as the first. Recent articles report on Owens' broader claims but do not independently verify this detail. To verify, access to the full lawsuit documents detailing dates of any cease-and-desist letters, or a copy of the letter itself with timestamp, would be required.
+
+### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:11:46](/episodes/ep-sImMM04XdWY.md#^t-00-11-43)
+
+> on February 24th, Charlie Kirk reaches out, and he tells me that the White House is asking me to stop speaking about Brigitte
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Candace Owens - Wikipedia](https://en.wikipedia.org/wiki/Candace_Owens)
+**Verification Notes:** No reliable external sources, such as news articles from established outlets (e.g., The Times of India, Daily Mail, USA Today) or official statements, confirm or refute the specific claim of Charlie Kirk contacting Candace Owens on February 24, 2025, to relay a White House request to stop discussing Brigitte Macron. The claim involves a private communication, and while Owens has made public allegations about related conspiracies involving Macron, Kirk's death, and assassination attempts (as noted in Wikipedia and other news sources), this particular interaction is not independently documented. Verification would require access to private text messages, phone records, or official White House communications (e.g., via FOIA request), or corroborating statements from involved parties, which are not available in public records.
+
+### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:12:49](/episodes/ep-sImMM04XdWY.md#^t-00-12-26)
+
+> On February 25th, actually, Sergio Gor called me and asked me to stop speaking about Brigitte
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Candace Owens Details Alleged Macron-Paid Hit On Her - Catholics For Catholics](https://cforc.com/2025/11/candace-owens-details-alleged-macron-paid-hit-on-her/)
+**Verification Notes:** The claim involves a private phone call between Sergio Gor and Candace Owens on February 25th (likely 2025 based on context), which is inherently difficult to verify without direct evidence from the parties involved. Web searches and X posts reference Owens' broader allegations about Brigitte Macron and related threats, but provide no independent confirmation or refutation of this specific call. Posts on X repeat similar claims (with spelling variations like 'Sergio Gore'), but these are not reliable evidence. To verify, access to phone records, call logs, or statements from Gor or the White House would be required; no such primary sources were found in available results.
+
+### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:13:03](/episodes/ep-sImMM04XdWY.md#^t-00-12-26)
+
+> February 26th. President Donald Trump calls me and asks me to stop speaking about Brigitte
+
+**Type:** Factual
+**Veracity:** Unverifiable (medium)
+**Source:** [Stop speaking about...': Candace Owens says Trump called her, asked her not to spin conspiracy theories that Macron's wife was born a man](https://timesofindia.indiatimes.com/world/us/stop-speaking-about-candace-owens-says-trump-called-her-asked-her-not-to-spin-conspiracy-theories-that-macrons-wife-was-born-a-man/articleshow/122188348.cms)
+**Verification Notes:** Multiple news outlets, including Times of India, The Independent, BBC, and Deadline, report that Candace Owens claimed Trump called her in February to ask her to stop discussing Brigitte Macron. These sources confirm the general claim of a February call but do not specify the exact date of February 26th or provide independent verification (e.g., no statements from Trump or White House logs). The claim relies solely on Owens' account, with no corroborating evidence found. To verify, access to White House phone records, Trump's personal call logs, or a deposition from the ongoing Macron defamation lawsuit against Owens would be required, as these could confirm or refute the private call.
+
+### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:33:44](/episodes/ep-sImMM04XdWY.md#^t-00-33-24)
+
+> Brian Harpole is actually presenting a text message between Dan Flood and Chief Long
+
+**Type:** Factual
+**Veracity:** Unverifiable (medium)
+**Source:** [UVU police chief promised to secure rooftops, head of Charlie Kirk’s security team says](https://www.sltrib.com/news/education/2025/11/18/uvu-police-chief-promised-secure/)
+**Verification Notes:** News articles from reliable outlets like The Salt Lake Tribune and Fox News report that Brian Harpole texted or raised concerns with UVU Police Chief Jeff Long about rooftop security, implying the communication was Harpole's. However, posts on X (formerly Twitter) claim the text exchange was actually between Dan Flood (a Turning Point USA security member) and Chief Long, aligning with the podcast claim. There are no primary sources, such as the actual text messages, screenshots with sender details, or official statements from Harpole, Flood, or Long, to confirm who sent the messages. Discrepancies between news reports and social media sentiment make it impossible to verify without access to the original texts or confirming documents, which could be obtained via FOIA requests to UVU or police records.
+
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:04:09](/episodes/ep-sreYYcID-QY.md#^t-00-03-26)
+
+> according to locals—many of which have emailed me—any of the footage that they had, any footage that they found, they immediately sent over to the feds, and the feds told them that they were not allowed to share it at all.
+
+**Type:** Factual
+**Veracity:** Unverifiable (medium)
+**Source:** [Candace Owens weighs in on shocking probe into Tyler Robinson’s ‘missing’ surveillance video, ‘Maybe it never existed’ | Hindustan Times](https://www.hindustantimes.com/world-news/us-news/candace-owens-weighs-in-on-shocking-probe-into-tyler-robinson-s-missing-surveillance-video-maybe-it-never-existed-101763622371201.html)
+**Verification Notes:** The claim relies on anonymous emails from locals to Candace Owens alleging federal pressure not to share footage. News sources report on Owens' statements about missing or suppressed footage in the Charlie Kirk case, including FBI denials of requests for surveillance video, but no primary evidence (e.g., official statements, documents, or direct accounts from locals) independently confirms or refutes that federal agents specifically instructed locals not to share footage. Verification would require public statements from the locals, FBI internal communications obtained via FOIA, or investigative journalism corroborating the interactions.
+
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:06:50](/episodes/ep-sreYYcID-QY.md#^t-00-06-07)
+
+> it's about a 17-minute drive away from the campus.
+
+**Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Was Tyler Robinson At Dairy Queen After Charlie Kirk Shooting? What We Know - Newsweek](https://www.newsweek.com/tyler-robinson-dairy-queen-charlie-kirk-2132434)
+**Verification Notes:** Multiple established news outlets, including Newsweek, Times Now, and Yahoo, report on Candace Owens' podcast claim that the Dairy Queen is about a 17-minute drive from the campus where the Charlie Kirk shooting occurred on September 10, 2025. However, these sources primarily reiterate the claim without providing independent verification of the driving time, such as map calculations or official location details. Posts found on X also mention the 17-minute drive, reflecting public sentiment around the conspiracy theory, but X posts are inconclusive for factual verification, especially on controversial topics. The claim mixes verifiable elements (e.g., existence of a photo and locations in Orem, Utah) with unconfirmed interpretation (exact driving time). To verify, access to precise addresses of the campus shooting site and the specific Dairy Queen, along with tools like Google Maps for real-time driving estimates, would be required; no such primary evidence was found in available sources.
+
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:14:28](/episodes/ep-sreYYcID-QY.md#^t-00-14-12)
+
+> this clip is from the morning after Charlie Kirk's assassination. So TMZ had already publicized that footage.
+
+**Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Charlie Kirk Person of Interest Seen On Video Heading Toward Campus](https://www.tmz.com/2025/09/11/charlie-kirk-possible-shooter-on-video-near-campus/)
+**Verification Notes:** No reliable sources were found confirming the exact date or time of the neighbor interview clip referenced in the claim. TMZ published the footage of the person of interest on September 11, 2025, in the evening (22:38), which is the day after the assassination on September 10, 2025. If the interview clip was indeed from the morning of September 11, the claim that TMZ had already publicized the footage by then would be false, but without confirmation of the clip's timing, the claim cannot be verified. Verification would require access to the original news broadcast or article containing the Samuel Steele interview, including its publication or air date.
+
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:16:10](/episodes/ep-sreYYcID-QY.md#^t-00-15-33)
+
+> A local source told me that virtually everyone on that block works for that company. The Steeles are a big family in Orem.
+
+**Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Caldera Engineering Official Website](https://calderaengineering.com/)
+**Verification Notes:** No reliable primary sources, such as news articles, official documents, or government records, were found to confirm or refute the claim that virtually everyone on a specific block in Orem, Utah, works for Caldera Engineering or that the Steeles are a big family in Orem. The company's website and related business profiles confirm Caldera Engineering exists in nearby Provo, Utah, and manufactures valves, but provide no details on employee residences or family connections. X posts echo similar rumors but are not reliable evidence. Verification would require access to property records from Utah County assessor's office, Caldera Engineering's employee directories, or local census data via FOIA requests to confirm neighborhood employment patterns and family prominence.
+
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:18:52](/episodes/ep-sreYYcID-QY.md#^t-00-18-18)
+
+> I can't find her. We stalked; we looked through databases; we contacted Lance's family to see if they're familiar with that name. I cannot find a woman named Sherry Steele that lives in that building complex.
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [N/A](none)
+**Verification Notes:** No reliable sources, including news articles from established outlets (e.g., BBC as mentioned in the transcript), official statements, or public records, were found mentioning a Sherry Steele as a resident of any building complex in Orem, Utah, in connection with the Charlie Kirk shooting. Multiple search strategies across web results and X posts yielded no evidence of her existence, footage, or involvement. Verification would require access to private resident databases, property records from Utah County, voter registration logs, or FOIA requests for police reports and witness statements related to the incident. The absence of any public documentation for a purported witness in a high-profile assassination suggests the claim cannot be confirmed or refuted without these restricted sources.
+
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:25:04](/episodes/ep-sreYYcID-QY.md#^t-00-24-33)
+
+> the gun was found in the backyard of someone that I know... by a chicken coop.
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** No reliable primary sources, such as news articles from established outlets (e.g., CNN, Fox News, NYT) or official statements from law enforcement, confirm the gun was found in a backyard by a chicken coop. The claim appears to originate from local rumors and conspiracy theories discussed on podcasts and social media, with some posts on X mentioning 'woods' as the recovery location instead. Multiple searches across web results yield details on the shooting and suspect's path but no specifics on a chicken coop. Verification would require access to official police reports, evidence logs, or court documents from the Utah County prosecutor's office detailing the exact gun recovery site.
+
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:25:18](/episodes/ep-sreYYcID-QY.md#^t-00-24-33)
+
+> the house right next door to where the gun was found is a mysteriously vacant home that is owned by the university itself
+
+**Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Fox News Digital report on murder weapon recovery (as cited in X posts)](https://www.foxnews.com/ (referenced in social media posts citing Fox News Digital))
+**Verification Notes:** No reliable primary sources, such as official police reports, news articles from established outlets, or property records, confirm or refute the claim of a mysteriously vacant university-owned home next to the gun's recovery site. Web searches and X posts mention the gun being found 'in the woods' or at a 'drop point' near Utah Valley University, with some unverified social media speculation about a chicken coop, but nothing addresses a adjacent university-owned vacant home. Verification would require access to official investigative documents (e.g., Washington County Sheriff's Office reports), property ownership records from local assessor's office or university disclosures, or FOIA requests for detailed crime scene maps.
+
+### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:12:03](/episodes/ep-t1YtLS1n8Vs.md#^t-00-11-19)
+
+> In the state of Connecticut, the ADL shares an office space with the FBI.
+
+**Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [X Post by Kyle - Undercover (2023)](https://x.com/kyleisbased/status/1699406224570343851)
+**Verification Notes:** No primary sources such as official property records, news articles from established outlets, or statements from the ADL or FBI were found to confirm or refute the claim of shared office space in Connecticut. The claim appears to originate from social media posts on X, which cite unspecified property records but do not provide them. Web searches yielded results about the FBI cutting ties with the ADL in 2025, but nothing on shared spaces. To verify, access to official Connecticut property records, ADL/FBI office directories, or a FOIA request for federal building occupancy details would be required. X posts are inconclusive and cannot serve as reliable evidence.
+
+### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:13:12](/episodes/ep-t1YtLS1n8Vs.md#^t-00-12-45)
+
+> The FBI sent the specific Connecticut bureau down to UVU after Charlie Kirk was assassinated. To help investigate the assassination.
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Utah Valley Shooting Updates | Federal Bureau of Investigation](https://www.fbi.gov/news/press-releases/utah-valley-shooting-updates)
+**Verification Notes:** Multiple reliable sources, including FBI press releases, Wikipedia, and news outlets like NBC, CNN, and CBS, confirm FBI involvement in the investigation of Charlie Kirk's assassination at UVU, assisted by the Utah Department of Public Safety and ATF. However, no sources specify or mention the Connecticut field office being sent or involved. Posts on X discuss FBI agents at the scene but do not reference Connecticut. To verify this specific claim, access to internal FBI deployment records, official statements on field office assignments, or a FOIA request to the FBI for investigation team details would be required. The lack of mention in extensive coverage suggests this detail may not be publicly documented.
+
+### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:19:20](/episodes/ep-t1YtLS1n8Vs.md#^t-00-18-54)
+
+> She works for the Orem Police Department. She's a records specialist.
+
+**Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [N/A](N/A)
+**Verification Notes:** No reliable sources, such as news articles from established outlets (e.g., ABC News, NBC News, Wikipedia) or official statements from the Orem Police Department, were found confirming or refuting that a witness named Bishop works as a records specialist there. Searches for witnesses to the Charlie Kirk assassination yielded details on other individuals (e.g., Skyler Baird) but not Bishop in this role. Verification would require access to Orem Police Department employment records, a FOIA request for personnel files, or confirmatory reporting from credible news sources linking her to the department.
+
+### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:03:02](/episodes/ep-tB5SXXmd9vU.md#^t-00-02-25)
+
+> Two days ago, I was contacted by a high-ranking employee of the French government. After determining this person's position and proximity to the French couple, I have deemed the information that they gave me to be credible enough to share publicly
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Candace Owens falsely accuses Macrons of assassination plot in bizarre conspiracy theory - Truth or Fake - France 24](https://www.france24.com/en/tv-shows/truth-or-fake/20251126-candace-owens-falsely-accuses-the-macrons-of-assassination-plot-in-bizarre-conspiracy-theory)
+**Verification Notes:** Multiple reliable news outlets (e.g., France 24, Euronews, Daily Mail) report on Owens' public claim of being contacted by a high-ranking French government employee on or around November 20, 2025, but emphasize that no evidence has been provided to support the contact or the alleged information shared. French media and officials have dismissed the broader assassination plot as false or unsubstantiated. The claim of the contact itself is a personal assertion without independent verification, such as communication records or whistleblower confirmation. Verification would require access to private communications (e.g., emails, messages), a public statement from the alleged employee, or results from an official investigation (e.g., via French or U.S. intelligence agencies).
+
+### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:04:32](/episodes/ep-tB5SXXmd9vU.md#^t-00-04-29)
+
+> there was a paper trail that Macron allegedly paid $1.5 million... Two assassins were hired, one Israeli, one French-Canadian woman... the money ran through the elite gentlemen's club des Saints
+
+**Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Candace Owens says Macrons ordered her assassination, but provides no evidence](https://www.euronews.com/my-europe/2025/11/27/candace-owens-says-macrons-ordered-her-assassination-but-provides-no-evidence)
+**Verification Notes:** Multiple news outlets, including Euronews, Jerusalem Post, and Times of India, report on Candace Owens' claims of a $1.5 million payment by Macron for assassins (one Israeli, one French-Canadian) routed through an elite club (variously reported as 'Club des Cent' or similar to 'club des Saints'), but all emphasize that no evidence or official confirmation has been provided. The claim remains unsubstantiated allegations amid a defamation lawsuit. Verification would require access to French government financial records, bank transfer documents, or investigative reports from authorities like the FBI (to which Owens reportedly submitted claims), potentially obtainable via FOIA requests or court proceedings.
+
+### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:12:38](/episodes/ep-vwG1juDCQZQ.md#^t-00-12-18)
+
+> to have seen the autopsy report, to have seen the different evidence portions that have been collected
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** No primary sources, such as official medical examiner reports, court documents, or statements from investigators, publicly confirm or refute whether Erika Kirk has seen the autopsy report or specific evidence portions in the Charlie Kirk assassination case. An autopsy is standard for homicides under Utah law, and evidence like DNA matches and shell casings has been reported in news outlets, but details of family access are not disclosed. The claim originates from Erika Kirk's own statement in a Jesse Watters interview, as noted in social media and news discussions. Verification would require FOIA requests for medical examiner records, court filings from the prosecution against Tyler Robinson, or official statements confirming what evidence was shared with the family.
+
+### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:32:37](/episodes/ep-vwG1juDCQZQ.md#^t-00-31-56)
+
+> who toured with Charlie Kirk the most... I headlined more Turning Point USA campus tours than Candace Owens
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** Multiple searches for counts of TPUSA campus tours headlined by Candace Owens versus others (e.g., queries on joint tours with Charlie Kirk, Campus Clash series, and speaker frequencies) yielded references to specific events like the 2018 Campus Clash tour and a 2019 UVU event co-hosted with Kirk, but no comprehensive lists or comparisons of total headline appearances. News articles and X posts confirm Owens' frequent involvement in TPUSA events from 2018 to 2024, but lack quantifiable data on who headlined the most. Verification would require internal TPUSA records, such as event logs or official speaker schedules, potentially obtainable via FOIA if publicly funded elements are involved, or direct statements from TPUSA.
+
+### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:34:12](/episodes/ep-vwG1juDCQZQ.md#^t-00-34-00)
+
+> events are booked the semester before
+
+**Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Turning Point USA - Wikipedia](https://en.wikipedia.org/wiki/Turning_Point_USA)
+**Verification Notes:** No primary sources, such as official TPUSA documents, news articles from established outlets, or university records, were found detailing the typical booking timeline for TPUSA campus events. The Wikipedia entry describes TPUSA's mission and operations but does not address event booking processes or timelines. Posts on X suggest events are usually scheduled far in advance, but these cannot be used as conclusive evidence due to potential unreliability. Verification would require access to TPUSA's internal booking records, official statements from TPUSA or university administrations, or FOIA requests for campus event approvals to confirm standard practices.
+
+### [What Did Charlie Kirk Discover Near The End? | Candace Ep... @ 00:11:21](/episodes/ep-yAIb-NuUh_U.md#^t-00-10-36)
+
+> Despite his conviction, despite having spent years in prison for these crimes, Rob McCoy... struck up thereafter and maintained a long friendship with Thomas Camino across decades... Rob then decides that Camino should be involved in the Calvary Chapel Church... that Camino should have access to young children in a program called Home Fellowship, which put him inside the homes of children.
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [The rise of Newbury Park Pastor Rob McCoy](https://www.vcstar.com/story/news/2022/10/05/godspeak-newbury-park-pastor-rob-mccoy/8182148001/)
+**Verification Notes:** No primary sources, such as news articles, court documents, or official statements, were found in the provided web results to confirm or refute the specific claim about Rob McCoy's long-term friendship with Thomas Camino post-conviction, or Camino's alleged involvement in the Calvary Chapel Church's Home Fellowship program granting access to children in 2022. The linked source is a 2022 news article profiling McCoy but does not mention Camino or the controversy. Posts on X discuss similar allegations stemming from the podcast, but they are not reliable evidence and reflect public sentiment rather than verified facts. To verify, would require access to 2022 news archives (e.g., local California outlets like VC Star or LA Times), court records of Camino's conviction, or official church statements/records from Calvary Chapel regarding the Home Fellowship program and any related controversies.
+
 
 </details>
 
 <details>
-<summary>Unverified (1116)</summary>
+<summary>Unverified (964)</summary>
 
 _Claims not yet checked against external sources_
 
@@ -7300,39 +9297,9 @@ _Claims not yet checked against external sources_
 
 **Type:** Factual
 
-### [Charlie's Final Hours. What Else Is Josh Hammer Lying Abo... @ 00:35:12](/episodes/ep-2Riv3I7D0Yk.md#^t-00-34-57)
-
-> he was texting people saying they are gonna kill me. On the same day that he's on this Zoom call—this is a fact—this night Zoom call, as Josh says it was at night, ... that same day, he's texting people saying they are going to kill me.
-
-**Type:** Factual
-
-### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:07:26](/episodes/ep-2WEHTk0Xewg.md#^t-00-07-18)
-
-> Charlie Kirk gets shot at 12:23 p.m.
-
-**Type:** Factual
-
-### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:07:33](/episodes/ep-2WEHTk0Xewg.md#^t-00-07-18)
-
-> Charlie Kirk was shot at 12:23 p.m.
-
-**Type:** Factual
-
-### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:07:35](/episodes/ep-2WEHTk0Xewg.md#^t-00-07-18)
-
-> George Zinn announced as suspect in custody by Utah police 30 minutes after the shooting
-
-**Type:** Factual
-
 ### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:07:44](/episodes/ep-2WEHTk0Xewg.md#^t-00-07-18)
 
 > George Zinn was announced as a suspect in custody by the Utah police approximately 30 minutes after the shooting
-
-**Type:** Factual
-
-### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:07:58](/episodes/ep-2WEHTk0Xewg.md#^t-00-07-18)
-
-> Governor Cox mentions second suspect wearing all dark clothing 12 minutes into 5:30 p.m. press conference
 
 **Type:** Factual
 
@@ -7360,18 +9327,6 @@ _Claims not yet checked against external sources_
 
 **Type:** Factual
 
-### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:15:06](/episodes/ep-2WEHTk0Xewg.md#^t-00-14-28)
-
-> Tyler Robinson entered the campus at 8:07 a.m. wearing a maroon t-shirt and shorts
-
-**Type:** Factual
-
-### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:15:17](/episodes/ep-2WEHTk0Xewg.md#^t-00-15-06)
-
-> Governor Cox confirmed TMZ footage of man in maroon t-shirt and shorts is Tyler Robinson entering campus at 8:07 a.m.
-
-**Type:** Factual
-
 ### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:15:41](/episodes/ep-2WEHTk0Xewg.md#^t-00-15-06)
 
 > Tyler Robinson was seen walking back onto campus at 11:51 a.m.
@@ -7386,12 +9341,6 @@ _Claims not yet checked against external sources_
 
 ### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:17:49](/episodes/ep-2WEHTk0Xewg.md#^t-00-17-34)
 
-> FBI recovered high-powered bolt-action rifle used in shooting in wooded area where shooter fled
-
-**Type:** Factual
-
-### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:17:49](/episodes/ep-2WEHTk0Xewg.md#^t-00-17-34)
-
 > we have recovered what we believe is the weapon that was used in yesterday's shooting. It is a high-powered bolt-action rifle. That rifle was recovered in a wooded area where the shooter had fled
 
 **Type:** Factual
@@ -7399,12 +9348,6 @@ _Claims not yet checked against external sources_
 ### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:18:20](/episodes/ep-2WEHTk0Xewg.md#^t-00-18-10)
 
 > exclusively our guys, our resident guys over at the New York Post, every exclusive ever, Jeffrey Epstein's death pictures, Ghislaine Maxwell found at an In-N-Out
-
-**Type:** Factual
-
-### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:19:06](/episodes/ep-2WEHTk0Xewg.md#^t-00-18-53)
-
-> New York Post published exclusive photo of gun at 9:21 a.m. Mountain Time, two hours after FBI press conference
 
 **Type:** Factual
 
@@ -7438,12 +9381,6 @@ _Claims not yet checked against external sources_
 
 **Type:** Factual
 
-### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:23:16](/episodes/ep-2WEHTk0Xewg.md#^t-00-22-59)
-
-> Tyler Robinson in custody around 7 p.m. Sep 11 when local texts circulated he was picked up in Warner Valley
-
-**Type:** Factual
-
 ### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:23:20](/episodes/ep-2WEHTk0Xewg.md#^t-00-22-59)
 
 > it was around seven o'clock p.m. when everybody locally began receiving the text messages that Tyler Robinson was in custody and that they were going to pick him up in Warner Valley
@@ -7468,12 +9405,6 @@ _Claims not yet checked against external sources_
 
 **Type:** Factual
 
-### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:26:50](/episodes/ep-2WEHTk0Xewg.md#^t-00-26-19)
-
-> President Trump announces at 6 a.m. Sep 12 with high degree of certainty suspect in custody
-
-**Type:** Factual
-
 ### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:26:54](/episodes/ep-2WEHTk0Xewg.md#^t-00-26-19)
 
 > it's at 6 a.m. that President Trump announces with a high degree of certainty that they have the suspect
@@ -7489,12 +9420,6 @@ _Claims not yet checked against external sources_
 ### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:27:57](/episodes/ep-2WEHTk0Xewg.md#^t-00-27-33)
 
 > We got him. On the evening of September 11th, a family member of Tyler Robinson reached out to a family friend who contacted the Washington County Sheriff's Office with information that Robinson had confessed to them or implied that he had committed the incident
-
-**Type:** Factual
-
-### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:28:30](/episodes/ep-2WEHTk0Xewg.md#^t-00-27-57)
-
-> Tyler Robinson arrived on UVU campus in gray Dodge Challenger at 8:29 a.m. Sep 10 wearing maroon t-shirt, light-colored shorts, black hat with white logo, light-colored shoes; encountered in same clothing early morning Sep 12
 
 **Type:** Factual
 
@@ -7644,12 +9569,6 @@ _Claims not yet checked against external sources_
 
 ### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:45:45](/episodes/ep-2WEHTk0Xewg.md#^t-00-45-18)
 
-> Charlie Kirk lost a two million dollar donation two days before he died because he pledged to bring Tucker Carlson to Turning Point conference
-
-**Type:** Factual
-
-### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:45:45](/episodes/ep-2WEHTk0Xewg.md#^t-00-45-18)
-
 > Two days before he died, he lost a two million dollar donation because he had publicly pledged to bring me to the next Turning Point conference in December
 
 **Type:** Factual
@@ -7657,12 +9576,6 @@ _Claims not yet checked against external sources_
 ### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:45:53](/episodes/ep-2WEHTk0Xewg.md#^t-00-45-18)
 
 > he told me over the past couple of months he was losing a lot of donations over that pledge
-
-**Type:** Factual
-
-### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:46:08](/episodes/ep-2WEHTk0Xewg.md#^t-00-46-02)
-
-> American Jewish Committee called Charlie Kirk an anti-Semite and dangerous
 
 **Type:** Factual
 
@@ -7774,59 +9687,11 @@ _Claims not yet checked against external sources_
 
 **Type:** Promise
 
-### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candac... @ 00:00:35](/episodes/ep-5autG89PW6w.md#^t-00-00-00)
-
-> Turning Point USA has responded to the release of the messages, so we are going to watch that. Spoiler alert: they were real, of course.
-
-**Type:** Factual
-
 ### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candac... @ 00:04:11](/episodes/ep-5autG89PW6w.md#^t-00-03-30)
 
 > I don't know who exactly it is that betrayed him. But I also felt in the dream that it is soon going to be revealed—that it's actually inevitable that it is going to be revealed—that there is nothing and no one that is going to stop the truth from coming out, and it is going to have international consequences.
 
 **Type:** Prediction
-
-### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candac... @ 00:13:40](/episodes/ep-5autG89PW6w.md#^t-00-13-12)
-
-> Andrew Kolvet, Turning Point's spokesperson, confirmed that the messages were in fact real.
-
-**Type:** Factual
-
-### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candac... @ 00:14:31](/episodes/ep-5autG89PW6w.md#^t-00-14-17)
-
-> that was a text grab, a screen grab that I had shared uh... with people, so it—it is authentic.
-
-**Type:** Factual
-
-### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candac... @ 00:15:06](/episodes/ep-5autG89PW6w.md#^t-00-15-02)
-
-> It took 33 hours for authorities to get their suspect.
-
-**Type:** Factual
-
-### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candac... @ 00:21:25](/episodes/ep-5autG89PW6w.md#^t-00-20-43)
-
-> Three people told me off-record—two people who have this in a written communication from Charlie (Charlie Kirk), one who is a Turning Point USA donor... The very day before Charlie (Charlie Kirk) died, he expressed that he thought he was going to be killed.
-
-**Type:** Factual
-
-### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candac... @ 00:24:14](/episodes/ep-5autG89PW6w.md#^t-00-24-12)
-
-> We actually spoke literally the night before his tragic and untimely death. I was on a small Zoom call with him and a couple others.
-
-**Type:** Factual
-
-### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candac... @ 00:28:53](/episodes/ep-5autG89PW6w.md#^t-00-28-35)
-
-> he was obviously dead before he hit the ground. That was not an entry wound that we saw. We saw an exit wound.
-
-**Type:** Factual
-
-### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candac... @ 00:29:01](/episodes/ep-5autG89PW6w.md#^t-00-28-35)
-
-> Why did his shirt move the way it did? When I've shot people, their shirts didn't move like that.
-
-**Type:** Factual
 
 ### [From Britney To Charlie. With Pastors Like These, Who Nee... @ 00:02:12](/episodes/ep-7RLtGgkTh9o.md#^t-00-02-03)
 
@@ -7905,42 +9770,49 @@ _Claims not yet checked against external sources_
 > It was after the public execution of sitting President JFK in 1963 that the CIA established Operation Mockingbird.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. ... @ 00:05:44](/episodes/ep-JQjCAsfoXEE.md#^t-00-05-00)
 
 > On October 11th, when I infamously tweeted about the Egyptian military plane that left Provo on the morning of Charlie Kirk's assassination
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. ... @ 00:12:15](/episodes/ep-JQjCAsfoXEE.md#^t-00-11-52)
 
 > Terrell Farnsworth, the guy who takes out the SD cards, was there at all. Terrell does not do college campus events. He does the big events: the SAS, the AmFest.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. ... @ 00:12:50](/episodes/ep-JQjCAsfoXEE.md#^t-00-12-33)
 
 > Charlie Kirk flew into Salt Lake City that morning. Because why didn't he fly into the much closer Provo airport?
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. ... @ 00:15:09](/episodes/ep-JQjCAsfoXEE.md#^t-00-14-44)
 
 > Charlie Kirk landed into Salt Lake City at 9:23 a.m. local time.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. ... @ 00:16:55](/episodes/ep-JQjCAsfoXEE.md#^t-00-16-12)
 
 > between 2022 and September of 2025, both of those aircraft—SU-BTT, the yellow plane, and SU-BND, the blue plane—showed 68 overlaps with Erika's documented locations... I have since been able to add now 73 times that this overlapped
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. ... @ 00:17:22](/episodes/ep-JQjCAsfoXEE.md#^t-00-16-57)
 
 > The flights were majority clustered within five states: Kansas, Missouri, Nebraska, Delaware, and Utah.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. ... @ 00:18:41](/episodes/ep-JQjCAsfoXEE.md#^t-00-18-13)
 
@@ -7953,138 +9825,161 @@ _Claims not yet checked against external sources_
 > On the day of Charlie Kirk's assassination, ... the blue plane, SU-BND, did, however, power on... transponding at the FBO at Duncan Aviation
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. ... @ 00:21:35](/episodes/ep-JQjCAsfoXEE.md#^t-00-21-01)
 
 > On September 10th, the day of Charlie Kirk's assassination, this plane first transponded from 9:05 a.m. plus 36 seconds until it was turned off at 10:34 a.m. and five seconds. Then the plane turned back on ... at 12:40 p.m. and 53 seconds, and it stayed on until 1:29 p.m. and 40 seconds.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. ... @ 00:24:14](/episodes/ep-JQjCAsfoXEE.md#^t-00-23-29)
 
 > in the hospital on that day, you told me—you were in the hospital—that you were told that there was a credible threat against me and Tucker Carlson. Specifically, you told me that me and Tucker Carlson were on a list
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. ... @ 00:26:14](/episodes/ep-JQjCAsfoXEE.md#^t-00-25-34)
 
 > The tail number is N560TW. It departed on the morning of September 10th from Scottsdale, Arizona, and it landed into Provo at 10:06 a.m. It then immediately turned around and departed for Santa Barbara. ... departed Santa Barbara at 11:37 a.m. for Scottsdale, landing at 12:44 p.m.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. ... @ 00:27:30](/episodes/ep-JQjCAsfoXEE.md#^t-00-26-57)
 
 > Duncan Aviation ... sourced rental cars for these quote-unquote Egyptians when they landed a couple of days before this operation. ... license plate numbers for four of the vehicles: T09-20-2ZS (silver 2025 Toyota RAV4, Utah), CWNN872 (white 2025 Toyota Camry, Arizona), TN12KM (white 2023 Toyota RAV4, Utah), Z923DA (black 2025 Toyota 4Runner, Utah)
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. ... @ 00:33:34](/episodes/ep-JQjCAsfoXEE.md#^t-00-32-54)
 
 > they missed their tax deadline—for the first time ... filed for an extension and then miss the extension deadline to file
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. ... @ 00:37:40](/episodes/ep-JQjCAsfoXEE.md#^t-00-37-02)
 
 > Turning Point USA sent $8,560,625 ... to America's Turning Point
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. ... @ 00:44:24](/episodes/ep-JQjCAsfoXEE.md#^t-00-43-52)
 
 > they cleared over $70 million in the first couple of weeks after Charlie Kirk was assassinated.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:02:34](/episodes/ep-K1tFD7FfoCU.md#^t-00-02-14)
 
 > Randy Fine has been so disgusting in his rhetoric towards Palestinians—saying essentially that they're just not even truly humans—that even AIPAC had to drop him.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:06:29](/episodes/ep-K1tFD7FfoCU.md#^t-00-06-07)
 
 > They fired him from Fox because he was speaking out against the Ukrainian war, and that was not allowed.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:07:05](/episodes/ep-K1tFD7FfoCU.md#^t-00-06-49)
 
 > these same individuals were squeezing Charlie leading up to the end of his life. They wanted Tucker Carlson to be gone, no longer allowed on the Turning Point USA stage
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:08:20](/episodes/ep-K1tFD7FfoCU.md#^t-00-08-16)
 
 > Before Charlie died—really kind of just before he died in July—I interviewed Nick Fuentes. And Charlie and I discussed the interview, and never once did he tell me not to speak to Nick Fuentes.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:08:39](/episodes/ep-K1tFD7FfoCU.md#^t-00-08-16)
 
 > I also had a long discussion with Andrew Colvet separately, telling them both that Charlie should host Nick Fuentes on his show and debate him. I tried to make that happen. Andrew Colvet can confirm that everything that I am saying is true.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:14:52](/episodes/ep-K1tFD7FfoCU.md#^t-00-14-16)
 
 > Charlie and Ben Shapiro did not get along. Because Charlie found out that Ben Shapiro was operating behind the scenes to stop him and sort of hinder the growth of Turning Point USA in our early days... I have only about 80 to 150 text messages from Charlie to that effect.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:15:28](/episodes/ep-K1tFD7FfoCU.md#^t-00-14-56)
 
 > Ben Shapiro told Charlie that Ben Shapiro was in part upset because I made a joke about him... and that I, Candace Owens, was going to Milo my career if Charlie didn't get away from me.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:18:55](/episodes/ep-K1tFD7FfoCU.md#^t-00-18-23)
 
 > Charlie loved Tucker Carlson... he fought for Tucker Carlson to be on the Turning Point stage until his dying day—literally.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:20:36](/episodes/ep-K1tFD7FfoCU.md#^t-00-20-31)
 
 > in the immediate aftermath of Charlie's death... the team reached out to host Matt Walsh to host Charlie Kirk's show... And they were told that that was not allowed to happen unless Ben Shapiro was also invited.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:20:53](/episodes/ep-K1tFD7FfoCU.md#^t-00-20-31)
 
 > the Jerusalem Post completely fictionalized or rather published a completely deranged lie about Erika Kirk... 'Mrs. Erika Kirk will accept the award on her husband's behalf'
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:22:13](/episodes/ep-K1tFD7FfoCU.md#^t-00-21-54)
 
 > Andrew Colvet, the spokesperson for Turning Point USA, instantly came out and slapped down the rumor... 'This is the first we're hearing of this. We've reached out to the reporter at the Jerusalem Post for a correction.'
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:23:33](/episodes/ep-K1tFD7FfoCU.md#^t-00-23-22)
 
 > he wavered in his support [for Israel]
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:36:52](/episodes/ep-K1tFD7FfoCU.md#^t-00-36-34)
 
 > Kash Patel... flew down in his FBI plane to go see her [Alexis] down in Nashville.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:37:08](/episodes/ep-K1tFD7FfoCU.md#^t-00-36-34)
 
 > there are clips of Kash Patel calling the FBI corrupt before he was in the FBI and saying that taxpayers shouldn't have to fund their personal trips.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Expressed Concerns About TPUSA Finances | Ca... @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)
 
 > a week before Charlie Kirk lost his life, he expressed some concerns about the finances at Turning Point USA
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Expressed Concerns About TPUSA Finances | Ca... @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)
 
@@ -8097,6 +9992,7 @@ _Claims not yet checked against external sources_
 > Charlie Kirk wanted to put together an entire department, a little mini-department, to address those concerns
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Expressed Concerns About TPUSA Finances | Ca... @ 00:00:08](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)
 
@@ -8109,6 +10005,7 @@ _Claims not yet checked against external sources_
 > Benjamin Netanyahu tweeted before the president of the United States that Charlie Kirk had lost his life
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Expressed Concerns About TPUSA Finances | Ca... @ 00:01:53](/episodes/ep-K5GjF53bfN4.md#^t-00-01-27)
 
@@ -8121,6 +10018,7 @@ _Claims not yet checked against external sources_
 > Benjamin Netanyahu lied about the contents of a letter that Charlie Kirk had written him back in May
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Expressed Concerns About TPUSA Finances | Ca... @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#^t-00-01-58)
 
@@ -8175,6 +10073,7 @@ _Claims not yet checked against external sources_
 > Marissa Streit has not always been open about the fact that she worked for the IDF intelligence
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Expressed Concerns About TPUSA Finances | Ca... @ 00:08:35](/episodes/ep-K5GjF53bfN4.md#^t-00-08-02)
 
@@ -8187,6 +10086,7 @@ _Claims not yet checked against external sources_
 > Turning Point will not release the footage
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Expressed Concerns About TPUSA Finances | Ca... @ 00:11:34](/episodes/ep-K5GjF53bfN4.md#^t-00-11-24)
 
@@ -8205,6 +10105,7 @@ _Claims not yet checked against external sources_
 > neither the feds nor the local police had ever reached out to the person who filmed the shooter sprinting across the rooftop
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Expressed Concerns About TPUSA Finances | Ca... @ 00:15:40](/episodes/ep-K5GjF53bfN4.md#^t-00-15-27)
 
@@ -8217,6 +10118,7 @@ _Claims not yet checked against external sources_
 > he walked in and gave the footage to the Orem Police Department... the feds never reached out to him until the 15th
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Expressed Concerns About TPUSA Finances | Ca... @ 00:19:12](/episodes/ep-K5GjF53bfN4.md#^t-00-19-04)
 
@@ -8247,6 +10149,7 @@ _Claims not yet checked against external sources_
 > on September 2nd... Charlie Kirk surprised the company by announcing that he was putting together a DOGE department
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Expressed Concerns About TPUSA Finances | Ca... @ 00:21:06](/episodes/ep-K5GjF53bfN4.md#^t-00-20-28)
 
@@ -8259,6 +10162,7 @@ _Claims not yet checked against external sources_
 > internal memo signed off by Charlie Kirk on September 2nd announcing Justin Strief as COO and empowering him to engage in an organizational-wide DOGE effort focused on efficiency, cost-effectiveness, metrics, and reshaping culture
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Expressed Concerns About TPUSA Finances | Ca... @ 00:22:52](/episodes/ep-K5GjF53bfN4.md#^t-00-22-38)
 
@@ -8277,6 +10181,7 @@ _Claims not yet checked against external sources_
 > sources at Turning Point said that Charlie Kirk wasn't just concerned about where the money was going, but also where the money was coming from
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Expressed Concerns About TPUSA Finances | Ca... @ 00:23:45](/episodes/ep-K5GjF53bfN4.md#^t-00-23-23)
 
@@ -8368,24 +10273,6 @@ _Claims not yet checked against external sources_
 
 **Type:** Factual
 
-### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Cand... @ 00:10:22](/episodes/ep-LATnak75Si0.md#^t-00-09-44)
-
-> Bill Ackman gave $1.75 million to stop Mamdani.
-
-**Type:** Factual
-
-### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Cand... @ 00:10:30](/episodes/ep-LATnak75Si0.md#^t-00-09-44)
-
-> Michael Bloomberg gave $8.3 million to a Cuomo-affiliated super PAC to stop Mamdani.
-
-**Type:** Factual
-
-### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Cand... @ 00:10:41](/episodes/ep-LATnak75Si0.md#^t-00-10-30)
-
-> Airbnb co-founder Joe Gebbia gave $3.1 million to stop Mamdani.
-
-**Type:** Factual
-
 ### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Cand... @ 00:10:47](/episodes/ep-LATnak75Si0.md#^t-00-10-30)
 
 > The Tisch family gave $1.2 million to stop Mamdani.
@@ -8410,18 +10297,6 @@ _Claims not yet checked against external sources_
 
 **Type:** Factual
 
-### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Cand... @ 00:20:45](/episodes/ep-LATnak75Si0.md#^t-00-20-09)
-
-> Bob Shulman took $2 million away from Charlie Kirk because he let Tucker Carlson hit the stage.
-
-**Type:** Factual
-
-### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Cand... @ 00:31:39](/episodes/ep-LATnak75Si0.md#^t-00-31-13)
-
-> Charlie Kirk was never rendered any first aid immediately; security team did not administer first aid, no gauze, no hand on wound.
-
-**Type:** Factual
-
 ### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Cand... @ 00:32:30](/episodes/ep-LATnak75Si0.md#^t-00-31-55)
 
 > Security guard grabbed Charlie Kirk and guided him onto the ground on top of an equipment suitcase; never put flat on the ground.
@@ -8439,100 +10314,102 @@ _Claims not yet checked against external sources_
 > Megyn Kelly produced video evidence of what Charlie Kirk said to Tucker Carlson backstage at the Student Action Summit in July
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Char... @ 00:05:16](/episodes/ep-MUA9ebCF4Ow.md#^t-00-05-02)
 
 > Candace Owens has not made the claim that Erika Kirk was behind the murder of Charlie Kirk
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Char... @ 00:09:46](/episodes/ep-MUA9ebCF4Ow.md#^t-00-09-38)
 
 > Charlie Kirk told Tucker Carlson backstage before July speech to 'go all the way' criticizing neocons drawing US into Iran war and Epstein's Israeli intelligence contacts
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Char... @ 00:12:06](/episodes/ep-MUA9ebCF4Ow.md#^t-00-11-22)
 
 > Video shows Charlie Kirk interrupting conversation and telling Tucker Carlson 'Go max' right before Tucker's speech
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Char... @ 00:15:57](/episodes/ep-MUA9ebCF4Ow.md#^t-00-15-12)
 
 > Pastor Rob McCoy claimed Mikey McCoy had blood all over him
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Char... @ 00:16:05](/episodes/ep-MUA9ebCF4Ow.md#^t-00-15-57)
 
 > Alex Clark and Andrew Colvett claimed Charlie Kirk was a committed evangelical who only liked Catholic architecture
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Char... @ 00:16:19](/episodes/ep-MUA9ebCF4Ow.md#^t-00-15-57)
 
 > Andrew Colvett claimed Charlie Kirk's neck stopped a .30-06 bullet because he ate salad and had strong bones as a miracle
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Char... @ 00:16:41](/episodes/ep-MUA9ebCF4Ow.md#^t-00-15-57)
 
 > Rob McCoy claimed Mikey McCoy called his dad first
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Char... @ 00:19:08](/episodes/ep-MUA9ebCF4Ow.md#^t-00-18-54)
 
 > UVU Turning Point chapter requested Charlie Kirk to speak on July 18th according to local Utah news
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Char... @ 00:19:36](/episodes/ep-MUA9ebCF4Ow.md#^t-00-18-54)
 
 > Turning Point USA approved UVU request and sent scouts to campus within two weeks in early August
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Char... @ 00:20:14](/episodes/ep-MUA9ebCF4Ow.md#^t-00-19-36)
 
 > UVU recommended against holding event in amphitheater for safety reasons but Turning Point USA insisted on outdoor location
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Char... @ 00:30:04](/episodes/ep-MUA9ebCF4Ow.md#^t-00-29-28)
 
 > Timpanogos Hospital (HCA, VDI system) and Utah Valley Hospital (IHC, Epic system) do not share patient information
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Char... @ 00:32:30](/episodes/ep-MUA9ebCF4Ow.md#^t-00-32-19)
 
 > The old man near the bush during setup is Butch Hibbs, brother of Pastor Jack Hibbs
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Char... @ 00:37:22](/episodes/ep-MUA9ebCF4Ow.md#^t-00-37-04)
 
 > Alexis Wilkins is suing Elijah Schaffer and others for $5 million over honeypot claims
 
 **Type:** Factual
-
-### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie K... @ 00:01:35](/episodes/ep-QZWSsq8ZWzw.md#^t-00-01-30)
-
-> FBI is putting an absurd amount of pressure right now on the authorities in Utah and also the rest of the government in Utah to come out and say that the Charlie Kirk case is closed
-
-**Type:** Factual
+**Veracity:** Unverified
 
 ### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie K... @ 00:01:35](/episodes/ep-QZWSsq8ZWzw.md#^t-00-01-30)
 
 > the FBI is putting an absurd amount of pressure right now on the authorities in Utah and also the rest of the government in Utah to come out and to say that the Charlie Kirk case is closed
-
-**Type:** Factual
-
-### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie K... @ 00:01:59](/episodes/ep-QZWSsq8ZWzw.md#^t-00-01-30)
-
-> FBI wants Charlie Kirk's assassination to be officially ruled lone gunman
 
 **Type:** Factual
 
@@ -8551,12 +10428,6 @@ _Claims not yet checked against external sources_
 ### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie K... @ 00:03:06](/episodes/ep-QZWSsq8ZWzw.md#^t-00-02-58)
 
 > currently there is absolutely no video which shows Tyler Robinson firing the weapon or even taking aim at Charlie Kirk
-
-**Type:** Factual
-
-### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie K... @ 00:03:18](/episodes/ep-QZWSsq8ZWzw.md#^t-00-02-58)
-
-> There is absolutely no video which shows Tyler Robinson firing the weapon or even taking aim at Charlie Kirk
 
 **Type:** Factual
 
@@ -8610,19 +10481,7 @@ _Claims not yet checked against external sources_
 
 ### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie K... @ 00:05:35](/episodes/ep-QZWSsq8ZWzw.md#^t-00-05-00)
 
-> Bullet was too fragmented to match Tyler's rifle
-
-**Type:** Factual
-
-### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie K... @ 00:05:35](/episodes/ep-QZWSsq8ZWzw.md#^t-00-05-00)
-
 > regarding the bullet, the source says that it was too fragmented to match Tyler's rifle
-
-**Type:** Factual
-
-### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie K... @ 00:05:50](/episodes/ep-QZWSsq8ZWzw.md#^t-00-05-35)
-
-> Tyler Robinson has not confessed to anything
 
 **Type:** Factual
 
@@ -8823,120 +10682,140 @@ _Claims not yet checked against external sources_
 > his church was funded by the Wilks Brothers down in Texas.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | C... @ 00:13:54](/episodes/ep-Qfwr08Ebczo.md#^t-00-13-27)
 
 > The Wilks Brothers are the ones that fund DailyWire, the initial seed money behind DailyWire—not the initial seed money behind PragerU, but they majorly fund PragerU as well.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | C... @ 00:14:25](/episodes/ep-Qfwr08Ebczo.md#^t-00-14-10)
 
 > after 17 years as the head pastor of that church, Rob McCoy—it was publicly announced in January of this year—that he would be stepping down as the head pastor and instead assuming the role of pastor emeritus.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | C... @ 00:15:02](/episodes/ep-Qfwr08Ebczo.md#^t-00-14-54)
 
 > That transition took effect in mid-July of this year.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | C... @ 00:16:14](/episodes/ep-Qfwr08Ebczo.md#^t-00-15-33)
 
 > Rob actually put that secondary home in Coronado up for sale on August 24th, 2025, of this year.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | C... @ 00:17:15](/episodes/ep-Qfwr08Ebczo.md#^t-00-16-56)
 
 > Turning Point USA receives a request from UVU for Charlie Kirk to hold an event at Utah Valley on July 18th.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | C... @ 00:18:05](/episodes/ep-Qfwr08Ebczo.md#^t-00-17-43)
 
 > It's the application submitted mid-July by the UVU chapter of Kirk's Turning Point USA.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | C... @ 00:18:52](/episodes/ep-Qfwr08Ebczo.md#^t-00-18-24)
 
 > Tyler Robinson is charged with Kirk's murder.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | C... @ 00:19:41](/episodes/ep-Qfwr08Ebczo.md#^t-00-19-04)
 
 > there was no ambulance on standby, and that's against Utah law.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | C... @ 00:21:51](/episodes/ep-Qfwr08Ebczo.md#^t-00-21-39)
 
 > there were—for whatever reason—12 Israeli cell phones on the ground at Utah Valley University the day that Charlie Kirk was assassinated. ... 12 personal cell phone accounts that were opened in Israel ... and they were on the ground on September 10th at Utah Valley University when Charlie Kirk was shot.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | C... @ 00:22:41](/episodes/ep-Qfwr08Ebczo.md#^t-00-22-17)
 
 > The NSA knows this. Kash Patel knows this.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Why Isn't The Trump Family Asking Questions About Charlie... @ 00:00:02](/episodes/ep-Qt0VHV-POCg.md#^t-00-00-00)
 
 > the Turning Point USA Wikipedia entry got a very interesting update the night after Charlie Kirk was murdered
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Why Isn't The Trump Family Asking Questions About Charlie... @ 00:03:21](/episodes/ep-Qt0VHV-POCg.md#^t-00-02-59)
 
 > less than 36 hours after Charlie died—less than 36 hours, exact time, at 10:34 p.m. Eastern on September 11th—the Turning Point USA Wikipedia received a rather interesting update
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Why Isn't The Trump Family Asking Questions About Charlie... @ 00:03:52](/episodes/ep-Qt0VHV-POCg.md#^t-00-03-39)
 
 > It reads: "Rob McCoy and Charlie Kirk founded Turning Point USA Faith (TPUSA Faith) together."
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Why Isn't The Trump Family Asking Questions About Charlie... @ 00:06:42](/episodes/ep-Qt0VHV-POCg.md#^t-00-06-26)
 
 > "In 2021, Charlie Kirk founded TPUSA Faith, an organization that says it is dedicated to recruit pastors and other church leaders to be active in local and national political issues."
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Why Isn't The Trump Family Asking Questions About Charlie... @ 00:13:18](/episodes/ep-Qt0VHV-POCg.md#^t-00-12-33)
 
 > Clearing like a hundred million a year.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Why Isn't The Trump Family Asking Questions About Charlie... @ 00:14:01](/episodes/ep-Qt0VHV-POCg.md#^t-00-13-18)
 
 > For Charlie's birthday, President Trump signed into law—or established, rather—a holiday. And he decided that October 14th, which is Charlie Kirk's birthday, would be a National Day of Remembrance for Charlie Kirk.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Why Isn't The Trump Family Asking Questions About Charlie... @ 00:16:25](/episodes/ep-Qt0VHV-POCg.md#^t-00-16-13)
 
 > "Why was the wonderful Turning Point under investigation by deranged Jack Smith and the corrupt and incompetent Biden administration?"
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Why Isn't The Trump Family Asking Questions About Charlie... @ 00:30:09](/episodes/ep-Qt0VHV-POCg.md#^t-00-29-42)
 
 > Charlie had a Catholic funeral Mass, and he is buried in a Catholic cemetery.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Why Isn't The Trump Family Asking Questions About Charlie... @ 00:34:16](/episodes/ep-Qt0VHV-POCg.md#^t-00-34-09)
 
 > I do have confidence.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Bearing False Witness: Who Made The Charlie Kirk Videos G... @ 00:00:32](/episodes/ep-UBkFkg4UNY8.md#^t-00-00-00)
 
@@ -9352,21 +11231,9 @@ _Claims not yet checked against external sources_
 
 **Type:** Factual
 
-### [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:30:44](/episodes/ep-YA1FxrDWNIo.md#^t-00-30-08)
-
-> Charlie Kirk was taken to Timpanogos Regional Hospital... a smaller regional hospital that was a little farther away... trauma III center.
-
-**Type:** Factual
-
 ### [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:31:35](/episodes/ep-YA1FxrDWNIo.md#^t-00-31-28)
 
 > that hospital had just announced that they had a brand-new CEO and head surgeon named Andrew Zenger
-
-**Type:** Factual
-
-### [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:32:13](/episodes/ep-YA1FxrDWNIo.md#^t-00-31-28)
-
-> Kash Patel... fired the chief of the Utah bureau... replaced her with Robert Bowles in August.
 
 **Type:** Factual
 
@@ -9381,96 +11248,7 @@ _Claims not yet checked against external sources_
 > the people who came in on that plane were not the people that went out on that plane
 
 **Type:** Factual
-
-### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 00:04:26](/episodes/ep-YFmRH8p5lt0.md#^t-00-04-11)
-
-> that plane we covered, the tail number SUBTT—just so you know—like a year earlier, that plane was in Utah at the same time as Charlie Kirk
-
-**Type:** Factual
-
-### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 00:06:10](/episodes/ep-YFmRH8p5lt0.md#^t-00-05-35)
-
-> there was another Egyptian plane that left three hours after—Egyptian military plane that is—three hours after Charlie Kirk was assassinated from Provo, Utah... three days after Charlie Kirk was assassinated—that's when the rest of the Egyptian crew, whoever was on that plane, departed Provo
-
-**Type:** Factual
-
-### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 00:08:42](/episodes/ep-YFmRH8p5lt0.md#^t-00-08-14)
-
-> Rob McCoy hosts the first-ever Turning Point USA Faith Pastors Tour of Israel January 10th to 19th
-
-**Type:** Factual
-
-### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 00:09:38](/episodes/ep-YFmRH8p5lt0.md#^t-00-08-56)
-
-> James O'Keefe gets pushed out. He's ousted from the board of his own company [Project Veritas] on February 20th
-
-**Type:** Factual
-
-### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 00:10:31](/episodes/ep-YFmRH8p5lt0.md#^t-00-10-20)
-
-> Sean Feucht is announced as the Turning Point USA Faith contributor on February 27th
-
-**Type:** Factual
-
-### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 00:14:15](/episodes/ep-YFmRH8p5lt0.md#^t-00-13-53)
-
-> Turning Point USA has their first-ever Faith Pastor Summit... in Nashville... on March 24th, 2023
-
-**Type:** Factual
-
-### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 00:17:23](/episodes/ep-YFmRH8p5lt0.md#^t-00-16-57)
-
-> trans shooting at Covenant Elementary School in Nashville... March 27th
-
-**Type:** Factual
-
-### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 00:19:49](/episodes/ep-YFmRH8p5lt0.md#^t-00-19-41)
-
-> Mikey McCoy's promoted to the chief of staff of Turning Point USA. I have the internal email, so that is a fact. He gets the promotion January 3, 2024
-
-**Type:** Factual
-
-### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 00:20:57](/episodes/ep-YFmRH8p5lt0.md#^t-00-20-27)
-
-> Turning Point USA on February 11th... starts a chapter in Lincoln, Nebraska
-
-**Type:** Factual
-
-### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 00:26:47](/episodes/ep-YFmRH8p5lt0.md#^t-00-26-11)
-
-> Sean Feucht is credibly accused of having been involved in fraud and embezzlement... article broke [June 2024]
-
-**Type:** Factual
-
-### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. |... @ 01:01:27](/episodes/ep-YFmRH8p5lt0.md#^t-01-01-05)
-
-> one of those planes... the tail number for that plane was Googled by Israel on September 8th—two days before the assassination
-
-**Type:** Factual
-
-### [Why Is Everyone Crashing Out Over The Charlie Kirk Invest... @ 00:17:14](/episodes/ep-YaZfwLQ7vrI.md#^t-00-16-39)
-
-> Lance Wallnau... graduated from a military academy. His father, Carl Wallnau, was a major in the United States Air Force. Wallnau served under General Patton.
-
-**Type:** Factual
-
-### [Why Is Everyone Crashing Out Over The Charlie Kirk Invest... @ 00:20:07](/episodes/ep-YaZfwLQ7vrI.md#^t-00-19-33)
-
-> Sources within Turning Point's faith department tell me that Lance Wallnau was running the show behind the scenes through funding—that he put a ton of money into Turning Point USA Faith operations.
-
-**Type:** Factual
-
-### [Why Is Everyone Crashing Out Over The Charlie Kirk Invest... @ 00:22:16](/episodes/ep-YaZfwLQ7vrI.md#^t-00-22-07)
-
-> a Marine whose family knows Rob McCoy—well, Rob McCoy is friends with that Marine—that Marine's mother decides to storm into a bar and conduct a mass shooting.
-
-**Type:** Factual
-
-### [Why Is Everyone Crashing Out Over The Charlie Kirk Invest... @ 00:23:21](/episodes/ep-YaZfwLQ7vrI.md#^t-00-22-44)
-
-> a month after this, Rob McCoy then gets elected mayor of Thousand Oaks.
-
-**Type:** Factual
+**Veracity:** Unverified
 
 ### [Why Is Everyone Crashing Out Over The Charlie Kirk Invest... @ 00:24:04](/episodes/ep-YaZfwLQ7vrI.md#^t-00-23-28)
 
@@ -9501,6 +11279,7 @@ _Claims not yet checked against external sources_
 > Cam Higby is on the payroll of Turning Point USA, beginning in August of this year.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Shocking Revelation About The Egyptian Planes... | Candac... @ 00:10:47](/episodes/ep-ZAuuSq_j2_w.md#^t-00-10-11)
 
@@ -9519,12 +11298,14 @@ _Claims not yet checked against external sources_
 > SUBND was the one that was transponding on the ground at Duncan Aviation on the day of Charlie Kirk's assassination, but it did not go anywhere.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Shocking Revelation About The Egyptian Planes... | Candac... @ 00:14:06](/episodes/ep-ZAuuSq_j2_w.md#^t-00-13-44)
 
 > yellow plane carried on to Delaware—Wilmington, Delaware—that morning.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Shocking Revelation About The Egyptian Planes... | Candac... @ 00:14:06](/episodes/ep-ZAuuSq_j2_w.md#^t-00-13-44)
 
@@ -9537,6 +11318,7 @@ _Claims not yet checked against external sources_
 > flight from Provo to Delaware on the yellow plane had only four people on board, one of which was a foreign dignitary.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Shocking Revelation About The Egyptian Planes... | Candac... @ 00:14:20](/episodes/ep-ZAuuSq_j2_w.md#^t-00-13-44)
 
@@ -9549,6 +11331,7 @@ _Claims not yet checked against external sources_
 > one of those individuals was using the name Walid Mahmood.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Shocking Revelation About The Egyptian Planes... | Candac... @ 00:14:47](/episodes/ep-ZAuuSq_j2_w.md#^t-00-14-25)
 
@@ -9561,18 +11344,21 @@ _Claims not yet checked against external sources_
 > Walid Mahmood came to Provo on May 27th of this year.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Shocking Revelation About The Egyptian Planes... | Candac... @ 00:15:18](/episodes/ep-ZAuuSq_j2_w.md#^t-00-15-09)
 
 > there is no transponder data which reflects that trip.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Shocking Revelation About The Egyptian Planes... | Candac... @ 00:15:34](/episodes/ep-ZAuuSq_j2_w.md#^t-00-15-09)
 
 > He was aboard another Egyptian military plane, and the tail number for that plane is SUBTU.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Shocking Revelation About The Egyptian Planes... | Candac... @ 00:16:04](/episodes/ep-ZAuuSq_j2_w.md#^t-00-15-51)
 
@@ -9591,6 +11377,7 @@ _Claims not yet checked against external sources_
 > the purple plane, SUBTU ... was once upon a time flown with the president of Egypt aboard ... back in 2023.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Shocking Revelation About The Egyptian Planes... | Candac... @ 00:16:40](/episodes/ep-ZAuuSq_j2_w.md#^t-00-16-27)
 
@@ -9603,6 +11390,7 @@ _Claims not yet checked against external sources_
 > Egyptian President el-Sisi flew on SUBTU ... on April 3rd, 2023 ... aboard that same exact aircraft, tail number SU-BTU, for a high-level sit-down with the Saudi Crown Prince Mohammed bin Salman.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Shocking Revelation About The Egyptian Planes... | Candac... @ 00:17:46](/episodes/ep-ZAuuSq_j2_w.md#^t-00-17-12)
 
@@ -9615,12 +11403,14 @@ _Claims not yet checked against external sources_
 > it was President al-Sisi that was aboard the jet on September 10th because he was photographed at a meeting with the Prime Minister of Tunisia, Sarah Zafrani—and it was in Egypt.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Shocking Revelation About The Egyptian Planes... | Candac... @ 00:18:01](/episodes/ep-ZAuuSq_j2_w.md#^t-00-17-47)
 
 > rule him out as having been the individual that was in Provo back in May because he was again photographed multiple times throughout that week in Egypt.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Shocking Revelation About The Egyptian Planes... | Candac... @ 00:18:01](/episodes/ep-ZAuuSq_j2_w.md#^t-00-17-47)
 
@@ -9747,108 +11537,126 @@ _Claims not yet checked against external sources_
 > Tyler Robinson has never confessed
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:02:27](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-02-23)
 
 > Tyler was bewildered by the idea that he carved casings
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:03:31](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-03-03)
 
 > Tyler absolutely did not author those text messages
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:04:51](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-04-48)
 
 > His parents don't believe that their son committed this crime
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:06:46](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-06-10)
 
 > Tyler has never even stepped foot on UVU campus
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:06:55](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-06-10)
 
 > Tyler was accepted into Utah State University, not Utah Valley
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:07:57](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-07-39)
 
 > Tyler Robinson was nearby the campus on that day
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:09:39](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-09-12)
 
 > Tyler potentially having some suicidal ideations, was en route to a remote area of Washington County
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:11:51](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-11-27)
 
 > The Feds told them that if they spoke out, their lives could be at risk [and convinced the family to go into witness protection]
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:12:33](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-12-08)
 
 > His father had no idea that Tyler was gay
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:14:16](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-14-01)
 
 > The family says that the photo of the young man that is coming up the stairs is definitively not Tyler Robinson
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:15:08](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-14-43)
 
 > Tyler Robinson's apartment was staged after his arrest
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:17:28](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-17-23)
 
 > Mike Mitchell is a retired detective that worked for me for many years
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:18:49](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-18-41)
 
 > The name of that individual is former deputy Mike Mitchell
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:19:17](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-18-41)
 
 > Mike Mitchell knows Tyler through the Boy Scouts [and he was the Boy Scout leader]
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:19:54](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-19-22)
 
 > Mike Mitchell retired last January
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:25:45](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-25-02)
 
 > Nick worked on Phil Lyman's gubernatorial campaign
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:28:37](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-27-53)
 
 > Phil Lyman's car was in the driveway of the now infamous TMZ footage [19 minutes before the shooter walked by]
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [To My Friend, Charlie Kirk. @ 00:00:28](/episodes/ep-_dRaEO47-co.md#^t-00-00-01)
 
@@ -10023,6 +11831,7 @@ _Claims not yet checked against external sources_
 > our FBI was founded by Charles Joseph Bonaparte
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Turning Point Has Been Keeping A BIG Secret. Did Charlie ... @ 00:04:29](/episodes/ep-a-e7HC6SeK8.md#^t-00-04-18)
 
@@ -10035,6 +11844,7 @@ _Claims not yet checked against external sources_
 > Napoleon Bonaparte was his great uncle
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Turning Point Has Been Keeping A BIG Secret. Did Charlie ... @ 00:06:49](/episodes/ep-a-e7HC6SeK8.md#^t-00-06-21)
 
@@ -10047,6 +11857,7 @@ _Claims not yet checked against external sources_
 > Robert Richards the Fourth was in 2009 convicted of raping his three-year-old daughter
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Turning Point Has Been Keeping A BIG Secret. Did Charlie ... @ 00:07:18](/episodes/ep-a-e7HC6SeK8.md#^t-00-07-02)
 
@@ -10059,18 +11870,21 @@ _Claims not yet checked against external sources_
 > the judge who sentenced the heir to the DuPont fortune let him off with no jail time
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Turning Point Has Been Keeping A BIG Secret. Did Charlie ... @ 00:08:27](/episodes/ep-a-e7HC6SeK8.md#^t-00-07-45)
 
 > his father is Robert H. Richards, a retired partner in the Richards, Layton & Finger law firm
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Turning Point Has Been Keeping A BIG Secret. Did Charlie ... @ 00:09:20](/episodes/ep-a-e7HC6SeK8.md#^t-00-09-06)
 
 > also admitted to sexually assaulting his infant son
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Turning Point Has Been Keeping A BIG Secret. Did Charlie ... @ 00:09:37](/episodes/ep-a-e7HC6SeK8.md#^t-00-09-06)
 
@@ -10083,6 +11897,7 @@ _Claims not yet checked against external sources_
 > John DuPont shot Olympic wrestler David Schultz dead in the driveway of the family's mansion in 1996
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Turning Point Has Been Keeping A BIG Secret. Did Charlie ... @ 00:10:20](/episodes/ep-a-e7HC6SeK8.md#^t-00-09-45)
 
@@ -10095,12 +11910,14 @@ _Claims not yet checked against external sources_
 > the money traced back to the DuPont family. It appeared that Lisa Dean—who is a DuPont—didn't approve of her drug-addicted son dating a drug-addicted Vegas sex worker. So she and her husband, Christopher Mosley, had her killed
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Turning Point Has Been Keeping A BIG Secret. Did Charlie ... @ 00:13:35](/episodes/ep-a-e7HC6SeK8.md#^t-00-13-20)
 
 > Donald Trump pardoned him. He pardoned Tyler Bowyer a couple of weeks ago
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Turning Point Has Been Keeping A BIG Secret. Did Charlie ... @ 00:17:15](/episodes/ep-a-e7HC6SeK8.md#^t-00-16-56)
 
@@ -10149,6 +11966,7 @@ _Claims not yet checked against external sources_
 > Benjamin Netanyahu calling Charlie Kirk and offering to take Turning Point to the next level
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Turning Point Has Been Keeping A BIG Secret. Did Charlie ... @ 00:22:11](/episodes/ep-a-e7HC6SeK8.md#^t-00-21-56)
 
@@ -10209,12 +12027,14 @@ _Claims not yet checked against external sources_
 > this donor was French American, and that this donor's name was Pierre... Pierre du Pont
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Turning Point Has Been Keeping A BIG Secret. Did Charlie ... @ 00:37:26](/episodes/ep-a-e7HC6SeK8.md#^t-00-36-55)
 
 > Turning Point USA put in a personal request to try to get the Egyptian plane story killed
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Turning Point Has Been Keeping A BIG Secret. Did Charlie ... @ 00:42:09](/episodes/ep-a-e7HC6SeK8.md#^t-00-41-44)
 
@@ -10386,12 +12206,6 @@ _Claims not yet checked against external sources_
 
 ### [Who Moved The Camera Right Above Charlie's Head? | Candac... @ 00:01:09](/episodes/ep-aDlhjfW6hz8.md#^t-00-00-55)
 
-> the Senate has voted and they have passed a bipartisan resolution to designate October 14th, which is Charlie Kirk's birthday, as Charlie Kirk Remembrance Day.
-
-**Type:** Factual
-
-### [Who Moved The Camera Right Above Charlie's Head? | Candac... @ 00:01:09](/episodes/ep-aDlhjfW6hz8.md#^t-00-00-55)
-
 > the Senate has voted and they have passed a bipartisan resolution to designate October 14th, which is Charlie's birthday, as Charlie Kirk Remembrance Day
 
 **Type:** Factual
@@ -10414,27 +12228,9 @@ _Claims not yet checked against external sources_
 
 **Type:** Factual
 
-### [Who Moved The Camera Right Above Charlie's Head? | Candac... @ 00:07:29](/episodes/ep-aDlhjfW6hz8.md#^t-00-07-14)
-
-> he said, look, as you can see in the footage, I was sitting right to the left of Charlie when Charlie got shot. And I instantly knew that he was not going to be OK. I instantly knew that he was dead.
-
-**Type:** Factual
-
-### [Who Moved The Camera Right Above Charlie's Head? | Candac... @ 00:08:23](/episodes/ep-aDlhjfW6hz8.md#^t-00-07-53)
-
-> he says, because the first thing that I thought is that I better secure the footage and be helpful and give that footage, hand that footage over to the feds.
-
-**Type:** Factual
-
 ### [Who Moved The Camera Right Above Charlie's Head? | Candac... @ 00:08:55](/episodes/ep-aDlhjfW6hz8.md#^t-00-08-33)
 
 > People are doing very... credible videos. People that certainly have the credibility are ballistics experts that are saying that what we see in the front is an exit wound, not an entry wound... people that hunt, people that are in the military, saying that this had to have come from another direction
-
-**Type:** Factual
-
-### [Who Moved The Camera Right Above Charlie's Head? | Candac... @ 00:10:36](/episodes/ep-aDlhjfW6hz8.md#^t-00-09-54)
-
-> I watched the footage... there is nothing gory about this shot at all... there's no blood from the back. There is no blood.
 
 **Type:** Factual
 
@@ -10461,18 +12257,6 @@ _Claims not yet checked against external sources_
 > There's no other way to assess those disastrous text messages, absolute disaster of a fed operation with those messages
 
 **Type:** Interpretive
-
-### [Who Moved The Camera Right Above Charlie's Head? | Candac... @ 00:16:38](/episodes/ep-aDlhjfW6hz8.md#^t-00-16-10)
-
-> on Caldera's website, they noted that they have worked in Israel. They have a map that they note every country that they have done engineering projects in. And one of them, or two dots, are in Israel.
-
-**Type:** Factual
-
-### [Who Moved The Camera Right Above Charlie's Head? | Candac... @ 00:28:05](/episodes/ep-aDlhjfW6hz8.md#^t-00-27-56)
-
-> I spoke at Turning Point's conference—two conferences—last year... I went on tour with Turning Point last year. Live Free Tour, Charlie Kirk and Candace Owens.
-
-**Type:** Factual
 
 ### [Who Moved The Camera Right Above Charlie's Head? | Candac... @ 00:28:11](/episodes/ep-aDlhjfW6hz8.md#^t-00-27-56)
 
@@ -10551,12 +12335,6 @@ _Claims not yet checked against external sources_
 > Charlie was concerned about the speech that he felt, the restrictions, and inevitably this happens when you get into bed with Israel.
 
 **Type:** Interpretive
-
-### [Who Moved The Camera Right Above Charlie's Head? | Candac... @ 00:33:18](/episodes/ep-aDlhjfW6hz8.md#^t-00-32-45)
-
-> This message is from May... Charlie sent me his tweet... And he wrote back—as you can see, and the date here is May 22nd of this year—'It totally is.'
-
-**Type:** Factual
 
 ### [Who Moved The Camera Right Above Charlie's Head? | Candac... @ 00:34:27](/episodes/ep-aDlhjfW6hz8.md#^t-00-34-12)
 
@@ -10708,18 +12486,6 @@ _Claims not yet checked against external sources_
 
 **Type:** Factual
 
-### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shoot... @ 00:00:52](/episodes/ep-adJ4LNGp84I.md#^t-00-00-36)
-
-> We have now confirmed that there was indeed a woman who was with the shooter in the footage that was captured by the houses nearby the area. And for whatever reason, the FBI has not yet released or even acknowledged that that footage exists.
-
-**Type:** Factual
-
-### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shoot... @ 00:02:16](/episodes/ep-adJ4LNGp84I.md#^t-00-02-10)
-
-> The venue was indeed secured in quick order, but that was because they had help from the White House, and Turning Point did not book that venue back in May, so we can formally debunk that. I was told that the White House stepped in and put in a personal phone call to the event coordinator. And they actually did already have an event that was scheduled. And the White House simply asked those people if they would be willing to move or reschedule their event. It was apparently supposed to be an RV show.
-
-**Type:** Factual
-
 ### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shoot... @ 00:04:12](/episodes/ep-adJ4LNGp84I.md#^t-00-03-37)
 
 > That entry has been there at least since—and I'm gonna show you this on Wayback—at least since June 6th, 2024.
@@ -10738,21 +12504,9 @@ _Claims not yet checked against external sources_
 
 **Type:** Factual
 
-### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shoot... @ 00:06:32](/episodes/ep-adJ4LNGp84I.md#^t-00-06-18)
-
-> The judge that is in the case that is overseeing the case against Tyler Robinson is Judge Tony F. Graff Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox.
-
-**Type:** Factual
-
 ### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shoot... @ 00:06:44](/episodes/ep-adJ4LNGp84I.md#^t-00-06-18)
 
 > I was also informed that the coroner in this case was also brand spanking new.
-
-**Type:** Factual
-
-### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shoot... @ 00:06:52](/episodes/ep-adJ4LNGp84I.md#^t-00-06-18)
-
-> Charlie Kirk did indeed have an autopsy.
 
 **Type:** Factual
 
@@ -10768,59 +12522,18 @@ _Claims not yet checked against external sources_
 
 **Type:** Factual
 
-### [Charlie's Angels Or Demons? Disturbing Footage Emerges. |... @ 00:07:20](/episodes/ep-c5BcKF91iec.md#^t-00-07-11)
-
-> He was wise enough at 31 to put together a plan for succession. It's very clear what they decided, and they're implementing it now.
-
-**Type:** Factual
-
-### [Charlie's Angels Or Demons? Disturbing Footage Emerges. |... @ 00:09:03](/episodes/ep-c5BcKF91iec.md#^t-00-08-40)
-
-> The minute Charlie was shot, he called me. Says, 'Dad, Charlie's been shot in the neck. Please call every pastor and pray.'
-
-**Type:** Factual
-
-### [Charlie's Angels Or Demons? Disturbing Footage Emerges. |... @ 00:09:57](/episodes/ep-c5BcKF91iec.md#^t-00-09-25)
-
-> Mikey did not have blood anywhere near him because Mikey was behind the tent when Charlie got shot.
-
-**Type:** Factual
-
-### [Charlie's Angels Or Demons? Disturbing Footage Emerges. |... @ 00:10:34](/episodes/ep-c5BcKF91iec.md#^t-00-09-57)
-
-> It is exactly 834 milliseconds from the time that you hear the shot. That is how long it takes for Mikey McCoy to put the phone to his ear.
-
-**Type:** Factual
-
-### [Charlie's Angels Or Demons? Disturbing Footage Emerges. |... @ 00:24:51](/episodes/ep-c5BcKF91iec.md#^t-00-24-38)
-
-> They just shot Charlie... He's dead.
-
-**Type:** Factual
-
 ### [Charlie's Angels Or Demons? Disturbing Footage Emerges. |... @ 00:39:32](/episodes/ep-c5BcKF91iec.md#^t-00-38-56)
 
 > I am not sure if I will live to see the end of this revolution.
 
 **Type:** Prediction
 
-### [Charlie's Angels Or Demons? Disturbing Footage Emerges. |... @ 00:39:39](/episodes/ep-c5BcKF91iec.md#^t-00-38-56)
-
-> Since the beginning of TPUSA, I knew in my gut that I might get wiped out at any time. I cannot explain it, but I dream about it all the time.
-
-**Type:** Factual
-
-### [Charlie's Angels Or Demons? Disturbing Footage Emerges. |... @ 00:39:44](/episodes/ep-c5BcKF91iec.md#^t-00-39-39)
-
-> I believe you were the piece that God meant me to meet that will finish the fight.
-
-**Type:** Factual
-
 ### [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:00:21](/episodes/ep-czVBmqZP6Ss.md#^t-00-00-00)
 
 > Charlie Kirk is dead and he was publicly executed
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:00:21](/episodes/ep-czVBmqZP6Ss.md#^t-00-00-00)
 
@@ -10857,12 +12570,14 @@ _Claims not yet checked against external sources_
 > Charlie Kirk was shot in the neck
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:04:44](/episodes/ep-czVBmqZP6Ss.md#^t-00-04-11)
 
 > Charlie Kirk was going through a spiritual transformation at the end
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:04:44](/episodes/ep-czVBmqZP6Ss.md#^t-00-04-11)
 
@@ -10881,6 +12596,7 @@ _Claims not yet checked against external sources_
 > Charlie Kirk wrote me a letter on May 2nd this year saying one of my greatest joys as a Christian is advocating for Israel and forming alliances to defend Judeo-Christian civilization
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:08:02](/episodes/ep-czVBmqZP6Ss.md#^t-00-07-17)
 
@@ -10893,6 +12609,7 @@ _Claims not yet checked against external sources_
 > In May, Charlie Kirk was concerned about Israel and their influence on American politics and how they were pushing things that he felt were in conflict with his beliefs
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:10:27](/episodes/ep-czVBmqZP6Ss.md#^t-00-09-49)
 
@@ -10923,6 +12640,7 @@ _Claims not yet checked against external sources_
 > A couple of weeks ago before Charlie Kirk lost his life, Charlie Kirk was in the Hamptons and Bill Ackman staged an intervention because Charlie Kirk's thoughts about Israel were a no-no, threats were made, Benjamin Netanyahu was called and Charlie Kirk was invited to Israel under duress, Charlie Kirk denied the funding and declined to go
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:15:50](/episodes/ep-czVBmqZP6Ss.md#^t-00-15-45)
 
@@ -10983,6 +12701,7 @@ _Claims not yet checked against external sources_
 > Charlie Kirk was praying the rosary and going to mass
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:21:25](/episodes/ep-czVBmqZP6Ss.md#^t-00-20-41)
 
@@ -11097,6 +12816,7 @@ _Claims not yet checked against external sources_
 > Tyler Robinson arrived at UVU campus at approximately 8:29 a.m. on September 10th in a gray Dodge Challenger, wearing a plain maroon t-shirt, light-colored shorts, a black hat with a white logo
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:41:35](/episodes/ep-czVBmqZP6Ss.md#^t-00-41-09)
 
@@ -11145,6 +12865,7 @@ _Claims not yet checked against external sources_
 > Tyler Robinson has not confessed to authorities and is not cooperating
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:51:05](/episodes/ep-czVBmqZP6Ss.md#^t-00-50-22)
 
@@ -11163,6 +12884,7 @@ _Claims not yet checked against external sources_
 > Tyler Robinson made messages on Discord about retrieving a rifle from a drop point, leaving the rifle in a bush wrapped in a towel, engraving bullets, changing outfits
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:52:25](/episodes/ep-czVBmqZP6Ss.md#^t-00-51-44)
 
@@ -11352,12 +13074,6 @@ _Claims not yet checked against external sources_
 
 ### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invite... @ 00:12:32](/episodes/ep-his-JBjlkh8.md#^t-00-12-21)
 
-> People at Turning Point USA are in possession of text messages the day before Charlie Kirk died, in which he wrote out to you—and not just to people that work at Turning Point USA, but also security guards—that he thought that they were going to kill him tomorrow
-
-**Type:** Factual
-
-### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invite... @ 00:12:32](/episodes/ep-his-JBjlkh8.md#^t-00-12-21)
-
 > People at Turning Point USA are in possession of text messages the day before Charlie died, in which he wrote that he thought that they were going to kill him tomorrow.
 
 **Type:** Factual
@@ -11526,12 +13242,6 @@ _Claims not yet checked against external sources_
 
 ### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invite... @ 00:49:54](/episodes/ep-his-JBjlkh8.md#^t-00-49-40)
 
-> an hour and a half before Charlie Kirk was assassinated in Utah, Donald Trump and Emmanuel Macron had a phone call that has been recorded in Emmanuel Macron's public calendar... at 6:45 p.m. in French time. That's 10:45 a.m. in Utah time
-
-**Type:** Factual
-
-### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invite... @ 00:49:54](/episodes/ep-his-JBjlkh8.md#^t-00-49-40)
-
 > An hour and a half before Charlie Kirk was assassinated in Utah, Donald Trump and Emmanuel Macron had a phone call that has been recorded in Emmanuel Macron's public calendar
 
 **Type:** Factual
@@ -11578,84 +13288,6 @@ _Claims not yet checked against external sources_
 
 **Type:** Promise
 
-### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:00:13](/episodes/ep-iHav0PPzUz8.md#^t-00-00-00)
-
-> there were some Egyptian military men that were on the ground on September 10th in Utah on the day of Charlie Kirk's assassination
-
-**Type:** Factual
-
-### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:01:44](/episodes/ep-iHav0PPzUz8.md#^t-00-01-22)
-
-> This plane departed from the Biggs Army Airfield at 6:13 a.m. ... dipped down to just 300 feet above ground over the Provo airport runway, and they made a loop
-
-**Type:** Factual
-
-### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:03:38](/episodes/ep-iHav0PPzUz8.md#^t-00-03-31)
-
-> that dip took place approximately 26 minutes after Charlie Kirk was assassinated
-
-**Type:** Factual
-
-### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:04:12](/episodes/ep-iHav0PPzUz8.md#^t-00-03-31)
-
-> the plane is owned by a certain LSAI LLC
-
-**Type:** Factual
-
-### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:05:40](/episodes/ep-iHav0PPzUz8.md#^t-00-04-55)
-
-> Tyler Robinson was not on the Woodbury Building or on campus at all
-
-**Type:** Factual
-
-### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:05:46](/episodes/ep-iHav0PPzUz8.md#^t-00-05-40)
-
-> the plane departed from Provo, Utah at 1:20 p.m. local time
-
-**Type:** Factual
-
-### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:07:30](/episodes/ep-iHav0PPzUz8.md#^t-00-07-05)
-
-> the extensive efforts by law enforcement to locate Mr. Kirk's killer will be swift and successful. Spoiler alert: no, it has not been
-
-**Type:** Factual
-
-### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:10:13](/episodes/ep-iHav0PPzUz8.md#^t-00-09-53)
-
-> airport personnel had been instructed to lie
-
-**Type:** Factual
-
-### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:12:21](/episodes/ep-iHav0PPzUz8.md#^t-00-11-49)
-
-> an Egyptian Air Force plane took off from Provo, Utah airport ... arrived on September 4th ... departed six days later on September 10th
-
-**Type:** Factual
-
-### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:12:29](/episodes/ep-iHav0PPzUz8.md#^t-00-11-49)
-
-> Egyptian military plane had previously only ever been to the United States twice in that past year. And both times it was in the lead-up—in the weeks leading up to Charlie Kirk's assassination
-
-**Type:** Factual
-
-### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:15:23](/episodes/ep-iHav0PPzUz8.md#^t-00-15-02)
-
-> that plane was carrying military subcontractors. And ... they were dropped off in Provo
-
-**Type:** Factual
-
-### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:16:07](/episodes/ep-iHav0PPzUz8.md#^t-00-15-42)
-
-> they did not make it back to Cairo ... those people were mysteriously missing from that plane
-
-**Type:** Factual
-
-### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10... @ 00:21:29](/episodes/ep-iHav0PPzUz8.md#^t-00-21-04)
-
-> Kash Patel shuts down Charlie Kirk foreign intelligence probe
-
-**Type:** Factual
-
 ### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:01:05](/episodes/ep-ja26iltROkM.md#^t-00-00-44)
 
 > Cash Patel has now come out and issued a statement fully capitulating to the public, the public insistence that they're lying to us
@@ -11679,6 +13311,7 @@ _Claims not yet checked against external sources_
 > Charlie just loved the Lord
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:04:54](/episodes/ep-ja26iltROkM.md#^t-00-04-41)
 
@@ -11697,6 +13330,7 @@ _Claims not yet checked against external sources_
 > I've already been able to locate George Zinn in the crowd
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:05:47](/episodes/ep-ja26iltROkM.md#^t-00-05-25)
 
@@ -11727,6 +13361,7 @@ _Claims not yet checked against external sources_
 > I did not see any blood. In fact, the only blood that I did see at all—I'm talking about blood on the back—was on Charlie's left hand
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:08:26](/episodes/ep-ja26iltROkM.md#^t-00-08-07)
 
@@ -11739,6 +13374,7 @@ _Claims not yet checked against external sources_
 > I just spoke with the surgeon who worked on Charlie in the hospital. He said the bullet, quote, 'absolutely should have gone through'... But it didn't go through. Charlie's body stopped it... In the end, the coroner did find the bullet just beneath the skin
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:09:40](/episodes/ep-ja26iltROkM.md#^t-00-09-29)
 
@@ -11769,18 +13405,21 @@ _Claims not yet checked against external sources_
 > After interviews with the pilot, in consultation with the FAA, we determined the transponder was not turned off. Incomplete flight data in rural areas caused the apparent gap
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:17:13](/episodes/ep-ja26iltROkM.md#^t-00-17-09)
 
 > Derek Maxfield... issued a long statement on Instagram where he said that they got permission to—you know—turn off services, which are transponder services, and they got that permission from the air traffic controller
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:19:19](/episodes/ep-ja26iltROkM.md#^t-00-18-36)
 
 > that house next door that's been vacant and is owned by UVU
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:19:19](/episodes/ep-ja26iltROkM.md#^t-00-18-36)
 
@@ -11793,12 +13432,14 @@ _Claims not yet checked against external sources_
 > there was a massive pipeline that was almost exactly behind where Charlie was sitting
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:23:04](/episodes/ep-ja26iltROkM.md#^t-00-22-30)
 
 > within 48 hours... they decided to instead pave that area—repave it
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:23:04](/episodes/ep-ja26iltROkM.md#^t-00-22-30)
 
@@ -11865,6 +13506,7 @@ _Claims not yet checked against external sources_
 > I'm told that by some people that if I criticize AIPAC, I'm anti-Semitic
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:39:47](/episodes/ep-ja26iltROkM.md#^t-00-39-17)
 
@@ -11941,18 +13583,6 @@ _Claims not yet checked against external sources_
 ### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:01:50](/episodes/ep-mKXdKV-OBog.md#^t-00-01-47)
 
 > Julius Caesar is my favorite historical figure before 1850.
-
-**Type:** Factual
-
-### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:05:48](/episodes/ep-mKXdKV-OBog.md#^t-00-05-45)
-
-> The yellow plane with tail number SUBTT stopped for just one hour in Minot, North Dakota on September 4th before making its way to Provo.
-
-**Type:** Factual
-
-### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:07:04](/episodes/ep-mKXdKV-OBog.md#^t-00-06-30)
-
-> Kash Patel ended his press conference on September 12th with quote, 'Lastly, to my friend Charlie Kirk, rest now, my brother. We have the watch, and I'll see you in Valhalla.'
 
 **Type:** Factual
 
@@ -12046,18 +13676,6 @@ _Claims not yet checked against external sources_
 
 **Type:** Factual
 
-### [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Ca... @ 00:16:17](/episodes/ep-ozWJz2spBcI.md#^t-00-15-58)
-
-> This is an actual group chat which happened two days before Charlie Kirk was assassinated. There were nine people in total on this chat, including Charlie Kirk and Rob McCoy.
-
-**Type:** Factual
-
-### [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Ca... @ 00:16:50](/episodes/ep-ozWJz2spBcI.md#^t-00-16-33)
-
-> Charlie Kirk writes in this group chat, 'Just lost another huge Jewish donor—two million a year—because we won't cancel Tucker Carlson. I'm thinking of inviting Candace Owens.' [Followed by] 'Jewish donors play into all of the stereotypes. I cannot and will not be bullied like this, leaving me no choice but to leave the pro-Israel cause.'
-
-**Type:** Factual
-
 ### [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Ca... @ 00:17:50](/episodes/ep-ozWJz2spBcI.md#^t-00-17-17)
 
 > Josh Hammer [was on this group chat].
@@ -12081,48 +13699,56 @@ _Claims not yet checked against external sources_
 > Charlie Kirk was shot from the front, and the bullet did not exit.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [REVELATIONS: The Truth About Charlie's Medical Report | C... @ 00:04:47](/episodes/ep-pc3pxRyNFZk.md#^t-00-04-14)
 
 > At least a fragment of the bullet was recovered from his neck.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [REVELATIONS: The Truth About Charlie's Medical Report | C... @ 00:05:05](/episodes/ep-pc3pxRyNFZk.md#^t-00-04-59)
 
 > A fragment was pulled from almost in line with your shoulder blade, right in the center, touching your spine.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [REVELATIONS: The Truth About Charlie's Medical Report | C... @ 00:05:34](/episodes/ep-pc3pxRyNFZk.md#^t-00-04-59)
 
 > They did not recover a bullet from a .30-06.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [REVELATIONS: The Truth About Charlie's Medical Report | C... @ 00:06:02](/episodes/ep-pc3pxRyNFZk.md#^t-00-05-41)
 
 > There is not one reflected onto Charlie Kirk's death certificate because they did not recover a bullet from a .30-06.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [REVELATIONS: The Truth About Charlie's Medical Report | C... @ 00:19:06](/episodes/ep-pc3pxRyNFZk.md#^t-00-18-51)
 
 > Deidre Weiss Amaro was announced as the new Utah medical examiner in May of 2024.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [REVELATIONS: The Truth About Charlie's Medical Report | C... @ 00:24:29](/episodes/ep-pc3pxRyNFZk.md#^t-00-24-13)
 
 > Jason Chavitz's parents are in the government. They're literally in the FBI.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [REVELATIONS: The Truth About Charlie's Medical Report | C... @ 00:37:28](/episodes/ep-pc3pxRyNFZk.md#^t-00-37-12)
 
 > Tail number N1098L plane left from Texas, went over to Utah right about the time that Charlie Kirk got assassinated. It dipped real low.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Ri... @ 00:00:45](/episodes/ep-q7f8r-THr84.md#^t-00-00-01)
 
@@ -12147,6 +13773,7 @@ _Claims not yet checked against external sources_
 > Turning Point employees are contacting me about things that took place leading up to Hamptons event, changes at organization in months leading up, what had been happening at company over last year
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Ri... @ 00:01:32](/episodes/ep-q7f8r-THr84.md#^t-00-01-14)
 
@@ -12165,6 +13792,7 @@ _Claims not yet checked against external sources_
 > George Zinn facing charges of obstruction of justice because he didn't do it and was harboring images of child abuse on his cell phone
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Ri... @ 00:03:31](/episodes/ep-q7f8r-THr84.md#^t-00-03-19)
 
@@ -12183,6 +13811,7 @@ _Claims not yet checked against external sources_
 > DNA consistent with Robinson on the rifle trigger
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Ri... @ 00:07:14](/episodes/ep-q7f8r-THr84.md#^t-00-06-59)
 
@@ -12195,6 +13824,7 @@ _Claims not yet checked against external sources_
 > Suspect crossed railing onto roof at approximately 12:15 p.m. and Charlie Kirk was shot at 12:23 p.m.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Ri... @ 00:08:28](/episodes/ep-q7f8r-THr84.md#^t-00-08-07)
 
@@ -12207,12 +13837,14 @@ _Claims not yet checked against external sources_
 > Suspect entered campus from the north at approximately 11:51 a.m. wearing black shirt with American flag, dark baseball cap, large sunglasses, walking with unusual gait consistent with rifle hidden in pants
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Ri... @ 00:12:01](/episodes/ep-q7f8r-THr84.md#^t-00-11-34)
 
 > Investigators found a bolt action rifle wrapped in a towel in wooded area with one spent round and three unspent rounds inscribed with 'Hey, fascist, catch', 'You've got notices bulge', 'What's this?', 'Oh, Bella ciao, Bella ciao, Bella ciao, ciao, ciao' and 'If you read this, you are gay, LMAO'
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Ri... @ 00:12:01](/episodes/ep-q7f8r-THr84.md#^t-00-11-34)
 
@@ -12237,12 +13869,14 @@ _Claims not yet checked against external sources_
 > Robinson's mother saw photo of shooter in news and thought it looked like her son, called him and he said he was home sick on September 10th
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Ri... @ 00:14:25](/episodes/ep-q7f8r-THr84.md#^t-00-14-08)
 
 > Over the last year Robinson had become increasingly more political, leaning left, pro-gay, trans-right-oriented, dating roommate Lance Twiggs, accused Charlie Kirk of spreading hate
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Ri... @ 00:14:30](/episodes/ep-q7f8r-THr84.md#^t-00-14-08)
 
@@ -12303,6 +13937,7 @@ _Claims not yet checked against external sources_
 > Police interviewed Robinson's roommate Lance Twiggs who provided text messages from Robinson about the shooting
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Ri... @ 00:19:03](/episodes/ep-q7f8r-THr84.md#^t-00-18-56)
 
@@ -12339,12 +13974,14 @@ _Claims not yet checked against external sources_
 > House where Tyler Robinson lived with Lance Twiggs is owned by Lance Twiggs's family and Tyler was paying rent to them
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Ri... @ 00:30:28](/episodes/ep-q7f8r-THr84.md#^t-00-30-01)
 
 > Lance Twiggs's family told me his parents kicked him out junior year of high school, he went to live with relatives, has issues with drinking, almost overdosed on vodka three years ago, showed up on drugs Easter Sunday ranting politically
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Ri... @ 00:30:35](/episodes/ep-q7f8r-THr84.md#^t-00-30-01)
 
@@ -12724,102 +14361,6 @@ _Claims not yet checked against external sources_
 
 **Type:** Factual
 
-### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:00:01](/episodes/ep-sImMM04XdWY.md#^t-00-00-01)
-
-> Brian Harpole lied badly to Sean Ryan in an interview
-
-**Type:** Factual
-
-### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:00:39](/episodes/ep-sImMM04XdWY.md#^t-00-00-01)
-
-> Satis certainly wasn't established to provide any maintenance to those Egyptian planes, and it was more than likely a front for something else
-
-**Type:** Factual
-
-### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:01:02](/episodes/ep-sImMM04XdWY.md#^t-00-00-39)
-
-> Charlie Kirk called me and told me that they wanted me to stop speaking about Brigitte
-
-**Type:** Factual
-
-### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:02:55](/episodes/ep-sImMM04XdWY.md#^t-00-02-44)
-
-> Andrew Colvett said, and I quote, 'Candace, it was supposed to be you'
-
-**Type:** Factual
-
-### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:03:31](/episodes/ep-sImMM04XdWY.md#^t-00-03-29)
-
-> while the actual day on September 10th while Charlie Kirk was in the hospital, he told me that there was a list and that me and Tucker Carlson were on it
-
-**Type:** Factual
-
-### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:06:12](/episodes/ep-sImMM04XdWY.md#^t-00-05-36)
-
-> after our Egyptian plane, tail number SUBTT, landed into this federally monitored hangar, a foreign dignitary was then discreetly moved to 920 King Street, which we've learned and confirmed houses the DEA, the FBI, and the Secret Service
-
-**Type:** Factual
-
-### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:07:51](/episodes/ep-sImMM04XdWY.md#^t-00-07-38)
-
-> March 13th, I do that first episode regarding Brigitte Macron. March 19th, just six days later, I'm fired from the Daily Wire
-
-**Type:** Factual
-
-### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:08:25](/episodes/ep-sImMM04XdWY.md#^t-00-08-18)
-
-> on December 3rd, before I interview him, I receive the first ever cease-and-desist letter from Brigitte Macron and her lawyers
-
-**Type:** Factual
-
-### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:09:08](/episodes/ep-sImMM04XdWY.md#^t-00-09-03)
-
-> seven days later is when it's publicly announced that Satis, that French company, has inked a deal in Wilmington, Delaware, for a hangar
-
-**Type:** Factual
-
-### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:11:46](/episodes/ep-sImMM04XdWY.md#^t-00-11-43)
-
-> on February 24th, Charlie Kirk reaches out, and he tells me that the White House is asking me to stop speaking about Brigitte
-
-**Type:** Factual
-
-### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:12:06](/episodes/ep-sImMM04XdWY.md#^t-00-11-43)
-
-> This is the day that Donald Trump meets with Emmanuel Macron
-
-**Type:** Factual
-
-### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:12:49](/episodes/ep-sImMM04XdWY.md#^t-00-12-26)
-
-> On February 25th, actually, Sergio Gor called me and asked me to stop speaking about Brigitte
-
-**Type:** Factual
-
-### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:13:03](/episodes/ep-sImMM04XdWY.md#^t-00-12-26)
-
-> February 26th. President Donald Trump calls me and asks me to stop speaking about Brigitte
-
-**Type:** Factual
-
-### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:17:22](/episodes/ep-sImMM04XdWY.md#^t-00-16-53)
-
-> from the 20th to the 26th—that happens to be the period that Brigitte and Emmanuel Macron released to the Financial Times that they are suing me in a Delaware court
-
-**Type:** Factual
-
-### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:33:44](/episodes/ep-sImMM04XdWY.md#^t-00-33-24)
-
-> Brian Harpole is actually presenting a text message between Dan Flood and Chief Long
-
-**Type:** Factual
-
-### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:40:39](/episodes/ep-sImMM04XdWY.md#^t-00-40-25)
-
-> the footage of Tyler Robinson turning himself in... is now missing
-
-**Type:** Factual
-
 ### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:06](/episodes/ep-sreYYcID-QY.md#^t-00-00-00)
 
 > Benjamin Netanyahu is again denying that he murdered Charlie Kirk (Charlie Kirk) despite the fact that no one that I know accused him of doing such a thing.
@@ -12838,24 +14379,6 @@ _Claims not yet checked against external sources_
 
 **Type:** Factual
 
-### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:02:45](/episodes/ep-sreYYcID-QY.md#^t-00-02-05)
-
-> He writes, "I can get close to it, but there is a squad car parked right by it."
-
-**Type:** Factual
-
-### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:03:21](/episodes/ep-sreYYcID-QY.md#^t-00-02-45)
-
-> He says to Lance, allegedly, quote, "I worry about prints." "I had to leave it," referring to the rifle, "in a bush where I changed outfits."
-
-**Type:** Factual
-
-### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:04:09](/episodes/ep-sreYYcID-QY.md#^t-00-03-26)
-
-> according to locals—many of which have emailed me—any of the footage that they had, any footage that they found, they immediately sent over to the feds, and the feds told them that they were not allowed to share it at all.
-
-**Type:** Factual
-
 ### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:04:09](/episodes/ep-sreYYcID-QY.md#^t-00-03-26)
 
 > according to locals... any of the footage that they had, any footage that they found, they immediately sent over to the feds and the feds told them that they were not allowed to share it at all. Like there was some risk if you shared this at all, it's not going to be good for you.
@@ -12871,24 +14394,6 @@ _Claims not yet checked against external sources_
 ### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:05:40](/episodes/ep-sreYYcID-QY.md#^t-00-05-26)
 
 > It is a very clear image of Tyler Robinson, allegedly taken... at 6:38 p.m. at a nearby Dairy Queen.
-
-**Type:** Factual
-
-### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:05:44](/episodes/ep-sreYYcID-QY.md#^t-00-05-26)
-
-> It is a very clear image of Tyler Robinson, allegedly taken at 6:38 p.m. at a nearby Dairy Queen.
-
-**Type:** Factual
-
-### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:06:14](/episodes/ep-sreYYcID-QY.md#^t-00-06-07)
-
-> you're wearing jeans, and you're wearing the maroon shirt.
-
-**Type:** Factual
-
-### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:06:50](/episodes/ep-sreYYcID-QY.md#^t-00-06-07)
-
-> it's about a 17-minute drive away from the campus.
 
 **Type:** Factual
 
@@ -12916,21 +14421,9 @@ _Claims not yet checked against external sources_
 
 **Type:** Factual
 
-### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:14:28](/episodes/ep-sreYYcID-QY.md#^t-00-14-12)
-
-> this clip is from the morning after Charlie Kirk's assassination. So TMZ had already publicized that footage.
-
-**Type:** Factual
-
 ### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:15:42](/episodes/ep-sreYYcID-QY.md#^t-00-15-33)
 
 > they work for an engineering place, a place that makes... called Caldera Engineering... ostensibly they manufacture valves.
-
-**Type:** Factual
-
-### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:16:10](/episodes/ep-sreYYcID-QY.md#^t-00-15-33)
-
-> A local source told me that virtually everyone on that block works for that company. The Steeles are a big family in Orem.
 
 **Type:** Factual
 
@@ -12952,12 +14445,6 @@ _Claims not yet checked against external sources_
 
 **Type:** Factual
 
-### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:18:52](/episodes/ep-sreYYcID-QY.md#^t-00-18-18)
-
-> I can't find her. We stalked; we looked through databases; we contacted Lance's family to see if they're familiar with that name. I cannot find a woman named Sherry Steele that lives in that building complex.
-
-**Type:** Factual
-
 ### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:18:55](/episodes/ep-sreYYcID-QY.md#^t-00-18-18)
 
 > I cannot find a woman named Sherry Steele that lives in that building complex, nor can I find her alleged footage that the BBC mentions the following morning.
@@ -12967,12 +14454,6 @@ _Claims not yet checked against external sources_
 ### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:19:22](/episodes/ep-sreYYcID-QY.md#^t-00-18-59)
 
 > There were children that witnessed, that were there for the shooting, and these children are going to provide an eyewitness testimony to Charlie Kirk's shooting and they are with their aunt Tiffany, and they say that they saw what happened up close, and they were a family of 16.
-
-**Type:** Factual
-
-### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:20:22](/episodes/ep-sreYYcID-QY.md#^t-00-20-17)
-
-> There was one shot that rang out... People saw Charlie Kirk instantly get shot in the neck
 
 **Type:** Factual
 
@@ -13008,19 +14489,7 @@ _Claims not yet checked against external sources_
 
 ### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:25:04](/episodes/ep-sreYYcID-QY.md#^t-00-24-33)
 
-> the gun was found in the backyard of someone that I know... by a chicken coop.
-
-**Type:** Factual
-
-### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:25:04](/episodes/ep-sreYYcID-QY.md#^t-00-24-33)
-
 > The gun was found in the backyard of someone that I know. It was found by a chicken coop.
-
-**Type:** Factual
-
-### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:25:18](/episodes/ep-sreYYcID-QY.md#^t-00-24-33)
-
-> the house right next door to where the gun was found is a mysteriously vacant home that is owned by the university itself
 
 **Type:** Factual
 
@@ -13048,12 +14517,6 @@ _Claims not yet checked against external sources_
 
 **Type:** Factual
 
-### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:33:19](/episodes/ep-sreYYcID-QY.md#^t-00-33-10)
-
-> somebody has fabricated a monstrous big lie that Israel had something to do with Charlie Kirk's horrific murder.
-
-**Type:** Factual
-
 ### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:33:27](/episodes/ep-sreYYcID-QY.md#^t-00-33-10)
 
 > Israel had something to do with Charlie Kirk's horrific murder. This is insane. It is false. It is outrageous.
@@ -13063,18 +14526,6 @@ _Claims not yet checked against external sources_
 ### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:33:42](/episodes/ep-sreYYcID-QY.md#^t-00-33-10)
 
 > Charlie loved Israel. He loved the Jewish people. He told me so in a letter that he sent me just a few months ago.
-
-**Type:** Factual
-
-### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:33:46](/episodes/ep-sreYYcID-QY.md#^t-00-33-10)
-
-> He told me so in a letter that he sent me just a few months ago. “One of my greatest joys as a Christian,” he said, “is advocating for Israel and forming alliances with Jews to protect Judeo-Christian civilization.”
-
-**Type:** Factual
-
-### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:34:28](/episodes/ep-sreYYcID-QY.md#^t-00-33-49)
-
-> A few weeks before his death, I spoke to Charlie. I invited him to visit Israel again.
 
 **Type:** Factual
 
@@ -13258,96 +14709,6 @@ _Claims not yet checked against external sources_
 
 **Type:** Factual
 
-### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:01:24](/episodes/ep-t1YtLS1n8Vs.md#^t-00-00-42)
-
-> Yesterday, the FBI made a rather curious announcement. They announced that they were going to cut ties with the ADL.
-
-**Type:** Factual
-
-### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:02:02](/episodes/ep-t1YtLS1n8Vs.md#^t-00-01-24)
-
-> The reality is the ADL was born out of a Jewish Freemason organization known as B'nai B'rith.
-
-**Type:** Factual
-
-### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:02:10](/episodes/ep-t1YtLS1n8Vs.md#^t-00-02-02)
-
-> Sigmund Freud was a member of B'nai B'rith.
-
-**Type:** Factual
-
-### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:03:23](/episodes/ep-t1YtLS1n8Vs.md#^t-00-02-47)
-
-> They put the organization together to defend a pedophile and a murderer. His name is Leo Frank.
-
-**Type:** Factual
-
-### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:03:31](/episodes/ep-t1YtLS1n8Vs.md#^t-00-02-47)
-
-> Leo Frank was an unbelievably wealthy Jewish factory owner down in Atlanta. And this is 1913. Mary Phagan was a 13-year-old girl who worked at his pencil factory. She was found brutally raped.
-
-**Type:** Factual
-
-### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:04:24](/episodes/ep-t1YtLS1n8Vs.md#^t-00-04-15)
-
-> They still found Leo Frank guilty.
-
-**Type:** Factual
-
-### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:09:07](/episodes/ep-t1YtLS1n8Vs.md#^t-00-09-05)
-
-> The FBI director, Kash Patel, announced yesterday that he ended—he has—this is over.
-
-**Type:** Factual
-
-### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:09:33](/episodes/ep-t1YtLS1n8Vs.md#^t-00-09-05)
-
-> James Comey wrote love letters to the ADL and embedded FBI agents with them.
-
-**Type:** Factual
-
-### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:11:09](/episodes/ep-t1YtLS1n8Vs.md#^t-00-10-35)
-
-> They curiously removed the Azov Battalion from the hate list.
-
-**Type:** Factual
-
-### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:12:03](/episodes/ep-t1YtLS1n8Vs.md#^t-00-11-19)
-
-> In the state of Connecticut, the ADL shares an office space with the FBI.
-
-**Type:** Factual
-
-### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:13:12](/episodes/ep-t1YtLS1n8Vs.md#^t-00-12-45)
-
-> The FBI sent the specific Connecticut bureau down to UVU after Charlie Kirk was assassinated. To help investigate the assassination.
-
-**Type:** Factual
-
-### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:19:20](/episodes/ep-t1YtLS1n8Vs.md#^t-00-18-54)
-
-> She works for the Orem Police Department. She's a records specialist.
-
-**Type:** Factual
-
-### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:21:17](/episodes/ep-t1YtLS1n8Vs.md#^t-00-21-03)
-
-> He ran for Utah governor in 2024.
-
-**Type:** Factual
-
-### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:24:15](/episodes/ep-t1YtLS1n8Vs.md#^t-00-24-03)
-
-> Scott Robbins... he was also a gubernatorial candidate. He ran for governor of Utah in 2024.
-
-**Type:** Factual
-
-### [INSANITY! Guess Who Kash Patel Sent To Investigate Charli... @ 00:32:29](/episodes/ep-t1YtLS1n8Vs.md#^t-00-31-51)
-
-> Skordas is running as a state prosecutor.
-
-**Type:** Factual
-
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:00:21](/episodes/ep-tB5SXXmd9vU.md#^t-00-00-01)
 
 > Jean-Michel Trogneux forced multiple nation-states to collude to hide the obvious fact that you were born with a penis
@@ -13360,17 +14721,12 @@ _Claims not yet checked against external sources_
 
 **Type:** Factual
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:03:02](/episodes/ep-tB5SXXmd9vU.md#^t-00-02-25)
-
-> Two days ago, I was contacted by a high-ranking employee of the French government. After determining this person's position and proximity to the French couple, I have deemed the information that they gave me to be credible enough to share publicly
-
-**Type:** Factual
-
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:03:17](/episodes/ep-tB5SXXmd9vU.md#^t-00-03-07)
 
 > this person claims the Macrons have executed upon and paid for my assassination
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:03:17](/episodes/ep-tB5SXXmd9vU.md#^t-00-03-07)
 
@@ -13383,6 +14739,7 @@ _Claims not yet checked against external sources_
 > the green light was given to a small team in the National Gendarmerie Intervention Group. I am told there is one Israeli that is on the assassination squad
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:03:25](/episodes/ep-tB5SXXmd9vU.md#^t-00-03-07)
 
@@ -13395,6 +14752,7 @@ _Claims not yet checked against external sources_
 > this person claims that Charlie Kirk's assassin trained with the French Legion 13th Brigade with multi-state involvement
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:03:45](/episodes/ep-tB5SXXmd9vU.md#^t-00-03-07)
 
@@ -13405,12 +14763,6 @@ _Claims not yet checked against external sources_
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:03:55](/episodes/ep-tB5SXXmd9vU.md#^t-00-03-45)
 
 > Journalist Xavier Poussard's life is also at risk
-
-**Type:** Factual
-
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:04:32](/episodes/ep-tB5SXXmd9vU.md#^t-00-04-29)
-
-> there was a paper trail that Macron allegedly paid $1.5 million... Two assassins were hired, one Israeli, one French-Canadian woman... the money ran through the elite gentlemen's club des Saints
 
 **Type:** Factual
 
@@ -13456,17 +14808,12 @@ _Claims not yet checked against external sources_
 
 **Type:** Factual
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:08:30](/episodes/ep-tB5SXXmd9vU.md#^t-00-08-00)
-
-> here is the official response issued by the Élysée Palace. Nothing.
-
-**Type:** Factual
-
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:09:12](/episodes/ep-tB5SXXmd9vU.md#^t-00-08-40)
 
 > Did I report it to the White House? Of course I reported it to the White House. Did I report it to the FBI? Of course I reported it to the FBI. Did I report it to our counter-terrorism unit? Of course I reported it
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:09:59](/episodes/ep-tB5SXXmd9vU.md#^t-00-09-23)
 
@@ -13485,6 +14832,7 @@ _Claims not yet checked against external sources_
 > the Safari Club, man, a covert alliance of intelligence services formed in 1976, that ran operations around Africa... members in pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, and France. Israel's involved, Rhodesia, South Africa
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:13:15](/episodes/ep-tB5SXXmd9vU.md#^t-00-12-42)
 
@@ -13503,6 +14851,7 @@ _Claims not yet checked against external sources_
 > I did not at all hear back from the FBI on the American side... the FBI left me on read
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:15:59](/episodes/ep-tB5SXXmd9vU.md#^t-00-15-25)
 
@@ -13515,16 +14864,11 @@ _Claims not yet checked against external sources_
 > according to the French Foreign Legion website, between August 2nd and August 25th of this year, the legionnaires from the 4th Company, 2nd Foreign Infantry Regiment, the 6th Light Armored Brigade, were integrated with U.S. Marines of the 6th Marine Regiment for a three-week training deployment. That took place in California
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:16:32](/episodes/ep-tB5SXXmd9vU.md#^t-00-16-09)
 
 > Another camp began immediately after, a joint exercise with civilians including military men from the Minot Air Force Base at Camp Ripley in Minnesota until August 27th, known as Operation Valhalla
-
-**Type:** Factual
-
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:16:36](/episodes/ep-tB5SXXmd9vU.md#^t-00-16-09)
-
-> another camp began immediately. It was a joint exercise with civilians, which included military men from the Minot Air Force Base. And that joint exercise took place in Minnesota at Camp Ripley, and that ran just for a couple of days until August 27th, and that was known as Operation Valhalla
 
 **Type:** Factual
 
@@ -13533,6 +14877,7 @@ _Claims not yet checked against external sources_
 > Tyler Robinson was never part of the French Foreign Legion. If he did not serve in an American military unit, he could not have trained with the French Foreign Legion
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:18:27](/episodes/ep-tB5SXXmd9vU.md#^t-00-18-18)
 
@@ -13575,6 +14920,7 @@ _Claims not yet checked against external sources_
 > another joint military operation began from August 29th through to September 10th, the day that Charlie Kirk was shot. And that was known as Operation Bright Star, and that took place in Cairo, Egypt. Now, it is a biannual joint military operation. It's co-hosted by the United States and Egypt
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:22:00](/episodes/ep-tB5SXXmd9vU.md#^t-00-21-46)
 
@@ -13593,6 +14939,7 @@ _Claims not yet checked against external sources_
 > the Egyptian plane, SU-BTT, our yellow plane, which departed on the morning of Charlie Kirk's assassination from Provo, went over to Wilmington, Delaware
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:24](/episodes/ep-tB5SXXmd9vU.md#^t-00-23-12)
 
@@ -13605,6 +14952,7 @@ _Claims not yet checked against external sources_
 > Satis, which is a French company, injected $1.5 million ostensibly to paint planes... in Wilmington, Delaware
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:24:00](/episodes/ep-tB5SXXmd9vU.md#^t-00-23-42)
 
@@ -13725,6 +15073,7 @@ _Claims not yet checked against external sources_
 > Brigitte just falls off a cliff for six days... Brigitte's just gone for six days
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:40:24](/episodes/ep-tB5SXXmd9vU.md#^t-00-40-05)
 
@@ -13828,119 +15177,26 @@ _Claims not yet checked against external sources_
 
 **Type:** Interpretive
 
-### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:00:07](/episodes/ep-vwG1juDCQZQ.md#^t-00-00-00)
-
-> we officially have become the number one podcast in the world
-
-**Type:** Factual
-
-### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:01:57](/episodes/ep-vwG1juDCQZQ.md#^t-00-01-30)
-
-> her independent podcast, Candace, has reached the top global ranking according to Podscribe data
-
-**Type:** Factual
-
-### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:02:51](/episodes/ep-vwG1juDCQZQ.md#^t-00-02-10)
-
-> Brigitte and Emmanuel Macron for that ill-advised lawsuit
-
-**Type:** Factual
-
-### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:04:13](/episodes/ep-vwG1juDCQZQ.md#^t-00-03-35)
-
-> Tony Burke, thank you for banning us from an entire country
-
-**Type:** Factual
-
-### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:04:30](/episodes/ep-vwG1juDCQZQ.md#^t-00-04-16)
-
-> There's just four of us that work on the actual podcast every day
-
-**Type:** Factual
-
-### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:07:42](/episodes/ep-vwG1juDCQZQ.md#^t-00-07-11)
-
-> 9 days after he was assassinated
-
-**Type:** Factual
-
-### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:12:38](/episodes/ep-vwG1juDCQZQ.md#^t-00-12-18)
-
-> to have seen the autopsy report, to have seen the different evidence portions that have been collected
-
-**Type:** Factual
-
-### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:13:34](/episodes/ep-vwG1juDCQZQ.md#^t-00-13-30)
-
-> She says that she has seen the autopsy report
-
-**Type:** Factual
-
-### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:32:37](/episodes/ep-vwG1juDCQZQ.md#^t-00-31-56)
-
-> who toured with Charlie Kirk the most... I headlined more Turning Point USA campus tours than Candace Owens
-
-**Type:** Factual
-
-### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:34:12](/episodes/ep-vwG1juDCQZQ.md#^t-00-34-00)
-
-> events are booked the semester before
-
-**Type:** Factual
-
-### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Can... @ 00:48:34](/episodes/ep-vwG1juDCQZQ.md#^t-00-48-15)
-
-> Turning Point made something like $90 million in the couple of weeks following Charlie's death
-
-**Type:** Factual
-
-### [What Did Charlie Kirk Discover Near The End? | Candace Ep... @ 00:01:46](/episodes/ep-yAIb-NuUh_U.md#^t-00-01-32)
-
-> Frank Turek... was next to Charlie Kirk. Actually, when he was assassinated... he was wearing the white hat. He ducks down. He is one of the people that helped to get Charlie Kirk to the vehicle. He was at the hospital.
-
-**Type:** Factual
-
-### [What Did Charlie Kirk Discover Near The End? | Candace Ep... @ 00:09:17](/episodes/ep-yAIb-NuUh_U.md#^t-00-09-14)
-
-> Thomas Michael Camino, 31 years old, of San Juan Capistrano, was convicted in May of molesting an eight-year-old girl and trying to lure a dozen others into sexual encounters by asking for help finding his cat. Orange County Superior Court Commissioner Richard M. Aronson imposed the maximum term [eight-year sentence].
-
-**Type:** Factual
-
-### [What Did Charlie Kirk Discover Near The End? | Candace Ep... @ 00:11:21](/episodes/ep-yAIb-NuUh_U.md#^t-00-10-36)
-
-> Despite his conviction, despite having spent years in prison for these crimes, Rob McCoy... struck up thereafter and maintained a long friendship with Thomas Camino across decades... Rob then decides that Camino should be involved in the Calvary Chapel Church... that Camino should have access to young children in a program called Home Fellowship, which put him inside the homes of children.
-
-**Type:** Factual
-
-### [What Did Charlie Kirk Discover Near The End? | Candace Ep... @ 00:19:12](/episodes/ep-yAIb-NuUh_U.md#^t-00-18-59)
-
-> Florida Calvary Chapel in Pompano Beach—the founder was a pastor named Rob Coy... he got accused of molesting a four-year-old girl.
-
-**Type:** Factual
-
-### [What Did Charlie Kirk Discover Near The End? | Candace Ep... @ 00:19:36](/episodes/ep-yAIb-NuUh_U.md#^t-00-18-59)
-
-> In 2024, the lead pastor was arrested after a sting operation into online sex abuse against children.
-
-**Type:** Factual
-
 ### [What Did Charlie Kirk Discover Near The End? | Candace Ep... @ 00:19:52](/episodes/ep-yAIb-NuUh_U.md#^t-00-19-42)
 
 > Calvary Chapel Cary—the lead pastor resigned amid allegations of incest with his own son, bullying, drug addiction, and the misuse of funds.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [What Did Charlie Kirk Discover Near The End? | Candace Ep... @ 00:20:46](/episodes/ep-yAIb-NuUh_U.md#^t-00-20-23)
 
 > Anthony Iglesias... is currently serving time. He was found guilty in Idaho State Correctional Facility for his crimes.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 ### [What Did Charlie Kirk Discover Near The End? | Candace Ep... @ 00:27:07](/episodes/ep-yAIb-NuUh_U.md#^t-00-26-34)
 
 > Potter's Fields Ministry... brought in Pastor Rob McCoy as a CFO to help steer the ship of their finances.
 
 **Type:** Factual
+**Veracity:** Unverified
 
 
 </details>

@@ -15,12 +15,12 @@ _Type: Dates_
 
 ## Mentions
 
-### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
+### [ep-QZWSsq8ZWzw](/episodes/ep-QZWSsq8ZWzw.md)
 
 - [00:26:49](/episodes/ep-QZWSsq8ZWzw.md#^t-00-26-44)
   > "... had when I was looking through the period and learning the reality of what happened throughout the 1960s when MKUltra—when that program was running. And I have no reason to believe that that program was e..."
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 
 ## Relationships

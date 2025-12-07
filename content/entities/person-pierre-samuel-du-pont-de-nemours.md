@@ -15,7 +15,7 @@ _Type: People_
 
 ## Mentions
 
-### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
+### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:30:53](/episodes/ep-a-e7HC6SeK8.md#^t-00-30-38)
   > "...DuPont family that it clicked. And these ladies messaged me and said, "Oh, you figured it out. It's Pierre du Pont?!?" I had mentioned Pierre du Pont on yesterday's show, and this took my breath away. I will be hon..."
@@ -32,7 +32,7 @@ _Type: People_
 - [00:34:30](/episodes/ep-a-e7HC6SeK8.md#^t-00-34-06)
   > "... working. I think— I think it's really important that we learn the truth about what happened. Who's Pierre? Is it Pierre du Pont? And has Turning Point been paid? Obviously it wouldn't be on this year's tax..."
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:29:47](/episodes/ep-tB5SXXmd9vU.md#^t-00-29-47)
   > "...hat. Pierre S. du Pont was a member of the French-American family du Pont, which was descended from Pierre Samuel du Pont de Nemours—excuse my terrible French—a French aristocrat. DuPont also has extreme ties to both the American an..."
@@ -44,5 +44,5 @@ _Type: People_
 ### Founded
 
 - [DuPont family](/entities/org-dupont-family.md)
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:30:49](/episodes/ep-a-e7HC6SeK8.md#^t-00-30-38): "...at I presented to you all of this stuff about the DuPont family that it clicked. And these ladies messaged me and said, oh, you figured it out. It's Pierre du Pont..."
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:29:47](/episodes/ep-tB5SXXmd9vU.md#^t-00-29-13): "...American family du Pont, which was descended from Pierre Samuel du Pont de Nemours—excuse my terrible French—a French aristocrat. DuPont also has extreme ties to both the American an..."
+  - [ep-a-e7HC6SeK8 @ 00:30:49](/episodes/ep-a-e7HC6SeK8.md#^t-00-30-38): "...at I presented to you all of this stuff about the DuPont family that it clicked. And these ladies messaged me and said, oh, you figured it out. It's Pierre du Pont..."
+  - [ep-tB5SXXmd9vU @ 00:29:47](/episodes/ep-tB5SXXmd9vU.md#^t-00-29-13): "...American family du Pont, which was descended from Pierre Samuel du Pont de Nemours—excuse my terrible French—a French aristocrat. DuPont also has extreme ties to both the American an..."

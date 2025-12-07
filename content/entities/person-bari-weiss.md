@@ -10,12 +10,12 @@ _Type: People_
 
 ## Mentions
 
-### [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
+### [ep-Cq7nj9rxPdo](/episodes/ep-Cq7nj9rxPdo.md)
 
 - [00:27:38](/episodes/ep-Cq7nj9rxPdo.md#^t-00-27-09)
   > "...litary—military all over that background. And I'm going, "Is anything not military?" I'm looking at Bari Weiss, and I'm looking into her grandfather, and there's a story that's just incredible. A bomb thrown at..."
 
-### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
+### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:28:48](/episodes/ep-mKXdKV-OBog.md#^t-00-28-48)
   > "...ur faces now. It's never been this in our face, you know? Before we get to what he had to say about Bari Weiss, I want to remind you that Bari Weiss started and is a part-owner, at least, of The Free Press befo..."
@@ -26,7 +26,7 @@ _Type: People_
 - [00:33:40](/episodes/ep-mKXdKV-OBog.md#^t-00-33-40)
   > "...essel of state propaganda. It's all—it's supposed to be. It's not supposed to be anything else. And Bari Weiss—to her credit—is not pretending she's there to do anything else. She's going, "Why are there standa..."
 
-### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
+### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
 
 - [00:15:31](/episodes/ep-sImMM04XdWY.md#^t-00-15-24)
   > "...racy, right? You have people who, because of their bloodlines, are just being handed things, right? Bari Weiss is a perfect example of that. Nobody knows why she is an executive at CBS. She has no objective tal..."
@@ -38,21 +38,21 @@ _Type: People_
 ### Employed By
 
 - [The New York Times](/entities/org-the-new-york-times.md)
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#^t-00-28-14): "She notoriously left The New York Times"
+  - [ep-mKXdKV-OBog @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#^t-00-28-14): "She notoriously left The New York Times"
 
 ### Founded
 
 - [The Free Press](/entities/org-the-free-press.md)
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#^t-00-28-14): "Bari Weiss started and is a part-owner, at least, of The Free Press"
+  - [ep-mKXdKV-OBog @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#^t-00-28-14): "Bari Weiss started and is a part-owner, at least, of The Free Press"
 
 ### Owns
 
 - [The Free Press](/entities/org-the-free-press.md)
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#^t-00-28-14): "Bari Weiss started and is a part-owner, at least, of The Free Press"
+  - [ep-mKXdKV-OBog @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#^t-00-28-14): "Bari Weiss started and is a part-owner, at least, of The Free Press"
 
 ### Works At
 
 - [CBS](/entities/org-cbs.md)
-  - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:15:31](/episodes/ep-sImMM04XdWY.md#^t-00-15-24): "Bari Weiss is a perfect example of that. Nobody knows why she is an executive at CBS."
+  - [ep-sImMM04XdWY @ 00:15:31](/episodes/ep-sImMM04XdWY.md#^t-00-15-24): "Bari Weiss is a perfect example of that. Nobody knows why she is an executive at CBS."
 - [CBS News](/entities/org-cbs-news.md)
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#^t-00-28-14): "before she went on to CBS News"
+  - [ep-mKXdKV-OBog @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#^t-00-28-14): "before she went on to CBS News"

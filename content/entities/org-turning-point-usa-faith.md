@@ -15,19 +15,19 @@ _Type: Organizations_
 
 ## Mentions
 
-### [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
+### [ep-7RLtGgkTh9o](/episodes/ep-7RLtGgkTh9o.md)
 
 - [00:32:26](/episodes/ep-7RLtGgkTh9o.md#^t-00-32-07)
   > "... what is happening inside of these churches. And I am definitively not letting go—obviously—of this TPUSA faith infiltration, which is what it looks like to me. We're going to take a brief break, and we're going..."
 
-### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
+### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
 
 - [00:26:02](/episodes/ep-MUA9ebCF4Ow.md#^t-00-25-59)
   > "... keep trucking along. Also, as we continue to paint this picture of the corruption of faith, right? TPUSA Faith has got my attention. I learned that there was another pastor who was close with Charlie (Charlie K..."
 - [00:36:09](/episodes/ep-MUA9ebCF4Ow.md#^t-00-35-39)
   > "... That's what it's looking like to me. And tomorrow, we're gonna get into the characters involved in TPUSA Faith and this random strand of sex scandal—sex and trafficking and weapons scandal that keeps happening,..."
 
-### [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
+### [ep-Qt0VHV-POCg](/episodes/ep-Qt0VHV-POCg.md)
 
 - [00:03:52](/episodes/ep-Qt0VHV-POCg.md#^t-00-03-39)
   > ".... Just amazing. Let's check out that fresh entry now. It reads: "Rob McCoy and Charlie Kirk founded Turning Point USA Faith (TPUSA Faith) together." "Along with being a Pentecostal pastor in the Calvary Chapel Association, ..."
@@ -46,7 +46,7 @@ _Type: Organizations_
 - [00:09:38](/episodes/ep-Qt0VHV-POCg.md#^t-00-09-15)
   > "...e was one of the advisors put on the board of advisory for TPUSA Faith. I know that he gets paid by TPUSA Faith upcoming pastor summits where they're going to teach other Christian Zionist pastors how to use the..."
 
-### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
+### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
 
 - [00:08:42](/episodes/ep-YFmRH8p5lt0.md#^t-00-08-14)
   > "...ry 10th to 19th—I'm going to also say that I think this is relevant. Rob McCoy hosts the first-ever Turning Point USA Faith Pastors Tour of Israel. He's guiding a group of pastors through Jerusalem. On February 20th, I thin..."
@@ -81,7 +81,7 @@ _Type: Organizations_
 - [00:23:54](/episodes/ep-YFmRH8p5lt0.md#^t-00-23-21)
   > "...t Charlie (Charlie Kirk) is in Omaha, Nebraska, speaking at the Lord of Hosts Church. So he's doing TPUSA Faith stuff in general. And then we get our blue—our blue plane comes in. Our blue plane— remember—is the..."
 
-### [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
+### [ep-YaZfwLQ7vrI](/episodes/ep-YaZfwLQ7vrI.md)
 
 - [00:17:48](/episodes/ep-YaZfwLQ7vrI.md#^t-00-17-23)
   > ".... So Lance (Lance Wallnau) fits the pattern well. And before I tell you how he is very connected to Turning Point USA Faith, I do want to also be clear that Frank Turek (Frank Turek) stands out because he flat-out acknowled..."
@@ -92,19 +92,19 @@ _Type: Organizations_
 - [00:13:23](/episodes/ep-YaZfwLQ7vrI.md#^t-00-13-01)
   > "... names might sound familiar. Certainly Sean Feucht (Sean Feucht). I brought him up to you regarding TPUSA Faith, who started to lead these events that they were having. So who is Lance Wallnau (Lance Wallnau)? W..."
 
-### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
+### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
 
 - [00:43:09](/episodes/ep-adJ4LNGp84I.md#^t-00-42-50)
   > "...o a company that is shilling for Israel. I have people that are telling me that they're handing out TPUSA Faith packets and, like, Israel is mentioned eight times. Someone submitted it to me. I read it. It's rid..."
 
-### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
+### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 
 - [00:07:49](/episodes/ep-his-JBjlkh8.md#^t-00-07-24)
   > "...ed if they were tracking Charlie (Charlie Kirk). We then obviously realized that they were tracking TPUSA Faith events and that many more times they were following and perhaps tracking Erika. You should be conce..."
 - [00:10:58](/episodes/ep-his-JBjlkh8.md#^t-00-10-58)
   > "... after some events. So I'm glad we're going to live-stream that. Keep going. She has suggested that TPUSA Faith-affiliated pastors, like theologian Frank Turek—who we'll have on in a moment—and Pastor Rob McCoy,..."
 
-### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
+### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:27:23](/episodes/ep-yAIb-NuUh_U.md#^t-00-27-15)
   > "...t becomes increasingly interesting when I keep insisting to you guys that there was something about Turning Point USA Faith that to me reads like an infiltration of sorts, okay? That is what it looks like to me. Something d..."
@@ -116,18 +116,18 @@ _Type: Organizations_
 ### Referenced By
 
 - [Rob McCoy](/entities/person-rob-mccoy.md) **advisor to** this
-  - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:09:32](/episodes/ep-Qt0VHV-POCg.md#^t-00-09-15)
+  - [ep-Qt0VHV-POCg @ 00:09:32](/episodes/ep-Qt0VHV-POCg.md#^t-00-09-15)
 - [Frank Turek](/entities/person-frank-turek.md) **affiliated with** this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:58](/episodes/ep-his-JBjlkh8.md#^t-00-10-16)
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:58](/episodes/ep-his-JBjlkh8.md#^t-00-10-16)
+  - [ep-his-JBjlkh8 @ 00:10:58](/episodes/ep-his-JBjlkh8.md#^t-00-10-16)
+  - [ep-his-JBjlkh8 @ 00:10:58](/episodes/ep-his-JBjlkh8.md#^t-00-10-16)
 - [Rob McCoy](/entities/person-rob-mccoy.md) **affiliated with** this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:58](/episodes/ep-his-JBjlkh8.md#^t-00-10-16)
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:58](/episodes/ep-his-JBjlkh8.md#^t-00-10-16)
+  - [ep-his-JBjlkh8 @ 00:10:58](/episodes/ep-his-JBjlkh8.md#^t-00-10-16)
+  - [ep-his-JBjlkh8 @ 00:10:58](/episodes/ep-his-JBjlkh8.md#^t-00-10-16)
 - [Rob McCoy](/entities/person-rob-mccoy.md) **board member of** this
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:13:21](/episodes/ep-YFmRH8p5lt0.md#^t-00-13-10)
+  - [ep-YFmRH8p5lt0 @ 00:13:21](/episodes/ep-YFmRH8p5lt0.md#^t-00-13-10)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) **founded** this
-  - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:06:42](/episodes/ep-Qt0VHV-POCg.md#^t-00-06-26)
+  - [ep-Qt0VHV-POCg @ 00:06:42](/episodes/ep-Qt0VHV-POCg.md#^t-00-06-26)
 - [Lance Wallnau](/entities/person-lance-wallnau.md) **invested in** this
-  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:20:07](/episodes/ep-YaZfwLQ7vrI.md#^t-00-19-33)
+  - [ep-YaZfwLQ7vrI @ 00:20:07](/episodes/ep-YaZfwLQ7vrI.md#^t-00-19-33)
 - [Sean Feucht](/entities/person-sean-feucht.md) **works at** this
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:10:31](/episodes/ep-YFmRH8p5lt0.md#^t-00-10-20)
+  - [ep-YFmRH8p5lt0 @ 00:10:31](/episodes/ep-YFmRH8p5lt0.md#^t-00-10-20)

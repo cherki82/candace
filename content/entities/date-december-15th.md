@@ -14,7 +14,7 @@ _Type: Dates_
 
 ## Mentions
 
-### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
+### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:05:05](/episodes/ep-ZAuuSq_j2_w.md#^t-00-04-36)
   > "...ached out to me and we set a time. No. He goes on. "At 4 p.m. Eastern, 2 p.m. local time on Monday, December 15th, a collection of Charlie (Charlie Kirk)'s friends will respond to statements made by Candace Owens ..."
@@ -25,7 +25,7 @@ _Type: Dates_
 - [00:10:21](/episodes/ep-ZAuuSq_j2_w.md#^t-00-10-11)
   > "... can do this virtually any place and any time." But no—they need to have it in person in Phoenix on December 15th, or they cannot have me at all. Is that passing the vibe check for you guys? Or does it seem like m..."
 
-### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
+### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
 
 - [00:09:59](/episodes/ep-sImMM04XdWY.md#^t-00-09-40)
   > "...is going to be their hangar. Okay, interesting. Back to our timeline. That is publicly announced on December 10th. And then on December 18th, Tom Clare sends another follow-up email regarding the cease-and-desist...."

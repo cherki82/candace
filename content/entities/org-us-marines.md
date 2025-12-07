@@ -10,7 +10,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:16:09](/episodes/ep-tB5SXXmd9vU.md#^t-00-16-09)
   > "...the 4th Company, 2nd Foreign Infantry Regiment, the 6th Light Armored Brigade, were integrated with U.S. Marines of the 6th Marine Regiment for a three-week training deployment. That took place in California. And..."
@@ -20,4 +20,4 @@ _Type: Organizations_
 ### Referenced By
 
 - [6th Marine Regiment](/entities/org-6th-marine-regiment.md) **member of** this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:16:09](/episodes/ep-tB5SXXmd9vU.md#^t-00-15-25)
+  - [ep-tB5SXXmd9vU @ 00:16:09](/episodes/ep-tB5SXXmd9vU.md#^t-00-15-25)

@@ -2,6 +2,8 @@
 
 _Total entities: 644_
 
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
 <input type="radio" id="sort-radio-alpha" name="entity-sort" class="sort-radio">
 <input type="radio" id="sort-radio-count" name="entity-sort" checked class="sort-radio">
 

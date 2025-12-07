@@ -10,12 +10,12 @@ _Type: Places_
 
 ## Mentions
 
-### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
+### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:20:11](/episodes/ep-SKGUzGHymcI.md#^t-00-20-11)
   > "...ernment Falcon 7X on two separate Wilmington runs for no reason. I mean, just look at the choice of St. Louis, Wichita, Omaha, Lincoln, Williston, Minot, and Provo. None of these are standard diplomatic hubs. ..."
 
-### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
+### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
 
 - [00:09:55](/episodes/ep-YFmRH8p5lt0.md#^t-00-09-40)
   > "...erceived—was a bit of a hostile takeover. Okay? February 21st, we now have BND, okay? It flies into St. Louis, Missouri, and it lands at 2:38 p.m., and it's gonna stay until May. The blue one you're gonna see ..."

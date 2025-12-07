@@ -10,7 +10,7 @@ _Type: Concepts_
 
 ## Mentions
 
-### [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
+### [ep-YaZfwLQ7vrI](/episodes/ep-YaZfwLQ7vrI.md)
 
 - [00:13:32](/episodes/ep-YaZfwLQ7vrI.md#^t-00-13-01)
   > "... Wallnau (Lance Wallnau)? Well, he is one of these NAR preachers—like I said—who came up with their Seven Mountain Mandate, okay? Charlie (Charlie Kirk) began to become very interested in the Seven Mountain Mandate. I woul..."

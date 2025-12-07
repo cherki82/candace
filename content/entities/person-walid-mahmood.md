@@ -14,7 +14,7 @@ _Type: People_
 
 ## Mentions
 
-### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
+### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:14:42](/episodes/ep-ZAuuSq_j2_w.md#^t-00-14-25)
   > "...orts, okay?— These are obviously dead ends. But the name that one of those individuals was using is Walid Mahmood, okay? Walid Mahmood. So we now know that of the four people that flew to Delaware, someone flew us..."

@@ -10,7 +10,7 @@ _Type: People_
 
 ## Mentions
 
-### [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
+### [ep-YaZfwLQ7vrI](/episodes/ep-YaZfwLQ7vrI.md)
 
 - [00:08:30](/episodes/ep-YaZfwLQ7vrI.md#^t-00-08-05)
   > "...United States Capitol Police officer named Shawna Rae Kirkhoff, right? A man named—a reporter named Steve Baker—who just deserves all of the credit on this amazing discovery. And I'm going to let you listen to G..."
@@ -24,4 +24,4 @@ _Type: People_
 ### Referenced By
 
 - [Glenn Beck](/entities/person-glenn-beck.md) **interviewed** this
-  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:08:35](/episodes/ep-YaZfwLQ7vrI.md#^t-00-08-05)
+  - [ep-YaZfwLQ7vrI @ 00:08:35](/episodes/ep-YaZfwLQ7vrI.md#^t-00-08-05)

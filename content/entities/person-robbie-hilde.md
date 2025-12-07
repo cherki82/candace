@@ -10,14 +10,14 @@ _Type: People_
 
 ## Mentions
 
-### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
+### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
 
 - [00:17:58](/episodes/ep-adJ4LNGp84I.md#^t-00-17-40)
   > "...n him, and a handful of you similarly found the same person that we did, a person going by the name Robbie Hilde, who was allegedly from Washington. Now, let me tell you why I don't think this is his true identit..."
 - [00:18:27](/episodes/ep-adJ4LNGp84I.md#^t-00-18-19)
   > "...th that name, and it's not. It's simply not. Oddly, no one has come forward to claim that they know Robbie Hilde. They're all just saying, I got a hit. I got a hit. This might be him. No one is saying they went t..."
 
-### [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
+### [ep-t1YtLS1n8Vs](/episodes/ep-t1YtLS1n8Vs.md)
 
 - [00:24:35](/episodes/ep-t1YtLS1n8Vs.md#^t-00-24-03)
   > "...tever reason, everybody that they spoke to wasn't that. We will continue to grow this witness tree. Robbie Hilde—we've put a TBD on because we're getting crazy information on him. We're calling him Mr. Worldwide ..."

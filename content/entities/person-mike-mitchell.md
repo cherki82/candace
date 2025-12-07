@@ -14,12 +14,12 @@ _Type: People_
 
 ## Mentions
 
-### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
+### [ep-5autG89PW6w](/episodes/ep-5autG89PW6w.md)
 
 - [00:39:06](/episodes/ep-5autG89PW6w.md#^t-00-38-46)
   > "...omething? They had no idea what was happening. They were going off of Mike—the mysterious detective Mike Mitchell's tip. They had no confession. They have Tyler Robinson walking in peacefully because he doesn't wa..."
 
-### [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
+### [ep-YA1FxrDWNIo](/episodes/ep-YA1FxrDWNIo.md)
 
 - [00:20:53](/episodes/ep-YA1FxrDWNIo.md#^t-00-20-22)
   > "...So I'm thinking maybe he also came from overseas. Now quickly, regarding our question pertaining to Mike Mitchell, right? I was saying that it was pretty odd and obvious that they were trying to protect this Detec..."
@@ -34,7 +34,7 @@ _Type: People_
 - [00:22:30](/episodes/ep-YA1FxrDWNIo.md#^t-00-21-49)
   > "...He's chatting with someone now. His words are full of typos and misspellings and childlike phrases. Mike Mitchell is not a boy. He is a police detective hunting for a pedophile. But the hunted doesn't know that. M..."
 
-### [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
+### [ep-ZGxnf5cj4Uw](/episodes/ep-ZGxnf5cj4Uw.md)
 
 - [00:18:57](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-18-41)
   > "...d to get in touch with. We've tried to get in touch with him. The name of that individual is former deputy Mike Mitchell, okay? Deputy Mike Mitchell. Now, oddly, despite a career of 25 years in the police force, I can't ..."
@@ -47,7 +47,7 @@ _Type: People_
 - [00:50:38](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-50-29)
   > "...some other leads that we are working on. That's how I feel. And even when I was trying to find this Mike Mitchell, I could find the Mitchell family. I don't know if it's his family, but the Mitchell name in that a..."
 
-### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
+### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
 
 - [00:19:30](/episodes/ep-adJ4LNGp84I.md#^t-00-19-30)
   > "...y interesting. And yes, it is true, it is a fact that Tyler Robinson, we can't confirm that this is Mike Mitchell, but there are old photos of Tyler Robinson when he's a lot younger visiting his Uncle Mikey, okay?..."
@@ -59,9 +59,9 @@ _Type: People_
 ### Employed By
 
 - [Nate Brooksby](/entities/person-nate-brooksby.md)
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:17:28](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-17-23): "a retired detective that worked for me for many years"
+  - [ep-ZGxnf5cj4Uw @ 00:17:28](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-17-23): "a retired detective that worked for me for many years"
 - [Salt Lake County Sheriff's Office](/entities/org-salt-lake-county-sheriff-s-office.md)
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:22:36](/episodes/ep-YA1FxrDWNIo.md#^t-00-22-32): "detective with the Salt Lake County Sheriff's Office"
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:22](/episodes/ep-YA1FxrDWNIo.md#^t-00-00-01): "Mitchell, a detective with the Salt Lake County Sheriff's Office"
+  - [ep-YA1FxrDWNIo @ 00:22:36](/episodes/ep-YA1FxrDWNIo.md#^t-00-22-32): "detective with the Salt Lake County Sheriff's Office"
+  - [ep-YA1FxrDWNIo @ 00:00:22](/episodes/ep-YA1FxrDWNIo.md#^t-00-00-01): "Mitchell, a detective with the Salt Lake County Sheriff's Office"
 - [Washington County](/entities/gpe-washington-county.md)
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:20:11](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-20-04): "Today we celebrated the career of Detective Mike Mitchell. After over 24 years of serving, 24 years, Washington County"
+  - [ep-ZGxnf5cj4Uw @ 00:20:11](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-20-04): "Today we celebrated the career of Detective Mike Mitchell. After over 24 years of serving, 24 years, Washington County"

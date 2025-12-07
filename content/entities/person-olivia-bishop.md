@@ -14,7 +14,7 @@ _Type: People_
 
 ## Mentions
 
-### [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
+### [ep-t1YtLS1n8Vs](/episodes/ep-t1YtLS1n8Vs.md)
 
 - [00:17:21](/episodes/ep-t1YtLS1n8Vs.md#^t-00-16-46)
   > "...oter limping up close. And her name, and we know this because she spoke to the news—they all did—is Olivia Robertson Cobb Bishop. Let's listen to her testimony now. [CLIP ATTRIBUTION: Olivia Bishop speaking in this clip.] I kind..."
@@ -30,4 +30,4 @@ _Type: People_
 ### Works At
 
 - [Orem Police Department](/entities/org-orem-police-department.md)
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:19:20](/episodes/ep-t1YtLS1n8Vs.md#^t-00-18-54): "she works for the Orem Police Department."
+  - [ep-t1YtLS1n8Vs @ 00:19:20](/episodes/ep-t1YtLS1n8Vs.md#^t-00-18-54): "she works for the Orem Police Department."

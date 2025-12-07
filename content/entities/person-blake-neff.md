@@ -15,7 +15,7 @@ _Type: People_
 
 ## Mentions
 
-### [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
+### [ep-581dILVcEE4](/episodes/ep-581dILVcEE4.md)
 
 - [00:21:32](/episodes/ep-581dILVcEE4.md#^t-00-21-22)
   > "...ght back because Turning Point is dropping receipts—kind of a little bit. We're going to talk about Blake Neff, who dropped a receipt; Brian Harpole, the security who dropped a receipt—right after a few of our ..."
@@ -36,7 +36,7 @@ _Type: People_
 - [00:36:29](/episodes/ep-581dILVcEE4.md#^t-00-36-17)
   > "...s call log with his mom, or rather a screenshot of the call that he had with his mom. Now remember, Blake is in Arizona now, so this is going to say 11:24. It's supposed to be obviously 12:24 Utah time. We..."
 
-### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
+### [ep-5autG89PW6w](/episodes/ep-5autG89PW6w.md)
 
 - [00:15:25](/episodes/ep-5autG89PW6w.md#^t-00-15-02)
   > "...a few people. Don't know where it went from there, apparently. But here we are. One of the reasons, Blake, that I'm glad to have this now public—it was not mine to share publicly—but you know, one of the c..."
@@ -45,14 +45,14 @@ _Type: People_
 - [00:19:06](/episodes/ep-5autG89PW6w.md#^t-00-18-31)
   > "...nt to say that. Also, I'm glad that Andrew responded correctly because I was going to say this when Blake's like, "Well, you know, the investigation is ongoing." That text message has nothing to do with an..."
 
-### [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
+### [ep-Cq7nj9rxPdo](/episodes/ep-Cq7nj9rxPdo.md)
 
 - [00:45:02](/episodes/ep-Cq7nj9rxPdo.md#^t-00-44-32)
   > "...cks. The first thing I would have done—just like I did when I was being accused of colluding on the Blake Lively story, when I got drafted into that lawsuit and they thought that I was working with Blake Lively's..."
 - [00:45:05](/episodes/ep-Cq7nj9rxPdo.md#^t-00-44-32)
   > "...th Justin Baldoni's team—is I quite literally live-subpoenaed myself. Held to my phone. I typed in "Blake Lively," and I showed you the only two times that I had ever texted about her in my phone at all to demons..."
 
-### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
+### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
 
 - [00:35:57](/episodes/ep-LATnak75Si0.md#^t-00-35-24)
   > "...nd the excuse that we were given about what Mikey was doing is like running in the back of my head. Blake Neff, who was there—he's also carrying on Charlie (Charlie Kirk)'s show. And he was pretty fired up abou..."
@@ -71,14 +71,14 @@ _Type: People_
 - [00:41:51](/episodes/ep-LATnak75Si0.md#^t-00-41-22)
   > "... he is saying is true— and until they reunited—which does not happen in our eyesight. We do not see Blake and Mikey reunite when we track Mikey all the way straight down to the left. Okay. The 12-23 minute..."
 
-### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
+### [ep-Qfwr08Ebczo](/episodes/ep-Qfwr08Ebczo.md)
 
 - [00:10:04](/episodes/ep-Qfwr08Ebczo.md#^t-00-10-04)
   > "...me he ever did it. Take a listen to Mikey McCoy explain that. Today is really fun because Mikey and Blake are going to talk about their last trip with Charlie (Charlie Kirk) to Asia. And Mikey, you are now..."
 - [00:10:21](/episodes/ep-Qfwr08Ebczo.md#^t-00-10-04)
   > "...t three, four days before Utah. And it was Charlie (Charlie Kirk)'s dream to always go to Asia. And Blake and I got the gift of being able to tag along for that. And so I brought the camera with me. I've n..."
 
-### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
+### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:04:44](/episodes/ep-ZAuuSq_j2_w.md#^t-00-04-36)
   > "...d to him and I said, "No, actually I didn't see this." And I opened the tweets, which went out from Blake Neff around midnight last night. And here's what he wrote. I'm like, how am I supposed to see this? "The..."
@@ -107,7 +107,7 @@ _Type: People_
 - [00:28:24](/episodes/ep-ZAuuSq_j2_w.md#^t-00-28-05)
   > "... he was going to dinner, and he said, "Hey, you're going to dinner with Blake and Danny." He said, "Blake is my secret weapon. He's the smartest man I know." And, uh, he loved you. And for anybody to sugge..."
 
-### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
+### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 
 - [00:27:04](/episodes/ep-his-JBjlkh8.md#^t-00-26-34)
   > "...ts to be the president and things aren't making sense and I sense that she is lying. Sometimes it's Blake Lively and Ryan Reynolds when they try to destroy a man's life who's not even on my quote-unquote "politic..."
@@ -128,7 +128,7 @@ _Type: People_
 - [00:28:05](/episodes/ep-his-JBjlkh8.md#^t-00-27-57)
   > "... to the point here, which is that they are willing to finally address things head-on. So I will let Blake say that. "And far too often, we here have heard from ordinary people—people who loved Charlie (Cha..."
 
-### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
+### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
 
 - [00:05:56](/episodes/ep-vwG1juDCQZQ.md#^t-00-05-43)
   > "...f the Brigitte Macron thing." "Oh, it's because of the Kamala Chronicles." "Oh, it's because of the Blake Lively lawsuit." The common denominator here is me looking for truth. And I think people are catching on t..."
@@ -138,10 +138,10 @@ _Type: People_
 ### Employed By
 
 - [Turning Point USA](/entities/org-turning-point-usa.md)
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:31:31](/episodes/ep-581dILVcEE4.md#^t-00-31-27): "Blake Neff was the Turning Point USA employee that was standing directly next to super-Mikey McCoy"
+  - [ep-581dILVcEE4 @ 00:31:31](/episodes/ep-581dILVcEE4.md#^t-00-31-27): "Blake Neff was the Turning Point USA employee that was standing directly next to super-Mikey McCoy"
 
 ### Works At
 
 - [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#^t-00-02-14): "Blake Neff, by the way, is the producer of The Charlie Kirk Show."
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#^t-00-02-14): "Blake Neff, by the way, is the producer of The Charlie Kirk Show."
+  - [ep-his-JBjlkh8 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#^t-00-02-14): "Blake Neff, by the way, is the producer of The Charlie Kirk Show."
+  - [ep-his-JBjlkh8 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#^t-00-02-14): "Blake Neff, by the way, is the producer of The Charlie Kirk Show."

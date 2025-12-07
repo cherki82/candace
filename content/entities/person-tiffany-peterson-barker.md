@@ -15,7 +15,7 @@ _Type: People_
 
 ## Mentions
 
-### [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
+### [ep-UBkFkg4UNY8](/episodes/ep-UBkFkg4UNY8.md)
 
 - [00:02:58](/episodes/ep-UBkFkg4UNY8.md#^t-00-02-39)
   > "...s were students of UVU. I guess that's just coincidental. Just to go back, we had already discussed Tiffany Barker and that early morning GMA interview—Good Morning America interview—that she did with her nieces. S..."
@@ -28,12 +28,12 @@ _Type: People_
 - [00:06:40](/episodes/ep-UBkFkg4UNY8.md#^t-00-06-32)
   > "...any people were curious mainly as to why the children were so descriptive regarding the artery. And Tiffany herself made a response video and addressed that question. And here is what she had to say. When we..."
 
-### [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
+### [ep-YA1FxrDWNIo](/episodes/ep-YA1FxrDWNIo.md)
 
 - [00:02:13](/episodes/ep-YA1FxrDWNIo.md#^t-00-02-13)
   > "...Kirk). Just, he was saying and doing a little too much, and his energy was weird, and the energy of Tiffany Barker was weird. And we were clear that's potentially just because, you know, he's a politician, an aspir..."
 
-### [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
+### [ep-ZGxnf5cj4Uw](/episodes/ep-ZGxnf5cj4Uw.md)
 
 - [00:26:27](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-26-27)
   > "...u. Okay, great. Fast forward to me looking into the witness list, and obviously we spoke about this—Tiffany Peterson Barker—that very weird clip of her with her nieces at like 4 a.m. in the morning just speaking on Good Mor..."
@@ -50,12 +50,12 @@ _Type: People_
 - [00:51:13](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-50-29)
   > "...wering for something that nobody said? Little things like that. It's the same thing like when I saw Tiffany's interview. I just found it—like most of you did—to be odd, given the fact that the hitman was sti..."
 
-### [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
+### [ep-pc3pxRyNFZk](/episodes/ep-pc3pxRyNFZk.md)
 
 - [00:23:00](/episodes/ep-pc3pxRyNFZk.md#^t-00-22-56)
   > "...ng censored. And you have a bunch of people that are giving a platform, and they seem weird, right? Tiffany Barker on Good Morning America—vibes were weird there, okay? Not assigning any necessarily badness to her,..."
 
-### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
+### [ep-sreYYcID-QY](/episodes/ep-sreYYcID-QY.md)
 
 - [00:20:04](/episodes/ep-sreYYcID-QY.md#^t-00-19-52)
   > "...hours following Charlie Kirk's assassination, like the next day. Take a listen. We're joined now by Tiffany Barker and our nieces Elle Steele and Mia Grant, who were all in the audience yesterday afternoon. Thank y..."
@@ -64,7 +64,7 @@ _Type: People_
 - [00:20:12](/episodes/ep-sreYYcID-QY.md#^t-00-19-52)
   > ".... Thank you for joining us this morning. I know it's been a difficult day for all of you right now. Tiffany, let me begin with you. Just tell us what you remember about the scene yesterday. It was horrific. ..."
 
-### [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
+### [ep-t1YtLS1n8Vs](/episodes/ep-t1YtLS1n8Vs.md)
 
 - [00:20:57](/episodes/ep-t1YtLS1n8Vs.md#^t-00-20-20)
   > "...er look at our witness tree, because it's growing, right? It's growing, our witness tree. We've got Tiffany Barker, of course; she's with the nieces. Her sister was Phil Lyman's running mate. She spoke to Good Morn..."

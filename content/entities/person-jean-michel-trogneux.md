@@ -15,27 +15,27 @@ _Type: People_
 
 ## Mentions
 
-### [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
+### [ep-Cq7nj9rxPdo](/episodes/ep-Cq7nj9rxPdo.md)
 
 - [00:58:14](/episodes/ep-Cq7nj9rxPdo.md#^t-00-57-42)
   > "... back when, when this wasn't even a viral story. I mean, completely ridiculous. Okay, you were born Jean-Michel Trogneux. You transitioned, and you've been put in this position of power. And I don't know why they would d..."
 
-### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
+### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:53:37](/episodes/ep-SKGUzGHymcI.md#^t-00-53-19)
   > "...ltra experiment that happened that I believe it looked very much like prisoner 2093 could have been Jean-Michel Trogneux. And then this happens. And I did not at all think there could be a connection, but this French ang..."
 
-### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
+### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:38:42](/episodes/ep-mKXdKV-OBog.md#^t-00-38-09)
   > "... one of their subsidiaries in Hamburg, Germany—which is of course interesting because that is where Jean-Michel Jarre disappears for a couple of decades and joins the military. And they certainly did. And the CE..."
 
-### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
+### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
 
 - [00:08:18](/episodes/ep-sImMM04XdWY.md#^t-00-08-18)
   > "... I thought that would be a great get, and I still believe that Brigitte Macron was born a man named Jean-Michel Trogneux. Suddenly, on December 3rd, before I interview him, I receive the first ever cease-and-desist lette..."
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:00:05](/episodes/ep-tB5SXXmd9vU.md#^t-00-00-01)
   > "All right, you guys, it is a very tangled web that we weave. I'm referring to me and Jean-Michel Trogneux, okay? Jean-Michel Trogneux has been so protected and has worn so many faces and has clearly gotten..."

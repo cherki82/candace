@@ -18,7 +18,7 @@ _Type: Places_
 
 ## Mentions
 
-### [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
+### [ep-2Riv3I7D0Yk](/episodes/ep-2Riv3I7D0Yk.md)
 
 - [00:04:11](/episodes/ep-2Riv3I7D0Yk.md#^t-00-03-33)
   > "... one. Seth Dillon and Josh were personally upset with Charlie (Charlie Kirk)'s defiance against the state of Israel. Seth Dillon was the more vocal of the two parties in the Hamptons, as I said, in terms of actually..."
@@ -135,7 +135,7 @@ _Type: Places_
 - [01:11:44](/episodes/ep-2Riv3I7D0Yk.md#^t-01-11-36)
   > "...ed from—I got banned from a country. Like, what am I doing that? I wasn't even going to speak about Israel—like nothing. And yet the Zionist lobby grows up and like she can't speak. I was going to speak abo..."
 
-### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
+### [ep-2WEHTk0Xewg](/episodes/ep-2WEHTk0Xewg.md)
 
 - [00:44:18](/episodes/ep-2WEHTk0Xewg.md#^t-00-43-52)
   > "... (Charlie Kirk) didn't hate Jews. He loved Jews. He had tons of friends who were Jews. He loved the state of Israel. He loved going there. He did. He felt that Benjamin Netanyahu (Benjamin Netanyahu) was a very dest..."
@@ -158,7 +158,7 @@ _Type: Places_
 - [00:52:25](/episodes/ep-2WEHTk0Xewg.md#^t-00-52-17)
   > "...with you or not platform you. I too have gotten that—especially since you've been more outspoken on Israel. And I couldn't care less the amount of pressure they put on me. I'm like, "What are you talking ab..."
 
-### [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
+### [ep-581dILVcEE4](/episodes/ep-581dILVcEE4.md)
 
 - [00:47:01](/episodes/ep-581dILVcEE4.md#^t-00-46-30)
   > "...hernick is married to Aubrey Chernick. He's a software tech billionaire guy. They fund a variety of pro-Israel causes through the David Horowitz Freedom Center. So that was another donor who went, "Bye-bye, Cha..."
@@ -181,7 +181,7 @@ _Type: Places_
 - [00:50:42](/episodes/ep-581dILVcEE4.md#^t-00-50-42)
   > "...ccept that. We should not accept lobbying full stop, but we certainly shouldn't accept this sort of Israel exception, which is they do not have to certify anything under FARA. Obsessed Sports Rights. "If th..."
 
-### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
+### [ep-5autG89PW6w](/episodes/ep-5autG89PW6w.md)
 
 - [00:24:57](/episodes/ep-5autG89PW6w.md#^t-00-24-50)
   > "...ian, one of my greatest joys in life is making friendships with the Jewish people and defending the state of Israel.'" That's literally the opening sentence of this letter. Filth, okay? Absolute filth. I don't under..."
@@ -220,7 +220,7 @@ _Type: Places_
 - [01:01:03](/episodes/ep-5autG89PW6w.md#^t-01-00-26)
   > "...w the term 'Judeo-Christian' came about. I'm aware of it. It seems to be a very convenient word for Israel." I don't think any of the core values or their views on Jesus are shared. It definitively is not. ..."
 
-### [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
+### [ep-7RLtGgkTh9o](/episodes/ep-7RLtGgkTh9o.md)
 
 - [00:03:36](/episodes/ep-7RLtGgkTh9o.md#^t-00-03-30)
   > "...ist Inc. Everybody understands what Zionist Inc. is now. You see it everywhere. You cannot question Israel at all, or they descend on you. Somehow, the Charlie (Charlie Kirk) Kirk assassination is bringing ..."
@@ -231,7 +231,7 @@ _Type: Places_
 - [00:58:48](/episodes/ep-7RLtGgkTh9o.md#^t-00-58-48)
   > "...ng about the security of the Middle East. We would have no beef in the Middle East if it wasn't for Israel and us constantly protecting them from the trouble that they cause. But I'm not going to go off on ..."
 
-### [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
+### [ep-Cq7nj9rxPdo](/episodes/ep-Cq7nj9rxPdo.md)
 
 - [00:56:09](/episodes/ep-Cq7nj9rxPdo.md#^t-00-55-46)
   > "...s, the families that Brigitte is related to, the fact that Emmanuel Macron is in fact—just like the state of Israel—a Rothschild creation; talking about the military industrial complex and talking about the Kabbalah..."
@@ -248,7 +248,7 @@ _Type: Places_
 - [01:07:05](/episodes/ep-Cq7nj9rxPdo.md#^t-01-07-05)
   > "...r you guys tomorrow. I have no hope whatsoever. And I don't believe he's reconsidering his love for Israel. Miriam Adelson gave him $100 million, and she was explicit. The $100 million meant that he would a..."
 
-### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
+### [ep-JQjCAsfoXEE](/episodes/ep-JQjCAsfoXEE.md)
 
 - [00:25:27](/episodes/ep-JQjCAsfoXEE.md#^t-00-24-54)
   > "...ideos about me and Tucker (Tucker Carlson), and none of them are Egyptians, okay? In fact, it's the Israelis. It is Israel that seems deeply upset with me and Tucker (Tucker Carlson). They are not letting it ..."
@@ -267,7 +267,7 @@ _Type: Places_
 - [00:32:22](/episodes/ep-JQjCAsfoXEE.md#^t-00-32-22)
   > "...us. But it wasn't actually Egypt that attacked that ship. It was Israel. Israel attacked that ship. Israel is growing increasingly alarming in terms of legislation that they're trying to get passed, trying ..."
 
-### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
+### [ep-K1tFD7FfoCU](/episodes/ep-K1tFD7FfoCU.md)
 
 - [00:20:55](/episodes/ep-K1tFD7FfoCU.md#^t-00-20-31)
   > "...completely deranged lie about Erika Kirk (Erika Kirk). Here is the statement that was issued by the Israeli War Room account over on Twitter, and they were citing the actual reporting from the Jerusalem Post..."
@@ -312,7 +312,7 @@ _Type: Places_
 - [00:49:02](/episodes/ep-K1tFD7FfoCU.md#^t-00-48-38)
   > "...ucker (Tucker Carlson) is not MAGA." People can see which way the wind is blowing, and it's against Israel because everything they do is uncool—and it also happens to be genocidal. So that doesn't help eith..."
 
-### [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
+### [ep-K5GjF53bfN4](/episodes/ep-K5GjF53bfN4.md)
 
 - [00:07:59](/episodes/ep-K5GjF53bfN4.md#^t-00-07-21)
   > "...Is that getting slaughtered? Is it specifically conservative influencers? You said that it wasn't a pro-Israel event, so I guess there's no Israel angle here, which does—of course, there's tons of Zionists in t..."
@@ -333,7 +333,7 @@ _Type: Places_
 - [00:05:39](/episodes/ep-K5GjF53bfN4.md#^t-00-05-39)
   > "...being wrongly labeled anti-Semitic and how it was actually pushing him away, and it wasn't good for Israel. Then one of the big questions that we discovered, or that we asked, and something that we had disc..."
 
-### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
+### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
 
 - [00:12:30](/episodes/ep-LATnak75Si0.md#^t-00-12-30)
   > "...y, we need to focus on delivering on their concerns. And just yes or no: do you believe in a Jewish state of Israel? I believe Israel has the right to exist. Not as a Jewish state, no. As a state with equal rights. ..."
@@ -408,7 +408,7 @@ _Type: Places_
 - [00:58:34](/episodes/ep-LATnak75Si0.md#^t-00-58-34)
   > "...ere is that he was shifting viewpoints—Jordan Peterson has actually been a stalwart on the topic of Israel. I've never even seen any daylight, a crack on that topic. And I—for me personally—found that it wa..."
 
-### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
+### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
 
 - [00:10:40](/episodes/ep-MUA9ebCF4Ow.md#^t-00-10-24)
   > "...know, Epstein's probably not like a Mossad agent or something, but Epstein clearly had contact with Israeli intelligence and American intelligence and French intelligence. But the only one you're not allowed..."
@@ -441,7 +441,7 @@ _Type: Places_
 - [00:54:40](/episodes/ep-MUA9ebCF4Ow.md#^t-00-54-17)
   > "...d to believe you're telling—but totally like trust you—on what you're telling us about 1948 and how Israel became a nation, but you can't even tell the truth about like what Charlie (Charlie Kirk) was going..."
 
-### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
+### [ep-Qfwr08Ebczo](/episodes/ep-Qfwr08Ebczo.md)
 
 - [00:23:54](/episodes/ep-Qfwr08Ebczo.md#^t-00-23-43)
   > "... when we do this. Maybe the cell phones belonged to some exchange students. It's possible. Maybe 12 Israelis were touring UVU on that day because—I don't know—Utah Valley University is a place where they mayb..."
@@ -488,7 +488,7 @@ _Type: Places_
 - [00:50:06](/episodes/ep-Qfwr08Ebczo.md#^t-00-49-32)
   > "... and Israel—TikTok is hitting us for videos talking about the Egyptian planes. That's very strange. Israel's moderator served in the IDF—we know—and Benjamin Netanyahu (Bibi Netanyahu) wants TikTok secured ..."
 
-### [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
+### [ep-Qt0VHV-POCg](/episodes/ep-Qt0VHV-POCg.md)
 
 - [00:39:54](/episodes/ep-Qt0VHV-POCg.md#^t-00-39-34)
   > "... the school system—to be triggered at the idea that anybody could have a thought against the modern state of Israel, which is only there because six million Jews perished in the Holocaust. We all grew up with that, ..."
@@ -519,7 +519,7 @@ _Type: Places_
 - [00:55:44](/episodes/ep-Qt0VHV-POCg.md#^t-00-55-39)
   > "...n, so stop saying that opinion, you know? Do what the rest of everybody does. "Everybody here loves Israel." "It's just you that doesn't love it." "So something's wrong with you." It's exact same thing here..."
 
-### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
+### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:47:35](/episodes/ep-SKGUzGHymcI.md#^t-00-47-35)
   > "...t day and a geofencing campaign where if you attend these churches your phone will be targeted with pro-Israel ads and much more. I sent you the official far document via email where their entire plan is laid o..."
@@ -534,7 +534,7 @@ _Type: Places_
 - [00:48:15](/episodes/ep-SKGUzGHymcI.md#^t-00-48-15)
   > "...he more money they spend and the more magazines that they print at a church are being drawn towards Israel. I think they're realizing something is very wrong. So it's having the exact opposite effect. And f..."
 
-### [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
+### [ep-UBkFkg4UNY8](/episodes/ep-UBkFkg4UNY8.md)
 
 - [00:35:56](/episodes/ep-UBkFkg4UNY8.md#^t-00-35-39)
   > "...they're going to answer this question about whether or not Charlie (Charlie Kirk) was offered money—Israeli money—is interesting. Take a listen. Was Charlie (Charlie Kirk) offered $150 million from Israel? A..."
@@ -555,7 +555,7 @@ _Type: Places_
 - [00:44:40](/episodes/ep-UBkFkg4UNY8.md#^t-00-44-14)
   > "... country with Candace (Candace Owens). I went to her wedding. I saw her meet her husband. I went to Israel with Candace (Candace Owens), which is a fun story I'll tell you at some point. But what I don't li..."
 
-### [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
+### [ep-YA1FxrDWNIo](/episodes/ep-YA1FxrDWNIo.md)
 
 - [00:01:57](/episodes/ep-YA1FxrDWNIo.md#^t-00-01-30)
   > "...onna get to that. And we're just going to slaughter that narrative that Charlie (Charlie Kirk) died pro-Israel. But first, I want to jump right back into what we uncovered yesterday to keep you guys focused. I ..."
@@ -598,7 +598,7 @@ _Type: Places_
 - [00:43:43](/episodes/ep-YA1FxrDWNIo.md#^t-00-43-43)
   > "...deos at the same time, posting at the same time—people that are accepting money through an agent of Israel somehow. I've also got contracts—got contracts as well—how these people are getting paid: quote-unq..."
 
-### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
+### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
 
 - [00:52:14](/episodes/ep-YFmRH8p5lt0.md#^t-00-51-43)
   > "... important—that they can hijack our emotions and tell us that it's our biblical duty to support the state of Israel because I think the state of Israel is probably involved in what is happening at the border, in wha..."
@@ -657,7 +657,7 @@ _Type: Places_
 - [01:02:40](/episodes/ep-YFmRH8p5lt0.md#^t-01-02-26)
   > "... going on. And the scales may fall from your eyes as quickly as they fell from mine on the topic of Israel. There was no justification. There definitively cannot be any godly justification for what they hav..."
 
-### [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
+### [ep-YaZfwLQ7vrI](/episodes/ep-YaZfwLQ7vrI.md)
 
 - [00:24:30](/episodes/ep-YaZfwLQ7vrI.md#^t-00-24-13)
   > "...ink that's the case. I think these people that are telling you that you are not allowed to question Israel or you're going to go to hell are not working on behalf of God. I think that they worship specific ..."
@@ -670,21 +670,21 @@ _Type: Places_
 - [00:57:52](/episodes/ep-YaZfwLQ7vrI.md#^t-00-57-38)
   > "...ot on the Charlie (Charlie Kirk) stuff—but she was trying to hammer me so much on Zionism—you know, Israel—is kind of what she wanted to speak about. And then Brigitte Macron is what she wanted to speak abo..."
 
-### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
+### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:48:33](/episodes/ep-ZAuuSq_j2_w.md#^t-00-47-54)
   > "...I get what you are saying." And Charlie (Charlie Kirk) was always authentic. He authentically loved Israel. And then he authentically had questions after October 7th. And then he was authentically angry and..."
 - [00:49:20](/episodes/ep-ZAuuSq_j2_w.md#^t-00-49-20)
   > "...ment about why things around the world are happening—even if it's uncovered in the U.S., French and Israel were colluding and killed CK—what power do we have to fight the billionaires or the Department of D..."
 
-### [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
+### [ep-_dRaEO47-co](/episodes/ep-_dRaEO47-co.md)
 
 - [00:13:27](/episodes/ep-_dRaEO47-co.md#^t-00-13-27)
   > "...We really did go everywhere. I mean, all 50 states, Canada, down to the border, the United Kingdom, Israel—you name it, we were there. And there was always a new t-shirt to print out: “Justice for Brett Kav..."
 - [00:20:19](/episodes/ep-_dRaEO47-co.md#^t-00-20-12)
   > "...wrong. And we laughed at how wrong it was when people thought that when I had made up my mind about Israel, that Charlie (Charlie Kirk) and me fell apart. Nope. Never. Not for a second. I said, it's the eas..."
 
-### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
+### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:15:27](/episodes/ep-a-e7HC6SeK8.md#^t-00-15-27)
   > "...ugh Wilmington." And we go, "Aha—lights on." And here we are, right? We learn about this French and Israeli ACE Partners being the second largest shareholder of Satis. They decide to lease out this hangar. W..."
@@ -703,7 +703,7 @@ _Type: Places_
 - [00:46:48](/episodes/ep-a-e7HC6SeK8.md#^t-00-46-48)
   > "...nd I don't love a scenario right now that's happening where we have envoys being sent to Russia and Israel and everybody's meeting—all this... It feels like something's coming. I know that you probably sens..."
 
-### [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
+### [ep-aDlhjfW6hz8](/episodes/ep-aDlhjfW6hz8.md)
 
 - [00:43:56](/episodes/ep-aDlhjfW6hz8.md#^t-00-43-41)
   > "... fake "cancel TikTok." No, TikTok was going pro-Palestine, and a bunch of hedge fund people who are pro-Israel got involved. Trump (Donald Trump) pretended that he was going to rescue speech. No, he's handing i..."
@@ -744,7 +744,7 @@ _Type: Places_
 - [00:44:35](/episodes/ep-aDlhjfW6hz8.md#^t-00-44-23)
   > "...to Israel. Okay. Wake up. If you're a Trump supporter, wake up. Okay. He has handed so much over to Israel, and he's about to hand over the keys to our speech. All that aside—all that aside—I do want to sho..."
 
-### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
+### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
 
 - [00:26:44](/episodes/ep-adJ4LNGp84I.md#^t-00-26-38)
   > "... about Charlie (Charlie Kirk)'s assassination and the potential loss of evangelical support for the state of Israel because of it, which, by the way, is going to be the consequence of this. It will be the consequenc..."
@@ -791,7 +791,7 @@ _Type: Places_
 - [00:48:55](/episodes/ep-adJ4LNGp84I.md#^t-00-48-55)
   > "...he shady pastor. After Operation Mockingpastor, learning why they can say, we don't take money from Israel, but they take money from an agent of Israel or an organization like the International Fellowship o..."
 
-### [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
+### [ep-c5BcKF91iec](/episodes/ep-c5BcKF91iec.md)
 
 - [00:34:39](/episodes/ep-c5BcKF91iec.md#^t-00-34-06)
   > "...e it. Take a listen. How Charlie Kirk was actually feeling about the pressure he was receiving from pro-Israel Zionist donors to Turning Point USA. Charlie definitely was not someone who liked to be bullied by ..."
@@ -804,7 +804,7 @@ _Type: Places_
 - [00:34:09](/episodes/ep-c5BcKF91iec.md#^t-00-34-06)
   > "... have a shred of humility. You would think he would apologize for lying about Charlie's position on Israel, but he didn't. He just sort of doubled down. He sort of "Israeled" down, if you will. And it sort ..."
 
-### [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
+### [ep-czVBmqZP6Ss](/episodes/ep-czVBmqZP6Ss.md)
 
 - [00:09:38](/episodes/ep-czVBmqZP6Ss.md#^t-00-09-15)
   > "...d Trump’s) account even tweeted out a photo of Charlie (Charlie Kirk), an American flag and also an Israeli flag, a bit of AI used, you know, like this is just who Charlie (Charlie Kirk) was. He says Judeo-C..."
@@ -893,7 +893,7 @@ _Type: Places_
 - [01:03:01](/episodes/ep-czVBmqZP6Ss.md#^t-01-02-48)
   > "...nitely read Shlomo Sand. There is a book called “The Invention of the Jewish People” that gets into Israel full stop. He was, I believe, a professor, a historian, at Tel Aviv University. That's an important..."
 
-### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
+### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 
 - [00:11:34](/episodes/ep-his-JBjlkh8.md#^t-00-11-15)
   > "... say—almost hijack genuine Christian faith and sort of roll it into this idea that you must support Israel in order to be a Christian. That's kind of floating into more opinion, but I think well-backed by t..."
@@ -906,7 +906,7 @@ _Type: Places_
 - [00:48:02](/episodes/ep-his-JBjlkh8.md#^t-00-47-48)
   > "...anies, not to corporations. She wouldn't turn a blind eye when Palestinians were being genocided by Israel. And we have no other options. We're running out of options here. So we've got to kill her or we've..."
 
-### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
+### [ep-iHav0PPzUz8](/episodes/ep-iHav0PPzUz8.md)
 
 - [00:39:12](/episodes/ep-iHav0PPzUz8.md#^t-00-39-12)
   > "...ie (Charlie Kirk) was killed, he was explicit in saying he was left with no choice but to leave the pro-Israel cause, which would mean he didn't die a Christian Zionist, right? Common sense: Charlie (Charlie Ki..."
@@ -937,7 +937,7 @@ _Type: Places_
 - [00:47:17](/episodes/ep-iHav0PPzUz8.md#^t-00-46-44)
   > "... very, very, very excited about that. You're going to love it. It's like I said—even if you support Israel, and that is perfectly your right—I think that you will become educated on a topic that has been by..."
 
-### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
+### [ep-ja26iltROkM](/episodes/ep-ja26iltROkM.md)
 
 - [00:51:07](/episodes/ep-ja26iltROkM.md#^t-00-50-57)
   > "...is: I would argue that in terms of the free markets, like, you go with your product: "You say, 'I'm pro-Israel. I'm running this business.'" They are losing—badly, badly. There's no question about that. Everyon..."
@@ -968,7 +968,7 @@ _Type: Places_
 - [00:52:17](/episodes/ep-ja26iltROkM.md#^t-00-52-17)
   > "...hat Turning Point takes. But I would say that the students are going to be very reticent to support Israel. Brie writes: "How did the rifle get from the roof to the woods? Please help make—please help this ..."
 
-### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
+### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:25:15](/episodes/ep-mKXdKV-OBog.md#^t-00-24-49)
   > "... gonna do whatever it is that they want. And they're just engaging in naked propaganda to serve the state of Israel. So let me show you a couple of these headlines. I guess let's start with Mike Huckabee. He is the ..."
@@ -1007,7 +1007,7 @@ _Type: Places_
 - [00:46:09](/episodes/ep-mKXdKV-OBog.md#^t-00-45-44)
   > "...I have not watched in its entirety. I know that Joe Rogan has definitely had people on—spoken about Israel. He's really gone there. He had Ian Carroll. So that would be unusual. Yeah, Joe Rogan has definite..."
 
-### [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
+### [ep-ozWJz2spBcI](/episodes/ep-ozWJz2spBcI.md)
 
 - [00:43:24](/episodes/ep-ozWJz2spBcI.md#^t-00-43-24)
   > "...e happened because of things politically—when I tried to express certain questions about the modern state of Israel and was instead met with what I can only describe as cult-like behavior. You're seeing it right now..."
@@ -1046,7 +1046,7 @@ _Type: Places_
 - [01:02:53](/episodes/ep-ozWJz2spBcI.md#^t-01-02-20)
   > "...he power of truth when it is spoken. That is what is so amazing. All of the money in the world that Israel has, the money that they spent on influencers, people that have been assassinated by trying to get ..."
 
-### [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
+### [ep-pc3pxRyNFZk](/episodes/ep-pc3pxRyNFZk.md)
 
 - [00:46:05](/episodes/ep-pc3pxRyNFZk.md#^t-00-45-45)
   > "... state." And I know that like a couple hours ago I was really angry, and I said, "I'm done with the pro-Israel lobby," but now I just love you so much that I just—I want to get on the phone with you and have yo..."
@@ -1087,7 +1087,7 @@ _Type: Places_
 - [00:50:31](/episodes/ep-pc3pxRyNFZk.md#^t-00-49-53)
   > "...perspective, I would do my best to move the people out and then clean it up. But I don't think that Israel has stated that they don't want the people to move back there afterwards. Trump (Donald Trump) want..."
 
-### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
+### [ep-q7f8r-THr84](/episodes/ep-q7f8r-THr84.md)
 
 - [00:51:13](/episodes/ep-q7f8r-THr84.md#^t-00-51-13)
   > "...e a listen. (Clip attribution: Megyn Kelly and Charlie Kirk) My contention here is that some in the pro-Israel camp are so knee-jerk about calling you anti-Semitic or getting deeply offended if you say anything..."
@@ -1146,7 +1146,7 @@ _Type: Places_
 - [01:01:17](/episodes/ep-q7f8r-THr84.md#^t-01-01-06)
   > "... asking these questions, it is like—if you want to know why everyone hates like rabid supporters of Israel, it's because they never change their tune, right? They're like in the comments being like, "Bill A..."
 
-### [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
+### [ep-r1PS67aRmcA](/episodes/ep-r1PS67aRmcA.md)
 
 - [00:00:12](/episodes/ep-r1PS67aRmcA.md#^t-00-00-00)
   > "...'ve suffered a centuries-old anti-Black trope. That's how this works, right? Like, if you're in the pro-Israel lobby and you deal with any sort of pushback or flak, you gotta fall to the ground and cry victim. ..."
@@ -1213,14 +1213,14 @@ _Type: Places_
 - [00:50:48](/episodes/ep-r1PS67aRmcA.md#^t-00-50-24)
   > "... growing up. Tom Simpson writes, "Are we sure Fuentes being pushed isn't as an op to smear the anti-Israel dissident right by association? I don't think he's in on it, but persona non grata for years and th..."
 
-### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
+### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
 
 - [00:06:49](/episodes/ep-sImMM04XdWY.md#^t-00-06-16)
   > "...imeline of when my life took a very different turn, it is because I began prodding the narrative on Israel at the exact same time that I began looking into the Brigitte Macron story. That was in March of 20..."
 - [00:13:25](/episodes/ep-sImMM04XdWY.md#^t-00-13-11)
   > "...lson) element, right? Tucker (Tucker Carlson), he tells Tucker (Tucker Carlson) to go max: call out Israel, Jeffrey Epstein, just go max. And guess what? Tucker (Tucker Carlson) really did go max. I want to..."
 
-### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
+### [ep-sreYYcID-QY](/episodes/ep-sreYYcID-QY.md)
 
 - [00:35:08](/episodes/ep-sreYYcID-QY.md#^t-00-35-03)
   > "...nor, not lies. Rest in peace, Charlie Kirk. May your memory be a blessing. I don't know, guys. That Israeli propaganda just ain't hitting the same. It's just not hitting the same. I feel like it was hitting ..."
@@ -1249,7 +1249,7 @@ _Type: Places_
 - [00:41:27](/episodes/ep-sreYYcID-QY.md#^t-00-40-44)
   > "...d a conversation, and they were putting pressure on me. “You can't talk to her. She's talking about Israel.” Bull. But Charlie Kirk, I am under so much fire right now. Do not even... I'm like radioactive. I..."
 
-### [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
+### [ep-t1YtLS1n8Vs](/episodes/ep-t1YtLS1n8Vs.md)
 
 - [00:08:09](/episodes/ep-t1YtLS1n8Vs.md#^t-00-07-42)
   > "...-in-arm with the ADL and feed them names, primarily of anyone, I should say, who is an enemy to the state of Israel. So currently you have Trump people who I guess are trying to save face for their remarkable lack o..."
@@ -1266,7 +1266,7 @@ _Type: Places_
 - [00:49:58](/episodes/ep-t1YtLS1n8Vs.md#^t-00-49-26)
   > "...t USA because now I want war with people that are lying and allowing this ridiculous narrative that Israel is fighting for—that he died basically for Israel—“he loved us so much”—and not that he was explici..."
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:59:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-59-13)
   > "...al Guard regiments that were there, some French Foreign Legionnaires that were there, and yes, some Israelis that were there, hence the 12 Israeli cell phones, and that that information is all going to come t..."
@@ -1303,14 +1303,14 @@ _Type: Places_
 - [00:57:23](/episodes/ep-tB5SXXmd9vU.md#^t-00-57-16)
   > "...y mission in life is to defend Zionism, to defend Zionists and to attack people who don't like what Israel is doing, which is virtually everybody at this point. Anyways, I think we are just so over time tha..."
 
-### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
+### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
 
 - [00:03:27](/episodes/ep-vwG1juDCQZQ.md#^t-00-02-51)
   > "...w the crowd is doing this, but I'm not doing it." And that was me when I no longer wanted to do the pro-Israel thing. Of course, as always, I thank Ben Shapiro. I thank Jeremy Boreing. I thank the Daily Wire an..."
 - [01:00:09](/episodes/ep-vwG1juDCQZQ.md#^t-00-59-48)
   > "...) instantly go to heaven if he had a pulse? Erika first saw Charlie (Charlie Kirk) at an airport in Israel in May of 2018 with her mom. There is an old video of her talking about it." Yeah, I think I saw th..."
 
-### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
+### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:32:03](/episodes/ep-yAIb-NuUh_U.md#^t-00-31-29)
   > "...did not appreciate exactly how things were working—not just in the Epstein case, right? Not just in Israel and its long arm across the world. I told you Charlie (Charlie Kirk) was hitting at the Ukraine stu..."
@@ -1332,18 +1332,18 @@ _Type: Places_
 ### Affiliated With
 
 - [Israel](/entities/gpe-israel.md)
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:59:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-58-43): "...and yes, some Israelis that were there, hence the 12 Israeli cell phones..."
+  - [ep-tB5SXXmd9vU @ 00:59:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-58-43): "...and yes, some Israelis that were there, hence the 12 Israeli cell phones..."
 - [Israel](/entities/gpe-israel.md)
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:59:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-58-43): "...and yes, some Israelis that were there, hence the 12 Israeli cell phones..."
+  - [ep-tB5SXXmd9vU @ 00:59:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-58-43): "...and yes, some Israelis that were there, hence the 12 Israeli cell phones..."
 
 ### Member Of
 
 - [Safari Club](/entities/org-safari-club.md)
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:13:29](/episodes/ep-tB5SXXmd9vU.md#^t-00-13-15): "...Israel's involved, Rhodesia, South Africa."
+  - [ep-tB5SXXmd9vU @ 00:13:29](/episodes/ep-tB5SXXmd9vU.md#^t-00-13-15): "...Israel's involved, Rhodesia, South Africa."
 
 ### Referenced By
 
 - [Israelis](/entities/gpe-israel.md) **affiliated with** this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:59:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-58-43)
+  - [ep-tB5SXXmd9vU @ 00:59:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-58-43)
 - [Israelis](/entities/gpe-israel.md) **affiliated with** this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:59:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-58-43)
+  - [ep-tB5SXXmd9vU @ 00:59:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-58-43)

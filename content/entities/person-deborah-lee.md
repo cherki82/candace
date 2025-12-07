@@ -10,7 +10,7 @@ _Type: People_
 
 ## Mentions
 
-### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
+### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
 
 - [00:26:44](/episodes/ep-adJ4LNGp84I.md#^t-00-26-38)
   > "...onna beat out all of these independent voices who are winning because they're telling the truth? So Deborah Lee asked Benjamin Netanyahu specifically about Charlie (Charlie Kirk)'s assassination and the potentia..."

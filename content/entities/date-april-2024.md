@@ -10,7 +10,7 @@ _Type: Dates_
 
 ## Mentions
 
-### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
+### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
 
 - [00:03:55](/episodes/ep-LATnak75Si0.md#^t-00-03-39)
   > "...back of your mind, this request for UVU came in in July, and they approved it for September. For my April 2024 event, here is when we started planning. Here's an email, okay? You will note that this email came ..."

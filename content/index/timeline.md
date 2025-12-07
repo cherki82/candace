@@ -2,6 +2,8 @@
 
 _Total events: 455_
 
+> **Note:** Events and dates are extracted automatically using AI. Some dates may be approximate or inferred from context.
+
 ## 1856
 
 ### January
@@ -11,7 +13,7 @@ _Total events: 455_
 #### 1856-01-01: Margarethe Schurz family establishes kindergarten in US post-German revolution.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [BREAKING NEWS: FBI Pressuring Utah To Close The... @ 00:18:49](/episodes/ep-QZWSsq8ZWzw.md#^t-00-18-36)
 
@@ -26,7 +28,7 @@ _Total events: 455_
 #### 1908-07-26: Charles Joseph Bonaparte founds the FBI as Attorney General.
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:04:29](/episodes/ep-a-e7HC6SeK8.md#^t-00-04-18)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:01:08](/episodes/ep-a-e7HC6SeK8.md#^t-00-00-46)
@@ -42,7 +44,7 @@ _Total events: 455_
 #### 1913-04-26: Leo Frank convicted of murdering and raping Mary Phagan in Atlanta
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [INSANITY! Guess Who Kash Patel Sent To Investig... @ 00:03:28](/episodes/ep-t1YtLS1n8Vs.md#^t-00-02-47)
 - [INSANITY! Guess Who Kash Patel Sent To Investig... @ 00:03:37](/episodes/ep-t1YtLS1n8Vs.md#^t-00-03-31)
@@ -58,7 +60,7 @@ _Total events: 455_
 #### 1918-07-17: Reference to the assassination/execution of the Tsar (Nicholas II) by the Bolsheviks.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:52:34](/episodes/ep-a-e7HC6SeK8.md#^t-00-52-13)
 
@@ -73,7 +75,7 @@ _Total events: 455_
 #### 1940-05-20: Reference to Nazi aerial bombardment and occupation of the city of Amiens during World War II.
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 2 episodes</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 01:00:12](/episodes/ep-tB5SXXmd9vU.md#^t-00-59-56)
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying ... @ 00:00:40](/episodes/ep-MUA9ebCF4Ow.md#^t-00-00-00)
@@ -89,7 +91,7 @@ _Total events: 455_
 #### 1950-01-01: CIA establishes Operation Mockingbird to control media narratives
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Operation Mocking-Plane: The Charlie Kirk Plot ... @ 00:00:03](/episodes/ep-JQjCAsfoXEE.md#^t-00-00-00)
 
@@ -104,7 +106,7 @@ _Total events: 455_
 #### 1963-11-22: JFK assassinated and LBJ sworn in as president
 
 <details>
-<summary>Mentioned in 3 episodes</summary>
+<summary>3 mentions in 3 episodes</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage ... @ 00:05:41](/episodes/ep-c5BcKF91iec.md#^t-00-05-11)
 - [REVELATIONS: The Truth About Charlie's Medical ... @ 00:19:41](/episodes/ep-pc3pxRyNFZk.md#^t-00-19-31)
@@ -117,7 +119,7 @@ _Total events: 455_
 #### 1963-11-22: President John F. Kennedy assassinated in Dallas, Texas
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [INSANITY! Guess Who Kash Patel Sent To Investig... @ 00:27:40](/episodes/ep-t1YtLS1n8Vs.md#^t-00-27-37)
 - [INSANITY! Guess Who Kash Patel Sent To Investig... @ 00:27:37](/episodes/ep-t1YtLS1n8Vs.md#^t-00-26-54)
@@ -129,7 +131,7 @@ _Total events: 455_
 #### 1963-11-29: Warren Commission established to investigate JFK assassination
 
 <details>
-<summary>Mentioned in 3 episodes</summary>
+<summary>3 mentions in 1 episode</summary>
 
 - [INSANITY! Guess Who Kash Patel Sent To Investig... @ 00:28:23](/episodes/ep-t1YtLS1n8Vs.md#^t-00-28-16)
 - [INSANITY! Guess Who Kash Patel Sent To Investig... @ 00:28:16](/episodes/ep-t1YtLS1n8Vs.md#^t-00-27-37)
@@ -146,7 +148,7 @@ _Total events: 455_
 #### 1967-06-05: Six-Day War between Israel and Arab states.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9... @ 00:46:24](/episodes/ep-ozWJz2spBcI.md#^t-00-46-12)
 
@@ -157,7 +159,7 @@ _Total events: 455_
 #### 1967-06-08: Israel attacks USS Liberty, falsely blamed on Egypt
 
 <details>
-<summary>Mentioned in 3 episodes</summary>
+<summary>3 mentions in 3 episodes</summary>
 
 - [Operation Mocking-Plane: The Charlie Kirk Plot ... @ 00:32:15](/episodes/ep-JQjCAsfoXEE.md#^t-00-31-45)
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:40:03](/episodes/ep-r1PS67aRmcA.md#^t-00-39-41)
@@ -174,7 +176,7 @@ _Total events: 455_
 #### 1969-07-20: The Apollo 11 moon landing (referenced as 'the moon landing' and Brigitte's presence in the 1960s).
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:37:10](/episodes/ep-tB5SXXmd9vU.md#^t-00-36-33)
 
@@ -189,7 +191,7 @@ _Total events: 455_
 #### 1976-09-01: Safari Club covert intelligence alliance formed by France, Egypt, Saudi Arabia, others.
 
 <details>
-<summary>Mentioned in 3 episodes</summary>
+<summary>3 mentions in 1 episode</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:13:15](/episodes/ep-tB5SXXmd9vU.md#^t-00-12-42)
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:11:47](/episodes/ep-tB5SXXmd9vU.md#^t-00-11-17)
@@ -206,7 +208,7 @@ _Total events: 455_
 #### 1979-03-26: Egypt-Israel peace treaty facilitated by Safari Club operations.
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:13:50](/episodes/ep-tB5SXXmd9vU.md#^t-00-13-15)
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:13:59](/episodes/ep-tB5SXXmd9vU.md#^t-00-13-15)
@@ -222,7 +224,7 @@ _Total events: 455_
 #### 1996-01-26: John du Pont shot and killed Olympic wrestler David Schultz at the du Pont estate.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:10:13](/episodes/ep-a-e7HC6SeK8.md#^t-00-09-45)
 
@@ -237,7 +239,7 @@ _Total events: 455_
 #### 1998-08-02: Las Vegas prostitute murdered by DuPont family-linked hired hands, body found in motel.
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:10:20](/episodes/ep-a-e7HC6SeK8.md#^t-00-09-45)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:10:13](/episodes/ep-a-e7HC6SeK8.md#^t-00-09-45)
@@ -253,7 +255,7 @@ _Total events: 455_
 #### 2001-09-11: 9/11 attacks with federal control of Pentagon footage narrative.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Ca... @ 00:04:30](/episodes/ep-sreYYcID-QY.md#^t-00-04-09)
 
@@ -268,7 +270,7 @@ _Total events: 455_
 #### 2008-02-01: Britney Spears conservatorship implemented by father Jamie Spears
 
 <details>
-<summary>Mentioned in 7 episodes</summary>
+<summary>7 mentions in 2 episodes</summary>
 
 - [From Britney To Charlie. With Pastors Like Thes... @ 00:05:56](/episodes/ep-7RLtGgkTh9o.md#^t-00-05-39)
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:49:39](/episodes/ep-tB5SXXmd9vU.md#^t-00-49-28)
@@ -289,7 +291,7 @@ _Total events: 455_
 #### 2009-03-03: Britney Spears Circus tour managed by Tristar, grosses $130 million under conservatorship
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [From Britney To Charlie. With Pastors Like Thes... @ 00:08:06](/episodes/ep-7RLtGgkTh9o.md#^t-00-07-26)
 
@@ -300,7 +302,7 @@ _Total events: 455_
 #### 2009-03-30: DuPont heir Robert Richards IV convicted of raping his three-year-old daughter.
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:07:02](/episodes/ep-a-e7HC6SeK8.md#^t-00-06-21)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:06:49](/episodes/ep-a-e7HC6SeK8.md#^t-00-06-21)
@@ -316,7 +318,7 @@ _Total events: 455_
 #### 2010-01-01: Jamie Spears tithes 10% of Britney conservatorship income to Calvary Chapel Brentwood
 
 <details>
-<summary>Mentioned in 3 episodes</summary>
+<summary>3 mentions in 1 episode</summary>
 
 - [From Britney To Charlie. With Pastors Like Thes... @ 00:11:28](/episodes/ep-7RLtGgkTh9o.md#^t-00-10-43)
 - [From Britney To Charlie. With Pastors Like Thes... @ 00:06:33](/episodes/ep-7RLtGgkTh9o.md#^t-00-06-14)
@@ -333,7 +335,7 @@ _Total events: 455_
 #### 2013-04-19: Donald Trump tweets calling for public executions.
 
 <details>
-<summary>Mentioned in 43 episodes</summary>
+<summary>43 mentions in 26 episodes</summary>
 
 - [Charlie's Final Hours. What Else Is Josh Hammer... @ 00:06:41](/episodes/ep-2Riv3I7D0Yk.md#^t-00-06-13)
 - [They Are Lying About Tyler Robinson. | Candace ... @ 00:03:13](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-03-03)
@@ -390,7 +392,7 @@ _Total events: 455_
 #### 2017-05-14: Emmanuel Macron's coming to power referenced (transcript cites 2018 as his year of taking power).
 
 <details>
-<summary>Mentioned in 4 episodes</summary>
+<summary>4 mentions in 2 episodes</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:29:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-28-30)
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:49:40](/episodes/ep-his-JBjlkh8.md#^t-00-49-01)
@@ -406,7 +408,7 @@ _Total events: 455_
 #### 2017-10-01: Las Vegas mass shooting by Stephen Paddock kills 58 people
 
 <details>
-<summary>Mentioned in 3 episodes</summary>
+<summary>3 mentions in 2 episodes</summary>
 
 - [Why Is Everyone Crashing Out Over The Charlie K... @ 00:21:23](/episodes/ep-YaZfwLQ7vrI.md#^t-00-20-48)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:10:13](/episodes/ep-a-e7HC6SeK8.md#^t-00-09-45)
@@ -421,7 +423,7 @@ _Total events: 455_
 #### 2017-11-21: Candace Owens meets Charlie Kirk at Florida conference and hired for Turning Point USA
 
 <details>
-<summary>Mentioned in 379 episodes</summary>
+<summary>379 mentions in 40 episodes</summary>
 
 - [To My Friend, Charlie Kirk. @ 00:01:20](/episodes/ep-_dRaEO47-co.md#^t-00-00-37)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -814,7 +816,7 @@ _Total events: 455_
 #### 2018-01-01: Bank of America pulled out of several Wilmington office buildings, leaving space vacant (mentioned 2018).
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:29:03](/episodes/ep-tB5SXXmd9vU.md#^t-00-28-30)
 
@@ -827,7 +829,7 @@ _Total events: 455_
 #### 2018-02-14: Parkland school shooting tragedy involving David Hogg.
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 2 episodes</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9... @ 00:00:00](/episodes/ep-ozWJz2spBcI.md#^t-00-00-00)
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:33:25](/episodes/ep-his-JBjlkh8.md#^t-00-32-55)
@@ -841,7 +843,7 @@ _Total events: 455_
 #### 2018-04-14: US and France conduct missile strikes on Syrian government sites after chemical attack.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:43:12](/episodes/ep-a-e7HC6SeK8.md#^t-00-42-29)
 
@@ -852,7 +854,7 @@ _Total events: 455_
 #### 2018-04-14: France issued a statement saying its 'red line' had been crossed regarding Syria.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:44:03](/episodes/ep-a-e7HC6SeK8.md#^t-00-43-56)
 
@@ -865,7 +867,7 @@ _Total events: 455_
 #### 2018-11-07: Thousand Oaks Borderline Bar shooting by Ian Long kills 12
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 2 episodes</summary>
 
 - [Why Is Everyone Crashing Out Over The Charlie K... @ 00:22:07](/episodes/ep-YaZfwLQ7vrI.md#^t-00-21-31)
 - [INFILTRATION: Charlie Kirk Was Being Tracked Fo... @ 00:16:17](/episodes/ep-YFmRH8p5lt0.md#^t-00-15-41)
@@ -881,7 +883,7 @@ _Total events: 455_
 #### 2019-01-01: Charlie Kirk visits Israel, lunches with Netanyahu family.
 
 <details>
-<summary>Mentioned in 255 episodes</summary>
+<summary>255 mentions in 40 episodes</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:07:19](/episodes/ep-czVBmqZP6Ss.md#^t-00-07-17)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -1146,7 +1148,7 @@ _Total events: 455_
 #### 2019-01-17: Calvary Chapel Fort Lauderdale employee arrested for child pornography
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | ... @ 00:21:34](/episodes/ep-yAIb-NuUh_U.md#^t-00-21-05)
 
@@ -1159,7 +1161,7 @@ _Total events: 455_
 #### 2019-07-01: Potter's Fields Ministries shuts down amid financial and psychological abuse scandal
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | ... @ 00:24:25](/episodes/ep-yAIb-NuUh_U.md#^t-00-23-51)
 
@@ -1174,7 +1176,7 @@ _Total events: 455_
 #### 2020-11-06: Lance Wallnau posts 'stop the steal' call to action on Facebook
 
 <details>
-<summary>Mentioned in 3 episodes</summary>
+<summary>3 mentions in 1 episode</summary>
 
 - [Why Is Everyone Crashing Out Over The Charlie K... @ 00:11:59](/episodes/ep-YaZfwLQ7vrI.md#^t-00-11-32)
 - [Why Is Everyone Crashing Out Over The Charlie K... @ 00:11:54](/episodes/ep-YaZfwLQ7vrI.md#^t-00-11-32)
@@ -1191,7 +1193,7 @@ _Total events: 455_
 #### 2021-01-05: Pipe bombs placed at DNC and RNC headquarters night before January 6
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Why Is Everyone Crashing Out Over The Charlie K... @ 00:07:31](/episodes/ep-YaZfwLQ7vrI.md#^t-00-06-50)
 
@@ -1202,7 +1204,7 @@ _Total events: 455_
 #### 2021-01-06: Pro-Trump Stop the Steal rally leads to US Capitol riot
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Why Is Everyone Crashing Out Over The Charlie K... @ 00:06:12](/episodes/ep-YaZfwLQ7vrI.md#^t-00-06-06)
 
@@ -1215,7 +1217,7 @@ _Total events: 455_
 #### 2021-04-01: Charlie Kirk founded Turning Point USA Faith.
 
 <details>
-<summary>Mentioned in 258 episodes</summary>
+<summary>258 mentions in 40 episodes</summary>
 
 - [Why Isn't The Trump Family Asking Questions Abo... @ 00:06:48](/episodes/ep-Qt0VHV-POCg.md#^t-00-06-26)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -1485,7 +1487,7 @@ _Total events: 455_
 #### 2021-12-09: Wilmington Dassault Falcon authorized center shuts down
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:12:40](/episodes/ep-SKGUzGHymcI.md#^t-00-12-23)
 
@@ -1500,7 +1502,7 @@ _Total events: 455_
 #### 2022-06-01: Mothers protest Thomas Camino's involvement in Calvary Chapel youth program
 
 <details>
-<summary>Mentioned in 14 episodes</summary>
+<summary>14 mentions in 6 episodes</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | ... @ 00:11:58](/episodes/ep-yAIb-NuUh_U.md#^t-00-11-21)
 - [What Did Charlie Kirk Discover Near The End? | ... @ 00:07:21](/episodes/ep-yAIb-NuUh_U.md#^t-00-07-16)
@@ -1526,7 +1528,7 @@ _Total events: 455_
 #### 2022-08-01: Tyler Robinson involved in car accident captured on police bodycam
 
 <details>
-<summary>Mentioned in 46 episodes</summary>
+<summary>46 mentions in 26 episodes</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace ... @ 00:04:05](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-03-43)
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#^t-00-00-01)
@@ -1584,7 +1586,7 @@ _Total events: 455_
 #### 2022-11-13: Egyptian plane SUBTT flies Cairo-Paris-Wichita-Wilmington-Cairo
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:19:26](/episodes/ep-SKGUzGHymcI.md#^t-00-18-47)
 
@@ -1595,7 +1597,7 @@ _Total events: 455_
 #### 2022-11-17: Egyptian plane SUBTT flies Egypt-Wilmington, stays until November 20
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:19:43](/episodes/ep-SKGUzGHymcI.md#^t-00-19-26)
 
@@ -1610,7 +1612,7 @@ _Total events: 455_
 #### 2023-02-20: James O'Keefe ousted in hostile takeover of Project Veritas
 
 <details>
-<summary>Mentioned in 5 episodes</summary>
+<summary>5 mentions in 2 episodes</summary>
 
 - [INFILTRATION: Charlie Kirk Was Being Tracked Fo... @ 00:09:31](/episodes/ep-YFmRH8p5lt0.md#^t-00-08-56)
 - [INFILTRATION: Charlie Kirk Was Being Tracked Fo... @ 00:09:07](/episodes/ep-YFmRH8p5lt0.md#^t-00-08-56)
@@ -1627,7 +1629,7 @@ _Total events: 455_
 #### 2023-03-27: Transgender shooter kills six at Covenant Christian elementary school in Nashville
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [INFILTRATION: Charlie Kirk Was Being Tracked Fo... @ 00:14:42](/episodes/ep-YFmRH8p5lt0.md#^t-00-14-25)
 
@@ -1640,7 +1642,7 @@ _Total events: 455_
 #### 2023-04-03: Egyptian President el-Sisi flies on SU-BTU to Riyadh for Saudi meeting
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:16:42](/episodes/ep-ZAuuSq_j2_w.md#^t-00-16-27)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:16:49](/episodes/ep-ZAuuSq_j2_w.md#^t-00-16-27)
@@ -1654,7 +1656,7 @@ _Total events: 455_
 #### 2023-08-10: Catholic investigator reveals ADL shares office with FBI in Connecticut
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [INSANITY! Guess Who Kash Patel Sent To Investig... @ 00:12:03](/episodes/ep-t1YtLS1n8Vs.md#^t-00-11-19)
 - [INSANITY! Guess Who Kash Patel Sent To Investig... @ 00:11:57](/episodes/ep-t1YtLS1n8Vs.md#^t-00-11-19)
@@ -1668,7 +1670,7 @@ _Total events: 455_
 #### 2023-10-01: Turning Point USA emails plan campus events for spring 2024.
 
 <details>
-<summary>Mentioned in 71 episodes</summary>
+<summary>71 mentions in 37 episodes</summary>
 
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAG... @ 00:04:02](/episodes/ep-LATnak75Si0.md#^t-00-03-39)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)
@@ -1749,7 +1751,7 @@ _Total events: 455_
 #### 2023-10-07: Hamas attacks Israel on October 7
 
 <details>
-<summary>Mentioned in 3 episodes</summary>
+<summary>3 mentions in 3 episodes</summary>
 
 - [REVELATIONS: The Truth About Charlie's Medical ... @ 00:47:07](/episodes/ep-pc3pxRyNFZk.md#^t-00-46-58)
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:23](/episodes/ep-r1PS67aRmcA.md#^t-00-05-14)
@@ -1762,7 +1764,7 @@ _Total events: 455_
 #### 2023-10-31: Phil Lyman runs for Utah governor
 
 <details>
-<summary>Mentioned in 13 episodes</summary>
+<summary>13 mentions in 5 episodes</summary>
 
 - [INSANITY! Guess Who Kash Patel Sent To Investig... @ 00:21:17](/episodes/ep-t1YtLS1n8Vs.md#^t-00-21-03)
 - [BREAKING NEWS: A Woman Was Seen With Charlie Ki... @ 00:03:37](/episodes/ep-adJ4LNGp84I.md#^t-00-02-54)
@@ -1787,7 +1789,7 @@ _Total events: 455_
 #### 2023-12-03: Rob McCoy announces stepping down as senior pastor of Godspeak Calvary Chapel
 
 <details>
-<summary>Mentioned in 37 episodes</summary>
+<summary>37 mentions in 18 episodes</summary>
 
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On... @ 00:14:25](/episodes/ep-Qfwr08Ebczo.md#^t-00-14-10)
 - [The Great Exodus From Utah? Where Did The "Egyp... @ 00:00:05](/episodes/ep-581dILVcEE4.md#^t-00-00-00)
@@ -1838,7 +1840,7 @@ _Total events: 455_
 #### 2024-01-30: DRBA resolution acquires rights to Dassault paint hangar for Satys lease
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:13:37](/episodes/ep-SKGUzGHymcI.md#^t-00-13-08)
 
@@ -1851,7 +1853,7 @@ _Total events: 455_
 #### 2024-02-01: Candace Owens and Charlie Kirk conduct joint campus tour across US.
 
 <details>
-<summary>Mentioned in 324 episodes</summary>
+<summary>324 mentions in 40 episodes</summary>
 
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAG... @ 00:03:27](/episodes/ep-LATnak75Si0.md#^t-00-02-55)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -2185,7 +2187,7 @@ _Total events: 455_
 #### 2024-02-15: Jared Kushner speaks at Harvard about Gaza future
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [REVELATIONS: The Truth About Charlie's Medical ... @ 00:49:10](/episodes/ep-pc3pxRyNFZk.md#^t-00-49-02)
 - [REVELATIONS: The Truth About Charlie's Medical ... @ 00:47:28](/episodes/ep-pc3pxRyNFZk.md#^t-00-46-58)
@@ -2199,7 +2201,7 @@ _Total events: 455_
 #### 2024-03-09: Utah modernizes its state flag featuring beehive symbol.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [BREAKING NEWS: FBI Pressuring Utah To Close The... @ 00:17:01](/episodes/ep-QZWSsq8ZWzw.md#^t-00-16-34)
 
@@ -2210,7 +2212,7 @@ _Total events: 455_
 #### 2024-03-13: Candace Owens releases first podcast episode on Brigitte Macron.
 
 <details>
-<summary>Mentioned in 107 episodes</summary>
+<summary>107 mentions in 35 episodes</summary>
 
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:07:05](/episodes/ep-sImMM04XdWY.md#^t-00-06-59)
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:00:51](/episodes/ep-sImMM04XdWY.md#^t-00-00-39)
@@ -2327,7 +2329,7 @@ _Total events: 455_
 #### 2024-03-22: Candace Owens departs from the Daily Wire after being fired.
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 2 episodes</summary>
 
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interv... @ 00:01:57](/episodes/ep-vwG1juDCQZQ.md#^t-00-01-30)
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:07:51](/episodes/ep-sImMM04XdWY.md#^t-00-07-38)
@@ -2339,7 +2341,7 @@ _Total events: 455_
 #### 2024-03-25: Daily Wire CEO Jeremy Boreing praises Nick Fuentes during X live audio chat.
 
 <details>
-<summary>Mentioned in 12 episodes</summary>
+<summary>12 mentions in 5 episodes</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:13:28](/episodes/ep-r1PS67aRmcA.md#^t-00-13-00)
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:03:15](/episodes/ep-r1PS67aRmcA.md#^t-00-02-49)
@@ -2363,7 +2365,7 @@ _Total events: 455_
 #### 2024-04-27: Scott Robbins runs for Utah governor
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [INSANITY! Guess Who Kash Patel Sent To Investig... @ 00:24:13](/episodes/ep-t1YtLS1n8Vs.md#^t-00-24-03)
 - [INSANITY! Guess Who Kash Patel Sent To Investig... @ 00:24:15](/episodes/ep-t1YtLS1n8Vs.md#^t-00-24-03)
@@ -2377,7 +2379,7 @@ _Total events: 455_
 #### 2024-05-01: Gernot Omer relocates to Utah as JPMorgan Chase software engineer.
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:11:37](/episodes/ep-YA1FxrDWNIo.md#^t-00-11-29)
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:10:16](/episodes/ep-YA1FxrDWNIo.md#^t-00-09-32)
@@ -2389,7 +2391,7 @@ _Total events: 455_
 #### 2024-05-08: Calvary Chapel Woodlands lead pastor arrested in child sex abuse sting
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | ... @ 00:19:36](/episodes/ep-yAIb-NuUh_U.md#^t-00-18-59)
 
@@ -2400,7 +2402,7 @@ _Total events: 455_
 #### 2024-05-15: Dr. Deidre Weiss Amaro appointed Utah state medical examiner
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [REVELATIONS: The Truth About Charlie's Medical ... @ 00:19:06](/episodes/ep-pc3pxRyNFZk.md#^t-00-18-51)
 
@@ -2413,7 +2415,7 @@ _Total events: 455_
 #### 2024-06-06: George Zin endorsement appears on Phil Lyman's campaign website
 
 <details>
-<summary>Mentioned in 19 episodes</summary>
+<summary>19 mentions in 12 episodes</summary>
 
 - [BREAKING NEWS: A Woman Was Seen With Charlie Ki... @ 00:04:12](/episodes/ep-adJ4LNGp84I.md#^t-00-03-37)
 - [INSANITY! Guess Who Kash Patel Sent To Investig... @ 00:21:17](/episodes/ep-t1YtLS1n8Vs.md#^t-00-21-03)
@@ -2444,7 +2446,7 @@ _Total events: 455_
 #### 2024-07-11: Tucker Carlson criticizes Israel and Epstein at Turning Point USA event
 
 <details>
-<summary>Mentioned in 123 episodes</summary>
+<summary>123 mentions in 39 episodes</summary>
 
 - [INFILTRATION: Charlie Kirk Was Being Tracked Fo... @ 00:31:42](/episodes/ep-YFmRH8p5lt0.md#^t-00-31-07)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)
@@ -2577,7 +2579,7 @@ _Total events: 455_
 #### 2024-07-13: Thomas Matthew Crooks attempts to assassinate Trump at rally, killing Corey Comparatore.
 
 <details>
-<summary>Mentioned in 3 episodes</summary>
+<summary>3 mentions in 1 episode</summary>
 
 - [BREAKING NEWS: FBI Pressuring Utah To Close The... @ 00:20:29](/episodes/ep-QZWSsq8ZWzw.md#^t-00-19-59)
 - [BREAKING NEWS: FBI Pressuring Utah To Close The... @ 00:00:36](/episodes/ep-QZWSsq8ZWzw.md#^t-00-00-01)
@@ -2592,7 +2594,7 @@ _Total events: 455_
 #### 2024-08-24: 891st Missile Security Forces Squadron conducted Operation Valhalla Strike training exercise at Camp Ripley, Minnesota.
 
 <details>
-<summary>Mentioned in 4 episodes</summary>
+<summary>4 mentions in 1 episode</summary>
 
 - [Operation: “See you in Valhalla, Charlie”. | Ca... @ 00:06:40](/episodes/ep-mKXdKV-OBog.md#^t-00-06-30)
 - [Operation: “See you in Valhalla, Charlie”. | Ca... @ 00:07:43](/episodes/ep-mKXdKV-OBog.md#^t-00-07-13)
@@ -2608,7 +2610,7 @@ _Total events: 455_
 #### 2024-10-15: Bob Bryar tweets criticism of Lou Taylor and Kardashians
 
 <details>
-<summary>Mentioned in 7 episodes</summary>
+<summary>7 mentions in 1 episode</summary>
 
 - [From Britney To Charlie. With Pastors Like Thes... @ 00:25:46](/episodes/ep-7RLtGgkTh9o.md#^t-00-25-15)
 - [From Britney To Charlie. With Pastors Like Thes... @ 00:25:40](/episodes/ep-7RLtGgkTh9o.md#^t-00-25-15)
@@ -2627,7 +2629,7 @@ _Total events: 455_
 #### 2024-11-24: My Chemical Romance drummer Bob Bryar dies with undetermined cause, nitrous oxide found
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [From Britney To Charlie. With Pastors Like Thes... @ 00:26:16](/episodes/ep-7RLtGgkTh9o.md#^t-00-25-55)
 - [From Britney To Charlie. With Pastors Like Thes... @ 00:25:40](/episodes/ep-7RLtGgkTh9o.md#^t-00-25-15)
@@ -2641,7 +2643,7 @@ _Total events: 455_
 #### 2024-12-03: Brigitte Macron lawyers send cease-and-desist letter to Candace Owens.
 
 <details>
-<summary>Mentioned in 107 episodes</summary>
+<summary>107 mentions in 35 episodes</summary>
 
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:08:25](/episodes/ep-sImMM04XdWY.md#^t-00-08-18)
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:00:51](/episodes/ep-sImMM04XdWY.md#^t-00-00-39)
@@ -2758,7 +2760,7 @@ _Total events: 455_
 #### 2024-12-05: FBI Director Christopher Wray issues press release on Wilmington partnerships
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:17:03](/episodes/ep-SKGUzGHymcI.md#^t-00-16-51)
 
@@ -2769,7 +2771,7 @@ _Total events: 455_
 #### 2024-12-10: Satys announces takeover of shuttered Wilmington airport hangar
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 2 episodes</summary>
 
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:12:48](/episodes/ep-SKGUzGHymcI.md#^t-00-12-23)
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:09:08](/episodes/ep-sImMM04XdWY.md#^t-00-09-03)
@@ -2781,7 +2783,7 @@ _Total events: 455_
 #### 2024-12-21: Candace Owens interviews Xavier Poussard in London.
 
 <details>
-<summary>Mentioned in 82 episodes</summary>
+<summary>82 mentions in 34 episodes</summary>
 
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:10:31](/episodes/ep-sImMM04XdWY.md#^t-00-10-19)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:33](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -2877,7 +2879,7 @@ _Total events: 455_
 #### 2025-01-15: Detective Mike Mitchell retires after 24 years with Washington County
 
 <details>
-<summary>Mentioned in 3 episodes</summary>
+<summary>3 mentions in 2 episodes</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace ... @ 00:19:54](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-19-22)
 - [Charlie Kirk Shooting Suspect Charged. Somethin... @ 00:07:05](/episodes/ep-q7f8r-THr84.md#^t-00-06-59)
@@ -2890,7 +2892,7 @@ _Total events: 455_
 #### 2025-01-31: Candace Owens releases first episode of Becoming Brigitte series.
 
 <details>
-<summary>Mentioned in 89 episodes</summary>
+<summary>89 mentions in 34 episodes</summary>
 
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:10:57](/episodes/ep-sImMM04XdWY.md#^t-00-10-19)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:33](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -2991,7 +2993,7 @@ _Total events: 455_
 #### 2025-02-01: Kash Patel appointed FBI Director.
 
 <details>
-<summary>Mentioned in 40 episodes</summary>
+<summary>40 mentions in 21 episodes</summary>
 
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying ... @ 00:38:45](/episodes/ep-MUA9ebCF4Ow.md#^t-00-38-29)
 - [The Great Exodus From Utah? Where Did The "Egyp... @ 00:05:19](/episodes/ep-581dILVcEE4.md#^t-00-05-00)
@@ -3041,7 +3043,7 @@ _Total events: 455_
 #### 2025-02-17: Candace Owens premieres sit-down interview with Xavier Poussard.
 
 <details>
-<summary>Mentioned in 82 episodes</summary>
+<summary>82 mentions in 34 episodes</summary>
 
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:11:21](/episodes/ep-sImMM04XdWY.md#^t-00-10-57)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:33](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -3133,7 +3135,7 @@ _Total events: 455_
 #### 2025-02-24: Charlie Kirk relays White House request to Candace Owens on Brigitte.
 
 <details>
-<summary>Mentioned in 345 episodes</summary>
+<summary>345 mentions in 40 episodes</summary>
 
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:11:46](/episodes/ep-sImMM04XdWY.md#^t-00-11-43)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -3488,7 +3490,7 @@ _Total events: 455_
 #### 2025-02-24: Donald Trump meets Emmanuel Macron.
 
 <details>
-<summary>Mentioned in 46 episodes</summary>
+<summary>46 mentions in 27 episodes</summary>
 
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:12:06](/episodes/ep-sImMM04XdWY.md#^t-00-11-43)
 - [They Are Lying About Tyler Robinson. | Candace ... @ 00:03:13](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-03-03)
@@ -3544,7 +3546,7 @@ _Total events: 455_
 #### 2025-02-26: Donald Trump calls Candace Owens to stop Brigitte Macron coverage.
 
 <details>
-<summary>Mentioned in 149 episodes</summary>
+<summary>149 mentions in 38 episodes</summary>
 
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:13:03](/episodes/ep-sImMM04XdWY.md#^t-00-12-26)
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:00:51](/episodes/ep-sImMM04XdWY.md#^t-00-00-39)
@@ -3705,7 +3707,7 @@ _Total events: 455_
 #### 2025-05-01: Sarah Milgram and Yaron Lechinsky assassinated in Washington D.C.
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Who Moved The Camera Right Above Charlie's Head... @ 00:33:22](/episodes/ep-aDlhjfW6hz8.md#^t-00-32-45)
 - [Who Moved The Camera Right Above Charlie's Head... @ 00:33:23](/episodes/ep-aDlhjfW6hz8.md#^t-00-32-45)
@@ -3717,7 +3719,7 @@ _Total events: 455_
 #### 2025-05-01: Charlie Kirk writes letter to Benjamin Netanyahu.
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 2 episodes</summary>
 
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:01:58](/episodes/ep-K5GjF53bfN4.md#^t-00-01-27)
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:01:30](/episodes/ep-YA1FxrDWNIo.md#^t-00-00-39)
@@ -3729,7 +3731,7 @@ _Total events: 455_
 #### 2025-05-01: Governor Spencer Cox appoints Judge Tony F. Graf Jr. to 4th District Court
 
 <details>
-<summary>Mentioned in 5 episodes</summary>
+<summary>5 mentions in 1 episode</summary>
 
 - [BREAKING NEWS: A Woman Was Seen With Charlie Ki... @ 00:06:32](/episodes/ep-adJ4LNGp84I.md#^t-00-06-18)
 - [BREAKING NEWS: A Woman Was Seen With Charlie Ki... @ 00:26:09](/episodes/ep-adJ4LNGp84I.md#^t-00-25-54)
@@ -3744,7 +3746,7 @@ _Total events: 455_
 #### 2025-05-01: Charlie Kirk writes letter to Netanyahu pledging stronger commitment to Israel.
 
 <details>
-<summary>Mentioned in 254 episodes</summary>
+<summary>254 mentions in 40 episodes</summary>
 
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:01:30](/episodes/ep-YA1FxrDWNIo.md#^t-00-00-39)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -4008,7 +4010,7 @@ _Total events: 455_
 #### 2025-05-02: Charlie Kirk sends letter to Benjamin Netanyahu
 
 <details>
-<summary>Mentioned in 288 episodes</summary>
+<summary>288 mentions in 40 episodes</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:07:41](/episodes/ep-czVBmqZP6Ss.md#^t-00-07-17)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -4306,7 +4308,7 @@ _Total events: 455_
 #### 2025-05-02: Charlie Kirk sends letter to Netanyahu supporting Israel.
 
 <details>
-<summary>Mentioned in 255 episodes</summary>
+<summary>255 mentions in 40 episodes</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:07:41](/episodes/ep-czVBmqZP6Ss.md#^t-00-07-17)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -4571,7 +4573,7 @@ _Total events: 455_
 #### 2025-05-27: Egyptian plane SUBTU arrives in Provo carrying Walid Mahmood
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:15:12](/episodes/ep-ZAuuSq_j2_w.md#^t-00-15-09)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:14:42](/episodes/ep-ZAuuSq_j2_w.md#^t-00-14-25)
@@ -4583,7 +4585,7 @@ _Total events: 455_
 #### 2025-05-27: Walid Mahmood arrives in Provo aboard Egyptian military plane SUBTU
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:15:12](/episodes/ep-ZAuuSq_j2_w.md#^t-00-15-09)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:14:42](/episodes/ep-ZAuuSq_j2_w.md#^t-00-14-25)
@@ -4597,7 +4599,7 @@ _Total events: 455_
 #### 2025-06-01: MG+M law firm relocated to 500 North Delaware Avenue a few months before Charlie Kirk's assassination (approx.).
 
 <details>
-<summary>Mentioned in 32 episodes</summary>
+<summary>32 mentions in 12 episodes</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:32:22](/episodes/ep-tB5SXXmd9vU.md#^t-00-31-48)
 - [BREAKING NEWS! The Egyptian Military Was In Pro... @ 00:00:13](/episodes/ep-iHav0PPzUz8.md#^t-00-00-00)
@@ -4639,7 +4641,7 @@ _Total events: 455_
 #### 2025-06-01: Person using the name Walid Mahmoud reported in Provo at end of May into early June.
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:18:57](/episodes/ep-ZAuuSq_j2_w.md#^t-00-18-21)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:18:44](/episodes/ep-ZAuuSq_j2_w.md#^t-00-18-21)
@@ -4651,7 +4653,7 @@ _Total events: 455_
 #### 2025-06-02: Egyptian plane SUBTU departs Provo without transponder data
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:16:04](/episodes/ep-ZAuuSq_j2_w.md#^t-00-15-51)
 
@@ -4662,7 +4664,7 @@ _Total events: 455_
 #### 2025-06-02: The Egyptian military plane SU-BTU departed and was reported not transponding on departure.
 
 <details>
-<summary>Mentioned in 17 episodes</summary>
+<summary>17 mentions in 11 episodes</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:16:19](/episodes/ep-ZAuuSq_j2_w.md#^t-00-15-51)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -4691,7 +4693,7 @@ _Total events: 455_
 #### 2025-07-01: Macron sends another legal threat to Candace Owens.
 
 <details>
-<summary>Mentioned in 80 episodes</summary>
+<summary>80 mentions in 34 episodes</summary>
 
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:13:17](/episodes/ep-sImMM04XdWY.md#^t-00-13-11)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:33](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -4781,7 +4783,7 @@ _Total events: 455_
 #### 2025-07-01: Charlie Kirk sends letter to Benjamin Netanyahu affirming support for Israel
 
 <details>
-<summary>Mentioned in 287 episodes</summary>
+<summary>287 mentions in 40 episodes</summary>
 
 - [TPUSA RESPONDS: Yes, The Text Messages Are Real... @ 00:24:42](/episodes/ep-5autG89PW6w.md#^t-00-24-12)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -5078,7 +5080,7 @@ _Total events: 455_
 #### 2025-07-01: Charlie Kirk hosts town hall discussing anti-Semitism with Gen Z students.
 
 <details>
-<summary>Mentioned in 255 episodes</summary>
+<summary>255 mentions in 40 episodes</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Canda... @ 00:35:03](/episodes/ep-ja26iltROkM.md#^t-00-34-47)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -5343,7 +5345,7 @@ _Total events: 455_
 #### 2025-07-01: Assassination of Charlie Kirk, ongoing murder investigation and trial.
 
 <details>
-<summary>Mentioned in 254 episodes</summary>
+<summary>254 mentions in 40 episodes</summary>
 
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists... @ 00:07:35](/episodes/ep-K1tFD7FfoCU.md#^t-00-07-32)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -5607,7 +5609,7 @@ _Total events: 455_
 #### 2025-07-01: CNN panel calls Candace Owens disgusting and anti-Semitic.
 
 <details>
-<summary>Mentioned in 80 episodes</summary>
+<summary>80 mentions in 33 episodes</summary>
 
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAG... @ 00:30:21](/episodes/ep-LATnak75Si0.md#^t-00-30-17)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:33](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -5697,7 +5699,7 @@ _Total events: 455_
 #### 2025-07-01: Erica Mindel joins TikTok as public policy manager for hate speech
 
 <details>
-<summary>Mentioned in 3 episodes</summary>
+<summary>3 mentions in 1 episode</summary>
 
 - [BREAKING NEWS: A Woman Was Seen With Charlie Ki... @ 00:44:21](/episodes/ep-adJ4LNGp84I.md#^t-00-44-06)
 - [BREAKING NEWS: A Woman Was Seen With Charlie Ki... @ 00:44:06](/episodes/ep-adJ4LNGp84I.md#^t-00-44-06)
@@ -5710,7 +5712,7 @@ _Total events: 455_
 #### 2025-07-11: Tucker Carlson speech calls out Bill Ackman on Israel and citizenship
 
 <details>
-<summary>Mentioned in 77 episodes</summary>
+<summary>77 mentions in 32 episodes</summary>
 
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On... @ 00:16:38](/episodes/ep-Qfwr08Ebczo.md#^t-00-16-17)
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:04:12](/episodes/ep-r1PS67aRmcA.md#^t-00-03-33)
@@ -5797,7 +5799,7 @@ _Total events: 455_
 #### 2025-07-11: Tucker Carlson delivered a speech.
 
 <details>
-<summary>Mentioned in 56 episodes</summary>
+<summary>56 mentions in 29 episodes</summary>
 
 - [Operation: “See you in Valhalla, Charlie”. | Ca... @ 00:13:19](/episodes/ep-mKXdKV-OBog.md#^t-00-12-57)
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:04:12](/episodes/ep-r1PS67aRmcA.md#^t-00-03-33)
@@ -5863,7 +5865,7 @@ _Total events: 455_
 #### 2025-07-11: Tucker Carlson delivered a speech at a Turning Point USA conference that sparked donor outrage.
 
 <details>
-<summary>Mentioned in 124 episodes</summary>
+<summary>124 mentions in 39 episodes</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:16:27](/episodes/ep-a-e7HC6SeK8.md#^t-00-16-11)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)
@@ -5997,7 +5999,7 @@ _Total events: 455_
 #### 2025-07-15: Rob McCoy transitions to pastor emeritus role at Godspeak Calvary Chapel
 
 <details>
-<summary>Mentioned in 37 episodes</summary>
+<summary>37 mentions in 18 episodes</summary>
 
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On... @ 00:15:02](/episodes/ep-Qfwr08Ebczo.md#^t-00-14-54)
 - [The Great Exodus From Utah? Where Did The "Egyp... @ 00:00:05](/episodes/ep-581dILVcEE4.md#^t-00-00-00)
@@ -6044,7 +6046,7 @@ _Total events: 455_
 #### 2025-07-15: UVU requests Charlie Kirk for campus event, approved quickly.
 
 <details>
-<summary>Mentioned in 254 episodes</summary>
+<summary>254 mentions in 40 episodes</summary>
 
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAG... @ 00:02:39](/episodes/ep-LATnak75Si0.md#^t-00-02-10)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -6308,7 +6310,7 @@ _Total events: 455_
 #### 2025-07-18: Charlie Kirk hosts Tucker Carlson at Turning Point USA event.
 
 <details>
-<summary>Mentioned in 362 episodes</summary>
+<summary>362 mentions in 40 episodes</summary>
 
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:13:20](/episodes/ep-sImMM04XdWY.md#^t-00-13-11)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -6680,7 +6682,7 @@ _Total events: 455_
 #### 2025-07-18: UVU Turning Point chapter requested Charlie Kirk for campus speaking event.
 
 <details>
-<summary>Mentioned in 254 episodes</summary>
+<summary>254 mentions in 40 episodes</summary>
 
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying ... @ 00:19:08](/episodes/ep-MUA9ebCF4Ow.md#^t-00-18-54)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -6944,7 +6946,7 @@ _Total events: 455_
 #### 2025-07-18: UVU Turning Point chapter submits application for Charlie Kirk rally
 
 <details>
-<summary>Mentioned in 255 episodes</summary>
+<summary>255 mentions in 40 episodes</summary>
 
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On... @ 00:17:12](/episodes/ep-Qfwr08Ebczo.md#^t-00-16-56)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -7209,7 +7211,7 @@ _Total events: 455_
 #### 2025-07-18: Private, partly off‑the‑record meeting in Nebraska involving international professionals and Secretary of State Bob Evnen.
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:18:06](/episodes/ep-a-e7HC6SeK8.md#^t-00-17-39)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:18:16](/episodes/ep-a-e7HC6SeK8.md#^t-00-17-39)
@@ -7221,7 +7223,7 @@ _Total events: 455_
 #### 2025-07-20: Nebraska announced a trade and investment trip with Egypt after an Egyptian plane visited Lincoln.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:17:39](/episodes/ep-a-e7HC6SeK8.md#^t-00-16-56)
 
@@ -7232,7 +7234,7 @@ _Total events: 455_
 #### 2025-07-22: Nebraska Secretary of State Bob Evnen announced trade and investment delegation to Cairo, Egypt.
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 2 episodes</summary>
 
 - [Operation: “See you in Valhalla, Charlie”. | Ca... @ 00:11:30](/episodes/ep-mKXdKV-OBog.md#^t-00-10-47)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:18:16](/episodes/ep-a-e7HC6SeK8.md#^t-00-17-39)
@@ -7244,7 +7246,7 @@ _Total events: 455_
 #### 2025-07-23: Brigitte and Emmanuel Macron announce Delaware lawsuit against Owens.
 
 <details>
-<summary>Mentioned in 7 episodes</summary>
+<summary>7 mentions in 5 episodes</summary>
 
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:17:22](/episodes/ep-sImMM04XdWY.md#^t-00-16-53)
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:49:40](/episodes/ep-his-JBjlkh8.md#^t-00-49-01)
@@ -7261,7 +7263,7 @@ _Total events: 455_
 #### 2025-07-25: Satis subsidiary in Hamburg, Germany underwent CEO switch.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Operation: “See you in Valhalla, Charlie”. | Ca... @ 00:38:38](/episodes/ep-mKXdKV-OBog.md#^t-00-38-09)
 
@@ -7272,7 +7274,7 @@ _Total events: 455_
 #### 2025-07-25: Charlie Kirk spoke at an event in Westchester, New York on July 25, 2025.
 
 <details>
-<summary>Mentioned in 255 episodes</summary>
+<summary>255 mentions in 40 episodes</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:19:12](/episodes/ep-a-e7HC6SeK8.md#^t-00-19-05)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -7539,7 +7541,7 @@ _Total events: 455_
 #### 2025-08-01: Kash Patel fires Utah FBI chief, appoints Robert Bowles as replacement.
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:31:56](/episodes/ep-YA1FxrDWNIo.md#^t-00-31-28)
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:32:04](/episodes/ep-YA1FxrDWNIo.md#^t-00-31-28)
@@ -7551,7 +7553,7 @@ _Total events: 455_
 #### 2025-08-01: Cam Higby joins Turning Point USA payroll
 
 <details>
-<summary>Mentioned in 76 episodes</summary>
+<summary>76 mentions in 37 episodes</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:03:30](/episodes/ep-ZAuuSq_j2_w.md#^t-00-03-07)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)
@@ -7637,7 +7639,7 @@ _Total events: 455_
 #### 2025-08-01: Charlie Kirk speaks at Myrtle Beach event on moral blackmail and friendships
 
 <details>
-<summary>Mentioned in 255 episodes</summary>
+<summary>255 mentions in 40 episodes</summary>
 
 - [Bearing False Witness: Who Made The Charlie Kir... @ 00:44:09](/episodes/ep-UBkFkg4UNY8.md#^t-00-43-54)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -7902,7 +7904,7 @@ _Total events: 455_
 #### 2025-08-01: Cam Higby was reportedly on the payroll of Turning Point USA beginning in August 2025.
 
 <details>
-<summary>Mentioned in 76 episodes</summary>
+<summary>76 mentions in 37 episodes</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:03:30](/episodes/ep-ZAuuSq_j2_w.md#^t-00-03-07)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)
@@ -7988,7 +7990,7 @@ _Total events: 455_
 #### 2025-08-02: French Foreign Legion trains with US Marines in California until Aug 25.
 
 <details>
-<summary>Mentioned in 11 episodes</summary>
+<summary>11 mentions in 2 episodes</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:15:59](/episodes/ep-tB5SXXmd9vU.md#^t-00-15-25)
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:17:48](/episodes/ep-his-JBjlkh8.md#^t-00-17-22)
@@ -8009,7 +8011,7 @@ _Total events: 455_
 #### 2025-08-02: French Legionnaires arrived in the United States for a three-week training session in California.
 
 <details>
-<summary>Mentioned in 38 episodes</summary>
+<summary>38 mentions in 15 episodes</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:21:28](/episodes/ep-a-e7HC6SeK8.md#^t-00-21-13)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:23:43](/episodes/ep-a-e7HC6SeK8.md#^t-00-23-23)
@@ -8057,7 +8059,7 @@ _Total events: 455_
 #### 2025-08-02: 2nd Foreign Infantry Regiment (French Foreign Legion) training exercise in California (Aug 2–25).
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:20:07](/episodes/ep-tB5SXXmd9vU.md#^t-00-19-45)
 
@@ -8068,7 +8070,7 @@ _Total events: 455_
 #### 2025-08-04: Bill Ackman hosts Hamptons retreat pressuring Charlie Kirk on Israel
 
 <details>
-<summary>Mentioned in 273 episodes</summary>
+<summary>273 mentions in 40 episodes</summary>
 
 - [Charlie Kirk Shooting Suspect Charged. Somethin... @ 00:01:14](/episodes/ep-q7f8r-THr84.md#^t-00-00-45)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -8351,7 +8353,7 @@ _Total events: 455_
 #### 2025-08-04: Bill Ackman hosts political retreat with Charlie Kirk in Hamptons
 
 <details>
-<summary>Mentioned in 272 episodes</summary>
+<summary>272 mentions in 40 episodes</summary>
 
 - [Charlie Kirk Shooting Suspect Charged. Somethin... @ 00:01:32](/episodes/ep-q7f8r-THr84.md#^t-00-01-14)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -8633,7 +8635,7 @@ _Total events: 455_
 #### 2025-08-05: Turning Point USA holds Hamptons retreat described as intervention.
 
 <details>
-<summary>Mentioned in 71 episodes</summary>
+<summary>71 mentions in 37 episodes</summary>
 
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:20:03](/episodes/ep-sImMM04XdWY.md#^t-00-19-39)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)
@@ -8714,7 +8716,7 @@ _Total events: 455_
 #### 2025-08-05: Hamptons Summit pressures Charlie Kirk on Israel views
 
 <details>
-<summary>Mentioned in 255 episodes</summary>
+<summary>255 mentions in 40 episodes</summary>
 
 - [BREAKING NEWS! The Egyptian Military Was In Pro... @ 00:39:33](/episodes/ep-iHav0PPzUz8.md#^t-00-39-12)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -8979,7 +8981,7 @@ _Total events: 455_
 #### 2025-08-06: Emily Saves America posts about being in Hamptons during conservative influencers retreat.
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:07:35](/episodes/ep-K5GjF53bfN4.md#^t-00-07-21)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:07:04](/episodes/ep-K5GjF53bfN4.md#^t-00-06-45)
@@ -8991,7 +8993,7 @@ _Total events: 455_
 #### 2025-08-06: Charlie Kirk interviews with Megyn Kelly on Israel pressure
 
 <details>
-<summary>Mentioned in 279 episodes</summary>
+<summary>279 mentions in 40 episodes</summary>
 
 - [Charlie Kirk Shooting Suspect Charged. Somethin... @ 00:50:25](/episodes/ep-q7f8r-THr84.md#^t-00-49-58)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -9280,7 +9282,7 @@ _Total events: 455_
 #### 2025-08-06: TPUSA influencers post from secretive Hamptons retreat attended by Charlie Kirk
 
 <details>
-<summary>Mentioned in 255 episodes</summary>
+<summary>255 mentions in 40 episodes</summary>
 
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:02:50](/episodes/ep-K5GjF53bfN4.md#^t-00-02-40)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -9545,7 +9547,7 @@ _Total events: 455_
 #### 2025-08-10: Charlie Kirk interviewed by Megyn Kelly on pressure over Israel event invites
 
 <details>
-<summary>Mentioned in 279 episodes</summary>
+<summary>279 mentions in 40 episodes</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:11:22](/episodes/ep-czVBmqZP6Ss.md#^t-00-11-08)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -9834,7 +9836,7 @@ _Total events: 455_
 #### 2025-08-15: Cam Higby hired onto Turning Point USA payroll
 
 <details>
-<summary>Mentioned in 76 episodes</summary>
+<summary>76 mentions in 37 episodes</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:03:30](/episodes/ep-ZAuuSq_j2_w.md#^t-00-03-07)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)
@@ -9920,7 +9922,7 @@ _Total events: 455_
 #### 2025-08-15: Charlie Kirk interviewed by Megyn Kelly on Israel pressure
 
 <details>
-<summary>Mentioned in 279 episodes</summary>
+<summary>279 mentions in 40 episodes</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:11:17](/episodes/ep-czVBmqZP6Ss.md#^t-00-11-08)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -10209,7 +10211,7 @@ _Total events: 455_
 #### 2025-08-15: Charlie Kirk addresses moral blackmail at Myrtle Beach event
 
 <details>
-<summary>Mentioned in 255 episodes</summary>
+<summary>255 mentions in 40 episodes</summary>
 
 - [Bearing False Witness: Who Made The Charlie Kir... @ 00:42:50](/episodes/ep-UBkFkg4UNY8.md#^t-00-42-15)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -10474,7 +10476,7 @@ _Total events: 455_
 #### 2025-08-15: Charlie Kirk discusses Israel pressure in Megyn Kelly interview.
 
 <details>
-<summary>Mentioned in 279 episodes</summary>
+<summary>279 mentions in 40 episodes</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:11:17](/episodes/ep-czVBmqZP6Ss.md#^t-00-11-08)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -10763,7 +10765,7 @@ _Total events: 455_
 #### 2025-08-20: French Foreign Legion replaces leadership in six regiments.
 
 <details>
-<summary>Mentioned in 12 episodes</summary>
+<summary>12 mentions in 2 episodes</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:22:56](/episodes/ep-tB5SXXmd9vU.md#^t-00-22-30)
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:17:48](/episodes/ep-his-JBjlkh8.md#^t-00-17-22)
@@ -10785,7 +10787,7 @@ _Total events: 455_
 #### 2025-08-20: Article published reporting change of command across six French Foreign Legion regiments (mid‑August).
 
 <details>
-<summary>Mentioned in 12 episodes</summary>
+<summary>12 mentions in 2 episodes</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:22:43](/episodes/ep-tB5SXXmd9vU.md#^t-00-22-30)
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:17:48](/episodes/ep-his-JBjlkh8.md#^t-00-17-22)
@@ -10807,7 +10809,7 @@ _Total events: 455_
 #### 2025-08-22: Irina Zarutska murdered by criminal in North Carolina.
 
 <details>
-<summary>Mentioned in 3 episodes</summary>
+<summary>3 mentions in 2 episodes</summary>
 
 - [Charlie's Final Hours. What Else Is Josh Hammer... @ 00:08:41](/episodes/ep-2Riv3I7D0Yk.md#^t-00-08-16)
 - [Charlie's Final Hours. What Else Is Josh Hammer... @ 00:07:35](/episodes/ep-2Riv3I7D0Yk.md#^t-00-06-59)
@@ -10820,7 +10822,7 @@ _Total events: 455_
 #### 2025-08-24: Rob McCoy lists secondary home in Coronado for sale
 
 <details>
-<summary>Mentioned in 37 episodes</summary>
+<summary>37 mentions in 18 episodes</summary>
 
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On... @ 00:16:14](/episodes/ep-Qfwr08Ebczo.md#^t-00-15-33)
 - [The Great Exodus From Utah? Where Did The "Egyp... @ 00:00:05](/episodes/ep-581dILVcEE4.md#^t-00-00-00)
@@ -10867,7 +10869,7 @@ _Total events: 455_
 #### 2025-08-24: Operation Valhalla, a joint exercise between civilians and military, took place at Camp Ripley (Aug 24–27).
 
 <details>
-<summary>Mentioned in 10 episodes</summary>
+<summary>10 mentions in 3 episodes</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:23:57](/episodes/ep-a-e7HC6SeK8.md#^t-00-23-23)
 - [Operation: “See you in Valhalla, Charlie”. | Ca... @ 00:06:55](/episodes/ep-mKXdKV-OBog.md#^t-00-06-30)
@@ -10887,7 +10889,7 @@ _Total events: 455_
 #### 2025-08-25: Three-week French Legionnaires training in California concluded on August 25, 2025.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:21:28](/episodes/ep-a-e7HC6SeK8.md#^t-00-21-13)
 
@@ -10898,7 +10900,7 @@ _Total events: 455_
 #### 2025-08-25: French Ministry denies a subsequent Foreign Legion exercise at a supposed 'Camp Riley' in Minnesota.
 
 <details>
-<summary>Mentioned in 12 episodes</summary>
+<summary>12 mentions in 2 episodes</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:20:36](/episodes/ep-tB5SXXmd9vU.md#^t-00-20-29)
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:17:48](/episodes/ep-his-JBjlkh8.md#^t-00-17-22)
@@ -10920,7 +10922,7 @@ _Total events: 455_
 #### 2025-08-27: Benjamin Netanyahu calls Charlie Kirk inviting him to Israel
 
 <details>
-<summary>Mentioned in 288 episodes</summary>
+<summary>288 mentions in 40 episodes</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:08:02](/episodes/ep-czVBmqZP6Ss.md#^t-00-07-17)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -11218,7 +11220,7 @@ _Total events: 455_
 #### 2025-08-27: Bill Ackman stages intervention on Charlie Kirk in Hamptons
 
 <details>
-<summary>Mentioned in 273 episodes</summary>
+<summary>273 mentions in 40 episodes</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:15:18](/episodes/ep-czVBmqZP6Ss.md#^t-00-15-01)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -11501,7 +11503,7 @@ _Total events: 455_
 #### 2025-08-27: Operation Valhalla joint military-civilian exercise ends at Camp Ripley, Minnesota.
 
 <details>
-<summary>Mentioned in 9 episodes</summary>
+<summary>9 mentions in 3 episodes</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:16:49](/episodes/ep-tB5SXXmd9vU.md#^t-00-16-09)
 - [Operation: “See you in Valhalla, Charlie”. | Ca... @ 00:06:55](/episodes/ep-mKXdKV-OBog.md#^t-00-06-30)
@@ -11520,7 +11522,7 @@ _Total events: 455_
 #### 2025-08-27: Jezebel commissions Etsy curse and hex on Charlie Kirk.
 
 <details>
-<summary>Mentioned in 255 episodes</summary>
+<summary>255 mentions in 40 episodes</summary>
 
 - [BREAKING NEWS: FBI Pressuring Utah To Close The... @ 00:33:55](/episodes/ep-QZWSsq8ZWzw.md#^t-00-33-34)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -11785,7 +11787,7 @@ _Total events: 455_
 #### 2025-08-27: Jezebel publishes article calling for curse on Charlie Kirk via Etsy witches
 
 <details>
-<summary>Mentioned in 255 episodes</summary>
+<summary>255 mentions in 40 episodes</summary>
 
 - [BREAKING NEWS: FBI Pressuring Utah To Close The... @ 00:33:55](/episodes/ep-QZWSsq8ZWzw.md#^t-00-33-34)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -12050,7 +12052,7 @@ _Total events: 455_
 #### 2025-08-27: Hamptons retreat described as an 'Israel intervention'; influencers present were allegedly paid by Bill Ackman.
 
 <details>
-<summary>Mentioned in 22 episodes</summary>
+<summary>22 mentions in 15 episodes</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:21:40](/episodes/ep-a-e7HC6SeK8.md#^t-00-21-13)
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On... @ 00:16:45](/episodes/ep-Qfwr08Ebczo.md#^t-00-16-17)
@@ -12082,7 +12084,7 @@ _Total events: 455_
 #### 2025-08-27: TPUSA, UVU, and a local BYU chapter posted a graphic announcing Charlie Kirk was coming to UVU.
 
 <details>
-<summary>Mentioned in 255 episodes</summary>
+<summary>255 mentions in 40 episodes</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:24:16](/episodes/ep-a-e7HC6SeK8.md#^t-00-24-09)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -12347,7 +12349,7 @@ _Total events: 455_
 #### 2025-08-27: Operation Valhalla: joint exercise at Camp Ripley, Minnesota, involving civilians and military personnel.
 
 <details>
-<summary>Mentioned in 10 episodes</summary>
+<summary>10 mentions in 3 episodes</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:16:36](/episodes/ep-tB5SXXmd9vU.md#^t-00-16-09)
 - [Operation: “See you in Valhalla, Charlie”. | Ca... @ 00:06:55](/episodes/ep-mKXdKV-OBog.md#^t-00-06-30)
@@ -12367,7 +12369,7 @@ _Total events: 455_
 #### 2025-08-27: Civilian‑military exercise at Camp Ripley in Minnesota ended on the 27th of August.
 
 <details>
-<summary>Mentioned in 8 episodes</summary>
+<summary>8 mentions in 3 episodes</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:21:46](/episodes/ep-tB5SXXmd9vU.md#^t-00-21-14)
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:16:44](/episodes/ep-tB5SXXmd9vU.md#^t-00-16-09)
@@ -12385,7 +12387,7 @@ _Total events: 455_
 #### 2025-08-29: Operation Bright Star US-Egypt joint military exercise begins in Cairo until Sep 10.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:22:00](/episodes/ep-tB5SXXmd9vU.md#^t-00-21-46)
 
@@ -12396,7 +12398,7 @@ _Total events: 455_
 #### 2025-08-29: Operation Bright Star, a biennial multinational exercise involving Egypt and the U.S., commenced on August 29, 2025.
 
 <details>
-<summary>Mentioned in 4 episodes</summary>
+<summary>4 mentions in 2 episodes</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:24:34](/episodes/ep-a-e7HC6SeK8.md#^t-00-24-09)
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:21:46](/episodes/ep-tB5SXXmd9vU.md#^t-00-21-14)
@@ -12410,7 +12412,7 @@ _Total events: 455_
 #### 2025-08-31: Dairy Queen begins advertising Maple Cookie Shake
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Who Moved The Camera Right Above Charlie's Head... @ 00:50:38](/episodes/ep-aDlhjfW6hz8.md#^t-00-49-57)
 - [Who Moved The Camera Right Above Charlie's Head... @ 00:50:39](/episodes/ep-aDlhjfW6hz8.md#^t-00-49-57)
@@ -12424,7 +12426,7 @@ _Total events: 455_
 #### 2025-09-01: Netanyahu calls Kirk inviting him to Israel amid pressure.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:08:02](/episodes/ep-czVBmqZP6Ss.md#^t-00-07-17)
 
@@ -12435,7 +12437,7 @@ _Total events: 455_
 #### 2025-09-01: Bill Ackman stages intervention on Kirk in Hamptons.
 
 <details>
-<summary>Mentioned in 22 episodes</summary>
+<summary>22 mentions in 15 episodes</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:15:18](/episodes/ep-czVBmqZP6Ss.md#^t-00-15-01)
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On... @ 00:16:45](/episodes/ep-Qfwr08Ebczo.md#^t-00-16-17)
@@ -12467,7 +12469,7 @@ _Total events: 455_
 #### 2025-09-02: Charlie Kirk announces TPUSA DOGE department and Justin Strief as COO in internal memo.
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:20:19](/episodes/ep-K5GjF53bfN4.md#^t-00-19-45)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:19:58](/episodes/ep-K5GjF53bfN4.md#^t-00-19-45)
@@ -12479,7 +12481,7 @@ _Total events: 455_
 #### 2025-09-02: Charlie sent an email requesting a DOJ audit of his company and announced Justin Strife as new COO.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:24:56](/episodes/ep-a-e7HC6SeK8.md#^t-00-24-50)
 
@@ -12490,7 +12492,7 @@ _Total events: 455_
 #### 2025-09-03: 35 state leaders meet in Paris to discuss Ukraine security.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:21:00](/episodes/ep-sImMM04XdWY.md#^t-00-20-22)
 
@@ -12501,7 +12503,7 @@ _Total events: 455_
 #### 2025-09-03: Brigitte Macron greets President Zelensky in Paris.
 
 <details>
-<summary>Mentioned in 30 episodes</summary>
+<summary>30 mentions in 11 episodes</summary>
 
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:21:29](/episodes/ep-sImMM04XdWY.md#^t-00-21-00)
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:00:51](/episodes/ep-sImMM04XdWY.md#^t-00-00-39)
@@ -12541,7 +12543,7 @@ _Total events: 455_
 #### 2025-09-03: Charlie Kirk requests DOGE department at Turning Point USA.
 
 <details>
-<summary>Mentioned in 314 episodes</summary>
+<summary>314 mentions in 40 episodes</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:15:43](/episodes/ep-his-JBjlkh8.md#^t-00-15-03)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -12865,7 +12867,7 @@ _Total events: 455_
 #### 2025-09-03: Charlie Kirk reportedly requested creation of a 'Doge' department seven days before his death.
 
 <details>
-<summary>Mentioned in 255 episodes</summary>
+<summary>255 mentions in 40 episodes</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:15:43](/episodes/ep-his-JBjlkh8.md#^t-00-15-03)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -13130,7 +13132,7 @@ _Total events: 455_
 #### 2025-09-03 12:00: UVU student and professor witness suspicious man on Lozier Center roof overlooking Kirk event site.
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyp... @ 00:11:56](/episodes/ep-581dILVcEE4.md#^t-00-11-38)
 - [The Great Exodus From Utah? Where Did The "Egyp... @ 00:10:38](/episodes/ep-581dILVcEE4.md#^t-00-10-23)
@@ -13142,7 +13144,7 @@ _Total events: 455_
 #### 2025-09-04: Egyptian military plane SU-BTT lands in Provo, Utah with 12-14 passengers six days before Kirk assassination.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyp... @ 00:03:51](/episodes/ep-581dILVcEE4.md#^t-00-03-33)
 
@@ -13153,7 +13155,7 @@ _Total events: 455_
 #### 2025-09-04: Egyptian Air Force plane SUBTT arrives in Provo, Utah
 
 <details>
-<summary>Mentioned in 7 episodes</summary>
+<summary>7 mentions in 2 episodes</summary>
 
 - [BREAKING NEWS! The Egyptian Military Was In Pro... @ 00:12:53](/episodes/ep-iHav0PPzUz8.md#^t-00-12-29)
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:21:43](/episodes/ep-his-JBjlkh8.md#^t-00-21-20)
@@ -13170,7 +13172,7 @@ _Total events: 455_
 #### 2025-09-04: Brigitte Macron opens Paris Design Week.
 
 <details>
-<summary>Mentioned in 30 episodes</summary>
+<summary>30 mentions in 11 episodes</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:39:34](/episodes/ep-tB5SXXmd9vU.md#^t-00-39-28)
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:00:51](/episodes/ep-sImMM04XdWY.md#^t-00-00-39)
@@ -13210,7 +13212,7 @@ _Total events: 455_
 #### 2025-09-04: Brigitte Macron photographed with Zelenskyy during interstate meeting.
 
 <details>
-<summary>Mentioned in 30 episodes</summary>
+<summary>30 mentions in 11 episodes</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:40:05](/episodes/ep-tB5SXXmd9vU.md#^t-00-39-28)
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:00:51](/episodes/ep-sImMM04XdWY.md#^t-00-00-39)
@@ -13250,7 +13252,7 @@ _Total events: 455_
 #### 2025-09-04: Turning Point planes arrived and Charlie traveled to Korea for a multi-day trip starting September 4, 2025.
 
 <details>
-<summary>Mentioned in 98 episodes</summary>
+<summary>98 mentions in 39 episodes</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:25:19](/episodes/ep-a-e7HC6SeK8.md#^t-00-24-50)
 - [TPUSA RESPONDS: Yes, The Text Messages Are Real... @ 00:01:44](/episodes/ep-5autG89PW6w.md#^t-00-01-22)
@@ -13358,7 +13360,7 @@ _Total events: 455_
 #### 2025-09-04: Brigitte Macron opened Paris Design Week, a high-profile public cultural appearance in early September.
 
 <details>
-<summary>Mentioned in 30 episodes</summary>
+<summary>30 mentions in 11 episodes</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:39:34](/episodes/ep-tB5SXXmd9vU.md#^t-00-39-28)
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:00:51](/episodes/ep-sImMM04XdWY.md#^t-00-00-39)
@@ -13398,7 +13400,7 @@ _Total events: 455_
 #### 2025-09-04: Volodymyr Zelensky visited and was photographed with Brigitte Macron during his September visit to Paris.
 
 <details>
-<summary>Mentioned in 29 episodes</summary>
+<summary>29 mentions in 11 episodes</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:39:58](/episodes/ep-tB5SXXmd9vU.md#^t-00-39-28)
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:00:51](/episodes/ep-sImMM04XdWY.md#^t-00-00-39)
@@ -13437,7 +13439,7 @@ _Total events: 455_
 #### 2025-09-04: Zelensky was also photographed with Saudi representatives at an orchestra event during the same Paris visit.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:40:05](/episodes/ep-tB5SXXmd9vU.md#^t-00-39-28)
 
@@ -13448,7 +13450,7 @@ _Total events: 455_
 #### 2025-09-04: Reference to an Egyptian plane incident spanning 2025-09-04 through 2025-09-11 (mentioned as a related timeframe).
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:40:44](/episodes/ep-tB5SXXmd9vU.md#^t-00-40-05)
 
@@ -13459,7 +13461,7 @@ _Total events: 455_
 #### 2025-09-05: Footage of Irina Zarutska murder released and trends on X.
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Charlie's Final Hours. What Else Is Josh Hammer... @ 00:08:44](/episodes/ep-2Riv3I7D0Yk.md#^t-00-08-16)
 - [Charlie's Final Hours. What Else Is Josh Hammer... @ 00:07:35](/episodes/ep-2Riv3I7D0Yk.md#^t-00-06-59)
@@ -13471,7 +13473,7 @@ _Total events: 455_
 #### 2025-09-06: Charlie Kirk's final overseas trip to Korea four days before death
 
 <details>
-<summary>Mentioned in 32 episodes</summary>
+<summary>32 mentions in 13 episodes</summary>
 
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On... @ 00:09:48](/episodes/ep-Qfwr08Ebczo.md#^t-00-09-04)
 - [BREAKING NEWS! The Egyptian Military Was In Pro... @ 00:00:13](/episodes/ep-iHav0PPzUz8.md#^t-00-00-00)
@@ -13513,7 +13515,7 @@ _Total events: 455_
 #### 2025-09-08: Charlie Kirk loses $2 million donor pledge over Tucker Carlson invite
 
 <details>
-<summary>Mentioned in 306 episodes</summary>
+<summary>306 mentions in 40 episodes</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:45:45](/episodes/ep-2WEHTk0Xewg.md#^t-00-45-18)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -13829,7 +13831,7 @@ _Total events: 455_
 #### 2025-09-08: Charlie Kirk group chat reveals losing $2M Jewish donor over Tucker Carlson.
 
 <details>
-<summary>Mentioned in 306 episodes</summary>
+<summary>306 mentions in 40 episodes</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9... @ 00:16:17](/episodes/ep-ozWJz2spBcI.md#^t-00-15-58)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -14145,7 +14147,7 @@ _Total events: 455_
 #### 2025-09-09: Charlie Kirk shot in neck during event at UVU campus.
 
 <details>
-<summary>Mentioned in 254 episodes</summary>
+<summary>254 mentions in 40 episodes</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Ca... @ 00:00:51](/episodes/ep-sreYYcID-QY.md#^t-00-00-33)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -14409,7 +14411,7 @@ _Total events: 455_
 #### 2025-09-09: Assassination of Charlie Kirk by shooting goes viral with initial videos.
 
 <details>
-<summary>Mentioned in 254 episodes</summary>
+<summary>254 mentions in 40 episodes</summary>
 
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -14673,7 +14675,7 @@ _Total events: 455_
 #### 2025-09-09: Benjamin Netanyahu tweets about Charlie Kirk's death before US President.
 
 <details>
-<summary>Mentioned in 73 episodes</summary>
+<summary>73 mentions in 30 episodes</summary>
 
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:01:53](/episodes/ep-K5GjF53bfN4.md#^t-00-01-27)
 - [BREAKING NEWS! The Egyptian Military Was In Pro... @ 00:00:13](/episodes/ep-iHav0PPzUz8.md#^t-00-00-00)
@@ -14756,7 +14758,7 @@ _Total events: 455_
 #### 2025-09-09: Suspicious Amazon book listing appears detailing Charlie Kirk assassination.
 
 <details>
-<summary>Mentioned in 254 episodes</summary>
+<summary>254 mentions in 40 episodes</summary>
 
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:41:20](/episodes/ep-K5GjF53bfN4.md#^t-00-40-46)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -15020,7 +15022,7 @@ _Total events: 455_
 #### 2025-09-09: Israel bombs Qatar, violating international law.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Charlie's Final Hours. What Else Is Josh Hammer... @ 00:11:22](/episodes/ep-2Riv3I7D0Yk.md#^t-00-11-05)
 
@@ -15031,7 +15033,7 @@ _Total events: 455_
 #### 2025-09-09: Charlie Kirk and Erika consult priest to counter Jezebel curse.
 
 <details>
-<summary>Mentioned in 255 episodes</summary>
+<summary>255 mentions in 40 episodes</summary>
 
 - [BREAKING NEWS: FBI Pressuring Utah To Close The... @ 00:33:55](/episodes/ep-QZWSsq8ZWzw.md#^t-00-33-34)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -15296,7 +15298,7 @@ _Total events: 455_
 #### 2025-09-09: Charlie Kirk assassinated by gunshot from rooftop sniper
 
 <details>
-<summary>Mentioned in 254 episodes</summary>
+<summary>254 mentions in 40 episodes</summary>
 
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -15560,7 +15562,7 @@ _Total events: 455_
 #### 2025-09-09: Charlie and Erika Kirk consult priest to pray against curse night before assassination
 
 <details>
-<summary>Mentioned in 32 episodes</summary>
+<summary>32 mentions in 18 episodes</summary>
 
 - [BREAKING NEWS: FBI Pressuring Utah To Close The... @ 00:35:07](/episodes/ep-QZWSsq8ZWzw.md#^t-00-34-32)
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interv... @ 00:00:51](/episodes/ep-vwG1juDCQZQ.md#^t-00-00-45)
@@ -15602,7 +15604,7 @@ _Total events: 455_
 #### 2025-09-09: Charlie Kirk shot in neck at UVU campus event in Orem, Utah.
 
 <details>
-<summary>Mentioned in 254 episodes</summary>
+<summary>254 mentions in 40 episodes</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Ca... @ 00:00:06](/episodes/ep-sreYYcID-QY.md#^t-00-00-00)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -15866,7 +15868,7 @@ _Total events: 455_
 #### 2025-09-09: Text messages the day before Charlie Kirk's death in which he warned he thought he would be killed.
 
 <details>
-<summary>Mentioned in 32 episodes</summary>
+<summary>32 mentions in 12 episodes</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:12:28](/episodes/ep-his-JBjlkh8.md#^t-00-12-21)
 - [BREAKING NEWS! The Egyptian Military Was In Pro... @ 00:00:13](/episodes/ep-iHav0PPzUz8.md#^t-00-00-00)
@@ -15908,7 +15910,7 @@ _Total events: 455_
 #### 2025-09-09 18:38: Photo of suspect Tyler Robinson at Dairy Queen post-shooting.
 
 <details>
-<summary>Mentioned in 46 episodes</summary>
+<summary>46 mentions in 26 episodes</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Ca... @ 00:05:44](/episodes/ep-sreYYcID-QY.md#^t-00-05-26)
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#^t-00-00-01)
@@ -15964,7 +15966,7 @@ _Total events: 455_
 #### 2025-09-09 21:09: Josh Hammer retweets Trump's 2013 public execution tweet.
 
 <details>
-<summary>Mentioned in 25 episodes</summary>
+<summary>25 mentions in 17 episodes</summary>
 
 - [Charlie's Final Hours. What Else Is Josh Hammer... @ 00:00:16](/episodes/ep-2Riv3I7D0Yk.md#^t-00-00-00)
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying ... @ 00:00:17](/episodes/ep-MUA9ebCF4Ow.md#^t-00-00-00)
@@ -15999,7 +16001,7 @@ _Total events: 455_
 #### 2025-09-10: George Zinn announced as initial shooting suspect in custody
 
 <details>
-<summary>Mentioned in 14 episodes</summary>
+<summary>14 mentions in 11 episodes</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:07:18](/episodes/ep-2WEHTk0Xewg.md#^t-00-06-32)
 - [INSANITY! Guess Who Kash Patel Sent To Investig... @ 00:21:17](/episodes/ep-t1YtLS1n8Vs.md#^t-00-21-03)
@@ -16023,7 +16025,7 @@ _Total events: 455_
 #### 2025-09-10: Erwin Steele interviewed by local news on police search post-shooting.
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Ca... @ 00:13:17](/episodes/ep-sreYYcID-QY.md#^t-00-13-05)
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Ca... @ 00:13:21](/episodes/ep-sreYYcID-QY.md#^t-00-13-05)
@@ -16035,7 +16037,7 @@ _Total events: 455_
 #### 2025-09-10: Tiffany Barker and nieces interviewed on GMA about witnessing shooting.
 
 <details>
-<summary>Mentioned in 4 episodes</summary>
+<summary>4 mentions in 3 episodes</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Ca... @ 00:19:47](/episodes/ep-sreYYcID-QY.md#^t-00-19-38)
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:02:13](/episodes/ep-YA1FxrDWNIo.md#^t-00-01-30)
@@ -16049,7 +16051,7 @@ _Total events: 455_
 #### 2025-09-10: Charlie Kirk assassinated, allegedly by lone gunman Tyler Robinson
 
 <details>
-<summary>Mentioned in 295 episodes</summary>
+<summary>295 mentions in 40 episodes</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | ... @ 00:01:46](/episodes/ep-yAIb-NuUh_U.md#^t-00-01-32)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -16354,7 +16356,7 @@ _Total events: 455_
 #### 2025-09-10: Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University
 
 <details>
-<summary>Mentioned in 322 episodes</summary>
+<summary>322 mentions in 40 episodes</summary>
 
 - [REVELATIONS: The Truth About Charlie's Medical ... @ 00:00:24](/episodes/ep-pc3pxRyNFZk.md#^t-00-00-00)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -16686,7 +16688,7 @@ _Total events: 455_
 #### 2025-09-10: George Zinn arrested for faking confession to Kirk shooting
 
 <details>
-<summary>Mentioned in 15 episodes</summary>
+<summary>15 mentions in 11 episodes</summary>
 
 - [Charlie Kirk Shooting Suspect Charged. Somethin... @ 00:02:09](/episodes/ep-q7f8r-THr84.md#^t-00-02-06)
 - [INSANITY! Guess Who Kash Patel Sent To Investig... @ 00:21:17](/episodes/ep-t1YtLS1n8Vs.md#^t-00-21-03)
@@ -16711,7 +16713,7 @@ _Total events: 455_
 #### 2025-09-10: Egyptian military planes fly over Provo during Charlie Kirk assassination
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:00:40](/episodes/ep-ZAuuSq_j2_w.md#^t-00-00-00)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:00:43](/episodes/ep-ZAuuSq_j2_w.md#^t-00-00-00)
@@ -16723,7 +16725,7 @@ _Total events: 455_
 #### 2025-09-10: Yellow Egyptian plane departs Provo to Wilmington, DE with Walid Mahmood aboard
 
 <details>
-<summary>Mentioned in 3 episodes</summary>
+<summary>3 mentions in 1 episode</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:14:06](/episodes/ep-ZAuuSq_j2_w.md#^t-00-13-44)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:14:42](/episodes/ep-ZAuuSq_j2_w.md#^t-00-14-25)
@@ -16736,7 +16738,7 @@ _Total events: 455_
 #### 2025-09-10: Egyptian President el-Sisi meets Tunisia PM Sarah Zafrani in Egypt
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:17:46](/episodes/ep-ZAuuSq_j2_w.md#^t-00-17-12)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:17:47](/episodes/ep-ZAuuSq_j2_w.md#^t-00-17-12)
@@ -16748,7 +16750,7 @@ _Total events: 455_
 #### 2025-09-10: 12 Israeli cell phones detected at UVU during Charlie Kirk rally
 
 <details>
-<summary>Mentioned in 255 episodes</summary>
+<summary>255 mentions in 40 episodes</summary>
 
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On... @ 00:21:51](/episodes/ep-Qfwr08Ebczo.md#^t-00-21-39)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -17013,7 +17015,7 @@ _Total events: 455_
 #### 2025-09-10: Charlie Kirk assassinated at UVU campus event
 
 <details>
-<summary>Mentioned in 4 episodes</summary>
+<summary>4 mentions in 4 episodes</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace ... @ 00:00:19](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-00-00)
 - [Charlie's Final Hours. What Else Is Josh Hammer... @ 00:00:16](/episodes/ep-2Riv3I7D0Yk.md#^t-00-00-00)
@@ -17027,7 +17029,7 @@ _Total events: 455_
 #### 2025-09-10: Assassination of Charlie Kirk in broad daylight at Provo event
 
 <details>
-<summary>Mentioned in 254 episodes</summary>
+<summary>254 mentions in 40 episodes</summary>
 
 - [Operation Mocking-Plane: The Charlie Kirk Plot ... @ 00:00:54](/episodes/ep-JQjCAsfoXEE.md#^t-00-00-41)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -17291,7 +17293,7 @@ _Total events: 455_
 #### 2025-09-10: Charlie Kirk assassinated by shooter Tyler Robinson at Utah Valley University
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 2 episodes</summary>
 
 - [BREAKING NEWS: A Woman Was Seen With Charlie Ki... @ 00:00:52](/episodes/ep-adJ4LNGp84I.md#^t-00-00-36)
 - [BREAKING NEWS: FBI Pressuring Utah To Close The... @ 00:00:10](/episodes/ep-QZWSsq8ZWzw.md#^t-00-00-01)
@@ -17303,7 +17305,7 @@ _Total events: 455_
 #### 2025-09-10: Shooting and apparent assassination of Charlie Kirk at event
 
 <details>
-<summary>Mentioned in 254 episodes</summary>
+<summary>254 mentions in 40 episodes</summary>
 
 - [From Britney To Charlie. With Pastors Like Thes... @ 00:00:44](/episodes/ep-7RLtGgkTh9o.md#^t-00-00-00)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -17567,7 +17569,7 @@ _Total events: 455_
 #### 2025-09-10: Charlie Kirk assassinated during Turning Point USA event on stage.
 
 <details>
-<summary>Mentioned in 313 episodes</summary>
+<summary>313 mentions in 40 episodes</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9... @ 00:03:21](/episodes/ep-ozWJz2spBcI.md#^t-00-02-46)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -17890,7 +17892,7 @@ _Total events: 455_
 #### 2025-09-10: Egyptian plane SUBND transponds on ground at Duncan Aviation in Provo
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:13:44](/episodes/ep-ZAuuSq_j2_w.md#^t-00-13-04)
 
@@ -17901,7 +17903,7 @@ _Total events: 455_
 #### 2025-09-10: Egyptian yellow plane flies from Provo to Wilmington, Delaware with Walid Mahmood
 
 <details>
-<summary>Mentioned in 3 episodes</summary>
+<summary>3 mentions in 1 episode</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:13:56](/episodes/ep-ZAuuSq_j2_w.md#^t-00-13-44)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:14:42](/episodes/ep-ZAuuSq_j2_w.md#^t-00-14-25)
@@ -17914,7 +17916,7 @@ _Total events: 455_
 #### 2025-09-10: George Zinn announced as suspect in Charlie Kirk shooting custody
 
 <details>
-<summary>Mentioned in 267 episodes</summary>
+<summary>267 mentions in 40 episodes</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:07:35](/episodes/ep-2WEHTk0Xewg.md#^t-00-07-18)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -18191,7 +18193,7 @@ _Total events: 455_
 #### 2025-09-10: Tyler Robinson voluntarily surrenders to Washington County Sheriff's office
 
 <details>
-<summary>Mentioned in 47 episodes</summary>
+<summary>47 mentions in 26 episodes</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace ... @ 00:01:24](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-00-55)
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#^t-00-00-01)
@@ -18248,7 +18250,7 @@ _Total events: 455_
 #### 2025-09-10: Eyewitnesses Tiffany Barker, Elle Steele, Mia Grant on GMA describe shooting.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Ca... @ 00:20:04](/episodes/ep-sreYYcID-QY.md#^t-00-19-52)
 
@@ -18259,7 +18261,7 @@ _Total events: 455_
 #### 2025-09-10: Suspect Tyler Robinson surrenders to authorities after 33 hours.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Ca... @ 00:17:56](/episodes/ep-sreYYcID-QY.md#^t-00-17-36)
 
@@ -18270,7 +18272,7 @@ _Total events: 455_
 #### 2025-09-10: Assassination/shooting of Charlie Kirk at a campus event (questions about circumstances and investigation).
 
 <details>
-<summary>Mentioned in 254 episodes</summary>
+<summary>254 mentions in 40 episodes</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:00:25](/episodes/ep-his-JBjlkh8.md#^t-00-00-00)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -18534,7 +18536,7 @@ _Total events: 455_
 #### 2025-09-10: Utah Valley University event where Charlie Kirk was shot — described as unusually scheduled and suspicious.
 
 <details>
-<summary>Mentioned in 262 episodes</summary>
+<summary>262 mentions in 40 episodes</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:06:37](/episodes/ep-his-JBjlkh8.md#^t-00-06-15)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -18806,7 +18808,7 @@ _Total events: 455_
 #### 2025-09-10: Allegations that Egyptian Air Force planes were operating out of Provo, Utah around the time of the shooting.
 
 <details>
-<summary>Mentioned in 6 episodes</summary>
+<summary>6 mentions in 2 episodes</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:16:49](/episodes/ep-his-JBjlkh8.md#^t-00-16-26)
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:21:43](/episodes/ep-his-JBjlkh8.md#^t-00-21-20)
@@ -18822,7 +18824,7 @@ _Total events: 455_
 #### 2025-09-10: Mikey McCoy jumped on Liberty University stage for an event that had been scheduled for Charlie Kirk.
 
 <details>
-<summary>Mentioned in 274 episodes</summary>
+<summary>274 mentions in 40 episodes</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:06:24](/episodes/ep-his-JBjlkh8.md#^t-00-06-15)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -19106,7 +19108,7 @@ _Total events: 455_
 #### 2025-09-10: Charlie Kirk was assassinated / murdered (reference to his killing discussed throughout episode).
 
 <details>
-<summary>Mentioned in 255 episodes</summary>
+<summary>255 mentions in 40 episodes</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:19:08](/episodes/ep-his-JBjlkh8.md#^t-00-18-52)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -19371,7 +19373,7 @@ _Total events: 455_
 #### 2025-09-10: Large public memorial/vigil at the Staples Center following Charlie Kirk's assassination.
 
 <details>
-<summary>Mentioned in 32 episodes</summary>
+<summary>32 mentions in 12 episodes</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:22:32](/episodes/ep-his-JBjlkh8.md#^t-00-22-24)
 - [BREAKING NEWS! The Egyptian Military Was In Pro... @ 00:00:13](/episodes/ep-iHav0PPzUz8.md#^t-00-00-00)
@@ -19413,7 +19415,7 @@ _Total events: 455_
 #### 2025-09-10: Charlie returned from Korea and was assassinated on September 10, 2025 (reported in the timeline).
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:25:26](/episodes/ep-a-e7HC6SeK8.md#^t-00-24-50)
 
@@ -19424,7 +19426,7 @@ _Total events: 455_
 #### 2025-09-10: Operation Bright Star was reported to formally end on September 10, 2025, the same day as the assassination.
 
 <details>
-<summary>Mentioned in 5 episodes</summary>
+<summary>5 mentions in 2 episodes</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:25:29](/episodes/ep-a-e7HC6SeK8.md#^t-00-24-50)
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:21:46](/episodes/ep-tB5SXXmd9vU.md#^t-00-21-14)
@@ -19439,7 +19441,7 @@ _Total events: 455_
 #### 2025-09-10: Allegation that Justin Strife placed an immediate phone call to a donor prospect after the assassination.
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:27:29](/episodes/ep-a-e7HC6SeK8.md#^t-00-26-49)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:24:56](/episodes/ep-a-e7HC6SeK8.md#^t-00-24-50)
@@ -19451,7 +19453,7 @@ _Total events: 455_
 #### 2025-09-10: Assassination of Charlie Kirk at an event at Utah Valley University on September 10.
 
 <details>
-<summary>Mentioned in 262 episodes</summary>
+<summary>262 mentions in 40 episodes</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:01:12](/episodes/ep-tB5SXXmd9vU.md#^t-00-00-57)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -19723,7 +19725,7 @@ _Total events: 455_
 #### 2025-09-10: Charlie Kirk was shot (referred to as an assassination occurring on September 10, 2025).
 
 <details>
-<summary>Mentioned in 254 episodes</summary>
+<summary>254 mentions in 40 episodes</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:21:46](/episodes/ep-tB5SXXmd9vU.md#^t-00-21-14)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -19987,7 +19989,7 @@ _Total events: 455_
 #### 2025-09-10: Egyptian aircraft SU‑BTT departed Provo for Wilmington on the morning of Charlie Kirk's assassination.
 
 <details>
-<summary>Mentioned in 31 episodes</summary>
+<summary>31 mentions in 12 episodes</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#^t-00-23-12)
 - [BREAKING NEWS! The Egyptian Military Was In Pro... @ 00:00:13](/episodes/ep-iHav0PPzUz8.md#^t-00-00-00)
@@ -20028,7 +20030,7 @@ _Total events: 455_
 #### 2025-09-10: The assassination of Charlie Kirk (referred to as "Charlie" in the transcript).
 
 <details>
-<summary>Mentioned in 254 episodes</summary>
+<summary>254 mentions in 40 episodes</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:00:47](/episodes/ep-ZAuuSq_j2_w.md#^t-00-00-43)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -20292,7 +20294,7 @@ _Total events: 455_
 #### 2025-09-10: A 'yellow' Egyptian-linked plane flew from Provo to Wilmington, Delaware with four passengers; one used name Walid Mahmood.
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:14:42](/episodes/ep-ZAuuSq_j2_w.md#^t-00-14-25)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:15:12](/episodes/ep-ZAuuSq_j2_w.md#^t-00-15-09)
@@ -20304,7 +20306,7 @@ _Total events: 455_
 #### 2025-09-10: President el‑Sisi was photographed meeting Tunisia's prime minister Sarah Zafrani in Egypt, used to rule him out of Provo presence.
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:17:47](/episodes/ep-ZAuuSq_j2_w.md#^t-00-17-12)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:17:46](/episodes/ep-ZAuuSq_j2_w.md#^t-00-17-12)
@@ -20316,7 +20318,7 @@ _Total events: 455_
 #### 2025-09-10: Egyptian plane SU-BND was transponding on the ground at Duncan Aviation in Provo on the day of Charlie's assassination.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:13:44](/episodes/ep-ZAuuSq_j2_w.md#^t-00-13-04)
 
@@ -20327,7 +20329,7 @@ _Total events: 455_
 #### 2025-09-10 07:14: Egyptian military plane SUBTT departs Provo, Utah en route to Wilmington, Delaware
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:03:23](/episodes/ep-SKGUzGHymcI.md#^t-00-02-39)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:03:43](/episodes/ep-SKGUzGHymcI.md#^t-00-03-23)
@@ -20339,7 +20341,7 @@ _Total events: 455_
 #### 2025-09-10 07:14: Egyptian Air Force plane SUBTT departs Provo, Utah
 
 <details>
-<summary>Mentioned in 7 episodes</summary>
+<summary>7 mentions in 2 episodes</summary>
 
 - [BREAKING NEWS! The Egyptian Military Was In Pro... @ 00:19:24](/episodes/ep-iHav0PPzUz8.md#^t-00-19-07)
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:21:43](/episodes/ep-his-JBjlkh8.md#^t-00-21-20)
@@ -20356,7 +20358,7 @@ _Total events: 455_
 #### 2025-09-10 08:07: TMZ releases doorbell cam footage from Kirk shooting scene.
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Ca... @ 00:10:50](/episodes/ep-sreYYcID-QY.md#^t-00-10-23)
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Ca... @ 00:11:03](/episodes/ep-sreYYcID-QY.md#^t-00-10-23)
@@ -20368,7 +20370,7 @@ _Total events: 455_
 #### 2025-09-10 08:07: Tyler Robinson enters UVU campus in maroon t-shirt and shorts per TMZ footage
 
 <details>
-<summary>Mentioned in 46 episodes</summary>
+<summary>46 mentions in 26 episodes</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:15:06](/episodes/ep-2WEHTk0Xewg.md#^t-00-14-28)
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#^t-00-00-01)
@@ -20424,7 +20426,7 @@ _Total events: 455_
 #### 2025-09-10 08:29: Suspect Tyler Robinson arrives at UVU campus before shooting.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:40:25](/episodes/ep-czVBmqZP6Ss.md#^t-00-39-50)
 
@@ -20435,7 +20437,7 @@ _Total events: 455_
 #### 2025-09-10 09:05: Egyptian plane SU-BND transponds at Provo FBO until 10:34
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Operation Mocking-Plane: The Charlie Kirk Plot ... @ 00:21:07](/episodes/ep-JQjCAsfoXEE.md#^t-00-21-01)
 
@@ -20446,7 +20448,7 @@ _Total events: 455_
 #### 2025-09-10 09:16: Military-contracted plane dips low over Provo airport 26 minutes after Kirk assassination
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [BREAKING NEWS! The Egyptian Military Was In Pro... @ 00:01:57](/episodes/ep-iHav0PPzUz8.md#^t-00-01-22)
 
@@ -20457,7 +20459,7 @@ _Total events: 455_
 #### 2025-09-10 09:23: Charlie Kirk lands in Salt Lake City before Provo event
 
 <details>
-<summary>Mentioned in 258 episodes</summary>
+<summary>258 mentions in 40 episodes</summary>
 
 - [Operation Mocking-Plane: The Charlie Kirk Plot ... @ 00:15:09](/episodes/ep-JQjCAsfoXEE.md#^t-00-14-44)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -20725,7 +20727,7 @@ _Total events: 455_
 #### 2025-09-10 10:00: T.W. Lewis Foundation plane lands in Provo from Scottsdale ahead of Charlie Kirk assassination.
 
 <details>
-<summary>Mentioned in 255 episodes</summary>
+<summary>255 mentions in 40 episodes</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyp... @ 00:20:20](/episodes/ep-581dILVcEE4.md#^t-00-19-55)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -20990,7 +20992,7 @@ _Total events: 455_
 #### 2025-09-10 10:06: Flight N560TW lands in Provo from Scottsdale, Arizona
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Operation Mocking-Plane: The Charlie Kirk Plot ... @ 00:26:33](/episodes/ep-JQjCAsfoXEE.md#^t-00-26-14)
 
@@ -21001,7 +21003,7 @@ _Total events: 455_
 #### 2025-09-10 10:45: Donald Trump and Emmanuel Macron hold phone call before Kirk assassination.
 
 <details>
-<summary>Mentioned in 47 episodes</summary>
+<summary>47 mentions in 27 episodes</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:49:54](/episodes/ep-his-JBjlkh8.md#^t-00-49-40)
 - [They Are Lying About Tyler Robinson. | Candace ... @ 00:03:13](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-03-03)
@@ -21058,7 +21060,7 @@ _Total events: 455_
 #### 2025-09-10 11:30: Phil Lyman parks near driveway in TMZ footage of shooter walking
 
 <details>
-<summary>Mentioned in 13 episodes</summary>
+<summary>13 mentions in 5 episodes</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace ... @ 00:28:37](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-27-53)
 - [BREAKING NEWS: A Woman Was Seen With Charlie Ki... @ 00:03:37](/episodes/ep-adJ4LNGp84I.md#^t-00-02-54)
@@ -21081,7 +21083,7 @@ _Total events: 455_
 #### 2025-09-10 12:15: Suspect climbs onto UVU roof before Charlie Kirk shooting
 
 <details>
-<summary>Mentioned in 255 episodes</summary>
+<summary>255 mentions in 40 episodes</summary>
 
 - [Charlie Kirk Shooting Suspect Charged. Somethin... @ 00:08:07](/episodes/ep-q7f8r-THr84.md#^t-00-07-39)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -21346,7 +21348,7 @@ _Total events: 455_
 #### 2025-09-10 12:15: Charlie Kirk assassinated by gunman on rooftop at Utah campus
 
 <details>
-<summary>Mentioned in 254 episodes</summary>
+<summary>254 mentions in 40 episodes</summary>
 
 - [BREAKING NEWS: FBI Pressuring Utah To Close The... @ 00:00:10](/episodes/ep-QZWSsq8ZWzw.md#^t-00-00-01)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -21610,7 +21612,7 @@ _Total events: 455_
 #### 2025-09-10 12:22: Video recorded of shooter on Pelosi Center roof going viral on social media
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Bearing False Witness: Who Made The Charlie Kir... @ 00:18:05](/episodes/ep-UBkFkg4UNY8.md#^t-00-17-59)
 
@@ -21621,7 +21623,7 @@ _Total events: 455_
 #### 2025-09-10 12:23: Charlie Kirk assassinated by shooting in Provo, Utah
 
 <details>
-<summary>Mentioned in 4 episodes</summary>
+<summary>4 mentions in 4 episodes</summary>
 
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:03:55](/episodes/ep-SKGUzGHymcI.md#^t-00-03-23)
 - [BREAKING NEWS! The Egyptian Military Was In Pro... @ 00:00:13](/episodes/ep-iHav0PPzUz8.md#^t-00-00-00)
@@ -21635,7 +21637,7 @@ _Total events: 455_
 #### 2025-09-10 12:23: Charlie Kirk assassinated by sniper at Utah Valley University Lozier Center event in Provo.
 
 <details>
-<summary>Mentioned in 254 episodes</summary>
+<summary>254 mentions in 40 episodes</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyp... @ 00:03:51](/episodes/ep-581dILVcEE4.md#^t-00-03-33)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -21899,7 +21901,7 @@ _Total events: 455_
 #### 2025-09-10 12:23: Charlie Kirk shot at Utah Valley University event
 
 <details>
-<summary>Mentioned in 8 episodes</summary>
+<summary>8 mentions in 7 episodes</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#^t-00-00-01)
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:01:35](/episodes/ep-sImMM04XdWY.md#^t-00-01-32)
@@ -21917,7 +21919,7 @@ _Total events: 455_
 #### 2025-09-10 12:23: Charlie Kirk shot and killed at UVU college campus event
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 2 episodes</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage ... @ 00:03:45](/episodes/ep-c5BcKF91iec.md#^t-00-03-03)
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:00:21](/episodes/ep-czVBmqZP6Ss.md#^t-00-00-00)
@@ -21929,7 +21931,7 @@ _Total events: 455_
 #### 2025-09-10 12:23: Charlie Kirk shot by sniper from rooftop at UVU event
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 2 episodes</summary>
 
 - [Charlie Kirk Shooting Suspect Charged. Somethin... @ 00:00:32](/episodes/ep-q7f8r-THr84.md#^t-00-00-01)
 - [They Are Lying About Tyler Robinson. | Candace ... @ 00:06:42](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-06-10)
@@ -21941,7 +21943,7 @@ _Total events: 455_
 #### 2025-09-10 12:23: Charlie Kirk shot in neck during speech at UVU amphitheater event
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 2 episodes</summary>
 
 - [Bearing False Witness: Who Made The Charlie Kir... @ 00:00:22](/episodes/ep-UBkFkg4UNY8.md#^t-00-00-00)
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:00:21](/episodes/ep-czVBmqZP6Ss.md#^t-00-00-00)
@@ -21953,7 +21955,7 @@ _Total events: 455_
 #### 2025-09-10 12:24: Blake Neff calls mother 45 seconds after Charlie Kirk shooting at UVU event.
 
 <details>
-<summary>Mentioned in 263 episodes</summary>
+<summary>263 mentions in 40 episodes</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyp... @ 00:36:37](/episodes/ep-581dILVcEE4.md#^t-00-36-17)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -22226,7 +22228,7 @@ _Total events: 455_
 #### 2025-09-10 12:25: George Zinn arrested near Charlie Kirk's SUV area post-shooting
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Bearing False Witness: Who Made The Charlie Kir... @ 00:09:26](/episodes/ep-UBkFkg4UNY8.md#^t-00-09-16)
 - [Bearing False Witness: Who Made The Charlie Kir... @ 00:09:46](/episodes/ep-UBkFkg4UNY8.md#^t-00-09-16)
@@ -22238,7 +22240,7 @@ _Total events: 455_
 #### 2025-09-10 13:20: Private plane N888KG departs Provo airport for Page, Arizona
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [BREAKING NEWS! The Egyptian Military Was In Pro... @ 00:05:46](/episodes/ep-iHav0PPzUz8.md#^t-00-05-40)
 
@@ -22249,7 +22251,7 @@ _Total events: 455_
 #### 2025-09-10 17:30: Governor Cox press conference mentions second suspect in dark clothing
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:07:44](/episodes/ep-2WEHTk0Xewg.md#^t-00-07-18)
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:07:58](/episodes/ep-2WEHTk0Xewg.md#^t-00-07-18)
@@ -22261,7 +22263,7 @@ _Total events: 455_
 #### 2025-09-10 20:02: Tyler Robinson turns himself in after identification as shooter
 
 <details>
-<summary>Mentioned in 46 episodes</summary>
+<summary>46 mentions in 26 episodes</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace ... @ 00:01:24](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-00-55)
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#^t-00-00-01)
@@ -22317,7 +22319,7 @@ _Total events: 455_
 #### 2025-09-10 20:02: Retired detective Mike Mitchell calls Sheriff Nate Brooksby identifying shooter
 
 <details>
-<summary>Mentioned in 5 episodes</summary>
+<summary>5 mentions in 2 episodes</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace ... @ 00:09:27](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-09-12)
 - [They Are Lying About Tyler Robinson. | Candace ... @ 00:18:57](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-18-41)
@@ -22332,7 +22334,7 @@ _Total events: 455_
 #### 2025-09-11: CNN publishes article on UVU student sightings of man on roof before Kirk assassination.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyp... @ 00:12:18](/episodes/ep-581dILVcEE4.md#^t-00-11-38)
 
@@ -22343,7 +22345,7 @@ _Total events: 455_
 #### 2025-09-11: FBI recovers high-powered bolt-action rifle used in shooting
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:17:34](/episodes/ep-2WEHTk0Xewg.md#^t-00-16-59)
 
@@ -22354,7 +22356,7 @@ _Total events: 455_
 #### 2025-09-11: Tyler James Robinson surrenders to police after Kirk shooting
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Charlie Kirk Shooting Suspect Charged. Somethin... @ 00:07:05](/episodes/ep-q7f8r-THr84.md#^t-00-06-59)
 
@@ -22365,7 +22367,7 @@ _Total events: 455_
 #### 2025-09-11: Benjamin Netanyahu discusses Charlie Kirk on Fox News
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:07:02](/episodes/ep-czVBmqZP6Ss.md#^t-00-06-16)
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:07:17](/episodes/ep-czVBmqZP6Ss.md#^t-00-07-02)
@@ -22377,7 +22379,7 @@ _Total events: 455_
 #### 2025-09-11: TMZ publishes doorbell cam footage of Charlie Kirk's shooter
 
 <details>
-<summary>Mentioned in 32 episodes</summary>
+<summary>32 mentions in 12 episodes</summary>
 
 - [BREAKING NEWS: A Woman Was Seen With Charlie Ki... @ 00:13:21](/episodes/ep-adJ4LNGp84I.md#^t-00-13-19)
 - [BREAKING NEWS! The Egyptian Military Was In Pro... @ 00:00:13](/episodes/ep-iHav0PPzUz8.md#^t-00-00-00)
@@ -22419,7 +22421,7 @@ _Total events: 455_
 #### 2025-09-11: Charlie Kirk loses his life in violent incident with circulating footage
 
 <details>
-<summary>Mentioned in 254 episodes</summary>
+<summary>254 mentions in 40 episodes</summary>
 
 - [To My Friend, Charlie Kirk. @ 00:00:28](/episodes/ep-_dRaEO47-co.md#^t-00-00-01)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -22683,7 +22685,7 @@ _Total events: 455_
 #### 2025-09-11: Benjamin Netanyahu mourns Kirk on Fox News, cites letter and call.
 
 <details>
-<summary>Mentioned in 53 episodes</summary>
+<summary>53 mentions in 28 episodes</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:07:12](/episodes/ep-czVBmqZP6Ss.md#^t-00-07-02)
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interv... @ 00:00:51](/episodes/ep-vwG1juDCQZQ.md#^t-00-00-45)
@@ -22746,7 +22748,7 @@ _Total events: 455_
 #### 2025-09-11: FBI press conference announces recovery of shooting weapon in wooded area
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:17:34](/episodes/ep-2WEHTk0Xewg.md#^t-00-16-59)
 
@@ -22757,7 +22759,7 @@ _Total events: 455_
 #### 2025-09-11: Benjamin Netanyahu appears on Fox News mourning Charlie Kirk's death
 
 <details>
-<summary>Mentioned in 82 episodes</summary>
+<summary>82 mentions in 32 episodes</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:07:17](/episodes/ep-czVBmqZP6Ss.md#^t-00-07-02)
 - [BREAKING NEWS! The Egyptian Military Was In Pro... @ 00:00:13](/episodes/ep-iHav0PPzUz8.md#^t-00-00-00)
@@ -22849,7 +22851,7 @@ _Total events: 455_
 #### 2025-09-11 09:00: Tiffany Barker and nieces interviewed on Good Morning America about shooting
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Bearing False Witness: Who Made The Charlie Kir... @ 00:02:58](/episodes/ep-UBkFkg4UNY8.md#^t-00-02-39)
 - [Bearing False Witness: Who Made The Charlie Kir... @ 00:03:00](/episodes/ep-UBkFkg4UNY8.md#^t-00-02-39)
@@ -22861,7 +22863,7 @@ _Total events: 455_
 #### 2025-09-11 09:21: New York Post publishes exclusive photo of gun and engravings
 
 <details>
-<summary>Mentioned in 3 episodes</summary>
+<summary>3 mentions in 1 episode</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:19:06](/episodes/ep-2WEHTk0Xewg.md#^t-00-18-53)
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:18:20](/episodes/ep-2WEHTk0Xewg.md#^t-00-18-10)
@@ -22874,7 +22876,7 @@ _Total events: 455_
 #### 2025-09-11 10:00: FBI releases static images of alleged shooter ascending stairs
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:19:25](/episodes/ep-2WEHTk0Xewg.md#^t-00-18-53)
 
@@ -22885,7 +22887,7 @@ _Total events: 455_
 #### 2025-09-11 15:00: Derek Maxfield issues statement denying N888KG involvement in Kirk assassination
 
 <details>
-<summary>Mentioned in 3 episodes</summary>
+<summary>3 mentions in 1 episode</summary>
 
 - [BREAKING NEWS! The Egyptian Military Was In Pro... @ 00:06:25](/episodes/ep-iHav0PPzUz8.md#^t-00-05-40)
 - [BREAKING NEWS! The Egyptian Military Was In Pro... @ 00:04:28](/episodes/ep-iHav0PPzUz8.md#^t-00-04-12)
@@ -22898,7 +22900,7 @@ _Total events: 455_
 #### 2025-09-11 19:00: Tyler Robinson taken into custody in Warner Valley area
 
 <details>
-<summary>Mentioned in 47 episodes</summary>
+<summary>47 mentions in 26 episodes</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:23:20](/episodes/ep-2WEHTk0Xewg.md#^t-00-22-59)
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#^t-00-00-01)
@@ -22955,7 +22957,7 @@ _Total events: 455_
 #### 2025-09-11 22:34: Turning Point USA Wikipedia page updated to list Rob McCoy as co-founder of TPUSA Faith.
 
 <details>
-<summary>Mentioned in 38 episodes</summary>
+<summary>38 mentions in 18 episodes</summary>
 
 - [Why Isn't The Trump Family Asking Questions Abo... @ 00:00:02](/episodes/ep-Qt0VHV-POCg.md#^t-00-00-00)
 - [The Great Exodus From Utah? Where Did The "Egyp... @ 00:00:05](/episodes/ep-581dILVcEE4.md#^t-00-00-00)
@@ -23003,7 +23005,7 @@ _Total events: 455_
 #### 2025-09-11 23:00: Lance Twiggs questioned by authorities and released
 
 <details>
-<summary>Mentioned in 5 episodes</summary>
+<summary>5 mentions in 2 episodes</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:25:14](/episodes/ep-2WEHTk0Xewg.md#^t-00-24-54)
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#^t-00-00-01)
@@ -23018,7 +23020,7 @@ _Total events: 455_
 #### 2025-09-11 23:00: Lance Twiggs brought in for questioning by authorities
 
 <details>
-<summary>Mentioned in 5 episodes</summary>
+<summary>5 mentions in 2 episodes</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:25:19](/episodes/ep-2WEHTk0Xewg.md#^t-00-24-54)
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#^t-00-00-01)
@@ -23033,7 +23035,7 @@ _Total events: 455_
 #### 2025-09-12: Tyler Robinson apartment raided overnight by FBI
 
 <details>
-<summary>Mentioned in 46 episodes</summary>
+<summary>46 mentions in 26 episodes</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:25:27](/episodes/ep-2WEHTk0Xewg.md#^t-00-24-54)
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#^t-00-00-01)
@@ -23089,7 +23091,7 @@ _Total events: 455_
 #### 2025-09-12: Authorities apprehend suspect Tyler Robinson 33 hours after assassination
 
 <details>
-<summary>Mentioned in 46 episodes</summary>
+<summary>46 mentions in 26 episodes</summary>
 
 - [TPUSA RESPONDS: Yes, The Text Messages Are Real... @ 00:15:06](/episodes/ep-5autG89PW6w.md#^t-00-15-02)
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#^t-00-00-01)
@@ -23145,7 +23147,7 @@ _Total events: 455_
 #### 2025-09-12: Assassination site area repaved within 48 hours of shooting.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Canda... @ 00:23:04](/episodes/ep-ja26iltROkM.md#^t-00-22-30)
 
@@ -23156,7 +23158,7 @@ _Total events: 455_
 #### 2025-09-12: Tribute event held for Charlie Kirk
 
 <details>
-<summary>Mentioned in 255 episodes</summary>
+<summary>255 mentions in 40 episodes</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:02:45](/episodes/ep-czVBmqZP6Ss.md#^t-00-02-02)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -23421,7 +23423,7 @@ _Total events: 455_
 #### 2025-09-12: Tyler Robinson arrested for Kirk assassination after father turns him in.
 
 <details>
-<summary>Mentioned in 46 episodes</summary>
+<summary>46 mentions in 26 episodes</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:48:53](/episodes/ep-czVBmqZP6Ss.md#^t-00-48-34)
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#^t-00-00-01)
@@ -23477,7 +23479,7 @@ _Total events: 455_
 #### 2025-09-12: Site of Charlie Kirk shooting repaved within 48 hours.
 
 <details>
-<summary>Mentioned in 255 episodes</summary>
+<summary>255 mentions in 40 episodes</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Canda... @ 00:23:04](/episodes/ep-ja26iltROkM.md#^t-00-22-30)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -23742,7 +23744,7 @@ _Total events: 455_
 #### 2025-09-12: Tyler Robinson arrested as suspect in Charlie Kirk assassination.
 
 <details>
-<summary>Mentioned in 295 episodes</summary>
+<summary>295 mentions in 40 episodes</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:40:25](/episodes/ep-czVBmqZP6Ss.md#^t-00-39-50)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -24047,7 +24049,7 @@ _Total events: 455_
 #### 2025-09-12: Public tribute held for Charlie Kirk at Turning Point USA event
 
 <details>
-<summary>Mentioned in 314 episodes</summary>
+<summary>314 mentions in 40 episodes</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:02:45](/episodes/ep-czVBmqZP6Ss.md#^t-00-02-02)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -24371,7 +24373,7 @@ _Total events: 455_
 #### 2025-09-12: Suspect Tyler Robinson arrested 33 hours after Charlie Kirk shooting
 
 <details>
-<summary>Mentioned in 255 episodes</summary>
+<summary>255 mentions in 40 episodes</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:40:10](/episodes/ep-czVBmqZP6Ss.md#^t-00-39-50)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -24636,7 +24638,7 @@ _Total events: 455_
 #### 2025-09-12 06:00: President Trump announces suspect in custody on Fox & Friends
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:26:50](/episodes/ep-2WEHTk0Xewg.md#^t-00-26-19)
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:27:00](/episodes/ep-2WEHTk0Xewg.md#^t-00-26-19)
@@ -24648,7 +24650,7 @@ _Total events: 455_
 #### 2025-09-12 08:00: Governor Cox press conference declares 'We got him'
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:27:38](/episodes/ep-2WEHTk0Xewg.md#^t-00-27-33)
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:27:33](/episodes/ep-2WEHTk0Xewg.md#^t-00-27-02)
@@ -24660,7 +24662,7 @@ _Total events: 455_
 #### 2025-09-13: Erika Kirk addresses nation after husband's death
 
 <details>
-<summary>Mentioned in 31 episodes</summary>
+<summary>31 mentions in 18 episodes</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:00:51](/episodes/ep-czVBmqZP6Ss.md#^t-00-00-44)
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interv... @ 00:00:51](/episodes/ep-vwG1juDCQZQ.md#^t-00-00-45)
@@ -24701,7 +24703,7 @@ _Total events: 455_
 #### 2025-09-14: Pastor Rob McCoy announces Charlie Kirk's succession plan in church sermon
 
 <details>
-<summary>Mentioned in 42 episodes</summary>
+<summary>42 mentions in 17 episodes</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage ... @ 00:06:49](/episodes/ep-c5BcKF91iec.md#^t-00-06-36)
 - [BREAKING NEWS! The Egyptian Military Was In Pro... @ 00:00:13](/episodes/ep-iHav0PPzUz8.md#^t-00-00-00)
@@ -24753,7 +24755,7 @@ _Total events: 455_
 #### 2025-09-14: Hen Mazzig posted on X about Mossad agents; Elijah Schaffer replied with Patel-Wilkins photo.
 
 <details>
-<summary>Mentioned in 8 episodes</summary>
+<summary>8 mentions in 3 episodes</summary>
 
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying ... @ 00:38:22](/episodes/ep-MUA9ebCF4Ow.md#^t-00-37-47)
 - [What Did Charlie Kirk Discover Near The End? | ... @ 00:49:41](/episodes/ep-yAIb-NuUh_U.md#^t-00-49-18)
@@ -24771,7 +24773,7 @@ _Total events: 455_
 #### 2025-09-14: Erika Kirk addresses nation on husband's death and movement.
 
 <details>
-<summary>Mentioned in 31 episodes</summary>
+<summary>31 mentions in 18 episodes</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:00:51](/episodes/ep-czVBmqZP6Ss.md#^t-00-00-44)
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interv... @ 00:00:51](/episodes/ep-vwG1juDCQZQ.md#^t-00-00-45)
@@ -24812,7 +24814,7 @@ _Total events: 455_
 #### 2025-09-14: Erika Kirk addresses world vowing to continue husband's movement.
 
 <details>
-<summary>Mentioned in 31 episodes</summary>
+<summary>31 mentions in 18 episodes</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:00:51](/episodes/ep-czVBmqZP6Ss.md#^t-00-00-44)
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interv... @ 00:00:51](/episodes/ep-vwG1juDCQZQ.md#^t-00-00-45)
@@ -24853,7 +24855,7 @@ _Total events: 455_
 #### 2025-09-14: Erika Kirk delivers powerful public remarks on husband's death and movement
 
 <details>
-<summary>Mentioned in 31 episodes</summary>
+<summary>31 mentions in 18 episodes</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:00:51](/episodes/ep-czVBmqZP6Ss.md#^t-00-00-44)
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interv... @ 00:00:51](/episodes/ep-vwG1juDCQZQ.md#^t-00-00-45)
@@ -24894,7 +24896,7 @@ _Total events: 455_
 #### 2025-09-15: Feds contact rooftop shooter video witness for first time.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:15:57](/episodes/ep-K5GjF53bfN4.md#^t-00-15-27)
 
@@ -24905,7 +24907,7 @@ _Total events: 455_
 #### 2025-09-15: Bill Ackman posts lengthy response to Owens' episode on Hamptons
 
 <details>
-<summary>Mentioned in 21 episodes</summary>
+<summary>21 mentions in 15 episodes</summary>
 
 - [Charlie Kirk Shooting Suspect Charged. Somethin... @ 00:01:32](/episodes/ep-q7f8r-THr84.md#^t-00-01-14)
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On... @ 00:16:45](/episodes/ep-Qfwr08Ebczo.md#^t-00-16-17)
@@ -24936,7 +24938,7 @@ _Total events: 455_
 #### 2025-09-15: Max Blumenthal questions Bill Ackman on Hamptons meeting
 
 <details>
-<summary>Mentioned in 22 episodes</summary>
+<summary>22 mentions in 16 episodes</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:16:09](/episodes/ep-czVBmqZP6Ss.md#^t-00-15-45)
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On... @ 00:16:45](/episodes/ep-Qfwr08Ebczo.md#^t-00-16-17)
@@ -24968,7 +24970,7 @@ _Total events: 455_
 #### 2025-09-15: FBI announces search for second person in Kirk assassination.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:38:25](/episodes/ep-czVBmqZP6Ss.md#^t-00-38-05)
 
@@ -24979,7 +24981,7 @@ _Total events: 455_
 #### 2025-09-15: Governor Cox declares Charlie Kirk assassination investigation concluded
 
 <details>
-<summary>Mentioned in 263 episodes</summary>
+<summary>263 mentions in 40 episodes</summary>
 
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:15:46](/episodes/ep-K5GjF53bfN4.md#^t-00-15-27)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -25252,7 +25254,7 @@ _Total events: 455_
 #### 2025-09-15: FBI first contacts eyewitnesses with rooftop footage of Kirk shooter
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:15:46](/episodes/ep-K5GjF53bfN4.md#^t-00-15-27)
 
@@ -25263,7 +25265,7 @@ _Total events: 455_
 #### 2025-09-16: Tyler Robinson indictment and text messages released publicly
 
 <details>
-<summary>Mentioned in 46 episodes</summary>
+<summary>46 mentions in 26 episodes</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:02:28](/episodes/ep-2WEHTk0Xewg.md#^t-00-02-22)
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#^t-00-00-01)
@@ -25319,7 +25321,7 @@ _Total events: 455_
 #### 2025-09-16: Tucker Carlson live show reveals Charlie Kirk donor pressures
 
 <details>
-<summary>Mentioned in 305 episodes</summary>
+<summary>305 mentions in 40 episodes</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:37:11](/episodes/ep-2WEHTk0Xewg.md#^t-00-36-35)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -25634,7 +25636,7 @@ _Total events: 455_
 #### 2025-09-16: Indictment released against Tyler Robinson for Kirk shooting
 
 <details>
-<summary>Mentioned in 45 episodes</summary>
+<summary>45 mentions in 26 episodes</summary>
 
 - [Charlie Kirk Shooting Suspect Charged. Somethin... @ 00:00:45](/episodes/ep-q7f8r-THr84.md#^t-00-00-01)
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#^t-00-00-01)
@@ -25689,7 +25691,7 @@ _Total events: 455_
 #### 2025-09-16: George Zinn charged with obstruction and child abuse images
 
 <details>
-<summary>Mentioned in 15 episodes</summary>
+<summary>15 mentions in 11 episodes</summary>
 
 - [Charlie Kirk Shooting Suspect Charged. Somethin... @ 00:03:31](/episodes/ep-q7f8r-THr84.md#^t-00-03-19)
 - [INSANITY! Guess Who Kash Patel Sent To Investig... @ 00:21:17](/episodes/ep-t1YtLS1n8Vs.md#^t-00-21-03)
@@ -25714,7 +25716,7 @@ _Total events: 455_
 #### 2025-09-16: Text messages released in indictment of Tyler Robinson for Charlie Kirk killing
 
 <details>
-<summary>Mentioned in 296 episodes</summary>
+<summary>296 mentions in 40 episodes</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:02:28](/episodes/ep-2WEHTk0Xewg.md#^t-00-02-22)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -26020,7 +26022,7 @@ _Total events: 455_
 #### 2025-09-16: Tucker Carlson episode discusses Charlie Kirk's views on Netanyahu and lost donations
 
 <details>
-<summary>Mentioned in 87 episodes</summary>
+<summary>87 mentions in 33 episodes</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:37:11](/episodes/ep-2WEHTk0Xewg.md#^t-00-36-35)
 - [BREAKING NEWS! The Egyptian Military Was In Pro... @ 00:00:13](/episodes/ep-iHav0PPzUz8.md#^t-00-00-00)
@@ -26117,7 +26119,7 @@ _Total events: 455_
 #### 2025-09-16: Tyler James Robinson indicted for Charlie Kirk shooting
 
 <details>
-<summary>Mentioned in 256 episodes</summary>
+<summary>256 mentions in 40 episodes</summary>
 
 - [Charlie Kirk Shooting Suspect Charged. Somethin... @ 00:00:45](/episodes/ep-q7f8r-THr84.md#^t-00-00-01)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -26383,7 +26385,7 @@ _Total events: 455_
 #### 2025-09-16: Bill Ackman tweets response to Candace Owens on Hamptons event
 
 <details>
-<summary>Mentioned in 101 episodes</summary>
+<summary>101 mentions in 39 episodes</summary>
 
 - [Charlie Kirk Shooting Suspect Charged. Somethin... @ 00:36:38](/episodes/ep-q7f8r-THr84.md#^t-00-36-12)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:33](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -26494,7 +26496,7 @@ _Total events: 455_
 #### 2025-09-17: Sheriff holds press conference on Tyler Robinson custody.
 
 <details>
-<summary>Mentioned in 46 episodes</summary>
+<summary>46 mentions in 26 episodes</summary>
 
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:40:42](/episodes/ep-sImMM04XdWY.md#^t-00-40-25)
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#^t-00-00-01)
@@ -26550,7 +26552,7 @@ _Total events: 455_
 #### 2025-09-18: Benjamin Netanyahu denies involvement in Charlie Kirk murder second time.
 
 <details>
-<summary>Mentioned in 287 episodes</summary>
+<summary>287 mentions in 40 episodes</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Ca... @ 00:00:06](/episodes/ep-sreYYcID-QY.md#^t-00-00-00)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -26847,7 +26849,7 @@ _Total events: 455_
 #### 2025-09-18: Bill Ackman publishes text messages related to Charlie Kirk.
 
 <details>
-<summary>Mentioned in 272 episodes</summary>
+<summary>272 mentions in 40 episodes</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Ca... @ 00:00:24](/episodes/ep-sreYYcID-QY.md#^t-00-00-00)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -27129,7 +27131,7 @@ _Total events: 455_
 #### 2025-09-18: Eric Bolling claims on PBD podcast Owens estranged from Kirk for years.
 
 <details>
-<summary>Mentioned in 5 episodes</summary>
+<summary>5 mentions in 4 episodes</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Ca... @ 00:00:33](/episodes/ep-sreYYcID-QY.md#^t-00-00-00)
 - [Who Moved The Camera Right Above Charlie's Head... @ 00:20:38](/episodes/ep-aDlhjfW6hz8.md#^t-00-20-25)
@@ -27144,7 +27146,7 @@ _Total events: 455_
 #### 2025-09-18: Erika Kirk appointed CEO of Turning Point USA
 
 <details>
-<summary>Mentioned in 100 episodes</summary>
+<summary>100 mentions in 39 episodes</summary>
 
 - [Operation Mocking-Plane: The Charlie Kirk Plot ... @ 00:42:28](/episodes/ep-JQjCAsfoXEE.md#^t-00-41-57)
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interv... @ 00:00:51](/episodes/ep-vwG1juDCQZQ.md#^t-00-00-45)
@@ -27254,7 +27256,7 @@ _Total events: 455_
 #### 2025-09-18: Wall Street Journal publishes article featuring Alex Clark at Kirk memorial.
 
 <details>
-<summary>Mentioned in 13 episodes</summary>
+<summary>13 mentions in 5 episodes</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9... @ 00:36:30](/episodes/ep-ozWJz2spBcI.md#^t-00-36-00)
 - [Bearing False Witness: Who Made The Charlie Kir... @ 00:00:48](/episodes/ep-UBkFkg4UNY8.md#^t-00-00-32)
@@ -27277,7 +27279,7 @@ _Total events: 455_
 #### 2025-09-18: Bill Ackman releases text messages amid Candace Owens controversy.
 
 <details>
-<summary>Mentioned in 100 episodes</summary>
+<summary>100 mentions in 39 episodes</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Ca... @ 00:00:24](/episodes/ep-sreYYcID-QY.md#^t-00-00-00)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:33](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -27387,7 +27389,7 @@ _Total events: 455_
 #### 2025-09-19: U.S. Senate passes bipartisan resolution designating October 14 as Charlie Kirk Remembrance Day
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Who Moved The Camera Right Above Charlie's Head... @ 00:01:09](/episodes/ep-aDlhjfW6hz8.md#^t-00-00-55)
 
@@ -27398,7 +27400,7 @@ _Total events: 455_
 #### 2025-09-19: White House flies flags at half staff in response to Charlie Kirk assassination
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Who Moved The Camera Right Above Charlie's Head... @ 00:39:16](/episodes/ep-aDlhjfW6hz8.md#^t-00-39-12)
 - [Who Moved The Camera Right Above Charlie's Head... @ 00:39:25](/episodes/ep-aDlhjfW6hz8.md#^t-00-39-12)
@@ -27410,7 +27412,7 @@ _Total events: 455_
 #### 2025-09-19: Jimmy Kimmel pulled off air indefinitely over comments on Charlie Kirk assassination
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Who Moved The Camera Right Above Charlie's Head... @ 00:39:06](/episodes/ep-aDlhjfW6hz8.md#^t-00-38-26)
 - [Who Moved The Camera Right Above Charlie's Head... @ 00:39:08](/episodes/ep-aDlhjfW6hz8.md#^t-00-38-26)
@@ -27422,7 +27424,7 @@ _Total events: 455_
 #### 2025-09-19: Pam Bondi calls for law enforcement action against hate speech post-Charlie Kirk assassination
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Who Moved The Camera Right Above Charlie's Head... @ 00:34:46](/episodes/ep-aDlhjfW6hz8.md#^t-00-34-12)
 - [Who Moved The Camera Right Above Charlie's Head... @ 00:34:51](/episodes/ep-aDlhjfW6hz8.md#^t-00-34-12)
@@ -27434,7 +27436,7 @@ _Total events: 455_
 #### 2025-09-19: Charlie Kirk shot and killed at Turning Point USA event.
 
 <details>
-<summary>Mentioned in 313 episodes</summary>
+<summary>313 mentions in 40 episodes</summary>
 
 - [Who Moved The Camera Right Above Charlie's Head... @ 00:00:07](/episodes/ep-aDlhjfW6hz8.md#^t-00-00-00)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -27757,7 +27759,7 @@ _Total events: 455_
 #### 2025-09-20: Andrew Kolvet tweets explanation of no exit wound as miracle in Kirk shooting.
 
 <details>
-<summary>Mentioned in 6 episodes</summary>
+<summary>6 mentions in 4 episodes</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Canda... @ 00:08:21](/episodes/ep-ja26iltROkM.md#^t-00-08-07)
 - [TPUSA RESPONDS: Yes, The Text Messages Are Real... @ 00:13:03](/episodes/ep-5autG89PW6w.md#^t-00-12-28)
@@ -27773,7 +27775,7 @@ _Total events: 455_
 #### 2025-09-20: Derek Maxfield states plane transponder turned off with ATC permission.
 
 <details>
-<summary>Mentioned in 3 episodes</summary>
+<summary>3 mentions in 2 episodes</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Canda... @ 00:17:13](/episodes/ep-ja26iltROkM.md#^t-00-17-09)
 - [BREAKING NEWS! The Egyptian Military Was In Pro... @ 00:04:28](/episodes/ep-iHav0PPzUz8.md#^t-00-04-12)
@@ -27786,7 +27788,7 @@ _Total events: 455_
 #### 2025-09-21: Erika Kirk delivers forgiveness speech at convention for husband's killer.
 
 <details>
-<summary>Mentioned in 32 episodes</summary>
+<summary>32 mentions in 18 episodes</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Canda... @ 00:00:06](/episodes/ep-ja26iltROkM.md#^t-00-00-00)
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interv... @ 00:00:51](/episodes/ep-vwG1juDCQZQ.md#^t-00-00-45)
@@ -27828,7 +27830,7 @@ _Total events: 455_
 #### 2025-09-21: Tucker Carlson speaks at convention honoring Charlie Kirk.
 
 <details>
-<summary>Mentioned in 305 episodes</summary>
+<summary>305 mentions in 40 episodes</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Canda... @ 00:02:14](/episodes/ep-ja26iltROkM.md#^t-00-02-10)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -28143,7 +28145,7 @@ _Total events: 455_
 #### 2025-09-21: Pastor delivers sermon criticizing Candace Owens and anti-Israel views.
 
 <details>
-<summary>Mentioned in 80 episodes</summary>
+<summary>80 mentions in 33 episodes</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9... @ 00:44:22](/episodes/ep-ozWJz2spBcI.md#^t-00-44-05)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:33](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -28233,7 +28235,7 @@ _Total events: 455_
 #### 2025-09-21: Erika Kirk delivers forgiveness speech at Turning Point USA convention.
 
 <details>
-<summary>Mentioned in 100 episodes</summary>
+<summary>100 mentions in 39 episodes</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Canda... @ 00:00:06](/episodes/ep-ja26iltROkM.md#^t-00-00-00)
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interv... @ 00:00:51](/episodes/ep-vwG1juDCQZQ.md#^t-00-00-45)
@@ -28343,7 +28345,7 @@ _Total events: 455_
 #### 2025-09-21: Andrew Kolvet issues statement on Charlie Kirk's bullet wound and miracle.
 
 <details>
-<summary>Mentioned in 56 episodes</summary>
+<summary>56 mentions in 25 episodes</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Canda... @ 00:08:17](/episodes/ep-ja26iltROkM.md#^t-00-08-07)
 - [BREAKING NEWS! The Egyptian Military Was In Pro... @ 00:00:13](/episodes/ep-iHav0PPzUz8.md#^t-00-00-00)
@@ -28409,7 +28411,7 @@ _Total events: 455_
 #### 2025-09-22: Kash Patel issues FBI statement on thorough Kirk assassination investigation.
 
 <details>
-<summary>Mentioned in 39 episodes</summary>
+<summary>39 mentions in 21 episodes</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Canda... @ 00:01:05](/episodes/ep-ja26iltROkM.md#^t-00-00-44)
 - [The Great Exodus From Utah? Where Did The "Egyp... @ 00:05:19](/episodes/ep-581dILVcEE4.md#^t-00-05-00)
@@ -28458,7 +28460,7 @@ _Total events: 455_
 #### 2025-09-22: Alex Jones live on X criticizes TPUSA bullet wound miracle claim.
 
 <details>
-<summary>Mentioned in 8 episodes</summary>
+<summary>8 mentions in 5 episodes</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Canda... @ 00:12:12](/episodes/ep-ja26iltROkM.md#^t-00-11-35)
 - [INSANITY! Guess Who Kash Patel Sent To Investig... @ 00:21:17](/episodes/ep-t1YtLS1n8Vs.md#^t-00-21-03)
@@ -28476,7 +28478,7 @@ _Total events: 455_
 #### 2025-09-23: Trump advocates separating MMR vaccines and removing mercury, aluminum
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Bearing False Witness: Who Made The Charlie Kir... @ 00:47:34](/episodes/ep-UBkFkg4UNY8.md#^t-00-46-51)
 
@@ -28487,7 +28489,7 @@ _Total events: 455_
 #### 2025-09-23: Donald Trump states vaccines should separate MMR, eliminate mercury and aluminum
 
 <details>
-<summary>Mentioned in 43 episodes</summary>
+<summary>43 mentions in 26 episodes</summary>
 
 - [Bearing False Witness: Who Made The Charlie Kir... @ 00:47:40](/episodes/ep-UBkFkg4UNY8.md#^t-00-47-35)
 - [They Are Lying About Tyler Robinson. | Candace ... @ 00:03:13](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-03-03)
@@ -28540,7 +28542,7 @@ _Total events: 455_
 #### 2025-09-24: FBI pressures Utah authorities to close Charlie Kirk case as lone gunman.
 
 <details>
-<summary>Mentioned in 254 episodes</summary>
+<summary>254 mentions in 40 episodes</summary>
 
 - [BREAKING NEWS: FBI Pressuring Utah To Close The... @ 00:01:35](/episodes/ep-QZWSsq8ZWzw.md#^t-00-01-30)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -28804,7 +28806,7 @@ _Total events: 455_
 #### 2025-09-24: Shooting at ICE facility in Dallas with anti-ICE ammo
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [BREAKING NEWS: FBI Pressuring Utah To Close The... @ 00:44:58](/episodes/ep-QZWSsq8ZWzw.md#^t-00-44-45)
 
@@ -28815,7 +28817,7 @@ _Total events: 455_
 #### 2025-09-24: Turning Point allegedly sold memorial merchandise, raising over $80 million in the first three weeks.
 
 <details>
-<summary>Mentioned in 98 episodes</summary>
+<summary>98 mentions in 39 episodes</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:26:22](/episodes/ep-his-JBjlkh8.md#^t-00-25-49)
 - [TPUSA RESPONDS: Yes, The Text Messages Are Real... @ 00:01:44](/episodes/ep-5autG89PW6w.md#^t-00-01-22)
@@ -28923,7 +28925,7 @@ _Total events: 455_
 #### 2025-09-24: Turning Point USA reportedly raised about $90 million in the first couple weeks following the assassination.
 
 <details>
-<summary>Mentioned in 71 episodes</summary>
+<summary>71 mentions in 37 episodes</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:28:45](/episodes/ep-a-e7HC6SeK8.md#^t-00-28-13)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)
@@ -29004,7 +29006,7 @@ _Total events: 455_
 #### 2025-09-27: Phil Lyman meets Tim Ballard while in town amid Kirk assassination investigation.
 
 <details>
-<summary>Mentioned in 13 episodes</summary>
+<summary>13 mentions in 5 episodes</summary>
 
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:05:48](/episodes/ep-YA1FxrDWNIo.md#^t-00-05-38)
 - [BREAKING NEWS: A Woman Was Seen With Charlie Ki... @ 00:03:37](/episodes/ep-adJ4LNGp84I.md#^t-00-02-54)
@@ -29027,7 +29029,7 @@ _Total events: 455_
 #### 2025-09-28: Phil Lyman makes unannounced visit to UVU student Nick's house
 
 <details>
-<summary>Mentioned in 13 episodes</summary>
+<summary>13 mentions in 5 episodes</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace ... @ 00:24:54](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-24-17)
 - [BREAKING NEWS: A Woman Was Seen With Charlie Ki... @ 00:03:37](/episodes/ep-adJ4LNGp84I.md#^t-00-02-54)
@@ -29050,7 +29052,7 @@ _Total events: 455_
 #### 2025-09-29: Shaner Broderick wipes LinkedIn, deletes Facebook, privatizes Instagram.
 
 <details>
-<summary>Mentioned in 4 episodes</summary>
+<summary>4 mentions in 2 episodes</summary>
 
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:07:29](/episodes/ep-YA1FxrDWNIo.md#^t-00-06-55)
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:02:50](/episodes/ep-YA1FxrDWNIo.md#^t-00-02-13)
@@ -29064,7 +29066,7 @@ _Total events: 455_
 #### 2025-09-30: Article accuses Sean Foyt of mismanaging Turning Point USA funds
 
 <details>
-<summary>Mentioned in 72 episodes</summary>
+<summary>72 mentions in 37 episodes</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | ... @ 00:32:31](/episodes/ep-yAIb-NuUh_U.md#^t-00-32-11)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)
@@ -29146,7 +29148,7 @@ _Total events: 455_
 #### 2025-09-30: Marjorie Taylor Greene tweets she is not suicidal
 
 <details>
-<summary>Mentioned in 4 episodes</summary>
+<summary>4 mentions in 2 episodes</summary>
 
 - [INSANITY! Guess Who Kash Patel Sent To Investig... @ 00:36:36](/episodes/ep-t1YtLS1n8Vs.md#^t-00-36-29)
 - [INSANITY! Guess Who Kash Patel Sent To Investig... @ 00:36:29](/episodes/ep-t1YtLS1n8Vs.md#^t-00-35-47)
@@ -29160,7 +29162,7 @@ _Total events: 455_
 #### 2025-09-30: Turning Point USA holds event at Utah State University
 
 <details>
-<summary>Mentioned in 76 episodes</summary>
+<summary>76 mentions in 37 episodes</summary>
 
 - [BREAKING NEWS: A Woman Was Seen With Charlie Ki... @ 00:41:54](/episodes/ep-adJ4LNGp84I.md#^t-00-41-25)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)
@@ -29246,7 +29248,7 @@ _Total events: 455_
 #### 2025-09-30: Benjamin Netanyahu releases Charlie Kirk's May pro-Israel letter publicly.
 
 <details>
-<summary>Mentioned in 42 episodes</summary>
+<summary>42 mentions in 24 episodes</summary>
 
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:01:30](/episodes/ep-YA1FxrDWNIo.md#^t-00-00-39)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:04:24](/episodes/ep-K5GjF53bfN4.md#^t-00-04-07)
@@ -29298,7 +29300,7 @@ _Total events: 455_
 #### 2025-09-30: Marjorie Taylor Greene declares she is not suicidal regarding Epstein files.
 
 <details>
-<summary>Mentioned in 4 episodes</summary>
+<summary>4 mentions in 2 episodes</summary>
 
 - [INSANITY! Guess Who Kash Patel Sent To Investig... @ 00:36:36](/episodes/ep-t1YtLS1n8Vs.md#^t-00-36-29)
 - [INSANITY! Guess Who Kash Patel Sent To Investig... @ 00:36:29](/episodes/ep-t1YtLS1n8Vs.md#^t-00-35-47)
@@ -29314,7 +29316,7 @@ _Total events: 455_
 #### 2025-10-01: Charlie Kirk assassinated at TPUSA event at Utah Valley University in Orem
 
 <details>
-<summary>Mentioned in 262 episodes</summary>
+<summary>262 mentions in 40 episodes</summary>
 
 - [INSANITY! Guess Who Kash Patel Sent To Investig... @ 00:00:14](/episodes/ep-t1YtLS1n8Vs.md#^t-00-00-00)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -29586,7 +29588,7 @@ _Total events: 455_
 #### 2025-10-01: FBI Director Kash Patel announces end of partnership with ADL via tweet
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [INSANITY! Guess Who Kash Patel Sent To Investig... @ 00:01:21](/episodes/ep-t1YtLS1n8Vs.md#^t-00-00-42)
 
@@ -29597,7 +29599,7 @@ _Total events: 455_
 #### 2025-10-01: ADL issues statement responding to FBI's decision to cut ties
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [INSANITY! Guess Who Kash Patel Sent To Investig... @ 00:10:01](/episodes/ep-t1YtLS1n8Vs.md#^t-00-09-50)
 
@@ -29608,7 +29610,7 @@ _Total events: 455_
 #### 2025-10-01: FBI sends Connecticut field office to investigate Kirk assassination at UVU
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [INSANITY! Guess Who Kash Patel Sent To Investig... @ 00:13:12](/episodes/ep-t1YtLS1n8Vs.md#^t-00-12-45)
 
@@ -29619,7 +29621,7 @@ _Total events: 455_
 #### 2025-10-01: US government votes against releasing Epstein files
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [INSANITY! Guess Who Kash Patel Sent To Investig... @ 00:36:17](/episodes/ep-t1YtLS1n8Vs.md#^t-00-35-47)
 
@@ -29630,7 +29632,7 @@ _Total events: 455_
 #### 2025-10-01: Benjamin Netanyahu meets US influencers on evangelical support and social media
 
 <details>
-<summary>Mentioned in 42 episodes</summary>
+<summary>42 mentions in 24 episodes</summary>
 
 - [BREAKING NEWS: A Woman Was Seen With Charlie Ki... @ 00:26:12](/episodes/ep-adJ4LNGp84I.md#^t-00-25-54)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:04:24](/episodes/ep-K5GjF53bfN4.md#^t-00-04-07)
@@ -29682,7 +29684,7 @@ _Total events: 455_
 #### 2025-10-01: ADL issues statement respecting FBI decision amid surge in anti-Semitism.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [INSANITY! Guess Who Kash Patel Sent To Investig... @ 00:10:01](/episodes/ep-t1YtLS1n8Vs.md#^t-00-09-50)
 
@@ -29693,7 +29695,7 @@ _Total events: 455_
 #### 2025-10-05: TPUSA Action COO Tyler Bowyer goes on X posting spree defending organization.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9... @ 00:00:27](/episodes/ep-ozWJz2spBcI.md#^t-00-00-00)
 
@@ -29704,7 +29706,7 @@ _Total events: 455_
 #### 2025-10-06: Candace Owens releases screenshots of Charlie Kirk's text messages criticizing Israel
 
 <details>
-<summary>Mentioned in 111 episodes</summary>
+<summary>111 mentions in 35 episodes</summary>
 
 - [TPUSA RESPONDS: Yes, The Text Messages Are Real... @ 00:00:22](/episodes/ep-5autG89PW6w.md#^t-00-00-00)
 - [BREAKING NEWS! The Egyptian Military Was In Pro... @ 00:00:13](/episodes/ep-iHav0PPzUz8.md#^t-00-00-00)
@@ -29825,7 +29827,7 @@ _Total events: 455_
 #### 2025-10-07: TPUSA spokesperson Andrew Kolvet confirms leaked text messages are authentic
 
 <details>
-<summary>Mentioned in 6 episodes</summary>
+<summary>6 mentions in 4 episodes</summary>
 
 - [TPUSA RESPONDS: Yes, The Text Messages Are Real... @ 00:13:40](/episodes/ep-5autG89PW6w.md#^t-00-13-12)
 - [TPUSA RESPONDS: Yes, The Text Messages Are Real... @ 00:13:03](/episodes/ep-5autG89PW6w.md#^t-00-12-28)
@@ -29841,7 +29843,7 @@ _Total events: 455_
 #### 2025-10-07: TPUSA donors John and Irina Mappin publish letter supporting Candace Owens
 
 <details>
-<summary>Mentioned in 80 episodes</summary>
+<summary>80 mentions in 34 episodes</summary>
 
 - [TPUSA RESPONDS: Yes, The Text Messages Are Real... @ 00:00:39](/episodes/ep-5autG89PW6w.md#^t-00-00-00)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:33](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -29931,7 +29933,7 @@ _Total events: 455_
 #### 2025-10-08: Josh Hammer releases text messages with Charlie Kirk
 
 <details>
-<summary>Mentioned in 278 episodes</summary>
+<summary>278 mentions in 40 episodes</summary>
 
 - [REVELATIONS: The Truth About Charlie's Medical ... @ 00:45:03](/episodes/ep-pc3pxRyNFZk.md#^t-00-44-21)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -30219,7 +30221,7 @@ _Total events: 455_
 #### 2025-10-08: Israel and Hamas sign first phase of US-brokered peace plan
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [REVELATIONS: The Truth About Charlie's Medical ... @ 00:46:52](/episodes/ep-pc3pxRyNFZk.md#^t-00-46-21)
 
@@ -30230,7 +30232,7 @@ _Total events: 455_
 #### 2025-10-08: Dinesh D'Souza tweets criticizing Candace Owens show.
 
 <details>
-<summary>Mentioned in 81 episodes</summary>
+<summary>81 mentions in 33 episodes</summary>
 
 - [Charlie's Final Hours. What Else Is Josh Hammer... @ 00:47:43](/episodes/ep-2Riv3I7D0Yk.md#^t-00-47-00)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:33](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -30321,7 +30323,7 @@ _Total events: 455_
 #### 2025-10-11: Candace Owens tweets about Egyptian military plane leaving Provo
 
 <details>
-<summary>Mentioned in 80 episodes</summary>
+<summary>80 mentions in 33 episodes</summary>
 
 - [Operation Mocking-Plane: The Charlie Kirk Plot ... @ 00:05:44](/episodes/ep-JQjCAsfoXEE.md#^t-00-05-00)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:33](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -30411,7 +30413,7 @@ _Total events: 455_
 #### 2025-10-14: President Trump establishes October 14 as National Day of Remembrance for Charlie Kirk.
 
 <details>
-<summary>Mentioned in 256 episodes</summary>
+<summary>256 mentions in 40 episodes</summary>
 
 - [Why Isn't The Trump Family Asking Questions Abo... @ 00:00:26](/episodes/ep-Qt0VHV-POCg.md#^t-00-00-00)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -30677,7 +30679,7 @@ _Total events: 455_
 #### 2025-10-15: Charlie Kirk assassinated in Phoenix, Arizona by alleged shooter Marcus Hale
 
 <details>
-<summary>Mentioned in 254 episodes</summary>
+<summary>254 mentions in 40 episodes</summary>
 
 - [Why Is Everyone Crashing Out Over The Charlie K... @ 00:00:16](/episodes/ep-YaZfwLQ7vrI.md#^t-00-00-00)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -30941,7 +30943,7 @@ _Total events: 455_
 #### 2025-10-15: Feds seize all footage from Timpanogos Hospital after Charlie Kirk shooting
 
 <details>
-<summary>Mentioned in 255 episodes</summary>
+<summary>255 mentions in 40 episodes</summary>
 
 - [Why Is Everyone Crashing Out Over The Charlie K... @ 00:02:01](/episodes/ep-YaZfwLQ7vrI.md#^t-00-01-21)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -31206,7 +31208,7 @@ _Total events: 455_
 #### 2025-10-15: Turning Point USA misses IRS Form 990 extension deadline for FY2024
 
 <details>
-<summary>Mentioned in 71 episodes</summary>
+<summary>71 mentions in 37 episodes</summary>
 
 - [Operation Mocking-Plane: The Charlie Kirk Plot ... @ 00:33:34](/episodes/ep-JQjCAsfoXEE.md#^t-00-32-54)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)
@@ -31287,7 +31289,7 @@ _Total events: 455_
 #### 2025-10-15: Mike Huckabee and David Friedman performed 'Sweet Home Jerusalem' on stage in Jerusalem.
 
 <details>
-<summary>Mentioned in 4 episodes</summary>
+<summary>4 mentions in 1 episode</summary>
 
 - [Operation: “See you in Valhalla, Charlie”. | Ca... @ 00:25:28](/episodes/ep-mKXdKV-OBog.md#^t-00-24-49)
 - [Operation: “See you in Valhalla, Charlie”. | Ca... @ 00:25:05](/episodes/ep-mKXdKV-OBog.md#^t-00-24-49)
@@ -31301,7 +31303,7 @@ _Total events: 455_
 #### 2025-10-15: Ben Shapiro interviews Israeli Prime Minister Benjamin Netanyahu.
 
 <details>
-<summary>Mentioned in 14 episodes</summary>
+<summary>14 mentions in 9 episodes</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:20:00](/episodes/ep-r1PS67aRmcA.md#^t-00-19-31)
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:03:15](/episodes/ep-r1PS67aRmcA.md#^t-00-02-49)
@@ -31325,7 +31327,7 @@ _Total events: 455_
 #### 2025-10-17: Charlie Kirk assassinated at TPUSA UVU campus event; Tyler Robinson in custody.
 
 <details>
-<summary>Mentioned in 295 episodes</summary>
+<summary>295 mentions in 40 episodes</summary>
 
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interv... @ 00:00:51](/episodes/ep-vwG1juDCQZQ.md#^t-00-00-45)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -31630,7 +31632,7 @@ _Total events: 455_
 #### 2025-10-27: Tyler Robinson appears in court via Zoom without showing face
 
 <details>
-<summary>Mentioned in 46 episodes</summary>
+<summary>46 mentions in 26 episodes</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage ... @ 00:53:14](/episodes/ep-c5BcKF91iec.md#^t-00-52-57)
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#^t-00-00-01)
@@ -31686,7 +31688,7 @@ _Total events: 455_
 #### 2025-10-28: New York Times reports Kash Patel alarmed by Joe Kent office inquiry into Charlie Kirk case.
 
 <details>
-<summary>Mentioned in 293 episodes</summary>
+<summary>293 mentions in 40 episodes</summary>
 
 - [Why Isn't The Trump Family Asking Questions Abo... @ 00:20:54](/episodes/ep-Qt0VHV-POCg.md#^t-00-20-35)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -31989,7 +31991,7 @@ _Total events: 455_
 #### 2025-10-29: Daily Mail publishes Kash Patel shutting down Kirk foreign intelligence probe
 
 <details>
-<summary>Mentioned in 41 episodes</summary>
+<summary>41 mentions in 23 episodes</summary>
 
 - [BREAKING NEWS! The Egyptian Military Was In Pro... @ 00:21:26](/episodes/ep-iHav0PPzUz8.md#^t-00-21-04)
 - [The Great Exodus From Utah? Where Did The "Egyp... @ 00:05:19](/episodes/ep-581dILVcEE4.md#^t-00-05-00)
@@ -32042,7 +32044,7 @@ _Total events: 455_
 #### 2025-11-02: Lindsey Graham at Republican Jewish Coalition says anti-Israel views disqualify Republicans.
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists... @ 00:01:30](/episodes/ep-K1tFD7FfoCU.md#^t-00-00-46)
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists... @ 00:00:36](/episodes/ep-K1tFD7FfoCU.md#^t-00-00-00)
@@ -32054,7 +32056,7 @@ _Total events: 455_
 #### 2025-11-02: Randy Fine at Republican Jewish Coalition calls Tucker Carlson dangerous anti-Semite, not MAGA.
 
 <details>
-<summary>Mentioned in 60 episodes</summary>
+<summary>60 mentions in 29 episodes</summary>
 
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists... @ 00:02:28](/episodes/ep-K1tFD7FfoCU.md#^t-00-02-14)
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:04:12](/episodes/ep-r1PS67aRmcA.md#^t-00-03-33)
@@ -32124,7 +32126,7 @@ _Total events: 455_
 #### 2025-11-02: FBI Director Kash Patel tweets defending girlfriend Alexis from criticism over plane use.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists... @ 00:00:46](/episodes/ep-K1tFD7FfoCU.md#^t-00-00-00)
 
@@ -32135,7 +32137,7 @@ _Total events: 455_
 #### 2025-11-03: Ben Shapiro criticizes Tucker Carlson on show for hosting Nick Fuentes, calls him coward.
 
 <details>
-<summary>Mentioned in 75 episodes</summary>
+<summary>75 mentions in 31 episodes</summary>
 
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists... @ 00:00:18](/episodes/ep-K1tFD7FfoCU.md#^t-00-00-00)
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:04:12](/episodes/ep-r1PS67aRmcA.md#^t-00-03-33)
@@ -32220,7 +32222,7 @@ _Total events: 455_
 #### 2025-11-03: Jerusalem Post falsely reports Erika Kirk accepting posthumous Israel award for Charlie Kirk.
 
 <details>
-<summary>Mentioned in 276 episodes</summary>
+<summary>276 mentions in 40 episodes</summary>
 
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists... @ 00:20:55](/episodes/ep-K1tFD7FfoCU.md#^t-00-20-31)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -32506,7 +32508,7 @@ _Total events: 455_
 #### 2025-11-03: Erika Kirk interviewed by Jesse Watters; preview clip calls for cameras in trial.
 
 <details>
-<summary>Mentioned in 31 episodes</summary>
+<summary>31 mentions in 18 episodes</summary>
 
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists... @ 00:00:36](/episodes/ep-K1tFD7FfoCU.md#^t-00-00-00)
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interv... @ 00:00:51](/episodes/ep-vwG1juDCQZQ.md#^t-00-00-45)
@@ -32547,7 +32549,7 @@ _Total events: 455_
 #### 2025-11-05: Candace Owens Show reaches number one globally
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Why Is Everyone Crashing Out Over The Charlie K... @ 00:28:08](/episodes/ep-YaZfwLQ7vrI.md#^t-00-27-42)
 
@@ -32558,7 +32560,7 @@ _Total events: 455_
 #### 2025-11-05: Zohran Mamdani wins New York City mayoral election against Andrew Cuomo.
 
 <details>
-<summary>Mentioned in 7 episodes</summary>
+<summary>7 mentions in 3 episodes</summary>
 
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAG... @ 00:00:05](/episodes/ep-LATnak75Si0.md#^t-00-00-00)
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAG... @ 00:00:00](/episodes/ep-LATnak75Si0.md#^t-00-00-00)
@@ -32575,7 +32577,7 @@ _Total events: 455_
 #### 2025-11-05: Brett Cooper accused of being the new Hitler by critics.
 
 <details>
-<summary>Mentioned in 10 episodes</summary>
+<summary>10 mentions in 2 episodes</summary>
 
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAG... @ 00:00:38](/episodes/ep-LATnak75Si0.md#^t-00-00-00)
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAG... @ 00:06:31](/episodes/ep-LATnak75Si0.md#^t-00-06-20)
@@ -32595,7 +32597,7 @@ _Total events: 455_
 #### 2025-11-05: Pentagon grants press pass to conservative activist Laura Loomer.
 
 <details>
-<summary>Mentioned in 8 episodes</summary>
+<summary>8 mentions in 5 episodes</summary>
 
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAG... @ 00:47:39](/episodes/ep-LATnak75Si0.md#^t-00-46-55)
 - [Erika Kirk Forgives. The Feds Forget... | Canda... @ 00:30:37](/episodes/ep-ja26iltROkM.md#^t-00-30-33)
@@ -32613,7 +32615,7 @@ _Total events: 455_
 #### 2025-11-05: Zohran Mamdani wins New York City Democratic primary for mayor race.
 
 <details>
-<summary>Mentioned in 3 episodes</summary>
+<summary>3 mentions in 1 episode</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:04:32](/episodes/ep-r1PS67aRmcA.md#^t-00-04-12)
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:30](/episodes/ep-r1PS67aRmcA.md#^t-00-05-14)
@@ -32626,7 +32628,7 @@ _Total events: 455_
 #### 2025-11-05: In early November 2025, Candace publicly raised suspicion about members of UVU's soccer team wearing hoodies.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:17:02](/episodes/ep-his-JBjlkh8.md#^t-00-16-49)
 
@@ -32637,7 +32639,7 @@ _Total events: 455_
 #### 2025-11-06: Candace Owens' podcast reaches number one worldwide ranking per Podscribe data.
 
 <details>
-<summary>Mentioned in 80 episodes</summary>
+<summary>80 mentions in 33 episodes</summary>
 
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interv... @ 00:00:07](/episodes/ep-vwG1juDCQZQ.md#^t-00-00-00)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:33](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -32727,7 +32729,7 @@ _Total events: 455_
 #### 2025-11-07: Ben Shapiro joins Megyn Kelly on her tour stop in Florida and criticizes Owens, Carlson.
 
 <details>
-<summary>Mentioned in 41 episodes</summary>
+<summary>41 mentions in 22 episodes</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:18](/episodes/ep-r1PS67aRmcA.md#^t-00-00-00)
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:03:15](/episodes/ep-r1PS67aRmcA.md#^t-00-02-49)
@@ -32778,7 +32780,7 @@ _Total events: 455_
 #### 2025-11-08: Eric and Lara Trump speak at recent TPUSA event at Auburn University.
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:39:11](/episodes/ep-r1PS67aRmcA.md#^t-00-39-03)
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:39:07](/episodes/ep-r1PS67aRmcA.md#^t-00-39-03)
@@ -32790,7 +32792,7 @@ _Total events: 455_
 #### 2025-11-09: Shawna Rae Kirkhoff identified as January 6 pipe bomber by Steve Baker
 
 <details>
-<summary>Mentioned in 5 episodes</summary>
+<summary>5 mentions in 1 episode</summary>
 
 - [Why Is Everyone Crashing Out Over The Charlie K... @ 00:08:05](/episodes/ep-YaZfwLQ7vrI.md#^t-00-07-31)
 - [Why Is Everyone Crashing Out Over The Charlie K... @ 00:08:21](/episodes/ep-YaZfwLQ7vrI.md#^t-00-08-05)
@@ -32805,7 +32807,7 @@ _Total events: 455_
 #### 2025-11-10 10:16: Tucker Carlson texts Mark Levin proposing debate at TPUSA event
 
 <details>
-<summary>Mentioned in 57 episodes</summary>
+<summary>57 mentions in 29 episodes</summary>
 
 - [Why Is Everyone Crashing Out Over The Charlie K... @ 00:39:10](/episodes/ep-YaZfwLQ7vrI.md#^t-00-39-04)
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:04:12](/episodes/ep-r1PS67aRmcA.md#^t-00-03-33)
@@ -32872,7 +32874,7 @@ _Total events: 455_
 #### 2025-11-11: Megyn Kelly released backstage video of Charlie Kirk urging Tucker Carlson to go max.
 
 <details>
-<summary>Mentioned in 325 episodes</summary>
+<summary>325 mentions in 40 episodes</summary>
 
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying ... @ 00:12:03](/episodes/ep-MUA9ebCF4Ow.md#^t-00-11-22)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -33207,7 +33209,7 @@ _Total events: 455_
 #### 2025-11-12: Tucker Carlson defends Candace Owens against calls to denounce her
 
 <details>
-<summary>Mentioned in 127 episodes</summary>
+<summary>127 mentions in 40 episodes</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | ... @ 00:40:04](/episodes/ep-yAIb-NuUh_U.md#^t-00-40-00)
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:04:12](/episodes/ep-r1PS67aRmcA.md#^t-00-03-33)
@@ -33344,7 +33346,7 @@ _Total events: 455_
 #### 2025-11-13: Frank Turek criticizes Candace Owens on CBN News over Charlie Kirk claims
 
 <details>
-<summary>Mentioned in 335 episodes</summary>
+<summary>335 mentions in 41 episodes</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | ... @ 00:02:00](/episodes/ep-yAIb-NuUh_U.md#^t-00-01-32)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -33689,7 +33691,7 @@ _Total events: 455_
 #### 2025-11-13: Allie Stuckey releases video mocking Candace Owens' dream about Charlie Kirk
 
 <details>
-<summary>Mentioned in 325 episodes</summary>
+<summary>325 mentions in 40 episodes</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | ... @ 00:04:24](/episodes/ep-yAIb-NuUh_U.md#^t-00-03-41)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -34024,7 +34026,7 @@ _Total events: 455_
 #### 2025-11-15: Turning Point USA tax filing deadline passes without public submission despite extension.
 
 <details>
-<summary>Mentioned in 70 episodes</summary>
+<summary>70 mentions in 37 episodes</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyp... @ 00:01:15](/episodes/ep-581dILVcEE4.md#^t-00-00-44)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)
@@ -34104,7 +34106,7 @@ _Total events: 455_
 #### 2025-11-15: Paris Jackson loses court case over Michael Jackson's legacy and catalog
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [From Britney To Charlie. With Pastors Like Thes... @ 00:24:13](/episodes/ep-7RLtGgkTh9o.md#^t-00-23-52)
 
@@ -34115,7 +34117,7 @@ _Total events: 455_
 #### 2025-11-16: Rob McCoy speaks at Jerusalem event celebrating Charlie Kirk's life amid controversy.
 
 <details>
-<summary>Mentioned in 68 episodes</summary>
+<summary>68 mentions in 25 episodes</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyp... @ 00:38:37](/episodes/ep-581dILVcEE4.md#^t-00-38-23)
 - [The Great Exodus From Utah? Where Did The "Egyp... @ 00:00:05](/episodes/ep-581dILVcEE4.md#^t-00-00-00)
@@ -34193,7 +34195,7 @@ _Total events: 455_
 #### 2025-11-18: President Donald Trump pardoned Tyler Bowyer (pardon referenced as occurring a couple weeks earlier).
 
 <details>
-<summary>Mentioned in 22 episodes</summary>
+<summary>22 mentions in 16 episodes</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:13:33](/episodes/ep-a-e7HC6SeK8.md#^t-00-13-20)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:30:00](/episodes/ep-SKGUzGHymcI.md#^t-00-29-52)
@@ -34225,7 +34227,7 @@ _Total events: 455_
 #### 2025-11-25: Candace Owens tweets warning of Macron-funded assassination plot.
 
 <details>
-<summary>Mentioned in 80 episodes</summary>
+<summary>80 mentions in 33 episodes</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:02:49](/episodes/ep-tB5SXXmd9vU.md#^t-00-02-25)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:33](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -34315,7 +34317,7 @@ _Total events: 455_
 #### 2025-11-25: Candace Owens posted a tweet alleging Macron paid for her assassination and implicated French units.
 
 <details>
-<summary>Mentioned in 80 episodes</summary>
+<summary>80 mentions in 33 episodes</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:02:49](/episodes/ep-tB5SXXmd9vU.md#^t-00-02-25)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:33](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -34407,7 +34409,7 @@ _Total events: 455_
 #### 2025-12-01: Details of Richards case made public when his ex-wife filed a civil suit this month.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:08:00](/episodes/ep-a-e7HC6SeK8.md#^t-00-07-45)
 
@@ -34418,7 +34420,7 @@ _Total events: 455_
 #### 2025-12-01: Lawsuit reportedly filed by Brigitte and Emmanuel Macron against Candace Owens, referenced in prior episode.
 
 <details>
-<summary>Mentioned in 86 episodes</summary>
+<summary>86 mentions in 34 episodes</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:01:56](/episodes/ep-a-e7HC6SeK8.md#^t-00-01-30)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:33](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -34514,7 +34516,7 @@ _Total events: 455_
 #### 2025-12-01: Élysée Palace issued an official response (characterized in transcript as no substantive reply) to Owens' allegations.
 
 <details>
-<summary>Mentioned in 5 episodes</summary>
+<summary>5 mentions in 2 episodes</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:08:27](/episodes/ep-tB5SXXmd9vU.md#^t-00-08-00)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:24:47](/episodes/ep-ZAuuSq_j2_w.md#^t-00-24-28)
@@ -34529,7 +34531,7 @@ _Total events: 455_
 #### 2025-12-01: White House confirmed Owens' message was delivered to President Trump's desk, per Owens' account.
 
 <details>
-<summary>Mentioned in 23 episodes</summary>
+<summary>23 mentions in 14 episodes</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:14:22](/episodes/ep-tB5SXXmd9vU.md#^t-00-14-00)
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:09:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-08-40)
@@ -34562,7 +34564,7 @@ _Total events: 455_
 #### 2025-12-01: Brigitte Macron is reported to be suing U.S. podcaster Candace Owens for defamation.
 
 <details>
-<summary>Mentioned in 108 episodes</summary>
+<summary>108 mentions in 35 episodes</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:05:28](/episodes/ep-tB5SXXmd9vU.md#^t-00-05-08)
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:00:51](/episodes/ep-sImMM04XdWY.md#^t-00-00-39)
@@ -34680,7 +34682,7 @@ _Total events: 455_
 #### 2025-12-01: French Ministry of the Armed Forces stated Tyler Robinson never served in the French Foreign Legion.
 
 <details>
-<summary>Mentioned in 57 episodes</summary>
+<summary>57 mentions in 27 episodes</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:18:27](/episodes/ep-tB5SXXmd9vU.md#^t-00-18-18)
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#^t-00-00-01)
@@ -34747,7 +34749,7 @@ _Total events: 455_
 #### 2025-12-01: Release/episodes of the documentary series 'Becoming Brigitte' discussing Brigitte Macron's past.
 
 <details>
-<summary>Mentioned in 9 episodes</summary>
+<summary>9 mentions in 6 episodes</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:10:41](/episodes/ep-tB5SXXmd9vU.md#^t-00-10-07)
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:08:03](/episodes/ep-sImMM04XdWY.md#^t-00-07-38)
@@ -34766,7 +34768,7 @@ _Total events: 455_
 #### 2025-12-01: Telegram founder Pavel Durov publicly commented in support of Owens' assertions about France.
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:11:01](/episodes/ep-tB5SXXmd9vU.md#^t-00-10-50)
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:10:50](/episodes/ep-tB5SXXmd9vU.md#^t-00-10-07)
@@ -34778,7 +34780,7 @@ _Total events: 455_
 #### 2025-12-01: Freddie Ponton published the article 'Past as Prologue: Safari Club Illuminates Candace Owens' Allegations'.
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:11:47](/episodes/ep-tB5SXXmd9vU.md#^t-00-11-17)
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:11:01](/episodes/ep-tB5SXXmd9vU.md#^t-00-10-50)
@@ -34790,7 +34792,7 @@ _Total events: 455_
 #### 2025-12-01: Charlie Kirk was reported to have been shot in the neck, prompting investigation and discussion on the show.
 
 <details>
-<summary>Mentioned in 255 episodes</summary>
+<summary>255 mentions in 40 episodes</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:49:04](/episodes/ep-tB5SXXmd9vU.md#^t-00-48-53)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -35055,7 +35057,7 @@ _Total events: 455_
 #### 2025-12-01: Host-run YouTube poll reached 24,856 votes with 93% responding 'yes' to the posed question.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:54:23](/episodes/ep-tB5SXXmd9vU.md#^t-00-53-46)
 
@@ -35066,7 +35068,7 @@ _Total events: 455_
 #### 2025-12-01: Claim that Charlie Kirk died and was publicly executed, with people daring others to question narrative.
 
 <details>
-<summary>Mentioned in 254 episodes</summary>
+<summary>254 mentions in 40 episodes</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:56:53](/episodes/ep-tB5SXXmd9vU.md#^t-00-56-36)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -35330,7 +35332,7 @@ _Total events: 455_
 #### 2025-12-01: Allegation that National Guard regiments, French Foreign Legionnaires, and Israelis were present at the incident; 12 Israeli cell phones referenced.
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:59:06](/episodes/ep-tB5SXXmd9vU.md#^t-00-58-43)
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:59:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-58-43)
@@ -35342,7 +35344,7 @@ _Total events: 455_
 #### 2025-12-01: Report that Utah Valley University (UVU) students did not recognize participants, suggesting military personnel involvement.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:59:06](/episodes/ep-tB5SXXmd9vU.md#^t-00-58-43)
 
@@ -35353,7 +35355,7 @@ _Total events: 455_
 #### 2025-12-01: Claim regarding Jean-Michel Trogneux/Brigitte family identity, alleging a staged transition and powerful family cover-up.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:59:46](/episodes/ep-tB5SXXmd9vU.md#^t-00-59-13)
 
@@ -35364,7 +35366,7 @@ _Total events: 455_
 #### 2025-12-01: Reference to an ongoing lawsuit involving Candace Owens and claims the federal government may bankrupt them.
 
 <details>
-<summary>Mentioned in 80 episodes</summary>
+<summary>80 mentions in 33 episodes</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 01:01:05](/episodes/ep-tB5SXXmd9vU.md#^t-01-00-34)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:33](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -35454,7 +35456,7 @@ _Total events: 455_
 #### 2025-12-02: Fortune publishes article on Candace Owens media empire and Macron lawsuit.
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:46:46](/episodes/ep-his-JBjlkh8.md#^t-00-46-24)
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:46:47](/episodes/ep-his-JBjlkh8.md#^t-00-46-24)
@@ -35466,7 +35468,7 @@ _Total events: 455_
 #### 2025-12-02: Turning Point USA issued a formal public response and invited Candace Owens to ask questions.
 
 <details>
-<summary>Mentioned in 146 episodes</summary>
+<summary>146 mentions in 39 episodes</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:00:20](/episodes/ep-his-JBjlkh8.md#^t-00-00-00)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)
@@ -35622,7 +35624,7 @@ _Total events: 455_
 #### 2025-12-02: A fed tip alleged TPUSA requested suppression of reporting about Egyptian planes (tip reported on the show).
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:37:26](/episodes/ep-a-e7HC6SeK8.md#^t-00-36-55)
 
@@ -35633,7 +35635,7 @@ _Total events: 455_
 #### 2025-12-02: Reference to the assassination of 'Charlie' (discussed as a recent/high-profile killing).
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:44:59](/episodes/ep-a-e7HC6SeK8.md#^t-00-44-40)
 
@@ -35644,7 +35646,7 @@ _Total events: 455_
 #### 2025-12-02: Recent Malibu wildfires referenced as an inexplicable/coastal disaster event.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:45:09](/episodes/ep-a-e7HC6SeK8.md#^t-00-44-40)
 
@@ -35655,7 +35657,7 @@ _Total events: 455_
 #### 2025-12-02: Recent severe Texas floods referenced as part of inexplicable natural disaster pattern.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:45:09](/episodes/ep-a-e7HC6SeK8.md#^t-00-44-40)
 
@@ -35666,7 +35668,7 @@ _Total events: 455_
 #### 2025-12-02: Envoys being sent to Russia and Israel and related diplomatic meetings occurring.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:46:48](/episodes/ep-a-e7HC6SeK8.md#^t-00-46-06)
 
@@ -35677,7 +35679,7 @@ _Total events: 455_
 #### 2025-12-02: Allegation that Turning Point USA plans to build and market homes for first-time buyers.
 
 <details>
-<summary>Mentioned in 71 episodes</summary>
+<summary>71 mentions in 37 episodes</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:47:04](/episodes/ep-a-e7HC6SeK8.md#^t-00-46-48)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)
@@ -35758,7 +35760,7 @@ _Total events: 455_
 #### 2025-12-02: FBI warnings about a rising type of real estate fraud: title theft against homeowners.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:49:56](/episodes/ep-a-e7HC6SeK8.md#^t-00-49-20)
 
@@ -35769,7 +35771,7 @@ _Total events: 455_
 #### 2025-12-02: Candace Owens's book 'Make Him a Sandwich' listed as available for purchase on Amazon.
 
 <details>
-<summary>Mentioned in 7 episodes</summary>
+<summary>7 mentions in 3 episodes</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:52:00](/episodes/ep-a-e7HC6SeK8.md#^t-00-51-29)
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:56:04](/episodes/ep-his-JBjlkh8.md#^t-00-55-36)
@@ -35786,7 +35788,7 @@ _Total events: 455_
 #### 2025-12-02: Reference to Erika Kirk serving in a new capacity as CEO and chairman at Turning Point.
 
 <details>
-<summary>Mentioned in 123 episodes</summary>
+<summary>123 mentions in 39 episodes</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:54:03](/episodes/ep-a-e7HC6SeK8.md#^t-00-53-36)
 - [TPUSA RESPONDS: Yes, The Text Messages Are Real... @ 00:01:44](/episodes/ep-5autG89PW6w.md#^t-00-01-22)
@@ -35919,7 +35921,7 @@ _Total events: 455_
 #### 2025-12-02: Large donation made by Laughing Cats Music World to the show.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:55:50](/episodes/ep-a-e7HC6SeK8.md#^t-00-55-43)
 
@@ -35930,7 +35932,7 @@ _Total events: 455_
 #### 2025-12-02: Viewer comment alleging 'they killed Charlie' — claim of Charlie's death.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:56:20](/episodes/ep-a-e7HC6SeK8.md#^t-00-55-43)
 
@@ -35941,7 +35943,7 @@ _Total events: 455_
 #### 2025-12-02: Reference to Benjamin 'Bibi' Netanyahu reportedly saying America would do anything for money on camera.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:58:08](/episodes/ep-a-e7HC6SeK8.md#^t-00-57-57)
 
@@ -35952,7 +35954,7 @@ _Total events: 455_
 #### 2025-12-02: Ken Burns' documentary series 'The Revolution' is being watched by the speaker.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:58:49](/episodes/ep-a-e7HC6SeK8.md#^t-00-58-42)
 
@@ -35963,7 +35965,7 @@ _Total events: 455_
 #### 2025-12-02: Announcement that new merchandise ('new kit') is available on the show's website.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:59:11](/episodes/ep-a-e7HC6SeK8.md#^t-00-58-42)
 
@@ -35974,7 +35976,7 @@ _Total events: 455_
 #### 2025-12-02: Announcement that the speaker's book is available for purchase on Amazon.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:59:14](/episodes/ep-a-e7HC6SeK8.md#^t-00-58-42)
 
@@ -35985,7 +35987,7 @@ _Total events: 455_
 #### 2025-12-03: Turning Point USA issues formal response via Blake Neff inviting Candace Owens to live stream.
 
 <details>
-<summary>Mentioned in 157 episodes</summary>
+<summary>157 mentions in 39 episodes</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:00:20](/episodes/ep-his-JBjlkh8.md#^t-00-00-00)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)
@@ -36152,7 +36154,7 @@ _Total events: 455_
 #### 2025-12-03: Pentagon press secretary briefed new corps; Cam Higby asks about French plot vs. Owens.
 
 <details>
-<summary>Mentioned in 7 episodes</summary>
+<summary>7 mentions in 2 episodes</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:37:34](/episodes/ep-his-JBjlkh8.md#^t-00-37-21)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:02:11](/episodes/ep-ZAuuSq_j2_w.md#^t-00-01-28)
@@ -36169,7 +36171,7 @@ _Total events: 455_
 #### 2025-12-03: Saudi king flew on Egyptian plane linked to events, news breaks
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:17:32](/episodes/ep-his-JBjlkh8.md#^t-00-17-22)
 
@@ -36180,7 +36182,7 @@ _Total events: 455_
 #### 2025-12-03: Pentagon press corps makeover credentials Laura Loomer and Cam Higby
 
 <details>
-<summary>Mentioned in 15 episodes</summary>
+<summary>15 mentions in 6 episodes</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:37:34](/episodes/ep-his-JBjlkh8.md#^t-00-37-21)
 - [Erika Kirk Forgives. The Feds Forget... | Canda... @ 00:30:37](/episodes/ep-ja26iltROkM.md#^t-00-30-33)
@@ -36205,7 +36207,7 @@ _Total events: 455_
 #### 2025-12-03: Rapper The Game reportedly releasing a song titled 'The Assassination of Candace Owens'.
 
 <details>
-<summary>Mentioned in 87 episodes</summary>
+<summary>87 mentions in 34 episodes</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:01:00](/episodes/ep-his-JBjlkh8.md#^t-00-00-44)
 - [INFILTRATION: Charlie Kirk Was Being Tracked Fo... @ 00:00:08](/episodes/ep-YFmRH8p5lt0.md#^t-00-00-00)
@@ -36302,7 +36304,7 @@ _Total events: 455_
 #### 2025-12-03: Turning Point USA released a statement (Blake) and invited Candace to a Phoenix live stream.
 
 <details>
-<summary>Mentioned in 71 episodes</summary>
+<summary>71 mentions in 37 episodes</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:21:20](/episodes/ep-his-JBjlkh8.md#^t-00-20-34)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)
@@ -36383,7 +36385,7 @@ _Total events: 455_
 #### 2025-12-03: Allegations that Egyptian Air Force jets had been observed near Turning Point USA years before assassination.
 
 <details>
-<summary>Mentioned in 76 episodes</summary>
+<summary>76 mentions in 37 episodes</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:21:43](/episodes/ep-his-JBjlkh8.md#^t-00-21-20)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)
@@ -36469,7 +36471,7 @@ _Total events: 455_
 #### 2025-12-03: U.S. Pentagon implements a press-corps 'makeover', credentialing new independent reporters.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:37:32](/episodes/ep-his-JBjlkh8.md#^t-00-37-21)
 
@@ -36480,7 +36482,7 @@ _Total events: 455_
 #### 2025-12-03: Public discussion of Charlie Kirk's recent assassination and ensuing controversy.
 
 <details>
-<summary>Mentioned in 31 episodes</summary>
+<summary>31 mentions in 12 episodes</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:39:49](/episodes/ep-his-JBjlkh8.md#^t-00-39-20)
 - [BREAKING NEWS! The Egyptian Military Was In Pro... @ 00:00:13](/episodes/ep-iHav0PPzUz8.md#^t-00-00-00)
@@ -36521,7 +36523,7 @@ _Total events: 455_
 #### 2025-12-03: Allegations that French Foreign Legion personnel were on the ground the day Charlie Kirk was assassinated.
 
 <details>
-<summary>Mentioned in 262 episodes</summary>
+<summary>262 mentions in 40 episodes</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:41:04](/episodes/ep-his-JBjlkh8.md#^t-00-40-39)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -36793,7 +36795,7 @@ _Total events: 455_
 #### 2025-12-03: Ongoing legal action: Brigitte Macron lawsuit filed against Candace Owens (case described as active and costly).
 
 <details>
-<summary>Mentioned in 107 episodes</summary>
+<summary>107 mentions in 35 episodes</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:48:24](/episodes/ep-his-JBjlkh8.md#^t-00-47-48)
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:00:51](/episodes/ep-sImMM04XdWY.md#^t-00-00-39)
@@ -36910,7 +36912,7 @@ _Total events: 455_
 #### 2025-12-03: Rapper The Game announces an upcoming album including a track titled 'The Assassination of Candace Owens'.
 
 <details>
-<summary>Mentioned in 88 episodes</summary>
+<summary>88 mentions in 34 episodes</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:51:11](/episodes/ep-his-JBjlkh8.md#^t-00-50-53)
 - [INFILTRATION: Charlie Kirk Was Being Tracked Fo... @ 00:00:08](/episodes/ep-YFmRH8p5lt0.md#^t-00-00-00)
@@ -37008,7 +37010,7 @@ _Total events: 455_
 #### 2025-12-03: References to a recent assassination attempt(s) on Donald Trump, including being shot at and an ear injury.
 
 <details>
-<summary>Mentioned in 42 episodes</summary>
+<summary>42 mentions in 26 episodes</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:45:40](/episodes/ep-his-JBjlkh8.md#^t-00-44-57)
 - [They Are Lying About Tyler Robinson. | Candace ... @ 00:03:13](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-03-03)
@@ -37060,7 +37062,7 @@ _Total events: 455_
 #### 2025-12-03: Reference to the assassination of 'Charlie' associated with Turning Point USA's campus.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 01:00:06](/episodes/ep-his-JBjlkh8.md#^t-00-59-56)
 
@@ -37071,7 +37073,7 @@ _Total events: 455_
 #### 2025-12-03: Release of Candace Owens' book 'Make Him a Sandwich' (book is described as 'finally out').
 
 <details>
-<summary>Mentioned in 85 episodes</summary>
+<summary>85 mentions in 33 episodes</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:56:02](/episodes/ep-his-JBjlkh8.md#^t-00-55-36)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:33](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -37166,7 +37168,7 @@ _Total events: 455_
 #### 2025-12-03: 'Make Him a Sandwich' now shipping to Canada from MakeHimASandwich.com.
 
 <details>
-<summary>Mentioned in 7 episodes</summary>
+<summary>7 mentions in 3 episodes</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:56:10](/episodes/ep-his-JBjlkh8.md#^t-00-55-36)
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:56:04](/episodes/ep-his-JBjlkh8.md#^t-00-55-36)
@@ -37183,7 +37185,7 @@ _Total events: 455_
 #### 2025-12-03: Signed copies of Candace Owens' book available exclusively at CandaceOwens.com.
 
 <details>
-<summary>Mentioned in 80 episodes</summary>
+<summary>80 mentions in 33 episodes</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:56:26](/episodes/ep-his-JBjlkh8.md#^t-00-56-18)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:33](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -37273,7 +37275,7 @@ _Total events: 455_
 #### 2025-12-03: Candace states she is the muse for rapper The Game's upcoming album.
 
 <details>
-<summary>Mentioned in 2 episodes</summary>
+<summary>2 mentions in 1 episode</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:55:51](/episodes/ep-his-JBjlkh8.md#^t-00-55-36)
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:55:50](/episodes/ep-his-JBjlkh8.md#^t-00-55-36)
@@ -37285,7 +37287,7 @@ _Total events: 455_
 #### 2025-12-03 00:42: Pentagon briefing question from Kam (Cam) Higby asking if DoW has evidence of French plot to assassinate Candace Owens.
 
 <details>
-<summary>Mentioned in 80 episodes</summary>
+<summary>80 mentions in 33 episodes</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:42:08](/episodes/ep-his-JBjlkh8.md#^t-00-42-06)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:33](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -37375,7 +37377,7 @@ _Total events: 455_
 #### 2025-12-03 09:00: Cam Higby questions Pentagon on French military plot against Candace Owens
 
 <details>
-<summary>Mentioned in 85 episodes</summary>
+<summary>85 mentions in 33 episodes</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:40:39](/episodes/ep-his-JBjlkh8.md#^t-00-40-02)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:33](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -37470,7 +37472,7 @@ _Total events: 455_
 #### 2025-12-03 18:45: Emmanuel Macron recorded phone call with Donald Trump roughly 1.5 hours before Charlie Kirk's assassination (in Macron calendar).
 
 <details>
-<summary>Mentioned in 77 episodes</summary>
+<summary>77 mentions in 30 episodes</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:49:54](/episodes/ep-his-JBjlkh8.md#^t-00-49-40)
 - [BREAKING NEWS! The Egyptian Military Was In Pro... @ 00:00:13](/episodes/ep-iHav0PPzUz8.md#^t-00-00-00)
@@ -37557,7 +37559,7 @@ _Total events: 455_
 #### 2025-12-04: Planned face-to-face or livestream Q&A between Candace Owens and Turning Point USA (scheduled 'tomorrow').
 
 <details>
-<summary>Mentioned in 146 episodes</summary>
+<summary>146 mentions in 39 episodes</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 01:04:56](/episodes/ep-his-JBjlkh8.md#^t-01-04-46)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)
@@ -37713,7 +37715,7 @@ _Total events: 455_
 #### 2025-12-05 00:00: Turning Point USA tweets ultimatum for debate livestream on Dec 15 with 24-hour response deadline
 
 <details>
-<summary>Mentioned in 70 episodes</summary>
+<summary>70 mentions in 37 episodes</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:00:04](/episodes/ep-ZAuuSq_j2_w.md#^t-00-00-00)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)
@@ -37793,7 +37795,7 @@ _Total events: 455_
 #### 2025-12-05 00:00: Turning Point USA tweets debate confirmation and 24-hour ultimatum at midnight
 
 <details>
-<summary>Mentioned in 70 episodes</summary>
+<summary>70 mentions in 37 episodes</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:00:04](/episodes/ep-ZAuuSq_j2_w.md#^t-00-00-00)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)
@@ -37873,7 +37875,7 @@ _Total events: 455_
 #### 2025-12-05 00:00: Turning Point USA issued a midnight announcement/ultimatum about a debate livestream.
 
 <details>
-<summary>Mentioned in 70 episodes</summary>
+<summary>70 mentions in 37 episodes</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:00:04](/episodes/ep-ZAuuSq_j2_w.md#^t-00-00-00)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)
@@ -37953,7 +37955,7 @@ _Total events: 455_
 #### 2025-12-05: Reporter Cam Higby asked the Pentagon if there was evidence of a French plot to assassinate Candace Owens.
 
 <details>
-<summary>Mentioned in 80 episodes</summary>
+<summary>80 mentions in 33 episodes</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:02:41](/episodes/ep-ZAuuSq_j2_w.md#^t-00-02-11)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:33](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -38043,7 +38045,7 @@ _Total events: 455_
 #### 2025-12-05: Discussion and allegations surrounding the assassination of Charlie Kirk and unanswered questions.
 
 <details>
-<summary>Mentioned in 254 episodes</summary>
+<summary>254 mentions in 40 episodes</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:19:12](/episodes/ep-ZAuuSq_j2_w.md#^t-00-19-06)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -38307,7 +38309,7 @@ _Total events: 455_
 #### 2025-12-05: Candace Owens alleges the country of France attempted to assassinate her.
 
 <details>
-<summary>Mentioned in 80 episodes</summary>
+<summary>80 mentions in 33 episodes</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:24:15](/episodes/ep-ZAuuSq_j2_w.md#^t-00-23-48)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:33](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -38397,7 +38399,7 @@ _Total events: 455_
 #### 2025-12-05: Ben Shapiro appeared on Greg Gutfeld's show, joking about calling French intelligence and Greg being harmed.
 
 <details>
-<summary>Mentioned in 14 episodes</summary>
+<summary>14 mentions in 9 episodes</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:25:28](/episodes/ep-ZAuuSq_j2_w.md#^t-00-25-13)
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:03:15](/episodes/ep-r1PS67aRmcA.md#^t-00-02-49)
@@ -38421,7 +38423,7 @@ _Total events: 455_
 #### 2025-12-05: Comedian Aesmar made a controversial on-air rant referenced and played in a clip.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:26:20](/episodes/ep-ZAuuSq_j2_w.md#^t-00-25-52)
 
@@ -38432,7 +38434,7 @@ _Total events: 455_
 #### 2025-12-05: Frank Turek said Charlie Kirk called Blake Neff 'the smartest man I know' the night before his death.
 
 <details>
-<summary>Mentioned in 276 episodes</summary>
+<summary>276 mentions in 41 episodes</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:28:02](/episodes/ep-ZAuuSq_j2_w.md#^t-00-27-46)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -38718,7 +38720,7 @@ _Total events: 455_
 #### 2025-12-05: Tim Pool made on-air remarks criticizing Candace Owens and warning about impacts on the midterms.
 
 <details>
-<summary>Mentioned in 83 episodes</summary>
+<summary>83 mentions in 33 episodes</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:31:39](/episodes/ep-ZAuuSq_j2_w.md#^t-00-31-17)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:33](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -38811,7 +38813,7 @@ _Total events: 455_
 #### 2025-12-05: Turning Point USA reportedly deployed Cam Higby as part of a PR response to criticism.
 
 <details>
-<summary>Mentioned in 76 episodes</summary>
+<summary>76 mentions in 37 episodes</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:23:59](/episodes/ep-ZAuuSq_j2_w.md#^t-00-23-48)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)
@@ -38897,7 +38899,7 @@ _Total events: 455_
 #### 2025-12-05: President Donald Trump referenced 'the Epstein files' in a quoted remark mentioned by the host.
 
 <details>
-<summary>Mentioned in 3 episodes</summary>
+<summary>3 mentions in 3 episodes</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:34:25](/episodes/ep-ZAuuSq_j2_w.md#^t-00-33-44)
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Ca... @ 00:45:18](/episodes/ep-sreYYcID-QY.md#^t-00-45-07)
@@ -38910,7 +38912,7 @@ _Total events: 455_
 #### 2025-12-05: Controversy around Charlie Kirk: alleged assassination attempt, his removal, and TPUSA accused of burying story.
 
 <details>
-<summary>Mentioned in 254 episodes</summary>
+<summary>254 mentions in 40 episodes</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:39:15](/episodes/ep-ZAuuSq_j2_w.md#^t-00-38-42)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -39174,7 +39176,7 @@ _Total events: 455_
 #### 2025-12-05: Candace's book Make Him a Sandwich is on sale on Amazon; shipping to Canada and signed copies sold separately.
 
 <details>
-<summary>Mentioned in 6 episodes</summary>
+<summary>6 mentions in 3 episodes</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:37:53](/episodes/ep-ZAuuSq_j2_w.md#^t-00-37-19)
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:56:04](/episodes/ep-his-JBjlkh8.md#^t-00-55-36)
@@ -39190,7 +39192,7 @@ _Total events: 455_
 #### 2025-12-05: Club Candace launched a gift-membership feature on the CandaceOwens.com website (new gifting option).
 
 <details>
-<summary>Mentioned in 4 episodes</summary>
+<summary>4 mentions in 4 episodes</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:38:29](/episodes/ep-ZAuuSq_j2_w.md#^t-00-38-04)
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:08:58](/episodes/ep-sImMM04XdWY.md#^t-00-08-18)
@@ -39204,7 +39206,7 @@ _Total events: 455_
 #### 2025-12-05: Assertion that an assassination attempt (referenced in relation to Charlie Kirk) was real and being discussed publicly.
 
 <details>
-<summary>Mentioned in 255 episodes</summary>
+<summary>255 mentions in 40 episodes</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:43:10](/episodes/ep-ZAuuSq_j2_w.md#^t-00-42-58)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
@@ -39469,7 +39471,7 @@ _Total events: 455_
 #### 2025-12-05: Claim that Candace's podcast reached number one in the world (podcast ranking milestone).
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:44:20](/episodes/ep-ZAuuSq_j2_w.md#^t-00-43-39)
 
@@ -39480,7 +39482,7 @@ _Total events: 455_
 #### 2025-12-05: Availability of the documentary series 'A Shot in the Dark' on CandaceOwens.com for first-time parents.
 
 <details>
-<summary>Mentioned in 1 episode</summary>
+<summary>1 mention in 1 episode</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:50:41](/episodes/ep-ZAuuSq_j2_w.md#^t-00-50-05)
 
@@ -39491,7 +39493,7 @@ _Total events: 455_
 #### 2025-12-15 16:00: Turning Point USA scheduled a live-streamed formal response to Candace Owens' allegations.
 
 <details>
-<summary>Mentioned in 145 episodes</summary>
+<summary>145 mentions in 39 episodes</summary>
 
 - [Shocking Revelation About The Egyptian Planes..... @ 00:05:05](/episodes/ep-ZAuuSq_j2_w.md#^t-00-04-36)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)

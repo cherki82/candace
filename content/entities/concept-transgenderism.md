@@ -14,19 +14,19 @@ _Type: Concepts_
 
 ## Mentions
 
-### [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
+### [ep-Cq7nj9rxPdo](/episodes/ep-Cq7nj9rxPdo.md)
 
 - [00:56:13](/episodes/ep-Cq7nj9rxPdo.md#^t-00-55-46)
   > "...mplex and talking about the Kabbalah. Kabbalah very much is the reason for this push in culture for transgenderism. We'll get more into that in the book club, which gets a bit more theological. But that's a very im..."
 
-### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
+### [ep-K1tFD7FfoCU](/episodes/ep-K1tFD7FfoCU.md)
 
 - [00:11:59](/episodes/ep-K1tFD7FfoCU.md#^t-00-11-28)
   > "...ure of vices that we are suffering from today: a culture that is filled with pornography, gambling, transgenderism, radical feminism, modern psychology, pharmaceuticals. If you research these topics historically, y..."
 - [00:13:27](/episodes/ep-K1tFD7FfoCU.md#^t-00-12-52)
   > "...ht for that. Samuel Roth (Samuel Roth)—actually, that's his name—fought for that decision in court. Transgenderism—go back and try to figure out where that came from. Magnus Hirschfeld (Magnus Hirschfeld) was the d..."
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:41:10](/episodes/ep-tB5SXXmd9vU.md#^t-00-40-44)
   > "...so being the hub for MKUltra is especially sweet. The email that we got, that it's also the hub for transgenderism in America—like, who knew that? I certainly didn't. Our first ever trans congressman, you guys—gues..."

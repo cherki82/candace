@@ -14,60 +14,60 @@ _Type: People_
 
 ## Mentions
 
-### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
+### [ep-2WEHTk0Xewg](/episodes/ep-2WEHTk0Xewg.md)
 
 - [01:04:55](/episodes/ep-2WEHTk0Xewg.md#^t-01-04-30)
   > "...t I didn't say. You know, their new thing that went around is today I woke up, and like all of like Bill Ackman's cronies were like, "Would you like to comment?" The New York Post would like to—I said literally:..."
 
-### [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
+### [ep-7RLtGgkTh9o](/episodes/ep-7RLtGgkTh9o.md)
 
 - [00:35:43](/episodes/ep-7RLtGgkTh9o.md#^t-00-35-35)
   > "...e when people were telling me what happened in the Hamptons before Charlie (Charlie Kirk) died. But Bill Ackman gave a presentation—don't forget—and told these younger people that they shouldn't aspire to own ho..."
 
-### [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
+### [ep-K5GjF53bfN4](/episodes/ep-K5GjF53bfN4.md)
 
 - [00:02:46](/episodes/ep-K5GjF53bfN4.md#^t-00-02-40)
   > "...mission, and I view them both to be liars, okay? And of course, who could forget the word length of Bill Ackman's reply. I tell you guys about this weekend in the Hamptons. I tell you about Benjamin Netanyahu (I..."
 - [00:02:57](/episodes/ep-K5GjF53bfN4.md#^t-00-02-40)
   > "...bout Benjamin Netanyahu (Israeli PM) calling Charlie (Charlie Kirk) and inviting him to Israel. And Bill Ackman replies with an essay. A college essay, 959 words to be precise, was his response to me speaking ab..."
 
-### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
+### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
 
 - [00:10:07](/episodes/ep-LATnak75Si0.md#^t-00-09-44)
   > "...all of a sudden it was our duty to get the word out, to get people to vote for Cuomo somehow again. Bill Ackman almost personally ran against Mamdani, right? At times, he even demanded to have a debate with Mamd..."
 - [00:10:11](/episodes/ep-LATnak75Si0.md#^t-00-09-44)
   > "...to have a debate with Mamdani—which I don't understand the context of why Mamdani would be debating Bill Ackman if he's not running against him. Point is, Mamdani won, okay? Bill gave $1.75 million, and Mamdani ..."
 
-### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
+### [ep-Qfwr08Ebczo](/episodes/ep-Qfwr08Ebczo.md)
 
 - [00:16:45](/episodes/ep-Qfwr08Ebczo.md#^t-00-16-17)
   > "...sort of a pinnacle. That's the infamous speech that Tucker (Tucker Carlson) gave where he calls out Bill Ackman. He starts talking about Israel, all this stuff, and things start moving, okay? Now you can see tha..."
 - [00:17:04](/episodes/ep-Qfwr08Ebczo.md#^t-00-16-56)
   > "...at people who serve in foreign armies should be stripped of their citizenship. He muses about where Bill Ackman's wealth comes from. July 18th is our next date on our timeline. And this came from—this is a great..."
 
-### [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
+### [ep-UBkFkg4UNY8](/episodes/ep-UBkFkg4UNY8.md)
 
 - [00:38:06](/episodes/ep-UBkFkg4UNY8.md#^t-00-38-06)
   > "...ng on behalf of Israel that gave money to Turning Point? Yes, they do. The question is whether it's Bill Ackman, whether it's Bob Schulman, whether it's a ton of the donors who write big checks and are pressurin..."
 
-### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
+### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
 
 - [00:32:19](/episodes/ep-YFmRH8p5lt0.md#^t-00-31-52)
   > "...robably have their citizenship stripped"—something along those lines. And he also muses about where Bill Ackman's wealth comes from. And yeah, it's just a speech—which, by the way, Charlie (Charlie Kirk) was the..."
 
-### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
+### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:17:26](/episodes/ep-a-e7HC6SeK8.md#^t-00-16-56)
   > "...ays that people who serve in foreign armies should be stripped of their citizenship. He muses about Bill Ackman's wealth and where it comes from. We are told—even though we have not been able to confirm this wit..."
 - [00:21:56](/episodes/ep-a-e7HC6SeK8.md#^t-00-21-56)
   > "...ing pressed on his shifting viewpoints on Israel. And we know that the influencers were paid for by Bill Ackman. I don't think that that's particularly a big deal. Obviously he has interests and was potentially ..."
 
-### [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
+### [ep-aDlhjfW6hz8](/episodes/ep-aDlhjfW6hz8.md)
 
 - [00:25:48](/episodes/ep-aDlhjfW6hz8.md#^t-00-25-42)
   > "...t some point her credibility—I mean—is gonna go down the tubes because she needs to bring receipts. Bill Ackman brought receipts. How long was that tweet? It's still going. I think he was there in the room. Andr..."
 
-### [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
+### [ep-czVBmqZP6Ss](/episodes/ep-czVBmqZP6Ss.md)
 
 - [00:14:07](/episodes/ep-czVBmqZP6Ss.md#^t-00-13-40)
   > "...aid on that stage. Tucker (Tucker Carlson), while he was on that stage at Turning Point, brought up Bill Ackman. Bill Ackman is a billionaire, obviously. He is also an extremely litigious billionaire. And Bill A..."
@@ -98,12 +98,12 @@ _Type: People_
 - [00:49:25](/episodes/ep-czVBmqZP6Ss.md#^t-00-49-18)
   > "... were told was that Tyler Robinson allegedly, after speaking with the pastor, his dad turned him in—Bill Ackman, probably a million dollars, right? Thanks, Bill. You really cared about Charlie (Charlie Kirk). An..."
 
-### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
+### [ep-ja26iltROkM](/episodes/ep-ja26iltROkM.md)
 
 - [00:29:19](/episodes/ep-ja26iltROkM.md#^t-00-29-05)
   > "...Charlie Kirk (Charlie Kirk). And so this guy—Awesome Jew, who I heard was also in the Hamptons with Bill Ackman and that group of people who went out there—he then tries to cleverly release a text message betwee..."
 
-### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
+### [ep-q7f8r-THr84](/episodes/ep-q7f8r-THr84.md)
 
 - [00:01:32](/episodes/ep-q7f8r-THr84.md#^t-00-01-14)
   > "...ent, and what had been happening more broadly at the company over the last year. Speaking of which, Bill Ackman, you may have caught that he responded to me about the Hamptons. With a lot of words to really say ..."
@@ -144,7 +144,7 @@ _Type: People_
 - [01:06:03](/episodes/ep-q7f8r-THr84.md#^t-01-05-24)
   > "...n. First, I'm gonna remind you guys about Tax Network USA. I know, I shouldn't read these ads. It's Bill Ackman. It's like, "How could you put ads in here? I can hedge against COVID and make billions, but you, l..."
 
-### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
+### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
 
 - [00:14:43](/episodes/ep-sImMM04XdWY.md#^t-00-14-43)
   > "... a socialist. All right. Leaving aside my committed socialism, can you answer the question? How did Bill Ackman get $9 billion? Bill Ackman—a pretty impressive guy? I know Bill Ackman. No. Bill Ackman's like wel..."
@@ -157,7 +157,7 @@ _Type: People_
 - [00:20:13](/episodes/ep-sImMM04XdWY.md#^t-00-19-39)
   > "...mptons retreat that took place. Charlie (Charlie Kirk) himself described it as an intervention, and Bill Ackman disputes that narrative. Seth Dillon disputes that narrative. Bibi (Benjamin Netanyahu) offers to t..."
 
-### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
+### [ep-sreYYcID-QY](/episodes/ep-sreYYcID-QY.md)
 
 - [00:00:24](/episodes/ep-sreYYcID-QY.md#^t-00-00-00)
   > "...a state leader of a foreign country to have to twice deny that on national television? We also have Bill Ackman, who is sending his press hounds after me. There's no other way to say it. He's also dropping text ..."
@@ -173,5 +173,5 @@ _Type: People_
 ### Criticized
 
 - [Candace Owens](/entities/person-candace-owens.md)
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:24](/episodes/ep-sreYYcID-QY.md#^t-00-00-00): "Bill Ackman, who is sending his press hounds after me."
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:24](/episodes/ep-sreYYcID-QY.md#^t-00-00-00): "Bill Ackman who is sending his press hounds on me."
+  - [ep-sreYYcID-QY @ 00:00:24](/episodes/ep-sreYYcID-QY.md#^t-00-00-00): "Bill Ackman, who is sending his press hounds after me."
+  - [ep-sreYYcID-QY @ 00:00:24](/episodes/ep-sreYYcID-QY.md#^t-00-00-00): "Bill Ackman who is sending his press hounds on me."

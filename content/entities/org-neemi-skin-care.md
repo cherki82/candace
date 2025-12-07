@@ -16,7 +16,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
+### [ep-YA1FxrDWNIo](/episodes/ep-YA1FxrDWNIo.md)
 
 - [00:40:56](/episodes/ep-YA1FxrDWNIo.md#^t-00-40-53)
   > "...you prepare for the new season, make sure your skin is prepared, too. Get an exclusive 10% off your NeemiSkincare.com order. If you use code KANDICE10 at checkout, you can support a brand that supports this country, a..."
@@ -37,21 +37,21 @@ _Type: Organizations_
 - [00:40:52](/episodes/ep-YA1FxrDWNIo.md#^t-00-40-09)
   > "...h and our family. You shouldn't have to compromise your values to get incredible skincare. And with Neemi, you don't have to. So as you prepare for the new season, make sure your skin is prepared, too. Get..."
 
-### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
+### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:35:26](/episodes/ep-ZAuuSq_j2_w.md#^t-00-35-08)
   > "...we'll take a quick break and get into your comments. Also, of course, I want to tell you guys about Neeme Skin Care because it is cold outside. December is here; the weather is dry. And if you are anything like me, ..."
 - [00:35:38](/episodes/ep-ZAuuSq_j2_w.md#^t-00-35-08)
   > "... help keeping our skin moisturized, healthy, and glowing. And let me tell you guys that I love what Neeme Skin Care is doing this Christmas season because while every other brand tiptoes around on eggshells trying t..."
 
-### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
+### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:35:24](/episodes/ep-mKXdKV-OBog.md#^t-00-35-24)
   > "...sors. I'm gonna get into some of your comments. Okay, you guys. You have heard me speak a lot about Neeme Skin Care. I love what their three-step anti-aging routine has done for my skin, which is why I am very excit..."
 - [00:35:27](/episodes/ep-mKXdKV-OBog.md#^t-00-35-24)
   > "... what their three-step anti-aging routine has done for my skin, which is why I am very excited that Neeme Skin Care now has a complete body line as well. They have the Foundations Body Bundle. It's a simple three-st..."
 
-### [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
+### [ep-ozWJz2spBcI](/episodes/ep-ozWJz2spBcI.md)
 
 - [00:54:47](/episodes/ep-ozWJz2spBcI.md#^t-00-54-34)
   > "... the new season, make sure your skin is prepared too. You'll get an exclusive 10% off your order at neemiskincare.com if you use code CANDACE10 at checkout. Support a brand that supports this country and see the resul..."

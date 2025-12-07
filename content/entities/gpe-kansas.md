@@ -10,17 +10,17 @@ _Type: Places_
 
 ## Mentions
 
-### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
+### [ep-JQjCAsfoXEE](/episodes/ep-JQjCAsfoXEE.md)
 
 - [00:17:22](/episodes/ep-JQjCAsfoXEE.md#^t-00-16-57)
   > "...his plane where Charlie (Charlie Kirk) is?" The flights were majority clustered within five states: Kansas, Missouri, Nebraska, Delaware, and Utah. And it's a pattern that she believes is statistically not ..."
 
-### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
+### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:19:26](/episodes/ep-SKGUzGHymcI.md#^t-00-19-26)
   > "...ourself how this makes any sense. On November 13, 2022, SUBTT flies from Cairo to Paris to Wichita, Kansas, to Wilmington, Delaware, back to Cairo. That is already a four-legged two-continent hop that ends ..."
 
-### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
+### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
 
 - [00:18:30](/episodes/ep-YFmRH8p5lt0.md#^t-00-18-23)
   > "...at that is speaking in Sacramento on April 13th. Yellow plane again comes in. This time it flies to Kansas. Cairo to Kansas. And on April 23rd, Sean Feucht heads up the TPUSA Faith Kingdom to the Capitol To..."

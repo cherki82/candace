@@ -14,14 +14,14 @@ _Type: Places_
 
 ## Mentions
 
-### [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
+### [ep-2Riv3I7D0Yk](/episodes/ep-2Riv3I7D0Yk.md)
 
 - [00:30:14](/episodes/ep-2Riv3I7D0Yk.md#^t-00-29-48)
   > "...this meeting, and it was on our schedule for weeks, and was that he was going out on a campus tour. Utah was the first stop on his new campus tour. And what a lot of people in Israel do not realize—or in ..."
 - [01:10:04](/episodes/ep-2Riv3I7D0Yk.md#^t-01-09-29)
   > "...Yes, I do want to say shout-out to the Mormon community for never accusing me of being antisemitic— Utah or anti-Mormon—I don't know what—anti-Latter-day Saints. Sorry, I know nothing about your faith—but..."
 
-### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
+### [ep-2WEHTk0Xewg](/episodes/ep-2WEHTk0Xewg.md)
 
 - [00:07:35](/episodes/ep-2WEHTk0Xewg.md#^t-00-07-18)
   > "...r that. George Zinn, the decoy boy—that's when it's announced that he's a suspect in custody by the Utah police. But it's not until, by the way, 5:30 p.m.—because he mentioned that second suspect— and he ..."
@@ -32,7 +32,7 @@ _Type: Places_
 - [00:31:18](/episodes/ep-2WEHTk0Xewg.md#^t-00-31-15)
   > "...gentlemen. We got him. This is a very sad day again for our country—a terrible day for the state of Utah. But I'm grateful that at this moment we have an opportunity to bring closure to this very dark cha..."
 
-### [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
+### [ep-581dILVcEE4](/episodes/ep-581dILVcEE4.md)
 
 - [00:03:40](/episodes/ep-581dILVcEE4.md#^t-00-03-33)
   > "...is flight thus far, I want to remind you that we have confirmed that this was a full flight over to Utah. This Egyptian flight—and I'm referring to SU-BTT—landed in Utah six days before Charlie (Charlie K..."
@@ -57,24 +57,24 @@ _Type: Places_
 - [00:36:32](/episodes/ep-581dILVcEE4.md#^t-00-36-17)
   > "...member, Blake is in Arizona now, so this is going to say 11:24. It's supposed to be obviously 12:24 Utah time. We can show you that. You can see he calls his mom, and the call is 45 seconds long, and the ..."
 
-### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
+### [ep-5autG89PW6w](/episodes/ep-5autG89PW6w.md)
 
 - [00:16:18](/episodes/ep-5autG89PW6w.md#^t-00-15-44)
   > "...That's a thousand percent right. And I will say, I wasn't an eyewitness. I was not there. I flew to Utah immediately to be with the family and the team, but I was not an eyewitness. So there's that. But I..."
 
-### [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
+### [ep-7RLtGgkTh9o](/episodes/ep-7RLtGgkTh9o.md)
 
 - [00:46:49](/episodes/ep-7RLtGgkTh9o.md#^t-00-46-25)
   > "...like a cherry bomb." Unbelievable. Wow. Wow. I'm in shock. I am too. I can't believe it happened in Utah of all places where he has so much support, but obviously the opposition was here. And now we're lo..."
 
-### [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
+### [ep-Cq7nj9rxPdo](/episodes/ep-Cq7nj9rxPdo.md)
 
 - [00:39:44](/episodes/ep-Cq7nj9rxPdo.md#^t-00-39-20)
   > "...rrect— thank you guys in the chat for correcting me. Not—I think I said UVU medical. I meant to say Utah Valley Hospital. UVU is obviously on my mind because it is the university. It is Utah Valley Hospit..."
 - [00:39:48](/episodes/ep-Cq7nj9rxPdo.md#^t-00-39-20)
   > "... meant to say Utah Valley Hospital. UVU is obviously on my mind because it is the university. It is Utah Valley Hospital is where that file was. And that person—and some people that I confirmed with—said ..."
 
-### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
+### [ep-JQjCAsfoXEE](/episodes/ep-JQjCAsfoXEE.md)
 
 - [00:17:22](/episodes/ep-JQjCAsfoXEE.md#^t-00-16-57)
   > "..." The flights were majority clustered within five states: Kansas, Missouri, Nebraska, Delaware, and Utah. And it's a pattern that she believes is statistically not random. I'm telling you, this informatio..."
@@ -87,12 +87,12 @@ _Type: Places_
 - [00:28:36](/episodes/ep-JQjCAsfoXEE.md#^t-00-28-22)
   > "...ite 2023 Toyota RAV4. Utah license plate number TN12KM. The fourth was a black 2025 Toyota 4Runner. Utah license plate number Z923DA. To the students at UVU: do we have this somewhere? Did you pull it up,..."
 
-### [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
+### [ep-K5GjF53bfN4](/episodes/ep-K5GjF53bfN4.md)
 
 - [00:32:15](/episodes/ep-K5GjF53bfN4.md#^t-00-31-37)
   > "...t's only going to get more interesting in terms of who is involved in that cover-up locally, like a Utah person involved in that cover-up, which is another piece of this puzzle that I find to be fascinati..."
 
-### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
+### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
 
 - [00:05:49](/episodes/ep-LATnak75Si0.md#^t-00-05-38)
   > "...s well—which was completely atypical—is the fact that Charlie (Charlie Kirk) was slated to speak in Utah on September 10th and then was... due to return just 10 days later to a different campus in Utah th..."
@@ -103,7 +103,7 @@ _Type: Places_
 - [00:56:49](/episodes/ep-LATnak75Si0.md#^t-00-56-42)
   > "...e (Charlie Kirk) Kirk's entire answer to the first question that he was asked about Jesus Christ at Utah Valley. I had no luck finding the entire 8-to-10-minute clip. Only 20-to-60-second videos come up. ..."
 
-### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
+### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
 
 - [00:19:08](/episodes/ep-MUA9ebCF4Ow.md#^t-00-18-54)
   > "...credible. So going back to our timeline, I will remind you: it was July 18th—according to the local Utah news, they found this out. It was July 18th that UVU Turning Point chapter requested to have Charli..."
@@ -118,7 +118,7 @@ _Type: Places_
 - [00:34:30](/episodes/ep-MUA9ebCF4Ow.md#^t-00-34-22)
   > "...so, something that I'm just gonna say on the side here is too many people that are involved in this Utah story I met through PragerU. Like, Jack Hibbs was somebody that Marissa flagged for me that she wan..."
 
-### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
+### [ep-QZWSsq8ZWzw](/episodes/ep-QZWSsq8ZWzw.md)
 
 - [00:01:35](/episodes/ep-QZWSsq8ZWzw.md#^t-00-01-30)
   > "...itative source that the FBI is putting an absurd amount of pressure right now on the authorities in Utah and also the rest of the government in Utah to come out and say that the Charlie Kirk case is close..."
@@ -131,7 +131,7 @@ _Type: Places_
 - [00:17:09](/episodes/ep-QZWSsq8ZWzw.md#^t-00-16-34)
   > "...tonished—that Utah recently, extraordinarily, modernized their beehive flag. I had no idea that the Utah state flag is a hexagonal beehive, right? And I mean, notice to me that it has always been the Beeh..."
 
-### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
+### [ep-Qfwr08Ebczo](/episodes/ep-Qfwr08Ebczo.md)
 
 - [00:10:14](/episodes/ep-Qfwr08Ebczo.md#^t-00-10-04)
   > "... driver's seat. The floor is yours. Yeah. It's crazy to think that was just three, four days before Utah. And it was Charlie (Charlie Kirk)'s dream to always go to Asia. And Blake and I got the gift of be..."
@@ -154,7 +154,7 @@ _Type: Places_
 - [00:42:41](/episodes/ep-Qfwr08Ebczo.md#^t-00-42-38)
   > "...hesitation." I told you guys that we had a source leaked to us. He went to the hospital. He went to Utah Valley Hospital after this event to treat some of his like mild injuries from being dragged. And he..."
 
-### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
+### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:03:23](/episodes/ep-SKGUzGHymcI.md#^t-00-03-23)
   > "...s earlier—that plane, the yellow plane, departed on the morning at 7:14 a.m. local time from Provo, Utah. And it's headed to Wilmington, Delaware. It arrived in Wilmington, Delaware at 11:51 a.m. Eastern...."
@@ -165,14 +165,14 @@ _Type: Places_
 - [00:34:53](/episodes/ep-SKGUzGHymcI.md#^t-00-34-52)
   > "...autopsy report is Erika (Erika Kirk), next of kin. That's given to the next of kin. That's like the Utah state policy. If he's suggesting that the feds are blocking her from doing that, I mean, he's in th..."
 
-### [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
+### [ep-UBkFkg4UNY8](/episodes/ep-UBkFkg4UNY8.md)
 
 - [00:15:10](/episodes/ep-UBkFkg4UNY8.md#^t-00-14-37)
   > "... photo of George Zinn in handcuffs. And I was able to determine that that was somebody who lived in Utah, who advertises with Turning Point USA. And when he did some press about it, he didn't mention that..."
 - [00:20:18](/episodes/ep-UBkFkg4UNY8.md#^t-00-19-52)
   > "...cago-based numbers? It was very weird and very sketchy. So then I have a guy who's on the ground in Utah, and I asked him—a student—to start looking around, fishing around, and seeing if he could figure o..."
 
-### [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
+### [ep-YA1FxrDWNIo](/episodes/ep-YA1FxrDWNIo.md)
 
 - [00:02:13](/episodes/ep-YA1FxrDWNIo.md#^t-00-02-13)
   > "...ou know, he's a politician, an aspiring politician. Maybe he wants to assert himself as a leader in Utah. This assassination has taken place. But I also felt like maybe he potentially knew a bit more than..."
@@ -203,7 +203,7 @@ _Type: Places_
 - [00:32:28](/episodes/ep-YA1FxrDWNIo.md#^t-00-32-13)
   > "...sual placement to then want to re-up your entire life—assuming you have a wife and kids—and move to Utah. But whatever. Again, everything just feels a little too brand new to me. Then I speak to the indiv..."
 
-### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
+### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
 
 - [00:04:26](/episodes/ep-YFmRH8p5lt0.md#^t-00-04-11)
   > "...hat plane we covered, the tail number SUBTT—just so you know—like a year earlier, that plane was in Utah at the same time as Charlie (Charlie Kirk)." In 2023, I was like, "Oh, that's pretty ironic if that..."
@@ -218,7 +218,7 @@ _Type: Places_
 - [00:51:00](/episodes/ep-YFmRH8p5lt0.md#^t-00-51-00)
   > "...ink wink wink. Oh, Tyler Robinson's file adds up to 33. Oh, the Freemason lodge in St. George or in Utah is number 33. It's like we get it, okay? This was an assassination at a very high level, and they d..."
 
-### [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
+### [ep-ZGxnf5cj4Uw](/episodes/ep-ZGxnf5cj4Uw.md)
 
 - [00:06:55](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-06-55)
   > "...n stepped foot on UVU campus. Tyler, it turns out—which has already been revealed—was accepted into Utah State University, not Utah Valley. And that's actually interesting if you pause and reflect on that..."
@@ -237,12 +237,12 @@ _Type: Places_
 - [00:53:49](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-53-22)
   > "...he would investigate. She'd be crazy; she'd be super crazy. She'd be wearing all pink going down to Utah. That's what Savannah would do. Kaya writes: it's 1963 all over again. They don't like people askin..."
 
-### [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
+### [ep-aDlhjfW6hz8](/episodes/ep-aDlhjfW6hz8.md)
 
 - [00:18:48](/episodes/ep-aDlhjfW6hz8.md#^t-00-18-15)
   > "...hey provide us with the real-world context by writing: companies like Caldera Engineering in Provo, Utah, manufacture specialized industrial valves and control systems. While no public evidence currently ..."
 
-### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
+### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
 
 - [00:03:37](/episodes/ep-adJ4LNGp84I.md#^t-00-03-37)
   > "...see that here. George Zin writes, "Rare to find a more caring man with uncompromising goals to make Utah great for generations than Phil Lyman, not a politician who can be pampered. Phil has a knowledge o..."
@@ -265,7 +265,7 @@ _Type: Places_
 - [00:41:59](/episodes/ep-adJ4LNGp84I.md#^t-00-41-25)
   > "...ns), tonight, which is September 30th, 2025, several friends and myself attended the TPUSA event at Utah State University. There was a full agreement that all were disappointed. The event was scripted. Th..."
 
-### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
+### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 
 - [00:06:37](/episodes/ep-his-JBjlkh8.md#^t-00-06-37)
   > "...t's our perspective. And I'm going to stand by it. Let's keep it rolling. Candace has suggested the Utah Valley University event was unusual, and its details suggested a, quote, "inside job." It was unusu..."
@@ -278,7 +278,7 @@ _Type: Places_
 - [00:50:16](/episodes/ep-his-JBjlkh8.md#^t-00-49-40)
   > "...(Donald Trump) at 6—sorry, this would be 6:45, obviously, p.m. in French time. That's 10:45 a.m. in Utah time. 10:45 a.m. Utah time is when they had this phone call. And look, that could be nothing. There..."
 
-### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
+### [ep-iHav0PPzUz8](/episodes/ep-iHav0PPzUz8.md)
 
 - [00:00:13](/episodes/ep-iHav0PPzUz8.md#^t-00-00-00)
   > "...ndace Owens: Oh, there were some Egyptian military men that were on the ground on September 10th in Utah, on the day of Charlie (Charlie Kirk)'s assassination. Candace Owens: And we now need to demand tha..."
@@ -317,14 +317,14 @@ _Type: Places_
 - [00:28:49](/episodes/ep-iHav0PPzUz8.md#^t-00-28-43)
   > "...know: did you see some Egyptian-looking dudes in Utah? I feel like that way they would stand out in Utah, maybe, right? I think they definitely would. Please let us know: more tips at CandaceOwens.com. It..."
 
-### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
+### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:16:58](/episodes/ep-mKXdKV-OBog.md#^t-00-16-27)
   > "...you speak?" I guess this—whatever—it was a hotbed. Older people just love Charlie (Charlie Kirk) in Utah. Very hard to find a student that was just, you know, on campus that day who went to hear Charlie (..."
 - [00:19:12](/episodes/ep-mKXdKV-OBog.md#^t-00-19-03)
   > "... most men. In fact, it was so often that I was seeing this color that I reached out to my source at Utah, and I was like, "Maybe it's a school color. Maybe actually they're all buying shirts and buying T-..."
 
-### [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
+### [ep-pc3pxRyNFZk](/episodes/ep-pc3pxRyNFZk.md)
 
 - [00:10:10](/episodes/ep-pc3pxRyNFZk.md#^t-00-10-01)
   > "...ding under a hat?" It is not true. I spoke to Andrew on this actual day. He definitively flew in to Utah after the shooting took place. He was not therefore on the ground. But the person that is in that v..."
@@ -347,14 +347,14 @@ _Type: Places_
 - [00:39:20](/episodes/ep-pc3pxRyNFZk.md#^t-00-38-41)
   > "...auty company for billions, I believe. And they now just run a human sex trafficking organization in Utah. That was that plane. I can't remember. 888 is what I actually remember. And it seemed as though th..."
 
-### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
+### [ep-q7f8r-THr84](/episodes/ep-q7f8r-THr84.md)
 
 - [00:05:52](/episodes/ep-q7f8r-THr84.md#^t-00-05-31)
   > "...gure out that in the past, he has given interviews related to September 11th and Al Qaeda. He is in Utah and he is obstructing justice. And he also happens to have this totally disgusting addiction of som..."
 - [00:43:55](/episodes/ep-q7f8r-THr84.md#^t-00-43-40)
   > "...okay? I am in no way attacking that narrative and associating it with the events that took place on Utah's campus, but I don't like little lies. So let's attack this lead up. Okay, let's attack this lead ..."
 
-### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
+### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
 
 - [00:34:07](/episodes/ep-sImMM04XdWY.md#^t-00-33-57)
   > "...om the student group. There is a student roof access pretty close to where CK will be set up at the Utah Valley, the Sorensen Center. It has a couple of staircases that go up to walkways on the roofs." He..."
@@ -365,7 +365,7 @@ _Type: Places_
 - [00:41:41](/episodes/ep-sImMM04XdWY.md#^t-00-41-20)
   > "...t. If they no longer have it, I would have expected to say that this video has been provided to the Utah County law enforcement. "Please contact them." But instead, this rhetoric leads—in my opinion—as tr..."
 
-### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
+### [ep-sreYYcID-QY](/episodes/ep-sreYYcID-QY.md)
 
 - [00:12:38](/episodes/ep-sreYYcID-QY.md#^t-00-12-30)
   > "...hose instincts would it be to give the footage to TMZ? If you're really just a person living out in Utah, surprised by everything, why are you giving it to, like, TMZ—which covers celebrity gossip out of ..."
@@ -376,7 +376,7 @@ _Type: Places_
 - [00:56:43](/episodes/ep-sreYYcID-QY.md#^t-00-56-28)
   > "... we are looking into everything. There was also some artist who posted a song—he happens to be from Utah—and it was called, like, “Charlie Kirk, Dead at 31.” And right when people started going, "This guy..."
 
-### [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
+### [ep-t1YtLS1n8Vs](/episodes/ep-t1YtLS1n8Vs.md)
 
 - [00:21:17](/episodes/ep-t1YtLS1n8Vs.md#^t-00-21-03)
   > "... all. He wants me to know that he thinks I'm shady, that I'm an accomplice to something. He ran for Utah governor in 2024. He featured George Zinn on his website at that time, spoke to Alex Jones, Fox New..."
@@ -393,7 +393,7 @@ _Type: Places_
 - [00:31:22](/episodes/ep-t1YtLS1n8Vs.md#^t-00-31-09)
   > "...the side of the state.” I did not listen to him. And I ended up calling one of the biggest firms in Utah, just to ask for advice. Like what, what is the situation here? What can we do? They started scream..."
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:15:00](/episodes/ep-tB5SXXmd9vU.md#^t-00-14-39)
   > "...(Charlie Kirk's) assassination, I thought the FBI might be interested. No, no phone calls even from Utah's FBI branch have come into me either. What did you want to see? Aren't we supposed to be investiga..."
@@ -407,7 +407,7 @@ _Type: Places_
 ### Referenced By
 
 - [Jason Chavitz](/entities/person-jason-chavitz.md) **lives in** this
-  - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:22:17](/episodes/ep-pc3pxRyNFZk.md#^t-00-22-13)
+  - [ep-pc3pxRyNFZk @ 00:22:17](/episodes/ep-pc3pxRyNFZk.md#^t-00-22-13)
 - [Gernot Omer](/entities/person-gernot-omer.md) **lives in** this
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:11:29](/episodes/ep-YA1FxrDWNIo.md#^t-00-11-12)
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:11](/episodes/ep-YA1FxrDWNIo.md#^t-00-00-01)
+  - [ep-YA1FxrDWNIo @ 00:11:29](/episodes/ep-YA1FxrDWNIo.md#^t-00-11-12)
+  - [ep-YA1FxrDWNIo @ 00:00:11](/episodes/ep-YA1FxrDWNIo.md#^t-00-00-01)

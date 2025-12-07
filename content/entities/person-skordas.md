@@ -10,7 +10,7 @@ _Type: People_
 
 ## Mentions
 
-### [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
+### [ep-t1YtLS1n8Vs](/episodes/ep-t1YtLS1n8Vs.md)
 
 - [00:31:51](/episodes/ep-t1YtLS1n8Vs.md#^t-00-31-51)
   > "... Robinson to do so.” “And we think that you can help to this.” I got a very rude response that only Skordas is allowed to find a representation for Tyler Robinson. So, Skordas is a guy who's running as a sta..."

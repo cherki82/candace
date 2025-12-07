@@ -15,7 +15,7 @@ _Type: People_
 
 ## Mentions
 
-### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
+### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:10:47](/episodes/ep-a-e7HC6SeK8.md#^t-00-10-27)
   > "...t approve of her drug-addicted son dating a drug-addicted Vegas sex worker. So she and her husband, Christopher Mosley, had her killed. Both John DuPont and Mosley died in prison. Okay, great. Cool. France, France in t..."
@@ -27,4 +27,4 @@ _Type: People_
 ### Referenced By
 
 - [Lisa Dean](/entities/person-lisa-dean.md) **married to** this
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:47](/episodes/ep-a-e7HC6SeK8.md#^t-00-10-27)
+  - [ep-a-e7HC6SeK8 @ 00:10:47](/episodes/ep-a-e7HC6SeK8.md#^t-00-10-27)

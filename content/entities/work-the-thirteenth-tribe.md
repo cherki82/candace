@@ -10,7 +10,7 @@ _Type: Work_
 
 ## Mentions
 
-### [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
+### [ep-czVBmqZP6Ss](/episodes/ep-czVBmqZP6Ss.md)
 
 - [01:06:54](/episodes/ep-czVBmqZP6Ss.md#^t-01-06-18)
   > "...)’s murder and I took my mask off. It’s hard being a black conservative. Please look into the book ‘The Thirteenth Tribe.’” I've heard a lot about that book. It's about the origin of the Ashkenazi Jews, the Khazars. Yeah..."

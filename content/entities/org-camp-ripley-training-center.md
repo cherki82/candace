@@ -15,12 +15,12 @@ _Type: Organizations_
 
 ## Mentions
 
-### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
+### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:23:57](/episodes/ep-a-e7HC6SeK8.md#^t-00-23-23)
   > "...August 24th–27th, Operation Valhalla takes place between civilians and military men in Minnesota at Camp Ripley. Then we have the first public sign that went out on August 27th. August 27th—that's so late in the..."
 
-### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
+### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:08:40](/episodes/ep-mKXdKV-OBog.md#^t-00-08-31)
   > "... a week-long training where the 891st Squadron from Minot Air Force Base, North Dakota, traveled to Camp Ripley Training Center in Minnesota, August 24, 2024. The advanced training focused on air-based ground defense and nuclea..."
@@ -29,7 +29,7 @@ _Type: Organizations_
 - [00:13:39](/episodes/ep-mKXdKV-OBog.md#^t-00-13-39)
   > "...timeline from August 24th to 29th. They have this joint operation, Valhalla, that's taking place at Camp Ripley, and we are really getting tight here. We are talking about T minus 12 days until Charlie (Charlie ..."
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:16:44](/episodes/ep-tB5SXXmd9vU.md#^t-00-16-09)
   > "...uded military men from the Minot Air Force Base. And that joint exercise took place in Minnesota at Camp Ripley, and that ran just for a couple of days until August 27th, and that was known as Operation Valhalla..."
@@ -53,4 +53,4 @@ _Type: Organizations_
 ### Based In
 
 - [Minnesota](/entities/gpe-minnesota.md)
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:16:44](/episodes/ep-tB5SXXmd9vU.md#^t-00-16-09): "...that joint exercise took place in Minnesota at Camp Ripley..."
+  - [ep-tB5SXXmd9vU @ 00:16:44](/episodes/ep-tB5SXXmd9vU.md#^t-00-16-09): "...that joint exercise took place in Minnesota at Camp Ripley..."

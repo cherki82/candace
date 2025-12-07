@@ -10,7 +10,7 @@ _Type: People_
 
 ## Mentions
 
-### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
+### [ep-K1tFD7FfoCU](/episodes/ep-K1tFD7FfoCU.md)
 
 - [00:02:28](/episodes/ep-K1tFD7FfoCU.md#^t-00-02-14)
   > "...se we know how these things go. He was joined on stage by many others, including the very genocidal Randy Fine (Randy Fine). Randy Fine (Randy Fine), just to be clear, he has been so disgusting in his rhetoric ..."
@@ -45,7 +45,7 @@ _Type: People_
 - [00:48:53](/episodes/ep-K1tFD7FfoCU.md#^t-00-48-38)
   > "... a conversation." It's not cool to hold up like some donor-printed signs and do a dance in front of Randy Fine (Randy Fine). "Tucker (Tucker Carlson) is not MAGA." People can see which way the wind is blowing, ..."
 
-### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
+### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
 
 - [00:18:15](/episodes/ep-LATnak75Si0.md#^t-00-17-51)
   > "... to what it means to be a conservative. So I'm gonna let you listen to what Brett Cooper said about Randy Fine. And let me know if you're just so offended that you think that she needs to be canceled and destro..."
@@ -54,7 +54,7 @@ _Type: People_
 - [00:18:45](/episodes/ep-LATnak75Si0.md#^t-00-18-27)
   > "...about Israel than he does, you know, principles like free speech. So, buddy—like, my advice to you, Randy Fine—is just move to Israel at this point. Like, considering you had to go through anger management clas..."
 
-### [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
+### [ep-r1PS67aRmcA](/episodes/ep-r1PS67aRmcA.md)
 
 - [00:19:31](/episodes/ep-r1PS67aRmcA.md#^t-00-19-31)
   > "...t this is the same Ben Shapiro that roots the destruction of Gaza on. He supports and congratulated Randy Fine, who has literally tweeted, laughing at photos of dead Palestinian babies. But I guess Tucker (Tuck..."
@@ -64,4 +64,4 @@ _Type: People_
 ### Referenced By
 
 - [Brett Cooper](/entities/person-brett-cooper.md) **criticized** this
-  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:18:27](/episodes/ep-LATnak75Si0.md#^t-00-17-51)
+  - [ep-LATnak75Si0 @ 00:18:27](/episodes/ep-LATnak75Si0.md#^t-00-17-51)

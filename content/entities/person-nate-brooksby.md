@@ -14,7 +14,7 @@ _Type: People_
 
 ## Mentions
 
-### [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
+### [ep-ZGxnf5cj4Uw](/episodes/ep-ZGxnf5cj4Uw.md)
 
 - [00:08:57](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-08-57)
   > "...warming his home—as I said earlier—in a theatrical arrest setting. But rather confusingly, Brooksby—Nate Brooksby—tells us that Tyler is suicidal. Whatever. Let's just take a listen to what Nate Brooksby said afte..."
@@ -35,7 +35,7 @@ _Type: People_
 - [00:51:00](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-50-29)
   > "...on the force for 24 years. Like, what? You've always been a public figure, essentially. And I think Brooksby has some nervous energy there when he's like, “Oh, he called me. That's just totally usual.” It's n..."
 
-### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
+### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
 
 - [00:40:42](/episodes/ep-sImMM04XdWY.md#^t-00-40-42)
   > "... TV News Investigating. (Clip from KUER TV News) On September 17th, 2025, Washington County Sheriff Nate Brooksby held a press conference. "Our job was not to interview; our job was just to get him here." After Ch..."
@@ -45,6 +45,6 @@ _Type: People_
 ### Referenced By
 
 - [Candace Owens](/entities/person-candace-owens.md) **criticized** this
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:17:09](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-16-40)
+  - [ep-ZGxnf5cj4Uw @ 00:17:09](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-16-40)
 - [Mike Mitchell](/entities/person-mike-mitchell.md) **employed by** this
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:17:28](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-17-23)
+  - [ep-ZGxnf5cj4Uw @ 00:17:28](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-17-23)

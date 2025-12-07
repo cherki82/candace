@@ -10,12 +10,12 @@ _Type: Events_
 
 ## Mentions
 
-### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
+### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
 
 - [00:20:43](/episodes/ep-sImMM04XdWY.md#^t-00-20-22)
   > "... Wilmington before heading back to Cairo. On September 3rd, Brigitte Macron is basically opening up Paris Design Week, and she's photographed with the Minister of Culture. We have that, and then drops off. On the 4th,..."
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:39:34](/episodes/ep-tB5SXXmd9vU.md#^t-00-39-28)
   > "... to school. There's a lot going on. And I was very comforted to see that Brigitte Macron had opened Paris Design Week. Makes sense, right? Opened Paris Design Week on, I believe, September 4th. Very public. Gets photo..."

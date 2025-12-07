@@ -10,7 +10,7 @@ _Type: People_
 
 ## Mentions
 
-### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
+### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
 
 - [00:00:05](/episodes/ep-LATnak75Si0.md#^t-00-00-00)
   > "All right, you guys. Happy Wednesday for some people in New York City. Mamdani won. Okay, that's kind of the big story. The Republican establishment—they have a lot of excuses re..."
@@ -49,7 +49,7 @@ _Type: People_
 - [01:02:07](/episodes/ep-LATnak75Si0.md#^t-01-01-30)
   > ".... "As a conservative-leaning libertarian, I don't agree with socialism, but part of me is glad that Mamdani won because it sends a message. It was supposed to be MAGA, not MIGA." Exactly right. And when you ..."
 
-### [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
+### [ep-r1PS67aRmcA](/episodes/ep-r1PS67aRmcA.md)
 
 - [00:04:23](/episodes/ep-r1PS67aRmcA.md#^t-00-04-12)
   > "...g about that and then spinning it into the accusation that Tucker (Tucker Carlson) somehow supports Mamdani. I don't know. Take a listen. (Clip: Ben Shapiro) So I texted him, and I said, "Thanks so much for ..."

@@ -10,7 +10,7 @@ _Type: People_
 
 ## Mentions
 
-### [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
+### [ep-pc3pxRyNFZk](/episodes/ep-pc3pxRyNFZk.md)
 
 - [00:13:01](/episodes/ep-pc3pxRyNFZk.md#^t-00-12-44)
   > "... shot rang out. Take a listen to what he told Jesse Watters (Jesse Watters) on the night of. (Clip: Cooper Brown) Cooper Brown was an event volunteer who was just feet away from Charlie (Charlie Kirk) when he got..."
@@ -28,4 +28,4 @@ _Type: People_
 ### Works At
 
 - [Leadership Institute](/entities/org-leadership-institute.md)
-  - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:13:20](/episodes/ep-pc3pxRyNFZk.md#^t-00-13-06): "So I work for an organization called Leadership Institute."
+  - [ep-pc3pxRyNFZk @ 00:13:20](/episodes/ep-pc3pxRyNFZk.md#^t-00-13-06): "So I work for an organization called Leadership Institute."

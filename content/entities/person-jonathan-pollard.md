@@ -10,7 +10,7 @@ _Type: People_
 
 ## Mentions
 
-### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
+### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:26:26](/episodes/ep-mKXdKV-OBog.md#^t-00-26-11)
   > "...f cringe. And if that's not humiliating enough, Mike Huckabee just went over to Israel and met with Jonathan Pollard. Jonathan Pollard—if that name is not familiar to you—is a literal convicted Israeli spy. This is t..."

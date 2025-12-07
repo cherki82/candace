@@ -10,22 +10,22 @@ _Type: People_
 
 ## Mentions
 
-### [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
+### [ep-581dILVcEE4](/episodes/ep-581dILVcEE4.md)
 
 - [00:47:01](/episodes/ep-581dILVcEE4.md#^t-00-46-30)
   > "...hernick. He's a software tech billionaire guy. They fund a variety of pro-Israel causes through the David Horowitz Freedom Center. So that was another donor who went, "Bye-bye, Charlie (Charlie Kirk)." "How dare yo..."
 
-### [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
+### [ep-Cq7nj9rxPdo](/episodes/ep-Cq7nj9rxPdo.md)
 
 - [00:11:30](/episodes/ep-Cq7nj9rxPdo.md#^t-00-11-30)
   > "..."Please take a meeting with us." And before I could hear directly from Kanye's people, I heard from David Horowitz of Freedom Center. He's the one that first invited me when I was going viral on YouTube to speak at..."
 
-### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
+### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
 
 - [00:09:22](/episodes/ep-YFmRH8p5lt0.md#^t-00-08-56)
   > "... Veritas, and he and Charlie (Charlie Kirk) and myself all met at the same time in November at that David Horowitz Freedom Center event that I was telling you about. James O'Keefe was really young. So we all kind o..."
 
-### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
+### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
 
 - [00:31:22](/episodes/ep-adJ4LNGp84I.md#^t-00-30-42)
   > "...o has made, he's very clear about the fact he's an agent of Israel. Andreessen Horowitz, the son of David Horowitz. David Horowitz, from which all of the connections, PragerU, I could tell you the stories; PragerU,..."

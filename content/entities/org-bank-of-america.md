@@ -10,7 +10,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:28:53](/episodes/ep-tB5SXXmd9vU.md#^t-00-28-30)
   > "...it was originally built for the Maryland Bank as their bank headquarters from 1995 until 2006, when Bank of America acquired it. In 2018—remember, that's going to be the year that Macron comes to power—Bank of Ameri..."
@@ -24,4 +24,4 @@ _Type: Organizations_
 ### Acquired
 
 - [Bracebridge Complex](/entities/org-bracebridge-complex.md)
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:28:53](/episodes/ep-tB5SXXmd9vU.md#^t-00-28-30): ""...from 1995 until 2006, when Bank of America acquired it.""
+  - [ep-tB5SXXmd9vU @ 00:28:53](/episodes/ep-tB5SXXmd9vU.md#^t-00-28-30): ""...from 1995 until 2006, when Bank of America acquired it.""

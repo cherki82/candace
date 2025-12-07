@@ -10,12 +10,12 @@ _Type: People_
 
 ## Mentions
 
-### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
+### [ep-Qfwr08Ebczo](/episodes/ep-Qfwr08Ebczo.md)
 
 - [00:37:10](/episodes/ep-Qfwr08Ebczo.md#^t-00-37-10)
   > "...arlson)'s perspectives and what's guiding his perspectives—and then go backwards and listen to like Mark Levin and these people that got on their platforms and call him irredeemable. And you realize there's a d..."
 
-### [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
+### [ep-YaZfwLQ7vrI](/episodes/ep-YaZfwLQ7vrI.md)
 
 - [00:38:20](/episodes/ep-YaZfwLQ7vrI.md#^t-00-38-20)
   > "...planes, I think some more people are going to be on the run. Anyways, the oddest response came from Mark Levin (Mark Levin), who has been kind of psychopathically obsessed with destroying Tucker (Tucker Carlson..."

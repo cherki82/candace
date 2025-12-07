@@ -14,7 +14,7 @@ _Type: People_
 
 ## Mentions
 
-### [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
+### [ep-Cq7nj9rxPdo](/episodes/ep-Cq7nj9rxPdo.md)
 
 - [00:00:48](/episodes/ep-Cq7nj9rxPdo.md#^t-00-00-43)
   > "... so I can return home. And if you do, I will transfer you $1 million when I get back to my kingdom. Frank Turek is also being added into the mix. He is telling me, plus other conspiracy theorists, to shut up unl..."
@@ -27,17 +27,17 @@ _Type: People_
 - [00:48:51](/episodes/ep-Cq7nj9rxPdo.md#^t-00-48-17)
   > "... Be careful, because I might do your genealogy. You don't want me doing that. Careful. Then we have Frank Turek (Frank Turek speaking), who engages in this same sort of act of psychological manipulation, in my v..."
 
-### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
+### [ep-JQjCAsfoXEE](/episodes/ep-JQjCAsfoXEE.md)
 
 - [00:02:04](/episodes/ep-JQjCAsfoXEE.md#^t-00-01-24)
   > "...strongly suggest somebody's guilty of something for which you have no evidence. Challenge accepted, Frank Turek. Let's go, Max, today. Welcome back to Candace (Candace Owens). Pastor Rob McCoy—let's not forget h..."
 
-### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
+### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:31:16](/episodes/ep-SKGUzGHymcI.md#^t-00-31-12)
   > "...hat was a lie, actually. Again, going back to the early interviews that a lot of TPUSA people gave, Frank Turek, who was with Charlie (Charlie Kirk), he died with Charlie (Charlie Kirk) in the hospital, and carr..."
 
-### [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
+### [ep-YaZfwLQ7vrI](/episodes/ep-YaZfwLQ7vrI.md)
 
 - [00:16:48](/episodes/ep-YaZfwLQ7vrI.md#^t-00-16-39)
   > "...anking military families have been around for a long time: ties to the Navy, ties to the Air Force. Frank Turek (Frank Turek), Air Force. Rob McCoy—we discussed about his background, his naval background, psycho..."
@@ -50,7 +50,7 @@ _Type: People_
 - [00:18:50](/episodes/ep-YaZfwLQ7vrI.md#^t-00-18-50)
   > "...re New Age-y or more even occult-like than they are Christian. The occult—and that is correct. Now, Frank Turek (Frank Turek)—this didn't stop him, or it didn't make him go warn Charlie (Charlie Kirk) about this..."
 
-### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
+### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:27:46](/episodes/ep-ZAuuSq_j2_w.md#^t-00-27-46)
   > "...uspend our rational thinking altogether and follow them. I think that's it. That's what it must be. Frank Turek has come out, and he's telling us that Blake Neff—even though he seems very insincere—you should kn..."
@@ -59,38 +59,38 @@ _Type: People_
 - [00:29:29](/episodes/ep-ZAuuSq_j2_w.md#^t-00-29-14)
   > "...t thing and everyone should buy Josh Hammer's book. He had that meeting; then he had a meeting with Frank Turek, and he was like, "Blake Neff is the smartest person, and nobody should question Blake Neff." It ju..."
 
-### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
+### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:48:26](/episodes/ep-a-e7HC6SeK8.md#^t-00-47-57)
   > "...that's probably what Charlie (Charlie Kirk) would— He apparently had a 15–20 year plan according to Frank Turek. Or was it Rob McCoy? Rob McCoy said that, I think. I think they all said it—honestly—but Rob McCoy..."
 
-### [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
+### [ep-c5BcKF91iec](/episodes/ep-c5BcKF91iec.md)
 
 - [00:56:51](/episodes/ep-c5BcKF91iec.md#^t-00-56-33)
   > "...o Ian Carroll's channel— as well. He pointed out that like the only person who was acting right was Frank Turek. Like, the first thing you do is get down, right? Because you don't know if there's going to be ano..."
 - [00:57:17](/episodes/ep-c5BcKF91iec.md#^t-00-57-17)
   > "...ground. That's like the first normal thing to do is to get low, get—make sure you're safe. And then Frank Turek kind of crawls back towards Charlie and then tries to like see him to the car. Like, all of that fe..."
 
-### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
+### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 
 - [00:10:58](/episodes/ep-his-JBjlkh8.md#^t-00-10-58)
   > "...ive-stream that. Keep going. She has suggested that TPUSA Faith-affiliated pastors, like theologian Frank Turek—who we'll have on in a moment—and Pastor Rob McCoy, are part of a military, quote, "infiltration of..."
 
-### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
+### [ep-ja26iltROkM](/episodes/ep-ja26iltROkM.md)
 
 - [00:54:58](/episodes/ep-ja26iltROkM.md#^t-00-54-23)
   > "... best to come up with a story that works, and none of them do. Whitney writes: "Something about Dr. Frank Turek isn't sitting right with me. Unsure if he's having some unfounded guilt about not doing more—and th..."
 - [00:55:34](/episodes/ep-ja26iltROkM.md#^t-00-55-02)
   > "...ech that he wanted to give, and nothing in my research has come up about—thus far has come up about—Frank Turek. So I'm just reading your comment there. Wasn't the direction—again—that I would have taken. But I ..."
 
-### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
+### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
 
 - [01:00:49](/episodes/ep-vwG1juDCQZQ.md#^t-01-00-33)
   > "... into surgery? Because they explained that he had died instantly. It wasn't just Erika, by the way: Frank Turek said it on stage—that he knew in the car that he was gone. But maybe he still had a pulse. Again: t..."
 - [01:00:58](/episodes/ep-vwG1juDCQZQ.md#^t-01-00-33)
   > "...aybe he still had a pulse. Again: this would be a great thing—since they mentioned it—for Andrew or Frank Turek to respond to. It's a very easy thing for them to respond to to clear up some confusion. Jesse Webb..."
 
-### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
+### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:01:38](/episodes/ep-yAIb-NuUh_U.md#^t-00-01-32)
   > "...ions; just accept the fed slop. It seems a little bit ridiculous. We should start, by the way, with Frank Turek. Frank Turek, as a reminder, he is the pastor friend who was next to Charlie (Charlie Kirk). Actual..."
@@ -112,17 +112,17 @@ _Type: People_
 ### Affiliated With
 
 - [TPUSA Faith](/entities/org-turning-point-usa-faith.md)
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:58](/episodes/ep-his-JBjlkh8.md#^t-00-10-16): "TPUSA Faith-affiliated pastors, like theologian Frank Turek"
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:58](/episodes/ep-his-JBjlkh8.md#^t-00-10-16): "TPUSA Faith affiliated pastors, like theologian Frank Turek..."
+  - [ep-his-JBjlkh8 @ 00:10:58](/episodes/ep-his-JBjlkh8.md#^t-00-10-16): "TPUSA Faith-affiliated pastors, like theologian Frank Turek"
+  - [ep-his-JBjlkh8 @ 00:10:58](/episodes/ep-his-JBjlkh8.md#^t-00-10-16): "TPUSA Faith affiliated pastors, like theologian Frank Turek..."
 - [Turning Point USA](/entities/org-turning-point-usa.md)
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:58](/episodes/ep-his-JBjlkh8.md#^t-00-10-16): "TPUSA Faith affiliated pastors, like theologian Frank Turek,"
+  - [ep-his-JBjlkh8 @ 00:10:58](/episodes/ep-his-JBjlkh8.md#^t-00-10-16): "TPUSA Faith affiliated pastors, like theologian Frank Turek,"
 
 ### Criticized
 
 - [Candace Owens](/entities/person-candace-owens.md)
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:01:57](/episodes/ep-yAIb-NuUh_U.md#^t-00-01-32): "Well, I just learned that Frank Turek was reacting to me."
+  - [ep-yAIb-NuUh_U @ 00:01:57](/episodes/ep-yAIb-NuUh_U.md#^t-00-01-32): "Well, I just learned that Frank Turek was reacting to me."
 
 ### Interviewed
 
 - [J. Warner Wallace](/entities/person-j-warner-wallace.md)
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:03:18](/episodes/ep-yAIb-NuUh_U.md#^t-00-02-46): "why I had my friend Detective J. Warner Wallace on my podcast two weeks after Charlie (Charlie Kirk)'s martyrdom."
+  - [ep-yAIb-NuUh_U @ 00:03:18](/episodes/ep-yAIb-NuUh_U.md#^t-00-02-46): "why I had my friend Detective J. Warner Wallace on my podcast two weeks after Charlie (Charlie Kirk)'s martyrdom."

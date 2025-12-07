@@ -14,7 +14,7 @@ _Type: People_
 
 ## Mentions
 
-### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
+### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:04:42](/episodes/ep-a-e7HC6SeK8.md#^t-00-04-18)
   > "...o be American ignorant, but I had no idea. And yes, that man was the founder. And yes, that is like Napoleon Bonaparte. His grandfather—Charles's grandfather—was Napoleon Bonaparte's brother. This is like—this is great..."

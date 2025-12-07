@@ -10,7 +10,7 @@ _Type: People_
 
 ## Mentions
 
-### [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
+### [ep-r1PS67aRmcA](/episodes/ep-r1PS67aRmcA.md)
 
 - [00:01:57](/episodes/ep-r1PS67aRmcA.md#^t-00-01-26)
   > "...t was directed at Nick Fuentes, which we'll circle back to. Also, this was a real tweet directed at Ron Paul. "Ron Paul is manifestly insane. As in previous debates, he is now gripping the pen as he would the..."
@@ -21,7 +21,7 @@ _Type: People_
 - [00:02:14](/episodes/ep-r1PS67aRmcA.md#^t-00-02-10)
   > "...Paul, really? And this is another tweet. "Perry had the memorable moments of the evening other than Ron Paul's corpse leaning forward from the grave and strangling the Jews." I don't know what's going on, man..."
 
-### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
+### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
 
 - [00:49:30](/episodes/ep-sImMM04XdWY.md#^t-00-49-20)
   > "... empowered other people to know what's going on behind the scenes too. VBVC writes: "Just know that Ron Paul has used his platform to speak about it. His friend Charlie (Charlie Kirk) Kirk—questioning the off..."

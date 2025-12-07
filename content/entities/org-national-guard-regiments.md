@@ -10,7 +10,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:59:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-59-13)
   > "... information that I am getting, which I'm going to explain later this week, I think there were some National Guard regiments that were there, some French Foreign Legionnaires that were there, and yes, some Israelis that were..."
@@ -20,4 +20,4 @@ _Type: Organizations_
 ### Member Of
 
 - [National Guard](/entities/org-national-guard.md)
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:59:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-58-43): "...I think there were some National Guard regiments that were there..."
+  - [ep-tB5SXXmd9vU @ 00:59:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-58-43): "...I think there were some National Guard regiments that were there..."

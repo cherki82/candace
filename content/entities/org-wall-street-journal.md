@@ -10,19 +10,19 @@ _Type: Organizations_
 
 ## Mentions
 
-### [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
+### [ep-7RLtGgkTh9o](/episodes/ep-7RLtGgkTh9o.md)
 
 - [00:57:03](/episodes/ep-7RLtGgkTh9o.md#^t-00-56-36)
   > "...oint USA is Allie Stuckey. That is a wild headline. And they repeated that—the heir apparent—in the Wall Street Journal. That's weird. It's weird because it's wrong, and it's not true. That's why it's weird. Not because..."
 
-### [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
+### [ep-ozWJz2spBcI](/episodes/ep-ozWJz2spBcI.md)
 
 - [00:36:00](/episodes/ep-ozWJz2spBcI.md#^t-00-36-00)
   > "...you're kidding me? Should I do what she did, and it would have been more moral for me to invite the Wall Street Journal a literal week after Charlie (Charlie Kirk) was murdered to photograph me in high boots standing ov..."
 - [00:37:26](/episodes/ep-ozWJz2spBcI.md#^t-00-37-26)
   > "...murder. Anyways, I want to read a little blurb from this article. Again, published September 18th. (Wall Street Journal article quote:) "Alex Clark was about to head to the airport for a work trip to celebrate the first..."
 
-### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
+### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
 
 - [00:24:02](/episodes/ep-vwG1juDCQZQ.md#^t-00-23-38)
   > "... people started going, "Lie, lie, lie, lie, lie." Right. Case in point: Alex Clark wanted to do the Wall Street Journal thing until I caught like this little lie. And it's like: what are you saying this thing about Cath..."

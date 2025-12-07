@@ -1,0 +1,28 @@
+---
+title: "You were present when Ackman lost his mind on Charlie"
+claim_id: "claim-dab460c0e0da"
+episode: "czVBmqZP6Ss"
+type: "factual"
+---
+
+**Status:** ⏳ Not yet verified
+**Type:** Factual
+
+## Claim
+
+> You were present when Ackman lost his mind on Charlie
+
+## Source
+
+**Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
+**Timestamp:** [00:19:39](/episodes/ep-czVBmqZP6Ss.md#^t-00-19-14) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1179);return false;">▶️ Play</a>
+
+## Verification
+
+_This claim has not yet been verified._
+
+## Follow-up
+
+**Status:** Open
+**Expected:** Verification through accounts from attendees or text messages

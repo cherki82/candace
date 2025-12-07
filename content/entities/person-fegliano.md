@@ -10,7 +10,7 @@ _Type: People_
 
 ## Mentions
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:58:21](/episodes/ep-tB5SXXmd9vU.md#^t-00-57-59)
   > "... to this, of course, has to be more truth. We cannot be fearful. We have to keep telling the truth. Fegliano writes, "These elites are horror-show cruel. I am understanding in a way that I didn't before why p..."

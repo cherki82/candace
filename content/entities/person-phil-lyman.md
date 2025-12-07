@@ -14,19 +14,19 @@ _Type: People_
 
 ## Mentions
 
-### [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
+### [ep-581dILVcEE4](/episodes/ep-581dILVcEE4.md)
 
 - [00:18:51](/episodes/ep-581dILVcEE4.md#^t-00-18-25)
   > "... of the alleged shooter. One, of course, of him walking in front of—I think this was the house that Phil Lyman was at. Yes, that's what we just discussed. That sure as heck could be a white RAV4. The second pie..."
 
-### [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
+### [ep-UBkFkg4UNY8](/episodes/ep-UBkFkg4UNY8.md)
 
 - [00:08:25](/episodes/ep-UBkFkg4UNY8.md#^t-00-07-53)
   > "...itical connection. That was the reason it happened. Her sister ran as lieutenant governor alongside Phil Lyman, and actually Good Morning America reached out to Phil Lyman, and somehow that is how—instead of he..."
 - [00:08:30](/episodes/ep-UBkFkg4UNY8.md#^t-00-07-53)
   > "...r ran as lieutenant governor alongside Phil Lyman, and actually Good Morning America reached out to Phil Lyman, and somehow that is how—instead of her, Phil Lyman or her sister—they ended up with her sister's c..."
 
-### [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
+### [ep-YA1FxrDWNIo](/episodes/ep-YA1FxrDWNIo.md)
 
 - [00:00:39](/episodes/ep-YA1FxrDWNIo.md#^t-00-00-39)
   > "...eveal those lies. Also, yesterday we asked for the public's help in identifying two individuals who Phil Lyman's nephew described as his close friends who decided to retrace the path of Charlie's (Charlie Kirk's)..."
@@ -59,7 +59,7 @@ _Type: People_
 - [00:16:02](/episodes/ep-YA1FxrDWNIo.md#^t-00-15-56)
   > ".... Well, they're just not true. Because at 12:23—according to his metadata, because he sent it to me—Phil Lyman was inside of the building. And he must have then—immediately, according to our timeline—hit record..."
 
-### [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
+### [ep-ZGxnf5cj4Uw](/episodes/ep-ZGxnf5cj4Uw.md)
 
 - [00:25:45](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-25-45)
   > ".... That was really— And right away he told me on like day two of the investigation that he worked on Phil Lyman's gubernatorial campaign. Phil Lyman ran against the current Governor Cox, and he lost. And one day—v..."
@@ -110,7 +110,7 @@ _Type: People_
 - [00:54:03](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-53-22)
   > "...y to help you—because he's not being very kind right now to this poor guy Nick who was like a super Phil Lyman super fan.” And I think that went sideways. Kaya continues: “Prayer for you and him. You're getting..."
 
-### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
+### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
 
 - [00:03:05](/episodes/ep-adJ4LNGp84I.md#^t-00-02-54)
   > "... help you guys with that information. Also, another thing that I came across, and this is regarding Phil Lyman's campaign website. You guys were asking me if we came across that. Yes, I did come across that, and ..."
@@ -133,17 +133,17 @@ _Type: People_
 - [00:17:49](/episodes/ep-adJ4LNGp84I.md#^t-00-17-40)
   > "...m Austria, and then we're going, who's this goth kid that Phil has been clear he does not know him? Phil Lyman does not know this individual. He could not help identify him. I told you it was unusual that our i..."
 
-### [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
+### [ep-pc3pxRyNFZk](/episodes/ep-pc3pxRyNFZk.md)
 
 - [00:27:27](/episodes/ep-pc3pxRyNFZk.md#^t-00-27-06)
   > "...ing to make us believe that this is what we heard." And it's interesting also because remember when Phil Lyman gave us his footage and he walks outside of that building? The two now infamous goth girls were not..."
 
-### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
+### [ep-q7f8r-THr84](/episodes/ep-q7f8r-THr84.md)
 
 - [01:12:21](/episodes/ep-q7f8r-THr84.md#^t-01-11-54)
   > "...thing about that election. "He stole the election to reinsert himself as the governor. Reach out to Phil Lyman, who ran against Cox and was chosen as a Republican candidate by the delegates. And Eric Moutsos wa..."
 
-### [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
+### [ep-t1YtLS1n8Vs](/episodes/ep-t1YtLS1n8Vs.md)
 
 - [00:21:00](/episodes/ep-t1YtLS1n8Vs.md#^t-00-20-20)
   > "...owing, our witness tree. We've got Tiffany Barker, of course; she's with the nieces. Her sister was Phil Lyman's running mate. She spoke to Good Morning America in the wee hours of the morning after. Phil Lyman, ..."
@@ -157,19 +157,19 @@ _Type: People_
 ### Criticized
 
 - [Candace Owens](/entities/person-candace-owens.md)
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:21:12](/episodes/ep-t1YtLS1n8Vs.md#^t-00-21-03): "Phil Lyman... he really does not like me at all."
+  - [ep-t1YtLS1n8Vs @ 00:21:12](/episodes/ep-t1YtLS1n8Vs.md#^t-00-21-03): "Phil Lyman... he really does not like me at all."
 
 ### Lives In
 
 - [Blanding](/entities/gpe-blanding.md)
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:34:49](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-34-14): "heading back from Salt Lake to Blanding"
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:34:55](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-34-49): "I was just heading back from Salt Lake to Blanding."
+  - [ep-ZGxnf5cj4Uw @ 00:34:49](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-34-14): "heading back from Salt Lake to Blanding"
+  - [ep-ZGxnf5cj4Uw @ 00:34:55](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-34-49): "I was just heading back from Salt Lake to Blanding."
 
 ### Referenced By
 
 - [George Zinn](/entities/person-george-zinn.md) **endorsed** this
-  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:03:27](/episodes/ep-adJ4LNGp84I.md#^t-00-02-54)
+  - [ep-adJ4LNGp84I @ 00:03:27](/episodes/ep-adJ4LNGp84I.md#^t-00-02-54)
 - [George Zinn](/entities/person-george-zinn.md) **endorsed** this
-  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:03:27](/episodes/ep-adJ4LNGp84I.md#^t-00-02-54)
+  - [ep-adJ4LNGp84I @ 00:03:27](/episodes/ep-adJ4LNGp84I.md#^t-00-02-54)
 - [Kayleigh McEnany](/entities/person-kayleigh-mcenany.md) **interviewed** this
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:28:46](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-28-37)
+  - [ep-ZGxnf5cj4Uw @ 00:28:46](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-28-37)

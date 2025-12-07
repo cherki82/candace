@@ -10,7 +10,7 @@ _Type: People_
 
 ## Mentions
 
-### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
+### [ep-sreYYcID-QY](/episodes/ep-sreYYcID-QY.md)
 
 - [00:14:52](/episodes/ep-sreYYcID-QY.md#^t-00-14-12)
   > "... and we find that he doesn't just co-own just that one house on the street with somebody else named Samuel Steele, but Samuel and his wife Carrie are the ones that own the house that gave the footage, not Erwin. B..."
@@ -20,7 +20,7 @@ _Type: People_
 ### Married To
 
 - [Carrie Steele](/entities/person-carrie-steele.md)
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:14:52](/episodes/ep-sreYYcID-QY.md#^t-00-14-12): "Samuel and his wife Carrie are the ones that own the house"
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:15:08](/episodes/ep-sreYYcID-QY.md#^t-00-14-56): "Samuel and his wife Carrie are the ones that own the house"
+  - [ep-sreYYcID-QY @ 00:14:52](/episodes/ep-sreYYcID-QY.md#^t-00-14-12): "Samuel and his wife Carrie are the ones that own the house"
+  - [ep-sreYYcID-QY @ 00:15:08](/episodes/ep-sreYYcID-QY.md#^t-00-14-56): "Samuel and his wife Carrie are the ones that own the house"
 - [Carrie Steele](/entities/person-carrie-steele.md)
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:14:52](/episodes/ep-sreYYcID-QY.md#^t-00-14-12)
+  - [ep-sreYYcID-QY @ 00:14:52](/episodes/ep-sreYYcID-QY.md#^t-00-14-12)

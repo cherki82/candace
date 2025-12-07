@@ -10,12 +10,12 @@ _Type: People_
 
 ## Mentions
 
-### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
+### [ep-K1tFD7FfoCU](/episodes/ep-K1tFD7FfoCU.md)
 
 - [00:46:02](/episodes/ep-K1tFD7FfoCU.md#^t-00-45-48)
   > "...aul) writes: "Tyler Robinson's (Tyler Robinson) ACT score was 34, so he was in the 99 percentile." "Thomas Matthew Crooks' (Thomas Matthew Crooks) SAT score was in the 99 percentile." "Both recent lone shooters scored in ..."
 
-### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
+### [ep-QZWSsq8ZWzw](/episodes/ep-QZWSsq8ZWzw.md)
 
 - [00:00:36](/episodes/ep-QZWSsq8ZWzw.md#^t-00-00-01)
   > "... also somewhat related to another explosive story that I have for you today because do you remember Thomas Matthew Crooks? Probably not, because oddly the feds told us that, hey, don't even worry about that 20-year-old wh..."

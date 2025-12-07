@@ -15,7 +15,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
+### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
 
 - [00:47:10](/episodes/ep-LATnak75Si0.md#^t-00-46-55)
   > "...s are coming; the Muslims are here; Mamdani—there's a jihadist threat; something big is coming. And the Pentagon— like where the Department of Defense is housed—the Pentagon, which was implicated in 9/11—a lot of..."
@@ -26,7 +26,7 @@ _Type: Organizations_
 - [00:47:44](/episodes/ep-LATnak75Si0.md#^t-00-47-39)
   > "...this headline. "Conservative activist Laura Loomer, a Trump (Donald Trump) ally, says she has a new Pentagon press pass." Now, this is of interest. This should be of interest to everybody. But you don't have ..."
 
-### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
+### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:24:51](/episodes/ep-ZAuuSq_j2_w.md#^t-00-24-28)
   > "...t that hey, isn't it kind of strange that neither the White House nor the Élysée Palace—or even the United States Pentagon—has formally denied this quote-unquote crazy claim? That's what Hollywood's for, right? You—all of ..."
@@ -39,7 +39,7 @@ _Type: Organizations_
 - [00:47:30](/episodes/ep-ZAuuSq_j2_w.md#^t-00-47-08)
   > "...d. We can't come to the party. We can't hang out with famous people and cool people. We can't be at the Pentagon flossin'— like it's like the Miami strip or something. We get it. Okay, next. Can we get something ..."
 
-### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
+### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 
 - [00:37:34](/episodes/ep-his-JBjlkh8.md#^t-00-37-21)
   > "... that. I think we're okay there. But let's start with the Pentagon because this is interesting. The United States Pentagon—in case you don't know—is the complex that houses our Department of Defense. It's a massive complex..."
@@ -62,7 +62,7 @@ _Type: Organizations_
 - [00:45:36](/episodes/ep-his-JBjlkh8.md#^t-00-44-57)
   > "...f touch to the American people than to see this as—they're like, "Send it around the press, ha ha." The Pentagon is laughing at foreign assassination. They don't take anything seriously. Yeah, we just watched Tru..."
 
-### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
+### [ep-sreYYcID-QY](/episodes/ep-sreYYcID-QY.md)
 
 - [00:04:43](/episodes/ep-sreYYcID-QY.md#^t-00-04-43)
   > "... it take before they were willing to show us any footage of the alleged giant Boeing plane that hit the Pentagon building? We weren't allowed to see that for a very long time. I think someone actually in Congress..."
@@ -72,16 +72,16 @@ _Type: Organizations_
 ### Referenced By
 
 - [Laura Loomer](/entities/person-laura-loomer.md) **affiliated with** this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:38](/episodes/ep-his-JBjlkh8.md#^t-00-02-58)
+  - [ep-his-JBjlkh8 @ 00:03:38](/episodes/ep-his-JBjlkh8.md#^t-00-02-58)
 - [Kam Higby](/entities/person-cam-higby.md) **affiliated with** this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:45](/episodes/ep-his-JBjlkh8.md#^t-00-03-40)
+  - [ep-his-JBjlkh8 @ 00:03:45](/episodes/ep-his-JBjlkh8.md#^t-00-03-40)
 - [Department of Defense](/entities/org-department-of-defense.md) **headquartered in** this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:30](/episodes/ep-his-JBjlkh8.md#^t-00-00-44)
+  - [ep-his-JBjlkh8 @ 00:01:30](/episodes/ep-his-JBjlkh8.md#^t-00-00-44)
 - [United States Army](/entities/org-united-states-army.md) **headquartered in** this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#^t-00-01-31)
+  - [ep-his-JBjlkh8 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#^t-00-01-31)
 - [United States Navy](/entities/org-united-states-navy.md) **headquartered in** this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#^t-00-01-31)
+  - [ep-his-JBjlkh8 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#^t-00-01-31)
 - [United States Air Force](/entities/org-united-states-air-force.md) **headquartered in** this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#^t-00-01-31)
+  - [ep-his-JBjlkh8 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#^t-00-01-31)
 - [Kingsley Wilson](/entities/person-kingsley-wilson.md) **works at** this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:05:51](/episodes/ep-his-JBjlkh8.md#^t-00-05-36)
+  - [ep-his-JBjlkh8 @ 00:05:51](/episodes/ep-his-JBjlkh8.md#^t-00-05-36)

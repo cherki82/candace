@@ -10,7 +10,7 @@ _Type: People_
 
 ## Mentions
 
-### [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
+### [ep-YA1FxrDWNIo](/episodes/ep-YA1FxrDWNIo.md)
 
 - [00:02:50](/episodes/ep-YA1FxrDWNIo.md#^t-00-02-50)
   > "...stigation. We introduced—and I said his name was Shane; I'd like to correct that record—his nephew, Shaner Broderick, who rather notoriously retraced the footpath of the killer with his two close friends. They were l..."
@@ -28,4 +28,4 @@ _Type: People_
 ### Works At
 
 - [Senator Mike Lee](/entities/person-senator-mike-lee.md)
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:07:09](/episodes/ep-YA1FxrDWNIo.md#^t-00-06-55): "chosen for an internship with Senator Mike Lee of Utah."
+  - [ep-YA1FxrDWNIo @ 00:07:09](/episodes/ep-YA1FxrDWNIo.md#^t-00-06-55): "chosen for an internship with Senator Mike Lee of Utah."

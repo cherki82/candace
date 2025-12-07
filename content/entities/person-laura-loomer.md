@@ -10,19 +10,19 @@ _Type: People_
 
 ## Mentions
 
-### [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
+### [ep-2Riv3I7D0Yk](/episodes/ep-2Riv3I7D0Yk.md)
 
 - [01:15:04](/episodes/ep-2Riv3I7D0Yk.md#^t-01-15-04)
   > "...n our book club. You can buy our—we don't know, no, but we know—brand stuff. Join us in prison when Laura Loomer sends us for writing CIA in parody. And it's a parody because we don't want to be in the CIA. We th..."
 
-### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
+### [ep-5autG89PW6w](/episodes/ep-5autG89PW6w.md)
 
 - [00:09:26](/episodes/ep-5autG89PW6w.md#^t-00-09-04)
   > "...allow questions. We even allow diagnoses. We're chill. We're on the side of truth. We are so chill. Laura Loomer, who is legally just—you know—not allowed to own a gun because she's a literal lunatic, had the ner..."
 - [00:09:37](/episodes/ep-5autG89PW6w.md#^t-00-09-04)
   > "...ral lunatic, had the nerve to post this about me. When somebody called her out, Morgan Ariel said, "Laura Loomer hasn't made a single post about Candace Owens reporting on Charlie (Charlie Kirk)'s group messages...."
 
-### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
+### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
 
 - [00:47:39](/episodes/ep-LATnak75Si0.md#^t-00-47-39)
   > "..., money, a lot of questions about the Pentagon— they have just given press passes. They've just put Laura Loomer in their press corps. I'm not kidding. Check this out. Check out this headline. "Conservative activ..."
@@ -33,12 +33,12 @@ _Type: People_
 - [00:48:12](/episodes/ep-LATnak75Si0.md#^t-00-48-12)
   > "...of David and trying to correlate being banned from Twitter as being in a Holocaust is the fact that Laura Loomer is factually not Jewish. Okay, so she's living in a delusion that she's even Jewish. That was polit..."
 
-### [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
+### [ep-YA1FxrDWNIo](/episodes/ep-YA1FxrDWNIo.md)
 
 - [00:42:35](/episodes/ep-YA1FxrDWNIo.md#^t-00-42-16)
   > "... end up in a world where—like—a couple of days before Charlie Kirk (Charlie Kirk) dies—someone like Laura Loomer is calling him anti-Semite, and she's funded by one of Charlie's (Charlie Kirk's) donors, Bob Shill..."
 
-### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
+### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 
 - [00:38:36](/episodes/ep-his-JBjlkh8.md#^t-00-37-59)
   > "...rder—without asking any questions. And so that's why they're being let in, most notably, obviously, Laura Loomer. She's totally nutty. And I don't say that in a way of like—it's an ad hominem attack. I mean, like..."
@@ -47,7 +47,7 @@ _Type: People_
 - [00:38:51](/episodes/ep-his-JBjlkh8.md#^t-00-38-41)
   > "...d they are to laundering the reputations of anyone as long as they say, "I support Israel," because Laura Loomer is quite literally so deranged that she once handcuffed herself to the Twitter headquarters because..."
 
-### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
+### [ep-ja26iltROkM](/episodes/ep-ja26iltROkM.md)
 
 - [00:26:54](/episodes/ep-ja26iltROkM.md#^t-00-26-14)
   > "...very clear: you guys are all complicit. Just this weekend—this is real. A real live tweet came from Laura Loomer, our resident psycho. She tweeted this. (Laura Loomer tweet) She's been attacking me nonstop. "As p..."
@@ -60,7 +60,7 @@ _Type: People_
 - [00:59:55](/episodes/ep-ja26iltROkM.md#^t-00-59-15)
   > "... hood rat stuff. I want to do it with my friends. So if you buy it, then I'm going to report you to Laura Loomer—who will report you to the CIA. And I'll see you guys in prison tomorrow."
 
-### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
+### [ep-q7f8r-THr84](/episodes/ep-q7f8r-THr84.md)
 
 - [01:04:32](/episodes/ep-q7f8r-THr84.md#^t-01-03-56)
   > "... going to crush me? Are you going to impoverish us all? Why are you guys like this, is my question. Laura Loomer in too. This is, like, how Bill, I guess, wins the argument. They're like, "Bill gave money." It's ..."
@@ -70,10 +70,10 @@ _Type: People_
 ### Affiliated With
 
 - [United States Pentagon](/entities/org-united-states-pentagon.md)
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:38](/episodes/ep-his-JBjlkh8.md#^t-00-02-58): ""So our government, the Pentagon, decided to credential her at this time.  She's a part of the new press corps that we can trust.""
+  - [ep-his-JBjlkh8 @ 00:03:38](/episodes/ep-his-JBjlkh8.md#^t-00-02-58): ""So our government, the Pentagon, decided to credential her at this time.  She's a part of the new press corps that we can trust.""
 
 ### Criticized
 
 - [Candace Owens](/entities/person-candace-owens.md)
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:27:34](/episodes/ep-ja26iltROkM.md#^t-00-26-58): "Candace Owens is selling a CIA line of merchandise"
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:26:54](/episodes/ep-ja26iltROkM.md#^t-00-26-14): "A real live tweet came from Laura Loomer... She's been attacking me nonstop"
+  - [ep-ja26iltROkM @ 00:27:34](/episodes/ep-ja26iltROkM.md#^t-00-26-58): "Candace Owens is selling a CIA line of merchandise"
+  - [ep-ja26iltROkM @ 00:26:54](/episodes/ep-ja26iltROkM.md#^t-00-26-14): "A real live tweet came from Laura Loomer... She's been attacking me nonstop"

@@ -14,7 +14,7 @@ _Type: Places_
 
 ## Mentions
 
-### [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
+### [ep-581dILVcEE4](/episodes/ep-581dILVcEE4.md)
 
 - [00:00:37](/episodes/ep-581dILVcEE4.md#^t-00-00-00)
   > "...investigation. They are deeply upset that we revealed the license plate numbers associated with the Egyptian frequent flyers. Why do you think they're upset about that? I don't understand. Why would something..."
@@ -43,14 +43,14 @@ _Type: Places_
 - [00:02:20](/episodes/ep-581dILVcEE4.md#^t-00-02-08)
   > "... Kirk for years." "What can we do to help?" "Gosh, we're right next door to them." "We did a lot to Egypt." "We actually control a lot, and we surveil a lot in that state." "Let us help you." Rather, their..."
 
-### [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
+### [ep-7RLtGgkTh9o](/episodes/ep-7RLtGgkTh9o.md)
 
 - [00:50:28](/episodes/ep-7RLtGgkTh9o.md#^t-00-50-11)
   > "...re week because he got swept up into something. So that was a cancellation. The second thing is the Egyptian plane. That—the thing about the Egyptian plane—is so explosive. Like I said to you, I had to try to..."
 - [00:50:30](/episodes/ep-7RLtGgkTh9o.md#^t-00-50-11)
   > "...thing. So that was a cancellation. The second thing is the Egyptian plane. That—the thing about the Egyptian plane—is so explosive. Like I said to you, I had to try to get this to the right people in governme..."
 
-### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
+### [ep-JQjCAsfoXEE](/episodes/ep-JQjCAsfoXEE.md)
 
 - [00:05:14](/episodes/ep-JQjCAsfoXEE.md#^t-00-05-00)
   > "...cts, always. And my gut started to tell me that they suddenly began panicking when I discovered the Egyptian planes. They did what we now term a pre-bunking, right? A pre-bunking is when you say something cas..."
@@ -81,12 +81,12 @@ _Type: Places_
 - [00:32:18](/episodes/ep-JQjCAsfoXEE.md#^t-00-31-45)
   > "...S Liberty. That was the plan, right? To make us think Egypt had attacked us. But it wasn't actually Egypt that attacked that ship. It was Israel. Israel attacked that ship. Israel is growing increasingly a..."
 
-### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
+### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
 
 - [00:55:42](/episodes/ep-MUA9ebCF4Ow.md#^t-00-55-02)
   > "...dards cup. This one has been a hot seller. And beyond that, I saw some of you guys asking about the Egyptian planes. Yep, we have that for you. We're in for a week. Tomorrow, we're going to talk a bit more ab..."
 
-### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
+### [ep-Qfwr08Ebczo](/episodes/ep-Qfwr08Ebczo.md)
 
 - [00:49:49](/episodes/ep-Qfwr08Ebczo.md#^t-00-49-32)
   > "...y with more information. Tomorrow we will have more explosive information and revelations about the Egyptian plane, which... So interesting—speaking of the unique relationship between Egypt and Israel—TikTok ..."
@@ -101,7 +101,7 @@ _Type: Places_
 - [00:47:04](/episodes/ep-Qfwr08Ebczo.md#^t-00-46-45)
   > "...ries make more sense working together." Yeah. Country A that gets most of our money is Israel. B is Egypt. And there is a reason for that. So it doesn't look like it's all going to Israel. That's my perspe..."
 
-### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
+### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:00:00](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
   > "... a couple of weeks ago a very thorough tip regarding Charlie (Charlie Kirk)'s assassination and the Egyptian planes. Now, what is even more compelling about this tip is that this individual who works with or ..."
@@ -124,7 +124,7 @@ _Type: Places_
 - [00:19:43](/episodes/ep-SKGUzGHymcI.md#^t-00-19-26)
   > "...ent hop that ends in Wilmington before going home. Four days later, on November 17th, 2022, it does Egypt to Wilmington, again, departing at 8:54 a.m., and this time it stays in Wilmington until November 2..."
 
-### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
+### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
 
 - [00:03:05](/episodes/ep-YFmRH8p5lt0.md#^t-00-02-47)
   > "...nic system. Anyway, what happened yesterday was obviously I did the show, and I circled back to the Egyptian military plane. I had simply tweeted about it while I was in Wyoming, obviously recognizing that it..."
@@ -141,12 +141,12 @@ _Type: Places_
 - [00:35:12](/episodes/ep-YFmRH8p5lt0.md#^t-00-34-46)
   > "...ibes that they're putting down, okay? That happens July 11th, and now our plane is coming back from Egypt. Just nine days later, it goes through Omaha, Nebraska at 11:37 a.m. It departs, and it heads over ..."
 
-### [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
+### [ep-YaZfwLQ7vrI](/episodes/ep-YaZfwLQ7vrI.md)
 
 - [00:38:11](/episodes/ep-YaZfwLQ7vrI.md#^t-00-37-38)
   > "...ust sense that we're getting close. And when I tell you on Wednesday what we discovered about those Egyptian military planes, I think some more people are going to be on the run. Anyways, the oddest response ..."
 
-### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
+### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:00:40](/episodes/ep-ZAuuSq_j2_w.md#^t-00-00-00)
   > "...after this. You just cannot survive being this disingenuous. We also are going to get back into the Egyptian planes today. They are also working very hard to try to convince us that that was nothing. That's j..."
@@ -183,7 +183,7 @@ _Type: Places_
 - [00:18:39](/episodes/ep-ZAuuSq_j2_w.md#^t-00-18-21)
   > "...y Egyptian aboard your jet, right? This person is going to be well-acquainted with the president of Egypt, okay? So who is Walid Mahmoud? Who is the person using the name Walid Mahmoud? That is the questio..."
 
-### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
+### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:15:10](/episodes/ep-a-e7HC6SeK8.md#^t-00-14-43)
   > "...ilmington, right? And we would have never gotten to this block, by the way, had it not been for the Egyptian planes—us simply tracking these Egyptian planes and somebody giving us a tip like, "Hey, kind of we..."
@@ -198,7 +198,7 @@ _Type: Places_
 - [00:24:34](/episodes/ep-a-e7HC6SeK8.md#^t-00-24-09)
   > "...Bright Star, which commences—that joint operation that we told you about, which is biennial between Egypt and the United States military and other countries that are coming together. And it is being report..."
 
-### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
+### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 
 - [00:07:38](/episodes/ep-his-JBjlkh8.md#^t-00-07-24)
   > "...hey're not so detail-oriented. What we did was we showed at first that when I plotted these strange Egyptian jets, that they were following Charlie (Charlie Kirk). And that was a concern because I wondered if..."
@@ -219,7 +219,7 @@ _Type: Places_
 - [00:49:16](/episodes/ep-his-JBjlkh8.md#^t-00-49-01)
   > "...ked the question and we can't find the answer as to where Brigitte Macron was on the dates that the Egyptian plane was flying around America. It's just like a six-day gap in Brigitte's schedule. And now, of c..."
 
-### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
+### [ep-iHav0PPzUz8](/episodes/ep-iHav0PPzUz8.md)
 
 - [00:00:13](/episodes/ep-iHav0PPzUz8.md#^t-00-00-00)
   > "...new it. Candace Owens: And now, ladies and gentlemen, I know it. Candace Owens: Oh, there were some Egyptian military men that were on the ground on September 10th in Utah, on the day of Charlie (Charlie Kirk..."
@@ -250,7 +250,7 @@ _Type: Places_
 - [00:55:55](/episodes/ep-iHav0PPzUz8.md#^t-00-55-55)
   > "... that wrote me the email yesterday. I can't remember if it was Carrie. Obsessed with sports rights: Egypt's tail numbers SUBND and SUBTT were at peace 2025. What is that? Mark, help me mansplain. After and..."
 
-### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
+### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:00:19](/episodes/ep-mKXdKV-OBog.md#^t-00-00-00)
   > "...there was actually this joint military exercise—which was taking place—related exactly to where the Egyptian yellow plane landed on its way to Provo. We need to definitely keep at it. Zionists are mad. I don'..."
@@ -273,7 +273,7 @@ _Type: Places_
 - [00:13:06](/episodes/ep-mKXdKV-OBog.md#^t-00-12-57)
   > "...anes. I just don't think people in Nebraska are sitting around like, "Hey, we should go to Cairo or Egypt," and it happens to line up with this plane that comes in—literally comes in on the exact same day...."
 
-### [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
+### [ep-pc3pxRyNFZk](/episodes/ep-pc3pxRyNFZk.md)
 
 - [00:47:32](/episodes/ep-pc3pxRyNFZk.md#^t-00-47-32)
   > "...day morning to represent the US negotiators from Israel and Hamas, and the mediators from Qatar and Egypt and Turkey also participated, and were supposed to go, "Wow, that's amazing." Trump (Donald Trump) ..."
@@ -282,7 +282,7 @@ _Type: Places_
 - [00:49:53](/episodes/ep-pc3pxRyNFZk.md#^t-00-49-53)
   > "...y—how do we deal with the terror threat that is there so that it cannot be a threat to Israel or to Egypt? I think that both sides are spending a fortune on military. I think neither side really wants to h..."
 
-### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
+### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
 
 - [00:00:39](/episodes/ep-sImMM04XdWY.md#^t-00-00-39)
   > "...at our source proved to us that it certainly wasn't established to provide any maintenance to those Egyptian planes, and it was more than likely a front for something else, we should address that. Because I k..."
@@ -299,7 +299,7 @@ _Type: Places_
 - [00:22:16](/episodes/ep-sImMM04XdWY.md#^t-00-21-44)
   > "...reigners that are not from Egypt. And I think that's pretty obvious that these people were not from Egypt, okay? I really don't think this was an Egyptian-filled plane, whether or not they had Egyptian pas..."
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:23:24](/episodes/ep-tB5SXXmd9vU.md#^t-00-23-12)
   > "...r at all until we learned about that weird hangar lease in Delaware and we were trying to track the Egyptian plane, SU-BTT, our yellow plane, which departed on the morning of Charlie Kirk's (Charlie Kirk's) a..."
@@ -320,12 +320,12 @@ _Type: Places_
 - [00:22:20](/episodes/ep-tB5SXXmd9vU.md#^t-00-21-46)
   > "...ary partnerships. I just don't love the timing of all of these things. I just don't love France and Egypt and the United States together for the whole month leading up to the assassination of Charlie Kirk ..."
 
-### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
+### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
 
 - [00:54:57](/episodes/ep-vwG1juDCQZQ.md#^t-00-54-29)
   > "... freak out about something so minor. That just tends to be the pattern. Like I was saying about the Egyptian plagues: when they overreact, it's because we hit a nerve. And so we should focus our attention on ..."
 
-### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
+### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:37:01](/episodes/ep-yAIb-NuUh_U.md#^t-00-36-27)
   > "...S that we've heard. I also want to say to you guys, I know that I promised you we would discuss the Egyptian Plains. What we have discovered is actually so big that I had to go through the proper channels to ..."
@@ -335,12 +335,12 @@ _Type: Places_
 ### Member Of
 
 - [Safari Club](/entities/org-safari-club.md)
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:13:29](/episodes/ep-tB5SXXmd9vU.md#^t-00-13-15): "...members in pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, and France..."
+  - [ep-tB5SXXmd9vU @ 00:13:29](/episodes/ep-tB5SXXmd9vU.md#^t-00-13-15): "...members in pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, and France..."
 
 ### Referenced By
 
 - [Operation Bright Star](/entities/event-operation-bright-star.md) **affiliated with** this
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:24:34](/episodes/ep-a-e7HC6SeK8.md#^t-00-24-09)
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:22:08](/episodes/ep-tB5SXXmd9vU.md#^t-00-21-46)
+  - [ep-a-e7HC6SeK8 @ 00:24:34](/episodes/ep-a-e7HC6SeK8.md#^t-00-24-09)
+  - [ep-tB5SXXmd9vU @ 00:22:08](/episodes/ep-tB5SXXmd9vU.md#^t-00-21-46)
 - [SU-BTT](/entities/work-su-btt.md) **operated by** this
 - [SU-BND](/entities/work-su-bnd.md) **operated by** this

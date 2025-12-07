@@ -14,17 +14,17 @@ _Type: Organizations_
 
 ## Mentions
 
-### [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
+### [ep-YA1FxrDWNIo](/episodes/ep-YA1FxrDWNIo.md)
 
 
-### [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
+### [ep-ZGxnf5cj4Uw](/episodes/ep-ZGxnf5cj4Uw.md)
 
 - [00:06:55](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-06-55)
   > "...n stepped foot on UVU campus. Tyler, it turns out—which has already been revealed—was accepted into Utah State University, not Utah Valley. And that's actually interesting if you pause and reflect on that, because we didn..."
 - [00:41:33](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-41-28)
   > "...ally going to make Governor Cox—and I'm paraphrasing here—but apparently there's another Utah event—USU event—coming up, and Governor Cox is supposed to speak, and Phil Lyman intimates that like—you know..."
 
-### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
+### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
 
 - [00:41:59](/episodes/ep-adJ4LNGp84I.md#^t-00-41-25)
   > "...ns), tonight, which is September 30th, 2025, several friends and myself attended the TPUSA event at Utah State University. There was a full agreement that all were disappointed. The event was scripted. The allowance of op..."

@@ -16,7 +16,7 @@ _Type: Places_
 
 ## Mentions
 
-### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
+### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:08:27](/episodes/ep-SKGUzGHymcI.md#^t-00-08-19)
   > "...cles visit, I am entirely confident in stating" "that the plane and those vehicles are connected to 920 North King Street, which is at a place that is marketed also as one Rodney Square." "Nearly every federal vehicle tha..."
@@ -43,14 +43,14 @@ _Type: Places_
 - [00:10:15](/episodes/ep-SKGUzGHymcI.md#^t-00-10-15)
   > "...t of Justice's own directory lists, quote, Wilmington Residence Office, 1 Rodney Square, Suite 404, 920 King Street, Wilmington, Delaware, 19801." "That is your line to know that it is a federal resident office that..."
 
-### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
+### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
 
 - [00:06:12](/episodes/ep-sImMM04XdWY.md#^t-00-05-36)
   > "...UBTT, landed into this federally monitored hangar, a foreign dignitary was then discreetly moved to 920 King Street, which we've learned and confirmed houses the DEA, the FBI, and the Secret Service. Quite rare, rig..."
 - [00:25:12](/episodes/ep-sImMM04XdWY.md#^t-00-25-07)
   > "...was the foreign dignitary that was escorted on the day of Charlie (Charlie Kirk)'s assassination to 920 King Street? Is it plausible that for whatever reason, Charlie (Charlie Kirk), allowing Tucker (Tucker Carlson)..."
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:24:24](/episodes/ep-tB5SXXmd9vU.md#^t-00-24-24)
   > "...okay? So we learned from a source that a foreign dignitary was escorted, right, from that hangar to 920 North King Street in Wilmington, Delaware, a place that we learned and confirmed had three federal agencies working t..."

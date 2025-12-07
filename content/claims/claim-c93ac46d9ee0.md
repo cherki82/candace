@@ -1,0 +1,30 @@
+---
+title: "Investigators found a bolt action rifle wrapped in a towel i..."
+claim_id: "claim-c93ac46d9ee0"
+episode: "q7f8r-THr84"
+type: "factual"
+veracity: "unverified"
+---
+
+**Status:** ⏳ Unverified
+**Type:** Factual
+
+## Claim
+
+> Investigators found a bolt action rifle wrapped in a towel in wooded area with one spent round and three unspent rounds inscribed with 'Hey, fascist, catch', 'You've got notices bulge', 'What's this?', 'Oh, Bella ciao, Bella ciao, Bella ciao, ciao, ciao' and 'If you read this, you are gay, LMAO'
+
+## Source
+
+**Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
+**Timestamp:** [00:12:01](/episodes/ep-q7f8r-THr84.md#^t-00-11-34) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(721);return false;">▶️ Play</a>
+
+## Verification
+
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
+
+## Follow-up
+
+**Status:** Open
+**Expected:** Crime scene evidence and photos

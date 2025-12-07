@@ -17,12 +17,12 @@ _Type: Organizations_
 
 ## Mentions
 
-### [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
+### [ep-7RLtGgkTh9o](/episodes/ep-7RLtGgkTh9o.md)
 
 - [00:09:45](/episodes/ep-7RLtGgkTh9o.md#^t-00-09-38)
   > "...andal—Potter's Field was actually a healthy, functional organization. This was actually a Christian ministry until—and again, I'm going to say this is alleged, but I'm looking further into this claim—until Ro..."
 
-### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
+### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
 
 - [00:26:47](/episodes/ep-YFmRH8p5lt0.md#^t-00-26-47)
   > "...that he's immoral, he is unethical, that he has shady financial activities. He's misrepresented his ministry activities. Ceaseless financial solicitation, they accuse him of—intermingled with grand visions—wh..."
@@ -31,7 +31,7 @@ _Type: Organizations_
 - [01:01:38](/episodes/ep-YFmRH8p5lt0.md#^t-01-01-05)
   > "... what you will. Tim Morgan writes, "Candace, check out Sean Feucht and the allegations of financial ministry mismanagement online. And he and Pastor McCoy are planning a Courageous Christianity Tour to honor ..."
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:20:07](/episodes/ep-tB5SXXmd9vU.md#^t-00-19-45)
   > ".... Elsewhere in the article, and this is France 24 that reported this, it tells us that, quote, "The Ministry of the Armed Forces confirms that a training exercise by the 2nd Foreign Infantry Regiment, a unit of the French Foreig..."
@@ -46,7 +46,7 @@ _Type: Organizations_
 - [00:39:53](/episodes/ep-tB5SXXmd9vU.md#^t-00-39-28)
   > "...y public. Gets photographed with the culture—the Ministry of Culture lady, right? The head of their Ministry of Culture, an actual lady. And then Brigitte Macron gets photographed on 9/4 with Zelensky. Zelens..."
 
-### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
+### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:02:11](/episodes/ep-yAIb-NuUh_U.md#^t-00-02-06)
   > "...o. In fact, when I first met Charlie (Charlie Kirk), I said, "You know, tell me a little about your ministry, you know, like what you do." And, you know, who have you mentored? He mentioned Candace (Candace O..."

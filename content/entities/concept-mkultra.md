@@ -14,7 +14,7 @@ _Type: Concepts_
 
 ## Mentions
 
-### [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
+### [ep-7RLtGgkTh9o](/episodes/ep-7RLtGgkTh9o.md)
 
 - [00:02:01](/episodes/ep-7RLtGgkTh9o.md#^t-00-01-21)
   > "... we end up, by the way? Where did we leave off on Brigitte Macron? I was speaking to you guys about MKUltra. How odd it was that of everything I said in my series, Brigitte Macron and Emmanuel had a heart at..."
@@ -29,19 +29,19 @@ _Type: Concepts_
 - [00:30:07](/episodes/ep-7RLtGgkTh9o.md#^t-00-30-07)
   > "...ch investigating the Brigitte Macron thing and was arriving very quickly at this weird backstory of MKUltra and the Haight-Ashbury Clinic when it seems like a button was pressed in America— and big psycholog..."
 
-### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
+### [ep-QZWSsq8ZWzw](/episodes/ep-QZWSsq8ZWzw.md)
 
 - [00:26:49](/episodes/ep-QZWSsq8ZWzw.md#^t-00-26-44)
   > "... was looking through the period and learning the reality of what happened throughout the 1960s when MKUltra—when that program was running. And I have no reason to believe that that program was ever discontin..."
 
-### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
+### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
 
 - [00:22:49](/episodes/ep-sImMM04XdWY.md#^t-00-22-25)
   > "...bit too loud—you know, a thief that nobody was pursuing was running. And that was us discussing the MKUltra program and Brigitte Macron strangely and Emmanuel mentioning MKUltra in the lawsuit to us 18 times..."
 - [00:23:42](/episodes/ep-sImMM04XdWY.md#^t-00-23-08)
   > "...ght track. And it was something that was so sinister, you know, involving maybe another step of the MKUltra program being used to foster serial killers and to give serial killers new identities and allowing ..."
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:37:32](/episodes/ep-tB5SXXmd9vU.md#^t-00-37-15)
   > "... convinced that Brigitte Macron has been involved, on the basis of my lawsuit and the mentioning of MKUltra 18 times absurdly in my lawsuit, even though all we said was, hey, Brigitte's fake birthday happens..."

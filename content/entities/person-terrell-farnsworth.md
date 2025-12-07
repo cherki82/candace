@@ -10,7 +10,7 @@ _Type: People_
 
 ## Mentions
 
-### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
+### [ep-JQjCAsfoXEE](/episodes/ep-JQjCAsfoXEE.md)
 
 - [00:12:15](/episodes/ep-JQjCAsfoXEE.md#^t-00-11-52)
   > "... the general public. For example, one of the earliest alarms that went off for me was the fact that Terrell Farnsworth, the guy who takes out the SD cards, was there at all. Okay, Terrell does not do college campus eve..."
@@ -20,4 +20,4 @@ _Type: People_
 ### Employed By
 
 - [Turning Point USA](/entities/org-turning-point-usa.md)
-  - [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:12:15](/episodes/ep-JQjCAsfoXEE.md#^t-00-11-52): "Terrell Farnsworth, the guy who takes out the SD cards, was there at all. Okay, Terrell does not do college campus events. He doesn't do that. He's at the top of the company."
+  - [ep-JQjCAsfoXEE @ 00:12:15](/episodes/ep-JQjCAsfoXEE.md#^t-00-11-52): "Terrell Farnsworth, the guy who takes out the SD cards, was there at all. Okay, Terrell does not do college campus events. He doesn't do that. He's at the top of the company."

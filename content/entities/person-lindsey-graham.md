@@ -10,7 +10,7 @@ _Type: People_
 
 ## Mentions
 
-### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
+### [ep-K1tFD7FfoCU](/episodes/ep-K1tFD7FfoCU.md)
 
 - [00:01:25](/episodes/ep-K1tFD7FfoCU.md#^t-00-00-46)
   > "...how fake are we talking? What shade of gayness are we talking? And I think we should start with the Lindsey Graham (Lindsey Graham) shade, which he threw at American voters. So what happened was he was on stage at ..."

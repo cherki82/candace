@@ -10,7 +10,7 @@ _Type: People_
 
 ## Mentions
 
-### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
+### [ep-K1tFD7FfoCU](/episodes/ep-K1tFD7FfoCU.md)
 
 - [00:20:55](/episodes/ep-K1tFD7FfoCU.md#^t-00-20-31)
   > "... and they were citing the actual reporting from the Jerusalem Post, which was written by journalist Michael Starr (Michael Starr). They published this: "Charlie Kirk (Charlie Kirk), the founder of TPUSA, will be p..."

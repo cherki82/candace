@@ -17,7 +17,7 @@ _Type: People_
 
 ## Mentions
 
-### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
+### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
 
 - [00:44:06](/episodes/ep-adJ4LNGp84I.md#^t-00-44-06)
   > "... there is more truth, and we should absolutely demand it. There is a note here for my producer from Erica Mendel, who is an American-Israeli Jewish former IDF soldier currently serving as the—oh, that's her name,..."
@@ -27,5 +27,5 @@ _Type: People_
 ### Works At
 
 - [TikTok](/entities/org-tiktok.md)
-  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:44:18](/episodes/ep-adJ4LNGp84I.md#^t-00-44-06): "Erika Mendl... currently serving as the public policy manager of hate speech. And she's been at TikTok since July of this year"
-  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:44:18](/episodes/ep-adJ4LNGp84I.md#^t-00-44-06): "Erika Mendl... currently serving as the public policy manager of hate speech. And she's been at TikTok since July of this year"
+  - [ep-adJ4LNGp84I @ 00:44:18](/episodes/ep-adJ4LNGp84I.md#^t-00-44-06): "Erika Mendl... currently serving as the public policy manager of hate speech. And she's been at TikTok since July of this year"
+  - [ep-adJ4LNGp84I @ 00:44:18](/episodes/ep-adJ4LNGp84I.md#^t-00-44-06): "Erika Mendl... currently serving as the public policy manager of hate speech. And she's been at TikTok since July of this year"

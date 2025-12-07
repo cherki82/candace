@@ -10,7 +10,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
+### [ep-K1tFD7FfoCU](/episodes/ep-K1tFD7FfoCU.md)
 
 - [00:20:53](/episodes/ep-K1tFD7FfoCU.md#^t-00-20-31)
   > "...ation to stage a hostile takeover of the legacy of Charlie Kirk (Charlie Kirk)—so obsessed that the Jerusalem Post completely fictionalized or rather published a completely deranged lie about Erika Kirk (Erika Kirk..."

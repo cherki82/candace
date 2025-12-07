@@ -10,14 +10,14 @@ _Type: People_
 
 ## Mentions
 
-### [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
+### [ep-2Riv3I7D0Yk](/episodes/ep-2Riv3I7D0Yk.md)
 
 - [00:13:17](/episodes/ep-2Riv3I7D0Yk.md#^t-00-13-03)
   > "...? Usually reserved to a visceral response to something that you have seen and in the moment, right? Matt Walsh—actually, we're prepping the show—I said I will guarantee you that when that footage got dropped, w..."
 - [00:14:04](/episodes/ep-2Riv3I7D0Yk.md#^t-00-13-45)
   > "...new. We've tried compassion and restorative justice, and this is the result. It was inevitable." So Matt Walsh then went on his show and further explained that already contextualized tweet, and he explained how..."
 
-### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
+### [ep-K1tFD7FfoCU](/episodes/ep-K1tFD7FfoCU.md)
 
 - [00:20:03](/episodes/ep-K1tFD7FfoCU.md#^t-00-19-50)
   > "...re extremely close to Charlie (Charlie Kirk)—including donors—were very touched by a monologue that Matt Walsh (Matt Walsh) did over on the Daily Wire. I didn't see it. I was too aggrieved to watch anything, bu..."
@@ -26,7 +26,7 @@ _Type: People_
 - [00:20:27](/episodes/ep-K1tFD7FfoCU.md#^t-00-19-50)
   > "...g, but apparently Matt Walsh (Matt Walsh) did an amazing monologue. So the team reached out to host Matt Walsh (Matt Walsh)—to ask Matt Walsh (Matt Walsh), rather— to host Charlie Kirk's (Charlie Kirk) show bec..."
 
-### [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
+### [ep-pc3pxRyNFZk](/episodes/ep-pc3pxRyNFZk.md)
 
 - [00:52:28](/episodes/ep-pc3pxRyNFZk.md#^t-00-52-05)
   > "...o see what people thought about the text messages, and it was really funny. I came across a clip of Matt Walsh to Vivek—wait, Dore? It's very funny. And he was saying about the Charlie Kirk (Charlie Kirk) messa..."
@@ -37,7 +37,7 @@ _Type: People_
 - [00:53:14](/episodes/ep-pc3pxRyNFZk.md#^t-00-52-50)
   > "...our behavior pushed even Charlie Kirk (Charlie Kirk) away. (Clip: Matt Walsh) Take a listen to what Matt Walsh had to say. And at some point, if you're on the pro-Israel side, you really need to be honest with ..."
 
-### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
+### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
 
 - [00:31:22](/episodes/ep-vwG1juDCQZQ.md#^t-00-30-42)
   > "...would say, only because she could have texted me. She has my number. This is one of the things that Matt Walsh recently said: that he views it as such a form of disloyalty when you have access to an individual,..."

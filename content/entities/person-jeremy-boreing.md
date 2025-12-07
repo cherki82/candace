@@ -10,7 +10,7 @@ _Type: People_
 
 ## Mentions
 
-### [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
+### [ep-r1PS67aRmcA](/episodes/ep-r1PS67aRmcA.md)
 
 - [00:12:42](/episodes/ep-r1PS67aRmcA.md#^t-00-12-19)
   > "...usly fired from the Daily Wire. And during that week, the CEO of the Daily Wire, at the time it was Jeremy Boreing, jumped onto an X space hosted by Lauren Chen and had a conversation with Nick Fuentes where he san..."
@@ -23,7 +23,7 @@ _Type: People_
 - [00:21:14](/episodes/ep-r1PS67aRmcA.md#^t-00-20-55)
   > "...y out of the market and Ben has never come out and denied anything that Nick Fuentes has said, also Jeremy Boreing denied in a conversation with him. So we have to assume the story is true. And given what I know ab..."
 
-### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
+### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
 
 - [00:03:33](/episodes/ep-vwG1juDCQZQ.md#^t-00-02-51)
   > "...n I no longer wanted to do the pro-Israel thing. Of course, as always, I thank Ben Shapiro. I thank Jeremy Boreing. I thank the Daily Wire and them realizing it before I did that I should be fired. Thank you for fi..."
@@ -33,4 +33,4 @@ _Type: People_
 ### Ceo Of
 
 - [The Daily Wire](/entities/org-the-daily-wire.md)
-  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:12:39](/episodes/ep-r1PS67aRmcA.md#^t-00-12-19): "the CEO of the Daily Wire, at the time it was Jeremy Boreing"
+  - [ep-r1PS67aRmcA @ 00:12:39](/episodes/ep-r1PS67aRmcA.md#^t-00-12-19): "the CEO of the Daily Wire, at the time it was Jeremy Boreing"

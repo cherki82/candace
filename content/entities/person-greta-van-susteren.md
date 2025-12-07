@@ -10,12 +10,12 @@ _Type: People_
 
 ## Mentions
 
-### [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
+### [ep-K5GjF53bfN4](/episodes/ep-K5GjF53bfN4.md)
 
 - [00:01:58](/episodes/ep-K5GjF53bfN4.md#^t-00-01-58)
   > "...d not forget how weird that is, especially because when he went on multiple hits doing Fox News and Greta Van Susteren's (Greta Van Susteren) show, he lied about the contents of a letter that Charlie (Charlie Kirk) had..."
 
-### [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
+### [ep-czVBmqZP6Ss](/episodes/ep-czVBmqZP6Ss.md)
 
 - [00:26:16](/episodes/ep-czVBmqZP6Ss.md#^t-00-26-07)
   > "...t people who rush to misrepresent things. And it's not a good sign when somebody has to ask you, as Greta Van Susteren asked Benjamin Netanyahu in his secondary hit regarding Charlie (Charlie Kirk)’s assassination. It'..."

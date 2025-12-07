@@ -14,7 +14,7 @@ _Type: People_
 
 ## Mentions
 
-### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
+### [ep-2WEHTk0Xewg](/episodes/ep-2WEHTk0Xewg.md)
 
 - [00:00:18](/episodes/ep-2WEHTk0Xewg.md#^t-00-00-01)
   > "...2-year-old alleged killer of Charlie (Charlie Kirk), Tyler Robinson, and his 22-year-old boyfriend, Lance Twiggs. The first term I want you to search is "retrieve." Look it up. When was the last time that ..."
@@ -89,7 +89,7 @@ _Type: People_
 - [00:41:46](/episodes/ep-2WEHTk0Xewg.md#^t-00-41-13)
   > "...a living? Did they see each other that night? Why are we doctoring their messages? Why can't I read Lance's messages? If he's being so forthcoming, why can't I read how he replied and at what time these me..."
 
-### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
+### [ep-5autG89PW6w](/episodes/ep-5autG89PW6w.md)
 
 - [00:30:10](/episodes/ep-5autG89PW6w.md#^t-00-29-56)
   > "...g to be exposed, and we're gonna get into that more tomorrow. I do wanna give you a quick update on Lance Twigg. And like I said, we know that the feds are lying to us. The question is: why are the feds ly..."
@@ -112,7 +112,7 @@ _Type: People_
 - [00:40:45](/episodes/ep-5autG89PW6w.md#^t-00-40-07)
   > "...ing to your family about that? My gosh, I imagine you want to speak to your family. No, no—it seems Lance has similarly been in an unknown location since the raid. I would imagine he was in witness protect..."
 
-### [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
+### [ep-K5GjF53bfN4](/episodes/ep-K5GjF53bfN4.md)
 
 - [00:11:45](/episodes/ep-K5GjF53bfN4.md#^t-00-11-24)
   > "...s extremely guilty to me. We haven't received any updates whatsoever on the raid that took place of Lance's house where Tyler Robinson was living at the time of this crime. No update whatsoever on Lance (L..."
@@ -121,14 +121,14 @@ _Type: People_
 - [00:12:06](/episodes/ep-K5GjF53bfN4.md#^t-00-12-06)
   > ".... You know, he just completely fell to the wayside. So forget it. Forget asking any questions about Lance (Lance). And my instinct has always been that the feds injected themselves immediately into this ca..."
 
-### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
+### [ep-QZWSsq8ZWzw](/episodes/ep-QZWSsq8ZWzw.md)
 
 - [00:07:24](/episodes/ep-QZWSsq8ZWzw.md#^t-00-06-51)
   > "...d messages. I forgot, silly me. The Discord. I forgot. It was so explicit. How could we forget? Oh, Lance, oh, Lance, wherefore art thou, Lance? Deny thy father and refuse thy name. And if thou wilt not, L..."
 - [00:07:30](/episodes/ep-QZWSsq8ZWzw.md#^t-00-07-30)
   > "...e, oh, Lance, wherefore art thou, Lance? Deny thy father and refuse thy name. And if thou wilt not, Lance, thee bullet, me, my handprint. It was me. It was me, my love. I did everything I carved. Do you re..."
 
-### [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
+### [ep-YaZfwLQ7vrI](/episodes/ep-YaZfwLQ7vrI.md)
 
 - [00:11:54](/episodes/ep-YaZfwLQ7vrI.md#^t-00-11-32)
   > "... had to fight for justice. They went out immediately following the election results. One person was Lance Wallnau (Lance Wallnau), okay? I want you to remember this guy's name: Lance Wallnau (Lance Wallnau). Immed..."
@@ -159,7 +159,7 @@ _Type: People_
 - [00:20:19](/episodes/ep-YaZfwLQ7vrI.md#^t-00-20-07)
   > "...tions. Now, I guess a better way for me to state this—because I want to be super clear here—is that Lance Wallnau (Lance Wallnau), who is from a military family and who is saying that he believes in infiltration a..."
 
-### [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
+### [ep-ZGxnf5cj4Uw](/episodes/ep-ZGxnf5cj4Uw.md)
 
 - [00:12:42](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-12-42)
   > "...r was gay. That's what I'm told. They are learning this in and through the media. They thought that Lance was just his roommate, and they were especially shocked because apparently Tyler kept mentioning to..."
@@ -186,17 +186,17 @@ _Type: People_
 - [00:16:25](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-16-10)
   > "...rty, I will say that it matches. It kind of seems like they're agreeing. One family is going, “Hey, Lance is kind of evil. Why is he getting—why is he getting cleared?” The other one's going, “Tyler's not ..."
 
-### [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
+### [ep-aDlhjfW6hz8](/episodes/ep-aDlhjfW6hz8.md)
 
 - [00:44:45](/episodes/ep-aDlhjfW6hz8.md#^t-00-44-23)
   > "...s think that we speak after that ridiculous made-up text chain between Tyler Robinson and his lover Lance—they're hilarious. Your TikToks and the videos are hilarious. I'm gonna show you just one here. Thi..."
 
-### [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
+### [ep-c5BcKF91iec](/episodes/ep-c5BcKF91iec.md)
 
 - [00:50:12](/episodes/ep-c5BcKF91iec.md#^t-00-49-29)
   > "...el sorry for you." This is a review of my character over the years. "Candace Owens is a fraud"—from Lance Bass. Ireland Baldwin wrote, "The most disgusting, hateful, cancerous human being I've ever come ac..."
 
-### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
+### [ep-q7f8r-THr84](/episodes/ep-q7f8r-THr84.md)
 
 - [00:00:45](/episodes/ep-q7f8r-THr84.md#^t-00-00-45)
   > "...ased, and I have a lot of questions that I think need to be answered regarding his trans boyfriend, Lance Twiggs. Well, I just spoke to a family member who told me a lot about Lance Twiggs because the medi..."
@@ -239,7 +239,7 @@ _Type: People_
 - [01:12:45](/episodes/ep-q7f8r-THr84.md#^t-01-12-39)
   > "...e need truth and I trust only you right now." Thank you. And especially, I want to say thank you to Lance's (Lance Twiggs's) family because I know this is not an easy time for you. And she was telling me, ..."
 
-### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
+### [ep-sreYYcID-QY](/episodes/ep-sreYYcID-QY.md)
 
 - [00:02:15](/episodes/ep-sreYYcID-QY.md#^t-00-02-05)
   > "...to be idling nearby the campus for a very long time, right? As he texted these Fed messages—him and Lance are texting, and he's telling him every second, minute by minute, what he's done—and he mentions th..."
@@ -261,12 +261,12 @@ _Type: People_
 ### Invested In
 
 - [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)
-  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:20:07](/episodes/ep-YaZfwLQ7vrI.md#^t-00-19-33): "he put a ton of money into Turning Point USA Faith operations"
+  - [ep-YaZfwLQ7vrI @ 00:20:07](/episodes/ep-YaZfwLQ7vrI.md#^t-00-19-33): "he put a ton of money into Turning Point USA Faith operations"
 
 ### Referenced By
 
 - [Tyler Robinson](/entities/person-tyler-robinson.md) **dating** this
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:13:02](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-12-42)
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:13:02](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-12-42)
+  - [ep-ZGxnf5cj4Uw @ 00:13:02](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-12-42)
+  - [ep-ZGxnf5cj4Uw @ 00:13:02](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-12-42)
 - [Carl Wallnau](/entities/person-carl-wallnau.md) **parent of** this
-  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:17:14](/episodes/ep-YaZfwLQ7vrI.md#^t-00-16-39)
+  - [ep-YaZfwLQ7vrI @ 00:17:14](/episodes/ep-YaZfwLQ7vrI.md#^t-00-16-39)

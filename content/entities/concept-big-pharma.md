@@ -14,7 +14,7 @@ _Type: Concepts_
 
 ## Mentions
 
-### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
+### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:50:31](/episodes/ep-ZAuuSq_j2_w.md#^t-00-50-05)
   > "...own capacity to collapse the system—great. Stop taking their pills, right? That's another part. The pharmaceutical complex—learn about that. Stop offering your children's bodies to the state. You can do that in your own ca..."

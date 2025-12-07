@@ -14,12 +14,12 @@ _Type: Places_
 
 ## Mentions
 
-### [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
+### [ep-Cq7nj9rxPdo](/episodes/ep-Cq7nj9rxPdo.md)
 
 - [00:57:30](/episodes/ep-Cq7nj9rxPdo.md#^t-00-57-02)
   > "... since 2017. And we're supposed to believe that a hacker was going to risk hacking the president of France. Okay—the government had to be—the government decided to hack the government— and to only change th..."
 
-### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
+### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:15:09](/episodes/ep-SKGUzGHymcI.md#^t-00-14-53)
   > "...shing lease as its maintenance justification. In fact, your own timeline shows how they traveled to France before the deal was even made. It proves that the maintenance story is nothing but a cover. That ha..."
@@ -30,14 +30,14 @@ _Type: Places_
 - [00:40:29](/episodes/ep-SKGUzGHymcI.md#^t-00-40-29)
   > "...e to have a real fucking hog on her and that. If they release, the last thing needs, the last thing France needs is to release like a wiener that looks like it's retreating kind of. It will just go down in ..."
 
-### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
+### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:02:27](/episodes/ep-ZAuuSq_j2_w.md#^t-00-02-11)
   > "... and is like, "Don't laugh." Okay, right. Don't laugh. And then proceeds to ask if they heard about France's assassination attempt on my life, which I also said that France was on the ground the day—on the ..."
 - [00:24:15](/episodes/ep-ZAuuSq_j2_w.md#^t-00-23-48)
   > "...you, you know?" Trying desperately right now—clearly—to turn my very real claim that the country of France tried to assassinate me into a joke. The Zio influencers are supposed to influence people into thin..."
 
-### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
+### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:01:16](/episodes/ep-a-e7HC6SeK8.md#^t-00-00-46)
   > "...e I'm just American ignorant—but our FBI was founded by the French. In theory, the FBI really is in France's building over in Wilmington. If you think about it for a long time—and I have now been thinking a..."
@@ -58,19 +58,19 @@ _Type: Places_
 - [00:44:19](/episodes/ep-a-e7HC6SeK8.md#^t-00-43-56)
   > "... of the thing that's coming." Missiles, false flag attacks, chemicals, and the Middle East—America, France, and Israel. It is something. It is something, right? This was the vibe of something that Charlie (..."
 
-### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
+### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 
 - [00:41:15](/episodes/ep-his-JBjlkh8.md#^t-00-41-15)
   > "...the Pentagon's press secretary a question about the most viral story for about a week pertaining to France's participation in the biggest political assassination that has taken place since JFK, I would say...."
 - [00:44:33](/episodes/ep-his-JBjlkh8.md#^t-00-44-11)
   > "...ay, "Hey, I have very specific information and accounts that you can trace because the president of France allegedly paid $1.5 million for my assassination. And by the way, I have evidence they had French F..."
 
-### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
+### [ep-iHav0PPzUz8](/episodes/ep-iHav0PPzUz8.md)
 
 - [00:19:07](/episodes/ep-iHav0PPzUz8.md#^t-00-19-07)
   > "...r 2025, you will see this is what it did. It went from September 4th—it went from Cairo to Paris to France to Minot, North Dakota. On September 10th, it departed Provo—I think I'm missing one here, right? I..."
 
-### [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
+### [ep-ozWJz2spBcI](/episodes/ep-ozWJz2spBcI.md)
 
 - [01:01:56](/episodes/ep-ozWJz2spBcI.md#^t-01-01-35)
   > "...ns the story of Charlie (Charlie Kirk) on Piers Morgan's show. Also the South African ambassador to France was found dead in a Paris hotel." Oh no, France. France. It's hot right now, France. France is... Y..."
@@ -85,7 +85,7 @@ _Type: Places_
 - [01:03:38](/episodes/ep-ozWJz2spBcI.md#^t-01-03-04)
   > "...cations. It shows you the power—the power of Christ, truly. I will say in closing and going back to France: if I found Brigitte's penis, I will find who killed Charlie Kirk (Charlie Kirk). We'll see you guy..."
 
-### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
+### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
 
 - [00:06:43](/episodes/ep-sImMM04XdWY.md#^t-00-06-16)
   > "...or the Department of Justice to be coming together with the DEA. I mean, that's weird. So what does France have to do with it, right? What does Tucker (Tucker Carlson) have to do with it? Rationally, when I..."
@@ -102,7 +102,7 @@ _Type: Places_
 - [00:29:31](/episodes/ep-sImMM04XdWY.md#^t-00-29-11)
   > "...e would know. They should be able to just help us out. I'm sure they should be able to reach out to France and say, "Hey, you purchased this hangar." I mean, you decided to lease this hangar for two years—a..."
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:01:12](/episodes/ep-tB5SXXmd9vU.md#^t-00-00-57)
   > "...y urgent, right? Don't you feel a sense of urgency right now? In the wake of me having learned that France apparently paid for my assassination and that the French Foreign Legion was apparently involved and..."
@@ -137,7 +137,7 @@ _Type: Places_
 - [00:44:18](/episodes/ep-tB5SXXmd9vU.md#^t-00-44-08)
   > "... surgeries or yes, they do transgender, rather. Nemours Children's Hospitals are named for Nemours, France, the home of the du Pont family. Hotel du Pont is obviously walking distance from 920 King. First a..."
 
-### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
+### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:49:22](/episodes/ep-yAIb-NuUh_U.md#^t-00-49-18)
   > "...ued. Tim Dillon's already included in my lawsuit with Brigitte Macron. Apparently, the president of France watches Tim Dillon, and we talked about the Brigitte case, and so he's dragged in there anyways. I'..."
@@ -147,9 +147,9 @@ _Type: Places_
 ### Member Of
 
 - [Safari Club](/entities/org-safari-club.md)
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:13:29](/episodes/ep-tB5SXXmd9vU.md#^t-00-13-15): "...members in pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, and France..."
+  - [ep-tB5SXXmd9vU @ 00:13:29](/episodes/ep-tB5SXXmd9vU.md#^t-00-13-15): "...members in pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, and France..."
 
 ### Referenced By
 
 - [Satis](/entities/org-satis.md) **based in** this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#^t-00-23-12)
+  - [ep-tB5SXXmd9vU @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#^t-00-23-12)
