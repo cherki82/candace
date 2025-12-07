@@ -15,18 +15,22 @@
   padding: 0.8em 1.2em;
   margin: 0.5em 0 1.5em 0;
   border-radius: 8px;
-  background: var(--lightgray);
-  border: 1px solid var(--gray);
+  background: #c9693c;
+  border: 1px solid #b55a30;
+}
+:root[saved-theme="dark"] .support-banner {
+  background: #a35530;
+  border-color: #8a4828;
 }
 .support-text {
-  color: var(--darkgray);
+  color: rgba(255,255,255,0.9);
   font-size: 0.95em;
 }
 .support-btn {
   display: inline-block;
   padding: 0.5em 1.2em;
-  background: var(--secondary);
-  color: var(--light) !important;
+  background: rgba(255,255,255,0.95);
+  color: #9e4a25 !important;
   font-weight: 600;
   text-decoration: none !important;
   border-radius: 6px;
@@ -34,7 +38,7 @@
   white-space: nowrap;
 }
 .support-btn:hover {
-  opacity: 0.9;
+  background: #fff;
 }
 </style>
 

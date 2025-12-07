@@ -4,19 +4,19 @@ _Total entities: 634_
 
 <div class="sort-controls">
   <strong>Sort by:</strong>
-  <button onclick="showAlpha()" id="btn-alpha" class="sort-btn active">A-Z</button>
-  <button onclick="showCount()" id="btn-count" class="sort-btn">Most Mentioned</button>
+  <button id="btn-alpha" class="sort-btn active">A-Z</button>
+  <button id="btn-count" class="sort-btn">Most Mentioned</button>
 </div>
 
 <style>
 .sort-controls { margin-bottom: 1em; }
-.sort-btn { padding: 0.3em 0.8em; margin-right: 0.5em; cursor: pointer; border: 1px solid #ccc; background: #f5f5f5; border-radius: 4px; }
-.sort-btn.active { background: #007bff; color: white; border-color: #007bff; }
+.sort-btn { padding: 0.3em 0.8em; margin-right: 0.5em; cursor: pointer; border: 1px solid var(--gray); background: var(--lightgray); border-radius: 4px; color: var(--darkgray); }
+.sort-btn.active { background: var(--secondary); color: var(--light); border-color: var(--secondary); }
 .sort-alpha, .sort-count { display: none; }
 .sort-alpha.visible, .sort-count.visible { display: block; }
 details { margin-bottom: 1em; }
 summary { cursor: pointer; font-size: 1.3em; font-weight: bold; padding: 0.3em 0; }
-summary:hover { color: #007bff; }
+summary:hover { color: var(--secondary); }
 </style>
 
 <div class="sort-alpha visible">
@@ -1392,16 +1392,24 @@ summary:hover { color: #007bff; }
 </div>
 
 <script>
-function showAlpha() {
-  document.querySelector(".sort-alpha").classList.add("visible");
-  document.querySelector(".sort-count").classList.remove("visible");
-  document.getElementById("btn-alpha").classList.add("active");
-  document.getElementById("btn-count").classList.remove("active");
-}
-function showCount() {
-  document.querySelector(".sort-count").classList.add("visible");
-  document.querySelector(".sort-alpha").classList.remove("visible");
-  document.getElementById("btn-count").classList.add("active");
-  document.getElementById("btn-alpha").classList.remove("active");
-}
+(function() {
+  var btnAlpha = document.getElementById("btn-alpha");
+  var btnCount = document.getElementById("btn-count");
+  var sortAlpha = document.querySelector(".sort-alpha");
+  var sortCount = document.querySelector(".sort-count");
+  if (btnAlpha && btnCount && sortAlpha && sortCount) {
+    btnAlpha.addEventListener("click", function() {
+      sortAlpha.classList.add("visible");
+      sortCount.classList.remove("visible");
+      btnAlpha.classList.add("active");
+      btnCount.classList.remove("active");
+    });
+    btnCount.addEventListener("click", function() {
+      sortCount.classList.add("visible");
+      sortAlpha.classList.remove("visible");
+      btnCount.classList.add("active");
+      btnAlpha.classList.remove("active");
+    });
+  }
+})();
 </script>
