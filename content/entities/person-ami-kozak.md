@@ -8,7 +8,10 @@ _Type: People_
 
 ## Mentions
 
-_No mentions recorded._
+### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
+
+- [00:32:42](/episodes/ep-ja26iltROkM.md#^t-00-32-41)
+  > "...g to: the conversation that I had with Ami Kozak. And clearly Charlie (Charlie Kirk) probably said to him, "You can watch this to get her viewpoints." "Candace (Candace Owens) is not anti-Semitic." An..."
 
 ## Relationships
 

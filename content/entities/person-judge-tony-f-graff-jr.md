@@ -8,7 +8,10 @@ _Type: People_
 
 ## Mentions
 
-_No mentions recorded._
+### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
+
+- [00:06:19](/episodes/ep-adJ4LNGp84I.md#^t-00-06-18)
+  > "That's not it, though. There were also some other new people, and I forgot to mention the judge that is in the case that is overseeing the case against Tyler Robinson is Judge Tony F. Graff Jr. He was"
 
 ## Relationships
 

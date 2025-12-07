@@ -8,7 +8,10 @@ _Type: People_
 
 ## Mentions
 
-_No mentions recorded._
+### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
+
+- [00:13:16](/episodes/ep-JQjCAsfoXEE.md#^t-00-13-16)
+  > "...rant fund. Andrew K. Smith out of nowhere does this "Restaurantology" interview with Charlie (Charlie Kirk), and so Charlie (Charlie Kirk) flew into Salt Lake to make this interview happen. That to me..."
 
 ## Relationships
 

@@ -8,7 +8,10 @@ _Type: People_
 
 ## Mentions
 
-_No mentions recorded._
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
+
+- [00:14:52](/episodes/ep-sreYYcID-QY.md#^t-00-14-12)
+  > "... to the feds. So we're looking into Erwin, and we find that he doesn't just co-own just that one house on the street with somebody else named Samuel Steele, but Samuel and his wife Carrie are the ones..."
 
 ## Relationships
 

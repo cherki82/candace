@@ -8,7 +8,10 @@ _Type: People_
 
 ## Mentions
 
-_No mentions recorded._
+### [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
+
+- [00:17:14](/episodes/ep-YaZfwLQ7vrI.md#^t-00-16-39)
+  > "...ifferent. He graduated from a military academy. His father, Carl Wallnau, was a major in the United States Air Force. Wallnau served under General Patton. After the war, he then continued his adventur..."
 
 ## Relationships
 

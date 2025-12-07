@@ -8,7 +8,10 @@ _Type: Organizations_
 
 ## Mentions
 
-_No mentions recorded._
+### [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
+
+- [00:13:20](/episodes/ep-pc3pxRyNFZk.md#^t-00-13-06)
+  > "...und knowledge. So I work for an organization called Leadership Institute. And what we do is we work hand-in-hand with all the different conservative coalition groups on college campuses: the Young Ame..."
 
 ## Relationships
 

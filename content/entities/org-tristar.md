@@ -8,7 +8,8 @@ _Type: Organizations_
 
 ## Mentions
 
-_No mentions recorded._
+### [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
+
 
 ## Relationships
 

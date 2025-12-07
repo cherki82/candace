@@ -8,7 +8,8 @@ _Type: People_
 
 ## Mentions
 
-_No mentions recorded._
+### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
+
 
 ## Relationships
 

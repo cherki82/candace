@@ -8,7 +8,10 @@ _Type: Organizations_
 
 ## Mentions
 
-_No mentions recorded._
+### [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
+
+- [00:42:07](/episodes/ep-aDlhjfW6hz8.md#^t-00-41-34)
+  > "...r. And that's what happened here, okay? The chairman of the Federal Communications Commission, Brendan Carr, jumped up, and he criticized Jimmy Kimmel's remarks. He threatened federal action against A..."
 
 ## Relationships
 

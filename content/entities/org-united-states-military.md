@@ -2,9 +2,13 @@
 title: "United States military"
 id: "org-united-states-military"
 type: "ORG"
+aliases:
+  - "American military"
 ---
 
 _Type: Organizations_
+
+**Also known as:** American military
 
 ## Mentions
 
