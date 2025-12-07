@@ -3,9 +3,10 @@ title: "I've already been able to locate George Zinn in the crowd"
 claim_id: "claim-7b91c7d1cf89"
 episode: "ja26iltROkM"
 type: "factual"
+veracity: "unverified"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ⏳ Unverified
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,8 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 
 ## Follow-up
 

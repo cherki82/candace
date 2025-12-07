@@ -11,6 +11,8 @@ _Type: Work_
 
 **Also known as:** PBD, Patrick Bet-David's podcast
 
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
 ## Mentions
 
 ### [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)

@@ -6,6 +6,8 @@ type: "PERSON"
 
 _Type: People_
 
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
 ## Mentions
 
 ### [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)

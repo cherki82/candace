@@ -3,9 +3,10 @@ title: "Bullet was too fragmented to match Tyler's rifle"
 claim_id: "claim-c45ddeca0982"
 episode: "QZWSsq8ZWzw"
 type: "factual"
+veracity: "unverifiable"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ❓ Unverifiable
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,14 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
+**Confidence:** Low
+**Source:** [Charlie Kirk shooting suspect referenced fascism and memes on bullets, officials say](https://www.nbcnews.com/tech/internet/charlie-kirk-shooting-suspect-fascism-memes-bullets-tyler-robinson-rcna230950)
+
+### Analysis
+
+No reliable primary sources, such as official forensic reports, court documents, or statements from law enforcement, were found detailing the condition of the bullet or any ballistic matching to Tyler Robinson's rifle. Available news articles discuss the suspect and ammunition but do not address bullet fragmentation or matching. Social media posts on X mention conflicting claims (e.g., some alleging a match, others questioning evidence), but these are not conclusive. Verification would require access to autopsy reports, ballistic analysis from the FBI or ATF, or court filings from the ongoing case, potentially obtainable via FOIA requests or trial proceedings.
 
 ## Follow-up
 

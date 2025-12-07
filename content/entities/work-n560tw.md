@@ -6,6 +6,8 @@ type: "WORK"
 
 _Type: Work_
 
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
 ## Mentions
 
 ### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)

@@ -3,9 +3,10 @@ title: "9 days after he was assassinated"
 claim_id: "claim-bfbe0c8f0491"
 episode: "vwG1juDCQZQ"
 type: "factual"
+veracity: "false"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ❌ False
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,14 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
+**Confidence:** High
+**Source:** [Erika Kirk - Wikipedia](https://en.wikipedia.org/wiki/Erika_Kirk)
+
+### Analysis
+
+Multiple reliable sources, including Wikipedia and news articles from NBC News and The New York Times, confirm Charlie Kirk's assassination on September 10, 2025, and the memorial service on September 21, 2025. This interval is 11 days, contradicting the claim of 9 days.
 
 ## Follow-up
 

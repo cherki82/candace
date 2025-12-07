@@ -6,6 +6,8 @@ type: "PERSON"
 
 _Type: People_
 
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
 ## Mentions
 
 ### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)

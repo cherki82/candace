@@ -3,9 +3,10 @@ title: "For Charlie's birthday, President Trump signed into law—or e..."
 claim_id: "claim-d2d7b2226d80"
 episode: "Qt0VHV-POCg"
 type: "factual"
+veracity: "unverified"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ⏳ Unverified
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,8 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 
 ## Follow-up
 

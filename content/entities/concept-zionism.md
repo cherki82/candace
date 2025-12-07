@@ -13,6 +13,8 @@ _Type: Concepts_
 
 **Also known as:** Zionists, Zionism, Christian Zionist, Zionist
 
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
 ## Mentions
 
 ### [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)

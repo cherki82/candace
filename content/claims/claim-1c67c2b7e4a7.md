@@ -21,6 +21,8 @@ veracity: "true"
 
 ## Verification
 
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 **Confidence:** High
 **Source:** [Charlie Kirk Tribute Event Set for November 16 in Jerusalem | Israel Hayom](https://www.israelhayom.com/2025/11/12/charlie-kirk-tribute-november-jerusalem/)
 

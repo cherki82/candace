@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=YA1FxrDWNIo"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -221,9 +223,9 @@ youtube_url: "https://www.youtube.com/watch?v=YA1FxrDWNIo"
 | [00:10:16](/timestamps/ep-YA1FxrDWNIo/t-00-09-32.md) | factual | [-](/claims/claim-e9a48ae28de9.md) | his name is Gernot Omer... his face matched with photos from a blog post... matc... |
 | [00:16:02](/timestamps/ep-YA1FxrDWNIo/t-00-15-56.md) | factual | [-](/claims/claim-5d8590cc0352.md) | at 12:23—according to his metadata... Phil Lyman was inside of the building... c... |
 | [00:22:12](/timestamps/ep-YA1FxrDWNIo/t-00-21-49.md) | factual | [-](/claims/claim-d5cd442bd8c7.md) | Detective Mike Mitchell... His job... was to create messages online to entrap pe... |
-| [00:30:44](/timestamps/ep-YA1FxrDWNIo/t-00-30-08.md) | factual | [-](/claims/claim-668fa0a822d5.md) | Charlie Kirk was taken to Timpanogos Regional Hospital... a smaller regional hos... |
+| [00:30:44](/timestamps/ep-YA1FxrDWNIo/t-00-30-08.md) | factual | [⚠️ Mixed](/claims/claim-668fa0a822d5.md) | Charlie Kirk was taken to Timpanogos Regional Hospital... a smaller regional hos... |
 | [00:31:35](/timestamps/ep-YA1FxrDWNIo/t-00-31-28.md) | factual | [-](/claims/claim-c6ebb44e8c2f.md) | that hospital had just announced that they had a brand-new CEO and head surgeon ... |
-| [00:32:13](/timestamps/ep-YA1FxrDWNIo/t-00-31-28.md) | factual | [-](/claims/claim-6a3923bf387d.md) | Kash Patel... fired the chief of the Utah bureau... replaced her with Robert Bow... |
+| [00:32:13](/timestamps/ep-YA1FxrDWNIo/t-00-31-28.md) | factual | [⚠️ Mixed](/claims/claim-6a3923bf387d.md) | Kash Patel... fired the chief of the Utah bureau... replaced her with Robert Bow... |
 | [00:36:10](/timestamps/ep-YA1FxrDWNIo/t-00-35-28.md) | factual | [-](/claims/claim-eac08e2acd4e.md) | About 48 hours before Charlie Kirk died, Charlie Kirk informed people at Turning... |
 
 </details>

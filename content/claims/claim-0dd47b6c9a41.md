@@ -3,9 +3,10 @@ title: "Tyler was bewildered by the idea that he carved casings"
 claim_id: "claim-0dd47b6c9a41"
 episode: "ZGxnf5cj4Uw"
 type: "factual"
+veracity: "unverified"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ⏳ Unverified
 **Type:** Factual
 
 ## Claim
@@ -20,4 +21,5 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+

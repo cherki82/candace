@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=YFmRH8p5lt0"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -231,18 +233,18 @@ youtube_url: "https://www.youtube.com/watch?v=YFmRH8p5lt0"
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
-| [00:03:47](/timestamps/ep-YFmRH8p5lt0/t-00-03-26.md) | factual | [-](/claims/claim-a2826575b10d.md) | the people who came in on that plane were not the people that went out on that p... |
-| [00:04:26](/timestamps/ep-YFmRH8p5lt0/t-00-04-11.md) | factual | [-](/claims/claim-6756368b568f.md) | that plane we covered, the tail number SUBTT—just so you know—like a year earlie... |
-| [00:06:10](/timestamps/ep-YFmRH8p5lt0/t-00-05-35.md) | factual | [-](/claims/claim-4f207951a21a.md) | there was another Egyptian plane that left three hours after—Egyptian military p... |
-| [00:08:42](/timestamps/ep-YFmRH8p5lt0/t-00-08-14.md) | factual | [-](/claims/claim-1cad0a616eea.md) | Rob McCoy hosts the first-ever Turning Point USA Faith Pastors Tour of Israel Ja... |
-| [00:09:38](/timestamps/ep-YFmRH8p5lt0/t-00-08-56.md) | factual | [-](/claims/claim-8fae5d70c7c3.md) | James O'Keefe gets pushed out. He's ousted from the board of his own company [Pr... |
-| [00:10:31](/timestamps/ep-YFmRH8p5lt0/t-00-10-20.md) | factual | [-](/claims/claim-8717c07e2c4f.md) | Sean Feucht is announced as the Turning Point USA Faith contributor on February ... |
-| [00:14:15](/timestamps/ep-YFmRH8p5lt0/t-00-13-53.md) | factual | [-](/claims/claim-f8467f8298f5.md) | Turning Point USA has their first-ever Faith Pastor Summit... in Nashville... on... |
-| [00:17:23](/timestamps/ep-YFmRH8p5lt0/t-00-16-57.md) | factual | [-](/claims/claim-64ef6a710be8.md) | trans shooting at Covenant Elementary School in Nashville... March 27th |
-| [00:19:49](/timestamps/ep-YFmRH8p5lt0/t-00-19-41.md) | factual | [-](/claims/claim-7b635dcc816c.md) | Mikey McCoy's promoted to the chief of staff of Turning Point USA. I have the in... |
-| [00:20:57](/timestamps/ep-YFmRH8p5lt0/t-00-20-27.md) | factual | [-](/claims/claim-d99d3225d8b8.md) | Turning Point USA on February 11th... starts a chapter in Lincoln, Nebraska |
-| [00:26:47](/timestamps/ep-YFmRH8p5lt0/t-00-26-11.md) | factual | [-](/claims/claim-0bfdfa7ea802.md) | Sean Feucht is credibly accused of having been involved in fraud and embezzlemen... |
-| [01:01:27](/timestamps/ep-YFmRH8p5lt0/t-01-01-05.md) | factual | [-](/claims/claim-577fce7678ec.md) | one of those planes... the tail number for that plane was Googled by Israel on S... |
+| [00:03:47](/timestamps/ep-YFmRH8p5lt0/t-00-03-26.md) | factual | [⏳ Unverified](/claims/claim-a2826575b10d.md) | the people who came in on that plane were not the people that went out on that p... |
+| [00:04:26](/timestamps/ep-YFmRH8p5lt0/t-00-04-11.md) | factual | [❓ Unverifiable](/claims/claim-6756368b568f.md) | that plane we covered, the tail number SUBTT—just so you know—like a year earlie... |
+| [00:06:10](/timestamps/ep-YFmRH8p5lt0/t-00-05-35.md) | factual | [❌ False](/claims/claim-4f207951a21a.md) | there was another Egyptian plane that left three hours after—Egyptian military p... |
+| [00:08:42](/timestamps/ep-YFmRH8p5lt0/t-00-08-14.md) | factual | [✅ True](/claims/claim-1cad0a616eea.md) | Rob McCoy hosts the first-ever Turning Point USA Faith Pastors Tour of Israel Ja... |
+| [00:09:38](/timestamps/ep-YFmRH8p5lt0/t-00-08-56.md) | factual | [✅ True](/claims/claim-8fae5d70c7c3.md) | James O'Keefe gets pushed out. He's ousted from the board of his own company [Pr... |
+| [00:10:31](/timestamps/ep-YFmRH8p5lt0/t-00-10-20.md) | factual | [❓ Unverifiable](/claims/claim-8717c07e2c4f.md) | Sean Feucht is announced as the Turning Point USA Faith contributor on February ... |
+| [00:14:15](/timestamps/ep-YFmRH8p5lt0/t-00-13-53.md) | factual | [⚠️ Mixed](/claims/claim-f8467f8298f5.md) | Turning Point USA has their first-ever Faith Pastor Summit... in Nashville... on... |
+| [00:17:23](/timestamps/ep-YFmRH8p5lt0/t-00-16-57.md) | factual | [✅ True](/claims/claim-64ef6a710be8.md) | trans shooting at Covenant Elementary School in Nashville... March 27th |
+| [00:19:49](/timestamps/ep-YFmRH8p5lt0/t-00-19-41.md) | factual | [❓ Unverifiable](/claims/claim-7b635dcc816c.md) | Mikey McCoy's promoted to the chief of staff of Turning Point USA. I have the in... |
+| [00:20:57](/timestamps/ep-YFmRH8p5lt0/t-00-20-27.md) | factual | [❌ False](/claims/claim-d99d3225d8b8.md) | Turning Point USA on February 11th... starts a chapter in Lincoln, Nebraska |
+| [00:26:47](/timestamps/ep-YFmRH8p5lt0/t-00-26-11.md) | factual | [⚠️ Mixed](/claims/claim-0bfdfa7ea802.md) | Sean Feucht is credibly accused of having been involved in fraud and embezzlemen... |
+| [01:01:27](/timestamps/ep-YFmRH8p5lt0/t-01-01-05.md) | factual | [❓ Unverifiable](/claims/claim-577fce7678ec.md) | one of those planes... the tail number for that plane was Googled by Israel on S... |
 
 </details>
 

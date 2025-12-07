@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=yAIb-NuUh_U"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -299,14 +301,14 @@ youtube_url: "https://www.youtube.com/watch?v=yAIb-NuUh_U"
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
-| [00:01:46](/timestamps/ep-yAIb-NuUh_U/t-00-01-32.md) | factual | [-](/claims/claim-1b5217e6d2c3.md) | Frank Turek... was next to Charlie Kirk. Actually, when he was assassinated... h... |
-| [00:09:17](/timestamps/ep-yAIb-NuUh_U/t-00-09-14.md) | factual | [-](/claims/claim-d0670112ff31.md) | Thomas Michael Camino, 31 years old, of San Juan Capistrano, was convicted in Ma... |
-| [00:11:21](/timestamps/ep-yAIb-NuUh_U/t-00-10-36.md) | factual | [-](/claims/claim-892548eaccdb.md) | Despite his conviction, despite having spent years in prison for these crimes, R... |
-| [00:19:12](/timestamps/ep-yAIb-NuUh_U/t-00-18-59.md) | factual | [-](/claims/claim-48e4aa3e9c91.md) | Florida Calvary Chapel in Pompano Beach—the founder was a pastor named Rob Coy..... |
-| [00:19:36](/timestamps/ep-yAIb-NuUh_U/t-00-18-59.md) | factual | [-](/claims/claim-67377843f718.md) | In 2024, the lead pastor was arrested after a sting operation into online sex ab... |
-| [00:19:52](/timestamps/ep-yAIb-NuUh_U/t-00-19-42.md) | factual | [-](/claims/claim-997c2f2a134c.md) | Calvary Chapel Cary—the lead pastor resigned amid allegations of incest with his... |
-| [00:20:46](/timestamps/ep-yAIb-NuUh_U/t-00-20-23.md) | factual | [-](/claims/claim-902eae35ffe1.md) | Anthony Iglesias... is currently serving time. He was found guilty in Idaho Stat... |
-| [00:27:07](/timestamps/ep-yAIb-NuUh_U/t-00-26-34.md) | factual | [-](/claims/claim-58ce7c774425.md) | Potter's Fields Ministry... brought in Pastor Rob McCoy as a CFO to help steer t... |
+| [00:01:46](/timestamps/ep-yAIb-NuUh_U/t-00-01-32.md) | factual | [✅ True](/claims/claim-1b5217e6d2c3.md) | Frank Turek... was next to Charlie Kirk. Actually, when he was assassinated... h... |
+| [00:09:17](/timestamps/ep-yAIb-NuUh_U/t-00-09-14.md) | factual | [⚠️ Mixed](/claims/claim-d0670112ff31.md) | Thomas Michael Camino, 31 years old, of San Juan Capistrano, was convicted in Ma... |
+| [00:11:21](/timestamps/ep-yAIb-NuUh_U/t-00-10-36.md) | factual | [❓ Unverifiable](/claims/claim-892548eaccdb.md) | Despite his conviction, despite having spent years in prison for these crimes, R... |
+| [00:19:12](/timestamps/ep-yAIb-NuUh_U/t-00-18-59.md) | factual | [⚠️ Mixed](/claims/claim-48e4aa3e9c91.md) | Florida Calvary Chapel in Pompano Beach—the founder was a pastor named Rob Coy..... |
+| [00:19:36](/timestamps/ep-yAIb-NuUh_U/t-00-18-59.md) | factual | [⚠️ Mixed](/claims/claim-67377843f718.md) | In 2024, the lead pastor was arrested after a sting operation into online sex ab... |
+| [00:19:52](/timestamps/ep-yAIb-NuUh_U/t-00-19-42.md) | factual | [⏳ Unverified](/claims/claim-997c2f2a134c.md) | Calvary Chapel Cary—the lead pastor resigned amid allegations of incest with his... |
+| [00:20:46](/timestamps/ep-yAIb-NuUh_U/t-00-20-23.md) | factual | [⏳ Unverified](/claims/claim-902eae35ffe1.md) | Anthony Iglesias... is currently serving time. He was found guilty in Idaho Stat... |
+| [00:27:07](/timestamps/ep-yAIb-NuUh_U/t-00-26-34.md) | factual | [⏳ Unverified](/claims/claim-58ce7c774425.md) | Potter's Fields Ministry... brought in Pastor Rob McCoy as a CFO to help steer t... |
 
 </details>
 

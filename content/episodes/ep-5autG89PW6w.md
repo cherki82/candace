@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=5autG89PW6w"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -263,15 +265,15 @@ youtube_url: "https://www.youtube.com/watch?v=5autG89PW6w"
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
-| [00:00:35](/timestamps/ep-5autG89PW6w/t-00-00-00.md) | factual | [-](/claims/claim-bb2cc178c7d1.md) | Turning Point USA has responded to the release of the messages, so we are going ... |
+| [00:00:35](/timestamps/ep-5autG89PW6w/t-00-00-00.md) | factual | [✅ True](/claims/claim-bb2cc178c7d1.md) | Turning Point USA has responded to the release of the messages, so we are going ... |
 | [00:04:11](/timestamps/ep-5autG89PW6w/t-00-03-30.md) | prediction | [-](/claims/claim-103a3b7bf85c.md) | I don't know who exactly it is that betrayed him. But I also felt in the dream t... |
-| [00:13:40](/timestamps/ep-5autG89PW6w/t-00-13-12.md) | factual | [-](/claims/claim-a0055faca5f8.md) | Andrew Kolvet, Turning Point's spokesperson, confirmed that the messages were in... |
-| [00:14:31](/timestamps/ep-5autG89PW6w/t-00-14-17.md) | factual | [-](/claims/claim-448e581a855d.md) | that was a text grab, a screen grab that I had shared uh... with people, so it—i... |
-| [00:15:06](/timestamps/ep-5autG89PW6w/t-00-15-02.md) | factual | [-](/claims/claim-8908ae8d29a1.md) | It took 33 hours for authorities to get their suspect. |
-| [00:21:25](/timestamps/ep-5autG89PW6w/t-00-20-43.md) | factual | [-](/claims/claim-6a90a9b210b6.md) | Three people told me off-record—two people who have this in a written communicat... |
-| [00:24:14](/timestamps/ep-5autG89PW6w/t-00-24-12.md) | factual | [-](/claims/claim-b5f5479ef70b.md) | We actually spoke literally the night before his tragic and untimely death. I wa... |
-| [00:28:53](/timestamps/ep-5autG89PW6w/t-00-28-35.md) | factual | [-](/claims/claim-c83e9fd3d62f.md) | he was obviously dead before he hit the ground. That was not an entry wound that... |
-| [00:29:01](/timestamps/ep-5autG89PW6w/t-00-28-35.md) | factual | [-](/claims/claim-4f0c84441d8d.md) | Why did his shirt move the way it did? When I've shot people, their shirts didn'... |
+| [00:13:40](/timestamps/ep-5autG89PW6w/t-00-13-12.md) | factual | [✅ True](/claims/claim-a0055faca5f8.md) | Andrew Kolvet, Turning Point's spokesperson, confirmed that the messages were in... |
+| [00:14:31](/timestamps/ep-5autG89PW6w/t-00-14-17.md) | factual | [✅ True](/claims/claim-448e581a855d.md) | that was a text grab, a screen grab that I had shared uh... with people, so it—i... |
+| [00:15:06](/timestamps/ep-5autG89PW6w/t-00-15-02.md) | factual | [✅ True](/claims/claim-8908ae8d29a1.md) | It took 33 hours for authorities to get their suspect. |
+| [00:21:25](/timestamps/ep-5autG89PW6w/t-00-20-43.md) | factual | [❓ Unverifiable](/claims/claim-6a90a9b210b6.md) | Three people told me off-record—two people who have this in a written communicat... |
+| [00:24:14](/timestamps/ep-5autG89PW6w/t-00-24-12.md) | factual | [✅ True](/claims/claim-b5f5479ef70b.md) | We actually spoke literally the night before his tragic and untimely death. I wa... |
+| [00:28:53](/timestamps/ep-5autG89PW6w/t-00-28-35.md) | factual | [❓ Unverifiable](/claims/claim-c83e9fd3d62f.md) | he was obviously dead before he hit the ground. That was not an entry wound that... |
+| [00:29:01](/timestamps/ep-5autG89PW6w/t-00-28-35.md) | factual | [❓ Unverifiable](/claims/claim-4f0c84441d8d.md) | Why did his shirt move the way it did? When I've shot people, their shirts didn'... |
 
 </details>
 

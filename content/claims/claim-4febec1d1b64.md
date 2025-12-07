@@ -3,9 +3,10 @@ title: "Tyler Robinson was not on the Woodbury Building or on campus..."
 claim_id: "claim-4febec1d1b64"
 episode: "iHav0PPzUz8"
 type: "factual"
+veracity: "false"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ❌ False
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,14 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
+**Confidence:** High
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+
+### Analysis
+
+Multiple reliable sources, including Wikipedia, Fox News, CNN, and NPR, confirm that Tyler Robinson was the accused shooter who fired from a rooftop on the UVU campus, approximately 142 yards from the event. This directly contradicts the claim that he was not on the Woodbury Building (identified in reports as the sniper location) or on campus at all. The evidence includes official statements, court documents, and news reports detailing his path across campus and surrender to authorities.
 
 ## Follow-up
 

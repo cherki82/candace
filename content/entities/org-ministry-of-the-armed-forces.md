@@ -13,6 +13,8 @@ _Type: Organizations_
 
 **Also known as:** French Ministry of the Armed Forces, Minister of the Armed Forces, Ministry, Ministry of the Armed Forces (France)
 
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
 ## Mentions
 
 ### [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)

@@ -3,9 +3,10 @@ title: "There's just four of us that work on the actual podcast ever..."
 claim_id: "claim-bcda16a34798"
 episode: "vwG1juDCQZQ"
 type: "factual"
+veracity: "true"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ✅ True
 **Type:** Factual
 
 ## Claim
@@ -20,4 +21,11 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
+**Confidence:** High
+**Source:** [Candace Owens on X](https://x.com/RealCandaceO/status/1996228880458195178)
+
+### Analysis
+
+Multiple posts from Candace Owens' official X account, including this one dated 2025-12-03, consistently state that her podcast team consists of just 4 people (including herself) working on it daily. This matches the claim in the podcast transcript, with named team members (Savannah, Chris, Mark, Skylar) aligning with a small team of four. No contradicting evidence from reliable sources was found in web searches or other X posts.

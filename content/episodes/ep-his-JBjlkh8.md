@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=his-JBjlkh8"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -450,12 +452,12 @@ youtube_url: "https://www.youtube.com/watch?v=his-JBjlkh8"
 | [00:07:09](/timestamps/ep-his-JBjlkh8/t-00-06-47.md) | factual | [-](/claims/claim-76de9460fe8b.md) | typically those events are decided at least the semester before. This came toget... |
 | [00:08:49](/timestamps/ep-his-JBjlkh8/t-00-08-43.md) | factual | [-](/claims/claim-d1d27171ec20.md) | They did not issue him first aid when he fell down. There was nobody who pulled ... |
 | [00:09:02](/timestamps/ep-his-JBjlkh8/t-00-08-43.md) | factual | [-](/claims/claim-a7eb4f747e6e.md) | In a sit-down with Sean Ryan, Brian Harpole said, 'It was because of the severit... |
-| [00:12:32](/timestamps/ep-his-JBjlkh8/t-00-12-21.md) | factual | [-](/claims/claim-b1c7abfd9265.md) | People at Turning Point USA are in possession of text messages the day before Ch... |
+| [00:12:32](/timestamps/ep-his-JBjlkh8/t-00-12-21.md) | factual | [❓ Unverifiable](/claims/claim-b1c7abfd9265.md) | People at Turning Point USA are in possession of text messages the day before Ch... |
 | [00:14:34](/timestamps/ep-his-JBjlkh8/t-00-14-26.md) | factual | [-](/claims/claim-b0edd278e10b.md) | Charlie Kirk made sure the organization was audited by a third party every year.... |
 | [00:15:43](/timestamps/ep-his-JBjlkh8/t-00-15-03.md) | factual | [-](/claims/claim-981f94fb0f1c.md) | Charlie Kirk's explicit request to put together a DOGE department seven days bef... |
 | [00:29:01](/timestamps/ep-his-JBjlkh8/t-00-28-45.md) | promise | [-](/claims/claim-e79f8db7e7fa.md) | In the near future, there will be a live stream here in Phoenix where we address... |
 | [00:41:04](/timestamps/ep-his-JBjlkh8/t-00-40-39.md) | factual | [-](/claims/claim-64bea0022dde.md) | the French Foreign Legion were apparently on the ground on the day of Charlie Ki... |
-| [00:49:54](/timestamps/ep-his-JBjlkh8/t-00-49-40.md) | factual | [-](/claims/claim-a5f56c0fe58d.md) | an hour and a half before Charlie Kirk was assassinated in Utah, Donald Trump an... |
+| [00:49:54](/timestamps/ep-his-JBjlkh8/t-00-49-40.md) | factual | [❓ Unverifiable](/claims/claim-a5f56c0fe58d.md) | an hour and a half before Charlie Kirk was assassinated in Utah, Donald Trump an... |
 
 </details>
 

@@ -12,6 +12,8 @@ _Type: Organizations_
 
 **Also known as:** DOD, D.O.D., Department of Defense
 
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
 ## Mentions
 
 ### [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)

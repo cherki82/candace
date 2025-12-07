@@ -21,6 +21,8 @@ veracity: "true"
 
 ## Verification
 
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 **Confidence:** High
 **Source:** [The New Apostolic Reformation drove the January 6 riots, so why was it overlooked by the House Select Committee? – Baptist News Global](https://baptistnews.com/article/the-new-apostolic-reformation-drove-the-january-6-riots-so-why-was-it-overlooked-by-the-house-select-committee/)
 

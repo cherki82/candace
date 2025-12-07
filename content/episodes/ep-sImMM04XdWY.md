@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=sImMM04XdWY"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -233,22 +235,22 @@ youtube_url: "https://www.youtube.com/watch?v=sImMM04XdWY"
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
-| [00:00:01](/timestamps/ep-sImMM04XdWY/t-00-00-01.md) | factual | [-](/claims/claim-62c49f0df7ae.md) | Brian Harpole lied badly to Sean Ryan in an interview |
-| [00:00:39](/timestamps/ep-sImMM04XdWY/t-00-00-01.md) | factual | [-](/claims/claim-97d480f06936.md) | Satis certainly wasn't established to provide any maintenance to those Egyptian ... |
-| [00:01:02](/timestamps/ep-sImMM04XdWY/t-00-00-39.md) | factual | [-](/claims/claim-997ebec6245d.md) | Charlie Kirk called me and told me that they wanted me to stop speaking about Br... |
-| [00:02:55](/timestamps/ep-sImMM04XdWY/t-00-02-44.md) | factual | [-](/claims/claim-77cd4ea72c5e.md) | Andrew Colvett said, and I quote, 'Candace, it was supposed to be you' |
-| [00:03:31](/timestamps/ep-sImMM04XdWY/t-00-03-29.md) | factual | [-](/claims/claim-e4b47b622330.md) | while the actual day on September 10th while Charlie Kirk was in the hospital, h... |
-| [00:06:12](/timestamps/ep-sImMM04XdWY/t-00-05-36.md) | factual | [-](/claims/claim-50bc5592dd4c.md) | after our Egyptian plane, tail number SUBTT, landed into this federally monitore... |
-| [00:07:51](/timestamps/ep-sImMM04XdWY/t-00-07-38.md) | factual | [-](/claims/claim-6f7f89a86644.md) | March 13th, I do that first episode regarding Brigitte Macron. March 19th, just ... |
-| [00:08:25](/timestamps/ep-sImMM04XdWY/t-00-08-18.md) | factual | [-](/claims/claim-b510c9c0410f.md) | on December 3rd, before I interview him, I receive the first ever cease-and-desi... |
-| [00:09:08](/timestamps/ep-sImMM04XdWY/t-00-09-03.md) | factual | [-](/claims/claim-bb24d2c4ec23.md) | seven days later is when it's publicly announced that Satis, that French company... |
-| [00:11:46](/timestamps/ep-sImMM04XdWY/t-00-11-43.md) | factual | [-](/claims/claim-5f826c9ca565.md) | on February 24th, Charlie Kirk reaches out, and he tells me that the White House... |
-| [00:12:06](/timestamps/ep-sImMM04XdWY/t-00-11-43.md) | factual | [-](/claims/claim-d64704c8f916.md) | This is the day that Donald Trump meets with Emmanuel Macron |
-| [00:12:49](/timestamps/ep-sImMM04XdWY/t-00-12-26.md) | factual | [-](/claims/claim-14bf1f4a6e5b.md) | On February 25th, actually, Sergio Gor called me and asked me to stop speaking a... |
-| [00:13:03](/timestamps/ep-sImMM04XdWY/t-00-12-26.md) | factual | [-](/claims/claim-0ca4a7ce1348.md) | February 26th. President Donald Trump calls me and asks me to stop speaking abou... |
-| [00:17:22](/timestamps/ep-sImMM04XdWY/t-00-16-53.md) | factual | [-](/claims/claim-93fa0ace0c38.md) | from the 20th to the 26th—that happens to be the period that Brigitte and Emmanu... |
-| [00:33:44](/timestamps/ep-sImMM04XdWY/t-00-33-24.md) | factual | [-](/claims/claim-2e54d7130c17.md) | Brian Harpole is actually presenting a text message between Dan Flood and Chief ... |
-| [00:40:39](/timestamps/ep-sImMM04XdWY/t-00-40-25.md) | factual | [-](/claims/claim-4eb1aa41dadd.md) | the footage of Tyler Robinson turning himself in... is now missing |
+| [00:00:01](/timestamps/ep-sImMM04XdWY/t-00-00-01.md) | factual | [❓ Unverifiable](/claims/claim-62c49f0df7ae.md) | Brian Harpole lied badly to Sean Ryan in an interview |
+| [00:00:39](/timestamps/ep-sImMM04XdWY/t-00-00-01.md) | factual | [❌ False](/claims/claim-97d480f06936.md) | Satis certainly wasn't established to provide any maintenance to those Egyptian ... |
+| [00:01:02](/timestamps/ep-sImMM04XdWY/t-00-00-39.md) | factual | [❓ Unverifiable](/claims/claim-997ebec6245d.md) | Charlie Kirk called me and told me that they wanted me to stop speaking about Br... |
+| [00:02:55](/timestamps/ep-sImMM04XdWY/t-00-02-44.md) | factual | [❓ Unverifiable](/claims/claim-77cd4ea72c5e.md) | Andrew Colvett said, and I quote, 'Candace, it was supposed to be you' |
+| [00:03:31](/timestamps/ep-sImMM04XdWY/t-00-03-29.md) | factual | [❓ Unverifiable](/claims/claim-e4b47b622330.md) | while the actual day on September 10th while Charlie Kirk was in the hospital, h... |
+| [00:06:12](/timestamps/ep-sImMM04XdWY/t-00-05-36.md) | factual | [❓ Unverifiable](/claims/claim-50bc5592dd4c.md) | after our Egyptian plane, tail number SUBTT, landed into this federally monitore... |
+| [00:07:51](/timestamps/ep-sImMM04XdWY/t-00-07-38.md) | factual | [❓ Unverifiable](/claims/claim-6f7f89a86644.md) | March 13th, I do that first episode regarding Brigitte Macron. March 19th, just ... |
+| [00:08:25](/timestamps/ep-sImMM04XdWY/t-00-08-18.md) | factual | [❓ Unverifiable](/claims/claim-b510c9c0410f.md) | on December 3rd, before I interview him, I receive the first ever cease-and-desi... |
+| [00:09:08](/timestamps/ep-sImMM04XdWY/t-00-09-03.md) | factual | [✅ True](/claims/claim-bb24d2c4ec23.md) | seven days later is when it's publicly announced that Satis, that French company... |
+| [00:11:46](/timestamps/ep-sImMM04XdWY/t-00-11-43.md) | factual | [❓ Unverifiable](/claims/claim-5f826c9ca565.md) | on February 24th, Charlie Kirk reaches out, and he tells me that the White House... |
+| [00:12:06](/timestamps/ep-sImMM04XdWY/t-00-11-43.md) | factual | [✅ True](/claims/claim-d64704c8f916.md) | This is the day that Donald Trump meets with Emmanuel Macron |
+| [00:12:49](/timestamps/ep-sImMM04XdWY/t-00-12-26.md) | factual | [❓ Unverifiable](/claims/claim-14bf1f4a6e5b.md) | On February 25th, actually, Sergio Gor called me and asked me to stop speaking a... |
+| [00:13:03](/timestamps/ep-sImMM04XdWY/t-00-12-26.md) | factual | [❓ Unverifiable](/claims/claim-0ca4a7ce1348.md) | February 26th. President Donald Trump calls me and asks me to stop speaking abou... |
+| [00:17:22](/timestamps/ep-sImMM04XdWY/t-00-16-53.md) | factual | [✅ True](/claims/claim-93fa0ace0c38.md) | from the 20th to the 26th—that happens to be the period that Brigitte and Emmanu... |
+| [00:33:44](/timestamps/ep-sImMM04XdWY/t-00-33-24.md) | factual | [❓ Unverifiable](/claims/claim-2e54d7130c17.md) | Brian Harpole is actually presenting a text message between Dan Flood and Chief ... |
+| [00:40:39](/timestamps/ep-sImMM04XdWY/t-00-40-25.md) | factual | [✅ True](/claims/claim-4eb1aa41dadd.md) | the footage of Tyler Robinson turning himself in... is now missing |
 
 </details>
 

@@ -3,9 +3,10 @@ title: "Charlie Kirk landed into Salt Lake City at 9:23 a.m. local t..."
 claim_id: "claim-0b69791d5fad"
 episode: "JQjCAsfoXEE"
 type: "factual"
+veracity: "unverified"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ⏳ Unverified
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,8 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 
 ## Follow-up
 

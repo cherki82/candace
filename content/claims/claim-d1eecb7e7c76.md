@@ -3,9 +3,10 @@ title: "It is a very clear image of Tyler Robinson, allegedly taken ..."
 claim_id: "claim-d1eecb7e7c76"
 episode: "sreYYcID-QY"
 type: "factual"
+veracity: "mixed"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ⚠️ Mixed
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,14 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
+**Confidence:** Medium
+**Source:** [Was Tyler Robinson At Dairy Queen After Charlie Kirk Shooting? What We Know - Newsweek](https://www.newsweek.com/tyler-robinson-dairy-queen-charlie-kirk-2132434)
+
+### Analysis
+
+Multiple reliable sources, including Newsweek and Times Now, confirm that Candace Owens released a clear image purporting to show Tyler Robinson at a Dairy Queen in Orem at 6:38 p.m. after the shooting, matching the podcast claim. However, the image is unverified by law enforcement, and official sources have not confirmed its authenticity, timestamp, or that it depicts Robinson at that exact time. Fact-checks address related theories but do not debunk the image's existence, only specific interpretations. Verification would require official confirmation from Utah police, Dairy Queen surveillance records, or court documents via FOIA.
 
 ## Follow-up
 

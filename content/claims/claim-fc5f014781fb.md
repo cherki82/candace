@@ -3,9 +3,10 @@ title: "UVU Turning Point chapter requested Charlie Kirk to speak on..."
 claim_id: "claim-fc5f014781fb"
 episode: "MUA9ebCF4Ow"
 type: "factual"
+veracity: "unverified"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ⏳ Unverified
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,8 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 
 ## Follow-up
 

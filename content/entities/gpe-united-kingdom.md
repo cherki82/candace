@@ -10,6 +10,8 @@ _Type: Places_
 
 **Also known as:** UK
 
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
 ## Mentions
 
 ### [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)

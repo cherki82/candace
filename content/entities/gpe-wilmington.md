@@ -11,6 +11,8 @@ _Type: Places_
 
 **Also known as:** Wilmington, Delaware, Wilmington
 
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
 ## Mentions
 
 ### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)

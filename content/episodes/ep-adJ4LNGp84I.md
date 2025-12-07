@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=adJ4LNGp84I"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -235,14 +237,14 @@ youtube_url: "https://www.youtube.com/watch?v=adJ4LNGp84I"
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
-| [00:00:52](/timestamps/ep-adJ4LNGp84I/t-00-00-36.md) | factual | [-](/claims/claim-1b5ca82bf9fe.md) | We have now confirmed that there was indeed a woman who was with the shooter in ... |
-| [00:02:16](/timestamps/ep-adJ4LNGp84I/t-00-02-10.md) | factual | [-](/claims/claim-745558744f2b.md) | The venue was indeed secured in quick order, but that was because they had help ... |
+| [00:00:52](/timestamps/ep-adJ4LNGp84I/t-00-00-36.md) | factual | [❓ Unverifiable](/claims/claim-1b5ca82bf9fe.md) | We have now confirmed that there was indeed a woman who was with the shooter in ... |
+| [00:02:16](/timestamps/ep-adJ4LNGp84I/t-00-02-10.md) | factual | [❓ Unverifiable](/claims/claim-745558744f2b.md) | The venue was indeed secured in quick order, but that was because they had help ... |
 | [00:04:12](/timestamps/ep-adJ4LNGp84I/t-00-03-37.md) | factual | [-](/claims/claim-cd6931d9b0df.md) | That entry has been there at least since—and I'm gonna show you this on Wayback—... |
 | [00:05:19](/timestamps/ep-adJ4LNGp84I/t-00-05-01.md) | factual | [-](/claims/claim-6ef824dd453f.md) | Kash Patel, I told you, cleaned house at the State Bureau. He then installs a pe... |
 | [00:05:34](/timestamps/ep-adJ4LNGp84I/t-00-05-01.md) | factual | [-](/claims/claim-63a4583e3750.md) | There was a new CEO and therefore a new lead surgeon, Andrew Zenger, over at the... |
-| [00:06:32](/timestamps/ep-adJ4LNGp84I/t-00-06-18.md) | factual | [-](/claims/claim-57d4252c3538.md) | The judge that is in the case that is overseeing the case against Tyler Robinson... |
+| [00:06:32](/timestamps/ep-adJ4LNGp84I/t-00-06-18.md) | factual | [✅ True](/claims/claim-57d4252c3538.md) | The judge that is in the case that is overseeing the case against Tyler Robinson... |
 | [00:06:44](/timestamps/ep-adJ4LNGp84I/t-00-06-18.md) | factual | [-](/claims/claim-d3bafe4c2c4a.md) | I was also informed that the coroner in this case was also brand spanking new. |
-| [00:06:52](/timestamps/ep-adJ4LNGp84I/t-00-06-18.md) | factual | [-](/claims/claim-7a8a9e607956.md) | Charlie Kirk did indeed have an autopsy. |
+| [00:06:52](/timestamps/ep-adJ4LNGp84I/t-00-06-18.md) | factual | [✅ True](/claims/claim-7a8a9e607956.md) | Charlie Kirk did indeed have an autopsy. |
 | [00:11:30](/timestamps/ep-adJ4LNGp84I/t-00-11-20.md) | factual | [-](/claims/claim-222b5afca039.md) | So I wondered if the girl had given him stuff, like if there is an accomplice. |
 | [00:22:50](/timestamps/ep-adJ4LNGp84I/t-00-22-22.md) | factual | [-](/claims/claim-e0aac1580cff.md) | It is also a fact, by the way, that Charlie Kirk was on a hit list. |
 

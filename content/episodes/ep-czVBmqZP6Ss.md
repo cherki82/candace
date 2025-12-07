@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=czVBmqZP6Ss"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -324,19 +326,19 @@ youtube_url: "https://www.youtube.com/watch?v=czVBmqZP6Ss"
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
-| [00:00:21](/timestamps/ep-czVBmqZP6Ss/t-00-00-00.md) | factual | [-](/claims/claim-9d64997eb734.md) | Charlie Kirk is dead and he was publicly executed |
+| [00:00:21](/timestamps/ep-czVBmqZP6Ss/t-00-00-00.md) | factual | [⏳ Unverified](/claims/claim-9d64997eb734.md) | Charlie Kirk is dead and he was publicly executed |
 | [00:01:48](/timestamps/ep-czVBmqZP6Ss/t-00-01-09.md) | promise | [-](/claims/claim-3d77af0fd3e0.md) | The movement my husband built will not die |
-| [00:03:02](/timestamps/ep-czVBmqZP6Ss/t-00-02-45.md) | factual | [-](/claims/claim-0f315d66c71a.md) | Charlie Kirk was shot in the neck |
-| [00:04:44](/timestamps/ep-czVBmqZP6Ss/t-00-04-11.md) | factual | [-](/claims/claim-df816882d864.md) | Charlie Kirk was going through a spiritual transformation at the end |
-| [00:07:41](/timestamps/ep-czVBmqZP6Ss/t-00-07-17.md) | factual | [-](/claims/claim-7add555d97c4.md) | Charlie Kirk wrote me a letter on May 2nd this year saying one of my greatest jo... |
-| [00:10:12](/timestamps/ep-czVBmqZP6Ss/t-00-09-49.md) | factual | [-](/claims/claim-13958855d240.md) | In May, Charlie Kirk was concerned about Israel and their influence on American ... |
-| [00:15:31](/timestamps/ep-czVBmqZP6Ss/t-00-15-01.md) | factual | [-](/claims/claim-7e228e40e4be.md) | A couple of weeks ago before Charlie Kirk lost his life, Charlie Kirk was in the... |
-| [00:21:25](/timestamps/ep-czVBmqZP6Ss/t-00-20-41.md) | factual | [-](/claims/claim-bdd1eaa4a0ab.md) | Charlie Kirk was praying the rosary and going to mass |
+| [00:03:02](/timestamps/ep-czVBmqZP6Ss/t-00-02-45.md) | factual | [⏳ Unverified](/claims/claim-0f315d66c71a.md) | Charlie Kirk was shot in the neck |
+| [00:04:44](/timestamps/ep-czVBmqZP6Ss/t-00-04-11.md) | factual | [⏳ Unverified](/claims/claim-df816882d864.md) | Charlie Kirk was going through a spiritual transformation at the end |
+| [00:07:41](/timestamps/ep-czVBmqZP6Ss/t-00-07-17.md) | factual | [⏳ Unverified](/claims/claim-7add555d97c4.md) | Charlie Kirk wrote me a letter on May 2nd this year saying one of my greatest jo... |
+| [00:10:12](/timestamps/ep-czVBmqZP6Ss/t-00-09-49.md) | factual | [⏳ Unverified](/claims/claim-13958855d240.md) | In May, Charlie Kirk was concerned about Israel and their influence on American ... |
+| [00:15:31](/timestamps/ep-czVBmqZP6Ss/t-00-15-01.md) | factual | [⏳ Unverified](/claims/claim-7e228e40e4be.md) | A couple of weeks ago before Charlie Kirk lost his life, Charlie Kirk was in the... |
+| [00:21:25](/timestamps/ep-czVBmqZP6Ss/t-00-20-41.md) | factual | [⏳ Unverified](/claims/claim-bdd1eaa4a0ab.md) | Charlie Kirk was praying the rosary and going to mass |
 | [00:29:10](/timestamps/ep-czVBmqZP6Ss/t-00-28-54.md) | interpretive | [-](/claims/claim-0aec0871d12a.md) | Epstein with his little friend Ghislaine, and Ghislaine's father Robert Maxwell ... |
 | [00:31:54](/timestamps/ep-czVBmqZP6Ss/t-00-31-46.md) | promise | [-](/claims/claim-c145249bc093.md) | If you put a shill in Charlie Kirk’s chair, I will release every single text mes... |
-| [00:40:44](/timestamps/ep-czVBmqZP6Ss/t-00-40-33.md) | factual | [-](/claims/claim-32facc7ab3dc.md) | Tyler Robinson arrived at UVU campus at approximately 8:29 a.m. on September 10t... |
-| [00:50:22](/timestamps/ep-czVBmqZP6Ss/t-00-50-00.md) | factual | [-](/claims/claim-c3e0845776d1.md) | Tyler Robinson has not confessed to authorities and is not cooperating |
-| [00:52:25](/timestamps/ep-czVBmqZP6Ss/t-00-51-44.md) | factual | [-](/claims/claim-37d579ba9f31.md) | Tyler Robinson made messages on Discord about retrieving a rifle from a drop poi... |
+| [00:40:44](/timestamps/ep-czVBmqZP6Ss/t-00-40-33.md) | factual | [⏳ Unverified](/claims/claim-32facc7ab3dc.md) | Tyler Robinson arrived at UVU campus at approximately 8:29 a.m. on September 10t... |
+| [00:50:22](/timestamps/ep-czVBmqZP6Ss/t-00-50-00.md) | factual | [⏳ Unverified](/claims/claim-c3e0845776d1.md) | Tyler Robinson has not confessed to authorities and is not cooperating |
+| [00:52:25](/timestamps/ep-czVBmqZP6Ss/t-00-51-44.md) | factual | [⏳ Unverified](/claims/claim-37d579ba9f31.md) | Tyler Robinson made messages on Discord about retrieving a rifle from a drop poi... |
 
 </details>
 

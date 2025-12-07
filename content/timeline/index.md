@@ -2,6 +2,8 @@
 
 _Total events: 455_
 
+> **Note:** Events and dates are extracted automatically using AI. Some dates may be approximate or inferred from context.
+
 ## 1856
 
 ### January

@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=2Riv3I7D0Yk"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -360,7 +362,7 @@ youtube_url: "https://www.youtube.com/watch?v=2Riv3I7D0Yk"
 | [00:21:29](/timestamps/ep-2Riv3I7D0Yk/t-00-20-54.md) | factual | [-](/claims/claim-4704f6d906af.md) | We actually did speak for the last time less than 24 hours before the assassinat... |
 | [00:29:05](/timestamps/ep-2Riv3I7D0Yk/t-00-28-30.md) | factual | [-](/claims/claim-5355e7389897.md) | I was in touch with Charlie Kirk on an almost daily basis for months, ... the me... |
 | [00:32:48](/timestamps/ep-2Riv3I7D0Yk/t-00-32-20.md) | factual | [-](/claims/claim-5042ce433421.md) | I have text messages to that effect [Charlie was particularly worried that Israe... |
-| [00:35:12](/timestamps/ep-2Riv3I7D0Yk/t-00-34-57.md) | factual | [-](/claims/claim-32cca299b729.md) | he was texting people saying they are gonna kill me. On the same day that he's o... |
+| [00:35:12](/timestamps/ep-2Riv3I7D0Yk/t-00-34-57.md) | factual | [❓ Unverifiable](/claims/claim-32cca299b729.md) | he was texting people saying they are gonna kill me. On the same day that he's o... |
 
 </details>
 

@@ -21,6 +21,8 @@ veracity: "unverifiable"
 
 ## Verification
 
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 **Confidence:** High
 **Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
 

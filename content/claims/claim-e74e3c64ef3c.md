@@ -3,9 +3,10 @@ title: "his church was funded by the Wilks Brothers down in Texas."
 claim_id: "claim-e74e3c64ef3c"
 episode: "Qfwr08Ebczo"
 type: "factual"
+veracity: "unverified"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ⏳ Unverified
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,8 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 
 ## Follow-up
 

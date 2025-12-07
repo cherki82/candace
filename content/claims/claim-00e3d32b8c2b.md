@@ -21,6 +21,8 @@ veracity: "unverifiable"
 
 ## Verification
 
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 **Confidence:** High
 **Source:** [Candace Owens Reveals New Evidence Regarding Charlie Kirk Assassination and Asks Utah Residents to Aid Her Investigation](https://www.latintimes.com/candace-owens-reveals-new-evidence-regarding-charlie-kirk-assassination-asks-utah-residents-aid-591698)
 

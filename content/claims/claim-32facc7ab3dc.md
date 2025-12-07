@@ -3,9 +3,10 @@ title: "Tyler Robinson arrived at UVU campus at approximately 8:29 a..."
 claim_id: "claim-32facc7ab3dc"
 episode: "czVBmqZP6Ss"
 type: "factual"
+veracity: "unverified"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ⏳ Unverified
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,8 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 
 ## Follow-up
 

@@ -3,9 +3,10 @@ title: "Ben Shapiro told Charlie that Ben Shapiro was in part upset ..."
 claim_id: "claim-3c5edc1e48d1"
 episode: "K1tFD7FfoCU"
 type: "factual"
+veracity: "unverified"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ⏳ Unverified
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,8 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 
 ## Follow-up
 

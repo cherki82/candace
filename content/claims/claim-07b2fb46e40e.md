@@ -3,9 +3,10 @@ title: "the gun was found in the backyard of someone that I know... ..."
 claim_id: "claim-07b2fb46e40e"
 episode: "sreYYcID-QY"
 type: "factual"
+veracity: "unverifiable"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ❓ Unverifiable
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,14 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
+**Confidence:** High
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+
+### Analysis
+
+No reliable primary sources, such as news articles from established outlets (e.g., CNN, Fox News, NYT) or official statements from law enforcement, confirm the gun was found in a backyard by a chicken coop. The claim appears to originate from local rumors and conspiracy theories discussed on podcasts and social media, with some posts on X mentioning 'woods' as the recovery location instead. Multiple searches across web results yield details on the shooting and suspect's path but no specifics on a chicken coop. Verification would require access to official police reports, evidence logs, or court documents from the Utah County prosecutor's office detailing the exact gun recovery site.
 
 ## Follow-up
 

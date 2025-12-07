@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=mKXdKV-OBog"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -232,8 +234,8 @@ youtube_url: "https://www.youtube.com/watch?v=mKXdKV-OBog"
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
 | [00:01:50](/timestamps/ep-mKXdKV-OBog/t-00-01-47.md) | factual | [-](/claims/claim-c535bc39dfaa.md) | Julius Caesar is my favorite historical figure before 1850. |
-| [00:05:48](/timestamps/ep-mKXdKV-OBog/t-00-05-45.md) | factual | [-](/claims/claim-e6ecc9568ec9.md) | The yellow plane with tail number SUBTT stopped for just one hour in Minot, Nort... |
-| [00:07:04](/timestamps/ep-mKXdKV-OBog/t-00-06-30.md) | factual | [-](/claims/claim-44895c6ce505.md) | Kash Patel ended his press conference on September 12th with quote, 'Lastly, to ... |
+| [00:05:48](/timestamps/ep-mKXdKV-OBog/t-00-05-45.md) | factual | [❓ Unverifiable](/claims/claim-e6ecc9568ec9.md) | The yellow plane with tail number SUBTT stopped for just one hour in Minot, Nort... |
+| [00:07:04](/timestamps/ep-mKXdKV-OBog/t-00-06-30.md) | factual | [✅ True](/claims/claim-44895c6ce505.md) | Kash Patel ended his press conference on September 12th with quote, 'Lastly, to ... |
 | [00:08:11](/timestamps/ep-mKXdKV-OBog/t-00-07-51.md) | factual | [-](/claims/claim-298e1f5b618b.md) | Operation Valhalla Strike took place August 24th-29th, 2024, where the 891st Squ... |
 | [00:11:04](/timestamps/ep-mKXdKV-OBog/t-00-10-47.md) | factual | [-](/claims/claim-2e38eed34392.md) | SUBTT came from Cairo through Paris to Omaha, Nebraska on July 20th, stayed in N... |
 | [00:11:30](/timestamps/ep-mKXdKV-OBog/t-00-10-47.md) | factual | [-](/claims/claim-07defd5bd828.md) | On July 22nd, the Nebraska Secretary of State, Bob Evnen, announced a trade and ... |

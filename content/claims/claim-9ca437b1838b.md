@@ -21,6 +21,8 @@ veracity: "false"
 
 ## Verification
 
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 **Confidence:** High
 **Source:** [Officials say a fresh review of evidence led to arrest in D.C. pipe bomb case](https://www.nbcnews.com/politics/politics-news/suspect-arrested-january-6-dc-pipe-bomb-case-rcna247308)
 

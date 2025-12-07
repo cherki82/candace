@@ -3,9 +3,10 @@ title: "He ran for Utah governor in 2024."
 claim_id: "claim-9e53e24b928a"
 episode: "t1YtLS1n8Vs"
 type: "factual"
+veracity: "true"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ✅ True
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,14 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
+**Confidence:** High
+**Source:** [Rep. Phil Lyman running for Utah governor in 2024](https://www.sltrib.com/news/politics/2023/10/30/rep-phil-lyman-running-utah/)
+
+### Analysis
+
+Multiple reliable sources, including news articles from Salt Lake Tribune and Deseret News, confirm that Phil Lyman announced and ran for Utah governor in 2024, challenging incumbent Spencer Cox in the Republican primary and later continuing as a write-in candidate after losing the primary.
 
 ## Follow-up
 

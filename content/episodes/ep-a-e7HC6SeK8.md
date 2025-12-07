@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=a-e7HC6SeK8"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -219,18 +221,18 @@ youtube_url: "https://www.youtube.com/watch?v=a-e7HC6SeK8"
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
-| [00:04:29](/timestamps/ep-a-e7HC6SeK8/t-00-04-18.md) | factual | [-](/claims/claim-41ca55ddf235.md) | our FBI was founded by Charles Joseph Bonaparte |
-| [00:04:45](/timestamps/ep-a-e7HC6SeK8/t-00-04-18.md) | factual | [-](/claims/claim-3677ec5f9264.md) | Napoleon Bonaparte was his great uncle |
-| [00:07:02](/timestamps/ep-a-e7HC6SeK8/t-00-06-21.md) | factual | [-](/claims/claim-9d9053c06fed.md) | Robert Richards the Fourth was in 2009 convicted of raping his three-year-old da... |
-| [00:07:30](/timestamps/ep-a-e7HC6SeK8/t-00-07-02.md) | factual | [-](/claims/claim-1a820031186c.md) | the judge who sentenced the heir to the DuPont fortune let him off with no jail ... |
-| [00:08:27](/timestamps/ep-a-e7HC6SeK8/t-00-07-45.md) | factual | [-](/claims/claim-80c081a0adb6.md) | his father is Robert H. Richards, a retired partner in the Richards, Layton & Fi... |
-| [00:09:20](/timestamps/ep-a-e7HC6SeK8/t-00-09-06.md) | factual | [-](/claims/claim-95d4ae53cc30.md) | also admitted to sexually assaulting his infant son |
-| [00:10:13](/timestamps/ep-a-e7HC6SeK8/t-00-09-45.md) | factual | [-](/claims/claim-643de8bab4b6.md) | John DuPont shot Olympic wrestler David Schultz dead in the driveway of the fami... |
-| [00:10:39](/timestamps/ep-a-e7HC6SeK8/t-00-10-27.md) | factual | [-](/claims/claim-54fc9bea453b.md) | the money traced back to the DuPont family. It appeared that Lisa Dean—who is a ... |
-| [00:13:35](/timestamps/ep-a-e7HC6SeK8/t-00-13-20.md) | factual | [-](/claims/claim-9e3210207e67.md) | Donald Trump pardoned him. He pardoned Tyler Bowyer a couple of weeks ago |
-| [00:22:11](/timestamps/ep-a-e7HC6SeK8/t-00-21-56.md) | factual | [-](/claims/claim-c83ec0e6d33c.md) | Benjamin Netanyahu calling Charlie Kirk and offering to take Turning Point to th... |
-| [00:30:38](/timestamps/ep-a-e7HC6SeK8/t-00-30-00.md) | factual | [-](/claims/claim-a85c15235b6c.md) | this donor was French American, and that this donor's name was Pierre... Pierre ... |
-| [00:37:26](/timestamps/ep-a-e7HC6SeK8/t-00-36-55.md) | factual | [-](/claims/claim-af094aea413c.md) | Turning Point USA put in a personal request to try to get the Egyptian plane sto... |
+| [00:04:29](/timestamps/ep-a-e7HC6SeK8/t-00-04-18.md) | factual | [⏳ Unverified](/claims/claim-41ca55ddf235.md) | our FBI was founded by Charles Joseph Bonaparte |
+| [00:04:45](/timestamps/ep-a-e7HC6SeK8/t-00-04-18.md) | factual | [⏳ Unverified](/claims/claim-3677ec5f9264.md) | Napoleon Bonaparte was his great uncle |
+| [00:07:02](/timestamps/ep-a-e7HC6SeK8/t-00-06-21.md) | factual | [⏳ Unverified](/claims/claim-9d9053c06fed.md) | Robert Richards the Fourth was in 2009 convicted of raping his three-year-old da... |
+| [00:07:30](/timestamps/ep-a-e7HC6SeK8/t-00-07-02.md) | factual | [⏳ Unverified](/claims/claim-1a820031186c.md) | the judge who sentenced the heir to the DuPont fortune let him off with no jail ... |
+| [00:08:27](/timestamps/ep-a-e7HC6SeK8/t-00-07-45.md) | factual | [⏳ Unverified](/claims/claim-80c081a0adb6.md) | his father is Robert H. Richards, a retired partner in the Richards, Layton & Fi... |
+| [00:09:20](/timestamps/ep-a-e7HC6SeK8/t-00-09-06.md) | factual | [⏳ Unverified](/claims/claim-95d4ae53cc30.md) | also admitted to sexually assaulting his infant son |
+| [00:10:13](/timestamps/ep-a-e7HC6SeK8/t-00-09-45.md) | factual | [⏳ Unverified](/claims/claim-643de8bab4b6.md) | John DuPont shot Olympic wrestler David Schultz dead in the driveway of the fami... |
+| [00:10:39](/timestamps/ep-a-e7HC6SeK8/t-00-10-27.md) | factual | [⏳ Unverified](/claims/claim-54fc9bea453b.md) | the money traced back to the DuPont family. It appeared that Lisa Dean—who is a ... |
+| [00:13:35](/timestamps/ep-a-e7HC6SeK8/t-00-13-20.md) | factual | [⏳ Unverified](/claims/claim-9e3210207e67.md) | Donald Trump pardoned him. He pardoned Tyler Bowyer a couple of weeks ago |
+| [00:22:11](/timestamps/ep-a-e7HC6SeK8/t-00-21-56.md) | factual | [⏳ Unverified](/claims/claim-c83ec0e6d33c.md) | Benjamin Netanyahu calling Charlie Kirk and offering to take Turning Point to th... |
+| [00:30:38](/timestamps/ep-a-e7HC6SeK8/t-00-30-00.md) | factual | [⏳ Unverified](/claims/claim-a85c15235b6c.md) | this donor was French American, and that this donor's name was Pierre... Pierre ... |
+| [00:37:26](/timestamps/ep-a-e7HC6SeK8/t-00-36-55.md) | factual | [⏳ Unverified](/claims/claim-af094aea413c.md) | Turning Point USA put in a personal request to try to get the Egyptian plane sto... |
 
 </details>
 

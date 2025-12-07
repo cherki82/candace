@@ -3,9 +3,10 @@ title: "The Wilks Brothers are the ones that fund DailyWire, the ini..."
 claim_id: "claim-fc9af6be9d24"
 episode: "Qfwr08Ebczo"
 type: "factual"
+veracity: "unverified"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ⏳ Unverified
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,8 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 
 ## Follow-up
 

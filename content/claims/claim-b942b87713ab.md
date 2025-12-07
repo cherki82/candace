@@ -21,6 +21,8 @@ veracity: "unverifiable"
 
 ## Verification
 
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 **Confidence:** Low
 **Source:** [January 6 United States Capitol attack - Wikipedia](https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack)
 

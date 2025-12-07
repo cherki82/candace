@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=ZGxnf5cj4Uw"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -283,24 +285,24 @@ youtube_url: "https://www.youtube.com/watch?v=ZGxnf5cj4Uw"
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
-| [00:02:12](/timestamps/ep-ZGxnf5cj4Uw/t-00-01-38.md) | factual | [-](/claims/claim-79c00fa2f069.md) | Tyler Robinson has never confessed |
-| [00:02:27](/timestamps/ep-ZGxnf5cj4Uw/t-00-02-23.md) | factual | [-](/claims/claim-0dd47b6c9a41.md) | Tyler was bewildered by the idea that he carved casings |
-| [00:03:31](/timestamps/ep-ZGxnf5cj4Uw/t-00-03-03.md) | factual | [-](/claims/claim-bd1d3eace0a9.md) | Tyler absolutely did not author those text messages |
-| [00:04:51](/timestamps/ep-ZGxnf5cj4Uw/t-00-04-48.md) | factual | [-](/claims/claim-45271a4c148e.md) | His parents don't believe that their son committed this crime |
-| [00:06:46](/timestamps/ep-ZGxnf5cj4Uw/t-00-06-10.md) | factual | [-](/claims/claim-ba2de940831b.md) | Tyler has never even stepped foot on UVU campus |
-| [00:06:55](/timestamps/ep-ZGxnf5cj4Uw/t-00-06-10.md) | factual | [-](/claims/claim-2e5a3fe615cc.md) | Tyler was accepted into Utah State University, not Utah Valley |
-| [00:07:57](/timestamps/ep-ZGxnf5cj4Uw/t-00-07-39.md) | factual | [-](/claims/claim-f99410180921.md) | Tyler Robinson was nearby the campus on that day |
-| [00:09:39](/timestamps/ep-ZGxnf5cj4Uw/t-00-09-12.md) | factual | [-](/claims/claim-2927ed2ec858.md) | Tyler potentially having some suicidal ideations, was en route to a remote area ... |
-| [00:11:51](/timestamps/ep-ZGxnf5cj4Uw/t-00-11-27.md) | factual | [-](/claims/claim-f121e7c0030d.md) | The Feds told them that if they spoke out, their lives could be at risk [and con... |
-| [00:12:33](/timestamps/ep-ZGxnf5cj4Uw/t-00-12-08.md) | factual | [-](/claims/claim-7ab35b948137.md) | His father had no idea that Tyler was gay |
-| [00:14:16](/timestamps/ep-ZGxnf5cj4Uw/t-00-14-01.md) | factual | [-](/claims/claim-3ab4f0dc5dd1.md) | The family says that the photo of the young man that is coming up the stairs is ... |
-| [00:15:08](/timestamps/ep-ZGxnf5cj4Uw/t-00-14-43.md) | factual | [-](/claims/claim-189e69b4eee5.md) | Tyler Robinson's apartment was staged after his arrest |
-| [00:17:28](/timestamps/ep-ZGxnf5cj4Uw/t-00-17-23.md) | factual | [-](/claims/claim-c41cfa8695df.md) | Mike Mitchell is a retired detective that worked for me for many years |
-| [00:18:49](/timestamps/ep-ZGxnf5cj4Uw/t-00-18-41.md) | factual | [-](/claims/claim-fecd01febac6.md) | The name of that individual is former deputy Mike Mitchell |
-| [00:19:17](/timestamps/ep-ZGxnf5cj4Uw/t-00-18-41.md) | factual | [-](/claims/claim-86afe943d275.md) | Mike Mitchell knows Tyler through the Boy Scouts [and he was the Boy Scout leade... |
-| [00:19:54](/timestamps/ep-ZGxnf5cj4Uw/t-00-19-22.md) | factual | [-](/claims/claim-8d49ee11af2c.md) | Mike Mitchell retired last January |
-| [00:25:45](/timestamps/ep-ZGxnf5cj4Uw/t-00-25-02.md) | factual | [-](/claims/claim-398e032d9be9.md) | Nick worked on Phil Lyman's gubernatorial campaign |
-| [00:28:37](/timestamps/ep-ZGxnf5cj4Uw/t-00-27-53.md) | factual | [-](/claims/claim-94d452d1f1b5.md) | Phil Lyman's car was in the driveway of the now infamous TMZ footage [19 minutes... |
+| [00:02:12](/timestamps/ep-ZGxnf5cj4Uw/t-00-01-38.md) | factual | [⏳ Unverified](/claims/claim-79c00fa2f069.md) | Tyler Robinson has never confessed |
+| [00:02:27](/timestamps/ep-ZGxnf5cj4Uw/t-00-02-23.md) | factual | [⏳ Unverified](/claims/claim-0dd47b6c9a41.md) | Tyler was bewildered by the idea that he carved casings |
+| [00:03:31](/timestamps/ep-ZGxnf5cj4Uw/t-00-03-03.md) | factual | [⏳ Unverified](/claims/claim-bd1d3eace0a9.md) | Tyler absolutely did not author those text messages |
+| [00:04:51](/timestamps/ep-ZGxnf5cj4Uw/t-00-04-48.md) | factual | [⏳ Unverified](/claims/claim-45271a4c148e.md) | His parents don't believe that their son committed this crime |
+| [00:06:46](/timestamps/ep-ZGxnf5cj4Uw/t-00-06-10.md) | factual | [⏳ Unverified](/claims/claim-ba2de940831b.md) | Tyler has never even stepped foot on UVU campus |
+| [00:06:55](/timestamps/ep-ZGxnf5cj4Uw/t-00-06-10.md) | factual | [⏳ Unverified](/claims/claim-2e5a3fe615cc.md) | Tyler was accepted into Utah State University, not Utah Valley |
+| [00:07:57](/timestamps/ep-ZGxnf5cj4Uw/t-00-07-39.md) | factual | [⏳ Unverified](/claims/claim-f99410180921.md) | Tyler Robinson was nearby the campus on that day |
+| [00:09:39](/timestamps/ep-ZGxnf5cj4Uw/t-00-09-12.md) | factual | [⏳ Unverified](/claims/claim-2927ed2ec858.md) | Tyler potentially having some suicidal ideations, was en route to a remote area ... |
+| [00:11:51](/timestamps/ep-ZGxnf5cj4Uw/t-00-11-27.md) | factual | [⏳ Unverified](/claims/claim-f121e7c0030d.md) | The Feds told them that if they spoke out, their lives could be at risk [and con... |
+| [00:12:33](/timestamps/ep-ZGxnf5cj4Uw/t-00-12-08.md) | factual | [⏳ Unverified](/claims/claim-7ab35b948137.md) | His father had no idea that Tyler was gay |
+| [00:14:16](/timestamps/ep-ZGxnf5cj4Uw/t-00-14-01.md) | factual | [⏳ Unverified](/claims/claim-3ab4f0dc5dd1.md) | The family says that the photo of the young man that is coming up the stairs is ... |
+| [00:15:08](/timestamps/ep-ZGxnf5cj4Uw/t-00-14-43.md) | factual | [⏳ Unverified](/claims/claim-189e69b4eee5.md) | Tyler Robinson's apartment was staged after his arrest |
+| [00:17:28](/timestamps/ep-ZGxnf5cj4Uw/t-00-17-23.md) | factual | [⏳ Unverified](/claims/claim-c41cfa8695df.md) | Mike Mitchell is a retired detective that worked for me for many years |
+| [00:18:49](/timestamps/ep-ZGxnf5cj4Uw/t-00-18-41.md) | factual | [⏳ Unverified](/claims/claim-fecd01febac6.md) | The name of that individual is former deputy Mike Mitchell |
+| [00:19:17](/timestamps/ep-ZGxnf5cj4Uw/t-00-18-41.md) | factual | [⏳ Unverified](/claims/claim-86afe943d275.md) | Mike Mitchell knows Tyler through the Boy Scouts [and he was the Boy Scout leade... |
+| [00:19:54](/timestamps/ep-ZGxnf5cj4Uw/t-00-19-22.md) | factual | [⏳ Unverified](/claims/claim-8d49ee11af2c.md) | Mike Mitchell retired last January |
+| [00:25:45](/timestamps/ep-ZGxnf5cj4Uw/t-00-25-02.md) | factual | [⏳ Unverified](/claims/claim-398e032d9be9.md) | Nick worked on Phil Lyman's gubernatorial campaign |
+| [00:28:37](/timestamps/ep-ZGxnf5cj4Uw/t-00-27-53.md) | factual | [⏳ Unverified](/claims/claim-94d452d1f1b5.md) | Phil Lyman's car was in the driveway of the now infamous TMZ footage [19 minutes... |
 
 </details>
 

@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=QZWSsq8ZWzw"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -227,16 +229,16 @@ youtube_url: "https://www.youtube.com/watch?v=QZWSsq8ZWzw"
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
-| [00:01:35](/timestamps/ep-QZWSsq8ZWzw/t-00-01-30.md) | factual | [-](/claims/claim-61a748982521.md) | FBI is putting an absurd amount of pressure right now on the authorities in Utah... |
-| [00:01:59](/timestamps/ep-QZWSsq8ZWzw/t-00-01-30.md) | factual | [-](/claims/claim-51faba862ef6.md) | FBI wants Charlie Kirk's assassination to be officially ruled lone gunman |
+| [00:01:35](/timestamps/ep-QZWSsq8ZWzw/t-00-01-30.md) | factual | [❓ Unverifiable](/claims/claim-61a748982521.md) | FBI is putting an absurd amount of pressure right now on the authorities in Utah... |
+| [00:01:59](/timestamps/ep-QZWSsq8ZWzw/t-00-01-30.md) | factual | [❓ Unverifiable](/claims/claim-51faba862ef6.md) | FBI wants Charlie Kirk's assassination to be officially ruled lone gunman |
 | [00:02:30](/timestamps/ep-QZWSsq8ZWzw/t-00-02-13.md) | factual | [-](/claims/claim-7a7a9d9120ca.md) | FBI is saying to Utah authorities: 'If you don't close the case against Charlie ... |
-| [00:03:18](/timestamps/ep-QZWSsq8ZWzw/t-00-02-58.md) | factual | [-](/claims/claim-ebcb71910b02.md) | There is absolutely no video which shows Tyler Robinson firing the weapon or eve... |
+| [00:03:18](/timestamps/ep-QZWSsq8ZWzw/t-00-02-58.md) | factual | [❓ Unverifiable](/claims/claim-ebcb71910b02.md) | There is absolutely no video which shows Tyler Robinson firing the weapon or eve... |
 | [00:03:25](/timestamps/ep-QZWSsq8ZWzw/t-00-02-58.md) | factual | [-](/claims/claim-c41aaf1563ae.md) | The individual who filmed the footage of the shooter on the roof told me that he... |
 | [00:03:42](/timestamps/ep-QZWSsq8ZWzw/t-00-02-58.md) | factual | [-](/claims/claim-57f136d89163.md) | Eyewitness reported the shooter on the roof to Utah on the campus was clear that... |
 | [00:04:08](/timestamps/ep-QZWSsq8ZWzw/t-00-03-42.md) | factual | [-](/claims/claim-75a447ddd8b9.md) | Eyewitness told me that that gun doesn't even match what I saw |
 | [00:04:39](/timestamps/ep-QZWSsq8ZWzw/t-00-04-22.md) | factual | [-](/claims/claim-482f9a7459f7.md) | Feds don't even have any footage that explains how exactly the rifle in particul... |
-| [00:05:35](/timestamps/ep-QZWSsq8ZWzw/t-00-05-00.md) | factual | [-](/claims/claim-c45ddeca0982.md) | Bullet was too fragmented to match Tyler's rifle |
-| [00:05:50](/timestamps/ep-QZWSsq8ZWzw/t-00-05-35.md) | factual | [-](/claims/claim-dfa271fef6a9.md) | Tyler Robinson has not confessed to anything |
+| [00:05:35](/timestamps/ep-QZWSsq8ZWzw/t-00-05-00.md) | factual | [❓ Unverifiable](/claims/claim-c45ddeca0982.md) | Bullet was too fragmented to match Tyler's rifle |
+| [00:05:50](/timestamps/ep-QZWSsq8ZWzw/t-00-05-35.md) | factual | [❌ False](/claims/claim-dfa271fef6a9.md) | Tyler Robinson has not confessed to anything |
 | [00:08:02](/timestamps/ep-QZWSsq8ZWzw/t-00-07-30.md) | factual | [-](/claims/claim-e6a2934b5ff0.md) | Not the only set of prints that are on that gun |
 | [00:17:01](/timestamps/ep-QZWSsq8ZWzw/t-00-16-34.md) | factual | [-](/claims/claim-c17d5c92fd06.md) | Utah recently, extraordinarily, modernized their beehive flag in 2024 |
 | [00:22:24](/timestamps/ep-QZWSsq8ZWzw/t-00-21-55.md) | factual | [-](/claims/claim-2a430d2d44f3.md) | I have an 80-page document of all the accounts that Thomas Matthew Crooks made, ... |

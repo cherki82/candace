@@ -21,6 +21,8 @@ veracity: "true"
 
 ## Verification
 
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 **Confidence:** High
 **Source:** [Satys Aerospace signs two-year lease for Wilmington Airport hangar](https://delawarebusinesstimes.com/news/satys-lease-wilmington-hangar/)
 

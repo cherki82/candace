@@ -21,6 +21,8 @@ veracity: "false"
 
 ## Verification
 
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 **Confidence:** Medium
 **Source:** [Field Offices | Federal Bureau of Investigation](https://www.fbi.gov/contact-us/field-offices)
 

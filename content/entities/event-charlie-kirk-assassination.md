@@ -14,6 +14,8 @@ _Type: Events_
 
 **Also known as:** Charlie assassination, Charlie Kirk's murder, Charlie Kirk's assassination, assassination of Charlie Kirk, assassination
 
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
 ## Mentions
 
 ### [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)

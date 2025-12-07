@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=aDlhjfW6hz8"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -248,20 +250,20 @@ youtube_url: "https://www.youtube.com/watch?v=aDlhjfW6hz8"
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
 | [00:01:09](/timestamps/ep-aDlhjfW6hz8/t-00-00-55.md) | factual | [-](/claims/claim-5b99dc6c3cad.md) | the Senate has voted and they have passed a bipartisan resolution to designate O... |
-| [00:01:09](/timestamps/ep-aDlhjfW6hz8/t-00-00-55.md) | factual | [-](/claims/claim-c2782dc5ac6e.md) | the Senate has voted and they have passed a bipartisan resolution to designate O... |
+| [00:01:09](/timestamps/ep-aDlhjfW6hz8/t-00-00-55.md) | factual | [✅ True](/claims/claim-c2782dc5ac6e.md) | the Senate has voted and they have passed a bipartisan resolution to designate O... |
 | [00:03:31](/timestamps/ep-aDlhjfW6hz8/t-00-03-03.md) | factual | [-](/claims/claim-8d4e9fed9174.md) | that same individual appears alongside another individual, and he moves Charlie'... |
 | [00:05:49](/timestamps/ep-aDlhjfW6hz8/t-00-05-13.md) | factual | [-](/claims/claim-8a921098035d.md) | he takes down the camera that is directly above where Charlie was sitting... and... |
 | [00:06:41](/timestamps/ep-aDlhjfW6hz8/t-00-06-33.md) | factual | [-](/claims/claim-755d916026ab.md) | This person's been around Turning Point for quite some time, for years... back w... |
-| [00:07:29](/timestamps/ep-aDlhjfW6hz8/t-00-07-14.md) | factual | [-](/claims/claim-944aad3d0c88.md) | he said, look, as you can see in the footage, I was sitting right to the left of... |
-| [00:08:23](/timestamps/ep-aDlhjfW6hz8/t-00-07-53.md) | factual | [-](/claims/claim-fe90871866b0.md) | he says, because the first thing that I thought is that I better secure the foot... |
+| [00:07:29](/timestamps/ep-aDlhjfW6hz8/t-00-07-14.md) | factual | [❓ Unverifiable](/claims/claim-944aad3d0c88.md) | he said, look, as you can see in the footage, I was sitting right to the left of... |
+| [00:08:23](/timestamps/ep-aDlhjfW6hz8/t-00-07-53.md) | factual | [❓ Unverifiable](/claims/claim-fe90871866b0.md) | he says, because the first thing that I thought is that I better secure the foot... |
 | [00:08:55](/timestamps/ep-aDlhjfW6hz8/t-00-08-33.md) | factual | [-](/claims/claim-1d010908a898.md) | People are doing very... credible videos. People that certainly have the credibi... |
-| [00:10:36](/timestamps/ep-aDlhjfW6hz8/t-00-09-54.md) | factual | [-](/claims/claim-98744c0e7a2e.md) | I watched the footage... there is nothing gory about this shot at all... there's... |
+| [00:10:36](/timestamps/ep-aDlhjfW6hz8/t-00-09-54.md) | factual | [❓ Unverifiable](/claims/claim-98744c0e7a2e.md) | I watched the footage... there is nothing gory about this shot at all... there's... |
 | [00:11:42](/timestamps/ep-aDlhjfW6hz8/t-00-11-21.md) | factual | [-](/claims/claim-0be2ebcfa653.md) | there's no blood from the back. There is no blood |
 | [00:11:51](/timestamps/ep-aDlhjfW6hz8/t-00-11-21.md) | factual | [-](/claims/claim-4fe4a5bff739.md) | the feds were saying they were looking for a bullet |
 | [00:14:54](/timestamps/ep-aDlhjfW6hz8/t-00-14-44.md) | interpretive | [-](/claims/claim-dd5d4650b6d1.md) | there is very clearly... a government-level conspiracy that is involved |
 | [00:15:06](/timestamps/ep-aDlhjfW6hz8/t-00-14-44.md) | interpretive | [-](/claims/claim-deec72e33f23.md) | There's no other way to assess those disastrous text messages, absolute disaster... |
-| [00:16:38](/timestamps/ep-aDlhjfW6hz8/t-00-16-10.md) | factual | [-](/claims/claim-503460681bad.md) | on Caldera's website, they noted that they have worked in Israel. They have a ma... |
-| [00:28:05](/timestamps/ep-aDlhjfW6hz8/t-00-27-56.md) | factual | [-](/claims/claim-5f611fa7abd3.md) | I spoke at Turning Point's conference—two conferences—last year... I went on tou... |
+| [00:16:38](/timestamps/ep-aDlhjfW6hz8/t-00-16-10.md) | factual | [❌ False](/claims/claim-503460681bad.md) | on Caldera's website, they noted that they have worked in Israel. They have a ma... |
+| [00:28:05](/timestamps/ep-aDlhjfW6hz8/t-00-27-56.md) | factual | [❓ Unverifiable](/claims/claim-5f611fa7abd3.md) | I spoke at Turning Point's conference—two conferences—last year... I went on tou... |
 | [00:28:11](/timestamps/ep-aDlhjfW6hz8/t-00-27-56.md) | factual | [-](/claims/claim-6aa78aea455e.md) | I spoke at Turning Point's conference, two conferences last year. |
 | [00:29:22](/timestamps/ep-aDlhjfW6hz8/t-00-29-16.md) | factual | [-](/claims/claim-cbc3157b04e7.md) | they came inward and told that I was not allowed to speak at AmFest. The donors ... |
 | [00:29:27](/timestamps/ep-aDlhjfW6hz8/t-00-29-16.md) | factual | [-](/claims/claim-8e8275b4b97c.md) | I went on tour with Turning Point last year. It's still on their website. |
@@ -275,7 +277,7 @@ youtube_url: "https://www.youtube.com/watch?v=aDlhjfW6hz8"
 | [00:32:16](/timestamps/ep-aDlhjfW6hz8/t-00-32-05.md) | promise | [-](/claims/claim-55eaf114f915.md) | I have been given names and I intend to now embark on this lengthier investigati... |
 | [00:32:53](/timestamps/ep-aDlhjfW6hz8/t-00-32-45.md) | factual | [-](/claims/claim-71f8d01c9ea5.md) | I've never stopped talking to Charlie. |
 | [00:33:10](/timestamps/ep-aDlhjfW6hz8/t-00-32-45.md) | interpretive | [-](/claims/claim-90aaff0c7aff.md) | Charlie was concerned about the speech that he felt, the restrictions, and inevi... |
-| [00:33:18](/timestamps/ep-aDlhjfW6hz8/t-00-32-45.md) | factual | [-](/claims/claim-69724e6a7026.md) | This message is from May... Charlie sent me his tweet... And he wrote back—as yo... |
+| [00:33:18](/timestamps/ep-aDlhjfW6hz8/t-00-32-45.md) | factual | [❓ Unverifiable](/claims/claim-69724e6a7026.md) | This message is from May... Charlie sent me his tweet... And he wrote back—as yo... |
 | [00:34:27](/timestamps/ep-aDlhjfW6hz8/t-00-34-12.md) | factual | [-](/claims/claim-fbeb5693661e.md) | back in May, Turning Point had some big changes, some odd changes as they are de... |
 | [00:36:19](/timestamps/ep-aDlhjfW6hz8/t-00-36-12.md) | factual | [-](/claims/claim-c4ad96731cde.md) | Benjamin Netanyahu said that he was passing laws against speech in America. That... |
 | [00:36:27](/timestamps/ep-aDlhjfW6hz8/t-00-36-12.md) | interpretive | [-](/claims/claim-447460ef5785.md) | there's no question Trump is occupied by Zionists. Okay, he's completely impoten... |

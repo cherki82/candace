@@ -3,9 +3,10 @@ title: "He was aboard another Egyptian military plane, and the tail ..."
 claim_id: "claim-2ed5470fcf2f"
 episode: "ZAuuSq_j2_w"
 type: "factual"
+veracity: "unverified"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ⏳ Unverified
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,8 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 
 ## Follow-up
 

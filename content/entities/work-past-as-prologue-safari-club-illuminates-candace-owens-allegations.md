@@ -10,6 +10,8 @@ _Type: Work_
 
 **Also known as:** Past as Prologue: Safari Club Illuminates Candace Owens' Allegations (article)
 
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
 ## Mentions
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)

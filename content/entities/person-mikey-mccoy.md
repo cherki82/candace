@@ -13,6 +13,8 @@ _Type: People_
 
 **Also known as:** Michael McCoy, Uncle Mikey, Mikey McCoy, Mikey
 
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
 ## Mentions
 
 ### [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)

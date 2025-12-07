@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=Qfwr08Ebczo"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -256,17 +258,17 @@ youtube_url: "https://www.youtube.com/watch?v=Qfwr08Ebczo"
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
-| [00:13:44](/timestamps/ep-Qfwr08Ebczo/t-00-13-27.md) | factual | [-](/claims/claim-e74e3c64ef3c.md) | his church was funded by the Wilks Brothers down in Texas. |
-| [00:13:54](/timestamps/ep-Qfwr08Ebczo/t-00-13-27.md) | factual | [-](/claims/claim-fc9af6be9d24.md) | The Wilks Brothers are the ones that fund DailyWire, the initial seed money behi... |
-| [00:14:25](/timestamps/ep-Qfwr08Ebczo/t-00-14-10.md) | factual | [-](/claims/claim-94c546424578.md) | after 17 years as the head pastor of that church, Rob McCoy—it was publicly anno... |
-| [00:15:02](/timestamps/ep-Qfwr08Ebczo/t-00-14-54.md) | factual | [-](/claims/claim-b8ae7d489356.md) | That transition took effect in mid-July of this year. |
-| [00:16:14](/timestamps/ep-Qfwr08Ebczo/t-00-15-33.md) | factual | [-](/claims/claim-64602d76f06e.md) | Rob actually put that secondary home in Coronado up for sale on August 24th, 202... |
-| [00:17:15](/timestamps/ep-Qfwr08Ebczo/t-00-16-56.md) | factual | [-](/claims/claim-ae35e68ed38c.md) | Turning Point USA receives a request from UVU for Charlie Kirk to hold an event ... |
-| [00:18:05](/timestamps/ep-Qfwr08Ebczo/t-00-17-43.md) | factual | [-](/claims/claim-41d0cc1b3f62.md) | It's the application submitted mid-July by the UVU chapter of Kirk's Turning Poi... |
-| [00:18:52](/timestamps/ep-Qfwr08Ebczo/t-00-18-24.md) | factual | [-](/claims/claim-9c78ddbacaac.md) | Tyler Robinson is charged with Kirk's murder. |
-| [00:19:41](/timestamps/ep-Qfwr08Ebczo/t-00-19-04.md) | factual | [-](/claims/claim-a4fdde97aca7.md) | there was no ambulance on standby, and that's against Utah law. |
-| [00:21:51](/timestamps/ep-Qfwr08Ebczo/t-00-21-39.md) | factual | [-](/claims/claim-87dd16159b32.md) | there were—for whatever reason—12 Israeli cell phones on the ground at Utah Vall... |
-| [00:22:41](/timestamps/ep-Qfwr08Ebczo/t-00-22-17.md) | factual | [-](/claims/claim-395a80d1d444.md) | The NSA knows this. Kash Patel knows this. |
+| [00:13:44](/timestamps/ep-Qfwr08Ebczo/t-00-13-27.md) | factual | [⏳ Unverified](/claims/claim-e74e3c64ef3c.md) | his church was funded by the Wilks Brothers down in Texas. |
+| [00:13:54](/timestamps/ep-Qfwr08Ebczo/t-00-13-27.md) | factual | [⏳ Unverified](/claims/claim-fc9af6be9d24.md) | The Wilks Brothers are the ones that fund DailyWire, the initial seed money behi... |
+| [00:14:25](/timestamps/ep-Qfwr08Ebczo/t-00-14-10.md) | factual | [⏳ Unverified](/claims/claim-94c546424578.md) | after 17 years as the head pastor of that church, Rob McCoy—it was publicly anno... |
+| [00:15:02](/timestamps/ep-Qfwr08Ebczo/t-00-14-54.md) | factual | [⏳ Unverified](/claims/claim-b8ae7d489356.md) | That transition took effect in mid-July of this year. |
+| [00:16:14](/timestamps/ep-Qfwr08Ebczo/t-00-15-33.md) | factual | [⏳ Unverified](/claims/claim-64602d76f06e.md) | Rob actually put that secondary home in Coronado up for sale on August 24th, 202... |
+| [00:17:15](/timestamps/ep-Qfwr08Ebczo/t-00-16-56.md) | factual | [⏳ Unverified](/claims/claim-ae35e68ed38c.md) | Turning Point USA receives a request from UVU for Charlie Kirk to hold an event ... |
+| [00:18:05](/timestamps/ep-Qfwr08Ebczo/t-00-17-43.md) | factual | [⏳ Unverified](/claims/claim-41d0cc1b3f62.md) | It's the application submitted mid-July by the UVU chapter of Kirk's Turning Poi... |
+| [00:18:52](/timestamps/ep-Qfwr08Ebczo/t-00-18-24.md) | factual | [⏳ Unverified](/claims/claim-9c78ddbacaac.md) | Tyler Robinson is charged with Kirk's murder. |
+| [00:19:41](/timestamps/ep-Qfwr08Ebczo/t-00-19-04.md) | factual | [⏳ Unverified](/claims/claim-a4fdde97aca7.md) | there was no ambulance on standby, and that's against Utah law. |
+| [00:21:51](/timestamps/ep-Qfwr08Ebczo/t-00-21-39.md) | factual | [⏳ Unverified](/claims/claim-87dd16159b32.md) | there were—for whatever reason—12 Israeli cell phones on the ground at Utah Vall... |
+| [00:22:41](/timestamps/ep-Qfwr08Ebczo/t-00-22-17.md) | factual | [⏳ Unverified](/claims/claim-395a80d1d444.md) | The NSA knows this. Kash Patel knows this. |
 
 </details>
 

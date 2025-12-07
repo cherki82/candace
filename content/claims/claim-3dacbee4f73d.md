@@ -3,9 +3,10 @@ title: "Skordas is running as a state prosecutor."
 claim_id: "claim-3dacbee4f73d"
 episode: "t1YtLS1n8Vs"
 type: "factual"
+veracity: "true"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ✅ True
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,14 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
+**Confidence:** High
+**Source:** [Greg Skordas - Criminal Defense Lawyer | Lexinter Law Directory](https://attorneys.lexinter.net/lawyers/greg-skordas)
+
+### Analysis
+
+Multiple reliable sources, including a 2025 law directory entry and campaign website, confirm Greg Skordas is running for Utah Attorney General, a position that serves as the state's top legal officer and prosecutor. This aligns with the claim of running as a 'state prosecutor,' as the AG role involves prosecutorial duties at the state level. Additional sources like Deseret News (2020) and Ballotpedia corroborate his history of running for this office, with recent information indicating an active 2025 campaign.
 
 ## Follow-up
 

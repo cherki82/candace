@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=ozWJz2spBcI"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -277,8 +279,8 @@ youtube_url: "https://www.youtube.com/watch?v=ozWJz2spBcI"
 | [00:09:04](/timestamps/ep-ozWJz2spBcI/t-00-09-02.md) | factual | [-](/claims/claim-71253e6a9872.md) | a few weeks before his death, Erika had a priest come over to pray over them whe... |
 | [00:12:37](/timestamps/ep-ozWJz2spBcI/t-00-12-17.md) | factual | [-](/claims/claim-cd2a80b41c53.md) | in February of 2024... he's the one that actually messaged me and said, 'Catholi... |
 | [00:15:18](/timestamps/ep-ozWJz2spBcI/t-00-15-14.md) | factual | [-](/claims/claim-7a9a9c1a7ea2.md) | both his son and his daughter-in-law work for Turning Point USA. |
-| [00:16:17](/timestamps/ep-ozWJz2spBcI/t-00-15-58.md) | factual | [-](/claims/claim-399599b270ef.md) | This is an actual group chat which happened two days before Charlie Kirk was ass... |
-| [00:16:50](/timestamps/ep-ozWJz2spBcI/t-00-16-33.md) | factual | [-](/claims/claim-c36e93189ab2.md) | Charlie Kirk writes in this group chat, 'Just lost another huge Jewish donor—two... |
+| [00:16:17](/timestamps/ep-ozWJz2spBcI/t-00-15-58.md) | factual | [❓ Unverifiable](/claims/claim-399599b270ef.md) | This is an actual group chat which happened two days before Charlie Kirk was ass... |
+| [00:16:50](/timestamps/ep-ozWJz2spBcI/t-00-16-33.md) | factual | [✅ True](/claims/claim-c36e93189ab2.md) | Charlie Kirk writes in this group chat, 'Just lost another huge Jewish donor—two... |
 | [00:17:50](/timestamps/ep-ozWJz2spBcI/t-00-17-17.md) | factual | [-](/claims/claim-e685e6233811.md) | Josh Hammer [was on this group chat]. |
 | [00:25:06](/timestamps/ep-ozWJz2spBcI/t-00-24-30.md) | factual | [-](/claims/claim-305f8d0674cf.md) | I spoke to that Turning Point individual... And the answer that I was given soun... |
 | [00:44:44](/timestamps/ep-ozWJz2spBcI/t-00-44-43.md) | factual | [-](/claims/claim-7864d49cfb5c.md) | the tens of millions of dollars that Turning Point USA made in the two weeks fol... |

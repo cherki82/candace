@@ -3,9 +3,10 @@ title: "We actually spoke literally the night before his tragic and ..."
 claim_id: "claim-b5f5479ef70b"
 episode: "5autG89PW6w"
 type: "factual"
+veracity: "true"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ✅ True
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,14 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
+**Confidence:** Medium
+**Source:** [“I Spoke To Charlie Kirk About Israel The Night Before His Death…” | Josh Hammer - YouTube](https://www.youtube.com/watch?v=bOWOWoM6Wcs)
+
+### Analysis
+
+Josh Hammer directly states in this interview that he spoke with Charlie Kirk on a Zoom call the night before Kirk's death, discussing Israel-related topics. This is corroborated by multiple posts on X (formerly Twitter) from various users, including one citing another individual (Eitan Fischberger) confirming the call involved Hammer and Rabbi PW. No sources refute the occurrence of the call, though it is a private event without public records like Zoom logs; confidence is medium due to reliance on self-reporting and social media corroboration without independent primary evidence like participant confirmations or call records.
 
 ## Follow-up
 

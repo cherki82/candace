@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=Qt0VHV-POCg"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -243,15 +245,15 @@ youtube_url: "https://www.youtube.com/watch?v=Qt0VHV-POCg"
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
-| [00:00:02](/timestamps/ep-Qt0VHV-POCg/t-00-00-00.md) | factual | [-](/claims/claim-d9cc8f9fcb8f.md) | the Turning Point USA Wikipedia entry got a very interesting update the night af... |
-| [00:03:21](/timestamps/ep-Qt0VHV-POCg/t-00-02-59.md) | factual | [-](/claims/claim-3ebc8280f0c4.md) | less than 36 hours after Charlie died—less than 36 hours, exact time, at 10:34 p... |
-| [00:03:52](/timestamps/ep-Qt0VHV-POCg/t-00-03-39.md) | factual | [-](/claims/claim-65db832e5d0b.md) | It reads: "Rob McCoy and Charlie Kirk founded Turning Point USA Faith (TPUSA Fai... |
-| [00:06:42](/timestamps/ep-Qt0VHV-POCg/t-00-06-26.md) | factual | [-](/claims/claim-a6530d8c9357.md) | "In 2021, Charlie Kirk founded TPUSA Faith, an organization that says it is dedi... |
-| [00:13:18](/timestamps/ep-Qt0VHV-POCg/t-00-12-33.md) | factual | [-](/claims/claim-52acacdec1ee.md) | Clearing like a hundred million a year. |
-| [00:14:01](/timestamps/ep-Qt0VHV-POCg/t-00-13-18.md) | factual | [-](/claims/claim-d2d7b2226d80.md) | For Charlie's birthday, President Trump signed into law—or established, rather—a... |
-| [00:16:25](/timestamps/ep-Qt0VHV-POCg/t-00-16-13.md) | factual | [-](/claims/claim-356141445a15.md) | "Why was the wonderful Turning Point under investigation by deranged Jack Smith ... |
-| [00:30:09](/timestamps/ep-Qt0VHV-POCg/t-00-29-42.md) | factual | [-](/claims/claim-35daac822cf3.md) | Charlie had a Catholic funeral Mass, and he is buried in a Catholic cemetery. |
-| [00:34:16](/timestamps/ep-Qt0VHV-POCg/t-00-34-09.md) | factual | [-](/claims/claim-01c3a5b0a841.md) | I do have confidence. |
+| [00:00:02](/timestamps/ep-Qt0VHV-POCg/t-00-00-00.md) | factual | [⏳ Unverified](/claims/claim-d9cc8f9fcb8f.md) | the Turning Point USA Wikipedia entry got a very interesting update the night af... |
+| [00:03:21](/timestamps/ep-Qt0VHV-POCg/t-00-02-59.md) | factual | [⏳ Unverified](/claims/claim-3ebc8280f0c4.md) | less than 36 hours after Charlie died—less than 36 hours, exact time, at 10:34 p... |
+| [00:03:52](/timestamps/ep-Qt0VHV-POCg/t-00-03-39.md) | factual | [⏳ Unverified](/claims/claim-65db832e5d0b.md) | It reads: "Rob McCoy and Charlie Kirk founded Turning Point USA Faith (TPUSA Fai... |
+| [00:06:42](/timestamps/ep-Qt0VHV-POCg/t-00-06-26.md) | factual | [⏳ Unverified](/claims/claim-a6530d8c9357.md) | "In 2021, Charlie Kirk founded TPUSA Faith, an organization that says it is dedi... |
+| [00:13:18](/timestamps/ep-Qt0VHV-POCg/t-00-12-33.md) | factual | [⏳ Unverified](/claims/claim-52acacdec1ee.md) | Clearing like a hundred million a year. |
+| [00:14:01](/timestamps/ep-Qt0VHV-POCg/t-00-13-18.md) | factual | [⏳ Unverified](/claims/claim-d2d7b2226d80.md) | For Charlie's birthday, President Trump signed into law—or established, rather—a... |
+| [00:16:25](/timestamps/ep-Qt0VHV-POCg/t-00-16-13.md) | factual | [⏳ Unverified](/claims/claim-356141445a15.md) | "Why was the wonderful Turning Point under investigation by deranged Jack Smith ... |
+| [00:30:09](/timestamps/ep-Qt0VHV-POCg/t-00-29-42.md) | factual | [⏳ Unverified](/claims/claim-35daac822cf3.md) | Charlie had a Catholic funeral Mass, and he is buried in a Catholic cemetery. |
+| [00:34:16](/timestamps/ep-Qt0VHV-POCg/t-00-34-09.md) | factual | [⏳ Unverified](/claims/claim-01c3a5b0a841.md) | I do have confidence. |
 
 </details>
 

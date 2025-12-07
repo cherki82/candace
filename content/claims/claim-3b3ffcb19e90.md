@@ -3,9 +3,10 @@ title: "The old man near the bush during setup is Butch Hibbs, broth..."
 claim_id: "claim-3b3ffcb19e90"
 episode: "MUA9ebCF4Ow"
 type: "factual"
+veracity: "unverified"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ⏳ Unverified
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,8 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 
 ## Follow-up
 

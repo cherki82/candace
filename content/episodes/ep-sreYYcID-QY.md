@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=sreYYcID-QY"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -300,21 +302,21 @@ youtube_url: "https://www.youtube.com/watch?v=sreYYcID-QY"
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
-| [00:02:45](/timestamps/ep-sreYYcID-QY/t-00-02-05.md) | factual | [-](/claims/claim-b86b19529bd8.md) | He writes, "I can get close to it, but there is a squad car parked right by it." |
-| [00:03:21](/timestamps/ep-sreYYcID-QY/t-00-02-45.md) | factual | [-](/claims/claim-30468909fae8.md) | He says to Lance, allegedly, quote, "I worry about prints." "I had to leave it,"... |
-| [00:04:09](/timestamps/ep-sreYYcID-QY/t-00-03-26.md) | factual | [-](/claims/claim-bcfc858b0083.md) | according to locals—many of which have emailed me—any of the footage that they h... |
-| [00:05:44](/timestamps/ep-sreYYcID-QY/t-00-05-26.md) | factual | [-](/claims/claim-d1eecb7e7c76.md) | It is a very clear image of Tyler Robinson, allegedly taken at 6:38 p.m. at a ne... |
-| [00:06:14](/timestamps/ep-sreYYcID-QY/t-00-06-07.md) | factual | [-](/claims/claim-7087d4084a91.md) | you're wearing jeans, and you're wearing the maroon shirt. |
-| [00:06:50](/timestamps/ep-sreYYcID-QY/t-00-06-07.md) | factual | [-](/claims/claim-115e8d697f35.md) | it's about a 17-minute drive away from the campus. |
-| [00:14:28](/timestamps/ep-sreYYcID-QY/t-00-14-12.md) | factual | [-](/claims/claim-181ad7e8bd81.md) | this clip is from the morning after Charlie Kirk's assassination. So TMZ had alr... |
-| [00:16:10](/timestamps/ep-sreYYcID-QY/t-00-15-33.md) | factual | [-](/claims/claim-a092bd212322.md) | A local source told me that virtually everyone on that block works for that comp... |
-| [00:18:52](/timestamps/ep-sreYYcID-QY/t-00-18-18.md) | factual | [-](/claims/claim-3d3a54f5fdd3.md) | I can't find her. We stalked; we looked through databases; we contacted Lance's ... |
-| [00:20:22](/timestamps/ep-sreYYcID-QY/t-00-20-17.md) | factual | [-](/claims/claim-62b4c30f8849.md) | There was one shot that rang out... People saw Charlie Kirk instantly get shot i... |
-| [00:25:04](/timestamps/ep-sreYYcID-QY/t-00-24-33.md) | factual | [-](/claims/claim-07b2fb46e40e.md) | the gun was found in the backyard of someone that I know... by a chicken coop. |
-| [00:25:18](/timestamps/ep-sreYYcID-QY/t-00-24-33.md) | factual | [-](/claims/claim-c745dfe5dee6.md) | the house right next door to where the gun was found is a mysteriously vacant ho... |
-| [00:33:19](/timestamps/ep-sreYYcID-QY/t-00-33-10.md) | factual | [-](/claims/claim-5bc40c63a1e5.md) | somebody has fabricated a monstrous big lie that Israel had something to do with... |
-| [00:33:46](/timestamps/ep-sreYYcID-QY/t-00-33-10.md) | factual | [-](/claims/claim-bcf557f7abde.md) | He told me so in a letter that he sent me just a few months ago. “One of my grea... |
-| [00:34:28](/timestamps/ep-sreYYcID-QY/t-00-33-49.md) | factual | [-](/claims/claim-28e70464e9b0.md) | A few weeks before his death, I spoke to Charlie. I invited him to visit Israel ... |
+| [00:02:45](/timestamps/ep-sreYYcID-QY/t-00-02-05.md) | factual | [✅ True](/claims/claim-b86b19529bd8.md) | He writes, "I can get close to it, but there is a squad car parked right by it." |
+| [00:03:21](/timestamps/ep-sreYYcID-QY/t-00-02-45.md) | factual | [✅ True](/claims/claim-30468909fae8.md) | He says to Lance, allegedly, quote, "I worry about prints." "I had to leave it,"... |
+| [00:04:09](/timestamps/ep-sreYYcID-QY/t-00-03-26.md) | factual | [❓ Unverifiable](/claims/claim-bcfc858b0083.md) | according to locals—many of which have emailed me—any of the footage that they h... |
+| [00:05:44](/timestamps/ep-sreYYcID-QY/t-00-05-26.md) | factual | [⚠️ Mixed](/claims/claim-d1eecb7e7c76.md) | It is a very clear image of Tyler Robinson, allegedly taken at 6:38 p.m. at a ne... |
+| [00:06:14](/timestamps/ep-sreYYcID-QY/t-00-06-07.md) | factual | [✅ True](/claims/claim-7087d4084a91.md) | you're wearing jeans, and you're wearing the maroon shirt. |
+| [00:06:50](/timestamps/ep-sreYYcID-QY/t-00-06-07.md) | factual | [❓ Unverifiable](/claims/claim-115e8d697f35.md) | it's about a 17-minute drive away from the campus. |
+| [00:14:28](/timestamps/ep-sreYYcID-QY/t-00-14-12.md) | factual | [❓ Unverifiable](/claims/claim-181ad7e8bd81.md) | this clip is from the morning after Charlie Kirk's assassination. So TMZ had alr... |
+| [00:16:10](/timestamps/ep-sreYYcID-QY/t-00-15-33.md) | factual | [❓ Unverifiable](/claims/claim-a092bd212322.md) | A local source told me that virtually everyone on that block works for that comp... |
+| [00:18:52](/timestamps/ep-sreYYcID-QY/t-00-18-18.md) | factual | [❓ Unverifiable](/claims/claim-3d3a54f5fdd3.md) | I can't find her. We stalked; we looked through databases; we contacted Lance's ... |
+| [00:20:22](/timestamps/ep-sreYYcID-QY/t-00-20-17.md) | factual | [✅ True](/claims/claim-62b4c30f8849.md) | There was one shot that rang out... People saw Charlie Kirk instantly get shot i... |
+| [00:25:04](/timestamps/ep-sreYYcID-QY/t-00-24-33.md) | factual | [❓ Unverifiable](/claims/claim-07b2fb46e40e.md) | the gun was found in the backyard of someone that I know... by a chicken coop. |
+| [00:25:18](/timestamps/ep-sreYYcID-QY/t-00-24-33.md) | factual | [❓ Unverifiable](/claims/claim-c745dfe5dee6.md) | the house right next door to where the gun was found is a mysteriously vacant ho... |
+| [00:33:19](/timestamps/ep-sreYYcID-QY/t-00-33-10.md) | factual | [✅ True](/claims/claim-5bc40c63a1e5.md) | somebody has fabricated a monstrous big lie that Israel had something to do with... |
+| [00:33:46](/timestamps/ep-sreYYcID-QY/t-00-33-10.md) | factual | [✅ True](/claims/claim-bcf557f7abde.md) | He told me so in a letter that he sent me just a few months ago. “One of my grea... |
+| [00:34:28](/timestamps/ep-sreYYcID-QY/t-00-33-49.md) | factual | [✅ True](/claims/claim-28e70464e9b0.md) | A few weeks before his death, I spoke to Charlie. I invited him to visit Israel ... |
 
 </details>
 

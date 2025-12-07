@@ -3,9 +3,10 @@ title: "Turning Point USA has responded to the release of the messag..."
 claim_id: "claim-bb2cc178c7d1"
 episode: "5autG89PW6w"
 type: "factual"
+veracity: "true"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ✅ True
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,14 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
+**Confidence:** High
+**Source:** [Candace Owens was not lying; Charlie Kirk's messages on Israel pressure two days before he was killed are genuine, says Turning Point](https://timesofindia.indiatimes.com/world/us/candace-owens-was-not-lying-charlie-kirks-messages-on-israel-pressure-two-days-before-he-was-killed-are-genuine-says-turning-point/articleshow/124371606.cms)
+
+### Analysis
+
+Reliable news outlets, including The Times of India and Newsweek, report that Turning Point USA, through spokesman Andrew Kolvet, confirmed the authenticity of the text messages released by Candace Owens. These messages involved Charlie Kirk expressing concerns about pressure from Israeli donors. Multiple X posts from various users also reflect this confirmation, aligning with the claim that TPUSA responded and admitted the messages were real.
 
 ## Follow-up
 

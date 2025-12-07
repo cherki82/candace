@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=t1YtLS1n8Vs"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -241,21 +243,21 @@ youtube_url: "https://www.youtube.com/watch?v=t1YtLS1n8Vs"
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
-| [00:01:24](/timestamps/ep-t1YtLS1n8Vs/t-00-00-42.md) | factual | [-](/claims/claim-b3ea47ea36ed.md) | Yesterday, the FBI made a rather curious announcement. They announced that they ... |
-| [00:02:02](/timestamps/ep-t1YtLS1n8Vs/t-00-01-24.md) | factual | [-](/claims/claim-696454348dd8.md) | The reality is the ADL was born out of a Jewish Freemason organization known as ... |
-| [00:02:10](/timestamps/ep-t1YtLS1n8Vs/t-00-02-02.md) | factual | [-](/claims/claim-bc98eca43dc1.md) | Sigmund Freud was a member of B'nai B'rith. |
-| [00:03:23](/timestamps/ep-t1YtLS1n8Vs/t-00-02-47.md) | factual | [-](/claims/claim-deaa996565f7.md) | They put the organization together to defend a pedophile and a murderer. His nam... |
-| [00:03:31](/timestamps/ep-t1YtLS1n8Vs/t-00-02-47.md) | factual | [-](/claims/claim-c159f5a6330e.md) | Leo Frank was an unbelievably wealthy Jewish factory owner down in Atlanta. And ... |
-| [00:04:24](/timestamps/ep-t1YtLS1n8Vs/t-00-04-15.md) | factual | [-](/claims/claim-244125271af5.md) | They still found Leo Frank guilty. |
-| [00:09:07](/timestamps/ep-t1YtLS1n8Vs/t-00-09-05.md) | factual | [-](/claims/claim-8e84aa44265a.md) | The FBI director, Kash Patel, announced yesterday that he ended—he has—this is o... |
-| [00:09:33](/timestamps/ep-t1YtLS1n8Vs/t-00-09-05.md) | factual | [-](/claims/claim-beefd651de17.md) | James Comey wrote love letters to the ADL and embedded FBI agents with them. |
-| [00:11:09](/timestamps/ep-t1YtLS1n8Vs/t-00-10-35.md) | factual | [-](/claims/claim-05bc80c69c43.md) | They curiously removed the Azov Battalion from the hate list. |
-| [00:12:03](/timestamps/ep-t1YtLS1n8Vs/t-00-11-19.md) | factual | [-](/claims/claim-10317cff7a0d.md) | In the state of Connecticut, the ADL shares an office space with the FBI. |
-| [00:13:12](/timestamps/ep-t1YtLS1n8Vs/t-00-12-45.md) | factual | [-](/claims/claim-bb60d05e18de.md) | The FBI sent the specific Connecticut bureau down to UVU after Charlie Kirk was ... |
-| [00:19:20](/timestamps/ep-t1YtLS1n8Vs/t-00-18-54.md) | factual | [-](/claims/claim-f402e0e7a3be.md) | She works for the Orem Police Department. She's a records specialist. |
-| [00:21:17](/timestamps/ep-t1YtLS1n8Vs/t-00-21-03.md) | factual | [-](/claims/claim-9e53e24b928a.md) | He ran for Utah governor in 2024. |
-| [00:24:15](/timestamps/ep-t1YtLS1n8Vs/t-00-24-03.md) | factual | [-](/claims/claim-77d045b3113f.md) | Scott Robbins... he was also a gubernatorial candidate. He ran for governor of U... |
-| [00:32:29](/timestamps/ep-t1YtLS1n8Vs/t-00-31-51.md) | factual | [-](/claims/claim-3dacbee4f73d.md) | Skordas is running as a state prosecutor. |
+| [00:01:24](/timestamps/ep-t1YtLS1n8Vs/t-00-00-42.md) | factual | [⚠️ Mixed](/claims/claim-b3ea47ea36ed.md) | Yesterday, the FBI made a rather curious announcement. They announced that they ... |
+| [00:02:02](/timestamps/ep-t1YtLS1n8Vs/t-00-01-24.md) | factual | [⚠️ Mixed](/claims/claim-696454348dd8.md) | The reality is the ADL was born out of a Jewish Freemason organization known as ... |
+| [00:02:10](/timestamps/ep-t1YtLS1n8Vs/t-00-02-02.md) | factual | [✅ True](/claims/claim-bc98eca43dc1.md) | Sigmund Freud was a member of B'nai B'rith. |
+| [00:03:23](/timestamps/ep-t1YtLS1n8Vs/t-00-02-47.md) | factual | [⚠️ Mixed](/claims/claim-deaa996565f7.md) | They put the organization together to defend a pedophile and a murderer. His nam... |
+| [00:03:31](/timestamps/ep-t1YtLS1n8Vs/t-00-02-47.md) | factual | [⚠️ Mixed](/claims/claim-c159f5a6330e.md) | Leo Frank was an unbelievably wealthy Jewish factory owner down in Atlanta. And ... |
+| [00:04:24](/timestamps/ep-t1YtLS1n8Vs/t-00-04-15.md) | factual | [✅ True](/claims/claim-244125271af5.md) | They still found Leo Frank guilty. |
+| [00:09:07](/timestamps/ep-t1YtLS1n8Vs/t-00-09-05.md) | factual | [✅ True](/claims/claim-8e84aa44265a.md) | The FBI director, Kash Patel, announced yesterday that he ended—he has—this is o... |
+| [00:09:33](/timestamps/ep-t1YtLS1n8Vs/t-00-09-05.md) | factual | [⚠️ Mixed](/claims/claim-beefd651de17.md) | James Comey wrote love letters to the ADL and embedded FBI agents with them. |
+| [00:11:09](/timestamps/ep-t1YtLS1n8Vs/t-00-10-35.md) | factual | [✅ True](/claims/claim-05bc80c69c43.md) | They curiously removed the Azov Battalion from the hate list. |
+| [00:12:03](/timestamps/ep-t1YtLS1n8Vs/t-00-11-19.md) | factual | [❓ Unverifiable](/claims/claim-10317cff7a0d.md) | In the state of Connecticut, the ADL shares an office space with the FBI. |
+| [00:13:12](/timestamps/ep-t1YtLS1n8Vs/t-00-12-45.md) | factual | [❓ Unverifiable](/claims/claim-bb60d05e18de.md) | The FBI sent the specific Connecticut bureau down to UVU after Charlie Kirk was ... |
+| [00:19:20](/timestamps/ep-t1YtLS1n8Vs/t-00-18-54.md) | factual | [❓ Unverifiable](/claims/claim-f402e0e7a3be.md) | She works for the Orem Police Department. She's a records specialist. |
+| [00:21:17](/timestamps/ep-t1YtLS1n8Vs/t-00-21-03.md) | factual | [✅ True](/claims/claim-9e53e24b928a.md) | He ran for Utah governor in 2024. |
+| [00:24:15](/timestamps/ep-t1YtLS1n8Vs/t-00-24-03.md) | factual | [❌ False](/claims/claim-77d045b3113f.md) | Scott Robbins... he was also a gubernatorial candidate. He ran for governor of U... |
+| [00:32:29](/timestamps/ep-t1YtLS1n8Vs/t-00-31-51.md) | factual | [✅ True](/claims/claim-3dacbee4f73d.md) | Skordas is running as a state prosecutor. |
 
 </details>
 

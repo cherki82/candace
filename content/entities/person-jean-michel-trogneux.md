@@ -11,6 +11,8 @@ _Type: People_
 
 **Also known as:** Jean-Michel Trogneux, Jean-Michel
 
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
 ## Mentions
 
 ### [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)

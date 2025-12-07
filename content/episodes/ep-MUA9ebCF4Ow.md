@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=MUA9ebCF4Ow"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -269,20 +271,20 @@ youtube_url: "https://www.youtube.com/watch?v=MUA9ebCF4Ow"
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
-| [00:01:06](/timestamps/ep-MUA9ebCF4Ow/t-00-00-40.md) | factual | [-](/claims/claim-e08dab479839.md) | Megyn Kelly produced video evidence of what Charlie Kirk said to Tucker Carlson ... |
-| [00:05:16](/timestamps/ep-MUA9ebCF4Ow/t-00-05-02.md) | factual | [-](/claims/claim-c80d223880f0.md) | Candace Owens has not made the claim that Erika Kirk was behind the murder of Ch... |
-| [00:09:46](/timestamps/ep-MUA9ebCF4Ow/t-00-09-38.md) | factual | [-](/claims/claim-de4fd9d3e0c1.md) | Charlie Kirk told Tucker Carlson backstage before July speech to 'go all the way... |
-| [00:12:06](/timestamps/ep-MUA9ebCF4Ow/t-00-11-22.md) | factual | [-](/claims/claim-d404c30d1878.md) | Video shows Charlie Kirk interrupting conversation and telling Tucker Carlson 'G... |
-| [00:15:57](/timestamps/ep-MUA9ebCF4Ow/t-00-15-12.md) | factual | [-](/claims/claim-782b3fbaa10e.md) | Pastor Rob McCoy claimed Mikey McCoy had blood all over him |
-| [00:16:05](/timestamps/ep-MUA9ebCF4Ow/t-00-15-57.md) | factual | [-](/claims/claim-fd663066c778.md) | Alex Clark and Andrew Colvett claimed Charlie Kirk was a committed evangelical w... |
-| [00:16:19](/timestamps/ep-MUA9ebCF4Ow/t-00-15-57.md) | factual | [-](/claims/claim-835e9f5a7a1d.md) | Andrew Colvett claimed Charlie Kirk's neck stopped a .30-06 bullet because he at... |
-| [00:16:41](/timestamps/ep-MUA9ebCF4Ow/t-00-15-57.md) | factual | [-](/claims/claim-01f41bbb9cc2.md) | Rob McCoy claimed Mikey McCoy called his dad first |
-| [00:19:08](/timestamps/ep-MUA9ebCF4Ow/t-00-18-54.md) | factual | [-](/claims/claim-fc5f014781fb.md) | UVU Turning Point chapter requested Charlie Kirk to speak on July 18th according... |
-| [00:19:36](/timestamps/ep-MUA9ebCF4Ow/t-00-18-54.md) | factual | [-](/claims/claim-bbc2be01f22e.md) | Turning Point USA approved UVU request and sent scouts to campus within two week... |
-| [00:20:14](/timestamps/ep-MUA9ebCF4Ow/t-00-19-36.md) | factual | [-](/claims/claim-fd19bbde2af9.md) | UVU recommended against holding event in amphitheater for safety reasons but Tur... |
-| [00:30:04](/timestamps/ep-MUA9ebCF4Ow/t-00-29-28.md) | factual | [-](/claims/claim-7a19fc8722da.md) | Timpanogos Hospital (HCA, VDI system) and Utah Valley Hospital (IHC, Epic system... |
-| [00:32:30](/timestamps/ep-MUA9ebCF4Ow/t-00-32-19.md) | factual | [-](/claims/claim-3b3ffcb19e90.md) | The old man near the bush during setup is Butch Hibbs, brother of Pastor Jack Hi... |
-| [00:37:22](/timestamps/ep-MUA9ebCF4Ow/t-00-37-04.md) | factual | [-](/claims/claim-90224754ca59.md) | Alexis Wilkins is suing Elijah Schaffer and others for $5 million over honeypot ... |
+| [00:01:06](/timestamps/ep-MUA9ebCF4Ow/t-00-00-40.md) | factual | [⏳ Unverified](/claims/claim-e08dab479839.md) | Megyn Kelly produced video evidence of what Charlie Kirk said to Tucker Carlson ... |
+| [00:05:16](/timestamps/ep-MUA9ebCF4Ow/t-00-05-02.md) | factual | [⏳ Unverified](/claims/claim-c80d223880f0.md) | Candace Owens has not made the claim that Erika Kirk was behind the murder of Ch... |
+| [00:09:46](/timestamps/ep-MUA9ebCF4Ow/t-00-09-38.md) | factual | [⏳ Unverified](/claims/claim-de4fd9d3e0c1.md) | Charlie Kirk told Tucker Carlson backstage before July speech to 'go all the way... |
+| [00:12:06](/timestamps/ep-MUA9ebCF4Ow/t-00-11-22.md) | factual | [⏳ Unverified](/claims/claim-d404c30d1878.md) | Video shows Charlie Kirk interrupting conversation and telling Tucker Carlson 'G... |
+| [00:15:57](/timestamps/ep-MUA9ebCF4Ow/t-00-15-12.md) | factual | [⏳ Unverified](/claims/claim-782b3fbaa10e.md) | Pastor Rob McCoy claimed Mikey McCoy had blood all over him |
+| [00:16:05](/timestamps/ep-MUA9ebCF4Ow/t-00-15-57.md) | factual | [⏳ Unverified](/claims/claim-fd663066c778.md) | Alex Clark and Andrew Colvett claimed Charlie Kirk was a committed evangelical w... |
+| [00:16:19](/timestamps/ep-MUA9ebCF4Ow/t-00-15-57.md) | factual | [⏳ Unverified](/claims/claim-835e9f5a7a1d.md) | Andrew Colvett claimed Charlie Kirk's neck stopped a .30-06 bullet because he at... |
+| [00:16:41](/timestamps/ep-MUA9ebCF4Ow/t-00-15-57.md) | factual | [⏳ Unverified](/claims/claim-01f41bbb9cc2.md) | Rob McCoy claimed Mikey McCoy called his dad first |
+| [00:19:08](/timestamps/ep-MUA9ebCF4Ow/t-00-18-54.md) | factual | [⏳ Unverified](/claims/claim-fc5f014781fb.md) | UVU Turning Point chapter requested Charlie Kirk to speak on July 18th according... |
+| [00:19:36](/timestamps/ep-MUA9ebCF4Ow/t-00-18-54.md) | factual | [⏳ Unverified](/claims/claim-bbc2be01f22e.md) | Turning Point USA approved UVU request and sent scouts to campus within two week... |
+| [00:20:14](/timestamps/ep-MUA9ebCF4Ow/t-00-19-36.md) | factual | [⏳ Unverified](/claims/claim-fd19bbde2af9.md) | UVU recommended against holding event in amphitheater for safety reasons but Tur... |
+| [00:30:04](/timestamps/ep-MUA9ebCF4Ow/t-00-29-28.md) | factual | [⏳ Unverified](/claims/claim-7a19fc8722da.md) | Timpanogos Hospital (HCA, VDI system) and Utah Valley Hospital (IHC, Epic system... |
+| [00:32:30](/timestamps/ep-MUA9ebCF4Ow/t-00-32-19.md) | factual | [⏳ Unverified](/claims/claim-3b3ffcb19e90.md) | The old man near the bush during setup is Butch Hibbs, brother of Pastor Jack Hi... |
+| [00:37:22](/timestamps/ep-MUA9ebCF4Ow/t-00-37-04.md) | factual | [⏳ Unverified](/claims/claim-90224754ca59.md) | Alexis Wilkins is suing Elijah Schaffer and others for $5 million over honeypot ... |
 
 </details>
 

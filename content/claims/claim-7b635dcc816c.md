@@ -3,9 +3,10 @@ title: "Mikey McCoy's promoted to the chief of staff of Turning Poin..."
 claim_id: "claim-7b635dcc816c"
 episode: "YFmRH8p5lt0"
 type: "factual"
+veracity: "unverifiable"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ❓ Unverifiable
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,14 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
+**Confidence:** Medium
+**Source:** [Mikey McCoy | Historica Wiki | Fandom](https://historica.fandom.com/wiki/Mikey_McCoy)
+
+### Analysis
+
+Multiple sources, including news articles and LinkedIn profiles, confirm Mikey McCoy held the position of Chief of Staff at Turning Point USA starting in 2024 and continuing into 2025. However, no reliable public sources specify the exact promotion date of January 3, 2024. The claim references an internal email, which cannot be independently verified without access to Turning Point USA's internal communications or official announcements. To confirm the precise date, access to internal emails, HR records, or a FOIA-equivalent request (if applicable) would be required, but as a private organization, such details are not publicly available.
 
 ## Follow-up
 

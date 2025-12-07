@@ -3,9 +3,10 @@ title: "He writes, \"I can get close to it, but there is a squad car ..."
 claim_id: "claim-b86b19529bd8"
 episode: "sreYYcID-QY"
 type: "factual"
+veracity: "true"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ✅ True
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,14 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
+**Confidence:** High
+**Source:** [Read the text messages between Charlie Kirk accused and roommate](https://www.bbc.com/news/articles/c99g1e0z2ero)
+
+### Analysis
+
+Multiple reliable news sources, including BBC and ABC News, report on text messages from court documents between Tyler Robinson and his roommate detailing events around the UVU shooting. The specific quote aligns with reported exchanges about retrieving the weapon and encountering police, as described in official statements and charging documents released by authorities.
 
 ## Follow-up
 

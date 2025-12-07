@@ -3,9 +3,10 @@ title: "Tyler Robinson in custody around 7 p.m. Sep 11 when local te..."
 claim_id: "claim-7ac830adda5e"
 episode: "2WEHTk0Xewg"
 type: "factual"
+veracity: "unverifiable"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ❓ Unverifiable
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,14 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
+**Confidence:** Low
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Tyler_James_Robinson)
+
+### Analysis
+
+Reliable sources, including Wikipedia (sourced from news reports) and articles from BBC, NBC, CNN, and NPR, confirm Tyler Robinson was taken into custody on the evening of September 11, 2025, after surrendering at the Washington County Sheriff's Office in Utah, facilitated by his family and a retired detective. However, no primary sources (e.g., official police statements, arrest records, or news articles) specify the exact time as around 7 p.m., mention local texts circulating at that time, or indicate he was 'picked up' in Warner Valley (sources describe a voluntary surrender, not a pickup). Posts on X suggest times like 10 p.m. or 11 p.m., but these are inconclusive and not reliable evidence. Verification would require access to official arrest logs, police reports from Washington County Sheriff's Office, or FOIA-requested documents detailing the exact timeline and location; news archives do not provide this level of specificity for the custody event.
 
 ## Follow-up
 

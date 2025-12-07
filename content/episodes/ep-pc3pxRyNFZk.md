@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=pc3pxRyNFZk"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -293,14 +295,14 @@ youtube_url: "https://www.youtube.com/watch?v=pc3pxRyNFZk"
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
-| [00:04:41](/timestamps/ep-pc3pxRyNFZk/t-00-04-14.md) | factual | [-](/claims/claim-c99652cb672d.md) | Charlie Kirk was shot from the front, and the bullet did not exit. |
-| [00:04:47](/timestamps/ep-pc3pxRyNFZk/t-00-04-14.md) | factual | [-](/claims/claim-1f06416a727b.md) | At least a fragment of the bullet was recovered from his neck. |
-| [00:05:05](/timestamps/ep-pc3pxRyNFZk/t-00-04-59.md) | factual | [-](/claims/claim-af75affec8fb.md) | A fragment was pulled from almost in line with your shoulder blade, right in the... |
-| [00:05:34](/timestamps/ep-pc3pxRyNFZk/t-00-04-59.md) | factual | [-](/claims/claim-051e7f29641d.md) | They did not recover a bullet from a .30-06. |
-| [00:06:02](/timestamps/ep-pc3pxRyNFZk/t-00-05-41.md) | factual | [-](/claims/claim-d8c13378512f.md) | There is not one reflected onto Charlie Kirk's death certificate because they di... |
-| [00:19:06](/timestamps/ep-pc3pxRyNFZk/t-00-18-51.md) | factual | [-](/claims/claim-b5becfad7d3d.md) | Deidre Weiss Amaro was announced as the new Utah medical examiner in May of 2024... |
-| [00:24:29](/timestamps/ep-pc3pxRyNFZk/t-00-24-13.md) | factual | [-](/claims/claim-a2a1eeeb8d6c.md) | Jason Chavitz's parents are in the government. They're literally in the FBI. |
-| [00:37:28](/timestamps/ep-pc3pxRyNFZk/t-00-37-12.md) | factual | [-](/claims/claim-020cb5d45e02.md) | Tail number N1098L plane left from Texas, went over to Utah right about the time... |
+| [00:04:41](/timestamps/ep-pc3pxRyNFZk/t-00-04-14.md) | factual | [⏳ Unverified](/claims/claim-c99652cb672d.md) | Charlie Kirk was shot from the front, and the bullet did not exit. |
+| [00:04:47](/timestamps/ep-pc3pxRyNFZk/t-00-04-14.md) | factual | [⏳ Unverified](/claims/claim-1f06416a727b.md) | At least a fragment of the bullet was recovered from his neck. |
+| [00:05:05](/timestamps/ep-pc3pxRyNFZk/t-00-04-59.md) | factual | [⏳ Unverified](/claims/claim-af75affec8fb.md) | A fragment was pulled from almost in line with your shoulder blade, right in the... |
+| [00:05:34](/timestamps/ep-pc3pxRyNFZk/t-00-04-59.md) | factual | [⏳ Unverified](/claims/claim-051e7f29641d.md) | They did not recover a bullet from a .30-06. |
+| [00:06:02](/timestamps/ep-pc3pxRyNFZk/t-00-05-41.md) | factual | [⏳ Unverified](/claims/claim-d8c13378512f.md) | There is not one reflected onto Charlie Kirk's death certificate because they di... |
+| [00:19:06](/timestamps/ep-pc3pxRyNFZk/t-00-18-51.md) | factual | [⏳ Unverified](/claims/claim-b5becfad7d3d.md) | Deidre Weiss Amaro was announced as the new Utah medical examiner in May of 2024... |
+| [00:24:29](/timestamps/ep-pc3pxRyNFZk/t-00-24-13.md) | factual | [⏳ Unverified](/claims/claim-a2a1eeeb8d6c.md) | Jason Chavitz's parents are in the government. They're literally in the FBI. |
+| [00:37:28](/timestamps/ep-pc3pxRyNFZk/t-00-37-12.md) | factual | [⏳ Unverified](/claims/claim-020cb5d45e02.md) | Tail number N1098L plane left from Texas, went over to Utah right about the time... |
 
 </details>
 

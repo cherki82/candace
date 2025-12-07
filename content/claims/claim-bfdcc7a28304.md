@@ -3,9 +3,10 @@ title: "Michael Bloomberg gave $8.3 million to a Cuomo-affiliated su..."
 claim_id: "claim-bfdcc7a28304"
 episode: "LATnak75Si0"
 type: "factual"
+veracity: "true"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ✅ True
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,14 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
+**Confidence:** High
+**Source:** [Bloomberg pours more cash into Cuomo super PAC, bringing his total contribution to $8.3M - POLITICO](https://www.politico.com/news/2025/06/18/bloomberg-donation-cuomo-super-pac-00413966)
+
+### Analysis
+
+Multiple reliable sources, including POLITICO and The New York Times, confirm that Michael Bloomberg donated a total of $8.3 million to a super PAC affiliated with Andrew Cuomo in the 2025 New York City mayoral race, with the explicit aim of supporting Cuomo and opposing Zohran Mamdani. Reports detail incremental donations adding up to this amount, and the super PAC's activities were focused on anti-Mamdani efforts.
 
 ## Follow-up
 

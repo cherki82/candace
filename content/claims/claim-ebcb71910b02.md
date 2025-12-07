@@ -3,9 +3,10 @@ title: "There is absolutely no video which shows Tyler Robinson firi..."
 claim_id: "claim-ebcb71910b02"
 episode: "QZWSsq8ZWzw"
 type: "factual"
+veracity: "unverifiable"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ❓ Unverifiable
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,14 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
+**Confidence:** High
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+
+### Analysis
+
+No reliable sources, including Wikipedia, CNN, ABC News, or other major outlets, confirm or deny the existence of video footage showing Tyler Robinson firing the weapon or taking aim at Charlie Kirk. Reports detail CCTV footage of Robinson before and after the incident, but not the act itself. The case is ongoing with a trial scheduled for 2026, and detailed evidence (such as potential surveillance videos) has not been publicly disclosed. Verification would require access to court documents, prosecution evidence lists, official police reports, or FOIA requests to the FBI or Utah authorities for any non-public video evidence.
 
 ## Follow-up
 

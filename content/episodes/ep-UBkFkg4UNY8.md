@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=UBkFkg4UNY8"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 

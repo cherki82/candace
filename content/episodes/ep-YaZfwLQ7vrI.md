@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=YaZfwLQ7vrI"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -272,10 +274,10 @@ youtube_url: "https://www.youtube.com/watch?v=YaZfwLQ7vrI"
 | [00:12:07](/timestamps/ep-YaZfwLQ7vrI/t-00-11-32.md) | factual | [❓ Unverifiable](/claims/claim-e8d0adb9c73d.md) | on November 6th—he publishes this onto his Facebook page... 'We're going to expo... |
 | [00:12:35](/timestamps/ep-YaZfwLQ7vrI/t-00-12-17.md) | factual | [✅ True](/claims/claim-0c9ab6879da7.md) | four out of the six protest permits that were issued on January 6th were issued ... |
 | [00:12:45](/timestamps/ep-YaZfwLQ7vrI/t-00-12-17.md) | factual | [❓ Unverifiable](/claims/claim-b942b87713ab.md) | Fifteen of these pastors and leaders surrounded Trump at the White House leading... |
-| [00:17:14](/timestamps/ep-YaZfwLQ7vrI/t-00-16-39.md) | factual | [-](/claims/claim-1cc6ce306763.md) | Lance Wallnau... graduated from a military academy. His father, Carl Wallnau, wa... |
-| [00:20:07](/timestamps/ep-YaZfwLQ7vrI/t-00-19-33.md) | factual | [-](/claims/claim-79885e44a951.md) | Sources within Turning Point's faith department tell me that Lance Wallnau was r... |
-| [00:22:16](/timestamps/ep-YaZfwLQ7vrI/t-00-22-07.md) | factual | [-](/claims/claim-3edd1eac954a.md) | a Marine whose family knows Rob McCoy—well, Rob McCoy is friends with that Marin... |
-| [00:23:21](/timestamps/ep-YaZfwLQ7vrI/t-00-22-44.md) | factual | [-](/claims/claim-9fe55d43da92.md) | a month after this, Rob McCoy then gets elected mayor of Thousand Oaks. |
+| [00:17:14](/timestamps/ep-YaZfwLQ7vrI/t-00-16-39.md) | factual | [⚠️ Mixed](/claims/claim-1cc6ce306763.md) | Lance Wallnau... graduated from a military academy. His father, Carl Wallnau, wa... |
+| [00:20:07](/timestamps/ep-YaZfwLQ7vrI/t-00-19-33.md) | factual | [❓ Unverifiable](/claims/claim-79885e44a951.md) | Sources within Turning Point's faith department tell me that Lance Wallnau was r... |
+| [00:22:16](/timestamps/ep-YaZfwLQ7vrI/t-00-22-07.md) | factual | [❌ False](/claims/claim-3edd1eac954a.md) | a Marine whose family knows Rob McCoy—well, Rob McCoy is friends with that Marin... |
+| [00:23:21](/timestamps/ep-YaZfwLQ7vrI/t-00-22-44.md) | factual | [✅ True](/claims/claim-9fe55d43da92.md) | a month after this, Rob McCoy then gets elected mayor of Thousand Oaks. |
 | [00:24:04](/timestamps/ep-YaZfwLQ7vrI/t-00-23-28.md) | promise | [-](/claims/claim-6b5713979857.md) | we are going to have some explosive stuff for you on Wednesday that we have disc... |
 | [00:38:11](/timestamps/ep-YaZfwLQ7vrI/t-00-37-38.md) | promise | [-](/claims/claim-bddc61468c47.md) | when I tell you on Wednesday what we discovered about those Egyptian military pl... |
 | [00:56:45](/timestamps/ep-YaZfwLQ7vrI/t-00-56-19.md) | promise | [-](/claims/claim-dd1fa51c14e2.md) | later on this week, we'll be having a guest join us that will speak on Friday ab... |

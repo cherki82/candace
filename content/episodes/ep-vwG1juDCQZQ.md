@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=vwG1juDCQZQ"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -289,17 +291,17 @@ youtube_url: "https://www.youtube.com/watch?v=vwG1juDCQZQ"
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
-| [00:00:07](/timestamps/ep-vwG1juDCQZQ/t-00-00-00.md) | factual | [-](/claims/claim-5c81eb0266ff.md) | we officially have become the number one podcast in the world |
-| [00:01:57](/timestamps/ep-vwG1juDCQZQ/t-00-01-30.md) | factual | [-](/claims/claim-2a4a2f4ddb8b.md) | her independent podcast, Candace, has reached the top global ranking according t... |
-| [00:02:51](/timestamps/ep-vwG1juDCQZQ/t-00-02-10.md) | factual | [-](/claims/claim-2db36bf26b37.md) | Brigitte and Emmanuel Macron for that ill-advised lawsuit |
-| [00:04:13](/timestamps/ep-vwG1juDCQZQ/t-00-03-35.md) | factual | [-](/claims/claim-d164715a745e.md) | Tony Burke, thank you for banning us from an entire country |
-| [00:04:30](/timestamps/ep-vwG1juDCQZQ/t-00-04-16.md) | factual | [-](/claims/claim-bcda16a34798.md) | There's just four of us that work on the actual podcast every day |
-| [00:07:42](/timestamps/ep-vwG1juDCQZQ/t-00-07-11.md) | factual | [-](/claims/claim-bfbe0c8f0491.md) | 9 days after he was assassinated |
-| [00:12:38](/timestamps/ep-vwG1juDCQZQ/t-00-12-18.md) | factual | [-](/claims/claim-01ef6d0d7c5d.md) | to have seen the autopsy report, to have seen the different evidence portions th... |
-| [00:13:34](/timestamps/ep-vwG1juDCQZQ/t-00-13-30.md) | factual | [-](/claims/claim-00fff79ec874.md) | She says that she has seen the autopsy report |
-| [00:32:37](/timestamps/ep-vwG1juDCQZQ/t-00-31-56.md) | factual | [-](/claims/claim-20e49f930ec3.md) | who toured with Charlie Kirk the most... I headlined more Turning Point USA camp... |
-| [00:34:12](/timestamps/ep-vwG1juDCQZQ/t-00-34-00.md) | factual | [-](/claims/claim-8b24274191a6.md) | events are booked the semester before |
-| [00:48:34](/timestamps/ep-vwG1juDCQZQ/t-00-48-15.md) | factual | [-](/claims/claim-fd8f4a6dbb21.md) | Turning Point made something like $90 million in the couple of weeks following C... |
+| [00:00:07](/timestamps/ep-vwG1juDCQZQ/t-00-00-00.md) | factual | [⚠️ Mixed](/claims/claim-5c81eb0266ff.md) | we officially have become the number one podcast in the world |
+| [00:01:57](/timestamps/ep-vwG1juDCQZQ/t-00-01-30.md) | factual | [✅ True](/claims/claim-2a4a2f4ddb8b.md) | her independent podcast, Candace, has reached the top global ranking according t... |
+| [00:02:51](/timestamps/ep-vwG1juDCQZQ/t-00-02-10.md) | factual | [⚠️ Mixed](/claims/claim-2db36bf26b37.md) | Brigitte and Emmanuel Macron for that ill-advised lawsuit |
+| [00:04:13](/timestamps/ep-vwG1juDCQZQ/t-00-03-35.md) | factual | [✅ True](/claims/claim-d164715a745e.md) | Tony Burke, thank you for banning us from an entire country |
+| [00:04:30](/timestamps/ep-vwG1juDCQZQ/t-00-04-16.md) | factual | [✅ True](/claims/claim-bcda16a34798.md) | There's just four of us that work on the actual podcast every day |
+| [00:07:42](/timestamps/ep-vwG1juDCQZQ/t-00-07-11.md) | factual | [❌ False](/claims/claim-bfbe0c8f0491.md) | 9 days after he was assassinated |
+| [00:12:38](/timestamps/ep-vwG1juDCQZQ/t-00-12-18.md) | factual | [❓ Unverifiable](/claims/claim-01ef6d0d7c5d.md) | to have seen the autopsy report, to have seen the different evidence portions th... |
+| [00:13:34](/timestamps/ep-vwG1juDCQZQ/t-00-13-30.md) | factual | [✅ True](/claims/claim-00fff79ec874.md) | She says that she has seen the autopsy report |
+| [00:32:37](/timestamps/ep-vwG1juDCQZQ/t-00-31-56.md) | factual | [❓ Unverifiable](/claims/claim-20e49f930ec3.md) | who toured with Charlie Kirk the most... I headlined more Turning Point USA camp... |
+| [00:34:12](/timestamps/ep-vwG1juDCQZQ/t-00-34-00.md) | factual | [❓ Unverifiable](/claims/claim-8b24274191a6.md) | events are booked the semester before |
+| [00:48:34](/timestamps/ep-vwG1juDCQZQ/t-00-48-15.md) | factual | [✅ True](/claims/claim-fd8f4a6dbb21.md) | Turning Point made something like $90 million in the couple of weeks following C... |
 
 </details>
 

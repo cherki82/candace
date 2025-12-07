@@ -3,9 +3,10 @@ title: "Yesterday, the FBI made a rather curious announcement. They ..."
 claim_id: "claim-b3ea47ea36ed"
 episode: "t1YtLS1n8Vs"
 type: "factual"
+veracity: "mixed"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ⚠️ Mixed
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,14 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
+**Confidence:** High
+**Source:** [FBI cuts ties with Anti-Defamation League, FBI director says | Reuters](https://www.reuters.com/world/us/fbi-cuts-ties-with-anti-defamation-league-2025-10-01/)
+
+### Analysis
+
+Multiple reliable news sources, including Reuters, AP News, Fox News, and Al Jazeera, confirm that the FBI announced cutting ties with the ADL on or around October 1, 2025, due to criticisms of the ADL's extremism glossary including Charlie Kirk's organization. However, this announcement did not occur 'yesterday' relative to the current date of December 7, 2025; the timing element is inaccurate, while the core fact of the announcement is supported.
 
 ## Follow-up
 

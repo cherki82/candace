@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=c5BcKF91iec"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -258,14 +260,14 @@ youtube_url: "https://www.youtube.com/watch?v=c5BcKF91iec"
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
-| [00:07:20](/timestamps/ep-c5BcKF91iec/t-00-07-11.md) | factual | [-](/claims/claim-9d7d3ec70be8.md) | He was wise enough at 31 to put together a plan for succession. It's very clear ... |
-| [00:09:03](/timestamps/ep-c5BcKF91iec/t-00-08-40.md) | factual | [-](/claims/claim-9b93f69ba835.md) | The minute Charlie was shot, he called me. Says, 'Dad, Charlie's been shot in th... |
-| [00:09:57](/timestamps/ep-c5BcKF91iec/t-00-09-25.md) | factual | [-](/claims/claim-8d4b5813f8d8.md) | Mikey did not have blood anywhere near him because Mikey was behind the tent whe... |
-| [00:10:34](/timestamps/ep-c5BcKF91iec/t-00-09-57.md) | factual | [-](/claims/claim-c488b0eed1e0.md) | It is exactly 834 milliseconds from the time that you hear the shot. That is how... |
-| [00:24:51](/timestamps/ep-c5BcKF91iec/t-00-24-38.md) | factual | [-](/claims/claim-71877edb8323.md) | They just shot Charlie... He's dead. |
+| [00:07:20](/timestamps/ep-c5BcKF91iec/t-00-07-11.md) | factual | [✅ True](/claims/claim-9d7d3ec70be8.md) | He was wise enough at 31 to put together a plan for succession. It's very clear ... |
+| [00:09:03](/timestamps/ep-c5BcKF91iec/t-00-08-40.md) | factual | [❌ False](/claims/claim-9b93f69ba835.md) | The minute Charlie was shot, he called me. Says, 'Dad, Charlie's been shot in th... |
+| [00:09:57](/timestamps/ep-c5BcKF91iec/t-00-09-25.md) | factual | [✅ True](/claims/claim-8d4b5813f8d8.md) | Mikey did not have blood anywhere near him because Mikey was behind the tent whe... |
+| [00:10:34](/timestamps/ep-c5BcKF91iec/t-00-09-57.md) | factual | [❓ Unverifiable](/claims/claim-c488b0eed1e0.md) | It is exactly 834 milliseconds from the time that you hear the shot. That is how... |
+| [00:24:51](/timestamps/ep-c5BcKF91iec/t-00-24-38.md) | factual | [✅ True](/claims/claim-71877edb8323.md) | They just shot Charlie... He's dead. |
 | [00:39:32](/timestamps/ep-c5BcKF91iec/t-00-38-56.md) | prediction | [-](/claims/claim-0631dc88d066.md) | I am not sure if I will live to see the end of this revolution. |
-| [00:39:39](/timestamps/ep-c5BcKF91iec/t-00-38-56.md) | factual | [-](/claims/claim-5dec8ed6fcba.md) | Since the beginning of TPUSA, I knew in my gut that I might get wiped out at any... |
-| [00:39:44](/timestamps/ep-c5BcKF91iec/t-00-39-39.md) | factual | [-](/claims/claim-47b340088088.md) | I believe you were the piece that God meant me to meet that will finish the figh... |
+| [00:39:39](/timestamps/ep-c5BcKF91iec/t-00-38-56.md) | factual | [❓ Unverifiable](/claims/claim-5dec8ed6fcba.md) | Since the beginning of TPUSA, I knew in my gut that I might get wiped out at any... |
+| [00:39:44](/timestamps/ep-c5BcKF91iec/t-00-39-39.md) | factual | [❓ Unverifiable](/claims/claim-47b340088088.md) | I believe you were the piece that God meant me to meet that will finish the figh... |
 
 </details>
 

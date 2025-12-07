@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=LATnak75Si0"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -358,15 +360,15 @@ youtube_url: "https://www.youtube.com/watch?v=LATnak75Si0"
 | [00:00:05](/timestamps/ep-LATnak75Si0/t-00-00-00.md) | factual | [-](/claims/claim-2316c269ba82.md) | Mamdani won. |
 | [00:02:39](/timestamps/ep-LATnak75Si0/t-00-02-10.md) | factual | [-](/claims/claim-f355708f92df.md) | Turning Point received a request from UVU for Charlie Kirk to speak on their cam... |
 | [00:04:02](/timestamps/ep-LATnak75Si0/t-00-03-39.md) | factual | [-](/claims/claim-f99c7ca69dec.md) | Email came in October of 2023 for planning April 2024 campus events including Un... |
-| [00:10:22](/timestamps/ep-LATnak75Si0/t-00-09-44.md) | factual | [-](/claims/claim-d0afc27f5e15.md) | Bill Ackman gave $1.75 million to stop Mamdani. |
-| [00:10:30](/timestamps/ep-LATnak75Si0/t-00-09-44.md) | factual | [-](/claims/claim-bfdcc7a28304.md) | Michael Bloomberg gave $8.3 million to a Cuomo-affiliated super PAC to stop Mamd... |
-| [00:10:41](/timestamps/ep-LATnak75Si0/t-00-10-30.md) | factual | [-](/claims/claim-1424b7d3f353.md) | Airbnb co-founder Joe Gebbia gave $3.1 million to stop Mamdani. |
+| [00:10:22](/timestamps/ep-LATnak75Si0/t-00-09-44.md) | factual | [⚠️ Mixed](/claims/claim-d0afc27f5e15.md) | Bill Ackman gave $1.75 million to stop Mamdani. |
+| [00:10:30](/timestamps/ep-LATnak75Si0/t-00-09-44.md) | factual | [✅ True](/claims/claim-bfdcc7a28304.md) | Michael Bloomberg gave $8.3 million to a Cuomo-affiliated super PAC to stop Mamd... |
+| [00:10:41](/timestamps/ep-LATnak75Si0/t-00-10-30.md) | factual | [⚠️ Mixed](/claims/claim-1424b7d3f353.md) | Airbnb co-founder Joe Gebbia gave $3.1 million to stop Mamdani. |
 | [00:10:47](/timestamps/ep-LATnak75Si0/t-00-10-30.md) | factual | [-](/claims/claim-5ac2e3684dcd.md) | The Tisch family gave $1.2 million to stop Mamdani. |
 | [00:14:45](/timestamps/ep-LATnak75Si0/t-00-14-30.md) | factual | [-](/claims/claim-868855a2fded.md) | Mamdani got 32% of the Jewish vote according to a CNN exit poll. |
 | [00:15:00](/timestamps/ep-LATnak75Si0/t-00-14-30.md) | factual | [-](/claims/claim-b9c014eee595.md) | CNN exit poll of about 4,700 people coming out. |
 | [00:15:44](/timestamps/ep-LATnak75Si0/t-00-15-11.md) | factual | [-](/claims/claim-fbee4747af57.md) | Donald Trump dedicated 900% more Truth Social posts to ensuring that Mamdani wou... |
-| [00:20:45](/timestamps/ep-LATnak75Si0/t-00-20-09.md) | factual | [-](/claims/claim-e364a6657370.md) | Bob Shulman took $2 million away from Charlie Kirk because he let Tucker Carlson... |
-| [00:31:39](/timestamps/ep-LATnak75Si0/t-00-31-13.md) | factual | [-](/claims/claim-d41a2e0f6402.md) | Charlie Kirk was never rendered any first aid immediately; security team did not... |
+| [00:20:45](/timestamps/ep-LATnak75Si0/t-00-20-09.md) | factual | [✅ True](/claims/claim-e364a6657370.md) | Bob Shulman took $2 million away from Charlie Kirk because he let Tucker Carlson... |
+| [00:31:39](/timestamps/ep-LATnak75Si0/t-00-31-13.md) | factual | [❓ Unverifiable](/claims/claim-d41a2e0f6402.md) | Charlie Kirk was never rendered any first aid immediately; security team did not... |
 | [00:32:30](/timestamps/ep-LATnak75Si0/t-00-31-55.md) | factual | [-](/claims/claim-9eb04bce93fe.md) | Security guard grabbed Charlie Kirk and guided him onto the ground on top of an ... |
 | [00:47:44](/timestamps/ep-LATnak75Si0/t-00-47-39.md) | factual | [-](/claims/claim-6e0158b9179a.md) | Conservative activist Laura Loomer has a new Pentagon press pass. |
 

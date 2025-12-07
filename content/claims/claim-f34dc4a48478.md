@@ -21,6 +21,8 @@ veracity: "mixed"
 
 ## Verification
 
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 **Confidence:** Medium
 **Source:** [Meet the Chernicks](https://mondoweiss.net/2010/09/meet-the-chernicks/)
 

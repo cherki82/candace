@@ -3,9 +3,10 @@ title: "a Marine whose family knows Rob McCoy—well, Rob McCoy is fri..."
 claim_id: "claim-3edd1eac954a"
 episode: "YaZfwLQ7vrI"
 type: "factual"
+veracity: "false"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ❌ False
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,14 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
+**Confidence:** High
+**Source:** [Thousand Oaks shooting - Wikipedia](https://en.wikipedia.org/wiki/Thousand_Oaks_shooting)
+
+### Analysis
+
+Multiple reliable sources, including Wikipedia, NYT, CNN, and LA Times, confirm the shooter in the 2018 Thousand Oaks Borderline Bar incident was Ian David Long, a 28-year-old Marine veteran, who acted alone and died by suicide. There is no evidence that his mother was involved in the shooting, directly contradicting the claim. No primary sources (news articles, official statements) support a friendship or family connection between Rob McCoy and Ian David Long or his family; searches for such links yield only unsubstantiated social media speculation, making that part unverifiable but not altering the false core attribution of the shooting to the mother.
 
 ## Follow-up
 

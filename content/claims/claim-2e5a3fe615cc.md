@@ -3,9 +3,10 @@ title: "Tyler was accepted into Utah State University, not Utah Vall..."
 claim_id: "claim-2e5a3fe615cc"
 episode: "ZGxnf5cj4Uw"
 type: "factual"
+veracity: "unverified"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ⏳ Unverified
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,8 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 
 ## Follow-up
 

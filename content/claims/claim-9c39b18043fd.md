@@ -3,9 +3,10 @@ title: "Charlie Kirk was shot at 12:23 p.m."
 claim_id: "claim-9c39b18043fd"
 episode: "2WEHTk0Xewg"
 type: "factual"
+veracity: "true"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ✅ True
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,14 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
+**Confidence:** High
+**Source:** [Charlie Kirk assassination: Timeline of Utah campus shooting details attack, manhunt for suspect](https://www.foxnews.com/us/charlie-kirk-assassination-timeline-utah-campus-shooting-details-attack-manhunt-suspect)
+
+### Analysis
+
+Multiple established news outlets, including Fox News, ABC News, NPR, and CNN, provide detailed timelines of the Charlie Kirk shooting at Utah Valley University on September 10, 2025. These sources consistently report the shooting occurring around midday, with specific details aligning on 12:23 p.m. as the time of the incident, supported by official updates and visual timelines.
 
 ## Follow-up
 

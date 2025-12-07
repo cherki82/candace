@@ -3,9 +3,10 @@ title: "Kash Patel... flew down in his FBI plane to go see her [Alex..."
 claim_id: "claim-969e2f2e9ed8"
 episode: "K1tFD7FfoCU"
 type: "factual"
+veracity: "unverified"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ⏳ Unverified
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,8 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 
 ## Follow-up
 

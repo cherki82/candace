@@ -21,6 +21,8 @@ veracity: "false"
 
 ## Verification
 
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 **Confidence:** High
 **Source:** [Report linked ex-Capitol Police officer to 'Jan. 6 pipe bomber': What we know | Snopes.com](https://www.snopes.com/news/2025/11/11/capitol-police-kerkhoff-j6-bomber/)
 

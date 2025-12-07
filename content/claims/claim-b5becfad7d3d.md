@@ -3,9 +3,10 @@ title: "Deidre Weiss Amaro was announced as the new Utah medical exa..."
 claim_id: "claim-b5becfad7d3d"
 episode: "pc3pxRyNFZk"
 type: "factual"
+veracity: "unverified"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ⏳ Unverified
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,8 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 
 ## Follow-up
 

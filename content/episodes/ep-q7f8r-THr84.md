@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=q7f8r-THr84"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -323,17 +325,17 @@ youtube_url: "https://www.youtube.com/watch?v=q7f8r-THr84"
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
-| [00:01:14](/timestamps/ep-q7f8r-THr84/t-00-00-45.md) | factual | [-](/claims/claim-a9b28b7baf03.md) | Turning Point employees are contacting me about things that took place leading u... |
-| [00:03:31](/timestamps/ep-q7f8r-THr84/t-00-03-19.md) | factual | [-](/claims/claim-1859e3745666.md) | George Zinn facing charges of obstruction of justice because he didn't do it and... |
-| [00:07:14](/timestamps/ep-q7f8r-THr84/t-00-06-59.md) | factual | [-](/claims/claim-de39d0d198ab.md) | DNA consistent with Robinson on the rifle trigger |
-| [00:08:28](/timestamps/ep-q7f8r-THr84/t-00-08-07.md) | factual | [-](/claims/claim-b0affe0e1014.md) | Suspect crossed railing onto roof at approximately 12:15 p.m. and Charlie Kirk w... |
-| [00:09:27](/timestamps/ep-q7f8r-THr84/t-00-08-44.md) | factual | [-](/claims/claim-2170a506c193.md) | Suspect entered campus from the north at approximately 11:51 a.m. wearing black ... |
-| [00:12:01](/timestamps/ep-q7f8r-THr84/t-00-11-34.md) | factual | [-](/claims/claim-c93ac46d9ee0.md) | Investigators found a bolt action rifle wrapped in a towel in wooded area with o... |
-| [00:13:46](/timestamps/ep-q7f8r-THr84/t-00-13-25.md) | factual | [-](/claims/claim-04b210dccc97.md) | Robinson's mother saw photo of shooter in news and thought it looked like her so... |
-| [00:14:25](/timestamps/ep-q7f8r-THr84/t-00-14-08.md) | factual | [-](/claims/claim-a65d61ebd128.md) | Over the last year Robinson had become increasingly more political, leaning left... |
-| [00:19:03](/timestamps/ep-q7f8r-THr84/t-00-18-56.md) | factual | [-](/claims/claim-50027cac848f.md) | Police interviewed Robinson's roommate Lance Twiggs who provided text messages f... |
-| [00:29:58](/timestamps/ep-q7f8r-THr84/t-00-29-34.md) | factual | [-](/claims/claim-7e73a3ae8ef6.md) | House where Tyler Robinson lived with Lance Twiggs is owned by Lance Twiggs's fa... |
-| [00:30:28](/timestamps/ep-q7f8r-THr84/t-00-30-01.md) | factual | [-](/claims/claim-ac04914c44f9.md) | Lance Twiggs's family told me his parents kicked him out junior year of high sch... |
+| [00:01:14](/timestamps/ep-q7f8r-THr84/t-00-00-45.md) | factual | [⏳ Unverified](/claims/claim-a9b28b7baf03.md) | Turning Point employees are contacting me about things that took place leading u... |
+| [00:03:31](/timestamps/ep-q7f8r-THr84/t-00-03-19.md) | factual | [⏳ Unverified](/claims/claim-1859e3745666.md) | George Zinn facing charges of obstruction of justice because he didn't do it and... |
+| [00:07:14](/timestamps/ep-q7f8r-THr84/t-00-06-59.md) | factual | [⏳ Unverified](/claims/claim-de39d0d198ab.md) | DNA consistent with Robinson on the rifle trigger |
+| [00:08:28](/timestamps/ep-q7f8r-THr84/t-00-08-07.md) | factual | [⏳ Unverified](/claims/claim-b0affe0e1014.md) | Suspect crossed railing onto roof at approximately 12:15 p.m. and Charlie Kirk w... |
+| [00:09:27](/timestamps/ep-q7f8r-THr84/t-00-08-44.md) | factual | [⏳ Unverified](/claims/claim-2170a506c193.md) | Suspect entered campus from the north at approximately 11:51 a.m. wearing black ... |
+| [00:12:01](/timestamps/ep-q7f8r-THr84/t-00-11-34.md) | factual | [⏳ Unverified](/claims/claim-c93ac46d9ee0.md) | Investigators found a bolt action rifle wrapped in a towel in wooded area with o... |
+| [00:13:46](/timestamps/ep-q7f8r-THr84/t-00-13-25.md) | factual | [⏳ Unverified](/claims/claim-04b210dccc97.md) | Robinson's mother saw photo of shooter in news and thought it looked like her so... |
+| [00:14:25](/timestamps/ep-q7f8r-THr84/t-00-14-08.md) | factual | [⏳ Unverified](/claims/claim-a65d61ebd128.md) | Over the last year Robinson had become increasingly more political, leaning left... |
+| [00:19:03](/timestamps/ep-q7f8r-THr84/t-00-18-56.md) | factual | [⏳ Unverified](/claims/claim-50027cac848f.md) | Police interviewed Robinson's roommate Lance Twiggs who provided text messages f... |
+| [00:29:58](/timestamps/ep-q7f8r-THr84/t-00-29-34.md) | factual | [⏳ Unverified](/claims/claim-7e73a3ae8ef6.md) | House where Tyler Robinson lived with Lance Twiggs is owned by Lance Twiggs's fa... |
+| [00:30:28](/timestamps/ep-q7f8r-THr84/t-00-30-01.md) | factual | [⏳ Unverified](/claims/claim-ac04914c44f9.md) | Lance Twiggs's family told me his parents kicked him out junior year of high sch... |
 | [00:51:13](/timestamps/ep-q7f8r-THr84/t-00-50-41.md) | interpretive | [-](/claims/claim-82d502ed1d31.md) | Some in the pro-Israel camp are knee-jerk about calling you anti-Semitic if you ... |
 
 </details>

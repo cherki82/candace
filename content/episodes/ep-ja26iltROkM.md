@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=ja26iltROkM"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -263,19 +265,19 @@ youtube_url: "https://www.youtube.com/watch?v=ja26iltROkM"
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
-| [00:04:10](/timestamps/ep-ja26iltROkM/t-00-04-04.md) | factual | [-](/claims/claim-04f508351dcf.md) | Charlie just loved the Lord |
+| [00:04:10](/timestamps/ep-ja26iltROkM/t-00-04-04.md) | factual | [⏳ Unverified](/claims/claim-04f508351dcf.md) | Charlie just loved the Lord |
 | [00:05:05](/timestamps/ep-ja26iltROkM/t-00-04-41.md) | promise | [-](/claims/claim-1ddc27edef1c.md) | I'm now currently working on a minute-by-minute timeline, which I will have for ... |
-| [00:05:20](/timestamps/ep-ja26iltROkM/t-00-04-41.md) | factual | [-](/claims/claim-7b91c7d1cf89.md) | I've already been able to locate George Zinn in the crowd |
+| [00:05:20](/timestamps/ep-ja26iltROkM/t-00-04-41.md) | factual | [⏳ Unverified](/claims/claim-7b91c7d1cf89.md) | I've already been able to locate George Zinn in the crowd |
 | [00:06:05](/timestamps/ep-ja26iltROkM/t-00-05-25.md) | interpretive | [-](/claims/claim-bd31cc6e8f71.md) | I believe that people within that company betrayed Charlie Kirk |
-| [00:07:50](/timestamps/ep-ja26iltROkM/t-00-07-29.md) | factual | [-](/claims/claim-61bac5fe98e3.md) | I did not see any blood. In fact, the only blood that I did see at all—I'm talki... |
-| [00:08:45](/timestamps/ep-ja26iltROkM/t-00-08-07.md) | factual | [-](/claims/claim-793080d39328.md) | I just spoke with the surgeon who worked on Charlie in the hospital. He said the... |
+| [00:07:50](/timestamps/ep-ja26iltROkM/t-00-07-29.md) | factual | [⏳ Unverified](/claims/claim-61bac5fe98e3.md) | I did not see any blood. In fact, the only blood that I did see at all—I'm talki... |
+| [00:08:45](/timestamps/ep-ja26iltROkM/t-00-08-07.md) | factual | [⏳ Unverified](/claims/claim-793080d39328.md) | I just spoke with the surgeon who worked on Charlie in the hospital. He said the... |
 | [00:15:13](/timestamps/ep-ja26iltROkM/t-00-14-38.md) | promise | [-](/claims/claim-3cb40a24cf70.md) | as the Director of the FBI, I am committed to ensuring the investigation into Ch... |
-| [00:16:43](/timestamps/ep-ja26iltROkM/t-00-16-26.md) | factual | [-](/claims/claim-071157326446.md) | After interviews with the pilot, in consultation with the FAA, we determined the... |
-| [00:17:13](/timestamps/ep-ja26iltROkM/t-00-17-09.md) | factual | [-](/claims/claim-bf4d2c6115fe.md) | Derek Maxfield... issued a long statement on Instagram where he said that they g... |
-| [00:19:19](/timestamps/ep-ja26iltROkM/t-00-18-36.md) | factual | [-](/claims/claim-2d7e8a3de056.md) | that house next door that's been vacant and is owned by UVU |
-| [00:20:49](/timestamps/ep-ja26iltROkM/t-00-20-23.md) | factual | [-](/claims/claim-9b9c4b7c30d8.md) | there was a massive pipeline that was almost exactly behind where Charlie was si... |
-| [00:23:04](/timestamps/ep-ja26iltROkM/t-00-22-30.md) | factual | [-](/claims/claim-b1680cf4b5dc.md) | within 48 hours... they decided to instead pave that area—repave it |
-| [00:38:53](/timestamps/ep-ja26iltROkM/t-00-38-09.md) | factual | [-](/claims/claim-97beb405ec6f.md) | I'm told that by some people that if I criticize AIPAC, I'm anti-Semitic |
+| [00:16:43](/timestamps/ep-ja26iltROkM/t-00-16-26.md) | factual | [⏳ Unverified](/claims/claim-071157326446.md) | After interviews with the pilot, in consultation with the FAA, we determined the... |
+| [00:17:13](/timestamps/ep-ja26iltROkM/t-00-17-09.md) | factual | [⏳ Unverified](/claims/claim-bf4d2c6115fe.md) | Derek Maxfield... issued a long statement on Instagram where he said that they g... |
+| [00:19:19](/timestamps/ep-ja26iltROkM/t-00-18-36.md) | factual | [⏳ Unverified](/claims/claim-2d7e8a3de056.md) | that house next door that's been vacant and is owned by UVU |
+| [00:20:49](/timestamps/ep-ja26iltROkM/t-00-20-23.md) | factual | [⏳ Unverified](/claims/claim-9b9c4b7c30d8.md) | there was a massive pipeline that was almost exactly behind where Charlie was si... |
+| [00:23:04](/timestamps/ep-ja26iltROkM/t-00-22-30.md) | factual | [⏳ Unverified](/claims/claim-b1680cf4b5dc.md) | within 48 hours... they decided to instead pave that area—repave it |
+| [00:38:53](/timestamps/ep-ja26iltROkM/t-00-38-09.md) | factual | [⏳ Unverified](/claims/claim-97beb405ec6f.md) | I'm told that by some people that if I criticize AIPAC, I'm anti-Semitic |
 | [00:39:47](/timestamps/ep-ja26iltROkM/t-00-39-17.md) | interpretive | [-](/claims/claim-9be6bab99ee6.md) | there's probably like 20 representatives between Senate and the House who I thin... |
 
 </details>

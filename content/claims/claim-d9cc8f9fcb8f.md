@@ -3,9 +3,10 @@ title: "the Turning Point USA Wikipedia entry got a very interesting..."
 claim_id: "claim-d9cc8f9fcb8f"
 episode: "Qt0VHV-POCg"
 type: "factual"
+veracity: "unverified"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ⏳ Unverified
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,8 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 
 ## Follow-up
 

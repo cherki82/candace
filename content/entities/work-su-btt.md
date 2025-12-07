@@ -12,6 +12,8 @@ _Type: Work_
 
 **Also known as:** SUBTT, SU BTT, tail number SUBTT
 
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
 ## Mentions
 
 ### [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)

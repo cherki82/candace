@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=2WEHTk0Xewg"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -297,17 +299,17 @@ youtube_url: "https://www.youtube.com/watch?v=2WEHTk0Xewg"
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
-| [00:07:26](/timestamps/ep-2WEHTk0Xewg/t-00-07-18.md) | factual | [-](/claims/claim-ab0930e975e8.md) | Charlie Kirk gets shot at 12:23 p.m. |
-| [00:07:35](/timestamps/ep-2WEHTk0Xewg/t-00-07-18.md) | factual | [-](/claims/claim-9e7f1ffe8b77.md) | George Zinn announced as suspect in custody by Utah police 30 minutes after the ... |
-| [00:07:58](/timestamps/ep-2WEHTk0Xewg/t-00-07-18.md) | factual | [-](/claims/claim-037b8b1683b2.md) | Governor Cox mentions second suspect wearing all dark clothing 12 minutes into 5... |
-| [00:15:17](/timestamps/ep-2WEHTk0Xewg/t-00-15-06.md) | factual | [-](/claims/claim-c30c6ad1a211.md) | Governor Cox confirmed TMZ footage of man in maroon t-shirt and shorts is Tyler ... |
-| [00:17:49](/timestamps/ep-2WEHTk0Xewg/t-00-17-34.md) | factual | [-](/claims/claim-2b30b3e9a225.md) | FBI recovered high-powered bolt-action rifle used in shooting in wooded area whe... |
-| [00:19:06](/timestamps/ep-2WEHTk0Xewg/t-00-18-53.md) | factual | [-](/claims/claim-9e25e57c0743.md) | New York Post published exclusive photo of gun at 9:21 a.m. Mountain Time, two h... |
-| [00:23:16](/timestamps/ep-2WEHTk0Xewg/t-00-22-59.md) | factual | [-](/claims/claim-7ac830adda5e.md) | Tyler Robinson in custody around 7 p.m. Sep 11 when local texts circulated he wa... |
-| [00:26:50](/timestamps/ep-2WEHTk0Xewg/t-00-26-19.md) | factual | [-](/claims/claim-72bb3c5af523.md) | President Trump announces at 6 a.m. Sep 12 with high degree of certainty suspect... |
-| [00:28:30](/timestamps/ep-2WEHTk0Xewg/t-00-27-57.md) | factual | [-](/claims/claim-2a41f160fad4.md) | Tyler Robinson arrived on UVU campus in gray Dodge Challenger at 8:29 a.m. Sep 1... |
-| [00:45:45](/timestamps/ep-2WEHTk0Xewg/t-00-45-18.md) | factual | [-](/claims/claim-86ec1be6dec0.md) | Charlie Kirk lost a two million dollar donation two days before he died because ... |
-| [00:46:08](/timestamps/ep-2WEHTk0Xewg/t-00-46-02.md) | factual | [-](/claims/claim-8e0e64f2d12d.md) | American Jewish Committee called Charlie Kirk an anti-Semite and dangerous |
+| [00:07:26](/timestamps/ep-2WEHTk0Xewg/t-00-07-18.md) | factual | [✅ True](/claims/claim-ab0930e975e8.md) | Charlie Kirk gets shot at 12:23 p.m. |
+| [00:07:35](/timestamps/ep-2WEHTk0Xewg/t-00-07-18.md) | factual | [❌ False](/claims/claim-9e7f1ffe8b77.md) | George Zinn announced as suspect in custody by Utah police 30 minutes after the ... |
+| [00:07:58](/timestamps/ep-2WEHTk0Xewg/t-00-07-18.md) | factual | [❌ False](/claims/claim-037b8b1683b2.md) | Governor Cox mentions second suspect wearing all dark clothing 12 minutes into 5... |
+| [00:15:17](/timestamps/ep-2WEHTk0Xewg/t-00-15-06.md) | factual | [✅ True](/claims/claim-c30c6ad1a211.md) | Governor Cox confirmed TMZ footage of man in maroon t-shirt and shorts is Tyler ... |
+| [00:17:49](/timestamps/ep-2WEHTk0Xewg/t-00-17-34.md) | factual | [✅ True](/claims/claim-2b30b3e9a225.md) | FBI recovered high-powered bolt-action rifle used in shooting in wooded area whe... |
+| [00:19:06](/timestamps/ep-2WEHTk0Xewg/t-00-18-53.md) | factual | [❓ Unverifiable](/claims/claim-9e25e57c0743.md) | New York Post published exclusive photo of gun at 9:21 a.m. Mountain Time, two h... |
+| [00:23:16](/timestamps/ep-2WEHTk0Xewg/t-00-22-59.md) | factual | [❓ Unverifiable](/claims/claim-7ac830adda5e.md) | Tyler Robinson in custody around 7 p.m. Sep 11 when local texts circulated he wa... |
+| [00:26:50](/timestamps/ep-2WEHTk0Xewg/t-00-26-19.md) | factual | [❓ Unverifiable](/claims/claim-72bb3c5af523.md) | President Trump announces at 6 a.m. Sep 12 with high degree of certainty suspect... |
+| [00:28:30](/timestamps/ep-2WEHTk0Xewg/t-00-27-57.md) | factual | [✅ True](/claims/claim-2a41f160fad4.md) | Tyler Robinson arrived on UVU campus in gray Dodge Challenger at 8:29 a.m. Sep 1... |
+| [00:45:45](/timestamps/ep-2WEHTk0Xewg/t-00-45-18.md) | factual | [✅ True](/claims/claim-86ec1be6dec0.md) | Charlie Kirk lost a two million dollar donation two days before he died because ... |
+| [00:46:08](/timestamps/ep-2WEHTk0Xewg/t-00-46-02.md) | factual | [❓ Unverifiable](/claims/claim-8e0e64f2d12d.md) | American Jewish Committee called Charlie Kirk an anti-Semite and dangerous |
 
 </details>
 

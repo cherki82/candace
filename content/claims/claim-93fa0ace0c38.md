@@ -3,9 +3,10 @@ title: "from the 20th to the 26th—that happens to be the period that..."
 claim_id: "claim-93fa0ace0c38"
 episode: "sImMM04XdWY"
 type: "factual"
+veracity: "true"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ✅ True
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,14 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
+**Confidence:** High
+**Source:** [Read the French President’s Lawsuit - The New York Times](https://www.nytimes.com/interactive/2025/07/23/world/europe/23int-macron-defemation-suit.html)
+
+### Analysis
+
+Multiple reliable sources, including The New York Times (July 23, 2025) and posts on X citing the Financial Times (July 23, 2025), confirm that Emmanuel and Brigitte Macron filed a defamation lawsuit against Candace Owens in Delaware Superior Court around July 23-24, 2025. This falls within the claimed period of July 20th to 26th. The RT post on X explicitly attributes the reporting to the Financial Times, supporting that the information was released or reported during that timeframe.
 
 ## Follow-up
 

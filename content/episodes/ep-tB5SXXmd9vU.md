@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=tB5SXXmd9vU"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -237,48 +239,48 @@ youtube_url: "https://www.youtube.com/watch?v=tB5SXXmd9vU"
 |------|------|----------|-------|
 | [00:00:21](/timestamps/ep-tB5SXXmd9vU/t-00-00-01.md) | factual | [-](/claims/claim-cd7a9cbf22a1.md) | Jean-Michel Trogneux forced multiple nation-states to collude to hide the obviou... |
 | [00:01:12](/timestamps/ep-tB5SXXmd9vU/t-00-00-57.md) | factual | [-](/claims/claim-9bf00a0d13ba.md) | France paid for my assassination and the French Foreign Legion was involved and ... |
-| [00:03:02](/timestamps/ep-tB5SXXmd9vU/t-00-02-25.md) | factual | [-](/claims/claim-69670e7e16d5.md) | Two days ago, I was contacted by a high-ranking employee of the French governmen... |
+| [00:03:02](/timestamps/ep-tB5SXXmd9vU/t-00-02-25.md) | factual | [❓ Unverifiable](/claims/claim-69670e7e16d5.md) | Two days ago, I was contacted by a high-ranking employee of the French governmen... |
 | [00:03:17](/timestamps/ep-tB5SXXmd9vU/t-00-03-07.md) | factual | [-](/claims/claim-3e7c7e804fb4.md) | The Macrons have executed upon and paid for my assassination |
-| [00:03:17](/timestamps/ep-tB5SXXmd9vU/t-00-03-07.md) | factual | [-](/claims/claim-7070c4b5ead1.md) | this person claims the Macrons have executed upon and paid for my assassination |
+| [00:03:17](/timestamps/ep-tB5SXXmd9vU/t-00-03-07.md) | factual | [⏳ Unverified](/claims/claim-7070c4b5ead1.md) | this person claims the Macrons have executed upon and paid for my assassination |
 | [00:03:25](/timestamps/ep-tB5SXXmd9vU/t-00-03-07.md) | factual | [-](/claims/claim-16cb72c4f254.md) | The green light was given to a small team in the National Gendarmerie Interventi... |
-| [00:03:25](/timestamps/ep-tB5SXXmd9vU/t-00-03-07.md) | factual | [-](/claims/claim-2343ff170603.md) | the green light was given to a small team in the National Gendarmerie Interventi... |
+| [00:03:25](/timestamps/ep-tB5SXXmd9vU/t-00-03-07.md) | factual | [⏳ Unverified](/claims/claim-2343ff170603.md) | the green light was given to a small team in the National Gendarmerie Interventi... |
 | [00:03:45](/timestamps/ep-tB5SXXmd9vU/t-00-03-07.md) | factual | [-](/claims/claim-4b52e825baeb.md) | Charlie Kirk's assassin trained with the French Legion 13th Brigade with multi-s... |
-| [00:03:45](/timestamps/ep-tB5SXXmd9vU/t-00-03-07.md) | factual | [-](/claims/claim-8101f09efa91.md) | this person claims that Charlie Kirk's assassin trained with the French Legion 1... |
+| [00:03:45](/timestamps/ep-tB5SXXmd9vU/t-00-03-07.md) | factual | [⏳ Unverified](/claims/claim-8101f09efa91.md) | this person claims that Charlie Kirk's assassin trained with the French Legion 1... |
 | [00:03:55](/timestamps/ep-tB5SXXmd9vU/t-00-03-45.md) | factual | [-](/claims/claim-80d64973352d.md) | Journalist Xavier Poussard's life is also at risk |
 | [00:04:32](/timestamps/ep-tB5SXXmd9vU/t-00-04-29.md) | factual | [-](/claims/claim-d01491733a77.md) | Macron allegedly paid $1.5 million for the assassination |
-| [00:04:32](/timestamps/ep-tB5SXXmd9vU/t-00-04-29.md) | factual | [-](/claims/claim-cb6b6b50e63f.md) | there was a paper trail that Macron allegedly paid $1.5 million... Two assassins... |
+| [00:04:32](/timestamps/ep-tB5SXXmd9vU/t-00-04-29.md) | factual | [❓ Unverifiable](/claims/claim-cb6b6b50e63f.md) | there was a paper trail that Macron allegedly paid $1.5 million... Two assassins... |
 | [00:04:51](/timestamps/ep-tB5SXXmd9vU/t-00-04-29.md) | factual | [-](/claims/claim-27c2c27ea571.md) | Two assassins were hired, one Israeli, one French-Canadian woman |
 | [00:04:58](/timestamps/ep-tB5SXXmd9vU/t-00-04-29.md) | factual | [-](/claims/claim-dd825d96cc7c.md) | The money ran through the elite gentlemen's club des Saints |
 | [00:05:08](/timestamps/ep-tB5SXXmd9vU/t-00-04-29.md) | factual | [-](/claims/claim-ad296b9599d2.md) | The French Foreign Legion were involved in Charlie Kirk's assassination |
 | [00:06:48](/timestamps/ep-tB5SXXmd9vU/t-00-06-34.md) | factual | [-](/claims/claim-36a6b56d7696.md) | The French couple hired a private investigator to see if I was colluding with ot... |
 | [00:08:08](/timestamps/ep-tB5SXXmd9vU/t-00-08-00.md) | factual | [-](/claims/claim-6f95b06576bf.md) | Trump never called her about Brigitte Macron |
 | [00:08:13](/timestamps/ep-tB5SXXmd9vU/t-00-08-00.md) | factual | [-](/claims/claim-f686b1cdd5ae.md) | Charlie Kirk never changes his mind about Israel |
-| [00:08:30](/timestamps/ep-tB5SXXmd9vU/t-00-08-00.md) | factual | [-](/claims/claim-27a9ab460c3b.md) | here is the official response issued by the Élysée Palace. Nothing. |
-| [00:09:12](/timestamps/ep-tB5SXXmd9vU/t-00-08-40.md) | factual | [-](/claims/claim-c2353d9fb343.md) | Did I report it to the White House? Of course I reported it to the White House. ... |
+| [00:08:30](/timestamps/ep-tB5SXXmd9vU/t-00-08-00.md) | factual | [✅ True](/claims/claim-27a9ab460c3b.md) | here is the official response issued by the Élysée Palace. Nothing. |
+| [00:09:12](/timestamps/ep-tB5SXXmd9vU/t-00-08-40.md) | factual | [⏳ Unverified](/claims/claim-c2353d9fb343.md) | Did I report it to the White House? Of course I reported it to the White House. ... |
 | [00:09:59](/timestamps/ep-tB5SXXmd9vU/t-00-09-23.md) | factual | [-](/claims/claim-0d3da3e5f9d7.md) | Multiple agencies and multiple countries involved from Egypt to Israel in Charli... |
 | [00:10:22](/timestamps/ep-tB5SXXmd9vU/t-00-10-07.md) | interpretive | [-](/claims/claim-e3a4379cdd12.md) | The French government has an appetite for cruelty and sexual deviancy |
 | [00:13:15](/timestamps/ep-tB5SXXmd9vU/t-00-12-42.md) | factual | [-](/claims/claim-e1a173c62780.md) | Safari Club was a covert alliance of intelligence services formed in 1976 that r... |
-| [00:13:15](/timestamps/ep-tB5SXXmd9vU/t-00-12-42.md) | factual | [-](/claims/claim-6b1f8400070a.md) | the Safari Club, man, a covert alliance of intelligence services formed in 1976,... |
+| [00:13:15](/timestamps/ep-tB5SXXmd9vU/t-00-12-42.md) | factual | [⏳ Unverified](/claims/claim-6b1f8400070a.md) | the Safari Club, man, a covert alliance of intelligence services formed in 1976,... |
 | [00:13:59](/timestamps/ep-tB5SXXmd9vU/t-00-13-15.md) | factual | [-](/claims/claim-f9e6cafcde83.md) | The Safari Club resulted in the 1979 Egypt-Israel peace treaty |
-| [00:14:04](/timestamps/ep-tB5SXXmd9vU/t-00-14-00.md) | factual | [-](/claims/claim-cda80e80ff36.md) | I did not at all hear back from the FBI on the American side... the FBI left me ... |
+| [00:14:04](/timestamps/ep-tB5SXXmd9vU/t-00-14-00.md) | factual | [⏳ Unverified](/claims/claim-cda80e80ff36.md) | I did not at all hear back from the FBI on the American side... the FBI left me ... |
 | [00:15:59](/timestamps/ep-tB5SXXmd9vU/t-00-15-25.md) | factual | [-](/claims/claim-dc6e6ed64958.md) | French Foreign Legion legionnaires from the 4th Company, 2nd Foreign Infantry Re... |
-| [00:16:09](/timestamps/ep-tB5SXXmd9vU/t-00-15-25.md) | factual | [-](/claims/claim-34976a4060bc.md) | according to the French Foreign Legion website, between August 2nd and August 25... |
+| [00:16:09](/timestamps/ep-tB5SXXmd9vU/t-00-15-25.md) | factual | [⏳ Unverified](/claims/claim-34976a4060bc.md) | according to the French Foreign Legion website, between August 2nd and August 25... |
 | [00:16:32](/timestamps/ep-tB5SXXmd9vU/t-00-16-09.md) | factual | [-](/claims/claim-e597c74095a6.md) | Another camp began immediately after, a joint exercise with civilians including ... |
-| [00:16:36](/timestamps/ep-tB5SXXmd9vU/t-00-16-09.md) | factual | [-](/claims/claim-6012b01bc6dd.md) | another camp began immediately. It was a joint exercise with civilians, which in... |
+| [00:16:36](/timestamps/ep-tB5SXXmd9vU/t-00-16-09.md) | factual | [⚠️ Mixed](/claims/claim-6012b01bc6dd.md) | another camp began immediately. It was a joint exercise with civilians, which in... |
 | [00:18:27](/timestamps/ep-tB5SXXmd9vU/t-00-18-18.md) | factual | [-](/claims/claim-5f3dd27200ec.md) | The French Legionnaires might have been on the ground during Charlie Kirk's assa... |
-| [00:18:27](/timestamps/ep-tB5SXXmd9vU/t-00-18-18.md) | factual | [-](/claims/claim-c415f0f7ef98.md) | Tyler Robinson was never part of the French Foreign Legion. If he did not serve ... |
+| [00:18:27](/timestamps/ep-tB5SXXmd9vU/t-00-18-18.md) | factual | [⏳ Unverified](/claims/claim-c415f0f7ef98.md) | Tyler Robinson was never part of the French Foreign Legion. If he did not serve ... |
 | [00:18:42](/timestamps/ep-tB5SXXmd9vU/t-00-18-18.md) | factual | [-](/claims/claim-6b22971fdc18.md) | Tyler Robinson was never part of the French Foreign Legion and if he did not ser... |
 | [00:19:06](/timestamps/ep-tB5SXXmd9vU/t-00-19-00.md) | factual | [-](/claims/claim-59ab6c13d0d1.md) | Anybody who trained with the French Foreign Legion was on the ground on Septembe... |
 | [00:20:07](/timestamps/ep-tB5SXXmd9vU/t-00-19-45.md) | factual | [-](/claims/claim-e24213471269.md) | The Ministry of the Armed Forces confirms that a training exercise by the 2nd Fo... |
 | [00:20:36](/timestamps/ep-tB5SXXmd9vU/t-00-20-29.md) | factual | [-](/claims/claim-be6c191755cf.md) | The Ministry of the Armed Forces formally denies that another Foreign Legion tra... |
 | [00:21:46](/timestamps/ep-tB5SXXmd9vU/t-00-21-14.md) | factual | [-](/claims/claim-916c31f3b439.md) | after that civilian-military exercise ended at Camp Ripley on the 27th, another ... |
 | [00:22:00](/timestamps/ep-tB5SXXmd9vU/t-00-21-46.md) | factual | [-](/claims/claim-da4581237c4e.md) | And that was known as Operation Bright Star, and that took place in Cairo, Egypt... |
-| [00:22:00](/timestamps/ep-tB5SXXmd9vU/t-00-21-46.md) | factual | [-](/claims/claim-0be3d2fb69a2.md) | another joint military operation began from August 29th through to September 10t... |
+| [00:22:00](/timestamps/ep-tB5SXXmd9vU/t-00-21-46.md) | factual | [⏳ Unverified](/claims/claim-0be3d2fb69a2.md) | another joint military operation began from August 29th through to September 10t... |
 | [00:22:43](/timestamps/ep-tB5SXXmd9vU/t-00-22-30.md) | factual | [-](/claims/claim-f3abdec26492.md) | they basically gutted and replaced about half of their leadership in mid-August.... |
 | [00:23:24](/timestamps/ep-tB5SXXmd9vU/t-00-23-12.md) | factual | [-](/claims/claim-2d4ad3e74221.md) | we were trying to track the Egyptian plane, SU-BTT, our yellow plane, which depa... |
-| [00:23:24](/timestamps/ep-tB5SXXmd9vU/t-00-23-12.md) | factual | [-](/claims/claim-114455a3333a.md) | the Egyptian plane, SU-BTT, our yellow plane, which departed on the morning of C... |
+| [00:23:24](/timestamps/ep-tB5SXXmd9vU/t-00-23-12.md) | factual | [⏳ Unverified](/claims/claim-114455a3333a.md) | the Egyptian plane, SU-BTT, our yellow plane, which departed on the morning of C... |
 | [00:24:00](/timestamps/ep-tB5SXXmd9vU/t-00-23-42.md) | factual | [-](/claims/claim-779b572e05f6.md) | Satis, which is a French company, injected $1.5 million ostensibly to paint plan... |
-| [00:24:00](/timestamps/ep-tB5SXXmd9vU/t-00-23-42.md) | factual | [-](/claims/claim-fafaf3f55ca8.md) | Satis, which is a French company, injected $1.5 million ostensibly to paint plan... |
+| [00:24:00](/timestamps/ep-tB5SXXmd9vU/t-00-23-42.md) | factual | [⏳ Unverified](/claims/claim-fafaf3f55ca8.md) | Satis, which is a French company, injected $1.5 million ostensibly to paint plan... |
 | [00:24:24](/timestamps/ep-tB5SXXmd9vU/t-00-23-42.md) | factual | [-](/claims/claim-52543d360b83.md) | we learned from a source that a foreign dignitary was escorted, right, from that... |
 | [00:24:54](/timestamps/ep-tB5SXXmd9vU/t-00-24-24.md) | factual | [-](/claims/claim-d05ec46f79b7.md) | we learned that it is also a place which houses the attorneys that are filing my... |
 | [00:25:07](/timestamps/ep-tB5SXXmd9vU/t-00-24-24.md) | factual | [-](/claims/claim-189a448171de.md) | We then learned that Brigitte's lawyers in my lawsuit are directly across the st... |
@@ -298,7 +300,7 @@ youtube_url: "https://www.youtube.com/watch?v=tB5SXXmd9vU"
 | [00:39:42](/timestamps/ep-tB5SXXmd9vU/t-00-39-28.md) | factual | [-](/claims/claim-1be678114779.md) | Brigitte Macron had opened Paris Design Week on September 4th |
 | [00:39:58](/timestamps/ep-tB5SXXmd9vU/t-00-39-28.md) | factual | [-](/claims/claim-69ccdcc5c178.md) | Brigitte Macron gets photographed on 9/4 with Zelensky |
 | [00:40:24](/timestamps/ep-tB5SXXmd9vU/t-00-40-05.md) | factual | [-](/claims/claim-f35e1887aa66.md) | Brigitte just falls off a cliff for six days |
-| [00:40:24](/timestamps/ep-tB5SXXmd9vU/t-00-40-05.md) | factual | [-](/claims/claim-80c03942b08f.md) | Brigitte just falls off a cliff for six days... Brigitte's just gone for six day... |
+| [00:40:24](/timestamps/ep-tB5SXXmd9vU/t-00-40-05.md) | factual | [⏳ Unverified](/claims/claim-80c03942b08f.md) | Brigitte just falls off a cliff for six days... Brigitte's just gone for six day... |
 | [00:41:05](/timestamps/ep-tB5SXXmd9vU/t-00-40-44.md) | factual | [-](/claims/claim-71d1bf8e9b0e.md) | Wilmington, Delaware also being the hub for MKUltra |
 | [00:41:10](/timestamps/ep-tB5SXXmd9vU/t-00-40-44.md) | factual | [-](/claims/claim-e2f189ecf9a5.md) | It's also the hub for transgenderism in America |
 | [00:41:20](/timestamps/ep-tB5SXXmd9vU/t-00-40-44.md) | factual | [-](/claims/claim-fce07737c80c.md) | Our first ever trans congressman from Wilmington, Delaware, that congressional d... |

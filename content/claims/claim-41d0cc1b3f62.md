@@ -3,9 +3,10 @@ title: "It's the application submitted mid-July by the UVU chapter o..."
 claim_id: "claim-41d0cc1b3f62"
 episode: "Qfwr08Ebczo"
 type: "factual"
+veracity: "unverified"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ⏳ Unverified
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,8 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 
 ## Follow-up
 

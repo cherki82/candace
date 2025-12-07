@@ -2,6 +2,8 @@
 
 _Total relationships: 301_
 
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
 This page shows all extracted relationships between entities.
 
 <details>

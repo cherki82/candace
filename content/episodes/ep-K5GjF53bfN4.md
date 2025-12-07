@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=K5GjF53bfN4"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -225,17 +227,17 @@ youtube_url: "https://www.youtube.com/watch?v=K5GjF53bfN4"
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
-| [00:00:01](/timestamps/ep-K5GjF53bfN4/t-00-00-01.md) | factual | [-](/claims/claim-4aa69f45df43.md) | a week before Charlie Kirk lost his life, he expressed some concerns about the f... |
-| [00:00:08](/timestamps/ep-K5GjF53bfN4/t-00-00-01.md) | factual | [-](/claims/claim-83d0475494d6.md) | Charlie Kirk wanted to put together an entire department, a little mini-departme... |
-| [00:01:53](/timestamps/ep-K5GjF53bfN4/t-00-01-27.md) | factual | [-](/claims/claim-14d561733697.md) | Benjamin Netanyahu tweeted before the president of the United States that Charli... |
-| [00:01:58](/timestamps/ep-K5GjF53bfN4/t-00-01-27.md) | factual | [-](/claims/claim-121a14e2bab9.md) | Benjamin Netanyahu lied about the contents of a letter that Charlie Kirk had wri... |
-| [00:08:33](/timestamps/ep-K5GjF53bfN4/t-00-08-02.md) | factual | [-](/claims/claim-f642086e0ae3.md) | Marissa Streit has not always been open about the fact that she worked for the I... |
-| [00:09:08](/timestamps/ep-K5GjF53bfN4/t-00-08-44.md) | factual | [-](/claims/claim-fb98342b339f.md) | Turning Point will not release the footage |
-| [00:14:12](/timestamps/ep-K5GjF53bfN4/t-00-13-28.md) | factual | [-](/claims/claim-9e46f34c1775.md) | neither the feds nor the local police had ever reached out to the person who fil... |
-| [00:15:46](/timestamps/ep-K5GjF53bfN4/t-00-15-27.md) | factual | [-](/claims/claim-73ca999a718a.md) | he walked in and gave the footage to the Orem Police Department... the feds neve... |
-| [00:20:19](/timestamps/ep-K5GjF53bfN4/t-00-19-45.md) | factual | [-](/claims/claim-d3647fae80ce.md) | on September 2nd... Charlie Kirk surprised the company by announcing that he was... |
-| [00:21:29](/timestamps/ep-K5GjF53bfN4/t-00-21-13.md) | factual | [-](/claims/claim-11a5e8d7480a.md) | internal memo signed off by Charlie Kirk on September 2nd announcing Justin Stri... |
-| [00:23:26](/timestamps/ep-K5GjF53bfN4/t-00-23-23.md) | factual | [-](/claims/claim-e980f3d2e962.md) | sources at Turning Point said that Charlie Kirk wasn't just concerned about wher... |
+| [00:00:01](/timestamps/ep-K5GjF53bfN4/t-00-00-01.md) | factual | [⏳ Unverified](/claims/claim-4aa69f45df43.md) | a week before Charlie Kirk lost his life, he expressed some concerns about the f... |
+| [00:00:08](/timestamps/ep-K5GjF53bfN4/t-00-00-01.md) | factual | [⏳ Unverified](/claims/claim-83d0475494d6.md) | Charlie Kirk wanted to put together an entire department, a little mini-departme... |
+| [00:01:53](/timestamps/ep-K5GjF53bfN4/t-00-01-27.md) | factual | [⏳ Unverified](/claims/claim-14d561733697.md) | Benjamin Netanyahu tweeted before the president of the United States that Charli... |
+| [00:01:58](/timestamps/ep-K5GjF53bfN4/t-00-01-27.md) | factual | [⏳ Unverified](/claims/claim-121a14e2bab9.md) | Benjamin Netanyahu lied about the contents of a letter that Charlie Kirk had wri... |
+| [00:08:33](/timestamps/ep-K5GjF53bfN4/t-00-08-02.md) | factual | [⏳ Unverified](/claims/claim-f642086e0ae3.md) | Marissa Streit has not always been open about the fact that she worked for the I... |
+| [00:09:08](/timestamps/ep-K5GjF53bfN4/t-00-08-44.md) | factual | [⏳ Unverified](/claims/claim-fb98342b339f.md) | Turning Point will not release the footage |
+| [00:14:12](/timestamps/ep-K5GjF53bfN4/t-00-13-28.md) | factual | [⏳ Unverified](/claims/claim-9e46f34c1775.md) | neither the feds nor the local police had ever reached out to the person who fil... |
+| [00:15:46](/timestamps/ep-K5GjF53bfN4/t-00-15-27.md) | factual | [⏳ Unverified](/claims/claim-73ca999a718a.md) | he walked in and gave the footage to the Orem Police Department... the feds neve... |
+| [00:20:19](/timestamps/ep-K5GjF53bfN4/t-00-19-45.md) | factual | [⏳ Unverified](/claims/claim-d3647fae80ce.md) | on September 2nd... Charlie Kirk surprised the company by announcing that he was... |
+| [00:21:29](/timestamps/ep-K5GjF53bfN4/t-00-21-13.md) | factual | [⏳ Unverified](/claims/claim-11a5e8d7480a.md) | internal memo signed off by Charlie Kirk on September 2nd announcing Justin Stri... |
+| [00:23:26](/timestamps/ep-K5GjF53bfN4/t-00-23-23.md) | factual | [⏳ Unverified](/claims/claim-e980f3d2e962.md) | sources at Turning Point said that Charlie Kirk wasn't just concerned about wher... |
 
 </details>
 

@@ -21,6 +21,8 @@ veracity: "unverifiable"
 
 ## Verification
 
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 **Confidence:** High
 **Source:** [TPUSA responds to Candace Owens' claims on Charlie Kirk with a challenge: ‘The ball is now…’ | Hindustan Times](https://www.hindustantimes.com/world-news/us-news/tpusa-responds-to-candace-owens-claims-on-charlie-kirk-with-a-challenge-the-ball-is-now-101764791896733.html)
 

@@ -3,9 +3,10 @@ title: "in the hospital on that day, you told me—you were in the hos..."
 claim_id: "claim-c6f38a5658b3"
 episode: "JQjCAsfoXEE"
 type: "factual"
+veracity: "unverified"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ⏳ Unverified
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,8 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 
 ## Follow-up
 

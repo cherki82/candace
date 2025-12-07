@@ -3,9 +3,10 @@ title: "Benjamin Netanyahu calling Charlie Kirk and offering to take..."
 claim_id: "claim-c83ec0e6d33c"
 episode: "a-e7HC6SeK8"
 type: "factual"
+veracity: "unverified"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ⏳ Unverified
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,8 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 
 ## Follow-up
 

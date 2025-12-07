@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=JQjCAsfoXEE"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -243,22 +245,22 @@ youtube_url: "https://www.youtube.com/watch?v=JQjCAsfoXEE"
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
-| [00:00:03](/timestamps/ep-JQjCAsfoXEE/t-00-00-00.md) | factual | [-](/claims/claim-7644c8943f0f.md) | It was after the public execution of sitting President JFK in 1963 that the CIA ... |
-| [00:05:44](/timestamps/ep-JQjCAsfoXEE/t-00-05-00.md) | factual | [-](/claims/claim-8a9839b9a515.md) | On October 11th, when I infamously tweeted about the Egyptian military plane tha... |
-| [00:12:15](/timestamps/ep-JQjCAsfoXEE/t-00-11-52.md) | factual | [-](/claims/claim-35bb0c5f068f.md) | Terrell Farnsworth, the guy who takes out the SD cards, was there at all. Terrel... |
-| [00:12:50](/timestamps/ep-JQjCAsfoXEE/t-00-12-33.md) | factual | [-](/claims/claim-e3aa7c21cf52.md) | Charlie Kirk flew into Salt Lake City that morning. Because why didn't he fly in... |
-| [00:15:09](/timestamps/ep-JQjCAsfoXEE/t-00-14-44.md) | factual | [-](/claims/claim-0b69791d5fad.md) | Charlie Kirk landed into Salt Lake City at 9:23 a.m. local time. |
-| [00:16:55](/timestamps/ep-JQjCAsfoXEE/t-00-16-12.md) | factual | [-](/claims/claim-49d1cabe7c51.md) | between 2022 and September of 2025, both of those aircraft—SU-BTT, the yellow pl... |
-| [00:17:22](/timestamps/ep-JQjCAsfoXEE/t-00-16-57.md) | factual | [-](/claims/claim-ea735ff2410c.md) | The flights were majority clustered within five states: Kansas, Missouri, Nebras... |
+| [00:00:03](/timestamps/ep-JQjCAsfoXEE/t-00-00-00.md) | factual | [⏳ Unverified](/claims/claim-7644c8943f0f.md) | It was after the public execution of sitting President JFK in 1963 that the CIA ... |
+| [00:05:44](/timestamps/ep-JQjCAsfoXEE/t-00-05-00.md) | factual | [⏳ Unverified](/claims/claim-8a9839b9a515.md) | On October 11th, when I infamously tweeted about the Egyptian military plane tha... |
+| [00:12:15](/timestamps/ep-JQjCAsfoXEE/t-00-11-52.md) | factual | [⏳ Unverified](/claims/claim-35bb0c5f068f.md) | Terrell Farnsworth, the guy who takes out the SD cards, was there at all. Terrel... |
+| [00:12:50](/timestamps/ep-JQjCAsfoXEE/t-00-12-33.md) | factual | [⏳ Unverified](/claims/claim-e3aa7c21cf52.md) | Charlie Kirk flew into Salt Lake City that morning. Because why didn't he fly in... |
+| [00:15:09](/timestamps/ep-JQjCAsfoXEE/t-00-14-44.md) | factual | [⏳ Unverified](/claims/claim-0b69791d5fad.md) | Charlie Kirk landed into Salt Lake City at 9:23 a.m. local time. |
+| [00:16:55](/timestamps/ep-JQjCAsfoXEE/t-00-16-12.md) | factual | [⏳ Unverified](/claims/claim-49d1cabe7c51.md) | between 2022 and September of 2025, both of those aircraft—SU-BTT, the yellow pl... |
+| [00:17:22](/timestamps/ep-JQjCAsfoXEE/t-00-16-57.md) | factual | [⏳ Unverified](/claims/claim-ea735ff2410c.md) | The flights were majority clustered within five states: Kansas, Missouri, Nebras... |
 | [00:18:41](/timestamps/ep-JQjCAsfoXEE/t-00-18-13.md) | interpretive | [-](/claims/claim-97a2528d0171.md) | There is less than a 0.00000001 percent probability—under random distribution mo... |
-| [00:19:15](/timestamps/ep-JQjCAsfoXEE/t-00-18-55.md) | factual | [-](/claims/claim-b3822a6cce6f.md) | On the day of Charlie Kirk's assassination, ... the blue plane, SU-BND, did, how... |
-| [00:21:35](/timestamps/ep-JQjCAsfoXEE/t-00-21-01.md) | factual | [-](/claims/claim-7c7a7f98f338.md) | On September 10th, the day of Charlie Kirk's assassination, this plane first tra... |
-| [00:24:14](/timestamps/ep-JQjCAsfoXEE/t-00-23-29.md) | factual | [-](/claims/claim-c6f38a5658b3.md) | in the hospital on that day, you told me—you were in the hospital—that you were ... |
-| [00:26:14](/timestamps/ep-JQjCAsfoXEE/t-00-25-34.md) | factual | [-](/claims/claim-cdb7bc099acf.md) | The tail number is N560TW. It departed on the morning of September 10th from Sco... |
-| [00:27:30](/timestamps/ep-JQjCAsfoXEE/t-00-26-57.md) | factual | [-](/claims/claim-c1ee05fc4dad.md) | Duncan Aviation ... sourced rental cars for these quote-unquote Egyptians when t... |
-| [00:33:34](/timestamps/ep-JQjCAsfoXEE/t-00-32-54.md) | factual | [-](/claims/claim-07d1758fe21f.md) | they missed their tax deadline—for the first time ... filed for an extension and... |
-| [00:37:40](/timestamps/ep-JQjCAsfoXEE/t-00-37-02.md) | factual | [-](/claims/claim-dd865fbd1242.md) | Turning Point USA sent $8,560,625 ... to America's Turning Point |
-| [00:44:24](/timestamps/ep-JQjCAsfoXEE/t-00-43-52.md) | factual | [-](/claims/claim-343d5db00e2d.md) | they cleared over $70 million in the first couple of weeks after Charlie Kirk wa... |
+| [00:19:15](/timestamps/ep-JQjCAsfoXEE/t-00-18-55.md) | factual | [⏳ Unverified](/claims/claim-b3822a6cce6f.md) | On the day of Charlie Kirk's assassination, ... the blue plane, SU-BND, did, how... |
+| [00:21:35](/timestamps/ep-JQjCAsfoXEE/t-00-21-01.md) | factual | [⏳ Unverified](/claims/claim-7c7a7f98f338.md) | On September 10th, the day of Charlie Kirk's assassination, this plane first tra... |
+| [00:24:14](/timestamps/ep-JQjCAsfoXEE/t-00-23-29.md) | factual | [⏳ Unverified](/claims/claim-c6f38a5658b3.md) | in the hospital on that day, you told me—you were in the hospital—that you were ... |
+| [00:26:14](/timestamps/ep-JQjCAsfoXEE/t-00-25-34.md) | factual | [⏳ Unverified](/claims/claim-cdb7bc099acf.md) | The tail number is N560TW. It departed on the morning of September 10th from Sco... |
+| [00:27:30](/timestamps/ep-JQjCAsfoXEE/t-00-26-57.md) | factual | [⏳ Unverified](/claims/claim-c1ee05fc4dad.md) | Duncan Aviation ... sourced rental cars for these quote-unquote Egyptians when t... |
+| [00:33:34](/timestamps/ep-JQjCAsfoXEE/t-00-32-54.md) | factual | [⏳ Unverified](/claims/claim-07d1758fe21f.md) | they missed their tax deadline—for the first time ... filed for an extension and... |
+| [00:37:40](/timestamps/ep-JQjCAsfoXEE/t-00-37-02.md) | factual | [⏳ Unverified](/claims/claim-dd865fbd1242.md) | Turning Point USA sent $8,560,625 ... to America's Turning Point |
+| [00:44:24](/timestamps/ep-JQjCAsfoXEE/t-00-43-52.md) | factual | [⏳ Unverified](/claims/claim-343d5db00e2d.md) | they cleared over $70 million in the first couple of weeks after Charlie Kirk wa... |
 
 </details>
 

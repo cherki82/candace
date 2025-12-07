@@ -3,9 +3,10 @@ title: "George Zinn announced as suspect in custody by Utah police 3..."
 claim_id: "claim-9e7f1ffe8b77"
 episode: "2WEHTk0Xewg"
 type: "factual"
+veracity: "false"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ❌ False
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,14 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
+**Confidence:** High
+**Source:** [George Zinn, arrested on suspicion of obstruction after Charlie Kirk shooting, is widely known Utah political ‘gadfly’](https://www.sltrib.com/news/2025/09/10/george-zinn-what-we-know-about-man/)
+
+### Analysis
+
+Multiple reliable news sources, including the Salt Lake Tribune (published approximately 4.5 hours after the shooting), The Hill, BBC, and others, report on George Zinn's arrest and role, with publication times starting several hours post-shooting (shooting at 12:23 p.m. MT on September 10, 2025). No primary sources, such as official Utah police statements or news reports, indicate an announcement 30 minutes after the shooting; official details emerged later, contradicting the claim's timeline.
 
 ## Follow-up
 

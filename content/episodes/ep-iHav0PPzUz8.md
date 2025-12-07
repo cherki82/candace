@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=iHav0PPzUz8"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -344,19 +346,19 @@ youtube_url: "https://www.youtube.com/watch?v=iHav0PPzUz8"
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
-| [00:00:13](/timestamps/ep-iHav0PPzUz8/t-00-00-00.md) | factual | [-](/claims/claim-95611ec2fd0e.md) | there were some Egyptian military men that were on the ground on September 10th ... |
-| [00:01:44](/timestamps/ep-iHav0PPzUz8/t-00-01-22.md) | factual | [-](/claims/claim-16182bf2dacf.md) | This plane departed from the Biggs Army Airfield at 6:13 a.m. ... dipped down to... |
-| [00:03:38](/timestamps/ep-iHav0PPzUz8/t-00-03-31.md) | factual | [-](/claims/claim-ee8eeabc3420.md) | that dip took place approximately 26 minutes after Charlie Kirk was assassinated |
-| [00:04:12](/timestamps/ep-iHav0PPzUz8/t-00-03-31.md) | factual | [-](/claims/claim-0bda15589f0f.md) | the plane is owned by a certain LSAI LLC |
-| [00:05:40](/timestamps/ep-iHav0PPzUz8/t-00-04-55.md) | factual | [-](/claims/claim-4febec1d1b64.md) | Tyler Robinson was not on the Woodbury Building or on campus at all |
-| [00:05:46](/timestamps/ep-iHav0PPzUz8/t-00-05-40.md) | factual | [-](/claims/claim-a396e5d16235.md) | the plane departed from Provo, Utah at 1:20 p.m. local time |
-| [00:07:30](/timestamps/ep-iHav0PPzUz8/t-00-07-05.md) | factual | [-](/claims/claim-eea8c78c54da.md) | the extensive efforts by law enforcement to locate Mr. Kirk's killer will be swi... |
-| [00:10:13](/timestamps/ep-iHav0PPzUz8/t-00-09-53.md) | factual | [-](/claims/claim-96ce9bbf64fa.md) | airport personnel had been instructed to lie |
-| [00:12:21](/timestamps/ep-iHav0PPzUz8/t-00-11-49.md) | factual | [-](/claims/claim-30523245d159.md) | an Egyptian Air Force plane took off from Provo, Utah airport ... arrived on Sep... |
-| [00:12:29](/timestamps/ep-iHav0PPzUz8/t-00-11-49.md) | factual | [-](/claims/claim-865d3489a323.md) | Egyptian military plane had previously only ever been to the United States twice... |
-| [00:15:23](/timestamps/ep-iHav0PPzUz8/t-00-15-02.md) | factual | [-](/claims/claim-22a3e943e751.md) | that plane was carrying military subcontractors. And ... they were dropped off i... |
-| [00:16:07](/timestamps/ep-iHav0PPzUz8/t-00-15-42.md) | factual | [-](/claims/claim-3ea317bb6399.md) | they did not make it back to Cairo ... those people were mysteriously missing fr... |
-| [00:21:29](/timestamps/ep-iHav0PPzUz8/t-00-21-04.md) | factual | [-](/claims/claim-0c047343e52b.md) | Kash Patel shuts down Charlie Kirk foreign intelligence probe |
+| [00:00:13](/timestamps/ep-iHav0PPzUz8/t-00-00-00.md) | factual | [❌ False](/claims/claim-95611ec2fd0e.md) | there were some Egyptian military men that were on the ground on September 10th ... |
+| [00:01:44](/timestamps/ep-iHav0PPzUz8/t-00-01-22.md) | factual | [❓ Unverifiable](/claims/claim-16182bf2dacf.md) | This plane departed from the Biggs Army Airfield at 6:13 a.m. ... dipped down to... |
+| [00:03:38](/timestamps/ep-iHav0PPzUz8/t-00-03-31.md) | factual | [❓ Unverifiable](/claims/claim-ee8eeabc3420.md) | that dip took place approximately 26 minutes after Charlie Kirk was assassinated |
+| [00:04:12](/timestamps/ep-iHav0PPzUz8/t-00-03-31.md) | factual | [❓ Unverifiable](/claims/claim-0bda15589f0f.md) | the plane is owned by a certain LSAI LLC |
+| [00:05:40](/timestamps/ep-iHav0PPzUz8/t-00-04-55.md) | factual | [❌ False](/claims/claim-4febec1d1b64.md) | Tyler Robinson was not on the Woodbury Building or on campus at all |
+| [00:05:46](/timestamps/ep-iHav0PPzUz8/t-00-05-40.md) | factual | [❓ Unverifiable](/claims/claim-a396e5d16235.md) | the plane departed from Provo, Utah at 1:20 p.m. local time |
+| [00:07:30](/timestamps/ep-iHav0PPzUz8/t-00-07-05.md) | factual | [❌ False](/claims/claim-eea8c78c54da.md) | the extensive efforts by law enforcement to locate Mr. Kirk's killer will be swi... |
+| [00:10:13](/timestamps/ep-iHav0PPzUz8/t-00-09-53.md) | factual | [❓ Unverifiable](/claims/claim-96ce9bbf64fa.md) | airport personnel had been instructed to lie |
+| [00:12:21](/timestamps/ep-iHav0PPzUz8/t-00-11-49.md) | factual | [✅ True](/claims/claim-30523245d159.md) | an Egyptian Air Force plane took off from Provo, Utah airport ... arrived on Sep... |
+| [00:12:29](/timestamps/ep-iHav0PPzUz8/t-00-11-49.md) | factual | [❓ Unverifiable](/claims/claim-865d3489a323.md) | Egyptian military plane had previously only ever been to the United States twice... |
+| [00:15:23](/timestamps/ep-iHav0PPzUz8/t-00-15-02.md) | factual | [❓ Unverifiable](/claims/claim-22a3e943e751.md) | that plane was carrying military subcontractors. And ... they were dropped off i... |
+| [00:16:07](/timestamps/ep-iHav0PPzUz8/t-00-15-42.md) | factual | [❓ Unverifiable](/claims/claim-3ea317bb6399.md) | they did not make it back to Cairo ... those people were mysteriously missing fr... |
+| [00:21:29](/timestamps/ep-iHav0PPzUz8/t-00-21-04.md) | factual | [✅ True](/claims/claim-0c047343e52b.md) | Kash Patel shuts down Charlie Kirk foreign intelligence probe |
 
 </details>
 

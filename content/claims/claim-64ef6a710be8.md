@@ -3,9 +3,10 @@ title: "trans shooting at Covenant Elementary School in Nashville......"
 claim_id: "claim-64ef6a710be8"
 episode: "YFmRH8p5lt0"
 type: "factual"
+veracity: "true"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ✅ True
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,14 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
+**Confidence:** High
+**Source:** [2023 Nashville school shooting - Wikipedia](https://en.wikipedia.org/wiki/2023_Nashville_school_shooting)
+
+### Analysis
+
+Multiple reliable sources, including Wikipedia, CNN, NPR, ABC News, and The New York Times, confirm that a mass shooting occurred on March 27, 2023, at The Covenant School (a private Christian elementary school) in Nashville, Tennessee. The shooter, 28-year-old Aiden Hale (born Audrey Hale), identified as transgender and killed three children and three adults before being killed by police. The claim's description of a 'trans shooting' aligns with the shooter's reported transgender identity, and the date and location are accurate.
 
 ## Follow-up
 

@@ -21,6 +21,8 @@ veracity: "true"
 
 ## Verification
 
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 **Confidence:** High
 **Source:** [Charlie Kirk's Security Chief: Campus Police Failed to Cover Rooftops as Promised Before Assassination](https://www.breitbart.com/tech/2025/11/22/charlie-kirks-security-chief-campus-police-failed-to-cover-rooftops-as-promised-before-assassination/)
 

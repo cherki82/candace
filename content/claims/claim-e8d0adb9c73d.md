@@ -21,6 +21,8 @@ veracity: "unverifiable"
 
 ## Verification
 
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 **Confidence:** Medium
 **Source:** [Lance Wallnau | Facebook](https://www.facebook.com/LanceWallnau/)
 

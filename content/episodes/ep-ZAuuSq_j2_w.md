@@ -11,6 +11,8 @@ youtube_url: "https://www.youtube.com/watch?v=ZAuuSq_j2_w"
 
 ---
 
+> **Note:** Transcripts are generated automatically using AI speech recognition and may contain errors. Speaker identification is approximate.
+
 <details open>
 <summary><h2>Transcript</h2></summary>
 
@@ -242,18 +244,18 @@ youtube_url: "https://www.youtube.com/watch?v=ZAuuSq_j2_w"
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
-| [00:03:30](/timestamps/ep-ZAuuSq_j2_w/t-00-03-07.md) | factual | [-](/claims/claim-b8c339da5d91.md) | Cam Higby is on the payroll of Turning Point USA, beginning in August of this ye... |
-| [00:13:56](/timestamps/ep-ZAuuSq_j2_w/t-00-13-44.md) | factual | [-](/claims/claim-1d62f8d57b9b.md) | SUBND was the one that was transponding on the ground at Duncan Aviation on the ... |
-| [00:14:06](/timestamps/ep-ZAuuSq_j2_w/t-00-13-44.md) | factual | [-](/claims/claim-2fb3be0bea26.md) | yellow plane carried on to Delaware—Wilmington, Delaware—that morning. |
-| [00:14:14](/timestamps/ep-ZAuuSq_j2_w/t-00-13-44.md) | factual | [-](/claims/claim-3e735ca4c700.md) | flight from Provo to Delaware on the yellow plane had only four people on board,... |
-| [00:14:42](/timestamps/ep-ZAuuSq_j2_w/t-00-14-25.md) | factual | [-](/claims/claim-1151445e4c77.md) | one of those individuals was using the name Walid Mahmood. |
-| [00:15:12](/timestamps/ep-ZAuuSq_j2_w/t-00-15-09.md) | factual | [-](/claims/claim-8797ba2eef8a.md) | Walid Mahmood came to Provo on May 27th of this year. |
-| [00:15:18](/timestamps/ep-ZAuuSq_j2_w/t-00-15-09.md) | factual | [-](/claims/claim-554ab0c3613f.md) | there is no transponder data which reflects that trip. |
-| [00:15:34](/timestamps/ep-ZAuuSq_j2_w/t-00-15-09.md) | factual | [-](/claims/claim-2ed5470fcf2f.md) | He was aboard another Egyptian military plane, and the tail number for that plan... |
-| [00:16:27](/timestamps/ep-ZAuuSq_j2_w/t-00-15-51.md) | factual | [-](/claims/claim-de43a19830d4.md) | the purple plane, SUBTU ... was once upon a time flown with the president of Egy... |
-| [00:16:52](/timestamps/ep-ZAuuSq_j2_w/t-00-16-27.md) | factual | [-](/claims/claim-90cecfb4eb22.md) | Egyptian President el-Sisi flew on SUBTU ... on April 3rd, 2023 ... aboard that ... |
-| [00:17:47](/timestamps/ep-ZAuuSq_j2_w/t-00-17-12.md) | factual | [-](/claims/claim-282e491095d6.md) | it was President al-Sisi that was aboard the jet on September 10th because he wa... |
-| [00:18:01](/timestamps/ep-ZAuuSq_j2_w/t-00-17-47.md) | factual | [-](/claims/claim-4ff0b2f6f0e5.md) | rule him out as having been the individual that was in Provo back in May because... |
+| [00:03:30](/timestamps/ep-ZAuuSq_j2_w/t-00-03-07.md) | factual | [⏳ Unverified](/claims/claim-b8c339da5d91.md) | Cam Higby is on the payroll of Turning Point USA, beginning in August of this ye... |
+| [00:13:56](/timestamps/ep-ZAuuSq_j2_w/t-00-13-44.md) | factual | [⏳ Unverified](/claims/claim-1d62f8d57b9b.md) | SUBND was the one that was transponding on the ground at Duncan Aviation on the ... |
+| [00:14:06](/timestamps/ep-ZAuuSq_j2_w/t-00-13-44.md) | factual | [⏳ Unverified](/claims/claim-2fb3be0bea26.md) | yellow plane carried on to Delaware—Wilmington, Delaware—that morning. |
+| [00:14:14](/timestamps/ep-ZAuuSq_j2_w/t-00-13-44.md) | factual | [⏳ Unverified](/claims/claim-3e735ca4c700.md) | flight from Provo to Delaware on the yellow plane had only four people on board,... |
+| [00:14:42](/timestamps/ep-ZAuuSq_j2_w/t-00-14-25.md) | factual | [⏳ Unverified](/claims/claim-1151445e4c77.md) | one of those individuals was using the name Walid Mahmood. |
+| [00:15:12](/timestamps/ep-ZAuuSq_j2_w/t-00-15-09.md) | factual | [⏳ Unverified](/claims/claim-8797ba2eef8a.md) | Walid Mahmood came to Provo on May 27th of this year. |
+| [00:15:18](/timestamps/ep-ZAuuSq_j2_w/t-00-15-09.md) | factual | [⏳ Unverified](/claims/claim-554ab0c3613f.md) | there is no transponder data which reflects that trip. |
+| [00:15:34](/timestamps/ep-ZAuuSq_j2_w/t-00-15-09.md) | factual | [⏳ Unverified](/claims/claim-2ed5470fcf2f.md) | He was aboard another Egyptian military plane, and the tail number for that plan... |
+| [00:16:27](/timestamps/ep-ZAuuSq_j2_w/t-00-15-51.md) | factual | [⏳ Unverified](/claims/claim-de43a19830d4.md) | the purple plane, SUBTU ... was once upon a time flown with the president of Egy... |
+| [00:16:52](/timestamps/ep-ZAuuSq_j2_w/t-00-16-27.md) | factual | [⏳ Unverified](/claims/claim-90cecfb4eb22.md) | Egyptian President el-Sisi flew on SUBTU ... on April 3rd, 2023 ... aboard that ... |
+| [00:17:47](/timestamps/ep-ZAuuSq_j2_w/t-00-17-12.md) | factual | [⏳ Unverified](/claims/claim-282e491095d6.md) | it was President al-Sisi that was aboard the jet on September 10th because he wa... |
+| [00:18:01](/timestamps/ep-ZAuuSq_j2_w/t-00-17-47.md) | factual | [⏳ Unverified](/claims/claim-4ff0b2f6f0e5.md) | rule him out as having been the individual that was in Provo back in May because... |
 
 </details>
 

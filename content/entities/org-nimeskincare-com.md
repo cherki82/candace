@@ -15,6 +15,8 @@ _Type: Organizations_
 
 **Also known as:** NimeeSkincare.com, NIMEESKINCARE.COM, Nimee Skincare, Neeme's Sunshine Tallow Cream, Buzzin' Tallow Balm, NIME SKINCARE
 
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
 ## Mentions
 
 ### [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)

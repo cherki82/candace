@@ -3,9 +3,10 @@ title: "Cam Higby is on the payroll of Turning Point USA, beginning ..."
 claim_id: "claim-b8c339da5d91"
 episode: "ZAuuSq_j2_w"
 type: "factual"
+veracity: "unverified"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ⏳ Unverified
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,8 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 
 ## Follow-up
 

@@ -3,9 +3,10 @@ title: "Sigmund Freud was a member of B'nai B'rith."
 claim_id: "claim-bc98eca43dc1"
 episode: "t1YtLS1n8Vs"
 type: "factual"
+veracity: "true"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ✅ True
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,14 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
+**Confidence:** High
+**Source:** [Address to the Society of B'Nai B'Rith](https://pep-web.org/search/document/SE.020.0271A)
+
+### Analysis
+
+Multiple reliable sources, including academic articles from PubMed, PEP-Web, and historical archives from the Center for Jewish History, confirm that Sigmund Freud was a member of the B'nai B'rith organization in Vienna from 1897 until 1938. He delivered lectures and addresses to the group, as documented in primary texts and scholarly analyses.
 
 ## Follow-up
 

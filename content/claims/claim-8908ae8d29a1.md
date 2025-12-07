@@ -3,9 +3,10 @@ title: "It took 33 hours for authorities to get their suspect."
 claim_id: "claim-8908ae8d29a1"
 episode: "5autG89PW6w"
 type: "factual"
+veracity: "true"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ✅ True
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,14 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
+**Confidence:** High
+**Source:** [Charlie Kirk shooting: An unlikely end to the 33-hour hunt for suspect](https://www.bbc.com/news/articles/c784end1wxvo)
+
+### Analysis
+
+Multiple established news sources, including BBC, NPR, and Wikipedia, confirm that the manhunt for suspect Tyler Robinson in the Charlie Kirk shooting lasted 33 hours, directly supporting the claim. For example, BBC explicitly describes it as a '33-hour hunt,' and NPR notes the suspect was detained less than 36 hours after the shooting, aligning with the timeline.
 
 ## Follow-up
 

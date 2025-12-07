@@ -3,9 +3,10 @@ title: "House where Tyler Robinson lived with Lance Twiggs is owned ..."
 claim_id: "claim-7e73a3ae8ef6"
 episode: "q7f8r-THr84"
 type: "factual"
+veracity: "unverified"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ⏳ Unverified
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,8 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 
 ## Follow-up
 
