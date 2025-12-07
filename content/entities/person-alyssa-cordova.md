@@ -8,17 +8,17 @@ _Type: People_
 
 ## Mentions
 
-### [ep-YaZfwLQ7vrI](/episodes/ep-YaZfwLQ7vrI.md)
+### [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 
 - [00:33:00](/episodes/ep-YaZfwLQ7vrI.md#^t-00-32-33)
   > "...ut that. I very much like Allie (Allie Beth Stuckey) Stuckey. I'm very surprised she's working with Alyssa Cordova, but she's also in very rare form. I don't know what's driving that. And she kind of—I guess—I don'..."
 
-### [ep-r1PS67aRmcA](/episodes/ep-r1PS67aRmcA.md)
+### [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
 
 - [00:28:09](/episodes/ep-r1PS67aRmcA.md#^t-00-27-50)
   > "...nic. They'll send people to your events and they will have people applaud. That was orchestrated by Alyssa Cordova. Now that she's not at the Daily Wire, I can say that who I was calling out yesterday, but it's so ..."
 
-### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
+### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
 
 - [00:44:37](/episodes/ep-vwG1juDCQZQ.md#^t-00-44-37)
   > "...that. I don't love the crickets of these things. I will also mention that Allie has strangely hired Alyssa Cordova. And this is just not a match for me. Alyssa Cordova was formerly the PR person—head PR person at D..."

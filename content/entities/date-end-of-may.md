@@ -8,7 +8,7 @@ _Type: Dates_
 
 ## Mentions
 
-### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
+### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:15:51](/episodes/ep-ZAuuSq_j2_w.md#^t-00-15-51)
   > "...arlie (Charlie Kirk)'s assassination, but we now have a person that was on that purple plane at the end of May, and then he is going to be on that yellow plane again on the day of Charlie (Charlie Kirk)'s assas..."

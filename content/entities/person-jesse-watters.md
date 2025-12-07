@@ -12,7 +12,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-K1tFD7FfoCU](/episodes/ep-K1tFD7FfoCU.md)
+### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 
 - [00:00:36](/episodes/ep-K1tFD7FfoCU.md#^t-00-00-00)
   > "... in the last 24 to 48 hours—almost as though it's scripted. In other news, Erika Kirk sat down with Jesse Watters (Jesse Watters). Now the full interview has not yet aired, but it's already going viral. Just a pre..."
@@ -33,17 +33,17 @@ _Type: People_
 - [00:35:20](/episodes/ep-K1tFD7FfoCU.md#^t-00-35-20)
   > "... forward to obviously watching the interview that is going to premiere in two days on Fox News with Jesse Watters (Jesse Watters). I will certainly be watching now. Speaking of a lack of transparency, I am everyon..."
 
-### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
+### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 
 - [00:46:28](/episodes/ep-LATnak75Si0.md#^t-00-46-22)
   > "...l that some more points will be clarified tonight when the very anticipated interview drops between Jesse Watters and Erika Kirk. I will be watching. I am actually ecstatic to hear more from Erika. I know she's ob..."
 
-### [ep-pc3pxRyNFZk](/episodes/ep-pc3pxRyNFZk.md)
+### [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
 
 - [00:13:01](/episodes/ep-pc3pxRyNFZk.md#^t-00-12-44)
   > "...ly he was the person that was holding the mic when the shot rang out. Take a listen to what he told Jesse Watters (Jesse Watters) on the night of. (Clip: Cooper Brown) Cooper Brown was an event volunteer who was j..."
 
-### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
+### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
 
 - [00:00:51](/episodes/ep-vwG1juDCQZQ.md#^t-00-00-45)
   > "...ents from the heavily anticipated interview with Erika Kirk (Charlie Kirk's widow) on Fox News with Jesse Watters. So let's get started. Okay, first things first. Welcome to the number one podcast in the world. It..."
@@ -61,5 +61,5 @@ _Type: People_
 ### Interviewed
 
 - [Erika Kirk](/entities/person-erica-kirk.md)
-  - [ep-vwG1juDCQZQ @ 00:01:01](/episodes/ep-vwG1juDCQZQ.md#^t-00-00-45): "the heavily anticipated interview with Erika Kirk (Charlie Kirk's widow) on Fox News with Jesse Watters."
-  - [ep-K1tFD7FfoCU @ 00:00:36](/episodes/ep-K1tFD7FfoCU.md#^t-00-00-00): "Erika Kirk sat down with Jesse Watters (Jesse Watters)."
+  - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:01:01](/episodes/ep-vwG1juDCQZQ.md#^t-00-00-45): "the heavily anticipated interview with Erika Kirk (Charlie Kirk's widow) on Fox News with Jesse Watters."
+  - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:00:36](/episodes/ep-K1tFD7FfoCU.md#^t-00-00-00): "Erika Kirk sat down with Jesse Watters (Jesse Watters)."

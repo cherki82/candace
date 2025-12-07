@@ -8,12 +8,12 @@ _Type: People_
 
 ## Mentions
 
-### [ep-5autG89PW6w](/episodes/ep-5autG89PW6w.md)
+### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 
 - [00:20:58](/episodes/ep-5autG89PW6w.md#^t-00-20-43)
   > "...tly what Charlie (Charlie Kirk) would have done. So please, Andrew, make sure that Tyler Bowyer and Alex Clark get the internal memo about free speech. I wanna say one more thing rather explosively: Three peopl..."
 
-### [ep-JQjCAsfoXEE](/episodes/ep-JQjCAsfoXEE.md)
+### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 
 - [00:11:45](/episodes/ep-JQjCAsfoXEE.md#^t-00-11-07)
   > "... I've done multiple episodes now on Mikey, on Rob (Pastor Rob McCoy), speaking about Andrew Kolvet, Alex Clark. Why were they kept? Why do they keep going back to Erika? What is it about these Egyptian planes t..."
@@ -22,24 +22,24 @@ _Type: People_
 - [00:35:49](/episodes/ep-JQjCAsfoXEE.md#^t-00-35-34)
   > "...to establish DOGE, right? Tyler came out and lied, and he said, "This is just totally regular." And Alex Clark said, "Oh, every year since I've been here, this is what we do." And the guy starts this video by b..."
 
-### [ep-K1tFD7FfoCU](/episodes/ep-K1tFD7FfoCU.md)
+### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 
 - [00:27:47](/episodes/ep-K1tFD7FfoCU.md#^t-00-27-09)
   > "...y? People that are just lying about Charlie Kirk (Charlie Kirk). That was my reason for going after Alex Clark (Alex Clark). She lied about the Catholic thing. That was my reason for going after Andrew Kolvet (..."
 
-### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
+### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 
 - [00:16:05](/episodes/ep-MUA9ebCF4Ow.md#^t-00-15-57)
   > "... a committed evangelical who only liked Catholic architecture. That's a lie, told and reinforced by Alex Clark and Andrew Kolvet. Lie number three is that Charlie (Charlie Kirk)'s neck stopped a .30-06 bullet b..."
 - [00:17:25](/episodes/ep-MUA9ebCF4Ow.md#^t-00-17-25)
   > "...Ben Shapiro and Charlie (Charlie Kirk) never had any bad blood between them. The offender there was Alex Clark. Ben Shapiro was on her show, and I don't know why she tried that little bit of propaganda when she..."
 
-### [ep-Qt0VHV-POCg](/episodes/ep-Qt0VHV-POCg.md)
+### [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 
 - [00:29:31](/episodes/ep-Qt0VHV-POCg.md#^t-00-29-08)
   > "..., and I think it was right after memorial service—a couple of days after the memorial service—where Alex Clark released that interview with her and Andrew Kolvet, and they struggle-sessioned through that. They ..."
 
-### [ep-UBkFkg4UNY8](/episodes/ep-UBkFkg4UNY8.md)
+### [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 
 - [00:00:48](/episodes/ep-UBkFkg4UNY8.md#^t-00-00-32)
   > "...g to discuss Andrew Kolvet, the PR agent, close friend of Charlie (Charlie Kirk), who sat down with Alex Clark to answer questions pertaining to whether or not Charlie (Charlie Kirk) was converting to Catholici..."
@@ -50,19 +50,19 @@ _Type: People_
 - [00:30:40](/episodes/ep-UBkFkg4UNY8.md#^t-00-30-03)
   > "...t onto the Alex Clark podcast. Now it was kind of billed—I think people were expecting—but actually Alex Clark never did say that—that Erika Kirk was going to be the one to answer questions pertaining to Charli..."
 
-### [ep-YaZfwLQ7vrI](/episodes/ep-YaZfwLQ7vrI.md)
+### [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 
 - [00:57:13](/episodes/ep-YaZfwLQ7vrI.md#^t-00-56-54)
   > "...ng Charlie (Charlie Kirk). I was in a true stage of grief. I didn't offer a single interview. Well, Alex Clark figured out—she rumbled to me—that I spoke to CNN in a—I had already scheduled CNN for my book prom..."
 
-### [ep-ja26iltROkM](/episodes/ep-ja26iltROkM.md)
+### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 
 - [00:57:40](/episodes/ep-ja26iltROkM.md#^t-00-57-12)
   > "...o question that she knows everything. I saw people that were going: "Erika Kirk is going on—I think—Alex Clark's show." And they were tweeting it at me. I think it was Laura Loomer. She's totally wacky. "Oh, yo..."
 - [00:59:04](/episodes/ep-ja26iltROkM.md#^t-00-58-36)
   > "...sed. And so I'm excited to hear her speak about the pressure that he was under—as was alluded to by Alex Clark—to speak about whether or not he was offered more money—whether he lost money, which he did. I was ..."
 
-### [ep-ozWJz2spBcI](/episodes/ep-ozWJz2spBcI.md)
+### [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
 
 - [00:00:34](/episodes/ep-ozWJz2spBcI.md#^t-00-00-00)
   > "...ler Bowyer, went on a little bit of an X binge. I don't recommend it, which was then highlighted by Alex Clark, who has a show over there on Instagram. And I think it's therefore fair for us to turn our attenti..."
@@ -81,7 +81,7 @@ _Type: People_
 - [00:37:26](/episodes/ep-ozWJz2spBcI.md#^t-00-37-26)
   > "...tle blurb from this article. Again, published September 18th. (Wall Street Journal article quote:) "Alex Clark was about to head to the airport for a work trip to celebrate the first anniversary of her podcast ..."
 
-### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
+### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
 
 - [00:24:02](/episodes/ep-vwG1juDCQZQ.md#^t-00-23-38)
   > "...l you got a stage. Okay. And people started going, "Lie, lie, lie, lie, lie." Right. Case in point: Alex Clark wanted to do the Wall Street Journal thing until I caught like this little lie. And it's like: what..."
@@ -97,9 +97,9 @@ _Type: People_
 ### Interviewed
 
 - [Andrew Kolvet](/entities/person-andrew-kolvet.md)
-  - [ep-UBkFkg4UNY8 @ 00:00:48](/episodes/ep-UBkFkg4UNY8.md#^t-00-00-32): "Andrew Kolvet, the PR agent, close friend of Charlie (Charlie Kirk), who sat down with Alex Clark to answer questions pertaining to whether or not Charlie (Charlie Kirk) was converting to Catholicism and whether or not he was offered $150 million from Israel."
+  - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:00:48](/episodes/ep-UBkFkg4UNY8.md#^t-00-00-32): "Andrew Kolvet, the PR agent, close friend of Charlie (Charlie Kirk), who sat down with Alex Clark to answer questions pertaining to whether or not Charlie (Charlie Kirk) was converting to Catholicism and whether or not he was offered $150 million from Israel."
 
 ### Works At
 
 - [Turning Point USA](/entities/org-turning-point-usa.md)
-  - [ep-ozWJz2spBcI @ 00:00:34](/episodes/ep-ozWJz2spBcI.md#^t-00-00-00): "highlighted by Alex Clark, who has a show over there on Instagram"
+  - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:34](/episodes/ep-ozWJz2spBcI.md#^t-00-00-00): "highlighted by Alex Clark, who has a show over there on Instagram"

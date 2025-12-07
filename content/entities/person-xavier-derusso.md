@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-K5GjF53bfN4](/episodes/ep-K5GjF53bfN4.md)
+### [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 
 - [00:03:47](/episodes/ep-K5GjF53bfN4.md#^t-00-03-26)
   > "... of a PR crisis going on, the response tweets that were fashioned, they were sort of getting funny. Xavier DeRusso was there. I had reached out to him. He had, rather than answering me, messaged me to say, "I am sp..."

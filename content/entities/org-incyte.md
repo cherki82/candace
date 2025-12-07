@@ -8,7 +8,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
+### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:32:55](/episodes/ep-tB5SXXmd9vU.md#^t-00-32-32)
   > "... is happening online, except for the fact that apparently a global biopharmaceutical company called Incyte owns it, okay? If they're using this construction site, it seems to me that they're doing it to buy..."
@@ -24,17 +24,17 @@ _Type: Organizations_
 ### Affiliated With
 
 - [Department of Veterans Affairs](/entities/org-va.md)
-  - [ep-tB5SXXmd9vU @ 00:34:23](/episodes/ep-tB5SXXmd9vU.md#^t-00-33-53): ""Incyte... is also plugged directly into the federal medical supply chains, which include our VA systems...""
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:34:23](/episodes/ep-tB5SXXmd9vU.md#^t-00-33-53): ""Incyte... is also plugged directly into the federal medical supply chains, which include our VA systems...""
 
 ### Owns
 
 - [Bracebridge Complex](/entities/org-bracebridge-complex.md)
-  - [ep-tB5SXXmd9vU @ 00:32:55](/episodes/ep-tB5SXXmd9vU.md#^t-00-32-32): ""...apparently a global biopharmaceutical company called Incyte owns it...""
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:32:55](/episodes/ep-tB5SXXmd9vU.md#^t-00-32-32): ""...apparently a global biopharmaceutical company called Incyte owns it...""
 
 ### Referenced By
 
 - [Hervé Hoppenot](/entities/person-herve-hoppenot.md) **advisor to** this
-  - [ep-tB5SXXmd9vU @ 00:33:53](/episodes/ep-tB5SXXmd9vU.md#^t-00-33-10)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:33:53](/episodes/ep-tB5SXXmd9vU.md#^t-00-33-10)
 - [Hervé Hoppenot](/entities/person-herve-hoppenot.md) **ceo of** this
-  - [ep-tB5SXXmd9vU @ 00:33:39](/episodes/ep-tB5SXXmd9vU.md#^t-00-33-10)
-  - [ep-tB5SXXmd9vU @ 00:33:45](/episodes/ep-tB5SXXmd9vU.md#^t-00-33-10)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:33:39](/episodes/ep-tB5SXXmd9vU.md#^t-00-33-10)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:33:45](/episodes/ep-tB5SXXmd9vU.md#^t-00-33-10)

@@ -8,12 +8,12 @@ _Type: Places_
 
 ## Mentions
 
-### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
+### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 
 - [00:52:22](/episodes/ep-MUA9ebCF4Ow.md#^t-00-52-05)
   > "...ple complain about how these people have nowhere to go. "I can't believe that Israel is taking over Syria, and now there's all these Syrian refugees." I can't believe Israel—it's just—they're expanding the..."
 
-### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
+### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:43:00](/episodes/ep-a-e7HC6SeK8.md#^t-00-42-29)
   > "...was going on that week involved— of course—France, right? America, France, Israel, the Middle East, Syria, Russia— and this is the Syria before Israel and the United States overthrew Assad. What was going ..."

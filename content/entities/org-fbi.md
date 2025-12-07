@@ -12,12 +12,12 @@ _Type: Organizations_
 
 ## Mentions
 
-### [ep-2Riv3I7D0Yk](/episodes/ep-2Riv3I7D0Yk.md)
+### [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
 
 - [01:01:42](/episodes/ep-2Riv3I7D0Yk.md#^t-01-01-42)
   > "... you first of all about Home Title Lock because if you are a homeowner, need to listen to this. The FBI has been warning homeowners about a type of real estate fraud on the rise, which is title theft. Th..."
 
-### [ep-2WEHTk0Xewg](/episodes/ep-2WEHTk0Xewg.md)
+### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 
 - [00:17:34](/episodes/ep-2WEHTk0Xewg.md#^t-00-17-34)
   > "...ee here, and we need to demand answers, okay? So on September 11th, we are presented with the first FBI press conference where they confirm that they have found a weapon in the woods. Let's take a listen..."
@@ -32,14 +32,14 @@ _Type: Organizations_
 - [00:28:24](/episodes/ep-2WEHTk0Xewg.md#^t-00-27-57)
   > "...Office and scene investigators at Utah Valley University. This information was also conveyed to the FBI. Investigators reviewed additional video footage from UVU surveillance and identified Robinson arri..."
 
-### [ep-581dILVcEE4](/episodes/ep-581dILVcEE4.md)
+### [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
 
 - [00:10:23](/episodes/ep-581dILVcEE4.md#^t-00-10-23)
   > "...oe Kent and Tulsi Gabbard—who are warring, or at least that's what the press said, warring with the FBI, or warring with Kash Patel—could look into. Because this is Egyptian, okay? This is Egyptian. And ..."
 - [00:12:37](/episodes/ep-581dILVcEE4.md#^t-00-12-18)
   > "...Wednesday at noon, a week before the shooting. He told CNN that he reported his observations to the FBI tip line after the shooting, but he has not heard back. The student described the man as tall, skin..."
 
-### [ep-K1tFD7FfoCU](/episodes/ep-K1tFD7FfoCU.md)
+### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 
 - [00:35:37](/episodes/ep-K1tFD7FfoCU.md#^t-00-35-20)
   > "...sh Patel), had him on his show, really pushed for him to get the role that he is in—director of the FBI—and he has just been terrible in this case. He just has been objectively, okay? Everything that we ..."
@@ -58,14 +58,14 @@ _Type: Organizations_
 - [00:46:33](/episodes/ep-K1tFD7FfoCU.md#^t-00-46-33)
   > "...ame—but it was in Connecticut: similar story. He somehow hacked the government system, and then the FBI showed up at his door, and then he was a part of some Yale program. I think it's Adam Lanza (Adam L..."
 
-### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
+### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 
 - [00:36:47](/episodes/ep-MUA9ebCF4Ow.md#^t-00-36-22)
   > "... to step down. There's no other option here. In case you missed it: Kash Patel, the director of the FBI who represents America on the world stage, right? We are already not being taken very seriously, bu..."
 - [00:38:45](/episodes/ep-MUA9ebCF4Ow.md#^t-00-38-29)
   > "... a photo, and the lawsuit goes on and says, "Ever since Kash Patel was appointed as director of the FBI in February of 2025, the conspiratorial corners of the internet and social media have been spreadin..."
 
-### [ep-QZWSsq8ZWzw](/episodes/ep-QZWSsq8ZWzw.md)
+### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 
 - [00:00:05](/episodes/ep-QZWSsq8ZWzw.md#^t-00-00-01)
   > "...s Wednesday, and I have a lot for you today. Because you're not gonna be surprised to hear that the FBI is FBI-ing. That's what they do. And that's what they want to happen with the Charlie Kirk case. Of..."
@@ -78,7 +78,7 @@ _Type: Organizations_
 - [00:44:45](/episodes/ep-QZWSsq8ZWzw.md#^t-00-44-45)
   > "... when they established this system. Recovery Recon writes: "Is it not weird that within minutes the FBI posted pics of the ammo with 'anti-ICE' from today and showed us pics of the windows with the holes..."
 
-### [ep-Qt0VHV-POCg](/episodes/ep-Qt0VHV-POCg.md)
+### [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 
 - [00:00:46](/episodes/ep-Qt0VHV-POCg.md#^t-00-00-46)
   > "... with the Trump family, Don Jr. (Donald Trump Jr.) has come out to share his feelings regarding the FBI investigation. And man, oh man, you guys, I just am wondering how deep this thing really goes becau..."
@@ -89,7 +89,7 @@ _Type: Organizations_
 - [00:34:13](/episodes/ep-Qt0VHV-POCg.md#^t-00-34-09)
   > "... Just to round back, do you have confidence in the investigation? Should we have confidence in this FBI investigating? DON JR.: I do. I mean, I don't know. I don't know, but I've spoken to everyone aroun..."
 
-### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
+### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:15:41](/episodes/ep-SKGUzGHymcI.md#^t-00-15-37)
   > "...heck the address in the Google info panel. You will likely get 920 North King Street with the label Federal Bureau of Investigation. Instead of the public FBI address that's at 500 Delaware Avenue, Suite 300, which is just a bank t..."
@@ -114,7 +114,7 @@ _Type: Organizations_
 - [00:52:31](/episodes/ep-SKGUzGHymcI.md#^t-00-51-52)
   > "...ely unserious government will ever prosecute Charlie (Charlie Kirk)'s killers? If not, Kash Patel's FBI may be the next. I am having a hard time taking politics seriously since Charlie (Charlie Kirk)'s d..."
 
-### [ep-UBkFkg4UNY8](/episodes/ep-UBkFkg4UNY8.md)
+### [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 
 - [00:21:56](/episodes/ep-UBkFkg4UNY8.md#^t-00-21-56)
   > "...ou're waiting for responses, and... What he said to me completely betrays the narrative of what the FBI has put out. I am working to quadruple confirm exactly who this individual is. But he was very much..."
@@ -125,7 +125,7 @@ _Type: Organizations_
 - [00:25:36](/episodes/ep-UBkFkg4UNY8.md#^t-00-25-13)
   > "...ause I know that a part of this entire thing was our upset at kind of being taken for a ride by the FBI. It makes no sense to me that they wouldn't share those details immediately while this manhunt was ..."
 
-### [ep-YA1FxrDWNIo](/episodes/ep-YA1FxrDWNIo.md)
+### [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 
 - [00:31:45](/episodes/ep-YA1FxrDWNIo.md#^t-00-31-28)
   > "...o of them were in Utah—dispersed throughout the month. It is also interesting to note that the Utah FBI also got a brand-new set of employees—the state FBI department. Kash Patel went ahead and fired not..."
@@ -134,12 +134,12 @@ _Type: Organizations_
 - [00:46:00](/episodes/ep-YA1FxrDWNIo.md#^t-00-45-44)
   > "...m Charlie (Charlie Kirk)." "It's good; we're gonna accept the narrative." "We're just gonna let the FBI do what the FBI does, and we're just gonna pretend these glaring, obvious lies and holes mean nothi..."
 
-### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
+### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 
 - [00:50:34](/episodes/ep-YFmRH8p5lt0.md#^t-00-50-18)
   > "...hat they're doing. Kash Patel. Charlie (Charlie Kirk) had him on his show. Kash Patel should be the FBI director. He fought for that. Look how Kash Patel is acting. Right—33 hours. Wink wink. Freemasons...."
 
-### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
+### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:00:18](/episodes/ep-a-e7HC6SeK8.md#^t-00-00-00)
   > "...rday we were explaining to you guys this sort of random coincidence—maybe not a coincidence— of the FBI seemingly choosing to work in offices that are kind of being run by, like, French royalty, in essen..."
@@ -158,12 +158,12 @@ _Type: Organizations_
 - [00:49:56](/episodes/ep-a-e7HC6SeK8.md#^t-00-49-20)
   > "... tell you guys about Home Title Lock because if you are a homeowner, you should listen to this. The FBI has been warning homeowners about this type of real estate fraud that's on the rise—which is title ..."
 
-### [ep-aDlhjfW6hz8](/episodes/ep-aDlhjfW6hz8.md)
+### [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 
 - [00:45:55](/episodes/ep-aDlhjfW6hz8.md#^t-00-45-39)
   > "... with me. If not, I will see you after the war, my love." Why is that so accurate? What went wrong, FBI? What went wrong? Speak to us. Let us help you. You guys are just old. Like, what's going on? I act..."
 
-### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
+### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
 
 - [00:01:00](/episodes/ep-adJ4LNGp84I.md#^t-00-00-36)
   > "...hooter in the footage that was captured by the houses nearby the area. And for whatever reason, the FBI has not yet released or even acknowledged that that footage exists. This is absolutely huge, actual..."
@@ -190,7 +190,7 @@ _Type: Organizations_
 - [00:47:33](/episodes/ep-adJ4LNGp84I.md#^t-00-47-25)
   > "...: the FBI just cut ties with the ADL after Turning Point USA criticism. They share a building—just, FBI and ADL share a building. They're one and the same. I hope you guys know that. They share a buildin..."
 
-### [ep-czVBmqZP6Ss](/episodes/ep-czVBmqZP6Ss.md)
+### [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 
 - [00:36:23](/episodes/ep-czVBmqZP6Ss.md#^t-00-36-23)
   > "...re hearing, is pretty much all of us right now. Take a listen. (Clip: Michael Savage) The so-called FBI, something's wrong. I know I shouldn't do this. I'm risking an awful lot to go up against this FBI,..."
@@ -207,7 +207,7 @@ _Type: Organizations_
 - [00:51:29](/episodes/ep-czVBmqZP6Ss.md#^t-00-51-05)
   > "...ommate was indeed a boyfriend who is transitioning from male to female. That's information that the FBI had mentioned yesterday. We can confirm that as well, and that he is cooperating with authorities a..."
 
-### [ep-ja26iltROkM](/episodes/ep-ja26iltROkM.md)
+### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 
 - [00:15:13](/episodes/ep-ja26iltROkM.md#^t-00-15-13)
   > "...a capitulation to online sleuths. He tweeted this. (Kash Patel tweet) "Here, as the Director of the FBI, I am committed to ensuring the investigation into Charlie Kirk's (Charlie Kirk's) assassination is..."
@@ -224,7 +224,7 @@ _Type: Organizations_
 - [00:56:01](/episodes/ep-ja26iltROkM.md#^t-00-55-47)
   > "...hy didn't the local police department treat it like it was a crime scene? Two: on what basis is the FBI involved?" That's a good point. "Three: intel recruits heavily from the LDS—that is a fact—Latter-d..."
 
-### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
+### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:06:34](/episodes/ep-mKXdKV-OBog.md#^t-00-06-30)
   > "...kota. Why stop there at all on the fourth? Why not fly direct to Provo? Not only does Minot have an FBI office, but it also has an Air Force base among other tenants. That Air Force base is home to the 8..."
@@ -233,31 +233,31 @@ _Type: Organizations_
 - [00:42:42](/episodes/ep-mKXdKV-OBog.md#^t-00-42-07)
   > "...es: "I really, really want to believe that Charlie (Charlie Kirk) is in witness protection—that the FBI and the POTUS set it up to catch Bibi (Benjamin Netanyahu). Christ is King will always be king. Lov..."
 
-### [ep-ozWJz2spBcI](/episodes/ep-ozWJz2spBcI.md)
+### [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
 
 - [00:21:59](/episodes/ep-ozWJz2spBcI.md#^t-00-21-37)
   > "... videos about, 'Why did he grab the SD cards?' Well, first of all, they're in the possession of the FBI. Okay. It's not like he took them and like ran off with them. Second of all, I asked him personally..."
 - [00:38:26](/episodes/ep-ozWJz2spBcI.md#^t-00-38-10)
   > "... then MAGA? What are we missing here? Does that feel okay at all? It goes on to say she praises the FBI director, Kash Patel, and his deputy Dan Bongino for their leadership in the hunt for the suspect. ..."
 
-### [ep-pc3pxRyNFZk](/episodes/ep-pc3pxRyNFZk.md)
+### [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
 
 - [00:24:29](/episodes/ep-pc3pxRyNFZk.md#^t-00-24-13)
   > "... he's been honest about his background. His parents are in the government. They're literally in the FBI. So he's telling you that shot was closer. So what gives? Also, why is everybody telling lies? I wa..."
 
-### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
+### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
 
 - [00:06:16](/episodes/ep-sImMM04XdWY.md#^t-00-06-16)
   > "...was then discreetly moved to 920 King Street, which we've learned and confirmed houses the DEA, the FBI, and the Secret Service. Quite rare, right? Quite rare for the Department of Justice to be coming t..."
 - [00:50:13](/episodes/ep-sImMM04XdWY.md#^t-00-50-01)
   > "...guys. Ms. Mint Julips writes: "You plus your unseen squad equals fire, and you are appreciated. The FBI has no integrity. That's why they never tried to recruit you. If I had a niece like you, I'd be cra..."
 
-### [ep-sreYYcID-QY](/episodes/ep-sreYYcID-QY.md)
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 
 - [00:49:57](/episodes/ep-sreYYcID-QY.md#^t-00-49-21)
   > "...o, telling you about Home Title Lock because if you are a homeowner, you should listen to this. The FBI has been warning homeowners about a type of real estate fraud that's on the rise, which is title th..."
 
-### [ep-t1YtLS1n8Vs](/episodes/ep-t1YtLS1n8Vs.md)
+### [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
 
 - [00:10:17](/episodes/ep-t1YtLS1n8Vs.md#^t-00-09-50)
   > "... from the FBI, FBI Director Patel, regarding the FBI's relationship.” “ADL has deep respect for the Federal Bureau of Investigation and law enforcement officers at all levels across the country who work tirelessly every single day ..."
@@ -290,7 +290,7 @@ _Type: Organizations_
 - [00:44:44](/episodes/ep-t1YtLS1n8Vs.md#^t-00-44-21)
   > "...rust them at all. I hope having learned the origin story of the ADL and their relationship with the FBI, you realize that. Go read that book about Mary Phagan written by Mary Phagan, a descendant with he..."
 
-### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
+### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:09:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-08-40)
   > "... I report it to the White House? Of course I reported it to the White House. Did I report it to the FBI? Of course I reported it to the FBI. Did I report it to our counter-terrorism unit? Of course I rep..."
@@ -311,7 +311,7 @@ _Type: Organizations_
 - [00:32:41](/episodes/ep-tB5SXXmd9vU.md#^t-00-32-32)
   > "...MG+M has many employees that are either fluent in French or are connected to France altogether. The FBI apparently has Suite 300 and MG+M has Suite 200, which I believe is exactly right below where the F..."
 
-### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
+### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
 
 - [00:57:54](/episodes/ep-vwG1juDCQZQ.md#^t-00-57-54)
   > "...hese weird analogies like: "I just think they got to look at his hard drive." I'm going to call the FBI. I'm going to call the FBI. I'm going to call Kash Patel if he's done crying about the mean tweets ..."
@@ -320,7 +320,7 @@ _Type: Organizations_
 - [00:58:05](/episodes/ep-vwG1juDCQZQ.md#^t-00-57-54)
   > "...he's done crying about the mean tweets on the internet for his girlfriend—and I'm going to call the FBI. Anyways, going back into some of your comments: we have Just Keep in Faith writes: "When you said ..."
 
-### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
+### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:46:40](/episodes/ep-yAIb-NuUh_U.md#^t-00-46-40)
   > "...take it away, Tim Dillon. Can we get any of her music up or will we get a copyright strike from the FBI? If we play Kash Patel's girlfriend's country music, will we get a copyright strike from the feds? ..."
@@ -332,12 +332,12 @@ _Type: Organizations_
 ### Affiliated With
 
 - [Anti-Defamation League](/entities/org-anti-defamation-league.md)
-  - [ep-t1YtLS1n8Vs @ 00:09:14](/episodes/ep-t1YtLS1n8Vs.md#^t-00-09-05): "The FBI and the ADL had a partnership, sharing intel."
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:09:14](/episodes/ep-t1YtLS1n8Vs.md#^t-00-09-05): "The FBI and the ADL had a partnership, sharing intel."
 
 ### Referenced By
 
 - [Charles Joseph Bonaparte](/entities/person-charles-joseph-bonaparte.md) **founded** this
-  - [ep-a-e7HC6SeK8 @ 00:04:29](/episodes/ep-a-e7HC6SeK8.md#^t-00-04-18)
-  - [ep-a-e7HC6SeK8 @ 00:04:29](/episodes/ep-a-e7HC6SeK8.md#^t-00-04-18)
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:04:29](/episodes/ep-a-e7HC6SeK8.md#^t-00-04-18)
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:04:29](/episodes/ep-a-e7HC6SeK8.md#^t-00-04-18)
 - [Kash Patel](/entities/person-kash-patel.md) **works at** this
-  - [ep-ja26iltROkM @ 00:15:13](/episodes/ep-ja26iltROkM.md#^t-00-14-38)
+  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:15:13](/episodes/ep-ja26iltROkM.md#^t-00-14-38)

@@ -8,12 +8,12 @@ _Type: Places_
 
 ## Mentions
 
-### [ep-2Riv3I7D0Yk](/episodes/ep-2Riv3I7D0Yk.md)
+### [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
 
 - [00:35:15](/episodes/ep-2Riv3I7D0Yk.md#^t-00-34-57)
   > "...at he's on this Zoom call—this is a fact—this night Zoom call, as Josh says it was at night, or the New York Post reported, I think, right, that it was at night—that at the same time, that same day, he's text..."
 
-### [ep-2WEHTk0Xewg](/episodes/ep-2WEHTk0Xewg.md)
+### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 
 - [00:18:20](/episodes/ep-2WEHTk0Xewg.md#^t-00-18-10)
   > "... have after that 7 a.m. press conference is that exclusively our guys—our resident guys over at the New York Post (every exclusive ever: Jeffrey Epstein's death pictures, Ghislaine Maxwell found at an In-N-Ou..."
@@ -26,7 +26,7 @@ _Type: Places_
 - [01:05:04](/episodes/ep-2WEHTk0Xewg.md#^t-01-04-30)
   > "... cronies were like, "Would you like to comment?" The New York Post would like to—I said literally: "New York Post, you guys are just feds." And I'm not—I don't really feel like commenting. I don't care. The p..."
 
-### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
+### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 
 - [00:00:00](/episodes/ep-LATnak75Si0.md#^t-00-00-00)
   > "All right, you guys. Happy Wednesday for some people in New York City. Mamdani won. Okay, that's kind of the big story. The Republican establishment—they have a lot..."
@@ -55,68 +55,68 @@ _Type: Places_
 - [00:49:51](/episodes/ep-LATnak75Si0.md#^t-00-49-51)
   > "...pro-Israel crowd would know a little something about that. Take a listen to what Josh Hammer said. "New York City—for the time being—it looks like you're pretty screwed. For the time being, it looks like you ..."
 
-### [ep-Qfwr08Ebczo](/episodes/ep-Qfwr08Ebczo.md)
+### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
 
 - [00:29:18](/episodes/ep-Qfwr08Ebczo.md#^t-00-28-43)
   > "...of course, people really cannot stop speaking about the Mom Donnie versus the Cuomo mayoral race in New York. Now, Cuomo's already one of the most corrupt families in New York, and now they're like, "No, swit..."
 - [00:29:26](/episodes/ep-Qfwr08Ebczo.md#^t-00-29-26)
   > "...versus the Cuomo mayoral race in New York. Now, Cuomo's already one of the most corrupt families in New York, and now they're like, "No, switch gears, because Mom Donnie is going to be worse," and it's your j..."
 
-### [ep-Qt0VHV-POCg](/episodes/ep-Qt0VHV-POCg.md)
+### [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 
 - [00:20:54](/episodes/ep-Qt0VHV-POCg.md#^t-00-20-35)
   > "...irk stuff who was a friend of the administration. We got to be a little bit opaque on real headline—New York Times yesterday—pertaining to how upset Kash Patel was when he received an inquiry from Joe Kent's ..."
 
-### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
+### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:11:52](/episodes/ep-SKGUzGHymcI.md#^t-00-11-40)
   > "...ed to cut the 33 Thomas Street building in half. Seriously, if you Google image 33 Thomas Street in New York City, that's the building that Snowden leaked. Find one that makes it look brown and then compare i..."
 
-### [ep-YA1FxrDWNIo](/episodes/ep-YA1FxrDWNIo.md)
+### [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 
 - [00:34:41](/episodes/ep-YA1FxrDWNIo.md#^t-00-34-10)
   > "...d he was just putting it on paper. Was it an email? What was that that they were sharing on it? The New York Post, the Israeli Post, right? What were they sharing there? He wrote of his deep love for Israel. ..."
 
-### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
+### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 
 - [00:35:58](/episodes/ep-YFmRH8p5lt0.md#^t-00-35-27)
   > "...SA conference dates are critical to what happened here. Okay. Then Charlie (Charlie Kirk) speaks to New York, and after that he heads up to New York in the Hamptons. And he—Charlie (Charlie Kirk) himself—desc..."
 
-### [ep-YaZfwLQ7vrI](/episodes/ep-YaZfwLQ7vrI.md)
+### [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 
 - [00:03:32](/episodes/ep-YaZfwLQ7vrI.md#^t-00-03-20)
   > "...ulling up—nothing, despite the fact that there were news cameras outside waiting, oddly from like a New York news channel. We have not seen anything that we can build in confidently on our timeline that would..."
 
-### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
+### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:19:12](/episodes/ep-a-e7HC6SeK8.md#^t-00-19-05)
   > "..., "Amazing. That's just how he is." And on July 25th, Charlie (Charlie Kirk) speaks in Westchester, New York. At the end of July—this is a new little update for you—YieldiFi comes in as the number one sponsor..."
 
-### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
+### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
 
 - [00:20:40](/episodes/ep-adJ4LNGp84I.md#^t-00-20-14)
   > "...dentities and that they are perhaps all from overseas. And it turns out that there have been... The New York Times has reported on Russian-Ukrainian spies that are building new lives for themselves with new I..."
 - [00:48:30](/episodes/ep-adJ4LNGp84I.md#^t-00-48-10)
   > "...e Kirk). They pushed through their minions in the media. Now they planted a fake letter in the same New York Post and their minions. Candace (Candace Owens) must be up to something. Yeah, I know who had acces..."
 
-### [ep-czVBmqZP6Ss](/episodes/ep-czVBmqZP6Ss.md)
+### [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 
 - [00:50:22](/episodes/ep-czVBmqZP6Ss.md#^t-00-50-22)
   > ".... (Clip: Governor Cox) I know you heard that report by Matt Gutman and this latest reporting in the New York Times that some of the suspect's acquaintances were allegedly talking to him online and joking and ..."
 
-### [ep-ja26iltROkM](/episodes/ep-ja26iltROkM.md)
+### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 
 - [00:02:30](/episodes/ep-ja26iltROkM.md#^t-00-02-10)
   > "...fell in love with her. I remember meeting Erika. We were at... Charlie (Charlie Kirk) and I were in New York for something or another, and he was falling for her hard, but he wanted to play it cool. He wanted..."
 - [00:02:37](/episodes/ep-ja26iltROkM.md#^t-00-02-10)
   > "... wanted to play it cool. He wanted to play it cool, so he's like, "Come meet her at Del Frisco's in New York City." And I came there, and she was just lovely. She was genuinely such a nice person. I was like,..."
 
-### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
+### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:29:00](/episodes/ep-mKXdKV-OBog.md#^t-00-28-48)
   > "...r, at least, of The Free Press before that—before she went on to CBS News. She notoriously left The New York Times and said it was biased, and we needed to have something that was in the middle of the line, a..."
 
-### [ep-r1PS67aRmcA](/episodes/ep-r1PS67aRmcA.md)
+### [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
 
 - [00:06:42](/episodes/ep-r1PS67aRmcA.md#^t-00-06-42)
   > "...sense. It's not Tucker's (Tucker Carlson's) responsibility. Tucker (Tucker Carlson) doesn't live in New York City. It's not his responsibility to use his platform to speak about Mamdani 17 times. It's very st..."
@@ -131,12 +131,12 @@ _Type: Places_
 - [00:08:44](/episodes/ep-r1PS67aRmcA.md#^t-00-08-31)
   > "..., their homes, or whatever. But I'd be here in New York, because that's what I'm doing. I'm running New York. That's my job. Well, he gave the right answer. He gave the right answer. He gave the right answer,..."
 
-### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
+### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
 
 - [00:15:05](/episodes/ep-sImMM04XdWY.md#^t-00-14-43)
   > "...get four Gulfstreams? How did he get an island, a massive ranch in New Mexico, the biggest house in New York? Like, what is that? Like, at some point, the basic economics really matter, and they matter becaus..."
 
-### [ep-sreYYcID-QY](/episodes/ep-sreYYcID-QY.md)
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 
 - [00:12:49](/episodes/ep-sreYYcID-QY.md#^t-00-12-30)
   > "...hing, why are you giving it to, like, TMZ—which covers celebrity gossip out of Hollywood—right? The New York Post. That's not supposed to be a local paper, a local news source. Why would you hit up the New Yo..."
@@ -145,7 +145,7 @@ _Type: Places_
 - [00:38:45](/episodes/ep-sreYYcID-QY.md#^t-00-38-34)
   > "..., the amount of lies coming out of this man's mouth was astounding, okay? But they ran with it. The New York Post— outfit of the Mossad, outfit of the deep state— ran with it. “Charlie Kirk had a breakup with..."
 
-### [ep-t1YtLS1n8Vs](/episodes/ep-t1YtLS1n8Vs.md)
+### [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
 
 - [00:12:19](/episodes/ep-t1YtLS1n8Vs.md#^t-00-12-03)
   > "...DL shares an office space with the FBI.” They also share an office space with the United Nations in New York now. Same building, across the hall, whatever; that's a fact. And it makes sense. You shouldn't be ..."

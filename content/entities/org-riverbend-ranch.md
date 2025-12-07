@@ -13,7 +13,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [ep-2Riv3I7D0Yk](/episodes/ep-2Riv3I7D0Yk.md)
+### [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
 
 - [00:39:27](/episodes/ep-2Riv3I7D0Yk.md#^t-00-39-02)
   > "...re tender than even the best Angus beef that I've ever tasted. And right now, when you head over to RiverbendRanch.com and use promo code Candace at checkout, you'll get $20 off your first order. Trust me, you are goin..."
@@ -32,7 +32,7 @@ _Type: Organizations_
 - [00:39:02](/episodes/ep-2Riv3I7D0Yk.md#^t-00-39-02)
   > "... to Riverbend Ranch to spend the following summer in lush mountain pastures. When you purchase from Riverbend Ranch, you are not only supporting the 64 cowboys and their families who work on the ranch, but you are a..."
 
-### [ep-2WEHTk0Xewg](/episodes/ep-2WEHTk0Xewg.md)
+### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 
 - [00:37:26](/episodes/ep-2WEHTk0Xewg.md#^t-00-37-18)
   > "...portant things that he said. First and foremost, before we do that, I want to remind you guys about Riverbend Ranch because I absolutely love them as a company, and I know that there were so many people—so many comp..."
@@ -41,7 +41,7 @@ _Type: Organizations_
 - [00:38:15](/episodes/ep-2WEHTk0Xewg.md#^t-00-37-48)
   > "...sing, but what he taught us continues to resonate with even more power. A message from all of us at Riverbend Ranch. Also want to remind you guys of Beekeeper's Naturals because as a mom of four young kids, life is ..."
 
-### [ep-5autG89PW6w](/episodes/ep-5autG89PW6w.md)
+### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 
 - [00:30:35](/episodes/ep-5autG89PW6w.md#^t-00-29-56)
   > "..., take a big—a little bit of a break here because I want to read some sponsors. First and foremost, Riverbend Ranch. I tell you guys about them all the time. I've been talking a lot about them because I love their s..."
@@ -58,7 +58,7 @@ _Type: Organizations_
 - [00:31:23](/episodes/ep-5autG89PW6w.md#^t-00-31-23)
   > "... to Riverbend Ranch to spend the following summer in lush mountain pastures. When you purchase from Riverbend Ranch, you are not only supporting the 64 cowboys plus their families who work on those ranches, but you'..."
 
-### [ep-7RLtGgkTh9o](/episodes/ep-7RLtGgkTh9o.md)
+### [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 
 - [00:33:52](/episodes/ep-7RLtGgkTh9o.md#^t-00-33-25)
   > "...d more tender than even the best Angus beef that I've ever tasted. Right now, when you head over to riverbendranch.com and use promo code Candace at checkout, you will get $20 off your first order. Trust me, you're goi..."
@@ -79,7 +79,7 @@ _Type: Organizations_
 - [00:33:25](/episodes/ep-7RLtGgkTh9o.md#^t-00-33-25)
   > "... Riverbend Ranch to spend the following summer in lush mountain pastures. So when you purchase from Riverbend Ranch, you're not only supporting the 64 cowboys and their families who work on that ranch, but you're al..."
 
-### [ep-Cq7nj9rxPdo](/episodes/ep-Cq7nj9rxPdo.md)
+### [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
 
 - [00:38:09](/episodes/ep-Cq7nj9rxPdo.md#^t-00-37-50)
   > "...d more tender than even the best Angus beef that I've ever tasted. Right now, when you head over to riverbendranch.com and use promo code CANDACE at checkout, you'll get $20 off your first order. Trust me, you're going..."
@@ -100,7 +100,7 @@ _Type: Organizations_
 - [00:37:36](/episodes/ep-Cq7nj9rxPdo.md#^t-00-37-13)
   > "...n to Riverbend Ranch to spend the following summer in the lush mountain pastures. When you purchase Riverbend Ranch, you are not only supporting the 64 cowboys and their families who work on the ranch, but you are a..."
 
-### [ep-K5GjF53bfN4](/episodes/ep-K5GjF53bfN4.md)
+### [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 
 - [00:24:23](/episodes/ep-K5GjF53bfN4.md#^t-00-24-00)
   > "...rk). And I'll tell you why I feel that those criticisms are unfair. But first I want to throw it to Riverbend Ranch. I told you I met the CEO of this company when I was with Charlie (Charlie Kirk) years ago. And we ..."
@@ -119,7 +119,7 @@ _Type: Organizations_
 - [00:25:09](/episodes/ep-K5GjF53bfN4.md#^t-00-24-54)
   > "... We mourn his passing, but what he taught us continues to resonate with even more power. SPEAKER_3 (Riverbend Ranch): A message from all of us at Riverbend Ranch. Also want to tell you guys about PDS Debt because th..."
 
-### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
+### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 
 - [00:28:34](/episodes/ep-LATnak75Si0.md#^t-00-28-06)
   > "...d more tender than even the best Angus beef that I've ever tasted. Right now, when you head over to riverbendranch.com and use promo code Candace at checkout, you'll get $20 off your first order. Trust me—you are going..."
@@ -138,7 +138,7 @@ _Type: Organizations_
 - [00:28:06](/episodes/ep-LATnak75Si0.md#^t-00-28-06)
   > "...erbend Ranch to spend the following summer in the lush mountain pastures. So when you purchase from Riverbend Ranch, you're not only supporting the 64 cowboys and their families who work on the ranch, but you're als..."
 
-### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
+### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 
 - [00:27:29](/episodes/ep-MUA9ebCF4Ow.md#^t-00-27-23)
   > "...d more tender than even the best Angus beef that I've ever tasted. Right now, when you head over to RiverbendRanch.com and use promo code Candace at checkout, you'll get $20 off your first order. Trust me, you're going..."
@@ -159,7 +159,7 @@ _Type: Organizations_
 - [00:27:01](/episodes/ep-MUA9ebCF4Ow.md#^t-00-26-39)
   > "... to Riverbend Ranch to spend the following summer in lush mountain pastures. When you purchase from Riverbend Ranch, you are not only supporting the 64 cowboys and their families who work on the ranch, but you're al..."
 
-### [ep-QZWSsq8ZWzw](/episodes/ep-QZWSsq8ZWzw.md)
+### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 
 - [00:27:49](/episodes/ep-QZWSsq8ZWzw.md#^t-00-27-09)
   > "...s important for us to discuss for a variety of reasons. First, I'm gonna throw it to some sponsors. Riverbend Ranch—I absolutely love them. Everyone has wanted to do something to try and heal and remember Charlie Ki..."
@@ -170,7 +170,7 @@ _Type: Organizations_
 - [00:28:31](/episodes/ep-QZWSsq8ZWzw.md#^t-00-28-31)
   > "...sonate with even more power. A message from all of us at Riverbend Ranch. I said I met the owner of Riverbend Ranch before he was making steaks—actually with Charlie Kirk. And so another Charlie memory there for you..."
 
-### [ep-Qt0VHV-POCg](/episodes/ep-Qt0VHV-POCg.md)
+### [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 
 - [00:24:31](/episodes/ep-Qt0VHV-POCg.md#^t-00-24-05)
   > "...ul and more tender than even the best Angus beef that I've ever had. Right now, if you head over to RiverbendRanch.com and use promo code Candace, you'll get $20 off your first order. Trust me, you are going to be very..."
@@ -191,7 +191,7 @@ _Type: Organizations_
 - [00:24:05](/episodes/ep-Qt0VHV-POCg.md#^t-00-24-05)
   > "... Riverbend Ranch to spend the following summer in lush mountain pastures. So when you purchase from Riverbend Ranch, you are not only supporting the 64 cowboys and their families who work on the ranch; you are also ..."
 
-### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
+### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:24:49](/episodes/ep-SKGUzGHymcI.md#^t-00-24-32)
   > "...ilable while supplies last, and they're going to go fast. You can order your holiday gifts today at riverbendranch.com. If you haven't tried Riverbend Ranch's steaks, it is time that you did. I've never had a better st..."
@@ -210,7 +210,7 @@ _Type: Organizations_
 - [00:25:32](/episodes/ep-SKGUzGHymcI.md#^t-00-25-08)
   > "...ected processing facility. So you avoid the costly middlemen because the beef is sent directly from Riverbend Ranch to your home. And I love supporting American ranchers, of course. Right now when you order from riv..."
 
-### [ep-YA1FxrDWNIo](/episodes/ep-YA1FxrDWNIo.md)
+### [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 
 - [00:26:01](/episodes/ep-YA1FxrDWNIo.md#^t-00-26-01)
   > "... more tender than even the best Angus beef that I've ever tasted. So right now, if you head over to RiverbendRanch.com, you can use promo code KANDICE at checkout, and you'll get $20 off your first order. And I can pro..."
@@ -227,7 +227,7 @@ _Type: Organizations_
 - [00:25:32](/episodes/ep-YA1FxrDWNIo.md#^t-00-25-18)
   > "...bend Ranch to spend the following summer in the lush mountain pastures. Now, when you purchase from Riverbend Ranch, you are not only supporting the 64 cowboys plus their families who work that ranch, but you're als..."
 
-### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
+### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:20:41](/episodes/ep-ZAuuSq_j2_w.md#^t-00-20-32)
   > "...while supplies last, and they're going to go pretty fast. You can order your holiday gifts today at RiverbendRanch.com. If you haven't yet tried Riverbend Ranch steaks, it is time that you definitely did. I have never ..."
@@ -244,7 +244,7 @@ _Type: Organizations_
 - [00:21:14](/episodes/ep-ZAuuSq_j2_w.md#^t-00-21-14)
   > "...avor and tenderness than your average Angus beef. Each steak is aged to perfection for 21 days. All Riverbend Ranch cattle were born and raised right here in the USA. They never use growth hormones or antibiotics. T..."
 
-### [ep-c5BcKF91iec](/episodes/ep-c5BcKF91iec.md)
+### [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 
 - [00:29:52](/episodes/ep-c5BcKF91iec.md#^t-00-29-52)
   > "...ul and more tender than even the best Angus beef I've ever tasted. Right now, when you head over to riverbendranch.com and use promo code Candace at checkout, you'll get $20 off your first order. Trust me—you're going ..."
@@ -263,7 +263,7 @@ _Type: Organizations_
 - [00:29:27](/episodes/ep-c5BcKF91iec.md#^t-00-29-10)
   > "...the Riverbend Ranch to spend the following summer in lush mountain pastures. When you purchase from Riverbend Ranch, you're not only supporting the 64 cowboys and their families who work on the ranch, but you're als..."
 
-### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
+### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 
 - [00:35:03](/episodes/ep-his-JBjlkh8.md#^t-00-34-23)
   > "...lable while supplies last, and they are going to go fast. You can order your holiday gifts today at riverbendranch.com. If you haven't tried Riverbend Ranch steaks, it is time that you did, because I've never had a bet..."
@@ -280,7 +280,7 @@ _Type: Organizations_
 - [00:35:34](/episodes/ep-his-JBjlkh8.md#^t-00-35-06)
   > "...and tenderness than your average Angus beef. Now, each steak is aged to perfection for 21 days. All Riverbend Ranch cattle were born and raised here in the USA. They never use growth hormones or antibiotics. And the..."
 
-### [ep-r1PS67aRmcA](/episodes/ep-r1PS67aRmcA.md)
+### [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
 
 - [00:30:34](/episodes/ep-r1PS67aRmcA.md#^t-00-30-32)
   > "...and more tender than even the best Angus beef that I've ever tasted. Right now, if you head over to riverbendranch.com and use promo code Candace at checkout, you'll get $20 off your first order. And trust me, you're g..."
@@ -299,7 +299,7 @@ _Type: Organizations_
 - [00:30:05](/episodes/ep-r1PS67aRmcA.md#^t-00-29-49)
   > "... Riverbend Ranch to spend the following summer in lush mountain pastures. So when you purchase from Riverbend Ranch, you're not only supporting the 64 cowboys and their families who work on that ranch, but you're al..."
 
-### [ep-sreYYcID-QY](/episodes/ep-sreYYcID-QY.md)
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 
 - [00:28:23](/episodes/ep-sreYYcID-QY.md#^t-00-28-06)
   > "... (Bibi) that doth protest too much in just a moment. First, gonna throw it to some of our sponsors. Riverbend Ranch—everyone, like I told you, has wanted to do something to try and heal and remember Charlie Kirk. My..."
@@ -310,7 +310,7 @@ _Type: Organizations_
 - [00:29:04](/episodes/ep-sreYYcID-QY.md#^t-00-29-04)
   > "...ate with even more power. A message from all of us at Riverbend Ranch. I actually met the owners of Riverbend Ranch with Charlie Kirk. We went out there and met them. Fantastic family. Also want to tell you guys abo..."
 
-### [ep-t1YtLS1n8Vs](/episodes/ep-t1YtLS1n8Vs.md)
+### [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
 
 - [00:26:12](/episodes/ep-t1YtLS1n8Vs.md#^t-00-26-12)
   > "...nd more tender than even the best Angus beef that I've ever tasted. Right now when you head over to RiverbendRanch.com you can use promo code Candace at checkout and you'll get $20 off your first order. Trust me, you'r..."
@@ -329,7 +329,7 @@ _Type: Organizations_
 - [00:25:46](/episodes/ep-t1YtLS1n8Vs.md#^t-00-25-32)
   > "...the Riverbend Ranch to spend the following summer in lush mountain pastures. When you purchase from Riverbend Ranch, you are not only supporting the 64 cowboys and their families who work on that ranch, but also sup..."
 
-### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
+### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
 
 - [00:27:40](/episodes/ep-vwG1juDCQZQ.md#^t-00-27-16)
   > "...nd more tender than even the best Angus beef that I've ever tasted. Right now when you head over to riverbendranch.com and use promo code Candace at checkout, you'll get $20 off your first order. Trust me: you are goin..."
@@ -351,9 +351,9 @@ _Type: Organizations_
 ### Based In
 
 - [USA](/entities/gpe-united-states.md)
-  - [ep-his-JBjlkh8 @ 00:35:38](/episodes/ep-his-JBjlkh8.md#^t-00-35-06): ""All Riverbend Ranch cattle were born and raised here in the USA.""
+  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:35:38](/episodes/ep-his-JBjlkh8.md#^t-00-35-06): ""All Riverbend Ranch cattle were born and raised here in the USA.""
 
 ### Referenced By
 
 - [Candace Owens](/entities/person-candace-owens.md) **endorsed** this
-  - [ep-his-JBjlkh8 @ 00:34:52](/episodes/ep-his-JBjlkh8.md#^t-00-34-23)
+  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:34:52](/episodes/ep-his-JBjlkh8.md#^t-00-34-23)

@@ -13,38 +13,38 @@ _Type: Organizations_
 
 ## Mentions
 
-### [ep-2Riv3I7D0Yk](/episodes/ep-2Riv3I7D0Yk.md)
+### [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
 
 - [01:14:58](/episodes/ep-2Riv3I7D0Yk.md#^t-01-14-20)
   > "...r show—as many of you guys have—you can head to CandaceOwens.com. You can sign up; you can join our book club. You can buy our—we don't know, no, but we know—brand stuff. Join us in prison when Laura Loomer se..."
 
-### [ep-2WEHTk0Xewg](/episodes/ep-2WEHTk0Xewg.md)
+### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 
 - [01:07:02](/episodes/ep-2WEHTk0Xewg.md#^t-01-06-45)
   > "...t are watching this right now. You guys—when you buy gear, when you sign up, if you're a part of my book club—that's who funds me. It is the people. JJ Bullard writes: "If you declare with your mouth 'Jesus is..."
 
-### [ep-581dILVcEE4](/episodes/ep-581dILVcEE4.md)
+### [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
 
 - [00:47:38](/episodes/ep-581dILVcEE4.md#^t-00-47-13)
   > "...clude books, and that runs through to Cyber Monday. So do not miss out. And reminding you guys that book club this week is going to be on Thursday. I don't know if I even told you guys that. I think we sent ou..."
 - [00:47:52](/episodes/ep-581dILVcEE4.md#^t-00-47-13)
   > "...you this for the first time on the show that we bumped it to six o'clock Eastern on Thursday. So no book club tonight. We'll have it at 6 PM Eastern on Thursday. Top comment from yesterday's episode is from Ab..."
 
-### [ep-5autG89PW6w](/episodes/ep-5autG89PW6w.md)
+### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 
 - [01:04:28](/episodes/ep-5autG89PW6w.md#^t-01-04-00)
   > "... left and right are finally coming together. Can I say that as well? Gosh, we are over time for the book club. Hopefully people are on this, so they know why we're late to the book club—which we have tonight a..."
 - [01:04:30](/episodes/ep-5autG89PW6w.md#^t-01-04-00)
   > "...e are over time for the book club. Hopefully people are on this, so they know why we're late to the book club—which we have tonight as we begin this introduction to this book, which they will not reprint. What..."
 
-### [ep-7RLtGgkTh9o](/episodes/ep-7RLtGgkTh9o.md)
+### [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 
 - [00:18:37](/episodes/ep-7RLtGgkTh9o.md#^t-00-18-12)
   > "...ely must read that book. You have to understand how this thing works. This is why I put together my book club—because it's so much that you just start to wonder what is real, what is fake. Are we actually livi..."
 - [00:19:34](/episodes/ep-7RLtGgkTh9o.md#^t-00-18-57)
   > "...itually so offensive that we go, "There's no way all of this can be going on." And then you join my book club and you read Hollywood Babylon—you're like, "Oh, this is actually how the system was built in Holly..."
 
-### [ep-Cq7nj9rxPdo](/episodes/ep-Cq7nj9rxPdo.md)
+### [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
 
 - [00:01:02](/episodes/ep-Cq7nj9rxPdo.md#^t-00-00-43)
   > "...s learn some more facts today. Lastly, in case you missed it while I was away, they infiltrated our book club. Our book club has gone viral. My one safe place. I only had one safe space, and it was my book clu..."
@@ -67,14 +67,14 @@ _Type: Organizations_
 - [00:56:16](/episodes/ep-Cq7nj9rxPdo.md#^t-00-55-46)
   > "...ery much is the reason for this push in culture for transgenderism. We'll get more into that in the book club, which gets a bit more theological. But that's a very important series. And basically what happened..."
 
-### [ep-JQjCAsfoXEE](/episodes/ep-JQjCAsfoXEE.md)
+### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 
 - [00:06:23](/episodes/ep-JQjCAsfoXEE.md#^t-00-06-23)
   > "...on air, something that I didn't even say. They sent undercover operatives to sign up for my private book club that I have on Tuesdays. And then they took a clip of that book club from that book club and accuse..."
 - [00:06:30](/episodes/ep-JQjCAsfoXEE.md#^t-00-06-23)
   > "...ives to sign up for my private book club that I have on Tuesdays. And then they took a clip of that book club from that book club and accused me of accusing Erika of murdering her husband. I mean, they manufac..."
 
-### [ep-K1tFD7FfoCU](/episodes/ep-K1tFD7FfoCU.md)
+### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 
 - [00:46:47](/episodes/ep-K1tFD7FfoCU.md#^t-00-46-33)
   > "...e, and my opinion on that is not something that can be discussed on YouTube. So I'll save it for my book club tomorrow. Peddle (Peddle) writes: "Love you, Candace (Candace Owens)." "Please claim." Oh, people c..."
@@ -85,19 +85,19 @@ _Type: Organizations_
 - [00:49:18](/episodes/ep-K1tFD7FfoCU.md#^t-00-48-38)
   > "...lub. First time ever the book club was infiltrated. I'm proud of us. Very proud of us—people on the book club. So be sure to be there. Also reminding you guys: Make Him a Sandwich. If you want to buy that, go ..."
 
-### [ep-K5GjF53bfN4](/episodes/ep-K5GjF53bfN4.md)
+### [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 
 - [00:45:53](/episodes/ep-K5GjF53bfN4.md#^t-00-45-39)
   > "...If you guys would like to support us in any capacity, always can head to CandaceOwens.com, join the book club, learn about vaccines if you're a parent, or"
 
-### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
+### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 
 - [00:56:09](/episodes/ep-LATnak75Si0.md#^t-00-55-58)
   > "...t movement. Theodore Herzl, his connection to him—why they were connected. We talk about this on my book club. Even if you can't join the book club, you can still buy those books. And so I would start with "Th..."
 - [00:56:11](/episodes/ep-LATnak75Si0.md#^t-00-55-58)
   > "...tion to him—why they were connected. We talk about this on my book club. Even if you can't join the book club, you can still buy those books. And so I would start with "The Assault on Truth" by Jeffrey Masson,..."
 
-### [ep-QZWSsq8ZWzw](/episodes/ep-QZWSsq8ZWzw.md)
+### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 
 - [00:14:40](/episodes/ep-QZWSsq8ZWzw.md#^t-00-14-22)
   > "... of dread. The Tuesday—Tuesday night—the night before Charlie (Charlie Kirk) got assassinated—I had book club, and I felt like I needed to emphasize to people in book club that it was time to take their kids o..."
@@ -116,7 +116,7 @@ _Type: Organizations_
 - [00:47:12](/episodes/ep-QZWSsq8ZWzw.md#^t-00-46-49)
   > "...k, which is coming out later this year. All right, you guys. I gotta jump off here because I've got book club in a little bit. I'll see you tomorrow."
 
-### [ep-Qfwr08Ebczo](/episodes/ep-Qfwr08Ebczo.md)
+### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
 
 - [00:38:31](/episodes/ep-Qfwr08Ebczo.md#^t-00-38-31)
   > "... I'm gonna take a brief break because I know that you guys have a lot of comments, and we also have book club tonight. And we're gonna get deeper, by the way, into that sort of guiding theology when we get bac..."
@@ -131,14 +131,14 @@ _Type: Organizations_
 - [00:50:23](/episodes/ep-Qfwr08Ebczo.md#^t-00-50-14)
   > "...off because we do have book club tonight. So I will see you guys in the Zionist infiltration on our book club. We finally did it, guys. We went viral, and they're stealing clips from behind the paywall. If you..."
 
-### [ep-Qt0VHV-POCg](/episodes/ep-Qt0VHV-POCg.md)
+### [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 
 - [00:14:15](/episodes/ep-Qt0VHV-POCg.md#^t-00-14-01)
   > "...arlie Kirk. Okay? And I'm gonna tell you how I feel about that. Truly, Zionists that infiltrated my book club. You did not need to pay the $9.99 to find out how I feel about this. I don't know why people think..."
 - [00:14:36](/episodes/ep-Qt0VHV-POCg.md#^t-00-14-01)
   > "...t she really thinks"? I'll tell you what I really think. I think it's crap. Okay? What I said in my book club holds. It's never good when the feds are lining up to give you a holiday. Not good. You know, Marti..."
 
-### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
+### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:46:53](/episodes/ep-SKGUzGHymcI.md#^t-00-46-12)
   > "...t americanfinancing.net/owens, americanfinancing.net/owens. All right, you guys, some housekeeping. Book club is going to be tomorrow at six o'clock p.m. Eastern. Also reminding you, we have new merch on the w..."
@@ -149,17 +149,17 @@ _Type: Organizations_
 - [00:56:06](/episodes/ep-SKGUzGHymcI.md#^t-00-55-30)
   > "...stern. If you would like to support us, head to candaceowens.com. Sign up for a subscription to the book club. Stay while you're there. We have a tremendous series on vaccines. A part of this evil, of course, ..."
 
-### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
+### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 
 - [00:51:00](/episodes/ep-YFmRH8p5lt0.md#^t-00-51-00)
   > "...ate with numerology. And this—if this sounds above your head—it's probably because you're not in my book club. But it is just to me the most sinister and sickening thing that these people can lay their heads o..."
 
-### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
+### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:38:29](/episodes/ep-ZAuuSq_j2_w.md#^t-00-38-04)
   > "...s a lot of time to sign a t-shirt. And I'm reminding you guys: you can gift someone a membership to Club Candace and to our book club on the website now, which is new. You just scroll to the "want to gift a membe..."
 
-### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
+### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:54:34](/episodes/ep-a-e7HC6SeK8.md#^t-00-54-16)
   > "...we have new merch that's on our website as well. You can also now gift someone with a membership to Club Candace to join our book club. By the way, we're about to—when we get off—head to the book club as we conti..."
@@ -168,22 +168,22 @@ _Type: Organizations_
 - [00:59:03](/episodes/ep-a-e7HC6SeK8.md#^t-00-58-42)
   > "...f course that's not how it happened to us. Silly Americans. Anyways, you guys—we're gonna jump into book club. Support the show. You can do that in a variety of ways. Like I said—buying gear. We've got new kit..."
 
-### [ep-czVBmqZP6Ss](/episodes/ep-czVBmqZP6Ss.md)
+### [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 
 - [01:01:51](/episodes/ep-czVBmqZP6Ss.md#^t-01-01-30)
   > "...t you're dealing with, what kind of lies are willing to be told and sold. I would say right now, at book club—and you don't need to join that—but you should read “The Assault on Truth.” It's a good start, okay..."
 
-### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
+### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 
 - [00:56:54](/episodes/ep-his-JBjlkh8.md#^t-00-56-18)
   > "...hink that's fair. Game gonna recognize game. And you guys can now also gift someone a membership to Club Candace or the book club on our website. Just head to the About section on the website and scroll down to "..."
 
-### [ep-iHav0PPzUz8](/episodes/ep-iHav0PPzUz8.md)
+### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
 
 - [00:45:07](/episodes/ep-iHav0PPzUz8.md#^t-00-44-47)
   > "...ity that it is sickening to watch them do this. It really shows you—for those of you that are in my book club—what I was talking about when we read that last book about how they do this after death. They fight..."
 
-### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
+### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:37:22](/episodes/ep-mKXdKV-OBog.md#^t-00-36-45)
   > "...housekeeping. If you would like to support us, obviously go to CandaceOwens.com and sign up for the book club. We are running late tonight, but we are doing the book club as we can continue to read "Sigmund Fr..."
@@ -192,7 +192,7 @@ _Type: Organizations_
 - [00:46:37](/episodes/ep-mKXdKV-OBog.md#^t-00-46-24)
   > "...ve just not wanted to go through it for the umpteenth time. Yeah. Anyways, you guys, we do have the book club, so I'm gonna jump off. We will need about 15 minutes. And then I will meet you guys over on Candac..."
 
-### [ep-ozWJz2spBcI](/episodes/ep-ozWJz2spBcI.md)
+### [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
 
 - [00:57:17](/episodes/ep-ozWJz2spBcI.md#^t-00-56-38)
   > "... the absolute least, terrifying. Thank you." Yes, it is very important. Of course, if you are in my book club, we're about to really get into it, by the way. Tomorrow we start the book which they don't want to..."
@@ -203,7 +203,7 @@ _Type: Organizations_
 - [00:59:15](/episodes/ep-ozWJz2spBcI.md#^t-00-58-47)
   > "...h Mystical Tradition is the name of that book by David Bakan that we will be starting on tomorrow's book club. Lauren Hulin writes, "You mentioned the suspicious way so many of the individuals surrounding Char..."
 
-### [ep-pc3pxRyNFZk](/episodes/ep-pc3pxRyNFZk.md)
+### [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
 
 - [01:00:51](/episodes/ep-pc3pxRyNFZk.md#^t-01-00-11)
   > "...nding that and are therefore being called crazy. About the history of Sigmund Freud, the book in my book club. If you can't join the book club, that's fine. You should read The Assault on Truth to understand w..."
@@ -216,26 +216,26 @@ _Type: Organizations_
 - [01:03:09](/episodes/ep-pc3pxRyNFZk.md#^t-01-03-09)
   > "... love you so much, crisis queen." Tell her thank you. We're definitely a bit wild in the book club. Book club gets—you know—we go there. We go there, for sure. But it's fun; it's very chill, and you know that ..."
 
-### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
+### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
 
 - [00:08:58](/episodes/ep-sImMM04XdWY.md#^t-00-08-18)
   > "...e Macron. We urge you to provide this correspondence to legal counsel promptly. They sent it to the Club Candace info. I was totally—a random box sent it to—so we didn't get it. We go back to our timeline. That's..."
 - [00:47:15](/episodes/ep-sImMM04XdWY.md#^t-00-47-10)
   > "...we have signed copies that are also available on the CandaceOwens.com website. By the way, tomorrow book club will be at 6 p.m. Eastern because today is my son's birthday. And I did not calculate that when I s..."
 
-### [ep-t1YtLS1n8Vs](/episodes/ep-t1YtLS1n8Vs.md)
+### [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
 
 - [00:02:10](/episodes/ep-t1YtLS1n8Vs.md#^t-00-02-02)
   > "...the ADL was born out of a Jewish Freemason organization known as B'nai B'rith. Now, if you're on my book club, you know this, but Sigmund Freud was a member of B'nai B'rith. We're discussing; we're reading rig..."
 - [00:05:50](/episodes/ep-t1YtLS1n8Vs.md#^t-00-05-39)
   > "...he family member as a source. Do that in your own spare time. In fact, maybe I should add it to the book club list anyways. The reason why I'm telling you that is because there is a crucial—it really is a very..."
 
-### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
+### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
 
 - [01:06:56](/episodes/ep-vwG1juDCQZQ.md#^t-01-06-23)
   > "...nd I've been on this journey. And so that feels good as well. I don't know what I'll say other than book club people—everybody that signed up on the website, candaceowens.com. And we didn't know what we were d..."
 
-### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
+### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:53:58](/episodes/ep-yAIb-NuUh_U.md#^t-00-53-29)
   > "...t's always been a war against Christians. And I'm not going to rant about that because it's not the book club, but I'm going to rant about that now next week in the book club. So there's that. But thank you. T..."
@@ -251,5 +251,5 @@ _Type: Organizations_
 ### Referenced By
 
 - [Candace Owens](/entities/person-candace-owens.md) **affiliated with** this
-  - [ep-his-JBjlkh8 @ 00:02:57](/episodes/ep-his-JBjlkh8.md#^t-00-02-14)
-  - [ep-a-e7HC6SeK8 @ 00:54:34](/episodes/ep-a-e7HC6SeK8.md#^t-00-54-16)
+  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:57](/episodes/ep-his-JBjlkh8.md#^t-00-02-14)
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:54:34](/episodes/ep-a-e7HC6SeK8.md#^t-00-54-16)

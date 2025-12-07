@@ -19,36 +19,36 @@ _Type: Places_
 
 ## Mentions
 
-### [ep-2Riv3I7D0Yk](/episodes/ep-2Riv3I7D0Yk.md)
+### [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
 
 
-### [ep-2WEHTk0Xewg](/episodes/ep-2WEHTk0Xewg.md)
+### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 
 - [00:44:34](/episodes/ep-2WEHTk0Xewg.md#^t-00-44-34)
   > "...Gaza. He was—above all—resentful that he believed Benjamin Netanyahu (Benjamin Netanyahu) was using the United States to prosecute his wars for the benefit of his country, and that it was shameful and embarrassing and..."
 
-### [ep-581dILVcEE4](/episodes/ep-581dILVcEE4.md)
+### [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
 
 
-### [ep-5autG89PW6w](/episodes/ep-5autG89PW6w.md)
+### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 
 
-### [ep-7RLtGgkTh9o](/episodes/ep-7RLtGgkTh9o.md)
+### [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 
 - [00:03:48](/episodes/ep-7RLtGgkTh9o.md#^t-00-03-30)
   > ".... We spoke about Rob McCoy being the lead pastor in Thousand Oaks—one of their many churches across the United States—and my sense... which every Christian Zionist influencer under the sun is trying to ward me off of...."
 
-### [ep-Cq7nj9rxPdo](/episodes/ep-Cq7nj9rxPdo.md)
+### [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
 
 
-### [ep-JQjCAsfoXEE](/episodes/ep-JQjCAsfoXEE.md)
+### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 
 - [00:37:28](/episodes/ep-JQjCAsfoXEE.md#^t-00-37-02)
   > "...USA. Schedule I shows grants and other assistance to organizations, governments, and individuals in the United States. This schedule shows you where Turning Point is sending its money. We see that a lot of money—$8,56..."
 - [00:52:54](/episodes/ep-JQjCAsfoXEE.md#^t-00-52-19)
   > "...alled Flock of automated license plate readers that are dotted throughout pretty much every town in the United States. Let's go. Let's go. Let's go. I looked up the locations. There are some somewhat near UVU as well...."
 
-### [ep-K1tFD7FfoCU](/episodes/ep-K1tFD7FfoCU.md)
+### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 
 - [00:00:46](/episodes/ep-K1tFD7FfoCU.md#^t-00-00-46)
   > "...cuss it. And lastly, Kash Patel (Kash Patel) is now officially the most embarrassing human being in the United States. Welcome back to Candace. So obviously a major theme of this podcast is that everything truly is fa..."
@@ -59,12 +59,12 @@ _Type: Places_
 - [00:41:36](/episodes/ep-K1tFD7FfoCU.md#^t-00-41-29)
   > "... why I would like to—again—plead with you guys to consider when I run in the future for dictator of the United States to consider how I will deal with this immediately. I will sentence him to a month of hard labor. Ob..."
 
-### [ep-K5GjF53bfN4](/episodes/ep-K5GjF53bfN4.md)
+### [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 
 - [00:01:53](/episodes/ep-K5GjF53bfN4.md#^t-00-01-27)
   > "...M) over-inserting himself, not even just on day one, minute one. He tweeted before the president of the United States that Charlie (Charlie Kirk) had lost his life. That's weird. It's very weird, and we should not for..."
 
-### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
+### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 
 - [00:03:31](/episodes/ep-LATnak75Si0.md#^t-00-02-55)
   > ".... We actually also split doing certain locations because they want to do as many locations all over the United States as possible. And April of 2024 is when our campus events began. I'm now going to show you an email ..."
@@ -75,18 +75,18 @@ _Type: Places_
 - [00:51:29](/episodes/ep-LATnak75Si0.md#^t-00-50-59)
   > "...ur administration has been infiltrated, and there are extremely evil people that are at the helm of the United States military and that are... not caring at all about American lives in my viewpoint—not taking a stance..."
 
-### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
+### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 
 - [00:10:02](/episodes/ep-MUA9ebCF4Ow.md#^t-00-09-46)
   > "...n do, to my shame—and I was mad thinking about this and thinking about the effort by the neocons in the United States to draw us into another forever war with Iran. Not a defense of Iran, of course. It's merely an ack..."
 
-### [ep-Qfwr08Ebczo](/episodes/ep-Qfwr08Ebczo.md)
+### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
 
 
-### [ep-Qt0VHV-POCg](/episodes/ep-Qt0VHV-POCg.md)
+### [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 
 
-### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
+### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:11:00](/episodes/ep-SKGUzGHymcI.md#^t-00-11-00)
   > "... you will find the DEA, Drug Enforcement Agency, at 920 North King Street, and at the same address, the United States Secret Service, 920 North King Street, Wilmington, Delaware, 19801. Both are live, both are at Suit..."
@@ -99,25 +99,25 @@ _Type: Places_
 - [00:26:08](/episodes/ep-SKGUzGHymcI.md#^t-00-25-51)
   > "...ny. Introducing American-made ivermectin. It's safe, it's trusted, and it is produced right here in the United States. Ivermectin has been prescribed globally for more than 30 years and even earned the Nobel Prize in ..."
 
-### [ep-UBkFkg4UNY8](/episodes/ep-UBkFkg4UNY8.md)
+### [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 
 
-### [ep-YA1FxrDWNIo](/episodes/ep-YA1FxrDWNIo.md)
+### [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 
 - [00:29:57](/episodes/ep-YA1FxrDWNIo.md#^t-00-29-25)
   > "...s, they only have a limited number of events, right? So they want to make sure they can go all over the United States and see as many students as possible during every tour. This is how it works. I know how it works b..."
 
-### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
+### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 
 
-### [ep-YaZfwLQ7vrI](/episodes/ep-YaZfwLQ7vrI.md)
+### [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 
 - [00:17:14](/episodes/ep-YaZfwLQ7vrI.md#^t-00-16-39)
   > "...)—he's no different. He graduated from a military academy. His father, Carl Wallnau, was a major in the United States Air Force. Wallnau served under General Patton. After the war, he then continued his adventures as ..."
 - [00:08:21](/episodes/ep-YaZfwLQ7vrI.md#^t-00-08-05)
   > "...dropping off those pipe bombs was revealed to be a fed—more specifically, a 31-year-old woman and a United States Capitol Police officer named Shawna Rae Kirkhoff, right? A man named—a reporter named Steve Baker—w..."
 
-### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
+### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:24:51](/episodes/ep-ZAuuSq_j2_w.md#^t-00-24-28)
   > "... fact that hey, isn't it kind of strange that neither the White House nor the Élysée Palace—or even the United States Pentagon—has formally denied this quote-unquote crazy claim? That's what Hollywood's for, right? Yo..."
@@ -126,13 +126,13 @@ _Type: Places_
 - [00:34:25](/episodes/ep-ZAuuSq_j2_w.md#^t-00-34-25)
   > "...of, I don't know, maybe actual politicians like Donald (Donald Trump), who's the president-elect of the United States, and looked us in the face and said, "Are we still talking about the Epstein files?" No, that's not..."
 
-### [ep-ZGxnf5cj4Uw](/episodes/ep-ZGxnf5cj4Uw.md)
+### [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
 
 
-### [ep-_dRaEO47-co](/episodes/ep-_dRaEO47-co.md)
+### [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 
 
-### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
+### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:00:49](/episodes/ep-a-e7HC6SeK8.md#^t-00-00-46)
   > "...L to the American history that's taught to us in the public schools. The French helped to establish the United States. They came over and they helped us win our big independence from the big bad Brits. And then what? ..."
@@ -145,25 +145,25 @@ _Type: Places_
 - [00:43:36](/episodes/ep-a-e7HC6SeK8.md#^t-00-43-12)
   > "...and I believe he was because I think there's a war on Christians that's happening—then the West and the United States were implicated in part by a false flag attack to justify a larger military justification. That's k..."
 
-### [ep-aDlhjfW6hz8](/episodes/ep-aDlhjfW6hz8.md)
+### [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 
 
-### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
+### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
 
 - [00:28:48](/episodes/ep-adJ4LNGp84I.md#^t-00-28-25)
   > "...ngs. SPEAKER_5: And what we have to do is we have to secure that part of the base of our support in the United States. SPEAKER_5: That is being challenged systematically. SPEAKER_5: A lot of this is done with money. S..."
 
-### [ep-c5BcKF91iec](/episodes/ep-c5BcKF91iec.md)
+### [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 
 - [00:06:04](/episodes/ep-c5BcKF91iec.md#^t-00-05-52)
   > "...unately, of course, he's sad in this photo. Gosh, he's obviously not wanting to be the president of the United States. JFK was shot and killed, and now LBJ has to step up, unfortunately. But I gotta be honest. I wasn'..."
 - [00:35:17](/episodes/ep-c5BcKF91iec.md#^t-00-35-13)
   > "...." I'm a lawyer with my background. I work for a federal appeals judge. I know a thing or two about United States constitutional law. I think that we have a potentially serious case here for defamation, and I'm ve..."
 
-### [ep-czVBmqZP6Ss](/episodes/ep-czVBmqZP6Ss.md)
+### [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 
 
-### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
+### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 
 - [00:37:34](/episodes/ep-his-JBjlkh8.md#^t-00-37-21)
   > "... for that. I think we're okay there. But let's start with the Pentagon because this is interesting. The United States Pentagon—in case you don't know—is the complex that houses our Department of Defense. It's a massiv..."
@@ -172,17 +172,17 @@ _Type: Places_
 - [00:14:38](/episodes/ep-his-JBjlkh8.md#^t-00-14-26)
   > "...on, every expense report and literally every single bill paid by the organization, down to a single United States dollar. We have never missed a 990 deadline. Okay, so immorality—like financial impropriety—does no..."
 
-### [ep-iHav0PPzUz8](/episodes/ep-iHav0PPzUz8.md)
+### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
 
 - [00:12:29](/episodes/ep-iHav0PPzUz8.md#^t-00-12-29)
   > ".... I reported that even more curiously that Egyptian military plane had previously only ever been to the United States twice in that past year. And both times it was in the lead-up—in the weeks leading up to Charlie (C..."
 
-### [ep-ja26iltROkM](/episodes/ep-ja26iltROkM.md)
+### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 
 - [00:40:14](/episodes/ep-ja26iltROkM.md#^t-00-39-59)
   > "...resentatives and people who are here to represent all of us that they should be focusing outside of the United States. America First." "Thank you." "You know, there once was a president who started talking about that—..."
 
-### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
+### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:05:48](/episodes/ep-mKXdKV-OBog.md#^t-00-05-45)
   > "...serious look into that one-hour layover stop when our yellow plane, SUBTT—the tail number—came into the United States on September 4th. You might recall it stopped for just one hour in Minot, North Dakota, which I lea..."
@@ -195,30 +195,30 @@ _Type: Places_
 - [00:35:06](/episodes/ep-mKXdKV-OBog.md#^t-00-34-40)
   > "...tate. They are the state, and they want you to know. And like he said, it is not America. It is not the United States that they are doing this for. I just don't know where this is all going, I guess. Like, are we gonn..."
 
-### [ep-ozWJz2spBcI](/episodes/ep-ozWJz2spBcI.md)
+### [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
 
 
-### [ep-pc3pxRyNFZk](/episodes/ep-pc3pxRyNFZk.md)
+### [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
 
 
-### [ep-q7f8r-THr84](/episodes/ep-q7f8r-THr84.md)
+### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
 
 
-### [ep-r1PS67aRmcA](/episodes/ep-r1PS67aRmcA.md)
+### [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
 
 
-### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
+### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
 
 
-### [ep-sreYYcID-QY](/episodes/ep-sreYYcID-QY.md)
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 
 
-### [ep-t1YtLS1n8Vs](/episodes/ep-t1YtLS1n8Vs.md)
+### [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
 
 - [00:13:12](/episodes/ep-t1YtLS1n8Vs.md#^t-00-13-12)
   > "...a rather stunning tip, which I have been able to corroborate, that out of all of the FBI bureaus in the United States, regarding which there are 55 main bureaus and over 350 satellite bureaus, the FBI sent the specifi..."
 
-### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
+### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:08:40](/episodes/ep-tB5SXXmd9vU.md#^t-00-08-40)
   > "...ysée Palace. Nothing. Nothing. I want you to bear in mind that this was front-page global news from the United States to Russia. And I publicly challenged the Candace (Candace Owens) is making everything up crowd to p..."
@@ -241,12 +241,12 @@ _Type: Places_
 - [00:09:29](/episodes/ep-tB5SXXmd9vU.md#^t-00-09-23)
   > "...suming you could get a felony for making something up out of thin air like that. You can't just use United States resources to go after somebody in a plot that never existed that you did for clicks on YouTube. So ..."
 
-### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
+### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
 
 - [00:58:25](/episodes/ep-vwG1juDCQZQ.md#^t-00-57-54)
   > "...very day. And we obviously knew that we had become in like the top three podcasts pretty quickly in the United States. But when you're fighting and you're building and you're constantly under pressure—you're constantl..."
 
-### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
+### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 
 
 ## Relationships
@@ -254,6 +254,6 @@ _Type: Places_
 ### Referenced By
 
 - [Operation Bright Star](/entities/event-operation-bright-star.md) **affiliated with** this
-  - [ep-tB5SXXmd9vU @ 00:22:08](/episodes/ep-tB5SXXmd9vU.md#^t-00-21-46)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:22:08](/episodes/ep-tB5SXXmd9vU.md#^t-00-21-46)
 - [Riverbend Ranch](/entities/org-riverbend-ranch.md) **based in** this
-  - [ep-his-JBjlkh8 @ 00:35:38](/episodes/ep-his-JBjlkh8.md#^t-00-35-06)
+  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:35:38](/episodes/ep-his-JBjlkh8.md#^t-00-35-06)

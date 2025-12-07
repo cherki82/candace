@@ -8,7 +8,7 @@ _Type: Places_
 
 ## Mentions
 
-### [ep-7RLtGgkTh9o](/episodes/ep-7RLtGgkTh9o.md)
+### [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 
 - [00:02:26](/episodes/ep-7RLtGgkTh9o.md#^t-00-02-03)
   > "... Haight-Ashbury Clinic. We're gonna talk about that and the program that they're running throughout California. Ye (Kanye West). When I said why I didn't speak out was because I recognized that he had done some..."
@@ -21,12 +21,12 @@ _Type: Places_
 - [00:52:41](/episodes/ep-7RLtGgkTh9o.md#^t-00-52-23)
   > "...ess Gaming writes, "Did you see that there are seven Calvary Chapel churches near Huntington Beach, California?" "That is the epicenter of the Family International movement—AKA the Children of God." "Their prac..."
 
-### [ep-K1tFD7FfoCU](/episodes/ep-K1tFD7FfoCU.md)
+### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 
 - [00:18:15](/episodes/ep-K1tFD7FfoCU.md#^t-00-17-40)
   > "...(Candace Owens)." And I'm like, "OK, fine." We get to the location. I think it was in Sherman Oaks, California at that time. And Charlie (Charlie Kirk) says to me—we're in the green room— "Hey, will we take a p..."
 
-### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
+### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 
 - [00:22:23](/episodes/ep-MUA9ebCF4Ow.md#^t-00-22-23)
   > "...r me—is that we randomly received a tip from somebody who knew Pastor Rob McCoy from Thousand Oaks, California. And they were speaking about just kind of the area and how tight-knit it is in the church. And the..."
@@ -37,19 +37,19 @@ _Type: Places_
 - [00:41:00](/episodes/ep-MUA9ebCF4Ow.md#^t-00-40-43)
   > "...re is evidence that she comes from a Freemason family in California. Like, dad was in the Freemason California Freemasons, and grandpa was pretty high up in the California Freemasons. And you know, Kash Patel d..."
 
-### [ep-Qfwr08Ebczo](/episodes/ep-Qfwr08Ebczo.md)
+### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
 
 - [00:13:34](/episodes/ep-Qfwr08Ebczo.md#^t-00-13-27)
   > "...cCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel in Thousand Oaks, California. You should also know, by the way—let me introduce this to you right now—because I didn't know that..."
 - [00:15:07](/episodes/ep-Qfwr08Ebczo.md#^t-00-14-54)
   > "...ipating some bigger role at Turning Point USA and maybe therefore planning to wind down his life in California," no. Actually, that's exactly the reason that was cited when it was reported on in January in the ..."
 
-### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
+### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 
 - [00:30:22](/episodes/ep-YFmRH8p5lt0.md#^t-00-29-39)
   > "...when I hear cash flowing like that—and we're talking like a lot of these megachurches are always in California or Arizona— and I'm not saying this about your church. I'm talking about the broader implications o..."
 
-### [ep-YaZfwLQ7vrI](/episodes/ep-YaZfwLQ7vrI.md)
+### [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 
 - [00:18:11](/episodes/ep-YaZfwLQ7vrI.md#^t-00-18-06)
   > "...R stands for what again? I'm sorry, the New Apostolic Reformation. That's Bill Johnson out there in California—in Northern California. We'll talk about him in a minute. But Word of Faith movement—they don't nec..."
@@ -60,24 +60,24 @@ _Type: Places_
 - [00:27:13](/episodes/ep-YaZfwLQ7vrI.md#^t-00-26-57)
   > "...these megachurches and these mega pastors. And what I was just referring to in the monologue was in California, where a lot of these churches—megachurches—are. There's been another megachurch pastor that was ac..."
 
-### [ep-_dRaEO47-co](/episodes/ep-_dRaEO47-co.md)
+### [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 
 - [00:05:28](/episodes/ep-_dRaEO47-co.md#^t-00-04-56)
   > "...And after he hired me, he had been working already really hard on doing this campus tour throughout California. He called it the Big Three: UCLA, we're going to do Stanford, we're going to do Berkeley. And ther..."
 
-### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
+### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:21:28](/episodes/ep-a-e7HC6SeK8.md#^t-00-21-13)
   > "...nd is when we have our French Legionnaires arriving in America for a three-week training session in California, which is going to end on the 25th. And then, a couple of days later, we have that Hamptons retreat..."
 
-### [ep-pc3pxRyNFZk](/episodes/ep-pc3pxRyNFZk.md)
+### [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
 
 - [00:19:01](/episodes/ep-pc3pxRyNFZk.md#^t-00-18-51)
   > "...r. It is a woman named Dr. Deidre Weiss Amaro. Deidre Weiss Amaro is her name, and she blew in from California. She was announced as the new state medical examiner in May of 2024. I'm sorry, from Missouri. I th..."
 - [00:19:15](/episodes/ep-pc3pxRyNFZk.md#^t-00-18-51)
   > "...medical examiner in May of 2024. I'm sorry, from Missouri. I think she also worked at some point in California, and she was announced as the new Utah medical examiner, state Utah medical examiner, in May of 202..."
 
-### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
+### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:16:26](/episodes/ep-tB5SXXmd9vU.md#^t-00-16-09)
   > "...th U.S. Marines of the 6th Marine Regiment for a three-week training deployment. That took place in California. And then once that training ended, I said this online, another camp began immediately. It was a jo..."
@@ -90,7 +90,7 @@ _Type: Places_
 - [00:20:36](/episodes/ep-tB5SXXmd9vU.md#^t-00-20-29)
   > "...gion training exercise took place at a supposed Camp Riley in Minnesota after the conclusion of the California exercise, and for good reason, because no Camp Riley exists in Minnesota," as Andy Parish, the form..."
 
-### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
+### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:08:19](/episodes/ep-yAIb-NuUh_U.md#^t-00-07-47)
   > "...hild back in 1995. Here's what it reads in part, okay? "I was eight years old living in Dana Point, California when Thomas approached my friend and me to help him find his cat." "He took us to a park behind my ..."

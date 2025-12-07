@@ -8,12 +8,12 @@ _Type: Places_
 
 ## Mentions
 
-### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
+### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:12:24](/episodes/ep-a-e7HC6SeK8.md#^t-00-11-53)
   > "...rust actual location, which is at 1100 North Market. We told you about this crane—this red crane—at 1100 North King Street, and that's Bridge Complex, which is supposed to house Insight headquarters, and they've got a Fren..."
 
-### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
+### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:28:30](/episodes/ep-tB5SXXmd9vU.md#^t-00-28-30)
   > "...ence point to what he's speaking about so that you can follow along here. That crane is situated on 1100 North King Street. Let's bring up the map here so you can see what's going on here, okay? What I found on 1100, 1100 ..."
@@ -31,4 +31,4 @@ _Type: Places_
 ### Referenced By
 
 - [Bracebridge Complex](/entities/org-bracebridge-complex.md) **headquartered in** this
-  - [ep-tB5SXXmd9vU @ 00:28:41](/episodes/ep-tB5SXXmd9vU.md#^t-00-28-30)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:28:41](/episodes/ep-tB5SXXmd9vU.md#^t-00-28-30)

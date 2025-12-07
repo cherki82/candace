@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-5autG89PW6w](/episodes/ep-5autG89PW6w.md)
+### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 
 - [00:11:47](/episodes/ep-5autG89PW6w.md#^t-00-11-47)
   > "...ppening at the White House. But now this is how desperate they are for anything—grasping at straws. Nick Fuentes, our routine federal informant, writes this: "Why did she sit on this for four weeks and then censo..."
@@ -17,7 +17,7 @@ _Type: People_
 - [00:22:17](/episodes/ep-5autG89PW6w.md#^t-00-22-02)
   > "...at he thought was going to kill him? Now, to answer—to give the obvious answer—to federal informant Nick Fuentes' question: the reason that I waited to reveal the text messages is because I'm not a child. Like I ..."
 
-### [ep-K1tFD7FfoCU](/episodes/ep-K1tFD7FfoCU.md)
+### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 
 - [00:07:28](/episodes/ep-K1tFD7FfoCU.md#^t-00-06-49)
   > "...y control are allowed to be in positions of power. So recently, Tucker (Tucker Carlson) interviewed Nick Fuentes (Nick Fuentes). The reason he did that, I've heard, is because it happens to be a free country, and..."
@@ -42,14 +42,14 @@ _Type: People_
 - [00:48:09](/episodes/ep-K1tFD7FfoCU.md#^t-00-48-01)
   > "... and gay." Yeah, Charlie (Charlie Kirk) believed in free speech. He didn't even blink when I hosted Nick Fuentes (Nick Fuentes). What an absurd idea that Charlie (Charlie Kirk) would have—if Charlie (Charlie Kirk..."
 
-### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
+### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 
 - [00:16:43](/episodes/ep-LATnak75Si0.md#^t-00-16-27)
   > "...g— like I said, you lost the party. MAGA got fractured—not when Tucker (Tucker Carlson) interviewed Nick Fuentes—but when Donald (Donald Trump) Trump looked at us in our faces and said, "Epstein who?" That's when..."
 - [00:19:52](/episodes/ep-LATnak75Si0.md#^t-00-19-19)
   > "...blind rage because you're so angry that the conservative base's attitudes are rapidly changing—that Nick Fuentes is getting national attention—so you have turned around in response. You are compromising your own ..."
 
-### [ep-Qfwr08Ebczo](/episodes/ep-Qfwr08Ebczo.md)
+### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
 
 - [00:32:46](/episodes/ep-Qfwr08Ebczo.md#^t-00-32-18)
   > "...how to respond to all of this Zionist backlash that he was receiving for having a conversation with Nick Fuentes. And foremost, Tucker (Tucker Carlson) explains why he had the conversation with Nick Fuentes. Take..."
@@ -64,12 +64,12 @@ _Type: People_
 - [00:37:32](/episodes/ep-Qfwr08Ebczo.md#^t-00-37-10)
   > "... not assuming that there's some like blood oath that you need to honor, but saying, "You know what? Nick Fuentes has said some crappy things about me, and I'm going to speak to him." I did the same thing. I was l..."
 
-### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
+### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 
 - [00:33:23](/episodes/ep-YFmRH8p5lt0.md#^t-00-33-17)
   > "...yler Bowyer said to me backstage: there was something going on with like Charlie (Charlie Kirk) and Nick Fuentes. I can't recall. This is again 2024. And I said to him, "Why don't you just have Charlie (Charlie K..."
 
-### [ep-iHav0PPzUz8](/episodes/ep-iHav0PPzUz8.md)
+### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
 
 - [00:29:34](/episodes/ep-iHav0PPzUz8.md#^t-00-29-27)
   > "...his is exceptional. The backstory here is that Tucker (Tucker Carlson)—in case you missed it—hosted Nick Fuentes on his show. And to be clear, I've hosted Nick Fuentes on my show. I don't like Nick Fuentes, and t..."
@@ -98,7 +98,7 @@ _Type: People_
 - [00:49:19](/episodes/ep-iHav0PPzUz8.md#^t-00-48-48)
   > "...you names—just so you know—the internet is optional. Watching Tucker (Tucker Carlson) sit down with Nick Fuentes is optional. If you don't like someone, you are not required by law to watch their content. So toug..."
 
-### [ep-ozWJz2spBcI](/episodes/ep-ozWJz2spBcI.md)
+### [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
 
 - [00:46:28](/episodes/ep-ozWJz2spBcI.md#^t-00-46-12)
   > "...alent right now with foolish people that are so deceived, like a Candace (Candace Owens) and like a Nick Fuentes, and young people are eating that up and they're changing their philosophy on what these people say..."
@@ -109,7 +109,7 @@ _Type: People_
 - [00:49:01](/episodes/ep-ozWJz2spBcI.md#^t-00-48-57)
   > "...e of you that have been defiled with the nation of Israel because you've been in an echo chamber of Nick Fuentes and Candace (Candace Owens)—that defilement has now come off of you, and you're going to block them..."
 
-### [ep-r1PS67aRmcA](/episodes/ep-r1PS67aRmcA.md)
+### [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
 
 - [00:01:53](/episodes/ep-r1PS67aRmcA.md#^t-00-01-26)
   > "...sing any American Jew who is pro-Israel first of a pure form of anti-Semitism. That was directed at Nick Fuentes, which we'll circle back to. Also, this was a real tweet directed at Ron Paul. "Ron Paul is manifes..."
@@ -165,8 +165,8 @@ _Type: People_
 ### Referenced By
 
 - [Tucker Carlson](/entities/person-tucker-carlson.md) **interviewed** this
-  - [ep-iHav0PPzUz8 @ 00:29:34](/episodes/ep-iHav0PPzUz8.md#^t-00-29-27)
-  - [ep-K1tFD7FfoCU @ 00:07:28](/episodes/ep-K1tFD7FfoCU.md#^t-00-06-49)
+  - [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:29:34](/episodes/ep-iHav0PPzUz8.md#^t-00-29-27)
+  - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:07:28](/episodes/ep-K1tFD7FfoCU.md#^t-00-06-49)
 - [Candace Owens](/entities/person-candace-owens.md) **interviewed** this
-  - [ep-iHav0PPzUz8 @ 00:29:38](/episodes/ep-iHav0PPzUz8.md#^t-00-29-27)
-  - [ep-K1tFD7FfoCU @ 00:08:20](/episodes/ep-K1tFD7FfoCU.md#^t-00-08-16)
+  - [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:29:38](/episodes/ep-iHav0PPzUz8.md#^t-00-29-27)
+  - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:08:20](/episodes/ep-K1tFD7FfoCU.md#^t-00-08-16)

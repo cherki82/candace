@@ -8,17 +8,17 @@ _Type: Organizations_
 
 ## Mentions
 
-### [ep-2Riv3I7D0Yk](/episodes/ep-2Riv3I7D0Yk.md)
+### [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
 
 - [00:57:41](/episodes/ep-2Riv3I7D0Yk.md#^t-00-57-17)
   > "...n they said, "See, we told you." And that was in the town. So, you know, we got trantifa—the tranny Antifa—running around, engaged in all sorts of violence everywhere. So I was like, "OK, yeah, I mean, that..."
 
-### [ep-_dRaEO47-co](/episodes/ep-_dRaEO47-co.md)
+### [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 
 - [00:15:22](/episodes/ep-_dRaEO47-co.md#^t-00-14-52)
   > "...of course, who could forget the infamous day that we got chased out of a Philadelphia restaurant by Antifa, and they threw water and they threw an egg on Charlie (Charlie Kirk)? We were just amazed at how q..."
 
-### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
+### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 
 - [00:19:23](/episodes/ep-his-JBjlkh8.md#^t-00-18-52)
   > "...s saying. In fact, I would say we have suffered more harassment from these people than we have from Antifa supporters who overtly celebrate Charlie (Charlie Kirk)'s murder. And just like a lot of those Anti..."

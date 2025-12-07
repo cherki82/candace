@@ -8,12 +8,12 @@ _Type: People_
 
 ## Mentions
 
-### [ep-5autG89PW6w](/episodes/ep-5autG89PW6w.md)
+### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 
 - [00:58:31](/episodes/ep-5autG89PW6w.md#^t-00-58-31)
   > "...itics is a nasty business, Amir. As you know—you know—you're a friend of someone who's in politics: Brett Cooper. Corey Henry writes: "Give me the Kool-Aid in a juice box LMAO" regarding Ashton Forbes' cult comme..."
 
-### [ep-7RLtGgkTh9o](/episodes/ep-7RLtGgkTh9o.md)
+### [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 
 - [00:06:01](/episodes/ep-7RLtGgkTh9o.md#^t-00-05-39)
   > "...Got involved and pushed for this conservatorship. That is what has been alleged. I'm going to allow Brett Cooper—I'm just gonna rip this content from her show, hopefully she doesn't mind—to explain how Britney Sp..."
@@ -26,7 +26,7 @@ _Type: People_
 - [00:17:11](/episodes/ep-7RLtGgkTh9o.md#^t-00-16-49)
   > "...ry of this year, someone notified me that Courtney Love wanted to reach out to me. So there you go. Brett Cooper has mentioned that Courtney Love has also had allegations about Lou Taylor. We all know who Courtne..."
 
-### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
+### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 
 - [00:00:38](/episodes/ep-LATnak75Si0.md#^t-00-00-38)
   > "...e are really sick of Zionism. We are really sick of lies. In that same vein, in case you missed it, Brett Cooper is apparently the new Hitler—which I'm just wondering, can we just get these on iPhone alerts, like..."
@@ -68,11 +68,11 @@ _Type: People_
 ### Criticized
 
 - [Randy Fine](/entities/person-randy-fine.md)
-  - [ep-LATnak75Si0 @ 00:18:27](/episodes/ep-LATnak75Si0.md#^t-00-17-51): "Like Randy Fine—if you don't know who he is—he's a representative from Florida... my advice to you, Randy Fine—is just move to Israel"
+  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:18:27](/episodes/ep-LATnak75Si0.md#^t-00-17-51): "Like Randy Fine—if you don't know who he is—he's a representative from Florida... my advice to you, Randy Fine—is just move to Israel"
 - [Ted Cruz](/entities/person-ted-cruz.md)
-  - [ep-LATnak75Si0 @ 00:19:19](/episodes/ep-LATnak75Si0.md#^t-00-19-15): "You are so blinded by your ridiculous, insane hatred of Tucker (Tucker Carlson) Carlson... these tweets from Ted Cruz"
+  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:19:19](/episodes/ep-LATnak75Si0.md#^t-00-19-15): "You are so blinded by your ridiculous, insane hatred of Tucker (Tucker Carlson) Carlson... these tweets from Ted Cruz"
 
 ### Works At
 
 - [The Daily Wire](/entities/org-the-daily-wire.md)
-  - [ep-LATnak75Si0 @ 00:22:21](/episodes/ep-LATnak75Si0.md#^t-00-22-10): "a movie that Brett Cooper starred in at the Daily Wire"
+  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:22:21](/episodes/ep-LATnak75Si0.md#^t-00-22-10): "a movie that Brett Cooper starred in at the Daily Wire"

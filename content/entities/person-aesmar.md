@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
+### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:26:17](/episodes/ep-ZAuuSq_j2_w.md#^t-00-25-52)
   > "... rules. I just follow them. And so I'd like to show you another comedian from my tribe. His name is Aesmar, and he's going to make a funny too. And remember: it's never violent as long as we're telling joke..."

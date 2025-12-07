@@ -14,14 +14,14 @@ _Type: Organizations_
 
 ## Mentions
 
-### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
+### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:21:28](/episodes/ep-a-e7HC6SeK8.md#^t-00-21-13)
   > "..."This is what Charlie (Charlie Kirk) wants," and that could be true. August 2nd is when we have our French Legionnaires arriving in America for a three-week training session in California, which is going to end on the 2..."
 - [00:23:52](/episodes/ep-a-e7HC6SeK8.md#^t-00-23-23)
   > "...yellow planes then returning on the 24th—again always through Wilmington—to Egypt. We then have our French Legionnaires have completed their training. And on August 24th–27th, Operation Valhalla takes place between civi..."
 
-### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
+### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 
 - [00:41:04](/episodes/ep-his-JBjlkh8.md#^t-00-40-39)
   > "...out the foreign angle of Charlie (Charlie Kirk)'s assassination. Now, I obviously reported that the French Foreign Legion were apparently on the ground on the day of Charlie (Charlie Kirk)'s assassination. So here is Cam ..."
@@ -30,12 +30,12 @@ _Type: Organizations_
 - [00:49:40](/episodes/ep-his-JBjlkh8.md#^t-00-49-40)
   > "...w, of course—especially as we have learned about Delaware and the DuPont-French connection, and the French Foreign Legion non-answer that we're getting, just gaslighting that we are getting—it feels like an even more rele..."
 
-### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
+### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:14:02](/episodes/ep-mKXdKV-OBog.md#^t-00-13-39)
   > "...tary, okay? We are receiving tips, and we had been receiving tips I had ignored previously that the French Foreign Legion was involved somehow in the assassination. Time will tell, okay? And I will present that more forma..."
 
-### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
+### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:01:12](/episodes/ep-tB5SXXmd9vU.md#^t-00-00-57)
   > "...now? In the wake of me having learned that France apparently paid for my assassination and that the French Foreign Legion was apparently involved and on the ground at UVU on the day of Charlie (Charlie Kirk)'s assassinati..."
@@ -79,10 +79,10 @@ _Type: Organizations_
 ### Referenced By
 
 - [4th Company, 2nd Foreign Infantry Regiment](/entities/org-4th-company-2nd-foreign-infantry-regiment.md) **member of** this
-  - [ep-tB5SXXmd9vU @ 00:15:59](/episodes/ep-tB5SXXmd9vU.md#^t-00-15-25)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:15:59](/episodes/ep-tB5SXXmd9vU.md#^t-00-15-25)
 - [6th Light Armored Brigade](/entities/org-6th-light-armored-brigade.md) **member of** this
-  - [ep-tB5SXXmd9vU @ 00:15:59](/episodes/ep-tB5SXXmd9vU.md#^t-00-15-25)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:15:59](/episodes/ep-tB5SXXmd9vU.md#^t-00-15-25)
 - [2nd Foreign Infantry Regiment](/entities/org-2nd-foreign-infantry-regiment.md) **member of** this
-  - [ep-tB5SXXmd9vU @ 00:20:07](/episodes/ep-tB5SXXmd9vU.md#^t-00-19-45)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:20:07](/episodes/ep-tB5SXXmd9vU.md#^t-00-19-45)
 - [French Foreign Legionnaires](/entities/org-french-foreign-legionnaires.md) **member of** this
-  - [ep-tB5SXXmd9vU @ 00:59:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-58-43)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:59:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-58-43)

@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-7RLtGgkTh9o](/episodes/ep-7RLtGgkTh9o.md)
+### [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 
 - [00:25:20](/episodes/ep-7RLtGgkTh9o.md#^t-00-25-15)
   > "...mely death. Kurt Cobain, Prince, Michael Jackson, Charlie (Charlie Kirk). And I should also mention Bob Bryar—talk about a—I don't know—timely or untimely death. My Chemical Romance. You guys remember My Chemi..."
@@ -22,4 +22,4 @@ _Type: People_
 ### Referenced By
 
 - [Lou Taylor](/entities/person-lou-taylor.md) **employed by** this
-  - [ep-7RLtGgkTh9o @ 00:25:51](/episodes/ep-7RLtGgkTh9o.md#^t-00-25-15)
+  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:25:51](/episodes/ep-7RLtGgkTh9o.md#^t-00-25-15)

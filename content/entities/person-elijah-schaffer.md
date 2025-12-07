@@ -8,12 +8,12 @@ _Type: People_
 
 ## Mentions
 
-### [ep-7RLtGgkTh9o](/episodes/ep-7RLtGgkTh9o.md)
+### [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 
 - [00:23:43](/episodes/ep-7RLtGgkTh9o.md#^t-00-23-14)
   > "... they accomplish this is via lawfare. They will bankrupt you, okay? This is why what's happening to Elijah Schaffer—this is relevant. This is one of their strategies. When they want you to shut up, they will effecti..."
 
-### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
+### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 
 - [00:37:22](/episodes/ep-MUA9ebCF4Ow.md#^t-00-37-04)
   > "...ust calm down. Like a teenager in love—it's ridiculous. Well, now his girlfriend turns out is suing Elijah Schaffer and other content creators for $5 million. For $5 million. For her hurt feelings, okay? Because she..."
@@ -26,7 +26,7 @@ _Type: People_
 - [00:42:13](/episodes/ep-MUA9ebCF4Ow.md#^t-00-42-13)
   > "...urning Point USA. Get off of the internet if you do not have it within you the courage to withstand Elijah Schaffer making a joke, okay? All of these people have said things about me. I have been mocked for everythi..."
 
-### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
+### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:45:51](/episodes/ep-yAIb-NuUh_U.md#^t-00-45-19)
   > "... backing your life partner as she files a lawsuit because somebody made a joke. Because that's what Elijah Schaffer's lawsuit is about. It's a joke. And in the lawsuit, they talk about his anti-Israel rhetoric. Who ..."
@@ -38,4 +38,4 @@ _Type: People_
 ### Referenced By
 
 - [Alexis Wilkins](/entities/person-alexis-wilkins.md) **sued** this
-  - [ep-MUA9ebCF4Ow @ 00:37:22](/episodes/ep-MUA9ebCF4Ow.md#^t-00-37-04)
+  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:37:22](/episodes/ep-MUA9ebCF4Ow.md#^t-00-37-04)

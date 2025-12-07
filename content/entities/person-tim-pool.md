@@ -8,14 +8,14 @@ _Type: People_
 
 ## Mentions
 
-### [ep-581dILVcEE4](/episodes/ep-581dILVcEE4.md)
+### [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
 
 - [00:52:22](/episodes/ep-581dILVcEE4.md#^t-00-52-11)
   > "...these five vehicles that we have now shown you. L. Hodges writes, "I find it insane how influencers Tim Pool were speaking up against you regarding Turning Point USA and you no longer being invited to AmFest...."
 - [00:52:37](/episodes/ep-581dILVcEE4.md#^t-00-52-11)
   > "...t." Apparently he said something hurtful, and they said he can't go. Weird. I am not following what Tim Pool has been saying. I know that he was kind of—he always kind of throws shade about me investigating t..."
 
-### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
+### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:42:24](/episodes/ep-SKGUzGHymcI.md#^t-00-42-11)
   > "...l your soul to the devil, eventually, you'll get swallowed by it. Now, that's not a way to say that Tim Pool sold himself to the devil. He's a bit of a fence-sitter. I like Tim Pool. He's always been good to ..."
@@ -26,7 +26,7 @@ _Type: People_
 - [00:43:11](/episodes/ep-SKGUzGHymcI.md#^t-00-42-54)
   > "...cause of his anti-Israel or what could be interpreted as anti-Israel rhetoric. Anyways, let's watch Tim Pool in quick succession. That moment before Charlie (Charlie Kirk) was murdered, there was a path that ..."
 
-### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
+### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:31:39](/episodes/ep-ZAuuSq_j2_w.md#^t-00-31-17)
   > "...on't struggle with this issue. Nobody accepts this, okay? In other news and emotional manipulation, Tim Pool was having some sort of a breakdown. I don't really know what it's about. I don't know why he's twe..."

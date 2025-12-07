@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-sreYYcID-QY](/episodes/ep-sreYYcID-QY.md)
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 
 - [00:16:49](/episodes/ep-sreYYcID-QY.md#^t-00-16-13)
   > "... last name also happens to be Steele, but this one witnessed something four hours away. Her name is Sherry Steele, and she spoke to the BBC about how she had witnessed the police swarm the townhouse of Tyler Robin..."

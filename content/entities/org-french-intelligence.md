@@ -8,12 +8,12 @@ _Type: Organizations_
 
 ## Mentions
 
-### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
+### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 
 - [00:10:40](/episodes/ep-MUA9ebCF4Ow.md#^t-00-10-24)
   > "... something, but Epstein clearly had contact with Israeli intelligence and American intelligence and French intelligence. But the only one you're not allowed to talk about is Israeli intelligence. But it seemed true to m..."
 
-### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
+### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:25:45](/episodes/ep-ZAuuSq_j2_w.md#^t-00-25-41)
   > "...m sitting in Greg Gutfeld's seat. But why, you ask, would this be happening? The answer is I called French intelligence, and something may or may not have happened to Greg. It's hilarious. Laughing about actual violence..."

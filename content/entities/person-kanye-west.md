@@ -14,7 +14,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-2Riv3I7D0Yk](/episodes/ep-2Riv3I7D0Yk.md)
+### [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
 
 - [00:52:24](/episodes/ep-2Riv3I7D0Yk.md#^t-00-51-56)
   > "...s I discussed yesterday and which got picked up—was to create a kill switch, right? To realize that Kanye was kind of right. Never too late to say that Kanye was right. Kanye said that in order to be free,..."
@@ -29,14 +29,14 @@ _Type: People_
 - [00:52:57](/episodes/ep-2Riv3I7D0Yk.md#^t-00-52-41)
   > "...ze him. I feel that. And Drew, I feel that, and I think it's important to share that information as Kanye sent me all the messages of people who were threatening him. I have them all—to information share w..."
 
-### [ep-5autG89PW6w](/episodes/ep-5autG89PW6w.md)
+### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 
 - [00:26:55](/episodes/ep-5autG89PW6w.md#^t-00-26-42)
   > "...bankrupt me—trying to bankrupt me and my family—that are threatening us, to sue us. Everything that Kanye said was so real, okay? I'm now at that point where you look back and you go, "Man, Kanye was right..."
 - [00:26:59](/episodes/ep-5autG89PW6w.md#^t-00-26-42)
   > "...hing that Kanye said was so real, okay? I'm now at that point where you look back and you go, "Man, Kanye was right." He was really saying something about what it takes to leave. You know, to fight for cus..."
 
-### [ep-7RLtGgkTh9o](/episodes/ep-7RLtGgkTh9o.md)
+### [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 
 - [00:00:23](/episodes/ep-7RLtGgkTh9o.md#^t-00-00-00)
   > "...his podcast— connected to the Brigitte Macron case. I'm gonna tell you about that, connected to Ye (Kanye West), me telling you all about what happened behind the scenes when he was effectively kicked out of Ho..."
@@ -55,7 +55,7 @@ _Type: People_
 - [00:23:05](/episodes/ep-7RLtGgkTh9o.md#^t-00-22-30)
   > "...akdown." "She needs a break." "She's really tired." "Britney's been put on a psych 5150 hold." "Ye (Kanye West), he said he was just reading a Bible, and Harley Pasternak—and we got into his backstory and MKUlt..."
 
-### [ep-Cq7nj9rxPdo](/episodes/ep-Cq7nj9rxPdo.md)
+### [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
 
 - [00:02:10](/episodes/ep-Cq7nj9rxPdo.md#^t-00-02-10)
   > "...video to Charlie (Charlie Kirk), some people took issue theologically when I said that the day that Kanye West tweeted, "I love the way Candace Owens thinks," Charlie and I freaked out because we were convinced..."
@@ -126,7 +126,7 @@ _Type: People_
 - [01:08:20](/episodes/ep-Cq7nj9rxPdo.md#^t-01-08-20)
   > "... is try to convince the world the person is crazy—because I'm not giving them that. You did it with Kanye; you put him on a psych 5150 hold. You did that to many people in Hollywood. I know how it works, a..."
 
-### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
+### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 
 - [00:48:50](/episodes/ep-MUA9ebCF4Ow.md#^t-00-48-38)
   > "...as that like Binyabinyapoliwog?" Look here, please. What does your opening song say? That is from a Kanye song. "I hope he's bright and brave and strong." It's—I guess—hitting differently. Yeah, it's a Kan..."
@@ -141,12 +141,12 @@ _Type: People_
 - [00:50:15](/episodes/ep-MUA9ebCF4Ow.md#^t-00-50-06)
   > "...unny. We know that it's DEF CON 3. We were just doing a throwback to Kanye. I should probably put a Kanye photo in there. Uh, next comment is from Stilo Ackla: "Thank you, Candace (Candace Owens), so much...."
 
-### [ep-Qt0VHV-POCg](/episodes/ep-Qt0VHV-POCg.md)
+### [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 
 - [00:18:30](/episodes/ep-Qt0VHV-POCg.md#^t-00-18-22)
   > "... Charlie's memorial. Like kudos to whoever made that call because I would have just been on my best Kanye. I would have jumped on stage and just grabbed the mic from Susie Wiles or someone and said, "Are y..."
 
-### [ep-_dRaEO47-co](/episodes/ep-_dRaEO47-co.md)
+### [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 
 - [00:09:39](/episodes/ep-_dRaEO47-co.md#^t-00-09-13)
   > "...” And he didn't, and I explained to him the difference. I was like, “Okay, you got to get into some Kanye West music.” Next thing you know, Charlie (Charlie Kirk)'s really getting into some Kanye West music. He..."
@@ -167,12 +167,12 @@ _Type: People_
 - [00:14:52](/episodes/ep-_dRaEO47-co.md#^t-00-14-52)
   > "...character. But the prep for every one of those events, like even the “Him Too” event, it was always Kanye. Here it is. [Following clip attributed to Candace Owens, Charlie Kirk, and Sarah.] Just literally ..."
 
-### [ep-aDlhjfW6hz8](/episodes/ep-aDlhjfW6hz8.md)
+### [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 
 - [00:27:43](/episodes/ep-aDlhjfW6hz8.md#^t-00-27-13)
   > ".... I'm good. You know what I'm gonna do? I'm gonna listen to "Power" on my headphones and go see Ye (Kanye West). How's that for a memorial for Charlie Kirk? That feels like the right thing for me to do right no..."
 
-### [ep-c5BcKF91iec](/episodes/ep-c5BcKF91iec.md)
+### [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 
 - [00:01:41](/episodes/ep-c5BcKF91iec.md#^t-00-01-39)
   > "...o Candace. So here is where I was. I went to Wyoming to breathe, to hike, to listen to way too much Kanye West music. I absolutely love the mountains. I am a mountain person, so to speak. Wyoming is in fact my ..."
@@ -185,7 +185,7 @@ _Type: People_
 - [00:52:28](/episodes/ep-c5BcKF91iec.md#^t-00-52-22)
   > "...e, but in hindsight, it's clearly what was happening. Amal, it actually—I think it all started with Kanye tweeting me. I think handlers were sent out to manage—to first and foremost break apart me and Char..."
 
-### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
+### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 
 - [01:03:01](/episodes/ep-his-JBjlkh8.md#^t-01-02-45)
   > "...omebody—I don't know what they asked him—but he responds and he says, "You know, if you're a fan of Kanye West, you're not a fan of Kanye West. You're actually a fan of yourself. You believe in yourself and you..."
@@ -198,36 +198,36 @@ _Type: People_
 - [01:03:37](/episodes/ep-his-JBjlkh8.md#^t-01-03-25)
   > "...say things. Like, there's that thing—there's that spark inside of you. It's kind of what I got when Kanye said that. It's not me. It's the spark that you see in me. It's the audacity to be yourself and to ..."
 
-### [ep-ja26iltROkM](/episodes/ep-ja26iltROkM.md)
+### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 
 - [00:26:38](/episodes/ep-ja26iltROkM.md#^t-00-26-14)
   > "...terical. I mean, last week was insane. I got to the point where I just went—I just shrugged. I just Kanye shrugged. I'm like, "Okay." I don't know what to say. But this was just so funny. I had to share it..."
 
-### [ep-pc3pxRyNFZk](/episodes/ep-pc3pxRyNFZk.md)
+### [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
 
 - [00:53:57](/episodes/ep-pc3pxRyNFZk.md#^t-00-53-16)
   > "...o have the courage and humility to ask yourself what you're doing wrong. It's never too late to say Kanye was right. Never too late. And I'd like to say that Kanye was right. It's behavior. It's how they t..."
 - [00:54:01](/episodes/ep-pc3pxRyNFZk.md#^t-00-54-00)
   > "...e doing wrong. It's never too late to say Kanye was right. Never too late. And I'd like to say that Kanye was right. It's behavior. It's how they treat people. It's statements like that. Like just pretendi..."
 
-### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
+### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
 
 - [00:16:03](/episodes/ep-sImMM04XdWY.md#^t-00-15-24)
   > "...ed can be completely shut out, taken out, told that they can't even be in the system—thinking about Kanye West, right? Because of what he's saying. And then people who have no talent are suddenly everywhere. Bi..."
 
-### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
+### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:45:49](/episodes/ep-tB5SXXmd9vU.md#^t-00-45-28)
   > "... in a hospital and say you're crazy and drug you, like they did to Britney Spears, like they did to Kanye West, or they bankrupt you, right? That's also one of the mechanisms. Do you guys think that this entire..."
 - [00:49:39](/episodes/ep-tB5SXXmd9vU.md#^t-00-49-28)
   > "...I'm cool and I'm surrounded by individuals, you would be right. Because I'm a person who grew up on Kanye West's music, and it's so funny that I was blasting his early music. One of his first songs, "All Falls ..."
 
-### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
+### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
 
 - [00:03:02](/episodes/ep-vwG1juDCQZQ.md#^t-00-02-51)
   > "...ripped a hole in reality and made things even more global than they already were. I'd like to thank Kanye West—formerly Kanye West; he is now Ye—for the song "Power," because the song "Power" really made me rec..."
 
-### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
+### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:23:35](/episodes/ep-yAIb-NuUh_U.md#^t-00-23-11)
   > "...g that they run drugs, right? That they blackmail certain people and they run drugs. Something that Kanye also said in an episode that's virtually impossible to find online because it was during his cancel..."

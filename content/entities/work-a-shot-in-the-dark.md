@@ -8,7 +8,7 @@ _Type: Work_
 
 ## Mentions
 
-### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
+### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:50:41](/episodes/ep-ZAuuSq_j2_w.md#^t-00-50-05)
   > "...ing your children's bodies to the state. You can do that in your own capacity. We have that series, A Shot in the Dark, available on CandaceOwens.com for a reason—for first-time parents. It will shock you. I guess not...."

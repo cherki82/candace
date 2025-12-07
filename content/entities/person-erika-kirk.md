@@ -14,14 +14,14 @@ _Type: People_
 
 ## Mentions
 
-### [ep-2WEHTk0Xewg](/episodes/ep-2WEHTk0Xewg.md)
+### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 
 - [01:07:30](/episodes/ep-2WEHTk0Xewg.md#^t-01-07-30)
   > "...t. And like I said, there's nobody that has the capacity to get me to shut up about this except for Erika Kirk and my husband. So don't plead to his pastor. Don't plead to people that work at Turning Point—any ..."
 - [01:07:57](/episodes/ep-2WEHTk0Xewg.md#^t-01-07-30)
   > "...ake a plea, those are the only people that I will answer to. And I've got a feeling that, you know, Erika Kirk has been—you could see the energy. She's gonna fight. She's gonna fight, and she is going to fight ..."
 
-### [ep-581dILVcEE4](/episodes/ep-581dILVcEE4.md)
+### [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
 
 - [00:02:08](/episodes/ep-581dILVcEE4.md#^t-00-02-08)
   > "...ery concerned to learn that these Egyptian military planes were tracking Charlie (Charlie Kirk) and Erika Kirk for years." "What can we do to help?" "Gosh, we're right next door to them." "We did a lot to Egypt..."
@@ -30,7 +30,7 @@ _Type: People_
 - [00:49:44](/episodes/ep-581dILVcEE4.md#^t-00-49-21)
   > "...saw you guys—a lot of you guys in the chat—asking why these particular planes were following Erika (Erika Kirk). I have an indication as to why. Of course, I want to thoroughly vet that and to make sure that I ..."
 
-### [ep-JQjCAsfoXEE](/episodes/ep-JQjCAsfoXEE.md)
+### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 
 - [00:01:11](/episodes/ep-JQjCAsfoXEE.md#^t-00-00-41)
   > "...mplication was dramatic. And I think a lot of people reading the tweets would assume that she meant Erika Kirk. Either Erika Kirk is evil and was in on it, or Candace (Candace Owens) is an evil c—. I think that..."
@@ -51,7 +51,7 @@ _Type: People_
 - [00:42:28](/episodes/ep-JQjCAsfoXEE.md#^t-00-41-57)
   > "...ate with the IRS, so there is no excuse for Baker Tilly not to mention this in their audit opinion. Erika Kirk assumed the role of CEO of Turning Point USA on September 18, 2025—eight days after Charlie (Charli..."
 
-### [ep-K1tFD7FfoCU](/episodes/ep-K1tFD7FfoCU.md)
+### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 
 - [00:21:26](/episodes/ep-K1tFD7FfoCU.md#^t-00-21-15)
   > "...geous stand for truth and his steadfast support of Israel." Michael Starr (Michael Starr) reports, "Mrs. Erika Kirk (Erika Kirk) will accept the award on her husband's behalf, a moving tribute to a man who inspired ..."
@@ -106,7 +106,7 @@ _Type: People_
 - [00:34:52](/episodes/ep-K1tFD7FfoCU.md#^t-00-34-40)
   > "...atholic topic, which again did not come from Erika (Erika Kirk)?" Okay. It did not come from Erika (Erika Kirk). And I would imagine there are a lot of people that are speaking in your ear. That's what it means..."
 
-### [ep-K5GjF53bfN4](/episodes/ep-K5GjF53bfN4.md)
+### [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 
 - [00:24:21](/episodes/ep-K5GjF53bfN4.md#^t-00-24-00)
   > "... responding to a lot of what I think are just unfair criticisms of people that are attacking Erika (Erika Kirk). And I'll tell you why I feel that those criticisms are unfair. But first I want to throw it to Ri..."
@@ -135,12 +135,12 @@ _Type: People_
 - [00:44:30](/episodes/ep-K5GjF53bfN4.md#^t-00-44-20)
   > "...hey've taken. But anyways, yeah, I have always been very clear. And that's another thing, if Erika (Erika Kirk) was like, "Don't say anything," or if she lied about anything publicly, if she was like, "No, Char..."
 
-### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
+### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 
 - [00:46:28](/episodes/ep-LATnak75Si0.md#^t-00-46-22)
   > "...oints will be clarified tonight when the very anticipated interview drops between Jesse Watters and Erika Kirk. I will be watching. I am actually ecstatic to hear more from Erika. I know she's obviously been gi..."
 
-### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
+### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 
 - [00:03:01](/episodes/ep-MUA9ebCF4Ow.md#^t-00-02-33)
   > "...ought maybe he saw something on Twitter. And somebody said, "Candace (Candace Owens) just said that Erika Kirk murdered Charlie (Charlie Kirk)," and then he gets on stage and he repeats it. Maybe it's just an a..."
@@ -155,7 +155,7 @@ _Type: People_
 - [00:15:32](/episodes/ep-MUA9ebCF4Ow.md#^t-00-15-12)
   > "...hat Turning Point USA has told you. This is what they're trying to struggle-session us into because Erika Kirk is now the CEO. So they're off limits. So they're allowed to lie. No, that's ridiculous. We will no..."
 
-### [ep-QZWSsq8ZWzw](/episodes/ep-QZWSsq8ZWzw.md)
+### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 
 - [00:32:38](/episodes/ep-QZWSsq8ZWzw.md#^t-00-32-17)
   > "...did not know about, which is pertaining to a hex and a curse that Charlie (Charlie Kirk) and Erika (Erika Kirk) were worried about. It's kind of a shocking, a very shocking story. And I just want to preempt thi..."
@@ -164,17 +164,17 @@ _Type: People_
 - [00:42:21](/episodes/ep-QZWSsq8ZWzw.md#^t-00-41-55)
   > "...ivide you. I just don't know. It was genuinely a mistake. Lighthouse writes, "Some feel that Erika (Erika Kirk) is faking her emotions." "I lost my four-year-old son suddenly in April." "Sometimes I felt so num..."
 
-### [ep-Qfwr08Ebczo](/episodes/ep-Qfwr08Ebczo.md)
+### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
 
 - [00:20:16](/episodes/ep-Qfwr08Ebczo.md#^t-00-19-43)
   > "...Now I think Israel did it." And that's because he was tweeting about the bizarre lie of them saying Erika Kirk was accepting this award and they completely fictionalized it. They've just been lying nonstop quic..."
 
-### [ep-Qt0VHV-POCg](/episodes/ep-Qt0VHV-POCg.md)
+### [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 
 - [00:08:59](/episodes/ep-Qt0VHV-POCg.md#^t-00-08-31)
   > "...b McCoy 36 hours later? What do you guys think? I don't even think they had even yet announced that Erika Kirk was the chairman and the CEO 36 hours later. Like that seems that early—less than 36 hours, I shoul..."
 
-### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
+### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:00:09](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
   > "...r for the government sent it before I had figured out that the Egyptian planes were tracking Erika (Erika Kirk) and Charlie (Charlie Kirk). Now, the individual also focused on something that at first seemed to ..."
@@ -185,43 +185,43 @@ _Type: People_
 - [00:43:24](/episodes/ep-SKGUzGHymcI.md#^t-00-43-16)
   > "... Kirk), if Turning Point was involved in it, references to Jewish donors pulling out and how Erika (Erika Kirk) knew everything, and that's the narrative the number one podcast has given us. A few moments later..."
 
-### [ep-UBkFkg4UNY8](/episodes/ep-UBkFkg4UNY8.md)
+### [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 
 - [00:30:40](/episodes/ep-UBkFkg4UNY8.md#^t-00-30-03)
   > "...it was kind of billed—I think people were expecting—but actually Alex Clark never did say that—that Erika Kirk was going to be the one to answer questions pertaining to Charlie (Charlie Kirk) and to clear up so..."
 
-### [ep-_dRaEO47-co](/episodes/ep-_dRaEO47-co.md)
+### [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 
 - [00:18:32](/episodes/ep-_dRaEO47-co.md#^t-00-18-02)
   > "...is terrible. Her last name. Oh, she's got to marry you, because it's practical. Kirk is going to... Mrs. Erika Kirk sounds so much better than Mrs. Erika Frantzve. What is that last name? It's a practical decision. ..."
 - [00:18:43](/episodes/ep-_dRaEO47-co.md#^t-00-18-02)
   > "...last name? It's a practical decision. This is the text chain from that: “Charlie (Charlie Kirk) and Erika Kirk.” He says, “It's going to be the power couple of the century. I need to continue to pray about it.”..."
 
-### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
+### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:53:58](/episodes/ep-a-e7HC6SeK8.md#^t-00-53-36)
   > "... too. Yeah, there's a lot that is a lot to digest, and we're not done. Of course, I am hopeful that Erika Kirk will issue a statement. I think in this new capacity—CEO and chairman—that we deserve an answer abo..."
 
-### [ep-aDlhjfW6hz8](/episodes/ep-aDlhjfW6hz8.md)
+### [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 
 - [00:09:49](/episodes/ep-aDlhjfW6hz8.md#^t-00-09-18)
   > "...zing video. And I understand that he wants to spare his wife from having to experience that, Erika (Erika Kirk). So many people watching the love of your life and the last second of their life—it's traumatizing..."
 - [00:10:11](/episodes/ep-aDlhjfW6hz8.md#^t-00-09-54)
   > "... by it, right? That's not my husband, the father of my children. And so, out of a loyalty to Erika (Erika Kirk), he also doesn't want to give more footage to the internet. But I said, "Look, I'm not going to pu..."
 
-### [ep-czVBmqZP6Ss](/episodes/ep-czVBmqZP6Ss.md)
+### [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 
 - [00:00:51](/episodes/ep-czVBmqZP6Ss.md#^t-00-00-44)
   > "...ght the world a lot of relief. Also, you know, sadness—we were grieving with her—was when his wife, Mrs. Erika Kirk, addressed not just the nation, but the entire world. Her words were very powerful. And we just hav..."
 - [00:01:07](/episodes/ep-czVBmqZP6Ss.md#^t-00-00-44)
   > "...ry brief portion of her remarks, which you should pursue in their entirety. But here she is. (Clip: Erika Kirk) If you thought that my husband's mission was powerful before, you have no idea. You have no idea w..."
 
-### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
+### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 
 - [00:07:16](/episodes/ep-his-JBjlkh8.md#^t-00-07-16)
   > "...s to support that claim. Let's keep it rolling. She has claimed that foreign aircraft have followed Erika Kirk around the country and that Turning Point has lied about this happening. Definitely never said Turn..."
 
-### [ep-ja26iltROkM](/episodes/ep-ja26iltROkM.md)
+### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 
 - [00:00:02](/episodes/ep-ja26iltROkM.md#^t-00-00-00)
   > "All right, you guys. Happy Monday. Erika Kirk (Charlie Kirk's wife), man. That—she really is just the moment. The speech that she gave—everybody ..."
@@ -236,19 +236,19 @@ _Type: People_
 - [00:58:51](/episodes/ep-ja26iltROkM.md#^t-00-58-36)
   > "...ly didn't convert, but also the nastiness towards Catholics just needs to stop—point blank. I mean, Erika Kirk was raised in a Catholic family, so that was a strange thing to have people react so crazy. I don't..."
 
-### [ep-q7f8r-THr84](/episodes/ep-q7f8r-THr84.md)
+### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
 
 - [00:40:07](/episodes/ep-q7f8r-THr84.md#^t-00-39-40)
   > "...kay, so I wanna be very clear here. No one, and I mean absolutely no one, outside of my husband and Erika Kirk has the power to shut me up right now. That's it, two people. If you gotta make an appeal, you gott..."
 
-### [ep-r1PS67aRmcA](/episodes/ep-r1PS67aRmcA.md)
+### [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
 
 - [00:29:02](/episodes/ep-r1PS67aRmcA.md#^t-00-28-34)
   > "...you on read and you want to come on this show and you want to debate Israel and you want to discuss Erika Kirk and the things I never said, if you want to discuss your relationship with Charlie (Charlie Kirk), ..."
 - [00:49:53](/episodes/ep-r1PS67aRmcA.md#^t-00-49-40)
   > "...it. There's not a chance that he thought that I said Seth Dillon murdered Charlie (Charlie Kirk) or Erika Kirk murdered Charlie (Charlie Kirk). So he's showing his fear. And also, like I said, I think he wanted..."
 
-### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
+### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
 
 - [00:00:51](/episodes/ep-vwG1juDCQZQ.md#^t-00-00-45)
   > "... them—going to cover the top moments, top viral moments from the heavily anticipated interview with Erika Kirk (Charlie Kirk's widow) on Fox News with Jesse Watters. So let's get started. Okay, first things fir..."

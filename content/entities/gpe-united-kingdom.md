@@ -12,7 +12,7 @@ _Type: Places_
 
 ## Mentions
 
-### [ep-_dRaEO47-co](/episodes/ep-_dRaEO47-co.md)
+### [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 
 - [00:13:27](/episodes/ep-_dRaEO47-co.md#^t-00-13-27)
   > "... you look cool. We really did go everywhere. I mean, all 50 states, Canada, down to the border, the United Kingdom, Israel—you name it, we were there. And there was always a new t-shirt to print out: “Justice for B..."

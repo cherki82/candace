@@ -12,7 +12,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
+### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:10:13](/episodes/ep-a-e7HC6SeK8.md#^t-00-09-45)
   > "...s is hardly the first time that the DuPont family has found itself the focus of unsavory headlines. John DuPont shot Olympic wrestler David Schultz dead in the driveway of the family's mansion in 1996. Two years..."

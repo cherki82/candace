@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-YaZfwLQ7vrI](/episodes/ep-YaZfwLQ7vrI.md)
+### [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 
 - [00:17:14](/episodes/ep-YaZfwLQ7vrI.md#^t-00-16-39)
   > "... Lance Wallnau (Lance Wallnau)—he's no different. He graduated from a military academy. His father, Carl Wallnau, was a major in the United States Air Force. Wallnau served under General Patton. After the war, he..."
@@ -18,9 +18,9 @@ _Type: People_
 ### Employed By
 
 - [United States Air Force](/entities/org-united-states-air-force.md)
-  - [ep-YaZfwLQ7vrI @ 00:17:14](/episodes/ep-YaZfwLQ7vrI.md#^t-00-16-39): "His father, Carl Wallnau, was a major in the United States Air Force"
+  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:17:14](/episodes/ep-YaZfwLQ7vrI.md#^t-00-16-39): "His father, Carl Wallnau, was a major in the United States Air Force"
 
 ### Parent Of
 
 - [Lance Wallnau](/entities/person-lance-wallnau.md)
-  - [ep-YaZfwLQ7vrI @ 00:17:14](/episodes/ep-YaZfwLQ7vrI.md#^t-00-16-39): "His father, Carl Wallnau"
+  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:17:14](/episodes/ep-YaZfwLQ7vrI.md#^t-00-16-39): "His father, Carl Wallnau"

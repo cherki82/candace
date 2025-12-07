@@ -12,7 +12,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-2Riv3I7D0Yk](/episodes/ep-2Riv3I7D0Yk.md)
+### [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
 
 - [00:26:39](/episodes/ep-2Riv3I7D0Yk.md#^t-00-26-31)
   > "...hers say he was going in, you know, very, very simple point: Would he have had on me and our friend Rabbi Pesach Wolicki literally the night before his death to spend an entire hour talking about how to respond to anti-I..."

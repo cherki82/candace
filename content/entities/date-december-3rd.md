@@ -8,7 +8,7 @@ _Type: Dates_
 
 ## Mentions
 
-### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
+### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
 
 - [00:08:25](/episodes/ep-sImMM04XdWY.md#^t-00-08-18)
   > "...t, and I still believe that Brigitte Macron was born a man named Jean-Michel Trogneux. Suddenly, on December 3rd, before I interview him, I receive the first ever cease-and-desist letter from Brigitte Macron and ..."

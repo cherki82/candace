@@ -8,7 +8,7 @@ _Type: Places_
 
 ## Mentions
 
-### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
+### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:13:32](/episodes/ep-tB5SXXmd9vU.md#^t-00-13-15)
   > "...kind of go overseas to handle business, and members in pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, and France. Israel's involved, Rhodesia, South Africa. I mean, it tells you there that the process..."
@@ -18,4 +18,4 @@ _Type: Places_
 ### Member Of
 
 - [Safari Club](/entities/org-safari-club.md)
-  - [ep-tB5SXXmd9vU @ 00:13:29](/episodes/ep-tB5SXXmd9vU.md#^t-00-13-15): "...members in pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, and France..."
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:13:29](/episodes/ep-tB5SXXmd9vU.md#^t-00-13-15): "...members in pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, and France..."

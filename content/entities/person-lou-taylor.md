@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-7RLtGgkTh9o](/episodes/ep-7RLtGgkTh9o.md)
+### [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 
 - [00:05:39](/episodes/ep-7RLtGgkTh9o.md#^t-00-05-39)
   > "...ist. Now, so that we can have a little bit more of a gist—particularly who they were referencing—is Lou Taylor. Lou Taylor apparently was very much involved. That is what has been heavily insinuated—and even by..."
@@ -72,9 +72,9 @@ _Type: People_
 ### Employed By
 
 - [Bob Bryar](/entities/person-bob-bryar.md)
-  - [ep-7RLtGgkTh9o @ 00:25:51](/episodes/ep-7RLtGgkTh9o.md#^t-00-25-15): "Lou Taylor was my business manager for 18 years"
+  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:25:51](/episodes/ep-7RLtGgkTh9o.md#^t-00-25-15): "Lou Taylor was my business manager for 18 years"
 
 ### Owns
 
 - [Tristar](/entities/org-tristar.md)
-  - [ep-7RLtGgkTh9o @ 00:08:15](/episodes/ep-7RLtGgkTh9o.md#^t-00-08-11): "Tristar—that is Lou Taylor's company"
+  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:08:15](/episodes/ep-7RLtGgkTh9o.md#^t-00-08-11): "Tristar—that is Lou Taylor's company"

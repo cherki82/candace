@@ -8,12 +8,12 @@ _Type: People_
 
 ## Mentions
 
-### [ep-7RLtGgkTh9o](/episodes/ep-7RLtGgkTh9o.md)
+### [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 
 - [00:01:32](/episodes/ep-7RLtGgkTh9o.md#^t-00-01-21)
   > "...o steel ourselves against psychological operations. It is all about psychology. That is the name of the game. We are living inside of one big psychological operation. I am convinced. I've seen enough. There's..."
 
-### [ep-Cq7nj9rxPdo](/episodes/ep-Cq7nj9rxPdo.md)
+### [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
 
 - [00:24:11](/episodes/ep-Cq7nj9rxPdo.md#^t-00-24-11)
   > "...ant chief of staff for psychological warfare in the Navy. Psychological warfare—this is the name of the game. And that trajectory is increasingly interesting to me. I think we have this clip from an investiga..."
@@ -22,12 +22,12 @@ _Type: People_
 - [01:00:00](/episodes/ep-Cq7nj9rxPdo.md#^t-00-59-55)
   > "...there's now a new AI web browser from Perplexity that's called Comet, and it is completely changing the game. You can actually interact with your browser. Using Comet is like having a personal assistant that ..."
 
-### [ep-YaZfwLQ7vrI](/episodes/ep-YaZfwLQ7vrI.md)
+### [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 
 - [00:43:40](/episodes/ep-YaZfwLQ7vrI.md#^t-00-42-56)
   > "... And I didn't think there was anything left for me to grab, but it's here. It's final. I've now won the game. And they are calling me a cult leader. Yeah, so because I survived all their attacks and have focu..."
 
-### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
+### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 
 - [00:01:00](/episodes/ep-his-JBjlkh8.md#^t-00-00-44)
   > "...those things. So major, major win. I am excited. Also, later on in the show, what I have for you is The Game, whose rapper is releasing a song that is entitled "The Assassination of Candace Owens." And I have..."
@@ -44,12 +44,12 @@ _Type: People_
 - [00:56:43](/episodes/ep-his-JBjlkh8.md#^t-00-56-18)
   > "... some new kit, which I think looks really good, actually. We're gonna have to send something out to The Game. Game gonna recognize game. I think that's fair. Game gonna recognize game. And you guys can now al..."
 
-### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
+### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
 
 - [00:28:06](/episodes/ep-vwG1juDCQZQ.md#^t-00-28-01)
   > "...families, of course, lose. Every call, every fee, every high-interest trap is another reminder that the game is completely rigged. But there's another side of the story, too. PDS Debt has already helped hundr..."
 
-### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
+### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:35:25](/episodes/ep-yAIb-NuUh_U.md#^t-00-34-59)
   > "...families, of course, lose. Every call, every fee, every high-interest trap is another reminder that the game is completely rigged. But there is another side of the story too. PDS Debt has already helped hundr..."

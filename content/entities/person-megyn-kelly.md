@@ -13,7 +13,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-2Riv3I7D0Yk](/episodes/ep-2Riv3I7D0Yk.md)
+### [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
 
 - [00:25:23](/episodes/ep-2Riv3I7D0Yk.md#^t-00-24-59)
   > "...a stray? Like what's Michael Knowles been up to? That he's like now on their list. Michael Knowles, Megyn Kelly—they're listing them. That's coming next, okay? Inevitably, it comes inward. And I just wanna be cl..."
@@ -26,7 +26,7 @@ _Type: People_
 - [01:13:16](/episodes/ep-2Riv3I7D0Yk.md#^t-01-12-59)
   > "... Owens) doesn't even hate the left anymore." Like that was supposed to be a convincing argument for Megyn to trash me. Like really trying to get us to exist in that left-right paradigm, and it only serves ..."
 
-### [ep-2WEHTk0Xewg](/episodes/ep-2WEHTk0Xewg.md)
+### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 
 - [00:37:15](/episodes/ep-2WEHTk0Xewg.md#^t-00-36-35)
   > "...Tucker (Tucker Carlson) completely destroyed the Benjamin Netanyahu (Benjamin Netanyahu) narrative. Megyn Kelly, Dave Smith—I mean everybody yesterday. The truth is coming out inevitably about Charlie (Charlie K..."
@@ -41,12 +41,12 @@ _Type: People_
 - [00:53:25](/episodes/ep-2WEHTk0Xewg.md#^t-00-53-24)
   > "...ave certain narratives go only one way that must be called out and must be fought. Love that. Like, Megyn, that was amazing. Thank you. I think all of us right now are just feeling we have to speak, okay? ..."
 
-### [ep-581dILVcEE4](/episodes/ep-581dILVcEE4.md)
+### [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
 
 - [00:46:30](/episodes/ep-581dILVcEE4.md#^t-00-46-30)
   > "...ed to you that there was—because everybody's miked up— I told you all this was miked up. Obviously, Megyn and Kelly happened to have that footage, but they have that footage with like full clarity of exact..."
 
-### [ep-5autG89PW6w](/episodes/ep-5autG89PW6w.md)
+### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 
 - [00:11:03](/episodes/ep-5autG89PW6w.md#^t-00-11-03)
   > "... implicating them in Charlie (Charlie Kirk)'s death. It's a sick game for her." And out of nowhere, Megyn Kelly needs to stop making excuses for this vile behavior. I have no idea why Megyn Kelly is being just i..."
@@ -55,7 +55,7 @@ _Type: People_
 - [00:11:11](/episodes/ep-5autG89PW6w.md#^t-00-11-03)
   > "... have no idea why Megyn Kelly is being just invoked. It's like these people just get drunk and beat Megyn Kelly when they get home. I don't know what is happening and why she's being dragged into anything that I..."
 
-### [ep-K1tFD7FfoCU](/episodes/ep-K1tFD7FfoCU.md)
+### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 
 - [00:09:47](/episodes/ep-K1tFD7FfoCU.md#^t-00-09-46)
   > "... get mad at Tucker Carlson (Tucker Carlson). They attack me. They get mad at me. They kind of punch Megyn Kelly (Megyn Kelly) now. I don't know what Megyn Kelly (Megyn Kelly) has done wrong, but she's done wrong..."
@@ -70,12 +70,12 @@ _Type: People_
 - [00:28:58](/episodes/ep-K1tFD7FfoCU.md#^t-00-28-37)
   > "...doing this—about the pressure that Charlie (Charlie Kirk) was under. And it was not easy for Megyn (Megyn Kelly) to do that, okay? She is still catching heat for the fact that she did that. So I feel like Erika ..."
 
-### [ep-K5GjF53bfN4](/episodes/ep-K5GjF53bfN4.md)
+### [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 
 - [00:05:39](/episodes/ep-K5GjF53bfN4.md#^t-00-05-39)
   > "...layed multiple times, of what happened the day after this little weekend retreat where he vented to Megyn Kelly his frustrations with him being wrongly labeled anti-Semitic and how it was actually pushing him aw..."
 
-### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
+### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 
 - [00:00:51](/episodes/ep-MUA9ebCF4Ow.md#^t-00-00-40)
   > "... Zionist lobby because they were just sloppy in these lies, these post-mortem lies. Anyways, Megyn (Megyn Kelly), okay? From the top ropes, she just swooped in and did something unexpected by slamming these peop..."
@@ -108,7 +108,7 @@ _Type: People_
 - [00:04:33](/episodes/ep-MUA9ebCF4Ow.md#^t-00-04-33)
   > "...med Josh stepped up and asked her about that moment. And here is what Megyn (Megyn Kelly) said. Hi, Megyn. Hi. My name is Joshua. My question is: during a recent stop, you had Ben Shapiro as a guest, and h..."
 
-### [ep-QZWSsq8ZWzw](/episodes/ep-QZWSsq8ZWzw.md)
+### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 
 - [00:27:38](/episodes/ep-QZWSsq8ZWzw.md#^t-00-27-09)
   > "...ly because I'm not going to allow it to. Let's take a pause here. We're gonna get to something that Megyn Kelly shared on her show about a hex that was put on Charlie Kirk—which is important for us to discuss fo..."
@@ -117,7 +117,7 @@ _Type: People_
 - [00:33:48](/episodes/ep-QZWSsq8ZWzw.md#^t-00-33-34)
   > "...ic priest—I didn't expect—I wish I could have given them the exact person. But take a listen to how Megyn Kelly shares what happened—a curse that was put on Charlie Kirk just before he went out to UVU. I learned..."
 
-### [ep-Qt0VHV-POCg](/episodes/ep-Qt0VHV-POCg.md)
+### [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 
 - [00:33:05](/episodes/ep-Qt0VHV-POCg.md#^t-00-32-32)
   > "...rning Point USA's early story. Okay? And like I said, I know how Charlie felt about Don Jr. So when Megyn Kelly asked him what he thought about the investigation into Charlie's assassination, I was expecting him..."
@@ -130,14 +130,14 @@ _Type: People_
 - [00:34:09](/episodes/ep-Qt0VHV-POCg.md#^t-00-34-09)
   > "...id and they go all in and do that, we can keep that alive." "And honestly, we all owe that to him." MEGYN KELLY: Just to round back, do you have confidence in the investigation? Should we have confidence in this..."
 
-### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
+### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:31:16](/episodes/ep-SKGUzGHymcI.md#^t-00-31-12)
   > "...ie (Charlie Kirk) in the hospital, and carried Charlie (Charlie Kirk) into the waiting SUV, he told Megyn Kelly something different about drones on that day. Take a listen. In fact, when we were driving into tha..."
 - [00:31:49](/episodes/ep-SKGUzGHymcI.md#^t-00-31-36)
   > "...d you stay an extra day and come with me to the first event? I said, of course. So we're driving in Megyn and his team has drones up looking at the crowd from above and they text him some video. And there'..."
 
-### [ep-aDlhjfW6hz8](/episodes/ep-aDlhjfW6hz8.md)
+### [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 
 - [00:34:09](/episodes/ep-aDlhjfW6hz8.md#^t-00-33-27)
   > "...ck—as you can see, and the date here is May 22nd of this year— "It totally is." Okay. Me and Megyn (Megyn Kelly) and Tucker (Tucker Carlson) are not lying to you. Charlie was concerned about the speech that he f..."
@@ -146,7 +146,7 @@ _Type: People_
 - [00:37:07](/episodes/ep-aDlhjfW6hz8.md#^t-00-36-57)
   > "... reason they're doing this, obviously, is because they can't win in the free markets. People are—as Megyn said—people that are under 30 are anti-Israel. So that means the future of America is anti-Israel. ..."
 
-### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
+### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
 
 - [00:00:03](/episodes/ep-adJ4LNGp84I.md#^t-00-00-00)
   > "...can begin your timers because it is not going to be long until the media tries to convince you that Megyn Kelly—yes, that Megyn Kelly—is Adolf Hitler. I'm not kidding. It's definitely coming. There is going to b..."
@@ -173,7 +173,7 @@ _Type: People_
 - [00:38:16](/episodes/ep-adJ4LNGp84I.md#^t-00-37-49)
   > "...e was like, I'm done. I'm just done. I'm digging my heels in, because they know what this is. Okay, Megyn is an adult. She's also quite brilliant. She's not going to fall for this, should I call it babble,..."
 
-### [ep-czVBmqZP6Ss](/episodes/ep-czVBmqZP6Ss.md)
+### [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 
 - [00:11:31](/episodes/ep-czVBmqZP6Ss.md#^t-00-11-22)
   > "... I'm a Christian, but like the—some of the mess, and you saw it. You've seen how I've been treated, Megyn, by some, not all, by some. No, it's very irritating. It is. It's been so unfair. They were coming ..."
@@ -186,14 +186,14 @@ _Type: People_
 - [00:13:50](/episodes/ep-czVBmqZP6Ss.md#^t-00-13-40)
   > "...to happen. Those—that amount of pressure towards the end, as you see, that conversation he had with Megyn was just a month before he lost his life, really, I would say, reached a pinnacle of sorts on the m..."
 
-### [ep-ja26iltROkM](/episodes/ep-ja26iltROkM.md)
+### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 
 - [00:33:58](/episodes/ep-ja26iltROkM.md#^t-00-33-19)
   > "...anti-Semitism is and what anti-Semitism is not. It was a town hall of sorts with students. Gen Z—as Megyn Kelly (Megyn Kelly) said—you can't find anybody beneath the age of 30 that supports Israel. That's a fact..."
 - [00:41:45](/episodes/ep-ja26iltROkM.md#^t-00-41-21)
   > "...in his own words. It's ridiculous to pretend like I am saying something that you cannot verify—that Megyn Kelly (Megyn Kelly) is lying, that Tucker Carlson (Tucker Carlson) is lying. And it is very difficult to ..."
 
-### [ep-ozWJz2spBcI](/episodes/ep-ozWJz2spBcI.md)
+### [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
 
 - [00:09:04](/episodes/ep-ozWJz2spBcI.md#^t-00-09-02)
   > "...e day that he died. These are all indisputable facts. And it is also a fact, which was presented by Megyn Kelly, that a few weeks before his death, Erika had a priest come over to pray over them when some witche..."
@@ -208,12 +208,12 @@ _Type: People_
 - [00:46:13](/episodes/ep-ozWJz2spBcI.md#^t-00-46-12)
   > "...:) "Why am I bringing this up? Because I was watching an interview with Tucker (Tucker Carlson) and Megyn Kelly, and this is what they said: everyone under 30 in America is against Israel. The older generation i..."
 
-### [ep-pc3pxRyNFZk](/episodes/ep-pc3pxRyNFZk.md)
+### [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
 
 - [01:00:02](/episodes/ep-pc3pxRyNFZk.md#^t-00-59-27)
   > "...or"—and again, it's not every pastor, but it's too many pastors—"get up on a stage and preach about Megyn Kelly (Megyn Kelly) and Tucker Carlson (Tucker Carlson)?" That is leading to broader questions. And I thi..."
 
-### [ep-q7f8r-THr84](/episodes/ep-q7f8r-THr84.md)
+### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
 
 - [00:50:30](/episodes/ep-q7f8r-THr84.md#^t-00-49-58)
   > "...meeting with Charlie (Charlie Kirk) on August 4th and 5th. Here's Charlie (Charlie Kirk) talking to Megyn Kelly the very next day on August 6th. Now, how do you think that meeting went down? Oh yeah, forgot to t..."
@@ -232,7 +232,7 @@ _Type: People_
 - [00:54:45](/episodes/ep-q7f8r-THr84.md#^t-00-54-45)
   > "... can tell you right now from the energy that is coming out of him, the energy that is coming out of Megyn, is where I was two years ago, okay? I've been there. You can't even lie to—you can't even attempt ..."
 
-### [ep-r1PS67aRmcA](/episodes/ep-r1PS67aRmcA.md)
+### [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
 
 - [00:00:18](/episodes/ep-r1PS67aRmcA.md#^t-00-00-00)
   > "...Well, it's my turn now, you guys, because yesterday Ben Shapiro, who was invited as a guest to join Megyn Kelly on her tour, he pretty much just goes mask off, and it's obviously hilarious. He just lies. It's so..."
@@ -281,14 +281,14 @@ _Type: People_
 - [00:53:57](/episodes/ep-r1PS67aRmcA.md#^t-00-53-14)
   > "...-the-scenes actions that they take and how they treat people. And I mean, what a terrible guest for Megyn. She's inviting you on her platform and you know you've planned this session. You know you planned ..."
 
-### [ep-sreYYcID-QY](/episodes/ep-sreYYcID-QY.md)
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 
 - [00:32:06](/episodes/ep-sreYYcID-QY.md#^t-00-31-58)
   > "...bout—that Benjamin Netanyahu (Bibi) murdered Charlie Kirk. Tucker (Tucker Carlson) never said that. Megyn Kelly never said that. Dave Smith never said that. Instead what we are doing is we are disputing Benjamin..."
 - [00:32:54](/episodes/ep-sreYYcID-QY.md#^t-00-32-42)
   > "... Carlson) had to make two videos saying “I didn't kill Charlie Kirk,” you would go, "That's weird." Megyn Kelly, “I didn't kill Charlie Kirk.” Why would she do that? Of course she didn't kill Charlie Kirk. But B..."
 
-### [ep-t1YtLS1n8Vs](/episodes/ep-t1YtLS1n8Vs.md)
+### [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
 
 - [00:43:30](/episodes/ep-t1YtLS1n8Vs.md#^t-00-42-54)
   > "...s versus them, and they're upset that we're united. By the way, I saw this when they were attacking Megyn Kelly. I think I showed you yesterday; she said, “Well, my battle is against the left.” And then they sho..."
@@ -299,7 +299,7 @@ _Type: People_
 - [00:43:38](/episodes/ep-t1YtLS1n8Vs.md#^t-00-43-38)
   > "...then they showed her a clip of me saying that it's not left or right anymore and said, “Well, look, Megyn, now you should attack Candace (Candace Owens) because she's allied with the left.” Yep, I am allie..."
 
-### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
+### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:39:49](/episodes/ep-yAIb-NuUh_U.md#^t-00-39-16)
   > "... just a bad person." "You've got to make a statement against her." Charlie (Charlie Kirk) said no. "Megyn Kelly, it's your career or it's Tucker (Tucker Carlson)?" "You decide, right?" "I'm your friend." "I just..."
@@ -309,12 +309,12 @@ _Type: People_
 ### Interviewed
 
 - [Ben Shapiro](/entities/person-ben-shapiro.md)
-  - [ep-MUA9ebCF4Ow @ 00:04:37](/episodes/ep-MUA9ebCF4Ow.md#^t-00-04-35): "you had Ben Shapiro as a guest"
+  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:04:37](/episodes/ep-MUA9ebCF4Ow.md#^t-00-04-35): "you had Ben Shapiro as a guest"
 
 ### Referenced By
 
 - [Ben Shapiro](/entities/person-ben-shapiro.md) **criticized** this
-  - [ep-MUA9ebCF4Ow @ 00:06:23](/episodes/ep-MUA9ebCF4Ow.md#^t-00-05-50)
+  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:06:23](/episodes/ep-MUA9ebCF4Ow.md#^t-00-05-50)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) **interviewed by** this
-  - [ep-SKGUzGHymcI @ 00:31:35](/episodes/ep-SKGUzGHymcI.md#^t-00-31-12)
-  - [ep-QZWSsq8ZWzw @ 00:27:38](/episodes/ep-QZWSsq8ZWzw.md#^t-00-27-09)
+  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:31:35](/episodes/ep-SKGUzGHymcI.md#^t-00-31-12)
+  - [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 @ 00:27:38](/episodes/ep-QZWSsq8ZWzw.md#^t-00-27-09)

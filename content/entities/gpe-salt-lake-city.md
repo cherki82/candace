@@ -8,14 +8,14 @@ _Type: Places_
 
 ## Mentions
 
-### [ep-2WEHTk0Xewg](/episodes/ep-2WEHTk0Xewg.md)
+### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 
 - [00:19:25](/episodes/ep-2WEHTk0Xewg.md#^t-00-18-53)
   > ".... They say these things are found on the bullets. Okay. And then just seven minutes later, the FBI— Salt Lake City—drops static images of the alleged shooter walking up the stairs. Okay, so now we can see on our ti..."
 - [00:19:31](/episodes/ep-2WEHTk0Xewg.md#^t-00-18-53)
   > "...alking up the stairs. Okay, so now we can see on our timeline that's around 10 a.m. in the morning, Salt Lake City time—Mountain Time. So we can then assume that everything else that's about to happen that I'm goin..."
 
-### [ep-JQjCAsfoXEE](/episodes/ep-JQjCAsfoXEE.md)
+### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 
 - [00:12:50](/episodes/ep-JQjCAsfoXEE.md#^t-00-12-33)
   > "...and I'm sharing this with you now for a reason—when I learned that Charlie (Charlie Kirk) flew into Salt Lake City that morning. Because why didn't he fly into the much closer Provo airport? Now, ostensibly, the an..."
@@ -24,19 +24,19 @@ _Type: Places_
 - [00:15:09](/episodes/ep-JQjCAsfoXEE.md#^t-00-14-44)
   > "...'s all gonna be relevant now, okay? So you have to remember that Charlie (Charlie Kirk) landed into Salt Lake City at 9:23 a.m. local time. I suspect that if he had instead landed into Provo, he would have recogniz..."
 
-### [ep-Qfwr08Ebczo](/episodes/ep-Qfwr08Ebczo.md)
+### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
 
 - [00:17:34](/episodes/ep-Qfwr08Ebczo.md#^t-00-17-34)
   > "... his first stop, which is incredible. We can listen to a news anchor. I think this is from Fox News Salt Lake City describe exactly when that request went out—as we're telling you, on July 18th. Take a listen. Utah..."
 - [00:42:23](/episodes/ep-Qfwr08Ebczo.md#^t-00-41-54)
   > "...ode. Laughing Cats Music World writes, "I keep thinking about George Zinn. I know he was a habitual Salt Lake City event disruptor, but what are the chances his reflex is to take the blame voluntarily? I guess it's..."
 
-### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
+### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:28:45](/episodes/ep-SKGUzGHymcI.md#^t-00-28-27)
   > "...senger flight. That's a big one. That was Charlie (Charlie Kirk)'s plane that day first took him to Salt Lake City for the Restaurantology interview that he did, his last interview. And then after he gets shot, whi..."
 
-### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
+### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 
 - [00:24:12](/episodes/ep-YFmRH8p5lt0.md#^t-00-24-03)
   > "... a little bit on April 19th. It goes to Provo. It comes in from Cairo via Paris. It makes a stop in Salt Lake City, and then goes on to Provo. That is April 19th, okay? Lo and behold, BTT is then going to come in f..."
@@ -63,7 +63,7 @@ _Type: Places_
 - [00:59:42](/episodes/ep-YFmRH8p5lt0.md#^t-00-59-37)
   > "... his plane. So that does make sense. They would have had information. I was wondering why he was in Salt Lake City, but apparently he had an interview with Restaurantology Summit. So you can ignore that tidbit. Com..."
 
-### [ep-iHav0PPzUz8](/episodes/ep-iHav0PPzUz8.md)
+### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
 
 - [00:27:54](/episodes/ep-iHav0PPzUz8.md#^t-00-27-20)
   > "...ses. And the notable exception here is that Provo does not have an Air Force base. They have one in Salt Lake City, but they do not have one in Provo. So I hope that makes more sense there. Now let's switch gears. ..."

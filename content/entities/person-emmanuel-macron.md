@@ -12,7 +12,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-7RLtGgkTh9o](/episodes/ep-7RLtGgkTh9o.md)
+### [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 
 - [00:00:23](/episodes/ep-7RLtGgkTh9o.md#^t-00-00-00)
   > "...ch I got obsessed with and [that] it's required reading for this podcast— connected to the Brigitte Macron case. I'm gonna tell you about that, connected to Ye (Kanye West), me telling you all about what ha..."
@@ -25,7 +25,7 @@ _Type: People_
 - [00:30:07](/episodes/ep-7RLtGgkTh9o.md#^t-00-30-07)
   > "...y of this and did not see relevance because at that time I was very much investigating the Brigitte Macron thing and was arriving very quickly at this weird backstory of MKUltra and the Haight-Ashbury Clini..."
 
-### [ep-Cq7nj9rxPdo](/episodes/ep-Cq7nj9rxPdo.md)
+### [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
 
 - [00:56:09](/episodes/ep-Cq7nj9rxPdo.md#^t-00-55-46)
   > "...'re talking about who Brigitte actually is, the families that Brigitte is related to, the fact that Emmanuel Macron is in fact—just like the state of Israel—a Rothschild creation; talking about the military industri..."
@@ -36,17 +36,17 @@ _Type: People_
 - [00:56:33](/episodes/ep-Cq7nj9rxPdo.md#^t-00-56-19)
   > "...his week is people who hadn't even watched the series were like, "Okay, I've seen enough." Brigitte Macron crying because she doesn't know—Brigitte doesn't know why—but on the tax forms, the French tax form..."
 
-### [ep-K1tFD7FfoCU](/episodes/ep-K1tFD7FfoCU.md)
+### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 
 - [00:11:16](/episodes/ep-K1tFD7FfoCU.md#^t-00-10-58)
   > "...ace Owens (clip): Obama, gay. Candace Owens (clip): Zelensky (Zelensky), gay. Candace Owens (clip): Emmanuel Macron (Emmanuel Macron), gay and married to a trans man who molested him when he was a child. Candace Owe..."
 
-### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
+### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 
 - [00:39:20](/episodes/ep-MUA9ebCF4Ow.md#^t-00-39-14)
   > "...s to lawsuits. If you have to sue someone to prove—as an example—that you are a woman—a la Brigitte Macron—it's because you're not one. If you have to sue someone to prove that your relationship is really a..."
 
-### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
+### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:38:38](/episodes/ep-SKGUzGHymcI.md#^t-00-38-36)
   > "...larly, I would say the last two years of that, I mean, any person who actually watched the Brigitte Macron story knows that that was a story about pedophiles in power, pedophiles in power and the psychopath..."
@@ -57,19 +57,19 @@ _Type: People_
 - [00:53:37](/episodes/ep-SKGUzGHymcI.md#^t-00-53-19)
   > "...f people wrote that instantly they did this intentionally because you were on the track of Brigitte Macron we were getting real close talking about that MK Ultra experiment that happened that I believe it l..."
 
-### [ep-YaZfwLQ7vrI](/episodes/ep-YaZfwLQ7vrI.md)
+### [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 
 - [00:57:55](/episodes/ep-YaZfwLQ7vrI.md#^t-00-57-38)
   > "...me so much on Zionism—you know, Israel—is kind of what she wanted to speak about. And then Brigitte Macron is what she wanted to speak about. Anyways, speaking of this book—I loved seeing this online: "Make..."
 
-### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
+### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:01:56](/episodes/ep-a-e7HC6SeK8.md#^t-00-01-30)
   > "...ic agreed with me about my lawsuit, me being sued by Brigitte Macron, me being sued by Brigitte and Emmanuel Macron, and whether or not it was just one big federal setup meant to bankrupt me. And here is an answer t..."
 - [00:02:09](/episodes/ep-a-e7HC6SeK8.md#^t-00-02-09)
   > "... here is an answer that we got in the comment section. Look at this. "I believe that the purpose of Macron's lawsuit was that it was supposed to go nowhere because Candace (Candace Owens) was supposed to ha..."
 
-### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
+### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 
 - [00:49:54](/episodes/ep-his-JBjlkh8.md#^t-00-49-40)
   > "... and a half before Charlie (Charlie Kirk) was assassinated in Utah, Donald Trump (Donald Trump) and Emmanuel Macron had a phone call that has been recorded in Emmanuel Macron's public calendar, which has been releas..."
@@ -84,7 +84,7 @@ _Type: People_
 - [00:49:16](/episodes/ep-his-JBjlkh8.md#^t-00-49-01)
   > "...end in this moment just yet—we asked the question and we can't find the answer as to where Brigitte Macron was on the dates that the Egyptian plane was flying around America. It's just like a six-day gap in..."
 
-### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
+### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
 
 - [00:08:43](/episodes/ep-sImMM04XdWY.md#^t-00-08-18)
   > "...lease see attached the time-sensitive legal correspondence sent on behalf of our clients, President Emmanuel Macron and Brigitte Macron. We urge you to provide this correspondence to legal counsel promptly. They sen..."
@@ -131,14 +131,14 @@ _Type: People_
 - [00:27:17](/episodes/ep-sImMM04XdWY.md#^t-00-27-05)
   > "...er risk the entire thing coming undone than to just say, "Okay, maybe we took it too far. Let's get Macron out of office and put somebody else in there that we can control." They are taking this way too far..."
 
-### [ep-sreYYcID-QY](/episodes/ep-sreYYcID-QY.md)
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 
 - [00:46:01](/episodes/ep-sreYYcID-QY.md#^t-00-45-49)
   > "...ever, that's totally fine. On top of that, talk about a federal operation. Out of nowhere, Brigitte Macron just lies. I don't even know how they got this in the press. This is so dumb. Brigitte Macron comes..."
 - [00:46:15](/episodes/ep-sreYYcID-QY.md#^t-00-45-49)
   > "...gitte Macron just lies. I don't even know how they got this in the press. This is so dumb. Brigitte Macron comes out and says they have offered scientific evidence to the U.S. court to prove that Brigitte i..."
 
-### [ep-t1YtLS1n8Vs](/episodes/ep-t1YtLS1n8Vs.md)
+### [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
 
 - [00:34:37](/episodes/ep-t1YtLS1n8Vs.md#^t-00-34-19)
   > "...kay, I am the first. It is because we are getting close to a lot of truth when it comes to Brigitte Macron, okay? And so now what they're doing is they're calling their cronies. Brigitte Macron has hired fe..."
@@ -149,7 +149,7 @@ _Type: People_
 - [00:52:49](/episodes/ep-t1YtLS1n8Vs.md#^t-00-52-17)
   > "...ie Kirk)'s few true friends. You have bigger balls than Mrs. Macron.” I don't know about that. Mrs. Macron's got some pretty big balls. She's gonna bankrupt me for exposing it. “We'll bankrupt you;” that's ..."
 
-### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
+### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:12:30](/episodes/ep-tB5SXXmd9vU.md#^t-00-12-02)
   > "...government insider warned her of an imminent plot to have her assassinated, alleging that President Emmanuel Macron and his wife Brigitte had authorized and financed the operation, assigning it to a small National G..."
@@ -192,7 +192,7 @@ _Type: People_
 - [00:54:53](/episodes/ep-tB5SXXmd9vU.md#^t-00-54-28)
   > "... from The Matrix for me discussing a multinational state secret, which is Brigitte Macron. Brigitte Macron's true origins, what Brigitte Macron was involved in in the United States while living as Jean-Mich..."
 
-### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
+### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
 
 - [00:02:10](/episodes/ep-vwG1juDCQZQ.md#^t-00-02-10)
   > "... organic growth to criticism, legal challenges including a defamation lawsuit from French President Emmanuel Macron and First Lady Brigitte Macron, and her small team's resilience. Owens attributes the milestone to ..."
@@ -207,7 +207,7 @@ _Type: People_
 - [01:02:46](/episodes/ep-vwG1juDCQZQ.md#^t-01-02-42)
   > "...ically relentless over matters that don't have as much significance to my life personally. Brigitte Macron—I mean, that's a broader issue with perverts in power. But this one is—it is just so sinister, so e..."
 
-### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
+### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:30:34](/episodes/ep-yAIb-NuUh_U.md#^t-00-30-06)
   > "...n my investigations into Brigitte Macron and her strange relationship—his strange relationship—with Emmanuel Macron, the Fed-level cover-up, which includes never-before-seen lawsuits which is just meant to be propag..."
@@ -219,4 +219,4 @@ _Type: People_
 ### Married To
 
 - [Brigitte Macron](/entities/person-brigitte-macron.md)
-  - [ep-tB5SXXmd9vU @ 00:12:30](/episodes/ep-tB5SXXmd9vU.md#^t-00-12-02): "President Emmanuel Macron and his wife Brigitte had authorized and financed the operation"
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:12:30](/episodes/ep-tB5SXXmd9vU.md#^t-00-12-02): "President Emmanuel Macron and his wife Brigitte had authorized and financed the operation"

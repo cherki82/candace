@@ -13,56 +13,56 @@ _Type: Organizations_
 
 ## Mentions
 
-### [ep-2Riv3I7D0Yk](/episodes/ep-2Riv3I7D0Yk.md)
+### [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
 
 - [00:15:43](/episodes/ep-2Riv3I7D0Yk.md#^t-00-15-07)
   > "... to remind you that Josh Hammer is a lawyer by training. He was at one point the editor-at-large of the Daily Wire, and he is currently the senior editor-at-large at Newsweek. Plus he hosts his own show. My point t..."
 
-### [ep-Cq7nj9rxPdo](/episodes/ep-Cq7nj9rxPdo.md)
+### [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
 
 - [00:25:24](/episodes/ep-Cq7nj9rxPdo.md#^t-00-25-05)
   > "...pastors from the military there. I'm telling you, Marissa Streit—military. I then went to—obviously—the Daily Wire, and the president at the time of the Daily Wire was also a naval intelligence officer who decided ..."
 
-### [ep-K1tFD7FfoCU](/episodes/ep-K1tFD7FfoCU.md)
+### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 
 - [00:20:03](/episodes/ep-K1tFD7FfoCU.md#^t-00-19-50)
   > "...ie Kirk)—including donors—were very touched by a monologue that Matt Walsh (Matt Walsh) did over on the Daily Wire. I didn't see it. I was too aggrieved to watch anything, but apparently Matt Walsh (Matt Walsh) did..."
 
-### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
+### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 
 - [00:22:13](/episodes/ep-LATnak75Si0.md#^t-00-22-10)
   > "...rying to big-time her and act like you don't know who she is when you have done various things with the Daily Wire, including... You were featured in a movie that Brett Cooper starred in at the Daily Wire: "Lady Ba..."
 - [00:22:21](/episodes/ep-LATnak75Si0.md#^t-00-22-10)
   > "...ings with the Daily Wire, including... You were featured in a movie that Brett Cooper starred in at the Daily Wire: "Lady Ballers." You're good friends with Michael Knowles. You know fully well who Brett Cooper is...."
 
-### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
+### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 
 - [00:52:04](/episodes/ep-MUA9ebCF4Ow.md#^t-00-51-26)
   > "...es: "Hello, Candace (Candace Owens). I'm Bailey, and I've been a fan of your show since you were on the Daily Wire. Foreign Muslim immigrants are swarming into Europe, Australia, Canada, and the US, and I wanted to..."
 
-### [ep-Qt0VHV-POCg](/episodes/ep-Qt0VHV-POCg.md)
+### [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 
 - [00:40:22](/episodes/ep-Qt0VHV-POCg.md#^t-00-40-15)
   > "... the reason I had him on my show right after October 7th—sometimes shortly thereafter—when I was at the Daily Wire. And what he told me horrified me, and it pushed me to become more educated on the topic, and I was..."
 
-### [ep-aDlhjfW6hz8](/episodes/ep-aDlhjfW6hz8.md)
+### [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 
 - [00:29:16](/episodes/ep-aDlhjfW6hz8.md#^t-00-29-16)
   > "... and on, but it was kind of me saying—especially since three months earlier I had gotten fired from the Daily Wire—like, "Israel, you're not special." And yeah, Charlie got in trouble for the stuff that I said on s..."
 
-### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
+### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
 
 - [00:47:46](/episodes/ep-adJ4LNGp84I.md#^t-00-47-25)
   > "...always had a conspiracy about that. I used to read ads for them, ExpressVPN, when I was working for Daily Wire. And in back of my mind, I was like, it would make sense that they would train us to actually filte..."
 
-### [ep-ja26iltROkM](/episodes/ep-ja26iltROkM.md)
+### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 
 - [00:32:14](/episodes/ep-ja26iltROkM.md#^t-00-31-57)
   > "...arted getting peer-pressured to correct the tweets, to apologize for the tweet—at the time I was at The Daily Wire—that I needed to understand why my tweet was wrong. Dave Rubin instantly replied and said something..."
 - [00:49:43](/episodes/ep-ja26iltROkM.md#^t-00-49-28)
   > "...pretty early on. People really went mask-off when I said "Christ is King," post me being fired from The Daily Wire. He completely held the line. I'd met his wife. She's absolutely lovely. So I do know that he was a..."
 
-### [ep-r1PS67aRmcA](/episodes/ep-r1PS67aRmcA.md)
+### [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
 
 - [00:03:56](/episodes/ep-r1PS67aRmcA.md#^t-00-03-33)
   > "...ove to hear Ben speak about that. I mean, people have a Daily Wire non-compete when they're leaving the Daily Wire; they have to sign agreements that they're not going to go work for Tucker (Tucker Carlson) for six..."
@@ -97,26 +97,26 @@ _Type: Organizations_
 - [00:21:07](/episodes/ep-r1PS67aRmcA.md#^t-00-20-55)
   > "...the backstory is compelling. I learned the backstory listening to Jeremy Boreing, the former CEO of Daily Wire, sit down with Nick. So right after I've been fired, and I didn't know what Ben and Jeremy admitted..."
 
-### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
+### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
 
 - [00:07:51](/episodes/ep-sImMM04XdWY.md#^t-00-07-38)
   > "... I do that first episode regarding Brigitte Macron. March 19th, just six days later, I'm fired from the Daily Wire. I thought it was 10; it's actually six days later I get fired from the Daily Wire. Then, in mid-No..."
 - [00:07:56](/episodes/ep-sImMM04XdWY.md#^t-00-07-38)
   > "..., I'm fired from the Daily Wire. I thought it was 10; it's actually six days later I get fired from the Daily Wire. Then, in mid-November, I began communicating with Xavier Poussard regarding the potential to inter..."
 
-### [ep-sreYYcID-QY](/episodes/ep-sreYYcID-QY.md)
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 
 - [00:41:09](/episodes/ep-sreYYcID-QY.md#^t-00-40-44)
   > "... Turning Point USA last year? You don't remember that happening at all. Okay, then I get fired from The Daily Wire. Turning Point USA is the first to issue a “Christ is King” statement of support. Then I do what wa..."
 
-### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
+### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:47:57](/episodes/ep-tB5SXXmd9vU.md#^t-00-47-39)
   > "...rned every bridge she's ever been associated with. Whether that's Turning Point USA, whether that's The Daily Wire, whether that's PragerU, Charlie Kirk (Charlie Kirk), Steven Crowder. I don't know what's going on ..."
 - [00:49:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-48-53)
   > "...estigation into what actually happened on that day. Now, you seem to be naming employers. Regarding The Daily Wire, I am still friends with every single one of my colleagues that I was friends with when I went in t..."
 
-### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
+### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
 
 - [00:01:57](/episodes/ep-vwG1juDCQZQ.md#^t-00-01-30)
   > "...e, has reached the top global ranking according to Podscribe data following her 2024 departure from the Daily Wire. She credits the organic growth to criticism, legal challenges including a defamation lawsuit from ..."
@@ -134,19 +134,19 @@ _Type: Organizations_
 ### Fired
 
 - [Candace Owens](/entities/person-candace-owens.md)
-  - [ep-sreYYcID-QY @ 00:41:09](/episodes/ep-sreYYcID-QY.md#^t-00-40-44): "I get fired from The Daily Wire."
+  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:41:09](/episodes/ep-sreYYcID-QY.md#^t-00-40-44): "I get fired from The Daily Wire."
 
 ### Referenced By
 
 - [Ted Cruz](/entities/person-ted-cruz.md) **affiliated with** this
-  - [ep-LATnak75Si0 @ 00:22:21](/episodes/ep-LATnak75Si0.md#^t-00-22-10)
+  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:22:21](/episodes/ep-LATnak75Si0.md#^t-00-22-10)
 - [Jeremy Boreing](/entities/person-jeremy-boreing.md) **ceo of** this
-  - [ep-r1PS67aRmcA @ 00:12:39](/episodes/ep-r1PS67aRmcA.md#^t-00-12-19)
+  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:12:39](/episodes/ep-r1PS67aRmcA.md#^t-00-12-19)
 - [Josh Hammer](/entities/person-josh-hammer.md) **employed by** this
-  - [ep-2Riv3I7D0Yk @ 00:15:43](/episodes/ep-2Riv3I7D0Yk.md#^t-00-15-07)
+  - [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 00:15:43](/episodes/ep-2Riv3I7D0Yk.md#^t-00-15-07)
 - [Candace Owens](/entities/person-candace-owens.md) **employed by** this
-  - [ep-tB5SXXmd9vU @ 00:49:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-48-53)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:49:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-48-53)
 - [Candace Owens](/entities/person-candace-owens.md) **fired** this
-  - [ep-aDlhjfW6hz8 @ 00:29:16](/episodes/ep-aDlhjfW6hz8.md#^t-00-29-03)
+  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:29:16](/episodes/ep-aDlhjfW6hz8.md#^t-00-29-03)
 - [Brett Cooper](/entities/person-brett-cooper.md) **works at** this
-  - [ep-LATnak75Si0 @ 00:22:21](/episodes/ep-LATnak75Si0.md#^t-00-22-10)
+  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:22:21](/episodes/ep-LATnak75Si0.md#^t-00-22-10)

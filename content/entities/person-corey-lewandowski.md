@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-c5BcKF91iec](/episodes/ep-c5BcKF91iec.md)
+### [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 
 - [00:03:31](/episodes/ep-c5BcKF91iec.md#^t-00-03-03)
   > "...this catch. Charlie's eyes are closed here. And as soon as—I think it was Don Jr.— it might've been Corey Lewandowski—hit flash, took the picture. Charlie just went, "I don't know why you guys like this," because he w..."

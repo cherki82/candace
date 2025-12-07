@@ -8,7 +8,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [ep-581dILVcEE4](/episodes/ep-581dILVcEE4.md)
+### [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
 
 - [00:21:12](/episodes/ep-581dILVcEE4.md#^t-00-20-39)
   > ".... I don't think the students are flying around on private planes. It'd be great if that foundation, T.W. Lewis Foundation, could help us out. I don't think they will for some reason. We keep coming up against the wall fro..."
@@ -18,7 +18,7 @@ _Type: Organizations_
 ### Affiliated With
 
 - [Turning Point USA](/entities/org-turning-point-usa.md)
-  - [ep-SKGUzGHymcI @ 00:28:18](/episodes/ep-SKGUzGHymcI.md#^t-00-27-51): "Turning Point USA is featured on T.W. Lewis's foundation website. They are partners. They have given to Turning Point USA"
+  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:28:18](/episodes/ep-SKGUzGHymcI.md#^t-00-27-51): "Turning Point USA is featured on T.W. Lewis's foundation website. They are partners. They have given to Turning Point USA"
 
 ### Referenced By
 

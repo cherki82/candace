@@ -8,14 +8,14 @@ _Type: Organizations_
 
 ## Mentions
 
-### [ep-t1YtLS1n8Vs](/episodes/ep-t1YtLS1n8Vs.md)
+### [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
 
 - [00:50:57](/episodes/ep-t1YtLS1n8Vs.md#^t-00-50-50)
   > "...ou got to have good instincts. You got to know that just because it's wearing a ball gown and is at Mar-a-Lago doesn't mean that it's not a gangster. It's no different. It's no different from where Jay-Z came f..."
 - [00:51:04](/episodes/ep-t1YtLS1n8Vs.md#^t-00-50-50)
   > "...nt from where Jay-Z came from in the projects selling crack. It's just wearing a ball gown. It's at Mar-a-Lago. But that's still a gangster. I can recognize a gangster. And I don't think Charlie (Charlie Kirk) ..."
 
-### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
+### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:50:03](/episodes/ep-tB5SXXmd9vU.md#^t-00-49-28)
   > "...hang out. All you have to do is just not talk about the Epstein files, and you might get invited to Mar-a-Lago. Don't you want to be invited to Mar-a-Lago? Don't you want to go to Mar-a-Lago? Then why don't you..."

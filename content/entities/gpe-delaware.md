@@ -12,12 +12,12 @@ _Type: Places_
 
 ## Mentions
 
-### [ep-JQjCAsfoXEE](/episodes/ep-JQjCAsfoXEE.md)
+### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 
 - [00:17:22](/episodes/ep-JQjCAsfoXEE.md#^t-00-16-57)
   > "...rlie Kirk) is?" The flights were majority clustered within five states: Kansas, Missouri, Nebraska, Delaware, and Utah. And it's a pattern that she believes is statistically not random. I'm telling you, this ..."
 
-### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
+### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:00:33](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
   > "...military plane, which left Provo on the morning of Charlie (Charlie Kirk)'s assassination, doing in Delaware? Actually, we should figure that out. Welcome back to Candace (Candace Owens). There are so many el..."
@@ -54,12 +54,12 @@ _Type: Places_
 - [00:19:26](/episodes/ep-SKGUzGHymcI.md#^t-00-19-26)
   > "...any sense. On November 13, 2022, SUBTT flies from Cairo to Paris to Wichita, Kansas, to Wilmington, Delaware, back to Cairo. That is already a four-legged two-continent hop that ends in Wilmington before goin..."
 
-### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
+### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 
 - [00:17:59](/episodes/ep-YFmRH8p5lt0.md#^t-00-17-41)
   > "... this plane is here. Okay. Let's keep going. Okay. April 6th, it leaves, and it always goes through Delaware when it leaves and goes back to Cairo. Okay. Now I am just kind of putting down for you here again ..."
 
-### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
+### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:13:56](/episodes/ep-ZAuuSq_j2_w.md#^t-00-13-44)
   > "...n, but it did not go anywhere. And then of course, our now infamous yellow plane that carried on to Delaware—Wilmington, Delaware—that morning, and has seemingly panicked the world, right? I'm reminding you t..."
@@ -68,7 +68,7 @@ _Type: Places_
 - [00:14:47](/episodes/ep-ZAuuSq_j2_w.md#^t-00-14-25)
   > "...as using is Walid Mahmood, okay? Walid Mahmood. So we now know that of the four people that flew to Delaware, someone flew using the name Walid Mahmood, okay? Here is where it's going to get interesting. And ..."
 
-### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
+### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:04:57](/episodes/ep-a-e7HC6SeK8.md#^t-00-04-57)
   > "... which makes it kind of hilarious, right? Because our tip yesterday from that person in Wilmington, Delaware, was asserting that the FBI had these offices—these kind of hidden offices—maybe kind of in buildin..."
@@ -93,24 +93,24 @@ _Type: Places_
 - [00:33:21](/episodes/ep-a-e7HC6SeK8.md#^t-00-32-45)
   > "... very, very dark. It's too French, right? It's just too French. We just can't all be hanging out in Delaware. And there's one more thing that came in regarding Andrew Kolvet. A very close family friend of And..."
 
-### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
+### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 
 - [00:49:40](/episodes/ep-his-JBjlkh8.md#^t-00-49-40)
   > "...t like a six-day gap in Brigitte's schedule. And now, of course—especially as we have learned about Delaware and the DuPont-French connection, and the French Foreign Legion non-answer that we're getting, just..."
 
-### [ep-iHav0PPzUz8](/episodes/ep-iHav0PPzUz8.md)
+### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
 
 - [00:16:16](/episodes/ep-iHav0PPzUz8.md#^t-00-15-42)
   > "...owed you—I showed you—the plane left. They left on September 10th. It then laid over in Wilmington, Delaware, and departed back for Cairo on the 11th. I am telling you that when that plane left, okay, those p..."
 
-### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
+### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:05:25](/episodes/ep-mKXdKV-OBog.md#^t-00-05-02)
   > "...e morning of Charlie (Charlie Kirk)'s assassination—who flew from Provo and landed into Wilmington, Delaware, on the morning of Charlie (Charlie Kirk)'s assassination. It is a very important question that nee..."
 - [00:44:16](/episodes/ep-mKXdKV-OBog.md#^t-00-43-34)
   > "...ay that lawsuits work is state by state; they have different laws. And so when we oddly got sued in Delaware, we have to—Noah then has to attach his license, meaning he's my lawyer on this case, but he has to..."
 
-### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
+### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
 
 - [00:00:34](/episodes/ep-sImMM04XdWY.md#^t-00-00-01)
   > "...ng they've told us is real. Plus, I don't think we can reasonably ignore that odd French company in Delaware. Now that our source proved to us that it certainly wasn't established to provide any maintenance t..."
@@ -159,7 +159,7 @@ _Type: Places_
 - [00:54:09](/episodes/ep-sImMM04XdWY.md#^t-00-53-35)
   > "...there in Delaware, where we know that Biden was living in Delaware. He lives in Delaware. He's from Delaware. But I have, I do not think that Trump would have been described as a dignitary. Certainly would no..."
 
-### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
+### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:23:24](/episodes/ep-tB5SXXmd9vU.md#^t-00-23-12)
   > "...hem at UVU would not have been on my radar at all until we learned about that weird hangar lease in Delaware and we were trying to track the Egyptian plane, SU-BTT, our yellow plane, which departed on the mor..."
@@ -207,5 +207,5 @@ _Type: Places_
 ### Referenced By
 
 - [Wilmington](/entities/gpe-wilmington.md) **located in** this
-  - [ep-tB5SXXmd9vU @ 00:23:24](/episodes/ep-tB5SXXmd9vU.md#^t-00-23-12)
-  - [ep-tB5SXXmd9vU @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#^t-00-23-12)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:24](/episodes/ep-tB5SXXmd9vU.md#^t-00-23-12)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#^t-00-23-12)

@@ -12,12 +12,12 @@ _Type: People_
 
 ## Mentions
 
-### [ep-7RLtGgkTh9o](/episodes/ep-7RLtGgkTh9o.md)
+### [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 
 - [00:44:56](/episodes/ep-7RLtGgkTh9o.md#^t-00-44-42)
   > "...ut sticking on to this topic of the bush—people also sent me a ton of information about Butch Hibbs—Jack Hibbs' brother who was here. And maybe might have been speaking to that bush—I don't know. But he wasn't ..."
 
-### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
+### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 
 - [00:32:30](/episodes/ep-MUA9ebCF4Ow.md#^t-00-32-19)
   > "...o that we received. And it is interesting because it turned out that that old man is the brother of Pastor Jack Hibbs. I'm speaking about these pastors, man. These pastors. Pastor Hibbs—great friend of Charlie (Charli..."
@@ -30,7 +30,7 @@ _Type: People_
 - [00:34:39](/episodes/ep-MUA9ebCF4Ow.md#^t-00-34-22)
   > "... the side here is too many people that are involved in this Utah story I met through PragerU. Like, Jack Hibbs was somebody that Marissa flagged for me that she wanted me to have on my show. Like, she'd say lik..."
 
-### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
+### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 
 - [01:00:21](/episodes/ep-YFmRH8p5lt0.md#^t-01-00-21)
   > "...wanted me to interview him. I may have even interviewed him. I can't remember. But they were like, "Pastor Jack Hibbs. Pastor Jack Hibbs." And now I look at that, and I'm thinking that's part of an operation. That's l..."
@@ -43,7 +43,7 @@ _Type: People_
 - [01:00:46](/episodes/ep-YFmRH8p5lt0.md#^t-01-00-21)
   > "... me to do things. I never really questioned the things they were directing me to do until today. So Jack Hibbs was also a part of like a Turning Point USA Faith event. And I am looking at Turning Point USA Fait..."
 
-### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
+### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:16:47](/episodes/ep-mKXdKV-OBog.md#^t-00-16-27)
   > "...ctually teaches shooting. So this is not a military campus, guys. Burton Hibbs—Butch—the brother of Pastor Jack Hibbs. Jack Hibbs phones up Charlie (Charlie Kirk); he's like, "Hey, can my brother come? Can my brother ..."
@@ -52,7 +52,7 @@ _Type: People_
 - [00:16:50](/episodes/ep-mKXdKV-OBog.md#^t-00-16-27)
   > "...oting. So this is not a military campus, guys. Burton Hibbs—Butch—the brother of Pastor Jack Hibbs. Jack Hibbs phones up Charlie (Charlie Kirk); he's like, "Hey, can my brother come? Can my brother come and lis..."
 
-### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
+### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:28:25](/episodes/ep-yAIb-NuUh_U.md#^t-00-27-59)
   > "...ehind this? Do you really think this is all just accidental—their obsession with Christian Zionism? Jack Hibbs among them? We mentioned him yesterday—his brother Butch Hibbs, who was just everywhere before and ..."
@@ -64,11 +64,11 @@ _Type: People_
 ### Sibling Of
 
 - [Burton Hibbs](/entities/person-burton-hibbs.md)
-  - [ep-MUA9ebCF4Ow @ 00:32:41](/episodes/ep-MUA9ebCF4Ow.md#^t-00-32-19): "that old man is the brother of Pastor Jack Hibbs"
+  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:32:41](/episodes/ep-MUA9ebCF4Ow.md#^t-00-32-19): "that old man is the brother of Pastor Jack Hibbs"
 
 ### Referenced By
 
 - [Burton Hibbs](/entities/person-burton-hibbs.md) **sibling of** this
-  - [ep-MUA9ebCF4Ow @ 00:32:41](/episodes/ep-MUA9ebCF4Ow.md#^t-00-32-19)
+  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:32:41](/episodes/ep-MUA9ebCF4Ow.md#^t-00-32-19)
 - [Burton Hibbs](/entities/person-burton-hibbs.md) **sibling of** this
-  - [ep-mKXdKV-OBog @ 00:16:47](/episodes/ep-mKXdKV-OBog.md#^t-00-16-27)
+  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:16:47](/episodes/ep-mKXdKV-OBog.md#^t-00-16-27)

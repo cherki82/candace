@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
+### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
 
 - [00:44:39](/episodes/ep-adJ4LNGp84I.md#^t-00-44-06)
   > "...Candace (Candace Owens), would you want to debate the more prominent commentators like Ben Shapiro, Brandon Tatum, and PBD on the topics of Israel, Mossad, and Palestine? They all have hinted and danced around cal..."
@@ -17,7 +17,7 @@ _Type: People_
 - [00:45:28](/episodes/ep-adJ4LNGp84I.md#^t-00-44-47)
   > ".... And when we did disagree, we had those disagreements privately. And so I would say the same about Brandon Tatum. And I hope that clarifies, as a lot of people were asking me about Brandon. He has been there for ..."
 
-### [ep-q7f8r-THr84](/episodes/ep-q7f8r-THr84.md)
+### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
 
 - [00:58:10](/episodes/ep-q7f8r-THr84.md#^t-00-57-35)
   > "...He was doing a ton of podcasts in America. He went on to Patrick Bet-David's podcast. He went on to Brandon Tatum's podcast. He went on to the Nelk Boys' podcast. Anybody find it weird he didn't do Charlie Kirk's ..."

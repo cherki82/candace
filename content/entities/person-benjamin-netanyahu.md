@@ -16,7 +16,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-2Riv3I7D0Yk](/episodes/ep-2Riv3I7D0Yk.md)
+### [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
 
 - [00:37:27](/episodes/ep-2Riv3I7D0Yk.md#^t-00-36-55)
   > "... clear that we didn't kill Charlie (Charlie Kirk)" 24 hours after he died? 'Cause that's what Bibi (Benjamin Netanyahu) did. How come there were no Mormon people that started Operation Mormon Pastor or President, feeli..."
@@ -27,7 +27,7 @@ _Type: People_
 - [00:37:03](/episodes/ep-2Riv3I7D0Yk.md#^t-00-36-55)
   > "...mpelling argument that Israel had anything to do with it: is the way they're acting right now. Like Benjamin (Bibi) Netanyahu, the propaganda, the lies, the coming after Candace (Candace Owens). None of this ..."
 
-### [ep-2WEHTk0Xewg](/episodes/ep-2WEHTk0Xewg.md)
+### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 
 - [00:37:11](/episodes/ep-2WEHTk0Xewg.md#^t-00-36-35)
   > "...k break. I'm going to show you some stuff. I mean, Tucker (Tucker Carlson) completely destroyed the Benjamin Netanyahu (Benjamin Netanyahu) narrative. Megyn Kelly, Dave Smith—I mean everybody yesterday. The truth is co..."
@@ -72,34 +72,34 @@ _Type: People_
 - [00:57:53](/episodes/ep-2WEHTk0Xewg.md#^t-00-57-40)
   > "...nyahu) lied. You knew—if you were really his close friend and pastor—how he was feeling about Bibi (Benjamin Netanyahu). You knew—if you're his close friend and pastor—exactly the names of everybody who was intimidatin..."
 
-### [ep-581dILVcEE4](/episodes/ep-581dILVcEE4.md)
+### [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
 
 - [00:42:42](/episodes/ep-581dILVcEE4.md#^t-00-42-16)
   > "...hat we need to talk about more because it's pretty obvious what happened here. And of course, Bibi (Benjamin Netanyahu) Netanyahu was involved in the Calvary Chapel churches. We're gonna get to that tomorrow: his relat..."
 
-### [ep-5autG89PW6w](/episodes/ep-5autG89PW6w.md)
+### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 
 - [00:17:37](/episodes/ep-5autG89PW6w.md#^t-00-17-07)
   > "...d, and it was a wrestle that was going on for months, and it's probably somewhere between the Bibi (Benjamin Netanyahu) letter and the text. So what do we think? Okay, obviously you can tell he's anxious. You can tell ..."
 - [00:24:57](/episodes/ep-5autG89PW6w.md#^t-00-24-50)
   > "...uine friendship with the Jewish people and the Jewish state. But this letter that he wrote to Bibi (Benjamin Netanyahu) Netanyahu, Chris—literally begins—the first sentence of the letter is (I'm paraphrasing here, but ..."
 
-### [ep-7RLtGgkTh9o](/episodes/ep-7RLtGgkTh9o.md)
+### [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 
 - [00:04:07](/episodes/ep-7RLtGgkTh9o.md#^t-00-03-30)
   > "...der the sun is trying to ward me off of. Well, how dare she? This is—I can't even believe it. Bibi (Benjamin Netanyahu) can blow up thousands and tens of thousands of kids, but Candace (Candace Owens) investigating the..."
 
-### [ep-Cq7nj9rxPdo](/episodes/ep-Cq7nj9rxPdo.md)
+### [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
 
 - [00:11:41](/episodes/ep-Cq7nj9rxPdo.md#^t-00-11-30)
   > "...You should also know that he is the father—or stepfather—to Andreessen Horowitz, the one that Bibi (Benjamin Netanyahu) is insisting should be a part of this group that buys TikTok because—and this is relevant—they thi..."
 
-### [ep-K1tFD7FfoCU](/episodes/ep-K1tFD7FfoCU.md)
+### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 
 - [00:28:34](/episodes/ep-K1tFD7FfoCU.md#^t-00-27-53)
   > "...d so it's a good fit. It's a fitting program for her to go on to. If she was sitting down with like Benjamin Netanyahu's (Benjamin Netanyahu) entourage, I might have something to say. But everything that she has done h..."
 
-### [ep-K5GjF53bfN4](/episodes/ep-K5GjF53bfN4.md)
+### [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 
 - [00:01:40](/episodes/ep-K5GjF53bfN4.md#^t-00-01-27)
   > "...overed throughout the story that right away jumped out at me as odd, first and foremost, of course, Benjamin Netanyahu (Israeli PM) over-inserting himself, not even just on day one, minute one. He tweeted before the pr..."
@@ -112,19 +112,19 @@ _Type: People_
 - [00:05:22](/episodes/ep-K5GjF53bfN4.md#^t-00-05-11)
   > "...the Hamptons because, again, they saw which way the wind was traveling in terms of his positions on Benjamin Netanyahu (Israeli PM) and Israel. And they were, in fact, being accusatory. And again, you don't have to tak..."
 
-### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
+### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 
 - [00:18:31](/episodes/ep-LATnak75Si0.md#^t-00-18-27)
   > "... He's the same guy who bragged about not washing his hands after he had a handshake with Netanyahu (Benjamin Netanyahu). He's repeatedly introduced bills to criminalize anti-Semitism, infringing upon free speech. I mea..."
 
-### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
+### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 
 - [00:00:26](/episodes/ep-MUA9ebCF4Ow.md#^t-00-00-00)
   > "...th and buy Josh Hammer's book." Yeah. And also, he had just written this Romeo and Juliet letter to Benjamin Netanyahu (Bibi). I feel like that was kind of the plan, but look, the best laid plans—they can fall apart. A..."
 - [00:16:25](/episodes/ep-MUA9ebCF4Ow.md#^t-00-15-57)
   > "...Another lie: Charlie (Charlie Kirk) never blinked in his support for Israel. Offender: Josh Hammer, Benjamin Netanyahu (Bibi), insert Zionist here—many Zionists, Christian Zionist influencers as well. That turned out t..."
 
-### [ep-Qfwr08Ebczo](/episodes/ep-Qfwr08Ebczo.md)
+### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
 
 - [00:20:26](/episodes/ep-Qfwr08Ebczo.md#^t-00-20-26)
   > "...ey completely fictionalized it. They've just been lying nonstop quickly, right? Right out the gate, Benjamin Netanyahu (Bibi Netanyahu) doing propaganda rounds, denying that he had anything to do with the assassination..."
@@ -141,24 +141,24 @@ _Type: People_
 - [00:50:06](/episodes/ep-Qfwr08Ebczo.md#^t-00-49-32)
   > "...ng about the Egyptian planes. That's very strange. Israel's moderator served in the IDF—we know—and Benjamin Netanyahu (Bibi Netanyahu) wants TikTok secured for Israel's future. Why do they care about Egyptian planes t..."
 
-### [ep-Qt0VHV-POCg](/episodes/ep-Qt0VHV-POCg.md)
+### [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 
 - [00:21:32](/episodes/ep-Qt0VHV-POCg.md#^t-00-21-20)
   > "... like, "Hey, maybe people overseas were involved in his murder." Maybe they were thinking, "Bibi's (Benjamin Netanyahu's) saying too much." "Can we just look at these files?" "That's our job: overseas terrorism." And K..."
 
-### [ep-UBkFkg4UNY8](/episodes/ep-UBkFkg4UNY8.md)
+### [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 
 - [00:35:55](/episodes/ep-UBkFkg4UNY8.md#^t-00-35-39)
   > "...don't know where the 150 million number came from. If I'm being honest, I said 150 million was what Benjamin Netanyahu spent on Operation Mockingpastor. Now, the way they're going to answer this question about whether ..."
 - [00:37:56](/episodes/ep-UBkFkg4UNY8.md#^t-00-37-27)
   > "...ind of a working around it, right? Do I think that in the Turning Point accounts it would have said Benjamin Netanyahu wrote, you know, wants this money to go to...? Probably not. Do I know for a fact that there are fo..."
 
-### [ep-YA1FxrDWNIo](/episodes/ep-YA1FxrDWNIo.md)
+### [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 
 - [00:01:30](/episodes/ep-YA1FxrDWNIo.md#^t-00-01-30)
   > "...the jump, it's been weird. So welcome back to Candace. It took him a little over two weeks, but now Benjamin Netanyahu, with maybe a little help from Turning Point USA (I'm thinking), is releasing the letter, the May l..."
 
-### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
+### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 
 - [00:36:35](/episodes/ep-YFmRH8p5lt0.md#^t-00-36-11)
   > "...t to go to rehab? But that phone call wasn't coming in from mom or dad. It was coming in from Bibi (Benjamin Netanyahu). And that's kind of terrifying, actually. Bibi (Benjamin Netanyahu) is like pretending to be your ..."
@@ -173,12 +173,12 @@ _Type: People_
 - [00:38:16](/episodes/ep-YFmRH8p5lt0.md#^t-00-38-16)
   > "...t. We only have just a sense of Charlie's (Charlie Kirk's) emotion at the time. He says, "No, Bibi (Benjamin Netanyahu). I don't know—maybe—where this money is coming from. I'm good. I'm not going to go to rehab in Isr..."
 
-### [ep-YaZfwLQ7vrI](/episodes/ep-YaZfwLQ7vrI.md)
+### [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 
 - [00:43:55](/episodes/ep-YaZfwLQ7vrI.md#^t-00-43-42)
   > "... I typically think of people who say like, "Oh, you're going to get into heaven if you defend Bibi (Benjamin Netanyahu)." It says it right here in the Bible that if you don't unfollow Candace (Candace Owens) Owens, you..."
 
-### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
+### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:22:11](/episodes/ep-a-e7HC6SeK8.md#^t-00-21-56)
   > "...ntially coming on as a donor for Turning Point USA. We have what I do think is a big deal, which is Benjamin Netanyahu calling Charlie (Charlie Kirk) and offering to take Turning Point to the next level. And that, my f..."
@@ -191,7 +191,7 @@ _Type: People_
 - [00:58:08](/episodes/ep-a-e7HC6SeK8.md#^t-00-57-57)
   > "...es. You know—America lost its way when we decided that we would do anything for money—which is what Benjamin Netanyahu said on camera. You know—"America is something you can move very easily with money." Not this Ameri..."
 
-### [ep-aDlhjfW6hz8](/episodes/ep-aDlhjfW6hz8.md)
+### [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 
 - [00:14:18](/episodes/ep-aDlhjfW6hz8.md#^t-00-14-06)
   > "..., that they're simply pretending that I did—pretending that I blamed Israel, pretending that I said Benjamin Netanyahu killed Charlie Kirk. It is now—like I said yesterday—it feels like they are trying to get ahead of ..."
@@ -206,7 +206,7 @@ _Type: People_
 - [00:37:41](/episodes/ep-aDlhjfW6hz8.md#^t-00-37-41)
   > "... to increase antisemitism—trying to pass speech laws or labeling people antisemites for criticizing Benjamin Netanyahu. It's all out there, and they're lying to you. Am I wrong, or am I cynical for believing that, yeah..."
 
-### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
+### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
 
 - [00:26:12](/episodes/ep-adJ4LNGp84I.md#^t-00-25-54)
   > "..., that would be considered anti-Semitic. You would be called a Jew hater. Fast forward to 2025, and Benjamin Netanyahu is now hosting an on-camera meeting with American social media influencers to talk about how they a..."
@@ -221,7 +221,7 @@ _Type: People_
 - [00:32:17](/episodes/ep-adJ4LNGp84I.md#^t-00-32-10)
   > "...strikes. You can't say anything bad right now about Israel on TikTok. And this is because it's what Benjamin Netanyahu as well, right? They want to censor speech, which was something that Charlie (Charlie Kirk) was ver..."
 
-### [ep-czVBmqZP6Ss](/episodes/ep-czVBmqZP6Ss.md)
+### [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 
 - [00:06:16](/episodes/ep-czVBmqZP6Ss.md#^t-00-06-16)
   > "...nd doing hits in a foreign country, you know, like making time to do hits on Fox News, two of them. Benjamin Netanyahu is, who's fighting, I think, like an 84-front war with everyone, made a lot of time for Charlie (Ch..."
@@ -278,12 +278,12 @@ _Type: People_
 - [00:31:03](/episodes/ep-czVBmqZP6Ss.md#^t-00-31-02)
   > "...ost powerful people on the planet. Yeah, I don't know, man. I don't know. It seems to conflict with Benjamin's narrative a little bit. Yeah, just a tiny bit. I do want to say this. It's important because I am..."
 
-### [ep-iHav0PPzUz8](/episodes/ep-iHav0PPzUz8.md)
+### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
 
 - [00:39:38](/episodes/ep-iHav0PPzUz8.md#^t-00-39-12)
   > "...n the Hamptons. What was it—August 5th and 6th? Pressing him on the things that he said about Bibi (Benjamin Netanyahu) and Yahoo. He was hosting people to have that discussion. But, you know— I guess for some Zionists..."
 
-### [ep-ja26iltROkM](/episodes/ep-ja26iltROkM.md)
+### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 
 - [00:51:39](/episodes/ep-ja26iltROkM.md#^t-00-51-39)
   > "... it doesn't ring true. Now, they definitively have lost the most because clearly people did not buy Benjamin Netanyahu's BS. And the fact that people immediately thought that—and I wasn't the person who said this—but i..."
@@ -296,14 +296,14 @@ _Type: People_
 - [00:58:21](/episodes/ep-ja26iltROkM.md#^t-00-57-53)
   > "...I was told. That was 150 million dollars went into that. But I definitively made the statement that Benjamin Netanyahu offered Charlie Kirk (Charlie Kirk) a boatload of money, and he rejected it. So she will respond to..."
 
-### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
+### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:27:27](/episodes/ep-mKXdKV-OBog.md#^t-00-26-47)
   > "...was welcomed in Israel—the red carpet was rolled out for him, I think, literally. And I think Bibi (Benjamin Netanyahu) met him on the runway like, "You served us well." You've served us well. And who cares if the Amer..."
 - [00:42:42](/episodes/ep-mKXdKV-OBog.md#^t-00-42-07)
   > "...Charlie (Charlie Kirk) is in witness protection—that the FBI and the POTUS set it up to catch Bibi (Benjamin Netanyahu). Christ is King will always be king. Love you." I can tell you that that is not at all what happen..."
 
-### [ep-ozWJz2spBcI](/episodes/ep-ozWJz2spBcI.md)
+### [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
 
 - [00:39:13](/episodes/ep-ozWJz2spBcI.md#^t-00-38-56)
   > "... was angry. I remember feeling angry when Trump (Donald Trump) moved to kind of do a same-time post—Benjamin Netanyahu—and then published a picture of Charlie (Charlie Kirk) with an Israeli flag behind. I was pretty an..."
@@ -312,14 +312,14 @@ _Type: People_
 - [00:51:01](/episodes/ep-ozWJz2spBcI.md#^t-00-50-57)
   > "...e out that like their TikTok—which we covered this before—the moderation team—like IDF soldiers—and Benjamin Netanyahu saying, "We're taking over TikTok. My agents are going to get that inner purchase. That's what need..."
 
-### [ep-pc3pxRyNFZk](/episodes/ep-pc3pxRyNFZk.md)
+### [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
 
 - [00:48:17](/episodes/ep-pc3pxRyNFZk.md#^t-00-48-17)
   > ".... 85% of Gaza has been destroyed in this pre-planned controlled demolition of Gaza. Bibi Netanyahu (Benjamin Netanyahu) is on camera explicitly before October 7 saying we need to hit them so hard that they can't come b..."
 - [00:48:53](/episodes/ep-pc3pxRyNFZk.md#^t-00-48-17)
   > "...you? Thank you to Jared Kushner (Jared Kushner) and Donald Trump (Donald Trump) and Bibi Netanyahu (Benjamin Netanyahu) who are just business partners playing a role, convinced that we're all so stupid. I mean, let's r..."
 
-### [ep-q7f8r-THr84](/episodes/ep-q7f8r-THr84.md)
+### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
 
 - [00:42:21](/episodes/ep-q7f8r-THr84.md#^t-00-42-21)
   > "...ng here, but something along the lines of Charlie (Charlie Kirk) said, "If I tweeted, 'I think that Benjamin Netanyahu should resign,'" that he would then be unfairly attacked. And Seth Dillon then allegedly pipes up a..."
@@ -350,7 +350,7 @@ _Type: People_
 - [00:58:52](/episodes/ep-q7f8r-THr84.md#^t-00-58-19)
   > "...estion for you guys. Common sense. Common sense, okay? I don't like small lies. And remember, Bibi (Benjamin Netanyahu) started this. I am responding to his shamelessness, shameless misrepresentation of what Charlie (C..."
 
-### [ep-r1PS67aRmcA](/episodes/ep-r1PS67aRmcA.md)
+### [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
 
 - [00:00:42](/episodes/ep-r1PS67aRmcA.md#^t-00-00-00)
   > "... say is the pro-Israel lobby is down real bad. They're writing fan fiction. They're like, it's like Benjamin Netanyahu fan fiction. And on that note, I sat down with a woman on CNN, and it went about as bad as you migh..."
@@ -363,12 +363,12 @@ _Type: People_
 - [00:43:42](/episodes/ep-r1PS67aRmcA.md#^t-00-43-07)
   > "...coming in for our speech and you thought that this generation was gonna get behind it because what, Benjamin Netanyahu bought TikTok? The hypocrisy is astounding and you can't survive hypocrisy. So unfortunately, I thi..."
 
-### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
+### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
 
 - [00:20:22](/episodes/ep-sImMM04XdWY.md#^t-00-20-22)
   > "...n intervention, and Bill Ackman disputes that narrative. Seth Dillon disputes that narrative. Bibi (Benjamin Netanyahu) offers to take Turning Point to the next level financially. Charlie (Charlie Kirk) declines that o..."
 
-### [ep-sreYYcID-QY](/episodes/ep-sreYYcID-QY.md)
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 
 - [00:00:06](/episodes/ep-sreYYcID-QY.md#^t-00-00-00)
   > "All right, you guys. Let's take a pause. There is a lot happening right now, okay? Benjamin Netanyahu is again denying that he murdered Charlie Kirk despite the fact that no one that I know accused him..."
@@ -389,7 +389,7 @@ _Type: People_
 - [00:48:24](/episodes/ep-sreYYcID-QY.md#^t-00-47-55)
   > "...Donald Trump) has kind of given up on free speech, and his administration seems to be controlled by Benjamin Netanyahu (Bibi), so that doesn't ring true either. And then it's like, oh, over here, the trans, the trans—n..."
 
-### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
+### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:36:29](/episodes/ep-yAIb-NuUh_U.md#^t-00-36-27)
   > "...re protecting, but if you don't see that it has gone mask off—the people who won't even speak about Benjamin (Bibi) Netanyahu's crimes against humanity (he's being tried for crimes against humanity)—all someh..."
@@ -399,9 +399,9 @@ _Type: People_
 ### Referenced By
 
 - [Tucker Carlson](/entities/person-tucker-carlson.md) **criticized** this
-  - [ep-2WEHTk0Xewg @ 00:37:11](/episodes/ep-2WEHTk0Xewg.md#^t-00-36-35)
+  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:37:11](/episodes/ep-2WEHTk0Xewg.md#^t-00-36-35)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) **criticized** this
-  - [ep-2WEHTk0Xewg @ 00:44:25](/episodes/ep-2WEHTk0Xewg.md#^t-00-43-52)
-  - [ep-2WEHTk0Xewg @ 00:44:19](/episodes/ep-2WEHTk0Xewg.md#^t-00-43-52)
+  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:25](/episodes/ep-2WEHTk0Xewg.md#^t-00-43-52)
+  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:19](/episodes/ep-2WEHTk0Xewg.md#^t-00-43-52)
 - [Ben Shapiro](/entities/person-ben-shapiro.md) **interviewed** this
-  - [ep-r1PS67aRmcA @ 00:20:01](/episodes/ep-r1PS67aRmcA.md#^t-00-19-31)
+  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:20:01](/episodes/ep-r1PS67aRmcA.md#^t-00-19-31)

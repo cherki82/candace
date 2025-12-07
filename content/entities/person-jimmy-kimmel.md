@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-QZWSsq8ZWzw](/episodes/ep-QZWSsq8ZWzw.md)
+### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 
 - [00:30:04](/episodes/ep-QZWSsq8ZWzw.md#^t-00-29-52)
   > "...48 off. Kits are available to U.S. residents only, unfortunately. All right, guys. Wanted to get to Jimmy Kimmel. He's back on air. I think—I guess he was—it was a little time-out for Jimmy Kimmel. I was very sho..."
@@ -19,7 +19,7 @@ _Type: People_
 - [00:31:17](/episodes/ep-QZWSsq8ZWzw.md#^t-00-31-17)
   > "...y old pal Ted Cruz, who, believe it or not, said something very beautiful on my behalf. I hate what Jimmy Kimmel said. I am thrilled that he was fired. Oh, wait. No, not that. The other part. But let me tell you:..."
 
-### [ep-aDlhjfW6hz8](/episodes/ep-aDlhjfW6hz8.md)
+### [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 
 - [00:39:06](/episodes/ep-aDlhjfW6hz8.md#^t-00-38-26)
   > "...t of us. That's it. Everything else is a mirage. And speaking of free speech, I want to speak about Jimmy Kimmel because he has been pulled off air indefinitely over his comments in the aftermath of Charlie's ass..."
@@ -41,4 +41,4 @@ _Type: People_
 ### Referenced By
 
 - [Brendan Carr](/entities/person-brendan-carr.md) **criticized** this
-  - [ep-aDlhjfW6hz8 @ 00:42:18](/episodes/ep-aDlhjfW6hz8.md#^t-00-41-34)
+  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:42:18](/episodes/ep-aDlhjfW6hz8.md#^t-00-41-34)

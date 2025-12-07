@@ -13,12 +13,12 @@ _Type: People_
 
 ## Mentions
 
-### [ep-2Riv3I7D0Yk](/episodes/ep-2Riv3I7D0Yk.md)
+### [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
 
 - [00:35:41](/episodes/ep-2Riv3I7D0Yk.md#^t-00-35-41)
   > "... going to kill me. And we are supposed to deduce from this that by "they," what he really meant was Tyler Robinson. He meant "they/them." Duh. Like a non-binary person or a trans person. They were going to kill him..."
 
-### [ep-2WEHTk0Xewg](/episodes/ep-2WEHTk0Xewg.md)
+### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 
 - [00:00:18](/episodes/ep-2WEHTk0Xewg.md#^t-00-00-01)
   > "...on, the alleged conversation held between the 22-year-old alleged killer of Charlie (Charlie Kirk), Tyler Robinson, and his 22-year-old boyfriend, Lance Twiggs. The first term I want you to search is "retrieve." Lo..."
@@ -61,7 +61,7 @@ _Type: People_
 - [00:28:50](/episodes/ep-2WEHTk0Xewg.md#^t-00-28-30)
   > "...tered in person by investigators in Washington County on September 12th in the early morning hours, Robinson was observed in consistent clothing with those surveillance images. Okay, that's actually a perfect..."
 
-### [ep-5autG89PW6w](/episodes/ep-5autG89PW6w.md)
+### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 
 - [00:08:12](/episodes/ep-5autG89PW6w.md#^t-00-07-35)
   > "...ly? You were in touch with Elon Musk on Telegram? "Third, if you discount the text messages between Tyler Robinson and his trans furry lover, you cannot take these at face value. Lastly, even if the text messages w..."
@@ -80,19 +80,19 @@ _Type: People_
 - [00:42:57](/episodes/ep-5autG89PW6w.md#^t-00-42-22)
   > "...s be clear: they are not asking everyone to be silent because they are seeking a conviction against Tyler Robinson. They are telling everybody to be silent because they don't want to get caught. The feds are coveri..."
 
-### [ep-K1tFD7FfoCU](/episodes/ep-K1tFD7FfoCU.md)
+### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 
 - [00:45:55](/episodes/ep-K1tFD7FfoCU.md#^t-00-45-48)
   > "... they're false. And I—the truth is enough. The truth is always enough. Tom Paul (Tom Paul) writes: "Tyler Robinson's (Tyler Robinson) ACT score was 34, so he was in the 99 percentile." "Thomas Matthew Crooks' (Thom..."
 
-### [ep-K5GjF53bfN4](/episodes/ep-K5GjF53bfN4.md)
+### [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 
 - [00:11:45](/episodes/ep-K5GjF53bfN4.md#^t-00-11-24)
   > "...o me. We haven't received any updates whatsoever on the raid that took place of Lance's house where Tyler Robinson was living at the time of this crime. No update whatsoever on Lance (Lance). You know, he just comp..."
 - [00:32:02](/episodes/ep-K5GjF53bfN4.md#^t-00-31-37)
   > "...lly. And that the reality is that there was more footage which showed the person that they alleged, Tyler Robinson, walking with a woman who they don't know who that is, and that he changes clothes. So I'm not sure..."
 
-### [ep-QZWSsq8ZWzw](/episodes/ep-QZWSsq8ZWzw.md)
+### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 
 - [00:02:30](/episodes/ep-QZWSsq8ZWzw.md#^t-00-02-13)
   > "... case against Charlie Kirk and rule it a lone gunman, then it might mess up our prosecution against Tyler Robinson." That feels a little bit to me like moral blackmail. "Hey man, we're not hiding anything, but we'v..."
@@ -113,45 +113,45 @@ _Type: People_
 - [00:43:30](/episodes/ep-QZWSsq8ZWzw.md#^t-00-43-22)
   > "...atalie writes: "Tip: my sister's neighbor is the daughter of a lady who sent the video to police of Tyler Robinson walking down a neighborhood street." "The media is leaving out the part—leaving out part of that vi..."
 
-### [ep-Qfwr08Ebczo](/episodes/ep-Qfwr08Ebczo.md)
+### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
 
 - [00:18:52](/episodes/ep-Qfwr08Ebczo.md#^t-00-18-24)
   > "... concern that the records could interfere in any investigation and someone's right to a fair trial. Tyler Robinson is charged with Kirk's murder. Fox 13 plans an appeal of the denial, and we are still pursuing a va..."
 
-### [ep-Qt0VHV-POCg](/episodes/ep-Qt0VHV-POCg.md)
+### [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 
 - [00:12:19](/episodes/ep-Qt0VHV-POCg.md#^t-00-11-50)
   > "...ife pro-Israel individual who is expressing that they don't believe that Charlie Kirk was killed by Tyler Robinson. The evidence is overwhelming that Tyler Robinson didn't act alone, that Tyler Robinson didn't fire..."
 - [00:12:33](/episodes/ep-Qt0VHV-POCg.md#^t-00-12-33)
   > "...hey don't believe that Charlie Kirk was killed by Tyler Robinson. The evidence is overwhelming that Tyler Robinson didn't act alone, that Tyler Robinson didn't fire the shot, that Tyler Robinson didn't use a .30-06..."
 
-### [ep-UBkFkg4UNY8](/episodes/ep-UBkFkg4UNY8.md)
+### [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 
 - [00:23:26](/episodes/ep-UBkFkg4UNY8.md#^t-00-23-23)
   > "... it was not the description that the entire world received less than 24 hours later of this person, Tyler Robinson, wearing jeans. I said, was he wearing jeans? He said, no. Actually, this person was dressed in tac..."
 - [00:59:11](/episodes/ep-UBkFkg4UNY8.md#^t-00-58-45)
   > "...oked foreign, or we were going to be able to identify the person further and realize that it wasn't Tyler Robinson? I maintain that Tyler Robinson is one piece of this, and a lot more people are involved. And I don..."
 
-### [ep-YA1FxrDWNIo](/episodes/ep-YA1FxrDWNIo.md)
+### [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 
 - [00:09:05](/episodes/ep-YA1FxrDWNIo.md#^t-00-08-53)
   > "... blue hat. You noticed the same thing that we noticed. He kind of resembles, certainly more so than Tyler Robinson does, the blurred image of the individual that was coming up the stairs. I couldn't look away from ..."
 - [00:13:26](/episodes/ep-YA1FxrDWNIo.md#^t-00-12-58)
   > "...ushes—was ever on the roof. I think it was in the bushes to start with. And now I'm not saying that Tyler Robinson wasn't on the roof. I'm not saying he didn't pull a trigger. I know I was in very, very close proxi..."
 
-### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
+### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 
 - [00:01:22](/episodes/ep-YFmRH8p5lt0.md#^t-00-01-22)
   > "... bigger than the Turning Point USA organization that he was running, and certainly much bigger than Tyler Robinson on the LDS rooftop, who I don't even think set foot on the campus that day. And I think another thi..."
 - [00:51:00](/episodes/ep-YFmRH8p5lt0.md#^t-00-51-00)
   > "...for that. Look how Kash Patel is acting. Right—33 hours. Wink wink. Freemasons. Wink wink wink. Oh, Tyler Robinson's file adds up to 33. Oh, the Freemason lodge in St. George or in Utah is number 33. It's like we g..."
 
-### [ep-YaZfwLQ7vrI](/episodes/ep-YaZfwLQ7vrI.md)
+### [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 
 - [00:54:19](/episodes/ep-YaZfwLQ7vrI.md#^t-00-54-05)
   > "...t a shred of proof for their narrative. Not a shred of proof. They won't show us a clear picture of Tyler Robinson on that day—despite all the cameras. That would do a lot. If they just dropped one clear image, rig..."
 
-### [ep-ZGxnf5cj4Uw](/episodes/ep-ZGxnf5cj4Uw.md)
+### [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
 
 - [00:00:09](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-00-00)
   > "...d not intend to, by the way. I genuinely wanted to get the information out as soon as possible that Tyler Robinson is not suicidal. And I'm going to tell you how I know that. Also, while investigating this assassin..."
@@ -186,12 +186,12 @@ _Type: People_
 - [00:16:13](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-16-10)
   > "... But again, when I put together what I'm being told by Lance's family and what I'm hearing from the Robinson family through a third party, I will say that it matches. It kind of seems like they're agreeing. O..."
 
-### [ep-aDlhjfW6hz8](/episodes/ep-aDlhjfW6hz8.md)
+### [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 
 - [00:44:45](/episodes/ep-aDlhjfW6hz8.md#^t-00-44-23)
   > "... making regarding how the feds think that we speak after that ridiculous made-up text chain between Tyler Robinson and his lover Lance—they're hilarious. Your TikToks and the videos are hilarious. I'm gonna show yo..."
 
-### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
+### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
 
 - [00:06:19](/episodes/ep-adJ4LNGp84I.md#^t-00-06-18)
   > "...w people, and I forgot to mention the judge that is in the case that is overseeing the case against Tyler Robinson is Judge Tony F. Graf Jr. He was recently appointed to the 4th District Court in May of 2025 by Gov..."
@@ -200,12 +200,12 @@ _Type: People_
 - [00:46:37](/episodes/ep-adJ4LNGp84I.md#^t-00-46-07)
   > "...es were made and a lot of things have not been explained. The Menagerie by Jerea Lee writes, one of Tyler Robinson's lawyers, Michael Burt, previously represented Richard Ramirez, aka the Night Stalker. Ramirez was..."
 
-### [ep-c5BcKF91iec](/episodes/ep-c5BcKF91iec.md)
+### [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 
 - [00:53:14](/episodes/ep-c5BcKF91iec.md#^t-00-52-57)
   > "...hink I was actually saved by finding my husband— which was not accounted for. Joshua Steve writes, "Tyler Robinson appearing in court today via Zoom without having to show his face surely isn't helping any of the t..."
 
-### [ep-czVBmqZP6Ss](/episodes/ep-czVBmqZP6Ss.md)
+### [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 
 - [00:40:10](/episodes/ep-czVBmqZP6Ss.md#^t-00-39-50)
   > "...hat at 8:29, which is an interesting timeline, Governor Cox tells us that that is when the shooter, Tyler Robinson, arrived at UVU campus in a plain maroon t-shirt, light-colored shorts, and a black hat with a whit..."
@@ -226,17 +226,17 @@ _Type: People_
 - [00:52:50](/episodes/ep-czVBmqZP6Ss.md#^t-00-52-25)
   > "...ssages, including content of messages between the phone contact name “Tyler” with an emoji icon and Robinson's roommate's device. The content of these messages included messages affiliated with the contact “T..."
 
-### [ep-iHav0PPzUz8](/episodes/ep-iHav0PPzUz8.md)
+### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
 
 - [00:05:34](/episodes/ep-iHav0PPzUz8.md#^t-00-04-55)
   > "..., hey, did this person let somebody onto the rooftop? Candace Owens: But of course now we know that Tyler Robinson was not on the Woodbury Building or Candace Owens: on campus at all for that matter. Candace Owens:..."
 
-### [ep-ja26iltROkM](/episodes/ep-ja26iltROkM.md)
+### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 
 - [00:13:55](/episodes/ep-ja26iltROkM.md#^t-00-13-55)
   > "...e where the feds are lying. That is like, "Not now," right? Because it could be a miracle also that Tyler Robinson decided to take a break at Dairy Queen and issue some texts that sound like they were written in 18..."
 
-### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
+### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:17:27](/episodes/ep-mKXdKV-OBog.md#^t-00-17-10)
   > "...Hibbs—Butch—is the brother of Pastor Jack Hibbs. Obviously sons—I showed you—of an Air Force chief. Tyler Robinson is a Boy Scout whose Uncle Mitchell may be related. People have pulled this off of the internet, an..."
@@ -245,7 +245,7 @@ _Type: People_
 - [00:17:38](/episodes/ep-mKXdKV-OBog.md#^t-00-17-38)
   > "...d this off of the internet, and I don't have a photo for you today. I should have grabbed it. Amber Robinson—there's just photos of them visiting—and Uncle Mitchell. Is this the Mitchell that allegedly convin..."
 
-### [ep-ozWJz2spBcI](/episodes/ep-ozWJz2spBcI.md)
+### [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
 
 - [00:04:03](/episodes/ep-ozWJz2spBcI.md#^t-00-03-29)
   > "... was an X user that pointed out; he put it rather bluntly when he said, "So they want us to forgive Tyler Robinson, but to attack the people that are trying to solve the murder of Charlie Kirk (Charlie Kirk)?" Like..."
@@ -254,7 +254,7 @@ _Type: People_
 - [00:26:39](/episodes/ep-ozWJz2spBcI.md#^t-00-26-27)
   > "...on getting the security footage of the sequence pre-jump off the low-seat building where we can see Robinson in shot position and corroborate the story. Like, file an FOIA; get that footage; keep it simple." ..."
 
-### [ep-q7f8r-THr84](/episodes/ep-q7f8r-THr84.md)
+### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
 
 - [00:00:45](/episodes/ep-q7f8r-THr84.md#^t-00-00-45)
   > "...goodness. What do I have for you guys today? Okay, well, first and foremost, the indictment against Tyler Robinson was just released, and I have a lot of questions that I think need to be answered regarding his tra..."
@@ -343,7 +343,7 @@ _Type: People_
 - [00:26:54](/episodes/ep-q7f8r-THr84.md#^t-00-26-51)
   > "...uch more worried—" The roommate says, Lance (Lance Twiggs) says, "I'm much more worried about you." Robinson says, "Don't talk to the media, please. Don't take any interviews or make any comments. If any poli..."
 
-### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
+### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
 
 - [00:02:32](/episodes/ep-sImMM04XdWY.md#^t-00-02-07)
   > "...initial sense was that all of us would come together and try to figure out who did this because the Tyler Robinson story wasn't making any sense. Well, I want to tell you guys this. There's another phone call that ..."
@@ -364,7 +364,7 @@ _Type: People_
 - [00:41:05](/episodes/ep-sImMM04XdWY.md#^t-00-40-42)
   > "...ail facility. Washington County responded saying there were no records responsive to the request as Robinson did not go to the jail area. A request for any holding room video was denied. A few weeks later, I ..."
 
-### [ep-sreYYcID-QY](/episodes/ep-sreYYcID-QY.md)
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 
 - [00:01:49](/episodes/ep-sreYYcID-QY.md#^t-00-01-20)
   > "...am series of pulling everybody into what doesn't make sense about the changing of the clothes. That Tyler Robinson allegedly did. And we've been wondering why it seems the feds were only willing to release a grainy..."
@@ -395,7 +395,7 @@ _Type: People_
 - [00:17:23](/episodes/ep-sreYYcID-QY.md#^t-00-16-56)
   > "...n there are helicopters above your house,” Ms. Steele said, adding that she had never spoken to Mr. Robinson. Okay. Couple of things that don't work about the testimony to me. First and foremost, it doesn't w..."
 
-### [ep-t1YtLS1n8Vs](/episodes/ep-t1YtLS1n8Vs.md)
+### [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
 
 - [00:28:31](/episodes/ep-t1YtLS1n8Vs.md#^t-00-28-16)
   > "...te and utter farce to pretend like the government's taking it seriously and investigating. Well, if Tyler Robinson is gonna be our patsy, and I do wanna be clear here, I'm not saying that Tyler Robinson is guilty o..."
@@ -422,7 +422,7 @@ _Type: People_
 - [00:30:35](/episodes/ep-t1YtLS1n8Vs.md#^t-00-30-29)
   > "...id find a lawyer that was certified to represent Tyler Robinson. Obviously, I needed a consent from Robinson's family and/or Robinson himself, because he's actually not a minor. He can consent himself. Ironic..."
 
-### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
+### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:15:20](/episodes/ep-tB5SXXmd9vU.md#^t-00-14-39)
   > "...get to the truth, which explains why nobody called. No Utah, not interested. I'm actually surprised Tyler Robinson's lawyer hasn't reached out to me. What's going on here? We've got to protect the patsy, right? We'..."
@@ -437,7 +437,7 @@ _Type: People_
 - [00:55:44](/episodes/ep-tB5SXXmd9vU.md#^t-00-55-11)
   > "...er (Tucker Carlson) should shut up because you guys are on a list. What list? Nobody mentioned that Tyler Robinson had a list. And certainly, if he's killing over the topic of transgenderism, I don't think me and T..."
 
-### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
+### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
 
 - [00:09:38](/episodes/ep-vwG1juDCQZQ.md#^t-00-09-23)
   > "...ving. I could have never—and I know that so many people agree with this—I could have never forgiven Tyler Robinson for whatever part he played in this. And obviously I'm saying whatever part he played in this becau..."
@@ -450,7 +450,7 @@ _Type: People_
 - [00:43:23](/episodes/ep-vwG1juDCQZQ.md#^t-00-43-11)
   > "...softens it and says, "Well, even if these are written by the feds, I still think he was murdered by Tyler Robinson." Okay, so you're willing to—what?—give grace to the feds when they're maybe lying, but you can't a..."
 
-### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
+### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:05:39](/episodes/ep-yAIb-NuUh_U.md#^t-00-05-06)
   > "...hat impact the case? We actually... don't really care about the case because we're not feeling like Tyler Robinson acted alone and he's the lone shooter. But we deeply care about whether or not—and why—his friends ..."
@@ -460,15 +460,15 @@ _Type: People_
 ### Criticized
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md)
-  - [ep-q7f8r-THr84 @ 00:15:05](/episodes/ep-q7f8r-THr84.md#^t-00-14-45): "In one conversation before the shooting, Robinson mentioned that Charlie Kirk would be holding this event at UVU, which Robinson said was a stupid venue for the event. Robinson accused Kirk of spreading hate."
-  - [ep-q7f8r-THr84 @ 00:15:05](/episodes/ep-q7f8r-THr84.md#^t-00-14-45): "Robinson accused Kirk of spreading hate."
+  - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:15:05](/episodes/ep-q7f8r-THr84.md#^t-00-14-45): "In one conversation before the shooting, Robinson mentioned that Charlie Kirk would be holding this event at UVU, which Robinson said was a stupid venue for the event. Robinson accused Kirk of spreading hate."
+  - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:15:05](/episodes/ep-q7f8r-THr84.md#^t-00-14-45): "Robinson accused Kirk of spreading hate."
 
 ### Dating
 
 - [Lance Twiggs](/entities/person-lance-twiggs.md)
-  - [ep-2WEHTk0Xewg @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#^t-00-00-01): "the 22-year-old alleged killer of Charlie Kirk, Tyler Robinson, and his 22-year-old boyfriend, Lance Twiggs."
-  - [ep-q7f8r-THr84 @ 00:00:45](/episodes/ep-q7f8r-THr84.md#^t-00-00-01): "the indictment against Tyler Robinson was just released, and I have a lot of questions that I think need to be answered regarding his trans boyfriend, Lance Twiggs."
-  - [ep-2WEHTk0Xewg @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#^t-00-00-01): "the alleged conversation held between the 22-year-old alleged killer of Charlie Kirk, Tyler Robinson, and his 22-year-old boyfriend, Lance Twiggs."
+  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#^t-00-00-01): "the 22-year-old alleged killer of Charlie Kirk, Tyler Robinson, and his 22-year-old boyfriend, Lance Twiggs."
+  - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:00:45](/episodes/ep-q7f8r-THr84.md#^t-00-00-01): "the indictment against Tyler Robinson was just released, and I have a lot of questions that I think need to be answered regarding his trans boyfriend, Lance Twiggs."
+  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#^t-00-00-01): "the alleged conversation held between the 22-year-old alleged killer of Charlie Kirk, Tyler Robinson, and his 22-year-old boyfriend, Lance Twiggs."
 - [Lance](/entities/person-lance-wallnau.md)
-  - [ep-ZGxnf5cj4Uw @ 00:13:02](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-12-42): "we know for a fact that Tyler was in fact in a relationship with Lance—because we have exclusive photos"
-  - [ep-ZGxnf5cj4Uw @ 00:13:02](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-12-42): "we know for a fact that Tyler was in fact in a relationship with Lance, because we have exclusive photos"
+  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:13:02](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-12-42): "we know for a fact that Tyler was in fact in a relationship with Lance—because we have exclusive photos"
+  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:13:02](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-12-42): "we know for a fact that Tyler was in fact in a relationship with Lance, because we have exclusive photos"

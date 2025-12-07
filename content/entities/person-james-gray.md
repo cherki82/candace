@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
+### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 
 - [01:00:55](/episodes/ep-his-JBjlkh8.md#^t-01-00-40)
   > "...cond. You and your family's safety, money—everything is compromised. Team Candace. Christ is king." James Gray writes, "The TPUSA response seemed fake, calculated, scared. That guy's body language was just comp..."

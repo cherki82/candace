@@ -8,12 +8,12 @@ _Type: People_
 
 ## Mentions
 
-### [ep-pc3pxRyNFZk](/episodes/ep-pc3pxRyNFZk.md)
+### [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
 
 - [00:29:36](/episodes/ep-pc3pxRyNFZk.md#^t-00-29-26)
   > "...g to do at that point was not looking to Caldera Engineering, but rather to track down the footage. Erwin Steele—this Steele—so many Steeles were involved. It turns out the Steeles are big with Caldera Engineerin..."
 
-### [ep-sreYYcID-QY](/episodes/ep-sreYYcID-QY.md)
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 
 - [00:13:05](/episodes/ep-sreYYcID-QY.md#^t-00-13-05)
   > "...ion the day after, the morning after Charlie Kirk was assassinated. His name—you're going to see—is Erwin Steele. Let's watch that footage of Erwin Steele the next morning. Kathy Bechel led us to her backyard. Sh..."
@@ -25,4 +25,4 @@ _Type: People_
 ### Affiliated With
 
 - [Caldera Engineering](/entities/org-caldera-engineering.md)
-  - [ep-pc3pxRyNFZk @ 00:29:36](/episodes/ep-pc3pxRyNFZk.md#^t-00-29-26): "Erwin Steele—this Steele—so many Steeles were involved. It turns out the Steeles are big with Caldera Engineering."
+  - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:29:36](/episodes/ep-pc3pxRyNFZk.md#^t-00-29-26): "Erwin Steele—this Steele—so many Steeles were involved. It turns out the Steeles are big with Caldera Engineering."

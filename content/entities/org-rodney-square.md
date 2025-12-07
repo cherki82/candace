@@ -12,7 +12,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
+### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:10:15](/episodes/ep-SKGUzGHymcI.md#^t-00-10-15)
   > "... June of 1997, the Department of Justice's own directory lists, quote, Wilmington Residence Office, 1 Rodney Square, Suite 404, 920 King Street, Wilmington, Delaware, 19801." "That is your line to know that it is a ..."
@@ -21,7 +21,7 @@ _Type: Organizations_
 - [00:08:27](/episodes/ep-SKGUzGHymcI.md#^t-00-08-19)
   > "...e vehicles are connected to 920 North King Street, which is at a place that is marketed also as one Rodney Square." "Nearly every federal vehicle that visits the airport will pass through King Street at least once..."
 
-### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
+### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:32:06](/episodes/ep-tB5SXXmd9vU.md#^t-00-31-48)
   > "...100 North Market Street, the building that is right next to 1100 North King Street, and both are on Rodney Square. So again, we're going back to that Rodney Square. Everything is French that's happening on Rodney ..."

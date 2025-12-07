@@ -12,12 +12,12 @@ _Type: Places_
 
 ## Mentions
 
-### [ep-JQjCAsfoXEE](/episodes/ep-JQjCAsfoXEE.md)
+### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 
 - [00:17:22](/episodes/ep-JQjCAsfoXEE.md#^t-00-16-57)
   > "...arlie (Charlie Kirk) is?" The flights were majority clustered within five states: Kansas, Missouri, Nebraska, Delaware, and Utah. And it's a pattern that she believes is statistically not random. I'm telling ..."
 
-### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
+### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 
 - [00:20:32](/episodes/ep-YFmRH8p5lt0.md#^t-00-20-27)
   > "...February 9th... our plane comes in. Our Egyptian military plane comes in. This time it is headed to Nebraska, and it lands in Nebraska and then flies straight to Lincoln, Nebraska. It lands in Omaha—pardon—an..."
@@ -50,7 +50,7 @@ _Type: Places_
 - [00:39:28](/episodes/ep-YFmRH8p5lt0.md#^t-00-38-56)
   > "...that you guys that are watching this can update that in your timeline. What is going on in Lincoln, Nebraska? I feel like something very relevant is happening here. Then we have, of course, the final time tha..."
 
-### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
+### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:17:51](/episodes/ep-a-e7HC6SeK8.md#^t-00-17-39)
   > "...see no proof of this. We do know that right after that, our Egyptian yellow plane flies to Lincoln, Nebraska, and two days later, it is announced in Nebraska that they're going to be doing a trade and investm..."
@@ -59,7 +59,7 @@ _Type: Places_
 - [00:18:36](/episodes/ep-a-e7HC6SeK8.md#^t-00-18-23)
   > "...ka who did that. I received your emails—even if I was not able to respond. Anyways, then it departs Nebraska—our yellow planes—and it heads to Wilmington, and then it goes back to Cairo. We then know that in ..."
 
-### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
+### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:11:11](/episodes/ep-mKXdKV-OBog.md#^t-00-10-47)
   > "...or its longest trip—that's correct—from Cairo. It went through to Paris, and then it went to Omaha, Nebraska. I think yesterday I said that it stayed in Wilmington for six days. No, it only stayed in Wilmingt..."
@@ -72,7 +72,7 @@ _Type: Places_
 - [00:13:06](/episodes/ep-mKXdKV-OBog.md#^t-00-12-57)
   > "...et with, because I feel like that idea might be related to our planes. I just don't think people in Nebraska are sitting around like, "Hey, we should go to Cairo or Egypt," and it happens to line up with this..."
 
-### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
+### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
 
 - [00:16:53](/episodes/ep-sImMM04XdWY.md#^t-00-16-53)
   > ".... This is really interesting because BTT then comes in from Cairo through Paris and lands in Omaha, Nebraska, and it's the longest stay actually that they have in Wilmington, okay? They do this long stay, and..."

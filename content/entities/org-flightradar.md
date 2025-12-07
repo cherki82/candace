@@ -12,17 +12,17 @@ _Type: Organizations_
 
 ## Mentions
 
-### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
+### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 
 - [00:07:32](/episodes/ep-YFmRH8p5lt0.md#^t-00-07-32)
   > "...s that BTT—so they're both SU—that BTT was here in 2022. That's the furthest that we can go back on FlightRadar. Now we're going to go into 2023. And I have included notes that I think might be relevant to the s..."
 
-### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
+### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:16:19](/episodes/ep-ZAuuSq_j2_w.md#^t-00-15-51)
   > "...ot it departs on June 2nd, and it is not transponding, okay? So you cannot find a record of this on FlightRadar. Now, why is this compelling? Why is this especially compelling? Because the purple plane, SUBTU—as..."
 
-### [ep-iHav0PPzUz8](/episodes/ep-iHav0PPzUz8.md)
+### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
 
 - [00:02:17](/episodes/ep-iHav0PPzUz8.md#^t-00-02-07)
   > "... runway, and they made a loop. Candace Owens: I'm going to show you a screenshot here. This is from FlightRadar. Candace Owens: So you can see that loop. Candace Owens: And again, this is a military plane, a mil..."

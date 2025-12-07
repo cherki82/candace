@@ -8,7 +8,7 @@ _Type: Places_
 
 ## Mentions
 
-### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
+### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:08:58](/episodes/ep-yAIb-NuUh_U.md#^t-00-08-29)
   > "... probation for pleading no contest to lewd conduct involving children in Manhattan Beach. That's in Orange County. A few years later, he apparently went on a tear to try to lure young girls in an entirely differen..."

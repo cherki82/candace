@@ -8,7 +8,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
+### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:28:48](/episodes/ep-mKXdKV-OBog.md#^t-00-28-48)
   > "...ri Weiss started and is a part-owner, at least, of The Free Press before that—before she went on to CBS News. She notoriously left The New York Times and said it was biased, and we needed to have somethi..."
@@ -17,7 +17,7 @@ _Type: Organizations_
 - [00:34:03](/episodes/ep-mKXdKV-OBog.md#^t-00-33-40)
   > "...saying this?" She's very, very much 100% on board. My job is to get rid of any independent voice at CBS. We're here to destroy the network and get rid of anybody that would stand in our way. We are here ..."
 
-### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
+### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
 
 - [00:15:32](/episodes/ep-sImMM04XdWY.md#^t-00-15-24)
   > "...ded things, right? Bari Weiss is a perfect example of that. Nobody knows why she is an executive at CBS. She has no objective talent. I will guarantee you everyone around her is smarter than her. And yet..."
@@ -29,4 +29,4 @@ _Type: Organizations_
 ### Referenced By
 
 - [Bari Weiss](/entities/person-bari-weiss.md) **works at** this
-  - [ep-sImMM04XdWY @ 00:15:31](/episodes/ep-sImMM04XdWY.md#^t-00-15-24)
+  - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:15:31](/episodes/ep-sImMM04XdWY.md#^t-00-15-24)

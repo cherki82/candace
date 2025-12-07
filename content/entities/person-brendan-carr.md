@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-aDlhjfW6hz8](/episodes/ep-aDlhjfW6hz8.md)
+### [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 
 - [00:42:07](/episodes/ep-aDlhjfW6hz8.md#^t-00-41-34)
   > "... power. And that's what happened here, okay? The chairman of the Federal Communications Commission, Brendan Carr, jumped up, and he criticized Jimmy Kimmel's remarks. He threatened federal action against ABC affi..."
@@ -20,9 +20,9 @@ _Type: People_
 ### Criticized
 
 - [Jimmy Kimmel](/entities/person-jimmy-kimmel.md)
-  - [ep-aDlhjfW6hz8 @ 00:42:18](/episodes/ep-aDlhjfW6hz8.md#^t-00-41-34): "Brendan Carr... criticized Jimmy Kimmel's remarks"
+  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:42:18](/episodes/ep-aDlhjfW6hz8.md#^t-00-41-34): "Brendan Carr... criticized Jimmy Kimmel's remarks"
 
 ### Works At
 
 - [Federal Communications Commission](/entities/org-federal-communications-commission.md)
-  - [ep-aDlhjfW6hz8 @ 00:42:07](/episodes/ep-aDlhjfW6hz8.md#^t-00-41-34): "chairman of the Federal Communications Commission, Brendan Carr"
+  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:42:07](/episodes/ep-aDlhjfW6hz8.md#^t-00-41-34): "chairman of the Federal Communications Commission, Brendan Carr"

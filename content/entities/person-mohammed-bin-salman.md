@@ -12,7 +12,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
+### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:17:13](/episodes/ep-ZAuuSq_j2_w.md#^t-00-17-12)
   > "...that same exact aircraft, tail number SU-BTU, for a high-level sit-down with the Saudi Crown Prince Mohammed bin Salman." Okay? So BTU. And again, he's mixing it up with BTT, but we can now connect these two planes. Now..."

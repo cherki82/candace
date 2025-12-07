@@ -8,34 +8,34 @@ _Type: Organizations_
 
 ## Mentions
 
-### [ep-Cq7nj9rxPdo](/episodes/ep-Cq7nj9rxPdo.md)
+### [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
 
 - [00:11:41](/episodes/ep-Cq7nj9rxPdo.md#^t-00-11-30)
   > "...owitz, the one that Bibi (Benjamin Netanyahu) is insisting should be a part of this group that buys TikTok because—and this is relevant—they think it's important for warfare, psychological warfare in the fu..."
 
-### [ep-JQjCAsfoXEE](/episodes/ep-JQjCAsfoXEE.md)
+### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 
 - [00:48:39](/episodes/ep-JQjCAsfoXEE.md#^t-00-48-07)
   > "...we no matter what pull the top comment from a previous episode. I did see something going around on TikTok, and I can try to reach out to that person. But it's an eyewitness account—until we have actual pro..."
 
-### [ep-Qfwr08Ebczo](/episodes/ep-Qfwr08Ebczo.md)
+### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
 
 - [00:49:54](/episodes/ep-Qfwr08Ebczo.md#^t-00-49-32)
   > "...gyptian plane, which... So interesting—speaking of the unique relationship between Egypt and Israel—TikTok is hitting us for videos talking about the Egyptian planes. That's very strange. Israel's moderator..."
 - [00:50:06](/episodes/ep-Qfwr08Ebczo.md#^t-00-49-32)
   > "...strange. Israel's moderator served in the IDF—we know—and Benjamin Netanyahu (Bibi Netanyahu) wants TikTok secured for Israel's future. Why do they care about Egyptian planes that were there? It's kind of c..."
 
-### [ep-Qt0VHV-POCg](/episodes/ep-Qt0VHV-POCg.md)
+### [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 
 - [00:55:29](/episodes/ep-Qt0VHV-POCg.md#^t-00-54-55)
   > "...they're buying so many bots on the internet. It's a stake that Israel is taking. It's why they want TikTok—because they want you to feel that pressure that Charlie felt: like everyone thinks it's but you, s..."
 
-### [ep-YA1FxrDWNIo](/episodes/ep-YA1FxrDWNIo.md)
+### [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 
 - [00:24:17](/episodes/ep-YA1FxrDWNIo.md#^t-00-23-57)
   > "...in, reminding you guys, please do not send us—because we're such a small team—please do not send us TikTok videos and say, "You should watch this," or, "You know, look at this theory." Reserve that to simpl..."
 
-### [ep-aDlhjfW6hz8](/episodes/ep-aDlhjfW6hz8.md)
+### [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 
 - [00:43:35](/episodes/ep-aDlhjfW6hz8.md#^t-00-43-02)
   > "...That's what's happening right now. They're taking over our speech under the guise of fighting hate. TikTok, by the way— did you guys see this? Israel's pretty much taking over TikTok. There's no other way t..."
@@ -48,7 +48,7 @@ _Type: Organizations_
 - [00:46:12](/episodes/ep-aDlhjfW6hz8.md#^t-00-45-39)
   > "...t us help you. You guys are just old. Like, what's going on? I actually think there was a person on TikTok—I hate to not credit them, but I genuinely don't remember what handle it was. I was just scrolling ..."
 
-### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
+### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
 
 - [00:29:53](/episodes/ep-adJ4LNGp84I.md#^t-00-29-09)
   > "...EAKER_5: And the most important purchase that is going on right now is SPEAKER_5: class? SPEAKER_5: TikTok. SPEAKER_5: TikTok. SPEAKER_5: Number one. SPEAKER_5: Number one. SPEAKER_5: And I hope it goes thr..."
@@ -67,12 +67,12 @@ _Type: Organizations_
 - [00:44:21](/episodes/ep-adJ4LNGp84I.md#^t-00-44-06)
   > "...s her name, right? Erica Mendel. She is the public policy manager of hate speech. And she's been at TikTok since July of this year, and she's like, yeah, whatever, I'm an IDF soldier and it's now war, and w..."
 
-### [ep-ja26iltROkM](/episodes/ep-ja26iltROkM.md)
+### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 
 - [00:17:52](/episodes/ep-ja26iltROkM.md#^t-00-17-52)
   > "...ion while also releasing those ridiculous text messages that looked like somebody was having fun on TikTok and making, you know, a ridiculous skit— I don't feel like the investigation has much integrity, or..."
 
-### [ep-ozWJz2spBcI](/episodes/ep-ozWJz2spBcI.md)
+### [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
 
 - [00:51:01](/episodes/ep-ozWJz2spBcI.md#^t-00-50-57)
   > "...ight? The more that you expose yourself. Even this headline is crazy. This came out that like their TikTok—which we covered this before—the moderation team—like IDF soldiers—and Benjamin Netanyahu saying, "..."
@@ -87,19 +87,19 @@ _Type: Organizations_
 - [00:52:27](/episodes/ep-ozWJz2spBcI.md#^t-00-52-25)
   > "...ever that we made TikTok ban TikTok because TikTok is actually code for Israel. The modern state of TikTok. That's what I want you guys to do, because that would just be funny. And we have to actually have ..."
 
-### [ep-pc3pxRyNFZk](/episodes/ep-pc3pxRyNFZk.md)
+### [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
 
 - [00:42:30](/episodes/ep-pc3pxRyNFZk.md#^t-00-42-13)
   > "...me tell you where you made the mistake, okay? In 1963, when JFK was shot, people didn't watch it on TikTok. People mostly read about it, and then the feds lied about it, and they heard about it. But to be a..."
 - [00:43:57](/episodes/ep-pc3pxRyNFZk.md#^t-00-43-40)
   > "...okers that are asking questions. You get our military guys. You get our ballistic boys. You get the TikTok medium psychic ladies. You get everybody. All of us are here, okay? It's like a high school class. ..."
 
-### [ep-r1PS67aRmcA](/episodes/ep-r1PS67aRmcA.md)
+### [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
 
 - [00:43:42](/episodes/ep-r1PS67aRmcA.md#^t-00-43-07)
   > "...nd you thought that this generation was gonna get behind it because what, Benjamin Netanyahu bought TikTok? The hypocrisy is astounding and you can't survive hypocrisy. So unfortunately, I think four years ..."
 
-### [ep-t1YtLS1n8Vs](/episodes/ep-t1YtLS1n8Vs.md)
+### [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
 
 - [00:39:34](/episodes/ep-t1YtLS1n8Vs.md#^t-00-39-23)
   > "...on that day. Tips does not include, “Candace (Candace Owens), have you seen this theory? Watch this TikTok.” Please, guys. We are trying not to have our inbox cluttered because we wanna get to all of these ..."
@@ -109,5 +109,5 @@ _Type: Organizations_
 ### Referenced By
 
 - [Erica Mindel](/entities/person-erica-mindel.md) **works at** this
-  - [ep-adJ4LNGp84I @ 00:44:18](/episodes/ep-adJ4LNGp84I.md#^t-00-44-06)
-  - [ep-adJ4LNGp84I @ 00:44:18](/episodes/ep-adJ4LNGp84I.md#^t-00-44-06)
+  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:44:18](/episodes/ep-adJ4LNGp84I.md#^t-00-44-06)
+  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:44:18](/episodes/ep-adJ4LNGp84I.md#^t-00-44-06)

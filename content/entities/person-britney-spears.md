@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-7RLtGgkTh9o](/episodes/ep-7RLtGgkTh9o.md)
+### [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 
 - [00:00:50](/episodes/ep-7RLtGgkTh9o.md#^t-00-00-44)
   > "...pulling in all of these elements. And we need to speak a lot more about the Calvary Chapel and also Britney Spears. Britney Spears—suddenly Britney Spears is here. Britney Spears and everything that happened to her..."
@@ -43,7 +43,7 @@ _Type: People_
 - [00:32:07](/episodes/ep-7RLtGgkTh9o.md#^t-00-32-07)
   > "...t mentioned, whether you're looking into the Courtney Love thing, or whether you are focused on the Britney Spears thing. You need to look here. We need to understand what is happening inside of these churches. And..."
 
-### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
+### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:45:49](/episodes/ep-tB5SXXmd9vU.md#^t-00-45-28)
   > "...like mental warfare. They put you in a hospital and say you're crazy and drug you, like they did to Britney Spears, like they did to Kanye West, or they bankrupt you, right? That's also one of the mechanisms. Do yo..."
@@ -53,11 +53,11 @@ _Type: People_
 ### Lives In
 
 - [Thousand Oaks, California](/entities/gpe-thousand-oaks-california.md)
-  - [ep-7RLtGgkTh9o @ 00:15:59](/episodes/ep-7RLtGgkTh9o.md#^t-00-15-24): "Britney Spears lives in Thousand Oaks, California"
+  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:15:59](/episodes/ep-7RLtGgkTh9o.md#^t-00-15-24): "Britney Spears lives in Thousand Oaks, California"
 
 ### Referenced By
 
 - [Jamie Spears](/entities/person-jamie-spears.md) **parent of** this
-  - [ep-7RLtGgkTh9o @ 00:06:40](/episodes/ep-7RLtGgkTh9o.md#^t-00-06-14)
+  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:06:40](/episodes/ep-7RLtGgkTh9o.md#^t-00-06-14)
 - [Jamie Lynn Spears](/entities/person-jamie-lynn-spears.md) **sibling of** this
-  - [ep-7RLtGgkTh9o @ 00:06:40](/episodes/ep-7RLtGgkTh9o.md#^t-00-06-14)
+  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:06:40](/episodes/ep-7RLtGgkTh9o.md#^t-00-06-14)

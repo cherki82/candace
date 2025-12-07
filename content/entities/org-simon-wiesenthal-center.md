@@ -12,7 +12,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [ep-Cq7nj9rxPdo](/episodes/ep-Cq7nj9rxPdo.md)
+### [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
 
 - [00:19:56](/episodes/ep-Cq7nj9rxPdo.md#^t-00-19-21)
   > "...nd going, "Why do people want to destroy us? We don't know what this is." And at the same time, the Simon Wiesenthal Center—and this is again another interesting piece of this—put me—like, issued a statement against my comm..."

@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-t1YtLS1n8Vs](/episodes/ep-t1YtLS1n8Vs.md)
+### [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
 
 - [00:28:52](/episodes/ep-t1YtLS1n8Vs.md#^t-00-28-16)
   > "...ta have a lawyer that's working for the prosecution, right? Well, that's what's going on. Recently, Elizabeth Lane went on the Redacted podcast, and she discussed how the prosecutor is picking his opponent in the T..."

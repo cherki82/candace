@@ -8,17 +8,17 @@ _Type: Places_
 
 ## Mentions
 
-### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
+### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:15:43](/episodes/ep-SKGUzGHymcI.md#^t-00-15-37)
   > "... Street with the label Federal Bureau of Investigation. Instead of the public FBI address that's at 500 Delaware Avenue, Suite 300, which is just a bank tower, you can confirm that 500 Delaware Ave is the borough's publ..."
 
-### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
+### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:11:53](/episodes/ep-a-e7HC6SeK8.md#^t-00-11-53)
   > "...sterday: we've got this FBI suite in this building that's actually owned by the Wilmington Trust at 500 Delaware Avenue. We've got Brigitte's lawyers at 919 North Market Street. Also in that building happens to be Stace..."
 
-### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
+### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:30:58](/episodes/ep-tB5SXXmd9vU.md#^t-00-30-30)
   > "...on X," he goes on, "who were trying to pretend that this was some prank said the FBI is actually at 500 Delaware Avenue, right? And 500 Delaware Avenue is a couple of blocks over. We can show you that on the map as well..."
@@ -32,4 +32,4 @@ _Type: Places_
 ### Referenced By
 
 - [MG+M](/entities/org-mg-m.md) **based in** this
-  - [ep-tB5SXXmd9vU @ 00:32:22](/episodes/ep-tB5SXXmd9vU.md#^t-00-31-48)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:32:22](/episodes/ep-tB5SXXmd9vU.md#^t-00-31-48)

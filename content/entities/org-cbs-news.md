@@ -8,7 +8,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
+### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:28:48](/episodes/ep-mKXdKV-OBog.md#^t-00-28-48)
   > "...ri Weiss started and is a part-owner, at least, of The Free Press before that—before she went on to CBS News. She notoriously left The New York Times and said it was biased, and we needed to have something th..."
@@ -20,4 +20,4 @@ _Type: Organizations_
 ### Referenced By
 
 - [Bari Weiss](/entities/person-bari-weiss.md) **works at** this
-  - [ep-mKXdKV-OBog @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#^t-00-28-14)
+  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#^t-00-28-14)

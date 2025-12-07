@@ -12,7 +12,7 @@ _Type: Places_
 
 ## Mentions
 
-### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
+### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:11:46](/episodes/ep-SKGUzGHymcI.md#^t-00-11-40)
   > "...to a multi-agency space in a commercial building. The building looks like if you decided to cut the 33 Thomas Street building in half. Seriously, if you Google image 33 Thomas Street in New York City, that's the buil..."

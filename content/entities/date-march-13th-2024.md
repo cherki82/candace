@@ -8,7 +8,7 @@ _Type: Dates_
 
 ## Mentions
 
-### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
+### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
 
 - [00:07:05](/episodes/ep-sImMM04XdWY.md#^t-00-06-59)
   > "...same time that I began looking into the Brigitte Macron story. That was in March of 2024. It was on March 13th, 2024, that I did the very first ever episode on Brigitte Macron, right? And then wham, I am fired within..."

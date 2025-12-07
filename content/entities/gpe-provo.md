@@ -13,7 +13,7 @@ _Type: Places_
 
 ## Mentions
 
-### [ep-581dILVcEE4](/episodes/ep-581dILVcEE4.md)
+### [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
 
 - [00:08:41](/episodes/ep-581dILVcEE4.md#^t-00-08-20)
   > "...t born yesterday, I feel pretty confident concluding that these 12 to 14 Egyptians didn't drop into Provo, Utah, in the six days leading up to Charlie (Charlie Kirk)'s assassination to fix like a broken light on..."
@@ -26,7 +26,7 @@ _Type: Places_
 - [00:21:03](/episodes/ep-581dILVcEE4.md#^t-00-20-39)
   > "...n that plane. That is of interest to me because it wasn't Charlie (Charlie Kirk), and they got into Provo just ahead of the assassination, and it has to be somebody big. I don't think the students are flyi..."
 
-### [ep-JQjCAsfoXEE](/episodes/ep-JQjCAsfoXEE.md)
+### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 
 - [00:05:44](/episodes/ep-JQjCAsfoXEE.md#^t-00-05-44)
   > "...ect example. On October 11th, when I infamously tweeted about the Egyptian military plane that left Provo on the morning of Charlie (Charlie Kirk)'s assassination, I got the time zone wrong by a couple of ..."
@@ -43,7 +43,7 @@ _Type: Places_
 - [00:27:30](/episodes/ep-JQjCAsfoXEE.md#^t-00-26-57)
   > "... I learned that oddly, Duncan Aviation—you know, where that plane was transponding from, the FBO in Provo—sourced rental cars for these quote-unquote Egyptians when they landed a couple of days before this..."
 
-### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
+### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:03:23](/episodes/ep-SKGUzGHymcI.md#^t-00-03-23)
   > "...six days earlier—that plane, the yellow plane, departed on the morning at 7:14 a.m. local time from Provo, Utah. And it's headed to Wilmington, Delaware. It arrived in Wilmington, Delaware at 11:51 a.m. Eastern...."
@@ -56,7 +56,7 @@ _Type: Places_
 - [00:29:09](/episodes/ep-SKGUzGHymcI.md#^t-00-29-09)
   > "... Scottsdale. And I would like to know who specifically got onto this plane. And then they land into Provo at 3:31 p.m. The last plane that we have here is one that departed Santa Barbara at 2:19 p.m. local..."
 
-### [ep-YA1FxrDWNIo](/episodes/ep-YA1FxrDWNIo.md)
+### [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 
 - [00:19:22](/episodes/ep-YA1FxrDWNIo.md#^t-00-18-54)
   > "...rnet-wide search of the person's face." And I only got one hit using technology, and the hit was in Provo, Utah. And he wrote to me that it was quite a coincidence because not only is the person in Provo for thi..."
@@ -69,7 +69,7 @@ _Type: Places_
 - [00:19:58](/episodes/ep-YA1FxrDWNIo.md#^t-00-19-40)
   > "...ic underground in Provo, okay? So this is the website. It's a gothic underground, of all things, in Provo: the website Buzzards & Bees. And they're speaking about a gothic prom. That is where that person's..."
 
-### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
+### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 
 - [00:05:46](/episodes/ep-YFmRH8p5lt0.md#^t-00-05-35)
   > "...fter—Egyptian military plane that is—three hours after Charlie (Charlie Kirk) was assassinated from Provo, Utah." And that tail number is SUBND. And you should take a look at that. And I thought to myself, "Okay..."
@@ -92,7 +92,7 @@ _Type: Places_
 - [00:43:00](/episodes/ep-YFmRH8p5lt0.md#^t-00-42-28)
   > "...ne." But then like, why would Charlie (Charlie Kirk) fly into Salt Lake City? No, he would fly into Provo, obviously, because Salt Lake City is like 60 miles away. You don't fly private so that you can the..."
 
-### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
+### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:00:47](/episodes/ep-ZAuuSq_j2_w.md#^t-00-00-43)
   > "...at was nothing. That's just what Egyptian military planes do: fly around the skies in the middle of Provo when Charlie (Charlie Kirk) is being assassinated. Well, it turns out maybe these planes might be t..."
@@ -111,17 +111,17 @@ _Type: Places_
 - [00:18:57](/episodes/ep-ZAuuSq_j2_w.md#^t-00-18-21)
   > "... with. Now, again, maybe Walid is the pilot. That could make sense. But what was he or she doing in Provo at the end of May and into early June? These are questions—and honestly concerns—that shouldn't be ..."
 
-### [ep-aDlhjfW6hz8](/episodes/ep-aDlhjfW6hz8.md)
+### [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 
 - [00:18:48](/episodes/ep-aDlhjfW6hz8.md#^t-00-18-15)
   > "... then they provide us with the real-world context by writing: companies like Caldera Engineering in Provo, Utah, manufacture specialized industrial valves and control systems. While no public evidence currently ..."
 
-### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
+### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 
 - [00:16:49](/episodes/ep-his-JBjlkh8.md#^t-00-16-49)
   > "...allegations involving French paratroopers in maroon shirts, Egyptian Air Force planes flying out of Provo, Utah, and potential underground assassins traveling through unseen tunnels. At one point in early Novemb..."
 
-### [ep-iHav0PPzUz8](/episodes/ep-iHav0PPzUz8.md)
+### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
 
 - [00:05:46](/episodes/ep-iHav0PPzUz8.md#^t-00-05-40)
   > "... take you through what that was doing. It caught a ton of attention because the plane departed from Provo, Utah at 1:20 p.m. local time. Candace Owens: In theory then, of course, yes, a person could have shot Ch..."
@@ -158,7 +158,7 @@ _Type: Places_
 - [00:56:59](/episodes/ep-iHav0PPzUz8.md#^t-00-56-33)
   > "...nt, but it was actually in Idaho. Right. 20 minutes—about 20 minutes out, right? He didn't get over Provo until 20 minutes after he was shot, right? That's what I said earlier. Okay, great. Perfect. Thank ..."
 
-### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
+### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:00:19](/episodes/ep-mKXdKV-OBog.md#^t-00-00-00)
   > "...cise—which was taking place—related exactly to where the Egyptian yellow plane landed on its way to Provo. We need to definitely keep at it. Zionists are mad. I don't know why this investigation really has..."
@@ -169,7 +169,7 @@ _Type: Places_
 - [00:06:31](/episodes/ep-mKXdKV-OBog.md#^t-00-06-30)
   > "...SUBTT's stopover in Minot, North Dakota. Why stop there at all on the fourth? Why not fly direct to Provo? Not only does Minot have an FBI office, but it also has an Air Force base among other tenants. Tha..."
 
-### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
+### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:23:24](/episodes/ep-tB5SXXmd9vU.md#^t-00-23-12)
   > "...r yellow plane, which departed on the morning of Charlie Kirk's (Charlie Kirk's) assassination from Provo, went over to Wilmington, Delaware. We learned that regarding that hangar, Satis, which is a French..."
@@ -179,5 +179,5 @@ _Type: Places_
 ### Referenced By
 
 - [Caldera Engineering](/entities/org-caldera-engineering.md) **based in** this
-  - [ep-aDlhjfW6hz8 @ 00:18:48](/episodes/ep-aDlhjfW6hz8.md#^t-00-18-15)
-  - [ep-aDlhjfW6hz8 @ 00:18:58](/episodes/ep-aDlhjfW6hz8.md#^t-00-18-15)
+  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:18:48](/episodes/ep-aDlhjfW6hz8.md#^t-00-18-15)
+  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:18:58](/episodes/ep-aDlhjfW6hz8.md#^t-00-18-15)

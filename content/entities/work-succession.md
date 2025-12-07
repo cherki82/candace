@@ -8,29 +8,29 @@ _Type: Work_
 
 ## Mentions
 
-### [ep-5autG89PW6w](/episodes/ep-5autG89PW6w.md)
+### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 
 - [00:01:04](/episodes/ep-5autG89PW6w.md#^t-00-00-39)
   > "... sister called me this morning, and she was like, "Candace, your podcast right now is like the show Succession on HBO." You guys know this show, which is about how all of the heirs are supposed to be kind of fa..."
 
-### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
+### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 
 - [00:07:29](/episodes/ep-LATnak75Si0.md#^t-00-07-05)
   > "...d that Charlie (Charlie Kirk) kept notebooks and diaries. He was so diligent that he wrote down his succession plan featuring who he wanted to take over for the organization in the event of his untimely death. ..."
 - [00:08:08](/episodes/ep-LATnak75Si0.md#^t-00-07-48)
   > "...Kirk)—wasn't he like a boy genius? He's a pretty bright kid. Wouldn't he have maybe formalized that succession plan outside of like a diary? Maybe call one of his many lawyers, maybe formalize it in a will—beca..."
 
-### [ep-Qfwr08Ebczo](/episodes/ep-Qfwr08Ebczo.md)
+### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
 
 - [00:07:02](/episodes/ep-Qfwr08Ebczo.md#^t-00-06-36)
   > "...rlie Kirk) had a plan all the way through 2028 written out—written out. I mean, there's an order of succession. And so when she comes out and she says "the amazing"—I think she said "the amazing Mikey McCoy"— a..."
 
-### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
+### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:43:11](/episodes/ep-SKGUzGHymcI.md#^t-00-42-54)
   > "...Israel or what could be interpreted as anti-Israel rhetoric. Anyways, let's watch Tim Pool in quick succession. That moment before Charlie (Charlie Kirk) was murdered, there was a path that we were on that was ..."
 
-### [ep-c5BcKF91iec](/episodes/ep-c5BcKF91iec.md)
+### [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 
 - [00:06:39](/episodes/ep-c5BcKF91iec.md#^t-00-06-36)
   > "...ike, in the event that he had been horrifically assassinated in front of the world, JFK maybe had a succession plan. Now, if these terms I'm using here sound familiar to you, it's because they should sound fami..."
@@ -45,7 +45,7 @@ _Type: Work_
 - [00:28:26](/episodes/ep-c5BcKF91iec.md#^t-00-28-26)
   > "...he rest of the world that all of this is normal. We're not just gonna keep on going and jump into a succession plan. We're gonna figure out what the hell happened on September 10th first. And I'm gonna tell you..."
 
-### [ep-iHav0PPzUz8](/episodes/ep-iHav0PPzUz8.md)
+### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
 
 - [00:43:55](/episodes/ep-iHav0PPzUz8.md#^t-00-43-28)
   > "...id his robe, his armor, and other symbols of rank—an act that has been interpreted as a transfer of succession. Jonathan repeatedly protected David from his father, Saul—warning him of the king's intentions to ..."

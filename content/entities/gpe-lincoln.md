@@ -12,14 +12,14 @@ _Type: Places_
 
 ## Mentions
 
-### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
+### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:20:11](/episodes/ep-SKGUzGHymcI.md#^t-00-20-11)
   > "...parate Wilmington runs for no reason. I mean, just look at the choice of St. Louis, Wichita, Omaha, Lincoln, Williston, Minot, and Provo. None of these are standard diplomatic hubs. Most of those don't even ..."
 - [00:54:34](/episodes/ep-SKGUzGHymcI.md#^t-00-54-00)
   > "...on. Raymond Rorah writes assassination or more about what one plans to do, not what they have done. Lincoln's plan after freeing the slaves, relocation. Kennedy's plan to deal with the military industrial co..."
 
-### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
+### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 
 - [00:20:32](/episodes/ep-YFmRH8p5lt0.md#^t-00-20-27)
   > "...e comes in. This time it is headed to Nebraska, and it lands in Nebraska and then flies straight to Lincoln, Nebraska. It lands in Omaha—pardon—and then flies straight over to Lincoln, and it stays in Lincoln for a my..."
@@ -52,14 +52,14 @@ _Type: Places_
 - [00:39:18](/episodes/ep-YFmRH8p5lt0.md#^t-00-38-56)
   > "...ln chapter come together? I think you were making one note that that was supposed to be in 2024—the Lincoln chapter came together. Is that what you were saying, Mark? Okay, so I'll edit that in our updated t..."
 
-### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
+### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:17:51](/episodes/ep-a-e7HC6SeK8.md#^t-00-17-39)
   > "...gain, we see no proof of this. We do know that right after that, our Egyptian yellow plane flies to Lincoln, Nebraska, and two days later, it is announced in Nebraska that they're going to be doing a trade and investm..."
 - [00:23:23](/episodes/ep-a-e7HC6SeK8.md#^t-00-23-23)
   > "...st immediately—10 days later—we got our next point: our planes come back out, and they're flying to Lincoln. Again, they're going to Omaha. They're going to Wilmington. They stay for one night. Charlie (Char..."
 
-### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
+### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:11:22](/episodes/ep-mKXdKV-OBog.md#^t-00-10-47)
   > "...ayed in Wilmington for one night. It stayed in Nebraska for the longest stretch yet, departing from Lincoln, Nebraska, in particular. And this six-day stretch of what they were doing in Nebraska actually might offer u..."

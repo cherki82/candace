@@ -13,7 +13,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-2WEHTk0Xewg](/episodes/ep-2WEHTk0Xewg.md)
+### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 
 - [00:07:58](/episodes/ep-2WEHTk0Xewg.md#^t-00-07-58)
   > "...which I find to be strange. We don't know what that second suspect is wearing until 5:30 p.m., when Governor Cox—12 minutes into a press conference; the press conference began at 5:30 p.m.—mentions that the secon..."
@@ -28,17 +28,17 @@ _Type: People_
 - [00:31:04](/episodes/ep-2WEHTk0Xewg.md#^t-00-30-29)
   > "... six-minute clip, but listen to how he wraps up this conference too because it's relevant. (Clip of Governor Cox) Good morning, ladies and gentlemen. We got him. This is a very sad day again for our country—a ter..."
 
-### [ep-5autG89PW6w](/episodes/ep-5autG89PW6w.md)
+### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 
 - [00:38:16](/episodes/ep-5autG89PW6w.md#^t-00-38-02)
   > "... Anyways, I can tell you guys—I can break this for you—that the government—and this would implicate Governor Cox and whoever else was a part of that press conference the morning after, the 33 hours after they app..."
 
-### [ep-K5GjF53bfN4](/episodes/ep-K5GjF53bfN4.md)
+### [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 
 - [00:15:57](/episodes/ep-K5GjF53bfN4.md#^t-00-15-27)
   > "...e offense and getting them the footage. But the feds never reached out to him until the 15th. After Governor Cox said the investigation was over and they had the guy, the feds reached out to him and said, "Hey, y..."
 
-### [ep-ZGxnf5cj4Uw](/episodes/ep-ZGxnf5cj4Uw.md)
+### [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
 
 - [00:25:53](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-25-45)
   > "...stigation that he worked on Phil Lyman's gubernatorial campaign. Phil Lyman ran against the current Governor Cox, and he lost. And one day—very early on; this must have been like day three—Nick cold calls me, and..."
@@ -57,12 +57,12 @@ _Type: People_
 - [00:41:33](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-41-28)
   > "...—that Tyler Bowyer and the Lyman have been speaking, and that they're—you know—really going to make Governor Cox—and I'm paraphrasing here—but apparently there's another Utah event—USU event—coming up, and Govern..."
 
-### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
+### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
 
 - [00:06:32](/episodes/ep-adJ4LNGp84I.md#^t-00-06-18)
   > "...son is Judge Tony F. Graf Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox. I was also informed that the coroner in this case was also brand spanking new. That name has not y..."
 
-### [ep-czVBmqZP6Ss](/episodes/ep-czVBmqZP6Ss.md)
+### [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 
 - [00:40:10](/episodes/ep-czVBmqZP6Ss.md#^t-00-39-50)
   > "...een right now, hands in his pockets, that is just walking outside of university grounds, okay? Now, Governor Cox tells us that at 8:29, which is an interesting timeline, Governor Cox tells us that that is when th..."
@@ -81,7 +81,7 @@ _Type: People_
 - [00:52:24](/episodes/ep-czVBmqZP6Ss.md#^t-00-51-44)
   > "...on this social media app, Discord, they were discussing the rifle drop point. Take a listen. (Clip: Governor Cox) Investigators identified an individual as the roommate of Robinson. Investigators interviewed that..."
 
-### [ep-q7f8r-THr84](/episodes/ep-q7f8r-THr84.md)
+### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
 
 - [00:06:18](/episodes/ep-q7f8r-THr84.md#^t-00-06-16)
   > "...ere's been a lot that's been said that I think a lot of the miscommunication is perhaps coming from Governor Cox. I think he, in and of himself, I probably should look into Governor Cox. I'm not sure why he said ..."
@@ -94,7 +94,7 @@ _Type: People_
 - [01:12:00](/episodes/ep-q7f8r-THr84.md#^t-01-11-54)
   > "...eal spiritual evil and you felt inclined to go to church. Maple Leaf Girl writes, "Please look into Governor Cox. He's a corrupt RINO. He stole the election." I've gotten a lot of emails that are saying that. I o..."
 
-### [ep-sreYYcID-QY](/episodes/ep-sreYYcID-QY.md)
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 
 - [00:27:52](/episodes/ep-sreYYcID-QY.md#^t-00-27-27)
   > "...operty and it's yours, I don't know how they can tell you it's not yours anymore since—don't forget—Governor Cox said, "It's all wrapped up. It's over. We've got him; move on." I don't see how you showing us a Do..."
@@ -104,6 +104,6 @@ _Type: People_
 ### Appointed
 
 - [Judge Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)
-  - [ep-adJ4LNGp84I @ 00:06:32](/episodes/ep-adJ4LNGp84I.md#^t-00-06-18): "the judge... is Judge Tony F. Graf Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox."
+  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:06:32](/episodes/ep-adJ4LNGp84I.md#^t-00-06-18): "the judge... is Judge Tony F. Graf Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox."
 - [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)
-  - [ep-adJ4LNGp84I @ 00:06:32](/episodes/ep-adJ4LNGp84I.md#^t-00-06-18): "Judge Tony F. Graf Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox."
+  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:06:32](/episodes/ep-adJ4LNGp84I.md#^t-00-06-18): "Judge Tony F. Graf Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox."

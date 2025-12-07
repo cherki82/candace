@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
+### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 
 - [00:23:18](/episodes/ep-MUA9ebCF4Ow.md#^t-00-23-07)
   > "...Now, to my Turning Point USA people, I would like to give a special shout-out to Dylan Erickson and Austin Erickson, the bros that work at TPUSA. I want you both to know that I am onto you. I have known every word t..."
@@ -20,4 +20,4 @@ _Type: People_
 ### Works At
 
 - [Turning Point USA](/entities/org-turning-point-usa.md)
-  - [ep-MUA9ebCF4Ow @ 00:23:18](/episodes/ep-MUA9ebCF4Ow.md#^t-00-23-07): "Dylan Erickson and Austin Erickson, the bros that work at TPUSA"
+  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:23:18](/episodes/ep-MUA9ebCF4Ow.md#^t-00-23-07): "Dylan Erickson and Austin Erickson, the bros that work at TPUSA"

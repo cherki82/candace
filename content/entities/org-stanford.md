@@ -8,29 +8,29 @@ _Type: Organizations_
 
 ## Mentions
 
-### [ep-2WEHTk0Xewg](/episodes/ep-2WEHTk0Xewg.md)
+### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 
 - [00:36:20](/episodes/ep-2WEHTk0Xewg.md#^t-00-35-53)
   > "...rmation about Lance Twiggs. Okay, I already don't like that mom received a bachelor of science from Stanford University in psychology. It seems to be a running theme in these Fed ops that there's always psych..."
 
-### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
+### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 
 - [00:06:14](/episodes/ep-LATnak75Si0.md#^t-00-05-38)
   > "... in that corridor, try to do those campus events back-to-back. We did UCLA, we did Berkeley, we did Stanford. You do a sweep overnight, over two days. You don't fly to Utah and then go back home to Arizona an..."
 
-### [ep-_dRaEO47-co](/episodes/ep-_dRaEO47-co.md)
+### [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 
 - [00:05:36](/episodes/ep-_dRaEO47-co.md#^t-00-04-56)
   > "...n doing this campus tour throughout California. He called it the Big Three: UCLA, we're going to do Stanford, we're going to do Berkeley. And there was somebody who was a lot bigger than me at the time, who w..."
 
-### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
+### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
 
 - [00:22:51](/episodes/ep-sImMM04XdWY.md#^t-00-22-25)
   > "...ere trying to determine whether or not it could have been Brigitte Macron that was involved in that Stanford experiment—this prisoner 2093 that was being protected. We didn't know why this prisoner was being ..."
 - [00:23:51](/episodes/ep-sImMM04XdWY.md#^t-00-23-08)
   > "...ing in the background with Xavier. And we thought that we had perhaps identified Brigitte Macron at Stanford University—a possibility is what I would say; we were maybe at 50-50%—and then suddenly Charlie (Ch..."
 
-### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
+### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
 
 - [00:33:33](/episodes/ep-vwG1juDCQZQ.md#^t-00-33-20)
   > "...me over everything. When I tell you a hard time: when Charlie (Charlie Kirk) and I were speaking at Stanford, the student who put the event together—her grandfather owned one of the buildings at Stanford. Lik..."

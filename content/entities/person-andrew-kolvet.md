@@ -13,7 +13,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-5autG89PW6w](/episodes/ep-5autG89PW6w.md)
+### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 
 - [00:13:03](/episodes/ep-5autG89PW6w.md#^t-00-12-28)
   > "...paid me for my posts if she can prove those text messages are real." Update, says Community Notes: "Andrew Kolvet confirmed the screen grab was real." Of course it was real. I mean... I would have to be the dumbes..."
@@ -26,7 +26,7 @@ _Type: People_
 - [00:18:20](/episodes/ep-5autG89PW6w.md#^t-00-17-47)
   > "...are circulating. And yeah, he's being honest about that portion. I personally, as someone who knows Andrew Kolvet, wanna express how I feel. I hold it against him actually that he didn't share it with me. He knew—..."
 
-### [ep-Cq7nj9rxPdo](/episodes/ep-Cq7nj9rxPdo.md)
+### [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
 
 - [00:12:56](/episodes/ep-Cq7nj9rxPdo.md#^t-00-12-53)
   > "...le, telling Charlie that we need to hire bigger and more professional money raisers, PR people like Andrew Kolvet—you name it. And it feels like at every moment there were forces that were trying to tell us this i..."
@@ -41,7 +41,7 @@ _Type: People_
 - [00:40:28](/episodes/ep-Cq7nj9rxPdo.md#^t-00-40-02)
   > "... had discovered this over the weekend. So like James Lee, Ian Carroll, Sam Parker. And here is what Andrew Kolvet had to say. (Andrew Kolvet speaking) He's going to tell us that Mikey was told to do this in the ev..."
 
-### [ep-JQjCAsfoXEE](/episodes/ep-JQjCAsfoXEE.md)
+### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 
 - [00:11:45](/episodes/ep-JQjCAsfoXEE.md#^t-00-11-07)
   > "...or Rob McCoy)"? I've done multiple episodes now on Mikey, on Rob (Pastor Rob McCoy), speaking about Andrew Kolvet, Alex Clark. Why were they kept? Why do they keep going back to Erika? What is it about these Egypt..."
@@ -50,7 +50,7 @@ _Type: People_
 - [00:24:14](/episodes/ep-JQjCAsfoXEE.md#^t-00-24-14)
   > "...r and over again in my mind, and it isn't adding up. Another point that I'd like to follow up with, Andrew Kolvet: let's stick with you. Is that in the hospital on that day, you told me—you were in the hospital—th..."
 
-### [ep-K1tFD7FfoCU](/episodes/ep-K1tFD7FfoCU.md)
+### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 
 - [00:08:39](/episodes/ep-K1tFD7FfoCU.md#^t-00-08-16)
   > "...betrayal. To the contrary, I had a very long discussion with him. I also had a long discussion with Andrew Kolvet (Andrew Kolvet) separately, telling them both that Charlie (Charlie Kirk) should host Nick Fuentes ..."
@@ -63,12 +63,12 @@ _Type: People_
 - [00:27:51](/episodes/ep-K1tFD7FfoCU.md#^t-00-27-09)
   > "...fter Alex Clark (Alex Clark). She lied about the Catholic thing. That was my reason for going after Andrew Kolvet (Andrew Kolvet), Mikey McCoy (Mikey McCoy). Anybody that's told a lie—Rob McCoy (Rob McCoy), blood ..."
 
-### [ep-K5GjF53bfN4](/episodes/ep-K5GjF53bfN4.md)
+### [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 
 - [00:10:48](/episodes/ep-K5GjF53bfN4.md#^t-00-10-43)
   > "... answers." You know, I've been speaking and I've been seeing a lot of vitriol that's been thrown at Andrew Kolvet's (Andrew Kolvet) way because he is doing press. He is carrying on Charlie Kirk's (Charlie Kirk's) ..."
 
-### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
+### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 
 - [00:16:05](/episodes/ep-MUA9ebCF4Ow.md#^t-00-15-57)
   > "...angelical who only liked Catholic architecture. That's a lie, told and reinforced by Alex Clark and Andrew Kolvet. Lie number three is that Charlie (Charlie Kirk)'s neck stopped a .30-06 bullet because Charlie (Ch..."
@@ -77,21 +77,21 @@ _Type: People_
 - [00:17:02](/episodes/ep-MUA9ebCF4Ow.md#^t-00-16-41)
   > "...He lied. Number seven: Terrell moved the SD cards because people were stealing hats. Question mark. Andrew Kolvet: "What if you were scared about people stealing? Maybe remove the cameras? Very expensive cameras w..."
 
-### [ep-Qt0VHV-POCg](/episodes/ep-Qt0VHV-POCg.md)
+### [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 
 - [00:27:03](/episodes/ep-Qt0VHV-POCg.md#^t-00-27-03)
   > "...at we would hear from him regarding his actions there. As soon as Charlie got shot, we were told by Andrew Kolvet—who was now missing from today's episode of the Charlie Kirk show—that it was because Charlie was v..."
 - [00:29:31](/episodes/ep-Qt0VHV-POCg.md#^t-00-29-08)
   > "...e—a couple of days after the memorial service—where Alex Clark released that interview with her and Andrew Kolvet, and they struggle-sessioned through that. They were like, "No, no, they were both committed evange..."
 
-### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
+### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:29:46](/episodes/ep-SKGUzGHymcI.md#^t-00-29-09)
   > "...s don't know. Here are the passengers that we know came from Arizona and potentially Santa Barbara. Andrew Kolvet, Andrew Kolvet's wife. We have a priest. We have Stacey Sheridan, who's the chief finance person. W..."
 - [00:50:18](/episodes/ep-SKGUzGHymcI.md#^t-00-49-41)
   > "...ic Worldwide. Wow, thank you. That is a very tremendous donation that you just made to us. Up until Andrew Kolvet told us that we had to believe in Miracle Vertebrae, I was a devoted TPUSA donor and a show member...."
 
-### [ep-UBkFkg4UNY8](/episodes/ep-UBkFkg4UNY8.md)
+### [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 
 - [00:00:48](/episodes/ep-UBkFkg4UNY8.md#^t-00-00-32)
   > "...overnment or to Turning Point USA altogether. So what gives? Also, later on, we're going to discuss Andrew Kolvet, the PR agent, close friend of Charlie (Charlie Kirk), who sat down with Alex Clark to answer quest..."
@@ -102,31 +102,31 @@ _Type: People_
 - [00:42:15](/episodes/ep-UBkFkg4UNY8.md#^t-00-42-15)
   > "...e bottom of things a little bit. Am I maybe being selfish by thinking that if I was close to him—as Andrew Kolvet, every day on the show—I would be, like, more fired up about all the things that are going wrong? A..."
 
-### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
+### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 
 - [00:37:14](/episodes/ep-YFmRH8p5lt0.md#^t-00-36-53)
   > "...m good." Actually, Bibi (Benjamin Netanyahu) offered to fund Turning Point to the next level. Okay. Andrew Kolvet should be able to confirm that. Yes or no. Don't dance around it. I don't like the dancing him and ..."
 
-### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
+### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:07:26](/episodes/ep-ZAuuSq_j2_w.md#^t-00-07-26)
   > "... link, right? Any place, any time—we can join you virtually. In fact, today on their show, they had Andrew Kolvet joining them virtually. So they have the tech capability to do this. We have the tech ability to do..."
 - [00:31:10](/episodes/ep-ZAuuSq_j2_w.md#^t-00-30-34)
   > "...n you're lying and you won't tell us the relevant portions. Who did he think was going to kill him? Andrew Kolvet. Can you tell us, Andrew? Can you tell us, Blake Neff? Can you tell us, Mikey McCoy? Or was he just..."
 
-### [ep-_dRaEO47-co](/episodes/ep-_dRaEO47-co.md)
+### [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 
 - [00:14:33](/episodes/ep-_dRaEO47-co.md#^t-00-14-11)
   > "...h, do you support her statements?” And I just remember just being behind Charlie (Charlie Kirk) and Andrew Kolvet. And he just held the line. He held the line because he agreed with me, and he knew it was going to..."
 
-### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
+### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:33:24](/episodes/ep-a-e7HC6SeK8.md#^t-00-33-24)
   > "...ch. We just can't all be hanging out in Delaware. And there's one more thing that came in regarding Andrew Kolvet. A very close family friend of Andrew Kolvet had messaged me early on. And I—again—was not tracking..."
 - [00:33:35](/episodes/ep-a-e7HC6SeK8.md#^t-00-33-24)
   > "...rly on. And I—again—was not tracking any of this at the time, but they had said that they felt that Andrew Kolvet was acting weird. And I'm sure that's not a big deal. I think we were all acting weird because he w..."
 
-### [ep-aDlhjfW6hz8](/episodes/ep-aDlhjfW6hz8.md)
+### [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 
 - [00:25:54](/episodes/ep-aDlhjfW6hz8.md#^t-00-25-42)
   > "...kman brought receipts. How long was that tweet? It's still going. I think he was there in the room. Andrew Kolvet was there in the room. You're on the board of Turning Point? Yeah. Okay. When's the last time you s..."
@@ -135,21 +135,21 @@ _Type: People_
 - [00:52:15](/episodes/ep-aDlhjfW6hz8.md#^t-00-52-10)
   > "...ment. It's stunning to me. Even when he says Andrew Kolvet was there on the Hamptons—no, he wasn't. Andrew Kolvet was definitely not there in the Hamptons. What are you lying about? Very strange. Is there—like—are..."
 
-### [ep-c5BcKF91iec](/episodes/ep-c5BcKF91iec.md)
+### [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 
 - [00:04:23](/episodes/ep-c5BcKF91iec.md#^t-00-03-48)
   > "...be was going to get back together. We were all going to maybe be on a group chat: me, Tyler Bowyer, Andrew Kolvet, Stacey Sheridan even. If you're wondering who Stacey Sheridan is, by the way, she's the one who's ..."
 - [00:14:02](/episodes/ep-c5BcKF91iec.md#^t-00-14-02)
   > "...open, and they could be honest about everything. Okay, I obviously went out to both Mikey McCoy and Andrew Kolvet for a statement—asked those two questions: "Hey, who were you on the phone with? What's going on he..."
 
-### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
+### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 
 - [00:03:05](/episodes/ep-his-JBjlkh8.md#^t-00-02-58)
   > "...Charlie (Charlie Kirk) on the show, so that's not unusual. But I think we probably anticipated that Andrew Kolvet, who is the TPUSA spokesperson, would have been the person to deliver this message. Maybe, in theor..."
 - [00:10:02](/episodes/ep-his-JBjlkh8.md#^t-00-09-34)
   > "...— because you guys told lies about—verifiable lies about—why that took place. Because don't forget, Andrew Kolvet sat next to you and said it was because people were stealing. If people were stealing, you probably..."
 
-### [ep-ja26iltROkM](/episodes/ep-ja26iltROkM.md)
+### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 
 - [00:08:07](/episodes/ep-ja26iltROkM.md#^t-00-08-07)
   > "...to all of the gore. But what I didn't expect thereafter was for the Turning Point USA spokesperson, Andrew Kolvet, to issue this statement as people were asking questions like, "Hey, how is that possible? How was ..."
@@ -162,12 +162,12 @@ _Type: People_
 - [00:10:52](/episodes/ep-ja26iltROkM.md#^t-00-10-50)
   > "...y? So I think I would like to just respond to what is being said objectively, rather than to attack Andrew Kolvet's character. That aside, the statement objectively feels to me like the manipulation of a Christian..."
 
-### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
+### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:15:22](/episodes/ep-mKXdKV-OBog.md#^t-00-15-00)
   > "...address publicly. Yeah, I told you she's also a major in the military. Oh, who would have thunk it? Andrew Kolvet—obviously, his brother and his cousin are captains in the military. That's a fact. Frank Turk, who'..."
 
-### [ep-ozWJz2spBcI](/episodes/ep-ozWJz2spBcI.md)
+### [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
 
 - [00:09:32](/episodes/ep-ozWJz2spBcI.md#^t-00-09-02)
   > "...y knew everything that I just shared with you; they knew for a fact. So I was a bit astonished when Andrew Kolvet and Alex Clark similarly jumped in, in this inauthentic attempt to dissuade the idea that Charlie (..."
@@ -180,7 +180,7 @@ _Type: People_
 - [00:25:19](/episodes/ep-ozWJz2spBcI.md#^t-00-25-06)
   > "...amera behind Charlie (Charlie Kirk)'s head?" And the answer that I was given sounded more like what Andrew Kolvet said. "You know, I was emotional. I knew that Charlie (Charlie Kirk) was dead. And my instinct," he..."
 
-### [ep-pc3pxRyNFZk](/episodes/ep-pc3pxRyNFZk.md)
+### [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
 
 - [00:02:27](/episodes/ep-pc3pxRyNFZk.md#^t-00-02-11)
   > "...upon whatever facts we have in this decentralized investigation. This is about the injury, okay? So Andrew Kolvet was, I can tell you, telling the truth in part when he wrote that very long tweet in which he tried..."
@@ -189,24 +189,24 @@ _Type: People_
 - [00:10:03](/episodes/ep-pc3pxRyNFZk.md#^t-00-10-01)
   > "...t conspiracy theories: That is not Andrew Kolvet in that video. A lot of people were like, "Is this Andrew Kolvet from Turning Point USA hiding under a hat?" It is not true. I spoke to Andrew on this actual day. H..."
 
-### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
+### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
 
 - [00:02:38](/episodes/ep-sImMM04XdWY.md#^t-00-02-07)
   > "...'t making any sense. Well, I want to tell you guys this. There's another phone call that I had with Andrew Kolvet where I was crying on the phone with him. I mean, I am talking maybe 72 hours max after Charlie (Ch..."
 
-### [ep-sreYYcID-QY](/episodes/ep-sreYYcID-QY.md)
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 
 - [00:39:15](/episodes/ep-sreYYcID-QY.md#^t-00-38-58)
   > "...kman brought receipts. How long was that tweet? It's still going. I think he was there in the room. Andrew Kolvet was there in the room. You're on the board of Turning Point? Yeah. Okay. When's the last time you s..."
 
-### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
+### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:55:24](/episodes/ep-tB5SXXmd9vU.md#^t-00-55-11)
   > "...t let me know when you have that email ready. This was: "How did" from knit unravel wrote, "How did Andrew Kolvet know that it was supposed to be Candace if the killer is Tyler Robinson?" That was actually somethi..."
 - [00:55:34](/episodes/ep-tB5SXXmd9vU.md#^t-00-55-11)
   > "...r is Tyler Robinson?" That was actually something that I had never considered. I told you guys that Andrew Kolvet called me from the hospital and basically said you and Tucker (Tucker Carlson) should shut up becau..."
 
-### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
+### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
 
 - [00:59:59](/episodes/ep-vwG1juDCQZQ.md#^t-00-59-48)
   > "... have seen has just been—I don't know—it's just—it's been one big nothing burger. Tom Paul writes: "Andrew Kolvet on Alex Clark show discussed how Charlie's (Charlie Kirk's) heart was still beating. How did Charli..."
@@ -216,36 +216,36 @@ _Type: People_
 ### Board Member Of
 
 - [Turning Point USA](/entities/org-turning-point-usa.md)
-  - [ep-sreYYcID-QY @ 00:39:15](/episodes/ep-sreYYcID-QY.md#^t-00-38-58): "Andrew Kolvet was there in the room. You're on the board of Turning Point? Yeah."
+  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:39:15](/episodes/ep-sreYYcID-QY.md#^t-00-38-58): "Andrew Kolvet was there in the room. You're on the board of Turning Point? Yeah."
 
 ### Employed By
 
 - [Turning Point USA](/entities/org-turning-point-usa.md)
-  - [ep-UBkFkg4UNY8 @ 00:27:06](/episodes/ep-UBkFkg4UNY8.md#^t-00-26-28): "Andrew Kolvet, who is a PR agent for Turning Point USA."
+  - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:27:06](/episodes/ep-UBkFkg4UNY8.md#^t-00-26-28): "Andrew Kolvet, who is a PR agent for Turning Point USA."
 
 ### Worked With
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md)
-  - [ep-K5GjF53bfN4 @ 00:10:48](/episodes/ep-K5GjF53bfN4.md#^t-00-10-43): "...een seeing a lot of vitriol that's been thrown at Andrew Kolvet's (Andrew Kolvet) way because he is doing press. He is carrying on Charlie Kirk's (Charlie Kirk's) s..."
-  - [ep-_dRaEO47-co @ 00:14:33](/episodes/ep-_dRaEO47-co.md#^t-00-14-11): "...mber just being behind Charlie (Charlie Kirk) and Andrew Kolvet. And he just held the line. He held the line because he agreed with me, and he knew it was going to ..."
-  - [ep-K5GjF53bfN4 @ 00:10:37](/episodes/ep-K5GjF53bfN4.md#^t-00-09-59): "...een seeing a lot of vitriol that's been thrown at Andrew Kolvet's way because he is doing press. He is carrying on Charlie Kirk's show. He was already seated on Cha..."
+  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:10:48](/episodes/ep-K5GjF53bfN4.md#^t-00-10-43): "...een seeing a lot of vitriol that's been thrown at Andrew Kolvet's (Andrew Kolvet) way because he is doing press. He is carrying on Charlie Kirk's (Charlie Kirk's) s..."
+  - [To My Friend, Charlie Kirk. @ 00:14:33](/episodes/ep-_dRaEO47-co.md#^t-00-14-11): "...mber just being behind Charlie (Charlie Kirk) and Andrew Kolvet. And he just held the line. He held the line because he agreed with me, and he knew it was going to ..."
+  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:10:37](/episodes/ep-K5GjF53bfN4.md#^t-00-09-59): "...een seeing a lot of vitriol that's been thrown at Andrew Kolvet's way because he is doing press. He is carrying on Charlie Kirk's show. He was already seated on Cha..."
 
 ### Works At
 
 - [Turning Point USA](/entities/org-turning-point-usa.md)
-  - [ep-5autG89PW6w @ 00:13:00](/episodes/ep-5autG89PW6w.md#^t-00-12-28): "Andrew Kolvet, Turning Point's spokesperson, confirmed that the messages were in fact real."
+  - [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 @ 00:13:00](/episodes/ep-5autG89PW6w.md#^t-00-12-28): "Andrew Kolvet, Turning Point's spokesperson, confirmed that the messages were in fact real."
 - [Turning Point USA](/entities/org-turning-point-usa.md)
-  - [ep-K5GjF53bfN4 @ 00:11:09](/episodes/ep-K5GjF53bfN4.md#^t-00-10-43): "He's the spokesperson for Turning Point USA."
-  - [ep-pc3pxRyNFZk @ 00:10:03](/episodes/ep-pc3pxRyNFZk.md#^t-00-10-01): "Is this Andrew Kolvet from Turning Point USA hiding under a hat?"
-  - [ep-K1tFD7FfoCU @ 00:22:13](/episodes/ep-K1tFD7FfoCU.md#^t-00-21-54): "Andrew Kolvet, the spokesperson for Turning Point USA"
+  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:11:09](/episodes/ep-K5GjF53bfN4.md#^t-00-10-43): "He's the spokesperson for Turning Point USA."
+  - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:10:03](/episodes/ep-pc3pxRyNFZk.md#^t-00-10-01): "Is this Andrew Kolvet from Turning Point USA hiding under a hat?"
+  - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:22:13](/episodes/ep-K1tFD7FfoCU.md#^t-00-21-54): "Andrew Kolvet, the spokesperson for Turning Point USA"
 - [Turning Point USA](/entities/org-turning-point-usa.md)
-  - [ep-ja26iltROkM @ 00:08:07](/episodes/ep-ja26iltROkM.md#^t-00-07-29): "the Turning Point USA spokesperson, Andrew Kolvet"
+  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:08:07](/episodes/ep-ja26iltROkM.md#^t-00-07-29): "the Turning Point USA spokesperson, Andrew Kolvet"
 
 ### Referenced By
 
 - [Tyler Bowyer](/entities/person-tyler-bowyer.md) **hired** this
-  - [ep-c5BcKF91iec @ 00:04:43](/episodes/ep-c5BcKF91iec.md#^t-00-04-27)
+  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:43](/episodes/ep-c5BcKF91iec.md#^t-00-04-27)
 - [Tucker Carlson](/entities/person-tucker-carlson.md) **interviewed** this
-  - [ep-ozWJz2spBcI @ 00:21:31](/episodes/ep-ozWJz2spBcI.md#^t-00-21-14)
+  - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:21:31](/episodes/ep-ozWJz2spBcI.md#^t-00-21-14)
 - [Alex Clark](/entities/person-alex-clark.md) **interviewed** this
-  - [ep-UBkFkg4UNY8 @ 00:00:48](/episodes/ep-UBkFkg4UNY8.md#^t-00-00-32)
+  - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:00:48](/episodes/ep-UBkFkg4UNY8.md#^t-00-00-32)

@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-ozWJz2spBcI](/episodes/ep-ozWJz2spBcI.md)
+### [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
 
 - [00:05:20](/episodes/ep-ozWJz2spBcI.md#^t-00-04-58)
   > "...hey are David hogging us, okay. You could also use another example: somebody that was on the right, Kyle Kashuv. What it essentially means is that when a tragedy takes place and we are all—we are emotional, our ..."

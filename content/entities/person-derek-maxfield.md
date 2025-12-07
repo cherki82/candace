@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-iHav0PPzUz8](/episodes/ep-iHav0PPzUz8.md)
+### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
 
 - [00:04:28](/episodes/ep-iHav0PPzUz8.md#^t-00-04-12)
   > "... created so much pressure that it warranted a response from one of the owners of the plane, who was Derek Maxfield. Candace Owens: He's married to Shalane Maxfield. Candace Owens: The two of them—they're a billiona..."
@@ -17,14 +17,14 @@ _Type: People_
 - [00:10:01](/episodes/ep-iHav0PPzUz8.md#^t-00-09-53)
   > "... standard protocol—the feds seem to be guarding. Very strange. Now I'm not saying this to implicate Derek Maxfield or Shalane Maxfield at all. In fact, that's why I wanted to read their statement in its entirety. B..."
 
-### [ep-ja26iltROkM](/episodes/ep-ja26iltROkM.md)
+### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 
 - [00:17:13](/episodes/ep-ja26iltROkM.md#^t-00-17-09)
   > "... they just lost service. Okay. That disputes what the plane owner themselves—he identified himself, Derek Maxfield—and issued a long statement on Instagram where he said that they got permission to—you know—turn of..."
 - [00:17:36](/episodes/ep-ja26iltROkM.md#^t-00-17-09)
   > "... controller. So it can't be both. It can't be, "No, it never happened; they just lost service," and Derek Maxfield saying, "No, we had communication with the ATC—which is air traffic control—and what we did followe..."
 
-### [ep-pc3pxRyNFZk](/episodes/ep-pc3pxRyNFZk.md)
+### [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
 
 - [00:39:09](/episodes/ep-pc3pxRyNFZk.md#^t-00-38-41)
   > "...t that plane. We're not even getting straight answers about the other plane. That's the plane where Derek Maxfield, his wife, Shalane Maxfield—they sold some beauty company for billions, I believe. And they now jus..."
@@ -38,4 +38,4 @@ _Type: People_
 ### Married To
 
 - [Shalane Maxfield](/entities/person-shalane-maxfield.md)
-  - [ep-iHav0PPzUz8 @ 00:04:47](/episodes/ep-iHav0PPzUz8.md#^t-00-04-12): "Derek Maxfield. He's married to Shalane Maxfield."
+  - [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:04:47](/episodes/ep-iHav0PPzUz8.md#^t-00-04-12): "Derek Maxfield. He's married to Shalane Maxfield."

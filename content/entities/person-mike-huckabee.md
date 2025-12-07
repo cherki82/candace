@@ -8,12 +8,12 @@ _Type: People_
 
 ## Mentions
 
-### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
+### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 
 - [00:19:04](/episodes/ep-LATnak75Si0.md#^t-00-18-27)
   > "... think you would be happier if you just moved to Israel. You could be over there singing songs with Mike Huckabee. Seems like pretty sound advice: Rather than trying to make this country Israel, why don't you just..."
 
-### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
+### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:25:20](/episodes/ep-mKXdKV-OBog.md#^t-00-24-49)
   > "...serve the state of Israel. So let me show you a couple of these headlines. I guess let's start with Mike Huckabee. He is the ambassador to Israel and apparently is completely shameless. Now just to go back—in case..."

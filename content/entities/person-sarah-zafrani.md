@@ -13,7 +13,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
+### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:17:47](/episodes/ep-ZAuuSq_j2_w.md#^t-00-17-47)
   > "...al-Sisi that was aboard the jet on September 10th because he was photographed at a meeting with the Prime Minister of Tunisia, Sarah Zafrani—and it was in Egypt. We can also rule him out as having been the individual that was..."

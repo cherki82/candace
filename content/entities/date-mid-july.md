@@ -8,7 +8,7 @@ _Type: Dates_
 
 ## Mentions
 
-### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
+### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 
 - [00:02:39](/episodes/ep-LATnak75Si0.md#^t-00-02-10)
   > "...om Charlie (Charlie Kirk)—I'm sorry—from UVU for Charlie (Charlie Kirk) to speak on their campus in mid-July, okay? Just a few weeks before he dies. In mid-July, they get a request. "Can Charlie (Charlie Kirk..."
@@ -17,7 +17,7 @@ _Type: Dates_
 - [00:04:37](/episodes/ep-LATnak75Si0.md#^t-00-04-23)
   > "...ling you guys, when we go back and we look at the calendar and we see that that request went out in mid-July, it drives me insane. It just screams at me that this was an inside job, okay? This was always a ci..."
 
-### [ep-Qfwr08Ebczo](/episodes/ep-Qfwr08Ebczo.md)
+### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
 
 - [00:12:57](/episodes/ep-Qfwr08Ebczo.md#^t-00-12-45)
   > "...hat's because they're filming each other. But thankfully the McCoys were on hand in what looks like mid-July or early August into early August. According to my sources, we will nail down these specific dates ..."

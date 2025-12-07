@@ -8,7 +8,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
+### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:16:42](/episodes/ep-ZAuuSq_j2_w.md#^t-00-16-27)
   > "...the president of Egypt aboard. And by "once upon a time," I mean back in 2023. This tweet came from Project Constitution. I'm going to read it in its entirety, okay? "Confirmed. Candace Owens just got vindicated again. T..."

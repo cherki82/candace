@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-Qt0VHV-POCg](/episodes/ep-Qt0VHV-POCg.md)
+### [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 
 - [00:18:45](/episodes/ep-Qt0VHV-POCg.md#^t-00-18-22)
   > "...just kind of worked in the story about Charlie interviewing a fourth grader and he was referring to Breland Holland? And I'm saying Holland, by the way, because that was his name when Charlie interviewed him because..."
@@ -20,4 +20,4 @@ _Type: People_
 ### Referenced By
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) **interviewed** this
-  - [ep-Qt0VHV-POCg @ 00:18:45](/episodes/ep-Qt0VHV-POCg.md#^t-00-18-22)
+  - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:18:45](/episodes/ep-Qt0VHV-POCg.md#^t-00-18-22)

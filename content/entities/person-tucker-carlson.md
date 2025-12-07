@@ -12,7 +12,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-2Riv3I7D0Yk](/episodes/ep-2Riv3I7D0Yk.md)
+### [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
 
 - [00:03:02](/episodes/ep-2Riv3I7D0Yk.md#^t-00-02-54)
   > "...grifterism. I was given access to this letter a few months ago, and I read it at that time. Tucker (Tucker Carlson), Candace (Candace Owens), and other bad faith actors are lying through their teeth about Charlie (..."
@@ -55,7 +55,7 @@ _Type: People_
 - [01:13:06](/episodes/ep-2Riv3I7D0Yk.md#^t-01-12-59)
   > "...sed him when he was like, "You need to make a statement against Candace (Candace Owens) and Tucker (Tucker Carlson)." Somebody else was saying to her, "Candace (Candace Owens) doesn't even hate the left anymore." L..."
 
-### [ep-2WEHTk0Xewg](/episodes/ep-2WEHTk0Xewg.md)
+### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 
 - [00:37:11](/episodes/ep-2WEHTk0Xewg.md#^t-00-36-35)
   > "...et to the bottom of it. Let's take a quick break. I'm going to show you some stuff. I mean, Tucker (Tucker Carlson) completely destroyed the Benjamin Netanyahu (Benjamin Netanyahu) narrative. Megyn Kelly, Dave Smit..."
@@ -80,7 +80,7 @@ _Type: People_
 - [01:04:19](/episodes/ep-2WEHTk0Xewg.md#^t-01-03-45)
   > "...ut." That is your theory that you are presenting there, Mia. And I will say this. It's like Tucker (Tucker Carlson) said— to have so many donors. What I do know is the donors became very rotten at the end. He relie..."
 
-### [ep-581dILVcEE4](/episodes/ep-581dILVcEE4.md)
+### [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
 
 - [00:38:46](/episodes/ep-581dILVcEE4.md#^t-00-38-23)
   > "...ife of Charlie (Charlie Kirk) than to take questions from the audience about—you guessed it—Tucker (Tucker Carlson) and Candace (Candace Owens). Take it away, Israel. (Israel Event Clip - Audience Question) We see ..."
@@ -99,7 +99,7 @@ _Type: People_
 - [00:46:45](/episodes/ep-581dILVcEE4.md#^t-00-46-30)
   > "...ked out. I told you about a woman who yelled and took away a million dollars because of the Tucker (Tucker Carlson) speech. That woman was Joyce Chernick. Joyce Chernick is married to Aubrey Chernick. He's a softwa..."
 
-### [ep-5autG89PW6w](/episodes/ep-5autG89PW6w.md)
+### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 
 - [00:04:33](/episodes/ep-5autG89PW6w.md#^t-00-04-11)
   > "...ople, I would say. I think it was the writer-producer Conrad Flynn that recently went on to Tucker (Tucker Carlson)'s show, and he discussed that phenomenon in the context of the persecution of Christ. He's talking..."
@@ -110,7 +110,7 @@ _Type: People_
 - [00:06:06](/episodes/ep-5autG89PW6w.md#^t-00-06-06)
   > "...ntastic." It's actually really funny because I'm recapping conversations that I've had with Tucker (Tucker Carlson) where I'm like, "I don't know why you trust that person at all. He's obviously a bad guy." And he'..."
 
-### [ep-JQjCAsfoXEE](/episodes/ep-JQjCAsfoXEE.md)
+### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 
 - [00:24:17](/episodes/ep-JQjCAsfoXEE.md#^t-00-24-14)
   > "...you were in the hospital—that you were told that there was a credible threat against me and Tucker (Tucker Carlson). Specifically, you told me that me and Tucker (Tucker Carlson) were on a list and that you were ju..."
@@ -131,7 +131,7 @@ _Type: People_
 - [00:32:22](/episodes/ep-JQjCAsfoXEE.md#^t-00-32-22)
   > "...ur speech, trying to take over social media campaigns—even Ben Shapiro name-checking me and Tucker (Tucker Carlson)—and all other Shapiro fans are on stage calling us out, so... I'm gonna connect that dot there. An..."
 
-### [ep-K1tFD7FfoCU](/episodes/ep-K1tFD7FfoCU.md)
+### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 
 - [00:00:22](/episodes/ep-K1tFD7FfoCU.md#^t-00-00-00)
   > "...iro (Ben Shapiro) apparently woke up this morning and chose violence. He put me in his anti-Tucker (Tucker Carlson) montage monologue. We'll see what he had to say in a little bit. And it just so happens to be exac..."
@@ -214,7 +214,7 @@ _Type: People_
 - [00:49:58](/episodes/ep-K1tFD7FfoCU.md#^t-00-49-22)
   > "...ttle fact toys to add to it. And yeah, things got real interesting for Charlie (Charlie Kirk) after Tucker Carlson (Tucker Carlson) hit the stage, and we're gonna speak about that. So I will see you guys tomorrow."
 
-### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
+### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 
 - [00:09:05](/episodes/ep-LATnak75Si0.md#^t-00-09-05)
   > "...ie Kirk), in case you missed it, we're supposed to think that he would want us to be mad at Tucker (Tucker Carlson) Carlson and that he would want us to stop speaking about his murder and to instead unite and to ge..."
@@ -231,7 +231,7 @@ _Type: People_
 - [00:59:36](/episodes/ep-LATnak75Si0.md#^t-00-59-19)
   > "...don Briggs said on his last day's show to pray for Candace (Candace Owens), Alex Jones, and Tucker (Tucker Carlson) Carlson—bold voices that are exposing darkness. May Jesus Christ of Nazareth protect them all." Th..."
 
-### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
+### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 
 - [00:01:06](/episodes/ep-MUA9ebCF4Ow.md#^t-00-00-40)
   > "...She just told the truth. She produced video evidence of what Charlie (Charlie Kirk) said to Tucker (Tucker Carlson) backstage at the Student Action Summit in July. We're gonna get to that. Also, do you guys remembe..."
@@ -268,7 +268,7 @@ _Type: People_
 - [00:50:32](/episodes/ep-MUA9ebCF4Ow.md#^t-00-50-06)
   > "... "Christ is king. I am so proud of you, Candace (Candace Owens) and Ian. God bless, and let Tucker (Tucker Carlson) know I'm carrying on Camel regulars, non-filtered." What's that? Cigarettes—Camel regulars. Yeah, ..."
 
-### [ep-Qfwr08Ebczo](/episodes/ep-Qfwr08Ebczo.md)
+### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
 
 - [00:03:58](/episodes/ep-Qfwr08Ebczo.md#^t-00-03-25)
   > "... with an adjective. Think about how strange it would be if on this show, every time I cover Tucker (Tucker Carlson), I was like, "The spectacular Tucker (Tucker Carlson), the breathtaking Tucker (Tucker Carlson) is..."
@@ -293,14 +293,14 @@ _Type: People_
 - [00:38:15](/episodes/ep-Qfwr08Ebczo.md#^t-00-37-55)
   > "...t you make go viral with you speaking in the way that you speak—and then people get to hear Tucker (Tucker Carlson). He gets bigger, and you get smaller, okay? He gets bigger. Our ideas get bigger. Your ideas get s..."
 
-### [ep-Qt0VHV-POCg](/episodes/ep-Qt0VHV-POCg.md)
+### [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 
 - [00:09:51](/episodes/ep-Qt0VHV-POCg.md#^t-00-09-15)
   > "...as a shield for their political ideas. You know, it says right here in the Bible, "Unfollow Tucker (Tucker Carlson)." There's no other way that we can understand Paul's letter to the Corinthians other than to unfol..."
 - [00:54:13](/episodes/ep-Qt0VHV-POCg.md#^t-00-54-13)
   > "...d it's a good one to go through—just start to understand how this all works. Julie writes: "Tucker (Tucker Carlson) interviewed the original creator of Wikipedia." "It's totally corrupt now, according to him, and h..."
 
-### [ep-UBkFkg4UNY8](/episodes/ep-UBkFkg4UNY8.md)
+### [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 
 - [00:35:48](/episodes/ep-UBkFkg4UNY8.md#^t-00-35-39)
   > "...omething that I didn't say. Nobody said the number 150 million, or I didn't say the number. Tucker (Tucker Carlson) didn't. I don't know where the 150 million number came from. If I'm being honest, I said 150 milli..."
@@ -309,12 +309,12 @@ _Type: People_
 - [00:43:37](/episodes/ep-UBkFkg4UNY8.md#^t-00-43-33)
   > "...very time people would say that to him, he would dig his heels in. It's like, well, maybe Tucker's (Tucker Carlson) going to give two speeches now at AmFest. And that is the truth. We told you—he said the same thin..."
 
-### [ep-YA1FxrDWNIo](/episodes/ep-YA1FxrDWNIo.md)
+### [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 
 - [00:38:27](/episodes/ep-YA1FxrDWNIo.md#^t-00-38-04)
   > "...le didn't want to take that risk that he was kind of—what— become Candace Owens (Candace Owens) and Tucker Carlson (Tucker Carlson) at Turning Point USA—with all of those presences, so much presence across college ..."
 
-### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
+### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 
 - [00:31:42](/episodes/ep-YFmRH8p5lt0.md#^t-00-31-07)
   > "...n May of 2024. Okay, we'll get back to that. Let me just get through this. Okay, so we have Tucker (Tucker Carlson) then speaks on July 11th of 2024. This is a very big deal, okay? Very big deal. Tucker (Tucker Car..."
@@ -329,7 +329,7 @@ _Type: People_
 - [00:54:22](/episodes/ep-YFmRH8p5lt0.md#^t-00-53-52)
   > "...tholic thing must stay hush-hush. Why? It's all kind of adding up, right? They're attacking Tucker (Tucker Carlson) because he's attacking Christian Zionism. They're angry at Charlie (Charlie Kirk) because it's loo..."
 
-### [ep-YaZfwLQ7vrI](/episodes/ep-YaZfwLQ7vrI.md)
+### [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 
 - [00:24:13](/episodes/ep-YaZfwLQ7vrI.md#^t-00-24-13)
   > "...nd I am not convinced that these people that stand on stages and tell you to stop following Tucker (Tucker Carlson) Carlson are working on behalf of the Lord, okay? I don't think that's the case. I think these peop..."
@@ -354,7 +354,7 @@ _Type: People_
 - [00:49:32](/episodes/ep-YaZfwLQ7vrI.md#^t-00-49-03)
   > "...ooking at the real power apparatus that sits behind. So to that extent, I do understand why Tucker (Tucker Carlson) and I have become threat number one—showing that you can survive outside of their matrix, not taki..."
 
-### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
+### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:16:20](/episodes/ep-a-e7HC6SeK8.md#^t-00-16-11)
   > "...o ask. So let's jump into our timeline, beginning with the inflection point, which was that Tucker (Tucker Carlson) speech. Now, I want to say this. On that July 11th when Tucker (Tucker Carlson) gave that speech, ..."
@@ -369,12 +369,12 @@ _Type: People_
 - [00:17:15](/episodes/ep-a-e7HC6SeK8.md#^t-00-16-56)
   > "...something spiritual that moved him to say that. I will say that. Anyway, so that's July 11. Tucker (Tucker Carlson) speaks at Turning Point USA's conference, and the donors freak out. He calls out Jeffrey Epstein. ..."
 
-### [ep-aDlhjfW6hz8](/episodes/ep-aDlhjfW6hz8.md)
+### [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 
 - [00:34:09](/episodes/ep-aDlhjfW6hz8.md#^t-00-33-27)
   > "...e date here is May 22nd of this year— "It totally is." Okay. Me and Megyn (Megyn Kelly) and Tucker (Tucker Carlson) are not lying to you. Charlie was concerned about the speech that he felt—the restrictions—and ine..."
 
-### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
+### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
 
 - [00:00:36](/episodes/ep-adJ4LNGp84I.md#^t-00-00-36)
   > "...uess they're surrounding Megyn Kelly and demanding that she make a statement against me and Tucker (Tucker Carlson), of course, Candace (Candace Owens) and Tucker (Tucker Carlson). It is so bonkers. I got to show y..."
@@ -401,7 +401,7 @@ _Type: People_
 - [00:39:01](/episodes/ep-adJ4LNGp84I.md#^t-00-38-34)
   > "... will buck. And you will buck by making a strong statement against Candace (Candace Owens), Tucker (Tucker Carlson), when we demand it. Then they will send the next layer, which is a full-blown press attack, the pr..."
 
-### [ep-czVBmqZP6Ss](/episodes/ep-czVBmqZP6Ss.md)
+### [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 
 - [00:13:18](/episodes/ep-czVBmqZP6Ss.md#^t-00-12-57)
   > "...arlie Kirk) was getting a lot of really nasty text messages, and many of them pertaining to Tucker (Tucker Carlson) and Candace (Candace Owens), but Tucker (Tucker Carlson) was really the focus when it came to Amer..."
@@ -422,7 +422,7 @@ _Type: People_
 - [00:23:38](/episodes/ep-czVBmqZP6Ss.md#^t-00-23-20)
   > "... Carlson) to speak about that. I know what Charlie (Charlie Kirk) said to him, and I'm sure Tucker (Tucker Carlson) won't lie about it. What did Charlie (Charlie Kirk) say to you? Dave Smith, what did Charlie (Char..."
 
-### [ep-iHav0PPzUz8](/episodes/ep-iHav0PPzUz8.md)
+### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
 
 - [00:00:47](/episodes/ep-iHav0PPzUz8.md#^t-00-00-41)
   > "...ry that they're trying to sell us. Candace Owens: And now they're up in arms demanding that Tucker (Tucker Carlson) gets canceled from all future Turning Point USA conferences. Candace Owens: And you're never going..."
@@ -479,7 +479,7 @@ _Type: People_
 - [01:01:45](/episodes/ep-iHav0PPzUz8.md#^t-01-01-25)
   > "...nd that's why they demand we shut up. That's why they demand cancellation. They demand that Tucker (Tucker Carlson) is not given a platform because he's telling the truth, and it's resonating with people. And he's ..."
 
-### [ep-ja26iltROkM](/episodes/ep-ja26iltROkM.md)
+### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 
 - [00:02:14](/episodes/ep-ja26iltROkM.md#^t-00-02-10)
   > "...ery single person should watch that speech. Truly, they should watch that speech. They should watch Tucker Carlson's (Tucker Carlson) speech. I don't think even showing you clips of it—I'm gonna show you one—could ..."
@@ -498,12 +498,12 @@ _Type: People_
 - [00:58:12](/episodes/ep-ja26iltROkM.md#^t-00-57-53)
   > "... Operation Mockingpastor. Remember when all the pastors one weekend got up on stage and were like, "Tucker Carlson (Tucker Carlson) and Candace Owens (Candace Owens)?" That is what I was told. That was 150 million ..."
 
-### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
+### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:13:19](/episodes/ep-mKXdKV-OBog.md#^t-00-12-57)
   > "...ly comes in on the exact same day. And also minor correction: I think yesterday I said that Tucker (Tucker Carlson) spoke on July 18th; he actually spoke on July 11th. I just kind of copy-and-pasted that wrong, so ..."
 
-### [ep-ozWJz2spBcI](/episodes/ep-ozWJz2spBcI.md)
+### [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
 
 - [00:16:50](/episodes/ep-ozWJz2spBcI.md#^t-00-16-33)
   > "...group chat, "Just lost another huge Jewish donor—two million a year—because we won't cancel Tucker (Tucker Carlson). I'm thinking of inviting Candace (Candace Owens)." Somebody writes, "Oh." Charlie (Charlie Kirk) ..."
@@ -528,12 +528,12 @@ _Type: People_
 - [01:01:02](/episodes/ep-ozWJz2spBcI.md#^t-01-00-55)
   > "...d of attacking people for asking the most basic of questions. And again, I'm so grateful to Tucker (Tucker Carlson). I think he's also one of our voices. He immediately interjects, and he's like, "Well, let's be fa..."
 
-### [ep-pc3pxRyNFZk](/episodes/ep-pc3pxRyNFZk.md)
+### [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
 
 - [01:00:02](/episodes/ep-pc3pxRyNFZk.md#^t-00-59-27)
   > "...pastor, but it's too many pastors—"get up on a stage and preach about Megyn Kelly (Megyn Kelly) and Tucker Carlson (Tucker Carlson)?" That is leading to broader questions. And I think in the end, all of this is goo..."
 
-### [ep-q7f8r-THr84](/episodes/ep-q7f8r-THr84.md)
+### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
 
 - [00:40:36](/episodes/ep-q7f8r-THr84.md#^t-00-40-20)
   > "...was hosting, over—from his podcast to people that were on stage at America Fest—Dave Smith, Tucker (Tucker Carlson). That is reality, my friends. Again, want those people to know your money means nothing to me. I a..."
@@ -542,7 +542,7 @@ _Type: People_
 - [01:02:04](/episodes/ep-q7f8r-THr84.md#^t-01-01-51)
   > "...er Carlson). She was one of the people creating online pressure. "Charlie (Charlie Kirk), you know, Tucker Carlson (Tucker Carlson) has gone a bridge too far. You know, blah, blah, blah, blah, blah. And Charlie's (..."
 
-### [ep-r1PS67aRmcA](/episodes/ep-r1PS67aRmcA.md)
+### [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
 
 - [00:03:02](/episodes/ep-r1PS67aRmcA.md#^t-00-02-49)
   > "... make her disavow me, make her disavow Candace Owens (the host), I'm gonna make her disavow Tucker (Tucker Carlson) by putting her on the spot and asking her to respond to things that Tucker Carlson never did and C..."
@@ -619,7 +619,7 @@ _Type: People_
 - [00:47:21](/episodes/ep-r1PS67aRmcA.md#^t-00-46-44)
   > "...y truly thought this was it. Like I know it's every week they renew their efforts to cancel Tucker (Tucker Carlson), but I think they thought they had him. Like this was really gonna be it. And of course, it always..."
 
-### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
+### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
 
 - [00:03:31](/episodes/ep-sImMM04XdWY.md#^t-00-03-29)
   > "...harlie (Charlie Kirk) was in the hospital, he told me that there was a list and that me and Tucker (Tucker Carlson) Carlson were on it and that we had to lay low, but he never told me who told him that. I never got..."
@@ -654,7 +654,7 @@ _Type: People_
 - [00:25:17](/episodes/ep-sImMM04XdWY.md#^t-00-25-07)
   > "...920 King Street? Is it plausible that for whatever reason, Charlie (Charlie Kirk), allowing Tucker (Tucker Carlson) to hit the stage and to say that, made Charlie (Charlie Kirk) a bigger problem than us? I have to ..."
 
-### [ep-sreYYcID-QY](/episodes/ep-sreYYcID-QY.md)
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 
 - [00:31:58](/episodes/ep-sreYYcID-QY.md#^t-00-31-58)
   > "...is case, which I care very much about—that Benjamin Netanyahu (Bibi) murdered Charlie Kirk. Tucker (Tucker Carlson) never said that. Megyn Kelly never said that. Dave Smith never said that. Instead what we are doin..."
@@ -665,7 +665,7 @@ _Type: People_
 - [00:45:18](/episodes/ep-sreYYcID-QY.md#^t-00-45-07)
   > "...ted to speak alongside President Donald Trump (Donald Trump) and JD Vance on the stage with Tucker (Tucker Carlson) at a memorial event. What does this have to do with anything? The answer is it has to do with noth..."
 
-### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
+### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:48:15](/episodes/ep-tB5SXXmd9vU.md#^t-00-47-39)
   > "... are her friends at this point? To me, she's very lonely. No, I think she's very close with Tucker (Tucker Carlson). I do think she has a group of friends. How many more can you name, though? Other than Tucker, gen..."
@@ -678,7 +678,7 @@ _Type: People_
 - [00:56:02](/episodes/ep-tB5SXXmd9vU.md#^t-00-55-54)
   > "...was there a list? What was that list that was happening behind the scenes? It's almost like Tucker (Tucker Carlson) and I were being threatened from the United States military. And I should really say the global st..."
 
-### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
+### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
 
 - [00:03:55](/episodes/ep-vwG1juDCQZQ.md#^t-00-03-35)
   > "...y of the firing. Andrew Klavan: Christ is King. Thank you so much. You are here in my book. Tucker (Tucker Carlson), I don't know. I feel like I should thank you because a lot happened because people thought that w..."
@@ -687,7 +687,7 @@ _Type: People_
 - [00:04:08](/episodes/ep-vwG1juDCQZQ.md#^t-00-03-35)
   > "...eeks that I get off when the media is attacking you instead of me. Now it's kind of together. It's "Tucker Carlson in Kamala zones," but thank you. I want to thank Australia. We see you, Australia. Tony Burke, than..."
 
-### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
+### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:28:06](/episodes/ep-yAIb-NuUh_U.md#^t-00-27-59)
   > "... stage for Operation Mocking Pastor, where they were all saying the same thing about me and Tucker (Tucker Carlson)—they were the number one offenders. I am not kidding. You start to ask yourself, what is guiding t..."
@@ -713,27 +713,27 @@ _Type: People_
 ### Criticized
 
 - [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
-  - [ep-2WEHTk0Xewg @ 00:37:11](/episodes/ep-2WEHTk0Xewg.md#^t-00-36-35): "Tucker (Tucker Carlson) completely destroyed the Benjamin Netanyahu (Benjamin Netanyahu) narrative."
+  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:37:11](/episodes/ep-2WEHTk0Xewg.md#^t-00-36-35): "Tucker (Tucker Carlson) completely destroyed the Benjamin Netanyahu (Benjamin Netanyahu) narrative."
 
 ### Interviewed
 
 - [Candace Owens](/entities/person-candace-owens.md)
-  - [ep-sImMM04XdWY @ 00:19:08](/episodes/ep-sImMM04XdWY.md#^t-00-18-58): "Tucker Carlson releases an episode with me."
-  - [ep-K1tFD7FfoCU @ 00:10:02](/episodes/ep-K1tFD7FfoCU.md#^t-00-09-57): "Tucker Carlson a few weeks back had on Candace (Candace Owens)"
-  - [ep-adJ4LNGp84I @ 00:28:01](/episodes/ep-adJ4LNGp84I.md#^t-00-27-51): "I've been on his show twice."
+  - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:19:08](/episodes/ep-sImMM04XdWY.md#^t-00-18-58): "Tucker Carlson releases an episode with me."
+  - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:10:02](/episodes/ep-K1tFD7FfoCU.md#^t-00-09-57): "Tucker Carlson a few weeks back had on Candace (Candace Owens)"
+  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:28:01](/episodes/ep-adJ4LNGp84I.md#^t-00-27-51): "I've been on his show twice."
 - [Nick Fuentes](/entities/person-nick-fuentes.md)
-  - [ep-iHav0PPzUz8 @ 00:29:34](/episodes/ep-iHav0PPzUz8.md#^t-00-29-27): "Tucker Carlson hosted Nick Fuentes on his show."
-  - [ep-K1tFD7FfoCU @ 00:07:28](/episodes/ep-K1tFD7FfoCU.md#^t-00-06-49): "Tucker (Tucker Carlson) interviewed Nick Fuentes."
-  - [ep-r1PS67aRmcA @ 00:05:03](/episodes/ep-r1PS67aRmcA.md#^t-00-04-34): "after I saw what he did with Nick Fuentes"
+  - [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:29:34](/episodes/ep-iHav0PPzUz8.md#^t-00-29-27): "Tucker Carlson hosted Nick Fuentes on his show."
+  - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:07:28](/episodes/ep-K1tFD7FfoCU.md#^t-00-06-49): "Tucker (Tucker Carlson) interviewed Nick Fuentes."
+  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:03](/episodes/ep-r1PS67aRmcA.md#^t-00-04-34): "after I saw what he did with Nick Fuentes"
 - [Conrad Flynn](/entities/person-conrad-flynn.md)
-  - [ep-5autG89PW6w @ 00:04:33](/episodes/ep-5autG89PW6w.md#^t-00-04-11): "the writer-producer Conrad Flynn that recently went on to Tucker (Tucker Carlson)'s show"
+  - [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 @ 00:04:33](/episodes/ep-5autG89PW6w.md#^t-00-04-11): "the writer-producer Conrad Flynn that recently went on to Tucker (Tucker Carlson)'s show"
 - [Andrew Kolvet](/entities/person-andrew-kolvet.md)
-  - [ep-ozWJz2spBcI @ 00:21:31](/episodes/ep-ozWJz2spBcI.md#^t-00-21-14): "Andrew Kolvet when he sat across from Tucker Carlson"
+  - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:21:31](/episodes/ep-ozWJz2spBcI.md#^t-00-21-14): "Andrew Kolvet when he sat across from Tucker Carlson"
 
 ### Referenced By
 
 - [Candace Owens](/entities/person-candace-owens.md) **interviewed** this
-  - [ep-a-e7HC6SeK8 @ 00:16:31](/episodes/ep-a-e7HC6SeK8.md#^t-00-16-11)
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:16:31](/episodes/ep-a-e7HC6SeK8.md#^t-00-16-11)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) **interviewed by** this
-  - [ep-r1PS67aRmcA @ 00:04:12](/episodes/ep-r1PS67aRmcA.md#^t-00-03-33)
-  - [ep-sreYYcID-QY @ 00:31:58](/episodes/ep-sreYYcID-QY.md#^t-00-31-15)
+  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:04:12](/episodes/ep-r1PS67aRmcA.md#^t-00-03-33)
+  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:31:58](/episodes/ep-sreYYcID-QY.md#^t-00-31-15)

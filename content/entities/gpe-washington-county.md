@@ -8,14 +8,14 @@ _Type: Places_
 
 ## Mentions
 
-### [ep-2WEHTk0Xewg](/episodes/ep-2WEHTk0Xewg.md)
+### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 
 - [00:28:04](/episodes/ep-2WEHTk0Xewg.md#^t-00-27-57)
   > "... September 11th, a family member of Tyler Robinson reached out to a family friend who contacted the Washington County Sheriff's Office with information that Robinson had confessed to them or implied that he had commit..."
 - [00:28:50](/episodes/ep-2WEHTk0Xewg.md#^t-00-28-30)
   > "...lack hat with a white logo, and light-colored shoes. When encountered in person by investigators in Washington County on September 12th in the early morning hours, Robinson was observed in consistent clothing with tho..."
 
-### [ep-ZGxnf5cj4Uw](/episodes/ep-ZGxnf5cj4Uw.md)
+### [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
 
 - [00:09:49](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-09-49)
   > "...o Charlie (Charlie Kirk)'s shooter is. I know the family through religious association. And he's in Washington County now, and we're working on trying to get him to come in voluntarily.” During that phone call, some i..."
@@ -26,14 +26,14 @@ _Type: Places_
 - [00:20:11](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-20-04)
   > "...ou have, “Today we celebrated the career of Detective Mike Mitchell. After over 24 years of serving Washington County, he is retiring—starting in the jail back in 1999. Sheriff Brooksby and Detective Mitchell both had..."
 
-### [ep-q7f8r-THr84](/episodes/ep-q7f8r-THr84.md)
+### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
 
 - [00:07:05](/episodes/ep-q7f8r-THr84.md#^t-00-06-59)
   > "...eep signaling that to us. On September 11, 2025, when Tyler James Robinson surrendered to police at Washington County Sheriff's Office... That was when it happened. They found DNA consistent with Robinson on the rifle..."
 - [00:13:25](/episodes/ep-q7f8r-THr84.md#^t-00-13-25)
   > "...as they continued their investigation on September 11th, Tyler James Robinson then walked in to the Washington County Sheriff's Office and he is accompanied by his parents and a family friend to turn himself in, okay?..."
 
-### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
+### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
 
 - [00:40:42](/episodes/ep-sImMM04XdWY.md#^t-00-40-42)
   > "...ark. Take a listen to KUER TV News Investigating. (Clip from KUER TV News) On September 17th, 2025, Washington County Sheriff Nate Brooksby held a press conference. "Our job was not to interview; our job was just to g..."
@@ -49,4 +49,4 @@ _Type: Places_
 ### Referenced By
 
 - [Mike Mitchell](/entities/person-mike-mitchell.md) **employed by** this
-  - [ep-ZGxnf5cj4Uw @ 00:20:11](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-20-04)
+  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:20:11](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-20-04)

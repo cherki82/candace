@@ -13,7 +13,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-2Riv3I7D0Yk](/episodes/ep-2Riv3I7D0Yk.md)
+### [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
 
 - [00:00:49](/episodes/ep-2Riv3I7D0Yk.md#^t-00-00-44)
   > "...as jumped into the mix. Welcome, Dinesh D'Souza. He is joining every commentator who hates Candace (Candace Owens). That's nice that he has entered the fray. He's got some things to say to me. We're gonna discuss ..."
@@ -66,7 +66,7 @@ _Type: People_
 - [01:13:32](/episodes/ep-2Riv3I7D0Yk.md#^t-01-12-59)
   > "... and more coming together on the stuff that we can agree on. Miracle Media lastly writes: "Candace (Candace Owens), as a Christian, you have the authority to fight any strife that comes your way. Recite and memori..."
 
-### [ep-2WEHTk0Xewg](/episodes/ep-2WEHTk0Xewg.md)
+### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 
 - [00:02:05](/episodes/ep-2WEHTk0Xewg.md#^t-00-01-28)
   > ".... You shouldn't believe that. You shouldn't believe me when I say that. So welcome back to Candace (Candace Owens). I love vehicles. Love fast vehicles. I'm a big vehicle person, said nobody ever. The text message..."
@@ -95,7 +95,7 @@ _Type: People_
 - [01:07:18](/episodes/ep-2WEHTk0Xewg.md#^t-01-06-45)
   > "...ised him from the dead, you will be saved." Amen. Alan Paulson writes: "Thank God for you, Candace (Candace Owens). I really am grateful for your shining a light on this federal corruption. I pray for justice for ..."
 
-### [ep-581dILVcEE4](/episodes/ep-581dILVcEE4.md)
+### [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
 
 - [00:02:05](/episodes/ep-581dILVcEE4.md#^t-00-01-26)
   > "... that you think they would be. You would think that they would be, "Oh my gosh, thank you, Candace (Candace Owens). We love Charlie (Charlie Kirk) so much." "We're very concerned to learn that these Egyptian milit..."
@@ -114,7 +114,7 @@ _Type: People_
 - [00:53:13](/episodes/ep-581dILVcEE4.md#^t-00-52-52)
   > "...been doing this entire year, the last two years— authentically. Magnetic writes, "Wild how Candace (Candace Owens) stays 10 steps ahead while everyone else is still reacting to yesterday's news." And I can't win w..."
 
-### [ep-5autG89PW6w](/episodes/ep-5autG89PW6w.md)
+### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 
 - [00:09:37](/episodes/ep-5autG89PW6w.md#^t-00-09-04)
   > "... me. When somebody called her out, Morgan Ariel said, "Laura Loomer hasn't made a single post about Candace Owens reporting on Charlie (Charlie Kirk)'s group messages." We all know she's the first to run her mouth..."
@@ -129,7 +129,7 @@ _Type: People_
 - [00:45:29](/episodes/ep-5autG89PW6w.md#^t-00-45-01)
   > "...int USA on transparency, free speech, and a relentless pursuit of truth. We are witness to that. If Candace Owens had been assassinated, Charlie (Charlie Kirk) would have torn apart every lie and devoted every wor..."
 
-### [ep-7RLtGgkTh9o](/episodes/ep-7RLtGgkTh9o.md)
+### [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 
 - [00:04:07](/episodes/ep-7RLtGgkTh9o.md#^t-00-03-30)
   > "...eve it. Bibi (Benjamin Netanyahu) can blow up thousands and tens of thousands of kids, but Candace (Candace Owens) investigating the Charlie (Charlie Kirk) Kirk assassination is crazy. It's unbiblical. It only fur..."
@@ -154,7 +154,7 @@ _Type: People_
 - [00:57:59](/episodes/ep-7RLtGgkTh9o.md#^t-00-57-22)
   > "...of the future of America—down with the two-party system. I agree fully. Drew Cass writes, "Candace (Candace Owens), I feel like the Zionists are trying to distract you by making you debunk their lies." "We, as the..."
 
-### [ep-Cq7nj9rxPdo](/episodes/ep-Cq7nj9rxPdo.md)
+### [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
 
 - [00:02:10](/episodes/ep-Cq7nj9rxPdo.md#^t-00-02-10)
   > "...e people took issue theologically when I said that the day that Kanye West tweeted, "I love the way Candace Owens thinks," Charlie and I freaked out because we were convinced that we had somehow manifested that. I..."
@@ -171,7 +171,7 @@ _Type: People_
 - [00:54:41](/episodes/ep-Cq7nj9rxPdo.md#^t-00-54-18)
   > "...ontent. You got caught stealing my content and trying to make money off of it. And then he tweets, "Candace Owens hit my account." This is Nathan Livingstone. "I tried to steal, and she didn't let me. Why is she t..."
 
-### [ep-JQjCAsfoXEE](/episodes/ep-JQjCAsfoXEE.md)
+### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 
 - [00:01:18](/episodes/ep-JQjCAsfoXEE.md#^t-00-00-41)
   > "...ets would assume that she meant Erika Kirk. Either Erika Kirk is evil and was in on it, or Candace (Candace Owens) is an evil c—. I think that what Candace (Candace Owens) is doing right now is evil. It is evil, w..."
@@ -196,7 +196,7 @@ _Type: People_
 - [00:55:29](/episodes/ep-JQjCAsfoXEE.md#^t-00-55-13)
   > "...st been this transparent with Americans, the youth of the nation. This is the way forward. Candace (Candace Owens) journalism is the new standard. We are pioneering something, and we definitely are. It's never bee..."
 
-### [ep-K1tFD7FfoCU](/episodes/ep-K1tFD7FfoCU.md)
+### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 
 - [00:10:02](/episodes/ep-K1tFD7FfoCU.md#^t-00-09-57)
   > "...ward. Ben Shapiro (clip): You see, Tucker Carlson (Tucker Carlson) a few weeks back had on Candace (Candace Owens) to treat her to his usual ideological laundering services. Ben Shapiro (clip): That's after years ..."
@@ -297,7 +297,7 @@ _Type: People_
 - [00:48:01](/episodes/ep-K1tFD7FfoCU.md#^t-00-48-01)
   > "... "Charlie (Charlie Kirk) stood for that." "So anyone who is divisive over this right is—as Candace (Candace Owens) says it—fake and gay." Yeah, Charlie (Charlie Kirk) believed in free speech. He didn't even blink ..."
 
-### [ep-K5GjF53bfN4](/episodes/ep-K5GjF53bfN4.md)
+### [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 
 - [00:00:47](/episodes/ep-K5GjF53bfN4.md#^t-00-00-45)
   > "...a worldwide investigation. So I wanna assist wherever it is that I can. So welcome back to Candace (Candace Owens). There's a lot of leaking going on right now, and I've been very clear that everything in my soul ..."
@@ -328,7 +328,7 @@ _Type: People_
 - [00:44:00](/episodes/ep-K5GjF53bfN4.md#^t-00-43-37)
   > "...a Kirk) actually recently started following me. It was another thing that they were like, "Candace (Candace Owens) doesn't even follow Charlie (Charlie Kirk)." Yeah, because I unfollowed everyone. When I announced..."
 
-### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
+### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 
 - [00:20:53](/episodes/ep-LATnak75Si0.md#^t-00-20-53)
   > "...ow," or "Hey, I'd love for you to meet this person," they're already calling her the white Candace (Candace Owens). If you're Erin Wexler—here's an actual tweet. Okay: "White Candace—what is a Nazi then?" Like, wh..."
@@ -349,7 +349,7 @@ _Type: People_
 - [00:59:36](/episodes/ep-LATnak75Si0.md#^t-00-59-19)
   > "...oing to let this go. Raven writes: "Brandon Briggs said on his last day's show to pray for Candace (Candace Owens), Alex Jones, and Tucker (Tucker Carlson) Carlson—bold voices that are exposing darkness. May Jesus..."
 
-### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
+### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 
 - [00:00:17](/episodes/ep-MUA9ebCF4Ow.md#^t-00-00-00)
   > "...e world that he was actually besties with Ben Shapiro and Josh Hammer. He didn't even know Candace (Candace Owens). His last words before he died were, "Honor the Sabbath and buy Josh Hammer's book." Yeah. And als..."
@@ -380,7 +380,7 @@ _Type: People_
 - [00:52:04](/episodes/ep-MUA9ebCF4Ow.md#^t-00-51-26)
   > "...s of everything—always. Don't question it. Trust the science. Ashley Blair writes: "Hello, Candace (Candace Owens). I'm Bailey, and I've been a fan of your show since you were on the Daily Wire. Foreign Muslim imm..."
 
-### [ep-QZWSsq8ZWzw](/episodes/ep-QZWSsq8ZWzw.md)
+### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 
 - [00:01:00](/episodes/ep-QZWSsq8ZWzw.md#^t-00-00-45)
   > "... going to be just the beginning of our coverage regarding what we know. So welcome back to Candace (Candace Owens). Okay, so let's start with the breaking news. I don't even know if it's considered breaking news w..."
@@ -391,7 +391,7 @@ _Type: People_
 - [00:41:16](/episodes/ep-QZWSsq8ZWzw.md#^t-00-41-10)
   > "... And also our Spanish YouTube is live. You guys have been asking for that. Spanish YouTube is live. Candace Owens en Español. That's it: @CandaceOwensenEspanol. So happy hunting there. Okay, you guys. We also have..."
 
-### [ep-Qfwr08Ebczo](/episodes/ep-Qfwr08Ebczo.md)
+### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
 
 - [00:00:46](/episodes/ep-Qfwr08Ebczo.md#^t-00-00-45)
   > "...dd to our timeline. You know, I love me a timeline. So let's jump back in. Welcome back to Candace (Candace Owens). Do you know that moment when your subconscious kind of meets your conscious? Like you just sudden..."
@@ -412,14 +412,14 @@ _Type: People_
 - [00:48:12](/episodes/ep-Qfwr08Ebczo.md#^t-00-48-05)
   > "...uld be clear: a political ideology dressed up as a religion and a faith." Miranda writes: "Candace (Candace Owens), I'm 23 and newly married. We just found out that I'm pregnant." Congratulations. "I'm nervous, bu..."
 
-### [ep-Qt0VHV-POCg](/episodes/ep-Qt0VHV-POCg.md)
+### [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 
 - [00:01:07](/episodes/ep-Qt0VHV-POCg.md#^t-00-00-46)
   > "... of the Trump family that could have upset me more with his commentary than Don Jr. Welcome back to Candace Owens. Let's start with one of my own back-of-the-head conspiracies. It's kind of a long-running thought ..."
 - [00:41:16](/episodes/ep-Qt0VHV-POCg.md#^t-00-41-16)
   > "..."a toxic dump." For the people of Israel, Gazans are vermin. They're garbage. They're human refuse. CANDACE OWENS: You guys were the ones that insisted—insisted—that we all have a perspective on October 7th. So we..."
 
-### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
+### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:00:47](/episodes/ep-SKGUzGHymcI.md#^t-00-00-44)
   > "...)'s assassination, doing in Delaware? Actually, we should figure that out. Welcome back to Candace (Candace Owens). There are so many elements of this story that as time goes on are clicking into place. Things tha..."
@@ -428,7 +428,7 @@ _Type: People_
 - [00:55:57](/episodes/ep-SKGUzGHymcI.md#^t-00-55-30)
   > "...ing with you in truth. And Janellen writes from a Cuban who opened up her eyes. Thank you. Gracias, Candace Owens. Love that. Well, you guys, we will see you tomorrow. Don't forget that we have book club at 6 p.m...."
 
-### [ep-UBkFkg4UNY8](/episodes/ep-UBkFkg4UNY8.md)
+### [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 
 - [00:42:50](/episodes/ep-UBkFkg4UNY8.md#^t-00-42-50)
   > "...ot asked if, you know, from somebody in the audience, if he was going to, you know, debate Candace (Candace Owens) or, you know, disavow Tucker (Tucker Carlson), and Tucker—and Charlie (Charlie Kirk)'s answer I th..."
@@ -455,7 +455,7 @@ _Type: People_
 - [01:01:04](/episodes/ep-UBkFkg4UNY8.md#^t-01-00-56)
   > "...e some of those funny personal stories like your daughter forgetting her makeup. Love you, Candace (Candace Owens)." Yeah, she is—that one's got quite the imagination. My daughter—she—my favorite thing that kids d..."
 
-### [ep-YA1FxrDWNIo](/episodes/ep-YA1FxrDWNIo.md)
+### [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 
 - [00:36:33](/episodes/ep-YA1FxrDWNIo.md#^t-00-36-10)
   > "...h donors. Can you guys answer? Did he express that? Did he also express that he wanted to bring me, Candace Owens, back because he was standing up for himself? And then did he—just 48 hours later—conveniently catc..."
@@ -470,7 +470,7 @@ _Type: People_
 - [00:46:26](/episodes/ep-YA1FxrDWNIo.md#^t-00-46-26)
   > "...d I appreciate all of your support. Marzi, thank you for your support. Marzi writes, "Hey, Candace (Candace Owens), in my super chat yesterday, I got keyholing and internal bullet bouncing confused." Oh, okay. I r..."
 
-### [ep-YaZfwLQ7vrI](/episodes/ep-YaZfwLQ7vrI.md)
+### [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 
 - [00:00:41](/episodes/ep-YaZfwLQ7vrI.md#^t-00-00-41)
   > "...'t keep up with the lies about me, and so then he started the robot on top of a trend that Candace (Candace Owens) Owens has accused Marcus Hale of murdering Charlie (Charlie Kirk) Kirk this past October. I don't ..."
@@ -499,7 +499,7 @@ _Type: People_
 - [00:58:20](/episodes/ep-YaZfwLQ7vrI.md#^t-00-57-38)
   > "...nd I can't read that—something, something—and then he signs it himself. He signs it "xoxo, Candace (Candace Owens)." I love this idea of men fake-signing my book to try to get their wives to do stuff. So I had to ..."
 
-### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
+### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:02:46](/episodes/ep-ZAuuSq_j2_w.md#^t-00-02-46)
   > "...on, and don't laugh. Does the DoW have any evidence at all of a French military plot to assassinate Candace Owens? That is an interesting question. Not that I'm aware of, but you know, interesting question. I can ..."
@@ -514,7 +514,7 @@ _Type: People_
 - [00:34:36](/episodes/ep-ZAuuSq_j2_w.md#^t-00-34-25)
   > "...ce and said, "Are we still talking about the Epstein files?" No, that's not his fault. The fault is Candace Owens for wanting to figure out who murdered her friend. Don't you guys get it? Like, we're just an algor..."
 
-### [ep-ZGxnf5cj4Uw](/episodes/ep-ZGxnf5cj4Uw.md)
+### [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
 
 - [00:25:39](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-25-02)
   > "...ind of—he kind of became my boots on the ground. He's like, “Hey, I go to UVU. I'm a major Candace (Candace Owens) fan. I want to help in any way that I can.” Okay, so that's how that happened. That was really— An..."
@@ -525,7 +525,7 @@ _Type: People_
 - [00:51:39](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-51-14)
   > "...n's office; her sister got her the hit—on Good Morning America. Kristen Theorette writes: “Candace (Candace Owens), I am so sorry for the loss of your dear friend. I agree that it's weird that the people closest t..."
 
-### [ep-_dRaEO47-co](/episodes/ep-_dRaEO47-co.md)
+### [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 
 - [00:07:01](/episodes/ep-_dRaEO47-co.md#^t-00-06-24)
   > "...did the right thing. He said, “Okay, if they don't want to do this event with this newbie, Candace (Candace Owens), then we're not going to do the event. And Candace (Candace Owens) and I will do it alone.” And we..."
@@ -546,7 +546,7 @@ _Type: People_
 - [00:22:39](/episodes/ep-_dRaEO47-co.md#^t-00-22-18)
   > "...allow the memory of Charlie (Charlie Kirk) to be forgotten, obviously, because there is no Candace (Candace Owens) without Charlie (Charlie Kirk). You know, we came up in politics together. And so I don't know wha..."
 
-### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
+### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:02:09](/episodes/ep-a-e7HC6SeK8.md#^t-00-02-09)
   > "...elieve that the purpose of Macron's lawsuit was that it was supposed to go nowhere because Candace (Candace Owens) was supposed to have been assassinated before the case got to court." Then they could forever clai..."
@@ -563,7 +563,7 @@ _Type: People_
 - [00:58:20](/episodes/ep-a-e7HC6SeK8.md#^t-00-57-57)
   > "...ere's that. And Amir writes, "I voted for my taxpayer funds to go from the CIA towards the Candace (Candace Owens) Intelligence Agency for all of her investigative work because at this point she is one of the rare..."
 
-### [ep-aDlhjfW6hz8](/episodes/ep-aDlhjfW6hz8.md)
+### [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 
 - [00:24:35](/episodes/ep-aDlhjfW6hz8.md#^t-00-24-35)
   > "... I can't even—like—this. Look at this journalist, Victoria Churchill, who reached out. She writes, "Candace Owens rages after being snubbed from the Charlie Kirk Memorial speaking roster." When did this happen? Li..."
@@ -576,7 +576,7 @@ _Type: People_
 - [00:30:43](/episodes/ep-aDlhjfW6hz8.md#^t-00-30-43)
   > "...ust way too involved, concerned about Turning Point USA, the future of Turning Point USA, attacking Candace Owens. And I think something sinister is going on here. How can you not see that? I also want to say this..."
 
-### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
+### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
 
 - [00:00:36](/episodes/ep-adJ4LNGp84I.md#^t-00-00-36)
   > "...and demanding that she make a statement against me and Tucker (Tucker Carlson), of course, Candace (Candace Owens) and Tucker (Tucker Carlson). It is so bonkers. I got to show you what they are saying to her. Befo..."
@@ -609,7 +609,7 @@ _Type: People_
 - [00:48:33](/episodes/ep-adJ4LNGp84I.md#^t-00-48-10)
   > "... in the media. Now they planted a fake letter in the same New York Post and their minions. Candace (Candace Owens) must be up to something. Yeah, I know who had access to Charlie's (Charlie Kirk) laptop. And I hav..."
 
-### [ep-c5BcKF91iec](/episodes/ep-c5BcKF91iec.md)
+### [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 
 - [00:21:44](/episodes/ep-c5BcKF91iec.md#^t-00-21-44)
   > "...k in Arizona. And he told me that the reason that they were doing it was because—you know, Candace (Candace Owens)—he said, "Charlie—he was so ambitious, and it wasn't fast enough that it was all being live-stream..."
@@ -618,7 +618,7 @@ _Type: People_
 - [00:50:12](/episodes/ep-c5BcKF91iec.md#^t-00-49-29)
   > "...eview. She said, "I honestly feel sorry for you." This is a review of my character over the years. "Candace Owens is a fraud"—from Lance Bass. Ireland Baldwin wrote, "The most disgusting, hateful, cancerous human ..."
 
-### [ep-czVBmqZP6Ss](/episodes/ep-czVBmqZP6Ss.md)
+### [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 
 - [00:13:18](/episodes/ep-czVBmqZP6Ss.md#^t-00-12-57)
   > "... of really nasty text messages, and many of them pertaining to Tucker (Tucker Carlson) and Candace (Candace Owens), but Tucker (Tucker Carlson) was really the focus when it came to AmericaFest. How could Charlie (..."
@@ -643,7 +643,7 @@ _Type: People_
 - [01:08:20](/episodes/ep-czVBmqZP6Ss.md#^t-01-07-46)
   > "...wn is up. Question everything. We certainly will be questioning everything. Ciara writes, “Candace (Candace Owens), after I posted my prayers to Charlie (Charlie Kirk)’s family, I was blocked and removed by people..."
 
-### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
+### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 
 - [00:01:00](/episodes/ep-his-JBjlkh8.md#^t-00-00-44)
   > "...I have for you is The Game, whose rapper is releasing a song that is entitled "The Assassination of Candace Owens." And I have more questions. I've got questions. Am I allowed to have questions? Welcome back to Ca..."
@@ -664,7 +664,7 @@ _Type: People_
 - [00:52:35](/episodes/ep-his-JBjlkh8.md#^t-00-52-23)
   > "... so all I did was say it to her. You know what I'm saying? So again, the song is not about her, but Candace Owens, man—she real smart. Really intelligent woman. But if she comes for me, I mean, you know, it is wha..."
 
-### [ep-iHav0PPzUz8](/episodes/ep-iHav0PPzUz8.md)
+### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
 
 - [00:00:00](/episodes/ep-iHav0PPzUz8.md#^t-00-00-00)
   > "Candace Owens: All right, you guys. Happy Thursday, and some breaking news for you, because I knew it. Candace Ow..."
@@ -843,7 +843,7 @@ _Type: People_
 - [01:00:26](/episodes/ep-iHav0PPzUz8.md#^t-00-59-56)
   > "...ld be probably at the bottom of society if they weren't evil. Jonathan Werner writes: "Hey Candace (Candace Owens), I love you, and I am inspired by you to spread the truth no matter what the consequences. Thank y..."
 
-### [ep-ja26iltROkM](/episodes/ep-ja26iltROkM.md)
+### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 
 - [00:27:01](/episodes/ep-ja26iltROkM.md#^t-00-26-58)
   > "... of her grift to monetize the murder of her quote-unquote best friend, Charlie Kirk (Charlie Kirk), Candace Owens (Candace Owens) is selling a CIA line of merchandise that is called the Candace Intelligence Agency..."
@@ -876,7 +876,7 @@ _Type: People_
 - [00:58:12](/episodes/ep-ja26iltROkM.md#^t-00-57-53)
   > "...hen all the pastors one weekend got up on stage and were like, "Tucker Carlson (Tucker Carlson) and Candace Owens (Candace Owens)?" That is what I was told. That was 150 million dollars went into that. But I defin..."
 
-### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
+### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:00:49](/episodes/ep-mKXdKV-OBog.md#^t-00-00-43)
   > "...ser, and Charlie (Charlie Kirk) would indeed want us to keep going max. So welcome back to Candace (Candace Owens). Okay, so that interview that I did with Charlie (Charlie Kirk) back when my show was on PragerU's..."
@@ -893,7 +893,7 @@ _Type: People_
 - [00:38:00](/episodes/ep-mKXdKV-OBog.md#^t-00-37-26)
   > "...e holidays. Top comments from yesterday. Number one: this person writes, "Brigitte thought Candace (Candace Owens) forgot all about him." Yeah, I mean, look. I did not want to see the French angle. We got tons of ..."
 
-### [ep-ozWJz2spBcI](/episodes/ep-ozWJz2spBcI.md)
+### [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
 
 - [00:00:46](/episodes/ep-ozWJz2spBcI.md#^t-00-00-42)
   > "... I think it's therefore fair for us to turn our attention back to them. So welcome back to Candace (Candace Owens). So let me put it to you this way. I'll give you a different scenario. If at this very moment, McD..."
@@ -930,7 +930,7 @@ _Type: People_
 - [01:00:50](/episodes/ep-ozWJz2spBcI.md#^t-01-00-09)
   > "...o drop something and go with the flow. Don't drop this. Something is not right. Thank you, Candace (Candace Owens), for being our voice." I'm grateful. I'm actually so grateful I can be your voice. And I'm gratefu..."
 
-### [ep-pc3pxRyNFZk](/episodes/ep-pc3pxRyNFZk.md)
+### [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
 
 - [00:58:00](/episodes/ep-pc3pxRyNFZk.md#^t-00-57-36)
   > "...you a lot of information—more to come. First and foremost, we have Petra Lab. She writes, "Candace (Candace Owens) is the real Liam Neeson in the movie Taken." "Has particular skills like spelling out lies, knows ..."
@@ -947,7 +947,7 @@ _Type: People_
 - [01:02:57](/episodes/ep-pc3pxRyNFZk.md#^t-01-02-24)
   > "...rs have a way of avoiding bedtime. And it's expert. It is expert level. Born Free writes, "Candace (Candace Owens), I have been a fan since 2018." "Finally got my wife on board last year." "She's now in your book ..."
 
-### [ep-q7f8r-THr84](/episodes/ep-q7f8r-THr84.md)
+### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
 
 - [00:46:24](/episodes/ep-q7f8r-THr84.md#^t-00-46-24)
   > "... bit. It's not "supposed," and saying it's supposed doesn't make it so. But he then says, "Candace (Candace Owens) also intimated that I quote-unquote blackmailed Charlie." No full sentence there because I never s..."
@@ -960,7 +960,7 @@ _Type: People_
 - [01:16:17](/episodes/ep-q7f8r-THr84.md#^t-01-15-59)
   > "... tomorrow, and forever." Thank you so much, Lucy. Lucy Marion and Bayan writes, "Love you, Candace (Candace Owens), from Saudi Arabia. Thank you. You are my spirit animal. God bless you and keep you safe and your ..."
 
-### [ep-r1PS67aRmcA](/episodes/ep-r1PS67aRmcA.md)
+### [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
 
 - [00:03:02](/episodes/ep-r1PS67aRmcA.md#^t-00-02-49)
   > "...s like, I'm gonna peer pressure Megyn Kelly myself. I'm gonna make her disavow me, make her disavow Candace Owens (the host), I'm gonna make her disavow Tucker (Tucker Carlson) by putting her on the spot and askin..."
@@ -1005,7 +1005,7 @@ _Type: People_
 - [00:52:17](/episodes/ep-r1PS67aRmcA.md#^t-00-51-48)
   > "... in stopping Charlie (Charlie Kirk). Now the people are Charlie (Charlie Kirk). Bless you, Candace (Candace Owens, the host), for continuing the fight. Who is they? Who is they, Amber? When you say they, did you k..."
 
-### [ep-sreYYcID-QY](/episodes/ep-sreYYcID-QY.md)
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 
 - [00:01:03](/episodes/ep-sreYYcID-QY.md#^t-00-00-33)
   > "...ng is much darker than I think any of us could have possibly imagined. So, welcome back to Candace (Candace Owens). We are pulling all of this together, and I'm going, "I don't even know where to begin." And I gue..."
@@ -1050,7 +1050,7 @@ _Type: People_
 - [00:59:20](/episodes/ep-sreYYcID-QY.md#^t-00-58-37)
   > "...s and hats and gear on our website and signed up. Just to be clear, the CIA stands for the Candace (Candace Owens) Intelligence Agency—which you see on the back of that, obviously—because we consider ourselves to ..."
 
-### [ep-t1YtLS1n8Vs](/episodes/ep-t1YtLS1n8Vs.md)
+### [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
 
 - [00:00:58](/episodes/ep-t1YtLS1n8Vs.md#^t-00-00-42)
   > "...at she does for a living is even more interesting. Our witness tree grows. Welcome back to Candace (Candace Owens). Okay, I need you guys locked in because things are becoming increasingly interesting, okay? Yeste..."
@@ -1077,7 +1077,7 @@ _Type: People_
 - [00:52:43](/episodes/ep-t1YtLS1n8Vs.md#^t-00-52-17)
   > "...essed. KL Blarson writes, “You are one of the few real journalists that has any integrity, Candace (Candace Owens), and you are one of Charlie (Charlie Kirk)'s few true friends. You have bigger balls than Mrs. Mac..."
 
-### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
+### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:00:40](/episodes/ep-tB5SXXmd9vU.md#^t-00-00-01)
   > "...ntidote to Satan is always Christ. Truth will reign supreme in the end. So welcome back to Candace (Candace Owens). Get comfortable, you guys, because it is going to be a long week. I have so many explosive revela..."
@@ -1118,7 +1118,7 @@ _Type: People_
 - [00:58:44](/episodes/ep-tB5SXXmd9vU.md#^t-00-58-43)
   > "...nevieve writes, "Candace (Candace Owens), you are my personal hero. Go, Max." 6-7 writes, "Candace (Candace Owens) is based." Blessed Butterfly Girl writes, "Jeremiah 17:8. Don't be afraid to speak. And also 2 Cor..."
 
-### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
+### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
 
 - [00:01:33](/episodes/ep-vwG1juDCQZQ.md#^t-00-01-30)
   > "...'s been trending on Twitter. It's been so exciting. Look at this. I will never forget this moment. "Candace Owens' podcast hits number one worldwide, best part, without promotion," which means we have not spent—si..."
@@ -1129,7 +1129,7 @@ _Type: People_
 - [00:55:29](/episodes/ep-vwG1juDCQZQ.md#^t-00-55-08)
   > "...t knowledge, but I assume there are non-disparagement agreements in place between Turning Point and Candace Owens because of TPUSA's business arrangement with Blexit." Weird that she knows that we have a business ..."
 
-### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
+### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:01:02](/episodes/ep-yAIb-NuUh_U.md#^t-00-00-47)
   > "... Charlie (Charlie Kirk)'s real allies are and who his real allies were. So welcome back to Candace (Candace Owens). Who were Charlie (Charlie Kirk)'s real friends? That's what I wanna know. I just wanna know who w..."
@@ -1187,135 +1187,135 @@ _Type: People_
 ### Affiliated With
 
 - [PragerU](/entities/org-prageru.md)
-  - [ep-mKXdKV-OBog @ 00:01:06](/episodes/ep-mKXdKV-OBog.md#^t-00-00-43): "back when my show was on PragerU's network"
+  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:01:06](/episodes/ep-mKXdKV-OBog.md#^t-00-00-43): "back when my show was on PragerU's network"
 - [Club Candace](/entities/org-club-candace.md)
-  - [ep-his-JBjlkh8 @ 00:02:57](/episodes/ep-his-JBjlkh8.md#^t-00-02-14): "[00:56:54] And you guys can now also gift someone a membership to Club Candace or the book club on our website."
-  - [ep-a-e7HC6SeK8 @ 00:54:34](/episodes/ep-a-e7HC6SeK8.md#^t-00-54-16): "[00:54:34] You can also now gift someone with a membership to Club Candace to join our book club."
+  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:57](/episodes/ep-his-JBjlkh8.md#^t-00-02-14): "[00:56:54] And you guys can now also gift someone a membership to Club Candace or the book club on our website."
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:54:34](/episodes/ep-a-e7HC6SeK8.md#^t-00-54-16): "[00:54:34] You can also now gift someone with a membership to Club Candace to join our book club."
 - [Turning Point USA](/entities/org-turning-point-usa.md)
-  - [ep-his-JBjlkh8 @ 00:07:26](/episodes/ep-his-JBjlkh8.md#^t-00-07-24): "[01:01:23] Look, I came from Turning Point USA, so you guys know that me doing this, there's an element of heartache."
+  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:07:26](/episodes/ep-his-JBjlkh8.md#^t-00-07-24): "[01:01:23] Look, I came from Turning Point USA, so you guys know that me doing this, there's an element of heartache."
 - [MakeHimASandwich.com](/entities/work-make-him-a-sandwich.md)
-  - [ep-a-e7HC6SeK8 @ 00:51:44](/episodes/ep-a-e7HC6SeK8.md#^t-00-51-29): "[00:51:44] My book, Make Him a Sandwich, is not just available on the Make Him a Sandwich website, which is MakeHimASandwich.com, but now it is available on Amazon."
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:51:44](/episodes/ep-a-e7HC6SeK8.md#^t-00-51-29): "[00:51:44] My book, Make Him a Sandwich, is not just available on the Make Him a Sandwich website, which is MakeHimASandwich.com, but now it is available on Amazon."
 - [Preborn](/entities/org-preborn.md)
-  - [ep-tB5SXXmd9vU @ 00:41:47](/episodes/ep-tB5SXXmd9vU.md#^t-00-41-23): "[00:41:47] All right, you guys, when they double down on abortion, we have to double down on supporting life. Through our partnership with Preborn, we can help save babies and support mothers that are in need."
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:41:47](/episodes/ep-tB5SXXmd9vU.md#^t-00-41-23): "[00:41:47] All right, you guys, when they double down on abortion, we have to double down on supporting life. Through our partnership with Preborn, we can help save babies and support mothers that are in need."
 
 ### Criticized
 
 - [Nate Brooksby](/entities/person-nate-brooksby.md)
-  - [ep-ZGxnf5cj4Uw @ 00:17:09](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-16-40): "Brooksby, I don't like the way he's moving, I don't like the way Nate Brooksby is breathing."
+  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:17:09](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-16-40): "Brooksby, I don't like the way he's moving, I don't like the way Nate Brooksby is breathing."
 - [Turning Point USA](/entities/org-turning-point-usa.md)
-  - [ep-ZGxnf5cj4Uw @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-21-28): "Even Turning Point USA, they're just like, we've accepted, obviously there are holes in this narrative"
+  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-21-28): "Even Turning Point USA, they're just like, we've accepted, obviously there are holes in this narrative"
 - [Stacey Sheridan](/entities/person-stacey-sheridan.md)
-  - [ep-a-e7HC6SeK8 @ 00:13:50](/episodes/ep-a-e7HC6SeK8.md#^t-00-13-20): "...I did not like her at all, just the vibe was off. I did not like her, and I expressed that to Charlie to his face when she was hired."
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:50](/episodes/ep-a-e7HC6SeK8.md#^t-00-13-20): "...I did not like her at all, just the vibe was off. I did not like her, and I expressed that to Charlie to his face when she was hired."
 
 ### Employed By
 
 - [Turning Point USA](/entities/org-turning-point-usa.md)
-  - [ep-vwG1juDCQZQ @ 00:32:29](/episodes/ep-vwG1juDCQZQ.md#^t-00-31-56): "as a person who worked at Turning Point USA, who toured with Charlie Kirk the most"
-  - [ep-aDlhjfW6hz8 @ 00:06:41](/episodes/ep-aDlhjfW6hz8.md#^t-00-06-33): "back when I was working at Turning Point, early days."
-  - [ep-YA1FxrDWNIo @ 00:30:05](/episodes/ep-YA1FxrDWNIo.md#^t-00-29-25): "I came from Turning Point USA"
+  - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:32:29](/episodes/ep-vwG1juDCQZQ.md#^t-00-31-56): "as a person who worked at Turning Point USA, who toured with Charlie Kirk the most"
+  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:06:41](/episodes/ep-aDlhjfW6hz8.md#^t-00-06-33): "back when I was working at Turning Point, early days."
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:30:05](/episodes/ep-YA1FxrDWNIo.md#^t-00-29-25): "I came from Turning Point USA"
 - [PragerU](/entities/org-prageru.md)
-  - [ep-yAIb-NuUh_U @ 00:00:03](/episodes/ep-yAIb-NuUh_U.md#^t-00-00-01): "back when I had a show on PragerU."
-  - [ep-K5GjF53bfN4 @ 00:08:19](/episodes/ep-K5GjF53bfN4.md#^t-00-08-02): "I obviously worked for PragerU."
+  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:03](/episodes/ep-yAIb-NuUh_U.md#^t-00-00-01): "back when I had a show on PragerU."
+  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:08:19](/episodes/ep-K5GjF53bfN4.md#^t-00-08-02): "I obviously worked for PragerU."
 - [Prager University](/entities/org-prager-university.md)
-  - [ep-YA1FxrDWNIo @ 00:06:29](/episodes/ep-YA1FxrDWNIo.md#^t-00-06-12): "when I was working for Prager University."
-  - [ep-YA1FxrDWNIo @ 00:00:06](/episodes/ep-YA1FxrDWNIo.md#^t-00-00-01): "when I was working for Prager University."
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:06:29](/episodes/ep-YA1FxrDWNIo.md#^t-00-06-12): "when I was working for Prager University."
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:06](/episodes/ep-YA1FxrDWNIo.md#^t-00-00-01): "when I was working for Prager University."
 - [Charlie Kirk](/entities/person-charlie-kirk.md)
-  - [ep-YA1FxrDWNIo @ 00:30:14](/episodes/ep-YA1FxrDWNIo.md#^t-00-30-08): "since I started working for Charlie Kirk."
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:30:14](/episodes/ep-YA1FxrDWNIo.md#^t-00-30-08): "since I started working for Charlie Kirk."
 - [The Daily Wire](/entities/org-the-daily-wire.md)
-  - [ep-tB5SXXmd9vU @ 00:49:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-48-53): "[00:49:13] Now, you seem to be naming employers. Regarding The Daily Wire, I am still friends with every single one of my colleagues that I was friends with when I went in there."
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:49:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-48-53): "[00:49:13] Now, you seem to be naming employers. Regarding The Daily Wire, I am still friends with every single one of my colleagues that I was friends with when I went in there."
 
 ### Endorsed
 
 - [Riverbend Ranch](/entities/org-riverbend-ranch.md)
-  - [ep-his-JBjlkh8 @ 00:34:52](/episodes/ep-his-JBjlkh8.md#^t-00-34-23): ""this holiday season, you can express your love with a very special gift of premium steaks from Riverbend Ranch.""
+  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:34:52](/episodes/ep-his-JBjlkh8.md#^t-00-34-23): ""this holiday season, you can express your love with a very special gift of premium steaks from Riverbend Ranch.""
 - [Nimee Skincare](/entities/org-nimeskincare-com.md)
-  - [ep-his-JBjlkh8 @ 00:00:44](/episodes/ep-his-JBjlkh8.md#^t-00-00-00): "[00:54:41] Also, you guys know I have to tell you about Nimee Skincare. I love them."
+  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:00:44](/episodes/ep-his-JBjlkh8.md#^t-00-00-00): "[00:54:41] Also, you guys know I have to tell you about Nimee Skincare. I love them."
 
 ### Fired
 
 - [The Daily Wire](/entities/org-the-daily-wire.md)
-  - [ep-aDlhjfW6hz8 @ 00:29:16](/episodes/ep-aDlhjfW6hz8.md#^t-00-29-03): "three months earlier I had gotten fired from the Daily Wire"
+  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:29:16](/episodes/ep-aDlhjfW6hz8.md#^t-00-29-03): "three months earlier I had gotten fired from the Daily Wire"
 
 ### Hired
 
 - [Richards, Layton & Finger](/entities/org-richards-layton-finger.md)
-  - [ep-a-e7HC6SeK8 @ 00:08:43](/episodes/ep-a-e7HC6SeK8.md#^t-00-08-27): "...is that the law firm that's filing the paperwork for you? And the answer to that is yes."
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:08:43](/episodes/ep-a-e7HC6SeK8.md#^t-00-08-27): "...is that the law firm that's filing the paperwork for you? And the answer to that is yes."
 
 ### Interviewed
 
 - [Xavier Poussard](/entities/person-xavier-poussard.md)
-  - [ep-sImMM04XdWY @ 00:10:31](/episodes/ep-sImMM04XdWY.md#^t-00-10-19): "on December 21st, I interview Xavier Poussard in London."
+  - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:10:31](/episodes/ep-sImMM04XdWY.md#^t-00-10-19): "on December 21st, I interview Xavier Poussard in London."
 - [Nick Fuentes](/entities/person-nick-fuentes.md)
-  - [ep-iHav0PPzUz8 @ 00:29:38](/episodes/ep-iHav0PPzUz8.md#^t-00-29-27): "I've hosted Nick Fuentes on my show."
-  - [ep-K1tFD7FfoCU @ 00:08:20](/episodes/ep-K1tFD7FfoCU.md#^t-00-08-16): "I interviewed Nick Fuentes."
+  - [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:29:38](/episodes/ep-iHav0PPzUz8.md#^t-00-29-27): "I've hosted Nick Fuentes on my show."
+  - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:08:20](/episodes/ep-K1tFD7FfoCU.md#^t-00-08-16): "I interviewed Nick Fuentes."
 - [Charlie Kirk](/entities/person-charlie-kirk.md)
-  - [ep-yAIb-NuUh_U @ 00:00:03](/episodes/ep-yAIb-NuUh_U.md#^t-00-00-01): "throwback clip from Charlie (Charlie Kirk) and me back when I had a show on PragerU."
-  - [ep-K5GjF53bfN4 @ 00:43:32](/episodes/ep-K5GjF53bfN4.md#^t-00-42-54): "Your interview with Charlie Kirk on PragerU showed up on my YouTube algorithm."
-  - [ep-mKXdKV-OBog @ 00:01:06](/episodes/ep-mKXdKV-OBog.md#^t-00-00-43): "that interview that I did with Charlie (Charlie Kirk) back when my show was on PragerU's network"
+  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:03](/episodes/ep-yAIb-NuUh_U.md#^t-00-00-01): "throwback clip from Charlie (Charlie Kirk) and me back when I had a show on PragerU."
+  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:43:32](/episodes/ep-K5GjF53bfN4.md#^t-00-42-54): "Your interview with Charlie Kirk on PragerU showed up on my YouTube algorithm."
+  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:01:06](/episodes/ep-mKXdKV-OBog.md#^t-00-00-43): "that interview that I did with Charlie (Charlie Kirk) back when my show was on PragerU's network"
 - [Ami Kozak](/entities/person-ami-kozak.md)
-  - [ep-ja26iltROkM @ 00:32:42](/episodes/ep-ja26iltROkM.md#^t-00-32-41): "the conversation that I had with Ami Kozak"
+  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:42](/episodes/ep-ja26iltROkM.md#^t-00-32-41): "the conversation that I had with Ami Kozak"
 - [Norman Finkelstein](/entities/person-norman-finkelstein.md)
-  - [ep-Qt0VHV-POCg @ 00:39:19](/episodes/ep-Qt0VHV-POCg.md#^t-00-38-57): "I was very excited to sit down and have a conversation... with Norman Finkelstein."
+  - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:39:19](/episodes/ep-Qt0VHV-POCg.md#^t-00-38-57): "I was very excited to sit down and have a conversation... with Norman Finkelstein."
 - [Tim Ballard](/entities/person-tim-ballard.md)
-  - [ep-YA1FxrDWNIo @ 00:06:28](/episodes/ep-YA1FxrDWNIo.md#^t-00-06-12): "I've actually interviewed him."
-  - [ep-YA1FxrDWNIo @ 00:00:06](/episodes/ep-YA1FxrDWNIo.md#^t-00-00-01): "I've actually interviewed him."
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:06:28](/episodes/ep-YA1FxrDWNIo.md#^t-00-06-12): "I've actually interviewed him."
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:06](/episodes/ep-YA1FxrDWNIo.md#^t-00-00-01): "I've actually interviewed him."
 - [Norman Finkelstein](/entities/person-norman-finkelstein.md)
-  - [ep-LATnak75Si0 @ 00:15:11](/episodes/ep-LATnak75Si0.md#^t-00-14-30): "when Norm Finkelstein was on our show"
+  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:15:11](/episodes/ep-LATnak75Si0.md#^t-00-14-30): "when Norm Finkelstein was on our show"
 - [Phil Turney](/entities/person-phil-turney.md)
-  - [ep-his-JBjlkh8 @ 01:04:06](/episodes/ep-his-JBjlkh8.md#^t-01-03-25): "when we interviewed Phil Tourney of the USS Liberty."
+  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 01:04:06](/episodes/ep-his-JBjlkh8.md#^t-01-03-25): "when we interviewed Phil Tourney of the USS Liberty."
 - [Russell Brand](/entities/person-russell-brand.md)
-  - [ep-his-JBjlkh8 @ 00:03:56](/episodes/ep-his-JBjlkh8.md#^t-00-03-40): "[00:57:53] I spoke about it more at length with Russell Brand on his show, so that should be coming out soon."
+  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:56](/episodes/ep-his-JBjlkh8.md#^t-00-03-40): "[00:57:53] I spoke about it more at length with Russell Brand on his show, so that should be coming out soon."
 - [Phil Turney](/entities/person-phil-turney.md)
-  - [ep-his-JBjlkh8 @ 00:10:09](/episodes/ep-his-JBjlkh8.md#^t-00-09-34): "[01:04:06] ...you could feel a spiritual movement in this room when we interviewed Phil Turney of the USS Liberty."
+  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:09](/episodes/ep-his-JBjlkh8.md#^t-00-09-34): "[01:04:06] ...you could feel a spiritual movement in this room when we interviewed Phil Turney of the USS Liberty."
 - [Tucker Carlson](/entities/person-tucker-carlson.md)
-  - [ep-a-e7HC6SeK8 @ 00:16:31](/episodes/ep-a-e7HC6SeK8.md#^t-00-16-11): "...I asked Tucker about that speech. I was like, what inspired you?"
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:16:31](/episodes/ep-a-e7HC6SeK8.md#^t-00-16-11): "...I asked Tucker about that speech. I was like, what inspired you?"
 
 ### Works At
 
 - [Turning Point USA](/entities/org-turning-point-usa.md)
-  - [ep-q7f8r-THr84 @ 01:00:12](/episodes/ep-q7f8r-THr84.md#^t-00-59-43): "I've worked for Turning Point for two years."
-  - [ep-his-JBjlkh8 @ 00:06:48](/episodes/ep-his-JBjlkh8.md#^t-00-06-47): "I worked for Turning Point USA, and I went on every tour..."
+  - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 01:00:12](/episodes/ep-q7f8r-THr84.md#^t-00-59-43): "I've worked for Turning Point for two years."
+  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:06:48](/episodes/ep-his-JBjlkh8.md#^t-00-06-47): "I worked for Turning Point USA, and I went on every tour..."
 
 ### Referenced By
 
 - [Eyal Yakobi](/entities/person-eyal-yakobi.md) **criticized** this
-  - [ep-581dILVcEE4 @ 00:02:02](/episodes/ep-581dILVcEE4.md#^t-00-01-26)
+  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:02:02](/episodes/ep-581dILVcEE4.md#^t-00-01-26)
 - [Erin Wexler](/entities/person-erin-wexler.md) **criticized** this
-  - [ep-581dILVcEE4 @ 00:03:02](/episodes/ep-581dILVcEE4.md#^t-00-02-51)
+  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:03:02](/episodes/ep-581dILVcEE4.md#^t-00-02-51)
 - [Bill Ackman](/entities/person-bill-ackman.md) **criticized** this
-  - [ep-sreYYcID-QY @ 00:00:24](/episodes/ep-sreYYcID-QY.md#^t-00-00-00)
-  - [ep-sreYYcID-QY @ 00:00:24](/episodes/ep-sreYYcID-QY.md#^t-00-00-00)
+  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:24](/episodes/ep-sreYYcID-QY.md#^t-00-00-00)
+  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:24](/episodes/ep-sreYYcID-QY.md#^t-00-00-00)
 - [Eric Bolling](/entities/person-eric-bolling.md) **criticized** this
-  - [ep-sreYYcID-QY @ 00:00:33](/episodes/ep-sreYYcID-QY.md#^t-00-00-00)
-  - [ep-sreYYcID-QY @ 00:00:33](/episodes/ep-sreYYcID-QY.md#^t-00-00-00)
+  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:33](/episodes/ep-sreYYcID-QY.md#^t-00-00-00)
+  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:33](/episodes/ep-sreYYcID-QY.md#^t-00-00-00)
 - [Frank Turek](/entities/person-frank-turek.md) **criticized** this
-  - [ep-yAIb-NuUh_U @ 00:01:57](/episodes/ep-yAIb-NuUh_U.md#^t-00-01-32)
+  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:01:57](/episodes/ep-yAIb-NuUh_U.md#^t-00-01-32)
 - [Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md) **criticized** this
-  - [ep-yAIb-NuUh_U @ 00:04:24](/episodes/ep-yAIb-NuUh_U.md#^t-00-03-41)
+  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:24](/episodes/ep-yAIb-NuUh_U.md#^t-00-03-41)
 - [Laura Loomer](/entities/person-laura-loomer.md) **criticized** this
-  - [ep-ja26iltROkM @ 00:27:34](/episodes/ep-ja26iltROkM.md#^t-00-26-58)
-  - [ep-ja26iltROkM @ 00:26:54](/episodes/ep-ja26iltROkM.md#^t-00-26-14)
+  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:27:34](/episodes/ep-ja26iltROkM.md#^t-00-26-58)
+  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:26:54](/episodes/ep-ja26iltROkM.md#^t-00-26-14)
 - [Phil Lyman](/entities/person-phil-lyman.md) **criticized** this
-  - [ep-t1YtLS1n8Vs @ 00:21:12](/episodes/ep-t1YtLS1n8Vs.md#^t-00-21-03)
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:21:12](/episodes/ep-t1YtLS1n8Vs.md#^t-00-21-03)
 - [Anti-Defamation League](/entities/org-anti-defamation-league.md) **criticized** this
-  - [ep-t1YtLS1n8Vs @ 00:11:21](/episodes/ep-t1YtLS1n8Vs.md#^t-00-11-19)
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:11:21](/episodes/ep-t1YtLS1n8Vs.md#^t-00-11-19)
 - [Turning Point](/entities/org-turning-point-usa.md) **criticized** this
-  - [ep-a-e7HC6SeK8 @ 00:56:40](/episodes/ep-a-e7HC6SeK8.md#^t-00-56-27)
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:56:40](/episodes/ep-a-e7HC6SeK8.md#^t-00-56-27)
 - [Adam Sosnick](/entities/person-adam-sosnick.md) **criticized** this
-  - [ep-tB5SXXmd9vU @ 00:47:39](/episodes/ep-tB5SXXmd9vU.md#^t-00-46-56)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:39](/episodes/ep-tB5SXXmd9vU.md#^t-00-46-56)
 - [Turning Point USA](/entities/org-turning-point-usa.md) **endorsed** this
-  - [ep-sreYYcID-QY @ 00:41:18](/episodes/ep-sreYYcID-QY.md#^t-00-40-44)
-  - [ep-sreYYcID-QY @ 00:41:20](/episodes/ep-sreYYcID-QY.md#^t-00-40-44)
+  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:41:18](/episodes/ep-sreYYcID-QY.md#^t-00-40-44)
+  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:41:20](/episodes/ep-sreYYcID-QY.md#^t-00-40-44)
 - [The Daily Wire](/entities/org-the-daily-wire.md) **fired** this
-  - [ep-sreYYcID-QY @ 00:41:09](/episodes/ep-sreYYcID-QY.md#^t-00-40-44)
+  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:41:09](/episodes/ep-sreYYcID-QY.md#^t-00-40-44)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) **hired** this
-  - [ep-_dRaEO47-co @ 00:01:45](/episodes/ep-_dRaEO47-co.md#^t-00-01-20)
-  - [ep-_dRaEO47-co @ 00:01:45](/episodes/ep-_dRaEO47-co.md#^t-00-01-20)
+  - [To My Friend, Charlie Kirk. @ 00:01:45](/episodes/ep-_dRaEO47-co.md#^t-00-01-20)
+  - [To My Friend, Charlie Kirk. @ 00:01:45](/episodes/ep-_dRaEO47-co.md#^t-00-01-20)
 - [Tucker Carlson](/entities/person-tucker-carlson.md) **interviewed** this
-  - [ep-sImMM04XdWY @ 00:19:08](/episodes/ep-sImMM04XdWY.md#^t-00-18-58)
-  - [ep-K1tFD7FfoCU @ 00:10:02](/episodes/ep-K1tFD7FfoCU.md#^t-00-09-57)
+  - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:19:08](/episodes/ep-sImMM04XdWY.md#^t-00-18-58)
+  - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:10:02](/episodes/ep-K1tFD7FfoCU.md#^t-00-09-57)
 - [Ben Shapiro](/entities/person-ben-shapiro.md) **interviewed** this
-  - [ep-K1tFD7FfoCU @ 00:17:37](/episodes/ep-K1tFD7FfoCU.md#^t-00-16-59)
+  - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:17:37](/episodes/ep-K1tFD7FfoCU.md#^t-00-16-59)
 - [Brigitte Macron](/entities/person-brigitte-macron.md) **sued** this
-  - [ep-sreYYcID-QY @ 00:46:11](/episodes/ep-sreYYcID-QY.md#^t-00-45-49)
-  - [ep-sImMM04XdWY @ 00:17:22](/episodes/ep-sImMM04XdWY.md#^t-00-16-53)
+  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:46:11](/episodes/ep-sreYYcID-QY.md#^t-00-45-49)
+  - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:17:22](/episodes/ep-sImMM04XdWY.md#^t-00-16-53)

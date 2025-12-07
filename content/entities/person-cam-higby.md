@@ -12,7 +12,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
+### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:02:11](/episodes/ep-ZAuuSq_j2_w.md#^t-00-02-11)
   > "... frankly bizarre late-night tweets and ultimatum, I wanted to update you guys and let you know that Cam Higby—remember that weird propagandist reporter who goes to the Pentagon press secretary and is like, "Do..."
@@ -33,7 +33,7 @@ _Type: People_
 - [00:47:14](/episodes/ep-ZAuuSq_j2_w.md#^t-00-47-08)
   > "...o is being influenced by Cam Higby? Show of hands. Who was just like, "Yeah, I got to hang out with Cam Higby"? I just look at him, and I can tell it's fake and gay. I don't know. It's like—I want nothing to d..."
 
-### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
+### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 
 - [00:40:39](/episodes/ep-his-JBjlkh8.md#^t-00-40-39)
   > "..., she was beside herself with glee this morning, sharing news that another Zionist influencer named Cam Higby—who has also now been credentialed by the Pentagon— decided to ask the perhaps billion-dollar quest..."
@@ -47,10 +47,10 @@ _Type: People_
 ### Affiliated With
 
 - [United States Pentagon](/entities/org-united-states-pentagon.md)
-  - [ep-his-JBjlkh8 @ 00:03:45](/episodes/ep-his-JBjlkh8.md#^t-00-03-40): ""another Zionist influencer named Kam Higby, who has also now been credentialed by the Pentagon,""
+  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:45](/episodes/ep-his-JBjlkh8.md#^t-00-03-40): ""another Zionist influencer named Kam Higby, who has also now been credentialed by the Pentagon,""
 
 ### Employed By
 
 - [Turning Point USA](/entities/org-turning-point-usa.md)
-  - [ep-ZAuuSq_j2_w @ 00:03:30](/episodes/ep-ZAuuSq_j2_w.md#^t-00-03-07): "Cam Higby is on the payroll of Turning Point USA, beginning in August of this year."
-  - [ep-ZAuuSq_j2_w @ 00:03:30](/episodes/ep-ZAuuSq_j2_w.md#^t-00-03-07): "Cam Higby is on the payroll of Turning Point USA, beginning in August of this year."
+  - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:03:30](/episodes/ep-ZAuuSq_j2_w.md#^t-00-03-07): "Cam Higby is on the payroll of Turning Point USA, beginning in August of this year."
+  - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:03:30](/episodes/ep-ZAuuSq_j2_w.md#^t-00-03-07): "Cam Higby is on the payroll of Turning Point USA, beginning in August of this year."

@@ -12,14 +12,14 @@ _Type: People_
 
 ## Mentions
 
-### [ep-JQjCAsfoXEE](/episodes/ep-JQjCAsfoXEE.md)
+### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 
 - [00:11:32](/episodes/ep-JQjCAsfoXEE.md#^t-00-11-07)
   > "...have struck even more fear into the nest of mockingbirds. In fact, they sent Mother Mockingbird out—Ben Shapiro—to make the exact same wild allegation out of thin air that I said something specifically about Eri..."
 - [00:32:22](/episodes/ep-JQjCAsfoXEE.md#^t-00-32-22)
   > "... trying to get passed, trying to censor our speech, trying to take over social media campaigns—even Ben Shapiro name-checking me and Tucker (Tucker Carlson)—and all other Shapiro fans are on stage calling us out..."
 
-### [ep-K1tFD7FfoCU](/episodes/ep-K1tFD7FfoCU.md)
+### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 
 - [00:00:18](/episodes/ep-K1tFD7FfoCU.md#^t-00-00-00)
   > "...ltrated the MAGA movement, and they're trying to dictate the terms like we didn't notice. Randomly, Ben Shapiro (Ben Shapiro) apparently woke up this morning and chose violence. He put me in his anti-Tucker (Tuc..."
@@ -84,7 +84,7 @@ _Type: People_
 - [00:20:36](/episodes/ep-K1tFD7FfoCU.md#^t-00-20-31)
   > "...because they wanted to keep it going. And they were told that that was not allowed to happen unless Ben Shapiro (Ben Shapiro) was also invited. And in the true spirit of Charlie Kirk (Charlie Kirk), Turning Poin..."
 
-### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
+### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 
 - [00:00:10](/episodes/ep-MUA9ebCF4Ow.md#^t-00-00-00)
   > "...d very quickly bury him in a yarmulke and then convince the world that he was actually besties with Ben Shapiro and Josh Hammer. He didn't even know Candace (Candace Owens). His last words before he died were, "..."
@@ -97,12 +97,12 @@ _Type: People_
 - [00:17:28](/episodes/ep-MUA9ebCF4Ow.md#^t-00-17-25)
   > "...and Charlie (Charlie Kirk) never had any bad blood between them. The offender there was Alex Clark. Ben Shapiro was on her show, and I don't know why she tried that little bit of propaganda when she knew that wa..."
 
-### [ep-QZWSsq8ZWzw](/episodes/ep-QZWSsq8ZWzw.md)
+### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 
 - [00:31:05](/episodes/ep-QZWSsq8ZWzw.md#^t-00-30-51)
   > "...ve but support my right to share those beliefs anyway. People who I never would have imagined, like Ben Shapiro, Clay Travis, Candace (Candace Owens), Mitch McConnell, Rand Paul—even my old pal Ted Cruz, who, be..."
 
-### [ep-YaZfwLQ7vrI](/episodes/ep-YaZfwLQ7vrI.md)
+### [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 
 - [00:00:23](/episodes/ep-YaZfwLQ7vrI.md#^t-00-00-00)
   > "... causing so much panic? They're saying I faked the text messages again, the ones I showed regarding Ben Shapiro. They got AI analysis. These are fake. They're sending experts—quote-unquote experts—out to diagnos..."
@@ -113,14 +113,14 @@ _Type: People_
 - [00:52:17](/episodes/ep-YaZfwLQ7vrI.md#^t-00-51-56)
   > "...canFinancing.net/Owens. All right, top comment from Friday's episode. Think Before You Type wrote, "Ben Shapiro (Ben Shapiro) was all for Candace (Candace Owens) Owens keeping it real with the black community un..."
 
-### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
+### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:25:21](/episodes/ep-ZAuuSq_j2_w.md#^t-00-25-13)
   > "...ssassination attempt is just funny. That's just like an SNL bit. Anyways, the always relatable Ben (Ben Shapiro) is trying his luck at humor as well. Regarding my assassination attempt, he appeared on Greg Gutfe..."
 - [00:25:39](/episodes/ep-ZAuuSq_j2_w.md#^t-00-25-13)
   > "...g Gutfeld's show, and he decided to promote his appearance with a little jab. Take a listen to Ben (Ben Shapiro). (Clip: Ben Shapiro speaking on Greg Gutfeld’s show) As you can see, I'm sitting in Greg Gutfeld's..."
 
-### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
+### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
 
 - [00:31:25](/episodes/ep-adJ4LNGp84I.md#^t-00-31-25)
   > "...the connections, PragerU, I could tell you the stories; PragerU, David Horowitz Freedom Center, and Ben Shapiro, all of them related in their beginnings in Los Angeles. So he's basically saying, we need to take ..."
@@ -129,12 +129,12 @@ _Type: People_
 - [00:44:57](/episodes/ep-adJ4LNGp84I.md#^t-00-44-47)
   > "...nti-Jewish, genetically speaking, and excessive in their videos. I would debate PBD. I would debate Ben Shapiro. I wouldn't debate Brandon Tatum because I love Brandon Tatum like a brother, and nobody wins in th..."
 
-### [ep-c5BcKF91iec](/episodes/ep-c5BcKF91iec.md)
+### [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 
 - [00:50:43](/episodes/ep-c5BcKF91iec.md#^t-00-50-14)
   > "...s tell you that. And I love that you look like you're a lot happier than you were a few years ago." Ben Shapiro—notoriously on that table—said her faux sophistication has been ridiculous. So I'm keeping it faux ..."
 
-### [ep-r1PS67aRmcA](/episodes/ep-r1PS67aRmcA.md)
+### [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
 
 - [00:00:18](/episodes/ep-r1PS67aRmcA.md#^t-00-00-00)
   > "...k, you gotta fall to the ground and cry victim. Well, it's my turn now, you guys, because yesterday Ben Shapiro, who was invited as a guest to join Megyn Kelly on her tour, he pretty much just goes mask off, and..."
@@ -165,7 +165,7 @@ _Type: People_
 - [00:29:00](/episodes/ep-r1PS67aRmcA.md#^t-00-28-34)
   > "...upset. I don't care. I believe in the free market. I genuinely will say again, I will always debate Ben Shapiro. If, you know, if Tucker (Tucker Carlson) left you on read and you want to come on this show and yo..."
 
-### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
+### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
 
 - [00:03:30](/episodes/ep-vwG1juDCQZQ.md#^t-00-02-51)
   > "..." And that was me when I no longer wanted to do the pro-Israel thing. Of course, as always, I thank Ben Shapiro. I thank Jeremy Boreing. I thank the Daily Wire and them realizing it before I did that I should be..."
@@ -175,16 +175,16 @@ _Type: People_
 ### Criticized
 
 - [Megyn Kelly](/entities/person-megyn-kelly.md)
-  - [ep-MUA9ebCF4Ow @ 00:06:23](/episodes/ep-MUA9ebCF4Ow.md#^t-00-05-50): "lied to Megyn Kelly's face"
+  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:06:23](/episodes/ep-MUA9ebCF4Ow.md#^t-00-05-50): "lied to Megyn Kelly's face"
 
 ### Interviewed
 
 - [Candace Owens](/entities/person-candace-owens.md)
-  - [ep-K1tFD7FfoCU @ 00:17:37](/episodes/ep-K1tFD7FfoCU.md#^t-00-16-59): "book us on Ben's (Ben Shapiro's) show"
+  - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:17:37](/episodes/ep-K1tFD7FfoCU.md#^t-00-16-59): "book us on Ben's (Ben Shapiro's) show"
 - [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
-  - [ep-r1PS67aRmcA @ 00:20:01](/episodes/ep-r1PS67aRmcA.md#^t-00-19-31): "Ben Shapiro sat down with him last month"
+  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:20:01](/episodes/ep-r1PS67aRmcA.md#^t-00-19-31): "Ben Shapiro sat down with him last month"
 
 ### Referenced By
 
 - [Megyn Kelly](/entities/person-megyn-kelly.md) **interviewed** this
-  - [ep-MUA9ebCF4Ow @ 00:04:37](/episodes/ep-MUA9ebCF4Ow.md#^t-00-04-35)
+  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:04:37](/episodes/ep-MUA9ebCF4Ow.md#^t-00-04-35)

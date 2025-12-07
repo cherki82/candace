@@ -12,7 +12,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-2Riv3I7D0Yk](/episodes/ep-2Riv3I7D0Yk.md)
+### [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
 
 - [00:07:35](/episodes/ep-2Riv3I7D0Yk.md#^t-00-07-35)
   > "...finitively that Josh was referring to the criminal who horrifically murdered the Ukrainian refugee, Irina Zarutska, in North Carolina. That was obviously a big story in the beginning of September. Yashar Ali wrote ..."
@@ -31,7 +31,7 @@ _Type: People_
 - [00:14:04](/episodes/ep-2Riv3I7D0Yk.md#^t-00-13-45)
   > "... visceral response when you see somebody being victimized—a woman being victimized in that way that Irina was. So we decided, for good measure, that we should check to see if maybe it was something regular..."
 
-### [ep-5autG89PW6w](/episodes/ep-5autG89PW6w.md)
+### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 
 - [00:44:56](/episodes/ep-5autG89PW6w.md#^t-00-44-22)
   > "...ade this statement in my favor. This was written by him and his wife—two wonderful people: John and Irina Mappin. I'm just going to read it because I think these words don't just eloquently express how I'm..."
@@ -50,7 +50,7 @@ _Type: People_
 - [01:03:27](/episodes/ep-5autG89PW6w.md#^t-01-03-16)
   > "...e cry, so it's really their fault. If you want to be angry at anybody, you can be angry at John and Irina for writing that. I did. I felt the Holy Spirit in those words. I really did. It's how we're all fe..."
 
-### [ep-pc3pxRyNFZk](/episodes/ep-pc3pxRyNFZk.md)
+### [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
 
 - [00:01:51](/episodes/ep-pc3pxRyNFZk.md#^t-00-01-27)
   > "...ing our time to this, because what we are being told by the authorities beggars belief, as John and Irina Maplin said. It just simply beggars belief. We also want to make sure that we are presenting eviden..."

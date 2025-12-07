@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-t1YtLS1n8Vs](/episodes/ep-t1YtLS1n8Vs.md)
+### [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
 
 - [00:03:28](/episodes/ep-t1YtLS1n8Vs.md#^t-00-02-47)
   > "... Well, because they put the organization together to defend a pedophile and a murderer. His name is Leo Frank. Leo Frank was an unbelievably wealthy Jewish factory owner down in Atlanta. And this is 1913. That..."
@@ -30,4 +30,4 @@ _Type: People_
 ### Referenced By
 
 - [Mary Phagan](/entities/person-mary-phagan.md) **employed by** this
-  - [ep-t1YtLS1n8Vs @ 00:03:44](/episodes/ep-t1YtLS1n8Vs.md#^t-00-03-31)
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:03:44](/episodes/ep-t1YtLS1n8Vs.md#^t-00-03-31)

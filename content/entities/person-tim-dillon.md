@@ -8,12 +8,12 @@ _Type: People_
 
 ## Mentions
 
-### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
+### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:53:09](/episodes/ep-SKGUzGHymcI.md#^t-00-52-35)
   > "...ht claim for her sensational music. And so we might have to trim out that sensational song from the Tim Dillon clip that we showed of him listening to it. So. Oh, sorry. I said Charlie (Charlie Kirk)'s girlfrie..."
 
-### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
+### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:28:35](/episodes/ep-mKXdKV-OBog.md#^t-00-28-14)
   > "...been ordained by God to murder. And yeah, I don't know. There is some comedic relief coming though. Tim Dillon covering anything is always hilarious, and he is covering the occupation of our media because it's ..."
@@ -30,7 +30,7 @@ _Type: People_
 - [00:32:58](/episodes/ep-mKXdKV-OBog.md#^t-00-32-58)
   > "...s what it was. She just installed. It's not a meritocracy. At the head of CBS News. Take a listen. (Tim Dillon clip) Bari Weiss is basically telling people, "Why don't you pretend I'm not here to destroy this w..."
 
-### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
+### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:46:17](/episodes/ep-yAIb-NuUh_U.md#^t-00-46-02)
   > "...usly this has backfired—the lawsuit. People are now making jokes. They're making songs. And I adore Tim Dillon. He's very funny. He's very much needed humor. And he decided to look into this lawsuit and to see ..."

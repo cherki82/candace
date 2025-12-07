@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
+### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:03:19](/episodes/ep-mKXdKV-OBog.md#^t-00-02-52)
   > "...ourse, the senators, military men, close friends and confidants—the most infamous, of course, being Brutus. Now, some reports say that he viewed Brutus as a son. That's how close they were. Of course, that ..."

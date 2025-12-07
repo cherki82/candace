@@ -8,7 +8,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
+### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
 
 - [00:06:55](/episodes/ep-vwG1juDCQZQ.md#^t-00-06-26)
   > "...Watters, who hosted this discussion—also trailed her at the event that she did with JD Vance at the University of Mississippi. Now, people around the world obviously have been moved by Erika's commitment to her Christian fait..."

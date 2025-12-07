@@ -12,7 +12,7 @@ _Type: Concepts_
 
 ## Mentions
 
-### [ep-2WEHTk0Xewg](/episodes/ep-2WEHTk0Xewg.md)
+### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 
 - [00:21:43](/episodes/ep-2WEHTk0Xewg.md#^t-00-21-38)
   > "... answering. He writes, "Since Trump (Donald Trump) got into office, my dad has been pretty die-hard MAGA." There's something here for everyone if you want to take the low-hanging fruit and think of this a..."
@@ -21,12 +21,12 @@ _Type: Concepts_
 - [00:22:12](/episodes/ep-2WEHTk0Xewg.md#^t-00-21-38)
   > "... here. Anyways, I guess maybe if you're suicidal, that's what you said: "Dad's been pretty die-hard MAGA." And then we don't know again when these messages took place, but it all had to happen in these se..."
 
-### [ep-Cq7nj9rxPdo](/episodes/ep-Cq7nj9rxPdo.md)
+### [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
 
 - [00:14:21](/episodes/ep-Cq7nj9rxPdo.md#^t-00-14-16)
   > "..., this, that—if he didn't abstain from politics after he notoriously went to the White House in the MAGA hat. And he needed to distance from us and, of course, Blexit, and he cracked. I mean, you guys rem..."
 
-### [ep-K1tFD7FfoCU](/episodes/ep-K1tFD7FfoCU.md)
+### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 
 - [00:00:08](/episodes/ep-K1tFD7FfoCU.md#^t-00-00-00)
   > "...t's what's going on. But really, we all know it's more like Never Trumpers have now infiltrated the MAGA movement, and they're trying to dictate the terms like we didn't notice. Randomly, Ben Shapiro (Ben Shapiro)..."
@@ -51,7 +51,7 @@ _Type: Concepts_
 - [00:49:00](/episodes/ep-K1tFD7FfoCU.md#^t-00-48-38)
   > "...r-printed signs and do a dance in front of Randy Fine (Randy Fine). "Tucker (Tucker Carlson) is not MAGA." People can see which way the wind is blowing, and it's against Israel because everything they do ..."
 
-### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
+### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 
 - [00:51:57](/episodes/ep-LATnak75Si0.md#^t-00-51-39)
   > "...at came down the escalator. I will not support it. You're not going to convince me that this is the MAGA movement. It's not. And the reason I know it's not is because all the Never Trumpers are praising it—and I'v..."
@@ -78,17 +78,17 @@ _Type: Concepts_
 - [01:02:14](/episodes/ep-LATnak75Si0.md#^t-01-02-14)
   > "...ocialism, but part of me is glad that Mamdani won because it sends a message. It was supposed to be MAGA, not MIGA." Exactly right. And when you see that skit, it reminds us of early Trump (Donald Trump)...."
 
-### [ep-QZWSsq8ZWzw](/episodes/ep-QZWSsq8ZWzw.md)
+### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 
 - [00:07:48](/episodes/ep-QZWSsq8ZWzw.md#^t-00-07-30)
   > "...s carving the bullets? Yes. Yes. Exactly. This time is when I did it. And these are the reasons, my MAGA daddy, my love. Thou wilt not, my love. Cool. Cool story. Very cool story, feds. Kind of feeling li..."
 
-### [ep-Qt0VHV-POCg](/episodes/ep-Qt0VHV-POCg.md)
+### [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 
 - [00:10:33](/episodes/ep-Qt0VHV-POCg.md#^t-00-10-33)
   > "...wanting to ensure that he got elected, re-elected, midterm elections, hitting the ground, wearing a MAGA hat. We were everywhere. I was on fire for Trump, too. I really believed in Trump. I really believe..."
 
-### [ep-UBkFkg4UNY8](/episodes/ep-UBkFkg4UNY8.md)
+### [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 
 - [00:41:43](/episodes/ep-UBkFkg4UNY8.md#^t-00-41-04)
   > "... the SD card so that nobody could get that, so that law enforcement could get it. Did I answer your MAGA question sufficiently? Yeah, OK. He loved MAGA. He loved MAGA moms, too. I think I would have proba..."
@@ -101,7 +101,7 @@ _Type: Concepts_
 - [00:54:03](/episodes/ep-UBkFkg4UNY8.md#^t-00-53-55)
   > "...xtra MAGA. That's supposed to make people that are on the left go, oh my gosh, see? It's because of MAGA dad. It's, like, so ridiculous. And then on the right, you're supposed to go, trans. It's a trans p..."
 
-### [ep-YaZfwLQ7vrI](/episodes/ep-YaZfwLQ7vrI.md)
+### [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
 
 - [00:05:27](/episodes/ep-YaZfwLQ7vrI.md#^t-00-05-21)
   > "...ady to take the fed slop. This time it was the messages, obviously. And they're like, "Oh, my dad's MAGA." "He just—he was MAGAing too hard." And the left was supposed to go, "See, it's his dad's fault." ..."
@@ -114,22 +114,22 @@ _Type: Concepts_
 - [00:07:25](/episodes/ep-YaZfwLQ7vrI.md#^t-00-06-50)
   > ".... But suddenly we were getting phone calls because the media was there, you know, right there. "The MAGA has gone too far," and they were showing all this footage, and it was out of place, right? Now, I k..."
 
-### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
+### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:39:11](/episodes/ep-a-e7HC6SeK8.md#^t-00-38-52)
   > "...k) in politics—like we were young bucks thinking that we were going to change the world because the MAGA movement offered us this opportunity to do it, right? We are going to get Trump elected, and we're going to ..."
 
-### [ep-aDlhjfW6hz8](/episodes/ep-aDlhjfW6hz8.md)
+### [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 
 - [00:39:12](/episodes/ep-aDlhjfW6hz8.md#^t-00-39-12)
   > "...ake a listen to what Jimmy Kimmel said on his show. "We hit some new lows over the weekend with the MAGA gang desperately trying to characterize this kid who murdered Charlie Kirk as anything other than o..."
 
-### [ep-czVBmqZP6Ss](/episodes/ep-czVBmqZP6Ss.md)
+### [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 
 - [00:36:29](/episodes/ep-czVBmqZP6Ss.md#^t-00-36-23)
   > "...ething's wrong. I know I shouldn't do this. I'm risking an awful lot to go up against this FBI, the MAGA FBI. Something's very wrong with what I just heard. I mean, I watched it. I was hoping that they ha..."
 
-### [ep-iHav0PPzUz8](/episodes/ep-iHav0PPzUz8.md)
+### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
 
 - [00:32:42](/episodes/ep-iHav0PPzUz8.md#^t-00-32-06)
   > "...cause you will notice this thing: that all of the people who are now saying that they represent the MAGA movement weren't in it. They are literally people that were the Never Trump movement in 2015. None of them—t..."
@@ -148,12 +148,12 @@ _Type: Concepts_
 - [00:33:14](/episodes/ep-iHav0PPzUz8.md#^t-00-32-49)
   > "...onna be re-elected—they're pretending that they support Trump (Donald Trump) and that they're super MAGA by demanding that MAGA cancels Tucker (Tucker Carlson), who is adored and loved by the MAGA base, o..."
 
-### [ep-ja26iltROkM](/episodes/ep-ja26iltROkM.md)
+### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 
 - [00:13:55](/episodes/ep-ja26iltROkM.md#^t-00-13-55)
   > "...s—and go through every single detail of exactly how he planned it, why he planned it, including his MAGA dad—who's been extra MAGA lately, that he doesn't actually live with, and nobody knows why the dad ..."
 
-### [ep-ozWJz2spBcI](/episodes/ep-ozWJz2spBcI.md)
+### [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
 
 - [00:37:37](/episodes/ep-ozWJz2spBcI.md#^t-00-37-26)
   > "...nto my head was, I'm so glad that Charlie (Charlie Kirk) knew Jesus,' said Clark, 32, who hosts the MAGA-friendly podcast Culture Apothecary for Turning Point USA. The second thought was, 'What will happe..."
@@ -166,19 +166,19 @@ _Type: Concepts_
 - [00:39:10](/episodes/ep-ozWJz2spBcI.md#^t-00-38-56)
   > "...t like I was being a bad mother— was, "Man, I'm sure glad Donald Trump (Donald Trump) is president. MAGA." I didn't feel that way. Didn't feel that way. In fact, I was angry. I remember feeling angry when..."
 
-### [ep-q7f8r-THr84](/episodes/ep-q7f8r-THr84.md)
+### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
 
 - [00:26:32](/episodes/ep-q7f8r-THr84.md#^t-00-26-08)
   > "..., not answering." Robinson says, "Well, since Trump got into office, my dad has been pretty diehard MAGA. I'm gonna turn myself in willingly. One of my neighbors is here. He is a deputy for the sheriff." ..."
 - [00:27:36](/episodes/ep-q7f8r-THr84.md#^t-00-27-31)
   > "...closely. Yeah. And it looks like they're cherry picking certain exchanges. So that "my dad is super MAGA" just comes out of nowhere, because they picked it from a totally different part of the conversatio..."
 
-### [ep-r1PS67aRmcA](/episodes/ep-r1PS67aRmcA.md)
+### [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
 
 - [00:41:58](/episodes/ep-r1PS67aRmcA.md#^t-00-41-41)
   > "... Thailand and Cambodia, this is a president of peace. I don't know. It's lost its edge, right? Like MAGA is over. You just know it's over. It's just over. And I say this, by the way, and I'm always very h..."
 
-### [ep-sreYYcID-QY](/episodes/ep-sreYYcID-QY.md)
+### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 
 - [00:47:51](/episodes/ep-sreYYcID-QY.md#^t-00-47-14)
   > "...lematic. Left and right, we are realizing something more sinister happened. If we're not taking the MAGA bait—“the dad MAGA; he's been more MAGA than ever.” One of the commenters pointed out, why would th..."
@@ -189,7 +189,7 @@ _Type: Concepts_
 - [00:48:18](/episodes/ep-sreYYcID-QY.md#^t-00-47-55)
   > "...A than ever. In fact, it's been kind of the opposite. People think we're occupied by Zionists. More MAGA people are going, like, it seems like Donald Trump (Donald Trump) has kind of given up on free spee..."
 
-### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
+### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:33:42](/episodes/ep-yAIb-NuUh_U.md#^t-00-33-32)
   > "...s. They're not good. Okay, they are completely indefensible. But I already told you I was done with MAGA at the moment he looked us in the face and he said, "What files?" right? Are we still talking about..."

@@ -12,7 +12,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-2Riv3I7D0Yk](/episodes/ep-2Riv3I7D0Yk.md)
+### [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
 
 - [00:00:08](/episodes/ep-2Riv3I7D0Yk.md#^t-00-00-00)
   > "...ng homeschooling, so still getting adjusted to the new schedule. Where should we begin? Okay, well, Josh Hammer, because that's certainly getting a little more interesting, maybe a bit darker than we had anticip..."
@@ -85,12 +85,12 @@ _Type: People_
 - [01:05:08](/episodes/ep-2Riv3I7D0Yk.md#^t-01-04-32)
   > "...omo code CANDACE10 at checkout for 10% off. All right, guys, what do you guys think? Are you giving Josh Hammer a charitable read? Do you think that he was inspired because there were people that were bringing u..."
 
-### [ep-2WEHTk0Xewg](/episodes/ep-2WEHTk0Xewg.md)
+### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 
 - [00:49:58](/episodes/ep-2WEHTk0Xewg.md#^t-00-49-32)
   > "...d to me. We wouldn't be here if they didn't do that. They could have said anything, by the way—like Josh Hammer. I know how you were messaging him. Like, release the messages, buddy. Just release all of your thr..."
 
-### [ep-5autG89PW6w](/episodes/ep-5autG89PW6w.md)
+### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 
 - [00:13:26](/episodes/ep-5autG89PW6w.md#^t-00-13-12)
   > "... them to then probably get sued by every person that was not in the chat. Like I'm just like, "Hey, Josh Hammer received this message." That'd be so dumb. But like I said, these people were desperate for it not ..."
@@ -111,19 +111,19 @@ _Type: People_
 - [00:26:17](/episodes/ep-5autG89PW6w.md#^t-00-25-58)
   > "...l be no place that you can hide. Anyways, I want you guys to know that I was feeling so inspired by Josh Hammer's utter lack of human decency that I went ahead this week and sent around a life insurance policy o..."
 
-### [ep-JQjCAsfoXEE](/episodes/ep-JQjCAsfoXEE.md)
+### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 
 - [00:18:06](/episodes/ep-JQjCAsfoXEE.md#^t-00-17-32)
   > "...meone could have easily said something, right? That's kind of a repeat thing in this investigation. Josh Hammer lies; I get attacked. Turning Point just stays silent. They know he's lying, but they allow the lie..."
 
-### [ep-K5GjF53bfN4](/episodes/ep-K5GjF53bfN4.md)
+### [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 
 - [00:02:14](/episodes/ep-K5GjF53bfN4.md#^t-00-01-58)
   > "...that Charlie (Charlie Kirk) had written him back in May. What I also don't like are the people like Josh Hammer and Seth Dillon, people that I know who are very nasty and work behind the scenes. I don't like tha..."
 - [00:05:11](/episodes/ep-K5GjF53bfN4.md#^t-00-05-11)
   > "...illon was there, and Seth Dillon was the one that was applying pressure to him, and Seth Dillon and Josh Hammer—Josh Hammer didn't jump on him in that moment—were not happy. They were not happy with Charlie (Cha..."
 
-### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
+### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 
 - [00:16:22](/episodes/ep-LATnak75Si0.md#^t-00-15-44)
   > "...re in it makes no sense. You were never Trump (Donald Trump). If you're telling us that MAGA is now Josh Hammer, then MAGA is not MAGA, okay? MAGA needs a new leader. And it's pretty obvious that you guys recogn..."
@@ -132,7 +132,7 @@ _Type: People_
 - [00:49:48](/episodes/ep-LATnak75Si0.md#^t-00-49-34)
   > "...er) And again, the pro-Israel crowd would know a little something about that. Take a listen to what Josh Hammer said. "New York City—for the time being—it looks like you're pretty screwed. For the time being, it..."
 
-### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
+### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 
 - [00:00:10](/episodes/ep-MUA9ebCF4Ow.md#^t-00-00-00)
   > "...ury him in a yarmulke and then convince the world that he was actually besties with Ben Shapiro and Josh Hammer. He didn't even know Candace (Candace Owens). His last words before he died were, "Honor the Sabbat..."
@@ -141,7 +141,7 @@ _Type: People_
 - [00:16:25](/episodes/ep-MUA9ebCF4Ow.md#^t-00-15-57)
   > "...drew Kolvet. Another lie: Charlie (Charlie Kirk) never blinked in his support for Israel. Offender: Josh Hammer, Benjamin Netanyahu (Bibi), insert Zionist here—many Zionists, Christian Zionist influencers as wel..."
 
-### [ep-Qt0VHV-POCg](/episodes/ep-Qt0VHV-POCg.md)
+### [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 
 - [00:20:04](/episodes/ep-Qt0VHV-POCg.md#^t-00-19-52)
   > "...ew breed of human that I don't know about where you feel nothing? There's just nothing. It's like a Josh Hammer thing. They don't feel any sense of shame at all. And they can just go, go, go, go, go and pretend ..."
@@ -150,12 +150,12 @@ _Type: People_
 - [00:50:23](/episodes/ep-Qt0VHV-POCg.md#^t-00-49-55)
   > "... me? Like ASAP. It was basically his last words, right? And then, you know, that was what he said: "Josh Hammer, sell your book no matter what, man." Also on his list of instructions. Maria Garcia writes: "Canda..."
 
-### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
+### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
 
 - [00:34:49](/episodes/ep-YFmRH8p5lt0.md#^t-00-34-46)
   > "... anything. And suddenly there's an explosion, right? And they're really angry. They are very angry. Josh Hammer is angry. Seth Dillon is angry. Far be it from them to ever tell the truth about that. These people..."
 
-### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
+### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:29:24](/episodes/ep-ZAuuSq_j2_w.md#^t-00-29-14)
   > "...accept that, okay? And that's what he told me. By the way, he had a very busy night before. He told Josh Hammer that his book was the greatest thing and everyone should buy Josh Hammer's book. He had that meetin..."
@@ -164,7 +164,7 @@ _Type: People_
 - [00:31:21](/episodes/ep-ZAuuSq_j2_w.md#^t-00-31-17)
   > "..., Mikey McCoy? Or was he just full of fluff? Just full of fluff at the end. Just really just wanted Josh Hammer's book to be sold. You're bad at this. You wanna know why you're bad at this? Because you're inauth..."
 
-### [ep-c5BcKF91iec](/episodes/ep-c5BcKF91iec.md)
+### [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 
 - [00:33:11](/episodes/ep-c5BcKF91iec.md#^t-00-32-37)
   > "...ing whatever I want to do until the truth is told about what happened on 9/10. We should start with Josh Hammer, by the way, because he really has now become the king of defying no stereotypes— where we last lef..."
@@ -177,14 +177,14 @@ _Type: People_
 - [00:36:19](/episodes/ep-c5BcKF91iec.md#^t-00-36-14)
   > "...he way, that's a lot of words to say what I always say: like, we don't know—no, but we know. And on Josh Hammer, yeah, we know. You're not the good guy, okay? You have to believe in your gut. I keep telling you ..."
 
-### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
+### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 
 - [00:13:11](/episodes/ep-his-JBjlkh8.md#^t-00-13-03)
   > "...s campus was going to kill him tomorrow. And your silence during moments when people are lying—like Josh Hammer, when he said, "Hey, this never happened. Charlie (Charlie Kirk) never blinked on Israel"—makes you..."
 - [00:40:12](/episodes/ep-his-JBjlkh8.md#^t-00-40-02)
   > "...-Trump—simply because he hosted Dave Smith, who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer, who's a radical Zionist like herself, at one of his events. Charlie (Charlie Kirk) believed in fre..."
 
-### [ep-iHav0PPzUz8](/episodes/ep-iHav0PPzUz8.md)
+### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
 
 - [00:31:01](/episodes/ep-iHav0PPzUz8.md#^t-00-30-48)
   > "...tion with them—or maybe liking the person. Maybe people want to listen to him. Anyways, this led to Josh Hammer—who is our resident psycho who really does look like that. Like this is not—that's not AI, okay? Th..."
@@ -209,17 +209,17 @@ _Type: People_
 - [01:02:03](/episodes/ep-iHav0PPzUz8.md#^t-01-02-03)
   > "...follow Dave Smith. People know truth when they hear it, and they know lies when they see it. And in Josh Hammer's case—the wet hair thing—I wouldn't do it, Josh, is all I'm saying. I'm not trying to be mean. I j..."
 
-### [ep-ja26iltROkM](/episodes/ep-ja26iltROkM.md)
+### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 
 - [00:30:13](/episodes/ep-ja26iltROkM.md#^t-00-29-48)
   > "...f Charlie Kirk (Charlie Kirk) shared these messages." I'm going to guess it's either Seth Dillon or Josh Hammer. Could not be, but I'm just putting that out there because of the style of the messages. And he say..."
 
-### [ep-ozWJz2spBcI](/episodes/ep-ozWJz2spBcI.md)
+### [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
 
 - [00:17:50](/episodes/ep-ozWJz2spBcI.md#^t-00-17-17)
   > "... other seven. Actually, you know what? I disagree with myself four seconds ago. Let's just throw in Josh Hammer, for funsies. He's on this chat, okay. So what are we to make of that? Okay, now that I'm showing y..."
 
-### [ep-pc3pxRyNFZk](/episodes/ep-pc3pxRyNFZk.md)
+### [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
 
 - [00:00:35](/episodes/ep-pc3pxRyNFZk.md#^t-00-00-00)
   > "...because I have new information, and I'm presenting it to the public today. Plus, later on the show, Josh Hammer has emerged. You know, he's the one that thinks that all white men, all white European men, are ant..."
@@ -236,7 +236,7 @@ _Type: People_
 - [00:46:33](/episodes/ep-pc3pxRyNFZk.md#^t-00-46-21)
   > "... tomorrow—where exactly it was that he was debating tomorrow. I don't know anything other than that Josh Hammer is an idiot who can't be trusted and lies through his teeth. I do wanna get to speaking on the topi..."
 
-### [ep-q7f8r-THr84](/episodes/ep-q7f8r-THr84.md)
+### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
 
 - [00:41:22](/episodes/ep-q7f8r-THr84.md#^t-00-41-03)
   > "... in the Hamptons, okay? Bring in our movie poster. I Know What You Did This Summer. Okay, gotta add Josh Hammer's face to that poster as well, because suddenly everybody's talking. So let's buckle up for some mo..."
@@ -249,7 +249,7 @@ _Type: People_
 - [00:43:40](/episodes/ep-q7f8r-THr84.md#^t-00-43-40)
   > "...a severe misrepresentation by Benjamin Netanyahu and his echo here in America, of which I would say Josh Hammer and Seth Dillon are part of that echo, okay? I am in no way attacking that narrative and associatin..."
 
-### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
+### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
 
 - [00:43:54](/episodes/ep-vwG1juDCQZQ.md#^t-00-43-54)
   > "...y aren't you guys doing shows if you're so interested in debunking lies? Have you done a show about Josh Hammer? When we drop the text messages, did you do a show and go, "Wow, Josh Hammer really lied about Char..."
@@ -261,14 +261,14 @@ _Type: People_
 ### Employed By
 
 - [The Daily Wire](/entities/org-the-daily-wire.md)
-  - [ep-2Riv3I7D0Yk @ 00:15:43](/episodes/ep-2Riv3I7D0Yk.md#^t-00-15-07): "He was at one point the editor-at-large of the Daily Wire"
+  - [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 00:15:43](/episodes/ep-2Riv3I7D0Yk.md#^t-00-15-07): "He was at one point the editor-at-large of the Daily Wire"
 
 ### Works At
 
 - [Newsweek](/entities/org-newsweek.md)
-  - [ep-iHav0PPzUz8 @ 00:49:38](/episodes/ep-iHav0PPzUz8.md#^t-00-49-33): "Josh Hammer is actually the editor at large at Newsweek."
+  - [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:49:38](/episodes/ep-iHav0PPzUz8.md#^t-00-49-33): "Josh Hammer is actually the editor at large at Newsweek."
 
 ### Referenced By
 
 - [Dave Smith](/entities/person-dave-smith.md) **debated** this
-  - [ep-his-JBjlkh8 @ 00:03:58](/episodes/ep-his-JBjlkh8.md#^t-00-03-40)
+  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:58](/episodes/ep-his-JBjlkh8.md#^t-00-03-40)
