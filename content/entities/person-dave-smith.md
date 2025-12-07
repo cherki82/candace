@@ -12,46 +12,46 @@ _Type: People_
 
 ## Mentions
 
-### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
+### [ep-Qfwr08Ebczo](/episodes/ep-Qfwr08Ebczo.md)
 
 - [00:32:39](/episodes/ep-Qfwr08Ebczo.md#^t-00-32-18)
   > "...tics got together. Tucker (Tucker Carlson) joined Dave Smith. I kind of want to qualify Tucker (Tucker Carlson). I feel like I want to say "the stupendous Tucke..."
 
-### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
+### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
 
 - [00:31:56](/episodes/ep-YFmRH8p5lt0.md#^t-00-31-52)
   > "...Epstein, right? He's calling out Jeffrey Epstein. Dave Smith is speaking. They're talking about Israel being a problem. He's getting cheers from the crowd, righ..."
 
-### [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
+### [ep-czVBmqZP6Ss](/episodes/ep-czVBmqZP6Ss.md)
 
 - [00:11:41](/episodes/ep-czVBmqZP6Ss.md#^t-00-11-22)
   > "...Turning Point, for among other things. So you had Dave Smith there. Dave Smith is allowed to criticize Israel. Both sides, the Israeli side was a little represe..."
 
-### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
+### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 
 - [00:40:02](/episodes/ep-his-JBjlkh8.md#^t-00-39-20)
   > "...that he wasn't pro-Trump—simply because he hosted Dave Smith, who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer, who's a radical Zionist like ..."
 
-### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
+### [ep-iHav0PPzUz8](/episodes/ep-iHav0PPzUz8.md)
 
 - [00:35:05](/episodes/ep-iHav0PPzUz8.md#^t-00-34-51)
   > "...g jokes—went onto Piers Morgan and decided to put Dave Smith—who I love—through a struggle session, explaining why. And yes, this is the same Seth Dillon at tha..."
 
-### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
+### [ep-q7f8r-THr84](/episodes/ep-q7f8r-THr84.md)
 
 - [00:40:54](/episodes/ep-q7f8r-THr84.md#^t-00-40-20)
   > "...cast to people that were on stage at America Fest—Dave Smith, Tucker (Tucker Carlson). That is reality, my friends. Again, want those people to know your money ..."
 - [00:40:36](/episodes/ep-q7f8r-THr84.md#^t-00-40-20)
   > "...cast to people that were on stage at America Fest—Dave Smith, Tucker Carlson (Tucker Carlson). That is reality, my friends. Again, want those people to know you..."
 
-### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
+### [ep-sreYYcID-QY](/episodes/ep-sreYYcID-QY.md)
 
 - [00:32:07](/episodes/ep-sreYYcID-QY.md#^t-00-31-58)
   > "...on) never said that. Megyn Kelly never said that. Dave Smith never said that. Instead what we are doing is we are disputing Benjamin Netanyahu's (Bibi) narrativ..."
 - [00:32:10](/episodes/ep-sreYYcID-QY.md#^t-00-31-58)
   > "...son never said that. Megyn Kelly never said that. Dave Smith never said that. Instead what we are doing is we are disputing Benjamin Netanyahu's narrative that ..."
 
-### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
+### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
 
 - [01:04:11](/episodes/ep-vwG1juDCQZQ.md#^t-01-03-27)
   > "...Antonio writes: "Candace, you should team up with Dave Smith, Ian Carroll, and Jimmy Dore. Form a coalition: share editors, push promotion, and spark Occupy Wal..."
@@ -61,4 +61,4 @@ _Type: People_
 ### Debated
 
 - [Josh Hammer](/entities/person-josh-hammer.md)
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:58](/episodes/ep-his-JBjlkh8.md#^t-00-03-40): ""he hosted Dave Smith, who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer,""
+  - [ep-his-JBjlkh8 @ 00:03:58](/episodes/ep-his-JBjlkh8.md#^t-00-03-40): ""he hosted Dave Smith, who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer,""

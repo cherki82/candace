@@ -12,32 +12,32 @@ _Type: Organizations_
 
 ## Mentions
 
-### [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
+### [ep-Cq7nj9rxPdo](/episodes/ep-Cq7nj9rxPdo.md)
 
 - [00:29:13](/episodes/ep-Cq7nj9rxPdo.md#^t-00-28-37)
   > "...arlie was Dr. Lee Trotter. And regarding Dr. Lee Trotter, he had his residency on the Air Force base. He completed residency at the Keesler Air Force Medical Center in Mississippi. I think he actually..."
 
-### [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
+### [ep-YaZfwLQ7vrI](/episodes/ep-YaZfwLQ7vrI.md)
 
 - [00:16:48](/episodes/ep-YaZfwLQ7vrI.md#^t-00-16-39)
   > "...ilitary families. High-ranking military families have been around for a long time: ties to the Navy, ties to the Air Force. Frank Turek (Frank Turek), Air Force. Rob McCoy—we discussed about his backg..."
 
-### [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
+### [ep-ZGxnf5cj4Uw](/episodes/ep-ZGxnf5cj4Uw.md)
 
 - [00:50:39](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-50-29)
   > "...'t know if it's his family, but the Mitchell name in that area was coming up for like Air Force. And so I—again—when I get into these places where I can't find any more information, I turn to you guys..."
 
-### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
+### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:14:22](/episodes/ep-a-e7HC6SeK8.md#^t-00-14-05)
   > ".... Everyone was like, "Who's filming his casket," as it's being escorted off of Air Force Two, crying, holding that—Stacey. Like I said, I just felt spiritually that Charlie (Charlie Kirk) hiring her w..."
 
-### [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
+### [ep-c5BcKF91iec](/episodes/ep-c5BcKF91iec.md)
 
 - [00:04:27](/episodes/ep-c5BcKF91iec.md#^t-00-04-27)
   > "... Sheridan even. If you're wondering who Stacey Sheridan is, by the way, she's the one who's holding the camera when Charlie's casket is being escorted off of Air Force Two. She's like the chief money ..."
 
-### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
+### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 
 - [00:16:49](/episodes/ep-his-JBjlkh8.md#^t-00-16-49)
   > "...ight? So, yeah, you're still being dishonest, but carry on. Candace has made other stranger allegations involving French paratroopers in maroon shirts, Egyptian Air Force planes flying out of Provo, U..."
@@ -46,7 +46,7 @@ _Type: Organizations_
 - [00:37:55](/episodes/ep-his-JBjlkh8.md#^t-00-37-21)
   > "...It's headquarters for the Army, the Navy, and the Air Force. And recently, because the American government wants the world to no longer take us seriously as a ..."
 
-### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
+### [ep-iHav0PPzUz8](/episodes/ep-iHav0PPzUz8.md)
 
 - [00:12:21](/episodes/ep-iHav0PPzUz8.md#^t-00-11-49)
   > "...g something. So I reported that on the day of Charlie (Charlie Kirk)'s assassination, an Egyptian Air Force plane took off from Provo, Utah airport. I reported that even more curiously that Egyptian m..."
@@ -55,7 +55,7 @@ _Type: Organizations_
 - [00:27:44](/episodes/ep-iHav0PPzUz8.md#^t-00-27-20)
   > "...ca had landed on American air bases, I didn't mean they physically landed on American air bases. I meant that they landed in cities where there are Air Force bases. And the notable exception here is t..."
 
-### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
+### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:05:58](/episodes/ep-mKXdKV-OBog.md#^t-00-05-45)
   > "...came into the United States on September 4th. You might recall it stopped for just one hour in Minot, North Dakota, which I learned has an Air Force base. It pretty much is just the Air Force base, by..."
@@ -70,7 +70,7 @@ _Type: Organizations_
 - [00:17:26](/episodes/ep-mKXdKV-OBog.md#^t-00-17-10)
   > "...ther of Pastor Jack Hibbs. Obviously sons—I showed you—of an Air Force chief. Tyler Robinson is a Boy Scout whose Uncle Mitchell may be related. People have pulled this off of the internet, and I don'..."
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:16:36](/episodes/ep-tB5SXXmd9vU.md#^t-00-16-09)
   > "...ediately. It was a joint exercise with civilians, which included military men from the Minot Air Force Base. And that joint exercise took place in Minnesota at Camp Ripley, and that ran just for a cou..."
@@ -80,9 +80,9 @@ _Type: Organizations_
 ### Headquartered In
 
 - [United States Pentagon](/entities/org-united-states-pentagon.md)
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#^t-00-01-31): ""It's headquarters for the Army, the Navy, and the Air Force.""
+  - [ep-his-JBjlkh8 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#^t-00-01-31): ""It's headquarters for the Army, the Navy, and the Air Force.""
 
 ### Referenced By
 
 - [Carl Wallnau](/entities/person-carl-wallnau.md) **employed by** this
-  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:17:14](/episodes/ep-YaZfwLQ7vrI.md#^t-00-16-39)
+  - [ep-YaZfwLQ7vrI @ 00:17:14](/episodes/ep-YaZfwLQ7vrI.md#^t-00-16-39)

@@ -8,7 +8,7 @@ _Type: Work_
 
 ## Mentions
 
-### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
+### [ep-QZWSsq8ZWzw](/episodes/ep-QZWSsq8ZWzw.md)
 
 - [00:18:16](/episodes/ep-QZWSsq8ZWzw.md#^t-00-17-56)
   > "...oviet ideology. I tell people a must-read book is Inside American Education by Thomas Sowell. It is not left or right. He is just telling you how it all came together—the decl..."

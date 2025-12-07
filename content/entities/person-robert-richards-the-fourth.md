@@ -13,7 +13,7 @@ _Type: People_
 
 ## Mentions
 
-### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
+### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:07:02](/episodes/ep-a-e7HC6SeK8.md#^t-00-06-21)
   > "...ry and you should read this. And it tells us that Robert Richards the Fourth was in 2009 convicted of raping his three-year-old daughter, seven years after she, who was just fi..."
@@ -23,5 +23,5 @@ _Type: People_
 ### Referenced By
 
 - [Robert H. Richards](/entities/person-robert-h-richards.md) **parent of** this
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:08:27](/episodes/ep-a-e7HC6SeK8.md#^t-00-07-45)
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:08:27](/episodes/ep-a-e7HC6SeK8.md#^t-00-07-45)
+  - [ep-a-e7HC6SeK8 @ 00:08:27](/episodes/ep-a-e7HC6SeK8.md#^t-00-07-45)
+  - [ep-a-e7HC6SeK8 @ 00:08:27](/episodes/ep-a-e7HC6SeK8.md#^t-00-07-45)

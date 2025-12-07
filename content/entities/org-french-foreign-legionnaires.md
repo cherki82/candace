@@ -8,7 +8,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:59:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-58-43)
   > "...me National Guard regiments that were there, some French Foreign Legionnaires that were there, and yes, some Israelis that were there, hence the 12 Israeli cell phones, an..."
@@ -18,4 +18,4 @@ _Type: Organizations_
 ### Member Of
 
 - [French Foreign Legion](/entities/org-french-foreign-legion.md)
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:59:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-58-43): "...some French Foreign Legionnaires that were there..."
+  - [ep-tB5SXXmd9vU @ 00:59:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-58-43): "...some French Foreign Legionnaires that were there..."

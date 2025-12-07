@@ -3,9 +3,10 @@ title: "In June of 1997, the Department of Justice's own directory l..."
 claim_id: "claim-8b6ddf3a6948"
 episode: "SKGUzGHymcI"
 type: "factual"
+veracity: "unverifiable"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ❓ Unverifiable
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,10 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+
+### Analysis
+
+No corroborating sources found
 
 ## Follow-up
 

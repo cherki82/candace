@@ -8,12 +8,12 @@ _Type: People_
 
 ## Mentions
 
-### [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
+### [ep-581dILVcEE4](/episodes/ep-581dILVcEE4.md)
 
 - [00:03:02](/episodes/ep-581dILVcEE4.md#^t-00-02-51)
   > "... published your private address and then somebody could go to your home and harm you, that's what they're accusing me of. Erin Wexler—now this is the girl that was at the now infamous Hamptons retreat..."
 
-### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
+### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
 
 - [00:21:09](/episodes/ep-LATnak75Si0.md#^t-00-20-53)
   > "... Z or to say to Brett Cooper, "Hey, I'd love to have you on our show," or "Hey, I'd love for you to meet this person," they're already calling her the white Candace (Candace Owens). If you're Erin Wex..."
@@ -23,4 +23,4 @@ _Type: People_
 ### Criticized
 
 - [Candace Owens](/entities/person-candace-owens.md)
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:03:02](/episodes/ep-581dILVcEE4.md#^t-00-02-51): "Erin Wexler—now this is the girl that was at the now infamous Hamptons retreat— She wrote this: "Candace (Candace Owens) started her career by doxing teenagers.""
+  - [ep-581dILVcEE4 @ 00:03:02](/episodes/ep-581dILVcEE4.md#^t-00-02-51): "Erin Wexler—now this is the girl that was at the now infamous Hamptons retreat— She wrote this: "Candace (Candace Owens) started her career by doxing teenagers.""

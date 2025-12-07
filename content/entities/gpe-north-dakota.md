@@ -8,12 +8,12 @@ _Type: Places_
 
 ## Mentions
 
-### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
+### [ep-iHav0PPzUz8](/episodes/ep-iHav0PPzUz8.md)
 
 - [00:19:07](/episodes/ep-iHav0PPzUz8.md#^t-00-18-24)
   > "...from September 4th—it went from Cairo to Paris to France to Minot, North Dakota. On September 10th, it departed Provo—I think I'm missing one here, right? I..."
 
-### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
+### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:06:30](/episodes/ep-mKXdKV-OBog.md#^t-00-05-45)
   > "...ght recall it stopped for just one hour in Minot, North Dakota, which I learned has an Air Force base. It pretty much is just the Air Force base, by the way, befo..."

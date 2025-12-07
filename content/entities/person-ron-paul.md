@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
+### [ep-r1PS67aRmcA](/episodes/ep-r1PS67aRmcA.md)
 
 - [00:02:00](/episodes/ep-r1PS67aRmcA.md#^t-00-01-26)
   > "... back to. Also, this was a real tweet directed at Ron Paul. "Ron Paul is manifestly insane. As in previous debates, he is now gripping the pen as he would the..."

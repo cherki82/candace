@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
+### [ep-K5GjF53bfN4](/episodes/ep-K5GjF53bfN4.md)
 
 - [00:39:51](/episodes/ep-K5GjF53bfN4.md#^t-00-39-27)
   > "...(Charlie Kirk) was real, actually, a shout out to Taylor Lorenz (Taylor Lorenz). I obviously didn't watch what everybody else was saying about Charlie (Charlie Kir..."

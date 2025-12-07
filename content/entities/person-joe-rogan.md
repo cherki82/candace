@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
+### [ep-c5BcKF91iec](/episodes/ep-c5BcKF91iec.md)
 
 - [00:02:20](/episodes/ep-c5BcKF91iec.md#^t-00-01-39)
   > "...had to get there very quickly because I was doing Joe Rogan's podcast, which was huge. I didn't even know what the Joe Rogan podcast was at that moment. That's..."

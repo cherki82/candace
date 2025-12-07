@@ -12,7 +12,7 @@ _Type: People_
 
 ## Mentions
 
-### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
+### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:04:29](/episodes/ep-a-e7HC6SeK8.md#^t-00-04-18)
   > "... to say, did you know that our FBI was founded by Charles Joseph Bonaparte? I had no idea. I hate to be American ignorant, but I had no idea. And yes, that man was the founde..."
@@ -24,6 +24,6 @@ _Type: People_
 ### Founded
 
 - [FBI](/entities/org-fbi.md)
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:04:29](/episodes/ep-a-e7HC6SeK8.md#^t-00-04-18): "our FBI was founded by Charles Joseph Bonaparte"
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:04:29](/episodes/ep-a-e7HC6SeK8.md#^t-00-04-18): "did you know that our FBI was founded by Charles Joseph Bonaparte?"
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:04:29](/episodes/ep-a-e7HC6SeK8.md#^t-00-04-18): "...did you know that our FBI was founded by Charles Joseph Bonaparte..."
+  - [ep-a-e7HC6SeK8 @ 00:04:29](/episodes/ep-a-e7HC6SeK8.md#^t-00-04-18): "our FBI was founded by Charles Joseph Bonaparte"
+  - [ep-a-e7HC6SeK8 @ 00:04:29](/episodes/ep-a-e7HC6SeK8.md#^t-00-04-18): "did you know that our FBI was founded by Charles Joseph Bonaparte?"
+  - [ep-a-e7HC6SeK8 @ 00:04:29](/episodes/ep-a-e7HC6SeK8.md#^t-00-04-18): "...did you know that our FBI was founded by Charles Joseph Bonaparte..."

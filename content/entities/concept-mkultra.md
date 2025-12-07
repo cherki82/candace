@@ -12,17 +12,17 @@ _Type: Concepts_
 
 ## Mentions
 
-### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
+### [ep-QZWSsq8ZWzw](/episodes/ep-QZWSsq8ZWzw.md)
 
 - [00:26:49](/episodes/ep-QZWSsq8ZWzw.md#^t-00-26-44)
   > "...eality of what happened throughout the 1960s when MKUltra, when that program was running. And I have no reason to believe that that program was ever disconti..."
 
-### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
+### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
 
 - [00:22:49](/episodes/ep-sImMM04XdWY.md#^t-00-22-25)
   > "...suing was running. And that was us discussing the MKUltra program and Brigitte Macron strangely and Emmanuel mentioning MKUltra in the lawsuit to us 18 times..."
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:37:32](/episodes/ep-tB5SXXmd9vU.md#^t-00-37-15)
   > "... on the basis of my lawsuit and the mentioning of MKUltra 18 times absurdly in my lawsuit, even though all we said was, hey, Brigitte's fake birthday happens..."

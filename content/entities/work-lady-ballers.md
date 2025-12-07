@@ -8,7 +8,7 @@ _Type: Work_
 
 ## Mentions
 
-### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
+### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
 
 - [00:22:21](/episodes/ep-LATnak75Si0.md#^t-00-22-10)
   > "... that Brett Cooper starred in at the Daily Wire: "Lady Ballers." You're good friends with Michael Knowles. You know fully well who Brett Cooper is. And that was a..."

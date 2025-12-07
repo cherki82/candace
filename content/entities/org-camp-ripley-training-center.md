@@ -13,12 +13,12 @@ _Type: Organizations_
 
 ## Mentions
 
-### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
+### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:23:52](/episodes/ep-a-e7HC6SeK8.md#^t-00-23-23)
   > "...takes place between civilians and military men in Minnesota at Camp Ripley. Then we have the first public sign that went out on August 27th. August 27th, that'..."
 
-### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
+### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:08:40](/episodes/ep-mKXdKV-OBog.md#^t-00-08-31)
   > "...m Minot Air Force Base, North Dakota, traveled to Camp Ripley Training Center in Minnesota, August 24, 2024. The advanced training focused on air-based ground defense and nuclea..."
@@ -27,7 +27,7 @@ _Type: Organizations_
 - [00:09:13](/episodes/ep-mKXdKV-OBog.md#^t-00-09-13)
   > "...l-distance live-fire exercises. Camp Ripley provided full-distance firing ranges, which allowed defenders to hone their rifle marksmanship and machine gun proficiency, exceeding the capabilities of st..."
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:16:44](/episodes/ep-tB5SXXmd9vU.md#^t-00-16-09)
   > "...nd that joint exercise took place in Minnesota at Camp Ripley, and that ran just for a couple of days until August 27th, and that was known as Operation Valhalla..."
@@ -41,4 +41,4 @@ _Type: Organizations_
 ### Based In
 
 - [Minnesota](/entities/gpe-minnesota.md)
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:16:44](/episodes/ep-tB5SXXmd9vU.md#^t-00-16-09): "...that joint exercise took place in Minnesota at Camp Ripley..."
+  - [ep-tB5SXXmd9vU @ 00:16:44](/episodes/ep-tB5SXXmd9vU.md#^t-00-16-09): "...that joint exercise took place in Minnesota at Camp Ripley..."

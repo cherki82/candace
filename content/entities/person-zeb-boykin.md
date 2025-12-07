@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
+### [ep-c5BcKF91iec](/episodes/ep-c5BcKF91iec.md)
 
 - [00:04:08](/episodes/ep-c5BcKF91iec.md#^t-00-03-48)
   > "...rroll), Zeb Boykin, many others. And a video from September 10th has gone pretty viral, okay? So let's take a look at this. It's a video of, of course, Pastor Rob M..."

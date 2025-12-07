@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
+### [ep-t1YtLS1n8Vs](/episodes/ep-t1YtLS1n8Vs.md)
 
 - [00:24:35](/episodes/ep-t1YtLS1n8Vs.md#^t-00-24-03)
   > "...that. We will continue to grow this witness tree. Robbie Hilde, we've put a TBD on because we're getting crazy information on him. We're calling him Mr. Worldwide..."

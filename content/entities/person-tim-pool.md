@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
+### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:31:39](/episodes/ep-ZAuuSq_j2_w.md#^t-00-31-17)
   > "..., okay? In other news and emotional manipulation, Tim Pool was having some sort of a breakdown. I don't really know what it's about. I don't know why he's twe..."

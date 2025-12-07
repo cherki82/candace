@@ -8,19 +8,19 @@ _Type: People_
 
 ## Mentions
 
-### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
+### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
 
 - [00:38:29](/episodes/ep-MUA9ebCF4Ow.md#^t-00-38-29)
   > "...h-ranking enemy officials. Now, in response to the comments on that same day, Elijah Schaffer posted a photo of Alexis Wilkins—that is her name—and Patel. So this is what they're suing over, right her..."
 - [00:42:39](/episodes/ep-MUA9ebCF4Ow.md#^t-00-42-13)
   > "I wake up. I'm called the N-word. Big deal. The internet is optional, Alexis Wilkins. It's optional, Kash Patel. This lawsuit is pathetic."
 
-### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
+### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:32:20](/episodes/ep-mKXdKV-OBog.md#^t-00-32-20)
   > "... wrong. Like I'm engaged in—I make one slight mention, joke about Alexis Wilkins referring to Tim Dillon's content, and us getting a strike. And she goes on a rant against me—not against Tim Dillon, o..."
 
-### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
+### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:45:31](/episodes/ep-yAIb-NuUh_U.md#^t-00-45-19)
   > "...knows what she was doing in Switzerland—just loves him for him and was in the right place at the right time. By the way, I should mention Alexis Wilkins is her name—Alexis Wilkins. She's also a member..."
@@ -30,14 +30,14 @@ _Type: People_
 ### Member Of
 
 - [Calvary Chapel Chino Hills](/entities/org-calvary-chapel-chino-hills.md)
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:45:35](/episodes/ep-yAIb-NuUh_U.md#^t-00-45-19): "Alexis Wilkins is her name—Alexis Wilkins. She's also a member of the Calvary Chapel Church in California—Chino Hills."
+  - [ep-yAIb-NuUh_U @ 00:45:35](/episodes/ep-yAIb-NuUh_U.md#^t-00-45-19): "Alexis Wilkins is her name—Alexis Wilkins. She's also a member of the Calvary Chapel Church in California—Chino Hills."
 
 ### Sued
 
 - [Elijah Schaffer](/entities/person-elijah-schaffer.md)
-  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:37:22](/episodes/ep-MUA9ebCF4Ow.md#^t-00-37-04): "his girlfriend turns out is suing Elijah Schaffer"
+  - [ep-MUA9ebCF4Ow @ 00:37:22](/episodes/ep-MUA9ebCF4Ow.md#^t-00-37-04): "his girlfriend turns out is suing Elijah Schaffer"
 
 ### Referenced By
 
 - [Kash Patel](/entities/person-kash-patel.md) **dating** this
-  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:37:00](/episodes/ep-MUA9ebCF4Ow.md#^t-00-36-22)
+  - [ep-MUA9ebCF4Ow @ 00:37:00](/episodes/ep-MUA9ebCF4Ow.md#^t-00-36-22)

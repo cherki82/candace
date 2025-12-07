@@ -8,7 +8,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
+### [ep-t1YtLS1n8Vs](/episodes/ep-t1YtLS1n8Vs.md)
 
 - [00:28:16](/episodes/ep-t1YtLS1n8Vs.md#^t-00-27-37)
   > "...that then you have to kind of put together like a Warren Commission, right? JFK, the Warren Commission, a complete and utter farce to pretend like the government's tak..."

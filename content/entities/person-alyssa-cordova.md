@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
+### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
 
 - [00:44:37](/episodes/ep-vwG1juDCQZQ.md#^t-00-43-54)
   > "... will also mention that Allie has strangely hired Alyssa Cordova. And this is just not a match for me. Alyssa Cordova was formerly the PR person—head PR person at D..."

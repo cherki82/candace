@@ -8,7 +8,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
+### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:09:12](/episodes/ep-yAIb-NuUh_U.md#^t-00-08-29)
   > "...rding that sentencing. Here's the headline in the LA Times. This is from 1995, as you can see. The headline reads: "Child molester draws an eight-year term in..."

@@ -8,7 +8,7 @@ _Type: Work_
 
 ## Mentions
 
-### [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
+### [ep-czVBmqZP6Ss](/episodes/ep-czVBmqZP6Ss.md)
 
 - [00:38:35](/episodes/ep-czVBmqZP6Ss.md#^t-00-38-05)
   > "...l I was insisting that everybody read that book, “Chaos,” about the Charles Manson murders. And what we learn from that book is that if the government does..."

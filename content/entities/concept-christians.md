@@ -8,7 +8,7 @@ _Type: Concepts_
 
 ## Mentions
 
-### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
+### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:43:53](/episodes/ep-a-e7HC6SeK8.md#^t-00-43-12)
   > "... believe he was, because I think there's a war on Christians that's happening—then the West and the United States were implicated in part by a false flag attack..."

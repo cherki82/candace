@@ -12,7 +12,7 @@ _Type: People_
 
 ## Mentions
 
-### [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
+### [ep-Qt0VHV-POCg](/episodes/ep-Qt0VHV-POCg.md)
 
 - [00:14:41](/episodes/ep-Qt0VHV-POCg.md#^t-00-14-01)
   > "... You know, Martin Luther King vibes. I don't like Martin Luther King Jr.'s holiday. I think maybe the feds definitely killed Martin Luther King Jr. Oh, in school we get to ..."

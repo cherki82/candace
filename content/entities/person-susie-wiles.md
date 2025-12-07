@@ -12,7 +12,7 @@ _Type: People_
 
 ## Mentions
 
-### [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
+### [ep-Qt0VHV-POCg](/episodes/ep-Qt0VHV-POCg.md)
 
 - [00:18:37](/episodes/ep-Qt0VHV-POCg.md#^t-00-18-22)
   > "...on that Kash Patel decided to have a meeting with Susie Wiles and Joe Kent and Tulsi Gabbard and Trump officials. I think it said JD Vance was in this meeting as..."

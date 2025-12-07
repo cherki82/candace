@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
+### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
 
 - [00:00:05](/episodes/ep-LATnak75Si0.md#^t-00-00-00)
   > "...Happy Wednesday for some people in New York City. Mamdani won. Okay, that's kind of the big story. The Republican establishment—they have a lot of excuses re..."
@@ -23,7 +23,7 @@ _Type: People_
 - [00:10:30](/episodes/ep-LATnak75Si0.md#^t-00-09-44)
   > "...ective of the money that was donated against him. Michael Bloomberg also gave money to a Cuomo-affiliated super PAC. He gave $8.3 million to stop Mamdani, and it didn'..."
 
-### [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
+### [ep-r1PS67aRmcA](/episodes/ep-r1PS67aRmcA.md)
 
 - [00:05:30](/episodes/ep-r1PS67aRmcA.md#^t-00-05-14)
   > "...on his show is once. And it was in the context of Marjorie Taylor Greene and Tucker (Tucker Carlson) talking about the appeal of Zohran Mamdani. Just by way of contrast, no..."

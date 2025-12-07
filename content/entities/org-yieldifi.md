@@ -8,7 +8,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
+### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:19:16](/episodes/ep-a-e7HC6SeK8.md#^t-00-19-05)
   > "...e end of July—this is a new little update for you—YieldiFi comes in as the number one sponsor of the Charlie Kirk fall tour. So this is end of July, early Aug..."

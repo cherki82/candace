@@ -8,12 +8,12 @@ _Type: Places_
 
 ## Mentions
 
-### [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
+### [ep-2Riv3I7D0Yk](/episodes/ep-2Riv3I7D0Yk.md)
 
 - [00:11:50](/episodes/ep-2Riv3I7D0Yk.md#^t-00-11-41)
   > "...Qatar or something. 11:33 a.m., he tweets against Saudi Arabia because they came out and made a statement against what Israel had done. So he tweets against Saudi..."
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:13:29](/episodes/ep-tB5SXXmd9vU.md#^t-00-13-15)
   > "...ss, and members in pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, and France. Israel's involved, Rhodesia, South Africa. I mean, it tells you there that th..."
@@ -25,4 +25,4 @@ _Type: Places_
 ### Member Of
 
 - [Safari Club](/entities/org-safari-club.md)
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:13:29](/episodes/ep-tB5SXXmd9vU.md#^t-00-13-15): "...members in pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, and France..."
+  - [ep-tB5SXXmd9vU @ 00:13:29](/episodes/ep-tB5SXXmd9vU.md#^t-00-13-15): "...members in pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, and France..."

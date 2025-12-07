@@ -12,7 +12,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
+### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:24:51](/episodes/ep-ZAuuSq_j2_w.md#^t-00-24-28)
   > "...nd of strange that neither the White House or the Élysée Palace or even the United States Pentagon has formally denied this quote unquote crazy claim? That's what ..."
@@ -21,7 +21,7 @@ _Type: Organizations_
 - [00:21:14](/episodes/ep-ZAuuSq_j2_w.md#^t-00-20-32)
   > "... the White House or the Élysée Palace or even the United States Pentagon has formally denied this quote unquote crazy claim? That's what Hollywood's for, right? Yo..."
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:22:30](/episodes/ep-tB5SXXmd9vU.md#^t-00-21-46)
   > "... yes-or-no answers from the White House, from the Élysée Palace, or from the French security forces. Now, as it pertains to the French Legion, something else that'..."

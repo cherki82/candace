@@ -8,7 +8,7 @@ _Type: Dates_
 
 ## Mentions
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:21:46](/episodes/ep-tB5SXXmd9vU.md#^t-00-21-14)
   > "...27th, another joint military operation began from August 29th through to September 10th, the day that Charlie (Charlie Kirk) was shot. And that was known as Oper..."

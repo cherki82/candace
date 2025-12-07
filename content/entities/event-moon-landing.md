@@ -8,7 +8,7 @@ _Type: Events_
 
 ## Mentions
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:37:15](/episodes/ep-tB5SXXmd9vU.md#^t-00-36-33)
   > "...gitte was in America in the 60s, at least for the moon landing, no details provided about what Brigitte was doing when he experienced the moon landing with Americ..."

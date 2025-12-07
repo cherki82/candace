@@ -8,7 +8,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
+### [ep-K1tFD7FfoCU](/episodes/ep-K1tFD7FfoCU.md)
 
 - [00:01:30](/episodes/ep-K1tFD7FfoCU.md#^t-00-00-46)
   > "...ters. So what happened was he was on stage at the Republican Jewish Coalition. He and many others, by the way—many other treasonous congressmen—basically directed their fire and..."

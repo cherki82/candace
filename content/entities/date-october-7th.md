@@ -12,7 +12,7 @@ _Type: Dates_
 
 ## Mentions
 
-### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
+### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:48:42](/episodes/ep-ZAuuSq_j2_w.md#^t-00-48-37)
   > "...el. And then he authentically had questions after October 7th. And then he was authentically angry and recognizing how much control was around him. And the infil..."

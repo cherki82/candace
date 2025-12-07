@@ -8,7 +8,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
+### [ep-Qfwr08Ebczo](/episodes/ep-Qfwr08Ebczo.md)
 
 - [00:13:54](/episodes/ep-Qfwr08Ebczo.md#^t-00-13-27)
   > "... Texas. The Wilks Brothers are the ones that fund DailyWire, the initial seed money behind DailyWire—not the initial seed money behind PragerU, but they majorly fun..."
@@ -18,4 +18,4 @@ _Type: Organizations_
 ### Referenced By
 
 - [Wilks Brothers](/entities/person-wilks-brothers.md) **invested in** this
-  - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:54](/episodes/ep-Qfwr08Ebczo.md#^t-00-13-27)
+  - [ep-Qfwr08Ebczo @ 00:13:54](/episodes/ep-Qfwr08Ebczo.md#^t-00-13-27)

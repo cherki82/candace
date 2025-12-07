@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
+### [ep-pc3pxRyNFZk](/episodes/ep-pc3pxRyNFZk.md)
 
 - [00:14:31](/episodes/ep-pc3pxRyNFZk.md#^t-00-14-31)
   > "...lar, but if we do, let's roll it. (Clip: Cooper Brown) That day we had 30 or so student volunteers that were designated roles that were going to be helping pass out Turning Point USA merchandise and g..."
@@ -22,4 +22,4 @@ _Type: People_
 ### Works At
 
 - [Leadership Institute](/entities/org-leadership-institute.md)
-  - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:13:20](/episodes/ep-pc3pxRyNFZk.md#^t-00-13-06): "So I work for an organization called Leadership Institute."
+  - [ep-pc3pxRyNFZk @ 00:13:20](/episodes/ep-pc3pxRyNFZk.md#^t-00-13-06): "So I work for an organization called Leadership Institute."

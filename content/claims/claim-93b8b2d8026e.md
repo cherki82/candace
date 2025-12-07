@@ -3,9 +3,10 @@ title: "Charlie Kirk's gonna get shot at 12:23."
 claim_id: "claim-93b8b2d8026e"
 episode: "SKGUzGHymcI"
 type: "factual"
+veracity: "unverifiable"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ❓ Unverifiable
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,10 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+
+### Analysis
+
+No corroborating sources found
 
 ## Follow-up
 

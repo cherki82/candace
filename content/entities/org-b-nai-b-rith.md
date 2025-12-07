@@ -8,7 +8,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
+### [ep-t1YtLS1n8Vs](/episodes/ep-t1YtLS1n8Vs.md)
 
 - [00:02:02](/episodes/ep-t1YtLS1n8Vs.md#^t-00-01-24)
   > "...n out of a Jewish Freemason organization known as B'nai B'rith. Now, if you're on my book club, you know this, but Sigmund Freud was a member of B'nai B'rith. We'..."
@@ -20,11 +20,11 @@ _Type: Organizations_
 ### Founded
 
 - [Anti-Defamation League](/entities/org-anti-defamation-league.md)
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:02](/episodes/ep-t1YtLS1n8Vs.md#^t-00-01-24): "the ADL was born out of a Jewish Freemason organization known as B'nai B'rith."
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:02](/episodes/ep-t1YtLS1n8Vs.md#^t-00-01-24): "the ADL was born out of a Jewish Freemason organization known as B'nai B'rith."
+  - [ep-t1YtLS1n8Vs @ 00:02:02](/episodes/ep-t1YtLS1n8Vs.md#^t-00-01-24): "the ADL was born out of a Jewish Freemason organization known as B'nai B'rith."
+  - [ep-t1YtLS1n8Vs @ 00:02:02](/episodes/ep-t1YtLS1n8Vs.md#^t-00-01-24): "the ADL was born out of a Jewish Freemason organization known as B'nai B'rith."
 
 ### Referenced By
 
 - [Sigmund Freud](/entities/person-sigmund-freud.md) **member of** this
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:10](/episodes/ep-t1YtLS1n8Vs.md#^t-00-02-02)
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:10](/episodes/ep-t1YtLS1n8Vs.md#^t-00-02-02)
+  - [ep-t1YtLS1n8Vs @ 00:02:10](/episodes/ep-t1YtLS1n8Vs.md#^t-00-02-02)
+  - [ep-t1YtLS1n8Vs @ 00:02:10](/episodes/ep-t1YtLS1n8Vs.md#^t-00-02-02)

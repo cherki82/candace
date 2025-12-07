@@ -8,7 +8,7 @@ _Type: Concepts_
 
 ## Mentions
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:58:50](/episodes/ep-tB5SXXmd9vU.md#^t-00-58-43)
   > "... a way that I didn't before why people believe in God. In the face of this, it provides meaning and comfort available from little else. Shame on official..."

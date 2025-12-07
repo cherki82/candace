@@ -8,17 +8,17 @@ _Type: Places_
 
 ## Mentions
 
-### [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
+### [ep-_dRaEO47-co](/episodes/ep-_dRaEO47-co.md)
 
 - [00:01:46](/episodes/ep-_dRaEO47-co.md#^t-00-01-20)
   > "...red me on the spot. We were at this conference in Florida. And he and I used to always say—we never said, “The rest was history.” “The rest is history.” We’d..."
 
-### [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
+### [ep-r1PS67aRmcA](/episodes/ep-r1PS67aRmcA.md)
 
 - [00:02:43](/episodes/ep-r1PS67aRmcA.md#^t-00-02-10)
   > "...tage with Megyn Kelly, and she had a tour stop in Florida. And I wanna say, I was kind of impressed with Ben because instead of doing his usual thing where h..."
 
-### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
+### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:19:12](/episodes/ep-yAIb-NuUh_U.md#^t-00-18-59)
   > "...m gonna just tell you like a few of these, right? Florida Calvary Chapel in Pompano Beach—the founder was a pastor named Rob Coy (not McCoy, to be clear), Ro..."

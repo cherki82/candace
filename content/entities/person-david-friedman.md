@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
+### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:25:28](/episodes/ep-mKXdKV-OBog.md#^t-00-24-49)
   > "...nd the former U.S. ambassador to Israel—which was David Friedman—took to the stage in Jerusalem to perform "Sweet Home Alabama." And by "Sweet Home Alabama," I mean..."

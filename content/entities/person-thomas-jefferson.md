@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
+### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:01:54](/episodes/ep-mKXdKV-OBog.md#^t-00-01-47)
   > "..., you know, I—George Washington, Abraham Lincoln, Thomas Jefferson are—I think are too cliché. So one I really enjoy that I just love learning from is Julius Caesar. ..."

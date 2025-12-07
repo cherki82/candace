@@ -8,7 +8,7 @@ _Type: Places_
 
 ## Mentions
 
-### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
+### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:05:58](/episodes/ep-mKXdKV-OBog.md#^t-00-05-45)
   > "... You might recall it stopped for just one hour in Minot, North Dakota, which I learned has an Air Force base. It pretty much is just the Air Force base, by..."

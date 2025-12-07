@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
+### [ep-r1PS67aRmcA](/episodes/ep-r1PS67aRmcA.md)
 
 - [00:39:07](/episodes/ep-r1PS67aRmcA.md#^t-00-39-03)
   > "...a real live tweet from Ben Shapiro accusing any American Jew who is pro-Israel first of a pure form of anti-Semitism. That was directed at Nick Fuentes, which w..."

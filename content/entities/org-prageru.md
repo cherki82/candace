@@ -8,29 +8,29 @@ _Type: Organizations_
 
 ## Mentions
 
-### [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
+### [ep-K5GjF53bfN4](/episodes/ep-K5GjF53bfN4.md)
 
 - [00:08:10](/episodes/ep-K5GjF53bfN4.md#^t-00-08-02)
   > "... And I also love the context of him doing this on PragerU's platform. I obviously worked for PragerU. I know Marissa Streit (Marissa Streit). I am looking at..."
 - [00:08:02](/episodes/ep-K5GjF53bfN4.md#^t-00-07-21)
   > "... And I also love the context of him doing this on PragerU's platform. I obviously worked for PragerU. I know Marissa Streit. I am looking at Marissa Streit r..."
 
-### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
+### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
 
 - [00:31:25](/episodes/ep-adJ4LNGp84I.md#^t-00-30-42)
   > "...avid Horowitz, from which all of the connections, PragerU, I could tell you the stories; PragerU, David Horowitz Freedom Center, and Ben Shapiro, all of them..."
 
-### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
+### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:01:06](/episodes/ep-mKXdKV-OBog.md#^t-00-00-43)
   > "...h Charlie (Charlie Kirk) back when my show was on PragerU's network is becoming increasingly prophetic. At the end of every one of those interviews, I would ..."
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:47:57](/episodes/ep-tB5SXXmd9vU.md#^t-00-47-39)
   > "...SA, whether that's The Daily Wire, whether that's PragerU, Charlie Kirk (Charlie Kirk), Steven Crowder. I don't know what's going on even in this room, but i..."
 
-### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
+### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:00:03](/episodes/ep-yAIb-NuUh_U.md#^t-00-00-01)
   > "...e (Charlie Kirk) and me back when I had a show on PragerU. We were discussing the kind of allies that you need when bullets are flying at you. Take a listen...."
@@ -40,15 +40,15 @@ _Type: Organizations_
 ### Referenced By
 
 - [Candace Owens](/entities/person-candace-owens.md) **affiliated with** this
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:01:06](/episodes/ep-mKXdKV-OBog.md#^t-00-00-43)
+  - [ep-mKXdKV-OBog @ 00:01:06](/episodes/ep-mKXdKV-OBog.md#^t-00-00-43)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) **contributor to** this
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:03](/episodes/ep-yAIb-NuUh_U.md#^t-00-00-01)
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#^t-00-47-39)
+  - [ep-yAIb-NuUh_U @ 00:00:03](/episodes/ep-yAIb-NuUh_U.md#^t-00-00-01)
+  - [ep-tB5SXXmd9vU @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#^t-00-47-39)
 - [Candace Owens](/entities/person-candace-owens.md) **employed by** this
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:03](/episodes/ep-yAIb-NuUh_U.md#^t-00-00-01)
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:08:19](/episodes/ep-K5GjF53bfN4.md#^t-00-08-02)
+  - [ep-yAIb-NuUh_U @ 00:00:03](/episodes/ep-yAIb-NuUh_U.md#^t-00-00-01)
+  - [ep-K5GjF53bfN4 @ 00:08:19](/episodes/ep-K5GjF53bfN4.md#^t-00-08-02)
 - [Steven Crowder](/entities/person-steven-crowder.md) **former contributor to** this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#^t-00-47-39)
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#^t-00-47-39)
+  - [ep-tB5SXXmd9vU @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#^t-00-47-39)
+  - [ep-tB5SXXmd9vU @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#^t-00-47-39)
 - [Wilks Brothers](/entities/person-wilks-brothers.md) **invested in** this
-  - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:54](/episodes/ep-Qfwr08Ebczo.md#^t-00-13-27)
+  - [ep-Qfwr08Ebczo @ 00:13:54](/episodes/ep-Qfwr08Ebczo.md#^t-00-13-27)

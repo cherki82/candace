@@ -8,7 +8,7 @@ _Type: Places_
 
 ## Mentions
 
-### [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
+### [ep-K5GjF53bfN4](/episodes/ep-K5GjF53bfN4.md)
 
 - [00:41:06](/episodes/ep-K5GjF53bfN4.md#^t-00-40-46)
   > "... Moran writes, "Greetings from across the pond in Ireland, Candace (Candace Owens), and keep up the great work. God bless." Thank you, James (James Moran). R..."

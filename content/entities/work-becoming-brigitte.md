@@ -12,32 +12,32 @@ _Type: Work_
 
 ## Mentions
 
-### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
+### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:05:46](/episodes/ep-a-e7HC6SeK8.md#^t-00-05-38)
   > "...s sound a lot like what you were covering in your Becoming Brigitte series. You remember—actually, right before we had been sort of interrupted in Becoming Brigitte se..."
 
-### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
+### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
 
 - [00:22:08](/episodes/ep-adJ4LNGp84I.md#^t-00-21-40)
   > "...of all things, for those of you that followed the Becoming Brigitte series and things that we have spoken about about this White Lotus idea. It's essentially they're t..."
 
-### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
+### [ep-ja26iltROkM](/episodes/ep-ja26iltROkM.md)
 
 - [00:50:34](/episodes/ep-ja26iltROkM.md#^t-00-50-13)
   > "...just finding my content and are new. Go watch the Becoming Brigitte series. I think a lot of people have been hooked on that. It's a really good one. And she's a dude...."
 
-### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
+### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:30:01](/episodes/ep-mKXdKV-OBog.md#^t-00-29-33)
   > "...ael, the death of Charlie (Charlie Kirk), and the Becoming Brigitte series. I also want to ask about the financial side of your operation because it is central to the ..."
 
-### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
+### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
 
 - [00:08:03](/episodes/ep-sImMM04XdWY.md#^t-00-07-38)
   > "...don. Xavier Poussard is the person who wrote the "Becoming Brigitte" book. He has never been sued for defamation, and I was only going to interview him one time becaus..."
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:10:32](/episodes/ep-tB5SXXmd9vU.md#^t-00-10-07)
   > "...s made it through the first couple of episodes of Becoming Brigitte knows that the French government has an appetite for cruelty and sexual deviancy, okay? LOL, the ci..."

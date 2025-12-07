@@ -8,7 +8,7 @@ _Type: Places_
 
 ## Mentions
 
-### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
+### [ep-2WEHTk0Xewg](/episodes/ep-2WEHTk0Xewg.md)
 
 - [00:23:36](/episodes/ep-2WEHTk0Xewg.md#^t-00-22-59)
   > "...arner Valley. Now, Warner Valley is right next to St. George, so he lives very close to his parents, is what I want you to recognize. You've got St. George, you..."

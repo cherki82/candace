@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
+### [ep-iHav0PPzUz8](/episodes/ep-iHav0PPzUz8.md)
 
 - [00:04:28](/episodes/ep-iHav0PPzUz8.md#^t-00-04-12)
   > "...onse from one of the owners of the plane, who was Derek Maxfield. He's married to Shalane Maxfield. The two of them—they're a billionaire couple from Utah. They run..."
@@ -20,4 +20,4 @@ _Type: People_
 ### Married To
 
 - [Shalane Maxfield](/entities/person-shalane-maxfield.md)
-  - [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:04:47](/episodes/ep-iHav0PPzUz8.md#^t-00-04-12): "Derek Maxfield. He's married to Shalane Maxfield."
+  - [ep-iHav0PPzUz8 @ 00:04:47](/episodes/ep-iHav0PPzUz8.md#^t-00-04-12): "Derek Maxfield. He's married to Shalane Maxfield."

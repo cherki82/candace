@@ -12,7 +12,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
+### [ep-QZWSsq8ZWzw](/episodes/ep-QZWSsq8ZWzw.md)
 
 - [00:17:37](/episodes/ep-QZWSsq8ZWzw.md#^t-00-17-17)
   > "...eehive State. It relates to the Mormon Church—the Church of Jesus Christ of Latter-day Saints. Early Mormon pioneers founded that state, and they liked the idea of a beehive working toward a co..."

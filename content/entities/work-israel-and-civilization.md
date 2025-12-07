@@ -8,7 +8,7 @@ _Type: Work_
 
 ## Mentions
 
-### [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
+### [ep-2Riv3I7D0Yk](/episodes/ep-2Riv3I7D0Yk.md)
 
 - [00:21:51](/episodes/ep-2Riv3I7D0Yk.md#^t-00-21-29)
   > "...ected hostile questions. And you held on my book, Israel and Civilization, Ali. The last words I think Charlie (Charlie Kirk) spoke to me were— he literally said, 'You know,..."

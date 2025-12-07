@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
+### [ep-K5GjF53bfN4](/episodes/ep-K5GjF53bfN4.md)
 
 - [00:08:21](/episodes/ep-K5GjF53bfN4.md#^t-00-08-02)
   > "... platform. I obviously worked for PragerU. I know Marissa Streit (Marissa Streit). I am looking at Marissa Streit (Marissa Streit) right there, right there, a littl..."
@@ -24,4 +24,4 @@ _Type: People_
 ### Employed By
 
 - [IDF](/entities/org-idf.md)
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:08:33](/episodes/ep-K5GjF53bfN4.md#^t-00-08-02): "Marissa Streit has not always been open about the fact that she worked for the IDF intelligence."
+  - [ep-K5GjF53bfN4 @ 00:08:33](/episodes/ep-K5GjF53bfN4.md#^t-00-08-02): "Marissa Streit has not always been open about the fact that she worked for the IDF intelligence."

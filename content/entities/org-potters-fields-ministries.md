@@ -8,7 +8,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
+### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:24:32](/episodes/ep-yAIb-NuUh_U.md#^t-00-24-32)
   > "...e's doing now with Turning Point USA. I would say it's very relevant. Potter's Fields is an area up in Whitefish, Montana, and the Calvary Church Association funded a ministry which came to be known a..."
@@ -18,4 +18,4 @@ _Type: Organizations_
 ### Referenced By
 
 - [Rob McCoy](/entities/person-rob-mccoy.md) **employed by** this
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:27:07](/episodes/ep-yAIb-NuUh_U.md#^t-00-26-34)
+  - [ep-yAIb-NuUh_U @ 00:27:07](/episodes/ep-yAIb-NuUh_U.md#^t-00-26-34)

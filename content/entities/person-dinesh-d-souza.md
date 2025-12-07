@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
+### [ep-2Riv3I7D0Yk](/episodes/ep-2Riv3I7D0Yk.md)
 
 - [00:00:44](/episodes/ep-2Riv3I7D0Yk.md#^t-00-00-00)
   > "...ore he died—something he was very proud of. Also, Dinesh D'Souza has jumped into the mix. Welcome, Dinesh D'Souza. He is joining every commentator who hates Candace..."

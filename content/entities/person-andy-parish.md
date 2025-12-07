@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:20:36](/episodes/ep-tB5SXXmd9vU.md#^t-00-20-29)
   > "...n, because no Camp Riley exists in Minnesota," as Andy Parish, the former chief of staff to the Republican state representative, pointed out on X. "Oh, there is,..."

@@ -17,12 +17,12 @@ _Type: Organizations_
 
 ## Mentions
 
-### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
+### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:35:57](/episodes/ep-ZAuuSq_j2_w.md#^t-00-35-53)
   > "...eal. Use code CANDACE10 for 10% off your order at NIMESKINCARE.COM. That's NIMESKINCARE.COM, and do not wait. Get your skin the care that it needs this winter. Treat ..."
 
-### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
+### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 
 
 ## Relationships
@@ -30,4 +30,4 @@ _Type: Organizations_
 ### Referenced By
 
 - [Candace Owens](/entities/person-candace-owens.md) **endorsed** this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:00:44](/episodes/ep-his-JBjlkh8.md#^t-00-00-00)
+  - [ep-his-JBjlkh8 @ 00:00:44](/episodes/ep-his-JBjlkh8.md#^t-00-00-00)

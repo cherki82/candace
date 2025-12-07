@@ -13,7 +13,7 @@ _Type: People_
 
 ## Mentions
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:00:05](/episodes/ep-tB5SXXmd9vU.md#^t-00-00-01)
   > "...angled web that we weave. I'm referring to me and Jean-Michel Trogneux, okay? Jean-Michel Trogneux has been so protected and has worn so many faces and has clearly gotten..."

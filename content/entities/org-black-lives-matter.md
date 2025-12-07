@@ -12,12 +12,12 @@ _Type: Organizations_
 
 ## Mentions
 
-### [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
+### [ep-_dRaEO47-co](/episodes/ep-_dRaEO47-co.md)
 
 - [00:04:47](/episodes/ep-_dRaEO47-co.md#^t-00-04-16)
   > "...er even heard before. I was just passionate about Black Lives Matter. I knew it was going to be harmful for Black Americans, and I wanted to share that message. And Cha..."
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:47:40](/episodes/ep-tB5SXXmd9vU.md#^t-00-47-39)
   > "...at means twice as many ultrasounds, twice as many lives saved, and twice as many mothers that are given hope with diapers, car seats, counseling, and care for up to two..."

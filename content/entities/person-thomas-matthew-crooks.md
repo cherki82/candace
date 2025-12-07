@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
+### [ep-QZWSsq8ZWzw](/episodes/ep-QZWSsq8ZWzw.md)
 
 - [00:00:36](/episodes/ep-QZWSsq8ZWzw.md#^t-00-00-01)
   > "...that I have for you today because do you remember Thomas Matthew Crooks? Probably not, because oddly the feds told us that, hey, don't even worry about that 20-year-old wh..."

@@ -8,7 +8,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
+### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:29:00](/episodes/ep-mKXdKV-OBog.md#^t-00-28-48)
   > "...i Weiss started and is a part-owner, at least, of The Free Press before that—before she went on to CBS News. She notoriously left The New York Times and said it was..."
@@ -22,8 +22,8 @@ _Type: Organizations_
 ### Referenced By
 
 - [Bari Weiss](/entities/person-bari-weiss.md) **founded** this
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#^t-00-28-14)
+  - [ep-mKXdKV-OBog @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#^t-00-28-14)
 - [Bari Weiss](/entities/person-bari-weiss.md) **owns** this
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#^t-00-28-14)
+  - [ep-mKXdKV-OBog @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#^t-00-28-14)
 - [Ashley Reinsberg](/entities/person-ashley-reinsberg.md) **works at** this
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:29:33](/episodes/ep-mKXdKV-OBog.md#^t-00-28-48)
+  - [ep-mKXdKV-OBog @ 00:29:33](/episodes/ep-mKXdKV-OBog.md#^t-00-28-48)

@@ -13,7 +13,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:15:59](/episodes/ep-tB5SXXmd9vU.md#^t-00-15-25)
   > "...ing to the French Foreign Legion website, between August 2nd and August 25th of this year, the legionnaires from the 4th Company, 2nd Foreign Infantry Regiment,..."

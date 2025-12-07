@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
+### [ep-581dILVcEE4](/episodes/ep-581dILVcEE4.md)
 
 - [00:46:56](/episodes/ep-581dILVcEE4.md#^t-00-46-30)
   > "...ion dollars because of the Tucker (Tucker Carlson) speech. That woman was Joyce Chernick. Joyce Chernick is married to Aubrey Chernick. He's a software tech billionaire guy. They fund a variety of pro..."
@@ -18,4 +18,4 @@ _Type: People_
 ### Referenced By
 
 - [Joyce Chernick](/entities/person-joyce-chernick.md) **married to** this
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:46:49](/episodes/ep-581dILVcEE4.md#^t-00-46-30)
+  - [ep-581dILVcEE4 @ 00:46:49](/episodes/ep-581dILVcEE4.md#^t-00-46-30)

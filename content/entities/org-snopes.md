@@ -8,7 +8,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:21:31](/episodes/ep-tB5SXXmd9vU.md#^t-00-21-14)
   > ".... This is what you call a non-debunking debunk, a Snopes-level debunking over a typo, okay? And I guess my other allegations should not be answered or even ..."

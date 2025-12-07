@@ -16,116 +16,116 @@ _Type: Organizations_
 
 ## Mentions
 
-### [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
+### [ep-2Riv3I7D0Yk](/episodes/ep-2Riv3I7D0Yk.md)
 
 
-### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
+### [ep-2WEHTk0Xewg](/episodes/ep-2WEHTk0Xewg.md)
 
 
-### [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
+### [ep-581dILVcEE4](/episodes/ep-581dILVcEE4.md)
 
 
-### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
+### [ep-5autG89PW6w](/episodes/ep-5autG89PW6w.md)
 
 
-### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
+### [ep-JQjCAsfoXEE](/episodes/ep-JQjCAsfoXEE.md)
 
 
-### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
+### [ep-K1tFD7FfoCU](/episodes/ep-K1tFD7FfoCU.md)
 
 
-### [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
+### [ep-K5GjF53bfN4](/episodes/ep-K5GjF53bfN4.md)
 
 
-### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
+### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
 
 
-### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
+### [ep-QZWSsq8ZWzw](/episodes/ep-QZWSsq8ZWzw.md)
 
 
-### [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
+### [ep-Qt0VHV-POCg](/episodes/ep-Qt0VHV-POCg.md)
 
 
-### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
+### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:06:23](/episodes/ep-SKGUzGHymcI.md#^t-00-06-15)
   > "... people in government—people that were working in federal— and I did, people that I trusted. I went to, spoke with them, waited a while. That's why this email came i..."
 - [00:06:23](/episodes/ep-SKGUzGHymcI.md#^t-00-06-15)
   > "... people in government—people that were working in federal— and I did, people that I trusted. I went to, spoke with them, waited a while. That's why this email came i..."
 
-### [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
+### [ep-UBkFkg4UNY8](/episodes/ep-UBkFkg4UNY8.md)
 
 
-### [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
+### [ep-YA1FxrDWNIo](/episodes/ep-YA1FxrDWNIo.md)
 
 
-### [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
+### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
 
 
-### [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
+### [ep-YaZfwLQ7vrI](/episodes/ep-YaZfwLQ7vrI.md)
 
 
-### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
+### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
 
-### [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
+### [ep-ZGxnf5cj4Uw](/episodes/ep-ZGxnf5cj4Uw.md)
 
 
-### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
+### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
 
 
-### [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
+### [ep-aDlhjfW6hz8](/episodes/ep-aDlhjfW6hz8.md)
 
 
-### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
+### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
 
 
-### [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
+### [ep-c5BcKF91iec](/episodes/ep-c5BcKF91iec.md)
 
 
-### [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
+### [ep-czVBmqZP6Ss](/episodes/ep-czVBmqZP6Ss.md)
 
 
-### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
+### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 
 
-### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
+### [ep-iHav0PPzUz8](/episodes/ep-iHav0PPzUz8.md)
 
 
-### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
+### [ep-ja26iltROkM](/episodes/ep-ja26iltROkM.md)
 
 
-### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
+### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
 
 
-### [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
+### [ep-ozWJz2spBcI](/episodes/ep-ozWJz2spBcI.md)
 
 
-### [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
+### [ep-pc3pxRyNFZk](/episodes/ep-pc3pxRyNFZk.md)
 
 
-### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
+### [ep-q7f8r-THr84](/episodes/ep-q7f8r-THr84.md)
 
 
-### [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
+### [ep-r1PS67aRmcA](/episodes/ep-r1PS67aRmcA.md)
 
 
-### [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
+### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
 
 
-### [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
+### [ep-sreYYcID-QY](/episodes/ep-sreYYcID-QY.md)
 
 
-### [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
+### [ep-t1YtLS1n8Vs](/episodes/ep-t1YtLS1n8Vs.md)
 
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 
-### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
+### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
 
 
-### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
+### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
 
 
 ## Relationships
@@ -133,4 +133,4 @@ _Type: Organizations_
 ### Based In
 
 - [Wilmington, Delaware](/entities/gpe-wilmington.md)
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:15:30](/episodes/ep-SKGUzGHymcI.md#^t-00-14-53): "When you Google FBI Wilmington Resident Agency, you will likely get 920 North King Street with the label Federal Bureau of Investigation."
+  - [ep-SKGUzGHymcI @ 00:15:30](/episodes/ep-SKGUzGHymcI.md#^t-00-14-53): "When you Google FBI Wilmington Resident Agency, you will likely get 920 North King Street with the label Federal Bureau of Investigation."

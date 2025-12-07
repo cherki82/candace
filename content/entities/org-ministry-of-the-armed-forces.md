@@ -15,7 +15,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:20:07](/episodes/ep-tB5SXXmd9vU.md#^t-00-19-45)
   > "...that reported this, it tells us that, quote, "The Ministry of the Armed Forces confirms that a training exercise by the 2nd Foreign Infantry Regiment, a unit of the French Foreig..."
@@ -26,7 +26,7 @@ _Type: Organizations_
 - [00:39:42](/episodes/ep-tB5SXXmd9vU.md#^t-00-39-28)
   > "...e, right? Opened Paris Design Week on, I believe, September 4th. Very public. Gets photographed with the culture—the Ministry of Culture lady, right? The head of t..."
 
-### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
+### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:24:32](/episodes/ep-yAIb-NuUh_U.md#^t-00-24-32)
   > "...e's doing now with Turning Point USA. I would say it's very relevant. Potter's Fields is an area up in Whitefish, Montana, and the Calvary Church Association funded a ministry which came to be known a..."

@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
+### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
 
 - [00:44:55](/episodes/ep-adJ4LNGp84I.md#^t-00-44-47)
   > "...the more prominent commentators like Ben Shapiro, Brandon Tatum, and PBD on the topics of Israel, Mossad, and Palestine? They all have hinted and danced around cal..."

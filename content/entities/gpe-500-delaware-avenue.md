@@ -8,12 +8,12 @@ _Type: Places_
 
 ## Mentions
 
-### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
+### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:11:53](/episodes/ep-a-e7HC6SeK8.md#^t-00-11-12)
   > "...ite in this building that's actually owned by the Wilmington Trust at 500 Delaware Avenue. We've got Brigitte's lawyers at 919 North Market Street. Also in that build..."
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:31:08](/episodes/ep-tB5SXXmd9vU.md#^t-00-30-30)
   > "...ying to pretend that this was some prank said the FBI is actually at 500 Delaware Avenue, right? And 500 Delaware Avenue is a couple of blocks over. We c..."
@@ -25,4 +25,4 @@ _Type: Places_
 ### Referenced By
 
 - [MG+M](/entities/org-mg-m.md) **based in** this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:32:22](/episodes/ep-tB5SXXmd9vU.md#^t-00-31-48)
+  - [ep-tB5SXXmd9vU @ 00:32:22](/episodes/ep-tB5SXXmd9vU.md#^t-00-31-48)

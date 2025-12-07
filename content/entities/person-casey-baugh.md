@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
+### [ep-iHav0PPzUz8](/episodes/ep-iHav0PPzUz8.md)
 
 - [00:05:03](/episodes/ep-iHav0PPzUz8.md#^t-00-04-55)
   > "...so co-owns that plane with them is a person named Casey Baugh—B-A-U-G-H. Now, I'm mentioning Casey Baugh because I found it—when I was researching—interesting th..."

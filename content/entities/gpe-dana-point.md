@@ -8,7 +8,7 @@ _Type: Places_
 
 ## Mentions
 
-### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
+### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:08:19](/episodes/ep-yAIb-NuUh_U.md#^t-00-07-47)
   > "...s in part, okay? "I was eight years old living in Dana Point, California when Thomas approached my friend and me to help him find his cat." "He took us to a par..."

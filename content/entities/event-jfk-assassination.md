@@ -8,7 +8,7 @@ _Type: Events_
 
 ## Mentions
 
-### [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
+### [ep-t1YtLS1n8Vs](/episodes/ep-t1YtLS1n8Vs.md)
 
 - [00:27:40](/episodes/ep-t1YtLS1n8Vs.md#^t-00-27-37)
   > "...ation, right? We are right now living through the JFK assassination. We weren't there for that. The majority of us weren't there for that. I wasn't there for that. But..."

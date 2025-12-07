@@ -8,7 +8,7 @@ _Type: Work_
 
 ## Mentions
 
-### [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
+### [ep-czVBmqZP6Ss](/episodes/ep-czVBmqZP6Ss.md)
 
 - [01:03:09](/episodes/ep-czVBmqZP6Ss.md#^t-01-02-48)
   > "...initely read Shlomo Sand. There is a book called “The Invention of the Jewish People” that gets into Israel full stop. He was, I believe, a professor, a historian, at Tel Aviv Universi..."

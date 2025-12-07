@@ -12,7 +12,7 @@ _Type: Places_
 
 ## Mentions
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:44:18](/episodes/ep-tB5SXXmd9vU.md#^t-00-44-08)
   > "... is transgender central. There are five different Nemours Children Hospital centers nearby. Yes, they perform transgender surgeries or yes, they do transgend..."

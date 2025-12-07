@@ -13,7 +13,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
+### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:16:50](/episodes/ep-ZAuuSq_j2_w.md#^t-00-16-27)
   > "...med. Candace Owens just got vindicated again. The Egyptian government website confirms that Egyptian President el-Sisi flew on SUBTU. Remember when Candace Owens dropped..."

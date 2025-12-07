@@ -12,7 +12,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
+### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 
 - [00:35:46](/episodes/ep-his-JBjlkh8.md#^t-00-35-06)
   > "...essed right at their ranch in their award-winning USDA-inspected processing facility. So you avoid the costly middlemen because the beef is sent directly ..."

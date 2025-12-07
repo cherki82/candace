@@ -40,13 +40,35 @@ Claims are factual assertions extracted from episode transcripts. Each claim is 
 | Metric | Count |
 |--------|-------|
 | Factual claims | 1008 |
-| Verified | 0 |
-| Unverified | 1008 |
-| True | 0 |
-| False | 0 |
+| Verified | 5 |
+| Unverified | 1003 |
+| True | 1 |
+| False | 1 |
 | Mixed | 0 |
 
-> **Note:** Verification has not yet been run on these claims. All claims are currently unverified pending fact-checking.
+## By Verification Status
+
+### False Claims
+
+### [ep-SKGUzGHymcI @ 00:11:00](/episodes/ep-SKGUzGHymcI.md#^t-00-10-15)
+
+> Today, if you punch that address into public directories, you will find the DEA, Drug Enforcement Agency, at 920 North King Street, and at the same address, the United States Secret Service, 920 North King Street, Wilmington, Delaware, 19801.
+
+**Type:** Factual
+**Veracity:** False (medium)
+**Source:** [Contact Us - Richards, Layton & Finger](https://www.rlf.com/contact-us/)
+**Verification Notes:** The address 920 North King Street in Wilmington, Delaware, is confirmed as the location of Richards, Layton & Finger, a private law firm, based on their official website. No primary sources, such as official government directories or websites for the DEA or Secret Service, list these agencies at this address in the search results. Posts found on X suggest the agencies may be at a different location (e.g., 500 Delaware Avenue), but this information is treated as inconclusive due to the controversial nature of the topic. The claim that public directories currently show the DEA and Secret Service at this address is not supported and appears incorrect.
+
+### True Claims
+
+### [ep-SKGUzGHymcI @ 00:12:40](/episodes/ep-SKGUzGHymcI.md#^t-00-12-23)
+
+> Wilmington used to have a Dassault Falcon authorized center, but it shut down around 2021.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Dassault Opening NY Mx Center after Wilmington Closure | Aviation International News](https://www.ainonline.com/aviation-news/business-aviation/2022-02-24/dassault-opening-ny-mx-center-after-wilmington-closure)
+**Verification Notes:** Reliable aviation news sources confirm that Dassault Falcon Jet had an authorized service center in Wilmington, Delaware, which faced closure considerations in December 2021 due to operational challenges and union disputes, with the closure confirmed by early 2022 when a new center was announced in New York.
 
 ## By Follow-up Status
 
@@ -1810,30 +1832,42 @@ Claims are factual assertions extracted from episode transcripts. Each claim is 
 > on the morning of Charlie Kirk's assassination, the plane... departed on the morning at 7:14 a.m. local time from Provo, Utah. And it's headed to Wilmington, Delaware. It arrived in Wilmington, Delaware at 11:51 a.m. Eastern.
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Verification Notes:** No reliable primary sources, such as news articles, official statements, or government documents, were found to corroborate or refute the specific details of a plane departing Provo, Utah, at 7:14 a.m. local time on September 10, 2025, heading to Wilmington, Delaware, and arriving at 11:51 a.m. Eastern Time. Available web results focus on a different private jet (N888KG) that departed after the assassination and unrelated conspiracy theories, but none mention this exact flight itinerary. X posts reference similar claims but are not considered reliable evidence.
 
 ### [ep-SKGUzGHymcI @ 00:03:55](/episodes/ep-SKGUzGHymcI.md#^t-00-03-23)
 
 > Charlie Kirk's gonna get shot at 12:23.
 
 **Type:** Factual
+**Veracity:** Unverifiable
+**Verification Notes:** No corroborating sources found
 
 ### [ep-SKGUzGHymcI @ 00:10:15](/episodes/ep-SKGUzGHymcI.md#^t-00-09-44)
 
 > In June of 1997, the Department of Justice's own directory lists, quote, Wilmington Residence Office, 1 Rodney Square, Suite 404, 920 King Street, Wilmington, Delaware, 19801.
 
 **Type:** Factual
+**Veracity:** Unverifiable
+**Verification Notes:** No corroborating sources found
 
 ### [ep-SKGUzGHymcI @ 00:11:00](/episodes/ep-SKGUzGHymcI.md#^t-00-10-15)
 
 > Today, if you punch that address into public directories, you will find the DEA, Drug Enforcement Agency, at 920 North King Street, and at the same address, the United States Secret Service, 920 North King Street, Wilmington, Delaware, 19801.
 
 **Type:** Factual
+**Veracity:** False (medium)
+**Source:** [Contact Us - Richards, Layton & Finger](https://www.rlf.com/contact-us/)
+**Verification Notes:** The address 920 North King Street in Wilmington, Delaware, is confirmed as the location of Richards, Layton & Finger, a private law firm, based on their official website. No primary sources, such as official government directories or websites for the DEA or Secret Service, list these agencies at this address in the search results. Posts found on X suggest the agencies may be at a different location (e.g., 500 Delaware Avenue), but this information is treated as inconclusive due to the controversial nature of the topic. The claim that public directories currently show the DEA and Secret Service at this address is not supported and appears incorrect.
 
 ### [ep-SKGUzGHymcI @ 00:12:40](/episodes/ep-SKGUzGHymcI.md#^t-00-12-23)
 
 > Wilmington used to have a Dassault Falcon authorized center, but it shut down around 2021.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Dassault Opening NY Mx Center after Wilmington Closure | Aviation International News](https://www.ainonline.com/aviation-news/business-aviation/2022-02-24/dassault-opening-ny-mx-center-after-wilmington-closure)
+**Verification Notes:** Reliable aviation news sources confirm that Dassault Falcon Jet had an authorized service center in Wilmington, Delaware, which faced closure considerations in December 2021 due to operational challenges and union disputes, with the closure confirmed by early 2022 when a new center was announced in New York.
 
 ### [ep-SKGUzGHymcI @ 00:12:48](/episodes/ep-SKGUzGHymcI.md#^t-00-12-23)
 

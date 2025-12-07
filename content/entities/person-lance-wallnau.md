@@ -12,7 +12,7 @@ _Type: People_
 
 ## Mentions
 
-### [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
+### [ep-YaZfwLQ7vrI](/episodes/ep-YaZfwLQ7vrI.md)
 
 - [00:11:54](/episodes/ep-YaZfwLQ7vrI.md#^t-00-11-32)
   > "...ly following the election results. One person was Lance Wallnau (Lance Wallnau), okay? I want you to remember this guy's name: Lance Wallnau (Lance Wallnau). Immed..."
@@ -24,12 +24,12 @@ _Type: People_
 ### Invested In
 
 - [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)
-  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:20:07](/episodes/ep-YaZfwLQ7vrI.md#^t-00-19-33): "he put a ton of money into Turning Point USA Faith operations"
+  - [ep-YaZfwLQ7vrI @ 00:20:07](/episodes/ep-YaZfwLQ7vrI.md#^t-00-19-33): "he put a ton of money into Turning Point USA Faith operations"
 
 ### Referenced By
 
 - [Tyler Robinson](/entities/person-tyler-robinson.md) **dating** this
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:13:02](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-12-42)
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:13:02](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-12-42)
+  - [ep-ZGxnf5cj4Uw @ 00:13:02](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-12-42)
+  - [ep-ZGxnf5cj4Uw @ 00:13:02](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-12-42)
 - [Carl Wallnau](/entities/person-carl-wallnau.md) **parent of** this
-  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:17:14](/episodes/ep-YaZfwLQ7vrI.md#^t-00-16-39)
+  - [ep-YaZfwLQ7vrI @ 00:17:14](/episodes/ep-YaZfwLQ7vrI.md#^t-00-16-39)

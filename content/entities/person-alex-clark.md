@@ -8,17 +8,17 @@ _Type: People_
 
 ## Mentions
 
-### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
+### [ep-JQjCAsfoXEE](/episodes/ep-JQjCAsfoXEE.md)
 
 - [00:11:45](/episodes/ep-JQjCAsfoXEE.md#^t-00-11-07)
   > "... Mikey, on Rob (Pastor Rob McCoy), speaking about Andrew Colvett, Alex Clark. Why were they kept? Why do they keep going back to Erika? What is it about these Egypt..."
 
-### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
+### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
 
 - [00:16:05](/episodes/ep-MUA9ebCF4Ow.md#^t-00-15-57)
   > "...at's a lie, told and reinforced by Alex Clark and Andrew Colvett. Lie number three is that Charlie (Charlie Kirk)'s neck stopped a .30-06 bullet because Charlie (Ch..."
 
-### [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
+### [ep-UBkFkg4UNY8](/episodes/ep-UBkFkg4UNY8.md)
 
 - [00:30:38](/episodes/ep-UBkFkg4UNY8.md#^t-00-30-03)
   > "...iend of Charlie (Charlie Kirk), who sat down with Alex Clark to answer questions pertaining to whether or not Charlie (Charlie Kirk) was converting to Catholici..."
@@ -33,7 +33,7 @@ _Type: People_
 - [00:00:22](/episodes/ep-UBkFkg4UNY8.md#^t-00-00-00)
   > "...uss Andrew Colvett, the PR agent, close friend of Charlie (Charlie Kirk), who sat down with Alex Clark to answer questions pertaining to whether or not Charlie (Charlie Kirk) w..."
 
-### [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
+### [ep-ozWJz2spBcI](/episodes/ep-ozWJz2spBcI.md)
 
 - [00:00:34](/episodes/ep-ozWJz2spBcI.md#^t-00-00-00)
   > "...don't recommend it, which was then highlighted by Alex Clark, who has a show over there on Instagram. And I think it's therefore fair for us to turn our attenti..."
@@ -42,7 +42,7 @@ _Type: People_
 - [00:09:32](/episodes/ep-ozWJz2spBcI.md#^t-00-09-02)
   > "...y knew for a fact. So I was a bit astonished when Andrew Colvett and Alex Clark similarly jumped in, in this inauthentic attempt to dissuade the idea that Charlie (..."
 
-### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
+### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
 
 - [00:21:45](/episodes/ep-vwG1juDCQZQ.md#^t-00-21-29)
   > "...Charlie (Charlie Kirk)—who was slated to speak at Liberty University. Okay, that's just a fact. Alex Clark also threw shade at us, and it's kind of incredible that she ..."
@@ -52,9 +52,9 @@ _Type: People_
 ### Interviewed
 
 - [Andrew Colvett](/entities/person-andrew-kolvet.md)
-  - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:00:48](/episodes/ep-UBkFkg4UNY8.md#^t-00-00-32): "Andrew Colvett, the PR agent, close friend of Charlie (Charlie Kirk), who sat down with Alex Clark to answer questions pertaining to whether or not Charlie (Charlie Kirk) was converting to Catholicism and whether or not he was offered $150 million from Israel."
+  - [ep-UBkFkg4UNY8 @ 00:00:48](/episodes/ep-UBkFkg4UNY8.md#^t-00-00-32): "Andrew Colvett, the PR agent, close friend of Charlie (Charlie Kirk), who sat down with Alex Clark to answer questions pertaining to whether or not Charlie (Charlie Kirk) was converting to Catholicism and whether or not he was offered $150 million from Israel."
 
 ### Works At
 
 - [Turning Point USA](/entities/org-turning-point-usa.md)
-  - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:34](/episodes/ep-ozWJz2spBcI.md#^t-00-00-00): "highlighted by Alex Clark, who has a show over there on Instagram"
+  - [ep-ozWJz2spBcI @ 00:00:34](/episodes/ep-ozWJz2spBcI.md#^t-00-00-00): "highlighted by Alex Clark, who has a show over there on Instagram"

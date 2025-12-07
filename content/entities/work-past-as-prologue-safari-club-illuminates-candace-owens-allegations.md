@@ -12,7 +12,7 @@ _Type: Work_
 
 ## Mentions
 
-### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:11:54](/episodes/ep-tB5SXXmd9vU.md#^t-00-11-17)
   > "...ard of that, this was the article that he wrote: "Past as Prologue: Safari Club Illuminates Candace Owens' Allegations." I had never heard of this. I really hadn't, okay? Because I feel like I'm Alice in Wonderland. A ..."

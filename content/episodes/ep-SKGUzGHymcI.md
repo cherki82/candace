@@ -261,11 +261,11 @@ youtube_url: "https://www.youtube.com/watch?v=SKGUzGHymcI"
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
-| [00:03:23](/timestamps/ep-SKGUzGHymcI/t-00-02-39.md) | factual | [-](/claims/claim-6a20d8c86668.md) | on the morning of Charlie Kirk's assassination, the plane... departed on the mor... |
-| [00:03:55](/timestamps/ep-SKGUzGHymcI/t-00-03-23.md) | factual | [-](/claims/claim-93b8b2d8026e.md) | Charlie Kirk's gonna get shot at 12:23. |
-| [00:10:15](/timestamps/ep-SKGUzGHymcI/t-00-09-44.md) | factual | [-](/claims/claim-8b6ddf3a6948.md) | In June of 1997, the Department of Justice's own directory lists, quote, Wilming... |
-| [00:11:00](/timestamps/ep-SKGUzGHymcI/t-00-10-15.md) | factual | [-](/claims/claim-d5571443c544.md) | Today, if you punch that address into public directories, you will find the DEA,... |
-| [00:12:40](/timestamps/ep-SKGUzGHymcI/t-00-12-23.md) | factual | [-](/claims/claim-8b2189546095.md) | Wilmington used to have a Dassault Falcon authorized center, but it shut down ar... |
+| [00:03:23](/timestamps/ep-SKGUzGHymcI/t-00-02-39.md) | factual | [❓ Unverifiable](/claims/claim-6a20d8c86668.md) | on the morning of Charlie Kirk's assassination, the plane... departed on the mor... |
+| [00:03:55](/timestamps/ep-SKGUzGHymcI/t-00-03-23.md) | factual | [❓ Unverifiable](/claims/claim-93b8b2d8026e.md) | Charlie Kirk's gonna get shot at 12:23. |
+| [00:10:15](/timestamps/ep-SKGUzGHymcI/t-00-09-44.md) | factual | [❓ Unverifiable](/claims/claim-8b6ddf3a6948.md) | In June of 1997, the Department of Justice's own directory lists, quote, Wilming... |
+| [00:11:00](/timestamps/ep-SKGUzGHymcI/t-00-10-15.md) | factual | [❌ False](/claims/claim-d5571443c544.md) | Today, if you punch that address into public directories, you will find the DEA,... |
+| [00:12:40](/timestamps/ep-SKGUzGHymcI/t-00-12-23.md) | factual | [✅ True](/claims/claim-8b2189546095.md) | Wilmington used to have a Dassault Falcon authorized center, but it shut down ar... |
 | [00:12:48](/timestamps/ep-SKGUzGHymcI/t-00-12-23.md) | factual | [-](/claims/claim-f804b5a4ba58.md) | in December of 2024, a French aircraft finishing company called Satys... announc... |
 | [00:15:30](/timestamps/ep-SKGUzGHymcI/t-00-14-53.md) | factual | [-](/claims/claim-614ce4a3ae4e.md) | When you Google FBI Wilmington Resident Agency, you should check the address in ... |
 | [00:31:49](/timestamps/ep-SKGUzGHymcI/t-00-31-36.md) | factual | [-](/claims/claim-54474090474e.md) | his team has drones up looking at the crowd from above and they text him some vi... |
