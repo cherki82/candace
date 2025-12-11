@@ -1,6 +1,6 @@
 ---
 title: "2025-12-08: Turning Point USA fundraiser at Mar-a-Lago reporte..."
-description: "2025-12-08 - Turning Point USA fundraiser at Mar-a-Lago reportedly raises 0 million over two nights"
+description: "2025-12-08 - Turning Point USA fundraiser at Mar-a-Lago reportedly raises $40 million over two nights"
 event_id: "event-2025-12-08-turning-point-usa-fundraiser-at-mar-a-la"
 date: "2025-12-08"
 ---
@@ -9,7 +9,7 @@ date: "2025-12-08"
 
 ## Event
 
-> Turning Point USA fundraiser at Mar-a-Lago reportedly raises 0 million over two nights
+> Turning Point USA fundraiser at Mar-a-Lago reportedly raises $40 million over two nights
 
 ## Mentioned In
 

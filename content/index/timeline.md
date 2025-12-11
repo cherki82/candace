@@ -356,10 +356,10 @@ _Total events: 522_
 
 <div class="timeline-event filter-item" id="event-2025-12-08-turning-point-usa-fundraiser-at-mar-a-la">
 <div class="timeline-date">2025-12-08</div>
-<div class="timeline-desc"><a href="/events/event-2025-12-08-turning-point-usa-fundraiser-at-mar-a-la.md">Turning Point USA fundraiser at Mar-a-Lago reportedly raises 0 million over two nights</a></div>
+<div class="timeline-desc"><a href="/events/event-2025-12-08-turning-point-usa-fundraiser-at-mar-a-la.md">Turning Point USA fundraiser at Mar-a-Lago reportedly raises $40 million over two nights</a></div>
 <div class="timeline-meta">
 <span class="timeline-badge mentions">1× in 1 ep</span>
-<button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-08: Turning Point USA fundraiser at Mar-a-Lago reportedly raises 0 million over two nights - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-08: Turning Point USA fundraiser at Mar-a-Lago reportedly raises $40 million over two nights - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>

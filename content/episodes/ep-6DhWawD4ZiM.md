@@ -265,7 +265,7 @@ youtube_url: "https://www.youtube.com/watch?v=6DhWawD4ZiM"
 - **2025-09-09**: [VIP government plane (SAM flight 99-0404) departs Fort Huachuca with call sign change indicating VIP passenger](/events/event-2025-09-09-vip-government-plane-sam-flight-99-0404-.md)
 - **2025-09-10**: [Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University](/events/event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve.md)
 - **2025-11-10**: [Sergio Gor sworn in as US Ambassador to India, Erika Kirk attends Oval Office ceremony](/events/event-2025-11-10-sergio-gor-sworn-in-as-us-ambassador-to-.md)
-- **2025-12-08**: [Turning Point USA fundraiser at Mar-a-Lago reportedly raises 0 million over two nights](/events/event-2025-12-08-turning-point-usa-fundraiser-at-mar-a-la.md)
+- **2025-12-08**: [Turning Point USA fundraiser at Mar-a-Lago reportedly raises $40 million over two nights](/events/event-2025-12-08-turning-point-usa-fundraiser-at-mar-a-la.md)
 - **2025-12-10**: [Erika Kirk interview with Harris Faulkner on Fox News Outnumbered addressing conspiracy theories](/events/event-2025-12-10-erika-kirk-interview-with-harris-faulkne.md)
 - **2025-12-10**: [Tucker Carlson appears on Theo Von podcast discussing Charlie Kirk assassination](/events/event-2025-12-10-tucker-carlson-appears-on-theo-von-podca.md)
 - **2025-12-10**: [Erika Kirk town hall with Bari Weiss filmed at CBS for later broadcast](/events/event-2025-12-10-erika-kirk-town-hall-with-bari-weiss-fil.md)
