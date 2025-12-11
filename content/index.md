@@ -24,4 +24,4 @@ This project uses AI to automatically transcribe episodes, extract entities (peo
 > Information should be independently verified. Entity identifications and statement
 > extractions may contain errors.
 
-*Last regenerated: 2025-12-11 13:56:05*
+*Last regenerated: 2025-12-11 14:35:32*

@@ -108,11 +108,6 @@ _438 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Donald Trump Jr.](/entities/person-donald-trump-jr.md) (251 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Mikey McCoy](/entities/person-mikey-mccoy.md) (185 mentions)
 
 </div>
@@ -309,6 +304,11 @@ _438 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Bari Weiss](/entities/person-bari-weiss.md) (20 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Donald Trump Jr.](/entities/person-donald-trump-jr.md) (20 mentions)
 
 </div>
 <div class="filter-item">
