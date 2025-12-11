@@ -1,6 +1,6 @@
 # Entity Disambiguation - Resolved Mentions
 
-Generated: 2025-12-11 12:34:51
+Generated: 2025-12-11 12:41:43
 
 **8 ambiguous mentions** were automatically resolved using context.
 

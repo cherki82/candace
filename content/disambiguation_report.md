@@ -1,6 +1,6 @@
 # Entity Disambiguation Report
 
-Generated: 2025-12-11 12:34:51
+Generated: 2025-12-11 12:41:43
 
 **6 ambiguous mentions** could not be automatically resolved.
 
@@ -10,7 +10,7 @@ These mentions matched multiple entities and the surrounding context was insuffi
 
 ## `Andrew` (3 occurrences)
 
-**Could be:** Andrew Klavan, Andrew Kolvet
+**Could be:** Andrew Kolvet, Andrew Klavan
 
 | Episode | Location | Context |
 |---------|----------|--------|
