@@ -11,7 +11,7 @@ date: "2025-05-02"
 
 > Charlie Kirk sends letter to Benjamin Netanyahu
 
-## Mentioned In (288 times)
+## Mentioned In (290 times)
 
 ### 1. They Are Lying About Charlie Kirk. | Candace Ep 235
 
@@ -120,7 +120,7 @@ date: "2025-05-02"
 ### 14. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:00:01](/episodes/ep-K5GjF53bfN4.md#t-00-00-01) 
+**Timestamp:** [00:00:01](/episodes/ep-K5GjF53bfN4.md#event-event-2025-05-02-charlie-kirk-sends-letter-to-benjamin-netanyahu-t-00-01-58) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1);return false;">▶️ Play</a>
 
 > All right, you guys. So a week before Charlie lost his life, he expressed some concerns about the finances at Turning Point USA. In fact, he wan
@@ -256,7 +256,7 @@ date: "2025-05-02"
 ### 31. DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
-**Timestamp:** [00:00:20](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01) 
+**Timestamp:** [00:00:20](/episodes/ep-YA1FxrDWNIo.md#event-event-2025-05-02-charlie-kirk-sends-letter-to-benjamin-netanyahu-t-00-00-39) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(20);return false;">▶️ Play</a>
 
 > a lot of little lies being told. Right? Charlie gets assassinated, and the very people who were threatening him reputationally and financially are
@@ -544,7 +544,7 @@ date: "2025-05-02"
 ### 67. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:09:36](/episodes/ep-K5GjF53bfN4.md#t-00-09-14) 
+**Timestamp:** [00:09:36](/episodes/ep-K5GjF53bfN4.md#event-event-2025-05-02-charlie-kirk-sends-letter-to-benjamin-netanyahu-t-00-01-58) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(576);return false;">▶️ Play</a>
 
 > All right, you guys. So a week before Charlie lost his life, he expressed some concerns about the finances at Turning Point USA. In fact, he wanted t
@@ -880,7 +880,7 @@ date: "2025-05-02"
 ### 109. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:04:24](/episodes/ep-K5GjF53bfN4.md#t-00-04-07) 
+**Timestamp:** [00:04:24](/episodes/ep-K5GjF53bfN4.md#event-event-2025-05-02-charlie-kirk-sends-letter-to-benjamin-netanyahu-t-00-01-58) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(264);return false;">▶️ Play</a>
 
 > talks about how Charlie raised up his phone and had written
@@ -904,7 +904,7 @@ date: "2025-05-02"
 ### 112. DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
-**Timestamp:** [00:01:30](/episodes/ep-YA1FxrDWNIo.md#t-00-00-39) 
+**Timestamp:** [00:01:30](/episodes/ep-YA1FxrDWNIo.md#event-event-2025-05-02-charlie-kirk-sends-letter-to-benjamin-netanyahu-t-00-00-39) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(90);return false;">▶️ Play</a>
 
 > Benjamin Netanyahu, with maybe a little help from Turning Point USA, is releasing the letter, the May love letter from Charlie Kirk to Is
@@ -1120,7 +1120,7 @@ date: "2025-05-02"
 ### 139. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:01:40](/episodes/ep-K5GjF53bfN4.md#t-00-01-27) 
+**Timestamp:** [00:01:40](/episodes/ep-K5GjF53bfN4.md#event-event-2025-05-02-charlie-kirk-sends-letter-to-benjamin-netanyahu-t-00-01-58) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(100);return false;">▶️ Play</a>
 
 > irst and foremost, of course, Benjamin Netanyahu over-inserting himself, not even just on day one, minute one. He tweeted before the president
@@ -1152,7 +1152,7 @@ date: "2025-05-02"
 ### 143. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:04:48](/episodes/ep-K5GjF53bfN4.md#t-00-04-24) 
+**Timestamp:** [00:04:48](/episodes/ep-K5GjF53bfN4.md#event-event-2025-05-02-charlie-kirk-sends-letter-to-benjamin-netanyahu-t-00-01-58) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(288);return false;">▶️ Play</a>
 
 > Netanyahu calling Charlie and inviting him to Israel. And Bi
@@ -1232,7 +1232,7 @@ date: "2025-05-02"
 ### 153. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:15:46](/episodes/ep-K5GjF53bfN4.md#t-00-15-27) 
+**Timestamp:** [00:15:46](/episodes/ep-K5GjF53bfN4.md#event-event-2025-05-02-charlie-kirk-sends-letter-to-benjamin-netanyahu-t-00-01-58) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(946);return false;">▶️ Play</a>
 
 > at right away jumped out at me as odd, first and foremost, of course, Benjamin Netanyahu over-inserting himself, not even just on day one, mi
@@ -1240,7 +1240,7 @@ date: "2025-05-02"
 ### 154. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:15:27](/episodes/ep-K5GjF53bfN4.md#t-00-14-44) 
+**Timestamp:** [00:15:27](/episodes/ep-K5GjF53bfN4.md#event-event-2025-05-02-charlie-kirk-sends-letter-to-benjamin-netanyahu-t-00-01-58) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(927);return false;">▶️ Play</a>
 
 > at right away jumped out at me as odd, first and foremost, of course, Benjamin Netanyahu over-inserting himself, not even just on day one, minute one. He
@@ -1560,7 +1560,7 @@ date: "2025-05-02"
 ### 194. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:02:46](/episodes/ep-K5GjF53bfN4.md#t-00-02-40) 
+**Timestamp:** [00:02:46](/episodes/ep-K5GjF53bfN4.md#event-event-2025-05-02-charlie-kirk-sends-letter-to-benjamin-netanyahu-t-00-01-58) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(166);return false;">▶️ Play</a>
 
 > be liars, okay? And of course, who could forget the word len
@@ -1624,7 +1624,7 @@ date: "2025-05-02"
 ### 202. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:41:20](/episodes/ep-K5GjF53bfN4.md#t-00-40-46) 
+**Timestamp:** [00:41:20](/episodes/ep-K5GjF53bfN4.md#event-event-2025-05-02-charlie-kirk-sends-letter-to-benjamin-netanyahu-t-00-01-58) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2480);return false;">▶️ Play</a>
 
 > bless." Thank you, James. Renee writes, "Have you covered th
@@ -1696,7 +1696,7 @@ date: "2025-05-02"
 ### 211. DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
-**Timestamp:** [00:32:02](/episodes/ep-YA1FxrDWNIo.md#t-00-31-28) 
+**Timestamp:** [00:32:02](/episodes/ep-YA1FxrDWNIo.md#event-event-2025-05-02-charlie-kirk-sends-letter-to-benjamin-netanyahu-t-00-00-39) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1922);return false;">▶️ Play</a>
 
 > t also some other people. You can see this in the Daily Mail article. They recount this after Charlie's death. “Kash Patel questions grow as it
@@ -1736,7 +1736,7 @@ date: "2025-05-02"
 ### 216. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:01:58](/episodes/ep-K5GjF53bfN4.md#t-00-01-27) 
+**Timestamp:** [00:01:58](/episodes/ep-K5GjF53bfN4.md#event-event-2025-05-02-charlie-kirk-sends-letter-to-benjamin-netanyahu-t-00-01-58) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(118);return false;">▶️ Play</a>
 
 > that is, especially because when he went on multiple hits do
@@ -1752,7 +1752,7 @@ date: "2025-05-02"
 ### 218. DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
-**Timestamp:** [00:42:35](/episodes/ep-YA1FxrDWNIo.md#t-00-42-16) 
+**Timestamp:** [00:42:35](/episodes/ep-YA1FxrDWNIo.md#event-event-2025-05-02-charlie-kirk-sends-letter-to-benjamin-netanyahu-t-00-00-39) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2555);return false;">▶️ Play</a>
 
 > ore Charlie Kirk dies—someone like Laura Loomer is calling him anti-Semite, and she's funded by one of Charlie's donors, Bob Shill
@@ -1808,7 +1808,7 @@ date: "2025-05-02"
 ### 225. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:20:19](/episodes/ep-K5GjF53bfN4.md#t-00-19-45) 
+**Timestamp:** [00:20:19](/episodes/ep-K5GjF53bfN4.md#event-event-2025-05-02-charlie-kirk-sends-letter-to-benjamin-netanyahu-t-00-01-58) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1219);return false;">▶️ Play</a>
 
 > finding out why and how this was happening. So on September 2nd, which is, of course, just one week before he lost his life, Charlie surprised the c
@@ -1816,7 +1816,7 @@ date: "2025-05-02"
 ### 226. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:39:51](/episodes/ep-K5GjF53bfN4.md#t-00-39-27) 
+**Timestamp:** [00:39:51](/episodes/ep-K5GjF53bfN4.md#event-event-2025-05-02-charlie-kirk-sends-letter-to-benjamin-netanyahu-t-00-01-58) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2391);return false;">▶️ Play</a>
 
 > relationship with Charlie was real, actually, a shout out to
@@ -1856,7 +1856,7 @@ date: "2025-05-02"
 ### 231. DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
-**Timestamp:** [00:02:07](/episodes/ep-YA1FxrDWNIo.md#t-00-01-30) 
+**Timestamp:** [00:02:07](/episodes/ep-YA1FxrDWNIo.md#event-event-2025-05-02-charlie-kirk-sends-letter-to-benjamin-netanyahu-t-00-00-39) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(127);return false;">▶️ Play</a>
 
 > asked for the public's help in identifying two individuals w
@@ -1936,7 +1936,7 @@ date: "2025-05-02"
 ### 241. DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
-**Timestamp:** [00:32:13](/episodes/ep-YA1FxrDWNIo.md#t-00-31-28) 
+**Timestamp:** [00:32:13](/episodes/ep-YA1FxrDWNIo.md#event-event-2025-05-02-charlie-kirk-sends-letter-to-benjamin-netanyahu-t-00-00-39) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1933);return false;">▶️ Play</a>
 
 > he chief—among other people—and replaced her with Robert Bowles in August. I think Robert Bowles—actually, it was his first week when Charlie got sh
@@ -1952,7 +1952,7 @@ date: "2025-05-02"
 ### 243. DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
-**Timestamp:** [00:42:40](/episodes/ep-YA1FxrDWNIo.md#t-00-42-16) 
+**Timestamp:** [00:42:40](/episodes/ep-YA1FxrDWNIo.md#event-event-2025-05-02-charlie-kirk-sends-letter-to-benjamin-netanyahu-t-00-00-39) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2560);return false;">▶️ Play</a>
 
 > nded by one of Charlie's donors, Bob Shillman—who then does a 180 and is now pretending that she is morally fighting me to stop researching into
@@ -2280,7 +2280,7 @@ date: "2025-05-02"
 ### 284. DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
-**Timestamp:** [00:28:44](/episodes/ep-YA1FxrDWNIo.md#t-00-28-44) 
+**Timestamp:** [00:28:44](/episodes/ep-YA1FxrDWNIo.md#event-event-2025-05-02-charlie-kirk-sends-letter-to-benjamin-netanyahu-t-00-00-39) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1724);return false;">▶️ Play</a>
 
 > t to renew. When I asked them why, they told me that Charlie wanted to go a different direction by getting an army vest instead—like a metal army vest, I believe is what he says. And he
@@ -2288,7 +2288,7 @@ date: "2025-05-02"
 ### 285. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:10:48](/episodes/ep-K5GjF53bfN4.md#t-00-10-43) 
+**Timestamp:** [00:10:48](/episodes/ep-K5GjF53bfN4.md#event-event-2025-05-02-charlie-kirk-sends-letter-to-benjamin-netanyahu-t-00-01-58) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(648);return false;">▶️ Play</a>
 
 > een seeing a lot of vitriol that's been thrown at Andrew Kolvet's way because he is doing press. He is carrying on Charlie Kirk's s
@@ -2312,7 +2312,23 @@ date: "2025-05-02"
 ### 288. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:10:37](/episodes/ep-K5GjF53bfN4.md#t-00-09-59) 
+**Timestamp:** [00:10:37](/episodes/ep-K5GjF53bfN4.md#event-event-2025-05-02-charlie-kirk-sends-letter-to-benjamin-netanyahu-t-00-01-58) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(637);return false;">▶️ Play</a>
 
 > een seeing a lot of vitriol that's been thrown at Andrew Kolvet's way because he is doing press. He is carrying on Charlie Kirk's show. He was already seated on Cha
+
+### 289. They Are Lying About Charlie Kirk. | Candace Ep 235
+
+**Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
+**Timestamp:** [00:07:41](/episodes/ep-czVBmqZP6Ss.md#event-event-2025-05-02-charlie-kirk-sends-letter-to-benjamin-netanyahu-t-00-00-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(461);return false;">▶️ Play</a>
+
+> He said—he wrote me a letter on May 2nd this year. He said, one of my greatest joys as a Christian is advocating for Israel and forming alliances to defend Judeo-Christian civilization
+
+### 290. DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245
+
+**Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
+**Timestamp:** [00:01:30](/episodes/ep-YA1FxrDWNIo.md#event-event-2025-05-02-charlie-kirk-sends-letter-to-benjamin-netanyahu-t-00-00-39) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(90);return false;">▶️ Play</a>
+
+> It took him a little over two weeks, but now Benjamin Netanyahu, with maybe a little help from

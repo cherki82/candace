@@ -11,12 +11,12 @@ date: "2025-08-01"
 
 > Cam Higby joins Turning Point USA payroll
 
-## Mentioned In (76 times)
+## Mentioned In (77 times)
 
 ### 1. Shocking Revelation About The Egyptian Planes... | Candace E...
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
-**Timestamp:** [00:03:30](/episodes/ep-ZAuuSq_j2_w.md#t-00-03-07) 
+**Timestamp:** [00:03:30](/episodes/ep-ZAuuSq_j2_w.md#event-event-2025-08-01-cam-higby-joins-turning-point-usa-payroll-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(210);return false;">▶️ Play</a>
 
 > tweets and ultimatum, I wanted to update you guys and let yo
@@ -192,7 +192,7 @@ date: "2025-08-01"
 ### 23. Shocking Revelation About The Egyptian Planes... | Candace E...
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
-**Timestamp:** [00:00:04](/episodes/ep-ZAuuSq_j2_w.md#t-00-00-00) 
+**Timestamp:** [00:00:04](/episodes/ep-ZAuuSq_j2_w.md#event-event-2025-08-01-cam-higby-joins-turning-point-usa-payroll-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(4);return false;">▶️ Play</a>
 
 > Cinderella's carriage turned back into a pumpkin, Turning Point USA decided it was a good time to issue a confirmation plus an ultimatum—a time and a date for our deba
@@ -400,7 +400,7 @@ date: "2025-08-01"
 ### 49. Shocking Revelation About The Egyptian Planes... | Candace E...
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
-**Timestamp:** [00:19:12](/episodes/ep-ZAuuSq_j2_w.md#t-00-19-06) 
+**Timestamp:** [00:19:12](/episodes/ep-ZAuuSq_j2_w.md#event-event-2025-08-01-cam-higby-joins-turning-point-usa-payroll-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1152);return false;">▶️ Play</a>
 
 > expressed by me. It should be expressed by every single pers
@@ -408,7 +408,7 @@ date: "2025-08-01"
 ### 50. Shocking Revelation About The Egyptian Planes... | Candace E...
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
-**Timestamp:** [00:38:53](/episodes/ep-ZAuuSq_j2_w.md#t-00-38-42) 
+**Timestamp:** [00:38:53](/episodes/ep-ZAuuSq_j2_w.md#event-event-2025-08-01-cam-higby-joins-turning-point-usa-payroll-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2333);return false;">▶️ Play</a>
 
 > was like the number one top 500 comments yesterday was "don'
@@ -504,7 +504,7 @@ date: "2025-08-01"
 ### 62. Shocking Revelation About The Egyptian Planes... | Candace E...
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
-**Timestamp:** [00:02:11](/episodes/ep-ZAuuSq_j2_w.md#t-00-01-28) 
+**Timestamp:** [00:02:11](/episodes/ep-ZAuuSq_j2_w.md#event-event-2025-08-01-cam-higby-joins-turning-point-usa-payroll-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(131);return false;">▶️ Play</a>
 
 > I wanted to update you guys and let you know that Cam Higby—remember that weird propagandist reporter who goes to the Pentagon press secretary and is like, "Do
@@ -528,7 +528,7 @@ date: "2025-08-01"
 ### 65. Shocking Revelation About The Egyptian Planes... | Candace E...
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
-**Timestamp:** [00:24:01](/episodes/ep-ZAuuSq_j2_w.md#t-00-23-48) 
+**Timestamp:** [00:24:01](/episodes/ep-ZAuuSq_j2_w.md#event-event-2025-08-01-cam-higby-joins-turning-point-usa-payroll-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1441);return false;">▶️ Play</a>
 
 > of a PR maneuver. That's why they're sending out Cam Higby. They're laughing at everything that we say, everything that we do. That's kind of their new shtick
@@ -536,7 +536,7 @@ date: "2025-08-01"
 ### 66. Shocking Revelation About The Egyptian Planes... | Candace E...
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
-**Timestamp:** [00:43:10](/episodes/ep-ZAuuSq_j2_w.md#t-00-42-58) 
+**Timestamp:** [00:43:10](/episodes/ep-ZAuuSq_j2_w.md#event-event-2025-08-01-cam-higby-joins-turning-point-usa-payroll-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2590);return false;">▶️ Play</a>
 
 > and that if it wasn't, we should be hearing from proper chan
@@ -620,3 +620,11 @@ date: "2025-08-01"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(487);return false;">▶️ Play</a>
 
 > after was for the Turning Point USA spokesperson, Andrew Kolvet, to issue this statement as people were asking questions like, "Hey, how is that possible? How was
+
+### 77. Shocking Revelation About The Egyptian Planes... | Candace E...
+
+**Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
+**Timestamp:** [00:00:43](/episodes/ep-ZAuuSq_j2_w.md#event-event-2025-08-01-cam-higby-joins-turning-point-usa-payroll-t-00-00-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(43);return false;">▶️ Play</a>
+
+> Cam Higby is on the payroll of Turning Point USA, beginning in August of this year

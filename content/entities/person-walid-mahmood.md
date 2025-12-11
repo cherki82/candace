@@ -103,7 +103,7 @@ _No relationships extracted yet._
   - Also about: [SU-BTT](/entities/vehicle-su-btt.md)
 
 - [00:15:12](/episodes/ep-ZAuuSq_j2_w.md#t-00-15-09) (Claim) **Candace Owens**: ["Walid Mahmood came to Provo on May 27th of this year aboard another Eg..."](/statements/statement-c65701d7dc38.md)
-  - Also about: [work-su-btu](/entities/work-su-btu.md)
+  - Also about: [SU-BTU](/entities/vehicle-su-btu.md)
 
 - [00:18:38](/episodes/ep-ZAuuSq_j2_w.md#t-00-18-21) (Opinion) **Candace Owens**: ["Walid Mahmood is not the president of Egypt, but is almost certainly w..."](/statements/statement-0c0772a6830c.md)
   - Also about: [Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md)

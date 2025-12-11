@@ -11,7 +11,7 @@ date: "2025-02-26"
 
 > Donald Trump calls Candace Owens to stop Brigitte Macron coverage.
 
-## Mentioned In (149 times)
+## Mentioned In (150 times)
 
 ### 1. Another French Front: Did Charlie Kirk Save My Life? | Canda...
 
@@ -1204,3 +1204,11 @@ date: "2025-02-26"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2914);return false;">▶️ Play</a>
 
 > a name. No, she's got a lot of them. I'm sure that there's a Twitter army out there, but what famous names, advocates, are saying, I'm with Candace. Tucker, maybe? Who
+
+### 150. Another French Front: Did Charlie Kirk Save My Life? | Canda...
+
+**Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
+**Timestamp:** [00:12:49](/episodes/ep-sImMM04XdWY.md#event-event-2025-02-26-donald-trump-calls-candace-owens-to-stop-brigitte-t-00-00-39) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(769);return false;">▶️ Play</a>
+
+> On February 25th, actually, Sergio Gor called me and asked me to stop speaking about Brigitte.

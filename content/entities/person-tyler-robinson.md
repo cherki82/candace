@@ -2206,7 +2206,7 @@ _Type: People_
 
 - [00:38:09](/episodes/ep-sImMM04XdWY.md#t-00-37-36) (Claim) **Candace Owens**: ["Both students who posted videos of the alleged shooter on the roof wer..."](/statements/statement-93fbe6678eff.md)
 
-- [00:42:03](/episodes/ep-sImMM04XdWY.md#t-00-41-20) (Claim) **kuer-news-reporter** (via quoted article): ["Washington County Sheriff's Office stated the surveillance footage of ..."](/statements/statement-e6666665e8f5.md)
+- [00:42:03](/episodes/ep-sImMM04XdWY.md#t-00-41-20) (Claim) **Candace Owens** (via quoted article): ["Washington County Sheriff's Office stated the surveillance footage of ..."](/statements/statement-e6666665e8f5.md)
 
 - [00:43:26](/episodes/ep-sImMM04XdWY.md#t-00-42-54) (Claim) **Candace Owens**: ["Tyler Robinson appears electronically for court hearings and doesn't h..."](/statements/statement-a2d763e2446c.md)
 

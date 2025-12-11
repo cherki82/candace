@@ -239,7 +239,7 @@ youtube_url: "https://www.youtube.com/watch?v=mKXdKV-OBog"
 - **2024-09-04**: [Egyptian plane SUBTT stops for one hour in Minot, North Dakota before continuing to Provo](/events/event-2024-09-04-egyptian-plane-subtt-stops-for-one-hour-.md)
 - **2024-09-12**: [Kash Patel ends press conference with 'I'll see you in Valhalla' statement about Charlie Kirk](/events/event-2024-09-12-kash-patel-ends-press-conference-with-il.md)
 - **2025-07-01**: [Mike Huckabee meets with convicted Israeli spy Jonathan Pollard in Israel](/events/event-2025-07-01-mike-huckabee-meets-with-convicted-israe.md)
-- **2025-07-11**: [Tucker Carlson delivered a speech.](/events/event-2025-07-11-tucker-carlson-delivered-a-speech.md)
+- **2025-07-11**: [Tucker Carlson speech calls out Bill Ackman on Israel and citizenship](/events/event-2025-07-11-tucker-carlson-speech-calls-out-bill-ackman-on-isr.md)
 - **2025-07-22**: [Nebraska Secretary of State Bob Evnen announced trade and investment delegation to Cairo, Egypt.](/events/event-2025-07-22-nebraska-secretary-of-state-bob-evnen-announced-tr.md)
 - **2025-07-25**: [Satis subsidiary in Hamburg, Germany underwent CEO switch.](/events/event-2025-07-25-satis-subsidiary-in-hamburg-germany-underwent-ceo.md)
 - **2025-10-11**: [Mike Huckabee and David Friedman perform 'Sweet Home Jerusalem' on stage in Jerusalem](/events/event-2025-10-11-mike-huckabee-and-david-friedman-perform.md)

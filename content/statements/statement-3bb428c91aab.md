@@ -23,7 +23,7 @@ type: "citation"
 ## About
 
 - [Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md) (person)
-- [work-su-btu](/entities/work-su-btu.md)
+- [SU-BTU](/entities/vehicle-su-btu.md) (vehicle)
 - [Mohammed bin Salman](/entities/person-mohammed-bin-salman.md) (person)
 
 ## Source

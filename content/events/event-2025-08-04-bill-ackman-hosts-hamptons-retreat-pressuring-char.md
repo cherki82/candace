@@ -11,7 +11,7 @@ date: "2025-08-04"
 
 > Bill Ackman hosts Hamptons retreat pressuring Charlie Kirk on Israel
 
-## Mentioned In (273 times)
+## Mentioned In (275 times)
 
 ### 1. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
 
@@ -192,7 +192,7 @@ date: "2025-08-04"
 ### 23. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:00:21](/episodes/ep-czVBmqZP6Ss.md#t-00-00-00) 
+**Timestamp:** [00:00:21](/episodes/ep-czVBmqZP6Ss.md#event-event-2025-08-04-bill-ackman-hosts-hamptons-retreat-pressuring-char-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(21);return false;">▶️ Play</a>
 
 > and foremost, to let you know, last week was not a dream. Ch
@@ -592,7 +592,7 @@ date: "2025-08-04"
 ### 73. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:00:24](/episodes/ep-czVBmqZP6Ss.md#t-00-00-00) 
+**Timestamp:** [00:00:24](/episodes/ep-czVBmqZP6Ss.md#event-event-2025-08-04-bill-ackman-hosts-hamptons-retreat-pressuring-char-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(24);return false;">▶️ Play</a>
 
 > most, to let you know, last week was not a dream. Charlie, my friend, is dead. And he was publicly executed. I want to make that clear. Charlie wa
@@ -656,7 +656,7 @@ date: "2025-08-04"
 ### 81. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:26:16](/episodes/ep-czVBmqZP6Ss.md#t-00-26-07) 
+**Timestamp:** [00:26:16](/episodes/ep-czVBmqZP6Ss.md#event-event-2025-08-04-bill-ackman-hosts-hamptons-retreat-pressuring-char-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1576);return false;">▶️ Play</a>
 
 > promo code Candace. Okay. Let's get into what we know about
@@ -696,7 +696,7 @@ date: "2025-08-04"
 ### 86. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:36:02](/episodes/ep-czVBmqZP6Ss.md#t-00-35-22) 
+**Timestamp:** [00:36:02](/episodes/ep-czVBmqZP6Ss.md#event-event-2025-08-04-bill-ackman-hosts-hamptons-retreat-pressuring-char-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2162);return false;">▶️ Play</a>
 
 > promo code Candace. Okay. Let's get into what we know about
@@ -1008,7 +1008,7 @@ date: "2025-08-04"
 ### 125. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:29:05](/episodes/ep-czVBmqZP6Ss.md#t-00-28-54) 
+**Timestamp:** [00:29:05](/episodes/ep-czVBmqZP6Ss.md#event-event-2025-08-04-bill-ackman-hosts-hamptons-retreat-pressuring-char-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1745);return false;">▶️ Play</a>
 
 > day. In fact, he was telling the truth even about Jeffrey Epstein. Take a listen. Epstein with his little friend Ghislaine, and Ghislaine's fath
@@ -1400,7 +1400,7 @@ date: "2025-08-04"
 ### 174. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:14:07](/episodes/ep-czVBmqZP6Ss.md#t-00-13-40) 
+**Timestamp:** [00:14:07](/episodes/ep-czVBmqZP6Ss.md#event-event-2025-08-04-bill-ackman-hosts-hamptons-retreat-pressuring-char-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(847);return false;">▶️ Play</a>
 
 > he was on that stage at Turning Point, brought up Bill Ackman. Bill Ackman is a billionaire, obviously. He is also an extremely litigious billionaire. And Bill A
@@ -1744,7 +1744,7 @@ date: "2025-08-04"
 ### 217. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:16:09](/episodes/ep-czVBmqZP6Ss.md#t-00-15-45) 
+**Timestamp:** [00:16:09](/episodes/ep-czVBmqZP6Ss.md#event-event-2025-08-04-bill-ackman-hosts-hamptons-retreat-pressuring-char-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(969);return false;">▶️ Play</a>
 
 > In fact, he was asked to dispute this narrative. Max Blumenthal went out to him today and Bill Ackman came back and said, I have receipts, I can show you. And he d
@@ -2080,7 +2080,7 @@ date: "2025-08-04"
 ### 259. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:37:43](/episodes/ep-czVBmqZP6Ss.md#t-00-37-05) 
+**Timestamp:** [00:37:43](/episodes/ep-czVBmqZP6Ss.md#event-event-2025-08-04-bill-ackman-hosts-hamptons-retreat-pressuring-char-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2263);return false;">▶️ Play</a>
 
 > has the barrel installed. So we're supposed to believe a guy is on the run after killing Charlie and he pauses in the woods to reinstall a barrel, and then he leaves it for us to find,
@@ -2196,3 +2196,19 @@ date: "2025-08-04"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(637);return false;">▶️ Play</a>
 
 > een seeing a lot of vitriol that's been thrown at Andrew Kolvet's way because he is doing press. He is carrying on Charlie Kirk's show. He was already seated on Cha
+
+### 274. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
+
+**Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
+**Timestamp:** [00:50:30](/episodes/ep-q7f8r-THr84.md#event-event-2025-08-04-bill-ackman-hosts-hamptons-retreat-pressuring-char-t-00-00-01) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3030);return false;">▶️ Play</a>
+
+> Bill Ackman just confirmed that he hosted his meeting with Charlie on August 4th and 5th.
+
+### 275. They Are Lying About Charlie Kirk. | Candace Ep 235
+
+**Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
+**Timestamp:** [00:15:18](/episodes/ep-czVBmqZP6Ss.md#event-event-2025-08-04-bill-ackman-hosts-hamptons-retreat-pressuring-char-t-00-00-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(918);return false;">▶️ Play</a>
+
+> he was on that stage at Turning Point, brought up Bill Ackman. Bill Ackman is a billionaire, obviously. He is also an extremely litigious billionaire. And Bill Ackman was on Charlie abo

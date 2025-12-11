@@ -11,7 +11,7 @@ date: "2023-02-20"
 
 > James O'Keefe ousted in hostile takeover of Project Veritas
 
-## Mentioned In (5 times)
+## Mentioned In (6 times)
 
 ### 1. INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Ca...
 
@@ -52,3 +52,11 @@ date: "2023-02-20"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2299);return false;">▶️ Play</a>
 
 > formerly of Project Veritas—he's very much trusted. Matt Gae
+
+### 6. INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Ca...
+
+**Episode:** [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
+**Timestamp:** [00:11:06](/episodes/ep-YFmRH8p5lt0.md#event-event-2023-02-20-james-o-keefe-ousted-in-hostile-takeover-of-projec-t-00-08-56) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(666);return false;">▶️ Play</a>
+
+> On February 20th, I think this might be relevant because the same people that infiltrated or hostilely took over James O'Keefe were involved with Turning Point USA.

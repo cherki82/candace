@@ -16,7 +16,7 @@ date: "2025-05-27"
 ### 1. Shocking Revelation About The Egyptian Planes... | Candace E...
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
-**Timestamp:** [00:15:12](/episodes/ep-ZAuuSq_j2_w.md#t-00-15-09) 
+**Timestamp:** [00:15:12](/episodes/ep-ZAuuSq_j2_w.md#event-event-2025-05-27-walid-mahmood-arrives-in-provo-aboard-egyptian-mil-t-00-14-25) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(912);return false;">▶️ Play</a>
 
 > e name that one of those individuals was using is Walid Mahmood, okay? Walid Mahmood. So we now know that of the four people that flew to Delaware, someone flew using the name Walid Mahmood, okay? Her
@@ -24,7 +24,7 @@ date: "2025-05-27"
 ### 2. Shocking Revelation About The Egyptian Planes... | Candace E...
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
-**Timestamp:** [00:14:42](/episodes/ep-ZAuuSq_j2_w.md#t-00-14-25) 
+**Timestamp:** [00:14:42](/episodes/ep-ZAuuSq_j2_w.md#event-event-2025-05-27-walid-mahmood-arrives-in-provo-aboard-egyptian-mil-t-00-14-25) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(882);return false;">▶️ Play</a>
 
 > e name that one of those individuals was using is Walid Mahmood, okay? Walid Mahmood. So we now know that of the four people that flew to Delaware, someone flew us

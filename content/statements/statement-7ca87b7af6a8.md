@@ -20,7 +20,7 @@ type: "factual_claim"
 
 ## About
 
-- [work-su-btu](/entities/work-su-btu.md)
+- [SU-BTU](/entities/vehicle-su-btu.md) (vehicle)
 - [FlightRadar](/entities/org-flightradar.md) (org)
 
 ## Source

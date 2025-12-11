@@ -11,12 +11,12 @@ date: "2025-06-02"
 
 > The Egyptian military plane SU-BTU departed and was reported not transponding on departure.
 
-## Mentioned In (17 times)
+## Mentioned In (18 times)
 
 ### 1. Shocking Revelation About The Egyptian Planes... | Candace E...
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
-**Timestamp:** [00:16:19](/episodes/ep-ZAuuSq_j2_w.md#t-00-15-51) 
+**Timestamp:** [00:16:19](/episodes/ep-ZAuuSq_j2_w.md#event-event-2025-06-02-the-egyptian-military-plane-su-btu-departed-and-wa-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(979);return false;">▶️ Play</a>
 
 > right, you guys. Happy Thursday. Fun little update for you.
@@ -48,7 +48,7 @@ date: "2025-06-02"
 ### 5. Shocking Revelation About The Egyptian Planes... | Candace E...
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
-**Timestamp:** [00:00:40](/episodes/ep-ZAuuSq_j2_w.md#t-00-00-00) 
+**Timestamp:** [00:00:40](/episodes/ep-ZAuuSq_j2_w.md#event-event-2025-06-02-the-egyptian-military-plane-su-btu-departed-and-wa-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(40);return false;">▶️ Play</a>
 
 > ingenuous. We also are going to get back into the Egyptian planes today. They are also working very hard to try to convince us that that was nothing. That'
@@ -144,7 +144,15 @@ date: "2025-06-02"
 ### 17. Shocking Revelation About The Egyptian Planes... | Candace E...
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
-**Timestamp:** [00:16:50](/episodes/ep-ZAuuSq_j2_w.md#t-00-16-27) 
+**Timestamp:** [00:16:50](/episodes/ep-ZAuuSq_j2_w.md#event-event-2025-06-02-the-egyptian-military-plane-su-btu-departed-and-wa-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1010);return false;">▶️ Play</a>
 
 > med. Candace Owens just got vindicated again. The Egyptian government website confirms that Egyptian President el-Sisi flew on SUBTU. Remember when Candace Owens dropped
+
+### 18. Shocking Revelation About The Egyptian Planes... | Candace E...
+
+**Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
+**Timestamp:** [00:16:04](/episodes/ep-ZAuuSq_j2_w.md#event-event-2025-06-02-the-egyptian-military-plane-su-btu-departed-and-wa-t-00-00-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(964);return false;">▶️ Play</a>
+
+> ingenuous. We also are going to get back into the Egyptian planes today. They are also working very hard to try to convince us that that was nothing. That's just what Egyptian military planes do: fly

@@ -1,14 +1,14 @@
 ---
 id: "581dILVcEE4"
 title: "The Great Exodus From Utah? Where Did The \"Egyptians\" Go On 9/10? | Candace Ep 267"
-description: "The Great Exodus From Utah? Where Did The \"Egyptians\" Go On 9/10? | Candace Ep 267 - 78 entities, 13 events, 0 claims"
+description: "The Great Exodus From Utah? Where Did The \"Egyptians\" Go On 9/10? | Candace Ep 267 - 78 entities, 12 events, 0 claims"
 published: "2025-11-18"
 youtube_url: "https://www.youtube.com/watch?v=581dILVcEE4"
 ---
 
 **Published:** 2025-11-18 | [Watch on YouTube](https://www.youtube.com/watch?v=581dILVcEE4)
 
-**Stats:** 78 entities | 13 events | 0 claims
+**Stats:** 78 entities | 12 events | 0 claims
 
 ---
 
@@ -17,7 +17,7 @@ youtube_url: "https://www.youtube.com/watch?v=581dILVcEE4"
 <details open>
 <summary><strong class="section-title">Transcript</strong></summary>
 
-**<a href="/timestamps/ep-581dILVcEE4/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=581dILVcEE4&t=0" target="_blank" title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys, happy Tuesday. <span id="ent-person-rob-mccoy-t-00-00-00"><a href="/entities/person-rob-mccoy.md">Rob McCoy</a></span> (Pastor <a href="/entities/person-rob-mccoy.md">Rob McCoy</a>), <span id="ent-gpe-united-states-t-00-00-00"><a href="/entities/gpe-united-states.md">America</a></span>'s pastor. Remember, <span id="ent-person-charlie-kirk-t-00-00-00"><a href="/entities/person-charlie-kirk.md">Charlie</a></span> told him. <a href="/entities/person-charlie-kirk.md">Charlie</a> told me I was <a href="/entities/gpe-united-states.md">America</a>'s pastor. Well, it sure as heck seems that this American pastor travels to <span id="ent-gpe-israel-t-00-00-00"><a href="/entities/gpe-israel.md">Israel</a></span> a lot. You know, a lot of these American pastors do. And he went there the other day to, of course, honor <a href="/entities/person-charlie-kirk.md">Charlie</a>. We're going to talk about that. And I want to just say <span id="ent-concept-zionism-t-00-00-00"><a href="/entities/concept-zionism.md">Zionists</a></span> are confusing at best. They say <a href="/entities/person-charlie-kirk.md">Charlie</a> was their bestest friend forever and ever. Yet for whatever reason, they are deeply upset by this investigation. They are deeply upset that we revealed the license plate numbers associated with the <span id="ent-gpe-egypt-t-00-00-00"><a href="/entities/gpe-egypt.md">Egyptian</a></span> frequent flyers.<span id="event-event-2025-09-04-egyptian-military-plane-su-btt-lands-in-provo-utah-t-00-00-00"><a href="/events/event-2025-09-04-egyptian-military-plane-su-btt-lands-in-provo-utah.md" class="event-indicator" title="Timeline event">📅</a></span> ^t-00-00-00
+**<a href="/timestamps/ep-581dILVcEE4/t-00-00-00.md" class="timestamp-link">00:00:00</a> <a href="https://www.youtube.com/watch?v=581dILVcEE4&t=0" target="_blank" title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys, happy Tuesday. <span id="ent-person-rob-mccoy-t-00-00-00"><a href="/entities/person-rob-mccoy.md">Rob McCoy</a></span> (Pastor <a href="/entities/person-rob-mccoy.md">Rob McCoy</a>), <span id="ent-gpe-united-states-t-00-00-00"><a href="/entities/gpe-united-states.md">America</a></span>'s pastor. Remember, <span id="ent-person-charlie-kirk-t-00-00-00"><a href="/entities/person-charlie-kirk.md">Charlie</a></span> told him. <a href="/entities/person-charlie-kirk.md">Charlie</a> told me I was <a href="/entities/gpe-united-states.md">America</a>'s pastor. Well, it sure as heck seems that this American pastor travels to <span id="ent-gpe-israel-t-00-00-00"><a href="/entities/gpe-israel.md">Israel</a></span> a lot. You know, a lot of these American pastors do. And he went there the other day to, of course, honor <a href="/entities/person-charlie-kirk.md">Charlie</a>. We're going to talk about that. And I want to just say <span id="ent-concept-zionism-t-00-00-00"><a href="/entities/concept-zionism.md">Zionists</a></span> are confusing at best. They say <a href="/entities/person-charlie-kirk.md">Charlie</a> was their bestest friend forever and ever. Yet for whatever reason, they are deeply upset by this investigation. They are deeply upset that we revealed the license plate numbers associated with the <span id="ent-gpe-egypt-t-00-00-00"><a href="/entities/gpe-egypt.md">Egyptian</a></span> frequent flyers.<span id="event-event-2025-09-04-egyptian-air-force-plane-subtt-arrives-in-provo-ut-t-00-00-00"><a href="/events/event-2025-09-04-egyptian-air-force-plane-subtt-arrives-in-provo-ut.md" class="event-indicator" title="Timeline event">📅</a></span> ^t-00-00-00
 
 **<a href="/timestamps/ep-581dILVcEE4/t-00-00-44.md" class="timestamp-link">00:00:44</a> <a href="https://www.youtube.com/watch?v=581dILVcEE4&t=44" target="_blank" title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Why do you think they're upset about that? I don't understand. Why would something like that upset them? It's almost like they know something that we don't. And we're going to figure out what that is. Welcome back to <span id="ent-person-candace-owens-t-00-00-44"><a href="/entities/person-candace-owens.md">Candace</a></span>. So a couple of housekeeping items to start. My sister is an accountant. She hit me up this morning, and she told me that actually the filing deadline, if you file for an extension—which we can assume <span id="ent-org-turning-point-usa-t-00-00-44"><a href="/entities/org-turning-point-usa.md">Turning Point</a></span> did—was November 15th<span id="event-event-2024-11-15-turning-point-usa-irs-filing-deadline-wi-t-00-00-44"><a href="/events/event-2024-11-15-turning-point-usa-irs-filing-deadline-wi.md" class="event-indicator" title="Timeline event">📅</a></span> for this year.<span id="event-event-2025-11-15-turning-point-usa-tax-filing-deadline-passes-witho-t-00-00-44"><a href="/events/event-2025-11-15-turning-point-usa-tax-filing-deadline-passes-witho.md" class="event-indicator" title="Timeline event">📅</a></span> ^t-00-00-44
 
@@ -245,14 +245,13 @@ youtube_url: "https://www.youtube.com/watch?v=581dILVcEE4"
 </details>
 
 <details>
-<summary><strong>Timeline Events (13)</strong></summary>
+<summary><strong>Timeline Events (12)</strong></summary>
 
 - **1963-11-22**: [President John F. Kennedy assassinated in Dallas, Texas](/events/event-1963-11-22-jfk-assassination.md)
 - **2024-11-15**: [Turning Point USA IRS filing deadline (with extension)](/events/event-2024-11-15-turning-point-usa-irs-filing-deadline-wi.md)
 - **2025-09-03**: [Student reports seeing someone on Lozier Center roof at UVU](/events/event-2025-09-03-student-reports-seeing-someone-on-lozier.md)
 - **2025-09-03 12:00**: [UVU student and professor witness suspicious man on Lozier Center roof overlooking Kirk event site.](/events/event-2025-09-03-uvu-student-and-professor-witness-suspicious-man-o.md)
-- **2025-09-04**: [Egyptian military plane SU-BTT lands in Provo, Utah with 12-14 passengers six days before Kirk assassination.](/events/event-2025-09-04-egyptian-military-plane-su-btt-lands-in-provo-utah.md)
-- **2025-09-04**: [Egyptian military plane SU-BTT lands in Provo, Utah](/events/event-2025-09-04-egyptian-military-plane-su-btt-lands-in-.md)
+- **2025-09-04**: [Egyptian Air Force plane SUBTT arrives in Provo, Utah](/events/event-2025-09-04-egyptian-air-force-plane-subtt-arrives-in-provo-ut.md)
 - **2025-09-10 10:00**: [T.W. Lewis Foundation plane lands in Provo from Scottsdale ahead of Charlie Kirk assassination.](/events/event-2025-09-10-t-w-lewis-foundation-plane-lands-in-provo-from-sco.md)
 - **2025-09-10 12:24**: [Blake Neff calls mother 45 seconds after Charlie Kirk shooting at UVU event.](/events/event-2025-09-10-blake-neff-calls-mother-45-seconds-after-charlie-k.md)
 - **2025-09-11**: [CNN publishes article on UVU student sightings of man on roof before Kirk assassination.](/events/event-2025-09-11-cnn-publishes-article-on-uvu-student-sightings-of.md)

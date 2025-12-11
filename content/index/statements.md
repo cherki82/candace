@@ -3483,7 +3483,7 @@ _1186 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:42:03](/episodes/ep-sImMM04XdWY.md#t-00-41-20) [○] **kuer-news-reporter**: ["Washington County Sheriff's Office stated the surveillance footage of Tyler Robi..."](/statements/statement-e6666665e8f5.md)
+- [00:42:03](/episodes/ep-sImMM04XdWY.md#t-00-41-20) [○] **Candace Owens**: ["Washington County Sheriff's Office stated the surveillance footage of Tyler Robi..."](/statements/statement-e6666665e8f5.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </div>
@@ -6109,13 +6109,13 @@ _1186 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:15:12](/episodes/ep-ZAuuSq_j2_w.md#t-00-15-09) [○] **Candace Owens**: ["Walid Mahmood came to Provo on May 27th of this year aboard another Egyptian mil..."](/statements/statement-c65701d7dc38.md)
-  - About: [Walid Mahmood](/entities/person-walid-mahmood.md), [work-su-btu](/entities/work-su-btu.md)
+  - About: [Walid Mahmood](/entities/person-walid-mahmood.md), [SU-BTU](/entities/vehicle-su-btu.md)
 
 </div>
 <div class="filter-item">
 
 - [00:16:13](/episodes/ep-ZAuuSq_j2_w.md#t-00-15-51) [○] **Candace Owens**: ["The Egyptian plane SUBTU departed on June 2nd without transponding, so there is ..."](/statements/statement-7ca87b7af6a8.md)
-  - About: [work-su-btu](/entities/work-su-btu.md), [FlightRadar](/entities/org-flightradar.md)
+  - About: [SU-BTU](/entities/vehicle-su-btu.md), [FlightRadar](/entities/org-flightradar.md)
 
 </div>
 <div class="filter-item">
@@ -6785,7 +6785,7 @@ _1186 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:16:49](/episodes/ep-ZAuuSq_j2_w.md#t-00-16-27) [○] **Candace Owens**: ["The Egyptian government website confirms that Egyptian President el-Sisi flew on..."](/statements/statement-3bb428c91aab.md)
-  - About: [Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md), [work-su-btu](/entities/work-su-btu.md), [Mohammed bin Salman](/entities/person-mohammed-bin-salman.md)
+  - About: [Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md), [SU-BTU](/entities/vehicle-su-btu.md), [Mohammed bin Salman](/entities/person-mohammed-bin-salman.md)
 
 </div>
 </details>
@@ -7565,7 +7565,6 @@ _1186 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:18:14](/episodes/ep-QZWSsq8ZWzw.md#t-00-17-52) [○] **Candace Owens**: ["The public school system is shaped by Soviet ideology"](/statements/statement-f4bd23c36ba1.md)
-  - About: [concept-communism](/entities/concept-communism.md)
 
 </div>
 <div class="filter-item">
@@ -10628,7 +10627,7 @@ _1186 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:42:03](/episodes/ep-sImMM04XdWY.md#t-00-41-20) [○] (Claim) **kuer-news-reporter**: ["Washington County Sheriff's Office stated the surveillance footage of Tyler Robi..."](/statements/statement-e6666665e8f5.md)
+- [00:42:03](/episodes/ep-sImMM04XdWY.md#t-00-41-20) [○] (Claim) **Candace Owens**: ["Washington County Sheriff's Office stated the surveillance footage of Tyler Robi..."](/statements/statement-e6666665e8f5.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </div>
@@ -13494,7 +13493,6 @@ _1186 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:18:14](/episodes/ep-QZWSsq8ZWzw.md#t-00-17-52) [○] (Opinion) **Candace Owens**: ["The public school system is shaped by Soviet ideology"](/statements/statement-f4bd23c36ba1.md)
-  - About: [concept-communism](/entities/concept-communism.md)
 
 </div>
 <div class="filter-item">
@@ -14697,19 +14695,19 @@ _1186 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:15:12](/episodes/ep-ZAuuSq_j2_w.md#t-00-15-09) [○] (Claim) **Candace Owens**: ["Walid Mahmood came to Provo on May 27th of this year aboard another Egyptian mil..."](/statements/statement-c65701d7dc38.md)
-  - About: [Walid Mahmood](/entities/person-walid-mahmood.md), [work-su-btu](/entities/work-su-btu.md)
+  - About: [Walid Mahmood](/entities/person-walid-mahmood.md), [SU-BTU](/entities/vehicle-su-btu.md)
 
 </div>
 <div class="filter-item">
 
 - [00:16:13](/episodes/ep-ZAuuSq_j2_w.md#t-00-15-51) [○] (Claim) **Candace Owens**: ["The Egyptian plane SUBTU departed on June 2nd without transponding, so there is ..."](/statements/statement-7ca87b7af6a8.md)
-  - About: [work-su-btu](/entities/work-su-btu.md), [FlightRadar](/entities/org-flightradar.md)
+  - About: [SU-BTU](/entities/vehicle-su-btu.md), [FlightRadar](/entities/org-flightradar.md)
 
 </div>
 <div class="filter-item">
 
 - [00:16:49](/episodes/ep-ZAuuSq_j2_w.md#t-00-16-27) [○] (Citation) **Candace Owens**: ["The Egyptian government website confirms that Egyptian President el-Sisi flew on..."](/statements/statement-3bb428c91aab.md)
-  - About: [Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md), [work-su-btu](/entities/work-su-btu.md), [Mohammed bin Salman](/entities/person-mohammed-bin-salman.md)
+  - About: [Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md), [SU-BTU](/entities/vehicle-su-btu.md), [Mohammed bin Salman](/entities/person-mohammed-bin-salman.md)
 
 </div>
 <div class="filter-item">
@@ -15053,4 +15051,4 @@ _1186 statements extracted from podcast episodes._
 
 ---
 
-*Generated: 2025-12-11 11:24:16*
+*Generated: 2025-12-11 12:09:12*

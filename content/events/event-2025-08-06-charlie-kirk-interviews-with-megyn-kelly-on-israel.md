@@ -11,7 +11,7 @@ date: "2025-08-06"
 
 > Charlie Kirk interviews with Megyn Kelly on Israel pressure
 
-## Mentioned In (279 times)
+## Mentioned In (282 times)
 
 ### 1. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
 
@@ -192,7 +192,7 @@ date: "2025-08-06"
 ### 23. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:00:21](/episodes/ep-czVBmqZP6Ss.md#t-00-00-00) 
+**Timestamp:** [00:00:21](/episodes/ep-czVBmqZP6Ss.md#event-event-2025-08-06-charlie-kirk-interviews-with-megyn-kelly-on-israel-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(21);return false;">▶️ Play</a>
 
 > and foremost, to let you know, last week was not a dream. Ch
@@ -592,7 +592,7 @@ date: "2025-08-06"
 ### 73. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:00:24](/episodes/ep-czVBmqZP6Ss.md#t-00-00-00) 
+**Timestamp:** [00:00:24](/episodes/ep-czVBmqZP6Ss.md#event-event-2025-08-06-charlie-kirk-interviews-with-megyn-kelly-on-israel-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(24);return false;">▶️ Play</a>
 
 > most, to let you know, last week was not a dream. Charlie, my friend, is dead. And he was publicly executed. I want to make that clear. Charlie wa
@@ -656,7 +656,7 @@ date: "2025-08-06"
 ### 81. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:26:16](/episodes/ep-czVBmqZP6Ss.md#t-00-26-07) 
+**Timestamp:** [00:26:16](/episodes/ep-czVBmqZP6Ss.md#event-event-2025-08-06-charlie-kirk-interviews-with-megyn-kelly-on-israel-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1576);return false;">▶️ Play</a>
 
 > promo code Candace. Okay. Let's get into what we know about
@@ -696,7 +696,7 @@ date: "2025-08-06"
 ### 86. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:36:02](/episodes/ep-czVBmqZP6Ss.md#t-00-35-22) 
+**Timestamp:** [00:36:02](/episodes/ep-czVBmqZP6Ss.md#event-event-2025-08-06-charlie-kirk-interviews-with-megyn-kelly-on-israel-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2162);return false;">▶️ Play</a>
 
 > promo code Candace. Okay. Let's get into what we know about
@@ -1144,7 +1144,7 @@ date: "2025-08-06"
 ### 142. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:29:05](/episodes/ep-czVBmqZP6Ss.md#t-00-28-54) 
+**Timestamp:** [00:29:05](/episodes/ep-czVBmqZP6Ss.md#event-event-2025-08-06-charlie-kirk-interviews-with-megyn-kelly-on-israel-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1745);return false;">▶️ Play</a>
 
 > day. In fact, he was telling the truth even about Jeffrey Epstein. Take a listen. Epstein with his little friend Ghislaine, and Ghislaine's fath
@@ -2128,7 +2128,7 @@ date: "2025-08-06"
 ### 265. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:37:43](/episodes/ep-czVBmqZP6Ss.md#t-00-37-05) 
+**Timestamp:** [00:37:43](/episodes/ep-czVBmqZP6Ss.md#event-event-2025-08-06-charlie-kirk-interviews-with-megyn-kelly-on-israel-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2263);return false;">▶️ Play</a>
 
 > has the barrel installed. So we're supposed to believe a guy is on the run after killing Charlie and he pauses in the woods to reinstall a barrel, and then he leaves it for us to find,
@@ -2244,3 +2244,27 @@ date: "2025-08-06"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(295);return false;">▶️ Play</a>
 
 > He said it is moral blackmail if you say that somebody saying that a politician is bad, that you're
+
+### 280. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
+
+**Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
+**Timestamp:** [00:50:35](/episodes/ep-q7f8r-THr84.md#event-event-2025-08-06-charlie-kirk-interviews-with-megyn-kelly-on-israel-t-00-00-01) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3035);return false;">▶️ Play</a>
+
+> Here's Charlie talking to Megyn Kelly the very next day on August 6th.
+
+### 281. They Are Lying About Charlie Kirk. | Candace Ep 235
+
+**Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
+**Timestamp:** [00:11:22](/episodes/ep-czVBmqZP6Ss.md#event-event-2025-08-06-charlie-kirk-interviews-with-megyn-kelly-on-israel-t-00-00-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(682);return false;">▶️ Play</a>
+
+> First and foremost, to let you know, last week was not a dre
+
+### 282. They Are Lying About Charlie Kirk. | Candace Ep 235
+
+**Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
+**Timestamp:** [00:11:17](/episodes/ep-czVBmqZP6Ss.md#event-event-2025-08-06-charlie-kirk-interviews-with-megyn-kelly-on-israel-t-00-00-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(677);return false;">▶️ Play</a>
+
+> most, to let you know, last week was not a dream. Charlie, my friend, is dead. And he was publicly executed. I want to make that clear. Charlie was publicly executed befo

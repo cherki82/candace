@@ -12,7 +12,7 @@ time: "16:00"
 
 > Turning Point USA scheduled a live-streamed formal response to Candace Owens' allegations.
 
-## Mentioned In (145 times)
+## Mentioned In (147 times)
 
 ### 1. Shocking Revelation About The Egyptian Planes... | Candace E...
 
@@ -1173,3 +1173,19 @@ time: "16:00"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(487);return false;">▶️ Play</a>
 
 > after was for the Turning Point USA spokesperson, Andrew Kolvet, to issue this statement as people were asking questions like, "Hey, how is that possible? How was
+
+### 146. Who Stood To Benefit From Charlie Kirk's Assassination? | Ca...
+
+**Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
+**Timestamp:** [00:40:25](/episodes/ep-Kmt6HgRjckU.md#event-event-2025-12-15-turning-point-usa-scheduled-a-live-streamed-formal-t-00-40-07) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2425);return false;">▶️ Play</a>
+
+> Corruption everywhere, whether it's the government, whether it's at a big corporation, it tends to
+
+### 147. Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? ...
+
+**Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
+**Timestamp:** [00:08:48](/episodes/ep-DqGNvi36ol8.md#event-event-2025-12-15-turning-point-usa-scheduled-a-live-streamed-formal-t-00-06-55) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(528);return false;">▶️ Play</a>
+
+> But regardless, it is going to go forward because we have ag

@@ -2,7 +2,7 @@
 title: "Entities"
 ---
 
-_Total entities: 1019_
+_Total entities: 1020_
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -43,7 +43,7 @@ _Total entities: 1019_
   <label for="tab-event" class="tab-btn">Events (19)</label>
   <label for="tab-concept" class="tab-btn">Concepts (23)</label>
   <label for="tab-date" class="tab-btn">Dates (54)</label>
-  <label for="tab-vehicle" class="tab-btn">Vehicles (4)</label>
+  <label for="tab-vehicle" class="tab-btn">Vehicles (5)</label>
   <label for="tab-work" class="tab-btn">Works & Media (33)</label>
   <label for="tab-law" class="tab-btn">Laws & Legislation (2)</label>
   <label for="tab-anonymous_source" class="tab-btn">Anonymous Sources (23)</label>
@@ -4906,7 +4906,7 @@ _54 dates sorted by most mentioned_
 
 <div class="tab-content tab-content-vehicle">
 
-_4 vehicles sorted by most mentioned_
+_5 vehicles sorted by most mentioned_
 
 <div class="filter-item">
 
@@ -4926,6 +4926,11 @@ _4 vehicles sorted by most mentioned_
 <div class="filter-item">
 
 - [N560TW](/entities/vehicle-n560tw.md) (4 mentions)
+
+</div>
+<div class="filter-item">
+
+- [SU-BTU](/entities/vehicle-su-btu.md) (3 mentions)
 
 </div>
 

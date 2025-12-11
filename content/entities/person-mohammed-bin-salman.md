@@ -52,7 +52,7 @@ _No relationships extracted yet._
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1)</summary>
 
 - [00:16:49](/episodes/ep-ZAuuSq_j2_w.md#t-00-16-27) (Citation) **Candace Owens** (via quoted post): ["The Egyptian government website confirms that Egyptian President el-Si..."](/statements/statement-3bb428c91aab.md)
-  - Also about: [Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md), [work-su-btu](/entities/work-su-btu.md)
+  - Also about: [Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md), [SU-BTU](/entities/vehicle-su-btu.md)
 
 </details>
 

@@ -5852,7 +5852,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Candace Owens (867)</strong></summary>
+<summary><strong class="section-title">Statements by Candace Owens (868)</strong></summary>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (28)</summary>
@@ -6244,13 +6244,13 @@ _Type: People_
   - About: [Walid Mahmood](/entities/person-walid-mahmood.md), [SU-BTT](/entities/vehicle-su-btt.md)
 
 - [00:15:12](/episodes/ep-ZAuuSq_j2_w.md#t-00-15-09) [○] (Claim) ["Walid Mahmood came to Provo on May 27th of this year aboard another Egyptian mil..."](/statements/statement-c65701d7dc38.md)
-  - About: [Walid Mahmood](/entities/person-walid-mahmood.md), [work-su-btu](/entities/work-su-btu.md)
+  - About: [Walid Mahmood](/entities/person-walid-mahmood.md), [SU-BTU](/entities/vehicle-su-btu.md)
 
 - [00:16:13](/episodes/ep-ZAuuSq_j2_w.md#t-00-15-51) [○] (Claim) ["The Egyptian plane SUBTU departed on June 2nd without transponding, so there is ..."](/statements/statement-7ca87b7af6a8.md)
-  - About: [work-su-btu](/entities/work-su-btu.md), [FlightRadar](/entities/org-flightradar.md)
+  - About: [SU-BTU](/entities/vehicle-su-btu.md), [FlightRadar](/entities/org-flightradar.md)
 
 - [00:16:49](/episodes/ep-ZAuuSq_j2_w.md#t-00-16-27) [○] (Citation) ["The Egyptian government website confirms that Egyptian President el-Sisi flew on..."](/statements/statement-3bb428c91aab.md)
-  - About: [Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md), [work-su-btu](/entities/work-su-btu.md), [Mohammed bin Salman](/entities/person-mohammed-bin-salman.md)
+  - About: [Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md), [SU-BTU](/entities/vehicle-su-btu.md), [Mohammed bin Salman](/entities/person-mohammed-bin-salman.md)
 
 - [00:17:47](/episodes/ep-ZAuuSq_j2_w.md#t-00-17-12) [○] (Claim) ["President al-Sisi can be ruled out as being aboard the jet on September 10th bec..."](/statements/statement-7eb3c0a74fc0.md)
   - About: [Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md), [Sara Zaafarani Zenzari](/entities/person-sarah-zafrani.md)
@@ -6290,7 +6290,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (33)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (34)</summary>
 
 - [00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01) [○] (Accusation) ["Brian Harpole lied badly to Sean Ryan in an interview"](/statements/statement-bf4a6840e928.md)
   - About: [Brian Harpole](/entities/person-brian-harpole.md)
@@ -6380,6 +6380,9 @@ _Type: People_
   - About: [Dan Flood](/entities/person-dan-flood.md)
 
 - [00:38:09](/episodes/ep-sImMM04XdWY.md#t-00-37-36) [○] (Claim) ["Both students who posted videos of the alleged shooter on the roof were in the m..."](/statements/statement-93fbe6678eff.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:42:03](/episodes/ep-sImMM04XdWY.md#t-00-41-20) [○] (Claim) ["Washington County Sheriff's Office stated the surveillance footage of Tyler Robi..."](/statements/statement-e6666665e8f5.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:43:26](/episodes/ep-sImMM04XdWY.md#t-00-42-54) [○] (Claim) ["Tyler Robinson appears electronically for court hearings and doesn't have to put..."](/statements/statement-a2d763e2446c.md)
@@ -7647,7 +7650,6 @@ _Type: People_
   - About: [Utah](/entities/gpe-utah.md), [Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints.md)
 
 - [00:18:14](/episodes/ep-QZWSsq8ZWzw.md#t-00-17-52) [○] (Opinion) ["The public school system is shaped by Soviet ideology"](/statements/statement-f4bd23c36ba1.md)
-  - About: [concept-communism](/entities/concept-communism.md)
 
 - [00:18:14](/episodes/ep-QZWSsq8ZWzw.md#t-00-17-52) [○] (Accusation) ["The public school system is shaped by Soviet ideology"](/statements/statement-b569f3fcf6cc.md)
   - About: [Bolsheviks](/entities/concept-bolsheviks.md)

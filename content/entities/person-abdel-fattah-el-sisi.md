@@ -62,7 +62,7 @@ _No relationships extracted yet._
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (4)</summary>
 
 - [00:16:49](/episodes/ep-ZAuuSq_j2_w.md#t-00-16-27) (Citation) **Candace Owens** (via quoted post): ["The Egyptian government website confirms that Egyptian President el-Si..."](/statements/statement-3bb428c91aab.md)
-  - Also about: [work-su-btu](/entities/work-su-btu.md), [Mohammed bin Salman](/entities/person-mohammed-bin-salman.md)
+  - Also about: [SU-BTU](/entities/vehicle-su-btu.md), [Mohammed bin Salman](/entities/person-mohammed-bin-salman.md)
 
 - [00:17:47](/episodes/ep-ZAuuSq_j2_w.md#t-00-17-12) (Claim) **Candace Owens**: ["President al-Sisi can be ruled out as being aboard the jet on Septembe..."](/statements/statement-7eb3c0a74fc0.md)
   - Also about: [Sara Zaafarani Zenzari](/entities/person-sarah-zafrani.md)

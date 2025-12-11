@@ -11,7 +11,7 @@ date: "2025-09-04"
 
 > Egyptian Air Force plane SUBTT arrives in Provo, Utah
 
-## Mentioned In (7 times)
+## Mentioned In (10 times)
 
 ### 1. BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. |...
 
@@ -68,3 +68,27 @@ date: "2025-09-04"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1303);return false;">▶️ Play</a>
 
 > ieve them. We shouldn't have to answer questions about secret tunnels or Egyptian Air Force planes. That sort of thing is just beneath contempt to respond to. The second reason we've said so little, t
+
+### 8. The Great Exodus From Utah? Where Did The "Egyptians" Go On ...
+
+**Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
+**Timestamp:** [00:03:51](/episodes/ep-581dILVcEE4.md#event-event-2025-09-04-egyptian-air-force-plane-subtt-arrives-in-provo-ut-t-00-00-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(231);return false;">▶️ Play</a>
+
+> led the license plate numbers associated with the Egyptian frequent flyers. Why do you think they're upset about that? I don't understand. Why would something like that upset them? It's almost like th
+
+### 9. The Great Exodus From Utah? Where Did The "Egyptians" Go On ...
+
+**Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
+**Timestamp:** [00:04:04](/episodes/ep-581dILVcEE4.md#event-event-2025-09-04-egyptian-air-force-plane-subtt-arrives-in-provo-ut-t-00-00-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(244);return false;">▶️ Play</a>
+
+> referring to SU-BTT—landed in Utah six days before Charlie's
+
+### 10. BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. |...
+
+**Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
+**Timestamp:** [00:12:53](/episodes/ep-iHav0PPzUz8.md#event-event-2025-09-04-egyptian-air-force-plane-subtt-arrives-in-provo-ut-t-00-00-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(773);return false;">▶️ Play</a>
+
+> this foreign military plane arrived on September 4th—so six days before—into Provo, Utah, and departed six days later on September 10th

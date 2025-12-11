@@ -11,7 +11,7 @@ date: "2025-02-01"
 
 > Kash Patel appointed FBI Director.
 
-## Mentioned In (40 times)
+## Mentioned In (41 times)
 
 ### 1. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
 
@@ -332,3 +332,11 @@ date: "2025-02-01"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2306);return false;">▶️ Play</a>
 
 > goes on to say she praises the FBI director, Kash Patel, and
+
+### 41. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
+
+**Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
+**Timestamp:** [00:52:54](/episodes/ep-MUA9ebCF4Ow.md#event-event-2025-02-01-kash-patel-appointed-fbi-director-t-00-36-22) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3174);return false;">▶️ Play</a>
+
+> Ever since Kash Patel was appointed as director of the FBI in February of 2025

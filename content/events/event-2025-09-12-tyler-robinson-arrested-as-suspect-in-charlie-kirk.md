@@ -11,7 +11,7 @@ date: "2025-09-12"
 
 > Tyler Robinson arrested as suspect in Charlie Kirk assassination.
 
-## Mentioned In (295 times)
+## Mentioned In (296 times)
 
 ### 1. They Are Lying About Charlie Kirk. | Candace Ep 235
 
@@ -2372,3 +2372,11 @@ date: "2025-09-12"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(637);return false;">▶️ Play</a>
 
 > een seeing a lot of vitriol that's been thrown at Andrew Kolvet's way because he is doing press. He is carrying on Charlie Kirk's show. He was already seated on Cha
+
+### 296. They Are Lying About Charlie Kirk. | Candace Ep 235
+
+**Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
+**Timestamp:** [00:48:53](/episodes/ep-czVBmqZP6Ss.md#t-00-48-34) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2933);return false;">▶️ Play</a>
+
+> ernor Cox tells us that that is when the shooter, Tyler Robinson, arrived at UVU campus in a plain maroon t-shirt, light-colored shorts, and a black hat with a white logo. So essentially he's saying t

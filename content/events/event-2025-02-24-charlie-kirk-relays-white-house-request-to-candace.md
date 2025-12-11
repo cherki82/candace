@@ -11,7 +11,7 @@ date: "2025-02-24"
 
 > Charlie Kirk relays White House request to Candace Owens on Brigitte.
 
-## Mentioned In (345 times)
+## Mentioned In (346 times)
 
 ### 1. Another French Front: Did Charlie Kirk Save My Life? | Canda...
 
@@ -2772,3 +2772,11 @@ date: "2025-02-24"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(637);return false;">▶️ Play</a>
 
 > een seeing a lot of vitriol that's been thrown at Andrew Kolvet's way because he is doing press. He is carrying on Charlie Kirk's show. He was already seated on Cha
+
+### 346. Another French Front: Did Charlie Kirk Save My Life? | Canda...
+
+**Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
+**Timestamp:** [00:11:46](/episodes/ep-sImMM04XdWY.md#event-event-2025-02-24-charlie-kirk-relays-white-house-request-to-candace-t-00-04-54) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(706);return false;">▶️ Play</a>
+
+> A couple of days later, on February 24th, Charlie reaches out, and he tells me that the White House is asking me to stop speaking about Brigitte.

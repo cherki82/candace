@@ -18,10 +18,6 @@ type: "opinion"
 
 **Delivery:** Made directly
 
-## About
-
-- [concept-communism](/entities/concept-communism.md)
-
 ## Source
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)

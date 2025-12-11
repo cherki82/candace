@@ -11,7 +11,7 @@ date: "2025-08-27"
 
 > Operation Valhalla joint military-civilian exercise ends at Camp Ripley, Minnesota.
 
-## Mentioned In (9 times)
+## Mentioned In (17 times)
 
 ### 1. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
 
@@ -84,3 +84,67 @@ date: "2025-08-27"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(394);return false;">▶️ Play</a>
 
 > ong other tenants. That Air Force base is home to the 891st Missile Security Forces Squadron, a combined military and civilian security force that had just come off of Operation Valhalla, a training e
+
+### 10. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
+
+**Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
+**Timestamp:** [00:23:57](/episodes/ep-a-e7HC6SeK8.md#t-00-23-23) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1437);return false;">▶️ Play</a>
+
+> family vacation. And Mikey's capturing these last videos tha
+
+### 11. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
+
+**Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+**Timestamp:** [00:16:36](/episodes/ep-tB5SXXmd9vU.md#event-event-2025-08-27-operation-valhalla-joint-military-civilian-exercis-t-00-11-17) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(996);return false;">▶️ Play</a>
+
+> States, Egypt, were quite literally involved in exactly this
+
+### 12. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
+
+**Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+**Timestamp:** [00:21:46](/episodes/ep-tB5SXXmd9vU.md#event-event-2025-08-27-operation-valhalla-joint-military-civilian-exercis-t-00-11-17) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1306);return false;">▶️ Play</a>
+
+> And then afterwards the national media moves to—it looks like they're almost trying not to interview any UVU students. Right? They're interviewing everybody around. You've got
+
+### 13. Operation: “See you in Valhalla, Charlie”. | Candace Ep 270
+
+**Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
+**Timestamp:** [00:08:40](/episodes/ep-mKXdKV-OBog.md#t-00-08-31) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(520);return false;">▶️ Play</a>
+
+> m Minot Air Force Base, North Dakota, traveled to Camp Ripley Training Center in Minnesota, August 24, 2024. The advanced training focused on air-based ground defense and nuclea
+
+### 14. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
+
+**Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+**Timestamp:** [00:16:36](/episodes/ep-tB5SXXmd9vU.md#event-event-2025-08-27-operation-valhalla-joint-military-civilian-exercis-t-00-11-17) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(996);return false;">▶️ Play</a>
+
+> ediately. It was a joint exercise with civilians, which included military men from the Minot Air Force Base. And that joint exercise took place in Minnesota at Camp Ripley, and that ran just for a cou
+
+### 15. Operation: “See you in Valhalla, Charlie”. | Candace Ep 270
+
+**Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
+**Timestamp:** [00:08:54](/episodes/ep-mKXdKV-OBog.md#t-00-08-31) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(534);return false;">▶️ Play</a>
+
+> eled to Camp Ripley Training Center in Minnesota, August 24, 2024. The advanced training focused on air-based ground defense and nuclear security tactics—the bread a
+
+### 16. Operation: “See you in Valhalla, Charlie”. | Candace Ep 270
+
+**Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
+**Timestamp:** [00:09:13](/episodes/ep-mKXdKV-OBog.md#t-00-09-13) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(553);return false;">▶️ Play</a>
+
+> l-distance live-fire exercises. Camp Ripley provided full-distance firing ranges, which allowed defenders to hone their rifle marksmanship and machine gun proficiency, exceeding the capabilities of st
+
+### 17. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
+
+**Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+**Timestamp:** [00:20:36](/episodes/ep-tB5SXXmd9vU.md#event-event-2025-08-27-operation-valhalla-joint-military-civilian-exercis-t-00-11-17) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1236);return false;">▶️ Play</a>
+
+> tive, pointed out on X. "Oh, there is, however, a Camp Ripley," they go on, "but this inaccuracy speaks volumes about the credibility of Candace Owens' alleged s

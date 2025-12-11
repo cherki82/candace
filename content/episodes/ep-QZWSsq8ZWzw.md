@@ -305,7 +305,6 @@ youtube_url: "https://www.youtube.com/watch?v=QZWSsq8ZWzw"
 - [00:17:09](#t-00-16-32) [○] (Claim) **Candace Owens**: ["Utah recently modernized their beehive flag, and Utah has always been known as t..."](/statements/statement-8d437af36e74.md)
   - About: [Utah](/entities/gpe-utah.md), [Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints.md)
 - [00:18:14](#t-00-17-52) [○] (Opinion) **Candace Owens**: ["The public school system is shaped by Soviet ideology"](/statements/statement-f4bd23c36ba1.md)
-  - About: [concept-communism](/entities/concept-communism.md)
 - [00:18:14](#t-00-17-52) [○] (Accusation) **Candace Owens**: ["The public school system is shaped by Soviet ideology"](/statements/statement-b569f3fcf6cc.md)
   - About: [Bolsheviks](/entities/concept-bolsheviks.md)
 - [00:18:18](#t-00-17-52) [○] (Citation) **Candace Owens**: ["Inside American Education by Thomas Sowell is a must-read book that explains how..."](/statements/statement-3372ce33fa07.md)

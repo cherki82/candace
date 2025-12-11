@@ -251,7 +251,7 @@ youtube_url: "https://www.youtube.com/watch?v=t4U7NjnUEgc"
 - **2025-09-07**: [Charlie Kirk speaks at Sanseito party symposium in Tokyo, Japan](/events/event-2025-09-07-charlie-kirk-speaks-at-sanseito-party-sy.md)
 - **2025-09-08**: [Harry Myers checks into Candlewood Suites at Fort Huachuca at 5:37 PM, encounters special forces personnel and woman in hotel lobby](/events/event-2025-09-08-harry-myers-checks-into-candlewood-suite.md)
 - **2025-09-09**: [Harry Myers arrives at JTF Southern Border temporary headquarters at 7:37 AM, witnesses high-level military meeting with Brian Harpole, undergoes seven-hour interrogation](/events/event-2025-09-09-harry-myers-arrives-at-jtf-southern-bord.md)
-- **2025-09-10**: [Charlie Kirk assassinated at Utah Valley University in Orem, Utah during Turning Point USA event](/events/event-2025-09-10-charlie-kirk-assassinated-at-utah-valley.md)
+- **2025-09-10**: [Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University](/events/event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve.md)
 - **2025-12-08**: [Candace Owens attends Mass on Feast of the Immaculate Conception and prays for evidence about Charlie Kirk assassination](/events/event-2025-12-08-candace-owens-attends-mass-on-feast-of-t.md)
 - **2025-12-08**: [Candace Owens receives email from witness and calls Harry Myers about Fort Huachuca incident](/events/event-2025-12-08-candace-owens-receives-email-from-witnes.md)
 

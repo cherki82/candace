@@ -11,7 +11,7 @@ date: "2023-10-07"
 
 > Hamas attacks Israel on October 7
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. REVELATIONS: The Truth About Charlie's Medical Report | Cand...
 
@@ -36,3 +36,11 @@ date: "2023-10-07"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2917);return false;">▶️ Play</a>
 
 > el. And then he authentically had questions after October 7th. And then he was authentically angry and recognizing how much control was around him. And the infiltration happened. It's like they were p
+
+### 4. BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. |...
+
+**Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
+**Timestamp:** [00:46:29](/episodes/ep-iHav0PPzUz8.md#event-event-2023-10-07-hamas-attacks-israel-on-october-7-t-00-45-50) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2789);return false;">▶️ Play</a>
+
+> Insisted that we all have a perspective on October 7th. So we looked, and we pierced that veil

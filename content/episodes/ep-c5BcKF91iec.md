@@ -259,7 +259,7 @@ youtube_url: "https://www.youtube.com/watch?v=c5BcKF91iec"
 <details>
 <summary><strong>Timeline Events (5)</strong></summary>
 
-- **1963-11-22**: [JFK assassinated and LBJ sworn in as president](/events/event-1963-11-22-jfk-assassinated-and-lbj-sworn-in-as-president.md)
+- **1963-11-22**: [President John F. Kennedy assassinated in Dallas, Texas](/events/event-1963-11-22-jfk-assassination.md)
 - **2018-04-06**: [Charlie Kirk sends text messages to Candace Owens about Turning Point and future](/events/event-2018-04-06-charlie-kirk-sends-text-messages-to-cand.md)
 - **2025-09-14**: [Pastor Rob McCoy announces Charlie Kirk's succession plan in church sermon](/events/event-2025-09-14-pastor-rob-mccoy-announces-charlie-kirk-s-successi.md)
 - **2025-09-14**: [Succession plan at Turning Point USA made public](/events/event-2025-09-14-succession-plan-at-turning-point-usa-mad.md)

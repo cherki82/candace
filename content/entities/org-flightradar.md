@@ -107,7 +107,7 @@ _No relationships extracted yet._
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1)</summary>
 
 - [00:16:13](/episodes/ep-ZAuuSq_j2_w.md#t-00-15-51) (Claim) **Candace Owens**: ["The Egyptian plane SUBTU departed on June 2nd without transponding, so..."](/statements/statement-7ca87b7af6a8.md)
-  - Also about: [work-su-btu](/entities/work-su-btu.md)
+  - Also about: [SU-BTU](/entities/vehicle-su-btu.md)
 
 </details>
 

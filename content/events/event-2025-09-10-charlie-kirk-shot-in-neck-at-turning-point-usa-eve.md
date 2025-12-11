@@ -11,7 +11,7 @@ date: "2025-09-10"
 
 > Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University
 
-## Mentioned In (339 times)
+## Mentioned In (391 times)
 
 ### 1. REVELATIONS: The Truth About Charlie's Medical Report | Cand...
 
@@ -40,7 +40,7 @@ date: "2025-09-10"
 ### 4. Why Is Everyone Crashing Out Over The Charlie Kirk Investiga...
 
 **Episode:** [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
-**Timestamp:** [00:00:13](/episodes/ep-YaZfwLQ7vrI.md#t-00-00-00) 
+**Timestamp:** [00:00:13](/episodes/ep-YaZfwLQ7vrI.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(13);return false;">▶️ Play</a>
 
 > people online who are coming undone. What is it about the Ch
@@ -56,7 +56,7 @@ date: "2025-09-10"
 ### 6. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
-**Timestamp:** [00:00:06](/episodes/ep-sreYYcID-QY.md#t-00-00-00) 
+**Timestamp:** [00:00:06](/episodes/ep-sreYYcID-QY.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(6);return false;">▶️ Play</a>
 
 > now, okay? Benjamin Netanyahu is again denying that he murde
@@ -88,7 +88,7 @@ date: "2025-09-10"
 ### 10. TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace E...
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
-**Timestamp:** [00:01:44](/episodes/ep-5autG89PW6w.md#t-00-01-22) 
+**Timestamp:** [00:01:44](/episodes/ep-5autG89PW6w.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(104);return false;">▶️ Play</a>
 
 > w intro. Yes, yes, yes. Who will succeed Charlie? Who shall inherit the Turning Point throne? You know what, you guys? The best part of all of this
@@ -96,7 +96,7 @@ date: "2025-09-10"
 ### 11. #1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candac...
 
 **Episode:** [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
-**Timestamp:** [00:00:51](/episodes/ep-vwG1juDCQZQ.md#t-00-00-45) 
+**Timestamp:** [00:00:51](/episodes/ep-vwG1juDCQZQ.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-05-43) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(51);return false;">▶️ Play</a>
 
 > he heavily anticipated interview with Erika Kirk on Fox News with Jesse Watters. So let's get started. Okay, first things first. Welcome to
@@ -112,7 +112,7 @@ date: "2025-09-10"
 ### 13. What Did Charlie Kirk Discover Near The End? | Candace Ep 26...
 
 **Episode:** [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
-**Timestamp:** [00:00:03](/episodes/ep-yAIb-NuUh_U.md#t-00-00-01) 
+**Timestamp:** [00:00:03](/episodes/ep-yAIb-NuUh_U.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-05-06) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3);return false;">▶️ Play</a>
 
 > omebody sent me this throwback clip from Charlie and me back when I had a show on PragerU. We were discussing the kind of allies that you need when
@@ -120,7 +120,7 @@ date: "2025-09-10"
 ### 14. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:00:01](/episodes/ep-K5GjF53bfN4.md#t-00-00-01) 
+**Timestamp:** [00:00:01](/episodes/ep-K5GjF53bfN4.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-01) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1);return false;">▶️ Play</a>
 
 > All right, you guys. So a week before Charlie lost his life, he expressed some concerns about the finances at Turning Point USA. In fact, he wan
@@ -152,7 +152,7 @@ date: "2025-09-10"
 ### 18. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [00:00:32](/episodes/ep-q7f8r-THr84.md#t-00-00-01) 
+**Timestamp:** [00:00:32](/episodes/ep-q7f8r-THr84.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-01) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(32);return false;">▶️ Play</a>
 
 > rld, and what just happened to my friend Charlie, is a battle of sheer evil versus goodness. What do I have for you guys today? Okay, well, first a
@@ -168,7 +168,7 @@ date: "2025-09-10"
 ### 20. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
 
 **Episode:** [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
-**Timestamp:** [00:07:01](/episodes/ep-K1tFD7FfoCU.md#t-00-06-49) 
+**Timestamp:** [00:07:01](/episodes/ep-K1tFD7FfoCU.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-06-49) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(421);return false;">▶️ Play</a>
 
 > especially sickening. They're now trying to roll Charlie Kirk's legacy into this. We all know—as I proved—that these same individuals were squeezi
@@ -192,7 +192,7 @@ date: "2025-09-10"
 ### 23. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:00:21](/episodes/ep-czVBmqZP6Ss.md#t-00-00-00) 
+**Timestamp:** [00:00:21](/episodes/ep-czVBmqZP6Ss.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(21);return false;">▶️ Play</a>
 
 > and foremost, to let you know, last week was not a dream. Ch
@@ -240,7 +240,7 @@ date: "2025-09-10"
 ### 29. INSANITY! Guess Who Kash Patel Sent To Investigate Charlie K...
 
 **Episode:** [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
-**Timestamp:** [00:00:14](/episodes/ep-t1YtLS1n8Vs.md#t-00-00-00) 
+**Timestamp:** [00:00:14](/episodes/ep-t1YtLS1n8Vs.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(14);return false;">▶️ Play</a>
 
 > carefully woven tapestry of deception in all of our lives. A
@@ -248,7 +248,7 @@ date: "2025-09-10"
 ### 30. BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter ...
 
 **Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
-**Timestamp:** [00:00:52](/episodes/ep-adJ4LNGp84I.md#t-00-00-36) 
+**Timestamp:** [00:00:52](/episodes/ep-adJ4LNGp84I.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-01-30) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(52);return false;">▶️ Play</a>
 
 > he renting of the State Farm Stadium for Charlie's memorial service. I think there were 90,000 people that attended and then spilled over. And many
@@ -352,7 +352,7 @@ date: "2025-09-10"
 ### 43. BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter ...
 
 **Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
-**Timestamp:** [00:01:30](/episodes/ep-adJ4LNGp84I.md#t-00-00-36) 
+**Timestamp:** [00:01:30](/episodes/ep-adJ4LNGp84I.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-01-30) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(90);return false;">▶️ Play</a>
 
 > chatter going around about the renting of the State Farm Sta
@@ -456,7 +456,7 @@ date: "2025-09-10"
 ### 56. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
-**Timestamp:** [00:43:45](/episodes/ep-sreYYcID-QY.md#t-00-43-40) 
+**Timestamp:** [00:43:45](/episodes/ep-sreYYcID-QY.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2625);return false;">▶️ Play</a>
 
 > in Orem. Here is what these particular Steeles told Good Mor
@@ -496,7 +496,7 @@ date: "2025-09-10"
 ### 61. Why Is Everyone Crashing Out Over The Charlie Kirk Investiga...
 
 **Episode:** [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
-**Timestamp:** [00:00:16](/episodes/ep-YaZfwLQ7vrI.md#t-00-00-00) 
+**Timestamp:** [00:00:16](/episodes/ep-YaZfwLQ7vrI.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(16);return false;">▶️ Play</a>
 
 > lot of people online who are coming undone. What is it about
@@ -504,7 +504,7 @@ date: "2025-09-10"
 ### 62. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
-**Timestamp:** [00:00:51](/episodes/ep-sreYYcID-QY.md#t-00-00-33) 
+**Timestamp:** [00:00:51](/episodes/ep-sreYYcID-QY.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(51);return false;">▶️ Play</a>
 
 > sense that something is wrong, as I very much sense right no
@@ -520,7 +520,7 @@ date: "2025-09-10"
 ### 64. TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace E...
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
-**Timestamp:** [00:24:42](/episodes/ep-5autG89PW6w.md#t-00-24-12) 
+**Timestamp:** [00:24:42](/episodes/ep-5autG89PW6w.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1482);return false;">▶️ Play</a>
 
 > r new show intro. Yes, yes, yes. Who will succeed Charlie? Who shall inherit the Turning Point throne? You know what, you guys? The best part of all of this for
@@ -528,7 +528,7 @@ date: "2025-09-10"
 ### 65. #1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candac...
 
 **Episode:** [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
-**Timestamp:** [00:06:09](/episodes/ep-vwG1juDCQZQ.md#t-00-05-43) 
+**Timestamp:** [00:06:09](/episodes/ep-vwG1juDCQZQ.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-05-43) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(369);return false;">▶️ Play</a>
 
 > nemies right now for some reason looking into the Charlie Kirk assassination and the lies that we are being told. Anyways, let's get into Erika Kirk. Obviously it was a very an
@@ -536,7 +536,7 @@ date: "2025-09-10"
 ### 66. What Did Charlie Kirk Discover Near The End? | Candace Ep 26...
 
 **Episode:** [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
-**Timestamp:** [00:01:46](/episodes/ep-yAIb-NuUh_U.md#t-00-01-23) 
+**Timestamp:** [00:01:46](/episodes/ep-yAIb-NuUh_U.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-05-06) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(106);return false;">▶️ Play</a>
 
 > ay. Now somebody sent me this throwback clip from Charlie and me back when I had a show on PragerU. We were discussing the kind of allies that you need when bull
@@ -544,7 +544,7 @@ date: "2025-09-10"
 ### 67. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:09:36](/episodes/ep-K5GjF53bfN4.md#t-00-09-14) 
+**Timestamp:** [00:09:36](/episodes/ep-K5GjF53bfN4.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-01) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(576);return false;">▶️ Play</a>
 
 > All right, you guys. So a week before Charlie lost his life, he expressed some concerns about the finances at Turning Point USA. In fact, he wanted t
@@ -576,7 +576,7 @@ date: "2025-09-10"
 ### 71. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
 
 **Episode:** [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
-**Timestamp:** [00:07:35](/episodes/ep-K1tFD7FfoCU.md#t-00-07-32) 
+**Timestamp:** [00:07:35](/episodes/ep-K1tFD7FfoCU.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-06-49) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(455);return false;">▶️ Play</a>
 
 > right now though is especially sickening. They're now trying
@@ -592,7 +592,7 @@ date: "2025-09-10"
 ### 73. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:00:24](/episodes/ep-czVBmqZP6Ss.md#t-00-00-00) 
+**Timestamp:** [00:00:24](/episodes/ep-czVBmqZP6Ss.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(24);return false;">▶️ Play</a>
 
 > most, to let you know, last week was not a dream. Charlie, my friend, is dead. And he was publicly executed. I want to make that clear. Charlie wa
@@ -616,7 +616,7 @@ date: "2025-09-10"
 ### 76. BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter ...
 
 **Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
-**Timestamp:** [00:02:54](/episodes/ep-adJ4LNGp84I.md#t-00-02-10) 
+**Timestamp:** [00:02:54](/episodes/ep-adJ4LNGp84I.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-01-30) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(174);return false;">▶️ Play</a>
 
 > d about the renting of the State Farm Stadium for Charlie's memorial service. I think there were 90,000 people that attended and then spilled over. And many peop
@@ -656,7 +656,7 @@ date: "2025-09-10"
 ### 81. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:26:16](/episodes/ep-czVBmqZP6Ss.md#t-00-26-07) 
+**Timestamp:** [00:26:16](/episodes/ep-czVBmqZP6Ss.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1576);return false;">▶️ Play</a>
 
 > promo code Candace. Okay. Let's get into what we know about
@@ -680,7 +680,7 @@ date: "2025-09-10"
 ### 84. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [01:04:40](/episodes/ep-q7f8r-THr84.md#t-01-03-56) 
+**Timestamp:** [01:04:40](/episodes/ep-q7f8r-THr84.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-01) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3880);return false;">▶️ Play</a>
 
 > happening right now in the world, and what just happened to
@@ -696,7 +696,7 @@ date: "2025-09-10"
 ### 86. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:36:02](/episodes/ep-czVBmqZP6Ss.md#t-00-35-22) 
+**Timestamp:** [00:36:02](/episodes/ep-czVBmqZP6Ss.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2162);return false;">▶️ Play</a>
 
 > promo code Candace. Okay. Let's get into what we know about
@@ -768,7 +768,7 @@ date: "2025-09-10"
 ### 95. Why Is Everyone Crashing Out Over The Charlie Kirk Investiga...
 
 **Episode:** [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
-**Timestamp:** [00:00:41](/episodes/ep-YaZfwLQ7vrI.md#t-00-00-00) 
+**Timestamp:** [00:00:41](/episodes/ep-YaZfwLQ7vrI.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(41);return false;">▶️ Play</a>
 
 > and so then he started the robot on top of a trend that Cand
@@ -776,7 +776,7 @@ date: "2025-09-10"
 ### 96. What Did Charlie Kirk Discover Near The End? | Candace Ep 26...
 
 **Episode:** [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
-**Timestamp:** [00:01:02](/episodes/ep-yAIb-NuUh_U.md#t-00-00-37) 
+**Timestamp:** [00:01:02](/episodes/ep-yAIb-NuUh_U.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-05-06) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(62);return false;">▶️ Play</a>
 
 > his real allies were. So welcome back to Candace. Who were Charlie's real friends? That's what I wanna know. I just wanna know who w
@@ -944,7 +944,7 @@ date: "2025-09-10"
 ### 117. Why Is Everyone Crashing Out Over The Charlie Kirk Investiga...
 
 **Episode:** [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
-**Timestamp:** [00:13:23](/episodes/ep-YaZfwLQ7vrI.md#t-00-13-01) 
+**Timestamp:** [00:13:23](/episodes/ep-YaZfwLQ7vrI.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(803);return false;">▶️ Play</a>
 
 > And before I tell you how he is very connected to Turning Point USA Faith, I do want to also be clear that Frank Turek stands out because he flat-out ack
@@ -952,7 +952,7 @@ date: "2025-09-10"
 ### 118. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
-**Timestamp:** [00:39:17](/episodes/ep-sreYYcID-QY.md#t-00-38-58) 
+**Timestamp:** [00:39:17](/episodes/ep-sreYYcID-QY.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2357);return false;">▶️ Play</a>
 
 > ne. How could you say that I have not spoken at a Turning Point USA conference in years when I literally went on tour with Turning Point USA on college campuses last y
@@ -984,7 +984,7 @@ date: "2025-09-10"
 ### 122. TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace E...
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
-**Timestamp:** [00:00:29](/episodes/ep-5autG89PW6w.md#t-00-00-00) 
+**Timestamp:** [00:00:29](/episodes/ep-5autG89PW6w.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(29);return false;">▶️ Play</a>
 
 > ping the text messages. It was hilarious. Anyway, Turning Point USA has responded to the release of the messages, so we are going to watch that. Spoiler alert: they we
@@ -992,7 +992,7 @@ date: "2025-09-10"
 ### 123. #1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candac...
 
 **Episode:** [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
-**Timestamp:** [00:06:41](/episodes/ep-vwG1juDCQZQ.md#t-00-06-26) 
+**Timestamp:** [00:06:41](/episodes/ep-vwG1juDCQZQ.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-05-43) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(401);return false;">▶️ Play</a>
 
 > have changed for her, how things have changed for Turning Point USA, what it's like being at the helm of the organization, what her thoughts are about what that organi
@@ -1008,7 +1008,7 @@ date: "2025-09-10"
 ### 125. What Did Charlie Kirk Discover Near The End? | Candace Ep 26...
 
 **Episode:** [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
-**Timestamp:** [00:02:46](/episodes/ep-yAIb-NuUh_U.md#t-00-02-06) 
+**Timestamp:** [00:02:46](/episodes/ep-yAIb-NuUh_U.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-05-06) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(166);return false;">▶️ Play</a>
 
 > presented a list of how many times he replied to Turning Point USA. They don't know any of that. What they know is that on one episode, Candace said t
@@ -1040,7 +1040,7 @@ date: "2025-09-10"
 ### 129. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [00:01:08](/episodes/ep-q7f8r-THr84.md#t-00-00-45) 
+**Timestamp:** [00:01:08](/episodes/ep-q7f8r-THr84.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-01) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(68);return false;">▶️ Play</a>
 
 > eople that were at the event, people that were at Turning Point USA. We got some questions to ask and I'm gonna ask all of them because guess what? I don't take money
@@ -1048,7 +1048,7 @@ date: "2025-09-10"
 ### 130. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
 
 **Episode:** [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
-**Timestamp:** [00:07:07](/episodes/ep-K1tFD7FfoCU.md#t-00-06-49) 
+**Timestamp:** [00:07:07](/episodes/ep-K1tFD7FfoCU.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-06-49) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(427);return false;">▶️ Play</a>
 
 > cker Carlson to be gone, no longer allowed on the Turning Point USA stage because Tucker is the natural heir to the populist movement. And they want h
@@ -1072,7 +1072,7 @@ date: "2025-09-10"
 ### 133. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:11:38](/episodes/ep-czVBmqZP6Ss.md#t-00-11-22) 
+**Timestamp:** [00:11:38](/episodes/ep-czVBmqZP6Ss.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(698);return false;">▶️ Play</a>
 
 > eak to me, but he did place some frantic calls to Turning Point USA. Yeah. You see, I went out to Seth, but I also went out to two other people who were at this meetin
@@ -1112,7 +1112,7 @@ date: "2025-09-10"
 ### 138. INSANITY! Guess Who Kash Patel Sent To Investigate Charlie K...
 
 **Episode:** [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
-**Timestamp:** [00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24) 
+**Timestamp:** [00:01:30](/episodes/ep-t1YtLS1n8Vs.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(90);return false;">▶️ Play</a>
 
 > t features people like Charlie and Turning Point USA and Candace. Why speech is so dangerous is because if it carries truth, it speaks t
@@ -1120,7 +1120,7 @@ date: "2025-09-10"
 ### 139. BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter ...
 
 **Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
-**Timestamp:** [00:02:10](/episodes/ep-adJ4LNGp84I.md#t-00-01-30) 
+**Timestamp:** [00:02:10](/episodes/ep-adJ4LNGp84I.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-01-30) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(130);return false;">▶️ Play</a>
 
 > ple plus spillover. Now, given my many sources at Turning Point USA, I was able to quickly get an answer on that one for the public. The venue was indeed secured in qu
@@ -1208,7 +1208,7 @@ date: "2025-09-10"
 ### 150. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:00:08](/episodes/ep-K5GjF53bfN4.md#t-00-00-01) 
+**Timestamp:** [00:00:08](/episodes/ep-K5GjF53bfN4.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-01) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(8);return false;">▶️ Play</a>
 
 > he expressed some concerns about the finances at Turning Point USA. In fact, he wanted to put together an entire department, a little mini-department, to address thos
@@ -1216,7 +1216,7 @@ date: "2025-09-10"
 ### 151. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
-**Timestamp:** [00:39:20](/episodes/ep-sreYYcID-QY.md#t-00-38-58) 
+**Timestamp:** [00:39:20](/episodes/ep-sreYYcID-QY.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2360);return false;">▶️ Play</a>
 
 > ne. How could you say that I have not spoken at a Turning Point USA conference in years when I literally went on tour with Turning Point USA on college campuses last y
@@ -1304,7 +1304,7 @@ date: "2025-09-10"
 ### 162. TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace E...
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
-**Timestamp:** [00:20:43](/episodes/ep-5autG89PW6w.md#t-00-19-58) 
+**Timestamp:** [00:20:43](/episodes/ep-5autG89PW6w.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1243);return false;">▶️ Play</a>
 
 > executives would rather—and I'm now referring to Tyler Bowyer—impugn the character of the people who are doing exactly what Charlie would have don
@@ -1336,7 +1336,7 @@ date: "2025-09-10"
 ### 166. What Did Charlie Kirk Discover Near The End? | Candace Ep 26...
 
 **Episode:** [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
-**Timestamp:** [00:01:38](/episodes/ep-yAIb-NuUh_U.md#t-00-01-23) 
+**Timestamp:** [00:01:38](/episodes/ep-yAIb-NuUh_U.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-05-06) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(98);return false;">▶️ Play</a>
 
 > bit ridiculous. We should start, by the way, with Frank Turek. Frank Turek, as a reminder, he is the pastor friend who was next to Charlie. Actual
@@ -1376,7 +1376,7 @@ date: "2025-09-10"
 ### 171. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:29:05](/episodes/ep-czVBmqZP6Ss.md#t-00-28-54) 
+**Timestamp:** [00:29:05](/episodes/ep-czVBmqZP6Ss.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1745);return false;">▶️ Play</a>
 
 > day. In fact, he was telling the truth even about Jeffrey Epstein. Take a listen. Epstein with his little friend Ghislaine, and Ghislaine's fath
@@ -1456,7 +1456,7 @@ date: "2025-09-10"
 ### 181. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
-**Timestamp:** [00:33:32](/episodes/ep-sreYYcID-QY.md#t-00-33-10) 
+**Timestamp:** [00:33:32](/episodes/ep-sreYYcID-QY.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2012);return false;">▶️ Play</a>
 
 > spread. Well, somebody has fabricated a monstrous big lie th
@@ -1464,7 +1464,7 @@ date: "2025-09-10"
 ### 182. What Did Charlie Kirk Discover Near The End? | Candace Ep 26...
 
 **Episode:** [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
-**Timestamp:** [00:32:03](/episodes/ep-yAIb-NuUh_U.md#t-00-31-29) 
+**Timestamp:** [00:32:03](/episodes/ep-yAIb-NuUh_U.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-05-06) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1923);return false;">▶️ Play</a>
 
 > —not just in the Epstein case, right? Not just in Israel and its long arm across the world. I told you Charlie was hitting at the Ukraine stu
@@ -1488,7 +1488,7 @@ date: "2025-09-10"
 ### 185. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:04:48](/episodes/ep-K5GjF53bfN4.md#t-00-04-24) 
+**Timestamp:** [00:04:48](/episodes/ep-K5GjF53bfN4.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-01) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(288);return false;">▶️ Play</a>
 
 > Netanyahu calling Charlie and inviting him to Israel. And Bi
@@ -1496,7 +1496,7 @@ date: "2025-09-10"
 ### 186. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
-**Timestamp:** [00:33:42](/episodes/ep-sreYYcID-QY.md#t-00-33-10) 
+**Timestamp:** [00:33:42](/episodes/ep-sreYYcID-QY.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2022);return false;">▶️ Play</a>
 
 > spread. Well, somebody has fabricated a monstrous big lie th
@@ -1592,7 +1592,7 @@ date: "2025-09-10"
 ### 198. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
-**Timestamp:** [00:10:43](/episodes/ep-sreYYcID-QY.md#t-00-10-23) 
+**Timestamp:** [00:10:43](/episodes/ep-sreYYcID-QY.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(643);return false;">▶️ Play</a>
 
 > cam footage, right? Because that mysteriously made its way t
@@ -1600,7 +1600,7 @@ date: "2025-09-10"
 ### 199. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
-**Timestamp:** [00:31:58](/episodes/ep-sreYYcID-QY.md#t-00-31-15) 
+**Timestamp:** [00:31:58](/episodes/ep-sreYYcID-QY.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1918);return false;">▶️ Play</a>
 
 > Netanyahu murdered Charlie. Tucker never said that. Megyn Ke
@@ -1632,7 +1632,7 @@ date: "2025-09-10"
 ### 203. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
-**Timestamp:** [00:32:06](/episodes/ep-sreYYcID-QY.md#t-00-31-58) 
+**Timestamp:** [00:32:06](/episodes/ep-sreYYcID-QY.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1926);return false;">▶️ Play</a>
 
 > murdered Charlie. Tucker never said that. Megyn Kelly never
@@ -1672,7 +1672,7 @@ date: "2025-09-10"
 ### 208. Why Is Everyone Crashing Out Over The Charlie Kirk Investiga...
 
 **Episode:** [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
-**Timestamp:** [00:01:21](/episodes/ep-YaZfwLQ7vrI.md#t-00-00-41) 
+**Timestamp:** [00:01:21](/episodes/ep-YaZfwLQ7vrI.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(81);return false;">▶️ Play</a>
 
 > particular person who is connected to Charlie and January 6t
@@ -1696,7 +1696,7 @@ date: "2025-09-10"
 ### 211. BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter ...
 
 **Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
-**Timestamp:** [00:27:09](/episodes/ep-adJ4LNGp84I.md#t-00-26-38) 
+**Timestamp:** [00:27:09](/episodes/ep-adJ4LNGp84I.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-01-30) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1629);return false;">▶️ Play</a>
 
 > the Likud party are cut from the same ideological cloth as T
@@ -1720,7 +1720,7 @@ date: "2025-09-10"
 ### 214. Why Is Everyone Crashing Out Over The Charlie Kirk Investiga...
 
 **Episode:** [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
-**Timestamp:** [00:13:32](/episodes/ep-YaZfwLQ7vrI.md#t-00-13-01) 
+**Timestamp:** [00:13:32](/episodes/ep-YaZfwLQ7vrI.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(812);return false;">▶️ Play</a>
 
 > NAR preachers—like I said—who came up with their Seven Mountain Mandate, okay? Charlie began to become very interested in the Seven Mountain Mandate. I woul
@@ -1736,7 +1736,7 @@ date: "2025-09-10"
 ### 216. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [00:02:52](/episodes/ep-q7f8r-THr84.md#t-00-02-49) 
+**Timestamp:** [00:02:52](/episodes/ep-q7f8r-THr84.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-01) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(172);return false;">▶️ Play</a>
 
 > ying that they did it. Well, for whatever reason, George Zinn, who is a 71-year-old man, was moved to do that, right, instantly. Charlie Kirk gets shot, suddenly
@@ -1792,7 +1792,7 @@ date: "2025-09-10"
 ### 223. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
-**Timestamp:** [00:41:09](/episodes/ep-sreYYcID-QY.md#t-00-40-44) 
+**Timestamp:** [00:41:09](/episodes/ep-sreYYcID-QY.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2469);return false;">▶️ Play</a>
 
 > hat happening at all. Okay, then I get fired from The Daily Wire. Turning Point USA is the first to issue a “Christ is King” statement of support. Then I do what wa
@@ -1800,7 +1800,7 @@ date: "2025-09-10"
 ### 224. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
-**Timestamp:** [00:56:12](/episodes/ep-sreYYcID-QY.md#t-00-55-46) 
+**Timestamp:** [00:56:12](/episodes/ep-sreYYcID-QY.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3372);return false;">▶️ Play</a>
 
 > Martin, did you see the book about Charlie's assassination o
@@ -1808,7 +1808,7 @@ date: "2025-09-10"
 ### 225. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:41:20](/episodes/ep-K5GjF53bfN4.md#t-00-40-46) 
+**Timestamp:** [00:41:20](/episodes/ep-K5GjF53bfN4.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-01) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2480);return false;">▶️ Play</a>
 
 > bless." Thank you, James. Renee writes, "Have you covered th
@@ -1832,7 +1832,7 @@ date: "2025-09-10"
 ### 228. What Did Charlie Kirk Discover Near The End? | Candace Ep 26...
 
 **Episode:** [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
-**Timestamp:** [00:32:07](/episodes/ep-yAIb-NuUh_U.md#t-00-31-29) 
+**Timestamp:** [00:32:07](/episodes/ep-yAIb-NuUh_U.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-05-06) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1927);return false;">▶️ Play</a>
 
 > old you Charlie was hitting at the Ukraine stuff. That was a part of my timeline. That's when you really start to see Turning Point Faith ratc
@@ -1872,7 +1872,7 @@ date: "2025-09-10"
 ### 233. What Did Charlie Kirk Discover Near The End? | Candace Ep 26...
 
 **Episode:** [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
-**Timestamp:** [00:24:32](/episodes/ep-yAIb-NuUh_U.md#t-00-24-32) 
+**Timestamp:** [00:24:32](/episodes/ep-yAIb-NuUh_U.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-05-06) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1472);return false;">▶️ Play</a>
 
 > e's doing now with Turning Point USA. I would say it's very relevant. Potter's Fields is an area up in Whitefish, Montana, and the Calvary Church Association funded a ministry which came to be known a
@@ -1936,7 +1936,7 @@ date: "2025-09-10"
 ### 241. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:01:58](/episodes/ep-K5GjF53bfN4.md#t-00-01-27) 
+**Timestamp:** [00:01:58](/episodes/ep-K5GjF53bfN4.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-01) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(118);return false;">▶️ Play</a>
 
 > that is, especially because when he went on multiple hits do
@@ -1960,7 +1960,7 @@ date: "2025-09-10"
 ### 244. #1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candac...
 
 **Episode:** [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
-**Timestamp:** [00:21:45](/episodes/ep-vwG1juDCQZQ.md#t-00-21-29) 
+**Timestamp:** [00:21:45](/episodes/ep-vwG1juDCQZQ.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-05-43) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1305);return false;">▶️ Play</a>
 
 > Charlie—who was slated to speak at Liberty University. Okay, that's just a fact. Alex Clark also threw shade at us, and it's kind of incredible that she
@@ -2000,7 +2000,7 @@ date: "2025-09-10"
 ### 249. INSANITY! Guess Who Kash Patel Sent To Investigate Charlie K...
 
 **Episode:** [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
-**Timestamp:** [00:08:57](/episodes/ep-t1YtLS1n8Vs.md#t-00-08-20) 
+**Timestamp:** [00:08:57](/episodes/ep-t1YtLS1n8Vs.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(537);return false;">▶️ Play</a>
 
 > hat he's delivering some form of justice. I think Elon Musk tweeted about Charlie and TPUSA being on the list, and then it kind of caught fire.
@@ -2008,7 +2008,7 @@ date: "2025-09-10"
 ### 250. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:20:19](/episodes/ep-K5GjF53bfN4.md#t-00-19-45) 
+**Timestamp:** [00:20:19](/episodes/ep-K5GjF53bfN4.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-01) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1219);return false;">▶️ Play</a>
 
 > finding out why and how this was happening. So on September 2nd, which is, of course, just one week before he lost his life, Charlie surprised the c
@@ -2016,7 +2016,7 @@ date: "2025-09-10"
 ### 251. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:21:38](/episodes/ep-K5GjF53bfN4.md#t-00-21-13) 
+**Timestamp:** [00:21:38](/episodes/ep-K5GjF53bfN4.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-01) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1298);return false;">▶️ Play</a>
 
 > ica, effective immediately, again, September 2nd, Justin Strief is taking on a new elevated role with Turning Point USA as its COO. Since joining TPUSA in 2020, Ju
@@ -2024,7 +2024,7 @@ date: "2025-09-10"
 ### 252. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:39:51](/episodes/ep-K5GjF53bfN4.md#t-00-39-27) 
+**Timestamp:** [00:39:51](/episodes/ep-K5GjF53bfN4.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-01) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2391);return false;">▶️ Play</a>
 
 > relationship with Charlie was real, actually, a shout out to
@@ -2040,7 +2040,7 @@ date: "2025-09-10"
 ### 254. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
 
 **Episode:** [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
-**Timestamp:** [00:20:55](/episodes/ep-K1tFD7FfoCU.md#t-00-20-31) 
+**Timestamp:** [00:20:55](/episodes/ep-K1tFD7FfoCU.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-06-49) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1255);return false;">▶️ Play</a>
 
 > Charlie Kirk—so obsessed that the Jerusalem Post completely fictionalized or rather published a completely deranged lie about Erika Kirk. Here is th
@@ -2048,7 +2048,7 @@ date: "2025-09-10"
 ### 255. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
 
 **Episode:** [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
-**Timestamp:** [00:21:15](/episodes/ep-K1tFD7FfoCU.md#t-00-20-31) 
+**Timestamp:** [00:21:15](/episodes/ep-K1tFD7FfoCU.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-06-49) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1275);return false;">▶️ Play</a>
 
 > e Jerusalem Post, which was written by journalist Michael Starr. They published this: "Charlie Kirk, the founder of TPUSA, will be posthumously hono
@@ -2128,7 +2128,7 @@ date: "2025-09-10"
 ### 265. INSANITY! Guess Who Kash Patel Sent To Investigate Charlie K...
 
 **Episode:** [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
-**Timestamp:** [00:13:12](/episodes/ep-t1YtLS1n8Vs.md#t-00-13-12) 
+**Timestamp:** [00:13:12](/episodes/ep-t1YtLS1n8Vs.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(792);return false;">▶️ Play</a>
 
 > ureaus in the United States, regarding which there are 55 main bureaus and over 350 satellite bureaus, the FBI sent the specific Connecticut bureau down to UVU after Charlie was assassi
@@ -2136,7 +2136,7 @@ date: "2025-09-10"
 ### 266. BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter ...
 
 **Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
-**Timestamp:** [00:05:34](/episodes/ep-adJ4LNGp84I.md#t-00-05-01) 
+**Timestamp:** [00:05:34](/episodes/ep-adJ4LNGp84I.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-01-30) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(334);return false;">▶️ Play</a>
 
 > e was a new CEO and therefore a new lead surgeon, Andrew Zenger, over at the hospital, the regional hospital that Charlie was taken to, although tha
@@ -2152,7 +2152,7 @@ date: "2025-09-10"
 ### 268. BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter ...
 
 **Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
-**Timestamp:** [00:05:19](/episodes/ep-adJ4LNGp84I.md#t-00-05-01) 
+**Timestamp:** [00:05:19](/episodes/ep-adJ4LNGp84I.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-01-30) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(319);return false;">▶️ Play</a>
 
 > State Bureau. He then installs a person that has a long tenu
@@ -2440,7 +2440,7 @@ date: "2025-09-10"
 ### 304. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:37:43](/episodes/ep-czVBmqZP6Ss.md#t-00-37-05) 
+**Timestamp:** [00:37:43](/episodes/ep-czVBmqZP6Ss.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2263);return false;">▶️ Play</a>
 
 > has the barrel installed. So we're supposed to believe a guy is on the run after killing Charlie and he pauses in the woods to reinstall a barrel, and then he leaves it for us to find,
@@ -2456,7 +2456,7 @@ date: "2025-09-10"
 ### 306. BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter ...
 
 **Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
-**Timestamp:** [00:47:25](/episodes/ep-adJ4LNGp84I.md#t-00-47-25) 
+**Timestamp:** [00:47:25](/episodes/ep-adJ4LNGp84I.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-01-30) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2845);return false;">▶️ Play</a>
 
 > o else was involved on that day. Who is the lady that was in that photo? Marzi writes, this just in: the FBI just cut ties with the ADL after Turning Point USA criticism. They share a building—just, F
@@ -2520,7 +2520,7 @@ date: "2025-09-10"
 ### 314. What Did Charlie Kirk Discover Near The End? | Candace Ep 26...
 
 **Episode:** [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
-**Timestamp:** [00:03:18](/episodes/ep-yAIb-NuUh_U.md#t-00-02-46) 
+**Timestamp:** [00:03:18](/episodes/ep-yAIb-NuUh_U.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-05-06) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(198);return false;">▶️ Play</a>
 
 > on't seem to understand is why I had my friend Detective J. Warner Wallace on my podcast two weeks after Charlie's martyrdom. People don't understand how prosecution works, how murder c
@@ -2536,7 +2536,7 @@ date: "2025-09-10"
 ### 316. TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace E...
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
-**Timestamp:** [00:47:59](/episodes/ep-5autG89PW6w.md#t-00-47-46) 
+**Timestamp:** [00:47:59](/episodes/ep-5autG89PW6w.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2879);return false;">▶️ Play</a>
 
 > she addresses on her shows to acknowledge that much of what she is presenting on the subject of Charlie's death is extremely concerning to America and to the world—completely valid and
@@ -2552,7 +2552,7 @@ date: "2025-09-10"
 ### 318. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:10:48](/episodes/ep-K5GjF53bfN4.md#t-00-10-43) 
+**Timestamp:** [00:10:48](/episodes/ep-K5GjF53bfN4.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-01) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(648);return false;">▶️ Play</a>
 
 > een seeing a lot of vitriol that's been thrown at Andrew Kolvet's way because he is doing press. He is carrying on Charlie Kirk's s
@@ -2568,7 +2568,7 @@ date: "2025-09-10"
 ### 320. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
 
 **Episode:** [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
-**Timestamp:** [00:08:39](/episodes/ep-K1tFD7FfoCU.md#t-00-08-16) 
+**Timestamp:** [00:08:39](/episodes/ep-K1tFD7FfoCU.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-06-49) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(519);return false;">▶️ Play</a>
 
 > ssion with him. I also had a long discussion with Andrew Kolvet separately, telling them both that Charlie should host Nick Fuentes on his show and d
@@ -2584,7 +2584,7 @@ date: "2025-09-10"
 ### 322. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:10:37](/episodes/ep-K5GjF53bfN4.md#t-00-09-59) 
+**Timestamp:** [00:10:37](/episodes/ep-K5GjF53bfN4.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-01) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(637);return false;">▶️ Play</a>
 
 > een seeing a lot of vitriol that's been thrown at Andrew Kolvet's way because he is doing press. He is carrying on Charlie Kirk's show. He was already seated on Cha
@@ -2624,7 +2624,7 @@ date: "2025-09-10"
 ### 327. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
-**Timestamp:** [00:53:06](/episodes/ep-sreYYcID-QY.md#t-00-52-52) 
+**Timestamp:** [00:53:06](/episodes/ep-sreYYcID-QY.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3186);return false;">▶️ Play</a>
 
 > rt—from what I understand—being controlled by the White House. Donald Trump is controlled by Zionists, so they're baiting me here. Why would I be
@@ -2632,7 +2632,7 @@ date: "2025-09-10"
 ### 328. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
-**Timestamp:** [00:45:18](/episodes/ep-sreYYcID-QY.md#t-00-45-07) 
+**Timestamp:** [00:45:18](/episodes/ep-sreYYcID-QY.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2718);return false;">▶️ Play</a>
 
 > e. I was not invited to speak alongside President Donald Trump and JD Vance on the stage with Tucker at a memorial event. What doe
@@ -2724,3 +2724,419 @@ date: "2025-09-10"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(682);return false;">▶️ Play</a>
 
 > or of Israel and throws shade at Donald Trump and Qatar, and all of this is related to what went on on September 9th, which is that Israel bombed Qatar for
+
+### 340. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+
+**Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
+**Timestamp:** [00:05:44](/episodes/ep-sreYYcID-QY.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(344);return false;">▶️ Play</a>
+
+> allegedly taken—I'll say allegedly for safety here, but it's looking right according to my
+
+### 341. Another French Front: Did Charlie Kirk Save My Life? | Canda...
+
+**Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
+**Timestamp:** [00:02:32](/episodes/ep-sImMM04XdWY.md#t-00-02-07) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(152);return false;">▶️ Play</a>
+
+> er and try to figure out who did this because the Tyler Robinson story wasn't making any sense. Well, I want to tell you guys this. There's another phone call that
+
+### 342. BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. |...
+
+**Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
+**Timestamp:** [00:05:34](/episodes/ep-iHav0PPzUz8.md#t-00-04-55) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(334);return false;">▶️ Play</a>
+
+> onto the rooftop? But of course now we know that Tyler Robinson was not on the Woodbury Building or on campus at all for that matter. So Casey Baugh is not a suspe
+
+### 343. Charlie's Angels Or Demons? Disturbing Footage Emerges. | Ca...
+
+**Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
+**Timestamp:** [00:53:16](/episodes/ep-c5BcKF91iec.md#t-00-52-57) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3196);return false;">▶️ Play</a>
+
+> hich was not accounted for. Joshua Steve writes, "Tyler Robinson appearing in court today via Zoom without having to show his face surely isn't helping any of the t
+
+### 344. TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace E...
+
+**Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
+**Timestamp:** [00:08:12](/episodes/ep-5autG89PW6w.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(492);return false;">▶️ Play</a>
+
+> "Third, if you discount the text messages between Tyler Robinson and his trans furry lover, you cannot take these at face value. Lastly, even if the text messages w
+
+### 345. #1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candac...
+
+**Episode:** [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
+**Timestamp:** [00:09:38](/episodes/ep-vwG1juDCQZQ.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-05-43) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(578);return false;">▶️ Play</a>
+
+> eople agree with this—I could have never forgiven Tyler Robinson for whatever part he played in this. And obviously I'm saying whatever part he played in this becau
+
+### 346. Who Moved The Camera Right Above Charlie's Head? | Candace E...
+
+**Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
+**Timestamp:** [00:44:45](/episodes/ep-aDlhjfW6hz8.md#t-00-44-23) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2685);return false;">▶️ Play</a>
+
+> after that ridiculous made-up text chain between Tyler Robinson and his lover Lance—they're hilarious. Your TikToks and the videos are hilarious. I'm gonna show yo
+
+### 347. What Did Charlie Kirk Discover Near The End? | Candace Ep 26...
+
+**Episode:** [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
+**Timestamp:** [00:05:39](/episodes/ep-yAIb-NuUh_U.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-05-06) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(339);return false;">▶️ Play</a>
+
+> are about the case because we're not feeling like Tyler Robinson acted alone and he's the lone shooter. But we deeply care about whether or not—and why—his friends
+
+### 348. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
+
+**Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
+**Timestamp:** [00:11:45](/episodes/ep-K5GjF53bfN4.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-01) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(705);return false;">▶️ Play</a>
+
+> n the raid that took place of Lance's house where Tyler Robinson was living at the time of this crime. No update whatsoever on Lance. You know, he just comp
+
+### 349. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
+
+**Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
+**Timestamp:** [00:13:55](/episodes/ep-ja26iltROkM.md#t-00-13-34) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(835);return false;">▶️ Play</a>
+
+> ," right? Because it could be a miracle also that Tyler Robinson decided to take a break at Dairy Queen and issue some texts that sound like they were written in 18
+
+### 350. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
+
+**Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
+**Timestamp:** [00:00:45](/episodes/ep-q7f8r-THr84.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-01) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(45);return false;">▶️ Play</a>
+
+> well, first and foremost, the indictment against Tyler Robinson was just released, and I have a lot of questions that I think need to be answered regarding his tra
+
+### 351. EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Cand...
+
+**Episode:** [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
+**Timestamp:** [00:18:52](/episodes/ep-Qfwr08Ebczo.md#t-00-18-24) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1132);return false;">▶️ Play</a>
+
+> nvestigation and someone's right to a fair trial. Tyler Robinson is charged with Kirk's murder. Fox 13 plans an appeal of the denial, and we are still pursuing a va
+
+### 352. They Are Lying About Charlie Kirk. | Candace Ep 235
+
+**Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
+**Timestamp:** [00:40:25](/episodes/ep-czVBmqZP6Ss.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2425);return false;">▶️ Play</a>
+
+> ernor Cox tells us that that is when the shooter, Tyler Robinson, arrived at UVU campus in a plain maroon t-shirt, light-colored shorts, and a black hat with a whit
+
+### 353. They Are Lying About Tyler Robinson. | Candace Ep 244
+
+**Episode:** [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
+**Timestamp:** [00:00:09](/episodes/ep-ZGxnf5cj4Uw.md#t-00-00-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(9);return false;">▶️ Play</a>
+
+> get the information out as soon as possible that Tyler Robinson is not suicidal. And I'm going to tell you how I know that. Also, while investigating this assassin
+
+### 354. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
+
+**Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+**Timestamp:** [00:15:20](/episodes/ep-tB5SXXmd9vU.md#t-00-14-39) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(920);return false;">▶️ Play</a>
+
+> . No Utah, not interested. I'm actually surprised Tyler Robinson's lawyer hasn't reached out to me. What's going on here? We've got to protect the patsy, right? We'
+
+### 355. INSANITY! Guess Who Kash Patel Sent To Investigate Charlie K...
+
+**Episode:** [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
+**Timestamp:** [00:18:12](/episodes/ep-t1YtLS1n8Vs.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1092);return false;">▶️ Play</a>
+
+> s taking it seriously and investigating. Well, if Tyler Robinson is gonna be our patsy, and I do wanna be clear here, I'm not saying that Tyler Robinson is guilty o
+
+### 356. BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter ...
+
+**Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
+**Timestamp:** [00:06:18](/episodes/ep-adJ4LNGp84I.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-01-30) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(378);return false;">▶️ Play</a>
+
+> s in the case that is overseeing the case against Tyler Robinson is Judge Tony F. Graf Jr. He was recently appointed to the 4th District Court in May of 2025 by Go
+
+### 357. DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245
+
+**Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
+**Timestamp:** [00:13:26](/episodes/ep-YA1FxrDWNIo.md#t-00-12-58) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(806);return false;">▶️ Play</a>
+
+> ced. He kind of resembles, certainly more so than Tyler Robinson does, the blurred image of the individual that was coming up the stairs. I couldn't look away from
+
+### 358. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
+
+**Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
+**Timestamp:** [00:35:41](/episodes/ep-2Riv3I7D0Yk.md#t-00-34-57) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2141);return false;">▶️ Play</a>
+
+> rom this that by "they," what he really meant was Tyler Robinson. He meant "they/them." Duh. Like a non-binary person or a trans person. They were going to kill him
+
+### 359. Operation: “See you in Valhalla, Charlie”. | Candace Ep 270
+
+**Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
+**Timestamp:** [00:17:27](/episodes/ep-mKXdKV-OBog.md#t-00-17-10) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1047);return false;">▶️ Play</a>
+
+> bviously sons—I showed you—of an Air Force chief. Tyler Robinson is a Boy Scout whose Uncle Mitchell may be related. People have pulled this off of the internet, an
+
+### 360. BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk...
+
+**Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
+**Timestamp:** [00:02:30](/episodes/ep-QZWSsq8ZWzw.md#t-00-02-13) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(150);return false;">▶️ Play</a>
+
+> an, then it might mess up our prosecution against Tyler Robinson." That feels a little bit to me like moral blackmail. "Hey man, we're not hiding anything, but we'v
+
+### 361. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
+
+**Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
+**Timestamp:** [00:23:26](/episodes/ep-UBkFkg4UNY8.md#t-00-23-23) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1406);return false;">▶️ Play</a>
+
+> received less than 24 hours later of this person, Tyler Robinson, wearing jeans. I said, was he wearing jeans? He said, no. Actually, this person was dressed in tac
+
+### 362. Who Moved The Camera Right Above Charlie's Head? | Candace E...
+
+**Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
+**Timestamp:** [00:44:47](/episodes/ep-aDlhjfW6hz8.md#t-00-44-23) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2687);return false;">▶️ Play</a>
+
+> that we speak after that ridiculous made-up text chain betwe
+
+### 363. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
+
+**Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
+**Timestamp:** [00:11:34](/episodes/ep-K5GjF53bfN4.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-01) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(694);return false;">▶️ Play</a>
+
+> n the raid that took place of Lance's house where Tyler Robinson was living at the time of this crime. No update whatsoever on Lance. You know, he just completely f
+
+### 364. INSANITY! Guess Who Kash Patel Sent To Investigate Charlie K...
+
+**Episode:** [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
+**Timestamp:** [00:18:19](/episodes/ep-t1YtLS1n8Vs.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1099);return false;">▶️ Play</a>
+
+> s taking it seriously and investigating. Well, if Tyler Robinson is gonna be our patsy, and I do wanna be clear here, I'm not saying that Tyler Robinson is guilty o
+
+### 365. BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter ...
+
+**Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
+**Timestamp:** [00:06:19](/episodes/ep-adJ4LNGp84I.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-01-30) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(379);return false;">▶️ Play</a>
+
+> s in the case that is overseeing the case against Tyler Robinson is Judge Tony F. Graf Jr. He was recently appointed to the 4th District Court in May of 2025 by Go
+
+### 366. DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245
+
+**Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
+**Timestamp:** [00:09:05](/episodes/ep-YA1FxrDWNIo.md#t-00-08-53) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(545);return false;">▶️ Play</a>
+
+> ced. He kind of resembles, certainly more so than Tyler Robinson does, the blurred image of the individual that was coming up the stairs. I couldn't look away from
+
+### 367. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
+
+**Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
+**Timestamp:** [00:23:37](/episodes/ep-UBkFkg4UNY8.md#t-00-23-23) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1417);return false;">▶️ Play</a>
+
+> received less than 24 hours later of this person, Tyler Robinson, wearing jeans. I said, was he wearing jeans? He said, no. Actually, this person was dressed in tac
+
+### 368. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
+
+**Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+**Timestamp:** [00:55:33](/episodes/ep-tB5SXXmd9vU.md#t-00-55-11) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3333);return false;">▶️ Play</a>
+
+> at it was supposed to be Candace if the killer is Tyler Robinson?" That was actually something that I had never considered. I told you guys that Andrew Kolvet call
+
+### 369. They Are Lying About Tyler Robinson. | Candace Ep 244
+
+**Episode:** [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
+**Timestamp:** [00:00:55](/episodes/ep-ZGxnf5cj4Uw.md#t-00-00-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(55);return false;">▶️ Play</a>
+
+> and see what you think. Welcome back to Candace. Jeffrey Epstein didn't kill himself. Tyler Robinson didn't kill himself. I mean, these are the phrases that we now
+
+### 370. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
+
+**Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
+**Timestamp:** [00:20:48](/episodes/ep-q7f8r-THr84.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-01) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1248);return false;">▶️ Play</a>
+
+> I have for you guys today? Okay, well, first and foremost, the indictment against Tyler Robinson was just released, and I have a lot of questions that I t
+
+### 371. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
+
+**Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
+**Timestamp:** [00:23:14](/episodes/ep-q7f8r-THr84.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-01) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1394);return false;">▶️ Play</a>
+
+> I have for you guys today? Okay, well, first and foremost, the indictment against Tyler Robinson was just released, and I have a lot of questions that I t
+
+### 372. Operation: “See you in Valhalla, Charlie”. | Candace Ep 270
+
+**Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
+**Timestamp:** [00:17:26](/episodes/ep-mKXdKV-OBog.md#t-00-17-10) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1046);return false;">▶️ Play</a>
+
+> ther of Pastor Jack Hibbs. Obviously sons—I showed you—of an Air Force chief. Tyler Robinson is a Boy Scout whose Uncle Mitchell may be related. People have pulled this off of the internet, and I don'
+
+### 373. INSANITY! Guess Who Kash Patel Sent To Investigate Charlie K...
+
+**Episode:** [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
+**Timestamp:** [00:31:51](/episodes/ep-t1YtLS1n8Vs.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1911);return false;">▶️ Play</a>
+
+> you can help to this.” I got a very rude response that only
+
+### 374. BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter ...
+
+**Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
+**Timestamp:** [00:06:32](/episodes/ep-adJ4LNGp84I.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-01-30) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(392);return false;">▶️ Play</a>
+
+> erseeing the case against Tyler Robinson is Judge Tony F. Graf Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox. I was a
+
+### 375. BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter ...
+
+**Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
+**Timestamp:** [00:46:37](/episodes/ep-adJ4LNGp84I.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-01-30) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2797);return false;">▶️ Play</a>
+
+> erea Lee writes, one of Tyler Robinson's lawyers, Michael Burt, previously represented Richard Ramirez, aka the Night Stalker. Ramirez was in the same jail as Sea
+
+### 376. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
+
+**Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+**Timestamp:** [00:18:27](/episodes/ep-tB5SXXmd9vU.md#t-00-18-18) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1107);return false;">▶️ Play</a>
+
+> during Charlie Kirk's assassination. So what happened is the
+
+### 377. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
+
+**Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+**Timestamp:** [00:18:42](/episodes/ep-tB5SXXmd9vU.md#t-00-18-18) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1122);return false;">▶️ Play</a>
+
+> r of the Armed Forces issued the following statement in France, and I'm going to quote this for you: "Tyler Robinson was never part of the French Foreign Legion. If he did not serve in an American mil
+
+### 378. BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter ...
+
+**Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
+**Timestamp:** [00:06:19](/episodes/ep-adJ4LNGp84I.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-01-30) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(379);return false;">▶️ Play</a>
+
+> That's not it, though. There were also some other new people, and I forgot to mention the judge that is in the case that is overseeing the case against Tyler Robinson is Judge Tony F. Graf Jr. He was
+
+### 379. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
+
+**Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+**Timestamp:** [00:55:24](/episodes/ep-tB5SXXmd9vU.md#t-00-55-11) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3324);return false;">▶️ Play</a>
+
+> was: "How did" from knit unravel wrote, "How did Andrew Kolvet know that it was supposed to be Candace if the killer is Tyler Robinson?" That was actually somethi
+
+### 380. Charlie Kirk’s Last Trip To Asia… | Candace Ep 277
+
+**Episode:** [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md)
+**Timestamp:** [00:00:03](/episodes/ep-t4U7NjnUEgc.md#t-00-00-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3);return false;">▶️ Play</a>
+
+> Well, in the final days leading up to Charlie Kirk's assassination, Charlie was pretty busy, right?
+
+### 381. UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Cand...
+
+**Episode:** [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md)
+**Timestamp:** [00:01:16](/episodes/ep-6DhWawD4ZiM.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-46) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(76);return false;">▶️ Play</a>
+
+> he has officially waded into the who killed Charlie Kirk narrative
+
+### 382. Who Stood To Benefit From Charlie Kirk's Assassination? | Ca...
+
+**Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
+**Timestamp:** [00:00:13](/episodes/ep-Kmt6HgRjckU.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(13);return false;">▶️ Play</a>
+
+> And it makes it kind of hilarious, even more hilarious that the very organization that Charlie Kirk
+
+### 383. BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter ...
+
+**Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
+**Timestamp:** [00:05:01](/episodes/ep-adJ4LNGp84I.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-01-30) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(301);return false;">▶️ Play</a>
+
+> 9/10 was everybody's first day on the job, meaning that there were a lot of these recent and brand new hires in Utah that would all kind of come across and have to deal with this case.
+
+### 384. Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? ...
+
+**Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
+**Timestamp:** [00:01:06](/episodes/ep-DqGNvi36ol8.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-41) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(66);return false;">▶️ Play</a>
+
+> I have probably looked at more footage from September 10th than any human being in the government or otherwise
+
+### 385. They Are Lying About Charlie Kirk. | Candace Ep 235
+
+**Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
+**Timestamp:** [00:40:46](/episodes/ep-czVBmqZP6Ss.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2446);return false;">▶️ Play</a>
+
+> video footage from UVU surveillance and identified Robinson arriving on UVU campus in a gray Dodge Challenger at approximately 8:29 a.m. on September 10th
+
+### 386. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
+
+**Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
+**Timestamp:** [00:02:06](/episodes/ep-q7f8r-THr84.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-01) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(126);return false;">▶️ Play</a>
+
+> What is happening right now in the world, and what just happened to my friend Charlie, is a battle of sheer evil versus goodness.
+
+### 387. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
+
+**Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
+**Timestamp:** [00:06:46](/episodes/ep-q7f8r-THr84.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-01) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(406);return false;">▶️ Play</a>
+
+> I think it's important for us to go through it so that we can see the setup here of what took place on September 10th.
+
+### 388. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
+
+**Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
+**Timestamp:** [00:08:23](/episodes/ep-q7f8r-THr84.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-01) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(503);return false;">▶️ Play</a>
+
+> we know that Charlie gets shot at 12:23 p.m., so they're now telling us that he was on that roof since 12:15 p.m., so he's setting up that shot
+
+### 389. They Are Lying About Tyler Robinson. | Candace Ep 244
+
+**Episode:** [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
+**Timestamp:** [00:06:42](/episodes/ep-ZGxnf5cj4Uw.md#t-00-06-10) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(402);return false;">▶️ Play</a>
+
+> f their choosing. I am told that they are fans of Charlie and they are fans of Donald Trump. Although this source noted that Tyler, like many other conservatives have expressed, wished
+
+### 390. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+
+**Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
+**Timestamp:** [00:01:49](/episodes/ep-sreYYcID-QY.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-00-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(109);return false;">▶️ Play</a>
+
+> ake sense about the changing of the clothes. That Tyler Robinson allegedly did. And we've been wondering why it seems the feds were only willing to release a grainy
+
+### 391. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
+
+**Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
+**Timestamp:** [00:49:04](/episodes/ep-tB5SXXmd9vU.md#t-00-48-53) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2944);return false;">▶️ Play</a>
+
+> t's back to school. There's a lot going on. And I was very comforted to see that Brigitte Macron had opened Paris Design Week. Makes sense, right? Opened Paris Design Week on, I believe, September 4th

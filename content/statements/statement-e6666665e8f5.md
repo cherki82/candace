@@ -1,8 +1,8 @@
 ---
 title: "Washington County Sheriff's Office stated the surveillance f..."
-description: "\"Washington County Sheriff's Office stated the surveillance footage of Tyler Robinson turning himself in is no longer available after the 30-day retent...\" — kuer-news-reporter"
+description: "\"Washington County Sheriff's Office stated the surveillance footage of Tyler Robinson turning himself in is no longer available after the 30-day retent...\" — Candace Owens"
 statement_id: "statement-e6666665e8f5"
-speaker: "kuer-news-reporter"
+speaker: "Candace Owens"
 type: "factual_claim"
 ---
 
@@ -14,10 +14,11 @@ type: "factual_claim"
 
 ## Attribution
 
-**Speaker:** [kuer-news-reporter](/entities/kuer-news-reporter.md) (Quoted)
+**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Quoted from article
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** KUER News / Washington County Sheriff's Office
 
 ## About
 

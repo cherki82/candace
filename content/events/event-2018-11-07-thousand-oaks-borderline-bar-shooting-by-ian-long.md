@@ -11,7 +11,7 @@ date: "2018-11-07"
 
 > Thousand Oaks Borderline Bar shooting by Ian Long kills 12
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. Why Is Everyone Crashing Out Over The Charlie Kirk Investiga...
 
@@ -36,3 +36,11 @@ date: "2018-11-07"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1315);return false;">▶️ Play</a>
 
 > Fast-forward a year later—on November 7th of 2018—and there's almost this like Las Vegas shooting
+
+### 4. INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Ca...
+
+**Episode:** [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
+**Timestamp:** [00:16:19](/episodes/ep-YFmRH8p5lt0.md#event-event-2018-11-07-thousand-oaks-borderline-bar-shooting-by-ian-long-t-00-14-58) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(979);return false;">▶️ Play</a>
+
+> This is on November 7th, 2018. A former machine gunner in the Marines, okay, opens fire on patrons at the Borderline Bar and Grill. It kills 11 patrons and then himself.
