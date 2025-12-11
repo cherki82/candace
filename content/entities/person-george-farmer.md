@@ -17,6 +17,34 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (2 mentions)</summary>
+
+**[00:15:38](/episodes/ep-DqGNvi36ol8.md#ent-person-george-farmer-t-00-15-21)**
+> "... there is no way in hell that George can make the 15th work."
+
+**[00:16:03](/episodes/ep-DqGNvi36ol8.md#ent-person-george-farmer-t-00-16-03)**
+> "...her with the Supreme Court of George Farber if you are insinuating and actually if you..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (4 mentions)</summary>
+
+**[00:57:28](/episodes/ep-iHav0PPzUz8.md#ent-person-george-farmer-t-00-57-17)**
+> "..., Candace (Candace Owens) and George, for opening my eyes to Catholicism."
+
+**[00:57:32](/episodes/ep-iHav0PPzUz8.md#ent-person-george-farmer-t-00-57-17)**
+> "I became curious of George's story, and I binged his interviews."
+
+**[00:57:50](/episodes/ep-iHav0PPzUz8.md#ent-person-george-farmer-t-00-57-17)**
+> "...ed to that journey—especially George, who rarely does interviews. But I always can boo..."
+
+**[00:57:52](/episodes/ep-iHav0PPzUz8.md#ent-person-george-farmer-t-00-57-17)**
+> "You guys know that I can book George at least once a year, and we're coming towards th..."
+
+</details>
+
+<details>
 <summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (11 mentions)</summary>
 
 **[00:01:40](/episodes/ep-5autG89PW6w.md#ent-person-george-farmer-t-00-06-06)**
@@ -51,17 +79,6 @@ _Type: People_
 
 **[00:44:22](/episodes/ep-5autG89PW6w.md#ent-person-george-farmer-t-00-44-22)**
 > "...was when I first laid eyes on George—not when I spoke to him, but when I actually firs..."
-
-</details>
-
-<details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (2 mentions)</summary>
-
-**[00:15:38](/episodes/ep-DqGNvi36ol8.md#ent-person-george-farmer-t-00-15-21)**
-> "... there is no way in hell that George can make the 15th work."
-
-**[00:16:03](/episodes/ep-DqGNvi36ol8.md#ent-person-george-farmer-t-00-16-03)**
-> "...her with the Supreme Court of George Farber if you are insinuating and actually if you..."
 
 </details>
 
@@ -102,36 +119,10 @@ _Type: People_
 
 </details>
 
-<details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (4 mentions)</summary>
-
-**[00:57:28](/episodes/ep-iHav0PPzUz8.md#ent-person-george-farmer-t-00-57-17)**
-> "..., Candace (Candace Owens) and George, for opening my eyes to Catholicism."
-
-**[00:57:32](/episodes/ep-iHav0PPzUz8.md#ent-person-george-farmer-t-00-57-17)**
-> "I became curious of George's story, and I binged his interviews."
-
-**[00:57:50](/episodes/ep-iHav0PPzUz8.md#ent-person-george-farmer-t-00-57-17)**
-> "...ed to that journey—especially George, who rarely does interviews. But I always can boo..."
-
-**[00:57:52](/episodes/ep-iHav0PPzUz8.md#ent-person-george-farmer-t-00-57-17)**
-> "You guys know that I can book George at least once a year, and we're coming towards th..."
-
-</details>
-
 </details>
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
-
-<details>
-<summary>Married To (1)</summary>
-
-- **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:16:47](/episodes/ep-Cq7nj9rxPdo.md#t-00-16-27): "that was in December that I met my husband...I first laid eyes on my husband"
-  - [To My Friend, Charlie Kirk. @ 00:17:57](/episodes/ep-_dRaEO47-co.md#t-00-17-19): "Charlie was by my side the day that I got married to George"
-
-</details>
 
 <details>
 <summary>Referenced By (1)</summary>

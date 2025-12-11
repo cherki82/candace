@@ -21,7 +21,7 @@ type: "factual_claim"
 ## About
 
 - [George H.W. Bush](/entities/person-george-hw-bush.md) (person)
-- [Angola Gate](/entities/concept-angola-gate.md) (concept)
+- [Angolagate scandal](/entities/event-angola-gate.md) (event)
 
 ## Source
 

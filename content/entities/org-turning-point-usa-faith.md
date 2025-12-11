@@ -19,6 +19,23 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (4 mentions)</summary>
+
+**[00:07:49](/episodes/ep-his-JBjlkh8.md#ent-org-turning-point-usa-faith-t-00-07-24)**
+> "...ed if they were tracking Charlie (Charlie Kirk). We then obviously realized that they were tracking TPUSA Faith events and that many more times they were following and perhaps tracking Erika. You should be conce..."
+
+**[00:10:58](/episodes/ep-his-JBjlkh8.md#ent-org-turning-point-usa-faith-t-00-10-58)**
+> "... after some events. So I'm glad we're going to live-stream that. Keep going. She has suggested that TPUSA Faith-affiliated pastors, like theologian Frank Turek—who we'll have on in a moment—and Pastor Rob McCoy,..."
+
+**[00:07:49](/episodes/ep-his-JBjlkh8.md#ent-org-turning-point-usa-faith-t-00-07-24)**
+> "...lized that they were tracking TPUSA Faith events and that many more times they were followi..."
+
+**[00:10:58](/episodes/ep-his-JBjlkh8.md#ent-org-turning-point-usa-faith-t-00-10-58)**
+> "She has suggested that TPUSA Faith-affiliated pastors, like theologian Frank Turek—w..."
+
+</details>
+
+<details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:32:26](/episodes/ep-7RLtGgkTh9o.md#ent-org-turning-point-usa-faith-t-00-32-07)**
@@ -26,6 +43,38 @@ _Type: Organizations_
 
 **[00:32:26](/episodes/ep-7RLtGgkTh9o.md#ent-org-turning-point-usa-faith-t-00-32-07)**
 > "... letting go—obviously—of this TPUSA faith infiltration, which is what it looks like to me."
+
+</details>
+
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (9 mentions)</summary>
+
+**[00:27:23](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-faith-t-00-27-15)**
+> "...t becomes increasingly interesting when I keep insisting to you guys that there was something about Turning Point USA Faith that to me reads like an infiltration of sorts, okay? That is what it looks like to me. Something d..."
+
+**[00:07:16](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-faith-t-00-07-16)**
+> "...o we should just trust the science and ignore the many lies that they have told us. What exactly is TPUSA Faith? Who is Rob McCoy? Why is it that these Calvary Chapels have a long history of weird abuse and traf..."
+
+**[00:07:16](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-faith-t-00-07-16)**
+> "What exactly is TPUSA Faith?"
+
+**[00:07:16](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-faith-t-00-07-16)**
+> "What exactly is TPUSA Faith?"
+
+**[00:27:23](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-faith-t-00-27-15)**
+> "...hat there was something about Turning Point USA Faith that to me reads like an infiltration of sorts, o..."
+
+**[00:32:11](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-faith-t-00-32-11)**
+> "... when you really start to see Turning Point Faith ratchet up—is when Charlie (Charlie Kirk) is goin..."
+
+**[00:32:25](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-faith-t-00-32-11)**
+> "And then Turning Point Faith seems to just kind of take off in a way that I've..."
+
+**[00:32:47](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-faith-t-00-32-11)**
+> "you know, support Turning Point Faith—"
+
+**[01:01:22](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-faith-t-01-00-44)**
+> "...t the people that are running Turning Point Faith"
 
 </details>
 
@@ -50,70 +99,46 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (21 mentions)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (13 mentions)</summary>
 
-**[00:03:52](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-03-39)**
-> ".... Just amazing. Let's check out that fresh entry now. It reads: "Rob McCoy and Charlie Kirk founded Turning Point USA Faith (TPUSA Faith) together." "Along with being a Pentecostal pastor in the Calvary Chapel Association, ..."
+**[00:17:48](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-17-23)**
+> ".... So Lance (Lance Wallnau) fits the pattern well. And before I tell you how he is very connected to Turning Point USA Faith, I do want to also be clear that Frank Turek (Frank Turek) stands out because he flat-out acknowled..."
 
-**[00:04:30](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-04-24)**
-> "...oint USA, so I just know these lies so quickly, okay? No, Rob McCoy was not the person who inspired Turning Point USA Faith. Actually, if anybody could be credited with that, that was like way back in the day at Liberty Uni..."
+**[00:20:07](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-20-07)**
+> "...nce Wallnau) was running the show behind the scenes through funding—that he put a ton of money into Turning Point USA Faith operations. Now, I guess a better way for me to state this—because I want to be super clear here—is..."
 
-**[00:03:59](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-03-39)**
-> "...long with being a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Faith." "Aligned with the Christian right, McCoy inspired Kirk to amalgamate Christianity and social cons..."
+**[00:55:52](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-55-35)**
+> "...eptive in the name of the Lord. It doesn't make me feel good knowing that he was putting money into Turning Point USA Faith. And like I said, we are going to have some explosive revelations on Wednesday that's going to make..."
 
-**[00:06:42](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-06-26)**
-> "...cts with the new section that was added 36 hours later. It makes it clear that Charlie Kirk founded TPUSA Faith alone. Here it is: "In 2021, Charlie Kirk founded TPUSA Faith, an organization that says it is dedi..."
+**[00:13:23](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-13-01)**
+> "... names might sound familiar. Certainly Sean Feucht (Sean Feucht). I brought him up to you regarding TPUSA Faith, who started to lead these events that they were having. So who is Lance Wallnau (Lance Wallnau)? W..."
 
-**[00:06:48](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-06-26)**
-> "...es it clear that Charlie Kirk founded TPUSA Faith alone. Here it is: "In 2021, Charlie Kirk founded TPUSA Faith, an organization that says it is dedicated to recruit pastors and other church leaders to be active..."
+**[00:13:23](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-13-01)**
+> "...ought him up to you regarding TPUSA Faith, who started to lead these events that they were ..."
 
-**[00:09:28](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-09-15)**
-> "...typed this—that he was the founder, the co-founder, Charlie's pastor. No, he wasn't. The founder of TPUSA Faith, the inspiration behind TPUSA Faith. No, he wasn't. He was one of the advisors put on the board of ..."
+**[00:17:48](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-17-23)**
+> "...u how he is very connected to Turning Point USA Faith, I do want to also be clear that Frank Turek stan..."
 
-**[00:09:32](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-09-15)**
-> "...tion behind TPUSA Faith. No, he wasn't. He was one of the advisors put on the board of advisory for TPUSA Faith. I know that he gets paid by TPUSA Faith upcoming pastor summits where they're going to teach other..."
+**[00:20:07](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-20-07)**
+> "...at he put a ton of money into Turning Point USA Faith operations."
 
-**[00:09:38](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-09-15)**
-> "...e was one of the advisors put on the board of advisory for TPUSA Faith. I know that he gets paid by TPUSA Faith upcoming pastor summits where they're going to teach other Christian Zionist pastors how to use the..."
+**[00:55:52](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-55-35)**
+> "...hat he was putting money into Turning Point USA Faith."
 
-**[00:03:52](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-03-39)**
-> "...cCoy and Charlie Kirk founded Turning Point USA Faith (TPUSA Faith) together.""
+**[00:16:33](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-16-02)**
+> "Turning Point Faith—everywhere that I'm investigating, Turning Point ..."
 
-**[00:03:52](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-03-39)**
-> "...nded Turning Point USA Faith (TPUSA Faith) together.""
+**[00:16:33](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-16-02)**
+> "...where that I'm investigating, Turning Point Faith keeps coming up."
 
-**[00:03:59](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-03-39)**
-> "..., McCoy is the co-chairman of TPUSA Faith.""
+**[00:20:35](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-20-07)**
+> "...ting large sums of money into Turning Point Faith."
 
-**[00:04:30](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-04-24)**
-> "...s not the person who inspired Turning Point USA Faith."
+**[00:20:48](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-20-48)**
+> "...ventually did tour stops with Turning Point Faith, and he knew Charlie (Charlie Kirk). Charlie (Cha..."
 
-**[00:06:42](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-06-26)**
-> "...ear that Charlie Kirk founded TPUSA Faith alone."
-
-**[00:06:48](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-06-26)**
-> "...In 2021, Charlie Kirk founded TPUSA Faith, an organization that says it is dedicated to rec..."
-
-**[00:09:28](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-09-15)**
-> "The founder of TPUSA Faith, the inspiration behind TPUSA Faith."
-
-**[00:09:28](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-09-15)**
-> "...Faith, the inspiration behind TPUSA Faith."
-
-**[00:09:32](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-09-15)**
-> "... on the board of advisory for TPUSA Faith."
-
-**[00:09:38](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-09-15)**
-> "I know that he gets paid by TPUSA Faith upcoming pastor summits where they're going to te..."
-
-**[00:05:59](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-05-47)**
-> "...e there wasn't any mention of Turning Point Faith at all."
-
-**[00:06:18](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-05-47)**
-> "...they included a new tab about Turning Point Faith."
-
-**[00:06:26](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-06-26)**
-> "...e Wikipedia website regarding Turning Point Faith on Wikipedia."
+**[00:56:04](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-55-35)**
+> "And Turning Point Faith keeps coming up in this investigation."
 
 </details>
 
@@ -222,46 +247,70 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (13 mentions)</summary>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (21 mentions)</summary>
 
-**[00:17:48](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-17-23)**
-> ".... So Lance (Lance Wallnau) fits the pattern well. And before I tell you how he is very connected to Turning Point USA Faith, I do want to also be clear that Frank Turek (Frank Turek) stands out because he flat-out acknowled..."
+**[00:03:52](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-03-39)**
+> ".... Just amazing. Let's check out that fresh entry now. It reads: "Rob McCoy and Charlie Kirk founded Turning Point USA Faith (TPUSA Faith) together." "Along with being a Pentecostal pastor in the Calvary Chapel Association, ..."
 
-**[00:20:07](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-20-07)**
-> "...nce Wallnau) was running the show behind the scenes through funding—that he put a ton of money into Turning Point USA Faith operations. Now, I guess a better way for me to state this—because I want to be super clear here—is..."
+**[00:04:30](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-04-24)**
+> "...oint USA, so I just know these lies so quickly, okay? No, Rob McCoy was not the person who inspired Turning Point USA Faith. Actually, if anybody could be credited with that, that was like way back in the day at Liberty Uni..."
 
-**[00:55:52](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-55-35)**
-> "...eptive in the name of the Lord. It doesn't make me feel good knowing that he was putting money into Turning Point USA Faith. And like I said, we are going to have some explosive revelations on Wednesday that's going to make..."
+**[00:03:59](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-03-39)**
+> "...long with being a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Faith." "Aligned with the Christian right, McCoy inspired Kirk to amalgamate Christianity and social cons..."
 
-**[00:13:23](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-13-01)**
-> "... names might sound familiar. Certainly Sean Feucht (Sean Feucht). I brought him up to you regarding TPUSA Faith, who started to lead these events that they were having. So who is Lance Wallnau (Lance Wallnau)? W..."
+**[00:06:42](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-06-26)**
+> "...cts with the new section that was added 36 hours later. It makes it clear that Charlie Kirk founded TPUSA Faith alone. Here it is: "In 2021, Charlie Kirk founded TPUSA Faith, an organization that says it is dedi..."
 
-**[00:13:23](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-13-01)**
-> "...ought him up to you regarding TPUSA Faith, who started to lead these events that they were ..."
+**[00:06:48](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-06-26)**
+> "...es it clear that Charlie Kirk founded TPUSA Faith alone. Here it is: "In 2021, Charlie Kirk founded TPUSA Faith, an organization that says it is dedicated to recruit pastors and other church leaders to be active..."
 
-**[00:17:48](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-17-23)**
-> "...u how he is very connected to Turning Point USA Faith, I do want to also be clear that Frank Turek stan..."
+**[00:09:28](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-09-15)**
+> "...typed this—that he was the founder, the co-founder, Charlie's pastor. No, he wasn't. The founder of TPUSA Faith, the inspiration behind TPUSA Faith. No, he wasn't. He was one of the advisors put on the board of ..."
 
-**[00:20:07](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-20-07)**
-> "...at he put a ton of money into Turning Point USA Faith operations."
+**[00:09:32](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-09-15)**
+> "...tion behind TPUSA Faith. No, he wasn't. He was one of the advisors put on the board of advisory for TPUSA Faith. I know that he gets paid by TPUSA Faith upcoming pastor summits where they're going to teach other..."
 
-**[00:55:52](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-55-35)**
-> "...hat he was putting money into Turning Point USA Faith."
+**[00:09:38](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-09-15)**
+> "...e was one of the advisors put on the board of advisory for TPUSA Faith. I know that he gets paid by TPUSA Faith upcoming pastor summits where they're going to teach other Christian Zionist pastors how to use the..."
 
-**[00:16:33](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-16-02)**
-> "Turning Point Faith—everywhere that I'm investigating, Turning Point ..."
+**[00:03:52](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-03-39)**
+> "...cCoy and Charlie Kirk founded Turning Point USA Faith (TPUSA Faith) together.""
 
-**[00:16:33](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-16-02)**
-> "...where that I'm investigating, Turning Point Faith keeps coming up."
+**[00:03:52](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-03-39)**
+> "...nded Turning Point USA Faith (TPUSA Faith) together.""
 
-**[00:20:35](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-20-07)**
-> "...ting large sums of money into Turning Point Faith."
+**[00:03:59](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-03-39)**
+> "..., McCoy is the co-chairman of TPUSA Faith.""
 
-**[00:20:48](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-20-48)**
-> "...ventually did tour stops with Turning Point Faith, and he knew Charlie (Charlie Kirk). Charlie (Cha..."
+**[00:04:30](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-04-24)**
+> "...s not the person who inspired Turning Point USA Faith."
 
-**[00:56:04](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-55-35)**
-> "And Turning Point Faith keeps coming up in this investigation."
+**[00:06:42](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-06-26)**
+> "...ear that Charlie Kirk founded TPUSA Faith alone."
+
+**[00:06:48](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-06-26)**
+> "...In 2021, Charlie Kirk founded TPUSA Faith, an organization that says it is dedicated to rec..."
+
+**[00:09:28](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-09-15)**
+> "The founder of TPUSA Faith, the inspiration behind TPUSA Faith."
+
+**[00:09:28](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-09-15)**
+> "...Faith, the inspiration behind TPUSA Faith."
+
+**[00:09:32](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-09-15)**
+> "... on the board of advisory for TPUSA Faith."
+
+**[00:09:38](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-09-15)**
+> "I know that he gets paid by TPUSA Faith upcoming pastor summits where they're going to te..."
+
+**[00:05:59](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-05-47)**
+> "...e there wasn't any mention of Turning Point Faith at all."
+
+**[00:06:18](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-05-47)**
+> "...they included a new tab about Turning Point Faith."
+
+**[00:06:26](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-06-26)**
+> "...e Wikipedia website regarding Turning Point Faith on Wikipedia."
 
 </details>
 
@@ -276,55 +325,6 @@ _Type: Organizations_
 
 </details>
 
-<details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (4 mentions)</summary>
-
-**[00:07:49](/episodes/ep-his-JBjlkh8.md#ent-org-turning-point-usa-faith-t-00-07-24)**
-> "...ed if they were tracking Charlie (Charlie Kirk). We then obviously realized that they were tracking TPUSA Faith events and that many more times they were following and perhaps tracking Erika. You should be conce..."
-
-**[00:10:58](/episodes/ep-his-JBjlkh8.md#ent-org-turning-point-usa-faith-t-00-10-58)**
-> "... after some events. So I'm glad we're going to live-stream that. Keep going. She has suggested that TPUSA Faith-affiliated pastors, like theologian Frank Turek—who we'll have on in a moment—and Pastor Rob McCoy,..."
-
-**[00:07:49](/episodes/ep-his-JBjlkh8.md#ent-org-turning-point-usa-faith-t-00-07-24)**
-> "...lized that they were tracking TPUSA Faith events and that many more times they were followi..."
-
-**[00:10:58](/episodes/ep-his-JBjlkh8.md#ent-org-turning-point-usa-faith-t-00-10-58)**
-> "She has suggested that TPUSA Faith-affiliated pastors, like theologian Frank Turek—w..."
-
-</details>
-
-<details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (9 mentions)</summary>
-
-**[00:27:23](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-faith-t-00-27-15)**
-> "...t becomes increasingly interesting when I keep insisting to you guys that there was something about Turning Point USA Faith that to me reads like an infiltration of sorts, okay? That is what it looks like to me. Something d..."
-
-**[00:07:16](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-faith-t-00-07-16)**
-> "...o we should just trust the science and ignore the many lies that they have told us. What exactly is TPUSA Faith? Who is Rob McCoy? Why is it that these Calvary Chapels have a long history of weird abuse and traf..."
-
-**[00:07:16](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-faith-t-00-07-16)**
-> "What exactly is TPUSA Faith?"
-
-**[00:07:16](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-faith-t-00-07-16)**
-> "What exactly is TPUSA Faith?"
-
-**[00:27:23](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-faith-t-00-27-15)**
-> "...hat there was something about Turning Point USA Faith that to me reads like an infiltration of sorts, o..."
-
-**[00:32:11](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-faith-t-00-32-11)**
-> "... when you really start to see Turning Point Faith ratchet up—is when Charlie (Charlie Kirk) is goin..."
-
-**[00:32:25](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-faith-t-00-32-11)**
-> "And then Turning Point Faith seems to just kind of take off in a way that I've..."
-
-**[00:32:47](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-faith-t-00-32-11)**
-> "you know, support Turning Point Faith—"
-
-**[01:01:22](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-faith-t-01-00-44)**
-> "...t the people that are running Turning Point Faith"
-
-</details>
-
 </details>
 
 <details open>
@@ -335,19 +335,6 @@ _Type: Organizations_
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)**
   - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:09:32](/episodes/ep-Qt0VHV-POCg.md#t-00-09-15): "He was one of the advisors put on the board of advisory for TPUSA Faith."
-
-</details>
-
-<details>
-<summary>Affiliated With (2)</summary>
-
-- **[Frank Turek](/entities/person-frank-turek.md)**
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:58](/episodes/ep-his-JBjlkh8.md#t-00-10-16): "TPUSA Faith-affiliated pastors, like theologian Frank Turek"
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:58](/episodes/ep-his-JBjlkh8.md#t-00-10-16): "TPUSA Faith affiliated pastors, like theologian Frank Turek..."
-
-- **[Rob McCoy](/entities/person-rob-mccoy.md)**
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:58](/episodes/ep-his-JBjlkh8.md#t-00-10-16): "TPUSA Faith-affiliated pastors, like theologian Frank Turek—who we'll have on in a moment—and Pastor Rob McCoy"
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:58](/episodes/ep-his-JBjlkh8.md#t-00-10-16): "TPUSA Faith affiliated pastors... Pastor Rob McCoy..."
 
 </details>
 
@@ -456,17 +443,17 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (1)</summary>
-
-- [00:06:26](/episodes/ep-Qt0VHV-POCg.md#t-00-05-47) (Claim) **Candace Owens**: ["There was already a long-standing section on the Wikipedia website abo..."](/statements/statement-1c7931f3aa56.md)
-
-</details>
-
-<details>
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1)</summary>
 
 - [00:20:28](/episodes/ep-YaZfwLQ7vrI.md#t-00-20-07) (Claim) **Candace Owens**: ["Lance Wallnau was privately directing large sums of money into Turning..."](/statements/statement-85f0ac94f132.md)
   - Also about: [Lance Wallnau](/entities/person-lance-wallnau.md)
+
+</details>
+
+<details>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (1)</summary>
+
+- [00:06:26](/episodes/ep-Qt0VHV-POCg.md#t-00-05-47) (Claim) **Candace Owens**: ["There was already a long-standing section on the Wikipedia website abo..."](/statements/statement-1c7931f3aa56.md)
 
 </details>
 

@@ -17,6 +17,17 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+
+**[00:41:09](/episodes/ep-mKXdKV-OBog.md#ent-org-decentralized-intelligence-agency-t-00-40-40)**
+> "...ntic language. Yeah, that is such an interesting and creative perspective there. This is why I love the decentralized intelligence agency. Holly Carlin writes: "We needed a hoodie that says 'Go Max.'" The Get Me Out of Here writes: "It's..."
+
+**[00:41:09](/episodes/ep-mKXdKV-OBog.md#ent-org-decentralized-intelligence-agency-t-00-40-40)**
+> "This is why I love the decentralized intelligence agency."
+
+</details>
+
+<details>
 <summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (2 mentions)</summary>
 
 **[00:49:36](/episodes/ep-JQjCAsfoXEE.md#ent-org-decentralized-intelligence-agency-t-00-49-32)**
@@ -42,31 +53,6 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (4 mentions)</summary>
-
-**[00:52:49](/episodes/ep-aDlhjfW6hz8.md#ent-org-decentralized-intelligence-agency-t-00-52-10)**
-> "... line. This is the Candace Intelligence Agency. Some people think that it actually says, like, CIA. The Decentralized Intelligence Agency. The Decentralized Intelligence Agency."
-
-**[00:52:51](/episodes/ep-aDlhjfW6hz8.md#ent-org-decentralized-intelligence-agency-t-00-52-10)**
-> "... Agency. Some people think that it actually says, like, CIA. The Decentralized Intelligence Agency. The Decentralized Intelligence Agency."
-
-**[00:52:49](/episodes/ep-aDlhjfW6hz8.md#ent-org-decentralized-intelligence-agency-t-00-52-10)**
-> "The Decentralized Intelligence Agency."
-
-**[00:52:51](/episodes/ep-aDlhjfW6hz8.md#ent-org-decentralized-intelligence-agency-t-00-52-10)**
-> "The Decentralized Intelligence Agency."
-
-</details>
-
-<details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1 mentions)</summary>
-
-**[01:08:53](/episodes/ep-czVBmqZP6Ss.md#t-01-08-31)**
-> "...ny more information, please send them to tips@candaceowens.com. If you want to join our movement of the decentralized intelligence agency, you can head on over to support us and our work. We are entirely independent. We take money from n..."
-
-</details>
-
-<details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
 
 **[00:14:18](/episodes/ep-iHav0PPzUz8.md#ent-org-decentralized-intelligence-agency-t-00-14-18)**
@@ -74,17 +60,6 @@ _Type: Organizations_
 
 **[00:14:18](/episodes/ep-iHav0PPzUz8.md#ent-org-decentralized-intelligence-agency-t-00-14-18)**
 > "...through the DCIA tips box—our decentralized intelligence agency tips box—and I found a very interesting email."
-
-</details>
-
-<details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
-
-**[00:41:09](/episodes/ep-mKXdKV-OBog.md#ent-org-decentralized-intelligence-agency-t-00-40-40)**
-> "...ntic language. Yeah, that is such an interesting and creative perspective there. This is why I love the decentralized intelligence agency. Holly Carlin writes: "We needed a hoodie that says 'Go Max.'" The Get Me Out of Here writes: "It's..."
-
-**[00:41:09](/episodes/ep-mKXdKV-OBog.md#ent-org-decentralized-intelligence-agency-t-00-40-40)**
-> "This is why I love the decentralized intelligence agency."
 
 </details>
 
@@ -115,6 +90,23 @@ _Type: Organizations_
 </details>
 
 <details>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (4 mentions)</summary>
+
+**[00:52:49](/episodes/ep-aDlhjfW6hz8.md#ent-org-decentralized-intelligence-agency-t-00-52-10)**
+> "... line. This is the Candace Intelligence Agency. Some people think that it actually says, like, CIA. The Decentralized Intelligence Agency. The Decentralized Intelligence Agency."
+
+**[00:52:51](/episodes/ep-aDlhjfW6hz8.md#ent-org-decentralized-intelligence-agency-t-00-52-10)**
+> "... Agency. Some people think that it actually says, like, CIA. The Decentralized Intelligence Agency. The Decentralized Intelligence Agency."
+
+**[00:52:49](/episodes/ep-aDlhjfW6hz8.md#ent-org-decentralized-intelligence-agency-t-00-52-10)**
+> "The Decentralized Intelligence Agency."
+
+**[00:52:51](/episodes/ep-aDlhjfW6hz8.md#ent-org-decentralized-intelligence-agency-t-00-52-10)**
+> "The Decentralized Intelligence Agency."
+
+</details>
+
+<details>
 <summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (3 mentions)</summary>
 
 **[00:59:20](/episodes/ep-sreYYcID-QY.md#ent-org-decentralized-intelligence-agency-t-00-58-37)**
@@ -125,6 +117,14 @@ _Type: Organizations_
 
 **[00:59:20](/episodes/ep-sreYYcID-QY.md#ent-org-decentralized-intelligence-agency-t-00-58-37)**
 > "... consider ourselves to be the decentralized intelligence agency because we get tips from you guys."
+
+</details>
+
+<details>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1 mentions)</summary>
+
+**[01:08:53](/episodes/ep-czVBmqZP6Ss.md#t-01-08-31)**
+> "...ny more information, please send them to tips@candaceowens.com. If you want to join our movement of the decentralized intelligence agency, you can head on over to support us and our work. We are entirely independent. We take money from n..."
 
 </details>
 

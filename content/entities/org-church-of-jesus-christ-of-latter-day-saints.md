@@ -28,6 +28,17 @@ _Type: Organizations_
 </details>
 
 <details>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
+
+**[00:28:22](/episodes/ep-YFmRH8p5lt0.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-28-10)**
+> "... him, but I'm going to make some broader allegations that when I started piercing this layer of the Mormon church, I was like, "Is this a church or is this a real estate empire?" Never seen so many real estate tra..."
+
+**[00:28:22](/episodes/ep-YFmRH8p5lt0.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-28-10)**
+> "...ed piercing this layer of the Mormon church, I was like, "Is this a church or is this a real ..."
+
+</details>
+
+<details>
 <summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (12 mentions)</summary>
 
 **[00:17:37](/episodes/ep-QZWSsq8ZWzw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-17-09)**
@@ -65,17 +76,6 @@ _Type: Organizations_
 
 **[00:42:08](/episodes/ep-QZWSsq8ZWzw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-41-55)**
 > "...r's story online, it says the Mormon Church."
-
-</details>
-
-<details>
-<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
-
-**[00:28:22](/episodes/ep-YFmRH8p5lt0.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-28-10)**
-> "... him, but I'm going to make some broader allegations that when I started piercing this layer of the Mormon church, I was like, "Is this a church or is this a real estate empire?" Never seen so many real estate tra..."
-
-**[00:28:22](/episodes/ep-YFmRH8p5lt0.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-28-10)**
-> "...ed piercing this layer of the Mormon church, I was like, "Is this a church or is this a real ..."
 
 </details>
 

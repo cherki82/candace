@@ -17,17 +17,6 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
-
-**[00:16:47](/episodes/ep-Cq7nj9rxPdo.md#ent-person-marina-mappin-t-00-15-43)**
-> "John and Marina Mappin organized UK event"
-
-**[00:16:23](/episodes/ep-Cq7nj9rxPdo.md#ent-person-marina-mappin-t-00-15-43)**
-> "... I to speak at?" was John and Marina Mappin, the lone donors who wrote that beautiful letter ..."
-
-</details>
-
-<details>
 <summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (3 mentions)</summary>
 
 **[00:33:43](/episodes/ep-K1tFD7FfoCU.md#ent-person-marina-mappin-t-00-33-12)**
@@ -38,6 +27,17 @@ _Type: People_
 
 **[00:33:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-marina-mappin-t-00-33-12)**
 > "...hn Mappin), and Arena Mappin (Arena Mappin) called John Mappin (John Mappin) a loser."
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
+
+**[00:16:47](/episodes/ep-Cq7nj9rxPdo.md#ent-person-marina-mappin-t-00-15-43)**
+> "John and Marina Mappin organized UK event"
+
+**[00:16:23](/episodes/ep-Cq7nj9rxPdo.md#ent-person-marina-mappin-t-00-15-43)**
+> "... I to speak at?" was John and Marina Mappin, the lone donors who wrote that beautiful letter ..."
 
 </details>
 

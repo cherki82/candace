@@ -17,6 +17,29 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (6 mentions)</summary>
+
+**[00:47:57](/episodes/ep-tB5SXXmd9vU.md#ent-person-steven-crowder-t-00-47-39)**
+> "...ning Point USA, whether that's The Daily Wire, whether that's PragerU, Charlie Kirk (Charlie Kirk), Steven Crowder. I don't know what's going on even in this room, but it's not like we're loving what she's doing th..."
+
+**[00:48:55](/episodes/ep-tB5SXXmd9vU.md#ent-person-steven-crowder-t-00-48-53)**
+> "...nothing he is saying is true. The first thing I'd like to clarify is I have never been friends with Steven Crowder. I just feel like that is a really not-good dirt to throw on my name. I just have better intuition ..."
+
+**[00:47:57](/episodes/ep-tB5SXXmd9vU.md#ent-person-steven-crowder-t-00-47-39)**
+> "... Charlie Kirk (Charlie Kirk), Steven Crowder."
+
+**[00:47:57](/episodes/ep-tB5SXXmd9vU.md#ent-person-steven-crowder-t-00-47-39)**
+> "...e Kirk (Charlie Kirk), Steven Crowder."
+
+**[00:48:55](/episodes/ep-tB5SXXmd9vU.md#ent-person-steven-crowder-t-00-48-53)**
+> "... have never been friends with Steven Crowder."
+
+**[00:48:55](/episodes/ep-tB5SXXmd9vU.md#ent-person-steven-crowder-t-00-48-53)**
+> "...ever been friends with Steven Crowder."
+
+</details>
+
+<details>
 <summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (11 mentions)</summary>
 
 **[00:04:51](/episodes/ep-JQjCAsfoXEE.md#ent-person-steven-crowder-t-00-04-16)**
@@ -51,29 +74,6 @@ _Type: People_
 
 **[00:07:07](/episodes/ep-JQjCAsfoXEE.md#ent-person-steven-crowder-t-00-07-07)**
 > "... Steven Crowder (Clip: Steven Crowder) trying to convince people that despite the words..."
-
-</details>
-
-<details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (6 mentions)</summary>
-
-**[00:47:57](/episodes/ep-tB5SXXmd9vU.md#ent-person-steven-crowder-t-00-47-39)**
-> "...ning Point USA, whether that's The Daily Wire, whether that's PragerU, Charlie Kirk (Charlie Kirk), Steven Crowder. I don't know what's going on even in this room, but it's not like we're loving what she's doing th..."
-
-**[00:48:55](/episodes/ep-tB5SXXmd9vU.md#ent-person-steven-crowder-t-00-48-53)**
-> "...nothing he is saying is true. The first thing I'd like to clarify is I have never been friends with Steven Crowder. I just feel like that is a really not-good dirt to throw on my name. I just have better intuition ..."
-
-**[00:47:57](/episodes/ep-tB5SXXmd9vU.md#ent-person-steven-crowder-t-00-47-39)**
-> "... Charlie Kirk (Charlie Kirk), Steven Crowder."
-
-**[00:47:57](/episodes/ep-tB5SXXmd9vU.md#ent-person-steven-crowder-t-00-47-39)**
-> "...e Kirk (Charlie Kirk), Steven Crowder."
-
-**[00:48:55](/episodes/ep-tB5SXXmd9vU.md#ent-person-steven-crowder-t-00-48-53)**
-> "... have never been friends with Steven Crowder."
-
-**[00:48:55](/episodes/ep-tB5SXXmd9vU.md#ent-person-steven-crowder-t-00-48-53)**
-> "...ever been friends with Steven Crowder."
 
 </details>
 

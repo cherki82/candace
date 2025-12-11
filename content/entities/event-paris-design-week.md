@@ -13,17 +13,6 @@ _Type: Events_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
-
-**[00:20:43](/episodes/ep-sImMM04XdWY.md#ent-event-paris-design-week-t-00-20-22)**
-> "... Wilmington before heading back to Cairo. On September 3rd, Brigitte Macron is basically opening up Paris Design Week, and she's photographed with the Minister of Culture. We have that, and then drops off. On the 4th,..."
-
-**[00:20:43](/episodes/ep-sImMM04XdWY.md#ent-event-paris-design-week-t-00-20-22)**
-> "...acron is basically opening up Paris Design Week, and she's photographed with the Minister of Cult..."
-
-</details>
-
-<details>
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (4 mentions)</summary>
 
 **[00:39:34](/episodes/ep-tB5SXXmd9vU.md#ent-event-paris-design-week-t-00-39-28)**
@@ -37,6 +26,17 @@ _Type: Events_
 
 **[00:39:42](/episodes/ep-tB5SXXmd9vU.md#ent-event-paris-design-week-t-00-39-28)**
 > "Opened Paris Design Week on, I believe, September 4th."
+
+</details>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
+
+**[00:20:43](/episodes/ep-sImMM04XdWY.md#ent-event-paris-design-week-t-00-20-22)**
+> "... Wilmington before heading back to Cairo. On September 3rd, Brigitte Macron is basically opening up Paris Design Week, and she's photographed with the Minister of Culture. We have that, and then drops off. On the 4th,..."
+
+**[00:20:43](/episodes/ep-sImMM04XdWY.md#ent-event-paris-design-week-t-00-20-22)**
+> "...acron is basically opening up Paris Design Week, and she's photographed with the Minister of Cult..."
 
 </details>
 

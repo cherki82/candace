@@ -18,6 +18,34 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (5 mentions)</summary>
+
+**[00:16:47](/episodes/ep-mKXdKV-OBog.md#ent-person-burton-hibbs-t-00-16-27)**
+> "... by a person in the military who actually teaches shooting. So this is not a military campus, guys. Burton Hibbs—Butch—the brother of Pastor Jack Hibbs. Jack Hibbs phones up Charlie (Charlie Kirk); he's like, "He..."
+
+**[00:17:19](/episodes/ep-mKXdKV-OBog.md#ent-person-burton-hibbs-t-00-17-10)**
+> "...e could have been a lot of people there that were controlled military men. That's my viewpoint. But Burton Hibbs—Butch—is the brother of Pastor Jack Hibbs. Obviously sons—I showed you—of an Air Force chief. Tyler..."
+
+**[00:16:46](/episodes/ep-mKXdKV-OBog.md#ent-person-burton-hibbs-t-00-16-27)**
+> "Burton Hibbs (Butch), brother of Pastor Jack Hibbs"
+
+**[00:16:47](/episodes/ep-mKXdKV-OBog.md#ent-person-burton-hibbs-t-00-16-27)**
+> "Burton Hibbs—Butch—the brother of Pastor Jack Hibbs."
+
+**[00:17:19](/episodes/ep-mKXdKV-OBog.md#ent-person-burton-hibbs-t-00-17-10)**
+> "But Burton Hibbs—Butch—is the brother of Pastor Jack Hibbs. Obviou..."
+
+</details>
+
+<details>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1 mentions)</summary>
+
+**[00:54:31](/episodes/ep-JQjCAsfoXEE.md#t-00-54-31)**
+> "...y tells you that politics is fickle. You know, you shouldn't have a lot of friends in politics. And Butch writes: have you seen the new Sean Ryan with the security detail that took care of Charlie (Charlie..."
+
+</details>
+
+<details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (10 mentions)</summary>
 
 **[00:44:56](/episodes/ep-7RLtGgkTh9o.md#ent-person-burton-hibbs-t-00-44-42)**
@@ -53,10 +81,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
-**[00:54:31](/episodes/ep-JQjCAsfoXEE.md#t-00-54-31)**
-> "...y tells you that politics is fickle. You know, you shouldn't have a lot of friends in politics. And Butch writes: have you seen the new Sean Ryan with the security detail that took care of Charlie (Charlie..."
+**[00:28:31](/episodes/ep-yAIb-NuUh_U.md#ent-person-burton-hibbs-t-00-27-59)**
+> "...eir obsession with Christian Zionism? Jack Hibbs among them? We mentioned him yesterday—his brother Butch Hibbs, who was just everywhere before and after Charlie (Charlie Kirk)'s assassination. There's like foot..."
+
+**[00:28:31](/episodes/ep-yAIb-NuUh_U.md#ent-person-burton-hibbs-t-00-27-59)**
+> "...ned him yesterday—his brother Butch Hibbs, who was just everywhere before and after C..."
 
 </details>
 
@@ -89,37 +120,6 @@ _Type: People_
 
 </details>
 
-<details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (5 mentions)</summary>
-
-**[00:16:47](/episodes/ep-mKXdKV-OBog.md#ent-person-burton-hibbs-t-00-16-27)**
-> "... by a person in the military who actually teaches shooting. So this is not a military campus, guys. Burton Hibbs—Butch—the brother of Pastor Jack Hibbs. Jack Hibbs phones up Charlie (Charlie Kirk); he's like, "He..."
-
-**[00:17:19](/episodes/ep-mKXdKV-OBog.md#ent-person-burton-hibbs-t-00-17-10)**
-> "...e could have been a lot of people there that were controlled military men. That's my viewpoint. But Burton Hibbs—Butch—is the brother of Pastor Jack Hibbs. Obviously sons—I showed you—of an Air Force chief. Tyler..."
-
-**[00:16:46](/episodes/ep-mKXdKV-OBog.md#ent-person-burton-hibbs-t-00-16-27)**
-> "Burton Hibbs (Butch), brother of Pastor Jack Hibbs"
-
-**[00:16:47](/episodes/ep-mKXdKV-OBog.md#ent-person-burton-hibbs-t-00-16-27)**
-> "Burton Hibbs—Butch—the brother of Pastor Jack Hibbs."
-
-**[00:17:19](/episodes/ep-mKXdKV-OBog.md#ent-person-burton-hibbs-t-00-17-10)**
-> "But Burton Hibbs—Butch—is the brother of Pastor Jack Hibbs. Obviou..."
-
-</details>
-
-<details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
-
-**[00:28:31](/episodes/ep-yAIb-NuUh_U.md#ent-person-burton-hibbs-t-00-27-59)**
-> "...eir obsession with Christian Zionism? Jack Hibbs among them? We mentioned him yesterday—his brother Butch Hibbs, who was just everywhere before and after Charlie (Charlie Kirk)'s assassination. There's like foot..."
-
-**[00:28:31](/episodes/ep-yAIb-NuUh_U.md#ent-person-burton-hibbs-t-00-27-59)**
-> "...ned him yesterday—his brother Butch Hibbs, who was just everywhere before and after C..."
-
-</details>
-
 </details>
 
 <details open>
@@ -132,15 +132,6 @@ _Type: People_
   - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:32:41](/episodes/ep-MUA9ebCF4Ow.md#t-00-32-19): "that old man is the brother of Pastor Jack Hibbs"
   - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:16:46](/episodes/ep-mKXdKV-OBog.md#t-00-16-27): "Burton Hibbs, Butch, is the brother of Pastor Jack Hibbs"
   - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:16:47](/episodes/ep-mKXdKV-OBog.md#t-00-16-27): "Burton Hibbs—Butch—the brother of Pastor Jack Hibbs"
-
-</details>
-
-<details>
-<summary>Referenced By (1)</summary>
-
-- **[Jack Hibbs](/entities/person-jack-hibbs.md)** sibling of this
-  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:32:41](/episodes/ep-MUA9ebCF4Ow.md#t-00-32-19)
-  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:54:20](/episodes/ep-MUA9ebCF4Ow.md#t-00-54-17)
 
 </details>
 

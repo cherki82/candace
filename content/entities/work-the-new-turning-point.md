@@ -1,11 +1,11 @@
 ---
 title: "The New Turning Point"
-description: "The New Turning Point (Work) - 2 mentions"
+description: "The New Turning Point (Works & Media) - 2 mentions"
 id: "work-the-new-turning-point"
 type: "WORK"
 ---
 
-_Type: Work_
+_Type: Works & Media_
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

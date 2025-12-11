@@ -18,6 +18,34 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+
+**[00:22:36](/episodes/ep-mKXdKV-OBog.md#t-00-21-55)**
+> "...joint operations going on between the DHS and the DOJ: being the Secret Service and the FBI and the DEA. None of this is normal. We all sense that none of this is normal. And it very much feels to me lik..."
+
+**[00:22:36](/episodes/ep-mKXdKV-OBog.md#t-00-21-55)**
+> "...t Service and the FBI and the DEA."
+
+</details>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (4 mentions)</summary>
+
+**[00:06:12](/episodes/ep-sImMM04XdWY.md#t-00-05-36)**
+> "...ignitary was then discreetly moved to 920 King Street, which we've learned and confirmed houses the DEA, the FBI, and the Secret Service. Quite rare, right? Quite rare for the Department of Justice to be..."
+
+**[00:06:37](/episodes/ep-sImMM04XdWY.md#t-00-06-16)**
+> "...Service. Quite rare, right? Quite rare for the Department of Justice to be coming together with the DEA. I mean, that's weird. So what does France have to do with it, right? What does Tucker (Tucker Carl..."
+
+**[00:06:12](/episodes/ep-sImMM04XdWY.md#t-00-05-36)**
+> "...rned and confirmed houses the DEA,"
+
+**[00:06:37](/episodes/ep-sImMM04XdWY.md#t-00-06-16)**
+> "...o be coming together with the DEA."
+
+</details>
+
+<details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (9 mentions)</summary>
 
 **[00:11:00](/episodes/ep-SKGUzGHymcI.md#t-00-11-00)**
@@ -46,34 +74,6 @@ _Type: Organizations_
 
 **[00:11:00](/episodes/ep-SKGUzGHymcI.md#t-00-10-15)**
 > "Today, if you punch that address into public directories, you will find the DEA, Drug Enforcement Agency, at 920 North King Street"
-
-</details>
-
-<details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
-
-**[00:22:36](/episodes/ep-mKXdKV-OBog.md#t-00-21-55)**
-> "...joint operations going on between the DHS and the DOJ: being the Secret Service and the FBI and the DEA. None of this is normal. We all sense that none of this is normal. And it very much feels to me lik..."
-
-**[00:22:36](/episodes/ep-mKXdKV-OBog.md#t-00-21-55)**
-> "...t Service and the FBI and the DEA."
-
-</details>
-
-<details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (4 mentions)</summary>
-
-**[00:06:12](/episodes/ep-sImMM04XdWY.md#t-00-05-36)**
-> "...ignitary was then discreetly moved to 920 King Street, which we've learned and confirmed houses the DEA, the FBI, and the Secret Service. Quite rare, right? Quite rare for the Department of Justice to be..."
-
-**[00:06:37](/episodes/ep-sImMM04XdWY.md#t-00-06-16)**
-> "...Service. Quite rare, right? Quite rare for the Department of Justice to be coming together with the DEA. I mean, that's weird. So what does France have to do with it, right? What does Tucker (Tucker Carl..."
-
-**[00:06:12](/episodes/ep-sImMM04XdWY.md#t-00-05-36)**
-> "...rned and confirmed houses the DEA,"
-
-**[00:06:37](/episodes/ep-sImMM04XdWY.md#t-00-06-16)**
-> "...o be coming together with the DEA."
 
 </details>
 

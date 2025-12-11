@@ -13,17 +13,6 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
-
-**[00:31:16](/episodes/ep-adJ4LNGp84I.md#ent-person-larry-ellison-t-00-30-42)**
-> "... again. So he's saying, I want this deal to go through, and we know who's a part of that deal. It's Larry Ellison, who has made, he's very clear about the fact he's an agent of Israel. Andreessen Horowitz, the son..."
-
-**[00:31:16](/episodes/ep-adJ4LNGp84I.md#ent-person-larry-ellison-t-00-30-42)**
-> "It's Larry Ellison, who has made, he's very clear about the fact he'..."
-
-</details>
-
-<details>
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
 
 **[00:34:31](/episodes/ep-mKXdKV-OBog.md#ent-person-larry-ellison-t-00-34-21)**
@@ -34,6 +23,17 @@ _Type: People_
 
 **[00:34:31](/episodes/ep-mKXdKV-OBog.md#ent-person-larry-ellison-t-00-34-21)**
 > "Larry Ellison hired her to do it."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
+
+**[00:31:16](/episodes/ep-adJ4LNGp84I.md#ent-person-larry-ellison-t-00-30-42)**
+> "... again. So he's saying, I want this deal to go through, and we know who's a part of that deal. It's Larry Ellison, who has made, he's very clear about the fact he's an agent of Israel. Andreessen Horowitz, the son..."
+
+**[00:31:16](/episodes/ep-adJ4LNGp84I.md#ent-person-larry-ellison-t-00-30-42)**
+> "It's Larry Ellison, who has made, he's very clear about the fact he'..."
 
 </details>
 

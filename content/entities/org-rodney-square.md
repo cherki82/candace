@@ -17,6 +17,29 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (6 mentions)</summary>
+
+**[00:32:06](/episodes/ep-tB5SXXmd9vU.md#ent-org-rodney-square-t-00-31-48)**
+> "...100 North Market Street, the building that is right next to 1100 North King Street, and both are on Rodney Square. So again, we're going back to that Rodney Square. Everything is French that's happening on Rodney ..."
+
+**[00:32:11](/episodes/ep-tB5SXXmd9vU.md#ent-org-rodney-square-t-00-31-48)**
+> "...t next to 1100 North King Street, and both are on Rodney Square. So again, we're going back to that Rodney Square. Everything is French that's happening on Rodney Square. So they were using another bank as a cover..."
+
+**[00:32:13](/episodes/ep-tB5SXXmd9vU.md#ent-org-rodney-square-t-00-31-48)**
+> "... Square. So again, we're going back to that Rodney Square. Everything is French that's happening on Rodney Square. So they were using another bank as a cover. Doesn't actually disprove anything at all. What you'll..."
+
+**[00:32:06](/episodes/ep-tB5SXXmd9vU.md#ent-org-rodney-square-t-00-31-48)**
+> "... King Street, and both are on Rodney Square."
+
+**[00:32:11](/episodes/ep-tB5SXXmd9vU.md#ent-org-rodney-square-t-00-31-48)**
+> "...ain, we're going back to that Rodney Square."
+
+**[00:32:13](/episodes/ep-tB5SXXmd9vU.md#ent-org-rodney-square-t-00-31-48)**
+> "...is French that's happening on Rodney Square."
+
+</details>
+
+<details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (8 mentions)</summary>
 
 **[00:10:15](/episodes/ep-SKGUzGHymcI.md#ent-org-rodney-square-t-00-10-15)**
@@ -42,29 +65,6 @@ _Type: Organizations_
 
 **[00:10:47](/episodes/ep-SKGUzGHymcI.md#ent-org-rodney-square-t-00-10-15)**
 > "...ton Resident Office Suite 404 1 Rodney Square.""
-
-</details>
-
-<details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (6 mentions)</summary>
-
-**[00:32:06](/episodes/ep-tB5SXXmd9vU.md#ent-org-rodney-square-t-00-31-48)**
-> "...100 North Market Street, the building that is right next to 1100 North King Street, and both are on Rodney Square. So again, we're going back to that Rodney Square. Everything is French that's happening on Rodney ..."
-
-**[00:32:11](/episodes/ep-tB5SXXmd9vU.md#ent-org-rodney-square-t-00-31-48)**
-> "...t next to 1100 North King Street, and both are on Rodney Square. So again, we're going back to that Rodney Square. Everything is French that's happening on Rodney Square. So they were using another bank as a cover..."
-
-**[00:32:13](/episodes/ep-tB5SXXmd9vU.md#ent-org-rodney-square-t-00-31-48)**
-> "... Square. So again, we're going back to that Rodney Square. Everything is French that's happening on Rodney Square. So they were using another bank as a cover. Doesn't actually disprove anything at all. What you'll..."
-
-**[00:32:06](/episodes/ep-tB5SXXmd9vU.md#ent-org-rodney-square-t-00-31-48)**
-> "... King Street, and both are on Rodney Square."
-
-**[00:32:11](/episodes/ep-tB5SXXmd9vU.md#ent-org-rodney-square-t-00-31-48)**
-> "...ain, we're going back to that Rodney Square."
-
-**[00:32:13](/episodes/ep-tB5SXXmd9vU.md#ent-org-rodney-square-t-00-31-48)**
-> "...is French that's happening on Rodney Square."
 
 </details>
 

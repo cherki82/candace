@@ -13,17 +13,6 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (2 mentions)</summary>
-
-**[00:18:20](/episodes/ep-2WEHTk0Xewg.md#ent-person-ghislaine-maxwell-t-00-18-10)**
-> "...ur resident guys over at the New York Post (every exclusive ever: Jeffrey Epstein's death pictures, Ghislaine Maxwell found at an In-N-Out)—it's always the New York Post, okay? I view them as the feds. Like if I'm the..."
-
-**[00:18:20](/episodes/ep-2WEHTk0Xewg.md#ent-person-ghislaine-maxwell-t-00-18-10)**
-> "...rey Epstein's death pictures, Ghislaine Maxwell found at an In-N-Out)—it's always the New York Po..."
-
-</details>
-
-<details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:15:42](/episodes/ep-7RLtGgkTh9o.md#ent-person-ghislaine-maxwell-t-00-15-24)**
@@ -42,6 +31,17 @@ _Type: People_
 
 **[00:53:48](/episodes/ep-Qt0VHV-POCg.md#ent-person-ghislaine-maxwell-t-00-53-32)**
 > "...t know what he's referencing, Ghislaine Maxwell's father did indeed begin—alongside, I think it was..."
+
+</details>
+
+<details>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (2 mentions)</summary>
+
+**[00:18:20](/episodes/ep-2WEHTk0Xewg.md#ent-person-ghislaine-maxwell-t-00-18-10)**
+> "...ur resident guys over at the New York Post (every exclusive ever: Jeffrey Epstein's death pictures, Ghislaine Maxwell found at an In-N-Out)—it's always the New York Post, okay? I view them as the feds. Like if I'm the..."
+
+**[00:18:20](/episodes/ep-2WEHTk0Xewg.md#ent-person-ghislaine-maxwell-t-00-18-10)**
+> "...rey Epstein's death pictures, Ghislaine Maxwell found at an In-N-Out)—it's always the New York Po..."
 
 </details>
 
@@ -66,14 +66,6 @@ _Type: People_
 
 - **[Robert Maxwell](/entities/person-robert-maxwell.md)**
   - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:29:10](/episodes/ep-czVBmqZP6Ss.md#t-00-28-54): "Ghislaine's father, Robert Maxwell"
-
-</details>
-
-<details>
-<summary>Worked With (1)</summary>
-
-- **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)**
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:29:30](/episodes/ep-czVBmqZP6Ss.md#t-00-29-10): "Epstein with his little friend Ghislaine"
 
 </details>
 

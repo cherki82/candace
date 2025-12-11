@@ -18,196 +18,202 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (63 mentions)</summary>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (65 mentions)</summary>
 
-**[01:06:36](/episodes/ep-Cq7nj9rxPdo.md#t-01-06-20)**
-> "Don Jr may have even said that, he accepts the narrative"
+**[00:00:35](/episodes/ep-vwG1juDCQZQ.md#t-00-00-00)**
+> "I don't even know how to react to it."
 
-**[00:02:07](/episodes/ep-Cq7nj9rxPdo.md#t-00-01-36)**
-> "I don't know what everything means, but I know that it ..."
+**[00:03:55](/episodes/ep-vwG1juDCQZQ.md#t-00-03-35)**
+> "Tucker (Tucker Carlson), I don't know."
 
-**[00:06:23](/episodes/ep-Cq7nj9rxPdo.md#t-00-06-20)**
-> "I don't swear nearly as much—or at all—anymore."
+**[00:04:56](/episodes/ep-vwG1juDCQZQ.md#t-00-04-16)**
+> "I don't want them to get too excited."
 
-**[00:09:17](/episodes/ep-Cq7nj9rxPdo.md#t-00-09-14)**
-> "... about Kanye's politics—and I don't even know what his preferred politics would be;"
+**[00:05:08](/episodes/ep-vwG1juDCQZQ.md#t-00-05-00)**
+> "I don't know how he does it."
 
-**[00:09:28](/episodes/ep-Cq7nj9rxPdo.md#t-00-09-14)**
-> "... want to say about him, and I don't know enough about his actual management skills ..."
+**[00:05:10](/episodes/ep-vwG1juDCQZQ.md#t-00-05-00)**
+> "I don't know how he deals with things."
 
-**[00:13:30](/episodes/ep-Cq7nj9rxPdo.md#t-00-12-53)**
-> "...s are telling Charlie and I, "Don't get involved with Kanye because he's crazy."
+**[00:05:32](/episodes/ep-vwG1juDCQZQ.md#t-00-05-00)**
+> "I don't want to be tied down to the Republican Party."
 
-**[00:13:40](/episodes/ep-Cq7nj9rxPdo.md#t-00-13-32)**
-> "Don't speak to Kanye."
+**[00:06:03](/episodes/ep-vwG1juDCQZQ.md#t-00-05-43)**
+> "...rely looking for truth, and I don't care what enemies I make along the way."
 
-**[00:14:08](/episodes/ep-Cq7nj9rxPdo.md#t-00-13-32)**
-> "I don't know why."
+**[00:06:26](/episodes/ep-vwG1juDCQZQ.md#t-00-06-26)**
+> "I don't know why I thought it was going to be like more..."
 
-**[00:15:32](/episodes/ep-Cq7nj9rxPdo.md#t-00-15-00)**
-> "...eally sound advice and said, "Don't."
+**[00:09:43](/episodes/ep-vwG1juDCQZQ.md#t-00-09-23)**
+> "...t he played in this because I don't believe that he was the lone person involved."
 
-**[00:17:56](/episodes/ep-Cq7nj9rxPdo.md#t-00-17-56)**
-> "...s a dirty term because people don't like the words nationalism.""
+**[00:09:52](/episodes/ep-vwG1juDCQZQ.md#t-00-09-23)**
+> "I don't even think it's a person that killed Charlie Ki..."
 
-**[00:18:21](/episodes/ep-Cq7nj9rxPdo.md#t-00-18-20)**
-> "I actually don't have any problems at all with the word national..."
+**[00:11:06](/episodes/ep-vwG1juDCQZQ.md#t-00-10-44)**
+> "And I just—yeah—I don't know."
 
-**[00:18:25](/episodes/ep-Cq7nj9rxPdo.md#t-00-18-20)**
-> "Globalism is what I—what I don't want."
+**[00:11:33](/episodes/ep-vwG1juDCQZQ.md#t-00-11-27)**
+> "I don't know what I'm forgiving actually until I know w..."
 
-**[00:18:54](/episodes/ep-Cq7nj9rxPdo.md#t-00-18-20)**
-> "...could go bad down the line, I don't really have an issue with nationalism."
+**[00:15:44](/episodes/ep-vwG1juDCQZQ.md#t-00-15-25)**
+> "And I don't know. I am maintaining that I think this may ha..."
 
-**[00:18:56](/episodes/ep-Cq7nj9rxPdo.md#t-00-18-20)**
-> "I really don't."
+**[00:16:09](/episodes/ep-vwG1juDCQZQ.md#t-00-16-08)**
+> "I asked him. I was like, "Why don't you wear a cross?""
 
-**[00:19:03](/episodes/ep-Cq7nj9rxPdo.md#t-00-19-03)**
-> "So I don't have any problems with nationalism."
+**[00:16:16](/episodes/ep-vwG1juDCQZQ.md#t-00-16-08)**
+> "...y you're a Christian, but you don't wear a cross.""
 
-**[00:19:52](/episodes/ep-Cq7nj9rxPdo.md#t-00-19-21)**
-> "We don't know what this is.""
+**[00:16:17](/episodes/ep-vwG1juDCQZQ.md#t-00-16-08)**
+> "He's like, "I don't know. I don't really—I'm not a jewelry guy.""
 
-**[00:20:30](/episodes/ep-Cq7nj9rxPdo.md#t-00-19-58)**
-> "...cared and upset and going, "I don't know how Charlie could think that I would suppo..."
+**[00:17:08](/episodes/ep-vwG1juDCQZQ.md#t-00-16-42)**
+> "And I don't think any of them have made videos since clarif..."
 
-**[00:20:48](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40)**
-> "... like, "Hey, we know that you don't believe these things.""
+**[00:17:36](/episodes/ep-vwG1juDCQZQ.md#t-00-17-26)**
+> "I don't know why that's a big deal at all outside of ju..."
 
-**[00:20:50](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40)**
-> "I don't know what to think anymore."
+**[00:18:43](/episodes/ep-vwG1juDCQZQ.md#t-00-18-22)**
+> "...s trying to figure out, and I don't blame them,"
 
-**[00:21:25](/episodes/ep-Cq7nj9rxPdo.md#t-00-21-23)**
-> "...y to so that they know that I don't hate Jews?""
+**[00:19:53](/episodes/ep-vwG1juDCQZQ.md#t-00-19-50)**
+> "I don't want my kids to go on the internet one day when..."
 
-**[00:23:26](/episodes/ep-Cq7nj9rxPdo.md#t-00-22-48)**
-> "...rew Kolvet—by the way, if you don't know, I didn't know."
+**[00:22:08](/episodes/ep-vwG1juDCQZQ.md#t-00-21-29)**
+> "And they don't want to talk about the stuff that we care about..."
 
-**[00:23:32](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32)**
-> "I don't think Charlie knew—definitely not when Tyler br..."
+**[00:22:29](/episodes/ep-vwG1juDCQZQ.md#t-00-22-14)**
+> "You don't get to be like, "I wanna marry you and I wanna ..."
 
-**[00:31:53](/episodes/ep-Cq7nj9rxPdo.md#t-00-31-29)**
-> "...en you learn that they have—I don't know—a contract with the Department of Defense."
+**[00:22:30](/episodes/ep-vwG1juDCQZQ.md#t-00-22-14)**
+> "You're like, "Well, I don't wanna be a princess," right?"
 
-**[00:32:06](/episodes/ep-Cq7nj9rxPdo.md#t-00-31-29)**
-> "And we don't know it."
+**[00:24:11](/episodes/ep-vwG1juDCQZQ.md#t-00-23-38)**
+> "Okay: take the stage or don't take the stage, but it can't be in between."
 
-**[00:32:11](/episodes/ep-Cq7nj9rxPdo.md#t-00-32-11)**
-> "We don't know it, but I kind of know."
+**[00:24:13](/episodes/ep-vwG1juDCQZQ.md#t-00-23-38)**
+> "... public turns against you: "I don't want a stage anymore.""
 
-**[00:32:32](/episodes/ep-Cq7nj9rxPdo.md#t-00-32-11)**
-> "Don't spin out of control."
+**[00:24:20](/episodes/ep-vwG1juDCQZQ.md#t-00-23-38)**
+> "And I don't—I do not have any sympathy for Rob McCoy."
 
-**[00:33:15](/episodes/ep-Cq7nj9rxPdo.md#t-00-32-56)**
-> "We don't really know."
+**[00:24:32](/episodes/ep-vwG1juDCQZQ.md#t-00-24-22)**
+> "And if you don't want to tell the truth, it just makes you look ..."
 
-**[00:33:18](/episodes/ep-Cq7nj9rxPdo.md#t-00-32-56)**
-> "When I say we don't know, I mean we have no footage or any indicati..."
+**[00:25:52](/episodes/ep-vwG1juDCQZQ.md#t-00-25-52)**
+> "And I just don't feel"
 
-**[00:33:32](/episodes/ep-Cq7nj9rxPdo.md#t-00-32-56)**
-> "I don't know if it was cancer treatment downstairs or u..."
+**[00:26:14](/episodes/ep-vwG1juDCQZQ.md#t-00-25-52)**
+> "I don't know—doesn't work for me."
 
-**[00:35:15](/episodes/ep-Cq7nj9rxPdo.md#t-00-35-07)**
-> "Again, we don't need to go crazy with conspiracy theories."
+**[00:33:02](/episodes/ep-vwG1juDCQZQ.md#t-00-32-39)**
+> "...rk) or Candace—whoever it is, Don Jr.—to come to their campus."
 
-**[00:36:35](/episodes/ep-Cq7nj9rxPdo.md#t-00-36-28)**
-> "So don't sit this one out."
+**[00:36:30](/episodes/ep-vwG1juDCQZQ.md#t-00-36-11)**
+> "I don't even know what we're debating."
 
-**[00:36:39](/episodes/ep-Cq7nj9rxPdo.md#t-00-36-28)**
-> "Don't wait for permission."
+**[00:37:24](/episodes/ep-vwG1juDCQZQ.md#t-00-36-53)**
+> "I don't know what we're doing here."
 
-**[00:39:50](/episodes/ep-Cq7nj9rxPdo.md#t-00-39-20)**
-> "...h—said that their two systems don't speak together."
+**[00:37:28](/episodes/ep-vwG1juDCQZQ.md#t-00-36-53)**
+> "I don't know what the nature of this is."
 
-**[00:43:24](/episodes/ep-Cq7nj9rxPdo.md#t-00-43-07)**
+**[00:41:08](/episodes/ep-vwG1juDCQZQ.md#t-00-41-08)**
+> "Say, "I don't know.""
+
+**[00:41:10](/episodes/ep-vwG1juDCQZQ.md#t-00-41-08)**
+> "Just say, "I don't know.""
+
+**[00:41:27](/episodes/ep-vwG1juDCQZQ.md#t-00-41-08)**
+> "...e public around the world who don't trust what we are being told—would like to know..."
+
+**[00:42:43](/episodes/ep-vwG1juDCQZQ.md#t-00-42-32)**
+> "They don't care about any of that stuff."
+
+**[00:44:36](/episodes/ep-vwG1juDCQZQ.md#t-00-43-54)**
+> "I don't love the crickets of these things."
+
+**[00:46:03](/episodes/ep-vwG1juDCQZQ.md#t-00-46-03)**
+> "I don't even know what she's doing over at Turning Poin..."
+
+**[00:46:22](/episodes/ep-vwG1juDCQZQ.md#t-00-46-03)**
 > "I don't know."
 
-**[00:43:57](/episodes/ep-Cq7nj9rxPdo.md#t-00-43-50)**
-> "We don't know for a fact."
-
-**[00:44:21](/episodes/ep-Cq7nj9rxPdo.md#t-00-43-50)**
-> "... if I get shot in the throat, don't help me and call Erika.""
-
-**[00:44:42](/episodes/ep-Cq7nj9rxPdo.md#t-00-44-32)**
-> "I don't believe that Charlie said, "If I get shot, don'..."
-
-**[00:44:42](/episodes/ep-Cq7nj9rxPdo.md#t-00-44-32)**
-> "...Charlie said, "If I get shot, don't help me. Calmly walk away and call Erika first...."
-
-**[00:44:46](/episodes/ep-Cq7nj9rxPdo.md#t-00-44-32)**
-> "Like, I think—yeah, I don't know."
-
-**[00:44:47](/episodes/ep-Cq7nj9rxPdo.md#t-00-44-32)**
+**[00:47:18](/episodes/ep-vwG1juDCQZQ.md#t-00-46-48)**
 > "I don't know."
 
-**[00:44:58](/episodes/ep-Cq7nj9rxPdo.md#t-00-44-32)**
-> "You don't actually have to jump into ad hominem attacks."
+**[00:47:42](/episodes/ep-vwG1juDCQZQ.md#t-00-47-31)**
+> "And so I don't understand why we just can't get basic answers ..."
 
-**[00:46:46](/episodes/ep-Cq7nj9rxPdo.md#t-00-46-28)**
-> "I don't know."
+**[00:50:24](/episodes/ep-vwG1juDCQZQ.md#t-00-50-24)**
+> "If you don't lie on me, I won't have to call it out."
 
-**[00:47:16](/episodes/ep-Cq7nj9rxPdo.md#t-00-46-50)**
-> "When they don't want you to look into something, they diagnose ..."
+**[00:50:29](/episodes/ep-vwG1juDCQZQ.md#t-00-50-24)**
+> "If you don't tell lies about things that took place—about th..."
 
-**[00:48:47](/episodes/ep-Cq7nj9rxPdo.md#t-00-48-17)**
-> "You don't want me doing that."
+**[00:50:32](/episodes/ep-vwG1juDCQZQ.md#t-00-50-24)**
+> "...h, we do this every—" No: you don't do a Doge every year."
 
-**[00:49:19](/episodes/ep-Cq7nj9rxPdo.md#t-00-49-03)**
-> "...' okay, it could be true. But don't accuse people for doing something for which you..."
+**[00:52:27](/episodes/ep-vwG1juDCQZQ.md#t-00-52-25)**
+> "Come forth with the truth—or don't, okay?"
 
-**[00:49:26](/episodes/ep-Cq7nj9rxPdo.md#t-00-49-03)**
-> "I don't know if anyone's seen this video."
+**[00:52:29](/episodes/ep-vwG1juDCQZQ.md#t-00-52-25)**
+> "And if you don't, we're just gonna keep investigating and see ho..."
 
-**[00:50:18](/episodes/ep-Cq7nj9rxPdo.md#t-00-49-40)**
-> "You don't know how you would react."
+**[00:53:30](/episodes/ep-vwG1juDCQZQ.md#t-00-53-09)**
+> "Don't forget to use code Candace at checkout."
 
-**[00:50:49](/episodes/ep-Cq7nj9rxPdo.md#t-00-50-43)**
-> "We don't know when you're shocked by shots being fired."
+**[00:55:25](/episodes/ep-vwG1juDCQZQ.md#t-00-55-08)**
+> "...ther one where she's like, "I don't know the inner workings at Turning Point USA," ..."
 
-**[00:51:08](/episodes/ep-Cq7nj9rxPdo.md#t-00-50-43)**
-> "...Zimmerman—that's—"No, hey, we don't know. He was in shock.""
+**[00:55:29](/episodes/ep-vwG1juDCQZQ.md#t-00-55-08)**
+> ""I don't have direct knowledge, but I assume there are n..."
 
-**[00:51:18](/episodes/ep-Cq7nj9rxPdo.md#t-00-50-43)**
-> "That's a normal—"Hey, we don't know," right?"
+**[00:56:05](/episodes/ep-vwG1juDCQZQ.md#t-00-55-48)**
+> "I don't think you realize how real life this is for me."
 
-**[00:51:40](/episodes/ep-Cq7nj9rxPdo.md#t-00-51-26)**
-> ""I don't know what to do."
+**[00:56:13](/episodes/ep-vwG1juDCQZQ.md#t-00-55-48)**
+> "I was like: "Girl, don't care at all."
 
-**[00:51:48](/episodes/ep-Cq7nj9rxPdo.md#t-00-51-26)**
-> "So don't do that."
+**[00:56:49](/episodes/ep-vwG1juDCQZQ.md#t-00-56-33)**
+> "Don't care who you are."
 
-**[00:52:23](/episodes/ep-Cq7nj9rxPdo.md#t-00-52-11)**
-> "You don't have to do that."
+**[00:57:07](/episodes/ep-vwG1juDCQZQ.md#t-00-56-33)**
+> "I don't know, man."
 
-**[00:53:35](/episodes/ep-Cq7nj9rxPdo.md#t-00-53-35)**
-> "...atermark my content, at least don't smear me and call me a crazy person."
+**[00:58:23](/episodes/ep-vwG1juDCQZQ.md#t-00-57-54)**
+> "...ve just been fighting, and we don't look up and look at the stats and follow the st..."
 
-**[00:58:17](/episodes/ep-Cq7nj9rxPdo.md#t-00-57-42)**
-> "And I don't know why they would do this."
+**[00:59:03](/episodes/ep-vwG1juDCQZQ.md#t-00-58-34)**
+> "...ause they're very angry—and I don't even know what they're attacking me over at thi..."
 
-**[01:01:26](/episodes/ep-Cq7nj9rxPdo.md#t-01-01-23)**
-> "So don't wait."
+**[00:59:51](/episodes/ep-vwG1juDCQZQ.md#t-00-59-48)**
+> "... we have seen has just been—I don't know—it's just—it's been one big nothing burger..."
 
-**[01:03:11](/episodes/ep-Cq7nj9rxPdo.md#t-01-02-49)**
-> "...xplore their tallow line, and don't forget to use my code—which is CANDACE10—at che..."
+**[01:00:24](/episodes/ep-vwG1juDCQZQ.md#t-00-59-48)**
+> "I don't remember anything, though, in my memory."
 
-**[01:05:57](/episodes/ep-Cq7nj9rxPdo.md#t-01-05-37)**
-> "... more in the afternoon, and I don't have to have the full eight-hour day. But you c..."
+**[01:02:42](/episodes/ep-vwG1juDCQZQ.md#t-01-02-42)**
+> "... relentless over matters that don't have as much significance to my life personally..."
 
-**[01:06:35](/episodes/ep-Cq7nj9rxPdo.md#t-01-06-20)**
-> "No, I don't hold out any hope"
+**[01:03:30](/episodes/ep-vwG1juDCQZQ.md#t-01-03-27)**
+> "I don't know what I'm forgiving."
 
-**[01:06:46](/episodes/ep-Cq7nj9rxPdo.md#t-01-06-20)**
-> "I think actually Don Jr. may have even said that."
+**[01:03:37](/episodes/ep-vwG1juDCQZQ.md#t-01-03-27)**
+> "If I don't know who I should be forgiving, I need to get t..."
 
-**[01:07:05](/episodes/ep-Cq7nj9rxPdo.md#t-01-07-05)**
-> "And I don't believe he's reconsidering his love for Israel."
+**[01:04:31](/episodes/ep-vwG1juDCQZQ.md#t-01-04-11)**
+> "...king for—somebody else that I don't know if I could ever work for anybody else. But..."
 
-**[01:08:51](/episodes/ep-Cq7nj9rxPdo.md#t-01-08-20)**
-> "Don't stop exposing these lies."
+**[01:06:04](/episodes/ep-vwG1juDCQZQ.md#t-01-05-39)**
+> "offer an email? Like I don't know what I'm doing.""
 
-**[01:09:23](/episodes/ep-Cq7nj9rxPdo.md#t-01-09-03)**
-> "We don't know now, but CandaceOwens.com."
+**[01:06:13](/episodes/ep-vwG1juDCQZQ.md#t-01-05-39)**
+> "...ause—you know—I told them: "I don't know how it's going to work out."
+
+**[01:06:56](/episodes/ep-vwG1juDCQZQ.md#t-01-06-23)**
+> "I don't know what I'll say other than book club people—..."
 
 </details>
 
@@ -433,52 +439,196 @@ _Type: People_
 </details>
 
 <details>
-<summary>To My Friend, Charlie Kirk. (15 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (63 mentions)</summary>
 
-**[00:06:08](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
-> "“I don't want to do this event with that new girl you hi..."
+**[01:06:36](/episodes/ep-Cq7nj9rxPdo.md#t-01-06-20)**
+> "Don Jr may have even said that, he accepts the narrative"
 
-**[00:06:10](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
-> "Like, I don't want to share the stage with her, essentially."
+**[00:02:07](/episodes/ep-Cq7nj9rxPdo.md#t-00-01-36)**
+> "I don't know what everything means, but I know that it ..."
 
-**[00:06:21](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
-> "I don't want to share the stage with her, this newbie.”"
+**[00:06:23](/episodes/ep-Cq7nj9rxPdo.md#t-00-06-20)**
+> "I don't swear nearly as much—or at all—anymore."
 
-**[00:07:01](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
-> "He said, “Okay, if they don't want to do this event with this newbie, Candace..."
+**[00:09:17](/episodes/ep-Cq7nj9rxPdo.md#t-00-09-14)**
+> "... about Kanye's politics—and I don't even know what his preferred politics would be;"
 
-**[00:08:08](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
-> "It was also Don Jr. (Donald Trump Jr.) and eventually him."
+**[00:09:28](/episodes/ep-Cq7nj9rxPdo.md#t-00-09-14)**
+> "... want to say about him, and I don't know enough about his actual management skills ..."
 
-**[00:08:24](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
-> "But eventually, Don (Donald Trump Jr.) and Eric (Eric Trump) got him ..."
+**[00:13:30](/episodes/ep-Cq7nj9rxPdo.md#t-00-12-53)**
+> "...s are telling Charlie and I, "Don't get involved with Kanye because he's crazy."
 
-**[00:09:31](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
-> "Okay, I understand that you don't do culture, but like, come on, you don't know t..."
+**[00:13:40](/episodes/ep-Cq7nj9rxPdo.md#t-00-13-32)**
+> "Don't speak to Kanye."
 
-**[00:09:31](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
-> "...lture, but like, come on, you don't know the difference between Jay-Z (Jay-Z) and K..."
+**[00:14:08](/episodes/ep-Cq7nj9rxPdo.md#t-00-13-32)**
+> "I don't know why."
 
-**[00:10:41](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
-> "You don't understand the divinity of him tweeting that."
+**[00:15:32](/episodes/ep-Cq7nj9rxPdo.md#t-00-15-00)**
+> "...eally sound advice and said, "Don't."
 
-**[00:12:29](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
-> "I don't remember, but all the flights got canceled, and..."
+**[00:17:56](/episodes/ep-Cq7nj9rxPdo.md#t-00-17-56)**
+> "...s a dirty term because people don't like the words nationalism.""
 
-**[00:16:25](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
-> "I don't even know what campus event this is, but I love..."
+**[00:18:21](/episodes/ep-Cq7nj9rxPdo.md#t-00-18-20)**
+> "I actually don't have any problems at all with the word national..."
 
-**[00:21:17](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
-> "I don't think it; I know it."
+**[00:18:25](/episodes/ep-Cq7nj9rxPdo.md#t-00-18-20)**
+> "Globalism is what I—what I don't want."
 
-**[00:21:27](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
-> "I don't know, just say the things that they're saying, ..."
+**[00:18:54](/episodes/ep-Cq7nj9rxPdo.md#t-00-18-20)**
+> "...could go bad down the line, I don't really have an issue with nationalism."
 
-**[00:21:50](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
-> "But I don't want today to be about anything other than you ..."
+**[00:18:56](/episodes/ep-Cq7nj9rxPdo.md#t-00-18-20)**
+> "I really don't."
 
-**[00:22:48](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
-> "And so I don't know what else to say, guys, other than..."
+**[00:19:03](/episodes/ep-Cq7nj9rxPdo.md#t-00-19-03)**
+> "So I don't have any problems with nationalism."
+
+**[00:19:52](/episodes/ep-Cq7nj9rxPdo.md#t-00-19-21)**
+> "We don't know what this is.""
+
+**[00:20:30](/episodes/ep-Cq7nj9rxPdo.md#t-00-19-58)**
+> "...cared and upset and going, "I don't know how Charlie could think that I would suppo..."
+
+**[00:20:48](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40)**
+> "... like, "Hey, we know that you don't believe these things.""
+
+**[00:20:50](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40)**
+> "I don't know what to think anymore."
+
+**[00:21:25](/episodes/ep-Cq7nj9rxPdo.md#t-00-21-23)**
+> "...y to so that they know that I don't hate Jews?""
+
+**[00:23:26](/episodes/ep-Cq7nj9rxPdo.md#t-00-22-48)**
+> "...rew Kolvet—by the way, if you don't know, I didn't know."
+
+**[00:23:32](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32)**
+> "I don't think Charlie knew—definitely not when Tyler br..."
+
+**[00:31:53](/episodes/ep-Cq7nj9rxPdo.md#t-00-31-29)**
+> "...en you learn that they have—I don't know—a contract with the Department of Defense."
+
+**[00:32:06](/episodes/ep-Cq7nj9rxPdo.md#t-00-31-29)**
+> "And we don't know it."
+
+**[00:32:11](/episodes/ep-Cq7nj9rxPdo.md#t-00-32-11)**
+> "We don't know it, but I kind of know."
+
+**[00:32:32](/episodes/ep-Cq7nj9rxPdo.md#t-00-32-11)**
+> "Don't spin out of control."
+
+**[00:33:15](/episodes/ep-Cq7nj9rxPdo.md#t-00-32-56)**
+> "We don't really know."
+
+**[00:33:18](/episodes/ep-Cq7nj9rxPdo.md#t-00-32-56)**
+> "When I say we don't know, I mean we have no footage or any indicati..."
+
+**[00:33:32](/episodes/ep-Cq7nj9rxPdo.md#t-00-32-56)**
+> "I don't know if it was cancer treatment downstairs or u..."
+
+**[00:35:15](/episodes/ep-Cq7nj9rxPdo.md#t-00-35-07)**
+> "Again, we don't need to go crazy with conspiracy theories."
+
+**[00:36:35](/episodes/ep-Cq7nj9rxPdo.md#t-00-36-28)**
+> "So don't sit this one out."
+
+**[00:36:39](/episodes/ep-Cq7nj9rxPdo.md#t-00-36-28)**
+> "Don't wait for permission."
+
+**[00:39:50](/episodes/ep-Cq7nj9rxPdo.md#t-00-39-20)**
+> "...h—said that their two systems don't speak together."
+
+**[00:43:24](/episodes/ep-Cq7nj9rxPdo.md#t-00-43-07)**
+> "I don't know."
+
+**[00:43:57](/episodes/ep-Cq7nj9rxPdo.md#t-00-43-50)**
+> "We don't know for a fact."
+
+**[00:44:21](/episodes/ep-Cq7nj9rxPdo.md#t-00-43-50)**
+> "... if I get shot in the throat, don't help me and call Erika.""
+
+**[00:44:42](/episodes/ep-Cq7nj9rxPdo.md#t-00-44-32)**
+> "I don't believe that Charlie said, "If I get shot, don'..."
+
+**[00:44:42](/episodes/ep-Cq7nj9rxPdo.md#t-00-44-32)**
+> "...Charlie said, "If I get shot, don't help me. Calmly walk away and call Erika first...."
+
+**[00:44:46](/episodes/ep-Cq7nj9rxPdo.md#t-00-44-32)**
+> "Like, I think—yeah, I don't know."
+
+**[00:44:47](/episodes/ep-Cq7nj9rxPdo.md#t-00-44-32)**
+> "I don't know."
+
+**[00:44:58](/episodes/ep-Cq7nj9rxPdo.md#t-00-44-32)**
+> "You don't actually have to jump into ad hominem attacks."
+
+**[00:46:46](/episodes/ep-Cq7nj9rxPdo.md#t-00-46-28)**
+> "I don't know."
+
+**[00:47:16](/episodes/ep-Cq7nj9rxPdo.md#t-00-46-50)**
+> "When they don't want you to look into something, they diagnose ..."
+
+**[00:48:47](/episodes/ep-Cq7nj9rxPdo.md#t-00-48-17)**
+> "You don't want me doing that."
+
+**[00:49:19](/episodes/ep-Cq7nj9rxPdo.md#t-00-49-03)**
+> "...' okay, it could be true. But don't accuse people for doing something for which you..."
+
+**[00:49:26](/episodes/ep-Cq7nj9rxPdo.md#t-00-49-03)**
+> "I don't know if anyone's seen this video."
+
+**[00:50:18](/episodes/ep-Cq7nj9rxPdo.md#t-00-49-40)**
+> "You don't know how you would react."
+
+**[00:50:49](/episodes/ep-Cq7nj9rxPdo.md#t-00-50-43)**
+> "We don't know when you're shocked by shots being fired."
+
+**[00:51:08](/episodes/ep-Cq7nj9rxPdo.md#t-00-50-43)**
+> "...Zimmerman—that's—"No, hey, we don't know. He was in shock.""
+
+**[00:51:18](/episodes/ep-Cq7nj9rxPdo.md#t-00-50-43)**
+> "That's a normal—"Hey, we don't know," right?"
+
+**[00:51:40](/episodes/ep-Cq7nj9rxPdo.md#t-00-51-26)**
+> ""I don't know what to do."
+
+**[00:51:48](/episodes/ep-Cq7nj9rxPdo.md#t-00-51-26)**
+> "So don't do that."
+
+**[00:52:23](/episodes/ep-Cq7nj9rxPdo.md#t-00-52-11)**
+> "You don't have to do that."
+
+**[00:53:35](/episodes/ep-Cq7nj9rxPdo.md#t-00-53-35)**
+> "...atermark my content, at least don't smear me and call me a crazy person."
+
+**[00:58:17](/episodes/ep-Cq7nj9rxPdo.md#t-00-57-42)**
+> "And I don't know why they would do this."
+
+**[01:01:26](/episodes/ep-Cq7nj9rxPdo.md#t-01-01-23)**
+> "So don't wait."
+
+**[01:03:11](/episodes/ep-Cq7nj9rxPdo.md#t-01-02-49)**
+> "...xplore their tallow line, and don't forget to use my code—which is CANDACE10—at che..."
+
+**[01:05:57](/episodes/ep-Cq7nj9rxPdo.md#t-01-05-37)**
+> "... more in the afternoon, and I don't have to have the full eight-hour day. But you c..."
+
+**[01:06:35](/episodes/ep-Cq7nj9rxPdo.md#t-01-06-20)**
+> "No, I don't hold out any hope"
+
+**[01:06:46](/episodes/ep-Cq7nj9rxPdo.md#t-01-06-20)**
+> "I think actually Don Jr. may have even said that."
+
+**[01:07:05](/episodes/ep-Cq7nj9rxPdo.md#t-01-07-05)**
+> "And I don't believe he's reconsidering his love for Israel."
+
+**[01:08:51](/episodes/ep-Cq7nj9rxPdo.md#t-01-08-20)**
+> "Don't stop exposing these lies."
+
+**[01:09:23](/episodes/ep-Cq7nj9rxPdo.md#t-01-09-03)**
+> "We don't know now, but CandaceOwens.com."
 
 </details>
 
@@ -623,202 +773,52 @@ _Type: People_
 </details>
 
 <details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (65 mentions)</summary>
+<summary>To My Friend, Charlie Kirk. (15 mentions)</summary>
 
-**[00:00:35](/episodes/ep-vwG1juDCQZQ.md#t-00-00-00)**
-> "I don't even know how to react to it."
+**[00:06:08](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
+> "“I don't want to do this event with that new girl you hi..."
 
-**[00:03:55](/episodes/ep-vwG1juDCQZQ.md#t-00-03-35)**
-> "Tucker (Tucker Carlson), I don't know."
+**[00:06:10](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
+> "Like, I don't want to share the stage with her, essentially."
 
-**[00:04:56](/episodes/ep-vwG1juDCQZQ.md#t-00-04-16)**
-> "I don't want them to get too excited."
+**[00:06:21](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
+> "I don't want to share the stage with her, this newbie.”"
 
-**[00:05:08](/episodes/ep-vwG1juDCQZQ.md#t-00-05-00)**
-> "I don't know how he does it."
+**[00:07:01](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
+> "He said, “Okay, if they don't want to do this event with this newbie, Candace..."
 
-**[00:05:10](/episodes/ep-vwG1juDCQZQ.md#t-00-05-00)**
-> "I don't know how he deals with things."
+**[00:08:08](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
+> "It was also Don Jr. (Donald Trump Jr.) and eventually him."
 
-**[00:05:32](/episodes/ep-vwG1juDCQZQ.md#t-00-05-00)**
-> "I don't want to be tied down to the Republican Party."
+**[00:08:24](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
+> "But eventually, Don (Donald Trump Jr.) and Eric (Eric Trump) got him ..."
 
-**[00:06:03](/episodes/ep-vwG1juDCQZQ.md#t-00-05-43)**
-> "...rely looking for truth, and I don't care what enemies I make along the way."
+**[00:09:31](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
+> "Okay, I understand that you don't do culture, but like, come on, you don't know t..."
 
-**[00:06:26](/episodes/ep-vwG1juDCQZQ.md#t-00-06-26)**
-> "I don't know why I thought it was going to be like more..."
+**[00:09:31](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
+> "...lture, but like, come on, you don't know the difference between Jay-Z (Jay-Z) and K..."
 
-**[00:09:43](/episodes/ep-vwG1juDCQZQ.md#t-00-09-23)**
-> "...t he played in this because I don't believe that he was the lone person involved."
+**[00:10:41](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
+> "You don't understand the divinity of him tweeting that."
 
-**[00:09:52](/episodes/ep-vwG1juDCQZQ.md#t-00-09-23)**
-> "I don't even think it's a person that killed Charlie Ki..."
+**[00:12:29](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
+> "I don't remember, but all the flights got canceled, and..."
 
-**[00:11:06](/episodes/ep-vwG1juDCQZQ.md#t-00-10-44)**
-> "And I just—yeah—I don't know."
+**[00:16:25](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
+> "I don't even know what campus event this is, but I love..."
 
-**[00:11:33](/episodes/ep-vwG1juDCQZQ.md#t-00-11-27)**
-> "I don't know what I'm forgiving actually until I know w..."
+**[00:21:17](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
+> "I don't think it; I know it."
 
-**[00:15:44](/episodes/ep-vwG1juDCQZQ.md#t-00-15-25)**
-> "And I don't know. I am maintaining that I think this may ha..."
+**[00:21:27](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
+> "I don't know, just say the things that they're saying, ..."
 
-**[00:16:09](/episodes/ep-vwG1juDCQZQ.md#t-00-16-08)**
-> "I asked him. I was like, "Why don't you wear a cross?""
+**[00:21:50](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
+> "But I don't want today to be about anything other than you ..."
 
-**[00:16:16](/episodes/ep-vwG1juDCQZQ.md#t-00-16-08)**
-> "...y you're a Christian, but you don't wear a cross.""
-
-**[00:16:17](/episodes/ep-vwG1juDCQZQ.md#t-00-16-08)**
-> "He's like, "I don't know. I don't really—I'm not a jewelry guy.""
-
-**[00:17:08](/episodes/ep-vwG1juDCQZQ.md#t-00-16-42)**
-> "And I don't think any of them have made videos since clarif..."
-
-**[00:17:36](/episodes/ep-vwG1juDCQZQ.md#t-00-17-26)**
-> "I don't know why that's a big deal at all outside of ju..."
-
-**[00:18:43](/episodes/ep-vwG1juDCQZQ.md#t-00-18-22)**
-> "...s trying to figure out, and I don't blame them,"
-
-**[00:19:53](/episodes/ep-vwG1juDCQZQ.md#t-00-19-50)**
-> "I don't want my kids to go on the internet one day when..."
-
-**[00:22:08](/episodes/ep-vwG1juDCQZQ.md#t-00-21-29)**
-> "And they don't want to talk about the stuff that we care about..."
-
-**[00:22:29](/episodes/ep-vwG1juDCQZQ.md#t-00-22-14)**
-> "You don't get to be like, "I wanna marry you and I wanna ..."
-
-**[00:22:30](/episodes/ep-vwG1juDCQZQ.md#t-00-22-14)**
-> "You're like, "Well, I don't wanna be a princess," right?"
-
-**[00:24:11](/episodes/ep-vwG1juDCQZQ.md#t-00-23-38)**
-> "Okay: take the stage or don't take the stage, but it can't be in between."
-
-**[00:24:13](/episodes/ep-vwG1juDCQZQ.md#t-00-23-38)**
-> "... public turns against you: "I don't want a stage anymore.""
-
-**[00:24:20](/episodes/ep-vwG1juDCQZQ.md#t-00-23-38)**
-> "And I don't—I do not have any sympathy for Rob McCoy."
-
-**[00:24:32](/episodes/ep-vwG1juDCQZQ.md#t-00-24-22)**
-> "And if you don't want to tell the truth, it just makes you look ..."
-
-**[00:25:52](/episodes/ep-vwG1juDCQZQ.md#t-00-25-52)**
-> "And I just don't feel"
-
-**[00:26:14](/episodes/ep-vwG1juDCQZQ.md#t-00-25-52)**
-> "I don't know—doesn't work for me."
-
-**[00:33:02](/episodes/ep-vwG1juDCQZQ.md#t-00-32-39)**
-> "...rk) or Candace—whoever it is, Don Jr.—to come to their campus."
-
-**[00:36:30](/episodes/ep-vwG1juDCQZQ.md#t-00-36-11)**
-> "I don't even know what we're debating."
-
-**[00:37:24](/episodes/ep-vwG1juDCQZQ.md#t-00-36-53)**
-> "I don't know what we're doing here."
-
-**[00:37:28](/episodes/ep-vwG1juDCQZQ.md#t-00-36-53)**
-> "I don't know what the nature of this is."
-
-**[00:41:08](/episodes/ep-vwG1juDCQZQ.md#t-00-41-08)**
-> "Say, "I don't know.""
-
-**[00:41:10](/episodes/ep-vwG1juDCQZQ.md#t-00-41-08)**
-> "Just say, "I don't know.""
-
-**[00:41:27](/episodes/ep-vwG1juDCQZQ.md#t-00-41-08)**
-> "...e public around the world who don't trust what we are being told—would like to know..."
-
-**[00:42:43](/episodes/ep-vwG1juDCQZQ.md#t-00-42-32)**
-> "They don't care about any of that stuff."
-
-**[00:44:36](/episodes/ep-vwG1juDCQZQ.md#t-00-43-54)**
-> "I don't love the crickets of these things."
-
-**[00:46:03](/episodes/ep-vwG1juDCQZQ.md#t-00-46-03)**
-> "I don't even know what she's doing over at Turning Poin..."
-
-**[00:46:22](/episodes/ep-vwG1juDCQZQ.md#t-00-46-03)**
-> "I don't know."
-
-**[00:47:18](/episodes/ep-vwG1juDCQZQ.md#t-00-46-48)**
-> "I don't know."
-
-**[00:47:42](/episodes/ep-vwG1juDCQZQ.md#t-00-47-31)**
-> "And so I don't understand why we just can't get basic answers ..."
-
-**[00:50:24](/episodes/ep-vwG1juDCQZQ.md#t-00-50-24)**
-> "If you don't lie on me, I won't have to call it out."
-
-**[00:50:29](/episodes/ep-vwG1juDCQZQ.md#t-00-50-24)**
-> "If you don't tell lies about things that took place—about th..."
-
-**[00:50:32](/episodes/ep-vwG1juDCQZQ.md#t-00-50-24)**
-> "...h, we do this every—" No: you don't do a Doge every year."
-
-**[00:52:27](/episodes/ep-vwG1juDCQZQ.md#t-00-52-25)**
-> "Come forth with the truth—or don't, okay?"
-
-**[00:52:29](/episodes/ep-vwG1juDCQZQ.md#t-00-52-25)**
-> "And if you don't, we're just gonna keep investigating and see ho..."
-
-**[00:53:30](/episodes/ep-vwG1juDCQZQ.md#t-00-53-09)**
-> "Don't forget to use code Candace at checkout."
-
-**[00:55:25](/episodes/ep-vwG1juDCQZQ.md#t-00-55-08)**
-> "...ther one where she's like, "I don't know the inner workings at Turning Point USA," ..."
-
-**[00:55:29](/episodes/ep-vwG1juDCQZQ.md#t-00-55-08)**
-> ""I don't have direct knowledge, but I assume there are n..."
-
-**[00:56:05](/episodes/ep-vwG1juDCQZQ.md#t-00-55-48)**
-> "I don't think you realize how real life this is for me."
-
-**[00:56:13](/episodes/ep-vwG1juDCQZQ.md#t-00-55-48)**
-> "I was like: "Girl, don't care at all."
-
-**[00:56:49](/episodes/ep-vwG1juDCQZQ.md#t-00-56-33)**
-> "Don't care who you are."
-
-**[00:57:07](/episodes/ep-vwG1juDCQZQ.md#t-00-56-33)**
-> "I don't know, man."
-
-**[00:58:23](/episodes/ep-vwG1juDCQZQ.md#t-00-57-54)**
-> "...ve just been fighting, and we don't look up and look at the stats and follow the st..."
-
-**[00:59:03](/episodes/ep-vwG1juDCQZQ.md#t-00-58-34)**
-> "...ause they're very angry—and I don't even know what they're attacking me over at thi..."
-
-**[00:59:51](/episodes/ep-vwG1juDCQZQ.md#t-00-59-48)**
-> "... we have seen has just been—I don't know—it's just—it's been one big nothing burger..."
-
-**[01:00:24](/episodes/ep-vwG1juDCQZQ.md#t-00-59-48)**
-> "I don't remember anything, though, in my memory."
-
-**[01:02:42](/episodes/ep-vwG1juDCQZQ.md#t-01-02-42)**
-> "... relentless over matters that don't have as much significance to my life personally..."
-
-**[01:03:30](/episodes/ep-vwG1juDCQZQ.md#t-01-03-27)**
-> "I don't know what I'm forgiving."
-
-**[01:03:37](/episodes/ep-vwG1juDCQZQ.md#t-01-03-27)**
-> "If I don't know who I should be forgiving, I need to get t..."
-
-**[01:04:31](/episodes/ep-vwG1juDCQZQ.md#t-01-04-11)**
-> "...king for—somebody else that I don't know if I could ever work for anybody else. But..."
-
-**[01:06:04](/episodes/ep-vwG1juDCQZQ.md#t-01-05-39)**
-> "offer an email? Like I don't know what I'm doing.""
-
-**[01:06:13](/episodes/ep-vwG1juDCQZQ.md#t-01-05-39)**
-> "...ause—you know—I told them: "I don't know how it's going to work out."
-
-**[01:06:56](/episodes/ep-vwG1juDCQZQ.md#t-01-06-23)**
-> "I don't know what I'll say other than book club people—..."
+**[00:22:48](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
+> "And so I don't know what else to say, guys, other than..."
 
 </details>
 
@@ -826,14 +826,6 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
-
-<details>
-<summary>Affiliated With (1)</summary>
-
-- **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:32:26](/episodes/ep-Qt0VHV-POCg.md#t-00-31-50): "Don Jr. was one of the people who very much helped to build Turning Point USA."
-
-</details>
 
 <details>
 <summary>Founded (1)</summary>
@@ -860,10 +852,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
-
-- **[Turning Point USA](/entities/org-turning-point-usa.md)** affiliated with this
-  - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:32:26](/episodes/ep-Qt0VHV-POCg.md#t-00-31-50)
+<summary>Referenced By (3)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** founded by this
   - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:32:31](/episodes/ep-Qt0VHV-POCg.md#t-00-31-50)

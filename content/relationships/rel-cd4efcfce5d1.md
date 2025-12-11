@@ -11,7 +11,11 @@ object: "org-turning-point-usa"
 
 ## [Candace Owens](/entities/person-candace-owens) criticized [Turning Point USA](/entities/org-turning-point-usa)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM)**
+
+- [00:02:29](/episodes/ep-6DhWawD4ZiM#t-00-02-29): _The majority of people think Turning Point is acting suspicious_
 
 **[They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw)**
 

@@ -37,14 +37,6 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Affiliated With (1)</summary>
-
-- **[Angola Gate](/entities/concept-angola-gate.md)**
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:16:50](/episodes/ep-Kmt6HgRjckU.md#t-00-16-13): "and a Russian-born Israeli named Arkady Gaidemach"
-
-</details>
-
-<details>
 <summary>Ran Against (1)</summary>
 
 - **[Branko International](/entities/org-branko-international.md)**
@@ -53,24 +45,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>Worked With (1)</summary>
-
-- **[Pierre Falcone](/entities/person-pierre-falcone.md)**
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:14:28](/episodes/ep-Kmt6HgRjckU.md#t-00-14-05): "And his partner is Pierre Falcone."
-
-</details>
-
-<details>
-<summary>Referenced By (3)</summary>
-
-- **[Angola Gate](/entities/concept-angola-gate.md)** affiliated with this
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:16:50](/episodes/ep-Kmt6HgRjckU.md#t-00-16-13)
+<summary>Referenced By (1)</summary>
 
 - **[Branko International](/entities/org-branko-international.md)** ran against this
   - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:14:12](/episodes/ep-Kmt6HgRjckU.md#t-00-14-05)
-
-- **[Pierre Falcone](/entities/person-pierre-falcone.md)** worked with this
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:14:28](/episodes/ep-Kmt6HgRjckU.md#t-00-14-05)
 
 </details>
 

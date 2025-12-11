@@ -18,48 +18,6 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (4 mentions)</summary>
-
-**[00:39:22](/episodes/ep-2WEHTk0Xewg.md#ent-org-amazon-t-00-39-04)**
-> "...to get 20% off your order. Beekeeper's Naturals products are also available at Target, Whole Foods, Amazon, CVS, and Walgreens. That's B-E-E-K-E-E-P-E-R-Snaturals.com/Candace. Enter code Candace at checkout..."
-
-**[01:00:05](/episodes/ep-2WEHTk0Xewg.md#ent-org-amazon-t-00-59-29)**
-> "...er purity for maximum safety and effectiveness. This is not the sketchy stuff that you will find on Amazon. Recharge is formulated with research-backed ingredients to optimize brain function and cellular re..."
-
-**[00:39:22](/episodes/ep-2WEHTk0Xewg.md#ent-org-amazon-t-00-39-04)**
-> "...lable at Target, Whole Foods, Amazon, CVS, and Walgreens."
-
-**[01:00:05](/episodes/ep-2WEHTk0Xewg.md#ent-org-amazon-t-00-59-29)**
-> "...y stuff that you will find on Amazon."
-
-</details>
-
-<details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1 mentions)</summary>
-
-**[00:42:27](/episodes/ep-DqGNvi36ol8.md#ent-org-amazon-t-00-42-13)**
-> "You guys can get the book on Amazon now."
-
-</details>
-
-<details>
-<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (4 mentions)</summary>
-
-**[00:41:15](/episodes/ep-K5GjF53bfN4.md#ent-org-amazon-t-00-40-46)**
-> "...great work. God bless." Thank you, James (James Moran). Renee (Renee) writes, "Have you covered the Amazon listing from September 9th for a book about Charlie (Charlie Kirk) with all the details, which were..."
-
-**[00:41:21](/episodes/ep-K5GjF53bfN4.md#ent-org-amazon-t-00-40-46)**
-> "... of what happened on the 10th?" I have a picture of a screenshot supposedly verified. Yeah, I think Amazon came out and said that it was a technical error because I guess you can adjust the dates. To be hon..."
-
-**[00:41:15](/episodes/ep-K5GjF53bfN4.md#ent-org-amazon-t-00-40-46)**
-> "...writes, "Have you covered the Amazon listing from September 9th for a book about Charl..."
-
-**[00:41:21](/episodes/ep-K5GjF53bfN4.md#ent-org-amazon-t-00-40-46)**
-> "Yeah, I think Amazon came out and said that it was a technical error b..."
-
-</details>
-
-<details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
 
 **[00:42:35](/episodes/ep-Kmt6HgRjckU.md#ent-org-amazon-t-00-42-12)**
@@ -67,17 +25,6 @@ _Type: Organizations_
 
 **[00:42:40](/episodes/ep-Kmt6HgRjckU.md#ent-org-amazon-t-00-42-12)**
 > "So you can go on to Amazon and buy Make Him A Sandwich."
-
-</details>
-
-<details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
-
-**[00:27:20](/episodes/ep-YA1FxrDWNIo.md#ent-org-amazon-t-00-26-45)**
-> "...'ll get 20% off your order. Beekeepers Naturals products are also available at Target, Whole Foods, Amazon, CVS, and Walgreens. Again, that's BeekeepersNaturals.com/Candace; enter code CANDACE. Okay, guys, ..."
-
-**[00:27:20](/episodes/ep-YA1FxrDWNIo.md#ent-org-amazon-t-00-26-45)**
-> "...lable at Target, Whole Foods, Amazon, CVS, and Walgreens."
 
 </details>
 
@@ -98,6 +45,37 @@ _Type: Organizations_
 
 **[00:37:53](/episodes/ep-ZAuuSq_j2_w.md#ent-org-amazon-t-00-37-19)**
 > "It's on Amazon, which is super exciting."
+
+</details>
+
+<details>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1 mentions)</summary>
+
+**[00:42:27](/episodes/ep-DqGNvi36ol8.md#ent-org-amazon-t-00-42-13)**
+> "You guys can get the book on Amazon now."
+
+</details>
+
+<details>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (6 mentions)</summary>
+
+**[00:56:04](/episodes/ep-his-JBjlkh8.md#ent-org-amazon-t-00-55-36)**
+> "...had a lot of muses for my book, which is finally out: Make Him a Sandwich. You guys can get that on Amazon. People have been asking about international shipping. If you go to MakeHimASandwich.com, we are no..."
+
+**[00:56:18](/episodes/ep-his-JBjlkh8.md#ent-org-amazon-t-00-56-18)**
+> "...ada. And you can get those copies for 20% off if you buy it directly from the website as opposed to Amazon. So head to MakeHimASandwich.com, or you can head to Amazon if that is easier for you. But signed c..."
+
+**[00:56:22](/episodes/ep-his-JBjlkh8.md#ent-org-amazon-t-00-56-18)**
+> "...directly from the website as opposed to Amazon. So head to MakeHimASandwich.com, or you can head to Amazon if that is easier for you. But signed copies can only be purchased on CandaceOwens.com. Also, we ha..."
+
+**[00:56:04](/episodes/ep-his-JBjlkh8.md#ent-org-amazon-t-00-55-36)**
+> "You guys can get that on Amazon."
+
+**[00:56:18](/episodes/ep-his-JBjlkh8.md#ent-org-amazon-t-00-56-18)**
+> "...rom the website as opposed to Amazon."
+
+**[00:56:22](/episodes/ep-his-JBjlkh8.md#ent-org-amazon-t-00-56-18)**
+> "...dwich.com, or you can head to Amazon if that is easier for you."
 
 </details>
 
@@ -128,25 +106,41 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (6 mentions)</summary>
+<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (2 mentions)</summary>
 
-**[00:56:04](/episodes/ep-his-JBjlkh8.md#ent-org-amazon-t-00-55-36)**
-> "...had a lot of muses for my book, which is finally out: Make Him a Sandwich. You guys can get that on Amazon. People have been asking about international shipping. If you go to MakeHimASandwich.com, we are no..."
+**[00:32:58](/episodes/ep-ozWJz2spBcI.md#ent-org-amazon-t-00-32-26)**
+> "...op-tier purity for maximum safety and effectiveness. This is not the sketchy stuff you will find on Amazon. Recharge is formulated with research-backed ingredients to optimize brain function and cellular re..."
 
-**[00:56:18](/episodes/ep-his-JBjlkh8.md#ent-org-amazon-t-00-56-18)**
-> "...ada. And you can get those copies for 20% off if you buy it directly from the website as opposed to Amazon. So head to MakeHimASandwich.com, or you can head to Amazon if that is easier for you. But signed c..."
+**[00:32:58](/episodes/ep-ozWJz2spBcI.md#ent-org-amazon-t-00-32-26)**
+> "...ketchy stuff you will find on Amazon."
 
-**[00:56:22](/episodes/ep-his-JBjlkh8.md#ent-org-amazon-t-00-56-18)**
-> "...directly from the website as opposed to Amazon. So head to MakeHimASandwich.com, or you can head to Amazon if that is easier for you. But signed copies can only be purchased on CandaceOwens.com. Also, we ha..."
+</details>
 
-**[00:56:04](/episodes/ep-his-JBjlkh8.md#ent-org-amazon-t-00-55-36)**
-> "You guys can get that on Amazon."
+<details>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
 
-**[00:56:18](/episodes/ep-his-JBjlkh8.md#ent-org-amazon-t-00-56-18)**
-> "...rom the website as opposed to Amazon."
+**[00:27:20](/episodes/ep-YA1FxrDWNIo.md#ent-org-amazon-t-00-26-45)**
+> "...'ll get 20% off your order. Beekeepers Naturals products are also available at Target, Whole Foods, Amazon, CVS, and Walgreens. Again, that's BeekeepersNaturals.com/Candace; enter code CANDACE. Okay, guys, ..."
 
-**[00:56:22](/episodes/ep-his-JBjlkh8.md#ent-org-amazon-t-00-56-18)**
-> "...dwich.com, or you can head to Amazon if that is easier for you."
+**[00:27:20](/episodes/ep-YA1FxrDWNIo.md#ent-org-amazon-t-00-26-45)**
+> "...lable at Target, Whole Foods, Amazon, CVS, and Walgreens."
+
+</details>
+
+<details>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (4 mentions)</summary>
+
+**[00:41:15](/episodes/ep-K5GjF53bfN4.md#ent-org-amazon-t-00-40-46)**
+> "...great work. God bless." Thank you, James (James Moran). Renee (Renee) writes, "Have you covered the Amazon listing from September 9th for a book about Charlie (Charlie Kirk) with all the details, which were..."
+
+**[00:41:21](/episodes/ep-K5GjF53bfN4.md#ent-org-amazon-t-00-40-46)**
+> "... of what happened on the 10th?" I have a picture of a screenshot supposedly verified. Yeah, I think Amazon came out and said that it was a technical error because I guess you can adjust the dates. To be hon..."
+
+**[00:41:15](/episodes/ep-K5GjF53bfN4.md#ent-org-amazon-t-00-40-46)**
+> "...writes, "Have you covered the Amazon listing from September 9th for a book about Charl..."
+
+**[00:41:21](/episodes/ep-K5GjF53bfN4.md#ent-org-amazon-t-00-40-46)**
+> "Yeah, I think Amazon came out and said that it was a technical error b..."
 
 </details>
 
@@ -164,17 +158,6 @@ _Type: Organizations_
 
 **[00:28:34](/episodes/ep-ja26iltROkM.md#ent-org-amazon-t-00-28-21)**
 > "... he shows all the T-shirts on Amazon because—like, obviously you can buy yourself an F..."
-
-</details>
-
-<details>
-<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (2 mentions)</summary>
-
-**[00:32:58](/episodes/ep-ozWJz2spBcI.md#ent-org-amazon-t-00-32-26)**
-> "...op-tier purity for maximum safety and effectiveness. This is not the sketchy stuff you will find on Amazon. Recharge is formulated with research-backed ingredients to optimize brain function and cellular re..."
-
-**[00:32:58](/episodes/ep-ozWJz2spBcI.md#ent-org-amazon-t-00-32-26)**
-> "...ketchy stuff you will find on Amazon."
 
 </details>
 
@@ -198,6 +181,23 @@ _Type: Organizations_
 
 **[00:56:36](/episodes/ep-sreYYcID-QY.md#ent-org-amazon-t-00-56-28)**
 > "And Amazon removed the book."
+
+</details>
+
+<details>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (4 mentions)</summary>
+
+**[00:39:22](/episodes/ep-2WEHTk0Xewg.md#ent-org-amazon-t-00-39-04)**
+> "...to get 20% off your order. Beekeeper's Naturals products are also available at Target, Whole Foods, Amazon, CVS, and Walgreens. That's B-E-E-K-E-E-P-E-R-Snaturals.com/Candace. Enter code Candace at checkout..."
+
+**[01:00:05](/episodes/ep-2WEHTk0Xewg.md#ent-org-amazon-t-00-59-29)**
+> "...er purity for maximum safety and effectiveness. This is not the sketchy stuff that you will find on Amazon. Recharge is formulated with research-backed ingredients to optimize brain function and cellular re..."
+
+**[00:39:22](/episodes/ep-2WEHTk0Xewg.md#ent-org-amazon-t-00-39-04)**
+> "...lable at Target, Whole Foods, Amazon, CVS, and Walgreens."
+
+**[01:00:05](/episodes/ep-2WEHTk0Xewg.md#ent-org-amazon-t-00-59-29)**
+> "...y stuff that you will find on Amazon."
 
 </details>
 

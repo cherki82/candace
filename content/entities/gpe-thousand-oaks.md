@@ -13,6 +13,17 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
+
+**[00:51:52](/episodes/ep-SKGUzGHymcI.md#ent-gpe-thousand-oaks-t-00-51-52)**
+> "...into separate things. I sent in a tip about Calvary Global Network and you may find it interesting. Thousand Oaks is a part of Calvary Global Network. It is always about infiltration and I have to say I can't chan..."
+
+**[00:51:52](/episodes/ep-SKGUzGHymcI.md#ent-gpe-thousand-oaks-t-00-51-52)**
+> "Thousand Oaks is a part of Calvary Global Network."
+
+</details>
+
+<details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (8 mentions)</summary>
 
 **[00:03:48](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-thousand-oaks-t-00-03-30)**
@@ -59,6 +70,29 @@ _Type: Places_
 </details>
 
 <details>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (6 mentions)</summary>
+
+**[00:21:55](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-thousand-oaks-t-00-22-44)**
+> "...er—on November 7th of 2018—and there's almost this like Las Vegas shooting hangover that happens in Thousand Oaks, California. Oddly, about 40 people who were at the Las Vegas shooting were all at the Borderline B..."
+
+**[00:22:44](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-thousand-oaks-t-00-22-44)**
+> "...he a target? We have to start asking these questions. This is a headline from the BBC regarding the Thousand Oaks shooting at the Borderline Bar and Grill: the Las Vegas shooting survivor being among the dead. We'..."
+
+**[00:23:21](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-thousand-oaks-t-00-22-44)**
+> "...s why they were all there. Following this, a month after this, Rob McCoy then gets elected mayor of Thousand Oaks. He's mayor for a year. And I'm just starting to ask a lot of questions about what is happening her..."
+
+**[00:21:55](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-thousand-oaks-t-00-22-44)**
+> "...ting hangover that happens in Thousand Oaks, California."
+
+**[00:22:44](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-thousand-oaks-t-00-22-44)**
+> "...ne from the BBC regarding the Thousand Oaks shooting at the Borderline Bar and Grill: the Las..."
+
+**[00:23:21](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-thousand-oaks-t-00-22-44)**
+> "...oy then gets elected mayor of Thousand Oaks."
+
+</details>
+
+<details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (6 mentions)</summary>
 
 **[00:13:34](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-thousand-oaks-t-00-15-33)**
@@ -82,17 +116,6 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
-
-**[00:51:52](/episodes/ep-SKGUzGHymcI.md#ent-gpe-thousand-oaks-t-00-51-52)**
-> "...into separate things. I sent in a tip about Calvary Global Network and you may find it interesting. Thousand Oaks is a part of Calvary Global Network. It is always about infiltration and I have to say I can't chan..."
-
-**[00:51:52](/episodes/ep-SKGUzGHymcI.md#ent-gpe-thousand-oaks-t-00-51-52)**
-> "Thousand Oaks is a part of Calvary Global Network."
-
-</details>
-
-<details>
 <summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (6 mentions)</summary>
 
 **[00:15:15](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-thousand-oaks-t-00-14-58)**
@@ -112,29 +135,6 @@ _Type: Places_
 
 **[00:16:02](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-thousand-oaks-t-00-15-41)**
 > "2018, Thousand Oaks."
-
-</details>
-
-<details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (6 mentions)</summary>
-
-**[00:21:55](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-thousand-oaks-t-00-22-44)**
-> "...er—on November 7th of 2018—and there's almost this like Las Vegas shooting hangover that happens in Thousand Oaks, California. Oddly, about 40 people who were at the Las Vegas shooting were all at the Borderline B..."
-
-**[00:22:44](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-thousand-oaks-t-00-22-44)**
-> "...he a target? We have to start asking these questions. This is a headline from the BBC regarding the Thousand Oaks shooting at the Borderline Bar and Grill: the Las Vegas shooting survivor being among the dead. We'..."
-
-**[00:23:21](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-thousand-oaks-t-00-22-44)**
-> "...s why they were all there. Following this, a month after this, Rob McCoy then gets elected mayor of Thousand Oaks. He's mayor for a year. And I'm just starting to ask a lot of questions about what is happening her..."
-
-**[00:21:55](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-thousand-oaks-t-00-22-44)**
-> "...ting hangover that happens in Thousand Oaks, California."
-
-**[00:22:44](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-thousand-oaks-t-00-22-44)**
-> "...ne from the BBC regarding the Thousand Oaks shooting at the Borderline Bar and Grill: the Las..."
-
-**[00:23:21](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-thousand-oaks-t-00-22-44)**
-> "...oy then gets elected mayor of Thousand Oaks."
 
 </details>
 

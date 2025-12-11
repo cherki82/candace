@@ -19,6 +19,55 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (9 mentions)</summary>
+
+**[00:24:24](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-920-north-king-street-t-00-24-24)**
+> "...okay? So we learned from a source that a foreign dignitary was escorted, right, from that hangar to 920 North King Street in Wilmington, Delaware, a place that we learned and confirmed had three federal agencies working t..."
+
+**[00:27:50](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-920-north-king-street-t-00-27-50)**
+> "...nfirm that the French are absolutely involved in this somehow. I found direct French alignment near 920 North King Street using structural aviation markers, financial lineage, corporate fronts, and historical French corri..."
+
+**[00:34:39](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-920-north-king-street-t-00-34-38)**
+> "...structure. Okay. So to pull this all together, we have an entire French Street that is connected to 920 North King Street; the aircraft hangar and its company Satis, which is French-aligned, connected to 920 North King St..."
+
+**[00:35:01](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-920-north-king-street-t-00-34-38)**
+> "... to 1100 North Market Street. And then we have 1100 North King Street itself, which is connected to 920 North King Street. And we have my lawyers and we have Brigitte's lawyers. I am not loving this. Okay. I'm just not lo..."
+
+**[00:24:24](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-920-north-king-street-t-00-24-24)**
+> "...d, right, from that hangar to 920 North King Street in Wilmington, Delaware, a place that we learned ..."
+
+**[00:27:50](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-920-north-king-street-t-00-27-50)**
+> "920 North King Street using structural aviation markers, financial line..."
+
+**[00:34:39](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-920-north-king-street-t-00-34-38)**
+> "...h Street that is connected to 920 North King Street; the aircraft hangar and its company Satis, which..."
+
+**[00:34:39](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-920-north-king-street-t-00-34-38)**
+> "... French-aligned, connected to 920 North King Street; DuPont, the French-aligned, connected to 1100 No..."
+
+**[00:35:01](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-920-north-king-street-t-00-34-38)**
+> "...itself, which is connected to 920 North King Street."
+
+</details>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (4 mentions)</summary>
+
+**[00:06:12](/episodes/ep-sImMM04XdWY.md#ent-gpe-920-north-king-street-t-00-05-36)**
+> "...UBTT, landed into this federally monitored hangar, a foreign dignitary was then discreetly moved to 920 King Street, which we've learned and confirmed houses the DEA, the FBI, and the Secret Service. Quite rare, rig..."
+
+**[00:25:12](/episodes/ep-sImMM04XdWY.md#ent-gpe-920-north-king-street-t-00-25-07)**
+> "...was the foreign dignitary that was escorted on the day of Charlie (Charlie Kirk)'s assassination to 920 King Street? Is it plausible that for whatever reason, Charlie (Charlie Kirk), allowing Tucker (Tucker Carlson)..."
+
+**[00:06:12](/episodes/ep-sImMM04XdWY.md#ent-gpe-920-north-king-street-t-00-05-36)**
+> "... was then discreetly moved to 920 King Street, which we've learned and confirmed houses the DEA..."
+
+**[00:25:12](/episodes/ep-sImMM04XdWY.md#ent-gpe-920-north-king-street-t-00-25-07)**
+> "...rlie Kirk)'s assassination to 920 King Street?"
+
+</details>
+
+<details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (25 mentions)</summary>
 
 **[00:08:27](/episodes/ep-SKGUzGHymcI.md#ent-gpe-920-north-king-street-t-00-08-19)**
@@ -95,55 +144,6 @@ _Type: Places_
 
 **[00:20:41](/episodes/ep-SKGUzGHymcI.md#ent-gpe-920-north-king-street-t-00-20-11)**
 > "...only logical reason points to 920 North King Street."
-
-</details>
-
-<details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (4 mentions)</summary>
-
-**[00:06:12](/episodes/ep-sImMM04XdWY.md#ent-gpe-920-north-king-street-t-00-05-36)**
-> "...UBTT, landed into this federally monitored hangar, a foreign dignitary was then discreetly moved to 920 King Street, which we've learned and confirmed houses the DEA, the FBI, and the Secret Service. Quite rare, rig..."
-
-**[00:25:12](/episodes/ep-sImMM04XdWY.md#ent-gpe-920-north-king-street-t-00-25-07)**
-> "...was the foreign dignitary that was escorted on the day of Charlie (Charlie Kirk)'s assassination to 920 King Street? Is it plausible that for whatever reason, Charlie (Charlie Kirk), allowing Tucker (Tucker Carlson)..."
-
-**[00:06:12](/episodes/ep-sImMM04XdWY.md#ent-gpe-920-north-king-street-t-00-05-36)**
-> "... was then discreetly moved to 920 King Street, which we've learned and confirmed houses the DEA..."
-
-**[00:25:12](/episodes/ep-sImMM04XdWY.md#ent-gpe-920-north-king-street-t-00-25-07)**
-> "...rlie Kirk)'s assassination to 920 King Street?"
-
-</details>
-
-<details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (9 mentions)</summary>
-
-**[00:24:24](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-920-north-king-street-t-00-24-24)**
-> "...okay? So we learned from a source that a foreign dignitary was escorted, right, from that hangar to 920 North King Street in Wilmington, Delaware, a place that we learned and confirmed had three federal agencies working t..."
-
-**[00:27:50](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-920-north-king-street-t-00-27-50)**
-> "...nfirm that the French are absolutely involved in this somehow. I found direct French alignment near 920 North King Street using structural aviation markers, financial lineage, corporate fronts, and historical French corri..."
-
-**[00:34:39](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-920-north-king-street-t-00-34-38)**
-> "...structure. Okay. So to pull this all together, we have an entire French Street that is connected to 920 North King Street; the aircraft hangar and its company Satis, which is French-aligned, connected to 920 North King St..."
-
-**[00:35:01](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-920-north-king-street-t-00-34-38)**
-> "... to 1100 North Market Street. And then we have 1100 North King Street itself, which is connected to 920 North King Street. And we have my lawyers and we have Brigitte's lawyers. I am not loving this. Okay. I'm just not lo..."
-
-**[00:24:24](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-920-north-king-street-t-00-24-24)**
-> "...d, right, from that hangar to 920 North King Street in Wilmington, Delaware, a place that we learned ..."
-
-**[00:27:50](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-920-north-king-street-t-00-27-50)**
-> "920 North King Street using structural aviation markers, financial line..."
-
-**[00:34:39](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-920-north-king-street-t-00-34-38)**
-> "...h Street that is connected to 920 North King Street; the aircraft hangar and its company Satis, which..."
-
-**[00:34:39](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-920-north-king-street-t-00-34-38)**
-> "... French-aligned, connected to 920 North King Street; DuPont, the French-aligned, connected to 1100 No..."
-
-**[00:35:01](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-920-north-king-street-t-00-34-38)**
-> "...itself, which is connected to 920 North King Street."
 
 </details>
 

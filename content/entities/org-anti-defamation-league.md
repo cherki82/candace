@@ -17,29 +17,6 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (6 mentions)</summary>
-
-**[00:31:45](/episodes/ep-adJ4LNGp84I.md#ent-org-anti-defamation-league-t-00-31-25)**
-> "...they've already done. They're gonna censor speech. The reason that they got on board, just like the ADL spokesperson said when he was caught on the mic, was like, we need to do something about TikTok. An..."
-
-**[00:47:25](/episodes/ep-adJ4LNGp84I.md#ent-org-anti-defamation-league-t-00-47-25)**
-> "... Who is the lady that was in that photo? Marzi writes, this just in: the FBI just cut ties with the ADL after Turning Point USA criticism. They share a building—just, FBI and ADL share a building. They'r..."
-
-**[00:47:33](/episodes/ep-adJ4LNGp84I.md#ent-org-anti-defamation-league-t-00-47-25)**
-> "...I just cut ties with the ADL after Turning Point USA criticism. They share a building—just, FBI and ADL share a building. They're one and the same. I hope you guys know that. They share a building, I thi..."
-
-**[00:31:45](/episodes/ep-adJ4LNGp84I.md#ent-org-anti-defamation-league-t-00-31-25)**
-> "...y got on board, just like the ADL spokesperson said when he was caught on the mic, ..."
-
-**[00:47:25](/episodes/ep-adJ4LNGp84I.md#ent-org-anti-defamation-league-t-00-47-25)**
-> "...he FBI just cut ties with the ADL after Turning Point USA criticism."
-
-**[00:47:33](/episodes/ep-adJ4LNGp84I.md#ent-org-anti-defamation-league-t-00-47-25)**
-> "...hare a building—just, FBI and ADL share a building."
-
-</details>
-
-<details>
 <summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (2 mentions)</summary>
 
 **[00:22:32](/episodes/ep-r1PS67aRmcA.md#ent-org-anti-defamation-league-t-00-22-18)**
@@ -235,18 +212,33 @@ _Type: Organizations_
 
 </details>
 
+<details>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (6 mentions)</summary>
+
+**[00:31:45](/episodes/ep-adJ4LNGp84I.md#ent-org-anti-defamation-league-t-00-31-25)**
+> "...they've already done. They're gonna censor speech. The reason that they got on board, just like the ADL spokesperson said when he was caught on the mic, was like, we need to do something about TikTok. An..."
+
+**[00:47:25](/episodes/ep-adJ4LNGp84I.md#ent-org-anti-defamation-league-t-00-47-25)**
+> "... Who is the lady that was in that photo? Marzi writes, this just in: the FBI just cut ties with the ADL after Turning Point USA criticism. They share a building—just, FBI and ADL share a building. They'r..."
+
+**[00:47:33](/episodes/ep-adJ4LNGp84I.md#ent-org-anti-defamation-league-t-00-47-25)**
+> "...I just cut ties with the ADL after Turning Point USA criticism. They share a building—just, FBI and ADL share a building. They're one and the same. I hope you guys know that. They share a building, I thi..."
+
+**[00:31:45](/episodes/ep-adJ4LNGp84I.md#ent-org-anti-defamation-league-t-00-31-25)**
+> "...y got on board, just like the ADL spokesperson said when he was caught on the mic, ..."
+
+**[00:47:25](/episodes/ep-adJ4LNGp84I.md#ent-org-anti-defamation-league-t-00-47-25)**
+> "...he FBI just cut ties with the ADL after Turning Point USA criticism."
+
+**[00:47:33](/episodes/ep-adJ4LNGp84I.md#ent-org-anti-defamation-league-t-00-47-25)**
+> "...hare a building—just, FBI and ADL share a building."
+
+</details>
+
 </details>
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
-
-<details>
-<summary>Affiliated With (1)</summary>
-
-- **[FBI](/entities/org-fbi.md)**
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:09:14](/episodes/ep-t1YtLS1n8Vs.md#t-00-09-05): "The FBI and the ADL had a partnership, sharing intel."
-
-</details>
 
 <details>
 <summary>Criticized (3)</summary>
@@ -277,24 +269,12 @@ _Type: Organizations_
 
 - **[B'nai B'rith](/entities/org-b-nai-b-rith.md)**
   - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:02](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): "the ADL was born out of a Jewish Freemason organization known as B'nai B'rith."
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:02](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): "the ADL was born out of a Jewish Freemason organization known as B'nai B'rith."
   - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:15](/episodes/ep-t1YtLS1n8Vs.md#t-00-00-42): "The ADL was born out of a Jewish Freemason organization known as B'nai B'rith"
 
 </details>
 
 <details>
-<summary>Worked With (1)</summary>
-
-- **[James Comey](/entities/person-james-comey.md)**
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-02-02): "James Comey wrote love letters to the ADL and embedded FBI agents with them"
-
-</details>
-
-<details>
-<summary>Referenced By (7)</summary>
-
-- **[FBI](/entities/org-fbi.md)** affiliated with this
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:09:14](/episodes/ep-t1YtLS1n8Vs.md#t-00-09-05)
+<summary>Referenced By (5)</summary>
 
 - **[Kash Patel](/entities/person-kash-patel.md)** criticized this
   - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:00:48](/episodes/ep-t1YtLS1n8Vs.md#t-00-00-42)
@@ -312,10 +292,6 @@ _Type: Organizations_
 
 - **[B'nai B'rith](/entities/org-b-nai-b-rith.md)** founded this
   - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:02](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24)
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:02](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24)
-
-- **[James Comey](/entities/person-james-comey.md)** worked with this
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-02-02)
 
 </details>
 

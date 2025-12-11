@@ -18,6 +18,77 @@ _Type: Concepts_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
+
+**[00:03:24](/episodes/ep-Kmt6HgRjckU.md#ent-concept-mkultra-t-00-02-59)**
+> "MKUltra 2.0."
+
+**[00:03:26](/episodes/ep-Kmt6HgRjckU.md#ent-concept-mkultra-t-00-02-59)**
+> "...vernment psyop on the people, MKUltra, what actually came together, sorry, I should say..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (6 mentions)</summary>
+
+**[00:37:32](/episodes/ep-tB5SXXmd9vU.md#ent-concept-mkultra-t-00-37-15)**
+> "... convinced that Brigitte Macron has been involved, on the basis of my lawsuit and the mentioning of MKUltra 18 times absurdly in my lawsuit, even though all we said was, hey, Brigitte's fake birthday happens..."
+
+**[00:37:42](/episodes/ep-tB5SXXmd9vU.md#ent-concept-mkultra-t-00-37-15)**
+> "...wsuit, even though all we said was, hey, Brigitte's fake birthday happens to be the same day as the MKUltra program, I'm thinking there might be something there. Like Brigitte is involved in the military fil..."
+
+**[00:41:05](/episodes/ep-tB5SXXmd9vU.md#ent-concept-mkultra-t-00-40-44)**
+> "...termining the answer to that. I could go on, by the way—Wilmington, Delaware also being the hub for MKUltra is especially sweet. The email that we got, that it's also the hub for transgenderism in America—li..."
+
+**[00:37:32](/episodes/ep-tB5SXXmd9vU.md#ent-concept-mkultra-t-00-37-15)**
+> "...lawsuit and the mentioning of MKUltra 18 times"
+
+**[00:37:42](/episodes/ep-tB5SXXmd9vU.md#ent-concept-mkultra-t-00-37-15)**
+> "...ens to be the same day as the MKUltra program, I'm thinking there might be something th..."
+
+**[00:41:05](/episodes/ep-tB5SXXmd9vU.md#ent-concept-mkultra-t-00-40-44)**
+> "...laware also being the hub for MKUltra is especially sweet."
+
+</details>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (5 mentions)</summary>
+
+**[00:22:49](/episodes/ep-sImMM04XdWY.md#ent-concept-mkultra-t-00-22-25)**
+> "...bit too loud—you know, a thief that nobody was pursuing was running. And that was us discussing the MKUltra program and Brigitte Macron strangely and Emmanuel mentioning MKUltra in the lawsuit to us 18 times..."
+
+**[00:23:42](/episodes/ep-sImMM04XdWY.md#ent-concept-mkultra-t-00-23-08)**
+> "...ght track. And it was something that was so sinister, you know, involving maybe another step of the MKUltra program being used to foster serial killers and to give serial killers new identities and allowing ..."
+
+**[00:22:49](/episodes/ep-sImMM04XdWY.md#ent-concept-mkultra-t-00-22-25)**
+> "...nd that was us discussing the MKUltra program and Brigitte Macron strangely and Emmanue..."
+
+**[00:22:49](/episodes/ep-sImMM04XdWY.md#ent-concept-mkultra-t-00-22-25)**
+> "...ngely and Emmanuel mentioning MKUltra in the lawsuit to us 18 times struck us as odd"
+
+**[00:23:42](/episodes/ep-sImMM04XdWY.md#ent-concept-mkultra-t-00-23-08)**
+> "...ing maybe another step of the MKUltra program being used to foster serial killers and t..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (4 mentions)</summary>
+
+**[00:47:52](/episodes/ep-SKGUzGHymcI.md#ent-concept-mkultra-t-00-47-35)**
+> "Yeah, this is this is like MK Ultra"
+
+**[00:47:52](/episodes/ep-SKGUzGHymcI.md#ent-concept-mkultra-t-00-47-35)**
+> "Yeah, this is this is like MK Ultra."
+
+**[00:53:28](/episodes/ep-SKGUzGHymcI.md#ent-concept-mkultra-t-00-53-19)**
+> "They rang the MK Ultra Red phone to get you off their backs."
+
+**[00:53:37](/episodes/ep-SKGUzGHymcI.md#ent-concept-mkultra-t-00-53-19)**
+> "...real close talking about that MK Ultra experiment that happened that I believe it looked..."
+
+</details>
+
+<details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (12 mentions)</summary>
 
 **[00:02:01](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mkultra-t-00-01-21)**
@@ -59,17 +130,6 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
-
-**[00:03:24](/episodes/ep-Kmt6HgRjckU.md#ent-concept-mkultra-t-00-02-59)**
-> "MKUltra 2.0."
-
-**[00:03:26](/episodes/ep-Kmt6HgRjckU.md#ent-concept-mkultra-t-00-02-59)**
-> "...vernment psyop on the people, MKUltra, what actually came together, sorry, I should say..."
-
-</details>
-
-<details>
 <summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (4 mentions)</summary>
 
 **[00:26:49](/episodes/ep-QZWSsq8ZWzw.md#ent-concept-mkultra-t-00-26-44)**
@@ -83,66 +143,6 @@ _Type: Concepts_
 
 **[00:26:49](/episodes/ep-QZWSsq8ZWzw.md#ent-concept-mkultra-t-00-26-44)**
 > "...ned throughout the 1960s when MKUltra—when that program was running."
-
-</details>
-
-<details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (4 mentions)</summary>
-
-**[00:47:52](/episodes/ep-SKGUzGHymcI.md#ent-concept-mkultra-t-00-47-35)**
-> "Yeah, this is this is like MK Ultra"
-
-**[00:47:52](/episodes/ep-SKGUzGHymcI.md#ent-concept-mkultra-t-00-47-35)**
-> "Yeah, this is this is like MK Ultra."
-
-**[00:53:28](/episodes/ep-SKGUzGHymcI.md#ent-concept-mkultra-t-00-53-19)**
-> "They rang the MK Ultra Red phone to get you off their backs."
-
-**[00:53:37](/episodes/ep-SKGUzGHymcI.md#ent-concept-mkultra-t-00-53-19)**
-> "...real close talking about that MK Ultra experiment that happened that I believe it looked..."
-
-</details>
-
-<details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (5 mentions)</summary>
-
-**[00:22:49](/episodes/ep-sImMM04XdWY.md#ent-concept-mkultra-t-00-22-25)**
-> "...bit too loud—you know, a thief that nobody was pursuing was running. And that was us discussing the MKUltra program and Brigitte Macron strangely and Emmanuel mentioning MKUltra in the lawsuit to us 18 times..."
-
-**[00:23:42](/episodes/ep-sImMM04XdWY.md#ent-concept-mkultra-t-00-23-08)**
-> "...ght track. And it was something that was so sinister, you know, involving maybe another step of the MKUltra program being used to foster serial killers and to give serial killers new identities and allowing ..."
-
-**[00:22:49](/episodes/ep-sImMM04XdWY.md#ent-concept-mkultra-t-00-22-25)**
-> "...nd that was us discussing the MKUltra program and Brigitte Macron strangely and Emmanue..."
-
-**[00:22:49](/episodes/ep-sImMM04XdWY.md#ent-concept-mkultra-t-00-22-25)**
-> "...ngely and Emmanuel mentioning MKUltra in the lawsuit to us 18 times struck us as odd"
-
-**[00:23:42](/episodes/ep-sImMM04XdWY.md#ent-concept-mkultra-t-00-23-08)**
-> "...ing maybe another step of the MKUltra program being used to foster serial killers and t..."
-
-</details>
-
-<details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (6 mentions)</summary>
-
-**[00:37:32](/episodes/ep-tB5SXXmd9vU.md#ent-concept-mkultra-t-00-37-15)**
-> "... convinced that Brigitte Macron has been involved, on the basis of my lawsuit and the mentioning of MKUltra 18 times absurdly in my lawsuit, even though all we said was, hey, Brigitte's fake birthday happens..."
-
-**[00:37:42](/episodes/ep-tB5SXXmd9vU.md#ent-concept-mkultra-t-00-37-15)**
-> "...wsuit, even though all we said was, hey, Brigitte's fake birthday happens to be the same day as the MKUltra program, I'm thinking there might be something there. Like Brigitte is involved in the military fil..."
-
-**[00:41:05](/episodes/ep-tB5SXXmd9vU.md#ent-concept-mkultra-t-00-40-44)**
-> "...termining the answer to that. I could go on, by the way—Wilmington, Delaware also being the hub for MKUltra is especially sweet. The email that we got, that it's also the hub for transgenderism in America—li..."
-
-**[00:37:32](/episodes/ep-tB5SXXmd9vU.md#ent-concept-mkultra-t-00-37-15)**
-> "...lawsuit and the mentioning of MKUltra 18 times"
-
-**[00:37:42](/episodes/ep-tB5SXXmd9vU.md#ent-concept-mkultra-t-00-37-15)**
-> "...ens to be the same day as the MKUltra program, I'm thinking there might be something th..."
-
-**[00:41:05](/episodes/ep-tB5SXXmd9vU.md#ent-concept-mkultra-t-00-40-44)**
-> "...laware also being the hub for MKUltra is especially sweet."
 
 </details>
 

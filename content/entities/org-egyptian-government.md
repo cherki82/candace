@@ -18,13 +18,19 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (4 mentions)</summary>
 
-**[00:50:53](/episodes/ep-581dILVcEE4.md#ent-org-egyptian-government-t-00-50-42)**
-> "... not have to certify anything under FARA. Obsessed Sports Rights. "If the planes are truly from the Egyptian government, would that mean their passengers in cargo would have diplomatic immunity and allow them to do illi..."
+**[00:17:13](/episodes/ep-ZAuuSq_j2_w.md#ent-org-egyptian-government-t-00-17-12)**
+> "... about BTU. We were always talking about BTT. Well, official receipts just landed straight from the Egyptian presidency website that on April 3rd, 2023, President al-Sisi touched down in Riyadh aboard that same exact aircraft, ..."
 
-**[00:50:53](/episodes/ep-581dILVcEE4.md#ent-org-egyptian-government-t-00-50-42)**
-> "...the planes are truly from the Egyptian government, would that mean their passengers in cargo would ..."
+**[00:16:52](/episodes/ep-ZAuuSq_j2_w.md#ent-org-egyptian-government-t-00-16-27)**
+> "...'m going to read it in its entirety, okay? "Confirmed. Candace Owens just got vindicated again. The Egyptian government website confirms that Egyptian President el-Sisi flew on SUBTU. Remember when Candace Owens dropped..."
+
+**[00:16:52](/episodes/ep-ZAuuSq_j2_w.md#ent-org-egyptian-government-t-00-16-27)**
+> "The Egyptian government website confirms that Egyptian President el-Sisi ..."
+
+**[00:17:13](/episodes/ep-ZAuuSq_j2_w.md#ent-org-egyptian-government-t-00-17-12)**
+> "...just landed straight from the Egyptian presidency website that on April 3rd, 2023, President al-Sis..."
 
 </details>
 
@@ -46,19 +52,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (4 mentions)</summary>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
 
-**[00:17:13](/episodes/ep-ZAuuSq_j2_w.md#ent-org-egyptian-government-t-00-17-12)**
-> "... about BTU. We were always talking about BTT. Well, official receipts just landed straight from the Egyptian presidency website that on April 3rd, 2023, President al-Sisi touched down in Riyadh aboard that same exact aircraft, ..."
+**[00:50:53](/episodes/ep-581dILVcEE4.md#ent-org-egyptian-government-t-00-50-42)**
+> "... not have to certify anything under FARA. Obsessed Sports Rights. "If the planes are truly from the Egyptian government, would that mean their passengers in cargo would have diplomatic immunity and allow them to do illi..."
 
-**[00:16:52](/episodes/ep-ZAuuSq_j2_w.md#ent-org-egyptian-government-t-00-16-27)**
-> "...'m going to read it in its entirety, okay? "Confirmed. Candace Owens just got vindicated again. The Egyptian government website confirms that Egyptian President el-Sisi flew on SUBTU. Remember when Candace Owens dropped..."
-
-**[00:16:52](/episodes/ep-ZAuuSq_j2_w.md#ent-org-egyptian-government-t-00-16-27)**
-> "The Egyptian government website confirms that Egyptian President el-Sisi ..."
-
-**[00:17:13](/episodes/ep-ZAuuSq_j2_w.md#ent-org-egyptian-government-t-00-17-12)**
-> "...just landed straight from the Egyptian presidency website that on April 3rd, 2023, President al-Sis..."
+**[00:50:53](/episodes/ep-581dILVcEE4.md#ent-org-egyptian-government-t-00-50-42)**
+> "...the planes are truly from the Egyptian government, would that mean their passengers in cargo would ..."
 
 </details>
 

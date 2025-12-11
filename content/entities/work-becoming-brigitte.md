@@ -1,13 +1,13 @@
 ---
 title: "Becoming Brigitte"
-description: "Becoming Brigitte (Work) - 28 mentions"
+description: "Becoming Brigitte (Works & Media) - 28 mentions"
 id: "work-becoming-brigitte"
 type: "WORK"
 aliases:
   - "Becoming Brigitte series"
 ---
 
-_Type: Work_
+_Type: Works & Media_
 
 **Also known as:** Becoming Brigitte series
 
@@ -15,17 +15,6 @@ _Type: Work_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
-
-<details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
-
-**[00:55:12](/episodes/ep-Cq7nj9rxPdo.md#ent-work-becoming-brigitte-t-00-55-02)**
-> "...ng about having been born with a penis. Not my fault, okay? If you have not—by the way—watched the "Becoming Brigitte" series and you are appreciating what I'm doing with the Charlie Kirk series, go back and watch it...."
-
-**[00:55:12](/episodes/ep-Cq7nj9rxPdo.md#ent-work-becoming-brigitte-t-00-55-02)**
-> "...e not—by the way—watched the "Becoming Brigitte" series and you are appreciating what I'm doing w..."
-
-</details>
 
 <details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (4 mentions)</summary>
@@ -45,24 +34,37 @@ _Type: Work_
 </details>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (10 mentions)</summary>
 
-**[00:22:08](/episodes/ep-adJ4LNGp84I.md#ent-work-becoming-brigitte-t-00-21-40)**
-> "...rfect, but it is telling, about White Lotus sect, of all things, for those of you that followed the Becoming Brigitte series and things that we have spoken about about this White Lotus idea. It's essentially they're training..."
+**[00:10:46](/episodes/ep-tB5SXXmd9vU.md#ent-work-becoming-brigitte-t-00-10-07)**
+> "...OL, the city of romance, really? Romance with who? Exactly. That's one of the broader points of the Becoming Brigitte series. And so I'd like to thank Pavel Durov, the founder of Telegram, for being one of the first people t..."
 
-**[00:22:08](/episodes/ep-adJ4LNGp84I.md#ent-work-becoming-brigitte-t-00-21-40)**
-> "...hose of you that followed the Becoming Brigitte series and things that we have spoken about about..."
+**[00:17:33](/episodes/ep-tB5SXXmd9vU.md#ent-work-becoming-brigitte-t-00-17-33)**
+> "... in Minnesota—should have said Ripley. Now, you will recall, for those of you who are following the Becoming Brigitte series, that the preferred Macron response is to never address the substance of the claims, but to instead..."
 
-</details>
+**[00:10:32](/episodes/ep-tB5SXXmd9vU.md#ent-work-becoming-brigitte-t-00-10-07)**
+> "...te for cruelty and sexual deviancy. Anybody who has made it through the first couple of episodes of Becoming Brigitte knows that the French government has an appetite for cruelty and sexual deviancy, okay? LOL, the ci..."
 
-<details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2 mentions)</summary>
+**[00:35:44](/episodes/ep-tB5SXXmd9vU.md#ent-work-becoming-brigitte-t-00-35-20)**
+> "...he Mossad, which is what we had received a tip regarding, that we were working on confirming during Becoming Brigitte season two. I wish they had been more explicit and said, we really actually need you to shut up abo..."
 
-**[00:50:34](/episodes/ep-ja26iltROkM.md#ent-work-becoming-brigitte-t-00-50-13)**
-> "...ar with you guys. And I know many of you guys are just finding my content and are new. Go watch the Becoming Brigitte series. I think a lot of people have been hooked on that. It's a really good one. And she's a dude. That's..."
+**[00:55:11](/episodes/ep-tB5SXXmd9vU.md#ent-work-becoming-brigitte-t-00-55-11)**
+> "...uite dark, whatever that secret is, to be honest with you. But we had kind of gotten sidetracked on Becoming Brigitte, and we should maybe get back involved in it. Anyways, getting into the top comment from the last e..."
 
-**[00:50:34](/episodes/ep-ja26iltROkM.md#ent-work-becoming-brigitte-t-00-50-13)**
-> "Go watch the Becoming Brigitte series."
+**[00:10:32](/episodes/ep-tB5SXXmd9vU.md#ent-work-becoming-brigitte-t-00-10-07)**
+> "...e first couple of episodes of Becoming Brigitte knows that the French government has an appetite ..."
+
+**[00:10:46](/episodes/ep-tB5SXXmd9vU.md#ent-work-becoming-brigitte-t-00-10-07)**
+> "... of the broader points of the Becoming Brigitte series."
+
+**[00:17:33](/episodes/ep-tB5SXXmd9vU.md#ent-work-becoming-brigitte-t-00-17-33)**
+> "... of you who are following the Becoming Brigitte series, that the preferred Macron response is to ..."
+
+**[00:35:44](/episodes/ep-tB5SXXmd9vU.md#ent-work-becoming-brigitte-t-00-35-20)**
+> "... working on confirming during Becoming Brigitte season two."
+
+**[00:55:11](/episodes/ep-tB5SXXmd9vU.md#ent-work-becoming-brigitte-t-00-55-11)**
+> "...kind of gotten sidetracked on Becoming Brigitte, and we should maybe get back involved in it."
 
 </details>
 
@@ -101,37 +103,35 @@ _Type: Work_
 </details>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (10 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
 
-**[00:10:46](/episodes/ep-tB5SXXmd9vU.md#ent-work-becoming-brigitte-t-00-10-07)**
-> "...OL, the city of romance, really? Romance with who? Exactly. That's one of the broader points of the Becoming Brigitte series. And so I'd like to thank Pavel Durov, the founder of Telegram, for being one of the first people t..."
+**[00:55:12](/episodes/ep-Cq7nj9rxPdo.md#ent-work-becoming-brigitte-t-00-55-02)**
+> "...ng about having been born with a penis. Not my fault, okay? If you have not—by the way—watched the "Becoming Brigitte" series and you are appreciating what I'm doing with the Charlie Kirk series, go back and watch it...."
 
-**[00:17:33](/episodes/ep-tB5SXXmd9vU.md#ent-work-becoming-brigitte-t-00-17-33)**
-> "... in Minnesota—should have said Ripley. Now, you will recall, for those of you who are following the Becoming Brigitte series, that the preferred Macron response is to never address the substance of the claims, but to instead..."
+**[00:55:12](/episodes/ep-Cq7nj9rxPdo.md#ent-work-becoming-brigitte-t-00-55-02)**
+> "...e not—by the way—watched the "Becoming Brigitte" series and you are appreciating what I'm doing w..."
 
-**[00:10:32](/episodes/ep-tB5SXXmd9vU.md#ent-work-becoming-brigitte-t-00-10-07)**
-> "...te for cruelty and sexual deviancy. Anybody who has made it through the first couple of episodes of Becoming Brigitte knows that the French government has an appetite for cruelty and sexual deviancy, okay? LOL, the ci..."
+</details>
 
-**[00:35:44](/episodes/ep-tB5SXXmd9vU.md#ent-work-becoming-brigitte-t-00-35-20)**
-> "...he Mossad, which is what we had received a tip regarding, that we were working on confirming during Becoming Brigitte season two. I wish they had been more explicit and said, we really actually need you to shut up abo..."
+<details>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
 
-**[00:55:11](/episodes/ep-tB5SXXmd9vU.md#ent-work-becoming-brigitte-t-00-55-11)**
-> "...uite dark, whatever that secret is, to be honest with you. But we had kind of gotten sidetracked on Becoming Brigitte, and we should maybe get back involved in it. Anyways, getting into the top comment from the last e..."
+**[00:22:08](/episodes/ep-adJ4LNGp84I.md#ent-work-becoming-brigitte-t-00-21-40)**
+> "...rfect, but it is telling, about White Lotus sect, of all things, for those of you that followed the Becoming Brigitte series and things that we have spoken about about this White Lotus idea. It's essentially they're training..."
 
-**[00:10:32](/episodes/ep-tB5SXXmd9vU.md#ent-work-becoming-brigitte-t-00-10-07)**
-> "...e first couple of episodes of Becoming Brigitte knows that the French government has an appetite ..."
+**[00:22:08](/episodes/ep-adJ4LNGp84I.md#ent-work-becoming-brigitte-t-00-21-40)**
+> "...hose of you that followed the Becoming Brigitte series and things that we have spoken about about..."
 
-**[00:10:46](/episodes/ep-tB5SXXmd9vU.md#ent-work-becoming-brigitte-t-00-10-07)**
-> "... of the broader points of the Becoming Brigitte series."
+</details>
 
-**[00:17:33](/episodes/ep-tB5SXXmd9vU.md#ent-work-becoming-brigitte-t-00-17-33)**
-> "... of you who are following the Becoming Brigitte series, that the preferred Macron response is to ..."
+<details>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2 mentions)</summary>
 
-**[00:35:44](/episodes/ep-tB5SXXmd9vU.md#ent-work-becoming-brigitte-t-00-35-20)**
-> "... working on confirming during Becoming Brigitte season two."
+**[00:50:34](/episodes/ep-ja26iltROkM.md#ent-work-becoming-brigitte-t-00-50-13)**
+> "...ar with you guys. And I know many of you guys are just finding my content and are new. Go watch the Becoming Brigitte series. I think a lot of people have been hooked on that. It's a really good one. And she's a dude. That's..."
 
-**[00:55:11](/episodes/ep-tB5SXXmd9vU.md#ent-work-becoming-brigitte-t-00-55-11)**
-> "...kind of gotten sidetracked on Becoming Brigitte, and we should maybe get back involved in it."
+**[00:50:34](/episodes/ep-ja26iltROkM.md#ent-work-becoming-brigitte-t-00-50-13)**
+> "Go watch the Becoming Brigitte series."
 
 </details>
 

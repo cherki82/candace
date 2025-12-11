@@ -1,13 +1,13 @@
 ---
 title: "The Sean Ryan Show"
-description: "The Sean Ryan Show (Work) - 4 mentions"
+description: "The Sean Ryan Show (Works & Media) - 4 mentions"
 id: "work-the-sean-ryan-show"
 type: "WORK"
 aliases:
   - "Sean Ryan Show"
 ---
 
-_Type: Work_
+_Type: Works & Media_
 
 **Also known as:** Sean Ryan Show
 

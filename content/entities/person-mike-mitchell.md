@@ -28,6 +28,23 @@ _Type: People_
 </details>
 
 <details>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (4 mentions)</summary>
+
+**[00:19:30](/episodes/ep-adJ4LNGp84I.md#ent-person-mike-mitchell-t-00-19-30)**
+> "...y interesting. And yes, it is true, it is a fact that Tyler Robinson, we can't confirm that this is Mike Mitchell, but there are old photos of Tyler Robinson when he's a lot younger visiting his Uncle Mikey, okay?..."
+
+**[00:23:12](/episodes/ep-adJ4LNGp84I.md#ent-person-mike-mitchell-t-00-23-05)**
+> "...tomorrow and we'll bring in the aspects and show you whether or not, you know, Uncle Mikey could be Mike Mitchell; could he be the detective? But I'm just seeing these recurring themes of the military, for whateve..."
+
+**[00:19:30](/episodes/ep-adJ4LNGp84I.md#ent-person-mike-mitchell-t-00-19-30)**
+> "...we can't confirm that this is Mike Mitchell, but there are old photos of Tyler Robinson when ..."
+
+**[00:23:12](/episodes/ep-adJ4LNGp84I.md#ent-person-mike-mitchell-t-00-23-05)**
+> "...ou know, Uncle Mikey could be Mike Mitchell; could he be the detective?"
+
+</details>
+
+<details>
 <summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (12 mentions)</summary>
 
 **[00:20:53](/episodes/ep-YA1FxrDWNIo.md#ent-person-mike-mitchell-t-00-20-22)**
@@ -103,23 +120,6 @@ _Type: People_
 
 **[00:50:38](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-mike-mitchell-t-00-50-29)**
 > "...hen I was trying to find this Mike Mitchell, I could find the Mitchell family."
-
-</details>
-
-<details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (4 mentions)</summary>
-
-**[00:19:30](/episodes/ep-adJ4LNGp84I.md#ent-person-mike-mitchell-t-00-19-30)**
-> "...y interesting. And yes, it is true, it is a fact that Tyler Robinson, we can't confirm that this is Mike Mitchell, but there are old photos of Tyler Robinson when he's a lot younger visiting his Uncle Mikey, okay?..."
-
-**[00:23:12](/episodes/ep-adJ4LNGp84I.md#ent-person-mike-mitchell-t-00-23-05)**
-> "...tomorrow and we'll bring in the aspects and show you whether or not, you know, Uncle Mikey could be Mike Mitchell; could he be the detective? But I'm just seeing these recurring themes of the military, for whateve..."
-
-**[00:19:30](/episodes/ep-adJ4LNGp84I.md#ent-person-mike-mitchell-t-00-19-30)**
-> "...we can't confirm that this is Mike Mitchell, but there are old photos of Tyler Robinson when ..."
-
-**[00:23:12](/episodes/ep-adJ4LNGp84I.md#ent-person-mike-mitchell-t-00-23-05)**
-> "...ou know, Uncle Mikey could be Mike Mitchell; could he be the detective?"
 
 </details>
 

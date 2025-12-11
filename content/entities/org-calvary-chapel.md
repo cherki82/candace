@@ -17,6 +17,48 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (4 mentions)</summary>
+
+**[00:11:50](/episodes/ep-his-JBjlkh8.md#ent-org-calvary-chapel-t-00-11-15)**
+> "...t's kind of floating into more opinion, but I think well-backed by the facts of the founding of the Calvary Chapel Church during the decade of the '60s, where the CIA was really just spiking the ball on Christians in gene..."
+
+**[00:11:15](/episodes/ep-his-JBjlkh8.md#ent-org-calvary-chapel-t-00-11-15)**
+> "...er because they are veterans or because they have family members who are. Yeah, so I do believe the Calvary Chapel—their history with Chuck Smith, the evidence that it was a militant CIA effort to infiltrate the Ch..."
+
+**[00:11:15](/episodes/ep-his-JBjlkh8.md#ent-org-calvary-chapel-t-00-11-15)**
+> "Yeah, so I do believe the Calvary Chapel—their history with Chuck Smith, the evidence that..."
+
+**[00:11:50](/episodes/ep-his-JBjlkh8.md#ent-org-calvary-chapel-t-00-11-15)**
+> "... facts of the founding of the Calvary Chapel Church during"
+
+</details>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
+
+**[00:28:28](/episodes/ep-sImMM04XdWY.md#ent-org-calvary-chapel-t-00-27-47)**
+> "...ther you're talking about George Zinn or the person that jumped up and screamed or the pastors, the Calvary Chapel that for whatever reason kept getting into these scandals that we went over the other day. That doe..."
+
+**[00:28:28](/episodes/ep-sImMM04XdWY.md#ent-org-calvary-chapel-t-00-27-47)**
+> "... screamed or the pastors, the Calvary Chapel that for whatever reason kept getting into these ..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (3 mentions)</summary>
+
+**[00:51:37](/episodes/ep-SKGUzGHymcI.md#t-00-51-10)**
+> "...e do know what this is really about. Soul Survivor writes, Calvary Global Network branched off from Calvary Chapel Association in 2017. Much like they infiltrated TPUSA, they started branching out into separate thi..."
+
+**[00:47:20](/episodes/ep-SKGUzGHymcI.md#t-00-46-56)**
+> "...opaganda campaign going on at Calvary Chapels where Israel is directly sending money to an LLC ..."
+
+**[00:51:37](/episodes/ep-SKGUzGHymcI.md#t-00-51-10)**
+> "...bal Network branched off from Calvary Chapel Association in 2017."
+
+</details>
+
+<details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (17 mentions)</summary>
 
 **[00:38:23](/episodes/ep-581dILVcEE4.md#ent-org-calvary-chapel-t-00-38-23)**
@@ -171,105 +213,6 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (10 mentions)</summary>
-
-**[00:33:02](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-33-02)**
-> "...ornia. Well, yeah. Pastor Jack Hibbs leads one. Butch Hibbs is also his brother who's involved in a Calvary Chapel church in Utah. And later, what's interesting is he's behind Charlie (Charlie Kirk) when he gets out of th..."
-
-**[00:32:45](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-32-19)**
-> "...s, man. These pastors. Pastor Hibbs—great friend of Charlie (Charlie Kirk)—also another leader of a Calvary Chapel, just like our boy McCoy. Pastor McCoy—Calvary Chapel churches in California. Well, yeah. Pastor Ja..."
-
-**[00:32:55](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-32-19)**
-> "...arlie (Charlie Kirk)—also another leader of a Calvary Chapel, just like our boy McCoy. Pastor McCoy—Calvary Chapel churches in California. Well, yeah. Pastor Jack Hibbs leads one. Butch Hibbs is also his brother wh..."
-
-**[00:35:31](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-35-00)**
-> "...r are we looking at an operation? That's the question that I have. Yeah, I would—if you are part of Calvary Chapel anywhere—I would just wonder if your pastor just came from the military. And if he—or if he's from ..."
-
-**[00:45:54](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-45-49)**
-> "...e Oaks. I found that out. I guess Rob McCoy—he's actually even more amazing. He's had so many hats. Calvary Chapel outright purchased—for whatever reason—outright purchased the Christian Academy in 2009, I believe ..."
-
-**[00:32:45](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-32-19)**
-> "...irk)—also another leader of a Calvary Chapel, just like our boy McCoy."
-
-**[00:32:55](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-32-19)**
-> "Pastor McCoy—Calvary Chapel churches in California."
-
-**[00:33:02](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-33-02)**
-> "...s brother who's involved in a Calvary Chapel church in Utah."
-
-**[00:35:31](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-35-00)**
-> "...h, I would—if you are part of Calvary Chapel anywhere—I would just wonder if your pastor just ..."
-
-**[00:45:54](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-45-49)**
-> "Calvary Chapel outright purchased—for whatever reason—outright p..."
-
-</details>
-
-<details>
-<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2 mentions)</summary>
-
-**[00:13:34](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27)**
-> "...e rather impeccable timing. Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel in Thousand Oaks, California. You should also know, by the way—let me introduce this to you right n..."
-
-**[00:13:34](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27)**
-> "...senior pastor of the Godspeak Calvary Chapel in Thousand Oaks, California."
-
-</details>
-
-<details>
-<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (2 mentions)</summary>
-
-**[00:03:59](/episodes/ep-Qt0VHV-POCg.md#t-00-03-39)**
-> "...nded Turning Point USA Faith (TPUSA Faith) together." "Along with being a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Faith." "Aligned with the Christian right, McCoy ins..."
-
-**[00:03:59](/episodes/ep-Qt0VHV-POCg.md#t-00-03-39)**
-> "...g a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Fa..."
-
-</details>
-
-<details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (3 mentions)</summary>
-
-**[00:51:37](/episodes/ep-SKGUzGHymcI.md#t-00-51-10)**
-> "...e do know what this is really about. Soul Survivor writes, Calvary Global Network branched off from Calvary Chapel Association in 2017. Much like they infiltrated TPUSA, they started branching out into separate thi..."
-
-**[00:47:20](/episodes/ep-SKGUzGHymcI.md#t-00-46-56)**
-> "...opaganda campaign going on at Calvary Chapels where Israel is directly sending money to an LLC ..."
-
-**[00:51:37](/episodes/ep-SKGUzGHymcI.md#t-00-51-10)**
-> "...bal Network branched off from Calvary Chapel Association in 2017."
-
-</details>
-
-<details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (4 mentions)</summary>
-
-**[00:11:50](/episodes/ep-his-JBjlkh8.md#ent-org-calvary-chapel-t-00-11-15)**
-> "...t's kind of floating into more opinion, but I think well-backed by the facts of the founding of the Calvary Chapel Church during the decade of the '60s, where the CIA was really just spiking the ball on Christians in gene..."
-
-**[00:11:15](/episodes/ep-his-JBjlkh8.md#ent-org-calvary-chapel-t-00-11-15)**
-> "...er because they are veterans or because they have family members who are. Yeah, so I do believe the Calvary Chapel—their history with Chuck Smith, the evidence that it was a militant CIA effort to infiltrate the Ch..."
-
-**[00:11:15](/episodes/ep-his-JBjlkh8.md#ent-org-calvary-chapel-t-00-11-15)**
-> "Yeah, so I do believe the Calvary Chapel—their history with Chuck Smith, the evidence that..."
-
-**[00:11:50](/episodes/ep-his-JBjlkh8.md#ent-org-calvary-chapel-t-00-11-15)**
-> "... facts of the founding of the Calvary Chapel Church during"
-
-</details>
-
-<details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
-
-**[00:28:28](/episodes/ep-sImMM04XdWY.md#ent-org-calvary-chapel-t-00-27-47)**
-> "...ther you're talking about George Zinn or the person that jumped up and screamed or the pastors, the Calvary Chapel that for whatever reason kept getting into these scandals that we went over the other day. That doe..."
-
-**[00:28:28](/episodes/ep-sImMM04XdWY.md#ent-org-calvary-chapel-t-00-27-47)**
-> "... screamed or the pastors, the Calvary Chapel that for whatever reason kept getting into these ..."
-
-</details>
-
-<details>
 <summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (39 mentions)</summary>
 
 **[00:11:41](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-11-21)**
@@ -388,6 +331,63 @@ _Type: Organizations_
 
 **[00:59:28](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-59-18)**
 > "Mama Diaz writes: "The Calvary Chapel I would watch online had a pastor that said, 'If ..."
+
+</details>
+
+<details>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (10 mentions)</summary>
+
+**[00:33:02](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-33-02)**
+> "...ornia. Well, yeah. Pastor Jack Hibbs leads one. Butch Hibbs is also his brother who's involved in a Calvary Chapel church in Utah. And later, what's interesting is he's behind Charlie (Charlie Kirk) when he gets out of th..."
+
+**[00:32:45](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-32-19)**
+> "...s, man. These pastors. Pastor Hibbs—great friend of Charlie (Charlie Kirk)—also another leader of a Calvary Chapel, just like our boy McCoy. Pastor McCoy—Calvary Chapel churches in California. Well, yeah. Pastor Ja..."
+
+**[00:32:55](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-32-19)**
+> "...arlie (Charlie Kirk)—also another leader of a Calvary Chapel, just like our boy McCoy. Pastor McCoy—Calvary Chapel churches in California. Well, yeah. Pastor Jack Hibbs leads one. Butch Hibbs is also his brother wh..."
+
+**[00:35:31](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-35-00)**
+> "...r are we looking at an operation? That's the question that I have. Yeah, I would—if you are part of Calvary Chapel anywhere—I would just wonder if your pastor just came from the military. And if he—or if he's from ..."
+
+**[00:45:54](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-45-49)**
+> "...e Oaks. I found that out. I guess Rob McCoy—he's actually even more amazing. He's had so many hats. Calvary Chapel outright purchased—for whatever reason—outright purchased the Christian Academy in 2009, I believe ..."
+
+**[00:32:45](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-32-19)**
+> "...irk)—also another leader of a Calvary Chapel, just like our boy McCoy."
+
+**[00:32:55](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-32-19)**
+> "Pastor McCoy—Calvary Chapel churches in California."
+
+**[00:33:02](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-33-02)**
+> "...s brother who's involved in a Calvary Chapel church in Utah."
+
+**[00:35:31](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-35-00)**
+> "...h, I would—if you are part of Calvary Chapel anywhere—I would just wonder if your pastor just ..."
+
+**[00:45:54](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-45-49)**
+> "Calvary Chapel outright purchased—for whatever reason—outright p..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2 mentions)</summary>
+
+**[00:13:34](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27)**
+> "...e rather impeccable timing. Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel in Thousand Oaks, California. You should also know, by the way—let me introduce this to you right n..."
+
+**[00:13:34](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27)**
+> "...senior pastor of the Godspeak Calvary Chapel in Thousand Oaks, California."
+
+</details>
+
+<details>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (2 mentions)</summary>
+
+**[00:03:59](/episodes/ep-Qt0VHV-POCg.md#t-00-03-39)**
+> "...nded Turning Point USA Faith (TPUSA Faith) together." "Along with being a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Faith." "Aligned with the Christian right, McCoy ins..."
+
+**[00:03:59](/episodes/ep-Qt0VHV-POCg.md#t-00-03-39)**
+> "...g a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Fa..."
 
 </details>
 

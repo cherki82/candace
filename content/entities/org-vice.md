@@ -13,10 +13,26 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1 mentions)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>
 
-**[00:45:51](/episodes/ep-5autG89PW6w.md#ent-org-vice-t-00-45-45)**
-> "...sure that JD Vance became the vice presidential nominee."
+**[00:04:35](/episodes/ep-Kmt6HgRjckU.md#ent-org-vice-t-00-04-16)**
+> "...ndon Baines Johnson to be his vice president, Lyndon Baines Johnson, who was clearly..."
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
+
+**[00:39:21](/episodes/ep-vwG1juDCQZQ.md#ent-org-vice-t-00-38-57)**
+> "...usands of people, sometimes a vice president, sometimes a president. Like, you just—..."
+
+</details>
+
+<details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
+
+**[00:55:18](/episodes/ep-LATnak75Si0.md#ent-org-vice-t-00-55-13)**
+> "You know, that's his vice."
 
 </details>
 
@@ -38,18 +54,18 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1 mentions)</summary>
 
-**[00:04:35](/episodes/ep-Kmt6HgRjckU.md#ent-org-vice-t-00-04-16)**
-> "...ndon Baines Johnson to be his vice president, Lyndon Baines Johnson, who was clearly..."
+**[00:45:51](/episodes/ep-5autG89PW6w.md#ent-org-vice-t-00-45-45)**
+> "...sure that JD Vance became the vice presidential nominee."
 
 </details>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
+<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (1 mentions)</summary>
 
-**[00:55:18](/episodes/ep-LATnak75Si0.md#ent-org-vice-t-00-55-13)**
-> "You know, that's his vice."
+**[00:09:21](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-vice-t-00-09-12)**
+> "... me to get a call from him or vice versa."
 
 </details>
 
@@ -75,22 +91,6 @@ _Type: Organizations_
 
 **[00:55:44](/episodes/ep-UBkFkg4UNY8.md#ent-org-vice-t-00-55-20)**
 > "I guess that's my vice—is I always have to pull myself back consciously ..."
-
-</details>
-
-<details>
-<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (1 mentions)</summary>
-
-**[00:09:21](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-vice-t-00-09-12)**
-> "... me to get a call from him or vice versa."
-
-</details>
-
-<details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
-
-**[00:39:21](/episodes/ep-vwG1juDCQZQ.md#ent-org-vice-t-00-38-57)**
-> "...usands of people, sometimes a vice president, sometimes a president. Like, you just—..."
 
 </details>
 

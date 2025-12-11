@@ -1,6 +1,6 @@
 ---
 title: "Pure Talk"
-description: "Pure Talk (Organizations) - 8 mentions"
+description: "Pure Talk (Organizations) - 15 mentions"
 id: "org-pure-talk"
 type: "ORG"
 aliases:
@@ -16,6 +16,32 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (7 mentions)</summary>
+
+**[00:49:54](/episodes/ep-6DhWawD4ZiM.md#ent-org-pure-talk-t-00-49-45)**
+> "I also want to tell you guys about PureTalk"
+
+**[00:49:59](/episodes/ep-6DhWawD4ZiM.md#ent-org-pure-talk-t-00-49-45)**
+> "...you guys wanna tell you about PureTalk because as a consumer, you carry the success or t..."
+
+**[00:50:11](/episodes/ep-6DhWawD4ZiM.md#ent-org-pure-talk-t-00-49-45)**
+> "Well, my friends at PureTalk would like to say thank you from the bottom of th..."
+
+**[00:50:11](/episodes/ep-6DhWawD4ZiM.md#ent-org-pure-talk-t-00-49-45)**
+> "... of their hearts for choosing PureTalk for your wireless needs because of you."
+
+**[00:50:31](/episodes/ep-6DhWawD4ZiM.md#ent-org-pure-talk-t-00-50-28)**
+> "Your patronage has allowed PureTalk to donate a thousand hand-sewn Made in America fl..."
+
+**[00:50:38](/episodes/ep-6DhWawD4ZiM.md#ent-org-pure-talk-t-00-50-28)**
+> "And when you choose PureTalk as your wireless provider, you choose to support ..."
+
+**[00:50:52](/episodes/ep-6DhWawD4ZiM.md#ent-org-pure-talk-t-00-50-28)**
+> "So from everyone in the PureTalk family, thank you for your trust and God bless Am..."
+
+</details>
 
 <details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (8 mentions)</summary>

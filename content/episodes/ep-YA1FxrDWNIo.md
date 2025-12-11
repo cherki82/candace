@@ -240,7 +240,7 @@ youtube_url: "https://www.youtube.com/watch?v=YA1FxrDWNIo"
 
 **People:** [Alex Jones](/entities/person-alex-jones.md), [Andrew Zenger](/entities/person-andrew-zenger.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bob Shillman](/entities/person-bob-shillman.md), [Candace Owens](/entities/person-candace-owens.md), [Cardi B](/entities/person-cardi-b.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [George Farmer](/entities/person-george-farmer.md), [George Zinn](/entities/person-george-zinn.md), [Gernot Omer](/entities/person-gernot-omer.md), [John F. Kennedy](/entities/person-john-f-kennedy.md), [Kash Patel](/entities/person-kash-patel.md), [Laura Loomer](/entities/person-laura-loomer.md), [Mike Lee](/entities/person-mike-lee.md), [Mike Mitchell](/entities/person-mike-mitchell.md), [Phil Lyman](/entities/person-phil-lyman.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Robert Bowles](/entities/person-robert-bowles.md), [Senator Mike Lee](/entities/person-senator-mike-lee.md), [Shaner Broderick](/entities/person-shaner-broderick.md), [Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md), [Tim Ballard](/entities/person-tim-ballard.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
-**Work:** [Chaos](/entities/work-chaos.md)
+**Works & Media:** [Chaos](/entities/work-chaos.md)
 
 </details>
 

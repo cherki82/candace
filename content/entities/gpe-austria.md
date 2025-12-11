@@ -13,13 +13,19 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (4 mentions)</summary>
 
-**[00:10:38](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-austria-t-00-10-16)**
-> "... Now, I don't even know if I'm saying his name right—Gernot, Gurnot. I guess it is a common name in Austria. And there were a few photos of him that were available. We were able to find his face also matched..."
+**[00:24:03](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-austria-t-00-24-03)**
+> "...with Phil Lyman's uncle, cousin—I mean nephew, cousin. He, we learned, was a software engineer from Austria. So Austria, Germany, okay. Featured in Shaner’s Instagram. And that guy Scott Robbins that you saw..."
 
-**[00:10:38](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-austria-t-00-10-16)**
-> "... guess it is a common name in Austria."
+**[00:24:06](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-austria-t-00-24-03)**
+> "...man's uncle, cousin—I mean nephew, cousin. He, we learned, was a software engineer from Austria. So Austria, Germany, okay. Featured in Shaner’s Instagram. And that guy Scott Robbins that you saw looking lik..."
+
+**[00:24:03](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-austria-t-00-24-03)**
+> "... was a software engineer from Austria."
+
+**[00:24:06](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-austria-t-00-24-03)**
+> "So Austria, Germany, okay."
 
 </details>
 
@@ -35,19 +41,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (4 mentions)</summary>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
 
-**[00:24:03](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-austria-t-00-24-03)**
-> "...with Phil Lyman's uncle, cousin—I mean nephew, cousin. He, we learned, was a software engineer from Austria. So Austria, Germany, okay. Featured in Shaner’s Instagram. And that guy Scott Robbins that you saw..."
+**[00:10:38](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-austria-t-00-10-16)**
+> "... Now, I don't even know if I'm saying his name right—Gernot, Gurnot. I guess it is a common name in Austria. And there were a few photos of him that were available. We were able to find his face also matched..."
 
-**[00:24:06](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-austria-t-00-24-03)**
-> "...man's uncle, cousin—I mean nephew, cousin. He, we learned, was a software engineer from Austria. So Austria, Germany, okay. Featured in Shaner’s Instagram. And that guy Scott Robbins that you saw looking lik..."
-
-**[00:24:03](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-austria-t-00-24-03)**
-> "... was a software engineer from Austria."
-
-**[00:24:06](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-austria-t-00-24-03)**
-> "So Austria, Germany, okay."
+**[00:10:38](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-austria-t-00-10-16)**
+> "... guess it is a common name in Austria."
 
 </details>
 

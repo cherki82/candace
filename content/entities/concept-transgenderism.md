@@ -17,34 +17,6 @@ _Type: Concepts_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
-
-**[00:56:13](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-transgenderism-t-00-55-46)**
-> "...mplex and talking about the Kabbalah. Kabbalah very much is the reason for this push in culture for transgenderism. We'll get more into that in the book club, which gets a bit more theological. But that's a very im..."
-
-**[00:56:13](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-transgenderism-t-00-55-46)**
-> "... for this push in culture for transgenderism."
-
-</details>
-
-<details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (4 mentions)</summary>
-
-**[00:11:59](/episodes/ep-K1tFD7FfoCU.md#ent-concept-transgenderism-t-00-11-28)**
-> "...ure of vices that we are suffering from today: a culture that is filled with pornography, gambling, transgenderism, radical feminism, modern psychology, pharmaceuticals. If you research these topics historically, y..."
-
-**[00:13:27](/episodes/ep-K1tFD7FfoCU.md#ent-concept-transgenderism-t-00-12-52)**
-> "...ht for that. Samuel Roth (Samuel Roth)—actually, that's his name—fought for that decision in court. Transgenderism—go back and try to figure out where that came from. Magnus Hirschfeld (Magnus Hirschfeld) was the d..."
-
-**[00:11:59](/episodes/ep-K1tFD7FfoCU.md#ent-concept-transgenderism-t-00-11-28)**
-> "...d with pornography, gambling, transgenderism, radical feminism, modern psychology, pharmaceuti..."
-
-**[00:13:27](/episodes/ep-K1tFD7FfoCU.md#ent-concept-transgenderism-t-00-12-52)**
-> "Transgenderism—go back and try to figure out where that came fro..."
-
-</details>
-
-<details>
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (8 mentions)</summary>
 
 **[00:41:23](/episodes/ep-tB5SXXmd9vU.md#ent-concept-transgenderism-t-00-41-23)**
@@ -70,6 +42,34 @@ _Type: Concepts_
 
 **[00:55:46](/episodes/ep-tB5SXXmd9vU.md#ent-concept-transgenderism-t-00-55-11)**
 > "...e's killing over the topic of transgenderism, I don't think me and Tucker (Tucker Carlson) wou..."
+
+</details>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (4 mentions)</summary>
+
+**[00:11:59](/episodes/ep-K1tFD7FfoCU.md#ent-concept-transgenderism-t-00-11-28)**
+> "...ure of vices that we are suffering from today: a culture that is filled with pornography, gambling, transgenderism, radical feminism, modern psychology, pharmaceuticals. If you research these topics historically, y..."
+
+**[00:13:27](/episodes/ep-K1tFD7FfoCU.md#ent-concept-transgenderism-t-00-12-52)**
+> "...ht for that. Samuel Roth (Samuel Roth)—actually, that's his name—fought for that decision in court. Transgenderism—go back and try to figure out where that came from. Magnus Hirschfeld (Magnus Hirschfeld) was the d..."
+
+**[00:11:59](/episodes/ep-K1tFD7FfoCU.md#ent-concept-transgenderism-t-00-11-28)**
+> "...d with pornography, gambling, transgenderism, radical feminism, modern psychology, pharmaceuti..."
+
+**[00:13:27](/episodes/ep-K1tFD7FfoCU.md#ent-concept-transgenderism-t-00-12-52)**
+> "Transgenderism—go back and try to figure out where that came fro..."
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
+
+**[00:56:13](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-transgenderism-t-00-55-46)**
+> "...mplex and talking about the Kabbalah. Kabbalah very much is the reason for this push in culture for transgenderism. We'll get more into that in the book club, which gets a bit more theological. But that's a very im..."
+
+**[00:56:13](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-transgenderism-t-00-55-46)**
+> "... for this push in culture for transgenderism."
 
 </details>
 

@@ -13,19 +13,10 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (4 mentions)</summary>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1 mentions)</summary>
 
-**[00:19:25](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-salt-lake-city-t-00-18-53)**
-> ".... They say these things are found on the bullets. Okay. And then just seven minutes later, the FBI— Salt Lake City—drops static images of the alleged shooter walking up the stairs. Okay, so now we can see on our ti..."
-
-**[00:19:31](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-salt-lake-city-t-00-18-53)**
-> "...alking up the stairs. Okay, so now we can see on our timeline that's around 10 a.m. in the morning, Salt Lake City time—Mountain Time. So we can then assume that everything else that's about to happen that I'm goin..."
-
-**[00:19:25](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-salt-lake-city-t-00-18-53)**
-> "Salt Lake City—drops static images of the alleged shooter walkin..."
-
-**[00:19:31](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-salt-lake-city-t-00-18-53)**
-> "...round 10 a.m. in the morning, Salt Lake City time—Mountain Time."
+**[00:03:56](/episodes/ep-t4U7NjnUEgc.md#t-00-03-26)**
+> "I had to stop in Salt Lake"
 
 </details>
 
@@ -43,6 +34,17 @@ _Type: Places_
 
 **[00:33:26](/episodes/ep-DqGNvi36ol8.md#ent-gpe-salt-lake-city-t-00-33-14)**
 > "...nuel Behrer get picked out in Salt Lake City?"
+
+</details>
+
+<details>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
+
+**[00:28:45](/episodes/ep-SKGUzGHymcI.md#ent-gpe-salt-lake-city-t-00-28-27)**
+> "...senger flight. That's a big one. That was Charlie (Charlie Kirk)'s plane that day first took him to Salt Lake City for the Restaurantology interview that he did, his last interview. And then after he gets shot, whi..."
+
+**[00:28:45](/episodes/ep-SKGUzGHymcI.md#ent-gpe-salt-lake-city-t-00-28-27)**
+> "...ne that day first took him to Salt Lake City for the Restaurantology"
 
 </details>
 
@@ -83,17 +85,6 @@ _Type: Places_
 
 **[00:42:23](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-salt-lake-city-t-00-41-54)**
 > "I know he was a habitual Salt Lake City event disruptor, but what are the chances his ref..."
-
-</details>
-
-<details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
-
-**[00:28:45](/episodes/ep-SKGUzGHymcI.md#ent-gpe-salt-lake-city-t-00-28-27)**
-> "...senger flight. That's a big one. That was Charlie (Charlie Kirk)'s plane that day first took him to Salt Lake City for the Restaurantology interview that he did, his last interview. And then after he gets shot, whi..."
-
-**[00:28:45](/episodes/ep-SKGUzGHymcI.md#ent-gpe-salt-lake-city-t-00-28-27)**
-> "...ne that day first took him to Salt Lake City for the Restaurantology"
 
 </details>
 
@@ -175,14 +166,6 @@ _Type: Places_
 </details>
 
 <details>
-<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (1 mentions)</summary>
-
-**[00:34:55](/episodes/ep-ZGxnf5cj4Uw.md#t-00-34-49)**
-> "Hey, it's September 10th, 2025, and I was just heading back from Salt Lake to Blanding."
-
-</details>
-
-<details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
 
 **[00:27:54](/episodes/ep-iHav0PPzUz8.md#ent-gpe-salt-lake-city-t-00-27-20)**
@@ -194,10 +177,27 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1 mentions)</summary>
+<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (1 mentions)</summary>
 
-**[00:03:56](/episodes/ep-t4U7NjnUEgc.md#t-00-03-26)**
-> "I had to stop in Salt Lake"
+**[00:34:55](/episodes/ep-ZGxnf5cj4Uw.md#t-00-34-49)**
+> "Hey, it's September 10th, 2025, and I was just heading back from Salt Lake to Blanding."
+
+</details>
+
+<details>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (4 mentions)</summary>
+
+**[00:19:25](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-salt-lake-city-t-00-18-53)**
+> ".... They say these things are found on the bullets. Okay. And then just seven minutes later, the FBI— Salt Lake City—drops static images of the alleged shooter walking up the stairs. Okay, so now we can see on our ti..."
+
+**[00:19:31](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-salt-lake-city-t-00-18-53)**
+> "...alking up the stairs. Okay, so now we can see on our timeline that's around 10 a.m. in the morning, Salt Lake City time—Mountain Time. So we can then assume that everything else that's about to happen that I'm goin..."
+
+**[00:19:25](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-salt-lake-city-t-00-18-53)**
+> "Salt Lake City—drops static images of the alleged shooter walkin..."
+
+**[00:19:31](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-salt-lake-city-t-00-18-53)**
+> "...round 10 a.m. in the morning, Salt Lake City time—Mountain Time."
 
 </details>
 

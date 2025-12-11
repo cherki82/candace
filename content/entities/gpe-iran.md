@@ -17,35 +17,16 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (3 mentions)</summary>
 
-**[00:00:07](/episodes/ep-5autG89PW6w.md#ent-gpe-iran-t-00-00-00)**
-> "...ve it away to the military, and we now have to suffer these military bot farms calling for war with Iran. But last night, the platform was exceptional. It was amazing. The tears that were being shed all o..."
+**[00:13:32](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-iran-t-00-13-15)**
+> "...e CIA after years of abuses, they decided to kind of go overseas to handle business, and members in pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, and France. Israel's involved, Rhodesia, South Africa. I mean, it te..."
 
-**[00:00:07](/episodes/ep-5autG89PW6w.md#ent-gpe-iran-t-00-00-00)**
-> "...ot farms calling for war with Iran."
+**[00:13:32](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-iran-t-00-13-15)**
+> "... members in pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, and France."
 
-</details>
-
-<details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
-
-**[00:04:51](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-iran-t-00-04-45)**
-> "...rmination of Israel, to defend Hamas, to even criticize President Trump (Donald Trump) for stopping Iran's nuclear ambitions. Randy Fine (clip): Friends, make no mistake. Randy Fine (clip): Tucker (Tucker..."
-
-**[00:04:51](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-iran-t-00-04-45)**
-> "...p (Donald Trump) for stopping Iran's nuclear ambitions."
-
-</details>
-
-<details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
-
-**[00:51:03](/episodes/ep-LATnak75Si0.md#ent-gpe-iran-t-00-50-59)**
-> "...ut there's going to be a war, whenever they start itching for war—like they want a regime change in Iran—they find a reason that something happens, and suddenly our boys are being sent. So what I will say..."
-
-**[00:51:03](/episodes/ep-LATnak75Si0.md#ent-gpe-iran-t-00-50-59)**
-> "... they want a regime change in Iran—they find a reason that something happens, and su..."
+**[00:13:32](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-iran-t-00-13-15)**
+> "...ndle business, and members in pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, and France."
 
 </details>
 
@@ -87,63 +68,6 @@ _Type: Places_
 
 **[00:53:32](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iran-t-00-52-49)**
 > "...force this change of power in Iran."
-
-</details>
-
-<details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (10 mentions)</summary>
-
-**[00:21:02](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-iran-t-00-20-29)**
-> "...were told virtually nothing. In fact, we were—and I'm laughing because it's so absurd— we were told Iran did this. What? Because they were itching for war with Iran. Like, they're still itching for war wi..."
-
-**[00:21:06](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-iran-t-00-20-29)**
-> "...ng because it's so absurd— we were told Iran did this. What? Because they were itching for war with Iran. Like, they're still itching for war with Iran, but like that's what basically was the narrative th..."
-
-**[00:21:07](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-iran-t-00-20-29)**
-> "...d this. What? Because they were itching for war with Iran. Like, they're still itching for war with Iran, but like that's what basically was the narrative that was established. They had some warnings that..."
-
-**[00:21:12](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-iran-t-00-21-12)**
-> "... but like that's what basically was the narrative that was established. They had some warnings that Iran was going to try to assassinate Trump, and we're going, "What?" Well, guess what happened? Somebody..."
-
-**[00:21:02](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-iran-t-00-20-29)**
-> "Iran did this"
-
-**[00:21:05](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-iran-t-00-20-29)**
-> "we were told Iran did this"
-
-**[00:21:02](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-iran-t-00-20-29)**
-> "we were told Iran did this."
-
-**[00:21:06](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-iran-t-00-20-29)**
-> "...hey were itching for war with Iran."
-
-**[00:21:07](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-iran-t-00-20-29)**
-> "...re still itching for war with Iran, but like that's what basically was the narrative..."
-
-**[00:21:12](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-iran-t-00-21-12)**
-> "They had some warnings that Iran was going to try to assassinate Trump, and we're ..."
-
-</details>
-
-<details>
-<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (2 mentions)</summary>
-
-**[00:37:27](/episodes/ep-UBkFkg4UNY8.md#ent-gpe-iran-t-00-37-27)**
-> "...hing called FARA. And every country—if they're going to influence people—if you're Qatar, if you're Iran and you want to lobby on behalf of those countries—you have to be registered under FARA so we know ..."
-
-**[00:37:27](/episodes/ep-UBkFkg4UNY8.md#ent-gpe-iran-t-00-37-27)**
-> "...le—if you're Qatar, if you're Iran and you want to lobby on behalf of those countrie..."
-
-</details>
-
-<details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2 mentions)</summary>
-
-**[00:35:22](/episodes/ep-ja26iltROkM.md#ent-gpe-iran-t-00-35-19)**
-> "...irk clip) "You're not anti-Israel. You don't wish them harm. You're not, you know, like cheering on Iran." "No, I support it. I think they're our allies. I want them—" "But you would be called an anti-Sem..."
-
-**[00:35:22](/episodes/ep-ja26iltROkM.md#ent-gpe-iran-t-00-35-19)**
-> "...t, you know, like cheering on Iran.""
 
 </details>
 
@@ -201,16 +125,92 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (3 mentions)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
 
-**[00:13:32](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-iran-t-00-13-15)**
-> "...e CIA after years of abuses, they decided to kind of go overseas to handle business, and members in pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, and France. Israel's involved, Rhodesia, South Africa. I mean, it te..."
+**[00:51:03](/episodes/ep-LATnak75Si0.md#ent-gpe-iran-t-00-50-59)**
+> "...ut there's going to be a war, whenever they start itching for war—like they want a regime change in Iran—they find a reason that something happens, and suddenly our boys are being sent. So what I will say..."
 
-**[00:13:32](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-iran-t-00-13-15)**
-> "... members in pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, and France."
+**[00:51:03](/episodes/ep-LATnak75Si0.md#ent-gpe-iran-t-00-50-59)**
+> "... they want a regime change in Iran—they find a reason that something happens, and su..."
 
-**[00:13:32](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-iran-t-00-13-15)**
-> "...ndle business, and members in pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, and France."
+</details>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
+
+**[00:04:51](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-iran-t-00-04-45)**
+> "...rmination of Israel, to defend Hamas, to even criticize President Trump (Donald Trump) for stopping Iran's nuclear ambitions. Randy Fine (clip): Friends, make no mistake. Randy Fine (clip): Tucker (Tucker..."
+
+**[00:04:51](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-iran-t-00-04-45)**
+> "...p (Donald Trump) for stopping Iran's nuclear ambitions."
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
+
+**[00:00:07](/episodes/ep-5autG89PW6w.md#ent-gpe-iran-t-00-00-00)**
+> "...ve it away to the military, and we now have to suffer these military bot farms calling for war with Iran. But last night, the platform was exceptional. It was amazing. The tears that were being shed all o..."
+
+**[00:00:07](/episodes/ep-5autG89PW6w.md#ent-gpe-iran-t-00-00-00)**
+> "...ot farms calling for war with Iran."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (10 mentions)</summary>
+
+**[00:21:02](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-iran-t-00-20-29)**
+> "...were told virtually nothing. In fact, we were—and I'm laughing because it's so absurd— we were told Iran did this. What? Because they were itching for war with Iran. Like, they're still itching for war wi..."
+
+**[00:21:06](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-iran-t-00-20-29)**
+> "...ng because it's so absurd— we were told Iran did this. What? Because they were itching for war with Iran. Like, they're still itching for war with Iran, but like that's what basically was the narrative th..."
+
+**[00:21:07](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-iran-t-00-20-29)**
+> "...d this. What? Because they were itching for war with Iran. Like, they're still itching for war with Iran, but like that's what basically was the narrative that was established. They had some warnings that..."
+
+**[00:21:12](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-iran-t-00-21-12)**
+> "... but like that's what basically was the narrative that was established. They had some warnings that Iran was going to try to assassinate Trump, and we're going, "What?" Well, guess what happened? Somebody..."
+
+**[00:21:02](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-iran-t-00-20-29)**
+> "Iran did this"
+
+**[00:21:05](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-iran-t-00-20-29)**
+> "we were told Iran did this"
+
+**[00:21:02](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-iran-t-00-20-29)**
+> "we were told Iran did this."
+
+**[00:21:06](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-iran-t-00-20-29)**
+> "...hey were itching for war with Iran."
+
+**[00:21:07](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-iran-t-00-20-29)**
+> "...re still itching for war with Iran, but like that's what basically was the narrative..."
+
+**[00:21:12](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-iran-t-00-21-12)**
+> "They had some warnings that Iran was going to try to assassinate Trump, and we're ..."
+
+</details>
+
+<details>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (2 mentions)</summary>
+
+**[00:37:27](/episodes/ep-UBkFkg4UNY8.md#ent-gpe-iran-t-00-37-27)**
+> "...hing called FARA. And every country—if they're going to influence people—if you're Qatar, if you're Iran and you want to lobby on behalf of those countries—you have to be registered under FARA so we know ..."
+
+**[00:37:27](/episodes/ep-UBkFkg4UNY8.md#ent-gpe-iran-t-00-37-27)**
+> "...le—if you're Qatar, if you're Iran and you want to lobby on behalf of those countrie..."
+
+</details>
+
+<details>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2 mentions)</summary>
+
+**[00:35:22](/episodes/ep-ja26iltROkM.md#ent-gpe-iran-t-00-35-19)**
+> "...irk clip) "You're not anti-Israel. You don't wish them harm. You're not, you know, like cheering on Iran." "No, I support it. I think they're our allies. I want them—" "But you would be called an anti-Sem..."
+
+**[00:35:22](/episodes/ep-ja26iltROkM.md#ent-gpe-iran-t-00-35-19)**
+> "...t, you know, like cheering on Iran.""
 
 </details>
 

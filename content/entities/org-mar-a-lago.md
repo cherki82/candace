@@ -1,6 +1,6 @@
 ---
 title: "Mar-a-Lago"
-description: "Mar-a-Lago (Organizations) - 12 mentions"
+description: "Mar-a-Lago (Organizations) - 17 mentions"
 id: "org-mar-a-lago"
 type: "ORG"
 ---
@@ -13,19 +13,22 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (4 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (5 mentions)</summary>
 
-**[00:50:57](/episodes/ep-t1YtLS1n8Vs.md#ent-org-mar-a-lago-t-00-50-50)**
-> "...ou got to have good instincts. You got to know that just because it's wearing a ball gown and is at Mar-a-Lago doesn't mean that it's not a gangster. It's no different. It's no different from where Jay-Z came f..."
+**[00:12:54](/episodes/ep-6DhWawD4ZiM.md#ent-org-mar-a-lago-t-00-12-25)**
+> "they made 0 million, like two nights ago at Mar-a-Lago"
 
-**[00:51:04](/episodes/ep-t1YtLS1n8Vs.md#ent-org-mar-a-lago-t-00-50-50)**
-> "...nt from where Jay-Z came from in the projects selling crack. It's just wearing a ball gown. It's at Mar-a-Lago. But that's still a gangster. I can recognize a gangster. And I don't think Charlie (Charlie Kirk) ..."
+**[00:12:56](/episodes/ep-6DhWawD4ZiM.md#ent-org-mar-a-lago-t-00-12-25)**
+> "...llion, like two nights ago at Mar-a-Lago, maybe that feels kind of a little bit like, let ..."
 
-**[00:50:57](/episodes/ep-t1YtLS1n8Vs.md#ent-org-mar-a-lago-t-00-50-50)**
-> "...wearing a ball gown and is at Mar-a-Lago doesn't mean that it's not a gangster."
+**[00:13:05](/episodes/ep-6DhWawD4ZiM.md#ent-org-mar-a-lago-t-00-13-05)**
+> "...de more than, separately from Mar-a-Lago, Turning Point USA, since Charlie was killed, jus..."
 
-**[00:51:04](/episodes/ep-t1YtLS1n8Vs.md#ent-org-mar-a-lago-t-00-50-50)**
-> "It's at Mar-a-Lago."
+**[00:13:16](/episodes/ep-6DhWawD4ZiM.md#ent-org-mar-a-lago-t-00-13-05)**
+> "... the $40 million they made at Mar-a-Lago the other night."
+
+**[00:58:47](/episodes/ep-6DhWawD4ZiM.md#ent-org-mar-a-lago-t-00-58-14)**
+> "... spent raising $40 million at Mar-a-Lago."
 
 </details>
 
@@ -58,11 +61,41 @@ _Type: Organizations_
 
 </details>
 
+<details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (4 mentions)</summary>
+
+**[00:50:57](/episodes/ep-t1YtLS1n8Vs.md#ent-org-mar-a-lago-t-00-50-50)**
+> "...ou got to have good instincts. You got to know that just because it's wearing a ball gown and is at Mar-a-Lago doesn't mean that it's not a gangster. It's no different. It's no different from where Jay-Z came f..."
+
+**[00:51:04](/episodes/ep-t1YtLS1n8Vs.md#ent-org-mar-a-lago-t-00-50-50)**
+> "...nt from where Jay-Z came from in the projects selling crack. It's just wearing a ball gown. It's at Mar-a-Lago. But that's still a gangster. I can recognize a gangster. And I don't think Charlie (Charlie Kirk) ..."
+
+**[00:50:57](/episodes/ep-t1YtLS1n8Vs.md#ent-org-mar-a-lago-t-00-50-50)**
+> "...wearing a ball gown and is at Mar-a-Lago doesn't mean that it's not a gangster."
+
+**[00:51:04](/episodes/ep-t1YtLS1n8Vs.md#ent-org-mar-a-lago-t-00-50-50)**
+> "It's at Mar-a-Lago."
+
+</details>
+
 </details>
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Mar-a-Lago (1)</strong></summary>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1)</summary>
+
+- [00:13:16](/episodes/ep-6DhWawD4ZiM.md#t-00-13-05) (Claim) **Candace Owens**: ["Turning Point USA has made more than 100 million dollars since Charlie..."](/statements/statement-ce0624c94ffe.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 </details>

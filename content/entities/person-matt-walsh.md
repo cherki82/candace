@@ -13,22 +13,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (5 mentions)</summary>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (2 mentions)</summary>
 
-**[00:13:17](/episodes/ep-2Riv3I7D0Yk.md#ent-person-matt-walsh-t-00-13-03)**
-> "...? Usually reserved to a visceral response to something that you have seen and in the moment, right? Matt Walsh—actually, we're prepping the show—I said I will guarantee you that when that footage got dropped, w..."
+**[00:31:22](/episodes/ep-vwG1juDCQZQ.md#ent-person-matt-walsh-t-00-30-42)**
+> "...would say, only because she could have texted me. She has my number. This is one of the things that Matt Walsh recently said: that he views it as such a form of disloyalty when you have access to an individual,..."
 
-**[00:14:04](/episodes/ep-2Riv3I7D0Yk.md#ent-person-matt-walsh-t-00-13-45)**
-> "...new. We've tried compassion and restorative justice, and this is the result. It was inevitable." So Matt Walsh then went on his show and further explained that already contextualized tweet, and he explained how..."
-
-**[00:13:17](/episodes/ep-2Riv3I7D0Yk.md#ent-person-matt-walsh-t-00-13-03)**
-> "...een and in the moment, right? Matt Walsh—actually, we're prepping the show—I said I will g..."
-
-**[00:13:17](/episodes/ep-2Riv3I7D0Yk.md#ent-person-matt-walsh-t-00-13-03)**
-> "...ember 5th, four days earlier, Matt Walsh would have tweeted"
-
-**[00:14:04](/episodes/ep-2Riv3I7D0Yk.md#ent-person-matt-walsh-t-00-13-45)**
-> "So Matt Walsh then went on his show and further explained that ..."
+**[00:31:22](/episodes/ep-vwG1juDCQZQ.md#ent-person-matt-walsh-t-00-30-42)**
+> "...his is one of the things that Matt Walsh recently said: that he views it as such a form of..."
 
 </details>
 
@@ -100,13 +91,22 @@ _Type: People_
 </details>
 
 <details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (2 mentions)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (5 mentions)</summary>
 
-**[00:31:22](/episodes/ep-vwG1juDCQZQ.md#ent-person-matt-walsh-t-00-30-42)**
-> "...would say, only because she could have texted me. She has my number. This is one of the things that Matt Walsh recently said: that he views it as such a form of disloyalty when you have access to an individual,..."
+**[00:13:17](/episodes/ep-2Riv3I7D0Yk.md#ent-person-matt-walsh-t-00-13-03)**
+> "...? Usually reserved to a visceral response to something that you have seen and in the moment, right? Matt Walsh—actually, we're prepping the show—I said I will guarantee you that when that footage got dropped, w..."
 
-**[00:31:22](/episodes/ep-vwG1juDCQZQ.md#ent-person-matt-walsh-t-00-30-42)**
-> "...his is one of the things that Matt Walsh recently said: that he views it as such a form of..."
+**[00:14:04](/episodes/ep-2Riv3I7D0Yk.md#ent-person-matt-walsh-t-00-13-45)**
+> "...new. We've tried compassion and restorative justice, and this is the result. It was inevitable." So Matt Walsh then went on his show and further explained that already contextualized tweet, and he explained how..."
+
+**[00:13:17](/episodes/ep-2Riv3I7D0Yk.md#ent-person-matt-walsh-t-00-13-03)**
+> "...een and in the moment, right? Matt Walsh—actually, we're prepping the show—I said I will g..."
+
+**[00:13:17](/episodes/ep-2Riv3I7D0Yk.md#ent-person-matt-walsh-t-00-13-03)**
+> "...ember 5th, four days earlier, Matt Walsh would have tweeted"
+
+**[00:14:04](/episodes/ep-2Riv3I7D0Yk.md#ent-person-matt-walsh-t-00-13-45)**
+> "So Matt Walsh then went on his show and further explained that ..."
 
 </details>
 

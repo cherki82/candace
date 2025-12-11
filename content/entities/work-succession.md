@@ -1,11 +1,11 @@
 ---
 title: "Succession"
-description: "Succession (Work) - 24 mentions"
+description: "Succession (Works & Media) - 24 mentions"
 id: "work-succession"
 type: "WORK"
 ---
 
-_Type: Work_
+_Type: Works & Media_
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -13,13 +13,13 @@ _Type: Work_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
 
-**[00:01:04](/episodes/ep-5autG89PW6w.md#ent-work-succession-t-00-00-39)**
-> "... sister called me this morning, and she was like, "Candace, your podcast right now is like the show Succession on HBO." You guys know this show, which is about how all of the heirs are supposed to be kind of fa..."
+**[00:43:11](/episodes/ep-SKGUzGHymcI.md#ent-work-succession-t-00-42-54)**
+> "...Israel or what could be interpreted as anti-Israel rhetoric. Anyways, let's watch Tim Pool in quick succession. That moment before Charlie (Charlie Kirk) was murdered, there was a path that we were on that was ..."
 
-**[00:01:04](/episodes/ep-5autG89PW6w.md#ent-work-succession-t-00-00-39)**
-> "...st right now is like the show Succession on HBO.""
+**[00:43:11](/episodes/ep-SKGUzGHymcI.md#ent-work-succession-t-00-42-54)**
+> "...watch Tim (Tim Pool) in quick succession."
 
 </details>
 
@@ -52,13 +52,13 @@ _Type: Work_
 </details>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
 
-**[00:43:11](/episodes/ep-SKGUzGHymcI.md#ent-work-succession-t-00-42-54)**
-> "...Israel or what could be interpreted as anti-Israel rhetoric. Anyways, let's watch Tim Pool in quick succession. That moment before Charlie (Charlie Kirk) was murdered, there was a path that we were on that was ..."
+**[00:43:55](/episodes/ep-iHav0PPzUz8.md#ent-work-succession-t-00-43-28)**
+> "...id his robe, his armor, and other symbols of rank—an act that has been interpreted as a transfer of succession. Jonathan repeatedly protected David from his father, Saul—warning him of the king's intentions to ..."
 
-**[00:43:11](/episodes/ep-SKGUzGHymcI.md#ent-work-succession-t-00-42-54)**
-> "...watch Tim (Tim Pool) in quick succession."
+**[00:43:55](/episodes/ep-iHav0PPzUz8.md#ent-work-succession-t-00-43-28)**
+> "... interpreted as a transfer of succession."
 
 </details>
 
@@ -104,13 +104,13 @@ _Type: Work_
 </details>
 
 <details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
 
-**[00:43:55](/episodes/ep-iHav0PPzUz8.md#ent-work-succession-t-00-43-28)**
-> "...id his robe, his armor, and other symbols of rank—an act that has been interpreted as a transfer of succession. Jonathan repeatedly protected David from his father, Saul—warning him of the king's intentions to ..."
+**[00:01:04](/episodes/ep-5autG89PW6w.md#ent-work-succession-t-00-00-39)**
+> "... sister called me this morning, and she was like, "Candace, your podcast right now is like the show Succession on HBO." You guys know this show, which is about how all of the heirs are supposed to be kind of fa..."
 
-**[00:43:55](/episodes/ep-iHav0PPzUz8.md#ent-work-succession-t-00-43-28)**
-> "... interpreted as a transfer of succession."
+**[00:01:04](/episodes/ep-5autG89PW6w.md#ent-work-succession-t-00-00-39)**
+> "...st right now is like the show Succession on HBO.""
 
 </details>
 

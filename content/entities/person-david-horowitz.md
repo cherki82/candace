@@ -24,6 +24,17 @@ _Type: People_
 </details>
 
 <details>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
+
+**[00:09:22](/episodes/ep-YFmRH8p5lt0.md#t-00-08-56)**
+> "... Veritas, and he and Charlie (Charlie Kirk) and myself all met at the same time in November at that David Horowitz Freedom Center event that I was telling you about. James O'Keefe was really young. So we all kind o..."
+
+**[00:09:22](/episodes/ep-YFmRH8p5lt0.md#t-00-08-56)**
+> "at that David Horowitz Freedom Center event that I was telling you about..."
+
+</details>
+
+<details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3 mentions)</summary>
 
 **[00:11:30](/episodes/ep-Cq7nj9rxPdo.md#ent-person-david-horowitz-t-00-11-30)**
@@ -34,17 +45,6 @@ _Type: People_
 
 **[00:11:30](/episodes/ep-Cq7nj9rxPdo.md#ent-person-david-horowitz-t-00-11-30)**
 > "... Kanye's people, I heard from David Horowitz of Freedom Center."
-
-</details>
-
-<details>
-<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
-
-**[00:09:22](/episodes/ep-YFmRH8p5lt0.md#t-00-08-56)**
-> "... Veritas, and he and Charlie (Charlie Kirk) and myself all met at the same time in November at that David Horowitz Freedom Center event that I was telling you about. James O'Keefe was really young. So we all kind o..."
-
-**[00:09:22](/episodes/ep-YFmRH8p5lt0.md#t-00-08-56)**
-> "at that David Horowitz Freedom Center event that I was telling you about..."
 
 </details>
 

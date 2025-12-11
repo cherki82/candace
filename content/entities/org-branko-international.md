@@ -70,7 +70,7 @@ _Type: Organizations_
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2)</summary>
 
 - [00:13:46](/episodes/ep-Kmt6HgRjckU.md#t-00-13-24) (Claim) **Candace Owens**: ["During the French elections dating back to 1999, it was discovered tha..."](/statements/statement-60d7c6a114d4.md)
-  - Also about: [France](/entities/gpe-france.md), [Angola](/entities/gpe-angola.md), [Angola Gate](/entities/concept-angola-gate.md)
+  - Also about: [France](/entities/gpe-france.md), [Angola](/entities/gpe-angola.md), [Angolagate scandal](/entities/event-angola-gate.md)
 
 - [00:14:10](/episodes/ep-Kmt6HgRjckU.md#t-00-14-05) (Claim) **Candace Owens**: ["Branko International is run by Arkady Gaidemak. He is Israeli, initial..."](/statements/statement-6f2c0ea955bb.md)
   - Also about: [Arkady Gaidemak](/entities/person-arkady-gaidemak.md), [Pierre Falcone](/entities/person-pierre-falcone.md)

@@ -28,22 +28,101 @@ _Type: People_
 </details>
 
 <details>
-<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (5 mentions)</summary>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (2 mentions)</summary>
 
-**[00:08:25](/episodes/ep-UBkFkg4UNY8.md#ent-person-phil-lyman-t-00-07-53)**
-> "...itical connection. That was the reason it happened. Her sister ran as lieutenant governor alongside Phil Lyman, and actually Good Morning America reached out to Phil Lyman, and somehow that is how—instead of he..."
+**[00:27:27](/episodes/ep-pc3pxRyNFZk.md#ent-person-phil-lyman-t-00-27-06)**
+> "...ing to make us believe that this is what we heard." And it's interesting also because remember when Phil Lyman gave us his footage and he walks outside of that building? The two now infamous goth girls were not..."
 
-**[00:08:30](/episodes/ep-UBkFkg4UNY8.md#ent-person-phil-lyman-t-00-07-53)**
-> "...r ran as lieutenant governor alongside Phil Lyman, and actually Good Morning America reached out to Phil Lyman, and somehow that is how—instead of her, Phil Lyman or her sister—they ended up with her sister's c..."
+**[00:27:27](/episodes/ep-pc3pxRyNFZk.md#ent-person-phil-lyman-t-00-27-06)**
+> "...ng also because remember when Phil Lyman gave us his footage and he walks outside of that ..."
 
-**[00:08:25](/episodes/ep-UBkFkg4UNY8.md#ent-person-phil-lyman-t-00-07-53)**
-> "...lieutenant governor alongside Phil Lyman, and actually Good Morning America"
+</details>
 
-**[00:08:30](/episodes/ep-UBkFkg4UNY8.md#ent-person-phil-lyman-t-00-07-53)**
-> "reached out to Phil Lyman, and somehow that is how—instead of her, Phil Lym..."
+<details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (6 mentions)</summary>
 
-**[00:08:30](/episodes/ep-UBkFkg4UNY8.md#ent-person-phil-lyman-t-00-07-53)**
-> "...w that is how—instead of her, Phil Lyman or her sister—they ended up with her sister's chi..."
+**[00:21:00](/episodes/ep-t1YtLS1n8Vs.md#ent-person-phil-lyman-t-00-20-20)**
+> "...owing, our witness tree. We've got Tiffany Barker, of course; she's with the nieces. Her sister was Phil Lyman's running mate. She spoke to Good Morning America in the wee hours of the morning after. Phil Lyman, ..."
+
+**[00:23:57](/episodes/ep-t1YtLS1n8Vs.md#ent-person-phil-lyman-t-00-23-19)**
+> "... not gonna speak to anybody else about that.” Same for Grinnell owner; we covered this. He was with Phil Lyman's uncle, cousin—I mean nephew, cousin. He, we learned, was a software engineer from Austria. So Austr..."
+
+**[00:21:08](/episodes/ep-t1YtLS1n8Vs.md#ent-person-phil-lyman-t-00-21-03)**
+> "...Phil Lyman's running mate. She spoke to Good Morning America in the wee hours of the morning after. Phil Lyman, of course, our guy; he really does not like me at all. He wants me to know that he thinks I'm shad..."
+
+**[00:21:00](/episodes/ep-t1YtLS1n8Vs.md#ent-person-phil-lyman-t-00-20-20)**
+> "Her sister was Phil Lyman's running mate."
+
+**[00:21:08](/episodes/ep-t1YtLS1n8Vs.md#ent-person-phil-lyman-t-00-21-03)**
+> "Phil Lyman, of course, our guy; he really does not like me a..."
+
+**[00:23:57](/episodes/ep-t1YtLS1n8Vs.md#ent-person-phil-lyman-t-00-23-19)**
+> "He was with Phil Lyman's uncle, cousin—I mean nephew, cousin."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (20 mentions)</summary>
+
+**[00:03:05](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-02-54)**
+> "... help you guys with that information. Also, another thing that I came across, and this is regarding Phil Lyman's campaign website. You guys were asking me if we came across that. Yes, I did come across that, and ..."
+
+**[00:03:35](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-02-54)**
+> "... we were aware that George Zin is one of just 20 people that is a featured endorsement. He endorses Phil Lyman's character. You can see that here. George Zin writes, "Rare to find a more caring man with uncomprom..."
+
+**[00:04:34](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-04-22)**
+> "...politics. Take from that what you will, meaning that he shows up to a lot of events. But of course, Phil Lyman's people would have been controlling that website, certainly should have been aware of his erratic ch..."
+
+**[00:03:37](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-03-37)**
+> "..., "Rare to find a more caring man with uncompromising goals to make Utah great for generations than Phil Lyman, not a politician who can be pampered. Phil has a knowledge of urban and rural Utah from every corn..."
+
+**[00:07:42](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-07-42)**
+> "...ronger hunch about things. We'll jump back in here regarding Skyler Broderick, who is, according to Phil Lyman, a cousin, who he refers to Phil as his uncle across interviews. Doesn't matter. They're family mem..."
+
+**[00:09:31](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-09-08)**
+> "... started tingling. I'm like, okay, this is a lot of Lymans now. I want to be very clear and fair to Phil Lyman. He has been forthcoming about the fact that his family owned that property. Like, they own everyth..."
+
+**[00:09:49](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-09-49)**
+> "...reage from his family for that university. But I did feel that if that is the case, obviously, then Phil Lyman would in theory be able to access that footage, right? Be able to speak to his family members. And ..."
+
+**[00:14:29](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-14-03)**
+> "...? What's she look like? How old is she? I obviously did the sensible thing, right? I reached out to Phil Lyman because it's his family. And I asked him whether or not he would be willing to track down this foot..."
+
+**[00:16:47](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-16-14)**
+> "...t, please let me know. I am going to try again to reach out to this family since I don't think that Phil Lyman wants to assist me. He doesn't like me. That's fine. I wonder if he likes truth. If he likes trying..."
+
+**[00:17:49](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-17-40)**
+> "...m Austria, and then we're going, who's this goth kid that Phil has been clear he does not know him? Phil Lyman does not know this individual. He could not help identify him. I told you it was unusual that our i..."
+
+**[00:03:05](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-02-54)**
+> "...across, and this is regarding Phil Lyman's campaign website."
+
+**[00:03:35](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-02-54)**
+> "He endorses Phil Lyman's character."
+
+**[00:03:37](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-03-37)**
+> "...ah great for generations than Phil Lyman, not a politician who can be pampered."
+
+**[00:04:34](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-04-22)**
+> "...lot of events. But of course, Phil Lyman's people would have been controlling that website, ..."
+
+**[00:07:42](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-07-42)**
+> "...oderick, who is, according to Phil Lyman, a cousin, who he refers to Phil as his uncle acr..."
+
+**[00:09:31](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-09-08)**
+> "... to be very clear and fair to Phil Lyman."
+
+**[00:09:49](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-09-49)**
+> "... is the case, obviously, then Phil Lyman"
+
+**[00:14:29](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-14-03)**
+> "I reached out to Phil Lyman because it's his family."
+
+**[00:16:47](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-16-14)**
+> "...mily since I don't think that Phil Lyman wants to assist me."
+
+**[00:17:49](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-17-40)**
+> "Phil Lyman does not know this individual."
 
 </details>
 
@@ -298,78 +377,22 @@ _Type: People_
 </details>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (20 mentions)</summary>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (5 mentions)</summary>
 
-**[00:03:05](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-02-54)**
-> "... help you guys with that information. Also, another thing that I came across, and this is regarding Phil Lyman's campaign website. You guys were asking me if we came across that. Yes, I did come across that, and ..."
+**[00:08:25](/episodes/ep-UBkFkg4UNY8.md#ent-person-phil-lyman-t-00-07-53)**
+> "...itical connection. That was the reason it happened. Her sister ran as lieutenant governor alongside Phil Lyman, and actually Good Morning America reached out to Phil Lyman, and somehow that is how—instead of he..."
 
-**[00:03:35](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-02-54)**
-> "... we were aware that George Zin is one of just 20 people that is a featured endorsement. He endorses Phil Lyman's character. You can see that here. George Zin writes, "Rare to find a more caring man with uncomprom..."
+**[00:08:30](/episodes/ep-UBkFkg4UNY8.md#ent-person-phil-lyman-t-00-07-53)**
+> "...r ran as lieutenant governor alongside Phil Lyman, and actually Good Morning America reached out to Phil Lyman, and somehow that is how—instead of her, Phil Lyman or her sister—they ended up with her sister's c..."
 
-**[00:04:34](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-04-22)**
-> "...politics. Take from that what you will, meaning that he shows up to a lot of events. But of course, Phil Lyman's people would have been controlling that website, certainly should have been aware of his erratic ch..."
+**[00:08:25](/episodes/ep-UBkFkg4UNY8.md#ent-person-phil-lyman-t-00-07-53)**
+> "...lieutenant governor alongside Phil Lyman, and actually Good Morning America"
 
-**[00:03:37](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-03-37)**
-> "..., "Rare to find a more caring man with uncompromising goals to make Utah great for generations than Phil Lyman, not a politician who can be pampered. Phil has a knowledge of urban and rural Utah from every corn..."
+**[00:08:30](/episodes/ep-UBkFkg4UNY8.md#ent-person-phil-lyman-t-00-07-53)**
+> "reached out to Phil Lyman, and somehow that is how—instead of her, Phil Lym..."
 
-**[00:07:42](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-07-42)**
-> "...ronger hunch about things. We'll jump back in here regarding Skyler Broderick, who is, according to Phil Lyman, a cousin, who he refers to Phil as his uncle across interviews. Doesn't matter. They're family mem..."
-
-**[00:09:31](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-09-08)**
-> "... started tingling. I'm like, okay, this is a lot of Lymans now. I want to be very clear and fair to Phil Lyman. He has been forthcoming about the fact that his family owned that property. Like, they own everyth..."
-
-**[00:09:49](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-09-49)**
-> "...reage from his family for that university. But I did feel that if that is the case, obviously, then Phil Lyman would in theory be able to access that footage, right? Be able to speak to his family members. And ..."
-
-**[00:14:29](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-14-03)**
-> "...? What's she look like? How old is she? I obviously did the sensible thing, right? I reached out to Phil Lyman because it's his family. And I asked him whether or not he would be willing to track down this foot..."
-
-**[00:16:47](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-16-14)**
-> "...t, please let me know. I am going to try again to reach out to this family since I don't think that Phil Lyman wants to assist me. He doesn't like me. That's fine. I wonder if he likes truth. If he likes trying..."
-
-**[00:17:49](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-17-40)**
-> "...m Austria, and then we're going, who's this goth kid that Phil has been clear he does not know him? Phil Lyman does not know this individual. He could not help identify him. I told you it was unusual that our i..."
-
-**[00:03:05](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-02-54)**
-> "...across, and this is regarding Phil Lyman's campaign website."
-
-**[00:03:35](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-02-54)**
-> "He endorses Phil Lyman's character."
-
-**[00:03:37](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-03-37)**
-> "...ah great for generations than Phil Lyman, not a politician who can be pampered."
-
-**[00:04:34](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-04-22)**
-> "...lot of events. But of course, Phil Lyman's people would have been controlling that website, ..."
-
-**[00:07:42](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-07-42)**
-> "...oderick, who is, according to Phil Lyman, a cousin, who he refers to Phil as his uncle acr..."
-
-**[00:09:31](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-09-08)**
-> "... to be very clear and fair to Phil Lyman."
-
-**[00:09:49](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-09-49)**
-> "... is the case, obviously, then Phil Lyman"
-
-**[00:14:29](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-14-03)**
-> "I reached out to Phil Lyman because it's his family."
-
-**[00:16:47](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-16-14)**
-> "...mily since I don't think that Phil Lyman wants to assist me."
-
-**[00:17:49](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-17-40)**
-> "Phil Lyman does not know this individual."
-
-</details>
-
-<details>
-<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (2 mentions)</summary>
-
-**[00:27:27](/episodes/ep-pc3pxRyNFZk.md#ent-person-phil-lyman-t-00-27-06)**
-> "...ing to make us believe that this is what we heard." And it's interesting also because remember when Phil Lyman gave us his footage and he walks outside of that building? The two now infamous goth girls were not..."
-
-**[00:27:27](/episodes/ep-pc3pxRyNFZk.md#ent-person-phil-lyman-t-00-27-06)**
-> "...ng also because remember when Phil Lyman gave us his footage and he walks outside of that ..."
+**[00:08:30](/episodes/ep-UBkFkg4UNY8.md#ent-person-phil-lyman-t-00-07-53)**
+> "...w that is how—instead of her, Phil Lyman or her sister—they ended up with her sister's chi..."
 
 </details>
 
@@ -381,29 +404,6 @@ _Type: People_
 
 **[01:12:21](/episodes/ep-q7f8r-THr84.md#ent-person-phil-lyman-t-01-11-54)**
 > "Reach out to Phil Lyman, who ran against Cox and was chosen as a Republic..."
-
-</details>
-
-<details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (6 mentions)</summary>
-
-**[00:21:00](/episodes/ep-t1YtLS1n8Vs.md#ent-person-phil-lyman-t-00-20-20)**
-> "...owing, our witness tree. We've got Tiffany Barker, of course; she's with the nieces. Her sister was Phil Lyman's running mate. She spoke to Good Morning America in the wee hours of the morning after. Phil Lyman, ..."
-
-**[00:23:57](/episodes/ep-t1YtLS1n8Vs.md#ent-person-phil-lyman-t-00-23-19)**
-> "... not gonna speak to anybody else about that.” Same for Grinnell owner; we covered this. He was with Phil Lyman's uncle, cousin—I mean nephew, cousin. He, we learned, was a software engineer from Austria. So Austr..."
-
-**[00:21:08](/episodes/ep-t1YtLS1n8Vs.md#ent-person-phil-lyman-t-00-21-03)**
-> "...Phil Lyman's running mate. She spoke to Good Morning America in the wee hours of the morning after. Phil Lyman, of course, our guy; he really does not like me at all. He wants me to know that he thinks I'm shad..."
-
-**[00:21:00](/episodes/ep-t1YtLS1n8Vs.md#ent-person-phil-lyman-t-00-20-20)**
-> "Her sister was Phil Lyman's running mate."
-
-**[00:21:08](/episodes/ep-t1YtLS1n8Vs.md#ent-person-phil-lyman-t-00-21-03)**
-> "Phil Lyman, of course, our guy; he really does not like me a..."
-
-**[00:23:57](/episodes/ep-t1YtLS1n8Vs.md#ent-person-phil-lyman-t-00-23-19)**
-> "He was with Phil Lyman's uncle, cousin—I mean nephew, cousin."
 
 </details>
 

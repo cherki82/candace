@@ -13,6 +13,17 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
+
+**[00:58:00](/episodes/ep-yAIb-NuUh_U.md#ent-org-berkeley-t-00-57-52)**
+> "...rying to impart common sense to his radicalized niece who just came back from her first semester at Berkeley." "I hope they release that full interview because she was really something— very patronizing, eyes..."
+
+**[00:58:00](/episodes/ep-yAIb-NuUh_U.md#ent-org-berkeley-t-00-57-52)**
+> "...ck from her first semester at Berkeley.""
+
+</details>
+
+<details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
 
 **[00:06:14](/episodes/ep-LATnak75Si0.md#ent-org-berkeley-t-00-05-38)**
@@ -31,17 +42,6 @@ _Type: Organizations_
 
 **[00:05:36](/episodes/ep-_dRaEO47-co.md#ent-org-berkeley-t-00-04-56)**
 > "...o Stanford, we're going to do Berkeley."
-
-</details>
-
-<details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
-
-**[00:58:00](/episodes/ep-yAIb-NuUh_U.md#ent-org-berkeley-t-00-57-52)**
-> "...rying to impart common sense to his radicalized niece who just came back from her first semester at Berkeley." "I hope they release that full interview because she was really something— very patronizing, eyes..."
-
-**[00:58:00](/episodes/ep-yAIb-NuUh_U.md#ent-org-berkeley-t-00-57-52)**
-> "...ck from her first semester at Berkeley.""
 
 </details>
 

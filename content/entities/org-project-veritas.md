@@ -13,6 +13,17 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
+
+**[00:38:14](/episodes/ep-his-JBjlkh8.md#ent-org-project-veritas-t-00-37-59)**
+> "...ependent, more trusted journalists. And some of them are, okay. James O'Keefe—obviously formerly of Project Veritas—he's very much trusted. Matt Gaetz—I like him very much. But some of the people that they let in ar..."
+
+**[00:38:14](/episodes/ep-his-JBjlkh8.md#ent-org-project-veritas-t-00-37-59)**
+> "...O'Keefe—obviously formerly of Project Veritas—he's very much trusted."
+
+</details>
+
+<details>
 <summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (4 mentions)</summary>
 
 **[00:09:07](/episodes/ep-YFmRH8p5lt0.md#ent-org-project-veritas-t-00-08-56)**
@@ -26,17 +37,6 @@ _Type: Organizations_
 
 **[00:09:34](/episodes/ep-YFmRH8p5lt0.md#ent-org-project-veritas-t-00-08-56)**
 > "...ast, is a hostile takeover of Project Veritas."
-
-</details>
-
-<details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
-
-**[00:38:14](/episodes/ep-his-JBjlkh8.md#ent-org-project-veritas-t-00-37-59)**
-> "...ependent, more trusted journalists. And some of them are, okay. James O'Keefe—obviously formerly of Project Veritas—he's very much trusted. Matt Gaetz—I like him very much. But some of the people that they let in ar..."
-
-**[00:38:14](/episodes/ep-his-JBjlkh8.md#ent-org-project-veritas-t-00-37-59)**
-> "...O'Keefe—obviously formerly of Project Veritas—he's very much trusted."
 
 </details>
 

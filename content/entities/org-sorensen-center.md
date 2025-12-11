@@ -18,6 +18,23 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (4 mentions)</summary>
+
+**[00:34:07](/episodes/ep-sImMM04XdWY.md#ent-org-sorensen-center-t-00-33-57)**
+> "...oup. There is a student roof access pretty close to where CK will be set up at the Utah Valley, the Sorensen Center. It has a couple of staircases that go up to walkways on the roofs." He comes back— for edification..."
+
+**[00:34:21](/episodes/ep-sImMM04XdWY.md#ent-org-sorensen-center-t-00-33-57)**
+> "...as a couple of staircases that go up to walkways on the roofs." He comes back— for edification, the Sorensen Center was the building in front of the Locke Center— and so he comes back, and he says, "You want access ..."
+
+**[00:34:07](/episodes/ep-sImMM04XdWY.md#ent-org-sorensen-center-t-00-33-57)**
+> "...et up at the Utah Valley, the Sorensen Center. It has a couple of staircases that go up to walk..."
+
+**[00:34:21](/episodes/ep-sImMM04XdWY.md#ent-org-sorensen-center-t-00-33-57)**
+> "for edification, the Sorensen Center was the building in front of the Locke Center—"
+
+</details>
+
+<details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (5 mentions)</summary>
 
 **[00:25:18](/episodes/ep-581dILVcEE4.md#ent-org-sorensen-center-t-00-25-08)**
@@ -51,23 +68,6 @@ _Type: Organizations_
 
 **[00:16:17](/episodes/ep-YA1FxrDWNIo.md#ent-org-sorensen-center-t-00-15-56)**
 > "...pe I'm saying that right: the Sorensen Building."
-
-</details>
-
-<details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (4 mentions)</summary>
-
-**[00:34:07](/episodes/ep-sImMM04XdWY.md#ent-org-sorensen-center-t-00-33-57)**
-> "...oup. There is a student roof access pretty close to where CK will be set up at the Utah Valley, the Sorensen Center. It has a couple of staircases that go up to walkways on the roofs." He comes back— for edification..."
-
-**[00:34:21](/episodes/ep-sImMM04XdWY.md#ent-org-sorensen-center-t-00-33-57)**
-> "...as a couple of staircases that go up to walkways on the roofs." He comes back— for edification, the Sorensen Center was the building in front of the Locke Center— and so he comes back, and he says, "You want access ..."
-
-**[00:34:07](/episodes/ep-sImMM04XdWY.md#ent-org-sorensen-center-t-00-33-57)**
-> "...et up at the Utah Valley, the Sorensen Center. It has a couple of staircases that go up to walk..."
-
-**[00:34:21](/episodes/ep-sImMM04XdWY.md#ent-org-sorensen-center-t-00-33-57)**
-> "for edification, the Sorensen Center was the building in front of the Locke Center—"
 
 </details>
 

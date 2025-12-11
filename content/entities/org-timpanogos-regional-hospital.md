@@ -17,20 +17,6 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3 mentions)</summary>
-
-**[00:32:50](/episodes/ep-Cq7nj9rxPdo.md#ent-org-timpanogos-regional-hospital-t-00-32-11)**
-> "...oing these episodes—we had received a flurry of tips from people telling us that Charlie was not at Timpanogos Hospital but was at UVU Hospital. And I was like—remember there was this whole thing like, "Why did they go ..."
-
-**[00:31:50](/episodes/ep-Cq7nj9rxPdo.md#ent-org-timpanogos-regional-hospital-t-00-32-11)**
-> "Charlie was not at Timpanogos Hospital"
-
-**[00:32:50](/episodes/ep-Cq7nj9rxPdo.md#ent-org-timpanogos-regional-hospital-t-00-32-11)**
-> "...ng us that Charlie was not at Timpanogos Hospital but was at UVU Hospital."
-
-</details>
-
-<details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (5 mentions)</summary>
 
 **[00:30:04](/episodes/ep-MUA9ebCF4Ow.md#ent-org-timpanogos-regional-hospital-t-00-29-28)**
@@ -51,17 +37,6 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
-
-**[00:30:44](/episodes/ep-YA1FxrDWNIo.md#ent-org-timpanogos-regional-hospital-t-00-30-44)**
-> "...nd was further away and was also less equipped for the trauma that he suffered—that he was taken to Timpanogos Regional Hospital. And also something new is that that hospital had just announced that they had a brand-new CEO and ..."
-
-**[00:30:44](/episodes/ep-YA1FxrDWNIo.md#ent-org-timpanogos-regional-hospital-t-00-30-44)**
-> "...suffered—that he was taken to Timpanogos Regional Hospital."
-
-</details>
-
-<details>
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (5 mentions)</summary>
 
 **[00:02:01](/episodes/ep-YaZfwLQ7vrI.md#ent-org-timpanogos-regional-hospital-t-00-02-01)**
@@ -78,6 +53,31 @@ _Type: Organizations_
 
 **[00:02:11](/episodes/ep-YaZfwLQ7vrI.md#ent-org-timpanogos-regional-hospital-t-00-02-01)**
 > "Okay, Timpanogos Hospital. Remember, this is the hospital that it was quite..."
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3 mentions)</summary>
+
+**[00:32:50](/episodes/ep-Cq7nj9rxPdo.md#ent-org-timpanogos-regional-hospital-t-00-32-11)**
+> "...oing these episodes—we had received a flurry of tips from people telling us that Charlie was not at Timpanogos Hospital but was at UVU Hospital. And I was like—remember there was this whole thing like, "Why did they go ..."
+
+**[00:31:50](/episodes/ep-Cq7nj9rxPdo.md#ent-org-timpanogos-regional-hospital-t-00-32-11)**
+> "Charlie was not at Timpanogos Hospital"
+
+**[00:32:50](/episodes/ep-Cq7nj9rxPdo.md#ent-org-timpanogos-regional-hospital-t-00-32-11)**
+> "...ng us that Charlie was not at Timpanogos Hospital but was at UVU Hospital."
+
+</details>
+
+<details>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
+
+**[00:30:44](/episodes/ep-YA1FxrDWNIo.md#ent-org-timpanogos-regional-hospital-t-00-30-44)**
+> "...nd was further away and was also less equipped for the trauma that he suffered—that he was taken to Timpanogos Regional Hospital. And also something new is that that hospital had just announced that they had a brand-new CEO and ..."
+
+**[00:30:44](/episodes/ep-YA1FxrDWNIo.md#ent-org-timpanogos-regional-hospital-t-00-30-44)**
+> "...suffered—that he was taken to Timpanogos Regional Hospital."
 
 </details>
 
@@ -110,18 +110,18 @@ _Type: Organizations_
 <summary><strong class="section-title">Statements about Timpanogos Regional Hospital (2)</strong></summary>
 
 <details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1)</summary>
-
-- [00:30:31](/episodes/ep-YA1FxrDWNIo.md#t-00-30-08) (Claim) **Candace Owens**: ["Charlie Kirk was taken to Timpanogos Regional Hospital, a trauma III c..."](/statements/statement-efc70119a7d4.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Zenger](/entities/person-andrew-zenger.md)
-
-</details>
-
-<details>
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1)</summary>
 
 - [00:02:01](/episodes/ep-YaZfwLQ7vrI.md#t-00-01-21) (Claim) **Candace Owens**: ["The feds immediately seized the footage at Timpanogos Hospital on the ..."](/statements/statement-92fe542e0525.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1)</summary>
+
+- [00:30:31](/episodes/ep-YA1FxrDWNIo.md#t-00-30-08) (Claim) **Candace Owens**: ["Charlie Kirk was taken to Timpanogos Regional Hospital, a trauma III c..."](/statements/statement-efc70119a7d4.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Zenger](/entities/person-andrew-zenger.md)
 
 </details>
 

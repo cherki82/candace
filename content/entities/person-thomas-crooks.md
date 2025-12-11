@@ -18,10 +18,10 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
 
-**[01:12:12](/episodes/ep-2Riv3I7D0Yk.md#ent-person-thomas-crooks-t-01-11-36)**
-> "...t, honest voice in a choir of crooks and liars."
+**[00:51:40](/episodes/ep-tB5SXXmd9vU.md#ent-person-thomas-crooks-t-00-51-40)**
+> "...hat run it, the liars and the crooks that run the West,"
 
 </details>
 
@@ -59,6 +59,14 @@ _Type: People_
 </details>
 
 <details>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1 mentions)</summary>
+
+**[01:12:12](/episodes/ep-2Riv3I7D0Yk.md#ent-person-thomas-crooks-t-01-11-36)**
+> "...t, honest voice in a choir of crooks and liars."
+
+</details>
+
+<details>
 <summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (6 mentions)</summary>
 
 **[00:00:36](/episodes/ep-QZWSsq8ZWzw.md#t-00-00-01)**
@@ -78,14 +86,6 @@ _Type: People_
 
 **[00:22:05](/episodes/ep-QZWSsq8ZWzw.md#t-00-21-55)**
 > "The reality of Thomas Matthew Crooks is going to be a story that we should get familia..."
-
-</details>
-
-<details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
-
-**[00:51:40](/episodes/ep-tB5SXXmd9vU.md#ent-person-thomas-crooks-t-00-51-40)**
-> "...hat run it, the liars and the crooks that run the West,"
 
 </details>
 

@@ -46,14 +46,6 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Affiliated With (1)</summary>
-
-- **[AIPAC](/entities/org-aipac.md)**
-  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:30:03](/episodes/ep-aDlhjfW6hz8.md#t-00-30-01): "Victoria Churchill... she has a connection to AIPAC"
-
-</details>
-
-<details>
 <summary>Criticized (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -70,10 +62,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
-
-- **[AIPAC](/entities/org-aipac.md)** affiliated with this
-  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:30:03](/episodes/ep-aDlhjfW6hz8.md#t-00-30-01)
+<summary>Referenced By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
   - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:24:35](/episodes/ep-aDlhjfW6hz8.md#t-00-24-00)

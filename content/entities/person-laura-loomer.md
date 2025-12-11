@@ -13,30 +13,25 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (6 mentions)</summary>
 
-**[01:15:04](/episodes/ep-2Riv3I7D0Yk.md#ent-person-laura-loomer-t-01-15-04)**
-> "...n our book club. You can buy our—we don't know, no, but we know—brand stuff. Join us in prison when Laura Loomer sends us for writing CIA in parody. And it's a parody because we don't want to be in the CIA. We th..."
+**[00:38:36](/episodes/ep-his-JBjlkh8.md#ent-person-laura-loomer-t-00-37-59)**
+> "...rder—without asking any questions. And so that's why they're being let in, most notably, obviously, Laura Loomer. She's totally nutty. And I don't say that in a way of like—it's an ad hominem attack. I mean, like..."
 
-**[01:15:04](/episodes/ep-2Riv3I7D0Yk.md#ent-person-laura-loomer-t-01-15-04)**
-> "Join us in prison when Laura Loomer sends us for writing CIA in parody."
+**[00:38:47](/episodes/ep-his-JBjlkh8.md#ent-person-laura-loomer-t-00-38-41)**
+> "...ay that in a way of like—it's an ad hominem attack. I mean, like she has psychotic issues. Allowing Laura Loomer into a national defense complex is actually sort of just an indication of just how committed they a..."
 
-</details>
+**[00:38:51](/episodes/ep-his-JBjlkh8.md#ent-person-laura-loomer-t-00-38-41)**
+> "...d they are to laundering the reputations of anyone as long as they say, "I support Israel," because Laura Loomer is quite literally so deranged that she once handcuffed herself to the Twitter headquarters because..."
 
-<details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (4 mentions)</summary>
+**[00:38:36](/episodes/ep-his-JBjlkh8.md#ent-person-laura-loomer-t-00-37-59)**
+> "... in, most notably, obviously, Laura Loomer."
 
-**[00:09:26](/episodes/ep-5autG89PW6w.md#ent-person-laura-loomer-t-00-09-04)**
-> "...allow questions. We even allow diagnoses. We're chill. We're on the side of truth. We are so chill. Laura Loomer, who is legally just—you know—not allowed to own a gun because she's a literal lunatic, had the ner..."
+**[00:38:47](/episodes/ep-his-JBjlkh8.md#ent-person-laura-loomer-t-00-38-41)**
+> "Allowing Laura Loomer into a national defense complex"
 
-**[00:09:37](/episodes/ep-5autG89PW6w.md#ent-person-laura-loomer-t-00-09-04)**
-> "...ral lunatic, had the nerve to post this about me. When somebody called her out, Morgan Ariel said, "Laura Loomer hasn't made a single post about Candace Owens reporting on Charlie (Charlie Kirk)'s group messages...."
-
-**[00:09:26](/episodes/ep-5autG89PW6w.md#ent-person-laura-loomer-t-00-09-04)**
-> "Laura Loomer,"
-
-**[00:09:37](/episodes/ep-5autG89PW6w.md#ent-person-laura-loomer-t-00-09-04)**
-> "... her out, Morgan Ariel said, "Laura Loomer hasn't made a single post about Candace Owens rep..."
+**[00:38:51](/episodes/ep-his-JBjlkh8.md#ent-person-laura-loomer-t-00-38-41)**
+> "..., "I support Israel," because Laura Loomer is quite literally so deranged that she once hand..."
 
 </details>
 
@@ -76,6 +71,34 @@ _Type: People_
 </details>
 
 <details>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
+
+**[01:15:04](/episodes/ep-2Riv3I7D0Yk.md#ent-person-laura-loomer-t-01-15-04)**
+> "...n our book club. You can buy our—we don't know, no, but we know—brand stuff. Join us in prison when Laura Loomer sends us for writing CIA in parody. And it's a parody because we don't want to be in the CIA. We th..."
+
+**[01:15:04](/episodes/ep-2Riv3I7D0Yk.md#ent-person-laura-loomer-t-01-15-04)**
+> "Join us in prison when Laura Loomer sends us for writing CIA in parody."
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (4 mentions)</summary>
+
+**[00:09:26](/episodes/ep-5autG89PW6w.md#ent-person-laura-loomer-t-00-09-04)**
+> "...allow questions. We even allow diagnoses. We're chill. We're on the side of truth. We are so chill. Laura Loomer, who is legally just—you know—not allowed to own a gun because she's a literal lunatic, had the ner..."
+
+**[00:09:37](/episodes/ep-5autG89PW6w.md#ent-person-laura-loomer-t-00-09-04)**
+> "...ral lunatic, had the nerve to post this about me. When somebody called her out, Morgan Ariel said, "Laura Loomer hasn't made a single post about Candace Owens reporting on Charlie (Charlie Kirk)'s group messages...."
+
+**[00:09:26](/episodes/ep-5autG89PW6w.md#ent-person-laura-loomer-t-00-09-04)**
+> "Laura Loomer,"
+
+**[00:09:37](/episodes/ep-5autG89PW6w.md#ent-person-laura-loomer-t-00-09-04)**
+> "... her out, Morgan Ariel said, "Laura Loomer hasn't made a single post about Candace Owens rep..."
+
+</details>
+
+<details>
 <summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
 
 **[00:42:35](/episodes/ep-YA1FxrDWNIo.md#ent-person-laura-loomer-t-00-42-16)**
@@ -83,29 +106,6 @@ _Type: People_
 
 **[00:42:35](/episodes/ep-YA1FxrDWNIo.md#ent-person-laura-loomer-t-00-42-16)**
 > "...arlie Kirk) dies—someone like Laura Loomer"
-
-</details>
-
-<details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (6 mentions)</summary>
-
-**[00:38:36](/episodes/ep-his-JBjlkh8.md#ent-person-laura-loomer-t-00-37-59)**
-> "...rder—without asking any questions. And so that's why they're being let in, most notably, obviously, Laura Loomer. She's totally nutty. And I don't say that in a way of like—it's an ad hominem attack. I mean, like..."
-
-**[00:38:47](/episodes/ep-his-JBjlkh8.md#ent-person-laura-loomer-t-00-38-41)**
-> "...ay that in a way of like—it's an ad hominem attack. I mean, like she has psychotic issues. Allowing Laura Loomer into a national defense complex is actually sort of just an indication of just how committed they a..."
-
-**[00:38:51](/episodes/ep-his-JBjlkh8.md#ent-person-laura-loomer-t-00-38-41)**
-> "...d they are to laundering the reputations of anyone as long as they say, "I support Israel," because Laura Loomer is quite literally so deranged that she once handcuffed herself to the Twitter headquarters because..."
-
-**[00:38:36](/episodes/ep-his-JBjlkh8.md#ent-person-laura-loomer-t-00-37-59)**
-> "... in, most notably, obviously, Laura Loomer."
-
-**[00:38:47](/episodes/ep-his-JBjlkh8.md#ent-person-laura-loomer-t-00-38-41)**
-> "Allowing Laura Loomer into a national defense complex"
-
-**[00:38:51](/episodes/ep-his-JBjlkh8.md#ent-person-laura-loomer-t-00-38-41)**
-> "..., "I support Israel," because Laura Loomer is quite literally so deranged that she once hand..."
 
 </details>
 
@@ -161,14 +161,6 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Affiliated With (1)</summary>
-
-- **[United States Pentagon](/entities/org-united-states-pentagon.md)**
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:38](/episodes/ep-his-JBjlkh8.md#t-00-02-58): ""So our government, the Pentagon, decided to credential her at this time.  She's a part of the new press corps that we can trust.""
-
-</details>
-
-<details>
 <summary>Criticized (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -179,10 +171,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
-
-- **[United States Pentagon](/entities/org-united-states-pentagon.md)** affiliated with this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:38](/episodes/ep-his-JBjlkh8.md#t-00-02-58)
+<summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
   - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:27:34](/episodes/ep-ja26iltROkM.md#t-00-26-58)

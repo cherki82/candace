@@ -1,11 +1,11 @@
 ---
 title: "The Thirteenth Tribe"
-description: "The Thirteenth Tribe (Work) - 1 mention"
+description: "The Thirteenth Tribe (Works & Media) - 1 mention"
 id: "work-the-thirteenth-tribe"
 type: "WORK"
 ---
 
-_Type: Work_
+_Type: Works & Media_
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

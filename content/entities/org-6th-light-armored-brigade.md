@@ -29,14 +29,6 @@ _Type: Organizations_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Affiliated With (1)</summary>
-
-- **[6th Marine Regiment](/entities/org-6th-marine-regiment.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:16:09](/episodes/ep-tB5SXXmd9vU.md#t-00-15-25): "...were integrated with U.S. Marines of the 6th Marine Regiment for a three-week training deployment..."
-
-</details>
-
-<details>
 <summary>Member Of (1)</summary>
 
 - **[French Foreign Legion](/entities/org-french-foreign-legion.md)**
@@ -45,10 +37,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
-
-- **[6th Marine Regiment](/entities/org-6th-marine-regiment.md)** affiliated with this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:16:09](/episodes/ep-tB5SXXmd9vU.md#t-00-15-25)
+<summary>Referenced By (1)</summary>
 
 - **[French Foreign Legion](/entities/org-french-foreign-legion.md)** has member this
   - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:15:59](/episodes/ep-tB5SXXmd9vU.md#t-00-15-25)

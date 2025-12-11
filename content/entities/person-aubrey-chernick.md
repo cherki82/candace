@@ -32,14 +32,6 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Married To (1)</summary>
-
-- **[Joyce Chernick](/entities/person-joyce-chernick.md)**
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:46:49](/episodes/ep-581dILVcEE4.md#t-00-46-30): "Joyce Chernick is married to Aubrey Chernick."
-
-</details>
-
-<details>
 <summary>Referenced By (1)</summary>
 
 - **[Joyce Chernick](/entities/person-joyce-chernick.md)** married to this

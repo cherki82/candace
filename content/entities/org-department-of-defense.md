@@ -19,34 +19,6 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
-
-**[00:31:53](/episodes/ep-Cq7nj9rxPdo.md#ent-org-department-of-defense-t-00-31-29)**
-> "... and they tell you, "He's a genius." Then you learn that they have—I don't know—a contract with the Department of Defense. He might just be a military-grade actor meant to lead a company, because if we all looked up and r..."
-
-**[00:31:53](/episodes/ep-Cq7nj9rxPdo.md#ent-org-department-of-defense-t-00-31-29)**
-> "...on't know—a contract with the Department of Defense."
-
-</details>
-
-<details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (4 mentions)</summary>
-
-**[00:47:23](/episodes/ep-LATnak75Si0.md#ent-org-department-of-defense-t-00-46-55)**
-> "... here; Mamdani—there's a jihadist threat; something big is coming. And the Pentagon— like where the Department of Defense is housed—the Pentagon, which was implicated in 9/11—a lot of questions about what the Pentagon was..."
-
-**[00:48:59](/episodes/ep-LATnak75Si0.md#ent-org-department-of-defense-t-00-48-57)**
-> "...that they kicked her off. I don't agree with them kicking anybody off. But you should know that our Department of Defense—for whatever reason—is signaling that she's an okay person to be in the building. That just seems l..."
-
-**[00:47:23](/episodes/ep-LATnak75Si0.md#ent-org-department-of-defense-t-00-46-55)**
-> "like where the Department of Defense is housed—the Pentagon, which was implicated in 9..."
-
-**[00:48:59](/episodes/ep-LATnak75Si0.md#ent-org-department-of-defense-t-00-48-57)**
-> "But you should know that our Department of Defense—for whatever reason—is signaling that she's an ok..."
-
-</details>
-
-<details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (4 mentions)</summary>
 
 **[00:49:24](/episodes/ep-ZAuuSq_j2_w.md#ent-org-department-of-defense-t-00-49-20)**
@@ -77,6 +49,34 @@ _Type: Organizations_
 
 **[00:43:27](/episodes/ep-his-JBjlkh8.md#ent-org-department-of-defense-t-00-43-27)**
 > "No, I think actually the Department of Defense—this would be a good matter for you guys to take ..."
+
+</details>
+
+<details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (4 mentions)</summary>
+
+**[00:47:23](/episodes/ep-LATnak75Si0.md#ent-org-department-of-defense-t-00-46-55)**
+> "... here; Mamdani—there's a jihadist threat; something big is coming. And the Pentagon— like where the Department of Defense is housed—the Pentagon, which was implicated in 9/11—a lot of questions about what the Pentagon was..."
+
+**[00:48:59](/episodes/ep-LATnak75Si0.md#ent-org-department-of-defense-t-00-48-57)**
+> "...that they kicked her off. I don't agree with them kicking anybody off. But you should know that our Department of Defense—for whatever reason—is signaling that she's an okay person to be in the building. That just seems l..."
+
+**[00:47:23](/episodes/ep-LATnak75Si0.md#ent-org-department-of-defense-t-00-46-55)**
+> "like where the Department of Defense is housed—the Pentagon, which was implicated in 9..."
+
+**[00:48:59](/episodes/ep-LATnak75Si0.md#ent-org-department-of-defense-t-00-48-57)**
+> "But you should know that our Department of Defense—for whatever reason—is signaling that she's an ok..."
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
+
+**[00:31:53](/episodes/ep-Cq7nj9rxPdo.md#ent-org-department-of-defense-t-00-31-29)**
+> "... and they tell you, "He's a genius." Then you learn that they have—I don't know—a contract with the Department of Defense. He might just be a military-grade actor meant to lead a company, because if we all looked up and r..."
+
+**[00:31:53](/episodes/ep-Cq7nj9rxPdo.md#ent-org-department-of-defense-t-00-31-29)**
+> "...on't know—a contract with the Department of Defense."
 
 </details>
 

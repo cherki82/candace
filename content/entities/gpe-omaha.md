@@ -13,6 +13,39 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
+
+**[00:23:36](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-omaha-t-00-23-23)**
+> "...ot our next point: our planes come back out, and they're flying to Lincoln. Again, they're going to Omaha. They're going to Wilmington. They stay for one night. Charlie (Charlie Kirk) speaks in South Carol..."
+
+**[00:23:36](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-omaha-t-00-23-23)**
+> "Again, they're going to Omaha."
+
+</details>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+
+**[00:11:11](/episodes/ep-mKXdKV-OBog.md#ent-gpe-omaha-t-00-10-47)**
+> "...me in for its longest trip—that's correct—from Cairo. It went through to Paris, and then it went to Omaha, Nebraska. I think yesterday I said that it stayed in Wilmington for six days. No, it only stayed i..."
+
+**[00:11:11](/episodes/ep-mKXdKV-OBog.md#ent-gpe-omaha-t-00-10-47)**
+> "...to Paris, and then it went to Omaha, Nebraska."
+
+</details>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
+
+**[00:16:53](/episodes/ep-sImMM04XdWY.md#ent-gpe-omaha-t-00-16-53)**
+> "...quickly. This is really interesting because BTT then comes in from Cairo through Paris and lands in Omaha, Nebraska, and it's the longest stay actually that they have in Wilmington, okay? They do this long..."
+
+**[00:16:53](/episodes/ep-sImMM04XdWY.md#ent-gpe-omaha-t-00-16-53)**
+> "...ro through Paris and lands in Omaha, Nebraska, and it's the longest stay actually tha..."
+
+</details>
+
+<details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
 
 **[00:20:11](/episodes/ep-SKGUzGHymcI.md#ent-gpe-omaha-t-00-20-11)**
@@ -43,39 +76,6 @@ _Type: Places_
 
 **[00:35:19](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-omaha-t-00-34-46)**
 > "...e days later, it goes through Omaha, Nebraska at 11:37 a.m."
-
-</details>
-
-<details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
-
-**[00:23:36](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-omaha-t-00-23-23)**
-> "...ot our next point: our planes come back out, and they're flying to Lincoln. Again, they're going to Omaha. They're going to Wilmington. They stay for one night. Charlie (Charlie Kirk) speaks in South Carol..."
-
-**[00:23:36](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-omaha-t-00-23-23)**
-> "Again, they're going to Omaha."
-
-</details>
-
-<details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
-
-**[00:11:11](/episodes/ep-mKXdKV-OBog.md#ent-gpe-omaha-t-00-10-47)**
-> "...me in for its longest trip—that's correct—from Cairo. It went through to Paris, and then it went to Omaha, Nebraska. I think yesterday I said that it stayed in Wilmington for six days. No, it only stayed i..."
-
-**[00:11:11](/episodes/ep-mKXdKV-OBog.md#ent-gpe-omaha-t-00-10-47)**
-> "...to Paris, and then it went to Omaha, Nebraska."
-
-</details>
-
-<details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
-
-**[00:16:53](/episodes/ep-sImMM04XdWY.md#ent-gpe-omaha-t-00-16-53)**
-> "...quickly. This is really interesting because BTT then comes in from Cairo through Paris and lands in Omaha, Nebraska, and it's the longest stay actually that they have in Wilmington, okay? They do this long..."
-
-**[00:16:53](/episodes/ep-sImMM04XdWY.md#ent-gpe-omaha-t-00-16-53)**
-> "...ro through Paris and lands in Omaha, Nebraska, and it's the longest stay actually tha..."
 
 </details>
 

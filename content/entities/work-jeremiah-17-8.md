@@ -1,11 +1,11 @@
 ---
 title: "Jeremiah 17:8"
-description: "Jeremiah 17:8 (Work) - 2 mentions"
+description: "Jeremiah 17:8 (Works & Media) - 2 mentions"
 id: "work-jeremiah-17-8"
 type: "WORK"
 ---
 
-_Type: Work_
+_Type: Works & Media_
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

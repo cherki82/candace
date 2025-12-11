@@ -23,7 +23,7 @@ type: "factual_claim"
 - [France](/entities/gpe-france.md) (gpe)
 - [Angola](/entities/gpe-angola.md) (gpe)
 - [Branko International](/entities/org-branko-international.md) (org)
-- [Angola Gate](/entities/concept-angola-gate.md) (concept)
+- [Angolagate scandal](/entities/event-angola-gate.md) (event)
 
 ## Source
 

@@ -1,6 +1,6 @@
 ---
 title: "United States Air Force"
-description: "United States Air Force (Organizations) - 60 mentions"
+description: "United States Air Force (Organizations) - 64 mentions"
 id: "org-united-states-air-force"
 type: "ORG"
 aliases:
@@ -17,87 +17,19 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (8 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4 mentions)</summary>
 
-**[00:29:13](/episodes/ep-Cq7nj9rxPdo.md#ent-org-united-states-air-force-t-00-28-37)**
-> "...o worked on Charlie was Dr. Lee Trotter. And regarding Dr. Lee Trotter, he had his residency on the Air Force base. He completed residency at the Keesler Air Force Medical Center in Mississippi. I think he act..."
+**[00:44:39](/episodes/ep-6DhWawD4ZiM.md#ent-org-united-states-air-force-t-00-43-45)**
+> "US Air Force C37A Gulfstream is a, Gulfstream 5 is a VIP jet"
 
-**[00:29:16](/episodes/ep-Cq7nj9rxPdo.md#ent-org-united-states-air-force-t-00-28-37)**
-> "... Dr. Lee Trotter, he had his residency on the Air Force base. He completed residency at the Keesler Air Force Medical Center in Mississippi. I think he actually might be in the Air Force from what I'm looking ..."
+**[00:43:49](/episodes/ep-6DhWawD4ZiM.md#ent-org-united-states-air-force-t-00-43-45)**
+> "... that is based out of Andrews Air Force Base, shown as Camp Springs below."
 
-**[00:29:20](/episodes/ep-Cq7nj9rxPdo.md#ent-org-united-states-air-force-t-00-29-20)**
-> "...sidency at the Keesler Air Force Medical Center in Mississippi. I think he actually might be in the Air Force from what I'm looking at. Can't confirm that entirely, but there's a person who matches his name, a..."
+**[00:43:57](/episodes/ep-6DhWawD4ZiM.md#ent-org-united-states-air-force-t-00-43-45)**
+> "US Air Force C37A Gulfstream is a, Gulfstream 5 is a VIP jet, ..."
 
-**[00:29:26](/episodes/ep-Cq7nj9rxPdo.md#ent-org-united-states-air-force-t-00-29-20)**
-> "...e's a person who matches his name, age, description—living where he's living—who is actually in the Air Force. And he also for a fact is a pilot, so it would track that he was in the military. That's interesti..."
-
-**[00:29:13](/episodes/ep-Cq7nj9rxPdo.md#ent-org-united-states-air-force-t-00-28-37)**
-> "..., he had his residency on the Air Force base."
-
-**[00:29:16](/episodes/ep-Cq7nj9rxPdo.md#ent-org-united-states-air-force-t-00-28-37)**
-> "...eted residency at the Keesler Air Force Medical Center in Mississippi."
-
-**[00:29:20](/episodes/ep-Cq7nj9rxPdo.md#ent-org-united-states-air-force-t-00-29-20)**
-> "...k he actually might be in the Air Force from what I'm looking at."
-
-**[00:29:26](/episodes/ep-Cq7nj9rxPdo.md#ent-org-united-states-air-force-t-00-29-20)**
-> "...living—who is actually in the Air Force."
-
-</details>
-
-<details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (6 mentions)</summary>
-
-**[00:17:14](/episodes/ep-YaZfwLQ7vrI.md#ent-org-united-states-air-force-t-00-16-39)**
-> "...'s no different. He graduated from a military academy. His father, Carl Wallnau, was a major in the United States Air Force. Wallnau served under General Patton. After the war, he then continued his adventures as a field en..."
-
-**[00:16:48](/episodes/ep-YaZfwLQ7vrI.md#ent-org-united-states-air-force-t-00-16-39)**
-> "...ies. High-ranking military families have been around for a long time: ties to the Navy, ties to the Air Force. Frank Turek (Frank Turek), Air Force. Rob McCoy—we discussed about his background, his naval backg..."
-
-**[00:16:48](/episodes/ep-YaZfwLQ7vrI.md#ent-org-united-states-air-force-t-00-16-39)**
-> "...ties to the Navy, ties to the Air Force. Frank Turek (Frank Turek), Air Force. Rob McCoy—..."
-
-**[00:16:48](/episodes/ep-YaZfwLQ7vrI.md#ent-org-united-states-air-force-t-00-16-39)**
-> "...e. Frank Turek (Frank Turek), Air Force. Rob McCoy—we discussed about his background, his..."
-
-**[00:17:14](/episodes/ep-YaZfwLQ7vrI.md#ent-org-united-states-air-force-t-00-16-39)**
-> "...l Wallnau, was a major in the United States Air Force."
-
-**[00:17:14](/episodes/ep-YaZfwLQ7vrI.md#ent-org-united-states-air-force-t-00-16-39)**
-> "... a major in the United States Air Force."
-
-</details>
-
-<details>
-<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (2 mentions)</summary>
-
-**[00:50:39](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-united-states-air-force-t-00-50-29)**
-> "... family. I don't know if it's his family, but the Mitchell name in that area was coming up for like Air Force. And so I—again—when I get into these places where I can't find any more information, I turn to you..."
-
-**[00:50:39](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-united-states-air-force-t-00-50-29)**
-> "...t area was coming up for like Air Force."
-
-</details>
-
-<details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
-
-**[00:14:22](/episodes/ep-a-e7HC6SeK8.md#t-00-14-05)**
-> "... one that was filming. Everyone was like, "Who's filming his casket," as it's being escorted off of Air Force Two, crying, holding that—Stacey. Like I said, I just felt spiritually that Charlie (Charlie Kirk) ..."
-
-**[00:14:22](/episodes/ep-a-e7HC6SeK8.md#t-00-14-05)**
-> "as it's being escorted off of Air Force Two, crying, holding that—Stacey (Stacey Sheridan..."
-
-</details>
-
-<details>
-<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (2 mentions)</summary>
-
-**[00:04:27](/episodes/ep-c5BcKF91iec.md#t-00-04-27)**
-> "..., by the way, she's the one who's holding the camera when Charlie's casket is being escorted off of Air Force Two. She's like the chief money person, essentially, at Turning Point USA. She was brought in to re..."
-
-**[00:04:27](/episodes/ep-c5BcKF91iec.md#t-00-04-27)**
-> "...sket is being escorted off of Air Force Two."
+**[00:48:37](/episodes/ep-6DhWawD4ZiM.md#ent-org-united-states-air-force-t-00-48-17)**
+> "That's a standard Air Force call sign designator."
 
 </details>
 
@@ -125,31 +57,24 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (8 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
 
-**[00:12:21](/episodes/ep-iHav0PPzUz8.md#ent-org-united-states-air-force-t-00-18-24)**
-> "...ing something. So I reported that on the day of Charlie (Charlie Kirk)'s assassination, an Egyptian Air Force plane took off from Provo, Utah airport. I reported that even more curiously that Egyptian military..."
+**[00:14:22](/episodes/ep-a-e7HC6SeK8.md#t-00-14-05)**
+> "... one that was filming. Everyone was like, "Who's filming his casket," as it's being escorted off of Air Force Two, crying, holding that—Stacey. Like I said, I just felt spiritually that Charlie (Charlie Kirk) ..."
 
-**[00:18:50](/episodes/ep-iHav0PPzUz8.md#ent-org-united-states-air-force-t-00-18-24)**
-> "...verything, as I'm not gonna read it all—I noticed that the trend here is that it always flies to an Air Force base, okay? Look in 2025. If you look under 2025, you will see this is what it did. It went from Se..."
+**[00:14:22](/episodes/ep-a-e7HC6SeK8.md#t-00-14-05)**
+> "as it's being escorted off of Air Force Two, crying, holding that—Stacey (Stacey Sheridan..."
 
-**[00:27:44](/episodes/ep-iHav0PPzUz8.md#ent-org-united-states-air-force-t-00-27-20)**
-> "...an they physically landed on American air bases. I meant that they landed in cities where there are Air Force bases. And the notable exception here is that Provo does not have an Air Force base. They have one ..."
+</details>
 
-**[00:27:48](/episodes/ep-iHav0PPzUz8.md#ent-org-united-states-air-force-t-00-27-20)**
-> "...ties where there are Air Force bases. And the notable exception here is that Provo does not have an Air Force base. They have one in Salt Lake City, but they do not have one in Provo. So I hope that makes more..."
+<details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
 
-**[00:12:21](/episodes/ep-iHav0PPzUz8.md#ent-org-united-states-air-force-t-00-18-24)**
-> "...'s assassination, an Egyptian Air Force plane took off from Provo, Utah airport."
+**[00:16:36](/episodes/ep-tB5SXXmd9vU.md#t-00-16-09)**
+> "...gan immediately. It was a joint exercise with civilians, which included military men from the Minot Air Force Base. And that joint exercise took place in Minnesota at Camp Ripley, and that ran just for a coupl..."
 
-**[00:18:50](/episodes/ep-iHav0PPzUz8.md#ent-org-united-states-air-force-t-00-18-24)**
-> "...is that it always flies to an Air Force base, okay?"
-
-**[00:27:44](/episodes/ep-iHav0PPzUz8.md#ent-org-united-states-air-force-t-00-27-20)**
-> "...ded in cities where there are Air Force bases."
-
-**[00:27:48](/episodes/ep-iHav0PPzUz8.md#ent-org-united-states-air-force-t-00-27-20)**
-> "...s that Provo does not have an Air Force base."
+**[00:16:36](/episodes/ep-tB5SXXmd9vU.md#t-00-16-09)**
+> "...d military men from the Minot Air Force Base."
 
 </details>
 
@@ -231,13 +156,105 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (6 mentions)</summary>
 
-**[00:16:36](/episodes/ep-tB5SXXmd9vU.md#t-00-16-09)**
-> "...gan immediately. It was a joint exercise with civilians, which included military men from the Minot Air Force Base. And that joint exercise took place in Minnesota at Camp Ripley, and that ran just for a coupl..."
+**[00:17:14](/episodes/ep-YaZfwLQ7vrI.md#ent-org-united-states-air-force-t-00-16-39)**
+> "...'s no different. He graduated from a military academy. His father, Carl Wallnau, was a major in the United States Air Force. Wallnau served under General Patton. After the war, he then continued his adventures as a field en..."
 
-**[00:16:36](/episodes/ep-tB5SXXmd9vU.md#t-00-16-09)**
-> "...d military men from the Minot Air Force Base."
+**[00:16:48](/episodes/ep-YaZfwLQ7vrI.md#ent-org-united-states-air-force-t-00-16-39)**
+> "...ies. High-ranking military families have been around for a long time: ties to the Navy, ties to the Air Force. Frank Turek (Frank Turek), Air Force. Rob McCoy—we discussed about his background, his naval backg..."
+
+**[00:16:48](/episodes/ep-YaZfwLQ7vrI.md#ent-org-united-states-air-force-t-00-16-39)**
+> "...ties to the Navy, ties to the Air Force. Frank Turek (Frank Turek), Air Force. Rob McCoy—..."
+
+**[00:16:48](/episodes/ep-YaZfwLQ7vrI.md#ent-org-united-states-air-force-t-00-16-39)**
+> "...e. Frank Turek (Frank Turek), Air Force. Rob McCoy—we discussed about his background, his..."
+
+**[00:17:14](/episodes/ep-YaZfwLQ7vrI.md#ent-org-united-states-air-force-t-00-16-39)**
+> "...l Wallnau, was a major in the United States Air Force."
+
+**[00:17:14](/episodes/ep-YaZfwLQ7vrI.md#ent-org-united-states-air-force-t-00-16-39)**
+> "... a major in the United States Air Force."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (8 mentions)</summary>
+
+**[00:12:21](/episodes/ep-iHav0PPzUz8.md#ent-org-united-states-air-force-t-00-18-24)**
+> "...ing something. So I reported that on the day of Charlie (Charlie Kirk)'s assassination, an Egyptian Air Force plane took off from Provo, Utah airport. I reported that even more curiously that Egyptian military..."
+
+**[00:18:50](/episodes/ep-iHav0PPzUz8.md#ent-org-united-states-air-force-t-00-18-24)**
+> "...verything, as I'm not gonna read it all—I noticed that the trend here is that it always flies to an Air Force base, okay? Look in 2025. If you look under 2025, you will see this is what it did. It went from Se..."
+
+**[00:27:44](/episodes/ep-iHav0PPzUz8.md#ent-org-united-states-air-force-t-00-27-20)**
+> "...an they physically landed on American air bases. I meant that they landed in cities where there are Air Force bases. And the notable exception here is that Provo does not have an Air Force base. They have one ..."
+
+**[00:27:48](/episodes/ep-iHav0PPzUz8.md#ent-org-united-states-air-force-t-00-27-20)**
+> "...ties where there are Air Force bases. And the notable exception here is that Provo does not have an Air Force base. They have one in Salt Lake City, but they do not have one in Provo. So I hope that makes more..."
+
+**[00:12:21](/episodes/ep-iHav0PPzUz8.md#ent-org-united-states-air-force-t-00-18-24)**
+> "...'s assassination, an Egyptian Air Force plane took off from Provo, Utah airport."
+
+**[00:18:50](/episodes/ep-iHav0PPzUz8.md#ent-org-united-states-air-force-t-00-18-24)**
+> "...is that it always flies to an Air Force base, okay?"
+
+**[00:27:44](/episodes/ep-iHav0PPzUz8.md#ent-org-united-states-air-force-t-00-27-20)**
+> "...ded in cities where there are Air Force bases."
+
+**[00:27:48](/episodes/ep-iHav0PPzUz8.md#ent-org-united-states-air-force-t-00-27-20)**
+> "...s that Provo does not have an Air Force base."
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (8 mentions)</summary>
+
+**[00:29:13](/episodes/ep-Cq7nj9rxPdo.md#ent-org-united-states-air-force-t-00-28-37)**
+> "...o worked on Charlie was Dr. Lee Trotter. And regarding Dr. Lee Trotter, he had his residency on the Air Force base. He completed residency at the Keesler Air Force Medical Center in Mississippi. I think he act..."
+
+**[00:29:16](/episodes/ep-Cq7nj9rxPdo.md#ent-org-united-states-air-force-t-00-28-37)**
+> "... Dr. Lee Trotter, he had his residency on the Air Force base. He completed residency at the Keesler Air Force Medical Center in Mississippi. I think he actually might be in the Air Force from what I'm looking ..."
+
+**[00:29:20](/episodes/ep-Cq7nj9rxPdo.md#ent-org-united-states-air-force-t-00-29-20)**
+> "...sidency at the Keesler Air Force Medical Center in Mississippi. I think he actually might be in the Air Force from what I'm looking at. Can't confirm that entirely, but there's a person who matches his name, a..."
+
+**[00:29:26](/episodes/ep-Cq7nj9rxPdo.md#ent-org-united-states-air-force-t-00-29-20)**
+> "...e's a person who matches his name, age, description—living where he's living—who is actually in the Air Force. And he also for a fact is a pilot, so it would track that he was in the military. That's interesti..."
+
+**[00:29:13](/episodes/ep-Cq7nj9rxPdo.md#ent-org-united-states-air-force-t-00-28-37)**
+> "..., he had his residency on the Air Force base."
+
+**[00:29:16](/episodes/ep-Cq7nj9rxPdo.md#ent-org-united-states-air-force-t-00-28-37)**
+> "...eted residency at the Keesler Air Force Medical Center in Mississippi."
+
+**[00:29:20](/episodes/ep-Cq7nj9rxPdo.md#ent-org-united-states-air-force-t-00-29-20)**
+> "...k he actually might be in the Air Force from what I'm looking at."
+
+**[00:29:26](/episodes/ep-Cq7nj9rxPdo.md#ent-org-united-states-air-force-t-00-29-20)**
+> "...living—who is actually in the Air Force."
+
+</details>
+
+<details>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (2 mentions)</summary>
+
+**[00:04:27](/episodes/ep-c5BcKF91iec.md#t-00-04-27)**
+> "..., by the way, she's the one who's holding the camera when Charlie's casket is being escorted off of Air Force Two. She's like the chief money person, essentially, at Turning Point USA. She was brought in to re..."
+
+**[00:04:27](/episodes/ep-c5BcKF91iec.md#t-00-04-27)**
+> "...sket is being escorted off of Air Force Two."
+
+</details>
+
+<details>
+<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (2 mentions)</summary>
+
+**[00:50:39](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-united-states-air-force-t-00-50-29)**
+> "... family. I don't know if it's his family, but the Mitchell name in that area was coming up for like Air Force. And so I—again—when I get into these places where I can't find any more information, I turn to you..."
+
+**[00:50:39](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-united-states-air-force-t-00-50-29)**
+> "...t area was coming up for like Air Force."
 
 </details>
 
@@ -296,18 +313,18 @@ _Type: Organizations_
 <summary><strong class="section-title">Statements about United States Air Force (2)</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
-
-- [00:29:28](/episodes/ep-Cq7nj9rxPdo.md#t-00-29-20) (Claim) **Candace Owens**: ["Dr. Lee Trotter might be in the Air Force"](/statements/statement-4585f0b74ba9.md)
-  - Also about: [Dr. Lee Trotter](/entities/person-dr-lee-trotter.md)
-
-</details>
-
-<details>
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1)</summary>
 
 - [00:17:09](/episodes/ep-YaZfwLQ7vrI.md#t-00-16-39) (Claim) **Candace Owens**: ["Lance Wallnau graduated from a military academy and his father Carl Wa..."](/statements/statement-468e84d36ae1.md)
   - Also about: [Lance Wallnau](/entities/person-lance-wallnau.md)
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
+
+- [00:29:28](/episodes/ep-Cq7nj9rxPdo.md#t-00-29-20) (Claim) **Candace Owens**: ["Dr. Lee Trotter might be in the Air Force"](/statements/statement-4585f0b74ba9.md)
+  - Also about: [Dr. Lee Trotter](/entities/person-dr-lee-trotter.md)
 
 </details>
 

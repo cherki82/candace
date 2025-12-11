@@ -13,6 +13,23 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (4 mentions)</summary>
+
+**[00:14:25](/episodes/ep-MUA9ebCF4Ow.md#ent-person-taylor-lorenz-t-00-13-45)**
+> "...you to know that because the market turns out the market is smarter than you are. I go back to that Taylor Lorenz tweet early on. She's a hardcore lefty, yet in the immediate aftermath of Charlie (Charlie Kirk)'s ..."
+
+**[00:47:43](/episodes/ep-MUA9ebCF4Ow.md#ent-person-taylor-lorenz-t-00-47-10)**
+> "..."These people are too aggrieved." It doesn't work for me, okay? It doesn't work for me. I feel like Taylor Lorenz—like, once I came back from Wyoming, I then started paying attention to everyone's behavior, and I ..."
+
+**[00:14:25](/episodes/ep-MUA9ebCF4Ow.md#ent-person-taylor-lorenz-t-00-13-45)**
+> "I go back to that Taylor Lorenz tweet early on."
+
+**[00:47:43](/episodes/ep-MUA9ebCF4Ow.md#ent-person-taylor-lorenz-t-00-47-10)**
+> "I feel like Taylor Lorenz—like, once I came back from Wyoming, I then start..."
+
+</details>
+
+<details>
 <summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (7 mentions)</summary>
 
 **[00:39:51](/episodes/ep-K5GjF53bfN4.md#ent-person-taylor-lorenz-t-00-39-27)**
@@ -35,23 +52,6 @@ _Type: People_
 
 **[00:40:33](/episodes/ep-K5GjF53bfN4.md#ent-person-taylor-lorenz-t-00-40-06)**
 > "She wrote, Taylor Lorenz (Taylor Lorenz), "It's wild that Candace (Candace..."
-
-</details>
-
-<details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (4 mentions)</summary>
-
-**[00:14:25](/episodes/ep-MUA9ebCF4Ow.md#ent-person-taylor-lorenz-t-00-13-45)**
-> "...you to know that because the market turns out the market is smarter than you are. I go back to that Taylor Lorenz tweet early on. She's a hardcore lefty, yet in the immediate aftermath of Charlie (Charlie Kirk)'s ..."
-
-**[00:47:43](/episodes/ep-MUA9ebCF4Ow.md#ent-person-taylor-lorenz-t-00-47-10)**
-> "..."These people are too aggrieved." It doesn't work for me, okay? It doesn't work for me. I feel like Taylor Lorenz—like, once I came back from Wyoming, I then started paying attention to everyone's behavior, and I ..."
-
-**[00:14:25](/episodes/ep-MUA9ebCF4Ow.md#ent-person-taylor-lorenz-t-00-13-45)**
-> "I go back to that Taylor Lorenz tweet early on."
-
-**[00:47:43](/episodes/ep-MUA9ebCF4Ow.md#ent-person-taylor-lorenz-t-00-47-10)**
-> "I feel like Taylor Lorenz—like, once I came back from Wyoming, I then start..."
 
 </details>
 

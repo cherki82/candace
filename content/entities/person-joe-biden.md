@@ -18,6 +18,20 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (3 mentions)</summary>
+
+**[00:51:58](/episodes/ep-sImMM04XdWY.md#ent-person-joe-biden-t-00-51-25)**
+> "I wonder if our president's plane ever landed there in Delaware, where we know that Biden was living in Delaware"
+
+**[00:51:58](/episodes/ep-sImMM04XdWY.md#ent-person-joe-biden-t-00-51-25)**
+> "... Delaware, where we know that Biden was living in Delaware.""
+
+**[00:54:01](/episodes/ep-sImMM04XdWY.md#ent-person-joe-biden-t-00-53-35)**
+> "... Delaware, where we know that Biden was living in Delaware."
+
+</details>
+
+<details>
 <summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (5 mentions)</summary>
 
 **[00:16:25](/episodes/ep-Qt0VHV-POCg.md#ent-person-joe-biden-t-00-16-13)**
@@ -34,20 +48,6 @@ _Type: People_
 
 **[00:16:39](/episodes/ep-Qt0VHV-POCg.md#ent-person-joe-biden-t-00-16-13)**
 > "...me the biggest fundraiser for Biden and Kamala, making millions of dollars for hersel..."
-
-</details>
-
-<details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (3 mentions)</summary>
-
-**[00:51:58](/episodes/ep-sImMM04XdWY.md#ent-person-joe-biden-t-00-51-25)**
-> "I wonder if our president's plane ever landed there in Delaware, where we know that Biden was living in Delaware"
-
-**[00:51:58](/episodes/ep-sImMM04XdWY.md#ent-person-joe-biden-t-00-51-25)**
-> "... Delaware, where we know that Biden was living in Delaware.""
-
-**[00:54:01](/episodes/ep-sImMM04XdWY.md#ent-person-joe-biden-t-00-53-35)**
-> "... Delaware, where we know that Biden was living in Delaware."
 
 </details>
 

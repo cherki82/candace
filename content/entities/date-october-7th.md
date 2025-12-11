@@ -17,19 +17,13 @@ _Type: Dates_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (4 mentions)</summary>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2 mentions)</summary>
 
-**[00:40:22](/episodes/ep-Qt0VHV-POCg.md#ent-date-october-7th-t-00-40-15)**
-> "...nts survived; one of his parents survived Auschwitz—was the reason I had him on my show right after October 7th—sometimes shortly thereafter—when I was at the Daily Wire. And what he told me horrified me, and it..."
+**[00:48:37](/episodes/ep-ZAuuSq_j2_w.md#ent-date-october-7th-t-00-48-37)**
+> "... was always authentic. He authentically loved Israel. And then he authentically had questions after October 7th. And then he was authentically angry and recognizing how much control was around him. And the infil..."
 
-**[00:41:16](/episodes/ep-Qt0VHV-POCg.md#ent-date-october-7th-t-00-41-16)**
-> "...use. CANDACE OWENS: You guys were the ones that insisted—insisted—that we all have a perspective on October 7th. So we looked, and we pierced that veil. We went, "Oh my goodness, how was I ever so provincial?" A..."
-
-**[00:40:22](/episodes/ep-Qt0VHV-POCg.md#ent-date-october-7th-t-00-40-15)**
-> "...ad him on my show right after October 7th—sometimes shortly thereafter—when I was at the Da..."
-
-**[00:41:16](/episodes/ep-Qt0VHV-POCg.md#ent-date-october-7th-t-00-41-16)**
-> "... we all have a perspective on October 7th."
+**[00:48:37](/episodes/ep-ZAuuSq_j2_w.md#ent-date-october-7th-t-00-48-37)**
+> "...entically had questions after October 7th."
 
 </details>
 
@@ -45,6 +39,23 @@ _Type: Dates_
 </details>
 
 <details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (4 mentions)</summary>
+
+**[00:05:23](/episodes/ep-r1PS67aRmcA.md#ent-date-october-7th-t-00-05-14)**
+> "...ve push to win. The number of times that Tucker (Tucker Carlson) has mentioned Zohran Mamdani since October 7th on his show is once. And it was in the context of Marjorie Taylor Greene and Tucker (Tucker Carlson..."
+
+**[00:05:41](/episodes/ep-r1PS67aRmcA.md#ent-date-october-7th-t-00-05-14)**
+> "... representative here, but because you've talked about Zohran Mamdani a lot, a lot of us have. Since October 7th, I did 17 separate shows on Zohran Mamdani, including four in the last week before the election. Be..."
+
+**[00:05:23](/episodes/ep-r1PS67aRmcA.md#ent-date-october-7th-t-00-05-14)**
+> "...amdani (Zohran Mamdani) since October 7th on his show is once."
+
+**[00:05:41](/episodes/ep-r1PS67aRmcA.md#ent-date-october-7th-t-00-05-14)**
+> "Since October 7th, I did 17 separate shows on Zohran Mamdani (Zohra..."
+
+</details>
+
+<details>
 <summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
 
 **[01:02:51](/episodes/ep-YFmRH8p5lt0.md#ent-date-october-7th-t-01-02-26)**
@@ -56,23 +67,29 @@ _Type: Dates_
 </details>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2 mentions)</summary>
-
-**[00:48:37](/episodes/ep-ZAuuSq_j2_w.md#ent-date-october-7th-t-00-48-37)**
-> "... was always authentic. He authentically loved Israel. And then he authentically had questions after October 7th. And then he was authentically angry and recognizing how much control was around him. And the infil..."
-
-**[00:48:37](/episodes/ep-ZAuuSq_j2_w.md#ent-date-october-7th-t-00-48-37)**
-> "...entically had questions after October 7th."
-
-</details>
-
-<details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
 
 **[00:46:29](/episodes/ep-iHav0PPzUz8.md#ent-date-october-7th-t-00-45-50)**
 > "...e." You guys were the ones that insisted. Totally agree. Insisted that we all have a perspective on October 7th. So we looked, and we pierced that veil. We went, oh my goodness—how was I ever provisional? And no..."
 
 **[00:46:29](/episodes/ep-iHav0PPzUz8.md#ent-date-october-7th-t-00-45-50)**
+> "... we all have a perspective on October 7th."
+
+</details>
+
+<details>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (4 mentions)</summary>
+
+**[00:40:22](/episodes/ep-Qt0VHV-POCg.md#ent-date-october-7th-t-00-40-15)**
+> "...nts survived; one of his parents survived Auschwitz—was the reason I had him on my show right after October 7th—sometimes shortly thereafter—when I was at the Daily Wire. And what he told me horrified me, and it..."
+
+**[00:41:16](/episodes/ep-Qt0VHV-POCg.md#ent-date-october-7th-t-00-41-16)**
+> "...use. CANDACE OWENS: You guys were the ones that insisted—insisted—that we all have a perspective on October 7th. So we looked, and we pierced that veil. We went, "Oh my goodness, how was I ever so provincial?" A..."
+
+**[00:40:22](/episodes/ep-Qt0VHV-POCg.md#ent-date-october-7th-t-00-40-15)**
+> "...ad him on my show right after October 7th—sometimes shortly thereafter—when I was at the Da..."
+
+**[00:41:16](/episodes/ep-Qt0VHV-POCg.md#ent-date-october-7th-t-00-41-16)**
 > "... we all have a perspective on October 7th."
 
 </details>
@@ -97,23 +114,6 @@ _Type: Dates_
 
 **[00:48:32](/episodes/ep-pc3pxRyNFZk.md#ent-date-october-7th-t-00-48-17)**
 > "...ain, all of this began before October 7th, right?"
-
-</details>
-
-<details>
-<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (4 mentions)</summary>
-
-**[00:05:23](/episodes/ep-r1PS67aRmcA.md#ent-date-october-7th-t-00-05-14)**
-> "...ve push to win. The number of times that Tucker (Tucker Carlson) has mentioned Zohran Mamdani since October 7th on his show is once. And it was in the context of Marjorie Taylor Greene and Tucker (Tucker Carlson..."
-
-**[00:05:41](/episodes/ep-r1PS67aRmcA.md#ent-date-october-7th-t-00-05-14)**
-> "... representative here, but because you've talked about Zohran Mamdani a lot, a lot of us have. Since October 7th, I did 17 separate shows on Zohran Mamdani, including four in the last week before the election. Be..."
-
-**[00:05:23](/episodes/ep-r1PS67aRmcA.md#ent-date-october-7th-t-00-05-14)**
-> "...amdani (Zohran Mamdani) since October 7th on his show is once."
-
-**[00:05:41](/episodes/ep-r1PS67aRmcA.md#ent-date-october-7th-t-00-05-14)**
-> "Since October 7th, I did 17 separate shows on Zohran Mamdani (Zohra..."
 
 </details>
 

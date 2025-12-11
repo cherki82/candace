@@ -33,14 +33,6 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Married To (1)</summary>
-
-- **[Christopher Mosley](/entities/person-christopher-mosley.md)**
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:47](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27): "...So she and her husband, Christopher Mosley, had her killed."
-
-</details>
-
-<details>
 <summary>Member Of (1)</summary>
 
 - **[DuPont family](/entities/org-dupont-family.md)**
@@ -49,13 +41,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (1)</summary>
 
 - **[DuPont family](/entities/org-dupont-family.md)** has member this
   - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:39](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27)
-
-- **[Christopher Mosley](/entities/person-christopher-mosley.md)** married to this
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:47](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27)
 
 </details>
 

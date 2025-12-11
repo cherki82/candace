@@ -13,17 +13,6 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
-
-**[01:06:47](/episodes/ep-Cq7nj9rxPdo.md#ent-person-miriam-adelson-t-01-07-05)**
-> "Miriam Adelson gave him 00 million"
-
-**[01:07:07](/episodes/ep-Cq7nj9rxPdo.md#ent-person-miriam-adelson-t-01-07-05)**
-> "Miriam Adelson gave him $100 million, and she was explicit."
-
-</details>
-
-<details>
 <summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
 **[00:57:07](/episodes/ep-yAIb-NuUh_U.md#ent-person-miriam-adelson-t-00-56-26)**
@@ -31,6 +20,17 @@ _Type: People_
 
 **[00:57:11](/episodes/ep-yAIb-NuUh_U.md#ent-person-miriam-adelson-t-00-57-10)**
 > "No, Miriam Adelson is way too high up to have been that person on th..."
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
+
+**[01:06:47](/episodes/ep-Cq7nj9rxPdo.md#ent-person-miriam-adelson-t-01-07-05)**
+> "Miriam Adelson gave him 00 million"
+
+**[01:07:07](/episodes/ep-Cq7nj9rxPdo.md#ent-person-miriam-adelson-t-01-07-05)**
+> "Miriam Adelson gave him $100 million, and she was explicit."
 
 </details>
 

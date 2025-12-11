@@ -22,7 +22,7 @@ type: "factual_claim"
 
 - [Blake Neff](/entities/person-blake-neff.md) (person)
 - [Turning Point USA](/entities/org-turning-point-usa.md) (org)
-- [AmericaFest](/entities/event-amfest.md) (event)
+- [America Fest](/entities/event-america-fest.md) (event)
 
 ## Source
 

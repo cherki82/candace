@@ -1,11 +1,11 @@
 ---
 title: "Anonymous Source #1 (Ep sreYYcID-QY)"
-description: "Anonymous Source #1 (Ep sreYYcID-QY) (Anonymous_Source) - 0 mentions"
+description: "Anonymous Source #1 (Ep sreYYcID-QY) (Anonymous Sources) - 0 mentions"
 id: "anon-src-sreYYcID-QY-001"
 type: "ANONYMOUS_SOURCE"
 ---
 
-_Type: Anonymous_Source_
+_Type: Anonymous Sources_
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

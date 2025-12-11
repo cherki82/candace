@@ -13,14 +13,6 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (1 mentions)</summary>
-
-**[00:41:39](/episodes/ep-r1PS67aRmcA.md#ent-gpe-thailand-t-00-41-11)**
-> "...ointed out, a five-day war in Thailand and Cambodia, this is a president of peace."
-
-</details>
-
-<details>
 <summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
 **[00:21:05](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-thailand-t-00-21-05)**
@@ -28,6 +20,14 @@ _Type: Places_
 
 **[00:21:10](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-thailand-t-00-21-05)**
 > "Now Thailand, by the way, was some orphanage program that they..."
+
+</details>
+
+<details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (1 mentions)</summary>
+
+**[00:41:39](/episodes/ep-r1PS67aRmcA.md#ent-gpe-thailand-t-00-41-11)**
+> "...ointed out, a five-day war in Thailand and Cambodia, this is a president of peace."
 
 </details>
 

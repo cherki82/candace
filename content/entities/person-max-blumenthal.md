@@ -47,23 +47,6 @@ _Type: People_
 </details>
 
 <details>
-<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (4 mentions)</summary>
-
-**[00:52:05](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-max-blumenthal-t-00-51-57)**
-> "... Kirk). They're just like, “Obviously this is wrong, and this is weird, and I'm on the left maybe.” Max Blumenthal dropped a bunch of articles last week, and I think he's got more coming out. Why is Max Blumenthal—..."
-
-**[00:52:08](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-max-blumenthal-t-00-51-57)**
-> "... Max Blumenthal dropped a bunch of articles last week, and I think he's got more coming out. Why is Max Blumenthal—who wasn't a friend of Charlie (Charlie Kirk)—more interested in what happened to Charlie (Charlie ..."
-
-**[00:52:05](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-max-blumenthal-t-00-51-57)**
-> "Max Blumenthal dropped a bunch of articles last week, and I thin..."
-
-**[00:52:08](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-max-blumenthal-t-00-51-57)**
-> "Why is Max Blumenthal—who wasn't a friend of Charlie (Charlie Kirk)—mor..."
-
-</details>
-
-<details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (4 mentions)</summary>
 
 **[00:37:04](/episodes/ep-adJ4LNGp84I.md#ent-person-max-blumenthal-t-00-37-04)**
@@ -77,6 +60,23 @@ _Type: People_
 
 **[00:37:22](/episodes/ep-adJ4LNGp84I.md#ent-person-max-blumenthal-t-00-37-04)**
 > "I just retweeted Max Blumenthal, something he said that was sensible."
+
+</details>
+
+<details>
+<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (4 mentions)</summary>
+
+**[00:52:05](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-max-blumenthal-t-00-51-57)**
+> "... Kirk). They're just like, “Obviously this is wrong, and this is weird, and I'm on the left maybe.” Max Blumenthal dropped a bunch of articles last week, and I think he's got more coming out. Why is Max Blumenthal—..."
+
+**[00:52:08](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-max-blumenthal-t-00-51-57)**
+> "... Max Blumenthal dropped a bunch of articles last week, and I think he's got more coming out. Why is Max Blumenthal—who wasn't a friend of Charlie (Charlie Kirk)—more interested in what happened to Charlie (Charlie ..."
+
+**[00:52:05](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-max-blumenthal-t-00-51-57)**
+> "Max Blumenthal dropped a bunch of articles last week, and I thin..."
+
+**[00:52:08](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-max-blumenthal-t-00-51-57)**
+> "Why is Max Blumenthal—who wasn't a friend of Charlie (Charlie Kirk)—mor..."
 
 </details>
 

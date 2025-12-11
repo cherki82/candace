@@ -17,21 +17,18 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (2 mentions)</summary>
-
-**[00:29:04](/episodes/ep-QZWSsq8ZWzw.md#t-00-28-31)**
-> "according to the CDC's own data, the flu shot is moderately effective at best"
-
-**[00:28:56](/episodes/ep-QZWSsq8ZWzw.md#t-00-28-31)**
-> "...he fact that according to the CDC's own data, the flu shot is moderately effective at..."
-
-</details>
-
-<details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1 mentions)</summary>
 
 **[00:26:21](/episodes/ep-SKGUzGHymcI.md#t-00-25-51)**
 > "Thanks to CDC demonizing its efficacy a few years back, they op..."
+
+</details>
+
+<details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (1 mentions)</summary>
+
+**[00:44:50](/episodes/ep-r1PS67aRmcA.md#t-00-44-40)**
+> "...he fact that according to the CDC's own data, the flu shot is only moderately effecti..."
 
 </details>
 
@@ -44,10 +41,10 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1 mentions)</summary>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
 
-**[00:23:03](/episodes/ep-aDlhjfW6hz8.md#t-00-22-34)**
-> "...he fact that according to the CDC's own data, the flu shot is only moderately effecti..."
+**[00:25:24](/episodes/ep-iHav0PPzUz8.md#t-00-25-13)**
+> "...ct that even according to the CDC's own data, the flu shot is only moderately effecti..."
 
 </details>
 
@@ -60,17 +57,20 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (2 mentions)</summary>
 
-**[00:25:24](/episodes/ep-iHav0PPzUz8.md#t-00-25-13)**
-> "...ct that even according to the CDC's own data, the flu shot is only moderately effecti..."
+**[00:29:04](/episodes/ep-QZWSsq8ZWzw.md#t-00-28-31)**
+> "according to the CDC's own data, the flu shot is moderately effective at best"
+
+**[00:28:56](/episodes/ep-QZWSsq8ZWzw.md#t-00-28-31)**
+> "...he fact that according to the CDC's own data, the flu shot is moderately effective at..."
 
 </details>
 
 <details>
-<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (1 mentions)</summary>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1 mentions)</summary>
 
-**[00:44:50](/episodes/ep-r1PS67aRmcA.md#t-00-44-40)**
+**[00:23:03](/episodes/ep-aDlhjfW6hz8.md#t-00-22-34)**
 > "...he fact that according to the CDC's own data, the flu shot is only moderately effecti..."
 
 </details>

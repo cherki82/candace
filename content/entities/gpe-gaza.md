@@ -24,40 +24,6 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (6 mentions)</summary>
-
-**[00:39:34](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-gaza-t-00-39-34)**
-> "the single greatest contributor to me being sort of just smacked in the gut about Gaza"
-
-**[00:39:34](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-gaza-t-00-39-34)**
-> "...just smacked in the gut about Gaza and learning about Gaza."
-
-**[00:39:34](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-gaza-t-00-39-34)**
-> "...about Gaza and learning about Gaza."
-
-**[00:39:44](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-gaza-t-00-39-34)**
-> "...anything about the history of Gaza; knew nothing about it because it has been such a..."
-
-**[00:40:51](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-gaza-t-00-40-51)**
-> "...onomist magazine—it describes Gaza as, quote, "a human rubbish heap.""
-
-**[00:40:59](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-gaza-t-00-40-51)**
-> "The leading UN official on Gaza describes it as, quote, "a toxic dump.""
-
-</details>
-
-<details>
-<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
-
-**[01:02:35](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-gaza-t-01-02-26)**
-> "...ke up to what has happened in Gaza and what has actually been going on."
-
-**[01:02:48](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-gaza-t-01-02-26)**
-> "...what they have always done in Gaza."
-
-</details>
-
-<details>
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (4 mentions)</summary>
 
 **[00:28:57](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-gaza-t-00-28-16)**
@@ -71,6 +37,37 @@ _Type: Places_
 
 **[00:41:27](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-gaza-t-00-41-19)**
 > "...rael has done to civilians in Gaza?"
+
+</details>
+
+<details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (5 mentions)</summary>
+
+**[00:19:25](/episodes/ep-r1PS67aRmcA.md#ent-gpe-gaza-t-00-18-49)**
+> "...that roots the destruction of Gaza on."
+
+**[00:22:48](/episodes/ep-r1PS67aRmcA.md#ent-gpe-gaza-t-00-22-18)**
+> "...ople have lost their lives in Gaza?"
+
+**[00:40:12](/episodes/ep-r1PS67aRmcA.md#ent-gpe-gaza-t-00-39-41)**
+> "...nstantly under attack in both Gaza and the West Bank."
+
+**[00:42:29](/episodes/ep-r1PS67aRmcA.md#ent-gpe-gaza-t-00-41-57)**
+> "And, you know, Gaza being destroyed is actually beneficial to their b..."
+
+**[00:44:06](/episodes/ep-r1PS67aRmcA.md#ent-gpe-gaza-t-00-43-55)**
+> "...er the real estate plan is in Gaza, that's going to be the Trump (Donald Trump) lega..."
+
+</details>
+
+<details>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
+
+**[01:02:35](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-gaza-t-01-02-26)**
+> "...ke up to what has happened in Gaza and what has actually been going on."
+
+**[01:02:48](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-gaza-t-01-02-26)**
+> "...what they have always done in Gaza."
 
 </details>
 
@@ -92,25 +89,25 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (6 mentions)</summary>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (6 mentions)</summary>
 
-**[00:31:01](/episodes/ep-ja26iltROkM.md#ent-gpe-gaza-t-00-30-33)**
-> "30 dead, raped, kidnapped, and beheaded Americans in Gaza makes the fight in Gaza America First"
+**[00:39:34](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-gaza-t-00-39-34)**
+> "the single greatest contributor to me being sort of just smacked in the gut about Gaza"
 
-**[00:52:02](/episodes/ep-ja26iltROkM.md#ent-gpe-gaza-t-00-51-39)**
-> "their actions in Gaza"
+**[00:39:34](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-gaza-t-00-39-34)**
+> "...just smacked in the gut about Gaza and learning about Gaza."
 
-**[00:30:51](/episodes/ep-ja26iltROkM.md#ent-gpe-gaza-t-00-30-33)**
-> "...ed, and beheaded Americans in Gaza makes the fight in Gaza America First.'"
+**[00:39:34](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-gaza-t-00-39-34)**
+> "...about Gaza and learning about Gaza."
 
-**[00:30:51](/episodes/ep-ja26iltROkM.md#ent-gpe-gaza-t-00-30-33)**
-> "...ns in Gaza makes the fight in Gaza America First.'"
+**[00:39:44](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-gaza-t-00-39-34)**
+> "...anything about the history of Gaza; knew nothing about it because it has been such a..."
 
-**[00:51:59](/episodes/ep-ja26iltROkM.md#ent-gpe-gaza-t-00-51-39)**
-> "...ey're doing: their actions in Gaza."
+**[00:40:51](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-gaza-t-00-40-51)**
+> "...onomist magazine—it describes Gaza as, quote, "a human rubbish heap.""
 
-**[00:53:48](/episodes/ep-ja26iltROkM.md#ent-gpe-gaza-t-00-53-40)**
-> "... from the ongoing genocide in Gaza.""
+**[00:40:59](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-gaza-t-00-40-51)**
+> "The leading UN official on Gaza describes it as, quote, "a toxic dump.""
 
 </details>
 
@@ -162,22 +159,25 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (5 mentions)</summary>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (6 mentions)</summary>
 
-**[00:19:25](/episodes/ep-r1PS67aRmcA.md#ent-gpe-gaza-t-00-18-49)**
-> "...that roots the destruction of Gaza on."
+**[00:31:01](/episodes/ep-ja26iltROkM.md#ent-gpe-gaza-t-00-30-33)**
+> "30 dead, raped, kidnapped, and beheaded Americans in Gaza makes the fight in Gaza America First"
 
-**[00:22:48](/episodes/ep-r1PS67aRmcA.md#ent-gpe-gaza-t-00-22-18)**
-> "...ople have lost their lives in Gaza?"
+**[00:52:02](/episodes/ep-ja26iltROkM.md#ent-gpe-gaza-t-00-51-39)**
+> "their actions in Gaza"
 
-**[00:40:12](/episodes/ep-r1PS67aRmcA.md#ent-gpe-gaza-t-00-39-41)**
-> "...nstantly under attack in both Gaza and the West Bank."
+**[00:30:51](/episodes/ep-ja26iltROkM.md#ent-gpe-gaza-t-00-30-33)**
+> "...ed, and beheaded Americans in Gaza makes the fight in Gaza America First.'"
 
-**[00:42:29](/episodes/ep-r1PS67aRmcA.md#ent-gpe-gaza-t-00-41-57)**
-> "And, you know, Gaza being destroyed is actually beneficial to their b..."
+**[00:30:51](/episodes/ep-ja26iltROkM.md#ent-gpe-gaza-t-00-30-33)**
+> "...ns in Gaza makes the fight in Gaza America First.'"
 
-**[00:44:06](/episodes/ep-r1PS67aRmcA.md#ent-gpe-gaza-t-00-43-55)**
-> "...er the real estate plan is in Gaza, that's going to be the Trump (Donald Trump) lega..."
+**[00:51:59](/episodes/ep-ja26iltROkM.md#ent-gpe-gaza-t-00-51-39)**
+> "...ey're doing: their actions in Gaza."
+
+**[00:53:48](/episodes/ep-ja26iltROkM.md#ent-gpe-gaza-t-00-53-40)**
+> "... from the ongoing genocide in Gaza.""
 
 </details>
 

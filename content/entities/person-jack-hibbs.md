@@ -17,6 +17,38 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (9 mentions)</summary>
+
+**[00:16:47](/episodes/ep-mKXdKV-OBog.md#ent-person-jack-hibbs-t-00-16-27)**
+> "...ctually teaches shooting. So this is not a military campus, guys. Burton Hibbs—Butch—the brother of Pastor Jack Hibbs. Jack Hibbs phones up Charlie (Charlie Kirk); he's like, "Hey, can my brother come? Can my brother ..."
+
+**[00:17:19](/episodes/ep-mKXdKV-OBog.md#ent-person-jack-hibbs-t-00-17-10)**
+> "...re that were controlled military men. That's my viewpoint. But Burton Hibbs—Butch—is the brother of Pastor Jack Hibbs. Obviously sons—I showed you—of an Air Force chief. Tyler Robinson is a Boy Scout whose Uncle Mitch..."
+
+**[00:16:50](/episodes/ep-mKXdKV-OBog.md#ent-person-jack-hibbs-t-00-16-27)**
+> "...oting. So this is not a military campus, guys. Burton Hibbs—Butch—the brother of Pastor Jack Hibbs. Jack Hibbs phones up Charlie (Charlie Kirk); he's like, "Hey, can my brother come? Can my brother come and lis..."
+
+**[00:16:50](/episodes/ep-mKXdKV-OBog.md#ent-person-jack-hibbs-t-00-16-27)**
+> "Pastor Jack Hibbs phoned Charlie to let his brother come"
+
+**[00:16:47](/episodes/ep-mKXdKV-OBog.md#ent-person-jack-hibbs-t-00-16-27)**
+> "...s—Butch—the brother of Pastor Jack Hibbs."
+
+**[00:16:47](/episodes/ep-mKXdKV-OBog.md#ent-person-jack-hibbs-t-00-16-27)**
+> "...on Hibbs—Butch—the brother of Pastor Jack Hibbs."
+
+**[00:16:50](/episodes/ep-mKXdKV-OBog.md#ent-person-jack-hibbs-t-00-16-27)**
+> "Jack Hibbs phones up Charlie (Charlie Kirk); he's like, "Hey..."
+
+**[00:17:19](/episodes/ep-mKXdKV-OBog.md#ent-person-jack-hibbs-t-00-17-10)**
+> "...utch—is the brother of Pastor Jack Hibbs. Obviously sons—I showed you—of"
+
+**[00:17:19](/episodes/ep-mKXdKV-OBog.md#ent-person-jack-hibbs-t-00-17-10)**
+> "...Hibbs—Butch—is the brother of Pastor Jack Hibbs. Obviously sons—I showed you—of"
+
+</details>
+
+<details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:44:56](/episodes/ep-7RLtGgkTh9o.md#ent-person-jack-hibbs-t-00-44-42)**
@@ -24,6 +56,26 @@ _Type: People_
 
 **[00:44:56](/episodes/ep-7RLtGgkTh9o.md#ent-person-jack-hibbs-t-00-44-42)**
 > "...information about Butch Hibbs—Jack Hibbs' brother who was here."
+
+</details>
+
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (5 mentions)</summary>
+
+**[00:28:25](/episodes/ep-yAIb-NuUh_U.md#ent-person-jack-hibbs-t-00-27-59)**
+> "...ehind this? Do you really think this is all just accidental—their obsession with Christian Zionism? Jack Hibbs among them? We mentioned him yesterday—his brother Butch Hibbs, who was just everywhere before and ..."
+
+**[00:28:43](/episodes/ep-yAIb-NuUh_U.md#ent-person-jack-hibbs-t-00-28-43)**
+> "...ou to pull it for right now. And you ask yourself—I got emails from people saying that Pastor Hibbs—Jack Hibbs—has gone mask off. He seems to be coming undone. He's hosting 5 a.m. calls against me and Tucker (T..."
+
+**[00:28:31](/episodes/ep-yAIb-NuUh_U.md#ent-person-jack-hibbs-t-00-27-59)**
+> "Their obsession with Christian Zionism? Jack Hibbs among them?"
+
+**[00:28:25](/episodes/ep-yAIb-NuUh_U.md#ent-person-jack-hibbs-t-00-27-59)**
+> "...ssion with Christian Zionism? Jack Hibbs among them?"
+
+**[00:28:43](/episodes/ep-yAIb-NuUh_U.md#ent-person-jack-hibbs-t-00-28-43)**
+> "...ople saying that Pastor Hibbs—Jack Hibbs—has gone mask off."
 
 </details>
 
@@ -118,58 +170,6 @@ _Type: People_
 
 </details>
 
-<details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (9 mentions)</summary>
-
-**[00:16:47](/episodes/ep-mKXdKV-OBog.md#ent-person-jack-hibbs-t-00-16-27)**
-> "...ctually teaches shooting. So this is not a military campus, guys. Burton Hibbs—Butch—the brother of Pastor Jack Hibbs. Jack Hibbs phones up Charlie (Charlie Kirk); he's like, "Hey, can my brother come? Can my brother ..."
-
-**[00:17:19](/episodes/ep-mKXdKV-OBog.md#ent-person-jack-hibbs-t-00-17-10)**
-> "...re that were controlled military men. That's my viewpoint. But Burton Hibbs—Butch—is the brother of Pastor Jack Hibbs. Obviously sons—I showed you—of an Air Force chief. Tyler Robinson is a Boy Scout whose Uncle Mitch..."
-
-**[00:16:50](/episodes/ep-mKXdKV-OBog.md#ent-person-jack-hibbs-t-00-16-27)**
-> "...oting. So this is not a military campus, guys. Burton Hibbs—Butch—the brother of Pastor Jack Hibbs. Jack Hibbs phones up Charlie (Charlie Kirk); he's like, "Hey, can my brother come? Can my brother come and lis..."
-
-**[00:16:50](/episodes/ep-mKXdKV-OBog.md#ent-person-jack-hibbs-t-00-16-27)**
-> "Pastor Jack Hibbs phoned Charlie to let his brother come"
-
-**[00:16:47](/episodes/ep-mKXdKV-OBog.md#ent-person-jack-hibbs-t-00-16-27)**
-> "...s—Butch—the brother of Pastor Jack Hibbs."
-
-**[00:16:47](/episodes/ep-mKXdKV-OBog.md#ent-person-jack-hibbs-t-00-16-27)**
-> "...on Hibbs—Butch—the brother of Pastor Jack Hibbs."
-
-**[00:16:50](/episodes/ep-mKXdKV-OBog.md#ent-person-jack-hibbs-t-00-16-27)**
-> "Jack Hibbs phones up Charlie (Charlie Kirk); he's like, "Hey..."
-
-**[00:17:19](/episodes/ep-mKXdKV-OBog.md#ent-person-jack-hibbs-t-00-17-10)**
-> "...utch—is the brother of Pastor Jack Hibbs. Obviously sons—I showed you—of"
-
-**[00:17:19](/episodes/ep-mKXdKV-OBog.md#ent-person-jack-hibbs-t-00-17-10)**
-> "...Hibbs—Butch—is the brother of Pastor Jack Hibbs. Obviously sons—I showed you—of"
-
-</details>
-
-<details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (5 mentions)</summary>
-
-**[00:28:25](/episodes/ep-yAIb-NuUh_U.md#ent-person-jack-hibbs-t-00-27-59)**
-> "...ehind this? Do you really think this is all just accidental—their obsession with Christian Zionism? Jack Hibbs among them? We mentioned him yesterday—his brother Butch Hibbs, who was just everywhere before and ..."
-
-**[00:28:43](/episodes/ep-yAIb-NuUh_U.md#ent-person-jack-hibbs-t-00-28-43)**
-> "...ou to pull it for right now. And you ask yourself—I got emails from people saying that Pastor Hibbs—Jack Hibbs—has gone mask off. He seems to be coming undone. He's hosting 5 a.m. calls against me and Tucker (T..."
-
-**[00:28:31](/episodes/ep-yAIb-NuUh_U.md#ent-person-jack-hibbs-t-00-27-59)**
-> "Their obsession with Christian Zionism? Jack Hibbs among them?"
-
-**[00:28:25](/episodes/ep-yAIb-NuUh_U.md#ent-person-jack-hibbs-t-00-27-59)**
-> "...ssion with Christian Zionism? Jack Hibbs among them?"
-
-**[00:28:43](/episodes/ep-yAIb-NuUh_U.md#ent-person-jack-hibbs-t-00-28-43)**
-> "...ople saying that Pastor Hibbs—Jack Hibbs—has gone mask off."
-
-</details>
-
 </details>
 
 <details open>
@@ -199,15 +199,6 @@ _Type: People_
 
 - **[Calvary Chapel](/entities/org-calvary-chapel.md)**
   - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:55](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24): "Jack Hibbs among them, Calvary Chapel pastors"
-
-</details>
-
-<details>
-<summary>Sibling Of (1)</summary>
-
-- **[Burton Hibbs](/entities/person-burton-hibbs.md)**
-  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:32:41](/episodes/ep-MUA9ebCF4Ow.md#t-00-32-19): "that old man is the brother of Pastor Jack Hibbs"
-  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:54:20](/episodes/ep-MUA9ebCF4Ow.md#t-00-54-17): "that old man is the brother of Pastor Jack Hibbs...Butch Hibbs is Pastor Jack Hibbs' brother"
 
 </details>
 

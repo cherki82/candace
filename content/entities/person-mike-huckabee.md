@@ -13,17 +13,6 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
-
-**[00:19:04](/episodes/ep-LATnak75Si0.md#ent-person-mike-huckabee-t-00-18-27)**
-> "... think you would be happier if you just moved to Israel. You could be over there singing songs with Mike Huckabee. Seems like pretty sound advice: Rather than trying to make this country Israel, why don't you just..."
-
-**[00:19:04](/episodes/ep-LATnak75Si0.md#ent-person-mike-huckabee-t-00-18-27)**
-> "...over there singing songs with Mike Huckabee."
-
-</details>
-
-<details>
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (11 mentions)</summary>
 
 **[00:25:20](/episodes/ep-mKXdKV-OBog.md#ent-person-mike-huckabee-t-00-24-49)**
@@ -58,6 +47,17 @@ _Type: People_
 
 **[00:27:34](/episodes/ep-mKXdKV-OBog.md#ent-person-mike-huckabee-t-00-27-32)**
 > "So you'd think Mike Huckabee would go, "I'm not going to meet with him because..."
+
+</details>
+
+<details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
+
+**[00:19:04](/episodes/ep-LATnak75Si0.md#ent-person-mike-huckabee-t-00-18-27)**
+> "... think you would be happier if you just moved to Israel. You could be over there singing songs with Mike Huckabee. Seems like pretty sound advice: Rather than trying to make this country Israel, why don't you just..."
+
+**[00:19:04](/episodes/ep-LATnak75Si0.md#ent-person-mike-huckabee-t-00-18-27)**
+> "...over there singing songs with Mike Huckabee."
 
 </details>
 

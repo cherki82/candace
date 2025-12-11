@@ -1,6 +1,6 @@
 ---
 title: "Virginia"
-description: "Virginia (Places) - 8 mentions"
+description: "Virginia (Places) - 10 mentions"
 id: "gpe-virginia"
 type: "GPE"
 ---
@@ -11,6 +11,34 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
+
+**[00:33:42](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-virginia-t-00-26-00)**
+> "This is a guy who grew up in Virginia"
+
+**[00:26:09](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-virginia-t-00-26-00)**
+> "This is a guy who grew up in Virginia."
+
+</details>
+
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (4 mentions)</summary>
+
+**[00:21:19](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-virginia-t-00-21-05)**
+> "...d then there's a lot of these abuse scandals. Now, there's also the former Calvary Chapel pastor in Virginia who pled guilty to child sex abuse. The former Calvary pastor's name was Doug D'Andrea. He is curre..."
+
+**[00:21:31](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-virginia-t-00-21-05)**
+> "... abuse. The former Calvary pastor's name was Doug D'Andrea. He is currently serving time in jail in Virginia on multiple charges related to child sex abuse. There's the Calvary Chapel in Fort Lauderdale in 20..."
+
+**[00:21:19](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-virginia-t-00-21-05)**
+> "...rmer Calvary Chapel pastor in Virginia who pled guilty to child sex abuse."
+
+**[00:21:31](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-virginia-t-00-21-05)**
+> "in Virginia on multiple charges related to child sex abuse."
+
+</details>
 
 <details>
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2 mentions)</summary>
@@ -31,23 +59,6 @@ _Type: Places_
 
 **[00:05:24](/episodes/ep-adJ4LNGp84I.md#ent-gpe-virginia-t-00-05-01)**
 > "...to Utah after having roots in Virginia for so long?"
-
-</details>
-
-<details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (4 mentions)</summary>
-
-**[00:21:19](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-virginia-t-00-21-05)**
-> "...d then there's a lot of these abuse scandals. Now, there's also the former Calvary Chapel pastor in Virginia who pled guilty to child sex abuse. The former Calvary pastor's name was Doug D'Andrea. He is curre..."
-
-**[00:21:31](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-virginia-t-00-21-05)**
-> "... abuse. The former Calvary pastor's name was Doug D'Andrea. He is currently serving time in jail in Virginia on multiple charges related to child sex abuse. There's the Calvary Chapel in Fort Lauderdale in 20..."
-
-**[00:21:19](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-virginia-t-00-21-05)**
-> "...rmer Calvary Chapel pastor in Virginia who pled guilty to child sex abuse."
-
-**[00:21:31](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-virginia-t-00-21-05)**
-> "in Virginia on multiple charges related to child sex abuse."
 
 </details>
 

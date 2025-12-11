@@ -13,6 +13,28 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (2 mentions)</summary>
+
+**[00:04:50](/episodes/ep-t4U7NjnUEgc.md#t-00-04-35)**
+> "he is on CNN News Japan speaking"
+
+**[00:29:22](/episodes/ep-t4U7NjnUEgc.md#t-00-29-22)**
+> "..., he's in Japan, and he is on CNN News Japan speaking."
+
+</details>
+
+<details>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (2 mentions)</summary>
+
+**[00:36:35](/episodes/ep-DqGNvi36ol8.md#t-00-36-25)**
+> "Go head to head with CNN while bumping CNN."
+
+**[00:36:35](/episodes/ep-DqGNvi36ol8.md#t-00-36-25)**
+> "...o head with CNN while bumping CNN."
+
+</details>
+
+<details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (9 mentions)</summary>
 
 **[00:12:12](/episodes/ep-581dILVcEE4.md#t-00-11-38)**
@@ -45,54 +67,6 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
-
-**[00:27:34](/episodes/ep-Cq7nj9rxPdo.md#t-00-27-09)**
-> "...her lawyer. Why on your show? Why are you the first show she would pick? Why doesn't she go on like CNN or Fox News?" And I looked, and of course, yeah, you got military—military all over that background..."
-
-**[00:27:34](/episodes/ep-Cq7nj9rxPdo.md#t-00-27-09)**
-> "Why doesn't she go on like CNN or Fox News?""
-
-</details>
-
-<details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (2 mentions)</summary>
-
-**[00:36:35](/episodes/ep-DqGNvi36ol8.md#t-00-36-25)**
-> "Go head to head with CNN while bumping CNN."
-
-**[00:36:35](/episodes/ep-DqGNvi36ol8.md#t-00-36-25)**
-> "...o head with CNN while bumping CNN."
-
-</details>
-
-<details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (7 mentions)</summary>
-
-**[00:15:00](/episodes/ep-LATnak75Si0.md#t-00-14-30)**
-> "...here, you can see that Israel was a factor in a lot of these people's votes. This is according to a CNN exit poll of about 4,700 people coming out. Really, it's an election for mayor of New York. I don't..."
-
-**[00:30:21](/episodes/ep-LATnak75Si0.md#t-00-30-17)**
-> "...by the way, regarding that. But there was this riveting segment that apparently happened in July on CNN that I saw for the first time this morning as it was going around on X, and it's really amazing. An..."
-
-**[00:30:34](/episodes/ep-LATnak75Si0.md#t-00-30-17)**
-> "... guess—how people feel about me in the establishment media in a nutshell. So let's take a listen to CNN. (Clip from CNN) "Not only is she stupid, but she's also disgusting, right? I mean, Candace (Candac..."
-
-**[00:15:00](/episodes/ep-LATnak75Si0.md#t-00-14-30)**
-> "This is according to a CNN exit poll of about 4,700 people coming out."
-
-**[00:30:21](/episodes/ep-LATnak75Si0.md#t-00-30-17)**
-> "...pparently happened in July on CNN that I saw for the first time this morning as it ..."
-
-**[00:30:34](/episodes/ep-LATnak75Si0.md#t-00-30-17)**
-> "So let's take a listen to CNN. (Clip from CNN)"
-
-**[00:30:34](/episodes/ep-LATnak75Si0.md#t-00-30-17)**
-> "...e a listen to CNN. (Clip from CNN)"
-
-</details>
-
-<details>
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (7 mentions)</summary>
 
 **[00:06:46](/episodes/ep-YaZfwLQ7vrI.md#t-00-06-06)**
@@ -115,34 +89,6 @@ _Type: Organizations_
 
 **[00:57:26](/episodes/ep-YaZfwLQ7vrI.md#t-00-56-54)**
 > ""She spoke to CNN.""
-
-</details>
-
-<details>
-<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (2 mentions)</summary>
-
-**[00:20:54](/episodes/ep-c5BcKF91iec.md#t-00-20-16)**
-> "...e footage behind Charlie's head.'" Does it? Whatever. And then he gives the footage to... Fox News, CNN, and they play it. And what happens after that? I said to him, "Oh, I know what happens after. We a..."
-
-**[00:20:54](/episodes/ep-c5BcKF91iec.md#t-00-20-16)**
-> "Fox News, CNN, and they play it."
-
-</details>
-
-<details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (4 mentions)</summary>
-
-**[00:33:57](/episodes/ep-iHav0PPzUz8.md#t-00-33-30)**
-> "...ount for saying cheap. I'm sure that's not good. Anyways, Stop Antisemitism actually tweeted this: "CNN platforming Anna Kasparian. Turning Point USA refusing to cut Tucker (Tucker Carlson). This is how ..."
-
-**[00:34:28](/episodes/ep-iHav0PPzUz8.md#t-00-34-12)**
-> "...er Carlson)—has had a conversation with someone that he disagrees with. Anna Kasparian went on like CNN, and that was it. Then there was a Holocaust, and it has to be stopped. I mean, it's not even good...."
-
-**[00:33:57](/episodes/ep-iHav0PPzUz8.md#t-00-33-30)**
-> ""CNN platforming Anna Kasparian. Turning Point USA ref..."
-
-**[00:34:28](/episodes/ep-iHav0PPzUz8.md#t-00-34-12)**
-> "Anna Kasparian went on like CNN, and that was it."
 
 </details>
 
@@ -182,13 +128,67 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (2 mentions)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (7 mentions)</summary>
 
-**[00:04:50](/episodes/ep-t4U7NjnUEgc.md#t-00-04-35)**
-> "he is on CNN News Japan speaking"
+**[00:15:00](/episodes/ep-LATnak75Si0.md#t-00-14-30)**
+> "...here, you can see that Israel was a factor in a lot of these people's votes. This is according to a CNN exit poll of about 4,700 people coming out. Really, it's an election for mayor of New York. I don't..."
 
-**[00:29:22](/episodes/ep-t4U7NjnUEgc.md#t-00-29-22)**
-> "..., he's in Japan, and he is on CNN News Japan speaking."
+**[00:30:21](/episodes/ep-LATnak75Si0.md#t-00-30-17)**
+> "...by the way, regarding that. But there was this riveting segment that apparently happened in July on CNN that I saw for the first time this morning as it was going around on X, and it's really amazing. An..."
+
+**[00:30:34](/episodes/ep-LATnak75Si0.md#t-00-30-17)**
+> "... guess—how people feel about me in the establishment media in a nutshell. So let's take a listen to CNN. (Clip from CNN) "Not only is she stupid, but she's also disgusting, right? I mean, Candace (Candac..."
+
+**[00:15:00](/episodes/ep-LATnak75Si0.md#t-00-14-30)**
+> "This is according to a CNN exit poll of about 4,700 people coming out."
+
+**[00:30:21](/episodes/ep-LATnak75Si0.md#t-00-30-17)**
+> "...pparently happened in July on CNN that I saw for the first time this morning as it ..."
+
+**[00:30:34](/episodes/ep-LATnak75Si0.md#t-00-30-17)**
+> "So let's take a listen to CNN. (Clip from CNN)"
+
+**[00:30:34](/episodes/ep-LATnak75Si0.md#t-00-30-17)**
+> "...e a listen to CNN. (Clip from CNN)"
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (4 mentions)</summary>
+
+**[00:33:57](/episodes/ep-iHav0PPzUz8.md#t-00-33-30)**
+> "...ount for saying cheap. I'm sure that's not good. Anyways, Stop Antisemitism actually tweeted this: "CNN platforming Anna Kasparian. Turning Point USA refusing to cut Tucker (Tucker Carlson). This is how ..."
+
+**[00:34:28](/episodes/ep-iHav0PPzUz8.md#t-00-34-12)**
+> "...er Carlson)—has had a conversation with someone that he disagrees with. Anna Kasparian went on like CNN, and that was it. Then there was a Holocaust, and it has to be stopped. I mean, it's not even good...."
+
+**[00:33:57](/episodes/ep-iHav0PPzUz8.md#t-00-33-30)**
+> ""CNN platforming Anna Kasparian. Turning Point USA ref..."
+
+**[00:34:28](/episodes/ep-iHav0PPzUz8.md#t-00-34-12)**
+> "Anna Kasparian went on like CNN, and that was it."
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
+
+**[00:27:34](/episodes/ep-Cq7nj9rxPdo.md#t-00-27-09)**
+> "...her lawyer. Why on your show? Why are you the first show she would pick? Why doesn't she go on like CNN or Fox News?" And I looked, and of course, yeah, you got military—military all over that background..."
+
+**[00:27:34](/episodes/ep-Cq7nj9rxPdo.md#t-00-27-09)**
+> "Why doesn't she go on like CNN or Fox News?""
+
+</details>
+
+<details>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (2 mentions)</summary>
+
+**[00:20:54](/episodes/ep-c5BcKF91iec.md#t-00-20-16)**
+> "...e footage behind Charlie's head.'" Does it? Whatever. And then he gives the footage to... Fox News, CNN, and they play it. And what happens after that? I said to him, "Oh, I know what happens after. We a..."
+
+**[00:20:54](/episodes/ep-c5BcKF91iec.md#t-00-20-16)**
+> "Fox News, CNN, and they play it."
 
 </details>
 

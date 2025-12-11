@@ -13,50 +13,6 @@ _Type: Concepts_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (2 mentions)</summary>
-
-**[00:52:37](/episodes/ep-2WEHTk0Xewg.md#ent-concept-christians-t-00-52-17)**
-> "...rapple with principles you've been espousing for years—like America First, like what's happening to Christians, like what's best for us and our kids here? How do I keep them safe? That's my number one priority...."
-
-**[00:52:37](/episodes/ep-2WEHTk0Xewg.md#ent-concept-christians-t-00-52-17)**
-> "...rst, like what's happening to Christians, like what's best for us and our kids here?"
-
-</details>
-
-<details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
-
-**[00:42:16](/episodes/ep-581dILVcEE4.md#ent-concept-christians-t-00-42-16)**
-> "...ave so many megachurches everywhere—everywhere across America. And they basically exist to convince Christians to worship the IDF. I just find that to be quite strange. Let me know if I'm out of pocket here and..."
-
-**[00:42:16](/episodes/ep-581dILVcEE4.md#ent-concept-christians-t-00-42-16)**
-> "...y basically exist to convince Christians to worship the IDF."
-
-</details>
-
-<details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
-
-**[00:54:16](/episodes/ep-7RLtGgkTh9o.md#ent-concept-christians-t-00-53-48)**
-> "...they should be fearful. Whatever they are hiding, I'm going to find. Christopher Jolly writes, "Are Christians." "Many LDS members like me love your work." "Any crooks—please bust them." "We want truth." "Wheat..."
-
-**[00:54:16](/episodes/ep-7RLtGgkTh9o.md#ent-concept-christians-t-00-53-48)**
-> ""Are Christians.""
-
-</details>
-
-<details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (2 mentions)</summary>
-
-**[00:03:32](/episodes/ep-JQjCAsfoXEE.md#ent-concept-christians-t-00-03-32)**
-> "...t's time to just humble yourself and not make it all about you. It's about the Lord. You hear that, Christians? Asking questions is just—it's not about you. I mean, is there anything that they didn't try? You'r..."
-
-**[00:03:32](/episodes/ep-JQjCAsfoXEE.md#ent-concept-christians-t-00-03-32)**
-> "You hear that, Christians?"
-
-</details>
-
-<details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
 
 **[00:16:15](/episodes/ep-Kmt6HgRjckU.md#ent-concept-christians-t-00-16-13)**
@@ -64,86 +20,6 @@ _Type: Concepts_
 
 **[00:39:23](/episodes/ep-Kmt6HgRjckU.md#ent-concept-christians-t-00-39-23)**
 > "...d in all these countries that Christians are being massed, murdered, and slaughtered, and ..."
-
-</details>
-
-<details>
-<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (8 mentions)</summary>
-
-**[00:14:18](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christians-t-00-14-10)**
-> "...nd now you've got this church, and they are a part of what is described online as a cult. It's like Christians for Jews. You look into it yourself. I honestly can't explain it, but that's just something that yo..."
-
-**[00:33:22](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christians-t-00-33-02)**
-> "...he case of the whole hero of the New Testament, the human hero—was a guy called Paul, was murdering Christians as a Pharisee and then becomes the greatest proselytizer from the history of Christianity—and my pe..."
-
-**[00:35:05](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christians-t-00-34-39)**
-> "...f movements where people are just tired of it. They're just tired of this. This is not the way that Christians think, actually. We very much don't live in a Christian society because we live in a Christian Zion..."
-
-**[00:39:00](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christians-t-00-38-31)**
-> "...e turn of the 19th century across Europe—why so many speech laws have been passed in Europe—kind of Christians in the way that we're doing right now, waking up and going, "What is the guiding philosophy of thes..."
-
-**[00:14:18](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christians-t-00-14-10)**
-> "It's like Christians for Jews."
-
-**[00:33:22](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christians-t-00-33-02)**
-> "...uy called Paul, was murdering Christians as a Pharisee and"
-
-**[00:35:05](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christians-t-00-34-39)**
-> "This is not the way that Christians think, actually."
-
-**[00:39:00](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christians-t-00-38-31)**
-> "...been passed in Europe—kind of Christians in the way that we're doing right now, waking up ..."
-
-</details>
-
-<details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
-
-**[00:43:51](/episodes/ep-YA1FxrDWNIo.md#ent-concept-christians-t-00-43-43)**
-> "...these people are getting paid: quote-unquote 501(c)(3)s, dedicating themselves to the fellowship of Christians and Jews. I mean, it is a really disturbing market, but you would think that following an assassina..."
-
-**[00:43:51](/episodes/ep-YA1FxrDWNIo.md#ent-concept-christians-t-00-43-43)**
-> "...emselves to the fellowship of Christians and Jews."
-
-</details>
-
-<details>
-<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (6 mentions)</summary>
-
-**[00:52:22](/episodes/ep-YFmRH8p5lt0.md#ent-concept-christians-t-00-51-43)**
-> "... pops up. It doesn't matter if you're talking about Congo. They'll be like, "Well, look at what the Christians are being slaughtered in Congo." Oopsies—Dan Gertler, diamond thing. How are they number one in the..."
-
-**[00:53:39](/episodes/ep-YFmRH8p5lt0.md#ent-concept-christians-t-00-53-12)**
-> "...ill be a turning point, but it is not going to be the one that they are banking on where a bunch of Christians are sold slop and are told that it is their God-given duty to support the nation of Israel while lo..."
-
-**[01:01:58](/episodes/ep-YFmRH8p5lt0.md#ent-concept-christians-t-01-01-43)**
-> "...g a Courageous Christianity Tour to honor Charlie (Charlie Kirk)." I am really begging for the real Christians in this world to research these men, to watch this episode over and over again, to consider what I ..."
-
-**[00:52:22](/episodes/ep-YFmRH8p5lt0.md#ent-concept-christians-t-00-51-43)**
-> "...like, "Well, look at what the Christians are being slaughtered in Congo.""
-
-**[00:53:39](/episodes/ep-YFmRH8p5lt0.md#ent-concept-christians-t-00-53-12)**
-> "...e banking on where a bunch of Christians are sold slop and are told that it is their God-g..."
-
-**[01:01:58](/episodes/ep-YFmRH8p5lt0.md#ent-concept-christians-t-01-01-43)**
-> "...m really begging for the real Christians in this world to research these men, to watch thi..."
-
-</details>
-
-<details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (4 mentions)</summary>
-
-**[00:29:26](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-christians-t-00-29-00)**
-> "...ple that cheer on kids being killed and churches being bombed and insinuate—as he did—that even the Christians in Gaza are really human beings and that they're all supporting Hamas, which is basically justifyin..."
-
-**[00:40:20](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-christians-t-00-39-54)**
-> "... I want nothing to do with you." "What you've become—you're vile lies against my faith, millions of Christians, and in my view, what you seek to do to our country." "There's nothing to debate." "You're a Nazi p..."
-
-**[00:29:26](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-christians-t-00-29-00)**
-> "...nuate—as he did—that even the Christians in Gaza are really human beings and that they're ..."
-
-**[00:40:20](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-christians-t-00-39-54)**
-> "...against my faith, millions of Christians, and in my view,"
 
 </details>
 
@@ -158,6 +34,17 @@ _Type: Concepts_
 
 **[00:51:37](/episodes/ep-ZAuuSq_j2_w.md#ent-concept-christians-t-00-51-31)**
 > "... go fight and slaughter other Christians, okay?"
+
+</details>
+
+<details>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
+
+**[00:11:59](/episodes/ep-his-JBjlkh8.md#ent-concept-christians-t-00-11-59)**
+> "...vary Chapel Church during the decade of the '60s, where the CIA was really just spiking the ball on Christians in general. Let's keep going. Even if not everyone has been named specifically, though, Candace has..."
+
+**[00:11:59](/episodes/ep-his-JBjlkh8.md#ent-concept-christians-t-00-11-59)**
+> "...ally just spiking the ball on Christians in general."
 
 </details>
 
@@ -215,47 +102,160 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (6 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
-**[00:48:55](/episodes/ep-adJ4LNGp84I.md#ent-concept-christians-t-00-48-55)**
-> "...but they take money from an agent of Israel or an organization like the International Fellowship of Christians and Jews, which, if you go to their website, it's basically like, hey, Christians, here's what you ..."
+**[00:35:14](/episodes/ep-mKXdKV-OBog.md#ent-concept-christians-t-00-34-40)**
+> "... just don't know where this is all going, I guess. Like, are we gonna be put back in the gulag? Are Christians going back in the gulag? I don't know. But we're certainly going to find out. I'm gonna take a brie..."
 
-**[00:49:08](/episodes/ep-adJ4LNGp84I.md#ent-concept-christians-t-00-48-55)**
-> "...nal Fellowship of Christians and Jews, which, if you go to their website, it's basically like, hey, Christians, here's what you can do for Jews. There's nothing that's spoken about what Christians are going thr..."
-
-**[00:49:12](/episodes/ep-adJ4LNGp84I.md#ent-concept-christians-t-00-48-55)**
-> "...ly like, hey, Christians, here's what you can do for Jews. There's nothing that's spoken about what Christians are going through. And they flood money into that and they get you to say that it's like a fellowsh..."
-
-**[00:48:55](/episodes/ep-adJ4LNGp84I.md#ent-concept-christians-t-00-48-55)**
-> "...e International Fellowship of Christians and Jews, which, if you go to their website,"
-
-**[00:49:08](/episodes/ep-adJ4LNGp84I.md#ent-concept-christians-t-00-48-55)**
-> "it's basically like, hey, Christians, here's what you can do for Jews."
-
-**[00:49:12](/episodes/ep-adJ4LNGp84I.md#ent-concept-christians-t-00-48-55)**
-> "...hing that's spoken about what Christians are going through."
+**[00:35:14](/episodes/ep-mKXdKV-OBog.md#ent-concept-christians-t-00-34-40)**
+> "Are Christians going back in the gulag?"
 
 </details>
 
 <details>
-<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (2 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (4 mentions)</summary>
 
-**[00:42:19](/episodes/ep-c5BcKF91iec.md#ent-concept-christians-t-00-41-43)**
-> "...lty?" And I told him, I've always been against it. And typically that's a theological conversation. Christians go back and forth on it: Do you have a right to take a life? I'm on the side that no, we don't have..."
+**[00:48:21](/episodes/ep-sImMM04XdWY.md#ent-concept-christians-t-00-47-54)**
+> "... do every single day. Redenta Mama writes: "My fingers are tired from pushing back on quote-unquote Christians on X calling you sinister. I said he's paid or he's not listening. He used me to claim that you tra..."
 
-**[00:42:19](/episodes/ep-c5BcKF91iec.md#ent-concept-christians-t-00-41-43)**
-> "Christians go back and forth on it:"
+**[00:48:33](/episodes/ep-sImMM04XdWY.md#ent-concept-christians-t-00-47-54)**
+> "...on about things, and you should. And you're seeing that it is—like I said—very strange that so many Christians are now trying to tell us that it's not biblical to pursue truth, right? Of course, you have to ask..."
+
+**[00:48:21](/episodes/ep-sImMM04XdWY.md#ent-concept-christians-t-00-47-54)**
+> "...pushing back on quote-unquote Christians on X calling you sinister. I said he's paid or he..."
+
+**[00:48:33](/episodes/ep-sImMM04XdWY.md#ent-concept-christians-t-00-47-54)**
+> "...aid—very strange that so many Christians are now trying to tell us that it's not biblical ..."
 
 </details>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
 
-**[00:11:59](/episodes/ep-his-JBjlkh8.md#ent-concept-christians-t-00-11-59)**
-> "...vary Chapel Church during the decade of the '60s, where the CIA was really just spiking the ball on Christians in general. Let's keep going. Even if not everyone has been named specifically, though, Candace has..."
+**[00:42:16](/episodes/ep-581dILVcEE4.md#ent-concept-christians-t-00-42-16)**
+> "...ave so many megachurches everywhere—everywhere across America. And they basically exist to convince Christians to worship the IDF. I just find that to be quite strange. Let me know if I'm out of pocket here and..."
 
-**[00:11:59](/episodes/ep-his-JBjlkh8.md#ent-concept-christians-t-00-11-59)**
-> "...ally just spiking the ball on Christians in general."
+**[00:42:16](/episodes/ep-581dILVcEE4.md#ent-concept-christians-t-00-42-16)**
+> "...y basically exist to convince Christians to worship the IDF."
+
+</details>
+
+<details>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (2 mentions)</summary>
+
+**[00:03:32](/episodes/ep-JQjCAsfoXEE.md#ent-concept-christians-t-00-03-32)**
+> "...t's time to just humble yourself and not make it all about you. It's about the Lord. You hear that, Christians? Asking questions is just—it's not about you. I mean, is there anything that they didn't try? You'r..."
+
+**[00:03:32](/episodes/ep-JQjCAsfoXEE.md#ent-concept-christians-t-00-03-32)**
+> "You hear that, Christians?"
+
+</details>
+
+<details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
+
+**[00:54:16](/episodes/ep-7RLtGgkTh9o.md#ent-concept-christians-t-00-53-48)**
+> "...they should be fearful. Whatever they are hiding, I'm going to find. Christopher Jolly writes, "Are Christians." "Many LDS members like me love your work." "Any crooks—please bust them." "We want truth." "Wheat..."
+
+**[00:54:16](/episodes/ep-7RLtGgkTh9o.md#ent-concept-christians-t-00-53-48)**
+> ""Are Christians.""
+
+</details>
+
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
+
+**[00:53:54](/episodes/ep-yAIb-NuUh_U.md#ent-concept-christians-t-00-53-29)**
+> ".... I'm not gonna rant—Henry Kissinger's war. And the truth about that—it's always been a war against Christians. And I'm not going to rant about that because it's not the book club, but I'm going to rant about t..."
+
+**[00:53:54](/episodes/ep-yAIb-NuUh_U.md#ent-concept-christians-t-00-53-29)**
+> "...t's always been a war against Christians."
+
+</details>
+
+<details>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (4 mentions)</summary>
+
+**[00:29:26](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-christians-t-00-29-00)**
+> "...ple that cheer on kids being killed and churches being bombed and insinuate—as he did—that even the Christians in Gaza are really human beings and that they're all supporting Hamas, which is basically justifyin..."
+
+**[00:40:20](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-christians-t-00-39-54)**
+> "... I want nothing to do with you." "What you've become—you're vile lies against my faith, millions of Christians, and in my view, what you seek to do to our country." "There's nothing to debate." "You're a Nazi p..."
+
+**[00:29:26](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-christians-t-00-29-00)**
+> "...nuate—as he did—that even the Christians in Gaza are really human beings and that they're ..."
+
+**[00:40:20](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-christians-t-00-39-54)**
+> "...against my faith, millions of Christians, and in my view,"
+
+</details>
+
+<details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (4 mentions)</summary>
+
+**[00:40:12](/episodes/ep-r1PS67aRmcA.md#ent-concept-christians-t-00-39-41)**
+> "... ally to the U.S. all the way since 1960 when they bombed the USS Liberty. Israel is a nation where Christians are constantly under attack in both Gaza and the West Bank. We talk about America first and defendi..."
+
+**[00:40:20](/episodes/ep-r1PS67aRmcA.md#ent-concept-christians-t-00-39-41)**
+> "...e constantly under attack in both Gaza and the West Bank. We talk about America first and defending Christians, but how can we do this if we align ourselves with a nation that does not do that itself? There's n..."
+
+**[00:40:12](/episodes/ep-r1PS67aRmcA.md#ent-concept-christians-t-00-39-41)**
+> "Israel is a nation where Christians are constantly under attack in both Gaza and the ..."
+
+**[00:40:20](/episodes/ep-r1PS67aRmcA.md#ent-concept-christians-t-00-39-41)**
+> "...t America first and defending Christians, but how can we do this if we align ourselves wit..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (8 mentions)</summary>
+
+**[00:14:18](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christians-t-00-14-10)**
+> "...nd now you've got this church, and they are a part of what is described online as a cult. It's like Christians for Jews. You look into it yourself. I honestly can't explain it, but that's just something that yo..."
+
+**[00:33:22](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christians-t-00-33-02)**
+> "...he case of the whole hero of the New Testament, the human hero—was a guy called Paul, was murdering Christians as a Pharisee and then becomes the greatest proselytizer from the history of Christianity—and my pe..."
+
+**[00:35:05](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christians-t-00-34-39)**
+> "...f movements where people are just tired of it. They're just tired of this. This is not the way that Christians think, actually. We very much don't live in a Christian society because we live in a Christian Zion..."
+
+**[00:39:00](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christians-t-00-38-31)**
+> "...e turn of the 19th century across Europe—why so many speech laws have been passed in Europe—kind of Christians in the way that we're doing right now, waking up and going, "What is the guiding philosophy of thes..."
+
+**[00:14:18](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christians-t-00-14-10)**
+> "It's like Christians for Jews."
+
+**[00:33:22](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christians-t-00-33-02)**
+> "...uy called Paul, was murdering Christians as a Pharisee and"
+
+**[00:35:05](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christians-t-00-34-39)**
+> "This is not the way that Christians think, actually."
+
+**[00:39:00](/episodes/ep-Qfwr08Ebczo.md#ent-concept-christians-t-00-38-31)**
+> "...been passed in Europe—kind of Christians in the way that we're doing right now, waking up ..."
+
+</details>
+
+<details>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (6 mentions)</summary>
+
+**[00:52:22](/episodes/ep-YFmRH8p5lt0.md#ent-concept-christians-t-00-51-43)**
+> "... pops up. It doesn't matter if you're talking about Congo. They'll be like, "Well, look at what the Christians are being slaughtered in Congo." Oopsies—Dan Gertler, diamond thing. How are they number one in the..."
+
+**[00:53:39](/episodes/ep-YFmRH8p5lt0.md#ent-concept-christians-t-00-53-12)**
+> "...ill be a turning point, but it is not going to be the one that they are banking on where a bunch of Christians are sold slop and are told that it is their God-given duty to support the nation of Israel while lo..."
+
+**[01:01:58](/episodes/ep-YFmRH8p5lt0.md#ent-concept-christians-t-01-01-43)**
+> "...g a Courageous Christianity Tour to honor Charlie (Charlie Kirk)." I am really begging for the real Christians in this world to research these men, to watch this episode over and over again, to consider what I ..."
+
+**[00:52:22](/episodes/ep-YFmRH8p5lt0.md#ent-concept-christians-t-00-51-43)**
+> "...like, "Well, look at what the Christians are being slaughtered in Congo.""
+
+**[00:53:39](/episodes/ep-YFmRH8p5lt0.md#ent-concept-christians-t-00-53-12)**
+> "...e banking on where a bunch of Christians are sold slop and are told that it is their God-g..."
+
+**[01:01:58](/episodes/ep-YFmRH8p5lt0.md#ent-concept-christians-t-01-01-43)**
+> "...m really begging for the real Christians in this world to research these men, to watch thi..."
 
 </details>
 
@@ -283,6 +283,51 @@ _Type: Concepts_
 </details>
 
 <details>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (2 mentions)</summary>
+
+**[00:42:19](/episodes/ep-c5BcKF91iec.md#ent-concept-christians-t-00-41-43)**
+> "...lty?" And I told him, I've always been against it. And typically that's a theological conversation. Christians go back and forth on it: Do you have a right to take a life? I'm on the side that no, we don't have..."
+
+**[00:42:19](/episodes/ep-c5BcKF91iec.md#ent-concept-christians-t-00-41-43)**
+> "Christians go back and forth on it:"
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (6 mentions)</summary>
+
+**[00:48:55](/episodes/ep-adJ4LNGp84I.md#ent-concept-christians-t-00-48-55)**
+> "...but they take money from an agent of Israel or an organization like the International Fellowship of Christians and Jews, which, if you go to their website, it's basically like, hey, Christians, here's what you ..."
+
+**[00:49:08](/episodes/ep-adJ4LNGp84I.md#ent-concept-christians-t-00-48-55)**
+> "...nal Fellowship of Christians and Jews, which, if you go to their website, it's basically like, hey, Christians, here's what you can do for Jews. There's nothing that's spoken about what Christians are going thr..."
+
+**[00:49:12](/episodes/ep-adJ4LNGp84I.md#ent-concept-christians-t-00-48-55)**
+> "...ly like, hey, Christians, here's what you can do for Jews. There's nothing that's spoken about what Christians are going through. And they flood money into that and they get you to say that it's like a fellowsh..."
+
+**[00:48:55](/episodes/ep-adJ4LNGp84I.md#ent-concept-christians-t-00-48-55)**
+> "...e International Fellowship of Christians and Jews, which, if you go to their website,"
+
+**[00:49:08](/episodes/ep-adJ4LNGp84I.md#ent-concept-christians-t-00-48-55)**
+> "it's basically like, hey, Christians, here's what you can do for Jews."
+
+**[00:49:12](/episodes/ep-adJ4LNGp84I.md#ent-concept-christians-t-00-48-55)**
+> "...hing that's spoken about what Christians are going through."
+
+</details>
+
+<details>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
+
+**[00:43:51](/episodes/ep-YA1FxrDWNIo.md#ent-concept-christians-t-00-43-43)**
+> "...these people are getting paid: quote-unquote 501(c)(3)s, dedicating themselves to the fellowship of Christians and Jews. I mean, it is a really disturbing market, but you would think that following an assassina..."
+
+**[00:43:51](/episodes/ep-YA1FxrDWNIo.md#ent-concept-christians-t-00-43-43)**
+> "...emselves to the fellowship of Christians and Jews."
+
+</details>
+
+<details>
 <summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (4 mentions)</summary>
 
 **[00:11:43](/episodes/ep-ja26iltROkM.md#ent-concept-christians-t-00-11-35)**
@@ -300,58 +345,13 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (2 mentions)</summary>
 
-**[00:35:14](/episodes/ep-mKXdKV-OBog.md#ent-concept-christians-t-00-34-40)**
-> "... just don't know where this is all going, I guess. Like, are we gonna be put back in the gulag? Are Christians going back in the gulag? I don't know. But we're certainly going to find out. I'm gonna take a brie..."
+**[00:52:37](/episodes/ep-2WEHTk0Xewg.md#ent-concept-christians-t-00-52-17)**
+> "...rapple with principles you've been espousing for years—like America First, like what's happening to Christians, like what's best for us and our kids here? How do I keep them safe? That's my number one priority...."
 
-**[00:35:14](/episodes/ep-mKXdKV-OBog.md#ent-concept-christians-t-00-34-40)**
-> "Are Christians going back in the gulag?"
-
-</details>
-
-<details>
-<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (4 mentions)</summary>
-
-**[00:40:12](/episodes/ep-r1PS67aRmcA.md#ent-concept-christians-t-00-39-41)**
-> "... ally to the U.S. all the way since 1960 when they bombed the USS Liberty. Israel is a nation where Christians are constantly under attack in both Gaza and the West Bank. We talk about America first and defendi..."
-
-**[00:40:20](/episodes/ep-r1PS67aRmcA.md#ent-concept-christians-t-00-39-41)**
-> "...e constantly under attack in both Gaza and the West Bank. We talk about America first and defending Christians, but how can we do this if we align ourselves with a nation that does not do that itself? There's n..."
-
-**[00:40:12](/episodes/ep-r1PS67aRmcA.md#ent-concept-christians-t-00-39-41)**
-> "Israel is a nation where Christians are constantly under attack in both Gaza and the ..."
-
-**[00:40:20](/episodes/ep-r1PS67aRmcA.md#ent-concept-christians-t-00-39-41)**
-> "...t America first and defending Christians, but how can we do this if we align ourselves wit..."
-
-</details>
-
-<details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (4 mentions)</summary>
-
-**[00:48:21](/episodes/ep-sImMM04XdWY.md#ent-concept-christians-t-00-47-54)**
-> "... do every single day. Redenta Mama writes: "My fingers are tired from pushing back on quote-unquote Christians on X calling you sinister. I said he's paid or he's not listening. He used me to claim that you tra..."
-
-**[00:48:33](/episodes/ep-sImMM04XdWY.md#ent-concept-christians-t-00-47-54)**
-> "...on about things, and you should. And you're seeing that it is—like I said—very strange that so many Christians are now trying to tell us that it's not biblical to pursue truth, right? Of course, you have to ask..."
-
-**[00:48:21](/episodes/ep-sImMM04XdWY.md#ent-concept-christians-t-00-47-54)**
-> "...pushing back on quote-unquote Christians on X calling you sinister. I said he's paid or he..."
-
-**[00:48:33](/episodes/ep-sImMM04XdWY.md#ent-concept-christians-t-00-47-54)**
-> "...aid—very strange that so many Christians are now trying to tell us that it's not biblical ..."
-
-</details>
-
-<details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
-
-**[00:53:54](/episodes/ep-yAIb-NuUh_U.md#ent-concept-christians-t-00-53-29)**
-> ".... I'm not gonna rant—Henry Kissinger's war. And the truth about that—it's always been a war against Christians. And I'm not going to rant about that because it's not the book club, but I'm going to rant about t..."
-
-**[00:53:54](/episodes/ep-yAIb-NuUh_U.md#ent-concept-christians-t-00-53-29)**
-> "...t's always been a war against Christians."
+**[00:52:37](/episodes/ep-2WEHTk0Xewg.md#ent-concept-christians-t-00-52-17)**
+> "...rst, like what's happening to Christians, like what's best for us and our kids here?"
 
 </details>
 

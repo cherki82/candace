@@ -36,20 +36,6 @@ _Type: People_
 </details>
 
 <details>
-<summary>To My Friend, Charlie Kirk. (3 mentions)</summary>
-
-**[00:07:09](/episodes/ep-_dRaEO47-co.md#ent-person-dave-rubin-t-00-07-08)**
-> "...do it alone.” And we did. We went—we went at it alone. Actually, I think for that particular event, Dave Rubin hopped on, and the rest was future. For two years straight, Charlie (Charlie Kirk) and I flew aroun..."
-
-**[00:07:09](/episodes/ep-_dRaEO47-co.md#ent-person-dave-rubin-t-00-07-08)**
-> "...nk for that particular event, Dave Rubin (Dave Rubin) hopped on, and the rest was future."
-
-**[00:07:09](/episodes/ep-_dRaEO47-co.md#ent-person-dave-rubin-t-00-07-08)**
-> "...particular event, Dave Rubin (Dave Rubin) hopped on, and the rest was future."
-
-</details>
-
-<details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
 
 **[00:37:04](/episodes/ep-adJ4LNGp84I.md#ent-person-dave-rubin-t-00-37-04)**
@@ -82,6 +68,20 @@ _Type: People_
 
 </details>
 
+<details>
+<summary>To My Friend, Charlie Kirk. (3 mentions)</summary>
+
+**[00:07:09](/episodes/ep-_dRaEO47-co.md#ent-person-dave-rubin-t-00-07-08)**
+> "...do it alone.” And we did. We went—we went at it alone. Actually, I think for that particular event, Dave Rubin hopped on, and the rest was future. For two years straight, Charlie (Charlie Kirk) and I flew aroun..."
+
+**[00:07:09](/episodes/ep-_dRaEO47-co.md#ent-person-dave-rubin-t-00-07-08)**
+> "...nk for that particular event, Dave Rubin (Dave Rubin) hopped on, and the rest was future."
+
+**[00:07:09](/episodes/ep-_dRaEO47-co.md#ent-person-dave-rubin-t-00-07-08)**
+> "...particular event, Dave Rubin (Dave Rubin) hopped on, and the rest was future."
+
+</details>
+
 </details>
 
 <details open>
@@ -100,14 +100,6 @@ _Type: People_
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
   - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:07:10](/episodes/ep-MUA9ebCF4Ow.md#t-00-07-09): "Dave Rubin weighed in on the matter, and he called what Ben did...he referred to it as almost an act of bravery"
-
-</details>
-
-<details>
-<summary>Worked With (1)</summary>
-
-- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [To My Friend, Charlie Kirk. @ 00:07:09](/episodes/ep-_dRaEO47-co.md#t-00-07-08): "Actually, I think for that particular event, Dave Rubin hopped on"
 
 </details>
 

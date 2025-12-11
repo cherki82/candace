@@ -17,6 +17,17 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
+
+**[00:12:24](/episodes/ep-a-e7HC6SeK8.md#ent-org-insight-t-00-11-53)**
+> "...ane—this red crane—at 1100 North King Street, and that's Bridge Complex, which is supposed to house Insight headquarters, and they've got a French CEO. It's just a lot happening here. And again, now, having a registered ..."
+
+**[00:12:24](/episodes/ep-a-e7HC6SeK8.md#ent-org-insight-t-00-11-53)**
+> "...x, which is supposed to house Insight headquarters, and they've got a French CEO."
+
+</details>
+
+<details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
 
 **[00:41:39](/episodes/ep-7RLtGgkTh9o.md#t-00-41-10)**
@@ -36,13 +47,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (2 mentions)</summary>
 
-**[00:12:24](/episodes/ep-a-e7HC6SeK8.md#ent-org-insight-t-00-11-53)**
-> "...ane—this red crane—at 1100 North King Street, and that's Bridge Complex, which is supposed to house Insight headquarters, and they've got a French CEO. It's just a lot happening here. And again, now, having a registered ..."
+**[00:17:24](/episodes/ep-pc3pxRyNFZk.md#ent-org-insight-t-00-17-22)**
+> "...ire University with this Cooper Brown and you majored with him in politics and you can provide some insight, I'd like to hear from you. I am again asking these questions publicly because we are getting no an..."
 
-**[00:12:24](/episodes/ep-a-e7HC6SeK8.md#ent-org-insight-t-00-11-53)**
-> "...x, which is supposed to house Insight headquarters, and they've got a French CEO."
+**[00:17:24](/episodes/ep-pc3pxRyNFZk.md#ent-org-insight-t-00-17-22)**
+> "...tics and you can provide some insight, I'd like to hear from you."
 
 </details>
 
@@ -60,17 +71,6 @@ _Type: Organizations_
 
 **[00:18:25](/episodes/ep-aDlhjfW6hz8.md#ent-org-insight-t-00-18-15)**
 > "..., and control systems provide insight into critical infrastructure vulnerabilities."
-
-</details>
-
-<details>
-<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (2 mentions)</summary>
-
-**[00:17:24](/episodes/ep-pc3pxRyNFZk.md#ent-org-insight-t-00-17-22)**
-> "...ire University with this Cooper Brown and you majored with him in politics and you can provide some insight, I'd like to hear from you. I am again asking these questions publicly because we are getting no an..."
-
-**[00:17:24](/episodes/ep-pc3pxRyNFZk.md#ent-org-insight-t-00-17-22)**
-> "...tics and you can provide some insight, I'd like to hear from you."
 
 </details>
 

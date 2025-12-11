@@ -33,7 +33,7 @@ _Type: Places_
 **[00:15:38](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-angola-t-00-15-30)**
 > "... that are involved, including Angola."
 
-**[00:16:23](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-angola-t-00-15-30)**
+**[00:16:23](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-angola-t-00-16-13)**
 > "...ells us that, quote, known as Angola Gate, in France, the scandal involves arms for oi..."
 
 **[00:16:50](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-angola-t-00-16-50)**
@@ -61,21 +61,10 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Worked With (1)</summary>
-
-- **[Jean-Christophe Mitterrand](/entities/person-jean-christophe-mitterrand.md)**
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:17:27](/episodes/ep-Kmt6HgRjckU.md#t-00-16-50): "Falcone and get a mock relying on the special access that Mitterrand had to the Angolan government"
-
-</details>
-
-<details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (1)</summary>
 
 - **[Branko International](/entities/org-branko-international.md)** sold to this
   - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:13:57](/episodes/ep-Kmt6HgRjckU.md#t-00-13-24)
-
-- **[Jean-Christophe Mitterrand](/entities/person-jean-christophe-mitterrand.md)** worked with this
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:17:27](/episodes/ep-Kmt6HgRjckU.md#t-00-16-50)
 
 </details>
 
@@ -88,13 +77,13 @@ _Type: Places_
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (4)</summary>
 
 - [00:12:36](/episodes/ep-Kmt6HgRjckU.md#t-00-12-04) (Claim) **Candace Owens**: ["Pierre Falcone was involved in a scandal that almost brought down the ..."](/statements/statement-8a28c81ab028.md)
-  - Also about: [Pierre Falcone](/entities/person-pierre-falcone.md), [Angola Gate](/entities/concept-angola-gate.md), [France](/entities/gpe-france.md)
+  - Also about: [Pierre Falcone](/entities/person-pierre-falcone.md), [Angolagate scandal](/entities/event-angola-gate.md), [France](/entities/gpe-france.md)
 
 - [00:12:36](/episodes/ep-Kmt6HgRjckU.md#t-00-12-04) (Claim) **Candace Owens**: ["Angola Gate involved Africa, Angola, Israel, France, the United States..."](/statements/statement-38658967ebf0.md)
-  - Also about: [Angola Gate](/entities/concept-angola-gate.md), [Israel](/entities/gpe-israel.md), [France](/entities/gpe-france.md)
+  - Also about: [Angolagate scandal](/entities/event-angola-gate.md), [Israel](/entities/gpe-israel.md), [France](/entities/gpe-france.md)
 
 - [00:13:46](/episodes/ep-Kmt6HgRjckU.md#t-00-13-24) (Claim) **Candace Owens**: ["During the French elections dating back to 1999, it was discovered tha..."](/statements/statement-60d7c6a114d4.md)
-  - Also about: [France](/entities/gpe-france.md), [Branko International](/entities/org-branko-international.md), [Angola Gate](/entities/concept-angola-gate.md)
+  - Also about: [France](/entities/gpe-france.md), [Branko International](/entities/org-branko-international.md), [Angolagate scandal](/entities/event-angola-gate.md)
 
 - [00:16:50](/episodes/ep-Kmt6HgRjckU.md#t-00-16-13) (Citation) **Candace Owens**: ["According to a Global Witness report, Arkady Gaidemak funneled billion..."](/statements/statement-9762153ccabf.md)
   - Also about: [Arkady Gaidemak](/entities/person-arkady-gaidemak.md), [Pierre Falcone](/entities/person-pierre-falcone.md), [Global Witness](/entities/org-global-witness.md)

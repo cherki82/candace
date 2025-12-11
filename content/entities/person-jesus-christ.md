@@ -1,6 +1,6 @@
 ---
 title: "Jesus Christ"
-description: "Jesus Christ (People) - 48 mentions"
+description: "Jesus Christ (People) - 50 mentions"
 id: "person-jesus-christ"
 type: "PERSON"
 aliases:
@@ -15,6 +15,70 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1 mentions)</summary>
+
+**[00:52:32](/episodes/ep-6DhWawD4ZiM.md#ent-person-jesus-christ-t-00-52-32)**
+> "...s, but nobody want to address Jesus."
+
+</details>
+
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
+
+**[00:04:16](/episodes/ep-Kmt6HgRjckU.md#ent-person-jesus-christ-t-00-04-16)**
+> "...ly, maybe that did happen for Jesus Christ."
+
+**[00:40:07](/episodes/ep-Kmt6HgRjckU.md#ent-person-jesus-christ-t-00-40-07)**
+> "Sweet Jesus, help us to save our nation."
+
+</details>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
+
+**[00:01:35](/episodes/ep-mKXdKV-OBog.md#ent-person-jesus-christ-t-00-01-35)**
+> "... on this—your all-time favorite historical figure? Is it Milton Friedman, or is there someone else? Jesus Christ? Yeah, I would say—I gotta always say—Jesus Christ, probably. Wow, that is a great question, histor..."
+
+**[00:01:36](/episodes/ep-mKXdKV-OBog.md#ent-person-jesus-christ-t-00-01-35)**
+> "...Is it Milton Friedman, or is there someone else? Jesus Christ? Yeah, I would say—I gotta always say—Jesus Christ, probably. Wow, that is a great question, historical figure. So just for like—to make it fun—let's ..."
+
+**[00:01:35](/episodes/ep-mKXdKV-OBog.md#ent-person-jesus-christ-t-00-01-35)**
+> "Jesus Christ?"
+
+**[00:01:36](/episodes/ep-mKXdKV-OBog.md#ent-person-jesus-christ-t-00-01-35)**
+> "... would say—I gotta always say—Jesus Christ, probably."
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (2 mentions)</summary>
+
+**[01:01:57](/episodes/ep-vwG1juDCQZQ.md#ent-person-jesus-christ-t-01-01-17)**
+> "...oudest when they are in the light. Brad Atkins writes: "Praying for you in South Carolina. The Lord Jesus Christ is King." Thank you, Brad. MD Turner writes: "You are top even though Australian moronic leaders wo..."
+
+**[01:01:57](/episodes/ep-vwG1juDCQZQ.md#ent-person-jesus-christ-t-01-01-17)**
+> "...u in South Carolina. The Lord Jesus Christ is King.""
+
+</details>
+
+<details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (4 mentions)</summary>
+
+**[00:56:49](/episodes/ep-LATnak75Si0.md#ent-person-jesus-christ-t-00-56-42)**
+> "... video of Charlie (Charlie Kirk) Kirk's entire answer to the first question that he was asked about Jesus Christ at Utah Valley. I had no luck finding the entire 8-to-10-minute clip. Only 20-to-60-second videos c..."
+
+**[00:59:43](/episodes/ep-LATnak75Si0.md#ent-person-jesus-christ-t-00-59-19)**
+> "...Owens), Alex Jones, and Tucker (Tucker Carlson) Carlson—bold voices that are exposing darkness. May Jesus Christ of Nazareth protect them all." Thank you so much. And do pray. Pray, fast. These things work. And w..."
+
+**[00:56:49](/episodes/ep-LATnak75Si0.md#ent-person-jesus-christ-t-00-56-42)**
+> "...stion that he was asked about Jesus Christ at Utah Valley."
+
+**[00:59:43](/episodes/ep-LATnak75Si0.md#ent-person-jesus-christ-t-00-59-19)**
+> "May Jesus Christ of Nazareth protect them all.""
+
+</details>
 
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (3 mentions)</summary>
@@ -42,6 +106,31 @@ _Type: People_
 </details>
 
 <details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (3 mentions)</summary>
+
+**[00:36:49](/episodes/ep-t1YtLS1n8Vs.md#ent-person-jesus-christ-t-00-36-29)**
+> "...and I'm one of the happiest and healthiest people that you will meet. I have full faith in God, and Jesus Christ is my Lord and Savior. As a sinner, I am only saved through His grace and mercy. With that said, if..."
+
+**[00:36:49](/episodes/ep-t1YtLS1n8Vs.md#ent-person-jesus-christ-t-00-36-29)**
+> "I have full faith in God, and Jesus Christ is my Lord and Savior."
+
+**[00:44:16](/episodes/ep-t1YtLS1n8Vs.md#ent-person-jesus-christ-t-00-43-38)**
+> "...hat all will come to light in Jesus' name.”"
+
+</details>
+
+<details>
+<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (2 mentions)</summary>
+
+**[00:52:43](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-jesus-christ-t-00-52-38)**
+> "... hurdle the cattle in the direction that they want to take us. It's all lies. I reject it all. Lord Jesus Christ is King. Indeed, Bitsy. Miranda Allen writes: “I wish I could do more. My thoughts and prayers are ..."
+
+**[00:52:43](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-jesus-christ-t-00-52-38)**
+> "I reject it all. Lord Jesus Christ is King."
+
+</details>
+
+<details>
 <summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2 mentions)</summary>
 
 **[00:38:05](/episodes/ep-K5GjF53bfN4.md#ent-person-jesus-christ-t-00-37-25)**
@@ -49,34 +138,6 @@ _Type: People_
 
 **[00:38:05](/episodes/ep-K5GjF53bfN4.md#ent-person-jesus-christ-t-00-37-25)**
 > "...the epitome of truth would be Jesus Christ, but I will say that following truth is an ugly b..."
-
-</details>
-
-<details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
-
-**[00:04:16](/episodes/ep-Kmt6HgRjckU.md#ent-person-jesus-christ-t-00-04-16)**
-> "...ly, maybe that did happen for Jesus Christ."
-
-**[00:40:07](/episodes/ep-Kmt6HgRjckU.md#ent-person-jesus-christ-t-00-40-07)**
-> "Sweet Jesus, help us to save our nation."
-
-</details>
-
-<details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (4 mentions)</summary>
-
-**[00:56:49](/episodes/ep-LATnak75Si0.md#ent-person-jesus-christ-t-00-56-42)**
-> "... video of Charlie (Charlie Kirk) Kirk's entire answer to the first question that he was asked about Jesus Christ at Utah Valley. I had no luck finding the entire 8-to-10-minute clip. Only 20-to-60-second videos c..."
-
-**[00:59:43](/episodes/ep-LATnak75Si0.md#ent-person-jesus-christ-t-00-59-19)**
-> "...Owens), Alex Jones, and Tucker (Tucker Carlson) Carlson—bold voices that are exposing darkness. May Jesus Christ of Nazareth protect them all." Thank you so much. And do pray. Pray, fast. These things work. And w..."
-
-**[00:56:49](/episodes/ep-LATnak75Si0.md#ent-person-jesus-christ-t-00-56-42)**
-> "...stion that he was asked about Jesus Christ at Utah Valley."
-
-**[00:59:43](/episodes/ep-LATnak75Si0.md#ent-person-jesus-christ-t-00-59-19)**
-> "May Jesus Christ of Nazareth protect them all.""
 
 </details>
 
@@ -100,37 +161,6 @@ _Type: People_
 
 **[00:42:05](/episodes/ep-QZWSsq8ZWzw.md#t-00-41-55)**
 > "...ther times, it says Church of Jesus Christ of Latter-day Saints."
-
-</details>
-
-<details>
-<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (2 mentions)</summary>
-
-**[00:52:43](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-jesus-christ-t-00-52-38)**
-> "... hurdle the cattle in the direction that they want to take us. It's all lies. I reject it all. Lord Jesus Christ is King. Indeed, Bitsy. Miranda Allen writes: “I wish I could do more. My thoughts and prayers are ..."
-
-**[00:52:43](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-jesus-christ-t-00-52-38)**
-> "I reject it all. Lord Jesus Christ is King."
-
-</details>
-
-<details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (5 mentions)</summary>
-
-**[00:32:56](/episodes/ep-czVBmqZP6Ss.md#ent-person-jesus-christ-t-00-32-31)**
-> "... women. They're making motherhood possible. They provide free ultrasounds. They share the gospel of Jesus Christ. And more importantly, they stay after the baby is born with real practical support by giving expec..."
-
-**[00:08:04](/episodes/ep-czVBmqZP6Ss.md#ent-person-jesus-christ-t-00-08-02)**
-> "He was unbelievably excited to walk at the footsteps of Jesus here"
-
-**[00:08:14](/episodes/ep-czVBmqZP6Ss.md#ent-person-jesus-christ-t-00-08-02)**
-> "...d to walk at the footsteps of Jesus here."
-
-**[00:32:56](/episodes/ep-czVBmqZP6Ss.md#ent-person-jesus-christ-t-00-32-31)**
-> "They share the gospel of Jesus Christ."
-
-**[01:04:04](/episodes/ep-czVBmqZP6Ss.md#ent-person-jesus-christ-t-01-03-34)**
-> "is deliver him to Jesus.”"
 
 </details>
 
@@ -167,23 +197,6 @@ _Type: People_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
-
-**[00:01:35](/episodes/ep-mKXdKV-OBog.md#ent-person-jesus-christ-t-00-01-35)**
-> "... on this—your all-time favorite historical figure? Is it Milton Friedman, or is there someone else? Jesus Christ? Yeah, I would say—I gotta always say—Jesus Christ, probably. Wow, that is a great question, histor..."
-
-**[00:01:36](/episodes/ep-mKXdKV-OBog.md#ent-person-jesus-christ-t-00-01-35)**
-> "...Is it Milton Friedman, or is there someone else? Jesus Christ? Yeah, I would say—I gotta always say—Jesus Christ, probably. Wow, that is a great question, historical figure. So just for like—to make it fun—let's ..."
-
-**[00:01:35](/episodes/ep-mKXdKV-OBog.md#ent-person-jesus-christ-t-00-01-35)**
-> "Jesus Christ?"
-
-**[00:01:36](/episodes/ep-mKXdKV-OBog.md#ent-person-jesus-christ-t-00-01-35)**
-> "... would say—I gotta always say—Jesus Christ, probably."
-
-</details>
-
-<details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (4 mentions)</summary>
 
 **[00:37:17](/episodes/ep-q7f8r-THr84.md#ent-person-jesus-christ-t-00-36-55)**
@@ -201,27 +214,22 @@ _Type: People_
 </details>
 
 <details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (3 mentions)</summary>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (5 mentions)</summary>
 
-**[00:36:49](/episodes/ep-t1YtLS1n8Vs.md#ent-person-jesus-christ-t-00-36-29)**
-> "...and I'm one of the happiest and healthiest people that you will meet. I have full faith in God, and Jesus Christ is my Lord and Savior. As a sinner, I am only saved through His grace and mercy. With that said, if..."
+**[00:32:56](/episodes/ep-czVBmqZP6Ss.md#ent-person-jesus-christ-t-00-32-31)**
+> "... women. They're making motherhood possible. They provide free ultrasounds. They share the gospel of Jesus Christ. And more importantly, they stay after the baby is born with real practical support by giving expec..."
 
-**[00:36:49](/episodes/ep-t1YtLS1n8Vs.md#ent-person-jesus-christ-t-00-36-29)**
-> "I have full faith in God, and Jesus Christ is my Lord and Savior."
+**[00:08:04](/episodes/ep-czVBmqZP6Ss.md#ent-person-jesus-christ-t-00-08-02)**
+> "He was unbelievably excited to walk at the footsteps of Jesus here"
 
-**[00:44:16](/episodes/ep-t1YtLS1n8Vs.md#ent-person-jesus-christ-t-00-43-38)**
-> "...hat all will come to light in Jesus' name.”"
+**[00:08:14](/episodes/ep-czVBmqZP6Ss.md#ent-person-jesus-christ-t-00-08-02)**
+> "...d to walk at the footsteps of Jesus here."
 
-</details>
+**[00:32:56](/episodes/ep-czVBmqZP6Ss.md#ent-person-jesus-christ-t-00-32-31)**
+> "They share the gospel of Jesus Christ."
 
-<details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (2 mentions)</summary>
-
-**[01:01:57](/episodes/ep-vwG1juDCQZQ.md#ent-person-jesus-christ-t-01-01-17)**
-> "...oudest when they are in the light. Brad Atkins writes: "Praying for you in South Carolina. The Lord Jesus Christ is King." Thank you, Brad. MD Turner writes: "You are top even though Australian moronic leaders wo..."
-
-**[01:01:57](/episodes/ep-vwG1juDCQZQ.md#ent-person-jesus-christ-t-01-01-17)**
-> "...u in South Carolina. The Lord Jesus Christ is King.""
+**[01:04:04](/episodes/ep-czVBmqZP6Ss.md#ent-person-jesus-christ-t-01-03-34)**
+> "is deliver him to Jesus.”"
 
 </details>
 

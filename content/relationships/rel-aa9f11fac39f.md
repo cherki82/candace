@@ -11,12 +11,11 @@ object: "person-stacey-sheridan"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) employs [Stacey Sheridan](/entities/person-stacey-sheridan)
 
-### Evidence (5 mentions)
+### Evidence (4 mentions)
 
 **[Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8)**
 
 - [00:12:14](/episodes/ep-a-e7HC6SeK8#t-00-12-14): _...That's Stacey Sheridan of Turning Point USA... Stacey, by the way, is the senior advancement director at Turning Point USA._
-- [00:13:23](/episodes/ep-a-e7HC6SeK8#t-00-13-23): _Stacey, by the way, is the senior advancement director at Turning Point USA_
 - [00:13:23](/episodes/ep-a-e7HC6SeK8#t-00-13-23): _Stacey, by the way, is the senior advancement director at Turning Point USA_
 
 **[Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec)**

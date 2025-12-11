@@ -17,13 +17,10 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (1 mentions)</summary>
 
-**[01:06:24](/episodes/ep-Cq7nj9rxPdo.md#ent-person-ivanka-trump-t-01-06-20)**
-> "There is Ivanka, Trump couldnt do anything without getting his daughter back"
-
-**[01:06:20](/episodes/ep-Cq7nj9rxPdo.md#ent-person-ivanka-trump-t-01-06-20)**
-> "There is Ivanka."
+**[00:42:28](/episodes/ep-r1PS67aRmcA.md#ent-person-ivanka-trump-t-00-41-57)**
+> "...bout Jared and his deals with Ivanka and the Middle East and how much money they're se..."
 
 </details>
 
@@ -36,10 +33,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (1 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
 
-**[00:42:28](/episodes/ep-r1PS67aRmcA.md#ent-person-ivanka-trump-t-00-41-57)**
-> "...bout Jared and his deals with Ivanka and the Middle East and how much money they're se..."
+**[01:06:24](/episodes/ep-Cq7nj9rxPdo.md#ent-person-ivanka-trump-t-01-06-20)**
+> "There is Ivanka, Trump couldnt do anything without getting his daughter back"
+
+**[01:06:20](/episodes/ep-Cq7nj9rxPdo.md#ent-person-ivanka-trump-t-01-06-20)**
+> "There is Ivanka."
 
 </details>
 
@@ -57,18 +57,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Married To (1)</summary>
-
-- **[Jared Kushner](/entities/person-jared-kushner.md)**
-  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:08:30](/episodes/ep-r1PS67aRmcA.md#t-00-07-46): "They know about Jared and his deals with Ivanka"
-
-</details>
-
-<details>
-<summary>Referenced By (2)</summary>
-
-- **[Jared Kushner](/entities/person-jared-kushner.md)** married to this
-  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:08:30](/episodes/ep-r1PS67aRmcA.md#t-00-07-46)
+<summary>Referenced By (1)</summary>
 
 - **[Donald Trump](/entities/person-donald-trump.md)** parent of this
   - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:08:30](/episodes/ep-r1PS67aRmcA.md#t-00-07-46)

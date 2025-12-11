@@ -17,17 +17,6 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
-
-**[00:49:13](/episodes/ep-581dILVcEE4.md#ent-org-staples-center-t-00-48-37)**
-> "...an they pay attention to long-term. So they were hoping, "Okay, we're going to do this thing at the Staples Center, and then move on from it." And actually, it turns out the world is focused, and they're locked in...."
-
-**[00:49:13](/episodes/ep-581dILVcEE4.md#ent-org-staples-center-t-00-48-37)**
-> "...going to do this thing at the Staples Center, and then move on from it.""
-
-</details>
-
-<details>
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (5 mentions)</summary>
 
 **[00:22:32](/episodes/ep-his-JBjlkh8.md#ent-org-staples-center-t-00-22-24)**
@@ -44,6 +33,17 @@ _Type: Organizations_
 
 **[00:22:32](/episodes/ep-his-JBjlkh8.md#ent-org-staples-center-t-00-22-24)**
 > "they all poured into the Staples Center"
+
+</details>
+
+<details>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
+
+**[00:49:13](/episodes/ep-581dILVcEE4.md#ent-org-staples-center-t-00-48-37)**
+> "...an they pay attention to long-term. So they were hoping, "Okay, we're going to do this thing at the Staples Center, and then move on from it." And actually, it turns out the world is focused, and they're locked in...."
+
+**[00:49:13](/episodes/ep-581dILVcEE4.md#ent-org-staples-center-t-00-48-37)**
+> "...going to do this thing at the Staples Center, and then move on from it.""
 
 </details>
 

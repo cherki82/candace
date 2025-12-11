@@ -1,11 +1,11 @@
 ---
 title: "Chaos"
-description: "Chaos (Work) - 29 mentions"
+description: "Chaos (Works & Media) - 29 mentions"
 id: "work-chaos"
 type: "WORK"
 ---
 
-_Type: Work_
+_Type: Works & Media_
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -13,24 +13,13 @@ _Type: Work_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (2 mentions)</summary>
 
-**[00:40:15](/episodes/ep-2Riv3I7D0Yk.md#ent-work-chaos-t-00-39-47)**
-> "...click, type, search, scroll for you. And what I love most about Comet is that it can take weeknight chaos and turn it into something more simplified and stress-free, like planning a dinner. With just a few..."
+**[00:17:38](/episodes/ep-DqGNvi36ol8.md#ent-work-chaos-t-00-17-32)**
+> "...mplish that through organized chaos."
 
-**[00:40:15](/episodes/ep-2Riv3I7D0Yk.md#ent-work-chaos-t-00-39-47)**
-> "chaos and turn it into something more simplified and st..."
-
-</details>
-
-<details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (2 mentions)</summary>
-
-**[00:22:10](/episodes/ep-2WEHTk0Xewg.md#ent-work-chaos-t-00-21-38)**
-> "...a die-hard MAGA." It's like—it's so fed. You know, it's just so federally written. It's amazing. So chaos right here. Anyways, I guess maybe if you're suicidal, that's what you said: "Dad's been pretty die..."
-
-**[00:22:10](/episodes/ep-2WEHTk0Xewg.md#ent-work-chaos-t-00-21-38)**
-> "So chaos right here."
+**[00:17:43](/episodes/ep-DqGNvi36ol8.md#ent-work-chaos-t-00-17-32)**
+> "The chaos, as chaotic as the event may seem, has to actuall..."
 
 </details>
 
@@ -64,13 +53,57 @@ _Type: Work_
 </details>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (2 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
-**[00:17:38](/episodes/ep-DqGNvi36ol8.md#ent-work-chaos-t-00-17-32)**
-> "...mplish that through organized chaos."
+**[00:59:47](/episodes/ep-yAIb-NuUh_U.md#ent-work-chaos-t-00-59-18)**
+> "... Yeah, that sounds about right. The '60s was a hell of a time—as we learned in my book club reading Chaos. Then they killed JFK, and suddenly the Calvary Church is born. And you've got all these military m..."
 
-**[00:17:43](/episodes/ep-DqGNvi36ol8.md#ent-work-chaos-t-00-17-32)**
-> "The chaos, as chaotic as the event may seem, has to actuall..."
+**[00:59:47](/episodes/ep-yAIb-NuUh_U.md#ent-work-chaos-t-00-59-18)**
+> "...arned in my book club reading Chaos. Then they killed JFK, and suddenly the Calvary C..."
+
+</details>
+
+<details>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
+
+**[00:40:15](/episodes/ep-2Riv3I7D0Yk.md#ent-work-chaos-t-00-39-47)**
+> "...click, type, search, scroll for you. And what I love most about Comet is that it can take weeknight chaos and turn it into something more simplified and stress-free, like planning a dinner. With just a few..."
+
+**[00:40:15](/episodes/ep-2Riv3I7D0Yk.md#ent-work-chaos-t-00-39-47)**
+> "chaos and turn it into something more simplified and st..."
+
+</details>
+
+<details>
+<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (2 mentions)</summary>
+
+**[00:31:44](/episodes/ep-ozWJz2spBcI.md#ent-work-chaos-t-00-31-44)**
+> "...You can ask Comet to type, search, scroll for you. What I love most is that it takes that weeknight chaos away from you, and it turns it into a simple stress-free thing. Like, you can research dinners—how ..."
+
+**[00:31:44](/episodes/ep-ozWJz2spBcI.md#ent-work-chaos-t-00-31-44)**
+> "... that it takes that weeknight chaos away from you, and it turns it into a simple stre..."
+
+</details>
+
+<details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
+
+**[00:26:59](/episodes/ep-t1YtLS1n8Vs.md#ent-work-chaos-t-00-26-54)**
+> "...licks, types, searches, scrolls for you. What I love most about Comet is that it can take weeknight chaos and turn it into simple, stress-free dinners with just a few taps. I get personalized meal plans ba..."
+
+**[00:26:59](/episodes/ep-t1YtLS1n8Vs.md#ent-work-chaos-t-00-26-54)**
+> "...is that it can take weeknight chaos and turn it into simple, stress-free dinners with..."
+
+</details>
+
+<details>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
+
+**[00:12:15](/episodes/ep-YA1FxrDWNIo.md#ent-work-chaos-t-00-12-14)**
+> "...cur. That was a part of his story. He saw these gothic girls, and they seemed unfazed in all of the chaos, you know? And I thought that was an interesting way to describe someone as gothic. Gratefully, Phi..."
+
+**[00:12:15](/episodes/ep-YA1FxrDWNIo.md#ent-work-chaos-t-00-12-14)**
+> "... seemed unfazed in all of the chaos, you know?"
 
 </details>
 
@@ -103,13 +136,13 @@ _Type: Work_
 </details>
 
 <details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (2 mentions)</summary>
 
-**[00:12:15](/episodes/ep-YA1FxrDWNIo.md#ent-work-chaos-t-00-12-14)**
-> "...cur. That was a part of his story. He saw these gothic girls, and they seemed unfazed in all of the chaos, you know? And I thought that was an interesting way to describe someone as gothic. Gratefully, Phi..."
+**[00:22:10](/episodes/ep-2WEHTk0Xewg.md#ent-work-chaos-t-00-21-38)**
+> "...a die-hard MAGA." It's like—it's so fed. You know, it's just so federally written. It's amazing. So chaos right here. Anyways, I guess maybe if you're suicidal, that's what you said: "Dad's been pretty die..."
 
-**[00:12:15](/episodes/ep-YA1FxrDWNIo.md#ent-work-chaos-t-00-12-14)**
-> "... seemed unfazed in all of the chaos, you know?"
+**[00:22:10](/episodes/ep-2WEHTk0Xewg.md#ent-work-chaos-t-00-21-38)**
+> "So chaos right here."
 
 </details>
 
@@ -118,39 +151,6 @@ _Type: Work_
 
 **[00:38:35](/episodes/ep-czVBmqZP6Ss.md#t-00-38-05)**
 > "... what we have so far obviously cannot be it. I feel I was insisting that everybody read that book, “Chaos,” about the Charles Manson murders. And what we learn from that book is that if the government does..."
-
-</details>
-
-<details>
-<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (2 mentions)</summary>
-
-**[00:31:44](/episodes/ep-ozWJz2spBcI.md#ent-work-chaos-t-00-31-44)**
-> "...You can ask Comet to type, search, scroll for you. What I love most is that it takes that weeknight chaos away from you, and it turns it into a simple stress-free thing. Like, you can research dinners—how ..."
-
-**[00:31:44](/episodes/ep-ozWJz2spBcI.md#ent-work-chaos-t-00-31-44)**
-> "... that it takes that weeknight chaos away from you, and it turns it into a simple stre..."
-
-</details>
-
-<details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
-
-**[00:26:59](/episodes/ep-t1YtLS1n8Vs.md#ent-work-chaos-t-00-26-54)**
-> "...licks, types, searches, scrolls for you. What I love most about Comet is that it can take weeknight chaos and turn it into simple, stress-free dinners with just a few taps. I get personalized meal plans ba..."
-
-**[00:26:59](/episodes/ep-t1YtLS1n8Vs.md#ent-work-chaos-t-00-26-54)**
-> "...is that it can take weeknight chaos and turn it into simple, stress-free dinners with..."
-
-</details>
-
-<details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
-
-**[00:59:47](/episodes/ep-yAIb-NuUh_U.md#ent-work-chaos-t-00-59-18)**
-> "... Yeah, that sounds about right. The '60s was a hell of a time—as we learned in my book club reading Chaos. Then they killed JFK, and suddenly the Calvary Church is born. And you've got all these military m..."
-
-**[00:59:47](/episodes/ep-yAIb-NuUh_U.md#ent-work-chaos-t-00-59-18)**
-> "...arned in my book club reading Chaos. Then they killed JFK, and suddenly the Calvary C..."
 
 </details>
 

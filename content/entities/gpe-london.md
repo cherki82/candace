@@ -13,6 +13,23 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (4 mentions)</summary>
+
+**[00:08:00](/episodes/ep-sImMM04XdWY.md#ent-gpe-london-t-00-07-38)**
+> "...municating with Xavier Poussard regarding the potential to interview him during an upcoming trip to London. Xavier Poussard is the person who wrote the "Becoming Brigitte" book. He has never been sued for d..."
+
+**[00:10:31](/episodes/ep-sImMM04XdWY.md#ent-gpe-london-t-00-10-19)**
+> "... which I then did. As you can see on the timeline, on December 21st, I interview Xavier Poussard in London. We did not release it, right? We fast forward; we receive after he forwards it to our actual attor..."
+
+**[00:08:00](/episodes/ep-sImMM04XdWY.md#ent-gpe-london-t-00-07-38)**
+> "...im during an upcoming trip to London."
+
+**[00:10:31](/episodes/ep-sImMM04XdWY.md#ent-gpe-london-t-00-10-19)**
+> "... interview Xavier Poussard in London."
+
+</details>
+
+<details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
 
 **[00:14:12](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-london-t-00-13-32)**
@@ -52,23 +69,6 @@ _Type: Places_
 
 **[00:10:08](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-london-t-00-09-31)**
 > "From NYC to London: $450 in coach or $1,200 in first class."
-
-</details>
-
-<details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (4 mentions)</summary>
-
-**[00:08:00](/episodes/ep-sImMM04XdWY.md#ent-gpe-london-t-00-07-38)**
-> "...municating with Xavier Poussard regarding the potential to interview him during an upcoming trip to London. Xavier Poussard is the person who wrote the "Becoming Brigitte" book. He has never been sued for d..."
-
-**[00:10:31](/episodes/ep-sImMM04XdWY.md#ent-gpe-london-t-00-10-19)**
-> "... which I then did. As you can see on the timeline, on December 21st, I interview Xavier Poussard in London. We did not release it, right? We fast forward; we receive after he forwards it to our actual attor..."
-
-**[00:08:00](/episodes/ep-sImMM04XdWY.md#ent-gpe-london-t-00-07-38)**
-> "...im during an upcoming trip to London."
-
-**[00:10:31](/episodes/ep-sImMM04XdWY.md#ent-gpe-london-t-00-10-19)**
-> "... interview Xavier Poussard in London."
 
 </details>
 

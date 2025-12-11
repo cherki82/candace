@@ -17,6 +17,40 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (4 mentions)</summary>
+
+**[00:17:51](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-lincoln-t-00-17-39)**
+> "...gain, we see no proof of this. We do know that right after that, our Egyptian yellow plane flies to Lincoln, Nebraska, and two days later, it is announced in Nebraska that they're going to be doing a trade and investm..."
+
+**[00:23:23](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-lincoln-t-00-23-23)**
+> "...st immediately—10 days later—we got our next point: our planes come back out, and they're flying to Lincoln. Again, they're going to Omaha. They're going to Wilmington. They stay for one night. Charlie (Char..."
+
+**[00:17:51](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-lincoln-t-00-17-39)**
+> "...gyptian yellow plane flies to Lincoln, Nebraska, and two days later, it is announced in..."
+
+**[00:23:23](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-lincoln-t-00-23-23)**
+> "...ck out, and they're flying to Lincoln."
+
+</details>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
+
+**[00:11:22](/episodes/ep-mKXdKV-OBog.md#ent-gpe-lincoln-t-00-10-47)**
+> "...ayed in Wilmington for one night. It stayed in Nebraska for the longest stretch yet, departing from Lincoln, Nebraska, in particular. And this six-day stretch of what they were doing in Nebraska actually might offer u..."
+
+**[00:01:54](/episodes/ep-mKXdKV-OBog.md#ent-gpe-lincoln-t-00-10-47)**
+> "...n Founding Fathers. Ben Franklin—I always really enjoyed—um, you know, I—George Washington, Abraham Lincoln, Thomas Jefferson are—I think are too cliché. So one I really enjoy that I just love learning from ..."
+
+**[00:01:54](/episodes/ep-mKXdKV-OBog.md#ent-gpe-lincoln-t-00-10-47)**
+> "... I—George Washington, Abraham Lincoln, Thomas Jefferson are—I think are too cliché. So ..."
+
+**[00:11:22](/episodes/ep-mKXdKV-OBog.md#ent-gpe-lincoln-t-00-10-47)**
+> "...t stretch yet, departing from Lincoln, Nebraska, in particular."
+
+</details>
+
+<details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (4 mentions)</summary>
 
 **[00:20:11](/episodes/ep-SKGUzGHymcI.md#ent-gpe-lincoln-t-00-20-11)**
@@ -131,40 +165,6 @@ _Type: Places_
 
 **[00:39:28](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-lincoln-t-00-38-56)**
 > "What is going on in Lincoln, Nebraska?"
-
-</details>
-
-<details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (4 mentions)</summary>
-
-**[00:17:51](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-lincoln-t-00-17-39)**
-> "...gain, we see no proof of this. We do know that right after that, our Egyptian yellow plane flies to Lincoln, Nebraska, and two days later, it is announced in Nebraska that they're going to be doing a trade and investm..."
-
-**[00:23:23](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-lincoln-t-00-23-23)**
-> "...st immediately—10 days later—we got our next point: our planes come back out, and they're flying to Lincoln. Again, they're going to Omaha. They're going to Wilmington. They stay for one night. Charlie (Char..."
-
-**[00:17:51](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-lincoln-t-00-17-39)**
-> "...gyptian yellow plane flies to Lincoln, Nebraska, and two days later, it is announced in..."
-
-**[00:23:23](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-lincoln-t-00-23-23)**
-> "...ck out, and they're flying to Lincoln."
-
-</details>
-
-<details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
-
-**[00:11:22](/episodes/ep-mKXdKV-OBog.md#ent-gpe-lincoln-t-00-10-47)**
-> "...ayed in Wilmington for one night. It stayed in Nebraska for the longest stretch yet, departing from Lincoln, Nebraska, in particular. And this six-day stretch of what they were doing in Nebraska actually might offer u..."
-
-**[00:01:54](/episodes/ep-mKXdKV-OBog.md#ent-gpe-lincoln-t-00-10-47)**
-> "...n Founding Fathers. Ben Franklin—I always really enjoyed—um, you know, I—George Washington, Abraham Lincoln, Thomas Jefferson are—I think are too cliché. So one I really enjoy that I just love learning from ..."
-
-**[00:01:54](/episodes/ep-mKXdKV-OBog.md#ent-gpe-lincoln-t-00-10-47)**
-> "... I—George Washington, Abraham Lincoln, Thomas Jefferson are—I think are too cliché. So ..."
-
-**[00:11:22](/episodes/ep-mKXdKV-OBog.md#ent-gpe-lincoln-t-00-10-47)**
-> "...t stretch yet, departing from Lincoln, Nebraska, in particular."
 
 </details>
 

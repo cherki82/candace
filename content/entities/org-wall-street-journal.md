@@ -24,23 +24,6 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (4 mentions)</summary>
-
-**[00:36:00](/episodes/ep-ozWJz2spBcI.md#ent-org-wall-street-journal-t-00-36-00)**
-> "...you're kidding me? Should I do what she did, and it would have been more moral for me to invite the Wall Street Journal a literal week after Charlie (Charlie Kirk) was murdered to photograph me in high boots standing ov..."
-
-**[00:37:26](/episodes/ep-ozWJz2spBcI.md#ent-org-wall-street-journal-t-00-37-26)**
-> "...murder. Anyways, I want to read a little blurb from this article. Again, published September 18th. (Wall Street Journal article quote:) "Alex Clark was about to head to the airport for a work trip to celebrate the first..."
-
-**[00:36:00](/episodes/ep-ozWJz2spBcI.md#ent-org-wall-street-journal-t-00-36-00)**
-> "...re moral for me to invite the Wall Street Journal a literal week after Charlie (Charlie (Charlie (C..."
-
-**[00:37:26](/episodes/ep-ozWJz2spBcI.md#ent-org-wall-street-journal-t-00-37-26)**
-> "(Wall Street Journal article quote:) "Alex Clark was about to head to ..."
-
-</details>
-
-<details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (6 mentions)</summary>
 
 **[00:24:02](/episodes/ep-vwG1juDCQZQ.md#ent-org-wall-street-journal-t-00-23-38)**
@@ -60,6 +43,23 @@ _Type: Organizations_
 
 **[00:49:46](/episodes/ep-vwG1juDCQZQ.md#ent-org-wall-street-journal-t-00-49-39)**
 > "...y episodes, but I did do this Wall Street Journal thing and try to hard-launch my podcast a couple ..."
+
+</details>
+
+<details>
+<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (4 mentions)</summary>
+
+**[00:36:00](/episodes/ep-ozWJz2spBcI.md#ent-org-wall-street-journal-t-00-36-00)**
+> "...you're kidding me? Should I do what she did, and it would have been more moral for me to invite the Wall Street Journal a literal week after Charlie (Charlie Kirk) was murdered to photograph me in high boots standing ov..."
+
+**[00:37:26](/episodes/ep-ozWJz2spBcI.md#ent-org-wall-street-journal-t-00-37-26)**
+> "...murder. Anyways, I want to read a little blurb from this article. Again, published September 18th. (Wall Street Journal article quote:) "Alex Clark was about to head to the airport for a work trip to celebrate the first..."
+
+**[00:36:00](/episodes/ep-ozWJz2spBcI.md#ent-org-wall-street-journal-t-00-36-00)**
+> "...re moral for me to invite the Wall Street Journal a literal week after Charlie (Charlie (Charlie (C..."
+
+**[00:37:26](/episodes/ep-ozWJz2spBcI.md#ent-org-wall-street-journal-t-00-37-26)**
+> "(Wall Street Journal article quote:) "Alex Clark was about to head to ..."
 
 </details>
 

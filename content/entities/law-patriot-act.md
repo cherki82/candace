@@ -1,13 +1,13 @@
 ---
 title: "Patriot Act"
-description: "Patriot Act (Law) - 2 mentions"
+description: "Patriot Act (Laws & Legislation) - 2 mentions"
 id: "law-patriot-act"
 type: "LAW"
 aliases:
   - "USA PATRIOT Act"
 ---
 
-_Type: Law_
+_Type: Laws & Legislation_
 
 **Also known as:** USA PATRIOT Act
 

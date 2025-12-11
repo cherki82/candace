@@ -13,31 +13,6 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (3 mentions)</summary>
-
-**[00:41:00](/episodes/ep-MUA9ebCF4Ow.md#ent-org-freemasons-t-00-40-43)**
-> "...nce that she comes from a Freemason family in California. Like, dad was in the Freemason California Freemasons, and grandpa was pretty high up in the California Freemasons. And you know, Kash Patel drops in 33r..."
-
-**[00:41:00](/episodes/ep-MUA9ebCF4Ow.md#ent-org-freemasons-t-00-40-43)**
-> "...s in the Freemason California Freemasons, and grandpa was pretty high up in the California..."
-
-**[00:41:00](/episodes/ep-MUA9ebCF4Ow.md#ent-org-freemasons-t-00-40-43)**
-> "...tty high up in the California Freemasons."
-
-</details>
-
-<details>
-<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
-
-**[00:51:00](/episodes/ep-YFmRH8p5lt0.md#ent-org-freemasons-t-00-51-00)**
-> "... be the FBI director. He fought for that. Look how Kash Patel is acting. Right—33 hours. Wink wink. Freemasons. Wink wink wink. Oh, Tyler Robinson's file adds up to 33. Oh, the Freemason lodge in St. George or ..."
-
-**[00:51:00](/episodes/ep-YFmRH8p5lt0.md#ent-org-freemasons-t-00-51-00)**
-> "Right—33 hours. Wink wink. Freemasons. Wink wink wink. Oh, Tyler Robinson's file adds u..."
-
-</details>
-
-<details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (5 mentions)</summary>
 
 **[00:03:25](/episodes/ep-a-e7HC6SeK8.md#ent-org-freemasons-t-00-02-55)**
@@ -82,6 +57,31 @@ _Type: Organizations_
 
 **[00:45:19](/episodes/ep-yAIb-NuUh_U.md#ent-org-freemasons-t-00-45-19)**
 > "...ns—who comes from a family of Freemasons and who's got a spotty background—nobody knows wh..."
+
+</details>
+
+<details>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (3 mentions)</summary>
+
+**[00:41:00](/episodes/ep-MUA9ebCF4Ow.md#ent-org-freemasons-t-00-40-43)**
+> "...nce that she comes from a Freemason family in California. Like, dad was in the Freemason California Freemasons, and grandpa was pretty high up in the California Freemasons. And you know, Kash Patel drops in 33r..."
+
+**[00:41:00](/episodes/ep-MUA9ebCF4Ow.md#ent-org-freemasons-t-00-40-43)**
+> "...s in the Freemason California Freemasons, and grandpa was pretty high up in the California..."
+
+**[00:41:00](/episodes/ep-MUA9ebCF4Ow.md#ent-org-freemasons-t-00-40-43)**
+> "...tty high up in the California Freemasons."
+
+</details>
+
+<details>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
+
+**[00:51:00](/episodes/ep-YFmRH8p5lt0.md#ent-org-freemasons-t-00-51-00)**
+> "... be the FBI director. He fought for that. Look how Kash Patel is acting. Right—33 hours. Wink wink. Freemasons. Wink wink wink. Oh, Tyler Robinson's file adds up to 33. Oh, the Freemason lodge in St. George or ..."
+
+**[00:51:00](/episodes/ep-YFmRH8p5lt0.md#ent-org-freemasons-t-00-51-00)**
+> "Right—33 hours. Wink wink. Freemasons. Wink wink wink. Oh, Tyler Robinson's file adds u..."
 
 </details>
 

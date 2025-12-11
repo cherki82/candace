@@ -18,6 +18,17 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (2 mentions)</summary>
+
+**[00:06:51](/episodes/ep-t4U7NjnUEgc.md#ent-org-immigration-and-customs-enforcement-t-00-40-46)**
+> "An ICE agent or Border Patrol agent, please get involved"
+
+**[00:41:24](/episodes/ep-t4U7NjnUEgc.md#ent-org-immigration-and-customs-enforcement-t-00-40-46)**
+> "An ICE agent or Border Patrol agent, please get involved..."
+
+</details>
+
+<details>
 <summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (3 mentions)</summary>
 
 **[00:44:45](/episodes/ep-QZWSsq8ZWzw.md#ent-org-immigration-and-customs-enforcement-t-00-44-45)**
@@ -28,17 +39,6 @@ _Type: Organizations_
 
 **[00:44:45](/episodes/ep-QZWSsq8ZWzw.md#ent-org-immigration-and-customs-enforcement-t-00-44-45)**
 > "...erring to the shooting in the ICE facility in Dallas?""
-
-</details>
-
-<details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (2 mentions)</summary>
-
-**[00:06:51](/episodes/ep-t4U7NjnUEgc.md#ent-org-immigration-and-customs-enforcement-t-00-40-46)**
-> "An ICE agent or Border Patrol agent, please get involved"
-
-**[00:41:24](/episodes/ep-t4U7NjnUEgc.md#ent-org-immigration-and-customs-enforcement-t-00-40-46)**
-> "An ICE agent or Border Patrol agent, please get involved..."
 
 </details>
 

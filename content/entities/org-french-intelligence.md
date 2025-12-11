@@ -13,13 +13,25 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (2 mentions)</summary>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (6 mentions)</summary>
 
-**[00:10:40](/episodes/ep-MUA9ebCF4Ow.md#ent-org-french-intelligence-t-00-10-24)**
-> "... something, but Epstein clearly had contact with Israeli intelligence and American intelligence and French intelligence. But the only one you're not allowed to talk about is Israeli intelligence. But it seemed true to m..."
+**[00:06:54](/episodes/ep-t4U7NjnUEgc.md#ent-org-french-intelligence-t-00-36-14)**
+> "assassination attempt, which involved Israel and French intelligence agencies"
 
-**[00:10:40](/episodes/ep-MUA9ebCF4Ow.md#ent-org-french-intelligence-t-00-10-24)**
-> "...and American intelligence and French intelligence. But the only one you're not allowed to talk abou..."
+**[00:36:14](/episodes/ep-t4U7NjnUEgc.md#ent-org-french-intelligence-t-00-36-14)**
+> "...ou can see in this article, a French intelligence agent."
+
+**[00:38:49](/episodes/ep-t4U7NjnUEgc.md#ent-org-french-intelligence-t-00-38-49)**
+> "...at I've been saying about the French intelligence agencies working with Israel."
+
+**[00:40:34](/episodes/ep-t4U7NjnUEgc.md#ent-org-french-intelligence-t-00-40-07)**
+> "any Israeli intelligence and French intelligence officers to be here in Nashville."
+
+**[00:41:36](/episodes/ep-t4U7NjnUEgc.md#ent-org-french-intelligence-t-00-41-29)**
+> "...pt, which involved Israel and French intelligence agencies."
+
+**[00:56:05](/episodes/ep-t4U7NjnUEgc.md#ent-org-french-intelligence-t-00-55-59)**
+> "...ng has really scared me, this French intelligence thing and the lack of commentary from the White H..."
 
 </details>
 
@@ -41,25 +53,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (6 mentions)</summary>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (2 mentions)</summary>
 
-**[00:06:54](/episodes/ep-t4U7NjnUEgc.md#ent-org-french-intelligence-t-00-36-14)**
-> "assassination attempt, which involved Israel and French intelligence agencies"
+**[00:10:40](/episodes/ep-MUA9ebCF4Ow.md#ent-org-french-intelligence-t-00-10-24)**
+> "... something, but Epstein clearly had contact with Israeli intelligence and American intelligence and French intelligence. But the only one you're not allowed to talk about is Israeli intelligence. But it seemed true to m..."
 
-**[00:36:14](/episodes/ep-t4U7NjnUEgc.md#ent-org-french-intelligence-t-00-36-14)**
-> "...ou can see in this article, a French intelligence agent."
-
-**[00:38:49](/episodes/ep-t4U7NjnUEgc.md#ent-org-french-intelligence-t-00-38-49)**
-> "...at I've been saying about the French intelligence agencies working with Israel."
-
-**[00:40:34](/episodes/ep-t4U7NjnUEgc.md#ent-org-french-intelligence-t-00-40-07)**
-> "any Israeli intelligence and French intelligence officers to be here in Nashville."
-
-**[00:41:36](/episodes/ep-t4U7NjnUEgc.md#ent-org-french-intelligence-t-00-41-29)**
-> "...pt, which involved Israel and French intelligence agencies."
-
-**[00:56:05](/episodes/ep-t4U7NjnUEgc.md#ent-org-french-intelligence-t-00-55-59)**
-> "...ng has really scared me, this French intelligence thing and the lack of commentary from the White H..."
+**[00:10:40](/episodes/ep-MUA9ebCF4Ow.md#ent-org-french-intelligence-t-00-10-24)**
+> "...and American intelligence and French intelligence. But the only one you're not allowed to talk abou..."
 
 </details>
 

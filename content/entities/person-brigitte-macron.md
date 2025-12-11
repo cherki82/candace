@@ -20,147 +20,6 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (17 mentions)</summary>
-
-**[00:00:23](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-00-00)**
-> "... book—which I got obsessed with and [that] it's required reading for this podcast— connected to the Brigitte Macron case. I'm gonna tell you about that, connected to Ye (Kanye West), me telling you all about what ha..."
-
-**[00:01:57](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-01-21)**
-> "...g that quite literally all of our investigations over the past two years were coming together here. Brigitte Macron—where did we end up, by the way? Where did we leave off on Brigitte Macron? I was speaking to you g..."
-
-**[00:01:59](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-01-21)**
-> "...re coming together here. Brigitte Macron—where did we end up, by the way? Where did we leave off on Brigitte Macron? I was speaking to you guys about MKUltra. How odd it was that of everything I said in my series, B..."
-
-**[00:02:03](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-02-03)**
-> "...n? I was speaking to you guys about MKUltra. How odd it was that of everything I said in my series, Brigitte Macron and Emmanuel had a heart attack when I started discussing MKUltra. They brought it up 18 times in t..."
-
-**[00:30:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-30-07)**
-> "...k into any of this and did not see relevance because at that time I was very much investigating the Brigitte Macron thing and was arriving very quickly at this weird backstory of MKUltra and the Haight-Ashbury Clini..."
-
-**[00:52:53](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-52-23)**
-> "...ly International movement—AKA the Children of God." "Their practices are very familiar." "Also, the Brigitte jump scares keep sending me." We have no idea what you're talking about with the Brigitte jump scar..."
-
-**[00:52:56](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-52-23)**
-> "...Also, the Brigitte jump scares keep sending me." We have no idea what you're talking about with the Brigitte jump scares. I kid, of course. Yes, I'm sorry. We just try to get up-to-date photos. That's all. Gi..."
-
-**[00:00:23](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-00-00)**
-> "connected to the Brigitte Macron case. I'm gonna tell you about that, connected to..."
-
-**[00:01:57](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-01-21)**
-> "Brigitte Macron—where did we end up, by the way?"
-
-**[00:01:59](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-01-21)**
-> "Where did we leave off on Brigitte Macron?"
-
-**[00:01:59](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-01-21)**
-> "... did we leave off on Brigitte Macron?"
-
-**[00:02:03](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-02-03)**
-> "...erything I said in my series, Brigitte Macron and Emmanuel had a heart attack when I started di..."
-
-**[00:02:03](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-02-03)**
-> "...I said in my series, Brigitte Macron and Emmanuel had a heart attack when I started di..."
-
-**[00:30:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-30-07)**
-> "...s very much investigating the Brigitte Macron thing and was arriving very quickly at this weird..."
-
-**[00:30:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-30-07)**
-> "...ch investigating the Brigitte Macron thing and was arriving very quickly at this weird..."
-
-**[00:52:53](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-52-23)**
-> ""Also, the Brigitte jump scares keep sending me.""
-
-**[00:52:56](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-52-23)**
-> "...you're talking about with the Brigitte jump scares."
-
-</details>
-
-<details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (23 mentions)</summary>
-
-**[00:45:50](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-45-08)**
-> "...r thing if you feel that pressure is to just say, "I'm going to dispel this." It's kind of like the Brigitte Macron thing. "Hey, here's a couple of pictures of me raising my kids. 30 years was missing because I real..."
-
-**[00:55:07](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-55-02)**
-> "...ing. I won't be. I will be just as ratchet as I always am in the book club. Lastly, we gotta get to Brigitte Macron because I think everybody now is really tired of her lying about having been born with a penis. Not..."
-
-**[00:56:33](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-56-19)**
-> "...appened this week is people who hadn't even watched the series were like, "Okay, I've seen enough." Brigitte Macron crying because she doesn't know—Brigitte doesn't know why—but on the tax forms, the French tax form..."
-
-**[00:55:12](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-55-02)**
-> "...having been born with a penis. Not my fault, okay? If you have not—by the way—watched the "Becoming Brigitte" series and you are appreciating what I'm doing with the Charlie Kirk series, go back and watch it...."
-
-**[00:55:34](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-55-02)**
-> "...et. The series went viral. There's no way you can watch the series and come out of it thinking that Brigitte was born a female. You can't just disappear 30 years of your life. You can't just say, "I didn't ta..."
-
-**[00:56:09](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-55-46)**
-> "...ople for telling the truth to scare them. And it's all related, by the way. We're talking about who Brigitte actually is, the families that Brigitte is related to, the fact that Emmanuel Macron is in fact—jus..."
-
-**[00:57:16](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-57-02)**
-> "...rumetz was the guy who did this—a government official. He made the revelation, and he recounted how Brigitte was stunned to learn that her legal name had been quote-unquote "changed" when she logged into her ..."
-
-**[00:57:26](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-57-02)**
-> "...ompletely surprised," said Mr. Brumetz. Oh, okay. So we're supposed to believe the government—which Brigitte is controlling, by the way—this person, Brumetz, has worked with the couple since 2017. And we're s..."
-
-**[00:45:35](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-45-08)**
-> "Brigitte Macron thing, 30 years missing"
-
-**[00:45:50](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-45-08)**
-> "It's kind of like the Brigitte Macron thing."
-
-**[00:45:50](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-45-08)**
-> "...t's kind of like the Brigitte Macron thing."
-
-**[00:55:07](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-55-02)**
-> "Lastly, we gotta get to Brigitte Macron because I think everybody now is really tired of ..."
-
-**[00:55:07](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-55-02)**
-> "...tly, we gotta get to Brigitte Macron because I think everybody now is really tired of ..."
-
-**[00:55:12](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-55-02)**
-> "...the way—watched the "Becoming Brigitte" series and you are appreciating what I'm doing w..."
-
-**[00:55:34](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-55-02)**
-> "... come out of it thinking that Brigitte was born a female."
-
-**[00:56:09](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-55-46)**
-> "...ed to, the fact that Emmanuel Macron is in fact—just like the state of Israel—a Rothsc..."
-
-**[00:56:09](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-55-46)**
-> "We're talking about who Brigitte actually is, the families that Brigitte is relate..."
-
-**[00:56:09](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-55-46)**
-> "...ctually is, the families that Brigitte is related to, the fact that Emmanuel Macron is i..."
-
-**[00:56:33](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-56-19)**
-> "Brigitte Macron crying because she doesn't know—Brigitte doesn't ..."
-
-**[00:56:33](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-56-19)**
-> "...ying because she doesn't know—Brigitte doesn't know why—but on the tax forms, the French..."
-
-**[00:56:33](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-56-19)**
-> "... forms, the French tax forms, Brigitte is listed as Jean Michel and listed as a male."
-
-**[00:57:16](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-57-02)**
-> "Brigitte was stunned to learn that her legal name had been..."
-
-**[00:57:26](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-57-02)**
-> "... believe the government—which Brigitte is controlling, by the way—this person, Brumetz, ..."
-
-</details>
-
-<details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
-
-**[00:11:16](/episodes/ep-K1tFD7FfoCU.md#t-00-10-58)**
-> "... (clip): Obama, gay. Candace Owens (clip): Zelensky (Zelensky), gay. Candace Owens (clip): Emmanuel Macron (Emmanuel Macron), gay and married to a trans man who molested him when he was a child. Candace Owe..."
-
-**[00:11:16](/episodes/ep-K1tFD7FfoCU.md#t-00-10-58)**
-> "Emmanuel Macron (Emmanuel Macron), gay and married to a trans man..."
-
-</details>
-
-<details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (3 mentions)</summary>
 
 **[00:06:39](/episodes/ep-Kmt6HgRjckU.md#ent-person-brigitte-macron-t-00-38-42)**
@@ -175,82 +34,64 @@ _Type: People_
 </details>
 
 <details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (3 mentions)</summary>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (19 mentions)</summary>
 
-**[00:39:20](/episodes/ep-MUA9ebCF4Ow.md#ent-person-brigitte-macron-t-00-39-14)**
-> "...some rules to lawsuits. If you have to sue someone to prove—as an example—that you are a woman—a la Brigitte Macron—it's because you're not one. If you have to sue someone to prove that your relationship is really a..."
+**[00:48:24](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-47-48)**
+> "...or telling the truth, by the way. That's why I'm being sued. And they're not lying. Thus far in the Brigitte Macron lawsuit, we have paid over a quarter of a million dollars, and we haven't even had our first day in..."
 
-**[00:39:20](/episodes/ep-MUA9ebCF4Ow.md#ent-person-brigitte-macron-t-00-39-14)**
-> "...ple—that you are a woman—a la Brigitte Macron—it's because you're not one."
+**[00:49:16](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-49-01)**
+> "...y comprehend in this moment just yet—we asked the question and we can't find the answer as to where Brigitte Macron was on the dates that the Egyptian plane was flying around America. It's just like a six-day gap in..."
 
-**[00:39:20](/episodes/ep-MUA9ebCF4Ow.md#ent-person-brigitte-macron-t-00-39-14)**
-> "...you are a woman—a la Brigitte Macron—it's because you're not one."
+**[00:27:14](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-27-14)**
+> "...hey try to destroy a man's life who's not even on my quote-unquote "political team." Sometimes it's Brigitte and why we are colluding with nations to cover the obvious fact that Brigitte was born a male. And ..."
 
-</details>
+**[00:49:19](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-49-01)**
+> "...was on the dates that the Egyptian plane was flying around America. It's just like a six-day gap in Brigitte's schedule. And now, of course—especially as we have learned about Delaware and the DuPont-French c..."
 
-<details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (14 mentions)</summary>
+**[00:46:54](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-27-14)**
+> "...rtune yesterday. This is the headline: "Inside the economics of Candace Owens' media empire and the Macron lawsuit threatening to unravel it." They went with this like they're proud of this—like a lawsuit c..."
 
-**[00:38:38](/episodes/ep-SKGUzGHymcI.md#ent-person-brigitte-macron-t-00-38-36)**
-> "...d particularly, I would say the last two years of that, I mean, any person who actually watched the Brigitte Macron story knows that that was a story about pedophiles in power, pedophiles in power and the psychopath..."
+**[00:49:54](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-49-01)**
+> "...lf before Charlie (Charlie Kirk) was assassinated in Utah, Donald Trump (Donald Trump) and Emmanuel Macron had a phone call that has been recorded in Emmanuel Macron's public calendar, which has been releas..."
 
-**[00:39:02](/episodes/ep-SKGUzGHymcI.md#ent-person-brigitte-macron-t-00-38-36)**
-> "...e the slave masters, how dare you know? And Theo Von and Joe Rogan had quite a laugh discussing the Brigitte Macron non-conspiracy theory. Take a listen. Dude, Candace is the best. I went to see, she has, her and he..."
+**[00:49:59](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-49-01)**
+> "...Donald Trump (Donald Trump) and Emmanuel Macron had a phone call that has been recorded in Emmanuel Macron's public calendar, which has been released. You can see that he had the phone call with Donald Trum..."
 
-**[00:40:49](/episodes/ep-SKGUzGHymcI.md#ent-person-brigitte-macron-t-00-40-48)**
-> "...f***ing hog. Classic Theo Von, classic Theo Von. And here's the reality. I told the truth about the Brigitte Macron story, right? And like I said, the fact that they are caught and their move is we're gonna sue Cand..."
+**[00:50:34](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-49-01)**
+> "...ow that there's been a lot of discussion about Ukraine, and there's a million reasons that Emmanuel Macron and him could have had that poorly timed phone call. But it would be great if a press member could ..."
 
-**[00:53:37](/episodes/ep-SKGUzGHymcI.md#ent-person-brigitte-macron-t-00-53-19)**
-> "..., a lot of people wrote that instantly they did this intentionally because you were on the track of Brigitte Macron we were getting real close talking about that MK Ultra experiment that happened that I believe it l..."
+**[00:27:14](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-27-14)**
+> "Sometimes it's Brigitte and why we are colluding with nations to cover th..."
 
-**[00:53:25](/episodes/ep-SKGUzGHymcI.md#ent-person-brigitte-macron-t-00-53-19)**
-> "...you for correcting me. Bigfoot Believer. Oh, sorry. Elodium writes, my bet is it's connected to the Macrons. They rang the MK Ultra Red phone to get you off their backs. Plus, Charlie (Charlie Kirk) was now ..."
+**[00:27:14](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-27-14)**
+> "...o cover the obvious fact that Brigitte was born a male."
 
-**[00:38:38](/episodes/ep-SKGUzGHymcI.md#ent-person-brigitte-macron-t-00-38-36)**
-> "...rson who actually watched the Brigitte Macron story knows that that was a story about pedophile..."
+**[00:46:54](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-27-14)**
+> "...e Owens' media empire and the Macron lawsuit threatening to unravel it.""
 
-**[00:38:38](/episodes/ep-SKGUzGHymcI.md#ent-person-brigitte-macron-t-00-38-36)**
-> "...actually watched the Brigitte Macron story knows that that was a story about pedophile..."
+**[00:48:24](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-47-48)**
+> "Thus far in the Brigitte Macron lawsuit, we have paid over a quarter of a million..."
 
-**[00:39:02](/episodes/ep-SKGUzGHymcI.md#ent-person-brigitte-macron-t-00-38-36)**
-> "... quite a laugh discussing the Brigitte Macron non-conspiracy theory."
+**[00:49:16](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-49-01)**
+> "...t find the answer as to where Brigitte Macron was on the dates that the Egyptian plane was flyi..."
 
-**[00:39:02](/episodes/ep-SKGUzGHymcI.md#ent-person-brigitte-macron-t-00-38-36)**
-> "...laugh discussing the Brigitte Macron non-conspiracy theory."
+**[00:49:16](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-49-01)**
+> "...e answer as to where Brigitte Macron was on the dates that the Egyptian plane was flyi..."
 
-**[00:40:49](/episodes/ep-SKGUzGHymcI.md#ent-person-brigitte-macron-t-00-40-48)**
-> "I told the truth about the Brigitte Macron story, right?"
+**[00:49:19](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-49-01)**
+> "...'s just like a six-day gap in Brigitte's schedule."
 
-**[00:40:49](/episodes/ep-SKGUzGHymcI.md#ent-person-brigitte-macron-t-00-40-48)**
-> "... the truth about the Brigitte Macron story, right?"
+**[00:49:54](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-49-01)**
+> "...p (Donald Trump) and Emmanuel Macron had a phone call"
 
-**[00:53:25](/episodes/ep-SKGUzGHymcI.md#ent-person-brigitte-macron-t-00-53-19)**
-> "... bet is it's connected to the Macrons."
+**[00:49:59](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-49-01)**
+> "...has been recorded in Emmanuel Macron's public calendar, which has been released."
 
-**[00:53:37](/episodes/ep-SKGUzGHymcI.md#ent-person-brigitte-macron-t-00-53-19)**
-> "...ause you were on the track of Brigitte Macron we were getting real close talking about that MK ..."
+**[00:50:34](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-49-01)**
+> "...million reasons that Emmanuel Macron and him could have had that poorly timed phone ca..."
 
-**[00:53:37](/episodes/ep-SKGUzGHymcI.md#ent-person-brigitte-macron-t-00-53-19)**
-> "...were on the track of Brigitte Macron we were getting real close talking about that MK ..."
-
-</details>
-
-<details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2 mentions)</summary>
-
-**[00:57:55](/episodes/ep-YaZfwLQ7vrI.md#ent-person-brigitte-macron-t-00-57-38)**
-> "...o hammer me so much on Zionism—you know, Israel—is kind of what she wanted to speak about. And then Brigitte Macron is what she wanted to speak about. Anyways, speaking of this book—I loved seeing this online: "Make..."
-
-**[00:57:55](/episodes/ep-YaZfwLQ7vrI.md#ent-person-brigitte-macron-t-00-57-38)**
-> "And then Brigitte Macron is what she wanted to speak about."
-
-</details>
-
-<details>
-<summary>To My Friend, Charlie Kirk. (1 mentions)</summary>
-
-**[00:19:57](/episodes/ep-_dRaEO47-co.md#t-00-19-31)**
-> "...they said, “Oh, the person who probably was the intermediary when Trump (Donald Trump) called about Brigitte was Charlie Kirk.” Of course it was Charlie (Charlie Kirk). They would never send anybody else to c..."
+**[00:27:14](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-27-14)**
+> "Sometimes it's Brigitte and why we are colluding with nations to cover the obvious fact that Brigitte was born a male."
 
 </details>
 
@@ -328,507 +169,6 @@ _Type: People_
 
 **[00:12:04](/episodes/ep-a-e7HC6SeK8.md#ent-person-brigitte-macron-t-00-11-53)**
 > "...e've got Brigitte's (Brigitte Macron's) lawyers at 919 North Market Street."
-
-</details>
-
-<details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
-
-**[00:22:08](/episodes/ep-adJ4LNGp84I.md#t-00-21-40)**
-> "...t it is telling, about White Lotus sect, of all things, for those of you that followed the Becoming Brigitte series and things that we have spoken about about this White Lotus idea. It's essentially they're t..."
-
-</details>
-
-<details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (19 mentions)</summary>
-
-**[00:48:24](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-47-48)**
-> "...or telling the truth, by the way. That's why I'm being sued. And they're not lying. Thus far in the Brigitte Macron lawsuit, we have paid over a quarter of a million dollars, and we haven't even had our first day in..."
-
-**[00:49:16](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-49-01)**
-> "...y comprehend in this moment just yet—we asked the question and we can't find the answer as to where Brigitte Macron was on the dates that the Egyptian plane was flying around America. It's just like a six-day gap in..."
-
-**[00:27:14](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-27-14)**
-> "...hey try to destroy a man's life who's not even on my quote-unquote "political team." Sometimes it's Brigitte and why we are colluding with nations to cover the obvious fact that Brigitte was born a male. And ..."
-
-**[00:49:19](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-49-01)**
-> "...was on the dates that the Egyptian plane was flying around America. It's just like a six-day gap in Brigitte's schedule. And now, of course—especially as we have learned about Delaware and the DuPont-French c..."
-
-**[00:46:54](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-27-14)**
-> "...rtune yesterday. This is the headline: "Inside the economics of Candace Owens' media empire and the Macron lawsuit threatening to unravel it." They went with this like they're proud of this—like a lawsuit c..."
-
-**[00:49:54](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-49-01)**
-> "...lf before Charlie (Charlie Kirk) was assassinated in Utah, Donald Trump (Donald Trump) and Emmanuel Macron had a phone call that has been recorded in Emmanuel Macron's public calendar, which has been releas..."
-
-**[00:49:59](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-49-01)**
-> "...Donald Trump (Donald Trump) and Emmanuel Macron had a phone call that has been recorded in Emmanuel Macron's public calendar, which has been released. You can see that he had the phone call with Donald Trum..."
-
-**[00:50:34](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-49-01)**
-> "...ow that there's been a lot of discussion about Ukraine, and there's a million reasons that Emmanuel Macron and him could have had that poorly timed phone call. But it would be great if a press member could ..."
-
-**[00:27:14](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-27-14)**
-> "Sometimes it's Brigitte and why we are colluding with nations to cover th..."
-
-**[00:27:14](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-27-14)**
-> "...o cover the obvious fact that Brigitte was born a male."
-
-**[00:46:54](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-27-14)**
-> "...e Owens' media empire and the Macron lawsuit threatening to unravel it.""
-
-**[00:48:24](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-47-48)**
-> "Thus far in the Brigitte Macron lawsuit, we have paid over a quarter of a million..."
-
-**[00:49:16](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-49-01)**
-> "...t find the answer as to where Brigitte Macron was on the dates that the Egyptian plane was flyi..."
-
-**[00:49:16](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-49-01)**
-> "...e answer as to where Brigitte Macron was on the dates that the Egyptian plane was flyi..."
-
-**[00:49:19](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-49-01)**
-> "...'s just like a six-day gap in Brigitte's schedule."
-
-**[00:49:54](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-49-01)**
-> "...p (Donald Trump) and Emmanuel Macron had a phone call"
-
-**[00:49:59](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-49-01)**
-> "...has been recorded in Emmanuel Macron's public calendar, which has been released."
-
-**[00:50:34](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-49-01)**
-> "...million reasons that Emmanuel Macron and him could have had that poorly timed phone ca..."
-
-**[00:27:14](/episodes/ep-his-JBjlkh8.md#ent-person-brigitte-macron-t-00-27-14)**
-> "Sometimes it's Brigitte and why we are colluding with nations to cover the obvious fact that Brigitte was born a male."
-
-</details>
-
-<details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (5 mentions)</summary>
-
-**[00:11:47](/episodes/ep-iHav0PPzUz8.md#ent-person-brigitte-macron-t-00-11-19)**
-> "...hey go, oh, well, this has been debunked, right? It's been completely debunked. You saw this in the Brigitte case. She started going after people for defamation—not people that wasn't attacking them for the s..."
-
-**[00:58:11](/episodes/ep-iHav0PPzUz8.md#ent-person-brigitte-macron-t-00-57-53)**
-> "...work that you are doing. You are an amazing friend, an incredible truth teller and a researcher—and Brigitte is a man. Careful, or she'll sue you—not because you said she was a man, but because you said somet..."
-
-**[00:11:47](/episodes/ep-iHav0PPzUz8.md#ent-person-brigitte-macron-t-00-11-19)**
-> "You saw this in the Brigitte case. She started going after people for defamation"
-
-**[00:11:47](/episodes/ep-iHav0PPzUz8.md#ent-person-brigitte-macron-t-00-11-19)**
-> "You saw this in the Brigitte case."
-
-**[00:58:11](/episodes/ep-iHav0PPzUz8.md#ent-person-brigitte-macron-t-00-57-53)**
-> "...h teller and a researcher—and Brigitte is a man."
-
-</details>
-
-<details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (1 mentions)</summary>
-
-**[00:50:34](/episodes/ep-ja26iltROkM.md#t-00-50-13)**
-> "...ou guys. And I know many of you guys are just finding my content and are new. Go watch the Becoming Brigitte series. I think a lot of people have been hooked on that. It's a really good one. And she's a dude...."
-
-</details>
-
-<details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (5 mentions)</summary>
-
-**[00:30:01](/episodes/ep-mKXdKV-OBog.md#t-00-29-33)**
-> "...cent episodes, including claims about Israel, the death of Charlie (Charlie Kirk), and the Becoming Brigitte series. I also want to ask about the financial side of your operation because it is central to the ..."
-
-**[00:32:34](/episodes/ep-mKXdKV-OBog.md#t-00-32-20)**
-> "...etting a strike. And she goes on a rant against me—not against Tim Dillon, okay? I'm speaking about Brigitte and MK Ultra. Brigitte sues me—not Tim Dillon—who she mentions in the lawsuit. So I'm just asking i..."
-
-**[00:32:36](/episodes/ep-mKXdKV-OBog.md#t-00-32-20)**
-> "...e goes on a rant against me—not against Tim Dillon, okay? I'm speaking about Brigitte and MK Ultra. Brigitte sues me—not Tim Dillon—who she mentions in the lawsuit. So I'm just asking if anybody wants to sue ..."
-
-**[00:38:00](/episodes/ep-mKXdKV-OBog.md#t-00-37-26)**
-> "...d time to get stuff for the holidays. Top comments from yesterday. Number one: this person writes, "Brigitte thought Candace (Candace Owens) forgot all about him." Yeah, I mean, look. I did not want to see th..."
-
-**[00:38:26](/episodes/ep-mKXdKV-OBog.md#t-00-38-09)**
-> "... of their history— like, that's a committed psychopath, you know? There's no shame there. And yeah, Brigitte's a gangster. Like, he's a gangster. There's no question about it. And the people that are sending ..."
-
-</details>
-
-<details>
-<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (2 mentions)</summary>
-
-**[01:03:38](/episodes/ep-ozWJz2spBcI.md#ent-person-brigitte-macron-t-01-03-04)**
-> "...ou the power—the power of Christ, truly. I will say in closing and going back to France: if I found Brigitte's penis, I will find who killed Charlie Kirk (Charlie Kirk). We'll see you guys tomorrow."
-
-**[01:03:38](/episodes/ep-ozWJz2spBcI.md#ent-person-brigitte-macron-t-01-03-04)**
-> "...ng back to France: if I found Brigitte's penis, I will find who killed Charlie (Charlie (C..."
-
-</details>
-
-<details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (98 mentions)</summary>
-
-**[00:00:51](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-00-39)**
-> "...e wondering whether or not Charlie (Charlie Kirk)'s assassination was meant to distract us from the Brigitte Macron investigation. And rightfully so; that is a fair question. Because as you guys know, it was Charlie..."
-
-**[00:06:49](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-06-16)**
-> "...cause I began prodding the narrative on Israel at the exact same time that I began looking into the Brigitte Macron story. That was in March of 2024. It was on March 13th, 2024, that I did the very first ever episod..."
-
-**[00:07:05](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-06-59)**
-> "...y. That was in March of 2024. It was on March 13th, 2024, that I did the very first ever episode on Brigitte Macron, right? And then wham, I am fired within 10 days. It's a pretty quick turnaround. Charlie (Charlie ..."
-
-**[00:07:49](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-07-38)**
-> "...t makes things neat, right? So we are in 2024, right? March 13th, I do that first episode regarding Brigitte Macron. March 19th, just six days later, I'm fired from the Daily Wire. I thought it was 10; it's actually..."
-
-**[00:08:18](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-08-18)**
-> "... because he had never been on camera. I thought that would be a great get, and I still believe that Brigitte Macron was born a man named Jean-Michel Trogneux. Suddenly, on December 3rd, before I interview him, I rec..."
-
-**[00:08:25](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-08-18)**
-> "...nly, on December 3rd, before I interview him, I receive the first ever cease-and-desist letter from Brigitte Macron and her lawyers. And the funny thing is I didn't receive it. They sent it to a really strange inbox..."
-
-**[00:08:43](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-08-18)**
-> "...he time-sensitive legal correspondence sent on behalf of our clients, President Emmanuel Macron and Brigitte Macron. We urge you to provide this correspondence to legal counsel promptly. They sent it to the Club Can..."
-
-**[00:10:18](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-09-40)**
-> "...mmunications between me and Xavier Poussard—the obvious answer—because I hadn't been speaking about Brigitte Macron on my podcast. So what was up with the cease-and-desist? I think my suspicion is they knew that I w..."
-
-**[00:19:11](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-18-58)**
-> "...the Brigitte case. Tucker (Tucker Carlson) is interested; he's watched the series; he believes that Brigitte Macron was born a man—or born a male, rather—and that goes viral, okay? It just goes viral; gets more peop..."
-
-**[00:20:43](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-20-22)**
-> "...and it stays one night on August 23rd in Wilmington before heading back to Cairo. On September 3rd, Brigitte Macron is basically opening up Paris Design Week, and she's photographed with the Minister of Culture. We ..."
-
-**[00:21:00](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-21-00)**
-> "...hat I forgot to mention before we get to September 4th. President Zelensky is in town also, though. Brigitte Macron welcomes President Zelensky into Paris on September 3rd because there is this remarkable—and I woul..."
-
-**[00:22:49](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-22-25)**
-> "...w, a thief that nobody was pursuing was running. And that was us discussing the MKUltra program and Brigitte Macron strangely and Emmanuel mentioning MKUltra in the lawsuit to us 18 times struck us as odd as we were..."
-
-**[00:22:51](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-22-25)**
-> "...it to us 18 times struck us as odd as we were trying to determine whether or not it could have been Brigitte Macron that was involved in that Stanford experiment—this prisoner 2093 that was being protected. We didn'..."
-
-**[00:23:51](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-23-08)**
-> "...ions that I was having in the background with Xavier. And we thought that we had perhaps identified Brigitte Macron at Stanford University—a possibility is what I would say; we were maybe at 50-50%—and then suddenly..."
-
-**[00:25:24](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-25-07)**
-> "...than us? I have to tell you guys, in my gut of guts, there is something unbelievably—I just look at Brigitte Macron, and I am telling you, you are looking at an utter psychopath in my view. There is something dark; ..."
-
-**[00:26:33](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-26-20)**
-> "...ost, by the way, is how far the lengths that they are going to to protect Brigitte. Who the hell is Brigitte Macron, okay? Because it ain't Brigitte Trogneux now. I can tell you that for free. Who is this person? Be..."
-
-**[00:27:05](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-27-05)**
-> "...y it all is. They would rather protect Brigitte even though the whole world no longer believes that Brigitte Macron was born a female, right? But they would rather risk the entire thing coming undone than to just sa..."
-
-**[00:01:02](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-00-39)**
-> "...s Charlie (Charlie Kirk) Kirk that called me and told me that they wanted me to stop speaking about Brigitte. But the question is always, who is "they"? Who is "they"? Welcome back to Candace. Grief is weird,..."
-
-**[00:05:24](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-04-54)**
-> "...k) that called me, it was Charlie (Charlie Kirk) that said that they want me to stop speaking about Brigitte. And now I consider Satis, which according to our source—our well-placed source—is a front, right? ..."
-
-**[00:08:03](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-07-38)**
-> "...erview him during an upcoming trip to London. Xavier Poussard is the person who wrote the "Becoming Brigitte" book. He has never been sued for defamation, and I was only going to interview him one time becaus..."
-
-**[00:10:57](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-10-57)**
-> "...ory, which is incredibly interesting? And on January 31st, I release the first episode of "Becoming Brigitte." Brigitte season one airs, and obviously this show goes viral because it was a shocking story, an ..."
-
-**[00:11:08](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-10-57)**
-> "...is incredibly interesting? And on January 31st, I release the first episode of "Becoming Brigitte." Brigitte season one airs, and obviously this show goes viral because it was a shocking story, an unbelievabl..."
-
-**[00:11:46](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-11-43)**
-> "...Charlie Kirk) reaches out, and he tells me that the White House is asking me to stop speaking about Brigitte. And he tells me that it is related to the peace deal in Ukraine. That is ostensibly the reason. On..."
-
-**[00:12:26](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-12-26)**
-> "...k about it," because I don't want people in Russia to be killed because I won't stop speaking about Brigitte if the Ukraine peace deal is actually at the center of this. And he says, "Okay." And then I tried ..."
-
-**[00:12:49](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-12-26)**
-> "...what happened. On February 25th, actually, Sergio Gor called me and asked me to stop speaking about Brigitte. And it felt more like an order than a request. And I did not respond in kind to that. February 26t..."
-
-**[00:13:03](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-12-26)**
-> "... in kind to that. February 26th. President Donald Trump calls me and asks me to stop speaking about Brigitte. Now, Charlie (Charlie Kirk)'s in the middle of this. Communications are happening between me and C..."
-
-**[00:13:11](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-13-11)**
-> "...)'s in the middle of this. Communications are happening between me and Charlie (Charlie Kirk) about Brigitte, okay? On July 1st—and by the way, the series is over, and I said I'll agree to be quiet about this..."
-
-**[00:17:22](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-16-53)**
-> "...for six days, okay? That happens to be—from the 20th to the 26th—that happens to be the period that Brigitte and Emmanuel Macron released to the Financial Times that they are suing me in a Delaware court, rig..."
-
-**[00:17:29](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-17-29)**
-> "... released to the Financial Times that they are suing me in a Delaware court, right? Not saying that Brigitte or Emmanuel are on this plane. What I'm saying is that could it have been a dignitary that was on t..."
-
-**[00:19:09](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-18-58)**
-> "...n) releases an episode with me. And what goes viral from that episode is that we are discussing the Brigitte case. Tucker (Tucker Carlson) is interested; he's watched the series; he believes that Brigitte Mac..."
-
-**[00:21:29](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-21-00)**
-> "...s meet to discuss Ukraine, securing the security of Ukraine, okay? That's what they're there to do. Brigitte greets him on September 3rd. She also, again, like I said, was with the Minister of Culture. And th..."
-
-**[00:22:38](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-22-25)**
-> "... were getting very close to something as we had started on September 8th, by the way, our "Becoming Brigitte" season two. And we were looking at how unusual it was that a dog was barking a bit too loud—you kn..."
-
-**[00:26:20](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-26-20)**
-> "...nd what terrifies me the most, by the way, is how far the lengths that they are going to to protect Brigitte. Who the hell is Brigitte Macron, okay? Because it ain't Brigitte Trogneux now. I can tell you that..."
-
-**[00:26:36](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-26-20)**
-> "...that they are going to to protect Brigitte. Who the hell is Brigitte Macron, okay? Because it ain't Brigitte Trogneux now. I can tell you that for free. Who is this person? Because power is allowing us to see..."
-
-**[00:28:16](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-27-47)**
-> "...thing very dangerous and something deep and dark that is going on. And the themes that were in this Brigitte story are now in this Charlie (Charlie Kirk) story. So many people involved here having a history o..."
-
-**[00:18:51](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-18-13)**
-> "... in Tennessee. Your companies in Delaware do not defame anyone. The witnesses are in Tennessee. The Macrons are not citizens of Delaware. Thus, there's no connection to Delaware. Like, what are we doing in D..."
-
-**[00:09:09](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-08-18)**
-> "...on, Delaware, for a hangar. Okay, there's suddenly a French company, and the CEO who knows Emmanuel Macron—we've confirmed that—decides they're gonna sign a two-year lease for an airport hangar to do what? ..."
-
-**[00:12:06](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-11-43)**
-> "...h—that's how quickly the phone call happened. This is the day that Donald Trump meets with Emmanuel Macron. Do we have that, by the way, the text message between me and Charlie (Charlie Kirk)? Here we go. Y..."
-
-**[00:13:17](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-13-11)**
-> "...Christian men to be slaughtered in Ukraine because I'm not keeping my mouth shut. Now, on July 1st, Macron sends another legal threat. On July 18th, this is where things get really interesting. Charlie (Cha..."
-
-**[00:27:17](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-27-05)**
-> "...er risk the entire thing coming undone than to just say, "Okay, maybe we took it too far. Let's get Macron out of office and put somebody else in there that we can control." They are taking this way too far..."
-
-**[00:01:02](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-00-39)**
-> "Charlie Kirk's assassination was meant to distract us from the Brigitte Macron investigation"
-
-**[00:00:51](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-00-39)**
-> "...meant to distract us from the Brigitte Macron investigation."
-
-**[00:00:51](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-00-39)**
-> "...distract us from the Brigitte Macron investigation."
-
-**[00:01:02](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-00-39)**
-> "...ted me to stop speaking about Brigitte."
-
-**[00:05:24](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-04-54)**
-> "...ant me to stop speaking about Brigitte."
-
-**[00:06:49](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-06-16)**
-> "...that I began looking into the Brigitte Macron story."
-
-**[00:06:49](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-06-16)**
-> "...gan looking into the Brigitte Macron story."
-
-**[00:07:05](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-06-59)**
-> "...he very first ever episode on Brigitte Macron, right?"
-
-**[00:07:05](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-06-59)**
-> "...irst ever episode on Brigitte Macron, right?"
-
-**[00:07:49](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-07-38)**
-> "... that first episode regarding Brigitte Macron."
-
-**[00:07:49](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-07-38)**
-> "...st episode regarding Brigitte Macron."
-
-**[00:08:03](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-07-38)**
-> "...erson who wrote the "Becoming Brigitte" book."
-
-**[00:08:18](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-08-18)**
-> "...get, and I still believe that Brigitte Macron was born a man named Jean-Michel Trogneux."
-
-**[00:08:18](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-08-18)**
-> "...I still believe that Brigitte Macron was born a man named Jean-Michel Trogneux."
-
-**[00:08:25](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-08-18)**
-> "... cease-and-desist letter from Brigitte Macron and her lawyers."
-
-**[00:08:25](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-08-18)**
-> "...d-desist letter from Brigitte Macron and her lawyers."
-
-**[00:08:43](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-08-18)**
-> "...President Emmanuel Macron and Brigitte Macron."
-
-**[00:08:43](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-08-18)**
-> "...r clients, President Emmanuel Macron and Brigitte Macron."
-
-**[00:08:43](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-08-18)**
-> "... Emmanuel Macron and Brigitte Macron."
-
-**[00:09:09](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-08-18)**
-> "...nd the CEO who knows Emmanuel Macron—we've confirmed that—decides they're gonna sign a..."
-
-**[00:10:18](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-09-40)**
-> "... I hadn't been speaking about Brigitte Macron on my podcast."
-
-**[00:10:18](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-09-40)**
-> "... been speaking about Brigitte Macron on my podcast."
-
-**[00:10:57](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-10-57)**
-> "...he first episode of "Becoming Brigitte.""
-
-**[00:11:08](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-10-57)**
-> "Brigitte season one airs, and obviously this show goes vir..."
-
-**[00:11:46](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-11-43)**
-> "...ing me to stop speaking about Brigitte."
-
-**[00:12:06](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-11-43)**
-> "...ald Trump meets with Emmanuel Macron."
-
-**[00:12:26](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-12-26)**
-> "...e I won't stop speaking about Brigitte if the Ukraine peace deal is actually at the cent..."
-
-**[00:12:49](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-12-26)**
-> "...ked me to stop speaking about Brigitte."
-
-**[00:13:03](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-12-26)**
-> "...sks me to stop speaking about Brigitte."
-
-**[00:13:11](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-13-11)**
-> "... Charlie (Charlie Kirk) about Brigitte, okay?"
-
-**[00:13:17](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-13-11)**
-> "Now, on July 1st, Macron sends another legal threat."
-
-**[00:17:22](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-16-53)**
-> "...od that Brigitte and Emmanuel Macron released to the Financial Times that they are sui..."
-
-**[00:17:22](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-16-53)**
-> "...happens to be the period that Brigitte and Emmanuel Macron released to the Financial Tim..."
-
-**[00:17:29](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-17-29)**
-> "Not saying that Brigitte or Emmanuel are on this plane."
-
-**[00:18:51](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-18-13)**
-> "The Macrons are not citizens of Delaware."
-
-**[00:19:09](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-18-58)**
-> "...is that we are discussing the Brigitte case."
-
-**[00:19:11](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-18-58)**
-> "... the series; he believes that Brigitte Macron was born a man—or born a male, rather—and that go..."
-
-**[00:19:11](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-18-58)**
-> "...es; he believes that Brigitte Macron was born a man—or born a male, rather—and that go..."
-
-**[00:20:43](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-20-22)**
-> "On September 3rd, Brigitte Macron is basically opening up Paris Design Week, and sh..."
-
-**[00:21:00](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-21-00)**
-> "Brigitte Macron welcomes President Zelensky into Paris on Septemb..."
-
-**[00:21:29](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-21-00)**
-> "Brigitte greets him on September 3rd."
-
-**[00:22:38](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-22-25)**
-> "...th, by the way, our "Becoming Brigitte" season two."
-
-**[00:22:49](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-22-25)**
-> "...ssing the MKUltra program and Brigitte Macron strangely and Emmanuel mentioning MKUltra in the ..."
-
-**[00:22:49](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-22-25)**
-> "... MKUltra program and Brigitte Macron strangely and Emmanuel mentioning MKUltra in the ..."
-
-**[00:22:51](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-22-25)**
-> "...her or not it could have been Brigitte Macron that was involved in that Stanford experiment—thi..."
-
-**[00:22:51](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-22-25)**
-> "...t it could have been Brigitte Macron that was involved in that Stanford experiment—thi..."
-
-**[00:23:51](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-23-08)**
-> "...hat we had perhaps identified Brigitte Macron at Stanford University—a possibility is what I wo..."
-
-**[00:23:51](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-23-08)**
-> "...d perhaps identified Brigitte Macron at Stanford University—a possibility is what I wo..."
-
-**[00:25:24](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-25-07)**
-> "...g unbelievably—I just look at Brigitte Macron, and I am telling you, you are looking at an utte..."
-
-**[00:25:24](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-25-07)**
-> "...vably—I just look at Brigitte Macron, and I am telling you, you are looking at an utte..."
-
-**[00:26:20](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-26-20)**
-> "... they are going to to protect Brigitte."
-
-**[00:26:33](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-26-20)**
-> "Who the hell is Brigitte Macron, okay?"
-
-**[00:26:36](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-26-20)**
-> "Because it ain't Brigitte Trogneux now."
-
-**[00:27:05](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-27-05)**
-> "...world no longer believes that Brigitte Macron was born a female, right?"
-
-**[00:27:05](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-27-05)**
-> "...longer believes that Brigitte Macron was born a female, right?"
-
-**[00:27:05](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-27-05)**
-> "They would rather protect Brigitte even though the whole world no longer believes th..."
-
-**[00:27:17](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-27-05)**
-> "...we took it too far. Let's get Macron out of office and put somebody else in there that..."
-
-**[00:28:16](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-27-47)**
-> "... the themes that were in this Brigitte story are now in this Charlie (Charlie Kirk) stor..."
-
-</details>
-
-<details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (12 mentions)</summary>
-
-**[00:46:01](/episodes/ep-sreYYcID-QY.md#ent-person-brigitte-macron-t-00-45-49)**
-> "...te me forever, that's totally fine. On top of that, talk about a federal operation. Out of nowhere, Brigitte Macron just lies. I don't even know how they got this in the press. This is so dumb. Brigitte Macron comes..."
-
-**[00:46:15](/episodes/ep-sreYYcID-QY.md#ent-person-brigitte-macron-t-00-45-49)**
-> "...here, Brigitte Macron just lies. I don't even know how they got this in the press. This is so dumb. Brigitte Macron comes out and says they have offered scientific evidence to the U.S. court to prove that Brigitte i..."
-
-**[00:52:07](/episodes/ep-sreYYcID-QY.md#ent-person-brigitte-macron-t-00-51-30)**
-> "... cross-examined, and he won't risk it because perjury equals jail. I don't know, man. The fact that Brigitte is suing—this is what they do. Like I said, it's just what they do. You know, they've got people in..."
-
-**[00:55:17](/episodes/ep-sreYYcID-QY.md#ent-person-brigitte-macron-t-00-55-05)**
-> "...rimes through investigative journalism. I believe you will be vindicated and proven right about the Macrons." Yeah, I've been telling the truth about that too. They better enjoy this break. Thank you for all..."
-
-**[00:46:09](/episodes/ep-sreYYcID-QY.md#ent-person-brigitte-macron-t-00-45-49)**
-> "Brigitte Macron comes out and says they have offered scientific evidence to the U.S. court"
-
-**[00:46:01](/episodes/ep-sreYYcID-QY.md#ent-person-brigitte-macron-t-00-45-49)**
-> "Out of nowhere, Brigitte Macron just lies"
-
-**[00:46:15](/episodes/ep-sreYYcID-QY.md#ent-person-brigitte-macron-t-00-45-49)**
-> "Brigitte Macron comes out and says they have offered scientific evidence"
-
-**[00:46:01](/episodes/ep-sreYYcID-QY.md#ent-person-brigitte-macron-t-00-45-49)**
-> "Out of nowhere, Brigitte Macron just lies."
-
-**[00:46:15](/episodes/ep-sreYYcID-QY.md#ent-person-brigitte-macron-t-00-45-49)**
-> "Brigitte Macron comes out and says they have offered scientific e..."
-
-**[00:46:15](/episodes/ep-sreYYcID-QY.md#ent-person-brigitte-macron-t-00-45-49)**
-> "... the U.S. court to prove that Brigitte is a woman."
-
-**[00:52:07](/episodes/ep-sreYYcID-QY.md#ent-person-brigitte-macron-t-00-51-30)**
-> "The fact that Brigitte is suing—this is what they do."
-
-**[00:55:17](/episodes/ep-sreYYcID-QY.md#ent-person-brigitte-macron-t-00-55-05)**
-> "...ed and proven right about the Macrons.""
-
-</details>
-
-<details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (9 mentions)</summary>
-
-**[00:34:37](/episodes/ep-t1YtLS1n8Vs.md#ent-person-brigitte-macron-t-00-34-19)**
-> "...mation. Okay, I am the first. It is because we are getting close to a lot of truth when it comes to Brigitte Macron, okay? And so now what they're doing is they're calling their cronies. Brigitte Macron has hired fe..."
-
-**[00:34:45](/episodes/ep-t1YtLS1n8Vs.md#ent-person-brigitte-macron-t-00-34-19)**
-> "... it comes to Brigitte Macron, okay? And so now what they're doing is they're calling their cronies. Brigitte Macron has hired feds, former federal prosecutors, and she's hiring a firm here. Why? Because the next opt..."
-
-**[00:52:45](/episodes/ep-t1YtLS1n8Vs.md#ent-person-brigitte-macron-t-00-52-17)**
-> "...ens), and you are one of Charlie (Charlie Kirk)'s few true friends. You have bigger balls than Mrs. Macron.” I don't know about that. Mrs. Macron's got some pretty big balls. She's gonna bankrupt me for exp..."
-
-**[00:52:49](/episodes/ep-t1YtLS1n8Vs.md#ent-person-brigitte-macron-t-00-52-17)**
-> "...ie Kirk)'s few true friends. You have bigger balls than Mrs. Macron.” I don't know about that. Mrs. Macron's got some pretty big balls. She's gonna bankrupt me for exposing it. “We'll bankrupt you;” that's ..."
-
-**[00:34:37](/episodes/ep-t1YtLS1n8Vs.md#ent-person-brigitte-macron-t-00-34-19)**
-> "...lot of truth when it comes to Brigitte Macron, okay?"
-
-**[00:34:37](/episodes/ep-t1YtLS1n8Vs.md#ent-person-brigitte-macron-t-00-34-19)**
-> "...uth when it comes to Brigitte Macron, okay?"
-
-**[00:34:45](/episodes/ep-t1YtLS1n8Vs.md#ent-person-brigitte-macron-t-00-34-19)**
-> "Brigitte Macron has hired feds, former federal prosecutors, and s..."
-
-**[00:52:45](/episodes/ep-t1YtLS1n8Vs.md#ent-person-brigitte-macron-t-00-52-17)**
-> "...u have bigger balls than Mrs. Macron.”"
-
-**[00:52:49](/episodes/ep-t1YtLS1n8Vs.md#ent-person-brigitte-macron-t-00-52-17)**
-> "Mrs. Macron's got some pretty big balls."
 
 </details>
 
@@ -1150,6 +490,485 @@ _Type: People_
 </details>
 
 <details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (5 mentions)</summary>
+
+**[00:30:01](/episodes/ep-mKXdKV-OBog.md#t-00-29-33)**
+> "...cent episodes, including claims about Israel, the death of Charlie (Charlie Kirk), and the Becoming Brigitte series. I also want to ask about the financial side of your operation because it is central to the ..."
+
+**[00:32:34](/episodes/ep-mKXdKV-OBog.md#t-00-32-20)**
+> "...etting a strike. And she goes on a rant against me—not against Tim Dillon, okay? I'm speaking about Brigitte and MK Ultra. Brigitte sues me—not Tim Dillon—who she mentions in the lawsuit. So I'm just asking i..."
+
+**[00:32:36](/episodes/ep-mKXdKV-OBog.md#t-00-32-20)**
+> "...e goes on a rant against me—not against Tim Dillon, okay? I'm speaking about Brigitte and MK Ultra. Brigitte sues me—not Tim Dillon—who she mentions in the lawsuit. So I'm just asking if anybody wants to sue ..."
+
+**[00:38:00](/episodes/ep-mKXdKV-OBog.md#t-00-37-26)**
+> "...d time to get stuff for the holidays. Top comments from yesterday. Number one: this person writes, "Brigitte thought Candace (Candace Owens) forgot all about him." Yeah, I mean, look. I did not want to see th..."
+
+**[00:38:26](/episodes/ep-mKXdKV-OBog.md#t-00-38-09)**
+> "... of their history— like, that's a committed psychopath, you know? There's no shame there. And yeah, Brigitte's a gangster. Like, he's a gangster. There's no question about it. And the people that are sending ..."
+
+</details>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (98 mentions)</summary>
+
+**[00:00:51](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-00-39)**
+> "...e wondering whether or not Charlie (Charlie Kirk)'s assassination was meant to distract us from the Brigitte Macron investigation. And rightfully so; that is a fair question. Because as you guys know, it was Charlie..."
+
+**[00:06:49](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-06-16)**
+> "...cause I began prodding the narrative on Israel at the exact same time that I began looking into the Brigitte Macron story. That was in March of 2024. It was on March 13th, 2024, that I did the very first ever episod..."
+
+**[00:07:05](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-06-59)**
+> "...y. That was in March of 2024. It was on March 13th, 2024, that I did the very first ever episode on Brigitte Macron, right? And then wham, I am fired within 10 days. It's a pretty quick turnaround. Charlie (Charlie ..."
+
+**[00:07:49](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-07-38)**
+> "...t makes things neat, right? So we are in 2024, right? March 13th, I do that first episode regarding Brigitte Macron. March 19th, just six days later, I'm fired from the Daily Wire. I thought it was 10; it's actually..."
+
+**[00:08:18](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-08-18)**
+> "... because he had never been on camera. I thought that would be a great get, and I still believe that Brigitte Macron was born a man named Jean-Michel Trogneux. Suddenly, on December 3rd, before I interview him, I rec..."
+
+**[00:08:25](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-08-18)**
+> "...nly, on December 3rd, before I interview him, I receive the first ever cease-and-desist letter from Brigitte Macron and her lawyers. And the funny thing is I didn't receive it. They sent it to a really strange inbox..."
+
+**[00:08:43](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-08-18)**
+> "...he time-sensitive legal correspondence sent on behalf of our clients, President Emmanuel Macron and Brigitte Macron. We urge you to provide this correspondence to legal counsel promptly. They sent it to the Club Can..."
+
+**[00:10:18](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-09-40)**
+> "...mmunications between me and Xavier Poussard—the obvious answer—because I hadn't been speaking about Brigitte Macron on my podcast. So what was up with the cease-and-desist? I think my suspicion is they knew that I w..."
+
+**[00:19:11](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-18-58)**
+> "...the Brigitte case. Tucker (Tucker Carlson) is interested; he's watched the series; he believes that Brigitte Macron was born a man—or born a male, rather—and that goes viral, okay? It just goes viral; gets more peop..."
+
+**[00:20:43](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-20-22)**
+> "...and it stays one night on August 23rd in Wilmington before heading back to Cairo. On September 3rd, Brigitte Macron is basically opening up Paris Design Week, and she's photographed with the Minister of Culture. We ..."
+
+**[00:21:00](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-21-00)**
+> "...hat I forgot to mention before we get to September 4th. President Zelensky is in town also, though. Brigitte Macron welcomes President Zelensky into Paris on September 3rd because there is this remarkable—and I woul..."
+
+**[00:22:49](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-22-25)**
+> "...w, a thief that nobody was pursuing was running. And that was us discussing the MKUltra program and Brigitte Macron strangely and Emmanuel mentioning MKUltra in the lawsuit to us 18 times struck us as odd as we were..."
+
+**[00:22:51](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-22-25)**
+> "...it to us 18 times struck us as odd as we were trying to determine whether or not it could have been Brigitte Macron that was involved in that Stanford experiment—this prisoner 2093 that was being protected. We didn'..."
+
+**[00:23:51](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-23-08)**
+> "...ions that I was having in the background with Xavier. And we thought that we had perhaps identified Brigitte Macron at Stanford University—a possibility is what I would say; we were maybe at 50-50%—and then suddenly..."
+
+**[00:25:24](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-25-07)**
+> "...than us? I have to tell you guys, in my gut of guts, there is something unbelievably—I just look at Brigitte Macron, and I am telling you, you are looking at an utter psychopath in my view. There is something dark; ..."
+
+**[00:26:33](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-26-20)**
+> "...ost, by the way, is how far the lengths that they are going to to protect Brigitte. Who the hell is Brigitte Macron, okay? Because it ain't Brigitte Trogneux now. I can tell you that for free. Who is this person? Be..."
+
+**[00:27:05](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-27-05)**
+> "...y it all is. They would rather protect Brigitte even though the whole world no longer believes that Brigitte Macron was born a female, right? But they would rather risk the entire thing coming undone than to just sa..."
+
+**[00:01:02](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-00-39)**
+> "...s Charlie (Charlie Kirk) Kirk that called me and told me that they wanted me to stop speaking about Brigitte. But the question is always, who is "they"? Who is "they"? Welcome back to Candace. Grief is weird,..."
+
+**[00:05:24](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-04-54)**
+> "...k) that called me, it was Charlie (Charlie Kirk) that said that they want me to stop speaking about Brigitte. And now I consider Satis, which according to our source—our well-placed source—is a front, right? ..."
+
+**[00:08:03](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-07-38)**
+> "...erview him during an upcoming trip to London. Xavier Poussard is the person who wrote the "Becoming Brigitte" book. He has never been sued for defamation, and I was only going to interview him one time becaus..."
+
+**[00:10:57](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-10-57)**
+> "...ory, which is incredibly interesting? And on January 31st, I release the first episode of "Becoming Brigitte." Brigitte season one airs, and obviously this show goes viral because it was a shocking story, an ..."
+
+**[00:11:08](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-10-57)**
+> "...is incredibly interesting? And on January 31st, I release the first episode of "Becoming Brigitte." Brigitte season one airs, and obviously this show goes viral because it was a shocking story, an unbelievabl..."
+
+**[00:11:46](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-11-43)**
+> "...Charlie Kirk) reaches out, and he tells me that the White House is asking me to stop speaking about Brigitte. And he tells me that it is related to the peace deal in Ukraine. That is ostensibly the reason. On..."
+
+**[00:12:26](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-12-26)**
+> "...k about it," because I don't want people in Russia to be killed because I won't stop speaking about Brigitte if the Ukraine peace deal is actually at the center of this. And he says, "Okay." And then I tried ..."
+
+**[00:12:49](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-12-26)**
+> "...what happened. On February 25th, actually, Sergio Gor called me and asked me to stop speaking about Brigitte. And it felt more like an order than a request. And I did not respond in kind to that. February 26t..."
+
+**[00:13:03](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-12-26)**
+> "... in kind to that. February 26th. President Donald Trump calls me and asks me to stop speaking about Brigitte. Now, Charlie (Charlie Kirk)'s in the middle of this. Communications are happening between me and C..."
+
+**[00:13:11](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-13-11)**
+> "...)'s in the middle of this. Communications are happening between me and Charlie (Charlie Kirk) about Brigitte, okay? On July 1st—and by the way, the series is over, and I said I'll agree to be quiet about this..."
+
+**[00:17:22](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-16-53)**
+> "...for six days, okay? That happens to be—from the 20th to the 26th—that happens to be the period that Brigitte and Emmanuel Macron released to the Financial Times that they are suing me in a Delaware court, rig..."
+
+**[00:17:29](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-17-29)**
+> "... released to the Financial Times that they are suing me in a Delaware court, right? Not saying that Brigitte or Emmanuel are on this plane. What I'm saying is that could it have been a dignitary that was on t..."
+
+**[00:19:09](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-18-58)**
+> "...n) releases an episode with me. And what goes viral from that episode is that we are discussing the Brigitte case. Tucker (Tucker Carlson) is interested; he's watched the series; he believes that Brigitte Mac..."
+
+**[00:21:29](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-21-00)**
+> "...s meet to discuss Ukraine, securing the security of Ukraine, okay? That's what they're there to do. Brigitte greets him on September 3rd. She also, again, like I said, was with the Minister of Culture. And th..."
+
+**[00:22:38](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-22-25)**
+> "... were getting very close to something as we had started on September 8th, by the way, our "Becoming Brigitte" season two. And we were looking at how unusual it was that a dog was barking a bit too loud—you kn..."
+
+**[00:26:20](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-26-20)**
+> "...nd what terrifies me the most, by the way, is how far the lengths that they are going to to protect Brigitte. Who the hell is Brigitte Macron, okay? Because it ain't Brigitte Trogneux now. I can tell you that..."
+
+**[00:26:36](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-26-20)**
+> "...that they are going to to protect Brigitte. Who the hell is Brigitte Macron, okay? Because it ain't Brigitte Trogneux now. I can tell you that for free. Who is this person? Because power is allowing us to see..."
+
+**[00:28:16](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-27-47)**
+> "...thing very dangerous and something deep and dark that is going on. And the themes that were in this Brigitte story are now in this Charlie (Charlie Kirk) story. So many people involved here having a history o..."
+
+**[00:18:51](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-18-13)**
+> "... in Tennessee. Your companies in Delaware do not defame anyone. The witnesses are in Tennessee. The Macrons are not citizens of Delaware. Thus, there's no connection to Delaware. Like, what are we doing in D..."
+
+**[00:09:09](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-08-18)**
+> "...on, Delaware, for a hangar. Okay, there's suddenly a French company, and the CEO who knows Emmanuel Macron—we've confirmed that—decides they're gonna sign a two-year lease for an airport hangar to do what? ..."
+
+**[00:12:06](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-11-43)**
+> "...h—that's how quickly the phone call happened. This is the day that Donald Trump meets with Emmanuel Macron. Do we have that, by the way, the text message between me and Charlie (Charlie Kirk)? Here we go. Y..."
+
+**[00:13:17](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-13-11)**
+> "...Christian men to be slaughtered in Ukraine because I'm not keeping my mouth shut. Now, on July 1st, Macron sends another legal threat. On July 18th, this is where things get really interesting. Charlie (Cha..."
+
+**[00:27:17](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-27-05)**
+> "...er risk the entire thing coming undone than to just say, "Okay, maybe we took it too far. Let's get Macron out of office and put somebody else in there that we can control." They are taking this way too far..."
+
+**[00:01:02](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-00-39)**
+> "Charlie Kirk's assassination was meant to distract us from the Brigitte Macron investigation"
+
+**[00:00:51](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-00-39)**
+> "...meant to distract us from the Brigitte Macron investigation."
+
+**[00:00:51](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-00-39)**
+> "...distract us from the Brigitte Macron investigation."
+
+**[00:01:02](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-00-39)**
+> "...ted me to stop speaking about Brigitte."
+
+**[00:05:24](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-04-54)**
+> "...ant me to stop speaking about Brigitte."
+
+**[00:06:49](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-06-16)**
+> "...that I began looking into the Brigitte Macron story."
+
+**[00:06:49](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-06-16)**
+> "...gan looking into the Brigitte Macron story."
+
+**[00:07:05](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-06-59)**
+> "...he very first ever episode on Brigitte Macron, right?"
+
+**[00:07:05](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-06-59)**
+> "...irst ever episode on Brigitte Macron, right?"
+
+**[00:07:49](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-07-38)**
+> "... that first episode regarding Brigitte Macron."
+
+**[00:07:49](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-07-38)**
+> "...st episode regarding Brigitte Macron."
+
+**[00:08:03](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-07-38)**
+> "...erson who wrote the "Becoming Brigitte" book."
+
+**[00:08:18](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-08-18)**
+> "...get, and I still believe that Brigitte Macron was born a man named Jean-Michel Trogneux."
+
+**[00:08:18](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-08-18)**
+> "...I still believe that Brigitte Macron was born a man named Jean-Michel Trogneux."
+
+**[00:08:25](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-08-18)**
+> "... cease-and-desist letter from Brigitte Macron and her lawyers."
+
+**[00:08:25](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-08-18)**
+> "...d-desist letter from Brigitte Macron and her lawyers."
+
+**[00:08:43](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-08-18)**
+> "...President Emmanuel Macron and Brigitte Macron."
+
+**[00:08:43](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-08-18)**
+> "...r clients, President Emmanuel Macron and Brigitte Macron."
+
+**[00:08:43](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-08-18)**
+> "... Emmanuel Macron and Brigitte Macron."
+
+**[00:09:09](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-08-18)**
+> "...nd the CEO who knows Emmanuel Macron—we've confirmed that—decides they're gonna sign a..."
+
+**[00:10:18](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-09-40)**
+> "... I hadn't been speaking about Brigitte Macron on my podcast."
+
+**[00:10:18](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-09-40)**
+> "... been speaking about Brigitte Macron on my podcast."
+
+**[00:10:57](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-10-57)**
+> "...he first episode of "Becoming Brigitte.""
+
+**[00:11:08](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-10-57)**
+> "Brigitte season one airs, and obviously this show goes vir..."
+
+**[00:11:46](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-11-43)**
+> "...ing me to stop speaking about Brigitte."
+
+**[00:12:06](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-11-43)**
+> "...ald Trump meets with Emmanuel Macron."
+
+**[00:12:26](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-12-26)**
+> "...e I won't stop speaking about Brigitte if the Ukraine peace deal is actually at the cent..."
+
+**[00:12:49](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-12-26)**
+> "...ked me to stop speaking about Brigitte."
+
+**[00:13:03](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-12-26)**
+> "...sks me to stop speaking about Brigitte."
+
+**[00:13:11](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-13-11)**
+> "... Charlie (Charlie Kirk) about Brigitte, okay?"
+
+**[00:13:17](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-13-11)**
+> "Now, on July 1st, Macron sends another legal threat."
+
+**[00:17:22](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-16-53)**
+> "...od that Brigitte and Emmanuel Macron released to the Financial Times that they are sui..."
+
+**[00:17:22](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-16-53)**
+> "...happens to be the period that Brigitte and Emmanuel Macron released to the Financial Tim..."
+
+**[00:17:29](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-17-29)**
+> "Not saying that Brigitte or Emmanuel are on this plane."
+
+**[00:18:51](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-18-13)**
+> "The Macrons are not citizens of Delaware."
+
+**[00:19:09](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-18-58)**
+> "...is that we are discussing the Brigitte case."
+
+**[00:19:11](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-18-58)**
+> "... the series; he believes that Brigitte Macron was born a man—or born a male, rather—and that go..."
+
+**[00:19:11](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-18-58)**
+> "...es; he believes that Brigitte Macron was born a man—or born a male, rather—and that go..."
+
+**[00:20:43](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-20-22)**
+> "On September 3rd, Brigitte Macron is basically opening up Paris Design Week, and sh..."
+
+**[00:21:00](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-21-00)**
+> "Brigitte Macron welcomes President Zelensky into Paris on Septemb..."
+
+**[00:21:29](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-21-00)**
+> "Brigitte greets him on September 3rd."
+
+**[00:22:38](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-22-25)**
+> "...th, by the way, our "Becoming Brigitte" season two."
+
+**[00:22:49](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-22-25)**
+> "...ssing the MKUltra program and Brigitte Macron strangely and Emmanuel mentioning MKUltra in the ..."
+
+**[00:22:49](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-22-25)**
+> "... MKUltra program and Brigitte Macron strangely and Emmanuel mentioning MKUltra in the ..."
+
+**[00:22:51](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-22-25)**
+> "...her or not it could have been Brigitte Macron that was involved in that Stanford experiment—thi..."
+
+**[00:22:51](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-22-25)**
+> "...t it could have been Brigitte Macron that was involved in that Stanford experiment—thi..."
+
+**[00:23:51](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-23-08)**
+> "...hat we had perhaps identified Brigitte Macron at Stanford University—a possibility is what I wo..."
+
+**[00:23:51](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-23-08)**
+> "...d perhaps identified Brigitte Macron at Stanford University—a possibility is what I wo..."
+
+**[00:25:24](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-25-07)**
+> "...g unbelievably—I just look at Brigitte Macron, and I am telling you, you are looking at an utte..."
+
+**[00:25:24](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-25-07)**
+> "...vably—I just look at Brigitte Macron, and I am telling you, you are looking at an utte..."
+
+**[00:26:20](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-26-20)**
+> "... they are going to to protect Brigitte."
+
+**[00:26:33](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-26-20)**
+> "Who the hell is Brigitte Macron, okay?"
+
+**[00:26:36](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-26-20)**
+> "Because it ain't Brigitte Trogneux now."
+
+**[00:27:05](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-27-05)**
+> "...world no longer believes that Brigitte Macron was born a female, right?"
+
+**[00:27:05](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-27-05)**
+> "...longer believes that Brigitte Macron was born a female, right?"
+
+**[00:27:05](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-27-05)**
+> "They would rather protect Brigitte even though the whole world no longer believes th..."
+
+**[00:27:17](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-27-05)**
+> "...we took it too far. Let's get Macron out of office and put somebody else in there that..."
+
+**[00:28:16](/episodes/ep-sImMM04XdWY.md#ent-person-brigitte-macron-t-00-27-47)**
+> "... the themes that were in this Brigitte story are now in this Charlie (Charlie Kirk) stor..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (14 mentions)</summary>
+
+**[00:38:38](/episodes/ep-SKGUzGHymcI.md#ent-person-brigitte-macron-t-00-38-36)**
+> "...d particularly, I would say the last two years of that, I mean, any person who actually watched the Brigitte Macron story knows that that was a story about pedophiles in power, pedophiles in power and the psychopath..."
+
+**[00:39:02](/episodes/ep-SKGUzGHymcI.md#ent-person-brigitte-macron-t-00-38-36)**
+> "...e the slave masters, how dare you know? And Theo Von and Joe Rogan had quite a laugh discussing the Brigitte Macron non-conspiracy theory. Take a listen. Dude, Candace is the best. I went to see, she has, her and he..."
+
+**[00:40:49](/episodes/ep-SKGUzGHymcI.md#ent-person-brigitte-macron-t-00-40-48)**
+> "...f***ing hog. Classic Theo Von, classic Theo Von. And here's the reality. I told the truth about the Brigitte Macron story, right? And like I said, the fact that they are caught and their move is we're gonna sue Cand..."
+
+**[00:53:37](/episodes/ep-SKGUzGHymcI.md#ent-person-brigitte-macron-t-00-53-19)**
+> "..., a lot of people wrote that instantly they did this intentionally because you were on the track of Brigitte Macron we were getting real close talking about that MK Ultra experiment that happened that I believe it l..."
+
+**[00:53:25](/episodes/ep-SKGUzGHymcI.md#ent-person-brigitte-macron-t-00-53-19)**
+> "...you for correcting me. Bigfoot Believer. Oh, sorry. Elodium writes, my bet is it's connected to the Macrons. They rang the MK Ultra Red phone to get you off their backs. Plus, Charlie (Charlie Kirk) was now ..."
+
+**[00:38:38](/episodes/ep-SKGUzGHymcI.md#ent-person-brigitte-macron-t-00-38-36)**
+> "...rson who actually watched the Brigitte Macron story knows that that was a story about pedophile..."
+
+**[00:38:38](/episodes/ep-SKGUzGHymcI.md#ent-person-brigitte-macron-t-00-38-36)**
+> "...actually watched the Brigitte Macron story knows that that was a story about pedophile..."
+
+**[00:39:02](/episodes/ep-SKGUzGHymcI.md#ent-person-brigitte-macron-t-00-38-36)**
+> "... quite a laugh discussing the Brigitte Macron non-conspiracy theory."
+
+**[00:39:02](/episodes/ep-SKGUzGHymcI.md#ent-person-brigitte-macron-t-00-38-36)**
+> "...laugh discussing the Brigitte Macron non-conspiracy theory."
+
+**[00:40:49](/episodes/ep-SKGUzGHymcI.md#ent-person-brigitte-macron-t-00-40-48)**
+> "I told the truth about the Brigitte Macron story, right?"
+
+**[00:40:49](/episodes/ep-SKGUzGHymcI.md#ent-person-brigitte-macron-t-00-40-48)**
+> "... the truth about the Brigitte Macron story, right?"
+
+**[00:53:25](/episodes/ep-SKGUzGHymcI.md#ent-person-brigitte-macron-t-00-53-19)**
+> "... bet is it's connected to the Macrons."
+
+**[00:53:37](/episodes/ep-SKGUzGHymcI.md#ent-person-brigitte-macron-t-00-53-19)**
+> "...ause you were on the track of Brigitte Macron we were getting real close talking about that MK ..."
+
+**[00:53:37](/episodes/ep-SKGUzGHymcI.md#ent-person-brigitte-macron-t-00-53-19)**
+> "...were on the track of Brigitte Macron we were getting real close talking about that MK ..."
+
+</details>
+
+<details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (17 mentions)</summary>
+
+**[00:00:23](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-00-00)**
+> "... book—which I got obsessed with and [that] it's required reading for this podcast— connected to the Brigitte Macron case. I'm gonna tell you about that, connected to Ye (Kanye West), me telling you all about what ha..."
+
+**[00:01:57](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-01-21)**
+> "...g that quite literally all of our investigations over the past two years were coming together here. Brigitte Macron—where did we end up, by the way? Where did we leave off on Brigitte Macron? I was speaking to you g..."
+
+**[00:01:59](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-01-21)**
+> "...re coming together here. Brigitte Macron—where did we end up, by the way? Where did we leave off on Brigitte Macron? I was speaking to you guys about MKUltra. How odd it was that of everything I said in my series, B..."
+
+**[00:02:03](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-02-03)**
+> "...n? I was speaking to you guys about MKUltra. How odd it was that of everything I said in my series, Brigitte Macron and Emmanuel had a heart attack when I started discussing MKUltra. They brought it up 18 times in t..."
+
+**[00:30:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-30-07)**
+> "...k into any of this and did not see relevance because at that time I was very much investigating the Brigitte Macron thing and was arriving very quickly at this weird backstory of MKUltra and the Haight-Ashbury Clini..."
+
+**[00:52:53](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-52-23)**
+> "...ly International movement—AKA the Children of God." "Their practices are very familiar." "Also, the Brigitte jump scares keep sending me." We have no idea what you're talking about with the Brigitte jump scar..."
+
+**[00:52:56](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-52-23)**
+> "...Also, the Brigitte jump scares keep sending me." We have no idea what you're talking about with the Brigitte jump scares. I kid, of course. Yes, I'm sorry. We just try to get up-to-date photos. That's all. Gi..."
+
+**[00:00:23](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-00-00)**
+> "connected to the Brigitte Macron case. I'm gonna tell you about that, connected to..."
+
+**[00:01:57](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-01-21)**
+> "Brigitte Macron—where did we end up, by the way?"
+
+**[00:01:59](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-01-21)**
+> "Where did we leave off on Brigitte Macron?"
+
+**[00:01:59](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-01-21)**
+> "... did we leave off on Brigitte Macron?"
+
+**[00:02:03](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-02-03)**
+> "...erything I said in my series, Brigitte Macron and Emmanuel had a heart attack when I started di..."
+
+**[00:02:03](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-02-03)**
+> "...I said in my series, Brigitte Macron and Emmanuel had a heart attack when I started di..."
+
+**[00:30:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-30-07)**
+> "...s very much investigating the Brigitte Macron thing and was arriving very quickly at this weird..."
+
+**[00:30:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-30-07)**
+> "...ch investigating the Brigitte Macron thing and was arriving very quickly at this weird..."
+
+**[00:52:53](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-52-23)**
+> ""Also, the Brigitte jump scares keep sending me.""
+
+**[00:52:56](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-52-23)**
+> "...you're talking about with the Brigitte jump scares."
+
+</details>
+
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (9 mentions)</summary>
+
+**[00:30:34](/episodes/ep-yAIb-NuUh_U.md#ent-person-brigitte-macron-t-00-30-06)**
+> "...civilization seems to be ruled by perverts. That's the common thread between my investigations into Brigitte Macron and her strange relationship—his strange relationship—with Emmanuel Macron, the Fed-level cover-up,..."
+
+**[00:49:18](/episodes/ep-yAIb-NuUh_U.md#ent-person-brigitte-macron-t-00-49-18)**
+> "...ust be called "Fed Slop," and then we'll get sued. Tim Dillon's already included in my lawsuit with Brigitte Macron. Apparently, the president of France watches Tim Dillon, and we talked about the Brigitte case, and..."
+
+**[00:49:22](/episodes/ep-yAIb-NuUh_U.md#ent-person-brigitte-macron-t-00-49-18)**
+> "...th Brigitte Macron. Apparently, the president of France watches Tim Dillon, and we talked about the Brigitte case, and so he's dragged in there anyways. I'm looking forward to them putting Tim Dillon under oa..."
+
+**[00:30:34](/episodes/ep-yAIb-NuUh_U.md#ent-person-brigitte-macron-t-00-30-06)**
+> "...etween my investigations into Brigitte Macron and her strange relationship—his strange relation..."
+
+**[00:30:34](/episodes/ep-yAIb-NuUh_U.md#ent-person-brigitte-macron-t-00-30-06)**
+> "... investigations into Brigitte Macron and her strange relationship—his strange relation..."
+
+**[00:30:34](/episodes/ep-yAIb-NuUh_U.md#ent-person-brigitte-macron-t-00-30-06)**
+> "...ge relationship—with Emmanuel Macron, the Fed-level cover-up,"
+
+**[00:49:18](/episodes/ep-yAIb-NuUh_U.md#ent-person-brigitte-macron-t-00-49-18)**
+> "...y included in my lawsuit with Brigitte Macron."
+
+**[00:49:18](/episodes/ep-yAIb-NuUh_U.md#ent-person-brigitte-macron-t-00-49-18)**
+> "...d in my lawsuit with Brigitte Macron."
+
+**[00:49:22](/episodes/ep-yAIb-NuUh_U.md#ent-person-brigitte-macron-t-00-49-18)**
+> "...llon, and we talked about the Brigitte case, and so he's dragged in there anyways."
+
+</details>
+
+<details>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (3 mentions)</summary>
+
+**[00:39:20](/episodes/ep-MUA9ebCF4Ow.md#ent-person-brigitte-macron-t-00-39-14)**
+> "...some rules to lawsuits. If you have to sue someone to prove—as an example—that you are a woman—a la Brigitte Macron—it's because you're not one. If you have to sue someone to prove that your relationship is really a..."
+
+**[00:39:20](/episodes/ep-MUA9ebCF4Ow.md#ent-person-brigitte-macron-t-00-39-14)**
+> "...ple—that you are a woman—a la Brigitte Macron—it's because you're not one."
+
+**[00:39:20](/episodes/ep-MUA9ebCF4Ow.md#ent-person-brigitte-macron-t-00-39-14)**
+> "...you are a woman—a la Brigitte Macron—it's because you're not one."
+
+</details>
+
+<details>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2 mentions)</summary>
+
+**[00:57:55](/episodes/ep-YaZfwLQ7vrI.md#ent-person-brigitte-macron-t-00-57-38)**
+> "...o hammer me so much on Zionism—you know, Israel—is kind of what she wanted to speak about. And then Brigitte Macron is what she wanted to speak about. Anyways, speaking of this book—I loved seeing this online: "Make..."
+
+**[00:57:55](/episodes/ep-YaZfwLQ7vrI.md#ent-person-brigitte-macron-t-00-57-38)**
+> "And then Brigitte Macron is what she wanted to speak about."
+
+</details>
+
+<details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (19 mentions)</summary>
 
 **[00:02:10](/episodes/ep-vwG1juDCQZQ.md#ent-person-brigitte-macron-t-00-02-10)**
@@ -1212,34 +1031,215 @@ _Type: People_
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (9 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
 
-**[00:30:34](/episodes/ep-yAIb-NuUh_U.md#ent-person-brigitte-macron-t-00-30-06)**
-> "...civilization seems to be ruled by perverts. That's the common thread between my investigations into Brigitte Macron and her strange relationship—his strange relationship—with Emmanuel Macron, the Fed-level cover-up,..."
+**[00:11:16](/episodes/ep-K1tFD7FfoCU.md#t-00-10-58)**
+> "... (clip): Obama, gay. Candace Owens (clip): Zelensky (Zelensky), gay. Candace Owens (clip): Emmanuel Macron (Emmanuel Macron), gay and married to a trans man who molested him when he was a child. Candace Owe..."
 
-**[00:49:18](/episodes/ep-yAIb-NuUh_U.md#ent-person-brigitte-macron-t-00-49-18)**
-> "...ust be called "Fed Slop," and then we'll get sued. Tim Dillon's already included in my lawsuit with Brigitte Macron. Apparently, the president of France watches Tim Dillon, and we talked about the Brigitte case, and..."
+**[00:11:16](/episodes/ep-K1tFD7FfoCU.md#t-00-10-58)**
+> "Emmanuel Macron (Emmanuel Macron), gay and married to a trans man..."
 
-**[00:49:22](/episodes/ep-yAIb-NuUh_U.md#ent-person-brigitte-macron-t-00-49-18)**
-> "...th Brigitte Macron. Apparently, the president of France watches Tim Dillon, and we talked about the Brigitte case, and so he's dragged in there anyways. I'm looking forward to them putting Tim Dillon under oa..."
+</details>
 
-**[00:30:34](/episodes/ep-yAIb-NuUh_U.md#ent-person-brigitte-macron-t-00-30-06)**
-> "...etween my investigations into Brigitte Macron and her strange relationship—his strange relation..."
+<details>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (5 mentions)</summary>
 
-**[00:30:34](/episodes/ep-yAIb-NuUh_U.md#ent-person-brigitte-macron-t-00-30-06)**
-> "... investigations into Brigitte Macron and her strange relationship—his strange relation..."
+**[00:11:47](/episodes/ep-iHav0PPzUz8.md#ent-person-brigitte-macron-t-00-11-19)**
+> "...hey go, oh, well, this has been debunked, right? It's been completely debunked. You saw this in the Brigitte case. She started going after people for defamation—not people that wasn't attacking them for the s..."
 
-**[00:30:34](/episodes/ep-yAIb-NuUh_U.md#ent-person-brigitte-macron-t-00-30-06)**
-> "...ge relationship—with Emmanuel Macron, the Fed-level cover-up,"
+**[00:58:11](/episodes/ep-iHav0PPzUz8.md#ent-person-brigitte-macron-t-00-57-53)**
+> "...work that you are doing. You are an amazing friend, an incredible truth teller and a researcher—and Brigitte is a man. Careful, or she'll sue you—not because you said she was a man, but because you said somet..."
 
-**[00:49:18](/episodes/ep-yAIb-NuUh_U.md#ent-person-brigitte-macron-t-00-49-18)**
-> "...y included in my lawsuit with Brigitte Macron."
+**[00:11:47](/episodes/ep-iHav0PPzUz8.md#ent-person-brigitte-macron-t-00-11-19)**
+> "You saw this in the Brigitte case. She started going after people for defamation"
 
-**[00:49:18](/episodes/ep-yAIb-NuUh_U.md#ent-person-brigitte-macron-t-00-49-18)**
-> "...d in my lawsuit with Brigitte Macron."
+**[00:11:47](/episodes/ep-iHav0PPzUz8.md#ent-person-brigitte-macron-t-00-11-19)**
+> "You saw this in the Brigitte case."
 
-**[00:49:22](/episodes/ep-yAIb-NuUh_U.md#ent-person-brigitte-macron-t-00-49-18)**
-> "...llon, and we talked about the Brigitte case, and so he's dragged in there anyways."
+**[00:58:11](/episodes/ep-iHav0PPzUz8.md#ent-person-brigitte-macron-t-00-57-53)**
+> "...h teller and a researcher—and Brigitte is a man."
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (23 mentions)</summary>
+
+**[00:45:50](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-45-08)**
+> "...r thing if you feel that pressure is to just say, "I'm going to dispel this." It's kind of like the Brigitte Macron thing. "Hey, here's a couple of pictures of me raising my kids. 30 years was missing because I real..."
+
+**[00:55:07](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-55-02)**
+> "...ing. I won't be. I will be just as ratchet as I always am in the book club. Lastly, we gotta get to Brigitte Macron because I think everybody now is really tired of her lying about having been born with a penis. Not..."
+
+**[00:56:33](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-56-19)**
+> "...appened this week is people who hadn't even watched the series were like, "Okay, I've seen enough." Brigitte Macron crying because she doesn't know—Brigitte doesn't know why—but on the tax forms, the French tax form..."
+
+**[00:55:12](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-55-02)**
+> "...having been born with a penis. Not my fault, okay? If you have not—by the way—watched the "Becoming Brigitte" series and you are appreciating what I'm doing with the Charlie Kirk series, go back and watch it...."
+
+**[00:55:34](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-55-02)**
+> "...et. The series went viral. There's no way you can watch the series and come out of it thinking that Brigitte was born a female. You can't just disappear 30 years of your life. You can't just say, "I didn't ta..."
+
+**[00:56:09](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-55-46)**
+> "...ople for telling the truth to scare them. And it's all related, by the way. We're talking about who Brigitte actually is, the families that Brigitte is related to, the fact that Emmanuel Macron is in fact—jus..."
+
+**[00:57:16](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-57-02)**
+> "...rumetz was the guy who did this—a government official. He made the revelation, and he recounted how Brigitte was stunned to learn that her legal name had been quote-unquote "changed" when she logged into her ..."
+
+**[00:57:26](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-57-02)**
+> "...ompletely surprised," said Mr. Brumetz. Oh, okay. So we're supposed to believe the government—which Brigitte is controlling, by the way—this person, Brumetz, has worked with the couple since 2017. And we're s..."
+
+**[00:45:35](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-45-08)**
+> "Brigitte Macron thing, 30 years missing"
+
+**[00:45:50](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-45-08)**
+> "It's kind of like the Brigitte Macron thing."
+
+**[00:45:50](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-45-08)**
+> "...t's kind of like the Brigitte Macron thing."
+
+**[00:55:07](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-55-02)**
+> "Lastly, we gotta get to Brigitte Macron because I think everybody now is really tired of ..."
+
+**[00:55:07](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-55-02)**
+> "...tly, we gotta get to Brigitte Macron because I think everybody now is really tired of ..."
+
+**[00:55:12](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-55-02)**
+> "...the way—watched the "Becoming Brigitte" series and you are appreciating what I'm doing w..."
+
+**[00:55:34](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-55-02)**
+> "... come out of it thinking that Brigitte was born a female."
+
+**[00:56:09](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-55-46)**
+> "...ed to, the fact that Emmanuel Macron is in fact—just like the state of Israel—a Rothsc..."
+
+**[00:56:09](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-55-46)**
+> "We're talking about who Brigitte actually is, the families that Brigitte is relate..."
+
+**[00:56:09](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-55-46)**
+> "...ctually is, the families that Brigitte is related to, the fact that Emmanuel Macron is i..."
+
+**[00:56:33](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-56-19)**
+> "Brigitte Macron crying because she doesn't know—Brigitte doesn't ..."
+
+**[00:56:33](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-56-19)**
+> "...ying because she doesn't know—Brigitte doesn't know why—but on the tax forms, the French..."
+
+**[00:56:33](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-56-19)**
+> "... forms, the French tax forms, Brigitte is listed as Jean Michel and listed as a male."
+
+**[00:57:16](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-57-02)**
+> "Brigitte was stunned to learn that her legal name had been..."
+
+**[00:57:26](/episodes/ep-Cq7nj9rxPdo.md#ent-person-brigitte-macron-t-00-57-02)**
+> "... believe the government—which Brigitte is controlling, by the way—this person, Brumetz, ..."
+
+</details>
+
+<details>
+<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (2 mentions)</summary>
+
+**[01:03:38](/episodes/ep-ozWJz2spBcI.md#ent-person-brigitte-macron-t-01-03-04)**
+> "...ou the power—the power of Christ, truly. I will say in closing and going back to France: if I found Brigitte's penis, I will find who killed Charlie Kirk (Charlie Kirk). We'll see you guys tomorrow."
+
+**[01:03:38](/episodes/ep-ozWJz2spBcI.md#ent-person-brigitte-macron-t-01-03-04)**
+> "...ng back to France: if I found Brigitte's penis, I will find who killed Charlie (Charlie (C..."
+
+</details>
+
+<details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (9 mentions)</summary>
+
+**[00:34:37](/episodes/ep-t1YtLS1n8Vs.md#ent-person-brigitte-macron-t-00-34-19)**
+> "...mation. Okay, I am the first. It is because we are getting close to a lot of truth when it comes to Brigitte Macron, okay? And so now what they're doing is they're calling their cronies. Brigitte Macron has hired fe..."
+
+**[00:34:45](/episodes/ep-t1YtLS1n8Vs.md#ent-person-brigitte-macron-t-00-34-19)**
+> "... it comes to Brigitte Macron, okay? And so now what they're doing is they're calling their cronies. Brigitte Macron has hired feds, former federal prosecutors, and she's hiring a firm here. Why? Because the next opt..."
+
+**[00:52:45](/episodes/ep-t1YtLS1n8Vs.md#ent-person-brigitte-macron-t-00-52-17)**
+> "...ens), and you are one of Charlie (Charlie Kirk)'s few true friends. You have bigger balls than Mrs. Macron.” I don't know about that. Mrs. Macron's got some pretty big balls. She's gonna bankrupt me for exp..."
+
+**[00:52:49](/episodes/ep-t1YtLS1n8Vs.md#ent-person-brigitte-macron-t-00-52-17)**
+> "...ie Kirk)'s few true friends. You have bigger balls than Mrs. Macron.” I don't know about that. Mrs. Macron's got some pretty big balls. She's gonna bankrupt me for exposing it. “We'll bankrupt you;” that's ..."
+
+**[00:34:37](/episodes/ep-t1YtLS1n8Vs.md#ent-person-brigitte-macron-t-00-34-19)**
+> "...lot of truth when it comes to Brigitte Macron, okay?"
+
+**[00:34:37](/episodes/ep-t1YtLS1n8Vs.md#ent-person-brigitte-macron-t-00-34-19)**
+> "...uth when it comes to Brigitte Macron, okay?"
+
+**[00:34:45](/episodes/ep-t1YtLS1n8Vs.md#ent-person-brigitte-macron-t-00-34-19)**
+> "Brigitte Macron has hired feds, former federal prosecutors, and s..."
+
+**[00:52:45](/episodes/ep-t1YtLS1n8Vs.md#ent-person-brigitte-macron-t-00-52-17)**
+> "...u have bigger balls than Mrs. Macron.”"
+
+**[00:52:49](/episodes/ep-t1YtLS1n8Vs.md#ent-person-brigitte-macron-t-00-52-17)**
+> "Mrs. Macron's got some pretty big balls."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
+
+**[00:22:08](/episodes/ep-adJ4LNGp84I.md#t-00-21-40)**
+> "...t it is telling, about White Lotus sect, of all things, for those of you that followed the Becoming Brigitte series and things that we have spoken about about this White Lotus idea. It's essentially they're t..."
+
+</details>
+
+<details>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (1 mentions)</summary>
+
+**[00:50:34](/episodes/ep-ja26iltROkM.md#t-00-50-13)**
+> "...ou guys. And I know many of you guys are just finding my content and are new. Go watch the Becoming Brigitte series. I think a lot of people have been hooked on that. It's a really good one. And she's a dude...."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (12 mentions)</summary>
+
+**[00:46:01](/episodes/ep-sreYYcID-QY.md#ent-person-brigitte-macron-t-00-45-49)**
+> "...te me forever, that's totally fine. On top of that, talk about a federal operation. Out of nowhere, Brigitte Macron just lies. I don't even know how they got this in the press. This is so dumb. Brigitte Macron comes..."
+
+**[00:46:15](/episodes/ep-sreYYcID-QY.md#ent-person-brigitte-macron-t-00-45-49)**
+> "...here, Brigitte Macron just lies. I don't even know how they got this in the press. This is so dumb. Brigitte Macron comes out and says they have offered scientific evidence to the U.S. court to prove that Brigitte i..."
+
+**[00:52:07](/episodes/ep-sreYYcID-QY.md#ent-person-brigitte-macron-t-00-51-30)**
+> "... cross-examined, and he won't risk it because perjury equals jail. I don't know, man. The fact that Brigitte is suing—this is what they do. Like I said, it's just what they do. You know, they've got people in..."
+
+**[00:55:17](/episodes/ep-sreYYcID-QY.md#ent-person-brigitte-macron-t-00-55-05)**
+> "...rimes through investigative journalism. I believe you will be vindicated and proven right about the Macrons." Yeah, I've been telling the truth about that too. They better enjoy this break. Thank you for all..."
+
+**[00:46:09](/episodes/ep-sreYYcID-QY.md#ent-person-brigitte-macron-t-00-45-49)**
+> "Brigitte Macron comes out and says they have offered scientific evidence to the U.S. court"
+
+**[00:46:01](/episodes/ep-sreYYcID-QY.md#ent-person-brigitte-macron-t-00-45-49)**
+> "Out of nowhere, Brigitte Macron just lies"
+
+**[00:46:15](/episodes/ep-sreYYcID-QY.md#ent-person-brigitte-macron-t-00-45-49)**
+> "Brigitte Macron comes out and says they have offered scientific evidence"
+
+**[00:46:01](/episodes/ep-sreYYcID-QY.md#ent-person-brigitte-macron-t-00-45-49)**
+> "Out of nowhere, Brigitte Macron just lies."
+
+**[00:46:15](/episodes/ep-sreYYcID-QY.md#ent-person-brigitte-macron-t-00-45-49)**
+> "Brigitte Macron comes out and says they have offered scientific e..."
+
+**[00:46:15](/episodes/ep-sreYYcID-QY.md#ent-person-brigitte-macron-t-00-45-49)**
+> "... the U.S. court to prove that Brigitte is a woman."
+
+**[00:52:07](/episodes/ep-sreYYcID-QY.md#ent-person-brigitte-macron-t-00-51-30)**
+> "The fact that Brigitte is suing—this is what they do."
+
+**[00:55:17](/episodes/ep-sreYYcID-QY.md#ent-person-brigitte-macron-t-00-55-05)**
+> "...ed and proven right about the Macrons.""
+
+</details>
+
+<details>
+<summary>To My Friend, Charlie Kirk. (1 mentions)</summary>
+
+**[00:19:57](/episodes/ep-_dRaEO47-co.md#t-00-19-31)**
+> "...they said, “Oh, the person who probably was the intermediary when Trump (Donald Trump) called about Brigitte was Charlie Kirk.” Of course it was Charlie (Charlie Kirk). They would never send anybody else to c..."
 
 </details>
 
@@ -1249,26 +1249,10 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Affiliated With (1)</summary>
-
-- **[Mossad](/entities/org-mossad.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:35:44](/episodes/ep-tB5SXXmd9vU.md#t-00-35-20): ""They had said, hey, Brigitte might be an asset to the Mossad...""
-
-</details>
-
-<details>
 <summary>Investigated By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
   - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:14:06](/episodes/ep-ozWJz2spBcI.md#t-00-13-44): "if I found Brigitte's penis, I will find who killed Charlie Kirk"
-
-</details>
-
-<details>
-<summary>Married To (1)</summary>
-
-- **[Emmanuel Macron](/entities/person-emmanuel-macron.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:12:30](/episodes/ep-tB5SXXmd9vU.md#t-00-12-02): "President Emmanuel Macron and his wife Brigitte had authorized and financed the operation"
 
 </details>
 
@@ -1283,16 +1267,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
-
-- **[Mossad](/entities/org-mossad.md)** affiliated with this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:35:44](/episodes/ep-tB5SXXmd9vU.md#t-00-35-20)
+<summary>Referenced By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** investigated this
   - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:14:06](/episodes/ep-ozWJz2spBcI.md#t-00-13-44)
-
-- **[Emmanuel Macron](/entities/person-emmanuel-macron.md)** married to this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:12:30](/episodes/ep-tB5SXXmd9vU.md#t-00-12-02)
 
 - **[Candace Owens](/entities/person-candace-owens.md)** sued by this
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:46:11](/episodes/ep-sreYYcID-QY.md#t-00-45-49)
@@ -1304,6 +1282,37 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Statements about Brigitte Macron (18)</strong></summary>
+
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (3)</summary>
+
+- [00:06:46](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) (Accusation) **Candace Owens**: ["The Macron couple paid for my assassination"](/statements/statement-2a6aa63ab18f.md)
+  - Also about: [Emmanuel Macron](/entities/person-emmanuel-macron.md)
+
+- [00:06:50](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) (Accusation) **Candace Owens**: ["The Macron couple apparently paid for my assassination"](/statements/statement-a99141835461.md)
+  - Also about: [Emmanuel Macron](/entities/person-emmanuel-macron.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:06:58](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) (Claim) **Candace Owens**: ["Neither the Pentagon nor the White House or our intel agencies or the ..."](/statements/statement-532c5d81ba0d.md)
+  - Also about: [United States Pentagon](/entities/org-united-states-pentagon.md), [White House](/entities/org-white-house.md), [Élysée Palace](/entities/gpe-elysee-palace.md)
+
+</details>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (6)</summary>
+
+- [00:07:13](/episodes/ep-sImMM04XdWY.md#t-00-06-59) (Claim) **Candace Owens**: ["Candace did her first episode on Brigitte Macron on March 13th, 2024"](/statements/statement-82e2049008cc.md)
+
+- [00:08:58](/episodes/ep-sImMM04XdWY.md#t-00-08-18) (Opinion) **Candace Owens**: ["Brigitte Macron was born a man named Jean-Michel Trogneux"](/statements/statement-51d8e232faab.md)
+
+- [00:09:30](/episodes/ep-sImMM04XdWY.md#t-00-09-03) (Claim) **Candace Owens**: ["On December 3rd, Candace received the first cease-and-desist letter fr..."](/statements/statement-632d91cf1d49.md)
+
+- [00:17:24](/episodes/ep-sImMM04XdWY.md#t-00-16-53) (Claim) **Candace Owens**: ["The Egyptian plane stayed in Wilmington for six days, from July 20th t..."](/statements/statement-3e84e9b61491.md)
+
+- [00:21:15](/episodes/ep-sImMM04XdWY.md#t-00-21-00) (Claim) **Candace Owens**: ["On September 3rd, Brigitte Macron welcomed President Zelensky into Par..."](/statements/statement-b5f31b8b8d1f.md)
+
+- [00:23:11](/episodes/ep-sImMM04XdWY.md#t-00-23-08) (Claim) **Candace Owens**: ["Candace started Becoming Brigitte season two on September 8th, discuss..."](/statements/statement-fe66cc7c572f.md)
+
+</details>
 
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2)</summary>
@@ -1328,37 +1337,6 @@ _Type: People_
 
 - [00:58:14](/episodes/ep-Cq7nj9rxPdo.md#t-00-57-42) (Accusation) **Candace Owens**: ["Brigitte Macron was born Jean-Michel Trogneux and transitioned"](/statements/statement-304406e304ac.md)
   - Also about: [Jean-Michel Trogneux](/entities/person-jean-michel-trogneux.md)
-
-</details>
-
-<details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (3)</summary>
-
-- [00:06:46](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) (Accusation) **Candace Owens**: ["The Macron couple paid for my assassination"](/statements/statement-2a6aa63ab18f.md)
-  - Also about: [Emmanuel Macron](/entities/person-emmanuel-macron.md)
-
-- [00:06:50](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) (Accusation) **Candace Owens**: ["The Macron couple apparently paid for my assassination"](/statements/statement-a99141835461.md)
-  - Also about: [Emmanuel Macron](/entities/person-emmanuel-macron.md), [Candace Owens](/entities/person-candace-owens.md)
-
-- [00:06:58](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) (Claim) **Candace Owens**: ["Neither the Pentagon nor the White House or our intel agencies or the ..."](/statements/statement-532c5d81ba0d.md)
-  - Also about: [United States Pentagon](/entities/org-united-states-pentagon.md), [White House](/entities/org-white-house.md), [Élysée Palace](/entities/org-elysee-palace.md)
-
-</details>
-
-<details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (6)</summary>
-
-- [00:07:13](/episodes/ep-sImMM04XdWY.md#t-00-06-59) (Claim) **Candace Owens**: ["Candace did her first episode on Brigitte Macron on March 13th, 2024"](/statements/statement-82e2049008cc.md)
-
-- [00:08:58](/episodes/ep-sImMM04XdWY.md#t-00-08-18) (Opinion) **Candace Owens**: ["Brigitte Macron was born a man named Jean-Michel Trogneux"](/statements/statement-51d8e232faab.md)
-
-- [00:09:30](/episodes/ep-sImMM04XdWY.md#t-00-09-03) (Claim) **Candace Owens**: ["On December 3rd, Candace received the first cease-and-desist letter fr..."](/statements/statement-632d91cf1d49.md)
-
-- [00:17:24](/episodes/ep-sImMM04XdWY.md#t-00-16-53) (Claim) **Candace Owens**: ["The Egyptian plane stayed in Wilmington for six days, from July 20th t..."](/statements/statement-3e84e9b61491.md)
-
-- [00:21:15](/episodes/ep-sImMM04XdWY.md#t-00-21-00) (Claim) **Candace Owens**: ["On September 3rd, Brigitte Macron welcomed President Zelensky into Par..."](/statements/statement-b5f31b8b8d1f.md)
-
-- [00:23:11](/episodes/ep-sImMM04XdWY.md#t-00-23-08) (Claim) **Candace Owens**: ["Candace started Becoming Brigitte season two on September 8th, discuss..."](/statements/statement-fe66cc7c572f.md)
 
 </details>
 

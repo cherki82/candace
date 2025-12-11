@@ -17,26 +17,6 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (5 mentions)</summary>
-
-**[00:47:36](/episodes/ep-Cq7nj9rxPdo.md#ent-person-susie-wiles-t-00-47-33)**
-> "...on of his peers or the non-reaction of his peers who just want our money, right? And are asking for Susie Wiles. It's the craziest part of this whole thing for me. It was like, "Why Susie Wiles? I know it just f..."
-
-**[00:47:48](/episodes/ep-Cq7nj9rxPdo.md#ent-person-susie-wiles-t-00-47-33)**
-> "...nd are asking for Susie Wiles. It's the craziest part of this whole thing for me. It was like, "Why Susie Wiles? I know it just feels really weird—like a weird pick for her to eulogize him." But yeah—and not may..."
-
-**[00:47:41](/episodes/ep-Cq7nj9rxPdo.md#ent-person-susie-wiles-t-00-47-33)**
-> "they were asking for Susie Wiles to eulogize him"
-
-**[00:47:36](/episodes/ep-Cq7nj9rxPdo.md#ent-person-susie-wiles-t-00-47-33)**
-> "And are asking for Susie Wiles."
-
-**[00:47:48](/episodes/ep-Cq7nj9rxPdo.md#ent-person-susie-wiles-t-00-47-33)**
-> "It was like, "Why Susie Wiles?"
-
-</details>
-
-<details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (4 mentions)</summary>
 
 **[00:06:44](/episodes/ep-LATnak75Si0.md#ent-person-susie-wiles-t-00-06-20)**
@@ -73,6 +53,26 @@ _Type: People_
 
 **[00:51:44](/episodes/ep-Qt0VHV-POCg.md#ent-person-susie-wiles-t-00-51-24)**
 > "...m not supported by, you know, Susie Wiles' White House."
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (5 mentions)</summary>
+
+**[00:47:36](/episodes/ep-Cq7nj9rxPdo.md#ent-person-susie-wiles-t-00-47-33)**
+> "...on of his peers or the non-reaction of his peers who just want our money, right? And are asking for Susie Wiles. It's the craziest part of this whole thing for me. It was like, "Why Susie Wiles? I know it just f..."
+
+**[00:47:48](/episodes/ep-Cq7nj9rxPdo.md#ent-person-susie-wiles-t-00-47-33)**
+> "...nd are asking for Susie Wiles. It's the craziest part of this whole thing for me. It was like, "Why Susie Wiles? I know it just feels really weird—like a weird pick for her to eulogize him." But yeah—and not may..."
+
+**[00:47:41](/episodes/ep-Cq7nj9rxPdo.md#ent-person-susie-wiles-t-00-47-33)**
+> "they were asking for Susie Wiles to eulogize him"
+
+**[00:47:36](/episodes/ep-Cq7nj9rxPdo.md#ent-person-susie-wiles-t-00-47-33)**
+> "And are asking for Susie Wiles."
+
+**[00:47:48](/episodes/ep-Cq7nj9rxPdo.md#ent-person-susie-wiles-t-00-47-33)**
+> "It was like, "Why Susie Wiles?"
 
 </details>
 

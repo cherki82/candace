@@ -139,17 +139,17 @@ youtube_url: "https://www.youtube.com/watch?v=_dRaEO47-co"
 <details>
 <summary><strong>Entities Mentioned (43)</strong></summary>
 
-**Concepts:** [Black Lives Matter](/entities/concept-black-lives-matter.md), [Me Too](/entities/concept-me-too.md)
+**Concepts:** [Me Too](/entities/concept-me-too.md)
 
 **Dates:** [2017](/entities/date-2017.md)
 
 **Places:** [California](/entities/gpe-california.md), [Canada](/entities/gpe-canada.md), [Chicago](/entities/gpe-chicago.md), [Colorado](/entities/gpe-colorado.md), [Florida](/entities/gpe-florida.md), [Israel](/entities/gpe-israel.md), [North Carolina](/entities/gpe-north-carolina.md), [Philadelphia](/entities/gpe-philadelphia.md), [South Carolina](/entities/gpe-south-carolina.md), [United Kingdom](/entities/gpe-united-kingdom.md), [United States](/entities/gpe-united-states.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
-**Organizations:** [Antifa](/entities/org-antifa.md), [Berkeley](/entities/org-berkeley.md), [Black Lives Matter](/entities/org-black-lives-matter.md), [Blexit](/entities/org-blexit.md), [Fox News](/entities/org-fox-news.md), [Instagram](/entities/org-instagram.md), [RNC](/entities/org-rnc.md), [Stanford](/entities/org-stanford.md), [Turning Point USA](/entities/org-turning-point-usa.md), [UCLA](/entities/org-ucla.md), [White House](/entities/org-white-house.md), [Young Women's Leadership Summit](/entities/org-ywls.md)
+**Organizations:** [Antifa](/entities/org-antifa.md), [Berkeley](/entities/org-berkeley.md), [Black Lives Matter](/entities/org-black-lives-matter.md), [Black Lives Matter](/entities/org-black-lives-matter.md), [Blexit](/entities/org-blexit.md), [Fox News](/entities/org-fox-news.md), [Instagram](/entities/org-instagram.md), [RNC](/entities/org-rnc.md), [Stanford](/entities/org-stanford.md), [Turning Point USA](/entities/org-turning-point-usa.md), [UCLA](/entities/org-ucla.md), [White House](/entities/org-white-house.md), [Young Women's Leadership Summit](/entities/org-ywls.md)
 
 **People:** [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Brett Kavanaugh](/entities/person-brett-kavanaugh.md), [Brigitte Gabriel](/entities/person-brigitte-gabriel.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Rubin](/entities/person-dave-rubin.md), [Donald Trump](/entities/person-donald-trump.md), [Donald Trump Jr.](/entities/person-donald-trump-jr.md), [Eric Trump](/entities/person-eric-trump.md), [Erika Kirk](/entities/person-erika-kirk.md), [George Farmer](/entities/person-george-farmer.md), [Jay-Z](/entities/person-jay-z.md), [Kanye West](/entities/person-kanye-west.md), [Rush Limbaugh](/entities/person-rush-limbaugh.md)
 
-**Work:** [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md), [The New Turning Point](/entities/work-the-new-turning-point.md)
+**Works & Media:** [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md), [The New Turning Point](/entities/work-the-new-turning-point.md)
 
 </details>
 

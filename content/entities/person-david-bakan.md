@@ -17,17 +17,6 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (2 mentions)</summary>
-
-**[01:02:38](/episodes/ep-czVBmqZP6Ss.md#ent-person-david-bakan-t-01-02-10)**
-> "I would recommend you read David Bakan, Sigmund Freud and the History of the Jewish Mystical Tradition"
-
-**[01:02:33](/episodes/ep-czVBmqZP6Ss.md#ent-person-david-bakan-t-01-02-10)**
-> "...en I would recommend you read David Bakan, “Sigmund Freud and the"
-
-</details>
-
-<details>
 <summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (3 mentions)</summary>
 
 **[00:57:25](/episodes/ep-ozWJz2spBcI.md#ent-person-david-bakan-t-00-57-20)**
@@ -38,6 +27,17 @@ _Type: People_
 
 **[00:59:15](/episodes/ep-ozWJz2spBcI.md#ent-person-david-bakan-t-00-58-47)**
 > "...n is the name of that book by David Bakan that we will be starting on tomorrow's book club."
+
+</details>
+
+<details>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (2 mentions)</summary>
+
+**[01:02:38](/episodes/ep-czVBmqZP6Ss.md#ent-person-david-bakan-t-01-02-10)**
+> "I would recommend you read David Bakan, Sigmund Freud and the History of the Jewish Mystical Tradition"
+
+**[01:02:33](/episodes/ep-czVBmqZP6Ss.md#ent-person-david-bakan-t-01-02-10)**
+> "...en I would recommend you read David Bakan, “Sigmund Freud and the"
 
 </details>
 

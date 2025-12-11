@@ -20,7 +20,7 @@ type: "factual_claim"
 
 ## About
 
-- [SU-BND](/entities/work-su-bnd.md) (work)
+- [SU-BND](/entities/vehicle-su-bnd.md) (vehicle)
 
 ## Source
 

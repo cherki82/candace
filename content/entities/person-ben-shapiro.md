@@ -17,6 +17,32 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (7 mentions)</summary>
+
+**[00:25:21](/episodes/ep-ZAuuSq_j2_w.md#ent-person-ben-shapiro-t-00-25-13)**
+> "...ssassination attempt is just funny. That's just like an SNL bit. Anyways, the always relatable Ben (Ben Shapiro) is trying his luck at humor as well. Regarding my assassination attempt, he appeared on Greg Gutfe..."
+
+**[00:25:39](/episodes/ep-ZAuuSq_j2_w.md#ent-person-ben-shapiro-t-00-25-13)**
+> "...g Gutfeld's show, and he decided to promote his appearance with a little jab. Take a listen to Ben (Ben Shapiro). (Clip: Ben Shapiro speaking on Greg Gutfeld’s show) As you can see, I'm sitting in Greg Gutfeld's..."
+
+**[00:00:00](/episodes/ep-ZAuuSq_j2_w.md#ent-person-ben-shapiro-t-00-25-13)**
+> "Episode mentions Ben Shapiro in speakers list"
+
+**[00:25:21](/episodes/ep-ZAuuSq_j2_w.md#ent-person-ben-shapiro-t-00-25-13)**
+> "...ys, the always relatable Ben (Ben Shapiro) is trying his luck at humor as well."
+
+**[00:25:21](/episodes/ep-ZAuuSq_j2_w.md#ent-person-ben-shapiro-t-00-25-13)**
+> "Anyways, the always relatable Ben (Ben Shapiro) is trying his luck at humor as well..."
+
+**[00:25:39](/episodes/ep-ZAuuSq_j2_w.md#ent-person-ben-shapiro-t-00-25-13)**
+> "Take a listen to Ben (Ben Shapiro). (Clip: Ben Shapiro speaking on Greg Gutfeld’s s..."
+
+**[00:25:39](/episodes/ep-ZAuuSq_j2_w.md#ent-person-ben-shapiro-t-00-25-13)**
+> "... to Ben (Ben Shapiro). (Clip: Ben Shapiro speaking on Greg Gutfeld’s show)"
+
+</details>
+
+<details>
 <summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (5 mentions)</summary>
 
 **[00:11:32](/episodes/ep-JQjCAsfoXEE.md#ent-person-ben-shapiro-t-00-11-07)**
@@ -33,263 +59,6 @@ _Type: People_
 
 **[00:32:22](/episodes/ep-JQjCAsfoXEE.md#ent-person-ben-shapiro-t-00-32-22)**
 > "...r social media campaigns—even Ben Shapiro name-checking me and Tucker (Tucker Carlson)—and ..."
-
-</details>
-
-<details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (84 mentions)</summary>
-
-**[00:00:18](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-00-00)**
-> "...ltrated the MAGA movement, and they're trying to dictate the terms like we didn't notice. Randomly, Ben Shapiro (Ben Shapiro) apparently woke up this morning and chose violence. He put me in his anti-Tucker (Tuc..."
-
-**[00:09:23](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-09-01)**
-> "... about how Charlie (Charlie Kirk) really felt. It's just becoming too obvious. Anyway, let's get to Ben Shapiro (Ben Shapiro), okay? Because on his show today, he took a very—dare I say—scripted stab at Tucker C..."
-
-**[00:09:54](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-09-46)**
-> "...g, but she's done wrong, is what they say. And he obviously listened to what he has to say. This is Ben Shapiro (Ben Shapiro) straight from a teleprompter. Ben Shapiro (clip): Tucker Carlson (Tucker Carlson), yo..."
-
-**[00:09:57](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-09-57)**
-> "...sly listened to what he has to say. This is Ben Shapiro (Ben Shapiro) straight from a teleprompter. Ben Shapiro (clip): Tucker Carlson (Tucker Carlson), you see, is a coward. Ben Shapiro (clip): And here is wher..."
-
-**[00:10:00](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-09-57)**
-> "...ght from a teleprompter. Ben Shapiro (clip): Tucker Carlson (Tucker Carlson), you see, is a coward. Ben Shapiro (clip): And here is where his relationship with Nick Fuentes (Nick Fuentes) begins, with Nick Fuent..."
-
-**[00:10:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-09-57)**
-> "...ick Fuentes (Nick Fuentes) correctly pointing out that Tucker Carlson (Tucker Carlson) is a coward. Ben Shapiro (clip): You see, Tucker Carlson (Tucker Carlson) a few weeks back had on Candace (Candace Owens) to..."
-
-**[00:10:09](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-09-57)**
-> "...eeks back had on Candace (Candace Owens) to treat her to his usual ideological laundering services. Ben Shapiro (clip): That's after years of Candace Owens (Candace Owens) saying things like this. Candace Owens ..."
-
-**[00:11:24](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-11-24)**
-> "... trans man who molested him when he was a child. Candace Owens (clip): I mean, fact check—all true. Ben Shapiro (clip): I gotta watch that girl's show. Ben Shapiro (clip): Lovely. Ben Shapiro (clip): It sounds a..."
-
-**[00:11:25](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-11-24)**
-> "...dace Owens (clip): I mean, fact check—all true. Ben Shapiro (clip): I gotta watch that girl's show. Ben Shapiro (clip): Lovely. Ben Shapiro (clip): It sounds amazing. I take nothing back. But you catch the vibe ..."
-
-**[00:11:28](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-11-28)**
-> "...act check—all true. Ben Shapiro (clip): I gotta watch that girl's show. Ben Shapiro (clip): Lovely. Ben Shapiro (clip): It sounds amazing. I take nothing back. But you catch the vibe here. The vibe here is that ..."
-
-**[00:11:31](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-11-28)**
-> "...Carlson (Tucker Carlson) is criminally laundering ideas through his beyond-the-pale guest, and Ben (Ben Shapiro) is using the preferred strategy of out-of-context clips to paint a picture of my perspectives, whi..."
-
-**[00:13:46](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-13-35)**
-> "...n from me. All that aside, I have to say that I was quite stunned that he found within himself—Ben (Ben Shapiro)—the audacity to present this attack on Tucker (Tucker Carlson) as a noble defense of Charlie (Char..."
-
-**[00:13:48](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-13-35)**
-> "...is attack on Tucker (Tucker Carlson) as a noble defense of Charlie (Charlie Kirk). Here's what Ben (Ben Shapiro) said in his own words. There's no question that Tucker (Tucker Carlson) has become the most virule..."
-
-**[00:14:52](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-14-16)**
-> "...egacy. And it is simply a fact—which I feel comfortable sharing now—that Charlie (Charlie Kirk) and Ben Shapiro (Ben Shapiro) did not get along. Because Charlie (Charlie Kirk) found out that Ben (Ben Shapiro) wa..."
-
-**[00:14:56](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-14-56)**
-> "...and Ben Shapiro (Ben Shapiro) did not get along. Because Charlie (Charlie Kirk) found out that Ben (Ben Shapiro) was operating behind the scenes to stop him and sort of hinder the growth of Turning Point USA in ..."
-
-**[00:15:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-14-56)**
-> "...rk) tried to figure out where the sudden hostility was coming from—because he at first admired Ben (Ben Shapiro), like I admired Ben (Ben Shapiro)—actually Charlie (Charlie Kirk) was the one that told me, "You s..."
-
-**[00:15:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-15-41)**
-> "...hing we knew, we were hearing that he was trying to block us. And they had a conversation, and Ben (Ben Shapiro) told Charlie (Charlie Kirk)—again, this is according to my messages with Charlie (Charlie Kirk)—th..."
-
-**[00:16:09](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-16-01)**
-> "...gs to be taken seriously, but celebrities probably are on that list. Candace Owens (clip): Yeah, so Ben Shapiro's (Ben Shapiro) right. Candace Owens (clip): Yeah, no. Well, he's right about this, you know. But h..."
-
-**[00:16:50](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-16-45)**
-> "...ould be late. Candace Owens (clip): Writing you a pink slip. Candace Owens (clip): It's like, "Ben (Ben Shapiro), just give me the pink slip, dude." Candace Owens (clip): Just give it to me, Ben (Ben Shapiro). C..."
-
-**[00:16:51](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-16-45)**
-> "...en (Ben Shapiro), just give me the pink slip, dude." Candace Owens (clip): Just give it to me, Ben (Ben Shapiro). Candace Owens (clip): This is a gateway to Saturday school. Candace Owens (clip): That's a good i..."
-
-**[00:16:59](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-16-59)**
-> "...ol. Candace Owens (clip): That's a good impression of him. Lighthearted joke. But specifically Ben (Ben Shapiro) said to Charlie (Charlie Kirk) that he was upset about that and that I, Candace (Candace Owens), w..."
-
-**[00:17:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-16-59)**
-> "...t away from me. Now, obviously, the story goes, Charlie (Charlie Kirk) stuck with me despite Ben's (Ben Shapiro) urging. We kept climbing. We reached a point where as a team, Charlie (Charlie Kirk) and I were su..."
-
-**[00:17:17](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-16-59)**
-> "...were suddenly undeniable. Some producer in June of 2018 then reached out to us to book us on Ben's (Ben Shapiro) show. And honestly, I'm so glad they did this because in retrospect, it's actually one of my favor..."
-
-**[00:17:53](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-17-40)**
-> "...ie Kirk) perspective was just laugh and move on. Anyway, the story goes, we get the invite to be on Ben Shapiro's (Ben Shapiro) show. And I'm like, "No, F that. He was so awful to us." "He said this about me mil..."
-
-**[00:18:23](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-18-23)**
-> "...uff my chest out and stand extra tall." "So we never forget this moment of us having triumphed over Ben Shapiro (Ben Shapiro)." And he actually does it. And it was completely hilarious. And this is actually the ..."
-
-**[00:19:06](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-19-06)**
-> "... the Turning Point stage until his dying day—literally. Charlie (Charlie Kirk) was not in love with Ben Shapiro (Ben Shapiro). He didn't hate Ben Shapiro (Ben Shapiro). He just, I would say, experienced Ben Shap..."
-
-**[00:19:16](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-19-06)**
-> "...ay—literally. Charlie (Charlie Kirk) was not in love with Ben Shapiro (Ben Shapiro). He didn't hate Ben Shapiro (Ben Shapiro). He just, I would say, experienced Ben Shapiro (Ben Shapiro). We all get the Ben Shap..."
-
-**[00:19:18](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-19-06)**
-> "... Shapiro (Ben Shapiro). He didn't hate Ben Shapiro (Ben Shapiro). He just, I would say, experienced Ben Shapiro (Ben Shapiro). We all get the Ben Shapiro (Ben Shapiro) experience at some point. Despite this, he ..."
-
-**[00:19:20](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-19-06)**
-> "... Shapiro (Ben Shapiro). He just, I would say, experienced Ben Shapiro (Ben Shapiro). We all get the Ben Shapiro (Ben Shapiro) experience at some point. Despite this, he always—as I said—kept it cordial because t..."
-
-**[00:19:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-19-06)**
-> "...hat's who he was as a person. But what I will not allow is this absolute inversion of reality where Ben Shapiro (Ben Shapiro) becomes any sort of voice on who is and who is not betraying their friendship with Ch..."
-
-**[00:20:36](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-20-31)**
-> "...because they wanted to keep it going. And they were told that that was not allowed to happen unless Ben Shapiro (Ben Shapiro) was also invited. And in the true spirit of Charlie Kirk (Charlie Kirk), Turning Poin..."
-
-**[00:00:18](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-00-00)**
-> "Randomly, Ben Shapiro (Ben Shapiro) apparently woke up this morning and..."
-
-**[00:09:23](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-09-01)**
-> "Anyway, let's get to Ben Shapiro (Ben Shapiro), okay?"
-
-**[00:09:23](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-09-01)**
-> "...ay, let's get to Ben Shapiro (Ben Shapiro), okay?"
-
-**[00:09:54](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-09-46)**
-> "This is Ben Shapiro (Ben Shapiro) straight from a teleprompter."
-
-**[00:09:57](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-09-57)**
-> "Ben Shapiro (clip): Tucker Carlson (Tucker Carlson), you see,..."
-
-**[00:10:00](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-09-57)**
-> "Ben Shapiro (clip): And here is where his relationship with N..."
-
-**[00:10:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-09-57)**
-> "Ben Shapiro (clip): You see, Tucker Carlson (Tucker Carlson) ..."
-
-**[00:10:09](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-09-57)**
-> "Ben Shapiro (clip): That's after years of Candace Owens (Cand..."
-
-**[00:11:24](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-11-24)**
-> "Ben Shapiro (clip): I gotta watch that girl's show."
-
-**[00:11:25](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-11-24)**
-> "Ben Shapiro (clip): Lovely."
-
-**[00:11:28](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-11-28)**
-> "Ben Shapiro (clip): It sounds amazing."
-
-**[00:11:31](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-11-28)**
-> "...yond-the-pale guest, and Ben (Ben Shapiro) is using the preferred strategy of out-of-contex..."
-
-**[00:11:31](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-11-28)**
-> "...is beyond-the-pale guest, and Ben (Ben Shapiro) is using the preferred strategy of ..."
-
-**[00:13:46](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-13-35)**
-> "... he found within himself—Ben (Ben Shapiro)—the audacity to present this attack on Tucker (T..."
-
-**[00:13:46](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-13-35)**
-> "... that he found within himself—Ben (Ben Shapiro)—the audacity to present this attack..."
-
-**[00:13:48](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-13-35)**
-> "Here's what Ben (Ben Shapiro) said in his own words."
-
-**[00:14:52](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-14-16)**
-> "...at Charlie (Charlie Kirk) and Ben Shapiro (Ben Shapiro) did not get along."
-
-**[00:14:52](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-14-16)**
-> "...harlie Kirk) and Ben Shapiro (Ben Shapiro) did not get along."
-
-**[00:14:56](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-14-56)**
-> "...lie Kirk) found out that Ben (Ben Shapiro) was operating behind the scenes to stop him and ..."
-
-**[00:14:56](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-14-56)**
-> "...(Charlie Kirk) found out that Ben (Ben Shapiro) was operating behind the scenes to ..."
-
-**[00:15:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-14-56)**
-> "...ause he at first admired Ben (Ben Shapiro), like I admired Ben (Ben Shapiro)—actually Charl..."
-
-**[00:15:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-14-56)**
-> "...Shapiro), like I admired Ben (Ben Shapiro)—actually Charlie (Charlie Kirk) was the one that..."
-
-**[00:15:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-14-56)**
-> "...ld me, "You should watch Ben (Ben Shapiro) debate videos so you can strengthen your debate ..."
-
-**[00:15:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-14-56)**
-> "...m—because he at first admired Ben (Ben Shapiro), like I admired Ben (Ben Shapiro)—a..."
-
-**[00:15:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-14-56)**
-> "...(Ben Shapiro), like I admired Ben (Ben Shapiro)—actually Charlie (Charlie Kirk) was..."
-
-**[00:15:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-14-56)**
-> "...at told me, "You should watch Ben (Ben Shapiro) debate videos so you can strengthen..."
-
-**[00:15:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-15-41)**
-> "... had a conversation, and Ben (Ben Shapiro) told Charlie (Charlie Kirk)—again, this is accor..."
-
-**[00:15:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-15-41)**
-> "...rlie (Charlie Kirk)—that Ben (Ben Shapiro) was in part upset because I made a joke about hi..."
-
-**[00:15:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-15-41)**
-> "... they had a conversation, and Ben (Ben Shapiro) told Charlie (Charlie Kirk)—again, ..."
-
-**[00:15:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-15-41)**
-> "...h Charlie (Charlie Kirk)—that Ben (Ben Shapiro) was in part upset because I made a ..."
-
-**[00:16:09](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-16-01)**
-> "Yeah, so Ben Shapiro's (Ben Shapiro) right."
-
-**[00:16:50](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-16-45)**
-> "It's like, "Ben (Ben Shapiro), just give me the pink slip, dude.""
-
-**[00:16:51](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-16-45)**
-> "Just give it to me, Ben (Ben Shapiro)."
-
-**[00:16:59](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-16-59)**
-> "...d joke. But specifically Ben (Ben Shapiro) said to Charlie (Charlie Kirk) that he was upset..."
-
-**[00:16:59](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-16-59)**
-> "...earted joke. But specifically Ben (Ben Shapiro) said to Charlie (Charlie Kirk) that..."
-
-**[00:17:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-16-59)**
-> "... stuck with me despite Ben's (Ben Shapiro) urging."
-
-**[00:17:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-16-59)**
-> "...e Kirk) stuck with me despite Ben's (Ben Shapiro) urging."
-
-**[00:17:17](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-16-59)**
-> "...ut to us to book us on Ben's (Ben Shapiro) show."
-
-**[00:17:17](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-16-59)**
-> "...ached out to us to book us on Ben's (Ben Shapiro) show."
-
-**[00:17:53](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-17-40)**
-> "...s, we get the invite to be on Ben Shapiro's (Ben Shapiro) show."
-
-**[00:17:53](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-17-40)**
-> "...nvite to be on Ben Shapiro's (Ben Shapiro) show."
-
-**[00:18:23](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-18-23)**
-> "...t of us having triumphed over Ben Shapiro (Ben Shapiro).""
-
-**[00:18:23](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-18-23)**
-> "...g triumphed over Ben Shapiro (Ben Shapiro).""
-
-**[00:19:06](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-19-06)**
-> "...ie Kirk) was not in love with Ben Shapiro (Ben Shapiro)."
-
-**[00:19:06](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-19-06)**
-> "...not in love with Ben Shapiro (Ben Shapiro)."
-
-**[00:19:16](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-19-06)**
-> "He didn't hate Ben Shapiro (Ben Shapiro)."
-
-**[00:19:18](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-19-06)**
-> "...ust, I would say, experienced Ben Shapiro (Ben Shapiro)."
-
-**[00:19:18](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-19-06)**
-> "...say, experienced Ben Shapiro (Ben Shapiro)."
-
-**[00:19:20](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-19-06)**
-> "We all get the Ben Shapiro (Ben Shapiro) experience at some point."
-
-**[00:19:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-19-06)**
-> "...te inversion of reality where Ben Shapiro (Ben Shapiro) becomes any sort of voice on who is..."
-
-**[00:19:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-19-06)**
-> "...of reality where Ben Shapiro (Ben Shapiro) becomes any sort of voice on who is and who is n..."
-
-**[00:20:36](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-20-31)**
-> "... not allowed to happen unless Ben Shapiro (Ben Shapiro) was also invited."
-
-**[00:20:36](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-20-31)**
-> "...to happen unless Ben Shapiro (Ben Shapiro) was also invited."
 
 </details>
 
@@ -347,20 +116,6 @@ _Type: People_
 </details>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (3 mentions)</summary>
-
-**[00:31:05](/episodes/ep-QZWSsq8ZWzw.md#ent-person-ben-shapiro-t-00-30-51)**
-> "...ve but support my right to share those beliefs anyway. People who I never would have imagined, like Ben Shapiro, Clay Travis, Candace (Candace Owens), Mitch McConnell, Rand Paul—even my old pal Ted Cruz, who, be..."
-
-**[00:31:05](/episodes/ep-QZWSsq8ZWzw.md#ent-person-ben-shapiro-t-00-30-51)**
-> "like Ben Shapiro, Clay Travis, Candace Owens, Mitch McConnell"
-
-**[00:31:05](/episodes/ep-QZWSsq8ZWzw.md#ent-person-ben-shapiro-t-00-30-51)**
-> "like Ben Shapiro, Clay Travis, Candace Owens, Mitch McConnell, Ran..."
-
-</details>
-
-<details>
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (9 mentions)</summary>
 
 **[00:00:23](/episodes/ep-YaZfwLQ7vrI.md#ent-person-ben-shapiro-t-00-00-00)**
@@ -389,66 +144,6 @@ _Type: People_
 
 **[00:52:17](/episodes/ep-YaZfwLQ7vrI.md#ent-person-ben-shapiro-t-00-51-56)**
 > "...You Type wrote, "Ben Shapiro (Ben Shapiro) was all for Candace (Candace Owens) keeping it r..."
-
-</details>
-
-<details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (7 mentions)</summary>
-
-**[00:25:21](/episodes/ep-ZAuuSq_j2_w.md#ent-person-ben-shapiro-t-00-25-13)**
-> "...ssassination attempt is just funny. That's just like an SNL bit. Anyways, the always relatable Ben (Ben Shapiro) is trying his luck at humor as well. Regarding my assassination attempt, he appeared on Greg Gutfe..."
-
-**[00:25:39](/episodes/ep-ZAuuSq_j2_w.md#ent-person-ben-shapiro-t-00-25-13)**
-> "...g Gutfeld's show, and he decided to promote his appearance with a little jab. Take a listen to Ben (Ben Shapiro). (Clip: Ben Shapiro speaking on Greg Gutfeld’s show) As you can see, I'm sitting in Greg Gutfeld's..."
-
-**[00:00:00](/episodes/ep-ZAuuSq_j2_w.md#ent-person-ben-shapiro-t-00-25-13)**
-> "Episode mentions Ben Shapiro in speakers list"
-
-**[00:25:21](/episodes/ep-ZAuuSq_j2_w.md#ent-person-ben-shapiro-t-00-25-13)**
-> "...ys, the always relatable Ben (Ben Shapiro) is trying his luck at humor as well."
-
-**[00:25:21](/episodes/ep-ZAuuSq_j2_w.md#ent-person-ben-shapiro-t-00-25-13)**
-> "Anyways, the always relatable Ben (Ben Shapiro) is trying his luck at humor as well..."
-
-**[00:25:39](/episodes/ep-ZAuuSq_j2_w.md#ent-person-ben-shapiro-t-00-25-13)**
-> "Take a listen to Ben (Ben Shapiro). (Clip: Ben Shapiro speaking on Greg Gutfeld’s s..."
-
-**[00:25:39](/episodes/ep-ZAuuSq_j2_w.md#ent-person-ben-shapiro-t-00-25-13)**
-> "... to Ben (Ben Shapiro). (Clip: Ben Shapiro speaking on Greg Gutfeld’s show)"
-
-</details>
-
-<details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (6 mentions)</summary>
-
-**[00:31:25](/episodes/ep-adJ4LNGp84I.md#ent-person-ben-shapiro-t-00-31-25)**
-> "...the connections, PragerU, I could tell you the stories; PragerU, David Horowitz Freedom Center, and Ben Shapiro, all of them related in their beginnings in Los Angeles. So he's basically saying, we need to take ..."
-
-**[00:44:39](/episodes/ep-adJ4LNGp84I.md#ent-person-ben-shapiro-t-00-44-06)**
-> "... writes, hey Candace (Candace Owens), would you want to debate the more prominent commentators like Ben Shapiro, Brandon Tatum, and PBD on the topics of Israel, Mossad, and Palestine? They all have hinted and da..."
-
-**[00:44:57](/episodes/ep-adJ4LNGp84I.md#ent-person-ben-shapiro-t-00-44-47)**
-> "...nti-Jewish, genetically speaking, and excessive in their videos. I would debate PBD. I would debate Ben Shapiro. I wouldn't debate Brandon Tatum because I love Brandon Tatum like a brother, and nobody wins in th..."
-
-**[00:31:25](/episodes/ep-adJ4LNGp84I.md#ent-person-ben-shapiro-t-00-31-25)**
-> "... Horowitz Freedom Center, and Ben Shapiro, all of them related in their beginnings in Los A..."
-
-**[00:44:39](/episodes/ep-adJ4LNGp84I.md#ent-person-ben-shapiro-t-00-44-06)**
-> "...e prominent commentators like Ben Shapiro, Brandon Tatum, and PBD"
-
-**[00:44:57](/episodes/ep-adJ4LNGp84I.md#ent-person-ben-shapiro-t-00-44-47)**
-> "I would debate Ben Shapiro."
-
-</details>
-
-<details>
-<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (2 mentions)</summary>
-
-**[00:50:43](/episodes/ep-c5BcKF91iec.md#ent-person-ben-shapiro-t-00-50-14)**
-> "...s tell you that. And I love that you look like you're a lot happier than you were a few years ago." Ben Shapiro—notoriously on that table—said her faux sophistication has been ridiculous. So I'm keeping it faux ..."
-
-**[00:50:43](/episodes/ep-c5BcKF91iec.md#ent-person-ben-shapiro-t-00-50-14)**
-> "Ben Shapiro—notoriously on that table—said her faux sophistic..."
 
 </details>
 
@@ -741,6 +436,311 @@ _Type: People_
 
 **[00:03:30](/episodes/ep-vwG1juDCQZQ.md#ent-person-ben-shapiro-t-00-02-51)**
 > "Of course, as always, I thank Ben Shapiro."
+
+</details>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (84 mentions)</summary>
+
+**[00:00:18](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-00-00)**
+> "...ltrated the MAGA movement, and they're trying to dictate the terms like we didn't notice. Randomly, Ben Shapiro (Ben Shapiro) apparently woke up this morning and chose violence. He put me in his anti-Tucker (Tuc..."
+
+**[00:09:23](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-09-01)**
+> "... about how Charlie (Charlie Kirk) really felt. It's just becoming too obvious. Anyway, let's get to Ben Shapiro (Ben Shapiro), okay? Because on his show today, he took a very—dare I say—scripted stab at Tucker C..."
+
+**[00:09:54](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-09-46)**
+> "...g, but she's done wrong, is what they say. And he obviously listened to what he has to say. This is Ben Shapiro (Ben Shapiro) straight from a teleprompter. Ben Shapiro (clip): Tucker Carlson (Tucker Carlson), yo..."
+
+**[00:09:57](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-09-57)**
+> "...sly listened to what he has to say. This is Ben Shapiro (Ben Shapiro) straight from a teleprompter. Ben Shapiro (clip): Tucker Carlson (Tucker Carlson), you see, is a coward. Ben Shapiro (clip): And here is wher..."
+
+**[00:10:00](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-09-57)**
+> "...ght from a teleprompter. Ben Shapiro (clip): Tucker Carlson (Tucker Carlson), you see, is a coward. Ben Shapiro (clip): And here is where his relationship with Nick Fuentes (Nick Fuentes) begins, with Nick Fuent..."
+
+**[00:10:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-09-57)**
+> "...ick Fuentes (Nick Fuentes) correctly pointing out that Tucker Carlson (Tucker Carlson) is a coward. Ben Shapiro (clip): You see, Tucker Carlson (Tucker Carlson) a few weeks back had on Candace (Candace Owens) to..."
+
+**[00:10:09](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-09-57)**
+> "...eeks back had on Candace (Candace Owens) to treat her to his usual ideological laundering services. Ben Shapiro (clip): That's after years of Candace Owens (Candace Owens) saying things like this. Candace Owens ..."
+
+**[00:11:24](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-11-24)**
+> "... trans man who molested him when he was a child. Candace Owens (clip): I mean, fact check—all true. Ben Shapiro (clip): I gotta watch that girl's show. Ben Shapiro (clip): Lovely. Ben Shapiro (clip): It sounds a..."
+
+**[00:11:25](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-11-24)**
+> "...dace Owens (clip): I mean, fact check—all true. Ben Shapiro (clip): I gotta watch that girl's show. Ben Shapiro (clip): Lovely. Ben Shapiro (clip): It sounds amazing. I take nothing back. But you catch the vibe ..."
+
+**[00:11:28](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-11-28)**
+> "...act check—all true. Ben Shapiro (clip): I gotta watch that girl's show. Ben Shapiro (clip): Lovely. Ben Shapiro (clip): It sounds amazing. I take nothing back. But you catch the vibe here. The vibe here is that ..."
+
+**[00:11:31](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-11-28)**
+> "...Carlson (Tucker Carlson) is criminally laundering ideas through his beyond-the-pale guest, and Ben (Ben Shapiro) is using the preferred strategy of out-of-context clips to paint a picture of my perspectives, whi..."
+
+**[00:13:46](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-13-35)**
+> "...n from me. All that aside, I have to say that I was quite stunned that he found within himself—Ben (Ben Shapiro)—the audacity to present this attack on Tucker (Tucker Carlson) as a noble defense of Charlie (Char..."
+
+**[00:13:48](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-13-35)**
+> "...is attack on Tucker (Tucker Carlson) as a noble defense of Charlie (Charlie Kirk). Here's what Ben (Ben Shapiro) said in his own words. There's no question that Tucker (Tucker Carlson) has become the most virule..."
+
+**[00:14:52](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-14-16)**
+> "...egacy. And it is simply a fact—which I feel comfortable sharing now—that Charlie (Charlie Kirk) and Ben Shapiro (Ben Shapiro) did not get along. Because Charlie (Charlie Kirk) found out that Ben (Ben Shapiro) wa..."
+
+**[00:14:56](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-14-56)**
+> "...and Ben Shapiro (Ben Shapiro) did not get along. Because Charlie (Charlie Kirk) found out that Ben (Ben Shapiro) was operating behind the scenes to stop him and sort of hinder the growth of Turning Point USA in ..."
+
+**[00:15:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-14-56)**
+> "...rk) tried to figure out where the sudden hostility was coming from—because he at first admired Ben (Ben Shapiro), like I admired Ben (Ben Shapiro)—actually Charlie (Charlie Kirk) was the one that told me, "You s..."
+
+**[00:15:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-15-41)**
+> "...hing we knew, we were hearing that he was trying to block us. And they had a conversation, and Ben (Ben Shapiro) told Charlie (Charlie Kirk)—again, this is according to my messages with Charlie (Charlie Kirk)—th..."
+
+**[00:16:09](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-16-01)**
+> "...gs to be taken seriously, but celebrities probably are on that list. Candace Owens (clip): Yeah, so Ben Shapiro's (Ben Shapiro) right. Candace Owens (clip): Yeah, no. Well, he's right about this, you know. But h..."
+
+**[00:16:50](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-16-45)**
+> "...ould be late. Candace Owens (clip): Writing you a pink slip. Candace Owens (clip): It's like, "Ben (Ben Shapiro), just give me the pink slip, dude." Candace Owens (clip): Just give it to me, Ben (Ben Shapiro). C..."
+
+**[00:16:51](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-16-45)**
+> "...en (Ben Shapiro), just give me the pink slip, dude." Candace Owens (clip): Just give it to me, Ben (Ben Shapiro). Candace Owens (clip): This is a gateway to Saturday school. Candace Owens (clip): That's a good i..."
+
+**[00:16:59](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-16-59)**
+> "...ol. Candace Owens (clip): That's a good impression of him. Lighthearted joke. But specifically Ben (Ben Shapiro) said to Charlie (Charlie Kirk) that he was upset about that and that I, Candace (Candace Owens), w..."
+
+**[00:17:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-16-59)**
+> "...t away from me. Now, obviously, the story goes, Charlie (Charlie Kirk) stuck with me despite Ben's (Ben Shapiro) urging. We kept climbing. We reached a point where as a team, Charlie (Charlie Kirk) and I were su..."
+
+**[00:17:17](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-16-59)**
+> "...were suddenly undeniable. Some producer in June of 2018 then reached out to us to book us on Ben's (Ben Shapiro) show. And honestly, I'm so glad they did this because in retrospect, it's actually one of my favor..."
+
+**[00:17:53](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-17-40)**
+> "...ie Kirk) perspective was just laugh and move on. Anyway, the story goes, we get the invite to be on Ben Shapiro's (Ben Shapiro) show. And I'm like, "No, F that. He was so awful to us." "He said this about me mil..."
+
+**[00:18:23](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-18-23)**
+> "...uff my chest out and stand extra tall." "So we never forget this moment of us having triumphed over Ben Shapiro (Ben Shapiro)." And he actually does it. And it was completely hilarious. And this is actually the ..."
+
+**[00:19:06](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-19-06)**
+> "... the Turning Point stage until his dying day—literally. Charlie (Charlie Kirk) was not in love with Ben Shapiro (Ben Shapiro). He didn't hate Ben Shapiro (Ben Shapiro). He just, I would say, experienced Ben Shap..."
+
+**[00:19:16](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-19-06)**
+> "...ay—literally. Charlie (Charlie Kirk) was not in love with Ben Shapiro (Ben Shapiro). He didn't hate Ben Shapiro (Ben Shapiro). He just, I would say, experienced Ben Shapiro (Ben Shapiro). We all get the Ben Shap..."
+
+**[00:19:18](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-19-06)**
+> "... Shapiro (Ben Shapiro). He didn't hate Ben Shapiro (Ben Shapiro). He just, I would say, experienced Ben Shapiro (Ben Shapiro). We all get the Ben Shapiro (Ben Shapiro) experience at some point. Despite this, he ..."
+
+**[00:19:20](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-19-06)**
+> "... Shapiro (Ben Shapiro). He just, I would say, experienced Ben Shapiro (Ben Shapiro). We all get the Ben Shapiro (Ben Shapiro) experience at some point. Despite this, he always—as I said—kept it cordial because t..."
+
+**[00:19:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-19-06)**
+> "...hat's who he was as a person. But what I will not allow is this absolute inversion of reality where Ben Shapiro (Ben Shapiro) becomes any sort of voice on who is and who is not betraying their friendship with Ch..."
+
+**[00:20:36](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-20-31)**
+> "...because they wanted to keep it going. And they were told that that was not allowed to happen unless Ben Shapiro (Ben Shapiro) was also invited. And in the true spirit of Charlie Kirk (Charlie Kirk), Turning Poin..."
+
+**[00:00:18](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-00-00)**
+> "Randomly, Ben Shapiro (Ben Shapiro) apparently woke up this morning and..."
+
+**[00:09:23](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-09-01)**
+> "Anyway, let's get to Ben Shapiro (Ben Shapiro), okay?"
+
+**[00:09:23](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-09-01)**
+> "...ay, let's get to Ben Shapiro (Ben Shapiro), okay?"
+
+**[00:09:54](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-09-46)**
+> "This is Ben Shapiro (Ben Shapiro) straight from a teleprompter."
+
+**[00:09:57](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-09-57)**
+> "Ben Shapiro (clip): Tucker Carlson (Tucker Carlson), you see,..."
+
+**[00:10:00](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-09-57)**
+> "Ben Shapiro (clip): And here is where his relationship with N..."
+
+**[00:10:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-09-57)**
+> "Ben Shapiro (clip): You see, Tucker Carlson (Tucker Carlson) ..."
+
+**[00:10:09](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-09-57)**
+> "Ben Shapiro (clip): That's after years of Candace Owens (Cand..."
+
+**[00:11:24](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-11-24)**
+> "Ben Shapiro (clip): I gotta watch that girl's show."
+
+**[00:11:25](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-11-24)**
+> "Ben Shapiro (clip): Lovely."
+
+**[00:11:28](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-11-28)**
+> "Ben Shapiro (clip): It sounds amazing."
+
+**[00:11:31](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-11-28)**
+> "...yond-the-pale guest, and Ben (Ben Shapiro) is using the preferred strategy of out-of-contex..."
+
+**[00:11:31](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-11-28)**
+> "...is beyond-the-pale guest, and Ben (Ben Shapiro) is using the preferred strategy of ..."
+
+**[00:13:46](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-13-35)**
+> "... he found within himself—Ben (Ben Shapiro)—the audacity to present this attack on Tucker (T..."
+
+**[00:13:46](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-13-35)**
+> "... that he found within himself—Ben (Ben Shapiro)—the audacity to present this attack..."
+
+**[00:13:48](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-13-35)**
+> "Here's what Ben (Ben Shapiro) said in his own words."
+
+**[00:14:52](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-14-16)**
+> "...at Charlie (Charlie Kirk) and Ben Shapiro (Ben Shapiro) did not get along."
+
+**[00:14:52](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-14-16)**
+> "...harlie Kirk) and Ben Shapiro (Ben Shapiro) did not get along."
+
+**[00:14:56](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-14-56)**
+> "...lie Kirk) found out that Ben (Ben Shapiro) was operating behind the scenes to stop him and ..."
+
+**[00:14:56](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-14-56)**
+> "...(Charlie Kirk) found out that Ben (Ben Shapiro) was operating behind the scenes to ..."
+
+**[00:15:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-14-56)**
+> "...ause he at first admired Ben (Ben Shapiro), like I admired Ben (Ben Shapiro)—actually Charl..."
+
+**[00:15:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-14-56)**
+> "...Shapiro), like I admired Ben (Ben Shapiro)—actually Charlie (Charlie Kirk) was the one that..."
+
+**[00:15:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-14-56)**
+> "...ld me, "You should watch Ben (Ben Shapiro) debate videos so you can strengthen your debate ..."
+
+**[00:15:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-14-56)**
+> "...m—because he at first admired Ben (Ben Shapiro), like I admired Ben (Ben Shapiro)—a..."
+
+**[00:15:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-14-56)**
+> "...(Ben Shapiro), like I admired Ben (Ben Shapiro)—actually Charlie (Charlie Kirk) was..."
+
+**[00:15:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-14-56)**
+> "...at told me, "You should watch Ben (Ben Shapiro) debate videos so you can strengthen..."
+
+**[00:15:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-15-41)**
+> "... had a conversation, and Ben (Ben Shapiro) told Charlie (Charlie Kirk)—again, this is accor..."
+
+**[00:15:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-15-41)**
+> "...rlie (Charlie Kirk)—that Ben (Ben Shapiro) was in part upset because I made a joke about hi..."
+
+**[00:15:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-15-41)**
+> "... they had a conversation, and Ben (Ben Shapiro) told Charlie (Charlie Kirk)—again, ..."
+
+**[00:15:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-15-41)**
+> "...h Charlie (Charlie Kirk)—that Ben (Ben Shapiro) was in part upset because I made a ..."
+
+**[00:16:09](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-16-01)**
+> "Yeah, so Ben Shapiro's (Ben Shapiro) right."
+
+**[00:16:50](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-16-45)**
+> "It's like, "Ben (Ben Shapiro), just give me the pink slip, dude.""
+
+**[00:16:51](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-16-45)**
+> "Just give it to me, Ben (Ben Shapiro)."
+
+**[00:16:59](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-16-59)**
+> "...d joke. But specifically Ben (Ben Shapiro) said to Charlie (Charlie Kirk) that he was upset..."
+
+**[00:16:59](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-16-59)**
+> "...earted joke. But specifically Ben (Ben Shapiro) said to Charlie (Charlie Kirk) that..."
+
+**[00:17:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-16-59)**
+> "... stuck with me despite Ben's (Ben Shapiro) urging."
+
+**[00:17:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-16-59)**
+> "...e Kirk) stuck with me despite Ben's (Ben Shapiro) urging."
+
+**[00:17:17](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-16-59)**
+> "...ut to us to book us on Ben's (Ben Shapiro) show."
+
+**[00:17:17](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-16-59)**
+> "...ached out to us to book us on Ben's (Ben Shapiro) show."
+
+**[00:17:53](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-17-40)**
+> "...s, we get the invite to be on Ben Shapiro's (Ben Shapiro) show."
+
+**[00:17:53](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-17-40)**
+> "...nvite to be on Ben Shapiro's (Ben Shapiro) show."
+
+**[00:18:23](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-18-23)**
+> "...t of us having triumphed over Ben Shapiro (Ben Shapiro).""
+
+**[00:18:23](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-18-23)**
+> "...g triumphed over Ben Shapiro (Ben Shapiro).""
+
+**[00:19:06](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-19-06)**
+> "...ie Kirk) was not in love with Ben Shapiro (Ben Shapiro)."
+
+**[00:19:06](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-19-06)**
+> "...not in love with Ben Shapiro (Ben Shapiro)."
+
+**[00:19:16](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-19-06)**
+> "He didn't hate Ben Shapiro (Ben Shapiro)."
+
+**[00:19:18](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-19-06)**
+> "...ust, I would say, experienced Ben Shapiro (Ben Shapiro)."
+
+**[00:19:18](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-19-06)**
+> "...say, experienced Ben Shapiro (Ben Shapiro)."
+
+**[00:19:20](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-19-06)**
+> "We all get the Ben Shapiro (Ben Shapiro) experience at some point."
+
+**[00:19:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-19-06)**
+> "...te inversion of reality where Ben Shapiro (Ben Shapiro) becomes any sort of voice on who is..."
+
+**[00:19:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-19-06)**
+> "...of reality where Ben Shapiro (Ben Shapiro) becomes any sort of voice on who is and who is n..."
+
+**[00:20:36](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-20-31)**
+> "... not allowed to happen unless Ben Shapiro (Ben Shapiro) was also invited."
+
+**[00:20:36](/episodes/ep-K1tFD7FfoCU.md#ent-person-ben-shapiro-t-00-20-31)**
+> "...to happen unless Ben Shapiro (Ben Shapiro) was also invited."
+
+</details>
+
+<details>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (2 mentions)</summary>
+
+**[00:50:43](/episodes/ep-c5BcKF91iec.md#ent-person-ben-shapiro-t-00-50-14)**
+> "...s tell you that. And I love that you look like you're a lot happier than you were a few years ago." Ben Shapiro—notoriously on that table—said her faux sophistication has been ridiculous. So I'm keeping it faux ..."
+
+**[00:50:43](/episodes/ep-c5BcKF91iec.md#ent-person-ben-shapiro-t-00-50-14)**
+> "Ben Shapiro—notoriously on that table—said her faux sophistic..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (6 mentions)</summary>
+
+**[00:31:25](/episodes/ep-adJ4LNGp84I.md#ent-person-ben-shapiro-t-00-31-25)**
+> "...the connections, PragerU, I could tell you the stories; PragerU, David Horowitz Freedom Center, and Ben Shapiro, all of them related in their beginnings in Los Angeles. So he's basically saying, we need to take ..."
+
+**[00:44:39](/episodes/ep-adJ4LNGp84I.md#ent-person-ben-shapiro-t-00-44-06)**
+> "... writes, hey Candace (Candace Owens), would you want to debate the more prominent commentators like Ben Shapiro, Brandon Tatum, and PBD on the topics of Israel, Mossad, and Palestine? They all have hinted and da..."
+
+**[00:44:57](/episodes/ep-adJ4LNGp84I.md#ent-person-ben-shapiro-t-00-44-47)**
+> "...nti-Jewish, genetically speaking, and excessive in their videos. I would debate PBD. I would debate Ben Shapiro. I wouldn't debate Brandon Tatum because I love Brandon Tatum like a brother, and nobody wins in th..."
+
+**[00:31:25](/episodes/ep-adJ4LNGp84I.md#ent-person-ben-shapiro-t-00-31-25)**
+> "... Horowitz Freedom Center, and Ben Shapiro, all of them related in their beginnings in Los A..."
+
+**[00:44:39](/episodes/ep-adJ4LNGp84I.md#ent-person-ben-shapiro-t-00-44-06)**
+> "...e prominent commentators like Ben Shapiro, Brandon Tatum, and PBD"
+
+**[00:44:57](/episodes/ep-adJ4LNGp84I.md#ent-person-ben-shapiro-t-00-44-47)**
+> "I would debate Ben Shapiro."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (3 mentions)</summary>
+
+**[00:31:05](/episodes/ep-QZWSsq8ZWzw.md#ent-person-ben-shapiro-t-00-30-51)**
+> "...ve but support my right to share those beliefs anyway. People who I never would have imagined, like Ben Shapiro, Clay Travis, Candace (Candace Owens), Mitch McConnell, Rand Paul—even my old pal Ted Cruz, who, be..."
+
+**[00:31:05](/episodes/ep-QZWSsq8ZWzw.md#ent-person-ben-shapiro-t-00-30-51)**
+> "like Ben Shapiro, Clay Travis, Candace Owens, Mitch McConnell"
+
+**[00:31:05](/episodes/ep-QZWSsq8ZWzw.md#ent-person-ben-shapiro-t-00-30-51)**
+> "like Ben Shapiro, Clay Travis, Candace Owens, Mitch McConnell, Ran..."
 
 </details>
 

@@ -13,17 +13,6 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
-
-**[00:53:09](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-dillon-t-00-52-35)**
-> "...ht claim for her sensational music. And so we might have to trim out that sensational song from the Tim Dillon clip that we showed of him listening to it. So. Oh, sorry. I said Charlie (Charlie Kirk)'s girlfrie..."
-
-**[00:53:09](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-dillon-t-00-52-35)**
-> "...hat sensational song from the Tim Dillon clip that we showed of him listening to it."
-
-</details>
-
-<details>
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (15 mentions)</summary>
 
 **[00:28:35](/episodes/ep-mKXdKV-OBog.md#ent-person-tim-dillon-t-00-28-14)**
@@ -70,6 +59,17 @@ _Type: People_
 
 **[00:32:58](/episodes/ep-mKXdKV-OBog.md#ent-person-tim-dillon-t-00-32-58)**
 > "(Tim Dillon clip) Bari Weiss is basically telling people, "Wh..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
+
+**[00:53:09](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-dillon-t-00-52-35)**
+> "...ht claim for her sensational music. And so we might have to trim out that sensational song from the Tim Dillon clip that we showed of him listening to it. So. Oh, sorry. I said Charlie (Charlie Kirk)'s girlfrie..."
+
+**[00:53:09](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-dillon-t-00-52-35)**
+> "...hat sensational song from the Tim Dillon clip that we showed of him listening to it."
 
 </details>
 

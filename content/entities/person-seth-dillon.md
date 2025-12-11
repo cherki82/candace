@@ -13,79 +13,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (4 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
 
-**[00:04:11](/episodes/ep-2Riv3I7D0Yk.md#ent-person-seth-dillon-t-00-03-33)**
-> "...k)'s views were changing. He lied about the Hamptons meeting. I've told you the truth from day one. Seth Dillon and Josh were personally upset with Charlie (Charlie Kirk)'s defiance against the state of Israel. ..."
+**[00:20:18](/episodes/ep-sImMM04XdWY.md#ent-person-seth-dillon-t-00-19-39)**
+> "...ie (Charlie Kirk) himself described it as an intervention, and Bill Ackman disputes that narrative. Seth Dillon disputes that narrative. Bibi (Benjamin Netanyahu) offers to take Turning Point to the next level f..."
 
-**[00:04:17](/episodes/ep-2Riv3I7D0Yk.md#ent-person-seth-dillon-t-00-04-17)**
-> "... and Josh were personally upset with Charlie (Charlie Kirk)'s defiance against the state of Israel. Seth Dillon was the more vocal of the two parties in the Hamptons, as I said, in terms of actually pressing Cha..."
-
-**[00:04:11](/episodes/ep-2Riv3I7D0Yk.md#ent-person-seth-dillon-t-00-03-33)**
-> "Seth Dillon and Josh were personally upset with Charlie (Char..."
-
-**[00:04:17](/episodes/ep-2Riv3I7D0Yk.md#ent-person-seth-dillon-t-00-04-17)**
-> "Seth Dillon was the more vocal of the two parties in the Hamp..."
-
-</details>
-
-<details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (7 mentions)</summary>
-
-**[00:47:18](/episodes/ep-2WEHTk0Xewg.md#ent-person-seth-dillon-t-00-46-47)**
-> "...line that much. But there was a huge effort by people—some of whom I know and have helped and like— Seth Dillon of the Babylon Bee, for example. Someone who had his own problems with free speech—who was famously..."
-
-**[00:47:25](/episodes/ep-2WEHTk0Xewg.md#ent-person-seth-dillon-t-00-46-47)**
-> "...e, for example. Someone who had his own problems with free speech—who was famously canceled. I like Seth Dillon. I had him on a couple of times. I had dinner with him to show support. Seth Dillon was out there d..."
-
-**[00:47:29](/episodes/ep-2WEHTk0Xewg.md#ent-person-seth-dillon-t-00-47-29)**
-> "...anceled. I like Seth Dillon. I had him on a couple of times. I had dinner with him to show support. Seth Dillon was out there demanding that Charlie (Charlie Kirk) take me off the roster—pull me off stage—becaus..."
-
-**[00:47:20](/episodes/ep-2WEHTk0Xewg.md#ent-person-seth-dillon-t-00-46-47)**
-> "Seth Dillon of the Babylon Bee, someone who had his own problems with free speech"
-
-**[00:47:18](/episodes/ep-2WEHTk0Xewg.md#ent-person-seth-dillon-t-00-46-47)**
-> "Seth Dillon of the Babylon Bee, for example."
-
-**[00:47:25](/episodes/ep-2WEHTk0Xewg.md#ent-person-seth-dillon-t-00-46-47)**
-> "I like Seth Dillon."
-
-**[00:47:29](/episodes/ep-2WEHTk0Xewg.md#ent-person-seth-dillon-t-00-47-29)**
-> "Seth Dillon was out there demanding that Charlie (Charlie Kir..."
-
-</details>
-
-<details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
-
-**[00:09:01](/episodes/ep-5autG89PW6w.md#ent-person-seth-dillon-t-00-08-20)**
-> "... for Knowles" if you want to bring that right back up. She wrote, "By the way, she used to work for Seth Dillon." So this is the usual chatter, a group of people. She wrote, "Is Candace posting fake group chat s..."
-
-**[00:09:01](/episodes/ep-5autG89PW6w.md#ent-person-seth-dillon-t-00-08-20)**
-> "...the way, she used to work for Seth Dillon.""
-
-</details>
-
-<details>
-<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (6 mentions)</summary>
-
-**[00:02:14](/episodes/ep-K5GjF53bfN4.md#ent-person-seth-dillon-t-00-01-58)**
-> "...arlie Kirk) had written him back in May. What I also don't like are the people like Josh Hammer and Seth Dillon, people that I know who are very nasty and work behind the scenes. I don't like that they have not ..."
-
-**[00:05:11](/episodes/ep-K5GjF53bfN4.md#ent-person-seth-dillon-t-00-05-11)**
-> "...you kind of removed the names that were involved in this conversation. Natasha Hausdorff was there, Seth Dillon was there, and Seth Dillon was the one that was applying pressure to him, and Seth Dillon and Josh ..."
-
-**[00:02:14](/episodes/ep-K5GjF53bfN4.md#ent-person-seth-dillon-t-00-01-58)**
-> "...e people like Josh Hammer and Seth Dillon, people that I know who are very nasty and work b..."
-
-**[00:05:11](/episodes/ep-K5GjF53bfN4.md#ent-person-seth-dillon-t-00-05-11)**
-> "Natasha Hausdorff was there, Seth Dillon was there, and Seth Dillon was the one that was a..."
-
-**[00:05:11](/episodes/ep-K5GjF53bfN4.md#ent-person-seth-dillon-t-00-05-11)**
-> "...e, Seth Dillon was there, and Seth Dillon was the one that was applying pressure to him, an..."
-
-**[00:05:11](/episodes/ep-K5GjF53bfN4.md#ent-person-seth-dillon-t-00-05-11)**
-> "...applying pressure to him, and Seth Dillon and Josh Hammer—Josh Hammer didn't jump on him in..."
+**[00:20:18](/episodes/ep-sImMM04XdWY.md#ent-person-seth-dillon-t-00-19-39)**
+> "Seth Dillon disputes that narrative."
 
 </details>
 
@@ -103,6 +37,67 @@ _Type: People_
 
 **[00:24:12](/episodes/ep-MUA9ebCF4Ow.md#ent-person-seth-dillon-t-00-23-50)**
 > "Seth Dillon did press Charlie (Charlie Kirk)."
+
+</details>
+
+<details>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (3 mentions)</summary>
+
+**[00:28:13](/episodes/ep-YaZfwLQ7vrI.md#ent-person-seth-dillon-t-00-27-42)**
+> "...ripture, right? When my show hit number one globally last week, it was just an all-out virtual war. Seth Dillon, the Babylon Bee—we did this. This is hilarious. He obviously just tweets a verse, trying to make i..."
+
+**[00:28:13](/episodes/ep-YaZfwLQ7vrI.md#ent-person-seth-dillon-t-00-27-42)**
+> "Seth Dillon from Babylon Bee tweeted Scripture verse at Candace when show hit #1"
+
+**[00:28:13](/episodes/ep-YaZfwLQ7vrI.md#ent-person-seth-dillon-t-00-27-42)**
+> "Seth Dillon, the Babylon Bee—we did this."
+
+</details>
+
+<details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (14 mentions)</summary>
+
+**[00:10:37](/episodes/ep-r1PS67aRmcA.md#ent-person-seth-dillon-t-00-10-37)**
+> "...ering her own husband? She's accusing TPUSA insiders and other members of the right wing, including Seth Dillon, of being involved in the murder of Charlie (Charlie Kirk). Yes. I don't even know how to respond t..."
+
+**[00:11:11](/episodes/ep-r1PS67aRmcA.md#ent-person-seth-dillon-t-00-10-50)**
+> "...hes, and I have focused my investigation on Turning Point USA and why they're telling certain lies. Seth Dillon, I told the truth that Seth Dillon lied about the Hamptons meeting and that he was pushing; he was ..."
+
+**[00:11:20](/episodes/ep-r1PS67aRmcA.md#ent-person-seth-dillon-t-00-10-50)**
+> "...s pushing; he was pressuring Charlie (Charlie Kirk) about the topic of Israel. I never once accused Seth Dillon of murdering Charlie (Charlie Kirk). So what's he actually doing here, right? Obviously, there's a ..."
+
+**[00:24:39](/episodes/ep-r1PS67aRmcA.md#ent-person-seth-dillon-t-00-24-31)**
+> "...Like maybe that is evil. Like that's, does that happen? He doubles down; he's like, yes. She said, "Seth Dillon murdered Charlie (Charlie Kirk)." Will you disavow this evil on the spot? That is moral blackmail. ..."
+
+**[00:49:53](/episodes/ep-r1PS67aRmcA.md#ent-person-seth-dillon-t-00-49-40)**
+> "...to lie like that. OK, and he knew I didn't say it. There's not a chance that he thought that I said Seth Dillon murdered Charlie (Charlie Kirk) or Erika Kirk murdered Charlie (Charlie Kirk). So he's showing his ..."
+
+**[00:10:37](/episodes/ep-r1PS67aRmcA.md#ent-person-seth-dillon-t-00-10-37)**
+> "... of the right wing, including Seth Dillon (Seth Dillon), of being involved in the murder of..."
+
+**[00:10:37](/episodes/ep-r1PS67aRmcA.md#ent-person-seth-dillon-t-00-10-37)**
+> "... wing, including Seth Dillon (Seth Dillon), of being involved in the murder of Charlie (Cha..."
+
+**[00:11:11](/episodes/ep-r1PS67aRmcA.md#ent-person-seth-dillon-t-00-10-50)**
+> "Seth Dillon (Seth Dillon), I told the truth that Seth Dillon ..."
+
+**[00:11:11](/episodes/ep-r1PS67aRmcA.md#ent-person-seth-dillon-t-00-10-50)**
+> "...illon), I told the truth that Seth Dillon (Seth Dillon) lied about the Hamptons meeting and..."
+
+**[00:11:11](/episodes/ep-r1PS67aRmcA.md#ent-person-seth-dillon-t-00-10-50)**
+> "...d the truth that Seth Dillon (Seth Dillon) lied about the Hamptons meeting and that he was ..."
+
+**[00:11:20](/episodes/ep-r1PS67aRmcA.md#ent-person-seth-dillon-t-00-10-50)**
+> "I never once accused Seth Dillon (Seth Dillon) of murdering Charlie (Charlie Kirk)..."
+
+**[00:11:20](/episodes/ep-r1PS67aRmcA.md#ent-person-seth-dillon-t-00-10-50)**
+> "...ver once accused Seth Dillon (Seth Dillon) of murdering Charlie (Charlie Kirk)."
+
+**[00:24:39](/episodes/ep-r1PS67aRmcA.md#ent-person-seth-dillon-t-00-24-31)**
+> "She said, "Seth Dillon (Seth Dillon) murdered Charlie (Charlie Kirk).""
+
+**[00:49:53](/episodes/ep-r1PS67aRmcA.md#ent-person-seth-dillon-t-00-49-40)**
+> "...e that he thought that I said Seth Dillon murdered Charlie (Charlie Kirk) or Erika Kirk mur..."
 
 </details>
 
@@ -126,58 +121,6 @@ _Type: People_
 
 **[00:36:05](/episodes/ep-YFmRH8p5lt0.md#ent-person-seth-dillon-t-00-35-27)**
 > "People that were there said Seth Dillon was rowdy and pushing Charlie (Charlie Kirk) and ..."
-
-</details>
-
-<details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (3 mentions)</summary>
-
-**[00:28:13](/episodes/ep-YaZfwLQ7vrI.md#ent-person-seth-dillon-t-00-27-42)**
-> "...ripture, right? When my show hit number one globally last week, it was just an all-out virtual war. Seth Dillon, the Babylon Bee—we did this. This is hilarious. He obviously just tweets a verse, trying to make i..."
-
-**[00:28:13](/episodes/ep-YaZfwLQ7vrI.md#ent-person-seth-dillon-t-00-27-42)**
-> "Seth Dillon from Babylon Bee tweeted Scripture verse at Candace when show hit #1"
-
-**[00:28:13](/episodes/ep-YaZfwLQ7vrI.md#ent-person-seth-dillon-t-00-27-42)**
-> "Seth Dillon, the Babylon Bee—we did this."
-
-</details>
-
-<details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (11 mentions)</summary>
-
-**[00:18:39](/episodes/ep-czVBmqZP6Ss.md#ent-person-seth-dillon-t-00-18-33)**
-> "...n that was there—and I am not surprised this person was there. If you've been listening to my show, Seth Dillon, I was going to go out to Seth Dillon, and I decided to message him last night about this Hamptons ..."
-
-**[00:18:42](/episodes/ep-czVBmqZP6Ss.md#ent-person-seth-dillon-t-00-18-33)**
-> "...d this person was there. If you've been listening to my show, Seth Dillon, I was going to go out to Seth Dillon, and I decided to message him last night about this Hamptons meeting. And Seth Dillon, who is norma..."
-
-**[00:18:49](/episodes/ep-czVBmqZP6Ss.md#ent-person-seth-dillon-t-00-18-33)**
-> "... to go out to Seth Dillon, and I decided to message him last night about this Hamptons meeting. And Seth Dillon, who is normally very quick with a response, has not yet been able to respond. I'll show you this t..."
-
-**[00:19:12](/episodes/ep-czVBmqZP6Ss.md#ent-person-seth-dillon-t-00-18-33)**
-> "...te right now to be polite when it comes to the answers that I am demanding, okay? This is me out to Seth Dillon last night. I sent him Bill Ackman's tweets because, you know, he tweeted, “I feel incredibly privi..."
-
-**[00:25:24](/episodes/ep-czVBmqZP6Ss.md#ent-person-seth-dillon-t-00-25-24)**
-> "...en he had left that meeting, that he had effectively been blackmailed. Again, my platform is yours, Seth Dillon. My platform is yours, Bill Ackman. So if you wanna clarify it, we can do it in front of millions, ..."
-
-**[00:23:59](/episodes/ep-czVBmqZP6Ss.md#ent-person-seth-dillon-t-00-18-33)**
-> "If you've been listening to my show, Seth Dillon, I was going to go out to Seth Dillon"
-
-**[00:18:39](/episodes/ep-czVBmqZP6Ss.md#ent-person-seth-dillon-t-00-18-33)**
-> "...ve been listening to my show, Seth Dillon,"
-
-**[00:18:42](/episodes/ep-czVBmqZP6Ss.md#ent-person-seth-dillon-t-00-18-33)**
-> "I was going to go out to Seth Dillon, and I decided to message him last night about th..."
-
-**[00:18:49](/episodes/ep-czVBmqZP6Ss.md#ent-person-seth-dillon-t-00-18-33)**
-> "And Seth Dillon, who is normally very quick with a response, has ..."
-
-**[00:19:12](/episodes/ep-czVBmqZP6Ss.md#ent-person-seth-dillon-t-00-18-33)**
-> "This is me out to Seth Dillon last night."
-
-**[00:25:24](/episodes/ep-czVBmqZP6Ss.md#ent-person-seth-dillon-t-00-25-24)**
-> "Again, my platform is yours, Seth Dillon."
 
 </details>
 
@@ -262,6 +205,68 @@ _Type: People_
 </details>
 
 <details>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (2 mentions)</summary>
+
+**[00:44:40](/episodes/ep-pc3pxRyNFZk.md#ent-person-seth-dillon-t-00-44-21)**
+> ".... And so he was releasing a statement about how wonderful the Hamptons retreat was and that him and Seth Dillon totally did not press Charlie (Charlie Kirk) on anything. And in this public statement, he mentione..."
+
+**[00:44:40](/episodes/ep-pc3pxRyNFZk.md#ent-person-seth-dillon-t-00-44-21)**
+> "... retreat was and that him and Seth Dillon totally did not press Charlie (Charlie Kirk) on a..."
+
+</details>
+
+<details>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (4 mentions)</summary>
+
+**[00:04:11](/episodes/ep-2Riv3I7D0Yk.md#ent-person-seth-dillon-t-00-03-33)**
+> "...k)'s views were changing. He lied about the Hamptons meeting. I've told you the truth from day one. Seth Dillon and Josh were personally upset with Charlie (Charlie Kirk)'s defiance against the state of Israel. ..."
+
+**[00:04:17](/episodes/ep-2Riv3I7D0Yk.md#ent-person-seth-dillon-t-00-04-17)**
+> "... and Josh were personally upset with Charlie (Charlie Kirk)'s defiance against the state of Israel. Seth Dillon was the more vocal of the two parties in the Hamptons, as I said, in terms of actually pressing Cha..."
+
+**[00:04:11](/episodes/ep-2Riv3I7D0Yk.md#ent-person-seth-dillon-t-00-03-33)**
+> "Seth Dillon and Josh were personally upset with Charlie (Char..."
+
+**[00:04:17](/episodes/ep-2Riv3I7D0Yk.md#ent-person-seth-dillon-t-00-04-17)**
+> "Seth Dillon was the more vocal of the two parties in the Hamp..."
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
+
+**[00:09:01](/episodes/ep-5autG89PW6w.md#ent-person-seth-dillon-t-00-08-20)**
+> "... for Knowles" if you want to bring that right back up. She wrote, "By the way, she used to work for Seth Dillon." So this is the usual chatter, a group of people. She wrote, "Is Candace posting fake group chat s..."
+
+**[00:09:01](/episodes/ep-5autG89PW6w.md#ent-person-seth-dillon-t-00-08-20)**
+> "...the way, she used to work for Seth Dillon.""
+
+</details>
+
+<details>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (6 mentions)</summary>
+
+**[00:02:14](/episodes/ep-K5GjF53bfN4.md#ent-person-seth-dillon-t-00-01-58)**
+> "...arlie Kirk) had written him back in May. What I also don't like are the people like Josh Hammer and Seth Dillon, people that I know who are very nasty and work behind the scenes. I don't like that they have not ..."
+
+**[00:05:11](/episodes/ep-K5GjF53bfN4.md#ent-person-seth-dillon-t-00-05-11)**
+> "...you kind of removed the names that were involved in this conversation. Natasha Hausdorff was there, Seth Dillon was there, and Seth Dillon was the one that was applying pressure to him, and Seth Dillon and Josh ..."
+
+**[00:02:14](/episodes/ep-K5GjF53bfN4.md#ent-person-seth-dillon-t-00-01-58)**
+> "...e people like Josh Hammer and Seth Dillon, people that I know who are very nasty and work b..."
+
+**[00:05:11](/episodes/ep-K5GjF53bfN4.md#ent-person-seth-dillon-t-00-05-11)**
+> "Natasha Hausdorff was there, Seth Dillon was there, and Seth Dillon was the one that was a..."
+
+**[00:05:11](/episodes/ep-K5GjF53bfN4.md#ent-person-seth-dillon-t-00-05-11)**
+> "...e, Seth Dillon was there, and Seth Dillon was the one that was applying pressure to him, an..."
+
+**[00:05:11](/episodes/ep-K5GjF53bfN4.md#ent-person-seth-dillon-t-00-05-11)**
+> "...applying pressure to him, and Seth Dillon and Josh Hammer—Josh Hammer didn't jump on him in..."
+
+</details>
+
+<details>
 <summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2 mentions)</summary>
 
 **[00:30:13](/episodes/ep-ja26iltROkM.md#ent-person-seth-dillon-t-00-29-48)**
@@ -273,13 +278,28 @@ _Type: People_
 </details>
 
 <details>
-<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (2 mentions)</summary>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (7 mentions)</summary>
 
-**[00:44:40](/episodes/ep-pc3pxRyNFZk.md#ent-person-seth-dillon-t-00-44-21)**
-> ".... And so he was releasing a statement about how wonderful the Hamptons retreat was and that him and Seth Dillon totally did not press Charlie (Charlie Kirk) on anything. And in this public statement, he mentione..."
+**[00:47:18](/episodes/ep-2WEHTk0Xewg.md#ent-person-seth-dillon-t-00-46-47)**
+> "...line that much. But there was a huge effort by people—some of whom I know and have helped and like— Seth Dillon of the Babylon Bee, for example. Someone who had his own problems with free speech—who was famously..."
 
-**[00:44:40](/episodes/ep-pc3pxRyNFZk.md#ent-person-seth-dillon-t-00-44-21)**
-> "... retreat was and that him and Seth Dillon totally did not press Charlie (Charlie Kirk) on a..."
+**[00:47:25](/episodes/ep-2WEHTk0Xewg.md#ent-person-seth-dillon-t-00-46-47)**
+> "...e, for example. Someone who had his own problems with free speech—who was famously canceled. I like Seth Dillon. I had him on a couple of times. I had dinner with him to show support. Seth Dillon was out there d..."
+
+**[00:47:29](/episodes/ep-2WEHTk0Xewg.md#ent-person-seth-dillon-t-00-47-29)**
+> "...anceled. I like Seth Dillon. I had him on a couple of times. I had dinner with him to show support. Seth Dillon was out there demanding that Charlie (Charlie Kirk) take me off the roster—pull me off stage—becaus..."
+
+**[00:47:20](/episodes/ep-2WEHTk0Xewg.md#ent-person-seth-dillon-t-00-46-47)**
+> "Seth Dillon of the Babylon Bee, someone who had his own problems with free speech"
+
+**[00:47:18](/episodes/ep-2WEHTk0Xewg.md#ent-person-seth-dillon-t-00-46-47)**
+> "Seth Dillon of the Babylon Bee, for example."
+
+**[00:47:25](/episodes/ep-2WEHTk0Xewg.md#ent-person-seth-dillon-t-00-46-47)**
+> "I like Seth Dillon."
+
+**[00:47:29](/episodes/ep-2WEHTk0Xewg.md#ent-person-seth-dillon-t-00-47-29)**
+> "Seth Dillon was out there demanding that Charlie (Charlie Kir..."
 
 </details>
 
@@ -316,60 +336,40 @@ _Type: People_
 </details>
 
 <details>
-<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (14 mentions)</summary>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (11 mentions)</summary>
 
-**[00:10:37](/episodes/ep-r1PS67aRmcA.md#ent-person-seth-dillon-t-00-10-37)**
-> "...ering her own husband? She's accusing TPUSA insiders and other members of the right wing, including Seth Dillon, of being involved in the murder of Charlie (Charlie Kirk). Yes. I don't even know how to respond t..."
+**[00:18:39](/episodes/ep-czVBmqZP6Ss.md#ent-person-seth-dillon-t-00-18-33)**
+> "...n that was there—and I am not surprised this person was there. If you've been listening to my show, Seth Dillon, I was going to go out to Seth Dillon, and I decided to message him last night about this Hamptons ..."
 
-**[00:11:11](/episodes/ep-r1PS67aRmcA.md#ent-person-seth-dillon-t-00-10-50)**
-> "...hes, and I have focused my investigation on Turning Point USA and why they're telling certain lies. Seth Dillon, I told the truth that Seth Dillon lied about the Hamptons meeting and that he was pushing; he was ..."
+**[00:18:42](/episodes/ep-czVBmqZP6Ss.md#ent-person-seth-dillon-t-00-18-33)**
+> "...d this person was there. If you've been listening to my show, Seth Dillon, I was going to go out to Seth Dillon, and I decided to message him last night about this Hamptons meeting. And Seth Dillon, who is norma..."
 
-**[00:11:20](/episodes/ep-r1PS67aRmcA.md#ent-person-seth-dillon-t-00-10-50)**
-> "...s pushing; he was pressuring Charlie (Charlie Kirk) about the topic of Israel. I never once accused Seth Dillon of murdering Charlie (Charlie Kirk). So what's he actually doing here, right? Obviously, there's a ..."
+**[00:18:49](/episodes/ep-czVBmqZP6Ss.md#ent-person-seth-dillon-t-00-18-33)**
+> "... to go out to Seth Dillon, and I decided to message him last night about this Hamptons meeting. And Seth Dillon, who is normally very quick with a response, has not yet been able to respond. I'll show you this t..."
 
-**[00:24:39](/episodes/ep-r1PS67aRmcA.md#ent-person-seth-dillon-t-00-24-31)**
-> "...Like maybe that is evil. Like that's, does that happen? He doubles down; he's like, yes. She said, "Seth Dillon murdered Charlie (Charlie Kirk)." Will you disavow this evil on the spot? That is moral blackmail. ..."
+**[00:19:12](/episodes/ep-czVBmqZP6Ss.md#ent-person-seth-dillon-t-00-18-33)**
+> "...te right now to be polite when it comes to the answers that I am demanding, okay? This is me out to Seth Dillon last night. I sent him Bill Ackman's tweets because, you know, he tweeted, “I feel incredibly privi..."
 
-**[00:49:53](/episodes/ep-r1PS67aRmcA.md#ent-person-seth-dillon-t-00-49-40)**
-> "...to lie like that. OK, and he knew I didn't say it. There's not a chance that he thought that I said Seth Dillon murdered Charlie (Charlie Kirk) or Erika Kirk murdered Charlie (Charlie Kirk). So he's showing his ..."
+**[00:25:24](/episodes/ep-czVBmqZP6Ss.md#ent-person-seth-dillon-t-00-25-24)**
+> "...en he had left that meeting, that he had effectively been blackmailed. Again, my platform is yours, Seth Dillon. My platform is yours, Bill Ackman. So if you wanna clarify it, we can do it in front of millions, ..."
 
-**[00:10:37](/episodes/ep-r1PS67aRmcA.md#ent-person-seth-dillon-t-00-10-37)**
-> "... of the right wing, including Seth Dillon (Seth Dillon), of being involved in the murder of..."
+**[00:23:59](/episodes/ep-czVBmqZP6Ss.md#ent-person-seth-dillon-t-00-18-33)**
+> "If you've been listening to my show, Seth Dillon, I was going to go out to Seth Dillon"
 
-**[00:10:37](/episodes/ep-r1PS67aRmcA.md#ent-person-seth-dillon-t-00-10-37)**
-> "... wing, including Seth Dillon (Seth Dillon), of being involved in the murder of Charlie (Cha..."
+**[00:18:39](/episodes/ep-czVBmqZP6Ss.md#ent-person-seth-dillon-t-00-18-33)**
+> "...ve been listening to my show, Seth Dillon,"
 
-**[00:11:11](/episodes/ep-r1PS67aRmcA.md#ent-person-seth-dillon-t-00-10-50)**
-> "Seth Dillon (Seth Dillon), I told the truth that Seth Dillon ..."
+**[00:18:42](/episodes/ep-czVBmqZP6Ss.md#ent-person-seth-dillon-t-00-18-33)**
+> "I was going to go out to Seth Dillon, and I decided to message him last night about th..."
 
-**[00:11:11](/episodes/ep-r1PS67aRmcA.md#ent-person-seth-dillon-t-00-10-50)**
-> "...illon), I told the truth that Seth Dillon (Seth Dillon) lied about the Hamptons meeting and..."
+**[00:18:49](/episodes/ep-czVBmqZP6Ss.md#ent-person-seth-dillon-t-00-18-33)**
+> "And Seth Dillon, who is normally very quick with a response, has ..."
 
-**[00:11:11](/episodes/ep-r1PS67aRmcA.md#ent-person-seth-dillon-t-00-10-50)**
-> "...d the truth that Seth Dillon (Seth Dillon) lied about the Hamptons meeting and that he was ..."
+**[00:19:12](/episodes/ep-czVBmqZP6Ss.md#ent-person-seth-dillon-t-00-18-33)**
+> "This is me out to Seth Dillon last night."
 
-**[00:11:20](/episodes/ep-r1PS67aRmcA.md#ent-person-seth-dillon-t-00-10-50)**
-> "I never once accused Seth Dillon (Seth Dillon) of murdering Charlie (Charlie Kirk)..."
-
-**[00:11:20](/episodes/ep-r1PS67aRmcA.md#ent-person-seth-dillon-t-00-10-50)**
-> "...ver once accused Seth Dillon (Seth Dillon) of murdering Charlie (Charlie Kirk)."
-
-**[00:24:39](/episodes/ep-r1PS67aRmcA.md#ent-person-seth-dillon-t-00-24-31)**
-> "She said, "Seth Dillon (Seth Dillon) murdered Charlie (Charlie Kirk).""
-
-**[00:49:53](/episodes/ep-r1PS67aRmcA.md#ent-person-seth-dillon-t-00-49-40)**
-> "...e that he thought that I said Seth Dillon murdered Charlie (Charlie Kirk) or Erika Kirk mur..."
-
-</details>
-
-<details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
-
-**[00:20:18](/episodes/ep-sImMM04XdWY.md#ent-person-seth-dillon-t-00-19-39)**
-> "...ie (Charlie Kirk) himself described it as an intervention, and Bill Ackman disputes that narrative. Seth Dillon disputes that narrative. Bibi (Benjamin Netanyahu) offers to take Turning Point to the next level f..."
-
-**[00:20:18](/episodes/ep-sImMM04XdWY.md#ent-person-seth-dillon-t-00-19-39)**
-> "Seth Dillon disputes that narrative."
+**[00:25:24](/episodes/ep-czVBmqZP6Ss.md#ent-person-seth-dillon-t-00-25-24)**
+> "Again, my platform is yours, Seth Dillon."
 
 </details>
 
@@ -377,14 +377,6 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
-
-<details>
-<summary>Affiliated With (1)</summary>
-
-- **[Josh Hammer](/entities/person-josh-hammer.md)**
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:23](/episodes/ep-K5GjF53bfN4.md#t-00-01-58): "people like Josh Hammer and Seth Dillon, people that I know who are very nasty and work behind the scenes"
-
-</details>
 
 <details>
 <summary>Critic Of (1)</summary>
@@ -433,10 +425,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
-
-- **[Josh Hammer](/entities/person-josh-hammer.md)** affiliated with this
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:23](/episodes/ep-K5GjF53bfN4.md#t-00-01-58)
+<summary>Referenced By (8)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** criticized by this
   - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58)
@@ -471,6 +460,13 @@ _Type: People_
 <summary><strong class="section-title">Statements about Seth Dillon (6)</strong></summary>
 
 <details>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1)</summary>
+
+- [00:35:18](/episodes/ep-iHav0PPzUz8.md#t-00-34-51) (Accusation) **Candace Owens**: ["Seth Dillon pressed Charlie Kirk at the Hamptons Summit a couple of we..."](/statements/statement-f0c2628006da.md)
+
+</details>
+
+<details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (3)</summary>
 
 - [00:04:11](/episodes/ep-2Riv3I7D0Yk.md#t-00-03-33) (Accusation) **Candace Owens**: ["Seth Dillon and Josh Hammer were personally upset with Charlie Kirk's ..."](/statements/statement-ef1df5d865e9.md)
@@ -488,13 +484,6 @@ _Type: People_
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (1)</summary>
 
 - [00:47:18](/episodes/ep-2WEHTk0Xewg.md#t-00-46-47) (Accusation) **Tucker Carlson** (via quoted speech): ["Seth Dillon of the Babylon Bee was demanding that Charlie Kirk take Tu..."](/statements/statement-b6186ebec191.md)
-
-</details>
-
-<details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1)</summary>
-
-- [00:35:18](/episodes/ep-iHav0PPzUz8.md#t-00-34-51) (Accusation) **Candace Owens**: ["Seth Dillon pressed Charlie Kirk at the Hamptons Summit a couple of we..."](/statements/statement-f0c2628006da.md)
 
 </details>
 

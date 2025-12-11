@@ -18,38 +18,6 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (9 mentions)</summary>
-
-**[00:00:18](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-00-01)**
-> "...2-year-old alleged killer of Charlie (Charlie Kirk), Tyler Robinson, and his 22-year-old boyfriend, Lance Twiggs. The first term I want you to search is "retrieve." Look it up. When was the last time that you use..."
-
-**[00:25:14](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-24-54)**
-> "...t apparently what happens is then they bring Lance in. At 11 p.m.-ish—we'll tell you around 11 p.m.—Lance Twiggs is brought in for questioning. Okay, and shortly thereafter, that apartment is raided. And I say ov..."
-
-**[00:36:17](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-35-53)**
-> "... yet. They released him instantly, and they said "job done." So I would like more information about Lance Twiggs. Okay, I already don't like that mom received a bachelor of science from Stanford University in psy..."
-
-**[00:41:33](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-41-13)**
-> "... is a federal level of corruption and conspiracy involved in this murder, okay? From George Zinn to Lance Twiggs, the unanswered questions were like: What was he doing at home? What does he do for a living? Did t..."
-
-**[00:00:18](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-00-01)**
-> "the alleged conversation held between Tyler Robinson and his 22-year-old boyfriend, Lance Twiggs"
-
-**[00:00:18](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-00-01)**
-> "...nd his 22-year-old boyfriend, Lance Twiggs."
-
-**[00:25:14](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-24-54)**
-> "...we'll tell you around 11 p.m.—Lance Twiggs is brought in for questioning."
-
-**[00:36:17](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-35-53)**
-> "...d like more information about Lance Twiggs."
-
-**[00:41:33](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-41-13)**
-> "From George Zinn to Lance Twiggs, the unanswered questions were like: What was he ..."
-
-</details>
-
-<details>
 <summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (5 mentions)</summary>
 
 **[00:30:10](/episodes/ep-5autG89PW6w.md#ent-person-lance-twiggs-t-00-29-56)**
@@ -115,6 +83,38 @@ _Type: People_
 
 **[00:44:47](/episodes/ep-aDlhjfW6hz8.md#ent-person-lance-twiggs-t-00-44-23)**
 > "that ridiculous made-up text chain between Tyler Robinson and his lover Lance"
+
+</details>
+
+<details>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (9 mentions)</summary>
+
+**[00:00:18](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-00-01)**
+> "...2-year-old alleged killer of Charlie (Charlie Kirk), Tyler Robinson, and his 22-year-old boyfriend, Lance Twiggs. The first term I want you to search is "retrieve." Look it up. When was the last time that you use..."
+
+**[00:25:14](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-24-54)**
+> "...t apparently what happens is then they bring Lance in. At 11 p.m.-ish—we'll tell you around 11 p.m.—Lance Twiggs is brought in for questioning. Okay, and shortly thereafter, that apartment is raided. And I say ov..."
+
+**[00:36:17](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-35-53)**
+> "... yet. They released him instantly, and they said "job done." So I would like more information about Lance Twiggs. Okay, I already don't like that mom received a bachelor of science from Stanford University in psy..."
+
+**[00:41:33](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-41-13)**
+> "... is a federal level of corruption and conspiracy involved in this murder, okay? From George Zinn to Lance Twiggs, the unanswered questions were like: What was he doing at home? What does he do for a living? Did t..."
+
+**[00:00:18](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-00-01)**
+> "the alleged conversation held between Tyler Robinson and his 22-year-old boyfriend, Lance Twiggs"
+
+**[00:00:18](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-00-01)**
+> "...nd his 22-year-old boyfriend, Lance Twiggs."
+
+**[00:25:14](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-24-54)**
+> "...we'll tell you around 11 p.m.—Lance Twiggs is brought in for questioning."
+
+**[00:36:17](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-35-53)**
+> "...d like more information about Lance Twiggs."
+
+**[00:41:33](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-41-13)**
+> "From George Zinn to Lance Twiggs, the unanswered questions were like: What was he ..."
 
 </details>
 
@@ -261,32 +261,11 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Dating (1)</summary>
-
-- **[Tyler Robinson](/entities/person-tyler-robinson.md)**
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#t-00-00-01): "the 22-year-old alleged killer of Charlie Kirk, Tyler Robinson, and his 22-year-old boyfriend, Lance Twiggs."
-  - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:00:45](/episodes/ep-q7f8r-THr84.md#t-00-00-01): "the indictment against Tyler Robinson was just released, and I have a lot of questions that I think need to be answered regarding his trans boyfriend, Lance Twiggs."
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#t-00-00-01): "the alleged conversation held between the 22-year-old alleged killer of Charlie Kirk, Tyler Robinson, and his 22-year-old boyfriend, Lance Twiggs."
-
-</details>
-
-<details>
-<summary>Worked With (1)</summary>
-
-- **[FBI](/entities/org-fbi.md)**
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:51:08](/episodes/ep-czVBmqZP6Ss.md#t-00-51-05): "that he is cooperating with authorities as well."
-
-</details>
-
-<details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (1)</summary>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)** dating this
   - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#t-00-00-01)
   - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:00:45](/episodes/ep-q7f8r-THr84.md#t-00-00-01)
-
-- **[FBI](/entities/org-fbi.md)** worked with this
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:51:08](/episodes/ep-czVBmqZP6Ss.md#t-00-51-05)
 
 </details>
 

@@ -13,17 +13,6 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>To My Friend, Charlie Kirk. (2 mentions)</summary>
-
-**[00:08:13](/episodes/ep-_dRaEO47-co.md#ent-person-eric-trump-t-00-07-52)**
-> "...it was actually him and Eric (Eric Trump)."
-
-**[00:08:24](/episodes/ep-_dRaEO47-co.md#ent-person-eric-trump-t-00-07-52)**
-> "... (Donald Trump Jr.) and Eric (Eric Trump) got him a gift certificate—I think it was for hi..."
-
-</details>
-
-<details>
 <summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (6 mentions)</summary>
 
 **[00:39:07](/episodes/ep-r1PS67aRmcA.md#ent-person-eric-trump-t-00-39-03)**
@@ -43,6 +32,17 @@ _Type: People_
 
 **[00:42:14](/episodes/ep-r1PS67aRmcA.md#ent-person-eric-trump-t-00-41-57)**
 > "And Eric (Eric Trump), by the way, works very hard, you know, running ..."
+
+</details>
+
+<details>
+<summary>To My Friend, Charlie Kirk. (2 mentions)</summary>
+
+**[00:08:13](/episodes/ep-_dRaEO47-co.md#ent-person-eric-trump-t-00-07-52)**
+> "...it was actually him and Eric (Eric Trump)."
+
+**[00:08:24](/episodes/ep-_dRaEO47-co.md#ent-person-eric-trump-t-00-07-52)**
+> "... (Donald Trump Jr.) and Eric (Eric Trump) got him a gift certificate—I think it was for hi..."
 
 </details>
 
@@ -68,21 +68,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>Married To (1)</summary>
-
-- **[Lara Trump](/entities/person-lara-trump.md)**
-  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:08:20](/episodes/ep-r1PS67aRmcA.md#t-00-07-46): "Eric Trump and Lara Trump"
-
-</details>
-
-<details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
   - [To My Friend, Charlie Kirk. @ 00:08:24](/episodes/ep-_dRaEO47-co.md#t-00-07-52)
-
-- **[Lara Trump](/entities/person-lara-trump.md)** married to this
-  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:08:20](/episodes/ep-r1PS67aRmcA.md#t-00-07-46)
 
 - **[Donald Trump](/entities/person-donald-trump.md)** parent of this
   - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:08:25](/episodes/ep-r1PS67aRmcA.md#t-00-07-46)

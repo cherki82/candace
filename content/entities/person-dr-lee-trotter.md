@@ -13,6 +13,20 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
+
+**[00:14:47](/episodes/ep-mKXdKV-OBog.md#ent-person-dr-lee-trotter-t-00-14-17)**
+> "...e list of military connects in this story is just too long, okay? Charlie (Charlie Kirk)'s surgeon, Dr. Lee Trotter—the alleged surgeon who apparently spoke about the miracle; we're supposed to assume spoke about th..."
+
+**[00:15:11](/episodes/ep-mKXdKV-OBog.md#ent-person-dr-lee-trotter-t-00-14-17)**
+> "Dr. Lee Trotter, Charlie's surgeon, did residency at Air Force base"
+
+**[00:14:47](/episodes/ep-mKXdKV-OBog.md#ent-person-dr-lee-trotter-t-00-14-17)**
+> "...lie (Charlie Kirk)'s surgeon, Dr. Lee Trotter—the alleged surgeon who apparently spoke about th..."
+
+</details>
+
+<details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (7 mentions)</summary>
 
 **[00:29:11](/episodes/ep-Cq7nj9rxPdo.md#ent-person-dr-lee-trotter-t-00-28-37)**
@@ -35,20 +49,6 @@ _Type: People_
 
 **[00:35:07](/episodes/ep-Cq7nj9rxPdo.md#ent-person-dr-lee-trotter-t-00-35-07)**
 > "maybe Dr. Lee Trotter—which I have heard works at both—limited surgeons..."
-
-</details>
-
-<details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
-
-**[00:14:47](/episodes/ep-mKXdKV-OBog.md#ent-person-dr-lee-trotter-t-00-14-17)**
-> "...e list of military connects in this story is just too long, okay? Charlie (Charlie Kirk)'s surgeon, Dr. Lee Trotter—the alleged surgeon who apparently spoke about the miracle; we're supposed to assume spoke about th..."
-
-**[00:15:11](/episodes/ep-mKXdKV-OBog.md#ent-person-dr-lee-trotter-t-00-14-17)**
-> "Dr. Lee Trotter, Charlie's surgeon, did residency at Air Force base"
-
-**[00:14:47](/episodes/ep-mKXdKV-OBog.md#ent-person-dr-lee-trotter-t-00-14-17)**
-> "...lie (Charlie Kirk)'s surgeon, Dr. Lee Trotter—the alleged surgeon who apparently spoke about th..."
 
 </details>
 

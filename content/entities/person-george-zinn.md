@@ -17,49 +17,24 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (14 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
 
-**[00:07:18](/episodes/ep-2WEHTk0Xewg.md#ent-person-george-zinn-t-00-07-18)**
-> "... pretty simply. Why? Because we know—we can pull up this timeline—that they at first thought it was George Zinn. So that's who he's referencing: some crazy old dude. And on the timeline, Skylar, if you wanna pul..."
+**[00:28:28](/episodes/ep-sImMM04XdWY.md#ent-person-george-zinn-t-00-27-47)**
+> "... How many times does this come up in the Charlie (Charlie Kirk) story? Whether you're talking about George Zinn or the person that jumped up and screamed or the pastors, the Calvary Chapel that for whatever reas..."
 
-**[00:07:35](/episodes/ep-2WEHTk0Xewg.md#ent-person-george-zinn-t-00-07-18)**
-> "... we can go through it—what time Charlie (Charlie Kirk) gets shot? At 12:23 p.m.? Scroll down a bit. George Zinn. We learn about 30 minutes after that. George Zinn, the decoy boy—that's when it's announced that h..."
+**[00:28:28](/episodes/ep-sImMM04XdWY.md#ent-person-george-zinn-t-00-27-47)**
+> "Whether you're talking about George Zinn or the person that jumped up and screamed or the ..."
 
-**[00:33:32](/episodes/ep-2WEHTk0Xewg.md#ent-person-george-zinn-t-00-33-03)**
-> "...ay? I don't know—no—but I know, okay? I don't know—no—but I know. It makes sense in the timeline of George Zinn, the decoy boy, that we've got other people that are doing different things. And they do not want u..."
+</details>
 
-**[00:41:33](/episodes/ep-2WEHTk0Xewg.md#ent-person-george-zinn-t-00-41-13)**
-> "...w believe there is a federal level of corruption and conspiracy involved in this murder, okay? From George Zinn to Lance Twiggs, the unanswered questions were like: What was he doing at home? What does he do for..."
+<details>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2 mentions)</summary>
 
-**[01:06:02](/episodes/ep-2WEHTk0Xewg.md#ent-person-george-zinn-t-01-06-00)**
-> "...e not being told the truth, and I think that there are multiple people that were involved—including George Zinn. That's my overarching theory at the moment: George Zinn with this decoy thing that makes entirely ..."
+**[00:42:21](/episodes/ep-Qfwr08Ebczo.md#ent-person-george-zinn-t-00-41-54)**
+> "... All right, comments from today's episode. Laughing Cats Music World writes, "I keep thinking about George Zinn. I know he was a habitual Salt Lake City event disruptor, but what are the chances his reflex is to..."
 
-**[01:06:08](/episodes/ep-2WEHTk0Xewg.md#ent-person-george-zinn-t-01-06-00)**
-> "...ltiple people that were involved—including George Zinn. That's my overarching theory at the moment: George Zinn with this decoy thing that makes entirely no sense to me. And it will make sense if there's more pe..."
-
-**[00:07:17](/episodes/ep-2WEHTk0Xewg.md#ent-person-george-zinn-t-00-07-18)**
-> "George Zinn. We learn about 30 minutes after that. George Zinn, the decoy boy"
-
-**[00:07:18](/episodes/ep-2WEHTk0Xewg.md#ent-person-george-zinn-t-00-07-18)**
-> "... they at first thought it was George Zinn. So that's who he's referencing: some crazy old d..."
-
-**[00:07:35](/episodes/ep-2WEHTk0Xewg.md#ent-person-george-zinn-t-00-07-18)**
-> "George Zinn. We learn about 30 minutes after that. George Zin..."
-
-**[00:07:35](/episodes/ep-2WEHTk0Xewg.md#ent-person-george-zinn-t-00-07-18)**
-> "... about 30 minutes after that. George Zinn, the decoy boy—that's when it's announced that he..."
-
-**[00:33:32](/episodes/ep-2WEHTk0Xewg.md#ent-person-george-zinn-t-00-33-03)**
-> "...akes sense in the timeline of George Zinn, the decoy boy, that we've got other people that ..."
-
-**[00:41:33](/episodes/ep-2WEHTk0Xewg.md#ent-person-george-zinn-t-00-41-13)**
-> "From George Zinn to Lance Twiggs, the unanswered questions were li..."
-
-**[01:06:02](/episodes/ep-2WEHTk0Xewg.md#ent-person-george-zinn-t-01-06-00)**
-> "... that were involved—including George Zinn."
-
-**[01:06:08](/episodes/ep-2WEHTk0Xewg.md#ent-person-george-zinn-t-01-06-00)**
-> "...arching theory at the moment: George Zinn with this decoy thing that makes entirely no sens..."
+**[00:42:21](/episodes/ep-Qfwr08Ebczo.md#ent-person-george-zinn-t-00-41-54)**
+> "...rites, "I keep thinking about George Zinn."
 
 </details>
 
@@ -117,13 +92,47 @@ _Type: People_
 </details>
 
 <details>
-<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2 mentions)</summary>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
 
-**[00:42:21](/episodes/ep-Qfwr08Ebczo.md#ent-person-george-zinn-t-00-41-54)**
-> "... All right, comments from today's episode. Laughing Cats Music World writes, "I keep thinking about George Zinn. I know he was a habitual Salt Lake City event disruptor, but what are the chances his reflex is to..."
+**[00:21:20](/episodes/ep-t1YtLS1n8Vs.md#ent-person-george-zinn-t-00-21-03)**
+> "...hinks I'm shady, that I'm an accomplice to something. He ran for Utah governor in 2024. He featured George Zinn on his website at that time, spoke to Alex Jones, Fox News, NewsNation, really anybody that would h..."
 
-**[00:42:21](/episodes/ep-Qfwr08Ebczo.md#ent-person-george-zinn-t-00-41-54)**
-> "...rites, "I keep thinking about George Zinn."
+**[00:21:20](/episodes/ep-t1YtLS1n8Vs.md#ent-person-george-zinn-t-00-21-03)**
+> "He featured George Zinn on his website at that time, spoke to Alex Jones,..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (6 mentions)</summary>
+
+**[00:03:27](/episodes/ep-adJ4LNGp84I.md#ent-person-george-zinn-t-00-02-54)**
+> "... maybe people were writing in reviews and saying he was a great person. But yes, we were aware that George Zin is one of just 20 people that is a featured endorsement. He endorses Phil Lyman's character. You ca..."
+
+**[00:03:37](/episodes/ep-adJ4LNGp84I.md#ent-person-george-zinn-t-00-03-37)**
+> "...0 people that is a featured endorsement. He endorses Phil Lyman's character. You can see that here. George Zin writes, "Rare to find a more caring man with uncompromising goals to make Utah great for generation..."
+
+**[00:04:24](/episodes/ep-adJ4LNGp84I.md#ent-person-george-zinn-t-00-04-22)**
+> "...nce June 6th, 2024. So I don't know what to make of that. Now, I will say other locals told us that George Zin, for whatever reason, is very involved in Republican politics. Take from that what you will, meanin..."
+
+**[00:03:27](/episodes/ep-adJ4LNGp84I.md#ent-person-george-zinn-t-00-02-54)**
+> "But yes, we were aware that George Zin is one of just 20 people that is a featured endor..."
+
+**[00:03:37](/episodes/ep-adJ4LNGp84I.md#ent-person-george-zinn-t-00-03-37)**
+> "You can see that here. George Zin writes, "Rare to find a more caring man with unco..."
+
+**[00:04:24](/episodes/ep-adJ4LNGp84I.md#ent-person-george-zinn-t-00-04-22)**
+> "...say other locals told us that George Zin, for whatever reason, is very involved in Republi..."
+
+</details>
+
+<details>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
+
+**[00:23:01](/episodes/ep-YA1FxrDWNIo.md#ent-person-george-zinn-t-00-22-32)**
+> "...es. And I'm implying that. But I do actually think it was quite interesting because when we covered George Zinn—who was the decoy boy that day— who then we find out is into pedophilia, right? And he gets arreste..."
+
+**[00:23:01](/episodes/ep-YA1FxrDWNIo.md#ent-person-george-zinn-t-00-22-32)**
+> "...sting because when we covered George Zinn—who was the decoy boy that day—"
 
 </details>
 
@@ -223,60 +232,6 @@ _Type: People_
 </details>
 
 <details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
-
-**[00:23:01](/episodes/ep-YA1FxrDWNIo.md#ent-person-george-zinn-t-00-22-32)**
-> "...es. And I'm implying that. But I do actually think it was quite interesting because when we covered George Zinn—who was the decoy boy that day— who then we find out is into pedophilia, right? And he gets arreste..."
-
-**[00:23:01](/episodes/ep-YA1FxrDWNIo.md#ent-person-george-zinn-t-00-22-32)**
-> "...sting because when we covered George Zinn—who was the decoy boy that day—"
-
-</details>
-
-<details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (6 mentions)</summary>
-
-**[00:03:27](/episodes/ep-adJ4LNGp84I.md#ent-person-george-zinn-t-00-02-54)**
-> "... maybe people were writing in reviews and saying he was a great person. But yes, we were aware that George Zin is one of just 20 people that is a featured endorsement. He endorses Phil Lyman's character. You ca..."
-
-**[00:03:37](/episodes/ep-adJ4LNGp84I.md#ent-person-george-zinn-t-00-03-37)**
-> "...0 people that is a featured endorsement. He endorses Phil Lyman's character. You can see that here. George Zin writes, "Rare to find a more caring man with uncompromising goals to make Utah great for generation..."
-
-**[00:04:24](/episodes/ep-adJ4LNGp84I.md#ent-person-george-zinn-t-00-04-22)**
-> "...nce June 6th, 2024. So I don't know what to make of that. Now, I will say other locals told us that George Zin, for whatever reason, is very involved in Republican politics. Take from that what you will, meanin..."
-
-**[00:03:27](/episodes/ep-adJ4LNGp84I.md#ent-person-george-zinn-t-00-02-54)**
-> "But yes, we were aware that George Zin is one of just 20 people that is a featured endor..."
-
-**[00:03:37](/episodes/ep-adJ4LNGp84I.md#ent-person-george-zinn-t-00-03-37)**
-> "You can see that here. George Zin writes, "Rare to find a more caring man with unco..."
-
-**[00:04:24](/episodes/ep-adJ4LNGp84I.md#ent-person-george-zinn-t-00-04-22)**
-> "...say other locals told us that George Zin, for whatever reason, is very involved in Republi..."
-
-</details>
-
-<details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (5 mentions)</summary>
-
-**[00:44:24](/episodes/ep-czVBmqZP6Ss.md#ent-person-george-zinn-t-00-43-44)**
-> "...sly the craziest part of everything, we have decoy boy, right? So it happens and suddenly this guy, George Zinn, gets arrested. He's making noise. He's signaling that he's somehow shot the guy. And at 12:52, it ..."
-
-**[00:44:42](/episodes/ep-czVBmqZP6Ss.md#ent-person-george-zinn-t-00-44-29)**
-> "...ody. So nobody needs to look around anymore because the suspect is in custody. But actually I guess George Zinn just does that. He just does that, I guess. Just wants people to think he's done something, but he ..."
-
-**[00:44:22](/episodes/ep-czVBmqZP6Ss.md#ent-person-george-zinn-t-00-43-44)**
-> "this guy, George Zinn, gets arrested. He's making noise"
-
-**[00:44:24](/episodes/ep-czVBmqZP6Ss.md#ent-person-george-zinn-t-00-43-44)**
-> "...appens and suddenly this guy, George Zinn, gets arrested."
-
-**[00:44:42](/episodes/ep-czVBmqZP6Ss.md#ent-person-george-zinn-t-00-44-29)**
-> "But actually I guess George Zinn just does that."
-
-</details>
-
-<details>
 <summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2 mentions)</summary>
 
 **[00:05:20](/episodes/ep-ja26iltROkM.md#ent-person-george-zinn-t-00-04-41)**
@@ -284,6 +239,53 @@ _Type: People_
 
 **[00:05:20](/episodes/ep-ja26iltROkM.md#ent-person-george-zinn-t-00-04-41)**
 > "...sked over the weekend, locate George Zinn in the crowd."
+
+</details>
+
+<details>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (14 mentions)</summary>
+
+**[00:07:18](/episodes/ep-2WEHTk0Xewg.md#ent-person-george-zinn-t-00-07-18)**
+> "... pretty simply. Why? Because we know—we can pull up this timeline—that they at first thought it was George Zinn. So that's who he's referencing: some crazy old dude. And on the timeline, Skylar, if you wanna pul..."
+
+**[00:07:35](/episodes/ep-2WEHTk0Xewg.md#ent-person-george-zinn-t-00-07-18)**
+> "... we can go through it—what time Charlie (Charlie Kirk) gets shot? At 12:23 p.m.? Scroll down a bit. George Zinn. We learn about 30 minutes after that. George Zinn, the decoy boy—that's when it's announced that h..."
+
+**[00:33:32](/episodes/ep-2WEHTk0Xewg.md#ent-person-george-zinn-t-00-33-03)**
+> "...ay? I don't know—no—but I know, okay? I don't know—no—but I know. It makes sense in the timeline of George Zinn, the decoy boy, that we've got other people that are doing different things. And they do not want u..."
+
+**[00:41:33](/episodes/ep-2WEHTk0Xewg.md#ent-person-george-zinn-t-00-41-13)**
+> "...w believe there is a federal level of corruption and conspiracy involved in this murder, okay? From George Zinn to Lance Twiggs, the unanswered questions were like: What was he doing at home? What does he do for..."
+
+**[01:06:02](/episodes/ep-2WEHTk0Xewg.md#ent-person-george-zinn-t-01-06-00)**
+> "...e not being told the truth, and I think that there are multiple people that were involved—including George Zinn. That's my overarching theory at the moment: George Zinn with this decoy thing that makes entirely ..."
+
+**[01:06:08](/episodes/ep-2WEHTk0Xewg.md#ent-person-george-zinn-t-01-06-00)**
+> "...ltiple people that were involved—including George Zinn. That's my overarching theory at the moment: George Zinn with this decoy thing that makes entirely no sense to me. And it will make sense if there's more pe..."
+
+**[00:07:17](/episodes/ep-2WEHTk0Xewg.md#ent-person-george-zinn-t-00-07-18)**
+> "George Zinn. We learn about 30 minutes after that. George Zinn, the decoy boy"
+
+**[00:07:18](/episodes/ep-2WEHTk0Xewg.md#ent-person-george-zinn-t-00-07-18)**
+> "... they at first thought it was George Zinn. So that's who he's referencing: some crazy old d..."
+
+**[00:07:35](/episodes/ep-2WEHTk0Xewg.md#ent-person-george-zinn-t-00-07-18)**
+> "George Zinn. We learn about 30 minutes after that. George Zin..."
+
+**[00:07:35](/episodes/ep-2WEHTk0Xewg.md#ent-person-george-zinn-t-00-07-18)**
+> "... about 30 minutes after that. George Zinn, the decoy boy—that's when it's announced that he..."
+
+**[00:33:32](/episodes/ep-2WEHTk0Xewg.md#ent-person-george-zinn-t-00-33-03)**
+> "...akes sense in the timeline of George Zinn, the decoy boy, that we've got other people that ..."
+
+**[00:41:33](/episodes/ep-2WEHTk0Xewg.md#ent-person-george-zinn-t-00-41-13)**
+> "From George Zinn to Lance Twiggs, the unanswered questions were li..."
+
+**[01:06:02](/episodes/ep-2WEHTk0Xewg.md#ent-person-george-zinn-t-01-06-00)**
+> "... that were involved—including George Zinn."
+
+**[01:06:08](/episodes/ep-2WEHTk0Xewg.md#ent-person-george-zinn-t-01-06-00)**
+> "...arching theory at the moment: George Zinn with this decoy thing that makes entirely no sens..."
 
 </details>
 
@@ -338,24 +340,22 @@ _Type: People_
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (5 mentions)</summary>
 
-**[00:28:28](/episodes/ep-sImMM04XdWY.md#ent-person-george-zinn-t-00-27-47)**
-> "... How many times does this come up in the Charlie (Charlie Kirk) story? Whether you're talking about George Zinn or the person that jumped up and screamed or the pastors, the Calvary Chapel that for whatever reas..."
+**[00:44:24](/episodes/ep-czVBmqZP6Ss.md#ent-person-george-zinn-t-00-43-44)**
+> "...sly the craziest part of everything, we have decoy boy, right? So it happens and suddenly this guy, George Zinn, gets arrested. He's making noise. He's signaling that he's somehow shot the guy. And at 12:52, it ..."
 
-**[00:28:28](/episodes/ep-sImMM04XdWY.md#ent-person-george-zinn-t-00-27-47)**
-> "Whether you're talking about George Zinn or the person that jumped up and screamed or the ..."
+**[00:44:42](/episodes/ep-czVBmqZP6Ss.md#ent-person-george-zinn-t-00-44-29)**
+> "...ody. So nobody needs to look around anymore because the suspect is in custody. But actually I guess George Zinn just does that. He just does that, I guess. Just wants people to think he's done something, but he ..."
 
-</details>
+**[00:44:22](/episodes/ep-czVBmqZP6Ss.md#ent-person-george-zinn-t-00-43-44)**
+> "this guy, George Zinn, gets arrested. He's making noise"
 
-<details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
+**[00:44:24](/episodes/ep-czVBmqZP6Ss.md#ent-person-george-zinn-t-00-43-44)**
+> "...appens and suddenly this guy, George Zinn, gets arrested."
 
-**[00:21:20](/episodes/ep-t1YtLS1n8Vs.md#ent-person-george-zinn-t-00-21-03)**
-> "...hinks I'm shady, that I'm an accomplice to something. He ran for Utah governor in 2024. He featured George Zinn on his website at that time, spoke to Alex Jones, Fox News, NewsNation, really anybody that would h..."
-
-**[00:21:20](/episodes/ep-t1YtLS1n8Vs.md#ent-person-george-zinn-t-00-21-03)**
-> "He featured George Zinn on his website at that time, spoke to Alex Jones,..."
+**[00:44:42](/episodes/ep-czVBmqZP6Ss.md#ent-person-george-zinn-t-00-44-29)**
+> "But actually I guess George Zinn just does that."
 
 </details>
 
@@ -363,14 +363,6 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
-
-<details>
-<summary>Affiliated With (1)</summary>
-
-- **[Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)**
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:05:25](/episodes/ep-ja26iltROkM.md#t-00-04-41): "I asked over the weekend, locate George Zinn in the crowd. It seems a bit suspicious to me how far he was"
-
-</details>
 
 <details>
 <summary>Endorsed (1)</summary>
@@ -382,10 +374,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
-
-- **[Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)** affiliated with this
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:05:25](/episodes/ep-ja26iltROkM.md#t-00-04-41)
+<summary>Referenced By (1)</summary>
 
 - **[Phil Lyman](/entities/person-phil-lyman.md)** endorsed by this
   - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:03:27](/episodes/ep-adJ4LNGp84I.md#t-00-02-54)
@@ -398,6 +387,14 @@ _Type: People_
 <summary><strong class="section-title">Statements about George Zinn (8)</strong></summary>
 
 <details>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (1)</summary>
+
+- [00:11:48](/episodes/ep-UBkFkg4UNY8.md#t-00-11-10) (Claim) **Candace Owens**: ["George Zinn was arrested in the exact same area that Charlie Kirk's SU..."](/statements/statement-1f8ba61754a2.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (3)</summary>
 
 - [00:07:35](/episodes/ep-2WEHTk0Xewg.md#t-00-07-18) (Claim) **Candace Owens**: ["George Zinn was announced as a suspect in custody approximately 30 min..."](/statements/statement-555d98edba8f.md)
@@ -407,14 +404,6 @@ _Type: People_
 
 - [01:06:02](/episodes/ep-2WEHTk0Xewg.md#t-01-06-00) (Accusation) **Candace Owens**: ["Multiple people were involved in the Charlie Kirk assassination, inclu..."](/statements/statement-e50302cfab9c.md)
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
-
-</details>
-
-<details>
-<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (1)</summary>
-
-- [00:11:48](/episodes/ep-UBkFkg4UNY8.md#t-00-11-10) (Claim) **Candace Owens**: ["George Zinn was arrested in the exact same area that Charlie Kirk's SU..."](/statements/statement-1f8ba61754a2.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

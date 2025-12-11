@@ -1,11 +1,11 @@
 ---
 title: "The Assassination of Candace Owens"
-description: "The Assassination of Candace Owens (Work) - 9 mentions"
+description: "The Assassination of Candace Owens (Works & Media) - 9 mentions"
 id: "work-the-assassination-of-candace-owens"
 type: "WORK"
 ---
 
-_Type: Work_
+_Type: Works & Media_
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

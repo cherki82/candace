@@ -18,6 +18,23 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (4 mentions)</summary>
+
+**[00:53:38](/episodes/ep-vwG1juDCQZQ.md#ent-org-nimi-skincare-t-00-53-09)**
+> "I'm gonna tell you about Nimi Skincare because you know I love them"
+
+**[00:53:38](/episodes/ep-vwG1juDCQZQ.md#ent-org-nimi-skincare-t-00-53-09)**
+> "...uys: I'm gonna tell you about Nimi Skincare because you know I love them."
+
+**[00:53:47](/episodes/ep-vwG1juDCQZQ.md#ent-org-nimi-skincare-t-00-53-09)**
+> "...hat's why I'm so excited that Nimi Skincare now has a complete body line as well."
+
+**[00:54:07](/episodes/ep-vwG1juDCQZQ.md#ent-org-nimi-skincare-t-00-53-09)**
+> "facial skincare, the Nimi body line is made with clean, clinically proven i..."
+
+</details>
+
+<details>
 <summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (4 mentions)</summary>
 
 **[00:58:05](/episodes/ep-YFmRH8p5lt0.md#ent-org-nimi-skincare-t-00-57-27)**
@@ -30,6 +47,26 @@ _Type: Organizations_
 > "Nimi is doing something that seems quite radical"
 
 **[00:58:40](/episodes/ep-YFmRH8p5lt0.md#ent-org-nimi-skincare-t-00-58-11)**
+> "Nimi has two products from their tallow line that you ..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (5 mentions)</summary>
+
+**[00:52:14](/episodes/ep-iHav0PPzUz8.md#ent-org-nimi-skincare-t-00-51-46)**
+> "And as always, I tell you guys about Nimi Skincare"
+
+**[00:52:14](/episodes/ep-iHav0PPzUz8.md#ent-org-nimi-skincare-t-00-51-46)**
+> "...always, I tell you guys about Nimi Skincare."
+
+**[00:52:24](/episodes/ep-iHav0PPzUz8.md#ent-org-nimi-skincare-t-00-52-24)**
+> "...'s why I got so interested in Nimi Skincare."
+
+**[00:52:32](/episodes/ep-iHav0PPzUz8.md#ent-org-nimi-skincare-t-00-52-24)**
+> "Nimi is doing something that I guess is radical by bui..."
+
+**[00:52:56](/episodes/ep-iHav0PPzUz8.md#ent-org-nimi-skincare-t-00-52-24)**
 > "Nimi has two products from their tallow line that you ..."
 
 </details>
@@ -58,26 +95,6 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (5 mentions)</summary>
-
-**[00:52:14](/episodes/ep-iHav0PPzUz8.md#ent-org-nimi-skincare-t-00-51-46)**
-> "And as always, I tell you guys about Nimi Skincare"
-
-**[00:52:14](/episodes/ep-iHav0PPzUz8.md#ent-org-nimi-skincare-t-00-51-46)**
-> "...always, I tell you guys about Nimi Skincare."
-
-**[00:52:24](/episodes/ep-iHav0PPzUz8.md#ent-org-nimi-skincare-t-00-52-24)**
-> "...'s why I got so interested in Nimi Skincare."
-
-**[00:52:32](/episodes/ep-iHav0PPzUz8.md#ent-org-nimi-skincare-t-00-52-24)**
-> "Nimi is doing something that I guess is radical by bui..."
-
-**[00:52:56](/episodes/ep-iHav0PPzUz8.md#ent-org-nimi-skincare-t-00-52-24)**
-> "Nimi has two products from their tallow line that you ..."
-
-</details>
-
-<details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (7 mentions)</summary>
 
 **[00:56:31](/episodes/ep-pc3pxRyNFZk.md#ent-org-nimi-skincare-t-00-56-08)**
@@ -100,23 +117,6 @@ _Type: Organizations_
 
 **[00:57:41](/episodes/ep-pc3pxRyNFZk.md#ent-org-nimi-skincare-t-00-57-36)**
 > "Again, NimiSkincare.com, promo code CANDACE10 for 10% off."
-
-</details>
-
-<details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (4 mentions)</summary>
-
-**[00:53:38](/episodes/ep-vwG1juDCQZQ.md#ent-org-nimi-skincare-t-00-53-09)**
-> "I'm gonna tell you about Nimi Skincare because you know I love them"
-
-**[00:53:38](/episodes/ep-vwG1juDCQZQ.md#ent-org-nimi-skincare-t-00-53-09)**
-> "...uys: I'm gonna tell you about Nimi Skincare because you know I love them."
-
-**[00:53:47](/episodes/ep-vwG1juDCQZQ.md#ent-org-nimi-skincare-t-00-53-09)**
-> "...hat's why I'm so excited that Nimi Skincare now has a complete body line as well."
-
-**[00:54:07](/episodes/ep-vwG1juDCQZQ.md#ent-org-nimi-skincare-t-00-53-09)**
-> "facial skincare, the Nimi body line is made with clean, clinically proven i..."
 
 </details>
 

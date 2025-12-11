@@ -1,11 +1,11 @@
 ---
 title: "Israel and Civilization"
-description: "Israel and Civilization (Work) - 6 mentions"
+description: "Israel and Civilization (Works & Media) - 6 mentions"
 id: "work-israel-and-civilization"
 type: "WORK"
 ---
 
-_Type: Work_
+_Type: Works & Media_
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

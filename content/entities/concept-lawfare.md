@@ -13,13 +13,16 @@ _Type: Concepts_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (3 mentions)</summary>
 
-**[01:04:11](/episodes/ep-5autG89PW6w.md#ent-concept-lawfare-t-01-04-00)**
-> "...eenshots to Max. I'm like, "Everyone who is threatening me behind the scenes— all that stuff, using lawfare to threaten me or free speech—like we're now all attached," okay? So there we go. I recommend that ..."
+**[00:56:02](/episodes/ep-a-e7HC6SeK8.md#ent-concept-lawfare-t-00-55-43)**
+> "... need it because I think the federal government is trying to bankrupt me a thousand different ways. Lawfare is one of the strategies—lawfare. They just keep you constantly being sued at all times. And I feel..."
 
-**[01:04:11](/episodes/ep-5autG89PW6w.md#ent-concept-lawfare-t-01-04-00)**
-> "all that stuff, using lawfare to threaten me or free speech—like we're now all ..."
+**[00:56:02](/episodes/ep-a-e7HC6SeK8.md#ent-concept-lawfare-t-00-55-43)**
+> "Lawfare is one of the strategies—lawfare."
+
+**[00:56:02](/episodes/ep-a-e7HC6SeK8.md#ent-concept-lawfare-t-00-55-43)**
+> "...fare is one of the strategies—lawfare."
 
 </details>
 
@@ -35,16 +38,13 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (3 mentions)</summary>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
 
-**[00:56:02](/episodes/ep-a-e7HC6SeK8.md#ent-concept-lawfare-t-00-55-43)**
-> "... need it because I think the federal government is trying to bankrupt me a thousand different ways. Lawfare is one of the strategies—lawfare. They just keep you constantly being sued at all times. And I feel..."
+**[01:04:11](/episodes/ep-5autG89PW6w.md#ent-concept-lawfare-t-01-04-00)**
+> "...eenshots to Max. I'm like, "Everyone who is threatening me behind the scenes— all that stuff, using lawfare to threaten me or free speech—like we're now all attached," okay? So there we go. I recommend that ..."
 
-**[00:56:02](/episodes/ep-a-e7HC6SeK8.md#ent-concept-lawfare-t-00-55-43)**
-> "Lawfare is one of the strategies—lawfare."
-
-**[00:56:02](/episodes/ep-a-e7HC6SeK8.md#ent-concept-lawfare-t-00-55-43)**
-> "...fare is one of the strategies—lawfare."
+**[01:04:11](/episodes/ep-5autG89PW6w.md#ent-concept-lawfare-t-01-04-00)**
+> "all that stuff, using lawfare to threaten me or free speech—like we're now all ..."
 
 </details>
 

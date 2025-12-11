@@ -13,6 +13,304 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (33 mentions)</summary>
+
+**[00:11:54](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-11-32)**
+> "... had to fight for justice. They went out immediately following the election results. One person was Lance Wallnau (Lance Wallnau), okay? I want you to remember this guy's name: Lance Wallnau (Lance Wallnau). Immed..."
+
+**[00:11:57](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-11-32)**
+> "...esults. One person was Lance Wallnau (Lance Wallnau), okay? I want you to remember this guy's name: Lance Wallnau (Lance Wallnau). Immediately—just three days after the election of 2020, on November 6th—he publish..."
+
+**[00:12:22](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-12-17)**
+> "... courageous." That's three days after—saying "stop the steal, be strong, be courageous." And Lance (Lance Wallnau), who is a charismatic preacher, wasn't the only charismatic preacher or pastor that instantly thre..."
+
+**[00:13:16](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-01)**
+> "...ooked by the House Select Committee?" this person asks, okay? NAR. I brought this up to you before. Lance Wallnau (Lance Wallnau) is in this article. So is Sean Feucht (Sean Feucht). Now you're thinking these name..."
+
+**[00:13:31](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-01)**
+> "... up to you regarding TPUSA Faith, who started to lead these events that they were having. So who is Lance Wallnau (Lance Wallnau)? Well, he is one of these NAR preachers—like I said—who came up with their Seven Mo..."
+
+**[00:13:48](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-45)**
+> "...andate. I would say like he became mesmerized by the Seven Mountain Mandate. He became friends with Lance Wallnau (Lance Wallnau). I'm going to let you listen to Lance (Lance Wallnau) himself describe this Seven M..."
+
+**[00:13:51](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-45)**
+> "...andate. He became friends with Lance Wallnau (Lance Wallnau). I'm going to let you listen to Lance (Lance Wallnau) himself describe this Seven Mountain Mandate in his own words. *(Clip from Lance Wallnau)* Hi, I'm..."
+
+**[00:13:59](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-59)**
+> "...to Lance (Lance Wallnau) himself describe this Seven Mountain Mandate in his own words. *(Clip from Lance Wallnau)* Hi, I'm Lance Wallnau. I want to talk to you for a moment about this concept called the 7M Mandat..."
+
+**[00:17:09](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-16-39)**
+> "...terally named like a fleet of ships after his father—like there was like the McCoy naval something. Lance Wallnau (Lance Wallnau)—he's no different. He graduated from a military academy. His father, Carl Wallnau, ..."
+
+**[00:17:45](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-17-23)**
+> "...ominican Republic—places that I would argue that we caused a lot of drama in—just saying. So Lance (Lance Wallnau) fits the pattern well. And before I tell you how he is very connected to Turning Point USA Faith, ..."
+
+**[00:18:50](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-18-50)**
+> "...rlie (Charlie Kirk) about this in any way as these people began to infiltrate his organization, and Lance Wallnau (Lance Wallnau) worked his way into Turning Point USA. I had a phone call with someone, by the way,..."
+
+**[00:19:58](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-19-33)**
+> "...ng characters. Rob McCoy leading that frontier, as we know. What people don't know publicly is that Lance Wallnau (Lance Wallnau) was working with him. He was intimately involved, and more importantly, he was fina..."
+
+**[00:20:07](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-20-07)**
+> "...y, he was financially involved. Sources within Turning Point's faith department tell me that Lance (Lance Wallnau) was running the show behind the scenes through funding—that he put a ton of money into Turning Poi..."
+
+**[00:20:19](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-20-07)**
+> "...tions. Now, I guess a better way for me to state this—because I want to be super clear here—is that Lance Wallnau (Lance Wallnau), who is from a military family and who is saying that he believes in infiltration a..."
+
+**[00:11:57](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-11-32)**
+> "Lance Wallnau described Seven Mountain Mandate infiltration philosophy"
+
+**[00:11:54](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-11-32)**
+> "One person was Lance Wallnau, okay?"
+
+**[00:11:57](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-11-32)**
+> "... to remember this guy's name: Lance Wallnau."
+
+**[00:12:22](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-12-17)**
+> "And Lance (Lance Wallnau), who is a charismatic preacher, wasn't the only ..."
+
+**[00:13:16](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-01)**
+> "Lance Wallnau (Lance Wallnau) is in this article."
+
+**[00:13:31](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-01)**
+> "So who is Lance Wallnau (Lance Wallnau)?"
+
+**[00:13:48](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-45)**
+> "He became friends with Lance Wallnau (Lance Wallnau)."
+
+**[00:13:48](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-45)**
+> "...e friends with Lance Wallnau (Lance Wallnau)."
+
+**[00:13:51](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-45)**
+> "...g to let you listen to Lance (Lance Wallnau) himself describe this Seven Mountain Mandate in ..."
+
+**[00:13:51](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-45)**
+> "...'m going to let you listen to Lance (Lance Wallnau) himself describe this Seven Mount..."
+
+**[00:13:59](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-59)**
+> "*(Clip from Lance Wallnau)* Hi, I'm Lance Wallnau."
+
+**[00:13:59](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-59)**
+> "... from Lance Wallnau)* Hi, I'm Lance Wallnau."
+
+**[00:17:09](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-16-39)**
+> "Lance Wallnau (Lance Wallnau)—he's no different."
+
+**[00:17:45](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-17-23)**
+> "So Lance (Lance Wallnau) fits the pattern well."
+
+**[00:18:50](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-18-50)**
+> "...iltrate his organization, and Lance Wallnau worked his way into Turning Point USA."
+
+**[00:19:58](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-19-33)**
+> "...e don't know publicly is that Lance Wallnau was working with him."
+
+**[00:20:07](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-20-07)**
+> "...epartment tell me that Lance (Lance Wallnau) was running the show behind the scenes through f..."
+
+**[00:20:07](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-20-07)**
+> "...faith department tell me that Lance (Lance Wallnau) was running the show behind the s..."
+
+**[00:20:19](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-20-07)**
+> "...o be super clear here—is that Lance Wallnau, who is from a military family"
+
+</details>
+
+<details>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (1 mentions)</summary>
+
+**[00:50:12](/episodes/ep-c5BcKF91iec.md#t-00-49-29)**
+> "...el sorry for you." This is a review of my character over the years. "Candace Owens is a fraud"—from Lance Bass. Ireland Baldwin wrote, "The most disgusting, hateful, cancerous human being I've ever come ac..."
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (10 mentions)</summary>
+
+**[00:30:10](/episodes/ep-5autG89PW6w.md#t-00-29-56)**
+> "...g to be exposed, and we're gonna get into that more tomorrow. I do wanna give you a quick update on Lance Twigg. And like I said, we know that the feds are lying to us. The question is: why are the feds ly..."
+
+**[00:36:27](/episodes/ep-5autG89PW6w.md#t-00-36-12)**
+> "...of which I believe actually pulled the trigger. Call it a hunch. I think it's much more likely that Lance Twigg is the one that is walking in that maroon shirt. His build is nothing like Tyler Robinson's b..."
+
+**[00:36:37](/episodes/ep-5autG89PW6w.md#t-00-36-12)**
+> "... is the one that is walking in that maroon shirt. His build is nothing like Tyler Robinson's build. Lance Twigg is thinner. And obviously I'm speculating here, but I believe Tyler Robinson was involved, an..."
+
+**[00:37:46](/episodes/ep-5autG89PW6w.md#t-00-37-27)**
+> "...cause it disrupts their narrative. One of many things that disrupts their narrative. But what about Lance Twigg, right? This roommate—man, something about him. The roommate of Tyler Robinson is, I think, f..."
+
+**[00:38:16](/episodes/ep-5autG89PW6w.md#t-00-38-02)**
+> "...ning after, the 33 hours after they apprehended Tyler Robinson—the government lied when they said, "Lance—you know—I'm obviously paraphrasing here—he came in peacefully. He handed over everything." I mean,..."
+
+**[00:39:18](/episodes/ep-5autG89PW6w.md#t-00-38-46)**
+> "...hey have Tyler Robinson walking in peacefully because he doesn't want to die. And you're telling me Lance Twigg—for whatever reason—you released him immediately back into custody? No, they lied. He was not..."
+
+**[00:40:07](/episodes/ep-5autG89PW6w.md#t-00-40-07)**
+> "... light of day, you take a picture of it so it lives forever in the iCloud. Anyways, we were told by Lance's family—who, by the way, own the apartment that the two of them lived in—that Tyler and Lance live..."
+
+**[00:40:28](/episodes/ep-5autG89PW6w.md#t-00-40-07)**
+> "...They were not informed that the locks were being changed. So it gives us two options: it was either Lance, or it was the feds. I was wondering: you know, if you're Lance and you really got swept up in this..."
+
+**[00:40:33](/episodes/ep-5autG89PW6w.md#t-00-40-07)**
+> "...gives us two options: it was either Lance, or it was the feds. I was wondering: you know, if you're Lance and you really got swept up in this and you're so shocked that Tyler Robinson did this, are you spe..."
+
+**[00:40:45](/episodes/ep-5autG89PW6w.md#t-00-40-07)**
+> "...ing to your family about that? My gosh, I imagine you want to speak to your family. No, no—it seems Lance has similarly been in an unknown location since the raid. I would imagine he was in witness protect..."
+
+</details>
+
+<details>
+<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (12 mentions)</summary>
+
+**[00:12:42](/episodes/ep-ZGxnf5cj4Uw.md#t-00-12-42)**
+> "...r was gay. That's what I'm told. They are learning this in and through the media. They thought that Lance was just his roommate, and they were especially shocked because apparently Tyler kept mentioning to..."
+
+**[00:12:58](/episodes/ep-ZGxnf5cj4Uw.md#t-00-12-42)**
+> "... seeing. Now, I would like to interject my own voice here and say that I think this girl was likely Lance, and Tyler was working up the courage to tell his family that he was gay. That is what is most like..."
+
+**[00:13:02](/episodes/ep-ZGxnf5cj4Uw.md#t-00-12-42)**
+> "...ost likely, in my opinion, because we know for a fact that Tyler was in fact in a relationship with Lance—because we have exclusive photos, by the way; they're about to show you—that the two of them posted..."
+
+**[00:13:16](/episodes/ep-ZGxnf5cj4Uw.md#t-00-12-42)**
+> "...tos, by the way; they're about to show you—that the two of them posted to their Instagrams. This is Lance posting Halloween-era photos: “I forgot to post. My boyfriend is the best. Love you.” Don't worry; ..."
+
+**[00:13:32](/episodes/ep-ZGxnf5cj4Uw.md#t-00-13-22)**
+> "...s maybe trying to hide this stuff. And then there's another photo of them. And this one's posted by Lance again: “Pics from when Tyler had a mustache.” You can see that they were in a relationship. Just ma..."
+
+**[00:15:16](/episodes/ep-ZGxnf5cj4Uw.md#t-00-14-43)**
+> "...esting—Tyler Robinson's apartment was staged after his arrest. Now, you will recall that I spoke to Lance's family. And one of the things that Lance's family said was, “It was—hey, we own that apartment. T..."
+
+**[00:15:19](/episodes/ep-ZGxnf5cj4Uw.md#t-00-14-43)**
+> "...d after his arrest. Now, you will recall that I spoke to Lance's family. And one of the things that Lance's family said was, “It was—hey, we own that apartment. They pay rent to us. We've never met Tyler R..."
+
+**[00:15:34](/episodes/ep-ZGxnf5cj4Uw.md#t-00-15-27)**
+> "...t this—you know—that this apartment got raided. And it's very strange that they immediately cleared Lance as a suspect. And I was told by other people in the department that they wanted to keep that raid v..."
+
+**[00:15:46](/episodes/ep-ZGxnf5cj4Uw.md#t-00-15-27)**
+> "...ry hush-hush. You don't want anybody to know about the raid? There was no mention of this raid, and Lance immediately gets cleared as a suspect. Why? Well, according to Tyler's family, they went to that ap..."
+
+**[00:15:51](/episodes/ep-ZGxnf5cj4Uw.md#t-00-15-27)**
+> "...om a furry bed was placed—almost sort of implying that they're trying to transfer the attributes of Lance onto Tyler. And that's shady. But again, when I put together what I'm being told by Lance's family ..."
+
+**[00:16:13](/episodes/ep-ZGxnf5cj4Uw.md#t-00-16-10)**
+> "...ibutes of Lance onto Tyler. And that's shady. But again, when I put together what I'm being told by Lance's family and what I'm hearing from the Robinson family through a third party, I will say that it ma..."
+
+**[00:16:25](/episodes/ep-ZGxnf5cj4Uw.md#t-00-16-10)**
+> "...rty, I will say that it matches. It kind of seems like they're agreeing. One family is going, “Hey, Lance is kind of evil. Why is he getting—why is he getting cleared?” The other one's going, “Tyler's not ..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (3 mentions)</summary>
+
+**[00:11:45](/episodes/ep-K5GjF53bfN4.md#t-00-11-24)**
+> "...s extremely guilty to me. We haven't received any updates whatsoever on the raid that took place of Lance's house where Tyler Robinson was living at the time of this crime. No update whatsoever on Lance (L..."
+
+**[00:11:47](/episodes/ep-K5GjF53bfN4.md#t-00-11-24)**
+> "...of Lance's house where Tyler Robinson was living at the time of this crime. No update whatsoever on Lance (Lance). You know, he just completely fell to the wayside. So forget it. Forget asking any question..."
+
+**[00:12:06](/episodes/ep-K5GjF53bfN4.md#t-00-12-06)**
+> ".... You know, he just completely fell to the wayside. So forget it. Forget asking any questions about Lance (Lance). And my instinct has always been that the feds injected themselves immediately into this ca..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (2 mentions)</summary>
+
+**[00:07:24](/episodes/ep-QZWSsq8ZWzw.md#t-00-06-51)**
+> "...d messages. I forgot, silly me. The Discord. I forgot. It was so explicit. How could we forget? Oh, Lance, oh, Lance, wherefore art thou, Lance? Deny thy father and refuse thy name. And if thou wilt not, L..."
+
+**[00:07:30](/episodes/ep-QZWSsq8ZWzw.md#t-00-07-30)**
+> "...e, oh, Lance, wherefore art thou, Lance? Deny thy father and refuse thy name. And if thou wilt not, Lance, thee bullet, me, my handprint. It was me. It was me, my love. I did everything I carved. Do you re..."
+
+</details>
+
+<details>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1 mentions)</summary>
+
+**[00:44:45](/episodes/ep-aDlhjfW6hz8.md#t-00-44-23)**
+> "...s think that we speak after that ridiculous made-up text chain between Tyler Robinson and his lover Lance—they're hilarious. Your TikToks and the videos are hilarious. I'm gonna show you just one here. Thi..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (24 mentions)</summary>
+
+**[00:02:15](/episodes/ep-sreYYcID-QY.md#t-00-02-05)**
+> "...to be idling nearby the campus for a very long time, right? As he texted these Fed messages—him and Lance are texting, and he's telling him every second, minute by minute, what he's done—and he mentions th..."
+
+**[00:03:21](/episodes/ep-sreYYcID-QY.md#t-00-02-45)**
+> "...That's why it didn't flag me as weird when I was reading this; it didn't flag me as odd. He says to Lance, allegedly, quote, "I worry about prints." "I had to leave it," referring to the rifle, "in a bush ..."
+
+**[00:08:48](/episodes/ep-sreYYcID-QY.md#t-00-08-13)**
+> "...orrespondence that allegedly took place between these two had to have taken place between Tyler and Lance after six o'clock p.m. Well, there we go. 6:38 p.m. We get this confirmed photo—or I should say, I ..."
+
+**[00:16:49](/episodes/ep-sreYYcID-QY.md#t-00-16-13)**
+> "...e spoke to the BBC about how she had witnessed the police swarm the townhouse of Tyler Robinson and Lance while she was walking her dog in the evening. Here is what she says. I'm gonna read it directly her..."
+
+**[00:18:27](/episodes/ep-sreYYcID-QY.md#t-00-18-18)**
+> "...they didn't move at all, okay? We're supposed to believe that it was overnight that they brought in Lance, and then—according to Lance's own family—it was overnight that they, after bringing Lance in aroun..."
+
+**[00:18:55](/episodes/ep-sreYYcID-QY.md#t-00-18-18)**
+> "...hing about Sherry Steele is I can't find her. We stalked; we looked through databases; we contacted Lance's family to see if they're familiar with that name. I cannot find a woman named Sherry Steele that ..."
+
+**[00:26:31](/episodes/ep-sreYYcID-QY.md#t-00-26-02)**
+> "...t? “I did it, I did it. Oh, actually, it turns out that I have child pornography”—is that Tyler and Lance could have gotten mixed up in some deep internet stuff, which makes sense because—as we have learne..."
+
+**[00:02:15](/episodes/ep-sreYYcID-QY.md#t-00-02-05)**
+> "As he texted these Fed messages—him and Lance are texting"
+
+**[00:03:21](/episodes/ep-sreYYcID-QY.md#t-00-02-45)**
+> "He says to Lance, allegedly, quote, I worry about prints"
+
+**[00:08:48](/episodes/ep-sreYYcID-QY.md#t-00-08-13)**
+> "first correspondence between Tyler Robinson and Lance after six o'clock p.m."
+
+**[00:16:49](/episodes/ep-sreYYcID-QY.md#t-00-16-13)**
+> "witnessed the police swarm the townhouse of Tyler Robinson and Lance"
+
+**[00:18:27](/episodes/ep-sreYYcID-QY.md#t-00-18-18)**
+> "they brought in Lance, and then according to Lance's own family"
+
+**[00:18:55](/episodes/ep-sreYYcID-QY.md#t-00-18-18)**
+> "contacted Lance's family to see if they're familiar with that name"
+
+**[00:26:31](/episodes/ep-sreYYcID-QY.md#t-00-26-02)**
+> "Tyler Robinson and Lance could have gotten mixed up in some deep internet stuff"
+
+**[00:02:15](/episodes/ep-sreYYcID-QY.md#t-00-02-05)**
+> "...ed these Fed messages—him and Lance are texting, and he's telling him every second, m..."
+
+**[00:03:21](/episodes/ep-sreYYcID-QY.md#t-00-02-45)**
+> "He says to Lance, allegedly, quote, "I worry about prints.""
+
+**[00:08:48](/episodes/ep-sreYYcID-QY.md#t-00-08-13)**
+> "...en Tyler (Tyler Robinson) and Lance after six o'clock p.m."
+
+**[00:16:49](/episodes/ep-sreYYcID-QY.md#t-00-16-13)**
+> "...wnhouse of Tyler Robinson and Lance while she was walking her dog in the evening."
+
+**[00:18:27](/episodes/ep-sreYYcID-QY.md#t-00-18-18)**
+> "...vernight that they brought in Lance, and then—according to Lance's own family—it was ..."
+
+**[00:18:27](/episodes/ep-sreYYcID-QY.md#t-00-18-18)**
+> "... Lance, and then—according to Lance's own family—it was overnight that they, after brin..."
+
+**[00:18:27](/episodes/ep-sreYYcID-QY.md#t-00-18-18)**
+> "...ght that they, after bringing Lance in around 11 o'clock p.m.-ish, right,"
+
+**[00:18:55](/episodes/ep-sreYYcID-QY.md#t-00-18-18)**
+> "...rough databases; we contacted Lance's family to see if they're familiar with that name."
+
+**[00:26:31](/episodes/ep-sreYYcID-QY.md#t-00-26-02)**
+> "...at Tyler (Tyler Robinson) and Lance could have gotten mixed up in some deep internet ..."
+
+**[00:26:31](/episodes/ep-sreYYcID-QY.md#t-00-26-02)**
+> "...se because—as we have learned—Lance is deep on the web."
+
+</details>
+
+<details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (36 mentions)</summary>
 
 **[00:00:18](/episodes/ep-2WEHTk0Xewg.md#t-00-00-01)**
@@ -126,227 +424,6 @@ _Type: People_
 </details>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (10 mentions)</summary>
-
-**[00:30:10](/episodes/ep-5autG89PW6w.md#t-00-29-56)**
-> "...g to be exposed, and we're gonna get into that more tomorrow. I do wanna give you a quick update on Lance Twigg. And like I said, we know that the feds are lying to us. The question is: why are the feds ly..."
-
-**[00:36:27](/episodes/ep-5autG89PW6w.md#t-00-36-12)**
-> "...of which I believe actually pulled the trigger. Call it a hunch. I think it's much more likely that Lance Twigg is the one that is walking in that maroon shirt. His build is nothing like Tyler Robinson's b..."
-
-**[00:36:37](/episodes/ep-5autG89PW6w.md#t-00-36-12)**
-> "... is the one that is walking in that maroon shirt. His build is nothing like Tyler Robinson's build. Lance Twigg is thinner. And obviously I'm speculating here, but I believe Tyler Robinson was involved, an..."
-
-**[00:37:46](/episodes/ep-5autG89PW6w.md#t-00-37-27)**
-> "...cause it disrupts their narrative. One of many things that disrupts their narrative. But what about Lance Twigg, right? This roommate—man, something about him. The roommate of Tyler Robinson is, I think, f..."
-
-**[00:38:16](/episodes/ep-5autG89PW6w.md#t-00-38-02)**
-> "...ning after, the 33 hours after they apprehended Tyler Robinson—the government lied when they said, "Lance—you know—I'm obviously paraphrasing here—he came in peacefully. He handed over everything." I mean,..."
-
-**[00:39:18](/episodes/ep-5autG89PW6w.md#t-00-38-46)**
-> "...hey have Tyler Robinson walking in peacefully because he doesn't want to die. And you're telling me Lance Twigg—for whatever reason—you released him immediately back into custody? No, they lied. He was not..."
-
-**[00:40:07](/episodes/ep-5autG89PW6w.md#t-00-40-07)**
-> "... light of day, you take a picture of it so it lives forever in the iCloud. Anyways, we were told by Lance's family—who, by the way, own the apartment that the two of them lived in—that Tyler and Lance live..."
-
-**[00:40:28](/episodes/ep-5autG89PW6w.md#t-00-40-07)**
-> "...They were not informed that the locks were being changed. So it gives us two options: it was either Lance, or it was the feds. I was wondering: you know, if you're Lance and you really got swept up in this..."
-
-**[00:40:33](/episodes/ep-5autG89PW6w.md#t-00-40-07)**
-> "...gives us two options: it was either Lance, or it was the feds. I was wondering: you know, if you're Lance and you really got swept up in this and you're so shocked that Tyler Robinson did this, are you spe..."
-
-**[00:40:45](/episodes/ep-5autG89PW6w.md#t-00-40-07)**
-> "...ing to your family about that? My gosh, I imagine you want to speak to your family. No, no—it seems Lance has similarly been in an unknown location since the raid. I would imagine he was in witness protect..."
-
-</details>
-
-<details>
-<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (3 mentions)</summary>
-
-**[00:11:45](/episodes/ep-K5GjF53bfN4.md#t-00-11-24)**
-> "...s extremely guilty to me. We haven't received any updates whatsoever on the raid that took place of Lance's house where Tyler Robinson was living at the time of this crime. No update whatsoever on Lance (L..."
-
-**[00:11:47](/episodes/ep-K5GjF53bfN4.md#t-00-11-24)**
-> "...of Lance's house where Tyler Robinson was living at the time of this crime. No update whatsoever on Lance (Lance). You know, he just completely fell to the wayside. So forget it. Forget asking any question..."
-
-**[00:12:06](/episodes/ep-K5GjF53bfN4.md#t-00-12-06)**
-> ".... You know, he just completely fell to the wayside. So forget it. Forget asking any questions about Lance (Lance). And my instinct has always been that the feds injected themselves immediately into this ca..."
-
-</details>
-
-<details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (2 mentions)</summary>
-
-**[00:07:24](/episodes/ep-QZWSsq8ZWzw.md#t-00-06-51)**
-> "...d messages. I forgot, silly me. The Discord. I forgot. It was so explicit. How could we forget? Oh, Lance, oh, Lance, wherefore art thou, Lance? Deny thy father and refuse thy name. And if thou wilt not, L..."
-
-**[00:07:30](/episodes/ep-QZWSsq8ZWzw.md#t-00-07-30)**
-> "...e, oh, Lance, wherefore art thou, Lance? Deny thy father and refuse thy name. And if thou wilt not, Lance, thee bullet, me, my handprint. It was me. It was me, my love. I did everything I carved. Do you re..."
-
-</details>
-
-<details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (33 mentions)</summary>
-
-**[00:11:54](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-11-32)**
-> "... had to fight for justice. They went out immediately following the election results. One person was Lance Wallnau (Lance Wallnau), okay? I want you to remember this guy's name: Lance Wallnau (Lance Wallnau). Immed..."
-
-**[00:11:57](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-11-32)**
-> "...esults. One person was Lance Wallnau (Lance Wallnau), okay? I want you to remember this guy's name: Lance Wallnau (Lance Wallnau). Immediately—just three days after the election of 2020, on November 6th—he publish..."
-
-**[00:12:22](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-12-17)**
-> "... courageous." That's three days after—saying "stop the steal, be strong, be courageous." And Lance (Lance Wallnau), who is a charismatic preacher, wasn't the only charismatic preacher or pastor that instantly thre..."
-
-**[00:13:16](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-01)**
-> "...ooked by the House Select Committee?" this person asks, okay? NAR. I brought this up to you before. Lance Wallnau (Lance Wallnau) is in this article. So is Sean Feucht (Sean Feucht). Now you're thinking these name..."
-
-**[00:13:31](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-01)**
-> "... up to you regarding TPUSA Faith, who started to lead these events that they were having. So who is Lance Wallnau (Lance Wallnau)? Well, he is one of these NAR preachers—like I said—who came up with their Seven Mo..."
-
-**[00:13:48](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-45)**
-> "...andate. I would say like he became mesmerized by the Seven Mountain Mandate. He became friends with Lance Wallnau (Lance Wallnau). I'm going to let you listen to Lance (Lance Wallnau) himself describe this Seven M..."
-
-**[00:13:51](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-45)**
-> "...andate. He became friends with Lance Wallnau (Lance Wallnau). I'm going to let you listen to Lance (Lance Wallnau) himself describe this Seven Mountain Mandate in his own words. *(Clip from Lance Wallnau)* Hi, I'm..."
-
-**[00:13:59](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-59)**
-> "...to Lance (Lance Wallnau) himself describe this Seven Mountain Mandate in his own words. *(Clip from Lance Wallnau)* Hi, I'm Lance Wallnau. I want to talk to you for a moment about this concept called the 7M Mandat..."
-
-**[00:17:09](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-16-39)**
-> "...terally named like a fleet of ships after his father—like there was like the McCoy naval something. Lance Wallnau (Lance Wallnau)—he's no different. He graduated from a military academy. His father, Carl Wallnau, ..."
-
-**[00:17:45](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-17-23)**
-> "...ominican Republic—places that I would argue that we caused a lot of drama in—just saying. So Lance (Lance Wallnau) fits the pattern well. And before I tell you how he is very connected to Turning Point USA Faith, ..."
-
-**[00:18:50](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-18-50)**
-> "...rlie (Charlie Kirk) about this in any way as these people began to infiltrate his organization, and Lance Wallnau (Lance Wallnau) worked his way into Turning Point USA. I had a phone call with someone, by the way,..."
-
-**[00:19:58](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-19-33)**
-> "...ng characters. Rob McCoy leading that frontier, as we know. What people don't know publicly is that Lance Wallnau (Lance Wallnau) was working with him. He was intimately involved, and more importantly, he was fina..."
-
-**[00:20:07](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-20-07)**
-> "...y, he was financially involved. Sources within Turning Point's faith department tell me that Lance (Lance Wallnau) was running the show behind the scenes through funding—that he put a ton of money into Turning Poi..."
-
-**[00:20:19](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-20-07)**
-> "...tions. Now, I guess a better way for me to state this—because I want to be super clear here—is that Lance Wallnau (Lance Wallnau), who is from a military family and who is saying that he believes in infiltration a..."
-
-**[00:11:57](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-11-32)**
-> "Lance Wallnau described Seven Mountain Mandate infiltration philosophy"
-
-**[00:11:54](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-11-32)**
-> "One person was Lance Wallnau, okay?"
-
-**[00:11:57](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-11-32)**
-> "... to remember this guy's name: Lance Wallnau."
-
-**[00:12:22](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-12-17)**
-> "And Lance (Lance Wallnau), who is a charismatic preacher, wasn't the only ..."
-
-**[00:13:16](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-01)**
-> "Lance Wallnau (Lance Wallnau) is in this article."
-
-**[00:13:31](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-01)**
-> "So who is Lance Wallnau (Lance Wallnau)?"
-
-**[00:13:48](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-45)**
-> "He became friends with Lance Wallnau (Lance Wallnau)."
-
-**[00:13:48](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-45)**
-> "...e friends with Lance Wallnau (Lance Wallnau)."
-
-**[00:13:51](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-45)**
-> "...g to let you listen to Lance (Lance Wallnau) himself describe this Seven Mountain Mandate in ..."
-
-**[00:13:51](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-45)**
-> "...'m going to let you listen to Lance (Lance Wallnau) himself describe this Seven Mount..."
-
-**[00:13:59](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-59)**
-> "*(Clip from Lance Wallnau)* Hi, I'm Lance Wallnau."
-
-**[00:13:59](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-59)**
-> "... from Lance Wallnau)* Hi, I'm Lance Wallnau."
-
-**[00:17:09](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-16-39)**
-> "Lance Wallnau (Lance Wallnau)—he's no different."
-
-**[00:17:45](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-17-23)**
-> "So Lance (Lance Wallnau) fits the pattern well."
-
-**[00:18:50](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-18-50)**
-> "...iltrate his organization, and Lance Wallnau worked his way into Turning Point USA."
-
-**[00:19:58](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-19-33)**
-> "...e don't know publicly is that Lance Wallnau was working with him."
-
-**[00:20:07](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-20-07)**
-> "...epartment tell me that Lance (Lance Wallnau) was running the show behind the scenes through f..."
-
-**[00:20:07](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-20-07)**
-> "...faith department tell me that Lance (Lance Wallnau) was running the show behind the s..."
-
-**[00:20:19](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-20-07)**
-> "...o be super clear here—is that Lance Wallnau, who is from a military family"
-
-</details>
-
-<details>
-<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (12 mentions)</summary>
-
-**[00:12:42](/episodes/ep-ZGxnf5cj4Uw.md#t-00-12-42)**
-> "...r was gay. That's what I'm told. They are learning this in and through the media. They thought that Lance was just his roommate, and they were especially shocked because apparently Tyler kept mentioning to..."
-
-**[00:12:58](/episodes/ep-ZGxnf5cj4Uw.md#t-00-12-42)**
-> "... seeing. Now, I would like to interject my own voice here and say that I think this girl was likely Lance, and Tyler was working up the courage to tell his family that he was gay. That is what is most like..."
-
-**[00:13:02](/episodes/ep-ZGxnf5cj4Uw.md#t-00-12-42)**
-> "...ost likely, in my opinion, because we know for a fact that Tyler was in fact in a relationship with Lance—because we have exclusive photos, by the way; they're about to show you—that the two of them posted..."
-
-**[00:13:16](/episodes/ep-ZGxnf5cj4Uw.md#t-00-12-42)**
-> "...tos, by the way; they're about to show you—that the two of them posted to their Instagrams. This is Lance posting Halloween-era photos: “I forgot to post. My boyfriend is the best. Love you.” Don't worry; ..."
-
-**[00:13:32](/episodes/ep-ZGxnf5cj4Uw.md#t-00-13-22)**
-> "...s maybe trying to hide this stuff. And then there's another photo of them. And this one's posted by Lance again: “Pics from when Tyler had a mustache.” You can see that they were in a relationship. Just ma..."
-
-**[00:15:16](/episodes/ep-ZGxnf5cj4Uw.md#t-00-14-43)**
-> "...esting—Tyler Robinson's apartment was staged after his arrest. Now, you will recall that I spoke to Lance's family. And one of the things that Lance's family said was, “It was—hey, we own that apartment. T..."
-
-**[00:15:19](/episodes/ep-ZGxnf5cj4Uw.md#t-00-14-43)**
-> "...d after his arrest. Now, you will recall that I spoke to Lance's family. And one of the things that Lance's family said was, “It was—hey, we own that apartment. They pay rent to us. We've never met Tyler R..."
-
-**[00:15:34](/episodes/ep-ZGxnf5cj4Uw.md#t-00-15-27)**
-> "...t this—you know—that this apartment got raided. And it's very strange that they immediately cleared Lance as a suspect. And I was told by other people in the department that they wanted to keep that raid v..."
-
-**[00:15:46](/episodes/ep-ZGxnf5cj4Uw.md#t-00-15-27)**
-> "...ry hush-hush. You don't want anybody to know about the raid? There was no mention of this raid, and Lance immediately gets cleared as a suspect. Why? Well, according to Tyler's family, they went to that ap..."
-
-**[00:15:51](/episodes/ep-ZGxnf5cj4Uw.md#t-00-15-27)**
-> "...om a furry bed was placed—almost sort of implying that they're trying to transfer the attributes of Lance onto Tyler. And that's shady. But again, when I put together what I'm being told by Lance's family ..."
-
-**[00:16:13](/episodes/ep-ZGxnf5cj4Uw.md#t-00-16-10)**
-> "...ibutes of Lance onto Tyler. And that's shady. But again, when I put together what I'm being told by Lance's family and what I'm hearing from the Robinson family through a third party, I will say that it ma..."
-
-**[00:16:25](/episodes/ep-ZGxnf5cj4Uw.md#t-00-16-10)**
-> "...rty, I will say that it matches. It kind of seems like they're agreeing. One family is going, “Hey, Lance is kind of evil. Why is he getting—why is he getting cleared?” The other one's going, “Tyler's not ..."
-
-</details>
-
-<details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1 mentions)</summary>
-
-**[00:44:45](/episodes/ep-aDlhjfW6hz8.md#t-00-44-23)**
-> "...s think that we speak after that ridiculous made-up text chain between Tyler Robinson and his lover Lance—they're hilarious. Your TikToks and the videos are hilarious. I'm gonna show you just one here. Thi..."
-
-</details>
-
-<details>
-<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (1 mentions)</summary>
-
-**[00:50:12](/episodes/ep-c5BcKF91iec.md#t-00-49-29)**
-> "...el sorry for you." This is a review of my character over the years. "Candace Owens is a fraud"—from Lance Bass. Ireland Baldwin wrote, "The most disgusting, hateful, cancerous human being I've ever come ac..."
-
-</details>
-
-<details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (20 mentions)</summary>
 
 **[00:00:45](/episodes/ep-q7f8r-THr84.md#t-00-00-45)**
@@ -408,83 +485,6 @@ _Type: People_
 
 **[01:12:45](/episodes/ep-q7f8r-THr84.md#t-01-12-39)**
 > "...e need truth and I trust only you right now." Thank you. And especially, I want to say thank you to Lance's (Lance Twiggs's) family because I know this is not an easy time for you. And she was telling me, ..."
-
-</details>
-
-<details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (24 mentions)</summary>
-
-**[00:02:15](/episodes/ep-sreYYcID-QY.md#t-00-02-05)**
-> "...to be idling nearby the campus for a very long time, right? As he texted these Fed messages—him and Lance are texting, and he's telling him every second, minute by minute, what he's done—and he mentions th..."
-
-**[00:03:21](/episodes/ep-sreYYcID-QY.md#t-00-02-45)**
-> "...That's why it didn't flag me as weird when I was reading this; it didn't flag me as odd. He says to Lance, allegedly, quote, "I worry about prints." "I had to leave it," referring to the rifle, "in a bush ..."
-
-**[00:08:48](/episodes/ep-sreYYcID-QY.md#t-00-08-13)**
-> "...orrespondence that allegedly took place between these two had to have taken place between Tyler and Lance after six o'clock p.m. Well, there we go. 6:38 p.m. We get this confirmed photo—or I should say, I ..."
-
-**[00:16:49](/episodes/ep-sreYYcID-QY.md#t-00-16-13)**
-> "...e spoke to the BBC about how she had witnessed the police swarm the townhouse of Tyler Robinson and Lance while she was walking her dog in the evening. Here is what she says. I'm gonna read it directly her..."
-
-**[00:18:27](/episodes/ep-sreYYcID-QY.md#t-00-18-18)**
-> "...they didn't move at all, okay? We're supposed to believe that it was overnight that they brought in Lance, and then—according to Lance's own family—it was overnight that they, after bringing Lance in aroun..."
-
-**[00:18:55](/episodes/ep-sreYYcID-QY.md#t-00-18-18)**
-> "...hing about Sherry Steele is I can't find her. We stalked; we looked through databases; we contacted Lance's family to see if they're familiar with that name. I cannot find a woman named Sherry Steele that ..."
-
-**[00:26:31](/episodes/ep-sreYYcID-QY.md#t-00-26-02)**
-> "...t? “I did it, I did it. Oh, actually, it turns out that I have child pornography”—is that Tyler and Lance could have gotten mixed up in some deep internet stuff, which makes sense because—as we have learne..."
-
-**[00:02:15](/episodes/ep-sreYYcID-QY.md#t-00-02-05)**
-> "As he texted these Fed messages—him and Lance are texting"
-
-**[00:03:21](/episodes/ep-sreYYcID-QY.md#t-00-02-45)**
-> "He says to Lance, allegedly, quote, I worry about prints"
-
-**[00:08:48](/episodes/ep-sreYYcID-QY.md#t-00-08-13)**
-> "first correspondence between Tyler Robinson and Lance after six o'clock p.m."
-
-**[00:16:49](/episodes/ep-sreYYcID-QY.md#t-00-16-13)**
-> "witnessed the police swarm the townhouse of Tyler Robinson and Lance"
-
-**[00:18:27](/episodes/ep-sreYYcID-QY.md#t-00-18-18)**
-> "they brought in Lance, and then according to Lance's own family"
-
-**[00:18:55](/episodes/ep-sreYYcID-QY.md#t-00-18-18)**
-> "contacted Lance's family to see if they're familiar with that name"
-
-**[00:26:31](/episodes/ep-sreYYcID-QY.md#t-00-26-02)**
-> "Tyler Robinson and Lance could have gotten mixed up in some deep internet stuff"
-
-**[00:02:15](/episodes/ep-sreYYcID-QY.md#t-00-02-05)**
-> "...ed these Fed messages—him and Lance are texting, and he's telling him every second, m..."
-
-**[00:03:21](/episodes/ep-sreYYcID-QY.md#t-00-02-45)**
-> "He says to Lance, allegedly, quote, "I worry about prints.""
-
-**[00:08:48](/episodes/ep-sreYYcID-QY.md#t-00-08-13)**
-> "...en Tyler (Tyler Robinson) and Lance after six o'clock p.m."
-
-**[00:16:49](/episodes/ep-sreYYcID-QY.md#t-00-16-13)**
-> "...wnhouse of Tyler Robinson and Lance while she was walking her dog in the evening."
-
-**[00:18:27](/episodes/ep-sreYYcID-QY.md#t-00-18-18)**
-> "...vernight that they brought in Lance, and then—according to Lance's own family—it was ..."
-
-**[00:18:27](/episodes/ep-sreYYcID-QY.md#t-00-18-18)**
-> "... Lance, and then—according to Lance's own family—it was overnight that they, after brin..."
-
-**[00:18:27](/episodes/ep-sreYYcID-QY.md#t-00-18-18)**
-> "...ght that they, after bringing Lance in around 11 o'clock p.m.-ish, right,"
-
-**[00:18:55](/episodes/ep-sreYYcID-QY.md#t-00-18-18)**
-> "...rough databases; we contacted Lance's family to see if they're familiar with that name."
-
-**[00:26:31](/episodes/ep-sreYYcID-QY.md#t-00-26-02)**
-> "...at Tyler (Tyler Robinson) and Lance could have gotten mixed up in some deep internet ..."
-
-**[00:26:31](/episodes/ep-sreYYcID-QY.md#t-00-26-02)**
-> "...se because—as we have learned—Lance is deep on the web."
 
 </details>
 

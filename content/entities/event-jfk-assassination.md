@@ -30,17 +30,6 @@ _Type: Events_
 </details>
 
 <details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
-
-**[00:44:21](/episodes/ep-YA1FxrDWNIo.md#ent-event-jfk-assassination-t-00-43-43)**
-> "...really is. I mean, I think his name online is An0maly. AJ tweeted, "Is this what happened after the JFK assassination?" "Did all of his friends race to say, 'Don't investigate, don't investigate, accept the narrative ..."
-
-**[00:44:21](/episodes/ep-YA1FxrDWNIo.md#ent-event-jfk-assassination-t-00-43-43)**
-> "... this what happened after the JFK assassination?""
-
-</details>
-
-<details>
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:05:14](/episodes/ep-mKXdKV-OBog.md#ent-event-jfk-assassination-t-00-05-02)**
@@ -62,6 +51,17 @@ _Type: Events_
 
 </details>
 
+<details>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
+
+**[00:44:21](/episodes/ep-YA1FxrDWNIo.md#ent-event-jfk-assassination-t-00-43-43)**
+> "...really is. I mean, I think his name online is An0maly. AJ tweeted, "Is this what happened after the JFK assassination?" "Did all of his friends race to say, 'Don't investigate, don't investigate, accept the narrative ..."
+
+**[00:44:21](/episodes/ep-YA1FxrDWNIo.md#ent-event-jfk-assassination-t-00-43-43)**
+> "... this what happened after the JFK assassination?""
+
+</details>
+
 </details>
 
 <details open>
@@ -73,25 +73,6 @@ _No relationships extracted yet._
 
 <details open>
 <summary><strong class="section-title">Statements about JFK assassination (13)</strong></summary>
-
-<details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1)</summary>
-
-- [00:18:27](/episodes/ep-7RLtGgkTh9o.md#t-00-18-12) (Accusation) **Candace Owens**: ["The government employed a military-grade MKUltra program after JFK was..."](/statements/statement-0af73f1b4477.md)
-  - Also about: [MKUltra](/entities/concept-mkultra.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
-
-</details>
-
-<details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (2)</summary>
-
-- [00:00:02](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00) (Claim) **Candace Owens**: ["The CIA established Operation Mockingbird after the public execution o..."](/statements/statement-b6c4b6edb33f.md)
-  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
-
-- [00:00:03](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00) (Claim) **Candace Owens**: ["The CIA established Operation Mockingbird after the public execution o..."](/statements/statement-e318b0075c46.md)
-  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
-
-</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (10)</summary>
@@ -123,6 +104,25 @@ _No relationships extracted yet._
 
 - [00:04:42](/episodes/ep-Kmt6HgRjckU.md#t-00-04-16) (Accusation) **Candace Owens**: ["Lyndon Baines Johnson was clearly implicated in JFK's assassination"](/statements/statement-a61d98f28600.md)
   - Also about: [Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson.md)
+
+</details>
+
+<details>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (2)</summary>
+
+- [00:00:02](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00) (Claim) **Candace Owens**: ["The CIA established Operation Mockingbird after the public execution o..."](/statements/statement-b6c4b6edb33f.md)
+  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
+
+- [00:00:03](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00) (Claim) **Candace Owens**: ["The CIA established Operation Mockingbird after the public execution o..."](/statements/statement-e318b0075c46.md)
+  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
+
+</details>
+
+<details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1)</summary>
+
+- [00:18:27](/episodes/ep-7RLtGgkTh9o.md#t-00-18-12) (Accusation) **Candace Owens**: ["The government employed a military-grade MKUltra program after JFK was..."](/statements/statement-0af73f1b4477.md)
+  - Also about: [MKUltra](/entities/concept-mkultra.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
 
 </details>
 

@@ -1,11 +1,11 @@
 ---
 title: "Fox & Friends"
-description: "Fox & Friends (Work) - 2 mentions"
+description: "Fox & Friends (Works & Media) - 2 mentions"
 id: "work-fox-and-friends"
 type: "WORK"
 ---
 
-_Type: Work_
+_Type: Works & Media_
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

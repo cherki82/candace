@@ -55,20 +55,6 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Married To (1)</summary>
-
-- **[Ivanka Trump](/entities/person-ivanka-trump.md)**
-  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:08:30](/episodes/ep-r1PS67aRmcA.md#t-00-07-46): "They know about Jared and his deals with Ivanka"
-
-</details>
-
-<details>
-<summary>Referenced By (1)</summary>
-
-- **[Ivanka Trump](/entities/person-ivanka-trump.md)** married to this
-  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:08:30](/episodes/ep-r1PS67aRmcA.md#t-00-07-46)
-
-</details>
+_No relationships extracted yet._
 
 </details>

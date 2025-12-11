@@ -18,6 +18,20 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (3 mentions)</summary>
+
+**[00:55:29](/episodes/ep-vwG1juDCQZQ.md#ent-org-blexit-t-00-55-08)**
+> "business arrangement with Blexit"
+
+**[00:55:29](/episodes/ep-vwG1juDCQZQ.md#ent-org-blexit-t-00-55-08)**
+> "...A's business arrangement with Blexit.""
+
+**[00:55:39](/episodes/ep-vwG1juDCQZQ.md#ent-org-blexit-t-00-55-08)**
+> "...e a business arrangement with Blexit—but she's saying that, and it's kind of like dang..."
+
+</details>
+
+<details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (7 mentions)</summary>
 
 **[00:00:03](/episodes/ep-Cq7nj9rxPdo.md#ent-org-blexit-t-00-03-31)**
@@ -51,20 +65,6 @@ _Type: Organizations_
 
 **[00:17:05](/episodes/ep-_dRaEO47-co.md#ent-org-blexit-t-00-16-36)**
 > "...ght by my side when I started Blexit, obviously."
-
-</details>
-
-<details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (3 mentions)</summary>
-
-**[00:55:29](/episodes/ep-vwG1juDCQZQ.md#ent-org-blexit-t-00-55-08)**
-> "business arrangement with Blexit"
-
-**[00:55:29](/episodes/ep-vwG1juDCQZQ.md#ent-org-blexit-t-00-55-08)**
-> "...A's business arrangement with Blexit.""
-
-**[00:55:39](/episodes/ep-vwG1juDCQZQ.md#ent-org-blexit-t-00-55-08)**
-> "...e a business arrangement with Blexit—but she's saying that, and it's kind of like dang..."
 
 </details>
 

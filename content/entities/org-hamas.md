@@ -13,25 +13,6 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
-
-**[00:04:51](/episodes/ep-K1tFD7FfoCU.md#ent-org-hamas-t-00-04-45)**
-> "...mination of Israel, to defend Hamas, to even criticize President Trump (Donald Trump)..."
-
-</details>
-
-<details>
-<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2 mentions)</summary>
-
-**[00:04:39](/episodes/ep-K5GjF53bfN4.md#ent-org-hamas-t-00-04-24)**
-> "...e indirectly going to empower Hamas.""
-
-**[00:07:21](/episodes/ep-K5GjF53bfN4.md#ent-org-hamas-t-00-07-21)**
-> "Like were there Hamas tunnels under the Hamptons?"
-
-</details>
-
-<details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
 
 **[00:39:49](/episodes/ep-Kmt6HgRjckU.md#ent-org-hamas-t-00-39-23)**
@@ -39,6 +20,14 @@ _Type: Organizations_
 
 **[00:39:42](/episodes/ep-Kmt6HgRjckU.md#ent-org-hamas-t-00-39-23)**
 > "...y we have a relationship with Hamas is because the U.S. government asked us to establ..."
+
+</details>
+
+<details>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1 mentions)</summary>
+
+**[00:29:26](/episodes/ep-YaZfwLQ7vrI.md#ent-org-hamas-t-00-29-00)**
+> "...d that they're all supporting Hamas, which is basically justifying a genocide, right?"
 
 </details>
 
@@ -51,10 +40,10 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
 
-**[00:29:26](/episodes/ep-YaZfwLQ7vrI.md#ent-org-hamas-t-00-29-00)**
-> "...d that they're all supporting Hamas, which is basically justifying a genocide, right?"
+**[00:04:51](/episodes/ep-K1tFD7FfoCU.md#ent-org-hamas-t-00-04-45)**
+> "...mination of Israel, to defend Hamas, to even criticize President Trump (Donald Trump)..."
 
 </details>
 
@@ -79,17 +68,6 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (2 mentions)</summary>
-
-**[00:51:57](/episodes/ep-q7f8r-THr84.md#ent-org-hamas-t-00-51-57)**
-> "... propaganda coming at us from Hamas, but their numbers have turned."
-
-**[00:54:11](/episodes/ep-q7f8r-THr84.md#ent-org-hamas-t-00-53-59)**
-> "...ot like we're going to be pro-Hamas, not like we're going to—but we're like, honestly..."
-
-</details>
-
-<details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
 
 **[00:46:38](/episodes/ep-t1YtLS1n8Vs.md#ent-org-hamas-t-00-46-32)**
@@ -97,6 +75,28 @@ _Type: Organizations_
 
 **[00:46:46](/episodes/ep-t1YtLS1n8Vs.md#ent-org-hamas-t-00-46-32)**
 > "...Rachel and Greta Thunberg are Hamas."
+
+</details>
+
+<details>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2 mentions)</summary>
+
+**[00:04:39](/episodes/ep-K5GjF53bfN4.md#ent-org-hamas-t-00-04-24)**
+> "...e indirectly going to empower Hamas.""
+
+**[00:07:21](/episodes/ep-K5GjF53bfN4.md#ent-org-hamas-t-00-07-21)**
+> "Like were there Hamas tunnels under the Hamptons?"
+
+</details>
+
+<details>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (2 mentions)</summary>
+
+**[00:51:57](/episodes/ep-q7f8r-THr84.md#ent-org-hamas-t-00-51-57)**
+> "... propaganda coming at us from Hamas, but their numbers have turned."
+
+**[00:54:11](/episodes/ep-q7f8r-THr84.md#ent-org-hamas-t-00-53-59)**
+> "...ot like we're going to be pro-Hamas, not like we're going to—but we're like, honestly..."
 
 </details>
 

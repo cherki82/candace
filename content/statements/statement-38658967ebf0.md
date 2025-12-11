@@ -20,7 +20,7 @@ type: "factual_claim"
 
 ## About
 
-- [Angola Gate](/entities/concept-angola-gate.md) (concept)
+- [Angolagate scandal](/entities/event-angola-gate.md) (event)
 - [Angola](/entities/gpe-angola.md) (gpe)
 - [Israel](/entities/gpe-israel.md) (gpe)
 - [France](/entities/gpe-france.md) (gpe)

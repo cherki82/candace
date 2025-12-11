@@ -21,7 +21,7 @@ type: "factual_claim"
 ## About
 
 - [Pierre Falcone](/entities/person-pierre-falcone.md) (person)
-- [Angola Gate](/entities/concept-angola-gate.md) (concept)
+- [Angolagate scandal](/entities/event-angola-gate.md) (event)
 - [Angola](/entities/gpe-angola.md) (gpe)
 - [France](/entities/gpe-france.md) (gpe)
 - [Israel](/entities/gpe-israel.md) (gpe)

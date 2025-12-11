@@ -17,6 +17,64 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2 mentions)</summary>
+
+**[00:24:58](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-hollywood-t-00-24-28)**
+> "...—or even the United States Pentagon—has formally denied this quote-unquote crazy claim? That's what Hollywood's for, right? You—all of you at home, all across the world—you're supposed to be fat and dumb and e..."
+
+**[00:24:58](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-hollywood-t-00-24-28)**
+> "That's what Hollywood's for, right?"
+
+</details>
+
+<details>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1 mentions)</summary>
+
+**[00:39:20](/episodes/ep-DqGNvi36ol8.md#ent-gpe-hollywood-t-00-39-15)**
+> "...hones and flat screen TVs and Hollywood and the Kardashians and we're supposed to think t..."
+
+</details>
+
+<details>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (4 mentions)</summary>
+
+**[00:51:29](/episodes/ep-his-JBjlkh8.md#ent-gpe-hollywood-t-00-50-53)**
+> "...ta be song number 13? What's going on? This better not be predictive programming, okay? We know how Hollywood gets down, okay? We're reading your books. Anyways, he was asked this question—this exact question—..."
+
+**[00:57:35](/episodes/ep-his-JBjlkh8.md#ent-gpe-hollywood-t-00-57-02)**
+> "...we stop subjecting ourselves to their systems—their financial systems, their peer pressure systems, Hollywood, you know, the adoration that we had for stars and we followed their trends. And if we actually stu..."
+
+**[00:51:29](/episodes/ep-his-JBjlkh8.md#ent-gpe-hollywood-t-00-50-53)**
+> "We know how Hollywood gets down, okay?"
+
+**[00:57:35](/episodes/ep-his-JBjlkh8.md#ent-gpe-hollywood-t-00-57-02)**
+> "... their peer pressure systems, Hollywood, you know, the adoration that we had for stars an..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+
+**[00:50:14](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-hollywood-t-00-50-13)**
+> "... the invites to Mar-a-Lago and you can hang out and get dressed up and hang out with cool people in Hollywood if you just look the other way when children are being abused? This is that mentality, okay? It's d..."
+
+**[00:50:14](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-hollywood-t-00-50-13)**
+> "... hang out with cool people in Hollywood if you just look the other way when children are ..."
+
+</details>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
+
+**[00:50:37](/episodes/ep-sImMM04XdWY.md#ent-gpe-hollywood-t-00-50-01)**
+> "...ow fix it in this system. All of it's happening at once. The Epstein files, the sort of collapse of Hollywood, the stories that we are learning and watching the elites protect Jeffrey Epstein—his victims speak..."
+
+**[00:50:37](/episodes/ep-sImMM04XdWY.md#ent-gpe-hollywood-t-00-50-01)**
+> "the sort of collapse of Hollywood, the stories that we are learning and watching th..."
+
+</details>
+
+<details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (17 mentions)</summary>
 
 **[00:00:23](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-00-00)**
@@ -73,27 +131,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
-**[00:11:08](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-hollywood-t-00-10-48)**
-> "..."I have a handler." I thought that he was just saying that. I thought that he was referring to just Hollywood. I now very much believe that I have had handlers since 2018, and that things were done intentional..."
+**[00:30:59](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-hollywood-t-00-30-45)**
+> "...l the layers of the onion into our Epstein series that we have done. And it looks like they created Hollywood and fashion and movies as a means to traffic individuals, right? No one would blink twice. If you'r..."
 
-**[01:08:20](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-hollywood-t-01-08-20)**
-> "... them that. You did it with Kanye; you put him on a psych 5150 hold. You did that to many people in Hollywood. I know how it works, and I'm teaching people to learn about your psychological operation—which is ..."
-
-**[00:11:08](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-hollywood-t-00-10-48)**
-> "...that he was referring to just Hollywood."
-
-**[01:08:20](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-hollywood-t-01-08-20)**
-> "...ou did that to many people in Hollywood."
-
-</details>
-
-<details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1 mentions)</summary>
-
-**[00:39:20](/episodes/ep-DqGNvi36ol8.md#ent-gpe-hollywood-t-00-39-15)**
-> "...hones and flat screen TVs and Hollywood and the Kardashians and we're supposed to think t..."
+**[00:30:59](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-hollywood-t-00-30-45)**
+> "...nd it looks like they created Hollywood and fashion and movies as a means"
 
 </details>
 
@@ -115,34 +159,6 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2 mentions)</summary>
-
-**[00:24:58](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-hollywood-t-00-24-28)**
-> "...—or even the United States Pentagon—has formally denied this quote-unquote crazy claim? That's what Hollywood's for, right? You—all of you at home, all across the world—you're supposed to be fat and dumb and e..."
-
-**[00:24:58](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-hollywood-t-00-24-28)**
-> "That's what Hollywood's for, right?"
-
-</details>
-
-<details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (4 mentions)</summary>
-
-**[00:51:29](/episodes/ep-his-JBjlkh8.md#ent-gpe-hollywood-t-00-50-53)**
-> "...ta be song number 13? What's going on? This better not be predictive programming, okay? We know how Hollywood gets down, okay? We're reading your books. Anyways, he was asked this question—this exact question—..."
-
-**[00:57:35](/episodes/ep-his-JBjlkh8.md#ent-gpe-hollywood-t-00-57-02)**
-> "...we stop subjecting ourselves to their systems—their financial systems, their peer pressure systems, Hollywood, you know, the adoration that we had for stars and we followed their trends. And if we actually stu..."
-
-**[00:51:29](/episodes/ep-his-JBjlkh8.md#ent-gpe-hollywood-t-00-50-53)**
-> "We know how Hollywood gets down, okay?"
-
-**[00:57:35](/episodes/ep-his-JBjlkh8.md#ent-gpe-hollywood-t-00-57-02)**
-> "... their peer pressure systems, Hollywood, you know, the adoration that we had for stars an..."
-
-</details>
-
-<details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
 
 **[01:01:13](/episodes/ep-iHav0PPzUz8.md#ent-gpe-hollywood-t-01-00-41)**
@@ -154,13 +170,19 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
 
-**[00:50:37](/episodes/ep-sImMM04XdWY.md#ent-gpe-hollywood-t-00-50-01)**
-> "...ow fix it in this system. All of it's happening at once. The Epstein files, the sort of collapse of Hollywood, the stories that we are learning and watching the elites protect Jeffrey Epstein—his victims speak..."
+**[00:11:08](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-hollywood-t-00-10-48)**
+> "..."I have a handler." I thought that he was just saying that. I thought that he was referring to just Hollywood. I now very much believe that I have had handlers since 2018, and that things were done intentional..."
 
-**[00:50:37](/episodes/ep-sImMM04XdWY.md#ent-gpe-hollywood-t-00-50-01)**
-> "the sort of collapse of Hollywood, the stories that we are learning and watching th..."
+**[01:08:20](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-hollywood-t-01-08-20)**
+> "... them that. You did it with Kanye; you put him on a psych 5150 hold. You did that to many people in Hollywood. I know how it works, and I'm teaching people to learn about your psychological operation—which is ..."
+
+**[00:11:08](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-hollywood-t-00-10-48)**
+> "...that he was referring to just Hollywood."
+
+**[01:08:20](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-hollywood-t-01-08-20)**
+> "...ou did that to many people in Hollywood."
 
 </details>
 
@@ -172,28 +194,6 @@ _Type: Places_
 
 **[00:12:38](/episodes/ep-sreYYcID-QY.md#ent-gpe-hollywood-t-00-12-30)**
 > "...overs celebrity gossip out of Hollywood—right?"
-
-</details>
-
-<details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
-
-**[00:50:14](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-hollywood-t-00-50-13)**
-> "... the invites to Mar-a-Lago and you can hang out and get dressed up and hang out with cool people in Hollywood if you just look the other way when children are being abused? This is that mentality, okay? It's d..."
-
-**[00:50:14](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-hollywood-t-00-50-13)**
-> "... hang out with cool people in Hollywood if you just look the other way when children are ..."
-
-</details>
-
-<details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
-
-**[00:30:59](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-hollywood-t-00-30-45)**
-> "...l the layers of the onion into our Epstein series that we have done. And it looks like they created Hollywood and fashion and movies as a means to traffic individuals, right? No one would blink twice. If you'r..."
-
-**[00:30:59](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-hollywood-t-00-30-45)**
-> "...nd it looks like they created Hollywood and fashion and movies as a means"
 
 </details>
 

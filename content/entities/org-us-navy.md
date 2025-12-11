@@ -17,24 +17,18 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1 mentions)</summary>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
 
-**[00:28:22](/episodes/ep-5autG89PW6w.md#t-00-27-54)**
-> "...was very happy to hear former Navy SEAL Rob O'Neill explain this plainly when he wen..."
+**[00:37:55](/episodes/ep-his-JBjlkh8.md#t-00-37-21)**
+> "...eadquarters for the Army, the Navy, and the Air Force."
 
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
 
-**[00:23:08](/episodes/ep-Cq7nj9rxPdo.md#ent-org-us-navy-t-00-22-48)**
-> "... honest—former officer in the U.S. Navy, and then he turned to Christian apologetics."
-
-**[00:23:08](/episodes/ep-Cq7nj9rxPdo.md#ent-org-us-navy-t-00-22-48)**
-> "...st—former officer in the U.S. Navy, and then he turned to Christian apologetics."
-
-**[00:24:07](/episodes/ep-Cq7nj9rxPdo.md#ent-org-us-navy-t-00-22-48)**
-> "... psychological warfare in the Navy."
+**[00:12:19](/episodes/ep-yAIb-NuUh_U.md#t-00-12-06)**
+> "...m his father who did this for Navy intelligence, right?"
 
 </details>
 
@@ -61,10 +55,24 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3 mentions)</summary>
 
-**[00:37:55](/episodes/ep-his-JBjlkh8.md#t-00-37-21)**
-> "...eadquarters for the Army, the Navy, and the Air Force."
+**[00:23:08](/episodes/ep-Cq7nj9rxPdo.md#ent-org-us-navy-t-00-22-48)**
+> "... honest—former officer in the U.S. Navy, and then he turned to Christian apologetics."
+
+**[00:23:08](/episodes/ep-Cq7nj9rxPdo.md#ent-org-us-navy-t-00-22-48)**
+> "...st—former officer in the U.S. Navy, and then he turned to Christian apologetics."
+
+**[00:24:07](/episodes/ep-Cq7nj9rxPdo.md#ent-org-us-navy-t-00-22-48)**
+> "... psychological warfare in the Navy."
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1 mentions)</summary>
+
+**[00:28:22](/episodes/ep-5autG89PW6w.md#t-00-27-54)**
+> "...was very happy to hear former Navy SEAL Rob O'Neill explain this plainly when he wen..."
 
 </details>
 
@@ -73,14 +81,6 @@ _Type: Organizations_
 
 **[00:48:35](/episodes/ep-ja26iltROkM.md#t-00-48-05)**
 > "I find it odd that a Navy intelligence officer—that the people closest to y..."
-
-</details>
-
-<details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
-
-**[00:12:19](/episodes/ep-yAIb-NuUh_U.md#t-00-12-06)**
-> "...m his father who did this for Navy intelligence, right?"
 
 </details>
 

@@ -17,6 +17,23 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (4 mentions)</summary>
+
+**[00:41:59](/episodes/ep-adJ4LNGp84I.md#ent-org-utah-state-university-t-00-41-25)**
+> "...ns), tonight, which is September 30th, 2025, several friends and myself attended the TPUSA event at Utah State University. There was a full agreement that all were disappointed. The event was scripted. The allowance of op..."
+
+**[00:41:48](/episodes/ep-adJ4LNGp84I.md#ent-org-utah-state-university-t-00-41-25)**
+> "...section for some reason. Oh, I wanted to read this email that came in because Turning Point had the USU event last night. They went back to Utah and returned, made a big splash about that. And this perso..."
+
+**[00:41:48](/episodes/ep-adJ4LNGp84I.md#ent-org-utah-state-university-t-00-41-25)**
+> "...because Turning Point had the USU event last night."
+
+**[00:41:59](/episodes/ep-adJ4LNGp84I.md#ent-org-utah-state-university-t-00-41-25)**
+> "...f attended the TPUSA event at Utah State University."
+
+</details>
+
+<details>
 <summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
 
 **[00:29:25](/episodes/ep-YA1FxrDWNIo.md#ent-org-utah-state-university-t-00-29-25)**
@@ -41,23 +58,6 @@ _Type: Organizations_
 
 **[00:41:33](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-utah-state-university-t-00-41-28)**
 > "...ly there's another Utah event—USU event—coming up, and Governor Cox is supposed to ..."
-
-</details>
-
-<details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (4 mentions)</summary>
-
-**[00:41:59](/episodes/ep-adJ4LNGp84I.md#ent-org-utah-state-university-t-00-41-25)**
-> "...ns), tonight, which is September 30th, 2025, several friends and myself attended the TPUSA event at Utah State University. There was a full agreement that all were disappointed. The event was scripted. The allowance of op..."
-
-**[00:41:48](/episodes/ep-adJ4LNGp84I.md#ent-org-utah-state-university-t-00-41-25)**
-> "...section for some reason. Oh, I wanted to read this email that came in because Turning Point had the USU event last night. They went back to Utah and returned, made a big splash about that. And this perso..."
-
-**[00:41:48](/episodes/ep-adJ4LNGp84I.md#ent-org-utah-state-university-t-00-41-25)**
-> "...because Turning Point had the USU event last night."
-
-**[00:41:59](/episodes/ep-adJ4LNGp84I.md#ent-org-utah-state-university-t-00-41-25)**
-> "...f attended the TPUSA event at Utah State University."
 
 </details>
 

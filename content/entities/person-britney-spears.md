@@ -13,6 +13,25 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1 mentions)</summary>
+
+**[00:03:20](/episodes/ep-DqGNvi36ol8.md#ent-person-britney-spears-t-00-02-57)**
+> "You get like, you know, Britney Spears, Justin Timberlake to wear your denim."
+
+</details>
+
+<details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+
+**[00:45:49](/episodes/ep-tB5SXXmd9vU.md#ent-person-britney-spears-t-00-45-28)**
+> "...like mental warfare. They put you in a hospital and say you're crazy and drug you, like they did to Britney Spears, like they did to Kanye West, or they bankrupt you, right? That's also one of the mechanisms. Do yo..."
+
+**[00:45:49](/episodes/ep-tB5SXXmd9vU.md#ent-person-britney-spears-t-00-45-28)**
+> "like they did to Britney Spears, like they did to Kanye West, or they bankrupt yo..."
+
+</details>
+
+<details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (32 mentions)</summary>
 
 **[00:00:50](/episodes/ep-7RLtGgkTh9o.md#ent-person-britney-spears-t-00-00-44)**
@@ -113,25 +132,6 @@ _Type: People_
 
 </details>
 
-<details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1 mentions)</summary>
-
-**[00:03:20](/episodes/ep-DqGNvi36ol8.md#ent-person-britney-spears-t-00-02-57)**
-> "You get like, you know, Britney Spears, Justin Timberlake to wear your denim."
-
-</details>
-
-<details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
-
-**[00:45:49](/episodes/ep-tB5SXXmd9vU.md#ent-person-britney-spears-t-00-45-28)**
-> "...like mental warfare. They put you in a hospital and say you're crazy and drug you, like they did to Britney Spears, like they did to Kanye West, or they bankrupt you, right? That's also one of the mechanisms. Do yo..."
-
-**[00:45:49](/episodes/ep-tB5SXXmd9vU.md#ent-person-britney-spears-t-00-45-28)**
-> "like they did to Britney Spears, like they did to Kanye West, or they bankrupt yo..."
-
-</details>
-
 </details>
 
 <details open>
@@ -154,24 +154,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>Sibling Of (1)</summary>
-
-- **[Jamie Lynn Spears](/entities/person-jamie-lynn-spears.md)**
-  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:06:40](/episodes/ep-7RLtGgkTh9o.md#t-00-06-14): "younger sister, Jamie Lynn"
-
-</details>
-
-<details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (2)</summary>
 
 - **[Jamie Spears](/entities/person-jamie-spears.md)** parent of this
   - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:06:40](/episodes/ep-7RLtGgkTh9o.md#t-00-06-14)
 
 - **[Thousand Oaks, California](/entities/gpe-thousand-oaks-california.md)** residence of this
   - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:15:59](/episodes/ep-7RLtGgkTh9o.md#t-00-15-24)
-
-- **[Jamie Lynn Spears](/entities/person-jamie-lynn-spears.md)** sibling of this
-  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:06:40](/episodes/ep-7RLtGgkTh9o.md#t-00-06-14)
 
 </details>
 

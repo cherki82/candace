@@ -63,14 +63,6 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Affiliated With (1)</summary>
-
-- **[Fox News](/entities/org-fox-news.md)**
-  - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:22:17](/episodes/ep-pc3pxRyNFZk.md#t-00-22-13): "Jason Chavitz is a former politician and a Fox News contributor"
-
-</details>
-
-<details>
 <summary>Lives In (1)</summary>
 
 - **[Utah](/entities/gpe-utah.md)**
@@ -79,10 +71,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
-
-- **[Fox News](/entities/org-fox-news.md)** affiliated with this
-  - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:22:17](/episodes/ep-pc3pxRyNFZk.md#t-00-22-13)
+<summary>Referenced By (1)</summary>
 
 - **[Utah](/entities/gpe-utah.md)** residence of this
   - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:22:17](/episodes/ep-pc3pxRyNFZk.md#t-00-22-13)

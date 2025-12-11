@@ -13,13 +13,24 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
 
-**[00:53:29](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-texas-t-00-53-05)**
-> "... that is a very powerful prayer of protection. Rianne writes, "Hi, this is Rianne from San Antonio, Texas." "Thank you, Candace (Candace Owens), for never giving up on the truth." "You are Charlie (Charlie..."
+**[00:02:29](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-texas-t-00-01-46)**
+> "Texas schoolbook depository mentioned"
 
-**[00:53:29](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-texas-t-00-53-05)**
-> "...s is Rianne from San Antonio, Texas.""
+**[00:02:24](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-texas-t-00-01-46)**
+> "...own right when it went by the Texas schoolbook depository."
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
+
+**[00:45:14](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-texas-t-00-44-40)**
+> "...nts that are happening—these inexplicable events like the Malibu fires, sort of coastal events, the Texas floods—that this is not happening by accident, okay? I have a feeling of a sense of dread that the ..."
+
+**[00:45:14](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-texas-t-00-44-40)**
+> "..., sort of coastal events, the Texas floods—that this is not happening by accident, ok..."
 
 </details>
 
@@ -35,13 +46,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
-**[00:02:29](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-texas-t-00-01-46)**
-> "Texas schoolbook depository mentioned"
+**[00:53:29](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-texas-t-00-53-05)**
+> "... that is a very powerful prayer of protection. Rianne writes, "Hi, this is Rianne from San Antonio, Texas." "Thank you, Candace (Candace Owens), for never giving up on the truth." "You are Charlie (Charlie..."
 
-**[00:02:24](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-texas-t-00-01-46)**
-> "...own right when it went by the Texas schoolbook depository."
+**[00:53:29](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-texas-t-00-53-05)**
+> "...s is Rianne from San Antonio, Texas.""
 
 </details>
 
@@ -64,17 +75,6 @@ _Type: Places_
 
 **[00:13:44](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-texas-t-00-13-27)**
 > "...by the Wilks Brothers down in Texas."
-
-</details>
-
-<details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
-
-**[00:45:14](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-texas-t-00-44-40)**
-> "...nts that are happening—these inexplicable events like the Malibu fires, sort of coastal events, the Texas floods—that this is not happening by accident, okay? I have a feeling of a sense of dread that the ..."
-
-**[00:45:14](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-texas-t-00-44-40)**
-> "..., sort of coastal events, the Texas floods—that this is not happening by accident, ok..."
 
 </details>
 

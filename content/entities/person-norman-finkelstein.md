@@ -28,38 +28,6 @@ _Type: People_
 </details>
 
 <details>
-<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (9 mentions)</summary>
-
-**[00:39:19](/episodes/ep-Qt0VHV-POCg.md#ent-person-norman-finkelstein-t-00-38-57)**
-> "...at I was very excited to sit down and have a conversation which we will be releasing on Friday with Norman Finkelstein. Norman Finkelstein was probably the single greatest contributor to me being sort of just smacked i..."
-
-**[00:39:31](/episodes/ep-Qt0VHV-POCg.md#ent-person-norman-finkelstein-t-00-38-57)**
-> "...d to sit down and have a conversation which we will be releasing on Friday with Norman Finkelstein. Norman Finkelstein was probably the single greatest contributor to me being sort of just smacked in the gut about Gaza..."
-
-**[00:40:49](/episodes/ep-Qt0VHV-POCg.md#ent-person-norman-finkelstein-t-00-40-15)**
-> "...me on my totally owned show. And I'm just gonna show you a little trailer for that. Take a listen. [Norman Finkelstein trailer]: NORMAN FINKELSTEIN: The Economist magazine—it describes Gaza as, quote, "a human rubbish ..."
-
-**[00:40:51](/episodes/ep-Qt0VHV-POCg.md#ent-person-norman-finkelstein-t-00-40-15)**
-> "...And I'm just gonna show you a little trailer for that. Take a listen. [Norman Finkelstein trailer]: NORMAN FINKELSTEIN: The Economist magazine—it describes Gaza as, quote, "a human rubbish heap." The leading UN officia..."
-
-**[00:40:22](/episodes/ep-Qt0VHV-POCg.md#ent-person-norman-finkelstein-t-00-40-15)**
-> "...p being indoctrinated not to ask a single question when it comes to Israel. That's the reality. And Norm Finkelstein—whose parents survived; one of his parents survived Auschwitz—was the reason I had him on my show r..."
-
-**[00:39:19](/episodes/ep-Qt0VHV-POCg.md#ent-person-norman-finkelstein-t-00-38-57)**
-> "...l be releasing on Friday with Norman Finkelstein."
-
-**[00:39:31](/episodes/ep-Qt0VHV-POCg.md#ent-person-norman-finkelstein-t-00-38-57)**
-> "Norman Finkelstein was probably"
-
-**[00:40:22](/episodes/ep-Qt0VHV-POCg.md#ent-person-norman-finkelstein-t-00-40-15)**
-> "And Norm Finkelstein—whose parents survived; one of his parents surviv..."
-
-**[00:40:49](/episodes/ep-Qt0VHV-POCg.md#ent-person-norman-finkelstein-t-00-40-15)**
-> "Take a listen. [Norman Finkelstein trailer]:"
-
-</details>
-
-<details>
 <summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (4 mentions)</summary>
 
 **[01:02:22](/episodes/ep-YFmRH8p5lt0.md#ent-person-norman-finkelstein-t-01-01-43)**
@@ -96,6 +64,38 @@ _Type: People_
 
 **[01:02:24](/episodes/ep-iHav0PPzUz8.md#ent-person-norman-finkelstein-t-01-02-03)**
 > "...ur support, and tomorrow is a Norm Finkelstein interview."
+
+</details>
+
+<details>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (9 mentions)</summary>
+
+**[00:39:19](/episodes/ep-Qt0VHV-POCg.md#ent-person-norman-finkelstein-t-00-38-57)**
+> "...at I was very excited to sit down and have a conversation which we will be releasing on Friday with Norman Finkelstein. Norman Finkelstein was probably the single greatest contributor to me being sort of just smacked i..."
+
+**[00:39:31](/episodes/ep-Qt0VHV-POCg.md#ent-person-norman-finkelstein-t-00-38-57)**
+> "...d to sit down and have a conversation which we will be releasing on Friday with Norman Finkelstein. Norman Finkelstein was probably the single greatest contributor to me being sort of just smacked in the gut about Gaza..."
+
+**[00:40:49](/episodes/ep-Qt0VHV-POCg.md#ent-person-norman-finkelstein-t-00-40-15)**
+> "...me on my totally owned show. And I'm just gonna show you a little trailer for that. Take a listen. [Norman Finkelstein trailer]: NORMAN FINKELSTEIN: The Economist magazine—it describes Gaza as, quote, "a human rubbish ..."
+
+**[00:40:51](/episodes/ep-Qt0VHV-POCg.md#ent-person-norman-finkelstein-t-00-40-15)**
+> "...And I'm just gonna show you a little trailer for that. Take a listen. [Norman Finkelstein trailer]: NORMAN FINKELSTEIN: The Economist magazine—it describes Gaza as, quote, "a human rubbish heap." The leading UN officia..."
+
+**[00:40:22](/episodes/ep-Qt0VHV-POCg.md#ent-person-norman-finkelstein-t-00-40-15)**
+> "...p being indoctrinated not to ask a single question when it comes to Israel. That's the reality. And Norm Finkelstein—whose parents survived; one of his parents survived Auschwitz—was the reason I had him on my show r..."
+
+**[00:39:19](/episodes/ep-Qt0VHV-POCg.md#ent-person-norman-finkelstein-t-00-38-57)**
+> "...l be releasing on Friday with Norman Finkelstein."
+
+**[00:39:31](/episodes/ep-Qt0VHV-POCg.md#ent-person-norman-finkelstein-t-00-38-57)**
+> "Norman Finkelstein was probably"
+
+**[00:40:22](/episodes/ep-Qt0VHV-POCg.md#ent-person-norman-finkelstein-t-00-40-15)**
+> "And Norm Finkelstein—whose parents survived; one of his parents surviv..."
+
+**[00:40:49](/episodes/ep-Qt0VHV-POCg.md#ent-person-norman-finkelstein-t-00-40-15)**
+> "Take a listen. [Norman Finkelstein trailer]:"
 
 </details>
 

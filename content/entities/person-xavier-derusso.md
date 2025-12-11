@@ -97,27 +97,7 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Affiliated With (2)</summary>
-
-- **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:03:47](/episodes/ep-K5GjF53bfN4.md#t-00-03-26): "Xavier DeRusso was there. I had reached out to him."
-
-- **[PragerU](/entities/org-prageru.md)**
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:08:19](/episodes/ep-K5GjF53bfN4.md#t-00-08-02): "And I also love the context of him doing this on PragerU's platform."
-
-</details>
-
-<details>
-<summary>Referenced By (2)</summary>
-
-- **[Turning Point USA](/entities/org-turning-point-usa.md)** affiliated with this
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:03:47](/episodes/ep-K5GjF53bfN4.md#t-00-03-26)
-
-- **[PragerU](/entities/org-prageru.md)** affiliated with this
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:08:19](/episodes/ep-K5GjF53bfN4.md#t-00-08-02)
-
-</details>
+_No relationships extracted yet._
 
 </details>
 

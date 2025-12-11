@@ -18,6 +18,17 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
+
+**[00:49:40](/episodes/ep-his-JBjlkh8.md#ent-org-dupont-family-t-00-49-40)**
+> "...gap in Brigitte's schedule. And now, of course—especially as we have learned about Delaware and the DuPont-French connection, and the French Foreign Legion non-answer that we're getting, just gaslighting th..."
+
+**[00:49:40](/episodes/ep-his-JBjlkh8.md#ent-org-dupont-family-t-00-49-40)**
+> "...earned about Delaware and the DuPont-French connection, and the French Foreign Legion ..."
+
+</details>
+
+<details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (52 mentions)</summary>
 
 **[00:04:57](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-04-57)**
@@ -179,17 +190,6 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
-
-**[00:49:40](/episodes/ep-his-JBjlkh8.md#ent-org-dupont-family-t-00-49-40)**
-> "...gap in Brigitte's schedule. And now, of course—especially as we have learned about Delaware and the DuPont-French connection, and the French Foreign Legion non-answer that we're getting, just gaslighting th..."
-
-**[00:49:40](/episodes/ep-his-JBjlkh8.md#ent-org-dupont-family-t-00-49-40)**
-> "...earned about Delaware and the DuPont-French connection, and the French Foreign Legion ..."
-
-</details>
-
-<details>
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (19 mentions)</summary>
 
 **[00:29:28](/episodes/ep-tB5SXXmd9vU.md#ent-org-dupont-family-t-00-29-47)**
@@ -257,17 +257,6 @@ _Type: Organizations_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Affiliated With (2)</summary>
-
-- **[United States military](/entities/org-united-states-military.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:30:00](/episodes/ep-tB5SXXmd9vU.md#t-00-29-47): ""DuPont also has extreme ties to both the American and the French military.""
-
-- **[French military](/entities/org-french-military.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:30:00](/episodes/ep-tB5SXXmd9vU.md#t-00-29-47): ""DuPont also has extreme ties to both the American and the French military.""
-
-</details>
-
-<details>
 <summary>Founded By (1)</summary>
 
 - **[Pierre Samuel du Pont de Nemours](/entities/person-pierre-samuel-du-pont-de-nemours.md)**
@@ -293,13 +282,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
-
-- **[United States military](/entities/org-united-states-military.md)** affiliated with this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:30:00](/episodes/ep-tB5SXXmd9vU.md#t-00-29-47)
-
-- **[French military](/entities/org-french-military.md)** affiliated with this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:30:00](/episodes/ep-tB5SXXmd9vU.md#t-00-29-47)
+<summary>Referenced By (3)</summary>
 
 - **[Pierre Samuel du Pont de Nemours](/entities/person-pierre-samuel-du-pont-de-nemours.md)** founded this
   - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:30:49](/episodes/ep-a-e7HC6SeK8.md#t-00-30-38)

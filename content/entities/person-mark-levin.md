@@ -13,17 +13,6 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2 mentions)</summary>
-
-**[00:37:10](/episodes/ep-Qfwr08Ebczo.md#ent-person-mark-levin-t-00-37-10)**
-> "...arlson)'s perspectives and what's guiding his perspectives—and then go backwards and listen to like Mark Levin and these people that got on their platforms and call him irredeemable. And you realize there's a d..."
-
-**[00:37:10](/episodes/ep-Qfwr08Ebczo.md#ent-person-mark-levin-t-00-37-10)**
-> "... backwards and listen to like Mark Levin and these people that got on their platforms and ..."
-
-</details>
-
-<details>
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (13 mentions)</summary>
 
 **[00:38:20](/episodes/ep-YaZfwLQ7vrI.md#ent-person-mark-levin-t-00-38-20)**
@@ -64,6 +53,17 @@ _Type: People_
 
 **[00:39:10](/episodes/ep-YaZfwLQ7vrI.md#ent-person-mark-levin-t-00-39-10)**
 > "*(Clip of Mark Levin reading Tucker Carlson text exchange)* I got a ve..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2 mentions)</summary>
+
+**[00:37:10](/episodes/ep-Qfwr08Ebczo.md#ent-person-mark-levin-t-00-37-10)**
+> "...arlson)'s perspectives and what's guiding his perspectives—and then go backwards and listen to like Mark Levin and these people that got on their platforms and call him irredeemable. And you realize there's a d..."
+
+**[00:37:10](/episodes/ep-Qfwr08Ebczo.md#ent-person-mark-levin-t-00-37-10)**
+> "... backwards and listen to like Mark Levin and these people that got on their platforms and ..."
 
 </details>
 

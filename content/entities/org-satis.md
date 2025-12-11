@@ -28,6 +28,41 @@ _Type: Organizations_
 </details>
 
 <details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (10 mentions)</summary>
+
+**[00:23:42](/episodes/ep-tB5SXXmd9vU.md#ent-org-satis-t-00-23-42)**
+> "...assassination from Provo, went over to Wilmington, Delaware. We learned that regarding that hangar, Satis, which is a French company, injected $1.5 million ostensibly to paint planes, okay, in Wilmington, ..."
+
+**[00:25:26](/episodes/ep-tB5SXXmd9vU.md#ent-org-satis-t-00-25-07)**
+> "...ion, they watched the episode, and a light bulb goes off in their head, because we're talking about Satis being French-owned, and the person decided to follow up and explained to us that France has effecti..."
+
+**[00:34:39](/episodes/ep-tB5SXXmd9vU.md#ent-org-satis-t-00-34-38)**
+> "...ntire French Street that is connected to 920 North King Street; the aircraft hangar and its company Satis, which is French-aligned, connected to 920 North King Street; DuPont, the French-aligned, connected..."
+
+**[00:38:00](/episodes/ep-tB5SXXmd9vU.md#ent-org-satis-t-00-38-00)**
+> "...ological operations, okay? And I should also mention to you that the second-largest shareholder for Satis is Israel. Yeah, it's an Israeli firm based in Tel Aviv called ACE Partners. They are explicit. The..."
+
+**[00:38:47](/episodes/ep-tB5SXXmd9vU.md#ent-org-satis-t-00-38-43)**
+> "...m not being anti-Semitic. That's what ACE Partners does. They are the second-largest shareholder to Satis. Why is Israel interested in this hangar in Wilmington, Delaware, you guys? And in case you don't t..."
+
+**[00:23:42](/episodes/ep-tB5SXXmd9vU.md#ent-org-satis-t-00-23-42)**
+> "...d that regarding that hangar, Satis, which is a French company, injected $1.5 million..."
+
+**[00:25:26](/episodes/ep-tB5SXXmd9vU.md#ent-org-satis-t-00-25-07)**
+> "..., because we're talking about Satis being French-owned,"
+
+**[00:34:39](/episodes/ep-tB5SXXmd9vU.md#ent-org-satis-t-00-34-38)**
+> "...rcraft hangar and its company Satis, which is French-aligned, connected to 920 North ..."
+
+**[00:38:00](/episodes/ep-tB5SXXmd9vU.md#ent-org-satis-t-00-38-00)**
+> "...econd-largest shareholder for Satis is Israel."
+
+**[00:38:47](/episodes/ep-tB5SXXmd9vU.md#ent-org-satis-t-00-38-43)**
+> "...second-largest shareholder to Satis."
+
+</details>
+
+<details>
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (9 mentions)</summary>
 
 **[00:00:04](/episodes/ep-mKXdKV-OBog.md#ent-org-satis-t-00-00-00)**
@@ -106,41 +141,6 @@ _Type: Organizations_
 
 </details>
 
-<details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (10 mentions)</summary>
-
-**[00:23:42](/episodes/ep-tB5SXXmd9vU.md#ent-org-satis-t-00-23-42)**
-> "...assassination from Provo, went over to Wilmington, Delaware. We learned that regarding that hangar, Satis, which is a French company, injected $1.5 million ostensibly to paint planes, okay, in Wilmington, ..."
-
-**[00:25:26](/episodes/ep-tB5SXXmd9vU.md#ent-org-satis-t-00-25-07)**
-> "...ion, they watched the episode, and a light bulb goes off in their head, because we're talking about Satis being French-owned, and the person decided to follow up and explained to us that France has effecti..."
-
-**[00:34:39](/episodes/ep-tB5SXXmd9vU.md#ent-org-satis-t-00-34-38)**
-> "...ntire French Street that is connected to 920 North King Street; the aircraft hangar and its company Satis, which is French-aligned, connected to 920 North King Street; DuPont, the French-aligned, connected..."
-
-**[00:38:00](/episodes/ep-tB5SXXmd9vU.md#ent-org-satis-t-00-38-00)**
-> "...ological operations, okay? And I should also mention to you that the second-largest shareholder for Satis is Israel. Yeah, it's an Israeli firm based in Tel Aviv called ACE Partners. They are explicit. The..."
-
-**[00:38:47](/episodes/ep-tB5SXXmd9vU.md#ent-org-satis-t-00-38-43)**
-> "...m not being anti-Semitic. That's what ACE Partners does. They are the second-largest shareholder to Satis. Why is Israel interested in this hangar in Wilmington, Delaware, you guys? And in case you don't t..."
-
-**[00:23:42](/episodes/ep-tB5SXXmd9vU.md#ent-org-satis-t-00-23-42)**
-> "...d that regarding that hangar, Satis, which is a French company, injected $1.5 million..."
-
-**[00:25:26](/episodes/ep-tB5SXXmd9vU.md#ent-org-satis-t-00-25-07)**
-> "..., because we're talking about Satis being French-owned,"
-
-**[00:34:39](/episodes/ep-tB5SXXmd9vU.md#ent-org-satis-t-00-34-38)**
-> "...rcraft hangar and its company Satis, which is French-aligned, connected to 920 North ..."
-
-**[00:38:00](/episodes/ep-tB5SXXmd9vU.md#ent-org-satis-t-00-38-00)**
-> "...econd-largest shareholder for Satis is Israel."
-
-**[00:38:47](/episodes/ep-tB5SXXmd9vU.md#ent-org-satis-t-00-38-43)**
-> "...second-largest shareholder to Satis."
-
-</details>
-
 </details>
 
 <details open>
@@ -190,14 +190,6 @@ _Type: Organizations_
 <summary><strong class="section-title">Statements about Satis (4)</strong></summary>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1)</summary>
-
-- [00:13:03](/episodes/ep-SKGUzGHymcI.md#t-00-12-23) (Claim) **Candace Owens**: ["In December 2024, the French aircraft finishing company Satys announce..."](/statements/statement-8a833470ba1f.md)
-  - Also about: [Wilmington](/entities/gpe-wilmington.md)
-
-</details>
-
-<details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (3)</summary>
 
 - [00:00:39](/episodes/ep-sImMM04XdWY.md#t-00-00-01) (Claim) **Candace Owens** (via paraphrase): ["The French company Satis in Delaware wasn't established to provide mai..."](/statements/statement-af3c0e82202b.md)
@@ -205,6 +197,14 @@ _Type: Organizations_
 - [00:06:00](/episodes/ep-sImMM04XdWY.md#t-00-05-36) (Claim) **Candace Owens**: ["Satis had a lack of a lease since 2021, proving there was no maintenan..."](/statements/statement-e5b1912dc699.md)
 
 - [00:09:07](/episodes/ep-sImMM04XdWY.md#t-00-09-03) (Claim) **Candace Owens**: ["Satis was publicly announced on December 10th, seven days after the ce..."](/statements/statement-ada7a08dfe7f.md)
+
+</details>
+
+<details>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1)</summary>
+
+- [00:13:03](/episodes/ep-SKGUzGHymcI.md#t-00-12-23) (Claim) **Candace Owens**: ["In December 2024, the French aircraft finishing company Satys announce..."](/statements/statement-8a833470ba1f.md)
+  - Also about: [Wilmington](/entities/gpe-wilmington.md)
 
 </details>
 

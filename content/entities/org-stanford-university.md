@@ -13,17 +13,6 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (2 mentions)</summary>
-
-**[00:36:20](/episodes/ep-2WEHTk0Xewg.md#ent-org-stanford-university-t-00-35-53)**
-> "...rmation about Lance Twiggs. Okay, I already don't like that mom received a bachelor of science from Stanford University in psychology. It seems to be a running theme in these Fed ops that there's always psychology somew..."
-
-**[00:36:20](/episodes/ep-2WEHTk0Xewg.md#ent-org-stanford-university-t-00-35-53)**
-> "...ed a bachelor of science from Stanford University in psychology."
-
-</details>
-
-<details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
 
 **[00:23:51](/episodes/ep-sImMM04XdWY.md#ent-org-stanford-university-t-00-23-08)**
@@ -42,6 +31,17 @@ _Type: Organizations_
 
 **[00:33:37](/episodes/ep-vwG1juDCQZQ.md#ent-org-stanford-university-t-00-33-20)**
 > "...as on one of the buildings at Stanford University."
+
+</details>
+
+<details>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (2 mentions)</summary>
+
+**[00:36:20](/episodes/ep-2WEHTk0Xewg.md#ent-org-stanford-university-t-00-35-53)**
+> "...rmation about Lance Twiggs. Okay, I already don't like that mom received a bachelor of science from Stanford University in psychology. It seems to be a running theme in these Fed ops that there's always psychology somew..."
+
+**[00:36:20](/episodes/ep-2WEHTk0Xewg.md#ent-org-stanford-university-t-00-35-53)**
+> "...ed a bachelor of science from Stanford University in psychology."
 
 </details>
 

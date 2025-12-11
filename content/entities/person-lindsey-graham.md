@@ -13,6 +13,14 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>
+
+**[00:30:07](/episodes/ep-Kmt6HgRjckU.md#ent-person-lindsey-graham-t-00-29-56)**
+> "...ica's last last traitors like Lindsey Graham are getting promoted."
+
+</details>
+
+<details>
 <summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (15 mentions)</summary>
 
 **[00:01:25](/episodes/ep-K1tFD7FfoCU.md#ent-person-lindsey-graham-t-00-00-46)**
@@ -59,14 +67,6 @@ _Type: People_
 
 **[00:03:03](/episodes/ep-K1tFD7FfoCU.md#ent-person-lindsey-graham-t-00-02-58)**
 > "...dy Fine), and Lindsey Graham (Lindsey Graham)."
-
-</details>
-
-<details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>
-
-**[00:30:07](/episodes/ep-Kmt6HgRjckU.md#ent-person-lindsey-graham-t-00-29-56)**
-> "...ica's last last traitors like Lindsey Graham are getting promoted."
 
 </details>
 

@@ -1,11 +1,11 @@
 ---
 title: "Inside American Education"
-description: "Inside American Education (Work) - 5 mentions"
+description: "Inside American Education (Works & Media) - 5 mentions"
 id: "work-inside-american-education"
 type: "WORK"
 ---
 
-_Type: Work_
+_Type: Works & Media_
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

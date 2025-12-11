@@ -1,6 +1,6 @@
 ---
 title: "Tiffany Peterson Barker"
-description: "Tiffany Peterson Barker (People) - 45 mentions"
+description: "Tiffany Peterson Barker (People) - 44 mentions"
 id: "person-tiffany-peterson-barker"
 type: "PERSON"
 aliases:
@@ -26,55 +26,24 @@ _Type: People_
 </details>
 
 <details>
-<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (16 mentions)</summary>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (2 mentions)</summary>
 
-**[00:02:58](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-02-39)**
-> "...s were students of UVU. I guess that's just coincidental. Just to go back, we had already discussed Tiffany Barker and that early morning GMA interview—Good Morning America interview—that she did with her nieces. S..."
+**[00:23:00](/episodes/ep-pc3pxRyNFZk.md#ent-person-tiffany-peterson-barker-t-00-22-56)**
+> "...ng censored. And you have a bunch of people that are giving a platform, and they seem weird, right? Tiffany Barker on Good Morning America—vibes were weird there, okay? Not assigning any necessarily badness to her,..."
 
-**[00:03:13](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-03-13)**
-> "...how you that again to jog your memory because we have an update. Take a listen. We're joined now by Tiffany Barker and her nieces, Elle Steel and Mia Grant, who were all in the audience yesterday afternoon. Thank y..."
+**[00:23:00](/episodes/ep-pc3pxRyNFZk.md#ent-person-tiffany-peterson-barker-t-00-22-56)**
+> "Tiffany Barker on Good Morning America—vibes were weird t..."
 
-**[00:05:54](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-05-54)**
-> "...s this morning. Okay, so to update you and to remind you, I had mentioned that, first and foremost, Tiffany Barker is a part of a very political family, a very connected family in the region. The internet sleuths j..."
+</details>
 
-**[00:03:23](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-03-13)**
-> ".... Thank you for joining us this morning. I know it's been a difficult day for all of you right now. Tiffany, let me begin with you. Just tell us what you remember about the scene yesterday. It was horrific. ..."
+<details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
 
-**[00:06:40](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-06-32)**
-> "...any people were curious mainly as to why the children were so descriptive regarding the artery. And Tiffany herself made a response video and addressed that question. And here is what she had to say. When we..."
+**[00:20:57](/episodes/ep-t1YtLS1n8Vs.md#ent-person-tiffany-peterson-barker-t-00-20-20)**
+> "...er look at our witness tree, because it's growing, right? It's growing, our witness tree. We've got Tiffany Barker, of course; she's with the nieces. Her sister was Phil Lyman's running mate. She spoke to Good Morn..."
 
-**[00:02:58](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-02-39)**
-> "...ack, we had already discussed Tiffany Barker and that early morning GMA interview—Good ..."
-
-**[00:03:13](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-03-13)**
-> "We're joined now by Tiffany Barker and her nieces, Elle Steel and Mia Grant, ..."
-
-**[00:03:23](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-03-13)**
-> "Tiffany (Tiffany Barker), let me begin with you."
-
-**[00:05:54](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-05-54)**
-> "...ned that, first and foremost, Tiffany Barker is a part of a very political family, a ve..."
-
-**[00:06:40](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-06-32)**
-> "And Tiffany (Tiffany Barker) herself made a response video an..."
-
-**[00:02:58](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-02-39)**
-> "We're joined now by Tiffany Barker and her nieces"
-
-**[00:02:58](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-02-39)**
-> "...ack, we had already discussed Tiffany Barker and that early morning GMA interview—Good Morning..."
-
-**[00:03:13](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-03-13)**
-> "We're joined now by Tiffany Barker and her nieces, Elle Steel and Mia Grant, who wer..."
-
-**[00:03:23](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-03-13)**
-> "Tiffany (Tiffany Barker), let me begin with you."
-
-**[00:05:54](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-05-54)**
-> "...ned that, first and foremost, Tiffany Barker is a part of a very political family, a very conn..."
-
-**[00:06:40](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-06-32)**
-> "And Tiffany (Tiffany Barker) herself made a response video and addressed that..."
+**[00:20:57](/episodes/ep-t1YtLS1n8Vs.md#ent-person-tiffany-peterson-barker-t-00-20-20)**
+> "We've got Tiffany Barker, of course; she's with the nieces."
 
 </details>
 
@@ -140,13 +109,52 @@ _Type: People_
 </details>
 
 <details>
-<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (2 mentions)</summary>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (15 mentions)</summary>
 
-**[00:23:00](/episodes/ep-pc3pxRyNFZk.md#ent-person-tiffany-peterson-barker-t-00-22-56)**
-> "...ng censored. And you have a bunch of people that are giving a platform, and they seem weird, right? Tiffany Barker on Good Morning America—vibes were weird there, okay? Not assigning any necessarily badness to her,..."
+**[00:02:58](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-02-39)**
+> "...s were students of UVU. I guess that's just coincidental. Just to go back, we had already discussed Tiffany Barker and that early morning GMA interview—Good Morning America interview—that she did with her nieces. S..."
 
-**[00:23:00](/episodes/ep-pc3pxRyNFZk.md#ent-person-tiffany-peterson-barker-t-00-22-56)**
-> "Tiffany Barker on Good Morning America—vibes were weird t..."
+**[00:03:13](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-03-13)**
+> "...how you that again to jog your memory because we have an update. Take a listen. We're joined now by Tiffany Barker and her nieces, Elle Steel and Mia Grant, who were all in the audience yesterday afternoon. Thank y..."
+
+**[00:05:54](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-05-54)**
+> "...s this morning. Okay, so to update you and to remind you, I had mentioned that, first and foremost, Tiffany Barker is a part of a very political family, a very connected family in the region. The internet sleuths j..."
+
+**[00:03:23](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-03-13)**
+> ".... Thank you for joining us this morning. I know it's been a difficult day for all of you right now. Tiffany, let me begin with you. Just tell us what you remember about the scene yesterday. It was horrific. ..."
+
+**[00:06:40](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-06-32)**
+> "...any people were curious mainly as to why the children were so descriptive regarding the artery. And Tiffany herself made a response video and addressed that question. And here is what she had to say. When we..."
+
+**[00:02:58](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-02-39)**
+> "...ack, we had already discussed Tiffany Barker and that early morning GMA interview—Good ..."
+
+**[00:03:13](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-03-13)**
+> "We're joined now by Tiffany Barker and her nieces, Elle Steel and Mia Grant, ..."
+
+**[00:03:23](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-03-13)**
+> "Tiffany (Tiffany Barker), let me begin with you."
+
+**[00:05:54](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-05-54)**
+> "...ned that, first and foremost, Tiffany Barker is a part of a very political family, a ve..."
+
+**[00:06:40](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-06-32)**
+> "And Tiffany (Tiffany Barker) herself made a response video an..."
+
+**[00:02:58](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-02-39)**
+> "We're joined now by Tiffany Barker and her nieces"
+
+**[00:02:58](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-02-39)**
+> "...ack, we had already discussed Tiffany Barker and that early morning GMA interview—Good Morning..."
+
+**[00:03:13](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-03-13)**
+> "We're joined now by Tiffany Barker and her nieces, Elle Steel and Mia Grant, who wer..."
+
+**[00:05:54](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-05-54)**
+> "...ned that, first and foremost, Tiffany Barker is a part of a very political family, a very conn..."
+
+**[00:06:40](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-06-32)**
+> "And Tiffany (Tiffany Barker) herself made a response video and addressed that..."
 
 </details>
 
@@ -173,17 +181,6 @@ _Type: People_
 
 **[00:20:12](/episodes/ep-sreYYcID-QY.md#ent-person-tiffany-peterson-barker-t-00-19-52)**
 > "Tiffany, let me begin with you."
-
-</details>
-
-<details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
-
-**[00:20:57](/episodes/ep-t1YtLS1n8Vs.md#ent-person-tiffany-peterson-barker-t-00-20-20)**
-> "...er look at our witness tree, because it's growing, right? It's growing, our witness tree. We've got Tiffany Barker, of course; she's with the nieces. Her sister was Phil Lyman's running mate. She spoke to Good Morn..."
-
-**[00:20:57](/episodes/ep-t1YtLS1n8Vs.md#ent-person-tiffany-peterson-barker-t-00-20-20)**
-> "We've got Tiffany Barker, of course; she's with the nieces."
 
 </details>
 

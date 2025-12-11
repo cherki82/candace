@@ -13,17 +13,6 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (2 mentions)</summary>
-
-**[00:03:59](/episodes/ep-Qt0VHV-POCg.md#ent-org-calvary-chapel-association-t-00-03-39)**
-> "...nded Turning Point USA Faith (TPUSA Faith) together." "Along with being a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Faith." "Aligned with the Christian right, McCoy inspired Kirk t..."
-
-**[00:03:59](/episodes/ep-Qt0VHV-POCg.md#ent-org-calvary-chapel-association-t-00-03-39)**
-> "...g a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Faith.""
-
-</details>
-
-<details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
 
 **[00:51:37](/episodes/ep-SKGUzGHymcI.md#ent-org-calvary-chapel-association-t-00-51-10)**
@@ -31,6 +20,17 @@ _Type: Organizations_
 
 **[00:51:37](/episodes/ep-SKGUzGHymcI.md#ent-org-calvary-chapel-association-t-00-51-10)**
 > "...bal Network branched off from Calvary Chapel Association in 2017."
+
+</details>
+
+<details>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (2 mentions)</summary>
+
+**[00:03:59](/episodes/ep-Qt0VHV-POCg.md#ent-org-calvary-chapel-association-t-00-03-39)**
+> "...nded Turning Point USA Faith (TPUSA Faith) together." "Along with being a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Faith." "Aligned with the Christian right, McCoy inspired Kirk t..."
+
+**[00:03:59](/episodes/ep-Qt0VHV-POCg.md#ent-org-calvary-chapel-association-t-00-03-39)**
+> "...g a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Faith.""
 
 </details>
 

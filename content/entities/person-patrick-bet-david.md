@@ -17,6 +17,45 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (5 mentions)</summary>
+
+**[00:47:33](/episodes/ep-tB5SXXmd9vU.md#ent-person-patrick-bet-david-t-00-46-56)**
+> "... people that are engaged in the sport of politics. Take a listen to what Adam Sosnick had to say on Patrick Bet-David's podcast. Disgusting. Forget about what she said about Israel and Jews and BLM and liberals. This ..."
+
+**[00:46:38](/episodes/ep-tB5SXXmd9vU.md#ent-person-patrick-bet-david-t-00-46-12)**
+> "...derstand what is happening to PBD's show, which I very much used to enjoy."
+
+**[00:47:33](/episodes/ep-tB5SXXmd9vU.md#ent-person-patrick-bet-david-t-00-46-56)**
+> "...at Adam Sosnick had to say on Patrick Bet-David's podcast."
+
+**[00:51:25](/episodes/ep-tB5SXXmd9vU.md#ent-person-patrick-bet-david-t-00-50-56)**
+> "and PBD's entire team under the bus in three seconds, and..."
+
+**[00:57:23](/episodes/ep-tB5SXXmd9vU.md#ent-person-patrick-bet-david-t-00-50-56)**
+> "...who won't stop talking on the PBD podcast because his only mission in life is to de..."
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
+
+**[00:49:10](/episodes/ep-vwG1juDCQZQ.md#ent-person-patrick-bet-david-t-00-48-55)**
+> "...putting it into, whether it's PBD and his team—which spoke a lot about Charlie Kirk..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
+
+**[00:44:39](/episodes/ep-adJ4LNGp84I.md#ent-person-patrick-bet-david-t-00-44-06)**
+> "...n Shapiro, Brandon Tatum, and PBD"
+
+**[00:44:55](/episodes/ep-adJ4LNGp84I.md#ent-person-patrick-bet-david-t-00-44-47)**
+> "I would debate PBD."
+
+</details>
+
+<details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (5 mentions)</summary>
 
 **[00:20:25](/episodes/ep-aDlhjfW6hz8.md#ent-person-patrick-bet-david-t-00-20-25)**
@@ -33,28 +72,6 @@ _Type: People_
 
 **[00:51:59](/episodes/ep-aDlhjfW6hz8.md#ent-person-patrick-bet-david-t-00-51-24)**
 > "Like, why would PBD do that?"
-
-</details>
-
-<details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
-
-**[00:44:39](/episodes/ep-adJ4LNGp84I.md#ent-person-patrick-bet-david-t-00-44-06)**
-> "...n Shapiro, Brandon Tatum, and PBD"
-
-**[00:44:55](/episodes/ep-adJ4LNGp84I.md#ent-person-patrick-bet-david-t-00-44-47)**
-> "I would debate PBD."
-
-</details>
-
-<details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (2 mentions)</summary>
-
-**[00:58:07](/episodes/ep-q7f8r-THr84.md#ent-person-patrick-bet-david-t-00-57-35)**
-> "...ront war because Israel didn't do nothing. He was doing a ton of podcasts in America. He went on to Patrick Bet-David's podcast. He went on to Brandon Tatum's podcast. He went on to the Nelk Boys' podcast. Anybody fin..."
-
-**[00:58:07](/episodes/ep-q7f8r-THr84.md#ent-person-patrick-bet-david-t-00-57-35)**
-> "He went on to Patrick Bet-David's podcast."
 
 </details>
 
@@ -82,30 +99,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (5 mentions)</summary>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (2 mentions)</summary>
 
-**[00:47:33](/episodes/ep-tB5SXXmd9vU.md#ent-person-patrick-bet-david-t-00-46-56)**
-> "... people that are engaged in the sport of politics. Take a listen to what Adam Sosnick had to say on Patrick Bet-David's podcast. Disgusting. Forget about what she said about Israel and Jews and BLM and liberals. This ..."
+**[00:58:07](/episodes/ep-q7f8r-THr84.md#ent-person-patrick-bet-david-t-00-57-35)**
+> "...ront war because Israel didn't do nothing. He was doing a ton of podcasts in America. He went on to Patrick Bet-David's podcast. He went on to Brandon Tatum's podcast. He went on to the Nelk Boys' podcast. Anybody fin..."
 
-**[00:46:38](/episodes/ep-tB5SXXmd9vU.md#ent-person-patrick-bet-david-t-00-46-12)**
-> "...derstand what is happening to PBD's show, which I very much used to enjoy."
-
-**[00:47:33](/episodes/ep-tB5SXXmd9vU.md#ent-person-patrick-bet-david-t-00-46-56)**
-> "...at Adam Sosnick had to say on Patrick Bet-David's podcast."
-
-**[00:51:25](/episodes/ep-tB5SXXmd9vU.md#ent-person-patrick-bet-david-t-00-50-56)**
-> "and PBD's entire team under the bus in three seconds, and..."
-
-**[00:57:23](/episodes/ep-tB5SXXmd9vU.md#ent-person-patrick-bet-david-t-00-50-56)**
-> "...who won't stop talking on the PBD podcast because his only mission in life is to de..."
-
-</details>
-
-<details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
-
-**[00:49:10](/episodes/ep-vwG1juDCQZQ.md#ent-person-patrick-bet-david-t-00-48-55)**
-> "...putting it into, whether it's PBD and his team—which spoke a lot about Charlie Kirk..."
+**[00:58:07](/episodes/ep-q7f8r-THr84.md#ent-person-patrick-bet-david-t-00-57-35)**
+> "He went on to Patrick Bet-David's podcast."
 
 </details>
 

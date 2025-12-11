@@ -13,6 +13,14 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+
+**[00:48:52](/episodes/ep-yAIb-NuUh_U.md#ent-org-spotify-t-00-48-36)**
+> "I mean, put it on Spotify, put it on iTunes."
+
+</details>
+
+<details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1 mentions)</summary>
 
 **[01:11:56](/episodes/ep-2Riv3I7D0Yk.md#ent-org-spotify-t-01-11-36)**
@@ -28,14 +36,6 @@ _Type: Organizations_
 
 **[00:23:13](/episodes/ep-QZWSsq8ZWzw.md#ent-org-spotify-t-00-23-13)**
 > "...tening to this and you are on Spotify essentially or on Apple, what's essentially happe..."
-
-</details>
-
-<details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
-
-**[00:48:52](/episodes/ep-yAIb-NuUh_U.md#ent-org-spotify-t-00-48-36)**
-> "I mean, put it on Spotify, put it on iTunes."
 
 </details>
 

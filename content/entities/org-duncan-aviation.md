@@ -13,6 +13,20 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (3 mentions)</summary>
+
+**[00:13:44](/episodes/ep-ZAuuSq_j2_w.md#ent-org-duncan-aviation-t-00-13-44)**
+> "...ase, we've labeled one blue: that's SUBND, which was the one that was transponding on the ground at Duncan Aviation on the day of Charlie (Charlie Kirk)'s assassination, but it did not go anywhere. And then of cours..."
+
+**[00:03:06](/episodes/ep-ZAuuSq_j2_w.md#ent-org-duncan-aviation-t-00-13-44)**
+> "SUBND, which was the one that was transponding on the ground at Duncan Aviation on the day of Charlie (Charlie Kirk)'s assassination"
+
+**[00:13:44](/episodes/ep-ZAuuSq_j2_w.md#ent-org-duncan-aviation-t-00-13-44)**
+> "...transponding on the ground at Duncan Aviation on the day of Charlie (Charlie Kirk)'s assassinat..."
+
+</details>
+
+<details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (7 mentions)</summary>
 
 **[00:06:39](/episodes/ep-581dILVcEE4.md#ent-org-duncan-aviation-t-00-06-18)**
@@ -61,20 +75,6 @@ _Type: Organizations_
 
 **[00:20:08](/episodes/ep-JQjCAsfoXEE.md#ent-org-duncan-aviation-t-00-18-55)**
 > "It's transponding at the FBO at Duncan Aviation, a private terminal."
-
-</details>
-
-<details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (3 mentions)</summary>
-
-**[00:13:44](/episodes/ep-ZAuuSq_j2_w.md#ent-org-duncan-aviation-t-00-13-44)**
-> "...ase, we've labeled one blue: that's SUBND, which was the one that was transponding on the ground at Duncan Aviation on the day of Charlie (Charlie Kirk)'s assassination, but it did not go anywhere. And then of cours..."
-
-**[00:03:06](/episodes/ep-ZAuuSq_j2_w.md#ent-org-duncan-aviation-t-00-13-44)**
-> "SUBND, which was the one that was transponding on the ground at Duncan Aviation on the day of Charlie (Charlie Kirk)'s assassination"
-
-**[00:13:44](/episodes/ep-ZAuuSq_j2_w.md#ent-org-duncan-aviation-t-00-13-44)**
-> "...transponding on the ground at Duncan Aviation on the day of Charlie (Charlie Kirk)'s assassinat..."
 
 </details>
 

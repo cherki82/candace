@@ -13,6 +13,23 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (4 mentions)</summary>
+
+**[00:13:18](/episodes/ep-YaZfwLQ7vrI.md#ent-person-sean-feucht-t-00-13-01)**
+> "...okay? NAR. I brought this up to you before. Lance Wallnau (Lance Wallnau) is in this article. So is Sean Feucht (Sean Feucht). Now you're thinking these names might sound familiar. Certainly Sean Feucht (Sean Fe..."
+
+**[00:13:23](/episodes/ep-YaZfwLQ7vrI.md#ent-person-sean-feucht-t-00-13-01)**
+> "...e. So is Sean Feucht (Sean Feucht). Now you're thinking these names might sound familiar. Certainly Sean Feucht (Sean Feucht). I brought him up to you regarding TPUSA Faith, who started to lead these events that..."
+
+**[00:13:18](/episodes/ep-YaZfwLQ7vrI.md#ent-person-sean-feucht-t-00-13-01)**
+> "So is Sean Feucht (Sean Feucht)."
+
+**[00:13:23](/episodes/ep-YaZfwLQ7vrI.md#ent-person-sean-feucht-t-00-13-01)**
+> "Certainly Sean Feucht (Sean Feucht). I brought him up to you regarding ..."
+
+</details>
+
+<details>
 <summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (30 mentions)</summary>
 
 **[00:10:20](/episodes/ep-YFmRH8p5lt0.md#ent-person-sean-feucht-t-00-10-20)**
@@ -107,23 +124,6 @@ _Type: People_
 
 </details>
 
-<details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (4 mentions)</summary>
-
-**[00:13:18](/episodes/ep-YaZfwLQ7vrI.md#ent-person-sean-feucht-t-00-13-01)**
-> "...okay? NAR. I brought this up to you before. Lance Wallnau (Lance Wallnau) is in this article. So is Sean Feucht (Sean Feucht). Now you're thinking these names might sound familiar. Certainly Sean Feucht (Sean Fe..."
-
-**[00:13:23](/episodes/ep-YaZfwLQ7vrI.md#ent-person-sean-feucht-t-00-13-01)**
-> "...e. So is Sean Feucht (Sean Feucht). Now you're thinking these names might sound familiar. Certainly Sean Feucht (Sean Feucht). I brought him up to you regarding TPUSA Faith, who started to lead these events that..."
-
-**[00:13:18](/episodes/ep-YaZfwLQ7vrI.md#ent-person-sean-feucht-t-00-13-01)**
-> "So is Sean Feucht (Sean Feucht)."
-
-**[00:13:23](/episodes/ep-YaZfwLQ7vrI.md#ent-person-sean-feucht-t-00-13-01)**
-> "Certainly Sean Feucht (Sean Feucht). I brought him up to you regarding ..."
-
-</details>
-
 </details>
 
 <details open>
@@ -138,14 +138,6 @@ _Type: People_
 </details>
 
 <details>
-<summary>Worked With (1)</summary>
-
-- **[Rob McCoy](/entities/person-rob-mccoy.md)**
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:10:45](/episodes/ep-YFmRH8p5lt0.md#t-00-10-20): "this guy is in partnership with Rob McCoy still today and to this day at Turning Point USA doing Turning Point USA Faith stuff"
-
-</details>
-
-<details>
 <summary>Works For (1)</summary>
 
 - **[Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)**
@@ -154,16 +146,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (2)</summary>
 
 - **[Montana](/entities/gpe-montana.md)** birthplace of this
   - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:11:33](/episodes/ep-YFmRH8p5lt0.md#t-00-11-02)
 
 - **[Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)** employs this
   - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:10:31](/episodes/ep-YFmRH8p5lt0.md#t-00-10-20)
-
-- **[Rob McCoy](/entities/person-rob-mccoy.md)** worked with this
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:10:45](/episodes/ep-YFmRH8p5lt0.md#t-00-10-20)
 
 </details>
 

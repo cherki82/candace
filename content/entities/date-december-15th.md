@@ -17,29 +17,6 @@ _Type: Dates_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (6 mentions)</summary>
-
-**[00:07:38](/episodes/ep-DqGNvi36ol8.md#ent-date-december-15th-t-00-07-38)**
-> "...appen when we announced it on December 15th."
-
-**[00:51:15](/episodes/ep-DqGNvi36ol8.md#ent-date-december-15th-t-00-51-00)**
-> "All is lining up with this December 15th show."
-
-**[00:51:42](/episodes/ep-DqGNvi36ol8.md#ent-date-december-15th-t-00-51-42)**
-> "...ming she's going to be at the December 15th event based on what Blake Neff has said."
-
-**[00:51:55](/episodes/ep-DqGNvi36ol8.md#ent-date-december-15th-t-00-51-42)**
-> "My husband, when I said December 15th, rushed right to him when I saw the text confirma..."
-
-**[00:52:02](/episodes/ep-DqGNvi36ol8.md#ent-date-december-15th-t-00-51-42)**
-> "And he said, December 15th absolutely does not work."
-
-**[00:52:05](/episodes/ep-DqGNvi36ol8.md#ent-date-december-15th-t-00-51-42)**
-> "I cannot make December 15th work, so."
-
-</details>
-
-<details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (8 mentions)</summary>
 
 **[00:05:05](/episodes/ep-ZAuuSq_j2_w.md#ent-date-december-15th-t-00-04-36)**
@@ -65,6 +42,29 @@ _Type: Dates_
 
 **[00:10:21](/episodes/ep-ZAuuSq_j2_w.md#ent-date-december-15th-t-00-10-11)**
 > "...ve it in person in Phoenix on December 15th, or they cannot have me at all."
+
+</details>
+
+<details>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (6 mentions)</summary>
+
+**[00:07:38](/episodes/ep-DqGNvi36ol8.md#ent-date-december-15th-t-00-07-38)**
+> "...appen when we announced it on December 15th."
+
+**[00:51:15](/episodes/ep-DqGNvi36ol8.md#ent-date-december-15th-t-00-51-00)**
+> "All is lining up with this December 15th show."
+
+**[00:51:42](/episodes/ep-DqGNvi36ol8.md#ent-date-december-15th-t-00-51-42)**
+> "...ming she's going to be at the December 15th event based on what Blake Neff has said."
+
+**[00:51:55](/episodes/ep-DqGNvi36ol8.md#ent-date-december-15th-t-00-51-42)**
+> "My husband, when I said December 15th, rushed right to him when I saw the text confirma..."
+
+**[00:52:02](/episodes/ep-DqGNvi36ol8.md#ent-date-december-15th-t-00-51-42)**
+> "And he said, December 15th absolutely does not work."
+
+**[00:52:05](/episodes/ep-DqGNvi36ol8.md#ent-date-december-15th-t-00-51-42)**
+> "I cannot make December 15th work, so."
 
 </details>
 

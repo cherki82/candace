@@ -13,6 +13,20 @@ _Type: Events_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (3 mentions)</summary>
+
+**[00:37:15](/episodes/ep-tB5SXXmd9vU.md#ent-event-moon-landing-t-00-37-15)**
+> "...cause Brigitte says he was in America. We know Brigitte was in America in the 60s, at least for the moon landing, no details provided about what Brigitte was doing when he experienced the moon landing with Americ..."
+
+**[00:37:15](/episodes/ep-tB5SXXmd9vU.md#ent-event-moon-landing-t-00-37-15)**
+> "the moon landing, no details provided about what Brigitte was doin..."
+
+**[00:37:15](/episodes/ep-tB5SXXmd9vU.md#ent-event-moon-landing-t-00-37-15)**
+> "...doing when he experienced the moon landing with Americans."
+
+</details>
+
+<details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:18:02](/episodes/ep-7RLtGgkTh9o.md#ent-event-moon-landing-t-00-17-28)**
@@ -28,20 +42,6 @@ _Type: Events_
 
 **[00:46:02](/episodes/ep-Qfwr08Ebczo.md#t-00-46-02)**
 > "But I also don't believe the moon landings happened, so you can cut that clip because they d..."
-
-</details>
-
-<details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (3 mentions)</summary>
-
-**[00:37:15](/episodes/ep-tB5SXXmd9vU.md#ent-event-moon-landing-t-00-37-15)**
-> "...cause Brigitte says he was in America. We know Brigitte was in America in the 60s, at least for the moon landing, no details provided about what Brigitte was doing when he experienced the moon landing with Americ..."
-
-**[00:37:15](/episodes/ep-tB5SXXmd9vU.md#ent-event-moon-landing-t-00-37-15)**
-> "the moon landing, no details provided about what Brigitte was doin..."
-
-**[00:37:15](/episodes/ep-tB5SXXmd9vU.md#ent-event-moon-landing-t-00-37-15)**
-> "...doing when he experienced the moon landing with Americans."
 
 </details>
 

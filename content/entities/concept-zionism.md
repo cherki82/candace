@@ -21,37 +21,86 @@ _Type: Concepts_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (10 mentions)</summary>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (14 mentions)</summary>
 
-**[00:07:23](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-00-06-59)**
-> "...nist PR agents explain it first. Yashar Ali, who, like I said, is quite literally paid to do PR for Zionists. I know this personally, on the right and on the left, tried to explain it away by kind of lying, I..."
+**[00:11:15](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-11-15)**
+> "...ffort to infiltrate the Christian faith and to tie the Christian faith to the political ideology of Zionism. I think there's a lot of evidence for that. And I'm happy to discuss that in a broader debate. I d..."
 
-**[00:07:19](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-00-06-59)**
-> "...Twitter archives and retweet someone calling for a public execution? Well, I'll let one of the many Zionist PR agents explain it first. Yashar Ali, who, like I said, is quite literally paid to do PR for Zion..."
+**[00:39:28](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-39-20)**
+> "...because of various psychotic events that required her hospitalization. But due to her commitment to Zionism—which in a Zionist defense seems like a psychopathology is a prerequisite—the media is now trying t..."
 
-**[00:31:39](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-00-31-38)**
-> "...rol who he is allowed to speak to, control who I was allowed to speak to back when I was within the Zionist movement and waking up and realizing something was dangerously wrong when they started to try to co..."
+**[00:38:21](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-37-59)**
+> "...the people that they let in are almost the exact opposite of trustworthy and are just radically pro-Zionist. Like, they will lie, steal, cheat, and figuratively murder—or I guess literally allow Israel to mu..."
 
-**[00:46:56](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-00-46-14)**
-> "... by truth, right? That's ridiculous. Anyway, speaking of which, obviously you can see right now the Zionist lobby hates me and Tucker (Tucker Carlson). It is like nothing anybody has ever seen in their lives..."
+**[00:40:12](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-40-02)**
+> "..., a political opportunist—that he wasn't pro-Trump—simply because he hosted Dave Smith, who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer, who's a radical Zionist like herself, at one of hi..."
 
-**[01:11:47](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-01-11-36)**
-> "...ry. Like, what am I doing that? I wasn't even going to speak about Israel—like nothing. And yet the Zionist lobby grows up and like she can't speak. I was going to speak about homeschooling and children and ..."
+**[00:40:39](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-40-39)**
+> "...rding his legacy. Anyways, she was beside herself with glee this morning, sharing news that another Zionist influencer named Cam Higby—who has also now been credentialed by the Pentagon— decided to ask the p..."
 
-**[00:07:19](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-00-06-59)**
-> "...ell, I'll let one of the many Zionist PR agents explain it first."
+**[00:45:21](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-44-57)**
+> "...uys still talking about the Epstein files? That's the attitude. They think this is good PR, but the Zionist accounts are sharing this and they're going, "LOL." I don't know that the American government has e..."
 
-**[00:07:23](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-00-06-59)**
-> "...e literally paid to do PR for Zionists."
+**[00:11:15](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-11-15)**
+> "... to the political ideology of Zionism."
 
-**[00:31:39](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-00-31-38)**
-> "...to back when I was within the Zionist movement and waking up and realizing something wa..."
+**[00:38:21](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-37-59)**
+> "...hy and are just radically pro-Zionist."
 
-**[00:46:56](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-00-46-14)**
-> "...sly you can see right now the Zionist lobby hates me and Tucker (Tucker Carlson)."
+**[00:39:28](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-39-20)**
+> "But due to her commitment to Zionism—which in a Zionist defense seems like a psychopat..."
 
-**[01:11:47](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-01-11-36)**
-> "And yet the Zionist lobby grows up and like she can't speak."
+**[00:39:28](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-39-20)**
+> "...mitment to Zionism—which in a Zionist defense seems like a psychopathology is a prerequ..."
+
+**[00:40:12](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-40-02)**
+> "who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer, ..."
+
+**[00:40:12](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-40-02)**
+> "... Josh Hammer, who's a radical Zionist like herself, at one of his events."
+
+**[00:40:39](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-40-39)**
+> "...ng, sharing news that another Zionist influencer named Cam Higby—who has also now been ..."
+
+**[00:45:21](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-44-57)**
+> "...hink this is good PR, but the Zionist accounts are sharing this and they're going, "LOL..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (3 mentions)</summary>
+
+**[00:57:23](/episodes/ep-tB5SXXmd9vU.md#ent-concept-zionism-t-00-57-16)**
+> "...'t stop talking on the PBD podcast because his only mission in life is to defend Zionism, to defend Zionists and to attack people who don't like what Israel is doing, which is virtually everybody at this poin..."
+
+**[00:57:23](/episodes/ep-tB5SXXmd9vU.md#ent-concept-zionism-t-00-57-16)**
+> "... mission in life is to defend Zionism, to defend Zionists and to attack people who don'..."
+
+**[00:57:23](/episodes/ep-tB5SXXmd9vU.md#ent-concept-zionism-t-00-57-16)**
+> "... to defend Zionism, to defend Zionists and to attack people who don't like what Israel i..."
+
+</details>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (6 mentions)</summary>
+
+**[00:00:37](/episodes/ep-mKXdKV-OBog.md#ent-concept-zionism-t-00-00-00)**
+> "...ly to where the Egyptian yellow plane landed on its way to Provo. We need to definitely keep at it. Zionists are mad. I don't know why this investigation really has set Zionists off. I think it's because we'r..."
+
+**[00:00:38](/episodes/ep-mKXdKV-OBog.md#ent-concept-zionism-t-00-00-00)**
+> "...need to definitely keep at it. Zionists are mad. I don't know why this investigation really has set Zionists off. I think it's because we're getting closer, and Charlie (Charlie Kirk) would indeed want us to ..."
+
+**[00:24:53](/episodes/ep-mKXdKV-OBog.md#ent-concept-zionism-t-00-24-49)**
+> "...day is the general public having to pretend like the United States is not completely infiltrated by Zionist psychopaths. And it's just getting odd, right? They're going through extraordinary lengths to let u..."
+
+**[00:00:37](/episodes/ep-mKXdKV-OBog.md#ent-concept-zionism-t-00-00-00)**
+> "Zionists are mad."
+
+**[00:00:38](/episodes/ep-mKXdKV-OBog.md#ent-concept-zionism-t-00-00-00)**
+> "... investigation really has set Zionists off."
+
+**[00:24:53](/episodes/ep-mKXdKV-OBog.md#ent-concept-zionism-t-00-24-49)**
+> "...not completely infiltrated by Zionist psychopaths."
 
 </details>
 
@@ -97,13 +146,13 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (2 mentions)</summary>
 
-**[01:01:14](/episodes/ep-5autG89PW6w.md#ent-concept-zionism-t-01-01-09)**
-> "...w, we inherited it. We were all in public schools. We all thought the same thing. I was working for Zionist entities. So I don't fault us our ignorance. That is how the deception is thick, you know? And we'r..."
+**[00:53:50](/episodes/ep-JQjCAsfoXEE.md#ent-concept-zionism-t-00-53-47)**
+> "...Trump (Donald Trump) couldn't have predicted this awakening. Couldn't he flip? He should resent the Zionist mafia for blackmail. Trump (Donald Trump) is old. My investments matter less than legacy or his sou..."
 
-**[01:01:14](/episodes/ep-5autG89PW6w.md#ent-concept-zionism-t-01-01-09)**
-> "I was working for Zionist entities."
+**[00:53:50](/episodes/ep-JQjCAsfoXEE.md#ent-concept-zionism-t-00-53-47)**
+> "He should resent the Zionist mafia for blackmail."
 
 </details>
 
@@ -149,141 +198,37 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (10 mentions)</summary>
 
-**[00:01:13](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-zionism-t-00-00-43)**
-> "...club has gone viral. My one safe place. I only had one safe space, and it was my book club. And the Zionists are now there. And they say—you guessed it—I am going crazy. Welcome back to Candace. Today is actu..."
+**[00:36:52](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-36-27)**
+> "... Kirk) was betrayed. He continued to be betrayed every single day—including by these same Christian Zionists that he platformed throughout his entire career who apparently don't have a single question about a..."
 
-**[00:53:08](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-zionism-t-00-52-51)**
-> "...tion Mockingbird—or that's where we are at right now. And I have so much fun. And what happened was Zionists actually infiltrated the book club, passed the book club, and they then started sharing clips and w..."
+**[00:57:39](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-57-10)**
+> "...rites: "No more party loyalists next election." "Vote for the one not taking AIPAC money." "Get the Zionists out of our government." Yeah, I agree because they're evil, and they're involved in something that ..."
 
-**[00:01:13](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-zionism-t-00-00-43)**
-> "And the Zionists are now there."
+**[00:28:25](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-27-59)**
+> "...What is behind this? Do you really think this is all just accidental—their obsession with Christian Zionism? Jack Hibbs among them? We mentioned him yesterday—his brother Butch Hibbs, who was just everywhere..."
 
-**[00:53:08](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-zionism-t-00-52-51)**
-> "And what happened was Zionists actually infiltrated the book club, passed the bo..."
+**[00:36:27](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-36-27)**
+> "...right now at pdsdebt.com/candace. Again, that's pdsdebt.com/candace. pdsdebt.com/candace. Christian Zionism is heretical. I don't know what they are protecting, but if you don't see that it has gone mask off..."
 
-</details>
+**[00:28:25](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-27-59)**
+> "...heir obsession with Christian Zionism? Jack Hibbs among them?"
 
-<details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (2 mentions)</summary>
+**[00:36:27](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-36-27)**
+> "Christian Zionism is heretical."
 
-**[00:53:50](/episodes/ep-JQjCAsfoXEE.md#ent-concept-zionism-t-00-53-47)**
-> "...Trump (Donald Trump) couldn't have predicted this awakening. Couldn't he flip? He should resent the Zionist mafia for blackmail. Trump (Donald Trump) is old. My investments matter less than legacy or his sou..."
+**[00:36:52](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-36-27)**
+> "...uding by these same Christian Zionists that he platformed throughout his entire career w..."
 
-**[00:53:50](/episodes/ep-JQjCAsfoXEE.md#ent-concept-zionism-t-00-53-47)**
-> "He should resent the Zionist mafia for blackmail."
+**[00:36:52](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-36-27)**
+> "...e day—including by these same Christian Zionists that he platformed throughout his entire career w..."
 
-</details>
+**[00:57:39](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-57-10)**
+> ""Get the Zionists out of our government.""
 
-<details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (14 mentions)</summary>
-
-**[00:05:51](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-05-22)**
-> "... that they were instructed to go after Tucker (Tucker Carlson). More than anyone else, we know that Zionists cannot stand Tucker Carlson (Tucker Carlson). And the real reason that they hate him is because he'..."
-
-**[00:07:35](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-07-32)**
-> "...d it's his platform, and he can speak to whoever the hell he wants in the world. But of course with Zionists—the very same ones who were causing Charlie (Charlie Kirk) all of that grief in the final days and ..."
-
-**[00:09:01](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-09-01)**
-> "...t do that." Because that's ridiculous. It's not who he was. But the truth, obviously, is never what Zionists are concerned with. They want Charlie's (Charlie Kirk) legacy by any means necessary. They want peo..."
-
-**[00:10:43](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-10-16)**
-> "...dace Owens (clip): I just want to be clear. Candace Owens (clip): Anything happens to me, blame the Zionists. Candace Owens (clip): Like, 1000% blame the Zionists. Candace Owens (clip): Like, let that be my p..."
-
-**[00:10:45](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-10-16)**
-> "...ens (clip): Anything happens to me, blame the Zionists. Candace Owens (clip): Like, 1000% blame the Zionists. Candace Owens (clip): Like, let that be my parting word. Candace Owens (clip): I'm waking people u..."
-
-**[00:11:49](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-11-28)**
-> "..., if I wind up dead in mysterious circumstances, you should obviously assume it was orchestrated by Zionists—duh. In lengthier clips, which he didn't show, I've asserted that this entire American culture—whic..."
-
-**[00:00:28](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-00-00)**
-> "...ogue. We'll see what he had to say in a little bit. And it just so happens to be exactly what every Zionist has had to say in the last 24 to 48 hours—almost as though it's scripted. In other news, Erika Kirk..."
-
-**[00:00:28](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-00-00)**
-> "...pens to be exactly what every Zionist has had to say in the last 24 to 48 hours—almost ..."
-
-**[00:05:51](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-05-22)**
-> "...han anyone else, we know that Zionists cannot stand Tucker Carlson (Tucker Carlson)."
-
-**[00:07:35](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-07-32)**
-> "But of course with Zionists—the very same ones who were causing Charlie (Char..."
-
-**[00:09:01](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-09-01)**
-> "...uth, obviously, is never what Zionists are concerned with."
-
-**[00:10:43](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-10-16)**
-> "...hing happens to me, blame the Zionists."
-
-**[00:10:45](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-10-16)**
-> "Like, 1000% blame the Zionists."
-
-**[00:11:49](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-11-28)**
-> "...assume it was orchestrated by Zionists—duh."
-
-</details>
-
-<details>
-<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2 mentions)</summary>
-
-**[00:07:59](/episodes/ep-K5GjF53bfN4.md#ent-concept-zionism-t-00-07-21)**
-> "... a pro-Israel event, so I guess there's no Israel angle here, which does—of course, there's tons of Zionists in the Hamptons, Ackman among them—so I don't understand. You couldn't post that you were in the Ha..."
-
-**[00:07:59](/episodes/ep-K5GjF53bfN4.md#ent-concept-zionism-t-00-07-21)**
-> "...es—of course, there's tons of Zionists in the Hamptons, Ackman among them—so I don't und..."
-
-</details>
-
-<details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (16 mentions)</summary>
-
-**[00:17:37](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-17-12)**
-> "...instream politics. Nothing too daring. Never speaks about Israel. And she did her part, by the way. Zionists wanted her to do her part and encouraged New Yorkers to get out and vote against Mamdani. But it's ..."
-
-**[00:50:59](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-50-59)**
-> "...identitarian identity politics reasons there." Who are you more afraid of as an American—Muslims or Zionists? I'm going to go ahead and say Zionists for me personally—because whenever they get on this thing w..."
-
-**[00:51:03](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-50-59)**
-> "...here." Who are you more afraid of as an American—Muslims or Zionists? I'm going to go ahead and say Zionists for me personally—because whenever they get on this thing where they start talking about there's go..."
-
-**[00:00:32](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-00-00)**
-> "...ight. What is happening is a populist movement. And what is happening is that we are really sick of Zionism. We are really sick of lies. In that same vein, in case you missed it, Brett Cooper is apparently t..."
-
-**[00:22:50](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-22-50)**
-> "...out trying to big-time people, but you will find that there is this current of just sheer evil that Zionism goes hand in hand with—trying to deconstruct who an individual is very quickly. They began pouring ..."
-
-**[00:56:03](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-55-58)**
-> "...to also recognize what Israel—how it came together. You have to start with Sigmund Freud, the early Zionist movement. Theodore Herzl, his connection to him—why they were connected. We talk about this on my b..."
-
-**[00:56:26](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-55-58)**
-> "...Jewish Mystical Tradition." I think the combination of those two books are absolutely potent to the Zionist narrative. I truly do. And you'll also start to recognize the psych tactics that they use on us—the..."
-
-**[00:57:31](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-57-24)**
-> "...ng but continue to watch and bump up Candace (Candace Owens)'s views." Yeah, those are our resident Zionist friends. They're here every episode. Say hello to them. Intuition Jen writes: "Thank you for callin..."
-
-**[00:00:32](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-00-00)**
-> "...is that we are really sick of Zionism."
-
-**[00:17:37](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-17-12)**
-> "Zionists wanted her to do her part and encouraged New York..."
-
-**[00:22:50](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-22-50)**
-> "...rrent of just sheer evil that Zionism goes hand in hand with—trying to deconstruct who ..."
-
-**[00:50:59](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-50-59)**
-> "... of as an American—Muslims or Zionists?"
-
-**[00:51:03](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-50-59)**
-> "I'm going to go ahead and say Zionists for me personally—because whenever they get on th..."
-
-**[00:56:03](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-55-58)**
-> "...with Sigmund Freud, the early Zionist movement."
-
-**[00:56:26](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-55-58)**
-> "... are absolutely potent to the Zionist narrative."
-
-**[00:57:31](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-57-24)**
-> "Yeah, those are our resident Zionist friends."
+**[00:28:25](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-27-59)**
+> "...cidental—their obsession with Christian Zionism? Jack Hibbs among them?"
 
 </details>
 
@@ -371,6 +316,281 @@ _Type: Concepts_
 </details>
 
 <details>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (28 mentions)</summary>
+
+**[00:11:32](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-11-32)**
+> "... Stop the Steal rally event itself. And interestingly enough, on the quote-unquote Republican side, Christian Zionist pastors were heavily involved in not just influencing the public, right? Understanding right away—t..."
+
+**[00:27:50](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-27-42)**
+> "...eing from Christian Zionists right now. I don't even know how to describe what is happening over in Christian Zionist land. It is wacky. It is definitively exceptional. I've never seen it. There's anger; there's tears..."
+
+**[00:01:01](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-00-41)**
+> "...st going to say... That is kind of weird how the only people that seem to believe the fed story are Zionists, and they demand that we accept the fed story. And their panic is making me think that we're gettin..."
+
+**[00:24:49](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-24-49)**
+> "...es that I've been going through—militant responses that I've been going through on X from Christian Zionists. We'll be right back. All right, you guys. I'm going to tell you about PreBorn! because you know th..."
+
+**[00:27:47](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-27-42)**
+> "...o press my finger here. And I don't particularly love the reaction that we're seeing from Christian Zionists right now. I don't even know how to describe what is happening over in Christian Zionist land. It i..."
+
+**[00:28:16](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-28-16)**
+> "...e obviously just tweets a verse, trying to make it seem like—again, this is what they do. Christian Zionists—they will find a verse to be petty and like use Scripture to justify who they really—they just want..."
+
+**[00:35:45](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-35-35)**
+> "...w what happened to Charlie (Charlie Kirk) Kirk, okay? And why I feel like you and so many Christian Zionists just kind of wanted to turn him into a ghost—like, you know, Charlie (Charlie Kirk) the friendly gh..."
+
+**[00:52:48](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-52-41)**
+> "...not going to work if you're going to use identity politics. And right now, it is just the case that Zionists are being a little cray-cray—a lot of cray-cray—very cray-cray—and kind of dangerous. Also, I want ..."
+
+**[00:57:52](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-57-38)**
+> "...ing to hammer me—not on the Charlie (Charlie Kirk) stuff—but she was trying to hammer me so much on Zionism—you know, Israel—is kind of what she wanted to speak about. And then Brigitte Macron is what she wa..."
+
+**[00:42:53](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-42-16)**
+> "...t delusional. What are you saying? Something is happening. I'm telling you guys—this is like a full Zionist crash-out since Charlie (Charlie Kirk) died. And I just feel like they sent a very real threat to t..."
+
+**[00:58:47](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-58-22)**
+> "...se do I have for you guys? Thank you for supporting me. X is crazy. I don't know why, but there's a Zionist picture that is emerging in this story. It's a faith picture. Be wary of the influencers who are tr..."
+
+**[00:01:01](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-00-41)**
+> "... to believe the fed story are Zionists, and they demand that we accept the fed story. An..."
+
+**[00:11:32](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-11-32)**
+> "...uote-unquote Republican side, Christian Zionist pastors were heavily involved in not just influen..."
+
+**[00:11:32](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-11-32)**
+> "...te Republican side, Christian Zionist pastors were heavily involved in not just influen..."
+
+**[00:24:49](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-24-49)**
+> "...g through on X from Christian Zionists."
+
+**[00:24:49](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-24-49)**
+> "... been going through on X from Christian Zionists."
+
+**[00:27:47](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-27-42)**
+> "...t we're seeing from Christian Zionists right now."
+
+**[00:27:47](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-27-42)**
+> "...action that we're seeing from Christian Zionists right now."
+
+**[00:27:50](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-27-42)**
+> "...ibe what is happening over in Christian Zionist land."
+
+**[00:27:50](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-27-42)**
+> "...s happening over in Christian Zionist land."
+
+**[00:28:16](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-28-16)**
+> "...is is what they do. Christian Zionists—they will find a verse to be petty and like use S..."
+
+**[00:28:16](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-28-16)**
+> "...—again, this is what they do. Christian Zionists—they will find a verse to be petty and like use S..."
+
+**[00:35:45](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-35-35)**
+> "...ike you and so many Christian Zionists just kind of wanted to turn him into a ghost—like..."
+
+**[00:35:45](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-35-35)**
+> "...y I feel like you and so many Christian Zionists just kind of wanted to turn him into a ghost—like..."
+
+**[00:42:53](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-42-16)**
+> "... you guys—this is like a full Zionist crash-out since Charlie (Charlie Kirk) died."
+
+**[00:52:48](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-52-41)**
+> "...now, it is just the case that Zionists are being a little cray-cray—a lot of cray-cray—v..."
+
+**[00:57:52](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-57-38)**
+> "Zionism—you know, Israel—is kind of what she wanted to sp..."
+
+**[00:58:47](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-58-22)**
+> "...don't know why, but there's a Zionist picture that is emerging in this story."
+
+</details>
+
+<details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (22 mentions)</summary>
+
+**[00:34:04](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-33-42)**
+> "...n years. It's very unsettling for me to hear things like you saying, "Our government is occupied by Zionists, Trump (Donald Trump) is occupied by Zionists, we're an occupied nation." Because like, there's lit..."
+
+**[00:35:32](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-35-25)**
+> "... is I stand by every statement that I made, and I want to double down on it. America is occupied by Zionists. I'd like to triple down on that if there's anybody going. I'd like to triple down on that. These t..."
+
+**[00:37:30](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-36-55)**
+> "...ople fearful to speak. If I want to say Jews, I will say Jews. I don't fear saying Jews. When I say Zionists run the media, I mean Zionists run the media. People that support the political ideology of Israel ..."
+
+**[00:38:44](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-38-17)**
+> "...lled a white supremacist, to say my opinion about this administration and how it's been occupied by Zionists and the cruelties that the Palestinian children are suffering at the hands of Benjamin Netanyahu, t..."
+
+**[00:35:09](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-34-42)**
+> "...ing white nationalist rhetoric? Immediately no. So what else could it be? Could it be that actually Zionism is what it actually represents? What does that mean? Zionism is a political philosophy. Zionist-occ..."
+
+**[00:35:14](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-34-42)**
+> "...could it be? Could it be that actually Zionism is what it actually represents? What does that mean? Zionism is a political philosophy. Zionist-occupied government. If you look into the history, yes, I believ..."
+
+**[00:11:35](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-11-35)**
+> "...least interesting part of this is the fact that he's lying through his teeth. That's implied he's a Zionist, but there's a lot more that's happening that meets the eye, because Ben Shapiro was effectively th..."
+
+**[00:34:07](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-33-42)**
+> "... Because like, there's literally a term that's like an '80s, '90s term from white nationalism, ZOG, Zionist Occupied Government. It's their idea that Jews control the world. And I'm wondering, like, are you ..."
+
+**[00:35:16](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-34-42)**
+> "...lly Zionism is what it actually represents? What does that mean? Zionism is a political philosophy. Zionist-occupied government. If you look into the history, yes, I believe we are a Zionist-occupied governm..."
+
+**[00:35:17](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-34-42)**
+> "...ical philosophy. Zionist-occupied government. If you look into the history, yes, I believe we are a Zionist-occupied government and we're not the only one. Yes, and I take it to the bank. If you need to walk..."
+
+**[00:11:35](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-11-35)**
+> "That's implied he's a Zionist, but there's a lot more that's happening that mee..."
+
+**[00:34:04](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-33-42)**
+> "...Our government is occupied by Zionists, Trump (Donald Trump) is occupied by Zionists, we..."
+
+**[00:34:04](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-33-42)**
+> "...(Donald Trump) is occupied by Zionists, we're an occupied nation.""
+
+**[00:34:07](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-33-42)**
+> "... from white nationalism, ZOG, Zionist Occupied Government."
+
+**[00:35:09](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-34-42)**
+> "Could it be that actually Zionism is what it actually represents?"
+
+**[00:35:14](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-34-42)**
+> "Zionism is a political philosophy."
+
+**[00:35:16](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-34-42)**
+> "Zionist-occupied government."
+
+**[00:35:17](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-34-42)**
+> "...tory, yes, I believe we are a Zionist-occupied government and we're not the only one."
+
+**[00:35:32](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-35-25)**
+> "America is occupied by Zionists."
+
+**[00:37:30](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-36-55)**
+> "When I say Zionists run the media, I mean Zionists run the media."
+
+**[00:37:30](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-36-55)**
+> "...ionists run the media, I mean Zionists run the media."
+
+**[00:38:44](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-38-17)**
+> "...and how it's been occupied by Zionists and the cruelties that the Palestinian children a..."
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (19 mentions)</summary>
+
+**[00:00:27](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-00-00)**
+> "...he haters stay mad. Haters stay big mad on the internet. On X today, it is just crazy town. I mean, Christian Zionist influencers are doing that thing where they attack me for telling the truth about something. It's s..."
+
+**[00:17:06](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-16-42)**
+> "... going to take the step and become Catholic." Gave no details. And the next thing I knew, Operation Christian Zionist Influencer was—while I was in a state of trauma and grieving—coming after me and saying that it was..."
+
+**[00:26:22](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-25-52)**
+> "...and that's what we're going to say about that. Take a brief break, and we're going to get into some Christian Zionist influencers. I've been speaking to you guys a lot about Riverbend Ranch because I love their steaks..."
+
+**[00:31:00](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-30-42)**
+> "...me. You saw that. It was definitively not organic. It was this weird need to assert his legacy as a Christian Zionist. By the way, I'm not including Allie in the downright nasty category whatsoever, but she was one of..."
+
+**[00:37:31](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-36-53)**
+> "...hen you get Lila Rose, who jumps in for no reason at all other than the fact that she's a committed Christian Zionist. And she says something that's so far off the mark. At least Allie's showing something relevant to ..."
+
+**[00:51:59](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-51-41)**
+> "...red Charlie Kirk (Charlie Kirk), Alex; it was because likely you guys were more concerned with your Christian Zionist donors and also pressure from your Jewish donors. And so you just lied to cover up the truth about ..."
+
+**[00:45:21](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-45-21)**
+> "... turn—and I see that Alyssa Cordova is working with you— I'm wondering if this is just kind of like Zionist nastiness. I think I've been extremely gracious to the different perspectives that we have if we ar..."
+
+**[00:00:27](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-00-00)**
+> "I mean, Christian Zionist influencers are doing that thing where they attac..."
+
+**[00:17:06](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-16-42)**
+> "... next thing I knew, Operation Christian Zionist Influencer was—while I was in a state of trauma a..."
+
+**[00:17:06](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-16-42)**
+> "...g I knew, Operation Christian Zionist Influencer was—while I was in a state of trauma a..."
+
+**[00:26:22](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-25-52)**
+> "... we're going to get into some Christian Zionist influencers."
+
+**[00:26:22](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-25-52)**
+> "...ng to get into some Christian Zionist influencers."
+
+**[00:31:00](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-30-42)**
+> "...eed to assert his legacy as a Christian Zionist."
+
+**[00:31:00](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-30-42)**
+> "...ert his legacy as a Christian Zionist."
+
+**[00:37:31](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-36-53)**
+> "...e fact that she's a committed Christian Zionist."
+
+**[00:37:31](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-36-53)**
+> "...t she's a committed Christian Zionist."
+
+**[00:45:21](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-45-21)**
+> "... if this is just kind of like Zionist nastiness. I think I've been extremely gracious t..."
+
+**[00:51:59](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-51-41)**
+> "...were more concerned with your Christian Zionist donors and also pressure from your Jewish donors."
+
+**[00:51:59](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-51-41)**
+> "...concerned with your Christian Zionist donors and also pressure from your Jewish donors."
+
+</details>
+
+<details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (16 mentions)</summary>
+
+**[00:17:37](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-17-12)**
+> "...instream politics. Nothing too daring. Never speaks about Israel. And she did her part, by the way. Zionists wanted her to do her part and encouraged New Yorkers to get out and vote against Mamdani. But it's ..."
+
+**[00:50:59](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-50-59)**
+> "...identitarian identity politics reasons there." Who are you more afraid of as an American—Muslims or Zionists? I'm going to go ahead and say Zionists for me personally—because whenever they get on this thing w..."
+
+**[00:51:03](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-50-59)**
+> "...here." Who are you more afraid of as an American—Muslims or Zionists? I'm going to go ahead and say Zionists for me personally—because whenever they get on this thing where they start talking about there's go..."
+
+**[00:00:32](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-00-00)**
+> "...ight. What is happening is a populist movement. And what is happening is that we are really sick of Zionism. We are really sick of lies. In that same vein, in case you missed it, Brett Cooper is apparently t..."
+
+**[00:22:50](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-22-50)**
+> "...out trying to big-time people, but you will find that there is this current of just sheer evil that Zionism goes hand in hand with—trying to deconstruct who an individual is very quickly. They began pouring ..."
+
+**[00:56:03](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-55-58)**
+> "...to also recognize what Israel—how it came together. You have to start with Sigmund Freud, the early Zionist movement. Theodore Herzl, his connection to him—why they were connected. We talk about this on my b..."
+
+**[00:56:26](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-55-58)**
+> "...Jewish Mystical Tradition." I think the combination of those two books are absolutely potent to the Zionist narrative. I truly do. And you'll also start to recognize the psych tactics that they use on us—the..."
+
+**[00:57:31](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-57-24)**
+> "...ng but continue to watch and bump up Candace (Candace Owens)'s views." Yeah, those are our resident Zionist friends. They're here every episode. Say hello to them. Intuition Jen writes: "Thank you for callin..."
+
+**[00:00:32](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-00-00)**
+> "...is that we are really sick of Zionism."
+
+**[00:17:37](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-17-12)**
+> "Zionists wanted her to do her part and encouraged New York..."
+
+**[00:22:50](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-22-50)**
+> "...rrent of just sheer evil that Zionism goes hand in hand with—trying to deconstruct who ..."
+
+**[00:50:59](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-50-59)**
+> "... of as an American—Muslims or Zionists?"
+
+**[00:51:03](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-50-59)**
+> "I'm going to go ahead and say Zionists for me personally—because whenever they get on th..."
+
+**[00:56:03](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-55-58)**
+> "...with Sigmund Freud, the early Zionist movement."
+
+**[00:56:26](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-55-58)**
+> "... are absolutely potent to the Zionist narrative."
+
+**[00:57:31](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-57-24)**
+> "Yeah, those are our resident Zionist friends."
+
+</details>
+
+<details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (23 mentions)</summary>
 
 **[00:35:06](/episodes/ep-Qfwr08Ebczo.md#ent-concept-zionism-t-00-34-39)**
@@ -445,37 +665,49 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (10 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (14 mentions)</summary>
 
-**[00:09:38](/episodes/ep-Qt0VHV-POCg.md#ent-concept-zionism-t-00-09-15)**
-> "... I know that he gets paid by TPUSA Faith upcoming pastor summits where they're going to teach other Christian Zionist pastors how to use the Bible as a shield for their political ideas. You know, it says right here in..."
+**[00:05:51](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-05-22)**
+> "... that they were instructed to go after Tucker (Tucker Carlson). More than anyone else, we know that Zionists cannot stand Tucker Carlson (Tucker Carlson). And the real reason that they hate him is because he'..."
 
-**[00:14:15](/episodes/ep-Qt0VHV-POCg.md#ent-concept-zionism-t-00-14-01)**
-> "...nal Day of Remembrance for Charlie Kirk. Okay? And I'm gonna tell you how I feel about that. Truly, Zionists that infiltrated my book club. You did not need to pay the $9.99 to find out how I feel about this...."
+**[00:07:35](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-07-32)**
+> "...d it's his platform, and he can speak to whoever the hell he wants in the world. But of course with Zionists—the very same ones who were causing Charlie (Charlie Kirk) all of that grief in the final days and ..."
 
-**[00:38:57](/episodes/ep-Qt0VHV-POCg.md#ent-concept-zionism-t-00-38-57)**
-> "...understand Jared and Ivanka and their investments in Israel and the pressure that's coming from the Zionists to simply be quiet. As his other brothers and sisters and people in the movement—people who don't e..."
+**[00:09:01](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-09-01)**
+> "...t do that." Because that's ridiculous. It's not who he was. But the truth, obviously, is never what Zionists are concerned with. They want Charlie's (Charlie Kirk) legacy by any means necessary. They want peo..."
 
-**[00:54:34](/episodes/ep-Qt0VHV-POCg.md#ent-concept-zionism-t-00-54-13)**
-> "...Israel—and he showed how they were training people to edit articles on Wikipedia so that it favored Zionists and the Zionist cause. It was just like—it's an incredible clip. You got to find it. We've showed i..."
+**[00:10:43](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-10-16)**
+> "...dace Owens (clip): I just want to be clear. Candace Owens (clip): Anything happens to me, blame the Zionists. Candace Owens (clip): Like, 1000% blame the Zionists. Candace Owens (clip): Like, let that be my p..."
 
-**[00:09:38](/episodes/ep-Qt0VHV-POCg.md#ent-concept-zionism-t-00-09-15)**
-> "... they're going to teach other Christian Zionist pastors how to use the Bible as a shield for thei..."
+**[00:10:45](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-10-16)**
+> "...ens (clip): Anything happens to me, blame the Zionists. Candace Owens (clip): Like, 1000% blame the Zionists. Candace Owens (clip): Like, let that be my parting word. Candace Owens (clip): I'm waking people u..."
 
-**[00:09:38](/episodes/ep-Qt0VHV-POCg.md#ent-concept-zionism-t-00-09-15)**
-> "...oing to teach other Christian Zionist pastors how to use the Bible as a shield for thei..."
+**[00:11:49](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-11-28)**
+> "..., if I wind up dead in mysterious circumstances, you should obviously assume it was orchestrated by Zionists—duh. In lengthier clips, which he didn't show, I've asserted that this entire American culture—whic..."
 
-**[00:14:15](/episodes/ep-Qt0VHV-POCg.md#ent-concept-zionism-t-00-14-01)**
-> "Truly, Zionists that infiltrated my book club."
+**[00:00:28](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-00-00)**
+> "...ogue. We'll see what he had to say in a little bit. And it just so happens to be exactly what every Zionist has had to say in the last 24 to 48 hours—almost as though it's scripted. In other news, Erika Kirk..."
 
-**[00:38:57](/episodes/ep-Qt0VHV-POCg.md#ent-concept-zionism-t-00-38-57)**
-> "...essure that's coming from the Zionists to simply be quiet."
+**[00:00:28](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-00-00)**
+> "...pens to be exactly what every Zionist has had to say in the last 24 to 48 hours—almost ..."
 
-**[00:54:34](/episodes/ep-Qt0VHV-POCg.md#ent-concept-zionism-t-00-54-13)**
-> "so that it favored Zionists and the Zionist cause."
+**[00:05:51](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-05-22)**
+> "...han anyone else, we know that Zionists cannot stand Tucker Carlson (Tucker Carlson)."
 
-**[00:54:34](/episodes/ep-Qt0VHV-POCg.md#ent-concept-zionism-t-00-54-13)**
-> "...t it favored Zionists and the Zionist cause."
+**[00:07:35](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-07-32)**
+> "But of course with Zionists—the very same ones who were causing Charlie (Char..."
+
+**[00:09:01](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-09-01)**
+> "...uth, obviously, is never what Zionists are concerned with."
+
+**[00:10:43](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-10-16)**
+> "...hing happens to me, blame the Zionists."
+
+**[00:10:45](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-10-16)**
+> "Like, 1000% blame the Zionists."
+
+**[00:11:49](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-11-28)**
+> "...assume it was orchestrated by Zionists—duh."
 
 </details>
 
@@ -581,202 +813,6 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (28 mentions)</summary>
-
-**[00:11:32](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-11-32)**
-> "... Stop the Steal rally event itself. And interestingly enough, on the quote-unquote Republican side, Christian Zionist pastors were heavily involved in not just influencing the public, right? Understanding right away—t..."
-
-**[00:27:50](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-27-42)**
-> "...eing from Christian Zionists right now. I don't even know how to describe what is happening over in Christian Zionist land. It is wacky. It is definitively exceptional. I've never seen it. There's anger; there's tears..."
-
-**[00:01:01](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-00-41)**
-> "...st going to say... That is kind of weird how the only people that seem to believe the fed story are Zionists, and they demand that we accept the fed story. And their panic is making me think that we're gettin..."
-
-**[00:24:49](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-24-49)**
-> "...es that I've been going through—militant responses that I've been going through on X from Christian Zionists. We'll be right back. All right, you guys. I'm going to tell you about PreBorn! because you know th..."
-
-**[00:27:47](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-27-42)**
-> "...o press my finger here. And I don't particularly love the reaction that we're seeing from Christian Zionists right now. I don't even know how to describe what is happening over in Christian Zionist land. It i..."
-
-**[00:28:16](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-28-16)**
-> "...e obviously just tweets a verse, trying to make it seem like—again, this is what they do. Christian Zionists—they will find a verse to be petty and like use Scripture to justify who they really—they just want..."
-
-**[00:35:45](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-35-35)**
-> "...w what happened to Charlie (Charlie Kirk) Kirk, okay? And why I feel like you and so many Christian Zionists just kind of wanted to turn him into a ghost—like, you know, Charlie (Charlie Kirk) the friendly gh..."
-
-**[00:52:48](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-52-41)**
-> "...not going to work if you're going to use identity politics. And right now, it is just the case that Zionists are being a little cray-cray—a lot of cray-cray—very cray-cray—and kind of dangerous. Also, I want ..."
-
-**[00:57:52](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-57-38)**
-> "...ing to hammer me—not on the Charlie (Charlie Kirk) stuff—but she was trying to hammer me so much on Zionism—you know, Israel—is kind of what she wanted to speak about. And then Brigitte Macron is what she wa..."
-
-**[00:42:53](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-42-16)**
-> "...t delusional. What are you saying? Something is happening. I'm telling you guys—this is like a full Zionist crash-out since Charlie (Charlie Kirk) died. And I just feel like they sent a very real threat to t..."
-
-**[00:58:47](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-58-22)**
-> "...se do I have for you guys? Thank you for supporting me. X is crazy. I don't know why, but there's a Zionist picture that is emerging in this story. It's a faith picture. Be wary of the influencers who are tr..."
-
-**[00:01:01](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-00-41)**
-> "... to believe the fed story are Zionists, and they demand that we accept the fed story. An..."
-
-**[00:11:32](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-11-32)**
-> "...uote-unquote Republican side, Christian Zionist pastors were heavily involved in not just influen..."
-
-**[00:11:32](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-11-32)**
-> "...te Republican side, Christian Zionist pastors were heavily involved in not just influen..."
-
-**[00:24:49](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-24-49)**
-> "...g through on X from Christian Zionists."
-
-**[00:24:49](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-24-49)**
-> "... been going through on X from Christian Zionists."
-
-**[00:27:47](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-27-42)**
-> "...t we're seeing from Christian Zionists right now."
-
-**[00:27:47](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-27-42)**
-> "...action that we're seeing from Christian Zionists right now."
-
-**[00:27:50](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-27-42)**
-> "...ibe what is happening over in Christian Zionist land."
-
-**[00:27:50](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-27-42)**
-> "...s happening over in Christian Zionist land."
-
-**[00:28:16](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-28-16)**
-> "...is is what they do. Christian Zionists—they will find a verse to be petty and like use S..."
-
-**[00:28:16](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-28-16)**
-> "...—again, this is what they do. Christian Zionists—they will find a verse to be petty and like use S..."
-
-**[00:35:45](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-35-35)**
-> "...ike you and so many Christian Zionists just kind of wanted to turn him into a ghost—like..."
-
-**[00:35:45](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-35-35)**
-> "...y I feel like you and so many Christian Zionists just kind of wanted to turn him into a ghost—like..."
-
-**[00:42:53](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-42-16)**
-> "... you guys—this is like a full Zionist crash-out since Charlie (Charlie Kirk) died."
-
-**[00:52:48](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-52-41)**
-> "...now, it is just the case that Zionists are being a little cray-cray—a lot of cray-cray—v..."
-
-**[00:57:52](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-57-38)**
-> "Zionism—you know, Israel—is kind of what she wanted to sp..."
-
-**[00:58:47](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-58-22)**
-> "...don't know why, but there's a Zionist picture that is emerging in this story."
-
-</details>
-
-<details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (6 mentions)</summary>
-
-**[00:30:18](/episodes/ep-aDlhjfW6hz8.md#ent-concept-zionism-t-00-30-01)**
-> "...s pushing this. Right? The answer is implied by the people who are attacking me. They are all ultra-Zionists, right? Like I said, the author of that article is an ultra-Zionist. And here she is starting off 2..."
-
-**[00:36:23](/episodes/ep-aDlhjfW6hz8.md#ent-concept-zionism-t-00-36-12)**
-> "...ng when we have an occupied administration? There's no question Trump (Donald Trump) is occupied by Zionists. Okay, he's completely impotent. He's completely powerless. He cannot say anything that goes agains..."
-
-**[00:30:24](/episodes/ep-aDlhjfW6hz8.md#ent-concept-zionism-t-00-30-01)**
-> "...tacking me. They are all ultra-Zionists, right? Like I said, the author of that article is an ultra-Zionist. And here she is starting off 2018 in D.C., and she's got a picture of herself—if you can scroll do..."
-
-**[00:30:18](/episodes/ep-aDlhjfW6hz8.md#ent-concept-zionism-t-00-30-01)**
-> "They are all ultra-Zionists, right?"
-
-**[00:30:24](/episodes/ep-aDlhjfW6hz8.md#ent-concept-zionism-t-00-30-01)**
-> "...r of that article is an ultra-Zionist."
-
-**[00:36:23](/episodes/ep-aDlhjfW6hz8.md#ent-concept-zionism-t-00-36-12)**
-> "...(Donald Trump) is occupied by Zionists."
-
-</details>
-
-<details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (5 mentions)</summary>
-
-**[00:31:03](/episodes/ep-adJ4LNGp84I.md#ent-concept-zionism-t-00-30-42)**
-> "...t want China to own TikTok. And I'm worried about your data. No, you wanted to hand it over to your Zionist friends. It was all a mirage. It was all theater. Donald (Donald Trump) has sold us out to Israel o..."
-
-**[00:31:57](/episodes/ep-adJ4LNGp84I.md#ent-concept-zionism-t-00-31-25)**
-> "...y're gonna ban your speech. It's happening right now. The second that that CEO said she was a proud Zionist, or maybe she wasn't the CEO, but one of the executives there that they installed immediately after..."
-
-**[00:31:03](/episodes/ep-adJ4LNGp84I.md#ent-concept-zionism-t-00-30-42)**
-> "...anted to hand it over to your Zionist friends."
-
-**[00:31:57](/episodes/ep-adJ4LNGp84I.md#ent-concept-zionism-t-00-31-25)**
-> "...that CEO said she was a proud Zionist, or maybe she wasn't the CEO, but one of the exec..."
-
-**[00:31:57](/episodes/ep-adJ4LNGp84I.md#ent-concept-zionism-t-00-31-25)**
-> "...ly after said she was a proud Zionist and spent time in Israel,"
-
-</details>
-
-<details>
-<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (4 mentions)</summary>
-
-**[00:35:38](/episodes/ep-c5BcKF91iec.md#ent-concept-zionism-t-00-35-33)**
-> "...rs. We'll see what happens. Well done, Josh. Well done. Very good, Josh. Try your best to curb your Zionism. I know it's hard, but do your best. Too funny. Also, I wanna shout out John Miller on X. He made m..."
-
-**[00:34:39](/episodes/ep-c5BcKF91iec.md#ent-concept-zionism-t-00-34-06)**
-> "...a listen. How Charlie Kirk was actually feeling about the pressure he was receiving from pro-Israel Zionist donors to Turning Point USA. Charlie definitely was not someone who liked to be bullied by donors, ..."
-
-**[00:34:39](/episodes/ep-c5BcKF91iec.md#ent-concept-zionism-t-00-34-06)**
-> "...was receiving from pro-Israel Zionist donors to Turning Point USA."
-
-**[00:35:38](/episodes/ep-c5BcKF91iec.md#ent-concept-zionism-t-00-35-33)**
-> "Try your best to curb your Zionism."
-
-</details>
-
-<details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (14 mentions)</summary>
-
-**[00:11:15](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-11-15)**
-> "...ffort to infiltrate the Christian faith and to tie the Christian faith to the political ideology of Zionism. I think there's a lot of evidence for that. And I'm happy to discuss that in a broader debate. I d..."
-
-**[00:39:28](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-39-20)**
-> "...because of various psychotic events that required her hospitalization. But due to her commitment to Zionism—which in a Zionist defense seems like a psychopathology is a prerequisite—the media is now trying t..."
-
-**[00:38:21](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-37-59)**
-> "...the people that they let in are almost the exact opposite of trustworthy and are just radically pro-Zionist. Like, they will lie, steal, cheat, and figuratively murder—or I guess literally allow Israel to mu..."
-
-**[00:40:12](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-40-02)**
-> "..., a political opportunist—that he wasn't pro-Trump—simply because he hosted Dave Smith, who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer, who's a radical Zionist like herself, at one of hi..."
-
-**[00:40:39](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-40-39)**
-> "...rding his legacy. Anyways, she was beside herself with glee this morning, sharing news that another Zionist influencer named Cam Higby—who has also now been credentialed by the Pentagon— decided to ask the p..."
-
-**[00:45:21](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-44-57)**
-> "...uys still talking about the Epstein files? That's the attitude. They think this is good PR, but the Zionist accounts are sharing this and they're going, "LOL." I don't know that the American government has e..."
-
-**[00:11:15](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-11-15)**
-> "... to the political ideology of Zionism."
-
-**[00:38:21](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-37-59)**
-> "...hy and are just radically pro-Zionist."
-
-**[00:39:28](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-39-20)**
-> "But due to her commitment to Zionism—which in a Zionist defense seems like a psychopat..."
-
-**[00:39:28](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-39-20)**
-> "...mitment to Zionism—which in a Zionist defense seems like a psychopathology is a prerequ..."
-
-**[00:40:12](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-40-02)**
-> "who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer, ..."
-
-**[00:40:12](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-40-02)**
-> "... Josh Hammer, who's a radical Zionist like herself, at one of his events."
-
-**[00:40:39](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-40-39)**
-> "...ng, sharing news that another Zionist influencer named Cam Higby—who has also now been ..."
-
-**[00:45:21](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-44-57)**
-> "...hink this is good PR, but the Zionist accounts are sharing this and they're going, "LOL..."
-
-</details>
-
-<details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (23 mentions)</summary>
 
 **[00:38:07](/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-38-07)**
@@ -851,6 +887,152 @@ _Type: Concepts_
 </details>
 
 <details>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (10 mentions)</summary>
+
+**[00:09:38](/episodes/ep-Qt0VHV-POCg.md#ent-concept-zionism-t-00-09-15)**
+> "... I know that he gets paid by TPUSA Faith upcoming pastor summits where they're going to teach other Christian Zionist pastors how to use the Bible as a shield for their political ideas. You know, it says right here in..."
+
+**[00:14:15](/episodes/ep-Qt0VHV-POCg.md#ent-concept-zionism-t-00-14-01)**
+> "...nal Day of Remembrance for Charlie Kirk. Okay? And I'm gonna tell you how I feel about that. Truly, Zionists that infiltrated my book club. You did not need to pay the $9.99 to find out how I feel about this...."
+
+**[00:38:57](/episodes/ep-Qt0VHV-POCg.md#ent-concept-zionism-t-00-38-57)**
+> "...understand Jared and Ivanka and their investments in Israel and the pressure that's coming from the Zionists to simply be quiet. As his other brothers and sisters and people in the movement—people who don't e..."
+
+**[00:54:34](/episodes/ep-Qt0VHV-POCg.md#ent-concept-zionism-t-00-54-13)**
+> "...Israel—and he showed how they were training people to edit articles on Wikipedia so that it favored Zionists and the Zionist cause. It was just like—it's an incredible clip. You got to find it. We've showed i..."
+
+**[00:09:38](/episodes/ep-Qt0VHV-POCg.md#ent-concept-zionism-t-00-09-15)**
+> "... they're going to teach other Christian Zionist pastors how to use the Bible as a shield for thei..."
+
+**[00:09:38](/episodes/ep-Qt0VHV-POCg.md#ent-concept-zionism-t-00-09-15)**
+> "...oing to teach other Christian Zionist pastors how to use the Bible as a shield for thei..."
+
+**[00:14:15](/episodes/ep-Qt0VHV-POCg.md#ent-concept-zionism-t-00-14-01)**
+> "Truly, Zionists that infiltrated my book club."
+
+**[00:38:57](/episodes/ep-Qt0VHV-POCg.md#ent-concept-zionism-t-00-38-57)**
+> "...essure that's coming from the Zionists to simply be quiet."
+
+**[00:54:34](/episodes/ep-Qt0VHV-POCg.md#ent-concept-zionism-t-00-54-13)**
+> "so that it favored Zionists and the Zionist cause."
+
+**[00:54:34](/episodes/ep-Qt0VHV-POCg.md#ent-concept-zionism-t-00-54-13)**
+> "...t it favored Zionists and the Zionist cause."
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
+
+**[00:01:13](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-zionism-t-00-00-43)**
+> "...club has gone viral. My one safe place. I only had one safe space, and it was my book club. And the Zionists are now there. And they say—you guessed it—I am going crazy. Welcome back to Candace. Today is actu..."
+
+**[00:53:08](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-zionism-t-00-52-51)**
+> "...tion Mockingbird—or that's where we are at right now. And I have so much fun. And what happened was Zionists actually infiltrated the book club, passed the book club, and they then started sharing clips and w..."
+
+**[00:01:13](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-zionism-t-00-00-43)**
+> "And the Zionists are now there."
+
+**[00:53:08](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-zionism-t-00-52-51)**
+> "And what happened was Zionists actually infiltrated the book club, passed the bo..."
+
+</details>
+
+<details>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (4 mentions)</summary>
+
+**[00:35:38](/episodes/ep-c5BcKF91iec.md#ent-concept-zionism-t-00-35-33)**
+> "...rs. We'll see what happens. Well done, Josh. Well done. Very good, Josh. Try your best to curb your Zionism. I know it's hard, but do your best. Too funny. Also, I wanna shout out John Miller on X. He made m..."
+
+**[00:34:39](/episodes/ep-c5BcKF91iec.md#ent-concept-zionism-t-00-34-06)**
+> "...a listen. How Charlie Kirk was actually feeling about the pressure he was receiving from pro-Israel Zionist donors to Turning Point USA. Charlie definitely was not someone who liked to be bullied by donors, ..."
+
+**[00:34:39](/episodes/ep-c5BcKF91iec.md#ent-concept-zionism-t-00-34-06)**
+> "...was receiving from pro-Israel Zionist donors to Turning Point USA."
+
+**[00:35:38](/episodes/ep-c5BcKF91iec.md#ent-concept-zionism-t-00-35-33)**
+> "Try your best to curb your Zionism."
+
+</details>
+
+<details>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (10 mentions)</summary>
+
+**[00:07:23](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-00-06-59)**
+> "...nist PR agents explain it first. Yashar Ali, who, like I said, is quite literally paid to do PR for Zionists. I know this personally, on the right and on the left, tried to explain it away by kind of lying, I..."
+
+**[00:07:19](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-00-06-59)**
+> "...Twitter archives and retweet someone calling for a public execution? Well, I'll let one of the many Zionist PR agents explain it first. Yashar Ali, who, like I said, is quite literally paid to do PR for Zion..."
+
+**[00:31:39](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-00-31-38)**
+> "...rol who he is allowed to speak to, control who I was allowed to speak to back when I was within the Zionist movement and waking up and realizing something was dangerously wrong when they started to try to co..."
+
+**[00:46:56](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-00-46-14)**
+> "... by truth, right? That's ridiculous. Anyway, speaking of which, obviously you can see right now the Zionist lobby hates me and Tucker (Tucker Carlson). It is like nothing anybody has ever seen in their lives..."
+
+**[01:11:47](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-01-11-36)**
+> "...ry. Like, what am I doing that? I wasn't even going to speak about Israel—like nothing. And yet the Zionist lobby grows up and like she can't speak. I was going to speak about homeschooling and children and ..."
+
+**[00:07:19](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-00-06-59)**
+> "...ell, I'll let one of the many Zionist PR agents explain it first."
+
+**[00:07:23](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-00-06-59)**
+> "...e literally paid to do PR for Zionists."
+
+**[00:31:39](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-00-31-38)**
+> "...to back when I was within the Zionist movement and waking up and realizing something wa..."
+
+**[00:46:56](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-00-46-14)**
+> "...sly you can see right now the Zionist lobby hates me and Tucker (Tucker Carlson)."
+
+**[01:11:47](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-01-11-36)**
+> "And yet the Zionist lobby grows up and like she can't speak."
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
+
+**[01:01:14](/episodes/ep-5autG89PW6w.md#ent-concept-zionism-t-01-01-09)**
+> "...w, we inherited it. We were all in public schools. We all thought the same thing. I was working for Zionist entities. So I don't fault us our ignorance. That is how the deception is thick, you know? And we'r..."
+
+**[01:01:14](/episodes/ep-5autG89PW6w.md#ent-concept-zionism-t-01-01-09)**
+> "I was working for Zionist entities."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (5 mentions)</summary>
+
+**[00:31:03](/episodes/ep-adJ4LNGp84I.md#ent-concept-zionism-t-00-30-42)**
+> "...t want China to own TikTok. And I'm worried about your data. No, you wanted to hand it over to your Zionist friends. It was all a mirage. It was all theater. Donald (Donald Trump) has sold us out to Israel o..."
+
+**[00:31:57](/episodes/ep-adJ4LNGp84I.md#ent-concept-zionism-t-00-31-25)**
+> "...y're gonna ban your speech. It's happening right now. The second that that CEO said she was a proud Zionist, or maybe she wasn't the CEO, but one of the executives there that they installed immediately after..."
+
+**[00:31:03](/episodes/ep-adJ4LNGp84I.md#ent-concept-zionism-t-00-30-42)**
+> "...anted to hand it over to your Zionist friends."
+
+**[00:31:57](/episodes/ep-adJ4LNGp84I.md#ent-concept-zionism-t-00-31-25)**
+> "...that CEO said she was a proud Zionist, or maybe she wasn't the CEO, but one of the exec..."
+
+**[00:31:57](/episodes/ep-adJ4LNGp84I.md#ent-concept-zionism-t-00-31-25)**
+> "...ly after said she was a proud Zionist and spent time in Israel,"
+
+</details>
+
+<details>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2 mentions)</summary>
+
+**[00:07:59](/episodes/ep-K5GjF53bfN4.md#ent-concept-zionism-t-00-07-21)**
+> "... a pro-Israel event, so I guess there's no Israel angle here, which does—of course, there's tons of Zionists in the Hamptons, Ackman among them—so I don't understand. You couldn't post that you were in the Ha..."
+
+**[00:07:59](/episodes/ep-K5GjF53bfN4.md#ent-concept-zionism-t-00-07-21)**
+> "...es—of course, there's tons of Zionists in the Hamptons, Ackman among them—so I don't und..."
+
+</details>
+
+<details>
 <summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (8 mentions)</summary>
 
 **[00:26:24](/episodes/ep-ja26iltROkM.md#ent-concept-zionism-t-00-26-14)**
@@ -880,96 +1062,25 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (6 mentions)</summary>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (6 mentions)</summary>
 
-**[00:00:37](/episodes/ep-mKXdKV-OBog.md#ent-concept-zionism-t-00-00-00)**
-> "...ly to where the Egyptian yellow plane landed on its way to Provo. We need to definitely keep at it. Zionists are mad. I don't know why this investigation really has set Zionists off. I think it's because we'r..."
+**[00:30:18](/episodes/ep-aDlhjfW6hz8.md#ent-concept-zionism-t-00-30-01)**
+> "...s pushing this. Right? The answer is implied by the people who are attacking me. They are all ultra-Zionists, right? Like I said, the author of that article is an ultra-Zionist. And here she is starting off 2..."
 
-**[00:00:38](/episodes/ep-mKXdKV-OBog.md#ent-concept-zionism-t-00-00-00)**
-> "...need to definitely keep at it. Zionists are mad. I don't know why this investigation really has set Zionists off. I think it's because we're getting closer, and Charlie (Charlie Kirk) would indeed want us to ..."
+**[00:36:23](/episodes/ep-aDlhjfW6hz8.md#ent-concept-zionism-t-00-36-12)**
+> "...ng when we have an occupied administration? There's no question Trump (Donald Trump) is occupied by Zionists. Okay, he's completely impotent. He's completely powerless. He cannot say anything that goes agains..."
 
-**[00:24:53](/episodes/ep-mKXdKV-OBog.md#ent-concept-zionism-t-00-24-49)**
-> "...day is the general public having to pretend like the United States is not completely infiltrated by Zionist psychopaths. And it's just getting odd, right? They're going through extraordinary lengths to let u..."
+**[00:30:24](/episodes/ep-aDlhjfW6hz8.md#ent-concept-zionism-t-00-30-01)**
+> "...tacking me. They are all ultra-Zionists, right? Like I said, the author of that article is an ultra-Zionist. And here she is starting off 2018 in D.C., and she's got a picture of herself—if you can scroll do..."
 
-**[00:00:37](/episodes/ep-mKXdKV-OBog.md#ent-concept-zionism-t-00-00-00)**
-> "Zionists are mad."
+**[00:30:18](/episodes/ep-aDlhjfW6hz8.md#ent-concept-zionism-t-00-30-01)**
+> "They are all ultra-Zionists, right?"
 
-**[00:00:38](/episodes/ep-mKXdKV-OBog.md#ent-concept-zionism-t-00-00-00)**
-> "... investigation really has set Zionists off."
+**[00:30:24](/episodes/ep-aDlhjfW6hz8.md#ent-concept-zionism-t-00-30-01)**
+> "...r of that article is an ultra-Zionist."
 
-**[00:24:53](/episodes/ep-mKXdKV-OBog.md#ent-concept-zionism-t-00-24-49)**
-> "...not completely infiltrated by Zionist psychopaths."
-
-</details>
-
-<details>
-<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (22 mentions)</summary>
-
-**[00:34:04](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-33-42)**
-> "...n years. It's very unsettling for me to hear things like you saying, "Our government is occupied by Zionists, Trump (Donald Trump) is occupied by Zionists, we're an occupied nation." Because like, there's lit..."
-
-**[00:35:32](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-35-25)**
-> "... is I stand by every statement that I made, and I want to double down on it. America is occupied by Zionists. I'd like to triple down on that if there's anybody going. I'd like to triple down on that. These t..."
-
-**[00:37:30](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-36-55)**
-> "...ople fearful to speak. If I want to say Jews, I will say Jews. I don't fear saying Jews. When I say Zionists run the media, I mean Zionists run the media. People that support the political ideology of Israel ..."
-
-**[00:38:44](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-38-17)**
-> "...lled a white supremacist, to say my opinion about this administration and how it's been occupied by Zionists and the cruelties that the Palestinian children are suffering at the hands of Benjamin Netanyahu, t..."
-
-**[00:35:09](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-34-42)**
-> "...ing white nationalist rhetoric? Immediately no. So what else could it be? Could it be that actually Zionism is what it actually represents? What does that mean? Zionism is a political philosophy. Zionist-occ..."
-
-**[00:35:14](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-34-42)**
-> "...could it be? Could it be that actually Zionism is what it actually represents? What does that mean? Zionism is a political philosophy. Zionist-occupied government. If you look into the history, yes, I believ..."
-
-**[00:11:35](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-11-35)**
-> "...least interesting part of this is the fact that he's lying through his teeth. That's implied he's a Zionist, but there's a lot more that's happening that meets the eye, because Ben Shapiro was effectively th..."
-
-**[00:34:07](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-33-42)**
-> "... Because like, there's literally a term that's like an '80s, '90s term from white nationalism, ZOG, Zionist Occupied Government. It's their idea that Jews control the world. And I'm wondering, like, are you ..."
-
-**[00:35:16](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-34-42)**
-> "...lly Zionism is what it actually represents? What does that mean? Zionism is a political philosophy. Zionist-occupied government. If you look into the history, yes, I believe we are a Zionist-occupied governm..."
-
-**[00:35:17](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-34-42)**
-> "...ical philosophy. Zionist-occupied government. If you look into the history, yes, I believe we are a Zionist-occupied government and we're not the only one. Yes, and I take it to the bank. If you need to walk..."
-
-**[00:11:35](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-11-35)**
-> "That's implied he's a Zionist, but there's a lot more that's happening that mee..."
-
-**[00:34:04](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-33-42)**
-> "...Our government is occupied by Zionists, Trump (Donald Trump) is occupied by Zionists, we..."
-
-**[00:34:04](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-33-42)**
-> "...(Donald Trump) is occupied by Zionists, we're an occupied nation.""
-
-**[00:34:07](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-33-42)**
-> "... from white nationalism, ZOG, Zionist Occupied Government."
-
-**[00:35:09](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-34-42)**
-> "Could it be that actually Zionism is what it actually represents?"
-
-**[00:35:14](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-34-42)**
-> "Zionism is a political philosophy."
-
-**[00:35:16](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-34-42)**
-> "Zionist-occupied government."
-
-**[00:35:17](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-34-42)**
-> "...tory, yes, I believe we are a Zionist-occupied government and we're not the only one."
-
-**[00:35:32](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-35-25)**
-> "America is occupied by Zionists."
-
-**[00:37:30](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-36-55)**
-> "When I say Zionists run the media, I mean Zionists run the media."
-
-**[00:37:30](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-36-55)**
-> "...ionists run the media, I mean Zionists run the media."
-
-**[00:38:44](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-38-17)**
-> "...and how it's been occupied by Zionists and the cruelties that the Palestinian children a..."
+**[00:36:23](/episodes/ep-aDlhjfW6hz8.md#ent-concept-zionism-t-00-36-12)**
+> "...(Donald Trump) is occupied by Zionists."
 
 </details>
 
@@ -1023,117 +1134,6 @@ _Type: Concepts_
 
 **[00:53:15](/episodes/ep-sreYYcID-QY.md#ent-concept-zionism-t-00-52-52)**
 > "...Donald Trump's (Donald Trump) Zionist administration,"
-
-</details>
-
-<details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (3 mentions)</summary>
-
-**[00:57:23](/episodes/ep-tB5SXXmd9vU.md#ent-concept-zionism-t-00-57-16)**
-> "...'t stop talking on the PBD podcast because his only mission in life is to defend Zionism, to defend Zionists and to attack people who don't like what Israel is doing, which is virtually everybody at this poin..."
-
-**[00:57:23](/episodes/ep-tB5SXXmd9vU.md#ent-concept-zionism-t-00-57-16)**
-> "... mission in life is to defend Zionism, to defend Zionists and to attack people who don'..."
-
-**[00:57:23](/episodes/ep-tB5SXXmd9vU.md#ent-concept-zionism-t-00-57-16)**
-> "... to defend Zionism, to defend Zionists and to attack people who don't like what Israel i..."
-
-</details>
-
-<details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (19 mentions)</summary>
-
-**[00:00:27](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-00-00)**
-> "...he haters stay mad. Haters stay big mad on the internet. On X today, it is just crazy town. I mean, Christian Zionist influencers are doing that thing where they attack me for telling the truth about something. It's s..."
-
-**[00:17:06](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-16-42)**
-> "... going to take the step and become Catholic." Gave no details. And the next thing I knew, Operation Christian Zionist Influencer was—while I was in a state of trauma and grieving—coming after me and saying that it was..."
-
-**[00:26:22](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-25-52)**
-> "...and that's what we're going to say about that. Take a brief break, and we're going to get into some Christian Zionist influencers. I've been speaking to you guys a lot about Riverbend Ranch because I love their steaks..."
-
-**[00:31:00](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-30-42)**
-> "...me. You saw that. It was definitively not organic. It was this weird need to assert his legacy as a Christian Zionist. By the way, I'm not including Allie in the downright nasty category whatsoever, but she was one of..."
-
-**[00:37:31](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-36-53)**
-> "...hen you get Lila Rose, who jumps in for no reason at all other than the fact that she's a committed Christian Zionist. And she says something that's so far off the mark. At least Allie's showing something relevant to ..."
-
-**[00:51:59](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-51-41)**
-> "...red Charlie Kirk (Charlie Kirk), Alex; it was because likely you guys were more concerned with your Christian Zionist donors and also pressure from your Jewish donors. And so you just lied to cover up the truth about ..."
-
-**[00:45:21](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-45-21)**
-> "... turn—and I see that Alyssa Cordova is working with you— I'm wondering if this is just kind of like Zionist nastiness. I think I've been extremely gracious to the different perspectives that we have if we ar..."
-
-**[00:00:27](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-00-00)**
-> "I mean, Christian Zionist influencers are doing that thing where they attac..."
-
-**[00:17:06](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-16-42)**
-> "... next thing I knew, Operation Christian Zionist Influencer was—while I was in a state of trauma a..."
-
-**[00:17:06](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-16-42)**
-> "...g I knew, Operation Christian Zionist Influencer was—while I was in a state of trauma a..."
-
-**[00:26:22](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-25-52)**
-> "... we're going to get into some Christian Zionist influencers."
-
-**[00:26:22](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-25-52)**
-> "...ng to get into some Christian Zionist influencers."
-
-**[00:31:00](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-30-42)**
-> "...eed to assert his legacy as a Christian Zionist."
-
-**[00:31:00](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-30-42)**
-> "...ert his legacy as a Christian Zionist."
-
-**[00:37:31](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-36-53)**
-> "...e fact that she's a committed Christian Zionist."
-
-**[00:37:31](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-36-53)**
-> "...t she's a committed Christian Zionist."
-
-**[00:45:21](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-45-21)**
-> "... if this is just kind of like Zionist nastiness. I think I've been extremely gracious t..."
-
-**[00:51:59](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-51-41)**
-> "...were more concerned with your Christian Zionist donors and also pressure from your Jewish donors."
-
-**[00:51:59](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-51-41)**
-> "...concerned with your Christian Zionist donors and also pressure from your Jewish donors."
-
-</details>
-
-<details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (10 mentions)</summary>
-
-**[00:36:52](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-36-27)**
-> "... Kirk) was betrayed. He continued to be betrayed every single day—including by these same Christian Zionists that he platformed throughout his entire career who apparently don't have a single question about a..."
-
-**[00:57:39](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-57-10)**
-> "...rites: "No more party loyalists next election." "Vote for the one not taking AIPAC money." "Get the Zionists out of our government." Yeah, I agree because they're evil, and they're involved in something that ..."
-
-**[00:28:25](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-27-59)**
-> "...What is behind this? Do you really think this is all just accidental—their obsession with Christian Zionism? Jack Hibbs among them? We mentioned him yesterday—his brother Butch Hibbs, who was just everywhere..."
-
-**[00:36:27](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-36-27)**
-> "...right now at pdsdebt.com/candace. Again, that's pdsdebt.com/candace. pdsdebt.com/candace. Christian Zionism is heretical. I don't know what they are protecting, but if you don't see that it has gone mask off..."
-
-**[00:28:25](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-27-59)**
-> "...heir obsession with Christian Zionism? Jack Hibbs among them?"
-
-**[00:36:27](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-36-27)**
-> "Christian Zionism is heretical."
-
-**[00:36:52](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-36-27)**
-> "...uding by these same Christian Zionists that he platformed throughout his entire career w..."
-
-**[00:36:52](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-36-27)**
-> "...e day—including by these same Christian Zionists that he platformed throughout his entire career w..."
-
-**[00:57:39](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-57-10)**
-> ""Get the Zionists out of our government.""
-
-**[00:28:25](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-27-59)**
-> "...cidental—their obsession with Christian Zionism? Jack Hibbs among them?"
 
 </details>
 

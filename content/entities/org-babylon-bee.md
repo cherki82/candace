@@ -13,13 +13,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (2 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
-**[00:47:18](/episodes/ep-2WEHTk0Xewg.md#ent-org-babylon-bee-t-00-46-47)**
-> "... there was a huge effort by people—some of whom I know and have helped and like— Seth Dillon of the Babylon Bee, for example. Someone who had his own problems with free speech—who was famously canceled. I like S..."
+**[00:45:40](/episodes/ep-yAIb-NuUh_U.md#ent-org-babylon-bee-t-00-45-19)**
+> "...lexis Wilkins. She's also a member of the Calvary Chapel Church in California—Chino Hills. Also the Babylon Bee guy—I can't think of his name right now—is also involved in the Calvary Chapel. We gotta look into ..."
 
-**[00:47:18](/episodes/ep-2WEHTk0Xewg.md#ent-org-babylon-bee-t-00-46-47)**
-> "Seth Dillon of the Babylon Bee, for example."
+**[00:45:40](/episodes/ep-yAIb-NuUh_U.md#ent-org-babylon-bee-t-00-45-19)**
+> "Also the Babylon Bee guy—I can't think of his name right now—is also i..."
 
 </details>
 
@@ -41,13 +41,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (2 mentions)</summary>
 
-**[00:45:40](/episodes/ep-yAIb-NuUh_U.md#ent-org-babylon-bee-t-00-45-19)**
-> "...lexis Wilkins. She's also a member of the Calvary Chapel Church in California—Chino Hills. Also the Babylon Bee guy—I can't think of his name right now—is also involved in the Calvary Chapel. We gotta look into ..."
+**[00:47:18](/episodes/ep-2WEHTk0Xewg.md#ent-org-babylon-bee-t-00-46-47)**
+> "... there was a huge effort by people—some of whom I know and have helped and like— Seth Dillon of the Babylon Bee, for example. Someone who had his own problems with free speech—who was famously canceled. I like S..."
 
-**[00:45:40](/episodes/ep-yAIb-NuUh_U.md#ent-org-babylon-bee-t-00-45-19)**
-> "Also the Babylon Bee guy—I can't think of his name right now—is also i..."
+**[00:47:18](/episodes/ep-2WEHTk0Xewg.md#ent-org-babylon-bee-t-00-46-47)**
+> "Seth Dillon of the Babylon Bee, for example."
 
 </details>
 

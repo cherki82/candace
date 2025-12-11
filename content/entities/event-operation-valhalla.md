@@ -24,6 +24,17 @@ _Type: Events_
 </details>
 
 <details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+
+**[00:16:49](/episodes/ep-tB5SXXmd9vU.md#ent-event-operation-valhalla-t-00-16-49)**
+> "...ota at Camp Ripley, and that ran just for a couple of days until August 27th, and that was known as Operation Valhalla, okay? Random three-day exercise with civilians. And I was wondering if the French Legionnaires tha..."
+
+**[00:16:49](/episodes/ep-tB5SXXmd9vU.md#ent-event-operation-valhalla-t-00-16-49)**
+> "...t 27th, and that was known as Operation Valhalla, okay?"
+
+</details>
+
+<details>
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (9 mentions)</summary>
 
 **[00:06:40](/episodes/ep-mKXdKV-OBog.md#ent-event-operation-valhalla-t-00-06-30)**
@@ -52,17 +63,6 @@ _Type: Events_
 
 **[00:09:06](/episodes/ep-mKXdKV-OBog.md#ent-event-operation-valhalla-t-00-08-31)**
 > "The training, called Operation Valhalla Strike, allowed the unit to complete requirements..."
-
-</details>
-
-<details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
-
-**[00:16:49](/episodes/ep-tB5SXXmd9vU.md#ent-event-operation-valhalla-t-00-16-49)**
-> "...ota at Camp Ripley, and that ran just for a couple of days until August 27th, and that was known as Operation Valhalla, okay? Random three-day exercise with civilians. And I was wondering if the French Legionnaires tha..."
-
-**[00:16:49](/episodes/ep-tB5SXXmd9vU.md#ent-event-operation-valhalla-t-00-16-49)**
-> "...t 27th, and that was known as Operation Valhalla, okay?"
 
 </details>
 

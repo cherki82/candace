@@ -31,14 +31,6 @@ _Type: People_
 </details>
 
 <details>
-<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (1 mentions)</summary>
-
-**[00:16:39](/episodes/ep-Qt0VHV-POCg.md#t-00-16-13)**
-> "...r of a judge of one of the corrupt trials against me to become the biggest fundraiser for Biden and Kamala, making millions of dollars for herself and her family." "But with her father, the judge, not only ..."
-
-</details>
-
-<details>
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
 
 **[00:26:58](/episodes/ep-his-JBjlkh8.md#t-00-26-34)**
@@ -54,6 +46,14 @@ _Type: People_
 
 **[00:05:55](/episodes/ep-vwG1juDCQZQ.md#t-00-05-43)**
 > "...very month. First it was, "Oh, it's because of the Brigitte Macron thing." "Oh, it's because of the Kamala Chronicles." "Oh, it's because of the Blake Lively lawsuit." The common denominator here is me look..."
+
+</details>
+
+<details>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (1 mentions)</summary>
+
+**[00:16:39](/episodes/ep-Qt0VHV-POCg.md#t-00-16-13)**
+> "...r of a judge of one of the corrupt trials against me to become the biggest fundraiser for Biden and Kamala, making millions of dollars for herself and her family." "But with her father, the judge, not only ..."
 
 </details>
 

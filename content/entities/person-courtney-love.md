@@ -76,21 +76,7 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Married To (1)</summary>
-
-- **[Kurt Cobain](/entities/person-kurt-cobain.md)**
-  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:17:18](/episodes/ep-7RLtGgkTh9o.md#t-00-16-49): "the murder of her husband, Kurt Cobain"
-
-</details>
-
-<details>
-<summary>Referenced By (1)</summary>
-
-- **[Kurt Cobain](/entities/person-kurt-cobain.md)** married to this
-  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:17:18](/episodes/ep-7RLtGgkTh9o.md#t-00-16-49)
-
-</details>
+_No relationships extracted yet._
 
 </details>
 

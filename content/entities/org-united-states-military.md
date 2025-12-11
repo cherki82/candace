@@ -25,17 +25,6 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
-
-**[00:51:29](/episodes/ep-LATnak75Si0.md#ent-org-united-states-military-t-00-50-59)**
-> "...dministration has been infiltrated, and there are extremely evil people that are at the helm of the United States military and that are... not caring at all about American lives in my viewpoint—not taking a stance whatsoev..."
-
-**[00:51:29](/episodes/ep-LATnak75Si0.md#ent-org-united-states-military-t-00-50-59)**
-> "...e that are at the helm of the United States military and that are..."
-
-</details>
-
-<details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
 
 **[00:24:34](/episodes/ep-a-e7HC6SeK8.md#ent-org-united-states-military-t-00-24-09)**
@@ -63,32 +52,23 @@ _Type: Organizations_
 
 </details>
 
+<details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
+
+**[00:51:29](/episodes/ep-LATnak75Si0.md#ent-org-united-states-military-t-00-50-59)**
+> "...dministration has been infiltrated, and there are extremely evil people that are at the helm of the United States military and that are... not caring at all about American lives in my viewpoint—not taking a stance whatsoev..."
+
+**[00:51:29](/episodes/ep-LATnak75Si0.md#ent-org-united-states-military-t-00-50-59)**
+> "...e that are at the helm of the United States military and that are..."
+
+</details>
+
 </details>
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Affiliated With (2)</summary>
-
-- **[Operation Bright Star](/entities/event-operation-bright-star.md)**
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:24:34](/episodes/ep-a-e7HC6SeK8.md#t-00-24-09): "[00:24:34] On the 29th, we have Operation Bright Star, which commences—that joint operation that we told you about, which is biennial between Egypt and the United States military and other countries that are coming together."
-
-- **[DuPont](/entities/org-dupont-family.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:30:00](/episodes/ep-tB5SXXmd9vU.md#t-00-29-47): ""DuPont also has extreme ties to both the American and the French military.""
-
-</details>
-
-<details>
-<summary>Referenced By (2)</summary>
-
-- **[Operation Bright Star](/entities/event-operation-bright-star.md)** affiliated with this
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:24:34](/episodes/ep-a-e7HC6SeK8.md#t-00-24-09)
-
-- **[DuPont](/entities/org-dupont-family.md)** affiliated with this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:30:00](/episodes/ep-tB5SXXmd9vU.md#t-00-29-47)
-
-</details>
+_No relationships extracted yet._
 
 </details>
 

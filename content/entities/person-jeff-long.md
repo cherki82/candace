@@ -13,6 +13,17 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
+
+**[00:36:51](/episodes/ep-sImMM04XdWY.md#ent-person-jeff-long-t-00-36-51)**
+> "...t's fundamentally dishonest. He should have said, "This text message happened between Dan Flood and Jeff Long," and here's what it was pertaining to—or he should have showed more, but he couldn't show more. An..."
+
+**[00:36:51](/episodes/ep-sImMM04XdWY.md#ent-person-jeff-long-t-00-36-51)**
+> "...appened between Dan Flood and Jeff Long," and here's what it was pertaining to—or he shou..."
+
+</details>
+
+<details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (7 mentions)</summary>
 
 **[00:24:59](/episodes/ep-581dILVcEE4.md#ent-person-jeff-long-t-00-24-53)**
@@ -35,17 +46,6 @@ _Type: People_
 
 **[00:27:47](/episodes/ep-581dILVcEE4.md#ent-person-jeff-long-t-00-27-47)**
 > "I'm not interested in Jeff Long's participation in this, but Brian Harpole kind of ..."
-
-</details>
-
-<details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
-
-**[00:36:51](/episodes/ep-sImMM04XdWY.md#ent-person-jeff-long-t-00-36-51)**
-> "...t's fundamentally dishonest. He should have said, "This text message happened between Dan Flood and Jeff Long," and here's what it was pertaining to—or he should have showed more, but he couldn't show more. An..."
-
-**[00:36:51](/episodes/ep-sImMM04XdWY.md#ent-person-jeff-long-t-00-36-51)**
-> "...appened between Dan Flood and Jeff Long," and here's what it was pertaining to—or he shou..."
 
 </details>
 
@@ -90,19 +90,19 @@ _Type: People_
 <summary><strong class="section-title">Statements about Jeff Long (3)</strong></summary>
 
 <details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1)</summary>
+
+- [00:34:39](/episodes/ep-sImMM04XdWY.md#t-00-33-57) (Claim) **Jeff Long** (via quoted speech): ["I got you covered"](/statements/statement-aa862991c6fe.md)
+
+</details>
+
+<details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2)</summary>
 
 - [00:32:48](/episodes/ep-581dILVcEE4.md#t-00-32-34) (Claim) **Brian Harpole** (via quoted speech): ["Brian Harpole emailed UVU Police Chief Jeff Long about rooftop securit..."](/statements/statement-b5072332fbfd.md)
   - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
 
 - [00:36:24](/episodes/ep-581dILVcEE4.md#t-00-36-17) (Claim) **Candace Owens**: ["Jeff Long, the UVU police chief, has a very extensive military career"](/statements/statement-f6997066a6ce.md)
-
-</details>
-
-<details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1)</summary>
-
-- [00:34:39](/episodes/ep-sImMM04XdWY.md#t-00-33-57) (Claim) **Jeff Long** (via quoted speech): ["I got you covered"](/statements/statement-aa862991c6fe.md)
 
 </details>
 

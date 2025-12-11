@@ -13,6 +13,17 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+
+**[00:03:55](/episodes/ep-tB5SXXmd9vU.md#ent-person-xavier-poussard-t-00-03-45)**
+> "...rk)'s assassin trained with the French Legion 13th Brigade with multi-state involvement. Journalist Xavier Poussard's life is also at risk. This is deadly serious. The head of state of France apparently wants us bot..."
+
+**[00:03:55](/episodes/ep-tB5SXXmd9vU.md#ent-person-xavier-poussard-t-00-03-45)**
+> "Journalist Xavier Poussard's life is also at risk."
+
+</details>
+
+<details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (18 mentions)</summary>
 
 **[00:08:00](/episodes/ep-sImMM04XdWY.md#ent-person-xavier-poussard-t-00-07-38)**
@@ -68,17 +79,6 @@ _Type: People_
 
 **[00:23:20](/episodes/ep-sImMM04XdWY.md#ent-person-xavier-poussard-t-00-23-08)**
 > "...ward me off sitting down with Xavier Poussard—then what we hadn't yet presented to the audience..."
-
-</details>
-
-<details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
-
-**[00:03:55](/episodes/ep-tB5SXXmd9vU.md#ent-person-xavier-poussard-t-00-03-45)**
-> "...rk)'s assassin trained with the French Legion 13th Brigade with multi-state involvement. Journalist Xavier Poussard's life is also at risk. This is deadly serious. The head of state of France apparently wants us bot..."
-
-**[00:03:55](/episodes/ep-tB5SXXmd9vU.md#ent-person-xavier-poussard-t-00-03-45)**
-> "Journalist Xavier Poussard's life is also at risk."
 
 </details>
 

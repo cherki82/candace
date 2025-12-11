@@ -24,17 +24,6 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
-
-**[00:14:11](/episodes/ep-iHav0PPzUz8.md#ent-org-snopes-t-00-13-36)**
-> "...f hours earlier than she said. Okay, you know me—that just makes me more curious. Anytime you see a Snopes-level debunking—as I like to term it—it means you're onto something. Anyways, I was going through t..."
-
-**[00:14:11](/episodes/ep-iHav0PPzUz8.md#ent-org-snopes-t-00-13-36)**
-> "Anytime you see a Snopes-level debunking—as I like to term it—it means you..."
-
-</details>
-
-<details>
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
 
 **[00:21:31](/episodes/ep-tB5SXXmd9vU.md#ent-org-snopes-t-00-21-14)**
@@ -42,6 +31,17 @@ _Type: Organizations_
 
 **[00:21:31](/episodes/ep-tB5SXXmd9vU.md#ent-org-snopes-t-00-21-14)**
 > "...all a non-debunking debunk, a Snopes-level debunking over a typo, okay?"
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
+
+**[00:14:11](/episodes/ep-iHav0PPzUz8.md#ent-org-snopes-t-00-13-36)**
+> "...f hours earlier than she said. Okay, you know me—that just makes me more curious. Anytime you see a Snopes-level debunking—as I like to term it—it means you're onto something. Anyways, I was going through t..."
+
+**[00:14:11](/episodes/ep-iHav0PPzUz8.md#ent-org-snopes-t-00-13-36)**
+> "Anytime you see a Snopes-level debunking—as I like to term it—it means you..."
 
 </details>
 

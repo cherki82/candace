@@ -18,6 +18,54 @@ _Type: Dates_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (4 mentions)</summary>
+
+**[00:16:27](/episodes/ep-a-e7HC6SeK8.md#ent-date-july-11th-t-00-16-11)**
+> "...e inflection point, which was that Tucker (Tucker Carlson) speech. Now, I want to say this. On that July 11th when Tucker (Tucker Carlson) gave that speech, I did—and I hope I'm not betraying anything too priv..."
+
+**[00:17:14](/episodes/ep-a-e7HC6SeK8.md#ent-date-july-11th-t-00-16-56)**
+> "...art of—there was something spiritual that moved him to say that. I will say that. Anyway, so that's July 11. Tucker (Tucker Carlson) speaks at Turning Point USA's conference, and the donors freak out. He cal..."
+
+**[00:16:27](/episodes/ep-a-e7HC6SeK8.md#ent-date-july-11th-t-00-16-11)**
+> "..., I want to say this. On that July 11th when Tucker (Tucker Carlson) gave that speech,"
+
+**[00:17:14](/episodes/ep-a-e7HC6SeK8.md#ent-date-july-11th-t-00-16-56)**
+> "Anyway, so that's July 11."
+
+</details>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
+
+**[00:13:19](/episodes/ep-mKXdKV-OBog.md#ent-date-july-11th-t-00-12-57)**
+> "...ion: I think yesterday I said that Tucker (Tucker Carlson) spoke on July 18th; he actually spoke on July 11th. I just kind of copy-and-pasted that wrong, so we made that correction. Anyways, yeah, we can then ..."
+
+**[00:13:19](/episodes/ep-mKXdKV-OBog.md#ent-date-july-11th-t-00-12-57)**
+> "...ly 18th; he actually spoke on July 11th. I just kind of copy-and-pasted"
+
+**[00:13:19](/episodes/ep-mKXdKV-OBog.md#ent-date-july-11th-t-00-12-57)**
+> "...ker (Tucker Carlson) spoke on July 18th; he actually spoke on July 11th. I just kind of c..."
+
+</details>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (4 mentions)</summary>
+
+**[00:13:20](/episodes/ep-sImMM04XdWY.md#ent-date-july-11th-t-00-13-11)**
+> "...aine because I'm not keeping my mouth shut. Now, on July 1st, Macron sends another legal threat. On July 18th, this is where things get really interesting. Charlie (Charlie Kirk) Kirk hosts Tucker (Tucker Carl..."
+
+**[00:16:24](/episodes/ep-sImMM04XdWY.md#ent-date-july-11th-t-00-16-08)**
+> "...nyways, back to our timeline, right? Tucker (Tucker Carlson) Carlson says that, and we then have on July 18th that the request from Turning Point's UVU chapter—which we've not been able to independently verify..."
+
+**[00:13:20](/episodes/ep-sImMM04XdWY.md#ent-date-july-11th-t-00-13-11)**
+> "On July 18th, this is where things get really interesting. Cha..."
+
+**[00:16:24](/episodes/ep-sImMM04XdWY.md#ent-date-july-11th-t-00-16-08)**
+> "...ays that, and we then have on July 18th that the request from Turning Point's UVU chapter..."
+
+</details>
+
+<details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (3 mentions)</summary>
 
 **[00:19:08](/episodes/ep-MUA9ebCF4Ow.md#ent-date-july-11th-t-00-18-54)**
@@ -74,54 +122,6 @@ _Type: Dates_
 
 **[00:35:12](/episodes/ep-YFmRH8p5lt0.md#ent-date-july-11th-t-00-34-46)**
 > "That happens July 11th, and now our plane is coming back from Egypt."
-
-</details>
-
-<details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (4 mentions)</summary>
-
-**[00:16:27](/episodes/ep-a-e7HC6SeK8.md#ent-date-july-11th-t-00-16-11)**
-> "...e inflection point, which was that Tucker (Tucker Carlson) speech. Now, I want to say this. On that July 11th when Tucker (Tucker Carlson) gave that speech, I did—and I hope I'm not betraying anything too priv..."
-
-**[00:17:14](/episodes/ep-a-e7HC6SeK8.md#ent-date-july-11th-t-00-16-56)**
-> "...art of—there was something spiritual that moved him to say that. I will say that. Anyway, so that's July 11. Tucker (Tucker Carlson) speaks at Turning Point USA's conference, and the donors freak out. He cal..."
-
-**[00:16:27](/episodes/ep-a-e7HC6SeK8.md#ent-date-july-11th-t-00-16-11)**
-> "..., I want to say this. On that July 11th when Tucker (Tucker Carlson) gave that speech,"
-
-**[00:17:14](/episodes/ep-a-e7HC6SeK8.md#ent-date-july-11th-t-00-16-56)**
-> "Anyway, so that's July 11."
-
-</details>
-
-<details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
-
-**[00:13:19](/episodes/ep-mKXdKV-OBog.md#ent-date-july-11th-t-00-12-57)**
-> "...ion: I think yesterday I said that Tucker (Tucker Carlson) spoke on July 18th; he actually spoke on July 11th. I just kind of copy-and-pasted that wrong, so we made that correction. Anyways, yeah, we can then ..."
-
-**[00:13:19](/episodes/ep-mKXdKV-OBog.md#ent-date-july-11th-t-00-12-57)**
-> "...ly 18th; he actually spoke on July 11th. I just kind of copy-and-pasted"
-
-**[00:13:19](/episodes/ep-mKXdKV-OBog.md#ent-date-july-11th-t-00-12-57)**
-> "...ker (Tucker Carlson) spoke on July 18th; he actually spoke on July 11th. I just kind of c..."
-
-</details>
-
-<details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (4 mentions)</summary>
-
-**[00:13:20](/episodes/ep-sImMM04XdWY.md#ent-date-july-11th-t-00-13-11)**
-> "...aine because I'm not keeping my mouth shut. Now, on July 1st, Macron sends another legal threat. On July 18th, this is where things get really interesting. Charlie (Charlie Kirk) Kirk hosts Tucker (Tucker Carl..."
-
-**[00:16:24](/episodes/ep-sImMM04XdWY.md#ent-date-july-11th-t-00-16-08)**
-> "...nyways, back to our timeline, right? Tucker (Tucker Carlson) Carlson says that, and we then have on July 18th that the request from Turning Point's UVU chapter—which we've not been able to independently verify..."
-
-**[00:13:20](/episodes/ep-sImMM04XdWY.md#ent-date-july-11th-t-00-13-11)**
-> "On July 18th, this is where things get really interesting. Cha..."
-
-**[00:16:24](/episodes/ep-sImMM04XdWY.md#ent-date-july-11th-t-00-16-08)**
-> "...ays that, and we then have on July 18th that the request from Turning Point's UVU chapter..."
 
 </details>
 

@@ -13,17 +13,6 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
-
-**[00:15:43](/episodes/ep-SKGUzGHymcI.md#ent-gpe-500-delaware-avenue-t-00-15-37)**
-> "... Street with the label Federal Bureau of Investigation. Instead of the public FBI address that's at 500 Delaware Avenue, Suite 300, which is just a bank tower, you can confirm that 500 Delaware Ave is the borough's publ..."
-
-**[00:15:43](/episodes/ep-SKGUzGHymcI.md#ent-gpe-500-delaware-avenue-t-00-15-37)**
-> "... public FBI address that's at 500 Delaware Avenue, Suite 300, which is just a bank tower, you can c..."
-
-</details>
-
-<details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
 
 **[00:11:53](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-500-delaware-avenue-t-00-11-53)**
@@ -51,6 +40,17 @@ _Type: Places_
 
 **[00:32:22](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-500-delaware-avenue-t-00-31-48)**
 > "...at a law firm, MG+M, moved to 500 Delaware Avenue just a few months before Charlie (Charlie Kirk) w..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
+
+**[00:15:43](/episodes/ep-SKGUzGHymcI.md#ent-gpe-500-delaware-avenue-t-00-15-37)**
+> "... Street with the label Federal Bureau of Investigation. Instead of the public FBI address that's at 500 Delaware Avenue, Suite 300, which is just a bank tower, you can confirm that 500 Delaware Ave is the borough's publ..."
+
+**[00:15:43](/episodes/ep-SKGUzGHymcI.md#ent-gpe-500-delaware-avenue-t-00-15-37)**
+> "... public FBI address that's at 500 Delaware Avenue, Suite 300, which is just a bank tower, you can c..."
 
 </details>
 

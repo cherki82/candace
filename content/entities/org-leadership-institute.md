@@ -29,14 +29,6 @@ _Type: Organizations_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Affiliated With (1)</summary>
-
-- **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:13:24](/episodes/ep-pc3pxRyNFZk.md#t-00-13-12): "we work hand-in-hand with all the different conservative coalition groups on college campuses: the Young Americans for Liberty, the Students for Life, and the Turning Point USAs."
-
-</details>
-
-<details>
 <summary>Employs (1)</summary>
 
 - **[Cooper Brown](/entities/person-cooper-brown.md)**
@@ -45,10 +37,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
-
-- **[Turning Point USA](/entities/org-turning-point-usa.md)** affiliated with this
-  - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:13:24](/episodes/ep-pc3pxRyNFZk.md#t-00-13-12)
+<summary>Referenced By (1)</summary>
 
 - **[Cooper Brown](/entities/person-cooper-brown.md)** works for this
   - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:13:20](/episodes/ep-pc3pxRyNFZk.md#t-00-13-12)

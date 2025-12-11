@@ -13,13 +13,27 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (3 mentions)</summary>
 
-**[00:07:50](/episodes/ep-2Riv3I7D0Yk.md#ent-person-sam-parker-t-00-07-35)**
-> "...ember. Yashar Ali wrote this: "Last night, Candace (Candace Owens) quote-tweeted notorious neo-Nazi Sam Parker, who pointed out that Josh Hammer, who is Jewish and was a friend of Charlie (Charlie Kirk)'s, elev..."
+**[00:24:53](/episodes/ep-vwG1juDCQZQ.md#ent-person-sam-parker-t-00-24-22)**
+> "...ything beyond the fact that he looked kind of shady in a green hoodie. And I think it was yesterday Sam Parker was like, "Who are these guys?" And: "I can't get a clear image of this person." I then respond to ..."
 
-**[00:07:50](/episodes/ep-2Riv3I7D0Yk.md#ent-person-sam-parker-t-00-07-35)**
-> "...te-tweeted notorious neo-Nazi Sam Parker, who pointed out that Josh Hammer, who is Jewish ..."
+**[00:24:53](/episodes/ep-vwG1juDCQZQ.md#ent-person-sam-parker-t-00-24-22)**
+> "And I think it was yesterday Sam Parker was like, "Who are these guys?""
+
+**[00:24:53](/episodes/ep-vwG1juDCQZQ.md#ent-person-sam-parker-t-00-24-22)**
+> "And I think it was yesterday Sam Parker was like, Who are these guys?"
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2 mentions)</summary>
+
+**[00:17:12](/episodes/ep-Qfwr08Ebczo.md#ent-person-sam-parker-t-00-16-56)**
+> "...omes from. July 18th is our next date on our timeline. And this came from—this is a great find from Sam Parker— that is when Turning Point USA receives a request from UVU for Charlie (Charlie Kirk) to hold an e..."
+
+**[00:17:12](/episodes/ep-Qfwr08Ebczo.md#ent-person-sam-parker-t-00-16-56)**
+> "...rom—this is a great find from Sam Parker—"
 
 </details>
 
@@ -38,17 +52,6 @@ _Type: People_
 </details>
 
 <details>
-<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2 mentions)</summary>
-
-**[00:17:12](/episodes/ep-Qfwr08Ebczo.md#ent-person-sam-parker-t-00-16-56)**
-> "...omes from. July 18th is our next date on our timeline. And this came from—this is a great find from Sam Parker— that is when Turning Point USA receives a request from UVU for Charlie (Charlie Kirk) to hold an e..."
-
-**[00:17:12](/episodes/ep-Qfwr08Ebczo.md#ent-person-sam-parker-t-00-16-56)**
-> "...rom—this is a great find from Sam Parker—"
-
-</details>
-
-<details>
 <summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (2 mentions)</summary>
 
 **[00:07:57](/episodes/ep-c5BcKF91iec.md#ent-person-sam-parker-t-00-07-38)**
@@ -60,16 +63,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (3 mentions)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
 
-**[00:24:53](/episodes/ep-vwG1juDCQZQ.md#ent-person-sam-parker-t-00-24-22)**
-> "...ything beyond the fact that he looked kind of shady in a green hoodie. And I think it was yesterday Sam Parker was like, "Who are these guys?" And: "I can't get a clear image of this person." I then respond to ..."
+**[00:07:50](/episodes/ep-2Riv3I7D0Yk.md#ent-person-sam-parker-t-00-07-35)**
+> "...ember. Yashar Ali wrote this: "Last night, Candace (Candace Owens) quote-tweeted notorious neo-Nazi Sam Parker, who pointed out that Josh Hammer, who is Jewish and was a friend of Charlie (Charlie Kirk)'s, elev..."
 
-**[00:24:53](/episodes/ep-vwG1juDCQZQ.md#ent-person-sam-parker-t-00-24-22)**
-> "And I think it was yesterday Sam Parker was like, "Who are these guys?""
-
-**[00:24:53](/episodes/ep-vwG1juDCQZQ.md#ent-person-sam-parker-t-00-24-22)**
-> "And I think it was yesterday Sam Parker was like, Who are these guys?"
+**[00:07:50](/episodes/ep-2Riv3I7D0Yk.md#ent-person-sam-parker-t-00-07-35)**
+> "...te-tweeted notorious neo-Nazi Sam Parker, who pointed out that Josh Hammer, who is Jewish ..."
 
 </details>
 

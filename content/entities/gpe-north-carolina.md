@@ -13,17 +13,6 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
-
-**[00:07:35](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-north-carolina-t-00-07-35)**
-> "...h was referring to the criminal who horrifically murdered the Ukrainian refugee, Irina Zarutska, in North Carolina. That was obviously a big story in the beginning of September. Yashar Ali wrote this: "Last night, ..."
-
-**[00:07:35](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-north-carolina-t-00-07-35)**
-> "...n refugee, Irina Zarutska, in North Carolina."
-
-</details>
-
-<details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
 
 **[00:04:23](/episodes/ep-LATnak75Si0.md#ent-gpe-north-carolina-t-00-04-23)**
@@ -31,6 +20,17 @@ _Type: Places_
 
 **[00:04:23](/episodes/ep-LATnak75Si0.md#ent-gpe-north-carolina-t-00-04-23)**
 > "University of North Carolina, Chapel Hill—which I think we ended up doing—Univ..."
+
+</details>
+
+<details>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
+
+**[00:07:35](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-north-carolina-t-00-07-35)**
+> "...h was referring to the criminal who horrifically murdered the Ukrainian refugee, Irina Zarutska, in North Carolina. That was obviously a big story in the beginning of September. Yashar Ali wrote this: "Last night, ..."
+
+**[00:07:35](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-north-carolina-t-00-07-35)**
+> "...n refugee, Irina Zarutska, in North Carolina."
 
 </details>
 

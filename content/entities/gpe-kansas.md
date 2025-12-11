@@ -13,17 +13,6 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (2 mentions)</summary>
-
-**[00:17:22](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-kansas-t-00-16-57)**
-> "...his plane where Charlie (Charlie Kirk) is?" The flights were majority clustered within five states: Kansas, Missouri, Nebraska, Delaware, and Utah. And it's a pattern that she believes is statistically not ..."
-
-**[00:17:22](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-kansas-t-00-16-57)**
-> "...clustered within five states: Kansas, Missouri, Nebraska, Delaware, and Utah."
-
-</details>
-
-<details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
 
 **[00:19:26](/episodes/ep-SKGUzGHymcI.md#ent-gpe-kansas-t-00-19-26)**
@@ -31,6 +20,17 @@ _Type: Places_
 
 **[00:19:26](/episodes/ep-SKGUzGHymcI.md#ent-gpe-kansas-t-00-19-26)**
 > "...om Cairo to Paris to Wichita, Kansas, to Wilmington, Delaware, back to Cairo."
+
+</details>
+
+<details>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (2 mentions)</summary>
+
+**[00:17:22](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-kansas-t-00-16-57)**
+> "...his plane where Charlie (Charlie Kirk) is?" The flights were majority clustered within five states: Kansas, Missouri, Nebraska, Delaware, and Utah. And it's a pattern that she believes is statistically not ..."
+
+**[00:17:22](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-kansas-t-00-16-57)**
+> "...clustered within five states: Kansas, Missouri, Nebraska, Delaware, and Utah."
 
 </details>
 

@@ -17,6 +17,14 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (1 mentions)</summary>
+
+**[00:01:51](/episodes/ep-pc3pxRyNFZk.md#t-00-01-27)**
+> "...ing our time to this, because what we are being told by the authorities beggars belief, as John and Irina Maplin said. It just simply beggars belief. We also want to make sure that we are presenting eviden..."
+
+</details>
+
+<details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (18 mentions)</summary>
 
 **[00:07:35](/episodes/ep-2Riv3I7D0Yk.md#ent-person-irina-zarutska-t-00-07-35)**
@@ -125,14 +133,6 @@ _Type: People_
 
 **[01:03:27](/episodes/ep-5autG89PW6w.md#ent-person-irina-zarutska-t-01-03-16)**
 > "... you can be angry at John and Irina for writing that."
-
-</details>
-
-<details>
-<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (1 mentions)</summary>
-
-**[00:01:51](/episodes/ep-pc3pxRyNFZk.md#t-00-01-27)**
-> "...ing our time to this, because what we are being told by the authorities beggars belief, as John and Irina Maplin said. It just simply beggars belief. We also want to make sure that we are presenting eviden..."
 
 </details>
 

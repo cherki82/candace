@@ -17,27 +17,33 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (3 mentions)</summary>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
 
-**[00:55:20](/episodes/ep-2Riv3I7D0Yk.md#ent-person-dave-smith-t-00-55-04)**
-> "... But the point is, is that this is a real dead man's switch. She has sent out to the Tate brothers, Dave Smith, Max Blumenthal, Tucker (Tucker Carlson), and others. Well, I'm trying to get her on for weeks. I'm..."
+**[00:40:02](/episodes/ep-his-JBjlkh8.md#ent-person-dave-smith-t-00-40-02)**
+> "...harlie Kirk) a charlatan, a political opportunist—that he wasn't pro-Trump—simply because he hosted Dave Smith, who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer, who's a radical Zionist like ..."
 
-**[00:55:20](/episodes/ep-2Riv3I7D0Yk.md#ent-person-dave-smith-t-00-55-04)**
-> "...ent out to the Tate brothers, Dave Smith, Max Blumenthal, Tucker (Tucker Carlson), and oth..."
-
-**[00:59:21](/episodes/ep-2Riv3I7D0Yk.md#ent-person-dave-smith-t-00-55-04)**
-> "Like, I grew up around the Dave Smiths of the world, right?"
+**[00:40:02](/episodes/ep-his-JBjlkh8.md#ent-person-dave-smith-t-00-40-02)**
+> "...rump—simply because he hosted Dave Smith,"
 
 </details>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (2 mentions)</summary>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (5 mentions)</summary>
 
-**[00:37:15](/episodes/ep-2WEHTk0Xewg.md#ent-person-dave-smith-t-00-36-35)**
-> "...r Carlson) completely destroyed the Benjamin Netanyahu (Benjamin Netanyahu) narrative. Megyn Kelly, Dave Smith—I mean everybody yesterday. The truth is coming out inevitably about Charlie (Charlie Kirk)'s minds..."
+**[01:04:11](/episodes/ep-vwG1juDCQZQ.md#ent-person-dave-smith-t-01-04-11)**
+> "... we shouldn't be lied to by are lying to us. Juan Antonio writes: "Candace, you should team up with Dave Smith, Ian Carroll, and Jimmy Dore. Form a coalition: share editors, push promotion, and spark Occupy Wal..."
 
-**[00:37:15](/episodes/ep-2WEHTk0Xewg.md#ent-person-dave-smith-t-00-36-35)**
-> "Megyn Kelly, Dave Smith—I mean everybody yesterday."
+**[01:04:40](/episodes/ep-vwG1juDCQZQ.md#ent-person-dave-smith-t-01-04-11)**
+> "...haven't done that with Jimmy Dore, but anything these other people— Ian Carroll: we text regularly. Dave Smith: we text regularly when we're sharing information or asking each other questions or asking for guid..."
+
+**[01:04:11](/episodes/ep-vwG1juDCQZQ.md#ent-person-dave-smith-t-01-04-11)**
+> "...dace, you should team up with Dave Smith, Ian Carroll, and Jimmy Dore."
+
+**[01:04:40](/episodes/ep-vwG1juDCQZQ.md#ent-person-dave-smith-t-01-04-11)**
+> "Dave Smith: we text regularly"
+
+**[01:04:11](/episodes/ep-vwG1juDCQZQ.md#ent-person-dave-smith-t-01-04-11)**
+> "you should team up with Dave Smith, Ian Carroll, and Jimmy Dore"
 
 </details>
 
@@ -66,6 +72,97 @@ _Type: People_
 
 **[00:31:56](/episodes/ep-YFmRH8p5lt0.md#ent-person-dave-smith-t-00-31-52)**
 > "Dave Smith is speaking."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (10 mentions)</summary>
+
+**[00:35:05](/episodes/ep-iHav0PPzUz8.md#ent-person-dave-smith-t-00-34-51)**
+> "...on a time that he was like a funny guy just telling jokes—went onto Piers Morgan and decided to put Dave Smith—who I love—through a struggle session, explaining why. And yes, this is the same Seth Dillon at tha..."
+
+**[00:35:46](/episodes/ep-iHav0PPzUz8.md#ent-person-dave-smith-t-00-35-27)**
+> "...ck on questioning Charlie (Charlie Kirk) on his changing views. Anyways, he has the audacity to put Dave Smith through a struggle session discussing this interview. Let's watch a clip of it. "I think that it wo..."
+
+**[01:01:48](/episodes/ep-iHav0PPzUz8.md#ent-person-dave-smith-t-01-01-25)**
+> "...nd he's giving people the courage—more people the courage—to tell the truth, right? They don't want Dave Smith platformed at Turning Point USA. Josh Hammer was angry after he got destroyed by Dave Smith on Turn..."
+
+**[01:01:56](/episodes/ep-iHav0PPzUz8.md#ent-person-dave-smith-t-01-01-25)**
+> "...'t want Dave Smith platformed at Turning Point USA. Josh Hammer was angry after he got destroyed by Dave Smith on Turning Point USA stage. So he privately started the struggle session because he knew that when ..."
+
+**[01:01:58](/episodes/ep-iHav0PPzUz8.md#ent-person-dave-smith-t-01-01-25)**
+> "...hat when they were on stage—these students that were there—were impacted, and they wanted to follow Dave Smith. People know truth when they hear it, and they know lies when they see it. And in Josh Hammer's cas..."
+
+**[00:35:05](/episodes/ep-iHav0PPzUz8.md#ent-person-dave-smith-t-00-34-51)**
+> "...ers Morgan and decided to put Dave Smith—who I love—through a struggle session, explaining..."
+
+**[00:35:46](/episodes/ep-iHav0PPzUz8.md#ent-person-dave-smith-t-00-35-27)**
+> "...s, he has the audacity to put Dave Smith through a struggle session discussing this interv..."
+
+**[01:01:48](/episodes/ep-iHav0PPzUz8.md#ent-person-dave-smith-t-01-01-25)**
+> "They don't want Dave Smith platformed at Turning Point USA."
+
+**[01:01:56](/episodes/ep-iHav0PPzUz8.md#ent-person-dave-smith-t-01-01-25)**
+> "after he got destroyed by Dave Smith on Turning Point USA stage."
+
+**[01:01:58](/episodes/ep-iHav0PPzUz8.md#ent-person-dave-smith-t-01-01-25)**
+> "...ed, and they wanted to follow Dave Smith."
+
+</details>
+
+<details>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (3 mentions)</summary>
+
+**[00:55:20](/episodes/ep-2Riv3I7D0Yk.md#ent-person-dave-smith-t-00-55-04)**
+> "... But the point is, is that this is a real dead man's switch. She has sent out to the Tate brothers, Dave Smith, Max Blumenthal, Tucker (Tucker Carlson), and others. Well, I'm trying to get her on for weeks. I'm..."
+
+**[00:55:20](/episodes/ep-2Riv3I7D0Yk.md#ent-person-dave-smith-t-00-55-04)**
+> "...ent out to the Tate brothers, Dave Smith, Max Blumenthal, Tucker (Tucker Carlson), and oth..."
+
+**[00:59:21](/episodes/ep-2Riv3I7D0Yk.md#ent-person-dave-smith-t-00-55-04)**
+> "Like, I grew up around the Dave Smiths of the world, right?"
+
+</details>
+
+<details>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (2 mentions)</summary>
+
+**[00:32:07](/episodes/ep-sreYYcID-QY.md#ent-person-dave-smith-t-00-31-58)**
+> "...(Bibi) murdered Charlie Kirk. Tucker (Tucker Carlson) never said that. Megyn Kelly never said that. Dave Smith never said that. Instead what we are doing is we are disputing Benjamin Netanyahu's (Bibi) narrativ..."
+
+**[00:32:07](/episodes/ep-sreYYcID-QY.md#ent-person-dave-smith-t-00-31-58)**
+> "Dave Smith never said that."
+
+</details>
+
+<details>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (2 mentions)</summary>
+
+**[00:37:15](/episodes/ep-2WEHTk0Xewg.md#ent-person-dave-smith-t-00-36-35)**
+> "...r Carlson) completely destroyed the Benjamin Netanyahu (Benjamin Netanyahu) narrative. Megyn Kelly, Dave Smith—I mean everybody yesterday. The truth is coming out inevitably about Charlie (Charlie Kirk)'s minds..."
+
+**[00:37:15](/episodes/ep-2WEHTk0Xewg.md#ent-person-dave-smith-t-00-36-35)**
+> "Megyn Kelly, Dave Smith—I mean everybody yesterday."
+
+</details>
+
+<details>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (5 mentions)</summary>
+
+**[00:40:36](/episodes/ep-q7f8r-THr84.md#ent-person-dave-smith-t-00-40-20)**
+> "...Israel, over who he was hosting, over—from his podcast to people that were on stage at America Fest—Dave Smith, Tucker (Tucker Carlson). That is reality, my friends. Again, want those people to know your money ..."
+
+**[00:43:14](/episodes/ep-q7f8r-THr84.md#ent-person-dave-smith-t-00-43-05)**
+> "...e greatest supporter and I never cared about who he had, even though I got destroyed in a debate by Dave Smith on his stage, I was cool with that. I was, I love free speech. It's amazing. Okay. I am offering yo..."
+
+**[00:40:54](/episodes/ep-q7f8r-THr84.md#ent-person-dave-smith-t-00-40-20)**
+> "from his podcast to people that were on stage at America Fest—Dave Smith, Tucker"
+
+**[00:40:36](/episodes/ep-q7f8r-THr84.md#ent-person-dave-smith-t-00-40-20)**
+> "...were on stage at America Fest—Dave Smith, Tucker (Tucker Carlson)."
+
+**[00:43:14](/episodes/ep-q7f8r-THr84.md#ent-person-dave-smith-t-00-43-05)**
+> "... got destroyed in a debate by Dave Smith on his stage, I was cool with that."
 
 </details>
 
@@ -110,103 +207,6 @@ _Type: People_
 
 **[01:01:27](/episodes/ep-czVBmqZP6Ss.md#ent-person-dave-smith-t-01-00-47)**
 > "I mean, Dave Smith has a very good tweet about that."
-
-</details>
-
-<details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
-
-**[00:40:02](/episodes/ep-his-JBjlkh8.md#ent-person-dave-smith-t-00-40-02)**
-> "...harlie Kirk) a charlatan, a political opportunist—that he wasn't pro-Trump—simply because he hosted Dave Smith, who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer, who's a radical Zionist like ..."
-
-**[00:40:02](/episodes/ep-his-JBjlkh8.md#ent-person-dave-smith-t-00-40-02)**
-> "...rump—simply because he hosted Dave Smith,"
-
-</details>
-
-<details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (10 mentions)</summary>
-
-**[00:35:05](/episodes/ep-iHav0PPzUz8.md#ent-person-dave-smith-t-00-34-51)**
-> "...on a time that he was like a funny guy just telling jokes—went onto Piers Morgan and decided to put Dave Smith—who I love—through a struggle session, explaining why. And yes, this is the same Seth Dillon at tha..."
-
-**[00:35:46](/episodes/ep-iHav0PPzUz8.md#ent-person-dave-smith-t-00-35-27)**
-> "...ck on questioning Charlie (Charlie Kirk) on his changing views. Anyways, he has the audacity to put Dave Smith through a struggle session discussing this interview. Let's watch a clip of it. "I think that it wo..."
-
-**[01:01:48](/episodes/ep-iHav0PPzUz8.md#ent-person-dave-smith-t-01-01-25)**
-> "...nd he's giving people the courage—more people the courage—to tell the truth, right? They don't want Dave Smith platformed at Turning Point USA. Josh Hammer was angry after he got destroyed by Dave Smith on Turn..."
-
-**[01:01:56](/episodes/ep-iHav0PPzUz8.md#ent-person-dave-smith-t-01-01-25)**
-> "...'t want Dave Smith platformed at Turning Point USA. Josh Hammer was angry after he got destroyed by Dave Smith on Turning Point USA stage. So he privately started the struggle session because he knew that when ..."
-
-**[01:01:58](/episodes/ep-iHav0PPzUz8.md#ent-person-dave-smith-t-01-01-25)**
-> "...hat when they were on stage—these students that were there—were impacted, and they wanted to follow Dave Smith. People know truth when they hear it, and they know lies when they see it. And in Josh Hammer's cas..."
-
-**[00:35:05](/episodes/ep-iHav0PPzUz8.md#ent-person-dave-smith-t-00-34-51)**
-> "...ers Morgan and decided to put Dave Smith—who I love—through a struggle session, explaining..."
-
-**[00:35:46](/episodes/ep-iHav0PPzUz8.md#ent-person-dave-smith-t-00-35-27)**
-> "...s, he has the audacity to put Dave Smith through a struggle session discussing this interv..."
-
-**[01:01:48](/episodes/ep-iHav0PPzUz8.md#ent-person-dave-smith-t-01-01-25)**
-> "They don't want Dave Smith platformed at Turning Point USA."
-
-**[01:01:56](/episodes/ep-iHav0PPzUz8.md#ent-person-dave-smith-t-01-01-25)**
-> "after he got destroyed by Dave Smith on Turning Point USA stage."
-
-**[01:01:58](/episodes/ep-iHav0PPzUz8.md#ent-person-dave-smith-t-01-01-25)**
-> "...ed, and they wanted to follow Dave Smith."
-
-</details>
-
-<details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (5 mentions)</summary>
-
-**[00:40:36](/episodes/ep-q7f8r-THr84.md#ent-person-dave-smith-t-00-40-20)**
-> "...Israel, over who he was hosting, over—from his podcast to people that were on stage at America Fest—Dave Smith, Tucker (Tucker Carlson). That is reality, my friends. Again, want those people to know your money ..."
-
-**[00:43:14](/episodes/ep-q7f8r-THr84.md#ent-person-dave-smith-t-00-43-05)**
-> "...e greatest supporter and I never cared about who he had, even though I got destroyed in a debate by Dave Smith on his stage, I was cool with that. I was, I love free speech. It's amazing. Okay. I am offering yo..."
-
-**[00:40:54](/episodes/ep-q7f8r-THr84.md#ent-person-dave-smith-t-00-40-20)**
-> "from his podcast to people that were on stage at America Fest—Dave Smith, Tucker"
-
-**[00:40:36](/episodes/ep-q7f8r-THr84.md#ent-person-dave-smith-t-00-40-20)**
-> "...were on stage at America Fest—Dave Smith, Tucker (Tucker Carlson)."
-
-**[00:43:14](/episodes/ep-q7f8r-THr84.md#ent-person-dave-smith-t-00-43-05)**
-> "... got destroyed in a debate by Dave Smith on his stage, I was cool with that."
-
-</details>
-
-<details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (2 mentions)</summary>
-
-**[00:32:07](/episodes/ep-sreYYcID-QY.md#ent-person-dave-smith-t-00-31-58)**
-> "...(Bibi) murdered Charlie Kirk. Tucker (Tucker Carlson) never said that. Megyn Kelly never said that. Dave Smith never said that. Instead what we are doing is we are disputing Benjamin Netanyahu's (Bibi) narrativ..."
-
-**[00:32:07](/episodes/ep-sreYYcID-QY.md#ent-person-dave-smith-t-00-31-58)**
-> "Dave Smith never said that."
-
-</details>
-
-<details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (5 mentions)</summary>
-
-**[01:04:11](/episodes/ep-vwG1juDCQZQ.md#ent-person-dave-smith-t-01-04-11)**
-> "... we shouldn't be lied to by are lying to us. Juan Antonio writes: "Candace, you should team up with Dave Smith, Ian Carroll, and Jimmy Dore. Form a coalition: share editors, push promotion, and spark Occupy Wal..."
-
-**[01:04:40](/episodes/ep-vwG1juDCQZQ.md#ent-person-dave-smith-t-01-04-11)**
-> "...haven't done that with Jimmy Dore, but anything these other people— Ian Carroll: we text regularly. Dave Smith: we text regularly when we're sharing information or asking each other questions or asking for guid..."
-
-**[01:04:11](/episodes/ep-vwG1juDCQZQ.md#ent-person-dave-smith-t-01-04-11)**
-> "...dace, you should team up with Dave Smith, Ian Carroll, and Jimmy Dore."
-
-**[01:04:40](/episodes/ep-vwG1juDCQZQ.md#ent-person-dave-smith-t-01-04-11)**
-> "Dave Smith: we text regularly"
-
-**[01:04:11](/episodes/ep-vwG1juDCQZQ.md#ent-person-dave-smith-t-01-04-11)**
-> "you should team up with Dave Smith, Ian Carroll, and Jimmy Dore"
 
 </details>
 

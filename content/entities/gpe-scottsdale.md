@@ -17,31 +17,6 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
-
-**[00:20:20](/episodes/ep-581dILVcEE4.md#ent-gpe-scottsdale-t-00-19-55)**
-> "...that that plane that departed Scottsdale at eight local time and landed at about 10 a.m. l..."
-
-**[00:20:47](/episodes/ep-581dILVcEE4.md#ent-gpe-scottsdale-t-00-20-39)**
-> "...—or maybe you were working in Scottsdale on that day at a terminal—we're looking for a pla..."
-
-</details>
-
-<details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (3 mentions)</summary>
-
-**[00:26:27](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-scottsdale-t-00-26-14)**
-> "...orning of September 10th from Scottsdale, Arizona,"
-
-**[00:26:49](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-scottsdale-t-00-26-14)**
-> "...nta Barbara at 11:37 a.m. for Scottsdale, landing at 12:44 p.m."
-
-**[00:26:57](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-scottsdale-t-00-26-57)**
-> "...ta Barbara; maybe you were in Scottsdale."
-
-</details>
-
-<details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (5 mentions)</summary>
 
 **[00:12:17](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-scottsdale-t-00-12-04)**
@@ -85,6 +60,39 @@ _Type: Places_
 </details>
 
 <details>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
+
+**[00:20:20](/episodes/ep-581dILVcEE4.md#ent-gpe-scottsdale-t-00-19-55)**
+> "...that that plane that departed Scottsdale at eight local time and landed at about 10 a.m. l..."
+
+**[00:20:47](/episodes/ep-581dILVcEE4.md#ent-gpe-scottsdale-t-00-20-39)**
+> "...—or maybe you were working in Scottsdale on that day at a terminal—we're looking for a pla..."
+
+</details>
+
+<details>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (3 mentions)</summary>
+
+**[00:26:27](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-scottsdale-t-00-26-14)**
+> "...orning of September 10th from Scottsdale, Arizona,"
+
+**[00:26:49](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-scottsdale-t-00-26-14)**
+> "...nta Barbara at 11:37 a.m. for Scottsdale, landing at 12:44 p.m."
+
+**[00:26:57](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-scottsdale-t-00-26-57)**
+> "...ta Barbara; maybe you were in Scottsdale."
+
+</details>
+
+<details>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1 mentions)</summary>
+
+**[00:39:19](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-scottsdale-t-00-39-10)**
+> "... debate you at their event in Scottsdale in December.""
+
+</details>
+
+<details>
 <summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (9 mentions)</summary>
 
 **[00:41:57](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-scottsdale-t-00-41-45)**
@@ -116,14 +124,6 @@ _Type: Places_
 
 </details>
 
-<details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1 mentions)</summary>
-
-**[00:39:19](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-scottsdale-t-00-39-10)**
-> "... debate you at their event in Scottsdale in December.""
-
-</details>
-
 </details>
 
 <details open>
@@ -151,17 +151,6 @@ _Type: Places_
 <summary><strong class="section-title">Statements about Scottsdale (5)</strong></summary>
 
 <details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (2)</summary>
-
-- [00:05:47](/episodes/ep-JQjCAsfoXEE.md#t-00-05-44) (Claim) **Candace Owens**: ["On September 10th, flight N560TW departed Scottsdale for Provo at 10:0..."](/statements/statement-c9cb25ecf21d.md)
-  - Also about: [Provo](/entities/gpe-provo.md)
-
-- [00:26:27](/episodes/ep-JQjCAsfoXEE.md#t-00-26-14) (Claim) **Candace Owens**: ["A plane with tail number N560TW departed Scottsdale on September 10th ..."](/statements/statement-d3981124cc21.md)
-  - Also about: [Provo](/entities/gpe-provo.md)
-
-</details>
-
-<details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (3)</summary>
 
 - [00:12:04](/episodes/ep-Kmt6HgRjckU.md#t-00-11-24) (Claim) **Candace Owens**: ["Pierre Falcone lives in Scottsdale, Arizona and is a billionaire"](/statements/statement-8ee090060b24.md)
@@ -172,6 +161,17 @@ _Type: Places_
 
 - [00:17:43](/episodes/ep-Kmt6HgRjckU.md#t-00-17-32) (Claim) **Candace Owens**: ["Pierre Falcone disappeared from France after winning his appeal and re..."](/statements/statement-369784a0dc5c.md)
   - Also about: [Pierre Falcone](/entities/person-pierre-falcone.md)
+
+</details>
+
+<details>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (2)</summary>
+
+- [00:05:47](/episodes/ep-JQjCAsfoXEE.md#t-00-05-44) (Claim) **Candace Owens**: ["On September 10th, flight N560TW departed Scottsdale for Provo at 10:0..."](/statements/statement-c9cb25ecf21d.md)
+  - Also about: [Provo](/entities/gpe-provo.md)
+
+- [00:26:27](/episodes/ep-JQjCAsfoXEE.md#t-00-26-14) (Claim) **Candace Owens**: ["A plane with tail number N560TW departed Scottsdale on September 10th ..."](/statements/statement-d3981124cc21.md)
+  - Also about: [Provo](/entities/gpe-provo.md)
 
 </details>
 

@@ -17,17 +17,6 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
-
-**[00:54:04](/episodes/ep-Cq7nj9rxPdo.md#ent-person-martin-luther-king-jr-t-00-53-35)**
-> "... me who actually killed him." And it's a typical federal maneuver, by the way, to kill someone like Martin Luther King or JFK, and then they get a holiday; they get a boulevard. That's what I said. And I would have sai..."
-
-**[00:54:04](/episodes/ep-Cq7nj9rxPdo.md#ent-person-martin-luther-king-jr-t-00-53-35)**
-> "...the way, to kill someone like Martin Luther King or JFK, and then they get a holiday; they get a b..."
-
-</details>
-
-<details>
 <summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (4 mentions)</summary>
 
 **[00:08:36](/episodes/ep-JQjCAsfoXEE.md#ent-person-martin-luther-king-jr-t-00-08-30)**
@@ -68,16 +57,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (3 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
 
-**[00:01:25](/episodes/ep-aDlhjfW6hz8.md#ent-person-martin-luther-king-jr-t-00-00-55)**
-> "...Charlie Kirk Remembrance Day. And I have to say, that is a very government maneuver. Like, we get a Martin Luther King Day. We've got Martin Luther King Boulevard. John F. Kennedy gets a library and a national day of m..."
+**[00:54:04](/episodes/ep-Cq7nj9rxPdo.md#ent-person-martin-luther-king-jr-t-00-53-35)**
+> "... me who actually killed him." And it's a typical federal maneuver, by the way, to kill someone like Martin Luther King or JFK, and then they get a holiday; they get a boulevard. That's what I said. And I would have sai..."
 
-**[00:01:25](/episodes/ep-aDlhjfW6hz8.md#ent-person-martin-luther-king-jr-t-00-00-55)**
-> "Like, we get a Martin Luther King Day. We've got Martin Luther King Boulevard. John..."
-
-**[00:01:25](/episodes/ep-aDlhjfW6hz8.md#ent-person-martin-luther-king-jr-t-00-00-55)**
-> "...in Luther King Day. We've got Martin Luther King Boulevard. John F. Kennedy gets a library and a n..."
+**[00:54:04](/episodes/ep-Cq7nj9rxPdo.md#ent-person-martin-luther-king-jr-t-00-53-35)**
+> "...the way, to kill someone like Martin Luther King or JFK, and then they get a holiday; they get a b..."
 
 </details>
 
@@ -89,6 +75,20 @@ _Type: People_
 
 **[00:36:51](/episodes/ep-c5BcKF91iec.md#ent-person-martin-luther-king-jr-t-00-36-51)**
 > "...started every other show like Martin Luther King Jr.:"
+
+</details>
+
+<details>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (3 mentions)</summary>
+
+**[00:01:25](/episodes/ep-aDlhjfW6hz8.md#ent-person-martin-luther-king-jr-t-00-00-55)**
+> "...Charlie Kirk Remembrance Day. And I have to say, that is a very government maneuver. Like, we get a Martin Luther King Day. We've got Martin Luther King Boulevard. John F. Kennedy gets a library and a national day of m..."
+
+**[00:01:25](/episodes/ep-aDlhjfW6hz8.md#ent-person-martin-luther-king-jr-t-00-00-55)**
+> "Like, we get a Martin Luther King Day. We've got Martin Luther King Boulevard. John..."
+
+**[00:01:25](/episodes/ep-aDlhjfW6hz8.md#ent-person-martin-luther-king-jr-t-00-00-55)**
+> "...in Luther King Day. We've got Martin Luther King Boulevard. John F. Kennedy gets a library and a n..."
 
 </details>
 

@@ -17,23 +17,6 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (4 mentions)</summary>
-
-**[00:18:38](/episodes/ep-sImMM04XdWY.md#ent-gpe-tennessee-t-00-18-13)**
-> "why this lawsuit was being filed in Delaware...you're in Tennessee"
-
-**[00:18:41](/episodes/ep-sImMM04XdWY.md#ent-gpe-tennessee-t-00-18-13)**
-> "...in Delaware because you're in Tennessee."
-
-**[00:18:50](/episodes/ep-sImMM04XdWY.md#ent-gpe-tennessee-t-00-18-13)**
-> "The witnesses are in Tennessee."
-
-**[00:18:59](/episodes/ep-sImMM04XdWY.md#ent-gpe-tennessee-t-00-18-58)**
-> "... have been defamed is here in Tennessee."
-
-</details>
-
-<details>
 <summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (5 mentions)</summary>
 
 **[00:06:27](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-tennessee-t-00-38-49)**
@@ -50,6 +33,23 @@ _Type: Places_
 
 **[00:51:39](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-tennessee-t-00-51-03)**
 > "...ause I'm telling you, I trust Tennessee, 10 Tennesseans more than I trust the feds right ..."
+
+</details>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (4 mentions)</summary>
+
+**[00:18:38](/episodes/ep-sImMM04XdWY.md#ent-gpe-tennessee-t-00-18-13)**
+> "why this lawsuit was being filed in Delaware...you're in Tennessee"
+
+**[00:18:41](/episodes/ep-sImMM04XdWY.md#ent-gpe-tennessee-t-00-18-13)**
+> "...in Delaware because you're in Tennessee."
+
+**[00:18:50](/episodes/ep-sImMM04XdWY.md#ent-gpe-tennessee-t-00-18-13)**
+> "The witnesses are in Tennessee."
+
+**[00:18:59](/episodes/ep-sImMM04XdWY.md#ent-gpe-tennessee-t-00-18-58)**
+> "... have been defamed is here in Tennessee."
 
 </details>
 

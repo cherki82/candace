@@ -52,20 +52,6 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Married To (1)</summary>
-
-- **[Eric Trump](/entities/person-eric-trump.md)**
-  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:08:20](/episodes/ep-r1PS67aRmcA.md#t-00-07-46): "Eric Trump and Lara Trump"
-
-</details>
-
-<details>
-<summary>Referenced By (1)</summary>
-
-- **[Eric Trump](/entities/person-eric-trump.md)** married to this
-  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:08:20](/episodes/ep-r1PS67aRmcA.md#t-00-07-46)
-
-</details>
+_No relationships extracted yet._
 
 </details>

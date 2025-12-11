@@ -19,6 +19,32 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (7 mentions)</summary>
+
+**[00:24:56](/episodes/ep-a-e7HC6SeK8.md#ent-person-justin-strief-t-00-24-50)**
+> "...lie (Charlie Kirk) sends out the email asking for a DOJ audit of his company. And he announces that Justin Strife is going to be the new COO, taking over for Tyler Bowyer—who was the COO. And then we have the firs..."
+
+**[00:27:13](/episodes/ep-a-e7HC6SeK8.md#ent-person-justin-strief-t-00-26-49)**
+> "...rned that happened on the day of Charlie's (Charlie Kirk's) assassination was a rumor pertaining to Justin Strife: an oddly placed phone call that he made almost immediately—as they say—this is alleged; I wasn't o..."
+
+**[00:24:56](/episodes/ep-a-e7HC6SeK8.md#ent-person-justin-strief-t-00-24-50)**
+> "And he announces that Justin Strife (Justin Strife) is going to be the new COO, takin..."
+
+**[00:24:56](/episodes/ep-a-e7HC6SeK8.md#ent-person-justin-strief-t-00-24-50)**
+> "...announces that Justin Strife (Justin Strife) is going to be the new COO, taking over for Tyle..."
+
+**[00:27:13](/episodes/ep-a-e7HC6SeK8.md#ent-person-justin-strief-t-00-26-49)**
+> "...ion was a rumor pertaining to Justin Strife (Justin Strife):"
+
+**[00:27:13](/episodes/ep-a-e7HC6SeK8.md#ent-person-justin-strief-t-00-26-49)**
+> "... pertaining to Justin Strife (Justin Strife):"
+
+**[00:27:49](/episodes/ep-a-e7HC6SeK8.md#ent-person-justin-strief-t-00-27-29)**
+> "They said that Justin (Justin Strife) had placed an immediate call to a donor prospect..."
+
+</details>
+
+<details>
 <summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
 
 **[00:31:39](/episodes/ep-K1tFD7FfoCU.md#ent-person-justin-strief-t-00-31-02)**
@@ -26,6 +52,17 @@ _Type: People_
 
 **[00:31:39](/episodes/ep-K1tFD7FfoCU.md#ent-person-justin-strief-t-00-31-02)**
 > "Someone below Justin Strife (Justin Strife)—I think was the COO."
+
+</details>
+
+<details>
+<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (2 mentions)</summary>
+
+**[00:40:13](/episodes/ep-ozWJz2spBcI.md#ent-person-justin-strief-t-00-40-13)**
+> "...k) in his own words. We showed the whole email. I didn't read the paragraph where he announced that Justin Strife would be the COO, but we read the entirety related to the DOJ department. And here's what Tyler say..."
+
+**[00:40:13](/episodes/ep-ozWJz2spBcI.md#ent-person-justin-strief-t-00-40-13)**
+> "...graph where he announced that Justin Strife would be the COO, but we read the entirety relate..."
 
 </details>
 
@@ -55,43 +92,6 @@ _Type: People_
 
 **[00:22:38](/episodes/ep-K5GjF53bfN4.md#ent-person-justin-strief-t-00-22-38)**
 > "...ase join me in congratulating Justin on this new role with the organization.""
-
-</details>
-
-<details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (7 mentions)</summary>
-
-**[00:24:56](/episodes/ep-a-e7HC6SeK8.md#ent-person-justin-strief-t-00-24-50)**
-> "...lie (Charlie Kirk) sends out the email asking for a DOJ audit of his company. And he announces that Justin Strife is going to be the new COO, taking over for Tyler Bowyer—who was the COO. And then we have the firs..."
-
-**[00:27:13](/episodes/ep-a-e7HC6SeK8.md#ent-person-justin-strief-t-00-26-49)**
-> "...rned that happened on the day of Charlie's (Charlie Kirk's) assassination was a rumor pertaining to Justin Strife: an oddly placed phone call that he made almost immediately—as they say—this is alleged; I wasn't o..."
-
-**[00:24:56](/episodes/ep-a-e7HC6SeK8.md#ent-person-justin-strief-t-00-24-50)**
-> "And he announces that Justin Strife (Justin Strife) is going to be the new COO, takin..."
-
-**[00:24:56](/episodes/ep-a-e7HC6SeK8.md#ent-person-justin-strief-t-00-24-50)**
-> "...announces that Justin Strife (Justin Strife) is going to be the new COO, taking over for Tyle..."
-
-**[00:27:13](/episodes/ep-a-e7HC6SeK8.md#ent-person-justin-strief-t-00-26-49)**
-> "...ion was a rumor pertaining to Justin Strife (Justin Strife):"
-
-**[00:27:13](/episodes/ep-a-e7HC6SeK8.md#ent-person-justin-strief-t-00-26-49)**
-> "... pertaining to Justin Strife (Justin Strife):"
-
-**[00:27:49](/episodes/ep-a-e7HC6SeK8.md#ent-person-justin-strief-t-00-27-29)**
-> "They said that Justin (Justin Strife) had placed an immediate call to a donor prospect..."
-
-</details>
-
-<details>
-<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (2 mentions)</summary>
-
-**[00:40:13](/episodes/ep-ozWJz2spBcI.md#ent-person-justin-strief-t-00-40-13)**
-> "...k) in his own words. We showed the whole email. I didn't read the paragraph where he announced that Justin Strife would be the COO, but we read the entirety related to the DOJ department. And here's what Tyler say..."
-
-**[00:40:13](/episodes/ep-ozWJz2spBcI.md#ent-person-justin-strief-t-00-40-13)**
-> "...graph where he announced that Justin Strife would be the COO, but we read the entirety relate..."
 
 </details>
 

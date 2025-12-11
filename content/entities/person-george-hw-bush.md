@@ -20,20 +20,6 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (3 mentions)</summary>
-
-**[00:15:53](/episodes/ep-Kmt6HgRjckU.md#t-00-15-30)**
-> "Human rights groups demanded that Congress also probe the Bush administration's involvement because they claim they did a deal and got involved for oil."
-
-**[00:15:53](/episodes/ep-Kmt6HgRjckU.md#t-00-15-30)**
-> "... that Congress also probe the Bush administration's involvement because they claim t..."
-
-**[00:16:23](/episodes/ep-Kmt6HgRjckU.md#t-00-16-13)**
-> "I'm reading this Bush component from a website that's known as CorpWatc..."
-
-</details>
-
-<details>
 <summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (10 mentions)</summary>
 
 **[00:00:46](/episodes/ep-t4U7NjnUEgc.md#ent-person-george-hw-bush-t-00-05-14)**
@@ -68,6 +54,20 @@ _Type: People_
 
 </details>
 
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (3 mentions)</summary>
+
+**[00:15:53](/episodes/ep-Kmt6HgRjckU.md#t-00-15-30)**
+> "Human rights groups demanded that Congress also probe the Bush administration's involvement because they claim they did a deal and got involved for oil."
+
+**[00:15:53](/episodes/ep-Kmt6HgRjckU.md#t-00-15-30)**
+> "... that Congress also probe the Bush administration's involvement because they claim t..."
+
+**[00:16:23](/episodes/ep-Kmt6HgRjckU.md#t-00-16-13)**
+> "I'm reading this Bush component from a website that's known as CorpWatc..."
+
+</details>
+
 </details>
 
 <details open>
@@ -98,7 +98,7 @@ _Type: People_
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>
 
 - [00:15:53](/episodes/ep-Kmt6HgRjckU.md#t-00-15-30) (Claim) **Candace Owens**: ["Human rights groups demanded that Congress probe the Bush administrati..."](/statements/statement-aceca2e34399.md)
-  - Also about: [Angola Gate](/entities/concept-angola-gate.md)
+  - Also about: [Angolagate scandal](/entities/event-angola-gate.md)
 
 </details>
 

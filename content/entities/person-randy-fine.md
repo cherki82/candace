@@ -13,6 +13,40 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (2 mentions)</summary>
+
+**[00:19:31](/episodes/ep-r1PS67aRmcA.md#ent-person-randy-fine-t-00-19-31)**
+> "...t this is the same Ben Shapiro that roots the destruction of Gaza on. He supports and congratulated Randy Fine, who has literally tweeted, laughing at photos of dead Palestinian babies. But I guess Tucker (Tuck..."
+
+**[00:19:31](/episodes/ep-r1PS67aRmcA.md#ent-person-randy-fine-t-00-19-31)**
+> "He supports and congratulated Randy Fine, who has literally tweeted, laughing at photos of..."
+
+</details>
+
+<details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (6 mentions)</summary>
+
+**[00:18:15](/episodes/ep-LATnak75Si0.md#ent-person-randy-fine-t-00-17-51)**
+> "... to what it means to be a conservative. So I'm gonna let you listen to what Brett Cooper said about Randy Fine. And let me know if you're just so offended that you think that she needs to be canceled and destro..."
+
+**[00:18:27](/episodes/ep-LATnak75Si0.md#ent-person-randy-fine-t-00-18-27)**
+> "... to be canceled and destroyed. Take a listen to what Brett Cooper said. (Clip of Brett Cooper) Like Randy Fine—if you don't know who he is—he's a representative from Florida. He's the same guy who bragged about..."
+
+**[00:18:45](/episodes/ep-LATnak75Si0.md#ent-person-randy-fine-t-00-18-27)**
+> "...about Israel than he does, you know, principles like free speech. So, buddy—like, my advice to you, Randy Fine—is just move to Israel at this point. Like, considering you had to go through anger management clas..."
+
+**[00:18:15](/episodes/ep-LATnak75Si0.md#ent-person-randy-fine-t-00-17-51)**
+> "... what Brett Cooper said about Randy Fine."
+
+**[00:18:27](/episodes/ep-LATnak75Si0.md#ent-person-randy-fine-t-00-18-27)**
+> "Like Randy Fine—if you don't know who he is—he's a representative..."
+
+**[00:18:45](/episodes/ep-LATnak75Si0.md#ent-person-randy-fine-t-00-18-27)**
+> "...buddy—like, my advice to you, Randy Fine—is just move to Israel at this point."
+
+</details>
+
+<details>
 <summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (38 mentions)</summary>
 
 **[00:02:28](/episodes/ep-K1tFD7FfoCU.md#ent-person-randy-fine-t-00-02-14)**
@@ -131,40 +165,6 @@ _Type: People_
 
 </details>
 
-<details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (6 mentions)</summary>
-
-**[00:18:15](/episodes/ep-LATnak75Si0.md#ent-person-randy-fine-t-00-17-51)**
-> "... to what it means to be a conservative. So I'm gonna let you listen to what Brett Cooper said about Randy Fine. And let me know if you're just so offended that you think that she needs to be canceled and destro..."
-
-**[00:18:27](/episodes/ep-LATnak75Si0.md#ent-person-randy-fine-t-00-18-27)**
-> "... to be canceled and destroyed. Take a listen to what Brett Cooper said. (Clip of Brett Cooper) Like Randy Fine—if you don't know who he is—he's a representative from Florida. He's the same guy who bragged about..."
-
-**[00:18:45](/episodes/ep-LATnak75Si0.md#ent-person-randy-fine-t-00-18-27)**
-> "...about Israel than he does, you know, principles like free speech. So, buddy—like, my advice to you, Randy Fine—is just move to Israel at this point. Like, considering you had to go through anger management clas..."
-
-**[00:18:15](/episodes/ep-LATnak75Si0.md#ent-person-randy-fine-t-00-17-51)**
-> "... what Brett Cooper said about Randy Fine."
-
-**[00:18:27](/episodes/ep-LATnak75Si0.md#ent-person-randy-fine-t-00-18-27)**
-> "Like Randy Fine—if you don't know who he is—he's a representative..."
-
-**[00:18:45](/episodes/ep-LATnak75Si0.md#ent-person-randy-fine-t-00-18-27)**
-> "...buddy—like, my advice to you, Randy Fine—is just move to Israel at this point."
-
-</details>
-
-<details>
-<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (2 mentions)</summary>
-
-**[00:19:31](/episodes/ep-r1PS67aRmcA.md#ent-person-randy-fine-t-00-19-31)**
-> "...t this is the same Ben Shapiro that roots the destruction of Gaza on. He supports and congratulated Randy Fine, who has literally tweeted, laughing at photos of dead Palestinian babies. But I guess Tucker (Tuck..."
-
-**[00:19:31](/episodes/ep-r1PS67aRmcA.md#ent-person-randy-fine-t-00-19-31)**
-> "He supports and congratulated Randy Fine, who has literally tweeted, laughing at photos of..."
-
-</details>
-
 </details>
 
 <details open>
@@ -205,18 +205,18 @@ _Type: People_
 <summary><strong class="section-title">Statements about Randy Fine (3)</strong></summary>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1)</summary>
-
-- [00:02:34](/episodes/ep-K1tFD7FfoCU.md#t-00-02-14) (Claim) **Candace Owens**: ["Randy Fine has been so disgusting in his rhetoric towards Palestinians..."](/statements/statement-254f82c97517.md)
-
-</details>
-
-<details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2)</summary>
 
 - [00:18:36](/episodes/ep-LATnak75Si0.md#t-00-18-27) (Accusation) **Brett Cooper** (via quoted speech): ["Randy Fine has repeatedly introduced bills to criminalize anti-Semitis..."](/statements/statement-f391fd2b0af7.md)
 
 - [00:18:46](/episodes/ep-LATnak75Si0.md#t-00-18-27) (Opinion) **Brett Cooper** (via quoted speech): ["Randy Fine cares more about Israel than he does about principles like ..."](/statements/statement-179d931a52f3.md)
+
+</details>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1)</summary>
+
+- [00:02:34](/episodes/ep-K1tFD7FfoCU.md#t-00-02-14) (Claim) **Candace Owens**: ["Randy Fine has been so disgusting in his rhetoric towards Palestinians..."](/statements/statement-254f82c97517.md)
 
 </details>
 

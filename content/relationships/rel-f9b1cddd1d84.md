@@ -11,7 +11,7 @@ object: "person-charlie-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) worked with [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I)**
 
@@ -19,6 +19,7 @@ object: "person-charlie-kirk"
 
 **[Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec)**
 
+- [00:00:25](/episodes/ep-c5BcKF91iec#t-00-00-25): _And it felt fitting also because the first time I ever visited Wyoming, I was with Charlie Kirk. I then visited Wyoming many times thereafter over the years._
 - [00:03:57](/episodes/ep-c5BcKF91iec#t-00-03-57): _The point is that I hit college campuses with Charlie Kirk for six years. I don't believe that there was a single living, breathing person who has spoken at more college campuses alongside Charlie Kirk than me._
 
 **[EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY)**

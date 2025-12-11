@@ -13,13 +13,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
 
-**[00:54:45](/episodes/ep-2Riv3I7D0Yk.md#ent-person-james-o-keefe-t-00-54-20)**
-> "... a liar. And she's going to release those. And she's also sent out the dead man's switch— just like James O'Keefe did to myself and a few others right before he released the stuff on Prince Andrew—which is dangero..."
+**[00:38:14](/episodes/ep-his-JBjlkh8.md#ent-person-james-o-keefe-t-00-37-59)**
+> "...over," ostensibly to let in new, independent, more trusted journalists. And some of them are, okay. James O'Keefe—obviously formerly of Project Veritas—he's very much trusted. Matt Gaetz—I like him very much. But ..."
 
-**[00:54:45](/episodes/ep-2Riv3I7D0Yk.md#ent-person-james-o-keefe-t-00-54-20)**
-> "James O'Keefe did to myself and a few others right before he re..."
+**[00:38:14](/episodes/ep-his-JBjlkh8.md#ent-person-james-o-keefe-t-00-37-59)**
+> "And some of them are, okay. James O'Keefe—obviously formerly of Project Veritas—he's very m..."
 
 </details>
 
@@ -53,13 +53,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
 
-**[00:38:14](/episodes/ep-his-JBjlkh8.md#ent-person-james-o-keefe-t-00-37-59)**
-> "...over," ostensibly to let in new, independent, more trusted journalists. And some of them are, okay. James O'Keefe—obviously formerly of Project Veritas—he's very much trusted. Matt Gaetz—I like him very much. But ..."
+**[00:54:45](/episodes/ep-2Riv3I7D0Yk.md#ent-person-james-o-keefe-t-00-54-20)**
+> "... a liar. And she's going to release those. And she's also sent out the dead man's switch— just like James O'Keefe did to myself and a few others right before he released the stuff on Prince Andrew—which is dangero..."
 
-**[00:38:14](/episodes/ep-his-JBjlkh8.md#ent-person-james-o-keefe-t-00-37-59)**
-> "And some of them are, okay. James O'Keefe—obviously formerly of Project Veritas—he's very m..."
+**[00:54:45](/episodes/ep-2Riv3I7D0Yk.md#ent-person-james-o-keefe-t-00-54-20)**
+> "James O'Keefe did to myself and a few others right before he re..."
 
 </details>
 

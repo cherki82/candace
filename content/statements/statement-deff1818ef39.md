@@ -21,7 +21,7 @@ type: "factual_claim"
 ## About
 
 - [Israel](/entities/gpe-israel.md) (gpe)
-- [USS Liberty](/entities/work-uss-liberty.md) (work)
+- [USS Liberty incident](/entities/event-uss-liberty-incident.md) (event)
 
 ## Source
 

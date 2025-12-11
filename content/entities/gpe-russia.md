@@ -17,6 +17,68 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (4 mentions)</summary>
+
+**[00:14:48](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-russia-t-00-14-05)**
+> "Russia involved in Angola Gate scandal"
+
+**[00:13:50](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-russia-t-00-13-24)**
+> "... out that France is involved, Russia is involved, Slovakia is involved."
+
+**[00:14:12](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-russia-t-00-14-05)**
+> "...is Israeli, initially born in Russia, and then right when Israel becomes a nation, he ..."
+
+**[00:16:39](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-russia-t-00-16-13)**
+> "...ormer French president, and a Russian-born Israeli named Arkady Gaidemach."
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (4 mentions)</summary>
+
+**[00:43:00](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-russia-t-00-42-29)**
+> "...ng on that week involved— of course—France, right? America, France, Israel, the Middle East, Syria, Russia— and this is the Syria before Israel and the United States overthrew Assad. What was going on was t..."
+
+**[00:46:48](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-russia-t-00-46-48)**
+> "...to fight. And I don't love a scenario right now that's happening where we have envoys being sent to Russia and Israel and everybody's meeting—all this... It feels like something's coming. I know that you pr..."
+
+**[00:43:00](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-russia-t-00-42-29)**
+> "...rael, the Middle East, Syria, Russia—"
+
+**[00:46:48](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-russia-t-00-46-48)**
+> "... we have envoys being sent to Russia and Israel and everybody's meeting—all this..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (4 mentions)</summary>
+
+**[00:06:48](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-russia-t-00-06-34)**
+> "... with other state actors, you know, they kind of gloriously insinuated that I might be working with Russia. They paid for that. They paid for that investigation. So using that logic, wouldn't this be the op..."
+
+**[00:08:40](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-russia-t-00-08-40)**
+> "... Nothing. I want you to bear in mind that this was front-page global news from the United States to Russia. And I publicly challenged the Candace (Candace Owens) is making everything up crowd to prove it. P..."
+
+**[00:06:48](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-russia-t-00-06-34)**
+> "... that I might be working with Russia."
+
+**[00:08:40](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-russia-t-00-08-40)**
+> "...ews from the United States to Russia."
+
+</details>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
+
+**[00:12:26](/episodes/ep-sImMM04XdWY.md#ent-gpe-russia-t-00-12-26)**
+> "... and then I felt bad, and I was like, "Okay, let me think about it," because I don't want people in Russia to be killed because I won't stop speaking about Brigitte if the Ukraine peace deal is actually at ..."
+
+**[00:12:26](/episodes/ep-sImMM04XdWY.md#ent-gpe-russia-t-00-12-26)**
+> "...ecause I don't want people in Russia to be killed because I won't stop speaking about ..."
+
+</details>
+
+<details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
 
 **[00:26:31](/episodes/ep-581dILVcEE4.md#ent-gpe-russia-t-00-26-26)**
@@ -53,34 +115,6 @@ _Type: Places_
 
 **[00:42:02](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-russia-t-00-41-29)**
 > "...cause I'm between Namibia and Russia."
-
-</details>
-
-<details>
-<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2 mentions)</summary>
-
-**[00:36:20](/episodes/ep-K5GjF53bfN4.md#ent-gpe-russia-t-00-36-02)**
-> "...sband is a Freemason. I read that our marriage is fake and staged, and I've read that I'm funded by Russia, I'm funded by Qatar, I'm funded by Andrew Tate, because Andrew Tate is also from the UK, and my hu..."
-
-**[00:36:20](/episodes/ep-K5GjF53bfN4.md#ent-gpe-russia-t-00-36-02)**
-> "... I've read that I'm funded by Russia, I'm funded by Qatar, I'm funded by Andrew Tate, ..."
-
-</details>
-
-<details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (4 mentions)</summary>
-
-**[00:14:48](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-russia-t-00-14-05)**
-> "Russia involved in Angola Gate scandal"
-
-**[00:13:50](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-russia-t-00-13-24)**
-> "... out that France is involved, Russia is involved, Slovakia is involved."
-
-**[00:14:12](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-russia-t-00-14-05)**
-> "...is Israeli, initially born in Russia, and then right when Israel becomes a nation, he ..."
-
-**[00:16:39](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-russia-t-00-16-13)**
-> "...ormer French president, and a Russian-born Israeli named Arkady Gaidemach."
 
 </details>
 
@@ -141,19 +175,24 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (4 mentions)</summary>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (2 mentions)</summary>
 
-**[00:43:00](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-russia-t-00-42-29)**
-> "...ng on that week involved— of course—France, right? America, France, Israel, the Middle East, Syria, Russia— and this is the Syria before Israel and the United States overthrew Assad. What was going on was t..."
+**[00:51:59](/episodes/ep-c5BcKF91iec.md#ent-gpe-russia-t-00-51-40)**
+> "...To know where that comes from. There's a chapter called "Beyond the Pale"—the Pale of Settlement of Russia who brought over that feminist movement. It is good for you to know where that came from because I ..."
 
-**[00:46:48](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-russia-t-00-46-48)**
-> "...to fight. And I don't love a scenario right now that's happening where we have envoys being sent to Russia and Israel and everybody's meeting—all this... It feels like something's coming. I know that you pr..."
+**[00:51:59](/episodes/ep-c5BcKF91iec.md#ent-gpe-russia-t-00-51-40)**
+> "...le"—the Pale of Settlement of Russia who brought over that feminist movement."
 
-**[00:43:00](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-russia-t-00-42-29)**
-> "...rael, the Middle East, Syria, Russia—"
+</details>
 
-**[00:46:48](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-russia-t-00-46-48)**
-> "... we have envoys being sent to Russia and Israel and everybody's meeting—all this..."
+<details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
+
+**[00:38:23](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-russia-t-00-37-57)**
+> "...ok recently, the shooter in Cyrillic. What's that about? What's that about? Why do we suddenly have Russian speakers that are involved in these sorts of things? We are looking at a program, and we're going t..."
+
+**[00:38:23](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-russia-t-00-37-57)**
+> "Why do we suddenly have Russian speakers that are involved in these sorts of thin..."
 
 </details>
 
@@ -193,13 +232,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (2 mentions)</summary>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2 mentions)</summary>
 
-**[00:51:59](/episodes/ep-c5BcKF91iec.md#ent-gpe-russia-t-00-51-40)**
-> "...To know where that comes from. There's a chapter called "Beyond the Pale"—the Pale of Settlement of Russia who brought over that feminist movement. It is good for you to know where that came from because I ..."
+**[00:36:20](/episodes/ep-K5GjF53bfN4.md#ent-gpe-russia-t-00-36-02)**
+> "...sband is a Freemason. I read that our marriage is fake and staged, and I've read that I'm funded by Russia, I'm funded by Qatar, I'm funded by Andrew Tate, because Andrew Tate is also from the UK, and my hu..."
 
-**[00:51:59](/episodes/ep-c5BcKF91iec.md#ent-gpe-russia-t-00-51-40)**
-> "...le"—the Pale of Settlement of Russia who brought over that feminist movement."
+**[00:36:20](/episodes/ep-K5GjF53bfN4.md#ent-gpe-russia-t-00-36-02)**
+> "... I've read that I'm funded by Russia, I'm funded by Qatar, I'm funded by Andrew Tate, ..."
 
 </details>
 
@@ -211,45 +250,6 @@ _Type: Places_
 
 **[00:00:27](/episodes/ep-q7f8r-THr84.md#ent-gpe-russia-t-00-00-01)**
 > "It is not a battle between Russia, Ukraine."
-
-</details>
-
-<details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
-
-**[00:12:26](/episodes/ep-sImMM04XdWY.md#ent-gpe-russia-t-00-12-26)**
-> "... and then I felt bad, and I was like, "Okay, let me think about it," because I don't want people in Russia to be killed because I won't stop speaking about Brigitte if the Ukraine peace deal is actually at ..."
-
-**[00:12:26](/episodes/ep-sImMM04XdWY.md#ent-gpe-russia-t-00-12-26)**
-> "...ecause I don't want people in Russia to be killed because I won't stop speaking about ..."
-
-</details>
-
-<details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
-
-**[00:38:23](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-russia-t-00-37-57)**
-> "...ok recently, the shooter in Cyrillic. What's that about? What's that about? Why do we suddenly have Russian speakers that are involved in these sorts of things? We are looking at a program, and we're going t..."
-
-**[00:38:23](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-russia-t-00-37-57)**
-> "Why do we suddenly have Russian speakers that are involved in these sorts of thin..."
-
-</details>
-
-<details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (4 mentions)</summary>
-
-**[00:06:48](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-russia-t-00-06-34)**
-> "... with other state actors, you know, they kind of gloriously insinuated that I might be working with Russia. They paid for that. They paid for that investigation. So using that logic, wouldn't this be the op..."
-
-**[00:08:40](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-russia-t-00-08-40)**
-> "... Nothing. I want you to bear in mind that this was front-page global news from the United States to Russia. And I publicly challenged the Candace (Candace Owens) is making everything up crowd to prove it. P..."
-
-**[00:06:48](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-russia-t-00-06-34)**
-> "... that I might be working with Russia."
-
-**[00:08:40](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-russia-t-00-08-40)**
-> "...ews from the United States to Russia."
 
 </details>
 

@@ -13,35 +13,13 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
 
-**[00:20:11](/episodes/ep-SKGUzGHymcI.md#ent-gpe-minot-t-00-20-11)**
-> "...ns for no reason. I mean, just look at the choice of St. Louis, Wichita, Omaha, Lincoln, Williston, Minot, and Provo. None of these are standard diplomatic hubs. Most of those don't even have major consula..."
+**[00:16:36](/episodes/ep-tB5SXXmd9vU.md#t-00-16-09)**
+> "...amp began immediately. It was a joint exercise with civilians, which included military men from the Minot Air Force Base. And that joint exercise took place in Minnesota at Camp Ripley, and that ran just f..."
 
-**[00:20:11](/episodes/ep-SKGUzGHymcI.md#ent-gpe-minot-t-00-20-11)**
-> "...a, Omaha, Lincoln, Williston, Minot, and Provo."
-
-</details>
-
-<details>
-<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
-
-**[00:39:49](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-minot-t-00-39-39)**
-> "...t before Charlie's (Charlie Kirk's) assassination, rather. It comes down September 4th. It heads to Minot, North Dakota, and then it heads directly there to Provo. And it lands in Provo on September 4th at..."
-
-**[00:39:49](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-minot-t-00-39-39)**
-> "...wn September 4th. It heads to Minot, North Dakota, and then it heads directly there t..."
-
-</details>
-
-<details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
-
-**[00:19:07](/episodes/ep-iHav0PPzUz8.md#ent-gpe-minot-t-00-19-07)**
-> "...u will see this is what it did. It went from September 4th—it went from Cairo to Paris to France to Minot, North Dakota. On September 10th, it departed Provo—I think I'm missing one here, right? It didn't—..."
-
-**[00:19:07](/episodes/ep-iHav0PPzUz8.md#ent-gpe-minot-t-00-19-07)**
-> "...m Cairo to Paris to France to Minot, North Dakota."
+**[00:16:36](/episodes/ep-tB5SXXmd9vU.md#t-00-16-09)**
+> "...ncluded military men from the Minot Air Force Base."
 
 </details>
 
@@ -117,13 +95,35 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
 
-**[00:16:36](/episodes/ep-tB5SXXmd9vU.md#t-00-16-09)**
-> "...amp began immediately. It was a joint exercise with civilians, which included military men from the Minot Air Force Base. And that joint exercise took place in Minnesota at Camp Ripley, and that ran just f..."
+**[00:20:11](/episodes/ep-SKGUzGHymcI.md#ent-gpe-minot-t-00-20-11)**
+> "...ns for no reason. I mean, just look at the choice of St. Louis, Wichita, Omaha, Lincoln, Williston, Minot, and Provo. None of these are standard diplomatic hubs. Most of those don't even have major consula..."
 
-**[00:16:36](/episodes/ep-tB5SXXmd9vU.md#t-00-16-09)**
-> "...ncluded military men from the Minot Air Force Base."
+**[00:20:11](/episodes/ep-SKGUzGHymcI.md#ent-gpe-minot-t-00-20-11)**
+> "...a, Omaha, Lincoln, Williston, Minot, and Provo."
+
+</details>
+
+<details>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
+
+**[00:39:49](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-minot-t-00-39-39)**
+> "...t before Charlie's (Charlie Kirk's) assassination, rather. It comes down September 4th. It heads to Minot, North Dakota, and then it heads directly there to Provo. And it lands in Provo on September 4th at..."
+
+**[00:39:49](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-minot-t-00-39-39)**
+> "...wn September 4th. It heads to Minot, North Dakota, and then it heads directly there t..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
+
+**[00:19:07](/episodes/ep-iHav0PPzUz8.md#ent-gpe-minot-t-00-19-07)**
+> "...u will see this is what it did. It went from September 4th—it went from Cairo to Paris to France to Minot, North Dakota. On September 10th, it departed Provo—I think I'm missing one here, right? It didn't—..."
+
+**[00:19:07](/episodes/ep-iHav0PPzUz8.md#ent-gpe-minot-t-00-19-07)**
+> "...m Cairo to Paris to France to Minot, North Dakota."
 
 </details>
 

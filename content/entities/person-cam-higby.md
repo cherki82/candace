@@ -110,31 +110,18 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Affiliated With (1)</summary>
-
-- **[United States Pentagon](/entities/org-united-states-pentagon.md)**
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:45](/episodes/ep-his-JBjlkh8.md#t-00-03-40): ""another Zionist influencer named Kam Higby, who has also now been credentialed by the Pentagon,""
-
-</details>
-
-<details>
 <summary>Works For (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:03:30](/episodes/ep-ZAuuSq_j2_w.md#t-00-03-07): "Cam Higby is on the payroll of Turning Point USA, beginning in August of this year."
   - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:03:30](/episodes/ep-ZAuuSq_j2_w.md#t-00-03-07): "Cam Higby is on the payroll of Turning Point USA, beginning in August of this year."
   - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:00:43](/episodes/ep-ZAuuSq_j2_w.md#t-00-00-00): "Cam Higby is on the payroll of Turning Point USA, beginning in August of this year"
 
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
-
-- **[United States Pentagon](/entities/org-united-states-pentagon.md)** affiliated with this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:45](/episodes/ep-his-JBjlkh8.md#t-00-03-40)
+<summary>Referenced By (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
-  - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:03:30](/episodes/ep-ZAuuSq_j2_w.md#t-00-03-07)
   - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:03:30](/episodes/ep-ZAuuSq_j2_w.md#t-00-03-07)
 
 </details>

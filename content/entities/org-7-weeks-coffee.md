@@ -13,6 +13,14 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
+
+**[00:39:41](/episodes/ep-t1YtLS1n8Vs.md#t-00-39-23)**
+> "First, want to throw it to Seven Weeks Coffee. You guys know I love them. It's America's pro-life coffee company."
+
+</details>
+
+<details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (4 mentions)</summary>
 
 **[01:01:38](/episodes/ep-2WEHTk0Xewg.md#ent-org-7-weeks-coffee-t-01-01-34)**
@@ -26,14 +34,6 @@ _Type: Organizations_
 
 **[01:02:09](/episodes/ep-2WEHTk0Xewg.md#ent-org-7-weeks-coffee-t-01-01-34)**
 > "7 Weeks Coffee is more than a great-tasting coffee."
-
-</details>
-
-<details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
-
-**[00:39:41](/episodes/ep-t1YtLS1n8Vs.md#t-00-39-23)**
-> "First, want to throw it to Seven Weeks Coffee. You guys know I love them. It's America's pro-life coffee company."
 
 </details>
 

@@ -17,6 +17,17 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
+
+**[00:24:20](/episodes/ep-a-e7HC6SeK8.md#t-00-24-09)**
+> "...st 27th. August 27th—that's so late in the day to begin promoting an event. TPUSA, UVU, and a local BYU chapter share a graphic announcing that Charlie (Charlie Kirk) is coming to UVU, but there are no l..."
+
+**[00:24:20](/episodes/ep-a-e7HC6SeK8.md#t-00-24-09)**
+> "TPUSA, UVU, and a local BYU chapter share a graphic announcing that Charlie (..."
+
+</details>
+
+<details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:44:27](/episodes/ep-7RLtGgkTh9o.md#t-00-43-59)**
@@ -35,17 +46,6 @@ _Type: Organizations_
 
 **[00:21:33](/episodes/ep-UBkFkg4UNY8.md#t-00-21-19)**
 > "...them said he was a student at BYU, which is Brigham Young University."
-
-</details>
-
-<details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
-
-**[00:24:20](/episodes/ep-a-e7HC6SeK8.md#t-00-24-09)**
-> "...st 27th. August 27th—that's so late in the day to begin promoting an event. TPUSA, UVU, and a local BYU chapter share a graphic announcing that Charlie (Charlie Kirk) is coming to UVU, but there are no l..."
-
-**[00:24:20](/episodes/ep-a-e7HC6SeK8.md#t-00-24-09)**
-> "TPUSA, UVU, and a local BYU chapter share a graphic announcing that Charlie (..."
 
 </details>
 

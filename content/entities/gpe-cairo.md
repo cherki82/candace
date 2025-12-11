@@ -17,6 +17,92 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (4 mentions)</summary>
+
+**[00:18:36](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-cairo-t-00-18-23)**
+> "...ys, then it departs Nebraska—our yellow planes—and it heads to Wilmington, and then it goes back to Cairo. We then know that in this same time frame-ish is when Charlie (Charlie Kirk) vacations up to Maine..."
+
+**[00:25:29](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-cairo-t-00-25-29)**
+> "...he gets assassinated. And that also happens to be the same day that that Operation Bright Star—that Cairo joint operation—formally ends. Okay. So that timeline makes me uncomfortable. Okay. It makes me ver..."
+
+**[00:18:36](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-cairo-t-00-18-23)**
+> "...ton, and then it goes back to Cairo."
+
+**[00:25:29](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-cairo-t-00-25-29)**
+> "...at Operation Bright Star—that Cairo joint operation—formally ends."
+
+</details>
+
+<details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+
+**[00:22:00](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-cairo-t-00-21-46)**
+> "...harlie (Charlie Kirk) was shot. And that was known as Operation Bright Star, and that took place in Cairo, Egypt. Now, it is a biannual joint military operation. It's co-hosted by the United States and Egy..."
+
+**[00:22:00](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-cairo-t-00-21-46)**
+> "... Star, and that took place in Cairo, Egypt."
+
+</details>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (10 mentions)</summary>
+
+**[00:11:04](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-10-47)**
+> "... foremost, July 20th, we talked about SUBTT, which came in for its longest trip—that's correct—from Cairo. It went through to Paris, and then it went to Omaha, Nebraska. I think yesterday I said that it st..."
+
+**[00:11:30](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-11-30)**
+> "...ate, Bob Evnen, announced that they were going to put together a trade and investment delegation to Cairo, Egypt. What are the odds? You got this plane from Cairo, Egypt, and we're gonna pull this up and s..."
+
+**[00:11:54](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-11-30)**
+> "...ether a trade and investment delegation to Cairo, Egypt. What are the odds? You got this plane from Cairo, Egypt, and we're gonna pull this up and show you. And suddenly, you got this guy, Bob Evnen, and h..."
+
+**[00:11:57](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-11-30)**
+> "...w you. And suddenly, you got this guy, Bob Evnen, and he says, "You know what? Let's plan a trip to Cairo and see if we can make some money with them." I'm gonna let you listen to—I think we have a news cl..."
+
+**[00:13:06](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-12-57)**
+> "...to our planes. I just don't think people in Nebraska are sitting around like, "Hey, we should go to Cairo or Egypt," and it happens to line up with this plane that comes in—literally comes in on the exact ..."
+
+**[00:11:04](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-10-47)**
+> "...gest trip—that's correct—from Cairo."
+
+**[00:11:30](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-11-30)**
+> "... and investment delegation to Cairo, Egypt."
+
+**[00:11:54](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-11-30)**
+> "You got this plane from Cairo, Egypt, and we're gonna pull this up and show you..."
+
+**[00:11:57](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-11-30)**
+> "...ow what? Let's plan a trip to Cairo and see if we can make some money with them.""
+
+**[00:13:06](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-12-57)**
+> "...d like, "Hey, we should go to Cairo or Egypt," and it happens to line up with this pl..."
+
+</details>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (6 mentions)</summary>
+
+**[00:16:53](/episodes/ep-sImMM04XdWY.md#ent-gpe-cairo-t-00-16-53)**
+> "...quests, but this one's happening quickly. This is really interesting because BTT then comes in from Cairo through Paris and lands in Omaha, Nebraska, and it's the longest stay actually that they have in Wi..."
+
+**[00:18:18](/episodes/ep-sImMM04XdWY.md#ent-gpe-cairo-t-00-18-13)**
+> "...e were so surprised when we got this. Yeah, they depart on the 26th from Wilmington heading back to Cairo. They released it in that period of time that they're suing me. On July 27th, I'm showing you this ..."
+
+**[00:20:40](/episodes/ep-sImMM04XdWY.md#ent-gpe-cairo-t-00-20-22)**
+> "...s through to Wilmington, and it stays one night on August 23rd in Wilmington before heading back to Cairo. On September 3rd, Brigitte Macron is basically opening up Paris Design Week, and she's photographe..."
+
+**[00:16:53](/episodes/ep-sImMM04XdWY.md#ent-gpe-cairo-t-00-16-53)**
+> "...ecause BTT then comes in from Cairo through Paris and lands in Omaha, Nebraska, and i..."
+
+**[00:18:18](/episodes/ep-sImMM04XdWY.md#ent-gpe-cairo-t-00-18-13)**
+> "...om Wilmington heading back to Cairo."
+
+**[00:20:40](/episodes/ep-sImMM04XdWY.md#ent-gpe-cairo-t-00-20-22)**
+> "...ington before heading back to Cairo."
+
+</details>
+
+<details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (5 mentions)</summary>
 
 **[00:19:26](/episodes/ep-SKGUzGHymcI.md#ent-gpe-cairo-t-00-19-26)**
@@ -108,23 +194,6 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (4 mentions)</summary>
-
-**[00:18:36](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-cairo-t-00-18-23)**
-> "...ys, then it departs Nebraska—our yellow planes—and it heads to Wilmington, and then it goes back to Cairo. We then know that in this same time frame-ish is when Charlie (Charlie Kirk) vacations up to Maine..."
-
-**[00:25:29](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-cairo-t-00-25-29)**
-> "...he gets assassinated. And that also happens to be the same day that that Operation Bright Star—that Cairo joint operation—formally ends. Okay. So that timeline makes me uncomfortable. Okay. It makes me ver..."
-
-**[00:18:36](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-cairo-t-00-18-23)**
-> "...ton, and then it goes back to Cairo."
-
-**[00:25:29](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-cairo-t-00-25-29)**
-> "...at Operation Bright Star—that Cairo joint operation—formally ends."
-
-</details>
-
-<details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (6 mentions)</summary>
 
 **[00:16:07](/episodes/ep-iHav0PPzUz8.md#ent-gpe-cairo-t-00-15-42)**
@@ -144,75 +213,6 @@ _Type: Places_
 
 **[00:19:07](/episodes/ep-iHav0PPzUz8.md#ent-gpe-cairo-t-00-19-07)**
 > "...om September 4th—it went from Cairo to Paris to France to Minot, North Dakota."
-
-</details>
-
-<details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (10 mentions)</summary>
-
-**[00:11:04](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-10-47)**
-> "... foremost, July 20th, we talked about SUBTT, which came in for its longest trip—that's correct—from Cairo. It went through to Paris, and then it went to Omaha, Nebraska. I think yesterday I said that it st..."
-
-**[00:11:30](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-11-30)**
-> "...ate, Bob Evnen, announced that they were going to put together a trade and investment delegation to Cairo, Egypt. What are the odds? You got this plane from Cairo, Egypt, and we're gonna pull this up and s..."
-
-**[00:11:54](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-11-30)**
-> "...ether a trade and investment delegation to Cairo, Egypt. What are the odds? You got this plane from Cairo, Egypt, and we're gonna pull this up and show you. And suddenly, you got this guy, Bob Evnen, and h..."
-
-**[00:11:57](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-11-30)**
-> "...w you. And suddenly, you got this guy, Bob Evnen, and he says, "You know what? Let's plan a trip to Cairo and see if we can make some money with them." I'm gonna let you listen to—I think we have a news cl..."
-
-**[00:13:06](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-12-57)**
-> "...to our planes. I just don't think people in Nebraska are sitting around like, "Hey, we should go to Cairo or Egypt," and it happens to line up with this plane that comes in—literally comes in on the exact ..."
-
-**[00:11:04](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-10-47)**
-> "...gest trip—that's correct—from Cairo."
-
-**[00:11:30](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-11-30)**
-> "... and investment delegation to Cairo, Egypt."
-
-**[00:11:54](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-11-30)**
-> "You got this plane from Cairo, Egypt, and we're gonna pull this up and show you..."
-
-**[00:11:57](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-11-30)**
-> "...ow what? Let's plan a trip to Cairo and see if we can make some money with them.""
-
-**[00:13:06](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-12-57)**
-> "...d like, "Hey, we should go to Cairo or Egypt," and it happens to line up with this pl..."
-
-</details>
-
-<details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (6 mentions)</summary>
-
-**[00:16:53](/episodes/ep-sImMM04XdWY.md#ent-gpe-cairo-t-00-16-53)**
-> "...quests, but this one's happening quickly. This is really interesting because BTT then comes in from Cairo through Paris and lands in Omaha, Nebraska, and it's the longest stay actually that they have in Wi..."
-
-**[00:18:18](/episodes/ep-sImMM04XdWY.md#ent-gpe-cairo-t-00-18-13)**
-> "...e were so surprised when we got this. Yeah, they depart on the 26th from Wilmington heading back to Cairo. They released it in that period of time that they're suing me. On July 27th, I'm showing you this ..."
-
-**[00:20:40](/episodes/ep-sImMM04XdWY.md#ent-gpe-cairo-t-00-20-22)**
-> "...s through to Wilmington, and it stays one night on August 23rd in Wilmington before heading back to Cairo. On September 3rd, Brigitte Macron is basically opening up Paris Design Week, and she's photographe..."
-
-**[00:16:53](/episodes/ep-sImMM04XdWY.md#ent-gpe-cairo-t-00-16-53)**
-> "...ecause BTT then comes in from Cairo through Paris and lands in Omaha, Nebraska, and i..."
-
-**[00:18:18](/episodes/ep-sImMM04XdWY.md#ent-gpe-cairo-t-00-18-13)**
-> "...om Wilmington heading back to Cairo."
-
-**[00:20:40](/episodes/ep-sImMM04XdWY.md#ent-gpe-cairo-t-00-20-22)**
-> "...ington before heading back to Cairo."
-
-</details>
-
-<details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
-
-**[00:22:00](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-cairo-t-00-21-46)**
-> "...harlie (Charlie Kirk) was shot. And that was known as Operation Bright Star, and that took place in Cairo, Egypt. Now, it is a biannual joint military operation. It's co-hosted by the United States and Egy..."
-
-**[00:22:00](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-cairo-t-00-21-46)**
-> "... Star, and that took place in Cairo, Egypt."
 
 </details>
 

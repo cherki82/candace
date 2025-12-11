@@ -13,17 +13,6 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
-
-**[00:23:56](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-florida-t-00-23-56)**
-> "...k at someone like—let's take Matt Gaetz. Okay." Matt Gaetz was a former Republican congressman from Florida. Now he hosts a show on One America News. Matt Gaetz and I were very friendly for a while. He had m..."
-
-**[00:23:56](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-florida-t-00-23-56)**
-> "...r Republican congressman from Florida."
-
-</details>
-
-<details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:16:25](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-florida-t-00-16-07)**
@@ -31,6 +20,31 @@ _Type: Places_
 
 **[00:16:25](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-florida-t-00-16-07)**
 > "...hey lived in Fort Lauderdale, Florida, and attended a very large Calvary Chapel church ..."
+
+</details>
+
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (3 mentions)</summary>
+
+**[00:19:12](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-florida-t-00-18-59)**
+> "...means an exhaustive list, just to be clear, but I'm gonna just tell you like a few of these, right? Florida Calvary Chapel in Pompano Beach—the founder was a pastor named Rob Coy (not McCoy, to be clear), Ro..."
+
+**[00:19:12](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-florida-t-00-18-59)**
+> "Florida Calvary Chapel in Pompano Beach—the founder was a..."
+
+**[00:19:12](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-florida-t-00-18-59)**
+> "...d religious leader for one of Florida's biggest megachurches."
+
+</details>
+
+<details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (2 mentions)</summary>
+
+**[00:02:43](/episodes/ep-r1PS67aRmcA.md#ent-gpe-florida-t-00-02-10)**
+> "... that I enjoy watching. And last night he got on stage with Megyn Kelly, and she had a tour stop in Florida. And I wanna say, I was kind of impressed with Ben because instead of doing his usual thing where h..."
+
+**[00:02:43](/episodes/ep-r1PS67aRmcA.md#ent-gpe-florida-t-00-02-10)**
+> "...y, and she had a tour stop in Florida."
 
 </details>
 
@@ -57,13 +71,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>To My Friend, Charlie Kirk. (2 mentions)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
 
-**[00:01:46](/episodes/ep-_dRaEO47-co.md#ent-gpe-florida-t-00-01-20)**
-> "...d become—not could become, but would become. He hired me on the spot. We were at this conference in Florida. And he and I used to always say—we never said, “The rest was history.” “The rest is history.” We’d..."
+**[00:23:56](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-florida-t-00-23-56)**
+> "...k at someone like—let's take Matt Gaetz. Okay." Matt Gaetz was a former Republican congressman from Florida. Now he hosts a show on One America News. Matt Gaetz and I were very friendly for a while. He had m..."
 
-**[00:01:46](/episodes/ep-_dRaEO47-co.md#ent-gpe-florida-t-00-01-20)**
-> "We were at this conference in Florida."
+**[00:23:56](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-florida-t-00-23-56)**
+> "...r Republican congressman from Florida."
 
 </details>
 
@@ -79,27 +93,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (2 mentions)</summary>
+<summary>To My Friend, Charlie Kirk. (2 mentions)</summary>
 
-**[00:02:43](/episodes/ep-r1PS67aRmcA.md#ent-gpe-florida-t-00-02-10)**
-> "... that I enjoy watching. And last night he got on stage with Megyn Kelly, and she had a tour stop in Florida. And I wanna say, I was kind of impressed with Ben because instead of doing his usual thing where h..."
+**[00:01:46](/episodes/ep-_dRaEO47-co.md#ent-gpe-florida-t-00-01-20)**
+> "...d become—not could become, but would become. He hired me on the spot. We were at this conference in Florida. And he and I used to always say—we never said, “The rest was history.” “The rest is history.” We’d..."
 
-**[00:02:43](/episodes/ep-r1PS67aRmcA.md#ent-gpe-florida-t-00-02-10)**
-> "...y, and she had a tour stop in Florida."
-
-</details>
-
-<details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (3 mentions)</summary>
-
-**[00:19:12](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-florida-t-00-18-59)**
-> "...means an exhaustive list, just to be clear, but I'm gonna just tell you like a few of these, right? Florida Calvary Chapel in Pompano Beach—the founder was a pastor named Rob Coy (not McCoy, to be clear), Ro..."
-
-**[00:19:12](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-florida-t-00-18-59)**
-> "Florida Calvary Chapel in Pompano Beach—the founder was a..."
-
-**[00:19:12](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-florida-t-00-18-59)**
-> "...d religious leader for one of Florida's biggest megachurches."
+**[00:01:46](/episodes/ep-_dRaEO47-co.md#ent-gpe-florida-t-00-01-20)**
+> "We were at this conference in Florida."
 
 </details>
 

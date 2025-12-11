@@ -13,6 +13,85 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+
+**[00:51:21](/episodes/ep-tB5SXXmd9vU.md#ent-org-instagram-t-00-50-56)**
+> "... Adam's name. I think he called him Sam in the email. I should actually pull it and I'll post it on Instagram—didn't even know—threw Adam's and PBD's entire team under the bus in three seconds, and said, I jus..."
+
+**[00:51:21](/episodes/ep-tB5SXXmd9vU.md#ent-org-instagram-t-00-50-56)**
+> "...y pull it and I'll post it on Instagram—didn't even know—threw Adam's"
+
+</details>
+
+<details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
+
+**[00:12:46](/episodes/ep-7RLtGgkTh9o.md#ent-org-instagram-t-00-12-38)**
+> "...l again—suddenly involved in that part that she's mentioning about the tithing. Since I put onto my Instagram stories that—what is this? You're telling me that this woman Lou Taylor also was involved in the Ca..."
+
+**[00:12:46](/episodes/ep-7RLtGgkTh9o.md#ent-org-instagram-t-00-12-38)**
+> "Since I put onto my Instagram stories that—what is this?"
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (6 mentions)</summary>
+
+**[00:11:21](/episodes/ep-Qfwr08Ebczo.md#ent-org-instagram-t-00-11-21)**
+> "...vacation: her and Mikey went on vacation with Erika and Charlie (Charlie Kirk). Here's that post on Instagram. That second paragraph begins, "We spent a few weeks together this summer, our first family trip to..."
+
+**[00:12:22](/episodes/ep-Qfwr08Ebczo.md#ent-org-instagram-t-00-12-03)**
+> "...I have a big family, and people with families know. And you can go through Charlie (Charlie Kirk)'s Instagram as I have done. There's always one person missing from intimate family moments when they're on the ..."
+
+**[00:12:50](/episodes/ep-Qfwr08Ebczo.md#ent-org-instagram-t-00-12-45)**
+> "... you capture a picture. That is the pattern. If you go through Erika [and] Charlie (Charlie Kirk)'s Instagram, Charlie (Charlie Kirk)'s missing or Erika's missing. And that's because they're filming each other..."
+
+**[00:11:21](/episodes/ep-Qfwr08Ebczo.md#ent-org-instagram-t-00-11-21)**
+> "Here's that post on Instagram. That second paragraph begins, "We spent a few we..."
+
+**[00:12:22](/episodes/ep-Qfwr08Ebczo.md#ent-org-instagram-t-00-12-03)**
+> "...can go through Charlie Kirk's Instagram as I have done."
+
+**[00:12:50](/episodes/ep-Qfwr08Ebczo.md#ent-org-instagram-t-00-12-45)**
+> "...gh Erika [and] Charlie Kirk's Instagram,"
+
+</details>
+
+<details>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (4 mentions)</summary>
+
+**[00:21:30](/episodes/ep-YFmRH8p5lt0.md#ent-org-instagram-t-00-21-11)**
+> "...to make events happen. They did not have a Lincoln-specific Nebraska chapter according to their own Instagram—as you can see—until February 11th. This is a chapter Instagram. I should be clear. This is the UNL..."
+
+**[00:21:35](/episodes/ep-YFmRH8p5lt0.md#ent-org-instagram-t-00-21-11)**
+> "...aska chapter according to their own Instagram—as you can see—until February 11th. This is a chapter Instagram. I should be clear. This is the UNL—University of Nebraska, Lincoln. And they're saying it's gonna ..."
+
+**[00:21:30](/episodes/ep-YFmRH8p5lt0.md#ent-org-instagram-t-00-21-11)**
+> "according to their own Instagram—as you can see—until February 11th."
+
+**[00:21:35](/episodes/ep-YFmRH8p5lt0.md#ent-org-instagram-t-00-21-11)**
+> "This is a chapter Instagram. I should be clear."
+
+</details>
+
+<details>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (4 mentions)</summary>
+
+**[00:39:44](/episodes/ep-pc3pxRyNFZk.md#ent-org-instagram-t-00-39-25)**
+> "...at Kash Patel (Kash Patel) told us is different from what Derek Maxfield told us. Derek Maxfield on Instagram clarified that the Air Traffic Control Center was in agreement with them that they could stop trans..."
+
+**[00:58:45](/episodes/ep-pc3pxRyNFZk.md#ent-org-instagram-t-00-58-45)**
+> "...eal people, so they—they dominate on X. Not so much on Facebook. There's a bit more real people. On Instagram, there's more real people, but they do have bot farms there too. Radical Rat writes—thank you very ..."
+
+**[00:39:44](/episodes/ep-pc3pxRyNFZk.md#ent-org-instagram-t-00-39-25)**
+> "Derek Maxfield on Instagram clarified that the Air Traffic Control Center was..."
+
+**[00:58:45](/episodes/ep-pc3pxRyNFZk.md#ent-org-instagram-t-00-58-45)**
+> "...'s a bit more real people. On Instagram, there's more real people, but they do have bot f..."
+
+</details>
+
+<details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
 
 **[01:14:45](/episodes/ep-2Riv3I7D0Yk.md#ent-org-instagram-t-01-14-20)**
@@ -41,56 +120,50 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
+<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (4 mentions)</summary>
 
-**[00:12:46](/episodes/ep-7RLtGgkTh9o.md#ent-org-instagram-t-00-12-38)**
-> "...l again—suddenly involved in that part that she's mentioning about the tithing. Since I put onto my Instagram stories that—what is this? You're telling me that this woman Lou Taylor also was involved in the Ca..."
+**[00:00:34](/episodes/ep-ozWJz2spBcI.md#ent-org-instagram-t-00-00-00)**
+> "...binge. I don't recommend it, which was then highlighted by Alex Clark, who has a show over there on Instagram. And I think it's therefore fair for us to turn our attention back to them. So welcome back to Cand..."
 
-**[00:12:46](/episodes/ep-7RLtGgkTh9o.md#ent-org-instagram-t-00-12-38)**
-> "Since I put onto my Instagram stories that—what is this?"
+**[00:13:31](/episodes/ep-ozWJz2spBcI.md#ent-org-instagram-t-00-13-01)**
+> "...t? I'm going to jog your memory here. Here is what Pastor Rob McCoy (Pastor Rob McCoy) wrote on his Instagram after I exposed the now infamous Hamptons meeting which took place. (Pastor Rob McCoy clip:) He wro..."
 
-</details>
+**[00:00:34](/episodes/ep-ozWJz2spBcI.md#ent-org-instagram-t-00-00-00)**
+> "... who has a show over there on Instagram."
 
-<details>
-<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (5 mentions)</summary>
-
-**[00:06:33](/episodes/ep-K5GjF53bfN4.md#ent-org-instagram-t-00-06-27)**
-> "...h, then why was the meeting so secretive? SPEAKER_2 (Xavier DeRusso): The photos were already on my Instagram. SPEAKER_2 (Xavier DeRusso): The reason we didn't post that in the real time was because of safety...."
-
-**[00:43:15](/episodes/ep-K5GjF53bfN4.md#ent-org-instagram-t-00-42-54)**
-> "... "Have you seen this video or YouTube, whatever," that's best reserved for, like, commenting on our Instagram and our social media pages; we'll see it there. The tips line we want to keep for actual tips relat..."
-
-**[00:05:39](/episodes/ep-K5GjF53bfN4.md#ent-org-instagram-t-00-05-39)**
-> "The photos were already on my Instagram."
-
-**[00:06:33](/episodes/ep-K5GjF53bfN4.md#ent-org-instagram-t-00-06-27)**
-> "...The photos were already on my Instagram."
-
-**[00:43:15](/episodes/ep-K5GjF53bfN4.md#ent-org-instagram-t-00-42-54)**
-> "... for, like, commenting on our Instagram and our social media pages; we'll see it there."
+**[00:13:31](/episodes/ep-ozWJz2spBcI.md#ent-org-instagram-t-00-13-01)**
+> "...astor Rob McCoy) wrote on his Instagram after I exposed the now infamous Hamptons meeting..."
 
 </details>
 
 <details>
-<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (6 mentions)</summary>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (4 mentions)</summary>
 
-**[00:11:21](/episodes/ep-Qfwr08Ebczo.md#ent-org-instagram-t-00-11-21)**
-> "...vacation: her and Mikey went on vacation with Erika and Charlie (Charlie Kirk). Here's that post on Instagram. That second paragraph begins, "We spent a few weeks together this summer, our first family trip to..."
+**[00:24:08](/episodes/ep-t1YtLS1n8Vs.md#ent-org-instagram-t-00-24-03)**
+> "..., we learned, was a software engineer from Austria. So Austria, Germany, okay. Featured in Shaner’s Instagram. And that guy Scott Robbins that you saw looking like a college kid. Well, he was also a gubernator..."
 
-**[00:12:22](/episodes/ep-Qfwr08Ebczo.md#ent-org-instagram-t-00-12-03)**
-> "...I have a big family, and people with families know. And you can go through Charlie (Charlie Kirk)'s Instagram as I have done. There's always one person missing from intimate family moments when they're on the ..."
+**[00:42:26](/episodes/ep-t1YtLS1n8Vs.md#ent-org-instagram-t-00-42-09)**
+> "...guys, comment that I wanna read from YouTube yesterday. It made me so happy. I also shared it on my Instagram, a little encouragement regarding homeschooling, because that is what I am pushing for. This user w..."
 
-**[00:12:50](/episodes/ep-Qfwr08Ebczo.md#ent-org-instagram-t-00-12-45)**
-> "... you capture a picture. That is the pattern. If you go through Erika [and] Charlie (Charlie Kirk)'s Instagram, Charlie (Charlie Kirk)'s missing or Erika's missing. And that's because they're filming each other..."
+**[00:24:08](/episodes/ep-t1YtLS1n8Vs.md#ent-org-instagram-t-00-24-03)**
+> "Featured in Shaner’s Instagram."
 
-**[00:11:21](/episodes/ep-Qfwr08Ebczo.md#ent-org-instagram-t-00-11-21)**
-> "Here's that post on Instagram. That second paragraph begins, "We spent a few we..."
+**[00:42:26](/episodes/ep-t1YtLS1n8Vs.md#ent-org-instagram-t-00-42-09)**
+> "I also shared it on my Instagram, a little encouragement regarding homeschooling, ..."
 
-**[00:12:22](/episodes/ep-Qfwr08Ebczo.md#ent-org-instagram-t-00-12-03)**
-> "...can go through Charlie Kirk's Instagram as I have done."
+</details>
 
-**[00:12:50](/episodes/ep-Qfwr08Ebczo.md#ent-org-instagram-t-00-12-45)**
-> "...gh Erika [and] Charlie Kirk's Instagram,"
+<details>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (3 mentions)</summary>
+
+**[00:07:56](/episodes/ep-adJ4LNGp84I.md#ent-org-instagram-t-00-07-42)**
+> "...ach other. And Skyler Broderick has, of course, mysteriously deleted all of his socials, except for Instagram, but he's wiped his Instagram, okay? Just deleted his Facebook and just outright deleted his Linked..."
+
+**[00:07:56](/episodes/ep-adJ4LNGp84I.md#ent-org-instagram-t-00-07-42)**
+> "...ll of his socials, except for Instagram, but he's wiped his Instagram, okay?"
+
+**[00:07:56](/episodes/ep-adJ4LNGp84I.md#ent-org-instagram-t-00-07-42)**
+> "...Instagram, but he's wiped his Instagram, okay?"
 
 </details>
 
@@ -108,23 +181,6 @@ _Type: Organizations_
 
 **[00:07:42](/episodes/ep-YA1FxrDWNIo.md#ent-org-instagram-t-00-07-38)**
 > "And regarding his Instagram, he's privatized it, but he privatized it and the..."
-
-</details>
-
-<details>
-<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (4 mentions)</summary>
-
-**[00:21:30](/episodes/ep-YFmRH8p5lt0.md#ent-org-instagram-t-00-21-11)**
-> "...to make events happen. They did not have a Lincoln-specific Nebraska chapter according to their own Instagram—as you can see—until February 11th. This is a chapter Instagram. I should be clear. This is the UNL..."
-
-**[00:21:35](/episodes/ep-YFmRH8p5lt0.md#ent-org-instagram-t-00-21-11)**
-> "...aska chapter according to their own Instagram—as you can see—until February 11th. This is a chapter Instagram. I should be clear. This is the UNL—University of Nebraska, Lincoln. And they're saying it's gonna ..."
-
-**[00:21:30](/episodes/ep-YFmRH8p5lt0.md#ent-org-instagram-t-00-21-11)**
-> "according to their own Instagram—as you can see—until February 11th."
-
-**[00:21:35](/episodes/ep-YFmRH8p5lt0.md#ent-org-instagram-t-00-21-11)**
-> "This is a chapter Instagram. I should be clear."
 
 </details>
 
@@ -173,13 +229,33 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>To My Friend, Charlie Kirk. (2 mentions)</summary>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (5 mentions)</summary>
 
-**[00:05:20](/episodes/ep-_dRaEO47-co.md#ent-org-instagram-t-00-04-56)**
-> "...t messages yesterday, and I'm like, “Charlie (Charlie Kirk), my goal is to have 50,000 followers on Instagram. I think we can do it by the end of the year.” And after he hired me, he had been working already r..."
+**[00:06:33](/episodes/ep-K5GjF53bfN4.md#ent-org-instagram-t-00-06-27)**
+> "...h, then why was the meeting so secretive? SPEAKER_2 (Xavier DeRusso): The photos were already on my Instagram. SPEAKER_2 (Xavier DeRusso): The reason we didn't post that in the real time was because of safety...."
 
-**[00:05:20](/episodes/ep-_dRaEO47-co.md#ent-org-instagram-t-00-04-56)**
-> "...s to have 50,000 followers on Instagram."
+**[00:43:15](/episodes/ep-K5GjF53bfN4.md#ent-org-instagram-t-00-42-54)**
+> "... "Have you seen this video or YouTube, whatever," that's best reserved for, like, commenting on our Instagram and our social media pages; we'll see it there. The tips line we want to keep for actual tips relat..."
+
+**[00:05:39](/episodes/ep-K5GjF53bfN4.md#ent-org-instagram-t-00-05-39)**
+> "The photos were already on my Instagram."
+
+**[00:06:33](/episodes/ep-K5GjF53bfN4.md#ent-org-instagram-t-00-06-27)**
+> "...The photos were already on my Instagram."
+
+**[00:43:15](/episodes/ep-K5GjF53bfN4.md#ent-org-instagram-t-00-42-54)**
+> "... for, like, commenting on our Instagram and our social media pages; we'll see it there."
+
+</details>
+
+<details>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2 mentions)</summary>
+
+**[00:17:13](/episodes/ep-ja26iltROkM.md#ent-org-instagram-t-00-17-09)**
+> "...hat the plane owner themselves—he identified himself, Derek Maxfield—and issued a long statement on Instagram where he said that they got permission to—you know—turn off services, which are transponder service..."
+
+**[00:17:13](/episodes/ep-ja26iltROkM.md#ent-org-instagram-t-00-17-09)**
+> "...nd issued a long statement on Instagram where he said that they got permission to—you kno..."
 
 </details>
 
@@ -201,65 +277,6 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (3 mentions)</summary>
-
-**[00:07:56](/episodes/ep-adJ4LNGp84I.md#ent-org-instagram-t-00-07-42)**
-> "...ach other. And Skyler Broderick has, of course, mysteriously deleted all of his socials, except for Instagram, but he's wiped his Instagram, okay? Just deleted his Facebook and just outright deleted his Linked..."
-
-**[00:07:56](/episodes/ep-adJ4LNGp84I.md#ent-org-instagram-t-00-07-42)**
-> "...ll of his socials, except for Instagram, but he's wiped his Instagram, okay?"
-
-**[00:07:56](/episodes/ep-adJ4LNGp84I.md#ent-org-instagram-t-00-07-42)**
-> "...Instagram, but he's wiped his Instagram, okay?"
-
-</details>
-
-<details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2 mentions)</summary>
-
-**[00:17:13](/episodes/ep-ja26iltROkM.md#ent-org-instagram-t-00-17-09)**
-> "...hat the plane owner themselves—he identified himself, Derek Maxfield—and issued a long statement on Instagram where he said that they got permission to—you know—turn off services, which are transponder service..."
-
-**[00:17:13](/episodes/ep-ja26iltROkM.md#ent-org-instagram-t-00-17-09)**
-> "...nd issued a long statement on Instagram where he said that they got permission to—you kno..."
-
-</details>
-
-<details>
-<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (4 mentions)</summary>
-
-**[00:00:34](/episodes/ep-ozWJz2spBcI.md#ent-org-instagram-t-00-00-00)**
-> "...binge. I don't recommend it, which was then highlighted by Alex Clark, who has a show over there on Instagram. And I think it's therefore fair for us to turn our attention back to them. So welcome back to Cand..."
-
-**[00:13:31](/episodes/ep-ozWJz2spBcI.md#ent-org-instagram-t-00-13-01)**
-> "...t? I'm going to jog your memory here. Here is what Pastor Rob McCoy (Pastor Rob McCoy) wrote on his Instagram after I exposed the now infamous Hamptons meeting which took place. (Pastor Rob McCoy clip:) He wro..."
-
-**[00:00:34](/episodes/ep-ozWJz2spBcI.md#ent-org-instagram-t-00-00-00)**
-> "... who has a show over there on Instagram."
-
-**[00:13:31](/episodes/ep-ozWJz2spBcI.md#ent-org-instagram-t-00-13-01)**
-> "...astor Rob McCoy) wrote on his Instagram after I exposed the now infamous Hamptons meeting..."
-
-</details>
-
-<details>
-<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (4 mentions)</summary>
-
-**[00:39:44](/episodes/ep-pc3pxRyNFZk.md#ent-org-instagram-t-00-39-25)**
-> "...at Kash Patel (Kash Patel) told us is different from what Derek Maxfield told us. Derek Maxfield on Instagram clarified that the Air Traffic Control Center was in agreement with them that they could stop trans..."
-
-**[00:58:45](/episodes/ep-pc3pxRyNFZk.md#ent-org-instagram-t-00-58-45)**
-> "...eal people, so they—they dominate on X. Not so much on Facebook. There's a bit more real people. On Instagram, there's more real people, but they do have bot farms there too. Radical Rat writes—thank you very ..."
-
-**[00:39:44](/episodes/ep-pc3pxRyNFZk.md#ent-org-instagram-t-00-39-25)**
-> "Derek Maxfield on Instagram clarified that the Air Traffic Control Center was..."
-
-**[00:58:45](/episodes/ep-pc3pxRyNFZk.md#ent-org-instagram-t-00-58-45)**
-> "...'s a bit more real people. On Instagram, there's more real people, but they do have bot f..."
-
-</details>
-
-<details>
 <summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (4 mentions)</summary>
 
 **[00:01:39](/episodes/ep-sreYYcID-QY.md#ent-org-instagram-t-00-01-20)**
@@ -277,30 +294,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (4 mentions)</summary>
+<summary>To My Friend, Charlie Kirk. (2 mentions)</summary>
 
-**[00:24:08](/episodes/ep-t1YtLS1n8Vs.md#ent-org-instagram-t-00-24-03)**
-> "..., we learned, was a software engineer from Austria. So Austria, Germany, okay. Featured in Shaner’s Instagram. And that guy Scott Robbins that you saw looking like a college kid. Well, he was also a gubernator..."
+**[00:05:20](/episodes/ep-_dRaEO47-co.md#ent-org-instagram-t-00-04-56)**
+> "...t messages yesterday, and I'm like, “Charlie (Charlie Kirk), my goal is to have 50,000 followers on Instagram. I think we can do it by the end of the year.” And after he hired me, he had been working already r..."
 
-**[00:42:26](/episodes/ep-t1YtLS1n8Vs.md#ent-org-instagram-t-00-42-09)**
-> "...guys, comment that I wanna read from YouTube yesterday. It made me so happy. I also shared it on my Instagram, a little encouragement regarding homeschooling, because that is what I am pushing for. This user w..."
-
-**[00:24:08](/episodes/ep-t1YtLS1n8Vs.md#ent-org-instagram-t-00-24-03)**
-> "Featured in Shaner’s Instagram."
-
-**[00:42:26](/episodes/ep-t1YtLS1n8Vs.md#ent-org-instagram-t-00-42-09)**
-> "I also shared it on my Instagram, a little encouragement regarding homeschooling, ..."
-
-</details>
-
-<details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
-
-**[00:51:21](/episodes/ep-tB5SXXmd9vU.md#ent-org-instagram-t-00-50-56)**
-> "... Adam's name. I think he called him Sam in the email. I should actually pull it and I'll post it on Instagram—didn't even know—threw Adam's and PBD's entire team under the bus in three seconds, and said, I jus..."
-
-**[00:51:21](/episodes/ep-tB5SXXmd9vU.md#ent-org-instagram-t-00-50-56)**
-> "...y pull it and I'll post it on Instagram—didn't even know—threw Adam's"
+**[00:05:20](/episodes/ep-_dRaEO47-co.md#ent-org-instagram-t-00-04-56)**
+> "...s to have 50,000 followers on Instagram."
 
 </details>
 

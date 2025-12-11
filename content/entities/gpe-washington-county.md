@@ -13,19 +13,31 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (4 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (8 mentions)</summary>
 
-**[00:28:04](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-washington-county-t-00-28-30)**
-> "... September 11th, a family member of Tyler Robinson reached out to a family friend who contacted the Washington County Sheriff's Office with information that Robinson had confessed to them or implied that he had commit..."
+**[00:40:42](/episodes/ep-sImMM04XdWY.md#ent-gpe-washington-county-t-00-40-42)**
+> "...ark. Take a listen to KUER TV News Investigating. (Clip from KUER TV News) On September 17th, 2025, Washington County Sheriff Nate Brooksby held a press conference. "Our job was not to interview; our job was just to g..."
 
-**[00:28:50](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-washington-county-t-00-28-30)**
-> "...lack hat with a white logo, and light-colored shoes. When encountered in person by investigators in Washington County on September 12th in the early morning hours, Robinson was observed in consistent clothing with tho..."
+**[00:40:58](/episodes/ep-sImMM04XdWY.md#ent-gpe-washington-county-t-00-40-42)**
+> "...was just to get him here." After Charlie (Charlie Kirk)'s alleged shooter was taken into custody in Washington County less than two days after the shooting— "Within the hour, my friend drove Tyler and his parents to m..."
 
-**[00:28:04](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-washington-county-t-00-28-30)**
-> "...mily friend who contacted the Washington County Sheriff's Office with information that Robinson h..."
+**[00:41:05](/episodes/ep-sImMM04XdWY.md#ent-gpe-washington-county-t-00-40-42)**
+> "...tted a public records request to obtain any video of Tyler Robinson walking into the jail facility. Washington County responded saying there were no records responsive to the request as Robinson did not go to the jail..."
 
-**[00:28:50](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-washington-county-t-00-28-30)**
-> "...in person by investigators in Washington County on September 12th in the early morning hours, Rob..."
+**[00:42:04](/episodes/ep-sImMM04XdWY.md#ent-gpe-washington-county-t-00-42-04)**
+> "...it's not clear if the video exists and was just handed over to another agency, in a response to me, Washington County shared with me they don't believe the video was shared with anyone involved in the case. Wanting to..."
+
+**[00:40:42](/episodes/ep-sImMM04XdWY.md#ent-gpe-washington-county-t-00-40-42)**
+> "On September 17th, 2025, Washington County Sheriff Nate Brooksby held a press conference."
+
+**[00:40:58](/episodes/ep-sImMM04XdWY.md#ent-gpe-washington-county-t-00-40-42)**
+> "...ter was taken into custody in Washington County less than two days after the shooting—"
+
+**[00:41:05](/episodes/ep-sImMM04XdWY.md#ent-gpe-washington-county-t-00-40-42)**
+> "Washington County responded saying there were no records responsive..."
+
+**[00:42:04](/episodes/ep-sImMM04XdWY.md#ent-gpe-washington-county-t-00-42-04)**
+> "... agency, in a response to me, Washington County shared with me they don't believe the video was s..."
 
 </details>
 
@@ -59,6 +71,23 @@ _Type: Places_
 </details>
 
 <details>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (4 mentions)</summary>
+
+**[00:28:04](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-washington-county-t-00-28-30)**
+> "... September 11th, a family member of Tyler Robinson reached out to a family friend who contacted the Washington County Sheriff's Office with information that Robinson had confessed to them or implied that he had commit..."
+
+**[00:28:50](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-washington-county-t-00-28-30)**
+> "...lack hat with a white logo, and light-colored shoes. When encountered in person by investigators in Washington County on September 12th in the early morning hours, Robinson was observed in consistent clothing with tho..."
+
+**[00:28:04](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-washington-county-t-00-28-30)**
+> "...mily friend who contacted the Washington County Sheriff's Office with information that Robinson h..."
+
+**[00:28:50](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-washington-county-t-00-28-30)**
+> "...in person by investigators in Washington County on September 12th in the early morning hours, Rob..."
+
+</details>
+
+<details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (4 mentions)</summary>
 
 **[00:07:05](/episodes/ep-q7f8r-THr84.md#t-00-06-59)**
@@ -72,35 +101,6 @@ _Type: Places_
 
 **[00:13:25](/episodes/ep-q7f8r-THr84.md#t-00-13-25)**
 > "...obinson then walked in to the Washington County Sheriff's Office and he is accompanied by his par..."
-
-</details>
-
-<details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (8 mentions)</summary>
-
-**[00:40:42](/episodes/ep-sImMM04XdWY.md#ent-gpe-washington-county-t-00-40-42)**
-> "...ark. Take a listen to KUER TV News Investigating. (Clip from KUER TV News) On September 17th, 2025, Washington County Sheriff Nate Brooksby held a press conference. "Our job was not to interview; our job was just to g..."
-
-**[00:40:58](/episodes/ep-sImMM04XdWY.md#ent-gpe-washington-county-t-00-40-42)**
-> "...was just to get him here." After Charlie (Charlie Kirk)'s alleged shooter was taken into custody in Washington County less than two days after the shooting— "Within the hour, my friend drove Tyler and his parents to m..."
-
-**[00:41:05](/episodes/ep-sImMM04XdWY.md#ent-gpe-washington-county-t-00-40-42)**
-> "...tted a public records request to obtain any video of Tyler Robinson walking into the jail facility. Washington County responded saying there were no records responsive to the request as Robinson did not go to the jail..."
-
-**[00:42:04](/episodes/ep-sImMM04XdWY.md#ent-gpe-washington-county-t-00-42-04)**
-> "...it's not clear if the video exists and was just handed over to another agency, in a response to me, Washington County shared with me they don't believe the video was shared with anyone involved in the case. Wanting to..."
-
-**[00:40:42](/episodes/ep-sImMM04XdWY.md#ent-gpe-washington-county-t-00-40-42)**
-> "On September 17th, 2025, Washington County Sheriff Nate Brooksby held a press conference."
-
-**[00:40:58](/episodes/ep-sImMM04XdWY.md#ent-gpe-washington-county-t-00-40-42)**
-> "...ter was taken into custody in Washington County less than two days after the shooting—"
-
-**[00:41:05](/episodes/ep-sImMM04XdWY.md#ent-gpe-washington-county-t-00-40-42)**
-> "Washington County responded saying there were no records responsive..."
-
-**[00:42:04](/episodes/ep-sImMM04XdWY.md#ent-gpe-washington-county-t-00-42-04)**
-> "... agency, in a response to me, Washington County shared with me they don't believe the video was s..."
 
 </details>
 

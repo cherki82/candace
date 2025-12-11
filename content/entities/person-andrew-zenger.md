@@ -13,6 +13,17 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
+
+**[00:05:34](/episodes/ep-adJ4LNGp84I.md#ent-person-andrew-zenger-t-00-05-34)**
+> "...but that's the circumstance. Also, I told you there was a new CEO and therefore a new lead surgeon, Andrew Zenger, over at the hospital, the regional hospital that Charlie (Charlie Kirk) was taken to, although tha..."
+
+**[00:05:34](/episodes/ep-adJ4LNGp84I.md#ent-person-andrew-zenger-t-00-05-34)**
+> "...therefore a new lead surgeon, Andrew Zenger, over at the hospital, the regional hospital that..."
+
+</details>
+
+<details>
 <summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (4 mentions)</summary>
 
 **[00:30:55](/episodes/ep-YA1FxrDWNIo.md#ent-person-andrew-zenger-t-00-30-44)**
@@ -26,17 +37,6 @@ _Type: People_
 
 **[00:31:28](/episodes/ep-YA1FxrDWNIo.md#ent-person-andrew-zenger-t-00-31-28)**
 > "...nounced on that same day that Andrew Zenger was announced as a new CEO."
-
-</details>
-
-<details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
-
-**[00:05:34](/episodes/ep-adJ4LNGp84I.md#ent-person-andrew-zenger-t-00-05-34)**
-> "...but that's the circumstance. Also, I told you there was a new CEO and therefore a new lead surgeon, Andrew Zenger, over at the hospital, the regional hospital that Charlie (Charlie Kirk) was taken to, although tha..."
-
-**[00:05:34](/episodes/ep-adJ4LNGp84I.md#ent-person-andrew-zenger-t-00-05-34)**
-> "...therefore a new lead surgeon, Andrew Zenger, over at the hospital, the regional hospital that..."
 
 </details>
 

@@ -13,6 +13,17 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
+
+**[00:21:20](/episodes/ep-t1YtLS1n8Vs.md#ent-org-newsnation-t-00-21-03)**
+> "...vernor in 2024. He featured George Zinn on his website at that time, spoke to Alex Jones, Fox News, NewsNation, really anybody that would have him. Now we have Olivia Bishop; she works for the Orem Police, reco..."
+
+**[00:21:20](/episodes/ep-t1YtLS1n8Vs.md#ent-org-newsnation-t-00-21-03)**
+> "...poke to Alex Jones, Fox News, NewsNation, really anybody that would have him."
+
+</details>
+
+<details>
 <summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (8 mentions)</summary>
 
 **[00:12:48](/episodes/ep-YA1FxrDWNIo.md#ent-org-newsnation-t-00-12-14)**
@@ -38,17 +49,6 @@ _Type: Organizations_
 
 **[00:15:04](/episodes/ep-YA1FxrDWNIo.md#ent-org-newsnation-t-00-14-25)**
 > "[Clip: Phil Lyman on NewsNation] I walked up top."
-
-</details>
-
-<details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
-
-**[00:21:20](/episodes/ep-t1YtLS1n8Vs.md#ent-org-newsnation-t-00-21-03)**
-> "...vernor in 2024. He featured George Zinn on his website at that time, spoke to Alex Jones, Fox News, NewsNation, really anybody that would have him. Now we have Olivia Bishop; she works for the Orem Police, reco..."
-
-**[00:21:20](/episodes/ep-t1YtLS1n8Vs.md#ent-org-newsnation-t-00-21-03)**
-> "...poke to Alex Jones, Fox News, NewsNation, really anybody that would have him."
 
 </details>
 

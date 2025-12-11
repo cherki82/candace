@@ -17,17 +17,6 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>To My Friend, Charlie Kirk. (2 mentions)</summary>
-
-**[00:14:26](/episodes/ep-_dRaEO47-co.md#ent-org-ywls-t-00-14-11)**
-> "the YWLS conference"
-
-**[00:14:22](/episodes/ep-_dRaEO47-co.md#ent-org-ywls-t-00-14-11)**
-> "...n we had at the same time the YWLS conference."
-
-</details>
-
-<details>
 <summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (2 mentions)</summary>
 
 **[00:25:18](/episodes/ep-r1PS67aRmcA.md#ent-org-ywls-t-00-25-16)**
@@ -35,6 +24,17 @@ _Type: Organizations_
 
 **[00:25:57](/episodes/ep-r1PS67aRmcA.md#ent-org-ywls-t-00-25-57)**
 > "... out. (Clip: Candace Owens at YWLS)"
+
+</details>
+
+<details>
+<summary>To My Friend, Charlie Kirk. (2 mentions)</summary>
+
+**[00:14:26](/episodes/ep-_dRaEO47-co.md#ent-org-ywls-t-00-14-11)**
+> "the YWLS conference"
+
+**[00:14:22](/episodes/ep-_dRaEO47-co.md#ent-org-ywls-t-00-14-11)**
+> "...n we had at the same time the YWLS conference."
 
 </details>
 

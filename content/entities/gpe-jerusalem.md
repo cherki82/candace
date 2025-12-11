@@ -13,13 +13,28 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (7 mentions)</summary>
 
-**[00:05:02](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-jerusalem-t-00-04-50)**
-> "...vangelist. And it actually reminds me of my favorite story ever. So it was about 2,000 years ago in Jerusalem, and Jesus shows up and he starts talking about the people in power, and he starts doing the worst ..."
+**[00:25:28](/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-25-28)**
+> "...ike Huckabee and the former U.S. ambassador to Israel—which was David Friedman—took to the stage in Jerusalem to perform "Sweet Home Alabama." And by "Sweet Home Alabama," I mean "Sweet Home Jerusalem" in Hebr..."
 
-**[00:05:02](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-jerusalem-t-00-04-50)**
-> "... was about 2,000 years ago in Jerusalem, and Jesus shows up and he starts talking about t..."
+**[00:25:41](/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-25-28)**
+> "...stage in Jerusalem to perform "Sweet Home Alabama." And by "Sweet Home Alabama," I mean "Sweet Home Jerusalem" in Hebrew or something. Just watch it, and hey—challenge: no cringing. I'm starting to think that ..."
+
+**[00:43:28](/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-42-51)**
+> "...deny that. L of the Wanger writes: "I lost the cringe challenge." What? You didn't like "Sweet Home Jerusalem"? No? Weird. As Gadgets writes: "Thank you for all that you do. Keep going. Max." Thank you guys. L..."
+
+**[00:25:39](/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-25-28)**
+> "Mike Huckabee performed 'Sweet Home Jerusalem'"
+
+**[00:25:28](/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-25-28)**
+> "...Friedman—took to the stage in Jerusalem to perform"
+
+**[00:25:41](/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-25-28)**
+> "... Alabama," I mean "Sweet Home Jerusalem" in Hebrew or something."
+
+**[00:43:28](/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-42-51)**
+> "You didn't like "Sweet Home Jerusalem"?"
 
 </details>
 
@@ -34,6 +49,23 @@ _Type: Places_
 
 **[00:38:37](/episodes/ep-581dILVcEE4.md#ent-gpe-jerusalem-t-00-38-23)**
 > "...ica's Pastor Rob McCoy was in Jerusalem on November 16th, apparently."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (4 mentions)</summary>
+
+**[00:43:27](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-jerusalem-t-00-43-16)**
+> "...ing the topic, not acknowledging that what he's doing to the Palestinians is wrong. Having love for Jerusalem—that makes sense. Having love for and to be able to walk in Jerusalem and to see the relics—that al..."
+
+**[00:43:43](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-jerusalem-t-00-43-16)**
+> "...ans is wrong. Having love for Jerusalem—that makes sense. Having love for and to be able to walk in Jerusalem and to see the relics—that all makes sense to me. And I think I'm just more disgusted by people who..."
+
+**[00:43:27](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-jerusalem-t-00-43-16)**
+> "Having love for Jerusalem—that makes sense."
+
+**[00:43:43](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-jerusalem-t-00-43-16)**
+> "and to be able to walk in Jerusalem and to see the relics—that all makes sense to me."
 
 </details>
 
@@ -67,23 +99,6 @@ _Type: Places_
 </details>
 
 <details>
-<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (4 mentions)</summary>
-
-**[00:43:27](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-jerusalem-t-00-43-16)**
-> "...ing the topic, not acknowledging that what he's doing to the Palestinians is wrong. Having love for Jerusalem—that makes sense. Having love for and to be able to walk in Jerusalem and to see the relics—that al..."
-
-**[00:43:43](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-jerusalem-t-00-43-16)**
-> "...ans is wrong. Having love for Jerusalem—that makes sense. Having love for and to be able to walk in Jerusalem and to see the relics—that all makes sense to me. And I think I'm just more disgusted by people who..."
-
-**[00:43:27](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-jerusalem-t-00-43-16)**
-> "Having love for Jerusalem—that makes sense."
-
-**[00:43:43](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-jerusalem-t-00-43-16)**
-> "and to be able to walk in Jerusalem and to see the relics—that all makes sense to me."
-
-</details>
-
-<details>
 <summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
 
 **[00:08:53](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-jerusalem-t-00-08-14)**
@@ -95,28 +110,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (7 mentions)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
 
-**[00:25:28](/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-25-28)**
-> "...ike Huckabee and the former U.S. ambassador to Israel—which was David Friedman—took to the stage in Jerusalem to perform "Sweet Home Alabama." And by "Sweet Home Alabama," I mean "Sweet Home Jerusalem" in Hebr..."
+**[00:05:02](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-jerusalem-t-00-04-50)**
+> "...vangelist. And it actually reminds me of my favorite story ever. So it was about 2,000 years ago in Jerusalem, and Jesus shows up and he starts talking about the people in power, and he starts doing the worst ..."
 
-**[00:25:41](/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-25-28)**
-> "...stage in Jerusalem to perform "Sweet Home Alabama." And by "Sweet Home Alabama," I mean "Sweet Home Jerusalem" in Hebrew or something. Just watch it, and hey—challenge: no cringing. I'm starting to think that ..."
-
-**[00:43:28](/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-42-51)**
-> "...deny that. L of the Wanger writes: "I lost the cringe challenge." What? You didn't like "Sweet Home Jerusalem"? No? Weird. As Gadgets writes: "Thank you for all that you do. Keep going. Max." Thank you guys. L..."
-
-**[00:25:39](/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-25-28)**
-> "Mike Huckabee performed 'Sweet Home Jerusalem'"
-
-**[00:25:28](/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-25-28)**
-> "...Friedman—took to the stage in Jerusalem to perform"
-
-**[00:25:41](/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-25-28)**
-> "... Alabama," I mean "Sweet Home Jerusalem" in Hebrew or something."
-
-**[00:43:28](/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-42-51)**
-> "You didn't like "Sweet Home Jerusalem"?"
+**[00:05:02](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-jerusalem-t-00-04-50)**
+> "... was about 2,000 years ago in Jerusalem, and Jesus shows up and he starts talking about t..."
 
 </details>
 

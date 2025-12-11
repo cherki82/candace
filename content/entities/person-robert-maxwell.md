@@ -36,14 +36,6 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Affiliated With (1)</summary>
-
-- **[Mossad](/entities/org-mossad.md)**
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:29:10](/episodes/ep-czVBmqZP6Ss.md#t-00-28-54): "Robert Maxwell, who was obviously a spy of the Israeli intelligence agencies"
-
-</details>
-
-<details>
 <summary>Parent Of (1)</summary>
 
 - **[Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md)**
@@ -52,10 +44,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
-
-- **[Mossad](/entities/org-mossad.md)** affiliated with this
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:29:10](/episodes/ep-czVBmqZP6Ss.md#t-00-28-54)
+<summary>Referenced By (1)</summary>
 
 - **[Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md)** child of this
   - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:29:10](/episodes/ep-czVBmqZP6Ss.md#t-00-28-54)

@@ -13,6 +13,17 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
+
+**[00:49:38](/episodes/ep-iHav0PPzUz8.md#ent-org-newsweek-t-00-49-33)**
+> "... over us. You know what I mean? Like these are like Josh Hammer— is actually the editor at large at Newsweek. It's openly talking about his hostilities towards white men, right? Because he views Jewish people..."
+
+**[00:49:38](/episodes/ep-iHav0PPzUz8.md#ent-org-newsweek-t-00-49-33)**
+> "...tually the editor at large at Newsweek."
+
+</details>
+
+<details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (4 mentions)</summary>
 
 **[00:15:43](/episodes/ep-2Riv3I7D0Yk.md#ent-org-newsweek-t-00-15-07)**
@@ -26,17 +37,6 @@ _Type: Organizations_
 
 **[00:18:05](/episodes/ep-2Riv3I7D0Yk.md#ent-org-newsweek-t-00-18-01)**
 > "...eah, well, editor-at-large at Newsweek. What are you gonna do?"
-
-</details>
-
-<details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
-
-**[00:49:38](/episodes/ep-iHav0PPzUz8.md#ent-org-newsweek-t-00-49-33)**
-> "... over us. You know what I mean? Like these are like Josh Hammer— is actually the editor at large at Newsweek. It's openly talking about his hostilities towards white men, right? Because he views Jewish people..."
-
-**[00:49:38](/episodes/ep-iHav0PPzUz8.md#ent-org-newsweek-t-00-49-33)**
-> "...tually the editor at large at Newsweek."
 
 </details>
 

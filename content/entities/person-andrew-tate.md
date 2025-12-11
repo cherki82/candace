@@ -17,25 +17,6 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1 mentions)</summary>
-
-**[00:55:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-55-04)**
-> "She has sent out to the Tate brothers, Dave Smith, Max Blumenthal, Tucker (Tuc..."
-
-</details>
-
-<details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
-
-**[00:27:42](/episodes/ep-5autG89PW6w.md#ent-person-andrew-tate-t-00-27-17)**
-> "...anging from Max Blumenthal to Andrew Tate."
-
-**[00:27:42](/episodes/ep-5autG89PW6w.md#ent-person-andrew-tate-t-00-27-17)**
-> "...from Max Blumenthal to Andrew Tate."
-
-</details>
-
-<details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (5 mentions)</summary>
 
 **[00:27:19](/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-tate-t-00-26-27)**
@@ -52,6 +33,25 @@ _Type: People_
 
 **[00:26:59](/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-tate-t-00-26-27)**
 > "...e on her show that was Andrew Tate's—one of the accusers' lawyers."
+
+</details>
+
+<details>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1 mentions)</summary>
+
+**[00:55:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-55-04)**
+> "She has sent out to the Tate brothers, Dave Smith, Max Blumenthal, Tucker (Tuc..."
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
+
+**[00:27:42](/episodes/ep-5autG89PW6w.md#ent-person-andrew-tate-t-00-27-17)**
+> "...anging from Max Blumenthal to Andrew Tate."
+
+**[00:27:42](/episodes/ep-5autG89PW6w.md#ent-person-andrew-tate-t-00-27-17)**
+> "...from Max Blumenthal to Andrew Tate."
 
 </details>
 

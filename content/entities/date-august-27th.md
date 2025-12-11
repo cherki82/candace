@@ -17,17 +17,6 @@ _Type: Dates_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2 mentions)</summary>
-
-**[00:16:14](/episodes/ep-Qfwr08Ebczo.md#ent-date-august-27th-t-00-15-33)**
-> "... what we can confirm to you is that Rob actually put that secondary home in Coronado up for sale on August 24th, 2025, of this year. He listed his home up for sale. So suffice it to say that the fantastic, heroi..."
-
-**[00:16:14](/episodes/ep-Qfwr08Ebczo.md#ent-date-august-27th-t-00-15-33)**
-> "on August 24th, 2025, of this year."
-
-</details>
-
-<details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (6 mentions)</summary>
 
 **[00:24:09](/episodes/ep-a-e7HC6SeK8.md#ent-date-august-27th-t-00-24-09)**
@@ -51,6 +40,17 @@ _Type: Dates_
 </details>
 
 <details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+
+**[00:16:49](/episodes/ep-tB5SXXmd9vU.md#ent-date-august-27th-t-00-16-49)**
+> "...joint exercise took place in Minnesota at Camp Ripley, and that ran just for a couple of days until August 27th, and that was known as Operation Valhalla, okay? Random three-day exercise with civilians. And I wa..."
+
+**[00:16:49](/episodes/ep-tB5SXXmd9vU.md#ent-date-august-27th-t-00-16-49)**
+> "...st for a couple of days until August 27th, and that was known as Operation Valhalla, okay?"
+
+</details>
+
+<details>
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
 
 **[00:08:03](/episodes/ep-mKXdKV-OBog.md#ent-date-august-27th-t-00-07-51)**
@@ -68,13 +68,13 @@ _Type: Dates_
 </details>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2 mentions)</summary>
 
-**[00:16:49](/episodes/ep-tB5SXXmd9vU.md#ent-date-august-27th-t-00-16-49)**
-> "...joint exercise took place in Minnesota at Camp Ripley, and that ran just for a couple of days until August 27th, and that was known as Operation Valhalla, okay? Random three-day exercise with civilians. And I wa..."
+**[00:16:14](/episodes/ep-Qfwr08Ebczo.md#ent-date-august-27th-t-00-15-33)**
+> "... what we can confirm to you is that Rob actually put that secondary home in Coronado up for sale on August 24th, 2025, of this year. He listed his home up for sale. So suffice it to say that the fantastic, heroi..."
 
-**[00:16:49](/episodes/ep-tB5SXXmd9vU.md#ent-date-august-27th-t-00-16-49)**
-> "...st for a couple of days until August 27th, and that was known as Operation Valhalla, okay?"
+**[00:16:14](/episodes/ep-Qfwr08Ebczo.md#ent-date-august-27th-t-00-15-33)**
+> "on August 24th, 2025, of this year."
 
 </details>
 

@@ -19,63 +19,71 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (13 mentions)</summary>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (12 mentions)</summary>
 
-**[00:52:24](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-51-56)**
-> "...s I discussed yesterday and which got picked up—was to create a kill switch, right? To realize that Kanye was kind of right. Never too late to say that Kanye was right. Kanye said that in order to be free,..."
+**[01:03:01](/episodes/ep-his-JBjlkh8.md#ent-person-kanye-west-t-01-02-45)**
+> "...omebody—I don't know what they asked him—but he responds and he says, "You know, if you're a fan of Kanye West, you're not a fan of Kanye West. You're actually a fan of yourself. You believe in yourself and you..."
 
-**[00:52:26](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-51-56)**
-> "...to create a kill switch, right? To realize that Kanye was kind of right. Never too late to say that Kanye was right. Kanye said that in order to be free, you had to violate these contracts. You had to reco..."
+**[01:02:32](/episodes/ep-his-JBjlkh8.md#ent-person-kanye-west-t-01-02-05)**
+> "...ng the world's best crime-fighting superhero." You know, I always think back to this interview that Kanye gave before I knew who he was. And I always loved Kanye. I loved his music. I loved the code of his..."
 
-**[00:52:31](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-51-56)**
-> "...switch, right? To realize that Kanye was kind of right. Never too late to say that Kanye was right. Kanye said that in order to be free, you had to violate these contracts. You had to recognize that your v..."
+**[01:02:37](/episodes/ep-his-JBjlkh8.md#ent-person-kanye-west-t-01-02-05)**
+> "... I always think back to this interview that Kanye gave before I knew who he was. And I always loved Kanye. I loved his music. I loved the code of his music, which is you have to believe in yourself because..."
 
-**[00:52:38](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-51-56)**
-> "..., you had to violate these contracts. You had to recognize that your voice is being controlled. And Kanye did just that. It was really an act of bravery to free himself. But I have no doubt for the same pe..."
+**[01:02:56](/episodes/ep-his-JBjlkh8.md#ent-person-kanye-west-t-01-02-45)**
+> "...at you would be allies with, you find to be your enemies. Like, that's kind of the coded message of Kanye's music. But there's this interview that he gives where he says— somebody—I don't know what they as..."
 
-**[00:52:50](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-52-41)**
-> "...ally an act of bravery to free himself. But I have no doubt for the same people that were torturing Kanye, the same people that were torturing Charlie (Charlie Kirk)—if Kanye died today—would be the first ..."
+**[01:03:37](/episodes/ep-his-JBjlkh8.md#ent-person-kanye-west-t-01-03-25)**
+> "...say things. Like, there's that thing—there's that spark inside of you. It's kind of what I got when Kanye said that. It's not me. It's the spark that you see in me. It's the audacity to be yourself and to ..."
 
-**[00:52:57](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-52-41)**
-> "...ze him. I feel that. And Drew, I feel that, and I think it's important to share that information as Kanye sent me all the messages of people who were threatening him. I have them all—to information share w..."
+**[00:53:05](/episodes/ep-his-JBjlkh8.md#ent-person-kanye-west-t-01-02-05)**
+> "I'm friends with Ye, and he makes music, and they do use a lot of met..."
 
-**[00:52:24](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-51-56)**
-> "To realize that Kanye was kind of right."
+**[01:02:32](/episodes/ep-his-JBjlkh8.md#ent-person-kanye-west-t-01-02-05)**
+> "...k back to this interview that Kanye gave before I knew who he was."
 
-**[00:52:26](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-51-56)**
-> "Never too late to say that Kanye was right."
+**[01:02:37](/episodes/ep-his-JBjlkh8.md#ent-person-kanye-west-t-01-02-05)**
+> "And I always loved Kanye."
 
-**[00:52:31](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-51-56)**
-> "Kanye said that in order to be free, you had to violate..."
+**[01:02:56](/episodes/ep-his-JBjlkh8.md#ent-person-kanye-west-t-01-02-45)**
+> "... kind of the coded message of Kanye's music."
 
-**[00:52:38](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-51-56)**
-> "And Kanye did just that."
+**[01:03:01](/episodes/ep-his-JBjlkh8.md#ent-person-kanye-west-t-01-02-45)**
+> "..."You know, if you're a fan of Kanye West, you're not a fan of Kanye West."
 
-**[00:52:50](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-52-41)**
-> "...me people that were torturing Kanye, the same people that were torturing Charlie (Cha..."
+**[01:03:01](/episodes/ep-his-JBjlkh8.md#ent-person-kanye-west-t-01-02-45)**
+> "...nye West, you're not a fan of Kanye West."
 
-**[00:52:50](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-52-41)**
-> "...ing Charlie (Charlie Kirk)—if Kanye died today—would be the first to eulogize him."
-
-**[00:52:57](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-52-41)**
-> "... to share that information as Kanye sent me all the messages of people who were threa..."
+**[01:03:37](/episodes/ep-his-JBjlkh8.md#ent-person-kanye-west-t-01-03-25)**
+> "It's kind of what I got when Kanye said that."
 
 </details>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (4 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (4 mentions)</summary>
 
-**[00:26:55](/episodes/ep-5autG89PW6w.md#ent-person-kanye-west-t-00-26-42)**
-> "...bankrupt me—trying to bankrupt me and my family—that are threatening us, to sue us. Everything that Kanye said was so real, okay? I'm now at that point where you look back and you go, "Man, Kanye was right..."
+**[00:45:49](/episodes/ep-tB5SXXmd9vU.md#ent-person-kanye-west-t-00-45-28)**
+> "... in a hospital and say you're crazy and drug you, like they did to Britney Spears, like they did to Kanye West, or they bankrupt you, right? That's also one of the mechanisms. Do you guys think that this entire..."
 
-**[00:26:59](/episodes/ep-5autG89PW6w.md#ent-person-kanye-west-t-00-26-42)**
-> "...hing that Kanye said was so real, okay? I'm now at that point where you look back and you go, "Man, Kanye was right." He was really saying something about what it takes to leave. You know, to fight for cus..."
+**[00:49:39](/episodes/ep-tB5SXXmd9vU.md#ent-person-kanye-west-t-00-49-28)**
+> "...I'm cool and I'm surrounded by individuals, you would be right. Because I'm a person who grew up on Kanye West's music, and it's so funny that I was blasting his early music. One of his first songs, "All Falls ..."
 
-**[00:26:55](/episodes/ep-5autG89PW6w.md#ent-person-kanye-west-t-00-26-42)**
-> "Everything that Kanye said was so real, okay?"
+**[00:45:49](/episodes/ep-tB5SXXmd9vU.md#ent-person-kanye-west-t-00-45-28)**
+> "...tney Spears, like they did to Kanye West, or they bankrupt you, right?"
 
-**[00:26:59](/episodes/ep-5autG89PW6w.md#ent-person-kanye-west-t-00-26-42)**
-> "...u look back and you go, "Man, Kanye was right.""
+**[00:49:39](/episodes/ep-tB5SXXmd9vU.md#ent-person-kanye-west-t-00-49-28)**
+> "...e I'm a person who grew up on Kanye West's music, and it's so funny that I was blasting his ..."
+
+</details>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
+
+**[00:16:03](/episodes/ep-sImMM04XdWY.md#ent-person-kanye-west-t-00-15-24)**
+> "...ed can be completely shut out, taken out, told that they can't even be in the system—thinking about Kanye West, right? Because of what he's saying. And then people who have no talent are suddenly everywhere. Bi..."
+
+**[00:16:03](/episodes/ep-sImMM04XdWY.md#ent-person-kanye-west-t-00-15-24)**
+> "... in the system—thinking about Kanye West, right?"
 
 </details>
 
@@ -141,6 +149,104 @@ _Type: People_
 
 **[00:23:05](/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-22-30)**
 > ""Ye (Kanye West), he said he was just reading a Bible, and Harley..."
+
+</details>
+
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (9 mentions)</summary>
+
+**[00:23:35](/episodes/ep-yAIb-NuUh_U.md#ent-person-kanye-west-t-00-23-11)**
+> "...g that they run drugs, right? That they blackmail certain people and they run drugs. Something that Kanye also said in an episode that's virtually impossible to find online because it was during his cancel..."
+
+**[00:23:51](/episodes/ep-yAIb-NuUh_U.md#ent-person-kanye-west-t-00-23-51)**
+> "...mailed by the feds. And that part of his deal was that he had to keep certain other people in line— Kanye. So this theme is kind of coming up when you start to see people who have been not just accused of ..."
+
+**[00:39:26](/episodes/ep-yAIb-NuUh_U.md#ent-person-kanye-west-t-00-39-16)**
+> "... into making a statement against one of their friends. "Candace (Candace Owens), you're better than Kanye." "You have your whole life ahead of you." "You'll have more of a future if you just say this one t..."
+
+**[00:55:54](/episodes/ep-yAIb-NuUh_U.md#ent-person-kanye-west-t-00-55-44)**
+> "...cating what he is saying. But I always find myself suddenly going backwards and going, "Oh, I think Kanye was trying to tell us that." We just couldn't hear him or appreciate it because his style—if he com..."
+
+**[00:23:35](/episodes/ep-yAIb-NuUh_U.md#ent-person-kanye-west-t-00-23-11)**
+> "Something that Kanye also said in an episode that's virtually impossible to find online."
+
+**[00:23:35](/episodes/ep-yAIb-NuUh_U.md#ent-person-kanye-west-t-00-23-11)**
+> "Something that Kanye also said in an episode that's virtually impossib..."
+
+**[00:23:51](/episodes/ep-yAIb-NuUh_U.md#ent-person-kanye-west-t-00-23-51)**
+> "Kanye. So this theme is kind of coming up when you star..."
+
+**[00:39:26](/episodes/ep-yAIb-NuUh_U.md#ent-person-kanye-west-t-00-39-16)**
+> "...ce Owens), you're better than Kanye.""
+
+**[00:55:54](/episodes/ep-yAIb-NuUh_U.md#ent-person-kanye-west-t-00-55-44)**
+> "Kanye was trying to tell us that.""
+
+</details>
+
+<details>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (12 mentions)</summary>
+
+**[00:48:50](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-48-38)**
+> "...as that like Binyabinyapoliwog?" Look here, please. What does your opening song say? That is from a Kanye song. "I hope he's bright and brave and strong." It's—I guess—hitting differently. Yeah, it's a Kan..."
+
+**[00:48:57](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-48-38)**
+> "...nye song. "I hope he's bright and brave and strong." It's—I guess—hitting differently. Yeah, it's a Kanye song, and it's a sample from—it's called "Stars." The beginning of it is called "Stars." Lots of co..."
+
+**[00:49:07](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-48-38)**
+> "...rs." The beginning of it is called "Stars." Lots of comments saying DEFCON 3, not death. That was a Kanye joke. Remember—notoriously—Kanye tweeted this, and everyone freaked out because he wrote "death." H..."
+
+**[00:49:11](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-48-38)**
+> "...d "Stars." Lots of comments saying DEFCON 3, not death. That was a Kanye joke. Remember—notoriously—Kanye tweeted this, and everyone freaked out because he wrote "death." He meant DEFCON 3 because it's a d..."
+
+**[00:50:14](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-50-06)**
+> "... Jewish. And so we were being funny. We know that it's DEF CON 3. We were just doing a throwback to Kanye. I should probably put a Kanye photo in there. Uh, next comment is from Stilo Ackla: "Thank you, Ca..."
+
+**[00:50:15](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-50-06)**
+> "...unny. We know that it's DEF CON 3. We were just doing a throwback to Kanye. I should probably put a Kanye photo in there. Uh, next comment is from Stilo Ackla: "Thank you, Candace (Candace Owens), so much...."
+
+**[00:48:50](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-48-38)**
+> "That is from a Kanye song."
+
+**[00:48:57](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-48-38)**
+> "Yeah, it's a Kanye song, and it's a sample from—it's called "Stars.""
+
+**[00:49:07](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-48-38)**
+> "That was a Kanye joke."
+
+**[00:49:11](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-48-38)**
+> "Remember—notoriously—Kanye tweeted this, and everyone freaked out because he..."
+
+**[00:50:14](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-50-06)**
+> "...ere just doing a throwback to Kanye."
+
+**[00:50:15](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-50-06)**
+> "I should probably put a Kanye photo in there."
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (4 mentions)</summary>
+
+**[00:03:02](/episodes/ep-vwG1juDCQZQ.md#ent-person-kanye-west-t-00-02-51)**
+> "...ripped a hole in reality and made things even more global than they already were. I'd like to thank Kanye West—formerly Kanye West; he is now Ye—for the song "Power," because the song "Power" really made me rec..."
+
+**[00:03:02](/episodes/ep-vwG1juDCQZQ.md#ent-person-kanye-west-t-00-02-51)**
+> "I'd like to thank Kanye West—formerly Kanye West; he is now Ye—for the song "P..."
+
+**[00:03:02](/episodes/ep-vwG1juDCQZQ.md#ent-person-kanye-west-t-00-02-51)**
+> "... to thank Kanye West—formerly Kanye West; he is now Ye—for the song "Power," because the s..."
+
+**[00:03:02](/episodes/ep-vwG1juDCQZQ.md#ent-person-kanye-west-t-00-02-51)**
+> "...ormerly Kanye West; he is now Ye—for the song "Power," because the song "Power" re..."
+
+</details>
+
+<details>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (1 mentions)</summary>
+
+**[00:18:30](/episodes/ep-Qt0VHV-POCg.md#t-00-18-22)**
+> "... Charlie's memorial. Like kudos to whoever made that call because I would have just been on my best Kanye. I would have jumped on stage and just grabbed the mic from Susie Wiles or someone and said, "Are y..."
 
 </details>
 
@@ -366,51 +472,151 @@ _Type: People_
 </details>
 
 <details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (12 mentions)</summary>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (10 mentions)</summary>
 
-**[00:48:50](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-48-38)**
-> "...as that like Binyabinyapoliwog?" Look here, please. What does your opening song say? That is from a Kanye song. "I hope he's bright and brave and strong." It's—I guess—hitting differently. Yeah, it's a Kan..."
+**[00:01:41](/episodes/ep-c5BcKF91iec.md#ent-person-kanye-west-t-00-01-39)**
+> "...o Candace. So here is where I was. I went to Wyoming to breathe, to hike, to listen to way too much Kanye West music. I absolutely love the mountains. I am a mountain person, so to speak. Wyoming is in fact my ..."
 
-**[00:48:57](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-48-38)**
-> "...nye song. "I hope he's bright and brave and strong." It's—I guess—hitting differently. Yeah, it's a Kanye song, and it's a sample from—it's called "Stars." The beginning of it is called "Stars." Lots of co..."
+**[00:02:44](/episodes/ep-c5BcKF91iec.md#ent-person-kanye-west-t-00-02-20)**
+> "...us. I think I said "um" like 3000 times. But then I had to very quickly get over to Wyoming because Kanye had invited me to his album release party. And again, ironically, where he held that album release ..."
 
-**[00:49:07](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-48-38)**
-> "...rs." The beginning of it is called "Stars." Lots of comments saying DEFCON 3, not death. That was a Kanye joke. Remember—notoriously—Kanye tweeted this, and everyone freaked out because he wrote "death." H..."
+**[00:38:26](/episodes/ep-c5BcKF91iec.md#ent-person-kanye-west-t-00-38-11)**
+> "...ow—a particular set of messages that were written on April 6th, 2018, just a couple of weeks before Kanye tweeted, "I love the way Candace Owens thinks," which is relevant because a lot of things changed a..."
 
-**[00:49:11](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-48-38)**
-> "...d "Stars." Lots of comments saying DEFCON 3, not death. That was a Kanye joke. Remember—notoriously—Kanye tweeted this, and everyone freaked out because he wrote "death." He meant DEFCON 3 because it's a d..."
+**[00:39:03](/episodes/ep-c5BcKF91iec.md#ent-person-kanye-west-t-00-38-56)**
+> "...ages. They can tell you that these ones are real. Here's what he wrote. We were again talking about Kanye. Charlie wrote to me, "You're going to be the Iron Lady of America." He had such a political vision..."
 
-**[00:50:14](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-50-06)**
-> "... Jewish. And so we were being funny. We know that it's DEF CON 3. We were just doing a throwback to Kanye. I should probably put a Kanye photo in there. Uh, next comment is from Stilo Ackla: "Thank you, Ca..."
+**[00:52:28](/episodes/ep-c5BcKF91iec.md#ent-person-kanye-west-t-00-52-22)**
+> "...e, but in hindsight, it's clearly what was happening. Amal, it actually—I think it all started with Kanye tweeting me. I think handlers were sent out to manage—to first and foremost break apart me and Char..."
 
-**[00:50:15](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-50-06)**
-> "...unny. We know that it's DEF CON 3. We were just doing a throwback to Kanye. I should probably put a Kanye photo in there. Uh, next comment is from Stilo Ackla: "Thank you, Candace (Candace Owens), so much...."
+**[00:01:41](/episodes/ep-c5BcKF91iec.md#ent-person-kanye-west-t-00-01-39)**
+> "...ke, to listen to way too much Kanye West music."
 
-**[00:48:50](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-48-38)**
-> "That is from a Kanye song."
+**[00:02:44](/episodes/ep-c5BcKF91iec.md#ent-person-kanye-west-t-00-02-20)**
+> "...y get over to Wyoming because Kanye had invited me to his album release party."
 
-**[00:48:57](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-48-38)**
-> "Yeah, it's a Kanye song, and it's a sample from—it's called "Stars.""
+**[00:38:26](/episodes/ep-c5BcKF91iec.md#ent-person-kanye-west-t-00-38-11)**
+> "...just a couple of weeks before Kanye tweeted, "I love the way Candace Owens thinks," w..."
 
-**[00:49:07](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-48-38)**
-> "That was a Kanye joke."
+**[00:39:03](/episodes/ep-c5BcKF91iec.md#ent-person-kanye-west-t-00-38-56)**
+> "We were again talking about Kanye."
 
-**[00:49:11](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-48-38)**
-> "Remember—notoriously—Kanye tweeted this, and everyone freaked out because he..."
-
-**[00:50:14](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-50-06)**
-> "...ere just doing a throwback to Kanye."
-
-**[00:50:15](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-50-06)**
-> "I should probably put a Kanye photo in there."
+**[00:52:28](/episodes/ep-c5BcKF91iec.md#ent-person-kanye-west-t-00-52-22)**
+> "...y—I think it all started with Kanye tweeting me."
 
 </details>
 
 <details>
-<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (1 mentions)</summary>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (4 mentions)</summary>
 
-**[00:18:30](/episodes/ep-Qt0VHV-POCg.md#t-00-18-22)**
-> "... Charlie's memorial. Like kudos to whoever made that call because I would have just been on my best Kanye. I would have jumped on stage and just grabbed the mic from Susie Wiles or someone and said, "Are y..."
+**[00:53:57](/episodes/ep-pc3pxRyNFZk.md#ent-person-kanye-west-t-00-53-16)**
+> "...o have the courage and humility to ask yourself what you're doing wrong. It's never too late to say Kanye was right. Never too late. And I'd like to say that Kanye was right. It's behavior. It's how they t..."
+
+**[00:54:01](/episodes/ep-pc3pxRyNFZk.md#ent-person-kanye-west-t-00-54-00)**
+> "...e doing wrong. It's never too late to say Kanye was right. Never too late. And I'd like to say that Kanye was right. It's behavior. It's how they treat people. It's statements like that. Like just pretendi..."
+
+**[00:53:57](/episodes/ep-pc3pxRyNFZk.md#ent-person-kanye-west-t-00-53-16)**
+> "It's never too late to say Kanye was right."
+
+**[00:54:01](/episodes/ep-pc3pxRyNFZk.md#ent-person-kanye-west-t-00-54-00)**
+> "And I'd like to say that Kanye was right."
+
+</details>
+
+<details>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (13 mentions)</summary>
+
+**[00:52:24](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-51-56)**
+> "...s I discussed yesterday and which got picked up—was to create a kill switch, right? To realize that Kanye was kind of right. Never too late to say that Kanye was right. Kanye said that in order to be free,..."
+
+**[00:52:26](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-51-56)**
+> "...to create a kill switch, right? To realize that Kanye was kind of right. Never too late to say that Kanye was right. Kanye said that in order to be free, you had to violate these contracts. You had to reco..."
+
+**[00:52:31](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-51-56)**
+> "...switch, right? To realize that Kanye was kind of right. Never too late to say that Kanye was right. Kanye said that in order to be free, you had to violate these contracts. You had to recognize that your v..."
+
+**[00:52:38](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-51-56)**
+> "..., you had to violate these contracts. You had to recognize that your voice is being controlled. And Kanye did just that. It was really an act of bravery to free himself. But I have no doubt for the same pe..."
+
+**[00:52:50](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-52-41)**
+> "...ally an act of bravery to free himself. But I have no doubt for the same people that were torturing Kanye, the same people that were torturing Charlie (Charlie Kirk)—if Kanye died today—would be the first ..."
+
+**[00:52:57](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-52-41)**
+> "...ze him. I feel that. And Drew, I feel that, and I think it's important to share that information as Kanye sent me all the messages of people who were threatening him. I have them all—to information share w..."
+
+**[00:52:24](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-51-56)**
+> "To realize that Kanye was kind of right."
+
+**[00:52:26](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-51-56)**
+> "Never too late to say that Kanye was right."
+
+**[00:52:31](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-51-56)**
+> "Kanye said that in order to be free, you had to violate..."
+
+**[00:52:38](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-51-56)**
+> "And Kanye did just that."
+
+**[00:52:50](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-52-41)**
+> "...me people that were torturing Kanye, the same people that were torturing Charlie (Cha..."
+
+**[00:52:50](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-52-41)**
+> "...ing Charlie (Charlie Kirk)—if Kanye died today—would be the first to eulogize him."
+
+**[00:52:57](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-52-41)**
+> "... to share that information as Kanye sent me all the messages of people who were threa..."
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (4 mentions)</summary>
+
+**[00:26:55](/episodes/ep-5autG89PW6w.md#ent-person-kanye-west-t-00-26-42)**
+> "...bankrupt me—trying to bankrupt me and my family—that are threatening us, to sue us. Everything that Kanye said was so real, okay? I'm now at that point where you look back and you go, "Man, Kanye was right..."
+
+**[00:26:59](/episodes/ep-5autG89PW6w.md#ent-person-kanye-west-t-00-26-42)**
+> "...hing that Kanye said was so real, okay? I'm now at that point where you look back and you go, "Man, Kanye was right." He was really saying something about what it takes to leave. You know, to fight for cus..."
+
+**[00:26:55](/episodes/ep-5autG89PW6w.md#ent-person-kanye-west-t-00-26-42)**
+> "Everything that Kanye said was so real, okay?"
+
+**[00:26:59](/episodes/ep-5autG89PW6w.md#ent-person-kanye-west-t-00-26-42)**
+> "...u look back and you go, "Man, Kanye was right.""
+
+</details>
+
+<details>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (1 mentions)</summary>
+
+**[00:26:38](/episodes/ep-ja26iltROkM.md#t-00-26-14)**
+> "...terical. I mean, last week was insane. I got to the point where I just went—I just shrugged. I just Kanye shrugged. I'm like, "Okay." I don't know what to say. But this was just so funny. I had to share it..."
+
+</details>
+
+<details>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (3 mentions)</summary>
+
+**[00:27:43](/episodes/ep-aDlhjfW6hz8.md#ent-person-kanye-west-t-00-27-13)**
+> ".... I'm good. You know what I'm gonna do? I'm gonna listen to "Power" on my headphones and go see Ye (Kanye West). How's that for a memorial for Charlie Kirk? That feels like the right thing for me to do right no..."
+
+**[00:27:43](/episodes/ep-aDlhjfW6hz8.md#ent-person-kanye-west-t-00-27-13)**
+> "... my headphones and go see Ye (Kanye West)."
+
+**[00:27:43](/episodes/ep-aDlhjfW6hz8.md#ent-person-kanye-west-t-00-27-13)**
+> "..." on my headphones and go see Ye (Kanye West)."
+
+</details>
+
+<details>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (3 mentions)</summary>
+
+**[00:03:59](/episodes/ep-czVBmqZP6Ss.md#t-00-03-27)**
+> "to reach out to Ye, speaking about things, talking about his mood when he wrote the song"
+
+**[00:03:59](/episodes/ep-czVBmqZP6Ss.md#t-00-03-27)**
+> "...t appropriate to reach out to Ye, speaking about things, talking about his mood wh..."
+
+**[00:04:34](/episodes/ep-czVBmqZP6Ss.md#t-00-04-11)**
+> "Ye asks, do you have the power to let power go?"
 
 </details>
 
@@ -482,212 +688,6 @@ _Type: People_
 
 **[00:14:52](/episodes/ep-_dRaEO47-co.md#ent-person-kanye-west-t-00-14-52)**
 > "...Him Too" event, it was always Kanye (Kanye West)."
-
-</details>
-
-<details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (3 mentions)</summary>
-
-**[00:27:43](/episodes/ep-aDlhjfW6hz8.md#ent-person-kanye-west-t-00-27-13)**
-> ".... I'm good. You know what I'm gonna do? I'm gonna listen to "Power" on my headphones and go see Ye (Kanye West). How's that for a memorial for Charlie Kirk? That feels like the right thing for me to do right no..."
-
-**[00:27:43](/episodes/ep-aDlhjfW6hz8.md#ent-person-kanye-west-t-00-27-13)**
-> "... my headphones and go see Ye (Kanye West)."
-
-**[00:27:43](/episodes/ep-aDlhjfW6hz8.md#ent-person-kanye-west-t-00-27-13)**
-> "..." on my headphones and go see Ye (Kanye West)."
-
-</details>
-
-<details>
-<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (10 mentions)</summary>
-
-**[00:01:41](/episodes/ep-c5BcKF91iec.md#ent-person-kanye-west-t-00-01-39)**
-> "...o Candace. So here is where I was. I went to Wyoming to breathe, to hike, to listen to way too much Kanye West music. I absolutely love the mountains. I am a mountain person, so to speak. Wyoming is in fact my ..."
-
-**[00:02:44](/episodes/ep-c5BcKF91iec.md#ent-person-kanye-west-t-00-02-20)**
-> "...us. I think I said "um" like 3000 times. But then I had to very quickly get over to Wyoming because Kanye had invited me to his album release party. And again, ironically, where he held that album release ..."
-
-**[00:38:26](/episodes/ep-c5BcKF91iec.md#ent-person-kanye-west-t-00-38-11)**
-> "...ow—a particular set of messages that were written on April 6th, 2018, just a couple of weeks before Kanye tweeted, "I love the way Candace Owens thinks," which is relevant because a lot of things changed a..."
-
-**[00:39:03](/episodes/ep-c5BcKF91iec.md#ent-person-kanye-west-t-00-38-56)**
-> "...ages. They can tell you that these ones are real. Here's what he wrote. We were again talking about Kanye. Charlie wrote to me, "You're going to be the Iron Lady of America." He had such a political vision..."
-
-**[00:52:28](/episodes/ep-c5BcKF91iec.md#ent-person-kanye-west-t-00-52-22)**
-> "...e, but in hindsight, it's clearly what was happening. Amal, it actually—I think it all started with Kanye tweeting me. I think handlers were sent out to manage—to first and foremost break apart me and Char..."
-
-**[00:01:41](/episodes/ep-c5BcKF91iec.md#ent-person-kanye-west-t-00-01-39)**
-> "...ke, to listen to way too much Kanye West music."
-
-**[00:02:44](/episodes/ep-c5BcKF91iec.md#ent-person-kanye-west-t-00-02-20)**
-> "...y get over to Wyoming because Kanye had invited me to his album release party."
-
-**[00:38:26](/episodes/ep-c5BcKF91iec.md#ent-person-kanye-west-t-00-38-11)**
-> "...just a couple of weeks before Kanye tweeted, "I love the way Candace Owens thinks," w..."
-
-**[00:39:03](/episodes/ep-c5BcKF91iec.md#ent-person-kanye-west-t-00-38-56)**
-> "We were again talking about Kanye."
-
-**[00:52:28](/episodes/ep-c5BcKF91iec.md#ent-person-kanye-west-t-00-52-22)**
-> "...y—I think it all started with Kanye tweeting me."
-
-</details>
-
-<details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (3 mentions)</summary>
-
-**[00:03:59](/episodes/ep-czVBmqZP6Ss.md#t-00-03-27)**
-> "to reach out to Ye, speaking about things, talking about his mood when he wrote the song"
-
-**[00:03:59](/episodes/ep-czVBmqZP6Ss.md#t-00-03-27)**
-> "...t appropriate to reach out to Ye, speaking about things, talking about his mood wh..."
-
-**[00:04:34](/episodes/ep-czVBmqZP6Ss.md#t-00-04-11)**
-> "Ye asks, do you have the power to let power go?"
-
-</details>
-
-<details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (12 mentions)</summary>
-
-**[01:03:01](/episodes/ep-his-JBjlkh8.md#ent-person-kanye-west-t-01-02-45)**
-> "...omebody—I don't know what they asked him—but he responds and he says, "You know, if you're a fan of Kanye West, you're not a fan of Kanye West. You're actually a fan of yourself. You believe in yourself and you..."
-
-**[01:02:32](/episodes/ep-his-JBjlkh8.md#ent-person-kanye-west-t-01-02-05)**
-> "...ng the world's best crime-fighting superhero." You know, I always think back to this interview that Kanye gave before I knew who he was. And I always loved Kanye. I loved his music. I loved the code of his..."
-
-**[01:02:37](/episodes/ep-his-JBjlkh8.md#ent-person-kanye-west-t-01-02-05)**
-> "... I always think back to this interview that Kanye gave before I knew who he was. And I always loved Kanye. I loved his music. I loved the code of his music, which is you have to believe in yourself because..."
-
-**[01:02:56](/episodes/ep-his-JBjlkh8.md#ent-person-kanye-west-t-01-02-45)**
-> "...at you would be allies with, you find to be your enemies. Like, that's kind of the coded message of Kanye's music. But there's this interview that he gives where he says— somebody—I don't know what they as..."
-
-**[01:03:37](/episodes/ep-his-JBjlkh8.md#ent-person-kanye-west-t-01-03-25)**
-> "...say things. Like, there's that thing—there's that spark inside of you. It's kind of what I got when Kanye said that. It's not me. It's the spark that you see in me. It's the audacity to be yourself and to ..."
-
-**[00:53:05](/episodes/ep-his-JBjlkh8.md#ent-person-kanye-west-t-01-02-05)**
-> "I'm friends with Ye, and he makes music, and they do use a lot of met..."
-
-**[01:02:32](/episodes/ep-his-JBjlkh8.md#ent-person-kanye-west-t-01-02-05)**
-> "...k back to this interview that Kanye gave before I knew who he was."
-
-**[01:02:37](/episodes/ep-his-JBjlkh8.md#ent-person-kanye-west-t-01-02-05)**
-> "And I always loved Kanye."
-
-**[01:02:56](/episodes/ep-his-JBjlkh8.md#ent-person-kanye-west-t-01-02-45)**
-> "... kind of the coded message of Kanye's music."
-
-**[01:03:01](/episodes/ep-his-JBjlkh8.md#ent-person-kanye-west-t-01-02-45)**
-> "..."You know, if you're a fan of Kanye West, you're not a fan of Kanye West."
-
-**[01:03:01](/episodes/ep-his-JBjlkh8.md#ent-person-kanye-west-t-01-02-45)**
-> "...nye West, you're not a fan of Kanye West."
-
-**[01:03:37](/episodes/ep-his-JBjlkh8.md#ent-person-kanye-west-t-01-03-25)**
-> "It's kind of what I got when Kanye said that."
-
-</details>
-
-<details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (1 mentions)</summary>
-
-**[00:26:38](/episodes/ep-ja26iltROkM.md#t-00-26-14)**
-> "...terical. I mean, last week was insane. I got to the point where I just went—I just shrugged. I just Kanye shrugged. I'm like, "Okay." I don't know what to say. But this was just so funny. I had to share it..."
-
-</details>
-
-<details>
-<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (4 mentions)</summary>
-
-**[00:53:57](/episodes/ep-pc3pxRyNFZk.md#ent-person-kanye-west-t-00-53-16)**
-> "...o have the courage and humility to ask yourself what you're doing wrong. It's never too late to say Kanye was right. Never too late. And I'd like to say that Kanye was right. It's behavior. It's how they t..."
-
-**[00:54:01](/episodes/ep-pc3pxRyNFZk.md#ent-person-kanye-west-t-00-54-00)**
-> "...e doing wrong. It's never too late to say Kanye was right. Never too late. And I'd like to say that Kanye was right. It's behavior. It's how they treat people. It's statements like that. Like just pretendi..."
-
-**[00:53:57](/episodes/ep-pc3pxRyNFZk.md#ent-person-kanye-west-t-00-53-16)**
-> "It's never too late to say Kanye was right."
-
-**[00:54:01](/episodes/ep-pc3pxRyNFZk.md#ent-person-kanye-west-t-00-54-00)**
-> "And I'd like to say that Kanye was right."
-
-</details>
-
-<details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
-
-**[00:16:03](/episodes/ep-sImMM04XdWY.md#ent-person-kanye-west-t-00-15-24)**
-> "...ed can be completely shut out, taken out, told that they can't even be in the system—thinking about Kanye West, right? Because of what he's saying. And then people who have no talent are suddenly everywhere. Bi..."
-
-**[00:16:03](/episodes/ep-sImMM04XdWY.md#ent-person-kanye-west-t-00-15-24)**
-> "... in the system—thinking about Kanye West, right?"
-
-</details>
-
-<details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (4 mentions)</summary>
-
-**[00:45:49](/episodes/ep-tB5SXXmd9vU.md#ent-person-kanye-west-t-00-45-28)**
-> "... in a hospital and say you're crazy and drug you, like they did to Britney Spears, like they did to Kanye West, or they bankrupt you, right? That's also one of the mechanisms. Do you guys think that this entire..."
-
-**[00:49:39](/episodes/ep-tB5SXXmd9vU.md#ent-person-kanye-west-t-00-49-28)**
-> "...I'm cool and I'm surrounded by individuals, you would be right. Because I'm a person who grew up on Kanye West's music, and it's so funny that I was blasting his early music. One of his first songs, "All Falls ..."
-
-**[00:45:49](/episodes/ep-tB5SXXmd9vU.md#ent-person-kanye-west-t-00-45-28)**
-> "...tney Spears, like they did to Kanye West, or they bankrupt you, right?"
-
-**[00:49:39](/episodes/ep-tB5SXXmd9vU.md#ent-person-kanye-west-t-00-49-28)**
-> "...e I'm a person who grew up on Kanye West's music, and it's so funny that I was blasting his ..."
-
-</details>
-
-<details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (4 mentions)</summary>
-
-**[00:03:02](/episodes/ep-vwG1juDCQZQ.md#ent-person-kanye-west-t-00-02-51)**
-> "...ripped a hole in reality and made things even more global than they already were. I'd like to thank Kanye West—formerly Kanye West; he is now Ye—for the song "Power," because the song "Power" really made me rec..."
-
-**[00:03:02](/episodes/ep-vwG1juDCQZQ.md#ent-person-kanye-west-t-00-02-51)**
-> "I'd like to thank Kanye West—formerly Kanye West; he is now Ye—for the song "P..."
-
-**[00:03:02](/episodes/ep-vwG1juDCQZQ.md#ent-person-kanye-west-t-00-02-51)**
-> "... to thank Kanye West—formerly Kanye West; he is now Ye—for the song "Power," because the s..."
-
-**[00:03:02](/episodes/ep-vwG1juDCQZQ.md#ent-person-kanye-west-t-00-02-51)**
-> "...ormerly Kanye West; he is now Ye—for the song "Power," because the song "Power" re..."
-
-</details>
-
-<details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (9 mentions)</summary>
-
-**[00:23:35](/episodes/ep-yAIb-NuUh_U.md#ent-person-kanye-west-t-00-23-11)**
-> "...g that they run drugs, right? That they blackmail certain people and they run drugs. Something that Kanye also said in an episode that's virtually impossible to find online because it was during his cancel..."
-
-**[00:23:51](/episodes/ep-yAIb-NuUh_U.md#ent-person-kanye-west-t-00-23-51)**
-> "...mailed by the feds. And that part of his deal was that he had to keep certain other people in line— Kanye. So this theme is kind of coming up when you start to see people who have been not just accused of ..."
-
-**[00:39:26](/episodes/ep-yAIb-NuUh_U.md#ent-person-kanye-west-t-00-39-16)**
-> "... into making a statement against one of their friends. "Candace (Candace Owens), you're better than Kanye." "You have your whole life ahead of you." "You'll have more of a future if you just say this one t..."
-
-**[00:55:54](/episodes/ep-yAIb-NuUh_U.md#ent-person-kanye-west-t-00-55-44)**
-> "...cating what he is saying. But I always find myself suddenly going backwards and going, "Oh, I think Kanye was trying to tell us that." We just couldn't hear him or appreciate it because his style—if he com..."
-
-**[00:23:35](/episodes/ep-yAIb-NuUh_U.md#ent-person-kanye-west-t-00-23-11)**
-> "Something that Kanye also said in an episode that's virtually impossible to find online."
-
-**[00:23:35](/episodes/ep-yAIb-NuUh_U.md#ent-person-kanye-west-t-00-23-11)**
-> "Something that Kanye also said in an episode that's virtually impossib..."
-
-**[00:23:51](/episodes/ep-yAIb-NuUh_U.md#ent-person-kanye-west-t-00-23-51)**
-> "Kanye. So this theme is kind of coming up when you star..."
-
-**[00:39:26](/episodes/ep-yAIb-NuUh_U.md#ent-person-kanye-west-t-00-39-16)**
-> "...ce Owens), you're better than Kanye.""
-
-**[00:55:54](/episodes/ep-yAIb-NuUh_U.md#ent-person-kanye-west-t-00-55-44)**
-> "Kanye was trying to tell us that.""
 
 </details>
 
@@ -764,13 +764,6 @@ _Type: People_
 <summary><strong class="section-title">Statements about Kanye West (16)</strong></summary>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1)</summary>
-
-- [00:52:31](/episodes/ep-2Riv3I7D0Yk.md#t-00-51-56) (Opinion) **Candace Owens** (via paraphrase): ["Kanye West said that in order to be free, you had to violate these con..."](/statements/statement-848fb630158b.md)
-
-</details>
-
-<details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (6)</summary>
 
 - [00:00:01](/episodes/ep-7RLtGgkTh9o.md#t-00-00-00) (Claim) **Candace Owens**: ["All of my investigations are converging - the Chaos book, the Brigitte..."](/statements/statement-1492732e1321.md)
@@ -813,6 +806,13 @@ _Type: People_
 - [00:14:17](/episodes/ep-Cq7nj9rxPdo.md#t-00-14-16) (Claim) **Candace Owens**: ["Kanye West's handlers told him he would lose everything if he didn't a..."](/statements/statement-1312ea6aaf18.md)
 
 - [00:14:53](/episodes/ep-Cq7nj9rxPdo.md#t-00-14-16) (Claim) **Candace Owens**: ["Kanye West never wrote the statement distancing himself from Blexit - ..."](/statements/statement-fcbab06d38d1.md)
+
+</details>
+
+<details>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1)</summary>
+
+- [00:52:31](/episodes/ep-2Riv3I7D0Yk.md#t-00-51-56) (Opinion) **Candace Owens** (via paraphrase): ["Kanye West said that in order to be free, you had to violate these con..."](/statements/statement-848fb630158b.md)
 
 </details>
 

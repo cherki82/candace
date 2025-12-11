@@ -17,6 +17,17 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
+
+**[01:02:19](/episodes/ep-his-JBjlkh8.md#ent-person-brittany-watson-t-01-02-05)**
+> "... of ways—holding you and your family in prayer, Candace." Keep up the prayers. Keep up the prayers. Brittany Watson writes, "Candace, you are not just going max. You are going scorched earth. And after watching Mond..."
+
+**[01:02:19](/episodes/ep-his-JBjlkh8.md#ent-person-brittany-watson-t-01-02-05)**
+> "Brittany Watson writes, "Candace, you are not just going max."
+
+</details>
+
+<details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (4 mentions)</summary>
 
 **[00:46:49](/episodes/ep-MUA9ebCF4Ow.md#ent-person-brittany-watson-t-00-46-31)**
@@ -30,17 +41,6 @@ _Type: People_
 
 **[00:48:22](/episodes/ep-MUA9ebCF4Ow.md#ent-person-brittany-watson-t-00-47-54)**
 > "Brittany Watson—I'm sorry—Kamaya writes, "Candace (Candace Owens)..."
-
-</details>
-
-<details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
-
-**[01:02:19](/episodes/ep-his-JBjlkh8.md#ent-person-brittany-watson-t-01-02-05)**
-> "... of ways—holding you and your family in prayer, Candace." Keep up the prayers. Keep up the prayers. Brittany Watson writes, "Candace, you are not just going max. You are going scorched earth. And after watching Mond..."
-
-**[01:02:19](/episodes/ep-his-JBjlkh8.md#ent-person-brittany-watson-t-01-02-05)**
-> "Brittany Watson writes, "Candace, you are not just going max."
 
 </details>
 

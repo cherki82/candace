@@ -1,6 +1,6 @@
 ---
 title: "Harry Myers"
-description: "Harry Myers (People) - 15 mentions"
+description: "Harry Myers (People) - 20 mentions"
 id: "person-harry-myers"
 type: "PERSON"
 aliases:
@@ -15,6 +15,26 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (5 mentions)</summary>
+
+**[00:40:24](/episodes/ep-6DhWawD4ZiM.md#ent-person-harry-myers-t-00-42-19)**
+> "Remember, Harry, told me that seeing that many"
+
+**[00:42:58](/episodes/ep-6DhWawD4ZiM.md#ent-person-harry-myers-t-00-42-19)**
+> "Remember, Harry,"
+
+**[00:49:34](/episodes/ep-6DhWawD4ZiM.md#ent-person-harry-myers-t-00-49-01)**
+> "Our guy, Harry, has the worst luck down, or the best luck down i..."
+
+**[00:59:46](/episodes/ep-6DhWawD4ZiM.md#ent-person-harry-myers-t-00-59-39)**
+> "... but you're referring to what Harry, I mean, Harry thinks he has an idea and he shoul..."
+
+**[00:59:46](/episodes/ep-6DhWawD4ZiM.md#ent-person-harry-myers-t-00-59-39)**
+> "...erring to what Harry, I mean, Harry thinks he has an idea and he should come out and ..."
+
+</details>
 
 <details>
 <summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (15 mentions)</summary>

@@ -11,11 +11,10 @@ object: "org-tiktok"
 
 ## [Erica Mindel](/entities/person-erica-mindel) works for [TikTok](/entities/org-tiktok)
 
-### Evidence (2 mentions)
+### Evidence (1 mentions)
 
 **[BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I)**
 
-- [00:44:18](/episodes/ep-adJ4LNGp84I#t-00-44-18): _Erika Mendl... currently serving as the public policy manager of hate speech. And she's been at TikTok since July of this year_
 - [00:44:18](/episodes/ep-adJ4LNGp84I#t-00-44-18): _Erika Mendl... currently serving as the public policy manager of hate speech. And she's been at TikTok since July of this year_
 
 ### Related

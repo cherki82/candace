@@ -13,17 +13,6 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
-
-**[00:36:14](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-malibu-t-00-36-14)**
-> "...don't know much. I've never looked into the conspiracies about cloud seeding and the burning of the Malibu homes. I actually think Spencer Pratt did some really fantastic work—like Spencer Pratt from The Hi..."
-
-**[00:36:14](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-malibu-t-00-36-14)**
-> "...eeding and the burning of the Malibu homes."
-
-</details>
-
-<details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
 
 **[00:45:14](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-malibu-t-00-44-40)**
@@ -31,6 +20,17 @@ _Type: Places_
 
 **[00:45:14](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-malibu-t-00-44-40)**
 > "... inexplicable events like the Malibu fires, sort of coastal events, the Texas floods—t..."
+
+</details>
+
+<details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
+
+**[00:36:14](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-malibu-t-00-36-14)**
+> "...don't know much. I've never looked into the conspiracies about cloud seeding and the burning of the Malibu homes. I actually think Spencer Pratt did some really fantastic work—like Spencer Pratt from The Hi..."
+
+**[00:36:14](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-malibu-t-00-36-14)**
+> "...eeding and the burning of the Malibu homes."
 
 </details>
 

@@ -17,17 +17,6 @@ _Type: Dates_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
-
-**[00:08:41](/episodes/ep-2Riv3I7D0Yk.md#ent-date-august-2nd-t-00-08-16)**
-> "...9th, and that's why Josh tweeted that. All of this is factually untrue, okay? Irina was murdered on August 22nd. Her perpetrator was arrested that same day, and the footage was released and trended on X on Septe..."
-
-**[00:08:41](/episodes/ep-2Riv3I7D0Yk.md#ent-date-august-2nd-t-00-08-16)**
-> "Irina was murdered on August 22nd."
-
-</details>
-
-<details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
 
 **[00:21:28](/episodes/ep-a-e7HC6SeK8.md#ent-date-august-2nd-t-00-21-13)**
@@ -52,6 +41,17 @@ _Type: Dates_
 
 **[00:20:07](/episodes/ep-tB5SXXmd9vU.md#ent-date-august-2nd-t-00-15-25)**
 > "...take place in California from August 2nd to the 25th, as reported by Candace Owens."
+
+</details>
+
+<details>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
+
+**[00:08:41](/episodes/ep-2Riv3I7D0Yk.md#ent-date-august-2nd-t-00-08-16)**
+> "...9th, and that's why Josh tweeted that. All of this is factually untrue, okay? Irina was murdered on August 22nd. Her perpetrator was arrested that same day, and the footage was released and trended on X on Septe..."
+
+**[00:08:41](/episodes/ep-2Riv3I7D0Yk.md#ent-date-august-2nd-t-00-08-16)**
+> "Irina was murdered on August 22nd."
 
 </details>
 

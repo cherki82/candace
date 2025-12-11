@@ -21,7 +21,7 @@ type: "factual_claim"
 ## About
 
 - [Walid Mahmood](/entities/person-walid-mahmood.md) (person)
-- [SU-BTT](/entities/work-su-btt.md) (work)
+- [SU-BTT](/entities/vehicle-su-btt.md) (vehicle)
 
 ## Source
 

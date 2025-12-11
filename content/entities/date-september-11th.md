@@ -18,30 +18,35 @@ _Type: Dates_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
 
-**[00:11:58](/episodes/ep-2Riv3I7D0Yk.md#t-00-11-41)**
-> "...at 3 o'clock p.m., he tweets against Tucker (Tucker Carlson) for telling the truth about Israel and 9/11. Again, he has to do that a couple of times a day. It's part of his ritual. 5:58 p.m., he tweets ab..."
+**[00:40:44](/episodes/ep-tB5SXXmd9vU.md#t-00-40-44)**
+> "...een before. Where was Brigitte Macron on the dates that that Egyptian plane was—from 9/4 through to 9/11? Where was Brigitte Macron? I would just like to know, I need to know where Brigitte Macron was and..."
 
-**[00:11:58](/episodes/ep-2Riv3I7D0Yk.md#t-00-11-41)**
-> "...ng the truth about Israel and 9/11."
+**[00:40:44](/episodes/ep-tB5SXXmd9vU.md#t-00-40-44)**
+> "...plane was—from 9/4 through to 9/11?"
 
 </details>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (4 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
 
-**[00:17:34](/episodes/ep-2WEHTk0Xewg.md#ent-date-september-11th-t-00-17-34)**
-> "...s here, and you are going to really see what I see here, and we need to demand answers, okay? So on September 11th, we are presented with the first FBI press conference where they confirm that they have found a wea..."
+**[00:22:04](/episodes/ep-sImMM04XdWY.md#ent-date-september-11th-t-00-21-44)**
+> "...ilmington, Delaware. As you guys know, it's gonna stay in Wilmington, Delaware, before departing on September 11th after Charlie (Charlie Kirk)'s assassination. I find this now to be very interesting, okay? Very in..."
 
-**[00:28:01](/episodes/ep-2WEHTk0Xewg.md#ent-date-september-11th-t-00-27-57)**
-> "... synopsis. (Clip of Governor Cox) Good morning, ladies and gentlemen. We got him. On the evening of September 11th, a family member of Tyler Robinson reached out to a family friend who contacted the Washington Coun..."
+**[00:22:04](/episodes/ep-sImMM04XdWY.md#ent-date-september-11th-t-00-21-44)**
+> "...Delaware, before departing on September 11th after Charlie (Charlie Kirk)'s assassination."
 
-**[00:17:34](/episodes/ep-2WEHTk0Xewg.md#ent-date-september-11th-t-00-17-34)**
-> "So on September 11th, we are presented with the first FBI press confer..."
+</details>
 
-**[00:28:01](/episodes/ep-2WEHTk0Xewg.md#ent-date-september-11th-t-00-27-57)**
-> "On the evening of September 11th,"
+<details>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
+
+**[00:04:22](/episodes/ep-SKGUzGHymcI.md#ent-date-september-11th-t-00-04-06)**
+> "...d they sleep? Where did they go? Again, what goes on in Wilmington, Delaware? Because they departed September 11th at 7:56 a.m. That means that we can definitively rule out that this was just a fuel stop, right? No..."
+
+**[00:04:22](/episodes/ep-SKGUzGHymcI.md#ent-date-september-11th-t-00-04-06)**
+> "Because they departed September 11th at 7:56 a.m."
 
 </details>
 
@@ -53,6 +58,28 @@ _Type: Dates_
 
 **[00:13:18](/episodes/ep-581dILVcEE4.md#ent-date-september-11th-t-00-13-00)**
 > "This is, by the way, taken on September 11th."
+
+</details>
+
+<details>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (2 mentions)</summary>
+
+**[00:30:57](/episodes/ep-MUA9ebCF4Ow.md#t-00-30-53)**
+> "...ail us. We're gonna move on to something else that I find interesting. Because we all know Bush did 9/11, but did Bush do 9/10? It's a joke. It's a joke. But we received this interesting tip early on. We ..."
+
+**[00:30:57](/episodes/ep-MUA9ebCF4Ow.md#t-00-30-53)**
+> "Because we all know Bush did 9/11, but did Bush do 9/10?"
+
+</details>
+
+<details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (2 mentions)</summary>
+
+**[00:42:41](/episodes/ep-r1PS67aRmcA.md#t-00-42-41)**
+> "...r about the nuclear—that's always the threat of the nuclear. And that used to work, like Generation 9/11; that worked. It doesn't work anymore because we realize there's only one nation that isn't followi..."
+
+**[00:42:41](/episodes/ep-r1PS67aRmcA.md#t-00-42-41)**
+> "...used to work, like Generation 9/11; that worked."
 
 </details>
 
@@ -92,17 +119,6 @@ _Type: Dates_
 </details>
 
 <details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (2 mentions)</summary>
-
-**[00:30:57](/episodes/ep-MUA9ebCF4Ow.md#t-00-30-53)**
-> "...ail us. We're gonna move on to something else that I find interesting. Because we all know Bush did 9/11, but did Bush do 9/10? It's a joke. It's a joke. But we received this interesting tip early on. We ..."
-
-**[00:30:57](/episodes/ep-MUA9ebCF4Ow.md#t-00-30-53)**
-> "Because we all know Bush did 9/11, but did Bush do 9/10?"
-
-</details>
-
-<details>
 <summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (2 mentions)</summary>
 
 **[00:03:21](/episodes/ep-Qt0VHV-POCg.md#ent-date-september-11th-t-00-02-59)**
@@ -114,13 +130,13 @@ _Type: Dates_
 </details>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
 
-**[00:04:22](/episodes/ep-SKGUzGHymcI.md#ent-date-september-11th-t-00-04-06)**
-> "...d they sleep? Where did they go? Again, what goes on in Wilmington, Delaware? Because they departed September 11th at 7:56 a.m. That means that we can definitively rule out that this was just a fuel stop, right? No..."
+**[00:11:58](/episodes/ep-2Riv3I7D0Yk.md#t-00-11-41)**
+> "...at 3 o'clock p.m., he tweets against Tucker (Tucker Carlson) for telling the truth about Israel and 9/11. Again, he has to do that a couple of times a day. It's part of his ritual. 5:58 p.m., he tweets ab..."
 
-**[00:04:22](/episodes/ep-SKGUzGHymcI.md#ent-date-september-11th-t-00-04-06)**
-> "Because they departed September 11th at 7:56 a.m."
+**[00:11:58](/episodes/ep-2Riv3I7D0Yk.md#t-00-11-41)**
+> "...ng the truth about Israel and 9/11."
 
 </details>
 
@@ -132,6 +148,23 @@ _Type: Dates_
 
 **[00:37:53](/episodes/ep-aDlhjfW6hz8.md#t-00-37-41)**
 > "I mean, 9/11—what did we do?"
+
+</details>
+
+<details>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (4 mentions)</summary>
+
+**[00:17:34](/episodes/ep-2WEHTk0Xewg.md#ent-date-september-11th-t-00-17-34)**
+> "...s here, and you are going to really see what I see here, and we need to demand answers, okay? So on September 11th, we are presented with the first FBI press conference where they confirm that they have found a wea..."
+
+**[00:28:01](/episodes/ep-2WEHTk0Xewg.md#ent-date-september-11th-t-00-27-57)**
+> "... synopsis. (Clip of Governor Cox) Good morning, ladies and gentlemen. We got him. On the evening of September 11th, a family member of Tyler Robinson reached out to a family friend who contacted the Washington Coun..."
+
+**[00:17:34](/episodes/ep-2WEHTk0Xewg.md#ent-date-september-11th-t-00-17-34)**
+> "So on September 11th, we are presented with the first FBI press confer..."
+
+**[00:28:01](/episodes/ep-2WEHTk0Xewg.md#ent-date-september-11th-t-00-27-57)**
+> "On the evening of September 11th,"
 
 </details>
 
@@ -155,39 +188,6 @@ _Type: Dates_
 
 **[00:13:46](/episodes/ep-q7f8r-THr84.md#ent-date-september-11th-t-00-13-25)**
 > "... following to police: that on September 11th, the day after the shooting, she saw the photo of..."
-
-</details>
-
-<details>
-<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (2 mentions)</summary>
-
-**[00:42:41](/episodes/ep-r1PS67aRmcA.md#t-00-42-41)**
-> "...r about the nuclear—that's always the threat of the nuclear. And that used to work, like Generation 9/11; that worked. It doesn't work anymore because we realize there's only one nation that isn't followi..."
-
-**[00:42:41](/episodes/ep-r1PS67aRmcA.md#t-00-42-41)**
-> "...used to work, like Generation 9/11; that worked."
-
-</details>
-
-<details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
-
-**[00:22:04](/episodes/ep-sImMM04XdWY.md#ent-date-september-11th-t-00-21-44)**
-> "...ilmington, Delaware. As you guys know, it's gonna stay in Wilmington, Delaware, before departing on September 11th after Charlie (Charlie Kirk)'s assassination. I find this now to be very interesting, okay? Very in..."
-
-**[00:22:04](/episodes/ep-sImMM04XdWY.md#ent-date-september-11th-t-00-21-44)**
-> "...Delaware, before departing on September 11th after Charlie (Charlie Kirk)'s assassination."
-
-</details>
-
-<details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
-
-**[00:40:44](/episodes/ep-tB5SXXmd9vU.md#t-00-40-44)**
-> "...een before. Where was Brigitte Macron on the dates that that Egyptian plane was—from 9/4 through to 9/11? Where was Brigitte Macron? I would just like to know, I need to know where Brigitte Macron was and..."
-
-**[00:40:44](/episodes/ep-tB5SXXmd9vU.md#t-00-40-44)**
-> "...plane was—from 9/4 through to 9/11?"
 
 </details>
 

@@ -21,25 +21,135 @@ _Type: Dates_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (6 mentions)</summary>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2 mentions)</summary>
 
-**[00:05:02](/episodes/ep-2WEHTk0Xewg.md#ent-date-september-10th-t-00-04-27)**
-> "...orget, just to lead up into this. They are telling us that at no time that we're allowed to know on September 10th, after Charlie (Charlie Kirk) was shot, the roommate—that's Lance—received a text message from Robi..."
+**[00:17:47](/episodes/ep-ZAuuSq_j2_w.md#ent-date-september-10th-t-00-17-47)**
+> "... No. We could actually officially rule out that it was President al-Sisi that was aboard the jet on September 10th because he was photographed at a meeting with the Prime Minister of Tunisia, Sarah Zafrani—and it w..."
 
-**[00:13:24](/episodes/ep-2WEHTk0Xewg.md#ent-date-september-10th-t-00-13-01)**
-> "...lmost perfect. OK, so he then ends this message. This is all from the day. This is all we have from September 10th. Okay. "Judging from today, I'd say grandpa's gone." I want to make it very clear. This is grandpa'..."
+**[00:17:47](/episodes/ep-ZAuuSq_j2_w.md#ent-date-september-10th-t-00-17-47)**
+> "...si that was aboard the jet on September 10th because he was photographed at a meeting with the..."
 
-**[00:28:30](/episodes/ep-2WEHTk0Xewg.md#ent-date-september-10th-t-00-28-30)**
-> "...identified Robinson arriving on UVU campus in a gray Dodge Challenger at approximately 8:29 a.m. on September 10th, in which he is observed on video in a plain maroon t-shirt, light-colored shorts, a black hat with..."
+</details>
 
-**[00:05:02](/episodes/ep-2WEHTk0Xewg.md#ent-date-september-10th-t-00-04-27)**
-> "...that we're allowed to know on September 10th, after Charlie (Charlie Kirk) was shot,"
+<details>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (3 mentions)</summary>
 
-**[00:13:24](/episodes/ep-2WEHTk0Xewg.md#ent-date-september-10th-t-00-13-01)**
-> "This is all we have from September 10th."
+**[00:00:53](/episodes/ep-DqGNvi36ol8.md#ent-date-september-10th-t-00-00-41)**
+> "...y looked at more footage from September 10th than any human being in the government or otherwi..."
 
-**[00:28:30](/episodes/ep-2WEHTk0Xewg.md#ent-date-september-10th-t-00-28-30)**
-> "...at approximately 8:29 a.m. on September 10th, in which he is observed on video in a plain maro..."
+**[00:19:58](/episodes/ep-DqGNvi36ol8.md#ent-date-september-10th-t-00-19-27)**
+> "...ing, of course, now to UVU on September 10th."
+
+**[00:23:08](/episodes/ep-DqGNvi36ol8.md#ent-date-september-10th-t-00-22-59)**
+> "...las decided to wear maroon on September 10th and attend the Charlie Kirk event."
+
+</details>
+
+<details>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
+
+**[00:00:48](/episodes/ep-his-JBjlkh8.md#ent-date-september-10th-t-00-00-44)**
+> "...y, all we have ever asked for were sensible answers to our basic questions about what transpired on September 10th. And it looks like we're going to get those things. So major, major win. I am excited. Also, later ..."
+
+**[00:00:48](/episodes/ep-his-JBjlkh8.md#ent-date-september-10th-t-00-00-44)**
+> "...ions about what transpired on September 10th."
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (4 mentions)</summary>
+
+**[00:24:45](/episodes/ep-a-e7HC6SeK8.md#ent-date-september-10th-t-00-24-09)**
+> "...her countries that are coming together. And it is being reported that it is going to run through to September 10th. On September 2nd, Charlie (Charlie Kirk) sends out the email asking for a DOJ audit of his company..."
+
+**[00:25:26](/episodes/ep-a-e7HC6SeK8.md#ent-date-september-10th-t-00-24-50)**
+> "...e know what happens next. Charlie (Charlie Kirk) is in Korea for a couple of days. He comes back on September 10th, and he gets assassinated. And that also happens to be the same day that that Operation Bright Star..."
+
+**[00:24:45](/episodes/ep-a-e7HC6SeK8.md#ent-date-september-10th-t-00-24-09)**
+> "...it is going to run through to September 10th."
+
+**[00:25:26](/episodes/ep-a-e7HC6SeK8.md#ent-date-september-10th-t-00-24-50)**
+> "He comes back on September 10th, and he gets assassinated."
+
+</details>
+
+<details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (6 mentions)</summary>
+
+**[00:19:06](/episodes/ep-tB5SXXmd9vU.md#ent-date-september-10th-t-00-19-00)**
+> "...ind answering yes or no: If anybody who trained with the French Foreign Legion was on the ground on September 10th at Utah Valley University? And we are asking that explicit question because one of the strangest th..."
+
+**[00:21:46](/episodes/ep-tB5SXXmd9vU.md#ent-date-september-10th-t-00-21-46)**
+> "...nded at Camp Ripley on the 27th, another joint military operation began from August 29th through to September 10th, the day that Charlie (Charlie Kirk) was shot. And that was known as Operation Bright Star, and tha..."
+
+**[00:39:13](/episodes/ep-tB5SXXmd9vU.md#ent-date-september-10th-t-00-21-46)**
+> "...ll you that just to make myself feel good, I said, let me just confirm where Brigitte Macron was on 9/10. That feels like a very easy thing to do. Like, yeah, this is the first lady, lady-man of France. I..."
+
+**[00:19:06](/episodes/ep-tB5SXXmd9vU.md#ent-date-september-10th-t-00-19-00)**
+> "...n Legion was on the ground on September 10th at Utah Valley University?"
+
+**[00:21:46](/episodes/ep-tB5SXXmd9vU.md#ent-date-september-10th-t-00-21-46)**
+> "...n from August 29th through to September 10th, the day that Charlie (Charlie Kirk) was shot."
+
+**[00:39:13](/episodes/ep-tB5SXXmd9vU.md#ent-date-september-10th-t-00-21-46)**
+> "... where Brigitte Macron was on 9/10."
+
+</details>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+
+**[00:19:49](/episodes/ep-mKXdKV-OBog.md#ent-date-september-10th-t-00-19-46)**
+> "... done anything wrong. But unusually, when I went to check that person's socials, they had posted on September 10th about their bulletproof skateboard—that I don't know if it was like a promo for his skateboard or w..."
+
+**[00:19:49](/episodes/ep-mKXdKV-OBog.md#ent-date-september-10th-t-00-19-46)**
+> "...s socials, they had posted on September 10th about their bulletproof skateboard—that I don't k..."
+
+</details>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (8 mentions)</summary>
+
+**[00:01:49](/episodes/ep-sImMM04XdWY.md#ent-date-september-10th-t-00-01-32)**
+> "...ow, that's the reason that I went away to Wyoming. But with every... week that we move further from September 10th, I have more clarity. And I'm starting to focus on things that happened in those early days. And th..."
+
+**[00:03:31](/episodes/ep-sImMM04XdWY.md#ent-date-september-10th-t-00-03-29)**
+> "...ybe communicate to me after, especially given the fact that I told you that while the actual day on September 10th while Charlie (Charlie Kirk) was in the hospital, he told me that there was a list and that me and ..."
+
+**[00:49:30](/episodes/ep-sImMM04XdWY.md#ent-date-september-10th-t-00-03-29)**
+> "...harlie (Charlie Kirk) Kirk—questioning the official narrative—and if dark forces are responsible, a 9/10/2025, no one is as loud as you, but Ron is a real one too." I think you mean 9/10. He don't know—no..."
+
+**[00:49:38](/episodes/ep-sImMM04XdWY.md#ent-date-september-10th-t-00-03-29)**
+> "...re responsible, a 9/10/2025, no one is as loud as you, but Ron is a real one too." I think you mean 9/10. He don't know—no—but he has always known. Yeah, he's another person that I should probably get som..."
+
+**[00:01:49](/episodes/ep-sImMM04XdWY.md#ent-date-september-10th-t-00-01-32)**
+> "...eek that we move further from September 10th, I have more clarity."
+
+**[00:03:31](/episodes/ep-sImMM04XdWY.md#ent-date-september-10th-t-00-03-29)**
+> "... that while the actual day on September 10th while Charlie (Charlie Kirk) was in the hospital,..."
+
+**[00:49:30](/episodes/ep-sImMM04XdWY.md#ent-date-september-10th-t-00-03-29)**
+> "...ark forces are responsible, a 9/10/2025, no one is as loud as you, but Ron is a real..."
+
+**[00:49:38](/episodes/ep-sImMM04XdWY.md#ent-date-september-10th-t-00-03-29)**
+> "I think you mean 9/10."
+
+</details>
+
+<details>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (4 mentions)</summary>
+
+**[00:05:41](/episodes/ep-SKGUzGHymcI.md#ent-date-september-10th-t-00-05-33)**
+> "... that you suspect the government and other entities are involved in the events leading up to and on September 10th." "I'm aware that you also tied the plane, SUBTT, yellow plane, to this and that you are receiving ..."
+
+**[00:06:48](/episodes/ep-SKGUzGHymcI.md#ent-date-september-10th-t-00-06-15)**
+> "...ng to skip and get to the information portion. The information portion reads this. "As you know, on September 10th, an Egyptian government Dassault Falcon 7X tail number SUBTT came into Wilmington, Delaware." "I tr..."
+
+**[00:05:41](/episodes/ep-SKGUzGHymcI.md#ent-date-september-10th-t-00-05-33)**
+> "...e events leading up to and on September 10th.""
+
+**[00:06:48](/episodes/ep-SKGUzGHymcI.md#ent-date-september-10th-t-00-06-15)**
+> ""As you know, on September 10th, an Egyptian government Dassault Falcon 7X tail n..."
 
 </details>
 
@@ -79,65 +189,6 @@ _Type: Dates_
 </details>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (4 mentions)</summary>
-
-**[00:21:52](/episodes/ep-5autG89PW6w.md#t-00-21-25)**
-> "...ng the energy that is rising across the world for people who want to know what the heck happened on 9-10, that, you know, they will be brave, and they will say, "Yeah, Charlie (Charlie Kirk) did—the day b..."
-
-**[00:34:55](/episodes/ep-5autG89PW6w.md#t-00-34-55)**
-> "...now that we have not for a single second ceased our investigation, right? What actually happened on 9-10? We don't know. And we are still working through a ton of the tips related to what happened. But I ..."
-
-**[00:21:52](/episodes/ep-5autG89PW6w.md#t-00-21-25)**
-> "...now what the heck happened on 9-10,"
-
-**[00:34:55](/episodes/ep-5autG89PW6w.md#t-00-34-55)**
-> "What actually happened on 9-10? We don't know."
-
-</details>
-
-<details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
-
-**[00:47:39](/episodes/ep-7RLtGgkTh9o.md#t-00-47-26)**
-> "...I'm going to do. I'm going to follow my every instinct in this until we figure out what happened on 9/10 and beyond that, right? This feels to me like so much is being revealed right now, and the linchpin..."
-
-**[00:47:39](/episodes/ep-7RLtGgkTh9o.md#t-00-47-26)**
-> "...e figure out what happened on 9/10 and beyond that, right?"
-
-</details>
-
-<details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
-
-**[00:22:37](/episodes/ep-Cq7nj9rxPdo.md#ent-date-september-10th-t-00-22-07)**
-> "...ut Charlie and Turning Point USA is just how many military characters were surrounding him. Even in September 10th—people that were in the hospital, right? Let's just—you know—take a look at the chart that we have ..."
-
-**[00:32:50](/episodes/ep-Cq7nj9rxPdo.md#ent-date-september-10th-t-00-32-11)**
-> "...on because there could be something that I'm missing. I am not from the medical field, okay? But on September 10th thereafter—as you've been doing these episodes—we had received a flurry of tips from people telling..."
-
-**[00:22:37](/episodes/ep-Cq7nj9rxPdo.md#ent-date-september-10th-t-00-22-07)**
-> "Even in September 10th—people that were in the hospital, right?"
-
-**[00:32:50](/episodes/ep-Cq7nj9rxPdo.md#ent-date-september-10th-t-00-32-11)**
-> "But on September 10th thereafter—as you've been doing these episodes—we..."
-
-</details>
-
-<details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (3 mentions)</summary>
-
-**[00:00:53](/episodes/ep-DqGNvi36ol8.md#ent-date-september-10th-t-00-00-41)**
-> "...y looked at more footage from September 10th than any human being in the government or otherwi..."
-
-**[00:19:58](/episodes/ep-DqGNvi36ol8.md#ent-date-september-10th-t-00-19-27)**
-> "...ing, of course, now to UVU on September 10th."
-
-**[00:23:08](/episodes/ep-DqGNvi36ol8.md#ent-date-september-10th-t-00-22-59)**
-> "...las decided to wear maroon on September 10th and attend the Charlie Kirk event."
-
-</details>
-
-<details>
 <summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (10 mentions)</summary>
 
 **[00:20:36](/episodes/ep-JQjCAsfoXEE.md#ent-date-september-10th-t-00-20-19)**
@@ -173,13 +224,24 @@ _Type: Dates_
 </details>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
-**[00:05:49](/episodes/ep-LATnak75Si0.md#ent-date-september-10th-t-00-05-38)**
-> "...hich was completely atypical—is the fact that Charlie (Charlie Kirk) was slated to speak in Utah on September 10th and then was... due to return just 10 days later to a different campus in Utah that's under two hou..."
+**[00:47:39](/episodes/ep-7RLtGgkTh9o.md#t-00-47-26)**
+> "...I'm going to do. I'm going to follow my every instinct in this until we figure out what happened on 9/10 and beyond that, right? This feels to me like so much is being revealed right now, and the linchpin..."
 
-**[00:05:49](/episodes/ep-LATnak75Si0.md#ent-date-september-10th-t-00-05-38)**
-> "...as slated to speak in Utah on September 10th and then was..."
+**[00:47:39](/episodes/ep-7RLtGgkTh9o.md#t-00-47-26)**
+> "...e figure out what happened on 9/10 and beyond that, right?"
+
+</details>
+
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
+
+**[01:01:28](/episodes/ep-yAIb-NuUh_U.md#t-01-01-28)**
+> "...under the guise of Christianity trying to make the rest of the world shut up about what happened on 9/10. So anyways, you guys, thank you for the support. We will see you tomorrow."
+
+**[01:01:28](/episodes/ep-yAIb-NuUh_U.md#t-01-01-28)**
+> "...hut up about what happened on 9/10."
 
 </details>
 
@@ -195,13 +257,13 @@ _Type: Dates_
 </details>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (2 mentions)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
 
-**[00:16:38](/episodes/ep-QZWSsq8ZWzw.md#ent-date-september-10th-t-00-16-32)**
-> "...stand that, then they can't be your students. That's it. That was on September 9th, okay. Then came September 10th. Obviously Charlie (Charlie Kirk) lost his life. And a few days later, I was told—and I sensed inst..."
+**[00:05:49](/episodes/ep-LATnak75Si0.md#ent-date-september-10th-t-00-05-38)**
+> "...hich was completely atypical—is the fact that Charlie (Charlie Kirk) was slated to speak in Utah on September 10th and then was... due to return just 10 days later to a different campus in Utah that's under two hou..."
 
-**[00:16:38](/episodes/ep-QZWSsq8ZWzw.md#ent-date-september-10th-t-00-16-32)**
-> "Then came September 10th. Obviously Charlie Kirk lost his life."
+**[00:05:49](/episodes/ep-LATnak75Si0.md#ent-date-september-10th-t-00-05-38)**
+> "...as slated to speak in Utah on September 10th and then was..."
 
 </details>
 
@@ -225,155 +287,6 @@ _Type: Dates_
 
 **[00:22:30](/episodes/ep-Qfwr08Ebczo.md#ent-date-september-10th-t-00-22-17)**
 > "...nd they were on the ground on September 10th at Utah Valley University when Charlie Kirk was s..."
-
-</details>
-
-<details>
-<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (2 mentions)</summary>
-
-**[00:05:34](/episodes/ep-Qt0VHV-POCg.md#ent-date-september-10th-t-00-05-03)**
-> "...s, obviously." And then you can see the second citations that are used. September—the dates of them—September 10th, 2025. So it's brand spanking new, you guys. Still has tags on it. Less than 36 hours later. Now, y..."
-
-**[00:05:34](/episodes/ep-Qt0VHV-POCg.md#ent-date-september-10th-t-00-05-03)**
-> "September—the dates of them—September 10th, 2025."
-
-</details>
-
-<details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (4 mentions)</summary>
-
-**[00:05:41](/episodes/ep-SKGUzGHymcI.md#ent-date-september-10th-t-00-05-33)**
-> "... that you suspect the government and other entities are involved in the events leading up to and on September 10th." "I'm aware that you also tied the plane, SUBTT, yellow plane, to this and that you are receiving ..."
-
-**[00:06:48](/episodes/ep-SKGUzGHymcI.md#ent-date-september-10th-t-00-06-15)**
-> "...ng to skip and get to the information portion. The information portion reads this. "As you know, on September 10th, an Egyptian government Dassault Falcon 7X tail number SUBTT came into Wilmington, Delaware." "I tr..."
-
-**[00:05:41](/episodes/ep-SKGUzGHymcI.md#ent-date-september-10th-t-00-05-33)**
-> "...e events leading up to and on September 10th.""
-
-**[00:06:48](/episodes/ep-SKGUzGHymcI.md#ent-date-september-10th-t-00-06-15)**
-> ""As you know, on September 10th, an Egyptian government Dassault Falcon 7X tail n..."
-
-</details>
-
-<details>
-<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (2 mentions)</summary>
-
-**[00:00:11](/episodes/ep-UBkFkg4UNY8.md#t-00-00-00)**
-> "...I should maybe go back and find all of the original videos that were going viral on social media on 9/10, all the videos pertaining to the assassination, the people that were providing testimony as to wha..."
-
-**[00:00:11](/episodes/ep-UBkFkg4UNY8.md#t-00-00-00)**
-> "...oing viral on social media on 9/10,"
-
-</details>
-
-<details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2 mentions)</summary>
-
-**[00:17:47](/episodes/ep-ZAuuSq_j2_w.md#ent-date-september-10th-t-00-17-47)**
-> "... No. We could actually officially rule out that it was President al-Sisi that was aboard the jet on September 10th because he was photographed at a meeting with the Prime Minister of Tunisia, Sarah Zafrani—and it w..."
-
-**[00:17:47](/episodes/ep-ZAuuSq_j2_w.md#ent-date-september-10th-t-00-17-47)**
-> "...si that was aboard the jet on September 10th because he was photographed at a meeting with the..."
-
-</details>
-
-<details>
-<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (4 mentions)</summary>
-
-**[00:34:48](/episodes/ep-ZGxnf5cj4Uw.md#ent-date-september-10th-t-00-34-14)**
-> "... what he was doing back onto campus and what exactly he remembers. Take a listen. Again, this is on September 10th, and it's around 11:30 p.m. at night. Hey, it's September 10th, 2025, and I was just heading back f..."
-
-**[00:34:49](/episodes/ep-ZGxnf5cj4Uw.md#ent-date-september-10th-t-00-34-49)**
-> "...rs. Take a listen. Again, this is on September 10th, and it's around 11:30 p.m. at night. Hey, it's September 10th, 2025, and I was just heading back from Salt Lake to Blanding. I'm getting a very late start. It's ..."
-
-**[00:34:48](/episodes/ep-ZGxnf5cj4Uw.md#ent-date-september-10th-t-00-34-14)**
-> "Again, this is on September 10th, and it's around 11:30 p.m. at night."
-
-**[00:34:49](/episodes/ep-ZGxnf5cj4Uw.md#ent-date-september-10th-t-00-34-49)**
-> "Hey, it's September 10th, 2025, and I was just heading back from Salt Lake..."
-
-</details>
-
-<details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (4 mentions)</summary>
-
-**[00:24:45](/episodes/ep-a-e7HC6SeK8.md#ent-date-september-10th-t-00-24-09)**
-> "...her countries that are coming together. And it is being reported that it is going to run through to September 10th. On September 2nd, Charlie (Charlie Kirk) sends out the email asking for a DOJ audit of his company..."
-
-**[00:25:26](/episodes/ep-a-e7HC6SeK8.md#ent-date-september-10th-t-00-24-50)**
-> "...e know what happens next. Charlie (Charlie Kirk) is in Korea for a couple of days. He comes back on September 10th, and he gets assassinated. And that also happens to be the same day that that Operation Bright Star..."
-
-**[00:24:45](/episodes/ep-a-e7HC6SeK8.md#ent-date-september-10th-t-00-24-09)**
-> "...it is going to run through to September 10th."
-
-**[00:25:26](/episodes/ep-a-e7HC6SeK8.md#ent-date-september-10th-t-00-24-50)**
-> "He comes back on September 10th, and he gets assassinated."
-
-</details>
-
-<details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (4 mentions)</summary>
-
-**[00:05:01](/episodes/ep-adJ4LNGp84I.md#t-00-05-01)**
-> "...ay? Yesterday, we mentioned that apparently it was kind of everybody's first day on the job, right? 9/10 was everybody's first day on the job, meaning that there were a lot of these recent and brand new h..."
-
-**[00:16:34](/episodes/ep-adJ4LNGp84I.md#t-00-16-14)**
-> "...mething that I don't know. And I wanna be in the know on what happened to Charlie (Charlie Kirk) on 9/10. So if you have any tips pertaining to who the woman was that was caught, please let me know. I am ..."
-
-**[00:05:01](/episodes/ep-adJ4LNGp84I.md#t-00-05-01)**
-> "9/10 was everybody's first day on the job, meaning tha..."
-
-**[00:16:34](/episodes/ep-adJ4LNGp84I.md#t-00-16-14)**
-> "... to Charlie (Charlie Kirk) on 9/10."
-
-</details>
-
-<details>
-<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (8 mentions)</summary>
-
-**[00:08:06](/episodes/ep-c5BcKF91iec.md#ent-date-september-10th-t-00-07-38)**
-> "...et like Sam Parker, James Lee, Ian Carroll (Ian Carroll), Zeb Boykin, many others. And a video from September 10th has gone pretty viral, okay? So let's take a look at this. It's a video of, of course, Pastor Rob M..."
-
-**[00:28:31](/episodes/ep-c5BcKF91iec.md#ent-date-september-10th-t-00-28-26)**
-> "...nna keep on going and jump into a succession plan. We're gonna figure out what the hell happened on September 10th first. And I'm gonna tell you guys, Charlie had a vision. We'll get to that after a few ads. All ri..."
-
-**[00:04:08](/episodes/ep-c5BcKF91iec.md#ent-date-september-10th-t-00-07-38)**
-> "...elusion. I mean, I truly believed that I would be fighting for answers to what actually happened on 9/10, alongside Charlie's inner circle. I thought the band maybe was going to get back together. We were..."
-
-**[00:33:04](/episodes/ep-c5BcKF91iec.md#ent-date-september-10th-t-00-28-26)**
-> "... And so, yeah, I will be doing whatever I want to do until the truth is told about what happened on 9/10. We should start with Josh Hammer, by the way, because he really has now become the king of defying..."
-
-**[00:04:08](/episodes/ep-c5BcKF91iec.md#ent-date-september-10th-t-00-07-38)**
-> "... to what actually happened on 9/10,"
-
-**[00:08:06](/episodes/ep-c5BcKF91iec.md#ent-date-september-10th-t-00-07-38)**
-> "And a video from September 10th has gone pretty viral, okay?"
-
-**[00:28:31](/episodes/ep-c5BcKF91iec.md#ent-date-september-10th-t-00-28-26)**
-> "...out what the hell happened on September 10th first."
-
-**[00:33:04](/episodes/ep-c5BcKF91iec.md#ent-date-september-10th-t-00-28-26)**
-> "...s told about what happened on 9/10."
-
-</details>
-
-<details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1 mentions)</summary>
-
-**[00:40:46](/episodes/ep-czVBmqZP6Ss.md#t-00-40-44)**
-> "...identified Robinson arriving on UVU campus in a gray Dodge Challenger at approximately 8:29 a.m. on September 10th, in which he is observed on video in a plain maroon t-shirt, light-colored shorts, a black hat with..."
-
-</details>
-
-<details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
-
-**[00:00:48](/episodes/ep-his-JBjlkh8.md#ent-date-september-10th-t-00-00-44)**
-> "...y, all we have ever asked for were sensible answers to our basic questions about what transpired on September 10th. And it looks like we're going to get those things. So major, major win. I am excited. Also, later ..."
-
-**[00:00:48](/episodes/ep-his-JBjlkh8.md#ent-date-september-10th-t-00-00-44)**
-> "...ions about what transpired on September 10th."
 
 </details>
 
@@ -425,30 +338,59 @@ _Type: Dates_
 </details>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (4 mentions)</summary>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (2 mentions)</summary>
 
-**[00:15:54](/episodes/ep-ja26iltROkM.md#t-00-15-54)**
-> "...assination, and visitors to the alleged shooter's residence in the hours and the days leading up to September 10, 2025. Some details are known today, while others are still being pursued to ensure every possibility is ..."
+**[00:05:34](/episodes/ep-Qt0VHV-POCg.md#ent-date-september-10th-t-00-05-03)**
+> "...s, obviously." And then you can see the second citations that are used. September—the dates of them—September 10th, 2025. So it's brand spanking new, you guys. Still has tags on it. Less than 36 hours later. Now, y..."
 
-**[00:04:54](/episodes/ep-ja26iltROkM.md#t-00-04-41)**
-> "... is truth. And we are not getting the truth right now of what happened to Charlie (Charlie Kirk) on 9-10. And to be very clear, I am going to need it. I demand it. In fact, I'm now currently working on a ..."
-
-**[00:04:54](/episodes/ep-ja26iltROkM.md#t-00-04-41)**
-> "... to Charlie (Charlie Kirk) on 9-10."
-
-**[00:15:54](/episodes/ep-ja26iltROkM.md#t-00-15-54)**
-> "...rs and the days leading up to September 10, 2025."
+**[00:05:34](/episodes/ep-Qt0VHV-POCg.md#ent-date-september-10th-t-00-05-03)**
+> "September—the dates of them—September 10th, 2025."
 
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
 
-**[00:19:49](/episodes/ep-mKXdKV-OBog.md#ent-date-september-10th-t-00-19-46)**
-> "... done anything wrong. But unusually, when I went to check that person's socials, they had posted on September 10th about their bulletproof skateboard—that I don't know if it was like a promo for his skateboard or w..."
+**[00:22:37](/episodes/ep-Cq7nj9rxPdo.md#ent-date-september-10th-t-00-22-07)**
+> "...ut Charlie and Turning Point USA is just how many military characters were surrounding him. Even in September 10th—people that were in the hospital, right? Let's just—you know—take a look at the chart that we have ..."
 
-**[00:19:49](/episodes/ep-mKXdKV-OBog.md#ent-date-september-10th-t-00-19-46)**
-> "...s socials, they had posted on September 10th about their bulletproof skateboard—that I don't k..."
+**[00:32:50](/episodes/ep-Cq7nj9rxPdo.md#ent-date-september-10th-t-00-32-11)**
+> "...on because there could be something that I'm missing. I am not from the medical field, okay? But on September 10th thereafter—as you've been doing these episodes—we had received a flurry of tips from people telling..."
+
+**[00:22:37](/episodes/ep-Cq7nj9rxPdo.md#ent-date-september-10th-t-00-22-07)**
+> "Even in September 10th—people that were in the hospital, right?"
+
+**[00:32:50](/episodes/ep-Cq7nj9rxPdo.md#ent-date-september-10th-t-00-32-11)**
+> "But on September 10th thereafter—as you've been doing these episodes—we..."
+
+</details>
+
+<details>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (8 mentions)</summary>
+
+**[00:08:06](/episodes/ep-c5BcKF91iec.md#ent-date-september-10th-t-00-07-38)**
+> "...et like Sam Parker, James Lee, Ian Carroll (Ian Carroll), Zeb Boykin, many others. And a video from September 10th has gone pretty viral, okay? So let's take a look at this. It's a video of, of course, Pastor Rob M..."
+
+**[00:28:31](/episodes/ep-c5BcKF91iec.md#ent-date-september-10th-t-00-28-26)**
+> "...nna keep on going and jump into a succession plan. We're gonna figure out what the hell happened on September 10th first. And I'm gonna tell you guys, Charlie had a vision. We'll get to that after a few ads. All ri..."
+
+**[00:04:08](/episodes/ep-c5BcKF91iec.md#ent-date-september-10th-t-00-07-38)**
+> "...elusion. I mean, I truly believed that I would be fighting for answers to what actually happened on 9/10, alongside Charlie's inner circle. I thought the band maybe was going to get back together. We were..."
+
+**[00:33:04](/episodes/ep-c5BcKF91iec.md#ent-date-september-10th-t-00-28-26)**
+> "... And so, yeah, I will be doing whatever I want to do until the truth is told about what happened on 9/10. We should start with Josh Hammer, by the way, because he really has now become the king of defying..."
+
+**[00:04:08](/episodes/ep-c5BcKF91iec.md#ent-date-september-10th-t-00-07-38)**
+> "... to what actually happened on 9/10,"
+
+**[00:08:06](/episodes/ep-c5BcKF91iec.md#ent-date-september-10th-t-00-07-38)**
+> "And a video from September 10th has gone pretty viral, okay?"
+
+**[00:28:31](/episodes/ep-c5BcKF91iec.md#ent-date-september-10th-t-00-28-26)**
+> "...out what the hell happened on September 10th first."
+
+**[00:33:04](/episodes/ep-c5BcKF91iec.md#ent-date-september-10th-t-00-28-26)**
+> "...s told about what happened on 9/10."
 
 </details>
 
@@ -472,6 +414,142 @@ _Type: Dates_
 
 **[01:05:38](/episodes/ep-pc3pxRyNFZk.md#t-01-05-21)**
 > "We are not going to forget 9/10, least of all when it hasn't been solved."
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (4 mentions)</summary>
+
+**[00:21:52](/episodes/ep-5autG89PW6w.md#t-00-21-25)**
+> "...ng the energy that is rising across the world for people who want to know what the heck happened on 9-10, that, you know, they will be brave, and they will say, "Yeah, Charlie (Charlie Kirk) did—the day b..."
+
+**[00:34:55](/episodes/ep-5autG89PW6w.md#t-00-34-55)**
+> "...now that we have not for a single second ceased our investigation, right? What actually happened on 9-10? We don't know. And we are still working through a ton of the tips related to what happened. But I ..."
+
+**[00:21:52](/episodes/ep-5autG89PW6w.md#t-00-21-25)**
+> "...now what the heck happened on 9-10,"
+
+**[00:34:55](/episodes/ep-5autG89PW6w.md#t-00-34-55)**
+> "What actually happened on 9-10? We don't know."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (4 mentions)</summary>
+
+**[00:05:01](/episodes/ep-adJ4LNGp84I.md#t-00-05-01)**
+> "...ay? Yesterday, we mentioned that apparently it was kind of everybody's first day on the job, right? 9/10 was everybody's first day on the job, meaning that there were a lot of these recent and brand new h..."
+
+**[00:16:34](/episodes/ep-adJ4LNGp84I.md#t-00-16-14)**
+> "...mething that I don't know. And I wanna be in the know on what happened to Charlie (Charlie Kirk) on 9/10. So if you have any tips pertaining to who the woman was that was caught, please let me know. I am ..."
+
+**[00:05:01](/episodes/ep-adJ4LNGp84I.md#t-00-05-01)**
+> "9/10 was everybody's first day on the job, meaning tha..."
+
+**[00:16:34](/episodes/ep-adJ4LNGp84I.md#t-00-16-14)**
+> "... to Charlie (Charlie Kirk) on 9/10."
+
+</details>
+
+<details>
+<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (4 mentions)</summary>
+
+**[00:34:48](/episodes/ep-ZGxnf5cj4Uw.md#ent-date-september-10th-t-00-34-14)**
+> "... what he was doing back onto campus and what exactly he remembers. Take a listen. Again, this is on September 10th, and it's around 11:30 p.m. at night. Hey, it's September 10th, 2025, and I was just heading back f..."
+
+**[00:34:49](/episodes/ep-ZGxnf5cj4Uw.md#ent-date-september-10th-t-00-34-49)**
+> "...rs. Take a listen. Again, this is on September 10th, and it's around 11:30 p.m. at night. Hey, it's September 10th, 2025, and I was just heading back from Salt Lake to Blanding. I'm getting a very late start. It's ..."
+
+**[00:34:48](/episodes/ep-ZGxnf5cj4Uw.md#ent-date-september-10th-t-00-34-14)**
+> "Again, this is on September 10th, and it's around 11:30 p.m. at night."
+
+**[00:34:49](/episodes/ep-ZGxnf5cj4Uw.md#ent-date-september-10th-t-00-34-49)**
+> "Hey, it's September 10th, 2025, and I was just heading back from Salt Lake..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (2 mentions)</summary>
+
+**[00:16:38](/episodes/ep-QZWSsq8ZWzw.md#ent-date-september-10th-t-00-16-32)**
+> "...stand that, then they can't be your students. That's it. That was on September 9th, okay. Then came September 10th. Obviously Charlie (Charlie Kirk) lost his life. And a few days later, I was told—and I sensed inst..."
+
+**[00:16:38](/episodes/ep-QZWSsq8ZWzw.md#ent-date-september-10th-t-00-16-32)**
+> "Then came September 10th. Obviously Charlie Kirk lost his life."
+
+</details>
+
+<details>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (2 mentions)</summary>
+
+**[00:00:11](/episodes/ep-UBkFkg4UNY8.md#t-00-00-00)**
+> "...I should maybe go back and find all of the original videos that were going viral on social media on 9/10, all the videos pertaining to the assassination, the people that were providing testimony as to wha..."
+
+**[00:00:11](/episodes/ep-UBkFkg4UNY8.md#t-00-00-00)**
+> "...oing viral on social media on 9/10,"
+
+</details>
+
+<details>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (4 mentions)</summary>
+
+**[00:15:54](/episodes/ep-ja26iltROkM.md#t-00-15-54)**
+> "...assination, and visitors to the alleged shooter's residence in the hours and the days leading up to September 10, 2025. Some details are known today, while others are still being pursued to ensure every possibility is ..."
+
+**[00:04:54](/episodes/ep-ja26iltROkM.md#t-00-04-41)**
+> "... is truth. And we are not getting the truth right now of what happened to Charlie (Charlie Kirk) on 9-10. And to be very clear, I am going to need it. I demand it. In fact, I'm now currently working on a ..."
+
+**[00:04:54](/episodes/ep-ja26iltROkM.md#t-00-04-41)**
+> "... to Charlie (Charlie Kirk) on 9-10."
+
+**[00:15:54](/episodes/ep-ja26iltROkM.md#t-00-15-54)**
+> "...rs and the days leading up to September 10, 2025."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (6 mentions)</summary>
+
+**[00:11:03](/episodes/ep-sreYYcID-QY.md#ent-date-september-10th-t-00-11-03)**
+> "...y released the footage. I think it was... Their footage said that at 8:07 a.m., TMZ is the first—on September 10th—that tells us that there is doorbell cam footage. But I actually want to see when TMZ released it, ..."
+
+**[00:57:13](/episodes/ep-sreYYcID-QY.md#ent-date-september-10th-t-00-57-13)**
+> "...y and fix this." Yes, I am calling on the left and the right to unify and to solve what happened on September 10th, okay? All of us—left and right. Jean Machine writes, "Seriously, our last chance at making a real ..."
+
+**[00:04:30](/episodes/ep-sreYYcID-QY.md#ent-date-september-10th-t-00-11-03)**
+> "...ey are kind of being pressured by the feds not to share things publicly. And that's why I would say 9-10 is beginning to remind me of 9-11, right? The feds sweep through everything to make sure that they ..."
+
+**[00:04:30](/episodes/ep-sreYYcID-QY.md#ent-date-september-10th-t-00-11-03)**
+> "And that's why I would say 9-10 is beginning to remind me of 9-11, right?"
+
+**[00:11:03](/episodes/ep-sreYYcID-QY.md#ent-date-september-10th-t-00-11-03)**
+> "...:07 a.m., TMZ is the first—on September 10th—that tells us that there is doorbell cam footage...."
+
+**[00:57:13](/episodes/ep-sreYYcID-QY.md#ent-date-september-10th-t-00-57-13)**
+> "...and to solve what happened on September 10th, okay?"
+
+</details>
+
+<details>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (6 mentions)</summary>
+
+**[00:05:02](/episodes/ep-2WEHTk0Xewg.md#ent-date-september-10th-t-00-04-27)**
+> "...orget, just to lead up into this. They are telling us that at no time that we're allowed to know on September 10th, after Charlie (Charlie Kirk) was shot, the roommate—that's Lance—received a text message from Robi..."
+
+**[00:13:24](/episodes/ep-2WEHTk0Xewg.md#ent-date-september-10th-t-00-13-01)**
+> "...lmost perfect. OK, so he then ends this message. This is all from the day. This is all we have from September 10th. Okay. "Judging from today, I'd say grandpa's gone." I want to make it very clear. This is grandpa'..."
+
+**[00:28:30](/episodes/ep-2WEHTk0Xewg.md#ent-date-september-10th-t-00-28-30)**
+> "...identified Robinson arriving on UVU campus in a gray Dodge Challenger at approximately 8:29 a.m. on September 10th, in which he is observed on video in a plain maroon t-shirt, light-colored shorts, a black hat with..."
+
+**[00:05:02](/episodes/ep-2WEHTk0Xewg.md#ent-date-september-10th-t-00-04-27)**
+> "...that we're allowed to know on September 10th, after Charlie (Charlie Kirk) was shot,"
+
+**[00:13:24](/episodes/ep-2WEHTk0Xewg.md#ent-date-september-10th-t-00-13-01)**
+> "This is all we have from September 10th."
+
+**[00:28:30](/episodes/ep-2WEHTk0Xewg.md#ent-date-september-10th-t-00-28-30)**
+> "...at approximately 8:29 a.m. on September 10th, in which he is observed on video in a plain maro..."
 
 </details>
 
@@ -508,88 +586,10 @@ _Type: Dates_
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (8 mentions)</summary>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1 mentions)</summary>
 
-**[00:01:49](/episodes/ep-sImMM04XdWY.md#ent-date-september-10th-t-00-01-32)**
-> "...ow, that's the reason that I went away to Wyoming. But with every... week that we move further from September 10th, I have more clarity. And I'm starting to focus on things that happened in those early days. And th..."
-
-**[00:03:31](/episodes/ep-sImMM04XdWY.md#ent-date-september-10th-t-00-03-29)**
-> "...ybe communicate to me after, especially given the fact that I told you that while the actual day on September 10th while Charlie (Charlie Kirk) was in the hospital, he told me that there was a list and that me and ..."
-
-**[00:49:30](/episodes/ep-sImMM04XdWY.md#ent-date-september-10th-t-00-03-29)**
-> "...harlie (Charlie Kirk) Kirk—questioning the official narrative—and if dark forces are responsible, a 9/10/2025, no one is as loud as you, but Ron is a real one too." I think you mean 9/10. He don't know—no..."
-
-**[00:49:38](/episodes/ep-sImMM04XdWY.md#ent-date-september-10th-t-00-03-29)**
-> "...re responsible, a 9/10/2025, no one is as loud as you, but Ron is a real one too." I think you mean 9/10. He don't know—no—but he has always known. Yeah, he's another person that I should probably get som..."
-
-**[00:01:49](/episodes/ep-sImMM04XdWY.md#ent-date-september-10th-t-00-01-32)**
-> "...eek that we move further from September 10th, I have more clarity."
-
-**[00:03:31](/episodes/ep-sImMM04XdWY.md#ent-date-september-10th-t-00-03-29)**
-> "... that while the actual day on September 10th while Charlie (Charlie Kirk) was in the hospital,..."
-
-**[00:49:30](/episodes/ep-sImMM04XdWY.md#ent-date-september-10th-t-00-03-29)**
-> "...ark forces are responsible, a 9/10/2025, no one is as loud as you, but Ron is a real..."
-
-**[00:49:38](/episodes/ep-sImMM04XdWY.md#ent-date-september-10th-t-00-03-29)**
-> "I think you mean 9/10."
-
-</details>
-
-<details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (6 mentions)</summary>
-
-**[00:11:03](/episodes/ep-sreYYcID-QY.md#ent-date-september-10th-t-00-11-03)**
-> "...y released the footage. I think it was... Their footage said that at 8:07 a.m., TMZ is the first—on September 10th—that tells us that there is doorbell cam footage. But I actually want to see when TMZ released it, ..."
-
-**[00:57:13](/episodes/ep-sreYYcID-QY.md#ent-date-september-10th-t-00-57-13)**
-> "...y and fix this." Yes, I am calling on the left and the right to unify and to solve what happened on September 10th, okay? All of us—left and right. Jean Machine writes, "Seriously, our last chance at making a real ..."
-
-**[00:04:30](/episodes/ep-sreYYcID-QY.md#ent-date-september-10th-t-00-11-03)**
-> "...ey are kind of being pressured by the feds not to share things publicly. And that's why I would say 9-10 is beginning to remind me of 9-11, right? The feds sweep through everything to make sure that they ..."
-
-**[00:04:30](/episodes/ep-sreYYcID-QY.md#ent-date-september-10th-t-00-11-03)**
-> "And that's why I would say 9-10 is beginning to remind me of 9-11, right?"
-
-**[00:11:03](/episodes/ep-sreYYcID-QY.md#ent-date-september-10th-t-00-11-03)**
-> "...:07 a.m., TMZ is the first—on September 10th—that tells us that there is doorbell cam footage...."
-
-**[00:57:13](/episodes/ep-sreYYcID-QY.md#ent-date-september-10th-t-00-57-13)**
-> "...and to solve what happened on September 10th, okay?"
-
-</details>
-
-<details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (6 mentions)</summary>
-
-**[00:19:06](/episodes/ep-tB5SXXmd9vU.md#ent-date-september-10th-t-00-19-00)**
-> "...ind answering yes or no: If anybody who trained with the French Foreign Legion was on the ground on September 10th at Utah Valley University? And we are asking that explicit question because one of the strangest th..."
-
-**[00:21:46](/episodes/ep-tB5SXXmd9vU.md#ent-date-september-10th-t-00-21-46)**
-> "...nded at Camp Ripley on the 27th, another joint military operation began from August 29th through to September 10th, the day that Charlie (Charlie Kirk) was shot. And that was known as Operation Bright Star, and tha..."
-
-**[00:39:13](/episodes/ep-tB5SXXmd9vU.md#ent-date-september-10th-t-00-21-46)**
-> "...ll you that just to make myself feel good, I said, let me just confirm where Brigitte Macron was on 9/10. That feels like a very easy thing to do. Like, yeah, this is the first lady, lady-man of France. I..."
-
-**[00:19:06](/episodes/ep-tB5SXXmd9vU.md#ent-date-september-10th-t-00-19-00)**
-> "...n Legion was on the ground on September 10th at Utah Valley University?"
-
-**[00:21:46](/episodes/ep-tB5SXXmd9vU.md#ent-date-september-10th-t-00-21-46)**
-> "...n from August 29th through to September 10th, the day that Charlie (Charlie Kirk) was shot."
-
-**[00:39:13](/episodes/ep-tB5SXXmd9vU.md#ent-date-september-10th-t-00-21-46)**
-> "... where Brigitte Macron was on 9/10."
-
-</details>
-
-<details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
-
-**[01:01:28](/episodes/ep-yAIb-NuUh_U.md#t-01-01-28)**
-> "...under the guise of Christianity trying to make the rest of the world shut up about what happened on 9/10. So anyways, you guys, thank you for the support. We will see you tomorrow."
-
-**[01:01:28](/episodes/ep-yAIb-NuUh_U.md#t-01-01-28)**
-> "...hut up about what happened on 9/10."
+**[00:40:46](/episodes/ep-czVBmqZP6Ss.md#t-00-40-44)**
+> "...identified Robinson arriving on UVU campus in a gray Dodge Challenger at approximately 8:29 a.m. on September 10th, in which he is observed on video in a plain maroon t-shirt, light-colored shorts, a black hat with..."
 
 </details>
 

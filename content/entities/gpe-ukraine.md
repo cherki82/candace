@@ -17,17 +17,6 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
-
-**[00:07:35](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-ukraine-t-00-07-35)**
-> "...e tried to claim definitively that Josh was referring to the criminal who horrifically murdered the Ukrainian refugee, Irina Zarutska, in North Carolina. That was obviously a big story in the beginning of Sept..."
-
-**[00:07:35](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-ukraine-t-00-07-35)**
-> "...who horrifically murdered the Ukrainian refugee, Irina Zarutska, in North Carolina."
-
-</details>
-
-<details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (5 mentions)</summary>
 
 **[00:18:15](/episodes/ep-DqGNvi36ol8.md#ent-gpe-ukraine-t-00-18-15)**
@@ -48,13 +37,93 @@ _Type: Places_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
 
-**[00:06:29](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-ukraine-t-00-06-07)**
-> "... they go after him. That's also why they fired him from Fox because he was speaking out against the Ukrainian war, and that was not allowed. They thought that firing him would effectively ruin him, and he woul..."
+**[00:50:34](/episodes/ep-his-JBjlkh8.md#ent-gpe-ukraine-t-00-50-22)**
+> "... lot going on in the world, obviously. And we also know that there's been a lot of discussion about Ukraine, and there's a million reasons that Emmanuel Macron and him could have had that poorly timed phone ..."
 
-**[00:06:29](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-ukraine-t-00-06-07)**
-> "... was speaking out against the Ukrainian war, and that was not allowed."
+**[00:50:34](/episodes/ep-his-JBjlkh8.md#ent-gpe-ukraine-t-00-50-22)**
+> "...een a lot of discussion about Ukraine, and there's a million reasons that Emmanuel Macr..."
+
+</details>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+
+**[00:17:38](/episodes/ep-mKXdKV-OBog.md#ent-gpe-ukraine-t-00-17-38)**
+> "...turn himself in, who's working? He's very much involved in the military. I believe with shooting in Ukraine, of all places. It's getting shady. And of course, our now infamous planes, SUBTT and SUBNT, are Eg..."
+
+**[00:17:38](/episodes/ep-mKXdKV-OBog.md#ent-gpe-ukraine-t-00-17-38)**
+> "...y. I believe with shooting in Ukraine, of all places."
+
+</details>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (10 mentions)</summary>
+
+**[00:11:52](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-11-43)**
+> "... asking me to stop speaking about Brigitte. And he tells me that it is related to the peace deal in Ukraine. That is ostensibly the reason. On the same day, February 24th—that's how quickly the phone call ha..."
+
+**[00:12:26](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-12-26)**
+> "...ause I don't want people in Russia to be killed because I won't stop speaking about Brigitte if the Ukraine peace deal is actually at the center of this. And he says, "Okay." And then I tried to say, "I will..."
+
+**[00:13:14](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-13-11)**
+> "...is for a while because it's no longer relevant, and I don't want Christian men to be slaughtered in Ukraine because I'm not keeping my mouth shut. Now, on July 1st, Macron sends another legal threat. On July..."
+
+**[00:21:00](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-21-00)**
+> "...here is this remarkable—and I would assume rare, I don't know, but—35 state leaders meet to discuss Ukraine, securing the security of Ukraine, okay? That's what they're there to do. Brigitte greets him on Se..."
+
+**[00:21:12](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-21-00)**
+> "...d assume rare, I don't know, but—35 state leaders meet to discuss Ukraine, securing the security of Ukraine, okay? That's what they're there to do. Brigitte greets him on September 3rd. She also, again, like..."
+
+**[00:11:52](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-11-43)**
+> "... related to the peace deal in Ukraine."
+
+**[00:12:26](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-12-26)**
+> "...peaking about Brigitte if the Ukraine peace deal is actually at the center of this."
+
+**[00:13:14](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-13-11)**
+> "...tian men to be slaughtered in Ukraine because I'm not keeping my mouth shut."
+
+**[00:21:00](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-21-00)**
+> "...state leaders meet to discuss Ukraine,"
+
+**[00:21:12](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-21-00)**
+> "securing the security of Ukraine, okay?"
+
+</details>
+
+<details>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
+
+**[00:43:51](/episodes/ep-SKGUzGHymcI.md#ent-gpe-ukraine-t-00-43-44)**
+> "...use I said we should stop funding Israel. Maybe it's because I said we shouldn't be giving money to Ukraine. Maybe it's because young people largely don't want foreign intervention, and there are individuals..."
+
+**[00:43:51](/episodes/ep-SKGUzGHymcI.md#ent-gpe-ukraine-t-00-43-44)**
+> "... shouldn't be giving money to Ukraine."
+
+</details>
+
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (6 mentions)</summary>
+
+**[00:32:07](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-ukraine-t-00-31-29)**
+> "...t in Israel and its long arm across the world. I told you Charlie (Charlie Kirk) was hitting at the Ukraine stuff. That was a part of my timeline. That's when you really start to see Turning Point Faith ratc..."
+
+**[00:32:17](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-ukraine-t-00-32-11)**
+> "...atchet up—is when Charlie (Charlie Kirk) is going day in and day out speaking about what goes on in Ukraine, speaking about the trafficking of kids in Ukraine. He's just tweeting every day about that stuff. ..."
+
+**[00:32:10](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-ukraine-t-00-31-29)**
+> "I told you Charlie was hitting at the Ukraine stuff."
+
+**[00:32:07](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-ukraine-t-00-31-29)**
+> "...rlie Kirk) was hitting at the Ukraine stuff."
+
+**[00:32:17](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-ukraine-t-00-32-11)**
+> "...peaking about what goes on in Ukraine, speaking about the trafficking of kids in Ukrain..."
+
+**[00:32:17](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-ukraine-t-00-32-11)**
+> "...ut the trafficking of kids in Ukraine."
 
 </details>
 
@@ -70,13 +139,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
 
-**[00:43:51](/episodes/ep-SKGUzGHymcI.md#ent-gpe-ukraine-t-00-43-44)**
-> "...use I said we should stop funding Israel. Maybe it's because I said we shouldn't be giving money to Ukraine. Maybe it's because young people largely don't want foreign intervention, and there are individuals..."
+**[00:06:29](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-ukraine-t-00-06-07)**
+> "... they go after him. That's also why they fired him from Fox because he was speaking out against the Ukrainian war, and that was not allowed. They thought that firing him would effectively ruin him, and he woul..."
 
-**[00:43:51](/episodes/ep-SKGUzGHymcI.md#ent-gpe-ukraine-t-00-43-44)**
-> "... shouldn't be giving money to Ukraine."
+**[00:06:29](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-ukraine-t-00-06-07)**
+> "... was speaking out against the Ukrainian war, and that was not allowed."
 
 </details>
 
@@ -143,6 +212,31 @@ _Type: Places_
 </details>
 
 <details>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
+
+**[00:07:35](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-ukraine-t-00-07-35)**
+> "...e tried to claim definitively that Josh was referring to the criminal who horrifically murdered the Ukrainian refugee, Irina Zarutska, in North Carolina. That was obviously a big story in the beginning of Sept..."
+
+**[00:07:35](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-ukraine-t-00-07-35)**
+> "...who horrifically murdered the Ukrainian refugee, Irina Zarutska, in North Carolina."
+
+</details>
+
+<details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (3 mentions)</summary>
+
+**[00:38:02](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-ukraine-t-00-37-57)**
+> "...o get into this next week. I wanted to make sure that I could get more thorough and show to you the Ukrainian connections that are coming across in this that are very strange, but I guess not so strange when y..."
+
+**[00:11:14](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-ukraine-t-00-37-57)**
+> "...ving swastikas on their head, Ukrainians murdering people."
+
+**[00:38:02](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-ukraine-t-00-37-57)**
+> "... thorough and show to you the Ukrainian connections"
+
+</details>
+
+<details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (14 mentions)</summary>
 
 **[00:18:55](/episodes/ep-adJ4LNGp84I.md#ent-gpe-ukraine-t-00-18-55)**
@@ -190,17 +284,6 @@ _Type: Places_
 </details>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
-
-**[00:50:34](/episodes/ep-his-JBjlkh8.md#ent-gpe-ukraine-t-00-50-22)**
-> "... lot going on in the world, obviously. And we also know that there's been a lot of discussion about Ukraine, and there's a million reasons that Emmanuel Macron and him could have had that poorly timed phone ..."
-
-**[00:50:34](/episodes/ep-his-JBjlkh8.md#ent-gpe-ukraine-t-00-50-22)**
-> "...een a lot of discussion about Ukraine, and there's a million reasons that Emmanuel Macr..."
-
-</details>
-
-<details>
 <summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2 mentions)</summary>
 
 **[00:30:59](/episodes/ep-ja26iltROkM.md#ent-gpe-ukraine-t-00-30-33)**
@@ -212,17 +295,6 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
-
-**[00:17:38](/episodes/ep-mKXdKV-OBog.md#ent-gpe-ukraine-t-00-17-38)**
-> "...turn himself in, who's working? He's very much involved in the military. I believe with shooting in Ukraine, of all places. It's getting shady. And of course, our now infamous planes, SUBTT and SUBNT, are Eg..."
-
-**[00:17:38](/episodes/ep-mKXdKV-OBog.md#ent-gpe-ukraine-t-00-17-38)**
-> "...y. I believe with shooting in Ukraine, of all places."
-
-</details>
-
-<details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (2 mentions)</summary>
 
 **[00:00:27](/episodes/ep-q7f8r-THr84.md#ent-gpe-ukraine-t-00-00-01)**
@@ -230,78 +302,6 @@ _Type: Places_
 
 **[00:00:27](/episodes/ep-q7f8r-THr84.md#ent-gpe-ukraine-t-00-00-01)**
 > "... not a battle between Russia, Ukraine."
-
-</details>
-
-<details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (10 mentions)</summary>
-
-**[00:11:52](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-11-43)**
-> "... asking me to stop speaking about Brigitte. And he tells me that it is related to the peace deal in Ukraine. That is ostensibly the reason. On the same day, February 24th—that's how quickly the phone call ha..."
-
-**[00:12:26](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-12-26)**
-> "...ause I don't want people in Russia to be killed because I won't stop speaking about Brigitte if the Ukraine peace deal is actually at the center of this. And he says, "Okay." And then I tried to say, "I will..."
-
-**[00:13:14](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-13-11)**
-> "...is for a while because it's no longer relevant, and I don't want Christian men to be slaughtered in Ukraine because I'm not keeping my mouth shut. Now, on July 1st, Macron sends another legal threat. On July..."
-
-**[00:21:00](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-21-00)**
-> "...here is this remarkable—and I would assume rare, I don't know, but—35 state leaders meet to discuss Ukraine, securing the security of Ukraine, okay? That's what they're there to do. Brigitte greets him on Se..."
-
-**[00:21:12](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-21-00)**
-> "...d assume rare, I don't know, but—35 state leaders meet to discuss Ukraine, securing the security of Ukraine, okay? That's what they're there to do. Brigitte greets him on September 3rd. She also, again, like..."
-
-**[00:11:52](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-11-43)**
-> "... related to the peace deal in Ukraine."
-
-**[00:12:26](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-12-26)**
-> "...peaking about Brigitte if the Ukraine peace deal is actually at the center of this."
-
-**[00:13:14](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-13-11)**
-> "...tian men to be slaughtered in Ukraine because I'm not keeping my mouth shut."
-
-**[00:21:00](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-21-00)**
-> "...state leaders meet to discuss Ukraine,"
-
-**[00:21:12](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-21-00)**
-> "securing the security of Ukraine, okay?"
-
-</details>
-
-<details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (3 mentions)</summary>
-
-**[00:38:02](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-ukraine-t-00-37-57)**
-> "...o get into this next week. I wanted to make sure that I could get more thorough and show to you the Ukrainian connections that are coming across in this that are very strange, but I guess not so strange when y..."
-
-**[00:11:14](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-ukraine-t-00-37-57)**
-> "...ving swastikas on their head, Ukrainians murdering people."
-
-**[00:38:02](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-ukraine-t-00-37-57)**
-> "... thorough and show to you the Ukrainian connections"
-
-</details>
-
-<details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (6 mentions)</summary>
-
-**[00:32:07](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-ukraine-t-00-31-29)**
-> "...t in Israel and its long arm across the world. I told you Charlie (Charlie Kirk) was hitting at the Ukraine stuff. That was a part of my timeline. That's when you really start to see Turning Point Faith ratc..."
-
-**[00:32:17](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-ukraine-t-00-32-11)**
-> "...atchet up—is when Charlie (Charlie Kirk) is going day in and day out speaking about what goes on in Ukraine, speaking about the trafficking of kids in Ukraine. He's just tweeting every day about that stuff. ..."
-
-**[00:32:10](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-ukraine-t-00-31-29)**
-> "I told you Charlie was hitting at the Ukraine stuff."
-
-**[00:32:07](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-ukraine-t-00-31-29)**
-> "...rlie Kirk) was hitting at the Ukraine stuff."
-
-**[00:32:17](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-ukraine-t-00-32-11)**
-> "...peaking about what goes on in Ukraine, speaking about the trafficking of kids in Ukrain..."
-
-**[00:32:17](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-ukraine-t-00-32-11)**
-> "...ut the trafficking of kids in Ukraine."
 
 </details>
 

@@ -1,11 +1,11 @@
 ---
 title: "The Murder of Little Mary Fagan"
-description: "The Murder of Little Mary Fagan (Work) - 1 mention"
+description: "The Murder of Little Mary Fagan (Works & Media) - 1 mention"
 id: "work-the-murder-of-little-mary-fagan"
 type: "WORK"
 ---
 
-_Type: Work_
+_Type: Works & Media_
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

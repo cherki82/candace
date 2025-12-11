@@ -1,6 +1,6 @@
 ---
 title: "Mikey McCoy"
-description: "Mikey McCoy (People) - 379 mentions"
+description: "Mikey McCoy (People) - 382 mentions"
 id: "person-mikey-mccoy"
 type: "PERSON"
 aliases:
@@ -18,6 +18,167 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
+
+**[00:37:18](/episodes/ep-6DhWawD4ZiM.md#ent-person-mikey-mccoy-t-00-37-23)**
+> "wanted people to know that Mikey (Mikey McCoy) is fantastic"
+
+**[00:37:23](/episodes/ep-6DhWawD4ZiM.md#ent-person-mikey-mccoy-t-00-37-23)**
+> "...ed people to know that Mikey (Mikey McCoy) is fantastic and supercalifragilisticexpialidoci..."
+
+**[00:37:23](/episodes/ep-6DhWawD4ZiM.md#ent-person-mikey-mccoy-t-00-37-23)**
+> "...s, wanted people to know that Mikey (Mikey McCoy) is fantastic and supercalifragilist..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (3 mentions)</summary>
+
+**[00:10:18](/episodes/ep-t4U7NjnUEgc.md#ent-person-mikey-mccoy-t-00-55-15)**
+> "The likes of Andrew, Blake, Mikey, Tyler"
+
+**[00:55:20](/episodes/ep-t4U7NjnUEgc.md#ent-person-mikey-mccoy-t-00-55-15)**
+> "...w, Blake (Blake Neff), Mikey (Mikey McCoy), Tyler (Tyler Robinson), et cetera."
+
+**[00:55:20](/episodes/ep-t4U7NjnUEgc.md#ent-person-mikey-mccoy-t-00-55-15)**
+> "...f Andrew, Blake (Blake Neff), Mikey (Mikey McCoy), Tyler (Tyler Robinson), et cetera."
+
+</details>
+
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
+
+**[00:38:16](/episodes/ep-Kmt6HgRjckU.md#ent-person-mikey-mccoy-t-00-37-59)**
+> "Questions about Mikeys call logs and metadata before and after 12:23 pm"
+
+**[00:38:16](/episodes/ep-Kmt6HgRjckU.md#ent-person-mikey-mccoy-t-00-37-59)**
+> "Can we see Mikey (Mikey McCoy)'s call logs and the metadata before and after 12..."
+
+</details>
+
+<details>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (5 mentions)</summary>
+
+**[00:31:15](/episodes/ep-ZAuuSq_j2_w.md#ent-person-mikey-mccoy-t-00-30-34)**
+> "... to kill him? Andrew Kolvet. Can you tell us, Andrew? Can you tell us, Blake Neff? Can you tell us, Mikey McCoy? Or was he just full of fluff? Just full of fluff at the end. Just really just wanted Josh Hammer's..."
+
+**[00:29:47](/episodes/ep-ZAuuSq_j2_w.md#ent-person-mikey-mccoy-t-00-29-14)**
+> "...uys and said that he thought they were going to kill him. Can we get to that part? Okay, we get it. Mikey's amazing. Blake Neff's the smartest dude we know. It's right here in the Bible. Can we get to the ..."
+
+**[00:06:51](/episodes/ep-ZAuuSq_j2_w.md#ent-person-mikey-mccoy-t-00-29-14)**
+> "Can you tell us, Blake Neff? Can you tell us, Mikey McCoy?"
+
+**[00:29:47](/episodes/ep-ZAuuSq_j2_w.md#ent-person-mikey-mccoy-t-00-29-14)**
+> "Mikey's amazing."
+
+**[00:31:15](/episodes/ep-ZAuuSq_j2_w.md#ent-person-mikey-mccoy-t-00-30-34)**
+> "Can you tell us, Mikey McCoy?"
+
+</details>
+
+<details>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (21 mentions)</summary>
+
+**[00:04:35](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-04-35)**
+> "...rk)'s closest friends and against some of his most dedicated employees. Yes. She has suggested that Michael McCoy, Charlie (Charlie Kirk)'s chief of staff, knew Charlie (Charlie Kirk) would be murdered, was happy ..."
+
+**[00:03:40](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-03-40)**
+> "...hat has been responding in a way that feels even remotely authentic. When he defends the actions of Mikey McCoy on that day, I sense that he believes that he is telling the truth. Anyways, let's listen to what B..."
+
+**[00:05:07](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-05-03)**
+> "...t and foremost, I actually never said that she helped plan the event. I said it was suspicious that Mikey McCoy's wife—that we never found out who did plan the event. That was one of the answers that we wanted t..."
+
+**[00:05:14](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-05-03)**
+> "...wanted to know. And I said that she works in events. Still was not clear on what happened regarding Mikey McCoy. I think the entire world believes that his actions are suspicious, because we have eyes. And you d..."
+
+**[00:06:01](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-05-36)**
+> "..., okay? I may have voiced how they felt—which everyone else is refusing to do—but I do believe that Mikey McCoy should have to answer for who he had on the phone right when the shot went off. So yeah, his father..."
+
+**[00:06:15](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-06-15)**
+> "...r—his own father—is the one that spoke about Charlie (Charlie Kirk)'s notebooks and spoke about how Mikey McCoy was talented. And it was Mikey McCoy who then jumped on Liberty University's stage for an event tha..."
+
+**[00:06:24](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-06-15)**
+> "...e about Charlie (Charlie Kirk)'s notebooks and spoke about how Mikey McCoy was talented. And it was Mikey McCoy who then jumped on Liberty University's stage for an event that was scheduled for Charlie (Charlie ..."
+
+**[00:04:51](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-04-35)**
+> "...t his real name. It is. I have seen his birth certificate myself. She has called it suspicious that Mikey's wife, who works at Turning Point, helped plan the campus tour event where Charlie (Charlie Kirk) ..."
+
+**[00:05:48](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-05-36)**
+> "...a good guy, and you're not gonna make us forget those things because you are trying to pretend that Mikey's actions were totally normal that day. They weren't. That's why I didn't make the public feel that..."
+
+**[00:03:40](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-03-40)**
+> "When he defends the actions of Mikey McCoy on that day, I sense that he believes that he is telling the truth."
+
+**[00:03:40](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-03-40)**
+> "...hen he defends the actions of Mikey McCoy on that day, I sense that he believes that he is ..."
+
+**[00:04:35](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-04-35)**
+> "She has suggested that Michael McCoy, Charlie (Charlie Kirk)'s chief of staff, knew Ch..."
+
+**[00:04:51](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-04-35)**
+> "...led it suspicious that Mikey (Mikey McCoy)'s wife, who works at Turning Point, helped plan ..."
+
+**[00:04:51](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-04-35)**
+> "...has called it suspicious that Mikey (Mikey McCoy)'s wife, who works at Turning Point,..."
+
+**[00:05:07](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-05-03)**
+> "I said it was suspicious that Mikey McCoy's wife—that we never found out who did plan the eve..."
+
+**[00:05:14](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-05-03)**
+> "...ar on what happened regarding Mikey McCoy."
+
+**[00:05:48](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-05-36)**
+> "...trying to pretend that Mikey (Mikey McCoy)'s actions were totally normal that day."
+
+**[00:05:48](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-05-36)**
+> "...ou are trying to pretend that Mikey (Mikey McCoy)'s actions were totally normal that ..."
+
+**[00:06:01](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-05-36)**
+> "...g to do—but I do believe that Mikey McCoy should have to answer for"
+
+**[00:06:15](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-06-15)**
+> "...notebooks and spoke about how Mikey McCoy was talented."
+
+**[00:06:24](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-06-15)**
+> "And it was Mikey McCoy who then jumped on Liberty University's stage for..."
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (4 mentions)</summary>
+
+**[00:18:58](/episodes/ep-a-e7HC6SeK8.md#ent-person-mikey-mccoy-t-00-18-23)**
+> "...rk) vacations up to Maine for a couple of weeks to be with his family. He goes off radar. We've got Mikey McCoy and his wife, Eliza, that join them for the first time. First time they're doing this joint family ..."
+
+**[00:19:05](/episodes/ep-a-e7HC6SeK8.md#ent-person-mikey-mccoy-t-00-19-05)**
+> "... Eliza, that join them for the first time. First time they're doing this joint family vacation. And Mikey's capturing these last videos that are going to warm our hearts about Charlie (Charlie Kirk). And h..."
+
+**[00:18:58](/episodes/ep-a-e7HC6SeK8.md#ent-person-mikey-mccoy-t-00-18-23)**
+> "We've got Mikey McCoy and his wife, Eliza, that join them for the first..."
+
+**[00:19:05](/episodes/ep-a-e7HC6SeK8.md#ent-person-mikey-mccoy-t-00-19-05)**
+> "And Mikey's capturing these last videos that are going to war..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (4 mentions)</summary>
+
+**[00:28:54](/episodes/ep-SKGUzGHymcI.md#ent-person-mikey-mccoy-t-00-28-27)**
+> "... he gets shot, which makes sense, somebody sent it directly, I'm assuming this might have been what Mikey McCoy coordinated, sent it straight to Scottsdale. And I would like to know who specifically got onto thi..."
+
+**[00:30:24](/episodes/ep-SKGUzGHymcI.md#ent-person-mikey-mccoy-t-00-29-52)**
+> "...hat time, Turning Point headquarters, Elizabeth McCoy screamed, she grabbed her phone, she ran out. Mikey probably called her, that would make sense. And that's about 30 minutes away from the airport. If y..."
+
+**[00:28:54](/episodes/ep-SKGUzGHymcI.md#ent-person-mikey-mccoy-t-00-28-27)**
+> "...ing this might have been what Mikey McCoy coordinated, sent it straight to Scottsdale."
+
+**[00:30:24](/episodes/ep-SKGUzGHymcI.md#ent-person-mikey-mccoy-t-00-29-52)**
+> "Mikey probably called her, that would make sense."
+
+</details>
 
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (32 mentions)</summary>
@@ -121,133 +282,6 @@ _Type: People_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4 mentions)</summary>
-
-**[00:39:46](/episodes/ep-7RLtGgkTh9o.md#ent-person-mikey-mccoy-t-00-39-44)**
-> "...at ending—the way he describes a person behind him walking—walking away—almost wild, considering—um—Mikey McCoy, the amazing Mikey McCoy, the not-so-amazing Mikey McCoy. And then he says this—he points over to t..."
-
-**[00:39:46](/episodes/ep-7RLtGgkTh9o.md#ent-person-mikey-mccoy-t-00-39-44)**
-> "...y—almost wild, considering—um—Mikey McCoy, the amazing Mikey McCoy, the not-so-amazing Mike..."
-
-**[00:39:46](/episodes/ep-7RLtGgkTh9o.md#ent-person-mikey-mccoy-t-00-39-44)**
-> "...g—um—Mikey McCoy, the amazing Mikey McCoy, the not-so-amazing Mikey McCoy."
-
-**[00:39:46](/episodes/ep-7RLtGgkTh9o.md#ent-person-mikey-mccoy-t-00-39-44)**
-> "...key McCoy, the not-so-amazing Mikey McCoy."
-
-</details>
-
-<details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (35 mentions)</summary>
-
-**[00:00:07](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-00-00)**
-> "...oint USA has issued a statement, a couple of statements actually. For one, they say the reason that Mikey McCoy walked away so swiftly after Charlie (Charlie Kirk) got shot is because Charlie himself told Mikey ..."
-
-**[00:00:18](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-00-00)**
-> "...arlie Kirk) got shot is because Charlie himself told Mikey to do that. Charlie somehow drilled into Mikey McCoy's mind exactly what he should do in that circumstance. Are you buying that? Any buyers of that? I'd..."
-
-**[00:22:57](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-22-48)**
-> "... got Frank Turek, and Frank Turek—if we want to go through this—we've got Andrew Kolvet, Rob McCoy, Mikey McCoy, Tyler Bowyer. Let's go through. Let's start with Frank Turek if we have that card. And Frank Turek..."
-
-**[00:24:31](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-24-11)**
-> "... George Webb (George Webb speaking) who speaks a little bit further about Rob and obviously this is Mikey McCoy's family. Take a listen. "McCoy does have this strange military background. He does have this stran..."
-
-**[00:35:37](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-35-07)**
-> "...eOwens.com. Okay, we're gonna take a brief break before we get into Turning Point USA's response to Mikey McCoy's actions. All right, you guys, jumping in to tell you about one of my favorite organizations, Preb..."
-
-**[00:40:06](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-40-02)**
-> "... But I would like to get to the bottom of that. Okay, let's jump in here to TPUSA's response to the Mikey McCoy. Actually, it wasn't really a response because, to be fair, they did their episode before my episod..."
-
-**[00:40:17](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-40-02)**
-> "...ore my episode went out. Charlie Kirk's show is before my show is. But it was their response to the Mikey McCoy video going viral. So not a response to me, but rather a response to the people who had pulled this..."
-
-**[00:42:39](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-42-28)**
-> "...ing Point USA. You follow the person to get behind the scenes. I would have Savannah do this before Mikey McCoy did this. It was Sarah Schmackenberger. And they do that. They like the behind-the-scenes reactions..."
-
-**[00:44:56](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-44-32)**
-> "... go off of. I think it's curious that we're hearing this from Andrew, and we're not hearing it from Mikey McCoy. It's very easy to dispel any internet innuendo. You don't actually have to jump into ad hominem at..."
-
-**[00:48:51](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-48-17)**
-> "...who engages in this same sort of act of psychological manipulation, in my viewpoint, and he defends Mikey McCoy. I think this is on his own show. Here's what he had to say. "There's a difference between a possib..."
-
-**[00:49:49](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-49-40)**
-> "...video. Candace Owens: 'These people did not act the right way after Charlie's death. Like my friend Mikey McCoy, the brilliant 24-year-old who at the time when Charlie was shot was 23 and was a hero that day. He..."
-
-**[00:40:35](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-40-02)**
-> "...ker. And here is what Andrew Kolvet had to say. (Andrew Kolvet speaking) He's going to tell us that Mikey was told to do this in the event of this type of an emergency by—you guessed it—Charlie Kirk. Take ..."
-
-**[00:40:55](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-40-41)**
-> "...long the years. He said, 'If anything ever happens to me, you call Erika.' And he drilled that into Mikey's brain so that when this moment of trauma happened, that he turned around, and he knew he had to d..."
-
-**[00:42:18](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-41-51)**
-> "...alled Erika first and then his father. That's what they tell us. Now, in regards to him saying that Mikey was taking social videos, I can tell you it tracks that Mikey would be taking videos behind—like we..."
-
-**[00:42:54](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-42-28)**
-> "...standing where you can get a view of Charlie asking a question. So this part is not tracking. Okay, Mikey is not standing to the side of Charlie; he is behind. And so if you're saying what earlier—we're su..."
-
-**[00:46:25](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-46-25)**
-> "...rug addicts. We're just high on conspiracy theory. Take a listen. "There's a suggestion online that Mikey—Charlie's chief of staff—one of the most sincere people you'd ever meet, brilliant, Christian, kind..."
-
-**[00:00:07](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-00-00)**
-> "reason that Mikey McCoy walked away so swiftly after Charlie got shot"
-
-**[00:00:07](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-00-00)**
-> "...one, they say the reason that Mikey McCoy walked away so swiftly after Charlie (Charlie Kir..."
-
-**[00:00:07](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-00-00)**
-> "... because Charlie himself told Mikey to do that."
-
-**[00:00:18](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-00-00)**
-> "Charlie somehow drilled into Mikey McCoy's mind exactly what he should do in that circumstan..."
-
-**[00:22:57](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-22-48)**
-> "...got Andrew Kolvet, Rob McCoy, Mikey McCoy, Tyler Bowyer."
-
-**[00:24:31](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-24-11)**
-> "...out Rob and obviously this is Mikey McCoy's family."
-
-**[00:35:37](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-35-07)**
-> "...rning Point USA's response to Mikey McCoy's actions."
-
-**[00:40:06](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-40-02)**
-> "...re to TPUSA's response to the Mikey McCoy."
-
-**[00:40:17](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-40-02)**
-> "... it was their response to the Mikey McCoy video going viral."
-
-**[00:40:35](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-40-02)**
-> "He's going to tell us that Mikey was told to do this in the event of this type of ..."
-
-**[00:40:55](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-40-41)**
-> "And he drilled that into Mikey's brain so that when this moment of trauma happened..."
-
-**[00:42:18](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-41-51)**
-> "...in regards to him saying that Mikey was taking social videos, I can tell you it track..."
-
-**[00:42:18](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-41-51)**
-> "...I can tell you it tracks that Mikey would be taking videos behind—like we know when C..."
-
-**[00:42:39](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-42-28)**
-> "... have Savannah do this before Mikey McCoy did this."
-
-**[00:42:54](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-42-28)**
-> "Okay, Mikey is not standing to the side of Charlie; he is beh..."
-
-**[00:44:56](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-44-32)**
-> "...and we're not hearing it from Mikey McCoy."
-
-**[00:46:25](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-46-25)**
-> "...re's a suggestion online that Mikey—Charlie's chief of staff—one of the most sincere ..."
-
-**[00:48:51](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-48-17)**
-> "... my viewpoint, and he defends Mikey McCoy."
-
-**[00:49:49](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-49-40)**
-> "Like my friend Mikey McCoy, the brilliant 24-year-old who at the time when C..."
-
-</details>
-
-<details>
 <summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (8 mentions)</summary>
 
 **[00:11:39](/episodes/ep-JQjCAsfoXEE.md#ent-person-mikey-mccoy-t-00-11-07)**
@@ -277,45 +311,202 @@ _Type: People_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (9 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4 mentions)</summary>
 
-**[00:27:51](/episodes/ep-K1tFD7FfoCU.md#ent-person-mikey-mccoy-t-00-27-09)**
-> "...he lied about the Catholic thing. That was my reason for going after Andrew Kolvet (Andrew Kolvet), Mikey McCoy (Mikey McCoy). Anybody that's told a lie—Rob McCoy (Rob McCoy), blood all over him— you got my atte..."
+**[00:39:46](/episodes/ep-7RLtGgkTh9o.md#ent-person-mikey-mccoy-t-00-39-44)**
+> "...at ending—the way he describes a person behind him walking—walking away—almost wild, considering—um—Mikey McCoy, the amazing Mikey McCoy, the not-so-amazing Mikey McCoy. And then he says this—he points over to t..."
 
-**[00:33:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-mikey-mccoy-t-00-32-27)**
-> "... more transparent about what happened that day. People don't like the stuff that they've seen about Mikey McCoy (Mikey McCoy). They don't like what they've seen about Rob McCoy (Rob McCoy). They don't like the h..."
+**[00:39:46](/episodes/ep-7RLtGgkTh9o.md#ent-person-mikey-mccoy-t-00-39-44)**
+> "...y—almost wild, considering—um—Mikey McCoy, the amazing Mikey McCoy, the not-so-amazing Mike..."
 
-**[00:33:05](/episodes/ep-K1tFD7FfoCU.md#ent-person-mikey-mccoy-t-00-32-27)**
-> "... they've seen about Rob McCoy (Rob McCoy). They don't like the history of Rob McCoy (Rob McCoy) and Mikey McCoy (Mikey McCoy) and their involvement here. They don't like the video of Terrell (Terrell). They don'..."
+**[00:39:46](/episodes/ep-7RLtGgkTh9o.md#ent-person-mikey-mccoy-t-00-39-44)**
+> "...g—um—Mikey McCoy, the amazing Mikey McCoy, the not-so-amazing Mikey McCoy."
 
-**[00:27:51](/episodes/ep-K1tFD7FfoCU.md#ent-person-mikey-mccoy-t-00-27-09)**
-> "...ndrew Kolvet (Andrew Kolvet), Mikey McCoy (Mikey McCoy)."
-
-**[00:27:51](/episodes/ep-K1tFD7FfoCU.md#ent-person-mikey-mccoy-t-00-27-09)**
-> "...(Andrew Kolvet), Mikey McCoy (Mikey McCoy)."
-
-**[00:33:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-mikey-mccoy-t-00-32-27)**
-> "...stuff that they've seen about Mikey McCoy (Mikey McCoy)."
-
-**[00:33:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-mikey-mccoy-t-00-32-27)**
-> "...ey've seen about Mikey McCoy (Mikey McCoy)."
-
-**[00:33:05](/episodes/ep-K1tFD7FfoCU.md#ent-person-mikey-mccoy-t-00-32-27)**
-> "... of Rob McCoy (Rob McCoy) and Mikey McCoy (Mikey McCoy) and their involvement here."
-
-**[00:33:05](/episodes/ep-K1tFD7FfoCU.md#ent-person-mikey-mccoy-t-00-32-27)**
-> "... (Rob McCoy) and Mikey McCoy (Mikey McCoy) and their involvement here."
+**[00:39:46](/episodes/ep-7RLtGgkTh9o.md#ent-person-mikey-mccoy-t-00-39-44)**
+> "...key McCoy, the not-so-amazing Mikey McCoy."
 
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (5 mentions)</summary>
 
-**[00:38:16](/episodes/ep-Kmt6HgRjckU.md#ent-person-mikey-mccoy-t-00-37-59)**
-> "Questions about Mikeys call logs and metadata before and after 12:23 pm"
+**[00:00:47](/episodes/ep-yAIb-NuUh_U.md#ent-person-mikey-mccoy-t-00-00-37)**
+> "... you. We've had those. We definitely know who our allies are. I am resisting making a comment about Mikey McCoy, but ladies and gentlemen, we are definitively in the foxhole right now. And we are learning who Ch..."
 
-**[00:38:16](/episodes/ep-Kmt6HgRjckU.md#ent-person-mikey-mccoy-t-00-37-59)**
-> "Can we see Mikey (Mikey McCoy)'s call logs and the metadata before and after 12..."
+**[00:05:19](/episodes/ep-yAIb-NuUh_U.md#ent-person-mikey-mccoy-t-00-05-06)**
+> "...serve the public interest here. We should not pretend like somehow the case would be put at risk if Mikey McCoy shared his call logs. How's that gonna impact the case? How is that? If you answered questions abou..."
+
+**[00:00:47](/episodes/ep-yAIb-NuUh_U.md#ent-person-mikey-mccoy-t-00-00-37)**
+> "I am resisting making a comment about Mikey McCoy, but ladies and gentlemen, we are definitively in the foxhole right now."
+
+**[00:00:47](/episodes/ep-yAIb-NuUh_U.md#ent-person-mikey-mccoy-t-00-00-37)**
+> "...isting making a comment about Mikey McCoy, but ladies and gentlemen, we are definitively in..."
+
+**[00:05:19](/episodes/ep-yAIb-NuUh_U.md#ent-person-mikey-mccoy-t-00-05-06)**
+> "... case would be put at risk if Mikey McCoy shared his call logs."
+
+</details>
+
+<details>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (29 mentions)</summary>
+
+**[00:15:52](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-15-12)**
+> "...okay? Just getting this together briefly. They told us these lies. The amazing, heroic, magnificent Mikey McCoy had blood all over him. That's a lie, told by Pastor Rob McCoy. Charlie (Charlie Kirk) was a commit..."
+
+**[00:16:36](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-15-57)**
+> "...cers as well. That turned out to be a big lie, an unnecessary lie. Lie number five: the magnificent Mikey McCoy called his dad first. That's a lie. Rob McCoy told that lie. Number six is Terrell, the AV guy, was..."
+
+**[00:18:00](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-17-25)**
+> "... for a company that size—that's 501(c)(3). And 10—like I said, this is by no means definitive list. Mikey McCoy was a hero that day. Now, you could say that's subjective, but I feel like that—like objectively—to..."
+
+**[00:21:25](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-20-57)**
+> "... find out, okay? What's the events department looking like that does that? I know, by the way, that Mikey McCoy's wife is one of the events directors. Now, I'm not saying that she does campus events because ther..."
+
+**[00:22:40](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-22-23)**
+> "...one of the things that's really weird is some of us have been speaking, and we had never heard of a Mikey McCoy—like his son, Mikey McCoy. So I followed that tip pretty lightly. This is by no means like a deep s..."
+
+**[00:28:43](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-28-43)**
+> "...at checkout. To get real specific—by the way, since we're going max—if you went to high school with Mikey McCoy, Dylan Erickson, or Austin Erickson, I would like to hear from you because I'm having some trouble ..."
+
+**[00:33:17](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-33-02)**
+> "...car. Like, Charlie (Charlie Kirk) comes out of his car—arrives for the event. He's with the amazing Mikey McCoy. And you can see that that quote-unquote crazy old man—as described by us—is actually—he's here wit..."
+
+**[00:45:34](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-45-05)**
+> "...these monsters rule over us. Also, I see somebody in the live chat on YouTube wrote, "It looks like Mikey McCoy went to Oaks Christian in Thousand Oaks." That is correct. And the part that you're missing is that..."
+
+**[00:47:26](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-47-10)**
+> "...'m going to do speeches. I'm going to carry on"—and I'm speaking obviously here about Rob McCoy and Mikey McCoy—then you don't get to flip and go, "These people are too aggrieved." It doesn't work for me, okay? ..."
+
+**[00:22:50](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-22-23)**
+> "...y. This is by no means like a deep search, but somebody on the inside of Turning Point told me that Mikey—or Michael, rather—is not his first name. It's a middle name, right? And I just want to know what h..."
+
+**[00:23:01](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-22-23)**
+> "...name, right? And I just want to know what his real name is because I am not letting go of this like Mikey investigation. Something just feels off to me. Rob and Mikey—something ain't right. It's not tracki..."
+
+**[00:23:10](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-23-07)**
+> "...cause I am not letting go of this like Mikey investigation. Something just feels off to me. Rob and Mikey—something ain't right. It's not tracking. So if you have that information, please email moretips@ca..."
+
+**[00:29:04](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-28-43)**
+> "...ool with these individuals, I'd like to hear from you because these people didn't— to my knowledge, Mikey did not go to college, and yet he's a chief of staff. He's 23. He's super young. There's some stuff..."
+
+**[00:46:31](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-46-31)**
+> "... interest in this Christian school. Anyway, and like I said, I want to know who went to school with Mikey and the Erickson brothers. Other comments we have: Angie—"We need Go Max merch. Team Candace for li..."
+
+**[00:15:52](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-15-12)**
+> "... amazing, heroic, magnificent Mikey McCoy had blood all over him."
+
+**[00:16:36](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-15-57)**
+> "... number five: the magnificent Mikey McCoy called his dad first."
+
+**[00:18:00](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-17-25)**
+> "Mikey McCoy was a hero that day."
+
+**[00:21:25](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-20-57)**
+> "I know, by the way, that Mikey McCoy's wife is one of the events directors."
+
+**[00:22:40](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-22-23)**
+> "..., and we had never heard of a Mikey McCoy—like his son, Mikey McCoy."
+
+**[00:22:40](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-22-23)**
+> "...f a Mikey McCoy—like his son, Mikey McCoy."
+
+**[00:22:50](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-22-23)**
+> "...of Turning Point told me that Mikey—or Michael, rather—is not his first name."
+
+**[00:23:01](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-22-23)**
+> "...m not letting go of this like Mikey investigation."
+
+**[00:23:10](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-23-07)**
+> "Rob and Mikey—something ain't right. It's not tracking."
+
+**[00:28:43](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-28-43)**
+> "... you went to high school with Mikey McCoy, Dylan Erickson, or Austin Erickson, I would like..."
+
+**[00:29:04](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-28-43)**
+> "to my knowledge, Mikey did not go to college, and yet he's a chief of st..."
+
+**[00:33:17](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-33-02)**
+> "He's with the amazing Mikey McCoy."
+
+**[00:45:34](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-45-05)**
+> "...YouTube wrote, "It looks like Mikey McCoy went to Oaks Christian in Thousand Oaks.""
+
+**[00:46:31](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-46-31)**
+> "... know who went to school with Mikey and the Erickson brothers."
+
+**[00:47:26](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-47-10)**
+> "...usly here about Rob McCoy and Mikey McCoy—then you don't get to flip and go, "These people ..."
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (22 mentions)</summary>
+
+**[00:22:17](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-22-14)**
+> "...nd. This is kind of the Meghan Markle thing, right? That we talk about. And I'm calling this out to Mikey McCoy. It's like: everybody wants to be famous until you're famous, okay? We want privacy now. Well, it d..."
+
+**[00:24:22](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-24-22)**
+> "...e my response to that. And I don't—I do not have any sympathy for Rob McCoy. I have no sympathy for Mikey McCoy. I have no sympathy for Tyler Bowyer. I—yeah—I think telling the truth is a very easy thing to do w..."
+
+**[00:36:49](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-36-11)**
+> "...t." There's clearly a venue because Charlie (Charlie Kirk) is saying in this chat: "November 3rd at—Mikey McCoy, actually—November 3rd at 6:30 p.m., either Auburn—which has 5,000 seats—or the University of South..."
+
+**[00:47:42](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-47-31)**
+> "... a pretty exciting opportunity. And so I don't understand why we just can't get basic answers about Mikey McCoy that would allow us to just move on from how we are feeling about his behavior following things—and..."
+
+**[00:21:45](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-21-29)**
+> "...e, right? It can't be both. It can't be okay: "Everybody, we're going to keep going. And, you know, Mikey's going to take over for Charlie (Charlie Kirk) at his Liberty Convocation Liberty event that he ha..."
+
+**[00:21:49](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-21-29)**
+> "...ut. And Turning Point USA—people who are directors of faith—they're going to be telling you, like, 'Mikey's got what it takes.' Here's which blah, blah, blah. And then Mikey's going to tell stories about t..."
+
+**[00:22:01](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-21-29)**
+> "...going to be telling you, like, 'Mikey's got what it takes.' Here's which blah, blah, blah. And then Mikey's going to tell stories about that day, go on a show multiple times. Andrew's going to talk about i..."
+
+**[00:46:46](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-46-03)**
+> "... that are asking meaningful questions. Here's one thing she wrote. "Let me tell you something about Mikey. He's a mate." Just kidding; she didn't say that. "I'm one of the longest-tenured employees now at ..."
+
+**[00:46:50](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-46-48)**
+> "...idding; she didn't say that. "I'm one of the longest-tenured employees now at the organization, and Mikey has a servant's heart— if ever I've seen one. You know why he went to Korea and Japan? Because my b..."
+
+**[00:47:00](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-46-48)**
+> "...ed him to. He is always traveling with me—a good portion of it—and he missed his kids, and he asked Mikey to please go and film instead." Okay, I'm just gonna say: I think he probably went to Japan and Kor..."
+
+**[00:51:21](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-51-06)**
+> "...at Candace would suggest that we're engaging in a cover-up." Yes: I did say that. I didn't say that Mikey murdered Charlie Kirk (Charlie Kirk). I said Turning Point is engaged in a cover-up because that is..."
+
+**[00:21:45](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-21-29)**
+> "And, you know, Mikey's going to take over for Charlie (Charlie Kirk) at ..."
+
+**[00:21:49](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-21-29)**
+> "...ing to be telling you, like, 'Mikey's got what it takes.'"
+
+**[00:22:01](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-21-29)**
+> "And then Mikey's going to tell stories about that day,"
+
+**[00:22:17](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-22-14)**
+> ".... And I'm calling this out to Mikey McCoy."
+
+**[00:24:22](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-24-22)**
+> "I have no sympathy for Mikey McCoy."
+
+**[00:36:49](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-36-11)**
+> ""November 3rd at—Mikey McCoy, actually—November 3rd at 6:30 p.m., either Aubur..."
+
+**[00:46:46](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-46-03)**
+> "...t me tell you something about Mikey."
+
+**[00:46:50](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-46-48)**
+> "... now at the organization, and Mikey has a servant's heart—"
+
+**[00:47:00](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-46-48)**
+> "...missed his kids, and he asked Mikey to please go and film instead.""
+
+**[00:47:42](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-47-31)**
+> "...can't get basic answers about Mikey McCoy that would allow us to just move on from how we a..."
+
+**[00:51:21](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-51-06)**
+> "I didn't say that Mikey murdered Charlie Kirk (Charlie Kirk)."
 
 </details>
 
@@ -456,98 +647,6 @@ _Type: People_
 
 **[00:46:23](/episodes/ep-LATnak75Si0.md#ent-person-mikey-mccoy-t-00-46-22)**
 > "You put Mikey McCoy and his wife."
-
-</details>
-
-<details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (29 mentions)</summary>
-
-**[00:15:52](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-15-12)**
-> "...okay? Just getting this together briefly. They told us these lies. The amazing, heroic, magnificent Mikey McCoy had blood all over him. That's a lie, told by Pastor Rob McCoy. Charlie (Charlie Kirk) was a commit..."
-
-**[00:16:36](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-15-57)**
-> "...cers as well. That turned out to be a big lie, an unnecessary lie. Lie number five: the magnificent Mikey McCoy called his dad first. That's a lie. Rob McCoy told that lie. Number six is Terrell, the AV guy, was..."
-
-**[00:18:00](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-17-25)**
-> "... for a company that size—that's 501(c)(3). And 10—like I said, this is by no means definitive list. Mikey McCoy was a hero that day. Now, you could say that's subjective, but I feel like that—like objectively—to..."
-
-**[00:21:25](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-20-57)**
-> "... find out, okay? What's the events department looking like that does that? I know, by the way, that Mikey McCoy's wife is one of the events directors. Now, I'm not saying that she does campus events because ther..."
-
-**[00:22:40](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-22-23)**
-> "...one of the things that's really weird is some of us have been speaking, and we had never heard of a Mikey McCoy—like his son, Mikey McCoy. So I followed that tip pretty lightly. This is by no means like a deep s..."
-
-**[00:28:43](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-28-43)**
-> "...at checkout. To get real specific—by the way, since we're going max—if you went to high school with Mikey McCoy, Dylan Erickson, or Austin Erickson, I would like to hear from you because I'm having some trouble ..."
-
-**[00:33:17](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-33-02)**
-> "...car. Like, Charlie (Charlie Kirk) comes out of his car—arrives for the event. He's with the amazing Mikey McCoy. And you can see that that quote-unquote crazy old man—as described by us—is actually—he's here wit..."
-
-**[00:45:34](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-45-05)**
-> "...these monsters rule over us. Also, I see somebody in the live chat on YouTube wrote, "It looks like Mikey McCoy went to Oaks Christian in Thousand Oaks." That is correct. And the part that you're missing is that..."
-
-**[00:47:26](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-47-10)**
-> "...'m going to do speeches. I'm going to carry on"—and I'm speaking obviously here about Rob McCoy and Mikey McCoy—then you don't get to flip and go, "These people are too aggrieved." It doesn't work for me, okay? ..."
-
-**[00:22:50](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-22-23)**
-> "...y. This is by no means like a deep search, but somebody on the inside of Turning Point told me that Mikey—or Michael, rather—is not his first name. It's a middle name, right? And I just want to know what h..."
-
-**[00:23:01](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-22-23)**
-> "...name, right? And I just want to know what his real name is because I am not letting go of this like Mikey investigation. Something just feels off to me. Rob and Mikey—something ain't right. It's not tracki..."
-
-**[00:23:10](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-23-07)**
-> "...cause I am not letting go of this like Mikey investigation. Something just feels off to me. Rob and Mikey—something ain't right. It's not tracking. So if you have that information, please email moretips@ca..."
-
-**[00:29:04](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-28-43)**
-> "...ool with these individuals, I'd like to hear from you because these people didn't— to my knowledge, Mikey did not go to college, and yet he's a chief of staff. He's 23. He's super young. There's some stuff..."
-
-**[00:46:31](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-46-31)**
-> "... interest in this Christian school. Anyway, and like I said, I want to know who went to school with Mikey and the Erickson brothers. Other comments we have: Angie—"We need Go Max merch. Team Candace for li..."
-
-**[00:15:52](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-15-12)**
-> "... amazing, heroic, magnificent Mikey McCoy had blood all over him."
-
-**[00:16:36](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-15-57)**
-> "... number five: the magnificent Mikey McCoy called his dad first."
-
-**[00:18:00](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-17-25)**
-> "Mikey McCoy was a hero that day."
-
-**[00:21:25](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-20-57)**
-> "I know, by the way, that Mikey McCoy's wife is one of the events directors."
-
-**[00:22:40](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-22-23)**
-> "..., and we had never heard of a Mikey McCoy—like his son, Mikey McCoy."
-
-**[00:22:40](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-22-23)**
-> "...f a Mikey McCoy—like his son, Mikey McCoy."
-
-**[00:22:50](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-22-23)**
-> "...of Turning Point told me that Mikey—or Michael, rather—is not his first name."
-
-**[00:23:01](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-22-23)**
-> "...m not letting go of this like Mikey investigation."
-
-**[00:23:10](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-23-07)**
-> "Rob and Mikey—something ain't right. It's not tracking."
-
-**[00:28:43](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-28-43)**
-> "... you went to high school with Mikey McCoy, Dylan Erickson, or Austin Erickson, I would like..."
-
-**[00:29:04](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-28-43)**
-> "to my knowledge, Mikey did not go to college, and yet he's a chief of st..."
-
-**[00:33:17](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-33-02)**
-> "He's with the amazing Mikey McCoy."
-
-**[00:45:34](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-45-05)**
-> "...YouTube wrote, "It looks like Mikey McCoy went to Oaks Christian in Thousand Oaks.""
-
-**[00:46:31](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-46-31)**
-> "... know who went to school with Mikey and the Erickson brothers."
-
-**[00:47:26](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-47-10)**
-> "...usly here about Rob McCoy and Mikey McCoy—then you don't get to flip and go, "These people ..."
 
 </details>
 
@@ -797,45 +896,34 @@ _Type: People_
 </details>
 
 <details>
-<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (7 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (9 mentions)</summary>
 
-**[00:26:49](/episodes/ep-Qt0VHV-POCg.md#ent-person-mikey-mccoy-t-00-26-17)**
-> "...y around. Check it out at pplx.ai slash Candace. Again, that's pplx.ai slash Candace. All right, so Mikey McCoy is missing from the Charlie Kirk show. He seemed very happy to jump in that seat thereafter. I thin..."
+**[00:27:51](/episodes/ep-K1tFD7FfoCU.md#ent-person-mikey-mccoy-t-00-27-09)**
+> "...he lied about the Catholic thing. That was my reason for going after Andrew Kolvet (Andrew Kolvet), Mikey McCoy (Mikey McCoy). Anybody that's told a lie—Rob McCoy (Rob McCoy), blood all over him— you got my atte..."
 
-**[00:35:41](/episodes/ep-Qt0VHV-POCg.md#ent-person-mikey-mccoy-t-00-35-31)**
-> "...s that Don Jr. is not a bad guy. He's not a bad guy. Don Jr. is probably maybe akin in some ways to Mikey McCoy. I look at Mikey McCoy—I don't know Mikey McCoy at all—and I don't think he's an evil person. I thi..."
+**[00:33:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-mikey-mccoy-t-00-32-27)**
+> "... more transparent about what happened that day. People don't like the stuff that they've seen about Mikey McCoy (Mikey McCoy). They don't like what they've seen about Rob McCoy (Rob McCoy). They don't like the h..."
 
-**[00:35:46](/episodes/ep-Qt0VHV-POCg.md#ent-person-mikey-mccoy-t-00-35-31)**
-> "... bad guy. He's not a bad guy. Don Jr. is probably maybe akin in some ways to Mikey McCoy. I look at Mikey McCoy—I don't know Mikey McCoy at all—and I don't think he's an evil person. I think he is in the shadow ..."
+**[00:33:05](/episodes/ep-K1tFD7FfoCU.md#ent-person-mikey-mccoy-t-00-32-27)**
+> "... they've seen about Rob McCoy (Rob McCoy). They don't like the history of Rob McCoy (Rob McCoy) and Mikey McCoy (Mikey McCoy) and their involvement here. They don't like the video of Terrell (Terrell). They don'..."
 
-**[00:26:49](/episodes/ep-Qt0VHV-POCg.md#ent-person-mikey-mccoy-t-00-26-17)**
-> "All right, so Mikey McCoy is missing from the Charlie Kirk show."
+**[00:27:51](/episodes/ep-K1tFD7FfoCU.md#ent-person-mikey-mccoy-t-00-27-09)**
+> "...ndrew Kolvet (Andrew Kolvet), Mikey McCoy (Mikey McCoy)."
 
-**[00:35:41](/episodes/ep-Qt0VHV-POCg.md#ent-person-mikey-mccoy-t-00-35-31)**
-> "...ly maybe akin in some ways to Mikey McCoy."
+**[00:27:51](/episodes/ep-K1tFD7FfoCU.md#ent-person-mikey-mccoy-t-00-27-09)**
+> "...(Andrew Kolvet), Mikey McCoy (Mikey McCoy)."
 
-**[00:35:46](/episodes/ep-Qt0VHV-POCg.md#ent-person-mikey-mccoy-t-00-35-31)**
-> "I look at Mikey McCoy—I don't know Mikey McCoy at all—and I don't think..."
+**[00:33:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-mikey-mccoy-t-00-32-27)**
+> "...stuff that they've seen about Mikey McCoy (Mikey McCoy)."
 
-**[00:35:46](/episodes/ep-Qt0VHV-POCg.md#ent-person-mikey-mccoy-t-00-35-31)**
-> "...k at Mikey McCoy—I don't know Mikey McCoy at all—and I don't think he's an evil person."
+**[00:33:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-mikey-mccoy-t-00-32-27)**
+> "...ey've seen about Mikey McCoy (Mikey McCoy)."
 
-</details>
+**[00:33:05](/episodes/ep-K1tFD7FfoCU.md#ent-person-mikey-mccoy-t-00-32-27)**
+> "... of Rob McCoy (Rob McCoy) and Mikey McCoy (Mikey McCoy) and their involvement here."
 
-<details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (4 mentions)</summary>
-
-**[00:28:54](/episodes/ep-SKGUzGHymcI.md#ent-person-mikey-mccoy-t-00-28-27)**
-> "... he gets shot, which makes sense, somebody sent it directly, I'm assuming this might have been what Mikey McCoy coordinated, sent it straight to Scottsdale. And I would like to know who specifically got onto thi..."
-
-**[00:30:24](/episodes/ep-SKGUzGHymcI.md#ent-person-mikey-mccoy-t-00-29-52)**
-> "...hat time, Turning Point headquarters, Elizabeth McCoy screamed, she grabbed her phone, she ran out. Mikey probably called her, that would make sense. And that's about 30 minutes away from the airport. If y..."
-
-**[00:28:54](/episodes/ep-SKGUzGHymcI.md#ent-person-mikey-mccoy-t-00-28-27)**
-> "...ing this might have been what Mikey McCoy coordinated, sent it straight to Scottsdale."
-
-**[00:30:24](/episodes/ep-SKGUzGHymcI.md#ent-person-mikey-mccoy-t-00-29-52)**
-> "Mikey probably called her, that would make sense."
+**[00:33:05](/episodes/ep-K1tFD7FfoCU.md#ent-person-mikey-mccoy-t-00-32-27)**
+> "... (Rob McCoy) and Mikey McCoy (Mikey McCoy) and their involvement here."
 
 </details>
 
@@ -875,68 +963,138 @@ _Type: People_
 </details>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (5 mentions)</summary>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (7 mentions)</summary>
 
-**[00:31:15](/episodes/ep-ZAuuSq_j2_w.md#ent-person-mikey-mccoy-t-00-30-34)**
-> "... to kill him? Andrew Kolvet. Can you tell us, Andrew? Can you tell us, Blake Neff? Can you tell us, Mikey McCoy? Or was he just full of fluff? Just full of fluff at the end. Just really just wanted Josh Hammer's..."
+**[00:26:49](/episodes/ep-Qt0VHV-POCg.md#ent-person-mikey-mccoy-t-00-26-17)**
+> "...y around. Check it out at pplx.ai slash Candace. Again, that's pplx.ai slash Candace. All right, so Mikey McCoy is missing from the Charlie Kirk show. He seemed very happy to jump in that seat thereafter. I thin..."
 
-**[00:29:47](/episodes/ep-ZAuuSq_j2_w.md#ent-person-mikey-mccoy-t-00-29-14)**
-> "...uys and said that he thought they were going to kill him. Can we get to that part? Okay, we get it. Mikey's amazing. Blake Neff's the smartest dude we know. It's right here in the Bible. Can we get to the ..."
+**[00:35:41](/episodes/ep-Qt0VHV-POCg.md#ent-person-mikey-mccoy-t-00-35-31)**
+> "...s that Don Jr. is not a bad guy. He's not a bad guy. Don Jr. is probably maybe akin in some ways to Mikey McCoy. I look at Mikey McCoy—I don't know Mikey McCoy at all—and I don't think he's an evil person. I thi..."
 
-**[00:06:51](/episodes/ep-ZAuuSq_j2_w.md#ent-person-mikey-mccoy-t-00-29-14)**
-> "Can you tell us, Blake Neff? Can you tell us, Mikey McCoy?"
+**[00:35:46](/episodes/ep-Qt0VHV-POCg.md#ent-person-mikey-mccoy-t-00-35-31)**
+> "... bad guy. He's not a bad guy. Don Jr. is probably maybe akin in some ways to Mikey McCoy. I look at Mikey McCoy—I don't know Mikey McCoy at all—and I don't think he's an evil person. I think he is in the shadow ..."
 
-**[00:29:47](/episodes/ep-ZAuuSq_j2_w.md#ent-person-mikey-mccoy-t-00-29-14)**
-> "Mikey's amazing."
+**[00:26:49](/episodes/ep-Qt0VHV-POCg.md#ent-person-mikey-mccoy-t-00-26-17)**
+> "All right, so Mikey McCoy is missing from the Charlie Kirk show."
 
-**[00:31:15](/episodes/ep-ZAuuSq_j2_w.md#ent-person-mikey-mccoy-t-00-30-34)**
-> "Can you tell us, Mikey McCoy?"
+**[00:35:41](/episodes/ep-Qt0VHV-POCg.md#ent-person-mikey-mccoy-t-00-35-31)**
+> "...ly maybe akin in some ways to Mikey McCoy."
 
-</details>
+**[00:35:46](/episodes/ep-Qt0VHV-POCg.md#ent-person-mikey-mccoy-t-00-35-31)**
+> "I look at Mikey McCoy—I don't know Mikey McCoy at all—and I don't think..."
 
-<details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (4 mentions)</summary>
-
-**[00:18:58](/episodes/ep-a-e7HC6SeK8.md#ent-person-mikey-mccoy-t-00-18-23)**
-> "...rk) vacations up to Maine for a couple of weeks to be with his family. He goes off radar. We've got Mikey McCoy and his wife, Eliza, that join them for the first time. First time they're doing this joint family ..."
-
-**[00:19:05](/episodes/ep-a-e7HC6SeK8.md#ent-person-mikey-mccoy-t-00-19-05)**
-> "... Eliza, that join them for the first time. First time they're doing this joint family vacation. And Mikey's capturing these last videos that are going to warm our hearts about Charlie (Charlie Kirk). And h..."
-
-**[00:18:58](/episodes/ep-a-e7HC6SeK8.md#ent-person-mikey-mccoy-t-00-18-23)**
-> "We've got Mikey McCoy and his wife, Eliza, that join them for the first..."
-
-**[00:19:05](/episodes/ep-a-e7HC6SeK8.md#ent-person-mikey-mccoy-t-00-19-05)**
-> "And Mikey's capturing these last videos that are going to war..."
+**[00:35:46](/episodes/ep-Qt0VHV-POCg.md#ent-person-mikey-mccoy-t-00-35-31)**
+> "...k at Mikey McCoy—I don't know Mikey McCoy at all—and I don't think he's an evil person."
 
 </details>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (8 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (35 mentions)</summary>
 
-**[00:19:30](/episodes/ep-adJ4LNGp84I.md#ent-person-mikey-mccoy-t-00-19-30)**
-> "...s is Mike Mitchell, but there are old photos of Tyler Robinson when he's a lot younger visiting his Uncle Mikey, okay? His Uncle Mikey, who is working with the Ukrainian Azov Battalion. He's a military man. And ..."
+**[00:00:07](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-00-00)**
+> "...oint USA has issued a statement, a couple of statements actually. For one, they say the reason that Mikey McCoy walked away so swiftly after Charlie (Charlie Kirk) got shot is because Charlie himself told Mikey ..."
 
-**[00:19:45](/episodes/ep-adJ4LNGp84I.md#ent-person-mikey-mccoy-t-00-19-30)**
-> "... there are old photos of Tyler Robinson when he's a lot younger visiting his Uncle Mikey, okay? His Uncle Mikey, who is working with the Ukrainian Azov Battalion. He's a military man. And that gets really intere..."
+**[00:00:18](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-00-00)**
+> "...arlie Kirk) got shot is because Charlie himself told Mikey to do that. Charlie somehow drilled into Mikey McCoy's mind exactly what he should do in that circumstance. Are you buying that? Any buyers of that? I'd..."
 
-**[00:23:12](/episodes/ep-adJ4LNGp84I.md#ent-person-mikey-mccoy-t-00-23-05)**
-> "...'ll actually do that tomorrow and we'll bring in the aspects and show you whether or not, you know, Uncle Mikey could be Mike Mitchell; could he be the detective? But I'm just seeing these recurring themes of th..."
+**[00:22:57](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-22-48)**
+> "... got Frank Turek, and Frank Turek—if we want to go through this—we've got Andrew Kolvet, Rob McCoy, Mikey McCoy, Tyler Bowyer. Let's go through. Let's start with Frank Turek if we have that card. And Frank Turek..."
 
-**[00:19:30](/episodes/ep-adJ4LNGp84I.md#ent-person-mikey-mccoy-t-00-19-30)**
-> "...'s a lot younger visiting his Uncle Mikey, okay?"
+**[00:24:31](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-24-11)**
+> "... George Webb (George Webb speaking) who speaks a little bit further about Rob and obviously this is Mikey McCoy's family. Take a listen. "McCoy does have this strange military background. He does have this stran..."
 
-**[00:19:30](/episodes/ep-adJ4LNGp84I.md#ent-person-mikey-mccoy-t-00-19-30)**
-> "...ot younger visiting his Uncle Mikey, okay?"
+**[00:35:37](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-35-07)**
+> "...eOwens.com. Okay, we're gonna take a brief break before we get into Turning Point USA's response to Mikey McCoy's actions. All right, you guys, jumping in to tell you about one of my favorite organizations, Preb..."
 
-**[00:19:45](/episodes/ep-adJ4LNGp84I.md#ent-person-mikey-mccoy-t-00-19-30)**
-> "His Uncle Mikey, who is working"
+**[00:40:06](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-40-02)**
+> "... But I would like to get to the bottom of that. Okay, let's jump in here to TPUSA's response to the Mikey McCoy. Actually, it wasn't really a response because, to be fair, they did their episode before my episod..."
 
-**[00:23:12](/episodes/ep-adJ4LNGp84I.md#ent-person-mikey-mccoy-t-00-23-05)**
-> "...you whether or not, you know, Uncle Mikey could be Mike Mitchell; could he be the detective..."
+**[00:40:17](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-40-02)**
+> "...ore my episode went out. Charlie Kirk's show is before my show is. But it was their response to the Mikey McCoy video going viral. So not a response to me, but rather a response to the people who had pulled this..."
 
-**[00:23:12](/episodes/ep-adJ4LNGp84I.md#ent-person-mikey-mccoy-t-00-23-05)**
-> "...ether or not, you know, Uncle Mikey could be Mike Mitchell; could he be the detective..."
+**[00:42:39](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-42-28)**
+> "...ing Point USA. You follow the person to get behind the scenes. I would have Savannah do this before Mikey McCoy did this. It was Sarah Schmackenberger. And they do that. They like the behind-the-scenes reactions..."
+
+**[00:44:56](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-44-32)**
+> "... go off of. I think it's curious that we're hearing this from Andrew, and we're not hearing it from Mikey McCoy. It's very easy to dispel any internet innuendo. You don't actually have to jump into ad hominem at..."
+
+**[00:48:51](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-48-17)**
+> "...who engages in this same sort of act of psychological manipulation, in my viewpoint, and he defends Mikey McCoy. I think this is on his own show. Here's what he had to say. "There's a difference between a possib..."
+
+**[00:49:49](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-49-40)**
+> "...video. Candace Owens: 'These people did not act the right way after Charlie's death. Like my friend Mikey McCoy, the brilliant 24-year-old who at the time when Charlie was shot was 23 and was a hero that day. He..."
+
+**[00:40:35](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-40-02)**
+> "...ker. And here is what Andrew Kolvet had to say. (Andrew Kolvet speaking) He's going to tell us that Mikey was told to do this in the event of this type of an emergency by—you guessed it—Charlie Kirk. Take ..."
+
+**[00:40:55](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-40-41)**
+> "...long the years. He said, 'If anything ever happens to me, you call Erika.' And he drilled that into Mikey's brain so that when this moment of trauma happened, that he turned around, and he knew he had to d..."
+
+**[00:42:18](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-41-51)**
+> "...alled Erika first and then his father. That's what they tell us. Now, in regards to him saying that Mikey was taking social videos, I can tell you it tracks that Mikey would be taking videos behind—like we..."
+
+**[00:42:54](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-42-28)**
+> "...standing where you can get a view of Charlie asking a question. So this part is not tracking. Okay, Mikey is not standing to the side of Charlie; he is behind. And so if you're saying what earlier—we're su..."
+
+**[00:46:25](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-46-25)**
+> "...rug addicts. We're just high on conspiracy theory. Take a listen. "There's a suggestion online that Mikey—Charlie's chief of staff—one of the most sincere people you'd ever meet, brilliant, Christian, kind..."
+
+**[00:00:07](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-00-00)**
+> "reason that Mikey McCoy walked away so swiftly after Charlie got shot"
+
+**[00:00:07](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-00-00)**
+> "...one, they say the reason that Mikey McCoy walked away so swiftly after Charlie (Charlie Kir..."
+
+**[00:00:07](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-00-00)**
+> "... because Charlie himself told Mikey to do that."
+
+**[00:00:18](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-00-00)**
+> "Charlie somehow drilled into Mikey McCoy's mind exactly what he should do in that circumstan..."
+
+**[00:22:57](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-22-48)**
+> "...got Andrew Kolvet, Rob McCoy, Mikey McCoy, Tyler Bowyer."
+
+**[00:24:31](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-24-11)**
+> "...out Rob and obviously this is Mikey McCoy's family."
+
+**[00:35:37](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-35-07)**
+> "...rning Point USA's response to Mikey McCoy's actions."
+
+**[00:40:06](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-40-02)**
+> "...re to TPUSA's response to the Mikey McCoy."
+
+**[00:40:17](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-40-02)**
+> "... it was their response to the Mikey McCoy video going viral."
+
+**[00:40:35](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-40-02)**
+> "He's going to tell us that Mikey was told to do this in the event of this type of ..."
+
+**[00:40:55](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-40-41)**
+> "And he drilled that into Mikey's brain so that when this moment of trauma happened..."
+
+**[00:42:18](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-41-51)**
+> "...in regards to him saying that Mikey was taking social videos, I can tell you it track..."
+
+**[00:42:18](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-41-51)**
+> "...I can tell you it tracks that Mikey would be taking videos behind—like we know when C..."
+
+**[00:42:39](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-42-28)**
+> "... have Savannah do this before Mikey McCoy did this."
+
+**[00:42:54](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-42-28)**
+> "Okay, Mikey is not standing to the side of Charlie; he is beh..."
+
+**[00:44:56](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-44-32)**
+> "...and we're not hearing it from Mikey McCoy."
+
+**[00:46:25](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-46-25)**
+> "...re's a suggestion online that Mikey—Charlie's chief of staff—one of the most sincere ..."
+
+**[00:48:51](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-48-17)**
+> "... my viewpoint, and he defends Mikey McCoy."
+
+**[00:49:49](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-49-40)**
+> "Like my friend Mikey McCoy, the brilliant 24-year-old who at the time when C..."
 
 </details>
 
@@ -1084,175 +1242,31 @@ _Type: People_
 </details>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (21 mentions)</summary>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (8 mentions)</summary>
 
-**[00:04:35](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-04-35)**
-> "...rk)'s closest friends and against some of his most dedicated employees. Yes. She has suggested that Michael McCoy, Charlie (Charlie Kirk)'s chief of staff, knew Charlie (Charlie Kirk) would be murdered, was happy ..."
+**[00:19:30](/episodes/ep-adJ4LNGp84I.md#ent-person-mikey-mccoy-t-00-19-30)**
+> "...s is Mike Mitchell, but there are old photos of Tyler Robinson when he's a lot younger visiting his Uncle Mikey, okay? His Uncle Mikey, who is working with the Ukrainian Azov Battalion. He's a military man. And ..."
 
-**[00:03:40](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-03-40)**
-> "...hat has been responding in a way that feels even remotely authentic. When he defends the actions of Mikey McCoy on that day, I sense that he believes that he is telling the truth. Anyways, let's listen to what B..."
+**[00:19:45](/episodes/ep-adJ4LNGp84I.md#ent-person-mikey-mccoy-t-00-19-30)**
+> "... there are old photos of Tyler Robinson when he's a lot younger visiting his Uncle Mikey, okay? His Uncle Mikey, who is working with the Ukrainian Azov Battalion. He's a military man. And that gets really intere..."
 
-**[00:05:07](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-05-03)**
-> "...t and foremost, I actually never said that she helped plan the event. I said it was suspicious that Mikey McCoy's wife—that we never found out who did plan the event. That was one of the answers that we wanted t..."
+**[00:23:12](/episodes/ep-adJ4LNGp84I.md#ent-person-mikey-mccoy-t-00-23-05)**
+> "...'ll actually do that tomorrow and we'll bring in the aspects and show you whether or not, you know, Uncle Mikey could be Mike Mitchell; could he be the detective? But I'm just seeing these recurring themes of th..."
 
-**[00:05:14](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-05-03)**
-> "...wanted to know. And I said that she works in events. Still was not clear on what happened regarding Mikey McCoy. I think the entire world believes that his actions are suspicious, because we have eyes. And you d..."
+**[00:19:30](/episodes/ep-adJ4LNGp84I.md#ent-person-mikey-mccoy-t-00-19-30)**
+> "...'s a lot younger visiting his Uncle Mikey, okay?"
 
-**[00:06:01](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-05-36)**
-> "..., okay? I may have voiced how they felt—which everyone else is refusing to do—but I do believe that Mikey McCoy should have to answer for who he had on the phone right when the shot went off. So yeah, his father..."
+**[00:19:30](/episodes/ep-adJ4LNGp84I.md#ent-person-mikey-mccoy-t-00-19-30)**
+> "...ot younger visiting his Uncle Mikey, okay?"
 
-**[00:06:15](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-06-15)**
-> "...r—his own father—is the one that spoke about Charlie (Charlie Kirk)'s notebooks and spoke about how Mikey McCoy was talented. And it was Mikey McCoy who then jumped on Liberty University's stage for an event tha..."
+**[00:19:45](/episodes/ep-adJ4LNGp84I.md#ent-person-mikey-mccoy-t-00-19-30)**
+> "His Uncle Mikey, who is working"
 
-**[00:06:24](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-06-15)**
-> "...e about Charlie (Charlie Kirk)'s notebooks and spoke about how Mikey McCoy was talented. And it was Mikey McCoy who then jumped on Liberty University's stage for an event that was scheduled for Charlie (Charlie ..."
+**[00:23:12](/episodes/ep-adJ4LNGp84I.md#ent-person-mikey-mccoy-t-00-23-05)**
+> "...you whether or not, you know, Uncle Mikey could be Mike Mitchell; could he be the detective..."
 
-**[00:04:51](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-04-35)**
-> "...t his real name. It is. I have seen his birth certificate myself. She has called it suspicious that Mikey's wife, who works at Turning Point, helped plan the campus tour event where Charlie (Charlie Kirk) ..."
-
-**[00:05:48](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-05-36)**
-> "...a good guy, and you're not gonna make us forget those things because you are trying to pretend that Mikey's actions were totally normal that day. They weren't. That's why I didn't make the public feel that..."
-
-**[00:03:40](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-03-40)**
-> "When he defends the actions of Mikey McCoy on that day, I sense that he believes that he is telling the truth."
-
-**[00:03:40](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-03-40)**
-> "...hen he defends the actions of Mikey McCoy on that day, I sense that he believes that he is ..."
-
-**[00:04:35](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-04-35)**
-> "She has suggested that Michael McCoy, Charlie (Charlie Kirk)'s chief of staff, knew Ch..."
-
-**[00:04:51](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-04-35)**
-> "...led it suspicious that Mikey (Mikey McCoy)'s wife, who works at Turning Point, helped plan ..."
-
-**[00:04:51](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-04-35)**
-> "...has called it suspicious that Mikey (Mikey McCoy)'s wife, who works at Turning Point,..."
-
-**[00:05:07](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-05-03)**
-> "I said it was suspicious that Mikey McCoy's wife—that we never found out who did plan the eve..."
-
-**[00:05:14](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-05-03)**
-> "...ar on what happened regarding Mikey McCoy."
-
-**[00:05:48](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-05-36)**
-> "...trying to pretend that Mikey (Mikey McCoy)'s actions were totally normal that day."
-
-**[00:05:48](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-05-36)**
-> "...ou are trying to pretend that Mikey (Mikey McCoy)'s actions were totally normal that ..."
-
-**[00:06:01](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-05-36)**
-> "...g to do—but I do believe that Mikey McCoy should have to answer for"
-
-**[00:06:15](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-06-15)**
-> "...notebooks and spoke about how Mikey McCoy was talented."
-
-**[00:06:24](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-06-15)**
-> "And it was Mikey McCoy who then jumped on Liberty University's stage for..."
-
-</details>
-
-<details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (3 mentions)</summary>
-
-**[00:10:18](/episodes/ep-t4U7NjnUEgc.md#ent-person-mikey-mccoy-t-00-55-15)**
-> "The likes of Andrew, Blake, Mikey, Tyler"
-
-**[00:55:20](/episodes/ep-t4U7NjnUEgc.md#ent-person-mikey-mccoy-t-00-55-15)**
-> "...w, Blake (Blake Neff), Mikey (Mikey McCoy), Tyler (Tyler Robinson), et cetera."
-
-**[00:55:20](/episodes/ep-t4U7NjnUEgc.md#ent-person-mikey-mccoy-t-00-55-15)**
-> "...f Andrew, Blake (Blake Neff), Mikey (Mikey McCoy), Tyler (Tyler Robinson), et cetera."
-
-</details>
-
-<details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (22 mentions)</summary>
-
-**[00:22:17](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-22-14)**
-> "...nd. This is kind of the Meghan Markle thing, right? That we talk about. And I'm calling this out to Mikey McCoy. It's like: everybody wants to be famous until you're famous, okay? We want privacy now. Well, it d..."
-
-**[00:24:22](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-24-22)**
-> "...e my response to that. And I don't—I do not have any sympathy for Rob McCoy. I have no sympathy for Mikey McCoy. I have no sympathy for Tyler Bowyer. I—yeah—I think telling the truth is a very easy thing to do w..."
-
-**[00:36:49](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-36-11)**
-> "...t." There's clearly a venue because Charlie (Charlie Kirk) is saying in this chat: "November 3rd at—Mikey McCoy, actually—November 3rd at 6:30 p.m., either Auburn—which has 5,000 seats—or the University of South..."
-
-**[00:47:42](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-47-31)**
-> "... a pretty exciting opportunity. And so I don't understand why we just can't get basic answers about Mikey McCoy that would allow us to just move on from how we are feeling about his behavior following things—and..."
-
-**[00:21:45](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-21-29)**
-> "...e, right? It can't be both. It can't be okay: "Everybody, we're going to keep going. And, you know, Mikey's going to take over for Charlie (Charlie Kirk) at his Liberty Convocation Liberty event that he ha..."
-
-**[00:21:49](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-21-29)**
-> "...ut. And Turning Point USA—people who are directors of faith—they're going to be telling you, like, 'Mikey's got what it takes.' Here's which blah, blah, blah. And then Mikey's going to tell stories about t..."
-
-**[00:22:01](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-21-29)**
-> "...going to be telling you, like, 'Mikey's got what it takes.' Here's which blah, blah, blah. And then Mikey's going to tell stories about that day, go on a show multiple times. Andrew's going to talk about i..."
-
-**[00:46:46](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-46-03)**
-> "... that are asking meaningful questions. Here's one thing she wrote. "Let me tell you something about Mikey. He's a mate." Just kidding; she didn't say that. "I'm one of the longest-tenured employees now at ..."
-
-**[00:46:50](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-46-48)**
-> "...idding; she didn't say that. "I'm one of the longest-tenured employees now at the organization, and Mikey has a servant's heart— if ever I've seen one. You know why he went to Korea and Japan? Because my b..."
-
-**[00:47:00](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-46-48)**
-> "...ed him to. He is always traveling with me—a good portion of it—and he missed his kids, and he asked Mikey to please go and film instead." Okay, I'm just gonna say: I think he probably went to Japan and Kor..."
-
-**[00:51:21](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-51-06)**
-> "...at Candace would suggest that we're engaging in a cover-up." Yes: I did say that. I didn't say that Mikey murdered Charlie Kirk (Charlie Kirk). I said Turning Point is engaged in a cover-up because that is..."
-
-**[00:21:45](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-21-29)**
-> "And, you know, Mikey's going to take over for Charlie (Charlie Kirk) at ..."
-
-**[00:21:49](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-21-29)**
-> "...ing to be telling you, like, 'Mikey's got what it takes.'"
-
-**[00:22:01](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-21-29)**
-> "And then Mikey's going to tell stories about that day,"
-
-**[00:22:17](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-22-14)**
-> ".... And I'm calling this out to Mikey McCoy."
-
-**[00:24:22](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-24-22)**
-> "I have no sympathy for Mikey McCoy."
-
-**[00:36:49](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-36-11)**
-> ""November 3rd at—Mikey McCoy, actually—November 3rd at 6:30 p.m., either Aubur..."
-
-**[00:46:46](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-46-03)**
-> "...t me tell you something about Mikey."
-
-**[00:46:50](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-46-48)**
-> "... now at the organization, and Mikey has a servant's heart—"
-
-**[00:47:00](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-46-48)**
-> "...missed his kids, and he asked Mikey to please go and film instead.""
-
-**[00:47:42](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-47-31)**
-> "...can't get basic answers about Mikey McCoy that would allow us to just move on from how we a..."
-
-**[00:51:21](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-51-06)**
-> "I didn't say that Mikey murdered Charlie Kirk (Charlie Kirk)."
-
-</details>
-
-<details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (5 mentions)</summary>
-
-**[00:00:47](/episodes/ep-yAIb-NuUh_U.md#ent-person-mikey-mccoy-t-00-00-37)**
-> "... you. We've had those. We definitely know who our allies are. I am resisting making a comment about Mikey McCoy, but ladies and gentlemen, we are definitively in the foxhole right now. And we are learning who Ch..."
-
-**[00:05:19](/episodes/ep-yAIb-NuUh_U.md#ent-person-mikey-mccoy-t-00-05-06)**
-> "...serve the public interest here. We should not pretend like somehow the case would be put at risk if Mikey McCoy shared his call logs. How's that gonna impact the case? How is that? If you answered questions abou..."
-
-**[00:00:47](/episodes/ep-yAIb-NuUh_U.md#ent-person-mikey-mccoy-t-00-00-37)**
-> "I am resisting making a comment about Mikey McCoy, but ladies and gentlemen, we are definitively in the foxhole right now."
-
-**[00:00:47](/episodes/ep-yAIb-NuUh_U.md#ent-person-mikey-mccoy-t-00-00-37)**
-> "...isting making a comment about Mikey McCoy, but ladies and gentlemen, we are definitively in..."
-
-**[00:05:19](/episodes/ep-yAIb-NuUh_U.md#ent-person-mikey-mccoy-t-00-05-06)**
-> "... case would be put at risk if Mikey McCoy shared his call logs."
+**[00:23:12](/episodes/ep-adJ4LNGp84I.md#ent-person-mikey-mccoy-t-00-23-05)**
+> "...ether or not, you know, Uncle Mikey could be Mike Mitchell; could he be the detective..."
 
 </details>
 
@@ -1281,27 +1295,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>Married To (1)</summary>
-
-- **[Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)**
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:30:00](/episodes/ep-SKGUzGHymcI.md#t-00-29-52): "Elizabeth McCoy, the amazing Mike McCoy's wife."
-  - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:15:47](/episodes/ep-Qfwr08Ebczo.md#t-00-15-33): "When McCoy's responsibilities grew at Turning Point USA, he and his wife sold their home"
-
-</details>
-
-<details>
 <summary>Met With (1)</summary>
 
 - **[Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)**
   - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:30:08](/episodes/ep-SKGUzGHymcI.md#t-00-29-52): "Elizabeth McCoy screamed, she grabbed her phone, she ran out. Mikey probably called her, that would make sense."
-
-</details>
-
-<details>
-<summary>Worked With (1)</summary>
-
-- **[Azov Battalion](/entities/org-azov-battalion.md)**
-  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:19:52](/episodes/ep-adJ4LNGp84I.md#t-00-19-30): "His Uncle Mikey, who is working with the Ukrainian Azov Battalion. He's a military man."
 
 </details>
 
@@ -1320,7 +1317,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
   - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:00:41](/episodes/ep-c5BcKF91iec.md#t-00-00-00)
@@ -1334,19 +1331,12 @@ _Type: People_
   - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:02:11](/episodes/ep-c5BcKF91iec.md#t-00-01-39)
   - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:03:01](/episodes/ep-Qfwr08Ebczo.md#t-00-02-50)
 
-- **[Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)** married to this
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:30:00](/episodes/ep-SKGUzGHymcI.md#t-00-29-52)
-  - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:15:47](/episodes/ep-Qfwr08Ebczo.md#t-00-15-33)
-
 - **[Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)** met with this
   - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:30:08](/episodes/ep-SKGUzGHymcI.md#t-00-29-52)
 
 - **[Pastor Rob McCoy](/entities/person-rob-mccoy.md)** parent of this
   - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:08:12](/episodes/ep-c5BcKF91iec.md#t-00-07-38)
   - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:16:41](/episodes/ep-MUA9ebCF4Ow.md#t-00-15-57)
-
-- **[Azov Battalion](/entities/org-azov-battalion.md)** worked with this
-  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:19:52](/episodes/ep-adJ4LNGp84I.md#t-00-19-30)
 
 </details>
 
@@ -1367,20 +1357,6 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Statements about Mikey McCoy (17)</strong></summary>
-
-<details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3)</summary>
-
-- [00:00:07](/episodes/ep-Cq7nj9rxPdo.md#t-00-00-00) (Claim) **Turning Point USA** (via quoted post): ["Charlie Kirk told Mikey McCoy exactly what he should do in the circums..."](/statements/statement-6f894cffc27b.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:00:07](/episodes/ep-Cq7nj9rxPdo.md#t-00-00-00) (Claim) **Candace Owens**: ["Turning Point USA says Charlie Kirk told Mikey McCoy to walk away afte..."](/statements/statement-676915e9616c.md)
-  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:49:23](/episodes/ep-Cq7nj9rxPdo.md#t-00-49-03) (Opinion) **Frank Turek** (via quoted speech): ["Mikey McCoy was a hero on the day Charlie Kirk was shot and there is n..."](/statements/statement-5a976d59a3e6.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</details>
 
 <details>
 <summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1)</summary>
@@ -1408,6 +1384,20 @@ _Type: People_
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:10:25](/episodes/ep-Qfwr08Ebczo.md#t-00-10-04) (Claim) **Mikey McCoy**: ["Mikey McCoy never traveled with a camera before but decided it would b..."](/statements/statement-6c2dab39f4e0.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3)</summary>
+
+- [00:00:07](/episodes/ep-Cq7nj9rxPdo.md#t-00-00-00) (Claim) **Turning Point USA** (via quoted post): ["Charlie Kirk told Mikey McCoy exactly what he should do in the circums..."](/statements/statement-6f894cffc27b.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:00:07](/episodes/ep-Cq7nj9rxPdo.md#t-00-00-00) (Claim) **Candace Owens**: ["Turning Point USA says Charlie Kirk told Mikey McCoy to walk away afte..."](/statements/statement-676915e9616c.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:49:23](/episodes/ep-Cq7nj9rxPdo.md#t-00-49-03) (Opinion) **Frank Turek** (via quoted speech): ["Mikey McCoy was a hero on the day Charlie Kirk was shot and there is n..."](/statements/statement-5a976d59a3e6.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

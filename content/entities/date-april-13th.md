@@ -13,13 +13,13 @@ _Type: Dates_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
 
-**[00:04:27](/episodes/ep-Cq7nj9rxPdo.md#ent-date-april-13th-t-00-04-13)**
-> "...lf because of the lyrics. And I have this old text that I'm going to show you from Charlie. This is April 13th, 2018. This is what I said to him just so you can kind of get the vibe of what was going on. I said..."
+**[00:42:37](/episodes/ep-a-e7HC6SeK8.md#ent-date-april-13th-t-00-42-29)**
+> "...'t just say that Turning Point was going to be the death of him. But he also wrote this. This is on April 13th. He wrote this: "Hero-ish like tonight is what I have foreseen. This won't result in anything—I'll ..."
 
-**[00:04:27](/episodes/ep-Cq7nj9rxPdo.md#ent-date-april-13th-t-00-04-13)**
-> "This is April 13th, 2018."
+**[00:42:37](/episodes/ep-a-e7HC6SeK8.md#ent-date-april-13th-t-00-42-29)**
+> "This is on April 13th."
 
 </details>
 
@@ -35,13 +35,13 @@ _Type: Dates_
 </details>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
 
-**[00:42:37](/episodes/ep-a-e7HC6SeK8.md#ent-date-april-13th-t-00-42-29)**
-> "...'t just say that Turning Point was going to be the death of him. But he also wrote this. This is on April 13th. He wrote this: "Hero-ish like tonight is what I have foreseen. This won't result in anything—I'll ..."
+**[00:04:27](/episodes/ep-Cq7nj9rxPdo.md#ent-date-april-13th-t-00-04-13)**
+> "...lf because of the lyrics. And I have this old text that I'm going to show you from Charlie. This is April 13th, 2018. This is what I said to him just so you can kind of get the vibe of what was going on. I said..."
 
-**[00:42:37](/episodes/ep-a-e7HC6SeK8.md#ent-date-april-13th-t-00-42-29)**
-> "This is on April 13th."
+**[00:04:27](/episodes/ep-Cq7nj9rxPdo.md#ent-date-april-13th-t-00-04-13)**
+> "This is April 13th, 2018."
 
 </details>
 

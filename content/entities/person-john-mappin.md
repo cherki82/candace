@@ -13,14 +13,6 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1 mentions)</summary>
-
-**[00:16:47](/episodes/ep-Cq7nj9rxPdo.md#t-00-16-27)**
-> "John and Marina Mappin organized UK event"
-
-</details>
-
-<details>
 <summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (4 mentions)</summary>
 
 **[00:33:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-john-mappin-t-00-33-12)**
@@ -34,6 +26,14 @@ _Type: People_
 
 **[00:33:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-john-mappin-t-00-33-12)**
 > "...a Mappin) called John Mappin (John Mappin) a loser."
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1 mentions)</summary>
+
+**[00:16:47](/episodes/ep-Cq7nj9rxPdo.md#t-00-16-27)**
+> "John and Marina Mappin organized UK event"
 
 </details>
 

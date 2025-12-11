@@ -1,11 +1,11 @@
 ---
 title: "Lady Ballers"
-description: "Lady Ballers (Work) - 2 mentions"
+description: "Lady Ballers (Works & Media) - 2 mentions"
 id: "work-lady-ballers"
 type: "WORK"
 ---
 
-_Type: Work_
+_Type: Works & Media_
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

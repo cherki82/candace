@@ -1,11 +1,11 @@
 ---
 title: "A Grief Observed"
-description: "A Grief Observed (Work) - 2 mentions"
+description: "A Grief Observed (Works & Media) - 2 mentions"
 id: "work-a-grief-observed"
 type: "WORK"
 ---
 
-_Type: Work_
+_Type: Works & Media_
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

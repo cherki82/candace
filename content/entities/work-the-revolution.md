@@ -1,13 +1,13 @@
 ---
 title: "The Revolution"
-description: "The Revolution (Work) - 2 mentions"
+description: "The Revolution (Works & Media) - 2 mentions"
 id: "work-the-revolution"
 type: "WORK"
 aliases:
   - "Ken Burns' The Revolution"
 ---
 
-_Type: Work_
+_Type: Works & Media_
 
 **Also known as:** Ken Burns' The Revolution
 

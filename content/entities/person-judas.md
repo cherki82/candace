@@ -1,6 +1,6 @@
 ---
 title: "Judas"
-description: "Judas (People) - 6 mentions"
+description: "Judas (People) - 8 mentions"
 id: "person-judas"
 type: "PERSON"
 ---
@@ -13,13 +13,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (2 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
 
-**[00:43:36](/episodes/ep-c5BcKF91iec.md#ent-person-judas-t-00-43-05)**
-> "...ng about the level of fame that can kill a name. You know what I mean? Like, nobody names their kid Judas anymore. Nobody names their kid Adolf anymore. I'm talking about that level of fame. Infamy. So I'd..."
+**[00:39:54](/episodes/ep-6DhWawD4ZiM.md#ent-person-judas-t-00-52-32)**
+> "it was a conspiracy when Judas betrayed him"
 
-**[00:43:36](/episodes/ep-c5BcKF91iec.md#ent-person-judas-t-00-43-05)**
-> "Like, nobody names their kid Judas anymore."
+**[00:52:46](/episodes/ep-6DhWawD4ZiM.md#ent-person-judas-t-00-52-32)**
+> "...eah, it was a conspiracy when Judas betrayed him and it was for money."
 
 </details>
 
@@ -42,6 +42,17 @@ _Type: People_
 
 **[00:38:54](/episodes/ep-yAIb-NuUh_U.md#ent-person-judas-t-00-38-32)**
 > "And in some regard, it's a Judas culture, right?"
+
+</details>
+
+<details>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (2 mentions)</summary>
+
+**[00:43:36](/episodes/ep-c5BcKF91iec.md#ent-person-judas-t-00-43-05)**
+> "...ng about the level of fame that can kill a name. You know what I mean? Like, nobody names their kid Judas anymore. Nobody names their kid Adolf anymore. I'm talking about that level of fame. Infamy. So I'd..."
+
+**[00:43:36](/episodes/ep-c5BcKF91iec.md#ent-person-judas-t-00-43-05)**
+> "Like, nobody names their kid Judas anymore."
 
 </details>
 

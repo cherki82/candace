@@ -13,55 +13,6 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
-
-**[00:35:15](/episodes/ep-2Riv3I7D0Yk.md#t-00-34-57)**
-> "...at he's on this Zoom call—this is a fact—this night Zoom call, as Josh says it was at night, or the New York Post reported, I think, right, that it was at night—that at the same time, that same day, he's text..."
-
-**[00:35:15](/episodes/ep-2Riv3I7D0Yk.md#t-00-34-57)**
-> "... says it was at night, or the New York Post reported, I think, right, that it was at nig..."
-
-</details>
-
-<details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (11 mentions)</summary>
-
-**[00:18:20](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-new-york-t-00-18-10)**
-> "... have after that 7 a.m. press conference is that exclusively our guys—our resident guys over at the New York Post (every exclusive ever: Jeffrey Epstein's death pictures, Ghislaine Maxwell found at an In-N-Ou..."
-
-**[00:18:40](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-new-york-t-00-18-10)**
-> "...ke if I'm the feds and I'm trying to make this seem like this is organic, I wouldn't give it to the New York Post because we're in Utah. And so cops are probably not leaking to a New York-based publication. B..."
-
-**[00:18:47](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-new-york-t-00-18-10)**
-> "...ldn't give it to the New York Post because we're in Utah. And so cops are probably not leaking to a New York-based publication. But whatever, they have the exclusive. They're the ones that reveal the photo. T..."
-
-**[01:05:01](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-new-york-t-00-18-10)**
-> "...y I woke up, and like all of like Bill Ackman's cronies were like, "Would you like to comment?" The New York Post would like to—I said literally: "New York Post, you guys are just feds." And I'm not—I don't r..."
-
-**[01:05:04](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-new-york-t-00-18-10)**
-> "... cronies were like, "Would you like to comment?" The New York Post would like to—I said literally: "New York Post, you guys are just feds." And I'm not—I don't really feel like commenting. I don't care. The p..."
-
-**[00:18:20](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-new-york-t-00-18-10)**
-> "...our resident guys over at the New York Post (every exclusive ever: Jeffrey Epstein's dea..."
-
-**[00:18:20](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-new-york-t-00-18-10)**
-> "... an In-N-Out)—it's always the New York Post, okay?"
-
-**[00:18:40](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-new-york-t-00-18-10)**
-> "...ic, I wouldn't give it to the New York Post because we're in Utah."
-
-**[00:18:47](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-new-york-t-00-18-10)**
-> "...are probably not leaking to a New York-based publication."
-
-**[01:05:01](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-new-york-t-00-18-10)**
-> "The New York Post would like to—I said literally:"
-
-**[01:05:04](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-new-york-t-00-18-10)**
-> ""New York Post, you guys are just feds.""
-
-</details>
-
-<details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (2 mentions)</summary>
 
 **[00:17:59](/episodes/ep-DqGNvi36ol8.md#ent-gpe-new-york-t-00-51-00)**
@@ -69,6 +20,105 @@ _Type: Places_
 
 **[00:51:30](/episodes/ep-DqGNvi36ol8.md#ent-gpe-new-york-t-00-51-00)**
 > "...t she's going somewhere where New York Times is hosting or CBS is hosting."
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
+
+**[00:19:12](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-new-york-t-00-19-05)**
+> "..., "Amazing. That's just how he is." And on July 25th, Charlie (Charlie Kirk) speaks in Westchester, New York. At the end of July—this is a new little update for you—YieldiFi comes in as the number one sponsor..."
+
+**[00:19:12](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-new-york-t-00-19-05)**
+> "... Kirk) speaks in Westchester, New York."
+
+</details>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+
+**[00:29:00](/episodes/ep-mKXdKV-OBog.md#t-00-28-48)**
+> "...r, at least, of The Free Press before that—before she went on to CBS News. She notoriously left The New York Times and said it was biased, and we needed to have something that was in the middle of the line, a..."
+
+**[00:29:00](/episodes/ep-mKXdKV-OBog.md#t-00-28-48)**
+> "She notoriously left The New York Times and said it was biased, and we needed to ha..."
+
+</details>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
+
+**[00:15:05](/episodes/ep-sImMM04XdWY.md#ent-gpe-new-york-t-00-14-43)**
+> "...get four Gulfstreams? How did he get an island, a massive ranch in New Mexico, the biggest house in New York? Like, what is that? Like, at some point, the basic economics really matter, and they matter becaus..."
+
+**[00:15:05](/episodes/ep-sImMM04XdWY.md#ent-gpe-new-york-t-00-14-43)**
+> "... Mexico, the biggest house in New York?"
+
+</details>
+
+<details>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
+
+**[00:11:52](/episodes/ep-SKGUzGHymcI.md#t-00-11-40)**
+> "...ed to cut the 33 Thomas Street building in half. Seriously, if you Google image 33 Thomas Street in New York City, that's the building that Snowden leaked. Find one that makes it look brown and then compare i..."
+
+**[00:11:52](/episodes/ep-SKGUzGHymcI.md#t-00-11-40)**
+> "...gle image 33 Thomas Street in New York City, that's the building that Snowden leaked."
+
+</details>
+
+<details>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2 mentions)</summary>
+
+**[00:03:32](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-new-york-t-00-03-20)**
+> "...ulling up—nothing, despite the fact that there were news cameras outside waiting, oddly from like a New York news channel. We have not seen anything that we can build in confidently on our timeline that would..."
+
+**[00:03:32](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-new-york-t-00-03-20)**
+> "...de waiting, oddly from like a New York news channel."
+
+</details>
+
+<details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (13 mentions)</summary>
+
+**[00:06:42](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-t-00-07-46)**
+> "...sense. It's not Tucker's (Tucker Carlson's) responsibility. Tucker (Tucker Carlson) doesn't live in New York City. It's not his responsibility to use his platform to speak about Mamdani 17 times. It's very st..."
+
+**[00:08:09](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-t-00-07-46)**
+> "...vernment-run grocery stores gets elected. He's going to likely run our biggest city in the country. New York. And it's like, why did that happen? Is it because people are so like desperate for government-run ..."
+
+**[00:08:22](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-t-00-07-46)**
+> "...e like foreign-born midwits running their cities? Probably not. That guy was the only person in the New York City mayor's debate to say he wanted to focus on New York City. All the candidates were asked, if y..."
+
+**[00:08:37](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-t-00-08-31)**
+> "...ll had an answer. I think most said Israel. Great. And he said, I wouldn't go anywhere. I'd stay in New York. And if I want to meet Jewish constituents, I go to their synagogues, their homes, or whatever. But..."
+
+**[00:08:42](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-t-00-08-31)**
+> "...to meet Jewish constituents, I go to their synagogues, their homes, or whatever. But I'd be here in New York, because that's what I'm doing. I'm running New York. That's my job. Well, he gave the right answer..."
+
+**[00:08:44](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-t-00-08-31)**
+> "..., their homes, or whatever. But I'd be here in New York, because that's what I'm doing. I'm running New York. That's my job. Well, he gave the right answer. He gave the right answer. He gave the right answer,..."
+
+**[00:06:42](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-t-00-07-46)**
+> "...cker Carlson) doesn't live in New York City."
+
+**[00:08:09](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-t-00-07-46)**
+> "New York."
+
+**[00:08:22](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-t-00-07-46)**
+> "...uy was the only person in the New York City mayor's debate to say he wanted to focus on ..."
+
+**[00:08:22](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-t-00-07-46)**
+> "... to say he wanted to focus on New York City."
+
+**[00:08:37](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-t-00-08-31)**
+> "I'd stay in New York."
+
+**[00:08:42](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-t-00-08-31)**
+> "But I'd be here in New York, because that's what I'm doing."
+
+**[00:08:44](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-t-00-08-31)**
+> "I'm running New York."
 
 </details>
 
@@ -173,39 +223,6 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (2 mentions)</summary>
-
-**[00:20:54](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-new-york-t-00-20-35)**
-> "...irk stuff who was a friend of the administration. We got to be a little bit opaque on real headline—New York Times yesterday—pertaining to how upset Kash Patel was when he received an inquiry from Joe Kent's ..."
-
-**[00:20:54](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-new-york-t-00-20-35)**
-> "...e bit opaque on real headline—New York Times yesterday—pertaining to how upset Kash Pate..."
-
-</details>
-
-<details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
-
-**[00:11:52](/episodes/ep-SKGUzGHymcI.md#t-00-11-40)**
-> "...ed to cut the 33 Thomas Street building in half. Seriously, if you Google image 33 Thomas Street in New York City, that's the building that Snowden leaked. Find one that makes it look brown and then compare i..."
-
-**[00:11:52](/episodes/ep-SKGUzGHymcI.md#t-00-11-40)**
-> "...gle image 33 Thomas Street in New York City, that's the building that Snowden leaked."
-
-</details>
-
-<details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
-
-**[00:34:41](/episodes/ep-YA1FxrDWNIo.md#t-00-34-10)**
-> "...d he was just putting it on paper. Was it an email? What was that that they were sharing on it? The New York Post, the Israeli Post, right? What were they sharing there? He wrote of his deep love for Israel. ..."
-
-**[00:34:41](/episodes/ep-YA1FxrDWNIo.md#t-00-34-10)**
-> "The New York Post, the Israeli Post, right?"
-
-</details>
-
-<details>
 <summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (3 mentions)</summary>
 
 **[00:35:58](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-new-york-t-00-35-27)**
@@ -220,24 +237,47 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2 mentions)</summary>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (2 mentions)</summary>
 
-**[00:03:32](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-new-york-t-00-03-20)**
-> "...ulling up—nothing, despite the fact that there were news cameras outside waiting, oddly from like a New York news channel. We have not seen anything that we can build in confidently on our timeline that would..."
+**[00:20:54](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-new-york-t-00-20-35)**
+> "...irk stuff who was a friend of the administration. We got to be a little bit opaque on real headline—New York Times yesterday—pertaining to how upset Kash Patel was when he received an inquiry from Joe Kent's ..."
 
-**[00:03:32](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-new-york-t-00-03-20)**
-> "...de waiting, oddly from like a New York news channel."
+**[00:20:54](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-new-york-t-00-20-35)**
+> "...e bit opaque on real headline—New York Times yesterday—pertaining to how upset Kash Pate..."
 
 </details>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
 
-**[00:19:12](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-new-york-t-00-19-05)**
-> "..., "Amazing. That's just how he is." And on July 25th, Charlie (Charlie Kirk) speaks in Westchester, New York. At the end of July—this is a new little update for you—YieldiFi comes in as the number one sponsor..."
+**[00:35:15](/episodes/ep-2Riv3I7D0Yk.md#t-00-34-57)**
+> "...at he's on this Zoom call—this is a fact—this night Zoom call, as Josh says it was at night, or the New York Post reported, I think, right, that it was at night—that at the same time, that same day, he's text..."
 
-**[00:19:12](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-new-york-t-00-19-05)**
-> "... Kirk) speaks in Westchester, New York."
+**[00:35:15](/episodes/ep-2Riv3I7D0Yk.md#t-00-34-57)**
+> "... says it was at night, or the New York Post reported, I think, right, that it was at nig..."
+
+</details>
+
+<details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (6 mentions)</summary>
+
+**[00:12:19](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-new-york-t-00-12-03)**
+> "...DL shares an office space with the FBI.” They also share an office space with the United Nations in New York now. Same building, across the hall, whatever; that's a fact. And it makes sense. You shouldn't be ..."
+
+**[00:31:02](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-new-york-t-00-30-29)**
+> "...lawyer firm, “Hey, what's the best way to go around here? Like, we need help to get the lawyer from New York who is certified to represent Tyler to get on the case.” So he said, “Whatever you do, Elizabeth, d..."
+
+**[00:31:36](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-new-york-t-00-31-09)**
+> "...hone?” So then I said, “Listen, there is a lawyer who's qualified, and he's actually very famous in New York, wants to represent this kid. All I need is a consent from Tyler Robinson to do so.” “And we think ..."
+
+**[00:12:19](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-new-york-t-00-12-03)**
+> "...ce with the United Nations in New York now."
+
+**[00:31:02](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-new-york-t-00-30-29)**
+> "...d help to get the lawyer from New York who is certified to represent Tyler (Tyler Robins..."
+
+**[00:31:36](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-new-york-t-00-31-09)**
+> "... he's actually very famous in New York, wants to represent this kid."
 
 </details>
 
@@ -259,10 +299,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1 mentions)</summary>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
 
-**[00:50:22](/episodes/ep-czVBmqZP6Ss.md#t-00-50-22)**
-> ".... (Clip: Governor Cox) I know you heard that report by Matt Gutman and this latest reporting in the New York Times that some of the suspect's acquaintances were allegedly talking to him online and joking and ..."
+**[00:34:41](/episodes/ep-YA1FxrDWNIo.md#t-00-34-10)**
+> "...d he was just putting it on paper. Was it an email? What was that that they were sharing on it? The New York Post, the Israeli Post, right? What were they sharing there? He wrote of his deep love for Israel. ..."
+
+**[00:34:41](/episodes/ep-YA1FxrDWNIo.md#t-00-34-10)**
+> "The New York Post, the Israeli Post, right?"
 
 </details>
 
@@ -280,72 +323,6 @@ _Type: Places_
 
 **[00:02:37](/episodes/ep-ja26iltROkM.md#ent-gpe-new-york-t-00-02-10)**
 > "...e meet her at Del Frisco's in New York City.""
-
-</details>
-
-<details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
-
-**[00:29:00](/episodes/ep-mKXdKV-OBog.md#t-00-28-48)**
-> "...r, at least, of The Free Press before that—before she went on to CBS News. She notoriously left The New York Times and said it was biased, and we needed to have something that was in the middle of the line, a..."
-
-**[00:29:00](/episodes/ep-mKXdKV-OBog.md#t-00-28-48)**
-> "She notoriously left The New York Times and said it was biased, and we needed to ha..."
-
-</details>
-
-<details>
-<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (13 mentions)</summary>
-
-**[00:06:42](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-t-00-07-46)**
-> "...sense. It's not Tucker's (Tucker Carlson's) responsibility. Tucker (Tucker Carlson) doesn't live in New York City. It's not his responsibility to use his platform to speak about Mamdani 17 times. It's very st..."
-
-**[00:08:09](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-t-00-07-46)**
-> "...vernment-run grocery stores gets elected. He's going to likely run our biggest city in the country. New York. And it's like, why did that happen? Is it because people are so like desperate for government-run ..."
-
-**[00:08:22](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-t-00-07-46)**
-> "...e like foreign-born midwits running their cities? Probably not. That guy was the only person in the New York City mayor's debate to say he wanted to focus on New York City. All the candidates were asked, if y..."
-
-**[00:08:37](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-t-00-08-31)**
-> "...ll had an answer. I think most said Israel. Great. And he said, I wouldn't go anywhere. I'd stay in New York. And if I want to meet Jewish constituents, I go to their synagogues, their homes, or whatever. But..."
-
-**[00:08:42](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-t-00-08-31)**
-> "...to meet Jewish constituents, I go to their synagogues, their homes, or whatever. But I'd be here in New York, because that's what I'm doing. I'm running New York. That's my job. Well, he gave the right answer..."
-
-**[00:08:44](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-t-00-08-31)**
-> "..., their homes, or whatever. But I'd be here in New York, because that's what I'm doing. I'm running New York. That's my job. Well, he gave the right answer. He gave the right answer. He gave the right answer,..."
-
-**[00:06:42](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-t-00-07-46)**
-> "...cker Carlson) doesn't live in New York City."
-
-**[00:08:09](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-t-00-07-46)**
-> "New York."
-
-**[00:08:22](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-t-00-07-46)**
-> "...uy was the only person in the New York City mayor's debate to say he wanted to focus on ..."
-
-**[00:08:22](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-t-00-07-46)**
-> "... to say he wanted to focus on New York City."
-
-**[00:08:37](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-t-00-08-31)**
-> "I'd stay in New York."
-
-**[00:08:42](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-t-00-08-31)**
-> "But I'd be here in New York, because that's what I'm doing."
-
-**[00:08:44](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-t-00-08-31)**
-> "I'm running New York."
-
-</details>
-
-<details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
-
-**[00:15:05](/episodes/ep-sImMM04XdWY.md#ent-gpe-new-york-t-00-14-43)**
-> "...get four Gulfstreams? How did he get an island, a massive ranch in New Mexico, the biggest house in New York? Like, what is that? Like, at some point, the basic economics really matter, and they matter becaus..."
-
-**[00:15:05](/episodes/ep-sImMM04XdWY.md#ent-gpe-new-york-t-00-14-43)**
-> "... Mexico, the biggest house in New York?"
 
 </details>
 
@@ -373,25 +350,48 @@ _Type: Places_
 </details>
 
 <details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (6 mentions)</summary>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (11 mentions)</summary>
 
-**[00:12:19](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-new-york-t-00-12-03)**
-> "...DL shares an office space with the FBI.” They also share an office space with the United Nations in New York now. Same building, across the hall, whatever; that's a fact. And it makes sense. You shouldn't be ..."
+**[00:18:20](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-new-york-t-00-18-10)**
+> "... have after that 7 a.m. press conference is that exclusively our guys—our resident guys over at the New York Post (every exclusive ever: Jeffrey Epstein's death pictures, Ghislaine Maxwell found at an In-N-Ou..."
 
-**[00:31:02](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-new-york-t-00-30-29)**
-> "...lawyer firm, “Hey, what's the best way to go around here? Like, we need help to get the lawyer from New York who is certified to represent Tyler to get on the case.” So he said, “Whatever you do, Elizabeth, d..."
+**[00:18:40](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-new-york-t-00-18-10)**
+> "...ke if I'm the feds and I'm trying to make this seem like this is organic, I wouldn't give it to the New York Post because we're in Utah. And so cops are probably not leaking to a New York-based publication. B..."
 
-**[00:31:36](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-new-york-t-00-31-09)**
-> "...hone?” So then I said, “Listen, there is a lawyer who's qualified, and he's actually very famous in New York, wants to represent this kid. All I need is a consent from Tyler Robinson to do so.” “And we think ..."
+**[00:18:47](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-new-york-t-00-18-10)**
+> "...ldn't give it to the New York Post because we're in Utah. And so cops are probably not leaking to a New York-based publication. But whatever, they have the exclusive. They're the ones that reveal the photo. T..."
 
-**[00:12:19](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-new-york-t-00-12-03)**
-> "...ce with the United Nations in New York now."
+**[01:05:01](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-new-york-t-00-18-10)**
+> "...y I woke up, and like all of like Bill Ackman's cronies were like, "Would you like to comment?" The New York Post would like to—I said literally: "New York Post, you guys are just feds." And I'm not—I don't r..."
 
-**[00:31:02](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-new-york-t-00-30-29)**
-> "...d help to get the lawyer from New York who is certified to represent Tyler (Tyler Robins..."
+**[01:05:04](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-new-york-t-00-18-10)**
+> "... cronies were like, "Would you like to comment?" The New York Post would like to—I said literally: "New York Post, you guys are just feds." And I'm not—I don't really feel like commenting. I don't care. The p..."
 
-**[00:31:36](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-new-york-t-00-31-09)**
-> "... he's actually very famous in New York, wants to represent this kid."
+**[00:18:20](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-new-york-t-00-18-10)**
+> "...our resident guys over at the New York Post (every exclusive ever: Jeffrey Epstein's dea..."
+
+**[00:18:20](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-new-york-t-00-18-10)**
+> "... an In-N-Out)—it's always the New York Post, okay?"
+
+**[00:18:40](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-new-york-t-00-18-10)**
+> "...ic, I wouldn't give it to the New York Post because we're in Utah."
+
+**[00:18:47](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-new-york-t-00-18-10)**
+> "...are probably not leaking to a New York-based publication."
+
+**[01:05:01](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-new-york-t-00-18-10)**
+> "The New York Post would like to—I said literally:"
+
+**[01:05:04](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-new-york-t-00-18-10)**
+> ""New York Post, you guys are just feds.""
+
+</details>
+
+<details>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1 mentions)</summary>
+
+**[00:50:22](/episodes/ep-czVBmqZP6Ss.md#t-00-50-22)**
+> ".... (Clip: Governor Cox) I know you heard that report by Matt Gutman and this latest reporting in the New York Times that some of the suspect's acquaintances were allegedly talking to him online and joking and ..."
 
 </details>
 

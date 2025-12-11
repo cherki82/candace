@@ -17,14 +17,6 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (1 mentions)</summary>
-
-**[00:22:10](/episodes/ep-r1PS67aRmcA.md#ent-person-harry-t-00-21-35)**
-> "I think we're in Harry Potter, right?"
-
-</details>
-
-<details>
 <summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (3 mentions)</summary>
 
 **[00:40:20](/episodes/ep-yAIb-NuUh_U.md#ent-person-harry-t-00-40-00)**
@@ -35,6 +27,14 @@ _Type: People_
 
 **[01:00:53](/episodes/ep-yAIb-NuUh_U.md#ent-person-harry-t-01-00-44)**
 > "How could I think Harry Potter and Lord of the Rings was good?"
+
+</details>
+
+<details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (1 mentions)</summary>
+
+**[00:22:10](/episodes/ep-r1PS67aRmcA.md#ent-person-harry-t-00-21-35)**
+> "I think we're in Harry Potter, right?"
 
 </details>
 

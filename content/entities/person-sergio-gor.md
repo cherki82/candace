@@ -33,7 +33,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Sergio Gor (1)</strong></summary>
+<summary><strong class="section-title">Statements about Sergio Gor (2)</strong></summary>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1)</summary>
+
+- [00:10:05](/episodes/ep-6DhWawD4ZiM.md#t-00-09-46) (Claim) **Candace Owens**: ["Erika Kirk flew to DC to attend Sergio Gor's swearing in as Ambassador..."](/statements/statement-8c08ccef4942.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1)</summary>

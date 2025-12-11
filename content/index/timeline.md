@@ -2,7 +2,7 @@
 title: "Timeline"
 ---
 
-_Total events: 593_
+_Total events: 601_
 
 > **Note:** Events and dates are extracted automatically using AI. Some dates may be approximate or inferred from context.
 
@@ -74,7 +74,7 @@ _Total events: 593_
 <input type="radio" id="tab-historical" name="timeline-tab" class="tab-radio">
 
 <div class="tab-controls">
-  <label for="tab-2025" class="tab-btn">2025 (437)</label>
+  <label for="tab-2025" class="tab-btn">2025 (445)</label>
   <label for="tab-2024" class="tab-btn">2024 (44)</label>
   <label for="tab-historical" class="tab-btn">Historical (112)</label>
 </div>
@@ -321,6 +321,51 @@ _Total events: 593_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-12-10-erika-kirk-interview-with-harris-faulkne">
+<div class="timeline-date">2025-12-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-12-10-erika-kirk-interview-with-harris-faulkne.md">Erika Kirk interview with Harris Faulkner on Fox News Outnumbered addressing conspiracy theories</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-10: Erika Kirk interview with Harris Faulkner on Fox News Outnumbered addressing conspiracy theories - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [UH-OH! Erika Kirk Goes Off On "Conspiracy Theor... @ 00:00:35](/episodes/ep-6DhWawD4ZiM.md#t-00-00-00)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-12-10-tucker-carlson-appears-on-theo-von-podca">
+<div class="timeline-date">2025-12-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-12-10-tucker-carlson-appears-on-theo-von-podca.md">Tucker Carlson appears on Theo Von podcast discussing Charlie Kirk assassination</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-10: Tucker Carlson appears on Theo Von podcast discussing Charlie Kirk assassination - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [UH-OH! Erika Kirk Goes Off On "Conspiracy Theor... @ 00:23:49](/episodes/ep-6DhWawD4ZiM.md#t-00-23-32)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-12-10-erika-kirk-town-hall-with-bari-weiss-fil">
+<div class="timeline-date">2025-12-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-12-10-erika-kirk-town-hall-with-bari-weiss-fil.md">Erika Kirk town hall with Bari Weiss filmed at CBS for later broadcast</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-10: Erika Kirk town hall with Bari Weiss filmed at CBS for later broadcast - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [UH-OH! Erika Kirk Goes Off On "Conspiracy Theor... @ 00:35:01](/episodes/ep-6DhWawD4ZiM.md#t-00-34-47)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-12-08-candace-owens-attends-mass-on-feast-of-t">
 <div class="timeline-date">2025-12-08</div>
 <div class="timeline-desc"><a href="/events/event-2025-12-08-candace-owens-attends-mass-on-feast-of-t.md">Candace Owens attends Mass on Feast of the Immaculate Conception and prays for evidence about Charlie Kirk assassination</a></div>
@@ -347,6 +392,21 @@ _Total events: 593_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:02:53](/episodes/ep-t4U7NjnUEgc.md#t-00-02-10)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-12-08-turning-point-usa-fundraiser-at-mar-a-la">
+<div class="timeline-date">2025-12-08</div>
+<div class="timeline-desc"><a href="/events/event-2025-12-08-turning-point-usa-fundraiser-at-mar-a-la.md">Turning Point USA fundraiser at Mar-a-Lago reportedly raises 0 million over two nights</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-08: Turning Point USA fundraiser at Mar-a-Lago reportedly raises 0 million over two nights - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [UH-OH! Erika Kirk Goes Off On "Conspiracy Theor... @ 00:13:06](/episodes/ep-6DhWawD4ZiM.md#t-00-13-05)
 
 </details>
 </div>
@@ -7510,6 +7570,21 @@ _Total events: 593_
 - [The Great Exodus From Utah? Where Did The "Egyp... @ 00:46:56](/episodes/ep-581dILVcEE4.md#t-00-46-30)
 - [The Great Exodus From Utah? Where Did The "Egyp... @ 00:46:52](/episodes/ep-581dILVcEE4.md#t-00-46-30)
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:48:34](/episodes/ep-tB5SXXmd9vU.md#t-00-48-25)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-11-10-sergio-gor-sworn-in-as-us-ambassador-to-">
+<div class="timeline-date">2025-11-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-11-10-sergio-gor-sworn-in-as-us-ambassador-to-.md">Sergio Gor sworn in as US Ambassador to India, Erika Kirk attends Oval Office ceremony</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-11-10: Sergio Gor sworn in as US Ambassador to India, Erika Kirk attends Oval Office ceremony - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [UH-OH! Erika Kirk Goes Off On "Conspiracy Theor... @ 00:10:14](/episodes/ep-6DhWawD4ZiM.md#t-00-09-46)
 
 </details>
 </div>
@@ -22310,13 +22385,14 @@ _Total events: 593_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-assassinated-at-utah-valley.md">Charlie Kirk assassinated at Utah Valley University in Orem, Utah during Turning Point USA event</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Charlie Kirk assassinated at Utah Valley University in Orem, Utah during Turning Point USA event - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:00:03](/episodes/ep-t4U7NjnUEgc.md#t-00-00-00)
+- [UH-OH! Erika Kirk Goes Off On "Conspiracy Theor... @ 00:01:16](/episodes/ep-6DhWawD4ZiM.md#t-00-00-46)
 
 </details>
 </div>
@@ -24288,6 +24364,21 @@ _Total events: 593_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-09-vip-government-plane-sam-flight-99-0404-">
+<div class="timeline-date">2025-09-09</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-09-vip-government-plane-sam-flight-99-0404-.md">VIP government plane (SAM flight 99-0404) departs Fort Huachuca with call sign change indicating VIP passenger</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09: VIP government plane (SAM flight 99-0404) departs Fort Huachuca with call sign change indicating VIP passenger - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [UH-OH! Erika Kirk Goes Off On "Conspiracy Theor... @ 00:44:50](/episodes/ep-6DhWawD4ZiM.md#t-00-44-27)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-08-charlie-kirk-loses-2-million-donor-pledge-over-tuc">
 <div class="timeline-date">2025-09-08</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-08-charlie-kirk-loses-2-million-donor-pledge-over-tuc.md">Charlie Kirk loses $2 million donor pledge over Tucker Carlson invite</a></div>
@@ -24954,6 +25045,36 @@ _Total events: 593_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:16:21](/episodes/ep-t4U7NjnUEgc.md#t-00-15-57)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-08-vip-government-plane-sam-flight-99-0404-">
+<div class="timeline-date">2025-09-08</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-08-vip-government-plane-sam-flight-99-0404-.md">VIP government plane (SAM flight 99-0404) flies from Colorado Springs to Fort Huachuca area</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08: VIP government plane (SAM flight 99-0404) flies from Colorado Springs to Fort Huachuca area - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [UH-OH! Erika Kirk Goes Off On "Conspiracy Theor... @ 00:43:45](/episodes/ep-6DhWawD4ZiM.md#t-00-43-00)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-08-harry-myers-claims-he-witnessed-suspicio">
+<div class="timeline-date">2025-09-08</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-08-harry-myers-claims-he-witnessed-suspicio.md">Harry Myers claims he witnessed suspicious meeting at Fort Huachuca involving military officials</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08: Harry Myers claims he witnessed suspicious meeting at Fort Huachuca involving military officials - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [UH-OH! Erika Kirk Goes Off On "Conspiracy Theor... @ 00:38:28](/episodes/ep-6DhWawD4ZiM.md#t-00-38-07)
 
 </details>
 </div>

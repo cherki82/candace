@@ -13,54 +13,6 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (3 mentions)</summary>
-
-**[00:54:31](/episodes/ep-JQjCAsfoXEE.md#ent-person-sean-ryan-t-00-54-31)**
-> "... You know, you shouldn't have a lot of friends in politics. And Butch writes: have you seen the new Sean Ryan with the security detail that took care of Charlie (Charlie Kirk)? Do you feel they are trying to p..."
-
-**[00:54:31](/episodes/ep-JQjCAsfoXEE.md#ent-person-sean-ryan-t-00-54-31)**
-> "...writes: have you seen the new Sean Ryan with the security detail that took care of Charli..."
-
-**[00:54:38](/episodes/ep-JQjCAsfoXEE.md#ent-person-sean-ryan-t-00-54-31)**
-> "have you seen the new Sean Ryan with the security detail that took care of Charlie (Charlie Kirk)?"
-
-</details>
-
-<details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (6 mentions)</summary>
-
-**[00:23:08](/episodes/ep-LATnak75Si0.md#ent-person-sean-ryan-t-00-22-50)**
-> "...content, looking for ways to go after her character. And they came across a clip of her speaking to Sean Ryan last year. Now, before I give you the context of this clip, I want you to listen to it because it w..."
-
-**[00:23:39](/episodes/ep-LATnak75Si0.md#ent-person-sean-ryan-t-00-23-34)**
-> "...me about it. Here's another tweet. Here is the clip they are referring to. (Clip of Brett Cooper on Sean Ryan Show) We did all sorts of things. My mom visited mediums. Right after—I haven't done that, and I ki..."
-
-**[00:25:14](/episodes/ep-LATnak75Si0.md#ent-person-sean-ryan-t-00-23-34)**
-> "...ing and moving conversations I've ever seen Brett Cooper have. It's a very powerful episode of "The Sean Ryan Show" because she tells her backstory, and you realize how much substance she has and the things th..."
-
-**[00:23:08](/episodes/ep-LATnak75Si0.md#ent-person-sean-ryan-t-00-22-50)**
-> "...oss a clip of her speaking to Sean Ryan last year."
-
-**[00:23:39](/episodes/ep-LATnak75Si0.md#ent-person-sean-ryan-t-00-23-34)**
-> "... to. (Clip of Brett Cooper on Sean Ryan Show)"
-
-**[00:25:14](/episodes/ep-LATnak75Si0.md#ent-person-sean-ryan-t-00-23-34)**
-> "...very powerful episode of "The Sean Ryan Show" because she tells her backstory, and you re..."
-
-</details>
-
-<details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
-
-**[00:33:30](/episodes/ep-SKGUzGHymcI.md#ent-person-sean-ryan-t-00-33-15)**
-> "...r ducks in a row. By the way, elsewhere in that interview with Brian Harpole, the security guy with Sean Ryan, he reiterates, he doubles down on the idea that Charlie (Charlie Kirk) ate 3,000 pounds of energy ..."
-
-**[00:33:30](/episodes/ep-SKGUzGHymcI.md#ent-person-sean-ryan-t-00-33-15)**
-> "...rpole), the security guy with Sean Ryan, he reiterates, he doubles down on the idea that ..."
-
-</details>
-
-<details>
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (3 mentions)</summary>
 
 **[00:08:56](/episodes/ep-his-JBjlkh8.md#ent-person-sean-ryan-t-00-08-43)**
@@ -106,6 +58,54 @@ _Type: People_
 
 **[00:39:53](/episodes/ep-sImMM04XdWY.md#ent-person-sean-ryan-t-00-39-41)**
 > "...dist mission to sit down with Sean Ryan and to lie and misrepresent?"
+
+</details>
+
+<details>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
+
+**[00:33:30](/episodes/ep-SKGUzGHymcI.md#ent-person-sean-ryan-t-00-33-15)**
+> "...r ducks in a row. By the way, elsewhere in that interview with Brian Harpole, the security guy with Sean Ryan, he reiterates, he doubles down on the idea that Charlie (Charlie Kirk) ate 3,000 pounds of energy ..."
+
+**[00:33:30](/episodes/ep-SKGUzGHymcI.md#ent-person-sean-ryan-t-00-33-15)**
+> "...rpole), the security guy with Sean Ryan, he reiterates, he doubles down on the idea that ..."
+
+</details>
+
+<details>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (3 mentions)</summary>
+
+**[00:54:31](/episodes/ep-JQjCAsfoXEE.md#ent-person-sean-ryan-t-00-54-31)**
+> "... You know, you shouldn't have a lot of friends in politics. And Butch writes: have you seen the new Sean Ryan with the security detail that took care of Charlie (Charlie Kirk)? Do you feel they are trying to p..."
+
+**[00:54:31](/episodes/ep-JQjCAsfoXEE.md#ent-person-sean-ryan-t-00-54-31)**
+> "...writes: have you seen the new Sean Ryan with the security detail that took care of Charli..."
+
+**[00:54:38](/episodes/ep-JQjCAsfoXEE.md#ent-person-sean-ryan-t-00-54-31)**
+> "have you seen the new Sean Ryan with the security detail that took care of Charlie (Charlie Kirk)?"
+
+</details>
+
+<details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (6 mentions)</summary>
+
+**[00:23:08](/episodes/ep-LATnak75Si0.md#ent-person-sean-ryan-t-00-22-50)**
+> "...content, looking for ways to go after her character. And they came across a clip of her speaking to Sean Ryan last year. Now, before I give you the context of this clip, I want you to listen to it because it w..."
+
+**[00:23:39](/episodes/ep-LATnak75Si0.md#ent-person-sean-ryan-t-00-23-34)**
+> "...me about it. Here's another tweet. Here is the clip they are referring to. (Clip of Brett Cooper on Sean Ryan Show) We did all sorts of things. My mom visited mediums. Right after—I haven't done that, and I ki..."
+
+**[00:25:14](/episodes/ep-LATnak75Si0.md#ent-person-sean-ryan-t-00-23-34)**
+> "...ing and moving conversations I've ever seen Brett Cooper have. It's a very powerful episode of "The Sean Ryan Show" because she tells her backstory, and you realize how much substance she has and the things th..."
+
+**[00:23:08](/episodes/ep-LATnak75Si0.md#ent-person-sean-ryan-t-00-22-50)**
+> "...oss a clip of her speaking to Sean Ryan last year."
+
+**[00:23:39](/episodes/ep-LATnak75Si0.md#ent-person-sean-ryan-t-00-23-34)**
+> "... to. (Clip of Brett Cooper on Sean Ryan Show)"
+
+**[00:25:14](/episodes/ep-LATnak75Si0.md#ent-person-sean-ryan-t-00-23-34)**
+> "...very powerful episode of "The Sean Ryan Show" because she tells her backstory, and you re..."
 
 </details>
 

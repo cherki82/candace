@@ -1,11 +1,11 @@
 ---
 title: "Statements Index"
-description: "Browse 1142 statements extracted from podcast episodes"
+description: "Browse 1186 statements extracted from podcast episodes"
 ---
 
 # Statements
 
-_1142 statements extracted from podcast episodes._
+_1186 statements extracted from podcast episodes._
 
 > **Note:** Statements are extracted from podcast transcripts using AI analysis.
 > Speaker attribution and content may contain errors. Always verify against primary sources.
@@ -34,7 +34,7 @@ _1142 statements extracted from podcast episodes._
 
 <div class="tab-controls">
   <label for="tab-bytype" class="tab-btn">By Type</label>
-  <label for="tab-byepisode" class="tab-btn">By Episode (35)</label>
+  <label for="tab-byepisode" class="tab-btn">By Episode (36)</label>
 </div>
 
 <style>
@@ -51,7 +51,7 @@ _1142 statements extracted from podcast episodes._
 <div class="tab-content tab-content-bytype">
 
 <details open>
-<summary><strong class="section-title">Accusations (220)</strong></summary>
+<summary><strong class="section-title">Accusations (224)</strong></summary>
 
 <details>
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (6)</summary>
@@ -1517,10 +1517,39 @@ _1142 statements extracted from podcast episodes._
 </div>
 </details>
 
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4)</summary>
+
+<div class="filter-item">
+
+- [00:07:21](/episodes/ep-6DhWawD4ZiM.md#t-00-06-51) [○] **Candace Owens**: ["Turning Point USA employees have told many verified lies and inconsistencies fol..."](/statements/statement-d278a5e4e0ac.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:33](/episodes/ep-6DhWawD4ZiM.md#t-00-13-05) [○] **Candace Owens**: ["A coordinated psychological operation is being employed by mockingbird influence..."](/statements/statement-3434d55c1c2d.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:14:31](/episodes/ep-6DhWawD4ZiM.md#t-00-14-31) [○] **Candace Owens**: ["Rob McCoy tried to launder the reputation of a pedophile"](/statements/statement-1c4876037db4.md)
+  - About: [Rob McCoy](/entities/person-rob-mccoy.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:05](/episodes/ep-6DhWawD4ZiM.md#t-00-22-48) [○] **Candace Owens**: ["Many right-wing heroes exposed by the Charlie Kirk assassination have joined Ope..."](/statements/statement-a63e4538decc.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+</details>
+
 </details>
 
 <details open>
-<summary><strong class="section-title">Factual Claims (740)</strong></summary>
+<summary><strong class="section-title">Factual Claims (772)</strong></summary>
 
 <details>
 <summary>To My Friend, Charlie Kirk. (10)</summary>
@@ -3163,7 +3192,7 @@ _1142 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:09:14](/episodes/ep-581dILVcEE4.md#t-00-09-05) [○] **Candace Owens**: ["The Egyptians on the SU-BTT flight waited for the other Egyptian military plane ..."](/statements/statement-028c91e2ea6f.md)
-  - About: [SU-BND](/entities/work-su-bnd.md)
+  - About: [SU-BND](/entities/vehicle-su-bnd.md)
 
 </div>
 <div class="filter-item">
@@ -3425,7 +3454,7 @@ _1142 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:22:01](/episodes/ep-sImMM04XdWY.md#t-00-21-44) [○] **Candace Owens**: ["The BTT plane left Paris on September 4th, stayed for six days, then went to Wil..."](/statements/statement-fc8a58ed2319.md)
-  - About: [SU-BTT](/entities/work-su-btt.md)
+  - About: [SU-BTT](/entities/vehicle-su-btt.md)
 
 </div>
 <div class="filter-item">
@@ -4235,7 +4264,7 @@ _1142 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:07:08](/episodes/ep-JQjCAsfoXEE.md#t-00-07-07) [○] **Candace Owens**: ["Israel attacked the USS Liberty, not Egypt, though the narrative was that Egypt ..."](/statements/statement-deff1818ef39.md)
-  - About: [Israel](/entities/gpe-israel.md), [USS Liberty](/entities/work-uss-liberty.md)
+  - About: [Israel](/entities/gpe-israel.md), [USS Liberty incident](/entities/event-uss-liberty-incident.md)
 
 </div>
 <div class="filter-item">
@@ -4289,7 +4318,7 @@ _1142 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:12:18](/episodes/ep-JQjCAsfoXEE.md#t-00-11-52) [○] **Candace Owens**: ["Terrell Farnsworth does not do college campus events, he only does big events li..."](/statements/statement-13d527412b06.md)
-  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [AmericaFest](/entities/event-amfest.md)
+  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [America Fest](/entities/event-america-fest.md)
 
 </div>
 <div class="filter-item">
@@ -4337,7 +4366,7 @@ _1142 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:32:18](/episodes/ep-JQjCAsfoXEE.md#t-00-31-45) [○] **Candace Owens**: ["Israel attacked the USS Liberty, not Egypt"](/statements/statement-05a1bb8f5028.md)
-  - About: [Israel](/entities/gpe-israel.md), [USS Liberty](/entities/work-uss-liberty.md)
+  - About: [Israel](/entities/gpe-israel.md), [USS Liberty incident](/entities/event-uss-liberty-incident.md)
 
 </div>
 <div class="filter-item">
@@ -5415,13 +5444,13 @@ _1142 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:06:50](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) [○] **Candace Owens**: ["Neither the Pentagon nor the White House nor our intel agencies nor the Élysée P..."](/statements/statement-1c3fbbbdbc0f.md)
-  - About: [United States Pentagon](/entities/org-united-states-pentagon.md), [White House](/entities/org-white-house.md), [Élysée Palace](/entities/org-elysee-palace.md)
+  - About: [United States Pentagon](/entities/org-united-states-pentagon.md), [White House](/entities/org-white-house.md), [Élysée Palace](/entities/gpe-elysee-palace.md)
 
 </div>
 <div class="filter-item">
 
 - [00:06:58](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) [○] **Candace Owens**: ["Neither the Pentagon nor the White House or our intel agencies or the Élysée Pal..."](/statements/statement-532c5d81ba0d.md)
-  - About: [United States Pentagon](/entities/org-united-states-pentagon.md), [White House](/entities/org-white-house.md), [Élysée Palace](/entities/org-elysee-palace.md)
+  - About: [United States Pentagon](/entities/org-united-states-pentagon.md), [White House](/entities/org-white-house.md), [Élysée Palace](/entities/gpe-elysee-palace.md)
 
 </div>
 <div class="filter-item">
@@ -5463,19 +5492,19 @@ _1142 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:12:30](/episodes/ep-Kmt6HgRjckU.md#t-00-12-04) [○] **Candace Owens**: ["Pierre Falcone was involved in a scandal that almost brought down the French gov..."](/statements/statement-680b620f8ccd.md)
-  - About: [Pierre Falcone](/entities/person-pierre-falcone.md), [Angola Gate](/entities/concept-angola-gate.md)
+  - About: [Pierre Falcone](/entities/person-pierre-falcone.md), [Angolagate scandal](/entities/event-angola-gate.md)
 
 </div>
 <div class="filter-item">
 
 - [00:12:36](/episodes/ep-Kmt6HgRjckU.md#t-00-12-04) [○] **Candace Owens**: ["Pierre Falcone was involved in a scandal that almost brought down the French gov..."](/statements/statement-8a28c81ab028.md)
-  - About: [Pierre Falcone](/entities/person-pierre-falcone.md), [Angola Gate](/entities/concept-angola-gate.md), [Angola](/entities/gpe-angola.md)
+  - About: [Pierre Falcone](/entities/person-pierre-falcone.md), [Angolagate scandal](/entities/event-angola-gate.md), [Angola](/entities/gpe-angola.md)
 
 </div>
 <div class="filter-item">
 
 - [00:12:36](/episodes/ep-Kmt6HgRjckU.md#t-00-12-04) [○] **Candace Owens**: ["Angola Gate involved Africa, Angola, Israel, France, the United States, and arms..."](/statements/statement-38658967ebf0.md)
-  - About: [Angola Gate](/entities/concept-angola-gate.md), [Angola](/entities/gpe-angola.md), [Israel](/entities/gpe-israel.md)
+  - About: [Angolagate scandal](/entities/event-angola-gate.md), [Angola](/entities/gpe-angola.md), [Israel](/entities/gpe-israel.md)
 
 </div>
 <div class="filter-item">
@@ -5505,13 +5534,13 @@ _1142 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:15:25](/episodes/ep-Kmt6HgRjckU.md#t-00-14-48) [○] **Candace Owens**: ["Francois Mitterrand, the French president's son, was implicated in the Angola Ga..."](/statements/statement-4feac2591c94.md)
-  - About: [François Mitterrand](/entities/person-francois-mitterrand.md), [Jean-Christophe Mitterrand](/entities/person-jean-christophe-mitterrand.md), [Angola Gate](/entities/concept-angola-gate.md)
+  - About: [François Mitterrand](/entities/person-francois-mitterrand.md), [Jean-Christophe Mitterrand](/entities/person-jean-christophe-mitterrand.md), [Angolagate scandal](/entities/event-angola-gate.md)
 
 </div>
 <div class="filter-item">
 
 - [00:15:53](/episodes/ep-Kmt6HgRjckU.md#t-00-15-30) [○] **Candace Owens**: ["Human rights groups demanded that Congress probe the Bush administration's invol..."](/statements/statement-aceca2e34399.md)
-  - About: [George H.W. Bush](/entities/person-george-hw-bush.md), [Angola Gate](/entities/concept-angola-gate.md)
+  - About: [George H.W. Bush](/entities/person-george-hw-bush.md), [Angolagate scandal](/entities/event-angola-gate.md)
 
 </div>
 <div class="filter-item">
@@ -6056,7 +6085,7 @@ _1142 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:04:50](/episodes/ep-ZAuuSq_j2_w.md#t-00-04-36) [○] **Candace Owens**: ["Blake Neff announced via tweet around midnight that a livestream would occur at ..."](/statements/statement-0d205acc4067.md)
-  - About: [Blake Neff](/entities/person-blake-neff.md), [Turning Point USA](/entities/org-turning-point-usa.md), [AmericaFest](/entities/event-amfest.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Turning Point USA](/entities/org-turning-point-usa.md), [America Fest](/entities/event-america-fest.md)
 
 </div>
 <div class="filter-item">
@@ -6068,13 +6097,13 @@ _1142 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:14:14](/episodes/ep-ZAuuSq_j2_w.md#t-00-13-44) [○] **Candace Owens**: ["The yellow Egyptian plane flight from Provo to Delaware on September 10th had on..."](/statements/statement-5dbb401e599c.md)
-  - About: [SU-BTT](/entities/work-su-btt.md)
+  - About: [SU-BTT](/entities/vehicle-su-btt.md)
 
 </div>
 <div class="filter-item">
 
 - [00:14:42](/episodes/ep-ZAuuSq_j2_w.md#t-00-14-25) [○] **Candace Owens**: ["One of the four passengers on the yellow plane to Delaware was using the name Wa..."](/statements/statement-e8ce61355fdf.md)
-  - About: [Walid Mahmood](/entities/person-walid-mahmood.md), [SU-BTT](/entities/work-su-btt.md)
+  - About: [Walid Mahmood](/entities/person-walid-mahmood.md), [SU-BTT](/entities/vehicle-su-btt.md)
 
 </div>
 <div class="filter-item">
@@ -6104,7 +6133,7 @@ _1142 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:24:47](/episodes/ep-ZAuuSq_j2_w.md#t-00-24-28) [○] **Candace Owens**: ["Neither the White House nor the Élysée Palace nor the United States Pentagon has..."](/statements/statement-762a0183a31f.md)
-  - About: [White House](/entities/org-white-house.md), [Élysée Palace](/entities/org-elysee-palace.md), [United States Pentagon](/entities/org-united-states-pentagon.md)
+  - About: [White House](/entities/org-white-house.md), [Élysée Palace](/entities/gpe-elysee-palace.md), [United States Pentagon](/entities/org-united-states-pentagon.md)
 
 </div>
 <div class="filter-item">
@@ -6121,10 +6150,207 @@ _1142 statements extracted from podcast episodes._
 </div>
 </details>
 
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (32)</summary>
+
+<div class="filter-item">
+
+- [00:02:28](/episodes/ep-6DhWawD4ZiM.md#t-00-02-09) [○] **Candace Owens**: ["Charlie Kirk's posthumous book about the Sabbath is being released, prompting Er..."](/statements/statement-2ca6a8ddbfcd.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:03:10](/episodes/ep-6DhWawD4ZiM.md#t-00-02-53) [○] **Candace Owens**: ["Milo Yiannopoulos and others assert with absolute certainty that Charlie Kirk ha..."](/statements/statement-b837814f2afd.md)
+  - About: [Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:19](/episodes/ep-6DhWawD4ZiM.md#t-00-06-02) [○] **Candace Owens**: ["Erika Kirk published a video of herself crying over Charlie Kirk's casket and hi..."](/statements/statement-4f201a9628b7.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:08:50](/episodes/ep-6DhWawD4ZiM.md#t-00-08-36) [○] **Erika Kirk**: ["Erika Kirk and Turning Point USA send any leads about Charlie Kirk's assassinati..."](/statements/statement-ffb645eeadb2.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:59](/episodes/ep-6DhWawD4ZiM.md#t-00-09-46) [○] **Candace Owens**: ["Erika Kirk has done media appearances on Hannity, The Five, Fox and Friends, Out..."](/statements/statement-10a7fb5e8168.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:05](/episodes/ep-6DhWawD4ZiM.md#t-00-09-46) [○] **Candace Owens**: ["Erika Kirk flew to DC to attend Sergio Gor's swearing in as Ambassador to India"](/statements/statement-8c08ccef4942.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Sergio Gor](/entities/person-sergio-gor.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:03](/episodes/ep-6DhWawD4ZiM.md#t-00-11-42) [○] **Candace Owens**: ["Erika Kirk sat down with Bari Weiss for a CBS News town hall filmed on December ..."](/statements/statement-2f698294e479.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Bari Weiss](/entities/person-bari-weiss.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:13](/episodes/ep-6DhWawD4ZiM.md#t-00-13-05) [○] **Candace Owens**: ["Turning Point USA has made more than $100 million since Charlie Kirk was killed,..."](/statements/statement-785afbd27dae.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:16](/episodes/ep-6DhWawD4ZiM.md#t-00-13-05) [○] **Candace Owens**: ["Turning Point USA has made more than 100 million dollars since Charlie Kirk's as..."](/statements/statement-ce0624c94ffe.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Mar-a-Lago](/entities/org-mar-a-lago.md)
+
+</div>
+<div class="filter-item">
+
+- [00:24:24](/episodes/ep-6DhWawD4ZiM.md#t-00-23-49) [○] **Tucker Carlson**: ["Egyptian registered aircraft were following Charlie Kirk's widow around for a nu..."](/statements/statement-3cc73c12b1d9.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:24:24](/episodes/ep-6DhWawD4ZiM.md#t-00-23-49) [○] **Tucker Carlson**: ["Tucker Carlson confirms that Egyptian-registered aircraft were following Charlie..."](/statements/statement-0351e28ffd11.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Egyptian Air Force](/entities/org-egyptian-air-force.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:16](/episodes/ep-6DhWawD4ZiM.md#t-00-24-33) [○] **Tucker Carlson**: ["There were a disproportionately large number of foreign registered cell phones a..."](/statements/statement-055dc03b47ad.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:16](/episodes/ep-6DhWawD4ZiM.md#t-00-24-33) [○] **Tucker Carlson**: ["There were a disproportionately large number of foreign registered cell phones a..."](/statements/statement-af7370c9b513.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:26:26](/episodes/ep-6DhWawD4ZiM.md#t-00-26-00) [○] **Candace Owens**: ["Tucker Carlson grew up with CIA agents in Virginia because his father was connec..."](/statements/statement-2c6779af2174.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+
+</div>
+<div class="filter-item">
+
+- [00:26:36](/episodes/ep-6DhWawD4ZiM.md#t-00-26-00) [○] **Candace Owens**: ["Tucker Carlson's father was on the payroll of the CIA"](/statements/statement-2fdb991794fa.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+
+</div>
+<div class="filter-item">
+
+- [00:27:16](/episodes/ep-6DhWawD4ZiM.md#t-00-27-13) [○] **Candace Owens**: ["NSA and CIA sources are confirming that the Egyptian planes following Charlie Ki..."](/statements/statement-ec4fc952eb55.md)
+  - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Egyptian Air Force](/entities/org-egyptian-air-force.md)
+
+</div>
+<div class="filter-item">
+
+- [00:27:58](/episodes/ep-6DhWawD4ZiM.md#t-00-27-51) [○] **Tucker Carlson**: ["People posted on X that Charlie Kirk was going to be killed on the date he was k..."](/statements/statement-70882181c1f8.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:29:12](/episodes/ep-6DhWawD4ZiM.md#t-00-28-35) [○] **Tucker Carlson**: ["The FBI claims to have both a confession from the killer in texts to his boyfrie..."](/statements/statement-46d01b80aec8.md)
+  - About: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:00](/episodes/ep-6DhWawD4ZiM.md#t-00-34-47) [○] **Erika Kirk**: ["Erika Kirk said at the Bari Weiss town hall that she was pregnant when the Egypt..."](/statements/statement-d870ea0f3cb2.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Egyptian Air Force](/entities/org-egyptian-air-force.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:21](/episodes/ep-6DhWawD4ZiM.md#t-00-34-47) [○] **Erika Kirk**: ["At the Bari Weiss town hall, when asked about the conspiracies and what to say t..."](/statements/statement-a9cc160e7b86.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Bari Weiss](/entities/person-bari-weiss.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:23](/episodes/ep-6DhWawD4ZiM.md#t-00-34-47) [○] **Erika Kirk**: ["Erika Kirk discussed Israel at the Bari Weiss town hall, said positive things ab..."](/statements/statement-bef5020b15ff.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Israel](/entities/gpe-israel.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:36](/episodes/ep-6DhWawD4ZiM.md#t-00-35-31) [○] **Candace Owens**: ["The Egyptian plane flew to Wilmington, Delaware on the day of Charlie Kirk's ass..."](/statements/statement-a2a2171aef70.md)
+  - About: [Egyptian Air Force](/entities/org-egyptian-air-force.md), [Wilmington](/entities/gpe-wilmington.md), [Delaware](/entities/gpe-delaware.md)
+
+</div>
+<div class="filter-item">
+
+- [00:41:17](/episodes/ep-6DhWawD4ZiM.md#t-00-40-53) [○] **Candace Owens**: ["Captain Adam Neff of the 10th Mountain Division led an interrogation of a milita..."](/statements/statement-536d43327c41.md)
+  - About: [Adam Neff](/entities/person-adam-neff.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:41:25](/episodes/ep-6DhWawD4ZiM.md#t-00-40-53) [○] **Candace Owens**: ["A building at Fort Huachuca has been converted into a SCIF (Sensitive Compartmen..."](/statements/statement-3e770fcf90d6.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:42:18](/episodes/ep-6DhWawD4ZiM.md#t-00-41-37) [○] **Candace Owens**: ["Harry previously discovered a cartel tunnel when he was 20 years old"](/statements/statement-ca0d3079dc50.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:43:41](/episodes/ep-6DhWawD4ZiM.md#t-00-43-00) [○] **Candace Owens**: ["A US government VIP plane (C37A Gulfstream, tail number 99-0404) flew from Andre..."](/statements/statement-88162d6bfd9c.md)
+  - About: [Andrews Air Force Base](/entities/gpe-andrews-air-force-base.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md), [El Paso](/entities/gpe-el-paso.md)
+
+</div>
+<div class="filter-item">
+
+- [00:46:13](/episodes/ep-6DhWawD4ZiM.md#t-00-45-47) [○] **Candace Owens**: ["There were weird flights coming from El Paso, Texas on the day of Charlie Kirk's..."](/statements/statement-4f46327805eb.md)
+  - About: [El Paso](/entities/gpe-el-paso.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:46:38](/episodes/ep-6DhWawD4ZiM.md#t-00-46-23) [○] **Candace Owens**: ["A military source named Harry witnessed what appeared to be a finalization meeti..."](/statements/statement-45c985fc27c8.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:47:38](/episodes/ep-6DhWawD4ZiM.md#t-00-47-35) [○] **Candace Owens**: ["Pam Bondi flew on the same VIP plane (tail 99-0404) approximately five months ag..."](/statements/statement-99edc3c2fe01.md)
+  - About: [Pam Bondi](/entities/person-pam-bondi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:48:28](/episodes/ep-6DhWawD4ZiM.md#t-00-48-17) [○] **Candace Owens**: ["The VIP plane call sign changed from REACH (standard) to SAM (Special Air Missio..."](/statements/statement-03404b845b40.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:57:17](/episodes/ep-6DhWawD4ZiM.md#t-00-56-52) [○] **Candace Owens**: ["The FBI has not contacted Candace Owens about information regarding the French F..."](/statements/statement-61a1f69e6c94.md)
+  - About: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [France](/entities/gpe-france.md)
+
+</div>
+<div class="filter-item">
+
+- [01:00:36](/episodes/ep-6DhWawD4ZiM.md#t-01-00-25) [○] **Candace Owens**: ["The military source Harry believes he saw Brian Harpole at the Fort Huachuca mee..."](/statements/statement-f1dc8d72a7f2.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+</details>
+
 </details>
 
 <details open>
-<summary><strong class="section-title">Predictions (9)</strong></summary>
+<summary><strong class="section-title">Predictions (10)</strong></summary>
 
 <details>
 <summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (3)</summary>
@@ -6210,10 +6436,21 @@ _1142 statements extracted from podcast episodes._
 </div>
 </details>
 
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1)</summary>
+
+<div class="filter-item">
+
+- [00:48:55](/episodes/ep-6DhWawD4ZiM.md#t-00-48-17) [○] **Candace Owens**: ["Harry will be going on podcasts next week to share his story about what he witne..."](/statements/statement-626a58b21e1b.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+</details>
+
 </details>
 
 <details open>
-<summary><strong class="section-title">Promises (15)</strong></summary>
+<summary><strong class="section-title">Promises (16)</strong></summary>
 
 <details>
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (2)</summary>
@@ -6339,6 +6576,17 @@ _1142 statements extracted from podcast episodes._
 
 - [00:27:33](/episodes/ep-QZWSsq8ZWzw.md#t-00-27-09) [○] **Candace Owens**: ["Candace will not let the FBI's attempt to shut down the Charlie Kirk case invest..."](/statements/statement-2e4cf1d2b491.md)
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [FBI](/entities/org-fbi.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+</details>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1)</summary>
+
+<div class="filter-item">
+
+- [00:03:44](/episodes/ep-6DhWawD4ZiM.md#t-00-03-31) [○] **Erika Kirk**: ["Erika Kirk will build a museum-style memorial for Charlie Kirk at Turning Point ..."](/statements/statement-fb9da7c3ef24.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
 </details>
@@ -6545,7 +6793,7 @@ _1142 statements extracted from podcast episodes._
 </details>
 
 <details open>
-<summary><strong class="section-title">Opinions (136)</strong></summary>
+<summary><strong class="section-title">Opinions (142)</strong></summary>
 
 <details>
 <summary>To My Friend, Charlie Kirk. (2)</summary>
@@ -7485,6 +7733,47 @@ _1142 statements extracted from podcast episodes._
 
 - [00:28:32](/episodes/ep-ZAuuSq_j2_w.md#t-00-28-05) [○] **Frank Turek**: ["To suggest that anyone within TPUSA was complicit in Charlie Kirk's murder is to..."](/statements/statement-19b1c7431d4a.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+</details>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (6)</summary>
+
+<div class="filter-item">
+
+- [00:04:00](/episodes/ep-6DhWawD4ZiM.md#t-00-03-31) [○] **Erika Kirk**: ["Erika Kirk claims to want to keep Charlie Kirk's burial location private to prot..."](/statements/statement-cf628fe3f593.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:04:58](/episodes/ep-6DhWawD4ZiM.md#t-00-04-36) [○] **Candace Owens**: ["Erika Kirk is exhibiting Meghan Markle syndrome - wanting privacy when convenien..."](/statements/statement-ba5226e265d4.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Meghan Markle](/entities/person-meghan-markle.md)
+
+</div>
+<div class="filter-item">
+
+- [00:08:26](/episodes/ep-6DhWawD4ZiM.md#t-00-07-51) [○] **Erika Kirk**: ["Erika Kirk claims the handpicked Turning Point USA staff who loved Charlie are n..."](/statements/statement-07cb5cbc5f38.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:54](/episodes/ep-6DhWawD4ZiM.md#t-00-23-49) [○] **Tucker Carlson**: ["Tucker Carlson does not understand the official story of Charlie Kirk's assassin..."](/statements/statement-7225bca90297.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:25](/episodes/ep-6DhWawD4ZiM.md#t-00-25-17) [○] **Tucker Carlson**: ["Tucker Carlson does not have confidence in the FBI or the men who run it regardi..."](/statements/statement-ffcbd0183325.md)
+  - About: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:28:28](/episodes/ep-6DhWawD4ZiM.md#t-00-27-51) [○] **Tucker Carlson**: ["Tucker Carlson questions the claim that Charlie Kirk's assassin acted alone and ..."](/statements/statement-4ed785cea2fa.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 </details>
@@ -9994,7 +10283,7 @@ _1142 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:09:14](/episodes/ep-581dILVcEE4.md#t-00-09-05) [○] (Claim) **Candace Owens**: ["The Egyptians on the SU-BTT flight waited for the other Egyptian military plane ..."](/statements/statement-028c91e2ea6f.md)
-  - About: [SU-BND](/entities/work-su-bnd.md)
+  - About: [SU-BND](/entities/vehicle-su-bnd.md)
 
 </div>
 <div class="filter-item">
@@ -10298,7 +10587,7 @@ _1142 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:22:01](/episodes/ep-sImMM04XdWY.md#t-00-21-44) [○] (Claim) **Candace Owens**: ["The BTT plane left Paris on September 4th, stayed for six days, then went to Wil..."](/statements/statement-fc8a58ed2319.md)
-  - About: [SU-BTT](/entities/work-su-btt.md)
+  - About: [SU-BTT](/entities/vehicle-su-btt.md)
 
 </div>
 <div class="filter-item">
@@ -11438,7 +11727,7 @@ _1142 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:07:08](/episodes/ep-JQjCAsfoXEE.md#t-00-07-07) [○] (Claim) **Candace Owens**: ["Israel attacked the USS Liberty, not Egypt, though the narrative was that Egypt ..."](/statements/statement-deff1818ef39.md)
-  - About: [Israel](/entities/gpe-israel.md), [USS Liberty](/entities/work-uss-liberty.md)
+  - About: [Israel](/entities/gpe-israel.md), [USS Liberty incident](/entities/event-uss-liberty-incident.md)
 
 </div>
 <div class="filter-item">
@@ -11516,7 +11805,7 @@ _1142 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:12:18](/episodes/ep-JQjCAsfoXEE.md#t-00-11-52) [○] (Claim) **Candace Owens**: ["Terrell Farnsworth does not do college campus events, he only does big events li..."](/statements/statement-13d527412b06.md)
-  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [AmericaFest](/entities/event-amfest.md)
+  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [America Fest](/entities/event-america-fest.md)
 
 </div>
 <div class="filter-item">
@@ -11570,7 +11859,7 @@ _1142 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:32:18](/episodes/ep-JQjCAsfoXEE.md#t-00-31-45) [○] (Claim) **Candace Owens**: ["Israel attacked the USS Liberty, not Egypt"](/statements/statement-05a1bb8f5028.md)
-  - About: [Israel](/entities/gpe-israel.md), [USS Liberty](/entities/work-uss-liberty.md)
+  - About: [Israel](/entities/gpe-israel.md), [USS Liberty incident](/entities/event-uss-liberty-incident.md)
 
 </div>
 <div class="filter-item">
@@ -13450,13 +13739,13 @@ _1142 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:06:50](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) [○] (Claim) **Candace Owens**: ["Neither the Pentagon nor the White House nor our intel agencies nor the Élysée P..."](/statements/statement-1c3fbbbdbc0f.md)
-  - About: [United States Pentagon](/entities/org-united-states-pentagon.md), [White House](/entities/org-white-house.md), [Élysée Palace](/entities/org-elysee-palace.md)
+  - About: [United States Pentagon](/entities/org-united-states-pentagon.md), [White House](/entities/org-white-house.md), [Élysée Palace](/entities/gpe-elysee-palace.md)
 
 </div>
 <div class="filter-item">
 
 - [00:06:58](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) [○] (Claim) **Candace Owens**: ["Neither the Pentagon nor the White House or our intel agencies or the Élysée Pal..."](/statements/statement-532c5d81ba0d.md)
-  - About: [United States Pentagon](/entities/org-united-states-pentagon.md), [White House](/entities/org-white-house.md), [Élysée Palace](/entities/org-elysee-palace.md)
+  - About: [United States Pentagon](/entities/org-united-states-pentagon.md), [White House](/entities/org-white-house.md), [Élysée Palace](/entities/gpe-elysee-palace.md)
 
 </div>
 <div class="filter-item">
@@ -13522,19 +13811,19 @@ _1142 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:12:30](/episodes/ep-Kmt6HgRjckU.md#t-00-12-04) [○] (Claim) **Candace Owens**: ["Pierre Falcone was involved in a scandal that almost brought down the French gov..."](/statements/statement-680b620f8ccd.md)
-  - About: [Pierre Falcone](/entities/person-pierre-falcone.md), [Angola Gate](/entities/concept-angola-gate.md)
+  - About: [Pierre Falcone](/entities/person-pierre-falcone.md), [Angolagate scandal](/entities/event-angola-gate.md)
 
 </div>
 <div class="filter-item">
 
 - [00:12:36](/episodes/ep-Kmt6HgRjckU.md#t-00-12-04) [○] (Claim) **Candace Owens**: ["Pierre Falcone was involved in a scandal that almost brought down the French gov..."](/statements/statement-8a28c81ab028.md)
-  - About: [Pierre Falcone](/entities/person-pierre-falcone.md), [Angola Gate](/entities/concept-angola-gate.md), [Angola](/entities/gpe-angola.md)
+  - About: [Pierre Falcone](/entities/person-pierre-falcone.md), [Angolagate scandal](/entities/event-angola-gate.md), [Angola](/entities/gpe-angola.md)
 
 </div>
 <div class="filter-item">
 
 - [00:12:36](/episodes/ep-Kmt6HgRjckU.md#t-00-12-04) [○] (Claim) **Candace Owens**: ["Angola Gate involved Africa, Angola, Israel, France, the United States, and arms..."](/statements/statement-38658967ebf0.md)
-  - About: [Angola Gate](/entities/concept-angola-gate.md), [Angola](/entities/gpe-angola.md), [Israel](/entities/gpe-israel.md)
+  - About: [Angolagate scandal](/entities/event-angola-gate.md), [Angola](/entities/gpe-angola.md), [Israel](/entities/gpe-israel.md)
 
 </div>
 <div class="filter-item">
@@ -13570,13 +13859,13 @@ _1142 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:15:25](/episodes/ep-Kmt6HgRjckU.md#t-00-14-48) [○] (Claim) **Candace Owens**: ["Francois Mitterrand, the French president's son, was implicated in the Angola Ga..."](/statements/statement-4feac2591c94.md)
-  - About: [François Mitterrand](/entities/person-francois-mitterrand.md), [Jean-Christophe Mitterrand](/entities/person-jean-christophe-mitterrand.md), [Angola Gate](/entities/concept-angola-gate.md)
+  - About: [François Mitterrand](/entities/person-francois-mitterrand.md), [Jean-Christophe Mitterrand](/entities/person-jean-christophe-mitterrand.md), [Angolagate scandal](/entities/event-angola-gate.md)
 
 </div>
 <div class="filter-item">
 
 - [00:15:53](/episodes/ep-Kmt6HgRjckU.md#t-00-15-30) [○] (Claim) **Candace Owens**: ["Human rights groups demanded that Congress probe the Bush administration's invol..."](/statements/statement-aceca2e34399.md)
-  - About: [George H.W. Bush](/entities/person-george-hw-bush.md), [Angola Gate](/entities/concept-angola-gate.md)
+  - About: [George H.W. Bush](/entities/person-george-hw-bush.md), [Angolagate scandal](/entities/event-angola-gate.md)
 
 </div>
 <div class="filter-item">
@@ -14372,7 +14661,7 @@ _1142 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:04:50](/episodes/ep-ZAuuSq_j2_w.md#t-00-04-36) [○] (Claim) **Candace Owens**: ["Blake Neff announced via tweet around midnight that a livestream would occur at ..."](/statements/statement-0d205acc4067.md)
-  - About: [Blake Neff](/entities/person-blake-neff.md), [Turning Point USA](/entities/org-turning-point-usa.md), [AmericaFest](/entities/event-amfest.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Turning Point USA](/entities/org-turning-point-usa.md), [America Fest](/entities/event-america-fest.md)
 
 </div>
 <div class="filter-item">
@@ -14396,13 +14685,13 @@ _1142 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:14:14](/episodes/ep-ZAuuSq_j2_w.md#t-00-13-44) [○] (Claim) **Candace Owens**: ["The yellow Egyptian plane flight from Provo to Delaware on September 10th had on..."](/statements/statement-5dbb401e599c.md)
-  - About: [SU-BTT](/entities/work-su-btt.md)
+  - About: [SU-BTT](/entities/vehicle-su-btt.md)
 
 </div>
 <div class="filter-item">
 
 - [00:14:42](/episodes/ep-ZAuuSq_j2_w.md#t-00-14-25) [○] (Claim) **Candace Owens**: ["One of the four passengers on the yellow plane to Delaware was using the name Wa..."](/statements/statement-e8ce61355fdf.md)
-  - About: [Walid Mahmood](/entities/person-walid-mahmood.md), [SU-BTT](/entities/work-su-btt.md)
+  - About: [Walid Mahmood](/entities/person-walid-mahmood.md), [SU-BTT](/entities/vehicle-su-btt.md)
 
 </div>
 <div class="filter-item">
@@ -14450,7 +14739,7 @@ _1142 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:24:47](/episodes/ep-ZAuuSq_j2_w.md#t-00-24-28) [○] (Claim) **Candace Owens**: ["Neither the White House nor the Élysée Palace nor the United States Pentagon has..."](/statements/statement-762a0183a31f.md)
-  - About: [White House](/entities/org-white-house.md), [Élysée Palace](/entities/org-elysee-palace.md), [United States Pentagon](/entities/org-united-states-pentagon.md)
+  - About: [White House](/entities/org-white-house.md), [Élysée Palace](/entities/gpe-elysee-palace.md), [United States Pentagon](/entities/org-united-states-pentagon.md)
 
 </div>
 <div class="filter-item">
@@ -14491,8 +14780,277 @@ _1142 statements extracted from podcast episodes._
 </div>
 </details>
 
+<details>
+<summary><strong>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278</strong> (44)</summary>
+
+<div class="filter-item">
+
+- [00:02:28](/episodes/ep-6DhWawD4ZiM.md#t-00-02-09) [○] (Claim) **Candace Owens**: ["Charlie Kirk's posthumous book about the Sabbath is being released, prompting Er..."](/statements/statement-2ca6a8ddbfcd.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:03:10](/episodes/ep-6DhWawD4ZiM.md#t-00-02-53) [○] (Claim) **Candace Owens**: ["Milo Yiannopoulos and others assert with absolute certainty that Charlie Kirk ha..."](/statements/statement-b837814f2afd.md)
+  - About: [Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:03:44](/episodes/ep-6DhWawD4ZiM.md#t-00-03-31) [○] (Promise) **Erika Kirk**: ["Erika Kirk will build a museum-style memorial for Charlie Kirk at Turning Point ..."](/statements/statement-fb9da7c3ef24.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:04:00](/episodes/ep-6DhWawD4ZiM.md#t-00-03-31) [○] (Opinion) **Erika Kirk**: ["Erika Kirk claims to want to keep Charlie Kirk's burial location private to prot..."](/statements/statement-cf628fe3f593.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:04:58](/episodes/ep-6DhWawD4ZiM.md#t-00-04-36) [○] (Opinion) **Candace Owens**: ["Erika Kirk is exhibiting Meghan Markle syndrome - wanting privacy when convenien..."](/statements/statement-ba5226e265d4.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Meghan Markle](/entities/person-meghan-markle.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:19](/episodes/ep-6DhWawD4ZiM.md#t-00-06-02) [○] (Claim) **Candace Owens**: ["Erika Kirk published a video of herself crying over Charlie Kirk's casket and hi..."](/statements/statement-4f201a9628b7.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:07:21](/episodes/ep-6DhWawD4ZiM.md#t-00-06-51) [○] (Accusation) **Candace Owens**: ["Turning Point USA employees have told many verified lies and inconsistencies fol..."](/statements/statement-d278a5e4e0ac.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:08:26](/episodes/ep-6DhWawD4ZiM.md#t-00-07-51) [○] (Opinion) **Erika Kirk**: ["Erika Kirk claims the handpicked Turning Point USA staff who loved Charlie are n..."](/statements/statement-07cb5cbc5f38.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:08:50](/episodes/ep-6DhWawD4ZiM.md#t-00-08-36) [○] (Claim) **Erika Kirk**: ["Erika Kirk and Turning Point USA send any leads about Charlie Kirk's assassinati..."](/statements/statement-ffb645eeadb2.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:59](/episodes/ep-6DhWawD4ZiM.md#t-00-09-46) [○] (Claim) **Candace Owens**: ["Erika Kirk has done media appearances on Hannity, The Five, Fox and Friends, Out..."](/statements/statement-10a7fb5e8168.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:05](/episodes/ep-6DhWawD4ZiM.md#t-00-09-46) [○] (Claim) **Candace Owens**: ["Erika Kirk flew to DC to attend Sergio Gor's swearing in as Ambassador to India"](/statements/statement-8c08ccef4942.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Sergio Gor](/entities/person-sergio-gor.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:03](/episodes/ep-6DhWawD4ZiM.md#t-00-11-42) [○] (Claim) **Candace Owens**: ["Erika Kirk sat down with Bari Weiss for a CBS News town hall filmed on December ..."](/statements/statement-2f698294e479.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Bari Weiss](/entities/person-bari-weiss.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:13](/episodes/ep-6DhWawD4ZiM.md#t-00-13-05) [○] (Claim) **Candace Owens**: ["Turning Point USA has made more than $100 million since Charlie Kirk was killed,..."](/statements/statement-785afbd27dae.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:16](/episodes/ep-6DhWawD4ZiM.md#t-00-13-05) [○] (Claim) **Candace Owens**: ["Turning Point USA has made more than 100 million dollars since Charlie Kirk's as..."](/statements/statement-ce0624c94ffe.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Mar-a-Lago](/entities/org-mar-a-lago.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:33](/episodes/ep-6DhWawD4ZiM.md#t-00-13-05) [○] (Accusation) **Candace Owens**: ["A coordinated psychological operation is being employed by mockingbird influence..."](/statements/statement-3434d55c1c2d.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:14:31](/episodes/ep-6DhWawD4ZiM.md#t-00-14-31) [○] (Accusation) **Candace Owens**: ["Rob McCoy tried to launder the reputation of a pedophile"](/statements/statement-1c4876037db4.md)
+  - About: [Rob McCoy](/entities/person-rob-mccoy.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:05](/episodes/ep-6DhWawD4ZiM.md#t-00-22-48) [○] (Accusation) **Candace Owens**: ["Many right-wing heroes exposed by the Charlie Kirk assassination have joined Ope..."](/statements/statement-a63e4538decc.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:54](/episodes/ep-6DhWawD4ZiM.md#t-00-23-49) [○] (Opinion) **Tucker Carlson**: ["Tucker Carlson does not understand the official story of Charlie Kirk's assassin..."](/statements/statement-7225bca90297.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:24:24](/episodes/ep-6DhWawD4ZiM.md#t-00-23-49) [○] (Claim) **Tucker Carlson**: ["Egyptian registered aircraft were following Charlie Kirk's widow around for a nu..."](/statements/statement-3cc73c12b1d9.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:24:24](/episodes/ep-6DhWawD4ZiM.md#t-00-23-49) [○] (Claim) **Tucker Carlson**: ["Tucker Carlson confirms that Egyptian-registered aircraft were following Charlie..."](/statements/statement-0351e28ffd11.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Egyptian Air Force](/entities/org-egyptian-air-force.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:16](/episodes/ep-6DhWawD4ZiM.md#t-00-24-33) [○] (Claim) **Tucker Carlson**: ["There were a disproportionately large number of foreign registered cell phones a..."](/statements/statement-055dc03b47ad.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:16](/episodes/ep-6DhWawD4ZiM.md#t-00-24-33) [○] (Claim) **Tucker Carlson**: ["There were a disproportionately large number of foreign registered cell phones a..."](/statements/statement-af7370c9b513.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:25](/episodes/ep-6DhWawD4ZiM.md#t-00-25-17) [○] (Opinion) **Tucker Carlson**: ["Tucker Carlson does not have confidence in the FBI or the men who run it regardi..."](/statements/statement-ffcbd0183325.md)
+  - About: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:26:26](/episodes/ep-6DhWawD4ZiM.md#t-00-26-00) [○] (Claim) **Candace Owens**: ["Tucker Carlson grew up with CIA agents in Virginia because his father was connec..."](/statements/statement-2c6779af2174.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+
+</div>
+<div class="filter-item">
+
+- [00:26:36](/episodes/ep-6DhWawD4ZiM.md#t-00-26-00) [○] (Claim) **Candace Owens**: ["Tucker Carlson's father was on the payroll of the CIA"](/statements/statement-2fdb991794fa.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+
+</div>
+<div class="filter-item">
+
+- [00:27:16](/episodes/ep-6DhWawD4ZiM.md#t-00-27-13) [○] (Claim) **Candace Owens**: ["NSA and CIA sources are confirming that the Egyptian planes following Charlie Ki..."](/statements/statement-ec4fc952eb55.md)
+  - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Egyptian Air Force](/entities/org-egyptian-air-force.md)
+
+</div>
+<div class="filter-item">
+
+- [00:27:58](/episodes/ep-6DhWawD4ZiM.md#t-00-27-51) [○] (Claim) **Tucker Carlson**: ["People posted on X that Charlie Kirk was going to be killed on the date he was k..."](/statements/statement-70882181c1f8.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:28:28](/episodes/ep-6DhWawD4ZiM.md#t-00-27-51) [○] (Opinion) **Tucker Carlson**: ["Tucker Carlson questions the claim that Charlie Kirk's assassin acted alone and ..."](/statements/statement-4ed785cea2fa.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:29:12](/episodes/ep-6DhWawD4ZiM.md#t-00-28-35) [○] (Claim) **Tucker Carlson**: ["The FBI claims to have both a confession from the killer in texts to his boyfrie..."](/statements/statement-46d01b80aec8.md)
+  - About: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:00](/episodes/ep-6DhWawD4ZiM.md#t-00-34-47) [○] (Claim) **Erika Kirk**: ["Erika Kirk said at the Bari Weiss town hall that she was pregnant when the Egypt..."](/statements/statement-d870ea0f3cb2.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Egyptian Air Force](/entities/org-egyptian-air-force.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:21](/episodes/ep-6DhWawD4ZiM.md#t-00-34-47) [○] (Claim) **Erika Kirk**: ["At the Bari Weiss town hall, when asked about the conspiracies and what to say t..."](/statements/statement-a9cc160e7b86.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Bari Weiss](/entities/person-bari-weiss.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:23](/episodes/ep-6DhWawD4ZiM.md#t-00-34-47) [○] (Claim) **Erika Kirk**: ["Erika Kirk discussed Israel at the Bari Weiss town hall, said positive things ab..."](/statements/statement-bef5020b15ff.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Israel](/entities/gpe-israel.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:36](/episodes/ep-6DhWawD4ZiM.md#t-00-35-31) [○] (Claim) **Candace Owens**: ["The Egyptian plane flew to Wilmington, Delaware on the day of Charlie Kirk's ass..."](/statements/statement-a2a2171aef70.md)
+  - About: [Egyptian Air Force](/entities/org-egyptian-air-force.md), [Wilmington](/entities/gpe-wilmington.md), [Delaware](/entities/gpe-delaware.md)
+
+</div>
+<div class="filter-item">
+
+- [00:41:17](/episodes/ep-6DhWawD4ZiM.md#t-00-40-53) [○] (Claim) **Candace Owens**: ["Captain Adam Neff of the 10th Mountain Division led an interrogation of a milita..."](/statements/statement-536d43327c41.md)
+  - About: [Adam Neff](/entities/person-adam-neff.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:41:25](/episodes/ep-6DhWawD4ZiM.md#t-00-40-53) [○] (Claim) **Candace Owens**: ["A building at Fort Huachuca has been converted into a SCIF (Sensitive Compartmen..."](/statements/statement-3e770fcf90d6.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:42:18](/episodes/ep-6DhWawD4ZiM.md#t-00-41-37) [○] (Claim) **Candace Owens**: ["Harry previously discovered a cartel tunnel when he was 20 years old"](/statements/statement-ca0d3079dc50.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:43:41](/episodes/ep-6DhWawD4ZiM.md#t-00-43-00) [○] (Claim) **Candace Owens**: ["A US government VIP plane (C37A Gulfstream, tail number 99-0404) flew from Andre..."](/statements/statement-88162d6bfd9c.md)
+  - About: [Andrews Air Force Base](/entities/gpe-andrews-air-force-base.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md), [El Paso](/entities/gpe-el-paso.md)
+
+</div>
+<div class="filter-item">
+
+- [00:46:13](/episodes/ep-6DhWawD4ZiM.md#t-00-45-47) [○] (Claim) **Candace Owens**: ["There were weird flights coming from El Paso, Texas on the day of Charlie Kirk's..."](/statements/statement-4f46327805eb.md)
+  - About: [El Paso](/entities/gpe-el-paso.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:46:38](/episodes/ep-6DhWawD4ZiM.md#t-00-46-23) [○] (Claim) **Candace Owens**: ["A military source named Harry witnessed what appeared to be a finalization meeti..."](/statements/statement-45c985fc27c8.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:47:38](/episodes/ep-6DhWawD4ZiM.md#t-00-47-35) [○] (Claim) **Candace Owens**: ["Pam Bondi flew on the same VIP plane (tail 99-0404) approximately five months ag..."](/statements/statement-99edc3c2fe01.md)
+  - About: [Pam Bondi](/entities/person-pam-bondi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:48:28](/episodes/ep-6DhWawD4ZiM.md#t-00-48-17) [○] (Claim) **Candace Owens**: ["The VIP plane call sign changed from REACH (standard) to SAM (Special Air Missio..."](/statements/statement-03404b845b40.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:48:55](/episodes/ep-6DhWawD4ZiM.md#t-00-48-17) [○] (Prediction) **Candace Owens**: ["Harry will be going on podcasts next week to share his story about what he witne..."](/statements/statement-626a58b21e1b.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:57:17](/episodes/ep-6DhWawD4ZiM.md#t-00-56-52) [○] (Claim) **Candace Owens**: ["The FBI has not contacted Candace Owens about information regarding the French F..."](/statements/statement-61a1f69e6c94.md)
+  - About: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [France](/entities/gpe-france.md)
+
+</div>
+<div class="filter-item">
+
+- [01:00:36](/episodes/ep-6DhWawD4ZiM.md#t-01-00-25) [○] (Claim) **Candace Owens**: ["The military source Harry believes he saw Brian Harpole at the Fort Huachuca mee..."](/statements/statement-f1dc8d72a7f2.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+</details>
+
 </div>
 
 ---
 
-*Generated: 2025-12-10 18:05:36*
+*Generated: 2025-12-11 11:24:16*

@@ -1,11 +1,11 @@
 ---
 title: "A Shot in the Dark"
-description: "A Shot in the Dark (Work) - 3 mentions"
+description: "A Shot in the Dark (Works & Media) - 3 mentions"
 id: "work-a-shot-in-the-dark"
 type: "WORK"
 ---
 
-_Type: Work_
+_Type: Works & Media_
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

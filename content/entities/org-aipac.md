@@ -17,17 +17,6 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
-
-**[00:59:37](/episodes/ep-2Riv3I7D0Yk.md#ent-org-aipac-t-00-59-21)**
-> "...into stereotypes. You're living up every stereotype." But what you're seeing is the stranglehold of AIPAC. It is a political organization. And I always say if you look at any lobby in D.C., it'll make you ..."
-
-**[00:59:37](/episodes/ep-2Riv3I7D0Yk.md#ent-org-aipac-t-00-59-21)**
-> "...seeing is the stranglehold of AIPAC."
-
-</details>
-
-<details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:56:32](/episodes/ep-7RLtGgkTh9o.md#ent-org-aipac-t-00-55-59)**
@@ -39,19 +28,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (4 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
-**[00:02:34](/episodes/ep-K1tFD7FfoCU.md#ent-org-aipac-t-00-02-14)**
-> "... rhetoric towards Palestinians—saying essentially that they're just not even truly humans—that even AIPAC had to drop him. That's saying a lot. If AIPAC was like, "You went a little too far for even us." I..."
+**[00:57:37](/episodes/ep-yAIb-NuUh_U.md#ent-org-aipac-t-00-57-10)**
+> "...nk you for giving—Bub writes: "No more party loyalists next election." "Vote for the one not taking AIPAC money." "Get the Zionists out of our government." Yeah, I agree because they're evil, and they're i..."
 
-**[00:02:47](/episodes/ep-K1tFD7FfoCU.md#ent-org-aipac-t-00-02-14)**
-> "...ly that they're just not even truly humans—that even AIPAC had to drop him. That's saying a lot. If AIPAC was like, "You went a little too far for even us." Irrespective of this, Randy Fine (Randy Fine) de..."
-
-**[00:02:34](/episodes/ep-K1tFD7FfoCU.md#ent-org-aipac-t-00-02-14)**
-> "...t even truly humans—that even AIPAC had to drop him."
-
-**[00:02:47](/episodes/ep-K1tFD7FfoCU.md#ent-org-aipac-t-00-02-14)**
-> "If AIPAC was like, "You went a little too far for even us...."
+**[00:57:37](/episodes/ep-yAIb-NuUh_U.md#ent-org-aipac-t-00-57-10)**
+> ""Vote for the one not taking AIPAC money.""
 
 </details>
 
@@ -78,25 +61,30 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (6 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (4 mentions)</summary>
 
-**[00:30:01](/episodes/ep-aDlhjfW6hz8.md#ent-org-aipac-t-00-30-01)**
-> "...k into who's writing these articles, like Victoria Churchill, you note that she has a connection to AIPAC. So AIPAC is pushing this. Right? The answer is implied by the people who are attacking me. They ar..."
+**[00:02:34](/episodes/ep-K1tFD7FfoCU.md#ent-org-aipac-t-00-02-14)**
+> "... rhetoric towards Palestinians—saying essentially that they're just not even truly humans—that even AIPAC had to drop him. That's saying a lot. If AIPAC was like, "You went a little too far for even us." I..."
 
-**[00:30:03](/episodes/ep-aDlhjfW6hz8.md#ent-org-aipac-t-00-30-01)**
-> "...'s writing these articles, like Victoria Churchill, you note that she has a connection to AIPAC. So AIPAC is pushing this. Right? The answer is implied by the people who are attacking me. They are all ultr..."
+**[00:02:47](/episodes/ep-K1tFD7FfoCU.md#ent-org-aipac-t-00-02-14)**
+> "...ly that they're just not even truly humans—that even AIPAC had to drop him. That's saying a lot. If AIPAC was like, "You went a little too far for even us." Irrespective of this, Randy Fine (Randy Fine) de..."
 
-**[00:30:34](/episodes/ep-aDlhjfW6hz8.md#ent-org-aipac-t-00-30-01)**
-> "...of herself—if you can scroll down, I don't know if you can see this—like sitting in the audience in AIPAC, and she's thrilled. America, Israel. It's like all of these people are agents for a foreign countr..."
+**[00:02:34](/episodes/ep-K1tFD7FfoCU.md#ent-org-aipac-t-00-02-14)**
+> "...t even truly humans—that even AIPAC had to drop him."
 
-**[00:30:01](/episodes/ep-aDlhjfW6hz8.md#ent-org-aipac-t-00-30-01)**
-> "... that she has a connection to AIPAC."
+**[00:02:47](/episodes/ep-K1tFD7FfoCU.md#ent-org-aipac-t-00-02-14)**
+> "If AIPAC was like, "You went a little too far for even us...."
 
-**[00:30:03](/episodes/ep-aDlhjfW6hz8.md#ent-org-aipac-t-00-30-01)**
-> "So AIPAC is pushing this."
+</details>
 
-**[00:30:34](/episodes/ep-aDlhjfW6hz8.md#ent-org-aipac-t-00-30-01)**
-> "...ke sitting in the audience in AIPAC, and she's thrilled."
+<details>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
+
+**[00:59:37](/episodes/ep-2Riv3I7D0Yk.md#ent-org-aipac-t-00-59-21)**
+> "...into stereotypes. You're living up every stereotype." But what you're seeing is the stranglehold of AIPAC. It is a political organization. And I always say if you look at any lobby in D.C., it'll make you ..."
+
+**[00:59:37](/episodes/ep-2Riv3I7D0Yk.md#ent-org-aipac-t-00-59-21)**
+> "...seeing is the stranglehold of AIPAC."
 
 </details>
 
@@ -157,13 +145,25 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (6 mentions)</summary>
 
-**[00:57:37](/episodes/ep-yAIb-NuUh_U.md#ent-org-aipac-t-00-57-10)**
-> "...nk you for giving—Bub writes: "No more party loyalists next election." "Vote for the one not taking AIPAC money." "Get the Zionists out of our government." Yeah, I agree because they're evil, and they're i..."
+**[00:30:01](/episodes/ep-aDlhjfW6hz8.md#ent-org-aipac-t-00-30-01)**
+> "...k into who's writing these articles, like Victoria Churchill, you note that she has a connection to AIPAC. So AIPAC is pushing this. Right? The answer is implied by the people who are attacking me. They ar..."
 
-**[00:57:37](/episodes/ep-yAIb-NuUh_U.md#ent-org-aipac-t-00-57-10)**
-> ""Vote for the one not taking AIPAC money.""
+**[00:30:03](/episodes/ep-aDlhjfW6hz8.md#ent-org-aipac-t-00-30-01)**
+> "...'s writing these articles, like Victoria Churchill, you note that she has a connection to AIPAC. So AIPAC is pushing this. Right? The answer is implied by the people who are attacking me. They are all ultr..."
+
+**[00:30:34](/episodes/ep-aDlhjfW6hz8.md#ent-org-aipac-t-00-30-01)**
+> "...of herself—if you can scroll down, I don't know if you can see this—like sitting in the audience in AIPAC, and she's thrilled. America, Israel. It's like all of these people are agents for a foreign countr..."
+
+**[00:30:01](/episodes/ep-aDlhjfW6hz8.md#ent-org-aipac-t-00-30-01)**
+> "... that she has a connection to AIPAC."
+
+**[00:30:03](/episodes/ep-aDlhjfW6hz8.md#ent-org-aipac-t-00-30-01)**
+> "So AIPAC is pushing this."
+
+**[00:30:34](/episodes/ep-aDlhjfW6hz8.md#ent-org-aipac-t-00-30-01)**
+> "...ke sitting in the audience in AIPAC, and she's thrilled."
 
 </details>
 
@@ -172,21 +172,7 @@ _Type: Organizations_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Affiliated With (1)</summary>
-
-- **[Victoria Churchill](/entities/person-victoria-churchill.md)**
-  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:30:03](/episodes/ep-aDlhjfW6hz8.md#t-00-30-01): "Victoria Churchill... she has a connection to AIPAC"
-
-</details>
-
-<details>
-<summary>Referenced By (1)</summary>
-
-- **[Victoria Churchill](/entities/person-victoria-churchill.md)** affiliated with this
-  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:30:03](/episodes/ep-aDlhjfW6hz8.md#t-00-30-01)
-
-</details>
+_No relationships extracted yet._
 
 </details>
 
@@ -194,20 +180,20 @@ _Type: Organizations_
 <summary><strong class="section-title">Statements about AIPAC (4)</strong></summary>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2)</summary>
-
-- [00:30:01](/episodes/ep-aDlhjfW6hz8.md#t-00-29-16) (Accusation) **Candace Owens**: ["Victoria Churchill has a connection to AIPAC. So AIPAC is pushing this"](/statements/statement-d8ab84f09c9d.md)
-
-- [00:30:03](/episodes/ep-aDlhjfW6hz8.md#t-00-30-01) (Claim) **Candace Owens**: ["Victoria Churchill, the Daily Mail journalist who wrote the hit piece,..."](/statements/statement-357b4428dc9b.md)
-
-</details>
-
-<details>
 <summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2)</summary>
 
 - [00:35:56](/episodes/ep-ja26iltROkM.md#t-00-35-19) (Opinion) **Charlie Kirk** (via quoted speech): ["The word anti-Semitism is becoming overused like the word racism - peo..."](/statements/statement-97b61952dfa2.md)
 
 - [00:41:54](/episodes/ep-ja26iltROkM.md#t-00-41-21) (Claim) **Candace Owens**: ["There was a president who suggested the precursor to AIPAC should regi..."](/statements/statement-f6dbcf4df47a.md)
+
+</details>
+
+<details>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2)</summary>
+
+- [00:30:01](/episodes/ep-aDlhjfW6hz8.md#t-00-29-16) (Accusation) **Candace Owens**: ["Victoria Churchill has a connection to AIPAC. So AIPAC is pushing this"](/statements/statement-d8ab84f09c9d.md)
+
+- [00:30:03](/episodes/ep-aDlhjfW6hz8.md#t-00-30-01) (Claim) **Candace Owens**: ["Victoria Churchill, the Daily Mail journalist who wrote the hit piece,..."](/statements/statement-357b4428dc9b.md)
 
 </details>
 

@@ -51,21 +51,7 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Affiliated With (1)</summary>
-
-- **[Walid Mahmood](/entities/person-walid-mahmood.md)**
-  - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:03:58](/episodes/ep-ZAuuSq_j2_w.md#t-00-03-51): "This person is going to be well-acquainted with the president of Egypt, okay?"
-
-</details>
-
-<details>
-<summary>Referenced By (1)</summary>
-
-- **[Walid Mahmood](/entities/person-walid-mahmood.md)** affiliated with this
-  - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:03:58](/episodes/ep-ZAuuSq_j2_w.md#t-00-03-51)
-
-</details>
+_No relationships extracted yet._
 
 </details>
 

@@ -33,14 +33,6 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Affiliated With (1)</summary>
-
-- **[USS Liberty](/entities/work-uss-liberty.md)**
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:09](/episodes/ep-his-JBjlkh8.md#t-00-09-34): "[01:04:06] ...when we interviewed Phil Turney of the USS Liberty."
-
-</details>
-
-<details>
 <summary>Interviewed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -50,10 +42,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
-
-- **[USS Liberty](/entities/work-uss-liberty.md)** affiliated with this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:09](/episodes/ep-his-JBjlkh8.md#t-00-09-34)
+<summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed this
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 01:04:06](/episodes/ep-his-JBjlkh8.md#t-01-03-25)

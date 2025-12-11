@@ -28,20 +28,6 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Worked With (1)</summary>
-
-- **[Shaner Broderick](/entities/person-shaner-broderick.md)**
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:07:09](/episodes/ep-YA1FxrDWNIo.md#t-00-06-55): "It's probably part of the reason—politically speaking—that he was chosen for an internship with Senator Mike Lee of Utah"
-
-</details>
-
-<details>
-<summary>Referenced By (1)</summary>
-
-- **[Shaner Broderick](/entities/person-shaner-broderick.md)** worked with this
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:07:09](/episodes/ep-YA1FxrDWNIo.md#t-00-06-55)
-
-</details>
+_No relationships extracted yet._
 
 </details>

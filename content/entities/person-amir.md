@@ -13,6 +13,17 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
+
+**[00:58:20](/episodes/ep-a-e7HC6SeK8.md#ent-person-amir-t-00-57-57)**
+> "...—"America is something you can move very easily with money." Not this American—so there's that. And Amir writes, "I voted for my taxpayer funds to go from the CIA towards the Candace (Candace Owens) Intel..."
+
+**[00:58:20](/episodes/ep-a-e7HC6SeK8.md#ent-person-amir-t-00-57-57)**
+> "And Amir writes, "I voted for my taxpayer funds to go from..."
+
+</details>
+
+<details>
 <summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (6 mentions)</summary>
 
 **[00:58:15](/episodes/ep-5autG89PW6w.md#ent-person-amir-t-00-57-49)**
@@ -32,17 +43,6 @@ _Type: People_
 
 **[00:58:28](/episodes/ep-5autG89PW6w.md#ent-person-amir-t-00-57-49)**
 > "Politics is a nasty business, Amir."
-
-</details>
-
-<details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
-
-**[00:58:20](/episodes/ep-a-e7HC6SeK8.md#ent-person-amir-t-00-57-57)**
-> "...—"America is something you can move very easily with money." Not this American—so there's that. And Amir writes, "I voted for my taxpayer funds to go from the CIA towards the Candace (Candace Owens) Intel..."
-
-**[00:58:20](/episodes/ep-a-e7HC6SeK8.md#ent-person-amir-t-00-57-57)**
-> "And Amir writes, "I voted for my taxpayer funds to go from..."
 
 </details>
 

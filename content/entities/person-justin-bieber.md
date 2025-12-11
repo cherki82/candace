@@ -30,13 +30,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2 mentions)</summary>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (2 mentions)</summary>
 
-**[00:06:45](/episodes/ep-K5GjF53bfN4.md#ent-person-justin-bieber-t-00-06-45)**
-> "...: Do you know how many people would have loved to come and slaughter that whole hotel? Feeling like Justin Bieber, because it's not clicking for me. I'm sorry. So first off, you guys never connected to Turning Poi..."
+**[00:42:26](/episodes/ep-vwG1juDCQZQ.md#ent-person-justin-bieber-t-00-41-49)**
+> "... me, Taylor Swift. So obviously Taylor Swift's lying because it didn't happen to me. It doesn't. As Justin Bieber says: it's just—it's not clocking for us, man. Anyways, it is weird to me also that when you look a..."
 
-**[00:06:45](/episodes/ep-K5GjF53bfN4.md#ent-person-justin-bieber-t-00-06-45)**
-> "Feeling like Justin Bieber, because it's not clicking for me."
+**[00:42:26](/episodes/ep-vwG1juDCQZQ.md#ent-person-justin-bieber-t-00-41-49)**
+> "As Justin Bieber says: it's just—it's not clocking for us, man."
 
 </details>
 
@@ -52,13 +52,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (2 mentions)</summary>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2 mentions)</summary>
 
-**[00:42:26](/episodes/ep-vwG1juDCQZQ.md#ent-person-justin-bieber-t-00-41-49)**
-> "... me, Taylor Swift. So obviously Taylor Swift's lying because it didn't happen to me. It doesn't. As Justin Bieber says: it's just—it's not clocking for us, man. Anyways, it is weird to me also that when you look a..."
+**[00:06:45](/episodes/ep-K5GjF53bfN4.md#ent-person-justin-bieber-t-00-06-45)**
+> "...: Do you know how many people would have loved to come and slaughter that whole hotel? Feeling like Justin Bieber, because it's not clicking for me. I'm sorry. So first off, you guys never connected to Turning Poi..."
 
-**[00:42:26](/episodes/ep-vwG1juDCQZQ.md#ent-person-justin-bieber-t-00-41-49)**
-> "As Justin Bieber says: it's just—it's not clocking for us, man."
+**[00:06:45](/episodes/ep-K5GjF53bfN4.md#ent-person-justin-bieber-t-00-06-45)**
+> "Feeling like Justin Bieber, because it's not clicking for me."
 
 </details>
 

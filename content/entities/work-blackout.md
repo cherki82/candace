@@ -1,11 +1,11 @@
 ---
 title: "Blackout"
-description: "Blackout (Work) - 2 mentions"
+description: "Blackout (Works & Media) - 2 mentions"
 id: "work-blackout"
 type: "WORK"
 ---
 
-_Type: Work_
+_Type: Works & Media_
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

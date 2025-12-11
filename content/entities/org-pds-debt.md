@@ -13,6 +13,51 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
+
+**[00:48:54](/episodes/ep-a-e7HC6SeK8.md#ent-org-pds-debt-t-00-48-38)**
+> "...sonal loans, or medical bills—PDS Debt has custom options to help you get out of debt."
+
+**[00:49:17](/episodes/ep-a-e7HC6SeK8.md#ent-org-pds-debt-t-00-48-38)**
+> "PDS Debt is A-plus rated by the Better Business Bureau."
+
+</details>
+
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (4 mentions)</summary>
+
+**[00:35:14](/episodes/ep-yAIb-NuUh_U.md#ent-org-pds-debt-t-00-34-59)**
+> "...o want to tell you guys about PDS Debt because debt from credit cards is not an accident..."
+
+**[00:35:32](/episodes/ep-yAIb-NuUh_U.md#ent-org-pds-debt-t-00-34-59)**
+> "PDS Debt has already helped hundreds of thousands fight ba..."
+
+**[00:35:40](/episodes/ep-yAIb-NuUh_U.md#ent-org-pds-debt-t-00-35-40)**
+> "...onal loans, or medical bills, PDS Debt has custom options to help you get out of debt."
+
+**[00:36:01](/episodes/ep-yAIb-NuUh_U.md#ent-org-pds-debt-t-00-35-40)**
+> "PDS Debt is A-plus rated by the Better Business Bureau."
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (4 mentions)</summary>
+
+**[00:27:54](/episodes/ep-vwG1juDCQZQ.md#ent-org-pds-debt-t-00-27-16)**
+> "...o want to tell you guys about PDS Debt."
+
+**[00:28:15](/episodes/ep-vwG1juDCQZQ.md#ent-org-pds-debt-t-00-28-01)**
+> "PDS Debt has already helped hundreds of thousands fight ba..."
+
+**[00:28:16](/episodes/ep-vwG1juDCQZQ.md#ent-org-pds-debt-t-00-28-01)**
+> "...onal loans, or medical bills, PDS Debt has custom options to help you get out of debt."
+
+**[00:28:40](/episodes/ep-vwG1juDCQZQ.md#ent-org-pds-debt-t-00-28-01)**
+> "PDS Debt is A+ rated by the Better Business Bureau."
+
+</details>
+
+<details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
 
 **[00:38:22](/episodes/ep-Cq7nj9rxPdo.md#ent-org-pds-debt-t-00-37-50)**
@@ -43,51 +88,6 @@ _Type: Organizations_
 
 **[00:25:49](/episodes/ep-K5GjF53bfN4.md#ent-org-pds-debt-t-00-25-49)**
 > "PDS Debt is rated A+ by the Better Business Bureau."
-
-</details>
-
-<details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
-
-**[00:48:54](/episodes/ep-a-e7HC6SeK8.md#ent-org-pds-debt-t-00-48-38)**
-> "...sonal loans, or medical bills—PDS Debt has custom options to help you get out of debt."
-
-**[00:49:17](/episodes/ep-a-e7HC6SeK8.md#ent-org-pds-debt-t-00-48-38)**
-> "PDS Debt is A-plus rated by the Better Business Bureau."
-
-</details>
-
-<details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (4 mentions)</summary>
-
-**[00:27:54](/episodes/ep-vwG1juDCQZQ.md#ent-org-pds-debt-t-00-27-16)**
-> "...o want to tell you guys about PDS Debt."
-
-**[00:28:15](/episodes/ep-vwG1juDCQZQ.md#ent-org-pds-debt-t-00-28-01)**
-> "PDS Debt has already helped hundreds of thousands fight ba..."
-
-**[00:28:16](/episodes/ep-vwG1juDCQZQ.md#ent-org-pds-debt-t-00-28-01)**
-> "...onal loans, or medical bills, PDS Debt has custom options to help you get out of debt."
-
-**[00:28:40](/episodes/ep-vwG1juDCQZQ.md#ent-org-pds-debt-t-00-28-01)**
-> "PDS Debt is A+ rated by the Better Business Bureau."
-
-</details>
-
-<details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (4 mentions)</summary>
-
-**[00:35:14](/episodes/ep-yAIb-NuUh_U.md#ent-org-pds-debt-t-00-34-59)**
-> "...o want to tell you guys about PDS Debt because debt from credit cards is not an accident..."
-
-**[00:35:32](/episodes/ep-yAIb-NuUh_U.md#ent-org-pds-debt-t-00-34-59)**
-> "PDS Debt has already helped hundreds of thousands fight ba..."
-
-**[00:35:40](/episodes/ep-yAIb-NuUh_U.md#ent-org-pds-debt-t-00-35-40)**
-> "...onal loans, or medical bills, PDS Debt has custom options to help you get out of debt."
-
-**[00:36:01](/episodes/ep-yAIb-NuUh_U.md#ent-org-pds-debt-t-00-35-40)**
-> "PDS Debt is A-plus rated by the Better Business Bureau."
 
 </details>
 

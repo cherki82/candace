@@ -34,27 +34,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>Worked With (2)</summary>
-
-- **[Pierre Falcone](/entities/person-pierre-falcone.md)**
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:16:50](/episodes/ep-Kmt6HgRjckU.md#t-00-16-13): "his colleague Jean-Christophe Mitterrand"
-
-- **[Angola](/entities/gpe-angola.md)**
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:17:27](/episodes/ep-Kmt6HgRjckU.md#t-00-16-50): "Falcone and get a mock relying on the special access that Mitterrand had to the Angolan government"
-
-</details>
-
-<details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (1)</summary>
 
 - **[François Mitterrand](/entities/person-francois-mitterrand.md)** parent of this
   - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:16:50](/episodes/ep-Kmt6HgRjckU.md#t-00-16-13)
-
-- **[Pierre Falcone](/entities/person-pierre-falcone.md)** worked with this
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:16:50](/episodes/ep-Kmt6HgRjckU.md#t-00-16-13)
-
-- **[Angola](/entities/gpe-angola.md)** worked with this
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:17:27](/episodes/ep-Kmt6HgRjckU.md#t-00-16-50)
 
 </details>
 
@@ -67,7 +50,7 @@ _Type: People_
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>
 
 - [00:15:25](/episodes/ep-Kmt6HgRjckU.md#t-00-14-48) (Claim) **Candace Owens**: ["Francois Mitterrand, the French president's son, was implicated in the..."](/statements/statement-4feac2591c94.md)
-  - Also about: [François Mitterrand](/entities/person-francois-mitterrand.md), [Angola Gate](/entities/concept-angola-gate.md)
+  - Also about: [François Mitterrand](/entities/person-francois-mitterrand.md), [Angolagate scandal](/entities/event-angola-gate.md)
 
 </details>
 

@@ -13,6 +13,14 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
+
+**[00:34:39](/episodes/ep-MUA9ebCF4Ow.md#t-00-34-22)**
+> "Like, Jack Hibbs was somebody that Marissa flagged for me that she wanted me to have on my show"
+
+</details>
+
+<details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (5 mentions)</summary>
 
 **[00:20:54](/episodes/ep-Cq7nj9rxPdo.md#ent-person-marissa-streit-t-00-20-40)**
@@ -29,6 +37,17 @@ _Type: People_
 
 **[00:25:19](/episodes/ep-Cq7nj9rxPdo.md#ent-person-marissa-streit-t-00-25-05)**
 > "I'm telling you, Marissa Streit—military."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
+
+**[00:37:04](/episodes/ep-adJ4LNGp84I.md#ent-person-marissa-streit-t-00-37-04)**
+> "...ause I'm like, this is like military training. Almost verbatim, a text message that I received from Marissa Streit when I, like, retweeted Max Blumenthal, I think once, when he said something that I totally agreed ..."
+
+**[00:37:04](/episodes/ep-adJ4LNGp84I.md#ent-person-marissa-streit-t-00-37-04)**
+> "... message that I received from Marissa Streit when I, like, retweeted Max Blumenthal, I think o..."
 
 </details>
 
@@ -55,25 +74,6 @@ _Type: People_
 
 **[00:08:33](/episodes/ep-K5GjF53bfN4.md#ent-person-marissa-streit-t-00-08-02)**
 > "You know, Marissa (Marissa Streit) has not always been open about the fact that she..."
-
-</details>
-
-<details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
-
-**[00:34:39](/episodes/ep-MUA9ebCF4Ow.md#t-00-34-22)**
-> "Like, Jack Hibbs was somebody that Marissa flagged for me that she wanted me to have on my show"
-
-</details>
-
-<details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
-
-**[00:37:04](/episodes/ep-adJ4LNGp84I.md#ent-person-marissa-streit-t-00-37-04)**
-> "...ause I'm like, this is like military training. Almost verbatim, a text message that I received from Marissa Streit when I, like, retweeted Max Blumenthal, I think once, when he said something that I totally agreed ..."
-
-**[00:37:04](/episodes/ep-adJ4LNGp84I.md#ent-person-marissa-streit-t-00-37-04)**
-> "... message that I received from Marissa Streit when I, like, retweeted Max Blumenthal, I think o..."
 
 </details>
 

@@ -21,7 +21,7 @@ type: "factual_claim"
 ## About
 
 - [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) (person)
-- [AmericaFest](/entities/event-amfest.md) (event)
+- [America Fest](/entities/event-america-fest.md) (event)
 
 ## Source
 

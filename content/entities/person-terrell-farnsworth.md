@@ -66,7 +66,7 @@ _Type: People_
 - [00:03:03](/episodes/ep-JQjCAsfoXEE.md#t-00-02-35) (Claim) **Candace Owens**: ["Terrell Farnsworth doesn't do college campus events, only big events l..."](/statements/statement-ef4522af828e.md)
 
 - [00:12:18](/episodes/ep-JQjCAsfoXEE.md#t-00-11-52) (Claim) **Candace Owens**: ["Terrell Farnsworth does not do college campus events, he only does big..."](/statements/statement-13d527412b06.md)
-  - Also about: [AmericaFest](/entities/event-amfest.md)
+  - Also about: [America Fest](/entities/event-america-fest.md)
 
 </details>
 

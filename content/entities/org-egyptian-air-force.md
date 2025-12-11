@@ -50,12 +50,22 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Egyptian Air Force (15)</strong></summary>
+<summary><strong class="section-title">Statements about Egyptian Air Force (19)</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4)</summary>
 
-- [00:50:30](/episodes/ep-7RLtGgkTh9o.md#t-00-50-11) (Promise) **Candace Owens**: ["The Egyptian plane information is positively explosive and I had to ge..."](/statements/statement-2eeaf3bf8e1b.md)
+- [00:24:24](/episodes/ep-6DhWawD4ZiM.md#t-00-23-49) (Claim) **Tucker Carlson** (via quoted speech): ["Tucker Carlson confirms that Egyptian-registered aircraft were followi..."](/statements/statement-0351e28ffd11.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:27:16](/episodes/ep-6DhWawD4ZiM.md#t-00-27-13) (Claim) **Candace Owens**: ["NSA and CIA sources are confirming that the Egyptian planes following ..."](/statements/statement-ec4fc952eb55.md)
+  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:35:00](/episodes/ep-6DhWawD4ZiM.md#t-00-34-47) (Claim) **Erika Kirk** (via read message): ["Erika Kirk said at the Bari Weiss town hall that she was pregnant when..."](/statements/statement-d870ea0f3cb2.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:35:36](/episodes/ep-6DhWawD4ZiM.md#t-00-35-31) (Claim) **Candace Owens**: ["The Egyptian plane flew to Wilmington, Delaware on the day of Charlie ..."](/statements/statement-a2a2171aef70.md)
+  - Also about: [Wilmington](/entities/gpe-wilmington.md), [Delaware](/entities/gpe-delaware.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
@@ -76,6 +86,13 @@ _No relationships extracted yet._
 
 - [00:21:35](/episodes/ep-JQjCAsfoXEE.md#t-00-21-01) (Claim) **Candace Owens**: ["On September 10th, the blue Egyptian plane transponded from 9:05 AM un..."](/statements/statement-1a13936259ea.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</details>
+
+<details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1)</summary>
+
+- [00:50:30](/episodes/ep-7RLtGgkTh9o.md#t-00-50-11) (Promise) **Candace Owens**: ["The Egyptian plane information is positively explosive and I had to ge..."](/statements/statement-2eeaf3bf8e1b.md)
 
 </details>
 

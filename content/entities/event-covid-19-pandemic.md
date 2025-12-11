@@ -18,13 +18,24 @@ _Type: Events_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
 
-**[00:28:08](/episodes/ep-5autG89PW6w.md#ent-event-covid-19-pandemic-t-00-27-54)**
-> "...ts. We have been proven right so many times in the recent past, right? Whether we're speaking about COVID—people that had to actually take a stance before people were then suddenly government: "Oh, admits—..."
+**[00:36:28](/episodes/ep-his-JBjlkh8.md#ent-event-covid-19-pandemic-t-00-35-51)**
+> "...r right at your fingertips. Inside, you'll find core prescriptions to treat over 30 conditions like COVID, strep throat, pneumonia, and more. No more waiting rooms or pharmacy lines. Just modernized medici..."
 
-**[00:28:08](/episodes/ep-5autG89PW6w.md#ent-event-covid-19-pandemic-t-00-27-54)**
-> "Whether we're speaking about COVID—people that had to actually take a stance before ..."
+**[00:36:28](/episodes/ep-his-JBjlkh8.md#ent-event-covid-19-pandemic-t-00-35-51)**
+> "...treat over 30 conditions like COVID, strep throat, pneumonia, and more."
+
+</details>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+
+**[00:29:06](/episodes/ep-mKXdKV-OBog.md#ent-event-covid-19-pandemic-t-00-28-48)**
+> "... to have something that was in the middle of the line, and she just couldn't get behind all of this COVID propaganda, and she was gonna start The Free Press, and they were gonna go back to doing hardcore, ..."
+
+**[00:29:06](/episodes/ep-mKXdKV-OBog.md#ent-event-covid-19-pandemic-t-00-28-48)**
+> "...uldn't get behind all of this COVID propaganda, and she was gonna start The Free Pres..."
 
 </details>
 
@@ -36,6 +47,56 @@ _Type: Events_
 
 **[00:18:57](/episodes/ep-7RLtGgkTh9o.md#ent-event-covid-19-pandemic-t-00-18-57)**
 > "And I think post-COVID we're all ready to digest that these are psycholo..."
+
+</details>
+
+<details>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2 mentions)</summary>
+
+**[00:46:40](/episodes/ep-YaZfwLQ7vrI.md#ent-event-covid-19-pandemic-t-00-46-13)**
+> "...s, I guess. Cluster-B personality. Now, what I will say is this is—if you go back any fed operation—COVID—whenever you don't follow the federal narrative, if you don't listen to the government, they always..."
+
+**[00:46:40](/episodes/ep-YaZfwLQ7vrI.md#ent-event-covid-19-pandemic-t-00-46-13)**
+> "...you go back any fed operation—COVID—whenever you don't follow the federal narrative, ..."
+
+</details>
+
+<details>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (4 mentions)</summary>
+
+**[00:04:16](/episodes/ep-Qt0VHV-POCg.md#ent-event-covid-19-pandemic-t-00-03-39)**
+> "...ristian right, McCoy inspired Kirk to amalgamate Christianity and social conservatism." "During the COVID-19 pandemic, McCoy was known for speaking out against prohibitions on the holding of in-person church services...."
+
+**[00:35:55](/episodes/ep-Qt0VHV-POCg.md#ent-event-covid-19-pandemic-t-00-35-31)**
+> "... when he begins to credentialize himself and said, "Oh, I was out with the Wuhan. I said this about COVID"—that's all true. That's the real Don Jr. He was actually one of the people that was the most vocal..."
+
+**[00:04:16](/episodes/ep-Qt0VHV-POCg.md#ent-event-covid-19-pandemic-t-00-03-39)**
+> ""During the COVID-19 pandemic, McCoy was known for speaking out against prohibi..."
+
+**[00:35:55](/episodes/ep-Qt0VHV-POCg.md#ent-event-covid-19-pandemic-t-00-35-31)**
+> "... the Wuhan. I said this about COVID"—that's all true."
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
+
+**[00:28:08](/episodes/ep-5autG89PW6w.md#ent-event-covid-19-pandemic-t-00-27-54)**
+> "...ts. We have been proven right so many times in the recent past, right? Whether we're speaking about COVID—people that had to actually take a stance before people were then suddenly government: "Oh, admits—..."
+
+**[00:28:08](/episodes/ep-5autG89PW6w.md#ent-event-covid-19-pandemic-t-00-27-54)**
+> "Whether we're speaking about COVID—people that had to actually take a stance before ..."
+
+</details>
+
+<details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
+
+**[00:51:59](/episodes/ep-t1YtLS1n8Vs.md#ent-event-covid-19-pandemic-t-00-51-33)**
+> "...ou always have a right to your own children, which is ridiculous that we have to say this. But post-COVID you saw, they'll inoculate your kids. They'll be like, “Actually, we don't just own their minds; we..."
+
+**[00:51:59](/episodes/ep-t1YtLS1n8Vs.md#ent-event-covid-19-pandemic-t-00-51-33)**
+> "But post-COVID you saw, they'll inoculate your kids."
 
 </details>
 
@@ -60,23 +121,6 @@ _Type: Events_
 </details>
 
 <details>
-<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (4 mentions)</summary>
-
-**[00:04:16](/episodes/ep-Qt0VHV-POCg.md#ent-event-covid-19-pandemic-t-00-03-39)**
-> "...ristian right, McCoy inspired Kirk to amalgamate Christianity and social conservatism." "During the COVID-19 pandemic, McCoy was known for speaking out against prohibitions on the holding of in-person church services...."
-
-**[00:35:55](/episodes/ep-Qt0VHV-POCg.md#ent-event-covid-19-pandemic-t-00-35-31)**
-> "... when he begins to credentialize himself and said, "Oh, I was out with the Wuhan. I said this about COVID"—that's all true. That's the real Don Jr. He was actually one of the people that was the most vocal..."
-
-**[00:04:16](/episodes/ep-Qt0VHV-POCg.md#ent-event-covid-19-pandemic-t-00-03-39)**
-> ""During the COVID-19 pandemic, McCoy was known for speaking out against prohibi..."
-
-**[00:35:55](/episodes/ep-Qt0VHV-POCg.md#ent-event-covid-19-pandemic-t-00-35-31)**
-> "... the Wuhan. I said this about COVID"—that's all true."
-
-</details>
-
-<details>
 <summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (2 mentions)</summary>
 
 **[00:47:05](/episodes/ep-UBkFkg4UNY8.md#ent-event-covid-19-pandemic-t-00-46-51)**
@@ -84,39 +128,6 @@ _Type: Events_
 
 **[00:47:05](/episodes/ep-UBkFkg4UNY8.md#ent-event-covid-19-pandemic-t-00-46-51)**
 > "Maybe not so shocked post-COVID, but you will—I think—be very shocked at how much..."
-
-</details>
-
-<details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2 mentions)</summary>
-
-**[00:46:40](/episodes/ep-YaZfwLQ7vrI.md#ent-event-covid-19-pandemic-t-00-46-13)**
-> "...s, I guess. Cluster-B personality. Now, what I will say is this is—if you go back any fed operation—COVID—whenever you don't follow the federal narrative, if you don't listen to the government, they always..."
-
-**[00:46:40](/episodes/ep-YaZfwLQ7vrI.md#ent-event-covid-19-pandemic-t-00-46-13)**
-> "...you go back any fed operation—COVID—whenever you don't follow the federal narrative, ..."
-
-</details>
-
-<details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
-
-**[00:36:28](/episodes/ep-his-JBjlkh8.md#ent-event-covid-19-pandemic-t-00-35-51)**
-> "...r right at your fingertips. Inside, you'll find core prescriptions to treat over 30 conditions like COVID, strep throat, pneumonia, and more. No more waiting rooms or pharmacy lines. Just modernized medici..."
-
-**[00:36:28](/episodes/ep-his-JBjlkh8.md#ent-event-covid-19-pandemic-t-00-35-51)**
-> "...treat over 30 conditions like COVID, strep throat, pneumonia, and more."
-
-</details>
-
-<details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
-
-**[00:29:06](/episodes/ep-mKXdKV-OBog.md#ent-event-covid-19-pandemic-t-00-28-48)**
-> "... to have something that was in the middle of the line, and she just couldn't get behind all of this COVID propaganda, and she was gonna start The Free Press, and they were gonna go back to doing hardcore, ..."
-
-**[00:29:06](/episodes/ep-mKXdKV-OBog.md#ent-event-covid-19-pandemic-t-00-28-48)**
-> "...uldn't get behind all of this COVID propaganda, and she was gonna start The Free Pres..."
 
 </details>
 
@@ -134,17 +145,6 @@ _Type: Events_
 
 **[01:06:06](/episodes/ep-q7f8r-THr84.md#ent-event-covid-19-pandemic-t-01-05-24)**
 > "I can hedge against COVID and make billions, but you, little girl, don't re..."
-
-</details>
-
-<details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
-
-**[00:51:59](/episodes/ep-t1YtLS1n8Vs.md#ent-event-covid-19-pandemic-t-00-51-33)**
-> "...ou always have a right to your own children, which is ridiculous that we have to say this. But post-COVID you saw, they'll inoculate your kids. They'll be like, “Actually, we don't just own their minds; we..."
-
-**[00:51:59](/episodes/ep-t1YtLS1n8Vs.md#ent-event-covid-19-pandemic-t-00-51-33)**
-> "But post-COVID you saw, they'll inoculate your kids."
 
 </details>
 

@@ -46,14 +46,6 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Affiliated With (1)</summary>
-
-- **[Caldera Engineering](/entities/org-caldera-engineering.md)**
-  - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:29:36](/episodes/ep-pc3pxRyNFZk.md#t-00-29-26): "Erwin Steele—this Steele—so many Steeles were involved. It turns out the Steeles are big with Caldera Engineering."
-
-</details>
-
-<details>
 <summary>Interviewed By (1)</summary>
 
 - **[TMZ](/entities/org-tmz.md)**
@@ -70,10 +62,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
-
-- **[Caldera Engineering](/entities/org-caldera-engineering.md)** affiliated with this
-  - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:29:36](/episodes/ep-pc3pxRyNFZk.md#t-00-29-26)
+<summary>Referenced By (2)</summary>
 
 - **[Caldera Engineering](/entities/org-caldera-engineering.md)** employs this
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:03:15](/episodes/ep-sreYYcID-QY.md#t-00-02-45)

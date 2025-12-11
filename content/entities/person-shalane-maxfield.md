@@ -55,14 +55,6 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Married To (1)</summary>
-
-- **[Derek Maxfield](/entities/person-derek-maxfield.md)**
-  - [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:04:47](/episodes/ep-iHav0PPzUz8.md#t-00-04-12): "Derek Maxfield. He's married to Shalane Maxfield."
-
-</details>
-
-<details>
 <summary>Referenced By (1)</summary>
 
 - **[Derek Maxfield](/entities/person-derek-maxfield.md)** married to this

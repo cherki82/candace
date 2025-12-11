@@ -1,6 +1,6 @@
 ---
 title: "Allie Beth Stuckey"
-description: "Allie Beth Stuckey (People) - 74 mentions"
+description: "Allie Beth Stuckey (People) - 75 mentions"
 id: "person-allie-beth-stuckey"
 type: "PERSON"
 aliases:
@@ -16,6 +16,28 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1 mentions)</summary>
+
+**[00:21:06](/episodes/ep-6DhWawD4ZiM.md#t-00-20-39)**
+> "you got Ali Stuckey from the HOA"
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (3 mentions)</summary>
+
+**[00:19:54](/episodes/ep-a-e7HC6SeK8.md#ent-person-allie-beth-stuckey-t-00-19-44)**
+> "... planning them at least a semester ahead. And then it was like mass panic. I got like Lila Rose and Allie Stuckey—who have never headlined their tours—suddenly saying, "That's not true. That's not true." "What are..."
+
+**[00:19:54](/episodes/ep-a-e7HC6SeK8.md#ent-person-allie-beth-stuckey-t-00-19-44)**
+> "I got like Lila Rose and Allie Stuckey—who have never headlined their tours—sudd..."
+
+**[00:58:33](/episodes/ep-a-e7HC6SeK8.md#ent-person-allie-beth-stuckey-t-00-19-44)**
+> "...y thought there would be more allies."
+
+</details>
 
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (6 mentions)</summary>
@@ -37,6 +59,47 @@ _Type: People_
 
 **[00:56:59](/episodes/ep-7RLtGgkTh9o.md#ent-person-allie-beth-stuckey-t-00-56-36)**
 > "...iress to Turning Point USA is Allie Stuckey."
+
+</details>
+
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (12 mentions)</summary>
+
+**[00:04:24](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24)**
+> "...t. What they know is that on one episode, Candace (Candace Owens) said that she had a dream, right? Allie Stuckey just did this—shot a video and was like, "I don't have these dreams." The idea here is this must ju..."
+
+**[00:43:52](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-43-52)**
+> "...the way forward when people are trying this on you—trying to manipulate you using Bible verses like Allie did after she just seated so much—essentially fundamentally called me a liar in her own way about v..."
+
+**[00:44:25](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-43-52)**
+> "...dreams like Candace (Candace Owens)." We see what you're doing. It's petty. Now you're being petty, Allie. If you want to get involved in this case, do it. If you don't, step aside. You are not required to..."
+
+**[00:04:27](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24)**
+> "Allie Stuckey just did this—shot a video and was like, 'I don't have these dreams.'"
+
+**[00:00:09](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24)**
+> "...e were discussing the kind of allies that you need when bullets are flying at you."
+
+**[00:00:46](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24)**
+> "We definitely know who our allies are."
+
+**[00:00:57](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24)**
+> "...Charlie (Charlie Kirk)'s real allies are and who his real allies were."
+
+**[00:00:57](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24)**
+> "...l allies are and who his real allies were."
+
+**[00:01:23](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24)**
+> "...re his actual friends and his allies because somehow too many of them are trying to cr..."
+
+**[00:04:24](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24)**
+> "Allie Stuckey just did this—shot a video and was like, ..."
+
+**[00:43:52](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-43-52)**
+> "...e you using Bible verses like Allie did after she just seated so much—essentially fun..."
+
+**[00:44:25](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-43-52)**
+> "Now you're being petty, Allie."
 
 </details>
 
@@ -119,20 +182,6 @@ _Type: People_
 
 **[00:38:00](/episodes/ep-YaZfwLQ7vrI.md#ent-person-allie-beth-stuckey-t-00-37-38)**
 > "Grok, Allie (Allie Beth Stuckey), everyone—you are not required to take part in t..."
-
-</details>
-
-<details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (3 mentions)</summary>
-
-**[00:19:54](/episodes/ep-a-e7HC6SeK8.md#ent-person-allie-beth-stuckey-t-00-19-44)**
-> "... planning them at least a semester ahead. And then it was like mass panic. I got like Lila Rose and Allie Stuckey—who have never headlined their tours—suddenly saying, "That's not true. That's not true." "What are..."
-
-**[00:19:54](/episodes/ep-a-e7HC6SeK8.md#ent-person-allie-beth-stuckey-t-00-19-44)**
-> "I got like Lila Rose and Allie Stuckey—who have never headlined their tours—sudd..."
-
-**[00:58:33](/episodes/ep-a-e7HC6SeK8.md#ent-person-allie-beth-stuckey-t-00-19-44)**
-> "...y thought there would be more allies."
 
 </details>
 
@@ -225,47 +274,6 @@ _Type: People_
 
 **[00:49:10](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-48-55)**
 > "...s doing podcasts—whether it's Allie speaking about his Catholic journey, Lila speakin..."
-
-</details>
-
-<details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (12 mentions)</summary>
-
-**[00:04:24](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24)**
-> "...t. What they know is that on one episode, Candace (Candace Owens) said that she had a dream, right? Allie Stuckey just did this—shot a video and was like, "I don't have these dreams." The idea here is this must ju..."
-
-**[00:43:52](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-43-52)**
-> "...the way forward when people are trying this on you—trying to manipulate you using Bible verses like Allie did after she just seated so much—essentially fundamentally called me a liar in her own way about v..."
-
-**[00:44:25](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-43-52)**
-> "...dreams like Candace (Candace Owens)." We see what you're doing. It's petty. Now you're being petty, Allie. If you want to get involved in this case, do it. If you don't, step aside. You are not required to..."
-
-**[00:04:27](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24)**
-> "Allie Stuckey just did this—shot a video and was like, 'I don't have these dreams.'"
-
-**[00:00:09](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24)**
-> "...e were discussing the kind of allies that you need when bullets are flying at you."
-
-**[00:00:46](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24)**
-> "We definitely know who our allies are."
-
-**[00:00:57](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24)**
-> "...Charlie (Charlie Kirk)'s real allies are and who his real allies were."
-
-**[00:00:57](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24)**
-> "...l allies are and who his real allies were."
-
-**[00:01:23](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24)**
-> "...re his actual friends and his allies because somehow too many of them are trying to cr..."
-
-**[00:04:24](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24)**
-> "Allie Stuckey just did this—shot a video and was like, ..."
-
-**[00:43:52](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-43-52)**
-> "...e you using Bible verses like Allie did after she just seated so much—essentially fun..."
-
-**[00:44:25](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-43-52)**
-> "Now you're being petty, Allie."
 
 </details>
 

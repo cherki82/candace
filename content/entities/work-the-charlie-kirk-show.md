@@ -1,13 +1,13 @@
 ---
 title: "The Charlie Kirk Show"
-description: "The Charlie Kirk Show (Work) - 17 mentions"
+description: "The Charlie Kirk Show (Works & Media) - 17 mentions"
 id: "work-the-charlie-kirk-show"
 type: "WORK"
 aliases:
   - "Charlie Kirk Show"
 ---
 
-_Type: Work_
+_Type: Works & Media_
 
 **Also known as:** Charlie Kirk Show
 
@@ -30,29 +30,6 @@ _Type: Work_
 
 **[00:04:21](/episodes/ep-DqGNvi36ol8.md#ent-work-the-charlie-kirk-show-t-00-04-20)**
 > "Gina, welcome to the Charlie Kirk show."
-
-</details>
-
-<details>
-<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (6 mentions)</summary>
-
-**[00:26:49](/episodes/ep-Qt0VHV-POCg.md#ent-work-the-charlie-kirk-show-t-00-26-17)**
-> "...lx.ai slash Candace. Again, that's pplx.ai slash Candace. All right, so Mikey McCoy is missing from the Charlie Kirk show. He seemed very happy to jump in that seat thereafter. I think we were all expecting after this vid..."
-
-**[00:27:03](/episodes/ep-Qt0VHV-POCg.md#ent-work-the-charlie-kirk-show-t-00-27-03)**
-> "...soon as Charlie got shot, we were told by Andrew Kolvet—who was now missing from today's episode of the Charlie Kirk show—that it was because Charlie was very explicit. Charlie was very explicit. Charlie said, "If I ever ..."
-
-**[00:26:49](/episodes/ep-Qt0VHV-POCg.md#ent-work-the-charlie-kirk-show-t-00-26-17)**
-> "...o Mikey McCoy is missing from the Charlie Kirk show."
-
-**[00:26:49](/episodes/ep-Qt0VHV-POCg.md#ent-work-the-charlie-kirk-show-t-00-26-17)**
-> "...key McCoy is missing from the Charlie Kirk show."
-
-**[00:27:03](/episodes/ep-Qt0VHV-POCg.md#ent-work-the-charlie-kirk-show-t-00-27-03)**
-> "...ssing from today's episode of the Charlie Kirk show—that it was because Charlie was very explicit."
-
-**[00:27:03](/episodes/ep-Qt0VHV-POCg.md#ent-work-the-charlie-kirk-show-t-00-27-03)**
-> "...g from today's episode of the Charlie Kirk show—that it was because Charlie was very explicit."
 
 </details>
 
@@ -82,6 +59,29 @@ _Type: Work_
 
 </details>
 
+<details>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (6 mentions)</summary>
+
+**[00:26:49](/episodes/ep-Qt0VHV-POCg.md#ent-work-the-charlie-kirk-show-t-00-26-17)**
+> "...lx.ai slash Candace. Again, that's pplx.ai slash Candace. All right, so Mikey McCoy is missing from the Charlie Kirk show. He seemed very happy to jump in that seat thereafter. I think we were all expecting after this vid..."
+
+**[00:27:03](/episodes/ep-Qt0VHV-POCg.md#ent-work-the-charlie-kirk-show-t-00-27-03)**
+> "...soon as Charlie got shot, we were told by Andrew Kolvet—who was now missing from today's episode of the Charlie Kirk show—that it was because Charlie was very explicit. Charlie was very explicit. Charlie said, "If I ever ..."
+
+**[00:26:49](/episodes/ep-Qt0VHV-POCg.md#ent-work-the-charlie-kirk-show-t-00-26-17)**
+> "...o Mikey McCoy is missing from the Charlie Kirk show."
+
+**[00:26:49](/episodes/ep-Qt0VHV-POCg.md#ent-work-the-charlie-kirk-show-t-00-26-17)**
+> "...key McCoy is missing from the Charlie Kirk show."
+
+**[00:27:03](/episodes/ep-Qt0VHV-POCg.md#ent-work-the-charlie-kirk-show-t-00-27-03)**
+> "...ssing from today's episode of the Charlie Kirk show—that it was because Charlie was very explicit."
+
+**[00:27:03](/episodes/ep-Qt0VHV-POCg.md#ent-work-the-charlie-kirk-show-t-00-27-03)**
+> "...g from today's episode of the Charlie Kirk show—that it was because Charlie was very explicit."
+
+</details>
+
 </details>
 
 <details open>
@@ -91,7 +91,6 @@ _Type: Work_
 <summary>Employs (1)</summary>
 
 - **[Blake Lively](/entities/person-blake-neff.md)**
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#t-00-02-14): "Blake Neff, by the way, is the producer of The Charlie Kirk Show."
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#t-00-02-14): "Blake Neff, by the way, is the producer of The Charlie Kirk Show."
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:54](/episodes/ep-his-JBjlkh8.md#t-00-02-14): "Blake Neff, by the way, is the producer of The Charlie Kirk Show"
 
@@ -113,7 +112,7 @@ _Type: Work_
 
 - **[Blake Lively](/entities/person-blake-neff.md)** works for this
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#t-00-02-14)
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#t-00-02-14)
+  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:54](/episodes/ep-his-JBjlkh8.md#t-00-02-14)
 
 </details>
 

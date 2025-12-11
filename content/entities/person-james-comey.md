@@ -28,20 +28,6 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Worked With (1)</summary>
-
-- **[Anti-Defamation League](/entities/org-anti-defamation-league.md)**
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-02-02): "James Comey wrote love letters to the ADL and embedded FBI agents with them"
-
-</details>
-
-<details>
-<summary>Referenced By (1)</summary>
-
-- **[Anti-Defamation League](/entities/org-anti-defamation-league.md)** worked with this
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-02-02)
-
-</details>
+_No relationships extracted yet._
 
 </details>

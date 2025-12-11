@@ -13,23 +13,6 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (4 mentions)</summary>
-
-**[00:26:59](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-santa-barbara-t-00-26-57)**
-> "It departed on the morning of September 10th from Scottsdale, Arizona, and it landed into Provo at 10:06 a.m. It then immediately turned around and departed for Santa Barbara."
-
-**[00:26:38](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-santa-barbara-t-00-26-14)**
-> "...urned around and departed for Santa Barbara."
-
-**[00:26:49](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-santa-barbara-t-00-26-14)**
-> "...body up, and then it departed Santa Barbara at 11:37 a.m. for Scottsdale, landing at 12:44 p...."
-
-**[00:26:57](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-santa-barbara-t-00-26-57)**
-> "Maybe you were in Santa Barbara; maybe you were in Scottsdale."
-
-</details>
-
-<details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (6 mentions)</summary>
 
 **[00:27:51](/episodes/ep-SKGUzGHymcI.md#ent-gpe-santa-barbara-t-00-27-51)**
@@ -49,6 +32,23 @@ _Type: Places_
 
 **[00:29:39](/episodes/ep-SKGUzGHymcI.md#ent-gpe-santa-barbara-t-00-29-09)**
 > "... from Arizona and potentially Santa Barbara."
+
+</details>
+
+<details>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (4 mentions)</summary>
+
+**[00:26:59](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-santa-barbara-t-00-26-57)**
+> "It departed on the morning of September 10th from Scottsdale, Arizona, and it landed into Provo at 10:06 a.m. It then immediately turned around and departed for Santa Barbara."
+
+**[00:26:38](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-santa-barbara-t-00-26-14)**
+> "...urned around and departed for Santa Barbara."
+
+**[00:26:49](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-santa-barbara-t-00-26-14)**
+> "...body up, and then it departed Santa Barbara at 11:37 a.m. for Scottsdale, landing at 12:44 p...."
+
+**[00:26:57](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-santa-barbara-t-00-26-57)**
+> "Maybe you were in Santa Barbara; maybe you were in Scottsdale."
 
 </details>
 

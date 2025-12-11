@@ -13,6 +13,17 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (2 mentions)</summary>
+
+**[00:57:28](/episodes/ep-vwG1juDCQZQ.md#ent-person-dinesh-d-souza-t-00-57-14)**
+> "...ia's been lying about that. It's like a really big secret. It's like it's the elephant in the room. Dinesh D'Souza, by the way, added this on X. He wrote: "At this point, anyone who follows this freak show is doing..."
+
+**[00:57:28](/episodes/ep-vwG1juDCQZQ.md#ent-person-dinesh-d-souza-t-00-57-14)**
+> "Dinesh D'Souza, by the way, added this on X."
+
+</details>
+
+<details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (12 mentions)</summary>
 
 **[00:00:44](/episodes/ep-2Riv3I7D0Yk.md#ent-person-dinesh-d-souza-t-00-00-44)**
@@ -50,17 +61,6 @@ _Type: People_
 
 **[00:49:17](/episodes/ep-2Riv3I7D0Yk.md#ent-person-dinesh-d-souza-t-00-49-08)**
 > "So I would say—I think Dinesh D'Souza—if you thought that that was gonna be relatable a..."
-
-</details>
-
-<details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (2 mentions)</summary>
-
-**[00:57:28](/episodes/ep-vwG1juDCQZQ.md#ent-person-dinesh-d-souza-t-00-57-14)**
-> "...ia's been lying about that. It's like a really big secret. It's like it's the elephant in the room. Dinesh D'Souza, by the way, added this on X. He wrote: "At this point, anyone who follows this freak show is doing..."
-
-**[00:57:28](/episodes/ep-vwG1juDCQZQ.md#ent-person-dinesh-d-souza-t-00-57-14)**
-> "Dinesh D'Souza, by the way, added this on X."
 
 </details>
 

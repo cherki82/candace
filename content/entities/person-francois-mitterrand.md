@@ -60,7 +60,7 @@ _Type: People_
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>
 
 - [00:15:25](/episodes/ep-Kmt6HgRjckU.md#t-00-14-48) (Claim) **Candace Owens**: ["Francois Mitterrand, the French president's son, was implicated in the..."](/statements/statement-4feac2591c94.md)
-  - Also about: [Jean-Christophe Mitterrand](/entities/person-jean-christophe-mitterrand.md), [Angola Gate](/entities/concept-angola-gate.md)
+  - Also about: [Jean-Christophe Mitterrand](/entities/person-jean-christophe-mitterrand.md), [Angolagate scandal](/entities/event-angola-gate.md)
 
 </details>
 

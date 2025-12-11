@@ -13,52 +13,24 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
 
-**[00:28:15](/episodes/ep-581dILVcEE4.md#ent-org-google-t-00-27-47)**
-> "...tudent, "Hey, we're looking at a map" because it's amazing—it's 2025, and there's this thing called Google Maps. "So we're actually looking at a map, and we see where Charlie's (Charlie Kirk) gonna sit, and..."
+**[00:49:20](/episodes/ep-a-e7HC6SeK8.md#ent-org-google-t-00-49-20)**
+> "...PDS Debt is A-plus rated by the Better Business Bureau. It boasts thousands of five-star reviews on Google and holds a five-star rating on Trustpilot because PDS has helped hundreds of thousands of people g..."
 
-**[00:28:15](/episodes/ep-581dILVcEE4.md#ent-org-google-t-00-27-47)**
-> "...and there's this thing called Google Maps."
-
-</details>
-
-<details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
-
-**[00:39:07](/episodes/ep-Cq7nj9rxPdo.md#ent-org-google-t-00-38-35)**
-> "...et. PDS Debt is A+ rated by the Better Business Bureau. It boasts thousands of five-star reviews on Google, and it holds a five-star rating on Trustpilot. Why? Because PDS has helped hundreds of thousands o..."
-
-**[00:39:07](/episodes/ep-Cq7nj9rxPdo.md#ent-org-google-t-00-38-35)**
-> "...sands of five-star reviews on Google, and it holds a five-star rating on Trustpilot."
+**[00:49:20](/episodes/ep-a-e7HC6SeK8.md#ent-org-google-t-00-49-20)**
+> "...sands of five-star reviews on Google and holds a five-star rating on Trustpilot becaus..."
 
 </details>
 
 <details>
-<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
 
-**[00:25:57](/episodes/ep-K5GjF53bfN4.md#ent-org-google-t-00-25-49)**
-> "...et. PDS Debt is rated A+ by the Better Business Bureau. It boasts thousands of five-star reviews on Google, and it holds a five-star rating on TrustPilot. Why? Because PDS has helped hundreds of thousands o..."
+**[00:51:28](/episodes/ep-sImMM04XdWY.md#ent-org-google-t-00-51-25)**
+> "... corruption, plain and simple. Black Fatigue writes: "Candace, and for those who are curious, go on Google and type in .30-06 damage, then click on the images, and now ask yourself if you think that Charlie..."
 
-**[00:25:57](/episodes/ep-K5GjF53bfN4.md#ent-org-google-t-00-25-49)**
-> "...sands of five-star reviews on Google, and it holds a five-star rating on TrustPilot."
-
-</details>
-
-<details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (4 mentions)</summary>
-
-**[00:24:49](/episodes/ep-QZWSsq8ZWzw.md#ent-org-google-t-00-24-41)**
-> "...assinate him—post-COVID. He just starts going completely crazy. And he is explicitly researching on Google the history of these assassinations. I can show you his search history here. I'm leading up to this..."
-
-**[00:25:03](/episodes/ep-QZWSsq8ZWzw.md#ent-org-google-t-00-24-41)**
-> ".... I'm leading up to this. He searched "best places for a mass shooting." Here are some of his other Google searches. I think we can just scroll down here. Yeah, okay. And this has a timeline on this. Again,..."
-
-**[00:24:49](/episodes/ep-QZWSsq8ZWzw.md#ent-org-google-t-00-24-41)**
-> "... is explicitly researching on Google"
-
-**[00:25:03](/episodes/ep-QZWSsq8ZWzw.md#ent-org-google-t-00-24-41)**
-> "Here are some of his other Google searches."
+**[00:51:28](/episodes/ep-sImMM04XdWY.md#ent-org-google-t-00-51-25)**
+> "... those who are curious, go on Google and type in .30-06 damage, then click on the imag..."
 
 </details>
 
@@ -89,6 +61,39 @@ _Type: Organizations_
 </details>
 
 <details>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
+
+**[00:28:15](/episodes/ep-581dILVcEE4.md#ent-org-google-t-00-27-47)**
+> "...tudent, "Hey, we're looking at a map" because it's amazing—it's 2025, and there's this thing called Google Maps. "So we're actually looking at a map, and we see where Charlie's (Charlie Kirk) gonna sit, and..."
+
+**[00:28:15](/episodes/ep-581dILVcEE4.md#ent-org-google-t-00-27-47)**
+> "...and there's this thing called Google Maps."
+
+</details>
+
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
+
+**[00:36:03](/episodes/ep-yAIb-NuUh_U.md#ent-org-google-t-00-35-40)**
+> "...PDS Debt is A-plus rated by the Better Business Bureau. It boasts thousands of five-star reviews on Google, and it holds a five-star rating on Trustpilot. It's your money. It's your future. Do not let the s..."
+
+**[00:36:03](/episodes/ep-yAIb-NuUh_U.md#ent-org-google-t-00-35-40)**
+> "...sands of five-star reviews on Google, and it holds a five-star rating on Trustpilot."
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (2 mentions)</summary>
+
+**[00:28:44](/episodes/ep-vwG1juDCQZQ.md#ent-org-google-t-00-28-01)**
+> "...gs. PDS Debt is A+ rated by the Better Business Bureau. It boasts thousands of five-star reviews on Google, and it holds a five-star rating on Trustpilot. Why? Because PDS has helped hundreds of thousands o..."
+
+**[00:28:44](/episodes/ep-vwG1juDCQZQ.md#ent-org-google-t-00-28-01)**
+> "...sands of five-star reviews on Google, and it holds a five-star rating on Trustpilot."
+
+</details>
+
+<details>
 <summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
 
 **[01:01:14](/episodes/ep-YFmRH8p5lt0.md#ent-org-google-t-01-01-05)**
@@ -100,13 +105,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
 
-**[00:49:20](/episodes/ep-a-e7HC6SeK8.md#ent-org-google-t-00-49-20)**
-> "...PDS Debt is A-plus rated by the Better Business Bureau. It boasts thousands of five-star reviews on Google and holds a five-star rating on Trustpilot because PDS has helped hundreds of thousands of people g..."
+**[00:39:07](/episodes/ep-Cq7nj9rxPdo.md#ent-org-google-t-00-38-35)**
+> "...et. PDS Debt is A+ rated by the Better Business Bureau. It boasts thousands of five-star reviews on Google, and it holds a five-star rating on Trustpilot. Why? Because PDS has helped hundreds of thousands o..."
 
-**[00:49:20](/episodes/ep-a-e7HC6SeK8.md#ent-org-google-t-00-49-20)**
-> "...sands of five-star reviews on Google and holds a five-star rating on Trustpilot becaus..."
+**[00:39:07](/episodes/ep-Cq7nj9rxPdo.md#ent-org-google-t-00-38-35)**
+> "...sands of five-star reviews on Google, and it holds a five-star rating on Trustpilot."
 
 </details>
 
@@ -140,35 +145,30 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2 mentions)</summary>
 
-**[00:51:28](/episodes/ep-sImMM04XdWY.md#ent-org-google-t-00-51-25)**
-> "... corruption, plain and simple. Black Fatigue writes: "Candace, and for those who are curious, go on Google and type in .30-06 damage, then click on the images, and now ask yourself if you think that Charlie..."
+**[00:25:57](/episodes/ep-K5GjF53bfN4.md#ent-org-google-t-00-25-49)**
+> "...et. PDS Debt is rated A+ by the Better Business Bureau. It boasts thousands of five-star reviews on Google, and it holds a five-star rating on TrustPilot. Why? Because PDS has helped hundreds of thousands o..."
 
-**[00:51:28](/episodes/ep-sImMM04XdWY.md#ent-org-google-t-00-51-25)**
-> "... those who are curious, go on Google and type in .30-06 damage, then click on the imag..."
-
-</details>
-
-<details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (2 mentions)</summary>
-
-**[00:28:44](/episodes/ep-vwG1juDCQZQ.md#ent-org-google-t-00-28-01)**
-> "...gs. PDS Debt is A+ rated by the Better Business Bureau. It boasts thousands of five-star reviews on Google, and it holds a five-star rating on Trustpilot. Why? Because PDS has helped hundreds of thousands o..."
-
-**[00:28:44](/episodes/ep-vwG1juDCQZQ.md#ent-org-google-t-00-28-01)**
-> "...sands of five-star reviews on Google, and it holds a five-star rating on Trustpilot."
+**[00:25:57](/episodes/ep-K5GjF53bfN4.md#ent-org-google-t-00-25-49)**
+> "...sands of five-star reviews on Google, and it holds a five-star rating on TrustPilot."
 
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (4 mentions)</summary>
 
-**[00:36:03](/episodes/ep-yAIb-NuUh_U.md#ent-org-google-t-00-35-40)**
-> "...PDS Debt is A-plus rated by the Better Business Bureau. It boasts thousands of five-star reviews on Google, and it holds a five-star rating on Trustpilot. It's your money. It's your future. Do not let the s..."
+**[00:24:49](/episodes/ep-QZWSsq8ZWzw.md#ent-org-google-t-00-24-41)**
+> "...assinate him—post-COVID. He just starts going completely crazy. And he is explicitly researching on Google the history of these assassinations. I can show you his search history here. I'm leading up to this..."
 
-**[00:36:03](/episodes/ep-yAIb-NuUh_U.md#ent-org-google-t-00-35-40)**
-> "...sands of five-star reviews on Google, and it holds a five-star rating on Trustpilot."
+**[00:25:03](/episodes/ep-QZWSsq8ZWzw.md#ent-org-google-t-00-24-41)**
+> ".... I'm leading up to this. He searched "best places for a mass shooting." Here are some of his other Google searches. I think we can just scroll down here. Yeah, okay. And this has a timeline on this. Again,..."
+
+**[00:24:49](/episodes/ep-QZWSsq8ZWzw.md#ent-org-google-t-00-24-41)**
+> "... is explicitly researching on Google"
+
+**[00:25:03](/episodes/ep-QZWSsq8ZWzw.md#ent-org-google-t-00-24-41)**
+> "Here are some of his other Google searches."
 
 </details>
 

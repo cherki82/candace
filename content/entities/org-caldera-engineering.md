@@ -13,74 +13,6 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (4 mentions)</summary>
-
-**[00:44:09](/episodes/ep-QZWSsq8ZWzw.md#ent-org-caldera-engineering-t-00-44-08)**
-> "...e, please. I am begging you. He was with a woman? What? How is that possible? Well, we only got the Caldera Engineering video. So that's very interesting. Please, please, please get me that video, Natalie. tips@CandaceO..."
-
-**[00:44:11](/episodes/ep-QZWSsq8ZWzw.md#ent-org-caldera-engineering-t-00-44-08)**
-> "the Caldera Engineering video"
-
-**[00:44:11](/episodes/ep-QZWSsq8ZWzw.md#ent-org-caldera-engineering-t-00-44-08)**
-> "we only got the Caldera Engineering video"
-
-**[00:44:09](/episodes/ep-QZWSsq8ZWzw.md#ent-org-caldera-engineering-t-00-44-08)**
-> "Well, we only got the Caldera Engineering video."
-
-</details>
-
-<details>
-<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (4 mentions)</summary>
-
-**[00:02:23](/episodes/ep-UBkFkg4UNY8.md#ent-org-caldera-engineering-t-00-01-57)**
-> "...ke out to the press in the immediate aftermath of the killing. Obviously, that's what brought us to Caldera Engineering, the man who owned a couple of houses on that block. And we found out that Caldera Engineering—a lo..."
-
-**[00:02:33](/episodes/ep-UBkFkg4UNY8.md#ent-org-caldera-engineering-t-00-01-57)**
-> "...s to Caldera Engineering, the man who owned a couple of houses on that block. And we found out that Caldera Engineering—a lot of the employees live on that block. And then, of course, I want to be clear: it doesn't make..."
-
-**[00:02:23](/episodes/ep-UBkFkg4UNY8.md#ent-org-caldera-engineering-t-00-01-57)**
-> "...ly, that's what brought us to Caldera Engineering, the man who owned a couple of houses on that blo..."
-
-**[00:02:33](/episodes/ep-UBkFkg4UNY8.md#ent-org-caldera-engineering-t-00-01-57)**
-> "And we found out that Caldera Engineering—a lot of the employees live on that block."
-
-</details>
-
-<details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (6 mentions)</summary>
-
-**[00:14:54](/episodes/ep-aDlhjfW6hz8.md#ent-org-caldera-engineering-t-00-14-44)**
-> "...age, which TMZ happened upon somehow, was from a street upon which a ton of employees that work for Caldera Engineering live. We showed you—I think—one or two of those employees. The husband and wife I had mentioned wor..."
-
-**[00:15:06](/episodes/ep-aDlhjfW6hz8.md#ent-org-caldera-engineering-t-00-14-44)**
-> "...e showed you—I think—one or two of those employees. The husband and wife I had mentioned worked for Caldera Engineering, and it is a valves and pipes. And I said this: I said, I know nothing about the valve industry. Al..."
-
-**[00:18:48](/episodes/ep-aDlhjfW6hz8.md#ent-org-caldera-engineering-t-00-18-15)**
-> "...security exercises. And then they provide us with the real-world context by writing: companies like Caldera Engineering in Provo, Utah, manufacture specialized industrial valves and control systems. While no public evid..."
-
-**[00:14:54](/episodes/ep-aDlhjfW6hz8.md#ent-org-caldera-engineering-t-00-14-44)**
-> "...on of employees that work for Caldera Engineering live."
-
-**[00:15:06](/episodes/ep-aDlhjfW6hz8.md#ent-org-caldera-engineering-t-00-14-44)**
-> "...fe I had mentioned worked for Caldera Engineering, and it is a valves and pipes company."
-
-**[00:18:48](/episodes/ep-aDlhjfW6hz8.md#ent-org-caldera-engineering-t-00-18-15)**
-> "...xt by writing: companies like Caldera Engineering in Provo, Utah, manufacture specialized industria..."
-
-</details>
-
-<details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2 mentions)</summary>
-
-**[00:19:19](/episodes/ep-ja26iltROkM.md#ent-org-caldera-engineering-t-00-19-19)**
-> "...y UVU, and once we began looking into the witnesses and finding a common last name and looking into Caldera Engineering as we did last week—again, not implying that they did anything wrong, just telling you factually th..."
-
-**[00:19:19](/episodes/ep-ja26iltROkM.md#ent-org-caldera-engineering-t-00-19-19)**
-> "...on last name and looking into Caldera Engineering as we did last week—again, not implying that they..."
-
-</details>
-
-<details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (24 mentions)</summary>
 
 **[00:21:50](/episodes/ep-pc3pxRyNFZk.md#ent-org-caldera-engineering-t-00-21-29)**
@@ -158,6 +90,74 @@ _Type: Organizations_
 </details>
 
 <details>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (4 mentions)</summary>
+
+**[00:44:09](/episodes/ep-QZWSsq8ZWzw.md#ent-org-caldera-engineering-t-00-44-08)**
+> "...e, please. I am begging you. He was with a woman? What? How is that possible? Well, we only got the Caldera Engineering video. So that's very interesting. Please, please, please get me that video, Natalie. tips@CandaceO..."
+
+**[00:44:11](/episodes/ep-QZWSsq8ZWzw.md#ent-org-caldera-engineering-t-00-44-08)**
+> "the Caldera Engineering video"
+
+**[00:44:11](/episodes/ep-QZWSsq8ZWzw.md#ent-org-caldera-engineering-t-00-44-08)**
+> "we only got the Caldera Engineering video"
+
+**[00:44:09](/episodes/ep-QZWSsq8ZWzw.md#ent-org-caldera-engineering-t-00-44-08)**
+> "Well, we only got the Caldera Engineering video."
+
+</details>
+
+<details>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (4 mentions)</summary>
+
+**[00:02:23](/episodes/ep-UBkFkg4UNY8.md#ent-org-caldera-engineering-t-00-01-57)**
+> "...ke out to the press in the immediate aftermath of the killing. Obviously, that's what brought us to Caldera Engineering, the man who owned a couple of houses on that block. And we found out that Caldera Engineering—a lo..."
+
+**[00:02:33](/episodes/ep-UBkFkg4UNY8.md#ent-org-caldera-engineering-t-00-01-57)**
+> "...s to Caldera Engineering, the man who owned a couple of houses on that block. And we found out that Caldera Engineering—a lot of the employees live on that block. And then, of course, I want to be clear: it doesn't make..."
+
+**[00:02:23](/episodes/ep-UBkFkg4UNY8.md#ent-org-caldera-engineering-t-00-01-57)**
+> "...ly, that's what brought us to Caldera Engineering, the man who owned a couple of houses on that blo..."
+
+**[00:02:33](/episodes/ep-UBkFkg4UNY8.md#ent-org-caldera-engineering-t-00-01-57)**
+> "And we found out that Caldera Engineering—a lot of the employees live on that block."
+
+</details>
+
+<details>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2 mentions)</summary>
+
+**[00:19:19](/episodes/ep-ja26iltROkM.md#ent-org-caldera-engineering-t-00-19-19)**
+> "...y UVU, and once we began looking into the witnesses and finding a common last name and looking into Caldera Engineering as we did last week—again, not implying that they did anything wrong, just telling you factually th..."
+
+**[00:19:19](/episodes/ep-ja26iltROkM.md#ent-org-caldera-engineering-t-00-19-19)**
+> "...on last name and looking into Caldera Engineering as we did last week—again, not implying that they..."
+
+</details>
+
+<details>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (6 mentions)</summary>
+
+**[00:14:54](/episodes/ep-aDlhjfW6hz8.md#ent-org-caldera-engineering-t-00-14-44)**
+> "...age, which TMZ happened upon somehow, was from a street upon which a ton of employees that work for Caldera Engineering live. We showed you—I think—one or two of those employees. The husband and wife I had mentioned wor..."
+
+**[00:15:06](/episodes/ep-aDlhjfW6hz8.md#ent-org-caldera-engineering-t-00-14-44)**
+> "...e showed you—I think—one or two of those employees. The husband and wife I had mentioned worked for Caldera Engineering, and it is a valves and pipes. And I said this: I said, I know nothing about the valve industry. Al..."
+
+**[00:18:48](/episodes/ep-aDlhjfW6hz8.md#ent-org-caldera-engineering-t-00-18-15)**
+> "...security exercises. And then they provide us with the real-world context by writing: companies like Caldera Engineering in Provo, Utah, manufacture specialized industrial valves and control systems. While no public evid..."
+
+**[00:14:54](/episodes/ep-aDlhjfW6hz8.md#ent-org-caldera-engineering-t-00-14-44)**
+> "...on of employees that work for Caldera Engineering live."
+
+**[00:15:06](/episodes/ep-aDlhjfW6hz8.md#ent-org-caldera-engineering-t-00-14-44)**
+> "...fe I had mentioned worked for Caldera Engineering, and it is a valves and pipes company."
+
+**[00:18:48](/episodes/ep-aDlhjfW6hz8.md#ent-org-caldera-engineering-t-00-18-15)**
+> "...xt by writing: companies like Caldera Engineering in Provo, Utah, manufacture specialized industria..."
+
+</details>
+
+<details>
 <summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (4 mentions)</summary>
 
 **[00:15:29](/episodes/ep-sreYYcID-QY.md#ent-org-caldera-engineering-t-00-14-56)**
@@ -180,14 +180,6 @@ _Type: Organizations_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Affiliated With (1)</summary>
-
-- **[Erwin Steele](/entities/person-erwin-steele.md)**
-  - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:29:36](/episodes/ep-pc3pxRyNFZk.md#t-00-29-26): "Erwin Steele—this Steele—so many Steeles were involved. It turns out the Steeles are big with Caldera Engineering."
-
-</details>
-
-<details>
 <summary>Based In (1)</summary>
 
 - **[Provo](/entities/gpe-provo.md)**
@@ -206,10 +198,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
-
-- **[Erwin Steele](/entities/person-erwin-steele.md)** affiliated with this
-  - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:29:36](/episodes/ep-pc3pxRyNFZk.md#t-00-29-26)
+<summary>Referenced By (2)</summary>
 
 - **[Provo](/entities/gpe-provo.md)** location of this
   - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:18:48](/episodes/ep-aDlhjfW6hz8.md#t-00-18-15)

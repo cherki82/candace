@@ -27,6 +27,20 @@ _Type: People_
 </details>
 
 <details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (3 mentions)</summary>
+
+**[00:15:48](/episodes/ep-vwG1juDCQZQ.md#ent-person-saint-michael-t-00-15-25)**
+> "...cusses Charlie's affinity for Saint Michael."
+
+**[00:16:25](/episodes/ep-vwG1juDCQZQ.md#ent-person-saint-michael-t-00-16-08)**
+> "And so he always—he loved Saint Michael."
+
+**[00:16:42](/episodes/ep-vwG1juDCQZQ.md#ent-person-saint-michael-t-00-16-42)**
+> "He felt like St. Michael was his armor."
+
+</details>
+
+<details>
 <summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (3 mentions)</summary>
 
 **[00:48:09](/episodes/ep-Qt0VHV-POCg.md#ent-person-saint-michael-t-00-47-45)**
@@ -45,20 +59,6 @@ _Type: People_
 
 **[00:08:50](/episodes/ep-ozWJz2spBcI.md#ent-person-saint-michael-t-00-08-17)**
 > "...rk), in fact, was wearing the St. Michael pendant when he died, okay?"
-
-</details>
-
-<details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (3 mentions)</summary>
-
-**[00:15:48](/episodes/ep-vwG1juDCQZQ.md#ent-person-saint-michael-t-00-15-25)**
-> "...cusses Charlie's affinity for Saint Michael."
-
-**[00:16:25](/episodes/ep-vwG1juDCQZQ.md#ent-person-saint-michael-t-00-16-08)**
-> "And so he always—he loved Saint Michael."
-
-**[00:16:42](/episodes/ep-vwG1juDCQZQ.md#ent-person-saint-michael-t-00-16-42)**
-> "He felt like St. Michael was his armor."
 
 </details>
 

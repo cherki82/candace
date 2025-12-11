@@ -13,13 +13,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
 
-**[00:51:21](/episodes/ep-5autG89PW6w.md#ent-org-turning-point-action-t-00-50-43)**
-> "...ruth clearly. Many extremely ethical people helped to build Turning Point and all associated groups—Turning Point Action and Turning Point Faith. Many of these people are existing and potential future donors. We know man..."
+**[00:04:17](/episodes/ep-his-JBjlkh8.md#ent-org-turning-point-action-t-00-04-17)**
+> "...er, Candace Owens has leveled a flood of allegations against people at Turning Point USA, people at Turning Point Action, and people who work for this show. She's made them against some of Charlie (Charlie Kirk)'s closes..."
 
-**[00:51:21](/episodes/ep-5autG89PW6w.md#ent-org-turning-point-action-t-00-50-43)**
-> "...int and all associated groups—Turning Point Action and Turning Point Faith."
+**[00:04:17](/episodes/ep-his-JBjlkh8.md#ent-org-turning-point-action-t-00-04-17)**
+> "... Turning Point USA, people at Turning Point Action, and people who work for this show."
 
 </details>
 
@@ -41,13 +41,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
 
-**[00:04:17](/episodes/ep-his-JBjlkh8.md#ent-org-turning-point-action-t-00-04-17)**
-> "...er, Candace Owens has leveled a flood of allegations against people at Turning Point USA, people at Turning Point Action, and people who work for this show. She's made them against some of Charlie (Charlie Kirk)'s closes..."
+**[00:51:21](/episodes/ep-5autG89PW6w.md#ent-org-turning-point-action-t-00-50-43)**
+> "...ruth clearly. Many extremely ethical people helped to build Turning Point and all associated groups—Turning Point Action and Turning Point Faith. Many of these people are existing and potential future donors. We know man..."
 
-**[00:04:17](/episodes/ep-his-JBjlkh8.md#ent-org-turning-point-action-t-00-04-17)**
-> "... Turning Point USA, people at Turning Point Action, and people who work for this show."
+**[00:51:21](/episodes/ep-5autG89PW6w.md#ent-org-turning-point-action-t-00-50-43)**
+> "...int and all associated groups—Turning Point Action and Turning Point Faith."
 
 </details>
 

@@ -24,6 +24,17 @@ _Type: Places_
 </details>
 
 <details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
+
+**[00:24:32](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-montana-t-00-24-32)**
+> "...with Turning Point USA. I would say it's very relevant. Potter's Fields is an area up in Whitefish, Montana, and the Calvary Church Association funded a ministry which came to be known as Potter's Fields Min..."
+
+**[00:24:32](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-montana-t-00-24-32)**
+> "...s is an area up in Whitefish, Montana, and the Calvary Church Association funded a mini..."
+
+</details>
+
+<details>
 <summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (4 mentions)</summary>
 
 **[00:11:33](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-montana-t-00-11-02)**
@@ -66,17 +77,6 @@ _Type: Places_
 
 **[00:56:27](/episodes/ep-iHav0PPzUz8.md#ent-gpe-montana-t-00-55-55)**
 > "...w that plane—which flew up to Montana and turned around—he is claiming (and I have not ..."
-
-</details>
-
-<details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
-
-**[00:24:32](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-montana-t-00-24-32)**
-> "...with Turning Point USA. I would say it's very relevant. Potter's Fields is an area up in Whitefish, Montana, and the Calvary Church Association funded a ministry which came to be known as Potter's Fields Min..."
-
-**[00:24:32](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-montana-t-00-24-32)**
-> "...s is an area up in Whitefish, Montana, and the Calvary Church Association funded a mini..."
 
 </details>
 

@@ -24,6 +24,23 @@ _Type: People_
 </details>
 
 <details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (4 mentions)</summary>
+
+**[00:45:51](/episodes/ep-yAIb-NuUh_U.md#ent-person-elijah-schaffer-t-00-45-19)**
+> "... backing your life partner as she files a lawsuit because somebody made a joke. Because that's what Elijah Schaffer's lawsuit is about. It's a joke. And in the lawsuit, they talk about his anti-Israel rhetoric. Who ..."
+
+**[00:49:41](/episodes/ep-yAIb-NuUh_U.md#ent-person-elijah-schaffer-t-00-49-18)**
+> "...we have good going for us at this moment would be Tim Dillon under oath. And I strongly advise that Elijah Schaffer puts him under oath as well now that he's making these kinds of jokes. I mean, Kash Patel should su..."
+
+**[00:45:51](/episodes/ep-yAIb-NuUh_U.md#ent-person-elijah-schaffer-t-00-45-19)**
+> "...e a joke. Because that's what Elijah Schaffer's lawsuit is about."
+
+**[00:49:41](/episodes/ep-yAIb-NuUh_U.md#ent-person-elijah-schaffer-t-00-49-18)**
+> "And I strongly advise that Elijah Schaffer puts him under oath as well now that he's making ..."
+
+</details>
+
+<details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (10 mentions)</summary>
 
 **[00:37:22](/episodes/ep-MUA9ebCF4Ow.md#ent-person-elijah-schaffer-t-00-37-04)**
@@ -55,23 +72,6 @@ _Type: People_
 
 **[00:42:13](/episodes/ep-MUA9ebCF4Ow.md#ent-person-elijah-schaffer-t-00-42-13)**
 > "... you the courage to withstand Elijah Schaffer making a joke, okay?"
-
-</details>
-
-<details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (4 mentions)</summary>
-
-**[00:45:51](/episodes/ep-yAIb-NuUh_U.md#ent-person-elijah-schaffer-t-00-45-19)**
-> "... backing your life partner as she files a lawsuit because somebody made a joke. Because that's what Elijah Schaffer's lawsuit is about. It's a joke. And in the lawsuit, they talk about his anti-Israel rhetoric. Who ..."
-
-**[00:49:41](/episodes/ep-yAIb-NuUh_U.md#ent-person-elijah-schaffer-t-00-49-18)**
-> "...we have good going for us at this moment would be Tim Dillon under oath. And I strongly advise that Elijah Schaffer puts him under oath as well now that he's making these kinds of jokes. I mean, Kash Patel should su..."
-
-**[00:45:51](/episodes/ep-yAIb-NuUh_U.md#ent-person-elijah-schaffer-t-00-45-19)**
-> "...e a joke. Because that's what Elijah Schaffer's lawsuit is about."
-
-**[00:49:41](/episodes/ep-yAIb-NuUh_U.md#ent-person-elijah-schaffer-t-00-49-18)**
-> "And I strongly advise that Elijah Schaffer puts him under oath as well now that he's making ..."
 
 </details>
 

@@ -13,6 +13,92 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (27 mentions)</summary>
+
+**[00:04:23](/episodes/ep-r1PS67aRmcA.md#t-00-04-12)**
+> "...g about that and then spinning it into the accusation that Tucker (Tucker Carlson) somehow supports Mamdani. I don't know. Take a listen. (Clip: Ben Shapiro) So I texted him, and I said, "Thanks so much for ..."
+
+**[00:05:23](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
+> "...the conservative push to win. The number of times that Tucker (Tucker Carlson) has mentioned Zohran Mamdani since October 7th on his show is once. And it was in the context of Marjorie Taylor Greene and Tuck..."
+
+**[00:05:30](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
+> "...he context of Marjorie Taylor Greene and Tucker (Tucker Carlson) talking about the appeal of Zohran Mamdani. Just by way of contrast, not because I'm a perfect representative here, but because you've talked ..."
+
+**[00:05:36](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
+> "... of contrast, not because I'm a perfect representative here, but because you've talked about Zohran Mamdani a lot, a lot of us have. Since October 7th, I did 17 separate shows on Zohran Mamdani, including fo..."
+
+**[00:05:41](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
+> "... about Zohran Mamdani a lot, a lot of us have. Since October 7th, I did 17 separate shows on Zohran Mamdani, including four in the last week before the election. Because when you're orienting against the lef..."
+
+**[00:06:44](/episodes/ep-r1PS67aRmcA.md#t-00-06-42)**
+> "...lson) doesn't live in New York City. It's not his responsibility to use his platform to speak about Mamdani 17 times. It's very strange. But to the insinuation that Tucker (Tucker Carlson) somehow supported ..."
+
+**[00:06:51](/episodes/ep-r1PS67aRmcA.md#t-00-06-42)**
+> "... 17 times. It's very strange. But to the insinuation that Tucker (Tucker Carlson) somehow supported Mamdani and said like nice things about him when he sat down with Marjorie Taylor Greene, here's actually w..."
+
+**[00:09:02](/episodes/ep-r1PS67aRmcA.md#t-00-08-31)**
+> "...d everyone else is talking about foreign policy. So he said what I said. I am describing to you why Mamdani won, and you're angry that people are assessing why that happened. Doesn't matter how many times yo..."
+
+**[00:52:55](/episodes/ep-r1PS67aRmcA.md#t-00-52-33)**
+> "...s of engagement with the Geneva Convention. Also, Ben says Republicans should work together against Mamdani, yet the DW was all about sabotaging all the other conservative media." Like I said in general, eve..."
+
+**[00:04:23](/episodes/ep-r1PS67aRmcA.md#t-00-04-12)**
+> "...ker Carlson) somehow supports Mamdani (Zohran Mamdani)."
+
+**[00:04:23](/episodes/ep-r1PS67aRmcA.md#t-00-04-12)**
+> "...ehow supports Mamdani (Zohran Mamdani)."
+
+**[00:05:23](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
+> "...Carlson) has mentioned Zohran Mamdani (Zohran Mamdani) since October 7th on his show is..."
+
+**[00:05:23](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
+> "...tioned Zohran Mamdani (Zohran Mamdani) since October 7th on his show is once."
+
+**[00:05:30](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
+> "...ng about the appeal of Zohran Mamdani (Zohran Mamdani)."
+
+**[00:05:30](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
+> "...eal of Zohran Mamdani (Zohran Mamdani)."
+
+**[00:05:36](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
+> "...se you've talked about Zohran Mamdani (Zohran Mamdani) a lot, a lot of us have."
+
+**[00:05:36](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
+> "... about Zohran Mamdani (Zohran Mamdani) a lot, a lot of us have."
+
+**[00:05:41](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
+> "...d 17 separate shows on Zohran Mamdani (Zohran Mamdani), including four in the last week..."
+
+**[00:05:41](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
+> "...ows on Zohran Mamdani (Zohran Mamdani), including four in the last week before the elec..."
+
+**[00:06:44](/episodes/ep-r1PS67aRmcA.md#t-00-06-42)**
+> "...e his platform to speak about Mamdani (Zohran Mamdani) 17 times."
+
+**[00:06:44](/episodes/ep-r1PS67aRmcA.md#t-00-06-42)**
+> "...o speak about Mamdani (Zohran Mamdani) 17 times."
+
+**[00:06:51](/episodes/ep-r1PS67aRmcA.md#t-00-06-42)**
+> "...er Carlson) somehow supported Mamdani (Zohran Mamdani) and said like nice things about ..."
+
+**[00:06:51](/episodes/ep-r1PS67aRmcA.md#t-00-06-42)**
+> "...how supported Mamdani (Zohran Mamdani) and said like nice things about him when he sat ..."
+
+**[00:09:02](/episodes/ep-r1PS67aRmcA.md#t-00-08-31)**
+> "...d. I am describing to you why Mamdani (Zohran Mamdani) won, and you're angry that peopl..."
+
+**[00:09:02](/episodes/ep-r1PS67aRmcA.md#t-00-08-31)**
+> "...ng to you why Mamdani (Zohran Mamdani) won, and you're angry that people are assessing ..."
+
+**[00:52:55](/episodes/ep-r1PS67aRmcA.md#t-00-52-33)**
+> "... should work together against Mamdani (Zohran Mamdani), yet the DW was all about sabota..."
+
+**[00:52:55](/episodes/ep-r1PS67aRmcA.md#t-00-52-33)**
+> "...ether against Mamdani (Zohran Mamdani), yet the DW was all about sabotaging all the oth..."
+
+</details>
+
+<details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (37 mentions)</summary>
 
 **[00:00:05](/episodes/ep-LATnak75Si0.md#ent-person-mamdani-t-00-00-00)**
@@ -125,92 +211,6 @@ _Type: People_
 
 **[01:02:07](/episodes/ep-LATnak75Si0.md#ent-person-mamdani-t-01-01-30)**
 > "..., but part of me is glad that Mamdani won because it sends a message."
-
-</details>
-
-<details>
-<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (27 mentions)</summary>
-
-**[00:04:23](/episodes/ep-r1PS67aRmcA.md#t-00-04-12)**
-> "...g about that and then spinning it into the accusation that Tucker (Tucker Carlson) somehow supports Mamdani. I don't know. Take a listen. (Clip: Ben Shapiro) So I texted him, and I said, "Thanks so much for ..."
-
-**[00:05:23](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
-> "...the conservative push to win. The number of times that Tucker (Tucker Carlson) has mentioned Zohran Mamdani since October 7th on his show is once. And it was in the context of Marjorie Taylor Greene and Tuck..."
-
-**[00:05:30](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
-> "...he context of Marjorie Taylor Greene and Tucker (Tucker Carlson) talking about the appeal of Zohran Mamdani. Just by way of contrast, not because I'm a perfect representative here, but because you've talked ..."
-
-**[00:05:36](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
-> "... of contrast, not because I'm a perfect representative here, but because you've talked about Zohran Mamdani a lot, a lot of us have. Since October 7th, I did 17 separate shows on Zohran Mamdani, including fo..."
-
-**[00:05:41](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
-> "... about Zohran Mamdani a lot, a lot of us have. Since October 7th, I did 17 separate shows on Zohran Mamdani, including four in the last week before the election. Because when you're orienting against the lef..."
-
-**[00:06:44](/episodes/ep-r1PS67aRmcA.md#t-00-06-42)**
-> "...lson) doesn't live in New York City. It's not his responsibility to use his platform to speak about Mamdani 17 times. It's very strange. But to the insinuation that Tucker (Tucker Carlson) somehow supported ..."
-
-**[00:06:51](/episodes/ep-r1PS67aRmcA.md#t-00-06-42)**
-> "... 17 times. It's very strange. But to the insinuation that Tucker (Tucker Carlson) somehow supported Mamdani and said like nice things about him when he sat down with Marjorie Taylor Greene, here's actually w..."
-
-**[00:09:02](/episodes/ep-r1PS67aRmcA.md#t-00-08-31)**
-> "...d everyone else is talking about foreign policy. So he said what I said. I am describing to you why Mamdani won, and you're angry that people are assessing why that happened. Doesn't matter how many times yo..."
-
-**[00:52:55](/episodes/ep-r1PS67aRmcA.md#t-00-52-33)**
-> "...s of engagement with the Geneva Convention. Also, Ben says Republicans should work together against Mamdani, yet the DW was all about sabotaging all the other conservative media." Like I said in general, eve..."
-
-**[00:04:23](/episodes/ep-r1PS67aRmcA.md#t-00-04-12)**
-> "...ker Carlson) somehow supports Mamdani (Zohran Mamdani)."
-
-**[00:04:23](/episodes/ep-r1PS67aRmcA.md#t-00-04-12)**
-> "...ehow supports Mamdani (Zohran Mamdani)."
-
-**[00:05:23](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
-> "...Carlson) has mentioned Zohran Mamdani (Zohran Mamdani) since October 7th on his show is..."
-
-**[00:05:23](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
-> "...tioned Zohran Mamdani (Zohran Mamdani) since October 7th on his show is once."
-
-**[00:05:30](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
-> "...ng about the appeal of Zohran Mamdani (Zohran Mamdani)."
-
-**[00:05:30](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
-> "...eal of Zohran Mamdani (Zohran Mamdani)."
-
-**[00:05:36](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
-> "...se you've talked about Zohran Mamdani (Zohran Mamdani) a lot, a lot of us have."
-
-**[00:05:36](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
-> "... about Zohran Mamdani (Zohran Mamdani) a lot, a lot of us have."
-
-**[00:05:41](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
-> "...d 17 separate shows on Zohran Mamdani (Zohran Mamdani), including four in the last week..."
-
-**[00:05:41](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
-> "...ows on Zohran Mamdani (Zohran Mamdani), including four in the last week before the elec..."
-
-**[00:06:44](/episodes/ep-r1PS67aRmcA.md#t-00-06-42)**
-> "...e his platform to speak about Mamdani (Zohran Mamdani) 17 times."
-
-**[00:06:44](/episodes/ep-r1PS67aRmcA.md#t-00-06-42)**
-> "...o speak about Mamdani (Zohran Mamdani) 17 times."
-
-**[00:06:51](/episodes/ep-r1PS67aRmcA.md#t-00-06-42)**
-> "...er Carlson) somehow supported Mamdani (Zohran Mamdani) and said like nice things about ..."
-
-**[00:06:51](/episodes/ep-r1PS67aRmcA.md#t-00-06-42)**
-> "...how supported Mamdani (Zohran Mamdani) and said like nice things about him when he sat ..."
-
-**[00:09:02](/episodes/ep-r1PS67aRmcA.md#t-00-08-31)**
-> "...d. I am describing to you why Mamdani (Zohran Mamdani) won, and you're angry that peopl..."
-
-**[00:09:02](/episodes/ep-r1PS67aRmcA.md#t-00-08-31)**
-> "...ng to you why Mamdani (Zohran Mamdani) won, and you're angry that people are assessing ..."
-
-**[00:52:55](/episodes/ep-r1PS67aRmcA.md#t-00-52-33)**
-> "... should work together against Mamdani (Zohran Mamdani), yet the DW was all about sabota..."
-
-**[00:52:55](/episodes/ep-r1PS67aRmcA.md#t-00-52-33)**
-> "...ether against Mamdani (Zohran Mamdani), yet the DW was all about sabotaging all the oth..."
 
 </details>
 

@@ -28,6 +28,17 @@ _Type: Organizations_
 </details>
 
 <details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+
+**[00:13:32](/episodes/ep-tB5SXXmd9vU.md#ent-org-united-states-congress-t-00-13-15)**
+> "...overt alliance of intelligence services formed in 1976, that ran operations around Africa. When the United States Congress had limited the power of the CIA after years of abuses, they decided to kind of go overseas to hand..."
+
+**[00:13:32](/episodes/ep-tB5SXXmd9vU.md#ent-org-united-states-congress-t-00-13-15)**
+> "When the United States Congress had limited the power of the CIA after years of a..."
+
+</details>
+
+<details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2 mentions)</summary>
 
 **[00:46:29](/episodes/ep-Qfwr08Ebczo.md#ent-org-united-states-congress-t-00-46-02)**
@@ -35,14 +46,6 @@ _Type: Organizations_
 
 **[00:46:29](/episodes/ep-Qfwr08Ebczo.md#ent-org-united-states-congress-t-00-46-02)**
 > "We pay Congress twice."
-
-</details>
-
-<details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1 mentions)</summary>
-
-**[00:30:36](/episodes/ep-czVBmqZP6Ss.md#t-00-30-27)**
-> "...bers of the royal family with a 13-year-old so we can get them to do what we want to do. Members of Congress are actively being blackmailed. The Epstein playbook is being used on a daily basis. Jeffrey Epstei..."
 
 </details>
 
@@ -69,13 +72,10 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1 mentions)</summary>
 
-**[00:13:32](/episodes/ep-tB5SXXmd9vU.md#ent-org-united-states-congress-t-00-13-15)**
-> "...overt alliance of intelligence services formed in 1976, that ran operations around Africa. When the United States Congress had limited the power of the CIA after years of abuses, they decided to kind of go overseas to hand..."
-
-**[00:13:32](/episodes/ep-tB5SXXmd9vU.md#ent-org-united-states-congress-t-00-13-15)**
-> "When the United States Congress had limited the power of the CIA after years of a..."
+**[00:30:36](/episodes/ep-czVBmqZP6Ss.md#t-00-30-27)**
+> "...bers of the royal family with a 13-year-old so we can get them to do what we want to do. Members of Congress are actively being blackmailed. The Epstein playbook is being used on a daily basis. Jeffrey Epstei..."
 
 </details>
 

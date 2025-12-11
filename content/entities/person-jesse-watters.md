@@ -17,6 +17,46 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (8 mentions)</summary>
+
+**[00:00:51](/episodes/ep-vwG1juDCQZQ.md#ent-person-jesse-watters-t-00-00-45)**
+> "...ents from the heavily anticipated interview with Erika Kirk (Charlie Kirk's widow) on Fox News with Jesse Watters. So let's get started. Okay, first things first. Welcome to the number one podcast in the world. It..."
+
+**[00:06:55](/episodes/ep-vwG1juDCQZQ.md#ent-person-jesse-watters-t-00-06-26)**
+> "...hts are about what that organization is going to look like going forward. And he—I'm speaking about Jesse Watters, who hosted this discussion—also trailed her at the event that she did with JD Vance at the Univers..."
+
+**[00:12:17](/episodes/ep-vwG1juDCQZQ.md#ent-person-jesse-watters-t-00-06-26)**
+> "...g it rather. It's gone viral because of what she didn't say, to be honest with you. Take a listen. (Jesse Watters interviewing Erika Kirk clip): Do you think they've caught your husband's killer? So, something I'm..."
+
+**[00:17:59](/episodes/ep-vwG1juDCQZQ.md#ent-person-jesse-watters-t-00-06-26)**
+> "...s about the conspiracy theories that are circulating regarding his murder. And here is her answer. (Jesse Watters interviewing Erika Kirk clip): There's other theories swirling around about Charlie's (Charlie Kirk..."
+
+**[00:26:18](/episodes/ep-vwG1juDCQZQ.md#ent-person-jesse-watters-t-00-25-52)**
+> "... interview in its entirety, you definitely should. It is available on Fox News, Fox News Primetime, Jesse Watters—and that's what we're going to say about that. Take a brief break, and we're going to get into some..."
+
+**[00:00:51](/episodes/ep-vwG1juDCQZQ.md#ent-person-jesse-watters-t-00-00-45)**
+> "...irk's widow) on Fox News with Jesse Watters."
+
+**[00:06:55](/episodes/ep-vwG1juDCQZQ.md#ent-person-jesse-watters-t-00-06-26)**
+> "And he—I'm speaking about Jesse Watters, who hosted this discussion—also trailed her at t..."
+
+**[00:26:18](/episodes/ep-vwG1juDCQZQ.md#ent-person-jesse-watters-t-00-25-52)**
+> "...Fox News, Fox News Primetime, Jesse Watters—and that's what we're going to say about that."
+
+</details>
+
+<details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
+
+**[00:46:28](/episodes/ep-LATnak75Si0.md#ent-person-jesse-watters-t-00-46-22)**
+> "...l that some more points will be clarified tonight when the very anticipated interview drops between Jesse Watters and Erika Kirk. I will be watching. I am actually ecstatic to hear more from Erika. I know she's ob..."
+
+**[00:46:28](/episodes/ep-LATnak75Si0.md#ent-person-jesse-watters-t-00-46-22)**
+> "...pated interview drops between Jesse Watters and Erika Kirk."
+
+</details>
+
+<details>
 <summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (24 mentions)</summary>
 
 **[00:00:36](/episodes/ep-K1tFD7FfoCU.md#ent-person-jesse-watters-t-00-00-00)**
@@ -94,17 +134,6 @@ _Type: People_
 </details>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
-
-**[00:46:28](/episodes/ep-LATnak75Si0.md#ent-person-jesse-watters-t-00-46-22)**
-> "...l that some more points will be clarified tonight when the very anticipated interview drops between Jesse Watters and Erika Kirk. I will be watching. I am actually ecstatic to hear more from Erika. I know she's ob..."
-
-**[00:46:28](/episodes/ep-LATnak75Si0.md#ent-person-jesse-watters-t-00-46-22)**
-> "...pated interview drops between Jesse Watters and Erika Kirk."
-
-</details>
-
-<details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (3 mentions)</summary>
 
 **[00:13:01](/episodes/ep-pc3pxRyNFZk.md#ent-person-jesse-watters-t-00-12-44)**
@@ -115,35 +144,6 @@ _Type: People_
 
 **[00:13:01](/episodes/ep-pc3pxRyNFZk.md#ent-person-jesse-watters-t-00-12-44)**
 > "...o what he told Jesse Watters (Jesse Watters) on the night of. (Clip: Cooper Brown)"
-
-</details>
-
-<details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (8 mentions)</summary>
-
-**[00:00:51](/episodes/ep-vwG1juDCQZQ.md#ent-person-jesse-watters-t-00-00-45)**
-> "...ents from the heavily anticipated interview with Erika Kirk (Charlie Kirk's widow) on Fox News with Jesse Watters. So let's get started. Okay, first things first. Welcome to the number one podcast in the world. It..."
-
-**[00:06:55](/episodes/ep-vwG1juDCQZQ.md#ent-person-jesse-watters-t-00-06-26)**
-> "...hts are about what that organization is going to look like going forward. And he—I'm speaking about Jesse Watters, who hosted this discussion—also trailed her at the event that she did with JD Vance at the Univers..."
-
-**[00:12:17](/episodes/ep-vwG1juDCQZQ.md#ent-person-jesse-watters-t-00-06-26)**
-> "...g it rather. It's gone viral because of what she didn't say, to be honest with you. Take a listen. (Jesse Watters interviewing Erika Kirk clip): Do you think they've caught your husband's killer? So, something I'm..."
-
-**[00:17:59](/episodes/ep-vwG1juDCQZQ.md#ent-person-jesse-watters-t-00-06-26)**
-> "...s about the conspiracy theories that are circulating regarding his murder. And here is her answer. (Jesse Watters interviewing Erika Kirk clip): There's other theories swirling around about Charlie's (Charlie Kirk..."
-
-**[00:26:18](/episodes/ep-vwG1juDCQZQ.md#ent-person-jesse-watters-t-00-25-52)**
-> "... interview in its entirety, you definitely should. It is available on Fox News, Fox News Primetime, Jesse Watters—and that's what we're going to say about that. Take a brief break, and we're going to get into some..."
-
-**[00:00:51](/episodes/ep-vwG1juDCQZQ.md#ent-person-jesse-watters-t-00-00-45)**
-> "...irk's widow) on Fox News with Jesse Watters."
-
-**[00:06:55](/episodes/ep-vwG1juDCQZQ.md#ent-person-jesse-watters-t-00-06-26)**
-> "And he—I'm speaking about Jesse Watters, who hosted this discussion—also trailed her at t..."
-
-**[00:26:18](/episodes/ep-vwG1juDCQZQ.md#ent-person-jesse-watters-t-00-25-52)**
-> "...Fox News, Fox News Primetime, Jesse Watters—and that's what we're going to say about that."
 
 </details>
 

@@ -13,17 +13,6 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
-
-**[00:58:31](/episodes/ep-5autG89PW6w.md#ent-person-brett-cooper-t-00-58-31)**
-> "...itics is a nasty business, Amir. As you know—you know—you're a friend of someone who's in politics: Brett Cooper. Corey Henry writes: "Give me the Kool-Aid in a juice box LMAO" regarding Ashton Forbes' cult comme..."
-
-**[00:58:31](/episodes/ep-5autG89PW6w.md#ent-person-brett-cooper-t-00-58-31)**
-> "...of someone who's in politics: Brett Cooper."
-
-</details>
-
-<details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (11 mentions)</summary>
 
 **[00:06:01](/episodes/ep-7RLtGgkTh9o.md#ent-person-brett-cooper-t-00-05-39)**
@@ -174,6 +163,17 @@ _Type: People_
 
 **[00:26:57](/episodes/ep-LATnak75Si0.md#ent-person-brett-cooper-t-00-26-36)**
 > "...e supposed to drown her, burn Brett Cooper at the stake—then where does that put the rest of..."
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
+
+**[00:58:31](/episodes/ep-5autG89PW6w.md#ent-person-brett-cooper-t-00-58-31)**
+> "...itics is a nasty business, Amir. As you know—you know—you're a friend of someone who's in politics: Brett Cooper. Corey Henry writes: "Give me the Kool-Aid in a juice box LMAO" regarding Ashton Forbes' cult comme..."
+
+**[00:58:31](/episodes/ep-5autG89PW6w.md#ent-person-brett-cooper-t-00-58-31)**
+> "...of someone who's in politics: Brett Cooper."
 
 </details>
 

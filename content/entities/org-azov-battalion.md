@@ -13,6 +13,17 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
+
+**[00:11:09](/episodes/ep-t1YtLS1n8Vs.md#ent-org-azov-battalion-t-00-10-35)**
+> "... about what happens to you. If you need more proof, you should know that they curiously removed the Azov Battalion. They're carving swastikas on their head, Ukrainians murdering people. They removed them from the h..."
+
+**[00:11:09](/episodes/ep-t1YtLS1n8Vs.md#ent-org-azov-battalion-t-00-10-35)**
+> "...at they curiously removed the Azov Battalion."
+
+</details>
+
+<details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (4 mentions)</summary>
 
 **[00:18:55](/episodes/ep-adJ4LNGp84I.md#ent-org-azov-battalion-t-00-18-55)**
@@ -29,36 +40,11 @@ _Type: Organizations_
 
 </details>
 
-<details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
-
-**[00:11:09](/episodes/ep-t1YtLS1n8Vs.md#ent-org-azov-battalion-t-00-10-35)**
-> "... about what happens to you. If you need more proof, you should know that they curiously removed the Azov Battalion. They're carving swastikas on their head, Ukrainians murdering people. They removed them from the h..."
-
-**[00:11:09](/episodes/ep-t1YtLS1n8Vs.md#ent-org-azov-battalion-t-00-10-35)**
-> "...at they curiously removed the Azov Battalion."
-
-</details>
-
 </details>
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Worked With (1)</summary>
-
-- **[Mikey McCoy](/entities/person-mikey-mccoy.md)**
-  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:19:52](/episodes/ep-adJ4LNGp84I.md#t-00-19-30): "His Uncle Mikey, who is working with the Ukrainian Azov Battalion. He's a military man."
-
-</details>
-
-<details>
-<summary>Referenced By (1)</summary>
-
-- **[Mikey McCoy](/entities/person-mikey-mccoy.md)** worked with this
-  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:19:52](/episodes/ep-adJ4LNGp84I.md#t-00-19-30)
-
-</details>
+_No relationships extracted yet._
 
 </details>

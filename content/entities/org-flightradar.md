@@ -17,17 +17,6 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
-
-**[00:07:32](/episodes/ep-YFmRH8p5lt0.md#ent-org-flightradar-t-00-07-32)**
-> "...s that BTT—so they're both SU—that BTT was here in 2022. That's the furthest that we can go back on FlightRadar. Now we're going to go into 2023. And I have included notes that I think might be relevant to the s..."
-
-**[00:07:32](/episodes/ep-YFmRH8p5lt0.md#ent-org-flightradar-t-00-07-32)**
-> "...rthest that we can go back on FlightRadar."
-
-</details>
-
-<details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (3 mentions)</summary>
 
 **[00:16:19](/episodes/ep-ZAuuSq_j2_w.md#ent-org-flightradar-t-00-15-51)**
@@ -38,6 +27,17 @@ _Type: Organizations_
 
 **[00:16:14](/episodes/ep-ZAuuSq_j2_w.md#ent-org-flightradar-t-00-15-51)**
 > "So you cannot find a record of this on FlightRadar."
+
+</details>
+
+<details>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
+
+**[00:07:32](/episodes/ep-YFmRH8p5lt0.md#ent-org-flightradar-t-00-07-32)**
+> "...s that BTT—so they're both SU—that BTT was here in 2022. That's the furthest that we can go back on FlightRadar. Now we're going to go into 2023. And I have included notes that I think might be relevant to the s..."
+
+**[00:07:32](/episodes/ep-YFmRH8p5lt0.md#ent-org-flightradar-t-00-07-32)**
+> "...rthest that we can go back on FlightRadar."
 
 </details>
 

@@ -17,16 +17,31 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (3 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (8 mentions)</summary>
 
-**[00:20:25](/episodes/ep-aDlhjfW6hz8.md#ent-person-eric-bolling-t-00-20-25)**
-> "...nothing wrong to him. And he seems to be kind of—he's the one who platformed, without any pushback, Eric Bolling. And I have an idea about why all that may be. I'll tell you in just a second. First, I want to rem..."
+**[00:50:56](/episodes/ep-tB5SXXmd9vU.md#ent-person-eric-bolling-t-00-50-56)**
+> "...and by the way, on the subject of who the kind of people that he's referring to, it was notoriously Eric Bolling that sat across from Adam when they attacked me over Charlie Kirk (Charlie Kirk) and lied and said ..."
 
-**[00:20:25](/episodes/ep-aDlhjfW6hz8.md#ent-person-eric-bolling-t-00-20-25)**
-> "...formed, without any pushback, Eric Bolling."
+**[00:51:10](/episodes/ep-tB5SXXmd9vU.md#ent-person-eric-bolling-t-00-50-56)**
+> "...nd said that I hadn't been friends with Charlie Kirk (Charlie Kirk) since 2017. After that episode, Eric Bolling sent me an email and apologized and said it was Adam's fault. He didn't even know Adam's name. I th..."
 
-**[00:20:25](/episodes/ep-aDlhjfW6hz8.md#ent-person-eric-bolling-t-00-20-25)**
-> "...d, without any pushback, Eric Bolling."
+**[00:54:03](/episodes/ep-tB5SXXmd9vU.md#ent-person-eric-bolling-t-00-53-46)**
+> "...s. If I don't post a receipt, they'll say it never happened. So we're going to pull that email that Eric Bolling sent about Adam because it really demonstrates the fickleness of politics. First, getting to the po..."
+
+**[00:50:56](/episodes/ep-tB5SXXmd9vU.md#ent-person-eric-bolling-t-00-50-56)**
+> "...erring to, it was notoriously Eric Bolling that sat across from Adam when they attacked me o..."
+
+**[00:50:56](/episodes/ep-tB5SXXmd9vU.md#ent-person-eric-bolling-t-00-50-56)**
+> "...g to, it was notoriously Eric Bolling that sat across from Adam when they attacked me o..."
+
+**[00:51:10](/episodes/ep-tB5SXXmd9vU.md#ent-person-eric-bolling-t-00-50-56)**
+> "After that episode, Eric Bolling sent me an email and apologized and said it was A..."
+
+**[00:54:03](/episodes/ep-tB5SXXmd9vU.md#ent-person-eric-bolling-t-00-53-46)**
+> "...going to pull that email that Eric Bolling sent about Adam because it really demonstrates th..."
+
+**[00:54:03](/episodes/ep-tB5SXXmd9vU.md#ent-person-eric-bolling-t-00-53-46)**
+> "... to pull that email that Eric Bolling sent about Adam because it really demonstrates th..."
 
 </details>
 
@@ -44,6 +59,20 @@ _Type: People_
 
 **[00:29:05](/episodes/ep-ja26iltROkM.md#ent-person-eric-bolling-t-00-29-05)**
 > "this is Eric Bolling—since 2015."
+
+</details>
+
+<details>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (3 mentions)</summary>
+
+**[00:20:25](/episodes/ep-aDlhjfW6hz8.md#ent-person-eric-bolling-t-00-20-25)**
+> "...nothing wrong to him. And he seems to be kind of—he's the one who platformed, without any pushback, Eric Bolling. And I have an idea about why all that may be. I'll tell you in just a second. First, I want to rem..."
+
+**[00:20:25](/episodes/ep-aDlhjfW6hz8.md#ent-person-eric-bolling-t-00-20-25)**
+> "...formed, without any pushback, Eric Bolling."
+
+**[00:20:25](/episodes/ep-aDlhjfW6hz8.md#ent-person-eric-bolling-t-00-20-25)**
+> "...d, without any pushback, Eric Bolling."
 
 </details>
 
@@ -88,35 +117,6 @@ _Type: People_
 
 **[00:44:36](/episodes/ep-sreYYcID-QY.md#ent-person-eric-bolling-t-00-44-23)**
 > "Board member Eric Bolling”—by the way, he's not a board member, but that wo..."
-
-</details>
-
-<details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (8 mentions)</summary>
-
-**[00:50:56](/episodes/ep-tB5SXXmd9vU.md#ent-person-eric-bolling-t-00-50-56)**
-> "...and by the way, on the subject of who the kind of people that he's referring to, it was notoriously Eric Bolling that sat across from Adam when they attacked me over Charlie Kirk (Charlie Kirk) and lied and said ..."
-
-**[00:51:10](/episodes/ep-tB5SXXmd9vU.md#ent-person-eric-bolling-t-00-50-56)**
-> "...nd said that I hadn't been friends with Charlie Kirk (Charlie Kirk) since 2017. After that episode, Eric Bolling sent me an email and apologized and said it was Adam's fault. He didn't even know Adam's name. I th..."
-
-**[00:54:03](/episodes/ep-tB5SXXmd9vU.md#ent-person-eric-bolling-t-00-53-46)**
-> "...s. If I don't post a receipt, they'll say it never happened. So we're going to pull that email that Eric Bolling sent about Adam because it really demonstrates the fickleness of politics. First, getting to the po..."
-
-**[00:50:56](/episodes/ep-tB5SXXmd9vU.md#ent-person-eric-bolling-t-00-50-56)**
-> "...erring to, it was notoriously Eric Bolling that sat across from Adam when they attacked me o..."
-
-**[00:50:56](/episodes/ep-tB5SXXmd9vU.md#ent-person-eric-bolling-t-00-50-56)**
-> "...g to, it was notoriously Eric Bolling that sat across from Adam when they attacked me o..."
-
-**[00:51:10](/episodes/ep-tB5SXXmd9vU.md#ent-person-eric-bolling-t-00-50-56)**
-> "After that episode, Eric Bolling sent me an email and apologized and said it was A..."
-
-**[00:54:03](/episodes/ep-tB5SXXmd9vU.md#ent-person-eric-bolling-t-00-53-46)**
-> "...going to pull that email that Eric Bolling sent about Adam because it really demonstrates th..."
-
-**[00:54:03](/episodes/ep-tB5SXXmd9vU.md#ent-person-eric-bolling-t-00-53-46)**
-> "... to pull that email that Eric Bolling sent about Adam because it really demonstrates th..."
 
 </details>
 

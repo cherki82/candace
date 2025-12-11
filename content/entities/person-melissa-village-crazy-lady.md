@@ -18,26 +18,6 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (5 mentions)</summary>
-
-**[00:07:40](/episodes/ep-5autG89PW6w.md#ent-person-melissa-village-crazy-lady-t-00-07-35)**
-> "...illage Crazy Lady, who I love—Mel—who was responding to an absurdity that was being..."
-
-**[00:07:40](/episodes/ep-5autG89PW6w.md#ent-person-melissa-village-crazy-lady-t-00-07-35)**
-> "This is Village Crazy Lady, who I love—Mel—who was responding to an absurdit..."
-
-**[00:07:48](/episodes/ep-5autG89PW6w.md#ent-person-melissa-village-crazy-lady-t-00-07-35)**
-> "Mel said, "These losers are down so bad right now tha..."
-
-**[00:08:44](/episodes/ep-5autG89PW6w.md#ent-person-melissa-village-crazy-lady-t-00-07-35)**
-> "And I love that Mel replies and says, "Bro,"
-
-**[00:10:13](/episodes/ep-5autG89PW6w.md#ent-person-melissa-village-crazy-lady-t-00-07-35)**
-> "...en you are down bad—just like Mel says—when they're really down bad, nothing is lef..."
-
-</details>
-
-<details>
 <summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (6 mentions)</summary>
 
 **[00:12:16](/episodes/ep-YFmRH8p5lt0.md#ent-person-melissa-village-crazy-lady-t-00-11-43)**
@@ -57,6 +37,26 @@ _Type: People_
 
 **[00:51:23](/episodes/ep-YFmRH8p5lt0.md#ent-person-melissa-village-crazy-lady-t-00-51-00)**
 > "Again, I would follow Village Crazy Lady on X."
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (5 mentions)</summary>
+
+**[00:07:40](/episodes/ep-5autG89PW6w.md#ent-person-melissa-village-crazy-lady-t-00-07-35)**
+> "...illage Crazy Lady, who I love—Mel—who was responding to an absurdity that was being..."
+
+**[00:07:40](/episodes/ep-5autG89PW6w.md#ent-person-melissa-village-crazy-lady-t-00-07-35)**
+> "This is Village Crazy Lady, who I love—Mel—who was responding to an absurdit..."
+
+**[00:07:48](/episodes/ep-5autG89PW6w.md#ent-person-melissa-village-crazy-lady-t-00-07-35)**
+> "Mel said, "These losers are down so bad right now tha..."
+
+**[00:08:44](/episodes/ep-5autG89PW6w.md#ent-person-melissa-village-crazy-lady-t-00-07-35)**
+> "And I love that Mel replies and says, "Bro,"
+
+**[00:10:13](/episodes/ep-5autG89PW6w.md#ent-person-melissa-village-crazy-lady-t-00-07-35)**
+> "...en you are down bad—just like Mel says—when they're really down bad, nothing is lef..."
 
 </details>
 

@@ -29,17 +29,6 @@ _Type: Organizations_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Affiliated With (2)</summary>
-
-- **[4th Company, 2nd Foreign Infantry Regiment](/entities/org-4th-company-2nd-foreign-infantry-regiment.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:16:09](/episodes/ep-tB5SXXmd9vU.md#t-00-15-25): "...were integrated with U.S. Marines of the 6th Marine Regiment for a three-week training deployment..."
-
-- **[6th Light Armored Brigade](/entities/org-6th-light-armored-brigade.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:16:09](/episodes/ep-tB5SXXmd9vU.md#t-00-15-25): "...were integrated with U.S. Marines of the 6th Marine Regiment for a three-week training deployment..."
-
-</details>
-
-<details>
 <summary>Member Of (1)</summary>
 
 - **[U.S. Marines](/entities/org-us-marines.md)**
@@ -48,13 +37,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
-
-- **[4th Company, 2nd Foreign Infantry Regiment](/entities/org-4th-company-2nd-foreign-infantry-regiment.md)** affiliated with this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:16:09](/episodes/ep-tB5SXXmd9vU.md#t-00-15-25)
-
-- **[6th Light Armored Brigade](/entities/org-6th-light-armored-brigade.md)** affiliated with this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:16:09](/episodes/ep-tB5SXXmd9vU.md#t-00-15-25)
+<summary>Referenced By (1)</summary>
 
 - **[U.S. Marines](/entities/org-us-marines.md)** has member this
   - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:16:09](/episodes/ep-tB5SXXmd9vU.md#t-00-15-25)

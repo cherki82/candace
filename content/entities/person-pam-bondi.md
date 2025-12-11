@@ -1,6 +1,6 @@
 ---
 title: "Pam Bondi"
-description: "Pam Bondi (People) - 8 mentions"
+description: "Pam Bondi (People) - 10 mentions"
 id: "person-pam-bondi"
 type: "PERSON"
 ---
@@ -11,6 +11,28 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
+
+**[00:46:54](/episodes/ep-6DhWawD4ZiM.md#ent-person-pam-bondi-t-00-46-55)**
+> "it appears that Pam Bondi flew on this plane approximately five months ago"
+
+**[00:47:20](/episodes/ep-6DhWawD4ZiM.md#ent-person-pam-bondi-t-00-46-55)**
+> "...es I've done, it appears that Pam Bondi flew on this plane approximately five months ago ..."
+
+</details>
+
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
+
+**[00:33:53](/episodes/ep-yAIb-NuUh_U.md#ent-person-pam-bondi-t-00-33-32)**
+> "...looked us in the face and he said, "What files?" right? Are we still talking about Jeffrey Epstein? Pam Bondi said it was a Democrat hoax. No, I think the entire nation has been hoaxed by Republicans and Democ..."
+
+**[00:33:53](/episodes/ep-yAIb-NuUh_U.md#ent-person-pam-bondi-t-00-33-32)**
+> "Pam Bondi said it was a Democrat hoax."
+
+</details>
 
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (6 mentions)</summary>
@@ -32,17 +54,6 @@ _Type: People_
 
 **[00:38:15](/episodes/ep-aDlhjfW6hz8.md#ent-person-pam-bondi-t-00-37-41)**
 > "No, Pam Bondi."
-
-</details>
-
-<details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
-
-**[00:33:53](/episodes/ep-yAIb-NuUh_U.md#ent-person-pam-bondi-t-00-33-32)**
-> "...looked us in the face and he said, "What files?" right? Are we still talking about Jeffrey Epstein? Pam Bondi said it was a Democrat hoax. No, I think the entire nation has been hoaxed by Republicans and Democ..."
-
-**[00:33:53](/episodes/ep-yAIb-NuUh_U.md#ent-person-pam-bondi-t-00-33-32)**
-> "Pam Bondi said it was a Democrat hoax."
 
 </details>
 
@@ -91,7 +102,14 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Pam Bondi (1)</strong></summary>
+<summary><strong class="section-title">Statements about Pam Bondi (2)</strong></summary>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1)</summary>
+
+- [00:47:38](/episodes/ep-6DhWawD4ZiM.md#t-00-47-35) (Claim) **Candace Owens**: ["Pam Bondi flew on the same VIP plane (tail 99-0404) approximately five..."](/statements/statement-99edc3c2fe01.md)
+
+</details>
 
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1)</summary>

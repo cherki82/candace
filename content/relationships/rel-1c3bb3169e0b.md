@@ -11,11 +11,10 @@ object: "org-anti-defamation-league"
 
 ## [B'nai B'rith](/entities/org-b-nai-b-rith) founded [Anti-Defamation League](/entities/org-anti-defamation-league)
 
-### Evidence (2 mentions)
+### Evidence (1 mentions)
 
 **[INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs)**
 
-- [00:02:02](/episodes/ep-t1YtLS1n8Vs#t-00-02-02): _the ADL was born out of a Jewish Freemason organization known as B'nai B'rith._
 - [00:02:02](/episodes/ep-t1YtLS1n8Vs#t-00-02-02): _the ADL was born out of a Jewish Freemason organization known as B'nai B'rith._
 
 ### Related

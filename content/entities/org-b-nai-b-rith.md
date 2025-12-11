@@ -54,7 +54,6 @@ _Type: Organizations_
 
 - **[Anti-Defamation League](/entities/org-anti-defamation-league.md)**
   - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:02](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): "the ADL was born out of a Jewish Freemason organization known as B'nai B'rith."
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:02](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): "the ADL was born out of a Jewish Freemason organization known as B'nai B'rith."
 
 </details>
 
@@ -62,7 +61,6 @@ _Type: Organizations_
 <summary>Has Member (1)</summary>
 
 - **[Sigmund Freud](/entities/person-sigmund-freud.md)**
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:10](/episodes/ep-t1YtLS1n8Vs.md#t-00-02-02): "Sigmund Freud was a member of B'nai B'rith."
   - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:10](/episodes/ep-t1YtLS1n8Vs.md#t-00-02-02): "Sigmund Freud was a member of B'nai B'rith."
 
 </details>
@@ -72,11 +70,11 @@ _Type: Organizations_
 
 - **[Anti-Defamation League](/entities/org-anti-defamation-league.md)** founded by this
   - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:02](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24)
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:02](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24)
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:15](/episodes/ep-t1YtLS1n8Vs.md#t-00-00-42)
 
 - **[Sigmund Freud](/entities/person-sigmund-freud.md)** member of this
   - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:10](/episodes/ep-t1YtLS1n8Vs.md#t-00-02-02)
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:10](/episodes/ep-t1YtLS1n8Vs.md#t-00-02-02)
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:20](/episodes/ep-t1YtLS1n8Vs.md#t-00-00-42)
 
 </details>
 

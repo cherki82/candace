@@ -93,14 +93,6 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Affiliated With (1)</summary>
-
-- **[The Daily Wire](/entities/org-the-daily-wire.md)**
-  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:22:21](/episodes/ep-LATnak75Si0.md#t-00-22-10): "You have done various things with the Daily Wire, including... "Lady Ballers.""
-
-</details>
-
-<details>
 <summary>Criticized By (1)</summary>
 
 - **[Brett Cooper](/entities/person-brett-cooper.md)**
@@ -109,10 +101,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
-
-- **[The Daily Wire](/entities/org-the-daily-wire.md)** affiliated with this
-  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:22:21](/episodes/ep-LATnak75Si0.md#t-00-22-10)
+<summary>Referenced By (1)</summary>
 
 - **[Brett Cooper](/entities/person-brett-cooper.md)** criticized this
   - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:19:19](/episodes/ep-LATnak75Si0.md#t-00-19-15)

@@ -17,6 +17,14 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
+
+**[00:51:14](/episodes/ep-sImMM04XdWY.md#t-00-50-42)**
+> "... obviously be fearful. Kash? That's just corruption. I mean, once I saw the article—he was blocking Tulsi's office— I lost all faith in Kash. I think he's a part of the corruption, plain and simple. Black ..."
+
+</details>
+
+<details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (3 mentions)</summary>
 
 **[00:10:23](/episodes/ep-581dILVcEE4.md#ent-person-tulsi-gabbard-t-00-10-23)**
@@ -35,6 +43,17 @@ _Type: People_
 
 **[00:27:49](/episodes/ep-JQjCAsfoXEE.md#t-00-27-38)**
 > "...kay. Honestly, you guys, it brings me great pleasure to deliver this information because now surely Tulsi's office can get involved—because you know those darn Egyptians are at it again. Those darn Egyptia..."
+
+</details>
+
+<details>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
+
+**[00:25:27](/episodes/ep-YFmRH8p5lt0.md#ent-person-tulsi-gabbard-t-00-25-27)**
+> "...d, right? I don't know what this plane is doing. I don't know who's on the plane. I do know that if Tulsi Gabbard or Kash Patel is potentially watching this—or if they are, as they have stated, or as the public fi..."
+
+**[00:25:27](/episodes/ep-YFmRH8p5lt0.md#ent-person-tulsi-gabbard-t-00-25-27)**
+> "I do know that if Tulsi Gabbard or Kash Patel is potentially watching this—or if ..."
 
 </details>
 
@@ -58,25 +77,6 @@ _Type: People_
 
 **[00:22:54](/episodes/ep-Qt0VHV-POCg.md#ent-person-tulsi-gabbard-t-00-22-39)**
 > "So Joe Kent, Tulsi Gabbard—if you guys by any chance see this episode—keep g..."
-
-</details>
-
-<details>
-<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
-
-**[00:25:27](/episodes/ep-YFmRH8p5lt0.md#ent-person-tulsi-gabbard-t-00-25-27)**
-> "...d, right? I don't know what this plane is doing. I don't know who's on the plane. I do know that if Tulsi Gabbard or Kash Patel is potentially watching this—or if they are, as they have stated, or as the public fi..."
-
-**[00:25:27](/episodes/ep-YFmRH8p5lt0.md#ent-person-tulsi-gabbard-t-00-25-27)**
-> "I do know that if Tulsi Gabbard or Kash Patel is potentially watching this—or if ..."
-
-</details>
-
-<details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
-
-**[00:51:14](/episodes/ep-sImMM04XdWY.md#t-00-50-42)**
-> "... obviously be fearful. Kash? That's just corruption. I mean, once I saw the article—he was blocking Tulsi's office— I lost all faith in Kash. I think he's a part of the corruption, plain and simple. Black ..."
 
 </details>
 

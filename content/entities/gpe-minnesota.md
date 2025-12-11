@@ -24,6 +24,35 @@ _Type: Places_
 </details>
 
 <details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (8 mentions)</summary>
+
+**[00:16:44](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-minnesota-t-00-16-09)**
+> "...s, which included military men from the Minot Air Force Base. And that joint exercise took place in Minnesota at Camp Ripley, and that ran just for a couple of days until August 27th, and that was known as Ope..."
+
+**[00:17:23](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-minnesota-t-00-16-49)**
+> "... ended in California, another military training exercise began alongside civilians at Camp Riley in Minnesota—should have said Ripley. Now, you will recall, for those of you who are following the Becoming Brig..."
+
+**[00:20:36](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-minnesota-t-00-20-29)**
+> "...ormally denies that another Foreign Legion training exercise took place at a supposed Camp Riley in Minnesota after the conclusion of the California exercise, and for good reason, because no Camp Riley exists ..."
+
+**[00:20:56](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-minnesota-t-00-20-29)**
+> "...ter the conclusion of the California exercise, and for good reason, because no Camp Riley exists in Minnesota," as Andy Parish, the former chief of staff to the Republican state representative, pointed out on ..."
+
+**[00:16:44](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-minnesota-t-00-16-09)**
+> "... joint exercise took place in Minnesota at Camp"
+
+**[00:17:23](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-minnesota-t-00-16-49)**
+> "...de civilians at Camp Riley in Minnesota—should have said Ripley."
+
+**[00:20:36](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-minnesota-t-00-20-29)**
+> "...e at a supposed Camp Riley in Minnesota after the conclusion of the California exercise, ..."
+
+**[00:20:56](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-minnesota-t-00-20-29)**
+> "in Minnesota," as Andy Parish, the former chief of staff to th..."
+
+</details>
+
+<details>
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (9 mentions)</summary>
 
 **[00:06:40](/episodes/ep-mKXdKV-OBog.md#ent-gpe-minnesota-t-00-06-30)**
@@ -52,35 +81,6 @@ _Type: Places_
 
 **[00:08:40](/episodes/ep-mKXdKV-OBog.md#ent-gpe-minnesota-t-00-08-31)**
 > "...amp Ripley Training Center in Minnesota,"
-
-</details>
-
-<details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (8 mentions)</summary>
-
-**[00:16:44](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-minnesota-t-00-16-09)**
-> "...s, which included military men from the Minot Air Force Base. And that joint exercise took place in Minnesota at Camp Ripley, and that ran just for a couple of days until August 27th, and that was known as Ope..."
-
-**[00:17:23](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-minnesota-t-00-16-49)**
-> "... ended in California, another military training exercise began alongside civilians at Camp Riley in Minnesota—should have said Ripley. Now, you will recall, for those of you who are following the Becoming Brig..."
-
-**[00:20:36](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-minnesota-t-00-20-29)**
-> "...ormally denies that another Foreign Legion training exercise took place at a supposed Camp Riley in Minnesota after the conclusion of the California exercise, and for good reason, because no Camp Riley exists ..."
-
-**[00:20:56](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-minnesota-t-00-20-29)**
-> "...ter the conclusion of the California exercise, and for good reason, because no Camp Riley exists in Minnesota," as Andy Parish, the former chief of staff to the Republican state representative, pointed out on ..."
-
-**[00:16:44](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-minnesota-t-00-16-09)**
-> "... joint exercise took place in Minnesota at Camp"
-
-**[00:17:23](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-minnesota-t-00-16-49)**
-> "...de civilians at Camp Riley in Minnesota—should have said Ripley."
-
-**[00:20:36](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-minnesota-t-00-20-29)**
-> "...e at a supposed Camp Riley in Minnesota after the conclusion of the California exercise, ..."
-
-**[00:20:56](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-minnesota-t-00-20-29)**
-> "in Minnesota," as Andy Parish, the former chief of staff to th..."
 
 </details>
 

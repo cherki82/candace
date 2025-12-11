@@ -13,6 +13,22 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
+
+**[00:35:51](/episodes/ep-a-e7HC6SeK8.md#t-00-35-34)**
+> "Also, I've been telling you guys about Beekeepers Naturals because this holiday season may be full of joy, travel, and togetherness, but it also happens to overlap with peak cold and flu season."
+
+</details>
+
+<details>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1 mentions)</summary>
+
+**[00:27:07](/episodes/ep-YA1FxrDWNIo.md#t-00-26-45)**
+> "Head to BeekeepersNaturals.com/Candace, or you can enter code CANDACE at checkout..."
+
+</details>
+
+<details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (6 mentions)</summary>
 
 **[00:38:25](/episodes/ep-2WEHTk0Xewg.md#ent-org-beekeepers-naturals-t-00-38-20)**
@@ -32,22 +48,6 @@ _Type: Organizations_
 
 **[00:39:22](/episodes/ep-2WEHTk0Xewg.md#ent-org-beekeepers-naturals-t-00-39-04)**
 > "Beekeeper's Naturals products are also available at Target, Whole Food..."
-
-</details>
-
-<details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1 mentions)</summary>
-
-**[00:27:07](/episodes/ep-YA1FxrDWNIo.md#t-00-26-45)**
-> "Head to BeekeepersNaturals.com/Candace, or you can enter code CANDACE at checkout..."
-
-</details>
-
-<details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
-
-**[00:35:51](/episodes/ep-a-e7HC6SeK8.md#t-00-35-34)**
-> "Also, I've been telling you guys about Beekeepers Naturals because this holiday season may be full of joy, travel, and togetherness, but it also happens to overlap with peak cold and flu season."
 
 </details>
 

@@ -22,17 +22,6 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
-
-**[01:02:56](/episodes/ep-Cq7nj9rxPdo.md#ent-org-nimeskincare-com-t-01-02-49)**
-> "...e daily grind. Then, the problem areas— which is for that really dry or cracked skin. They have the Buzzin' Tallow Balm. It's an ultra-rich balm that uses tallow and beeswax to create a protective barrier. It locks in m..."
-
-**[01:02:56](/episodes/ep-Cq7nj9rxPdo.md#ent-org-nimeskincare-com-t-01-02-49)**
-> "They have the Buzzin' Tallow Balm."
-
-</details>
-
-<details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (7 mentions)</summary>
 
 **[00:35:57](/episodes/ep-ZAuuSq_j2_w.md#ent-org-nimeskincare-com-t-00-35-53)**
@@ -55,6 +44,17 @@ _Type: Organizations_
 
 **[00:36:32](/episodes/ep-ZAuuSq_j2_w.md#ent-org-nimeskincare-com-t-00-35-53)**
 > "That's NIMESKINCARE.COM, and do not wait."
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
+
+**[01:02:56](/episodes/ep-Cq7nj9rxPdo.md#ent-org-nimeskincare-com-t-01-02-49)**
+> "...e daily grind. Then, the problem areas— which is for that really dry or cracked skin. They have the Buzzin' Tallow Balm. It's an ultra-rich balm that uses tallow and beeswax to create a protective barrier. It locks in m..."
+
+**[01:02:56](/episodes/ep-Cq7nj9rxPdo.md#ent-org-nimeskincare-com-t-01-02-49)**
+> "They have the Buzzin' Tallow Balm."
 
 </details>
 

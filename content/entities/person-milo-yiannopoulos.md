@@ -1,6 +1,6 @@
 ---
 title: "Milo Yiannopoulos"
-description: "Milo Yiannopoulos (People) - 14 mentions"
+description: "Milo Yiannopoulos (People) - 17 mentions"
 id: "person-milo-yiannopoulos"
 type: "PERSON"
 aliases:
@@ -17,27 +17,16 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (4 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
 
-**[00:24:45](/episodes/ep-Kmt6HgRjckU.md#ent-person-milo-yiannopoulos-t-00-24-33)**
-> "Milo explains why people are upset about Epstein files and Charlie Kirk investigation"
+**[00:03:06](/episodes/ep-6DhWawD4ZiM.md#ent-person-milo-yiannopoulos-t-00-02-53)**
+> "Milo (Milo Yiannopoulos) and a few others have asserted with absolute certainty"
 
-**[00:24:43](/episodes/ep-Kmt6HgRjckU.md#ent-person-milo-yiannopoulos-t-00-24-33)**
-> "So he hosted Milo (Milo Yiannopoulos) on his show."
+**[00:03:01](/episodes/ep-6DhWawD4ZiM.md#ent-person-milo-yiannopoulos-t-00-02-53)**
+> "...ek in a big way because Milo (Milo Yiannopoulos) and a few others have asserted with absolute cer..."
 
-**[00:25:22](/episodes/ep-Kmt6HgRjckU.md#ent-person-milo-yiannopoulos-t-00-25-04)**
-> "Regardless of that, Milo (Milo Yiannopoulos) breaks down the real reason why people are upset..."
-
-**[00:25:47](/episodes/ep-Kmt6HgRjckU.md#ent-person-milo-yiannopoulos-t-00-25-04)**
-> "Here is what Milo had to say."
-
-</details>
-
-<details>
-<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
-
-**[00:20:12](/episodes/ep-Qfwr08Ebczo.md#ent-person-milo-yiannopoulos-t-00-19-43)**
-> "I think I saw like Milo Yiannopoulos tweeted, "Now I think Israel did it.""
+**[00:03:01](/episodes/ep-6DhWawD4ZiM.md#ent-person-milo-yiannopoulos-t-00-02-53)**
+> "...his week in a big way because Milo (Milo Yiannopoulos) and a few others have asserte..."
 
 </details>
 
@@ -70,6 +59,31 @@ _Type: People_
 
 **[00:44:49](/episodes/ep-t4U7NjnUEgc.md#ent-person-milo-yiannopoulos-t-00-44-49)**
 > "... (Milo Yiannopoulos) in which Milo (Milo Yiannopoulos) defended me and explained tha..."
+
+</details>
+
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (4 mentions)</summary>
+
+**[00:24:45](/episodes/ep-Kmt6HgRjckU.md#ent-person-milo-yiannopoulos-t-00-24-33)**
+> "Milo explains why people are upset about Epstein files and Charlie Kirk investigation"
+
+**[00:24:43](/episodes/ep-Kmt6HgRjckU.md#ent-person-milo-yiannopoulos-t-00-24-33)**
+> "So he hosted Milo (Milo Yiannopoulos) on his show."
+
+**[00:25:22](/episodes/ep-Kmt6HgRjckU.md#ent-person-milo-yiannopoulos-t-00-25-04)**
+> "Regardless of that, Milo (Milo Yiannopoulos) breaks down the real reason why people are upset..."
+
+**[00:25:47](/episodes/ep-Kmt6HgRjckU.md#ent-person-milo-yiannopoulos-t-00-25-04)**
+> "Here is what Milo had to say."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
+
+**[00:20:12](/episodes/ep-Qfwr08Ebczo.md#ent-person-milo-yiannopoulos-t-00-19-43)**
+> "I think I saw like Milo Yiannopoulos tweeted, "Now I think Israel did it.""
 
 </details>
 
@@ -135,6 +149,19 @@ _Type: People_
 
 - [00:27:28](/episodes/ep-Kmt6HgRjckU.md#t-00-26-53) [○] (Opinion) ["The moment Trump said there are no Epstein files and told people to stop asking,..."](/statements/statement-ff3443878be5.md)
   - About: [Donald Trump](/entities/person-donald-trump.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Milo Yiannopoulos (1)</strong></summary>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1)</summary>
+
+- [00:03:10](/episodes/ep-6DhWawD4ZiM.md#t-00-02-53) (Claim) **Candace Owens**: ["Milo Yiannopoulos and others assert with absolute certainty that Charl..."](/statements/statement-b837814f2afd.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

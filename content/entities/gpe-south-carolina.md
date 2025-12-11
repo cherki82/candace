@@ -13,17 +13,6 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>To My Friend, Charlie Kirk. (2 mentions)</summary>
-
-**[00:12:27](/episodes/ep-_dRaEO47-co.md#ent-gpe-south-carolina-t-00-12-10)**
-> "...it was a hurricane. And one day there was literally a hurricane. I think we were in North Carolina, South Carolina at the time. I don't remember, but all the flights got canceled, and we needed to be in D.C. by mor..."
-
-**[00:12:27](/episodes/ep-_dRaEO47-co.md#ent-gpe-south-carolina-t-00-12-10)**
-> "...nk we were in North Carolina, South Carolina at the time."
-
-</details>
-
-<details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
 
 **[00:23:40](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-south-carolina-t-00-23-23)**
@@ -42,6 +31,17 @@ _Type: Places_
 
 **[01:01:57](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-south-carolina-t-01-01-17)**
 > "...s writes: "Praying for you in South Carolina. The Lord Jesus Christ is King.""
+
+</details>
+
+<details>
+<summary>To My Friend, Charlie Kirk. (2 mentions)</summary>
+
+**[00:12:27](/episodes/ep-_dRaEO47-co.md#ent-gpe-south-carolina-t-00-12-10)**
+> "...it was a hurricane. And one day there was literally a hurricane. I think we were in North Carolina, South Carolina at the time. I don't remember, but all the flights got canceled, and we needed to be in D.C. by mor..."
+
+**[00:12:27](/episodes/ep-_dRaEO47-co.md#ent-gpe-south-carolina-t-00-12-10)**
+> "...nk we were in North Carolina, South Carolina at the time."
 
 </details>
 

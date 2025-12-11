@@ -13,6 +13,17 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+
+**[00:10:50](/episodes/ep-tB5SXXmd9vU.md#ent-org-telegram-t-00-10-50)**
+> "...roader points of the Becoming Brigitte series. And so I'd like to thank Pavel Durov, the founder of Telegram, for being one of the first people to stick out his neck immediately and to assert what the entire ..."
+
+**[00:10:50](/episodes/ep-tB5SXXmd9vU.md#ent-org-telegram-t-00-10-50)**
+> "...k Pavel Durov, the founder of Telegram, for being one of the first people to stick out h..."
+
+</details>
+
+<details>
 <summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (6 mentions)</summary>
 
 **[00:07:59](/episodes/ep-5autG89PW6w.md#ent-org-telegram-t-00-07-35)**
@@ -32,17 +43,6 @@ _Type: Organizations_
 
 **[00:08:47](/episodes/ep-5autG89PW6w.md#ent-org-telegram-t-00-08-20)**
 > "if I got scammed in a Telegram group chat by 'Elon Musk' quote-unquote, I'd take..."
-
-</details>
-
-<details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
-
-**[00:10:50](/episodes/ep-tB5SXXmd9vU.md#ent-org-telegram-t-00-10-50)**
-> "...roader points of the Becoming Brigitte series. And so I'd like to thank Pavel Durov, the founder of Telegram, for being one of the first people to stick out his neck immediately and to assert what the entire ..."
-
-**[00:10:50](/episodes/ep-tB5SXXmd9vU.md#ent-org-telegram-t-00-10-50)**
-> "...k Pavel Durov, the founder of Telegram, for being one of the first people to stick out h..."
 
 </details>
 

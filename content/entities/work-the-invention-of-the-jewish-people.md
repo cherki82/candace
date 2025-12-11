@@ -1,11 +1,11 @@
 ---
 title: "The Invention of the Jewish People"
-description: "The Invention of the Jewish People (Work) - 5 mentions"
+description: "The Invention of the Jewish People (Works & Media) - 5 mentions"
 id: "work-the-invention-of-the-jewish-people"
 type: "WORK"
 ---
 
-_Type: Work_
+_Type: Works & Media_
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

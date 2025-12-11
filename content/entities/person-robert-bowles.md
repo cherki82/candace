@@ -13,6 +13,17 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
+
+**[00:05:19](/episodes/ep-adJ4LNGp84I.md#ent-person-robert-bowles-t-00-05-01)**
+> "...old you, cleaned house at the State Bureau. He then installs a person that has a long tenure in DC, Robert Bowles. His first case is Charlie (Charlie Kirk)'s assassination. Why would he wanna uproot and move his f..."
+
+**[00:05:19](/episodes/ep-adJ4LNGp84I.md#ent-person-robert-bowles-t-00-05-01)**
+> "a long tenure in DC, Robert Bowles. His first case is Charlie (Charlie Kirk)'s assas..."
+
+</details>
+
+<details>
 <summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (4 mentions)</summary>
 
 **[00:32:13](/episodes/ep-YA1FxrDWNIo.md#ent-person-robert-bowles-t-00-32-13)**
@@ -26,17 +37,6 @@ _Type: People_
 
 **[00:32:20](/episodes/ep-YA1FxrDWNIo.md#ent-person-robert-bowles-t-00-32-13)**
 > "I think Robert Bowles—actually, it was his first week when Charlie (Cha..."
-
-</details>
-
-<details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
-
-**[00:05:19](/episodes/ep-adJ4LNGp84I.md#ent-person-robert-bowles-t-00-05-01)**
-> "...old you, cleaned house at the State Bureau. He then installs a person that has a long tenure in DC, Robert Bowles. His first case is Charlie (Charlie Kirk)'s assassination. Why would he wanna uproot and move his f..."
-
-**[00:05:19](/episodes/ep-adJ4LNGp84I.md#ent-person-robert-bowles-t-00-05-01)**
-> "a long tenure in DC, Robert Bowles. His first case is Charlie (Charlie Kirk)'s assas..."
 
 </details>
 

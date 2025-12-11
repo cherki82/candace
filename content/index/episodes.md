@@ -2,7 +2,7 @@
 title: "Episodes"
 ---
 
-_Total episodes: 44_
+_Total episodes: 45_
 
 <div class="page-filter-container">
   <input type="text" class="page-filter" placeholder="Filter episodes..." autocomplete="off">
@@ -25,6 +25,7 @@ _Total episodes: 44_
 
 ## Week of Dec 08 - 14, 2025
 
+- [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md) — Wed, Dec 10
 - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md) — Tue, Dec 09
 - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md) — Mon, Dec 08
 

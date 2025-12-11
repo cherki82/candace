@@ -13,17 +13,6 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
-
-**[00:42:40](/episodes/ep-YA1FxrDWNIo.md#ent-person-bob-shillman-t-00-42-16)**
-> "...ra Loomer is calling him anti-Semite, and she's funded by one of Charlie's (Charlie Kirk's) donors, Bob Shillman—who then does a 180 and is now pretending that she is morally fighting me to stop researching into ..."
-
-**[00:42:40](/episodes/ep-YA1FxrDWNIo.md#ent-person-bob-shillman-t-00-42-16)**
-> "...ie's (Charlie Kirk's) donors, Bob Shillman—who then does a 180 and is now pretending that sh..."
-
-</details>
-
-<details>
 <summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
 
 **[00:34:58](/episodes/ep-YFmRH8p5lt0.md#ent-person-bob-shillman-t-00-34-46)**
@@ -31,6 +20,17 @@ _Type: People_
 
 **[00:34:58](/episodes/ep-YFmRH8p5lt0.md#ent-person-bob-shillman-t-00-34-46)**
 > "Bob Shillman is angry."
+
+</details>
+
+<details>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
+
+**[00:42:40](/episodes/ep-YA1FxrDWNIo.md#ent-person-bob-shillman-t-00-42-16)**
+> "...ra Loomer is calling him anti-Semite, and she's funded by one of Charlie's (Charlie Kirk's) donors, Bob Shillman—who then does a 180 and is now pretending that she is morally fighting me to stop researching into ..."
+
+**[00:42:40](/episodes/ep-YA1FxrDWNIo.md#ent-person-bob-shillman-t-00-42-16)**
+> "...ie's (Charlie Kirk's) donors, Bob Shillman—who then does a 180 and is now pretending that sh..."
 
 </details>
 

@@ -13,6 +13,17 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+
+**[00:16:36](/episodes/ep-tB5SXXmd9vU.md#ent-org-minot-air-force-base-t-00-16-09)**
+> "...amp began immediately. It was a joint exercise with civilians, which included military men from the Minot Air Force Base. And that joint exercise took place in Minnesota at Camp Ripley, and that ran just for a couple of ..."
+
+**[00:16:36](/episodes/ep-tB5SXXmd9vU.md#ent-org-minot-air-force-base-t-00-16-09)**
+> "...ncluded military men from the Minot Air Force Base."
+
+</details>
+
+<details>
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (7 mentions)</summary>
 
 **[00:08:36](/episodes/ep-mKXdKV-OBog.md#ent-org-minot-air-force-base-t-00-08-31)**
@@ -35,17 +46,6 @@ _Type: Organizations_
 
 **[00:09:13](/episodes/ep-mKXdKV-OBog.md#ent-org-minot-air-force-base-t-00-09-13)**
 > "at the Minot Air Force Base, including full-distance live-fire exercises."
-
-</details>
-
-<details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
-
-**[00:16:36](/episodes/ep-tB5SXXmd9vU.md#ent-org-minot-air-force-base-t-00-16-09)**
-> "...amp began immediately. It was a joint exercise with civilians, which included military men from the Minot Air Force Base. And that joint exercise took place in Minnesota at Camp Ripley, and that ran just for a couple of ..."
-
-**[00:16:36](/episodes/ep-tB5SXXmd9vU.md#ent-org-minot-air-force-base-t-00-16-09)**
-> "...ncluded military men from the Minot Air Force Base."
 
 </details>
 

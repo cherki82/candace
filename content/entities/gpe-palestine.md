@@ -13,10 +13,13 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
-**[00:43:56](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-palestine-t-00-43-41)**
-> "No, TikTok was going pro-Palestine, and a bunch of hedge fund people who are pro-Isr..."
+**[00:44:47](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-palestine-t-00-44-34)**
+> "in Palestine and trying to legitimize it to my audience by tel..."
+
+**[00:59:28](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-palestine-t-00-59-18)**
+> "...ble that has a map that shows Palestine, burn the Bible.'""
 
 </details>
 
@@ -40,21 +43,18 @@ _Type: Places_
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (1 mentions)</summary>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1 mentions)</summary>
 
-**[00:55:58](/episodes/ep-sreYYcID-QY.md#ent-gpe-palestine-t-00-55-46)**
-> "It's just me, free Palestine, and the U.S."
+**[00:43:56](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-palestine-t-00-43-41)**
+> "No, TikTok was going pro-Palestine, and a bunch of hedge fund people who are pro-Isr..."
 
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (1 mentions)</summary>
 
-**[00:44:47](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-palestine-t-00-44-34)**
-> "in Palestine and trying to legitimize it to my audience by tel..."
-
-**[00:59:28](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-palestine-t-00-59-18)**
-> "...ble that has a map that shows Palestine, burn the Bible.'""
+**[00:55:58](/episodes/ep-sreYYcID-QY.md#ent-gpe-palestine-t-00-55-46)**
+> "It's just me, free Palestine, and the U.S."
 
 </details>
 

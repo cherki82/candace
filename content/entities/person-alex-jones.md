@@ -13,6 +13,28 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
+
+**[00:59:36](/episodes/ep-LATnak75Si0.md#ent-person-alex-jones-t-00-59-19)**
+> "... go. Raven writes: "Brandon Briggs said on his last day's show to pray for Candace (Candace Owens), Alex Jones, and Tucker (Tucker Carlson) Carlson—bold voices that are exposing darkness. May Jesus Christ of Na..."
+
+**[00:59:36](/episodes/ep-LATnak75Si0.md#ent-person-alex-jones-t-00-59-19)**
+> "... for Candace (Candace Owens), Alex Jones, and Tucker (Tucker Carlson) Carlson—bold voices ..."
+
+</details>
+
+<details>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (2 mentions)</summary>
+
+**[00:28:23](/episodes/ep-pc3pxRyNFZk.md#ent-person-alex-jones-t-00-28-07)**
+> "...oking for a shooter that was in the audience and to the left. I've seen you guys. I saw some guy on Alex Jones. I created— like he created a whole web and explained and did this all on a computer of where the t..."
+
+**[00:28:23](/episodes/ep-pc3pxRyNFZk.md#ent-person-alex-jones-t-00-28-07)**
+> "I saw some guy on Alex Jones. I created—"
+
+</details>
+
+<details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (4 mentions)</summary>
 
 **[00:53:31](/episodes/ep-2Riv3I7D0Yk.md#ent-person-alex-jones-t-00-53-26)**
@@ -30,13 +52,24 @@ _Type: People_
 </details>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
 
-**[00:59:36](/episodes/ep-LATnak75Si0.md#ent-person-alex-jones-t-00-59-19)**
-> "... go. Raven writes: "Brandon Briggs said on his last day's show to pray for Candace (Candace Owens), Alex Jones, and Tucker (Tucker Carlson) Carlson—bold voices that are exposing darkness. May Jesus Christ of Na..."
+**[00:21:20](/episodes/ep-t1YtLS1n8Vs.md#ent-person-alex-jones-t-00-21-03)**
+> "...ng. He ran for Utah governor in 2024. He featured George Zinn on his website at that time, spoke to Alex Jones, Fox News, NewsNation, really anybody that would have him. Now we have Olivia Bishop; she works for..."
 
-**[00:59:36](/episodes/ep-LATnak75Si0.md#ent-person-alex-jones-t-00-59-19)**
-> "... for Candace (Candace Owens), Alex Jones, and Tucker (Tucker Carlson) Carlson—bold voices ..."
+**[00:21:20](/episodes/ep-t1YtLS1n8Vs.md#ent-person-alex-jones-t-00-21-03)**
+> "...ebsite at that time, spoke to Alex Jones, Fox News, NewsNation, really anybody that would ..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
+
+**[00:22:59](/episodes/ep-adJ4LNGp84I.md#ent-person-alex-jones-t-00-22-22)**
+> "...ker Carlson) was on the hit list, and actually, I forgot the name of the individual that worked for Alex Jones who got killed, but he was similarly on a Ukrainian hit list. It's something that I think should be..."
+
+**[00:22:59](/episodes/ep-adJ4LNGp84I.md#ent-person-alex-jones-t-00-22-22)**
+> "...he individual that worked for Alex Jones who got killed, but he was similarly on a Ukraini..."
 
 </details>
 
@@ -78,17 +111,6 @@ _Type: People_
 </details>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
-
-**[00:22:59](/episodes/ep-adJ4LNGp84I.md#ent-person-alex-jones-t-00-22-22)**
-> "...ker Carlson) was on the hit list, and actually, I forgot the name of the individual that worked for Alex Jones who got killed, but he was similarly on a Ukrainian hit list. It's something that I think should be..."
-
-**[00:22:59](/episodes/ep-adJ4LNGp84I.md#ent-person-alex-jones-t-00-22-22)**
-> "...he individual that worked for Alex Jones who got killed, but he was similarly on a Ukraini..."
-
-</details>
-
-<details>
 <summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (4 mentions)</summary>
 
 **[00:12:12](/episodes/ep-ja26iltROkM.md#ent-person-alex-jones-t-00-11-35)**
@@ -102,28 +124,6 @@ _Type: People_
 
 **[00:12:16](/episodes/ep-ja26iltROkM.md#ent-person-alex-jones-t-00-12-16)**
 > "... saying this. Take a listen. (Alex Jones clip)"
-
-</details>
-
-<details>
-<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (2 mentions)</summary>
-
-**[00:28:23](/episodes/ep-pc3pxRyNFZk.md#ent-person-alex-jones-t-00-28-07)**
-> "...oking for a shooter that was in the audience and to the left. I've seen you guys. I saw some guy on Alex Jones. I created— like he created a whole web and explained and did this all on a computer of where the t..."
-
-**[00:28:23](/episodes/ep-pc3pxRyNFZk.md#ent-person-alex-jones-t-00-28-07)**
-> "I saw some guy on Alex Jones. I created—"
-
-</details>
-
-<details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
-
-**[00:21:20](/episodes/ep-t1YtLS1n8Vs.md#ent-person-alex-jones-t-00-21-03)**
-> "...ng. He ran for Utah governor in 2024. He featured George Zinn on his website at that time, spoke to Alex Jones, Fox News, NewsNation, really anybody that would have him. Now we have Olivia Bishop; she works for..."
-
-**[00:21:20](/episodes/ep-t1YtLS1n8Vs.md#ent-person-alex-jones-t-00-21-03)**
-> "...ebsite at that time, spoke to Alex Jones, Fox News, NewsNation, really anybody that would ..."
 
 </details>
 

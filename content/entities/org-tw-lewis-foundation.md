@@ -40,17 +40,14 @@ _Type: Organizations_
 <details>
 <summary>Owns (1)</summary>
 
-- **[N560TW](/entities/work-n560tw.md)**
+- **[N560TW](/entities/vehicle-n560tw.md)**
 
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (1)</summary>
 
-- **[Turning Point USA](/entities/org-turning-point-usa.md)** affiliated with this
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:28:18](/episodes/ep-SKGUzGHymcI.md#t-00-27-51)
-
-- **[N560TW](/entities/work-n560tw.md)** owned by this
+- **[N560TW](/entities/vehicle-n560tw.md)** owned by this
 
 </details>
 

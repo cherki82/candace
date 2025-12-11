@@ -1,11 +1,11 @@
 ---
 title: "Game of Thrones"
-description: "Game of Thrones (Work) - 4 mentions"
+description: "Game of Thrones (Works & Media) - 4 mentions"
 id: "work-game-of-thrones"
 type: "WORK"
 ---
 
-_Type: Work_
+_Type: Works & Media_
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

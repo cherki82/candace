@@ -13,13 +13,10 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
 
-**[00:42:32](/episodes/ep-LATnak75Si0.md#ent-person-elizabeth-mccoy-t-00-42-01)**
-> "... his first phone calls—it wasn't just two phone calls he made; he made three. 'Cause he also called Elizabeth McCoy, his wife, who screamed at the office. Okay? And so we're not being told the truth. That's what I'm..."
-
-**[00:42:32](/episodes/ep-LATnak75Si0.md#ent-person-elizabeth-mccoy-t-00-42-01)**
-> "'Cause he also called Elizabeth McCoy, his wife, who screamed at the office."
+**[00:19:03](/episodes/ep-a-e7HC6SeK8.md#t-00-18-23)**
+> "We've got Mikey McCoy and his wife, Eliza, that join them for the first time."
 
 </details>
 
@@ -41,10 +38,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
 
-**[00:19:03](/episodes/ep-a-e7HC6SeK8.md#t-00-18-23)**
-> "We've got Mikey McCoy and his wife, Eliza, that join them for the first time."
+**[00:42:32](/episodes/ep-LATnak75Si0.md#ent-person-elizabeth-mccoy-t-00-42-01)**
+> "... his first phone calls—it wasn't just two phone calls he made; he made three. 'Cause he also called Elizabeth McCoy, his wife, who screamed at the office. Okay? And so we're not being told the truth. That's what I'm..."
+
+**[00:42:32](/episodes/ep-LATnak75Si0.md#ent-person-elizabeth-mccoy-t-00-42-01)**
+> "'Cause he also called Elizabeth McCoy, his wife, who screamed at the office."
 
 </details>
 
@@ -52,15 +52,6 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
-
-<details>
-<summary>Married To (1)</summary>
-
-- **[Mike McCoy](/entities/person-mikey-mccoy.md)**
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:30:00](/episodes/ep-SKGUzGHymcI.md#t-00-29-52): "Elizabeth McCoy, the amazing Mike McCoy's wife."
-  - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:15:47](/episodes/ep-Qfwr08Ebczo.md#t-00-15-33): "When McCoy's responsibilities grew at Turning Point USA, he and his wife sold their home"
-
-</details>
 
 <details>
 <summary>Met With (1)</summary>
@@ -71,11 +62,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
-
-- **[Mike McCoy](/entities/person-mikey-mccoy.md)** married to this
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:30:00](/episodes/ep-SKGUzGHymcI.md#t-00-29-52)
-  - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:15:47](/episodes/ep-Qfwr08Ebczo.md#t-00-15-33)
+<summary>Referenced By (1)</summary>
 
 - **[Mikey McCoy](/entities/person-mikey-mccoy.md)** met with this
   - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:30:08](/episodes/ep-SKGUzGHymcI.md#t-00-29-52)

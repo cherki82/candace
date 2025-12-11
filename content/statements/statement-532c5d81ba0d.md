@@ -22,7 +22,7 @@ type: "factual_claim"
 
 - [United States Pentagon](/entities/org-united-states-pentagon.md) (org)
 - [White House](/entities/org-white-house.md) (org)
-- [Élysée Palace](/entities/org-elysee-palace.md) (org)
+- [Élysée Palace](/entities/gpe-elysee-palace.md) (gpe)
 - [Emmanuel Macron](/entities/person-emmanuel-macron.md) (person)
 - [Brigitte Macron](/entities/person-brigitte-macron.md) (person)
 

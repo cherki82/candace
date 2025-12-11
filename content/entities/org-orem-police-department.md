@@ -21,17 +21,6 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2 mentions)</summary>
-
-**[00:15:46](/episodes/ep-K5GjF53bfN4.md#ent-org-orem-police-department-t-00-15-27)**
-> "...arlier this week. He told us the exact same thing. He says he walked in and gave the footage to the Orem Police Department, okay? And they said, "You know, we were overwhelmed on that day one," which makes sense. Everybody..."
-
-**[00:15:46](/episodes/ep-K5GjF53bfN4.md#ent-org-orem-police-department-t-00-15-27)**
-> "to the Orem Police Department, okay?"
-
-</details>
-
-<details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (6 mentions)</summary>
 
 **[00:19:20](/episodes/ep-t1YtLS1n8Vs.md#ent-org-orem-police-department-t-00-18-54)**
@@ -51,6 +40,17 @@ _Type: Organizations_
 
 **[00:19:58](/episodes/ep-t1YtLS1n8Vs.md#ent-org-orem-police-department-t-00-19-35)**
 > "...ondering, if you work for the Orem Police Department, what were you doing going to a Charlie (Charlie ..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2 mentions)</summary>
+
+**[00:15:46](/episodes/ep-K5GjF53bfN4.md#ent-org-orem-police-department-t-00-15-27)**
+> "...arlier this week. He told us the exact same thing. He says he walked in and gave the footage to the Orem Police Department, okay? And they said, "You know, we were overwhelmed on that day one," which makes sense. Everybody..."
+
+**[00:15:46](/episodes/ep-K5GjF53bfN4.md#ent-org-orem-police-department-t-00-15-27)**
+> "to the Orem Police Department, okay?"
 
 </details>
 

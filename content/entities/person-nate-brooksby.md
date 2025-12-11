@@ -17,6 +17,20 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (3 mentions)</summary>
+
+**[00:40:42](/episodes/ep-sImMM04XdWY.md#ent-person-nate-brooksby-t-00-40-42)**
+> "... TV News Investigating. (Clip from KUER TV News) On September 17th, 2025, Washington County Sheriff Nate Brooksby held a press conference. "Our job was not to interview; our job was just to get him here." After Ch..."
+
+**[00:40:42](/episodes/ep-sImMM04XdWY.md#ent-person-nate-brooksby-t-00-40-42)**
+> "...25, Washington County Sheriff Nate Brooksby held a press conference."
+
+**[00:40:42](/episodes/ep-sImMM04XdWY.md#ent-person-nate-brooksby-t-00-40-42)**
+> "...ashington County Sheriff Nate Brooksby held a press conference."
+
+</details>
+
+<details>
 <summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (21 mentions)</summary>
 
 **[00:08:57](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-nate-brooksby-t-00-08-57)**
@@ -81,20 +95,6 @@ _Type: People_
 
 **[00:51:00](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-nate-brooksby-t-00-50-29)**
 > "And I think Brooksby has some nervous energy there when he's like, “Oh..."
-
-</details>
-
-<details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (3 mentions)</summary>
-
-**[00:40:42](/episodes/ep-sImMM04XdWY.md#ent-person-nate-brooksby-t-00-40-42)**
-> "... TV News Investigating. (Clip from KUER TV News) On September 17th, 2025, Washington County Sheriff Nate Brooksby held a press conference. "Our job was not to interview; our job was just to get him here." After Ch..."
-
-**[00:40:42](/episodes/ep-sImMM04XdWY.md#ent-person-nate-brooksby-t-00-40-42)**
-> "...25, Washington County Sheriff Nate Brooksby held a press conference."
-
-**[00:40:42](/episodes/ep-sImMM04XdWY.md#ent-person-nate-brooksby-t-00-40-42)**
-> "...ashington County Sheriff Nate Brooksby held a press conference."
 
 </details>
 

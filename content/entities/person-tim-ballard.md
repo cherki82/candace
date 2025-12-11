@@ -24,6 +24,17 @@ _Type: People_
 </details>
 
 <details>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
+
+**[01:00:38](/episodes/ep-YFmRH8p5lt0.md#ent-person-tim-ballard-t-01-00-21)**
+> "...kely part of an operation. All these people that they wanted me to platform: Lila Rose, Jack Hibbs, Tim Ballard. I look back on that stuff, and I'm reflecting, and I realize that—like I said—I had handlers, and ..."
+
+**[01:00:38](/episodes/ep-YFmRH8p5lt0.md#ent-person-tim-ballard-t-01-00-21)**
+> "Tim Ballard. I look back on that stuff, and I'm reflecting, a..."
+
+</details>
+
+<details>
 <summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (6 mentions)</summary>
 
 **[00:05:48](/episodes/ep-YA1FxrDWNIo.md#ent-person-tim-ballard-t-00-05-38)**
@@ -43,17 +54,6 @@ _Type: People_
 
 **[00:06:25](/episodes/ep-YA1FxrDWNIo.md#ent-person-tim-ballard-t-00-06-12)**
 > "I am going to reach out to Tim Ballard."
-
-</details>
-
-<details>
-<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
-
-**[01:00:38](/episodes/ep-YFmRH8p5lt0.md#ent-person-tim-ballard-t-01-00-21)**
-> "...kely part of an operation. All these people that they wanted me to platform: Lila Rose, Jack Hibbs, Tim Ballard. I look back on that stuff, and I'm reflecting, and I realize that—like I said—I had handlers, and ..."
-
-**[01:00:38](/episodes/ep-YFmRH8p5lt0.md#ent-person-tim-ballard-t-01-00-21)**
-> "Tim Ballard. I look back on that stuff, and I'm reflecting, a..."
 
 </details>
 

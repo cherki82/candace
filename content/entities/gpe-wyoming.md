@@ -17,6 +17,34 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (4 mentions)</summary>
+
+**[00:12:41](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-wyoming-t-00-12-37)**
+> "...—when you have an LLC, you're supposed to have a registered agent—and people tend to choose between Wyoming and Delaware, sometimes Las Vegas, to form their own corporations. But wow—what are the chances tha..."
+
+**[00:30:09](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-wyoming-t-00-30-00)**
+> "...ecause—again—this happened so early following the assassination. I am talking before I even went to Wyoming. My brain was still traumatized. I had so much information that I was trying to process while I was..."
+
+**[00:12:41](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-wyoming-t-00-12-37)**
+> "...people tend to choose between Wyoming and Delaware, sometimes Las Vegas, to form their ..."
+
+**[00:30:09](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-wyoming-t-00-30-00)**
+> "...talking before I even went to Wyoming."
+
+</details>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
+
+**[00:01:43](/episodes/ep-sImMM04XdWY.md#ent-gpe-wyoming-t-00-01-32)**
+> "...erience. I didn't want to accept things. Obviously, you know, that's the reason that I went away to Wyoming. But with every... week that we move further from September 10th, I have more clarity. And I'm star..."
+
+**[00:01:43](/episodes/ep-sImMM04XdWY.md#ent-gpe-wyoming-t-00-01-32)**
+> "...he reason that I went away to Wyoming."
+
+</details>
+
+<details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:53:16](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-wyoming-t-00-53-05)**
@@ -39,6 +67,28 @@ _Type: Places_
 </details>
 
 <details>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
+
+**[00:03:13](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-wyoming-t-00-02-47)**
+> "...ow, and I circled back to the Egyptian military plane. I had simply tweeted about it while I was in Wyoming, obviously recognizing that it was not normal that this Egyptian military plane had departed on the..."
+
+**[00:03:13](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-wyoming-t-00-02-47)**
+> "...eeted about it while I was in Wyoming, obviously recognizing that it was not normal tha..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
+
+**[00:01:17](/episodes/ep-iHav0PPzUz8.md#ent-gpe-wyoming-t-00-00-41)**
+> "...ce Owens: Welcome back to Candace (Candace Owens). Candace Owens: All right, so while I was away in Wyoming, I received a rather shocking tip. Candace Owens: There were, as I am sure you are aware, some inex..."
+
+**[00:01:17](/episodes/ep-iHav0PPzUz8.md#ent-gpe-wyoming-t-00-00-41)**
+> "...right, so while I was away in Wyoming, I received a rather shocking tip."
+
+</details>
+
+<details>
 <summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (4 mentions)</summary>
 
 **[00:00:26](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-wyoming-t-00-00-00)**
@@ -52,34 +102,6 @@ _Type: Places_
 
 **[00:46:16](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-wyoming-t-00-45-37)**
 > "When we were in Wyoming, we traveled with priests."
-
-</details>
-
-<details>
-<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
-
-**[00:03:13](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-wyoming-t-00-02-47)**
-> "...ow, and I circled back to the Egyptian military plane. I had simply tweeted about it while I was in Wyoming, obviously recognizing that it was not normal that this Egyptian military plane had departed on the..."
-
-**[00:03:13](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-wyoming-t-00-02-47)**
-> "...eeted about it while I was in Wyoming, obviously recognizing that it was not normal tha..."
-
-</details>
-
-<details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (4 mentions)</summary>
-
-**[00:12:41](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-wyoming-t-00-12-37)**
-> "...—when you have an LLC, you're supposed to have a registered agent—and people tend to choose between Wyoming and Delaware, sometimes Las Vegas, to form their own corporations. But wow—what are the chances tha..."
-
-**[00:30:09](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-wyoming-t-00-30-00)**
-> "...ecause—again—this happened so early following the assassination. I am talking before I even went to Wyoming. My brain was still traumatized. I had so much information that I was trying to process while I was..."
-
-**[00:12:41](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-wyoming-t-00-12-37)**
-> "...people tend to choose between Wyoming and Delaware, sometimes Las Vegas, to form their ..."
-
-**[00:30:09](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-wyoming-t-00-30-00)**
-> "...talking before I even went to Wyoming."
 
 </details>
 
@@ -145,28 +167,6 @@ _Type: Places_
 
 **[00:42:06](/episodes/ep-c5BcKF91iec.md#ent-gpe-wyoming-t-00-41-43)**
 > "...that Charlie and I were on in Wyoming one time, we were discussing the death penalty."
-
-</details>
-
-<details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
-
-**[00:01:17](/episodes/ep-iHav0PPzUz8.md#ent-gpe-wyoming-t-00-00-41)**
-> "...ce Owens: Welcome back to Candace (Candace Owens). Candace Owens: All right, so while I was away in Wyoming, I received a rather shocking tip. Candace Owens: There were, as I am sure you are aware, some inex..."
-
-**[00:01:17](/episodes/ep-iHav0PPzUz8.md#ent-gpe-wyoming-t-00-00-41)**
-> "...right, so while I was away in Wyoming, I received a rather shocking tip."
-
-</details>
-
-<details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
-
-**[00:01:43](/episodes/ep-sImMM04XdWY.md#ent-gpe-wyoming-t-00-01-32)**
-> "...erience. I didn't want to accept things. Obviously, you know, that's the reason that I went away to Wyoming. But with every... week that we move further from September 10th, I have more clarity. And I'm star..."
-
-**[00:01:43](/episodes/ep-sImMM04XdWY.md#ent-gpe-wyoming-t-00-01-32)**
-> "...he reason that I went away to Wyoming."
 
 </details>
 

@@ -282,7 +282,7 @@ youtube_url: "https://www.youtube.com/watch?v=Qfwr08Ebczo"
 
 **People:** [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Blake Neff](/entities/person-blake-neff.md), [C.S. Lewis](/entities/person-cs-lewis.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Smith](/entities/person-dave-smith.md), [Donald Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erika-kirk.md), [George Zinn](/entities/person-george-zinn.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Kash Patel](/entities/person-kash-patel.md), [Mark Levin](/entities/person-mark-levin.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Sam Parker](/entities/person-sam-parker.md), [Sigmund Freud](/entities/person-sigmund-freud.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Wilks Brothers](/entities/person-wilks-brothers.md)
 
-**Work:** [Make Him a Sandwich](/entities/work-make-him-a-sandwich.md), [Succession](/entities/work-succession.md), [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)
+**Works & Media:** [Make Him a Sandwich](/entities/work-make-him-a-sandwich.md), [Succession](/entities/work-succession.md), [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)
 
 </details>
 

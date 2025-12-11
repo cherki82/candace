@@ -28,21 +28,7 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Sibling Of (1)</summary>
-
-- **[Britney Spears](/entities/person-britney-spears.md)**
-  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:06:40](/episodes/ep-7RLtGgkTh9o.md#t-00-06-14): "younger sister, Jamie Lynn"
-
-</details>
-
-<details>
-<summary>Referenced By (1)</summary>
-
-- **[Britney Spears](/entities/person-britney-spears.md)** sibling of this
-  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:06:40](/episodes/ep-7RLtGgkTh9o.md#t-00-06-14)
-
-</details>
+_No relationships extracted yet._
 
 </details>
 

@@ -29,20 +29,6 @@ _Type: Organizations_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Affiliated With (1)</summary>
-
-- **[Incyte](/entities/org-incyte.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:34:23](/episodes/ep-tB5SXXmd9vU.md#t-00-33-53): ""Incyte... is also plugged directly into the federal medical supply chains, which include our VA systems...""
-
-</details>
-
-<details>
-<summary>Referenced By (1)</summary>
-
-- **[Incyte](/entities/org-incyte.md)** affiliated with this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:34:23](/episodes/ep-tB5SXXmd9vU.md#t-00-33-53)
-
-</details>
+_No relationships extracted yet._
 
 </details>

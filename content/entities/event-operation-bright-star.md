@@ -45,34 +45,6 @@ _Type: Events_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Affiliated With (3)</summary>
-
-- **[United States military](/entities/org-united-states-military.md)**
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:24:34](/episodes/ep-a-e7HC6SeK8.md#t-00-24-09): "[00:24:34] On the 29th, we have Operation Bright Star, which commences—that joint operation that we told you about, which is biennial between Egypt and the United States military and other countries that are coming together."
-
-- **[Egypt](/entities/gpe-egypt.md)**
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:24:34](/episodes/ep-a-e7HC6SeK8.md#t-00-24-09): "[00:24:34] On the 29th, we have Operation Bright Star, which commences—that joint operation that we told you about, which is biennial between Egypt and the United States military and other countries that are coming together."
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:22:08](/episodes/ep-tB5SXXmd9vU.md#t-00-21-46): ""It's co-hosted by the United States and Egypt to enhance regional security...""
-
-- **[United States](/entities/gpe-united-states.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:22:08](/episodes/ep-tB5SXXmd9vU.md#t-00-21-46): ""It's co-hosted by the United States and Egypt to enhance regional security...""
-
-</details>
-
-<details>
-<summary>Referenced By (3)</summary>
-
-- **[United States military](/entities/org-united-states-military.md)** affiliated with this
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:24:34](/episodes/ep-a-e7HC6SeK8.md#t-00-24-09)
-
-- **[Egypt](/entities/gpe-egypt.md)** affiliated with this
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:24:34](/episodes/ep-a-e7HC6SeK8.md#t-00-24-09)
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:22:08](/episodes/ep-tB5SXXmd9vU.md#t-00-21-46)
-
-- **[United States](/entities/gpe-united-states.md)** affiliated with this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:22:08](/episodes/ep-tB5SXXmd9vU.md#t-00-21-46)
-
-</details>
+_No relationships extracted yet._
 
 </details>

@@ -22,7 +22,7 @@ type: "factual_claim"
 
 - [François Mitterrand](/entities/person-francois-mitterrand.md) (person)
 - [Jean-Christophe Mitterrand](/entities/person-jean-christophe-mitterrand.md) (person)
-- [Angola Gate](/entities/concept-angola-gate.md) (concept)
+- [Angolagate scandal](/entities/event-angola-gate.md) (event)
 
 ## Source
 

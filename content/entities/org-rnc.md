@@ -17,17 +17,6 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2 mentions)</summary>
-
-**[00:07:37](/episodes/ep-YaZfwLQ7vrI.md#t-00-07-31)**
-> "...hen I heard that pipe bombs were mysteriously dropped off the night before at the DNC headquarters, RNC headquarters. And we just don't know who did that because I live there, and there—I mean, it's the ..."
-
-**[00:07:37](/episodes/ep-YaZfwLQ7vrI.md#t-00-07-31)**
-> "...fore at the DNC headquarters, RNC headquarters."
-
-</details>
-
-<details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (5 mentions)</summary>
 
 **[00:39:30](/episodes/ep-ZAuuSq_j2_w.md#t-00-39-23)**
@@ -44,6 +33,17 @@ _Type: Organizations_
 
 **[00:39:32](/episodes/ep-ZAuuSq_j2_w.md#t-00-39-23)**
 > "He didn't want to become the RNC."
+
+</details>
+
+<details>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2 mentions)</summary>
+
+**[00:07:37](/episodes/ep-YaZfwLQ7vrI.md#t-00-07-31)**
+> "...hen I heard that pipe bombs were mysteriously dropped off the night before at the DNC headquarters, RNC headquarters. And we just don't know who did that because I live there, and there—I mean, it's the ..."
+
+**[00:07:37](/episodes/ep-YaZfwLQ7vrI.md#t-00-07-31)**
+> "...fore at the DNC headquarters, RNC headquarters."
 
 </details>
 

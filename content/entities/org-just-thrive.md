@@ -17,6 +17,26 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (5 mentions)</summary>
+
+**[00:31:35](/episodes/ep-c5BcKF91iec.md#ent-org-just-thrive-t-00-31-20)**
+> "That's what makes Just Thrive's spore-based probiotic completely different."
+
+**[00:31:38](/episodes/ep-c5BcKF91iec.md#ent-org-just-thrive-t-00-31-20)**
+> "Just Thrive is the only probiotic that is clinically proven t..."
+
+**[00:31:55](/episodes/ep-c5BcKF91iec.md#ent-org-just-thrive-t-00-31-20)**
+> "You can take Just Thrive probiotic in the form of a capsule or berry-flavo..."
+
+**[00:31:59](/episodes/ep-c5BcKF91iec.md#ent-org-just-thrive-t-00-31-59)**
+> "...and brain health supplements, Just Thrive has been fighting to make Americans healthy again..."
+
+**[00:32:21](/episodes/ep-c5BcKF91iec.md#ent-org-just-thrive-t-00-31-59)**
+> "Take control today with Just Thrive."
+
+</details>
+
+<details>
 <summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (7 mentions)</summary>
 
 **[00:36:53](/episodes/ep-K5GjF53bfN4.md#ent-org-just-thrive-t-00-36-43)**
@@ -39,26 +59,6 @@ _Type: Organizations_
 
 **[00:37:55](/episodes/ep-K5GjF53bfN4.md#ent-org-just-thrive-t-00-37-25)**
 > "...u can take control today with Just Thrive."
-
-</details>
-
-<details>
-<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (5 mentions)</summary>
-
-**[00:31:35](/episodes/ep-c5BcKF91iec.md#ent-org-just-thrive-t-00-31-20)**
-> "That's what makes Just Thrive's spore-based probiotic completely different."
-
-**[00:31:38](/episodes/ep-c5BcKF91iec.md#ent-org-just-thrive-t-00-31-20)**
-> "Just Thrive is the only probiotic that is clinically proven t..."
-
-**[00:31:55](/episodes/ep-c5BcKF91iec.md#ent-org-just-thrive-t-00-31-20)**
-> "You can take Just Thrive probiotic in the form of a capsule or berry-flavo..."
-
-**[00:31:59](/episodes/ep-c5BcKF91iec.md#ent-org-just-thrive-t-00-31-59)**
-> "...and brain health supplements, Just Thrive has been fighting to make Americans healthy again..."
-
-**[00:32:21](/episodes/ep-c5BcKF91iec.md#ent-org-just-thrive-t-00-31-59)**
-> "Take control today with Just Thrive."
 
 </details>
 

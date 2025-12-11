@@ -13,6 +13,14 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>
+
+**[00:41:32](/episodes/ep-Kmt6HgRjckU.md#ent-org-daily-mail-t-00-41-32)**
+> "I did see that the Daily Mail broke the story about the life insurance policy t..."
+
+</details>
+
+<details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4 mentions)</summary>
 
 **[00:12:15](/episodes/ep-7RLtGgkTh9o.md#ent-org-daily-mail-t-00-12-06)**
@@ -26,47 +34,6 @@ _Type: Organizations_
 
 **[00:56:32](/episodes/ep-7RLtGgkTh9o.md#ent-org-daily-mail-t-00-55-59)**
 > "Even yesterday—the Daily Mail—their AIPAC reporter, Victoria Churchill—"
-
-</details>
-
-<details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>
-
-**[00:41:32](/episodes/ep-Kmt6HgRjckU.md#ent-org-daily-mail-t-00-41-32)**
-> "I did see that the Daily Mail broke the story about the life insurance policy t..."
-
-</details>
-
-<details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
-
-**[00:32:02](/episodes/ep-YA1FxrDWNIo.md#ent-org-daily-mail-t-00-31-28)**
-> "...nd fired not only the chief of the Utah bureau, but also some other people. You can see this in the Daily Mail article. They recount this after Charlie's (Charlie Kirk's) death. “Kash Patel questions grow as it..."
-
-**[00:32:02](/episodes/ep-YA1FxrDWNIo.md#ent-org-daily-mail-t-00-31-28)**
-> "You can see this in the Daily Mail article."
-
-</details>
-
-<details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2 mentions)</summary>
-
-**[00:24:32](/episodes/ep-aDlhjfW6hz8.md#ent-org-daily-mail-t-00-24-00)**
-> "...hat are just so nakedly deceptive that people go, okay, why am I even reading this publication? The Daily Mail put out this headline about me. I can't even—like—this. Look at this journalist, Victoria Churchill..."
-
-**[00:24:32](/episodes/ep-aDlhjfW6hz8.md#ent-org-daily-mail-t-00-24-00)**
-> "The Daily Mail put out this headline about me."
-
-</details>
-
-<details>
-<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (2 mentions)</summary>
-
-**[00:44:31](/episodes/ep-c5BcKF91iec.md#ent-org-daily-mail-t-00-44-31)**
-> "...on't have a microphone, okay—who maybe don't have a podcast, who maybe can't write articles for the Daily Mail—are standing by him, are standing on the side of goodness. And we are going to see this thing out. ..."
-
-**[00:44:31](/episodes/ep-c5BcKF91iec.md#ent-org-daily-mail-t-00-44-31)**
-> "... can't write articles for the Daily Mail—are standing by him, are standing on the side of ..."
 
 </details>
 
@@ -91,6 +58,28 @@ _Type: Organizations_
 </details>
 
 <details>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (2 mentions)</summary>
+
+**[00:44:31](/episodes/ep-c5BcKF91iec.md#ent-org-daily-mail-t-00-44-31)**
+> "...on't have a microphone, okay—who maybe don't have a podcast, who maybe can't write articles for the Daily Mail—are standing by him, are standing on the side of goodness. And we are going to see this thing out. ..."
+
+**[00:44:31](/episodes/ep-c5BcKF91iec.md#ent-org-daily-mail-t-00-44-31)**
+> "... can't write articles for the Daily Mail—are standing by him, are standing on the side of ..."
+
+</details>
+
+<details>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
+
+**[00:32:02](/episodes/ep-YA1FxrDWNIo.md#ent-org-daily-mail-t-00-31-28)**
+> "...nd fired not only the chief of the Utah bureau, but also some other people. You can see this in the Daily Mail article. They recount this after Charlie's (Charlie Kirk's) death. “Kash Patel questions grow as it..."
+
+**[00:32:02](/episodes/ep-YA1FxrDWNIo.md#ent-org-daily-mail-t-00-31-28)**
+> "You can see this in the Daily Mail article."
+
+</details>
+
+<details>
 <summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2 mentions)</summary>
 
 **[00:55:47](/episodes/ep-ja26iltROkM.md#ent-org-daily-mail-t-00-55-47)**
@@ -98,6 +87,17 @@ _Type: Organizations_
 
 **[00:55:47](/episodes/ep-ja26iltROkM.md#ent-org-daily-mail-t-00-55-47)**
 > "... invited to speak. And as the Daily Mail pointed out, I raged and raged about that."
+
+</details>
+
+<details>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2 mentions)</summary>
+
+**[00:24:32](/episodes/ep-aDlhjfW6hz8.md#ent-org-daily-mail-t-00-24-00)**
+> "...hat are just so nakedly deceptive that people go, okay, why am I even reading this publication? The Daily Mail put out this headline about me. I can't even—like—this. Look at this journalist, Victoria Churchill..."
+
+**[00:24:32](/episodes/ep-aDlhjfW6hz8.md#ent-org-daily-mail-t-00-24-00)**
+> "The Daily Mail put out this headline about me."
 
 </details>
 

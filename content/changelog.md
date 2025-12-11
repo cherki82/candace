@@ -5,6 +5,24 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2025-12-11 11:24:16
+
+**Added 1 episode(s):**
+  - `6DhWawD4ZiM`: UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278
+**Added 27 new entity/entities**
+**Removed 13 entity/entities**
+**Added 8 new event(s)**
+**Removed 137 relationship(s)**
+
+**Totals:**
+- Episodes: 46
+- Entities: 1019
+- Events: 601
+- Claims: 1400
+- Relationships: 864
+
+---
+
 ## 2025-12-10 18:05:37
 
 No data changes detected (regeneration only)

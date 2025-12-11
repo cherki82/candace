@@ -17,23 +17,6 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (4 mentions)</summary>
-
-**[00:38:29](/episodes/ep-MUA9ebCF4Ow.md#ent-person-alexis-wilkins-t-00-38-29)**
-> "...emy officials. Now, in response to the comments on that same day, Elijah Schaffer posted a photo of Alexis Wilkins—that is her name—and Patel. So this is what they're suing over, right here on the internet. LOL. El..."
-
-**[00:42:39](/episodes/ep-MUA9ebCF4Ow.md#ent-person-alexis-wilkins-t-00-42-13)**
-> "... People just being insulting. I wake up. I'm called the N-word. Big deal. The internet is optional, Alexis Wilkins. It's optional, Kash Patel. This lawsuit is pathetic. You should be forced to step aside, but you k..."
-
-**[00:38:29](/episodes/ep-MUA9ebCF4Ow.md#ent-person-alexis-wilkins-t-00-38-29)**
-> "...ah Schaffer posted a photo of Alexis Wilkins—that is her name—and Patel."
-
-**[00:42:39](/episodes/ep-MUA9ebCF4Ow.md#ent-person-alexis-wilkins-t-00-42-13)**
-> "The internet is optional, Alexis Wilkins."
-
-</details>
-
-<details>
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:32:20](/episodes/ep-mKXdKV-OBog.md#ent-person-alexis-wilkins-t-00-32-20)**
@@ -61,19 +44,27 @@ _Type: People_
 
 </details>
 
+<details>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (4 mentions)</summary>
+
+**[00:38:29](/episodes/ep-MUA9ebCF4Ow.md#ent-person-alexis-wilkins-t-00-38-29)**
+> "...emy officials. Now, in response to the comments on that same day, Elijah Schaffer posted a photo of Alexis Wilkins—that is her name—and Patel. So this is what they're suing over, right here on the internet. LOL. El..."
+
+**[00:42:39](/episodes/ep-MUA9ebCF4Ow.md#ent-person-alexis-wilkins-t-00-42-13)**
+> "... People just being insulting. I wake up. I'm called the N-word. Big deal. The internet is optional, Alexis Wilkins. It's optional, Kash Patel. This lawsuit is pathetic. You should be forced to step aside, but you k..."
+
+**[00:38:29](/episodes/ep-MUA9ebCF4Ow.md#ent-person-alexis-wilkins-t-00-38-29)**
+> "...ah Schaffer posted a photo of Alexis Wilkins—that is her name—and Patel."
+
+**[00:42:39](/episodes/ep-MUA9ebCF4Ow.md#ent-person-alexis-wilkins-t-00-42-13)**
+> "The internet is optional, Alexis Wilkins."
+
+</details>
+
 </details>
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
-
-<details>
-<summary>Dating (1)</summary>
-
-- **[Kash Patel](/entities/person-kash-patel.md)**
-  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:37:00](/episodes/ep-MUA9ebCF4Ow.md#t-00-36-22): "Leave my girlfriend alone"
-  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 01:02:00](/episodes/ep-MUA9ebCF4Ow.md#t-00-55-44): "his girlfriend turns out is suing Elijah Schaffer"
-
-</details>
 
 <details>
 <summary>Formerly Worked For (1)</summary>
@@ -111,11 +102,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
-
-- **[Kash Patel](/entities/person-kash-patel.md)** dating this
-  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:37:00](/episodes/ep-MUA9ebCF4Ow.md#t-00-36-22)
-  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 01:02:00](/episodes/ep-MUA9ebCF4Ow.md#t-00-55-44)
+<summary>Referenced By (5)</summary>
 
 - **[Marissa Streit](/entities/person-marissa-streit.md)** employs this
   - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:40:43](/episodes/ep-MUA9ebCF4Ow.md#t-00-39-59)

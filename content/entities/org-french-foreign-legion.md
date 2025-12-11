@@ -1,6 +1,6 @@
 ---
 title: "French Foreign Legion"
-description: "French Foreign Legion (Organizations) - 54 mentions"
+description: "French Foreign Legion (Organizations) - 56 mentions"
 id: "org-french-foreign-legion"
 type: "ORG"
 aliases:
@@ -19,19 +19,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (4 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
 
-**[00:21:28](/episodes/ep-a-e7HC6SeK8.md#ent-org-french-foreign-legion-t-00-21-13)**
-> "..."This is what Charlie (Charlie Kirk) wants," and that could be true. August 2nd is when we have our French Legionnaires arriving in America for a three-week training session in California, which is going to end on the 2..."
+**[00:59:48](/episodes/ep-6DhWawD4ZiM.md#ent-org-french-foreign-legion-t-00-56-52)**
+> "I had the information about the French Foreign Legion being on the ground"
 
-**[00:23:52](/episodes/ep-a-e7HC6SeK8.md#ent-org-french-foreign-legion-t-00-23-23)**
-> "...yellow planes then returning on the 24th—again always through Wilmington—to Egypt. We then have our French Legionnaires have completed their training. And on August 24th–27th, Operation Valhalla takes place between civi..."
-
-**[00:21:28](/episodes/ep-a-e7HC6SeK8.md#ent-org-french-foreign-legion-t-00-21-13)**
-> "...ugust 2nd is when we have our French Legionnaires arriving in America for a three-week training ses..."
-
-**[00:23:52](/episodes/ep-a-e7HC6SeK8.md#ent-org-french-foreign-legion-t-00-23-23)**
-> "We then have our French Legionnaires have completed their training."
+**[00:57:07](/episodes/ep-6DhWawD4ZiM.md#ent-org-french-foreign-legion-t-00-56-52)**
+> "...had the information about the French Foreign Legion being on the ground the day that Charlie was assa..."
 
 </details>
 
@@ -62,13 +56,19 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (4 mentions)</summary>
 
-**[00:14:02](/episodes/ep-mKXdKV-OBog.md#ent-org-french-foreign-legion-t-00-13-39)**
-> "...tary, okay? We are receiving tips, and we had been receiving tips I had ignored previously that the French Foreign Legion was involved somehow in the assassination. Time will tell, okay? And I will present that more forma..."
+**[00:21:28](/episodes/ep-a-e7HC6SeK8.md#ent-org-french-foreign-legion-t-00-21-13)**
+> "..."This is what Charlie (Charlie Kirk) wants," and that could be true. August 2nd is when we have our French Legionnaires arriving in America for a three-week training session in California, which is going to end on the 2..."
 
-**[00:14:02](/episodes/ep-mKXdKV-OBog.md#ent-org-french-foreign-legion-t-00-13-39)**
-> "...d ignored previously that the French Foreign Legion was involved somehow in the assassination."
+**[00:23:52](/episodes/ep-a-e7HC6SeK8.md#ent-org-french-foreign-legion-t-00-23-23)**
+> "...yellow planes then returning on the 24th—again always through Wilmington—to Egypt. We then have our French Legionnaires have completed their training. And on August 24th–27th, Operation Valhalla takes place between civi..."
+
+**[00:21:28](/episodes/ep-a-e7HC6SeK8.md#ent-org-french-foreign-legion-t-00-21-13)**
+> "...ugust 2nd is when we have our French Legionnaires arriving in America for a three-week training ses..."
+
+**[00:23:52](/episodes/ep-a-e7HC6SeK8.md#ent-org-french-foreign-legion-t-00-23-23)**
+> "We then have our French Legionnaires have completed their training."
 
 </details>
 
@@ -197,6 +197,17 @@ _Type: Organizations_
 
 **[00:22:43](/episodes/ep-tB5SXXmd9vU.md#ent-org-french-foreign-legion-t-00-22-30)**
 > "Now, as it pertains to the French Legion, something else that's kind of interesting is tha..."
+
+</details>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+
+**[00:14:02](/episodes/ep-mKXdKV-OBog.md#ent-org-french-foreign-legion-t-00-13-39)**
+> "...tary, okay? We are receiving tips, and we had been receiving tips I had ignored previously that the French Foreign Legion was involved somehow in the assassination. Time will tell, okay? And I will present that more forma..."
+
+**[00:14:02](/episodes/ep-mKXdKV-OBog.md#ent-org-french-foreign-legion-t-00-13-39)**
+> "...d ignored previously that the French Foreign Legion was involved somehow in the assassination."
 
 </details>
 

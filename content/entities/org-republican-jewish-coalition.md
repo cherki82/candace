@@ -13,17 +13,6 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
-
-**[00:01:30](/episodes/ep-K1tFD7FfoCU.md#ent-org-republican-jewish-coalition-t-00-01-30)**
-> "...ndsey Graham) shade, which he threw at American voters. So what happened was he was on stage at the Republican Jewish Coalition. He and many others, by the way—many other treasonous congressmen—basically directed their fire and..."
-
-**[00:01:30](/episodes/ep-K1tFD7FfoCU.md#ent-org-republican-jewish-coalition-t-00-01-30)**
-> "...ed was he was on stage at the Republican Jewish Coalition."
-
-</details>
-
-<details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
 
 **[00:17:51](/episodes/ep-LATnak75Si0.md#ent-org-republican-jewish-coalition-t-00-17-51)**
@@ -31,6 +20,17 @@ _Type: Organizations_
 
 **[00:17:51](/episodes/ep-LATnak75Si0.md#ent-org-republican-jewish-coalition-t-00-17-51)**
 > "...(Tucker Carlson) is not MAGA" Republican Jewish coalition event."
+
+</details>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
+
+**[00:01:30](/episodes/ep-K1tFD7FfoCU.md#ent-org-republican-jewish-coalition-t-00-01-30)**
+> "...ndsey Graham) shade, which he threw at American voters. So what happened was he was on stage at the Republican Jewish Coalition. He and many others, by the way—many other treasonous congressmen—basically directed their fire and..."
+
+**[00:01:30](/episodes/ep-K1tFD7FfoCU.md#ent-org-republican-jewish-coalition-t-00-01-30)**
+> "...ed was he was on stage at the Republican Jewish Coalition."
 
 </details>
 

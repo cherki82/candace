@@ -89,21 +89,7 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Affiliated With (1)</summary>
-
-- **[Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md)**
-  - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:03:58](/episodes/ep-ZAuuSq_j2_w.md#t-00-03-51): "This person is going to be well-acquainted with the president of Egypt, okay?"
-
-</details>
-
-<details>
-<summary>Referenced By (1)</summary>
-
-- **[Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md)** affiliated with this
-  - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:03:58](/episodes/ep-ZAuuSq_j2_w.md#t-00-03-51)
-
-</details>
+_No relationships extracted yet._
 
 </details>
 
@@ -114,7 +100,7 @@ _Type: People_
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (3)</summary>
 
 - [00:14:42](/episodes/ep-ZAuuSq_j2_w.md#t-00-14-25) (Claim) **Candace Owens**: ["One of the four passengers on the yellow plane to Delaware was using t..."](/statements/statement-e8ce61355fdf.md)
-  - Also about: [SU-BTT](/entities/work-su-btt.md)
+  - Also about: [SU-BTT](/entities/vehicle-su-btt.md)
 
 - [00:15:12](/episodes/ep-ZAuuSq_j2_w.md#t-00-15-09) (Claim) **Candace Owens**: ["Walid Mahmood came to Provo on May 27th of this year aboard another Eg..."](/statements/statement-c65701d7dc38.md)
   - Also about: [work-su-btu](/entities/work-su-btu.md)

@@ -13,17 +13,6 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
-
-**[00:46:28](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-connecticut-t-00-45-48)**
-> "... mass shootings. I think also the one that was in—and I can't think of the guy's name—but it was in Connecticut: similar story. He somehow hacked the government system, and then the FBI showed up at his door, an..."
-
-**[00:46:28](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-connecticut-t-00-45-48)**
-> "... the guy's name—but it was in Connecticut: similar story."
-
-</details>
-
-<details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2 mentions)</summary>
 
 **[00:22:25](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-connecticut-t-00-22-17)**
@@ -35,13 +24,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
 
-**[00:47:36](/episodes/ep-adJ4LNGp84I.md#ent-gpe-connecticut-t-00-47-25)**
-> "...a building. They're one and the same. I hope you guys know that. They share a building, I think, in Connecticut. Also, Israel is taking over ExpressVPN and other VPN websites. I always had a conspiracy about tha..."
+**[00:46:28](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-connecticut-t-00-45-48)**
+> "... mass shootings. I think also the one that was in—and I can't think of the guy's name—but it was in Connecticut: similar story. He somehow hacked the government system, and then the FBI showed up at his door, an..."
 
-**[00:47:36](/episodes/ep-adJ4LNGp84I.md#ent-gpe-connecticut-t-00-47-25)**
-> "...share a building, I think, in Connecticut."
+**[00:46:28](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-connecticut-t-00-45-48)**
+> "... the guy's name—but it was in Connecticut: similar story."
 
 </details>
 
@@ -77,6 +66,17 @@ _Type: Places_
 
 **[00:14:43](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-connecticut-t-00-14-39)**
 > "...ing these federal agents from Connecticut."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
+
+**[00:47:36](/episodes/ep-adJ4LNGp84I.md#ent-gpe-connecticut-t-00-47-25)**
+> "...a building. They're one and the same. I hope you guys know that. They share a building, I think, in Connecticut. Also, Israel is taking over ExpressVPN and other VPN websites. I always had a conspiracy about tha..."
+
+**[00:47:36](/episodes/ep-adJ4LNGp84I.md#ent-gpe-connecticut-t-00-47-25)**
+> "...share a building, I think, in Connecticut."
 
 </details>
 

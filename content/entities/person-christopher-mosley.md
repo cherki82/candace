@@ -42,20 +42,6 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Married To (1)</summary>
-
-- **[Lisa Dean](/entities/person-lisa-dean.md)**
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:47](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27): "...So she and her husband, Christopher Mosley, had her killed."
-
-</details>
-
-<details>
-<summary>Referenced By (1)</summary>
-
-- **[Lisa Dean](/entities/person-lisa-dean.md)** married to this
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:47](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27)
-
-</details>
+_No relationships extracted yet._
 
 </details>

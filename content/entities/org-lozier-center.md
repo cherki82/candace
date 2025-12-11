@@ -17,6 +17,17 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
+
+**[00:51:45](/episodes/ep-sImMM04XdWY.md#ent-org-lozier-center-t-00-51-25)**
+> "...clining to share that, but I think we can confirm that there was no miracle-bending bullet from the Lozier Center. A smaller weapon was used. Crazy Chris writes: "Love the comfort shirt. Feels like I'm chilling wi..."
+
+**[00:51:45](/episodes/ep-sImMM04XdWY.md#ent-org-lozier-center-t-00-51-25)**
+> "...racle-bending bullet from the Lozier Center."
+
+</details>
+
+<details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (9 mentions)</summary>
 
 **[00:12:18](/episodes/ep-581dILVcEE4.md#ent-org-lozier-center-t-00-12-18)**
@@ -76,17 +87,6 @@ _Type: Organizations_
 
 **[00:07:37](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-lozier-center-t-00-06-55)**
 > "That he knew where Charlie was going to be sitting in it, that he would have that shot from on top of the Losey Center?"
-
-</details>
-
-<details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
-
-**[00:51:45](/episodes/ep-sImMM04XdWY.md#ent-org-lozier-center-t-00-51-25)**
-> "...clining to share that, but I think we can confirm that there was no miracle-bending bullet from the Lozier Center. A smaller weapon was used. Crazy Chris writes: "Love the comfort shirt. Feels like I'm chilling wi..."
-
-**[00:51:45](/episodes/ep-sImMM04XdWY.md#ent-org-lozier-center-t-00-51-25)**
-> "...racle-bending bullet from the Lozier Center."
 
 </details>
 

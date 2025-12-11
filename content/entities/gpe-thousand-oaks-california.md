@@ -41,17 +41,6 @@ _Type: Places_
 </details>
 
 <details>
-<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2 mentions)</summary>
-
-**[00:13:34](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-thousand-oaks-california-t-00-13-27)**
-> "...e timing. Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel in Thousand Oaks, California. You should also know, by the way—let me introduce this to you right now—because I didn't know that..."
-
-**[00:13:34](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-thousand-oaks-california-t-00-13-27)**
-> "...he Godspeak Calvary Chapel in Thousand Oaks, California."
-
-</details>
-
-<details>
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2 mentions)</summary>
 
 **[00:21:55](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-thousand-oaks-california-t-00-21-31)**
@@ -59,6 +48,17 @@ _Type: Places_
 
 **[00:21:55](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-thousand-oaks-california-t-00-21-31)**
 > "...ting hangover that happens in Thousand Oaks, California."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2 mentions)</summary>
+
+**[00:13:34](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-thousand-oaks-california-t-00-13-27)**
+> "...e timing. Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel in Thousand Oaks, California. You should also know, by the way—let me introduce this to you right now—because I didn't know that..."
+
+**[00:13:34](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-thousand-oaks-california-t-00-13-27)**
+> "...he Godspeak Calvary Chapel in Thousand Oaks, California."
 
 </details>
 

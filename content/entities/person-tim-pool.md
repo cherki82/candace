@@ -1,6 +1,6 @@
 ---
 title: "Tim Pool"
-description: "Tim Pool (People) - 56 mentions"
+description: "Tim Pool (People) - 60 mentions"
 id: "person-tim-pool"
 type: "PERSON"
 aliases:
@@ -17,22 +17,75 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (5 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4 mentions)</summary>
 
-**[00:52:22](/episodes/ep-581dILVcEE4.md#ent-person-tim-pool-t-00-52-11)**
-> "...these five vehicles that we have now shown you. L. Hodges writes, "I find it insane how influencers Tim Pool were speaking up against you regarding Turning Point USA and you no longer being invited to AmFest...."
+**[00:26:48](/episodes/ep-6DhWawD4ZiM.md#ent-person-tim-pool-t-00-21-22)**
+> "So we're not gonna accept Tim (Tim Pool)."
 
-**[00:52:37](/episodes/ep-581dILVcEE4.md#ent-person-tim-pool-t-00-52-11)**
-> "...t." Apparently he said something hurtful, and they said he can't go. Weird. I am not following what Tim Pool has been saying. I know that he was kind of—he always kind of throws shade about me investigating t..."
+**[00:21:33](/episodes/ep-6DhWawD4ZiM.md#ent-person-tim-pool-t-00-21-22)**
+> "...o we're not gonna accept Tim (Tim Pool)."
 
-**[00:52:32](/episodes/ep-581dILVcEE4.md#ent-person-tim-pool-t-00-52-11)**
-> "Tim Pool said investigation was for clicks"
+**[00:21:33](/episodes/ep-6DhWawD4ZiM.md#ent-person-tim-pool-t-00-21-22)**
+> "So we're not gonna accept Tim (Tim Pool)."
 
-**[00:52:22](/episodes/ep-581dILVcEE4.md#ent-person-tim-pool-t-00-52-11)**
-> "...ind it insane how influencers Tim Pool were speaking up against you regarding Turning Po..."
+**[00:31:07](/episodes/ep-6DhWawD4ZiM.md#ent-person-tim-pool-t-00-21-22)**
+> "And then Tim's all fired up and she's a C-word."
 
-**[00:52:37](/episodes/ep-581dILVcEE4.md#ent-person-tim-pool-t-00-52-11)**
-> "I am not following what Tim Pool has been saying."
+</details>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (17 mentions)</summary>
+
+**[00:06:57](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-42-07)**
+> "Among those, of course, being Tim Pool"
+
+**[00:42:07](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-42-07)**
+> "... those, of course, being Tim (Tim Pool) Pool (Tim Pool), who has now dedicated hours and..."
+
+**[00:42:07](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-42-07)**
+> "...e, being Tim (Tim Pool) Pool (Tim Pool), who has now dedicated hours and hours and now i..."
+
+**[00:42:21](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-42-07)**
+> "...w what I've ever done to Tim (Tim Pool) Pool (Tim Pool) to deserve that at all."
+
+**[00:42:21](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-42-07)**
+> "... done to Tim (Tim Pool) Pool (Tim Pool) to deserve that at all."
+
+**[00:42:26](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-42-07)**
+> "But Tim (Tim Pool) Pool (Tim Pool) has had some very choice words f..."
+
+**[00:42:39](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-42-07)**
+> "So take a listen to Tim (Tim Pool) Pool (Tim Pool)."
+
+**[00:42:39](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-42-07)**
+> "...isten to Tim (Tim Pool) Pool (Tim Pool)."
+
+**[00:43:14](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-42-49)**
+> "Good for you, Tim (Tim Pool)."
+
+**[00:43:15](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-42-49)**
+> "Good for you, Tim (Tim Pool)."
+
+**[00:44:31](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-44-11)**
+> "Secondly, Tim (Tim Pool) Pool (Tim Pool) doesn't even have the intellect ..."
+
+**[00:44:31](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-44-11)**
+> "...econdly, Tim (Tim Pool) Pool (Tim Pool) doesn't even have the intellect to understand th..."
+
+**[00:45:18](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-44-49)**
+> "... who is also theatrical, Tim (Tim Pool)othy Smollett, who pretends every year like peopl..."
+
+**[00:46:30](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-46-18)**
+> "...hope it happens for you, Tim (Tim Pool)."
+
+**[00:53:58](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-53-48)**
+> "Maybe Tim (Tim Pool) Pool (Tim Pool) does."
+
+**[00:56:21](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-55-59)**
+> "...rites, what do you think Tim (Tim Pool) Pool (Tim Pool)e's beanie smells like?"
+
+**[00:56:21](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-55-59)**
+> "...ou think Tim (Tim Pool) Pool (Tim Pool)e's beanie smells like?"
 
 </details>
 
@@ -41,47 +94,6 @@ _Type: People_
 
 **[00:24:43](/episodes/ep-Kmt6HgRjckU.md#t-00-24-33)**
 > "Tim Pool hosted Milo and called viewers stupid for questioning narrative"
-
-</details>
-
-<details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (12 mentions)</summary>
-
-**[00:42:24](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-pool-t-00-42-11)**
-> "...l your soul to the devil, eventually, you'll get swallowed by it. Now, that's not a way to say that Tim Pool sold himself to the devil. He's a bit of a fence-sitter. I like Tim Pool. He's always been good to ..."
-
-**[00:42:28](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-pool-t-00-42-11)**
-> "...at's not a way to say that Tim Pool sold himself to the devil. He's a bit of a fence-sitter. I like Tim Pool. He's always been good to me. But when it matters, he will always just take like a little dig. And ..."
-
-**[00:42:54](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-pool-t-00-42-54)**
-> "...y. Like donors were getting very angry with Charlie (Charlie Kirk). And then what happened was that Tim Pool, who is always invited to speak at Turning Point USA's AmFest, they cut him because of his, seeming..."
-
-**[00:43:11](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-pool-t-00-42-54)**
-> "...cause of his anti-Israel or what could be interpreted as anti-Israel rhetoric. Anyways, let's watch Tim Pool in quick succession. That moment before Charlie (Charlie Kirk) was murdered, there was a path that ..."
-
-**[00:42:24](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-pool-t-00-42-11)**
-> "...'s not a way to say that Tim (Tim Pool) sold himself to the devil."
-
-**[00:42:28](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-pool-t-00-42-11)**
-> "I like Tim (Tim Pool)."
-
-**[00:42:54](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-pool-t-00-42-54)**
-> "...n what happened was that Tim (Tim Pool), who is always invited to speak at Turning Point..."
-
-**[00:43:11](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-pool-t-00-42-54)**
-> "Anyways, let's watch Tim (Tim Pool) in quick succession."
-
-**[00:44:04](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-pool-t-00-44-04)**
-> "There it is, Tim (Tim Pool)."
-
-**[00:42:24](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-pool-t-00-42-11)**
-> "... that's not a way to say that Tim (Tim Pool) sold himself to the devil."
-
-**[00:42:54](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-pool-t-00-42-54)**
-> "...d then what happened was that Tim (Tim Pool), who is always invited to speak at Tur..."
-
-**[00:53:09](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-pool-t-00-44-04)**
-> "...hat sensational song from the Tim Dillon clip that we showed of him listening to it..."
 
 </details>
 
@@ -154,58 +166,63 @@ _Type: People_
 </details>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (17 mentions)</summary>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (12 mentions)</summary>
 
-**[00:06:57](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-42-07)**
-> "Among those, of course, being Tim Pool"
+**[00:42:24](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-pool-t-00-42-11)**
+> "...l your soul to the devil, eventually, you'll get swallowed by it. Now, that's not a way to say that Tim Pool sold himself to the devil. He's a bit of a fence-sitter. I like Tim Pool. He's always been good to ..."
 
-**[00:42:07](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-42-07)**
-> "... those, of course, being Tim (Tim Pool) Pool (Tim Pool), who has now dedicated hours and..."
+**[00:42:28](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-pool-t-00-42-11)**
+> "...at's not a way to say that Tim Pool sold himself to the devil. He's a bit of a fence-sitter. I like Tim Pool. He's always been good to me. But when it matters, he will always just take like a little dig. And ..."
 
-**[00:42:07](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-42-07)**
-> "...e, being Tim (Tim Pool) Pool (Tim Pool), who has now dedicated hours and hours and now i..."
+**[00:42:54](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-pool-t-00-42-54)**
+> "...y. Like donors were getting very angry with Charlie (Charlie Kirk). And then what happened was that Tim Pool, who is always invited to speak at Turning Point USA's AmFest, they cut him because of his, seeming..."
 
-**[00:42:21](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-42-07)**
-> "...w what I've ever done to Tim (Tim Pool) Pool (Tim Pool) to deserve that at all."
+**[00:43:11](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-pool-t-00-42-54)**
+> "...cause of his anti-Israel or what could be interpreted as anti-Israel rhetoric. Anyways, let's watch Tim Pool in quick succession. That moment before Charlie (Charlie Kirk) was murdered, there was a path that ..."
 
-**[00:42:21](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-42-07)**
-> "... done to Tim (Tim Pool) Pool (Tim Pool) to deserve that at all."
+**[00:42:24](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-pool-t-00-42-11)**
+> "...'s not a way to say that Tim (Tim Pool) sold himself to the devil."
 
-**[00:42:26](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-42-07)**
-> "But Tim (Tim Pool) Pool (Tim Pool) has had some very choice words f..."
+**[00:42:28](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-pool-t-00-42-11)**
+> "I like Tim (Tim Pool)."
 
-**[00:42:39](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-42-07)**
-> "So take a listen to Tim (Tim Pool) Pool (Tim Pool)."
+**[00:42:54](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-pool-t-00-42-54)**
+> "...n what happened was that Tim (Tim Pool), who is always invited to speak at Turning Point..."
 
-**[00:42:39](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-42-07)**
-> "...isten to Tim (Tim Pool) Pool (Tim Pool)."
+**[00:43:11](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-pool-t-00-42-54)**
+> "Anyways, let's watch Tim (Tim Pool) in quick succession."
 
-**[00:43:14](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-42-49)**
-> "Good for you, Tim (Tim Pool)."
+**[00:44:04](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-pool-t-00-44-04)**
+> "There it is, Tim (Tim Pool)."
 
-**[00:43:15](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-42-49)**
-> "Good for you, Tim (Tim Pool)."
+**[00:42:24](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-pool-t-00-42-11)**
+> "... that's not a way to say that Tim (Tim Pool) sold himself to the devil."
 
-**[00:44:31](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-44-11)**
-> "Secondly, Tim (Tim Pool) Pool (Tim Pool) doesn't even have the intellect ..."
+**[00:42:54](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-pool-t-00-42-54)**
+> "...d then what happened was that Tim (Tim Pool), who is always invited to speak at Tur..."
 
-**[00:44:31](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-44-11)**
-> "...econdly, Tim (Tim Pool) Pool (Tim Pool) doesn't even have the intellect to understand th..."
+**[00:53:09](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-pool-t-00-44-04)**
+> "...hat sensational song from the Tim Dillon clip that we showed of him listening to it..."
 
-**[00:45:18](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-44-49)**
-> "... who is also theatrical, Tim (Tim Pool)othy Smollett, who pretends every year like peopl..."
+</details>
 
-**[00:46:30](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-46-18)**
-> "...hope it happens for you, Tim (Tim Pool)."
+<details>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (5 mentions)</summary>
 
-**[00:53:58](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-53-48)**
-> "Maybe Tim (Tim Pool) Pool (Tim Pool) does."
+**[00:52:22](/episodes/ep-581dILVcEE4.md#ent-person-tim-pool-t-00-52-11)**
+> "...these five vehicles that we have now shown you. L. Hodges writes, "I find it insane how influencers Tim Pool were speaking up against you regarding Turning Point USA and you no longer being invited to AmFest...."
 
-**[00:56:21](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-55-59)**
-> "...rites, what do you think Tim (Tim Pool) Pool (Tim Pool)e's beanie smells like?"
+**[00:52:37](/episodes/ep-581dILVcEE4.md#ent-person-tim-pool-t-00-52-11)**
+> "...t." Apparently he said something hurtful, and they said he can't go. Weird. I am not following what Tim Pool has been saying. I know that he was kind of—he always kind of throws shade about me investigating t..."
 
-**[00:56:21](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-55-59)**
-> "...ou think Tim (Tim Pool) Pool (Tim Pool)e's beanie smells like?"
+**[00:52:32](/episodes/ep-581dILVcEE4.md#ent-person-tim-pool-t-00-52-11)**
+> "Tim Pool said investigation was for clicks"
+
+**[00:52:22](/episodes/ep-581dILVcEE4.md#ent-person-tim-pool-t-00-52-11)**
+> "...ind it insane how influencers Tim Pool were speaking up against you regarding Turning Po..."
+
+**[00:52:37](/episodes/ep-581dILVcEE4.md#ent-person-tim-pool-t-00-52-11)**
+> "I am not following what Tim Pool has been saying."
 
 </details>
 
@@ -276,18 +293,18 @@ _Type: People_
 <summary><strong class="section-title">Statements by Tim Pool (2)</strong></summary>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1)</summary>
-
-- [00:43:44](/episodes/ep-SKGUzGHymcI.md#t-00-43-42) [○] (Claim) ["Turning Point USA told Tim Pool he couldn't come to AmFest, possibly because he ..."](/statements/statement-af14c90c171d.md)
-  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
-
-</details>
-
-<details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1)</summary>
 
 - [00:32:22](/episodes/ep-ZAuuSq_j2_w.md#t-00-32-04) [○] (Accusation) ["Candace Owens continually crosses the line every day, insinuating that Turning P..."](/statements/statement-b99b976bcd6c.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1)</summary>
+
+- [00:43:44](/episodes/ep-SKGUzGHymcI.md#t-00-43-42) [○] (Claim) ["Turning Point USA told Tim Pool he couldn't come to AmFest, possibly because he ..."](/statements/statement-af14c90c171d.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 

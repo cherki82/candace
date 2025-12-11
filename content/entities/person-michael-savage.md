@@ -24,6 +24,17 @@ _Type: People_
 </details>
 
 <details>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (2 mentions)</summary>
+
+**[00:53:30](/episodes/ep-sreYYcID-QY.md#ent-person-michael-savage-t-00-52-52)**
+> "...ld Trump) in the first administration cannot get close to him. He's like surrounded at this moment. Michael Savage—pardon. And he's telling the truth, okay? I feel like we're an occupied nation. Got nothing to do....."
+
+**[00:53:30](/episodes/ep-sreYYcID-QY.md#ent-person-michael-savage-t-00-52-52)**
+> "Michael Savage—pardon."
+
+</details>
+
+<details>
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (9 mentions)</summary>
 
 **[00:36:10](/episodes/ep-czVBmqZP6Ss.md#ent-person-michael-savage-t-00-36-02)**
@@ -52,17 +63,6 @@ _Type: People_
 
 **[00:45:54](/episodes/ep-czVBmqZP6Ss.md#ent-person-michael-savage-t-00-45-14)**
 > "So this is kind of what Michael Savage is saying."
-
-</details>
-
-<details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (2 mentions)</summary>
-
-**[00:53:30](/episodes/ep-sreYYcID-QY.md#ent-person-michael-savage-t-00-52-52)**
-> "...ld Trump) in the first administration cannot get close to him. He's like surrounded at this moment. Michael Savage—pardon. And he's telling the truth, okay? I feel like we're an occupied nation. Got nothing to do....."
-
-**[00:53:30](/episodes/ep-sreYYcID-QY.md#ent-person-michael-savage-t-00-52-52)**
-> "Michael Savage—pardon."
 
 </details>
 

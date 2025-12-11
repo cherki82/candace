@@ -34,14 +34,6 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1 mentions)</summary>
-
-**[00:11:36](/episodes/ep-Cq7nj9rxPdo.md#t-00-11-30)**
-> "David Horowitz of Freedom Center"
-
-</details>
-
-<details>
 <summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
 
 **[00:09:22](/episodes/ep-YFmRH8p5lt0.md#ent-org-david-horowitz-freedom-center-t-00-08-56)**
@@ -49,6 +41,14 @@ _Type: Organizations_
 
 **[00:09:22](/episodes/ep-YFmRH8p5lt0.md#ent-org-david-horowitz-freedom-center-t-00-08-56)**
 > "at that David Horowitz Freedom Center event that I was telling you about."
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1 mentions)</summary>
+
+**[00:11:36](/episodes/ep-Cq7nj9rxPdo.md#t-00-11-30)**
+> "David Horowitz of Freedom Center"
 
 </details>
 

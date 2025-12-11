@@ -38,6 +38,14 @@ _Type: People_
 </details>
 
 <details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+
+**[00:59:47](/episodes/ep-yAIb-NuUh_U.md#ent-person-lyndon-baines-johnson-t-00-59-18)**
+> "...military men who are now what—LBJ's military men?"
+
+</details>
+
+<details>
 <summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (4 mentions)</summary>
 
 **[00:05:52](/episodes/ep-c5BcKF91iec.md#ent-person-lyndon-baines-johnson-t-00-05-52)**
@@ -51,14 +59,6 @@ _Type: People_
 
 **[00:06:28](/episodes/ep-c5BcKF91iec.md#ent-person-lyndon-baines-johnson-t-00-05-52)**
 > "Maybe the truth is that LBJ simply—to use an expression—had his wits about hi..."
-
-</details>
-
-<details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
-
-**[00:59:47](/episodes/ep-yAIb-NuUh_U.md#ent-person-lyndon-baines-johnson-t-00-59-18)**
-> "...military men who are now what—LBJ's military men?"
 
 </details>
 

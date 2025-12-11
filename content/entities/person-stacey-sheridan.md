@@ -17,25 +17,6 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
-
-**[00:44:46](/episodes/ep-K1tFD7FfoCU.md#t-00-44-24)**
-> "... from Australia, but you know me—I'm a super bad criminal, bad to the bone. I won't worship Israel. Stacey Massey (Stacey Massey) writes: "So many trolls in the chat, yet by being here they are supporting G..."
-
-</details>
-
-<details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
-
-**[00:29:49](/episodes/ep-SKGUzGHymcI.md#ent-person-stacey-sheridan-t-00-29-09)**
-> "...izona and potentially Santa Barbara. Andrew Kolvet, Andrew Kolvet's wife. We have a priest. We have Stacey Sheridan, who's the chief finance person. We have, I mean, fundraiser over there. We have Elizabeth McCoy, t..."
-
-**[00:29:49](/episodes/ep-SKGUzGHymcI.md#ent-person-stacey-sheridan-t-00-29-09)**
-> "We have Stacey Sheridan, who's the chief finance person."
-
-</details>
-
-<details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (20 mentions)</summary>
 
 **[00:12:08](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-11-53)**
@@ -101,6 +82,25 @@ _Type: People_
 </details>
 
 <details>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
+
+**[00:29:49](/episodes/ep-SKGUzGHymcI.md#ent-person-stacey-sheridan-t-00-29-09)**
+> "...izona and potentially Santa Barbara. Andrew Kolvet, Andrew Kolvet's wife. We have a priest. We have Stacey Sheridan, who's the chief finance person. We have, I mean, fundraiser over there. We have Elizabeth McCoy, t..."
+
+**[00:29:49](/episodes/ep-SKGUzGHymcI.md#ent-person-stacey-sheridan-t-00-29-09)**
+> "We have Stacey Sheridan, who's the chief finance person."
+
+</details>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
+
+**[00:44:46](/episodes/ep-K1tFD7FfoCU.md#t-00-44-24)**
+> "... from Australia, but you know me—I'm a super bad criminal, bad to the bone. I won't worship Israel. Stacey Massey (Stacey Massey) writes: "So many trolls in the chat, yet by being here they are supporting G..."
+
+</details>
+
+<details>
 <summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (4 mentions)</summary>
 
 **[00:04:23](/episodes/ep-c5BcKF91iec.md#ent-person-stacey-sheridan-t-00-03-48)**
@@ -146,7 +146,7 @@ _Type: People_
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
   - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:35](/episodes/ep-c5BcKF91iec.md#t-00-04-27): "She's like the chief money person, essentially, at Turning Point USA."
   - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:23](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): "Stacey, by the way, is the senior advancement director at Turning Point USA"
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:23](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): "Stacey, by the way, is the senior advancement director at Turning Point USA"
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:12:14](/episodes/ep-a-e7HC6SeK8.md#t-00-11-53): "...That's Stacey Sheridan of Turning Point USA... Stacey, by the way, is the senior advancement director at Turning Point USA."
 
 </details>
 

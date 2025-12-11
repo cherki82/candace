@@ -1,11 +1,11 @@
 ---
 title: "Anonymous Source #1 (Ep UBkFkg4UNY8)"
-description: "Anonymous Source #1 (Ep UBkFkg4UNY8) (Anonymous_Source) - 0 mentions"
+description: "Anonymous Source #1 (Ep UBkFkg4UNY8) (Anonymous Sources) - 0 mentions"
 id: "anon-src-UBkFkg4UNY8-001"
 type: "ANONYMOUS_SOURCE"
 ---
 
-_Type: Anonymous_Source_
+_Type: Anonymous Sources_
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

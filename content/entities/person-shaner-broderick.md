@@ -61,14 +61,6 @@ _Type: People_
 </details>
 
 <details>
-<summary>Worked With (1)</summary>
-
-- **[Mike Lee](/entities/person-mike-lee.md)**
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:07:09](/episodes/ep-YA1FxrDWNIo.md#t-00-06-55): "It's probably part of the reason—politically speaking—that he was chosen for an internship with Senator Mike Lee of Utah"
-
-</details>
-
-<details>
 <summary>Works For (1)</summary>
 
 - **[Senator Mike Lee](/entities/person-senator-mike-lee.md)**
@@ -77,16 +69,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (2)</summary>
 
 - **[Senator Mike Lee](/entities/person-senator-mike-lee.md)** employs this
   - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:07:09](/episodes/ep-YA1FxrDWNIo.md#t-00-06-55)
 
 - **[Phil Lyman](/entities/person-phil-lyman.md)** uncle/aunt of this
   - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:00](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01)
-
-- **[Mike Lee](/entities/person-mike-lee.md)** worked with this
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:07:09](/episodes/ep-YA1FxrDWNIo.md#t-00-06-55)
 
 </details>
 

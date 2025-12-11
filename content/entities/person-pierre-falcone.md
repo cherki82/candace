@@ -53,45 +53,21 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Affiliated With (1)</summary>
-
-- **[Angola Gate](/entities/concept-angola-gate.md)**
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:16:23](/episodes/ep-Kmt6HgRjckU.md#t-00-16-13): "known as Angola Gate, in France, the scandal involves arms for oil deals between French businessman Pierre Falcone"
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:14:47](/episodes/ep-Kmt6HgRjckU.md#t-00-14-05): "You've got Pierre Falcone, he's the businessman, the main broker of the arms deals."
-
-</details>
-
-<details>
-<summary>Worked With (2)</summary>
-
-- **[Arkady Gaidemak](/entities/person-arkady-gaidemak.md)**
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:14:28](/episodes/ep-Kmt6HgRjckU.md#t-00-14-05): "And his partner is Pierre Falcone."
-
-- **[Jean-Christophe Mitterrand](/entities/person-jean-christophe-mitterrand.md)**
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:16:50](/episodes/ep-Kmt6HgRjckU.md#t-00-16-13): "his colleague Jean-Christophe Mitterrand"
-
-</details>
-
-<details>
-<summary>Referenced By (3)</summary>
-
-- **[Angola Gate](/entities/concept-angola-gate.md)** affiliated with this
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:16:23](/episodes/ep-Kmt6HgRjckU.md#t-00-16-13)
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:14:47](/episodes/ep-Kmt6HgRjckU.md#t-00-14-05)
-
-- **[Jean-Christophe Mitterrand](/entities/person-jean-christophe-mitterrand.md)** worked with this
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:16:50](/episodes/ep-Kmt6HgRjckU.md#t-00-16-13)
-
-- **[Arkady Gaidemak](/entities/person-arkady-gaidemak.md)** worked with this
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:14:28](/episodes/ep-Kmt6HgRjckU.md#t-00-14-05)
-
-</details>
+_No relationships extracted yet._
 
 </details>
 
 <details open>
 <summary><strong class="section-title">Statements about Pierre Falcone (11)</strong></summary>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (2)</summary>
+
+- [00:35:49](/episodes/ep-t4U7NjnUEgc.md#t-00-35-36) (Claim) **Candace Owens**: ["Arkady Gaidemach was Pierre Falcone's partner and both were involved i..."](/statements/statement-814e085eead0.md)
+
+- [00:37:07](/episodes/ep-t4U7NjnUEgc.md#t-00-36-51) (Accusation) **Candace Owens**: ["Seven people emailed Candace claiming that Arkady Gaidemach is living ..."](/statements/statement-302e42317b70.md)
+
+</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (9)</summary>
@@ -103,10 +79,10 @@ _Type: People_
   - Also about: [Scottsdale](/entities/gpe-scottsdale.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:12:30](/episodes/ep-Kmt6HgRjckU.md#t-00-12-04) (Claim) **Candace Owens**: ["Pierre Falcone was involved in a scandal that almost brought down the ..."](/statements/statement-680b620f8ccd.md)
-  - Also about: [Angola Gate](/entities/concept-angola-gate.md)
+  - Also about: [Angolagate scandal](/entities/event-angola-gate.md)
 
 - [00:12:36](/episodes/ep-Kmt6HgRjckU.md#t-00-12-04) (Claim) **Candace Owens**: ["Pierre Falcone was involved in a scandal that almost brought down the ..."](/statements/statement-8a28c81ab028.md)
-  - Also about: [Angola Gate](/entities/concept-angola-gate.md), [Angola](/entities/gpe-angola.md), [France](/entities/gpe-france.md)
+  - Also about: [Angolagate scandal](/entities/event-angola-gate.md), [Angola](/entities/gpe-angola.md), [France](/entities/gpe-france.md)
 
 - [00:14:10](/episodes/ep-Kmt6HgRjckU.md#t-00-14-05) (Claim) **Candace Owens**: ["Branko International is run by Arkady Gaidemak. He is Israeli, initial..."](/statements/statement-6f2c0ea955bb.md)
   - Also about: [Arkady Gaidemak](/entities/person-arkady-gaidemak.md), [Branko International](/entities/org-branko-international.md)
@@ -120,15 +96,6 @@ _Type: People_
 
 - [00:17:43](/episodes/ep-Kmt6HgRjckU.md#t-00-17-32) (Claim) **Candace Owens**: ["Pierre Falcone disappeared from France after winning his appeal and re..."](/statements/statement-369784a0dc5c.md)
   - Also about: [Scottsdale](/entities/gpe-scottsdale.md)
-
-</details>
-
-<details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (2)</summary>
-
-- [00:35:49](/episodes/ep-t4U7NjnUEgc.md#t-00-35-36) (Claim) **Candace Owens**: ["Arkady Gaidemach was Pierre Falcone's partner and both were involved i..."](/statements/statement-814e085eead0.md)
-
-- [00:37:07](/episodes/ep-t4U7NjnUEgc.md#t-00-36-51) (Accusation) **Candace Owens**: ["Seven people emailed Candace claiming that Arkady Gaidemach is living ..."](/statements/statement-302e42317b70.md)
 
 </details>
 

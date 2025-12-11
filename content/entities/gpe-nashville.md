@@ -13,6 +13,40 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (6 mentions)</summary>
+
+**[00:06:40](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-nashville-t-00-36-14)**
+> "any Israeli intelligence and French intelligence officers to be here in Nashville"
+
+**[00:36:36](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-nashville-t-00-36-14)**
+> "...elieved Gatamac was living in Nashville."
+
+**[00:36:51](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-nashville-t-00-36-51)**
+> "... man, aged now, is working in Nashville using the name Jonathan Schmidt."
+
+**[00:38:20](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-nashville-t-00-38-15)**
+> "...e in Franklin and you live in Nashville and you are familiar with the Brute Brands and yo..."
+
+**[00:39:23](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-nashville-t-00-38-49)**
+> "...n this individual anywhere in Nashville, for the love of God,"
+
+**[00:40:34](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-nashville-t-00-40-07)**
+> "...igence officers to be here in Nashville."
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
+
+**[00:21:03](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-nashville-t-00-20-28)**
+> "...e—according to some insiders—had loved the event that he had done in an amphitheater environment in Nashville. But I don't know if he said, "I only want to do that going forward." But I do know that Turning Po..."
+
+**[00:21:03](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-nashville-t-00-20-28)**
+> "...n amphitheater environment in Nashville."
+
+</details>
+
+<details>
 <summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (4 mentions)</summary>
 
 **[00:36:52](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-nashville-t-00-36-34)**
@@ -43,40 +77,6 @@ _Type: Places_
 
 **[00:17:17](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-nashville-t-00-16-57)**
 > "...Covenant Elementary School in Nashville."
-
-</details>
-
-<details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
-
-**[00:21:03](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-nashville-t-00-20-28)**
-> "...e—according to some insiders—had loved the event that he had done in an amphitheater environment in Nashville. But I don't know if he said, "I only want to do that going forward." But I do know that Turning Po..."
-
-**[00:21:03](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-nashville-t-00-20-28)**
-> "...n amphitheater environment in Nashville."
-
-</details>
-
-<details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (6 mentions)</summary>
-
-**[00:06:40](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-nashville-t-00-36-14)**
-> "any Israeli intelligence and French intelligence officers to be here in Nashville"
-
-**[00:36:36](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-nashville-t-00-36-14)**
-> "...elieved Gatamac was living in Nashville."
-
-**[00:36:51](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-nashville-t-00-36-51)**
-> "... man, aged now, is working in Nashville using the name Jonathan Schmidt."
-
-**[00:38:20](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-nashville-t-00-38-15)**
-> "...e in Franklin and you live in Nashville and you are familiar with the Brute Brands and yo..."
-
-**[00:39:23](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-nashville-t-00-38-49)**
-> "...n this individual anywhere in Nashville, for the love of God,"
-
-**[00:40:34](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-nashville-t-00-40-07)**
-> "...igence officers to be here in Nashville."
 
 </details>
 

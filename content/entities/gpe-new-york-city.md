@@ -13,6 +13,37 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
+
+**[00:11:52](/episodes/ep-SKGUzGHymcI.md#ent-gpe-new-york-city-t-00-11-40)**
+> "...ed to cut the 33 Thomas Street building in half. Seriously, if you Google image 33 Thomas Street in New York City, that's the building that Snowden leaked. Find one that makes it look brown and then compare it to ..."
+
+**[00:11:52](/episodes/ep-SKGUzGHymcI.md#ent-gpe-new-york-city-t-00-11-40)**
+> "...gle image 33 Thomas Street in New York City, that's the building that Snowden leaked."
+
+</details>
+
+<details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (5 mentions)</summary>
+
+**[00:06:42](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-city-t-00-06-42)**
+> "...sense. It's not Tucker's (Tucker Carlson's) responsibility. Tucker (Tucker Carlson) doesn't live in New York City. It's not his responsibility to use his platform to speak about Mamdani 17 times. It's very strange..."
+
+**[00:08:22](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-city-t-00-07-46)**
+> "...e like foreign-born midwits running their cities? Probably not. That guy was the only person in the New York City mayor's debate to say he wanted to focus on New York City. All the candidates were asked, if you co..."
+
+**[00:06:42](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-city-t-00-06-42)**
+> "...cker Carlson) doesn't live in New York City."
+
+**[00:08:22](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-city-t-00-07-46)**
+> "...uy was the only person in the New York City mayor's debate to say he wanted to focus on New Y..."
+
+**[00:08:22](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-city-t-00-07-46)**
+> "... to say he wanted to focus on New York City."
+
+</details>
+
+<details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (8 mentions)</summary>
 
 **[00:00:00](/episodes/ep-LATnak75Si0.md#ent-gpe-new-york-city-t-00-00-00)**
@@ -42,17 +73,6 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
-
-**[00:11:52](/episodes/ep-SKGUzGHymcI.md#ent-gpe-new-york-city-t-00-11-40)**
-> "...ed to cut the 33 Thomas Street building in half. Seriously, if you Google image 33 Thomas Street in New York City, that's the building that Snowden leaked. Find one that makes it look brown and then compare it to ..."
-
-**[00:11:52](/episodes/ep-SKGUzGHymcI.md#ent-gpe-new-york-city-t-00-11-40)**
-> "...gle image 33 Thomas Street in New York City, that's the building that Snowden leaked."
-
-</details>
-
-<details>
 <summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2 mentions)</summary>
 
 **[00:02:37](/episodes/ep-ja26iltROkM.md#ent-gpe-new-york-city-t-00-02-10)**
@@ -60,26 +80,6 @@ _Type: Places_
 
 **[00:02:37](/episodes/ep-ja26iltROkM.md#ent-gpe-new-york-city-t-00-02-10)**
 > "...e meet her at Del Frisco's in New York City.""
-
-</details>
-
-<details>
-<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (5 mentions)</summary>
-
-**[00:06:42](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-city-t-00-06-42)**
-> "...sense. It's not Tucker's (Tucker Carlson's) responsibility. Tucker (Tucker Carlson) doesn't live in New York City. It's not his responsibility to use his platform to speak about Mamdani 17 times. It's very strange..."
-
-**[00:08:22](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-city-t-00-07-46)**
-> "...e like foreign-born midwits running their cities? Probably not. That guy was the only person in the New York City mayor's debate to say he wanted to focus on New York City. All the candidates were asked, if you co..."
-
-**[00:06:42](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-city-t-00-06-42)**
-> "...cker Carlson) doesn't live in New York City."
-
-**[00:08:22](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-city-t-00-07-46)**
-> "...uy was the only person in the New York City mayor's debate to say he wanted to focus on New Y..."
-
-**[00:08:22](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-city-t-00-07-46)**
-> "... to say he wanted to focus on New York City."
 
 </details>
 

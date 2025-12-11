@@ -13,17 +13,6 @@ _Type: Dates_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
-
-**[00:08:24](/episodes/ep-mKXdKV-OBog.md#ent-date-august-29th-t-00-07-51)**
-> "...of note—the civilians. What's interesting: of note, civilians. And they trained from August 25th to August 29th. And we can read the details of that here. And by details, I mean—this is what the public was told ..."
-
-**[00:08:24](/episodes/ep-mKXdKV-OBog.md#ent-date-august-29th-t-00-07-51)**
-> "...y trained from August 25th to August 29th."
-
-</details>
-
-<details>
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
 
 **[00:21:46](/episodes/ep-tB5SXXmd9vU.md#ent-date-august-29th-t-00-21-46)**
@@ -31,6 +20,17 @@ _Type: Dates_
 
 **[00:21:46](/episodes/ep-tB5SXXmd9vU.md#ent-date-august-29th-t-00-21-46)**
 > "...military operation began from August 29th through to September 10th, the day that Charlie (..."
+
+</details>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+
+**[00:08:24](/episodes/ep-mKXdKV-OBog.md#ent-date-august-29th-t-00-07-51)**
+> "...of note—the civilians. What's interesting: of note, civilians. And they trained from August 25th to August 29th. And we can read the details of that here. And by details, I mean—this is what the public was told ..."
+
+**[00:08:24](/episodes/ep-mKXdKV-OBog.md#ent-date-august-29th-t-00-07-51)**
+> "...y trained from August 25th to August 29th."
 
 </details>
 

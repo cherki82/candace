@@ -55,14 +55,6 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Affiliated With (1)</summary>
-
-- **[Department of Veterans Affairs](/entities/org-va.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:34:23](/episodes/ep-tB5SXXmd9vU.md#t-00-33-53): ""Incyte... is also plugged directly into the federal medical supply chains, which include our VA systems...""
-
-</details>
-
-<details>
 <summary>Has Ceo (1)</summary>
 
 - **[Hervé Hoppenot](/entities/person-herve-hoppenot.md)**
@@ -80,7 +72,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Hervé Hoppenot](/entities/person-herve-hoppenot.md)** CEO of this
   - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:33:39](/episodes/ep-tB5SXXmd9vU.md#t-00-33-10)
@@ -88,9 +80,6 @@ _Type: Organizations_
 
 - **[Hervé Hoppenot](/entities/person-herve-hoppenot.md)** advisor to this
   - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:33:53](/episodes/ep-tB5SXXmd9vU.md#t-00-33-10)
-
-- **[Department of Veterans Affairs](/entities/org-va.md)** affiliated with this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:34:23](/episodes/ep-tB5SXXmd9vU.md#t-00-33-53)
 
 - **[Bracebridge Complex](/entities/org-bracebridge-complex.md)** owned by this
   - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:32:55](/episodes/ep-tB5SXXmd9vU.md#t-00-32-32)

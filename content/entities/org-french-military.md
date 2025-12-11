@@ -50,20 +50,6 @@ _Type: Organizations_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Affiliated With (1)</summary>
-
-- **[DuPont](/entities/org-dupont-family.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:30:00](/episodes/ep-tB5SXXmd9vU.md#t-00-29-47): ""DuPont also has extreme ties to both the American and the French military.""
-
-</details>
-
-<details>
-<summary>Referenced By (1)</summary>
-
-- **[DuPont](/entities/org-dupont-family.md)** affiliated with this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:30:00](/episodes/ep-tB5SXXmd9vU.md#t-00-29-47)
-
-</details>
+_No relationships extracted yet._
 
 </details>

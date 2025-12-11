@@ -11,7 +11,7 @@ object: "person-erika-kirk"
 
 ## [Charlie Kirk](/entities/person-charlie-kirk) married to [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (25 mentions)
+### Evidence (29 mentions)
 
 **[Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg)**
 
@@ -24,6 +24,15 @@ object: "person-erika-kirk"
 **[Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE)**
 
 - [00:01:11](/episodes/ep-JQjCAsfoXEE#t-00-01-11): _I think a lot of people reading the tweets would assume that she meant Erika Kirk. Either Erika Kirk is evil and was in on it,_
+
+**[MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU)**
+
+- [00:21:26](/episodes/ep-K1tFD7FfoCU#t-00-21-26): _Mrs. Erika Kirk will accept the award on her husband's behalf_
+
+**[Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4)**
+
+- [00:35:17](/episodes/ep-K5GjF53bfN4#t-00-35-17): _I know that Charlie (Charlie Kirk) was very happy with Erika (Erika Kirk), and I know that Erika (Erika Kirk) was a reason she was pushing Charlie (Charlie Kirk)_
+- [00:35:42](/episodes/ep-K5GjF53bfN4#t-00-35-42): _Charlie Kirk was very happy with Erika Kirk_
 
 **[Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0)**
 
@@ -69,13 +78,13 @@ object: "person-erika-kirk"
 **[They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss)**
 
 - [00:00:51](/episodes/ep-czVBmqZP6Ss#t-00-00-51): _his wife, Mrs. Erika Kirk, addressed not just the nation, but the entire world._
-- [00:00:51](/episodes/ep-czVBmqZP6Ss#t-00-00-51): _his wife, Mrs. Erika Kirk, addressed not just the nation, but the entire world._
-- [00:00:51](/episodes/ep-czVBmqZP6Ss#t-00-00-51): _his wife, Mrs. Erika Kirk, addressed not just the nation, but the entire world._
 
 **[Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM)**
 
+- [00:00:01](/episodes/ep-ja26iltROkM#t-00-00-01): _Erika Kirk (Charlie Kirk's wife), man. That—she really is just the moment._
 - [00:00:02](/episodes/ep-ja26iltROkM#t-00-00-02): _Erika Kirk (Charlie Kirk's wife)_
 - [00:00:02](/episodes/ep-ja26iltROkM#t-00-00-02): _Erika Kirk (Charlie Kirk's wife), man._
+- [00:59:29](/episodes/ep-ja26iltROkM#t-00-59-29): _Erika Kirk was raised in a Catholic family_
 
 **[TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI)**
 
@@ -88,6 +97,7 @@ object: "person-erika-kirk"
 
 **[Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA)**
 
+- [00:00:37](/episodes/ep-r1PS67aRmcA#t-00-00-37): _Charlie Kirk's wife Erika Kirk_
 - [00:10:33](/episodes/ep-r1PS67aRmcA#t-00-10-33): _accusing Charlie Kirk of his wife having murdered him... accusing Erika of murdering her own husband_
 
 **[EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY)**

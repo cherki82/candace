@@ -54,12 +54,9 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (1)</summary>
 
 - **[David Horowitz Freedom Center](/entities/org-david-horowitz-freedom-center.md)** funded by this
-
-- **[Aubrey Chernick](/entities/person-aubrey-chernick.md)** married to this
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:46:49](/episodes/ep-581dILVcEE4.md#t-00-46-30)
 
 </details>
 

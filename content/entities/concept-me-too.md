@@ -13,6 +13,25 @@ _Type: Concepts_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
+
+**[00:11:19](/episodes/ep-iHav0PPzUz8.md#ent-concept-me-too-t-00-11-19)**
+> "...hird plane, which I found to be quite odd. I reported on it, and the Zionists immediately seemed to me too panicked, right? They issued what I describe as a false debunking regarding the point that I was ma..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (2 mentions)</summary>
+
+**[00:52:23](/episodes/ep-q7f8r-THr84.md#ent-concept-me-too-t-00-51-57)**
+> "...frey Epstein possibly being a Mossad agent or asset or affiliated with—that's been turned around on me too, to you must be anti-Semitic. What the hell? That's such bullshit. The same people who say you can ..."
+
+**[00:52:23](/episodes/ep-q7f8r-THr84.md#ent-concept-me-too-t-00-51-57)**
+> "...—that's been turned around on me too, to you must be anti-Semitic."
+
+</details>
+
+<details>
 <summary>To My Friend, Charlie Kirk. (5 mentions)</summary>
 
 **[00:13:50](/episodes/ep-_dRaEO47-co.md#ent-concept-me-too-t-00-13-27)**
@@ -29,25 +48,6 @@ _Type: Concepts_
 
 **[00:14:17](/episodes/ep-_dRaEO47-co.md#ent-concept-me-too-t-00-14-11)**
 > "“How could she not support Me Too?”"
-
-</details>
-
-<details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
-
-**[00:11:19](/episodes/ep-iHav0PPzUz8.md#ent-concept-me-too-t-00-11-19)**
-> "...hird plane, which I found to be quite odd. I reported on it, and the Zionists immediately seemed to me too panicked, right? They issued what I describe as a false debunking regarding the point that I was ma..."
-
-</details>
-
-<details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (2 mentions)</summary>
-
-**[00:52:23](/episodes/ep-q7f8r-THr84.md#ent-concept-me-too-t-00-51-57)**
-> "...frey Epstein possibly being a Mossad agent or asset or affiliated with—that's been turned around on me too, to you must be anti-Semitic. What the hell? That's such bullshit. The same people who say you can ..."
-
-**[00:52:23](/episodes/ep-q7f8r-THr84.md#ent-concept-me-too-t-00-51-57)**
-> "...—that's been turned around on me too, to you must be anti-Semitic."
 
 </details>
 

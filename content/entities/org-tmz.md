@@ -17,17 +17,6 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (2 mentions)</summary>
-
-**[00:15:06](/episodes/ep-2WEHTk0Xewg.md#t-00-15-06)**
-> "...overnor is going to say it—that we are told that he at first enters campus on this day at 8:07 a.m. TMZ shows us the footage—remember—of the man wearing a maroon t-shirt and shorts. That's how this day b..."
-
-**[00:15:06](/episodes/ep-2WEHTk0Xewg.md#t-00-15-06)**
-> "TMZ shows us the footage—remember—of the man wearing ..."
-
-</details>
-
-<details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (6 mentions)</summary>
 
 **[00:09:40](/episodes/ep-581dILVcEE4.md#t-00-09-05)**
@@ -47,34 +36,6 @@ _Type: Organizations_
 
 **[00:19:06](/episodes/ep-581dILVcEE4.md#t-00-18-25)**
 > "TMZ released footage of somebody else in the neighbor..."
-
-</details>
-
-<details>
-<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (4 mentions)</summary>
-
-**[00:28:17](/episodes/ep-ZGxnf5cj4Uw.md#t-00-27-53)**
-> "...t immediately went out about the shooting, and that his car was in the driveway of the now infamous TMZ footage—which showed the shooter walking twice that day by this house. In fact, Phil Lyman says tha..."
-
-**[00:28:49](/episodes/ep-ZGxnf5cj4Uw.md#t-00-28-49)**
-> "... us, and I'm going to ask the team to pull back up that surveillance footage that we've gotten from TMZ—from those neighborhood cameras. You said that in that footage is your driveway, and you parked the..."
-
-**[00:28:17](/episodes/ep-ZGxnf5cj4Uw.md#t-00-27-53)**
-> "... driveway of the now infamous TMZ footage—which showed the shooter walking twice th..."
-
-**[00:28:49](/episodes/ep-ZGxnf5cj4Uw.md#t-00-28-49)**
-> "...ootage that we've gotten from TMZ—from those neighborhood cameras."
-
-</details>
-
-<details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2 mentions)</summary>
-
-**[00:14:54](/episodes/ep-aDlhjfW6hz8.md#t-00-14-44)**
-> "... Yesterday, I pretty casually mentioned to you guys something: that the doorbell cam footage, which TMZ happened upon somehow, was from a street upon which a ton of employees that work for Caldera Engine..."
-
-**[00:14:54](/episodes/ep-aDlhjfW6hz8.md#t-00-14-44)**
-> "...e doorbell cam footage, which TMZ happened upon somehow, was from a street upon whi..."
 
 </details>
 
@@ -117,34 +78,19 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (9 mentions)</summary>
+<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (4 mentions)</summary>
 
-**[00:39:48](/episodes/ep-czVBmqZP6Ss.md#t-00-39-23)**
-> "...deo they presented. So the first bit of proof regarding that day happened at 8:07 a.m. According to TMZ, they have footage, and we're gonna show you it, which shows a man at 8:07 a.m., so hours before th..."
+**[00:28:17](/episodes/ep-ZGxnf5cj4Uw.md#t-00-27-53)**
+> "...t immediately went out about the shooting, and that his car was in the driveway of the now infamous TMZ footage—which showed the shooter walking twice that day by this house. In fact, Phil Lyman says tha..."
 
-**[00:41:09](/episodes/ep-czVBmqZP6Ss.md#t-00-41-09)**
-> "...with a white logo, and light-colored shoes. So what's interesting, already confusing to me, is that TMZ shows him already walking. We're supposed to believe he walked, parked his car and then walked onto..."
+**[00:28:49](/episodes/ep-ZGxnf5cj4Uw.md#t-00-28-49)**
+> "... us, and I'm going to ask the team to pull back up that surveillance footage that we've gotten from TMZ—from those neighborhood cameras. You said that in that footage is your driveway, and you parked the..."
 
-**[00:41:35](/episodes/ep-czVBmqZP6Ss.md#t-00-41-09)**
-> "...ep going. We don't need to poke holes. Let's just keep going with the narrative. Then we're back to TMZ and they release that at 11:49 a.m. they have footage of the shooter, who has now changed his outfi..."
+**[00:28:17](/episodes/ep-ZGxnf5cj4Uw.md#t-00-27-53)**
+> "... driveway of the now infamous TMZ footage—which showed the shooter walking twice th..."
 
-**[00:45:02](/episodes/ep-czVBmqZP6Ss.md#t-00-44-29)**
-> "... say that. We don't know, but we know that something's wrong with this. Then at 12:29 p.m., we have TMZ showing us that there's a person running through the backyard. They are saying this appears to be t..."
-
-**[00:39:09](/episodes/ep-czVBmqZP6Ss.md#t-00-38-39)**
-> "According to TMZ, they have footage, and we're gonna show you it"
-
-**[00:39:48](/episodes/ep-czVBmqZP6Ss.md#t-00-39-23)**
-> "According to TMZ,"
-
-**[00:41:09](/episodes/ep-czVBmqZP6Ss.md#t-00-41-09)**
-> "...eady confusing to me, is that TMZ shows him already walking."
-
-**[00:41:35](/episodes/ep-czVBmqZP6Ss.md#t-00-41-09)**
-> "Then we're back to TMZ and they release that at 11:49 a.m. they have foo..."
-
-**[00:45:02](/episodes/ep-czVBmqZP6Ss.md#t-00-44-29)**
-> "Then at 12:29 p.m., we have TMZ showing us that there's a person running through ..."
+**[00:28:49](/episodes/ep-ZGxnf5cj4Uw.md#t-00-28-49)**
+> "...ootage that we've gotten from TMZ—from those neighborhood cameras."
 
 </details>
 
@@ -160,16 +106,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (3 mentions)</summary>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2 mentions)</summary>
 
-**[00:10:22](/episodes/ep-q7f8r-THr84.md#t-00-10-09)**
-> "...s the same person that we see walking across with a limp, right, that footage which was provided by TMZ? Also, you will notice that nowhere in this indictment as we go on are they going to mention what G..."
+**[00:14:54](/episodes/ep-aDlhjfW6hz8.md#t-00-14-44)**
+> "... Yesterday, I pretty casually mentioned to you guys something: that the doorbell cam footage, which TMZ happened upon somehow, was from a street upon which a ton of employees that work for Caldera Engine..."
 
-**[00:10:32](/episodes/ep-q7f8r-THr84.md#t-00-10-09)**
-> "why don't they just release this fully so we can make sure that this is the same person that we see walking across with a limp, right, that footage which was provided by TMZ?"
-
-**[00:10:22](/episodes/ep-q7f8r-THr84.md#t-00-10-09)**
-> "...footage which was provided by TMZ?"
+**[00:14:54](/episodes/ep-aDlhjfW6hz8.md#t-00-14-44)**
+> "...e doorbell cam footage, which TMZ happened upon somehow, was from a street upon whi..."
 
 </details>
 
@@ -250,6 +193,63 @@ _Type: Organizations_
 
 **[00:14:33](/episodes/ep-sreYYcID-QY.md#t-00-14-12)**
 > "...r this guy himself gave it to TMZ before he gave it to the feds."
+
+</details>
+
+<details>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (2 mentions)</summary>
+
+**[00:15:06](/episodes/ep-2WEHTk0Xewg.md#t-00-15-06)**
+> "...overnor is going to say it—that we are told that he at first enters campus on this day at 8:07 a.m. TMZ shows us the footage—remember—of the man wearing a maroon t-shirt and shorts. That's how this day b..."
+
+**[00:15:06](/episodes/ep-2WEHTk0Xewg.md#t-00-15-06)**
+> "TMZ shows us the footage—remember—of the man wearing ..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (3 mentions)</summary>
+
+**[00:10:22](/episodes/ep-q7f8r-THr84.md#t-00-10-09)**
+> "...s the same person that we see walking across with a limp, right, that footage which was provided by TMZ? Also, you will notice that nowhere in this indictment as we go on are they going to mention what G..."
+
+**[00:10:32](/episodes/ep-q7f8r-THr84.md#t-00-10-09)**
+> "why don't they just release this fully so we can make sure that this is the same person that we see walking across with a limp, right, that footage which was provided by TMZ?"
+
+**[00:10:22](/episodes/ep-q7f8r-THr84.md#t-00-10-09)**
+> "...footage which was provided by TMZ?"
+
+</details>
+
+<details>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (9 mentions)</summary>
+
+**[00:39:48](/episodes/ep-czVBmqZP6Ss.md#t-00-39-23)**
+> "...deo they presented. So the first bit of proof regarding that day happened at 8:07 a.m. According to TMZ, they have footage, and we're gonna show you it, which shows a man at 8:07 a.m., so hours before th..."
+
+**[00:41:09](/episodes/ep-czVBmqZP6Ss.md#t-00-41-09)**
+> "...with a white logo, and light-colored shoes. So what's interesting, already confusing to me, is that TMZ shows him already walking. We're supposed to believe he walked, parked his car and then walked onto..."
+
+**[00:41:35](/episodes/ep-czVBmqZP6Ss.md#t-00-41-09)**
+> "...ep going. We don't need to poke holes. Let's just keep going with the narrative. Then we're back to TMZ and they release that at 11:49 a.m. they have footage of the shooter, who has now changed his outfi..."
+
+**[00:45:02](/episodes/ep-czVBmqZP6Ss.md#t-00-44-29)**
+> "... say that. We don't know, but we know that something's wrong with this. Then at 12:29 p.m., we have TMZ showing us that there's a person running through the backyard. They are saying this appears to be t..."
+
+**[00:39:09](/episodes/ep-czVBmqZP6Ss.md#t-00-38-39)**
+> "According to TMZ, they have footage, and we're gonna show you it"
+
+**[00:39:48](/episodes/ep-czVBmqZP6Ss.md#t-00-39-23)**
+> "According to TMZ,"
+
+**[00:41:09](/episodes/ep-czVBmqZP6Ss.md#t-00-41-09)**
+> "...eady confusing to me, is that TMZ shows him already walking."
+
+**[00:41:35](/episodes/ep-czVBmqZP6Ss.md#t-00-41-09)**
+> "Then we're back to TMZ and they release that at 11:49 a.m. they have foo..."
+
+**[00:45:02](/episodes/ep-czVBmqZP6Ss.md#t-00-44-29)**
+> "Then at 12:29 p.m., we have TMZ showing us that there's a person running through ..."
 
 </details>
 

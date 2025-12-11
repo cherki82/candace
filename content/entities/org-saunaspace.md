@@ -13,32 +13,6 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (7 mentions)</summary>
-
-**[00:33:19](/episodes/ep-5autG89PW6w.md#ent-org-saunaspace-t-00-32-46)**
-> "Also telling you guys about SaunaSpace because obviously if you're a mom—if kids' non-st..."
-
-**[00:33:27](/episodes/ep-5autG89PW6w.md#ent-org-saunaspace-t-00-32-46)**
-> "That's why I'm obsessed with SaunaSpace."
-
-**[00:33:33](/episodes/ep-5autG89PW6w.md#ent-org-saunaspace-t-00-33-29)**
-> "...w Infrared Therapy Light from SaunaSpace."
-
-**[00:34:05](/episodes/ep-5autG89PW6w.md#ent-org-saunaspace-t-00-33-29)**
-> "SaunaSpace spent over a decade perfecting their Firelight sp..."
-
-**[00:34:20](/episodes/ep-5autG89PW6w.md#ent-org-saunaspace-t-00-34-11)**
-> "...y back to yourself, check out SaunaSpace. Head to saunaspace.com/Candace and use code Cand..."
-
-**[00:34:20](/episodes/ep-5autG89PW6w.md#ent-org-saunaspace-t-00-34-11)**
-> "...check out SaunaSpace. Head to saunaspace.com/Candace and use code Candace at checkout, and..."
-
-**[00:34:32](/episodes/ep-5autG89PW6w.md#ent-org-saunaspace-t-00-34-11)**
-> "saunaspace.com/Candace, code Candace at checkout."
-
-</details>
-
-<details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (8 mentions)</summary>
 
 **[00:28:56](/episodes/ep-LATnak75Si0.md#ent-org-saunaspace-t-00-28-48)**
@@ -64,6 +38,32 @@ _Type: Organizations_
 
 **[00:30:04](/episodes/ep-LATnak75Si0.md#ent-org-saunaspace-t-00-29-32)**
 > "That's saunaspace.com/Candace with code Candace for a discount."
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (7 mentions)</summary>
+
+**[00:33:19](/episodes/ep-5autG89PW6w.md#ent-org-saunaspace-t-00-32-46)**
+> "Also telling you guys about SaunaSpace because obviously if you're a mom—if kids' non-st..."
+
+**[00:33:27](/episodes/ep-5autG89PW6w.md#ent-org-saunaspace-t-00-32-46)**
+> "That's why I'm obsessed with SaunaSpace."
+
+**[00:33:33](/episodes/ep-5autG89PW6w.md#ent-org-saunaspace-t-00-33-29)**
+> "...w Infrared Therapy Light from SaunaSpace."
+
+**[00:34:05](/episodes/ep-5autG89PW6w.md#ent-org-saunaspace-t-00-33-29)**
+> "SaunaSpace spent over a decade perfecting their Firelight sp..."
+
+**[00:34:20](/episodes/ep-5autG89PW6w.md#ent-org-saunaspace-t-00-34-11)**
+> "...y back to yourself, check out SaunaSpace. Head to saunaspace.com/Candace and use code Cand..."
+
+**[00:34:20](/episodes/ep-5autG89PW6w.md#ent-org-saunaspace-t-00-34-11)**
+> "...check out SaunaSpace. Head to saunaspace.com/Candace and use code Candace at checkout, and..."
+
+**[00:34:32](/episodes/ep-5autG89PW6w.md#ent-org-saunaspace-t-00-34-11)**
+> "saunaspace.com/Candace, code Candace at checkout."
 
 </details>
 

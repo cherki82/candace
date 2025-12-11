@@ -17,66 +17,6 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
-
-**[00:50:21](/episodes/ep-581dILVcEE4.md#ent-person-john-f-kennedy-t-00-50-03)**
-> "JFK tried to make Israel follow FARA before being shot"
-
-**[00:50:21](/episodes/ep-581dILVcEE4.md#ent-person-john-f-kennedy-t-00-50-03)**
-> "Don't forget that when JFK tried to put an end to that—well, I guess rather ..."
-
-</details>
-
-<details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1 mentions)</summary>
-
-**[00:35:21](/episodes/ep-5autG89PW6w.md#ent-person-john-f-kennedy-t-00-34-55)**
-> "...hat day ran something akin to JFK's assassination."
-
-</details>
-
-<details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
-
-**[00:18:14](/episodes/ep-7RLtGgkTh9o.md#ent-person-john-f-kennedy-t-00-18-12)**
-> "...nment employed in place after JFK was shot, right?"
-
-</details>
-
-<details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
-
-**[00:30:46](/episodes/ep-Cq7nj9rxPdo.md#ent-person-john-f-kennedy-t-00-30-02)**
-> "military industrial complex that shot JFK to maintain power"
-
-**[00:30:46](/episodes/ep-Cq7nj9rxPdo.md#ent-person-john-f-kennedy-t-00-30-02)**
-> "... industrial complex that shot JFK to maintain power—has created a veneer of reality..."
-
-**[00:31:59](/episodes/ep-Cq7nj9rxPdo.md#ent-person-john-f-kennedy-t-00-31-29)**
-> "...ed everything since they shot JFK—well, that wouldn't be a good thing for us to kno..."
-
-**[00:54:04](/episodes/ep-Cq7nj9rxPdo.md#ent-person-john-f-kennedy-t-00-53-35)**
-> "...ne like Martin Luther King or JFK, and then they get a holiday; they get a boulevar..."
-
-</details>
-
-<details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1 mentions)</summary>
-
-**[00:00:03](/episodes/ep-JQjCAsfoXEE.md#ent-person-john-f-kennedy-t-00-00-00)**
-> "...xecution of sitting President JFK in 1963 that the CIA established Operation Mockin..."
-
-</details>
-
-<details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
-
-**[00:10:32](/episodes/ep-K1tFD7FfoCU.md#ent-person-john-f-kennedy-t-00-10-16)**
-> "...st convenient for Israel that JFK got shot."
-
-</details>
-
-<details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (14 mentions)</summary>
 
 **[00:01:44](/episodes/ep-Kmt6HgRjckU.md#ent-person-john-f-kennedy-t-00-01-20)**
@@ -124,10 +64,168 @@ _Type: People_
 </details>
 
 <details>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2 mentions)</summary>
+
+**[00:48:11](/episodes/ep-ZAuuSq_j2_w.md#ent-person-john-f-kennedy-t-00-47-54)**
+> "... that he was standing up for. JFK asked too many questions as well. I cannot say to..."
+
+**[00:48:09](/episodes/ep-ZAuuSq_j2_w.md#ent-person-john-f-kennedy-t-00-47-54)**
+> "JFK asked too many questions as well."
+
+</details>
+
+<details>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
+
+**[00:41:15](/episodes/ep-his-JBjlkh8.md#ent-person-john-f-kennedy-t-00-41-15)**
+> "...on that has taken place since JFK, I would say."
+
+</details>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+
+**[00:05:14](/episodes/ep-mKXdKV-OBog.md#t-00-05-02)**
+> "...at this was not going to be a JFK assassination story."
+
+</details>
+
+<details>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
+
+**[00:50:21](/episodes/ep-581dILVcEE4.md#ent-person-john-f-kennedy-t-00-50-03)**
+> "JFK tried to make Israel follow FARA before being shot"
+
+**[00:50:21](/episodes/ep-581dILVcEE4.md#ent-person-john-f-kennedy-t-00-50-03)**
+> "Don't forget that when JFK tried to put an end to that—well, I guess rather ..."
+
+</details>
+
+<details>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1 mentions)</summary>
+
+**[00:00:03](/episodes/ep-JQjCAsfoXEE.md#ent-person-john-f-kennedy-t-00-00-00)**
+> "...xecution of sitting President JFK in 1963 that the CIA established Operation Mockin..."
+
+</details>
+
+<details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+
+**[00:18:14](/episodes/ep-7RLtGgkTh9o.md#ent-person-john-f-kennedy-t-00-18-12)**
+> "...nment employed in place after JFK was shot, right?"
+
+</details>
+
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+
+**[00:59:47](/episodes/ep-yAIb-NuUh_U.md#ent-person-john-f-kennedy-t-00-59-18)**
+> "...ading Chaos. Then they killed JFK, and suddenly the Calvary Church is born. And you..."
+
+</details>
+
+<details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
 
 **[00:35:48](/episodes/ep-MUA9ebCF4Ow.md#ent-person-john-f-kennedy-t-00-35-39)**
 > "...aps also the assassination of JFK."
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
+
+**[01:03:05](/episodes/ep-vwG1juDCQZQ.md#ent-person-john-f-kennedy-t-01-02-42)**
+> "... this is not going to be like JFK."
+
+</details>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
+
+**[00:10:32](/episodes/ep-K1tFD7FfoCU.md#ent-person-john-f-kennedy-t-00-10-16)**
+> "...st convenient for Israel that JFK got shot."
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
+
+**[00:30:46](/episodes/ep-Cq7nj9rxPdo.md#ent-person-john-f-kennedy-t-00-30-02)**
+> "military industrial complex that shot JFK to maintain power"
+
+**[00:30:46](/episodes/ep-Cq7nj9rxPdo.md#ent-person-john-f-kennedy-t-00-30-02)**
+> "... industrial complex that shot JFK to maintain power—has created a veneer of reality..."
+
+**[00:31:59](/episodes/ep-Cq7nj9rxPdo.md#ent-person-john-f-kennedy-t-00-31-29)**
+> "...ed everything since they shot JFK—well, that wouldn't be a good thing for us to kno..."
+
+**[00:54:04](/episodes/ep-Cq7nj9rxPdo.md#ent-person-john-f-kennedy-t-00-53-35)**
+> "...ne like Martin Luther King or JFK, and then they get a holiday; they get a boulevar..."
+
+</details>
+
+<details>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (3 mentions)</summary>
+
+**[00:06:08](/episodes/ep-c5BcKF91iec.md#ent-person-john-f-kennedy-t-00-05-52)**
+> "JFK was shot and killed, and now LBJ has to step up, ..."
+
+**[00:06:36](/episodes/ep-c5BcKF91iec.md#ent-person-john-f-kennedy-t-00-06-36)**
+> "And JFK had a plan."
+
+**[00:06:39](/episodes/ep-c5BcKF91iec.md#ent-person-john-f-kennedy-t-00-06-36)**
+> "...inated in front of the world, JFK maybe had a succession plan."
+
+</details>
+
+<details>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (2 mentions)</summary>
+
+**[00:19:41](/episodes/ep-pc3pxRyNFZk.md#ent-person-john-f-kennedy-t-00-19-31)**
+> "...ns and what we know about the JFK shooting—which we are still not allowed to tell t..."
+
+**[00:42:30](/episodes/ep-pc3pxRyNFZk.md#ent-person-john-f-kennedy-t-00-42-13)**
+> "In 1963, when JFK was shot, people didn't watch it on TikTok."
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1 mentions)</summary>
+
+**[00:35:21](/episodes/ep-5autG89PW6w.md#ent-person-john-f-kennedy-t-00-34-55)**
+> "...hat day ran something akin to JFK's assassination."
+
+</details>
+
+<details>
+<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (1 mentions)</summary>
+
+**[00:29:32](/episodes/ep-ozWJz2spBcI.md#ent-person-john-f-kennedy-t-00-29-05)**
+> "...political assassination since JFK."
+
+</details>
+
+<details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (3 mentions)</summary>
+
+**[00:27:40](/episodes/ep-t1YtLS1n8Vs.md#ent-person-john-f-kennedy-t-00-27-37)**
+> "... right now living through the JFK assassination."
+
+**[00:27:51](/episodes/ep-t1YtLS1n8Vs.md#ent-person-john-f-kennedy-t-00-27-37)**
+> "...day, did all of the homies of JFK just try to cover it up?"
+
+**[00:28:23](/episodes/ep-t1YtLS1n8Vs.md#ent-person-john-f-kennedy-t-00-28-16)**
+> "JFK, the Warren Commission, a complete and utter farc..."
+
+</details>
+
+<details>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1 mentions)</summary>
+
+**[00:44:21](/episodes/ep-YA1FxrDWNIo.md#t-00-43-43)**
+> "... this what happened after the JFK assassination?""
 
 </details>
 
@@ -151,21 +249,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1 mentions)</summary>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (1 mentions)</summary>
 
-**[00:44:21](/episodes/ep-YA1FxrDWNIo.md#t-00-43-43)**
-> "... this what happened after the JFK assassination?""
-
-</details>
-
-<details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2 mentions)</summary>
-
-**[00:48:11](/episodes/ep-ZAuuSq_j2_w.md#ent-person-john-f-kennedy-t-00-47-54)**
-> "... that he was standing up for. JFK asked too many questions as well. I cannot say to..."
-
-**[00:48:09](/episodes/ep-ZAuuSq_j2_w.md#ent-person-john-f-kennedy-t-00-47-54)**
-> "JFK asked too many questions as well."
+**[00:56:30](/episodes/ep-ja26iltROkM.md#ent-person-john-f-kennedy-t-00-56-30)**
+> "...they make him a memorial like JFK.""
 
 </details>
 
@@ -177,93 +264,6 @@ _Type: People_
 
 **[00:01:25](/episodes/ep-aDlhjfW6hz8.md#ent-person-john-f-kennedy-t-00-00-55)**
 > "...Martin Luther King Boulevard. John F. Kennedy gets a library and a national day of mourning."
-
-</details>
-
-<details>
-<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (3 mentions)</summary>
-
-**[00:06:08](/episodes/ep-c5BcKF91iec.md#ent-person-john-f-kennedy-t-00-05-52)**
-> "JFK was shot and killed, and now LBJ has to step up, ..."
-
-**[00:06:36](/episodes/ep-c5BcKF91iec.md#ent-person-john-f-kennedy-t-00-06-36)**
-> "And JFK had a plan."
-
-**[00:06:39](/episodes/ep-c5BcKF91iec.md#ent-person-john-f-kennedy-t-00-06-36)**
-> "...inated in front of the world, JFK maybe had a succession plan."
-
-</details>
-
-<details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
-
-**[00:41:15](/episodes/ep-his-JBjlkh8.md#ent-person-john-f-kennedy-t-00-41-15)**
-> "...on that has taken place since JFK, I would say."
-
-</details>
-
-<details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (1 mentions)</summary>
-
-**[00:56:30](/episodes/ep-ja26iltROkM.md#ent-person-john-f-kennedy-t-00-56-30)**
-> "...they make him a memorial like JFK.""
-
-</details>
-
-<details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
-
-**[00:05:14](/episodes/ep-mKXdKV-OBog.md#t-00-05-02)**
-> "...at this was not going to be a JFK assassination story."
-
-</details>
-
-<details>
-<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (1 mentions)</summary>
-
-**[00:29:32](/episodes/ep-ozWJz2spBcI.md#ent-person-john-f-kennedy-t-00-29-05)**
-> "...political assassination since JFK."
-
-</details>
-
-<details>
-<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (2 mentions)</summary>
-
-**[00:19:41](/episodes/ep-pc3pxRyNFZk.md#ent-person-john-f-kennedy-t-00-19-31)**
-> "...ns and what we know about the JFK shooting—which we are still not allowed to tell t..."
-
-**[00:42:30](/episodes/ep-pc3pxRyNFZk.md#ent-person-john-f-kennedy-t-00-42-13)**
-> "In 1963, when JFK was shot, people didn't watch it on TikTok."
-
-</details>
-
-<details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (3 mentions)</summary>
-
-**[00:27:40](/episodes/ep-t1YtLS1n8Vs.md#ent-person-john-f-kennedy-t-00-27-37)**
-> "... right now living through the JFK assassination."
-
-**[00:27:51](/episodes/ep-t1YtLS1n8Vs.md#ent-person-john-f-kennedy-t-00-27-37)**
-> "...day, did all of the homies of JFK just try to cover it up?"
-
-**[00:28:23](/episodes/ep-t1YtLS1n8Vs.md#ent-person-john-f-kennedy-t-00-28-16)**
-> "JFK, the Warren Commission, a complete and utter farc..."
-
-</details>
-
-<details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
-
-**[01:03:05](/episodes/ep-vwG1juDCQZQ.md#ent-person-john-f-kennedy-t-01-02-42)**
-> "... this is not going to be like JFK."
-
-</details>
-
-<details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
-
-**[00:59:47](/episodes/ep-yAIb-NuUh_U.md#ent-person-john-f-kennedy-t-00-59-18)**
-> "...ading Chaos. Then they killed JFK, and suddenly the Calvary Church is born. And you..."
 
 </details>
 

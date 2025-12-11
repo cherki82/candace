@@ -18,6 +18,20 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (3 mentions)</summary>
+
+**[00:03:12](/episodes/ep-t4U7NjnUEgc.md#ent-org-united-states-pentagon-t-00-19-57)**
+> "you don't see this unless you're at the Pentagon or you're at the White House"
+
+**[00:20:11](/episodes/ep-t4U7NjnUEgc.md#ent-org-united-states-pentagon-t-00-19-57)**
+> "...see this unless you're at the Pentagon or you're at the White House."
+
+**[00:20:11](/episodes/ep-t4U7NjnUEgc.md#ent-org-united-states-pentagon-t-00-19-57)**
+> "...n't see this unless you're at the Pentagon or you're at the White House."
+
+</details>
+
+<details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
 
 **[00:06:50](/episodes/ep-Kmt6HgRjckU.md#ent-org-united-states-pentagon-t-00-06-27)**
@@ -25,56 +39,6 @@ _Type: Organizations_
 
 **[00:06:50](/episodes/ep-Kmt6HgRjckU.md#ent-org-united-states-pentagon-t-00-06-27)**
 > "And yet strangely, neither the Pentagon nor the White House or our intel agencies or the ..."
-
-</details>
-
-<details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (15 mentions)</summary>
-
-**[00:47:10](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-46-55)**
-> "...s are coming; the Muslims are here; Mamdani—there's a jihadist threat; something big is coming. And the Pentagon— like where the Department of Defense is housed—the Pentagon, which was implicated in 9/11—a lot of..."
-
-**[00:47:23](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-46-55)**
-> "...t threat; something big is coming. And the Pentagon— like where the Department of Defense is housed—the Pentagon, which was implicated in 9/11—a lot of questions about what the Pentagon was up to, money, a lot of..."
-
-**[00:49:07](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-48-57)**
-> "...u're just interested in basic safety and defense, you wouldn't allow that person in a building like the Pentagon specifically. And they're doing that why? Because she has proven over and over again that she has n..."
-
-**[00:47:44](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-47-39)**
-> "...this headline. "Conservative activist Laura Loomer, a Trump (Donald Trump) ally, says she has a new Pentagon press pass." Now, this is of interest. This should be of interest to everybody. But you don't have ..."
-
-**[00:47:10](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-46-55)**
-> "...ething big is coming. And the Pentagon—"
-
-**[00:47:10](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-46-55)**
-> "... something big is coming. And the Pentagon—"
-
-**[00:47:23](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-46-55)**
-> "...ment of Defense is housed—the Pentagon, which was implicated in 9/11—a lot of questions ..."
-
-**[00:47:23](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-46-55)**
-> "...t of questions about what the Pentagon was up to, money, a lot of questions about the Pe..."
-
-**[00:47:23](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-46-55)**
-> "... a lot of questions about the Pentagon—"
-
-**[00:47:23](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-46-55)**
-> "...partment of Defense is housed—the Pentagon, which was implicated in 9/11—a lot of questions ..."
-
-**[00:47:23](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-46-55)**
-> "...a lot of questions about what the Pentagon was up to, money, a lot of questions about the Pe..."
-
-**[00:47:23](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-46-55)**
-> "...ney, a lot of questions about the Pentagon—"
-
-**[00:47:44](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-47-39)**
-> "...ump) ally, says she has a new Pentagon press pass.""
-
-**[00:49:07](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-48-57)**
-> "...person in a building like the Pentagon specifically."
-
-**[00:49:07](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-48-57)**
-> "...hat person in a building like the Pentagon specifically."
 
 </details>
 
@@ -212,6 +176,56 @@ _Type: Organizations_
 </details>
 
 <details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (15 mentions)</summary>
+
+**[00:47:10](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-46-55)**
+> "...s are coming; the Muslims are here; Mamdani—there's a jihadist threat; something big is coming. And the Pentagon— like where the Department of Defense is housed—the Pentagon, which was implicated in 9/11—a lot of..."
+
+**[00:47:23](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-46-55)**
+> "...t threat; something big is coming. And the Pentagon— like where the Department of Defense is housed—the Pentagon, which was implicated in 9/11—a lot of questions about what the Pentagon was up to, money, a lot of..."
+
+**[00:49:07](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-48-57)**
+> "...u're just interested in basic safety and defense, you wouldn't allow that person in a building like the Pentagon specifically. And they're doing that why? Because she has proven over and over again that she has n..."
+
+**[00:47:44](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-47-39)**
+> "...this headline. "Conservative activist Laura Loomer, a Trump (Donald Trump) ally, says she has a new Pentagon press pass." Now, this is of interest. This should be of interest to everybody. But you don't have ..."
+
+**[00:47:10](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-46-55)**
+> "...ething big is coming. And the Pentagon—"
+
+**[00:47:10](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-46-55)**
+> "... something big is coming. And the Pentagon—"
+
+**[00:47:23](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-46-55)**
+> "...ment of Defense is housed—the Pentagon, which was implicated in 9/11—a lot of questions ..."
+
+**[00:47:23](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-46-55)**
+> "...t of questions about what the Pentagon was up to, money, a lot of questions about the Pe..."
+
+**[00:47:23](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-46-55)**
+> "... a lot of questions about the Pentagon—"
+
+**[00:47:23](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-46-55)**
+> "...partment of Defense is housed—the Pentagon, which was implicated in 9/11—a lot of questions ..."
+
+**[00:47:23](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-46-55)**
+> "...a lot of questions about what the Pentagon was up to, money, a lot of questions about the Pe..."
+
+**[00:47:23](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-46-55)**
+> "...ney, a lot of questions about the Pentagon—"
+
+**[00:47:44](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-47-39)**
+> "...ump) ally, says she has a new Pentagon press pass.""
+
+**[00:49:07](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-48-57)**
+> "...person in a building like the Pentagon specifically."
+
+**[00:49:07](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-48-57)**
+> "...hat person in a building like the Pentagon specifically."
+
+</details>
+
+<details>
 <summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (3 mentions)</summary>
 
 **[00:04:43](/episodes/ep-sreYYcID-QY.md#ent-org-united-states-pentagon-t-00-04-43)**
@@ -225,35 +239,10 @@ _Type: Organizations_
 
 </details>
 
-<details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (3 mentions)</summary>
-
-**[00:03:12](/episodes/ep-t4U7NjnUEgc.md#ent-org-united-states-pentagon-t-00-19-57)**
-> "you don't see this unless you're at the Pentagon or you're at the White House"
-
-**[00:20:11](/episodes/ep-t4U7NjnUEgc.md#ent-org-united-states-pentagon-t-00-19-57)**
-> "...see this unless you're at the Pentagon or you're at the White House."
-
-**[00:20:11](/episodes/ep-t4U7NjnUEgc.md#ent-org-united-states-pentagon-t-00-19-57)**
-> "...n't see this unless you're at the Pentagon or you're at the White House."
-
-</details>
-
 </details>
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
-
-<details>
-<summary>Affiliated With (2)</summary>
-
-- **[Laura Loomer](/entities/person-laura-loomer.md)**
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:38](/episodes/ep-his-JBjlkh8.md#t-00-02-58): ""So our government, the Pentagon, decided to credential her at this time.  She's a part of the new press corps that we can trust.""
-
-- **[Kam Higby](/entities/person-cam-higby.md)**
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:45](/episodes/ep-his-JBjlkh8.md#t-00-03-40): ""another Zionist influencer named Kam Higby, who has also now been credentialed by the Pentagon,""
-
-</details>
 
 <details>
 <summary>Employs (1)</summary>
@@ -281,13 +270,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
-
-- **[Laura Loomer](/entities/person-laura-loomer.md)** affiliated with this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:38](/episodes/ep-his-JBjlkh8.md#t-00-02-58)
-
-- **[Kam Higby](/entities/person-cam-higby.md)** affiliated with this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:45](/episodes/ep-his-JBjlkh8.md#t-00-03-40)
+<summary>Referenced By (5)</summary>
 
 - **[Department of Defense](/entities/org-department-of-defense.md)** headquartered in this
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:30](/episodes/ep-his-JBjlkh8.md#t-00-00-44)
@@ -315,10 +298,10 @@ _Type: Organizations_
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2)</summary>
 
 - [00:06:50](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) (Claim) **Candace Owens**: ["Neither the Pentagon nor the White House nor our intel agencies nor th..."](/statements/statement-1c3fbbbdbc0f.md)
-  - Also about: [White House](/entities/org-white-house.md), [Élysée Palace](/entities/org-elysee-palace.md)
+  - Also about: [White House](/entities/org-white-house.md), [Élysée Palace](/entities/gpe-elysee-palace.md)
 
 - [00:06:58](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) (Claim) **Candace Owens**: ["Neither the Pentagon nor the White House or our intel agencies or the ..."](/statements/statement-532c5d81ba0d.md)
-  - Also about: [White House](/entities/org-white-house.md), [Élysée Palace](/entities/org-elysee-palace.md), [Emmanuel Macron](/entities/person-emmanuel-macron.md)
+  - Also about: [White House](/entities/org-white-house.md), [Élysée Palace](/entities/gpe-elysee-palace.md), [Emmanuel Macron](/entities/person-emmanuel-macron.md)
 
 </details>
 
@@ -326,7 +309,7 @@ _Type: Organizations_
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1)</summary>
 
 - [00:24:47](/episodes/ep-ZAuuSq_j2_w.md#t-00-24-28) (Claim) **Candace Owens**: ["Neither the White House nor the Élysée Palace nor the United States Pe..."](/statements/statement-762a0183a31f.md)
-  - Also about: [White House](/entities/org-white-house.md), [Élysée Palace](/entities/org-elysee-palace.md), [Candace Owens](/entities/person-candace-owens.md)
+  - Also about: [White House](/entities/org-white-house.md), [Élysée Palace](/entities/gpe-elysee-palace.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 

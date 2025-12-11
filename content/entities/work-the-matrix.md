@@ -1,13 +1,13 @@
 ---
 title: "The Matrix"
-description: "The Matrix (Work) - 27 mentions"
+description: "The Matrix (Works & Media) - 27 mentions"
 id: "work-the-matrix"
 type: "WORK"
 aliases:
   - "Matrix"
 ---
 
-_Type: Work_
+_Type: Works & Media_
 
 **Also known as:** Matrix
 
@@ -15,6 +15,52 @@ _Type: Work_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (5 mentions)</summary>
+
+**[00:46:20](/episodes/ep-his-JBjlkh8.md#ent-work-the-matrix-t-00-45-41)**
+> "If they have an individual in the matrix who creates something that they cannot control or..."
+
+**[00:46:20](/episodes/ep-his-JBjlkh8.md#ent-work-the-matrix-t-00-45-41)**
+> "...hey have an individual in the matrix who creates something that they cannot control or..."
+
+**[00:48:27](/episodes/ep-his-JBjlkh8.md#ent-work-the-matrix-t-00-47-48)**
+> "That's the matrix."
+
+**[00:48:28](/episodes/ep-his-JBjlkh8.md#ent-work-the-matrix-t-00-48-28)**
+> "That is the matrix."
+
+**[00:49:16](/episodes/ep-his-JBjlkh8.md#ent-work-the-matrix-t-00-49-01)**
+> "...—whose death is exposing this matrix in ways I do not even think that we can fully com..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (7 mentions)</summary>
+
+**[00:54:44](/episodes/ep-tB5SXXmd9vU.md#ent-work-the-matrix-t-00-54-28)**
+> "...the heck did they sue in Delaware? What is this never-before-seen lawsuit? It is a consequence from The Matrix for me discussing a multinational state secret, which is Brigitte Macron. Brigitte Macron's true or..."
+
+**[00:48:49](/episodes/ep-tB5SXXmd9vU.md#ent-work-the-matrix-t-00-48-25)**
+> "...we got to all wake up to this matrix."
+
+**[00:49:48](/episodes/ep-tB5SXXmd9vU.md#ent-work-the-matrix-t-00-49-28)**
+> "This is how they create the matrix."
+
+**[00:50:42](/episodes/ep-tB5SXXmd9vU.md#ent-work-the-matrix-t-00-50-13)**
+> "Part of the matrix requires you to have this sort of instinct to thi..."
+
+**[00:54:44](/episodes/ep-tB5SXXmd9vU.md#ent-work-the-matrix-t-00-54-28)**
+> "It is a consequence from The Matrix for me discussing a multinational state secret, w..."
+
+**[01:01:15](/episodes/ep-tB5SXXmd9vU.md#ent-work-the-matrix-t-01-01-15)**
+> "...ill be attacked for surviving the matrix and committing yourself to truth. That feels like..."
+
+**[01:01:15](/episodes/ep-tB5SXXmd9vU.md#ent-work-the-matrix-t-01-01-15)**
+> "...be attacked for surviving the matrix and committing yourself to truth. That feels like..."
+
+</details>
 
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (3 mentions)</summary>
@@ -27,20 +73,6 @@ _Type: Work_
 
 **[00:55:35](/episodes/ep-LATnak75Si0.md#ent-work-the-matrix-t-00-55-13)**
 > "...dace Owens), if we are in The Matrix—and we are—you are Morpheus."
-
-</details>
-
-<details>
-<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (3 mentions)</summary>
-
-**[00:51:03](/episodes/ep-UBkFkg4UNY8.md#ent-work-the-matrix-t-00-50-23)**
-> "It's like the Matrix"
-
-**[00:51:03](/episodes/ep-UBkFkg4UNY8.md#ent-work-the-matrix-t-00-50-23)**
-> "We are in their matrix."
-
-**[00:51:04](/episodes/ep-UBkFkg4UNY8.md#ent-work-the-matrix-t-00-50-23)**
-> "...s get out of the psychopathic matrix."
 
 </details>
 
@@ -68,30 +100,16 @@ _Type: Work_
 </details>
 
 <details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1 mentions)</summary>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (3 mentions)</summary>
 
-**[01:03:52](/episodes/ep-czVBmqZP6Ss.md#t-01-03-34)**
-> "...ighting. They are neo-historians. They publish a lot. And you believe they're kind of creating this matrix of history, that there's very little truth there. Kari writes, “All death can do to the believer is..."
+**[00:51:03](/episodes/ep-UBkFkg4UNY8.md#ent-work-the-matrix-t-00-50-23)**
+> "It's like the Matrix"
 
-</details>
+**[00:51:03](/episodes/ep-UBkFkg4UNY8.md#ent-work-the-matrix-t-00-50-23)**
+> "We are in their matrix."
 
-<details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (5 mentions)</summary>
-
-**[00:46:20](/episodes/ep-his-JBjlkh8.md#ent-work-the-matrix-t-00-45-41)**
-> "If they have an individual in the matrix who creates something that they cannot control or..."
-
-**[00:46:20](/episodes/ep-his-JBjlkh8.md#ent-work-the-matrix-t-00-45-41)**
-> "...hey have an individual in the matrix who creates something that they cannot control or..."
-
-**[00:48:27](/episodes/ep-his-JBjlkh8.md#ent-work-the-matrix-t-00-47-48)**
-> "That's the matrix."
-
-**[00:48:28](/episodes/ep-his-JBjlkh8.md#ent-work-the-matrix-t-00-48-28)**
-> "That is the matrix."
-
-**[00:49:16](/episodes/ep-his-JBjlkh8.md#ent-work-the-matrix-t-00-49-01)**
-> "...—whose death is exposing this matrix in ways I do not even think that we can fully com..."
+**[00:51:04](/episodes/ep-UBkFkg4UNY8.md#ent-work-the-matrix-t-00-50-23)**
+> "...s get out of the psychopathic matrix."
 
 </details>
 
@@ -107,28 +125,10 @@ _Type: Work_
 </details>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (7 mentions)</summary>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1 mentions)</summary>
 
-**[00:54:44](/episodes/ep-tB5SXXmd9vU.md#ent-work-the-matrix-t-00-54-28)**
-> "...the heck did they sue in Delaware? What is this never-before-seen lawsuit? It is a consequence from The Matrix for me discussing a multinational state secret, which is Brigitte Macron. Brigitte Macron's true or..."
-
-**[00:48:49](/episodes/ep-tB5SXXmd9vU.md#ent-work-the-matrix-t-00-48-25)**
-> "...we got to all wake up to this matrix."
-
-**[00:49:48](/episodes/ep-tB5SXXmd9vU.md#ent-work-the-matrix-t-00-49-28)**
-> "This is how they create the matrix."
-
-**[00:50:42](/episodes/ep-tB5SXXmd9vU.md#ent-work-the-matrix-t-00-50-13)**
-> "Part of the matrix requires you to have this sort of instinct to thi..."
-
-**[00:54:44](/episodes/ep-tB5SXXmd9vU.md#ent-work-the-matrix-t-00-54-28)**
-> "It is a consequence from The Matrix for me discussing a multinational state secret, w..."
-
-**[01:01:15](/episodes/ep-tB5SXXmd9vU.md#ent-work-the-matrix-t-01-01-15)**
-> "...ill be attacked for surviving the matrix and committing yourself to truth. That feels like..."
-
-**[01:01:15](/episodes/ep-tB5SXXmd9vU.md#ent-work-the-matrix-t-01-01-15)**
-> "...be attacked for surviving the matrix and committing yourself to truth. That feels like..."
+**[01:03:52](/episodes/ep-czVBmqZP6Ss.md#t-01-03-34)**
+> "...ighting. They are neo-historians. They publish a lot. And you believe they're kind of creating this matrix of history, that there's very little truth there. Kari writes, “All death can do to the believer is..."
 
 </details>
 

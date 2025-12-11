@@ -11,7 +11,7 @@ object: "org-turning-point-usa"
 
 ## [Charlie Kirk](/entities/person-charlie-kirk) founded [Turning Point USA](/entities/org-turning-point-usa)
 
-### Evidence (15 mentions)
+### Evidence (14 mentions)
 
 **[TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w)**
 
@@ -35,7 +35,6 @@ object: "org-turning-point-usa"
 
 **[To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co)**
 
-- [00:00:54](/episodes/ep-_dRaEO47-co#t-00-00-54): _decided not to go to college, started Turning Point USA._
 - [00:00:54](/episodes/ep-_dRaEO47-co#t-00-00-54): _decided not to go to college, started Turning Point USA._
 - [00:00:54](/episodes/ep-_dRaEO47-co#t-00-00-54): _started Turning Point USA_
 - [00:01:03](/episodes/ep-_dRaEO47-co#t-00-01-03): _started Turning Point USA_

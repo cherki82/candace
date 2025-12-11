@@ -19,59 +19,6 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (6 mentions)</summary>
-
-**[00:58:14](/episodes/ep-Cq7nj9rxPdo.md#ent-person-jean-michel-trogneux-t-00-57-42)**
-> "... back when, when this wasn't even a viral story. I mean, completely ridiculous. Okay, you were born Jean-Michel Trogneux. You transitioned, and you've been put in this position of power. And I don't know why they would d..."
-
-**[00:57:21](/episodes/ep-Cq7nj9rxPdo.md#ent-person-jean-michel-trogneux-t-00-57-02)**
-> "you were born Jean-Michel Trogneux, you transitioned"
-
-**[00:58:14](/episodes/ep-Cq7nj9rxPdo.md#ent-person-jean-michel-trogneux-t-00-57-42)**
-> "Okay, you were born Jean-Michel Trogneux. You transitioned, and you've been put in this po..."
-
-**[00:56:33](/episodes/ep-Cq7nj9rxPdo.md#ent-person-jean-michel-trogneux-t-00-56-19)**
-> "... forms, Brigitte is listed as Jean Michel and listed as a male."
-
-**[00:57:09](/episodes/ep-Cq7nj9rxPdo.md#ent-person-jean-michel-trogneux-t-00-57-02)**
-> "...re registered as a dude named Jean Michel.""
-
-**[00:58:05](/episodes/ep-Cq7nj9rxPdo.md#ent-person-jean-michel-trogneux-t-00-57-42)**
-> "...harges to change your name to Jean Michel way back when, when this wasn't even a viral stor..."
-
-</details>
-
-<details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
-
-**[00:53:37](/episodes/ep-SKGUzGHymcI.md#ent-person-jean-michel-trogneux-t-00-53-19)**
-> "...ltra experiment that happened that I believe it looked very much like prisoner 2093 could have been Jean-Michel Trogneux. And then this happens. And I did not at all think there could be a connection, but this French ang..."
-
-**[00:53:37](/episodes/ep-SKGUzGHymcI.md#ent-person-jean-michel-trogneux-t-00-53-19)**
-> "...prisoner 2093 could have been Jean-Michel Trogneux."
-
-</details>
-
-<details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
-
-**[00:38:42](/episodes/ep-mKXdKV-OBog.md#t-00-38-09)**
-> "... one of their subsidiaries in Hamburg, Germany—which is of course interesting because that is where Jean-Michel Jarre disappears for a couple of decades and joins the military. And they certainly did. And the CE..."
-
-</details>
-
-<details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
-
-**[00:08:18](/episodes/ep-sImMM04XdWY.md#ent-person-jean-michel-trogneux-t-00-08-18)**
-> "... I thought that would be a great get, and I still believe that Brigitte Macron was born a man named Jean-Michel Trogneux. Suddenly, on December 3rd, before I interview him, I receive the first ever cease-and-desist lette..."
-
-**[00:08:18](/episodes/ep-sImMM04XdWY.md#ent-person-jean-michel-trogneux-t-00-08-18)**
-> "...e Macron was born a man named Jean-Michel Trogneux."
-
-</details>
-
-<details>
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (20 mentions)</summary>
 
 **[00:00:05](/episodes/ep-tB5SXXmd9vU.md#ent-person-jean-michel-trogneux-t-00-00-01)**
@@ -133,6 +80,59 @@ _Type: People_
 
 **[01:00:49](/episodes/ep-tB5SXXmd9vU.md#ent-person-jean-michel-trogneux-t-01-00-34)**
 > "What was Jean-Michel Trogneux involved in that required that transition?"
+
+</details>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+
+**[00:38:42](/episodes/ep-mKXdKV-OBog.md#t-00-38-09)**
+> "... one of their subsidiaries in Hamburg, Germany—which is of course interesting because that is where Jean-Michel Jarre disappears for a couple of decades and joins the military. And they certainly did. And the CE..."
+
+</details>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
+
+**[00:08:18](/episodes/ep-sImMM04XdWY.md#ent-person-jean-michel-trogneux-t-00-08-18)**
+> "... I thought that would be a great get, and I still believe that Brigitte Macron was born a man named Jean-Michel Trogneux. Suddenly, on December 3rd, before I interview him, I receive the first ever cease-and-desist lette..."
+
+**[00:08:18](/episodes/ep-sImMM04XdWY.md#ent-person-jean-michel-trogneux-t-00-08-18)**
+> "...e Macron was born a man named Jean-Michel Trogneux."
+
+</details>
+
+<details>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
+
+**[00:53:37](/episodes/ep-SKGUzGHymcI.md#ent-person-jean-michel-trogneux-t-00-53-19)**
+> "...ltra experiment that happened that I believe it looked very much like prisoner 2093 could have been Jean-Michel Trogneux. And then this happens. And I did not at all think there could be a connection, but this French ang..."
+
+**[00:53:37](/episodes/ep-SKGUzGHymcI.md#ent-person-jean-michel-trogneux-t-00-53-19)**
+> "...prisoner 2093 could have been Jean-Michel Trogneux."
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (6 mentions)</summary>
+
+**[00:58:14](/episodes/ep-Cq7nj9rxPdo.md#ent-person-jean-michel-trogneux-t-00-57-42)**
+> "... back when, when this wasn't even a viral story. I mean, completely ridiculous. Okay, you were born Jean-Michel Trogneux. You transitioned, and you've been put in this position of power. And I don't know why they would d..."
+
+**[00:57:21](/episodes/ep-Cq7nj9rxPdo.md#ent-person-jean-michel-trogneux-t-00-57-02)**
+> "you were born Jean-Michel Trogneux, you transitioned"
+
+**[00:58:14](/episodes/ep-Cq7nj9rxPdo.md#ent-person-jean-michel-trogneux-t-00-57-42)**
+> "Okay, you were born Jean-Michel Trogneux. You transitioned, and you've been put in this po..."
+
+**[00:56:33](/episodes/ep-Cq7nj9rxPdo.md#ent-person-jean-michel-trogneux-t-00-56-19)**
+> "... forms, Brigitte is listed as Jean Michel and listed as a male."
+
+**[00:57:09](/episodes/ep-Cq7nj9rxPdo.md#ent-person-jean-michel-trogneux-t-00-57-02)**
+> "...re registered as a dude named Jean Michel.""
+
+**[00:58:05](/episodes/ep-Cq7nj9rxPdo.md#ent-person-jean-michel-trogneux-t-00-57-42)**
+> "...harges to change your name to Jean Michel way back when, when this wasn't even a viral stor..."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Arizona"
-description: "Arizona (Places) - 75 mentions"
+description: "Arizona (Places) - 78 mentions"
 id: "gpe-arizona"
 type: "GPE"
 aliases:
@@ -15,6 +15,79 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
+
+**[00:40:12](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-arizona-t-00-39-28)**
+> "people who were on that base in Arizona"
+
+**[00:39:44](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-arizona-t-00-39-28)**
+> "...ople who were on that base in Arizona,"
+
+**[00:39:50](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-arizona-t-00-39-28)**
+> "the Wachuca base in Arizona, adding further credence to his claim is we've be..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (7 mentions)</summary>
+
+**[00:01:12](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-arizona-t-00-07-30)**
+> "cover half of Arizona and Mexico"
+
+**[00:07:57](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-arizona-t-00-07-30)**
+> "...nd they were to cover half of Arizona and Mexico."
+
+**[00:09:56](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-arizona-t-00-07-30)**
+> "...el at a warehouse in Douglas, Arizona."
+
+**[00:12:05](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-arizona-t-00-07-30)**
+> "...trol agent were sent to Naco, Arizona, where I was approached by a cartel member confir..."
+
+**[00:12:57](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-arizona-t-00-12-36)**
+> "...and a prosecutor from Tucson, Arizona, informing me of how my ID became compromised."
+
+**[00:16:07](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-arizona-t-00-15-57)**
+> "...huca, pardon me, Huachuca, in Arizona."
+
+**[00:53:20](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-arizona-t-00-53-08)**
+> "...ying that they found God, but Arizona is quite a place and I worry about what happened."
+
+</details>
+
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
+
+**[00:12:11](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-arizona-t-00-12-04)**
+> "Scottsdale, Arizona - Turning Point HQ location"
+
+**[00:12:04](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-arizona-t-00-12-04)**
+> "...rson who lives in Scottsdale, Arizona and is a billionaire, and that is where Turning P..."
+
+</details>
+
+<details>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2 mentions)</summary>
+
+**[00:01:25](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-arizona-t-00-00-43)**
+> "...ell is going on at Turning Point USA? What's going on? I wanna know what is happening over there in Arizona. Who is in charge exactly? Who is making the decisions? Who is calling the shots on all of these te..."
+
+**[00:01:25](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-arizona-t-00-00-43)**
+> "...at is happening over there in Arizona."
+
+</details>
+
+<details>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
+
+**[00:29:39](/episodes/ep-SKGUzGHymcI.md#ent-gpe-arizona-t-00-29-09)**
+> "...s just leaving Santa Barbara. Passengers don't know. Here are the passengers that we know came from Arizona and potentially Santa Barbara. Andrew Kolvet, Andrew Kolvet's wife. We have a priest. We have Stace..."
+
+**[00:29:39](/episodes/ep-SKGUzGHymcI.md#ent-gpe-arizona-t-00-29-09)**
+> "...engers that we know came from Arizona and potentially Santa Barbara."
+
+</details>
 
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (4 mentions)</summary>
@@ -57,13 +130,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2 mentions)</summary>
 
-**[00:12:11](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-arizona-t-00-12-04)**
-> "Scottsdale, Arizona - Turning Point HQ location"
+**[00:37:20](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-arizona-t-00-36-54)**
+> "...rated the October 15th, 2025 assassination of its founder, Charlie (Charlie Kirk) Kirk, in Phoenix, Arizona, by former volunteer Marcus Hale, who police say acted alone with no evidence." Ben Shapiro (Ben Sh..."
 
-**[00:12:04](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-arizona-t-00-12-04)**
-> "...rson who lives in Scottsdale, Arizona and is a billionaire, and that is where Turning P..."
+**[00:37:20](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-arizona-t-00-36-54)**
+> "...e (Charlie Kirk), in Phoenix, Arizona, by former volunteer Marcus Hale,"
 
 </details>
 
@@ -75,50 +148,6 @@ _Type: Places_
 
 **[00:06:20](/episodes/ep-LATnak75Si0.md#ent-gpe-arizona-t-00-06-20)**
 > "...Utah and then go back home to Arizona and then fly to Utah 10 days later."
-
-</details>
-
-<details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (2 mentions)</summary>
-
-**[00:33:55](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-arizona-t-00-33-55)**
-> "...ed—a curse that was put on Charlie Kirk just before he went out to UVU. I learned when I was out in Arizona last week that two weeks before Charlie Kirk was assassinated, the far-left website Jezebel declare..."
-
-**[00:33:55](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-arizona-t-00-33-55)**
-> "I learned when I was out in Arizona last week that two weeks before Charlie Kirk was ..."
-
-</details>
-
-<details>
-<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (2 mentions)</summary>
-
-**[00:09:11](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-arizona-t-00-08-31)**
-> "..., to be very clear—less than 36 hours later. I don't even think Charlie's body had returned back to Arizona. And yet somebody was dedicated to Rob McCoy lying and claiming—this person who typed this—that he ..."
-
-**[00:09:11](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-arizona-t-00-08-31)**
-> "...e's body had returned back to Arizona."
-
-</details>
-
-<details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
-
-**[00:29:39](/episodes/ep-SKGUzGHymcI.md#ent-gpe-arizona-t-00-29-09)**
-> "...s just leaving Santa Barbara. Passengers don't know. Here are the passengers that we know came from Arizona and potentially Santa Barbara. Andrew Kolvet, Andrew Kolvet's wife. We have a priest. We have Stace..."
-
-**[00:29:39](/episodes/ep-SKGUzGHymcI.md#ent-gpe-arizona-t-00-29-09)**
-> "...engers that we know came from Arizona and potentially Santa Barbara."
-
-</details>
-
-<details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
-
-**[00:33:25](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-arizona-t-00-32-51)**
-> "...e AV thing, they were trying something new, and they wanted to be able to feed it back instantly to Arizona. None of it makes sense to me because these events are typically livestreamed, but again, something..."
-
-**[00:33:25](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-arizona-t-00-32-51)**
-> "... to feed it back instantly to Arizona."
 
 </details>
 
@@ -152,51 +181,6 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2 mentions)</summary>
-
-**[00:37:20](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-arizona-t-00-36-54)**
-> "...rated the October 15th, 2025 assassination of its founder, Charlie (Charlie Kirk) Kirk, in Phoenix, Arizona, by former volunteer Marcus Hale, who police say acted alone with no evidence." Ben Shapiro (Ben Sh..."
-
-**[00:37:20](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-arizona-t-00-36-54)**
-> "...e (Charlie Kirk), in Phoenix, Arizona, by former volunteer Marcus Hale,"
-
-</details>
-
-<details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2 mentions)</summary>
-
-**[00:01:25](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-arizona-t-00-00-43)**
-> "...ell is going on at Turning Point USA? What's going on? I wanna know what is happening over there in Arizona. Who is in charge exactly? Who is making the decisions? Who is calling the shots on all of these te..."
-
-**[00:01:25](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-arizona-t-00-00-43)**
-> "...at is happening over there in Arizona."
-
-</details>
-
-<details>
-<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (6 mentions)</summary>
-
-**[00:21:19](/episodes/ep-c5BcKF91iec.md#ent-gpe-arizona-t-00-21-00)**
-> "...rlie got shot. And he told me—and I kid you not— he was on the phone with the ops that were back in Arizona watching. And I said, "What ops? We don't have people back in Arizona watching when we do college c..."
-
-**[00:21:30](/episodes/ep-c5BcKF91iec.md#ent-gpe-arizona-t-00-21-00)**
-> "...ith the ops that were back in Arizona watching. And I said, "What ops? We don't have people back in Arizona watching when we do college campus events. Is that something new?" He said, "Yes, it is new. In fac..."
-
-**[00:21:40](/episodes/ep-c5BcKF91iec.md#ent-gpe-arizona-t-00-21-00)**
-> "...his was the first time we were doing it." He said there were two people—two ops watching it back in Arizona. And he told me that the reason that they were doing it was because—you know, Candace (Candace Owen..."
-
-**[00:21:19](/episodes/ep-c5BcKF91iec.md#ent-gpe-arizona-t-00-21-00)**
-> "...ith the ops that were back in Arizona watching."
-
-**[00:21:30](/episodes/ep-c5BcKF91iec.md#ent-gpe-arizona-t-00-21-00)**
-> "We don't have people back in Arizona watching when we do college campus events. Is tha..."
-
-**[00:21:40](/episodes/ep-c5BcKF91iec.md#ent-gpe-arizona-t-00-21-00)**
-> "...e—two ops watching it back in Arizona."
-
-</details>
-
-<details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (8 mentions)</summary>
 
 **[00:06:34](/episodes/ep-iHav0PPzUz8.md#ent-gpe-arizona-t-00-06-25)**
@@ -222,6 +206,40 @@ _Type: Places_
 
 **[00:08:22](/episodes/ep-iHav0PPzUz8.md#ent-gpe-arizona-t-00-07-47)**
 > "We departed at PGA Airport in Arizona at approximately 1:40 and arrived at PVU at appro..."
+
+</details>
+
+<details>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (2 mentions)</summary>
+
+**[00:09:11](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-arizona-t-00-08-31)**
+> "..., to be very clear—less than 36 hours later. I don't even think Charlie's body had returned back to Arizona. And yet somebody was dedicated to Rob McCoy lying and claiming—this person who typed this—that he ..."
+
+**[00:09:11](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-arizona-t-00-08-31)**
+> "...e's body had returned back to Arizona."
+
+</details>
+
+<details>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (6 mentions)</summary>
+
+**[00:21:19](/episodes/ep-c5BcKF91iec.md#ent-gpe-arizona-t-00-21-00)**
+> "...rlie got shot. And he told me—and I kid you not— he was on the phone with the ops that were back in Arizona watching. And I said, "What ops? We don't have people back in Arizona watching when we do college c..."
+
+**[00:21:30](/episodes/ep-c5BcKF91iec.md#ent-gpe-arizona-t-00-21-00)**
+> "...ith the ops that were back in Arizona watching. And I said, "What ops? We don't have people back in Arizona watching when we do college campus events. Is that something new?" He said, "Yes, it is new. In fac..."
+
+**[00:21:40](/episodes/ep-c5BcKF91iec.md#ent-gpe-arizona-t-00-21-00)**
+> "...his was the first time we were doing it." He said there were two people—two ops watching it back in Arizona. And he told me that the reason that they were doing it was because—you know, Candace (Candace Owen..."
+
+**[00:21:19](/episodes/ep-c5BcKF91iec.md#ent-gpe-arizona-t-00-21-00)**
+> "...ith the ops that were back in Arizona watching."
+
+**[00:21:30](/episodes/ep-c5BcKF91iec.md#ent-gpe-arizona-t-00-21-00)**
+> "We don't have people back in Arizona watching when we do college campus events. Is tha..."
+
+**[00:21:40](/episodes/ep-c5BcKF91iec.md#ent-gpe-arizona-t-00-21-00)**
+> "...e—two ops watching it back in Arizona."
 
 </details>
 
@@ -267,13 +285,24 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (2 mentions)</summary>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
 
-**[01:11:11](/episodes/ep-q7f8r-THr84.md#ent-gpe-arizona-t-01-11-09)**
-> "... is the case. We're not letting this one go. Alama Coronado writes, "Sending you love from Douglas, Arizona." I'm sending you guys love back and thank you for that donation. Thank you to everyone who went on..."
+**[00:33:25](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-arizona-t-00-32-51)**
+> "...e AV thing, they were trying something new, and they wanted to be able to feed it back instantly to Arizona. None of it makes sense to me because these events are typically livestreamed, but again, something..."
 
-**[01:11:11](/episodes/ep-q7f8r-THr84.md#ent-gpe-arizona-t-01-11-09)**
-> "...ending you love from Douglas, Arizona.""
+**[00:33:25](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-arizona-t-00-32-51)**
+> "... to feed it back instantly to Arizona."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (2 mentions)</summary>
+
+**[00:33:55](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-arizona-t-00-33-55)**
+> "...ed—a curse that was put on Charlie Kirk just before he went out to UVU. I learned when I was out in Arizona last week that two weeks before Charlie Kirk was assassinated, the far-left website Jezebel declare..."
+
+**[00:33:55](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-arizona-t-00-33-55)**
+> "I learned when I was out in Arizona last week that two weeks before Charlie Kirk was ..."
 
 </details>
 
@@ -301,28 +330,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (7 mentions)</summary>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (2 mentions)</summary>
 
-**[00:01:12](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-arizona-t-00-07-30)**
-> "cover half of Arizona and Mexico"
+**[01:11:11](/episodes/ep-q7f8r-THr84.md#ent-gpe-arizona-t-01-11-09)**
+> "... is the case. We're not letting this one go. Alama Coronado writes, "Sending you love from Douglas, Arizona." I'm sending you guys love back and thank you for that donation. Thank you to everyone who went on..."
 
-**[00:07:57](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-arizona-t-00-07-30)**
-> "...nd they were to cover half of Arizona and Mexico."
-
-**[00:09:56](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-arizona-t-00-07-30)**
-> "...el at a warehouse in Douglas, Arizona."
-
-**[00:12:05](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-arizona-t-00-07-30)**
-> "...trol agent were sent to Naco, Arizona, where I was approached by a cartel member confir..."
-
-**[00:12:57](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-arizona-t-00-12-36)**
-> "...and a prosecutor from Tucson, Arizona, informing me of how my ID became compromised."
-
-**[00:16:07](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-arizona-t-00-15-57)**
-> "...huca, pardon me, Huachuca, in Arizona."
-
-**[00:53:20](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-arizona-t-00-53-08)**
-> "...ying that they found God, but Arizona is quite a place and I worry about what happened."
+**[01:11:11](/episodes/ep-q7f8r-THr84.md#ent-gpe-arizona-t-01-11-09)**
+> "...ending you love from Douglas, Arizona.""
 
 </details>
 
@@ -330,14 +344,6 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
-
-<details>
-<summary>Affiliated With (1)</summary>
-
-- **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:48:58](/episodes/ep-YFmRH8p5lt0.md#t-00-48-51): "was telling me the story about Tyler Bowyer's involvement in like Maricopa County politics in general—like what did he do before in Arizona?"
-
-</details>
 
 <details>
 <summary>Location Of (1)</summary>
@@ -358,10 +364,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
-
-- **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** affiliated with this
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:48:58](/episodes/ep-YFmRH8p5lt0.md#t-00-48-51)
+<summary>Referenced By (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** based in this
   - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:21:19](/episodes/ep-c5BcKF91iec.md#t-00-21-00)

@@ -39,23 +39,6 @@ _Type: People_
 </details>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (4 mentions)</summary>
-
-**[00:17:13](/episodes/ep-ja26iltROkM.md#ent-person-derek-maxfield-t-00-17-09)**
-> "... they just lost service. Okay. That disputes what the plane owner themselves—he identified himself, Derek Maxfield—and issued a long statement on Instagram where he said that they got permission to—you know—turn of..."
-
-**[00:17:36](/episodes/ep-ja26iltROkM.md#ent-person-derek-maxfield-t-00-17-09)**
-> "... controller. So it can't be both. It can't be, "No, it never happened; they just lost service," and Derek Maxfield saying, "No, we had communication with the ATC—which is air traffic control—and what we did followe..."
-
-**[00:17:13](/episodes/ep-ja26iltROkM.md#ent-person-derek-maxfield-t-00-17-09)**
-> "...selves—he identified himself, Derek Maxfield—and issued a long statement on Instagram where he..."
-
-**[00:17:36](/episodes/ep-ja26iltROkM.md#ent-person-derek-maxfield-t-00-17-09)**
-> "... they just lost service," and Derek Maxfield saying, "No, we had communication with the ATC—wh..."
-
-</details>
-
-<details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (6 mentions)</summary>
 
 **[00:39:09](/episodes/ep-pc3pxRyNFZk.md#ent-person-derek-maxfield-t-00-38-41)**
@@ -78,18 +61,27 @@ _Type: People_
 
 </details>
 
+<details>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (4 mentions)</summary>
+
+**[00:17:13](/episodes/ep-ja26iltROkM.md#ent-person-derek-maxfield-t-00-17-09)**
+> "... they just lost service. Okay. That disputes what the plane owner themselves—he identified himself, Derek Maxfield—and issued a long statement on Instagram where he said that they got permission to—you know—turn of..."
+
+**[00:17:36](/episodes/ep-ja26iltROkM.md#ent-person-derek-maxfield-t-00-17-09)**
+> "... controller. So it can't be both. It can't be, "No, it never happened; they just lost service," and Derek Maxfield saying, "No, we had communication with the ATC—which is air traffic control—and what we did followe..."
+
+**[00:17:13](/episodes/ep-ja26iltROkM.md#ent-person-derek-maxfield-t-00-17-09)**
+> "...selves—he identified himself, Derek Maxfield—and issued a long statement on Instagram where he..."
+
+**[00:17:36](/episodes/ep-ja26iltROkM.md#ent-person-derek-maxfield-t-00-17-09)**
+> "... they just lost service," and Derek Maxfield saying, "No, we had communication with the ATC—wh..."
+
+</details>
+
 </details>
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
-
-<details>
-<summary>Affiliated With (1)</summary>
-
-- **[Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)**
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:17:31](/episodes/ep-ja26iltROkM.md#t-00-17-09): "That disputes what the plane owner themselves—he identified himself, Derek Maxfield—and issued a long statement on Instagram"
-
-</details>
 
 <details>
 <summary>Married To (1)</summary>
@@ -97,17 +89,6 @@ _Type: People_
 - **[Shalane Maxfield](/entities/person-shalane-maxfield.md)**
   - [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:04:47](/episodes/ep-iHav0PPzUz8.md#t-00-04-12): "Derek Maxfield. He's married to Shalane Maxfield."
   - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:39:19](/episodes/ep-pc3pxRyNFZk.md#t-00-38-41): "Derek Maxfield, his wife, Shalane Maxfield—they sold some beauty company for billions"
-
-</details>
-
-<details>
-<summary>Referenced By (2)</summary>
-
-- **[Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)** affiliated with this
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:17:31](/episodes/ep-ja26iltROkM.md#t-00-17-09)
-
-- **[Shalane Maxfield](/entities/person-shalane-maxfield.md)** married to this
-  - [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:04:47](/episodes/ep-iHav0PPzUz8.md#t-00-04-12)
 
 </details>
 

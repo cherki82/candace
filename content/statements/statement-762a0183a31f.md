@@ -21,7 +21,7 @@ type: "factual_claim"
 ## About
 
 - [White House](/entities/org-white-house.md) (org)
-- [Élysée Palace](/entities/org-elysee-palace.md) (org)
+- [Élysée Palace](/entities/gpe-elysee-palace.md) (gpe)
 - [United States Pentagon](/entities/org-united-states-pentagon.md) (org)
 - [Candace Owens](/entities/person-candace-owens.md) (person)
 - [France](/entities/gpe-france.md) (gpe)

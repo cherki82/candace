@@ -1,6 +1,6 @@
 ---
 title: "George Floyd"
-description: "George Floyd (People) - 7 mentions"
+description: "George Floyd (People) - 9 mentions"
 id: "person-george-floyd"
 type: "PERSON"
 ---
@@ -11,6 +11,17 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
+
+**[00:55:48](/episodes/ep-6DhWawD4ZiM.md#ent-person-george-floyd-t-00-55-24)**
+> "We can criticize corrupt Jews without blanket anti-Semitism critiquing George Floyd"
+
+**[00:55:52](/episodes/ep-6DhWawD4ZiM.md#ent-person-george-floyd-t-00-55-24)**
+> "...nket anti-Semitism critiquing George Floyd because he died of fentanyl and the hospital isn'..."
+
+</details>
 
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (3 mentions)</summary>

@@ -17,6 +17,17 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2 mentions)</summary>
+
+**[00:47:23](/episodes/ep-ZAuuSq_j2_w.md#ent-person-adam-sosnick-t-00-47-08)**
+> "...w. It's like—I want nothing to do with it. I don't want to hang out with you. I don't hang out with Adam Sosnick. So can we get to the next part? Okay, we're not invited. We can't come to the party. We can't hang..."
+
+**[00:47:23](/episodes/ep-ZAuuSq_j2_w.md#ent-person-adam-sosnick-t-00-47-08)**
+> "I don't hang out with Adam Sosnick."
+
+</details>
+
+<details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (5 mentions)</summary>
 
 **[00:26:43](/episodes/ep-DqGNvi36ol8.md#ent-person-adam-sosnick-t-00-47-19)**
@@ -33,17 +44,6 @@ _Type: People_
 
 **[00:47:39](/episodes/ep-DqGNvi36ol8.md#ent-person-adam-sosnick-t-00-47-19)**
 > "...(Tucker Carlson) according to Adam Sosnick."
-
-</details>
-
-<details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2 mentions)</summary>
-
-**[00:47:23](/episodes/ep-ZAuuSq_j2_w.md#ent-person-adam-sosnick-t-00-47-08)**
-> "...w. It's like—I want nothing to do with it. I don't want to hang out with you. I don't hang out with Adam Sosnick. So can we get to the next part? Okay, we're not invited. We can't come to the party. We can't hang..."
-
-**[00:47:23](/episodes/ep-ZAuuSq_j2_w.md#ent-person-adam-sosnick-t-00-47-08)**
-> "I don't hang out with Adam Sosnick."
 
 </details>
 

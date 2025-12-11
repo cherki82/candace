@@ -18,17 +18,6 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
-
-**[00:32:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-32-20)**
-> "...the one thing that hurt Charlie (Charlie Kirk) the most: was that he would never be able to wear an IDF uniform. He just wanted to go fight for Israel. That's kind of the vibes that they were trying to p..."
-
-**[00:32:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-32-20)**
-> "...ould never be able to wear an IDF uniform."
-
-</details>
-
-<details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (5 mentions)</summary>
 
 **[00:41:49](/episodes/ep-581dILVcEE4.md#t-00-41-34)**
@@ -45,34 +34,6 @@ _Type: Organizations_
 
 **[00:42:16](/episodes/ep-581dILVcEE4.md#t-00-42-16)**
 > "...nce Christians to worship the IDF."
-
-</details>
-
-<details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
-
-**[00:20:56](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40)**
-> "...reit (Marissa Streit), the CEO, has never shied from telling people that she is... you know, in the IDF. She works—she worked intelligence in the IDF, right, in Israel. And I was—I took the job with them..."
-
-**[00:21:00](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40)**
-> "Marissa Streit worked intelligence in the IDF"
-
-**[00:20:56](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40)**
-> "you know, in the IDF. She works—she worked intelligence in the IDF, ri..."
-
-**[00:20:56](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40)**
-> "...he worked intelligence in the IDF, right, in Israel."
-
-</details>
-
-<details>
-<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2 mentions)</summary>
-
-**[00:08:33](/episodes/ep-K5GjF53bfN4.md#t-00-08-02)**
-> "... You know, Marissa (Marissa Streit) has not always been open about the fact that she worked for the IDF intelligence. And like I said, you could sense there was a PR panic when people started speaking ab..."
-
-**[00:08:33](/episodes/ep-K5GjF53bfN4.md#t-00-08-02)**
-> "... fact that she worked for the IDF intelligence."
 
 </details>
 
@@ -108,6 +69,45 @@ _Type: Organizations_
 </details>
 
 <details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
+
+**[00:20:56](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40)**
+> "...reit (Marissa Streit), the CEO, has never shied from telling people that she is... you know, in the IDF. She works—she worked intelligence in the IDF, right, in Israel. And I was—I took the job with them..."
+
+**[00:21:00](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40)**
+> "Marissa Streit worked intelligence in the IDF"
+
+**[00:20:56](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40)**
+> "you know, in the IDF. She works—she worked intelligence in the IDF, ri..."
+
+**[00:20:56](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40)**
+> "...he worked intelligence in the IDF, right, in Israel."
+
+</details>
+
+<details>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
+
+**[00:32:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-32-20)**
+> "...the one thing that hurt Charlie (Charlie Kirk) the most: was that he would never be able to wear an IDF uniform. He just wanted to go fight for Israel. That's kind of the vibes that they were trying to p..."
+
+**[00:32:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-32-20)**
+> "...ould never be able to wear an IDF uniform."
+
+</details>
+
+<details>
+<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (2 mentions)</summary>
+
+**[00:51:01](/episodes/ep-ozWJz2spBcI.md#t-00-50-57)**
+> "...s crazy. This came out that like their TikTok—which we covered this before—the moderation team—like IDF soldiers—and Benjamin Netanyahu saying, "We're taking over TikTok. My agents are going to get that ..."
+
+**[00:51:01](/episodes/ep-ozWJz2spBcI.md#t-00-50-57)**
+> "...fore—the moderation team—like IDF soldiers—and Benjamin Netanyahu saying,"
+
+</details>
+
+<details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (6 mentions)</summary>
 
 **[00:44:06](/episodes/ep-adJ4LNGp84I.md#t-00-44-06)**
@@ -131,6 +131,17 @@ _Type: Organizations_
 </details>
 
 <details>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2 mentions)</summary>
+
+**[00:08:33](/episodes/ep-K5GjF53bfN4.md#t-00-08-02)**
+> "... You know, Marissa (Marissa Streit) has not always been open about the fact that she worked for the IDF intelligence. And like I said, you could sense there was a PR panic when people started speaking ab..."
+
+**[00:08:33](/episodes/ep-K5GjF53bfN4.md#t-00-08-02)**
+> "... fact that she worked for the IDF intelligence."
+
+</details>
+
+<details>
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (3 mentions)</summary>
 
 **[01:03:26](/episodes/ep-czVBmqZP6Ss.md#t-01-02-48)**
@@ -141,17 +152,6 @@ _Type: Organizations_
 
 **[01:03:26](/episodes/ep-czVBmqZP6Ss.md#t-01-02-48)**
 > "...these people were like in the IDF, you know what I mean?"
-
-</details>
-
-<details>
-<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (2 mentions)</summary>
-
-**[00:51:01](/episodes/ep-ozWJz2spBcI.md#t-00-50-57)**
-> "...s crazy. This came out that like their TikTok—which we covered this before—the moderation team—like IDF soldiers—and Benjamin Netanyahu saying, "We're taking over TikTok. My agents are going to get that ..."
-
-**[00:51:01](/episodes/ep-ozWJz2spBcI.md#t-00-50-57)**
-> "...fore—the moderation team—like IDF soldiers—and Benjamin Netanyahu saying,"
 
 </details>
 

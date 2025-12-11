@@ -13,17 +13,6 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (2 mentions)</summary>
-
-**[00:06:11](/episodes/ep-UBkFkg4UNY8.md#ent-org-lds-church-t-00-05-54)**
-> "...e able to determine that not only is she connected to a big political family that is high up in the LDS church, but she also forgot to mention—and maybe there wasn't time to mention, to be fair—that they knew C..."
-
-**[00:06:11](/episodes/ep-UBkFkg4UNY8.md#ent-org-lds-church-t-00-05-54)**
-> "...family that is high up in the LDS church, but she also forgot to mention—and maybe there w..."
-
-</details>
-
-<details>
 <summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
 
 **[00:21:05](/episodes/ep-YA1FxrDWNIo.md#ent-org-lds-church-t-00-21-05)**
@@ -42,6 +31,17 @@ _Type: Organizations_
 
 **[00:19:20](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-lds-church-t-00-18-41)**
 > "He's involved in the LDS church."
+
+</details>
+
+<details>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (2 mentions)</summary>
+
+**[00:06:11](/episodes/ep-UBkFkg4UNY8.md#ent-org-lds-church-t-00-05-54)**
+> "...e able to determine that not only is she connected to a big political family that is high up in the LDS church, but she also forgot to mention—and maybe there wasn't time to mention, to be fair—that they knew C..."
+
+**[00:06:11](/episodes/ep-UBkFkg4UNY8.md#ent-org-lds-church-t-00-05-54)**
+> "...family that is high up in the LDS church, but she also forgot to mention—and maybe there w..."
 
 </details>
 

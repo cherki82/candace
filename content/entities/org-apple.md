@@ -24,6 +24,14 @@ _Type: Organizations_
 </details>
 
 <details>
+<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (1 mentions)</summary>
+
+**[00:51:38](/episodes/ep-ozWJz2spBcI.md#ent-org-apple-t-00-50-57)**
+> "...rael—have been using like the apple juice because "Jews" can sound like "juice.""
+
+</details>
+
+<details>
 <summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (2 mentions)</summary>
 
 **[00:23:13](/episodes/ep-QZWSsq8ZWzw.md#ent-org-apple-t-00-23-13)**
@@ -31,14 +39,6 @@ _Type: Organizations_
 
 **[00:23:13](/episodes/ep-QZWSsq8ZWzw.md#ent-org-apple-t-00-23-13)**
 > "... on Spotify essentially or on Apple, what's essentially happening here is he's just i..."
-
-</details>
-
-<details>
-<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (1 mentions)</summary>
-
-**[00:51:38](/episodes/ep-ozWJz2spBcI.md#ent-org-apple-t-00-50-57)**
-> "...rael—have been using like the apple juice because "Jews" can sound like "juice.""
 
 </details>
 

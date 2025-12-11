@@ -1,15 +1,16 @@
 ---
 title: "Bari Weiss"
-description: "Bari Weiss (People) - 23 mentions"
+description: "Bari Weiss (People) - 31 mentions"
 id: "person-bari-weiss"
 type: "PERSON"
 aliases:
   - "Barry"
+  - "Barry Weiss"
 ---
 
 _Type: People_
 
-**Also known as:** Barry
+**Also known as:** Barry, Barry Weiss
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -17,16 +18,42 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (8 mentions)</summary>
 
-**[00:27:38](/episodes/ep-Cq7nj9rxPdo.md#ent-person-bari-weiss-t-00-27-09)**
-> "...litary—military all over that background. And I'm going, "Is anything not military?" I'm looking at Bari Weiss, and I'm looking into her grandfather, and there's a story that's just incredible. A bomb thrown at..."
+**[00:48:54](/episodes/ep-6DhWawD4ZiM.md#ent-person-bari-weiss-t-00-36-57)**
+> "She has also made time for an upcoming CBS News town hall sit down with Barry (Barry Weiss)"
 
-**[00:27:55](/episodes/ep-Cq7nj9rxPdo.md#ent-person-bari-weiss-t-00-27-09)**
-> "looking at Bari Weiss grandfather bomb story"
+**[00:11:56](/episodes/ep-6DhWawD4ZiM.md#ent-person-bari-weiss-t-00-11-42)**
+> "... News town hall sit down with Barry (Barry Weiss), which was filmed today."
 
-**[00:27:38](/episodes/ep-Cq7nj9rxPdo.md#ent-person-bari-weiss-t-00-27-09)**
-> "I'm looking at Bari Weiss, and I'm looking into her grandfather, and there'..."
+**[00:11:56](/episodes/ep-6DhWawD4ZiM.md#ent-person-bari-weiss-t-00-11-42)**
+> "...own hall sit down with Barry (Barry Weiss), which was filmed today."
+
+**[00:35:01](/episodes/ep-6DhWawD4ZiM.md#ent-person-bari-weiss-t-00-34-47)**
+> "...literally today sat down with Barry (Barry Weiss)."
+
+**[00:35:01](/episodes/ep-6DhWawD4ZiM.md#ent-person-bari-weiss-t-00-34-47)**
+> "...ly today sat down with Barry (Barry Weiss)."
+
+**[00:35:07](/episodes/ep-6DhWawD4ZiM.md#ent-person-bari-weiss-t-00-34-47)**
+> "..., a conversation moderated by Barry (Barry Weiss)."
+
+**[00:35:07](/episodes/ep-6DhWawD4ZiM.md#ent-person-bari-weiss-t-00-34-47)**
+> "...versation moderated by Barry (Barry Weiss)."
+
+**[00:36:57](/episodes/ep-6DhWawD4ZiM.md#ent-person-bari-weiss-t-00-36-57)**
+> "Two, when Barry (Barry Weiss) asked her about the conspiracies an..."
+
+</details>
+
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
+
+**[00:40:41](/episodes/ep-Kmt6HgRjckU.md#ent-person-bari-weiss-t-00-40-07)**
+> "Erika Kirk meeting with Bari Weiss on the 13th"
+
+**[00:40:37](/episodes/ep-Kmt6HgRjckU.md#ent-person-bari-weiss-t-00-40-07)**
+> "...aster Baker writes Erica with Barry Weiss on the 13th."
 
 </details>
 
@@ -44,17 +71,6 @@ _Type: People_
 
 **[00:51:27](/episodes/ep-DqGNvi36ol8.md#ent-person-bari-weiss-t-00-51-00)**
 > "I saw some news about Barry sitting down with her."
-
-</details>
-
-<details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
-
-**[00:40:41](/episodes/ep-Kmt6HgRjckU.md#ent-person-bari-weiss-t-00-40-07)**
-> "Erika Kirk meeting with Bari Weiss on the 13th"
-
-**[00:40:37](/episodes/ep-Kmt6HgRjckU.md#ent-person-bari-weiss-t-00-40-07)**
-> "...aster Baker writes Erica with Barry Weiss on the 13th."
 
 </details>
 
@@ -107,6 +123,20 @@ _Type: People_
 
 **[00:15:54](/episodes/ep-sImMM04XdWY.md#ent-person-bari-weiss-t-00-15-24)**
 > "And yet CBS picked Bari Weiss."
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3 mentions)</summary>
+
+**[00:27:38](/episodes/ep-Cq7nj9rxPdo.md#ent-person-bari-weiss-t-00-27-09)**
+> "...litary—military all over that background. And I'm going, "Is anything not military?" I'm looking at Bari Weiss, and I'm looking into her grandfather, and there's a story that's just incredible. A bomb thrown at..."
+
+**[00:27:55](/episodes/ep-Cq7nj9rxPdo.md#ent-person-bari-weiss-t-00-27-09)**
+> "looking at Bari Weiss grandfather bomb story"
+
+**[00:27:38](/episodes/ep-Cq7nj9rxPdo.md#ent-person-bari-weiss-t-00-27-09)**
+> "I'm looking at Bari Weiss, and I'm looking into her grandfather, and there'..."
 
 </details>
 
@@ -190,7 +220,18 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bari Weiss (1)</strong></summary>
+<summary><strong class="section-title">Statements about Bari Weiss (3)</strong></summary>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2)</summary>
+
+- [00:12:03](/episodes/ep-6DhWawD4ZiM.md#t-00-11-42) (Claim) **Candace Owens**: ["Erika Kirk sat down with Bari Weiss for a CBS News town hall filmed on..."](/statements/statement-2f698294e479.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:35:21](/episodes/ep-6DhWawD4ZiM.md#t-00-34-47) (Claim) **Erika Kirk** (via read message): ["At the Bari Weiss town hall, when asked about the conspiracies and wha..."](/statements/statement-a9cc160e7b86.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1)</summary>

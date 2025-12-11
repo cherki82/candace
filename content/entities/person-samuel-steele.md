@@ -38,13 +38,4 @@ _Type: People_
 
 </details>
 
-<details>
-<summary>Referenced By (1)</summary>
-
-- **[Carrie Steele](/entities/person-carrie-steele.md)** married to this
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:14:52](/episodes/ep-sreYYcID-QY.md#t-00-14-12)
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:15:08](/episodes/ep-sreYYcID-QY.md#t-00-14-56)
-
-</details>
-
 </details>

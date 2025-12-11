@@ -13,45 +13,6 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4 mentions)</summary>
-
-**[00:58:47](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-middle-east-t-00-58-06)**
-> "...st sending our sons over to die for Israel. Their borders expand. Talking about the security of the Middle East. We would have no beef in the Middle East if it wasn't for Israel and us constantly protecting them..."
-
-**[00:58:48](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-middle-east-t-00-58-48)**
-> ".... Their borders expand. Talking about the security of the Middle East. We would have no beef in the Middle East if it wasn't for Israel and us constantly protecting them from the trouble that they cause. But I'm..."
-
-**[00:58:47](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-middle-east-t-00-58-06)**
-> "...ing about the security of the Middle East."
-
-**[00:58:48](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-middle-east-t-00-58-48)**
-> "We would have no beef in the Middle East if it wasn't for Israel and us constantly protect..."
-
-</details>
-
-<details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
-
-**[00:50:32](/episodes/ep-LATnak75Si0.md#ent-gpe-middle-east-t-00-50-32)**
-> "...y condemn things such as 'globalize the intifada'—who injected his unique far-left noxious brand of Middle East politics—somehow injected that into a municipal election there for various identitarian identity po..."
-
-**[00:50:32](/episodes/ep-LATnak75Si0.md#ent-gpe-middle-east-t-00-50-32)**
-> "...que far-left noxious brand of Middle East politics—somehow injected that into a municipal e..."
-
-</details>
-
-<details>
-<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
-
-**[00:32:06](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-middle-east-t-00-31-52)**
-> "...the crowd, right? This audience being like, "Yeah, no—why are we married to this like nation in the Middle East that happens to be committing a genocide?" But he also says things like, "You know, people that ser..."
-
-**[00:32:06](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-middle-east-t-00-31-52)**
-> "...ed to this like nation in the Middle East that happens to be committing a genocide?""
-
-</details>
-
-<details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2 mentions)</summary>
 
 **[00:48:11](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-middle-east-t-00-47-54)**
@@ -80,26 +41,6 @@ _Type: Places_
 </details>
 
 <details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (5 mentions)</summary>
-
-**[00:23:40](/episodes/ep-iHav0PPzUz8.md#ent-gpe-middle-east-t-00-23-06)**
-> "...ie and to explain nothing—means that they are scared and has them shook. And of course, it's in the Middle East. So I'm thinking there might've been some foreign involvement in Charlie (Charlie Kirk)'s assassina..."
-
-**[00:40:36](/episodes/ep-iHav0PPzUz8.md#ent-gpe-middle-east-t-00-40-36)**
-> "...e close to God by telling them that they won't be saved unless they support this abomination in the Middle East. So anyways, this leads us, of course, to Charlie (Charlie Kirk)'s last words in that text chain. H..."
-
-**[00:23:40](/episodes/ep-iHav0PPzUz8.md#ent-gpe-middle-east-t-00-23-06)**
-> "And of course, it's in the Middle East."
-
-**[00:40:36](/episodes/ep-iHav0PPzUz8.md#ent-gpe-middle-east-t-00-40-36)**
-> "...pport this abomination in the Middle East."
-
-**[00:23:42](/episodes/ep-iHav0PPzUz8.md#ent-gpe-middle-east-t-00-23-06)**
-> "it's in the Middle East. So I'm thinking there might've been some foreign involvement in Charlie Kirk's assassination"
-
-</details>
-
-<details>
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (6 mentions)</summary>
 
 **[00:12:22](/episodes/ep-mKXdKV-OBog.md#ent-gpe-middle-east-t-00-12-13)**
@@ -123,13 +64,19 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (2 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4 mentions)</summary>
 
-**[00:55:10](/episodes/ep-q7f8r-THr84.md#ent-gpe-middle-east-t-00-54-45)**
-> "...d, you know, argument on its surface that we should support them. They're the only democracy in the Middle East. Okay, now I know that that's not even true, but like who could care? I was just like pro-America a..."
+**[00:58:47](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-middle-east-t-00-58-06)**
+> "...st sending our sons over to die for Israel. Their borders expand. Talking about the security of the Middle East. We would have no beef in the Middle East if it wasn't for Israel and us constantly protecting them..."
 
-**[00:55:10](/episodes/ep-q7f8r-THr84.md#ent-gpe-middle-east-t-00-54-45)**
-> "...'re the only democracy in the Middle East."
+**[00:58:48](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-middle-east-t-00-58-48)**
+> ".... Their borders expand. Talking about the security of the Middle East. We would have no beef in the Middle East if it wasn't for Israel and us constantly protecting them from the trouble that they cause. But I'm..."
+
+**[00:58:47](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-middle-east-t-00-58-06)**
+> "...ing about the security of the Middle East."
+
+**[00:58:48](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-middle-east-t-00-58-48)**
+> "We would have no beef in the Middle East if it wasn't for Israel and us constantly protect..."
 
 </details>
 
@@ -159,6 +106,59 @@ _Type: Places_
 
 **[00:43:07](/episodes/ep-r1PS67aRmcA.md#ent-gpe-middle-east-t-00-42-41)**
 > "...ke we're up to no good in the Middle East, but at least look at this country."
+
+</details>
+
+<details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
+
+**[00:50:32](/episodes/ep-LATnak75Si0.md#ent-gpe-middle-east-t-00-50-32)**
+> "...y condemn things such as 'globalize the intifada'—who injected his unique far-left noxious brand of Middle East politics—somehow injected that into a municipal election there for various identitarian identity po..."
+
+**[00:50:32](/episodes/ep-LATnak75Si0.md#ent-gpe-middle-east-t-00-50-32)**
+> "...que far-left noxious brand of Middle East politics—somehow injected that into a municipal e..."
+
+</details>
+
+<details>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
+
+**[00:32:06](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-middle-east-t-00-31-52)**
+> "...the crowd, right? This audience being like, "Yeah, no—why are we married to this like nation in the Middle East that happens to be committing a genocide?" But he also says things like, "You know, people that ser..."
+
+**[00:32:06](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-middle-east-t-00-31-52)**
+> "...ed to this like nation in the Middle East that happens to be committing a genocide?""
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (5 mentions)</summary>
+
+**[00:23:40](/episodes/ep-iHav0PPzUz8.md#ent-gpe-middle-east-t-00-23-06)**
+> "...ie and to explain nothing—means that they are scared and has them shook. And of course, it's in the Middle East. So I'm thinking there might've been some foreign involvement in Charlie (Charlie Kirk)'s assassina..."
+
+**[00:40:36](/episodes/ep-iHav0PPzUz8.md#ent-gpe-middle-east-t-00-40-36)**
+> "...e close to God by telling them that they won't be saved unless they support this abomination in the Middle East. So anyways, this leads us, of course, to Charlie (Charlie Kirk)'s last words in that text chain. H..."
+
+**[00:23:40](/episodes/ep-iHav0PPzUz8.md#ent-gpe-middle-east-t-00-23-06)**
+> "And of course, it's in the Middle East."
+
+**[00:40:36](/episodes/ep-iHav0PPzUz8.md#ent-gpe-middle-east-t-00-40-36)**
+> "...pport this abomination in the Middle East."
+
+**[00:23:42](/episodes/ep-iHav0PPzUz8.md#ent-gpe-middle-east-t-00-23-06)**
+> "it's in the Middle East. So I'm thinking there might've been some foreign involvement in Charlie Kirk's assassination"
+
+</details>
+
+<details>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (2 mentions)</summary>
+
+**[00:55:10](/episodes/ep-q7f8r-THr84.md#ent-gpe-middle-east-t-00-54-45)**
+> "...d, you know, argument on its surface that we should support them. They're the only democracy in the Middle East. Okay, now I know that that's not even true, but like who could care? I was just like pro-America a..."
+
+**[00:55:10](/episodes/ep-q7f8r-THr84.md#ent-gpe-middle-east-t-00-54-45)**
+> "...'re the only democracy in the Middle East."
 
 </details>
 

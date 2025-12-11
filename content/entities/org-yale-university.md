@@ -17,14 +17,6 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
-
-**[00:46:33](/episodes/ep-K1tFD7FfoCU.md#t-00-46-33)**
-> "...acked the government system, and then the FBI showed up at his door, and then he was a part of some Yale program. I think it's Adam Lanza (Adam Lanza), so I'm thinking of— so there's a theme here, and my ..."
-
-</details>
-
-<details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (9 mentions)</summary>
 
 **[00:38:16](/episodes/ep-vwG1juDCQZQ.md#t-00-38-16)**
@@ -53,6 +45,14 @@ _Type: Organizations_
 
 **[00:39:15](/episodes/ep-vwG1juDCQZQ.md#t-00-38-57)**
 > "I've not spoken at Yale."
+
+</details>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
+
+**[00:46:33](/episodes/ep-K1tFD7FfoCU.md#t-00-46-33)**
+> "...acked the government system, and then the FBI showed up at his door, and then he was a part of some Yale program. I think it's Adam Lanza (Adam Lanza), so I'm thinking of— so there's a theme here, and my ..."
 
 </details>
 

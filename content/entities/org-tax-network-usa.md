@@ -13,16 +13,22 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (3 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (5 mentions)</summary>
 
-**[00:54:45](/episodes/ep-5autG89PW6w.md#ent-org-tax-network-usa-t-00-54-10)**
-> "...s, let me tell you guys about Tax Network USA."
+**[00:23:57](/episodes/ep-mKXdKV-OBog.md#ent-org-tax-network-usa-t-00-23-20)**
+> "Also want to remind you guys about Tax Network USA because if you owe the IRS back taxes"
 
-**[00:55:09](/episodes/ep-5autG89PW6w.md#ent-org-tax-network-usa-t-00-54-55)**
-> "Tax Network USA, a nationwide tax firm, has helped taxpayers save..."
+**[00:23:57](/episodes/ep-mKXdKV-OBog.md#ent-org-tax-network-usa-t-00-23-20)**
+> "...want to remind you guys about Tax Network USA because if you owe the IRS back taxes, they can g..."
 
-**[00:55:25](/episodes/ep-5autG89PW6w.md#ent-org-tax-network-usa-t-00-54-55)**
-> "...ne short call, the experts at Tax Network USA will guide you through some simple questions to d..."
+**[00:24:09](/episodes/ep-mKXdKV-OBog.md#ent-org-tax-network-usa-t-00-24-04)**
+> "Call the professionals at Tax Network USA."
+
+**[00:24:18](/episodes/ep-mKXdKV-OBog.md#ent-org-tax-network-usa-t-00-24-04)**
+> "Tax Network USA is rated A+ and has saved over one billion dollar..."
+
+**[00:24:38](/episodes/ep-mKXdKV-OBog.md#ent-org-tax-network-usa-t-00-24-04)**
+> "For a free consultation, call Tax Network USA today at 1-800-958-1000 or visit tnusa.com/Candac..."
 
 </details>
 
@@ -41,22 +47,16 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (5 mentions)</summary>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (3 mentions)</summary>
 
-**[00:23:57](/episodes/ep-mKXdKV-OBog.md#ent-org-tax-network-usa-t-00-23-20)**
-> "Also want to remind you guys about Tax Network USA because if you owe the IRS back taxes"
+**[00:54:45](/episodes/ep-5autG89PW6w.md#ent-org-tax-network-usa-t-00-54-10)**
+> "...s, let me tell you guys about Tax Network USA."
 
-**[00:23:57](/episodes/ep-mKXdKV-OBog.md#ent-org-tax-network-usa-t-00-23-20)**
-> "...want to remind you guys about Tax Network USA because if you owe the IRS back taxes, they can g..."
+**[00:55:09](/episodes/ep-5autG89PW6w.md#ent-org-tax-network-usa-t-00-54-55)**
+> "Tax Network USA, a nationwide tax firm, has helped taxpayers save..."
 
-**[00:24:09](/episodes/ep-mKXdKV-OBog.md#ent-org-tax-network-usa-t-00-24-04)**
-> "Call the professionals at Tax Network USA."
-
-**[00:24:18](/episodes/ep-mKXdKV-OBog.md#ent-org-tax-network-usa-t-00-24-04)**
-> "Tax Network USA is rated A+ and has saved over one billion dollar..."
-
-**[00:24:38](/episodes/ep-mKXdKV-OBog.md#ent-org-tax-network-usa-t-00-24-04)**
-> "For a free consultation, call Tax Network USA today at 1-800-958-1000 or visit tnusa.com/Candac..."
+**[00:55:25](/episodes/ep-5autG89PW6w.md#ent-org-tax-network-usa-t-00-54-55)**
+> "...ne short call, the experts at Tax Network USA will guide you through some simple questions to d..."
 
 </details>
 

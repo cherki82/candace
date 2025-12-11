@@ -13,33 +13,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (3 mentions)</summary>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
 
-**[00:59:43](/episodes/ep-2WEHTk0Xewg.md#ent-org-the-wellness-company-t-00-59-29)**
-> "I want to remind you about the Wellness Company because you may have—or maybe you didn't—but if you didn't know, then you should—that methylene blue being sold online is the same grade that is used in fish tanks."
+**[00:36:04](/episodes/ep-his-JBjlkh8.md#ent-org-the-wellness-company-t-00-35-51)**
+> "...o want to tell you guys about the Wellness Company, because what if the sore throat and fever that h..."
 
-**[00:59:29](/episodes/ep-2WEHTk0Xewg.md#ent-org-the-wellness-company-t-00-59-29)**
-> "...s, I want to remind you about the Wellness Company because you may have—or maybe you didn't—but if y..."
-
-**[00:59:49](/episodes/ep-2WEHTk0Xewg.md#ent-org-the-wellness-company-t-00-59-29)**
-> "You can, however, trust the Wellness Company's Recharge, which is a doctor-formulated supplement..."
-
-</details>
-
-<details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (4 mentions)</summary>
-
-**[00:28:45](/episodes/ep-QZWSsq8ZWzw.md#ent-org-the-wellness-company-t-00-28-31)**
-> "I also want to remind you guys about the Wellness Company because it is flu season"
-
-**[00:28:45](/episodes/ep-QZWSsq8ZWzw.md#ent-org-the-wellness-company-t-00-28-31)**
-> "...want to remind you guys about the Wellness Company because it is flu season, which means it's also f..."
-
-**[00:29:06](/episodes/ep-QZWSsq8ZWzw.md#ent-org-the-wellness-company-t-00-28-31)**
-> "...ontingency Emergency Kit from the Wellness Company."
-
-**[00:29:25](/episodes/ep-QZWSsq8ZWzw.md#ent-org-the-wellness-company-t-00-29-09)**
-> "got it from the Wellness Company because I refuse to be trapped in line at an emer..."
+**[00:36:14](/episodes/ep-his-JBjlkh8.md#ent-org-the-wellness-company-t-00-35-51)**
+> "...ur medical emergency kit from the Wellness Company, match your symptoms to the doctor-recommended gu..."
 
 </details>
 
@@ -61,6 +41,17 @@ _Type: Organizations_
 </details>
 
 <details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (2 mentions)</summary>
+
+**[00:45:02](/episodes/ep-r1PS67aRmcA.md#ent-org-the-wellness-company-t-00-44-40)**
+> "... Contagion Emergency Kit from The Wellness Company."
+
+**[00:45:19](/episodes/ep-r1PS67aRmcA.md#ent-org-the-wellness-company-t-00-44-40)**
+> "... Contagion Emergency Kit from The Wellness Company because I refuse to be trapped in line at an emer..."
+
+</details>
+
+<details>
 <summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (3 mentions)</summary>
 
 **[00:45:47](/episodes/ep-YFmRH8p5lt0.md#ent-org-the-wellness-company-t-00-45-22)**
@@ -71,34 +62,6 @@ _Type: Organizations_
 
 **[00:46:24](/episodes/ep-YFmRH8p5lt0.md#ent-org-the-wellness-company-t-00-46-07)**
 > "... Contagion Emergency Kit from The Wellness Company."
-
-</details>
-
-<details>
-<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (4 mentions)</summary>
-
-**[00:45:03](/episodes/ep-c5BcKF91iec.md#ent-org-the-wellness-company-t-00-44-31)**
-> "All right, you guys. Jumping in to tell you about The Wellness Company because it is officially cold and flu season"
-
-**[00:45:03](/episodes/ep-c5BcKF91iec.md#ent-org-the-wellness-company-t-00-44-31)**
-> "... Jumping in to tell you about The Wellness Company because it is officially cold and flu season—whic..."
-
-**[00:45:28](/episodes/ep-c5BcKF91iec.md#ent-org-the-wellness-company-t-00-45-11)**
-> "... Contagion Emergency Kit from The Wellness Company."
-
-**[00:45:45](/episodes/ep-c5BcKF91iec.md#ent-org-the-wellness-company-t-00-45-11)**
-> "... Contagion Emergency Kit from The Wellness Company because I refuse to be trapped in line at an emer..."
-
-</details>
-
-<details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
-
-**[00:36:04](/episodes/ep-his-JBjlkh8.md#ent-org-the-wellness-company-t-00-35-51)**
-> "...o want to tell you guys about the Wellness Company, because what if the sore throat and fever that h..."
-
-**[00:36:14](/episodes/ep-his-JBjlkh8.md#ent-org-the-wellness-company-t-00-35-51)**
-> "...ur medical emergency kit from the Wellness Company, match your symptoms to the doctor-recommended gu..."
 
 </details>
 
@@ -120,13 +83,50 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (2 mentions)</summary>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (4 mentions)</summary>
 
-**[00:45:02](/episodes/ep-r1PS67aRmcA.md#ent-org-the-wellness-company-t-00-44-40)**
+**[00:45:03](/episodes/ep-c5BcKF91iec.md#ent-org-the-wellness-company-t-00-44-31)**
+> "All right, you guys. Jumping in to tell you about The Wellness Company because it is officially cold and flu season"
+
+**[00:45:03](/episodes/ep-c5BcKF91iec.md#ent-org-the-wellness-company-t-00-44-31)**
+> "... Jumping in to tell you about The Wellness Company because it is officially cold and flu season—whic..."
+
+**[00:45:28](/episodes/ep-c5BcKF91iec.md#ent-org-the-wellness-company-t-00-45-11)**
 > "... Contagion Emergency Kit from The Wellness Company."
 
-**[00:45:19](/episodes/ep-r1PS67aRmcA.md#ent-org-the-wellness-company-t-00-44-40)**
+**[00:45:45](/episodes/ep-c5BcKF91iec.md#ent-org-the-wellness-company-t-00-45-11)**
 > "... Contagion Emergency Kit from The Wellness Company because I refuse to be trapped in line at an emer..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (4 mentions)</summary>
+
+**[00:28:45](/episodes/ep-QZWSsq8ZWzw.md#ent-org-the-wellness-company-t-00-28-31)**
+> "I also want to remind you guys about the Wellness Company because it is flu season"
+
+**[00:28:45](/episodes/ep-QZWSsq8ZWzw.md#ent-org-the-wellness-company-t-00-28-31)**
+> "...want to remind you guys about the Wellness Company because it is flu season, which means it's also f..."
+
+**[00:29:06](/episodes/ep-QZWSsq8ZWzw.md#ent-org-the-wellness-company-t-00-28-31)**
+> "...ontingency Emergency Kit from the Wellness Company."
+
+**[00:29:25](/episodes/ep-QZWSsq8ZWzw.md#ent-org-the-wellness-company-t-00-29-09)**
+> "got it from the Wellness Company because I refuse to be trapped in line at an emer..."
+
+</details>
+
+<details>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (3 mentions)</summary>
+
+**[00:59:43](/episodes/ep-2WEHTk0Xewg.md#ent-org-the-wellness-company-t-00-59-29)**
+> "I want to remind you about the Wellness Company because you may have—or maybe you didn't—but if you didn't know, then you should—that methylene blue being sold online is the same grade that is used in fish tanks."
+
+**[00:59:29](/episodes/ep-2WEHTk0Xewg.md#ent-org-the-wellness-company-t-00-59-29)**
+> "...s, I want to remind you about the Wellness Company because you may have—or maybe you didn't—but if y..."
+
+**[00:59:49](/episodes/ep-2WEHTk0Xewg.md#ent-org-the-wellness-company-t-00-59-29)**
+> "You can, however, trust the Wellness Company's Recharge, which is a doctor-formulated supplement..."
 
 </details>
 

@@ -64,14 +64,6 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Affiliated With (1)</summary>
-
-- **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:42:46](/episodes/ep-581dILVcEE4.md#t-00-42-16): "Bibi was involved with Bob Coy from Fort Lauderdale Calvary Chapel"
-
-</details>
-
-<details>
 <summary>Founded (1)</summary>
 
 - **[Calvary Chapel Pompano Beach](/entities/org-calvary-chapel-pompano-beach.md)**
@@ -80,10 +72,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
-
-- **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** affiliated with this
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:42:46](/episodes/ep-581dILVcEE4.md#t-00-42-16)
+<summary>Referenced By (1)</summary>
 
 - **[Calvary Chapel Pompano Beach](/entities/org-calvary-chapel-pompano-beach.md)** founded by this
   - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:19:12](/episodes/ep-yAIb-NuUh_U.md#t-00-18-59)

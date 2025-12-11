@@ -13,6 +13,17 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
+
+**[00:49:30](/episodes/ep-sImMM04XdWY.md#ent-person-ron-paul-t-00-49-20)**
+> "... empowered other people to know what's going on behind the scenes too. VBVC writes: "Just know that Ron Paul has used his platform to speak about it. His friend Charlie (Charlie Kirk) Kirk—questioning the off..."
+
+**[00:49:30](/episodes/ep-sImMM04XdWY.md#ent-person-ron-paul-t-00-49-20)**
+> "VBVC writes: "Just know that Ron Paul has used his platform to speak about it. His frie..."
+
+</details>
+
+<details>
 <summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (10 mentions)</summary>
 
 **[00:01:57](/episodes/ep-r1PS67aRmcA.md#ent-person-ron-paul-t-00-01-26)**
@@ -44,17 +55,6 @@ _Type: People_
 
 **[00:02:14](/episodes/ep-r1PS67aRmcA.md#ent-person-ron-paul-t-00-02-10)**
 > "...vening other than Ron Paul's (Ron Paul's) corpse leaning forward from the grave and strang..."
-
-</details>
-
-<details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
-
-**[00:49:30](/episodes/ep-sImMM04XdWY.md#ent-person-ron-paul-t-00-49-20)**
-> "... empowered other people to know what's going on behind the scenes too. VBVC writes: "Just know that Ron Paul has used his platform to speak about it. His friend Charlie (Charlie Kirk) Kirk—questioning the off..."
-
-**[00:49:30](/episodes/ep-sImMM04XdWY.md#ent-person-ron-paul-t-00-49-20)**
-> "VBVC writes: "Just know that Ron Paul has used his platform to speak about it. His frie..."
 
 </details>
 

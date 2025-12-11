@@ -25,31 +25,25 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (8 mentions)</summary>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (6 mentions)</summary>
 
-**[00:24:41](/episodes/ep-adJ4LNGp84I.md#ent-org-paleo-valley-t-00-24-30)**
-> "Also telling you guys about Paleo Valley."
+**[00:52:36](/episodes/ep-vwG1juDCQZQ.md#ent-org-paleo-valley-t-00-52-25)**
+> "I want to remind you about Paleovalley because something my team and I are always craving are their beef sticks"
 
-**[00:24:41](/episodes/ep-adJ4LNGp84I.md#ent-org-paleo-valley-t-00-24-30)**
-> "Also telling you guys about Paleo Valley."
+**[00:52:36](/episodes/ep-vwG1juDCQZQ.md#ent-org-paleo-valley-t-00-52-25)**
+> "...s: I want to remind you about Paleovalley because something my team and I are always cravin..."
 
-**[00:24:46](/episodes/ep-adJ4LNGp84I.md#ent-org-paleo-valley-t-00-24-30)**
-> "... ones from my friends over at Paleo Valley."
+**[00:53:09](/episodes/ep-vwG1juDCQZQ.md#ent-org-paleo-valley-t-00-53-09)**
+> "Paleovalley will work with your lifestyle, not against it."
 
-**[00:24:50](/episodes/ep-adJ4LNGp84I.md#ent-org-paleo-valley-t-00-24-30)**
-> "Paleo Valley makes their meat sticks with 100% grass-fed beef,..."
+**[00:53:22](/episodes/ep-vwG1juDCQZQ.md#ent-org-paleo-valley-t-00-53-09)**
+> "Paleovalley is trusted; it's proven; and it's backed by a 60-..."
 
-**[00:25:18](/episodes/ep-adJ4LNGp84I.md#ent-org-paleo-valley-t-00-25-15)**
-> "Paleo Valley works with your lifestyle."
+**[00:53:29](/episodes/ep-vwG1juDCQZQ.md#ent-org-paleo-valley-t-00-53-09)**
+> "... your first order by visiting paleovalley.com/candace."
 
-**[00:25:27](/episodes/ep-adJ4LNGp84I.md#ent-org-paleo-valley-t-00-25-15)**
-> "... 55 million beef sticks sold, Paleo Valley is trusted, proven, and backed by a 60-day money-..."
-
-**[00:25:34](/episodes/ep-adJ4LNGp84I.md#ent-org-paleo-valley-t-00-25-15)**
-> "...t 20% off your first order at paleovalley.com/Candace with code CANDACE at checkout."
-
-**[00:25:40](/episodes/ep-adJ4LNGp84I.md#ent-org-paleo-valley-t-00-25-15)**
-> "That's paleovalley.com/Candace."
+**[00:53:36](/episodes/ep-vwG1juDCQZQ.md#ent-org-paleo-valley-t-00-53-09)**
+> "That's paleovalley.com/candace—promo code Candace at checkout."
 
 </details>
 
@@ -100,6 +94,35 @@ _Type: Organizations_
 </details>
 
 <details>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (8 mentions)</summary>
+
+**[00:24:41](/episodes/ep-adJ4LNGp84I.md#ent-org-paleo-valley-t-00-24-30)**
+> "Also telling you guys about Paleo Valley."
+
+**[00:24:41](/episodes/ep-adJ4LNGp84I.md#ent-org-paleo-valley-t-00-24-30)**
+> "Also telling you guys about Paleo Valley."
+
+**[00:24:46](/episodes/ep-adJ4LNGp84I.md#ent-org-paleo-valley-t-00-24-30)**
+> "... ones from my friends over at Paleo Valley."
+
+**[00:24:50](/episodes/ep-adJ4LNGp84I.md#ent-org-paleo-valley-t-00-24-30)**
+> "Paleo Valley makes their meat sticks with 100% grass-fed beef,..."
+
+**[00:25:18](/episodes/ep-adJ4LNGp84I.md#ent-org-paleo-valley-t-00-25-15)**
+> "Paleo Valley works with your lifestyle."
+
+**[00:25:27](/episodes/ep-adJ4LNGp84I.md#ent-org-paleo-valley-t-00-25-15)**
+> "... 55 million beef sticks sold, Paleo Valley is trusted, proven, and backed by a 60-day money-..."
+
+**[00:25:34](/episodes/ep-adJ4LNGp84I.md#ent-org-paleo-valley-t-00-25-15)**
+> "...t 20% off your first order at paleovalley.com/Candace with code CANDACE at checkout."
+
+**[00:25:40](/episodes/ep-adJ4LNGp84I.md#ent-org-paleo-valley-t-00-25-15)**
+> "That's paleovalley.com/Candace."
+
+</details>
+
+<details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (5 mentions)</summary>
 
 **[00:39:06](/episodes/ep-q7f8r-THr84.md#ent-org-paleo-valley-t-00-39-02)**
@@ -116,29 +139,6 @@ _Type: Organizations_
 
 **[00:39:49](/episodes/ep-q7f8r-THr84.md#ent-org-paleo-valley-t-00-39-40)**
 > "Paleo Valley is trusted, it's proven, and it's backed by a 60-..."
-
-</details>
-
-<details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (6 mentions)</summary>
-
-**[00:52:36](/episodes/ep-vwG1juDCQZQ.md#ent-org-paleo-valley-t-00-52-25)**
-> "I want to remind you about Paleovalley because something my team and I are always craving are their beef sticks"
-
-**[00:52:36](/episodes/ep-vwG1juDCQZQ.md#ent-org-paleo-valley-t-00-52-25)**
-> "...s: I want to remind you about Paleovalley because something my team and I are always cravin..."
-
-**[00:53:09](/episodes/ep-vwG1juDCQZQ.md#ent-org-paleo-valley-t-00-53-09)**
-> "Paleovalley will work with your lifestyle, not against it."
-
-**[00:53:22](/episodes/ep-vwG1juDCQZQ.md#ent-org-paleo-valley-t-00-53-09)**
-> "Paleovalley is trusted; it's proven; and it's backed by a 60-..."
-
-**[00:53:29](/episodes/ep-vwG1juDCQZQ.md#ent-org-paleo-valley-t-00-53-09)**
-> "... your first order by visiting paleovalley.com/candace."
-
-**[00:53:36](/episodes/ep-vwG1juDCQZQ.md#ent-org-paleo-valley-t-00-53-09)**
-> "That's paleovalley.com/candace—promo code Candace at checkout."
 
 </details>
 
