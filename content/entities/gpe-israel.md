@@ -1,6 +1,6 @@
 ---
 title: "Israel"
-description: "Israel (Places) - 620 mentions"
+description: "Israel (Places) - 625 mentions"
 id: "gpe-israel"
 type: "GPE"
 aliases:
@@ -19,6 +19,26 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (5 mentions)</summary>
+
+**[00:10:49](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-israel-t-00-10-29)**
+> "Charlie never wavered in his support for Israel"
+
+**[00:10:45](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-israel-t-00-10-29)**
+> "...er wavered in his support for Israel was a nasty lie."
+
+**[00:36:46](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-israel-t-00-36-46)**
+> "...erally hell bent on advancing Israel's cause by any means necessary."
+
+**[00:42:24](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-israel-t-00-41-45)**
+> "He never blinked on Israel."
+
+**[00:43:45](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-israel-t-00-43-14)**
+> "..., oh, he had some issues with Israel in the end."
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>

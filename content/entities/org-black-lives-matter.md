@@ -1,6 +1,6 @@
 ---
 title: "Black Lives Matter"
-description: "Black Lives Matter (Organizations) - 13 mentions"
+description: "Black Lives Matter (Organizations) - 20 mentions"
 id: "org-black-lives-matter"
 type: "ORG"
 aliases:
@@ -15,6 +15,32 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (7 mentions)</summary>
+
+**[00:37:55](/episodes/ep-6J6lRZPQ4jk.md#ent-org-black-lives-matter-t-00-37-31)**
+> "BLM uses this tactic repeatedly"
+
+**[00:37:31](/episodes/ep-6J6lRZPQ4jk.md#ent-org-black-lives-matter-t-00-37-31)**
+> "...l device that was used during BLM."
+
+**[00:38:12](/episodes/ep-6J6lRZPQ4jk.md#ent-org-black-lives-matter-t-00-37-31)**
+> "BLM uses this tactic repeatedly, and now Candace has ..."
+
+**[00:38:35](/episodes/ep-6J6lRZPQ4jk.md#ent-org-black-lives-matter-t-00-38-16)**
+> "...tunate example for her to use BLM saying that 2020 taught us that many people fall ..."
+
+**[00:38:46](/episodes/ep-6J6lRZPQ4jk.md#ent-org-black-lives-matter-t-00-38-16)**
+> "...tually did the documentary on BLM and George Floyd."
+
+**[01:01:42](/episodes/ep-6J6lRZPQ4jk.md#ent-org-black-lives-matter-t-01-01-02)**
+> "...to my own community regarding BLM."
+
+**[01:01:55](/episodes/ep-6J6lRZPQ4jk.md#ent-org-black-lives-matter-t-01-01-46)**
+> "...harity that called themselves Black Lives Matter."
+
+</details>
 
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (3 mentions)</summary>
@@ -115,7 +141,14 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Black Lives Matter (1)</strong></summary>
+<summary><strong class="section-title">Statements about Black Lives Matter (2)</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1)</summary>
+
+- [01:01:53](/episodes/ep-6J6lRZPQ4jk.md#t-01-01-46) (Accusation) **Candace Owens**: ["The government was involved in hiding the facts about Black Lives Matt..."](/statements/statement-fa38721e3535.md)
+
+</details>
 
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1)</summary>

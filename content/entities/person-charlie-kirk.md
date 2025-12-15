@@ -1,6 +1,6 @@
 ---
 title: "Charlie Kirk"
-description: "Charlie Kirk (People) - 2455 mentions"
+description: "Charlie Kirk (People) - 2512 mentions"
 id: "person-charlie-kirk"
 type: "PERSON"
 aliases:
@@ -15,6 +15,182 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (57 mentions)</summary>
+
+**[00:00:28](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-00-00)**
+> "Do you feel, show of hands, okay, that the answer regarding who killed Charlie (Charlie Kirk) and what happened on September 10th is quote unquote, very clear?"
+
+**[00:00:28](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-00-00)**
+> "...regarding who killed Charlie (Charlie Kirk) and what happened on September 10th is quote unq..."
+
+**[00:00:28](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-00-00)**
+> "...e answer regarding who killed Charlie (Charlie Kirk) and what happened on September 10t..."
+
+**[00:03:19](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-02-55)**
+> "...aign, it's been nonstop since Charlie was shot."
+
+**[00:04:04](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-04-04)**
+> "...ight to me about the Charlie (Charlie Kirk) assassination and especially the way that some o..."
+
+**[00:04:04](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-04-04)**
+> "...t feels right to me about the Charlie (Charlie Kirk) assassination and especially the w..."
+
+**[00:05:27](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-05-27)**
+> "...inimal damage to the front of Charlie's neck as well, okay?"
+
+**[00:05:34](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-05-27)**
+> "...inimal damage to the front of Charlie's neck as well."
+
+**[00:07:43](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-07-40)**
+> "At one time, a friend of Charlie's."
+
+**[00:10:35](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-10-29)**
+> "Charlie's neck stopping a .30-06 bullet because he ate heal..."
+
+**[00:10:45](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-10-29)**
+> "Charlie never wavered in his support for Israel was a nas..."
+
+**[00:10:52](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-10-29)**
+> "...hat literally lied about what Charlie was living through in the last weeks of his life?"
+
+**[00:11:07](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-10-29)**
+> "Charlie was a committed evangelical who only liked Cathol..."
+
+**[00:12:14](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-11-55)**
+> "Charlie established a doge and it was not unusual."
+
+**[00:12:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-11-55)**
+> "...nment accountability Charlie (Charlie Kirk)'s team did not fly drones major lie Brian (Brian..."
+
+**[00:12:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-11-55)**
+> "...out government accountability Charlie (Charlie Kirk)'s team did not fly drones major li..."
+
+**[00:13:04](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-12-41)**
+> "Again, Charlie being shot with a .30-06."
+
+**[00:14:04](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-14-04)**
+> "...the Egyptian plains, tracking Charlie, following Erika throughout years."
+
+**[00:14:30](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-14-04)**
+> "...de a mistake on a timeline of Charlie being here on this day when he's actually there o..."
+
+**[00:15:35](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-15-32)**
+> "...the last question to Charlie (Charlie Kirk)."
+
+**[00:15:35](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-15-32)**
+> "...ho asked the last question to Charlie (Charlie Kirk)."
+
+**[00:16:34](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-16-17)**
+> "... all a part of a PR blitz for Charlie's upcoming book on honoring the Shabbat, which I'm ..."
+
+**[00:17:23](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-17-02)**
+> "...nd has always been so good to Charlie and Charlie was good to his team."
+
+**[00:17:23](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-17-02)**
+> "...s been so good to Charlie and Charlie was good to his team."
+
+**[00:17:31](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-17-02)**
+> "Everyone loved Charlie."
+
+**[00:17:51](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-17-45)**
+> "...sed Erika of killing Charlie (Charlie Kirk)."
+
+**[00:17:51](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-17-45)**
+> "...itly accused Erika of killing Charlie (Charlie Kirk)."
+
+**[00:18:20](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-17-45)**
+> "..., Erika (Erika Kirk) murdered Charlie."
+
+**[00:22:00](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-21-54)**
+> "...d with assassinating Charlie (Charlie Kirk)."
+
+**[00:22:00](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-21-54)**
+> "...s involved with assassinating Charlie (Charlie Kirk)."
+
+**[00:23:28](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-23-16)**
+> "That's not how Charlie operated."
+
+**[00:23:38](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-23-16)**
+> "What drives me nuts is that Charlie, he has worked and provided and has blessed us wi..."
+
+**[00:29:52](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-29-52)**
+> "...nt USA, faith events, you and Charlie this many times?"
+
+**[00:38:16](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-38-16)**
+> "Anyone, including Charlie's own wife, who pushes back against her conspiracie..."
+
+**[00:40:39](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-40-20)**
+> "Charlie was my good friend."
+
+**[00:42:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-41-45)**
+> "...Hammer) explicitly lied about Charlie's state of mind."
+
+**[00:42:30](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-42-30)**
+> "...to have been a good friend to Charlie, that's low-hanging fruit to say what Josh (Josh ..."
+
+**[00:42:40](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-42-30)**
+> "...e says she's a good friend to Charlie, but when similarly I came out and said a thing a..."
+
+**[00:42:40](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-42-30)**
+> "...t whole little episode saying Charlie only liked architecture for what it's worth, it w..."
+
+**[00:42:59](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-42-30)**
+> "If you were a friend to Charlie and you were committed to truth, then when Ben (B..."
+
+**[00:42:59](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-42-30)**
+> "... he never had any issues with Charlie, and I said, that's not true."
+
+**[00:43:35](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-43-14)**
+> "...nd said that he was good with Charlie or whatever and was doing a show."
+
+**[00:44:02](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-43-50)**
+> "...t Ben between her and between Charlie and, you know, basically saying that they didn't ..."
+
+**[00:44:27](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-43-50)**
+> "They made Charlie look bad."
+
+**[00:44:30](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-43-50)**
+> "They made Charlie look bad."
+
+**[00:44:54](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-44-35)**
+> "...l street journal a week after Charlie was."
+
+**[00:45:02](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-44-35)**
+> "...k to the media one week after Charlie's death."
+
+**[00:45:13](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-44-35)**
+> "Um, after Charlie died though, and I just want to say like, I know ..."
+
+**[00:45:56](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-45-56)**
+> "...years ago to prove that while Charlie was coming up, which is what I said, that's why i..."
+
+**[00:46:06](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-45-56)**
+> "That doesn't make Charlie look good."
+
+**[00:46:19](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-45-56)**
+> "...you purport to be a friend of Charlie."
+
+**[00:50:55](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-50-41)**
+> "...d by your word and honor what Charlie left behind."
+
+**[00:51:38](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-51-21)**
+> "...f Erika (Erika Kirk) marrying Charlie."
+
+**[00:54:44](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-54-04)**
+> "When Charlie and I were hitting the road together, just so you..."
+
+**[00:54:50](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-54-48)**
+> "...ust never, I was nowhere near Charlie's type and Charlie was nowhere near mine, okay?"
+
+**[00:54:50](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-54-48)**
+> "...where near Charlie's type and Charlie was nowhere near mine, okay?"
+
+**[01:02:36](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-01-02-30)**
+> "Like I said to Charlie in the message, I've always felt like an alien."
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (37 mentions)</summary>
@@ -7751,7 +7927,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Friend Of (10)</summary>
+<summary>Friend Of (11)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
   - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:11:02](/episodes/ep-K5GjF53bfN4.md#t-00-10-43): "And he's grieving somebody that he knows and who was a very close, if not one of his best friends he saw every day doing the Charlie Kirk (Charlie Kirk) show."
@@ -7785,6 +7961,9 @@ _Type: People_
 
 - **[Eric Trump](/entities/person-eric-trump.md)**
   - [To My Friend, Charlie Kirk. @ 00:08:24](/episodes/ep-_dRaEO47-co.md#t-00-07-52): "Don and Eric got him a gift certificate—I think it was for his birthday—to a fancy suit place"
+
+- **[Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md)**
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:39](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30): "She says she's a good friend to Charlie"
 
 </details>
 
@@ -7970,7 +8149,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (61)</summary>
+<summary>Referenced By (62)</summary>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)** accused this
   - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:02:25](/episodes/ep-vwG1juDCQZQ.md#t-00-02-10)
@@ -8070,6 +8249,7 @@ _Type: People_
 
 - **[Josh Hammer](/entities/person-josh-hammer.md)** friend of this
   - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:13](/episodes/ep-ja26iltROkM.md#t-00-29-48)
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:38](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30)
 
 - **[Michael Knowles](/entities/person-michael-knowles.md)** friend of this
   - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:34:06](/episodes/ep-UBkFkg4UNY8.md#t-00-33-23)
@@ -8088,6 +8268,9 @@ _Type: People_
 
 - **[Eric Trump](/entities/person-eric-trump.md)** friend of this
   - [To My Friend, Charlie Kirk. @ 00:08:24](/episodes/ep-_dRaEO47-co.md#t-00-07-52)
+
+- **[Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md)** friend of this
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:39](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30)
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** funded this
   - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:58:02](/episodes/ep-ja26iltROkM.md#t-00-57-53)
@@ -8306,7 +8489,32 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk (331)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk (339)</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (8)</summary>
+
+- [00:05:17](/episodes/ep-6J6lRZPQ4jk.md#t-00-04-43) (Claim) **Candace Owens** (via paraphrase): ["Charlie Kirk's neck stopped a 30-06 bullet with minimal damage to the ..."](/statements/statement-c5d4ddbea505.md)
+
+- [00:10:50](/episodes/ep-6J6lRZPQ4jk.md#t-00-10-29) (Claim) **Candace Owens** (via paraphrase): ["Charlie Kirk never wavered in his support for Israel"](/statements/statement-bc17cec2a5d8.md)
+
+- [00:11:41](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-13) (Claim) **Candace Owens** (via paraphrase): ["Ben Shapiro said he and Charlie Kirk never had any bad blood between t..."](/statements/statement-2fe25ac873e7.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md)
+
+- [00:12:12](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-55) (Claim) **Candace Owens** (via paraphrase): ["Brian Harpole said Charlie Kirk's security team did not fly drones"](/statements/statement-61598fd25150.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:13:09](/episodes/ep-6J6lRZPQ4jk.md#t-00-12-41) (Claim) **Candace Owens**: ["The lover text messages between Charlie Kirk and someone were presente..."](/statements/statement-2896a2012574.md)
+
+- [00:14:14](/episodes/ep-6J6lRZPQ4jk.md#t-00-14-04) (Claim) **Candace Owens**: ["Egyptian planes have been tracking Charlie Kirk and following Erika Ki..."](/statements/statement-a4fe6f71e591.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:17:42](/episodes/ep-6J6lRZPQ4jk.md#t-00-17-02) (Opinion) **Erika Kirk** (via quoted speech): ["Erika Kirk believes the truth about who killed Charlie Kirk is very cl..."](/statements/statement-38c1fae814f0.md)
+
+- [00:20:25](/episodes/ep-6J6lRZPQ4jk.md#t-00-19-45) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk stated that none of Turning Point USA or herself were invol..."](/statements/statement-6e2fdf12c4cb.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (25)</summary>

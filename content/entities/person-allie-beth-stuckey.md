@@ -1,6 +1,6 @@
 ---
 title: "Allie Beth Stuckey"
-description: "Allie Beth Stuckey (People) - 41 mentions"
+description: "Allie Beth Stuckey (People) - 42 mentions"
 id: "person-allie-beth-stuckey"
 type: "PERSON"
 aliases:
@@ -16,6 +16,14 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1 mentions)</summary>
+
+**[00:35:08](/episodes/ep-6J6lRZPQ4jk.md#t-00-34-50)**
+> "chief among them is Ali Beth Stuckey"
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1 mentions)</summary>
@@ -181,18 +189,53 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Criticized (1)</summary>
+<summary>Criticized (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
   - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:24](/episodes/ep-yAIb-NuUh_U.md#t-00-03-41): "Allie Stuckey just did this—shot a video and was like, "I don't have these dreams.""
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:43](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30): "Ali Beth Stuckey does the same like tactic of attacking people, sniping them."
+
+- **[Lila Rose](/entities/person-lila-rose.md)**
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:44:47](/episodes/ep-6J6lRZPQ4jk.md#t-00-44-35): "she's also criticized Lila Rose heavily and she's kind of questioned Lila's military connections"
 
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Friend Of (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:39](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30): "She says she's a good friend to Charlie"
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
   - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:24](/episodes/ep-yAIb-NuUh_U.md#t-00-03-41)
+
+- **[Lila Rose](/entities/person-lila-rose.md)** criticized by this
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:44:47](/episodes/ep-6J6lRZPQ4jk.md#t-00-44-35)
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:39](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Allie Beth Stuckey (3)</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (3)</summary>
+
+- [00:36:53](/episodes/ep-6J6lRZPQ4jk.md#t-00-36-46) (Accusation) **Candace Owens**: ["Allie Beth Stuckey hired a PR agent who is hell bent on advancing Isra..."](/statements/statement-e767166af4e9.md)
+
+- [00:37:07](/episodes/ep-6J6lRZPQ4jk.md#t-00-36-46) (Accusation) **Candace Owens**: ["Allie Beth Stuckey's PR agent sent someone to follow Candace Owens aft..."](/statements/statement-17af5f779299.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:37:09](/episodes/ep-6J6lRZPQ4jk.md#t-00-36-46) (Accusation) **Candace Owens**: ["Allie Beth Stuckey's PR agent keeps files and cuts people out of conte..."](/statements/statement-6b644cbab8ce.md)
 
 </details>
 

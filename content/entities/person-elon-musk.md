@@ -1,6 +1,6 @@
 ---
 title: "Elon Musk"
-description: "Elon Musk (People) - 11 mentions"
+description: "Elon Musk (People) - 14 mentions"
 id: "person-elon-musk"
 type: "PERSON"
 aliases:
@@ -15,6 +15,20 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (3 mentions)</summary>
+
+**[00:12:31](/episodes/ep-6J6lRZPQ4jk.md#ent-person-elon-musk-t-00-11-55)**
+> "Prior to Elon (Elon Musk) making that a thing about government accountability"
+
+**[00:12:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-elon-musk-t-00-11-55)**
+> "...n't even exist Prior to Elon (Elon Musk) making that a thing about government accountabil..."
+
+**[00:12:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-elon-musk-t-00-11-55)**
+> "Shouldn't even exist Prior to Elon (Elon Musk) making that a thing about government ..."
+
+</details>
 
 <details>
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>

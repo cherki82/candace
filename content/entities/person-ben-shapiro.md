@@ -1,6 +1,6 @@
 ---
 title: "Ben Shapiro"
-description: "Ben Shapiro (People) - 113 mentions"
+description: "Ben Shapiro (People) - 122 mentions"
 id: "person-ben-shapiro"
 type: "PERSON"
 aliases:
@@ -15,6 +15,38 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (9 mentions)</summary>
+
+**[00:11:40](/episodes/ep-6J6lRZPQ4jk.md#ent-person-ben-shapiro-t-00-11-13)**
+> "Ben (Ben Shapiro) said they never had any bad blood between them"
+
+**[00:11:37](/episodes/ep-6J6lRZPQ4jk.md#ent-person-ben-shapiro-t-00-11-13)**
+> "Ben (Ben Shapiro) said they never had any bad blood between them."
+
+**[00:42:59](/episodes/ep-6J6lRZPQ4jk.md#ent-person-ben-shapiro-t-00-42-30)**
+> "...tted to truth, then when Ben (Ben Shapiro) lied and said that he never had any issues with ..."
+
+**[00:42:59](/episodes/ep-6J6lRZPQ4jk.md#ent-person-ben-shapiro-t-00-42-30)**
+> "...committed to truth, then when Ben (Ben Shapiro) lied and said that he never had any..."
+
+**[00:43:35](/episodes/ep-6J6lRZPQ4jk.md#ent-person-ben-shapiro-t-00-42-30)**
+> "Or, oh, as Ben came out and said that he was good with Charlie o..."
+
+**[00:44:02](/episodes/ep-6J6lRZPQ4jk.md#ent-person-ben-shapiro-t-00-42-30)**
+> "...leased a bunch of texts about Ben between her and between Charlie and, you know, ba..."
+
+**[00:44:02](/episodes/ep-6J6lRZPQ4jk.md#ent-person-ben-shapiro-t-00-42-30)**
+> "... saying that they didn't like Ben very much back in the day seven years ago."
+
+**[00:44:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-ben-shapiro-t-00-42-30)**
+> "...cause those texts didn't make Ben look bad."
+
+**[00:45:20](/episodes/ep-6J6lRZPQ4jk.md#ent-person-ben-shapiro-t-00-42-30)**
+> "Um, I've, I've known Ben over the years."
+
+</details>
 
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (3 mentions)</summary>
@@ -505,7 +537,15 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Ben Shapiro (1)</strong></summary>
+<summary><strong class="section-title">Statements about Ben Shapiro (2)</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1)</summary>
+
+- [00:11:41](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-13) (Claim) **Candace Owens** (via paraphrase): ["Ben Shapiro said he and Charlie Kirk never had any bad blood between t..."](/statements/statement-2fe25ac873e7.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1)</summary>

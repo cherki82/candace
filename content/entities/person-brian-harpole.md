@@ -1,6 +1,6 @@
 ---
 title: "Brian Harpole"
-description: "Brian Harpole (People) - 30 mentions"
+description: "Brian Harpole (People) - 37 mentions"
 id: "person-brian-harpole"
 type: "PERSON"
 aliases:
@@ -15,6 +15,32 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (7 mentions)</summary>
+
+**[00:12:31](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brian-harpole-t-00-11-55)**
+> "Brian (Brian Harpole) (Brian Harpole) told that lie"
+
+**[00:12:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brian-harpole-t-00-11-55)**
+> "...t fly drones major lie Brian (Brian Harpole) (Brian Harpole) told that lie Brian (Brian Harpo..."
+
+**[00:12:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brian-harpole-t-00-11-55)**
+> "...or lie Brian (Brian Harpole) (Brian Harpole) told that lie Brian (Brian Harpole) (Brian Harpo..."
+
+**[00:12:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brian-harpole-t-00-11-55)**
+> "...Harpole) told that lie Brian (Brian Harpole) (Brian Harpole) also told"
+
+**[00:12:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brian-harpole-t-00-11-55)**
+> "...at lie Brian (Brian Harpole) (Brian Harpole) also told"
+
+**[00:12:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brian-harpole-t-00-11-55)**
+> "... did not fly drones major lie Brian (Brian Harpole) (Brian Harpole) told that lie Bri..."
+
+**[00:12:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brian-harpole-t-00-11-55)**
+> "...(Brian Harpole) told that lie Brian (Brian Harpole) (Brian Harpole) also told"
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4 mentions)</summary>
@@ -199,7 +225,17 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Brian Harpole (7)</strong></summary>
+<summary><strong class="section-title">Statements about Brian Harpole (9)</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2)</summary>
+
+- [00:12:12](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-55) (Claim) **Candace Owens** (via paraphrase): ["Brian Harpole said Charlie Kirk's security team did not fly drones"](/statements/statement-61598fd25150.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:12:15](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-55) (Claim) **Candace Owens** (via paraphrase): ["Brian Harpole said security had communicated with UVU police to secure..."](/statements/statement-a58305d015f8.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1)</summary>

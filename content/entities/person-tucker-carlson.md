@@ -1,6 +1,6 @@
 ---
 title: "Tucker Carlson"
-description: "Tucker Carlson (People) - 333 mentions"
+description: "Tucker Carlson (People) - 337 mentions"
 id: "person-tucker-carlson"
 type: "PERSON"
 aliases:
@@ -16,6 +16,23 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (4 mentions)</summary>
+
+**[00:06:36](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tucker-carlson-t-00-06-08)**
+> "This actually, what I'm saying about Bari Weiss, this gets into Tucker (Tucker Carlson)'s quote-unquote problematic speech"
+
+**[00:06:26](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tucker-carlson-t-00-06-08)**
+> "...Weiss, this gets into Tucker (Tucker Carlson)'s quote-unquote problematic speech at SAS when h..."
+
+**[00:06:26](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tucker-carlson-t-00-06-08)**
+> "...ut Bari Weiss, this gets into Tucker (Tucker Carlson)'s quote-unquote problematic spee..."
+
+**[00:06:26](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tucker-carlson-t-00-06-08)**
+> "...this gets into Tucker (Tucker Carlson)'s quote-unquote problematic speech at SAS when h..."
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (8 mentions)</summary>
@@ -1496,7 +1513,14 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tucker Carlson (31)</strong></summary>
+<summary><strong class="section-title">Statements about Tucker Carlson (32)</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1)</summary>
+
+- [00:06:36](/episodes/ep-6J6lRZPQ4jk.md#t-00-06-08) (Claim) **Candace Owens** (via paraphrase): ["Tucker Carlson asked at a speech how all these sub-par people are beco..."](/statements/statement-e1ee6627c959.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2)</summary>

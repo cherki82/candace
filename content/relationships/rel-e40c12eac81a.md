@@ -11,7 +11,11 @@ object: "person-charlie-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) friend of [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (7 mentions)
+### Evidence (8 mentions)
+
+**[Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk)**
+
+- [00:07:43](/episodes/ep-6J6lRZPQ4jk#t-00-07-43): _At one time, a friend of Charlie's._
 
 **[INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0)**
 

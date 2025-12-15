@@ -1,6 +1,6 @@
 ---
 title: "Mikey McCoy"
-description: "Mikey McCoy (People) - 185 mentions"
+description: "Mikey McCoy (People) - 192 mentions"
 id: "person-mikey-mccoy"
 type: "PERSON"
 aliases:
@@ -18,6 +18,32 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (7 mentions)</summary>
+
+**[00:10:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-mikey-mccoy-t-00-09-44)**
+> "Mikey (Mikey McCoy) had blood all over him"
+
+**[00:10:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-mikey-mccoy-t-00-09-44)**
+> "You know, Mikey (Mikey McCoy) had blood all over him."
+
+**[00:10:20](/episodes/ep-6J6lRZPQ4jk.md#ent-person-mikey-mccoy-t-00-09-44)**
+> "Okay, Mikey (Mikey McCoy) has offered that his dad was confused."
+
+**[00:10:31](/episodes/ep-6J6lRZPQ4jk.md#ent-person-mikey-mccoy-t-00-10-29)**
+> "Mikey being a hero for walking away doesn't feel honest..."
+
+**[00:29:32](/episodes/ep-6J6lRZPQ4jk.md#ent-person-mikey-mccoy-t-00-29-23)**
+> "...lic how letting us see Mikey (Mikey McCoy) (Mikey McCoy)'s phone records, just one example,..."
+
+**[00:29:32](/episodes/ep-6J6lRZPQ4jk.md#ent-person-mikey-mccoy-t-00-29-23)**
+> "...g us see Mikey (Mikey McCoy) (Mikey McCoy)'s phone records, just one example, if that's rea..."
+
+**[00:29:32](/episodes/ep-6J6lRZPQ4jk.md#ent-person-mikey-mccoy-t-00-29-23)**
+> "...the public how letting us see Mikey (Mikey McCoy) (Mikey McCoy)'s phone records, just..."
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
@@ -765,7 +791,18 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mikey McCoy (17)</strong></summary>
+<summary><strong class="section-title">Statements about Mikey McCoy (19)</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2)</summary>
+
+- [00:10:20](/episodes/ep-6J6lRZPQ4jk.md#t-00-09-44) (Claim) **Rob McCoy** (via paraphrase): ["Mikey McCoy had blood all over him"](/statements/statement-248b306069ca.md)
+  - Also about: [Rob McCoy](/entities/person-rob-mccoy.md)
+
+- [00:10:34](/episodes/ep-6J6lRZPQ4jk.md#t-00-10-29) (Claim) **Rob McCoy** (via paraphrase): ["Mikey McCoy called his father Rob McCoy first after the shooting"](/statements/statement-3ad8bb700479.md)
+  - Also about: [Rob McCoy](/entities/person-rob-mccoy.md)
+
+</details>
 
 <details>
 <summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1)</summary>

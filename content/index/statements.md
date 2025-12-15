@@ -1,11 +1,11 @@
 ---
 title: "Statements Index"
-description: "Browse 1162 statements extracted from podcast episodes"
+description: "Browse 1190 statements extracted from podcast episodes"
 ---
 
 # Statements
 
-_1162 statements extracted from podcast episodes._
+_1190 statements extracted from podcast episodes._
 
 > **Note:** Statements are extracted from podcast transcripts using AI analysis.
 > Speaker attribution and content may contain errors. Always verify against primary sources.
@@ -34,7 +34,7 @@ _1162 statements extracted from podcast episodes._
 
 <div class="tab-controls">
   <label for="tab-bytype" class="tab-btn">By Type</label>
-  <label for="tab-byepisode" class="tab-btn">By Episode (36)</label>
+  <label for="tab-byepisode" class="tab-btn">By Episode (37)</label>
 </div>
 
 <style>
@@ -51,7 +51,7 @@ _1162 statements extracted from podcast episodes._
 <div class="tab-content tab-content-bytype">
 
 <details open>
-<summary><strong class="section-title">Accusations (223)</strong></summary>
+<summary><strong class="section-title">Accusations (230)</strong></summary>
 
 <details>
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (6)</summary>
@@ -1540,10 +1540,57 @@ _1162 statements extracted from podcast episodes._
 </div>
 </details>
 
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (7)</summary>
+
+<div class="filter-item">
+
+- [00:06:06](/episodes/ep-6J6lRZPQ4jk.md#t-00-05-27) [○] **Candace Owens**: ["Bari Weiss is a Tel Aviv agent"](/statements/statement-ce0953603e5c.md)
+  - About: [Bari Weiss](/entities/person-bari-weiss.md)
+
+</div>
+<div class="filter-item">
+
+- [00:07:48](/episodes/ep-6J6lRZPQ4jk.md#t-00-07-40) [○] **Bari Weiss**: ["Candace Owens is building her business off of lies about the Charlie Kirk assass..."](/statements/statement-f2e8ff781408.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:53](/episodes/ep-6J6lRZPQ4jk.md#t-00-36-46) [○] **Candace Owens**: ["Allie Beth Stuckey hired a PR agent who is hell bent on advancing Israel's cause..."](/statements/statement-e767166af4e9.md)
+  - About: [Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md)
+
+</div>
+<div class="filter-item">
+
+- [00:37:07](/episodes/ep-6J6lRZPQ4jk.md#t-00-36-46) [○] **Candace Owens**: ["Allie Beth Stuckey's PR agent sent someone to follow Candace Owens after she lef..."](/statements/statement-17af5f779299.md)
+  - About: [Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:37:09](/episodes/ep-6J6lRZPQ4jk.md#t-00-36-46) [○] **Candace Owens**: ["Allie Beth Stuckey's PR agent keeps files and cuts people out of context and sen..."](/statements/statement-6b644cbab8ce.md)
+  - About: [Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md)
+
+</div>
+<div class="filter-item">
+
+- [00:39:20](/episodes/ep-6J6lRZPQ4jk.md#t-00-38-52) [○] **Candace Owens**: ["The media lied about George Floyd and how he died"](/statements/statement-8d314f3eaf82.md)
+  - About: [George Floyd](/entities/person-george-floyd.md)
+
+</div>
+<div class="filter-item">
+
+- [01:01:53](/episodes/ep-6J6lRZPQ4jk.md#t-01-01-46) [○] **Candace Owens**: ["The government was involved in hiding the facts about Black Lives Matter, and pe..."](/statements/statement-fa38721e3535.md)
+  - About: [Black Lives Matter](/entities/org-black-lives-matter.md)
+
+</div>
+</details>
+
 </details>
 
 <details open>
-<summary><strong class="section-title">Factual Claims (765)</strong></summary>
+<summary><strong class="section-title">Factual Claims (784)</strong></summary>
 
 <details>
 <summary>To My Friend, Charlie Kirk. (10)</summary>
@@ -6301,6 +6348,125 @@ _1162 statements extracted from podcast episodes._
 </div>
 </details>
 
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (19)</summary>
+
+<div class="filter-item">
+
+- [00:05:17](/episodes/ep-6J6lRZPQ4jk.md#t-00-04-43) [○] **Candace Owens**: ["Charlie Kirk's neck stopped a 30-06 bullet with minimal damage to the front of h..."](/statements/statement-c5d4ddbea505.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:36](/episodes/ep-6J6lRZPQ4jk.md#t-00-06-08) [○] **Candace Owens**: ["Tucker Carlson asked at a speech how all these sub-par people are becoming billi..."](/statements/statement-e1ee6627c959.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:08:18](/episodes/ep-6J6lRZPQ4jk.md#t-00-08-15) [○] **Candace Owens**: ["The Bari Weiss interview with Erika Kirk was pre-recorded from 11am to 4pm and r..."](/statements/statement-059669d70f62.md)
+  - About: [Bari Weiss](/entities/person-bari-weiss.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:20](/episodes/ep-6J6lRZPQ4jk.md#t-00-09-44) [○] **Rob McCoy**: ["Mikey McCoy had blood all over him"](/statements/statement-248b306069ca.md)
+  - About: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:34](/episodes/ep-6J6lRZPQ4jk.md#t-00-10-29) [○] **Rob McCoy**: ["Mikey McCoy called his father Rob McCoy first after the shooting"](/statements/statement-3ad8bb700479.md)
+  - About: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:50](/episodes/ep-6J6lRZPQ4jk.md#t-00-10-29) [○] **Candace Owens**: ["Charlie Kirk never wavered in his support for Israel"](/statements/statement-bc17cec2a5d8.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:41](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-13) [○] **Candace Owens**: ["Ben Shapiro said he and Charlie Kirk never had any bad blood between them"](/statements/statement-2fe25ac873e7.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:47](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-13) [○] **Candace Owens**: ["Terrell Farnsworth was told to remove SD cards by police"](/statements/statement-b07a3c119fa6.md)
+  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:49](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-13) [○] **Candace Owens**: ["Terrell Farnsworth removed SD cards because people were stealing hats"](/statements/statement-3f343073013d.md)
+  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:12](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-55) [○] **Candace Owens**: ["Brian Harpole said Charlie Kirk's security team did not fly drones"](/statements/statement-61598fd25150.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:15](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-55) [○] **Candace Owens**: ["Brian Harpole said security had communicated with UVU police to secure the rooft..."](/statements/statement-a58305d015f8.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:09](/episodes/ep-6J6lRZPQ4jk.md#t-00-12-41) [○] **Candace Owens**: ["The lover text messages between Charlie Kirk and someone were presented without ..."](/statements/statement-2896a2012574.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:11](/episodes/ep-6J6lRZPQ4jk.md#t-00-12-41) [○] **Candace Owens**: ["Tyler Robinson was arrested at Dairy Queen following the assassination and threw..."](/statements/statement-b87065ae62c0.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:23](/episodes/ep-6J6lRZPQ4jk.md#t-00-12-41) [○] **Candace Owens**: ["Tyler Robinson was suicidal but also turned himself in because he was afraid of ..."](/statements/statement-99f64e0b3f89.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:14:14](/episodes/ep-6J6lRZPQ4jk.md#t-00-14-04) [○] **Candace Owens**: ["Egyptian planes have been tracking Charlie Kirk and following Erika Kirk through..."](/statements/statement-a4fe6f71e591.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:14:53](/episodes/ep-6J6lRZPQ4jk.md#t-00-14-48) [○] **Candace Owens**: ["The questions for Erika Kirk's CBS interview were preselected"](/statements/statement-078426a88ea1.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:15:50](/episodes/ep-6J6lRZPQ4jk.md#t-00-15-32) [○] **Candace Owens**: ["CBS filled the audience with college Republicans and questions selected by CBS f..."](/statements/statement-e968a2d9f448.md)
+  - About: [CBS News](/entities/org-cbs-news.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:20:25](/episodes/ep-6J6lRZPQ4jk.md#t-00-19-45) [○] **Erika Kirk**: ["Erika Kirk stated that none of Turning Point USA or herself were involved in Cha..."](/statements/statement-6e2fdf12c4cb.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:12](/episodes/ep-6J6lRZPQ4jk.md#t-00-34-50) [○] **Candace Owens**: ["Tyler Robinson made his first in-person court appearance and seemed like he was ..."](/statements/statement-0119a3b20162.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+</details>
+
 </details>
 
 <details open>
@@ -6730,7 +6896,7 @@ _1162 statements extracted from podcast episodes._
 </details>
 
 <details open>
-<summary><strong class="section-title">Opinions (128)</strong></summary>
+<summary><strong class="section-title">Opinions (130)</strong></summary>
 
 <details>
 <summary>To My Friend, Charlie Kirk. (2)</summary>
@@ -7628,6 +7794,23 @@ _1162 statements extracted from podcast episodes._
 
 - [00:28:28](/episodes/ep-6DhWawD4ZiM.md#t-00-27-51) [○] **Tucker Carlson**: ["Tucker Carlson questions the claim that Charlie Kirk's assassin acted alone and ..."](/statements/statement-4ed785cea2fa.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+</details>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2)</summary>
+
+<div class="filter-item">
+
+- [00:17:42](/episodes/ep-6J6lRZPQ4jk.md#t-00-17-02) [○] **Erika Kirk**: ["Erika Kirk believes the truth about who killed Charlie Kirk is very clear"](/statements/statement-38c1fae814f0.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:33:39](/episodes/ep-6J6lRZPQ4jk.md#t-00-33-23) [○] **Candace Owens**: ["Tyler Robinson was involved on the day of the shooting but was not on campus tha..."](/statements/statement-66cbc5d50354.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </div>
 </details>
@@ -14762,8 +14945,181 @@ _1162 statements extracted from podcast episodes._
 </div>
 </details>
 
+<details>
+<summary><strong>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279</strong> (28)</summary>
+
+<div class="filter-item">
+
+- [00:05:17](/episodes/ep-6J6lRZPQ4jk.md#t-00-04-43) [○] (Claim) **Candace Owens**: ["Charlie Kirk's neck stopped a 30-06 bullet with minimal damage to the front of h..."](/statements/statement-c5d4ddbea505.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:06](/episodes/ep-6J6lRZPQ4jk.md#t-00-05-27) [○] (Accusation) **Candace Owens**: ["Bari Weiss is a Tel Aviv agent"](/statements/statement-ce0953603e5c.md)
+  - About: [Bari Weiss](/entities/person-bari-weiss.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:36](/episodes/ep-6J6lRZPQ4jk.md#t-00-06-08) [○] (Claim) **Candace Owens**: ["Tucker Carlson asked at a speech how all these sub-par people are becoming billi..."](/statements/statement-e1ee6627c959.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:07:48](/episodes/ep-6J6lRZPQ4jk.md#t-00-07-40) [○] (Accusation) **Bari Weiss**: ["Candace Owens is building her business off of lies about the Charlie Kirk assass..."](/statements/statement-f2e8ff781408.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:08:18](/episodes/ep-6J6lRZPQ4jk.md#t-00-08-15) [○] (Claim) **Candace Owens**: ["The Bari Weiss interview with Erika Kirk was pre-recorded from 11am to 4pm and r..."](/statements/statement-059669d70f62.md)
+  - About: [Bari Weiss](/entities/person-bari-weiss.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:20](/episodes/ep-6J6lRZPQ4jk.md#t-00-09-44) [○] (Claim) **Rob McCoy**: ["Mikey McCoy had blood all over him"](/statements/statement-248b306069ca.md)
+  - About: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:34](/episodes/ep-6J6lRZPQ4jk.md#t-00-10-29) [○] (Claim) **Rob McCoy**: ["Mikey McCoy called his father Rob McCoy first after the shooting"](/statements/statement-3ad8bb700479.md)
+  - About: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:50](/episodes/ep-6J6lRZPQ4jk.md#t-00-10-29) [○] (Claim) **Candace Owens**: ["Charlie Kirk never wavered in his support for Israel"](/statements/statement-bc17cec2a5d8.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:41](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-13) [○] (Claim) **Candace Owens**: ["Ben Shapiro said he and Charlie Kirk never had any bad blood between them"](/statements/statement-2fe25ac873e7.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:47](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-13) [○] (Claim) **Candace Owens**: ["Terrell Farnsworth was told to remove SD cards by police"](/statements/statement-b07a3c119fa6.md)
+  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:49](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-13) [○] (Claim) **Candace Owens**: ["Terrell Farnsworth removed SD cards because people were stealing hats"](/statements/statement-3f343073013d.md)
+  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:12](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-55) [○] (Claim) **Candace Owens**: ["Brian Harpole said Charlie Kirk's security team did not fly drones"](/statements/statement-61598fd25150.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:15](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-55) [○] (Claim) **Candace Owens**: ["Brian Harpole said security had communicated with UVU police to secure the rooft..."](/statements/statement-a58305d015f8.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:09](/episodes/ep-6J6lRZPQ4jk.md#t-00-12-41) [○] (Claim) **Candace Owens**: ["The lover text messages between Charlie Kirk and someone were presented without ..."](/statements/statement-2896a2012574.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:11](/episodes/ep-6J6lRZPQ4jk.md#t-00-12-41) [○] (Claim) **Candace Owens**: ["Tyler Robinson was arrested at Dairy Queen following the assassination and threw..."](/statements/statement-b87065ae62c0.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:23](/episodes/ep-6J6lRZPQ4jk.md#t-00-12-41) [○] (Claim) **Candace Owens**: ["Tyler Robinson was suicidal but also turned himself in because he was afraid of ..."](/statements/statement-99f64e0b3f89.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:14:14](/episodes/ep-6J6lRZPQ4jk.md#t-00-14-04) [○] (Claim) **Candace Owens**: ["Egyptian planes have been tracking Charlie Kirk and following Erika Kirk through..."](/statements/statement-a4fe6f71e591.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:14:53](/episodes/ep-6J6lRZPQ4jk.md#t-00-14-48) [○] (Claim) **Candace Owens**: ["The questions for Erika Kirk's CBS interview were preselected"](/statements/statement-078426a88ea1.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:15:50](/episodes/ep-6J6lRZPQ4jk.md#t-00-15-32) [○] (Claim) **Candace Owens**: ["CBS filled the audience with college Republicans and questions selected by CBS f..."](/statements/statement-e968a2d9f448.md)
+  - About: [CBS News](/entities/org-cbs-news.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:42](/episodes/ep-6J6lRZPQ4jk.md#t-00-17-02) [○] (Opinion) **Erika Kirk**: ["Erika Kirk believes the truth about who killed Charlie Kirk is very clear"](/statements/statement-38c1fae814f0.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:20:25](/episodes/ep-6J6lRZPQ4jk.md#t-00-19-45) [○] (Claim) **Erika Kirk**: ["Erika Kirk stated that none of Turning Point USA or herself were involved in Cha..."](/statements/statement-6e2fdf12c4cb.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:33:39](/episodes/ep-6J6lRZPQ4jk.md#t-00-33-23) [○] (Opinion) **Candace Owens**: ["Tyler Robinson was involved on the day of the shooting but was not on campus tha..."](/statements/statement-66cbc5d50354.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:12](/episodes/ep-6J6lRZPQ4jk.md#t-00-34-50) [○] (Claim) **Candace Owens**: ["Tyler Robinson made his first in-person court appearance and seemed like he was ..."](/statements/statement-0119a3b20162.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:53](/episodes/ep-6J6lRZPQ4jk.md#t-00-36-46) [○] (Accusation) **Candace Owens**: ["Allie Beth Stuckey hired a PR agent who is hell bent on advancing Israel's cause..."](/statements/statement-e767166af4e9.md)
+  - About: [Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md)
+
+</div>
+<div class="filter-item">
+
+- [00:37:07](/episodes/ep-6J6lRZPQ4jk.md#t-00-36-46) [○] (Accusation) **Candace Owens**: ["Allie Beth Stuckey's PR agent sent someone to follow Candace Owens after she lef..."](/statements/statement-17af5f779299.md)
+  - About: [Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:37:09](/episodes/ep-6J6lRZPQ4jk.md#t-00-36-46) [○] (Accusation) **Candace Owens**: ["Allie Beth Stuckey's PR agent keeps files and cuts people out of context and sen..."](/statements/statement-6b644cbab8ce.md)
+  - About: [Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md)
+
+</div>
+<div class="filter-item">
+
+- [00:39:20](/episodes/ep-6J6lRZPQ4jk.md#t-00-38-52) [○] (Accusation) **Candace Owens**: ["The media lied about George Floyd and how he died"](/statements/statement-8d314f3eaf82.md)
+  - About: [George Floyd](/entities/person-george-floyd.md)
+
+</div>
+<div class="filter-item">
+
+- [01:01:53](/episodes/ep-6J6lRZPQ4jk.md#t-01-01-46) [○] (Accusation) **Candace Owens**: ["The government was involved in hiding the facts about Black Lives Matter, and pe..."](/statements/statement-fa38721e3535.md)
+  - About: [Black Lives Matter](/entities/org-black-lives-matter.md)
+
+</div>
+</details>
+
 </div>
 
 ---
 
-*Generated: 2025-12-11 18:01:40*
+*Generated: 2025-12-15 12:37:06*

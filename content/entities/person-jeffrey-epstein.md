@@ -1,6 +1,6 @@
 ---
 title: "Jeffrey Epstein"
-description: "Jeffrey Epstein (People) - 83 mentions"
+description: "Jeffrey Epstein (People) - 88 mentions"
 id: "person-jeffrey-epstein"
 type: "PERSON"
 aliases:
@@ -15,6 +15,26 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (5 mentions)</summary>
+
+**[00:06:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-jeffrey-epstein-t-00-06-08)**
+> "the hand of Midas pulling her through the ranks, a la Jeffrey (Jeffrey Epstein (Jeffrey Epstein))"
+
+**[00:06:14](/episodes/ep-6J6lRZPQ4jk.md#ent-person-jeffrey-epstein-t-00-06-08)**
+> "...ough the ranks, a la Jeffrey (Jeffrey Epstein (Jeffrey Epstein))."
+
+**[00:06:14](/episodes/ep-6J6lRZPQ4jk.md#ent-person-jeffrey-epstein-t-00-06-08)**
+> "... la Jeffrey (Jeffrey Epstein (Jeffrey Epstein))."
+
+**[00:06:14](/episodes/ep-6J6lRZPQ4jk.md#ent-person-jeffrey-epstein-t-00-06-08)**
+> "... ranks, a la Jeffrey (Jeffrey Epstein (Jeffrey Epstein))."
+
+**[00:06:14](/episodes/ep-6J6lRZPQ4jk.md#ent-person-jeffrey-epstein-t-00-06-08)**
+> "...rey (Jeffrey Epstein (Jeffrey Epstein))."
+
+</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (10 mentions)</summary>

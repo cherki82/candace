@@ -1,6 +1,6 @@
 ---
 title: "Terrell Farnsworth"
-description: "Terrell Farnsworth (People) - 3 mentions"
+description: "Terrell Farnsworth (People) - 9 mentions"
 id: "person-terrell-farnsworth"
 type: "PERSON"
 ---
@@ -11,6 +11,29 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (6 mentions)</summary>
+
+**[00:11:51](/episodes/ep-6J6lRZPQ4jk.md#ent-person-terrell-farnsworth-t-00-11-13)**
+> "Terrell (Terrell Farnsworth) (Terrell Farnsworth) was told to remove that SD card by police"
+
+**[00:11:47](/episodes/ep-6J6lRZPQ4jk.md#ent-person-terrell-farnsworth-t-00-11-13)**
+> "Next page, Terrell (Terrell Farnsworth) (Terrell Farnsworth) was told to remove that SD ..."
+
+**[00:11:47](/episodes/ep-6J6lRZPQ4jk.md#ent-person-terrell-farnsworth-t-00-11-13)**
+> "...Terrell (Terrell Farnsworth) (Terrell Farnsworth) was told to remove that SD card by police."
+
+**[00:11:53](/episodes/ep-6J6lRZPQ4jk.md#ent-person-terrell-farnsworth-t-00-11-13)**
+> "Terrell (Terrell Farnsworth) personally told me that that was not true."
+
+**[00:11:58](/episodes/ep-6J6lRZPQ4jk.md#ent-person-terrell-farnsworth-t-00-11-55)**
+> "Again, not what Terrell (Terrell Farnsworth) (Terrell Farnsworth) himself told me, and also d..."
+
+**[00:11:58](/episodes/ep-6J6lRZPQ4jk.md#ent-person-terrell-farnsworth-t-00-11-55)**
+> "...Terrell (Terrell Farnsworth) (Terrell Farnsworth) himself told me, and also doesn't make any logic..."
+
+</details>
 
 <details>
 <summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (2 mentions)</summary>
@@ -55,7 +78,16 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Terrell Farnsworth (2)</strong></summary>
+<summary><strong class="section-title">Statements about Terrell Farnsworth (4)</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2)</summary>
+
+- [00:11:47](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-13) (Claim) **Candace Owens** (via paraphrase): ["Terrell Farnsworth was told to remove SD cards by police"](/statements/statement-b07a3c119fa6.md)
+
+- [00:11:49](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-13) (Claim) **Candace Owens** (via paraphrase): ["Terrell Farnsworth removed SD cards because people were stealing hats"](/statements/statement-3f343073013d.md)
+
+</details>
 
 <details>
 <summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (2)</summary>

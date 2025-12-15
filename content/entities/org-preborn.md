@@ -1,6 +1,6 @@
 ---
 title: "Preborn"
-description: "Preborn (Organizations) - 76 mentions"
+description: "Preborn (Organizations) - 82 mentions"
 id: "org-preborn"
 type: "ORG"
 ---
@@ -11,6 +11,29 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (6 mentions)</summary>
+
+**[00:31:31](/episodes/ep-6J6lRZPQ4jk.md#ent-org-preborn-t-00-31-19)**
+> "Through our partnership with Preborn"
+
+**[00:31:19](/episodes/ep-6J6lRZPQ4jk.md#ent-org-preborn-t-00-31-19)**
+> "Through our partnership with Preborn, we can help save babies and support mothers that..."
+
+**[00:31:24](/episodes/ep-6J6lRZPQ4jk.md#ent-org-preborn-t-00-31-19)**
+> "Every day, Preborn's clinics rescue hundreds of babies because when a ..."
+
+**[00:31:45](/episodes/ep-6J6lRZPQ4jk.md#ent-org-preborn-t-00-31-19)**
+> "If you've heard about Preborn before and you have not yet taken action, there i..."
+
+**[00:31:59](/episodes/ep-6J6lRZPQ4jk.md#ent-org-preborn-t-00-31-19)**
+> "Head to preborn.com slash Candice."
+
+**[00:32:02](/episodes/ep-6J6lRZPQ4jk.md#ent-org-preborn-t-00-32-02)**
+> "To give, again, that is preborn.com slash Candice."
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (6 mentions)</summary>

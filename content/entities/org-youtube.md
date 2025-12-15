@@ -1,6 +1,6 @@
 ---
 title: "YouTube"
-description: "YouTube (Organizations) - 34 mentions"
+description: "YouTube (Organizations) - 37 mentions"
 id: "org-youtube"
 type: "ORG"
 ---
@@ -11,6 +11,20 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (3 mentions)</summary>
+
+**[00:09:11](/episodes/ep-6J6lRZPQ4jk.md#ent-org-youtube-t-00-08-59)**
+> "doing ballistics on YouTube"
+
+**[00:08:59](/episodes/ep-6J6lRZPQ4jk.md#ent-org-youtube-t-00-08-59)**
+> "...doing and doing ballistics on YouTube, if you catch a bunch of views, they wanna convin..."
+
+**[00:55:49](/episodes/ep-6J6lRZPQ4jk.md#ent-org-youtube-t-00-55-32)**
+> "...y, if you're making videos on YouTube about ballistics or thousands of dollars a day, i..."
+
+</details>
 
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1 mentions)</summary>

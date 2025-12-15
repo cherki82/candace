@@ -1,6 +1,6 @@
 ---
 title: "CBS News"
-description: "CBS News (Organizations) - 3 mentions"
+description: "CBS News (Organizations) - 6 mentions"
 id: "org-cbs-news"
 type: "ORG"
 ---
@@ -11,6 +11,20 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (3 mentions)</summary>
+
+**[00:06:26](/episodes/ep-6J6lRZPQ4jk.md#ent-org-cbs-news-t-00-06-08)**
+> "She somehow becomes a chief over at CBS News"
+
+**[00:06:23](/episodes/ep-6J6lRZPQ4jk.md#ent-org-cbs-news-t-00-06-08)**
+> "...mehow becomes a chief over at CBS News."
+
+**[00:08:24](/episodes/ep-6J6lRZPQ4jk.md#ent-org-cbs-news-t-00-08-15)**
+> "...have sources just everywhere, CBS News, the people that were in the audience I showed yo..."
+
+</details>
 
 <details>
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
@@ -40,10 +54,34 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Formerly Employed (1)</summary>
+
+- **[Bari Weiss](/entities/person-bari-weiss.md)**
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:06:23](/episodes/ep-6J6lRZPQ4jk.md#t-00-06-08): "She somehow becomes a chief over at CBS News."
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
+
+- **[Bari Weiss](/entities/person-bari-weiss.md)** formerly worked for this
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:06:23](/episodes/ep-6J6lRZPQ4jk.md#t-00-06-08)
 
 - **[Bari Weiss](/entities/person-bari-weiss.md)** works for this
   - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#t-00-28-14)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about CBS News (1)</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1)</summary>
+
+- [00:15:50](/episodes/ep-6J6lRZPQ4jk.md#t-00-15-32) (Claim) **Candace Owens**: ["CBS filled the audience with college Republicans and questions selecte..."](/statements/statement-e968a2d9f448.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 

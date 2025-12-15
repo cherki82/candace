@@ -1,6 +1,6 @@
 ---
 title: "Michael Knowles"
-description: "Michael Knowles (People) - 8 mentions"
+description: "Michael Knowles (People) - 9 mentions"
 id: "person-michael-knowles"
 type: "PERSON"
 ---
@@ -11,6 +11,14 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1 mentions)</summary>
+
+**[00:35:33](/episodes/ep-6J6lRZPQ4jk.md#t-00-35-32)**
+> "Matt Walsh, Michael Nose, nicest people ever"
+
+</details>
 
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (2 mentions)</summary>

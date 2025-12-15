@@ -1,6 +1,6 @@
 ---
 title: "Turning Point USA"
-description: "Turning Point USA (Organizations) - 705 mentions"
+description: "Turning Point USA (Organizations) - 716 mentions"
 id: "org-turning-point-usa"
 type: "ORG"
 aliases:
@@ -19,6 +19,44 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (11 mentions)</summary>
+
+**[00:07:45](/episodes/ep-6J6lRZPQ4jk.md#ent-org-turning-point-usa-t-00-07-40)**
+> "At one time, an employee of Turning Point"
+
+**[00:07:45](/episodes/ep-6J6lRZPQ4jk.md#ent-org-turning-point-usa-t-00-07-40)**
+> "At one time, an employee of Turning Point."
+
+**[00:10:12](/episodes/ep-6J6lRZPQ4jk.md#ent-org-turning-point-usa-t-00-09-44)**
+> "...that I find are coming out of Turning Point USA."
+
+**[00:11:13](/episodes/ep-6J6lRZPQ4jk.md#ent-org-turning-point-usa-t-00-11-13)**
+> "Turning Point USA lied about that."
+
+**[00:15:10](/episodes/ep-6J6lRZPQ4jk.md#ent-org-turning-point-usa-t-00-14-48)**
+> "... as I told you yesterday, how Turning Point will be hosting a Shabbat dinner."
+
+**[00:17:23](/episodes/ep-6J6lRZPQ4jk.md#ent-org-turning-point-usa-t-00-17-02)**
+> "Turning Point USA has always been in our life and has always been s..."
+
+**[00:20:19](/episodes/ep-6J6lRZPQ4jk.md#ent-org-turning-point-usa-t-00-19-45)**
+> "Turning Point USA, myself, any of these other crazy accusations, no..."
+
+**[00:28:00](/episodes/ep-6J6lRZPQ4jk.md#ent-org-turning-point-usa-t-00-28-00)**
+> "...like the opposite of whatever turning point felt like when they were the underdogs, right?"
+
+**[00:29:52](/episodes/ep-6J6lRZPQ4jk.md#ent-org-turning-point-usa-t-00-29-52)**
+> "...tian planes to be surrounding Turning Point USA, faith events, you and Charlie this many times?"
+
+**[01:01:21](/episodes/ep-6J6lRZPQ4jk.md#ent-org-turning-point-usa-t-01-01-02)**
+> "TPUSA's response to all of this is feeling very trust the..."
+
+**[01:02:25](/episodes/ep-6J6lRZPQ4jk.md#ent-org-turning-point-usa-t-01-01-46)**
+> "Like TPUSA is now popular because we have enough money to ma..."
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (21 mentions)</summary>
@@ -2761,7 +2799,15 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point USA (98)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point USA (99)</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1)</summary>
+
+- [00:20:25](/episodes/ep-6J6lRZPQ4jk.md#t-00-19-45) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk stated that none of Turning Point USA or herself were invol..."](/statements/statement-6e2fdf12c4cb.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (7)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Erika Kirk"
-description: "Erika Kirk (People) - 253 mentions"
+description: "Erika Kirk (People) - 295 mentions"
 id: "person-erika-kirk"
 type: "PERSON"
 aliases:
@@ -18,6 +18,137 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (42 mentions)</summary>
+
+**[00:00:59](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-00-40)**
+> "I am asking you that because Erika (Erika Kirk) believes it to be so."
+
+**[00:00:59](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-00-40)**
+> "...sking you that because Erika (Erika Kirk) believes it to be so."
+
+**[00:00:59](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-00-40)**
+> "I am asking you that because Erika (Erika Kirk) believes it to be so."
+
+**[00:01:06](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-00-40)**
+> "... pivoting and bringing Erika (Erika Kirk) out to signal to the public."
+
+**[00:01:06](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-00-40)**
+> "...are now pivoting and bringing Erika (Erika Kirk) out to signal to the public."
+
+**[00:01:23](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-01-23)**
+> "...he same conclusions as Erika (Erika Kirk), especially when the story that we have been pre..."
+
+**[00:01:23](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-01-23)**
+> "...ve at the same conclusions as Erika (Erika Kirk), especially when the story that we h..."
+
+**[00:04:21](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-04-04)**
+> "...y if that offends you, Erika (Erika Kirk)."
+
+**[00:04:21](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-04-04)**
+> "...ry sorry if that offends you, Erika (Erika Kirk)."
+
+**[00:05:51](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-05-27)**
+> "...ly, for a lot of reasons, but Erika's, that's now being teased, the interview with Bari..."
+
+**[00:07:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-06-49)**
+> "...is going to deliver to Erika (Erika Kirk)."
+
+**[00:07:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-06-49)**
+> "...at she is going to deliver to Erika (Erika Kirk)."
+
+**[00:09:21](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-08-59)**
+> "And Erika (Erika Kirk) responds and her answer to, what do you want to ..."
+
+**[00:09:29](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-08-59)**
+> "So Erika (Erika Kirk) would like me to stop lying."
+
+**[00:09:36](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-08-59)**
+> "...can only honor that if Erika (Erika Kirk) is more explicit in terms of what I have lied ab..."
+
+**[00:09:36](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-08-59)**
+> "I can only honor that if Erika (Erika Kirk) is more explicit in terms of what I ..."
+
+**[00:14:04](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-14-04)**
+> "..., tracking Charlie, following Erika throughout years."
+
+**[00:14:58](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-14-48)**
+> "...cted questions was for Erika (Erika Kirk), and this will come out on Saturday, setting the..."
+
+**[00:14:58](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-14-48)**
+> "...preselected questions was for Erika (Erika Kirk), and this will come out on Saturday,..."
+
+**[00:16:30](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-16-17)**
+> "...gonna get more because Erika (Erika Kirk) also sat down with Glenn (Glenn Beck) (Glenn Bec..."
+
+**[00:16:30](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-16-17)**
+> "We're gonna get more because Erika (Erika Kirk) also sat down with Glenn (Glenn Beck..."
+
+**[00:16:53](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-16-17)**
+> "Foremost, Erika (Erika Kirk) stressing that she believes that the truth is cl..."
+
+**[00:17:51](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-17-45)**
+> "...r that has explicitly accused Erika of killing Charlie (Charlie Kirk)."
+
+**[00:18:05](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-17-45)**
+> "...oint, that's akin to accusing Erika Kirk of killing her husband, which is utterly ridiculo..."
+
+**[00:18:20](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-17-45)**
+> "...body come out and say, Erika (Erika Kirk) murdered Charlie."
+
+**[00:18:20](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-17-45)**
+> "...t, somebody come out and say, Erika (Erika Kirk) murdered Charlie."
+
+**[00:26:23](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-25-54)**
+> "...ith great deference to Erika (Erika Kirk)."
+
+**[00:26:23](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-25-54)**
+> "... this with great deference to Erika (Erika Kirk)."
+
+**[00:50:07](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-50-01)**
+> "...wrote, Issa Rae wrote, Erika (Erika Kirk) will forgive someone one week later for murderin..."
+
+**[00:50:07](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-50-01)**
+> "...person wrote, Issa Rae wrote, Erika (Erika Kirk) will forgive someone one week later ..."
+
+**[00:50:33](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-50-01)**
+> "...lowed to disagree with Erika (Erika Kirk)."
+
+**[00:50:33](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-50-01)**
+> "...u're allowed to disagree with Erika (Erika Kirk)."
+
+**[00:50:48](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-50-41)**
+> "... several times that if Erika (Erika Kirk) asked you to stop, you would in fact stop."
+
+**[00:50:48](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-50-41)**
+> "...ntioned several times that if Erika (Erika Kirk) asked you to stop, you would in fact..."
+
+**[00:51:02](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-50-41)**
+> "Erica asked me to stop lying and I will immediately abi..."
+
+**[00:51:38](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-51-21)**
+> "Two, she's jealous of Erika (Erika Kirk) marrying Charlie."
+
+**[00:55:32](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-55-32)**
+> "...just not understanding Erika (Erika Kirk)'s responses."
+
+**[00:55:32](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-55-32)**
+> "...t I am just not understanding Erika (Erika Kirk)'s responses."
+
+**[00:57:28](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-56-57)**
+> "... mentioned the Maroon Boys in Erika's propagandized piece that's going to come out with..."
+
+**[01:01:31](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-01-01-02)**
+> "...r, my beef is not with Erika (Erika Kirk)."
+
+**[01:01:31](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-01-01-02)**
+> "...be clear, my beef is not with Erika (Erika Kirk)."
+
+**[01:01:34](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-01-01-02)**
+> "...uestion it, you're up against Erika."
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (25 mentions)</summary>
@@ -976,7 +1107,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Interviewed By (2)</summary>
+<summary>Interviewed By (4)</summary>
 
 - **[Jesse Watters](/entities/person-jesse-watters.md)**
   - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:01:01](/episodes/ep-vwG1juDCQZQ.md#t-00-00-45): "the heavily anticipated interview with Erika Kirk (Charlie Kirk's widow) on Fox News with Jesse Watters."
@@ -984,6 +1115,12 @@ _Type: People_
 
 - **[Alex Clark](/entities/person-alex-clark.md)**
   - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:57:49](/episodes/ep-ja26iltROkM.md#t-00-57-12): "Erika Kirk is going on—I think—Alex Clark's show"
+
+- **[Bari Weiss](/entities/person-bari-weiss.md)**
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:07:40](/episodes/ep-6J6lRZPQ4jk.md#t-00-07-28): "the podcaster Candace Owens, okay? At one time, a friend of Charlie's. At one time, an employee of Turning Point. She has been one of the main peddlers of these conspiracies"
+
+- **[Glenn Beck](/entities/person-glenn-beck.md)**
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:17:14](/episodes/ep-6J6lRZPQ4jk.md#t-00-17-02): "Erika also sat down with Glenn (Glenn Beck) (Glenn Beck) of Blaze TV."
 
 </details>
 
@@ -996,7 +1133,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Referenced By (11)</summary>
 
 - **[JD Vance](/entities/person-jd-vance.md)** appeared with this
   - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:02:15](/episodes/ep-vwG1juDCQZQ.md#t-00-02-10)
@@ -1025,6 +1162,12 @@ _Type: People_
   - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:57:49](/episodes/ep-ja26iltROkM.md#t-00-57-12)
   - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:59:09](/episodes/ep-ja26iltROkM.md#t-00-58-36)
 
+- **[Bari Weiss](/entities/person-bari-weiss.md)** interviewed this
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:07:40](/episodes/ep-6J6lRZPQ4jk.md#t-00-07-28)
+
+- **[Glenn Beck](/entities/person-glenn-beck.md)** interviewed this
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:17:14](/episodes/ep-6J6lRZPQ4jk.md#t-00-17-02)
+
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** married to this
   - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:00:09](/episodes/ep-SKGUzGHymcI.md#t-00-00-00)
   - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 01:07:30](/episodes/ep-2WEHTk0Xewg.md#t-01-06-45)
@@ -1034,7 +1177,18 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Erika Kirk (12)</strong></summary>
+<summary><strong class="section-title">Statements by Erika Kirk (14)</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2)</summary>
+
+- [00:17:42](/episodes/ep-6J6lRZPQ4jk.md#t-00-17-02) [○] (Opinion) ["Erika Kirk believes the truth about who killed Charlie Kirk is very clear"](/statements/statement-38c1fae814f0.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:20:25](/episodes/ep-6J6lRZPQ4jk.md#t-00-19-45) [○] (Claim) ["Erika Kirk stated that none of Turning Point USA or herself were involved in Cha..."](/statements/statement-6e2fdf12c4cb.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (7)</summary>
@@ -1095,7 +1249,26 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Erika Kirk (33)</strong></summary>
+<summary><strong class="section-title">Statements about Erika Kirk (38)</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (5)</summary>
+
+- [00:08:18](/episodes/ep-6J6lRZPQ4jk.md#t-00-08-15) (Claim) **Candace Owens**: ["The Bari Weiss interview with Erika Kirk was pre-recorded from 11am to..."](/statements/statement-059669d70f62.md)
+  - Also about: [Bari Weiss](/entities/person-bari-weiss.md)
+
+- [00:14:14](/episodes/ep-6J6lRZPQ4jk.md#t-00-14-04) (Claim) **Candace Owens**: ["Egyptian planes have been tracking Charlie Kirk and following Erika Ki..."](/statements/statement-a4fe6f71e591.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:14:53](/episodes/ep-6J6lRZPQ4jk.md#t-00-14-48) (Claim) **Candace Owens**: ["The questions for Erika Kirk's CBS interview were preselected"](/statements/statement-078426a88ea1.md)
+
+- [00:15:50](/episodes/ep-6J6lRZPQ4jk.md#t-00-15-32) (Claim) **Candace Owens**: ["CBS filled the audience with college Republicans and questions selecte..."](/statements/statement-e968a2d9f448.md)
+  - Also about: [CBS News](/entities/org-cbs-news.md)
+
+- [00:20:25](/episodes/ep-6J6lRZPQ4jk.md#t-00-19-45) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk stated that none of Turning Point USA or herself were invol..."](/statements/statement-6e2fdf12c4cb.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (12)</summary>

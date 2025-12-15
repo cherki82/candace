@@ -1,6 +1,6 @@
 ---
 title: "Glenn Beck"
-description: "Glenn Beck (People) - 3 mentions"
+description: "Glenn Beck (People) - 13 mentions"
 id: "person-glenn-beck"
 type: "PERSON"
 ---
@@ -11,6 +11,41 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (10 mentions)</summary>
+
+**[00:16:34](/episodes/ep-6J6lRZPQ4jk.md#ent-person-glenn-beck-t-00-16-17)**
+> "Erika (Erika Kirk) also sat down with Glenn (Glenn Beck) (Glenn Beck) of Blaze TV"
+
+**[00:16:30](/episodes/ep-6J6lRZPQ4jk.md#ent-person-glenn-beck-t-00-16-17)**
+> "...rk) also sat down with Glenn (Glenn Beck) (Glenn Beck) of Blaze TV."
+
+**[00:16:30](/episodes/ep-6J6lRZPQ4jk.md#ent-person-glenn-beck-t-00-16-17)**
+> "...down with Glenn (Glenn Beck) (Glenn Beck) of Blaze TV."
+
+**[00:16:47](/episodes/ep-6J6lRZPQ4jk.md#ent-person-glenn-beck-t-00-16-17)**
+> "Anyways, Glenn (Glenn Beck) (Glenn Beck)'s interview has a bunch of high poi..."
+
+**[00:17:51](/episodes/ep-6J6lRZPQ4jk.md#ent-person-glenn-beck-t-00-17-45)**
+> "...to first and foremost, Glenn (Glenn Beck), setting that question up, I can't find to this ..."
+
+**[00:18:59](/episodes/ep-6J6lRZPQ4jk.md#ent-person-glenn-beck-t-00-18-27)**
+> "... organic question from Glenn (Glenn Beck) (Glenn Beck)."
+
+**[00:18:59](/episodes/ep-6J6lRZPQ4jk.md#ent-person-glenn-beck-t-00-18-27)**
+> "...tion from Glenn (Glenn Beck) (Glenn Beck)."
+
+**[00:19:31](/episodes/ep-6J6lRZPQ4jk.md#ent-person-glenn-beck-t-00-19-05)**
+> "No, it's a real thing, Glenn (Glenn Beck), and you get this."
+
+**[00:34:06](/episodes/ep-6J6lRZPQ4jk.md#ent-person-glenn-beck-t-00-34-06)**
+> "Glenn (Glenn Beck) understands this stuff, but I am, who am I?"
+
+**[00:34:10](/episodes/ep-6J6lRZPQ4jk.md#ent-person-glenn-beck-t-00-34-06)**
+> "I'm so sorry, Glenn (Glenn Beck), I don't explain it to us."
+
+</details>
 
 <details>
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2 mentions)</summary>
@@ -37,19 +72,25 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Interviewed (1)</summary>
+<summary>Interviewed (2)</summary>
 
 - **[Steve Baker](/entities/person-steve-baker.md)**
   - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:08:35](/episodes/ep-YaZfwLQ7vrI.md#t-00-08-05): "listen to Glenn Beck, who is interviewing Steve Baker"
 
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:17:14](/episodes/ep-6J6lRZPQ4jk.md#t-00-17-02): "Erika also sat down with Glenn (Glenn Beck) (Glenn Beck) of Blaze TV."
+
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
 
 - **[Steve Baker](/entities/person-steve-baker.md)** interviewed by this
   - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:08:35](/episodes/ep-YaZfwLQ7vrI.md#t-00-08-05)
   - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:08:45](/episodes/ep-YaZfwLQ7vrI.md#t-00-08-05)
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** interviewed by this
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:17:14](/episodes/ep-6J6lRZPQ4jk.md#t-00-17-02)
 
 </details>
 

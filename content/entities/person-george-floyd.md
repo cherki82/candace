@@ -1,6 +1,6 @@
 ---
 title: "George Floyd"
-description: "George Floyd (People) - 6 mentions"
+description: "George Floyd (People) - 11 mentions"
 id: "person-george-floyd"
 type: "PERSON"
 ---
@@ -11,6 +11,26 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (5 mentions)</summary>
+
+**[00:39:15](/episodes/ep-6J6lRZPQ4jk.md#ent-person-george-floyd-t-00-38-52)**
+> "the lessons of the George Floyd movement"
+
+**[00:38:46](/episodes/ep-6J6lRZPQ4jk.md#ent-person-george-floyd-t-00-38-16)**
+> "...id the documentary on BLM and George Floyd."
+
+**[00:38:52](/episodes/ep-6J6lRZPQ4jk.md#ent-person-george-floyd-t-00-38-52)**
+> "And the lessons of the George Floyd movement was that the entire media plus influence..."
+
+**[00:39:16](/episodes/ep-6J6lRZPQ4jk.md#ent-person-george-floyd-t-00-38-52)**
+> "The media lied about George Floyd."
+
+**[00:39:35](/episodes/ep-6J6lRZPQ4jk.md#ent-person-george-floyd-t-00-39-35)**
+> "...elling people the facts about George Floyd's background, his record."
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
@@ -51,5 +71,17 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about George Floyd (1)</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1)</summary>
+
+- [00:39:20](/episodes/ep-6J6lRZPQ4jk.md#t-00-38-52) (Accusation) **Candace Owens**: ["The media lied about George Floyd and how he died"](/statements/statement-8d314f3eaf82.md)
+
+</details>
 
 </details>

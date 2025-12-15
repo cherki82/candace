@@ -1,6 +1,6 @@
 ---
 title: "Alex Clark"
-description: "Alex Clark (People) - 29 mentions"
+description: "Alex Clark (People) - 33 mentions"
 id: "person-alex-clark"
 type: "PERSON"
 ---
@@ -11,6 +11,23 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (4 mentions)</summary>
+
+**[00:11:45](/episodes/ep-6J6lRZPQ4jk.md#ent-person-alex-clark-t-00-11-13)**
+> "Alex (Alex Clark) pulling that move"
+
+**[00:11:44](/episodes/ep-6J6lRZPQ4jk.md#ent-person-alex-clark-t-00-11-13)**
+> "Alex (Alex Clark) pulling that move."
+
+**[00:42:40](/episodes/ep-6J6lRZPQ4jk.md#ent-person-alex-clark-t-00-42-30)**
+> "...ve said, you know what, Alex (Alex Clark), that whole little episode saying Charlie only l..."
+
+**[00:44:54](/episodes/ep-6J6lRZPQ4jk.md#ent-person-alex-clark-t-00-44-35)**
+> "Um, she has questioned Alex (Alex Clark) and Alex's decision to talk to the wall street j..."
+
+</details>
 
 <details>
 <summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (3 mentions)</summary>
@@ -155,6 +172,14 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Criticized (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:43:04](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30): "Alex (Alex Clark) pulling that move."
+
+</details>
+
+<details>
 <summary>Interviewed (2)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
@@ -180,7 +205,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:43:04](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30)
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
   - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:34](/episodes/ep-ozWJz2spBcI.md#t-00-00-00)

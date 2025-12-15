@@ -1,6 +1,6 @@
 ---
 title: "Dairy Queen"
-description: "Dairy Queen (Organizations) - 15 mentions"
+description: "Dairy Queen (Organizations) - 18 mentions"
 id: "org-dairy-queen"
 type: "ORG"
 ---
@@ -11,6 +11,20 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (3 mentions)</summary>
+
+**[00:13:31](/episodes/ep-6J6lRZPQ4jk.md#ent-org-dairy-queen-t-00-13-24)**
+> "Tyler (Tyler Robinson) was at the Dairy Queen following the assassination"
+
+**[00:13:24](/episodes/ep-6J6lRZPQ4jk.md#ent-org-dairy-queen-t-00-13-24)**
+> "...r (Tyler Robinson) was at the Dairy Queen following the assassination."
+
+**[00:33:43](/episodes/ep-6J6lRZPQ4jk.md#ent-org-dairy-queen-t-00-33-23)**
+> "...etery or whatever next to the Dairy Queen."
+
+</details>
 
 <details>
 <summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (5 mentions)</summary>

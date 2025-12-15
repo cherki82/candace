@@ -2,7 +2,7 @@
 title: "Timeline"
 ---
 
-_Total events: 522_
+_Total events: 523_
 
 > **Note:** Events and dates are extracted automatically using AI. Some dates may be approximate or inferred from context.
 
@@ -74,7 +74,7 @@ _Total events: 522_
 <input type="radio" id="tab-historical" name="timeline-tab" class="tab-radio">
 
 <div class="tab-controls">
-  <label for="tab-2025" class="tab-btn">2025 (383)</label>
+  <label for="tab-2025" class="tab-btn">2025 (384)</label>
   <label for="tab-2024" class="tab-btn">2024 (41)</label>
   <label for="tab-historical" class="tab-btn">Historical (98)</label>
 </div>
@@ -275,6 +275,21 @@ _Total events: 522_
 
 - [Who Stood To Benefit From Charlie Kirk's Assass... @ 00:40:25](/episodes/ep-Kmt6HgRjckU.md#t-00-40-07)
 - [Woah: It Was Erika Kirk Who Called For TPUSA To... @ 00:51:15](/episodes/ep-DqGNvi36ol8.md#t-00-51-00)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-12-11-tyler-robinson-makes-first-in-person-cou">
+<div class="timeline-date">2025-12-11</div>
+<div class="timeline-desc"><a href="/events/event-2025-12-11-tyler-robinson-makes-first-in-person-cou.md">Tyler Robinson makes first in-person court appearance</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-11: Tyler Robinson makes first in-person court appearance - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson M... @ 00:01:50](/episodes/ep-6J6lRZPQ4jk.md#t-00-01-23)
 
 </details>
 </div>

@@ -11,7 +11,7 @@ object: "person-erika-kirk"
 
 ## [Charlie Kirk](/entities/person-charlie-kirk) married to [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (29 mentions)
+### Evidence (30 mentions)
 
 **[Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg)**
 
@@ -20,6 +20,10 @@ object: "person-erika-kirk"
 **[TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w)**
 
 - [00:47:18](/episodes/ep-5autG89PW6w#t-00-47-18): _Erika is in mourning. May God bless her and her family._
+
+**[Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk)**
+
+- [00:01:02](/episodes/ep-6J6lRZPQ4jk#t-00-01-02): _There was minimal damage to the front of Charlie's neck as well._
 
 **[Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE)**
 

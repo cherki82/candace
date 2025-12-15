@@ -1,6 +1,6 @@
 ---
 title: "Candace Owens"
-description: "Candace Owens (People) - 951 mentions"
+description: "Candace Owens (People) - 979 mentions"
 id: "person-candace-owens"
 type: "PERSON"
 aliases:
@@ -17,6 +17,95 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (28 mentions)</summary>
+
+**[00:07:42](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-07-40)**
+> "the podcaster Candace Owens"
+
+**[00:01:54](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-01-23)**
+> "Welcome back to Candice."
+
+**[00:07:40](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-07-40)**
+> "the podcaster Candace Owens, okay?"
+
+**[00:08:46](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-08-15)**
+> "The podcaster Candice Owens, and I'm not even gonna address this repeat..."
+
+**[00:09:21](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-08-59)**
+> "... want to say to the podcaster Candace Owen, who is lying is stop."
+
+**[00:27:10](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-26-37)**
+> "I don't know if Candice is crazy, but she says the French foreign Legion ..."
+
+**[00:31:59](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-31-19)**
+> "Head to preborn.com slash Candice."
+
+**[00:32:02](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-32-02)**
+> "...in, that is preborn.com slash Candice."
+
+**[00:32:54](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-32-44)**
+> "...by visiting pdsdebt.com slash Candace, again pdsdebt.com slash Candace."
+
+**[00:32:54](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-32-44)**
+> "...dace, again pdsdebt.com slash Candace."
+
+**[00:38:12](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-37-31)**
+> "...is tactic repeatedly, and now Candace has taken a page out of their book."
+
+**[00:40:29](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-40-20)**
+> "Candice wasn't even mean to you when you inserted yoursel..."
+
+**[00:40:41](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-40-20)**
+> "...ting themselves any more than Candice is."
+
+**[00:45:02](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-44-35)**
+> "murdered and Candice claimed that it would make her feel icky to speak..."
+
+**[00:45:45](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-45-18)**
+> "The ugly thing is when Candice stands up for herself and brings receipts."
+
+**[00:48:42](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-48-36)**
+> "...rder at paleovalley.com slash Candice, and you can use code Candice at checkout."
+
+**[00:48:42](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-48-36)**
+> "...Candice, and you can use code Candice at checkout."
+
+**[00:48:51](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-48-36)**
+> "That's paleovalley.com slash Candice, promo code Candice at checkout."
+
+**[00:48:51](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-48-36)**
+> "...com slash Candice, promo code Candice at checkout."
+
+**[00:49:35](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-49-15)**
+> "You can use my promo code, Candice, at hometitlelock.com, and you'll get a free titl..."
+
+**[00:49:54](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-49-15)**
+> "...hometitlelock.com, promo code Candice, or you can use the link in the description below..."
+
+**[00:50:48](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-50-41)**
+> "Butterfly writes, Candice, you mentioned several times that if Erika (Erika..."
+
+**[00:51:08](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-50-41)**
+> "You know, Candice is lying."
+
+**[00:51:41](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-51-21)**
+> "... through this PR keep pushing Candice."
+
+**[00:57:41](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-57-41)**
+> "...in the military are like, no, Candice, that's not crazy at all."
+
+**[01:01:39](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-01-01-02)**
+> "I've been the same, Candice, since I got into politics, right?"
+
+**[01:02:14](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-01-01-46)**
+> "So it's same Candice, new year, same Candice, different topic."
+
+**[01:02:14](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-01-01-46)**
+> "... same Candice, new year, same Candice, different topic."
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (20 mentions)</summary>
@@ -3122,7 +3211,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Criticized By (18)</summary>
+<summary>Criticized By (20)</summary>
 
 - **[Eyal Yakobi](/entities/person-eyal-yakobi.md)**
   - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:02:02](/episodes/ep-581dILVcEE4.md#t-00-01-26): "We've got Eyal Yakobi, who writes, "This is what doxing looks like.""
@@ -3182,6 +3271,12 @@ _Type: People_
 
 - **[Daily Mail](/entities/org-daily-mail.md)**
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:09:46](/episodes/ep-sreYYcID-QY.md#t-00-09-40): "This is what we got from the Daily Mail."
+
+- **[Josh Hammer](/entities/person-josh-hammer.md)**
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:23](/episodes/ep-6J6lRZPQ4jk.md#t-00-41-45): "Josh (Josh Hammer) explicitly lied about Charlie's state of mind. He went on multiple podcasts. He called me a liar."
+
+- **[Alex Clark](/entities/person-alex-clark.md)**
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:43:04](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30): "Alex (Alex Clark) pulling that move."
 
 </details>
 
@@ -3482,7 +3577,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (74)</summary>
+<summary>Referenced By (76)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** appeared with this
   - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:09](/episodes/ep-yAIb-NuUh_U.md#t-00-00-01)
@@ -3515,6 +3610,7 @@ _Type: People_
 
 - **[Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md)** criticized this
   - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:24](/episodes/ep-yAIb-NuUh_U.md#t-00-03-41)
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:43](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30)
 
 - **[Laura Loomer](/entities/person-laura-loomer.md)** criticized this
   - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:27:34](/episodes/ep-ja26iltROkM.md#t-00-26-58)
@@ -3553,6 +3649,12 @@ _Type: People_
 
 - **[Daily Mail](/entities/org-daily-mail.md)** criticized this
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:09:46](/episodes/ep-sreYYcID-QY.md#t-00-09-40)
+
+- **[Josh Hammer](/entities/person-josh-hammer.md)** criticized this
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:23](/episodes/ep-6J6lRZPQ4jk.md#t-00-41-45)
+
+- **[Alex Clark](/entities/person-alex-clark.md)** criticized this
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:43:04](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30)
 
 - **[Nate Brooksby](/entities/person-nate-brooksby.md)** criticized by this
   - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:17:09](/episodes/ep-ZGxnf5cj4Uw.md#t-00-16-40)
@@ -3728,7 +3830,81 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Candace Owens (863)</strong></summary>
+<summary><strong class="section-title">Statements by Candace Owens (886)</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (23)</summary>
+
+- [00:05:17](/episodes/ep-6J6lRZPQ4jk.md#t-00-04-43) [○] (Claim) ["Charlie Kirk's neck stopped a 30-06 bullet with minimal damage to the front of h..."](/statements/statement-c5d4ddbea505.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:06:06](/episodes/ep-6J6lRZPQ4jk.md#t-00-05-27) [○] (Accusation) ["Bari Weiss is a Tel Aviv agent"](/statements/statement-ce0953603e5c.md)
+  - About: [Bari Weiss](/entities/person-bari-weiss.md)
+
+- [00:06:36](/episodes/ep-6J6lRZPQ4jk.md#t-00-06-08) [○] (Claim) ["Tucker Carlson asked at a speech how all these sub-par people are becoming billi..."](/statements/statement-e1ee6627c959.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+- [00:08:18](/episodes/ep-6J6lRZPQ4jk.md#t-00-08-15) [○] (Claim) ["The Bari Weiss interview with Erika Kirk was pre-recorded from 11am to 4pm and r..."](/statements/statement-059669d70f62.md)
+  - About: [Bari Weiss](/entities/person-bari-weiss.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:10:50](/episodes/ep-6J6lRZPQ4jk.md#t-00-10-29) [○] (Claim) ["Charlie Kirk never wavered in his support for Israel"](/statements/statement-bc17cec2a5d8.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:11:41](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-13) [○] (Claim) ["Ben Shapiro said he and Charlie Kirk never had any bad blood between them"](/statements/statement-2fe25ac873e7.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:11:47](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-13) [○] (Claim) ["Terrell Farnsworth was told to remove SD cards by police"](/statements/statement-b07a3c119fa6.md)
+  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
+- [00:11:49](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-13) [○] (Claim) ["Terrell Farnsworth removed SD cards because people were stealing hats"](/statements/statement-3f343073013d.md)
+  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
+- [00:12:12](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-55) [○] (Claim) ["Brian Harpole said Charlie Kirk's security team did not fly drones"](/statements/statement-61598fd25150.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:12:15](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-55) [○] (Claim) ["Brian Harpole said security had communicated with UVU police to secure the rooft..."](/statements/statement-a58305d015f8.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:13:09](/episodes/ep-6J6lRZPQ4jk.md#t-00-12-41) [○] (Claim) ["The lover text messages between Charlie Kirk and someone were presented without ..."](/statements/statement-2896a2012574.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:13:11](/episodes/ep-6J6lRZPQ4jk.md#t-00-12-41) [○] (Claim) ["Tyler Robinson was arrested at Dairy Queen following the assassination and threw..."](/statements/statement-b87065ae62c0.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:13:23](/episodes/ep-6J6lRZPQ4jk.md#t-00-12-41) [○] (Claim) ["Tyler Robinson was suicidal but also turned himself in because he was afraid of ..."](/statements/statement-99f64e0b3f89.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:14:14](/episodes/ep-6J6lRZPQ4jk.md#t-00-14-04) [○] (Claim) ["Egyptian planes have been tracking Charlie Kirk and following Erika Kirk through..."](/statements/statement-a4fe6f71e591.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:14:53](/episodes/ep-6J6lRZPQ4jk.md#t-00-14-48) [○] (Claim) ["The questions for Erika Kirk's CBS interview were preselected"](/statements/statement-078426a88ea1.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:15:50](/episodes/ep-6J6lRZPQ4jk.md#t-00-15-32) [○] (Claim) ["CBS filled the audience with college Republicans and questions selected by CBS f..."](/statements/statement-e968a2d9f448.md)
+  - About: [CBS News](/entities/org-cbs-news.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:33:39](/episodes/ep-6J6lRZPQ4jk.md#t-00-33-23) [○] (Opinion) ["Tyler Robinson was involved on the day of the shooting but was not on campus tha..."](/statements/statement-66cbc5d50354.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:35:12](/episodes/ep-6J6lRZPQ4jk.md#t-00-34-50) [○] (Claim) ["Tyler Robinson made his first in-person court appearance and seemed like he was ..."](/statements/statement-0119a3b20162.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:36:53](/episodes/ep-6J6lRZPQ4jk.md#t-00-36-46) [○] (Accusation) ["Allie Beth Stuckey hired a PR agent who is hell bent on advancing Israel's cause..."](/statements/statement-e767166af4e9.md)
+  - About: [Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md)
+
+- [00:37:07](/episodes/ep-6J6lRZPQ4jk.md#t-00-36-46) [○] (Accusation) ["Allie Beth Stuckey's PR agent sent someone to follow Candace Owens after she lef..."](/statements/statement-17af5f779299.md)
+  - About: [Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:37:09](/episodes/ep-6J6lRZPQ4jk.md#t-00-36-46) [○] (Accusation) ["Allie Beth Stuckey's PR agent keeps files and cuts people out of context and sen..."](/statements/statement-6b644cbab8ce.md)
+  - About: [Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md)
+
+- [00:39:20](/episodes/ep-6J6lRZPQ4jk.md#t-00-38-52) [○] (Accusation) ["The media lied about George Floyd and how he died"](/statements/statement-8d314f3eaf82.md)
+  - About: [George Floyd](/entities/person-george-floyd.md)
+
+- [01:01:53](/episodes/ep-6J6lRZPQ4jk.md#t-01-01-46) [○] (Accusation) ["The government was involved in hiding the facts about Black Lives Matter, and pe..."](/statements/statement-fa38721e3535.md)
+  - About: [Black Lives Matter](/entities/org-black-lives-matter.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (28)</summary>
@@ -6479,7 +6655,17 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Candace Owens (97)</strong></summary>
+<summary><strong class="section-title">Statements about Candace Owens (99)</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2)</summary>
+
+- [00:07:48](/episodes/ep-6J6lRZPQ4jk.md#t-00-07-40) (Accusation) **Bari Weiss** (via quoted speech): ["Candace Owens is building her business off of lies about the Charlie K..."](/statements/statement-f2e8ff781408.md)
+
+- [00:37:07](/episodes/ep-6J6lRZPQ4jk.md#t-00-36-46) (Accusation) **Candace Owens**: ["Allie Beth Stuckey's PR agent sent someone to follow Candace Owens aft..."](/statements/statement-17af5f779299.md)
+  - Also about: [Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md)
+
+</details>
 
 <details>
 <summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (3)</summary>

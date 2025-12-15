@@ -1,6 +1,6 @@
 ---
 title: "Tyler Robinson"
-description: "Tyler Robinson (People) - 315 mentions"
+description: "Tyler Robinson (People) - 342 mentions"
 id: "person-tyler-robinson"
 type: "PERSON"
 aliases:
@@ -16,6 +16,92 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (27 mentions)</summary>
+
+**[00:00:40](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-00-40)**
+> "like even if you are somebody who is on the side of those who do believe that Tyler (Tyler Robinson) pulled the trigger"
+
+**[00:00:40](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-00-40)**
+> "...se who do believe that Tyler (Tyler Robinson) pulled the trigger one way or another, would you..."
+
+**[00:00:40](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-00-40)**
+> "... of those who do believe that Tyler (Tyler Robinson) pulled the trigger one way or an..."
+
+**[00:00:40](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-00-40)**
+> "... do believe that Tyler (Tyler Robinson) pulled the trigger one way or another, would you..."
+
+**[00:01:43](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-01-23)**
+> "...e show we will discuss Tyler (Tyler Robinson) who has now made his first in-person appearance ..."
+
+**[00:01:43](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-01-23)**
+> "...n in the show we will discuss Tyler (Tyler Robinson) who has now made his first in-pe..."
+
+**[00:01:43](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-01-23)**
+> "... we will discuss Tyler (Tyler Robinson) who has now made his first in-person appearance ..."
+
+**[00:13:14](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-12-41)**
+> "uh, lying about how Tyler (Tyler Robinson) was arrested."
+
+**[00:13:14](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-12-41)**
+> "... lying about how Tyler (Tyler Robinson) was arrested."
+
+**[00:13:24](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-13-24)**
+> "...ver revealed, uh, that Tyler (Tyler Robinson) was at the Dairy Queen following the assassinati..."
+
+**[00:13:24](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-13-24)**
+> "Never revealed, uh, that Tyler (Tyler Robinson) was at the Dairy Queen following..."
+
+**[00:13:24](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-13-24)**
+> "...vealed, uh, that Tyler (Tyler Robinson) was at the Dairy Queen following the assassinati..."
+
+**[00:13:38](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-13-24)**
+> "They said Tyler (Tyler Robinson) was arrested wearing a maroon shirt."
+
+**[00:13:43](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-13-24)**
+> "They said Tyler (Tyler Robinson) was suicidal, but also turned himself in because..."
+
+**[00:13:59](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-13-24)**
+> "...ysteriously missing of Tyler (Tyler Robinson) turning himself in."
+
+**[00:13:59](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-13-24)**
+> "...otage mysteriously missing of Tyler (Tyler Robinson) turning himself in."
+
+**[00:13:59](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-13-24)**
+> "...ously missing of Tyler (Tyler Robinson) turning himself in."
+
+**[00:29:04](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-28-43)**
+> "I think Tyler (Tyler Robinson) pulled the trigger, but the text messages are we..."
+
+**[00:33:36](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-33-23)**
+> "I think Tyler (Tyler Robinson) was involved on that day."
+
+**[00:33:54](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-33-23)**
+> "I do not believe Tyler (Tyler Robinson) was on campus that day."
+
+**[00:34:50](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-34-50)**
+> "...nd you're going to see Tyler (Tyler Robinson) jump down and it's not going to impact her case ..."
+
+**[00:34:50](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-34-50)**
+> "... shot and you're going to see Tyler (Tyler Robinson) jump down and it's not going to ..."
+
+**[00:34:50](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-34-50)**
+> "...'re going to see Tyler (Tyler Robinson) jump down and it's not going to impact her case ..."
+
+**[00:35:01](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-34-50)**
+> "...'m happy to learn that Tyler (Tyler Robinson) is not AI because I mean that it's been so weird..."
+
+**[00:35:01](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-34-50)**
+> "...guys, I'm happy to learn that Tyler (Tyler Robinson) is not AI because I mean that it..."
+
+**[00:35:01](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-34-50)**
+> "...py to learn that Tyler (Tyler Robinson) is not AI because I mean that it's been so weird..."
+
+**[00:57:13](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-56-57)**
+> "... have to tell us the color of Tyler's shirt maroon?"
+
+</details>
 
 <details>
 <summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (2 mentions)</summary>
@@ -1197,7 +1283,20 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Robinson (82)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Robinson (86)</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (4)</summary>
+
+- [00:13:11](/episodes/ep-6J6lRZPQ4jk.md#t-00-12-41) (Claim) **Candace Owens**: ["Tyler Robinson was arrested at Dairy Queen following the assassination..."](/statements/statement-b87065ae62c0.md)
+
+- [00:13:23](/episodes/ep-6J6lRZPQ4jk.md#t-00-12-41) (Claim) **Candace Owens** (via paraphrase): ["Tyler Robinson was suicidal but also turned himself in because he was ..."](/statements/statement-99f64e0b3f89.md)
+
+- [00:33:39](/episodes/ep-6J6lRZPQ4jk.md#t-00-33-23) (Opinion) **Candace Owens**: ["Tyler Robinson was involved on the day of the shooting but was not on ..."](/statements/statement-66cbc5d50354.md)
+
+- [00:35:12](/episodes/ep-6J6lRZPQ4jk.md#t-00-34-50) (Claim) **Candace Owens**: ["Tyler Robinson made his first in-person court appearance and seemed li..."](/statements/statement-0119a3b20162.md)
+
+</details>
 
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (2)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Bari Weiss"
-description: "Bari Weiss (People) - 20 mentions"
+description: "Bari Weiss (People) - 33 mentions"
 id: "person-bari-weiss"
 type: "PERSON"
 aliases:
@@ -16,6 +16,50 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (13 mentions)</summary>
+
+**[00:06:03](/episodes/ep-6J6lRZPQ4jk.md#ent-person-bari-weiss-t-00-05-27)**
+> "I'm frustrated, obviously, for a lot of reasons, but Erika's, that's now being teased, the interview with Bari Weiss"
+
+**[00:05:51](/episodes/ep-6J6lRZPQ4jk.md#ent-person-bari-weiss-t-00-05-27)**
+> "...ng teased, the interview with Bari Weiss, it's being termed a town hall."
+
+**[00:06:03](/episodes/ep-6J6lRZPQ4jk.md#ent-person-bari-weiss-t-00-05-27)**
+> "And Bari (Bari Weiss) is obviously just a Tel Aviv agent."
+
+**[00:06:26](/episodes/ep-6J6lRZPQ4jk.md#ent-person-bari-weiss-t-00-06-08)**
+> "...tually, what I'm saying about Bari Weiss, this gets into Tucker (Tucker Carlson)'s quote-u..."
+
+**[00:06:58](/episodes/ep-6J6lRZPQ4jk.md#ent-person-bari-weiss-t-00-06-49)**
+> "Okay, Bari Weiss is actually one of the people that we should stud..."
+
+**[00:08:24](/episodes/ep-6J6lRZPQ4jk.md#ent-person-bari-weiss-t-00-08-15)**
+> "... multiple takes because Bari (Bari Weiss) wanted to read a prompter."
+
+**[00:10:50](/episodes/ep-6J6lRZPQ4jk.md#ent-person-bari-weiss-t-00-10-29)**
+> "Maybe Bari (Bari Weiss) wanted to prep."
+
+**[00:11:04](/episodes/ep-6J6lRZPQ4jk.md#ent-person-bari-weiss-t-00-10-29)**
+> "Bari Weiss is here."
+
+**[00:15:17](/episodes/ep-6J6lRZPQ4jk.md#ent-person-bari-weiss-t-00-14-48)**
+> "... CBS under the stewardship of Bari Weiss is not clear, they even brought in during this to..."
+
+**[00:28:11](/episodes/ep-6J6lRZPQ4jk.md#ent-person-bari-weiss-t-00-28-00)**
+> "...ith prepackaged questions and Bari Weiss and I obviously have rehearsed this answer."
+
+**[00:53:41](/episodes/ep-6J6lRZPQ4jk.md#ent-person-bari-weiss-t-00-53-25)**
+> "And yeah, I guess this Bari Weiss is now she's building like her career off of, wha..."
+
+**[00:53:58](/episodes/ep-6J6lRZPQ4jk.md#ent-person-bari-weiss-t-00-53-25)**
+> "...leprompter, by the way, Bari (Bari Weiss), for that."
+
+**[00:57:28](/episodes/ep-6J6lRZPQ4jk.md#ent-person-bari-weiss-t-00-56-57)**
+> "...that's going to come out with Bari Weiss."
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (5 mentions)</summary>
@@ -113,10 +157,13 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Formerly Worked For (1)</summary>
+<summary>Formerly Worked For (2)</summary>
 
 - **[The New York Times](/entities/org-the-new-york-times.md)**
   - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:29:51](/episodes/ep-mKXdKV-OBog.md#t-00-29-33): "She notoriously left The New York Times and said it was biased"
+
+- **[CBS News](/entities/org-cbs-news.md)**
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:06:23](/episodes/ep-6J6lRZPQ4jk.md#t-00-06-08): "She somehow becomes a chief over at CBS News."
 
 </details>
 
@@ -133,6 +180,14 @@ _Type: People_
 
 - **[Larry Ellison](/entities/person-larry-ellison.md)**
   - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:34:33](/episodes/ep-mKXdKV-OBog.md#t-00-34-21): "Larry Ellison hired her to do it"
+
+</details>
+
+<details>
+<summary>Interviewed (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:07:40](/episodes/ep-6J6lRZPQ4jk.md#t-00-07-28): "the podcaster Candace Owens, okay? At one time, a friend of Charlie's. At one time, an employee of Turning Point. She has been one of the main peddlers of these conspiracies"
 
 </details>
 
@@ -159,7 +214,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (9)</summary>
 
 - **[CBS](/entities/org-cbs.md)** employs this
   - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:15:31](/episodes/ep-sImMM04XdWY.md#t-00-15-24)
@@ -173,11 +228,17 @@ _Type: People_
 - **[The New York Times](/entities/org-the-new-york-times.md)** formerly employed this
   - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:29:51](/episodes/ep-mKXdKV-OBog.md#t-00-29-33)
 
+- **[CBS News](/entities/org-cbs-news.md)** formerly employed this
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:06:23](/episodes/ep-6J6lRZPQ4jk.md#t-00-06-08)
+
 - **[The Free Press](/entities/org-the-free-press.md)** founded by this
   - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#t-00-28-14)
 
 - **[Larry Ellison](/entities/person-larry-ellison.md)** hired this
   - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:34:33](/episodes/ep-mKXdKV-OBog.md#t-00-34-21)
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** interviewed by this
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:07:40](/episodes/ep-6J6lRZPQ4jk.md#t-00-07-28)
 
 - **[The Free Press](/entities/org-the-free-press.md)** owned by this
   - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#t-00-28-14)
@@ -187,7 +248,30 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bari Weiss (3)</strong></summary>
+<summary><strong class="section-title">Statements by Bari Weiss (1)</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1)</summary>
+
+- [00:07:48](/episodes/ep-6J6lRZPQ4jk.md#t-00-07-40) [○] (Accusation) ["Candace Owens is building her business off of lies about the Charlie Kirk assass..."](/statements/statement-f2e8ff781408.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Bari Weiss (5)</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2)</summary>
+
+- [00:06:06](/episodes/ep-6J6lRZPQ4jk.md#t-00-05-27) (Accusation) **Candace Owens**: ["Bari Weiss is a Tel Aviv agent"](/statements/statement-ce0953603e5c.md)
+
+- [00:08:18](/episodes/ep-6J6lRZPQ4jk.md#t-00-08-15) (Claim) **Candace Owens**: ["The Bari Weiss interview with Erika Kirk was pre-recorded from 11am to..."](/statements/statement-059669d70f62.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2)</summary>

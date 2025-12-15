@@ -1,6 +1,6 @@
 ---
 title: "Amir Odom"
-description: "Amir Odom (People) - 4 mentions"
+description: "Amir Odom (People) - 7 mentions"
 id: "person-amir"
 type: "PERSON"
 aliases:
@@ -25,7 +25,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (3 mentions)</summary>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (6 mentions)</summary>
 
 **[00:58:15](/episodes/ep-5autG89PW6w.md#ent-person-amir-t-00-57-49)**
 > "... consideration? Were drones offered and/or declined? Did they do a drill run-through that morning?" Amir Odom—hey, what's up? Thank you. He has a great YouTube channel: Amir Odom. He writes: "Before we ju..."
@@ -35,6 +35,15 @@ _Type: People_
 
 **[00:58:28](/episodes/ep-5autG89PW6w.md#ent-person-amir-t-00-57-49)**
 > "... admit history has given her every reason to." Absolutely. There are. Politics is a nasty business, Amir. As you know—you know—you're a friend of someone who's in politics: Brett Cooper. Corey Henry write..."
+
+**[00:58:15](/episodes/ep-5autG89PW6w.md#ent-person-amir-t-00-57-49)**
+> "Amir Odom YouTube comment"
+
+**[00:58:15](/episodes/ep-5autG89PW6w.md#ent-person-amir-t-00-57-49)**
+> "Amir Odom—hey, what's up?"
+
+**[00:58:18](/episodes/ep-5autG89PW6w.md#ent-person-amir-t-00-57-49)**
+> "... has a great YouTube channel: Amir Odom."
 
 </details>
 

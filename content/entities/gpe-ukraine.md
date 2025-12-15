@@ -1,6 +1,6 @@
 ---
 title: "Ukraine"
-description: "Ukraine (Places) - 40 mentions"
+description: "Ukraine (Places) - 43 mentions"
 id: "gpe-ukraine"
 type: "GPE"
 aliases:
@@ -15,6 +15,20 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (3 mentions)</summary>
+
+**[00:00:25](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-ukraine-t-00-00-00)**
+> "whether it's COVID, the Ukraine war"
+
+**[00:00:15](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-ukraine-t-00-00-00)**
+> "...know, whether it's COVID, the Ukraine war, it's like the entire media apparatus and est..."
+
+**[00:30:38](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-ukraine-t-00-30-38)**
+> "Like I said, Ukraine, COVID, there's a formula here."
+
+</details>
 
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (5 mentions)</summary>

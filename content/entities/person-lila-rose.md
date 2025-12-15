@@ -1,6 +1,6 @@
 ---
 title: "Lila Rose"
-description: "Lila Rose (People) - 8 mentions"
+description: "Lila Rose (People) - 10 mentions"
 id: "person-lila-rose"
 type: "PERSON"
 ---
@@ -11,6 +11,17 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2 mentions)</summary>
+
+**[00:44:48](/episodes/ep-6J6lRZPQ4jk.md#ent-person-lila-rose-t-00-44-35)**
+> "she's also criticized Lila Rose heavily"
+
+**[00:44:45](/episodes/ep-6J6lRZPQ4jk.md#ent-person-lila-rose-t-00-44-35)**
+> "Um, she's also criticized Lila Rose heavily and she's kind of questioned Lila's milit..."
+
+</details>
 
 <details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
@@ -61,6 +72,20 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Criticized By (1)</summary>
+
+- **[Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md)**
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:44:47](/episodes/ep-6J6lRZPQ4jk.md#t-00-44-35): "she's also criticized Lila Rose heavily and she's kind of questioned Lila's military connections"
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md)** criticized this
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:44:47](/episodes/ep-6J6lRZPQ4jk.md#t-00-44-35)
+
+</details>
 
 </details>

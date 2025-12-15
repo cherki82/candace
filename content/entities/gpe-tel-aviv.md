@@ -1,6 +1,6 @@
 ---
 title: "Tel Aviv"
-description: "Tel Aviv (Places) - 9 mentions"
+description: "Tel Aviv (Places) - 12 mentions"
 id: "gpe-tel-aviv"
 type: "GPE"
 ---
@@ -11,6 +11,20 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (3 mentions)</summary>
+
+**[00:06:03](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-tel-aviv-t-00-05-27)**
+> "And Bari (Bari Weiss) is obviously just a Tel Aviv agent"
+
+**[00:06:03](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-tel-aviv-t-00-05-27)**
+> "...ri Weiss) is obviously just a Tel Aviv agent."
+
+**[00:06:08](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-tel-aviv-t-00-06-08)**
+> "...ry, her rise, her studying in Tel Aviv, her family ties,"
+
+</details>
 
 <details>
 <summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (2 mentions)</summary>

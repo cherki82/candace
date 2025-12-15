@@ -1,6 +1,6 @@
 ---
 title: "FBI"
-description: "FBI (Organizations) - 381 mentions"
+description: "FBI (Organizations) - 387 mentions"
 id: "org-fbi"
 type: "ORG"
 aliases:
@@ -18,6 +18,29 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (6 mentions)</summary>
+
+**[00:50:38](/episodes/ep-6J6lRZPQ4jk.md#ent-org-fbi-t-00-12-41)**
+> "I want like one critique of the FBI"
+
+**[00:12:56](/episodes/ep-6J6lRZPQ4jk.md#ent-org-fbi-t-00-12-41)**
+> "... the same energy also for the feds?"
+
+**[00:12:56](/episodes/ep-6J6lRZPQ4jk.md#ent-org-fbi-t-00-12-41)**
+> "... not the same energy also for the feds?"
+
+**[00:27:23](/episodes/ep-6J6lRZPQ4jk.md#ent-org-fbi-t-00-12-41)**
+> "...want like one critique of the FBI, one critique of anything, which the public is sa..."
+
+**[00:48:55](/episodes/ep-6J6lRZPQ4jk.md#ent-org-fbi-t-00-12-41)**
+> "... you should probably know the FBI has been warning homeowners about a type of real ..."
+
+**[00:50:07](/episodes/ep-6J6lRZPQ4jk.md#ent-org-fbi-t-00-12-41)**
+> "...someone for not believing the FBI narrative."
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (9 mentions)</summary>

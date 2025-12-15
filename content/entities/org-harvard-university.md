@@ -1,6 +1,6 @@
 ---
 title: "Harvard University"
-description: "Harvard University (Organizations) - 2 mentions"
+description: "Harvard University (Organizations) - 5 mentions"
 id: "org-harvard-university"
 type: "ORG"
 aliases:
@@ -16,6 +16,20 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (3 mentions)</summary>
+
+**[00:25:51](/episodes/ep-6J6lRZPQ4jk.md#ent-org-harvard-university-t-00-25-09)**
+> "why does that mean David Hall gets to go to Harvard?"
+
+**[00:25:51](/episodes/ep-6J6lRZPQ4jk.md#ent-org-harvard-university-t-00-25-09)**
+> "...mean David Hall gets to go to Harvard?"
+
+**[00:25:55](/episodes/ep-6J6lRZPQ4jk.md#ent-org-harvard-university-t-00-25-54)**
+> "Like, does he belong at Harvard?"
+
+</details>
 
 <details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (2 mentions)</summary>

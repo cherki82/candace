@@ -1,6 +1,6 @@
 ---
 title: "God"
-description: "God (Concepts) - 161 mentions"
+description: "God (Concepts) - 165 mentions"
 id: "concept-god"
 type: "CONCEPT"
 ---
@@ -11,6 +11,23 @@ _Type: Concepts_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (4 mentions)</summary>
+
+**[00:21:27](/episodes/ep-6J6lRZPQ4jk.md#t-00-21-11)**
+> "God bless you"
+
+**[00:17:14](/episodes/ep-6J6lRZPQ4jk.md#t-00-17-02)**
+> "God bless you."
+
+**[00:17:15](/episodes/ep-6J6lRZPQ4jk.md#t-00-17-02)**
+> "God bless you."
+
+**[00:59:45](/episodes/ep-6J6lRZPQ4jk.md#t-00-59-29)**
+> "... place from the directives of God."
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (6 mentions)</summary>

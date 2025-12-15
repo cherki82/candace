@@ -1,6 +1,6 @@
 ---
 title: "David Hogg"
-description: "David Hogg (People) - 3 mentions"
+description: "David Hogg (People) - 6 mentions"
 id: "person-david-hogg"
 type: "PERSON"
 ---
@@ -11,6 +11,20 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (3 mentions)</summary>
+
+**[00:25:45](/episodes/ep-6J6lRZPQ4jk.md#ent-person-david-hogg-t-00-25-09)**
+> "How dare you go against David Hogg"
+
+**[00:25:39](/episodes/ep-6J6lRZPQ4jk.md#ent-person-david-hogg-t-00-25-09)**
+> "How dare you go against David Hogg, right?"
+
+**[00:25:41](/episodes/ep-6J6lRZPQ4jk.md#ent-person-david-hogg-t-00-25-09)**
+> "...e like, well, I don't know if David Hogg, I know I'm very sad."
+
+</details>
 
 <details>
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>

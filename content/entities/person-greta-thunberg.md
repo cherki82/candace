@@ -1,6 +1,6 @@
 ---
 title: "Greta Thunberg"
-description: "Greta Thunberg (People) - 2 mentions"
+description: "Greta Thunberg (People) - 4 mentions"
 id: "person-greta-thunberg"
 type: "PERSON"
 ---
@@ -11,6 +11,17 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2 mentions)</summary>
+
+**[01:02:52](/episodes/ep-6J6lRZPQ4jk.md#ent-person-greta-thunberg-t-01-02-30)**
+> "How dare you, Greta (Greta Thunberg)?"
+
+**[01:02:52](/episodes/ep-6J6lRZPQ4jk.md#ent-person-greta-thunberg-t-01-02-30)**
+> "How dare you, Greta (Greta Thunberg)?"
+
+</details>
 
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>

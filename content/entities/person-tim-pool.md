@@ -1,6 +1,6 @@
 ---
 title: "Tim Pool"
-description: "Tim Pool (People) - 36 mentions"
+description: "Tim Pool (People) - 38 mentions"
 id: "person-tim-pool"
 type: "PERSON"
 aliases:
@@ -15,6 +15,17 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2 mentions)</summary>
+
+**[00:23:08](/episodes/ep-6J6lRZPQ4jk.md#t-00-22-36)**
+> "Tim Poole's telling you guys midterms"
+
+**[00:22:08](/episodes/ep-6J6lRZPQ4jk.md#t-00-21-54)**
+> "But, you know, Tim Poole's telling you guys midterms, there's midter..."
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>

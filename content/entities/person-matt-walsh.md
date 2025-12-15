@@ -1,6 +1,6 @@
 ---
 title: "Matt Walsh"
-description: "Matt Walsh (People) - 10 mentions"
+description: "Matt Walsh (People) - 12 mentions"
 id: "person-matt-walsh"
 type: "PERSON"
 ---
@@ -11,6 +11,17 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2 mentions)</summary>
+
+**[00:35:33](/episodes/ep-6J6lRZPQ4jk.md#ent-person-matt-walsh-t-00-36-46)**
+> "There's not a single daily wire host, Matt Walsh, Michael Nose, nicest people ever"
+
+**[00:36:46](/episodes/ep-6J6lRZPQ4jk.md#ent-person-matt-walsh-t-00-36-46)**
+> "...not a single daily wire host, Matt Walsh, Michael Nose, nicest people ever, Brett Cooper, ..."
+
+</details>
 
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>

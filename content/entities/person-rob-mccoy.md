@@ -1,6 +1,6 @@
 ---
 title: "Rob McCoy"
-description: "Rob McCoy (People) - 117 mentions"
+description: "Rob McCoy (People) - 120 mentions"
 id: "person-rob-mccoy"
 type: "PERSON"
 aliases:
@@ -18,6 +18,20 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (3 mentions)</summary>
+
+**[00:10:25](/episodes/ep-6J6lRZPQ4jk.md#ent-person-rob-mccoy-t-00-09-44)**
+> "Rob (Rob McCoy) lied"
+
+**[00:10:25](/episodes/ep-6J6lRZPQ4jk.md#ent-person-rob-mccoy-t-00-09-44)**
+> "Rob (Rob McCoy) lied."
+
+**[00:10:29](/episodes/ep-6J6lRZPQ4jk.md#ent-person-rob-mccoy-t-00-10-29)**
+> "Maybe Rob (Rob McCoy) was confused."
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
@@ -709,7 +723,18 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Rob McCoy (7)</strong></summary>
+<summary><strong class="section-title">Statements by Rob McCoy (9)</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2)</summary>
+
+- [00:10:20](/episodes/ep-6J6lRZPQ4jk.md#t-00-09-44) [○] (Claim) ["Mikey McCoy had blood all over him"](/statements/statement-248b306069ca.md)
+  - About: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md)
+
+- [00:10:34](/episodes/ep-6J6lRZPQ4jk.md#t-00-10-29) [○] (Claim) ["Mikey McCoy called his father Rob McCoy first after the shooting"](/statements/statement-3ad8bb700479.md)
+  - About: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2)</summary>
@@ -755,7 +780,18 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Rob McCoy (22)</strong></summary>
+<summary><strong class="section-title">Statements about Rob McCoy (24)</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2)</summary>
+
+- [00:10:20](/episodes/ep-6J6lRZPQ4jk.md#t-00-09-44) (Claim) **Rob McCoy** (via paraphrase): ["Mikey McCoy had blood all over him"](/statements/statement-248b306069ca.md)
+  - Also about: [Mikey McCoy](/entities/person-mikey-mccoy.md)
+
+- [00:10:34](/episodes/ep-6J6lRZPQ4jk.md#t-00-10-29) (Claim) **Rob McCoy** (via paraphrase): ["Mikey McCoy called his father Rob McCoy first after the shooting"](/statements/statement-3ad8bb700479.md)
+  - Also about: [Mikey McCoy](/entities/person-mikey-mccoy.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1)</summary>

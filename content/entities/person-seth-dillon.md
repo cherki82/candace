@@ -1,6 +1,6 @@
 ---
 title: "Seth Dillon"
-description: "Seth Dillon (People) - 48 mentions"
+description: "Seth Dillon (People) - 49 mentions"
 id: "person-seth-dillon"
 type: "PERSON"
 ---
@@ -11,6 +11,14 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1 mentions)</summary>
+
+**[00:46:18](/episodes/ep-6J6lRZPQ4jk.md#t-00-45-56)**
+> "I know Alex and Lila really well. I know Seth"
+
+</details>
 
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>

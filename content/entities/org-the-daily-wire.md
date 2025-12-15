@@ -1,6 +1,6 @@
 ---
 title: "The Daily Wire"
-description: "The Daily Wire (Organizations) - 39 mentions"
+description: "The Daily Wire (Organizations) - 41 mentions"
 id: "org-the-daily-wire"
 type: "ORG"
 aliases:
@@ -16,6 +16,17 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2 mentions)</summary>
+
+**[00:35:33](/episodes/ep-6J6lRZPQ4jk.md#ent-org-the-daily-wire-t-00-36-46)**
+> "There's not a single daily wire host"
+
+**[00:36:46](/episodes/ep-6J6lRZPQ4jk.md#ent-org-the-daily-wire-t-00-36-46)**
+> "There's not a single daily wire host, Matt Walsh, Michael Nose, nicest people eve..."
+
+</details>
 
 <details>
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>

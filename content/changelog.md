@@ -5,6 +5,24 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2025-12-15 12:37:06
+
+**Added 1 episode(s):**
+  - `6J6lRZPQ4jk`: Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279
+**Added 2 new entity/entities**
+**Removed 1 entity/entities**
+**Added 1 new event(s)**
+**Added 14 new relationship(s)**
+
+**Totals:**
+- Episodes: 48
+- Entities: 1016
+- Events: 523
+- Claims: 1400
+- Relationships: 876
+
+---
+
 ## 2025-12-11 18:01:40
 
 **Added 1 new entity/entities**

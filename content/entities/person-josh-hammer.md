@@ -1,6 +1,6 @@
 ---
 title: "Josh Hammer"
-description: "Josh Hammer (People) - 123 mentions"
+description: "Josh Hammer (People) - 132 mentions"
 id: "person-josh-hammer"
 type: "PERSON"
 aliases:
@@ -16,6 +16,38 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (9 mentions)</summary>
+
+**[00:11:02](/episodes/ep-6J6lRZPQ4jk.md#ent-person-josh-hammer-t-00-10-29)**
+> "Stop, Josh (Josh Hammer) (Josh Hammer)"
+
+**[00:11:00](/episodes/ep-6J6lRZPQ4jk.md#ent-person-josh-hammer-t-00-10-29)**
+> "Stop, Josh (Josh Hammer) (Josh Hammer)."
+
+**[00:42:15](/episodes/ep-6J6lRZPQ4jk.md#ent-person-josh-hammer-t-00-41-45)**
+> "No one worse than Josh (Josh Hammer) (Josh Hammer), okay?"
+
+**[00:42:15](/episodes/ep-6J6lRZPQ4jk.md#ent-person-josh-hammer-t-00-41-45)**
+> "...orse than Josh (Josh Hammer) (Josh Hammer), okay?"
+
+**[00:42:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-josh-hammer-t-00-41-45)**
+> "Josh (Josh Hammer) explicitly lied about Charlie's state of mind."
+
+**[00:42:30](/episodes/ep-6J6lRZPQ4jk.md#ent-person-josh-hammer-t-00-42-30)**
+> "...nging fruit to say what Josh (Josh Hammer) (Josh Hammer) did here was wrong, okay?"
+
+**[00:42:30](/episodes/ep-6J6lRZPQ4jk.md#ent-person-josh-hammer-t-00-42-30)**
+> "... say what Josh (Josh Hammer) (Josh Hammer) did here was wrong, okay?"
+
+**[00:42:30](/episodes/ep-6J6lRZPQ4jk.md#ent-person-josh-hammer-t-00-42-30)**
+> "...low-hanging fruit to say what Josh (Josh Hammer) (Josh Hammer) did here was wrong, o..."
+
+**[00:45:22](/episodes/ep-6J6lRZPQ4jk.md#ent-person-josh-hammer-t-00-45-18)**
+> "I know Josh (Josh Hammer) and everything I know about these people is that..."
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
@@ -495,13 +527,16 @@ _Type: People_
 </details>
 
 <details>
-<summary>Criticized (2)</summary>
+<summary>Criticized (3)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
   - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:34:59](/episodes/ep-YFmRH8p5lt0.md#t-00-34-46): "Josh Hammer is angry."
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
   - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58): "What I also don't like are the people like Josh Hammer and Seth Dillon, people that I know who are very nasty and work behind the scenes. I don't like that they have not yet been honest or forthcoming about the pressure that they and others were putting on Charlie (Charlie Kirk)."
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:23](/episodes/ep-6J6lRZPQ4jk.md#t-00-41-45): "Josh (Josh Hammer) explicitly lied about Charlie's state of mind. He went on multiple podcasts. He called me a liar."
 
 </details>
 
@@ -518,6 +553,7 @@ _Type: People_
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
   - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:13](/episodes/ep-ja26iltROkM.md#t-00-29-48): "I'm going to guess it's either Seth Dillon or Josh Hammer...these messages...a close friend of Charlie Kirk shared these messages"
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:38](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30): "If you are a Christian and you purport to have been a good friend to Charlie"
 
 </details>
 
@@ -541,13 +577,16 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (8)</summary>
+<summary>Referenced By (9)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** criticized by this
   - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58)
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** criticized by this
   - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:34:59](/episodes/ep-YFmRH8p5lt0.md#t-00-34-46)
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
+  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:23](/episodes/ep-6J6lRZPQ4jk.md#t-00-41-45)
 
 - **[Dave Smith](/entities/person-dave-smith.md)** debated this
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:58](/episodes/ep-his-JBjlkh8.md#t-00-03-40)

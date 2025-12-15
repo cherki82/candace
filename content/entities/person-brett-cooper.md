@@ -1,6 +1,6 @@
 ---
 title: "Brett Cooper"
-description: "Brett Cooper (People) - 23 mentions"
+description: "Brett Cooper (People) - 25 mentions"
 id: "person-brett-cooper"
 type: "PERSON"
 ---
@@ -11,6 +11,17 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2 mentions)</summary>
+
+**[00:35:33](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brett-cooper-t-00-36-46)**
+> "Brett Cooper, nicest person that will defend Ali Beth Stuckey's current PR agent"
+
+**[00:36:46](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brett-cooper-t-00-36-46)**
+> "...ael Nose, nicest people ever, Brett Cooper, nicest person that will defend Ali Beth Stuckey'..."
+
+</details>
 
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (5 mentions)</summary>

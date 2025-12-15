@@ -1,6 +1,6 @@
 ---
 title: "COVID-19 Pandemic"
-description: "COVID-19 Pandemic (Events) - 14 mentions"
+description: "COVID-19 Pandemic (Events) - 20 mentions"
 id: "event-covid-19-pandemic"
 type: "EVENT"
 aliases:
@@ -16,6 +16,29 @@ _Type: Events_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (6 mentions)</summary>
+
+**[00:00:25](/episodes/ep-6J6lRZPQ4jk.md#ent-event-covid-19-pandemic-t-00-00-00)**
+> "whether it's COVID, the Ukraine war"
+
+**[00:00:15](/episodes/ep-6J6lRZPQ4jk.md#ent-event-covid-19-pandemic-t-00-00-00)**
+> "You know, whether it's COVID, the Ukraine war, it's like the entire media appa..."
+
+**[00:20:42](/episodes/ep-6J6lRZPQ4jk.md#ent-event-covid-19-pandemic-t-00-20-26)**
+> "You could apply this to COVID, whatever."
+
+**[00:21:02](/episodes/ep-6J6lRZPQ4jk.md#ent-event-covid-19-pandemic-t-00-20-26)**
+> "...cial media as they did during COVID because social media is problematic."
+
+**[00:30:38](/episodes/ep-6J6lRZPQ4jk.md#ent-event-covid-19-pandemic-t-00-30-38)**
+> "Like I said, Ukraine, COVID, there's a formula here."
+
+**[00:52:22](/episodes/ep-6J6lRZPQ4jk.md#ent-event-covid-19-pandemic-t-00-52-05)**
+> "It's just like during COVID."
+
+</details>
 
 <details>
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
