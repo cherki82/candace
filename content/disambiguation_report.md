@@ -1,6 +1,6 @@
 # Entity Disambiguation Report
 
-Generated: 2025-12-15 12:37:04
+Generated: 2025-12-15 12:55:37
 
 **1 ambiguous mentions** could not be automatically resolved.
 
