@@ -1,6 +1,6 @@
 ---
 title: "Mossad"
-description: "Mossad (Organizations) - 25 mentions"
+description: "Mossad (Organizations) - 27 mentions"
 id: "org-mossad"
 type: "ORG"
 ---
@@ -11,6 +11,17 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2 mentions)</summary>
+
+**[00:00:05](/episodes/ep-es7PWdFGoFI.md#ent-org-mossad-t-00-00-00)**
+> "TikTok does need to be purchased by the Mossad"
+
+**[00:00:13](/episodes/ep-es7PWdFGoFI.md#ent-org-mossad-t-00-00-00)**
+> "...s need to be purchased by the Mossad."
+
+</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (4 mentions)</summary>

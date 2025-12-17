@@ -1,6 +1,6 @@
 ---
 title: "Jimmy Dore"
-description: "Jimmy Dore (People) - 4 mentions"
+description: "Jimmy Dore (People) - 7 mentions"
 id: "person-jimmy-dore"
 type: "PERSON"
 ---
@@ -11,6 +11,20 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (3 mentions)</summary>
+
+**[00:01:35](/episodes/ep-es7PWdFGoFI.md#ent-person-jimmy-dore-t-00-06-11)**
+> "I went on Jimmy on Friday, Jimmy show"
+
+**[00:06:19](/episodes/ep-es7PWdFGoFI.md#ent-person-jimmy-dore-t-00-06-11)**
+> "And then I went on Jimmy (Jimmy Dore) on Friday, Jimmy (Jimmy Dore) show, and I clarif..."
+
+**[00:06:19](/episodes/ep-es7PWdFGoFI.md#ent-person-jimmy-dore-t-00-06-11)**
+> "...Jimmy Dore) on Friday, Jimmy (Jimmy Dore) show, and I clarified, I said, Andrew (Andrew Ko..."
+
+</details>
 
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (4 mentions)</summary>

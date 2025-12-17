@@ -240,6 +240,14 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Appeared With (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:30:39](/episodes/ep-es7PWdFGoFI.md#t-00-30-07): "Seth Dillon definitively pressed Charlie at this event."
+
+</details>
+
+<details>
 <summary>Critic Of (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
@@ -286,7 +294,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (8)</summary>
+<summary>Referenced By (9)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** appeared with this
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:30:39](/episodes/ep-es7PWdFGoFI.md#t-00-30-07)
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** criticized by this
   - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58)

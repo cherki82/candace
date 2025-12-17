@@ -1,6 +1,6 @@
 ---
 title: "Mia Grant"
-description: "Mia Grant (People) - 12 mentions"
+description: "Mia Grant (People) - 15 mentions"
 id: "person-mia-grant"
 type: "PERSON"
 aliases:
@@ -15,6 +15,20 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (3 mentions)</summary>
+
+**[00:00:47](/episodes/ep-es7PWdFGoFI.md#ent-person-mia-grant-t-00-02-04)**
+> "I brought my cousin Mia, you know, the one that has a really bad attitude"
+
+**[00:02:35](/episodes/ep-es7PWdFGoFI.md#ent-person-mia-grant-t-00-02-04)**
+> "...then I brought my cousin Mia (Mia Grant), you know, the one that has a really bad attitud..."
+
+**[00:02:35](/episodes/ep-es7PWdFGoFI.md#ent-person-mia-grant-t-00-02-04)**
+> "And then I brought my cousin Mia (Mia Grant), you know, the one that has a really ..."
+
+</details>
 
 <details>
 <summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (5 mentions)</summary>
@@ -113,7 +127,15 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mia Grant (1)</strong></summary>
+<summary><strong class="section-title">Statements about Mia Grant (2)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
+
+- [00:02:04](/episodes/ep-es7PWdFGoFI.md#t-00-01-24) (Claim) **Candace Owens**: ["The meeting yesterday was four hours and 30 minutes with no rules. At ..."](/statements/statement-a00acb5ab7d2.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Justin Streiff](/entities/person-justin-streiff.md), [George Farmer](/entities/person-george-farmer.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (1)</summary>

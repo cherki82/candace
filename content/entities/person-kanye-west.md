@@ -1,6 +1,6 @@
 ---
 title: "Kanye West"
-description: "Kanye West (People) - 94 mentions"
+description: "Kanye West (People) - 98 mentions"
 id: "person-kanye-west"
 type: "PERSON"
 aliases:
@@ -17,6 +17,23 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (4 mentions)</summary>
+
+**[00:00:25](/episodes/ep-es7PWdFGoFI.md#ent-person-kanye-west-t-00-00-45)**
+> "I am basically akin to Kanye"
+
+**[00:01:20](/episodes/ep-es7PWdFGoFI.md#ent-person-kanye-west-t-00-00-45)**
+> "I am basically akin to Kanye (Kanye West)."
+
+**[00:01:32](/episodes/ep-es7PWdFGoFI.md#ent-person-kanye-west-t-00-01-24)**
+> "...as like, oh gosh, yes, Kanye (Kanye West), I get this, okay?"
+
+**[00:01:32](/episodes/ep-es7PWdFGoFI.md#ent-person-kanye-west-t-00-01-24)**
+> "...re, I was like, oh gosh, yes, Kanye (Kanye West), I get this, okay?"
+
+</details>
 
 <details>
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (6 mentions)</summary>

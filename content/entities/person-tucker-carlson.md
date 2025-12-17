@@ -1,6 +1,6 @@
 ---
 title: "Tucker Carlson"
-description: "Tucker Carlson (People) - 337 mentions"
+description: "Tucker Carlson (People) - 350 mentions"
 id: "person-tucker-carlson"
 type: "PERSON"
 aliases:
@@ -16,6 +16,50 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (13 mentions)</summary>
+
+**[00:00:05](/episodes/ep-es7PWdFGoFI.md#ent-person-tucker-carlson-t-00-00-00)**
+> "Tucker (Tucker Carlson) is Adolf Hitler"
+
+**[00:00:13](/episodes/ep-es7PWdFGoFI.md#ent-person-tucker-carlson-t-00-00-00)**
+> "Tucker (Tucker Carlson) is Adolf Hitler and TikTok does need to be purch..."
+
+**[01:09:18](/episodes/ep-es7PWdFGoFI.md#ent-person-tucker-carlson-t-01-08-50)**
+> "...hilling with TPUSA members at Tucker's party."
+
+**[01:09:25](/episodes/ep-es7PWdFGoFI.md#ent-person-tucker-carlson-t-01-08-50)**
+> "...g out with TP USA and Tucker (Tucker Carlson) and Marjorie Taylor Greene at Tucker's Christmas..."
+
+**[01:09:25](/episodes/ep-es7PWdFGoFI.md#ent-person-tucker-carlson-t-01-08-50)**
+> "...s hanging out with TP USA and Tucker (Tucker Carlson) and Marjorie Taylor Greene at Tu..."
+
+**[01:09:25](/episodes/ep-es7PWdFGoFI.md#ent-person-tucker-carlson-t-01-08-50)**
+> "...and Marjorie Taylor Greene at Tucker's Christmas party."
+
+**[01:09:25](/episodes/ep-es7PWdFGoFI.md#ent-person-tucker-carlson-t-01-08-50)**
+> "...ith TP USA and Tucker (Tucker Carlson) and Marjorie Taylor Greene at Tucker's Christmas..."
+
+**[01:09:44](/episodes/ep-es7PWdFGoFI.md#ent-person-tucker-carlson-t-01-09-35)**
+> "I had never had beef with Tucker."
+
+**[01:10:03](/episodes/ep-es7PWdFGoFI.md#ent-person-tucker-carlson-t-01-09-35)**
+> "I am sure because Tucker (Tucker Carlson) obviously has a good relationship with them that..."
+
+**[01:10:03](/episodes/ep-es7PWdFGoFI.md#ent-person-tucker-carlson-t-01-09-35)**
+> "...m sure because Tucker (Tucker Carlson) obviously has a good relationship with them that..."
+
+**[01:13:26](/episodes/ep-es7PWdFGoFI.md#ent-person-tucker-carlson-t-01-13-14)**
+> "...e reason, Candice and Tucker (Tucker Carlson) are not."
+
+**[01:13:26](/episodes/ep-es7PWdFGoFI.md#ent-person-tucker-carlson-t-01-13-14)**
+> "... for some reason, Candice and Tucker (Tucker Carlson) are not."
+
+**[01:13:26](/episodes/ep-es7PWdFGoFI.md#ent-person-tucker-carlson-t-01-13-14)**
+> "...n, Candice and Tucker (Tucker Carlson) are not."
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (4 mentions)</summary>
@@ -1254,13 +1298,17 @@ _Type: People_
 </details>
 
 <details>
-<summary>Friend Of (2)</summary>
+<summary>Friend Of (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
   - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:03:56](/episodes/ep-ozWJz2spBcI.md#t-00-03-29): "Why are you hearing it, though, from me and Tucker and Megyn Kelly?"
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 01:09:45](/episodes/ep-es7PWdFGoFI.md#t-01-09-35): "I had never had beef with Tucker. That's why I was at his Christmas party."
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
   - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:04:43](/episodes/ep-6DhWawD4ZiM.md#t-00-04-36): "He is friends with Erika"
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)**
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 01:10:50](/episodes/ep-es7PWdFGoFI.md#t-01-10-18): "Tucker obviously has a good relationship with them that there were some Turning Point USA employees."
 
 </details>
 
@@ -1311,7 +1359,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (20)</summary>
+<summary>Referenced By (21)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** appeared with this
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:09:24](/episodes/ep-sreYYcID-QY.md#t-00-08-58)
@@ -1349,6 +1397,9 @@ _Type: People_
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** friend of this
   - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:04:43](/episodes/ep-6DhWawD4ZiM.md#t-00-04-36)
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)** friend of this
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 01:10:50](/episodes/ep-es7PWdFGoFI.md#t-01-10-18)
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** hosted speaker this
   - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:14:07](/episodes/ep-czVBmqZP6Ss.md#t-00-13-40)

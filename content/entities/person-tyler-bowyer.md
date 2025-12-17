@@ -1,6 +1,6 @@
 ---
 title: "Tyler Bowyer"
-description: "Tyler Bowyer (People) - 50 mentions"
+description: "Tyler Bowyer (People) - 51 mentions"
 id: "person-tyler-bowyer"
 type: "PERSON"
 aliases:
@@ -15,6 +15,14 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1 mentions)</summary>
+
+**[00:02:25](/episodes/ep-es7PWdFGoFI.md#t-00-02-04)**
+> "Tyler Boyer lied about this thing"
+
+</details>
 
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (2 mentions)</summary>

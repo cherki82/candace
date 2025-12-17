@@ -40,3 +40,16 @@ _Type: Works & Media_
 _No relationships extracted yet._
 
 </details>
+
+<details open>
+<summary><strong class="section-title">Statements about The Shawn Ryan Show (1)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
+
+- [00:15:17](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) (Claim) **Candace Owens** (via paraphrase): ["Turning Point USA did not approve of Brian Harpole going on the Shawn ..."](/statements/statement-191d6deb062d.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+</details>

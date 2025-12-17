@@ -110,7 +110,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Hamas (1)</strong></summary>
+<summary><strong class="section-title">Statements about Hamas (2)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
+
+- [01:13:14](/episodes/ep-es7PWdFGoFI.md#t-01-12-31) (Claim) **Candace Owens** (via paraphrase): ["Qatar recently came out and said we work with Hamas because Israel and..."](/statements/statement-37092c5c9482.md)
+  - Also about: [Qatar](/entities/gpe-qatar.md), [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
+
+</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Alex Clark"
-description: "Alex Clark (People) - 33 mentions"
+description: "Alex Clark (People) - 37 mentions"
 id: "person-alex-clark"
 type: "PERSON"
 ---
@@ -11,6 +11,23 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (4 mentions)</summary>
+
+**[00:01:17](/episodes/ep-es7PWdFGoFI.md#ent-person-alex-clark-t-00-04-10)**
+> "Alex and Andrew then jump onto a podcast"
+
+**[00:04:26](/episodes/ep-es7PWdFGoFI.md#ent-person-alex-clark-t-00-04-10)**
+> "...ng in a tribute to him, Alex (Alex Clark) and Andrew (Andrew Kolvet) then jump onto a podc..."
+
+**[00:31:35](/episodes/ep-es7PWdFGoFI.md#ent-person-alex-clark-t-00-31-26)**
+> "...with that sit down with Alex (Alex Clark), where Andrew said, oh, there was not $150 milli..."
+
+**[01:11:06](/episodes/ep-es7PWdFGoFI.md#ent-person-alex-clark-t-01-11-03)**
+> "...ke, what was that weird Alex (Alex Clark) thing?"
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (4 mentions)</summary>
@@ -198,6 +215,7 @@ _Type: People_
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
   - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:34](/episodes/ep-ozWJz2spBcI.md#t-00-00-00): "highlighted by Alex Clark, who has a show over there on Instagram"
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:04:18](/episodes/ep-es7PWdFGoFI.md#t-00-04-10): "I was like, look, I say something in a tribute to him, Alex and Andrew then jump onto a podcast"
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
   - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:07:54](/episodes/ep-ozWJz2spBcI.md#t-00-07-35): "Her boss, Charlie Kirk, had been shot"

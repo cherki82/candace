@@ -11,7 +11,7 @@ object: "person-erika-kirk"
 
 ## [Charlie Kirk](/entities/person-charlie-kirk) married to [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (30 mentions)
+### Evidence (31 mentions)
 
 **[Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg)**
 
@@ -82,6 +82,10 @@ object: "person-erika-kirk"
 **[They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss)**
 
 - [00:00:51](/episodes/ep-czVBmqZP6Ss#t-00-00-51): _his wife, Mrs. Erika Kirk, addressed not just the nation, but the entire world._
+
+**[Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI)**
+
+- [00:05:54](/episodes/ep-es7PWdFGoFI#t-00-05-54): _He calls Robin McCoy. And he says, dad, someone shot Charlie._
 
 **[Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM)**
 

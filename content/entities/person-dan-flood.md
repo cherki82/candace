@@ -1,6 +1,6 @@
 ---
 title: "Dan Flood"
-description: "Dan Flood (People) - 13 mentions"
+description: "Dan Flood (People) - 21 mentions"
 id: "person-dan-flood"
 type: "PERSON"
 ---
@@ -11,6 +11,32 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (7 mentions)</summary>
+
+**[00:06:34](/episodes/ep-es7PWdFGoFI.md#ent-person-dan-flood-t-00-06-11)**
+> "...mebody who had access to Dan (Dan Flood)'s communications,"
+
+**[00:06:40](/episodes/ep-es7PWdFGoFI.md#ent-person-dan-flood-t-00-06-11)**
+> "said that Dan (Dan Flood) similarly received a text message."
+
+**[00:07:02](/episodes/ep-es7PWdFGoFI.md#ent-person-dan-flood-t-00-06-43)**
+> "...ge the night before, and Dan (Dan Flood) received a message the night before."
+
+**[00:07:08](/episodes/ep-es7PWdFGoFI.md#ent-person-dan-flood-t-00-06-43)**
+> "... a concrete copy of what Dan (Dan Flood) got the night before, and I said no."
+
+**[00:07:29](/episodes/ep-es7PWdFGoFI.md#ent-person-dan-flood-t-00-07-21)**
+> "...ed that the message that Dan (Dan Flood) received said the left is going to kill me."
+
+**[00:46:52](/episodes/ep-es7PWdFGoFI.md#ent-person-dan-flood-t-00-46-35)**
+> "They had Dan (Dan Flood) and Brian Harpool working for them."
+
+**[00:47:37](/episodes/ep-es7PWdFGoFI.md#ent-person-dan-flood-t-00-47-20)**
+> "...ge he showed belonged to Dan (Dan Flood)."
+
+</details>
 
 <details>
 <summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (4 mentions)</summary>
@@ -90,7 +116,18 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Dan Flood (3)</strong></summary>
+<summary><strong class="section-title">Statements about Dan Flood (5)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
+
+- [00:06:40](/episodes/ep-es7PWdFGoFI.md#t-00-06-11) (Claim) **Anonymous Source #1 (Ep es7PWdFGoFI)** (via read message): ["Dan Flood received a text message from Charlie Kirk the night before t..."](/statements/statement-f4a80abe9a39.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:07:00](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) (Claim) **Erika Kirk**: ["Charlie Kirk sent text messages the night before his assassination to ..."](/statements/statement-1573e3db29b1.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+</details>
 
 <details>
 <summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1)</summary>

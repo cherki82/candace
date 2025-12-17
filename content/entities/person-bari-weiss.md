@@ -1,6 +1,6 @@
 ---
 title: "Bari Weiss"
-description: "Bari Weiss (People) - 33 mentions"
+description: "Bari Weiss (People) - 43 mentions"
 id: "person-bari-weiss"
 type: "PERSON"
 aliases:
@@ -16,6 +16,41 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (10 mentions)</summary>
+
+**[00:01:51](/episodes/ep-es7PWdFGoFI.md#ent-person-bari-weiss-t-00-07-21)**
+> "you guys mocking the Bari interview"
+
+**[00:07:48](/episodes/ep-es7PWdFGoFI.md#ent-person-bari-weiss-t-00-07-21)**
+> "...of you guys mocking the Bari (Bari Weiss) interview."
+
+**[00:07:59](/episodes/ep-es7PWdFGoFI.md#ent-person-bari-weiss-t-00-07-21)**
+> "and Bari (Bari Weiss) is always worth laughing at."
+
+**[00:08:23](/episodes/ep-es7PWdFGoFI.md#ent-person-bari-weiss-t-00-08-02)**
+> "...she similarly felt that Bari (Bari Weiss) was trying to create a moment."
+
+**[00:08:26](/episodes/ep-es7PWdFGoFI.md#ent-person-bari-weiss-t-00-08-02)**
+> "Obviously, it's who Bari (Bari Weiss) is."
+
+**[00:08:36](/episodes/ep-es7PWdFGoFI.md#ent-person-bari-weiss-t-00-08-02)**
+> "That's kind of why Bari (Bari Weiss) exists."
+
+**[00:08:55](/episodes/ep-es7PWdFGoFI.md#ent-person-bari-weiss-t-00-08-38)**
+> "...hould also clarify that Bari (Bari Weiss) obviously picked those questions."
+
+**[00:09:07](/episodes/ep-es7PWdFGoFI.md#ent-person-bari-weiss-t-00-08-38)**
+> "... was all very much planned by Barry."
+
+**[00:35:07](/episodes/ep-es7PWdFGoFI.md#ent-person-bari-weiss-t-00-34-55)**
+> "...an, every person in the game, Barry acting."
+
+**[00:58:00](/episodes/ep-es7PWdFGoFI.md#ent-person-bari-weiss-t-00-58-00)**
+> "...onversation, before the Bari (Bari Weiss) moment, Megyn Kelly offered to ref that conversa..."
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (13 mentions)</summary>
@@ -239,6 +274,7 @@ _Type: People_
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** interviewed by this
   - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:07:40](/episodes/ep-6J6lRZPQ4jk.md#t-00-07-28)
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:08:12](/episodes/ep-es7PWdFGoFI.md#t-00-08-02)
 
 - **[The Free Press](/entities/org-the-free-press.md)** owned by this
   - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#t-00-28-14)
@@ -261,7 +297,17 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bari Weiss (5)</strong></summary>
+<summary><strong class="section-title">Statements about Bari Weiss (7)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
+
+- [00:09:01](/episodes/ep-es7PWdFGoFI.md#t-00-08-38) (Claim) **Candace Owens**: ["Bari Weiss picked the questions at the memorial event. It wasn't rando..."](/statements/statement-fc7f09b3d7c0.md)
+
+- [00:09:10](/episodes/ep-es7PWdFGoFI.md#t-00-08-38) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk said she knew the general idea that questions would mention..."](/statements/statement-7527781c70d7.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Charlie Kirk"
-description: "Charlie Kirk (People) - 2512 mentions"
+description: "Charlie Kirk (People) - 2605 mentions"
 id: "person-charlie-kirk"
 type: "PERSON"
 aliases:
@@ -15,6 +15,290 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (93 mentions)</summary>
+
+**[00:01:32](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-05-30)**
+> "Erika saying that she had Charlie's phone"
+
+**[00:05:58](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-05-30)**
+> "... saying that she had Charlie (Charlie Kirk)'s phone and that Charlie (Charlie Kirk) never te..."
+
+**[00:05:58](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-05-30)**
+> "...rk)'s phone and that Charlie (Charlie Kirk) never texted anybody the night before saying tha..."
+
+**[00:05:58](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-05-30)**
+> "...ika Kirk) saying that she had Charlie (Charlie Kirk)'s phone and that Charlie (Charlie ..."
+
+**[00:05:58](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-05-30)**
+> "...harlie Kirk)'s phone and that Charlie (Charlie Kirk) never texted anybody the night bef..."
+
+**[00:06:43](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-06-43)**
+> "...k) said that she has Charlie (Charlie Kirk)'s phone, she's looking at his iMessages, and it ..."
+
+**[00:06:43](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-06-43)**
+> "...Erika Kirk) said that she has Charlie (Charlie Kirk)'s phone, she's looking at his iMes..."
+
+**[00:13:14](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-12-42)**
+> "Charlie saved lives even in death."
+
+**[00:14:46](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-14-10)**
+> "...sn't even there when Charlie (Charlie Kirk) died."
+
+**[00:14:46](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-14-10)**
+> "...olvet) wasn't even there when Charlie (Charlie Kirk) died."
+
+**[00:16:16](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-16-16)**
+> "...nson)) Robinson shot Charlie (Charlie Kirk) (Charlie Kirk)."
+
+**[00:16:16](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-16-16)**
+> "... shot Charlie (Charlie Kirk) (Charlie Kirk)."
+
+**[00:16:16](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-16-16)**
+> "...yler Robinson)) Robinson shot Charlie (Charlie Kirk) (Charlie Kirk)."
+
+**[00:17:29](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-16-57)**
+> "...nson)) Robinson shot Charlie (Charlie Kirk) (Charlie Kirk)."
+
+**[00:17:29](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-16-57)**
+> "... shot Charlie (Charlie Kirk) (Charlie Kirk)."
+
+**[00:17:29](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-16-57)**
+> "...yler Robinson)) Robinson shot Charlie (Charlie Kirk) (Charlie Kirk)."
+
+**[00:17:31](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-16-57)**
+> "... didn't or did shoot Charlie (Charlie Kirk) (Charlie Kirk)."
+
+**[00:17:31](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-16-57)**
+> "...shoot Charlie (Charlie Kirk) (Charlie Kirk)."
+
+**[00:17:31](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-16-57)**
+> "...t that he didn't or did shoot Charlie (Charlie Kirk) (Charlie Kirk)."
+
+**[00:25:47](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-25-11)**
+> "...s, dad, someone shot Charlie (Charlie Kirk)."
+
+**[00:25:47](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-25-11)**
+> "...nd he says, dad, someone shot Charlie (Charlie Kirk)."
+
+**[00:25:52](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-25-11)**
+> "Charlie was hit."
+
+**[00:26:49](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-26-38)**
+> "...amp and trained, and Charlie (Charlie Kirk) was like, one, two, three, go, and like fast, on..."
+
+**[00:26:49](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-26-38)**
+> "...nt to a camp and trained, and Charlie (Charlie Kirk) was like, one, two, three, go, and..."
+
+**[00:27:37](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-27-24)**
+> "Charlie (Charlie Kirk) shot goes off."
+
+**[00:27:40](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-27-24)**
+> "Charlie's brought to security."
+
+**[00:30:30](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-30-07)**
+> "...definitively pressed Charlie (Charlie Kirk) at this event."
+
+**[00:30:30](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-30-07)**
+> "...h Dillon definitively pressed Charlie (Charlie Kirk) at this event."
+
+**[00:30:39](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-30-07)**
+> "of Charlie (Charlie Kirk) discussing, potentially tweeting something again..."
+
+**[00:30:53](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-30-46)**
+> "...l Seth Dillon killed Charlie (Charlie Kirk) (Charlie Kirk)."
+
+**[00:30:53](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-30-46)**
+> "...illed Charlie (Charlie Kirk) (Charlie Kirk)."
+
+**[00:30:53](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-30-46)**
+> "..., oh, well Seth Dillon killed Charlie (Charlie Kirk) (Charlie Kirk)."
+
+**[00:31:51](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-31-26)**
+> "... next level and that Charlie (Charlie Kirk) turned that money down."
+
+**[00:31:51](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-31-26)**
+> "...ts to the next level and that Charlie (Charlie Kirk) turned that money down."
+
+**[00:34:08](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-33-31)**
+> "...was at some of them, Charlie (Charlie Kirk) was at some of them, but it is the pattern here ..."
+
+**[00:34:08](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-33-31)**
+> "...ka Kirk) was at some of them, Charlie (Charlie Kirk) was at some of them, but it is the..."
+
+**[00:39:09](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-38-27)**
+> "...anny, another one of Charlie (Charlie Kirk)'s assistants."
+
+**[00:39:09](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-38-27)**
+> "It is Danny, another one of Charlie (Charlie Kirk)'s assistants."
+
+**[00:39:13](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-39-12)**
+> "...another assistant of Charlie (Charlie Kirk)'s."
+
+**[00:39:13](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-39-12)**
+> "... that is another assistant of Charlie (Charlie Kirk)'s."
+
+**[00:43:06](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-43-01)**
+> "I believe that Charlie (Charlie Kirk) was betrayed by people that are close to him."
+
+**[00:44:10](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-43-45)**
+> "...the same security as Charlie (Charlie Kirk) (Charlie Kirk) and that I have a fraud and that ..."
+
+**[00:44:10](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-43-45)**
+> "...ty as Charlie (Charlie Kirk) (Charlie Kirk) and that I have a fraud and that actually I have..."
+
+**[00:44:10](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-43-45)**
+> "...t I have the same security as Charlie (Charlie Kirk) (Charlie Kirk) and that I have a f..."
+
+**[00:45:22](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-45-09)**
+> "...as Turning Point and Charlie (Charlie Kirk) (Charlie Kirk) did."
+
+**[00:45:22](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-45-09)**
+> "...t and Charlie (Charlie Kirk) (Charlie Kirk) did."
+
+**[00:45:22](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-45-09)**
+> "...ity team as Turning Point and Charlie (Charlie Kirk) (Charlie Kirk) did."
+
+**[00:45:39](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-45-09)**
+> "...ecurity personnel as Charlie (Charlie Kirk) and Erika (Erika Kirk) did."
+
+**[00:45:39](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-45-09)**
+> "...he same security personnel as Charlie (Charlie Kirk) and Erika (Erika Kirk) did."
+
+**[00:46:35](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-46-35)**
+> "...ame security team as Charlie (Charlie Kirk) (Charlie Kirk) ever."
+
+**[00:46:35](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-46-35)**
+> "...am as Charlie (Charlie Kirk) (Charlie Kirk) ever."
+
+**[00:46:35](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-46-35)**
+> "...yed the same security team as Charlie (Charlie Kirk) (Charlie Kirk) ever."
+
+**[00:46:55](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-46-35)**
+> "Initially, I told Charlie (Charlie Kirk) I did not like the security apparatus."
+
+**[00:46:59](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-46-35)**
+> "...curity separate from Charlie (Charlie Kirk) from the very beginning."
+
+**[00:46:59](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-46-35)**
+> "...my own security separate from Charlie (Charlie Kirk) from the very beginning."
+
+**[00:47:28](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-47-20)**
+> "...ease and desist from Charlie (Charlie Kirk)'s security whatsoever."
+
+**[00:47:28](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-47-20)**
+> "...ived no cease and desist from Charlie (Charlie Kirk)'s security whatsoever."
+
+**[00:48:45](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-48-42)**
+> "...how yesterday on the Charlie (Charlie Kirk) (Charlie Kirk) Show about this trial, the upcomi..."
+
+**[00:48:45](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-48-42)**
+> "...n the Charlie (Charlie Kirk) (Charlie Kirk) Show about this trial, the upcoming trial about ..."
+
+**[00:48:45](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-48-42)**
+> "...n their show yesterday on the Charlie (Charlie Kirk) (Charlie Kirk) Show about this tri..."
+
+**[00:49:18](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-49-18)**
+> "...inson mentioned that Charlie (Charlie Kirk) (Charlie Kirk) would be holding an event at UVU,..."
+
+**[00:49:18](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-49-18)**
+> "... that Charlie (Charlie Kirk) (Charlie Kirk) would be holding an event at UVU, which Robinson..."
+
+**[00:49:18](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-49-18)**
+> "...ting, Robinson mentioned that Charlie (Charlie Kirk) (Charlie Kirk) would be holding an..."
+
+**[00:50:52](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-50-28)**
+> "Charlie sometimes throw the events out, you know, seven, ..."
+
+**[00:51:16](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-51-08)**
+> "...as mentioned because Charlie (Charlie Kirk) speaking at events, your assumption would be the..."
+
+**[00:51:16](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-51-08)**
+> "...urtyard was mentioned because Charlie (Charlie Kirk) speaking at events, your assumptio..."
+
+**[00:51:25](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-51-08)**
+> "...yard unless you know Charlie (Charlie Kirk) speaking in the courtyard."
+
+**[00:51:25](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-51-08)**
+> "...the courtyard unless you know Charlie (Charlie Kirk) speaking in the courtyard."
+
+**[00:51:27](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-51-08)**
+> "...ntioned on KMYU that Charlie (Charlie Kirk) was speaking at UVU in the courtyard, okay?"
+
+**[00:51:27](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-51-08)**
+> "... media mentioned on KMYU that Charlie (Charlie Kirk) was speaking at UVU in the courtya..."
+
+**[00:51:52](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-51-52)**
+> "...phic announcing that Charlie (Charlie Kirk) was coming to UVU, but there were absolutely no ..."
+
+**[00:51:52](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-51-52)**
+> "...red a graphic announcing that Charlie (Charlie Kirk) was coming to UVU, but there were ..."
+
+**[01:02:00](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-01-01-28)**
+> "...irect quotation from Charlie (Charlie Kirk) (Charlie Kirk)."
+
+**[01:02:00](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-01-01-28)**
+> "... from Charlie (Charlie Kirk) (Charlie Kirk)."
+
+**[01:02:00](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-01-01-28)**
+> "...at is a direct quotation from Charlie (Charlie Kirk) (Charlie Kirk)."
+
+**[01:02:12](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-01-02-12)**
+> "... have backed her and Charlie (Charlie Kirk) from the beginning."
+
+**[01:02:12](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-01-02-12)**
+> "...of us who have backed her and Charlie (Charlie Kirk) from the beginning."
+
+**[01:03:09](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-01-03-09)**
+> "...ally hard times like Charlie (Charlie Kirk) did, that I would just sell out to like the high..."
+
+**[01:03:09](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-01-03-09)**
+> "...hrough really hard times like Charlie (Charlie Kirk) did, that I would just sell out to..."
+
+**[01:03:51](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-01-03-51)**
+> "...the possibility that Charlie (Charlie Kirk) was electrocuted and that the hole in his neck w..."
+
+**[01:03:51](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-01-03-51)**
+> "...ook into the possibility that Charlie (Charlie Kirk) was electrocuted and that the hole..."
+
+**[01:06:47](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-01-06-47)**
+> "... is very relevant to Charlie (Charlie Kirk)'s research and what happened on 910 and some of ..."
+
+**[01:06:47](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-01-06-47)**
+> "...e of this is very relevant to Charlie (Charlie Kirk)'s research and what happened on 91..."
+
+**[01:08:24](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-01-08-09)**
+> "...the same security as Charlie (Charlie Kirk)."
+
+**[01:08:24](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-01-08-09)**
+> "...'s using the same security as Charlie (Charlie Kirk)."
+
+**[01:08:50](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-01-08-50)**
+> "...to the messages that Charlie (Charlie Kirk) got the night before."
+
+**[01:08:50](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-01-08-50)**
+> "...eferring to the messages that Charlie (Charlie Kirk) got the night before."
+
+**[01:10:49](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-01-10-18)**
+> "...elaborate more about Charlie (Charlie Kirk) and his journey to Catholicism?"
+
+**[01:10:49](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-01-10-18)**
+> "... can you elaborate more about Charlie (Charlie Kirk) and his journey to Catholicism?"
+
+**[01:11:11](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-01-11-03)**
+> "... that it's true that Charlie (Charlie Kirk) was going to mass."
+
+**[01:11:11](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-01-11-03)**
+> "...they know that it's true that Charlie (Charlie Kirk) was going to mass."
+
+**[01:11:45](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-01-11-45)**
+> "...ions that I had with Charlie (Charlie Kirk) about Catholicism."
+
+**[01:11:45](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-01-11-45)**
+> "...conversations that I had with Charlie (Charlie Kirk) about Catholicism."
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (57 mentions)</summary>
@@ -7798,7 +8082,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Appeared With (4)</summary>
+<summary>Appeared With (5)</summary>
 
 - **[Foster Friess](/entities/person-foster-friess.md)**
   - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:00:27](/episodes/ep-c5BcKF91iec.md#t-00-00-00): "And the last time I went to Wyoming, I was with Charlie Kirk. He was the last person I visited with, and it was for, ironically, Foster Friess's funeral—who was a big-time donor to Turning Point USA, still is, I believe."
@@ -7811,6 +8095,9 @@ _Type: People_
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:09:24](/episodes/ep-sreYYcID-QY.md#t-00-08-58): "It was Tucker because Tucker went to Amfest"
+
+- **[Seth Dillon](/entities/person-seth-dillon.md)**
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:30:39](/episodes/ep-es7PWdFGoFI.md#t-00-30-07): "Seth Dillon definitively pressed Charlie at this event."
 
 </details>
 
@@ -8149,7 +8436,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (62)</summary>
+<summary>Referenced By (63)</summary>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)** accused this
   - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:02:25](/episodes/ep-vwG1juDCQZQ.md#t-00-02-10)
@@ -8165,6 +8452,9 @@ _Type: People_
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** appeared with this
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:09:24](/episodes/ep-sreYYcID-QY.md#t-00-08-58)
+
+- **[Seth Dillon](/entities/person-seth-dillon.md)** appeared with this
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:30:39](/episodes/ep-es7PWdFGoFI.md#t-00-30-07)
 
 - **[Mikey McCoy](/entities/person-mikey-mccoy.md)** chief of staff to this
   - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:02:11](/episodes/ep-c5BcKF91iec.md#t-00-01-39)
@@ -8489,7 +8779,35 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk (339)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk (347)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (8)</summary>
+
+- [00:05:52](/episodes/ep-es7PWdFGoFI.md#t-00-05-30) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk said on Glenn Beck's show that she had Charlie's phone and ..."](/statements/statement-14d3ddbacf08.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Glenn Beck](/entities/person-glenn-beck.md)
+
+- [00:06:19](/episodes/ep-es7PWdFGoFI.md#t-00-06-11) (Claim) **Candace Owens**: ["Andrew Kolvet told me specifically that he was one of the people that ..."](/statements/statement-7847a11548fc.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+- [00:06:40](/episodes/ep-es7PWdFGoFI.md#t-00-06-11) (Claim) **Anonymous Source #1 (Ep es7PWdFGoFI)** (via read message): ["Dan Flood received a text message from Charlie Kirk the night before t..."](/statements/statement-f4a80abe9a39.md)
+  - Also about: [Dan Flood](/entities/person-dan-flood.md)
+
+- [00:07:00](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) (Claim) **Erika Kirk**: ["Charlie Kirk sent text messages the night before his assassination to ..."](/statements/statement-1573e3db29b1.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Dan Flood](/entities/person-dan-flood.md)
+
+- [00:14:16](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) (Claim) **Erika Kirk**: ["Andrew Kolvet called the surgeon and wrote a tweet about Charlie Kirk'..."](/statements/statement-e1f8bf06b0d4.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+- [00:43:01](/episodes/ep-es7PWdFGoFI.md#t-00-42-21) (Opinion) **Candace Owens**: ["I believe that Charlie Kirk was betrayed by people that are close to h..."](/statements/statement-4776345392e1.md)
+
+- [00:45:56](/episodes/ep-es7PWdFGoFI.md#t-00-45-54) (Accusation) **Candace Owens** (via paraphrase): ["Tim Pool claimed that Candace Owens has the same security as Charlie K..."](/statements/statement-89169c9f9eb3.md)
+  - Also about: [Tim Pool](/entities/person-tim-pool.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [01:11:07](/episodes/ep-es7PWdFGoFI.md#t-01-11-03) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk confirmed that Charlie Kirk was going to Catholic mass"](/statements/statement-bdf5a422d4f3.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (8)</summary>

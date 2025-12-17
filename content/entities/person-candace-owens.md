@@ -3171,6 +3171,14 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Accused (1)</summary>
+
+- **[Tyler Robinson](/entities/person-tyler-robinson.md)**
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:21:21](/episodes/ep-es7PWdFGoFI.md#t-00-21-13): "Tyler Robinson shot Charlie Kirk. Like that more will come out, but you can take it from me that this is what happened."
+
+</details>
+
+<details>
 <summary>Appeared With (2)</summary>
 
 - **[Foster Friess](/entities/person-foster-friess.md)**
@@ -3495,7 +3503,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Met With (3)</summary>
+<summary>Met With (4)</summary>
 
 - **[Kanye West](/entities/person-kanye-west.md)**
   - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:03:59](/episodes/ep-czVBmqZP6Ss.md#t-00-03-27): "it felt appropriate to reach out to Ye, speaking about things, talking about his mood when he wrote the song."
@@ -3505,6 +3513,9 @@ _Type: People_
 
 - **[Riverbend Ranch](/entities/org-riverbend-ranch.md)**
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:05:52](/episodes/ep-sreYYcID-QY.md#t-00-05-26): "I actually met the owners of Riverbend Ranch with Charlie."
+
+- **[Megyn Kelly](/entities/person-megyn-kelly.md)**
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 01:05:42](/episodes/ep-es7PWdFGoFI.md#t-01-05-19): "Erika communicating with Megan Kelly and me. Megan Kelly was kind of the intermediary."
 
 </details>
 
@@ -3577,7 +3588,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (76)</summary>
+<summary>Referenced By (78)</summary>
+
+- **[Tyler Robinson](/entities/person-tyler-robinson.md)** accused by this
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:21:21](/episodes/ep-es7PWdFGoFI.md#t-00-21-13)
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** appeared with this
   - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:09](/episodes/ep-yAIb-NuUh_U.md#t-00-00-01)
@@ -3727,6 +3741,7 @@ _Type: People_
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** friend of this
   - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:03:56](/episodes/ep-ozWJz2spBcI.md#t-00-03-29)
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 01:09:45](/episodes/ep-es7PWdFGoFI.md#t-01-09-35)
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)** friend of this
   - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:03:56](/episodes/ep-ozWJz2spBcI.md#t-00-03-29)
@@ -3806,6 +3821,9 @@ _Type: People_
 - **[Riverbend Ranch](/entities/org-riverbend-ranch.md)** met with this
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:05:52](/episodes/ep-sreYYcID-QY.md#t-00-05-26)
 
+- **[Megyn Kelly](/entities/person-megyn-kelly.md)** met with this
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 01:05:42](/episodes/ep-es7PWdFGoFI.md#t-01-05-19)
+
 - **[Brigitte Macron](/entities/person-brigitte-macron.md)** sued this
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:46:11](/episodes/ep-sreYYcID-QY.md#t-00-45-49)
   - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:17:22](/episodes/ep-sImMM04XdWY.md#t-00-16-53)
@@ -3830,7 +3848,81 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Candace Owens (886)</strong></summary>
+<summary><strong class="section-title">Statements by Candace Owens (909)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (23)</summary>
+
+- [00:02:04](/episodes/ep-es7PWdFGoFI.md#t-00-01-24) [○] (Claim) ["The meeting yesterday was four hours and 30 minutes with no rules. At the table ..."](/statements/statement-a00acb5ab7d2.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Justin Streiff](/entities/person-justin-streiff.md), [George Farmer](/entities/person-george-farmer.md)
+
+- [00:05:07](/episodes/ep-es7PWdFGoFI.md#t-00-04-52) [○] (Claim) ["Erika Kirk immediately owned the lies, or rather miscommunications, that were co..."](/statements/statement-412e76ec76af.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:05:52](/episodes/ep-es7PWdFGoFI.md#t-00-05-30) [○] (Claim) ["Erika Kirk said on Glenn Beck's show that she had Charlie's phone and that Charl..."](/statements/statement-14d3ddbacf08.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Glenn Beck](/entities/person-glenn-beck.md)
+
+- [00:06:19](/episodes/ep-es7PWdFGoFI.md#t-00-06-11) [○] (Claim) ["Andrew Kolvet told me specifically that he was one of the people that received t..."](/statements/statement-7847a11548fc.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:08:16](/episodes/ep-es7PWdFGoFI.md#t-00-08-02) [○] (Claim) ["Erika Kirk said the reason she didn't ask Candace to stop investigating in the b..."](/statements/statement-1ec2922d6566.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:09:01](/episodes/ep-es7PWdFGoFI.md#t-00-08-38) [○] (Claim) ["Bari Weiss picked the questions at the memorial event. It wasn't random people c..."](/statements/statement-fc7f09b3d7c0.md)
+  - About: [Bari Weiss](/entities/person-bari-weiss.md)
+
+- [00:09:10](/episodes/ep-es7PWdFGoFI.md#t-00-08-38) [○] (Claim) ["Erika Kirk said she knew the general idea that questions would mention Candace a..."](/statements/statement-7527781c70d7.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Bari Weiss](/entities/person-bari-weiss.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:10:43](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) [○] (Accusation) ["Tyler Boyer lied and said Terrell was asked to take the camera down by police. T..."](/statements/statement-420d234f80d5.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
+- [00:11:10](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) [○] (Opinion) ["I don't trust Tyler Boyer and that is never going to change"](/statements/statement-eb7483abd815.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:11:16](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) [○] (Opinion) ["Rob McCoy makes my skin crawl. I look at him and he's a bad person and nobody ca..."](/statements/statement-c3ad2a946500.md)
+  - About: [Rob McCoy](/entities/person-rob-mccoy.md)
+
+- [00:13:36](/episodes/ep-es7PWdFGoFI.md#t-00-13-27) [○] (Opinion) ["Terrell Farnsworth lied to me several times. My skin crawled after I spoke to hi..."](/statements/statement-f3757ac613ee.md)
+  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
+- [00:15:17](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) [○] (Claim) ["Turning Point USA did not approve of Brian Harpole going on the Shawn Ryan Show...."](/statements/statement-191d6deb062d.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [The Shawn Ryan Show](/entities/work-the-shawn-ryan-show.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:18:09](/episodes/ep-es7PWdFGoFI.md#t-00-17-41) [○] (Claim) ["Turning Point USA and Erika Kirk have not seen any evidence beyond what is publi..."](/statements/statement-ca6b4e9ab8ae.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:18:51](/episodes/ep-es7PWdFGoFI.md#t-00-18-25) [○] (Claim) ["Erika Kirk and Turning Point USA will not know what investigators have discovere..."](/statements/statement-72ca949913a6.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:20:42](/episodes/ep-es7PWdFGoFI.md#t-00-20-30) [○] (Opinion) ["I don't believe that Tyler Robinson pulled the trigger"](/statements/statement-cdeead784a48.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:40:22](/episodes/ep-es7PWdFGoFI.md#t-00-39-56) [○] (Accusation) ["They changed George Farmer's Wikipedia and said that he had a Qatari passport or..."](/statements/statement-276d7c591d74.md)
+  - About: [George Farmer](/entities/person-george-farmer.md)
+
+- [00:40:46](/episodes/ep-es7PWdFGoFI.md#t-00-40-38) [○] (Opinion) ["When you see a media storm like this, it can only be happening because Zionists ..."](/statements/statement-0814c4a56d00.md)
+  - About: [Zionism](/entities/concept-zionism.md)
+
+- [00:41:01](/episodes/ep-es7PWdFGoFI.md#t-00-40-38) [○] (Accusation) ["The New York Post published fabricated stories about Candace Owens, including cl..."](/statements/statement-888267a4c6b4.md)
+  - About: [New York Post](/entities/org-new-york-post.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:43:01](/episodes/ep-es7PWdFGoFI.md#t-00-42-21) [○] (Opinion) ["I believe that Charlie Kirk was betrayed by people that are close to him"](/statements/statement-4776345392e1.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:45:56](/episodes/ep-es7PWdFGoFI.md#t-00-45-54) [○] (Accusation) ["Tim Pool claimed that Candace Owens has the same security as Charlie Kirk, after..."](/statements/statement-89169c9f9eb3.md)
+  - About: [Tim Pool](/entities/person-tim-pool.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [01:08:18](/episodes/ep-es7PWdFGoFI.md#t-01-08-09) [○] (Accusation) ["Tim Pool is trying to signal to people that my security is weak or that I'm usin..."](/statements/statement-430f661f6739.md)
+  - About: [Tim Pool](/entities/person-tim-pool.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [01:11:07](/episodes/ep-es7PWdFGoFI.md#t-01-11-03) [○] (Claim) ["Erika Kirk confirmed that Charlie Kirk was going to Catholic mass"](/statements/statement-bdf5a422d4f3.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [01:13:14](/episodes/ep-es7PWdFGoFI.md#t-01-12-31) [○] (Claim) ["Qatar recently came out and said we work with Hamas because Israel and the Unite..."](/statements/statement-37092c5c9482.md)
+  - About: [Qatar](/entities/gpe-qatar.md), [Hamas](/entities/org-hamas.md), [Israel](/entities/gpe-israel.md)
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (23)</summary>
@@ -6655,7 +6747,27 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Candace Owens (99)</strong></summary>
+<summary><strong class="section-title">Statements about Candace Owens (104)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (5)</summary>
+
+- [00:08:16](/episodes/ep-es7PWdFGoFI.md#t-00-08-02) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk said the reason she didn't ask Candace to stop investigatin..."](/statements/statement-1ec2922d6566.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:09:10](/episodes/ep-es7PWdFGoFI.md#t-00-08-38) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk said she knew the general idea that questions would mention..."](/statements/statement-7527781c70d7.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Bari Weiss](/entities/person-bari-weiss.md)
+
+- [00:41:01](/episodes/ep-es7PWdFGoFI.md#t-00-40-38) (Accusation) **Candace Owens**: ["The New York Post published fabricated stories about Candace Owens, in..."](/statements/statement-888267a4c6b4.md)
+  - Also about: [New York Post](/entities/org-new-york-post.md)
+
+- [00:45:56](/episodes/ep-es7PWdFGoFI.md#t-00-45-54) (Accusation) **Candace Owens** (via paraphrase): ["Tim Pool claimed that Candace Owens has the same security as Charlie K..."](/statements/statement-89169c9f9eb3.md)
+  - Also about: [Tim Pool](/entities/person-tim-pool.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [01:08:18](/episodes/ep-es7PWdFGoFI.md#t-01-08-09) (Accusation) **Candace Owens**: ["Tim Pool is trying to signal to people that my security is weak or tha..."](/statements/statement-430f661f6739.md)
+  - Also about: [Tim Pool](/entities/person-tim-pool.md)
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Glenn Beck"
-description: "Glenn Beck (People) - 13 mentions"
+description: "Glenn Beck (People) - 15 mentions"
 id: "person-glenn-beck"
 type: "PERSON"
 ---
@@ -11,6 +11,17 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2 mentions)</summary>
+
+**[00:01:28](/episodes/ep-es7PWdFGoFI.md#ent-person-glenn-beck-t-00-05-30)**
+> "Erika sat down with Glenn"
+
+**[00:05:46](/episodes/ep-es7PWdFGoFI.md#ent-person-glenn-beck-t-00-05-30)**
+> "...ka Kirk) sat down with Glenn (Glenn Beck)."
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (10 mentions)</summary>
@@ -91,6 +102,20 @@ _Type: People_
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** interviewed by this
   - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:17:14](/episodes/ep-6J6lRZPQ4jk.md#t-00-17-02)
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:05:48](/episodes/ep-es7PWdFGoFI.md#t-00-05-30)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Glenn Beck (1)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
+
+- [00:05:52](/episodes/ep-es7PWdFGoFI.md#t-00-05-30) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk said on Glenn Beck's show that she had Charlie's phone and ..."](/statements/statement-14d3ddbacf08.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

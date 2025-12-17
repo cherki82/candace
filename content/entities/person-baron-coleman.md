@@ -1,0 +1,44 @@
+---
+title: "Baron Coleman"
+description: "Baron Coleman (People) - 4 mentions"
+id: "person-baron-coleman"
+type: "PERSON"
+aliases:
+  - "Baron Coleman"
+  - "Baron"
+---
+
+_Type: People_
+
+**Also known as:** Baron Coleman, Baron
+
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
+<details open>
+<summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (4 mentions)</summary>
+
+**[00:14:12](/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-03-51)**
+> "I did watch that video that Baron Coleman put together"
+
+**[01:04:05](/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-03-51)**
+> "I did watch that video that Baron Coleman put together."
+
+**[01:04:09](/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-03-51)**
+> "First of all, I want to say Baron Coleman has done some incredible work and I actually told..."
+
+**[01:04:40](/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-04-34)**
+> "But that said, the Baron Coleman, if you have not seen the episode where he builds..."
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Relationships</strong></summary>
+
+_No relationships extracted yet._
+
+</details>

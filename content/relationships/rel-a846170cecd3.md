@@ -11,7 +11,7 @@ object: "org-turning-point-usa"
 
 ## [Andrew Kolvet](/entities/person-andrew-kolvet) works for [Turning Point USA](/entities/org-turning-point-usa)
 
-### Evidence (18 mentions)
+### Evidence (19 mentions)
 
 **[TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w)**
 
@@ -48,6 +48,10 @@ object: "org-turning-point-usa"
 **[Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w)**
 
 - [00:01:45](/episodes/ep-ZAuuSq_j2_w#t-00-01-45): _today on their show, they had Andrew Kolvet joining them virtually_
+
+**[Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI)**
+
+- [00:03:24](/episodes/ep-es7PWdFGoFI#t-00-03-24): _So this is quite literally the PR guy who's calling the surgeon._
 
 **[BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8)**
 

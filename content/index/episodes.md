@@ -2,7 +2,7 @@
 title: "Episodes"
 ---
 
-_Total episodes: 46_
+_Total episodes: 47_
 
 <div class="page-filter-container">
   <input type="text" class="page-filter" placeholder="Filter episodes..." autocomplete="off">
@@ -22,6 +22,10 @@ _Total episodes: 46_
 </style>
 
 
+
+## Week of Dec 15 - 21, 2025
+
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md) — Tue, Dec 16
 
 ## Week of Dec 08 - 14, 2025
 

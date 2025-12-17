@@ -1,15 +1,15 @@
 ---
-title: "Justin Strief works for Turning Point USA"
-description: "Evidence for the relationship: Justin Strief works for Turning Point USA"
-relationship_id: "rel-3bd1807e74e0"
-subject: "person-justin-strief"
-predicate: "works for"
-object: "org-turning-point-usa"
+title: "Turning Point USA employs Justin Strief"
+description: "Evidence for the relationship: Turning Point USA employs Justin Strief"
+relationship_id: "rel-9e42bba9e42f"
+subject: "org-turning-point-usa"
+predicate: "employs"
+object: "person-justin-streiff"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Justin Strief](/entities/person-justin-strief) works for [Turning Point USA](/entities/org-turning-point-usa)
+## [Turning Point USA](/entities/org-turning-point-usa) employs [Justin Strief](/entities/person-justin-streiff)
 
 ### Evidence (2 mentions)
 
@@ -23,5 +23,5 @@ object: "org-turning-point-usa"
 
 ### Related
 
-- [Justin Strief](/entities/person-justin-strief)
 - [Turning Point USA](/entities/org-turning-point-usa)
+- [Justin Strief](/entities/person-justin-streiff)

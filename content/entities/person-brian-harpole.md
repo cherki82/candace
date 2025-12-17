@@ -168,6 +168,14 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Formerly Worked For (1)</summary>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)**
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:14:13](/episodes/ep-es7PWdFGoFI.md#t-00-14-10): "I don't believe he works there anymore. So that was kind of him just getting out there and perhaps trying to rescue his own reputation."
+
+</details>
+
+<details>
 <summary>Interviewed By (1)</summary>
 
 - **[Shawn Ryan](/entities/person-shawn-ryan.md)**
@@ -191,7 +199,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** employs this
   - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:00](/episodes/ep-581dILVcEE4.md#t-00-23-32)
@@ -199,6 +207,9 @@ _Type: People_
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
   - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01)
   - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:00](/episodes/ep-sImMM04XdWY.md#t-00-00-01)
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)** formerly employed this
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:14:13](/episodes/ep-es7PWdFGoFI.md#t-00-14-10)
 
 - **[Shawn Ryan](/entities/person-shawn-ryan.md)** interviewed this
   - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01)
@@ -225,7 +236,15 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Brian Harpole (9)</strong></summary>
+<summary><strong class="section-title">Statements about Brian Harpole (10)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
+
+- [00:15:17](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) (Claim) **Candace Owens** (via paraphrase): ["Turning Point USA did not approve of Brian Harpole going on the Shawn ..."](/statements/statement-191d6deb062d.md)
+  - Also about: [The Shawn Ryan Show](/entities/work-the-shawn-ryan-show.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2)</summary>

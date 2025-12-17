@@ -195,6 +195,7 @@ _Type: People_
 - **[Candace Owens](/entities/person-candace-owens.md)**
   - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:07:11](/episodes/ep-ZAuuSq_j2_w.md#t-00-06-44): "And she is a f***ing scumbag. Okay? And she's getting worse every day. And she crossed the line"
   - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:45:46](/episodes/ep-t4U7NjnUEgc.md#t-00-45-33): "Tim Pool doesn't even have the intellect to understand that we put him in the thumbnail because he accused me in a full episode with Milo Yiannopoulos"
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:44:36](/episodes/ep-es7PWdFGoFI.md#t-00-44-27): "Tim Poole has now gone out and extraordinarily claimed that I have the same security as Charlie Kirk and that I have a fraud"
 
 </details>
 
@@ -250,7 +251,18 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tim Pool (1)</strong></summary>
+<summary><strong class="section-title">Statements about Tim Pool (3)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
+
+- [00:45:56](/episodes/ep-es7PWdFGoFI.md#t-00-45-54) (Accusation) **Candace Owens** (via paraphrase): ["Tim Pool claimed that Candace Owens has the same security as Charlie K..."](/statements/statement-89169c9f9eb3.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [01:08:18](/episodes/ep-es7PWdFGoFI.md#t-01-08-09) (Accusation) **Candace Owens**: ["Tim Pool is trying to signal to people that my security is weak or tha..."](/statements/statement-430f661f6739.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1)</summary>

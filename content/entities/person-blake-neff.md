@@ -296,6 +296,14 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Appeared With (1)</summary>
+
+- **[Mikey McCoy](/entities/person-mikey-mccoy.md)**
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:22:57](/episodes/ep-es7PWdFGoFI.md#t-00-22-39): "Blake Neff called his mom. His call with his mother lasted 45 seconds."
+
+</details>
+
+<details>
 <summary>Formerly Worked For (1)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
@@ -318,7 +326,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
+
+- **[Mikey McCoy](/entities/person-mikey-mccoy.md)** appeared with this
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:22:57](/episodes/ep-es7PWdFGoFI.md#t-00-22-39)
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
   - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:31:31](/episodes/ep-581dILVcEE4.md#t-00-31-27)

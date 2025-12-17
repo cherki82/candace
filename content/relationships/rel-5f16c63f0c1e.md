@@ -11,7 +11,11 @@ object: "org-turning-point-usa"
 
 ## [Alex Clark](/entities/person-alex-clark) works for [Turning Point USA](/entities/org-turning-point-usa)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI)**
+
+- [00:04:18](/episodes/ep-es7PWdFGoFI#t-00-04-18): _I was like, look, I say something in a tribute to him, Alex and Andrew then jump onto a podcast_
 
 **[TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI)**
 

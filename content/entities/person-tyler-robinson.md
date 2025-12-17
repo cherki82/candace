@@ -1222,6 +1222,14 @@ _Type: People_
 </details>
 
 <details>
+<summary>Accused By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:21:21](/episodes/ep-es7PWdFGoFI.md#t-00-21-13): "Tyler Robinson shot Charlie Kirk. Like that more will come out, but you can take it from me that this is what happened."
+
+</details>
+
+<details>
 <summary>Criticized (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
@@ -1250,7 +1258,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** accused this
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:21:21](/episodes/ep-es7PWdFGoFI.md#t-00-21-13)
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** accused by this
   - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:02:25](/episodes/ep-vwG1juDCQZQ.md#t-00-02-10)
@@ -1283,7 +1294,22 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Robinson (86)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Robinson (90)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (4)</summary>
+
+- [00:10:43](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) (Accusation) **Candace Owens**: ["Tyler Boyer lied and said Terrell was asked to take the camera down by..."](/statements/statement-420d234f80d5.md)
+  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
+- [00:11:10](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) (Opinion) **Candace Owens**: ["I don't trust Tyler Boyer and that is never going to change"](/statements/statement-eb7483abd815.md)
+
+- [00:18:09](/episodes/ep-es7PWdFGoFI.md#t-00-17-41) (Claim) **Candace Owens** (via paraphrase): ["Turning Point USA and Erika Kirk have not seen any evidence beyond wha..."](/statements/statement-ca6b4e9ab8ae.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:20:42](/episodes/ep-es7PWdFGoFI.md#t-00-20-30) (Opinion) **Candace Owens**: ["I don't believe that Tyler Robinson pulled the trigger"](/statements/statement-cdeead784a48.md)
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (4)</summary>

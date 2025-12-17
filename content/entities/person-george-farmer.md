@@ -1,6 +1,6 @@
 ---
 title: "George Farmer"
-description: "George Farmer (People) - 25 mentions"
+description: "George Farmer (People) - 35 mentions"
 id: "person-george-farmer"
 type: "PERSON"
 aliases:
@@ -15,6 +15,41 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (10 mentions)</summary>
+
+**[00:00:45](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-02-04)**
+> "George joined me just for the beginning portion"
+
+**[00:02:27](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-02-04)**
+> "George (George Farmer) joined me just for the beginning portion of the ..."
+
+**[00:02:54](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-02-48)**
+> "... the four of us until George (George Farmer) left."
+
+**[00:02:54](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-02-48)**
+> "...lly just the four of us until George (George Farmer) left."
+
+**[00:55:26](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-55-15)**
+> "...remember the old man, George (George Farmer) Zinn, arrested for claiming to be the shooter of..."
+
+**[00:55:26](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-55-15)**
+> "You remember the old man, George (George Farmer) Zinn, arrested for claiming to be..."
+
+**[00:55:32](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-55-15)**
+> "...lausible theory here, George (George Farmer) Zinn was probably on some Discord chat with a bu..."
+
+**[00:55:32](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-55-15)**
+> "...king a plausible theory here, George (George Farmer) Zinn was probably on some Discord..."
+
+**[00:56:39](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-56-34)**
+> "...Valley, which treated George (George Farmer) Zinn."
+
+**[00:56:39](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-56-34)**
+> "...at Utah Valley, which treated George (George Farmer) Zinn."
+
+</details>
 
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (2 mentions)</summary>
@@ -130,7 +165,17 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about George Farmer (3)</strong></summary>
+<summary><strong class="section-title">Statements about George Farmer (5)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
+
+- [00:02:04](/episodes/ep-es7PWdFGoFI.md#t-00-01-24) (Claim) **Candace Owens**: ["The meeting yesterday was four hours and 30 minutes with no rules. At ..."](/statements/statement-a00acb5ab7d2.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Justin Streiff](/entities/person-justin-streiff.md), [Mia Grant](/entities/person-mia-grant.md)
+
+- [00:40:22](/episodes/ep-es7PWdFGoFI.md#t-00-39-56) (Accusation) **Candace Owens**: ["They changed George Farmer's Wikipedia and said that he had a Qatari p..."](/statements/statement-276d7c591d74.md)
+
+</details>
 
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>

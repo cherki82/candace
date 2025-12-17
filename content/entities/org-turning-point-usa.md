@@ -1,6 +1,6 @@
 ---
 title: "Turning Point USA"
-description: "Turning Point USA (Organizations) - 716 mentions"
+description: "Turning Point USA (Organizations) - 747 mentions"
 id: "org-turning-point-usa"
 type: "ORG"
 aliases:
@@ -19,6 +19,104 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (31 mentions)</summary>
+
+**[00:00:35](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-00-01-24)**
+> "why can't Turning Point USA just answer basic questions"
+
+**[00:01:59](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-00-01-24)**
+> "...he situation going, why can't Turning Point USA just answer basic questions?"
+
+**[00:09:29](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-00-09-22)**
+> "about particular people at Turning Point USA."
+
+**[00:11:18](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-00-11-16)**
+> "...knowing the inner workings at turning point USA that Rob McCoy actually does not work with turnin..."
+
+**[00:11:18](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-00-11-16)**
+> "...y actually does not work with turning point USA in any capacity whatsoever and so him communicati..."
+
+**[00:11:46](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-00-11-16)**
+> "...m out on that separately from Turning Point USA, I was operating under the assumption that he wor..."
+
+**[00:11:46](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-00-11-16)**
+> "...assumption that he worked for Turning Point USA."
+
+**[00:12:10](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-00-11-58)**
+> "That he started Turning Point USA faith."
+
+**[00:15:21](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-00-14-53)**
+> "And I think we can believe turning point when they say that they did not approve of this."
+
+**[00:17:08](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-00-16-57)**
+> "...y people feel so confident at Turning Point USA that Tyler (Tyler (Tyler Robinson)) Robinson is t..."
+
+**[00:31:08](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-00-30-46)**
+> "...BBNet and Yahoo offer to fund Turning Point to the next level."
+
+**[00:31:20](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-00-30-46)**
+> "... kept in the business lane of Turning Point USA."
+
+**[00:31:26](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-00-31-26)**
+> "...rce that Bibi offered to Fund Turning Point to the next level."
+
+**[00:31:51](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-00-31-26)**
+> "...Net and Yahoo offered to take turning points to the next level and that Charlie (Charlie Kirk)..."
+
+**[00:32:21](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-00-32-06)**
+> "...o me from the spokesperson of Turning Point USA."
+
+**[00:33:09](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-00-32-51)**
+> "If you said take Turning Point to the next level, I actually would have assumed ..."
+
+**[00:33:54](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-00-33-31)**
+> "... they were, in fact, tracking Turning Point USA faith broader events."
+
+**[00:43:12](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-00-43-01)**
+> "...e, I know there are people at Turning Point, they're not good people, right?"
+
+**[00:45:22](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-00-45-09)**
+> "...has the same security team as Turning Point and Charlie (Charlie Kirk) (Charlie Kirk) did."
+
+**[00:48:31](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-00-47-59)**
+> "...s while we were speaking, but Turning Point, I guess, has their daily show, but I didn't feel..."
+
+**[00:49:49](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-00-49-49)**
+> "... time was that, you know, you TP USA, both the local chapter and you guys didn't adver..."
+
+**[00:51:41](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-00-51-08)**
+> "...hy I love a timeline, is that TPUSA, UVU, and the local BYU chapter"
+
+**[00:56:55](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-00-56-34)**
+> "But I will say it's good that Turning Point is at least giving that air, right?"
+
+**[00:57:06](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-00-56-34)**
+> "They want fresh air at Turning Point USA."
+
+**[00:58:29](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-00-58-00)**
+> "...how that I think are shady at Turning Point USA."
+
+**[01:09:18](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-01-08-50)**
+> "...eard that we're chilling with TPUSA members at Tucker's party."
+
+**[01:09:25](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-01-08-50)**
+> "... Candice was hanging out with TP USA and Tucker (Tucker Carlson) and Marjorie Taylor G..."
+
+**[01:09:35](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-01-09-35)**
+> "... knowledge, I did not see any Turning Point USA employees."
+
+**[01:09:38](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-01-09-35)**
+> "... conversation with any Tenant Turning Point USA employees."
+
+**[01:10:03](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-01-09-35)**
+> "...ith them that there were some Turning Point USA employees."
+
+**[01:10:25](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-01-10-18)**
+> "...tually secretly laughing with Turning Point USA, speak plainly."
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (11 mentions)</summary>
@@ -2460,7 +2558,7 @@ _Type: Organizations_
   - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:06:41](/episodes/ep-aDlhjfW6hz8.md#t-00-06-33): "back when I was working at Turning Point, early days."
   - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:30:05](/episodes/ep-YA1FxrDWNIo.md#t-00-29-25): "I came from Turning Point USA"
 
-- **[Justin Strief](/entities/person-justin-strief.md)**
+- **[Justin Strief](/entities/person-justin-streiff.md)**
   - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:21:38](/episodes/ep-K5GjF53bfN4.md#t-00-21-13): "Justin Strief is taking on a new elevated role with Turning Point USA as its COO. Since joining TPUSA in 2020"
   - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:24:56](/episodes/ep-a-e7HC6SeK8.md#t-00-24-50): "Justin Strife is going to be the new COO"
 
@@ -2504,10 +2602,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Formerly Employed (1)</summary>
+<summary>Formerly Employed (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:06:59](/episodes/ep-his-JBjlkh8.md#t-00-06-47): "I worked for Turning Point USA, and I went on every tour—every tour since 2019"
+
+- **[Brian Harpole](/entities/person-brian-harpole.md)**
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:14:13](/episodes/ep-es7PWdFGoFI.md#t-00-14-10): "I don't believe he works there anymore. So that was kind of him just getting out there and perhaps trying to rescue his own reputation."
 
 </details>
 
@@ -2521,6 +2622,14 @@ _Type: Organizations_
 
 - **[Donald Trump Jr.](/entities/person-donald-trump-jr.md)**
   - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:32:31](/episodes/ep-Qt0VHV-POCg.md#t-00-31-50): "Don Jr., by the way, I would say, was one of the people who very much helped to build Turning Point USA. He was there, okay?"
+
+</details>
+
+<details>
+<summary>Friend Of (1)</summary>
+
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)**
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 01:10:50](/episodes/ep-es7PWdFGoFI.md#t-01-10-18): "Tucker obviously has a good relationship with them that there were some Turning Point USA employees."
 
 </details>
 
@@ -2629,7 +2738,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Referenced By (41)</summary>
+<summary>Referenced By (43)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** CEO of this
   - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:06:41](/episodes/ep-vwG1juDCQZQ.md#t-00-06-26)
@@ -2680,12 +2789,18 @@ _Type: Organizations_
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:06:59](/episodes/ep-his-JBjlkh8.md#t-00-06-47)
   - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:30:08](/episodes/ep-YA1FxrDWNIo.md#t-00-29-25)
 
+- **[Brian Harpole](/entities/person-brian-harpole.md)** formerly worked for this
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:14:13](/episodes/ep-es7PWdFGoFI.md#t-00-14-10)
+
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** founded this
   - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:37:20](/episodes/ep-YaZfwLQ7vrI.md#t-00-36-54)
   - [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 @ 00:01:44](/episodes/ep-5autG89PW6w.md#t-00-01-22)
 
 - **[Donald Trump Jr.](/entities/person-donald-trump-jr.md)** founded this
   - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:32:31](/episodes/ep-Qt0VHV-POCg.md#t-00-31-50)
+
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)** friend of this
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 01:10:50](/episodes/ep-es7PWdFGoFI.md#t-01-10-18)
 
 - **[Phoenix](/entities/gpe-phoenix.md)** headquarters of this
   - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:05:30](/episodes/ep-ZAuuSq_j2_w.md#t-00-05-21)
@@ -2749,7 +2864,7 @@ _Type: Organizations_
   - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:32:29](/episodes/ep-vwG1juDCQZQ.md#t-00-31-56)
   - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:06:41](/episodes/ep-aDlhjfW6hz8.md#t-00-06-33)
 
-- **[Justin Strief](/entities/person-justin-strief.md)** works for this
+- **[Justin Strief](/entities/person-justin-streiff.md)** works for this
   - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:21:38](/episodes/ep-K5GjF53bfN4.md#t-00-21-13)
   - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:24:56](/episodes/ep-a-e7HC6SeK8.md#t-00-24-50)
 
@@ -2777,9 +2892,11 @@ _Type: Organizations_
 
 - **[Terrell Farnsworth](/entities/person-terrell-farnsworth.md)** works for this
   - [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:12:15](/episodes/ep-JQjCAsfoXEE.md#t-00-11-52)
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:02:15](/episodes/ep-es7PWdFGoFI.md#t-00-02-04)
 
 - **[Alex Clark](/entities/person-alex-clark.md)** works for this
   - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:34](/episodes/ep-ozWJz2spBcI.md#t-00-00-00)
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:04:18](/episodes/ep-es7PWdFGoFI.md#t-00-04-10)
 
 </details>
 
@@ -2799,7 +2916,27 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point USA (99)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point USA (104)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (5)</summary>
+
+- [00:05:07](/episodes/ep-es7PWdFGoFI.md#t-00-04-52) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk immediately owned the lies, or rather miscommunications, th..."](/statements/statement-412e76ec76af.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:11:37](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) (Claim) **Erika Kirk**: ["Rob McCoy does not work with Turning Point USA in any capacity whatsoe..."](/statements/statement-40b955ef0d7e.md)
+  - Also about: [Rob McCoy](/entities/person-rob-mccoy.md)
+
+- [00:15:17](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) (Claim) **Candace Owens** (via paraphrase): ["Turning Point USA did not approve of Brian Harpole going on the Shawn ..."](/statements/statement-191d6deb062d.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [The Shawn Ryan Show](/entities/work-the-shawn-ryan-show.md)
+
+- [00:18:09](/episodes/ep-es7PWdFGoFI.md#t-00-17-41) (Claim) **Candace Owens** (via paraphrase): ["Turning Point USA and Erika Kirk have not seen any evidence beyond wha..."](/statements/statement-ca6b4e9ab8ae.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:18:51](/episodes/ep-es7PWdFGoFI.md#t-00-18-25) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk and Turning Point USA will not know what investigators have..."](/statements/statement-72ca949913a6.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1)</summary>

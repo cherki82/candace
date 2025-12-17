@@ -1,6 +1,6 @@
 ---
 title: "Rob McCoy"
-description: "Rob McCoy (People) - 120 mentions"
+description: "Rob McCoy (People) - 124 mentions"
 id: "person-rob-mccoy"
 type: "PERSON"
 aliases:
@@ -18,6 +18,23 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (4 mentions)</summary>
+
+**[00:02:35](/episodes/ep-es7PWdFGoFI.md#ent-person-rob-mccoy-t-00-10-32)**
+> "Similarly with Rob McCoy. He makes my skin crawl"
+
+**[00:11:10](/episodes/ep-es7PWdFGoFI.md#ent-person-rob-mccoy-t-00-10-32)**
+> "...oing to change Similarly with Rob McCoy."
+
+**[00:11:18](/episodes/ep-es7PWdFGoFI.md#ent-person-rob-mccoy-t-00-11-16)**
+> "...ngs at turning point USA that Rob McCoy actually does not work with turning point USA in ..."
+
+**[00:12:17](/episodes/ep-es7PWdFGoFI.md#ent-person-rob-mccoy-t-00-11-58)**
+> "... have a lot more to say about Rob McCoy and where I believe he fits into a lot of things."
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (3 mentions)</summary>
@@ -780,7 +797,17 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Rob McCoy (24)</strong></summary>
+<summary><strong class="section-title">Statements about Rob McCoy (26)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
+
+- [00:11:16](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) (Opinion) **Candace Owens**: ["Rob McCoy makes my skin crawl. I look at him and he's a bad person and..."](/statements/statement-c3ad2a946500.md)
+
+- [00:11:37](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) (Claim) **Erika Kirk**: ["Rob McCoy does not work with Turning Point USA in any capacity whatsoe..."](/statements/statement-40b955ef0d7e.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2)</summary>

@@ -1,11 +1,11 @@
 ---
 title: "Statements Index"
-description: "Browse 1190 statements extracted from podcast episodes"
+description: "Browse 1217 statements extracted from podcast episodes"
 ---
 
 # Statements
 
-_1190 statements extracted from podcast episodes._
+_1217 statements extracted from podcast episodes._
 
 > **Note:** Statements are extracted from podcast transcripts using AI analysis.
 > Speaker attribution and content may contain errors. Always verify against primary sources.
@@ -34,7 +34,7 @@ _1190 statements extracted from podcast episodes._
 
 <div class="tab-controls">
   <label for="tab-bytype" class="tab-btn">By Type</label>
-  <label for="tab-byepisode" class="tab-btn">By Episode (37)</label>
+  <label for="tab-byepisode" class="tab-btn">By Episode (38)</label>
 </div>
 
 <style>
@@ -51,7 +51,7 @@ _1190 statements extracted from podcast episodes._
 <div class="tab-content tab-content-bytype">
 
 <details open>
-<summary><strong class="section-title">Accusations (230)</strong></summary>
+<summary><strong class="section-title">Accusations (235)</strong></summary>
 
 <details>
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (6)</summary>
@@ -1587,10 +1587,45 @@ _1190 statements extracted from podcast episodes._
 </div>
 </details>
 
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (5)</summary>
+
+<div class="filter-item">
+
+- [00:10:43](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) [○] **Candace Owens**: ["Tyler Boyer lied and said Terrell was asked to take the camera down by police. T..."](/statements/statement-420d234f80d5.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
+</div>
+<div class="filter-item">
+
+- [00:40:22](/episodes/ep-es7PWdFGoFI.md#t-00-39-56) [○] **Candace Owens**: ["They changed George Farmer's Wikipedia and said that he had a Qatari passport or..."](/statements/statement-276d7c591d74.md)
+  - About: [George Farmer](/entities/person-george-farmer.md)
+
+</div>
+<div class="filter-item">
+
+- [00:41:01](/episodes/ep-es7PWdFGoFI.md#t-00-40-38) [○] **Candace Owens**: ["The New York Post published fabricated stories about Candace Owens, including cl..."](/statements/statement-888267a4c6b4.md)
+  - About: [New York Post](/entities/org-new-york-post.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:56](/episodes/ep-es7PWdFGoFI.md#t-00-45-54) [○] **Candace Owens**: ["Tim Pool claimed that Candace Owens has the same security as Charlie Kirk, after..."](/statements/statement-89169c9f9eb3.md)
+  - About: [Tim Pool](/entities/person-tim-pool.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [01:08:18](/episodes/ep-es7PWdFGoFI.md#t-01-08-09) [○] **Candace Owens**: ["Tim Pool is trying to signal to people that my security is weak or that I'm usin..."](/statements/statement-430f661f6739.md)
+  - About: [Tim Pool](/entities/person-tim-pool.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+</details>
+
 </details>
 
 <details open>
-<summary><strong class="section-title">Factual Claims (784)</strong></summary>
+<summary><strong class="section-title">Factual Claims (800)</strong></summary>
 
 <details>
 <summary>To My Friend, Charlie Kirk. (10)</summary>
@@ -6467,6 +6502,107 @@ _1190 statements extracted from podcast episodes._
 </div>
 </details>
 
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (16)</summary>
+
+<div class="filter-item">
+
+- [00:02:04](/episodes/ep-es7PWdFGoFI.md#t-00-01-24) [○] **Candace Owens**: ["The meeting yesterday was four hours and 30 minutes with no rules. At the table ..."](/statements/statement-a00acb5ab7d2.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Justin Streiff](/entities/person-justin-streiff.md), [George Farmer](/entities/person-george-farmer.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:07](/episodes/ep-es7PWdFGoFI.md#t-00-04-52) [○] **Candace Owens**: ["Erika Kirk immediately owned the lies, or rather miscommunications, that were co..."](/statements/statement-412e76ec76af.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:52](/episodes/ep-es7PWdFGoFI.md#t-00-05-30) [○] **Candace Owens**: ["Erika Kirk said on Glenn Beck's show that she had Charlie's phone and that Charl..."](/statements/statement-14d3ddbacf08.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Glenn Beck](/entities/person-glenn-beck.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:19](/episodes/ep-es7PWdFGoFI.md#t-00-06-11) [○] **Candace Owens**: ["Andrew Kolvet told me specifically that he was one of the people that received t..."](/statements/statement-7847a11548fc.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:40](/episodes/ep-es7PWdFGoFI.md#t-00-06-11) [○] **Anonymous Source #1 (Ep es7PWdFGoFI)**: ["Dan Flood received a text message from Charlie Kirk the night before the assassi..."](/statements/statement-f4a80abe9a39.md)
+  - About: [Dan Flood](/entities/person-dan-flood.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:07:00](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) [○] **Erika Kirk**: ["Charlie Kirk sent text messages the night before his assassination to both Andre..."](/statements/statement-1573e3db29b1.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Dan Flood](/entities/person-dan-flood.md)
+
+</div>
+<div class="filter-item">
+
+- [00:08:16](/episodes/ep-es7PWdFGoFI.md#t-00-08-02) [○] **Candace Owens**: ["Erika Kirk said the reason she didn't ask Candace to stop investigating in the b..."](/statements/statement-1ec2922d6566.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:01](/episodes/ep-es7PWdFGoFI.md#t-00-08-38) [○] **Candace Owens**: ["Bari Weiss picked the questions at the memorial event. It wasn't random people c..."](/statements/statement-fc7f09b3d7c0.md)
+  - About: [Bari Weiss](/entities/person-bari-weiss.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:10](/episodes/ep-es7PWdFGoFI.md#t-00-08-38) [○] **Candace Owens**: ["Erika Kirk said she knew the general idea that questions would mention Candace a..."](/statements/statement-7527781c70d7.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Bari Weiss](/entities/person-bari-weiss.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:37](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) [○] **Erika Kirk**: ["Rob McCoy does not work with Turning Point USA in any capacity whatsoever"](/statements/statement-40b955ef0d7e.md)
+  - About: [Rob McCoy](/entities/person-rob-mccoy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:14:16](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) [○] **Erika Kirk**: ["Andrew Kolvet called the surgeon and wrote a tweet about Charlie Kirk's bullet w..."](/statements/statement-e1f8bf06b0d4.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:15:17](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) [○] **Candace Owens**: ["Turning Point USA did not approve of Brian Harpole going on the Shawn Ryan Show...."](/statements/statement-191d6deb062d.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [The Shawn Ryan Show](/entities/work-the-shawn-ryan-show.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:09](/episodes/ep-es7PWdFGoFI.md#t-00-17-41) [○] **Candace Owens**: ["Turning Point USA and Erika Kirk have not seen any evidence beyond what is publi..."](/statements/statement-ca6b4e9ab8ae.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:51](/episodes/ep-es7PWdFGoFI.md#t-00-18-25) [○] **Candace Owens**: ["Erika Kirk and Turning Point USA will not know what investigators have discovere..."](/statements/statement-72ca949913a6.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [01:11:07](/episodes/ep-es7PWdFGoFI.md#t-01-11-03) [○] **Candace Owens**: ["Erika Kirk confirmed that Charlie Kirk was going to Catholic mass"](/statements/statement-bdf5a422d4f3.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [01:13:14](/episodes/ep-es7PWdFGoFI.md#t-01-12-31) [○] **Candace Owens**: ["Qatar recently came out and said we work with Hamas because Israel and the Unite..."](/statements/statement-37092c5c9482.md)
+  - About: [Qatar](/entities/gpe-qatar.md), [Hamas](/entities/org-hamas.md), [Israel](/entities/gpe-israel.md)
+
+</div>
+</details>
+
 </details>
 
 <details open>
@@ -6896,7 +7032,7 @@ _1190 statements extracted from podcast episodes._
 </details>
 
 <details open>
-<summary><strong class="section-title">Opinions (130)</strong></summary>
+<summary><strong class="section-title">Opinions (136)</strong></summary>
 
 <details>
 <summary>To My Friend, Charlie Kirk. (2)</summary>
@@ -7811,6 +7947,47 @@ _1190 statements extracted from podcast episodes._
 
 - [00:33:39](/episodes/ep-6J6lRZPQ4jk.md#t-00-33-23) [○] **Candace Owens**: ["Tyler Robinson was involved on the day of the shooting but was not on campus tha..."](/statements/statement-66cbc5d50354.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+</details>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (6)</summary>
+
+<div class="filter-item">
+
+- [00:11:10](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) [○] **Candace Owens**: ["I don't trust Tyler Boyer and that is never going to change"](/statements/statement-eb7483abd815.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:16](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) [○] **Candace Owens**: ["Rob McCoy makes my skin crawl. I look at him and he's a bad person and nobody ca..."](/statements/statement-c3ad2a946500.md)
+  - About: [Rob McCoy](/entities/person-rob-mccoy.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:36](/episodes/ep-es7PWdFGoFI.md#t-00-13-27) [○] **Candace Owens**: ["Terrell Farnsworth lied to me several times. My skin crawled after I spoke to hi..."](/statements/statement-f3757ac613ee.md)
+  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
+</div>
+<div class="filter-item">
+
+- [00:20:42](/episodes/ep-es7PWdFGoFI.md#t-00-20-30) [○] **Candace Owens**: ["I don't believe that Tyler Robinson pulled the trigger"](/statements/statement-cdeead784a48.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:40:46](/episodes/ep-es7PWdFGoFI.md#t-00-40-38) [○] **Candace Owens**: ["When you see a media storm like this, it can only be happening because Zionists ..."](/statements/statement-0814c4a56d00.md)
+  - About: [Zionism](/entities/concept-zionism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:43:01](/episodes/ep-es7PWdFGoFI.md#t-00-42-21) [○] **Candace Owens**: ["I believe that Charlie Kirk was betrayed by people that are close to him"](/statements/statement-4776345392e1.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 </details>
@@ -15118,8 +15295,175 @@ _1190 statements extracted from podcast episodes._
 </div>
 </details>
 
+<details>
+<summary><strong>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280</strong> (27)</summary>
+
+<div class="filter-item">
+
+- [00:02:04](/episodes/ep-es7PWdFGoFI.md#t-00-01-24) [○] (Claim) **Candace Owens**: ["The meeting yesterday was four hours and 30 minutes with no rules. At the table ..."](/statements/statement-a00acb5ab7d2.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Justin Streiff](/entities/person-justin-streiff.md), [George Farmer](/entities/person-george-farmer.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:07](/episodes/ep-es7PWdFGoFI.md#t-00-04-52) [○] (Claim) **Candace Owens**: ["Erika Kirk immediately owned the lies, or rather miscommunications, that were co..."](/statements/statement-412e76ec76af.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:52](/episodes/ep-es7PWdFGoFI.md#t-00-05-30) [○] (Claim) **Candace Owens**: ["Erika Kirk said on Glenn Beck's show that she had Charlie's phone and that Charl..."](/statements/statement-14d3ddbacf08.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Glenn Beck](/entities/person-glenn-beck.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:19](/episodes/ep-es7PWdFGoFI.md#t-00-06-11) [○] (Claim) **Candace Owens**: ["Andrew Kolvet told me specifically that he was one of the people that received t..."](/statements/statement-7847a11548fc.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:40](/episodes/ep-es7PWdFGoFI.md#t-00-06-11) [○] (Claim) **Anonymous Source #1 (Ep es7PWdFGoFI)**: ["Dan Flood received a text message from Charlie Kirk the night before the assassi..."](/statements/statement-f4a80abe9a39.md)
+  - About: [Dan Flood](/entities/person-dan-flood.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:07:00](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) [○] (Claim) **Erika Kirk**: ["Charlie Kirk sent text messages the night before his assassination to both Andre..."](/statements/statement-1573e3db29b1.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Dan Flood](/entities/person-dan-flood.md)
+
+</div>
+<div class="filter-item">
+
+- [00:08:16](/episodes/ep-es7PWdFGoFI.md#t-00-08-02) [○] (Claim) **Candace Owens**: ["Erika Kirk said the reason she didn't ask Candace to stop investigating in the b..."](/statements/statement-1ec2922d6566.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:01](/episodes/ep-es7PWdFGoFI.md#t-00-08-38) [○] (Claim) **Candace Owens**: ["Bari Weiss picked the questions at the memorial event. It wasn't random people c..."](/statements/statement-fc7f09b3d7c0.md)
+  - About: [Bari Weiss](/entities/person-bari-weiss.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:10](/episodes/ep-es7PWdFGoFI.md#t-00-08-38) [○] (Claim) **Candace Owens**: ["Erika Kirk said she knew the general idea that questions would mention Candace a..."](/statements/statement-7527781c70d7.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Bari Weiss](/entities/person-bari-weiss.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:43](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) [○] (Accusation) **Candace Owens**: ["Tyler Boyer lied and said Terrell was asked to take the camera down by police. T..."](/statements/statement-420d234f80d5.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:10](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) [○] (Opinion) **Candace Owens**: ["I don't trust Tyler Boyer and that is never going to change"](/statements/statement-eb7483abd815.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:16](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) [○] (Opinion) **Candace Owens**: ["Rob McCoy makes my skin crawl. I look at him and he's a bad person and nobody ca..."](/statements/statement-c3ad2a946500.md)
+  - About: [Rob McCoy](/entities/person-rob-mccoy.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:37](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) [○] (Claim) **Erika Kirk**: ["Rob McCoy does not work with Turning Point USA in any capacity whatsoever"](/statements/statement-40b955ef0d7e.md)
+  - About: [Rob McCoy](/entities/person-rob-mccoy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:36](/episodes/ep-es7PWdFGoFI.md#t-00-13-27) [○] (Opinion) **Candace Owens**: ["Terrell Farnsworth lied to me several times. My skin crawled after I spoke to hi..."](/statements/statement-f3757ac613ee.md)
+  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
+</div>
+<div class="filter-item">
+
+- [00:14:16](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) [○] (Claim) **Erika Kirk**: ["Andrew Kolvet called the surgeon and wrote a tweet about Charlie Kirk's bullet w..."](/statements/statement-e1f8bf06b0d4.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:15:17](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) [○] (Claim) **Candace Owens**: ["Turning Point USA did not approve of Brian Harpole going on the Shawn Ryan Show...."](/statements/statement-191d6deb062d.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [The Shawn Ryan Show](/entities/work-the-shawn-ryan-show.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:09](/episodes/ep-es7PWdFGoFI.md#t-00-17-41) [○] (Claim) **Candace Owens**: ["Turning Point USA and Erika Kirk have not seen any evidence beyond what is publi..."](/statements/statement-ca6b4e9ab8ae.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:51](/episodes/ep-es7PWdFGoFI.md#t-00-18-25) [○] (Claim) **Candace Owens**: ["Erika Kirk and Turning Point USA will not know what investigators have discovere..."](/statements/statement-72ca949913a6.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:20:42](/episodes/ep-es7PWdFGoFI.md#t-00-20-30) [○] (Opinion) **Candace Owens**: ["I don't believe that Tyler Robinson pulled the trigger"](/statements/statement-cdeead784a48.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:40:22](/episodes/ep-es7PWdFGoFI.md#t-00-39-56) [○] (Accusation) **Candace Owens**: ["They changed George Farmer's Wikipedia and said that he had a Qatari passport or..."](/statements/statement-276d7c591d74.md)
+  - About: [George Farmer](/entities/person-george-farmer.md)
+
+</div>
+<div class="filter-item">
+
+- [00:40:46](/episodes/ep-es7PWdFGoFI.md#t-00-40-38) [○] (Opinion) **Candace Owens**: ["When you see a media storm like this, it can only be happening because Zionists ..."](/statements/statement-0814c4a56d00.md)
+  - About: [Zionism](/entities/concept-zionism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:41:01](/episodes/ep-es7PWdFGoFI.md#t-00-40-38) [○] (Accusation) **Candace Owens**: ["The New York Post published fabricated stories about Candace Owens, including cl..."](/statements/statement-888267a4c6b4.md)
+  - About: [New York Post](/entities/org-new-york-post.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:43:01](/episodes/ep-es7PWdFGoFI.md#t-00-42-21) [○] (Opinion) **Candace Owens**: ["I believe that Charlie Kirk was betrayed by people that are close to him"](/statements/statement-4776345392e1.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:56](/episodes/ep-es7PWdFGoFI.md#t-00-45-54) [○] (Accusation) **Candace Owens**: ["Tim Pool claimed that Candace Owens has the same security as Charlie Kirk, after..."](/statements/statement-89169c9f9eb3.md)
+  - About: [Tim Pool](/entities/person-tim-pool.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [01:08:18](/episodes/ep-es7PWdFGoFI.md#t-01-08-09) [○] (Accusation) **Candace Owens**: ["Tim Pool is trying to signal to people that my security is weak or that I'm usin..."](/statements/statement-430f661f6739.md)
+  - About: [Tim Pool](/entities/person-tim-pool.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [01:11:07](/episodes/ep-es7PWdFGoFI.md#t-01-11-03) [○] (Claim) **Candace Owens**: ["Erika Kirk confirmed that Charlie Kirk was going to Catholic mass"](/statements/statement-bdf5a422d4f3.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [01:13:14](/episodes/ep-es7PWdFGoFI.md#t-01-12-31) [○] (Claim) **Candace Owens**: ["Qatar recently came out and said we work with Hamas because Israel and the Unite..."](/statements/statement-37092c5c9482.md)
+  - About: [Qatar](/entities/gpe-qatar.md), [Hamas](/entities/org-hamas.md), [Israel](/entities/gpe-israel.md)
+
+</div>
+</details>
+
 </div>
 
 ---
 
-*Generated: 2025-12-15 12:55:38*
+*Generated: 2025-12-17 12:00:43*

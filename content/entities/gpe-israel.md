@@ -1,6 +1,6 @@
 ---
 title: "Israel"
-description: "Israel (Places) - 625 mentions"
+description: "Israel (Places) - 640 mentions"
 id: "gpe-israel"
 type: "GPE"
 aliases:
@@ -19,6 +19,56 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (15 mentions)</summary>
+
+**[00:00:04](/episodes/ep-es7PWdFGoFI.md#ent-gpe-israel-t-00-00-00)**
+> "Israel does have a right to defend itself"
+
+**[00:00:09](/episodes/ep-es7PWdFGoFI.md#ent-gpe-israel-t-00-00-00)**
+> "...s a good time to mention that Israel does have a right to defend itself."
+
+**[00:07:48](/episodes/ep-es7PWdFGoFI.md#ent-gpe-israel-t-00-07-21)**
+> "...e going to be the reason that Israel gets TikTok because you guys are acting a fool al..."
+
+**[00:08:38](/episodes/ep-es7PWdFGoFI.md#ent-gpe-israel-t-00-08-38)**
+> "... are going to present the pro-Israel cause and talk about anti-Semitism and talk about..."
+
+**[00:08:38](/episodes/ep-es7PWdFGoFI.md#ent-gpe-israel-t-00-08-38)**
+> "...that are going to present the pro-Israel cause and talk about anti-Semitism and talk about..."
+
+**[00:34:25](/episodes/ep-es7PWdFGoFI.md#ent-gpe-israel-t-00-34-13)**
+> "...s regularly fly in and out of Israel."
+
+**[00:34:38](/episodes/ep-es7PWdFGoFI.md#ent-gpe-israel-t-00-34-13)**
+> "...anes are flying in and out of Israel and turning their transponder off each time that ..."
+
+**[00:35:11](/episodes/ep-es7PWdFGoFI.md#ent-gpe-israel-t-00-34-55)**
+> "...t if something is a threat to Israel, okay?"
+
+**[00:35:33](/episodes/ep-es7PWdFGoFI.md#ent-gpe-israel-t-00-34-55)**
+> "... how these planes tie back to Israel."
+
+**[00:48:14](/episodes/ep-es7PWdFGoFI.md#ent-gpe-israel-t-00-47-59)**
+> "...lling you, go back, relate to Israel, and I will be able to prove that tomorrow for al..."
+
+**[01:07:34](/episodes/ep-es7PWdFGoFI.md#ent-gpe-israel-t-01-07-29)**
+> "...e I wouldn't be talking about Israel and I think there's something to explore there."
+
+**[01:12:21](/episodes/ep-es7PWdFGoFI.md#ent-gpe-israel-t-01-11-45)**
+> "...d Qatar seems to never attack Israel in a war of aggression or any sort of attack?"
+
+**[01:12:27](/episodes/ep-es7PWdFGoFI.md#ent-gpe-israel-t-01-11-45)**
+> "...done anything negative toward Israel?"
+
+**[01:12:31](/episodes/ep-es7PWdFGoFI.md#ent-gpe-israel-t-01-12-31)**
+> "...h, we work with Hamas because Israel and the United States asked us to."
+
+**[01:12:39](/episodes/ep-es7PWdFGoFI.md#ent-gpe-israel-t-01-12-31)**
+> "...e most absolute United States Israel thing ever, is to ask people to help you and then..."
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (5 mentions)</summary>
@@ -2159,7 +2209,15 @@ _Type: Places_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel (54)</strong></summary>
+<summary><strong class="section-title">Statements about Israel (55)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
+
+- [01:13:14](/episodes/ep-es7PWdFGoFI.md#t-01-12-31) (Claim) **Candace Owens** (via paraphrase): ["Qatar recently came out and said we work with Hamas because Israel and..."](/statements/statement-37092c5c9482.md)
+  - Also about: [Qatar](/entities/gpe-qatar.md), [Hamas](/entities/org-hamas.md), [United States](/entities/gpe-united-states.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1)</summary>

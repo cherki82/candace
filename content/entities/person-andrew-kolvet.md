@@ -1,6 +1,6 @@
 ---
 title: "Andrew Kolvet"
-description: "Andrew Kolvet (People) - 108 mentions"
+description: "Andrew Kolvet (People) - 135 mentions"
 id: "person-andrew-kolvet"
 type: "PERSON"
 aliases:
@@ -16,6 +16,92 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (27 mentions)</summary>
+
+**[00:01:17](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-04-10)**
+> "Alex and Andrew then jump onto a podcast"
+
+**[00:04:26](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-04-10)**
+> "...Alex (Alex Clark) and Andrew (Andrew Kolvet) then jump onto a podcast and they're doing that ..."
+
+**[00:04:26](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-04-10)**
+> "...to him, Alex (Alex Clark) and Andrew (Andrew Kolvet) then jump onto a podcast and they..."
+
+**[00:06:19](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-06-11)**
+> "... I clarified, I said, Andrew (Andrew Kolvet) told me specifically that he was one of the peop..."
+
+**[00:06:19](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-06-11)**
+> "...how, and I clarified, I said, Andrew (Andrew Kolvet) told me specifically that he was ..."
+
+**[00:06:32](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-06-11)**
+> "...ot that directly from Andrew (Andrew Kolvet)."
+
+**[00:06:32](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-06-11)**
+> "I got that directly from Andrew (Andrew Kolvet)."
+
+**[00:07:02](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-06-43)**
+> "Andrew (Andrew Kolvet) received a message the night before, and Dan (Da..."
+
+**[00:07:15](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-06-43)**
+> "...s almost exactly what Andrew (Andrew Kolvet) said, which is, they're going to kill me."
+
+**[00:07:15](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-06-43)**
+> "...which was almost exactly what Andrew (Andrew Kolvet) said, which is, they're going to ..."
+
+**[00:07:21](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-07-21)**
+> "Andrew (Andrew Kolvet) did not know who they were, who they, the they t..."
+
+**[00:12:48](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-12-42)**
+> "...ickly what happens is Andrew (Andrew Kolvet) whips up this tweet about what happened with the..."
+
+**[00:12:48](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-12-42)**
+> "Very quickly what happens is Andrew (Andrew Kolvet) whips up this tweet about what ha..."
+
+**[00:13:55](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-13-27)**
+> "... in the comments responded to Andrew and he said,"
+
+**[00:14:10](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-14-10)**
+> "And then Andrew Colbert replies and says, rest assured, I would n..."
+
+**[00:14:15](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-14-10)**
+> "...rgeon and they confirmed that Andrew spoke to the surgeon, but that they did not know ..."
+
+**[00:14:27](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-14-10)**
+> "...y much came across to be like Andrew was just"
+
+**[00:14:46](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-14-10)**
+> "...even know, in theory, Andrew (Andrew Kolvet) wasn't even there when Charlie (Charlie Kirk) di..."
+
+**[00:14:46](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-14-10)**
+> "I don't even know, in theory, Andrew (Andrew Kolvet) wasn't even there when Charlie (C..."
+
+**[00:14:53](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-14-53)**
+> "...after, but, you know, Andrew (Andrew Kolvet) was not one of the people that got into the hosp..."
+
+**[00:14:53](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-14-53)**
+> "... around after, but, you know, Andrew (Andrew Kolvet) was not one of the people that go..."
+
+**[00:31:35](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-31-26)**
+> "...with Alex (Alex Clark), where Andrew said, oh, there was not $150 million that's made ..."
+
+**[00:31:47](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-31-26)**
+> "Andrew (Andrew Kolvet) was my source."
+
+**[00:31:49](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-31-26)**
+> "Andrew (Andrew Kolvet) told me."
+
+**[00:50:48](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-50-28)**
+> "...d we can attest we, you know, Andrew Cipher, who's our head of field, you know,"
+
+**[00:56:58](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-56-34)**
+> "...ven be the first time Andrew (Andrew Kolvet) has expressed that he thought that those message..."
+
+**[00:56:58](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-56-34)**
+> "... might even be the first time Andrew (Andrew Kolvet) has expressed that he thought tha..."
+
+</details>
 
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (6 mentions)</summary>
@@ -659,7 +745,21 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Kolvet (8)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Kolvet (11)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (3)</summary>
+
+- [00:06:19](/episodes/ep-es7PWdFGoFI.md#t-00-06-11) (Claim) **Candace Owens**: ["Andrew Kolvet told me specifically that he was one of the people that ..."](/statements/statement-7847a11548fc.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:07:00](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) (Claim) **Erika Kirk**: ["Charlie Kirk sent text messages the night before his assassination to ..."](/statements/statement-1573e3db29b1.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Dan Flood](/entities/person-dan-flood.md)
+
+- [00:14:16](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) (Claim) **Erika Kirk**: ["Andrew Kolvet called the surgeon and wrote a tweet about Charlie Kirk'..."](/statements/statement-e1f8bf06b0d4.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1)</summary>

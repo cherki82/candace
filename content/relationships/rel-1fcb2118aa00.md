@@ -11,11 +11,15 @@ object: "person-bari-weiss"
 
 ## [Erika Kirk](/entities/person-erika-kirk) interviewed by [Bari Weiss](/entities/person-bari-weiss)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
 
 **[Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk)**
 
 - [00:07:40](/episodes/ep-6J6lRZPQ4jk#t-00-07-40): _the podcaster Candace Owens, okay? At one time, a friend of Charlie's. At one time, an employee of Turning Point. She has been one of the main peddlers of these conspiracies_
+
+**[Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI)**
+
+- [00:08:12](/episodes/ep-es7PWdFGoFI#t-00-08-12): _I felt name checked by the podcaster, Candace Owens, this obvious setup and then asking me to stop._
 
 ### Related
 

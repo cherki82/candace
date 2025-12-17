@@ -711,6 +711,14 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Appeared With (1)</summary>
+
+- **[Blake Neff](/entities/person-blake-neff.md)**
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:22:57](/episodes/ep-es7PWdFGoFI.md#t-00-22-39): "Blake Neff called his mom. His call with his mother lasted 45 seconds."
+
+</details>
+
+<details>
 <summary>Chief Of Staff To (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
@@ -752,7 +760,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
+
+- **[Blake Neff](/entities/person-blake-neff.md)** appeared with this
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:22:57](/episodes/ep-es7PWdFGoFI.md#t-00-22-39)
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
   - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:00:41](/episodes/ep-c5BcKF91iec.md#t-00-00-00)

@@ -1,6 +1,6 @@
 ---
 title: "TikTok"
-description: "TikTok (Organizations) - 35 mentions"
+description: "TikTok (Organizations) - 39 mentions"
 id: "org-tiktok"
 type: "ORG"
 ---
@@ -11,6 +11,23 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (4 mentions)</summary>
+
+**[00:00:05](/episodes/ep-es7PWdFGoFI.md#ent-org-tiktok-t-00-00-00)**
+> "TikTok does need to be purchased by the Mossad"
+
+**[00:00:13](/episodes/ep-es7PWdFGoFI.md#ent-org-tiktok-t-00-00-00)**
+> "... Carlson) is Adolf Hitler and TikTok does need to be purchased by the Mossad."
+
+**[00:07:48](/episodes/ep-es7PWdFGoFI.md#ent-org-tiktok-t-00-07-21)**
+> "...e the reason that Israel gets TikTok because you guys are acting a fool all the time a..."
+
+**[00:35:02](/episodes/ep-es7PWdFGoFI.md#ent-org-tiktok-t-00-34-55)**
+> "...tians again are trying to get TikTok censored."
+
+</details>
 
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1 mentions)</summary>

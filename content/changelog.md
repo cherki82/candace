@@ -5,6 +5,24 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2025-12-17 12:00:43
+
+**Added 1 episode(s):**
+  - `es7PWdFGoFI`: Erika And I Sat Down. Here’s What Happened. | Candace Ep 280
+**Added 6 new entity/entities**
+**Removed 1 entity/entities**
+**Added 3 new event(s)**
+**Added 14 new relationship(s)**
+
+**Totals:**
+- Episodes: 49
+- Entities: 1021
+- Events: 526
+- Claims: 1430
+- Relationships: 890
+
+---
+
 ## 2025-12-15 12:55:39
 
 **Added 30 new claim(s)**

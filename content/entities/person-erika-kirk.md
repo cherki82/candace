@@ -1,6 +1,6 @@
 ---
 title: "Erika Kirk"
-description: "Erika Kirk (People) - 295 mentions"
+description: "Erika Kirk (People) - 350 mentions"
 id: "person-erika-kirk"
 type: "PERSON"
 aliases:
@@ -18,6 +18,176 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (55 mentions)</summary>
+
+**[00:00:21](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-00-45)**
+> "Erika said, stop"
+
+**[00:00:40](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-00-45)**
+> "Erika offers to answer some of these questions"
+
+**[00:01:04](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-00-45)**
+> "Erika said, stop."
+
+**[00:01:40](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-01-24)**
+> "...se questions, and then Erika (Erika Kirk) offers to answer some of these questions and I'm..."
+
+**[00:01:40](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-01-24)**
+> "... of these questions, and then Erika (Erika Kirk) offers to answer some of these quest..."
+
+**[00:02:24](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-02-04)**
+> "...n (Justin Streiff) and Erika (Erika Kirk)."
+
+**[00:02:24](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-02-04)**
+> "...t Justin (Justin Streiff) and Erika (Erika Kirk)."
+
+**[00:03:06](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-02-48)**
+> "...o be open, I didn't know what Erica's energy was going to be like, if it was going to b..."
+
+**[00:03:37](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-03-29)**
+> "...e was pretty clear and Erika (Erika Kirk) was very clear that they were sort of most upset..."
+
+**[00:03:37](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-03-29)**
+> "And he was pretty clear and Erika (Erika Kirk) was very clear that they were sort o..."
+
+**[00:04:56](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-04-52)**
+> "And by no means did Erika (Erika Kirk) give any person the authority to go out and say ..."
+
+**[00:05:12](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-04-52)**
+> "... the first things that Erika (Erika Kirk) did was she owned the lies, the lies or rather I..."
+
+**[00:05:12](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-04-52)**
+> "... one of the first things that Erika (Erika Kirk) did was she owned the lies, the lies..."
+
+**[00:05:46](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-05-30)**
+> "We, Erika (Erika Kirk) sat down with Glenn (Glenn Beck)."
+
+**[00:05:58](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-05-30)**
+> "And it was Erika (Erika Kirk) saying that she had Charlie (Charlie Kirk)'s pho..."
+
+**[00:06:43](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-06-43)**
+> "...ht away and explained, Erika (Erika Kirk) said that she has Charlie (Charlie Kirk)'s phone..."
+
+**[00:06:43](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-06-43)**
+> "...hat right away and explained, Erika (Erika Kirk) said that she has Charlie (Charlie K..."
+
+**[00:08:12](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-08-02)**
+> "...'s interesting to hear Erika (Erika Kirk) say that the reason she didn't ask me to stop in..."
+
+**[00:08:12](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-08-02)**
+> "And it's interesting to hear Erika (Erika Kirk) say that the reason she didn't ask m..."
+
+**[00:09:10](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-08-38)**
+> "Erika said that she knew the general idea, like they we..."
+
+**[00:18:51](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-18-25)**
+> "...t share that information with Erica."
+
+**[00:25:11](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-25-11)**
+> "I need to call Erika (Erika Kirk) and then he takes his phone and he begins callin..."
+
+**[00:25:11](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-25-11)**
+> "... and he begins calling Erika (Erika Kirk) and I don't want to disclose how that call unfol..."
+
+**[00:25:11](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-25-11)**
+> "...s phone and he begins calling Erika (Erika Kirk) and I don't want to disclose how tha..."
+
+**[00:25:11](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-25-11)**
+> "...occurring I remember he calls Erica"
+
+**[00:26:38](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-26-38)**
+> "...first person Mikey called was Erica, right?"
+
+**[00:26:49](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-26-38)**
+> "He called Erica, we were told this by many people, also that he t..."
+
+**[00:27:17](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-26-38)**
+> "...inutes, he three-wayed Erika (Erika Kirk) three minutes after the shot went off."
+
+**[00:27:17](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-26-38)**
+> "...se 10 minutes, he three-wayed Erika (Erika Kirk) three minutes after the shot went of..."
+
+**[00:28:04](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-28-04)**
+> "... his mother ends, adds Erika (Erika Kirk) to the phone."
+
+**[00:28:04](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-28-04)**
+> "...ll with his mother ends, adds Erika (Erika Kirk) to the phone."
+
+**[00:28:11](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-28-04)**
+> "...e's like, I gotta call Erika (Erika Kirk)."
+
+**[00:28:11](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-28-04)**
+> "..., and he's like, I gotta call Erika (Erika Kirk)."
+
+**[00:28:21](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-28-04)**
+> "Okay, Mikey called Erika (Erika Kirk) after Blake and I ended that phone call with his..."
+
+**[00:28:32](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-28-04)**
+> "...ikey McCoy) then drops Erika (Erika Kirk) from the phone call two minutes later, and then ..."
+
+**[00:28:32](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-28-04)**
+> "...ikey (Mikey McCoy) then drops Erika (Erika Kirk) from the phone call two minutes late..."
+
+**[00:29:25](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-28-47)**
+> "... that she's close with Erika (Erika Kirk)."
+
+**[00:29:25](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-28-47)**
+> "...y close that she's close with Erika (Erika Kirk)."
+
+**[00:31:16](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-30-46)**
+> "At which point Erika (Erika Kirk) said she was not aware of that happening."
+
+**[00:33:51](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-33-31)**
+> "was exactly where Erika (Erika Kirk) had been on that day, and that was inaccurate."
+
+**[00:34:08](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-33-31)**
+> "Of course, Erika (Erika Kirk) was at some of them, Charlie (Charlie Kirk) was ..."
+
+**[00:43:35](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-43-01)**
+> "...one of the things that Erika (Erika Kirk) was like, well, I'm not like a feminist."
+
+**[00:43:35](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-43-01)**
+> "...k that one of the things that Erika (Erika Kirk) was like, well, I'm not like a femin..."
+
+**[00:45:39](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-45-09)**
+> "...lie (Charlie Kirk) and Erika (Erika Kirk) did."
+
+**[00:45:39](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-45-09)**
+> "...as Charlie (Charlie Kirk) and Erika (Erika Kirk) did."
+
+**[01:05:57](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-01-05-19)**
+> "...t came behind that was Erika (Erika Kirk) communicating with Megan Kelly and me."
+
+**[01:05:57](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-01-05-19)**
+> "...hen what came behind that was Erika (Erika Kirk) communicating with Megan Kelly and m..."
+
+**[01:08:46](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-01-08-09)**
+> "...Bays writes, how would Erika (Erika Kirk) and the feds not see those messages?"
+
+**[01:08:46](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-01-08-09)**
+> "Rio Bays writes, how would Erika (Erika Kirk) and the feds not see those messages?"
+
+**[01:09:07](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-01-08-50)**
+> "How would Erika (Erika Kirk) and the feds not see those messages?"
+
+**[01:09:10](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-01-08-50)**
+> "Erika, Brian (Brian Harpole) and so many others caught ..."
+
+**[01:10:54](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-01-10-18)**
+> "Did Erika (Erika Kirk) confirm that?"
+
+**[01:10:59](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-01-10-18)**
+> "Look, obviously, Erika (Erika Kirk) confirmed it."
+
+**[01:11:18](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-01-11-03)**
+> "Like you said, Erika (Erika Kirk) can speak on that."
+
+**[01:11:42](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-01-11-03)**
+> "to speak about that would be Erika, and I do think she should."
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (42 mentions)</summary>
@@ -1118,9 +1288,19 @@ _Type: People_
 
 - **[Bari Weiss](/entities/person-bari-weiss.md)**
   - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:07:40](/episodes/ep-6J6lRZPQ4jk.md#t-00-07-28): "the podcaster Candace Owens, okay? At one time, a friend of Charlie's. At one time, an employee of Turning Point. She has been one of the main peddlers of these conspiracies"
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:08:12](/episodes/ep-es7PWdFGoFI.md#t-00-08-02): "I felt name checked by the podcaster, Candace Owens, this obvious setup and then asking me to stop."
 
 - **[Glenn Beck](/entities/person-glenn-beck.md)**
   - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:17:14](/episodes/ep-6J6lRZPQ4jk.md#t-00-17-02): "Erika also sat down with Glenn (Glenn Beck) (Glenn Beck) of Blaze TV."
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:05:48](/episodes/ep-es7PWdFGoFI.md#t-00-05-30): "We, Erika sat down with Glenn. I actually missed this portion because I didn't get to watch the interview in its entirety."
+
+</details>
+
+<details>
+<summary>Met With (1)</summary>
+
+- **[Megyn Kelly](/entities/person-megyn-kelly.md)**
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 01:05:42](/episodes/ep-es7PWdFGoFI.md#t-01-05-19): "Erika communicating with Megan Kelly and me. Megan Kelly was kind of the intermediary."
 
 </details>
 
@@ -1133,7 +1313,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (11)</summary>
+<summary>Referenced By (12)</summary>
 
 - **[JD Vance](/entities/person-jd-vance.md)** appeared with this
   - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:02:15](/episodes/ep-vwG1juDCQZQ.md#t-00-02-10)
@@ -1172,12 +1352,29 @@ _Type: People_
   - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:00:09](/episodes/ep-SKGUzGHymcI.md#t-00-00-00)
   - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 01:07:30](/episodes/ep-2WEHTk0Xewg.md#t-01-06-45)
 
+- **[Megyn Kelly](/entities/person-megyn-kelly.md)** met with this
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 01:05:42](/episodes/ep-es7PWdFGoFI.md#t-01-05-19)
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Erika Kirk (14)</strong></summary>
+<summary><strong class="section-title">Statements by Erika Kirk (17)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (3)</summary>
+
+- [00:07:00](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) [○] (Claim) ["Charlie Kirk sent text messages the night before his assassination to both Andre..."](/statements/statement-1573e3db29b1.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Dan Flood](/entities/person-dan-flood.md)
+
+- [00:11:37](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) [○] (Claim) ["Rob McCoy does not work with Turning Point USA in any capacity whatsoever"](/statements/statement-40b955ef0d7e.md)
+  - About: [Rob McCoy](/entities/person-rob-mccoy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:14:16](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) [○] (Claim) ["Andrew Kolvet called the surgeon and wrote a tweet about Charlie Kirk's bullet w..."](/statements/statement-e1f8bf06b0d4.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2)</summary>
@@ -1249,7 +1446,36 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Erika Kirk (38)</strong></summary>
+<summary><strong class="section-title">Statements about Erika Kirk (46)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (8)</summary>
+
+- [00:02:04](/episodes/ep-es7PWdFGoFI.md#t-00-01-24) (Claim) **Candace Owens**: ["The meeting yesterday was four hours and 30 minutes with no rules. At ..."](/statements/statement-a00acb5ab7d2.md)
+  - Also about: [Justin Streiff](/entities/person-justin-streiff.md), [George Farmer](/entities/person-george-farmer.md), [Mia Grant](/entities/person-mia-grant.md)
+
+- [00:05:07](/episodes/ep-es7PWdFGoFI.md#t-00-04-52) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk immediately owned the lies, or rather miscommunications, th..."](/statements/statement-412e76ec76af.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:05:52](/episodes/ep-es7PWdFGoFI.md#t-00-05-30) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk said on Glenn Beck's show that she had Charlie's phone and ..."](/statements/statement-14d3ddbacf08.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Glenn Beck](/entities/person-glenn-beck.md)
+
+- [00:08:16](/episodes/ep-es7PWdFGoFI.md#t-00-08-02) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk said the reason she didn't ask Candace to stop investigatin..."](/statements/statement-1ec2922d6566.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:09:10](/episodes/ep-es7PWdFGoFI.md#t-00-08-38) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk said she knew the general idea that questions would mention..."](/statements/statement-7527781c70d7.md)
+  - Also about: [Bari Weiss](/entities/person-bari-weiss.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:18:09](/episodes/ep-es7PWdFGoFI.md#t-00-17-41) (Claim) **Candace Owens** (via paraphrase): ["Turning Point USA and Erika Kirk have not seen any evidence beyond wha..."](/statements/statement-ca6b4e9ab8ae.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:18:51](/episodes/ep-es7PWdFGoFI.md#t-00-18-25) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk and Turning Point USA will not know what investigators have..."](/statements/statement-72ca949913a6.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [01:11:07](/episodes/ep-es7PWdFGoFI.md#t-01-11-03) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk confirmed that Charlie Kirk was going to Catholic mass"](/statements/statement-bdf5a422d4f3.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (5)</summary>

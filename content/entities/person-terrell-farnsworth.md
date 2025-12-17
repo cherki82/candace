@@ -1,6 +1,6 @@
 ---
 title: "Terrell Farnsworth"
-description: "Terrell Farnsworth (People) - 9 mentions"
+description: "Terrell Farnsworth (People) - 12 mentions"
 id: "person-terrell-farnsworth"
 type: "PERSON"
 ---
@@ -11,6 +11,20 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (3 mentions)</summary>
+
+**[00:02:15](/episodes/ep-es7PWdFGoFI.md#ent-person-terrell-farnsworth-t-00-09-22)**
+> "My skin crawled after I spoke to Terrell Farnsworth"
+
+**[00:09:37](/episodes/ep-es7PWdFGoFI.md#ent-person-terrell-farnsworth-t-00-09-22)**
+> "...skin crawled after I spoke to Terrell Farnsworth, the person who took the cameras down."
+
+**[01:09:54](/episodes/ep-es7PWdFGoFI.md#ent-person-terrell-farnsworth-t-01-09-35)**
+> "...hing and enjoying a beer with Terrell Farnsworth and Tyler (Tyler (Tyler Robinson)) Boyer."
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (6 mentions)</summary>
@@ -64,6 +78,7 @@ _Type: People_
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
   - [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:12:15](/episodes/ep-JQjCAsfoXEE.md#t-00-11-52): "Terrell Farnsworth, the guy who takes out the SD cards, was there at all. Okay, Terrell does not do college campus events. He doesn't do that. He's at the top of the company."
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:02:15](/episodes/ep-es7PWdFGoFI.md#t-00-02-04): "My skin crawled after I spoke to Terrell Farnsworth, the person who took the cameras down."
 
 </details>
 
@@ -78,7 +93,17 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Terrell Farnsworth (4)</strong></summary>
+<summary><strong class="section-title">Statements about Terrell Farnsworth (6)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
+
+- [00:10:43](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) (Accusation) **Candace Owens**: ["Tyler Boyer lied and said Terrell was asked to take the camera down by..."](/statements/statement-420d234f80d5.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:13:36](/episodes/ep-es7PWdFGoFI.md#t-00-13-27) (Opinion) **Candace Owens**: ["Terrell Farnsworth lied to me several times. My skin crawled after I s..."](/statements/statement-f3757ac613ee.md)
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2)</summary>

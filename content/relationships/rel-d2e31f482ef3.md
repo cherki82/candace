@@ -11,7 +11,7 @@ object: "person-charlie-kirk"
 
 ## [Benjamin Netanyahu](/entities/person-benjamin-netanyahu) met with [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
 
 **[INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0)**
 
@@ -21,6 +21,10 @@ object: "person-charlie-kirk"
 
 - [00:07:37](/episodes/ep-czVBmqZP6Ss#t-00-07-37): _my son actually, on his 2019 visit to Israel, had lunch with him and his wife Erika._
 - [00:16:54](/episodes/ep-czVBmqZP6Ss#t-00-16-54): _It was at this time that Benjamin Netanyahu was called and Charlie was invited to Israel._
+
+**[Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI)**
+
+- [00:32:40](/episodes/ep-es7PWdFGoFI#t-00-32-40): _BB Net and Yahoo offered to Fund Turning Point to the next level. And it was part of my frustration_
 
 **[EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY)**
 

@@ -2,7 +2,7 @@
 title: "Timeline"
 ---
 
-_Total events: 523_
+_Total events: 526_
 
 > **Note:** Events and dates are extracted automatically using AI. Some dates may be approximate or inferred from context.
 
@@ -74,8 +74,8 @@ _Total events: 523_
 <input type="radio" id="tab-historical" name="timeline-tab" class="tab-radio">
 
 <div class="tab-controls">
-  <label for="tab-2025" class="tab-btn">2025 (384)</label>
-  <label for="tab-2024" class="tab-btn">2024 (41)</label>
+  <label for="tab-2025" class="tab-btn">2025 (385)</label>
+  <label for="tab-2024" class="tab-btn">2024 (43)</label>
   <label for="tab-historical" class="tab-btn">Historical (98)</label>
 </div>
 
@@ -259,6 +259,21 @@ _Total events: 523_
 - [Erika Kirk Forgives. The Feds Forget... | Canda... @ 00:08:07](/episodes/ep-ja26iltROkM.md#t-00-07-29)
 - [Who Stood To Benefit From Charlie Kirk's Assass... @ 00:40:25](/episodes/ep-Kmt6HgRjckU.md#t-00-40-07)
 - [Woah: It Was Erika Kirk Who Called For TPUSA To... @ 00:08:48](/episodes/ep-DqGNvi36ol8.md#t-00-08-34)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-12-15-candace-owens-and-erika-kirk-meeting">
+<div class="timeline-date">2025-12-15</div>
+<div class="timeline-desc"><a href="/events/event-2025-12-15-candace-owens-and-erika-kirk-meeting.md">Candace Owens and Erika Kirk meeting</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-15: Candace Owens and Erika Kirk meeting - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Erika And I Sat Down. Here’s What Happened. | C... @ 00:02:10](/episodes/ep-es7PWdFGoFI.md#t-00-02-04)
 
 </details>
 </div>
@@ -29354,7 +29369,37 @@ _Total events: 523_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2024-09-02-kmyu-local-media-reveals-courtyard-locat">
+<div class="timeline-date">2024-09-02</div>
+<div class="timeline-desc"><a href="/events/event-2024-09-02-kmyu-local-media-reveals-courtyard-locat.md">KMYU local media reveals courtyard location for Charlie Kirk event at Utah Valley University</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024-09-02: KMYU local media reveals courtyard location for Charlie Kirk event at Utah Valley University - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Erika And I Sat Down. Here’s What Happened. | C... @ 00:51:27](/episodes/ep-es7PWdFGoFI.md#t-00-51-08)
+
+</details>
+</div>
+
 **August**
+
+<div class="timeline-event filter-item" id="event-2024-08-27-turning-point-usa-announces-charlie-kirk">
+<div class="timeline-date">2024-08-27</div>
+<div class="timeline-desc"><a href="/events/event-2024-08-27-turning-point-usa-announces-charlie-kirk.md">Turning Point USA announces Charlie Kirk speaking event at Utah Valley University</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024-08-27: Turning Point USA announces Charlie Kirk speaking event at Utah Valley University - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Erika And I Sat Down. Here’s What Happened. | C... @ 00:50:14](/episodes/ep-es7PWdFGoFI.md#t-00-49-49)
+
+</details>
+</div>
 
 <div class="timeline-event filter-item" id="event-2024-08-24-891st-missile-security-forces-squadron-conducted-o">
 <div class="timeline-date">2024-08-24</div>

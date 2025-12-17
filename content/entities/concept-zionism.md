@@ -589,7 +589,14 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Zionism (4)</strong></summary>
+<summary><strong class="section-title">Statements about Zionism (5)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
+
+- [00:40:46](/episodes/ep-es7PWdFGoFI.md#t-00-40-38) (Opinion) **Candace Owens**: ["When you see a media storm like this, it can only be happening because..."](/statements/statement-0814c4a56d00.md)
+
+</details>
 
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1)</summary>

@@ -565,7 +565,18 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Met With (2)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 01:05:42](/episodes/ep-es7PWdFGoFI.md#t-01-05-19): "Erika communicating with Megan Kelly and me. Megan Kelly was kind of the intermediary."
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 01:05:42](/episodes/ep-es7PWdFGoFI.md#t-01-05-19): "Erika communicating with Megan Kelly and me. Megan Kelly was kind of the intermediary."
+
+</details>
+
+<details>
+<summary>Referenced By (11)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized this
   - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:06:23](/episodes/ep-MUA9ebCF4Ow.md#t-00-05-50)
@@ -595,6 +606,12 @@ _Type: People_
 
 - **[Kash Patel](/entities/person-kash-patel.md)** interviewed by this
   - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:07:16](/episodes/ep-Kmt6HgRjckU.md#t-00-07-01)
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** met with this
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 01:05:42](/episodes/ep-es7PWdFGoFI.md#t-01-05-19)
+
+- **[Candace Owens](/entities/person-candace-owens.md)** met with this
+  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 01:05:42](/episodes/ep-es7PWdFGoFI.md#t-01-05-19)
 
 </details>
 
