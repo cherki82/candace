@@ -1,6 +1,6 @@
 ---
 title: "Rob McCoy"
-description: "Rob McCoy (People) - 124 mentions"
+description: "Rob McCoy (People) - 126 mentions"
 id: "person-rob-mccoy"
 type: "PERSON"
 aliases:
@@ -18,6 +18,17 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
+
+**[00:10:17](/episodes/ep-ewBzjVe3LNQ.md#ent-person-rob-mccoy-t-00-09-42)**
+> "This is a preference that I guess is not or perhaps is in conflict with the beliefs and the preferences of Rob McCoy who makes my skin crawl."
+
+**[00:10:03](/episodes/ep-ewBzjVe3LNQ.md#ent-person-rob-mccoy-t-00-09-42)**
+> "...eliefs and the preferences of Rob McCoy who makes my skin crawl."
+
+</details>
 
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (4 mentions)</summary>
@@ -581,6 +592,14 @@ _Type: People_
 </details>
 
 <details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:10:17](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-42): "the preferences of Rob McCoy who makes my skin crawl. We showed you that interview that he did with somebody who apparently went on a rampage. He actually went to prison for it and he was just sort of laundering his reputation and then gave him access again to children."
+
+</details>
+
+<details>
 <summary>Friend Of (1)</summary>
 
 - **[Thomas Michael Camino](/entities/person-thomas-michael-camino.md)**
@@ -664,7 +683,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (21)</summary>
+<summary>Referenced By (22)</summary>
 
 - **[Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)** advised by this
   - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:09:32](/episodes/ep-Qt0VHV-POCg.md#t-00-09-15)
@@ -676,6 +695,9 @@ _Type: People_
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** close associate of this
   - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:00:05](/episodes/ep-581dILVcEE4.md#t-00-00-00)
   - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:03:51](/episodes/ep-581dILVcEE4.md#t-00-03-33)
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:10:17](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-42)
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)** criticized by this
   - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:49:27](/episodes/ep-czVBmqZP6Ss.md#t-00-49-18)
@@ -797,15 +819,30 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Rob McCoy (26)</strong></summary>
+<summary><strong class="section-title">Statements about Rob McCoy (31)</strong></summary>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (7)</summary>
 
 - [00:11:16](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) (Opinion) **Candace Owens**: ["Rob McCoy makes my skin crawl. I look at him and he's a bad person and..."](/statements/statement-c3ad2a946500.md)
 
 - [00:11:37](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) (Claim) **Erika Kirk**: ["Rob McCoy does not work with Turning Point USA in any capacity whatsoe..."](/statements/statement-40b955ef0d7e.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:11:37](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) (Claim) **Candace Owens** (via paraphrase): ["Rob McCoy does not work with Turning Point USA in any capacity whatsoe..."](/statements/statement-276b02748885.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:11:39](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) (Claim) **Erika Kirk** (via quoted speech): ["Rob McCoy does not work with Turning Point USA in any capacity"](/statements/statement-038c1d1fe7c1.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:12:04](/episodes/ep-es7PWdFGoFI.md#t-00-11-58) (Accusation) **Candace Owens**: ["Rob McCoy claimed on stage at the memorial to be 'America's pastor' an..."](/statements/statement-f7572e40a6e9.md)
+  - Also about: [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)
+
+- [00:25:51](/episodes/ep-es7PWdFGoFI.md#t-00-25-11) (Claim) **Blake Neff** (via quoted speech): ["Mikey called Erika and then immediately called his dad Rob McCoy sayin..."](/statements/statement-03a81f579a0f.md)
+  - Also about: [Mikey McCoy](/entities/person-mikey-mccoy.md)
+
+- [00:27:24](/episodes/ep-es7PWdFGoFI.md#t-00-26-38) (Claim) **Candace Owens**: ["Mikey three-wayed Erika Kirk three minutes after the shot went off, th..."](/statements/statement-ce698028ec88.md)
+  - Also about: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 

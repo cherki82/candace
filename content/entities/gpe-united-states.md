@@ -2321,10 +2321,16 @@ _Type: Places_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States (5)</strong></summary>
+<summary><strong class="section-title">Statements about United States (7)</strong></summary>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (3)</summary>
+
+- [01:12:34](/episodes/ep-es7PWdFGoFI.md#t-01-12-31) (Claim) **Candace Owens**: ["Qatar said they work with Hamas because Israel and the US asked them t..."](/statements/statement-f49618df9e54.md)
+  - Also about: [Qatar](/entities/gpe-qatar.md), [Israel](/entities/gpe-israel.md), [Hamas](/entities/org-hamas.md)
+
+- [01:12:54](/episodes/ep-es7PWdFGoFI.md#t-01-12-31) (Claim) **Candace Owens** (via paraphrase): ["Qatar recently said they work with Hamas because Israel and the United..."](/statements/statement-e85ac201b956.md)
+  - Also about: [Qatar](/entities/gpe-qatar.md), [Hamas](/entities/org-hamas.md), [Israel](/entities/gpe-israel.md)
 
 - [01:13:14](/episodes/ep-es7PWdFGoFI.md#t-01-12-31) (Claim) **Candace Owens** (via paraphrase): ["Qatar recently came out and said we work with Hamas because Israel and..."](/statements/statement-37092c5c9482.md)
   - Also about: [Qatar](/entities/gpe-qatar.md), [Hamas](/entities/org-hamas.md), [Israel](/entities/gpe-israel.md)

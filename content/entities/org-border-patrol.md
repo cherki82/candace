@@ -56,3 +56,15 @@ _Type: Organizations_
 _No relationships extracted yet._
 
 </details>
+
+<details open>
+<summary><strong class="section-title">Statements about Border Patrol (1)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
+
+- [00:30:41](/episodes/ep-ewBzjVe3LNQ.md#t-00-30-27) (Accusation) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["An American lieutenant colonel was posed in a photo on the Mexican sid..."](/statements/statement-630dfb08f6c5.md)
+
+</details>
+
+</details>

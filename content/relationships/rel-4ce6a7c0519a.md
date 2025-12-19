@@ -1,0 +1,23 @@
+---
+title: "Mitch interviewed by Candace Owens"
+description: "Evidence for the relationship: Mitch interviewed by Candace Owens"
+relationship_id: "rel-4ce6a7c0519a"
+subject: "person-mitch-fort-huachuca-witness"
+predicate: "interviewed by"
+object: "person-candace-owens"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Mitch](/entities/person-mitch-fort-huachuca-witness) interviewed by [Candace Owens](/entities/person-candace-owens)
+
+### Evidence (1 mentions)
+
+**[EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ)**
+
+- [01:00:00](/episodes/ep-ewBzjVe3LNQ#t-01-00-00): _Okay, everyone, happy Thursday...Welcome back to Candice...we are going to bring on, and this is his new name, Mitch._
+
+### Related
+
+- [Mitch](/entities/person-mitch-fort-huachuca-witness)
+- [Candace Owens](/entities/person-candace-owens)

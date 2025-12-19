@@ -1,6 +1,6 @@
 ---
 title: "Preborn"
-description: "Preborn (Organizations) - 82 mentions"
+description: "Preborn (Organizations) - 90 mentions"
 id: "org-preborn"
 type: "ORG"
 ---
@@ -11,6 +11,35 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (8 mentions)</summary>
+
+**[00:20:44](/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-00-20-44)**
+> "Through our partnership with Preborn, we can help save babies and support mothers in need."
+
+**[00:20:39](/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-00-20-04)**
+> "Through our partnership with Preborn, we can help save babies and support mothers in n..."
+
+**[00:20:44](/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-00-20-44)**
+> "Everyday Preborn's clinics rescue hundreds of babies because when a ..."
+
+**[00:21:05](/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-00-20-44)**
+> "If you've heard about Preborn before, but you've not yet taken action, there is..."
+
+**[00:21:19](/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-00-20-44)**
+> "head to preborn.com slash Candace to give."
+
+**[00:21:22](/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-00-20-44)**
+> "Again, that's preborn.com slash Candace."
+
+**[01:12:29](/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-01-11-59)**
+> "I would like to help with Preborn."
+
+**[01:12:35](/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-01-11-59)**
+> "Please reach out to Preborn."
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (6 mentions)</summary>

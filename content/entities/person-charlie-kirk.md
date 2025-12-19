@@ -1,6 +1,6 @@
 ---
 title: "Charlie Kirk"
-description: "Charlie Kirk (People) - 2605 mentions"
+description: "Charlie Kirk (People) - 2623 mentions"
 id: "person-charlie-kirk"
 type: "PERSON"
 aliases:
@@ -15,6 +15,65 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (18 mentions)</summary>
+
+**[00:01:36](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-00-01-21)**
+> "He asked me specifically if I saw black plastic fragmentation over the floor of Charlie's SUV."
+
+**[00:01:32](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-00-01-21)**
+> "...agmentation over the floor of Charlie's SUV."
+
+**[00:01:46](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-00-01-21)**
+> "... went through those photos of Charlie's SUV, I said to my team that it looked like there ..."
+
+**[00:02:30](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-00-02-01)**
+> "...dence that something broke on Charlie?"
+
+**[00:04:13](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-00-04-13)**
+> "...firmed or even suggested that Charlie was shot with a 30-odd-6 or that Charlie had a st..."
+
+**[00:04:13](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-00-04-13)**
+> "... shot with a 30-odd-6 or that Charlie had a steel neck that stopped that bullet."
+
+**[00:06:03](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-00-05-35)**
+> "...mera that was directly behind Charlie's head."
+
+**[00:06:18](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-00-06-18)**
+> "...his story that a 30-odd-6 hit Charlie Kirk and what debunked that obviously would be seeing ..."
+
+**[00:06:40](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-00-06-18)**
+> "...estigating what happened with Charlie Kirk."
+
+**[00:07:05](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-00-06-59)**
+> "...ck in there to make sure that Charlie could get cleaned up before Erica came in."
+
+**[00:07:29](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-00-06-59)**
+> "...ave that the vehicle in which Charlie was transported to Timpanagos or Timpanagos Hospi..."
+
+**[00:17:26](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-00-17-22)**
+> "...ing the situation unfold with Charlie Kirk and learning that some of his most trusted people..."
+
+**[00:54:39](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-00-54-39)**
+> "...u know, we got the news about Charlie Kirk."
+
+**[00:55:12](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-00-54-39)**
+> "I could recognize Charlie Kirk probably."
+
+**[01:11:26](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-01-11-14)**
+> "I still cannot believe that Charlie is not among us, but thank you for trying to find..."
+
+**[01:11:52](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-01-11-14)**
+> "...would be the very people that Charlie fought for."
+
+**[01:12:09](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-01-11-59)**
+> "I want to know who killed Charlie Kirk."
+
+**[01:12:56](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-01-12-40)**
+> "...o care about what happened to Charlie and the easiest thing is to demand truth and inst..."
+
+</details>
 
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (93 mentions)</summary>
@@ -8779,32 +8838,154 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk (347)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk (393)</strong></summary>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (8)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (15)</summary>
+
+- [00:04:24](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-13) (Claim) **Candace Owens**: ["The surgeon suggested that maybe a frangible bullet was used"](/statements/statement-a518f398d3d0.md)
+
+- [00:04:31](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-13) (Claim) **Candace Owens**: ["The lone confirmed eyewitness to the alleged shooter on Losey Center r..."](/statements/statement-199870b8483a.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:05:01](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-54) (Claim) **Candace Owens**: ["The eyewitness is an instructor at a gun range and claims the weapon l..."](/statements/statement-81097a0aae98.md)
+
+- [00:05:13](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-54) (Claim) **Candace Owens**: ["The person the eyewitness observed was wearing what seemed to be black..."](/statements/statement-3a53d2d0940f.md)
+
+- [00:05:22](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-54) (Claim) **Candace Owens**: ["The bomb dogs were unable to locate the weapon in the field where it w..."](/statements/statement-7a001609cde2.md)
+
+- [00:05:45](/episodes/ep-ewBzjVe3LNQ.md#t-00-05-35) (Claim) **Candace Owens**: ["Federal agents directed local officers to the weapon"](/statements/statement-3870e1bb19e0.md)
+
+- [00:05:55](/episodes/ep-ewBzjVe3LNQ.md#t-00-05-35) (Claim) **Candace Owens**: ["The canines were not provided with the scent of the weapon once it was..."](/statements/statement-ffd221e7e6e8.md)
+
+- [00:06:23](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-18) (Accusation) **Candace Owens**: ["Terrell Farnsworth raced to remove the camera that was directly behind..."](/statements/statement-353e6ec031d3.md)
+  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
+- [00:06:45](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-18) (Opinion) **Candace Owens**: ["I believe that there are some people that are engaged in a cover up"](/statements/statement-8ee5524d6a2e.md)
+
+- [00:06:59](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-18) (Claim) **Candace Owens**: ["Federal agents prevented the surgeon from returning to his operating r..."](/statements/statement-c9c6d1770128.md)
+
+- [00:07:23](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-59) (Claim) **Candace Owens**: ["Federal agents removed the hospital surveillance footage"](/statements/statement-8065fbf20c43.md)
+
+- [00:07:37](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-59) (Claim) **Candace Owens**: ["The vehicle in which Charlie was transported to Timpanagos Hospital wa..."](/statements/statement-f735a938fa9c.md)
+
+- [00:07:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-07-39) (Claim) **Candace Owens**: ["There were multiple sets of prints on the weapon that was found"](/statements/statement-0867f9d570cd.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:17:25](/episodes/ep-ewBzjVe3LNQ.md#t-00-17-22) (Accusation) **Candace Owens**: ["Some of Charlie Kirk's most trusted people may have been trained opera..."](/statements/statement-b133fdbae13d.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [01:11:45](/episodes/ep-ewBzjVe3LNQ.md#t-01-11-14) (Opinion) **Candace Owens**: ["I do believe that our government was involved in this and is involved ..."](/statements/statement-69914990950d.md)
+  - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</details>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (39)</summary>
 
 - [00:05:52](/episodes/ep-es7PWdFGoFI.md#t-00-05-30) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk said on Glenn Beck's show that she had Charlie's phone and ..."](/statements/statement-14d3ddbacf08.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Glenn Beck](/entities/person-glenn-beck.md)
 
+- [00:05:53](/episodes/ep-es7PWdFGoFI.md#t-00-05-30) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk said on Glenn Beck's show that she had Charlie Kirk's phone..."](/statements/statement-53b2376e0b78.md)
+
 - [00:06:19](/episodes/ep-es7PWdFGoFI.md#t-00-06-11) (Claim) **Candace Owens**: ["Andrew Kolvet told me specifically that he was one of the people that ..."](/statements/statement-7847a11548fc.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+- [00:06:29](/episodes/ep-es7PWdFGoFI.md#t-00-06-11) (Claim) **Andrew Kolvet** (via quoted speech): ["Andrew Kolvet told Candace that he was one of the people who received ..."](/statements/statement-dc76fa8f427b.md)
 
 - [00:06:40](/episodes/ep-es7PWdFGoFI.md#t-00-06-11) (Claim) **Anonymous Source #1 (Ep es7PWdFGoFI)** (via read message): ["Dan Flood received a text message from Charlie Kirk the night before t..."](/statements/statement-f4a80abe9a39.md)
   - Also about: [Dan Flood](/entities/person-dan-flood.md)
 
+- [00:06:40](/episodes/ep-es7PWdFGoFI.md#t-00-06-11) (Claim) **Candace Owens**: ["Dan Flood received a text message from Charlie Kirk the night before t..."](/statements/statement-044a9c84bf6d.md)
+  - Also about: [Dan Flood](/entities/person-dan-flood.md)
+
+- [00:06:55](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) (Claim) **Candace Owens**: ["Charlie Kirk sent text messages the night before his death saying they..."](/statements/statement-6ed250414edc.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Dan Flood](/entities/person-dan-flood.md)
+
 - [00:07:00](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) (Claim) **Erika Kirk**: ["Charlie Kirk sent text messages the night before his assassination to ..."](/statements/statement-1573e3db29b1.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Dan Flood](/entities/person-dan-flood.md)
+
+- [00:07:01](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk had Charlie Kirk's phone and was looking at his iMessages b..."](/statements/statement-103173d3a593.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:07:02](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) (Claim) **Candace Owens**: ["Andrew Kolvet received a message the night before Charlie Kirk was sho..."](/statements/statement-812a8acabfee.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+- [00:07:02](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) (Claim) **Erika Kirk** (via quoted speech): ["Charlie Kirk communicates on Signal and Telegram in addition to iMessa..."](/statements/statement-1ebbaa949edf.md)
+
+- [00:07:07](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) (Claim) **Candace Owens** (via paraphrase): ["Dan Flood received a message the night before saying 'the left is goin..."](/statements/statement-3e07e4f778ff.md)
+  - Also about: [Dan Flood](/entities/person-dan-flood.md)
+
+- [00:07:07](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) (Claim) **Erika Kirk** (via quoted speech): ["The text message Dan Flood received from Charlie Kirk said 'the left i..."](/statements/statement-bedb25b72a1b.md)
+  - Also about: [Dan Flood](/entities/person-dan-flood.md)
+
+- [00:13:25](/episodes/ep-es7PWdFGoFI.md#t-00-12-42) (Claim) **Anonymous Source #2 (Ep es7PWdFGoFI)** (via quoted tweet): ["Charlie Kirk's bone was so healthy and the density was so impressive t..."](/statements/statement-1caa47536d8b.md)
+
+- [00:13:25](/episodes/ep-es7PWdFGoFI.md#t-00-12-42) (Claim) **Andrew Kolvet** (via quoted tweet): ["Andrew Kolvet posted on Twitter that he spoke with the surgeon who sai..."](/statements/statement-29b7a35a5f09.md)
 
 - [00:14:16](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) (Claim) **Erika Kirk**: ["Andrew Kolvet called the surgeon and wrote a tweet about Charlie Kirk'..."](/statements/statement-e1f8bf06b0d4.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
+- [00:18:51](/episodes/ep-es7PWdFGoFI.md#t-00-18-25) (Claim) **Candace Owens** (via paraphrase): ["The Turning Point USA lawyer said they will not know what investigator..."](/statements/statement-8125e4eb74cc.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:19:06](/episodes/ep-es7PWdFGoFI.md#t-00-18-25) (Claim) **Candace Owens**: ["Turning Point USA has not seen anything regarding the Charlie Kirk sho..."](/statements/statement-de2ec01848e9.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:19:06](/episodes/ep-es7PWdFGoFI.md#t-00-18-25) (Claim) **Candace Owens** (via paraphrase): ["Turning Point USA has not seen anything that the public has not seen r..."](/statements/statement-7ed46851b1d3.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:20:30](/episodes/ep-es7PWdFGoFI.md#t-00-19-50) (Opinion) **Candace Owens**: ["I don't believe that Tyler Robinson pulled the trigger"](/statements/statement-c3a8afbf2c68.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:20:42](/episodes/ep-es7PWdFGoFI.md#t-00-20-30) (Opinion) **Candace Owens**: ["Tyler Robinson did not pull the trigger in the Charlie Kirk shooting"](/statements/statement-74fd764b1b2d.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:22:19](/episodes/ep-es7PWdFGoFI.md#t-00-21-57) (Claim) **Candace Owens**: ["Utah state investigators have not called the witness who filmed the pe..."](/statements/statement-469c4efa041f.md)
+
+- [00:22:47](/episodes/ep-es7PWdFGoFI.md#t-00-22-39) (Claim) **Candace Owens** (via paraphrase): ["The witness who filmed the person on the roof saw him crouch down at 1..."](/statements/statement-0447f6b20b53.md)
+
+- [00:22:58](/episodes/ep-es7PWdFGoFI.md#t-00-22-39) (Claim) **Candace Owens**: ["The witness who filmed the person on the roof trains people to shoot g..."](/statements/statement-7e79f2266198.md)
+
+- [00:30:34](/episodes/ep-es7PWdFGoFI.md#t-00-30-07) (Claim) **Candace Owens**: ["Seth Dillon pressed Charlie Kirk at the Hamptons retreat in a hypothet..."](/statements/statement-a1c5ecc4394f.md)
+  - Also about: [Seth Dillon](/entities/person-seth-dillon.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+- [00:30:59](/episodes/ep-es7PWdFGoFI.md#t-00-30-46) (Claim) **Candace Owens**: ["Seth Dillon pressed Charlie Kirk at the Hamptons event in a hypothetic..."](/statements/statement-3f92cbaa3000.md)
+  - Also about: [Seth Dillon](/entities/person-seth-dillon.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+- [00:31:31](/episodes/ep-es7PWdFGoFI.md#t-00-31-26) (Claim) **Candace Owens**: ["Andrew Kolvet told Candace verbatim that Bibi Netanyahu offered to tak..."](/statements/statement-7ebbb6970725.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:31:51](/episodes/ep-es7PWdFGoFI.md#t-00-31-26) (Claim) **Andrew Kolvet** (via quoted speech): ["Andrew Kolvet told Candace that Bibi Netanyahu offered to take Turning..."](/statements/statement-6b48d40529ea.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:32:36](/episodes/ep-es7PWdFGoFI.md#t-00-32-06) (Claim) **Candace Owens**: ["Bibi Netanyahu called Charlie Kirk and made an offer to fund Turning P..."](/statements/statement-2ccc048a4217.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
 - [00:43:01](/episodes/ep-es7PWdFGoFI.md#t-00-42-21) (Opinion) **Candace Owens**: ["I believe that Charlie Kirk was betrayed by people that are close to h..."](/statements/statement-4776345392e1.md)
+
+- [00:43:11](/episodes/ep-es7PWdFGoFI.md#t-00-43-01) (Opinion) **Candace Owens**: ["I believe that Charlie Kirk was betrayed by people that are close to h..."](/statements/statement-69f81f92b95e.md)
+
+- [00:43:11](/episodes/ep-es7PWdFGoFI.md#t-00-43-01) (Opinion) **Candace Owens**: ["Charlie Kirk was betrayed by people that are close to him"](/statements/statement-b777c31ed2d7.md)
 
 - [00:45:56](/episodes/ep-es7PWdFGoFI.md#t-00-45-54) (Accusation) **Candace Owens** (via paraphrase): ["Tim Pool claimed that Candace Owens has the same security as Charlie K..."](/statements/statement-89169c9f9eb3.md)
   - Also about: [Tim Pool](/entities/person-tim-pool.md), [Candace Owens](/entities/person-candace-owens.md)
 
+- [00:55:32](/episodes/ep-es7PWdFGoFI.md#t-00-55-15) (Claim) **Candace Owens**: ["George Zinn was arrested for claiming to be the shooter on the day of ..."](/statements/statement-5c86b3c214a4.md)
+  - Also about: [George Zinn](/entities/person-george-zinn.md)
+
+- [01:03:00](/episodes/ep-es7PWdFGoFI.md#t-01-02-44) (Opinion) **Candace Owens**: ["Candace believes Charlie Kirk was betrayed by people close to him"](/statements/statement-af51cba2e906.md)
+
+- [01:11:03](/episodes/ep-es7PWdFGoFI.md#t-01-10-18) (Claim) **Candace Owens**: ["Erika Kirk confirmed Charlie Kirk was going to mass and exploring Cath..."](/statements/statement-482759ddf3f8.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
 - [01:11:07](/episodes/ep-es7PWdFGoFI.md#t-01-11-03) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk confirmed that Charlie Kirk was going to Catholic mass"](/statements/statement-bdf5a422d4f3.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [01:11:07](/episodes/ep-es7PWdFGoFI.md#t-01-11-03) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk confirmed that Charlie Kirk was going to mass and exploring..."](/statements/statement-f112fb56df83.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [01:11:07](/episodes/ep-es7PWdFGoFI.md#t-01-11-03) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk confirmed that Charlie Kirk was exploring Catholicism and a..."](/statements/statement-b88f90ec5bc7.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>

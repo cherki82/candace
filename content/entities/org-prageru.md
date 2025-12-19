@@ -224,7 +224,18 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about PragerU (2)</strong></summary>
+<summary><strong class="section-title">Statements about PragerU (5)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (3)</summary>
+
+- [00:32:12](/episodes/ep-es7PWdFGoFI.md#t-00-32-06) (Accusation) **Candace Owens**: ["Some commentators attacking me are being paid by PR firms and many are..."](/statements/statement-0fd63e6a9fce.md)
+
+- [00:32:12](/episodes/ep-es7PWdFGoFI.md#t-00-32-06) (Accusation) **Candace Owens**: ["Some people attacking Candace are being paid by PR firms and too many ..."](/statements/statement-57aadf8c03fb.md)
+
+- [00:32:14](/episodes/ep-es7PWdFGoFI.md#t-00-32-06) (Accusation) **Candace Owens**: ["Some commentators attacking Candace are being paid by PR firms and Pra..."](/statements/statement-041fcb21ee95.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2)</summary>

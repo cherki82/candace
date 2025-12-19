@@ -589,12 +589,14 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Zionism (5)</strong></summary>
+<summary><strong class="section-title">Statements about Zionism (6)</strong></summary>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
 
 - [00:40:46](/episodes/ep-es7PWdFGoFI.md#t-00-40-38) (Opinion) **Candace Owens**: ["When you see a media storm like this, it can only be happening because..."](/statements/statement-0814c4a56d00.md)
+
+- [00:40:54](/episodes/ep-es7PWdFGoFI.md#t-00-40-38) (Opinion) **Candace Owens**: ["Zionists control the major media outlets"](/statements/statement-366296ffb10e.md)
 
 </details>
 

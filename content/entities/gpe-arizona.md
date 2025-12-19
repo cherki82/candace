@@ -1,6 +1,6 @@
 ---
 title: "Arizona"
-description: "Arizona (Places) - 45 mentions"
+description: "Arizona (Places) - 51 mentions"
 id: "gpe-arizona"
 type: "GPE"
 aliases:
@@ -15,6 +15,29 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (6 mentions)</summary>
+
+**[00:12:29](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-11-45)**
+> "But that is not what Fort Huachuca in Arizona is, okay?"
+
+**[00:12:13](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-11-45)**
+> "... is not what Fort Huachuca in Arizona is, okay?"
+
+**[00:30:50](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-30-27)**
+> "...s coming through the Douglas, Arizona area."
+
+**[00:33:20](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-33-13)**
+> "...d with a friend at, uh, NOCA, Arizona."
+
+**[00:59:29](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-58-54)**
+> "...fact that her mother moved to Arizona because she got involved with the military."
+
+**[01:12:31](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-01-11-59)**
+> "I'm in Arizona and I'm also an ultrasound tech."
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
@@ -247,12 +270,18 @@ _Type: Places_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Location Of (1)</summary>
+<summary>Location Of (3)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
   - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:21:19](/episodes/ep-c5BcKF91iec.md#t-00-21-00): "he was on the phone with the ops that were back in Arizona watching."
   - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:33:36](/episodes/ep-YA1FxrDWNIo.md#t-00-32-51): "feed it back instantly to Arizona."
   - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:01:25](/episodes/ep-ZAuuSq_j2_w.md#t-00-00-43): "I wanna know what is happening over there in Arizona."
+
+- **[Fort Huachuca](/entities/gpe-fort-huachuca.md)**
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:29](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28): "Fort Huachuca in Arizona is, okay? It is a hub for intelligence training."
+
+- **[Sierra Vista](/entities/gpe-sierra-vista.md)**
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:13:02](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28): "person who grew up and lives just outside of the base in in Sierra Vista."
 
 </details>
 
@@ -265,14 +294,34 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** based in this
   - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:21:19](/episodes/ep-c5BcKF91iec.md#t-00-21-00)
   - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:33:36](/episodes/ep-YA1FxrDWNIo.md#t-00-32-51)
 
+- **[Fort Huachuca](/entities/gpe-fort-huachuca.md)** based in this
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:29](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28)
+
+- **[Sierra Vista](/entities/gpe-sierra-vista.md)** based in this
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:13:02](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28)
+
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** lives in this
   - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:06:20](/episodes/ep-LATnak75Si0.md#t-00-05-38)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Arizona (2)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2)</summary>
+
+- [00:29:11](/episodes/ep-ewBzjVe3LNQ.md#t-00-28-27) (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["We discovered underground tunnel signals that were subterranean, and w..."](/statements/statement-54e2de6e1ea2.md)
+
+- [00:31:03](/episodes/ep-ewBzjVe3LNQ.md#t-00-30-27) (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["60 to 80% of the cocaine was coming through the Douglas, Arizona area"](/statements/statement-5887c78eaa89.md)
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Josh Hammer"
-description: "Josh Hammer (People) - 132 mentions"
+description: "Josh Hammer (People) - 135 mentions"
 id: "person-josh-hammer"
 type: "PERSON"
 aliases:
@@ -16,6 +16,20 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (3 mentions)</summary>
+
+**[00:10:32](/episodes/ep-ewBzjVe3LNQ.md#ent-person-josh-hammer-t-00-10-25)**
+> "Josh Hammer is amazing."
+
+**[00:10:50](/episodes/ep-ewBzjVe3LNQ.md#ent-person-josh-hammer-t-00-10-25)**
+> "Josh Hammer is amazing."
+
+**[01:12:56](/episodes/ep-ewBzjVe3LNQ.md#ent-person-josh-hammer-t-01-12-40)**
+> "...hey're protecting people like Josh Hammer."
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (9 mentions)</summary>
@@ -541,6 +555,14 @@ _Type: People_
 </details>
 
 <details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:10:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-10-25): "God doesn't want you to follow Tucker Carlson on Instagram. Josh Hammer is amazing. Candace is possessed by a demon."
+
+</details>
+
+<details>
 <summary>Debated (1)</summary>
 
 - **[Dave Smith](/entities/person-dave-smith.md)**
@@ -577,7 +599,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Referenced By (10)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:10:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-10-25)
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** criticized by this
   - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58)
@@ -659,7 +684,14 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Josh Hammer (26)</strong></summary>
+<summary><strong class="section-title">Statements about Josh Hammer (27)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
+
+- [01:13:08](/episodes/ep-ewBzjVe3LNQ.md#t-01-12-40) (Accusation) **Candace Owens**: ["Josh Hammer lied and people are going out of their way to protect him"](/statements/statement-efaab0fb4d52.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (4)</summary>

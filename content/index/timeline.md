@@ -2,7 +2,7 @@
 title: "Timeline"
 ---
 
-_Total events: 526_
+_Total events: 532_
 
 > **Note:** Events and dates are extracted automatically using AI. Some dates may be approximate or inferred from context.
 
@@ -74,9 +74,9 @@ _Total events: 526_
 <input type="radio" id="tab-historical" name="timeline-tab" class="tab-radio">
 
 <div class="tab-controls">
-  <label for="tab-2025" class="tab-btn">2025 (385)</label>
+  <label for="tab-2025" class="tab-btn">2025 (388)</label>
   <label for="tab-2024" class="tab-btn">2024 (43)</label>
-  <label for="tab-historical" class="tab-btn">Historical (98)</label>
+  <label for="tab-historical" class="tab-btn">Historical (101)</label>
 </div>
 
 <div class="tab-content tab-content-2025">
@@ -20301,6 +20301,21 @@ _Total events: 526_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-09-alleged-meeting-witnessed-at-fort-huachu">
+<div class="timeline-date">2025-09-09</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-09-alleged-meeting-witnessed-at-fort-huachu.md">Alleged meeting witnessed at Fort Huachuca on morning before Charlie Kirk assassination</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09: Alleged meeting witnessed at Fort Huachuca on morning before Charlie Kirk assassination - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachu... @ 00:19:21](/episodes/ep-ewBzjVe3LNQ.md#t-00-19-20)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-08-charlie-kirk-loses-2-million-donor-pledge-over-tuc">
 <div class="timeline-date">2025-09-08</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-08-charlie-kirk-loses-2-million-donor-pledge-over-tuc.md">Charlie Kirk loses $2 million donor pledge over Tucker Carlson invite</a></div>
@@ -20997,6 +21012,21 @@ _Total events: 526_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theor... @ 00:38:28](/episodes/ep-6DhWawD4ZiM.md#t-00-38-07)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-08-witness-mitch-arrives-at-fort-huachuca-a">
+<div class="timeline-date">2025-09-08</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-08-witness-mitch-arrives-at-fort-huachuca-a.md">Witness (Mitch) arrives at Fort Huachuca and checks into Candlewood Inn and Suites</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08: Witness (Mitch) arrives at Fort Huachuca and checks into Candlewood Inn and Suites - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachu... @ 00:37:31](/episodes/ep-ewBzjVe3LNQ.md#t-00-37-30)
 
 </details>
 </div>
@@ -28058,6 +28088,21 @@ _Total events: 526_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-05-01-witness-mitch-35-year-military-nda-expir">
+<div class="timeline-date">2025-05-01</div>
+<div class="timeline-desc"><a href="/events/event-2025-05-01-witness-mitch-35-year-military-nda-expir.md">Witness (Mitch) 35-year military NDA expires after covert counter-cartel operations</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-05-01: Witness (Mitch) 35-year military NDA expires after covert counter-cartel operations - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachu... @ 00:36:39](/episodes/ep-ewBzjVe3LNQ.md#t-00-36-05)
+
+</details>
+</div>
+
 **February**
 
 <div class="timeline-event filter-item" id="event-2025-02-26-donald-trump-calls-candace-owens-to-stop-brigitte">
@@ -30432,6 +30477,7 @@ _Total events: 526_
 <a href="#year-2010">2010</a>
 <a href="#year-2013">2013</a>
 <a href="#year-2014">2014</a>
+<a href="#year-2015">2015</a>
 <a href="#year-2017">2017</a>
 <a href="#year-2018">2018</a>
 <a href="#year-2019">2019</a>
@@ -30818,6 +30864,21 @@ _Total events: 526_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:13:29](/episodes/ep-t4U7NjnUEgc.md#t-00-13-08)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-1990-01-01-witness-mitch-signs-35-year-nda-regardin">
+<div class="timeline-date">1990-01-01</div>
+<div class="timeline-desc"><a href="/events/event-1990-01-01-witness-mitch-signs-35-year-nda-regardin.md">Witness (Mitch) signs 35-year NDA regarding covert counter-cartel operations at Fort Huachuca</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1990-01-01: Witness (Mitch) signs 35-year NDA regarding covert counter-cartel operations at Fort Huachuca - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachu... @ 00:36:32](/episodes/ep-ewBzjVe3LNQ.md#t-00-36-05)
 
 </details>
 </div>
@@ -31250,6 +31311,23 @@ _Total events: 526_
 </details>
 </div>
 
+**May**
+
+<div class="timeline-event filter-item" id="event-2013-05-01-two-recently-baptized-christians-open-gy">
+<div class="timeline-date">2013-05-01</div>
+<div class="timeline-desc"><a href="/events/event-2013-05-01-two-recently-baptized-christians-open-gy.md">Two recently baptized Christians open gym in Sierra Vista near Fort Huachuca</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2013-05-01: Two recently baptized Christians open gym in Sierra Vista near Fort Huachuca - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachu... @ 00:13:10](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28)
+
+</details>
+</div>
+
 
 <h2 id="year-2014">2014</h2>
 
@@ -31266,6 +31344,26 @@ _Total events: 526_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Woah: It Was Erika Kirk Who Called For TPUSA To... @ 00:18:12](/episodes/ep-DqGNvi36ol8.md#t-00-17-32)
+
+</details>
+</div>
+
+
+<h2 id="year-2015">2015</h2>
+
+**January**
+
+<div class="timeline-event filter-item" id="event-2015-01-01-sierra-vista-gym-forced-to-relocate-and-">
+<div class="timeline-date">2015-01-01</div>
+<div class="timeline-desc"><a href="/events/event-2015-01-01-sierra-vista-gym-forced-to-relocate-and-.md">Sierra Vista gym forced to relocate and downsize after alleged hostile takeover by military-connected couple</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2015-01-01: Sierra Vista gym forced to relocate and downsize after alleged hostile takeover by military-connected couple - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachu... @ 00:14:39](/episodes/ep-ewBzjVe3LNQ.md#t-00-13-57)
 
 </details>
 </div>

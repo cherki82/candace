@@ -243,3 +243,16 @@ _Type: People_
 </details>
 
 </details>
+
+<details open>
+<summary><strong class="section-title">Statements about Alex Clark (1)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
+
+- [00:05:02](/episodes/ep-es7PWdFGoFI.md#t-00-04-52) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk did not give any person the authority to say that the Catho..."](/statements/statement-6504abed6bbe.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+</details>
+
+</details>

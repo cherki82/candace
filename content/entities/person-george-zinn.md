@@ -243,7 +243,22 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about George Zinn (8)</strong></summary>
+<summary><strong class="section-title">Statements about George Zinn (12)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (4)</summary>
+
+- [00:55:32](/episodes/ep-es7PWdFGoFI.md#t-00-55-15) (Claim) **Candace Owens**: ["George Zinn was arrested for claiming to be the shooter on the day of ..."](/statements/statement-5c86b3c214a4.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:56:46](/episodes/ep-es7PWdFGoFI.md#t-00-56-34) (Claim) **Candace Owens**: ["George Zinn told nurses at Utah Valley Hospital he was paid to falsely..."](/statements/statement-67b910caa0a7.md)
+  - Also about: [Utah Valley Hospital](/entities/org-utah-valley-hospital.md)
+
+- [00:56:47](/episodes/ep-es7PWdFGoFI.md#t-00-56-34) (Claim) **Candace Owens**: ["George Zinn told nurses at Utah Valley Hospital that he was paid to fa..."](/statements/statement-a1f8c2ec0450.md)
+
+- [00:56:47](/episodes/ep-es7PWdFGoFI.md#t-00-56-34) (Claim) **Candace Owens** (via paraphrase): ["Nurses at Utah Valley Hospital were told by George Zinn that he was pa..."](/statements/statement-db0b952250b7.md)
+
+</details>
 
 <details>
 <summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Candace Owens"
-description: "Candace Owens (People) - 979 mentions"
+description: "Candace Owens (People) - 997 mentions"
 id: "person-candace-owens"
 type: "PERSON"
 aliases:
@@ -17,6 +17,65 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (18 mentions)</summary>
+
+**[00:10:38](/episodes/ep-ewBzjVe3LNQ.md#ent-person-candace-owens-t-00-10-25)**
+> "Candace is possessed by a demon."
+
+**[00:01:00](/episodes/ep-ewBzjVe3LNQ.md#ent-person-candace-owens-t-00-00-41)**
+> "Welcome back to Candice."
+
+**[00:10:52](/episodes/ep-ewBzjVe3LNQ.md#ent-person-candace-owens-t-00-10-25)**
+> "Candace is possessed by a demon."
+
+**[00:10:53](/episodes/ep-ewBzjVe3LNQ.md#ent-person-candace-owens-t-00-10-25)**
+> "...w Tucker Carlson and unfollow Candace."
+
+**[00:11:00](/episodes/ep-ewBzjVe3LNQ.md#ent-person-candace-owens-t-00-10-25)**
+> "Candace is just crazy."
+
+**[00:21:19](/episodes/ep-ewBzjVe3LNQ.md#ent-person-candace-owens-t-00-20-44)**
+> "head to preborn.com slash Candace to give."
+
+**[00:21:22](/episodes/ep-ewBzjVe3LNQ.md#ent-person-candace-owens-t-00-20-44)**
+> "...ain, that's preborn.com slash Candace."
+
+**[00:22:17](/episodes/ep-ewBzjVe3LNQ.md#ent-person-candace-owens-t-00-22-11)**
+> "... now by heading to TWC.health.candice and be sure to use code CANDICE to save up to $45..."
+
+**[00:22:17](/episodes/ep-ewBzjVe3LNQ.md#ent-person-candace-owens-t-00-22-11)**
+> "...ndice and be sure to use code CANDICE to save up to $45 off plus free shipping."
+
+**[00:22:26](/episodes/ep-ewBzjVe3LNQ.md#ent-person-candace-owens-t-00-22-11)**
+> "That's twc.health slash Candice and use code Candice at checkout."
+
+**[00:22:26](/episodes/ep-ewBzjVe3LNQ.md#ent-person-candace-owens-t-00-22-11)**
+> "...th slash Candice and use code Candice at checkout."
+
+**[00:23:39](/episodes/ep-ewBzjVe3LNQ.md#ent-person-candace-owens-t-00-23-39)**
+> "...1000 or visit tnusa.com slash Candace for your free discovery call with Tax Network USA..."
+
+**[00:23:48](/episodes/ep-ewBzjVe3LNQ.md#ent-person-candace-owens-t-00-23-39)**
+> "Again, that's tnusa.com slash Candace."
+
+**[00:25:34](/episodes/ep-ewBzjVe3LNQ.md#ent-person-candace-owens-t-00-25-09)**
+> "It's wonderful to be here, Candice."
+
+**[01:07:53](/episodes/ep-ewBzjVe3LNQ.md#ent-person-candace-owens-t-01-07-37)**
+> "Thank you, Candice."
+
+**[01:10:55](/episodes/ep-ewBzjVe3LNQ.md#ent-person-candace-owens-t-01-10-31)**
+> "...st as much as we stand behind Candice."
+
+**[01:11:23](/episodes/ep-ewBzjVe3LNQ.md#ent-person-candace-owens-t-01-11-14)**
+> "Madeline writes, thank you, Candice, for keeping me sane these last hundred or so day..."
+
+**[01:14:30](/episodes/ep-ewBzjVe3LNQ.md#ent-person-candace-owens-t-01-13-59)**
+> "...that you are on track, go Max Candice."
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (28 mentions)</summary>
@@ -3198,7 +3257,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Criticized (5)</summary>
+<summary>Criticized (8)</summary>
 
 - **[Nate Brooksby](/entities/person-nate-brooksby.md)**
   - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:17:09](/episodes/ep-ZGxnf5cj4Uw.md#t-00-16-40): "Brooksby, I don't like the way he's moving, I don't like the way Nate Brooksby is breathing."
@@ -3215,6 +3274,15 @@ _Type: People_
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
   - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-29): "I'm sorry, but that whole thing right there is frustrating"
+
+- **[Rob McCoy](/entities/person-rob-mccoy.md)**
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:10:17](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-42): "the preferences of Rob McCoy who makes my skin crawl. We showed you that interview that he did with somebody who apparently went on a rampage. He actually went to prison for it and he was just sort of laundering his reputation and then gave him access again to children."
+
+- **[Josh Hammer](/entities/person-josh-hammer.md)**
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:10:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-10-25): "God doesn't want you to follow Tucker Carlson on Instagram. Josh Hammer is amazing. Candace is possessed by a demon."
+
+- **[Bari Weiss](/entities/person-bari-weiss.md)**
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:24:22](/episodes/ep-ewBzjVe3LNQ.md#t-00-23-39): "obviously Barry Weiss is one of these actors. This is clearly an act. You obviously are not intelligent. You obviously are not some journalist that works their way up and broke some important stories. You are obviously an intelligence op and not so intelligent op."
 
 </details>
 
@@ -3422,7 +3490,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Interviewed (10)</summary>
+<summary>Interviewed (11)</summary>
 
 - **[Xavier Poussard](/entities/person-xavier-poussard.md)**
   - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:10:31](/episodes/ep-sImMM04XdWY.md#t-00-10-19): "on December 21st, I interview Xavier Poussard in London."
@@ -3462,6 +3530,9 @@ _Type: People_
 
 - **[Ian Carroll](/entities/person-ian-carroll.md)**
   - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:13:50](/episodes/ep-c5BcKF91iec.md#t-00-13-24): "And as Ian Carroll said when I had him on my show, the truth doesn't need to be repeated over and over again."
+
+- **[Mitch](/entities/person-mitch-fort-huachuca-witness.md)**
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:00:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-59-39): "Okay, everyone, happy Thursday...Welcome back to Candice...we are going to bring on, and this is his new name, Mitch."
 
 </details>
 
@@ -3588,10 +3659,11 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (78)</summary>
+<summary>Referenced By (82)</summary>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)** accused by this
   - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:21:21](/episodes/ep-es7PWdFGoFI.md#t-00-21-13)
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:03:59](/episodes/ep-ewBzjVe3LNQ.md#t-00-03-30)
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** appeared with this
   - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:09](/episodes/ep-yAIb-NuUh_U.md#t-00-00-01)
@@ -3684,6 +3756,15 @@ _Type: People_
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** criticized by this
   - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-29)
+
+- **[Rob McCoy](/entities/person-rob-mccoy.md)** criticized by this
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:10:17](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-42)
+
+- **[Josh Hammer](/entities/person-josh-hammer.md)** criticized by this
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:10:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-10-25)
+
+- **[Bari Weiss](/entities/person-bari-weiss.md)** criticized by this
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:24:22](/episodes/ep-ewBzjVe3LNQ.md#t-00-23-39)
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)** defended this
   - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:09:40](/episodes/ep-MUA9ebCF4Ow.md#t-00-09-38)
@@ -3809,6 +3890,9 @@ _Type: People_
 - **[Ian Carroll](/entities/person-ian-carroll.md)** interviewed by this
   - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:13:50](/episodes/ep-c5BcKF91iec.md#t-00-13-24)
 
+- **[Mitch](/entities/person-mitch-fort-huachuca-witness.md)** interviewed by this
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:00:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-59-39)
+
 - **[Brigitte Macron](/entities/person-brigitte-macron.md)** investigated by this
   - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:14:06](/episodes/ep-ozWJz2spBcI.md#t-00-13-44)
 
@@ -3848,16 +3932,108 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Candace Owens (909)</strong></summary>
+<summary><strong class="section-title">Statements by Candace Owens (1034)</strong></summary>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (23)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (24)</summary>
+
+- [00:04:24](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-13) [○] (Claim) ["The surgeon suggested that maybe a frangible bullet was used"](/statements/statement-a518f398d3d0.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:04:31](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-13) [○] (Claim) ["The lone confirmed eyewitness to the alleged shooter on Losey Center rooftop has..."](/statements/statement-199870b8483a.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:05:01](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-54) [○] (Claim) ["The eyewitness is an instructor at a gun range and claims the weapon looked more..."](/statements/statement-81097a0aae98.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:05:13](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-54) [○] (Claim) ["The person the eyewitness observed was wearing what seemed to be black tactical ..."](/statements/statement-3a53d2d0940f.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:05:22](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-54) [○] (Claim) ["The bomb dogs were unable to locate the weapon in the field where it was eventua..."](/statements/statement-7a001609cde2.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:05:45](/episodes/ep-ewBzjVe3LNQ.md#t-00-05-35) [○] (Claim) ["Federal agents directed local officers to the weapon"](/statements/statement-3870e1bb19e0.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:05:55](/episodes/ep-ewBzjVe3LNQ.md#t-00-05-35) [○] (Claim) ["The canines were not provided with the scent of the weapon once it was discovere..."](/statements/statement-ffd221e7e6e8.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:06:23](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-18) [○] (Accusation) ["Terrell Farnsworth raced to remove the camera that was directly behind Charlie's..."](/statements/statement-353e6ec031d3.md)
+  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:06:45](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-18) [○] (Opinion) ["I believe that there are some people that are engaged in a cover up"](/statements/statement-8ee5524d6a2e.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:06:59](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-18) [○] (Claim) ["Federal agents prevented the surgeon from returning to his operating room"](/statements/statement-c9c6d1770128.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:07:23](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-59) [○] (Claim) ["Federal agents removed the hospital surveillance footage"](/statements/statement-8065fbf20c43.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:07:37](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-59) [○] (Claim) ["The vehicle in which Charlie was transported to Timpanagos Hospital was not impo..."](/statements/statement-f735a938fa9c.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:07:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-07-39) [○] (Claim) ["There were multiple sets of prints on the weapon that was found"](/statements/statement-0867f9d570cd.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:08:08](/episodes/ep-ewBzjVe3LNQ.md#t-00-07-39) [○] (Claim) ["The footage of Tyler Robinson turning himself in is apparently missing"](/statements/statement-0a41ad054098.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:08:21](/episodes/ep-ewBzjVe3LNQ.md#t-00-07-39) [○] (Accusation) ["The entire story about how the parents turned him in and did the right thing is ..."](/statements/statement-2bb1432336be.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:08:36](/episodes/ep-ewBzjVe3LNQ.md#t-00-08-23) [○] (Claim) ["Police officers that were there when Tyler Robinson came into the police were to..."](/statements/statement-bcdd1626213b.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:12:16](/episodes/ep-ewBzjVe3LNQ.md#t-00-11-45) [○] (Claim) ["Fort Huachuca is an intelligence base, a hub for intelligence training where civ..."](/statements/statement-ad9042e7d3e0.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+- [00:17:25](/episodes/ep-ewBzjVe3LNQ.md#t-00-17-22) [○] (Accusation) ["Some of Charlie Kirk's most trusted people may have been trained operatives who ..."](/statements/statement-b133fdbae13d.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:18:16](/episodes/ep-ewBzjVe3LNQ.md#t-00-18-07) [○] (Opinion) ["Many of these pastors are behaving like operatives and many of these Christian i..."](/statements/statement-6fe56802c93b.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:24:25](/episodes/ep-ewBzjVe3LNQ.md#t-00-24-24) [○] (Accusation) ["Bari Weiss is obviously an intelligence op and not so intelligent op"](/statements/statement-3b78c7f81f57.md)
+  - About: [Bari Weiss](/entities/person-bari-weiss.md)
+
+- [00:32:50](/episodes/ep-ewBzjVe3LNQ.md#t-00-32-29) [○] (Opinion) ["The CIA was created to traffic"](/statements/statement-ede9d9bc7ca3.md)
+  - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+
+- [01:01:46](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-09) [○] (Opinion) ["Based on call sign analysis, there could be a chance that Kash Patel was the per..."](/statements/statement-b90aa7d83fb5.md)
+  - About: [Kash Patel](/entities/person-kash-patel.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+- [01:11:45](/episodes/ep-ewBzjVe3LNQ.md#t-01-11-14) [○] (Opinion) ["I do believe that our government was involved in this and is involved in the cov..."](/statements/statement-69914990950d.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [01:13:08](/episodes/ep-ewBzjVe3LNQ.md#t-01-12-40) [○] (Accusation) ["Josh Hammer lied and people are going out of their way to protect him"](/statements/statement-efaab0fb4d52.md)
+  - About: [Josh Hammer](/entities/person-josh-hammer.md)
+
+</details>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (124)</summary>
 
 - [00:02:04](/episodes/ep-es7PWdFGoFI.md#t-00-01-24) [○] (Claim) ["The meeting yesterday was four hours and 30 minutes with no rules. At the table ..."](/statements/statement-a00acb5ab7d2.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Justin Streiff](/entities/person-justin-streiff.md), [George Farmer](/entities/person-george-farmer.md)
 
+- [00:02:06](/episodes/ep-es7PWdFGoFI.md#t-00-02-04) [○] (Claim) ["The meeting with Erika Kirk and Justin Streiff lasted four hours and 30 minutes"](/statements/statement-42464183ec72.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Justin Streiff](/entities/person-justin-streiff.md)
+
+- [00:05:02](/episodes/ep-es7PWdFGoFI.md#t-00-04-52) [○] (Claim) ["Erika Kirk gave no person the authority to say that the Catholicism thing was a ..."](/statements/statement-9d9ef732addb.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:05:02](/episodes/ep-es7PWdFGoFI.md#t-00-04-52) [○] (Claim) ["Erika Kirk did not give any person the authority to say that the Catholic claim ..."](/statements/statement-6504abed6bbe.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Alex Clark](/entities/person-alex-clark.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
 - [00:05:07](/episodes/ep-es7PWdFGoFI.md#t-00-04-52) [○] (Claim) ["Erika Kirk immediately owned the lies, or rather miscommunications, that were co..."](/statements/statement-412e76ec76af.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:05:25](/episodes/ep-es7PWdFGoFI.md#t-00-04-52) [○] (Claim) ["Turning Point USA employs 650 people"](/statements/statement-f195c080c602.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:05:30](/episodes/ep-es7PWdFGoFI.md#t-00-04-52) [○] (Claim) ["Turning Point USA is a company with 650 people employed"](/statements/statement-0a5e06fd5b13.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:05:52](/episodes/ep-es7PWdFGoFI.md#t-00-05-30) [○] (Claim) ["Erika Kirk said on Glenn Beck's show that she had Charlie's phone and that Charl..."](/statements/statement-14d3ddbacf08.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Glenn Beck](/entities/person-glenn-beck.md)
@@ -3865,17 +4041,56 @@ _Type: People_
 - [00:06:19](/episodes/ep-es7PWdFGoFI.md#t-00-06-11) [○] (Claim) ["Andrew Kolvet told me specifically that he was one of the people that received t..."](/statements/statement-7847a11548fc.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
+- [00:06:40](/episodes/ep-es7PWdFGoFI.md#t-00-06-11) [○] (Claim) ["Dan Flood received a text message from Charlie Kirk the night before the shootin..."](/statements/statement-044a9c84bf6d.md)
+  - About: [Dan Flood](/entities/person-dan-flood.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:06:55](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) [○] (Claim) ["Charlie Kirk sent text messages the night before his death saying they were goin..."](/statements/statement-6ed250414edc.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Dan Flood](/entities/person-dan-flood.md)
+
+- [00:07:01](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) [○] (Claim) ["Erika Kirk had Charlie Kirk's phone and was looking at his iMessages but not Sig..."](/statements/statement-103173d3a593.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:07:02](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) [○] (Claim) ["Andrew Kolvet received a message the night before Charlie Kirk was shot saying '..."](/statements/statement-812a8acabfee.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:07:07](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) [○] (Claim) ["Dan Flood received a message the night before saying 'the left is going to kill ..."](/statements/statement-3e07e4f778ff.md)
+  - About: [Dan Flood](/entities/person-dan-flood.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
 - [00:08:16](/episodes/ep-es7PWdFGoFI.md#t-00-08-02) [○] (Claim) ["Erika Kirk said the reason she didn't ask Candace to stop investigating in the b..."](/statements/statement-1ec2922d6566.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
 
+- [00:08:16](/episodes/ep-es7PWdFGoFI.md#t-00-08-02) [○] (Claim) ["Erika Kirk was learning things from Candace's show, which is why she didn't ask ..."](/statements/statement-31d3e4a8c3f3.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
 - [00:09:01](/episodes/ep-es7PWdFGoFI.md#t-00-08-38) [○] (Claim) ["Bari Weiss picked the questions at the memorial event. It wasn't random people c..."](/statements/statement-fc7f09b3d7c0.md)
+  - About: [Bari Weiss](/entities/person-bari-weiss.md)
+
+- [00:09:07](/episodes/ep-es7PWdFGoFI.md#t-00-08-38) [○] (Accusation) ["Bari Weiss selected the questions asked at the event, they were not random"](/statements/statement-55296d507943.md)
   - About: [Bari Weiss](/entities/person-bari-weiss.md)
 
 - [00:09:10](/episodes/ep-es7PWdFGoFI.md#t-00-08-38) [○] (Claim) ["Erika Kirk said she knew the general idea that questions would mention Candace a..."](/statements/statement-7527781c70d7.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Bari Weiss](/entities/person-bari-weiss.md), [Candace Owens](/entities/person-candace-owens.md)
 
+- [00:09:20](/episodes/ep-es7PWdFGoFI.md#t-00-08-38) [○] (Claim) ["Erika Kirk was not given the specific question about 'the podcaster, Candice Owe..."](/statements/statement-99497234ff71.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Bari Weiss](/entities/person-bari-weiss.md)
+
+- [00:09:36](/episodes/ep-es7PWdFGoFI.md#t-00-09-22) [○] (Accusation) ["Terrell Farnsworth lied to Candace several times during their conversation"](/statements/statement-ff4096136dd6.md)
+  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
+- [00:09:43](/episodes/ep-es7PWdFGoFI.md#t-00-09-22) [○] (Accusation) ["Terrell Farnsworth lied to me several times"](/statements/statement-ce76e68e4f2e.md)
+  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
+- [00:10:09](/episodes/ep-es7PWdFGoFI.md#t-00-09-57) [○] (Claim) ["Terrell Farnsworth comes from a very powerful family"](/statements/statement-ee0cb639f94a.md)
+  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
+- [00:10:29](/episodes/ep-es7PWdFGoFI.md#t-00-09-57) [○] (Claim) ["Terrell Farnsworth comes from a very powerful family"](/statements/statement-5e824d1a247f.md)
+  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
 - [00:10:43](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) [○] (Accusation) ["Tyler Boyer lied and said Terrell was asked to take the camera down by police. T..."](/statements/statement-420d234f80d5.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
+- [00:10:43](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) [○] (Accusation) ["Tyler Boyer lied about why Terrell Farnsworth took the camera down"](/statements/statement-3ead32a1417d.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
 
 - [00:11:10](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) [○] (Opinion) ["I don't trust Tyler Boyer and that is never going to change"](/statements/statement-eb7483abd815.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
@@ -3883,41 +4098,285 @@ _Type: People_
 - [00:11:16](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) [○] (Opinion) ["Rob McCoy makes my skin crawl. I look at him and he's a bad person and nobody ca..."](/statements/statement-c3ad2a946500.md)
   - About: [Rob McCoy](/entities/person-rob-mccoy.md)
 
+- [00:11:37](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) [○] (Claim) ["Rob McCoy does not work with Turning Point USA in any capacity whatsoever"](/statements/statement-276b02748885.md)
+  - About: [Rob McCoy](/entities/person-rob-mccoy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:11:37](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) [○] (Claim) ["Rob McCoy does not work with Turning Point USA in any capacity"](/statements/statement-f7916895d4f6.md)
+
+- [00:12:04](/episodes/ep-es7PWdFGoFI.md#t-00-11-58) [○] (Accusation) ["Rob McCoy claimed on stage at the memorial to be 'America's pastor' and then had..."](/statements/statement-f7572e40a6e9.md)
+  - About: [Rob McCoy](/entities/person-rob-mccoy.md), [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)
+
 - [00:13:36](/episodes/ep-es7PWdFGoFI.md#t-00-13-27) [○] (Opinion) ["Terrell Farnsworth lied to me several times. My skin crawled after I spoke to hi..."](/statements/statement-f3757ac613ee.md)
   - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
+- [00:13:43](/episodes/ep-es7PWdFGoFI.md#t-00-13-27) [○] (Accusation) ["Terrell Farnsworth lied to Candace several times"](/statements/statement-71248c54a021.md)
+  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
+- [00:14:16](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) [○] (Claim) ["Andrew Kolvet spoke to the surgeon without Turning Point USA knowing he was goin..."](/statements/statement-9d76e2356eb6.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+- [00:14:24](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) [○] (Claim) ["Andrew Kolvet spoke to the surgeon without TPUSA knowing he would write that twe..."](/statements/statement-d884b8c97ce6.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:14:29](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) [○] (Claim) ["Terrell Farnsworth comes from a very powerful family"](/statements/statement-0b969305ff97.md)
+  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
+- [00:14:45](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) [○] (Accusation) ["Tyler Boyer lied about why Terrell took the camera down"](/statements/statement-1fac6b161905.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
 - [00:15:17](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) [○] (Claim) ["Turning Point USA did not approve of Brian Harpole going on the Shawn Ryan Show...."](/statements/statement-191d6deb062d.md)
   - About: [Brian Harpole](/entities/person-brian-harpole.md), [The Shawn Ryan Show](/entities/work-the-shawn-ryan-show.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
+- [00:15:25](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) [○] (Claim) ["Turning Point USA did not approve of Brian Harpole going on Sean Ryan's show and..."](/statements/statement-bc3031f9607f.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:15:26](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) [○] (Claim) ["TPUSA did not approve of Brian Harpole going on Sean Ryan's show"](/statements/statement-ad155f40cd87.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:15:28](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) [○] (Claim) ["Brian Harpole no longer works at Turning Point USA"](/statements/statement-96f90fe477d4.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:15:28](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) [○] (Claim) ["Brian Harpole no longer works at Turning Point USA"](/statements/statement-aec32b70c311.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:15:31](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) [○] (Claim) ["Brian Harpole no longer works at Turning Point USA"](/statements/statement-78ed1b8b4f2a.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
 - [00:18:09](/episodes/ep-es7PWdFGoFI.md#t-00-17-41) [○] (Claim) ["Turning Point USA and Erika Kirk have not seen any evidence beyond what is publi..."](/statements/statement-ca6b4e9ab8ae.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:18:09](/episodes/ep-es7PWdFGoFI.md#t-00-17-41) [○] (Claim) ["Turning Point USA's lawyer said they have nothing but the affidavit regarding ev..."](/statements/statement-2494e31e1557.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:18:09](/episodes/ep-es7PWdFGoFI.md#t-00-17-41) [○] (Claim) ["The Turning Point USA lawyer said they have nothing but the affidavit as evidenc..."](/statements/statement-55a27a78ea72.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:18:09](/episodes/ep-es7PWdFGoFI.md#t-00-17-41) [○] (Claim) ["TPUSA's lawyer confirmed they have nothing but the affidavit - they have not see..."](/statements/statement-020bdc4b9bbb.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:18:51](/episodes/ep-es7PWdFGoFI.md#t-00-18-25) [○] (Claim) ["Erika Kirk and Turning Point USA will not know what investigators have discovere..."](/statements/statement-72ca949913a6.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
+- [00:18:51](/episodes/ep-es7PWdFGoFI.md#t-00-18-25) [○] (Claim) ["The Turning Point USA lawyer said they will not know what investigators have dis..."](/statements/statement-8125e4eb74cc.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:19:00](/episodes/ep-es7PWdFGoFI.md#t-00-18-25) [○] (Claim) ["Turning Point USA will not know what investigators have discovered until May at ..."](/statements/statement-cdac1c99a189.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:19:00](/episodes/ep-es7PWdFGoFI.md#t-00-18-25) [○] (Claim) ["TPUSA will not see what investigators have discovered until a May probable cause..."](/statements/statement-d33e7861d5d4.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:19:06](/episodes/ep-es7PWdFGoFI.md#t-00-18-25) [○] (Claim) ["Turning Point USA has not seen anything regarding the Charlie Kirk shooting inve..."](/statements/statement-de2ec01848e9.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:19:06](/episodes/ep-es7PWdFGoFI.md#t-00-18-25) [○] (Claim) ["Turning Point USA has not seen anything that the public has not seen regarding e..."](/statements/statement-7ed46851b1d3.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:20:30](/episodes/ep-es7PWdFGoFI.md#t-00-19-50) [○] (Opinion) ["I don't believe that Tyler Robinson pulled the trigger"](/statements/statement-c3a8afbf2c68.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
 - [00:20:42](/episodes/ep-es7PWdFGoFI.md#t-00-20-30) [○] (Opinion) ["I don't believe that Tyler Robinson pulled the trigger"](/statements/statement-cdeead784a48.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
+- [00:20:42](/episodes/ep-es7PWdFGoFI.md#t-00-20-30) [○] (Opinion) ["Tyler Robinson did not pull the trigger in the Charlie Kirk shooting"](/statements/statement-74fd764b1b2d.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:20:42](/episodes/ep-es7PWdFGoFI.md#t-00-20-30) [○] (Opinion) ["Candace does not believe Tyler Robinson pulled the trigger"](/statements/statement-2d88109a0e3d.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:21:30](/episodes/ep-es7PWdFGoFI.md#t-00-21-13) [○] (Claim) ["Investigators have not called the person who filmed as he was on the roof"](/statements/statement-6f8ad48f8ee0.md)
+  - About: [Anonymous Source #3 (Ep es7PWdFGoFI)](/entities/anon-src-es7PWdFGoFI-003.md)
+
+- [00:21:46](/episodes/ep-es7PWdFGoFI.md#t-00-21-13) [○] (Claim) ["The eyewitness is a guy who trains people to shoot guns at a range and knows gun..."](/statements/statement-047612fa160e.md)
+  - About: [Anonymous Source #3 (Ep es7PWdFGoFI)](/entities/anon-src-es7PWdFGoFI-003.md)
+
+- [00:22:01](/episodes/ep-es7PWdFGoFI.md#t-00-21-57) [○] (Claim) ["Investigators have not called the eyewitness who filmed the person on the roof a..."](/statements/statement-52525852dff1.md)
+  - About: [Utah](/entities/gpe-utah.md)
+
+- [00:22:08](/episodes/ep-es7PWdFGoFI.md#t-00-21-57) [○] (Claim) ["Eyewitness who filmed person on roof at 12:23 PM is a gun range instructor who s..."](/statements/statement-5dab4919a04f.md)
+
+- [00:22:19](/episodes/ep-es7PWdFGoFI.md#t-00-21-57) [○] (Claim) ["Utah state investigators have not called the witness who filmed the person on th..."](/statements/statement-469c4efa041f.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:22:47](/episodes/ep-es7PWdFGoFI.md#t-00-22-39) [○] (Claim) ["The witness who filmed the person on the roof saw him crouch down at 12:23pm but..."](/statements/statement-0447f6b20b53.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:22:58](/episodes/ep-es7PWdFGoFI.md#t-00-22-39) [○] (Claim) ["The witness who filmed the person on the roof trains people to shoot guns at a r..."](/statements/statement-7e79f2266198.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:27:07](/episodes/ep-es7PWdFGoFI.md#t-00-26-38) [○] (Claim) ["According to call logs, the first person Mikey McCoy called after the shooting w..."](/statements/statement-205006fadffd.md)
+  - About: [Mikey McCoy](/entities/person-mikey-mccoy.md)
+
+- [00:27:10](/episodes/ep-es7PWdFGoFI.md#t-00-26-38) [○] (Claim) ["The first person Mikey McCoy called was his wife Elizabeth McCoy, and he stayed ..."](/statements/statement-3ce08d878074.md)
+  - About: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)
+
+- [00:27:10](/episodes/ep-es7PWdFGoFI.md#t-00-26-38) [○] (Claim) ["Mikey McCoy's first call after the shooting was to his wife Elizabeth McCoy, not..."](/statements/statement-1d5f2448e360.md)
+  - About: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)
+
+- [00:27:24](/episodes/ep-es7PWdFGoFI.md#t-00-26-38) [○] (Claim) ["Mikey three-wayed Erika Kirk three minutes after the shot went off, then three-w..."](/statements/statement-ce698028ec88.md)
+  - About: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md), [Rob McCoy](/entities/person-rob-mccoy.md)
+
+- [00:27:24](/episodes/ep-es7PWdFGoFI.md#t-00-26-38) [○] (Claim) ["Mikey McCoy three-wayed Erika Kirk into the call with his wife three minutes aft..."](/statements/statement-7f1b803184a3.md)
+  - About: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:27:28](/episodes/ep-es7PWdFGoFI.md#t-00-27-24) [○] (Claim) ["Mikey McCoy stayed on the phone with his wife for 10 minutes, three-waying Erika..."](/statements/statement-cde48c7f2dfc.md)
+  - About: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:27:56](/episodes/ep-es7PWdFGoFI.md#t-00-27-24) [○] (Claim) ["Blake Neff's call with his mother lasted 45 seconds"](/statements/statement-5e80ba912048.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md)
+
+- [00:27:57](/episodes/ep-es7PWdFGoFI.md#t-00-27-24) [○] (Claim) ["Blake Neff's call with his mother lasted 45 seconds"](/statements/statement-89f562ad0771.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md)
+
+- [00:27:57](/episodes/ep-es7PWdFGoFI.md#t-00-27-24) [○] (Claim) ["Blake Neff called his mother and the call lasted 45 seconds, ending around 12:25..."](/statements/statement-0f55d4b039c7.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md)
+
+- [00:28:26](/episodes/ep-es7PWdFGoFI.md#t-00-28-04) [○] (Claim) ["Mikey called Erika after Blake Neff ended his phone call with his mother"](/statements/statement-af7ca7b67be0.md)
+  - About: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Blake Neff](/entities/person-blake-neff.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:28:26](/episodes/ep-es7PWdFGoFI.md#t-00-28-04) [○] (Claim) ["Mikey McCoy called Erika Kirk after Blake Neff ended his call with his mother"](/statements/statement-20ddd092b3d2.md)
+  - About: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Blake Neff](/entities/person-blake-neff.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:29:28](/episodes/ep-es7PWdFGoFI.md#t-00-28-47) [○] (Claim) ["Erika Kirk was not aware of the Netanyahu offer to fund Turning Point happening"](/statements/statement-5dd20f14fcda.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:30:34](/episodes/ep-es7PWdFGoFI.md#t-00-30-07) [○] (Claim) ["Seth Dillon pressed Charlie Kirk at the Hamptons retreat in a hypothetical about..."](/statements/statement-a1c5ecc4394f.md)
+  - About: [Seth Dillon](/entities/person-seth-dillon.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+- [00:30:59](/episodes/ep-es7PWdFGoFI.md#t-00-30-46) [○] (Claim) ["Seth Dillon pressed Charlie Kirk at the Hamptons event in a hypothetical about p..."](/statements/statement-3f92cbaa3000.md)
+  - About: [Seth Dillon](/entities/person-seth-dillon.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+- [00:31:31](/episodes/ep-es7PWdFGoFI.md#t-00-31-26) [○] (Claim) ["Andrew Kolvet told Candace verbatim that Bibi Netanyahu offered to take Turning ..."](/statements/statement-7ebbb6970725.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:31:51](/episodes/ep-es7PWdFGoFI.md#t-00-31-26) [○] (Claim) ["Andrew Kolvet told me verbatim that Bibi Netanyahu offered to take Turning Point..."](/statements/statement-305839cf919f.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:32:12](/episodes/ep-es7PWdFGoFI.md#t-00-32-06) [○] (Accusation) ["Some commentators attacking me are being paid by PR firms and many are being pai..."](/statements/statement-0fd63e6a9fce.md)
+  - About: [PragerU](/entities/org-prageru.md)
+
+- [00:32:12](/episodes/ep-es7PWdFGoFI.md#t-00-32-06) [○] (Accusation) ["Some people attacking Candace are being paid by PR firms and too many are being ..."](/statements/statement-57aadf8c03fb.md)
+  - About: [PragerU](/entities/org-prageru.md)
+
+- [00:32:14](/episodes/ep-es7PWdFGoFI.md#t-00-32-06) [○] (Accusation) ["Some commentators attacking Candace are being paid by PR firms and Prager Univer..."](/statements/statement-041fcb21ee95.md)
+  - About: [PragerU](/entities/org-prageru.md)
+
+- [00:32:36](/episodes/ep-es7PWdFGoFI.md#t-00-32-06) [○] (Claim) ["Bibi Netanyahu called Charlie Kirk and made an offer to fund Turning Point USA"](/statements/statement-2ccc048a4217.md)
+  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:33:07](/episodes/ep-es7PWdFGoFI.md#t-00-32-51) [○] (Claim) ["Candace never said 150 million dollars on her show regarding the Netanyahu offer"](/statements/statement-fc0765102716.md)
+
+- [00:33:27](/episodes/ep-es7PWdFGoFI.md#t-00-32-51) [○] (Claim) ["I never said 150 million dollars ever, not once on the show"](/statements/statement-bd4de1941551.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:34:48](/episodes/ep-es7PWdFGoFI.md#t-00-34-13) [○] (Claim) ["The Egyptian planes are flying in and out of Israel and turning their transponde..."](/statements/statement-edf4c59761ae.md)
+
+- [00:34:55](/episodes/ep-es7PWdFGoFI.md#t-00-34-13) [○] (Claim) ["The Egyptian planes are flying in and out of Israel and turning their transponde..."](/statements/statement-5b38fb484262.md)
+  - About: [Israel](/entities/gpe-israel.md)
+
+- [00:35:40](/episodes/ep-es7PWdFGoFI.md#t-00-34-55) [○] (Promise) ["I will show how these Egyptian planes tie back to Israel tomorrow and there's no..."](/statements/statement-889ff579f920.md)
+  - About: [Israel](/entities/gpe-israel.md)
+
+- [00:40:02](/episodes/ep-es7PWdFGoFI.md#t-00-39-56) [○] (Claim) ["George Farmer's Wikipedia was changed to say he had a Qatari passport or citizen..."](/statements/statement-b41d294a7b1f.md)
+  - About: [George Farmer](/entities/person-george-farmer.md), [Qatar](/entities/gpe-qatar.md)
+
+- [00:40:07](/episodes/ep-es7PWdFGoFI.md#t-00-39-56) [○] (Claim) ["George Farmer has never been to Qatar"](/statements/statement-e264867657b2.md)
+  - About: [George Farmer](/entities/person-george-farmer.md), [Qatar](/entities/gpe-qatar.md)
+
 - [00:40:22](/episodes/ep-es7PWdFGoFI.md#t-00-39-56) [○] (Accusation) ["They changed George Farmer's Wikipedia and said that he had a Qatari passport or..."](/statements/statement-276d7c591d74.md)
+  - About: [George Farmer](/entities/person-george-farmer.md)
+
+- [00:40:23](/episodes/ep-es7PWdFGoFI.md#t-00-39-56) [○] (Claim) ["George Farmer's Wikipedia was changed to say he had a Qatari passport or citizen..."](/statements/statement-2c08bf23802f.md)
   - About: [George Farmer](/entities/person-george-farmer.md)
 
 - [00:40:46](/episodes/ep-es7PWdFGoFI.md#t-00-40-38) [○] (Opinion) ["When you see a media storm like this, it can only be happening because Zionists ..."](/statements/statement-0814c4a56d00.md)
   - About: [Zionism](/entities/concept-zionism.md)
 
+- [00:40:54](/episodes/ep-es7PWdFGoFI.md#t-00-40-38) [○] (Opinion) ["Zionists control the major media outlets"](/statements/statement-366296ffb10e.md)
+  - About: [Zionism](/entities/concept-zionism.md)
+
 - [00:41:01](/episodes/ep-es7PWdFGoFI.md#t-00-40-38) [○] (Accusation) ["The New York Post published fabricated stories about Candace Owens, including cl..."](/statements/statement-888267a4c6b4.md)
   - About: [New York Post](/entities/org-new-york-post.md), [Candace Owens](/entities/person-candace-owens.md)
 
+- [00:41:04](/episodes/ep-es7PWdFGoFI.md#t-00-41-03) [○] (Claim) ["George Farmer's Wikipedia was edited to falsely claim he had Qatari citizenship"](/statements/statement-b3f0ebfd3d86.md)
+  - About: [George Farmer](/entities/person-george-farmer.md)
+
+- [00:41:26](/episodes/ep-es7PWdFGoFI.md#t-00-41-03) [○] (Claim) ["George Farmer has never been to Qatar"](/statements/statement-861f23af3b8a.md)
+  - About: [George Farmer](/entities/person-george-farmer.md), [Qatar](/entities/gpe-qatar.md)
+
+- [00:41:37](/episodes/ep-es7PWdFGoFI.md#t-00-41-03) [○] (Claim) ["I never drove my car to work at the Daily Wire, they had a driver that took me t..."](/statements/statement-87b2ce28b920.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:41:37](/episodes/ep-es7PWdFGoFI.md#t-00-41-03) [○] (Accusation) ["The New York Post published an article claiming an inside source said Candace th..."](/statements/statement-c213d5e7a0dc.md)
+  - About: [New York Post](/entities/org-new-york-post.md), [DailyWire](/entities/org-dailywire.md)
+
+- [00:41:57](/episodes/ep-es7PWdFGoFI.md#t-00-41-37) [○] (Claim) ["Candace never drove her car to the Daily Wire, they had a driver that took her t..."](/statements/statement-e14d83d3b29e.md)
+  - About: [DailyWire](/entities/org-dailywire.md)
+
+- [00:42:32](/episodes/ep-es7PWdFGoFI.md#t-00-42-21) [○] (Opinion) ["Zionists control major media outlets"](/statements/statement-c6d0ecd726d9.md)
+
+- [00:42:38](/episodes/ep-es7PWdFGoFI.md#t-00-42-21) [○] (Claim) ["Candace's whole team from the Daily Wire came with her when she got fired"](/statements/statement-4d6aec237f93.md)
+  - About: [DailyWire](/entities/org-dailywire.md)
+
+- [00:42:40](/episodes/ep-es7PWdFGoFI.md#t-00-42-21) [○] (Claim) ["Candace's whole team came with her when she got fired from the Daily Wire"](/statements/statement-2ec0ee8e9a5a.md)
+  - About: [DailyWire](/entities/org-dailywire.md)
+
+- [00:42:41](/episodes/ep-es7PWdFGoFI.md#t-00-42-21) [○] (Claim) ["My whole team came with me when I got fired from the Daily Wire"](/statements/statement-841c0af1ac52.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
 - [00:43:01](/episodes/ep-es7PWdFGoFI.md#t-00-42-21) [○] (Opinion) ["I believe that Charlie Kirk was betrayed by people that are close to him"](/statements/statement-4776345392e1.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:43:11](/episodes/ep-es7PWdFGoFI.md#t-00-43-01) [○] (Opinion) ["I believe that Charlie Kirk was betrayed by people that are close to him"](/statements/statement-69f81f92b95e.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:43:11](/episodes/ep-es7PWdFGoFI.md#t-00-43-01) [○] (Opinion) ["Charlie Kirk was betrayed by people that are close to him"](/statements/statement-b777c31ed2d7.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:45:56](/episodes/ep-es7PWdFGoFI.md#t-00-45-54) [○] (Accusation) ["Tim Pool claimed that Candace Owens has the same security as Charlie Kirk, after..."](/statements/statement-89169c9f9eb3.md)
   - About: [Tim Pool](/entities/person-tim-pool.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
+- [00:55:32](/episodes/ep-es7PWdFGoFI.md#t-00-55-15) [○] (Claim) ["George Zinn was arrested for claiming to be the shooter on the day of the shooti..."](/statements/statement-5c86b3c214a4.md)
+  - About: [George Zinn](/entities/person-george-zinn.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:56:46](/episodes/ep-es7PWdFGoFI.md#t-00-56-34) [○] (Claim) ["George Zinn told nurses at Utah Valley Hospital he was paid to falsely claim res..."](/statements/statement-67b910caa0a7.md)
+  - About: [George Zinn](/entities/person-george-zinn.md), [Utah Valley Hospital](/entities/org-utah-valley-hospital.md)
+
+- [00:56:47](/episodes/ep-es7PWdFGoFI.md#t-00-56-34) [○] (Claim) ["George Zinn told nurses at Utah Valley Hospital that he was paid to falsely clai..."](/statements/statement-a1f8c2ec0450.md)
+  - About: [George Zinn](/entities/person-george-zinn.md)
+
+- [00:56:47](/episodes/ep-es7PWdFGoFI.md#t-00-56-34) [○] (Claim) ["Nurses at Utah Valley Hospital were told by George Zinn that he was paid to fals..."](/statements/statement-db0b952250b7.md)
+  - About: [George Zinn](/entities/person-george-zinn.md)
+
+- [00:58:09](/episodes/ep-es7PWdFGoFI.md#t-00-58-00) [○] (Claim) ["Megyn Kelly offered to referee the conversation between Candace and Turning Poin..."](/statements/statement-5e460b52965e.md)
+  - About: [Megyn Kelly](/entities/person-megyn-kelly.md)
+
+- [01:03:00](/episodes/ep-es7PWdFGoFI.md#t-01-02-44) [○] (Opinion) ["Candace believes Charlie Kirk was betrayed by people close to him"](/statements/statement-af51cba2e906.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
 - [01:08:18](/episodes/ep-es7PWdFGoFI.md#t-01-08-09) [○] (Accusation) ["Tim Pool is trying to signal to people that my security is weak or that I'm usin..."](/statements/statement-430f661f6739.md)
   - About: [Tim Pool](/entities/person-tim-pool.md), [Candace Owens](/entities/person-candace-owens.md)
 
+- [01:08:24](/episodes/ep-es7PWdFGoFI.md#t-01-08-09) [○] (Accusation) ["Tim Pool is signaling to people that Candace's security is weak, which she inter..."](/statements/statement-eeba55d9a6f3.md)
+  - About: [Tim Pool](/entities/person-tim-pool.md)
+
+- [01:11:03](/episodes/ep-es7PWdFGoFI.md#t-01-10-18) [○] (Claim) ["Erika Kirk confirmed Charlie Kirk was going to mass and exploring Catholicism"](/statements/statement-482759ddf3f8.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
 - [01:11:07](/episodes/ep-es7PWdFGoFI.md#t-01-11-03) [○] (Claim) ["Erika Kirk confirmed that Charlie Kirk was going to Catholic mass"](/statements/statement-bdf5a422d4f3.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [01:11:07](/episodes/ep-es7PWdFGoFI.md#t-01-11-03) [○] (Claim) ["Erika Kirk confirmed that Charlie Kirk was going to mass and exploring Catholici..."](/statements/statement-f112fb56df83.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [01:12:34](/episodes/ep-es7PWdFGoFI.md#t-01-12-31) [○] (Claim) ["Qatar said they work with Hamas because Israel and the United States asked them ..."](/statements/statement-9b899cf72bc4.md)
+  - About: [Qatar](/entities/gpe-qatar.md)
+
+- [01:12:34](/episodes/ep-es7PWdFGoFI.md#t-01-12-31) [○] (Claim) ["Qatar said they work with Hamas because Israel and the US asked them to play int..."](/statements/statement-f49618df9e54.md)
+  - About: [Qatar](/entities/gpe-qatar.md), [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
+
+- [01:12:54](/episodes/ep-es7PWdFGoFI.md#t-01-12-31) [○] (Claim) ["Qatar recently said they work with Hamas because Israel and the United States as..."](/statements/statement-e85ac201b956.md)
+  - About: [Qatar](/entities/gpe-qatar.md), [Hamas](/entities/org-hamas.md), [Israel](/entities/gpe-israel.md)
 
 - [01:13:14](/episodes/ep-es7PWdFGoFI.md#t-01-12-31) [○] (Claim) ["Qatar recently came out and said we work with Hamas because Israel and the Unite..."](/statements/statement-37092c5c9482.md)
   - About: [Qatar](/entities/gpe-qatar.md), [Hamas](/entities/org-hamas.md), [Israel](/entities/gpe-israel.md)
@@ -6747,19 +7206,30 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Candace Owens (104)</strong></summary>
+<summary><strong class="section-title">Statements about Candace Owens (108)</strong></summary>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (5)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (9)</summary>
 
 - [00:08:16](/episodes/ep-es7PWdFGoFI.md#t-00-08-02) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk said the reason she didn't ask Candace to stop investigatin..."](/statements/statement-1ec2922d6566.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:08:17](/episodes/ep-es7PWdFGoFI.md#t-00-08-02) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk was learning things from Candace's show and that's why she ..."](/statements/statement-7897e79958bf.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:09:10](/episodes/ep-es7PWdFGoFI.md#t-00-08-38) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk said she knew the general idea that questions would mention..."](/statements/statement-7527781c70d7.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Bari Weiss](/entities/person-bari-weiss.md)
 
+- [00:33:27](/episodes/ep-es7PWdFGoFI.md#t-00-32-51) (Claim) **Candace Owens**: ["I never said 150 million dollars ever, not once on the show"](/statements/statement-bd4de1941551.md)
+
 - [00:41:01](/episodes/ep-es7PWdFGoFI.md#t-00-40-38) (Accusation) **Candace Owens**: ["The New York Post published fabricated stories about Candace Owens, in..."](/statements/statement-888267a4c6b4.md)
   - Also about: [New York Post](/entities/org-new-york-post.md)
+
+- [00:41:37](/episodes/ep-es7PWdFGoFI.md#t-00-41-03) (Claim) **Candace Owens**: ["I never drove my car to work at the Daily Wire, they had a driver that..."](/statements/statement-87b2ce28b920.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:42:41](/episodes/ep-es7PWdFGoFI.md#t-00-42-21) (Claim) **Candace Owens**: ["My whole team came with me when I got fired from the Daily Wire"](/statements/statement-841c0af1ac52.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md)
 
 - [00:45:56](/episodes/ep-es7PWdFGoFI.md#t-00-45-54) (Accusation) **Candace Owens** (via paraphrase): ["Tim Pool claimed that Candace Owens has the same security as Charlie K..."](/statements/statement-89169c9f9eb3.md)
   - Also about: [Tim Pool](/entities/person-tim-pool.md), [Charlie Kirk](/entities/person-charlie-kirk.md)

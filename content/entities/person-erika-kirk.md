@@ -1,6 +1,6 @@
 ---
 title: "Erika Kirk"
-description: "Erika Kirk (People) - 350 mentions"
+description: "Erika Kirk (People) - 354 mentions"
 id: "person-erika-kirk"
 type: "PERSON"
 aliases:
@@ -18,6 +18,23 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (4 mentions)</summary>
+
+**[00:07:19](/episodes/ep-ewBzjVe3LNQ.md#ent-person-erika-kirk-t-00-06-59)**
+> "he wanted, obviously, the team to get back in there to make sure that Charlie could get cleaned up before Erica came in."
+
+**[00:07:05](/episodes/ep-ewBzjVe3LNQ.md#ent-person-erika-kirk-t-00-06-59)**
+> "...e could get cleaned up before Erica came in."
+
+**[00:57:37](/episodes/ep-ewBzjVe3LNQ.md#ent-person-erika-kirk-t-00-57-28)**
+> "There's a picture of Erica Kirk with a ponytail from her past."
+
+**[00:58:00](/episodes/ep-ewBzjVe3LNQ.md#ent-person-erika-kirk-t-00-57-28)**
+> "...il matches the description of Erica Kirk, what percentage would you put that at?"
+
+</details>
 
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (55 mentions)</summary>
@@ -1360,19 +1377,54 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Erika Kirk (17)</strong></summary>
+<summary><strong class="section-title">Statements by Erika Kirk (29)</strong></summary>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (3)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (15)</summary>
+
+- [00:05:25](/episodes/ep-es7PWdFGoFI.md#t-00-04-52) [○] (Claim) ["Turning Point USA employs 650 people"](/statements/statement-7fac3cfc8b41.md)
+
+- [00:05:53](/episodes/ep-es7PWdFGoFI.md#t-00-05-30) [○] (Claim) ["Erika Kirk said on Glenn Beck's show that she had Charlie Kirk's phone and that ..."](/statements/statement-53b2376e0b78.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:07:00](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) [○] (Claim) ["Charlie Kirk sent text messages the night before his assassination to both Andre..."](/statements/statement-1573e3db29b1.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Dan Flood](/entities/person-dan-flood.md)
 
+- [00:07:02](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) [○] (Claim) ["Charlie Kirk communicates on Signal and Telegram in addition to iMessages"](/statements/statement-1ebbaa949edf.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:07:07](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) [○] (Claim) ["The text message Dan Flood received from Charlie Kirk said 'the left is going to..."](/statements/statement-bedb25b72a1b.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Dan Flood](/entities/person-dan-flood.md)
+
+- [00:08:17](/episodes/ep-es7PWdFGoFI.md#t-00-08-02) [○] (Claim) ["Erika Kirk was learning things from Candace's show and that's why she didn't ask..."](/statements/statement-7897e79958bf.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:09:20](/episodes/ep-es7PWdFGoFI.md#t-00-08-38) [○] (Claim) ["Erika Kirk knew the general idea about questions mentioning Candace and conspira..."](/statements/statement-f08a7d8f142e.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Bari Weiss](/entities/person-bari-weiss.md)
+
 - [00:11:37](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) [○] (Claim) ["Rob McCoy does not work with Turning Point USA in any capacity whatsoever"](/statements/statement-40b955ef0d7e.md)
+  - About: [Rob McCoy](/entities/person-rob-mccoy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:11:39](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) [○] (Claim) ["Rob McCoy does not work with Turning Point USA in any capacity"](/statements/statement-038c1d1fe7c1.md)
   - About: [Rob McCoy](/entities/person-rob-mccoy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:14:16](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) [○] (Claim) ["Andrew Kolvet called the surgeon and wrote a tweet about Charlie Kirk's bullet w..."](/statements/statement-e1f8bf06b0d4.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:14:17](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) [○] (Claim) ["Erika Kirk and Justin Streiff confirmed that Andrew Kolvet spoke to the surgeon,..."](/statements/statement-2934cd4da2bf.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Erika Kirk](/entities/person-erika-kirk.md), [Justin Streiff](/entities/person-justin-streiff.md)
+
+- [00:15:17](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) [○] (Claim) ["Turning Point USA did not approve Brian Harpole going on the Sean Ryan show and ..."](/statements/statement-c2f9a692a4bd.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:31:20](/episodes/ep-es7PWdFGoFI.md#t-00-30-46) [○] (Claim) ["Erika Kirk said she was not aware of the Bibi Netanyahu offer to fund Turning Po..."](/statements/statement-bc2afde09292.md)
+  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:31:28](/episodes/ep-es7PWdFGoFI.md#t-00-31-26) [○] (Claim) ["Erika Kirk said she was not aware of Bibi Netanyahu offering to fund Turning Poi..."](/statements/statement-aafef4890699.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [01:11:07](/episodes/ep-es7PWdFGoFI.md#t-01-11-03) [○] (Claim) ["Erika Kirk confirmed that Charlie Kirk was exploring Catholicism and attending m..."](/statements/statement-b88f90ec5bc7.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 
@@ -1446,13 +1498,29 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Erika Kirk (46)</strong></summary>
+<summary><strong class="section-title">Statements about Erika Kirk (67)</strong></summary>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (8)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
+
+- [00:57:45](/episodes/ep-ewBzjVe3LNQ.md#t-00-57-28) (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["I am 95 to 99 percent certain I saw Erika Kirk at Fort Huachuca in the..."](/statements/statement-fe5aea94c1fd.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</details>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (28)</summary>
 
 - [00:02:04](/episodes/ep-es7PWdFGoFI.md#t-00-01-24) (Claim) **Candace Owens**: ["The meeting yesterday was four hours and 30 minutes with no rules. At ..."](/statements/statement-a00acb5ab7d2.md)
   - Also about: [Justin Streiff](/entities/person-justin-streiff.md), [George Farmer](/entities/person-george-farmer.md), [Mia Grant](/entities/person-mia-grant.md)
+
+- [00:02:06](/episodes/ep-es7PWdFGoFI.md#t-00-02-04) (Claim) **Candace Owens**: ["The meeting with Erika Kirk and Justin Streiff lasted four hours and 3..."](/statements/statement-42464183ec72.md)
+  - Also about: [Justin Streiff](/entities/person-justin-streiff.md)
+
+- [00:05:02](/episodes/ep-es7PWdFGoFI.md#t-00-04-52) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk gave no person the authority to say that the Catholicism th..."](/statements/statement-9d9ef732addb.md)
+
+- [00:05:02](/episodes/ep-es7PWdFGoFI.md#t-00-04-52) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk did not give any person the authority to say that the Catho..."](/statements/statement-6504abed6bbe.md)
+  - Also about: [Alex Clark](/entities/person-alex-clark.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
 - [00:05:07](/episodes/ep-es7PWdFGoFI.md#t-00-04-52) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk immediately owned the lies, or rather miscommunications, th..."](/statements/statement-412e76ec76af.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
@@ -1460,11 +1528,28 @@ _Type: People_
 - [00:05:52](/episodes/ep-es7PWdFGoFI.md#t-00-05-30) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk said on Glenn Beck's show that she had Charlie's phone and ..."](/statements/statement-14d3ddbacf08.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Glenn Beck](/entities/person-glenn-beck.md)
 
+- [00:07:01](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk had Charlie Kirk's phone and was looking at his iMessages b..."](/statements/statement-103173d3a593.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
 - [00:08:16](/episodes/ep-es7PWdFGoFI.md#t-00-08-02) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk said the reason she didn't ask Candace to stop investigatin..."](/statements/statement-1ec2922d6566.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:08:16](/episodes/ep-es7PWdFGoFI.md#t-00-08-02) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk was learning things from Candace's show, which is why she d..."](/statements/statement-31d3e4a8c3f3.md)
+
+- [00:08:17](/episodes/ep-es7PWdFGoFI.md#t-00-08-02) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk was learning things from Candace's show and that's why she ..."](/statements/statement-7897e79958bf.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
 - [00:09:10](/episodes/ep-es7PWdFGoFI.md#t-00-08-38) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk said she knew the general idea that questions would mention..."](/statements/statement-7527781c70d7.md)
   - Also about: [Bari Weiss](/entities/person-bari-weiss.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:09:20](/episodes/ep-es7PWdFGoFI.md#t-00-08-38) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk was not given the specific question about 'the podcaster, C..."](/statements/statement-99497234ff71.md)
+  - Also about: [Bari Weiss](/entities/person-bari-weiss.md)
+
+- [00:09:20](/episodes/ep-es7PWdFGoFI.md#t-00-08-38) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk knew the general idea about questions mentioning Candace an..."](/statements/statement-f08a7d8f142e.md)
+  - Also about: [Bari Weiss](/entities/person-bari-weiss.md)
+
+- [00:14:17](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk and Justin Streiff confirmed that Andrew Kolvet spoke to th..."](/statements/statement-2934cd4da2bf.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Justin Streiff](/entities/person-justin-streiff.md)
 
 - [00:18:09](/episodes/ep-es7PWdFGoFI.md#t-00-17-41) (Claim) **Candace Owens** (via paraphrase): ["Turning Point USA and Erika Kirk have not seen any evidence beyond wha..."](/statements/statement-ca6b4e9ab8ae.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
@@ -1472,7 +1557,40 @@ _Type: People_
 - [00:18:51](/episodes/ep-es7PWdFGoFI.md#t-00-18-25) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk and Turning Point USA will not know what investigators have..."](/statements/statement-72ca949913a6.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
+- [00:25:46](/episodes/ep-es7PWdFGoFI.md#t-00-25-11) (Claim) **Blake Neff** (via quoted speech): ["Blake Neff said Mikey McCoy called Erika Kirk immediately after the sh..."](/statements/statement-4a781858dc80.md)
+  - Also about: [Mikey McCoy](/entities/person-mikey-mccoy.md)
+
+- [00:27:24](/episodes/ep-es7PWdFGoFI.md#t-00-26-38) (Claim) **Candace Owens**: ["Mikey three-wayed Erika Kirk three minutes after the shot went off, th..."](/statements/statement-ce698028ec88.md)
+  - Also about: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md)
+
+- [00:27:24](/episodes/ep-es7PWdFGoFI.md#t-00-26-38) (Claim) **Candace Owens**: ["Mikey McCoy three-wayed Erika Kirk into the call with his wife three m..."](/statements/statement-7f1b803184a3.md)
+  - Also about: [Mikey McCoy](/entities/person-mikey-mccoy.md)
+
+- [00:27:28](/episodes/ep-es7PWdFGoFI.md#t-00-27-24) (Claim) **Candace Owens**: ["Mikey McCoy stayed on the phone with his wife for 10 minutes, three-wa..."](/statements/statement-cde48c7f2dfc.md)
+  - Also about: [Mikey McCoy](/entities/person-mikey-mccoy.md)
+
+- [00:28:26](/episodes/ep-es7PWdFGoFI.md#t-00-28-04) (Claim) **Candace Owens**: ["Mikey called Erika after Blake Neff ended his phone call with his moth..."](/statements/statement-af7ca7b67be0.md)
+  - Also about: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Blake Neff](/entities/person-blake-neff.md)
+
+- [00:28:26](/episodes/ep-es7PWdFGoFI.md#t-00-28-04) (Claim) **Candace Owens**: ["Mikey McCoy called Erika Kirk after Blake Neff ended his call with his..."](/statements/statement-20ddd092b3d2.md)
+  - Also about: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Blake Neff](/entities/person-blake-neff.md)
+
+- [00:29:28](/episodes/ep-es7PWdFGoFI.md#t-00-28-47) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk was not aware of the Netanyahu offer to fund Turning Point ..."](/statements/statement-5dd20f14fcda.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:31:28](/episodes/ep-es7PWdFGoFI.md#t-00-31-26) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk said she was not aware of Bibi Netanyahu offering to fund T..."](/statements/statement-aafef4890699.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [01:11:03](/episodes/ep-es7PWdFGoFI.md#t-01-10-18) (Claim) **Candace Owens**: ["Erika Kirk confirmed Charlie Kirk was going to mass and exploring Cath..."](/statements/statement-482759ddf3f8.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
 - [01:11:07](/episodes/ep-es7PWdFGoFI.md#t-01-11-03) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk confirmed that Charlie Kirk was going to Catholic mass"](/statements/statement-bdf5a422d4f3.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [01:11:07](/episodes/ep-es7PWdFGoFI.md#t-01-11-03) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk confirmed that Charlie Kirk was going to mass and exploring..."](/statements/statement-f112fb56df83.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [01:11:07](/episodes/ep-es7PWdFGoFI.md#t-01-11-03) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk confirmed that Charlie Kirk was exploring Catholicism and a..."](/statements/statement-b88f90ec5bc7.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

@@ -346,7 +346,18 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Blake Neff (4)</strong></summary>
+<summary><strong class="section-title">Statements by Blake Neff (6)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
+
+- [00:25:46](/episodes/ep-es7PWdFGoFI.md#t-00-25-11) [○] (Claim) ["Blake Neff said Mikey McCoy called Erika Kirk immediately after the shooting, th..."](/statements/statement-4a781858dc80.md)
+  - About: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:25:51](/episodes/ep-es7PWdFGoFI.md#t-00-25-11) [○] (Claim) ["Mikey called Erika and then immediately called his dad Rob McCoy saying 'dad, so..."](/statements/statement-03a81f579a0f.md)
+  - About: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md)
+
+</details>
 
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (4)</summary>
@@ -368,7 +379,24 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Blake Neff (7)</strong></summary>
+<summary><strong class="section-title">Statements about Blake Neff (12)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (5)</summary>
+
+- [00:27:56](/episodes/ep-es7PWdFGoFI.md#t-00-27-24) (Claim) **Candace Owens**: ["Blake Neff's call with his mother lasted 45 seconds"](/statements/statement-5e80ba912048.md)
+
+- [00:27:57](/episodes/ep-es7PWdFGoFI.md#t-00-27-24) (Claim) **Candace Owens**: ["Blake Neff's call with his mother lasted 45 seconds"](/statements/statement-89f562ad0771.md)
+
+- [00:27:57](/episodes/ep-es7PWdFGoFI.md#t-00-27-24) (Claim) **Candace Owens**: ["Blake Neff called his mother and the call lasted 45 seconds, ending ar..."](/statements/statement-0f55d4b039c7.md)
+
+- [00:28:26](/episodes/ep-es7PWdFGoFI.md#t-00-28-04) (Claim) **Candace Owens**: ["Mikey called Erika after Blake Neff ended his phone call with his moth..."](/statements/statement-af7ca7b67be0.md)
+  - Also about: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:28:26](/episodes/ep-es7PWdFGoFI.md#t-00-28-04) (Claim) **Candace Owens**: ["Mikey McCoy called Erika Kirk after Blake Neff ended his call with his..."](/statements/statement-20ddd092b3d2.md)
+  - Also about: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (3)</summary>

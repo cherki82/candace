@@ -1,7 +1,7 @@
 ---
 title: "Knowledge Graph"
 description: "An open-source research database documenting Candace Owens' investigations into the Charlie Kirk assassination and related topics."
-socialDescription: "AI-powered research database with transcripts, entity extraction, timeline events, statement tracking & relationship mapping across 47+ episodes."
+socialDescription: "AI-powered research database with transcripts, entity extraction, timeline events, statement tracking & relationship mapping across 49+ episodes."
 ---
 
 # Candace Owens Show Knowledge Graph
@@ -12,11 +12,11 @@ This project uses AI to automatically transcribe episodes, extract entities (peo
 
 ## Browse
 
-- **[Episodes](/index/episodes)** - 47 indexed episodes
-- **[Entities](/index/entities)** - 1021 people, organizations, and concepts
-- **[Timeline](/index/timeline)** - 526 events in chronological order
-- **[Statements](/index/statements)** - 1217 attributed statements
-- **[Relationships](/index/relationships)** - 890 entity relationships
+- **[Episodes](/index/episodes)** - 49 indexed episodes
+- **[Entities](/index/entities)** - 1029 people, organizations, and concepts
+- **[Timeline](/index/timeline)** - 532 events in chronological order
+- **[Statements](/index/statements)** - 1376 attributed statements
+- **[Relationships](/index/relationships)** - 914 entity relationships
 
 ---
 
@@ -24,4 +24,4 @@ This project uses AI to automatically transcribe episodes, extract entities (peo
 > Information should be independently verified. Entity identifications and statement
 > extractions may contain errors.
 
-*Last regenerated: 2025-12-17 12:00:43*
+*Last regenerated: 2025-12-19 14:01:04*

@@ -459,7 +459,15 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Kanye West (1)</strong></summary>
+<summary><strong class="section-title">Statements by Kanye West (2)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
+
+- [00:01:26](/episodes/ep-es7PWdFGoFI.md#t-00-01-24) [○] (Claim) ["Kanye West tweeted years ago 'just fired my manager because I realized I can't b..."](/statements/statement-46ada83faf52.md)
+  - About: [Kanye West](/entities/person-kanye-west.md)
+
+</details>
 
 <details>
 <summary>To My Friend, Charlie Kirk. (1)</summary>
@@ -472,7 +480,14 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Kanye West (12)</strong></summary>
+<summary><strong class="section-title">Statements about Kanye West (13)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
+
+- [00:01:26](/episodes/ep-es7PWdFGoFI.md#t-00-01-24) (Claim) **Kanye West** (via quoted tweet): ["Kanye West tweeted years ago 'just fired my manager because I realized..."](/statements/statement-46ada83faf52.md)
+
+</details>
 
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (6)</summary>

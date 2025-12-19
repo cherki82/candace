@@ -304,7 +304,18 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The Daily Wire (2)</strong></summary>
+<summary><strong class="section-title">Statements about The Daily Wire (4)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
+
+- [00:41:37](/episodes/ep-es7PWdFGoFI.md#t-00-41-03) (Claim) **Candace Owens**: ["I never drove my car to work at the Daily Wire, they had a driver that..."](/statements/statement-87b2ce28b920.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:42:41](/episodes/ep-es7PWdFGoFI.md#t-00-42-21) (Claim) **Candace Owens**: ["My whole team came with me when I got fired from the Daily Wire"](/statements/statement-841c0af1ac52.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>

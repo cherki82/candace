@@ -1,6 +1,6 @@
 ---
 title: "IRS"
-description: "IRS (Organizations) - 23 mentions"
+description: "IRS (Organizations) - 29 mentions"
 id: "org-irs"
 type: "ORG"
 aliases:
@@ -15,6 +15,29 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (6 mentions)</summary>
+
+**[00:27:17](/episodes/ep-ewBzjVe3LNQ.md#t-00-27-08)**
+> "the IRS is fighting back and proving that it's here to stay by becoming more aggressive than they've ever been."
+
+**[00:22:44](/episodes/ep-ewBzjVe3LNQ.md#t-00-22-11)**
+> "...ng the income tax system, the IRS is fighting back and proving that it's here to st..."
+
+**[00:22:59](/episodes/ep-ewBzjVe3LNQ.md#t-00-22-55)**
+> "The IRS can take your wages, bank accounts, Social Securi..."
+
+**[00:23:04](/episodes/ep-ewBzjVe3LNQ.md#t-00-22-55)**
+> "...it's not a question of if the IRS will act, but when."
+
+**[00:23:10](/episodes/ep-ewBzjVe3LNQ.md#t-00-22-55)**
+> "...is offering a completely free IRS research and discovery call to show you exactly w..."
+
+**[00:23:24](/episodes/ep-ewBzjVe3LNQ.md#t-00-22-55)**
+> "...nting yourself or calling the IRS on your own."
+
+</details>
 
 <details>
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>

@@ -116,16 +116,28 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Dan Flood (5)</strong></summary>
+<summary><strong class="section-title">Statements about Dan Flood (9)</strong></summary>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (6)</summary>
 
 - [00:06:40](/episodes/ep-es7PWdFGoFI.md#t-00-06-11) (Claim) **Anonymous Source #1 (Ep es7PWdFGoFI)** (via read message): ["Dan Flood received a text message from Charlie Kirk the night before t..."](/statements/statement-f4a80abe9a39.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
+- [00:06:40](/episodes/ep-es7PWdFGoFI.md#t-00-06-11) (Claim) **Candace Owens**: ["Dan Flood received a text message from Charlie Kirk the night before t..."](/statements/statement-044a9c84bf6d.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:06:55](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) (Claim) **Candace Owens**: ["Charlie Kirk sent text messages the night before his death saying they..."](/statements/statement-6ed250414edc.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
 - [00:07:00](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) (Claim) **Erika Kirk**: ["Charlie Kirk sent text messages the night before his assassination to ..."](/statements/statement-1573e3db29b1.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+- [00:07:07](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) (Claim) **Candace Owens** (via paraphrase): ["Dan Flood received a message the night before saying 'the left is goin..."](/statements/statement-3e07e4f778ff.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:07:07](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) (Claim) **Erika Kirk** (via quoted speech): ["The text message Dan Flood received from Charlie Kirk said 'the left i..."](/statements/statement-bedb25b72a1b.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

@@ -61,3 +61,19 @@ _Type: People_
 </details>
 
 </details>
+
+<details open>
+<summary><strong class="section-title">Statements about Elizabeth McCoy (2)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
+
+- [00:27:10](/episodes/ep-es7PWdFGoFI.md#t-00-26-38) (Claim) **Candace Owens**: ["The first person Mikey McCoy called was his wife Elizabeth McCoy, and ..."](/statements/statement-3ce08d878074.md)
+  - Also about: [Mikey McCoy](/entities/person-mikey-mccoy.md)
+
+- [00:27:10](/episodes/ep-es7PWdFGoFI.md#t-00-26-38) (Claim) **Candace Owens**: ["Mikey McCoy's first call after the shooting was to his wife Elizabeth ..."](/statements/statement-1d5f2448e360.md)
+  - Also about: [Mikey McCoy](/entities/person-mikey-mccoy.md)
+
+</details>
+
+</details>

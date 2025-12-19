@@ -165,15 +165,28 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about George Farmer (5)</strong></summary>
+<summary><strong class="section-title">Statements about George Farmer (10)</strong></summary>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (7)</summary>
 
 - [00:02:04](/episodes/ep-es7PWdFGoFI.md#t-00-01-24) (Claim) **Candace Owens**: ["The meeting yesterday was four hours and 30 minutes with no rules. At ..."](/statements/statement-a00acb5ab7d2.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Justin Streiff](/entities/person-justin-streiff.md), [Mia Grant](/entities/person-mia-grant.md)
 
+- [00:40:02](/episodes/ep-es7PWdFGoFI.md#t-00-39-56) (Claim) **Candace Owens**: ["George Farmer's Wikipedia was changed to say he had a Qatari passport ..."](/statements/statement-b41d294a7b1f.md)
+  - Also about: [Qatar](/entities/gpe-qatar.md)
+
+- [00:40:07](/episodes/ep-es7PWdFGoFI.md#t-00-39-56) (Claim) **Candace Owens**: ["George Farmer has never been to Qatar"](/statements/statement-e264867657b2.md)
+  - Also about: [Qatar](/entities/gpe-qatar.md)
+
 - [00:40:22](/episodes/ep-es7PWdFGoFI.md#t-00-39-56) (Accusation) **Candace Owens**: ["They changed George Farmer's Wikipedia and said that he had a Qatari p..."](/statements/statement-276d7c591d74.md)
+
+- [00:40:23](/episodes/ep-es7PWdFGoFI.md#t-00-39-56) (Claim) **Candace Owens**: ["George Farmer's Wikipedia was changed to say he had a Qatari passport ..."](/statements/statement-2c08bf23802f.md)
+
+- [00:41:04](/episodes/ep-es7PWdFGoFI.md#t-00-41-03) (Claim) **Candace Owens**: ["George Farmer's Wikipedia was edited to falsely claim he had Qatari ci..."](/statements/statement-b3f0ebfd3d86.md)
+
+- [00:41:26](/episodes/ep-es7PWdFGoFI.md#t-00-41-03) (Claim) **Candace Owens**: ["George Farmer has never been to Qatar"](/statements/statement-861f23af3b8a.md)
+  - Also about: [Qatar](/entities/gpe-qatar.md)
 
 </details>
 

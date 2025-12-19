@@ -91,13 +91,16 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about New York Post (7)</strong></summary>
+<summary><strong class="section-title">Statements about New York Post (8)</strong></summary>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
 
 - [00:41:01](/episodes/ep-es7PWdFGoFI.md#t-00-40-38) (Accusation) **Candace Owens**: ["The New York Post published fabricated stories about Candace Owens, in..."](/statements/statement-888267a4c6b4.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:41:37](/episodes/ep-es7PWdFGoFI.md#t-00-41-03) (Accusation) **Candace Owens** (via paraphrase): ["The New York Post published an article claiming an inside source said ..."](/statements/statement-c213d5e7a0dc.md)
+  - Also about: [DailyWire](/entities/org-dailywire.md)
 
 </details>
 

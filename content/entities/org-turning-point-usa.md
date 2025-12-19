@@ -1,6 +1,6 @@
 ---
 title: "Turning Point USA"
-description: "Turning Point USA (Organizations) - 747 mentions"
+description: "Turning Point USA (Organizations) - 753 mentions"
 id: "org-turning-point-usa"
 type: "ORG"
 aliases:
@@ -19,6 +19,29 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (6 mentions)</summary>
+
+**[00:20:35](/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-t-00-17-22)**
+> "some of his most trusted people may have been trained operatives who infiltrated Turning Point USA"
+
+**[00:17:26](/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-t-00-17-22)**
+> "...ed operatives who infiltrated Turning Point USA, these memories suddenly seem significant."
+
+**[00:17:42](/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-t-00-17-22)**
+> "... Christian organizations like Turning Point USA.""
+
+**[00:18:20](/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-t-00-17-22)**
+> "...nes lead to the front door of Turning Point USA faith."
+
+**[00:24:05](/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-t-00-23-39)**
+> "... everybody go crazy after the Turning Point USA event where Tucker asked the question, where does..."
+
+**[00:55:01](/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-t-00-54-39)**
+> "... don't know these people from TPUSA, never been associated."
+
+</details>
 
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (31 mentions)</summary>
@@ -2916,25 +2939,108 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point USA (104)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point USA (132)</strong></summary>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (5)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2)</summary>
+
+- [00:17:25](/episodes/ep-ewBzjVe3LNQ.md#t-00-17-22) (Accusation) **Candace Owens**: ["Some of Charlie Kirk's most trusted people may have been trained opera..."](/statements/statement-b133fdbae13d.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:18:16](/episodes/ep-ewBzjVe3LNQ.md#t-00-18-07) (Opinion) **Candace Owens**: ["Many of these pastors are behaving like operatives and many of these C..."](/statements/statement-6fe56802c93b.md)
+
+</details>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (31)</summary>
 
 - [00:05:07](/episodes/ep-es7PWdFGoFI.md#t-00-04-52) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk immediately owned the lies, or rather miscommunications, th..."](/statements/statement-412e76ec76af.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
+- [00:05:25](/episodes/ep-es7PWdFGoFI.md#t-00-04-52) (Claim) **Candace Owens**: ["Turning Point USA employs 650 people"](/statements/statement-f195c080c602.md)
+
+- [00:05:30](/episodes/ep-es7PWdFGoFI.md#t-00-04-52) (Claim) **Candace Owens**: ["Turning Point USA is a company with 650 people employed"](/statements/statement-0a5e06fd5b13.md)
+
 - [00:11:37](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) (Claim) **Erika Kirk**: ["Rob McCoy does not work with Turning Point USA in any capacity whatsoe..."](/statements/statement-40b955ef0d7e.md)
   - Also about: [Rob McCoy](/entities/person-rob-mccoy.md)
+
+- [00:11:37](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) (Claim) **Candace Owens** (via paraphrase): ["Rob McCoy does not work with Turning Point USA in any capacity whatsoe..."](/statements/statement-276b02748885.md)
+  - Also about: [Rob McCoy](/entities/person-rob-mccoy.md)
+
+- [00:11:39](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) (Claim) **Erika Kirk** (via quoted speech): ["Rob McCoy does not work with Turning Point USA in any capacity"](/statements/statement-038c1d1fe7c1.md)
+  - Also about: [Rob McCoy](/entities/person-rob-mccoy.md)
+
+- [00:14:24](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) (Claim) **Candace Owens**: ["Andrew Kolvet spoke to the surgeon without TPUSA knowing he would writ..."](/statements/statement-d884b8c97ce6.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
 - [00:15:17](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) (Claim) **Candace Owens** (via paraphrase): ["Turning Point USA did not approve of Brian Harpole going on the Shawn ..."](/statements/statement-191d6deb062d.md)
   - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [The Shawn Ryan Show](/entities/work-the-shawn-ryan-show.md)
 
+- [00:15:17](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) (Claim) **Erika Kirk** (via quoted speech): ["Turning Point USA did not approve Brian Harpole going on the Sean Ryan..."](/statements/statement-c2f9a692a4bd.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:15:25](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) (Claim) **Candace Owens** (via paraphrase): ["Turning Point USA did not approve of Brian Harpole going on Sean Ryan'..."](/statements/statement-bc3031f9607f.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:15:26](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) (Claim) **Candace Owens**: ["TPUSA did not approve of Brian Harpole going on Sean Ryan's show"](/statements/statement-ad155f40cd87.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:15:28](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) (Claim) **Candace Owens**: ["Brian Harpole no longer works at Turning Point USA"](/statements/statement-96f90fe477d4.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:15:28](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) (Claim) **Candace Owens**: ["Brian Harpole no longer works at Turning Point USA"](/statements/statement-aec32b70c311.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:15:31](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) (Claim) **Candace Owens**: ["Brian Harpole no longer works at Turning Point USA"](/statements/statement-78ed1b8b4f2a.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
 - [00:18:09](/episodes/ep-es7PWdFGoFI.md#t-00-17-41) (Claim) **Candace Owens** (via paraphrase): ["Turning Point USA and Erika Kirk have not seen any evidence beyond wha..."](/statements/statement-ca6b4e9ab8ae.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
+- [00:18:09](/episodes/ep-es7PWdFGoFI.md#t-00-17-41) (Claim) **Candace Owens** (via paraphrase): ["Turning Point USA's lawyer said they have nothing but the affidavit re..."](/statements/statement-2494e31e1557.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:18:09](/episodes/ep-es7PWdFGoFI.md#t-00-17-41) (Claim) **Candace Owens** (via paraphrase): ["The Turning Point USA lawyer said they have nothing but the affidavit ..."](/statements/statement-55a27a78ea72.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:18:09](/episodes/ep-es7PWdFGoFI.md#t-00-17-41) (Claim) **Candace Owens**: ["TPUSA's lawyer confirmed they have nothing but the affidavit - they ha..."](/statements/statement-020bdc4b9bbb.md)
+
 - [00:18:51](/episodes/ep-es7PWdFGoFI.md#t-00-18-25) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk and Turning Point USA will not know what investigators have..."](/statements/statement-72ca949913a6.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:18:51](/episodes/ep-es7PWdFGoFI.md#t-00-18-25) (Claim) **Candace Owens** (via paraphrase): ["The Turning Point USA lawyer said they will not know what investigator..."](/statements/statement-8125e4eb74cc.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:19:00](/episodes/ep-es7PWdFGoFI.md#t-00-18-25) (Claim) **Candace Owens** (via paraphrase): ["Turning Point USA will not know what investigators have discovered unt..."](/statements/statement-cdac1c99a189.md)
+
+- [00:19:00](/episodes/ep-es7PWdFGoFI.md#t-00-18-25) (Claim) **Candace Owens**: ["TPUSA will not see what investigators have discovered until a May prob..."](/statements/statement-d33e7861d5d4.md)
+
+- [00:19:06](/episodes/ep-es7PWdFGoFI.md#t-00-18-25) (Claim) **Candace Owens**: ["Turning Point USA has not seen anything regarding the Charlie Kirk sho..."](/statements/statement-de2ec01848e9.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:19:06](/episodes/ep-es7PWdFGoFI.md#t-00-18-25) (Claim) **Candace Owens** (via paraphrase): ["Turning Point USA has not seen anything that the public has not seen r..."](/statements/statement-7ed46851b1d3.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:29:28](/episodes/ep-es7PWdFGoFI.md#t-00-28-47) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk was not aware of the Netanyahu offer to fund Turning Point ..."](/statements/statement-5dd20f14fcda.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+- [00:31:20](/episodes/ep-es7PWdFGoFI.md#t-00-30-46) (Claim) **Erika Kirk**: ["Erika Kirk said she was not aware of the Bibi Netanyahu offer to fund ..."](/statements/statement-bc2afde09292.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+- [00:31:28](/episodes/ep-es7PWdFGoFI.md#t-00-31-26) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk said she was not aware of Bibi Netanyahu offering to fund T..."](/statements/statement-aafef4890699.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+- [00:31:31](/episodes/ep-es7PWdFGoFI.md#t-00-31-26) (Claim) **Candace Owens**: ["Andrew Kolvet told Candace verbatim that Bibi Netanyahu offered to tak..."](/statements/statement-7ebbb6970725.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:31:51](/episodes/ep-es7PWdFGoFI.md#t-00-31-26) (Claim) **Candace Owens**: ["Andrew Kolvet told me verbatim that Bibi Netanyahu offered to take Tur..."](/statements/statement-305839cf919f.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+- [00:31:51](/episodes/ep-es7PWdFGoFI.md#t-00-31-26) (Claim) **Andrew Kolvet** (via quoted speech): ["Andrew Kolvet told Candace that Bibi Netanyahu offered to take Turning..."](/statements/statement-6b48d40529ea.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:32:36](/episodes/ep-es7PWdFGoFI.md#t-00-32-06) (Claim) **Candace Owens**: ["Bibi Netanyahu called Charlie Kirk and made an offer to fund Turning P..."](/statements/statement-2ccc048a4217.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

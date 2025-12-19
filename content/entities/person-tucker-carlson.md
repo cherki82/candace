@@ -1,6 +1,6 @@
 ---
 title: "Tucker Carlson"
-description: "Tucker Carlson (People) - 350 mentions"
+description: "Tucker Carlson (People) - 356 mentions"
 id: "person-tucker-carlson"
 type: "PERSON"
 aliases:
@@ -16,6 +16,29 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (6 mentions)</summary>
+
+**[00:10:26](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tucker-carlson-t-00-10-25)**
+> "God doesn't want you to follow Tucker Carlson on Instagram."
+
+**[00:10:47](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tucker-carlson-t-00-10-25)**
+> "...od doesn't want you to follow Tucker Carlson on Instagram."
+
+**[00:10:47](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tucker-carlson-t-00-10-25)**
+> "...n't want you to follow Tucker Carlson on Instagram."
+
+**[00:10:53](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tucker-carlson-t-00-10-25)**
+> "...essed by a demon, so unfollow Tucker Carlson and unfollow Candace."
+
+**[00:10:53](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tucker-carlson-t-00-10-25)**
+> "...y a demon, so unfollow Tucker Carlson and unfollow Candace."
+
+**[00:24:05](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tucker-carlson-t-00-23-39)**
+> "...Turning Point USA event where Tucker asked the question, where does this guy's money c..."
+
+</details>
 
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (13 mentions)</summary>

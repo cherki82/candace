@@ -344,7 +344,14 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Central Intelligence Agency (16)</strong></summary>
+<summary><strong class="section-title">Statements about Central Intelligence Agency (17)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
+
+- [00:32:50](/episodes/ep-ewBzjVe3LNQ.md#t-00-32-29) (Opinion) **Candace Owens**: ["The CIA was created to traffic"](/statements/statement-ede9d9bc7ca3.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3)</summary>

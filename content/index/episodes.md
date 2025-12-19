@@ -2,7 +2,7 @@
 title: "Episodes"
 ---
 
-_Total episodes: 47_
+_Total episodes: 49_
 
 <div class="page-filter-container">
   <input type="text" class="page-filter" placeholder="Filter episodes..." autocomplete="off">
@@ -25,6 +25,8 @@ _Total episodes: 47_
 
 ## Week of Dec 15 - 21, 2025
 
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md) — Thu, Dec 18
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md) — Wed, Dec 17
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md) — Tue, Dec 16
 
 ## Week of Dec 08 - 14, 2025

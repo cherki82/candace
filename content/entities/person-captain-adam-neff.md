@@ -1,6 +1,6 @@
 ---
 title: "Captain Adam Neff"
-description: "Captain Adam Neff (People) - 18 mentions"
+description: "Captain Adam Neff (People) - 20 mentions"
 id: "person-captain-adam-neff"
 type: "PERSON"
 aliases:
@@ -17,6 +17,17 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
+
+**[00:46:24](/episodes/ep-ewBzjVe3LNQ.md#ent-person-captain-adam-neff-t-00-48-59)**
+> "his name was Captain Neff, nice guy."
+
+**[00:49:32](/episodes/ep-ewBzjVe3LNQ.md#ent-person-captain-adam-neff-t-00-48-59)**
+> "... captains there, his name was Captain Neff, nice guy."
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (12 mentions)</summary>
@@ -87,7 +98,32 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Met With (1)</summary>
+
+- **[Mitch](/entities/person-mitch-fort-huachuca-witness.md)**
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:49:24](/episodes/ep-ewBzjVe3LNQ.md#t-00-48-59): "me, one of the captains there, his name was Captain Neff, nice guy...Yeah, and I started telling him my story"
+
+</details>
+
+<details>
+<summary>Works For (1)</summary>
+
+- **[Fort Huachuca](/entities/gpe-fort-huachuca.md)**
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:49:24](/episodes/ep-ewBzjVe3LNQ.md#t-00-48-59): "me, one of the captains there, his name was Captain Neff, nice guy."
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
+
+- **[Fort Huachuca](/entities/gpe-fort-huachuca.md)** employs this
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:49:24](/episodes/ep-ewBzjVe3LNQ.md#t-00-48-59)
+
+- **[Mitch](/entities/person-mitch-fort-huachuca-witness.md)** met with this
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:49:24](/episodes/ep-ewBzjVe3LNQ.md#t-00-48-59)
+
+</details>
 
 </details>
 

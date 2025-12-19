@@ -694,7 +694,14 @@ _Type: Places_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah (5)</strong></summary>
+<summary><strong class="section-title">Statements about Utah (6)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
+
+- [00:22:01](/episodes/ep-es7PWdFGoFI.md#t-00-21-57) (Claim) **Candace Owens**: ["Investigators have not called the eyewitness who filmed the person on ..."](/statements/statement-52525852dff1.md)
+
+</details>
 
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2)</summary>

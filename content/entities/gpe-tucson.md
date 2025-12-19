@@ -1,6 +1,6 @@
 ---
 title: "Tucson"
-description: "Tucson (Places) - 5 mentions"
+description: "Tucson (Places) - 9 mentions"
 id: "gpe-tucson"
 type: "GPE"
 aliases:
@@ -16,6 +16,23 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (4 mentions)</summary>
+
+**[00:17:01](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-tucson-t-00-16-41)**
+> "Their objective had been to deceive civilians in Tucson."
+
+**[00:17:00](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-tucson-t-00-16-41)**
+> "... been to deceive civilians in Tucson."
+
+**[00:37:44](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-tucson-t-00-37-30)**
+> "Getting into Tucson, there was a little bit of a issue getting the re..."
+
+**[00:54:16](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-tucson-t-00-53-54)**
+> "Um, got the Tucson stayed the night there in a hotel."
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (5 mentions)</summary>

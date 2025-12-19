@@ -1,6 +1,6 @@
 ---
 title: "10th Mountain Division"
-description: "10th Mountain Division (Organizations) - 4 mentions"
+description: "10th Mountain Division (Organizations) - 7 mentions"
 id: "org-10th-mountain-division"
 type: "ORG"
 aliases:
@@ -16,6 +16,20 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (3 mentions)</summary>
+
+**[00:25:36](/episodes/ep-ewBzjVe3LNQ.md#ent-org-10th-mountain-division-t-00-25-51)**
+> "Yeah, we were part of a mission going down to the board of JTF-6 assigned from 10th Mountain."
+
+**[00:26:15](/episodes/ep-ewBzjVe3LNQ.md#ent-org-10th-mountain-division-t-00-25-51)**
+> "... board of JTF-6 assigned from 10th Mountain."
+
+**[00:44:02](/episodes/ep-ewBzjVe3LNQ.md#ent-org-10th-mountain-division-t-00-43-50)**
+> "...and got coffee, ran into some 10th mountain people there."
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
@@ -45,5 +59,17 @@ _Type: Organizations_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about 10th Mountain Division (1)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
+
+- [00:26:18](/episodes/ep-ewBzjVe3LNQ.md#t-00-25-51) (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["We were part of a mission going down to the border of JTF-6 assigned f..."](/statements/statement-e8d167e7b955.md)
+
+</details>
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "Brian Harpole"
-description: "Brian Harpole (People) - 37 mentions"
+description: "Brian Harpole (People) - 40 mentions"
 id: "person-brian-harpole"
 type: "PERSON"
 aliases:
@@ -15,6 +15,20 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (3 mentions)</summary>
+
+**[00:01:40](/episodes/ep-ewBzjVe3LNQ.md#ent-person-brian-harpole-t-00-56-00)**
+> "Brian Harpole"
+
+**[00:56:15](/episodes/ep-ewBzjVe3LNQ.md#ent-person-brian-harpole-t-00-56-00)**
+> "...tage that you were looking at Brian Harpole, maybe he's got a brother in the military, who kn..."
+
+**[00:56:48](/episodes/ep-ewBzjVe3LNQ.md#ent-person-brian-harpole-t-00-56-44)**
+> "... at a percentage that you saw Brian Harpole, what percentage would you put it at?"
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (7 mentions)</summary>
@@ -195,6 +209,7 @@ _Type: People_
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
   - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01): "Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day."
   - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:00](/episodes/ep-sImMM04XdWY.md#t-00-00-01): "Brian Harpole... heads of security"
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:55:41](/episodes/ep-ewBzjVe3LNQ.md#t-00-55-17): "the head of security there, he was one of the people walking out with the congressman...face, waxy look on his face, hand gestures, shoulder shrug, gait, approximate height, haircut, definitely walk past me."
 
 </details>
 
@@ -236,13 +251,39 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Brian Harpole (10)</strong></summary>
+<summary><strong class="section-title">Statements about Brian Harpole (17)</strong></summary>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
+
+- [00:56:34](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-00) (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["I am 95 to 99 percent certain that I saw Brian Harpole at Fort Huachuc..."](/statements/statement-8de81100cf3e.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</details>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (7)</summary>
 
 - [00:15:17](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) (Claim) **Candace Owens** (via paraphrase): ["Turning Point USA did not approve of Brian Harpole going on the Shawn ..."](/statements/statement-191d6deb062d.md)
   - Also about: [The Shawn Ryan Show](/entities/work-the-shawn-ryan-show.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:15:17](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) (Claim) **Erika Kirk** (via quoted speech): ["Turning Point USA did not approve Brian Harpole going on the Sean Ryan..."](/statements/statement-c2f9a692a4bd.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:15:25](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) (Claim) **Candace Owens** (via paraphrase): ["Turning Point USA did not approve of Brian Harpole going on Sean Ryan'..."](/statements/statement-bc3031f9607f.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:15:26](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) (Claim) **Candace Owens**: ["TPUSA did not approve of Brian Harpole going on Sean Ryan's show"](/statements/statement-ad155f40cd87.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:15:28](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) (Claim) **Candace Owens**: ["Brian Harpole no longer works at Turning Point USA"](/statements/statement-96f90fe477d4.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:15:28](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) (Claim) **Candace Owens**: ["Brian Harpole no longer works at Turning Point USA"](/statements/statement-aec32b70c311.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:15:31](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) (Claim) **Candace Owens**: ["Brian Harpole no longer works at Turning Point USA"](/statements/statement-78ed1b8b4f2a.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 

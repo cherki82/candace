@@ -251,16 +251,18 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tim Pool (3)</strong></summary>
+<summary><strong class="section-title">Statements about Tim Pool (4)</strong></summary>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (3)</summary>
 
 - [00:45:56](/episodes/ep-es7PWdFGoFI.md#t-00-45-54) (Accusation) **Candace Owens** (via paraphrase): ["Tim Pool claimed that Candace Owens has the same security as Charlie K..."](/statements/statement-89169c9f9eb3.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [01:08:18](/episodes/ep-es7PWdFGoFI.md#t-01-08-09) (Accusation) **Candace Owens**: ["Tim Pool is trying to signal to people that my security is weak or tha..."](/statements/statement-430f661f6739.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [01:08:24](/episodes/ep-es7PWdFGoFI.md#t-01-08-09) (Accusation) **Candace Owens**: ["Tim Pool is signaling to people that Candace's security is weak, which..."](/statements/statement-eeba55d9a6f3.md)
 
 </details>
 

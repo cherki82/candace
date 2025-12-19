@@ -329,7 +329,18 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Seth Dillon (6)</strong></summary>
+<summary><strong class="section-title">Statements about Seth Dillon (8)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
+
+- [00:30:34](/episodes/ep-es7PWdFGoFI.md#t-00-30-07) (Claim) **Candace Owens**: ["Seth Dillon pressed Charlie Kirk at the Hamptons retreat in a hypothet..."](/statements/statement-a1c5ecc4394f.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+- [00:30:59](/episodes/ep-es7PWdFGoFI.md#t-00-30-46) (Claim) **Candace Owens**: ["Seth Dillon pressed Charlie Kirk at the Hamptons event in a hypothetic..."](/statements/statement-3f92cbaa3000.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1)</summary>

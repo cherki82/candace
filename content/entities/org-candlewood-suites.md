@@ -1,6 +1,6 @@
 ---
 title: "Candlewood Suites"
-description: "Candlewood Suites (Organizations) - 4 mentions"
+description: "Candlewood Suites (Organizations) - 5 mentions"
 id: "org-candlewood-suites"
 type: "ORG"
 ---
@@ -11,6 +11,14 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>
+
+**[00:37:38](/episodes/ep-ewBzjVe3LNQ.md#t-00-37-30)**
+> "This is on September 8th, the evening of September 8th at the Candlewood Inn and Suites"
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Kash Patel"
-description: "Kash Patel (People) - 107 mentions"
+description: "Kash Patel (People) - 110 mentions"
 id: "person-kash-patel"
 type: "PERSON"
 aliases:
@@ -17,6 +17,20 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (3 mentions)</summary>
+
+**[00:01:40](/episodes/ep-ewBzjVe3LNQ.md#ent-person-kash-patel-t-01-01-50)**
+> "Kash Patel"
+
+**[01:01:50](/episodes/ep-ewBzjVe3LNQ.md#ent-person-kash-patel-t-01-01-50)**
+> "... someone that is, it could be Kash Patel."
+
+**[01:01:59](/episodes/ep-ewBzjVe3LNQ.md#ent-person-kash-patel-t-01-01-50)**
+> "I mean, I have, it could be Kash Patel."
+
+</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (6 mentions)</summary>
@@ -624,7 +638,15 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Kash Patel (11)</strong></summary>
+<summary><strong class="section-title">Statements about Kash Patel (12)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
+
+- [01:01:46](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-09) (Opinion) **Candace Owens**: ["Based on call sign analysis, there could be a chance that Kash Patel w..."](/statements/statement-b90aa7d83fb5.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</details>
 
 <details>
 <summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1)</summary>

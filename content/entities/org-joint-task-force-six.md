@@ -1,6 +1,6 @@
 ---
 title: "Joint Task Force Six"
-description: "Joint Task Force Six (Organizations) - 5 mentions"
+description: "Joint Task Force Six (Organizations) - 8 mentions"
 id: "org-joint-task-force-six"
 type: "ORG"
 aliases:
@@ -16,6 +16,20 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (3 mentions)</summary>
+
+**[00:25:36](/episodes/ep-ewBzjVe3LNQ.md#ent-org-joint-task-force-six-t-00-25-51)**
+> "Yeah, we were part of a mission going down to the board of JTF-6 assigned from 10th Mountain."
+
+**[00:26:15](/episodes/ep-ewBzjVe3LNQ.md#ent-org-joint-task-force-six-t-00-25-51)**
+> "...on going down to the board of JTF-6 assigned from 10th Mountain."
+
+**[00:27:38](/episodes/ep-ewBzjVe3LNQ.md#ent-org-joint-task-force-six-t-00-27-08)**
+> "...when I got pulled back to the JTF-6 headquarters,"
+
+</details>
 
 <details>
 <summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (5 mentions)</summary>

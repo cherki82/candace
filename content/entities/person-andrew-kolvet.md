@@ -674,7 +674,21 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Andrew Kolvet (12)</strong></summary>
+<summary><strong class="section-title">Statements by Andrew Kolvet (15)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (3)</summary>
+
+- [00:06:29](/episodes/ep-es7PWdFGoFI.md#t-00-06-11) [○] (Claim) ["Andrew Kolvet told Candace that he was one of the people who received a text mes..."](/statements/statement-dc76fa8f427b.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:13:25](/episodes/ep-es7PWdFGoFI.md#t-00-12-42) [○] (Claim) ["Andrew Kolvet posted on Twitter that he spoke with the surgeon who said Charlie ..."](/statements/statement-29b7a35a5f09.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:31:51](/episodes/ep-es7PWdFGoFI.md#t-00-31-26) [○] (Claim) ["Andrew Kolvet told Candace that Bibi Netanyahu offered to take Turning Point to ..."](/statements/statement-6b48d40529ea.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1)</summary>
@@ -745,19 +759,45 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Kolvet (11)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Kolvet (20)</strong></summary>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (3)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (12)</summary>
+
+- [00:05:02](/episodes/ep-es7PWdFGoFI.md#t-00-04-52) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk did not give any person the authority to say that the Catho..."](/statements/statement-6504abed6bbe.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Alex Clark](/entities/person-alex-clark.md)
 
 - [00:06:19](/episodes/ep-es7PWdFGoFI.md#t-00-06-11) (Claim) **Candace Owens**: ["Andrew Kolvet told me specifically that he was one of the people that ..."](/statements/statement-7847a11548fc.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
+- [00:06:55](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) (Claim) **Candace Owens**: ["Charlie Kirk sent text messages the night before his death saying they..."](/statements/statement-6ed250414edc.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Dan Flood](/entities/person-dan-flood.md)
+
 - [00:07:00](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) (Claim) **Erika Kirk**: ["Charlie Kirk sent text messages the night before his assassination to ..."](/statements/statement-1573e3db29b1.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Dan Flood](/entities/person-dan-flood.md)
 
+- [00:07:02](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) (Claim) **Candace Owens**: ["Andrew Kolvet received a message the night before Charlie Kirk was sho..."](/statements/statement-812a8acabfee.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
 - [00:14:16](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) (Claim) **Erika Kirk**: ["Andrew Kolvet called the surgeon and wrote a tweet about Charlie Kirk'..."](/statements/statement-e1f8bf06b0d4.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:14:16](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) (Claim) **Candace Owens** (via paraphrase): ["Andrew Kolvet spoke to the surgeon without Turning Point USA knowing h..."](/statements/statement-9d76e2356eb6.md)
+
+- [00:14:17](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk and Justin Streiff confirmed that Andrew Kolvet spoke to th..."](/statements/statement-2934cd4da2bf.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Justin Streiff](/entities/person-justin-streiff.md)
+
+- [00:14:24](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) (Claim) **Candace Owens**: ["Andrew Kolvet spoke to the surgeon without TPUSA knowing he would writ..."](/statements/statement-d884b8c97ce6.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:31:31](/episodes/ep-es7PWdFGoFI.md#t-00-31-26) (Claim) **Candace Owens**: ["Andrew Kolvet told Candace verbatim that Bibi Netanyahu offered to tak..."](/statements/statement-7ebbb6970725.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:31:51](/episodes/ep-es7PWdFGoFI.md#t-00-31-26) (Claim) **Candace Owens**: ["Andrew Kolvet told me verbatim that Bibi Netanyahu offered to take Tur..."](/statements/statement-305839cf919f.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:31:51](/episodes/ep-es7PWdFGoFI.md#t-00-31-26) (Claim) **Andrew Kolvet** (via quoted speech): ["Andrew Kolvet told Candace that Bibi Netanyahu offered to take Turning..."](/statements/statement-6b48d40529ea.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 

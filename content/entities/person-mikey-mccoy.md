@@ -802,7 +802,41 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mikey McCoy (19)</strong></summary>
+<summary><strong class="section-title">Statements about Mikey McCoy (29)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (10)</summary>
+
+- [00:25:46](/episodes/ep-es7PWdFGoFI.md#t-00-25-11) (Claim) **Blake Neff** (via quoted speech): ["Blake Neff said Mikey McCoy called Erika Kirk immediately after the sh..."](/statements/statement-4a781858dc80.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:25:51](/episodes/ep-es7PWdFGoFI.md#t-00-25-11) (Claim) **Blake Neff** (via quoted speech): ["Mikey called Erika and then immediately called his dad Rob McCoy sayin..."](/statements/statement-03a81f579a0f.md)
+  - Also about: [Rob McCoy](/entities/person-rob-mccoy.md)
+
+- [00:27:07](/episodes/ep-es7PWdFGoFI.md#t-00-26-38) (Claim) **Candace Owens**: ["According to call logs, the first person Mikey McCoy called after the ..."](/statements/statement-205006fadffd.md)
+
+- [00:27:10](/episodes/ep-es7PWdFGoFI.md#t-00-26-38) (Claim) **Candace Owens**: ["The first person Mikey McCoy called was his wife Elizabeth McCoy, and ..."](/statements/statement-3ce08d878074.md)
+  - Also about: [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)
+
+- [00:27:10](/episodes/ep-es7PWdFGoFI.md#t-00-26-38) (Claim) **Candace Owens**: ["Mikey McCoy's first call after the shooting was to his wife Elizabeth ..."](/statements/statement-1d5f2448e360.md)
+  - Also about: [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)
+
+- [00:27:24](/episodes/ep-es7PWdFGoFI.md#t-00-26-38) (Claim) **Candace Owens**: ["Mikey three-wayed Erika Kirk three minutes after the shot went off, th..."](/statements/statement-ce698028ec88.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Rob McCoy](/entities/person-rob-mccoy.md)
+
+- [00:27:24](/episodes/ep-es7PWdFGoFI.md#t-00-26-38) (Claim) **Candace Owens**: ["Mikey McCoy three-wayed Erika Kirk into the call with his wife three m..."](/statements/statement-7f1b803184a3.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:27:28](/episodes/ep-es7PWdFGoFI.md#t-00-27-24) (Claim) **Candace Owens**: ["Mikey McCoy stayed on the phone with his wife for 10 minutes, three-wa..."](/statements/statement-cde48c7f2dfc.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:28:26](/episodes/ep-es7PWdFGoFI.md#t-00-28-04) (Claim) **Candace Owens**: ["Mikey called Erika after Blake Neff ended his phone call with his moth..."](/statements/statement-af7ca7b67be0.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:28:26](/episodes/ep-es7PWdFGoFI.md#t-00-28-04) (Claim) **Candace Owens**: ["Mikey McCoy called Erika Kirk after Blake Neff ended his call with his..."](/statements/statement-20ddd092b3d2.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2)</summary>

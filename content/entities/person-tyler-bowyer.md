@@ -364,7 +364,17 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Bowyer (7)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Bowyer (9)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
+
+- [00:10:43](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) (Accusation) **Candace Owens**: ["Tyler Boyer lied about why Terrell Farnsworth took the camera down"](/statements/statement-3ead32a1417d.md)
+  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
+- [00:14:45](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) (Accusation) **Candace Owens**: ["Tyler Boyer lied about why Terrell took the camera down"](/statements/statement-1fac6b161905.md)
+
+</details>
 
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1)</summary>

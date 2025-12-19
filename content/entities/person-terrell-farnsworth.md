@@ -1,6 +1,6 @@
 ---
 title: "Terrell Farnsworth"
-description: "Terrell Farnsworth (People) - 12 mentions"
+description: "Terrell Farnsworth (People) - 14 mentions"
 id: "person-terrell-farnsworth"
 type: "PERSON"
 ---
@@ -11,6 +11,17 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
+
+**[00:06:23](/episodes/ep-ewBzjVe3LNQ.md#ent-person-terrell-farnsworth-t-00-05-35)**
+> "Terrell Farnsworth still major question marks he raced to remove the camera that was directly behind Charlie's head."
+
+**[00:06:03](/episodes/ep-ewBzjVe3LNQ.md#ent-person-terrell-farnsworth-t-00-05-35)**
+> "Terrell Farnsworth still major question marks he raced to remove the..."
+
+</details>
 
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (3 mentions)</summary>
@@ -79,6 +90,7 @@ _Type: People_
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
   - [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:12:15](/episodes/ep-JQjCAsfoXEE.md#t-00-11-52): "Terrell Farnsworth, the guy who takes out the SD cards, was there at all. Okay, Terrell does not do college campus events. He doesn't do that. He's at the top of the company."
   - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:02:15](/episodes/ep-es7PWdFGoFI.md#t-00-02-04): "My skin crawled after I spoke to Terrell Farnsworth, the person who took the cameras down."
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:06:27](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-18): "Terrell Farnsworth still major question marks he raced to remove the camera that was directly behind Charlie's head."
 
 </details>
 
@@ -93,15 +105,38 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Terrell Farnsworth (6)</strong></summary>
+<summary><strong class="section-title">Statements about Terrell Farnsworth (14)</strong></summary>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
+
+- [00:06:23](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-18) (Accusation) **Candace Owens**: ["Terrell Farnsworth raced to remove the camera that was directly behind..."](/statements/statement-353e6ec031d3.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (9)</summary>
+
+- [00:09:36](/episodes/ep-es7PWdFGoFI.md#t-00-09-22) (Accusation) **Candace Owens**: ["Terrell Farnsworth lied to Candace several times during their conversa..."](/statements/statement-ff4096136dd6.md)
+
+- [00:09:43](/episodes/ep-es7PWdFGoFI.md#t-00-09-22) (Accusation) **Candace Owens**: ["Terrell Farnsworth lied to me several times"](/statements/statement-ce76e68e4f2e.md)
+
+- [00:10:09](/episodes/ep-es7PWdFGoFI.md#t-00-09-57) (Claim) **Candace Owens**: ["Terrell Farnsworth comes from a very powerful family"](/statements/statement-ee0cb639f94a.md)
+
+- [00:10:29](/episodes/ep-es7PWdFGoFI.md#t-00-09-57) (Claim) **Candace Owens**: ["Terrell Farnsworth comes from a very powerful family"](/statements/statement-5e824d1a247f.md)
 
 - [00:10:43](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) (Accusation) **Candace Owens**: ["Tyler Boyer lied and said Terrell was asked to take the camera down by..."](/statements/statement-420d234f80d5.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
+- [00:10:43](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) (Accusation) **Candace Owens**: ["Tyler Boyer lied about why Terrell Farnsworth took the camera down"](/statements/statement-3ead32a1417d.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
 - [00:13:36](/episodes/ep-es7PWdFGoFI.md#t-00-13-27) (Opinion) **Candace Owens**: ["Terrell Farnsworth lied to me several times. My skin crawled after I s..."](/statements/statement-f3757ac613ee.md)
+
+- [00:13:43](/episodes/ep-es7PWdFGoFI.md#t-00-13-27) (Accusation) **Candace Owens**: ["Terrell Farnsworth lied to Candace several times"](/statements/statement-71248c54a021.md)
+
+- [00:14:29](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) (Claim) **Candace Owens**: ["Terrell Farnsworth comes from a very powerful family"](/statements/statement-0b969305ff97.md)
 
 </details>
 

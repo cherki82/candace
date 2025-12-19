@@ -1,6 +1,6 @@
 ---
 title: "Calvary Chapel"
-description: "Calvary Chapel (Organizations) - 58 mentions"
+description: "Calvary Chapel (Organizations) - 59 mentions"
 id: "org-calvary-chapel"
 type: "ORG"
 aliases:
@@ -15,6 +15,14 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>
+
+**[00:09:38](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-04)**
+> "I've covered extensively how even just amongst the Cavalry Chapel, in particular,"
+
+</details>
 
 <details>
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>

@@ -52,7 +52,21 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about DailyWire (2)</strong></summary>
+<summary><strong class="section-title">Statements about DailyWire (6)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (4)</summary>
+
+- [00:41:37](/episodes/ep-es7PWdFGoFI.md#t-00-41-03) (Accusation) **Candace Owens** (via paraphrase): ["The New York Post published an article claiming an inside source said ..."](/statements/statement-c213d5e7a0dc.md)
+  - Also about: [New York Post](/entities/org-new-york-post.md)
+
+- [00:41:57](/episodes/ep-es7PWdFGoFI.md#t-00-41-37) (Claim) **Candace Owens**: ["Candace never drove her car to the Daily Wire, they had a driver that ..."](/statements/statement-e14d83d3b29e.md)
+
+- [00:42:38](/episodes/ep-es7PWdFGoFI.md#t-00-42-21) (Claim) **Candace Owens**: ["Candace's whole team from the Daily Wire came with her when she got fi..."](/statements/statement-4d6aec237f93.md)
+
+- [00:42:40](/episodes/ep-es7PWdFGoFI.md#t-00-42-21) (Claim) **Candace Owens**: ["Candace's whole team came with her when she got fired from the Daily W..."](/statements/statement-2ec0ee8e9a5a.md)
+
+</details>
 
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1)</summary>

@@ -11,7 +11,7 @@ object: "person-erika-kirk"
 
 ## [Charlie Kirk](/entities/person-charlie-kirk) married to [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (31 mentions)
+### Evidence (32 mentions)
 
 **[Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg)**
 
@@ -86,6 +86,10 @@ object: "person-erika-kirk"
 **[Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI)**
 
 - [00:05:54](/episodes/ep-es7PWdFGoFI#t-00-05-54): _He calls Robin McCoy. And he says, dad, someone shot Charlie._
+
+**[EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ)**
+
+- [00:07:07](/episodes/ep-ewBzjVe3LNQ#t-00-07-07): _Federal agents prevented the surgeon from returning to his operating room...he wanted, obviously, the team to get back in there to make sure that Charlie could get cleaned up before Erica came in._
 
 **[Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM)**
 

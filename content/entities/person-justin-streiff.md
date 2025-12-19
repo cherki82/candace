@@ -138,13 +138,19 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Justin Streiff (1)</strong></summary>
+<summary><strong class="section-title">Statements about Justin Streiff (3)</strong></summary>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (3)</summary>
 
 - [00:02:04](/episodes/ep-es7PWdFGoFI.md#t-00-01-24) (Claim) **Candace Owens**: ["The meeting yesterday was four hours and 30 minutes with no rules. At ..."](/statements/statement-a00acb5ab7d2.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [George Farmer](/entities/person-george-farmer.md), [Mia Grant](/entities/person-mia-grant.md)
+
+- [00:02:06](/episodes/ep-es7PWdFGoFI.md#t-00-02-04) (Claim) **Candace Owens**: ["The meeting with Erika Kirk and Justin Streiff lasted four hours and 3..."](/statements/statement-42464183ec72.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:14:17](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk and Justin Streiff confirmed that Andrew Kolvet spoke to th..."](/statements/statement-2934cd4da2bf.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 

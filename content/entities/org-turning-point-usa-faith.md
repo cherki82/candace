@@ -1,6 +1,6 @@
 ---
 title: "Turning Point USA Faith"
-description: "Turning Point USA Faith (Organizations) - 50 mentions"
+description: "Turning Point USA Faith (Organizations) - 52 mentions"
 id: "org-turning-point-usa-faith"
 type: "ORG"
 aliases:
@@ -17,6 +17,17 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
+
+**[00:18:18](/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-faith-t-00-18-07)**
+> "here Israeli planes lead to the front door of Turning Point USA faith."
+
+**[00:18:20](/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-faith-t-00-18-07)**
+> "...nes lead to the front door of Turning Point USA faith."
+
+</details>
 
 <details>
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
@@ -316,7 +327,15 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point USA Faith (3)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point USA Faith (4)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
+
+- [00:12:04](/episodes/ep-es7PWdFGoFI.md#t-00-11-58) (Accusation) **Candace Owens**: ["Rob McCoy claimed on stage at the memorial to be 'America's pastor' an..."](/statements/statement-f7572e40a6e9.md)
+  - Also about: [Rob McCoy](/entities/person-rob-mccoy.md)
+
+</details>
 
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1)</summary>

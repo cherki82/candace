@@ -1,6 +1,6 @@
 ---
 title: "American Financing"
-description: "American Financing (Organizations) - 128 mentions"
+description: "American Financing (Organizations) - 132 mentions"
 id: "org-american-financing"
 type: "ORG"
 aliases:
@@ -15,6 +15,23 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (4 mentions)</summary>
+
+**[00:01:40](/episodes/ep-ewBzjVe3LNQ.md#ent-org-american-financing-t-01-07-37)**
+> "American Financing"
+
+**[01:08:06](/episodes/ep-ewBzjVe3LNQ.md#ent-org-american-financing-t-01-07-37)**
+> "... a homeowner, you should call American Financing today because you could be saving real money ever..."
+
+**[01:08:21](/episodes/ep-ewBzjVe3LNQ.md#ent-org-american-financing-t-01-08-21)**
+> "American Financing customers are saving an average of $800 a month w..."
+
+**[01:08:45](/episodes/ep-ewBzjVe3LNQ.md#ent-org-american-financing-t-01-08-21)**
+> "So call American Financing today."
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (5 mentions)</summary>

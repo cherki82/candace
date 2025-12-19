@@ -1,6 +1,6 @@
 ---
 title: "Tax Network USA"
-description: "Tax Network USA (Organizations) - 19 mentions"
+description: "Tax Network USA (Organizations) - 24 mentions"
 id: "org-tax-network-usa"
 type: "ORG"
 ---
@@ -11,6 +11,26 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (5 mentions)</summary>
+
+**[00:27:58](/episodes/ep-ewBzjVe3LNQ.md#ent-org-tax-network-usa-t-00-23-39)**
+> "Right now, Tax Network USA is offering a completely free IRS research and discovery call"
+
+**[00:22:35](/episodes/ep-ewBzjVe3LNQ.md#ent-org-tax-network-usa-t-00-22-11)**
+> "...I want to tell you guys about Tax Network USA because you might owe back taxes."
+
+**[00:23:10](/episodes/ep-ewBzjVe3LNQ.md#ent-org-tax-network-usa-t-00-22-55)**
+> "Right now, Tax Network USA is offering a completely free IRS research and di..."
+
+**[00:23:32](/episodes/ep-ewBzjVe3LNQ.md#ent-org-tax-network-usa-t-00-22-55)**
+> "... protected the right way with Tax Network USA and start the process of settling your tax burden..."
+
+**[00:23:39](/episodes/ep-ewBzjVe3LNQ.md#ent-org-tax-network-usa-t-00-23-39)**
+> "...your free discovery call with Tax Network USA."
+
+</details>
 
 <details>
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (5 mentions)</summary>

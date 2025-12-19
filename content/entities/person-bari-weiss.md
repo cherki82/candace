@@ -1,6 +1,6 @@
 ---
 title: "Bari Weiss"
-description: "Bari Weiss (People) - 43 mentions"
+description: "Bari Weiss (People) - 45 mentions"
 id: "person-bari-weiss"
 type: "PERSON"
 aliases:
@@ -16,6 +16,17 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
+
+**[00:24:00](/episodes/ep-ewBzjVe3LNQ.md#ent-person-bari-weiss-t-00-23-39)**
+> "I mean, obviously Barry Weiss is one of these actors."
+
+**[00:24:20](/episodes/ep-ewBzjVe3LNQ.md#ent-person-bari-weiss-t-00-23-39)**
+> "I mean, obviously Barry Weiss"
+
+</details>
 
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (10 mentions)</summary>
@@ -192,6 +203,14 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:24:22](/episodes/ep-ewBzjVe3LNQ.md#t-00-23-39): "obviously Barry Weiss is one of these actors. This is clearly an act. You obviously are not intelligent. You obviously are not some journalist that works their way up and broke some important stories. You are obviously an intelligence op and not so intelligent op."
+
+</details>
+
+<details>
 <summary>Formerly Worked For (2)</summary>
 
 - **[The New York Times](/entities/org-the-new-york-times.md)**
@@ -249,7 +268,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Referenced By (10)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:24:22](/episodes/ep-ewBzjVe3LNQ.md#t-00-23-39)
 
 - **[CBS](/entities/org-cbs.md)** employs this
   - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:15:31](/episodes/ep-sImMM04XdWY.md#t-00-15-24)
@@ -297,15 +319,30 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bari Weiss (7)</strong></summary>
+<summary><strong class="section-title">Statements about Bari Weiss (11)</strong></summary>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
+
+- [00:24:25](/episodes/ep-ewBzjVe3LNQ.md#t-00-24-24) (Accusation) **Candace Owens**: ["Bari Weiss is obviously an intelligence op and not so intelligent op"](/statements/statement-3b78c7f81f57.md)
+
+</details>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (5)</summary>
 
 - [00:09:01](/episodes/ep-es7PWdFGoFI.md#t-00-08-38) (Claim) **Candace Owens**: ["Bari Weiss picked the questions at the memorial event. It wasn't rando..."](/statements/statement-fc7f09b3d7c0.md)
 
+- [00:09:07](/episodes/ep-es7PWdFGoFI.md#t-00-08-38) (Accusation) **Candace Owens**: ["Bari Weiss selected the questions asked at the event, they were not ra..."](/statements/statement-55296d507943.md)
+
 - [00:09:10](/episodes/ep-es7PWdFGoFI.md#t-00-08-38) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk said she knew the general idea that questions would mention..."](/statements/statement-7527781c70d7.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:09:20](/episodes/ep-es7PWdFGoFI.md#t-00-08-38) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk was not given the specific question about 'the podcaster, C..."](/statements/statement-99497234ff71.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:09:20](/episodes/ep-es7PWdFGoFI.md#t-00-08-38) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk knew the general idea about questions mentioning Candace an..."](/statements/statement-f08a7d8f142e.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 

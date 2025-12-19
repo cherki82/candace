@@ -795,7 +795,39 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Benjamin Netanyahu (43)</strong></summary>
+<summary><strong class="section-title">Statements about Benjamin Netanyahu (52)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (9)</summary>
+
+- [00:29:28](/episodes/ep-es7PWdFGoFI.md#t-00-28-47) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk was not aware of the Netanyahu offer to fund Turning Point ..."](/statements/statement-5dd20f14fcda.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:30:34](/episodes/ep-es7PWdFGoFI.md#t-00-30-07) (Claim) **Candace Owens**: ["Seth Dillon pressed Charlie Kirk at the Hamptons retreat in a hypothet..."](/statements/statement-a1c5ecc4394f.md)
+  - Also about: [Seth Dillon](/entities/person-seth-dillon.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:30:59](/episodes/ep-es7PWdFGoFI.md#t-00-30-46) (Claim) **Candace Owens**: ["Seth Dillon pressed Charlie Kirk at the Hamptons event in a hypothetic..."](/statements/statement-3f92cbaa3000.md)
+  - Also about: [Seth Dillon](/entities/person-seth-dillon.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:31:20](/episodes/ep-es7PWdFGoFI.md#t-00-30-46) (Claim) **Erika Kirk**: ["Erika Kirk said she was not aware of the Bibi Netanyahu offer to fund ..."](/statements/statement-bc2afde09292.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:31:28](/episodes/ep-es7PWdFGoFI.md#t-00-31-26) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk said she was not aware of Bibi Netanyahu offering to fund T..."](/statements/statement-aafef4890699.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:31:31](/episodes/ep-es7PWdFGoFI.md#t-00-31-26) (Claim) **Candace Owens**: ["Andrew Kolvet told Candace verbatim that Bibi Netanyahu offered to tak..."](/statements/statement-7ebbb6970725.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:31:51](/episodes/ep-es7PWdFGoFI.md#t-00-31-26) (Claim) **Candace Owens**: ["Andrew Kolvet told me verbatim that Bibi Netanyahu offered to take Tur..."](/statements/statement-305839cf919f.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:31:51](/episodes/ep-es7PWdFGoFI.md#t-00-31-26) (Claim) **Andrew Kolvet** (via quoted speech): ["Andrew Kolvet told Candace that Bibi Netanyahu offered to take Turning..."](/statements/statement-6b48d40529ea.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:32:36](/episodes/ep-es7PWdFGoFI.md#t-00-32-06) (Claim) **Candace Owens**: ["Bibi Netanyahu called Charlie Kirk and made an offer to fund Turning P..."](/statements/statement-2ccc048a4217.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Tyler Robinson"
-description: "Tyler Robinson (People) - 342 mentions"
+description: "Tyler Robinson (People) - 349 mentions"
 id: "person-tyler-robinson"
 type: "PERSON"
 aliases:
@@ -16,6 +16,32 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (7 mentions)</summary>
+
+**[00:03:53](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tyler-robinson-t-00-03-30)**
+> "out there right now trying to convince you that there is overwhelming evidence that Tyler Robinson committed this crime."
+
+**[00:03:53](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tyler-robinson-t-00-03-30)**
+> "...is overwhelming evidence that Tyler Robinson committed this crime."
+
+**[00:03:53](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tyler-robinson-t-00-03-30)**
+> "...rwhelming evidence that Tyler Robinson committed this crime."
+
+**[00:07:50](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tyler-robinson-t-00-07-39)**
+> "They got the prints of Tyler Robinson on this gun."
+
+**[00:08:08](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tyler-robinson-t-00-07-39)**
+> "the footage of Tyler Robinson turning himself in is apparently missing."
+
+**[00:08:29](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tyler-robinson-t-00-08-23)**
+> "And Tyler chose the latter."
+
+**[01:14:22](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tyler-robinson-t-01-13-59)**
+> "We'll just keep saying Tyler Robinson, we'll just keep saying the evidence is overwhelm..."
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (27 mentions)</summary>
@@ -1226,6 +1252,7 @@ _Type: People_
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
   - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:21:21](/episodes/ep-es7PWdFGoFI.md#t-00-21-13): "Tyler Robinson shot Charlie Kirk. Like that more will come out, but you can take it from me that this is what happened."
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:03:59](/episodes/ep-ewBzjVe3LNQ.md#t-00-03-30): "out there right now trying to convince you that there is overwhelming evidence that Tyler Robinson committed this crime."
 
 </details>
 
@@ -1294,10 +1321,27 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Robinson (90)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Robinson (102)</strong></summary>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (4)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (5)</summary>
+
+- [00:04:31](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-13) (Claim) **Candace Owens**: ["The lone confirmed eyewitness to the alleged shooter on Losey Center r..."](/statements/statement-199870b8483a.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:07:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-07-39) (Claim) **Candace Owens**: ["There were multiple sets of prints on the weapon that was found"](/statements/statement-0867f9d570cd.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:08:08](/episodes/ep-ewBzjVe3LNQ.md#t-00-07-39) (Claim) **Candace Owens**: ["The footage of Tyler Robinson turning himself in is apparently missing"](/statements/statement-0a41ad054098.md)
+
+- [00:08:21](/episodes/ep-ewBzjVe3LNQ.md#t-00-07-39) (Accusation) **Candace Owens**: ["The entire story about how the parents turned him in and did the right..."](/statements/statement-2bb1432336be.md)
+
+- [00:08:36](/episodes/ep-ewBzjVe3LNQ.md#t-00-08-23) (Claim) **Candace Owens**: ["Police officers that were there when Tyler Robinson came into the poli..."](/statements/statement-bcdd1626213b.md)
+
+</details>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (11)</summary>
 
 - [00:10:43](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) (Accusation) **Candace Owens**: ["Tyler Boyer lied and said Terrell was asked to take the camera down by..."](/statements/statement-420d234f80d5.md)
   - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
@@ -1307,7 +1351,25 @@ _Type: People_
 - [00:18:09](/episodes/ep-es7PWdFGoFI.md#t-00-17-41) (Claim) **Candace Owens** (via paraphrase): ["Turning Point USA and Erika Kirk have not seen any evidence beyond wha..."](/statements/statement-ca6b4e9ab8ae.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
+- [00:18:09](/episodes/ep-es7PWdFGoFI.md#t-00-17-41) (Claim) **Candace Owens** (via paraphrase): ["Turning Point USA's lawyer said they have nothing but the affidavit re..."](/statements/statement-2494e31e1557.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:18:09](/episodes/ep-es7PWdFGoFI.md#t-00-17-41) (Claim) **Candace Owens** (via paraphrase): ["The Turning Point USA lawyer said they have nothing but the affidavit ..."](/statements/statement-55a27a78ea72.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:20:30](/episodes/ep-es7PWdFGoFI.md#t-00-19-50) (Opinion) **Candace Owens**: ["I don't believe that Tyler Robinson pulled the trigger"](/statements/statement-c3a8afbf2c68.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
 - [00:20:42](/episodes/ep-es7PWdFGoFI.md#t-00-20-30) (Opinion) **Candace Owens**: ["I don't believe that Tyler Robinson pulled the trigger"](/statements/statement-cdeead784a48.md)
+
+- [00:20:42](/episodes/ep-es7PWdFGoFI.md#t-00-20-30) (Opinion) **Candace Owens**: ["Tyler Robinson did not pull the trigger in the Charlie Kirk shooting"](/statements/statement-74fd764b1b2d.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:20:42](/episodes/ep-es7PWdFGoFI.md#t-00-20-30) (Opinion) **Candace Owens**: ["Candace does not believe Tyler Robinson pulled the trigger"](/statements/statement-2d88109a0e3d.md)
+
+- [00:21:44](/episodes/ep-es7PWdFGoFI.md#t-00-21-13) (Claim) **Anonymous Source #3 (Ep es7PWdFGoFI)** (via read message): ["The eyewitness filmed the person on the roof at 12:23 PM and did not s..."](/statements/statement-f5fc53767ccf.md)
+
+- [00:21:48](/episodes/ep-es7PWdFGoFI.md#t-00-21-13) (Claim) **Anonymous Source #3 (Ep es7PWdFGoFI)** (via read message): ["The eyewitness said he saw a smaller gun and the person was dressed in..."](/statements/statement-e4b83b45c20c.md)
 
 </details>
 

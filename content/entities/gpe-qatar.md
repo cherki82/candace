@@ -107,10 +107,27 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Qatar (3)</strong></summary>
+<summary><strong class="section-title">Statements about Qatar (9)</strong></summary>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (7)</summary>
+
+- [00:40:02](/episodes/ep-es7PWdFGoFI.md#t-00-39-56) (Claim) **Candace Owens**: ["George Farmer's Wikipedia was changed to say he had a Qatari passport ..."](/statements/statement-b41d294a7b1f.md)
+  - Also about: [George Farmer](/entities/person-george-farmer.md)
+
+- [00:40:07](/episodes/ep-es7PWdFGoFI.md#t-00-39-56) (Claim) **Candace Owens**: ["George Farmer has never been to Qatar"](/statements/statement-e264867657b2.md)
+  - Also about: [George Farmer](/entities/person-george-farmer.md)
+
+- [00:41:26](/episodes/ep-es7PWdFGoFI.md#t-00-41-03) (Claim) **Candace Owens**: ["George Farmer has never been to Qatar"](/statements/statement-861f23af3b8a.md)
+  - Also about: [George Farmer](/entities/person-george-farmer.md)
+
+- [01:12:34](/episodes/ep-es7PWdFGoFI.md#t-01-12-31) (Claim) **Candace Owens** (via paraphrase): ["Qatar said they work with Hamas because Israel and the United States a..."](/statements/statement-9b899cf72bc4.md)
+
+- [01:12:34](/episodes/ep-es7PWdFGoFI.md#t-01-12-31) (Claim) **Candace Owens**: ["Qatar said they work with Hamas because Israel and the US asked them t..."](/statements/statement-f49618df9e54.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md), [Hamas](/entities/org-hamas.md)
+
+- [01:12:54](/episodes/ep-es7PWdFGoFI.md#t-01-12-31) (Claim) **Candace Owens** (via paraphrase): ["Qatar recently said they work with Hamas because Israel and the United..."](/statements/statement-e85ac201b956.md)
+  - Also about: [Hamas](/entities/org-hamas.md), [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
 
 - [01:13:14](/episodes/ep-es7PWdFGoFI.md#t-01-12-31) (Claim) **Candace Owens** (via paraphrase): ["Qatar recently came out and said we work with Hamas because Israel and..."](/statements/statement-37092c5c9482.md)
   - Also about: [Hamas](/entities/org-hamas.md), [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)

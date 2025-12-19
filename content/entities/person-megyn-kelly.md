@@ -683,7 +683,14 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Megyn Kelly (2)</strong></summary>
+<summary><strong class="section-title">Statements about Megyn Kelly (3)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
+
+- [00:58:09](/episodes/ep-es7PWdFGoFI.md#t-00-58-00) (Claim) **Candace Owens**: ["Megyn Kelly offered to referee the conversation between Candace and Tu..."](/statements/statement-5e460b52965e.md)
+
+</details>
 
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1)</summary>

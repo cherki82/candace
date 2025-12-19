@@ -1,6 +1,6 @@
 ---
 title: "Utah Valley Hospital"
-description: "Utah Valley Hospital (Organizations) - 7 mentions"
+description: "Utah Valley Hospital (Organizations) - 8 mentions"
 id: "org-utah-valley-hospital"
 type: "ORG"
 ---
@@ -11,6 +11,14 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>
+
+**[00:07:23](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-59)**
+> "We have that the vehicle in which Charlie was transported to Timpanagos or Timpanagos Hospital was not impounded by law enforcement."
+
+</details>
 
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (3 mentions)</summary>
@@ -54,5 +62,18 @@ _Type: Organizations_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Utah Valley Hospital (1)</strong></summary>
+
+<details>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
+
+- [00:56:46](/episodes/ep-es7PWdFGoFI.md#t-00-56-34) (Claim) **Candace Owens**: ["George Zinn told nurses at Utah Valley Hospital he was paid to falsely..."](/statements/statement-67b910caa0a7.md)
+  - Also about: [George Zinn](/entities/person-george-zinn.md)
+
+</details>
 
 </details>

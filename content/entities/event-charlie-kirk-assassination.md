@@ -944,7 +944,15 @@ _Type: Events_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk assassination (108)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk assassination (109)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
+
+- [01:11:45](/episodes/ep-ewBzjVe3LNQ.md#t-01-11-14) (Opinion) **Candace Owens**: ["I do believe that our government was involved in this and is involved ..."](/statements/statement-69914990950d.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (7)</summary>
