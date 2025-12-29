@@ -20366,14 +20366,13 @@ _Total events: 548_
 <div class="timeline-date">2025-09-09</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-vip-government-plane-sam-flight-99-0404-.md">VIP government plane (SAM flight 99-0404) departs Fort Huachuca with call sign change indicating VIP passenger</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">1× in 1 ep</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09: VIP government plane (SAM flight 99-0404) departs Fort Huachuca with call sign change indicating VIP passenger - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theor... @ 00:44:50](/episodes/ep-6DhWawD4ZiM.md#t-00-44-27)
-- [BREAKING NEWS! We Received Photos Of Charlie's ... @ 00:51:00](/episodes/ep-9k2xrAC0H88.md#t-00-50-27)
 
 </details>
 </div>
@@ -22416,7 +22415,7 @@ _Total events: 548_
 - [Operation: “See you in Valhalla, Charlie”. | Ca... @ 00:08:54](/episodes/ep-mKXdKV-OBog.md#t-00-08-31)
 - [Operation: “See you in Valhalla, Charlie”. | Ca... @ 00:09:13](/episodes/ep-mKXdKV-OBog.md#t-00-09-13)
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:20:36](/episodes/ep-tB5SXXmd9vU.md#t-00-20-29)
-- [BREAKING NEWS! We Received Photos Of Charlie's ... @ 00:44:37](/episodes/ep-9k2xrAC0H88.md#t-00-44-05)
+- [BREAKING NEWS! We Received Photos Of Charlie's ... @ 00:43:37](/episodes/ep-9k2xrAC0H88.md#t-00-43-23)
 
 </details>
 </div>

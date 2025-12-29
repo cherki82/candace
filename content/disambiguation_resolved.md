@@ -1,6 +1,6 @@
 # Entity Disambiguation - Resolved Mentions
 
-Generated: 2025-12-29 16:16:10
+Generated: 2025-12-29 16:24:51
 
 **9 ambiguous mentions** were automatically resolved using context.
 
@@ -10,7 +10,7 @@ Review these to verify the disambiguation was correct.
 
 ## `Andrew` (1 resolved)
 
-**Candidates:** Andrew Klavan, Andrew Kolvet
+**Candidates:** Andrew Kolvet, Andrew Klavan
 
 | Episode | Location | Resolved To | Context |
 |---------|----------|-------------|--------|

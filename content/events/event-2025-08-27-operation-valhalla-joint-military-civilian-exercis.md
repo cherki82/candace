@@ -152,7 +152,7 @@ date: "2025-08-27"
 ### 18. BREAKING NEWS! We Received Photos Of Charlie's Car After The...
 
 **Episode:** [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md)
-**Timestamp:** [00:44:37](/episodes/ep-9k2xrAC0H88.md#t-00-44-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2677);return false;">▶️ Play</a>
+**Timestamp:** [00:43:37](/episodes/ep-9k2xrAC0H88.md#event-event-2025-08-27-operation-valhalla-joint-military-civilian-exercis-t-00-43-23) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2617);return false;">▶️ Play</a>
 
-> 891st Missile Security Forces Squadron, a combined military and civilian security force that had just come off of Operation Valhalla, a training exercise
+> It also happens to be the exact date that Operation Valhalla Strike begins between civilians and
