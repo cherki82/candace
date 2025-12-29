@@ -2710,14 +2710,6 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Friend Of (1)</summary>
-
-- **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 01:10:50](/episodes/ep-es7PWdFGoFI.md#t-01-10-18): "Tucker obviously has a good relationship with them that there were some Turning Point USA employees."
-
-</details>
-
-<details>
 <summary>Has Ceo (2)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
@@ -2825,7 +2817,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Referenced By (42)</summary>
+<summary>Referenced By (41)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** CEO of this
   - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:06:41](/episodes/ep-vwG1juDCQZQ.md#t-00-06-26)
@@ -2881,9 +2873,6 @@ _Type: Organizations_
 
 - **[Donald Trump Jr.](/entities/person-donald-trump-jr.md)** founded this
   - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:32:31](/episodes/ep-Qt0VHV-POCg.md#t-00-31-50)
-
-- **[Tucker Carlson](/entities/person-tucker-carlson.md)** friend of this
-  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 01:10:50](/episodes/ep-es7PWdFGoFI.md#t-01-10-18)
 
 - **[Phoenix](/entities/gpe-phoenix.md)** headquarters of this
   - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:05:30](/episodes/ep-ZAuuSq_j2_w.md#t-00-05-21)

@@ -30,7 +30,7 @@ _No relationships extracted yet._
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (1)</summary>
 
 - [00:29:06](/episodes/ep-2WEHTk0Xewg.md#t-00-28-30) [○] (Accusation) ["An anonymous source told Candace that Governor Cox lied about Tyler Robinson bei..."](/statements/statement-fbb0b0aeeeaf.md)
-  - About: [person-governor-cox](/entities/person-governor-cox.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md)
 
 </details>
 

@@ -145,15 +145,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>Met With (5)</summary>
+<summary>Met With (4)</summary>
 
 - **[Captain Adam Neff](/entities/person-captain-adam-neff.md)**
   - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:49:24](/episodes/ep-ewBzjVe3LNQ.md#t-00-48-59): "me, one of the captains there, his name was Captain Neff, nice guy...Yeah, and I started telling him my story"
 
-- **[Zohran Mamdani](/entities/person-zohran-mamdani.md)**
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:01:57](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-19): "This is, and Skyler, someone's got to get in my ears, I'm blanking on his name, Mark Amodi...That's 95. I'm absolutely, you know, after I've looked at it, that's, yeah, that was definitely the guy."
-
 - **[Mark Amodei](/entities/person-mark-amodei.md)**
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:01:57](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-19): "This is, and Skyler, someone's got to get in my ears, I'm blanking on his name, Mark Amodi...That's 95. I'm absolutely, you know, after I've looked at it, that's, yeah, that was definitely the guy."
   - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:01:10](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-05): "Mark Amodei... And you thought that this could potentially be the congressman that you saw on the 9th?... Yeah, that's the one I walked closest to"
 
 - **[Brian Harpole](/entities/person-brian-harpole.md)**
@@ -165,7 +163,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (10)</summary>
+<summary>Referenced By (9)</summary>
 
 - **[10th Mountain Division](/entities/org-10th-mountain-division.md)** formerly employed this
   - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:32:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-31-58)
@@ -183,10 +181,8 @@ _Type: People_
 - **[Captain Adam Neff](/entities/person-captain-adam-neff.md)** met with this
   - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:49:24](/episodes/ep-ewBzjVe3LNQ.md#t-00-48-59)
 
-- **[Zohran Mamdani](/entities/person-zohran-mamdani.md)** met with this
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:01:57](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-19)
-
 - **[Mark Amodei](/entities/person-mark-amodei.md)** met with this
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:01:57](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-19)
   - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:01:10](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-05)
 
 - **[Brian Harpole](/entities/person-brian-harpole.md)** met with this

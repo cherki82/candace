@@ -21,7 +21,7 @@ type: "factual_claim"
 ## About
 
 - [Donald Trump](/entities/person-donald-trump.md) (person)
-- [person-mamdani](/entities/person-mamdani.md)
+- [Zohran Mamdani](/entities/person-zohran-mamdani.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source

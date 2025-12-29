@@ -1,6 +1,6 @@
 ---
 title: "Nimi Skincare"
-description: "Nimi Skincare (Organizations) - 27 mentions"
+description: "Nimi Skincare (Organizations) - 30 mentions"
 id: "org-nimi-skincare"
 type: "ORG"
 aliases:
@@ -16,6 +16,17 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
+
+**[00:50:07](/episodes/ep-w1oqQbR_bYs.md#ent-org-nimi-skincare-t-00-50-07)**
+> "...'ll get 10% off your order at NIMISKINCARE.COM."
+
+**[00:50:14](/episodes/ep-w1oqQbR_bYs.md#ent-org-nimi-skincare-t-00-50-07)**
+> "That's NIMISKINCARE.COM."
+
+</details>
 
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (4 mentions)</summary>

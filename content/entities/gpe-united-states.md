@@ -1,6 +1,6 @@
 ---
 title: "United States"
-description: "United States (Places) - 685 mentions"
+description: "United States (Places) - 699 mentions"
 id: "gpe-united-states"
 type: "GPE"
 aliases:
@@ -22,6 +22,53 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (14 mentions)</summary>
+
+**[00:47:18](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-united-states-t-00-47-24)**
+> "And when you choose PureTalk as your wireless provider, you choose to support American jobs"
+
+**[00:01:14](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-united-states-t-00-47-24)**
+> "...it the stage at Turning Point USA's AmFest the other night."
+
+**[00:02:30](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-united-states-t-00-47-24)**
+> "So he comes at Turning Point USA, and this is what was divulged to me from Andrew ..."
+
+**[00:20:54](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-united-states-t-00-47-24)**
+> "...ages I got from Turning Point USA people saying, what is happening?"
+
+**[00:23:02](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-united-states-t-00-47-24)**
+> "... are working at Turning Point USA."
+
+**[00:29:14](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-united-states-t-00-47-24)**
+> "...ng you guys about Tax Network USA, because maybe you owe back taxes, you've not fil..."
+
+**[00:29:49](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-united-states-t-00-47-24)**
+> "Right now, Tax Network USA is offering a completely free IRS research and di..."
+
+**[00:30:12](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-united-states-t-00-47-24)**
+> "...he right way with Tax Network USA."
+
+**[00:30:20](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-united-states-t-00-47-24)**
+> "...scovery call with Tax Network USA."
+
+**[00:47:36](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-united-states-t-00-47-24)**
+> "...ver half a million dollars to America's Warrior Partnership."
+
+**[00:47:48](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-united-states-t-00-47-24)**
+> "... a thousand hand-sewn Made in America flags to your fellow veterans."
+
+**[00:48:12](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-united-states-t-00-48-04)**
+> "... for your trust and God bless America."
+
+**[00:48:25](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-united-states-t-00-48-04)**
+> "...bt is crushing budgets across the country, but homeowners who act now are using their equit..."
+
+**[00:50:35](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-united-states-t-00-50-07)**
+> "...gue to break down families to America."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>

@@ -36,7 +36,7 @@ _No relationships extracted yet._
   - About: [Lance Twiggs](/entities/person-lance-twiggs.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 - [00:29:29](/episodes/ep-2WEHTk0Xewg.md#t-00-29-06) [○] (Claim) ["Tyler Robinson was not wearing the maroon t-shirt outfit when he was picked up b..."](/statements/statement-7c2d30d5c896.md)
-  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [person-governor-cox](/entities/person-governor-cox.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Spencer Cox](/entities/person-spencer-cox.md)
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Andrew Klavan"
-description: "Andrew Klavan (People) - 6 mentions"
+description: "Andrew Klavan (People) - 14 mentions"
 id: "person-andrew-klavan"
 type: "PERSON"
 aliases:
@@ -16,6 +16,35 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (8 mentions)</summary>
+
+**[00:22:17](/episodes/ep-w1oqQbR_bYs.md#t-00-21-50)**
+> "Constantine Kissin and Andrew Christus King Claven and all of the people"
+
+**[00:02:30](/episodes/ep-w1oqQbR_bYs.md#t-00-02-30)**
+> "... what was divulged to me from Andrew Kolvet at the time, willing to spend an offensive..."
+
+**[00:02:40](/episodes/ep-w1oqQbR_bYs.md#t-00-02-30)**
+> "... said, that was told to me by Andrew Kolvet directly because he wanted to say, look, l..."
+
+**[00:19:05](/episodes/ep-w1oqQbR_bYs.md#t-00-19-05)**
+> "...spersions at Mikey McCoy, and Andrew Kolvet, and Blake Neff, and Tyler Bowyer, and yes..."
+
+**[00:22:02](/episodes/ep-w1oqQbR_bYs.md#t-00-21-50)**
+> "...ded by Constantine Kissin and Andrew Christus King Claven and all of the people, the m..."
+
+**[00:41:05](/episodes/ep-w1oqQbR_bYs.md#t-00-41-05)**
+> "...y intimated that to you, like Andrew Kolvet has a memory, Erika Kirk has a memory, and..."
+
+**[00:41:14](/episodes/ep-w1oqQbR_bYs.md#t-00-41-05)**
+> "...a three-way call with him and Andrew and Erica."
+
+**[00:41:32](/episodes/ep-w1oqQbR_bYs.md#t-00-41-05)**
+> "...Erica's telling the truth and Andrew Kolvet was flying blind."
+
+</details>
 
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (6 mentions)</summary>

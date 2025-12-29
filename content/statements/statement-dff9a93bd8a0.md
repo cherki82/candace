@@ -21,7 +21,7 @@ type: "factual_claim"
 ## About
 
 - [Bill Ackman](/entities/person-bill-ackman.md) (person)
-- [person-mamdani](/entities/person-mamdani.md)
+- [Zohran Mamdani](/entities/person-zohran-mamdani.md) (person)
 
 ## Source
 

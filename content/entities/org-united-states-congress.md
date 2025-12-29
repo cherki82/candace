@@ -1,6 +1,6 @@
 ---
 title: "United States Congress"
-description: "United States Congress (Organizations) - 7 mentions"
+description: "United States Congress (Organizations) - 9 mentions"
 id: "org-united-states-congress"
 type: "ORG"
 aliases:
@@ -15,6 +15,17 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
+
+**[00:03:54](/episodes/ep-w1oqQbR_bYs.md#ent-org-united-states-congress-t-00-03-53)**
+> "Brian Mast was wearing an IDF uniform in Congress"
+
+**[00:03:53](/episodes/ep-w1oqQbR_bYs.md#ent-org-united-states-congress-t-00-03-53)**
+> "...was wearing an IDF uniform in Congress and he basically said that there's no such thing ..."
+
+</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>

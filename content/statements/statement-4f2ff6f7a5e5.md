@@ -20,7 +20,7 @@ type: "factual_claim"
 
 ## About
 
-- [person-governor-cox](/entities/person-governor-cox.md)
+- [Spencer Cox](/entities/person-spencer-cox.md) (person)
 - [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
 
 ## Source

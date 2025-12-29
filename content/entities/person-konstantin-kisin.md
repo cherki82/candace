@@ -1,6 +1,6 @@
 ---
 title: "Konstantin Kisin"
-description: "Konstantin Kisin (People) - 6 mentions"
+description: "Konstantin Kisin (People) - 7 mentions"
 id: "person-konstantin-kisin"
 type: "PERSON"
 ---

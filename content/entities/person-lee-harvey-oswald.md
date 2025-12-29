@@ -46,20 +46,6 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Accused (1)</summary>
-
-- **[John F. Kennedy](/entities/person-john-f-kennedy.md)**
-  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:56:09](/episodes/ep-9k2xrAC0H88.md#t-00-55-37): "maybe JFK really was just shot by Lee Harvey Oswald"
-
-</details>
-
-<details>
-<summary>Referenced By (1)</summary>
-
-- **[John F. Kennedy](/entities/person-john-f-kennedy.md)** accused by this
-  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:56:09](/episodes/ep-9k2xrAC0H88.md#t-00-55-37)
-
-</details>
+_No relationships extracted yet._
 
 </details>

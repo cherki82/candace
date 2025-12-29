@@ -1254,14 +1254,6 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Accused (1)</summary>
-
-- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:02:25](/episodes/ep-vwG1juDCQZQ.md#t-00-02-10): "I could have never forgiven Tyler Robinson for whatever part he played in this"
-
-</details>
-
-<details>
 <summary>Accused By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -1289,13 +1281,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
   - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:21:21](/episodes/ep-es7PWdFGoFI.md#t-00-21-13)
-
-- **[Charlie Kirk](/entities/person-charlie-kirk.md)** accused by this
-  - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:02:25](/episodes/ep-vwG1juDCQZQ.md#t-00-02-10)
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** criticized this
   - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:49:27](/episodes/ep-czVBmqZP6Ss.md#t-00-49-18)
@@ -1548,7 +1537,7 @@ _Type: People_
 - [00:15:06](/episodes/ep-2WEHTk0Xewg.md#t-00-14-28) (Claim) **Candace Owens**: ["TMZ published footage of a man in a maroon t-shirt and shorts walking ..."](/statements/statement-1b000c4256c5.md)
 
 - [00:15:20](/episodes/ep-2WEHTk0Xewg.md#t-00-15-06) (Claim) **Candace Owens** (via paraphrase): ["Governor Cox confirmed that the person in TMZ footage is Tyler Robinso..."](/statements/statement-2de6d8874914.md)
-  - Also about: [person-governor-cox](/entities/person-governor-cox.md)
+  - Also about: [Spencer Cox](/entities/person-spencer-cox.md)
 
 - [00:15:32](/episodes/ep-2WEHTk0Xewg.md#t-00-15-06) (Claim) **Candace Owens**: ["Tyler Robinson was seen walking back onto campus at 11:51 AM in differ..."](/statements/statement-54088ef71ce0.md)
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
@@ -1568,13 +1557,13 @@ _Type: People_
 - [00:27:07](/episodes/ep-2WEHTk0Xewg.md#t-00-27-02) (Claim) **Donald Trump** (via quoted speech): ["I think with a high degree of certainty, we have him in custody"](/statements/statement-fa416edb0493.md)
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
-- [00:28:30](/episodes/ep-2WEHTk0Xewg.md#t-00-27-57) (Claim) **person-governor-cox** (via quoted speech): ["Governor Cox stated at a press conference that Tyler Robinson was obse..."](/statements/statement-d27725df2957.md)
+- [00:28:30](/episodes/ep-2WEHTk0Xewg.md#t-00-27-57) (Claim) **Spencer Cox** (via quoted speech): ["Governor Cox stated at a press conference that Tyler Robinson was obse..."](/statements/statement-d27725df2957.md)
 
-- [00:28:57](/episodes/ep-2WEHTk0Xewg.md#t-00-28-30) (Claim) **person-governor-cox** (via quoted speech): ["Tyler Robinson was encountered by investigators in Washington County i..."](/statements/statement-551743034477.md)
+- [00:28:57](/episodes/ep-2WEHTk0Xewg.md#t-00-28-30) (Claim) **Spencer Cox** (via quoted speech): ["Tyler Robinson was encountered by investigators in Washington County i..."](/statements/statement-551743034477.md)
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 - [00:29:29](/episodes/ep-2WEHTk0Xewg.md#t-00-29-06) (Claim) **Anonymous Source #2 (Ep 2WEHTk0Xewg)** (via read message): ["Tyler Robinson was not wearing the maroon t-shirt outfit when he was p..."](/statements/statement-7c2d30d5c896.md)
-  - Also about: [person-governor-cox](/entities/person-governor-cox.md)
+  - Also about: [Spencer Cox](/entities/person-spencer-cox.md)
 
 - [00:29:51](/episodes/ep-2WEHTk0Xewg.md#t-00-29-45) (Claim) **Candace Owens** (via paraphrase): ["Tyler Robinson was described by classmates as very tidy and clean, mak..."](/statements/statement-0e8dd2da2a7e.md)
 

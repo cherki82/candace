@@ -1,6 +1,6 @@
 ---
 title: "Captain Adam Neff"
-description: "Captain Adam Neff (People) - 21 mentions"
+description: "Captain Adam Neff (People) - 23 mentions"
 id: "person-captain-adam-neff"
 type: "PERSON"
 aliases:
@@ -17,6 +17,17 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
+
+**[00:32:38](/episodes/ep-w1oqQbR_bYs.md#ent-person-captain-adam-neff-t-00-32-19)**
+> "We verified that Blake Neff, I mean, I'm sorry, not Blake Neff. Pardon me, Captain Neff was there"
+
+**[00:32:19](/episodes/ep-w1oqQbR_bYs.md#ent-person-captain-adam-neff-t-00-32-19)**
+> "...y, not Blake Neff. Pardon me, Captain Neff was there, the one that he says was nice. But he ..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (3 mentions)</summary>

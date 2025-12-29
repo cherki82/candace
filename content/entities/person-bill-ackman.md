@@ -375,7 +375,7 @@ _Type: People_
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1)</summary>
 
 - [00:10:22](/episodes/ep-LATnak75Si0.md#t-00-09-44) (Claim) **Candace Owens**: ["Bill Ackman gave .75 million to stop Mamdani"](/statements/statement-dff9a93bd8a0.md)
-  - Also about: [person-mamdani](/entities/person-mamdani.md)
+  - Also about: [Zohran Mamdani](/entities/person-zohran-mamdani.md)
 
 </details>
 

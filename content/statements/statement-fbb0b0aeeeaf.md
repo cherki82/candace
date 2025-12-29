@@ -21,7 +21,7 @@ type: "accusation"
 
 ## About
 
-- [person-governor-cox](/entities/person-governor-cox.md)
+- [Spencer Cox](/entities/person-spencer-cox.md) (person)
 
 ## Source
 

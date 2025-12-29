@@ -5892,7 +5892,7 @@ _Type: People_
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (19)</summary>
 
 - [00:00:05](/episodes/ep-LATnak75Si0.md#t-00-00-00) [○] (Claim) ["Mamdani won the New York City mayoral election"](/statements/statement-70d16cea31e1.md)
-  - About: [person-mamdani](/entities/person-mamdani.md)
+  - About: [Zohran Mamdani](/entities/person-zohran-mamdani.md)
 
 - [00:02:33](/episodes/ep-LATnak75Si0.md#t-00-02-10) [○] (Claim) ["The UVU request for Charlie Kirk to speak came in mid-July and was immediately a..."](/statements/statement-90e4798ae183.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -5910,21 +5910,21 @@ _Type: People_
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:10:22](/episodes/ep-LATnak75Si0.md#t-00-09-44) [○] (Claim) ["Bill Ackman gave .75 million to stop Mamdani"](/statements/statement-dff9a93bd8a0.md)
-  - About: [Bill Ackman](/entities/person-bill-ackman.md), [person-mamdani](/entities/person-mamdani.md)
+  - About: [Bill Ackman](/entities/person-bill-ackman.md), [Zohran Mamdani](/entities/person-zohran-mamdani.md)
 
 - [00:10:30](/episodes/ep-LATnak75Si0.md#t-00-09-44) [○] (Claim) ["Michael Bloomberg gave .3 million to a Cuomo-affiliated super PAC to stop Mamdan..."](/statements/statement-96b210228669.md)
-  - About: [Michael Bloomberg](/entities/person-michael-bloomberg.md), [person-mamdani](/entities/person-mamdani.md), [Andrew Cuomo](/entities/person-andrew-cuomo.md)
+  - About: [Michael Bloomberg](/entities/person-michael-bloomberg.md), [Zohran Mamdani](/entities/person-zohran-mamdani.md), [Andrew Cuomo](/entities/person-andrew-cuomo.md)
 
 - [00:10:41](/episodes/ep-LATnak75Si0.md#t-00-10-30) [○] (Claim) ["Airbnb co-founder Joe Gebbia gave .1 million to stop Mamdani"](/statements/statement-6d90401f55f6.md)
-  - About: [Joe Gebbia](/entities/person-joe-gebbia.md), [person-mamdani](/entities/person-mamdani.md)
+  - About: [Joe Gebbia](/entities/person-joe-gebbia.md), [Zohran Mamdani](/entities/person-zohran-mamdani.md)
 
 - [00:14:26](/episodes/ep-LATnak75Si0.md#t-00-13-49) [○] (Claim) ["New York has the largest population of Jewish people of any city in the world ne..."](/statements/statement-f894364f670d.md)
 
 - [00:14:52](/episodes/ep-LATnak75Si0.md#t-00-14-30) [○] (Citation) ["Mamdani got 32% of the Jewish vote in New York City exit polls"](/statements/statement-2dbdb6480c36.md)
-  - About: [person-mamdani](/entities/person-mamdani.md)
+  - About: [Zohran Mamdani](/entities/person-zohran-mamdani.md)
 
 - [00:20:44](/episodes/ep-LATnak75Si0.md#t-00-20-09) [○] (Claim) ["Donald Trump dedicated 900% more Truth Social posts to ensuring Mamdani would lo..."](/statements/statement-08b3721de5cf.md)
-  - About: [Donald Trump](/entities/person-donald-trump.md), [person-mamdani](/entities/person-mamdani.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - About: [Donald Trump](/entities/person-donald-trump.md), [Zohran Mamdani](/entities/person-zohran-mamdani.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:28:23](/episodes/ep-LATnak75Si0.md#t-00-28-06) [○] (Claim) ["Bob Shulman took  million away from Charlie Kirk because he let Tucker Carlson h..."](/statements/statement-15d3386acf60.md)
   - About: [Bob Schulman](/entities/person-bob-schulman.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
@@ -7342,10 +7342,10 @@ _Type: People_
   - About: [George Zinn](/entities/person-george-zinn.md)
 
 - [00:07:51](/episodes/ep-2WEHTk0Xewg.md#t-00-07-18) [○] (Claim) ["Governor Cox mentioned in a press conference at 5:30pm that a second person of i..."](/statements/statement-782382f1bca7.md)
-  - About: [person-governor-cox](/entities/person-governor-cox.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md)
 
 - [00:07:58](/episodes/ep-2WEHTk0Xewg.md#t-00-07-18) [○] (Claim) ["Governor Cox mentioned at 5:30 PM during a press conference that a second suspec..."](/statements/statement-4f2ff6f7a5e5.md)
-  - About: [person-governor-cox](/entities/person-governor-cox.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 - [00:15:06](/episodes/ep-2WEHTk0Xewg.md#t-00-14-28) [○] (Claim) ["Tyler Robinson entered campus at 8:07 AM wearing a maroon t-shirt and shorts"](/statements/statement-5926c4d45563.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
@@ -7354,7 +7354,7 @@ _Type: People_
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:15:20](/episodes/ep-2WEHTk0Xewg.md#t-00-15-06) [○] (Claim) ["Governor Cox confirmed that the person in TMZ footage is Tyler Robinson"](/statements/statement-2de6d8874914.md)
-  - About: [person-governor-cox](/entities/person-governor-cox.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:15:32](/episodes/ep-2WEHTk0Xewg.md#t-00-15-06) [○] (Claim) ["Tyler Robinson was seen walking back onto campus at 11:51 AM in different clothi..."](/statements/statement-54088ef71ce0.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
@@ -7396,7 +7396,7 @@ _Type: People_
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:31:35](/episodes/ep-2WEHTk0Xewg.md#t-00-31-15) [○] (Accusation) ["Governor Cox announced 'We got him' and declared closure on the investigation de..."](/statements/statement-43fc6b3e60d3.md)
-  - About: [person-governor-cox](/entities/person-governor-cox.md)
+  - About: [Spencer Cox](/entities/person-spencer-cox.md)
 
 - [00:31:46](/episodes/ep-2WEHTk0Xewg.md#t-00-31-35) [○] (Claim) ["Discord said the messages attributed to Tyler Robinson and Lance Twiggs were not..."](/statements/statement-48a69a1c0de4.md)
   - About: [Discord](/entities/org-discord.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md)

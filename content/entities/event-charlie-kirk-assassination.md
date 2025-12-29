@@ -1273,7 +1273,7 @@ _Type: Events_
   - Also about: [George Zinn](/entities/person-george-zinn.md)
 
 - [00:07:58](/episodes/ep-2WEHTk0Xewg.md#t-00-07-18) (Claim) **Candace Owens**: ["Governor Cox mentioned at 5:30 PM during a press conference that a sec..."](/statements/statement-4f2ff6f7a5e5.md)
-  - Also about: [person-governor-cox](/entities/person-governor-cox.md)
+  - Also about: [Spencer Cox](/entities/person-spencer-cox.md)
 
 - [00:09:04](/episodes/ep-2WEHTk0Xewg.md#t-00-08-42) (Claim) **Kash Patel** (via quoted tweet): ["The subject in custody has been released. Our investigation continues"](/statements/statement-4860acce423a.md)
 
@@ -1304,7 +1304,7 @@ _Type: Events_
 - [00:27:07](/episodes/ep-2WEHTk0Xewg.md#t-00-27-02) (Claim) **Donald Trump** (via quoted speech): ["I think with a high degree of certainty, we have him in custody"](/statements/statement-fa416edb0493.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
-- [00:28:57](/episodes/ep-2WEHTk0Xewg.md#t-00-28-30) (Claim) **person-governor-cox** (via quoted speech): ["Tyler Robinson was encountered by investigators in Washington County i..."](/statements/statement-551743034477.md)
+- [00:28:57](/episodes/ep-2WEHTk0Xewg.md#t-00-28-30) (Claim) **Spencer Cox** (via quoted speech): ["Tyler Robinson was encountered by investigators in Washington County i..."](/statements/statement-551743034477.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:33:18](/episodes/ep-2WEHTk0Xewg.md#t-00-33-03) (Accusation) **Candace Owens**: ["The person in the maroon t-shirt walking on campus at 8:29 AM is diffe..."](/statements/statement-cd87813d5738.md)

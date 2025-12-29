@@ -1,12 +1,20 @@
 # Entity Disambiguation - Resolved Mentions
 
-Generated: 2025-12-29 16:02:37
+Generated: 2025-12-29 16:16:10
 
-**8 ambiguous mentions** were automatically resolved using context.
+**9 ambiguous mentions** were automatically resolved using context.
 
 Review these to verify the disambiguation was correct.
 
 ---
+
+## `Andrew` (1 resolved)
+
+**Candidates:** Andrew Klavan, Andrew Kolvet
+
+| Episode | Location | Resolved To | Context |
+|---------|----------|-------------|--------|
+| w1oqQbR_bYs | t-00-41-05 | **Andrew Kolvet** | ... rather that it was a three-way call with him and Andrew and... |
 
 ## `Macron` (8 resolved)
 

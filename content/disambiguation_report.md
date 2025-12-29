@@ -1,12 +1,20 @@
 # Entity Disambiguation Report
 
-Generated: 2025-12-29 16:02:37
+Generated: 2025-12-29 16:16:10
 
-**1 ambiguous mentions** could not be automatically resolved.
+**2 ambiguous mentions** could not be automatically resolved.
 
 These mentions matched multiple entities and the surrounding context was insufficient to determine which entity was intended.
 
 ---
+
+## `Andrew` (1 occurrences)
+
+**Could be:** Andrew Klavan, Andrew Kolvet
+
+| Episode | Location | Context |
+|---------|----------|--------|
+| w1oqQbR_bYs | t-00-21-50 | ... going to get applauded by Constantine Kissin and Andrew Christus King Claven an... |
 
 ## `Macron` (1 occurrences)
 

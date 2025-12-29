@@ -1,6 +1,6 @@
 ---
 title: "Arizona"
-description: "Arizona (Places) - 52 mentions"
+description: "Arizona (Places) - 54 mentions"
 id: "gpe-arizona"
 type: "GPE"
 aliases:
@@ -15,6 +15,17 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
+
+**[00:37:03](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-arizona-t-00-36-19)**
+> "he could have spent the night in Arizona on September 8th"
+
+**[00:36:52](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-arizona-t-00-36-19)**
+> "...could have spent the night in Arizona on September 8th, attended the morning meeting on..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (7 mentions)</summary>

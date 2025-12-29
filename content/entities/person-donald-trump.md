@@ -963,7 +963,7 @@ _Type: People_
   - Also about: [Nick Fuentes](/entities/person-nick-fuentes.md)
 
 - [00:20:44](/episodes/ep-LATnak75Si0.md#t-00-20-09) (Claim) **Candace Owens**: ["Donald Trump dedicated 900% more Truth Social posts to ensuring Mamdan..."](/statements/statement-08b3721de5cf.md)
-  - Also about: [person-mamdani](/entities/person-mamdani.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - Also about: [Zohran Mamdani](/entities/person-zohran-mamdani.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

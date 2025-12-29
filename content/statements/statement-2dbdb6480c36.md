@@ -20,7 +20,7 @@ type: "citation"
 
 ## About
 
-- [person-mamdani](/entities/person-mamdani.md)
+- [Zohran Mamdani](/entities/person-zohran-mamdani.md) (person)
 
 ## Source
 

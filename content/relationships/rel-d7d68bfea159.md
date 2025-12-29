@@ -1,0 +1,23 @@
+---
+title: "Tucker Carlson appeared with Donald Trump"
+description: "Evidence for the relationship: Tucker Carlson appeared with Donald Trump"
+relationship_id: "rel-d7d68bfea159"
+subject: "person-tucker-carlson"
+predicate: "appeared with"
+object: "person-donald-trump"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Tucker Carlson](/entities/person-tucker-carlson) appeared with [Donald Trump](/entities/person-donald-trump)
+
+### Evidence (1 mentions)
+
+**[EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY)**
+
+- [00:10:11](/episodes/ep-sreYYcID-QY#t-00-10-11): _I was not invited to speak alongside President Donald Trump and JD Vance on the stage with Tucker at a memorial event._
+
+### Related
+
+- [Tucker Carlson](/entities/person-tucker-carlson)
+- [Donald Trump](/entities/person-donald-trump)

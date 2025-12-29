@@ -1,6 +1,6 @@
 ---
 title: "Pure Talk"
-description: "Pure Talk (Organizations) - 13 mentions"
+description: "Pure Talk (Organizations) - 19 mentions"
 id: "org-pure-talk"
 type: "ORG"
 aliases:
@@ -16,6 +16,29 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (6 mentions)</summary>
+
+**[00:47:18](/episodes/ep-w1oqQbR_bYs.md#t-00-46-42)**
+> "my friends at PureTalk would like to say thank you"
+
+**[00:47:28](/episodes/ep-w1oqQbR_bYs.md#t-00-47-24)**
+> "Well, my friends at PureTalk would like to say thank you from the bottom of th..."
+
+**[00:47:28](/episodes/ep-w1oqQbR_bYs.md#t-00-47-24)**
+> "... of their hearts for choosing PureTalk for your wireless needs."
+
+**[00:47:48](/episodes/ep-w1oqQbR_bYs.md#t-00-47-24)**
+> "Your patronage has allowed PureTalk to donate a thousand hand-sewn Made in America fl..."
+
+**[00:47:54](/episodes/ep-w1oqQbR_bYs.md#t-00-47-24)**
+> "And when you choose PureTalk as your wireless provider, you choose to support ..."
+
+**[00:48:10](/episodes/ep-w1oqQbR_bYs.md#t-00-48-04)**
+> "So from everyone in the PureTalk family,"
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (6 mentions)</summary>

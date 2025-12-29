@@ -1,6 +1,6 @@
 ---
 title: "London"
-description: "London (Places) - 8 mentions"
+description: "London (Places) - 10 mentions"
 id: "gpe-london"
 type: "GPE"
 ---
@@ -11,6 +11,17 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
+
+**[00:13:09](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-london-t-00-12-45)**
+> "anti-Israel protests were raging in London, where Candice, I believe, was at the time"
+
+**[00:12:56](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-london-t-00-12-45)**
+> "...srael protests were raging in London, where Candice, I believe, was at the time, she p..."
+
+</details>
 
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>

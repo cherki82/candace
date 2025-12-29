@@ -32,7 +32,7 @@ _Type: People_
 **[00:19:05](/episodes/ep-w1oqQbR_bYs.md#ent-person-andrew-kolvet-t-00-19-05)**
 > "...spersions at Mikey McCoy, and Andrew Kolvet, and Blake Neff, and Tyler Bowyer, and yes, at Er..."
 
-**[00:22:02](/episodes/ep-w1oqQbR_bYs.md#ent-person-andrew-kolvet-t-00-21-50)**
+**[00:22:02](/episodes/ep-w1oqQbR_bYs.md#ent-person-andrew-kolvet-t-00-19-05)**
 > "...ded by Constantine Kissin and Andrew Christus King Claven and all of the people, the m..."
 
 **[00:41:05](/episodes/ep-w1oqQbR_bYs.md#ent-person-andrew-kolvet-t-00-41-05)**

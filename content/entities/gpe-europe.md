@@ -1,6 +1,6 @@
 ---
 title: "Europe"
-description: "Europe (Places) - 6 mentions"
+description: "Europe (Places) - 8 mentions"
 id: "gpe-europe"
 type: "GPE"
 ---
@@ -11,6 +11,17 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
+
+**[00:57:48](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-europe-t-00-57-06)**
+> "Who do you think tried to genocide the white man in Europe"
+
+**[00:57:45](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-europe-t-00-57-06)**
+> "... to genocide the white man in Europe?"
+
+</details>
 
 <details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (6 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Young America's Foundation"
-description: "Young America's Foundation (Organizations) - 0 mentions"
+description: "Young America's Foundation (Organizations) - 2 mentions"
 id: "org-young-americas-foundation"
 type: "ORG"
 aliases:
@@ -16,7 +16,16 @@ _Type: Organizations_
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
 
-_No mentions recorded._
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
+
+**[00:18:28](/episodes/ep-w1oqQbR_bYs.md#ent-org-young-americas-foundation-t-00-17-44)**
+> "You staff audiences with people that work for YAF"
+
+**[00:18:16](/episodes/ep-w1oqQbR_bYs.md#ent-org-young-americas-foundation-t-00-17-44)**
+> "with people that work for YAF who are told to explode into cheers when you hit ..."
+
+</details>
 
 </details>
 

@@ -148,14 +148,6 @@ _Type: People_
 </details>
 
 <details>
-<summary>Met With (1)</summary>
-
-- **[Mitch](/entities/person-mitch-fort-huachuca-witness.md)**
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:01:57](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-19): "This is, and Skyler, someone's got to get in my ears, I'm blanking on his name, Mark Amodi...That's 95. I'm absolutely, you know, after I've looked at it, that's, yeah, that was definitely the guy."
-
-</details>
-
-<details>
 <summary>Ran Against (2)</summary>
 
 - **[New York City](/entities/gpe-new-york-city.md)**
@@ -167,13 +159,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Bill Ackman](/entities/person-bill-ackman.md)** criticized this
   - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:14:40](/episodes/ep-LATnak75Si0.md#t-00-14-30)
-
-- **[Mitch](/entities/person-mitch-fort-huachuca-witness.md)** met with this
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:01:57](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-19)
 
 - **[New York City](/entities/gpe-new-york-city.md)** ran against this
   - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:00:06](/episodes/ep-LATnak75Si0.md#t-00-00-00)
@@ -186,13 +175,49 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Zohran Mamdani (1)</strong></summary>
+<summary><strong class="section-title">Statements by Zohran Mamdani (1)</strong></summary>
+
+<details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1)</summary>
+
+- [00:12:35](/episodes/ep-LATnak75Si0.md#t-00-12-33) [○] (Opinion) ["I believe Israel has the right to exist, but not as a Jewish state—as a state wi..."](/statements/statement-d23013945481.md)
+  - About: [Zohran Mamdani](/entities/person-zohran-mamdani.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Zohran Mamdani (8)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
 
 - [01:01:07](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-05) (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["I am 95 percent certain that I saw Zohran Mamdani at Fort Huachuca on ..."](/statements/statement-958dde69f981.md)
   - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</details>
+
+<details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (7)</summary>
+
+- [00:00:05](/episodes/ep-LATnak75Si0.md#t-00-00-00) (Claim) **Candace Owens**: ["Mamdani won the New York City mayoral election"](/statements/statement-70d16cea31e1.md)
+
+- [00:10:22](/episodes/ep-LATnak75Si0.md#t-00-09-44) (Claim) **Candace Owens**: ["Bill Ackman gave .75 million to stop Mamdani"](/statements/statement-dff9a93bd8a0.md)
+  - Also about: [Bill Ackman](/entities/person-bill-ackman.md)
+
+- [00:10:30](/episodes/ep-LATnak75Si0.md#t-00-09-44) (Claim) **Candace Owens**: ["Michael Bloomberg gave .3 million to a Cuomo-affiliated super PAC to s..."](/statements/statement-96b210228669.md)
+  - Also about: [Michael Bloomberg](/entities/person-michael-bloomberg.md), [Andrew Cuomo](/entities/person-andrew-cuomo.md)
+
+- [00:10:41](/episodes/ep-LATnak75Si0.md#t-00-10-30) (Claim) **Candace Owens**: ["Airbnb co-founder Joe Gebbia gave .1 million to stop Mamdani"](/statements/statement-6d90401f55f6.md)
+  - Also about: [Joe Gebbia](/entities/person-joe-gebbia.md)
+
+- [00:12:35](/episodes/ep-LATnak75Si0.md#t-00-12-33) (Opinion) **Zohran Mamdani** (via quoted speech): ["I believe Israel has the right to exist, but not as a Jewish state—as ..."](/statements/statement-d23013945481.md)
+
+- [00:14:52](/episodes/ep-LATnak75Si0.md#t-00-14-30) (Citation) **Candace Owens**: ["Mamdani got 32% of the Jewish vote in New York City exit polls"](/statements/statement-2dbdb6480c36.md)
+
+- [00:20:44](/episodes/ep-LATnak75Si0.md#t-00-20-09) (Claim) **Candace Owens**: ["Donald Trump dedicated 900% more Truth Social posts to ensuring Mamdan..."](/statements/statement-08b3721de5cf.md)
+  - Also about: [Donald Trump](/entities/person-donald-trump.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

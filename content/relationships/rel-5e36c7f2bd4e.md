@@ -1,0 +1,23 @@
+---
+title: "Andrew Kolvet interviewed by Alex Clark"
+description: "Evidence for the relationship: Andrew Kolvet interviewed by Alex Clark"
+relationship_id: "rel-5e36c7f2bd4e"
+subject: "person-andrew-kolvet"
+predicate: "interviewed by"
+object: "person-alex-clark"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Andrew Kolvet](/entities/person-andrew-kolvet) interviewed by [Alex Clark](/entities/person-alex-clark)
+
+### Evidence (1 mentions)
+
+**[Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8)**
+
+- [00:00:48](/episodes/ep-UBkFkg4UNY8#t-00-00-48): _Andrew Kolvet, the PR agent, close friend of Charlie (Charlie Kirk), who sat down with Alex Clark to answer questions pertaining to whether or not Charlie (Charlie Kirk) was converting to Catholicism and whether or not he was offered $150 million from Israel._
+
+### Related
+
+- [Andrew Kolvet](/entities/person-andrew-kolvet)
+- [Alex Clark](/entities/person-alex-clark)

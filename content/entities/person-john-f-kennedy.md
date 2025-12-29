@@ -293,24 +293,18 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Accused By (2)</summary>
+<summary>Accused By (1)</summary>
 
 - **[Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson.md)**
   - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:02:12](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46): "definitely, Lyndon Baines Johnson and parts of our own government and the Cubans wanted him dead."
 
-- **[Lee Harvey Oswald](/entities/person-lee-harvey-oswald.md)**
-  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:56:09](/episodes/ep-9k2xrAC0H88.md#t-00-55-37): "maybe JFK really was just shot by Lee Harvey Oswald"
-
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (1)</summary>
 
 - **[Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson.md)** accused this
   - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:02:12](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46)
-
-- **[Lee Harvey Oswald](/entities/person-lee-harvey-oswald.md)** accused this
-  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:56:09](/episodes/ep-9k2xrAC0H88.md#t-00-55-37)
 
 </details>
 

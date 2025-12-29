@@ -1,6 +1,6 @@
 ---
 title: "Hamas"
-description: "Hamas (Organizations) - 16 mentions"
+description: "Hamas (Organizations) - 18 mentions"
 id: "org-hamas"
 type: "ORG"
 ---
@@ -11,6 +11,17 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
+
+**[00:12:54](/episodes/ep-w1oqQbR_bYs.md#ent-org-hamas-t-00-12-45)**
+> "Candace made no statement at all in the days after Hamas terrorists raped, murdered, and tortured"
+
+**[00:12:45](/episodes/ep-w1oqQbR_bYs.md#ent-org-hamas-t-00-12-45)**
+> "...ment at all in the days after Hamas terrorists raped, murdered, and tortured over a t..."
+
+</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>

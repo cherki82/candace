@@ -198,7 +198,18 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Spencer Cox (1)</strong></summary>
+<summary><strong class="section-title">Statements by Spencer Cox (3)</strong></summary>
+
+<details>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (2)</summary>
+
+- [00:28:30](/episodes/ep-2WEHTk0Xewg.md#t-00-27-57) [○] (Claim) ["Governor Cox stated at a press conference that Tyler Robinson was observed in co..."](/statements/statement-d27725df2957.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:28:57](/episodes/ep-2WEHTk0Xewg.md#t-00-28-30) [○] (Claim) ["Tyler Robinson was encountered by investigators in Washington County in the earl..."](/statements/statement-551743034477.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</details>
 
 <details>
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1)</summary>
@@ -211,7 +222,27 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Spencer Cox (1)</strong></summary>
+<summary><strong class="section-title">Statements about Spencer Cox (7)</strong></summary>
+
+<details>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (6)</summary>
+
+- [00:07:51](/episodes/ep-2WEHTk0Xewg.md#t-00-07-18) (Claim) **Candace Owens**: ["Governor Cox mentioned in a press conference at 5:30pm that a second p..."](/statements/statement-782382f1bca7.md)
+
+- [00:07:58](/episodes/ep-2WEHTk0Xewg.md#t-00-07-18) (Claim) **Candace Owens**: ["Governor Cox mentioned at 5:30 PM during a press conference that a sec..."](/statements/statement-4f2ff6f7a5e5.md)
+  - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:15:20](/episodes/ep-2WEHTk0Xewg.md#t-00-15-06) (Claim) **Candace Owens** (via paraphrase): ["Governor Cox confirmed that the person in TMZ footage is Tyler Robinso..."](/statements/statement-2de6d8874914.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:29:06](/episodes/ep-2WEHTk0Xewg.md#t-00-28-30) (Accusation) **Anonymous Source #4 (Ep 2WEHTk0Xewg)** (via paraphrase): ["An anonymous source told Candace that Governor Cox lied about Tyler Ro..."](/statements/statement-fbb0b0aeeeaf.md)
+
+- [00:29:29](/episodes/ep-2WEHTk0Xewg.md#t-00-29-06) (Claim) **Anonymous Source #2 (Ep 2WEHTk0Xewg)** (via read message): ["Tyler Robinson was not wearing the maroon t-shirt outfit when he was p..."](/statements/statement-7c2d30d5c896.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:31:35](/episodes/ep-2WEHTk0Xewg.md#t-00-31-15) (Accusation) **Candace Owens** (via paraphrase): ["Governor Cox announced 'We got him' and declared closure on the invest..."](/statements/statement-43fc6b3e60d3.md)
+
+</details>
 
 <details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (1)</summary>
