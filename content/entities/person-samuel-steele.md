@@ -25,14 +25,6 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Married To (1)</summary>
-
-- **[Carrie Steele](/entities/person-carrie-steele.md)**
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:14:52](/episodes/ep-sreYYcID-QY.md#t-00-14-12): "Samuel and his wife Carrie are the ones that own the house"
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:15:08](/episodes/ep-sreYYcID-QY.md#t-00-14-56): "Samuel and his wife Carrie are the ones that own the house"
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:14:52](/episodes/ep-sreYYcID-QY.md#t-00-14-12)
-
-</details>
+_No relationships extracted yet._
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "Mark Amodei"
-description: "Mark Amodei (People) - 8 mentions"
+description: "Mark Amodei (People) - 12 mentions"
 id: "person-mark-amodei"
 type: "PERSON"
 aliases:
@@ -47,12 +47,43 @@ _Type: People_
 
 </details>
 
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (4 mentions)</summary>
+
+**[01:00:56](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mark-amodei-t-01-00-33)**
+> "Mark Amodei from Las Vegas"
+
+**[01:00:50](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mark-amodei-t-01-00-33)**
+> "...rs, I'm blanking on his name, Mark Amodei."
+
+**[01:00:50](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mark-amodei-t-01-00-33)**
+> "...'m blanking on his name, Mark Amodei."
+
+**[01:00:58](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mark-amodei-t-01-00-33)**
+> "Mark Amodei from Las Vegas."
+
+</details>
+
 </details>
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Met With (1)</summary>
+
+- **[Mitch](/entities/person-mitch-fort-huachuca-witness.md)**
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:01:10](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-05): "Mark Amodei... And you thought that this could potentially be the congressman that you saw on the 9th?... Yeah, that's the one I walked closest to"
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Mitch](/entities/person-mitch-fort-huachuca-witness.md)** met with this
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:01:10](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-05)
+
+</details>
 
 </details>
 

@@ -11,7 +11,7 @@ object: "org-turning-point-usa"
 
 ## [Andrew Kolvet](/entities/person-andrew-kolvet) works for [Turning Point USA](/entities/org-turning-point-usa)
 
-### Evidence (19 mentions)
+### Evidence (20 mentions)
 
 **[TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w)**
 
@@ -70,6 +70,10 @@ object: "org-turning-point-usa"
 **[REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk)**
 
 - [00:10:03](/episodes/ep-pc3pxRyNFZk#t-00-10-03): _Is this Andrew Kolvet from Turning Point USA hiding under a hat?_
+
+**[What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs)**
+
+- [00:02:39](/episodes/ep-w1oqQbR_bYs#t-00-02-39): _this is what was divulged to me from Andrew Kolvet at the time_
 
 ### Related
 

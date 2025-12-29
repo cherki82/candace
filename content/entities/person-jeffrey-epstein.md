@@ -1,6 +1,6 @@
 ---
 title: "Jeffrey Epstein"
-description: "Jeffrey Epstein (People) - 88 mentions"
+description: "Jeffrey Epstein (People) - 91 mentions"
 id: "person-jeffrey-epstein"
 type: "PERSON"
 aliases:
@@ -15,6 +15,20 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (3 mentions)</summary>
+
+**[00:24:55](/episodes/ep-ewBzjVe3LNQ.md#ent-person-jeffrey-epstein-t-00-24-24)**
+> "you're supposed to pretend that you're this super financial guru like Jeffrey Epstein"
+
+**[00:24:55](/episodes/ep-ewBzjVe3LNQ.md#ent-person-jeffrey-epstein-t-00-24-24)**
+> "...his super financial guru like Jeffrey Epstein and we're gonna put you"
+
+**[00:24:55](/episodes/ep-ewBzjVe3LNQ.md#ent-person-jeffrey-epstein-t-00-24-24)**
+> "...r financial guru like Jeffrey Epstein and we're gonna put you"
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (5 mentions)</summary>
@@ -415,15 +429,6 @@ _Type: People_
 
 - **[Steve Bannon](/entities/person-steve-bannon.md)**
   - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:26:03](/episodes/ep-Kmt6HgRjckU.md#t-00-26-01): "Oh, you're going to quote Bannon who consulted for Epstein?"
-
-</details>
-
-<details>
-<summary>Worked With (1)</summary>
-
-- **[Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md)**
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:29:30](/episodes/ep-czVBmqZP6Ss.md#t-00-29-10): "Epstein with his little friend Ghislaine"
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:29:10](/episodes/ep-czVBmqZP6Ss.md#t-00-28-54): "Epstein with his little friend Ghislaine"
 
 </details>
 

@@ -557,10 +557,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>Friend Of (1)</summary>
+<summary>Friend Of (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
   - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:49:12](/episodes/ep-YFmRH8p5lt0.md#t-00-48-51): "Kash Patel. Charlie (Charlie Kirk) had him on his show. Kash Patel should be the FBI director. He fought for that. Look how Kash Patel is acting."
+
+- **[Dan Bongino](/entities/person-dan-bongino.md)**
+  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 01:01:23](/episodes/ep-9k2xrAC0H88.md#t-01-01-17): "He was also a friend of Kash Patel's"
 
 </details>
 
@@ -585,6 +588,14 @@ _Type: People_
 </details>
 
 <details>
+<summary>Lives In (1)</summary>
+
+- **[Las Vegas](/entities/gpe-las-vegas.md)**
+  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:38:20](/episodes/ep-9k2xrAC0H88.md#t-00-38-03): "Las Vegas, you'll recall, is the home of FBI Director Kash Patel."
+
+</details>
+
+<details>
 <summary>Works For (1)</summary>
 
 - **[FBI](/entities/org-fbi.md)**
@@ -594,7 +605,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Referenced By (11)</summary>
 
 - **[Robert Bowles](/entities/person-robert-bowles.md)** appointed by this
   - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:05:17](/episodes/ep-adJ4LNGp84I.md#t-00-05-01)
@@ -608,6 +619,9 @@ _Type: People_
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
   - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:49:12](/episodes/ep-YFmRH8p5lt0.md#t-00-48-51)
+
+- **[Dan Bongino](/entities/person-dan-bongino.md)** friend of this
+  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 01:01:23](/episodes/ep-9k2xrAC0H88.md#t-01-01-17)
 
 - **[FBI](/entities/org-fbi.md)** has CEO this
   - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:15:05](/episodes/ep-ja26iltROkM.md#t-00-14-38)
@@ -623,6 +637,9 @@ _Type: People_
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)** interviewed this
   - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:07:16](/episodes/ep-Kmt6HgRjckU.md#t-00-07-01)
+
+- **[Las Vegas](/entities/gpe-las-vegas.md)** residence of this
+  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:38:20](/episodes/ep-9k2xrAC0H88.md#t-00-38-03)
 
 </details>
 
@@ -676,13 +693,21 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Kash Patel (12)</strong></summary>
+<summary><strong class="section-title">Statements about Kash Patel (13)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
 
 - [01:01:46](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-19) (Opinion) **Candace Owens**: ["Based on call sign analysis, there could be a chance that Kash Patel w..."](/statements/statement-b90aa7d83fb5.md)
   - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
+
+- [00:58:28](/episodes/ep-9k2xrAC0H88.md#t-00-58-24) (Claim) **Candace Owens**: ["Kash Patel has not responded to evidence about the French Legion being..."](/statements/statement-cfbba7eb09f2.md)
+  - Also about: [FBI](/entities/org-fbi.md)
 
 </details>
 

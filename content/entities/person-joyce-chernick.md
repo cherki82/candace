@@ -39,15 +39,6 @@ _Type: People_
 </details>
 
 <details>
-<summary>Married To (1)</summary>
-
-- **[Aubrey Chernick](/entities/person-aubrey-chernick.md)**
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:46:49](/episodes/ep-581dILVcEE4.md#t-00-46-30): "Joyce Chernick is married to Aubrey Chernick."
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:46:58](/episodes/ep-581dILVcEE4.md#t-00-46-30): "Joyce Chernick is married to Aubrey Chernick, a software tech billionaire"
-
-</details>
-
-<details>
 <summary>Referenced By (1)</summary>
 
 - **[David Horowitz Freedom Center](/entities/org-david-horowitz-freedom-center.md)** funded by this

@@ -1,6 +1,6 @@
 ---
 title: "Joint Task Force Six"
-description: "Joint Task Force Six (Organizations) - 8 mentions"
+description: "Joint Task Force Six (Organizations) - 9 mentions"
 id: "org-joint-task-force-six"
 type: "ORG"
 aliases:
@@ -18,7 +18,7 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (3 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (4 mentions)</summary>
 
 **[00:25:36](/episodes/ep-ewBzjVe3LNQ.md#ent-org-joint-task-force-six-t-00-26-10)**
 > "Yeah, we were part of a mission going down to the board of JTF-6 assigned from 10th Mountain."
@@ -28,6 +28,9 @@ _Type: Organizations_
 
 **[00:27:38](/episodes/ep-ewBzjVe3LNQ.md#ent-org-joint-task-force-six-t-00-27-33)**
 > "...when I got pulled back to the JTF-6 headquarters,"
+
+**[00:26:15](/episodes/ep-ewBzjVe3LNQ.md#ent-org-joint-task-force-six-t-00-26-10)**
+> "...n going down to the border of JTF-6 assigned from 10th Mountain Division."
 
 </details>
 
@@ -57,10 +60,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Formerly Employed (1)</summary>
+<summary>Formerly Employed (2)</summary>
 
 - **[Harry Myers](/entities/person-harry-myers.md)**
   - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:05:00](/episodes/ep-t4U7NjnUEgc.md#t-00-04-35): "In 1990, this young man named Harry Myers discovered something"
+
+- **[Mitch](/entities/person-mitch-fort-huachuca-witness.md)**
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:32:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-31-58): "we were part of a mission going down to the border of JTF-6"
 
 </details>
 
@@ -73,10 +79,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Harry Myers](/entities/person-harry-myers.md)** formerly worked for this
   - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:05:00](/episodes/ep-t4U7NjnUEgc.md#t-00-04-35)
+
+- **[Mitch](/entities/person-mitch-fort-huachuca-witness.md)** formerly worked for this
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:32:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-31-58)
 
 - **[George H.W. Bush](/entities/person-george-hw-bush.md)** founded this
   - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:05:14](/episodes/ep-t4U7NjnUEgc.md#t-00-04-35)

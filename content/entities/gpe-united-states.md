@@ -1,6 +1,6 @@
 ---
 title: "United States"
-description: "United States (Places) - 684 mentions"
+description: "United States (Places) - 685 mentions"
 id: "gpe-united-states"
 type: "GPE"
 aliases:
@@ -22,6 +22,14 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>
+
+**[00:30:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-30-27)**
+> "U.S. military"
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (18 mentions)</summary>

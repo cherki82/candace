@@ -1,6 +1,6 @@
 ---
 title: "Neemi Skin Care"
-description: "Neemi Skin Care (Organizations) - 37 mentions"
+description: "Neemi Skin Care (Organizations) - 38 mentions"
 id: "org-neemi-skin-care"
 type: "ORG"
 aliases:
@@ -32,6 +32,14 @@ _Type: Organizations_
 
 **[00:49:38](/episodes/ep-w1oqQbR_bYs.md#ent-org-neemi-skin-care-t-00-49-29)**
 > "...he winter, so I've been using Neeme's Sunshine Tallow Cream, pairing that with their Bu..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>
+
+**[01:09:05](/episodes/ep-ewBzjVe3LNQ.md#t-01-08-39)**
+> "Neme Skincare, because it's cold outside"
 
 </details>
 

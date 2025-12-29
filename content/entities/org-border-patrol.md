@@ -1,6 +1,6 @@
 ---
 title: "Border Patrol"
-description: "Border Patrol (Organizations) - 9 mentions"
+description: "Border Patrol (Organizations) - 17 mentions"
 id: "org-border-patrol"
 type: "ORG"
 aliases:
@@ -15,6 +15,32 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (7 mentions)</summary>
+
+**[00:26:52](/episodes/ep-ewBzjVe3LNQ.md#ent-org-border-patrol-t-00-26-52)**
+> "...sors and following one of the Border Patrol who was on a, he was on horseback."
+
+**[00:27:57](/episodes/ep-ewBzjVe3LNQ.md#ent-org-border-patrol-t-00-27-33)**
+> "...this day between the Army and Border Patrol and who gets to take credit and who gets to stay,..."
+
+**[00:28:10](/episodes/ep-ewBzjVe3LNQ.md#ent-org-border-patrol-t-00-27-33)**
+> "And back then, Border Patrol, I think they just wanted us"
+
+**[00:28:36](/episodes/ep-ewBzjVe3LNQ.md#ent-org-border-patrol-t-00-28-18)**
+> "...hile the skeleton crew of the Border Patrol was left there with me as well."
+
+**[00:30:27](/episodes/ep-ewBzjVe3LNQ.md#ent-org-border-patrol-t-00-30-27)**
+> "... commanders that was with the Border Patrol was actually posed with a photo that was done on ..."
+
+**[00:33:28](/episodes/ep-ewBzjVe3LNQ.md#ent-org-border-patrol-t-00-33-02)**
+> "Um, not a friend, but another Border Patrol agent."
+
+**[00:33:40](/episodes/ep-ewBzjVe3LNQ.md#ent-org-border-patrol-t-00-33-02)**
+> "Um, it was the Border Patrol agent that caught what it was about."
+
+</details>
 
 <details>
 <summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (9 mentions)</summary>

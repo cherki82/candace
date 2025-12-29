@@ -88,13 +88,21 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Dallas (1)</strong></summary>
+<summary><strong class="section-title">Statements about Dallas (2)</strong></summary>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
 
 - [00:02:04](/episodes/ep-w1oqQbR_bYs.md#t-00-01-51) (Claim) **Candace Owens**: ["Ben Shapiro sent an intern to confront Candace Owens on stage at the D..."](/statements/statement-ccf7b1277237.md)
   - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Young Women's Leadership Summit](/entities/org-ywls.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
+
+- [00:46:57](/episodes/ep-9k2xrAC0H88.md#t-00-46-51) (Claim) **Candace Owens**: ["Brian Harpole landed in Los Angeles at 6:45 PM on September 7th on a d..."](/statements/statement-4719170d8578.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Los Angeles](/entities/gpe-los-angeles.md)
 
 </details>
 

@@ -11,7 +11,7 @@ object: "org-the-daily-wire"
 
 ## [Candace Owens](/entities/person-candace-owens) formerly worked for [The Daily Wire](/entities/org-the-daily-wire)
 
-### Evidence (6 mentions)
+### Evidence (7 mentions)
 
 **[BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I)**
 
@@ -33,6 +33,10 @@ object: "org-the-daily-wire"
 **[EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY)**
 
 - [00:08:54](/episodes/ep-sreYYcID-QY#t-00-08-54): _Okay, then I get fired from The Daily Wire._
+
+**[What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs)**
+
+- [00:01:35](/episodes/ep-w1oqQbR_bYs#t-00-01-35): _In 2024, Ben fired me in March_
 
 ### Related
 

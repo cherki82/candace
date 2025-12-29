@@ -1,6 +1,6 @@
 ---
 title: "Timpanogos Regional Hospital"
-description: "Timpanogos Regional Hospital (Organizations) - 11 mentions"
+description: "Timpanogos Regional Hospital (Organizations) - 13 mentions"
 id: "org-timpanogos-regional-hospital"
 type: "ORG"
 aliases:
@@ -15,6 +15,17 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
+
+**[00:07:36](/episodes/ep-ewBzjVe3LNQ.md#ent-org-timpanogos-regional-hospital-t-00-06-59)**
+> "Charlie was transported to Timpanogos or Timpanogos Hospital"
+
+**[00:07:29](/episodes/ep-ewBzjVe3LNQ.md#ent-org-timpanogos-regional-hospital-t-00-06-59)**
+> "... transported to Timpanogos or Timpanogos Hospital was not impounded by law enforcement."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
@@ -80,6 +91,14 @@ _Type: Organizations_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Employs (1)</summary>
+
+- **[Dr. Lee Trotter](/entities/person-dr-lee-trotter.md)**
+  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:08:33](/episodes/ep-9k2xrAC0H88.md#t-00-08-09): "Charlie gets transported to...Timpanogos Hospital. He's raced into surgery."
+
+</details>
+
+<details>
 <summary>Has Ceo (1)</summary>
 
 - **[Andrew Zenger](/entities/person-andrew-zenger.md)**
@@ -89,24 +108,35 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
 
 - **[Andrew Zenger](/entities/person-andrew-zenger.md)** CEO of this
   - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:31:05](/episodes/ep-YA1FxrDWNIo.md#t-00-30-44)
   - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:30](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01)
+
+- **[Dr. Lee Trotter](/entities/person-dr-lee-trotter.md)** works for this
+  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:08:33](/episodes/ep-9k2xrAC0H88.md#t-00-08-09)
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Timpanogos Regional Hospital (3)</strong></summary>
+<summary><strong class="section-title">Statements about Timpanogos Regional Hospital (4)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
 
 - [00:07:37](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-59) (Claim) **Candace Owens**: ["The vehicle in which Charlie Kirk was transported to Timpanogos Hospit..."](/statements/statement-109d55c23422.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
+
+- [00:32:24](/episodes/ep-9k2xrAC0H88.md#t-00-31-43) (Accusation) **Candace Owens**: ["Federal officers went to the hospital to cover everything up, includin..."](/statements/statement-2747035a17bf.md)
+  - Also about: [FBI](/entities/org-fbi.md)
 
 </details>
 

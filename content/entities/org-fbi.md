@@ -1,6 +1,6 @@
 ---
 title: "FBI"
-description: "FBI (Organizations) - 419 mentions"
+description: "FBI (Organizations) - 427 mentions"
 id: "org-fbi"
 type: "ORG"
 aliases:
@@ -18,6 +18,35 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (8 mentions)</summary>
+
+**[00:35:37](/episodes/ep-ewBzjVe3LNQ.md#ent-org-fbi-t-00-25-09)**
+> "why wasn't the FBI updated as to what my status was"
+
+**[00:05:45](/episodes/ep-ewBzjVe3LNQ.md#ent-org-fbi-t-00-07-39)**
+> "... officers to the weapon lucky feds lucky feds the canines were not provided with the..."
+
+**[00:05:45](/episodes/ep-ewBzjVe3LNQ.md#ent-org-fbi-t-00-07-39)**
+> "...o the weapon lucky feds lucky feds the canines were not provided with the scent of t..."
+
+**[00:07:53](/episodes/ep-ewBzjVe3LNQ.md#ent-org-fbi-t-00-07-39)**
+> "...hanks to the instincts of the feds and not the noses of the dogs."
+
+**[00:07:53](/episodes/ep-ewBzjVe3LNQ.md#ent-org-fbi-t-00-07-39)**
+> "...ed thanks to the instincts of the feds and not the noses of the dogs."
+
+**[00:25:13](/episodes/ep-ewBzjVe3LNQ.md#ent-org-fbi-t-00-25-09)**
+> "...r in life, stumbling upon the feds when there may be up to no good."
+
+**[00:25:13](/episodes/ep-ewBzjVe3LNQ.md#ent-org-fbi-t-00-25-09)**
+> "... ever in life, stumbling upon the feds when there may be up to no good."
+
+**[00:35:26](/episodes/ep-ewBzjVe3LNQ.md#ent-org-fbi-t-00-25-09)**
+> "...out, you know, why wasn't the FBI updated as to what my status was?"
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (32 mentions)</summary>
@@ -1326,6 +1355,14 @@ _Type: Organizations_
 </details>
 
 <details>
+<summary>Formerly Employed (1)</summary>
+
+- **[Dan Bongino](/entities/person-dan-bongino.md)**
+  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:25:01](/episodes/ep-9k2xrAC0H88.md#t-00-24-22): "Dan Bongino...is going to leave the FBI as assistant director of the FBI. He will be stepping down."
+
+</details>
+
+<details>
 <summary>Founded By (1)</summary>
 
 - **[Charles Joseph Bonaparte](/entities/person-charles-joseph-bonaparte.md)**
@@ -1352,7 +1389,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Kash Patel](/entities/person-kash-patel.md)** CEO of this
   - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:15:05](/episodes/ep-ja26iltROkM.md#t-00-14-38)
@@ -1360,6 +1397,9 @@ _Type: Organizations_
 
 - **[Kash Patel](/entities/person-kash-patel.md)** director of this
   - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:08:06](/episodes/ep-ozWJz2spBcI.md#t-00-07-35)
+
+- **[Dan Bongino](/entities/person-dan-bongino.md)** formerly worked for this
+  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:25:01](/episodes/ep-9k2xrAC0H88.md#t-00-24-22)
 
 - **[Charles Joseph Bonaparte](/entities/person-charles-joseph-bonaparte.md)** founded this
   - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:04:29](/episodes/ep-a-e7HC6SeK8.md#t-00-04-18)
@@ -1390,7 +1430,43 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about FBI (50)</strong></summary>
+<summary><strong class="section-title">Statements about FBI (62)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (12)</summary>
+
+- [00:09:11](/episodes/ep-9k2xrAC0H88.md#t-00-08-48) (Claim) **Anonymous Source #3 (Ep 9k2xrAC0H88)** (via read message): ["Federal agents were blocking the surgeon from returning to the operati..."](/statements/statement-c2de12472215.md)
+  - Also about: [Dr. Lee Trotter](/entities/person-dr-lee-trotter.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:09:50](/episodes/ep-9k2xrAC0H88.md#t-00-09-19) (Claim) **Anonymous Source #3 (Ep 9k2xrAC0H88)** (via read message): ["A phone call was placed to DC at the hospital after the surgeon was bl..."](/statements/statement-b7a912d83954.md)
+  - Also about: [Dr. Lee Trotter](/entities/person-dr-lee-trotter.md)
+
+- [00:12:06](/episodes/ep-9k2xrAC0H88.md#t-00-11-48) (Claim) **Anonymous Source #2 (Ep 9k2xrAC0H88)** (via read message): ["The area where the gun was found had already been searched by veteran ..."](/statements/statement-d73a94a9bf4b.md)
+
+- [00:15:03](/episodes/ep-9k2xrAC0H88.md#t-00-14-36) (Claim) **Anonymous Source #2 (Ep 9k2xrAC0H88)** (via read message): ["Federal officers were going around asking police officers questions li..."](/statements/statement-2114254e6814.md)
+
+- [00:15:08](/episodes/ep-9k2xrAC0H88.md#t-00-14-36) (Claim) **Anonymous Source #2 (Ep 9k2xrAC0H88)** (via read message): ["Federal officers directed three police officers with less than 18 mont..."](/statements/statement-03f282530be9.md)
+
+- [00:18:25](/episodes/ep-9k2xrAC0H88.md#t-00-18-06) (Accusation) **Anonymous Source #2 (Ep 9k2xrAC0H88)** (via read message): ["Police officers involved in the Charlie Kirk investigation felt they w..."](/statements/statement-432740bb95f5.md)
+
+- [00:20:19](/episodes/ep-9k2xrAC0H88.md#t-00-20-09) (Claim) **Anonymous Source #2 (Ep 9k2xrAC0H88)** (via read message): ["A white Toyota RAV4 was pulled over shortly after the shot was fired a..."](/statements/statement-a8014ace8744.md)
+
+- [00:25:02](/episodes/ep-9k2xrAC0H88.md#t-00-24-22) (Claim) **Candace Owens**: ["Dan Bongino is stepping down as FBI Assistant Director to return to hi..."](/statements/statement-af3f171dece5.md)
+  - Also about: [Dan Bongino](/entities/person-dan-bongino.md)
+
+- [00:27:18](/episodes/ep-9k2xrAC0H88.md#t-00-27-06) (Claim) **Frank Turek** (via quoted speech): ["They roped off the vehicle that we took out of there as a crime scene"](/statements/statement-ef7e19af81c0.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:32:01](/episodes/ep-9k2xrAC0H88.md#t-00-31-43) (Accusation) **Candace Owens**: ["Federal agents are implicated in the Charlie Kirk assassination in man..."](/statements/statement-e9a16cc0d3aa.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:32:24](/episodes/ep-9k2xrAC0H88.md#t-00-31-43) (Accusation) **Candace Owens**: ["Federal officers went to the hospital to cover everything up, includin..."](/statements/statement-2747035a17bf.md)
+  - Also about: [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:58:28](/episodes/ep-9k2xrAC0H88.md#t-00-58-24) (Claim) **Candace Owens**: ["Kash Patel has not responded to evidence about the French Legion being..."](/statements/statement-cfbba7eb09f2.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4)</summary>

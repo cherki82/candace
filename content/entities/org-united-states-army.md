@@ -1,6 +1,6 @@
 ---
 title: "United States Army"
-description: "United States Army (Organizations) - 11 mentions"
+description: "United States Army (Organizations) - 12 mentions"
 id: "org-united-states-army"
 type: "ORG"
 aliases:
@@ -15,6 +15,14 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>
+
+**[00:27:30](/episodes/ep-ewBzjVe3LNQ.md#t-00-26-52)**
+> "They were in discussions of trying to remove the Army"
+
+</details>
 
 <details>
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>

@@ -11,7 +11,7 @@ date: "2024-03-19"
 
 > Candace Owens fired from The Daily Wire
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. Another French Front: Did Charlie Kirk Save My Life? | Canda...
 
@@ -36,3 +36,11 @@ date: "2024-03-19"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(471);return false;">▶️ Play</a>
 
 > ys, who is "they"? Who is "they"? Welcome back to Candace. Grief is weird, okay? I gotta tell you, in those weeks following Charlie's assassination, I didn't feel like myself. I felt li
+
+### 4. What Does Ben Shapiro Know About Erika Kirk And Fort Huachuc...
+
+**Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
+**Timestamp:** [00:01:30](/episodes/ep-w1oqQbR_bYs.md#event-event-2024-03-19-candace-owens-fired-from-the-daily-wire-t-00-01-18) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(90);return false;">▶️ Play</a>
+
+> So the story goes obviously that in 2024, Ben fired me in March.

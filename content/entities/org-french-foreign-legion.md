@@ -1,6 +1,6 @@
 ---
 title: "French Foreign Legion"
-description: "French Foreign Legion (Organizations) - 29 mentions"
+description: "French Foreign Legion (Organizations) - 31 mentions"
 id: "org-french-foreign-legion"
 type: "ORG"
 aliases:
@@ -17,6 +17,17 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
+
+**[01:04:22](/episodes/ep-ewBzjVe3LNQ.md#ent-org-french-foreign-legion-t-01-04-24)**
+> "when he interviewed the French foreign Legion"
+
+**[01:04:24](/episodes/ep-ewBzjVe3LNQ.md#ent-org-french-foreign-legion-t-01-04-24)**
+> "..., uh, when he interviewed the French foreign Legion, he, and he got to learn a little bit about somet..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>

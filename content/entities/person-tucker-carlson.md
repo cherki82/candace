@@ -1,6 +1,6 @@
 ---
 title: "Tucker Carlson"
-description: "Tucker Carlson (People) - 377 mentions"
+description: "Tucker Carlson (People) - 379 mentions"
 id: "person-tucker-carlson"
 type: "PERSON"
 aliases:
@@ -77,7 +77,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (6 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (8 mentions)</summary>
 
 **[00:10:26](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tucker-carlson-t-00-10-25)**
 > "God doesn't want you to follow Tucker Carlson on Instagram."
@@ -96,6 +96,12 @@ _Type: People_
 
 **[00:24:05](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tucker-carlson-t-00-23-39)**
 > "...Turning Point USA event where Tucker asked the question, where does this guy's money c..."
+
+**[00:24:05](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tucker-carlson-t-00-23-39)**
+> "...Point USA event where Tucker (Tucker Carlson) asked the question, where does this guy's money ..."
+
+**[00:24:05](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tucker-carlson-t-00-23-39)**
+> "...SA event where Tucker (Tucker Carlson) asked the question, where does this guy's money ..."
 
 </details>
 

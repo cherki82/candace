@@ -1,6 +1,6 @@
 ---
 title: "Las Vegas"
-description: "Las Vegas (Places) - 36 mentions"
+description: "Las Vegas (Places) - 38 mentions"
 id: "gpe-las-vegas"
 type: "GPE"
 aliases:
@@ -45,6 +45,17 @@ _Type: Places_
 
 **[00:39:38](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-las-vegas-t-00-39-11)**
 > "...e planes and the route to Las Vegas."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
+
+**[01:00:56](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-las-vegas-t-01-00-33)**
+> "Mark Amodei from Las Vegas"
+
+**[01:00:58](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-las-vegas-t-01-00-33)**
+> "Mark Amodei from Las Vegas."
 
 </details>
 
@@ -159,17 +170,44 @@ _Type: Places_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Residence Of (1)</summary>
+
+- **[Kash Patel](/entities/person-kash-patel.md)**
+  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:38:20](/episodes/ep-9k2xrAC0H88.md#t-00-38-03): "Las Vegas, you'll recall, is the home of FBI Director Kash Patel."
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Kash Patel](/entities/person-kash-patel.md)** lives in this
+  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:38:20](/episodes/ep-9k2xrAC0H88.md#t-00-38-03)
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Las Vegas (1)</strong></summary>
+<summary><strong class="section-title">Statements about Las Vegas (4)</strong></summary>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
 
 - [00:34:20](/episodes/ep-w1oqQbR_bYs.md#t-00-33-40) (Claim) **Candace Owens**: ["The 702 call sign on military flights may reference Las Vegas area cod..."](/statements/statement-9f738f51f413.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3)</summary>
+
+- [00:38:18](/episodes/ep-9k2xrAC0H88.md#t-00-38-03) (Claim) **Baron Coleman** (via quoted speech): ["The SAM000 flight went from Colorado Springs to Las Vegas, arriving at..."](/statements/statement-cf82c67961c5.md)
+  - Also about: [Colorado Springs](/entities/gpe-colorado-springs.md)
+
+- [00:41:59](/episodes/ep-9k2xrAC0H88.md#t-00-41-50) (Claim) **Candace Owens**: ["The flight from Las Vegas changed call signs from SAM to REACH after t..."](/statements/statement-666fa1c5306d.md)
+
+- [01:02:06](/episodes/ep-9k2xrAC0H88.md#t-01-01-55) (Claim) **Candace Owens**: ["One of the congressmen that the Fort Huachuca eyewitness believes he s..."](/statements/statement-ff98d3afb248.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Harry Myers](/entities/person-harry-myers.md)
 
 </details>
 

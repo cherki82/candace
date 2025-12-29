@@ -71,6 +71,14 @@ _Type: People_
 </details>
 
 <details>
+<summary>Criticized (1)</summary>
+
+- **[The Daily Wire](/entities/org-the-daily-wire.md)**
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:12:18](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00): "Steven Crowder got a hold of this week or last week or whatever"
+
+</details>
+
+<details>
 <summary>Has Contributor (1)</summary>
 
 - **[PragerU](/entities/org-prageru.md)**
@@ -81,11 +89,14 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[PragerU](/entities/org-prageru.md)** contributor to this
   - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#t-00-47-39)
   - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#t-00-47-39)
+
+- **[The Daily Wire](/entities/org-the-daily-wire.md)** criticized by this
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:12:18](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00)
 
 - **[PragerU](/entities/org-prageru.md)** has contributor this
   - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#t-00-47-39)

@@ -131,7 +131,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
   - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:56](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24)
@@ -144,10 +144,6 @@ _Type: People_
 
 - **[Calvary Chapel](/entities/org-calvary-chapel.md)** has pastor this
   - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:55](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24)
-
-- **[Burton Hibbs](/entities/person-burton-hibbs.md)** sibling of this
-  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:32:41](/episodes/ep-MUA9ebCF4Ow.md#t-00-32-19)
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:16:46](/episodes/ep-mKXdKV-OBog.md#t-00-16-27)
 
 </details>
 

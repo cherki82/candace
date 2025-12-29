@@ -600,6 +600,14 @@ _Type: People_
 </details>
 
 <details>
+<summary>Defended (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:00:19](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00): "He seems to be taking multiple stages and demanding an allegiance to Erica Kirk"
+
+</details>
+
+<details>
 <summary>Defended By (1)</summary>
 
 - **[Dave Rubin](/entities/person-dave-rubin.md)**
@@ -608,7 +616,23 @@ _Type: People_
 </details>
 
 <details>
-<summary>Interviewed (2)</summary>
+<summary>Fired (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:01:35](/episodes/ep-w1oqQbR_bYs.md#t-00-01-18): "In 2024, Ben fired me in March"
+
+</details>
+
+<details>
+<summary>Founded (1)</summary>
+
+- **[The Daily Wire](/entities/org-the-daily-wire.md)**
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:01:35](/episodes/ep-w1oqQbR_bYs.md#t-00-01-18): "Ben would say management fired me... He wanted to make sure my reputation and livelihood was also destroyed"
+
+</details>
+
+<details>
+<summary>Interviewed (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
   - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:17:37](/episodes/ep-K1tFD7FfoCU.md#t-00-16-59): "book us on Ben's (Ben Shapiro's) show"
@@ -616,6 +640,9 @@ _Type: People_
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
   - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:20:01](/episodes/ep-r1PS67aRmcA.md#t-00-19-31): "Ben Shapiro sat down with him last month"
   - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:07:30](/episodes/ep-r1PS67aRmcA.md#t-00-07-09): "Benjamin Netanyahu is committing a genocide, and Ben Shapiro sat down with him last month"
+
+- **[Thomas Sowell](/entities/person-thomas-sowell.md)**
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:09:54](/episodes/ep-w1oqQbR_bYs.md#t-00-09-20): "Ben had his team reach out and schedule an interview with Thomas Soul"
 
 </details>
 
@@ -629,6 +656,14 @@ _Type: People_
 </details>
 
 <details>
+<summary>Spoke At (1)</summary>
+
+- **[America Fest](/entities/event-america-fest.md)**
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:01:10](/episodes/ep-w1oqQbR_bYs.md#t-00-00-42): "Ben Shapiro just keeps calling my name out on stage... at Turning Point USA's AmFest"
+
+</details>
+
+<details>
 <summary>Works For (1)</summary>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
@@ -637,7 +672,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (10)</summary>
+<summary>Referenced By (15)</summary>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)** criticized by this
   - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:06:23](/episodes/ep-MUA9ebCF4Ow.md#t-00-05-50)
@@ -657,8 +692,20 @@ _Type: People_
 - **[Dave Rubin](/entities/person-dave-rubin.md)** defended this
   - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:07:10](/episodes/ep-MUA9ebCF4Ow.md#t-00-07-09)
 
+- **[Erika Kirk](/entities/person-erika-kirk.md)** defended by this
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:00:19](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00)
+
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** employs this
   - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:30](/episodes/ep-r1PS67aRmcA.md#t-00-00-00)
+
+- **[Candace Owens](/entities/person-candace-owens.md)** fired by this
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:01:35](/episodes/ep-w1oqQbR_bYs.md#t-00-01-18)
+
+- **[The Daily Wire](/entities/org-the-daily-wire.md)** founded by this
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:01:35](/episodes/ep-w1oqQbR_bYs.md#t-00-01-18)
+
+- **[America Fest](/entities/event-america-fest.md)** hosted speaker this
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:01:10](/episodes/ep-w1oqQbR_bYs.md#t-00-00-42)
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)** interviewed this
   - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:04:37](/episodes/ep-MUA9ebCF4Ow.md#t-00-04-35)
@@ -668,6 +715,9 @@ _Type: People_
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** interviewed by this
   - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:20:01](/episodes/ep-r1PS67aRmcA.md#t-00-19-31)
+
+- **[Thomas Sowell](/entities/person-thomas-sowell.md)** interviewed by this
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:09:54](/episodes/ep-w1oqQbR_bYs.md#t-00-09-20)
 
 </details>
 

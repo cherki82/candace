@@ -11,7 +11,7 @@ date: "1963-11-22"
 
 > President John F. Kennedy assassinated in Dallas, Texas
 
-## Mentioned In (8 times)
+## Mentioned In (9 times)
 
 ### 1. INSANITY! Guess Who Kash Patel Sent To Investigate Charlie K...
 
@@ -76,3 +76,11 @@ date: "1963-11-22"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(123);return false;">▶️ Play</a>
 
 > Again, a lot of people said Israel wanted JFK dead.
+
+### 9. BREAKING NEWS! We Received Photos Of Charlie's Car After The...
+
+**Episode:** [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md)
+**Timestamp:** [01:10:36](/episodes/ep-9k2xrAC0H88.md#event-event-1963-11-22-jfk-assassination-t-00-55-37) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(4236);return false;">▶️ Play</a>
+
+> maybe JFK really was just shot by Lee Harvey Oswald

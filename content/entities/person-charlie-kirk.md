@@ -1,6 +1,6 @@
 ---
 title: "Charlie Kirk"
-description: "Charlie Kirk (People) - 2700 mentions"
+description: "Charlie Kirk (People) - 2713 mentions"
 id: "person-charlie-kirk"
 type: "PERSON"
 aliases:
@@ -154,7 +154,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (18 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (31 mentions)</summary>
 
 **[00:01:36](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-00-01-21)**
 > "He asked me specifically if I saw black plastic fragmentation over the floor of Charlie's SUV."
@@ -209,6 +209,45 @@ _Type: People_
 
 **[01:12:56](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-01-12-46)**
 > "...o care about what happened to Charlie and the easiest thing is to demand truth and inst..."
+
+**[00:01:32](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-00-01-21)**
+> "... over the floor of Charlie's (Charlie Kirk's) SUV."
+
+**[00:01:46](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-00-01-21)**
+> "...gh those photos of Charlie's (Charlie Kirk's) SUV, I said to my team that it looked like there..."
+
+**[00:02:30](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-00-02-01)**
+> "...t something broke on Charlie (Charlie Kirk)?"
+
+**[00:04:13](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-00-04-13)**
+> "... even suggested that Charlie (Charlie Kirk) was shot with a .30-06 or that Charlie (Charlie ..."
+
+**[00:04:13](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-00-04-13)**
+> "...ith a .30-06 or that Charlie (Charlie Kirk) had a steel neck that stopped that bullet."
+
+**[00:04:13](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-00-04-13)**
+> "...as shot with a .30-06 or that Charlie (Charlie Kirk) had a steel neck that stopped that..."
+
+**[00:06:03](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-00-05-35)**
+> "...as directly behind Charlie's (Charlie Kirk's) head."
+
+**[00:06:18](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-00-06-18)**
+> "... this story that a .30-06 hit Charlie Kirk and what debunked that obviously would be seeing ..."
+
+**[00:07:05](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-00-06-59)**
+> "...re to make sure that Charlie (Charlie Kirk) could get cleaned up before Erika (Erika Kirk) c..."
+
+**[00:07:29](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-00-06-59)**
+> "...the vehicle in which Charlie (Charlie Kirk) was transported to Timpanogos or Timpanogos Hosp..."
+
+**[01:11:26](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-01-11-26)**
+> "... cannot believe that Charlie (Charlie Kirk) is not among us, but thank you for trying to fin..."
+
+**[01:11:52](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-01-11-26)**
+> "...the very people that Charlie (Charlie Kirk) fought for."
+
+**[01:12:56](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-01-12-46)**
+> "...out what happened to Charlie (Charlie Kirk) and the easiest thing is to demand truth and ins..."
 
 </details>
 
@@ -8514,7 +8553,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Friend Of (11)</summary>
+<summary>Friend Of (12)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
   - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:11:02](/episodes/ep-K5GjF53bfN4.md#t-00-10-43): "And he's grieving somebody that he knows and who was a very close, if not one of his best friends he saw every day doing the Charlie Kirk (Charlie Kirk) show."
@@ -8522,6 +8561,7 @@ _Type: People_
 - **[Candace Owens](/entities/person-candace-owens.md)**
   - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:00:21](/episodes/ep-czVBmqZP6Ss.md#t-00-00-00): "Charlie, my friend, is dead."
   - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:02:53](/episodes/ep-ozWJz2spBcI.md#t-00-02-46): "Charlie Kirk was a friend to Candace and never publicly spoke poorly of her"
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:01:43](/episodes/ep-w1oqQbR_bYs.md#t-00-01-18): "We were like brother and sister, always supporting each other publicly"
 
 - **[Seth Dillon](/entities/person-seth-dillon.md)**
   - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:13](/episodes/ep-ja26iltROkM.md#t-00-29-48): "I'm going to guess it's either Seth Dillon or Josh Hammer...these messages...a close friend of Charlie Kirk shared these messages"
@@ -8551,6 +8591,9 @@ _Type: People_
 
 - **[Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md)**
   - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:39](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30): "She says she's a good friend to Charlie"
+
+- **[Dan Bongino](/entities/person-dan-bongino.md)**
+  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 01:01:17](/episodes/ep-9k2xrAC0H88.md#t-01-01-17): "Charlie Kirk was a friend of Dan Bongino's."
 
 </details>
 
@@ -8641,16 +8684,6 @@ _Type: People_
 </details>
 
 <details>
-<summary>Married To (1)</summary>
-
-- **[Erika Kirk](/entities/person-erika-kirk.md)**
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:00:09](/episodes/ep-SKGUzGHymcI.md#t-00-00-00): "tracking Erika (Erika Kirk) and Charlie (Charlie Kirk)"
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 01:07:30](/episodes/ep-2WEHTk0Xewg.md#t-01-06-45): "Erika Kirk has been—you could see the energy. She's gonna fight."
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:43:45](/episodes/ep-sreYYcID-QY.md#t-00-43-40): "When's the last time you spoke to Erica?"
-
-</details>
-
-<details>
 <summary>Met With (4)</summary>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
@@ -8713,16 +8746,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>Worked With (2)</summary>
+<summary>Widower Of (1)</summary>
 
-- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:10:48](/episodes/ep-K5GjF53bfN4.md#t-00-10-43): "...een seeing a lot of vitriol that's been thrown at Andrew Kolvet's (Andrew Kolvet) way because he is doing press. He is carrying on Charlie Kirk's (Charlie Kirk's) s..."
-  - [To My Friend, Charlie Kirk. @ 00:14:33](/episodes/ep-_dRaEO47-co.md#t-00-14-11): "...mber just being behind Charlie (Charlie Kirk) and Andrew Kolvet. And he just held the line. He held the line because he agreed with me, and he knew it was going to ..."
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:10:37](/episodes/ep-K5GjF53bfN4.md#t-00-09-59): "...een seeing a lot of vitriol that's been thrown at Andrew Kolvet's way because he is doing press. He is carrying on Charlie Kirk's show. He was already seated on Cha..."
-
-- **[Dave Rubin](/entities/person-dave-rubin.md)**
-  - [To My Friend, Charlie Kirk. @ 00:07:09](/episodes/ep-_dRaEO47-co.md#t-00-07-08): "Actually, I think for that particular event, Dave Rubin hopped on"
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:03](/episodes/ep-ja26iltROkM.md#t-00-31-57): "Dave Rubin instantly replied and said something about Israel"
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:00:36](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00): "Charlie's widow"
 
 </details>
 
@@ -8736,7 +8763,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (63)</summary>
+<summary>Referenced By (64)</summary>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)** accused this
   - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:02:25](/episodes/ep-vwG1juDCQZQ.md#t-00-02-10)
@@ -8862,6 +8889,9 @@ _Type: People_
 - **[Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md)** friend of this
   - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:39](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30)
 
+- **[Dan Bongino](/entities/person-dan-bongino.md)** friend of this
+  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 01:01:17](/episodes/ep-9k2xrAC0H88.md#t-01-01-17)
+
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** funded this
   - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:58:02](/episodes/ep-ja26iltROkM.md#t-00-57-53)
 
@@ -8932,9 +8962,8 @@ _Type: People_
 - **[Candace Owens](/entities/person-candace-owens.md)** warned by this
   - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:01:02](/episodes/ep-sImMM04XdWY.md#t-00-00-39)
 
-- **[Candace Owens](/entities/person-candace-owens.md)** worked with this
-  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:43:18](/episodes/ep-adJ4LNGp84I.md#t-00-42-50)
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:03:57](/episodes/ep-c5BcKF91iec.md#t-00-03-48)
+- **[Erika Kirk](/entities/person-erika-kirk.md)** widow of this
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:00:36](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00)
 
 - **[Brian Harpole](/entities/person-brian-harpole.md)** works for this
   - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:00](/episodes/ep-581dILVcEE4.md#t-00-23-32)
@@ -9079,7 +9108,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk (403)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk (418)</strong></summary>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (6)</summary>
@@ -9149,6 +9178,52 @@ _Type: People_
 
 - [01:11:45](/episodes/ep-ewBzjVe3LNQ.md#t-01-11-26) (Opinion) **Candace Owens**: ["I do believe that our government was involved in this and is involved ..."](/statements/statement-69914990950d.md)
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (15)</summary>
+
+- [00:00:04](/episodes/ep-9k2xrAC0H88.md#t-00-00-00) (Claim) **Candace Owens**: ["The steel neck quotation about Charlie Kirk did not come from surgeon ..."](/statements/statement-198ca20243d8.md)
+  - Also about: [Dr. Lee Trotter](/entities/person-dr-lee-trotter.md)
+
+- [00:06:35](/episodes/ep-9k2xrAC0H88.md#t-00-06-10) (Claim) **Anonymous Source #1 (Ep 9k2xrAC0H88)** (via read message): ["Dr. Lee Trotter communicated that a frangible bullet was likely used i..."](/statements/statement-25910712e44c.md)
+  - Also about: [Dr. Lee Trotter](/entities/person-dr-lee-trotter.md)
+
+- [00:09:11](/episodes/ep-9k2xrAC0H88.md#t-00-08-48) (Claim) **Anonymous Source #3 (Ep 9k2xrAC0H88)** (via read message): ["Federal agents were blocking the surgeon from returning to the operati..."](/statements/statement-c2de12472215.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Dr. Lee Trotter](/entities/person-dr-lee-trotter.md)
+
+- [00:25:10](/episodes/ep-9k2xrAC0H88.md#t-00-25-03) (Opinion) **Candace Owens**: ["Dan Bongino has been effectively silent on the Charlie Kirk situation ..."](/statements/statement-ea9956416bb5.md)
+  - Also about: [Dan Bongino](/entities/person-dan-bongino.md)
+
+- [00:27:18](/episodes/ep-9k2xrAC0H88.md#t-00-27-06) (Claim) **Frank Turek** (via quoted speech): ["They roped off the vehicle that we took out of there as a crime scene"](/statements/statement-ef7e19af81c0.md)
+  - Also about: [FBI](/entities/org-fbi.md)
+
+- [00:27:53](/episodes/ep-9k2xrAC0H88.md#t-00-27-18) (Claim) **Frank Turek** (via quoted speech): ["Charlie Kirk's necklace with a cross and medallions was found draped o..."](/statements/statement-7b4c0290560c.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md)
+
+- [00:28:47](/episodes/ep-9k2xrAC0H88.md#t-00-28-16) (Claim) **Candace Owens**: ["The car Charlie Kirk was transported in was taken to a towing facility..."](/statements/statement-7fa57f7269ce.md)
+
+- [00:29:30](/episodes/ep-9k2xrAC0H88.md#t-00-28-53) (Claim) **Candace Owens**: ["The rental car company owner in California said to get rid of the vehi..."](/statements/statement-97af4da56e60.md)
+
+- [00:30:03](/episodes/ep-9k2xrAC0H88.md#t-00-29-37) (Claim) **Candace Owens**: ["Insurance was not required to come inspect the vehicle before it was c..."](/statements/statement-1ec02cce8b89.md)
+
+- [00:31:02](/episodes/ep-9k2xrAC0H88.md#t-00-30-59) (Claim) **Candace Owens**: ["We have six photos of the inside of the vehicle Charlie Kirk was trans..."](/statements/statement-bb13e67e2dd2.md)
+
+- [00:32:01](/episodes/ep-9k2xrAC0H88.md#t-00-31-43) (Accusation) **Candace Owens**: ["Federal agents are implicated in the Charlie Kirk assassination in man..."](/statements/statement-e9a16cc0d3aa.md)
+  - Also about: [FBI](/entities/org-fbi.md)
+
+- [00:38:01](/episodes/ep-9k2xrAC0H88.md#t-00-37-27) (Claim) **Baron Coleman** (via quoted speech): ["A Special Air Mission flight with call sign SAM000 flew from Joint Bas..."](/statements/statement-88ba3d5e54ae.md)
+  - Also about: [Colorado Springs](/entities/gpe-colorado-springs.md)
+
+- [00:58:10](/episodes/ep-9k2xrAC0H88.md#t-00-57-41) (Opinion) **Candace Owens**: ["The Charlie Kirk assassination is the biggest political assassination ..."](/statements/statement-6aa9a12703f9.md)
+  - Also about: [John F. Kennedy](/entities/person-john-f-kennedy.md)
+
+- [00:59:46](/episodes/ep-9k2xrAC0H88.md#t-00-59-08) (Claim) **Candace Owens**: ["Erika Kirk claimed that Charlie did not text anybody, which Candace sa..."](/statements/statement-afb16b102d77.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [01:00:00](/episodes/ep-9k2xrAC0H88.md#t-00-59-52) (Opinion) **Candace Owens**: ["Blake Neff's account of Charlie Kirk stating 'I have to call Erika' is..."](/statements/statement-64dacbaa174f.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 

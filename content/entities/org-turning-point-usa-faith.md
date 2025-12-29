@@ -290,18 +290,10 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Referenced By (7)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** advisor to this
   - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:09:32](/episodes/ep-Qt0VHV-POCg.md#t-00-09-15)
-
-- **[Frank Turek](/entities/person-frank-turek.md)** affiliated with this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:58](/episodes/ep-his-JBjlkh8.md#t-00-10-16)
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:58](/episodes/ep-his-JBjlkh8.md#t-00-10-16)
-
-- **[Rob McCoy](/entities/person-rob-mccoy.md)** affiliated with this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:58](/episodes/ep-his-JBjlkh8.md#t-00-10-16)
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:58](/episodes/ep-his-JBjlkh8.md#t-00-10-16)
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** board member of this
   - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:13:21](/episodes/ep-YFmRH8p5lt0.md#t-00-13-10)

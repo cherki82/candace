@@ -11,7 +11,7 @@ date: "2023-10-07"
 
 > Hamas attacks Israel on October 7
 
-## Mentioned In (4 times)
+## Mentioned In (5 times)
 
 ### 1. REVELATIONS: The Truth About Charlie's Medical Report | Cand...
 
@@ -44,3 +44,11 @@ date: "2023-10-07"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2789);return false;">▶️ Play</a>
 
 > Insisted that we all have a perspective on October 7th. So we looked, and we pierced that veil
+
+### 5. What Does Ben Shapiro Know About Erika Kirk And Fort Huachuc...
+
+**Episode:** [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md)
+**Timestamp:** [00:03:28](/episodes/ep-w1oqQbR_bYs.md#event-event-2023-10-07-hamas-attacks-israel-on-october-7-t-00-03-11) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(208);return false;">▶️ Play</a>
+
+> The story begins in 2023, shortly after October 7th.

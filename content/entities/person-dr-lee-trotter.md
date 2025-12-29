@@ -62,12 +62,43 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Works For (1)</summary>
+
+- **[Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)**
+  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:08:33](/episodes/ep-9k2xrAC0H88.md#t-00-08-09): "Charlie gets transported to...Timpanogos Hospital. He's raced into surgery."
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)** employs this
+  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:08:33](/episodes/ep-9k2xrAC0H88.md#t-00-08-09)
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Dr. Lee Trotter (3)</strong></summary>
+<summary><strong class="section-title">Statements about Dr. Lee Trotter (7)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (4)</summary>
+
+- [00:00:04](/episodes/ep-9k2xrAC0H88.md#t-00-00-00) (Claim) **Candace Owens**: ["The steel neck quotation about Charlie Kirk did not come from surgeon ..."](/statements/statement-198ca20243d8.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:06:35](/episodes/ep-9k2xrAC0H88.md#t-00-06-10) (Claim) **Anonymous Source #1 (Ep 9k2xrAC0H88)** (via read message): ["Dr. Lee Trotter communicated that a frangible bullet was likely used i..."](/statements/statement-25910712e44c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:09:11](/episodes/ep-9k2xrAC0H88.md#t-00-08-48) (Claim) **Anonymous Source #3 (Ep 9k2xrAC0H88)** (via read message): ["Federal agents were blocking the surgeon from returning to the operati..."](/statements/statement-c2de12472215.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:09:50](/episodes/ep-9k2xrAC0H88.md#t-00-09-19) (Claim) **Anonymous Source #3 (Ep 9k2xrAC0H88)** (via read message): ["A phone call was placed to DC at the hospital after the surgeon was bl..."](/statements/statement-b7a912d83954.md)
+  - Also about: [FBI](/entities/org-fbi.md)
+
+</details>
 
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3)</summary>

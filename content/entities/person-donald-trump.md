@@ -1,6 +1,6 @@
 ---
 title: "Donald Trump"
-description: "Donald Trump (People) - 189 mentions"
+description: "Donald Trump (People) - 191 mentions"
 id: "person-donald-trump"
 type: "PERSON"
 aliases:
@@ -20,6 +20,17 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
+
+**[01:11:08](/episodes/ep-ewBzjVe3LNQ.md#ent-person-donald-trump-t-01-12-11)**
+> "I recognize the psychological religious operation going on since Trump was elected"
+
+**[01:12:21](/episodes/ep-ewBzjVe3LNQ.md#ent-person-donald-trump-t-01-12-11)**
+> "...ious operation going on since Trump was elected."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (9 mentions)</summary>
@@ -785,6 +796,14 @@ _Type: People_
 </details>
 
 <details>
+<summary>Criticized By (1)</summary>
+
+- **[Michael Savage](/entities/person-michael-savage.md)**
+  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:12:23](/episodes/ep-sreYYcID-QY.md#t-00-11-44): "When he was going on his rant—if you watch the rest of it—when he says something's not right, he says people who are close to Donald Trump in the first administration cannot get close to him."
+
+</details>
+
+<details>
 <summary>Pardoned (1)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
@@ -889,7 +908,15 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Donald Trump (25)</strong></summary>
+<summary><strong class="section-title">Statements about Donald Trump (26)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
+
+- [01:01:39](/episodes/ep-9k2xrAC0H88.md#t-01-01-17) (Claim) **Candace Owens**: ["I found JD Vance with Donald Trump at a restaurant in DC at around six..."](/statements/statement-210e1a3d7222.md)
+  - Also about: [JD Vance](/entities/person-jd-vance.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
+
+</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>

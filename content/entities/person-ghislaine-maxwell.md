@@ -61,13 +61,9 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (1)</summary>
 
 - **[Robert Maxwell](/entities/person-robert-maxwell.md)** parent of this
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:29:10](/episodes/ep-czVBmqZP6Ss.md#t-00-28-54)
-
-- **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)** worked with this
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:29:30](/episodes/ep-czVBmqZP6Ss.md#t-00-29-10)
   - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:29:10](/episodes/ep-czVBmqZP6Ss.md#t-00-28-54)
 
 </details>

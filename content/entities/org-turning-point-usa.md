@@ -1,6 +1,6 @@
 ---
 title: "Turning Point USA"
-description: "Turning Point USA (Organizations) - 767 mentions"
+description: "Turning Point USA (Organizations) - 770 mentions"
 id: "org-turning-point-usa"
 type: "ORG"
 aliases:
@@ -56,7 +56,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (6 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (9 mentions)</summary>
 
 **[00:20:35](/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-t-00-17-22)**
 > "some of his most trusted people may have been trained operatives who infiltrated Turning Point USA"
@@ -75,6 +75,15 @@ _Type: Organizations_
 
 **[00:55:01](/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-t-00-54-42)**
 > "... don't know these people from TPUSA, never been associated."
+
+**[00:06:03](/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-t-00-05-35)**
+> "Terrell Farnsworth (TPUSA staff) still major question marks he raced to rem..."
+
+**[00:56:15](/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-t-00-56-15)**
+> "...ere looking at Brian Harpole (TPUSA security), maybe he's got a brother in the milita..."
+
+**[00:56:48](/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-t-00-56-15)**
+> "...e that you saw Brian Harpole (TPUSA security), what percentage would you put it at?"
 
 </details>
 
@@ -2789,10 +2798,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Investor Includes (1)</summary>
+<summary>Investor Includes (2)</summary>
 
 - **[Foster Friess](/entities/person-foster-friess.md)**
   - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:02:06](/episodes/ep-c5BcKF91iec.md#t-00-01-39): "Foster Friess's funeral—who was a big-time donor to Turning Point USA, still is, I believe."
+
+- **[Bob Schulman](/entities/person-bob-schulman.md)**
+  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:59:27](/episodes/ep-ja26iltROkM.md#t-00-59-15): "Bob Schulman—as I said last week—that took away millions of dollars from Turning Point"
 
 </details>
 
@@ -2813,7 +2825,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Referenced By (43)</summary>
+<summary>Referenced By (42)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** CEO of this
   - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:06:41](/episodes/ep-vwG1juDCQZQ.md#t-00-06-26)
@@ -2825,10 +2837,6 @@ _Type: Organizations_
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** COO of this
   - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:27](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20)
   - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:41:28](/episodes/ep-ZGxnf5cj4Uw.md#t-00-40-46)
-
-- **[T.W. Lewis Foundation](/entities/org-tw-lewis-foundation.md)** affiliated with this
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:28:18](/episodes/ep-SKGUzGHymcI.md#t-00-27-51)
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:20:40](/episodes/ep-581dILVcEE4.md#t-00-20-39)
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** board member of this
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:39:15](/episodes/ep-sreYYcID-QY.md#t-00-38-58)

@@ -48,9 +48,12 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** has investor this
+  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:59:27](/episodes/ep-ja26iltROkM.md#t-00-59-15)
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)** investor includes this
   - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:59:27](/episodes/ep-ja26iltROkM.md#t-00-59-15)
 
 </details>

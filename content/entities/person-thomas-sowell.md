@@ -72,7 +72,32 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Interviewed By (1)</summary>
+
+- **[Ben Shapiro](/entities/person-ben-shapiro.md)**
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:09:54](/episodes/ep-w1oqQbR_bYs.md#t-00-09-20): "Ben had his team reach out and schedule an interview with Thomas Soul"
+
+</details>
+
+<details>
+<summary>Supported By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:09:27](/episodes/ep-w1oqQbR_bYs.md#t-00-09-20): "I have been obsessed with Thomas Sowell... I am pretty much a Thomas Sowell groupie"
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
+
+- **[Ben Shapiro](/entities/person-ben-shapiro.md)** interviewed this
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:09:54](/episodes/ep-w1oqQbR_bYs.md#t-00-09-20)
+
+- **[Candace Owens](/entities/person-candace-owens.md)** supporter of this
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:09:27](/episodes/ep-w1oqQbR_bYs.md#t-00-09-20)
+
+</details>
 
 </details>
 

@@ -89,14 +89,6 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Sibling Of (1)</summary>
-
-- **[Jack Hibbs](/entities/person-jack-hibbs.md)**
-  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:32:41](/episodes/ep-MUA9ebCF4Ow.md#t-00-32-19): "that old man is the brother of Pastor Jack Hibbs"
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:16:46](/episodes/ep-mKXdKV-OBog.md#t-00-16-27): "Burton Hibbs, Butch, is the brother of Pastor Jack Hibbs"
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:16:47](/episodes/ep-mKXdKV-OBog.md#t-00-16-27): "Burton Hibbs—Butch—the brother of Pastor Jack Hibbs"
-
-</details>
+_No relationships extracted yet._
 
 </details>

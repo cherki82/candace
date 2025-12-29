@@ -422,7 +422,15 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Blake Neff (12)</strong></summary>
+<summary><strong class="section-title">Statements about Blake Neff (13)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
+
+- [01:00:00](/episodes/ep-9k2xrAC0H88.md#t-00-59-52) (Opinion) **Candace Owens**: ["Blake Neff's account of Charlie Kirk stating 'I have to call Erika' is..."](/statements/statement-64dacbaa174f.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (5)</summary>

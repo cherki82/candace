@@ -41,6 +41,20 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Interviewed (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:55:53](/episodes/ep-9k2xrAC0H88.md#t-00-55-37): "I did sit down with Piers Morgan this morning."
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** interviewed by this
+  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:55:53](/episodes/ep-9k2xrAC0H88.md#t-00-55-37)
+
+</details>
 
 </details>

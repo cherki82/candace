@@ -701,7 +701,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (11)</summary>
+<summary>Referenced By (10)</summary>
 
 - **[Eric Bolling](/entities/person-eric-bolling.md)** appeared with this
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:08:27](/episodes/ep-sreYYcID-QY.md#t-00-08-13)
@@ -734,10 +734,6 @@ _Type: People_
 
 - **[Candace Owens](/entities/person-candace-owens.md)** warned by this
   - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:03:31](/episodes/ep-sImMM04XdWY.md#t-00-03-29)
-
-- **[Charlie Kirk](/entities/person-charlie-kirk.md)** worked with this
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:10:48](/episodes/ep-K5GjF53bfN4.md#t-00-10-43)
-  - [To My Friend, Charlie Kirk. @ 00:14:33](/episodes/ep-_dRaEO47-co.md#t-00-14-11)
 
 </details>
 

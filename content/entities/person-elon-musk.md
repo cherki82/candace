@@ -119,12 +119,34 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Owns (1)</summary>
+
+- **[Twitter](/entities/org-twitter.md)**
+  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:52:34](/episodes/ep-9k2xrAC0H88.md#t-00-51-55): "Elon Musk handed over X to the military."
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Twitter](/entities/org-twitter.md)** owned by this
+  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:52:34](/episodes/ep-9k2xrAC0H88.md#t-00-51-55)
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Elon Musk (1)</strong></summary>
+<summary><strong class="section-title">Statements about Elon Musk (2)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
+
+- [00:53:15](/episodes/ep-9k2xrAC0H88.md#t-00-52-39) (Accusation) **Candace Owens**: ["Elon Musk handed over X to the military and military bots operate on t..."](/statements/statement-75ff8a7c45e0.md)
+  - Also about: [Twitter](/entities/org-twitter.md)
+
+</details>
 
 <details>
 <summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1)</summary>

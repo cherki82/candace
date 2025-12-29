@@ -694,7 +694,14 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Brigitte Macron (18)</strong></summary>
+<summary><strong class="section-title">Statements about Brigitte Macron (19)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
+
+- [00:57:59](/episodes/ep-9k2xrAC0H88.md#t-00-57-41) (Claim) **Candace Owens**: ["Brigitte Macron has not released any photos of herself for 30 plus yea..."](/statements/statement-29eb1812e75c.md)
+
+</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (3)</summary>

@@ -237,7 +237,15 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Air Force (2)</strong></summary>
+<summary><strong class="section-title">Statements about United States Air Force (3)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
+
+- [00:37:36](/episodes/ep-9k2xrAC0H88.md#t-00-37-27) (Claim) **Baron Coleman** (via quoted speech): ["SAM000 call signs are highly sensitive and used when the White House o..."](/statements/statement-e907c35b1863.md)
+  - Also about: [White House](/entities/org-white-house.md)
+
+</details>
 
 <details>
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1)</summary>

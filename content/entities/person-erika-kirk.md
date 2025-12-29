@@ -1,6 +1,6 @@
 ---
 title: "Erika Kirk"
-description: "Erika Kirk (People) - 381 mentions"
+description: "Erika Kirk (People) - 384 mentions"
 id: "person-erika-kirk"
 type: "PERSON"
 aliases:
@@ -73,7 +73,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (4 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (7 mentions)</summary>
 
 **[00:07:19](/episodes/ep-ewBzjVe3LNQ.md#ent-person-erika-kirk-t-00-06-59)**
 > "he wanted, obviously, the team to get back in there to make sure that Charlie could get cleaned up before Erica came in."
@@ -86,6 +86,15 @@ _Type: People_
 
 **[00:58:00](/episodes/ep-ewBzjVe3LNQ.md#ent-person-erika-kirk-t-00-58-00)**
 > "...il matches the description of Erica Kirk, what percentage would you put that at?"
+
+**[00:07:05](/episodes/ep-ewBzjVe3LNQ.md#ent-person-erika-kirk-t-00-06-59)**
+> "... get cleaned up before Erika (Erika Kirk) came in."
+
+**[00:07:05](/episodes/ep-ewBzjVe3LNQ.md#ent-person-erika-kirk-t-00-06-59)**
+> "...) could get cleaned up before Erika (Erika Kirk) came in."
+
+**[00:57:37](/episodes/ep-ewBzjVe3LNQ.md#ent-person-erika-kirk-t-00-57-34)**
+> "There's a picture of Erika Kirk with a ponytail from her past."
 
 </details>
 
@@ -1369,10 +1378,29 @@ _Type: People_
 </details>
 
 <details>
+<summary>Cousin Of (1)</summary>
+
+- **[Nicole Rothstein](/entities/person-nicole-rothstein.md)**
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:52:48](/episodes/ep-w1oqQbR_bYs.md#t-00-52-09): "I'm her cousin"
+
+</details>
+
+<details>
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
   - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-29): "I'm sorry, but that whole thing right there is frustrating"
+
+</details>
+
+<details>
+<summary>Defended By (2)</summary>
+
+- **[Ben Shapiro](/entities/person-ben-shapiro.md)**
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:00:19](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00): "He seems to be taking multiple stages and demanding an allegiance to Erica Kirk"
+
+- **[Nicole Rothstein](/entities/person-nicole-rothstein.md)**
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:52:42](/episodes/ep-w1oqQbR_bYs.md#t-00-52-09): "This Nicole Rothstein who defends her in the comments currently"
 
 </details>
 
@@ -1421,13 +1449,30 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (12)</summary>
+<summary>Widow Of (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:00:36](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00): "Charlie's widow"
+
+</details>
+
+<details>
+<summary>Referenced By (15)</summary>
 
 - **[JD Vance](/entities/person-jd-vance.md)** appeared with this
   - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:02:15](/episodes/ep-vwG1juDCQZQ.md#t-00-02-10)
 
+- **[Nicole Rothstein](/entities/person-nicole-rothstein.md)** cousin of this
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:52:48](/episodes/ep-w1oqQbR_bYs.md#t-00-52-09)
+
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
   - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-29)
+
+- **[Ben Shapiro](/entities/person-ben-shapiro.md)** defended this
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:00:19](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00)
+
+- **[Nicole Rothstein](/entities/person-nicole-rothstein.md)** defended this
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:52:42](/episodes/ep-w1oqQbR_bYs.md#t-00-52-09)
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** friend of this
   - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:04:43](/episodes/ep-6DhWawD4ZiM.md#t-00-04-36)
@@ -1456,12 +1501,11 @@ _Type: People_
 - **[Glenn Beck](/entities/person-glenn-beck.md)** interviewed this
   - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:17:14](/episodes/ep-6J6lRZPQ4jk.md#t-00-17-02)
 
-- **[Charlie Kirk](/entities/person-charlie-kirk.md)** married to this
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:00:09](/episodes/ep-SKGUzGHymcI.md#t-00-00-00)
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 01:07:30](/episodes/ep-2WEHTk0Xewg.md#t-01-06-45)
-
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)** met with this
   - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 01:05:42](/episodes/ep-es7PWdFGoFI.md#t-01-05-19)
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** widower of this
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:00:36](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00)
 
 </details>
 
@@ -1589,7 +1633,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Erika Kirk (73)</strong></summary>
+<summary><strong class="section-title">Statements about Erika Kirk (75)</strong></summary>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (5)</summary>
@@ -1619,6 +1663,17 @@ _Type: People_
 
 - [00:57:58](/episodes/ep-ewBzjVe3LNQ.md#t-00-57-34) (Accusation) **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["I am 95-99 percent certain that the woman with striking blue eyes I sa..."](/statements/statement-225fecf27f50.md)
   - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2)</summary>
+
+- [00:59:46](/episodes/ep-9k2xrAC0H88.md#t-00-59-08) (Claim) **Candace Owens**: ["Erika Kirk claimed that Charlie did not text anybody, which Candace sa..."](/statements/statement-afb16b102d77.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [01:00:00](/episodes/ep-9k2xrAC0H88.md#t-00-59-52) (Opinion) **Candace Owens**: ["Blake Neff's account of Charlie Kirk stating 'I have to call Erika' is..."](/statements/statement-64dacbaa174f.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

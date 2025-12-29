@@ -454,7 +454,15 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Supported By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 01:12:30](/episodes/ep-w1oqQbR_bYs.md#t-01-00-35): "Kanye was right. He was totally right"
+
+</details>
+
+<details>
+<summary>Referenced By (5)</summary>
 
 - **[Scott Adams](/entities/person-scott-adams.md)** criticized this
   - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:13:09](/episodes/ep-c5BcKF91iec.md#t-00-12-41)
@@ -467,6 +475,9 @@ _Type: People_
 
 - **[Candace Owens](/entities/person-candace-owens.md)** met with this
   - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:03:59](/episodes/ep-czVBmqZP6Ss.md#t-00-03-27)
+
+- **[Candace Owens](/entities/person-candace-owens.md)** supporter of this
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 01:12:30](/episodes/ep-w1oqQbR_bYs.md#t-01-00-35)
 
 </details>
 

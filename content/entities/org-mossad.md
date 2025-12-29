@@ -1,6 +1,6 @@
 ---
 title: "Mossad"
-description: "Mossad (Organizations) - 31 mentions"
+description: "Mossad (Organizations) - 33 mentions"
 id: "org-mossad"
 type: "ORG"
 ---
@@ -26,6 +26,17 @@ _Type: Organizations_
 
 **[00:45:33](/episodes/ep-w1oqQbR_bYs.md#ent-org-mossad-t-00-45-12)**
 > "I never once said the Mossad killed Charlie Kirk."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
+
+**[00:11:11](/episodes/ep-ewBzjVe3LNQ.md#ent-org-mossad-t-00-11-03)**
+> "people that leave the Mossad"
+
+**[00:11:03](/episodes/ep-ewBzjVe3LNQ.md#ent-org-mossad-t-00-11-03)**
+> "...igence, people that leave the Mossad."
 
 </details>
 

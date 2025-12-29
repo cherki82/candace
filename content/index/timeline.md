@@ -2,7 +2,7 @@
 title: "Timeline"
 ---
 
-_Total events: 532_
+_Total events: 548_
 
 > **Note:** Events and dates are extracted automatically using AI. Some dates may be approximate or inferred from context.
 
@@ -74,9 +74,9 @@ _Total events: 532_
 <input type="radio" id="tab-historical" name="timeline-tab" class="tab-radio">
 
 <div class="tab-controls">
-  <label for="tab-2025" class="tab-btn">2025 (388)</label>
-  <label for="tab-2024" class="tab-btn">2024 (43)</label>
-  <label for="tab-historical" class="tab-btn">Historical (101)</label>
+  <label for="tab-2025" class="tab-btn">2025 (398)</label>
+  <label for="tab-2024" class="tab-btn">2024 (45)</label>
+  <label for="tab-historical" class="tab-btn">Historical (105)</label>
 </div>
 
 <div class="tab-content tab-content-2025">
@@ -86,6 +86,51 @@ _Total events: 532_
 <h2 id="year-2025">2025</h2>
 
 **December**
+
+<div class="timeline-event filter-item" id="event-2025-12-19-ben-shapiro-speaks-at-amfest-2024-attack">
+<div class="timeline-date">2025-12-19</div>
+<div class="timeline-desc"><a href="/events/event-2025-12-19-ben-shapiro-speaks-at-amfest-2024-attack.md">Ben Shapiro speaks at AmFest 2024 attacking Candace Owens and Tucker Carlson</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-19: Ben Shapiro speaks at AmFest 2024 attacking Candace Owens and Tucker Carlson - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And... @ 00:01:18](/episodes/ep-w1oqQbR_bYs.md#t-00-00-42)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-12-19-tucker-carlson-speaks-at-amfest-2025-def">
+<div class="timeline-date">2025-12-19</div>
+<div class="timeline-desc"><a href="/events/event-2025-12-19-tucker-carlson-speaks-at-amfest-2025-def.md">Tucker Carlson speaks at AmFest 2025 defending Charlie Kirk legacy and free speech</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-19: Tucker Carlson speaks at AmFest 2025 defending Charlie Kirk legacy and free speech - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And... @ 00:29:39](/episodes/ep-w1oqQbR_bYs.md#t-00-29-34)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-12-19-candace-owens-launches-givesendgo-campai">
+<div class="timeline-date">2025-12-19</div>
+<div class="timeline-desc"><a href="/events/event-2025-12-19-candace-owens-launches-givesendgo-campai.md">Candace Owens launches GiveSendGo campaign to support witness Mitch</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-19: Candace Owens launches GiveSendGo campaign to support witness Mitch - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And... @ 00:33:32](/episodes/ep-w1oqQbR_bYs.md#t-00-33-02)
+
+</details>
+</div>
 
 <div class="timeline-event filter-item" id="event-2025-12-18-tpusa-amfest-scheduled---tpusa-aims-to-s">
 <div class="timeline-date">2025-12-18</div>
@@ -4778,6 +4823,36 @@ _Total events: 532_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Who Stood To Benefit From Charlie Kirk's Assass... @ 00:07:19](/episodes/ep-Kmt6HgRjckU.md#t-00-07-01)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-12-01-steven-crowder-releases-leaked-daily-wir">
+<div class="timeline-date">2025-12-01</div>
+<div class="timeline-desc"><a href="/events/event-2025-12-01-steven-crowder-releases-leaked-daily-wir.md">Steven Crowder releases leaked Daily Wire town hall video showing Candace Owens firing presentation</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-01: Steven Crowder releases leaked Daily Wire town hall video showing Candace Owens firing presentation - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And... @ 00:12:08](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-12-01-congressman-mark-amodei-tweets-about-his">
+<div class="timeline-date">2025-12-01</div>
+<div class="timeline-desc"><a href="/events/event-2025-12-01-congressman-mark-amodei-tweets-about-his.md">Congressman Mark Amodei tweets about his alibi for September 9th meeting allegations</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-01: Congressman Mark Amodei tweets about his alibi for September 9th meeting allegations - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And... @ 00:35:53](/episodes/ep-w1oqQbR_bYs.md#t-00-35-37)
 
 </details>
 </div>
@@ -17774,7 +17849,7 @@ _Total events: 532_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve.md">Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">391× in 44 eps</span>
+<span class="timeline-badge mentions">392× in 45 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -18171,6 +18246,7 @@ _Total events: 532_
 - [They Are Lying About Tyler Robinson. | Candace ... @ 00:06:42](/episodes/ep-ZGxnf5cj4Uw.md#t-00-06-10)
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Ca... @ 00:01:49](/episodes/ep-sreYYcID-QY.md#t-00-01-20)
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:49:04](/episodes/ep-tB5SXXmd9vU.md#t-00-48-53)
+- [BREAKING NEWS! We Received Photos Of Charlie's ... @ 01:08:00](/episodes/ep-9k2xrAC0H88.md#t-01-02-41)
 
 </details>
 </div>
@@ -20290,13 +20366,14 @@ _Total events: 532_
 <div class="timeline-date">2025-09-09</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-vip-government-plane-sam-flight-99-0404-.md">VIP government plane (SAM flight 99-0404) departs Fort Huachuca with call sign change indicating VIP passenger</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09: VIP government plane (SAM flight 99-0404) departs Fort Huachuca with call sign change indicating VIP passenger - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theor... @ 00:44:50](/episodes/ep-6DhWawD4ZiM.md#t-00-44-27)
+- [BREAKING NEWS! We Received Photos Of Charlie's ... @ 00:51:00](/episodes/ep-9k2xrAC0H88.md#t-00-50-27)
 
 </details>
 </div>
@@ -20312,6 +20389,21 @@ _Total events: 532_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachu... @ 00:19:21](/episodes/ep-ewBzjVe3LNQ.md#t-00-19-20)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-09-alleged-early-morning-meeting-at-fort-hu">
+<div class="timeline-date">2025-09-09</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-09-alleged-early-morning-meeting-at-fort-hu.md">Alleged early morning meeting at Fort Huachuca involving Brian Harpole, congressman Mark Amodei per witness Mitch</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09: Alleged early morning meeting at Fort Huachuca involving Brian Harpole, congressman Mark Amodei per witness Mitch - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And... @ 00:34:58](/episodes/ep-w1oqQbR_bYs.md#t-00-34-25)
 
 </details>
 </div>
@@ -21026,7 +21118,7 @@ _Total events: 532_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachu... @ 00:37:31](/episodes/ep-ewBzjVe3LNQ.md#t-00-37-20)
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachu... @ 00:37:30](/episodes/ep-ewBzjVe3LNQ.md#t-00-37-20)
 
 </details>
 </div>
@@ -21475,6 +21567,21 @@ _Total events: 532_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:40:44](/episodes/ep-tB5SXXmd9vU.md#t-00-40-05)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-04-cabot-phillips-missing-from-morning-wire">
+<div class="timeline-date">2025-09-04</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-04-cabot-phillips-missing-from-morning-wire.md">Cabot Phillips missing from Morning Wire show September 4-10 per Candace Owens</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-04: Cabot Phillips missing from Morning Wire show September 4-10 per Candace Owens - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And... @ 00:42:55](/episodes/ep-w1oqQbR_bYs.md#t-00-42-27)
 
 </details>
 </div>
@@ -22286,7 +22393,7 @@ _Total events: 532_
 <div class="timeline-date">2025-08-27</div>
 <div class="timeline-desc"><a href="/events/event-2025-08-27-operation-valhalla-joint-military-civilian-exercis.md">Operation Valhalla joint military-civilian exercise ends at Camp Ripley, Minnesota.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">17× in 3 eps</span>
+<span class="timeline-badge mentions">18× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-08-27: Operation Valhalla joint military-civilian exercise ends at Camp Ripley, Minnesota. - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -22309,6 +22416,7 @@ _Total events: 532_
 - [Operation: “See you in Valhalla, Charlie”. | Ca... @ 00:08:54](/episodes/ep-mKXdKV-OBog.md#t-00-08-31)
 - [Operation: “See you in Valhalla, Charlie”. | Ca... @ 00:09:13](/episodes/ep-mKXdKV-OBog.md#t-00-09-13)
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:20:36](/episodes/ep-tB5SXXmd9vU.md#t-00-20-29)
+- [BREAKING NEWS! We Received Photos Of Charlie's ... @ 00:44:37](/episodes/ep-9k2xrAC0H88.md#t-00-44-05)
 
 </details>
 </div>
@@ -23156,6 +23264,21 @@ _Total events: 532_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-08-26-sam-000-vip-plane-changes-call-sign-to-r">
+<div class="timeline-date">2025-08-26</div>
+<div class="timeline-desc"><a href="/events/event-2025-08-26-sam-000-vip-plane-changes-call-sign-to-r.md">SAM-000 VIP plane changes call sign to REACH-658 and departs Las Vegas back to Colorado Springs, then to Andrews Air Force Base</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-08-26: SAM-000 VIP plane changes call sign to REACH-658 and departs Las Vegas back to Colorado Springs, then to Andrews Air Force Base - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS! We Received Photos Of Charlie's ... @ 00:39:40](/episodes/ep-9k2xrAC0H88.md#t-00-39-24)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-08-25-three-week-french-legionnaires-training-in-califor">
 <div class="timeline-date">2025-08-25</div>
 <div class="timeline-desc"><a href="/events/event-2025-08-25-three-week-french-legionnaires-training-in-califor.md">Three-week French Legionnaires training in California concluded on August 25, 2025.</a></div>
@@ -23193,6 +23316,21 @@ _Total events: 532_
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:59:13](/episodes/ep-tB5SXXmd9vU.md#t-00-58-43)
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:15:59](/episodes/ep-tB5SXXmd9vU.md#t-00-15-25)
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:18:42](/episodes/ep-tB5SXXmd9vU.md#t-00-18-18)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-08-25-sam-000-vip-government-plane-tail-99-040">
+<div class="timeline-date">2025-08-25</div>
+<div class="timeline-desc"><a href="/events/event-2025-08-25-sam-000-vip-government-plane-tail-99-040.md">SAM-000 VIP government plane (tail 99-0404) flies from Joint Base Andrews to Colorado Springs, then to Las Vegas arriving at 4:48pm local time</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-08-25: SAM-000 VIP government plane (tail 99-0404) flies from Joint Base Andrews to Colorado Springs, then to Las Vegas arriving at 4:48pm local time - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS! We Received Photos Of Charlie's ... @ 00:37:47](/episodes/ep-9k2xrAC0H88.md#t-00-37-27)
 
 </details>
 </div>
@@ -23244,6 +23382,21 @@ _Total events: 532_
 - [Operation Mocking-Plane: The Charlie Kirk Plot ... @ 00:11:45](/episodes/ep-JQjCAsfoXEE.md#t-00-11-07)
 - [Why Is Everyone Crashing Out Over The Charlie K... @ 00:16:48](/episodes/ep-YaZfwLQ7vrI.md#t-00-16-39)
 - [Why Is Everyone Crashing Out Over The Charlie K... @ 00:22:29](/episodes/ep-YaZfwLQ7vrI.md#t-00-22-07)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-08-24-brian-harpole-states-intel-gathering-and">
+<div class="timeline-date">2025-08-24</div>
+<div class="timeline-desc"><a href="/events/event-2025-08-24-brian-harpole-states-intel-gathering-and.md">Brian Harpole states intel gathering and preparation for UVU event began on August 24th</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-08-24: Brian Harpole states intel gathering and preparation for UVU event began on August 24th - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [BREAKING NEWS! We Received Photos Of Charlie's ... @ 00:42:25](/episodes/ep-9k2xrAC0H88.md#t-00-42-24)
 
 </details>
 </div>
@@ -29875,7 +30028,7 @@ _Total events: 532_
 <div class="timeline-date">2024-03-19</div>
 <div class="timeline-desc"><a href="/events/event-2024-03-19-candace-owens-fired-from-the-daily-wire.md">Candace Owens fired from The Daily Wire</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 2 eps</span>
+<span class="timeline-badge mentions">4× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2024-03-19: Candace Owens fired from The Daily Wire - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -29884,6 +30037,7 @@ _Total events: 532_
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:07:38](/episodes/ep-sImMM04XdWY.md#t-00-07-38)
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interv... @ 00:01:57](/episodes/ep-vwG1juDCQZQ.md#t-00-01-30)
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:07:51](/episodes/ep-sImMM04XdWY.md#t-00-07-38)
+- [What Does Ben Shapiro Know About Erika Kirk And... @ 00:01:30](/episodes/ep-w1oqQbR_bYs.md#t-00-01-18)
 
 </details>
 </div>
@@ -30035,6 +30189,21 @@ _Total events: 532_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BREAKING NEWS: FBI Pressuring Utah To Close The... @ 00:17:01](/episodes/ep-QZWSsq8ZWzw.md#t-00-16-32)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2024-03-01-daily-wire-town-hall-meeting-held-after-">
+<div class="timeline-date">2024-03-01</div>
+<div class="timeline-desc"><a href="/events/event-2024-03-01-daily-wire-town-hall-meeting-held-after-.md">Daily Wire town hall meeting held after Candace Owens firing with Jeremy Boreing presentation</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024-03-01: Daily Wire town hall meeting held after Candace Owens firing with Jeremy Boreing presentation - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And... @ 00:12:08](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00)
 
 </details>
 </div>
@@ -30442,6 +30611,21 @@ _Total events: 532_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2024-01-01-ben-shapiro-returns-to-amfest-speaker-li">
+<div class="timeline-date">2024-01-01</div>
+<div class="timeline-desc"><a href="/events/event-2024-01-01-ben-shapiro-returns-to-amfest-speaker-li.md">Ben Shapiro returns to AmFest speaker list after years of absence</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024-01-01: Ben Shapiro returns to AmFest speaker list after years of absence - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And... @ 00:01:18](/episodes/ep-w1oqQbR_bYs.md#t-00-00-42)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -30618,7 +30802,7 @@ _Total events: 532_
 <div class="timeline-date">1963-11-22</div>
 <div class="timeline-desc"><a href="/events/event-1963-11-22-jfk-assassination.md">President John F. Kennedy assassinated in Dallas, Texas</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">8× in 7 eps</span>
+<span class="timeline-badge mentions">9× in 8 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('1963-11-22: President John F. Kennedy assassinated in Dallas, Texas - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -30632,6 +30816,7 @@ _Total events: 532_
 - [REVELATIONS: The Truth About Charlie's Medical ... @ 00:19:41](/episodes/ep-pc3pxRyNFZk.md#t-00-19-31)
 - [Operation Mocking-Plane: The Charlie Kirk Plot ... @ 00:00:03](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00)
 - [Who Stood To Benefit From Charlie Kirk's Assass... @ 00:02:03](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46)
+- [BREAKING NEWS! We Received Photos Of Charlie's ... @ 01:10:36](/episodes/ep-9k2xrAC0H88.md#t-01-02-41)
 
 </details>
 </div>
@@ -30822,13 +31007,14 @@ _Total events: 532_
 <div class="timeline-date">1989-11-13</div>
 <div class="timeline-desc"><a href="/events/event-1989-11-13-joint-task-force-six-jtf-6-established-a.md">Joint Task Force Six (JTF-6) established at Fort Bliss, Texas by General Colin Powell</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('1989-11-13: Joint Task Force Six (JTF-6) established at Fort Bliss, Texas by General Colin Powell - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:05:05](/episodes/ep-t4U7NjnUEgc.md#t-00-04-35)
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachu... @ 00:26:24](/episodes/ep-ewBzjVe3LNQ.md#t-00-26-10)
 
 </details>
 </div>
@@ -30889,13 +31075,14 @@ _Total events: 532_
 <div class="timeline-date">1990-05-01</div>
 <div class="timeline-desc"><a href="/events/event-1990-05-01-first-sinaloa-cartel-drug-tunnel-discove.md">First Sinaloa cartel drug tunnel discovered between Douglas, Arizona and Agua Prieta, Mexico</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('1990-05-01: First Sinaloa cartel drug tunnel discovered between Douglas, Arizona and Agua Prieta, Mexico - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:08:27](/episodes/ep-t4U7NjnUEgc.md#t-00-08-14)
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachu... @ 00:29:11](/episodes/ep-ewBzjVe3LNQ.md#t-00-28-58)
 
 </details>
 </div>
@@ -31384,6 +31571,21 @@ _Total events: 532_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:42:30](/episodes/ep-SKGUzGHymcI.md#t-00-42-11)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2017-01-01-erika-kirk-then-frantzich-and-cabot-phil">
+<div class="timeline-date">2017-01-01</div>
+<div class="timeline-desc"><a href="/events/event-2017-01-01-erika-kirk-then-frantzich-and-cabot-phil.md">Erika Kirk (then Frantzich) and Cabot Phillips in relationship</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2017-01-01: Erika Kirk (then Frantzich) and Cabot Phillips in relationship - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And... @ 00:44:04](/episodes/ep-w1oqQbR_bYs.md#t-00-43-46)
 
 </details>
 </div>
@@ -33299,7 +33501,7 @@ _Total events: 532_
 <div class="timeline-date">2023-10-07</div>
 <div class="timeline-desc"><a href="/events/event-2023-10-07-hamas-attacks-israel-on-october-7.md">Hamas attacks Israel on October 7</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">4× in 4 eps</span>
+<span class="timeline-badge mentions">5× in 5 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2023-10-07: Hamas attacks Israel on October 7 - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -33309,6 +33511,7 @@ _Total events: 532_
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:23](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:48:37](/episodes/ep-ZAuuSq_j2_w.md#t-00-47-54)
 - [BREAKING NEWS! The Egyptian Military Was In Pro... @ 00:46:29](/episodes/ep-iHav0PPzUz8.md#t-00-45-50)
+- [What Does Ben Shapiro Know About Erika Kirk And... @ 00:03:28](/episodes/ep-w1oqQbR_bYs.md#t-00-03-11)
 
 </details>
 </div>
@@ -33353,6 +33556,51 @@ _Total events: 532_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Canda... @ 00:31:41](/episodes/ep-ja26iltROkM.md#t-00-31-14)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2023-11-14-ben-shapiro-caught-on-video-at-private-e">
+<div class="timeline-date">2023-11-14</div>
+<div class="timeline-desc"><a href="/events/event-2023-11-14-ben-shapiro-caught-on-video-at-private-e.md">Ben Shapiro caught on video at private event insulting Candace Owens over genocide tweet</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2023-11-14: Ben Shapiro caught on video at private event insulting Candace Owens over genocide tweet - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And... @ 00:04:29](/episodes/ep-w1oqQbR_bYs.md#t-00-03-53)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2023-11-15-candace-owens-appears-on-tucker-carlson-">
+<div class="timeline-date">2023-11-15</div>
+<div class="timeline-desc"><a href="/events/event-2023-11-15-candace-owens-appears-on-tucker-carlson-.md">Candace Owens appears on Tucker Carlson show responding to Ben Shapiro</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2023-11-15: Candace Owens appears on Tucker Carlson show responding to Ben Shapiro - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And... @ 00:07:54](/episodes/ep-w1oqQbR_bYs.md#t-00-07-19)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2023-11-17-ben-shapiro-interviews-thomas-sowell-on-">
+<div class="timeline-date">2023-11-17</div>
+<div class="timeline-desc"><a href="/events/event-2023-11-17-ben-shapiro-interviews-thomas-sowell-on-.md">Ben Shapiro interviews Thomas Sowell on Daily Wire show</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2023-11-17: Ben Shapiro interviews Thomas Sowell on Daily Wire show - Candace Owens Show Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And... @ 00:10:10](/episodes/ep-w1oqQbR_bYs.md#t-00-09-55)
 
 </details>
 </div>

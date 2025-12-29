@@ -29,15 +29,6 @@ _Type: Organizations_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Affiliated With (1)</summary>
-
-- **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:28:18](/episodes/ep-SKGUzGHymcI.md#t-00-27-51): "Turning Point USA is featured on T.W. Lewis's foundation website. They are partners. They have given to Turning Point USA"
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:20:40](/episodes/ep-581dILVcEE4.md#t-00-20-39): "Turning Point USA is featured on T.W. Lewis's foundation website as someone that they fund"
-
-</details>
-
-<details>
 <summary>Owns (1)</summary>
 
 - **[N560TW](/entities/vehicle-n560tw.md)**

@@ -79,6 +79,7 @@ _Type: People_
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
   - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:22](/episodes/ep-ja26iltROkM.md#t-00-31-57): "Dave Rubin instantly replied and said something about Israel—even though I didn't mention Israel in the tweet"
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:13:57](/episodes/ep-w1oqQbR_bYs.md#t-00-13-30): "Dave Rubin came to the exact same conclusion as the anti-Semites, only instead of cheering for Candice, found it vile and rebuked her"
 
 </details>
 
@@ -91,17 +92,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
   - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:22](/episodes/ep-ja26iltROkM.md#t-00-31-57)
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** defended by this
   - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:07:10](/episodes/ep-MUA9ebCF4Ow.md#t-00-07-09)
-
-- **[Charlie Kirk](/entities/person-charlie-kirk.md)** worked with this
-  - [To My Friend, Charlie Kirk. @ 00:07:09](/episodes/ep-_dRaEO47-co.md#t-00-07-08)
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:03](/episodes/ep-ja26iltROkM.md#t-00-31-57)
 
 </details>
 

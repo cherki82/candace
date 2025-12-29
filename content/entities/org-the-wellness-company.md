@@ -1,6 +1,6 @@
 ---
 title: "The Wellness Company"
-description: "The Wellness Company (Organizations) - 31 mentions"
+description: "The Wellness Company (Organizations) - 34 mentions"
 id: "org-the-wellness-company"
 type: "ORG"
 ---
@@ -22,6 +22,20 @@ _Type: Organizations_
 > "Also reminding you guys about the wellness company, because what if the sore throat and fever that h..."
 
 **[00:28:18](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-wellness-company-t-00-28-09)**
+> "...ur medical emergency kit from the wellness company, match your symptoms to the doctor recommended gu..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (3 mentions)</summary>
+
+**[00:21:36](/episodes/ep-ewBzjVe3LNQ.md#ent-org-the-wellness-company-t-00-21-26)**
+> "I also want to tell you guys about the wellness company"
+
+**[00:21:26](/episodes/ep-ewBzjVe3LNQ.md#ent-org-the-wellness-company-t-00-21-26)**
+> "...o want to tell you guys about the wellness company because what if the sore throat and fever that hi..."
+
+**[00:21:36](/episodes/ep-ewBzjVe3LNQ.md#ent-org-the-wellness-company-t-00-21-26)**
 > "...ur medical emergency kit from the wellness company, match your symptoms to the doctor recommended gu..."
 
 </details>

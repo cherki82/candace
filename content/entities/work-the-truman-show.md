@@ -1,6 +1,6 @@
 ---
 title: "The Truman Show"
-description: "The Truman Show (Works & Media) - 2 mentions"
+description: "The Truman Show (Works & Media) - 7 mentions"
 id: "work-the-truman-show"
 type: "WORK"
 aliases:
@@ -15,6 +15,26 @@ _Type: Works & Media_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (5 mentions)</summary>
+
+**[00:24:00](/episodes/ep-ewBzjVe3LNQ.md#ent-work-the-truman-show-t-00-23-39)**
+> "Are all of our lives a bit like the Truman Show"
+
+**[00:24:02](/episodes/ep-ewBzjVe3LNQ.md#ent-work-the-truman-show-t-00-23-39)**
+> "...e all of our lives a bit like the Truman Show?"
+
+**[00:24:02](/episodes/ep-ewBzjVe3LNQ.md#ent-work-the-truman-show-t-00-23-39)**
+> "...l of our lives a bit like the Truman Show?"
+
+**[00:24:38](/episodes/ep-ewBzjVe3LNQ.md#ent-work-the-truman-show-t-00-24-24)**
+> "Like are all are we living in the Truman Show?"
+
+**[00:24:38](/episodes/ep-ewBzjVe3LNQ.md#ent-work-the-truman-show-t-00-24-24)**
+> "... are all are we living in the Truman Show?"
+
+</details>
 
 <details>
 <summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1 mentions)</summary>

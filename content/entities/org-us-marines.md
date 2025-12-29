@@ -1,6 +1,6 @@
 ---
 title: "U.S. Marines"
-description: "U.S. Marines (Organizations) - 5 mentions"
+description: "U.S. Marines (Organizations) - 6 mentions"
 id: "org-us-marines"
 type: "ORG"
 aliases:

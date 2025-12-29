@@ -302,7 +302,15 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Brian Harpole (2)</strong></summary>
+<summary><strong class="section-title">Statements by Brian Harpole (3)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
+
+- [00:42:07](/episodes/ep-9k2xrAC0H88.md#t-00-41-50) [○] (Claim) ["Brian Harpole started security preparations for the UVU event on August 24th"](/statements/statement-0a8f4d44cf27.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</details>
 
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2)</summary>
@@ -318,7 +326,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Brian Harpole (19)</strong></summary>
+<summary><strong class="section-title">Statements about Brian Harpole (21)</strong></summary>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
@@ -336,6 +344,17 @@ _Type: People_
 
 - [00:56:54](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-15) (Accusation) **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["I am 95-99 percent certain that the man I saw at the Fort Huachuca mee..."](/statements/statement-d7c3e7e4fe7b.md)
   - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2)</summary>
+
+- [00:42:07](/episodes/ep-9k2xrAC0H88.md#t-00-41-50) (Claim) **Brian Harpole** (via quoted speech): ["Brian Harpole started security preparations for the UVU event on Augus..."](/statements/statement-0a8f4d44cf27.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:46:57](/episodes/ep-9k2xrAC0H88.md#t-00-46-51) (Claim) **Candace Owens**: ["Brian Harpole landed in Los Angeles at 6:45 PM on September 7th on a d..."](/statements/statement-4719170d8578.md)
+  - Also about: [Los Angeles](/entities/gpe-los-angeles.md), [Dallas](/entities/gpe-dallas.md)
 
 </details>
 

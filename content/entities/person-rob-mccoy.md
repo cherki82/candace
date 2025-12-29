@@ -539,16 +539,6 @@ _Type: People_
 </details>
 
 <details>
-<summary>Affiliated With (1)</summary>
-
-- **[TPUSA Faith](/entities/org-turning-point-usa-faith.md)**
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:58](/episodes/ep-his-JBjlkh8.md#t-00-10-16): "TPUSA Faith-affiliated pastors, like theologian Frank Turek—who we'll have on in a moment—and Pastor Rob McCoy"
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:58](/episodes/ep-his-JBjlkh8.md#t-00-10-16): "TPUSA Faith affiliated pastors... Pastor Rob McCoy..."
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:12:00](/episodes/ep-his-JBjlkh8.md#t-00-11-59): "TPUSA Faith-affiliated pastors...and Pastor Rob McCoy"
-
-</details>
-
-<details>
 <summary>Board Member Of (1)</summary>
 
 - **[Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)**

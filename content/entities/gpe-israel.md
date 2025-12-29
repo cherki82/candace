@@ -2270,7 +2270,15 @@ _Type: Places_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel (59)</strong></summary>
+<summary><strong class="section-title">Statements about Israel (60)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
+
+- [00:48:24](/episodes/ep-9k2xrAC0H88.md#t-00-48-20) (Claim) **Candace Owens**: ["The Egyptian planes are linked to Israel"](/statements/statement-c7387ec82294.md)
+  - Also about: [Egypt](/entities/gpe-egypt.md)
+
+</details>
 
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (5)</summary>

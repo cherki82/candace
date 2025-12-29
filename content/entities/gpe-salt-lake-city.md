@@ -1,6 +1,6 @@
 ---
 title: "Salt Lake City"
-description: "Salt Lake City (Places) - 27 mentions"
+description: "Salt Lake City (Places) - 29 mentions"
 id: "gpe-salt-lake-city"
 type: "GPE"
 ---
@@ -11,6 +11,17 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
+
+**[00:54:30](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-salt-lake-city-t-00-54-05)**
+> "I had a stop off in Salt Lake city"
+
+**[00:54:30](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-salt-lake-city-t-00-54-05)**
+> "...hed down, I had a stop off in Salt Lake city."
+
+</details>
 
 <details>
 <summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1 mentions)</summary>

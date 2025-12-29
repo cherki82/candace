@@ -95,7 +95,21 @@ _Type: Events_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Hosted Speaker (1)</summary>
+
+- **[Ben Shapiro](/entities/person-ben-shapiro.md)**
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:01:10](/episodes/ep-w1oqQbR_bYs.md#t-00-00-42): "Ben Shapiro just keeps calling my name out on stage... at Turning Point USA's AmFest"
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Ben Shapiro](/entities/person-ben-shapiro.md)** spoke at this
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:01:10](/episodes/ep-w1oqQbR_bYs.md#t-00-00-42)
+
+</details>
 
 </details>
 

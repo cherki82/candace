@@ -44,9 +44,12 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
 
 - **[TikTok](/entities/org-tiktok.md)** has investor this
+  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:43:49](/episodes/ep-aDlhjfW6hz8.md#t-00-43-41)
+
+- **[TikTok](/entities/org-tiktok.md)** investor includes this
   - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:43:49](/episodes/ep-aDlhjfW6hz8.md#t-00-43-41)
 
 </details>

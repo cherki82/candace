@@ -244,16 +244,6 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Affiliated With (1)</summary>
-
-- **[TPUSA Faith](/entities/org-turning-point-usa-faith.md)**
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:58](/episodes/ep-his-JBjlkh8.md#t-00-10-16): "TPUSA Faith-affiliated pastors, like theologian Frank Turek"
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:58](/episodes/ep-his-JBjlkh8.md#t-00-10-16): "TPUSA Faith affiliated pastors, like theologian Frank Turek..."
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:12:00](/episodes/ep-his-JBjlkh8.md#t-00-11-59): "TPUSA Faith-affiliated pastors, like theologian Frank Turek"
-
-</details>
-
-<details>
 <summary>Appeared With (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
@@ -338,7 +328,18 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Frank Turek (9)</strong></summary>
+<summary><strong class="section-title">Statements by Frank Turek (11)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2)</summary>
+
+- [00:27:18](/episodes/ep-9k2xrAC0H88.md#t-00-27-06) [○] (Claim) ["They roped off the vehicle that we took out of there as a crime scene"](/statements/statement-ef7e19af81c0.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
+
+- [00:27:53](/episodes/ep-9k2xrAC0H88.md#t-00-27-18) [○] (Claim) ["Charlie Kirk's necklace with a cross and medallions was found draped over Frank ..."](/statements/statement-7b4c0290560c.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Frank Turek](/entities/person-frank-turek.md)
+
+</details>
 
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2)</summary>
@@ -394,7 +395,15 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Frank Turek (6)</strong></summary>
+<summary><strong class="section-title">Statements about Frank Turek (7)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
+
+- [00:27:53](/episodes/ep-9k2xrAC0H88.md#t-00-27-18) (Claim) **Frank Turek** (via quoted speech): ["Charlie Kirk's necklace with a cross and medallions was found draped o..."](/statements/statement-7b4c0290560c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1)</summary>

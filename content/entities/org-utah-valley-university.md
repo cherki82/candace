@@ -644,7 +644,15 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah Valley University (3)</strong></summary>
+<summary><strong class="section-title">Statements about Utah Valley University (4)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
+
+- [00:42:07](/episodes/ep-9k2xrAC0H88.md#t-00-41-50) (Claim) **Brian Harpole** (via quoted speech): ["Brian Harpole started security preparations for the UVU event on Augus..."](/statements/statement-0a8f4d44cf27.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (3)</summary>

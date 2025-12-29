@@ -691,10 +691,13 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Criticized (1)</summary>
+<summary>Criticized (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
   - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:01](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52): "Benjamin Netanyahu trying to spin this... Tucker completely shredded that narrative... Netanyahu lied so quickly"
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:54:23](/episodes/ep-9k2xrAC0H88.md#t-00-54-08): "They want me and Tucker. You don't want to be name checked with Bibi"
 
 </details>
 
@@ -743,7 +746,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (8)</summary>
+<summary>Referenced By (9)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** criticized this
   - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:37:11](/episodes/ep-2WEHTk0Xewg.md#t-00-36-35)
@@ -754,6 +757,9 @@ _Type: People_
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** criticized by this
   - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:01](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52)
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
+  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:54:23](/episodes/ep-9k2xrAC0H88.md#t-00-54-08)
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** funded by this
   - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:58:02](/episodes/ep-ja26iltROkM.md#t-00-57-53)

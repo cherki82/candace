@@ -1,6 +1,6 @@
 ---
 title: "Christians"
-description: "Christians (Concepts) - 43 mentions"
+description: "Christians (Concepts) - 44 mentions"
 id: "concept-christians"
 type: "CONCEPT"
 ---
@@ -20,6 +20,14 @@ _Type: Concepts_
 
 **[00:26:35](/episodes/ep-w1oqQbR_bYs.md#ent-concept-christians-t-00-26-01)**
 > "Christians versus Muslims."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>
+
+**[00:20:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-19-20)**
+> "two recently baptized Christians"
 
 </details>
 

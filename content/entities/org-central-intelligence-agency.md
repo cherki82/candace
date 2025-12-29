@@ -1,6 +1,6 @@
 ---
 title: "Central Intelligence Agency"
-description: "Central Intelligence Agency (Organizations) - 59 mentions"
+description: "Central Intelligence Agency (Organizations) - 61 mentions"
 id: "org-central-intelligence-agency"
 type: "ORG"
 aliases:
@@ -16,6 +16,17 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
+
+**[00:32:50](/episodes/ep-ewBzjVe3LNQ.md#ent-org-central-intelligence-agency-t-00-32-10)**
+> "the CIA was created to traffic"
+
+**[00:32:41](/episodes/ep-ewBzjVe3LNQ.md#ent-org-central-intelligence-agency-t-00-32-10)**
+> "...e how corrupt and I think the CIA was created to traffic, to be clear."
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (5 mentions)</summary>

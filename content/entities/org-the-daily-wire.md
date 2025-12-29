@@ -274,7 +274,15 @@ _Type: Organizations_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Employs (4)</summary>
+<summary>Criticized By (1)</summary>
+
+- **[Steven Crowder](/entities/person-steven-crowder.md)**
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:12:18](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00): "Steven Crowder got a hold of this week or last week or whatever"
+
+</details>
+
+<details>
+<summary>Employs (5)</summary>
 
 - **[Josh Hammer](/entities/person-josh-hammer.md)**
   - [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 00:15:43](/episodes/ep-2Riv3I7D0Yk.md#t-00-15-07): "He was at one point the editor-at-large of the Daily Wire"
@@ -287,6 +295,9 @@ _Type: Organizations_
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
   - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:30](/episodes/ep-r1PS67aRmcA.md#t-00-00-00): "Ben Shapiro works for the Daily Wire"
+
+- **[Cabot Phillips](/entities/person-cabot-phillips.md)**
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:42:04](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49): "I know that he does the morning wire at Daily Wire"
 
 </details>
 
@@ -316,6 +327,14 @@ _Type: Organizations_
 </details>
 
 <details>
+<summary>Founded By (1)</summary>
+
+- **[Ben Shapiro](/entities/person-ben-shapiro.md)**
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:01:35](/episodes/ep-w1oqQbR_bYs.md#t-00-01-18): "Ben would say management fired me... He wanted to make sure my reputation and livelihood was also destroyed"
+
+</details>
+
+<details>
 <summary>Has Ceo (1)</summary>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)**
@@ -324,11 +343,14 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Referenced By (8)</summary>
+<summary>Referenced By (11)</summary>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** CEO of this
   - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:12:39](/episodes/ep-r1PS67aRmcA.md#t-00-12-19)
   - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:00](/episodes/ep-r1PS67aRmcA.md#t-00-04-34)
+
+- **[Steven Crowder](/entities/person-steven-crowder.md)** criticized this
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:12:18](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00)
 
 - **[Candace Owens](/entities/person-candace-owens.md)** fired this
   - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:29:16](/episodes/ep-aDlhjfW6hz8.md#t-00-29-03)
@@ -339,6 +361,9 @@ _Type: Organizations_
 - **[Candace Owens](/entities/person-candace-owens.md)** formerly worked for this
   - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:22](/episodes/ep-ja26iltROkM.md#t-00-31-57)
   - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:47:51](/episodes/ep-adJ4LNGp84I.md#t-00-47-25)
+
+- **[Ben Shapiro](/entities/person-ben-shapiro.md)** founded this
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:01:35](/episodes/ep-w1oqQbR_bYs.md#t-00-01-18)
 
 - **[Josh Hammer](/entities/person-josh-hammer.md)** works for this
   - [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 00:15:43](/episodes/ep-2Riv3I7D0Yk.md#t-00-15-07)
@@ -351,6 +376,9 @@ _Type: Organizations_
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** works for this
   - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:30](/episodes/ep-r1PS67aRmcA.md#t-00-00-00)
+
+- **[Cabot Phillips](/entities/person-cabot-phillips.md)** works for this
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:42:04](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49)
 
 </details>
 

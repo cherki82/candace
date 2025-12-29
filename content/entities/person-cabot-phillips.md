@@ -53,7 +53,21 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Works For (1)</summary>
+
+- **[The Daily Wire](/entities/org-the-daily-wire.md)**
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:42:04](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49): "I know that he does the morning wire at Daily Wire"
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[The Daily Wire](/entities/org-the-daily-wire.md)** employs this
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:42:04](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49)
+
+</details>
 
 </details>
 

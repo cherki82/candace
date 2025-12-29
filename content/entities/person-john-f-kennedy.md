@@ -293,25 +293,39 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Accused By (1)</summary>
+<summary>Accused By (2)</summary>
 
 - **[Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson.md)**
   - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:02:12](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46): "definitely, Lyndon Baines Johnson and parts of our own government and the Cubans wanted him dead."
 
+- **[Lee Harvey Oswald](/entities/person-lee-harvey-oswald.md)**
+  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:56:09](/episodes/ep-9k2xrAC0H88.md#t-00-55-37): "maybe JFK really was just shot by Lee Harvey Oswald"
+
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
 
 - **[Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson.md)** accused this
   - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:02:12](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46)
+
+- **[Lee Harvey Oswald](/entities/person-lee-harvey-oswald.md)** accused this
+  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:56:09](/episodes/ep-9k2xrAC0H88.md#t-00-55-37)
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about John F. Kennedy (3)</strong></summary>
+<summary><strong class="section-title">Statements about John F. Kennedy (4)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
+
+- [00:58:10](/episodes/ep-9k2xrAC0H88.md#t-00-57-41) (Opinion) **Candace Owens**: ["The Charlie Kirk assassination is the biggest political assassination ..."](/statements/statement-6aa9a12703f9.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1)</summary>

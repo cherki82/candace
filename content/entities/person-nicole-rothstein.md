@@ -31,7 +31,32 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Cousin Of (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:52:48](/episodes/ep-w1oqQbR_bYs.md#t-00-52-09): "I'm her cousin"
+
+</details>
+
+<details>
+<summary>Defended (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:52:42](/episodes/ep-w1oqQbR_bYs.md#t-00-52-09): "This Nicole Rothstein who defends her in the comments currently"
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** cousin of this
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:52:48](/episodes/ep-w1oqQbR_bYs.md#t-00-52-09)
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** defended by this
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:52:42](/episodes/ep-w1oqQbR_bYs.md#t-00-52-09)
+
+</details>
 
 </details>
 

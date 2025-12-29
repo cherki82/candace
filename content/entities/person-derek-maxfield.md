@@ -59,14 +59,7 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Married To (1)</summary>
-
-- **[Shalane Maxfield](/entities/person-shalane-maxfield.md)**
-  - [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:04:47](/episodes/ep-iHav0PPzUz8.md#t-00-04-12): "Derek Maxfield. He's married to Shalane Maxfield."
-  - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:39:19](/episodes/ep-pc3pxRyNFZk.md#t-00-38-41): "Derek Maxfield, his wife, Shalane Maxfield—they sold some beauty company for billions"
-
-</details>
+_No relationships extracted yet._
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Arizona"
-description: "Arizona (Places) - 51 mentions"
+description: "Arizona (Places) - 52 mentions"
 id: "gpe-arizona"
 type: "GPE"
 aliases:
@@ -17,7 +17,7 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (6 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (7 mentions)</summary>
 
 **[00:12:29](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-11-45)**
 > "But that is not what Fort Huachuca in Arizona is, okay?"
@@ -25,10 +25,10 @@ _Type: Places_
 **[00:12:13](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-11-45)**
 > "... is not what Fort Huachuca in Arizona is, okay?"
 
-**[00:30:50](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-30-27)**
+**[00:30:50](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-11-45)**
 > "...s coming through the Douglas, Arizona area."
 
-**[00:33:20](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-33-02)**
+**[00:33:20](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-11-45)**
 > "...d with a friend at, uh, NOCA, Arizona."
 
 **[00:59:29](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-59-12)**
@@ -36,6 +36,9 @@ _Type: Places_
 
 **[01:12:31](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-01-12-11)**
 > "I'm in Arizona and I'm also an ultrasound tech."
+
+**[00:33:20](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-11-45)**
+> "...d with a friend at, uh, Naco, Arizona."
 
 </details>
 

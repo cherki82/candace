@@ -77,10 +77,21 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Fired (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:12:18](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00): "Here is a video of the then CEO Jeremy Boring"
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
 
 - **[Nick Fuentes](/entities/person-nick-fuentes.md)** endorsed by this
   - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:05](/episodes/ep-r1PS67aRmcA.md#t-00-04-34)
+
+- **[Candace Owens](/entities/person-candace-owens.md)** fired by this
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:12:18](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00)
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** has CEO this
   - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:12:39](/episodes/ep-r1PS67aRmcA.md#t-00-12-19)

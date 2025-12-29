@@ -65,7 +65,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
+
+- **[Donald Trump](/entities/person-donald-trump.md)** criticized by this
+  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:12:23](/episodes/ep-sreYYcID-QY.md#t-00-11-44)
 
 - **[Donald Trump](/entities/person-donald-trump.md)** target of criticism from this
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:12:23](/episodes/ep-sreYYcID-QY.md#t-00-11-44)

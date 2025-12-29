@@ -3465,7 +3465,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Criticized By (20)</summary>
+<summary>Criticized By (21)</summary>
 
 - **[Eyal Yakobi](/entities/person-eyal-yakobi.md)**
   - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:02:02](/episodes/ep-581dILVcEE4.md#t-00-01-26): "We've got Eyal Yakobi, who writes, "This is what doxing looks like.""
@@ -3532,6 +3532,9 @@ _Type: People_
 - **[Alex Clark](/entities/person-alex-clark.md)**
   - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:43:04](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30): "Alex (Alex Clark) pulling that move."
 
+- **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
+  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:54:23](/episodes/ep-9k2xrAC0H88.md#t-00-54-08): "They want me and Tucker. You don't want to be name checked with Bibi"
+
 </details>
 
 <details>
@@ -3585,10 +3588,16 @@ _Type: People_
 </details>
 
 <details>
-<summary>Fired By (1)</summary>
+<summary>Fired By (3)</summary>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:41:09](/episodes/ep-sreYYcID-QY.md#t-00-40-44): "I get fired from The Daily Wire."
+
+- **[Ben Shapiro](/entities/person-ben-shapiro.md)**
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:01:35](/episodes/ep-w1oqQbR_bYs.md#t-00-01-18): "In 2024, Ben fired me in March"
+
+- **[Jeremy Boreing](/entities/person-jeremy-boreing.md)**
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:12:18](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00): "Here is a video of the then CEO Jeremy Boring"
 
 </details>
 
@@ -3711,11 +3720,12 @@ _Type: People_
 
 - **[Mitch](/entities/person-mitch-fort-huachuca-witness.md)**
   - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:00:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-59-52): "Okay, everyone, happy Thursday...Welcome back to Candice...we are going to bring on, and this is his new name, Mitch."
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:25:33](/episodes/ep-ewBzjVe3LNQ.md#t-00-25-09): "Mitch, welcome to my podcast. It is so great to have you here."
 
 </details>
 
 <details>
-<summary>Interviewed By (4)</summary>
+<summary>Interviewed By (5)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
   - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:19:08](/episodes/ep-sImMM04XdWY.md#t-00-18-58): "Tucker Carlson releases an episode with me."
@@ -3731,6 +3741,9 @@ _Type: People_
 - **[Kanye West](/entities/person-kanye-west.md)**
   - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:00:35](/episodes/ep-c5BcKF91iec.md#t-00-00-00): "But then I had to very quickly get over to Wyoming because Kanye had invited me to his album release party."
 
+- **[Piers Morgan](/entities/person-piers-morgan.md)**
+  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:55:53](/episodes/ep-9k2xrAC0H88.md#t-00-55-37): "I did sit down with Piers Morgan this morning."
+
 </details>
 
 <details>
@@ -3738,16 +3751,6 @@ _Type: People_
 
 - **[Brigitte Macron](/entities/person-brigitte-macron.md)**
   - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:14:06](/episodes/ep-ozWJz2spBcI.md#t-00-13-44): "if I found Brigitte's penis, I will find who killed Charlie Kirk"
-
-</details>
-
-<details>
-<summary>Married To (1)</summary>
-
-- **[George Farmer](/entities/person-george-farmer.md)**
-  - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:16:47](/episodes/ep-Cq7nj9rxPdo.md#t-00-16-27): "that was in December that I met my husband...I first laid eyes on my husband"
-  - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:03:20](/episodes/ep-vwG1juDCQZQ.md#t-00-02-51): "Candace Owens and George Farmer"
-  - [To My Friend, Charlie Kirk. @ 00:17:57](/episodes/ep-_dRaEO47-co.md#t-00-17-19): "Charlie was by my side the day that I got married, of course. He was by my side when I got married to George"
 
 </details>
 
@@ -3791,6 +3794,17 @@ _Type: People_
 </details>
 
 <details>
+<summary>Supporter Of (2)</summary>
+
+- **[Thomas Sowell](/entities/person-thomas-sowell.md)**
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:09:27](/episodes/ep-w1oqQbR_bYs.md#t-00-09-20): "I have been obsessed with Thomas Sowell... I am pretty much a Thomas Sowell groupie"
+
+- **[Kanye West](/entities/person-kanye-west.md)**
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 01:12:30](/episodes/ep-w1oqQbR_bYs.md#t-01-00-35): "Kanye was right. He was totally right"
+
+</details>
+
+<details>
 <summary>Target Of Criticism From (1)</summary>
 
 - **[Tim Pool](/entities/person-tim-pool.md)**
@@ -3806,16 +3820,6 @@ _Type: People_
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
   - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:03:31](/episodes/ep-sImMM04XdWY.md#t-00-03-29): "Andrew trying to maybe communicate to me... while Charlie was in the hospital, he told me that there was a list and that me and Tucker Carlson were on it"
-
-</details>
-
-<details>
-<summary>Worked With (1)</summary>
-
-- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:43:18](/episodes/ep-adJ4LNGp84I.md#t-00-42-50): "We went to Israel together."
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:03:57](/episodes/ep-c5BcKF91iec.md#t-00-03-48): "The point is that I hit college campuses with Charlie Kirk for six years. I don't believe that there was a single living, breathing person who has spoken at more college campuses alongside Charlie Kirk than me."
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:08:50](/episodes/ep-sreYYcID-QY.md#t-00-08-13): "How could you say that I have not spoken at a Turning Point USA conference in years when I literally went on tour with Turning Point USA on college campuses last year?"
 
 </details>
 
@@ -3837,7 +3841,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (82)</summary>
+<summary>Referenced By (88)</summary>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)** accused by this
   - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:21:21](/episodes/ep-es7PWdFGoFI.md#t-00-21-13)
@@ -3894,6 +3898,7 @@ _Type: People_
 
 - **[Dave Rubin](/entities/person-dave-rubin.md)** criticized this
   - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:22](/episodes/ep-ja26iltROkM.md#t-00-31-57)
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:13:57](/episodes/ep-w1oqQbR_bYs.md#t-00-13-30)
 
 - **[Tim Pool](/entities/person-tim-pool.md)** criticized this
   - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:07:11](/episodes/ep-ZAuuSq_j2_w.md#t-00-06-44)
@@ -3919,6 +3924,9 @@ _Type: People_
 
 - **[Alex Clark](/entities/person-alex-clark.md)** criticized this
   - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:43:04](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30)
+
+- **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** criticized this
+  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:54:23](/episodes/ep-9k2xrAC0H88.md#t-00-54-08)
 
 - **[Nate Brooksby](/entities/person-nate-brooksby.md)** criticized by this
   - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:17:09](/episodes/ep-ZGxnf5cj4Uw.md#t-00-16-40)
@@ -3973,6 +3981,12 @@ _Type: People_
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** fired this
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:41:09](/episodes/ep-sreYYcID-QY.md#t-00-40-44)
   - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:40:47](/episodes/ep-ja26iltROkM.md#t-00-40-37)
+
+- **[Ben Shapiro](/entities/person-ben-shapiro.md)** fired this
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:01:35](/episodes/ep-w1oqQbR_bYs.md#t-00-01-18)
+
+- **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** fired this
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:12:18](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00)
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** fired by this
   - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:29:16](/episodes/ep-aDlhjfW6hz8.md#t-00-29-03)
@@ -4032,6 +4046,9 @@ _Type: People_
 
 - **[Eric Bolling](/entities/person-eric-bolling.md)** interviewed this
   - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:07](/episodes/ep-ja26iltROkM.md#t-00-29-48)
+
+- **[Piers Morgan](/entities/person-piers-morgan.md)** interviewed this
+  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:55:53](/episodes/ep-9k2xrAC0H88.md#t-00-55-37)
 
 - **[Xavier Poussard](/entities/person-xavier-poussard.md)** interviewed by this
   - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:10:31](/episodes/ep-sImMM04XdWY.md#t-00-10-19)
@@ -4093,6 +4110,12 @@ _Type: People_
 - **[Josh Hammer](/entities/person-josh-hammer.md)** sued this
   - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:08:43](/episodes/ep-c5BcKF91iec.md#t-00-08-40)
 
+- **[Thomas Sowell](/entities/person-thomas-sowell.md)** supported by this
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:09:27](/episodes/ep-w1oqQbR_bYs.md#t-00-09-20)
+
+- **[Kanye West](/entities/person-kanye-west.md)** supported by this
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 01:12:30](/episodes/ep-w1oqQbR_bYs.md#t-01-00-35)
+
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** warned this
   - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:01:02](/episodes/ep-sImMM04XdWY.md#t-00-00-39)
 
@@ -4110,7 +4133,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Candace Owens (1084)</strong></summary>
+<summary><strong class="section-title">Statements by Candace Owens (1110)</strong></summary>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (27)</summary>
@@ -4341,6 +4364,85 @@ _Type: People_
 
 - [01:13:08](/episodes/ep-ewBzjVe3LNQ.md#t-01-12-46) [○] (Accusation) ["Josh Hammer lied and people are going out of their way to protect him"](/statements/statement-efaab0fb4d52.md)
   - About: [Josh Hammer](/entities/person-josh-hammer.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (26)</summary>
+
+- [00:00:04](/episodes/ep-9k2xrAC0H88.md#t-00-00-00) [○] (Claim) ["The steel neck quotation about Charlie Kirk did not come from surgeon Dr. Lee Tr..."](/statements/statement-198ca20243d8.md)
+  - About: [Dr. Lee Trotter](/entities/person-dr-lee-trotter.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:12:58](/episodes/ep-9k2xrAC0H88.md#t-00-12-27) [○] (Claim) ["Over 19 billion dollars has been spent on research and development of technology..."](/statements/statement-e02ea87444f5.md)
+
+- [00:13:48](/episodes/ep-9k2xrAC0H88.md#t-00-13-09) [○] (Claim) ["Bomb dogs can smell a fired weapon up to a week after it was triggered"](/statements/statement-e69306b19084.md)
+
+- [00:15:04](/episodes/ep-9k2xrAC0H88.md#t-00-14-36) [○] (Claim) ["The bomb dogs that searched the area where the gun was found belonged to the Ple..."](/statements/statement-bd7f0507ca04.md)
+
+- [00:17:03](/episodes/ep-9k2xrAC0H88.md#t-00-16-44) [○] (Claim) ["Freya, a canine dog, traced the scent from where the person jumped off the Losee..."](/statements/statement-2798a04bce07.md)
+
+- [00:25:02](/episodes/ep-9k2xrAC0H88.md#t-00-24-22) [○] (Claim) ["Dan Bongino is stepping down as FBI Assistant Director to return to his show"](/statements/statement-af3f171dece5.md)
+  - About: [Dan Bongino](/entities/person-dan-bongino.md), [FBI](/entities/org-fbi.md)
+
+- [00:25:10](/episodes/ep-9k2xrAC0H88.md#t-00-25-03) [○] (Opinion) ["Dan Bongino has been effectively silent on the Charlie Kirk situation and has no..."](/statements/statement-ea9956416bb5.md)
+  - About: [Dan Bongino](/entities/person-dan-bongino.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:28:47](/episodes/ep-9k2xrAC0H88.md#t-00-28-16) [○] (Claim) ["The car Charlie Kirk was transported in was taken to a towing facility and then ..."](/statements/statement-7fa57f7269ce.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:29:30](/episodes/ep-9k2xrAC0H88.md#t-00-28-53) [○] (Claim) ["The rental car company owner in California said to get rid of the vehicle and ne..."](/statements/statement-97af4da56e60.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:30:03](/episodes/ep-9k2xrAC0H88.md#t-00-29-37) [○] (Claim) ["Insurance was not required to come inspect the vehicle before it was cleaned and..."](/statements/statement-1ec02cce8b89.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:31:02](/episodes/ep-9k2xrAC0H88.md#t-00-30-59) [○] (Claim) ["We have six photos of the inside of the vehicle Charlie Kirk was transported in"](/statements/statement-bb13e67e2dd2.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:32:01](/episodes/ep-9k2xrAC0H88.md#t-00-31-43) [○] (Accusation) ["Federal agents are implicated in the Charlie Kirk assassination in many ways reg..."](/statements/statement-e9a16cc0d3aa.md)
+  - About: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:32:24](/episodes/ep-9k2xrAC0H88.md#t-00-31-43) [○] (Accusation) ["Federal officers went to the hospital to cover everything up, including sending ..."](/statements/statement-2747035a17bf.md)
+  - About: [FBI](/entities/org-fbi.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:41:59](/episodes/ep-9k2xrAC0H88.md#t-00-41-50) [○] (Claim) ["The flight from Las Vegas changed call signs from SAM to REACH after the VIP pas..."](/statements/statement-666fa1c5306d.md)
+  - About: [Las Vegas](/entities/gpe-las-vegas.md)
+
+- [00:43:40](/episodes/ep-9k2xrAC0H88.md#t-00-43-23) [○] (Claim) ["Operation Valhalla Strike began on August 24th and ended on August 27th"](/statements/statement-10d377cb875b.md)
+  - About: [Operation Valhalla](/entities/event-operation-valhalla.md)
+
+- [00:45:12](/episodes/ep-9k2xrAC0H88.md#t-00-44-50) [○] (Claim) ["Fort Huachuca is an intelligence base where they train people in the intelligenc..."](/statements/statement-6a1675de503a.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+- [00:46:57](/episodes/ep-9k2xrAC0H88.md#t-00-46-51) [○] (Claim) ["Brian Harpole landed in Los Angeles at 6:45 PM on September 7th on a direct flig..."](/statements/statement-4719170d8578.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Los Angeles](/entities/gpe-los-angeles.md), [Dallas](/entities/gpe-dallas.md)
+
+- [00:48:24](/episodes/ep-9k2xrAC0H88.md#t-00-48-20) [○] (Claim) ["The Egyptian planes are linked to Israel"](/statements/statement-c7387ec82294.md)
+  - About: [Israel](/entities/gpe-israel.md), [Egypt](/entities/gpe-egypt.md)
+
+- [00:53:15](/episodes/ep-9k2xrAC0H88.md#t-00-52-39) [○] (Accusation) ["Elon Musk handed over X to the military and military bots operate on the platfor..."](/statements/statement-75ff8a7c45e0.md)
+  - About: [Elon Musk](/entities/person-elon-musk.md), [Twitter](/entities/org-twitter.md)
+
+- [00:57:59](/episodes/ep-9k2xrAC0H88.md#t-00-57-41) [○] (Claim) ["Brigitte Macron has not released any photos of herself for 30 plus years"](/statements/statement-29eb1812e75c.md)
+  - About: [Brigitte Macron](/entities/person-brigitte-macron.md)
+
+- [00:58:10](/episodes/ep-9k2xrAC0H88.md#t-00-57-41) [○] (Opinion) ["The Charlie Kirk assassination is the biggest political assassination since JFK ..."](/statements/statement-6aa9a12703f9.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [John F. Kennedy](/entities/person-john-f-kennedy.md)
+
+- [00:58:28](/episodes/ep-9k2xrAC0H88.md#t-00-58-24) [○] (Claim) ["Kash Patel has not responded to evidence about the French Legion being on the gr..."](/statements/statement-cfbba7eb09f2.md)
+  - About: [Kash Patel](/entities/person-kash-patel.md), [FBI](/entities/org-fbi.md)
+
+- [00:59:46](/episodes/ep-9k2xrAC0H88.md#t-00-59-08) [○] (Claim) ["Erika Kirk claimed that Charlie did not text anybody, which Candace says is not ..."](/statements/statement-afb16b102d77.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [01:00:00](/episodes/ep-9k2xrAC0H88.md#t-00-59-52) [○] (Opinion) ["Blake Neff's account of Charlie Kirk stating 'I have to call Erika' is suspiciou..."](/statements/statement-64dacbaa174f.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [01:01:39](/episodes/ep-9k2xrAC0H88.md#t-01-01-17) [○] (Claim) ["I found JD Vance with Donald Trump at a restaurant in DC at around six o'clock o..."](/statements/statement-210e1a3d7222.md)
+  - About: [JD Vance](/entities/person-jd-vance.md), [Donald Trump](/entities/person-donald-trump.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
+
+- [01:02:06](/episodes/ep-9k2xrAC0H88.md#t-01-01-55) [○] (Claim) ["One of the congressmen that the Fort Huachuca eyewitness believes he saw coming ..."](/statements/statement-ff98d3afb248.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Las Vegas](/entities/gpe-las-vegas.md), [Harry Myers](/entities/person-harry-myers.md)
 
 </details>
 

@@ -62,3 +62,22 @@ _Type: People_
 _No relationships extracted yet._
 
 </details>
+
+<details open>
+<summary><strong class="section-title">Statements by Baron Coleman (3)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3)</summary>
+
+- [00:37:36](/episodes/ep-9k2xrAC0H88.md#t-00-37-27) [○] (Claim) ["SAM000 call signs are highly sensitive and used when the White House or US Air F..."](/statements/statement-e907c35b1863.md)
+  - About: [White House](/entities/org-white-house.md), [United States Air Force](/entities/org-united-states-air-force.md)
+
+- [00:38:01](/episodes/ep-9k2xrAC0H88.md#t-00-37-27) [○] (Claim) ["A Special Air Mission flight with call sign SAM000 flew from Joint Base Andrews ..."](/statements/statement-88ba3d5e54ae.md)
+  - About: [Colorado Springs](/entities/gpe-colorado-springs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:38:18](/episodes/ep-9k2xrAC0H88.md#t-00-38-03) [○] (Claim) ["The SAM000 flight went from Colorado Springs to Las Vegas, arriving at 4:48 PM l..."](/statements/statement-cf82c67961c5.md)
+  - About: [Colorado Springs](/entities/gpe-colorado-springs.md), [Las Vegas](/entities/gpe-las-vegas.md)
+
+</details>
+
+</details>

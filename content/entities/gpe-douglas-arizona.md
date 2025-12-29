@@ -1,6 +1,6 @@
 ---
 title: "Douglas, Arizona"
-description: "Douglas, Arizona (Places) - 2 mentions"
+description: "Douglas, Arizona (Places) - 4 mentions"
 id: "gpe-douglas-arizona"
 type: "GPE"
 aliases:
@@ -16,6 +16,17 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
+
+**[00:31:03](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-douglas-arizona-t-00-30-27)**
+> "60 to 80% of the cocaine was coming through the Douglas, Arizona area"
+
+**[00:30:50](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-douglas-arizona-t-00-30-27)**
+> "...ocaine was coming through the Douglas, Arizona area."
+
+</details>
 
 <details>
 <summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (2 mentions)</summary>

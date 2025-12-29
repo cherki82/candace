@@ -11,7 +11,7 @@ date: "2025-08-27"
 
 > Operation Valhalla joint military-civilian exercise ends at Camp Ripley, Minnesota.
 
-## Mentioned In (17 times)
+## Mentioned In (18 times)
 
 ### 1. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
 
@@ -148,3 +148,11 @@ date: "2025-08-27"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1236);return false;">▶️ Play</a>
 
 > tive, pointed out on X. "Oh, there is, however, a Camp Ripley," they go on, "but this inaccuracy speaks volumes about the credibility of Candace Owens' alleged s
+
+### 18. BREAKING NEWS! We Received Photos Of Charlie's Car After The...
+
+**Episode:** [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md)
+**Timestamp:** [00:44:37](/episodes/ep-9k2xrAC0H88.md#t-00-44-05) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2677);return false;">▶️ Play</a>
+
+> 891st Missile Security Forces Squadron, a combined military and civilian security force that had just come off of Operation Valhalla, a training exercise

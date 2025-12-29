@@ -60,3 +60,19 @@ _Type: Places_
 _No relationships extracted yet._
 
 </details>
+
+<details open>
+<summary><strong class="section-title">Statements about Colorado Springs (2)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2)</summary>
+
+- [00:38:01](/episodes/ep-9k2xrAC0H88.md#t-00-37-27) (Claim) **Baron Coleman** (via quoted speech): ["A Special Air Mission flight with call sign SAM000 flew from Joint Bas..."](/statements/statement-88ba3d5e54ae.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:38:18](/episodes/ep-9k2xrAC0H88.md#t-00-38-03) (Claim) **Baron Coleman** (via quoted speech): ["The SAM000 flight went from Colorado Springs to Las Vegas, arriving at..."](/statements/statement-cf82c67961c5.md)
+  - Also about: [Las Vegas](/entities/gpe-las-vegas.md)
+
+</details>
+
+</details>

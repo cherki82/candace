@@ -127,3 +127,16 @@ _Type: People_
 </details>
 
 </details>
+
+<details open>
+<summary><strong class="section-title">Statements about JD Vance (1)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
+
+- [01:01:39](/episodes/ep-9k2xrAC0H88.md#t-01-01-17) (Claim) **Candace Owens**: ["I found JD Vance with Donald Trump at a restaurant in DC at around six..."](/statements/statement-210e1a3d7222.md)
+  - Also about: [Donald Trump](/entities/person-donald-trump.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
+
+</details>
+
+</details>

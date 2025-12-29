@@ -1,0 +1,23 @@
+---
+title: "Dan Bongino formerly worked for FBI"
+description: "Evidence for the relationship: Dan Bongino formerly worked for FBI"
+relationship_id: "rel-78671ff16eec"
+subject: "person-dan-bongino"
+predicate: "formerly worked for"
+object: "org-fbi"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Dan Bongino](/entities/person-dan-bongino) formerly worked for [FBI](/entities/org-fbi)
+
+### Evidence (1 mentions)
+
+**[BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88)**
+
+- [00:25:01](/episodes/ep-9k2xrAC0H88#t-00-25-01): _Dan Bongino...is going to leave the FBI as assistant director of the FBI. He will be stepping down._
+
+### Related
+
+- [Dan Bongino](/entities/person-dan-bongino)
+- [FBI](/entities/org-fbi)

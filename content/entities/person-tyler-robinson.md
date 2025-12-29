@@ -1289,16 +1289,6 @@ _Type: People_
 </details>
 
 <details>
-<summary>Dating (1)</summary>
-
-- **[Lance Twiggs](/entities/person-lance-twiggs.md)**
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#t-00-00-01): "the 22-year-old alleged killer of Charlie Kirk, Tyler Robinson, and his 22-year-old boyfriend, Lance Twiggs."
-  - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:00:45](/episodes/ep-q7f8r-THr84.md#t-00-00-01): "the indictment against Tyler Robinson was just released, and I have a lot of questions that I think need to be answered regarding his trans boyfriend, Lance Twiggs."
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#t-00-00-01): "the alleged conversation held between the 22-year-old alleged killer of Charlie Kirk, Tyler Robinson, and his 22-year-old boyfriend, Lance Twiggs."
-
-</details>
-
-<details>
 <summary>Referenced By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this

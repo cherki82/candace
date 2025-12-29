@@ -97,13 +97,21 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Washington, D.C. (1)</strong></summary>
+<summary><strong class="section-title">Statements about Washington, D.C. (2)</strong></summary>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
 
 - [00:36:17](/episodes/ep-w1oqQbR_bYs.md#t-00-35-37) (Claim) **Candace Owens**: ["Mark Amodei missed two roll calls in the morning on September 9th and ..."](/statements/statement-1708c00a71da.md)
   - Also about: [Mark Amodei](/entities/person-mark-amodei.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
+
+- [01:01:39](/episodes/ep-9k2xrAC0H88.md#t-01-01-17) (Claim) **Candace Owens**: ["I found JD Vance with Donald Trump at a restaurant in DC at around six..."](/statements/statement-210e1a3d7222.md)
+  - Also about: [JD Vance](/entities/person-jd-vance.md), [Donald Trump](/entities/person-donald-trump.md)
 
 </details>
 

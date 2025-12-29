@@ -1,11 +1,11 @@
 ---
 title: "Statements Index"
-description: "Browse 1439 statements extracted from podcast episodes"
+description: "Browse 1479 statements extracted from podcast episodes"
 ---
 
 # Statements
 
-_1439 statements extracted from podcast episodes._
+_1479 statements extracted from podcast episodes._
 
 > **Note:** Statements are extracted from podcast transcripts using AI analysis.
 > Speaker attribution and content may contain errors. Always verify against primary sources.
@@ -34,7 +34,7 @@ _1439 statements extracted from podcast episodes._
 
 <div class="tab-controls">
   <label for="tab-bytype" class="tab-btn">By Type</label>
-  <label for="tab-byepisode" class="tab-btn">By Episode (40)</label>
+  <label for="tab-byepisode" class="tab-btn">By Episode (41)</label>
 </div>
 
 <style>
@@ -51,7 +51,7 @@ _1439 statements extracted from podcast episodes._
 <div class="tab-content tab-content-bytype">
 
 <details open>
-<summary><strong class="section-title">Accusations (273)</strong></summary>
+<summary><strong class="section-title">Accusations (277)</strong></summary>
 
 <details>
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (6)</summary>
@@ -1860,10 +1860,39 @@ _1439 statements extracted from podcast episodes._
 </div>
 </details>
 
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (4)</summary>
+
+<div class="filter-item">
+
+- [00:18:25](/episodes/ep-9k2xrAC0H88.md#t-00-18-06) [○] **Anonymous Source #2 (Ep 9k2xrAC0H88)**: ["Police officers involved in the Charlie Kirk investigation felt they were being ..."](/statements/statement-432740bb95f5.md)
+  - About: [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:01](/episodes/ep-9k2xrAC0H88.md#t-00-31-43) [○] **Candace Owens**: ["Federal agents are implicated in the Charlie Kirk assassination in many ways reg..."](/statements/statement-e9a16cc0d3aa.md)
+  - About: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:24](/episodes/ep-9k2xrAC0H88.md#t-00-31-43) [○] **Candace Owens**: ["Federal officers went to the hospital to cover everything up, including sending ..."](/statements/statement-2747035a17bf.md)
+  - About: [FBI](/entities/org-fbi.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+</div>
+<div class="filter-item">
+
+- [00:53:15](/episodes/ep-9k2xrAC0H88.md#t-00-52-39) [○] **Candace Owens**: ["Elon Musk handed over X to the military and military bots operate on the platfor..."](/statements/statement-75ff8a7c45e0.md)
+  - About: [Elon Musk](/entities/person-elon-musk.md), [Twitter](/entities/org-twitter.md)
+
+</div>
+</details>
+
 </details>
 
 <details open>
-<summary><strong class="section-title">Factual Claims (968)</strong></summary>
+<summary><strong class="section-title">Factual Claims (1001)</strong></summary>
 
 <details>
 <summary>To My Friend, Charlie Kirk. (10)</summary>
@@ -7854,6 +7883,205 @@ _1439 statements extracted from podcast episodes._
 </div>
 </details>
 
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (33)</summary>
+
+<div class="filter-item">
+
+- [00:00:04](/episodes/ep-9k2xrAC0H88.md#t-00-00-00) [○] **Candace Owens**: ["The steel neck quotation about Charlie Kirk did not come from surgeon Dr. Lee Tr..."](/statements/statement-198ca20243d8.md)
+  - About: [Dr. Lee Trotter](/entities/person-dr-lee-trotter.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:35](/episodes/ep-9k2xrAC0H88.md#t-00-06-10) [○] **Anonymous Source #1 (Ep 9k2xrAC0H88)**: ["Dr. Lee Trotter communicated that a frangible bullet was likely used in the Char..."](/statements/statement-25910712e44c.md)
+  - About: [Dr. Lee Trotter](/entities/person-dr-lee-trotter.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:11](/episodes/ep-9k2xrAC0H88.md#t-00-08-48) [○] **Anonymous Source #3 (Ep 9k2xrAC0H88)**: ["Federal agents were blocking the surgeon from returning to the operating room af..."](/statements/statement-c2de12472215.md)
+  - About: [FBI](/entities/org-fbi.md), [Dr. Lee Trotter](/entities/person-dr-lee-trotter.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:50](/episodes/ep-9k2xrAC0H88.md#t-00-09-19) [○] **Anonymous Source #3 (Ep 9k2xrAC0H88)**: ["A phone call was placed to DC at the hospital after the surgeon was blocked by f..."](/statements/statement-b7a912d83954.md)
+  - About: [FBI](/entities/org-fbi.md), [Dr. Lee Trotter](/entities/person-dr-lee-trotter.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:06](/episodes/ep-9k2xrAC0H88.md#t-00-11-48) [○] **Anonymous Source #2 (Ep 9k2xrAC0H88)**: ["The area where the gun was found had already been searched by veteran police off..."](/statements/statement-d73a94a9bf4b.md)
+  - About: [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:58](/episodes/ep-9k2xrAC0H88.md#t-00-12-27) [○] **Candace Owens**: ["Over 19 billion dollars has been spent on research and development of technology..."](/statements/statement-e02ea87444f5.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:48](/episodes/ep-9k2xrAC0H88.md#t-00-13-09) [○] **Candace Owens**: ["Bomb dogs can smell a fired weapon up to a week after it was triggered"](/statements/statement-e69306b19084.md)
+
+</div>
+<div class="filter-item">
+
+- [00:15:03](/episodes/ep-9k2xrAC0H88.md#t-00-14-36) [○] **Anonymous Source #2 (Ep 9k2xrAC0H88)**: ["Federal officers were going around asking police officers questions like how lon..."](/statements/statement-2114254e6814.md)
+  - About: [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:15:04](/episodes/ep-9k2xrAC0H88.md#t-00-14-36) [○] **Candace Owens**: ["The bomb dogs that searched the area where the gun was found belonged to the Ple..."](/statements/statement-bd7f0507ca04.md)
+
+</div>
+<div class="filter-item">
+
+- [00:15:08](/episodes/ep-9k2xrAC0H88.md#t-00-14-36) [○] **Anonymous Source #2 (Ep 9k2xrAC0H88)**: ["Federal officers directed three police officers with less than 18 months total e..."](/statements/statement-03f282530be9.md)
+  - About: [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:03](/episodes/ep-9k2xrAC0H88.md#t-00-16-44) [○] **Candace Owens**: ["Freya, a canine dog, traced the scent from where the person jumped off the Losee..."](/statements/statement-2798a04bce07.md)
+
+</div>
+<div class="filter-item">
+
+- [00:20:19](/episodes/ep-9k2xrAC0H88.md#t-00-20-09) [○] **Anonymous Source #2 (Ep 9k2xrAC0H88)**: ["A white Toyota RAV4 was pulled over shortly after the shot was fired and the dri..."](/statements/statement-a8014ace8744.md)
+  - About: [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:02](/episodes/ep-9k2xrAC0H88.md#t-00-24-22) [○] **Candace Owens**: ["Dan Bongino is stepping down as FBI Assistant Director to return to his show"](/statements/statement-af3f171dece5.md)
+  - About: [Dan Bongino](/entities/person-dan-bongino.md), [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:27:18](/episodes/ep-9k2xrAC0H88.md#t-00-27-06) [○] **Frank Turek**: ["They roped off the vehicle that we took out of there as a crime scene"](/statements/statement-ef7e19af81c0.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:27:53](/episodes/ep-9k2xrAC0H88.md#t-00-27-18) [○] **Frank Turek**: ["Charlie Kirk's necklace with a cross and medallions was found draped over Frank ..."](/statements/statement-7b4c0290560c.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Frank Turek](/entities/person-frank-turek.md)
+
+</div>
+<div class="filter-item">
+
+- [00:28:47](/episodes/ep-9k2xrAC0H88.md#t-00-28-16) [○] **Candace Owens**: ["The car Charlie Kirk was transported in was taken to a towing facility and then ..."](/statements/statement-7fa57f7269ce.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:29:30](/episodes/ep-9k2xrAC0H88.md#t-00-28-53) [○] **Candace Owens**: ["The rental car company owner in California said to get rid of the vehicle and ne..."](/statements/statement-97af4da56e60.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:30:03](/episodes/ep-9k2xrAC0H88.md#t-00-29-37) [○] **Candace Owens**: ["Insurance was not required to come inspect the vehicle before it was cleaned and..."](/statements/statement-1ec02cce8b89.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:31:02](/episodes/ep-9k2xrAC0H88.md#t-00-30-59) [○] **Candace Owens**: ["We have six photos of the inside of the vehicle Charlie Kirk was transported in"](/statements/statement-bb13e67e2dd2.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:37:36](/episodes/ep-9k2xrAC0H88.md#t-00-37-27) [○] **Baron Coleman**: ["SAM000 call signs are highly sensitive and used when the White House or US Air F..."](/statements/statement-e907c35b1863.md)
+  - About: [White House](/entities/org-white-house.md), [United States Air Force](/entities/org-united-states-air-force.md)
+
+</div>
+<div class="filter-item">
+
+- [00:38:01](/episodes/ep-9k2xrAC0H88.md#t-00-37-27) [○] **Baron Coleman**: ["A Special Air Mission flight with call sign SAM000 flew from Joint Base Andrews ..."](/statements/statement-88ba3d5e54ae.md)
+  - About: [Colorado Springs](/entities/gpe-colorado-springs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:38:18](/episodes/ep-9k2xrAC0H88.md#t-00-38-03) [○] **Baron Coleman**: ["The SAM000 flight went from Colorado Springs to Las Vegas, arriving at 4:48 PM l..."](/statements/statement-cf82c67961c5.md)
+  - About: [Colorado Springs](/entities/gpe-colorado-springs.md), [Las Vegas](/entities/gpe-las-vegas.md)
+
+</div>
+<div class="filter-item">
+
+- [00:41:59](/episodes/ep-9k2xrAC0H88.md#t-00-41-50) [○] **Candace Owens**: ["The flight from Las Vegas changed call signs from SAM to REACH after the VIP pas..."](/statements/statement-666fa1c5306d.md)
+  - About: [Las Vegas](/entities/gpe-las-vegas.md)
+
+</div>
+<div class="filter-item">
+
+- [00:42:07](/episodes/ep-9k2xrAC0H88.md#t-00-41-50) [○] **Brian Harpole**: ["Brian Harpole started security preparations for the UVU event on August 24th"](/statements/statement-0a8f4d44cf27.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</div>
+<div class="filter-item">
+
+- [00:43:40](/episodes/ep-9k2xrAC0H88.md#t-00-43-23) [○] **Candace Owens**: ["Operation Valhalla Strike began on August 24th and ended on August 27th"](/statements/statement-10d377cb875b.md)
+  - About: [Operation Valhalla](/entities/event-operation-valhalla.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:12](/episodes/ep-9k2xrAC0H88.md#t-00-44-50) [○] **Candace Owens**: ["Fort Huachuca is an intelligence base where they train people in the intelligenc..."](/statements/statement-6a1675de503a.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:46:57](/episodes/ep-9k2xrAC0H88.md#t-00-46-51) [○] **Candace Owens**: ["Brian Harpole landed in Los Angeles at 6:45 PM on September 7th on a direct flig..."](/statements/statement-4719170d8578.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Los Angeles](/entities/gpe-los-angeles.md), [Dallas](/entities/gpe-dallas.md)
+
+</div>
+<div class="filter-item">
+
+- [00:48:24](/episodes/ep-9k2xrAC0H88.md#t-00-48-20) [○] **Candace Owens**: ["The Egyptian planes are linked to Israel"](/statements/statement-c7387ec82294.md)
+  - About: [Israel](/entities/gpe-israel.md), [Egypt](/entities/gpe-egypt.md)
+
+</div>
+<div class="filter-item">
+
+- [00:57:59](/episodes/ep-9k2xrAC0H88.md#t-00-57-41) [○] **Candace Owens**: ["Brigitte Macron has not released any photos of herself for 30 plus years"](/statements/statement-29eb1812e75c.md)
+  - About: [Brigitte Macron](/entities/person-brigitte-macron.md)
+
+</div>
+<div class="filter-item">
+
+- [00:58:28](/episodes/ep-9k2xrAC0H88.md#t-00-58-24) [○] **Candace Owens**: ["Kash Patel has not responded to evidence about the French Legion being on the gr..."](/statements/statement-cfbba7eb09f2.md)
+  - About: [Kash Patel](/entities/person-kash-patel.md), [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:59:46](/episodes/ep-9k2xrAC0H88.md#t-00-59-08) [○] **Candace Owens**: ["Erika Kirk claimed that Charlie did not text anybody, which Candace says is not ..."](/statements/statement-afb16b102d77.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [01:01:39](/episodes/ep-9k2xrAC0H88.md#t-01-01-17) [○] **Candace Owens**: ["I found JD Vance with Donald Trump at a restaurant in DC at around six o'clock o..."](/statements/statement-210e1a3d7222.md)
+  - About: [JD Vance](/entities/person-jd-vance.md), [Donald Trump](/entities/person-donald-trump.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
+
+</div>
+<div class="filter-item">
+
+- [01:02:06](/episodes/ep-9k2xrAC0H88.md#t-01-01-55) [○] **Candace Owens**: ["One of the congressmen that the Fort Huachuca eyewitness believes he saw coming ..."](/statements/statement-ff98d3afb248.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Las Vegas](/entities/gpe-las-vegas.md), [Harry Myers](/entities/person-harry-myers.md)
+
+</div>
+</details>
+
 </details>
 
 <details open>
@@ -8294,7 +8522,7 @@ _1439 statements extracted from podcast episodes._
 </details>
 
 <details open>
-<summary><strong class="section-title">Opinions (151)</strong></summary>
+<summary><strong class="section-title">Opinions (154)</strong></summary>
 
 <details>
 <summary>To My Friend, Charlie Kirk. (2)</summary>
@@ -9349,6 +9577,29 @@ _1439 statements extracted from podcast episodes._
 
 - [00:25:05](/episodes/ep-w1oqQbR_bYs.md#t-00-25-01) [○] **Tucker Carlson**: ["Charlie Kirk died for his belief in free debate and giving people platforms to s..."](/statements/statement-dccdb57ef266.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3)</summary>
+
+<div class="filter-item">
+
+- [00:25:10](/episodes/ep-9k2xrAC0H88.md#t-00-25-03) [○] **Candace Owens**: ["Dan Bongino has been effectively silent on the Charlie Kirk situation and has no..."](/statements/statement-ea9956416bb5.md)
+  - About: [Dan Bongino](/entities/person-dan-bongino.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:58:10](/episodes/ep-9k2xrAC0H88.md#t-00-57-41) [○] **Candace Owens**: ["The Charlie Kirk assassination is the biggest political assassination since JFK ..."](/statements/statement-6aa9a12703f9.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [John F. Kennedy](/entities/person-john-f-kennedy.md)
+
+</div>
+<div class="filter-item">
+
+- [01:00:00](/episodes/ep-9k2xrAC0H88.md#t-00-59-52) [○] **Candace Owens**: ["Blake Neff's account of Charlie Kirk stating 'I have to call Erika' is suspiciou..."](/statements/statement-64dacbaa174f.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </div>
 </details>
@@ -18159,8 +18410,249 @@ _1439 statements extracted from podcast episodes._
 </div>
 </details>
 
+<details>
+<summary><strong>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281</strong> (40)</summary>
+
+<div class="filter-item">
+
+- [00:00:04](/episodes/ep-9k2xrAC0H88.md#t-00-00-00) [○] (Claim) **Candace Owens**: ["The steel neck quotation about Charlie Kirk did not come from surgeon Dr. Lee Tr..."](/statements/statement-198ca20243d8.md)
+  - About: [Dr. Lee Trotter](/entities/person-dr-lee-trotter.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:35](/episodes/ep-9k2xrAC0H88.md#t-00-06-10) [○] (Claim) **Anonymous Source #1 (Ep 9k2xrAC0H88)**: ["Dr. Lee Trotter communicated that a frangible bullet was likely used in the Char..."](/statements/statement-25910712e44c.md)
+  - About: [Dr. Lee Trotter](/entities/person-dr-lee-trotter.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:11](/episodes/ep-9k2xrAC0H88.md#t-00-08-48) [○] (Claim) **Anonymous Source #3 (Ep 9k2xrAC0H88)**: ["Federal agents were blocking the surgeon from returning to the operating room af..."](/statements/statement-c2de12472215.md)
+  - About: [FBI](/entities/org-fbi.md), [Dr. Lee Trotter](/entities/person-dr-lee-trotter.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:50](/episodes/ep-9k2xrAC0H88.md#t-00-09-19) [○] (Claim) **Anonymous Source #3 (Ep 9k2xrAC0H88)**: ["A phone call was placed to DC at the hospital after the surgeon was blocked by f..."](/statements/statement-b7a912d83954.md)
+  - About: [FBI](/entities/org-fbi.md), [Dr. Lee Trotter](/entities/person-dr-lee-trotter.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:06](/episodes/ep-9k2xrAC0H88.md#t-00-11-48) [○] (Claim) **Anonymous Source #2 (Ep 9k2xrAC0H88)**: ["The area where the gun was found had already been searched by veteran police off..."](/statements/statement-d73a94a9bf4b.md)
+  - About: [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:58](/episodes/ep-9k2xrAC0H88.md#t-00-12-27) [○] (Claim) **Candace Owens**: ["Over 19 billion dollars has been spent on research and development of technology..."](/statements/statement-e02ea87444f5.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:48](/episodes/ep-9k2xrAC0H88.md#t-00-13-09) [○] (Claim) **Candace Owens**: ["Bomb dogs can smell a fired weapon up to a week after it was triggered"](/statements/statement-e69306b19084.md)
+
+</div>
+<div class="filter-item">
+
+- [00:15:03](/episodes/ep-9k2xrAC0H88.md#t-00-14-36) [○] (Claim) **Anonymous Source #2 (Ep 9k2xrAC0H88)**: ["Federal officers were going around asking police officers questions like how lon..."](/statements/statement-2114254e6814.md)
+  - About: [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:15:04](/episodes/ep-9k2xrAC0H88.md#t-00-14-36) [○] (Claim) **Candace Owens**: ["The bomb dogs that searched the area where the gun was found belonged to the Ple..."](/statements/statement-bd7f0507ca04.md)
+
+</div>
+<div class="filter-item">
+
+- [00:15:08](/episodes/ep-9k2xrAC0H88.md#t-00-14-36) [○] (Claim) **Anonymous Source #2 (Ep 9k2xrAC0H88)**: ["Federal officers directed three police officers with less than 18 months total e..."](/statements/statement-03f282530be9.md)
+  - About: [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:03](/episodes/ep-9k2xrAC0H88.md#t-00-16-44) [○] (Claim) **Candace Owens**: ["Freya, a canine dog, traced the scent from where the person jumped off the Losee..."](/statements/statement-2798a04bce07.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:25](/episodes/ep-9k2xrAC0H88.md#t-00-18-06) [○] (Accusation) **Anonymous Source #2 (Ep 9k2xrAC0H88)**: ["Police officers involved in the Charlie Kirk investigation felt they were being ..."](/statements/statement-432740bb95f5.md)
+  - About: [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:20:19](/episodes/ep-9k2xrAC0H88.md#t-00-20-09) [○] (Claim) **Anonymous Source #2 (Ep 9k2xrAC0H88)**: ["A white Toyota RAV4 was pulled over shortly after the shot was fired and the dri..."](/statements/statement-a8014ace8744.md)
+  - About: [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:02](/episodes/ep-9k2xrAC0H88.md#t-00-24-22) [○] (Claim) **Candace Owens**: ["Dan Bongino is stepping down as FBI Assistant Director to return to his show"](/statements/statement-af3f171dece5.md)
+  - About: [Dan Bongino](/entities/person-dan-bongino.md), [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:10](/episodes/ep-9k2xrAC0H88.md#t-00-25-03) [○] (Opinion) **Candace Owens**: ["Dan Bongino has been effectively silent on the Charlie Kirk situation and has no..."](/statements/statement-ea9956416bb5.md)
+  - About: [Dan Bongino](/entities/person-dan-bongino.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:27:18](/episodes/ep-9k2xrAC0H88.md#t-00-27-06) [○] (Claim) **Frank Turek**: ["They roped off the vehicle that we took out of there as a crime scene"](/statements/statement-ef7e19af81c0.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:27:53](/episodes/ep-9k2xrAC0H88.md#t-00-27-18) [○] (Claim) **Frank Turek**: ["Charlie Kirk's necklace with a cross and medallions was found draped over Frank ..."](/statements/statement-7b4c0290560c.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Frank Turek](/entities/person-frank-turek.md)
+
+</div>
+<div class="filter-item">
+
+- [00:28:47](/episodes/ep-9k2xrAC0H88.md#t-00-28-16) [○] (Claim) **Candace Owens**: ["The car Charlie Kirk was transported in was taken to a towing facility and then ..."](/statements/statement-7fa57f7269ce.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:29:30](/episodes/ep-9k2xrAC0H88.md#t-00-28-53) [○] (Claim) **Candace Owens**: ["The rental car company owner in California said to get rid of the vehicle and ne..."](/statements/statement-97af4da56e60.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:30:03](/episodes/ep-9k2xrAC0H88.md#t-00-29-37) [○] (Claim) **Candace Owens**: ["Insurance was not required to come inspect the vehicle before it was cleaned and..."](/statements/statement-1ec02cce8b89.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:31:02](/episodes/ep-9k2xrAC0H88.md#t-00-30-59) [○] (Claim) **Candace Owens**: ["We have six photos of the inside of the vehicle Charlie Kirk was transported in"](/statements/statement-bb13e67e2dd2.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:01](/episodes/ep-9k2xrAC0H88.md#t-00-31-43) [○] (Accusation) **Candace Owens**: ["Federal agents are implicated in the Charlie Kirk assassination in many ways reg..."](/statements/statement-e9a16cc0d3aa.md)
+  - About: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:24](/episodes/ep-9k2xrAC0H88.md#t-00-31-43) [○] (Accusation) **Candace Owens**: ["Federal officers went to the hospital to cover everything up, including sending ..."](/statements/statement-2747035a17bf.md)
+  - About: [FBI](/entities/org-fbi.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+</div>
+<div class="filter-item">
+
+- [00:37:36](/episodes/ep-9k2xrAC0H88.md#t-00-37-27) [○] (Claim) **Baron Coleman**: ["SAM000 call signs are highly sensitive and used when the White House or US Air F..."](/statements/statement-e907c35b1863.md)
+  - About: [White House](/entities/org-white-house.md), [United States Air Force](/entities/org-united-states-air-force.md)
+
+</div>
+<div class="filter-item">
+
+- [00:38:01](/episodes/ep-9k2xrAC0H88.md#t-00-37-27) [○] (Claim) **Baron Coleman**: ["A Special Air Mission flight with call sign SAM000 flew from Joint Base Andrews ..."](/statements/statement-88ba3d5e54ae.md)
+  - About: [Colorado Springs](/entities/gpe-colorado-springs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:38:18](/episodes/ep-9k2xrAC0H88.md#t-00-38-03) [○] (Claim) **Baron Coleman**: ["The SAM000 flight went from Colorado Springs to Las Vegas, arriving at 4:48 PM l..."](/statements/statement-cf82c67961c5.md)
+  - About: [Colorado Springs](/entities/gpe-colorado-springs.md), [Las Vegas](/entities/gpe-las-vegas.md)
+
+</div>
+<div class="filter-item">
+
+- [00:41:59](/episodes/ep-9k2xrAC0H88.md#t-00-41-50) [○] (Claim) **Candace Owens**: ["The flight from Las Vegas changed call signs from SAM to REACH after the VIP pas..."](/statements/statement-666fa1c5306d.md)
+  - About: [Las Vegas](/entities/gpe-las-vegas.md)
+
+</div>
+<div class="filter-item">
+
+- [00:42:07](/episodes/ep-9k2xrAC0H88.md#t-00-41-50) [○] (Claim) **Brian Harpole**: ["Brian Harpole started security preparations for the UVU event on August 24th"](/statements/statement-0a8f4d44cf27.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</div>
+<div class="filter-item">
+
+- [00:43:40](/episodes/ep-9k2xrAC0H88.md#t-00-43-23) [○] (Claim) **Candace Owens**: ["Operation Valhalla Strike began on August 24th and ended on August 27th"](/statements/statement-10d377cb875b.md)
+  - About: [Operation Valhalla](/entities/event-operation-valhalla.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:12](/episodes/ep-9k2xrAC0H88.md#t-00-44-50) [○] (Claim) **Candace Owens**: ["Fort Huachuca is an intelligence base where they train people in the intelligenc..."](/statements/statement-6a1675de503a.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:46:57](/episodes/ep-9k2xrAC0H88.md#t-00-46-51) [○] (Claim) **Candace Owens**: ["Brian Harpole landed in Los Angeles at 6:45 PM on September 7th on a direct flig..."](/statements/statement-4719170d8578.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Los Angeles](/entities/gpe-los-angeles.md), [Dallas](/entities/gpe-dallas.md)
+
+</div>
+<div class="filter-item">
+
+- [00:48:24](/episodes/ep-9k2xrAC0H88.md#t-00-48-20) [○] (Claim) **Candace Owens**: ["The Egyptian planes are linked to Israel"](/statements/statement-c7387ec82294.md)
+  - About: [Israel](/entities/gpe-israel.md), [Egypt](/entities/gpe-egypt.md)
+
+</div>
+<div class="filter-item">
+
+- [00:53:15](/episodes/ep-9k2xrAC0H88.md#t-00-52-39) [○] (Accusation) **Candace Owens**: ["Elon Musk handed over X to the military and military bots operate on the platfor..."](/statements/statement-75ff8a7c45e0.md)
+  - About: [Elon Musk](/entities/person-elon-musk.md), [Twitter](/entities/org-twitter.md)
+
+</div>
+<div class="filter-item">
+
+- [00:57:59](/episodes/ep-9k2xrAC0H88.md#t-00-57-41) [○] (Claim) **Candace Owens**: ["Brigitte Macron has not released any photos of herself for 30 plus years"](/statements/statement-29eb1812e75c.md)
+  - About: [Brigitte Macron](/entities/person-brigitte-macron.md)
+
+</div>
+<div class="filter-item">
+
+- [00:58:10](/episodes/ep-9k2xrAC0H88.md#t-00-57-41) [○] (Opinion) **Candace Owens**: ["The Charlie Kirk assassination is the biggest political assassination since JFK ..."](/statements/statement-6aa9a12703f9.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [John F. Kennedy](/entities/person-john-f-kennedy.md)
+
+</div>
+<div class="filter-item">
+
+- [00:58:28](/episodes/ep-9k2xrAC0H88.md#t-00-58-24) [○] (Claim) **Candace Owens**: ["Kash Patel has not responded to evidence about the French Legion being on the gr..."](/statements/statement-cfbba7eb09f2.md)
+  - About: [Kash Patel](/entities/person-kash-patel.md), [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:59:46](/episodes/ep-9k2xrAC0H88.md#t-00-59-08) [○] (Claim) **Candace Owens**: ["Erika Kirk claimed that Charlie did not text anybody, which Candace says is not ..."](/statements/statement-afb16b102d77.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [01:00:00](/episodes/ep-9k2xrAC0H88.md#t-00-59-52) [○] (Opinion) **Candace Owens**: ["Blake Neff's account of Charlie Kirk stating 'I have to call Erika' is suspiciou..."](/statements/statement-64dacbaa174f.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [01:01:39](/episodes/ep-9k2xrAC0H88.md#t-01-01-17) [○] (Claim) **Candace Owens**: ["I found JD Vance with Donald Trump at a restaurant in DC at around six o'clock o..."](/statements/statement-210e1a3d7222.md)
+  - About: [JD Vance](/entities/person-jd-vance.md), [Donald Trump](/entities/person-donald-trump.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
+
+</div>
+<div class="filter-item">
+
+- [01:02:06](/episodes/ep-9k2xrAC0H88.md#t-01-01-55) [○] (Claim) **Candace Owens**: ["One of the congressmen that the Fort Huachuca eyewitness believes he saw coming ..."](/statements/statement-ff98d3afb248.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Las Vegas](/entities/gpe-las-vegas.md), [Harry Myers](/entities/person-harry-myers.md)
+
+</div>
+</details>
+
 </div>
 
 ---
 
-*Generated: 2025-12-29 15:38:35*
+*Generated: 2025-12-29 15:58:22*

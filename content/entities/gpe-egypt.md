@@ -684,7 +684,15 @@ _Type: Places_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Egypt (2)</strong></summary>
+<summary><strong class="section-title">Statements about Egypt (3)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
+
+- [00:48:24](/episodes/ep-9k2xrAC0H88.md#t-00-48-20) (Claim) **Candace Owens**: ["The Egyptian planes are linked to Israel"](/statements/statement-c7387ec82294.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Candlewood Suites"
-description: "Candlewood Suites (Organizations) - 6 mentions"
+description: "Candlewood Suites (Organizations) - 8 mentions"
 id: "org-candlewood-suites"
 type: "ORG"
 ---
@@ -21,10 +21,16 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (3 mentions)</summary>
 
 **[00:37:38](/episodes/ep-ewBzjVe3LNQ.md#ent-org-candlewood-suites-t-00-37-20)**
 > "This is on September 8th, the evening of September 8th at the Candlewood Inn and Suites"
+
+**[00:37:30](/episodes/ep-ewBzjVe3LNQ.md#ent-org-candlewood-suites-t-00-37-20)**
+> "...ening of September 8th at the Candlewood Suites, which you have given me all of the documentation..."
+
+**[00:54:20](/episodes/ep-ewBzjVe3LNQ.md#ent-org-candlewood-suites-t-00-54-05)**
+> "Um, never got a refund on my Candlewood Suites."
 
 </details>
 
@@ -50,6 +56,20 @@ _Type: Organizations_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Based In (1)</summary>
+
+- **[Fort Huachuca](/entities/gpe-fort-huachuca.md)**
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:37:38](/episodes/ep-ewBzjVe3LNQ.md#t-00-37-20): "the evening of September 8th at the Candlewood Suites"
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Fort Huachuca](/entities/gpe-fort-huachuca.md)** location of this
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:37:38](/episodes/ep-ewBzjVe3LNQ.md#t-00-37-20)
+
+</details>
 
 </details>

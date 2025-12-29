@@ -179,14 +179,7 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Referenced By (1)</summary>
-
-- **[Tyler Robinson](/entities/person-tyler-robinson.md)** dating this
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#t-00-00-01)
-  - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:00:45](/episodes/ep-q7f8r-THr84.md#t-00-00-01)
-
-</details>
+_No relationships extracted yet._
 
 </details>
 

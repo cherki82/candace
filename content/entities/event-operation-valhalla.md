@@ -81,3 +81,15 @@ _Type: Events_
 </details>
 
 </details>
+
+<details open>
+<summary><strong class="section-title">Statements about Operation Valhalla (1)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
+
+- [00:43:40](/episodes/ep-9k2xrAC0H88.md#t-00-43-23) (Claim) **Candace Owens**: ["Operation Valhalla Strike began on August 24th and ended on August 27t..."](/statements/statement-10d377cb875b.md)
+
+</details>
+
+</details>

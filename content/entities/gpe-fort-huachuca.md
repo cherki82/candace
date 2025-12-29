@@ -1,6 +1,6 @@
 ---
 title: "Fort Huachuca"
-description: "Fort Huachuca (Places) - 56 mentions"
+description: "Fort Huachuca (Places) - 66 mentions"
 id: "gpe-fort-huachuca"
 type: "GPE"
 aliases:
@@ -68,15 +68,15 @@ _Type: Places_
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (23 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (33 mentions)</summary>
 
-**[00:00:41](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-00-00)**
+**[00:00:41](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-11-03)**
 > "I thought long and hard about whether to bring on the eyewitness from Fort Huachuca."
 
-**[00:00:34](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-00-00)**
+**[00:00:34](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-11-03)**
 > "... bring on the eyewitness from Fort Huachuca."
 
-**[00:00:34](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-00-00)**
+**[00:00:34](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-11-03)**
 > "...g on the eyewitness from Fort Huachuca."
 
 **[00:11:38](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-11-03)**
@@ -138,6 +138,36 @@ _Type: Places_
 
 **[01:06:13](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-01-06-12)**
 > "...e there's people down at Fort Huachuca and other places that have seen things."
+
+**[00:15:39](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-15-19)**
+> "...Bruce Bevins) Bevins (alleged Fort Huachuca instructor)."
+
+**[00:15:39](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-15-19)**
+> "... Bevins) Bevins (alleged Fort Huachuca instructor)."
+
+**[00:17:42](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-17-22)**
+> "...Bruce Bevins) Bevins (alleged Fort Huachuca instructor) trained some of these individuals bef..."
+
+**[00:17:42](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-17-22)**
+> "... Bevins) Bevins (alleged Fort Huachuca instructor) trained some of these individuals bef..."
+
+**[00:18:39](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-18-39)**
+> "... a part in these exercises on Fort Huachuca base where you were learning instructions about h..."
+
+**[00:18:39](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-18-39)**
+> "...rt in these exercises on Fort Huachuca base where you were learning instructions about h..."
+
+**[00:35:26](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-35-08)**
+> "... what led me to going down to Fort Huachuca was just to get the original records and find out..."
+
+**[00:35:26](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-35-08)**
+> "... led me to going down to Fort Huachuca was just to get the original records and find out..."
+
+**[01:01:19](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-01-01-19)**
+> "...mebody heavy duty that was at Fort Huachuca."
+
+**[01:01:19](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-01-01-19)**
+> "...y heavy duty that was at Fort Huachuca."
 
 </details>
 
@@ -232,7 +262,18 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Location Of (1)</summary>
+
+- **[Candlewood Suites](/entities/org-candlewood-suites.md)**
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:37:38](/episodes/ep-ewBzjVe3LNQ.md#t-00-37-20): "the evening of September 8th at the Candlewood Suites"
+
+</details>
+
+<details>
+<summary>Referenced By (4)</summary>
+
+- **[Candlewood Suites](/entities/org-candlewood-suites.md)** based in this
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:37:38](/episodes/ep-ewBzjVe3LNQ.md#t-00-37-20)
 
 - **[Arizona](/entities/gpe-arizona.md)** location of this
   - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:29](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28)
@@ -248,7 +289,7 @@ _Type: Places_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Fort Huachuca (34)</strong></summary>
+<summary><strong class="section-title">Statements about Fort Huachuca (36)</strong></summary>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (5)</summary>
@@ -323,6 +364,16 @@ _Type: Places_
 
 - [01:01:46](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-19) (Opinion) **Candace Owens**: ["Based on call sign analysis, there could be a chance that Kash Patel w..."](/statements/statement-b90aa7d83fb5.md)
   - Also about: [Kash Patel](/entities/person-kash-patel.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2)</summary>
+
+- [00:45:12](/episodes/ep-9k2xrAC0H88.md#t-00-44-50) (Claim) **Candace Owens**: ["Fort Huachuca is an intelligence base where they train people in the i..."](/statements/statement-6a1675de503a.md)
+
+- [01:02:06](/episodes/ep-9k2xrAC0H88.md#t-01-01-55) (Claim) **Candace Owens**: ["One of the congressmen that the Fort Huachuca eyewitness believes he s..."](/statements/statement-ff98d3afb248.md)
+  - Also about: [Las Vegas](/entities/gpe-las-vegas.md), [Harry Myers](/entities/person-harry-myers.md)
 
 </details>
 

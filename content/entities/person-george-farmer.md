@@ -153,14 +153,7 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Referenced By (1)</summary>
-
-- **[Candace Owens](/entities/person-candace-owens.md)** married to this
-  - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:16:47](/episodes/ep-Cq7nj9rxPdo.md#t-00-16-27)
-  - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:03:20](/episodes/ep-vwG1juDCQZQ.md#t-00-02-51)
-
-</details>
+_No relationships extracted yet._
 
 </details>
 

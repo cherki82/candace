@@ -1,6 +1,6 @@
 ---
 title: "Terrell Farnsworth"
-description: "Terrell Farnsworth (People) - 14 mentions"
+description: "Terrell Farnsworth (People) - 16 mentions"
 id: "person-terrell-farnsworth"
 type: "PERSON"
 ---
@@ -13,13 +13,19 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (4 mentions)</summary>
 
 **[00:06:23](/episodes/ep-ewBzjVe3LNQ.md#ent-person-terrell-farnsworth-t-00-06-18)**
 > "Terrell Farnsworth still major question marks he raced to remove the camera that was directly behind Charlie's head."
 
 **[00:06:03](/episodes/ep-ewBzjVe3LNQ.md#ent-person-terrell-farnsworth-t-00-05-35)**
 > "Terrell Farnsworth still major question marks he raced to remove the..."
+
+**[00:06:03](/episodes/ep-ewBzjVe3LNQ.md#ent-person-terrell-farnsworth-t-00-05-35)**
+> "Terrell Farnsworth (TPUSA staff) still major question marks he raced..."
+
+**[00:06:36](/episodes/ep-ewBzjVe3LNQ.md#ent-person-terrell-farnsworth-t-00-06-18)**
+> "... various people like Terrell (Terrell Farnsworth) are getting death threats."
 
 </details>
 

@@ -28,14 +28,7 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Referenced By (1)</summary>
-
-- **[Joyce Chernick](/entities/person-joyce-chernick.md)** married to this
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:46:49](/episodes/ep-581dILVcEE4.md#t-00-46-30)
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:46:58](/episodes/ep-581dILVcEE4.md#t-00-46-30)
-
-</details>
+_No relationships extracted yet._
 
 </details>
 

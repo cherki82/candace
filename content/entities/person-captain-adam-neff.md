@@ -1,6 +1,6 @@
 ---
 title: "Captain Adam Neff"
-description: "Captain Adam Neff (People) - 20 mentions"
+description: "Captain Adam Neff (People) - 21 mentions"
 id: "person-captain-adam-neff"
 type: "PERSON"
 aliases:
@@ -19,13 +19,16 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (3 mentions)</summary>
 
 **[00:46:24](/episodes/ep-ewBzjVe3LNQ.md#ent-person-captain-adam-neff-t-00-48-59)**
 > "his name was Captain Neff, nice guy."
 
 **[00:49:32](/episodes/ep-ewBzjVe3LNQ.md#ent-person-captain-adam-neff-t-00-48-59)**
 > "... captains there, his name was Captain Neff, nice guy."
+
+**[00:51:55](/episodes/ep-ewBzjVe3LNQ.md#ent-person-captain-adam-neff-t-00-51-55)**
+> "So Captain Neff was really nice."
 
 </details>
 

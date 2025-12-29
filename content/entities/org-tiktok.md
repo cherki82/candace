@@ -229,6 +229,17 @@ _Type: Organizations_
 </details>
 
 <details>
+<summary>Investor Includes (2)</summary>
+
+- **[Marc Andreessen](/entities/person-marc-andreessen.md)**
+  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:43:49](/episodes/ep-aDlhjfW6hz8.md#t-00-43-41): "Marc Andreessen—in on a deal with...Silver Lake—they're all coming together"
+
+- **[Silver Lake](/entities/org-silver-lake.md)**
+  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:43:49](/episodes/ep-aDlhjfW6hz8.md#t-00-43-41): "Marc Andreessen—in on a deal with...Silver Lake—they're all coming together"
+
+</details>
+
+<details>
 <summary>Referenced By (3)</summary>
 
 - **[Marc Andreessen](/entities/person-marc-andreessen.md)** invested in this

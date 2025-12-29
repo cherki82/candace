@@ -11,7 +11,7 @@ date: "2025-09-10"
 
 > Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University
 
-## Mentioned In (391 times)
+## Mentioned In (392 times)
 
 ### 1. REVELATIONS: The Truth About Charlie's Medical Report | Cand...
 
@@ -3140,3 +3140,11 @@ date: "2025-09-10"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2944);return false;">▶️ Play</a>
 
 > t's back to school. There's a lot going on. And I was very comforted to see that Brigitte Macron had opened Paris Design Week. Makes sense, right? Opened Paris Design Week on, I believe, September 4th
+
+### 392. BREAKING NEWS! We Received Photos Of Charlie's Car After The...
+
+**Episode:** [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md)
+**Timestamp:** [01:08:00](/episodes/ep-9k2xrAC0H88.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-54-08) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(4080);return false;">▶️ Play</a>
+
+> Charlie just got assassinated in broad daylight and I feel like everyone is sort of singling that.

@@ -1,6 +1,6 @@
 ---
 title: "United States Secret Service"
-description: "United States Secret Service (Organizations) - 4 mentions"
+description: "United States Secret Service (Organizations) - 5 mentions"
 id: "org-united-states-secret-service"
 type: "ORG"
 ---
@@ -11,6 +11,14 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>
+
+**[00:52:13](/episodes/ep-ewBzjVe3LNQ.md#t-00-51-55)**
+> "probably secret service or something like that"
+
+</details>
 
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (4 mentions)</summary>

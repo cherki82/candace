@@ -1,6 +1,6 @@
 ---
 title: "September 9th"
-description: "September 9th (Dates) - 2 mentions"
+description: "September 9th (Dates) - 4 mentions"
 id: "date-september-9th"
 type: "DATE"
 aliases:
@@ -16,6 +16,17 @@ _Type: Dates_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
+
+**[00:19:28](/episodes/ep-ewBzjVe3LNQ.md#ent-date-september-9th-t-00-19-20)**
+> "the alleged meeting that happened on the morning of September 9th"
+
+**[00:19:20](/episodes/ep-ewBzjVe3LNQ.md#ent-date-september-9th-t-00-19-20)**
+> "...at happened on the morning of September 9th."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
