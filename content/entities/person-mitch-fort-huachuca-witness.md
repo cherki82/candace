@@ -145,7 +145,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Met With (3)</summary>
+<summary>Met With (5)</summary>
 
 - **[Captain Adam Neff](/entities/person-captain-adam-neff.md)**
   - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:49:24](/episodes/ep-ewBzjVe3LNQ.md#t-00-48-59): "me, one of the captains there, his name was Captain Neff, nice guy...Yeah, and I started telling him my story"
@@ -156,10 +156,16 @@ _Type: People_
 - **[Mark Amodei](/entities/person-mark-amodei.md)**
   - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:01:10](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-05): "Mark Amodei... And you thought that this could potentially be the congressman that you saw on the 9th?... Yeah, that's the one I walked closest to"
 
+- **[Brian Harpole](/entities/person-brian-harpole.md)**
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:56:20](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-15): "If you had to put it at a percentage that you saw Brian Harpole... Ninety-five. Ninety-five percent."
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:58:10](/episodes/ep-ewBzjVe3LNQ.md#t-00-58-00): "There is a picture of Erika Kirk with a ponytail from her past. That person matches who I saw at Fort Huachuca in the lobby the night before"
+
 </details>
 
 <details>
-<summary>Referenced By (8)</summary>
+<summary>Referenced By (10)</summary>
 
 - **[10th Mountain Division](/entities/org-10th-mountain-division.md)** formerly employed this
   - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:32:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-31-58)
@@ -182,6 +188,12 @@ _Type: People_
 
 - **[Mark Amodei](/entities/person-mark-amodei.md)** met with this
   - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:01:10](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-05)
+
+- **[Brian Harpole](/entities/person-brian-harpole.md)** met with this
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:56:20](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-15)
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** met with this
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:58:10](/episodes/ep-ewBzjVe3LNQ.md#t-00-58-00)
 
 - **[Sierra Vista](/entities/gpe-sierra-vista.md)** residence of this
   - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:13:02](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28)

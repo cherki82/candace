@@ -648,6 +648,7 @@ _Type: People_
 - **[Calvary Chapel](/entities/org-calvary-chapel.md)**
   - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:03:00](/episodes/ep-Qt0VHV-POCg.md#t-00-02-59): "Along with being a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Faith."
   - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:02:20](/episodes/ep-yAIb-NuUh_U.md#t-00-02-06): "Rob McCoy—the pastor who makes my skin crawl—struck up thereafter and maintained a long friendship with Thomas Camino. Rob then decides that Camino should be involved in the Calvary Chapel Church"
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:10:12](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-42): "the beliefs and the preferences of Rob McCoy who makes my skin crawl"
 
 - **[Godspeak Calvary Chapel](/entities/org-godspeak-calvary-chapel.md)**
   - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:14:33](/episodes/ep-Qfwr08Ebczo.md#t-00-14-10): "Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel"
@@ -688,6 +689,7 @@ _Type: People_
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
   - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:10:17](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-42)
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:10:12](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-42)
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)** criticized by this
   - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:49:27](/episodes/ep-czVBmqZP6Ss.md#t-00-49-18)

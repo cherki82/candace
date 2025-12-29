@@ -11,10 +11,11 @@ object: "gpe-arizona"
 
 ## [Fort Huachuca](/entities/gpe-fort-huachuca) based in [Arizona](/entities/gpe-arizona)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
 
 **[EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ)**
 
+- [00:12:16](/episodes/ep-ewBzjVe3LNQ#t-00-12-16): _Fort Huachuca in Arizona is... a hub for intelligence training_
 - [00:12:29](/episodes/ep-ewBzjVe3LNQ#t-00-12-29): _Fort Huachuca in Arizona is, okay? It is a hub for intelligence training._
 
 ### Related

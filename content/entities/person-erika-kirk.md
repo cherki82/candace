@@ -1433,10 +1433,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>Met With (1)</summary>
+<summary>Met With (2)</summary>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)**
   - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 01:05:42](/episodes/ep-es7PWdFGoFI.md#t-01-05-19): "Erika communicating with Megan Kelly and me. Megan Kelly was kind of the intermediary."
+
+- **[Mitch](/entities/person-mitch-fort-huachuca-witness.md)**
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:58:10](/episodes/ep-ewBzjVe3LNQ.md#t-00-58-00): "There is a picture of Erika Kirk with a ponytail from her past. That person matches who I saw at Fort Huachuca in the lobby the night before"
 
 </details>
 
@@ -1457,7 +1460,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (15)</summary>
+<summary>Referenced By (16)</summary>
 
 - **[JD Vance](/entities/person-jd-vance.md)** appeared with this
   - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:02:15](/episodes/ep-vwG1juDCQZQ.md#t-00-02-10)
@@ -1503,6 +1506,9 @@ _Type: People_
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)** met with this
   - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 01:05:42](/episodes/ep-es7PWdFGoFI.md#t-01-05-19)
+
+- **[Mitch](/entities/person-mitch-fort-huachuca-witness.md)** met with this
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:58:10](/episodes/ep-ewBzjVe3LNQ.md#t-00-58-00)
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** widower of this
   - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:00:36](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00)

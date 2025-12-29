@@ -11,11 +11,15 @@ object: "org-calvary-chapel"
 
 ## [Rob McCoy](/entities/person-rob-mccoy) pastor of [Calvary Chapel](/entities/org-calvary-chapel)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
 
 **[Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg)**
 
 - [00:03:00](/episodes/ep-Qt0VHV-POCg#t-00-03-00): _Along with being a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Faith._
+
+**[EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ)**
+
+- [00:10:12](/episodes/ep-ewBzjVe3LNQ#t-00-10-12): _the beliefs and the preferences of Rob McCoy who makes my skin crawl_
 
 **[What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U)**
 

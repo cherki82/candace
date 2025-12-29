@@ -267,6 +267,14 @@ _Type: People_
 </details>
 
 <details>
+<summary>Met With (1)</summary>
+
+- **[Mitch](/entities/person-mitch-fort-huachuca-witness.md)**
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:56:20](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-15): "If you had to put it at a percentage that you saw Brian Harpole... Ninety-five. Ninety-five percent."
+
+</details>
+
+<details>
 <summary>Works For (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
@@ -281,7 +289,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** employs this
   - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:00](/episodes/ep-581dILVcEE4.md#t-00-23-32)
@@ -296,6 +304,9 @@ _Type: People_
 - **[Shawn Ryan](/entities/person-shawn-ryan.md)** interviewed this
   - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01)
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:09:02](/episodes/ep-his-JBjlkh8.md#t-00-08-43)
+
+- **[Mitch](/entities/person-mitch-fort-huachuca-witness.md)** met with this
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:56:20](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-15)
 
 </details>
 

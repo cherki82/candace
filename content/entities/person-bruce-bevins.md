@@ -92,6 +92,7 @@ _Type: People_
 
 - **[Fort Huachuca](/entities/gpe-fort-huachuca.md)**
   - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:15:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-15-19): "When I asked for details, she explained that her stress was coming from a class that she was taking on Fort Huachuca taught by none other than Bruce Bevins."
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:15:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-15-19): "her stress was coming from a class that she was taking on Fort Huachuca taught by none other than Bruce Bevins"
 
 </details>
 

@@ -289,6 +289,7 @@ _Type: People_
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
   - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:24:22](/episodes/ep-ewBzjVe3LNQ.md#t-00-23-39)
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:24:23](/episodes/ep-ewBzjVe3LNQ.md#t-00-23-39)
 
 - **[CBS](/entities/org-cbs.md)** employs this
   - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:15:31](/episodes/ep-sImMM04XdWY.md#t-00-15-24)

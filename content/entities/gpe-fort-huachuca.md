@@ -247,6 +247,7 @@ _Type: Places_
 
 - **[Arizona](/entities/gpe-arizona.md)**
   - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:29](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28): "Fort Huachuca in Arizona is, okay? It is a hub for intelligence training."
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:16](/episodes/ep-ewBzjVe3LNQ.md#t-00-11-45): "Fort Huachuca in Arizona is... a hub for intelligence training"
 
 </details>
 
@@ -279,6 +280,7 @@ _Type: Places_
   - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:29](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28)
 
 - **[Bruce Bevins](/entities/person-bruce-bevins.md)** works for this
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:15:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-15-19)
   - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:15:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-15-19)
 
 - **[Captain Adam Neff](/entities/person-captain-adam-neff.md)** works for this

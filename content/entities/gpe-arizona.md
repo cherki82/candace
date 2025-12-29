@@ -305,6 +305,7 @@ _Type: Places_
 
 - **[Fort Huachuca](/entities/gpe-fort-huachuca.md)** based in this
   - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:29](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28)
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:16](/episodes/ep-ewBzjVe3LNQ.md#t-00-11-45)
 
 - **[Sierra Vista](/entities/gpe-sierra-vista.md)** based in this
   - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:13:02](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28)

@@ -3455,12 +3455,14 @@ _Type: People_
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)**
   - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:10:17](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-42): "the preferences of Rob McCoy who makes my skin crawl. We showed you that interview that he did with somebody who apparently went on a rampage. He actually went to prison for it and he was just sort of laundering his reputation and then gave him access again to children."
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:10:12](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-42): "Rob McCoy who makes my skin crawl"
 
 - **[Josh Hammer](/entities/person-josh-hammer.md)**
   - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:10:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-10-25): "God doesn't want you to follow Tucker Carlson on Instagram. Josh Hammer is amazing. Candace is possessed by a demon."
 
 - **[Bari Weiss](/entities/person-bari-weiss.md)**
   - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:24:22](/episodes/ep-ewBzjVe3LNQ.md#t-00-23-39): "obviously Barry Weiss is one of these actors. This is clearly an act. You obviously are not intelligent. You obviously are not some journalist that works their way up and broke some important stories. You are obviously an intelligence op and not so intelligent op."
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:24:23](/episodes/ep-ewBzjVe3LNQ.md#t-00-23-39): "Bari Weiss is one of these actors. This is clearly an act. You obviously are not intelligent."
 
 </details>
 
