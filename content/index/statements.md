@@ -1,11 +1,11 @@
 ---
 title: "Statements Index"
-description: "Browse 1376 statements extracted from podcast episodes"
+description: "Browse 1439 statements extracted from podcast episodes"
 ---
 
 # Statements
 
-_1376 statements extracted from podcast episodes._
+_1439 statements extracted from podcast episodes._
 
 > **Note:** Statements are extracted from podcast transcripts using AI analysis.
 > Speaker attribution and content may contain errors. Always verify against primary sources.
@@ -34,7 +34,7 @@ _1376 statements extracted from podcast episodes._
 
 <div class="tab-controls">
   <label for="tab-bytype" class="tab-btn">By Type</label>
-  <label for="tab-byepisode" class="tab-btn">By Episode (39)</label>
+  <label for="tab-byepisode" class="tab-btn">By Episode (40)</label>
 </div>
 
 <style>
@@ -51,7 +51,7 @@ _1376 statements extracted from podcast episodes._
 <div class="tab-content tab-content-bytype">
 
 <details open>
-<summary><strong class="section-title">Accusations (253)</strong></summary>
+<summary><strong class="section-title">Accusations (273)</strong></summary>
 
 <details>
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (6)</summary>
@@ -1695,8 +1695,14 @@ _1376 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (6)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (17)</summary>
 
+<div class="filter-item">
+
+- [00:06:07](/episodes/ep-ewBzjVe3LNQ.md#t-00-05-35) [○] **Candace Owens**: ["Terrell Farnsworth raced to remove the camera that was directly behind Charlie K..."](/statements/statement-28df3eccda31.md)
+  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
 <div class="filter-item">
 
 - [00:06:23](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-18) [○] **Candace Owens**: ["Terrell Farnsworth raced to remove the camera that was directly behind Charlie's..."](/statements/statement-353e6ec031d3.md)
@@ -1707,6 +1713,30 @@ _1376 statements extracted from podcast episodes._
 
 - [00:08:21](/episodes/ep-ewBzjVe3LNQ.md#t-00-07-39) [○] **Candace Owens**: ["The entire story about how the parents turned him in and did the right thing is ..."](/statements/statement-2bb1432336be.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:08:23](/episodes/ep-ewBzjVe3LNQ.md#t-00-07-39) [○] **Candace Owens**: ["Tyler Robinson's parents were told either the doors would be broken down or he c..."](/statements/statement-d6e15a7e00c1.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:42](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-04) [○] **Candace Owens**: ["Calvary Chapel has a pattern of establishing former pedophiles and drug traffick..."](/statements/statement-f304e1a6e67f.md)
+  - About: [Calvary Chapel](/entities/org-calvary-chapel.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:34](/episodes/ep-ewBzjVe3LNQ.md#t-00-11-03) [○] **Candace Owens**: ["Faith has been infiltrated by the military; many conservative media companies ar..."](/statements/statement-3d67750873d5.md)
+  - About: [Mossad](/entities/org-mossad.md)
+
+</div>
+<div class="filter-item">
+
+- [00:16:10](/episodes/ep-ewBzjVe3LNQ.md#t-00-16-02) [○] **Candace Owens**: ["A Fort Huachuca training class taught by Bruce Bevins had the objective of teach..."](/statements/statement-1d9b65767406.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </div>
 <div class="filter-item">
@@ -1723,14 +1753,109 @@ _1376 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
+- [00:29:22](/episodes/ep-ewBzjVe3LNQ.md#t-00-28-58) [○] **Candace Owens**: ["Bari Weiss is clearly an intelligence operative acting as a journalist"](/statements/statement-c38ec398db82.md)
+  - About: [Bari Weiss](/entities/person-bari-weiss.md)
+
+</div>
+<div class="filter-item">
+
+- [00:30:22](/episodes/ep-ewBzjVe3LNQ.md#t-00-30-19) [○] **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["An American lieutenant colonel was photographed with Mexican military on the Mex..."](/statements/statement-69ebbe253a48.md)
+  - About: [Douglas, Arizona](/entities/gpe-douglas-arizona.md)
+
+</div>
+<div class="filter-item">
+
 - [00:30:41](/episodes/ep-ewBzjVe3LNQ.md#t-00-30-27) [○] **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["An American lieutenant colonel was posed in a photo on the Mexican side after th..."](/statements/statement-630dfb08f6c5.md)
   - About: [Border Patrol](/entities/org-border-patrol.md)
 
 </div>
 <div class="filter-item">
 
-- [01:13:08](/episodes/ep-ewBzjVe3LNQ.md#t-01-12-40) [○] **Candace Owens**: ["Josh Hammer lied and people are going out of their way to protect him"](/statements/statement-efaab0fb4d52.md)
+- [00:56:54](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-15) [○] **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["I am 95-99 percent certain that the man I saw at the Fort Huachuca meeting on Se..."](/statements/statement-d7c3e7e4fe7b.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:57:58](/episodes/ep-ewBzjVe3LNQ.md#t-00-57-34) [○] **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["I am 95-99 percent certain that the woman with striking blue eyes I saw at the F..."](/statements/statement-225fecf27f50.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [01:01:11](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-05) [○] **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["I am 95 percent certain the congressman I saw at the Fort Huachuca meeting on Se..."](/statements/statement-849e9251a645.md)
+  - About: [Mark Amodei](/entities/person-mark-amodei.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [01:11:50](/episodes/ep-ewBzjVe3LNQ.md#t-01-11-26) [○] **Candace Owens**: ["I do believe that our government was involved in the Charlie Kirk assassination ..."](/statements/statement-27873a676737.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</div>
+<div class="filter-item">
+
+- [01:13:08](/episodes/ep-ewBzjVe3LNQ.md#t-01-12-46) [○] **Candace Owens**: ["Josh Hammer lied and people are going out of their way to protect him"](/statements/statement-efaab0fb4d52.md)
   - About: [Josh Hammer](/entities/person-josh-hammer.md)
+
+</div>
+</details>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (9)</summary>
+
+<div class="filter-item">
+
+- [00:00:24](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00) [○] **Candace Owens**: ["Ben Shapiro had no allegiance to Charlie Kirk when he was alive"](/statements/statement-239322b040f4.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:02:14](/episodes/ep-w1oqQbR_bYs.md#t-00-01-51) [○] **Candace Owens**: ["Ben Shapiro worked behind the scenes to have Jewish donors threaten Charlie Kirk..."](/statements/statement-2443f85d69f9.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:02:39](/episodes/ep-w1oqQbR_bYs.md#t-00-02-30) [○] **Candace Owens**: ["Ben Shapiro paid an offensive amount of money to be part of AmFest 2024"](/statements/statement-196a937c330b.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Turning Point USA](/entities/org-turning-point-usa.md), [America Fest](/entities/event-america-fest.md)
+
+</div>
+<div class="filter-item">
+
+- [00:02:57](/episodes/ep-w1oqQbR_bYs.md#t-00-02-30) [○] **Candace Owens**: ["Ben Shapiro worked with Bari Weiss to have an article published claiming TPUSA b..."](/statements/statement-52ac3b9164b8.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Bari Weiss](/entities/person-bari-weiss.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:14](/episodes/ep-w1oqQbR_bYs.md#t-00-09-55) [○] **Candace Owens**: ["Ben Shapiro scheduled an interview with Thomas Sowell specifically to hurt Canda..."](/statements/statement-68d706432609.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Thomas Sowell](/entities/person-thomas-sowell.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:42](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00) [○] **Candace Owens**: ["The Daily Wire humiliated Candace Owens by hosting 300 employees at a town hall ..."](/statements/statement-482d3b0e4ebc.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:16](/episodes/ep-w1oqQbR_bYs.md#t-00-17-44) [○] **Candace Owens**: ["Ben Shapiro staffs audiences with people who work for YAF who are told to explod..."](/statements/statement-3eb9a38e3071.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md)
+
+</div>
+<div class="filter-item">
+
+- [00:30:49](/episodes/ep-w1oqQbR_bYs.md#t-00-30-16) [○] **Candace Owens**: ["Ben Shapiro knows something about Erika Kirk that he is fearful will come out"](/statements/statement-3df10f2d2cce.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:40:39](/episodes/ep-w1oqQbR_bYs.md#t-00-40-26) [○] **Candace Owens**: ["Erika Kirk lied about having not dated anybody before Charlie Kirk"](/statements/statement-d680b6a6dcdb.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 </details>
@@ -1738,7 +1863,7 @@ _1376 statements extracted from podcast episodes._
 </details>
 
 <details open>
-<summary><strong class="section-title">Factual Claims (926)</strong></summary>
+<summary><strong class="section-title">Factual Claims (968)</strong></summary>
 
 <details>
 <summary>To My Friend, Charlie Kirk. (10)</summary>
@@ -7318,12 +7443,24 @@ _1376 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (25)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (48)</summary>
 
+<div class="filter-item">
+
+- [00:04:10](/episodes/ep-ewBzjVe3LNQ.md#t-00-03-30) [○] **Candace Owens**: ["The surgeon never confirmed Charlie Kirk was shot with a .30-06 or that he had a..."](/statements/statement-053385a2b0ae.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
 <div class="filter-item">
 
 - [00:04:24](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-13) [○] **Candace Owens**: ["The surgeon suggested that maybe a frangible bullet was used"](/statements/statement-a518f398d3d0.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:04:28](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-13) [○] **Candace Owens**: ["The lone confirmed eyewitness to the alleged shooter on the Losey Center rooftop..."](/statements/statement-07a11f812a7d.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 </div>
 <div class="filter-item">
@@ -7340,8 +7477,20 @@ _1376 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
+- [00:05:05](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-54) [○] **Candace Owens**: ["The eyewitness claims the weapon he saw looked more like a .223, something short..."](/statements/statement-55e79a721200.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</div>
+<div class="filter-item">
+
 - [00:05:13](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-54) [○] **Candace Owens**: ["The person the eyewitness observed was wearing what seemed to be black tactical ..."](/statements/statement-3a53d2d0940f.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:13](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-54) [○] **Candace Owens**: ["The person observed on the rooftop was wearing black tactical gear plus a face m..."](/statements/statement-971650dfc88f.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 </div>
 <div class="filter-item">
@@ -7352,8 +7501,20 @@ _1376 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
+- [00:05:22](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-54) [○] **Candace Owens**: ["The bomb dogs were unable to locate the weapon in the field where it was eventua..."](/statements/statement-9c4ddf0d0ff0.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</div>
+<div class="filter-item">
+
 - [00:05:45](/episodes/ep-ewBzjVe3LNQ.md#t-00-05-35) [○] **Candace Owens**: ["Federal agents directed local officers to the weapon"](/statements/statement-3870e1bb19e0.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:45](/episodes/ep-ewBzjVe3LNQ.md#t-00-05-35) [○] **Candace Owens**: ["Federal agents directed local officers to the weapon rather than the canines loc..."](/statements/statement-d6bc3e541f55.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 </div>
 <div class="filter-item">
@@ -7364,8 +7525,26 @@ _1376 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
+- [00:06:03](/episodes/ep-ewBzjVe3LNQ.md#t-00-05-35) [○] **Candace Owens**: ["The canines were not provided with the scent of the weapon once it was discovere..."](/statements/statement-45dd12dab038.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</div>
+<div class="filter-item">
+
 - [00:06:59](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-18) [○] **Candace Owens**: ["Federal agents prevented the surgeon from returning to his operating room"](/statements/statement-c9c6d1770128.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:07:07](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-59) [○] **Candace Owens**: ["Federal agents prevented the surgeon from returning to his operating room after ..."](/statements/statement-0a09e517d5b1.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:07:19](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-59) [○] **Candace Owens**: ["Federal agents removed the hospital surveillance footage"](/statements/statement-442420ec2f82.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 </div>
 <div class="filter-item">
@@ -7382,13 +7561,31 @@ _1376 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
+- [00:07:37](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-59) [○] **Candace Owens**: ["The vehicle in which Charlie Kirk was transported to Timpanogos Hospital was not..."](/statements/statement-109d55c23422.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+</div>
+<div class="filter-item">
+
 - [00:07:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-07-39) [○] **Candace Owens**: ["There were multiple sets of prints on the weapon that was found"](/statements/statement-0867f9d570cd.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </div>
 <div class="filter-item">
 
+- [00:07:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-07-39) [○] **Candace Owens**: ["There were multiple sets of fingerprints on the weapon that was found, not just ..."](/statements/statement-b7fe2b123ba2.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</div>
+<div class="filter-item">
+
 - [00:08:08](/episodes/ep-ewBzjVe3LNQ.md#t-00-07-39) [○] **Candace Owens**: ["The footage of Tyler Robinson turning himself in is apparently missing"](/statements/statement-0a41ad054098.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:08:08](/episodes/ep-ewBzjVe3LNQ.md#t-00-07-39) [○] **Candace Owens**: ["The footage of Tyler Robinson turning himself in is apparently missing"](/statements/statement-963942fae5ae.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </div>
@@ -7400,7 +7597,19 @@ _1376 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
+- [00:08:37](/episodes/ep-ewBzjVe3LNQ.md#t-00-08-23) [○] **Candace Owens**: ["Police officers present when Tyler Robinson came in were told not to look at him..."](/statements/statement-0c838237a9fc.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
 - [00:12:16](/episodes/ep-ewBzjVe3LNQ.md#t-00-11-45) [○] **Candace Owens**: ["Fort Huachuca is an intelligence base, a hub for intelligence training where civ..."](/statements/statement-ad9042e7d3e0.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:16](/episodes/ep-ewBzjVe3LNQ.md#t-00-11-45) [○] **Candace Owens**: ["Fort Huachuca is a hub for intelligence training where civilians can be turned i..."](/statements/statement-db27b5fabb0c.md)
   - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </div>
@@ -7418,13 +7627,25 @@ _1376 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:26:18](/episodes/ep-ewBzjVe3LNQ.md#t-00-25-51) [○] **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["We were part of a mission going down to the border of JTF-6 assigned from 10th M..."](/statements/statement-e8d167e7b955.md)
+- [00:17:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-16-41) [○] **Candace Owens**: ["Military students at Fort Huachuca had overnight field training missions in Tucs..."](/statements/statement-ba51a3859360.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:26:18](/episodes/ep-ewBzjVe3LNQ.md#t-00-26-10) [○] **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["We were part of a mission going down to the border of JTF-6 assigned from 10th M..."](/statements/statement-e8d167e7b955.md)
   - About: [10th Mountain Division](/entities/org-10th-mountain-division.md)
 
 </div>
 <div class="filter-item">
 
-- [00:29:11](/episodes/ep-ewBzjVe3LNQ.md#t-00-28-27) [○] **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["We discovered underground tunnel signals that were subterranean, and were able t..."](/statements/statement-54e2de6e1ea2.md)
+- [00:28:44](/episodes/ep-ewBzjVe3LNQ.md#t-00-28-18) [○] **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["In circa 1990, as part of JTF-6 assigned from 10th Mountain Division, I helped d..."](/statements/statement-c361c56363e8.md)
+  - About: [Joint Task Force Six](/entities/org-joint-task-force-six.md), [10th Mountain Division](/entities/org-10th-mountain-division.md), [Douglas, Arizona](/entities/gpe-douglas-arizona.md)
+
+</div>
+<div class="filter-item">
+
+- [00:29:11](/episodes/ep-ewBzjVe3LNQ.md#t-00-28-58) [○] **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["We discovered underground tunnel signals that were subterranean, and were able t..."](/statements/statement-54e2de6e1ea2.md)
   - About: [Arizona](/entities/gpe-arizona.md)
 
 </div>
@@ -7436,13 +7657,43 @@ _1376 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:37:40](/episodes/ep-ewBzjVe3LNQ.md#t-00-37-30) [○] **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["I was at Fort Huachuca on the evening of September 8th at the Candlewood Inn and..."](/statements/statement-f05281cbc74d.md)
+- [00:31:03](/episodes/ep-ewBzjVe3LNQ.md#t-00-30-27) [○] **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["The federal government knew that 60-80 percent of cocaine was coming through the..."](/statements/statement-30bdc172939d.md)
+  - About: [Douglas, Arizona](/entities/gpe-douglas-arizona.md)
+
+</div>
+<div class="filter-item">
+
+- [00:33:28](/episodes/ep-ewBzjVe3LNQ.md#t-00-33-02) [○] **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["After discovering the tunnel, I was placed under a 35-year gag order while carte..."](/statements/statement-3a4c86c4b5cb.md)
+  - About: [Anonymous Source #5 (Ep ewBzjVe3LNQ)](/entities/anon-src-ewBzjVe3LNQ-005.md)
+
+</div>
+<div class="filter-item">
+
+- [00:37:40](/episodes/ep-ewBzjVe3LNQ.md#t-00-37-20) [○] **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["I was at Fort Huachuca on the evening of September 8th at the Candlewood Inn and..."](/statements/statement-f05281cbc74d.md)
   - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </div>
 <div class="filter-item">
 
-- [00:46:30](/episodes/ep-ewBzjVe3LNQ.md#t-00-46-03) [○] **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["On September 9th at Fort Huachuca, I walked into a JTF headquarters building and..."](/statements/statement-1ac2526e812d.md)
+- [00:39:01](/episodes/ep-ewBzjVe3LNQ.md#t-00-38-23) [○] **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["On September 8, 2024, I checked into the Candlewood Suites at Fort Huachuca and ..."](/statements/statement-58fce571197c.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:46:30](/episodes/ep-ewBzjVe3LNQ.md#t-00-46-23) [○] **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["On September 9th at Fort Huachuca, I walked into a JTF headquarters building and..."](/statements/statement-1ac2526e812d.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:46:40](/episodes/ep-ewBzjVe3LNQ.md#t-00-46-23) [○] **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["On September 9, 2024, I walked into what appeared to be a high-level meeting at ..."](/statements/statement-54152af172b2.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:50:08](/episodes/ep-ewBzjVe3LNQ.md#t-00-49-43) [○] **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["After I entered the JTF headquarters at Fort Huachuca on September 9, 2024, mult..."](/statements/statement-5eb1850fe988.md)
   - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </div>
@@ -7454,20 +7705,151 @@ _1376 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:56:34](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-00) [○] **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["I am 95 to 99 percent certain that I saw Brian Harpole at Fort Huachuca on the m..."](/statements/statement-8de81100cf3e.md)
+- [00:53:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-52-38) [○] **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["Authorities at Fort Huachuca kept asking about the next 24 hours and wanted to h..."](/statements/statement-83f8b5f3882a.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</div>
+<div class="filter-item">
+
+- [00:56:34](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-15) [○] **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["I am 95 to 99 percent certain that I saw Brian Harpole at Fort Huachuca on the m..."](/statements/statement-8de81100cf3e.md)
   - About: [Brian Harpole](/entities/person-brian-harpole.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </div>
 <div class="filter-item">
 
-- [00:57:45](/episodes/ep-ewBzjVe3LNQ.md#t-00-57-28) [○] **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["I am 95 to 99 percent certain I saw Erika Kirk at Fort Huachuca in the hotel lob..."](/statements/statement-fe5aea94c1fd.md)
+- [00:57:45](/episodes/ep-ewBzjVe3LNQ.md#t-00-57-34) [○] **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["I am 95 to 99 percent certain I saw Erika Kirk at Fort Huachuca in the hotel lob..."](/statements/statement-fe5aea94c1fd.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </div>
 <div class="filter-item">
 
-- [01:01:07](/episodes/ep-ewBzjVe3LNQ.md#t-01-00-24) [○] **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["I am 95 percent certain that I saw Zohran Mamdani at Fort Huachuca on September ..."](/statements/statement-958dde69f981.md)
+- [01:01:07](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-05) [○] **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["I am 95 percent certain that I saw Zohran Mamdani at Fort Huachuca on September ..."](/statements/statement-958dde69f981.md)
   - About: [Zohran Mamdani](/entities/person-zohran-mamdani.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [01:01:35](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-19) [○] **Candace Owens**: ["We confirmed based on flight call signs that someone heavy duty was at Fort Huac..."](/statements/statement-5e2e1df123e7.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+</details>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (19)</summary>
+
+<div class="filter-item">
+
+- [00:02:04](/episodes/ep-w1oqQbR_bYs.md#t-00-01-51) [○] **Candace Owens**: ["Ben Shapiro sent an intern to confront Candace Owens on stage at the Dallas YWLS..."](/statements/statement-ccf7b1277237.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Young Women's Leadership Summit](/entities/org-ywls.md)
+
+</div>
+<div class="filter-item">
+
+- [00:16:56](/episodes/ep-w1oqQbR_bYs.md#t-00-16-24) [○] **Candace Owens**: ["Ben Shapiro has issued three court proceedings against Candace Owens for petty i..."](/statements/statement-7df37740e4d6.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:26](/episodes/ep-w1oqQbR_bYs.md#t-00-17-08) [○] **Candace Owens**: ["Ben Shapiro sued Candace Owens for interviewing a USS Liberty survivor who menti..."](/statements/statement-199a3e06bdfb.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [USS Liberty incident](/entities/event-uss-liberty-incident.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:31](/episodes/ep-w1oqQbR_bYs.md#t-00-23-20) [○] **Candace Owens**: ["Ben Shapiro's father writes under the pen name Hank Berrien at The Daily Wire"](/statements/statement-7de014dde600.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Hank Berrien](/entities/person-hank-berrien.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:07](/episodes/ep-w1oqQbR_bYs.md#t-00-25-01) [○] **Tucker Carlson**: ["Charlie Kirk spent the last several months of his life under immense pressure fr..."](/statements/statement-5e3f12bf081d.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:26:49](/episodes/ep-w1oqQbR_bYs.md#t-00-26-46) [○] **Candace Owens**: ["Jewish people were in control of the slave trade"](/statements/statement-af4d843fd91b.md)
+  - About: [Zionism](/entities/concept-zionism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:31:54](/episodes/ep-w1oqQbR_bYs.md#t-00-31-41) [○] **Candace Owens**: ["Fort Huachuca has ties to Liberty University where you can attend classes and ac..."](/statements/statement-4a1ea3561680.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Liberty University](/entities/org-liberty-university.md)
+
+</div>
+<div class="filter-item">
+
+- [00:34:20](/episodes/ep-w1oqQbR_bYs.md#t-00-33-40) [○] **Candace Owens**: ["The 702 call sign on military flights may reference Las Vegas area code"](/statements/statement-9f738f51f413.md)
+  - About: [Las Vegas](/entities/gpe-las-vegas.md)
+
+</div>
+<div class="filter-item">
+
+- [00:34:49](/episodes/ep-w1oqQbR_bYs.md#t-00-34-25) [○] **Candace Owens**: ["Candace Owens verified all aspects of witness Mitch's story including his call l..."](/statements/statement-83ee7fdd0e12.md)
+  - About: [Mitch](/entities/person-mitch-fort-huachuca-witness.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:17](/episodes/ep-w1oqQbR_bYs.md#t-00-35-37) [○] **Candace Owens**: ["Mark Amodei missed two roll calls in the morning on September 9th and was only p..."](/statements/statement-1708c00a71da.md)
+  - About: [Mark Amodei](/entities/person-mark-amodei.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
+
+</div>
+<div class="filter-item">
+
+- [00:37:47](/episodes/ep-w1oqQbR_bYs.md#t-00-37-03) [○] **Candace Owens**: ["Brian Harpole could have made it to Fort Huachuca for the early morning meeting ..."](/statements/statement-712747817fac.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:41:32](/episodes/ep-w1oqQbR_bYs.md#t-00-41-05) [○] **Candace Owens**: ["The surgeon said the frangible bullet suggestion was made on a three-way call wi..."](/statements/statement-997a2b519d2a.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+</div>
+<div class="filter-item">
+
+- [00:42:19](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49) [○] **Candace Owens**: ["Witness Mitch identified Cabot Phillips as the person he saw at Fort Huachuca on..."](/statements/statement-113b092b6b74.md)
+  - About: [Mitch](/entities/person-mitch-fort-huachuca-witness.md), [Cabot Phillips](/entities/person-cabot-phillips.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:42:59](/episodes/ep-w1oqQbR_bYs.md#t-00-42-27) [○] **Candace Owens**: ["Cabot Phillips is missing from the Morning Wire show from September 4th to Septe..."](/statements/statement-88ef12af870f.md)
+  - About: [Cabot Phillips](/entities/person-cabot-phillips.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+</div>
+<div class="filter-item">
+
+- [00:43:36](/episodes/ep-w1oqQbR_bYs.md#t-00-43-06) [○] **Candace Owens**: ["Cabot Phillips' father is taking a lot of money from the Adelsons and is a neoco..."](/statements/statement-ac23843213dd.md)
+  - About: [Cabot Phillips](/entities/person-cabot-phillips.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:04](/episodes/ep-w1oqQbR_bYs.md#t-00-43-46) [○] **Candace Owens**: ["Erika Kirk previously dated Cabot Phillips, a Daily Wire employee, in 2017"](/statements/statement-b153bb3657cc.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Cabot Phillips](/entities/person-cabot-phillips.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:45](/episodes/ep-w1oqQbR_bYs.md#t-00-44-30) [○] **Candace Owens**: ["Erika Kirk is half Jewish according to her cousin Nicole Rothstein"](/statements/statement-86cb14abbe01.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Nicole Rothstein](/entities/person-nicole-rothstein.md)
+
+</div>
+<div class="filter-item">
+
+- [00:46:11](/episodes/ep-w1oqQbR_bYs.md#t-00-45-57) [○] **Candace Owens**: ["Fort Huachuca is involved in lawsuits and sworn affidavits regarding 9-11 regard..."](/statements/statement-81307478a879.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [9/11](/entities/event-9-11.md)
+
+</div>
+<div class="filter-item">
+
+- [01:00:59](/episodes/ep-w1oqQbR_bYs.md#t-01-00-35) [○] **Candace Owens**: ["Charlie Kirk knew he was going to die"](/statements/statement-ca52218506be.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 </details>
@@ -7912,7 +8294,7 @@ _1376 statements extracted from podcast episodes._
 </details>
 
 <details open>
-<summary><strong class="section-title">Opinions (150)</strong></summary>
+<summary><strong class="section-title">Opinions (151)</strong></summary>
 
 <details>
 <summary>To My Friend, Charlie Kirk. (2)</summary>
@@ -8942,20 +9324,31 @@ _1376 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:32:50](/episodes/ep-ewBzjVe3LNQ.md#t-00-32-29) [○] **Candace Owens**: ["The CIA was created to traffic"](/statements/statement-ede9d9bc7ca3.md)
+- [00:32:50](/episodes/ep-ewBzjVe3LNQ.md#t-00-32-10) [○] **Candace Owens**: ["The CIA was created to traffic"](/statements/statement-ede9d9bc7ca3.md)
   - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
 
 </div>
 <div class="filter-item">
 
-- [01:01:46](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-09) [○] **Candace Owens**: ["Based on call sign analysis, there could be a chance that Kash Patel was the per..."](/statements/statement-b90aa7d83fb5.md)
+- [01:01:46](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-19) [○] **Candace Owens**: ["Based on call sign analysis, there could be a chance that Kash Patel was the per..."](/statements/statement-b90aa7d83fb5.md)
   - About: [Kash Patel](/entities/person-kash-patel.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </div>
 <div class="filter-item">
 
-- [01:11:45](/episodes/ep-ewBzjVe3LNQ.md#t-01-11-14) [○] **Candace Owens**: ["I do believe that our government was involved in this and is involved in the cov..."](/statements/statement-69914990950d.md)
+- [01:11:45](/episodes/ep-ewBzjVe3LNQ.md#t-01-11-26) [○] **Candace Owens**: ["I do believe that our government was involved in this and is involved in the cov..."](/statements/statement-69914990950d.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</div>
+</details>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
+
+<div class="filter-item">
+
+- [00:25:05](/episodes/ep-w1oqQbR_bYs.md#t-00-25-01) [○] **Tucker Carlson**: ["Charlie Kirk died for his belief in free debate and giving people platforms to s..."](/statements/statement-dccdb57ef266.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 </details>
@@ -17157,12 +17550,24 @@ _1376 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary><strong>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282</strong> (37)</summary>
+<summary><strong>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282</strong> (71)</summary>
 
+<div class="filter-item">
+
+- [00:04:10](/episodes/ep-ewBzjVe3LNQ.md#t-00-03-30) [○] (Claim) **Candace Owens**: ["The surgeon never confirmed Charlie Kirk was shot with a .30-06 or that he had a..."](/statements/statement-053385a2b0ae.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
 <div class="filter-item">
 
 - [00:04:24](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-13) [○] (Claim) **Candace Owens**: ["The surgeon suggested that maybe a frangible bullet was used"](/statements/statement-a518f398d3d0.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:04:28](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-13) [○] (Claim) **Candace Owens**: ["The lone confirmed eyewitness to the alleged shooter on the Losey Center rooftop..."](/statements/statement-07a11f812a7d.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 </div>
 <div class="filter-item">
@@ -17179,8 +17584,20 @@ _1376 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
+- [00:05:05](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-54) [○] (Claim) **Candace Owens**: ["The eyewitness claims the weapon he saw looked more like a .223, something short..."](/statements/statement-55e79a721200.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</div>
+<div class="filter-item">
+
 - [00:05:13](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-54) [○] (Claim) **Candace Owens**: ["The person the eyewitness observed was wearing what seemed to be black tactical ..."](/statements/statement-3a53d2d0940f.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:13](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-54) [○] (Claim) **Candace Owens**: ["The person observed on the rooftop was wearing black tactical gear plus a face m..."](/statements/statement-971650dfc88f.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 </div>
 <div class="filter-item">
@@ -17191,14 +17608,38 @@ _1376 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
+- [00:05:22](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-54) [○] (Claim) **Candace Owens**: ["The bomb dogs were unable to locate the weapon in the field where it was eventua..."](/statements/statement-9c4ddf0d0ff0.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</div>
+<div class="filter-item">
+
 - [00:05:45](/episodes/ep-ewBzjVe3LNQ.md#t-00-05-35) [○] (Claim) **Candace Owens**: ["Federal agents directed local officers to the weapon"](/statements/statement-3870e1bb19e0.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item">
 
+- [00:05:45](/episodes/ep-ewBzjVe3LNQ.md#t-00-05-35) [○] (Claim) **Candace Owens**: ["Federal agents directed local officers to the weapon rather than the canines loc..."](/statements/statement-d6bc3e541f55.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</div>
+<div class="filter-item">
+
 - [00:05:55](/episodes/ep-ewBzjVe3LNQ.md#t-00-05-35) [○] (Claim) **Candace Owens**: ["The canines were not provided with the scent of the weapon once it was discovere..."](/statements/statement-ffd221e7e6e8.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:03](/episodes/ep-ewBzjVe3LNQ.md#t-00-05-35) [○] (Claim) **Candace Owens**: ["The canines were not provided with the scent of the weapon once it was discovere..."](/statements/statement-45dd12dab038.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:07](/episodes/ep-ewBzjVe3LNQ.md#t-00-05-35) [○] (Accusation) **Candace Owens**: ["Terrell Farnsworth raced to remove the camera that was directly behind Charlie K..."](/statements/statement-28df3eccda31.md)
+  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item">
@@ -17221,6 +17662,18 @@ _1376 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
+- [00:07:07](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-59) [○] (Claim) **Candace Owens**: ["Federal agents prevented the surgeon from returning to his operating room after ..."](/statements/statement-0a09e517d5b1.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:07:19](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-59) [○] (Claim) **Candace Owens**: ["Federal agents removed the hospital surveillance footage"](/statements/statement-442420ec2f82.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</div>
+<div class="filter-item">
+
 - [00:07:23](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-59) [○] (Claim) **Candace Owens**: ["Federal agents removed the hospital surveillance footage"](/statements/statement-8065fbf20c43.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
@@ -17233,13 +17686,31 @@ _1376 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
+- [00:07:37](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-59) [○] (Claim) **Candace Owens**: ["The vehicle in which Charlie Kirk was transported to Timpanogos Hospital was not..."](/statements/statement-109d55c23422.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+</div>
+<div class="filter-item">
+
 - [00:07:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-07-39) [○] (Claim) **Candace Owens**: ["There were multiple sets of prints on the weapon that was found"](/statements/statement-0867f9d570cd.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </div>
 <div class="filter-item">
 
+- [00:07:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-07-39) [○] (Claim) **Candace Owens**: ["There were multiple sets of fingerprints on the weapon that was found, not just ..."](/statements/statement-b7fe2b123ba2.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</div>
+<div class="filter-item">
+
 - [00:08:08](/episodes/ep-ewBzjVe3LNQ.md#t-00-07-39) [○] (Claim) **Candace Owens**: ["The footage of Tyler Robinson turning himself in is apparently missing"](/statements/statement-0a41ad054098.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:08:08](/episodes/ep-ewBzjVe3LNQ.md#t-00-07-39) [○] (Claim) **Candace Owens**: ["The footage of Tyler Robinson turning himself in is apparently missing"](/statements/statement-963942fae5ae.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </div>
@@ -17251,13 +17722,43 @@ _1376 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
+- [00:08:23](/episodes/ep-ewBzjVe3LNQ.md#t-00-07-39) [○] (Accusation) **Candace Owens**: ["Tyler Robinson's parents were told either the doors would be broken down or he c..."](/statements/statement-d6e15a7e00c1.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
 - [00:08:36](/episodes/ep-ewBzjVe3LNQ.md#t-00-08-23) [○] (Claim) **Candace Owens**: ["Police officers that were there when Tyler Robinson came into the police were to..."](/statements/statement-bcdd1626213b.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </div>
 <div class="filter-item">
 
+- [00:08:37](/episodes/ep-ewBzjVe3LNQ.md#t-00-08-23) [○] (Claim) **Candace Owens**: ["Police officers present when Tyler Robinson came in were told not to look at him..."](/statements/statement-0c838237a9fc.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:42](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-04) [○] (Accusation) **Candace Owens**: ["Calvary Chapel has a pattern of establishing former pedophiles and drug traffick..."](/statements/statement-f304e1a6e67f.md)
+  - About: [Calvary Chapel](/entities/org-calvary-chapel.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:34](/episodes/ep-ewBzjVe3LNQ.md#t-00-11-03) [○] (Accusation) **Candace Owens**: ["Faith has been infiltrated by the military; many conservative media companies ar..."](/statements/statement-3d67750873d5.md)
+  - About: [Mossad](/entities/org-mossad.md)
+
+</div>
+<div class="filter-item">
+
 - [00:12:16](/episodes/ep-ewBzjVe3LNQ.md#t-00-11-45) [○] (Claim) **Candace Owens**: ["Fort Huachuca is an intelligence base, a hub for intelligence training where civ..."](/statements/statement-ad9042e7d3e0.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:16](/episodes/ep-ewBzjVe3LNQ.md#t-00-11-45) [○] (Claim) **Candace Owens**: ["Fort Huachuca is a hub for intelligence training where civilians can be turned i..."](/statements/statement-db27b5fabb0c.md)
   - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </div>
@@ -17275,7 +17776,19 @@ _1376 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
+- [00:16:10](/episodes/ep-ewBzjVe3LNQ.md#t-00-16-02) [○] (Accusation) **Candace Owens**: ["A Fort Huachuca training class taught by Bruce Bevins had the objective of teach..."](/statements/statement-1d9b65767406.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
 - [00:17:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-16-41) [○] (Claim) **Anonymous Source #2 (Ep ewBzjVe3LNQ)**: ["Military students' objective had been to deceive civilians in Tucson - they prac..."](/statements/statement-9ad26108704e.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-16-41) [○] (Claim) **Candace Owens**: ["Military students at Fort Huachuca had overnight field training missions in Tucs..."](/statements/statement-ba51a3859360.md)
   - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </div>
@@ -17299,14 +17812,32 @@ _1376 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:26:18](/episodes/ep-ewBzjVe3LNQ.md#t-00-25-51) [○] (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["We were part of a mission going down to the border of JTF-6 assigned from 10th M..."](/statements/statement-e8d167e7b955.md)
+- [00:26:18](/episodes/ep-ewBzjVe3LNQ.md#t-00-26-10) [○] (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["We were part of a mission going down to the border of JTF-6 assigned from 10th M..."](/statements/statement-e8d167e7b955.md)
   - About: [10th Mountain Division](/entities/org-10th-mountain-division.md)
 
 </div>
 <div class="filter-item">
 
-- [00:29:11](/episodes/ep-ewBzjVe3LNQ.md#t-00-28-27) [○] (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["We discovered underground tunnel signals that were subterranean, and were able t..."](/statements/statement-54e2de6e1ea2.md)
+- [00:28:44](/episodes/ep-ewBzjVe3LNQ.md#t-00-28-18) [○] (Claim) **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["In circa 1990, as part of JTF-6 assigned from 10th Mountain Division, I helped d..."](/statements/statement-c361c56363e8.md)
+  - About: [Joint Task Force Six](/entities/org-joint-task-force-six.md), [10th Mountain Division](/entities/org-10th-mountain-division.md), [Douglas, Arizona](/entities/gpe-douglas-arizona.md)
+
+</div>
+<div class="filter-item">
+
+- [00:29:11](/episodes/ep-ewBzjVe3LNQ.md#t-00-28-58) [○] (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["We discovered underground tunnel signals that were subterranean, and were able t..."](/statements/statement-54e2de6e1ea2.md)
   - About: [Arizona](/entities/gpe-arizona.md)
+
+</div>
+<div class="filter-item">
+
+- [00:29:22](/episodes/ep-ewBzjVe3LNQ.md#t-00-28-58) [○] (Accusation) **Candace Owens**: ["Bari Weiss is clearly an intelligence operative acting as a journalist"](/statements/statement-c38ec398db82.md)
+  - About: [Bari Weiss](/entities/person-bari-weiss.md)
+
+</div>
+<div class="filter-item">
+
+- [00:30:22](/episodes/ep-ewBzjVe3LNQ.md#t-00-30-19) [○] (Accusation) **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["An American lieutenant colonel was photographed with Mexican military on the Mex..."](/statements/statement-69ebbe253a48.md)
+  - About: [Douglas, Arizona](/entities/gpe-douglas-arizona.md)
 
 </div>
 <div class="filter-item">
@@ -17323,19 +17854,49 @@ _1376 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:32:50](/episodes/ep-ewBzjVe3LNQ.md#t-00-32-29) [○] (Opinion) **Candace Owens**: ["The CIA was created to traffic"](/statements/statement-ede9d9bc7ca3.md)
+- [00:31:03](/episodes/ep-ewBzjVe3LNQ.md#t-00-30-27) [○] (Claim) **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["The federal government knew that 60-80 percent of cocaine was coming through the..."](/statements/statement-30bdc172939d.md)
+  - About: [Douglas, Arizona](/entities/gpe-douglas-arizona.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:50](/episodes/ep-ewBzjVe3LNQ.md#t-00-32-10) [○] (Opinion) **Candace Owens**: ["The CIA was created to traffic"](/statements/statement-ede9d9bc7ca3.md)
   - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
 
 </div>
 <div class="filter-item">
 
-- [00:37:40](/episodes/ep-ewBzjVe3LNQ.md#t-00-37-30) [○] (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["I was at Fort Huachuca on the evening of September 8th at the Candlewood Inn and..."](/statements/statement-f05281cbc74d.md)
+- [00:33:28](/episodes/ep-ewBzjVe3LNQ.md#t-00-33-02) [○] (Claim) **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["After discovering the tunnel, I was placed under a 35-year gag order while carte..."](/statements/statement-3a4c86c4b5cb.md)
+  - About: [Anonymous Source #5 (Ep ewBzjVe3LNQ)](/entities/anon-src-ewBzjVe3LNQ-005.md)
+
+</div>
+<div class="filter-item">
+
+- [00:37:40](/episodes/ep-ewBzjVe3LNQ.md#t-00-37-20) [○] (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["I was at Fort Huachuca on the evening of September 8th at the Candlewood Inn and..."](/statements/statement-f05281cbc74d.md)
   - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </div>
 <div class="filter-item">
 
-- [00:46:30](/episodes/ep-ewBzjVe3LNQ.md#t-00-46-03) [○] (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["On September 9th at Fort Huachuca, I walked into a JTF headquarters building and..."](/statements/statement-1ac2526e812d.md)
+- [00:39:01](/episodes/ep-ewBzjVe3LNQ.md#t-00-38-23) [○] (Claim) **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["On September 8, 2024, I checked into the Candlewood Suites at Fort Huachuca and ..."](/statements/statement-58fce571197c.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:46:30](/episodes/ep-ewBzjVe3LNQ.md#t-00-46-23) [○] (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["On September 9th at Fort Huachuca, I walked into a JTF headquarters building and..."](/statements/statement-1ac2526e812d.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:46:40](/episodes/ep-ewBzjVe3LNQ.md#t-00-46-23) [○] (Claim) **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["On September 9, 2024, I walked into what appeared to be a high-level meeting at ..."](/statements/statement-54152af172b2.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:50:08](/episodes/ep-ewBzjVe3LNQ.md#t-00-49-43) [○] (Claim) **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["After I entered the JTF headquarters at Fort Huachuca on September 9, 2024, mult..."](/statements/statement-5eb1850fe988.md)
   - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </div>
@@ -17347,38 +17908,253 @@ _1376 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:56:34](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-00) [○] (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["I am 95 to 99 percent certain that I saw Brian Harpole at Fort Huachuca on the m..."](/statements/statement-8de81100cf3e.md)
+- [00:53:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-52-38) [○] (Claim) **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["Authorities at Fort Huachuca kept asking about the next 24 hours and wanted to h..."](/statements/statement-83f8b5f3882a.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</div>
+<div class="filter-item">
+
+- [00:56:34](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-15) [○] (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["I am 95 to 99 percent certain that I saw Brian Harpole at Fort Huachuca on the m..."](/statements/statement-8de81100cf3e.md)
   - About: [Brian Harpole](/entities/person-brian-harpole.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </div>
 <div class="filter-item">
 
-- [00:57:45](/episodes/ep-ewBzjVe3LNQ.md#t-00-57-28) [○] (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["I am 95 to 99 percent certain I saw Erika Kirk at Fort Huachuca in the hotel lob..."](/statements/statement-fe5aea94c1fd.md)
+- [00:56:54](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-15) [○] (Accusation) **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["I am 95-99 percent certain that the man I saw at the Fort Huachuca meeting on Se..."](/statements/statement-d7c3e7e4fe7b.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:57:45](/episodes/ep-ewBzjVe3LNQ.md#t-00-57-34) [○] (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["I am 95 to 99 percent certain I saw Erika Kirk at Fort Huachuca in the hotel lob..."](/statements/statement-fe5aea94c1fd.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </div>
 <div class="filter-item">
 
-- [01:01:07](/episodes/ep-ewBzjVe3LNQ.md#t-01-00-24) [○] (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["I am 95 percent certain that I saw Zohran Mamdani at Fort Huachuca on September ..."](/statements/statement-958dde69f981.md)
+- [00:57:58](/episodes/ep-ewBzjVe3LNQ.md#t-00-57-34) [○] (Accusation) **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["I am 95-99 percent certain that the woman with striking blue eyes I saw at the F..."](/statements/statement-225fecf27f50.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [01:01:07](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-05) [○] (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["I am 95 percent certain that I saw Zohran Mamdani at Fort Huachuca on September ..."](/statements/statement-958dde69f981.md)
   - About: [Zohran Mamdani](/entities/person-zohran-mamdani.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </div>
 <div class="filter-item">
 
-- [01:01:46](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-09) [○] (Opinion) **Candace Owens**: ["Based on call sign analysis, there could be a chance that Kash Patel was the per..."](/statements/statement-b90aa7d83fb5.md)
+- [01:01:11](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-05) [○] (Accusation) **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["I am 95 percent certain the congressman I saw at the Fort Huachuca meeting on Se..."](/statements/statement-849e9251a645.md)
+  - About: [Mark Amodei](/entities/person-mark-amodei.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [01:01:35](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-19) [○] (Claim) **Candace Owens**: ["We confirmed based on flight call signs that someone heavy duty was at Fort Huac..."](/statements/statement-5e2e1df123e7.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [01:01:46](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-19) [○] (Opinion) **Candace Owens**: ["Based on call sign analysis, there could be a chance that Kash Patel was the per..."](/statements/statement-b90aa7d83fb5.md)
   - About: [Kash Patel](/entities/person-kash-patel.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </div>
 <div class="filter-item">
 
-- [01:11:45](/episodes/ep-ewBzjVe3LNQ.md#t-01-11-14) [○] (Opinion) **Candace Owens**: ["I do believe that our government was involved in this and is involved in the cov..."](/statements/statement-69914990950d.md)
+- [01:11:45](/episodes/ep-ewBzjVe3LNQ.md#t-01-11-26) [○] (Opinion) **Candace Owens**: ["I do believe that our government was involved in this and is involved in the cov..."](/statements/statement-69914990950d.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 </div>
 <div class="filter-item">
 
-- [01:13:08](/episodes/ep-ewBzjVe3LNQ.md#t-01-12-40) [○] (Accusation) **Candace Owens**: ["Josh Hammer lied and people are going out of their way to protect him"](/statements/statement-efaab0fb4d52.md)
+- [01:11:50](/episodes/ep-ewBzjVe3LNQ.md#t-01-11-26) [○] (Accusation) **Candace Owens**: ["I do believe that our government was involved in the Charlie Kirk assassination ..."](/statements/statement-27873a676737.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</div>
+<div class="filter-item">
+
+- [01:13:08](/episodes/ep-ewBzjVe3LNQ.md#t-01-12-46) [○] (Accusation) **Candace Owens**: ["Josh Hammer lied and people are going out of their way to protect him"](/statements/statement-efaab0fb4d52.md)
   - About: [Josh Hammer](/entities/person-josh-hammer.md)
+
+</div>
+</details>
+
+<details>
+<summary><strong>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283</strong> (29)</summary>
+
+<div class="filter-item">
+
+- [00:00:24](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00) [○] (Accusation) **Candace Owens**: ["Ben Shapiro had no allegiance to Charlie Kirk when he was alive"](/statements/statement-239322b040f4.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:02:04](/episodes/ep-w1oqQbR_bYs.md#t-00-01-51) [○] (Claim) **Candace Owens**: ["Ben Shapiro sent an intern to confront Candace Owens on stage at the Dallas YWLS..."](/statements/statement-ccf7b1277237.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Young Women's Leadership Summit](/entities/org-ywls.md)
+
+</div>
+<div class="filter-item">
+
+- [00:02:14](/episodes/ep-w1oqQbR_bYs.md#t-00-01-51) [○] (Accusation) **Candace Owens**: ["Ben Shapiro worked behind the scenes to have Jewish donors threaten Charlie Kirk..."](/statements/statement-2443f85d69f9.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:02:39](/episodes/ep-w1oqQbR_bYs.md#t-00-02-30) [○] (Accusation) **Candace Owens**: ["Ben Shapiro paid an offensive amount of money to be part of AmFest 2024"](/statements/statement-196a937c330b.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Turning Point USA](/entities/org-turning-point-usa.md), [America Fest](/entities/event-america-fest.md)
+
+</div>
+<div class="filter-item">
+
+- [00:02:57](/episodes/ep-w1oqQbR_bYs.md#t-00-02-30) [○] (Accusation) **Candace Owens**: ["Ben Shapiro worked with Bari Weiss to have an article published claiming TPUSA b..."](/statements/statement-52ac3b9164b8.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Bari Weiss](/entities/person-bari-weiss.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:14](/episodes/ep-w1oqQbR_bYs.md#t-00-09-55) [○] (Accusation) **Candace Owens**: ["Ben Shapiro scheduled an interview with Thomas Sowell specifically to hurt Canda..."](/statements/statement-68d706432609.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Thomas Sowell](/entities/person-thomas-sowell.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:42](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00) [○] (Accusation) **Candace Owens**: ["The Daily Wire humiliated Candace Owens by hosting 300 employees at a town hall ..."](/statements/statement-482d3b0e4ebc.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:16:56](/episodes/ep-w1oqQbR_bYs.md#t-00-16-24) [○] (Claim) **Candace Owens**: ["Ben Shapiro has issued three court proceedings against Candace Owens for petty i..."](/statements/statement-7df37740e4d6.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:26](/episodes/ep-w1oqQbR_bYs.md#t-00-17-08) [○] (Claim) **Candace Owens**: ["Ben Shapiro sued Candace Owens for interviewing a USS Liberty survivor who menti..."](/statements/statement-199a3e06bdfb.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [USS Liberty incident](/entities/event-uss-liberty-incident.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:16](/episodes/ep-w1oqQbR_bYs.md#t-00-17-44) [○] (Accusation) **Candace Owens**: ["Ben Shapiro staffs audiences with people who work for YAF who are told to explod..."](/statements/statement-3eb9a38e3071.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:31](/episodes/ep-w1oqQbR_bYs.md#t-00-23-20) [○] (Claim) **Candace Owens**: ["Ben Shapiro's father writes under the pen name Hank Berrien at The Daily Wire"](/statements/statement-7de014dde600.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Hank Berrien](/entities/person-hank-berrien.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:05](/episodes/ep-w1oqQbR_bYs.md#t-00-25-01) [○] (Opinion) **Tucker Carlson**: ["Charlie Kirk died for his belief in free debate and giving people platforms to s..."](/statements/statement-dccdb57ef266.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:07](/episodes/ep-w1oqQbR_bYs.md#t-00-25-01) [○] (Claim) **Tucker Carlson**: ["Charlie Kirk spent the last several months of his life under immense pressure fr..."](/statements/statement-5e3f12bf081d.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:26:49](/episodes/ep-w1oqQbR_bYs.md#t-00-26-46) [○] (Claim) **Candace Owens**: ["Jewish people were in control of the slave trade"](/statements/statement-af4d843fd91b.md)
+  - About: [Zionism](/entities/concept-zionism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:30:49](/episodes/ep-w1oqQbR_bYs.md#t-00-30-16) [○] (Accusation) **Candace Owens**: ["Ben Shapiro knows something about Erika Kirk that he is fearful will come out"](/statements/statement-3df10f2d2cce.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:31:54](/episodes/ep-w1oqQbR_bYs.md#t-00-31-41) [○] (Claim) **Candace Owens**: ["Fort Huachuca has ties to Liberty University where you can attend classes and ac..."](/statements/statement-4a1ea3561680.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Liberty University](/entities/org-liberty-university.md)
+
+</div>
+<div class="filter-item">
+
+- [00:34:20](/episodes/ep-w1oqQbR_bYs.md#t-00-33-40) [○] (Claim) **Candace Owens**: ["The 702 call sign on military flights may reference Las Vegas area code"](/statements/statement-9f738f51f413.md)
+  - About: [Las Vegas](/entities/gpe-las-vegas.md)
+
+</div>
+<div class="filter-item">
+
+- [00:34:49](/episodes/ep-w1oqQbR_bYs.md#t-00-34-25) [○] (Claim) **Candace Owens**: ["Candace Owens verified all aspects of witness Mitch's story including his call l..."](/statements/statement-83ee7fdd0e12.md)
+  - About: [Mitch](/entities/person-mitch-fort-huachuca-witness.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:17](/episodes/ep-w1oqQbR_bYs.md#t-00-35-37) [○] (Claim) **Candace Owens**: ["Mark Amodei missed two roll calls in the morning on September 9th and was only p..."](/statements/statement-1708c00a71da.md)
+  - About: [Mark Amodei](/entities/person-mark-amodei.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
+
+</div>
+<div class="filter-item">
+
+- [00:37:47](/episodes/ep-w1oqQbR_bYs.md#t-00-37-03) [○] (Claim) **Candace Owens**: ["Brian Harpole could have made it to Fort Huachuca for the early morning meeting ..."](/statements/statement-712747817fac.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:40:39](/episodes/ep-w1oqQbR_bYs.md#t-00-40-26) [○] (Accusation) **Candace Owens**: ["Erika Kirk lied about having not dated anybody before Charlie Kirk"](/statements/statement-d680b6a6dcdb.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:41:32](/episodes/ep-w1oqQbR_bYs.md#t-00-41-05) [○] (Claim) **Candace Owens**: ["The surgeon said the frangible bullet suggestion was made on a three-way call wi..."](/statements/statement-997a2b519d2a.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+</div>
+<div class="filter-item">
+
+- [00:42:19](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49) [○] (Claim) **Candace Owens**: ["Witness Mitch identified Cabot Phillips as the person he saw at Fort Huachuca on..."](/statements/statement-113b092b6b74.md)
+  - About: [Mitch](/entities/person-mitch-fort-huachuca-witness.md), [Cabot Phillips](/entities/person-cabot-phillips.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:42:59](/episodes/ep-w1oqQbR_bYs.md#t-00-42-27) [○] (Claim) **Candace Owens**: ["Cabot Phillips is missing from the Morning Wire show from September 4th to Septe..."](/statements/statement-88ef12af870f.md)
+  - About: [Cabot Phillips](/entities/person-cabot-phillips.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+</div>
+<div class="filter-item">
+
+- [00:43:36](/episodes/ep-w1oqQbR_bYs.md#t-00-43-06) [○] (Claim) **Candace Owens**: ["Cabot Phillips' father is taking a lot of money from the Adelsons and is a neoco..."](/statements/statement-ac23843213dd.md)
+  - About: [Cabot Phillips](/entities/person-cabot-phillips.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:04](/episodes/ep-w1oqQbR_bYs.md#t-00-43-46) [○] (Claim) **Candace Owens**: ["Erika Kirk previously dated Cabot Phillips, a Daily Wire employee, in 2017"](/statements/statement-b153bb3657cc.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Cabot Phillips](/entities/person-cabot-phillips.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:45](/episodes/ep-w1oqQbR_bYs.md#t-00-44-30) [○] (Claim) **Candace Owens**: ["Erika Kirk is half Jewish according to her cousin Nicole Rothstein"](/statements/statement-86cb14abbe01.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Nicole Rothstein](/entities/person-nicole-rothstein.md)
+
+</div>
+<div class="filter-item">
+
+- [00:46:11](/episodes/ep-w1oqQbR_bYs.md#t-00-45-57) [○] (Claim) **Candace Owens**: ["Fort Huachuca is involved in lawsuits and sworn affidavits regarding 9-11 regard..."](/statements/statement-81307478a879.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [9/11](/entities/event-9-11.md)
+
+</div>
+<div class="filter-item">
+
+- [01:00:59](/episodes/ep-w1oqQbR_bYs.md#t-01-00-35) [○] (Claim) **Candace Owens**: ["Charlie Kirk knew he was going to die"](/statements/statement-ca52218506be.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 </details>
@@ -17387,4 +18163,4 @@ _1376 statements extracted from podcast episodes._
 
 ---
 
-*Generated: 2025-12-19 14:01:04*
+*Generated: 2025-12-29 15:38:35*

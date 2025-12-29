@@ -1,6 +1,6 @@
 ---
 title: "Brigitte Macron"
-description: "Brigitte Macron (People) - 171 mentions"
+description: "Brigitte Macron (People) - 174 mentions"
 id: "person-brigitte-macron"
 type: "PERSON"
 aliases:
@@ -18,6 +18,20 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3 mentions)</summary>
+
+**[00:57:58](/episodes/ep-9k2xrAC0H88.md#ent-person-brigitte-macron-t-00-57-41)**
+> "he still thinks that Brigitte Macron is a woman who just doesn't want to release any photos"
+
+**[00:57:53](/episodes/ep-9k2xrAC0H88.md#ent-person-brigitte-macron-t-00-57-41)**
+> "I mean, he still thinks that Brigitte Macron is a woman who just doesn't want to release any p..."
+
+**[00:57:53](/episodes/ep-9k2xrAC0H88.md#ent-person-brigitte-macron-t-00-57-41)**
+> "...he still thinks that Brigitte Macron is a woman who just doesn't want to release any p..."
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (12 mentions)</summary>

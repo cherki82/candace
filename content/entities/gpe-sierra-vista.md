@@ -56,7 +56,7 @@ _Type: Places_
 <summary>Location Of (1)</summary>
 
 - **[Mitch](/entities/person-mitch-fort-huachuca-witness.md)**
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:47:42](/episodes/ep-ewBzjVe3LNQ.md#t-00-47-33): "Yeah, I get down to the base for those that think that people can't get on base...I certainly did."
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:47:42](/episodes/ep-ewBzjVe3LNQ.md#t-00-47-31): "Yeah, I get down to the base for those that think that people can't get on base...I certainly did."
 
 </details>
 
@@ -72,7 +72,7 @@ _Type: Places_
 <summary>Referenced By (3)</summary>
 
 - **[Mitch](/entities/person-mitch-fort-huachuca-witness.md)** based in this
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:47:42](/episodes/ep-ewBzjVe3LNQ.md#t-00-47-33)
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:47:42](/episodes/ep-ewBzjVe3LNQ.md#t-00-47-31)
 
 - **[Mitch](/entities/person-mitch-fort-huachuca-witness.md)** lives in this
   - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:13:02](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28)

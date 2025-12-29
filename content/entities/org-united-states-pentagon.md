@@ -1,6 +1,6 @@
 ---
 title: "United States Pentagon"
-description: "United States Pentagon (Organizations) - 24 mentions"
+description: "United States Pentagon (Organizations) - 28 mentions"
 id: "org-united-states-pentagon"
 type: "ORG"
 aliases:
@@ -16,6 +16,23 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (4 mentions)</summary>
+
+**[00:35:11](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-pentagon-t-00-34-40)**
+> "military generals at the Pentagon, such as the Joint Chiefs of Staff"
+
+**[00:35:11](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-pentagon-t-00-34-40)**
+> "... and military generals at the Pentagon, such as the Joint Chiefs of Staff."
+
+**[00:35:11](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-pentagon-t-00-34-40)**
+> "...als, and military generals at the Pentagon, such as the Joint Chiefs of Staff."
+
+**[00:44:52](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-pentagon-t-00-44-50)**
+> "...ies to be that this is like a Pentagon level meeting."
+
+</details>
 
 <details>
 <summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (2 mentions)</summary>

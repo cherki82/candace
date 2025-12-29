@@ -1,6 +1,6 @@
 ---
 title: "HIPAA"
-description: "HIPAA (Laws & Legislation) - 2 mentions"
+description: "HIPAA (Laws & Legislation) - 5 mentions"
 id: "law-hipaa"
 type: "LAW"
 aliases:
@@ -16,6 +16,20 @@ _Type: Laws & Legislation_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3 mentions)</summary>
+
+**[00:04:25](/episodes/ep-9k2xrAC0H88.md#ent-law-hipaa-t-00-04-09)**
+> "First off, HIPAA compliance"
+
+**[00:04:25](/episodes/ep-9k2xrAC0H88.md#ent-law-hipaa-t-00-04-09)**
+> "First off, HIPAA compliance."
+
+**[00:05:31](/episodes/ep-9k2xrAC0H88.md#ent-law-hipaa-t-00-05-31)**
+> "...ike, you know, he's violating HIPAA to get this information out there in this very hi..."
+
+</details>
 
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2 mentions)</summary>

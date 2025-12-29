@@ -151,7 +151,7 @@ _Type: People_
 <summary>Met With (1)</summary>
 
 - **[Mitch](/entities/person-mitch-fort-huachuca-witness.md)**
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:01:57](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-50): "This is, and Skyler, someone's got to get in my ears, I'm blanking on his name, Mark Amodi...That's 95. I'm absolutely, you know, after I've looked at it, that's, yeah, that was definitely the guy."
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:01:57](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-19): "This is, and Skyler, someone's got to get in my ears, I'm blanking on his name, Mark Amodi...That's 95. I'm absolutely, you know, after I've looked at it, that's, yeah, that was definitely the guy."
 
 </details>
 
@@ -173,7 +173,7 @@ _Type: People_
   - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:14:40](/episodes/ep-LATnak75Si0.md#t-00-14-30)
 
 - **[Mitch](/entities/person-mitch-fort-huachuca-witness.md)** met with this
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:01:57](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-50)
+  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:01:57](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-19)
 
 - **[New York City](/entities/gpe-new-york-city.md)** ran against this
   - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:00:06](/episodes/ep-LATnak75Si0.md#t-00-00-00)
@@ -191,7 +191,7 @@ _Type: People_
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
 
-- [01:01:07](/episodes/ep-ewBzjVe3LNQ.md#t-01-00-24) (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["I am 95 percent certain that I saw Zohran Mamdani at Fort Huachuca on ..."](/statements/statement-958dde69f981.md)
+- [01:01:07](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-05) (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["I am 95 percent certain that I saw Zohran Mamdani at Fort Huachuca on ..."](/statements/statement-958dde69f981.md)
   - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </details>

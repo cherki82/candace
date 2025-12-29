@@ -1,6 +1,6 @@
 ---
 title: "Timpanogos Regional Hospital"
-description: "Timpanogos Regional Hospital (Organizations) - 9 mentions"
+description: "Timpanogos Regional Hospital (Organizations) - 11 mentions"
 id: "org-timpanogos-regional-hospital"
 type: "ORG"
 aliases:
@@ -15,6 +15,17 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
+
+**[00:08:33](/episodes/ep-9k2xrAC0H88.md#ent-org-timpanogos-regional-hospital-t-00-08-09)**
+> "Charlie gets transported to Timpanogos Hospital"
+
+**[00:08:33](/episodes/ep-9k2xrAC0H88.md#ent-org-timpanogos-regional-hospital-t-00-08-09)**
+> "...now I keep saying this wrong, Timpanogos Hospital."
+
+</details>
 
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (3 mentions)</summary>
@@ -89,7 +100,15 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Timpanogos Regional Hospital (2)</strong></summary>
+<summary><strong class="section-title">Statements about Timpanogos Regional Hospital (3)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
+
+- [00:07:37](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-59) (Claim) **Candace Owens**: ["The vehicle in which Charlie Kirk was transported to Timpanogos Hospit..."](/statements/statement-109d55c23422.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1)</summary>

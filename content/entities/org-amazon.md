@@ -1,6 +1,6 @@
 ---
 title: "Amazon"
-description: "Amazon (Organizations) - 23 mentions"
+description: "Amazon (Organizations) - 25 mentions"
 id: "org-amazon"
 type: "ORG"
 aliases:
@@ -16,6 +16,17 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
+
+**[00:50:25](/episodes/ep-w1oqQbR_bYs.md#ent-org-amazon-t-00-50-07)**
+> "if you would like to purchase my book for Christmas, you can do so on Amazon"
+
+**[00:50:25](/episodes/ep-w1oqQbR_bYs.md#ent-org-amazon-t-00-50-07)**
+> "...r Christmas, you can do so on Amazon now."
+
+</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>

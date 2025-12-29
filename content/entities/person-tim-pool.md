@@ -1,6 +1,6 @@
 ---
 title: "Tim Pool"
-description: "Tim Pool (People) - 38 mentions"
+description: "Tim Pool (People) - 40 mentions"
 id: "person-tim-pool"
 type: "PERSON"
 aliases:
@@ -15,6 +15,17 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
+
+**[00:52:07](/episodes/ep-9k2xrAC0H88.md#ent-person-tim-pool-t-00-51-55)**
+> "And then when you see like Tim Pool and Nick Fuentes, Candace is over"
+
+**[00:52:04](/episodes/ep-9k2xrAC0H88.md#ent-person-tim-pool-t-00-51-55)**
+> "And then when you see like Tim Pool and Nick Fuentes, Candace is over."
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2 mentions)</summary>

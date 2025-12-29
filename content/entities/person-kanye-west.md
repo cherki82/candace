@@ -1,6 +1,6 @@
 ---
 title: "Kanye West"
-description: "Kanye West (People) - 98 mentions"
+description: "Kanye West (People) - 101 mentions"
 id: "person-kanye-west"
 type: "PERSON"
 aliases:
@@ -17,6 +17,20 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3 mentions)</summary>
+
+**[00:16:18](/episodes/ep-w1oqQbR_bYs.md#ent-person-kanye-west-t-00-15-40)**
+> "it was pertaining to Kanye"
+
+**[00:16:18](/episodes/ep-w1oqQbR_bYs.md#ent-person-kanye-west-t-00-15-40)**
+> "And it was pertaining to Kanye."
+
+**[00:56:44](/episodes/ep-w1oqQbR_bYs.md#ent-person-kanye-west-t-00-56-24)**
+> "Kanye was right."
+
+</details>
 
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (4 mentions)</summary>

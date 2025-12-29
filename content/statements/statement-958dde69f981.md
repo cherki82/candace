@@ -26,7 +26,7 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md)
-**Timestamp:** [01:01:07](/episodes/ep-ewBzjVe3LNQ.md#t-01-00-24) 
+**Timestamp:** [01:01:07](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-05) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3667);return false;">Play</a>
 
 > Yeah, that's the one I walked closest to. That's one I walked closest to you. That's 95. I'm absolutely, you know, after I've looked at it, that's, yeah, that was definitely the guy.

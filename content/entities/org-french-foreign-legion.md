@@ -1,6 +1,6 @@
 ---
 title: "French Foreign Legion"
-description: "French Foreign Legion (Organizations) - 27 mentions"
+description: "French Foreign Legion (Organizations) - 29 mentions"
 id: "org-french-foreign-legion"
 type: "ORG"
 aliases:
@@ -17,6 +17,17 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
+
+**[00:58:20](/episodes/ep-9k2xrAC0H88.md#ent-org-french-foreign-legion-t-00-58-24)**
+> "I have evidence the French Legion was on the ground that day"
+
+**[00:58:31](/episodes/ep-9k2xrAC0H88.md#ent-org-french-foreign-legion-t-00-58-24)**
+> "I have evidence the French Legion was on the ground that day."
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>

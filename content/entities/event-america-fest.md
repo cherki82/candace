@@ -1,6 +1,6 @@
 ---
 title: "America Fest"
-description: "America Fest (Events) - 10 mentions"
+description: "America Fest (Events) - 14 mentions"
 id: "event-america-fest"
 type: "EVENT"
 aliases:
@@ -17,6 +17,23 @@ _Type: Events_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (4 mentions)</summary>
+
+**[00:01:14](/episodes/ep-w1oqQbR_bYs.md#ent-event-america-fest-t-00-00-42)**
+> "Turning Point USA's AmFest"
+
+**[00:01:14](/episodes/ep-w1oqQbR_bYs.md#ent-event-america-fest-t-00-00-42)**
+> "... stage at Turning Point USA's AmFest the other night."
+
+**[00:01:18](/episodes/ep-w1oqQbR_bYs.md#ent-event-america-fest-t-00-01-18)**
+> "...noticed that he wasn't on the AmFest list for years and all of a sudden he's back on t..."
+
+**[00:02:30](/episodes/ep-w1oqQbR_bYs.md#ent-event-america-fest-t-00-02-30)**
+> "...ount of money to be a part of AmFest."
+
+</details>
 
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1 mentions)</summary>
@@ -83,7 +100,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about America Fest (2)</strong></summary>
+<summary><strong class="section-title">Statements about America Fest (3)</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
+
+- [00:02:39](/episodes/ep-w1oqQbR_bYs.md#t-00-02-30) (Accusation) **Candace Owens**: ["Ben Shapiro paid an offensive amount of money to be part of AmFest 202..."](/statements/statement-196a937c330b.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1)</summary>

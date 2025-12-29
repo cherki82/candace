@@ -21026,7 +21026,7 @@ _Total events: 532_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachu... @ 00:37:31](/episodes/ep-ewBzjVe3LNQ.md#t-00-37-30)
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachu... @ 00:37:31](/episodes/ep-ewBzjVe3LNQ.md#t-00-37-20)
 
 </details>
 </div>
@@ -28098,7 +28098,7 @@ _Total events: 532_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachu... @ 00:36:39](/episodes/ep-ewBzjVe3LNQ.md#t-00-36-05)
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachu... @ 00:36:39](/episodes/ep-ewBzjVe3LNQ.md#t-00-36-34)
 
 </details>
 </div>
@@ -30878,7 +30878,7 @@ _Total events: 532_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachu... @ 00:36:32](/episodes/ep-ewBzjVe3LNQ.md#t-00-36-05)
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachu... @ 00:36:32](/episodes/ep-ewBzjVe3LNQ.md#t-00-35-51)
 
 </details>
 </div>

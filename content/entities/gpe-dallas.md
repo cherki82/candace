@@ -1,6 +1,6 @@
 ---
 title: "Dallas"
-description: "Dallas (Places) - 7 mentions"
+description: "Dallas (Places) - 12 mentions"
 id: "gpe-dallas"
 type: "GPE"
 ---
@@ -11,6 +11,31 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
+
+**[00:01:51](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-dallas-t-00-01-51)**
+> "I was going to speak in Dallas at their YWLS convention"
+
+**[00:01:51](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-dallas-t-00-01-51)**
+> "...ut as I was going to speak in Dallas at their YWLS convention that Ben had sent an int..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3 mentions)</summary>
+
+**[00:46:57](/episodes/ep-9k2xrAC0H88.md#ent-gpe-dallas-t-00-46-51)**
+> "before continuing down to Dallas getting there very early into Dallas early morning"
+
+**[00:46:57](/episodes/ep-9k2xrAC0H88.md#ent-gpe-dallas-t-00-46-51)**
+> "...7th before continuing down to Dallas getting there very early into Dallas early mornin..."
+
+**[00:46:57](/episodes/ep-9k2xrAC0H88.md#ent-gpe-dallas-t-00-46-51)**
+> "...getting there very early into Dallas early morning, very early morning on the 8th."
+
+</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
@@ -59,5 +84,18 @@ _Type: Places_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Dallas (1)</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
+
+- [00:02:04](/episodes/ep-w1oqQbR_bYs.md#t-00-01-51) (Claim) **Candace Owens**: ["Ben Shapiro sent an intern to confront Candace Owens on stage at the D..."](/statements/statement-ccf7b1277237.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Young Women's Leadership Summit](/entities/org-ywls.md)
+
+</details>
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "Charlie Kirk assassination"
-description: "Charlie Kirk assassination (Events) - 231 mentions"
+description: "Charlie Kirk assassination (Events) - 234 mentions"
 id: "event-charlie-kirk-assassination"
 type: "EVENT"
 aliases:
@@ -18,6 +18,22 @@ _Type: Events_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
+
+**[00:45:41](/episodes/ep-w1oqQbR_bYs.md#t-00-45-12)**
+> "that Israel's got something to do with killing Charlie Kirk"
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>
+
+**[00:02:25](/episodes/ep-9k2xrAC0H88.md#ent-event-charlie-kirk-assassination-t-00-02-01)**
+> "...deral prints are all over the Charlie Kirk assassination story, okay?"
+
+</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (5 mentions)</summary>
@@ -944,13 +960,35 @@ _Type: Events_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk assassination (109)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk assassination (119)</strong></summary>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (11)</summary>
 
-- [01:11:45](/episodes/ep-ewBzjVe3LNQ.md#t-01-11-14) (Opinion) **Candace Owens**: ["I do believe that our government was involved in this and is involved ..."](/statements/statement-69914990950d.md)
+- [00:04:28](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-13) (Claim) **Candace Owens**: ["The lone confirmed eyewitness to the alleged shooter on the Losey Cent..."](/statements/statement-07a11f812a7d.md)
+
+- [00:05:05](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-54) (Claim) **Candace Owens**: ["The eyewitness claims the weapon he saw looked more like a .223, somet..."](/statements/statement-55e79a721200.md)
+
+- [00:05:13](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-54) (Claim) **Candace Owens**: ["The person observed on the rooftop was wearing black tactical gear plu..."](/statements/statement-971650dfc88f.md)
+
+- [00:05:22](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-54) (Claim) **Candace Owens**: ["The bomb dogs were unable to locate the weapon in the field where it w..."](/statements/statement-9c4ddf0d0ff0.md)
+
+- [00:05:45](/episodes/ep-ewBzjVe3LNQ.md#t-00-05-35) (Claim) **Candace Owens**: ["Federal agents directed local officers to the weapon rather than the c..."](/statements/statement-d6bc3e541f55.md)
+
+- [00:06:03](/episodes/ep-ewBzjVe3LNQ.md#t-00-05-35) (Claim) **Candace Owens**: ["The canines were not provided with the scent of the weapon once it was..."](/statements/statement-45dd12dab038.md)
+
+- [00:07:19](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-59) (Claim) **Candace Owens**: ["Federal agents removed the hospital surveillance footage"](/statements/statement-442420ec2f82.md)
+
+- [00:07:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-07-39) (Claim) **Candace Owens**: ["There were multiple sets of fingerprints on the weapon that was found,..."](/statements/statement-b7fe2b123ba2.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:53:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-52-38) (Claim) **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["Authorities at Fort Huachuca kept asking about the next 24 hours and w..."](/statements/statement-83f8b5f3882a.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+- [01:11:45](/episodes/ep-ewBzjVe3LNQ.md#t-01-11-26) (Opinion) **Candace Owens**: ["I do believe that our government was involved in this and is involved ..."](/statements/statement-69914990950d.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [01:11:50](/episodes/ep-ewBzjVe3LNQ.md#t-01-11-26) (Accusation) **Candace Owens**: ["I do believe that our government was involved in the Charlie Kirk assa..."](/statements/statement-27873a676737.md)
 
 </details>
 

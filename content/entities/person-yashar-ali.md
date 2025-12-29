@@ -1,6 +1,6 @@
 ---
 title: "Yashar Ali"
-description: "Yashar Ali (People) - 3 mentions"
+description: "Yashar Ali (People) - 5 mentions"
 id: "person-yashar-ali"
 type: "PERSON"
 ---
@@ -11,6 +11,17 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
+
+**[00:04:05](/episodes/ep-w1oqQbR_bYs.md#ent-person-yashar-ali-t-00-03-53)**
+> "shared by Yashar Ali on X"
+
+**[00:04:05](/episodes/ep-w1oqQbR_bYs.md#ent-person-yashar-ali-t-00-03-53)**
+> "... when I saw this as shared by Yashar Ali on X, I responded and I said that genocidal langu..."
+
+</details>
 
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (3 mentions)</summary>

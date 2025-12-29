@@ -1,6 +1,6 @@
 ---
 title: "Blake Neff"
-description: "Blake Neff (People) - 71 mentions"
+description: "Blake Neff (People) - 82 mentions"
 id: "person-blake-neff"
 type: "PERSON"
 aliases:
@@ -16,6 +16,49 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (8 mentions)</summary>
+
+**[00:19:05](/episodes/ep-w1oqQbR_bYs.md#ent-person-blake-neff-t-00-19-05)**
+> "Andrew Kolvet, and Blake Neff"
+
+**[00:19:05](/episodes/ep-w1oqQbR_bYs.md#ent-person-blake-neff-t-00-19-05)**
+> "...McCoy, and Andrew Kolvet, and Blake Neff, and Tyler Bowyer, and yes, at Erika Kirk, and to..."
+
+**[00:19:05](/episodes/ep-w1oqQbR_bYs.md#ent-person-blake-neff-t-00-19-05)**
+> "... and Andrew Kolvet, and Blake Neff, and Tyler Bowyer, and yes, at Erika Kirk, and to..."
+
+**[00:32:19](/episodes/ep-w1oqQbR_bYs.md#ent-person-blake-neff-t-00-32-19)**
+> "...s a meeting. We verified that Blake Neff, I mean, I'm sorry, not Blake Neff. Pardon me, Ca..."
+
+**[00:32:19](/episodes/ep-w1oqQbR_bYs.md#ent-person-blake-neff-t-00-32-19)**
+> "... Neff, I mean, I'm sorry, not Blake Neff. Pardon me, Captain Neff was there, the one that ..."
+
+**[00:32:19](/episodes/ep-w1oqQbR_bYs.md#ent-person-blake-neff-t-00-32-19)**
+> "...eting. We verified that Blake Neff, I mean, I'm sorry, not Blake Neff. Pardon me, Ca..."
+
+**[00:32:19](/episodes/ep-w1oqQbR_bYs.md#ent-person-blake-neff-t-00-32-19)**
+> "... I mean, I'm sorry, not Blake Neff. Pardon me, Captain Neff was there, the one that ..."
+
+**[00:32:19](/episodes/ep-w1oqQbR_bYs.md#ent-person-blake-neff-t-00-32-19)**
+> "...lake Neff. Pardon me, Captain Neff was there, the one that he says was nice. But he ..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3 mentions)</summary>
+
+**[01:00:06](/episodes/ep-9k2xrAC0H88.md#ent-person-blake-neff-t-00-59-52)**
+> "It makes Blake Neff's story especially weird"
+
+**[01:00:12](/episodes/ep-9k2xrAC0H88.md#ent-person-blake-neff-t-00-59-52)**
+> "But why would he say that to Blake Neff if he's on the phone with his wife?"
+
+**[01:00:12](/episodes/ep-9k2xrAC0H88.md#ent-person-blake-neff-t-00-59-52)**
+> "...hy would he say that to Blake Neff if he's on the phone with his wife?"
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4 mentions)</summary>

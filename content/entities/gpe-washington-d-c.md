@@ -1,6 +1,6 @@
 ---
 title: "Washington, D.C."
-description: "Washington, D.C. (Places) - 8 mentions"
+description: "Washington, D.C. (Places) - 14 mentions"
 id: "gpe-washington-d-c"
 type: "GPE"
 aliases:
@@ -17,6 +17,29 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (6 mentions)</summary>
+
+**[00:35:25](/episodes/ep-w1oqQbR_bYs.md#t-00-34-58)**
+> "I was returning to Washington DC"
+
+**[00:35:25](/episodes/ep-w1oqQbR_bYs.md#t-00-34-58)**
+> "...I was returning to Washington DC from my district and voting on the floor of the H..."
+
+**[00:36:36](/episodes/ep-w1oqQbR_bYs.md#t-00-36-19)**
+> "...ims to have been traveling to DC from his district on September 8th."
+
+**[00:36:45](/episodes/ep-w1oqQbR_bYs.md#t-00-36-19)**
+> "...n mid afternoon on the 9th in DC."
+
+**[00:36:52](/episodes/ep-w1oqQbR_bYs.md#t-00-36-19)**
+> "...me for the third roll call in DC."
+
+**[01:00:32](/episodes/ep-w1oqQbR_bYs.md#t-00-59-53)**
+> "I hate everybody that's in DC."
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
@@ -70,5 +93,18 @@ _Type: Places_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Washington, D.C. (1)</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
+
+- [00:36:17](/episodes/ep-w1oqQbR_bYs.md#t-00-35-37) (Claim) **Candace Owens**: ["Mark Amodei missed two roll calls in the morning on September 9th and ..."](/statements/statement-1708c00a71da.md)
+  - Also about: [Mark Amodei](/entities/person-mark-amodei.md)
+
+</details>
 
 </details>

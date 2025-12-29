@@ -26,7 +26,7 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md)
-**Timestamp:** [00:56:34](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-00) 
+**Timestamp:** [00:56:34](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-15) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3394);return false;">Play</a>
 
 > Ninety-five to ninety-nine. When I saw him, you know, on the interview with his face and gestures, I, yeah, with that photo, it struck me in my gut.

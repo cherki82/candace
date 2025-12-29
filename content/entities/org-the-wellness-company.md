@@ -1,6 +1,6 @@
 ---
 title: "The Wellness Company"
-description: "The Wellness Company (Organizations) - 28 mentions"
+description: "The Wellness Company (Organizations) - 31 mentions"
 id: "org-the-wellness-company"
 type: "ORG"
 ---
@@ -11,6 +11,20 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3 mentions)</summary>
+
+**[00:28:18](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-wellness-company-t-00-28-09)**
+> "reminding you guys about the wellness company"
+
+**[00:28:09](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-wellness-company-t-00-28-09)**
+> "Also reminding you guys about the wellness company, because what if the sore throat and fever that h..."
+
+**[00:28:18](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-wellness-company-t-00-28-09)**
+> "...ur medical emergency kit from the wellness company, match your symptoms to the doctor recommended gu..."
+
+</details>
 
 <details>
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>

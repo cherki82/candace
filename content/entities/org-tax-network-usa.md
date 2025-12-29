@@ -1,6 +1,6 @@
 ---
 title: "Tax Network USA"
-description: "Tax Network USA (Organizations) - 24 mentions"
+description: "Tax Network USA (Organizations) - 33 mentions"
 id: "org-tax-network-usa"
 type: "ORG"
 ---
@@ -11,6 +11,26 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (5 mentions)</summary>
+
+**[00:29:21](/episodes/ep-w1oqQbR_bYs.md#ent-org-tax-network-usa-t-00-28-53)**
+> "Tax Network USA, because maybe you owe back taxes"
+
+**[00:29:14](/episodes/ep-w1oqQbR_bYs.md#ent-org-tax-network-usa-t-00-28-53)**
+> "And reminding you guys about Tax Network USA, because maybe you owe back taxes, you've not fil..."
+
+**[00:29:49](/episodes/ep-w1oqQbR_bYs.md#ent-org-tax-network-usa-t-00-29-34)**
+> "Right now, Tax Network USA is offering a completely free IRS research and di..."
+
+**[00:30:12](/episodes/ep-w1oqQbR_bYs.md#ent-org-tax-network-usa-t-00-29-34)**
+> "... protected the right way with Tax Network USA."
+
+**[00:30:20](/episodes/ep-w1oqQbR_bYs.md#ent-org-tax-network-usa-t-00-30-16)**
+> "...your free discovery call with Tax Network USA."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (5 mentions)</summary>
@@ -28,6 +48,23 @@ _Type: Organizations_
 > "... protected the right way with Tax Network USA and start the process of settling your tax burden..."
 
 **[00:23:39](/episodes/ep-ewBzjVe3LNQ.md#ent-org-tax-network-usa-t-00-23-39)**
+> "...your free discovery call with Tax Network USA."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (4 mentions)</summary>
+
+**[00:49:54](/episodes/ep-9k2xrAC0H88.md#ent-org-tax-network-usa-t-00-49-44)**
+> "Tax Network USA is offering a completely free IRS research and discovery call"
+
+**[00:49:44](/episodes/ep-9k2xrAC0H88.md#ent-org-tax-network-usa-t-00-49-44)**
+> "Right now, Tax Network USA is offering a completely free IRS research and di..."
+
+**[00:50:07](/episodes/ep-9k2xrAC0H88.md#ent-org-tax-network-usa-t-00-49-44)**
+> "... protected the right way with Tax Network USA."
+
+**[00:50:13](/episodes/ep-9k2xrAC0H88.md#ent-org-tax-network-usa-t-00-49-44)**
 > "...your free discovery call with Tax Network USA."
 
 </details>

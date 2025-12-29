@@ -2,7 +2,7 @@
 title: "Episodes"
 ---
 
-_Total episodes: 49_
+_Total episodes: 50_
 
 <div class="page-filter-container">
   <input type="text" class="page-filter" placeholder="Filter episodes..." autocomplete="off">
@@ -25,6 +25,7 @@ _Total episodes: 49_
 
 ## Week of Dec 15 - 21, 2025
 
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md) — Sat, Dec 20
 - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md) — Thu, Dec 18
 - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md) — Wed, Dec 17
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md) — Tue, Dec 16

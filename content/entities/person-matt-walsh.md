@@ -1,6 +1,6 @@
 ---
 title: "Matt Walsh"
-description: "Matt Walsh (People) - 12 mentions"
+description: "Matt Walsh (People) - 14 mentions"
 id: "person-matt-walsh"
 type: "PERSON"
 ---
@@ -11,6 +11,17 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
+
+**[00:31:18](/episodes/ep-w1oqQbR_bYs.md#ent-person-matt-walsh-t-00-31-00)**
+> "Matt Walsh was, because that's what you do"
+
+**[00:31:12](/episodes/ep-w1oqQbR_bYs.md#ent-person-matt-walsh-t-00-31-00)**
+> "...t invited to go on there, but Matt Walsh was, because that's what you do."
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Preborn"
-description: "Preborn (Organizations) - 90 mentions"
+description: "Preborn (Organizations) - 96 mentions"
 id: "org-preborn"
 type: "ORG"
 ---
@@ -11,6 +11,29 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (6 mentions)</summary>
+
+**[00:27:20](/episodes/ep-w1oqQbR_bYs.md#ent-org-preborn-t-00-26-46)**
+> "double down on supporting life through our partnership with Preborn"
+
+**[00:27:20](/episodes/ep-w1oqQbR_bYs.md#ent-org-preborn-t-00-26-46)**
+> "... through our partnership with Preborn."
+
+**[00:27:30](/episodes/ep-w1oqQbR_bYs.md#ent-org-preborn-t-00-27-30)**
+> "Every day, Preborn's clinics rescue hundreds of babies because when a ..."
+
+**[00:27:50](/episodes/ep-w1oqQbR_bYs.md#ent-org-preborn-t-00-27-30)**
+> "If you've heard about Preborn before and you've not yet taken action, there is ..."
+
+**[00:28:02](/episodes/ep-w1oqQbR_bYs.md#ent-org-preborn-t-00-27-30)**
+> "If you're able to, head to preborn.com slash Candice to give."
+
+**[00:28:06](/episodes/ep-w1oqQbR_bYs.md#ent-org-preborn-t-00-27-30)**
+> "Again, that's preborn.com slash Candice."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (8 mentions)</summary>
@@ -33,10 +56,10 @@ _Type: Organizations_
 **[00:21:22](/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-00-20-44)**
 > "Again, that's preborn.com slash Candace."
 
-**[01:12:29](/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-01-11-59)**
+**[01:12:29](/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-01-12-11)**
 > "I would like to help with Preborn."
 
-**[01:12:35](/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-01-11-59)**
+**[01:12:35](/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-01-12-11)**
 > "Please reach out to Preborn."
 
 </details>

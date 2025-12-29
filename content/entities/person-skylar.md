@@ -1,6 +1,6 @@
 ---
 title: "Skylar"
-description: "Skylar (People) - 32 mentions"
+description: "Skylar (People) - 33 mentions"
 id: "person-skylar"
 type: "PERSON"
 ---
@@ -11,6 +11,14 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
+
+**[00:39:58](/episodes/ep-w1oqQbR_bYs.md#ent-person-skylar-t-00-39-45)**
+> "I get this text message from Skylar"
+
+</details>
 
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (2 mentions)</summary>

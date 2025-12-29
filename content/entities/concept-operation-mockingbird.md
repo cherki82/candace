@@ -1,6 +1,6 @@
 ---
 title: "Operation Mockingbird"
-description: "Operation Mockingbird (Concepts) - 13 mentions"
+description: "Operation Mockingbird (Concepts) - 15 mentions"
 id: "concept-operation-mockingbird"
 type: "CONCEPT"
 aliases:
@@ -15,6 +15,17 @@ _Type: Concepts_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
+
+**[00:55:44](/episodes/ep-9k2xrAC0H88.md#ent-concept-operation-mockingbird-t-00-55-37)**
+> "Operation Mockingbird, everything is not what it seems"
+
+**[00:55:44](/episodes/ep-9k2xrAC0H88.md#ent-concept-operation-mockingbird-t-00-55-37)**
+> "This person writes, Operation Mockingbird, everything is not what it seems."
+
+</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (6 mentions)</summary>

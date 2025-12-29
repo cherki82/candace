@@ -1,6 +1,6 @@
 ---
 title: "Jeremy Boreing"
-description: "Jeremy Boreing (People) - 8 mentions"
+description: "Jeremy Boreing (People) - 9 mentions"
 id: "person-jeremy-boreing"
 type: "PERSON"
 ---
@@ -11,6 +11,14 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
+
+**[00:12:17](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00)**
+> "the then CEO Jeremy Boring"
+
+</details>
 
 <details>
 <summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (7 mentions)</summary>

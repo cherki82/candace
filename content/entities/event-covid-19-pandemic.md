@@ -1,6 +1,6 @@
 ---
 title: "COVID-19 Pandemic"
-description: "COVID-19 Pandemic (Events) - 20 mentions"
+description: "COVID-19 Pandemic (Events) - 23 mentions"
 id: "event-covid-19-pandemic"
 type: "EVENT"
 aliases:
@@ -16,6 +16,20 @@ _Type: Events_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3 mentions)</summary>
+
+**[00:53:43](/episodes/ep-w1oqQbR_bYs.md#ent-event-covid-19-pandemic-t-00-53-34)**
+> "Unaffected COVID"
+
+**[00:28:31](/episodes/ep-w1oqQbR_bYs.md#ent-event-covid-19-pandemic-t-00-28-09)**
+> "...treat over 30 conditions like COVID, strep throat, pneumonia, plus more."
+
+**[00:53:40](/episodes/ep-w1oqQbR_bYs.md#ent-event-covid-19-pandemic-t-00-53-34)**
+> "Unaffected COVID writes, go Max, Candice, go Max."
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (6 mentions)</summary>

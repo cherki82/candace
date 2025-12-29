@@ -1,6 +1,6 @@
 ---
 title: "Bolsheviks"
-description: "Bolsheviks (Concepts) - 4 mentions"
+description: "Bolsheviks (Concepts) - 6 mentions"
 id: "concept-bolsheviks"
 type: "CONCEPT"
 ---
@@ -11,6 +11,17 @@ _Type: Concepts_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
+
+**[00:54:56](/episodes/ep-9k2xrAC0H88.md#ent-concept-bolsheviks-t-00-54-53)**
+> "I think these are the children of Bolsheviks that are in this country"
+
+**[00:54:54](/episodes/ep-9k2xrAC0H88.md#ent-concept-bolsheviks-t-00-54-53)**
+> "...ink these are the children of Bolsheviks that are in this country."
+
+</details>
 
 <details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>

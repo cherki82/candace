@@ -28,13 +28,13 @@ _Type: Places_
 **[00:30:50](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-30-27)**
 > "...s coming through the Douglas, Arizona area."
 
-**[00:33:20](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-33-13)**
+**[00:33:20](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-33-02)**
 > "...d with a friend at, uh, NOCA, Arizona."
 
-**[00:59:29](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-58-54)**
+**[00:59:29](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-59-12)**
 > "...fact that her mother moved to Arizona because she got involved with the military."
 
-**[01:12:31](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-01-11-59)**
+**[01:12:31](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-01-12-11)**
 > "I'm in Arizona and I'm also an ultrasound tech."
 
 </details>
@@ -319,7 +319,7 @@ _Type: Places_
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2)</summary>
 
-- [00:29:11](/episodes/ep-ewBzjVe3LNQ.md#t-00-28-27) (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["We discovered underground tunnel signals that were subterranean, and w..."](/statements/statement-54e2de6e1ea2.md)
+- [00:29:11](/episodes/ep-ewBzjVe3LNQ.md#t-00-28-58) (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["We discovered underground tunnel signals that were subterranean, and w..."](/statements/statement-54e2de6e1ea2.md)
 
 - [00:31:03](/episodes/ep-ewBzjVe3LNQ.md#t-00-30-27) (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["60 to 80% of the cocaine was coming through the Douglas, Arizona area"](/statements/statement-5887c78eaa89.md)
 

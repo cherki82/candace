@@ -1,6 +1,6 @@
 ---
 title: "Operation Valhalla"
-description: "Operation Valhalla (Events) - 7 mentions"
+description: "Operation Valhalla (Events) - 9 mentions"
 id: "event-operation-valhalla"
 type: "EVENT"
 ---
@@ -11,6 +11,17 @@ _Type: Events_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
+
+**[00:43:43](/episodes/ep-9k2xrAC0H88.md#ent-event-operation-valhalla-t-00-43-23)**
+> "It also happens to be the exact date that Operation Valhalla Strike begins between civilians and the military"
+
+**[00:43:37](/episodes/ep-9k2xrAC0H88.md#ent-event-operation-valhalla-t-00-43-23)**
+> "...ens to be the exact date that Operation Valhalla Strike begins between civilians and the military."
+
+</details>
 
 <details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>

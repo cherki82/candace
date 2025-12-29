@@ -1,6 +1,6 @@
 ---
 title: "California"
-description: "California (Places) - 29 mentions"
+description: "California (Places) - 31 mentions"
 id: "gpe-california"
 type: "GPE"
 ---
@@ -11,6 +11,17 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
+
+**[00:29:37](/episodes/ep-9k2xrAC0H88.md#ent-gpe-california-t-00-28-53)**
+> "the owner of the company was in California at the time"
+
+**[00:29:33](/episodes/ep-9k2xrAC0H88.md#ent-gpe-california-t-00-28-53)**
+> "...e owner of the company was in California at the time."
+
+</details>
 
 <details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>

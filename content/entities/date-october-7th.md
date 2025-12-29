@@ -1,6 +1,6 @@
 ---
 title: "October 7th"
-description: "October 7th (Dates) - 11 mentions"
+description: "October 7th (Dates) - 15 mentions"
 id: "date-october-7th"
 type: "DATE"
 aliases:
@@ -15,6 +15,28 @@ _Type: Dates_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
+
+**[00:03:28](/episodes/ep-w1oqQbR_bYs.md#ent-date-october-7th-t-00-03-11)**
+> "The story begins in 2023, shortly after October 7th"
+
+**[00:03:28](/episodes/ep-w1oqQbR_bYs.md#ent-date-october-7th-t-00-03-11)**
+> "...begins in 2023, shortly after October 7th."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
+
+**[00:33:12](/episodes/ep-9k2xrAC0H88.md#ent-date-october-7th-t-00-33-09)**
+> "I saw them after October 7th"
+
+**[00:33:12](/episodes/ep-9k2xrAC0H88.md#ent-date-october-7th-t-00-33-09)**
+> "I saw them after October 7th."
+
+</details>
 
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1 mentions)</summary>

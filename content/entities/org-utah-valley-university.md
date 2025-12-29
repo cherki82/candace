@@ -1,6 +1,6 @@
 ---
 title: "Utah Valley University"
-description: "Utah Valley University (Organizations) - 125 mentions"
+description: "Utah Valley University (Organizations) - 130 mentions"
 id: "org-utah-valley-university"
 type: "ORG"
 aliases:
@@ -17,6 +17,26 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (5 mentions)</summary>
+
+**[00:11:48](/episodes/ep-9k2xrAC0H88.md#ent-org-utah-valley-university-t-00-11-07)**
+> "that's actually not the right topography surrounding UVU"
+
+**[00:11:29](/episodes/ep-9k2xrAC0H88.md#ent-org-utah-valley-university-t-00-11-07)**
+> "... right topography surrounding UVU."
+
+**[00:41:17](/episodes/ep-9k2xrAC0H88.md#ent-org-utah-valley-university-t-00-40-54)**
+> "for the UVU event."
+
+**[00:41:35](/episodes/ep-9k2xrAC0H88.md#ent-org-utah-valley-university-t-00-41-35)**
+> "...g been when they prepared for UVU."
+
+**[00:43:23](/episodes/ep-9k2xrAC0H88.md#ent-org-utah-valley-university-t-00-43-23)**
+> "...ss of intel gathering for the UVU event."
+
+</details>
 
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (8 mentions)</summary>

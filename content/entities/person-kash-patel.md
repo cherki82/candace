@@ -1,6 +1,6 @@
 ---
 title: "Kash Patel"
-description: "Kash Patel (People) - 110 mentions"
+description: "Kash Patel (People) - 121 mentions"
 id: "person-kash-patel"
 type: "PERSON"
 aliases:
@@ -21,14 +21,52 @@ _Type: People_
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (3 mentions)</summary>
 
-**[00:01:40](/episodes/ep-ewBzjVe3LNQ.md#ent-person-kash-patel-t-01-01-50)**
+**[00:01:40](/episodes/ep-ewBzjVe3LNQ.md#ent-person-kash-patel-t-01-01-19)**
 > "Kash Patel"
 
-**[01:01:50](/episodes/ep-ewBzjVe3LNQ.md#ent-person-kash-patel-t-01-01-50)**
+**[01:01:50](/episodes/ep-ewBzjVe3LNQ.md#ent-person-kash-patel-t-01-01-19)**
 > "... someone that is, it could be Kash Patel."
 
-**[01:01:59](/episodes/ep-ewBzjVe3LNQ.md#ent-person-kash-patel-t-01-01-50)**
+**[01:01:59](/episodes/ep-ewBzjVe3LNQ.md#ent-person-kash-patel-t-01-01-19)**
 > "I mean, I have, it could be Kash Patel."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (11 mentions)</summary>
+
+**[00:02:25](/episodes/ep-9k2xrAC0H88.md#ent-person-kash-patel-t-00-02-01)**
+> "That's how much of a disaster this is going to be for Kash Patel"
+
+**[00:02:25](/episodes/ep-9k2xrAC0H88.md#ent-person-kash-patel-t-00-02-01)**
+> "...ow much it is going to be for Kash Patel when we get through with this episode, because fe..."
+
+**[00:32:30](/episodes/ep-9k2xrAC0H88.md#ent-person-kash-patel-t-00-02-01)**
+> "... to create hurdles, including Kash saying, we got them."
+
+**[00:38:20](/episodes/ep-9k2xrAC0H88.md#ent-person-kash-patel-t-00-38-03)**
+> "..., is the home of FBI Director Kash Patel."
+
+**[00:38:52](/episodes/ep-9k2xrAC0H88.md#ent-person-kash-patel-t-00-38-25)**
+> "He mentions there Kash Patel obviously we don't have on our fingertips Kash Pa..."
+
+**[00:38:52](/episodes/ep-9k2xrAC0H88.md#ent-person-kash-patel-t-00-38-25)**
+> "... don't have on our fingertips Kash Patel's schedule but it is intriguing that this flight as..."
+
+**[01:01:23](/episodes/ep-9k2xrAC0H88.md#ent-person-kash-patel-t-01-01-17)**
+> "He was also a friend of Kash Patel's and he seems to just be pretty soulless at this m..."
+
+**[01:01:31](/episodes/ep-9k2xrAC0H88.md#ent-person-kash-patel-t-01-01-17)**
+> "If we can place Kash Patel, if you guys can help place Kash Patel on the 9th..."
+
+**[01:01:31](/episodes/ep-9k2xrAC0H88.md#ent-person-kash-patel-t-01-01-17)**
+> "...l, if you guys can help place Kash Patel on the 9th."
+
+**[01:01:36](/episodes/ep-9k2xrAC0H88.md#ent-person-kash-patel-t-01-01-17)**
+> "If you guys can help place Kash Patel on August 25th."
+
+**[01:01:55](/episodes/ep-9k2xrAC0H88.md#ent-person-kash-patel-t-01-01-55)**
+> "... like to be able to say where Kash Patel was, and I would like to find out who that Sam wa..."
 
 </details>
 
@@ -643,7 +681,7 @@ _Type: People_
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
 
-- [01:01:46](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-09) (Opinion) **Candace Owens**: ["Based on call sign analysis, there could be a chance that Kash Patel w..."](/statements/statement-b90aa7d83fb5.md)
+- [01:01:46](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-19) (Opinion) **Candace Owens**: ["Based on call sign analysis, there could be a chance that Kash Patel w..."](/statements/statement-b90aa7d83fb5.md)
   - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </details>

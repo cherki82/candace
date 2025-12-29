@@ -1,6 +1,6 @@
 ---
 title: "Colorado Springs"
-description: "Colorado Springs (Places) - 3 mentions"
+description: "Colorado Springs (Places) - 10 mentions"
 id: "gpe-colorado-springs"
 type: "GPE"
 ---
@@ -11,6 +11,32 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (7 mentions)</summary>
+
+**[00:38:03](/episodes/ep-9k2xrAC0H88.md#ent-gpe-colorado-springs-t-00-38-03)**
+> "Whoever flew under this incredibly highly sensitive call sign, SAM-000, on August 25 flew from Joint Base Andrews to Colorado Springs"
+
+**[00:37:54](/episodes/ep-9k2xrAC0H88.md#ent-gpe-colorado-springs-t-00-37-27)**
+> "...ight on this jet from D.C. to Colorado Springs with that important and rarely used call sign, SA..."
+
+**[00:38:03](/episodes/ep-9k2xrAC0H88.md#ent-gpe-colorado-springs-t-00-38-03)**
+> "...ew from Joint Base Andrews to Colorado Springs, home of the 10th Special Forces Group."
+
+**[00:38:14](/episodes/ep-9k2xrAC0H88.md#ent-gpe-colorado-springs-t-00-38-03)**
+> "It stayed in Colorado Springs for three hours, and then it flew to Las Vegas, a..."
+
+**[00:39:40](/episodes/ep-9k2xrAC0H88.md#ent-gpe-colorado-springs-t-00-39-24)**
+> "...as missing before it lands in Colorado Springs, which you can see on the map here."
+
+**[00:40:54](/episodes/ep-9k2xrAC0H88.md#ent-gpe-colorado-springs-t-00-40-54)**
+> "...at the individual flies in to Colorado Springs."
+
+**[00:43:51](/episodes/ep-9k2xrAC0H88.md#ent-gpe-colorado-springs-t-00-43-23)**
+> "...er who decides to fly over to Colorado Springs."
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>

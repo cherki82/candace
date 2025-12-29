@@ -1,6 +1,6 @@
 ---
 title: "FBI"
-description: "FBI (Organizations) - 387 mentions"
+description: "FBI (Organizations) - 419 mentions"
 id: "org-fbi"
 type: "ORG"
 aliases:
@@ -18,6 +18,107 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (32 mentions)</summary>
+
+**[00:02:06](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-09-50)**
+> "that works for the FBI or the NSA"
+
+**[00:01:12](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-09-50)**
+> "...le can see what you're doing, feds."
+
+**[00:02:04](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-09-50)**
+> "that works for the FBI or the NSA."
+
+**[00:09:50](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-09-50)**
+> "... high up who then ordered the feds to stand down and to allow him to do what he had ..."
+
+**[00:09:50](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-09-50)**
+> "...very high up who then ordered the feds to stand down and to allow him to do what he had ..."
+
+**[00:10:24](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-09-50)**
+> "And the feds are not just at the hospital trying to take camer..."
+
+**[00:14:48](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-14-36)**
+> "...ory, fast forward to when the feds arrive"
+
+**[00:14:48](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-14-36)**
+> "...s story, fast forward to when the feds arrive"
+
+**[00:15:03](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-14-36)**
+> "... corner with you dogs and the feds are here, the federal officers are going around a..."
+
+**[00:15:03](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-14-36)**
+> "... the corner with you dogs and the feds are here, the federal officers are going around a..."
+
+**[00:18:25](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-18-06)**
+> "...like a wild goose hunt by the feds and the feds were sort of directing the show."
+
+**[00:18:25](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-18-06)**
+> "...oose hunt by the feds and the feds were sort of directing the show."
+
+**[00:18:25](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-18-06)**
+> "...ts, like a wild goose hunt by the feds and the feds were sort of directing the show."
+
+**[00:18:25](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-18-06)**
+> "...ld goose hunt by the feds and the feds were sort of directing the show."
+
+**[00:19:26](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-18-06)**
+> "...because if we're dealing with feds, they change the plates, obviously."
+
+**[00:20:13](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-18-06)**
+> "...driver of the RAV4 flashes an FBI badge."
+
+**[00:24:46](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-24-22)**
+> "...Charlie Kirk coverup that the feds are engaged in."
+
+**[00:24:46](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-24-22)**
+> "...his Charlie Kirk coverup that the feds are engaged in."
+
+**[00:24:52](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-24-22)**
+> "...nfirmed is going to leave the FBI as assistant director of the FBI."
+
+**[00:24:52](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-24-22)**
+> "... as assistant director of the FBI."
+
+**[00:26:38](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-26-25)**
+> "I would have assumed that the feds impounded the vehicle."
+
+**[00:27:06](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-26-25)**
+> "...bag at the hospital after the FBI cleared the vehicle."
+
+**[00:27:25](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-26-25)**
+> "...et into the vehicle until the FBI cleared it."
+
+**[00:30:35](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-30-19)**
+> "The feds saw it."
+
+**[00:30:37](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-30-19)**
+> "The feds are really at this hospital, and then it's over."
+
+**[00:32:06](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-31-43)**
+> "I just think the feds are implicated."
+
+**[00:32:08](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-31-43)**
+> "I just feel the feds are implicated."
+
+**[00:32:25](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-32-25)**
+> "...who's there that day says the feds were not acting right."
+
+**[00:32:25](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-32-25)**
+> "...ody who's there that day says the feds were not acting right."
+
+**[00:38:20](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-32-25)**
+> "...you'll recall, is the home of FBI Director Kash Patel."
+
+**[00:58:35](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-58-24)**
+> "... I mean, I reached out to the FBI, not specifically to cash."
+
+**[00:58:47](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-58-24)**
+> "The feds are implicated in this a thousand different ways ..."
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (6 mentions)</summary>

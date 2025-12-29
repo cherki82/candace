@@ -1,6 +1,6 @@
 ---
 title: "Israel"
-description: "Israel (Places) - 640 mentions"
+description: "Israel (Places) - 657 mentions"
 id: "gpe-israel"
 type: "GPE"
 aliases:
@@ -19,6 +19,67 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (14 mentions)</summary>
+
+**[00:00:42](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-israel-t-00-00-42)**
+> "I grow more certain that Israel might be involved with 9/10"
+
+**[00:00:42](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-israel-t-00-00-42)**
+> "...aks, I grow more certain that Israel might be involved with 9/10."
+
+**[00:03:38](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-israel-t-00-03-11)**
+> "... that we needed to prioritize Israel and people just didn't feel that way."
+
+**[00:04:16](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-israel-t-00-03-53)**
+> "...wn amongst people who support Israel."
+
+**[00:12:45](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-israel-t-00-12-45)**
+> "... and tortured over a thousand Israeli civilians, mostly Jews, some Americans."
+
+**[00:12:56](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-israel-t-00-12-45)**
+> "...ober 28th of 2023, while anti-Israel protests were raging in London, where Candice, I ..."
+
+**[00:13:37](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-israel-t-00-13-30)**
+> "...terpreted as Candace smearing Israel."
+
+**[00:14:19](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-israel-t-00-14-12)**
+> "...Candice liked to post calling Israeli Prime Minister Benjamin Netanyahu a war criminal."
+
+**[00:14:28](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-israel-t-00-14-12)**
+> "You're free to disagree with Israel's conduct, and you're free to oppose the Netanyahu ..."
+
+**[00:14:33](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-israel-t-00-14-12)**
+> "But the idea that Israel is committing genocide or that Netanyahu is a war..."
+
+**[00:44:30](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-israel-t-00-44-30)**
+> "...now there's this bend towards Israel."
+
+**[00:45:41](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-israel-t-00-45-12)**
+> "... to think in a major way that Israel's got something to do with killing Charlie Kirk at ..."
+
+**[00:45:56](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-israel-t-00-45-12)**
+> "Alleged Israel."
+
+**[00:47:08](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-israel-t-00-46-42)**
+> "...e about one topic and that is Israel."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3 mentions)</summary>
+
+**[00:48:20](/episodes/ep-9k2xrAC0H88.md#ent-gpe-israel-t-00-48-20)**
+> "I do feel confident in stating that those Egyptian planes are linked to Israel"
+
+**[00:48:20](/episodes/ep-9k2xrAC0H88.md#ent-gpe-israel-t-00-48-20)**
+> "...Egyptian planes are linked to Israel and that fully explains the mass freakout so we h..."
+
+**[00:54:26](/episodes/ep-9k2xrAC0H88.md#ent-gpe-israel-t-00-54-08)**
+> "...o people who don't stand with Israel."
+
+</details>
 
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (15 mentions)</summary>

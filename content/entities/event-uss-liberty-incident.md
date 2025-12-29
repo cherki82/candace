@@ -53,7 +53,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about USS Liberty incident (2)</strong></summary>
+<summary><strong class="section-title">Statements about USS Liberty incident (3)</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
+
+- [00:17:26](/episodes/ep-w1oqQbR_bYs.md#t-00-17-08) (Claim) **Candace Owens**: ["Ben Shapiro sued Candace Owens for interviewing a USS Liberty survivor..."](/statements/statement-199a3e06bdfb.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (2)</summary>

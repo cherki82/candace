@@ -1,6 +1,6 @@
 ---
 title: "JD Vance"
-description: "JD Vance (People) - 8 mentions"
+description: "JD Vance (People) - 14 mentions"
 id: "person-jd-vance"
 type: "PERSON"
 aliases:
@@ -15,6 +15,29 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (6 mentions)</summary>
+
+**[00:38:38](/episodes/ep-9k2xrAC0H88.md#ent-person-jd-vance-t-00-38-25)**
+> "And he's like, well, we don't know where JD Vance was on this day"
+
+**[00:38:35](/episodes/ep-9k2xrAC0H88.md#ent-person-jd-vance-t-00-38-25)**
+> "...ke, well, we don't know where JD Vance was on this day."
+
+**[00:38:38](/episodes/ep-9k2xrAC0H88.md#ent-person-jd-vance-t-00-38-25)**
+> "...to dig through a lot and find JD Vance was in DC."
+
+**[00:38:42](/episodes/ep-9k2xrAC0H88.md#ent-person-jd-vance-t-00-38-25)**
+> "This is not JD Vance."
+
+**[01:01:46](/episodes/ep-9k2xrAC0H88.md#ent-person-jd-vance-t-01-01-17)**
+> "Where was JD Vance?"
+
+**[01:01:47](/episodes/ep-9k2xrAC0H88.md#ent-person-jd-vance-t-01-01-17)**
+> "I found JD Vance with Donald Trump at a restaurant that evening in..."
+
+</details>
 
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>

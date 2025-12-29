@@ -1,6 +1,6 @@
 ---
 title: "IRS"
-description: "IRS (Organizations) - 29 mentions"
+description: "IRS (Organizations) - 41 mentions"
 id: "org-irs"
 type: "ORG"
 aliases:
@@ -17,9 +17,29 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (5 mentions)</summary>
+
+**[00:29:25](/episodes/ep-w1oqQbR_bYs.md#t-00-28-53)**
+> "...ng the income tax system, the IRS is fighting back and proving that it's here to st..."
+
+**[00:29:39](/episodes/ep-w1oqQbR_bYs.md#t-00-29-34)**
+> "The IRS can take your wages, bank accounts, social securi..."
+
+**[00:29:43](/episodes/ep-w1oqQbR_bYs.md#t-00-29-34)**
+> "...t is not a question of if the IRS will act, but rather when they will act."
+
+**[00:29:49](/episodes/ep-w1oqQbR_bYs.md#t-00-29-34)**
+> "...is offering a completely free IRS research and discovery call to show you exactly w..."
+
+**[00:30:03](/episodes/ep-w1oqQbR_bYs.md#t-00-29-34)**
+> "...nting yourself or calling the IRS on your own."
+
+</details>
+
+<details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (6 mentions)</summary>
 
-**[00:27:17](/episodes/ep-ewBzjVe3LNQ.md#t-00-27-08)**
+**[00:27:17](/episodes/ep-ewBzjVe3LNQ.md#t-00-26-52)**
 > "the IRS is fighting back and proving that it's here to stay by becoming more aggressive than they've ever been."
 
 **[00:22:44](/episodes/ep-ewBzjVe3LNQ.md#t-00-22-11)**
@@ -35,6 +55,29 @@ _Type: Organizations_
 > "...is offering a completely free IRS research and discovery call to show you exactly w..."
 
 **[00:23:24](/episodes/ep-ewBzjVe3LNQ.md#t-00-22-55)**
+> "...nting yourself or calling the IRS on your own."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (6 mentions)</summary>
+
+**[00:49:25](/episodes/ep-9k2xrAC0H88.md#t-00-49-03)**
+> "the IRS is fighting back and proving that it's here to stay by becoming more aggressive than they've ever been"
+
+**[00:49:17](/episodes/ep-9k2xrAC0H88.md#t-00-49-03)**
+> "...ng the income tax system, the IRS is fighting back and proving that it's here to st..."
+
+**[00:49:32](/episodes/ep-9k2xrAC0H88.md#t-00-49-03)**
+> "The IRS can take your wages, bank accounts, social securi..."
+
+**[00:49:37](/episodes/ep-9k2xrAC0H88.md#t-00-49-03)**
+> "...it's not a question of if the IRS will act."
+
+**[00:49:44](/episodes/ep-9k2xrAC0H88.md#t-00-49-44)**
+> "...is offering a completely free IRS research and discovery call to show you exactly w..."
+
+**[00:49:59](/episodes/ep-9k2xrAC0H88.md#t-00-49-44)**
 > "...nting yourself or calling the IRS on your own."
 
 </details>

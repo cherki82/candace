@@ -1,6 +1,6 @@
 ---
 title: "Egypt"
-description: "Egypt (Places) - 162 mentions"
+description: "Egypt (Places) - 172 mentions"
 id: "gpe-egypt"
 type: "GPE"
 aliases:
@@ -15,6 +15,46 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3 mentions)</summary>
+
+**[00:45:48](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-egypt-t-00-45-12)**
+> "killing Charlie Kirk at the Egyptian plains"
+
+**[00:45:41](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-egypt-t-00-45-12)**
+> "...h killing Charlie Kirk at the Egyptian plains."
+
+**[00:45:59](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-egypt-t-00-45-57)**
+> "...they were panicking about the Egyptian planes."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (7 mentions)</summary>
+
+**[00:42:12](/episodes/ep-9k2xrAC0H88.md#ent-gpe-egypt-t-00-33-09)**
+> "And we start talking about the Egyptian Plains"
+
+**[00:30:47](/episodes/ep-9k2xrAC0H88.md#ent-gpe-egypt-t-00-30-19)**
+> "... website when we drop all the Egyptian plane logs?"
+
+**[00:33:40](/episodes/ep-9k2xrAC0H88.md#ent-gpe-egypt-t-00-33-09)**
+> "...nd we start talking about the Egyptian Plains."
+
+**[00:47:55](/episodes/ep-9k2xrAC0H88.md#ent-gpe-egypt-t-00-47-35)**
+> "...d be spending our time on the Egyptian planes and what happened on Fort Huachuca base."
+
+**[00:48:18](/episodes/ep-9k2xrAC0H88.md#ent-gpe-egypt-t-00-47-35)**
+> "Flight logs for the Egyptian planes."
+
+**[00:48:20](/episodes/ep-9k2xrAC0H88.md#ent-gpe-egypt-t-00-48-20)**
+> "...nfident in stating that those Egyptian planes are linked to Israel and that fully explai..."
+
+**[00:56:09](/episodes/ep-9k2xrAC0H88.md#ent-gpe-egypt-t-00-55-37)**
+> "...of saying, well, you said the Egyptian planes, then you implied turning point USA."
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (5 mentions)</summary>

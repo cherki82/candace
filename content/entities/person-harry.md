@@ -1,6 +1,6 @@
 ---
 title: "Harry"
-description: "Harry (People) - 3 mentions"
+description: "Harry (People) - 4 mentions"
 id: "person-harry"
 type: "PERSON"
 aliases:
@@ -15,6 +15,14 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>
+
+**[00:44:32](/episodes/ep-9k2xrAC0H88.md#ent-person-harry-t-00-44-05)**
+> "when I said this to Harry and said, is it possible that this could have been like a high ranking Fed"
+
+</details>
 
 <details>
 <summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>

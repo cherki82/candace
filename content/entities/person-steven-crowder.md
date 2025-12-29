@@ -1,6 +1,6 @@
 ---
 title: "Steven Crowder"
-description: "Steven Crowder (People) - 5 mentions"
+description: "Steven Crowder (People) - 8 mentions"
 id: "person-steven-crowder"
 type: "PERSON"
 aliases:
@@ -15,6 +15,20 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3 mentions)</summary>
+
+**[00:12:17](/episodes/ep-w1oqQbR_bYs.md#ent-person-steven-crowder-t-00-12-00)**
+> "Steven Crowder got a hold of this week"
+
+**[00:12:09](/episodes/ep-w1oqQbR_bYs.md#ent-person-steven-crowder-t-00-12-00)**
+> "... Jeremy Boring, which somehow Steven Crowder got a hold of this week or last week or whatever."
+
+**[00:12:09](/episodes/ep-w1oqQbR_bYs.md#ent-person-steven-crowder-t-00-12-00)**
+> "... Boring, which somehow Steven Crowder got a hold of this week or last week or whatever."
+
+</details>
 
 <details>
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>

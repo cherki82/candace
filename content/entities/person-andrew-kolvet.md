@@ -1,6 +1,6 @@
 ---
 title: "Andrew Kolvet"
-description: "Andrew Kolvet (People) - 135 mentions"
+description: "Andrew Kolvet (People) - 155 mentions"
 id: "person-andrew-kolvet"
 type: "PERSON"
 aliases:
@@ -16,6 +16,76 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (8 mentions)</summary>
+
+**[00:02:30](/episodes/ep-w1oqQbR_bYs.md#ent-person-andrew-kolvet-t-00-02-30)**
+> "this is what was divulged to me from Andrew Kolvet"
+
+**[00:02:30](/episodes/ep-w1oqQbR_bYs.md#ent-person-andrew-kolvet-t-00-02-30)**
+> "... what was divulged to me from Andrew Kolvet at the time, willing to spend an offensive amount..."
+
+**[00:02:40](/episodes/ep-w1oqQbR_bYs.md#ent-person-andrew-kolvet-t-00-02-30)**
+> "... said, that was told to me by Andrew Kolvet directly because he wanted to say, look, like, ob..."
+
+**[00:19:05](/episodes/ep-w1oqQbR_bYs.md#ent-person-andrew-kolvet-t-00-19-05)**
+> "...spersions at Mikey McCoy, and Andrew Kolvet, and Blake Neff, and Tyler Bowyer, and yes, at Er..."
+
+**[00:22:02](/episodes/ep-w1oqQbR_bYs.md#ent-person-andrew-kolvet-t-00-21-50)**
+> "...ded by Constantine Kissin and Andrew Christus King Claven and all of the people, the m..."
+
+**[00:41:05](/episodes/ep-w1oqQbR_bYs.md#ent-person-andrew-kolvet-t-00-41-05)**
+> "...y intimated that to you, like Andrew Kolvet has a memory, Erika Kirk has a memory, and then t..."
+
+**[00:41:14](/episodes/ep-w1oqQbR_bYs.md#ent-person-andrew-kolvet-t-00-41-05)**
+> "...a three-way call with him and Andrew and Erica."
+
+**[00:41:32](/episodes/ep-w1oqQbR_bYs.md#ent-person-andrew-kolvet-t-00-41-05)**
+> "...Erica's telling the truth and Andrew Kolvet was flying blind."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (12 mentions)</summary>
+
+**[00:03:12](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-02-44)**
+> "I was told that Andrew Kolvet was allegedly flying blind when he tweeted out the conversation that he had with the surgeon."
+
+**[00:03:12](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-02-44)**
+> "...d to you that I was told that Andrew Kolvet was allegedly flying blind when he tweeted out th..."
+
+**[00:04:27](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-04-09)**
+> "Why would he speak to Andrew Kolvet?"
+
+**[00:04:29](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-04-09)**
+> "Also, did Andrew Kolvet record it?"
+
+**[00:06:10](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-06-10)**
+> "...tate that, the quotation that Andrew Kolvet shared on his ex feed is not a direct quotation f..."
+
+**[00:06:22](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-06-10)**
+> "...cated very clearly to Andrew (Andrew Kolvet), and yes, it is absolutely true that the surgeon..."
+
+**[00:06:22](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-06-10)**
+> "... communicated very clearly to Andrew (Andrew Kolvet), and yes, it is absolutely true t..."
+
+**[00:07:16](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-06-40)**
+> "Well, Andrew (Andrew Kolvet) also told us that the bullet did ricochet."
+
+**[00:07:24](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-07-24)**
+> "I'm told, we are told that Andrew Kolvet was flying blind to put up this tweet, said that ..."
+
+**[00:34:25](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-07-24)**
+> "... is flying, particularly from Andrews outside of D.C. And I'm going to play this longer..."
+
+**[00:38:03](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-07-24)**
+> "...ugust 25 flew from Joint Base Andrews to Colorado Springs, home of the 10th Special For..."
+
+**[00:40:05](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-07-24)**
+> "...658 flight back to Joint Base Andrews in DC."
+
+</details>
 
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (27 mentions)</summary>
@@ -759,7 +829,15 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Kolvet (20)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Kolvet (21)</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
+
+- [00:41:32](/episodes/ep-w1oqQbR_bYs.md#t-00-41-05) (Claim) **Candace Owens**: ["The surgeon said the frangible bullet suggestion was made on a three-w..."](/statements/statement-997a2b519d2a.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (12)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Christians"
-description: "Christians (Concepts) - 40 mentions"
+description: "Christians (Concepts) - 43 mentions"
 id: "concept-christians"
 type: "CONCEPT"
 ---
@@ -11,6 +11,17 @@ _Type: Concepts_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
+
+**[00:26:33](/episodes/ep-w1oqQbR_bYs.md#ent-concept-christians-t-00-26-01)**
+> "Christians versus Christians, right?"
+
+**[00:26:35](/episodes/ep-w1oqQbR_bYs.md#ent-concept-christians-t-00-26-01)**
+> "Christians versus Muslims."
+
+</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>

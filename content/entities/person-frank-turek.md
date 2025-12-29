@@ -1,6 +1,6 @@
 ---
 title: "Frank Turek"
-description: "Frank Turek (People) - 44 mentions"
+description: "Frank Turek (People) - 47 mentions"
 id: "person-frank-turek"
 type: "PERSON"
 aliases:
@@ -16,6 +16,20 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3 mentions)</summary>
+
+**[00:27:06](/episodes/ep-9k2xrAC0H88.md#ent-person-frank-turek-t-00-27-06)**
+> "the only indication of what we have learned from people that were actually in that vehicle on that day came from Frank Turek"
+
+**[00:26:56](/episodes/ep-9k2xrAC0H88.md#ent-person-frank-turek-t-00-26-25)**
+> "...vehicle on that day came from Frank Turek."
+
+**[00:27:16](/episodes/ep-9k2xrAC0H88.md#ent-person-frank-turek-t-00-27-06)**
+> "Let's take a listen to what Frank Turek had to say."
+
+</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>

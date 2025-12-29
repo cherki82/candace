@@ -1,6 +1,6 @@
 ---
 title: "Nick Fuentes"
-description: "Nick Fuentes (People) - 71 mentions"
+description: "Nick Fuentes (People) - 76 mentions"
 id: "person-nick-fuentes"
 type: "PERSON"
 ---
@@ -11,6 +11,31 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3 mentions)</summary>
+
+**[00:16:09](/episodes/ep-w1oqQbR_bYs.md#ent-person-nick-fuentes-t-00-15-40)**
+> "he shows videos of Nick Fuentes"
+
+**[00:16:09](/episodes/ep-w1oqQbR_bYs.md#ent-person-nick-fuentes-t-00-15-40)**
+> "And he shows videos of Nick Fuentes, which have nothing, had nothing to do with me."
+
+**[00:16:15](/episodes/ep-w1oqQbR_bYs.md#ent-person-nick-fuentes-t-00-15-40)**
+> "...y one time I'd spoken ever to Nick Fuentes."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
+
+**[00:52:07](/episodes/ep-9k2xrAC0H88.md#ent-person-nick-fuentes-t-00-51-55)**
+> "And then when you see like Tim Pool and Nick Fuentes, Candace is over"
+
+**[00:52:04](/episodes/ep-9k2xrAC0H88.md#ent-person-nick-fuentes-t-00-51-55)**
+> "...hen you see like Tim Pool and Nick Fuentes, Candace is over."
+
+</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>

@@ -25,7 +25,7 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md)
-**Timestamp:** [00:29:11](/episodes/ep-ewBzjVe3LNQ.md#t-00-28-27) 
+**Timestamp:** [00:29:11](/episodes/ep-ewBzjVe3LNQ.md#t-00-28-58) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1751);return false;">Play</a>
 
 > And within minutes we could triangulate the, triangulate the signals and be able to pinpoint the location.

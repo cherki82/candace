@@ -1,6 +1,6 @@
 ---
 title: "French intelligence"
-description: "French intelligence (Organizations) - 9 mentions"
+description: "French intelligence (Organizations) - 11 mentions"
 id: "org-french-intelligence"
 type: "ORG"
 ---
@@ -11,6 +11,17 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
+
+**[00:19:28](/episodes/ep-w1oqQbR_bYs.md#ent-org-french-intelligence-t-00-19-05)**
+> "from French intelligence to Mossad"
+
+**[00:19:28](/episodes/ep-w1oqQbR_bYs.md#ent-org-french-intelligence-t-00-19-05)**
+> "...ash implicating everyone from French intelligence to Mossad to members of TPUSA in Charlie's murder..."
+
+</details>
 
 <details>
 <summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (6 mentions)</summary>

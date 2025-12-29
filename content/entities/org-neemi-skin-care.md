@@ -1,6 +1,6 @@
 ---
 title: "Neemi Skin Care"
-description: "Neemi Skin Care (Organizations) - 34 mentions"
+description: "Neemi Skin Care (Organizations) - 37 mentions"
 id: "org-neemi-skin-care"
 type: "ORG"
 aliases:
@@ -20,6 +20,20 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3 mentions)</summary>
+
+**[00:49:10](/episodes/ep-w1oqQbR_bYs.md#ent-org-neemi-skin-care-t-00-49-29)**
+> "you guys know I'm gonna tell you about Neemee Skin Care"
+
+**[00:49:29](/episodes/ep-w1oqQbR_bYs.md#ent-org-neemi-skin-care-t-00-49-29)**
+> "...heir happy holiday messaging, Neeme is just decked out for Christmas."
+
+**[00:49:38](/episodes/ep-w1oqQbR_bYs.md#ent-org-neemi-skin-care-t-00-49-29)**
+> "...he winter, so I've been using Neeme's Sunshine Tallow Cream, pairing that with their Bu..."
+
+</details>
 
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (3 mentions)</summary>

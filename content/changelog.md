@@ -5,6 +5,24 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2025-12-29 15:38:36
+
+**Added 1 episode(s):**
+  - `w1oqQbR_bYs`: What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283
+**Cleaned 2 transcript(s):**
+  - `9k2xrAC0H88`: BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281
+  - `ewBzjVe3LNQ`: EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282
+**Added 20 new entity/entities**
+
+**Totals:**
+- Episodes: 52
+- Entities: 1049
+- Events: 532
+- Claims: 1430
+- Relationships: 914
+
+---
+
 ## 2025-12-19 14:01:05
 
 **Added 2 episode(s):**

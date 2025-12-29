@@ -1,6 +1,6 @@
 ---
 title: "Lyndon Baines Johnson"
-description: "Lyndon Baines Johnson (People) - 9 mentions"
+description: "Lyndon Baines Johnson (People) - 10 mentions"
 id: "person-lyndon-baines-johnson"
 type: "PERSON"
 aliases:
@@ -16,6 +16,14 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>
+
+**[00:56:37](/episodes/ep-9k2xrAC0H88.md#ent-person-lyndon-baines-johnson-t-00-56-20)**
+> "I'm sorry, LBJ that was involved"
+
+</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (4 mentions)</summary>

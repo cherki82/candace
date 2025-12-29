@@ -26,10 +26,10 @@ _Type: Places_
 **[00:17:00](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-tucson-t-00-16-41)**
 > "... been to deceive civilians in Tucson."
 
-**[00:37:44](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-tucson-t-00-37-30)**
+**[00:37:44](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-tucson-t-00-37-40)**
 > "Getting into Tucson, there was a little bit of a issue getting the re..."
 
-**[00:54:16](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-tucson-t-00-53-54)**
+**[00:54:16](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-tucson-t-00-54-05)**
 > "Um, got the Tucson stayed the night there in a hotel."
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "Middle East"
-description: "Middle East (Places) - 18 mentions"
+description: "Middle East (Places) - 21 mentions"
 id: "gpe-middle-east"
 type: "GPE"
 ---
@@ -11,6 +11,20 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3 mentions)</summary>
+
+**[00:03:47](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-middle-east-t-00-03-11)**
+> "what's happening in the Middle East"
+
+**[00:03:49](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-middle-east-t-00-03-11)**
+> "...about what's happening in the Middle East?"
+
+**[00:13:09](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-middle-east-t-00-12-45)**
+> "...about what's happening in the Middle East, despite the insistent rhetoric from government o..."
+
+</details>
 
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1 mentions)</summary>

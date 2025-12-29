@@ -298,7 +298,14 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Calvary Chapel (4)</strong></summary>
+<summary><strong class="section-title">Statements about Calvary Chapel (5)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
+
+- [00:09:42](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-04) (Accusation) **Candace Owens**: ["Calvary Chapel has a pattern of establishing former pedophiles and dru..."](/statements/statement-f304e1a6e67f.md)
+
+</details>
 
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4)</summary>

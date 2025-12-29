@@ -1,6 +1,6 @@
 ---
 title: "AIPAC"
-description: "AIPAC (Organizations) - 18 mentions"
+description: "AIPAC (Organizations) - 21 mentions"
 id: "org-aipac"
 type: "ORG"
 aliases:
@@ -15,6 +15,20 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3 mentions)</summary>
+
+**[00:56:29](/episodes/ep-9k2xrAC0H88.md#ent-org-aipac-t-00-56-20)**
+> "AIPAC implied, obviously, or whatever their name was before they became AIPAC"
+
+**[00:56:39](/episodes/ep-9k2xrAC0H88.md#ent-org-aipac-t-00-56-20)**
+> "AIPAC implied, obviously, or whatever their name was be..."
+
+**[00:56:39](/episodes/ep-9k2xrAC0H88.md#ent-org-aipac-t-00-56-20)**
+> "...r name was before they became AIPAC, they changed their name after."
+
+</details>
 
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>

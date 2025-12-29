@@ -1,6 +1,6 @@
 ---
 title: "Donald Trump"
-description: "Donald Trump (People) - 180 mentions"
+description: "Donald Trump (People) - 189 mentions"
 id: "person-donald-trump"
 type: "PERSON"
 aliases:
@@ -20,6 +20,38 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (9 mentions)</summary>
+
+**[00:25:01](/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-00-24-22)**
+> "Trump said that he thinks that Dan wants to get back to his show"
+
+**[00:24:52](/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-00-24-22)**
+> "... Bongino, which it looks like Trump has just confirmed is going to leave the FBI as a..."
+
+**[00:25:03](/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-00-25-03)**
+> "Trump (Donald Trump) said that he thinks that Dan (Dan Bongino) wants..."
+
+**[00:36:07](/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-00-36-07)**
+> "...flown, for example, President Trump's family back from their summer home in Bedminster,..."
+
+**[00:36:07](/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-00-36-07)**
+> "... recently flown, for example, President Trump's family back from their summer home in Bedminster,..."
+
+**[00:38:42](/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-00-38-25)**
+> "This is not Trump."
+
+**[01:01:39](/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-01-01-17)**
+> "...bly said, you know, where was Donald Trump?"
+
+**[01:01:39](/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-01-01-17)**
+> "...d, you know, where was Donald Trump?"
+
+**[01:01:47](/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-01-01-17)**
+> "I found JD Vance with Donald Trump at a restaurant that evening in D.C."
+
+</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (8 mentions)</summary>

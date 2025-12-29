@@ -1,0 +1,78 @@
+---
+title: "Mark Amodei"
+description: "Mark Amodei (People) - 8 mentions"
+id: "person-mark-amodei"
+type: "PERSON"
+aliases:
+  - "Amodei"
+  - "Rep. Amodei"
+  - "Representative Amodei"
+---
+
+_Type: People_
+
+**Also known as:** Amodei, Rep. Amodei, Representative Amodei
+
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
+<details open>
+<summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (8 mentions)</summary>
+
+**[00:31:54](/episodes/ep-w1oqQbR_bYs.md#ent-person-mark-amodei-t-00-31-41)**
+> "Mark Amodei, we're gonna get to that, actually, that congressman"
+
+**[00:31:54](/episodes/ep-w1oqQbR_bYs.md#ent-person-mark-amodei-t-00-31-41)**
+> "But Mark Amodei, we're gonna get to that, actually, that congress..."
+
+**[00:33:57](/episodes/ep-w1oqQbR_bYs.md#ent-person-mark-amodei-t-00-33-40)**
+> "...w the congressman from Vegas, Mark Amodei."
+
+**[00:33:57](/episodes/ep-w1oqQbR_bYs.md#ent-person-mark-amodei-t-00-33-40)**
+> "... congressman from Vegas, Mark Amodei."
+
+**[00:34:33](/episodes/ep-w1oqQbR_bYs.md#ent-person-mark-amodei-t-00-34-25)**
+> "Well, Mark Amodei apparently received a ton of phone calls from his..."
+
+**[00:35:10](/episodes/ep-w1oqQbR_bYs.md#ent-person-mark-amodei-t-00-34-58)**
+> "Well, Mark Amodei tweeted this."
+
+**[00:36:24](/episodes/ep-w1oqQbR_bYs.md#ent-person-mark-amodei-t-00-36-19)**
+> "...Denison on X Road exposed rep Mark Amodei tries and fails to give a solid alibi for the all..."
+
+**[00:36:24](/episodes/ep-w1oqQbR_bYs.md#ent-person-mark-amodei-t-00-36-19)**
+> "...on on X Road exposed rep Mark Amodei tries and fails to give a solid alibi for the all..."
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Relationships</strong></summary>
+
+_No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Mark Amodei (2)</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
+
+- [00:36:17](/episodes/ep-w1oqQbR_bYs.md#t-00-35-37) (Claim) **Candace Owens**: ["Mark Amodei missed two roll calls in the morning on September 9th and ..."](/statements/statement-1708c00a71da.md)
+  - Also about: [Washington, D.C.](/entities/gpe-washington-d-c.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
+
+- [01:01:11](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-05) (Accusation) **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["I am 95 percent certain the congressman I saw at the Fort Huachuca mee..."](/statements/statement-849e9251a645.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</details>
+
+</details>

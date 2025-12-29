@@ -1,6 +1,6 @@
 ---
 title: "Andrews Air Force Base"
-description: "Andrews Air Force Base (Places) - 4 mentions"
+description: "Andrews Air Force Base (Places) - 8 mentions"
 id: "gpe-andrews-air-force-base"
 type: "GPE"
 aliases:
@@ -16,6 +16,23 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (4 mentions)</summary>
+
+**[00:34:39](/episodes/ep-9k2xrAC0H88.md#ent-gpe-andrews-air-force-base-t-00-34-25)**
+> "what it means when you see that Sam call sign on a plane that is flying, particularly from Andrews outside of D.C."
+
+**[00:34:25](/episodes/ep-9k2xrAC0H88.md#ent-gpe-andrews-air-force-base-t-00-34-25)**
+> "... is flying, particularly from Andrews outside of D.C. And I'm going to play this longer..."
+
+**[00:38:03](/episodes/ep-9k2xrAC0H88.md#ent-gpe-andrews-air-force-base-t-00-38-03)**
+> "...ugust 25 flew from Joint Base Andrews to Colorado Springs, home of the 10th Special For..."
+
+**[00:40:05](/episodes/ep-9k2xrAC0H88.md#ent-gpe-andrews-air-force-base-t-00-40-05)**
+> "...658 flight back to Joint Base Andrews in DC."
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4 mentions)</summary>

@@ -15,7 +15,7 @@ _Type: People_
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
 
-**[00:06:23](/episodes/ep-ewBzjVe3LNQ.md#ent-person-terrell-farnsworth-t-00-05-35)**
+**[00:06:23](/episodes/ep-ewBzjVe3LNQ.md#ent-person-terrell-farnsworth-t-00-06-18)**
 > "Terrell Farnsworth still major question marks he raced to remove the camera that was directly behind Charlie's head."
 
 **[00:06:03](/episodes/ep-ewBzjVe3LNQ.md#ent-person-terrell-farnsworth-t-00-05-35)**
@@ -105,10 +105,13 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Terrell Farnsworth (14)</strong></summary>
+<summary><strong class="section-title">Statements about Terrell Farnsworth (15)</strong></summary>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2)</summary>
+
+- [00:06:07](/episodes/ep-ewBzjVe3LNQ.md#t-00-05-35) (Accusation) **Candace Owens**: ["Terrell Farnsworth raced to remove the camera that was directly behind..."](/statements/statement-28df3eccda31.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:06:23](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-18) (Accusation) **Candace Owens**: ["Terrell Farnsworth raced to remove the camera that was directly behind..."](/statements/statement-353e6ec031d3.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)

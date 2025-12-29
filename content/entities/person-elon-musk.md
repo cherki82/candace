@@ -1,6 +1,6 @@
 ---
 title: "Elon Musk"
-description: "Elon Musk (People) - 14 mentions"
+description: "Elon Musk (People) - 16 mentions"
 id: "person-elon-musk"
 type: "PERSON"
 aliases:
@@ -15,6 +15,17 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
+
+**[00:52:31](/episodes/ep-9k2xrAC0H88.md#ent-person-elon-musk-t-00-51-55)**
+> "I said, Elon Musk handed over X to the military"
+
+**[00:52:29](/episodes/ep-9k2xrAC0H88.md#ent-person-elon-musk-t-00-51-55)**
+> "Well, everybody was loving Elon Musk."
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (3 mentions)</summary>

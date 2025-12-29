@@ -1,6 +1,6 @@
 ---
 title: "Bari Weiss"
-description: "Bari Weiss (People) - 45 mentions"
+description: "Bari Weiss (People) - 48 mentions"
 id: "person-bari-weiss"
 type: "PERSON"
 aliases:
@@ -16,6 +16,20 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3 mentions)</summary>
+
+**[00:02:53](/episodes/ep-w1oqQbR_bYs.md#ent-person-bari-weiss-t-00-02-30)**
+> "he was working with Bari Weiss"
+
+**[00:02:53](/episodes/ep-w1oqQbR_bYs.md#ent-person-bari-weiss-t-00-02-30)**
+> "...knew that he was working with Bari Weiss"
+
+**[00:17:04](/episodes/ep-w1oqQbR_bYs.md#ent-person-bari-weiss-t-00-16-24)**
+> "He's worked with Bari Weiss behind the scenes to have articles written about ..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
@@ -319,12 +333,22 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bari Weiss (11)</strong></summary>
+<summary><strong class="section-title">Statements about Bari Weiss (13)</strong></summary>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
+
+- [00:02:57](/episodes/ep-w1oqQbR_bYs.md#t-00-02-30) (Accusation) **Candace Owens**: ["Ben Shapiro worked with Bari Weiss to have an article published claimi..."](/statements/statement-52ac3b9164b8.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2)</summary>
 
 - [00:24:25](/episodes/ep-ewBzjVe3LNQ.md#t-00-24-24) (Accusation) **Candace Owens**: ["Bari Weiss is obviously an intelligence op and not so intelligent op"](/statements/statement-3b78c7f81f57.md)
+
+- [00:29:22](/episodes/ep-ewBzjVe3LNQ.md#t-00-28-58) (Accusation) **Candace Owens**: ["Bari Weiss is clearly an intelligence operative acting as a journalist"](/statements/statement-c38ec398db82.md)
 
 </details>
 

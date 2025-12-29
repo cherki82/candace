@@ -1,6 +1,6 @@
 ---
 title: "Stanford"
-description: "Stanford (Organizations) - 8 mentions"
+description: "Stanford (Organizations) - 10 mentions"
 id: "org-stanford"
 type: "ORG"
 ---
@@ -11,6 +11,17 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
+
+**[00:03:25](/episodes/ep-w1oqQbR_bYs.md#ent-org-stanford-t-00-03-11)**
+> "Dr. Thomas Sowell of Stanford"
+
+**[00:03:25](/episodes/ep-w1oqQbR_bYs.md#ent-org-stanford-t-00-03-11)**
+> "Yes, Dr. Thomas Sowell of Stanford."
+
+</details>
 
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Ben Shapiro"
-description: "Ben Shapiro (People) - 122 mentions"
+description: "Ben Shapiro (People) - 166 mentions"
 id: "person-ben-shapiro"
 type: "PERSON"
 aliases:
@@ -15,6 +15,143 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (44 mentions)</summary>
+
+**[00:00:02](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-00-00)**
+> "it's pretty obvious that Ben Shapiro is terrified"
+
+**[00:00:02](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-00-00)**
+> "...that it's pretty obvious that Ben Shapiro is terrified."
+
+**[00:00:24](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-00-00)**
+> "It's odd because Ben had no allegiance to Charlie Kirk when he was ali..."
+
+**[00:01:06](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-00-42)**
+> "You know, Ben Shapiro just keeps calling my name out on stage."
+
+**[00:01:30](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-00-42)**
+> "... goes obviously that in 2024, Ben fired me in March."
+
+**[00:01:51](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-00-42)**
+> "...at their YWLS convention that Ben had sent an intern"
+
+**[00:02:09](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-00-42)**
+> "And I called Ben out on stage."
+
+**[00:02:12](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-00-42)**
+> "Ben did not like that I called him out on stage."
+
+**[00:03:19](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-03-11)**
+> "Is Ben Shapiro actually capable of that level of pettiness?"
+
+**[00:03:33](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-03-11)**
+> "You know, Ben was sort of having another one of his open nervou..."
+
+**[00:04:29](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-03-11)**
+> "Anyways, for Ben, he then had some private event, probably at anot..."
+
+**[00:04:45](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-03-11)**
+> "Take a listen to what Ben had to say."
+
+**[00:06:14](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-03-11)**
+> "...their focus was on protecting Ben, even though he was the one who insulted me publi..."
+
+**[00:06:33](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-03-11)**
+> "I wanted to hit back at Ben."
+
+**[00:07:08](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-06-35)**
+> "...mment and say something about Ben Shapiro?"
+
+**[00:08:00](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-06-35)**
+> "So suddenly Ben gets on this table, he insults me, it's trending ..."
+
+**[00:08:25](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-06-35)**
+> "...t say anything snipey back at Ben because I didn't want to feed the mob."
+
+**[00:09:49](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-06-35)**
+> "So when Ben saw that, he decided, Thomas Sowell, hey, that's ..."
+
+**[00:10:08](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-06-35)**
+> "Ben had his team reach out and schedule an interview ..."
+
+**[00:10:24](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-06-35)**
+> "...it premieres on the 16th, and Ben gets Thomas Sowell who he doesn't care about,"
+
+**[00:12:23](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-06-35)**
+> "...ng fired where 300 employees, Ben joined electronically, he was up on the screen to..."
+
+**[00:16:38](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-16-24)**
+> "...tty much my relationship with Ben Shapiro since he's fired me because they have not stopped..."
+
+**[00:17:42](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-16-24)**
+> "You are an imposter, Ben."
+
+**[00:19:02](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-16-24)**
+> "...a listen to a portion of what Ben had to say."
+
+**[00:20:25](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-16-24)**
+> "Well, Ben, when it comes to you and having worked with you,..."
+
+**[00:21:50](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-21-50)**
+> "...ther effing plantation, truly Ben Shapiro, fuck you and the midget horse that you rode in o..."
+
+**[00:22:23](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-21-50)**
+> "... Talmud so that you know what Ben thinks of you, because he doesn't just hate me, h..."
+
+**[00:23:16](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-21-50)**
+> "Goodbye, Ben."
+
+**[00:23:20](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-23-20)**
+> "...on is, how much more money is Ben Shapiro going to spend to make people think that he's pop..."
+
+**[00:23:32](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-23-20)**
+> "...nk Berrien, as he wrote while Ben was at Breitbart before he turned his back and be..."
+
+**[00:23:47](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-23-20)**
+> "... have to keep pretending like Ben Shapiro is relevant?"
+
+**[00:23:59](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-23-59)**
+> "Of course, what followed Ben Shapiro on stage is somebody who Charlie Kirk loved very ..."
+
+**[00:23:59](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-23-59)**
+> "...ing him, some of them because Ben Shapiro insisted that they do."
+
+**[00:26:57](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-26-46)**
+> "...harlie Kirk knew exactly what Ben Shapiro was and will always be."
+
+**[00:27:13](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-26-46)**
+> "So again, on your belly, Ben Shapiro."
+
+**[00:30:34](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-30-16)**
+> "...ooking into Erika Kirk, it is Ben Shapiro, okay?"
+
+**[00:31:22](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-30-16)**
+> "It's embarrassing, really, Ben."
+
+**[00:39:58](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-39-45)**
+> "...essage from Skylar being like Ben Shapiro is like on stage just like calling you out again."
+
+**[00:43:46](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-39-45)**
+> "...could this be the reason that Ben's having some sort of a weird spiral?"
+
+**[00:45:12](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-39-45)**
+> "... I said, I don't like the way Ben is signaling that he doesn't want people looking ..."
+
+**[00:47:08](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-39-45)**
+> "because Ben is coming undone and he only comes undone about o..."
+
+**[00:52:31](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-52-09)**
+> "That's the Bari Weisses and Ben Shapiro's of the world."
+
+**[00:54:08](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-52-09)**
+> "That's what I wanna say about Ben."
+
+**[00:54:58](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-52-09)**
+> "I mean, Ben's gonna get me a legal letter so fast."
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (9 mentions)</summary>
@@ -537,7 +674,47 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Ben Shapiro (2)</strong></summary>
+<summary><strong class="section-title">Statements about Ben Shapiro (14)</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (12)</summary>
+
+- [00:00:24](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00) (Accusation) **Candace Owens**: ["Ben Shapiro had no allegiance to Charlie Kirk when he was alive"](/statements/statement-239322b040f4.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:02:04](/episodes/ep-w1oqQbR_bYs.md#t-00-01-51) (Claim) **Candace Owens**: ["Ben Shapiro sent an intern to confront Candace Owens on stage at the D..."](/statements/statement-ccf7b1277237.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Young Women's Leadership Summit](/entities/org-ywls.md), [Dallas](/entities/gpe-dallas.md)
+
+- [00:02:14](/episodes/ep-w1oqQbR_bYs.md#t-00-01-51) (Accusation) **Candace Owens**: ["Ben Shapiro worked behind the scenes to have Jewish donors threaten Ch..."](/statements/statement-2443f85d69f9.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:02:39](/episodes/ep-w1oqQbR_bYs.md#t-00-02-30) (Accusation) **Candace Owens**: ["Ben Shapiro paid an offensive amount of money to be part of AmFest 202..."](/statements/statement-196a937c330b.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [America Fest](/entities/event-america-fest.md)
+
+- [00:02:57](/episodes/ep-w1oqQbR_bYs.md#t-00-02-30) (Accusation) **Candace Owens**: ["Ben Shapiro worked with Bari Weiss to have an article published claimi..."](/statements/statement-52ac3b9164b8.md)
+  - Also about: [Bari Weiss](/entities/person-bari-weiss.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:10:14](/episodes/ep-w1oqQbR_bYs.md#t-00-09-55) (Accusation) **Candace Owens**: ["Ben Shapiro scheduled an interview with Thomas Sowell specifically to ..."](/statements/statement-68d706432609.md)
+  - Also about: [Thomas Sowell](/entities/person-thomas-sowell.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:12:42](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00) (Accusation) **Candace Owens**: ["The Daily Wire humiliated Candace Owens by hosting 300 employees at a ..."](/statements/statement-482d3b0e4ebc.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:16:56](/episodes/ep-w1oqQbR_bYs.md#t-00-16-24) (Claim) **Candace Owens**: ["Ben Shapiro has issued three court proceedings against Candace Owens f..."](/statements/statement-7df37740e4d6.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:17:26](/episodes/ep-w1oqQbR_bYs.md#t-00-17-08) (Claim) **Candace Owens**: ["Ben Shapiro sued Candace Owens for interviewing a USS Liberty survivor..."](/statements/statement-199a3e06bdfb.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [USS Liberty incident](/entities/event-uss-liberty-incident.md)
+
+- [00:18:16](/episodes/ep-w1oqQbR_bYs.md#t-00-17-44) (Accusation) **Candace Owens**: ["Ben Shapiro staffs audiences with people who work for YAF who are told..."](/statements/statement-3eb9a38e3071.md)
+
+- [00:23:31](/episodes/ep-w1oqQbR_bYs.md#t-00-23-20) (Claim) **Candace Owens**: ["Ben Shapiro's father writes under the pen name Hank Berrien at The Dai..."](/statements/statement-7de014dde600.md)
+  - Also about: [Hank Berrien](/entities/person-hank-berrien.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:30:49](/episodes/ep-w1oqQbR_bYs.md#t-00-30-16) (Accusation) **Candace Owens**: ["Ben Shapiro knows something about Erika Kirk that he is fearful will c..."](/statements/statement-3df10f2d2cce.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1)</summary>

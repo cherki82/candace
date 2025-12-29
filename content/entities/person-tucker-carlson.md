@@ -1,6 +1,6 @@
 ---
 title: "Tucker Carlson"
-description: "Tucker Carlson (People) - 356 mentions"
+description: "Tucker Carlson (People) - 377 mentions"
 id: "person-tucker-carlson"
 type: "PERSON"
 aliases:
@@ -16,6 +16,65 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (18 mentions)</summary>
+
+**[00:07:49](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-07-19)**
+> "Tucker Carlson's luck that I had been slated to come on his new show"
+
+**[00:07:49](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-07-19)**
+> "Now it was just Tucker Carlson's luck that I had been slated to come on his new sh..."
+
+**[00:08:00](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-08-00)**
+> "...rending all over Twitter, and Tucker Carlson is going to be the first person to capture my rea..."
+
+**[00:08:00](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-08-00)**
+> "... all over Twitter, and Tucker Carlson is going to be the first person to capture my rea..."
+
+**[00:08:43](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-08-43)**
+> "...lsewhere in my interview with Tucker, he asks me who I look up to, who I like."
+
+**[00:08:49](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-08-43)**
+> "And I told Tucker the truth that it was my dream to meet Thomas Sow..."
+
+**[00:09:04](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-08-43)**
+> "... here's that clip with me and Tucker."
+
+**[00:09:55](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-09-55)**
+> "...ecause he's deeply jealous of Tucker Carlson for reasons that I cannot quite understand."
+
+**[00:09:55](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-09-55)**
+> "...he's deeply jealous of Tucker Carlson for reasons that I cannot quite understand."
+
+**[00:10:24](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-09-55)**
+> "Interview with Tucker is on the 15th, I think it premieres on the 16th,..."
+
+**[00:18:47](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-18-29)**
+> "Go after me and Tucker Carlson, right?"
+
+**[00:18:52](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-18-29)**
+> "... attack me, he's gonna attack Tucker Carlson, and he's gonna attack Megyn Kelly because she's ..."
+
+**[00:18:52](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-18-29)**
+> "... these people have put me and Tucker and Charlie Kirk through."
+
+**[00:18:52](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-18-29)**
+> "... me, he's gonna attack Tucker Carlson, and he's gonna attack Megyn Kelly because she's ..."
+
+**[00:19:45](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-19-45)**
+> "So no, Tucker Carlson, it is not an excuse to go silent on Candace's ta..."
+
+**[00:20:47](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-20-25)**
+> "Your jealousy against Tucker, your ability to believe that you can keep manipu..."
+
+**[00:24:12](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-23-59)**
+> "Take a listen to what Tucker Carlson had to say when he hit the stage."
+
+**[00:58:41](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-58-34)**
+> "If you even let Tucker speak over speech is sheer evil."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (6 mentions)</summary>
@@ -37,6 +96,20 @@ _Type: People_
 
 **[00:24:05](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tucker-carlson-t-00-23-39)**
 > "...Turning Point USA event where Tucker asked the question, where does this guy's money c..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3 mentions)</summary>
+
+**[00:54:25](/episodes/ep-9k2xrAC0H88.md#ent-person-tucker-carlson-t-00-54-08)**
+> "They want me and Tucker"
+
+**[00:54:23](/episodes/ep-9k2xrAC0H88.md#ent-person-tucker-carlson-t-00-54-08)**
+> "They want me and Tucker (Tucker Carlson)."
+
+**[00:54:23](/episodes/ep-9k2xrAC0H88.md#ent-person-tucker-carlson-t-00-54-08)**
+> "...ey want me and Tucker (Tucker Carlson)."
 
 </details>
 
@@ -1457,7 +1530,18 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Tucker Carlson (30)</strong></summary>
+<summary><strong class="section-title">Statements by Tucker Carlson (32)</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2)</summary>
+
+- [00:25:05](/episodes/ep-w1oqQbR_bYs.md#t-00-25-01) [○] (Opinion) ["Charlie Kirk died for his belief in free debate and giving people platforms to s..."](/statements/statement-dccdb57ef266.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:25:07](/episodes/ep-w1oqQbR_bYs.md#t-00-25-01) [○] (Claim) ["Charlie Kirk spent the last several months of his life under immense pressure fr..."](/statements/statement-5e3f12bf081d.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (9)</summary>
@@ -1587,7 +1671,15 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tucker Carlson (32)</strong></summary>
+<summary><strong class="section-title">Statements about Tucker Carlson (33)</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
+
+- [00:25:07](/episodes/ep-w1oqQbR_bYs.md#t-00-25-01) (Claim) **Tucker Carlson**: ["Charlie Kirk spent the last several months of his life under immense p..."](/statements/statement-5e3f12bf081d.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1)</summary>

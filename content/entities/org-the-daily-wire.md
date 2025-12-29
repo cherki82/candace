@@ -1,6 +1,6 @@
 ---
 title: "The Daily Wire"
-description: "The Daily Wire (Organizations) - 41 mentions"
+description: "The Daily Wire (Organizations) - 58 mentions"
 id: "org-the-daily-wire"
 type: "ORG"
 aliases:
@@ -16,6 +16,59 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (16 mentions)</summary>
+
+**[00:05:40](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-daily-wire-t-00-05-18)**
+> "...ockingly I'm not, nobody from the Daily Wire steps in to manage the situation."
+
+**[00:05:40](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-daily-wire-t-00-05-18)**
+> "...ngly I'm not, nobody from the Daily Wire steps in to manage the situation."
+
+**[00:05:59](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-daily-wire-t-00-05-59)**
+> "...'re not getting anything from the Daily Wire."
+
+**[00:05:59](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-daily-wire-t-00-05-59)**
+> "...not getting anything from the Daily Wire."
+
+**[00:06:11](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-daily-wire-t-00-05-59)**
+> "My PR was the internal PR at the Daily Wire."
+
+**[00:06:11](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-daily-wire-t-00-05-59)**
+> "...PR was the internal PR at the Daily Wire."
+
+**[00:07:56](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-daily-wire-t-00-07-19)**
+> "I got approval from Daily Wire."
+
+**[00:08:14](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-daily-wire-t-00-08-00)**
+> "...ly impact how people perceive the Daily Wire."
+
+**[00:08:14](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-daily-wire-t-00-08-00)**
+> "...mpact how people perceive the Daily Wire."
+
+**[00:10:31](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-daily-wire-t-00-10-31)**
+> "I'm working at the Daily Wire at this moment, and I'm about to give birth in th..."
+
+**[00:23:32](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-daily-wire-t-00-23-20)**
+> "Hank Berrien of A Daily Wire under the pen name, Hank Berrien, as he wrote whi..."
+
+**[00:31:05](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-daily-wire-t-00-31-00)**
+> "...ur force that was involved in Daily Wire Kids, only to then drop a million dollars on Char..."
+
+**[00:42:01](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-daily-wire-t-00-41-49)**
+> "...ry long time and he works for the Daily Wire."
+
+**[00:42:01](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-daily-wire-t-00-41-49)**
+> "...ong time and he works for the Daily Wire."
+
+**[00:42:51](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-daily-wire-t-00-42-27)**
+> "...he does the morning wire up a daily wire."
+
+**[00:45:18](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-daily-wire-t-00-45-12)**
+> "...ing in, they then find that a daily wire employee dated her."
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2 mentions)</summary>
@@ -304,7 +357,24 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The Daily Wire (4)</strong></summary>
+<summary><strong class="section-title">Statements about The Daily Wire (8)</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (4)</summary>
+
+- [00:12:42](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00) (Accusation) **Candace Owens**: ["The Daily Wire humiliated Candace Owens by hosting 300 employees at a ..."](/statements/statement-482d3b0e4ebc.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:23:31](/episodes/ep-w1oqQbR_bYs.md#t-00-23-20) (Claim) **Candace Owens**: ["Ben Shapiro's father writes under the pen name Hank Berrien at The Dai..."](/statements/statement-7de014dde600.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Hank Berrien](/entities/person-hank-berrien.md)
+
+- [00:42:59](/episodes/ep-w1oqQbR_bYs.md#t-00-42-27) (Claim) **Candace Owens**: ["Cabot Phillips is missing from the Morning Wire show from September 4t..."](/statements/statement-88ef12af870f.md)
+  - Also about: [Cabot Phillips](/entities/person-cabot-phillips.md)
+
+- [00:44:04](/episodes/ep-w1oqQbR_bYs.md#t-00-43-46) (Claim) **Candace Owens**: ["Erika Kirk previously dated Cabot Phillips, a Daily Wire employee, in ..."](/statements/statement-b153bb3657cc.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Cabot Phillips](/entities/person-cabot-phillips.md)
+
+</details>
 
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>

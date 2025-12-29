@@ -1,6 +1,6 @@
 ---
 title: "Australia"
-description: "Australia (Places) - 18 mentions"
+description: "Australia (Places) - 20 mentions"
 id: "gpe-australia"
 type: "GPE"
 ---
@@ -11,6 +11,17 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
+
+**[00:33:17](/episodes/ep-9k2xrAC0H88.md#ent-gpe-australia-t-00-33-09)**
+> "I saw these military-grade bots when they wanted me canceled from Australia"
+
+**[00:33:14](/episodes/ep-9k2xrAC0H88.md#ent-gpe-australia-t-00-33-09)**
+> "... they wanted me canceled from Australia."
+
+</details>
 
 <details>
 <summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1 mentions)</summary>

@@ -26,7 +26,7 @@ type: "opinion"
 ## Source
 
 **Episode:** [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md)
-**Timestamp:** [01:01:46](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-09) 
+**Timestamp:** [01:01:46](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-19) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3706);return false;">Play</a>
 
 > there could be a chance that that person they were blocking you from seeing when they all lined up might have been someone that is, it could be Kash Patel.

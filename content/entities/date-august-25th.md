@@ -1,6 +1,6 @@
 ---
 title: "August 25th"
-description: "August 25th (Dates) - 2 mentions"
+description: "August 25th (Dates) - 10 mentions"
 id: "date-august-25th"
 type: "DATE"
 ---
@@ -11,6 +11,35 @@ _Type: Dates_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (8 mentions)</summary>
+
+**[00:37:54](/episodes/ep-9k2xrAC0H88.md#ent-date-august-25th-t-00-37-27)**
+> "On August 25th, 2025, this is 15, 16 days before Charlie Kirk was killed"
+
+**[00:37:47](/episodes/ep-9k2xrAC0H88.md#ent-date-august-25th-t-00-37-27)**
+> "On August 25th, 2025, this is 15, 16 days before Charlie Kirk wa..."
+
+**[00:38:52](/episodes/ep-9k2xrAC0H88.md#ent-date-august-25th-t-00-38-25)**
+> "... gonna also tell you why that August 25th date is particularly"
+
+**[00:39:10](/episodes/ep-9k2xrAC0H88.md#ent-date-august-25th-t-00-39-06)**
+> "...ng in Mark to Marksplain that August 25th trip and how the call signs change, which is even..."
+
+**[00:39:27](/episodes/ep-9k2xrAC0H88.md#ent-date-august-25th-t-00-39-24)**
+> "So on August 25th, let me make this full screen so everyone can see..."
+
+**[00:39:33](/episodes/ep-9k2xrAC0H88.md#ent-date-august-25th-t-00-39-24)**
+> "So on August 25th, it flies into Las Vegas, lands at 448 p.m. local..."
+
+**[00:40:54](/episodes/ep-9k2xrAC0H88.md#ent-date-august-25th-t-00-40-54)**
+> "...can see that, looking at that August 25th date, so we're seeing that the individual flies i..."
+
+**[01:01:36](/episodes/ep-9k2xrAC0H88.md#ent-date-august-25th-t-01-01-17)**
+> "... can help place Kash Patel on August 25th."
+
+</details>
 
 <details>
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>

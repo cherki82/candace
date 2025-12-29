@@ -1,6 +1,6 @@
 ---
 title: "Club Candace"
-description: "Club Candace (Organizations) - 79 mentions"
+description: "Club Candace (Organizations) - 83 mentions"
 id: "org-club-candace"
 type: "ORG"
 aliases:
@@ -16,6 +16,23 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (4 mentions)</summary>
+
+**[00:51:03](/episodes/ep-w1oqQbR_bYs.md#ent-org-club-candace-t-00-50-49)**
+> "you can purchase signed copies... on CandaceOwens.com"
+
+**[00:51:03](/episodes/ep-w1oqQbR_bYs.md#ent-org-club-candace-t-00-50-49)**
+> "... so sorry that we had to bump book club again."
+
+**[00:51:09](/episodes/ep-w1oqQbR_bYs.md#ent-org-club-candace-t-00-50-49)**
+> "There will not be book club tonight and I will be sure to reset one."
+
+**[01:01:14](/episodes/ep-w1oqQbR_bYs.md#ent-org-club-candace-t-01-00-35)**
+> "I know I owe you guys a book club, but we'll see you soon."
+
+</details>
 
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (2 mentions)</summary>

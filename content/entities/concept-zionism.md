@@ -1,6 +1,6 @@
 ---
 title: "Zionism"
-description: "Zionism (Concepts) - 143 mentions"
+description: "Zionism (Concepts) - 145 mentions"
 id: "concept-zionism"
 type: "CONCEPT"
 aliases:
@@ -19,6 +19,17 @@ _Type: Concepts_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
+
+**[00:54:45](/episodes/ep-9k2xrAC0H88.md#ent-concept-zionism-t-00-54-08)**
+> "how greatly evil these Zionists are"
+
+**[00:54:36](/episodes/ep-9k2xrAC0H88.md#ent-concept-zionism-t-00-54-08)**
+> "...ognize how greatly evil these Zionists are."
+
+</details>
 
 <details>
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (6 mentions)</summary>
@@ -589,7 +600,14 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Zionism (6)</strong></summary>
+<summary><strong class="section-title">Statements about Zionism (7)</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
+
+- [00:26:49](/episodes/ep-w1oqQbR_bYs.md#t-00-26-46) (Claim) **Candace Owens**: ["Jewish people were in control of the slave trade"](/statements/statement-af4d843fd91b.md)
+
+</details>
 
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>

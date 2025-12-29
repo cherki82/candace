@@ -1,6 +1,6 @@
 ---
 title: "Brian Harpole"
-description: "Brian Harpole (People) - 40 mentions"
+description: "Brian Harpole (People) - 59 mentions"
 id: "person-brian-harpole"
 type: "PERSON"
 aliases:
@@ -17,16 +17,83 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (8 mentions)</summary>
+
+**[00:36:36](/episodes/ep-w1oqQbR_bYs.md#ent-person-brian-harpole-t-00-36-19)**
+> "Charlie Kirk's security Brian Harpole"
+
+**[00:03:53](/episodes/ep-w1oqQbR_bYs.md#ent-person-brian-harpole-t-00-36-19)**
+> "...nyways, throughout this time, Brian Mast was wearing an IDF uniform in Congress and h..."
+
+**[00:36:24](/episodes/ep-w1oqQbR_bYs.md#ent-person-brian-harpole-t-00-36-19)**
+> "... with Charlie Kirk's security Brian Harpole."
+
+**[00:37:38](/episodes/ep-w1oqQbR_bYs.md#ent-person-brian-harpole-t-00-37-03)**
+> "...lly given the travel logs for Brian Harpole, and it is entirely possible that Brian Harpole"
+
+**[00:37:38](/episodes/ep-w1oqQbR_bYs.md#ent-person-brian-harpole-t-00-37-03)**
+> "... it is entirely possible that Brian Harpole"
+
+**[00:37:49](/episodes/ep-w1oqQbR_bYs.md#ent-person-brian-harpole-t-00-37-49)**
+> "...n tell you that definitively, Brian Harpole could have made it to that base for that early mo..."
+
+**[00:37:57](/episodes/ep-w1oqQbR_bYs.md#ent-person-brian-harpole-t-00-37-49)**
+> "...im, I have now reached out to Brian Harpole twice."
+
+**[00:38:38](/episodes/ep-w1oqQbR_bYs.md#ent-person-brian-harpole-t-00-38-25)**
+> "... could turn out that it was a Brian Harpole lookalike."
+
+</details>
+
+<details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (3 mentions)</summary>
 
-**[00:01:40](/episodes/ep-ewBzjVe3LNQ.md#ent-person-brian-harpole-t-00-56-00)**
+**[00:01:40](/episodes/ep-ewBzjVe3LNQ.md#ent-person-brian-harpole-t-00-56-15)**
 > "Brian Harpole"
 
-**[00:56:15](/episodes/ep-ewBzjVe3LNQ.md#ent-person-brian-harpole-t-00-56-00)**
+**[00:56:15](/episodes/ep-ewBzjVe3LNQ.md#ent-person-brian-harpole-t-00-56-15)**
 > "...tage that you were looking at Brian Harpole, maybe he's got a brother in the military, who kn..."
 
-**[00:56:48](/episodes/ep-ewBzjVe3LNQ.md#ent-person-brian-harpole-t-00-56-44)**
+**[00:56:48](/episodes/ep-ewBzjVe3LNQ.md#ent-person-brian-harpole-t-00-56-15)**
 > "... at a percentage that you saw Brian Harpole, what percentage would you put it at?"
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (11 mentions)</summary>
+
+**[00:33:35](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-33-09)**
+> "we recognized this increase in this botted activity after we started speaking about Fort Huachuca. We talked about Fort Huachuca. We talked about the Elvis guy. He's convinced that he saw Brian Harpole."
+
+**[00:33:38](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-33-09)**
+> "He's convinced that he saw Brian Harpole."
+
+**[00:41:04](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-40-54)**
+> "...d you first and foremost that Brian Harpole, when he sits down with Sean Ryan, tells us that ..."
+
+**[00:41:19](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-40-54)**
+> "And I'm bringing up Brian Harpole, of course, because our eyewitness told us that h..."
+
+**[00:41:19](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-40-54)**
+> "...yewitness told us that he saw Brian Harpole."
+
+**[00:41:26](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-40-54)**
+> "He's convinced he saw Brian Harpole walking out of this big wig meeting on the 9th."
+
+**[00:41:30](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-40-54)**
+> "...t I can look into things that Brian Harpole has said to the public since things have transpir..."
+
+**[00:41:43](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-41-35)**
+> "Take a listen to Brian Harpole in his own words on Sean Ryan."
+
+**[00:43:23](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-43-23)**
+> "...ear, I am not suggesting that Brian Harpole, obviously he's not going to be Sam, or is he goi..."
+
+**[00:46:27](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-46-10)**
+> "...t we need to learn more about Brian Harpole's whereabouts."
+
+**[00:47:12](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-46-51)**
+> "It is possible for Brian Harpole to be able to meet to make that meeting."
 
 </details>
 
@@ -251,12 +318,23 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Brian Harpole (17)</strong></summary>
+<summary><strong class="section-title">Statements about Brian Harpole (19)</strong></summary>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
 
-- [00:56:34](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-00) (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["I am 95 to 99 percent certain that I saw Brian Harpole at Fort Huachuc..."](/statements/statement-8de81100cf3e.md)
+- [00:37:47](/episodes/ep-w1oqQbR_bYs.md#t-00-37-03) (Claim) **Candace Owens**: ["Brian Harpole could have made it to Fort Huachuca for the early mornin..."](/statements/statement-712747817fac.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2)</summary>
+
+- [00:56:34](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-15) (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["I am 95 to 99 percent certain that I saw Brian Harpole at Fort Huachuc..."](/statements/statement-8de81100cf3e.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+- [00:56:54](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-15) (Accusation) **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["I am 95-99 percent certain that the man I saw at the Fort Huachuca mee..."](/statements/statement-d7c3e7e4fe7b.md)
   - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </details>

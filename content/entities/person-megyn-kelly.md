@@ -1,6 +1,6 @@
 ---
 title: "Megyn Kelly"
-description: "Megyn Kelly (People) - 126 mentions"
+description: "Megyn Kelly (People) - 132 mentions"
 id: "person-megyn-kelly"
 type: "PERSON"
 aliases:
@@ -16,6 +16,34 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3 mentions)</summary>
+
+**[00:19:45](/episodes/ep-w1oqQbR_bYs.md#ent-person-megyn-kelly-t-00-19-45)**
+> "The same holds true of Megyn Kelly"
+
+**[00:18:52](/episodes/ep-w1oqQbR_bYs.md#ent-person-megyn-kelly-t-00-18-29)**
+> "...arlson, and he's gonna attack Megyn Kelly because she's at the beginning of what these peop..."
+
+**[00:20:03](/episodes/ep-w1oqQbR_bYs.md#ent-person-megyn-kelly-t-00-19-45)**
+> "The same holds true of Megyn Kelly, a person I consider a friend, characterizing Can..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3 mentions)</summary>
+
+**[00:27:06](/episodes/ep-9k2xrAC0H88.md#ent-person-megyn-kelly-t-00-27-06)**
+> "he does discuss with Megyn Kelly, him getting his bag at the hospital"
+
+**[00:27:06](/episodes/ep-9k2xrAC0H88.md#ent-person-megyn-kelly-t-00-27-06)**
+> "And he does discuss with Megyn Kelly, him getting his bag at the hospital after the FB..."
+
+**[00:58:44](/episodes/ep-9k2xrAC0H88.md#ent-person-megyn-kelly-t-00-58-24)**
+> "I'm Megyn Kelly."
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>

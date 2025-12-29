@@ -1,6 +1,6 @@
 ---
 title: "George Farmer"
-description: "George Farmer (People) - 35 mentions"
+description: "George Farmer (People) - 36 mentions"
 id: "person-george-farmer"
 type: "PERSON"
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: "9/11"
-description: "9/11 (Events) - 10 mentions"
+description: "9/11 (Events) - 11 mentions"
 id: "event-9-11"
 type: "EVENT"
 ---
@@ -78,5 +78,18 @@ _Type: Events_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about 9/11 (1)</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
+
+- [00:46:11](/episodes/ep-w1oqQbR_bYs.md#t-00-45-57) (Claim) **Candace Owens**: ["Fort Huachuca is involved in lawsuits and sworn affidavits regarding 9..."](/statements/statement-81307478a879.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</details>
 
 </details>

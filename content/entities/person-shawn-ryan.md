@@ -1,6 +1,6 @@
 ---
 title: "Shawn Ryan"
-description: "Shawn Ryan (People) - 15 mentions"
+description: "Shawn Ryan (People) - 18 mentions"
 id: "person-shawn-ryan"
 type: "PERSON"
 aliases:
@@ -16,6 +16,20 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3 mentions)</summary>
+
+**[00:41:17](/episodes/ep-9k2xrAC0H88.md#ent-person-shawn-ryan-t-00-40-54)**
+> "Brian Harpole, when he sits down with Sean Ryan"
+
+**[00:41:04](/episodes/ep-9k2xrAC0H88.md#ent-person-shawn-ryan-t-00-40-54)**
+> "...rpole, when he sits down with Sean Ryan, tells us that they began preparations"
+
+**[00:41:43](/episodes/ep-9k2xrAC0H88.md#ent-person-shawn-ryan-t-00-41-35)**
+> "...n Harpole in his own words on Sean Ryan."
+
+</details>
 
 <details>
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>

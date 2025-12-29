@@ -1,6 +1,6 @@
 ---
 title: "United States Air Force"
-description: "United States Air Force (Organizations) - 33 mentions"
+description: "United States Air Force (Organizations) - 38 mentions"
 id: "org-united-states-air-force"
 type: "ORG"
 aliases:
@@ -15,6 +15,26 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (5 mentions)</summary>
+
+**[00:35:47](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-air-force-t-00-35-25)**
+> "The United States Air Force Special Air Mission exists to provide safe and secure transport"
+
+**[00:35:40](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-air-force-t-00-35-25)**
+> "The United States Air Force Special Air Mission exists to provide safe and se..."
+
+**[00:36:41](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-air-force-t-00-36-07)**
+> "...o call sign instantly becomes Air Force One."
+
+**[00:36:58](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-air-force-t-00-36-47)**
+> "...n board, the aircraft becomes Air Force Two, but again, the filed call sign is normally S..."
+
+**[00:37:40](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-air-force-t-00-37-27)**
+> "...hen the White House or the US Air Force want to be deliberately vague about the exact pas..."
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "September 10th"
-description: "September 10th (Dates) - 73 mentions"
+description: "September 10th (Dates) - 77 mentions"
 id: "date-september-10th"
 type: "DATE"
 aliases:
@@ -19,6 +19,28 @@ _Type: Dates_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3 mentions)</summary>
+
+**[00:43:06](/episodes/ep-w1oqQbR_bYs.md#ent-date-september-10th-t-00-42-27)**
+> "he is missing from September 4th to the September 10th on that show"
+
+**[00:00:42](/episodes/ep-w1oqQbR_bYs.md#ent-date-september-10th-t-00-42-27)**
+> "...Israel might be involved with 9/10."
+
+**[00:42:59](/episodes/ep-w1oqQbR_bYs.md#ent-date-september-10th-t-00-42-27)**
+> "...ing from September 4th to the September 10th on that show."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>
+
+**[00:48:06](/episodes/ep-9k2xrAC0H88.md#t-00-47-35)**
+> "You have information about what happened on September 10"
+
+</details>
 
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (3 mentions)</summary>

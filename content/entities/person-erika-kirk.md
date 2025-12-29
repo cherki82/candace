@@ -1,6 +1,6 @@
 ---
 title: "Erika Kirk"
-description: "Erika Kirk (People) - 354 mentions"
+description: "Erika Kirk (People) - 381 mentions"
 id: "person-erika-kirk"
 type: "PERSON"
 aliases:
@@ -20,6 +20,59 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (16 mentions)</summary>
+
+**[00:00:12](/episodes/ep-w1oqQbR_bYs.md#ent-person-erika-kirk-t-00-00-00)**
+> "demanding an allegiance to Erika Kirk"
+
+**[00:00:12](/episodes/ep-w1oqQbR_bYs.md#ent-person-erika-kirk-t-00-00-00)**
+> "...nd demanding an allegiance to Erika Kirk."
+
+**[00:00:19](/episodes/ep-w1oqQbR_bYs.md#ent-person-erika-kirk-t-00-00-00)**
+> "... nobody inquire further about Erika Kirk."
+
+**[00:00:38](/episodes/ep-w1oqQbR_bYs.md#ent-person-erika-kirk-t-00-00-00)**
+> "...that he knows something about Erika Kirk."
+
+**[00:19:05](/episodes/ep-w1oqQbR_bYs.md#ent-person-erika-kirk-t-00-19-05)**
+> "...and Tyler Bowyer, and yes, at Erika Kirk, and to imply or outright claim complicity in a c..."
+
+**[00:30:34](/episodes/ep-w1oqQbR_bYs.md#ent-person-erika-kirk-t-00-30-16)**
+> "... is justified in looking into Erika Kirk, it is Ben Shapiro, okay?"
+
+**[00:30:50](/episodes/ep-w1oqQbR_bYs.md#ent-person-erika-kirk-t-00-30-16)**
+> "...'s fearful of something about Erika Kirk."
+
+**[00:30:52](/episodes/ep-w1oqQbR_bYs.md#ent-person-erika-kirk-t-00-30-16)**
+> "He just keeps calling out Erika Kirk on stage, demanding allegiance to Erika Kirk."
+
+**[00:30:52](/episodes/ep-w1oqQbR_bYs.md#ent-person-erika-kirk-t-00-30-16)**
+> "...tage, demanding allegiance to Erika Kirk."
+
+**[00:40:26](/episodes/ep-w1oqQbR_bYs.md#ent-person-erika-kirk-t-00-40-26)**
+> "...right now on X, which is that Erika Kirk lied about having not dated anybody before Charli..."
+
+**[00:41:05](/episodes/ep-w1oqQbR_bYs.md#ent-person-erika-kirk-t-00-41-05)**
+> "...e Andrew Kolvet has a memory, Erika Kirk has a memory, and then the surgeon has a memory, ..."
+
+**[00:41:14](/episodes/ep-w1oqQbR_bYs.md#ent-person-erika-kirk-t-00-41-05)**
+> "... call with him and Andrew and Erica."
+
+**[00:41:32](/episodes/ep-w1oqQbR_bYs.md#ent-person-erika-kirk-t-00-41-05)**
+> "... he's telling the truth or if Erica's telling the truth and Andrew Kolvet was flying bl..."
+
+**[00:41:53](/episodes/ep-w1oqQbR_bYs.md#ent-person-erika-kirk-t-00-41-49)**
+> "And I was like, was it Erica?"
+
+**[00:44:01](/episodes/ep-w1oqQbR_bYs.md#ent-person-erika-kirk-t-00-43-46)**
+> "I didn't say this is Erica's ex-boyfriend from 2017."
+
+**[00:44:30](/episodes/ep-w1oqQbR_bYs.md#ent-person-erika-kirk-t-00-44-30)**
+> "... the way, and says, you know, Erica, people were asking why it seems like now there's..."
+
+</details>
+
+<details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (4 mentions)</summary>
 
 **[00:07:19](/episodes/ep-ewBzjVe3LNQ.md#ent-person-erika-kirk-t-00-06-59)**
@@ -28,11 +81,49 @@ _Type: People_
 **[00:07:05](/episodes/ep-ewBzjVe3LNQ.md#ent-person-erika-kirk-t-00-06-59)**
 > "...e could get cleaned up before Erica came in."
 
-**[00:57:37](/episodes/ep-ewBzjVe3LNQ.md#ent-person-erika-kirk-t-00-57-28)**
+**[00:57:37](/episodes/ep-ewBzjVe3LNQ.md#ent-person-erika-kirk-t-00-57-34)**
 > "There's a picture of Erica Kirk with a ponytail from her past."
 
-**[00:58:00](/episodes/ep-ewBzjVe3LNQ.md#ent-person-erika-kirk-t-00-57-28)**
+**[00:58:00](/episodes/ep-ewBzjVe3LNQ.md#ent-person-erika-kirk-t-00-58-00)**
 > "...il matches the description of Erica Kirk, what percentage would you put that at?"
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (11 mentions)</summary>
+
+**[00:08:55](/episodes/ep-9k2xrAC0H88.md#ent-person-erika-kirk-t-00-08-48)**
+> "after his next of kin, obviously Erika, was informed"
+
+**[00:08:48](/episodes/ep-9k2xrAC0H88.md#ent-person-erika-kirk-t-00-08-48)**
+> "...next of kin, obviously Erika (Erika Kirk), was informed."
+
+**[00:08:48](/episodes/ep-9k2xrAC0H88.md#ent-person-erika-kirk-t-00-08-48)**
+> "...er his next of kin, obviously Erika (Erika Kirk), was informed."
+
+**[00:08:56](/episodes/ep-9k2xrAC0H88.md#ent-person-erika-kirk-t-00-08-48)**
+> "So Erika (Erika Kirk)'s not in the hospital."
+
+**[00:59:24](/episodes/ep-9k2xrAC0H88.md#ent-person-erika-kirk-t-00-59-08)**
+> "Everyone sees that Erika (Erika Kirk) acts suspicious all the time and you are dismiss..."
+
+**[01:00:06](/episodes/ep-9k2xrAC0H88.md#ent-person-erika-kirk-t-00-59-52)**
+> "...e says, I have to call Erika (Erika Kirk)."
+
+**[01:00:06](/episodes/ep-9k2xrAC0H88.md#ent-person-erika-kirk-t-00-59-52)**
+> "...m and he says, I have to call Erika (Erika Kirk)."
+
+**[01:00:20](/episodes/ep-9k2xrAC0H88.md#ent-person-erika-kirk-t-00-59-52)**
+> "...u guys have said about Erika (Erika Kirk)."
+
+**[01:00:20](/episodes/ep-9k2xrAC0H88.md#ent-person-erika-kirk-t-00-59-52)**
+> "...that you guys have said about Erika (Erika Kirk)."
+
+**[01:00:25](/episodes/ep-9k2xrAC0H88.md#ent-person-erika-kirk-t-00-59-52)**
+> "...I've said to you, when Erika (Erika Kirk) tells a lie, I am going to reply to that lie."
+
+**[01:00:25](/episodes/ep-9k2xrAC0H88.md#ent-person-erika-kirk-t-00-59-52)**
+> "...ys and I've said to you, when Erika (Erika Kirk) tells a lie, I am going to reply to ..."
 
 </details>
 
@@ -1498,12 +1589,35 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Erika Kirk (67)</strong></summary>
+<summary><strong class="section-title">Statements about Erika Kirk (73)</strong></summary>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (5)</summary>
 
-- [00:57:45](/episodes/ep-ewBzjVe3LNQ.md#t-00-57-28) (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["I am 95 to 99 percent certain I saw Erika Kirk at Fort Huachuca in the..."](/statements/statement-fe5aea94c1fd.md)
+- [00:30:49](/episodes/ep-w1oqQbR_bYs.md#t-00-30-16) (Accusation) **Candace Owens**: ["Ben Shapiro knows something about Erika Kirk that he is fearful will c..."](/statements/statement-3df10f2d2cce.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md)
+
+- [00:40:39](/episodes/ep-w1oqQbR_bYs.md#t-00-40-26) (Accusation) **Candace Owens**: ["Erika Kirk lied about having not dated anybody before Charlie Kirk"](/statements/statement-d680b6a6dcdb.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:41:32](/episodes/ep-w1oqQbR_bYs.md#t-00-41-05) (Claim) **Candace Owens**: ["The surgeon said the frangible bullet suggestion was made on a three-w..."](/statements/statement-997a2b519d2a.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+- [00:44:04](/episodes/ep-w1oqQbR_bYs.md#t-00-43-46) (Claim) **Candace Owens**: ["Erika Kirk previously dated Cabot Phillips, a Daily Wire employee, in ..."](/statements/statement-b153bb3657cc.md)
+  - Also about: [Cabot Phillips](/entities/person-cabot-phillips.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:44:45](/episodes/ep-w1oqQbR_bYs.md#t-00-44-30) (Claim) **Candace Owens**: ["Erika Kirk is half Jewish according to her cousin Nicole Rothstein"](/statements/statement-86cb14abbe01.md)
+  - Also about: [Nicole Rothstein](/entities/person-nicole-rothstein.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2)</summary>
+
+- [00:57:45](/episodes/ep-ewBzjVe3LNQ.md#t-00-57-34) (Claim) **Anonymous Source #4 (Ep ewBzjVe3LNQ)**: ["I am 95 to 99 percent certain I saw Erika Kirk at Fort Huachuca in the..."](/statements/statement-fe5aea94c1fd.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+- [00:57:58](/episodes/ep-ewBzjVe3LNQ.md#t-00-57-34) (Accusation) **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["I am 95-99 percent certain that the woman with striking blue eyes I sa..."](/statements/statement-225fecf27f50.md)
   - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </details>

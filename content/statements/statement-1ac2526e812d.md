@@ -25,7 +25,7 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md)
-**Timestamp:** [00:46:30](/episodes/ep-ewBzjVe3LNQ.md#t-00-46-03) 
+**Timestamp:** [00:46:30](/episodes/ep-ewBzjVe3LNQ.md#t-00-46-23) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2790);return false;">Play</a>
 
 > There were a couple of people next to him and obviously they were trying to talk to him. They were sort of palling around, but it was also sort of serious. Some of the military lieutenant colonels there and the unit sergeant major escorted him out.

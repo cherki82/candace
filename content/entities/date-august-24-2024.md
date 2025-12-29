@@ -1,6 +1,6 @@
 ---
 title: "August 24, 2024"
-description: "August 24, 2024 (Dates) - 1 mention"
+description: "August 24, 2024 (Dates) - 2 mentions"
 id: "date-august-24-2024"
 type: "DATE"
 ---
@@ -11,6 +11,14 @@ _Type: Dates_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>
+
+**[00:41:43](/episodes/ep-9k2xrAC0H88.md#t-00-41-35)**
+> "he particularly points out this date of August 24th"
+
+</details>
 
 <details>
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>

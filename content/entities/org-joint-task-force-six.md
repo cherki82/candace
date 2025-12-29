@@ -20,13 +20,13 @@ _Type: Organizations_
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (3 mentions)</summary>
 
-**[00:25:36](/episodes/ep-ewBzjVe3LNQ.md#ent-org-joint-task-force-six-t-00-25-51)**
+**[00:25:36](/episodes/ep-ewBzjVe3LNQ.md#ent-org-joint-task-force-six-t-00-26-10)**
 > "Yeah, we were part of a mission going down to the board of JTF-6 assigned from 10th Mountain."
 
-**[00:26:15](/episodes/ep-ewBzjVe3LNQ.md#ent-org-joint-task-force-six-t-00-25-51)**
+**[00:26:15](/episodes/ep-ewBzjVe3LNQ.md#ent-org-joint-task-force-six-t-00-26-10)**
 > "...on going down to the board of JTF-6 assigned from 10th Mountain."
 
-**[00:27:38](/episodes/ep-ewBzjVe3LNQ.md#ent-org-joint-task-force-six-t-00-27-08)**
+**[00:27:38](/episodes/ep-ewBzjVe3LNQ.md#ent-org-joint-task-force-six-t-00-27-33)**
 > "...when I got pulled back to the JTF-6 headquarters,"
 
 </details>
@@ -80,6 +80,19 @@ _Type: Organizations_
 
 - **[George H.W. Bush](/entities/person-george-hw-bush.md)** founded this
   - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:05:14](/episodes/ep-t4U7NjnUEgc.md#t-00-04-35)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Joint Task Force Six (1)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
+
+- [00:28:44](/episodes/ep-ewBzjVe3LNQ.md#t-00-28-18) (Claim) **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["In circa 1990, as part of JTF-6 assigned from 10th Mountain Division, ..."](/statements/statement-c361c56363e8.md)
+  - Also about: [10th Mountain Division](/entities/org-10th-mountain-division.md), [Douglas, Arizona](/entities/gpe-douglas-arizona.md)
 
 </details>
 

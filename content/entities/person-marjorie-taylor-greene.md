@@ -1,6 +1,6 @@
 ---
 title: "Marjorie Taylor Greene"
-description: "Marjorie Taylor Greene (People) - 4 mentions"
+description: "Marjorie Taylor Greene (People) - 6 mentions"
 id: "person-marjorie-taylor-greene"
 type: "PERSON"
 ---
@@ -11,6 +11,17 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
+
+**[00:25:34](/episodes/ep-9k2xrAC0H88.md#ent-person-marjorie-taylor-greene-t-00-25-03)**
+> "maybe what Marjorie Taylor Greene did and said, this is hopelessly broken"
+
+**[00:25:30](/episodes/ep-9k2xrAC0H88.md#ent-person-marjorie-taylor-greene-t-00-25-03)**
+> "And he's doing maybe what Marjorie Taylor Greene did and said, this is hopelessly broken."
+
+</details>
 
 <details>
 <summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (2 mentions)</summary>

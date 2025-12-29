@@ -1,6 +1,6 @@
 ---
 title: "Breitbart News"
-description: "Breitbart News (Organizations) - 2 mentions"
+description: "Breitbart News (Organizations) - 4 mentions"
 id: "org-breitbart-news"
 type: "ORG"
 aliases:
@@ -15,6 +15,17 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
+
+**[00:23:32](/episodes/ep-w1oqQbR_bYs.md#ent-org-breitbart-news-t-00-23-20)**
+> "he wrote while Ben was at Breitbart"
+
+**[00:23:32](/episodes/ep-w1oqQbR_bYs.md#ent-org-breitbart-news-t-00-23-20)**
+> "... as he wrote while Ben was at Breitbart before he turned his back and betrayed them too, ..."
+
+</details>
 
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>

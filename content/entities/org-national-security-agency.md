@@ -1,6 +1,6 @@
 ---
 title: "National Security Agency"
-description: "National Security Agency (Organizations) - 2 mentions"
+description: "National Security Agency (Organizations) - 4 mentions"
 id: "org-national-security-agency"
 type: "ORG"
 aliases:
@@ -15,6 +15,17 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
+
+**[00:02:06](/episodes/ep-9k2xrAC0H88.md#ent-org-national-security-agency-t-00-02-01)**
+> "that works for the FBI or the NSA"
+
+**[00:02:04](/episodes/ep-9k2xrAC0H88.md#ent-org-national-security-agency-t-00-02-01)**
+> "that works for the FBI or the NSA."
+
+</details>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>

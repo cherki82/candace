@@ -26,7 +26,7 @@ _Type: People_
 **[00:10:50](/episodes/ep-ewBzjVe3LNQ.md#ent-person-josh-hammer-t-00-10-25)**
 > "Josh Hammer is amazing."
 
-**[01:12:56](/episodes/ep-ewBzjVe3LNQ.md#ent-person-josh-hammer-t-01-12-40)**
+**[01:12:56](/episodes/ep-ewBzjVe3LNQ.md#ent-person-josh-hammer-t-01-12-46)**
 > "...hey're protecting people like Josh Hammer."
 
 </details>
@@ -689,7 +689,7 @@ _Type: People_
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
 
-- [01:13:08](/episodes/ep-ewBzjVe3LNQ.md#t-01-12-40) (Accusation) **Candace Owens**: ["Josh Hammer lied and people are going out of their way to protect him"](/statements/statement-efaab0fb4d52.md)
+- [01:13:08](/episodes/ep-ewBzjVe3LNQ.md#t-01-12-46) (Accusation) **Candace Owens**: ["Josh Hammer lied and people are going out of their way to protect him"](/statements/statement-efaab0fb4d52.md)
 
 </details>
 

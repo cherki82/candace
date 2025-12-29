@@ -1,6 +1,6 @@
 ---
 title: "Mossad"
-description: "Mossad (Organizations) - 27 mentions"
+description: "Mossad (Organizations) - 31 mentions"
 id: "org-mossad"
 type: "ORG"
 ---
@@ -11,6 +11,23 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (4 mentions)</summary>
+
+**[00:19:28](/episodes/ep-w1oqQbR_bYs.md#ent-org-mossad-t-00-19-05)**
+> "spew absolutely baseless trash implicating everyone from French intelligence to Mossad"
+
+**[00:19:28](/episodes/ep-w1oqQbR_bYs.md#ent-org-mossad-t-00-19-05)**
+> "...e from French intelligence to Mossad to members of TPUSA in Charlie's murder or a cove..."
+
+**[00:45:32](/episodes/ep-w1oqQbR_bYs.md#ent-org-mossad-t-00-45-12)**
+> "He even says the Mossad."
+
+**[00:45:33](/episodes/ep-w1oqQbR_bYs.md#ent-org-mossad-t-00-45-12)**
+> "I never once said the Mossad killed Charlie Kirk."
+
+</details>
 
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2 mentions)</summary>
@@ -160,7 +177,14 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mossad (8)</strong></summary>
+<summary><strong class="section-title">Statements about Mossad (9)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
+
+- [00:11:34](/episodes/ep-ewBzjVe3LNQ.md#t-00-11-03) (Accusation) **Candace Owens**: ["Faith has been infiltrated by the military; many conservative media co..."](/statements/statement-3d67750873d5.md)
+
+</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2)</summary>

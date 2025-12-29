@@ -1,6 +1,6 @@
 ---
 title: "Turning Point USA"
-description: "Turning Point USA (Organizations) - 753 mentions"
+description: "Turning Point USA (Organizations) - 767 mentions"
 id: "org-turning-point-usa"
 type: "ORG"
 aliases:
@@ -21,6 +21,41 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (10 mentions)</summary>
+
+**[00:01:14](/episodes/ep-w1oqQbR_bYs.md#ent-org-turning-point-usa-t-00-00-42)**
+> "Turning Point USA's AmFest"
+
+**[00:01:14](/episodes/ep-w1oqQbR_bYs.md#ent-org-turning-point-usa-t-00-00-42)**
+> "...ast night he hit the stage at Turning Point USA's AmFest the other night."
+
+**[00:02:30](/episodes/ep-w1oqQbR_bYs.md#ent-org-turning-point-usa-t-00-02-30)**
+> "So he comes at Turning Point USA, and this is what was divulged to me from Andrew ..."
+
+**[00:02:57](/episodes/ep-w1oqQbR_bYs.md#ent-org-turning-point-usa-t-00-02-30)**
+> "...s, the people on the board of TPUSA want Candice gone."
+
+**[00:19:05](/episodes/ep-w1oqQbR_bYs.md#ent-org-turning-point-usa-t-00-19-05)**
+> "...e Kirk, casting aspersions at TPUSA, and the people who work here, who worked with Ch..."
+
+**[00:19:28](/episodes/ep-w1oqQbR_bYs.md#ent-org-turning-point-usa-t-00-19-05)**
+> "...gence to Mossad to members of TPUSA in Charlie's murder or a cover-up in that murder,..."
+
+**[00:19:45](/episodes/ep-w1oqQbR_bYs.md#ent-org-turning-point-usa-t-00-19-45)**
+> "...ent on Candace's targeting of TPUSA."
+
+**[00:20:54](/episodes/ep-w1oqQbR_bYs.md#ent-org-turning-point-usa-t-00-20-25)**
+> "...amount of messages I got from Turning Point USA people saying, what is happening?"
+
+**[00:23:02](/episodes/ep-w1oqQbR_bYs.md#ent-org-turning-point-usa-t-00-22-34)**
+> "...he people that are working at Turning Point USA."
+
+**[00:25:07](/episodes/ep-w1oqQbR_bYs.md#ent-org-turning-point-usa-t-00-25-01)**
+> "...from people who give money to turning point, I would assume good people, but who wanted him t..."
+
+</details>
+
+<details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (6 mentions)</summary>
 
 **[00:20:35](/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-t-00-17-22)**
@@ -38,8 +73,25 @@ _Type: Organizations_
 **[00:24:05](/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-t-00-23-39)**
 > "... everybody go crazy after the Turning Point USA event where Tucker asked the question, where does..."
 
-**[00:55:01](/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-t-00-54-39)**
+**[00:55:01](/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-t-00-54-42)**
 > "... don't know these people from TPUSA, never been associated."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (4 mentions)</summary>
+
+**[00:01:58](/episodes/ep-9k2xrAC0H88.md#ent-org-turning-point-usa-t-00-01-18)**
+> "not every single person is bad at Turning Point USA"
+
+**[00:01:58](/episodes/ep-9k2xrAC0H88.md#ent-org-turning-point-usa-t-00-01-18)**
+> "...every single person is bad at Turning Point USA."
+
+**[00:53:18](/episodes/ep-9k2xrAC0H88.md#ent-org-turning-point-usa-t-00-52-39)**
+> "...can slap that comment under a Turning Point USA episode."
+
+**[00:56:09](/episodes/ep-9k2xrAC0H88.md#ent-org-turning-point-usa-t-00-55-37)**
+> "...tian planes, then you implied turning point USA."
 
 </details>
 
@@ -2939,7 +2991,21 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point USA (132)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point USA (135)</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3)</summary>
+
+- [00:02:39](/episodes/ep-w1oqQbR_bYs.md#t-00-02-30) (Accusation) **Candace Owens**: ["Ben Shapiro paid an offensive amount of money to be part of AmFest 202..."](/statements/statement-196a937c330b.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [America Fest](/entities/event-america-fest.md)
+
+- [00:02:57](/episodes/ep-w1oqQbR_bYs.md#t-00-02-30) (Accusation) **Candace Owens**: ["Ben Shapiro worked with Bari Weiss to have an article published claimi..."](/statements/statement-52ac3b9164b8.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Bari Weiss](/entities/person-bari-weiss.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:25:07](/episodes/ep-w1oqQbR_bYs.md#t-00-25-01) (Claim) **Tucker Carlson**: ["Charlie Kirk spent the last several months of his life under immense p..."](/statements/statement-5e3f12bf081d.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2)</summary>

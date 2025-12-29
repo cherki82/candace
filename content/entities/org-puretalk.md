@@ -1,6 +1,6 @@
 ---
 title: "PureTalk"
-description: "PureTalk (Organizations) - 36 mentions"
+description: "PureTalk (Organizations) - 42 mentions"
 id: "org-puretalk"
 type: "ORG"
 aliases:
@@ -15,6 +15,29 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (6 mentions)</summary>
+
+**[00:47:17](/episodes/ep-w1oqQbR_bYs.md#ent-org-puretalk-t-00-47-24)**
+> "PureTalk for your wireless needs"
+
+**[00:47:28](/episodes/ep-w1oqQbR_bYs.md#ent-org-puretalk-t-00-47-24)**
+> "Well, my friends at PureTalk would like to say thank you from the bottom of th..."
+
+**[00:47:28](/episodes/ep-w1oqQbR_bYs.md#ent-org-puretalk-t-00-47-24)**
+> "... of their hearts for choosing PureTalk for your wireless needs."
+
+**[00:47:48](/episodes/ep-w1oqQbR_bYs.md#ent-org-puretalk-t-00-47-24)**
+> "Your patronage has allowed PureTalk to donate a thousand hand-sewn Made in America fl..."
+
+**[00:47:54](/episodes/ep-w1oqQbR_bYs.md#ent-org-puretalk-t-00-47-24)**
+> "And when you choose PureTalk as your wireless provider, you choose to support ..."
+
+**[00:48:10](/episodes/ep-w1oqQbR_bYs.md#ent-org-puretalk-t-00-48-04)**
+> "So from everyone in the PureTalk family,"
+
+</details>
 
 <details>
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (6 mentions)</summary>

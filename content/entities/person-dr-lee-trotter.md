@@ -1,6 +1,6 @@
 ---
 title: "Dr. Lee Trotter"
-description: "Dr. Lee Trotter (People) - 6 mentions"
+description: "Dr. Lee Trotter (People) - 10 mentions"
 id: "person-dr-lee-trotter"
 type: "PERSON"
 ---
@@ -11,6 +11,23 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (4 mentions)</summary>
+
+**[00:05:11](/episodes/ep-9k2xrAC0H88.md#ent-person-dr-lee-trotter-t-00-04-53)**
+> "Simply put, and I'm going to say allegedly here only because I did not speak directly to Dr. Lee Trotter."
+
+**[00:05:03](/episodes/ep-9k2xrAC0H88.md#ent-person-dr-lee-trotter-t-00-04-53)**
+> "...e I did not speak directly to Dr. Lee Trotter."
+
+**[00:05:16](/episodes/ep-9k2xrAC0H88.md#ent-person-dr-lee-trotter-t-00-04-53)**
+> "Simply put, never once did Dr. Lee Trotter say that Charlie's neck was stopped, Charlie's ne..."
+
+**[00:06:22](/episodes/ep-9k2xrAC0H88.md#ent-person-dr-lee-trotter-t-00-06-10)**
+> "...lutely true that the surgeon, Dr. Lee Trotter, hunts, so he does have experience with bullets."
+
+</details>
 
 <details>
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>

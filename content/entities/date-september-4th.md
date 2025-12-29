@@ -1,6 +1,6 @@
 ---
 title: "September 4th"
-description: "September 4th (Dates) - 18 mentions"
+description: "September 4th (Dates) - 22 mentions"
 id: "date-september-4th"
 type: "DATE"
 aliases:
@@ -16,6 +16,23 @@ _Type: Dates_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (4 mentions)</summary>
+
+**[00:43:06](/episodes/ep-w1oqQbR_bYs.md#ent-date-september-4th-t-00-42-27)**
+> "he is missing from September 4th to the September 10th on that show"
+
+**[00:35:34](/episodes/ep-w1oqQbR_bYs.md#ent-date-september-4th-t-00-34-58)**
+> "And on September 9th, in a 12-hour bark up,"
+
+**[00:36:24](/episodes/ep-w1oqQbR_bYs.md#ent-date-september-4th-t-00-36-19)**
+> "...a solid alibi for the alleged September 9th meeting with Charlie Kirk's security Brian Harpol..."
+
+**[00:42:59](/episodes/ep-w1oqQbR_bYs.md#ent-date-september-4th-t-00-42-27)**
+> "...ticed that he is missing from September 4th to the September 10th on that show."
+
+</details>
 
 <details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>

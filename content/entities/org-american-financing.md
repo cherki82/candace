@@ -1,6 +1,6 @@
 ---
 title: "American Financing"
-description: "American Financing (Organizations) - 132 mentions"
+description: "American Financing (Organizations) - 137 mentions"
 id: "org-american-financing"
 type: "ORG"
 aliases:
@@ -17,18 +17,38 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (5 mentions)</summary>
+
+**[00:48:15](/episodes/ep-w1oqQbR_bYs.md#ent-org-american-financing-t-00-48-04)**
+> "the Fed has dropped rates for the fourth time... call American financing today"
+
+**[00:48:15](/episodes/ep-w1oqQbR_bYs.md#ent-org-american-financing-t-00-48-04)**
+> "Also remind you guys about American financing because the Fed has dropped rates for the fourth ..."
+
+**[00:48:19](/episodes/ep-w1oqQbR_bYs.md#ent-org-american-financing-t-00-48-04)**
+> "... a homeowner, you should call American financing today."
+
+**[00:48:31](/episodes/ep-w1oqQbR_bYs.md#ent-org-american-financing-t-00-48-04)**
+> "American financing customers are saving an average of $800 a month, ..."
+
+**[00:48:55](/episodes/ep-w1oqQbR_bYs.md#ent-org-american-financing-t-00-48-46)**
+> "So call American Financing today."
+
+</details>
+
+<details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (4 mentions)</summary>
 
-**[00:01:40](/episodes/ep-ewBzjVe3LNQ.md#ent-org-american-financing-t-01-07-37)**
+**[00:01:40](/episodes/ep-ewBzjVe3LNQ.md#ent-org-american-financing-t-01-07-58)**
 > "American Financing"
 
-**[01:08:06](/episodes/ep-ewBzjVe3LNQ.md#ent-org-american-financing-t-01-07-37)**
+**[01:08:06](/episodes/ep-ewBzjVe3LNQ.md#ent-org-american-financing-t-01-07-58)**
 > "... a homeowner, you should call American Financing today because you could be saving real money ever..."
 
-**[01:08:21](/episodes/ep-ewBzjVe3LNQ.md#ent-org-american-financing-t-01-08-21)**
+**[01:08:21](/episodes/ep-ewBzjVe3LNQ.md#ent-org-american-financing-t-01-07-58)**
 > "American Financing customers are saving an average of $800 a month w..."
 
-**[01:08:45](/episodes/ep-ewBzjVe3LNQ.md#ent-org-american-financing-t-01-08-21)**
+**[01:08:45](/episodes/ep-ewBzjVe3LNQ.md#ent-org-american-financing-t-01-08-39)**
 > "So call American Financing today."
 
 </details>

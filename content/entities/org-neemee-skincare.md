@@ -1,6 +1,6 @@
 ---
 title: "Neemee Skincare"
-description: "Neemee Skincare (Organizations) - 11 mentions"
+description: "Neemee Skincare (Organizations) - 15 mentions"
 id: "org-neemee-skincare"
 type: "ORG"
 aliases:
@@ -16,6 +16,23 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (4 mentions)</summary>
+
+**[00:50:29](/episodes/ep-9k2xrAC0H88.md#ent-org-neemee-skincare-t-00-50-27)**
+> "Also telling you guys about Neemee Skincare"
+
+**[00:50:27](/episodes/ep-9k2xrAC0H88.md#ent-org-neemee-skincare-t-00-50-27)**
+> "Also telling you guys about Neemee Skincare, you know I love them."
+
+**[00:50:40](/episodes/ep-9k2xrAC0H88.md#ent-org-neemee-skincare-t-00-50-27)**
+> "... let me just say, I love what Neemee Skincare is doing this Christmas season because while ever..."
+
+**[00:50:40](/episodes/ep-9k2xrAC0H88.md#ent-org-neemee-skincare-t-00-50-27)**
+> "...heir happy holiday messaging, Neemee is saying absolutely not."
+
+</details>
 
 <details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (7 mentions)</summary>
