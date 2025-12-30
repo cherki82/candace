@@ -228,7 +228,7 @@ youtube_url: "https://www.youtube.com/watch?v=QZWSsq8ZWzw"
 </details>
 
 <details>
-<summary><strong>Statements (50)</strong></summary>
+<summary><strong>Statements (46)</strong></summary>
 
 - [00:00:35](#t-00-00-01) [○] (Accusation) **Candace Owens**: ["The FBI is putting an absurd amount of pressure on authorities in Utah to come o..."](/statements/statement-cd1d8569e975.md)
   - About: [FBI](/entities/org-fbi.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
@@ -242,8 +242,6 @@ youtube_url: "https://www.youtube.com/watch?v=QZWSsq8ZWzw"
   - About: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:03:18](#t-00-02-58) [○] (Claim) **Candace Owens**: ["There is absolutely no video which shows Tyler Robinson firing the weapon or eve..."](/statements/statement-ad4576213201.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
-- [00:03:38](#t-00-02-58) [○] (Claim) **Candace Owens**: ["There is absolutely no video which shows Tyler Robinson firing the weapon or eve..."](/statements/statement-6e8675d3c16f.md)
-  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:03:55](#t-00-03-42) [○] (Claim) **Candace Owens**: ["The individual who filmed the footage of the shooter on the roof told me that he..."](/statements/statement-2db6f8d15172.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:04:37](#t-00-04-22) [○] (Claim) **Candace Owens**: ["The feds don't have any footage that explains how the rifle got onto the roof"](/statements/statement-c0ad2b7e8721.md)
@@ -255,9 +253,7 @@ youtube_url: "https://www.youtube.com/watch?v=QZWSsq8ZWzw"
 - [00:05:43](#t-00-05-35) [○] (Claim) **Anonymous Source #1 (Ep QZWSsq8ZWzw)**: ["The bullet from the Charlie Kirk shooting was too fragmented to match Tyler Robi..."](/statements/statement-2c309de0ebef.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:05:50](#t-00-05-35) [○] (Claim) **Candace Owens**: ["Tyler Robinson has not confessed to anything"](/statements/statement-bf3cf32115e4.md)
-  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
-- [00:05:50](#t-00-05-35) [○] (Claim) **Candace Owens**: ["Tyler Robinson has not confessed to anything"](/statements/statement-275bad862864.md)
-  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:06:39](#t-00-06-18) [○] (Opinion) **Candace Owens**: ["I believe the feds know exactly what happened"](/statements/statement-5feabdfcc36c.md)
   - About: [FBI](/entities/org-fbi.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:08:02](#t-00-07-30) [○] (Claim) **Candace Owens**: ["It's not the only set of prints on that gun"](/statements/statement-bd3aff0b0a72.md)
@@ -280,7 +276,6 @@ youtube_url: "https://www.youtube.com/watch?v=QZWSsq8ZWzw"
   - About: [Utah](/entities/gpe-utah.md)
 - [00:17:09](#t-00-16-32) [○] (Claim) **Candace Owens**: ["Utah recently modernized their beehive flag, and Utah has always been known as t..."](/statements/statement-8d437af36e74.md)
   - About: [Utah](/entities/gpe-utah.md), [Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints.md)
-- [00:18:14](#t-00-17-52) [○] (Opinion) **Candace Owens**: ["The public school system is shaped by Soviet ideology"](/statements/statement-f4bd23c36ba1.md)
 - [00:18:14](#t-00-17-52) [○] (Accusation) **Candace Owens**: ["The public school system is shaped by Soviet ideology"](/statements/statement-b569f3fcf6cc.md)
   - About: [Bolsheviks](/entities/concept-bolsheviks.md)
 - [00:18:18](#t-00-17-52) [○] (Citation) **Candace Owens**: ["Inside American Education by Thomas Sowell is a must-read book that explains how..."](/statements/statement-3372ce33fa07.md)
@@ -316,9 +311,7 @@ youtube_url: "https://www.youtube.com/watch?v=QZWSsq8ZWzw"
 - [00:33:29](#t-00-32-53) [○] (Accusation) **Candace Owens**: ["The people who rule over us know who they worship and they worship Luciferianism"](/statements/statement-f3095171c3d6.md)
   - About: [Luciferianism](/entities/concept-luciferianism.md)
 - [00:34:12](#t-00-33-55) [○] (Claim) **Megyn Kelly**: ["Two weeks before Charlie Kirk was assassinated, the far-left website Jezebel dec..."](/statements/statement-6abe69b7c224.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Jezebel](/entities/org-jezebel.md)
-- [00:34:47](#t-00-34-32) [○] (Claim) **Megyn Kelly**: ["Two weeks before Charlie Kirk was assassinated, the far-left website Jezebel dec..."](/statements/statement-745063ebaca7.md)
-  - About: [Jezebel](/entities/org-jezebel.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Jezebel](/entities/org-jezebel.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:35:19](#t-00-35-07) [○] (Claim) **Megyn Kelly**: ["Erika Kirk and Charlie Kirk contacted a friend, who was a Catholic priest, and a..."](/statements/statement-452be7e34efb.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:35:32](#t-00-35-07) [○] (Claim) **Megyn Kelly**: ["Etsy, the website known for making arts and crafts on demand, will happily cast ..."](/statements/statement-45fe77072d7a.md)

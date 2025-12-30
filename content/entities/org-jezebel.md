@@ -42,15 +42,12 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jezebel (2)</strong></summary>
+<summary><strong class="section-title">Statements about Jezebel (1)</strong></summary>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (2)</summary>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (1)</summary>
 
 - [00:34:12](/episodes/ep-QZWSsq8ZWzw.md#t-00-33-55) (Claim) **Megyn Kelly** (via quoted speech): ["Two weeks before Charlie Kirk was assassinated, the far-left website J..."](/statements/statement-6abe69b7c224.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:34:47](/episodes/ep-QZWSsq8ZWzw.md#t-00-34-32) (Claim) **Megyn Kelly** (via quoted speech): ["Two weeks before Charlie Kirk was assassinated, the far-left website J..."](/statements/statement-745063ebaca7.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 </details>

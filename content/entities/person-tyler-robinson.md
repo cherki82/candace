@@ -1264,10 +1264,10 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Robinson (106)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Robinson (101)</strong></summary>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (9)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (8)</summary>
 
 - [00:04:31](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-13) (Claim) **Candace Owens**: ["The lone confirmed eyewitness to the alleged shooter on Losey Center r..."](/statements/statement-199870b8483a.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -1280,8 +1280,6 @@ _Type: People_
 
 - [00:08:08](/episodes/ep-ewBzjVe3LNQ.md#t-00-07-39) (Claim) **Candace Owens**: ["The footage of Tyler Robinson turning himself in is apparently missing"](/statements/statement-0a41ad054098.md)
 
-- [00:08:08](/episodes/ep-ewBzjVe3LNQ.md#t-00-07-39) (Claim) **Candace Owens**: ["The footage of Tyler Robinson turning himself in is apparently missing"](/statements/statement-963942fae5ae.md)
-
 - [00:08:21](/episodes/ep-ewBzjVe3LNQ.md#t-00-07-39) (Accusation) **Candace Owens**: ["The entire story about how the parents turned him in and did the right..."](/statements/statement-2bb1432336be.md)
 
 - [00:08:23](/episodes/ep-ewBzjVe3LNQ.md#t-00-07-39) (Accusation) **Candace Owens**: ["Tyler Robinson's parents were told either the doors would be broken do..."](/statements/statement-d6e15a7e00c1.md)
@@ -1293,7 +1291,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (11)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (10)</summary>
 
 - [00:10:43](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) (Accusation) **Candace Owens**: ["Tyler Boyer lied and said Terrell was asked to take the camera down by..."](/statements/statement-420d234f80d5.md)
   - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
@@ -1309,10 +1307,8 @@ _Type: People_
 - [00:18:09](/episodes/ep-es7PWdFGoFI.md#t-00-17-41) (Claim) **Candace Owens** (via paraphrase): ["The Turning Point USA lawyer said they have nothing but the affidavit ..."](/statements/statement-55a27a78ea72.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:20:30](/episodes/ep-es7PWdFGoFI.md#t-00-19-50) (Opinion) **Candace Owens**: ["I don't believe that Tyler Robinson pulled the trigger"](/statements/statement-c3a8afbf2c68.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
 - [00:20:42](/episodes/ep-es7PWdFGoFI.md#t-00-20-30) (Opinion) **Candace Owens**: ["I don't believe that Tyler Robinson pulled the trigger"](/statements/statement-cdeead784a48.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:20:42](/episodes/ep-es7PWdFGoFI.md#t-00-20-30) (Opinion) **Candace Owens**: ["Tyler Robinson did not pull the trigger in the Charlie Kirk shooting"](/statements/statement-74fd764b1b2d.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -1385,7 +1381,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (13)</summary>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (11)</summary>
 
 - [00:02:30](/episodes/ep-QZWSsq8ZWzw.md#t-00-02-13) (Claim) **Candace Owens** (via paraphrase): ["The FBI is saying that if you don't close the case against Charlie Kir..."](/statements/statement-ace1325ce121.md)
   - Also about: [FBI](/entities/org-fbi.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
@@ -1394,9 +1390,6 @@ _Type: People_
   - Also about: [FBI](/entities/org-fbi.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 - [00:03:18](/episodes/ep-QZWSsq8ZWzw.md#t-00-02-58) (Claim) **Candace Owens**: ["There is absolutely no video which shows Tyler Robinson firing the wea..."](/statements/statement-ad4576213201.md)
-  - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
-
-- [00:03:38](/episodes/ep-QZWSsq8ZWzw.md#t-00-02-58) (Claim) **Candace Owens**: ["There is absolutely no video which shows Tyler Robinson firing the wea..."](/statements/statement-6e8675d3c16f.md)
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 - [00:03:55](/episodes/ep-QZWSsq8ZWzw.md#t-00-03-42) (Claim) **Candace Owens** (via paraphrase): ["The individual who filmed the footage of the shooter on the roof told ..."](/statements/statement-2db6f8d15172.md)
@@ -1409,8 +1402,6 @@ _Type: People_
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 - [00:05:50](/episodes/ep-QZWSsq8ZWzw.md#t-00-05-35) (Claim) **Candace Owens**: ["Tyler Robinson has not confessed to anything"](/statements/statement-bf3cf32115e4.md)
-
-- [00:05:50](/episodes/ep-QZWSsq8ZWzw.md#t-00-05-35) (Claim) **Candace Owens**: ["Tyler Robinson has not confessed to anything"](/statements/statement-275bad862864.md)
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 - [00:08:02](/episodes/ep-QZWSsq8ZWzw.md#t-00-07-30) (Claim) **Candace Owens**: ["It's not the only set of prints on that gun"](/statements/statement-bd3aff0b0a72.md)
@@ -1529,9 +1520,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (18)</summary>
-
-- [00:00:45](/episodes/ep-q7f8r-THr84.md#t-00-00-01) (Claim) **Candace Owens**: ["The indictment against Tyler Robinson was just released"](/statements/statement-3abf85e28c84.md)
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (17)</summary>
 
 - [00:00:45](/episodes/ep-q7f8r-THr84.md#t-00-00-45) (Claim) **Candace Owens**: ["The indictment against Tyler Robinson was just released"](/statements/statement-ba26c141ef0b.md)
 

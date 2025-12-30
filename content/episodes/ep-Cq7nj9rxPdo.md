@@ -312,7 +312,7 @@ youtube_url: "https://www.youtube.com/watch?v=Cq7nj9rxPdo"
 </details>
 
 <details>
-<summary><strong>Statements (57)</strong></summary>
+<summary><strong>Statements (54)</strong></summary>
 
 - [00:00:07](#t-00-00-00) [○] (Claim) **Turning Point USA**: ["Charlie Kirk told Mikey McCoy exactly what he should do in the circumstance of b..."](/statements/statement-6f894cffc27b.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Mikey McCoy](/entities/person-mikey-mccoy.md)
@@ -334,8 +334,6 @@ youtube_url: "https://www.youtube.com/watch?v=Cq7nj9rxPdo"
   - About: [Kanye West](/entities/person-kanye-west.md)
 - [00:11:07](#t-00-10-48) [○] (Accusation) **Candace Owens**: ["From the moment of the Kanye tweet onward, Charlie Kirk and Candace Owens were a..."](/statements/statement-2685f32f2368.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
-- [00:11:18](#t-00-10-48) [○] (Accusation) **Candace Owens**: ["Things were done intentionally to pull Candace Owens and Charlie Kirk apart"](/statements/statement-400bb4160389.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:11:27](#t-00-10-48) [○] (Accusation) **Candace Owens**: ["From 2018 onward, Charlie Kirk and Candace Owens were assigned handlers"](/statements/statement-b496016250ab.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
 - [00:11:32](#t-00-11-30) [○] (Accusation) **Candace Owens**: ["Things were done intentionally to pull Candace Owens and Charlie Kirk apart"](/statements/statement-152289a62419.md)
@@ -344,8 +342,6 @@ youtube_url: "https://www.youtube.com/watch?v=Cq7nj9rxPdo"
   - About: [David Horowitz](/entities/person-david-horowitz.md), [Andreessen Horowitz](/entities/org-andreessen-horowitz.md)
 - [00:11:47](#t-00-11-30) [○] (Claim) **Candace Owens**: ["Netanyahu insists Andreessen Horowitz should be part of the group buying TikTok ..."](/statements/statement-910efcf57c00.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Andreessen Horowitz](/entities/org-andreessen-horowitz.md), [TikTok](/entities/org-tiktok.md)
-- [00:12:02](#t-00-11-30) [○] (Opinion) **Candace Owens**: ["Eric Weinstein is a bad person"](/statements/statement-924dfdddc22d.md)
-  - About: [Eric Weinstein](/entities/person-eric-weinstein.md)
 - [00:12:06](#t-00-11-30) [○] (Opinion) **Candace Owens**: ["Eric Weinstein is a bad person"](/statements/statement-a21bb7757e62.md)
   - About: [Eric Weinstein](/entities/person-eric-weinstein.md)
 - [00:12:28](#t-00-12-11) [○] (Claim) **Candace Owens**: ["Tyler Bowyer was the only person with Charlie Kirk before and he introduced Char..."](/statements/statement-04733ae2eb7f.md)
@@ -416,8 +412,6 @@ youtube_url: "https://www.youtube.com/watch?v=Cq7nj9rxPdo"
 - [00:56:23](#t-00-56-19) [○] (Accusation) **Candace Owens**: ["Kabbalah is the reason for the cultural push for transgenderism"](/statements/statement-ec798c5bd223.md)
   - About: [Jewish mystical tradition](/entities/concept-jewish-mystical-tradition.md), [transgenderism](/entities/concept-transgenderism.md)
 - [00:56:40](#t-00-56-19) [○] (Claim) **Candace Owens**: ["Brigitte Macron is listed as Jean Michel and listed as male on French tax forms"](/statements/statement-5a51ff97e1c4.md)
-  - About: [Brigitte Macron](/entities/person-brigitte-macron.md)
-- [00:56:54](#t-00-56-19) [○] (Claim) **Candace Owens**: ["Brigitte Macron is listed as Jean Michel and male on French tax forms"](/statements/statement-f2fc68ce09ac.md)
   - About: [Brigitte Macron](/entities/person-brigitte-macron.md), [Jean-Michel Trogneux](/entities/person-jean-michel-trogneux.md)
 - [00:58:14](#t-00-57-42) [○] (Accusation) **Candace Owens**: ["Brigitte Macron was born Jean-Michel Trogneux and transitioned"](/statements/statement-304406e304ac.md)
   - About: [Brigitte Macron](/entities/person-brigitte-macron.md), [Jean-Michel Trogneux](/entities/person-jean-michel-trogneux.md)

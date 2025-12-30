@@ -91,10 +91,10 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lyndon Baines Johnson (5)</strong></summary>
+<summary><strong class="section-title">Statements about Lyndon Baines Johnson (4)</strong></summary>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (5)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (4)</summary>
 
 - [00:02:07](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46) (Accusation) **Charlie Kirk** (via quoted speech): ["Lyndon Baines Johnson and parts of our own government and the Cubans w..."](/statements/statement-e4d824ed3726.md)
   - Also about: [JFK assassination](/entities/event-jfk-assassination.md)
@@ -106,9 +106,6 @@ _Type: People_
   - Also about: [JFK assassination](/entities/event-jfk-assassination.md)
 
 - [00:04:42](/episodes/ep-Kmt6HgRjckU.md#t-00-04-16) (Accusation) **Candace Owens**: ["Lyndon Baines Johnson was clearly implicated in JFK's assassination"](/statements/statement-60b6bb5b3d5e.md)
-  - Also about: [JFK assassination](/entities/event-jfk-assassination.md)
-
-- [00:04:42](/episodes/ep-Kmt6HgRjckU.md#t-00-04-16) (Accusation) **Candace Owens**: ["Lyndon Baines Johnson was clearly implicated in JFK's assassination"](/statements/statement-a61d98f28600.md)
   - Also about: [JFK assassination](/entities/event-jfk-assassination.md)
 
 </details>

@@ -350,7 +350,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bill Ackman (17)</strong></summary>
+<summary><strong class="section-title">Statements about Bill Ackman (16)</strong></summary>
 
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1)</summary>
@@ -394,7 +394,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (6)</summary>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (5)</summary>
 
 - [00:00:24](/episodes/ep-sreYYcID-QY.md#t-00-00-00) (Accusation) **Candace Owens**: ["Bill Ackman is sending his press hounds after me"](/statements/statement-be9760f0883a.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
@@ -406,8 +406,6 @@ _Type: People_
 
 - [00:38:08](/episodes/ep-sreYYcID-QY.md#t-00-37-49) (Claim) **Candace Owens**: ["Someone at the Hamptons published a statement saying Charlie Kirk said..."](/statements/statement-766f5f30dc3c.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:45:24](/episodes/ep-sreYYcID-QY.md#t-00-45-07) (Claim) **Candace Owens**: ["Bill Ackman at the Hamptons retreat told attendees they shouldn't aspi..."](/statements/statement-ddf791d19502.md)
 
 - [00:52:24](/episodes/ep-sreYYcID-QY.md#t-00-52-09) (Claim) **Candace Owens**: ["Bill Ackman told attendees at the Hamptons retreat that they shouldn't..."](/statements/statement-6e2107e7e268.md)
 

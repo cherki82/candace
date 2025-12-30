@@ -313,7 +313,7 @@ youtube_url: "https://www.youtube.com/watch?v=sreYYcID-QY"
 </details>
 
 <details>
-<summary><strong>Statements (99)</strong></summary>
+<summary><strong>Statements (92)</strong></summary>
 
 - [00:00:06](#t-00-00-00) [○] (Claim) **Candace Owens**: ["Benjamin Netanyahu is again denying that he murdered Charlie Kirk"](/statements/statement-22f427641aa0.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -369,10 +369,6 @@ youtube_url: "https://www.youtube.com/watch?v=sreYYcID-QY"
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:12:28](#t-00-11-44) [○] (Claim) **Candace Owens**: ["The mainstream media has been controlled by the CIA since Operation Mockingbird"](/statements/statement-663c3c2d34c1.md)
   - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
-- [00:12:28](#t-00-11-44) [○] (Claim) **Candace Owens**: ["The mainstream media has been controlled by the CIA since Operation Mockingbird"](/statements/statement-6e21262eff49.md)
-  - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
-- [00:12:28](#t-00-11-44) [○] (Claim) **Candace Owens**: ["The mainstream media has been controlled by the CIA since Operation Mockingbird"](/statements/statement-2d6bd3ae45a5.md)
-  - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
 - [00:14:25](#t-00-14-12) [○] (Accusation) **Candace Owens**: ["Either the feds collected the doorbell cam footage and immediately gave it to TM..."](/statements/statement-51ebb8dd1f38.md)
   - About: [Erwin Steele](/entities/person-erwin-steele.md), [FBI](/entities/org-fbi.md)
 - [00:15:29](#t-00-14-56) [○] (Claim) **Candace Owens**: ["The Steele family works for Caldera Engineering, a company that manufactures val..."](/statements/statement-d35ea530d7cd.md)
@@ -422,9 +418,7 @@ youtube_url: "https://www.youtube.com/watch?v=sreYYcID-QY"
 - [00:31:25](#t-00-31-15) [○] (Accusation) **Candace Owens**: ["The media attacks against me are a Zionist attack, and they're all collaborating..."](/statements/statement-148259a3759c.md)
   - About: [Candace Owens](/entities/person-candace-owens.md)
 - [00:31:52](#t-00-31-15) [○] (Opinion) **Candace Owens**: ["Zionists control a lot of publications in America"](/statements/statement-5e65d2d7c15f.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md)
-- [00:31:52](#t-00-31-15) [○] (Opinion) **Candace Owens**: ["Zionists control a lot of publications in America"](/statements/statement-a2952385a7f5.md)
-  - About: [Zionism](/entities/concept-zionism.md)
+  - About: [Zionism](/entities/concept-zionism.md), [Candace Owens](/entities/person-candace-owens.md)
 - [00:33:12](#t-00-33-10) [○] (Claim) **Benjamin Netanyahu**: ["Somebody has fabricated a monstrous big lie that Israel had something to do with..."](/statements/statement-768519578741.md)
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:33:37](#t-00-33-10) [○] (Claim) **Benjamin Netanyahu**: ["Somebody has fabricated a monstrous big lie that Israel had something to do with..."](/statements/statement-a6bbdc9f7b90.md)
@@ -443,8 +437,6 @@ youtube_url: "https://www.youtube.com/watch?v=sreYYcID-QY"
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 - [00:35:52](#t-00-35-45) [○] (Accusation) **Candace Owens**: ["Netanyahu is a cold-blooded murderer based on what's happening in Gaza with kids..."](/statements/statement-6919d05285da.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
-- [00:35:55](#t-00-35-45) [○] (Claim) **Candace Owens**: ["Netanyahu's administration has been under investigation for taking money from th..."](/statements/statement-5cd8716ee51d.md)
-  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 - [00:36:35](#t-00-36-24) [○] (Claim) **Candace Owens**: ["Netanyahu's administration has been under investigation for taking money from th..."](/statements/statement-9e2ed6fcfb33.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 - [00:36:36](#t-00-36-24) [○] (Opinion) **Candace Owens**: ["The Freud family, not Joseph Goebbels, is the real father of modern propaganda"](/statements/statement-8cb6965121ef.md)
@@ -455,11 +447,7 @@ youtube_url: "https://www.youtube.com/watch?v=sreYYcID-QY"
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 - [00:38:08](#t-00-37-49) [○] (Claim) **Candace Owens**: ["Someone at the Hamptons published a statement saying Charlie Kirk said he felt m..."](/statements/statement-766f5f30dc3c.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Bill Ackman](/entities/person-bill-ackman.md)
-- [00:38:08](#t-00-37-49) [○] (Claim) **Candace Owens**: ["Someone at the Hamptons published a statement saying Charlie Kirk said he felt m..."](/statements/statement-fa0549c3f790.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:38:49](#t-00-38-34) [○] (Accusation) **Candace Owens**: ["The New York Post is an outfit of the Mossad and the deep state"](/statements/statement-c5d1d5ce3d9b.md)
-  - About: [New York Post](/entities/org-new-york-post.md)
-- [00:38:51](#t-00-38-34) [○] (Accusation) **Candace Owens**: ["The New York Post is an outfit of the Mossad and the deep state"](/statements/statement-dccaac958575.md)
   - About: [New York Post](/entities/org-new-york-post.md)
 - [00:40:45](#t-00-40-44) [○] (Claim) **Eric Bolling**: ["Candace Owens has not been at a Turning Point event in many years"](/statements/statement-e83cd183bca5.md)
   - About: [Candace Owens](/entities/person-candace-owens.md)
@@ -489,8 +477,6 @@ youtube_url: "https://www.youtube.com/watch?v=sreYYcID-QY"
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:45:18](#t-00-45-07) [○] (Claim) **Candace Owens**: ["Charlie Kirk and I never stopped being friends for a single second, ever"](/statements/statement-9ecddb3f6ca0.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [00:45:24](#t-00-45-07) [○] (Claim) **Candace Owens**: ["Bill Ackman at the Hamptons retreat told attendees they shouldn't aspire to own ..."](/statements/statement-ddf791d19502.md)
-  - About: [Bill Ackman](/entities/person-bill-ackman.md)
 - [00:46:19](#t-00-45-49) [○] (Claim) **Candace Owens**: ["Brigitte Macron's lawyer says they have offered scientific evidence to the US co..."](/statements/statement-420558408190.md)
   - About: [Brigitte Macron](/entities/person-brigitte-macron.md)
 - [00:46:31](#t-00-45-49) [○] (Claim) **Candace Owens**: ["Brigitte Macron was born a male"](/statements/statement-192363d0cd78.md)

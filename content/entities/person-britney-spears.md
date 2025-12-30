@@ -116,13 +116,10 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Britney Spears (10)</strong></summary>
+<summary><strong class="section-title">Statements about Britney Spears (9)</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (10)</summary>
-
-- [00:04:36](/episodes/ep-7RLtGgkTh9o.md#t-00-04-14) (Claim) **Candace Owens**: ["The Calvary Chapel was involved in Britney Spears' conservatorship"](/statements/statement-7e2bc07d6b9c.md)
-  - Also about: [Calvary Chapel](/entities/org-calvary-chapel.md)
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (9)</summary>
 
 - [00:04:56](/episodes/ep-7RLtGgkTh9o.md#t-00-04-14) (Claim) **Candace Owens**: ["The Calvary Chapel was involved in Britney Spears' conservatorship"](/statements/statement-a6c091beb979.md)
   - Also about: [Calvary Chapel](/entities/org-calvary-chapel.md)

@@ -92,15 +92,13 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Irina Zarutska (4)</strong></summary>
+<summary><strong class="section-title">Statements about Irina Zarutska (3)</strong></summary>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (4)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (3)</summary>
 
 - [00:08:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-08-16) (Claim) **Yashar Ali** (via quoted tweet): ["Josh Hammer was sharing what many conservatives were sharing the day b..."](/statements/statement-4fb57d4251c4.md)
   - Also about: [Josh Hammer](/entities/person-josh-hammer.md)
-
-- [00:08:44](/episodes/ep-2Riv3I7D0Yk.md#t-00-08-16) (Claim) **Candace Owens**: ["Irina Zarutska was murdered on August 22nd, her perpetrator was arrest..."](/statements/statement-d226045b68ba.md)
 
 - [00:08:46](/episodes/ep-2Riv3I7D0Yk.md#t-00-08-16) (Claim) **Candace Owens**: ["Irina Zarutska was murdered on August 22nd, her perpetrator was arrest..."](/statements/statement-d5ef7678f5e4.md)
 

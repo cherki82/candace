@@ -102,7 +102,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Terrell Farnsworth (15)</strong></summary>
+<summary><strong class="section-title">Statements about Terrell Farnsworth (13)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2)</summary>
@@ -116,15 +116,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (9)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (7)</summary>
 
 - [00:09:36](/episodes/ep-es7PWdFGoFI.md#t-00-09-22) (Accusation) **Candace Owens**: ["Terrell Farnsworth lied to Candace several times during their conversa..."](/statements/statement-ff4096136dd6.md)
 
 - [00:09:43](/episodes/ep-es7PWdFGoFI.md#t-00-09-22) (Accusation) **Candace Owens**: ["Terrell Farnsworth lied to me several times"](/statements/statement-ce76e68e4f2e.md)
 
 - [00:10:09](/episodes/ep-es7PWdFGoFI.md#t-00-09-57) (Claim) **Candace Owens**: ["Terrell Farnsworth comes from a very powerful family"](/statements/statement-ee0cb639f94a.md)
-
-- [00:10:29](/episodes/ep-es7PWdFGoFI.md#t-00-09-57) (Claim) **Candace Owens**: ["Terrell Farnsworth comes from a very powerful family"](/statements/statement-5e824d1a247f.md)
 
 - [00:10:43](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) (Accusation) **Candace Owens**: ["Tyler Boyer lied and said Terrell was asked to take the camera down by..."](/statements/statement-420d234f80d5.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
@@ -135,8 +133,6 @@ _Type: People_
 - [00:13:36](/episodes/ep-es7PWdFGoFI.md#t-00-13-27) (Opinion) **Candace Owens**: ["Terrell Farnsworth lied to me several times. My skin crawled after I s..."](/statements/statement-f3757ac613ee.md)
 
 - [00:13:43](/episodes/ep-es7PWdFGoFI.md#t-00-13-27) (Accusation) **Candace Owens**: ["Terrell Farnsworth lied to Candace several times"](/statements/statement-71248c54a021.md)
-
-- [00:14:29](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) (Claim) **Candace Owens**: ["Terrell Farnsworth comes from a very powerful family"](/statements/statement-0b969305ff97.md)
 
 </details>
 

@@ -136,10 +136,10 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lou Taylor (32)</strong></summary>
+<summary><strong class="section-title">Statements about Lou Taylor (31)</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (32)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (31)</summary>
 
 - [00:06:16](/episodes/ep-7RLtGgkTh9o.md#t-00-06-14) (Claim) **Brett Cooper** (via quoted speech): ["Lou Taylor became involved with Britney Spears in 2007 after she was h..."](/statements/statement-7d0fcf657936.md)
   - Also about: [Britney Spears](/entities/person-britney-spears.md), [Jamie Lynn Spears](/entities/person-jamie-lynn-spears.md)
@@ -180,9 +180,6 @@ _Type: People_
 
 - [00:11:45](/episodes/ep-7RLtGgkTh9o.md#t-00-11-28) (Claim) **Brett Cooper** (via quoted speech): ["Jamie Spears gave 10 percent of his conservatorship income to Calvary ..."](/statements/statement-2f38c392731f.md)
   - Also about: [Jamie Spears](/entities/person-jamie-spears.md), [Calvary Chapel](/entities/org-calvary-chapel.md)
-
-- [00:12:27](/episodes/ep-7RLtGgkTh9o.md#t-00-12-06) (Claim) **Brett Cooper** (via quoted speech): ["Lou Taylor tried to place Courtney Love and Lindsay Lohan into conserv..."](/statements/statement-85d932792922.md)
-  - Also about: [Courtney Love](/entities/person-courtney-love.md), [Lindsay Lohan](/entities/person-lindsay-lohan.md)
 
 - [00:12:38](/episodes/ep-7RLtGgkTh9o.md#t-00-12-06) (Accusation) **Brett Cooper** (via quoted speech): ["Lou Taylor tried to place Courtney Love and Lindsay Lohan into conserv..."](/statements/statement-6b6c86cc92a9.md)
   - Also about: [Courtney Love](/entities/person-courtney-love.md), [Lindsay Lohan](/entities/person-lindsay-lohan.md)

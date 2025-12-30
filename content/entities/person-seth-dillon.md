@@ -329,7 +329,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Seth Dillon (8)</strong></summary>
+<summary><strong class="section-title">Statements about Seth Dillon (7)</strong></summary>
 
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
@@ -350,13 +350,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (3)</summary>
-
-- [00:04:11](/episodes/ep-2Riv3I7D0Yk.md#t-00-03-33) (Accusation) **Candace Owens**: ["Seth Dillon and Josh Hammer were personally upset with Charlie Kirk's ..."](/statements/statement-ef1df5d865e9.md)
-  - Also about: [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2)</summary>
 
 - [00:04:14](/episodes/ep-2Riv3I7D0Yk.md#t-00-03-33) (Accusation) **Candace Owens**: ["Seth Dillon and Josh Hammer were personally upset with Charlie Kirk's ..."](/statements/statement-a81ef1a260d0.md)
-  - Also about: [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md), [Josh Hammer](/entities/person-josh-hammer.md)
 
 - [00:04:25](/episodes/ep-2Riv3I7D0Yk.md#t-00-04-17) (Claim) **Candace Owens**: ["Seth Dillon was more vocal of the two parties in the Hamptons in terms..."](/statements/statement-498e69fe5e18.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)

@@ -20,6 +20,7 @@ type: "opinion"
 
 ## About
 
+- [Zionism](/entities/concept-zionism.md) (concept)
 - [Candace Owens](/entities/person-candace-owens.md) (person)
 
 ## Source

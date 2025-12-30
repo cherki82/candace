@@ -91,13 +91,10 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Courtney Love (7)</strong></summary>
+<summary><strong class="section-title">Statements about Courtney Love (6)</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (7)</summary>
-
-- [00:12:27](/episodes/ep-7RLtGgkTh9o.md#t-00-12-06) (Claim) **Brett Cooper** (via quoted speech): ["Lou Taylor tried to place Courtney Love and Lindsay Lohan into conserv..."](/statements/statement-85d932792922.md)
-  - Also about: [Lou Taylor](/entities/person-lou-taylor.md), [Lindsay Lohan](/entities/person-lindsay-lohan.md)
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (6)</summary>
 
 - [00:12:38](/episodes/ep-7RLtGgkTh9o.md#t-00-12-06) (Accusation) **Brett Cooper** (via quoted speech): ["Lou Taylor tried to place Courtney Love and Lindsay Lohan into conserv..."](/statements/statement-6b6c86cc92a9.md)
   - Also about: [Lou Taylor](/entities/person-lou-taylor.md), [Lindsay Lohan](/entities/person-lindsay-lohan.md)

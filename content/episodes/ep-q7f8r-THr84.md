@@ -336,10 +336,8 @@ youtube_url: "https://www.youtube.com/watch?v=q7f8r-THr84"
 </details>
 
 <details>
-<summary><strong>Statements (36)</strong></summary>
+<summary><strong>Statements (34)</strong></summary>
 
-- [00:00:45](#t-00-00-01) [○] (Claim) **Candace Owens**: ["The indictment against Tyler Robinson was just released"](/statements/statement-3abf85e28c84.md)
-  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:00:45](#t-00-00-45) [○] (Claim) **Candace Owens**: ["The indictment against Tyler Robinson was just released"](/statements/statement-ba26c141ef0b.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:00:56](#t-00-00-45) [○] (Claim) **Candace Owens**: ["I just spoke to a family member who told me a lot about Lance Twiggs"](/statements/statement-8765c46185e8.md)
@@ -353,8 +351,6 @@ youtube_url: "https://www.youtube.com/watch?v=q7f8r-THr84"
 - [00:03:44](#t-00-03-31) [○] (Claim) **Candace Owens**: ["George Zinn was booked in connection with images on his cell phone related to ch..."](/statements/statement-8a59fc9abc13.md)
   - About: [George Zinn](/entities/person-george-zinn.md)
 - [00:05:45](#t-00-05-31) [○] (Claim) **Candace Owens**: ["George Zinn has given interviews related to September 11th and Al Qaeda in the p..."](/statements/statement-9fb008719549.md)
-  - About: [George Zinn](/entities/person-george-zinn.md)
-- [00:05:45](#t-00-05-31) [○] (Claim) **Candace Owens**: ["George Zinn has given interviews related to September 11th and Al Qaeda in the p..."](/statements/statement-0f30457a804a.md)
   - About: [George Zinn](/entities/person-george-zinn.md)
 - [00:07:05](#t-00-06-59) [○] (Claim) **Candace Owens**: ["Tyler James Robinson surrendered to police at Washington County Sheriff's Office..."](/statements/statement-ac0e06512d64.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)

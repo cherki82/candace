@@ -829,7 +829,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Benjamin Netanyahu (52)</strong></summary>
+<summary><strong class="section-title">Statements about Benjamin Netanyahu (51)</strong></summary>
 
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (9)</summary>
@@ -959,7 +959,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (12)</summary>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (11)</summary>
 
 - [00:00:06](/episodes/ep-sreYYcID-QY.md#t-00-00-00) (Claim) **Candace Owens**: ["Benjamin Netanyahu is again denying that he murdered Charlie Kirk"](/statements/statement-22f427641aa0.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -978,8 +978,6 @@ _Type: People_
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:35:52](/episodes/ep-sreYYcID-QY.md#t-00-35-45) (Accusation) **Candace Owens**: ["Netanyahu is a cold-blooded murderer based on what's happening in Gaza..."](/statements/statement-6919d05285da.md)
-
-- [00:35:55](/episodes/ep-sreYYcID-QY.md#t-00-35-45) (Claim) **Candace Owens**: ["Netanyahu's administration has been under investigation for taking mon..."](/statements/statement-5cd8716ee51d.md)
 
 - [00:36:35](/episodes/ep-sreYYcID-QY.md#t-00-36-24) (Claim) **Candace Owens**: ["Netanyahu's administration has been under investigation for taking mon..."](/statements/statement-9e2ed6fcfb33.md)
 

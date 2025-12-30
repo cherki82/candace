@@ -275,7 +275,7 @@ youtube_url: "https://www.youtube.com/watch?v=ja26iltROkM"
 </details>
 
 <details>
-<summary><strong>Statements (67)</strong></summary>
+<summary><strong>Statements (65)</strong></summary>
 
 - [00:00:31](#t-00-00-00) [○] (Claim) **Candace Owens**: ["Erika Kirk gave a speech calling for forgiveness instead of calling for war"](/statements/statement-0d027080c33e.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md)
@@ -283,8 +283,6 @@ youtube_url: "https://www.youtube.com/watch?v=ja26iltROkM"
   - About: [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:00:48](#t-00-00-44) [○] (Opinion) **Candace Owens**: ["Erika Kirk's memorial speech was the most consequential speech in American histo..."](/statements/statement-0da3b8dfe41a.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md)
-- [00:01:05](#t-00-00-44) [○] (Accusation) **Candace Owens**: ["Kash Patel has issued a statement fully capitulating to the public insistence th..."](/statements/statement-848856cd7ef8.md)
-  - About: [Kash Patel](/entities/person-kash-patel.md)
 - [00:01:12](#t-00-00-44) [○] (Accusation) **Candace Owens**: ["Kash Patel has issued a statement fully capitulating to the public insistence th..."](/statements/statement-4d89c4fd78af.md)
   - About: [Kash Patel](/entities/person-kash-patel.md)
 - [00:01:18](#t-00-00-44) [○] (Accusation) **Candace Owens**: ["They are clearly lying to us about what happened on the day that Charlie Kirk lo..."](/statements/statement-4f6e06ede836.md)
@@ -297,8 +295,6 @@ youtube_url: "https://www.youtube.com/watch?v=ja26iltROkM"
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:06:25](#t-00-06-05) [○] (Accusation) **Candace Owens**: ["I believe that people within Turning Point USA betrayed Charlie Kirk"](/statements/statement-c9f85e39e8b0.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [00:06:25](#t-00-06-05) [○] (Accusation) **Candace Owens**: ["People within Turning Point USA betrayed Charlie Kirk"](/statements/statement-59d276186b38.md)
-  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:06:35](#t-00-06-05) [○] (Accusation) **Candace Owens**: ["People within Turning Point USA betrayed Charlie Kirk"](/statements/statement-3d8b31f8d63a.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:06:47](#t-00-06-05) [○] (Claim) **Candace Owens**: ["The camera directly behind Charlie Kirk's head was taken down a mere four minute..."](/statements/statement-b6ef35cba0e4.md)

@@ -22,13 +22,23 @@ type: "accusation"
 
 - [New York Post](/entities/org-new-york-post.md) (org)
 
-## Source
+## Appearances (2)
+
+### 1. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:38:49](/episodes/ep-sreYYcID-QY.md#t-00-38-34) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2329);return false;">Play</a>
 
 > The New York Post—outfit of the Mossad, outfit of the deep state—ran with it.
+
+### 2. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+
+**Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
+**Timestamp:** [00:38:51](/episodes/ep-sreYYcID-QY.md#t-00-38-34) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2331);return false;">Play</a>
+
+> But they ran with it. The New York Post—outfit of the Mossad, outfit of the deep state—ran with it.
 
 ## Verification
 

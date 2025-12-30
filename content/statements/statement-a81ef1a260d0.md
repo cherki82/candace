@@ -21,14 +21,25 @@ type: "accusation"
 ## About
 
 - [Seth Dillon](/entities/person-seth-dillon.md) (person)
-- [Josh Hammer](/entities/person-josh-hammer.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Israel](/entities/gpe-israel.md) (gpe)
+- [Josh Hammer](/entities/person-josh-hammer.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
 **Timestamp:** [00:04:14](/episodes/ep-2Riv3I7D0Yk.md#t-00-03-33) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(254);return false;">Play</a>
+
+> Seth Dillon and Josh were personally upset with Charlie (Charlie Kirk)'s defiance against the state of Israel
+
+### 2. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
+
+**Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
+**Timestamp:** [00:04:11](/episodes/ep-2Riv3I7D0Yk.md#t-00-03-33) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(251);return false;">Play</a>
 
 > Seth Dillon and Josh were personally upset with Charlie (Charlie Kirk)'s defiance against the state of Israel
 

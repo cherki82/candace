@@ -643,13 +643,10 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Megyn Kelly (12)</strong></summary>
+<summary><strong class="section-title">Statements by Megyn Kelly (10)</strong></summary>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2)</summary>
-
-- [00:07:40](/episodes/ep-Kmt6HgRjckU.md#t-00-07-01) [○] (Claim) ["Candace Owens has received a credible death threat from the French, and the Fren..."](/statements/statement-42c0fd3dd461.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [France](/entities/gpe-france.md)
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>
 
 - [00:07:43](/episodes/ep-Kmt6HgRjckU.md#t-00-07-40) [○] (Claim) ["Candace Owens received a credible death threat from the French, and the French m..."](/statements/statement-0629fdc132de.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [France](/entities/gpe-france.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
@@ -665,13 +662,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (5)</summary>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (4)</summary>
 
 - [00:34:12](/episodes/ep-QZWSsq8ZWzw.md#t-00-33-55) [○] (Claim) ["Two weeks before Charlie Kirk was assassinated, the far-left website Jezebel dec..."](/statements/statement-6abe69b7c224.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Jezebel](/entities/org-jezebel.md)
-
-- [00:34:47](/episodes/ep-QZWSsq8ZWzw.md#t-00-34-32) [○] (Claim) ["Two weeks before Charlie Kirk was assassinated, the far-left website Jezebel dec..."](/statements/statement-745063ebaca7.md)
-  - About: [Jezebel](/entities/org-jezebel.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Jezebel](/entities/org-jezebel.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 - [00:35:19](/episodes/ep-QZWSsq8ZWzw.md#t-00-35-07) [○] (Claim) ["Erika Kirk and Charlie Kirk contacted a friend, who was a Catholic priest, and a..."](/statements/statement-452be7e34efb.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)

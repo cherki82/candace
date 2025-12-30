@@ -20,6 +20,7 @@ type: "factual_claim"
 
 ## About
 
+- [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
 - [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 
 ## Source

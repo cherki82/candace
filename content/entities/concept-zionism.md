@@ -639,7 +639,8 @@ _No relationships extracted yet._
 <details>
 <summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (1)</summary>
 
-- [00:31:52](/episodes/ep-sreYYcID-QY.md#t-00-31-15) (Opinion) **Candace Owens**: ["Zionists control a lot of publications in America"](/statements/statement-a2952385a7f5.md)
+- [00:31:52](/episodes/ep-sreYYcID-QY.md#t-00-31-15) (Opinion) **Candace Owens**: ["Zionists control a lot of publications in America"](/statements/statement-5e65d2d7c15f.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 

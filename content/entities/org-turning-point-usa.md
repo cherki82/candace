@@ -2973,7 +2973,7 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point USA (135)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point USA (132)</strong></summary>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3)</summary>
@@ -3000,7 +3000,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (31)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (29)</summary>
 
 - [00:05:07](/episodes/ep-es7PWdFGoFI.md#t-00-04-52) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk immediately owned the lies, or rather miscommunications, th..."](/statements/statement-412e76ec76af.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
@@ -3034,12 +3034,6 @@ _Type: Organizations_
   - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
 
 - [00:15:28](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) (Claim) **Candace Owens**: ["Brian Harpole no longer works at Turning Point USA"](/statements/statement-96f90fe477d4.md)
-  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
-
-- [00:15:28](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) (Claim) **Candace Owens**: ["Brian Harpole no longer works at Turning Point USA"](/statements/statement-aec32b70c311.md)
-  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
-
-- [00:15:31](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) (Claim) **Candace Owens**: ["Brian Harpole no longer works at Turning Point USA"](/statements/statement-78ed1b8b4f2a.md)
   - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
 
 - [00:18:09](/episodes/ep-es7PWdFGoFI.md#t-00-17-41) (Claim) **Candace Owens** (via paraphrase): ["Turning Point USA and Erika Kirk have not seen any evidence beyond wha..."](/statements/statement-ca6b4e9ab8ae.md)
@@ -3364,12 +3358,10 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (7)</summary>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (6)</summary>
 
 - [00:06:25](/episodes/ep-ja26iltROkM.md#t-00-06-05) (Accusation) **Candace Owens**: ["I believe that people within Turning Point USA betrayed Charlie Kirk"](/statements/statement-c9f85e39e8b0.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:06:25](/episodes/ep-ja26iltROkM.md#t-00-06-05) (Accusation) **Candace Owens**: ["People within Turning Point USA betrayed Charlie Kirk"](/statements/statement-59d276186b38.md)
 
 - [00:06:35](/episodes/ep-ja26iltROkM.md#t-00-06-05) (Accusation) **Candace Owens**: ["People within Turning Point USA betrayed Charlie Kirk"](/statements/statement-3d8b31f8d63a.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)

@@ -628,15 +628,13 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Josh Hammer (11)</strong></summary>
+<summary><strong class="section-title">Statements by Josh Hammer (10)</strong></summary>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (9)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (8)</summary>
 
 - [00:14:54](/episodes/ep-2Riv3I7D0Yk.md#t-00-14-29) [○] (Opinion) ["The Uvalde shooter is apparently dead, but just as with the Buffalo shooter, thi..."](/statements/statement-b8d6f0523334.md)
   - About: [Uvalde Shooter](/entities/person-uvalde-shooter.md)
-
-- [00:16:57](/episodes/ep-2Riv3I7D0Yk.md#t-00-16-36) [○] (Opinion) ["Jew hatred is inherent in the European DNA"](/statements/statement-f246d5d27945.md)
 
 - [00:16:58](/episodes/ep-2Riv3I7D0Yk.md#t-00-16-36) [○] (Opinion) ["Jew hatred is inherent in the European DNA"](/statements/statement-b22eb278b6be.md)
   - About: [Josh Hammer](/entities/person-josh-hammer.md)
@@ -675,7 +673,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Josh Hammer (27)</strong></summary>
+<summary><strong class="section-title">Statements about Josh Hammer (25)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
@@ -707,7 +705,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (17)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (15)</summary>
 
 - [00:00:18](/episodes/ep-2Riv3I7D0Yk.md#t-00-00-00) (Claim) **Candace Owens**: ["16 hours before Charlie Kirk was assassinated, Josh Hammer retweeted a..."](/statements/statement-bcc6e400e34d.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md)
@@ -717,13 +715,8 @@ _Type: People_
 
 - [00:04:07](/episodes/ep-2Riv3I7D0Yk.md#t-00-03-33) (Accusation) **Candace Owens**: ["Josh Hammer lied about the Hamptons meeting"](/statements/statement-ca3c3407c7bf.md)
 
-- [00:04:07](/episodes/ep-2Riv3I7D0Yk.md#t-00-03-33) (Accusation) **Candace Owens**: ["Josh Hammer lied about the Hamptons meeting"](/statements/statement-6a618218b0db.md)
-
-- [00:04:11](/episodes/ep-2Riv3I7D0Yk.md#t-00-03-33) (Accusation) **Candace Owens**: ["Seth Dillon and Josh Hammer were personally upset with Charlie Kirk's ..."](/statements/statement-ef1df5d865e9.md)
-  - Also about: [Seth Dillon](/entities/person-seth-dillon.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
-
 - [00:04:14](/episodes/ep-2Riv3I7D0Yk.md#t-00-03-33) (Accusation) **Candace Owens**: ["Seth Dillon and Josh Hammer were personally upset with Charlie Kirk's ..."](/statements/statement-a81ef1a260d0.md)
-  - Also about: [Seth Dillon](/entities/person-seth-dillon.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - Also about: [Seth Dillon](/entities/person-seth-dillon.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 
 - [00:06:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-06-13) (Claim) **Candace Owens**: ["Josh Hammer retweeted a 2013 Donald Trump tweet saying 'Should be publ..."](/statements/statement-b31e58c6f471.md)
   - Also about: [Donald Trump](/entities/person-donald-trump.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)

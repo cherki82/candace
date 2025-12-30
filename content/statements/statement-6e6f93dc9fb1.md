@@ -22,13 +22,23 @@ type: "promise"
 
 - [FBI](/entities/org-fbi.md) (org)
 
-## Source
+## Appearances (2)
+
+### 1. Who Stood To Benefit From Charlie Kirk's Assassination? | Ca...
 
 **Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
 **Timestamp:** [00:08:47](/episodes/ep-Kmt6HgRjckU.md#t-00-08-35) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(527);return false;">Play</a>
 
 > Any American that receives a death threat from overseas or anywhere in America is going to be fully investigated. So we're not going to turn our eye away from that investigation or any others.
+
+### 2. Who Stood To Benefit From Charlie Kirk's Assassination? | Ca...
+
+**Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
+**Timestamp:** [00:08:06](/episodes/ep-Kmt6HgRjckU.md#t-00-08-04) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(486);return false;">Play</a>
+
+> Any American that receives a death threat from overseas or anywhere in America is going to be fully investigated.
 
 ## Verification
 

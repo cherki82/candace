@@ -91,7 +91,7 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about New York Post (8)</strong></summary>
+<summary><strong class="section-title">Statements about New York Post (7)</strong></summary>
 
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
@@ -105,11 +105,9 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (2)</summary>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (1)</summary>
 
 - [00:38:49](/episodes/ep-sreYYcID-QY.md#t-00-38-34) (Accusation) **Candace Owens**: ["The New York Post is an outfit of the Mossad and the deep state"](/statements/statement-c5d1d5ce3d9b.md)
-
-- [00:38:51](/episodes/ep-sreYYcID-QY.md#t-00-38-34) (Accusation) **Candace Owens**: ["The New York Post is an outfit of the Mossad and the deep state"](/statements/statement-dccaac958575.md)
 
 </details>
 

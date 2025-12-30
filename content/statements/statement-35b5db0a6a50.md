@@ -23,7 +23,17 @@ type: "factual_claim"
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
 
-## Source
+## Appearances (2)
+
+### 1. Who Moved The Camera Right Above Charlie's Head? | Candace E...
+
+**Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
+**Timestamp:** [00:00:07](/episodes/ep-aDlhjfW6hz8.md#t-00-00-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(7);return false;">Play</a>
+
+> Mere minutes after Charlie Kirk is shot, there are two men that look rather mysterious. They appear, they move his chair, and they take down the camera that's directly, or was directly, behind his head.
+
+### 2. Who Moved The Camera Right Above Charlie's Head? | Candace E...
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 **Timestamp:** [00:00:07](/episodes/ep-aDlhjfW6hz8.md#t-00-00-00) 

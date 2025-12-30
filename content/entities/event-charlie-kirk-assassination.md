@@ -960,7 +960,7 @@ _Type: Events_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk assassination (119)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk assassination (116)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (11)</summary>
@@ -971,13 +971,15 @@ _Type: Events_
 
 - [00:05:13](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-54) (Claim) **Candace Owens**: ["The person observed on the rooftop was wearing black tactical gear plu..."](/statements/statement-971650dfc88f.md)
 
-- [00:05:22](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-54) (Claim) **Candace Owens**: ["The bomb dogs were unable to locate the weapon in the field where it w..."](/statements/statement-9c4ddf0d0ff0.md)
+- [00:05:22](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-54) (Claim) **Candace Owens**: ["The bomb dogs were unable to locate the weapon in the field where it w..."](/statements/statement-7a001609cde2.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:05:45](/episodes/ep-ewBzjVe3LNQ.md#t-00-05-35) (Claim) **Candace Owens**: ["Federal agents directed local officers to the weapon rather than the c..."](/statements/statement-d6bc3e541f55.md)
 
 - [00:06:03](/episodes/ep-ewBzjVe3LNQ.md#t-00-05-35) (Claim) **Candace Owens**: ["The canines were not provided with the scent of the weapon once it was..."](/statements/statement-45dd12dab038.md)
 
-- [00:07:19](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-59) (Claim) **Candace Owens**: ["Federal agents removed the hospital surveillance footage"](/statements/statement-442420ec2f82.md)
+- [00:07:23](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-59) (Claim) **Candace Owens**: ["Federal agents removed the hospital surveillance footage"](/statements/statement-8065fbf20c43.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:07:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-07-39) (Claim) **Candace Owens**: ["There were multiple sets of fingerprints on the weapon that was found,..."](/statements/statement-b7fe2b123ba2.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
@@ -993,13 +995,10 @@ _Type: Events_
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (7)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (6)</summary>
 
 - [00:00:29](/episodes/ep-Kmt6HgRjckU.md#t-00-00-00) (Claim) **Candace Owens**: ["Kash Patel has been directly asked about French involvement in Charlie..."](/statements/statement-f29fac89127d.md)
   - Also about: [Kash Patel](/entities/person-kash-patel.md)
-
-- [00:07:40](/episodes/ep-Kmt6HgRjckU.md#t-00-07-01) (Claim) **Megyn Kelly** (via quoted speech): ["Candace Owens has received a credible death threat from the French, an..."](/statements/statement-42c0fd3dd461.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md), [France](/entities/gpe-france.md)
 
 - [00:07:43](/episodes/ep-Kmt6HgRjckU.md#t-00-07-40) (Claim) **Megyn Kelly**: ["Candace Owens received a credible death threat from the French, and th..."](/statements/statement-0629fdc132de.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [France](/entities/gpe-france.md)
@@ -1040,12 +1039,9 @@ _Type: Events_
 </details>
 
 <details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (3)</summary>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (2)</summary>
 
 - [00:00:54](/episodes/ep-JQjCAsfoXEE.md#t-00-00-41) (Claim) **Candace Owens**: ["Charlie Kirk was assassinated in broad daylight"](/statements/statement-92dc62419c9a.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:00:54](/episodes/ep-JQjCAsfoXEE.md#t-00-00-41) (Claim) **Candace Owens**: ["Charlie Kirk was assassinated in broad daylight"](/statements/statement-8536fd8a0214.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:21:35](/episodes/ep-JQjCAsfoXEE.md#t-00-21-01) (Claim) **Candace Owens**: ["On September 10th, the blue Egyptian plane transponded from 9:05 AM un..."](/statements/statement-1a13936259ea.md)
@@ -1109,7 +1105,7 @@ _Type: Events_
 </details>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (25)</summary>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (24)</summary>
 
 - [00:00:35](/episodes/ep-QZWSsq8ZWzw.md#t-00-00-01) (Accusation) **Candace Owens**: ["The FBI is putting an absurd amount of pressure on authorities in Utah..."](/statements/statement-cd1d8569e975.md)
   - Also about: [FBI](/entities/org-fbi.md)
@@ -1129,9 +1125,6 @@ _Type: Events_
 - [00:03:18](/episodes/ep-QZWSsq8ZWzw.md#t-00-02-58) (Claim) **Candace Owens**: ["There is absolutely no video which shows Tyler Robinson firing the wea..."](/statements/statement-ad4576213201.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
-- [00:03:38](/episodes/ep-QZWSsq8ZWzw.md#t-00-02-58) (Claim) **Candace Owens**: ["There is absolutely no video which shows Tyler Robinson firing the wea..."](/statements/statement-6e8675d3c16f.md)
-  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
-
 - [00:03:55](/episodes/ep-QZWSsq8ZWzw.md#t-00-03-42) (Claim) **Candace Owens** (via paraphrase): ["The individual who filmed the footage of the shooter on the roof told ..."](/statements/statement-2db6f8d15172.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
@@ -1147,7 +1140,7 @@ _Type: Events_
 - [00:05:43](/episodes/ep-QZWSsq8ZWzw.md#t-00-05-35) (Claim) **Anonymous Source #1 (Ep QZWSsq8ZWzw)** (via read message): ["The bullet from the Charlie Kirk shooting was too fragmented to match ..."](/statements/statement-2c309de0ebef.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
-- [00:05:50](/episodes/ep-QZWSsq8ZWzw.md#t-00-05-35) (Claim) **Candace Owens**: ["Tyler Robinson has not confessed to anything"](/statements/statement-275bad862864.md)
+- [00:05:50](/episodes/ep-QZWSsq8ZWzw.md#t-00-05-35) (Claim) **Candace Owens**: ["Tyler Robinson has not confessed to anything"](/statements/statement-bf3cf32115e4.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:06:39](/episodes/ep-QZWSsq8ZWzw.md#t-00-06-18) (Opinion) **Candace Owens**: ["I believe the feds know exactly what happened"](/statements/statement-5feabdfcc36c.md)
@@ -1173,8 +1166,8 @@ _Type: Events_
 - [00:27:33](/episodes/ep-QZWSsq8ZWzw.md#t-00-27-09) (Promise) **Candace Owens**: ["Candace will not let the FBI's attempt to shut down the Charlie Kirk c..."](/statements/statement-2e4cf1d2b491.md)
   - Also about: [FBI](/entities/org-fbi.md), [Candace Owens](/entities/person-candace-owens.md)
 
-- [00:34:47](/episodes/ep-QZWSsq8ZWzw.md#t-00-34-32) (Claim) **Megyn Kelly** (via quoted speech): ["Two weeks before Charlie Kirk was assassinated, the far-left website J..."](/statements/statement-745063ebaca7.md)
-  - Also about: [Jezebel](/entities/org-jezebel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:34:12](/episodes/ep-QZWSsq8ZWzw.md#t-00-33-55) (Claim) **Megyn Kelly** (via quoted speech): ["Two weeks before Charlie Kirk was assassinated, the far-left website J..."](/statements/statement-6abe69b7c224.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Jezebel](/entities/org-jezebel.md)
 
 - [00:43:15](/episodes/ep-QZWSsq8ZWzw.md#t-00-42-38) (Claim) **Anonymous Source #3 (Ep QZWSsq8ZWzw)** (via read message): ["The media is leaving out part of the video showing Tyler Robinson walk..."](/statements/statement-4065976070dc.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)

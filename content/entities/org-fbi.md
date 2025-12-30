@@ -1388,7 +1388,7 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about FBI (62)</strong></summary>
+<summary><strong class="section-title">Statements about FBI (60)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (12)</summary>
@@ -1444,9 +1444,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (3)</summary>
-
-- [00:08:06](/episodes/ep-Kmt6HgRjckU.md#t-00-08-04) (Promise) **Kash Patel** (via quoted speech): ["Any American that receives a death threat from overseas or anywhere in..."](/statements/statement-4a82b51d27ba.md)
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2)</summary>
 
 - [00:08:36](/episodes/ep-Kmt6HgRjckU.md#t-00-08-35) (Claim) **Candace Owens**: ["There has been no communication from the FBI regarding the threat"](/statements/statement-d003607446f0.md)
 
@@ -1455,11 +1453,9 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (6)</summary>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (5)</summary>
 
 - [00:01:15](/episodes/ep-DqGNvi36ol8.md#t-00-00-41) (Opinion) **Candace Owens**: ["The public is more perceptive and capable than our FBI"](/statements/statement-0d8760c22327.md)
-
-- [00:04:32](/episodes/ep-DqGNvi36ol8.md#t-00-04-31) (Claim) **Candace Owens** (via read message): ["When police are in undercover units, the FBI, et cetera, and they are ..."](/statements/statement-22a5790a33ae.md)
 
 - [00:04:48](/episodes/ep-DqGNvi36ol8.md#t-00-04-31) (Claim) **Candace Owens** (via paraphrase): ["Someone in his family submitted video footage to the FBI and the FBI a..."](/statements/statement-25aeef2ad429.md)
 

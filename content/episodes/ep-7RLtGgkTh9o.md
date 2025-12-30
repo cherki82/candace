@@ -270,12 +270,11 @@ youtube_url: "https://www.youtube.com/watch?v=7RLtGgkTh9o"
 </details>
 
 <details>
-<summary><strong>Statements (74)</strong></summary>
+<summary><strong>Statements (71)</strong></summary>
 
 - [00:00:01](#t-00-00-00) [○] (Claim) **Candace Owens**: ["All of my investigations are converging - the Chaos book, the Brigitte Macron ca..."](/statements/statement-1492732e1321.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Kanye West](/entities/person-kanye-west.md)
 - [00:01:32](#t-00-01-21) [○] (Opinion) **Candace Owens**: ["We are living inside of one big psychological operation"](/statements/statement-9f7701008ef3.md)
-- [00:01:32](#t-00-01-21) [○] (Opinion) **Candace Owens**: ["We are living inside of one big psychological operation"](/statements/statement-6904283b67f2.md)
 - [00:02:02](#t-00-01-21) [○] (Claim) **Candace Owens**: ["Brigitte Macron and Emmanuel Macron mentioned MKUltra 18 times in the lawsuit ag..."](/statements/statement-ebc43f3f2b7b.md)
   - About: [Brigitte Macron](/entities/person-brigitte-macron.md), [Emmanuel Macron](/entities/person-emmanuel-macron.md)
 - [00:02:03](#t-00-01-21) [○] (Claim) **Candace Owens**: ["Brigitte and Emmanuel Macron brought up MKUltra 18 times in the lawsuit against ..."](/statements/statement-369f6a5a3bab.md)
@@ -290,8 +289,6 @@ youtube_url: "https://www.youtube.com/watch?v=7RLtGgkTh9o"
   - About: [Me Too](/entities/concept-me-too.md)
 - [00:03:36](#t-00-03-30) [○] (Opinion) **Candace Owens**: ["You cannot question Israel at all, or they descend on you"](/statements/statement-b0596702357c.md)
   - About: [Israel](/entities/gpe-israel.md), [Zionism](/entities/concept-zionism.md)
-- [00:04:36](#t-00-04-14) [○] (Claim) **Candace Owens**: ["The Calvary Chapel was involved in Britney Spears' conservatorship"](/statements/statement-7e2bc07d6b9c.md)
-  - About: [Calvary Chapel](/entities/org-calvary-chapel.md), [Britney Spears](/entities/person-britney-spears.md)
 - [00:04:56](#t-00-04-14) [○] (Claim) **Candace Owens**: ["The Calvary Chapel was involved in Britney Spears' conservatorship"](/statements/statement-a6c091beb979.md)
   - About: [Calvary Chapel](/entities/org-calvary-chapel.md), [Britney Spears](/entities/person-britney-spears.md)
 - [00:06:16](#t-00-06-14) [○] (Claim) **Brett Cooper**: ["Lou Taylor became involved with Britney Spears in 2007 after she was hired to he..."](/statements/statement-7d0fcf657936.md)
@@ -330,8 +327,6 @@ youtube_url: "https://www.youtube.com/watch?v=7RLtGgkTh9o"
   - About: [Jamie Spears](/entities/person-jamie-spears.md), [Calvary Chapel](/entities/org-calvary-chapel.md), [Lou Taylor](/entities/person-lou-taylor.md)
 - [00:11:58](#t-00-11-28) [○] (Claim) **Brett Cooper**: ["Jamie Spears gave tens of thousands of dollars in one year to the church which i..."](/statements/statement-97a53ddf7e20.md)
   - About: [Jamie Spears](/entities/person-jamie-spears.md)
-- [00:12:27](#t-00-12-06) [○] (Claim) **Brett Cooper**: ["Lou Taylor tried to place Courtney Love and Lindsay Lohan into conservatorships"](/statements/statement-85d932792922.md)
-  - About: [Lou Taylor](/entities/person-lou-taylor.md), [Courtney Love](/entities/person-courtney-love.md), [Lindsay Lohan](/entities/person-lindsay-lohan.md)
 - [00:12:38](#t-00-12-06) [○] (Accusation) **Brett Cooper**: ["Lou Taylor tried to place Courtney Love and Lindsay Lohan into conservatorships"](/statements/statement-6b6c86cc92a9.md)
   - About: [Lou Taylor](/entities/person-lou-taylor.md), [Courtney Love](/entities/person-courtney-love.md), [Lindsay Lohan](/entities/person-lindsay-lohan.md)
 - [00:13:28](#t-00-13-13) [○] (Accusation) **Candace Owens**: ["Lou Taylor makes clients give 10 percent to the church if they want to be blesse..."](/statements/statement-4241430d8a39.md)

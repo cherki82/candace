@@ -33,12 +33,10 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Eric Weinstein (2)</strong></summary>
+<summary><strong class="section-title">Statements about Eric Weinstein (1)</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2)</summary>
-
-- [00:12:02](/episodes/ep-Cq7nj9rxPdo.md#t-00-11-30) (Opinion) **Candace Owens**: ["Eric Weinstein is a bad person"](/statements/statement-924dfdddc22d.md)
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
 
 - [00:12:06](/episodes/ep-Cq7nj9rxPdo.md#t-00-11-30) (Opinion) **Candace Owens**: ["Eric Weinstein is a bad person"](/statements/statement-a21bb7757e62.md)
 

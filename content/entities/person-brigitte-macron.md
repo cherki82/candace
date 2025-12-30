@@ -664,7 +664,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Brigitte Macron (19)</strong></summary>
+<summary><strong class="section-title">Statements about Brigitte Macron (18)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
@@ -716,13 +716,11 @@ _Type: People_
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3)</summary>
 
 - [00:55:09](/episodes/ep-Cq7nj9rxPdo.md#t-00-55-02) (Claim) **Candace Owens**: ["Brigitte Macron was born with a penis"](/statements/statement-cf29a3e29216.md)
 
 - [00:56:40](/episodes/ep-Cq7nj9rxPdo.md#t-00-56-19) (Claim) **Candace Owens**: ["Brigitte Macron is listed as Jean Michel and listed as male on French ..."](/statements/statement-5a51ff97e1c4.md)
-
-- [00:56:54](/episodes/ep-Cq7nj9rxPdo.md#t-00-56-19) (Claim) **Candace Owens**: ["Brigitte Macron is listed as Jean Michel and male on French tax forms"](/statements/statement-f2fc68ce09ac.md)
   - Also about: [Jean-Michel Trogneux](/entities/person-jean-michel-trogneux.md)
 
 - [00:58:14](/episodes/ep-Cq7nj9rxPdo.md#t-00-57-42) (Accusation) **Candace Owens**: ["Brigitte Macron was born Jean-Michel Trogneux and transitioned"](/statements/statement-304406e304ac.md)

@@ -26,11 +26,21 @@ type: "accusation"
 - [Courtney Love](/entities/person-courtney-love.md) (person)
 - [Lindsay Lohan](/entities/person-lindsay-lohan.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. From Britney To Charlie. With Pastors Like These, Who Needs ...
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 **Timestamp:** [00:12:38](/episodes/ep-7RLtGgkTh9o.md#t-00-12-06) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(758);return false;">Play</a>
+
+> Just a couple of years ago, the New Yorker reported that she also tried to place Courtney Love and Lindsay Lohan into conservatorships.
+
+### 2. From Britney To Charlie. With Pastors Like These, Who Needs ...
+
+**Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
+**Timestamp:** [00:12:27](/episodes/ep-7RLtGgkTh9o.md#t-00-12-06) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(747);return false;">Play</a>
 
 > Just a couple of years ago, the New Yorker reported that she also tried to place Courtney Love and Lindsay Lohan into conservatorships.
 

@@ -298,7 +298,7 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Calvary Chapel (5)</strong></summary>
+<summary><strong class="section-title">Statements about Calvary Chapel (4)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
@@ -308,10 +308,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4)</summary>
-
-- [00:04:36](/episodes/ep-7RLtGgkTh9o.md#t-00-04-14) (Claim) **Candace Owens**: ["The Calvary Chapel was involved in Britney Spears' conservatorship"](/statements/statement-7e2bc07d6b9c.md)
-  - Also about: [Britney Spears](/entities/person-britney-spears.md)
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (3)</summary>
 
 - [00:04:56](/episodes/ep-7RLtGgkTh9o.md#t-00-04-14) (Claim) **Candace Owens**: ["The Calvary Chapel was involved in Britney Spears' conservatorship"](/statements/statement-a6c091beb979.md)
   - Also about: [Britney Spears](/entities/person-britney-spears.md)

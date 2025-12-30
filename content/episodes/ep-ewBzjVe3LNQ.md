@@ -433,7 +433,7 @@ youtube_url: "https://www.youtube.com/watch?v=ewBzjVe3LNQ"
 </details>
 
 <details>
-<summary><strong>Statements (71)</strong></summary>
+<summary><strong>Statements (68)</strong></summary>
 
 - [00:04:10](#t-00-03-30) [○] (Claim) **Candace Owens**: ["The surgeon never confirmed Charlie Kirk was shot with a .30-06 or that he had a..."](/statements/statement-053385a2b0ae.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -452,9 +452,7 @@ youtube_url: "https://www.youtube.com/watch?v=ewBzjVe3LNQ"
 - [00:05:13](#t-00-04-54) [○] (Claim) **Candace Owens**: ["The person observed on the rooftop was wearing black tactical gear plus a face m..."](/statements/statement-971650dfc88f.md)
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:05:22](#t-00-04-54) [○] (Claim) **Candace Owens**: ["The bomb dogs were unable to locate the weapon in the field where it was eventua..."](/statements/statement-7a001609cde2.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [00:05:22](#t-00-04-54) [○] (Claim) **Candace Owens**: ["The bomb dogs were unable to locate the weapon in the field where it was eventua..."](/statements/statement-9c4ddf0d0ff0.md)
-  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:05:45](#t-00-05-35) [○] (Claim) **Candace Owens**: ["Federal agents directed local officers to the weapon"](/statements/statement-3870e1bb19e0.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:05:45](#t-00-05-35) [○] (Claim) **Candace Owens**: ["Federal agents directed local officers to the weapon rather than the canines loc..."](/statements/statement-d6bc3e541f55.md)
@@ -473,10 +471,8 @@ youtube_url: "https://www.youtube.com/watch?v=ewBzjVe3LNQ"
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:07:07](#t-00-06-59) [○] (Claim) **Candace Owens**: ["Federal agents prevented the surgeon from returning to his operating room after ..."](/statements/statement-0a09e517d5b1.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [00:07:19](#t-00-06-59) [○] (Claim) **Candace Owens**: ["Federal agents removed the hospital surveillance footage"](/statements/statement-442420ec2f82.md)
-  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:07:23](#t-00-06-59) [○] (Claim) **Candace Owens**: ["Federal agents removed the hospital surveillance footage"](/statements/statement-8065fbf20c43.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:07:37](#t-00-06-59) [○] (Claim) **Candace Owens**: ["The vehicle in which Charlie was transported to Timpanagos Hospital was not impo..."](/statements/statement-f735a938fa9c.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:07:37](#t-00-06-59) [○] (Claim) **Candace Owens**: ["The vehicle in which Charlie Kirk was transported to Timpanogos Hospital was not..."](/statements/statement-109d55c23422.md)
@@ -486,8 +482,6 @@ youtube_url: "https://www.youtube.com/watch?v=ewBzjVe3LNQ"
 - [00:07:47](#t-00-07-39) [○] (Claim) **Candace Owens**: ["There were multiple sets of fingerprints on the weapon that was found, not just ..."](/statements/statement-b7fe2b123ba2.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:08:08](#t-00-07-39) [○] (Claim) **Candace Owens**: ["The footage of Tyler Robinson turning himself in is apparently missing"](/statements/statement-0a41ad054098.md)
-  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
-- [00:08:08](#t-00-07-39) [○] (Claim) **Candace Owens**: ["The footage of Tyler Robinson turning himself in is apparently missing"](/statements/statement-963942fae5ae.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:08:21](#t-00-07-39) [○] (Accusation) **Candace Owens**: ["The entire story about how the parents turned him in and did the right thing is ..."](/statements/statement-2bb1432336be.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)

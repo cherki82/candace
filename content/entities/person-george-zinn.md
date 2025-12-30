@@ -243,7 +243,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about George Zinn (12)</strong></summary>
+<summary><strong class="section-title">Statements about George Zinn (11)</strong></summary>
 
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (4)</summary>
@@ -282,15 +282,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (4)</summary>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (3)</summary>
 
 - [00:03:09](/episodes/ep-q7f8r-THr84.md#t-00-02-49) (Claim) **Candace Owens**: ["George Zinn was arrested and is facing charges of obstruction of justi..."](/statements/statement-4f9967d6f252.md)
 
 - [00:03:44](/episodes/ep-q7f8r-THr84.md#t-00-03-31) (Claim) **Candace Owens**: ["George Zinn was booked in connection with images on his cell phone rel..."](/statements/statement-8a59fc9abc13.md)
 
 - [00:05:45](/episodes/ep-q7f8r-THr84.md#t-00-05-31) (Claim) **Candace Owens**: ["George Zinn has given interviews related to September 11th and Al Qaed..."](/statements/statement-9fb008719549.md)
-
-- [00:05:45](/episodes/ep-q7f8r-THr84.md#t-00-05-31) (Claim) **Candace Owens**: ["George Zinn has given interviews related to September 11th and Al Qaed..."](/statements/statement-0f30457a804a.md)
 
 </details>
 

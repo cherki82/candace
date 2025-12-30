@@ -24,11 +24,21 @@ type: "factual_claim"
 - [France](/entities/gpe-france.md) (gpe)
 - [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
 
-## Source
+## Appearances (2)
+
+### 1. Who Stood To Benefit From Charlie Kirk's Assassination? | Ca...
 
 **Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
 **Timestamp:** [00:07:43](/episodes/ep-Kmt6HgRjckU.md#t-00-07-40) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(463);return false;">Play</a>
+
+> there's been an allegation made by prominent podcaster Candace Owens that she's received a death threat, a credible death threat from the French, that a threat has been made on her life, and that the French, she's been told, also may have had a role in Charlie's assassination.
+
+### 2. Who Stood To Benefit From Charlie Kirk's Assassination? | Ca...
+
+**Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
+**Timestamp:** [00:07:40](/episodes/ep-Kmt6HgRjckU.md#t-00-07-01) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(460);return false;">Play</a>
 
 > there's been an allegation made by prominent podcaster Candace Owens that she's received a death threat, a credible death threat from the French, that a threat has been made on her life, and that the French, she's been told, also may have had a role in Charlie's assassination.
 

@@ -22,13 +22,23 @@ type: "factual_claim"
 
 - [Bill Ackman](/entities/person-bill-ackman.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:52:24](/episodes/ep-sreYYcID-QY.md#t-00-52-09) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3144);return false;">Play</a>
 
 > Bill Ackman at this Hamptons retreat—according to one of the attendees—told them that they shouldn't even aspire to own a home, and they should just give money to stocks.
+
+### 2. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+
+**Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
+**Timestamp:** [00:45:24](/episodes/ep-sreYYcID-QY.md#t-00-45-07) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2724);return false;">Play</a>
+
+> Like I told you, Bill Ackman at this Hamptons retreat—according to one of the attendees—told them that they shouldn't even aspire to own a home, and they should just give money to stocks.
 
 ## Verification
 

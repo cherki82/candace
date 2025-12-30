@@ -112,7 +112,7 @@ _No relationships extracted yet._
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2)</summary>
 
-- [00:56:54](/episodes/ep-Cq7nj9rxPdo.md#t-00-56-19) (Claim) **Candace Owens**: ["Brigitte Macron is listed as Jean Michel and male on French tax forms"](/statements/statement-f2fc68ce09ac.md)
+- [00:56:40](/episodes/ep-Cq7nj9rxPdo.md#t-00-56-19) (Claim) **Candace Owens**: ["Brigitte Macron is listed as Jean Michel and listed as male on French ..."](/statements/statement-5a51ff97e1c4.md)
   - Also about: [Brigitte Macron](/entities/person-brigitte-macron.md)
 
 - [00:58:14](/episodes/ep-Cq7nj9rxPdo.md#t-00-57-42) (Accusation) **Candace Owens**: ["Brigitte Macron was born Jean-Michel Trogneux and transitioned"](/statements/statement-304406e304ac.md)

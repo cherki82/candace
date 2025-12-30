@@ -360,7 +360,7 @@ youtube_url: "https://www.youtube.com/watch?v=2Riv3I7D0Yk"
 </details>
 
 <details>
-<summary><strong>Statements (49)</strong></summary>
+<summary><strong>Statements (45)</strong></summary>
 
 - [00:00:18](#t-00-00-00) [○] (Claim) **Candace Owens**: ["16 hours before Charlie Kirk was assassinated, Josh Hammer retweeted a 2013 twee..."](/statements/statement-bcc6e400e34d.md)
   - About: [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md)
@@ -368,12 +368,8 @@ youtube_url: "https://www.youtube.com/watch?v=2Riv3I7D0Yk"
   - About: [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:04:07](#t-00-03-33) [○] (Accusation) **Candace Owens**: ["Josh Hammer lied about the Hamptons meeting"](/statements/statement-ca3c3407c7bf.md)
   - About: [Josh Hammer](/entities/person-josh-hammer.md)
-- [00:04:07](#t-00-03-33) [○] (Accusation) **Candace Owens**: ["Josh Hammer lied about the Hamptons meeting"](/statements/statement-6a618218b0db.md)
-  - About: [Josh Hammer](/entities/person-josh-hammer.md)
-- [00:04:11](#t-00-03-33) [○] (Accusation) **Candace Owens**: ["Seth Dillon and Josh Hammer were personally upset with Charlie Kirk's defiance a..."](/statements/statement-ef1df5d865e9.md)
-  - About: [Seth Dillon](/entities/person-seth-dillon.md), [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:04:14](#t-00-03-33) [○] (Accusation) **Candace Owens**: ["Seth Dillon and Josh Hammer were personally upset with Charlie Kirk's defiance a..."](/statements/statement-a81ef1a260d0.md)
-  - About: [Seth Dillon](/entities/person-seth-dillon.md), [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - About: [Seth Dillon](/entities/person-seth-dillon.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 - [00:04:25](#t-00-04-17) [○] (Claim) **Candace Owens**: ["Seth Dillon was more vocal of the two parties in the Hamptons in terms of pressi..."](/statements/statement-498e69fe5e18.md)
   - About: [Seth Dillon](/entities/person-seth-dillon.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:04:53](#t-00-04-50) [○] (Opinion) **Tucker Carlson**: ["Charlie Kirk was a Christian evangelist"](/statements/statement-8da305eef3a6.md)
@@ -388,8 +384,6 @@ youtube_url: "https://www.youtube.com/watch?v=2Riv3I7D0Yk"
   - About: [Yashar Ali](/entities/person-yashar-ali.md)
 - [00:08:20](#t-00-08-16) [○] (Claim) **Yashar Ali**: ["Josh Hammer was sharing what many conservatives were sharing the day before abou..."](/statements/statement-4fb57d4251c4.md)
   - About: [Josh Hammer](/entities/person-josh-hammer.md), [Irina Zarutska](/entities/person-irina-zarutska.md)
-- [00:08:44](#t-00-08-16) [○] (Claim) **Candace Owens**: ["Irina Zarutska was murdered on August 22nd, her perpetrator was arrested that sa..."](/statements/statement-d226045b68ba.md)
-  - About: [Irina Zarutska](/entities/person-irina-zarutska.md)
 - [00:08:46](#t-00-08-16) [○] (Claim) **Candace Owens**: ["Irina Zarutska was murdered on August 22nd, her perpetrator was arrested that sa..."](/statements/statement-d5ef7678f5e4.md)
   - About: [Irina Zarutska](/entities/person-irina-zarutska.md)
 - [00:11:23](#t-00-11-05) [○] (Accusation) **Candace Owens**: ["On September 9th, Israel bombed Qatar for no reason, violating international law"](/statements/statement-22525ed3d536.md)
@@ -398,7 +392,6 @@ youtube_url: "https://www.youtube.com/watch?v=2Riv3I7D0Yk"
   - About: [Irina Zarutska](/entities/person-irina-zarutska.md)
 - [00:14:54](#t-00-14-29) [○] (Opinion) **Josh Hammer**: ["The Uvalde shooter is apparently dead, but just as with the Buffalo shooter, thi..."](/statements/statement-b8d6f0523334.md)
   - About: [Uvalde Shooter](/entities/person-uvalde-shooter.md)
-- [00:16:57](#t-00-16-36) [○] (Opinion) **Josh Hammer**: ["Jew hatred is inherent in the European DNA"](/statements/statement-f246d5d27945.md)
 - [00:16:58](#t-00-16-36) [○] (Opinion) **Josh Hammer**: ["Jew hatred is inherent in the European DNA"](/statements/statement-b22eb278b6be.md)
   - About: [Josh Hammer](/entities/person-josh-hammer.md)
 - [00:18:24](#t-00-18-01) [○] (Accusation) **Candace Owens**: ["Josh Hammer lied audaciously and boldly and repeatedly and unnecessarily about t..."](/statements/statement-f59f22b266e3.md)

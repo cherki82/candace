@@ -315,7 +315,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Brian Harpole (21)</strong></summary>
+<summary><strong class="section-title">Statements about Brian Harpole (19)</strong></summary>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
@@ -348,7 +348,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (7)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (5)</summary>
 
 - [00:15:17](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) (Claim) **Candace Owens** (via paraphrase): ["Turning Point USA did not approve of Brian Harpole going on the Shawn ..."](/statements/statement-191d6deb062d.md)
   - Also about: [The Shawn Ryan Show](/entities/work-the-shawn-ryan-show.md), [Turning Point USA](/entities/org-turning-point-usa.md)
@@ -363,12 +363,6 @@ _Type: People_
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:15:28](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) (Claim) **Candace Owens**: ["Brian Harpole no longer works at Turning Point USA"](/statements/statement-96f90fe477d4.md)
-  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
-
-- [00:15:28](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) (Claim) **Candace Owens**: ["Brian Harpole no longer works at Turning Point USA"](/statements/statement-aec32b70c311.md)
-  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
-
-- [00:15:31](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) (Claim) **Candace Owens**: ["Brian Harpole no longer works at Turning Point USA"](/statements/statement-78ed1b8b4f2a.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>

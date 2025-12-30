@@ -636,13 +636,10 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Kash Patel (9)</strong></summary>
+<summary><strong class="section-title">Statements by Kash Patel (8)</strong></summary>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2)</summary>
-
-- [00:08:06](/episodes/ep-Kmt6HgRjckU.md#t-00-08-04) [○] (Promise) ["Any American that receives a death threat from overseas or anywhere in America i..."](/statements/statement-4a82b51d27ba.md)
-  - About: [FBI](/entities/org-fbi.md)
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>
 
 - [00:08:47](/episodes/ep-Kmt6HgRjckU.md#t-00-08-35) [○] (Promise) ["Any American that receives a death threat from overseas or anywhere in America i..."](/statements/statement-6e6f93dc9fb1.md)
   - About: [FBI](/entities/org-fbi.md)
@@ -683,7 +680,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Kash Patel (13)</strong></summary>
+<summary><strong class="section-title">Statements about Kash Patel (12)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
@@ -751,9 +748,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (3)</summary>
-
-- [00:01:05](/episodes/ep-ja26iltROkM.md#t-00-00-44) (Accusation) **Candace Owens**: ["Kash Patel has issued a statement fully capitulating to the public ins..."](/statements/statement-848856cd7ef8.md)
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2)</summary>
 
 - [00:01:12](/episodes/ep-ja26iltROkM.md#t-00-00-44) (Accusation) **Candace Owens**: ["Kash Patel has issued a statement fully capitulating to the public ins..."](/statements/statement-4d89c4fd78af.md)
 

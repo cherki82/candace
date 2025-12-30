@@ -249,7 +249,7 @@ youtube_url: "https://www.youtube.com/watch?v=Kmt6HgRjckU"
 </details>
 
 <details>
-<summary><strong>Statements (46)</strong></summary>
+<summary><strong>Statements (43)</strong></summary>
 
 - [00:00:29](#t-00-00-00) [○] (Claim) **Candace Owens**: ["Kash Patel has been directly asked about French involvement in Charlie Kirk's as..."](/statements/statement-f29fac89127d.md)
   - About: [Kash Patel](/entities/person-kash-patel.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
@@ -271,8 +271,6 @@ youtube_url: "https://www.youtube.com/watch?v=Kmt6HgRjckU"
   - About: [United States Capitol Police](/entities/org-united-states-capitol-police.md), [JFK assassination](/entities/event-jfk-assassination.md)
 - [00:04:42](#t-00-04-16) [○] (Accusation) **Candace Owens**: ["Lyndon Baines Johnson was clearly implicated in JFK's assassination"](/statements/statement-60b6bb5b3d5e.md)
   - About: [Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson.md), [JFK assassination](/entities/event-jfk-assassination.md)
-- [00:04:42](#t-00-04-16) [○] (Accusation) **Candace Owens**: ["Lyndon Baines Johnson was clearly implicated in JFK's assassination"](/statements/statement-a61d98f28600.md)
-  - About: [Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson.md), [JFK assassination](/entities/event-jfk-assassination.md)
 - [00:05:27](#t-00-04-59) [○] (Opinion) **Candace Owens**: ["In the political fast lane, they want you dead for really one or all of these th..."](/statements/statement-ddb1728fabfe.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:05:43](#t-00-04-59) [○] (Claim) **Candace Owens**: ["Charlie Kirk said no to money right before he died, which probably means he knew..."](/statements/statement-37bf3ed01fb6.md)
@@ -285,12 +283,8 @@ youtube_url: "https://www.youtube.com/watch?v=Kmt6HgRjckU"
   - About: [United States Pentagon](/entities/org-united-states-pentagon.md), [White House](/entities/org-white-house.md), [Élysée Palace](/entities/gpe-elysee-palace.md)
 - [00:06:58](#t-00-06-27) [○] (Claim) **Candace Owens**: ["Neither the Pentagon nor the White House or our intel agencies or the Élysée Pal..."](/statements/statement-532c5d81ba0d.md)
   - About: [United States Pentagon](/entities/org-united-states-pentagon.md), [White House](/entities/org-white-house.md), [Élysée Palace](/entities/gpe-elysee-palace.md)
-- [00:07:40](#t-00-07-01) [○] (Claim) **Megyn Kelly**: ["Candace Owens has received a credible death threat from the French, and the Fren..."](/statements/statement-42c0fd3dd461.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [France](/entities/gpe-france.md)
 - [00:07:43](#t-00-07-40) [○] (Claim) **Megyn Kelly**: ["Candace Owens received a credible death threat from the French, and the French m..."](/statements/statement-0629fdc132de.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [France](/entities/gpe-france.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
-- [00:08:06](#t-00-08-04) [○] (Promise) **Kash Patel**: ["Any American that receives a death threat from overseas or anywhere in America i..."](/statements/statement-4a82b51d27ba.md)
-  - About: [FBI](/entities/org-fbi.md)
 - [00:08:36](#t-00-08-35) [○] (Claim) **Candace Owens**: ["There has been no communication from the FBI regarding the threat"](/statements/statement-d003607446f0.md)
   - About: [FBI](/entities/org-fbi.md)
 - [00:08:47](#t-00-08-35) [○] (Promise) **Kash Patel**: ["Any American that receives a death threat from overseas or anywhere in America i..."](/statements/statement-6e6f93dc9fb1.md)

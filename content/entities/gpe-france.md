@@ -716,7 +716,7 @@ _Type: Places_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about France (10)</strong></summary>
+<summary><strong class="section-title">Statements about France (9)</strong></summary>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1)</summary>
@@ -727,10 +727,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (7)</summary>
-
-- [00:07:40](/episodes/ep-Kmt6HgRjckU.md#t-00-07-01) (Claim) **Megyn Kelly** (via quoted speech): ["Candace Owens has received a credible death threat from the French, an..."](/statements/statement-42c0fd3dd461.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (6)</summary>
 
 - [00:07:43](/episodes/ep-Kmt6HgRjckU.md#t-00-07-40) (Claim) **Megyn Kelly**: ["Candace Owens received a credible death threat from the French, and th..."](/statements/statement-0629fdc132de.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)

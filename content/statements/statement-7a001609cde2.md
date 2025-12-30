@@ -20,6 +20,7 @@ type: "factual_claim"
 
 ## About
 
+- [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source

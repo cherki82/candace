@@ -2375,8 +2375,8 @@ _Type: Places_
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (10)</summary>
 
-- [00:04:11](/episodes/ep-2Riv3I7D0Yk.md#t-00-03-33) (Accusation) **Candace Owens**: ["Seth Dillon and Josh Hammer were personally upset with Charlie Kirk's ..."](/statements/statement-ef1df5d865e9.md)
-  - Also about: [Seth Dillon](/entities/person-seth-dillon.md), [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:04:14](/episodes/ep-2Riv3I7D0Yk.md#t-00-03-33) (Accusation) **Candace Owens**: ["Seth Dillon and Josh Hammer were personally upset with Charlie Kirk's ..."](/statements/statement-a81ef1a260d0.md)
+  - Also about: [Seth Dillon](/entities/person-seth-dillon.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Josh Hammer](/entities/person-josh-hammer.md)
 
 - [00:11:23](/episodes/ep-2Riv3I7D0Yk.md#t-00-11-05) (Accusation) **Candace Owens**: ["On September 9th, Israel bombed Qatar for no reason, violating interna..."](/statements/statement-22525ed3d536.md)
   - Also about: [Qatar](/entities/gpe-qatar.md)

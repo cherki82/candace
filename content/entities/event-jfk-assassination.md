@@ -63,10 +63,10 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about JFK assassination (13)</strong></summary>
+<summary><strong class="section-title">Statements about JFK assassination (12)</strong></summary>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (10)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (9)</summary>
 
 - [00:01:46](/episodes/ep-Kmt6HgRjckU.md#t-00-01-20) (Claim) **Charlie Kirk** (via quoted speech): ["In the JFK files, Mossad is mentioned. One of the reasons why Mossad i..."](/statements/statement-ee9e4c65d87d.md)
   - Also about: [Mossad](/entities/org-mossad.md)
@@ -91,9 +91,6 @@ _No relationships extracted yet._
   - Also about: [United States Capitol Police](/entities/org-united-states-capitol-police.md)
 
 - [00:04:42](/episodes/ep-Kmt6HgRjckU.md#t-00-04-16) (Accusation) **Candace Owens**: ["Lyndon Baines Johnson was clearly implicated in JFK's assassination"](/statements/statement-60b6bb5b3d5e.md)
-  - Also about: [Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson.md)
-
-- [00:04:42](/episodes/ep-Kmt6HgRjckU.md#t-00-04-16) (Accusation) **Candace Owens**: ["Lyndon Baines Johnson was clearly implicated in JFK's assassination"](/statements/statement-a61d98f28600.md)
   - Also about: [Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson.md)
 
 </details>

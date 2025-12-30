@@ -355,7 +355,7 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Central Intelligence Agency (17)</strong></summary>
+<summary><strong class="section-title">Statements about Central Intelligence Agency (15)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
@@ -427,13 +427,9 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (3)</summary>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (1)</summary>
 
 - [00:12:28](/episodes/ep-sreYYcID-QY.md#t-00-11-44) (Claim) **Candace Owens**: ["The mainstream media has been controlled by the CIA since Operation Mo..."](/statements/statement-663c3c2d34c1.md)
-
-- [00:12:28](/episodes/ep-sreYYcID-QY.md#t-00-11-44) (Claim) **Candace Owens**: ["The mainstream media has been controlled by the CIA since Operation Mo..."](/statements/statement-6e21262eff49.md)
-
-- [00:12:28](/episodes/ep-sreYYcID-QY.md#t-00-11-44) (Claim) **Candace Owens**: ["The mainstream media has been controlled by the CIA since Operation Mo..."](/statements/statement-2d6bd3ae45a5.md)
 
 </details>
 

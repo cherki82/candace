@@ -259,7 +259,7 @@ youtube_url: "https://www.youtube.com/watch?v=DqGNvi36ol8"
 </details>
 
 <details>
-<summary><strong>Statements (47)</strong></summary>
+<summary><strong>Statements (45)</strong></summary>
 
 - [00:00:25](#t-00-00-00) [○] (Claim) **Candace Owens**: ["TPUSA confirmed that the debate request came from Erika Kirk"](/statements/statement-1d1f4bad48c8.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md)
@@ -269,7 +269,6 @@ youtube_url: "https://www.youtube.com/watch?v=DqGNvi36ol8"
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:00:53](#t-00-00-41) [○] (Opinion) **Candace Owens**: ["I have probably looked at more footage from September 10th than any human being ..."](/statements/statement-4133530415b2.md)
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
-- [00:01:04](#t-00-00-41) [○] (Claim) **Candace Owens**: ["I have probably looked at more footage from September 10th than any human being ..."](/statements/statement-98ac02695a97.md)
 - [00:01:08](#t-00-00-41) [○] (Claim) **Blake Neff**: ["I made the initial statement at the request of Erika. All of this has been at th..."](/statements/statement-5d921b2d7320.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:01:15](#t-00-00-41) [○] (Opinion) **Candace Owens**: ["The public is more perceptive and capable than our FBI"](/statements/statement-0d8760c22327.md)
@@ -286,8 +285,6 @@ youtube_url: "https://www.youtube.com/watch?v=DqGNvi36ol8"
 - [00:03:55](#t-00-03-41) [○] (Opinion) **Candace Owens**: ["I believe in my heart and in my rational mind that Charlie Kirk's assassination ..."](/statements/statement-e054d5b0731f.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:04:30](#t-00-04-29) [○] (Claim) **Candace Owens**: ["Airborne forces wear maroon not just in the UK, the USA, and France, as well as ..."](/statements/statement-008b9b51cd29.md)
-- [00:04:32](#t-00-04-31) [○] (Claim) **Candace Owens**: ["When police are in undercover units, the FBI, et cetera, and they are not in the..."](/statements/statement-22a5790a33ae.md)
-  - About: [FBI](/entities/org-fbi.md)
 - [00:04:48](#t-00-04-31) [○] (Claim) **Candace Owens**: ["Someone in his family submitted video footage to the FBI and the FBI asked him t..."](/statements/statement-25aeef2ad429.md)
   - About: [FBI](/entities/org-fbi.md)
 - [00:05:30](#t-00-05-13) [○] (Opinion) **Candace Owens**: ["I suspect that our maroon boys in general were tasked with taking footage from p..."](/statements/statement-fb9d542b32d5.md)

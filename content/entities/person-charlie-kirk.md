@@ -8833,7 +8833,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk (418)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk (411)</strong></summary>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (6)</summary>
@@ -8871,6 +8871,7 @@ _Type: People_
 - [00:05:13](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-54) (Claim) **Candace Owens**: ["The person the eyewitness observed was wearing what seemed to be black..."](/statements/statement-3a53d2d0940f.md)
 
 - [00:05:22](/episodes/ep-ewBzjVe3LNQ.md#t-00-04-54) (Claim) **Candace Owens**: ["The bomb dogs were unable to locate the weapon in the field where it w..."](/statements/statement-7a001609cde2.md)
+  - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 - [00:05:45](/episodes/ep-ewBzjVe3LNQ.md#t-00-05-35) (Claim) **Candace Owens**: ["Federal agents directed local officers to the weapon"](/statements/statement-3870e1bb19e0.md)
 
@@ -8889,6 +8890,7 @@ _Type: People_
 - [00:07:07](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-59) (Claim) **Candace Owens**: ["Federal agents prevented the surgeon from returning to his operating r..."](/statements/statement-0a09e517d5b1.md)
 
 - [00:07:23](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-59) (Claim) **Candace Owens**: ["Federal agents removed the hospital surveillance footage"](/statements/statement-8065fbf20c43.md)
+  - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 - [00:07:37](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-59) (Claim) **Candace Owens**: ["The vehicle in which Charlie was transported to Timpanagos Hospital wa..."](/statements/statement-f735a938fa9c.md)
 
@@ -8953,7 +8955,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (39)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (38)</summary>
 
 - [00:05:52](/episodes/ep-es7PWdFGoFI.md#t-00-05-30) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk said on Glenn Beck's show that she had Charlie's phone and ..."](/statements/statement-14d3ddbacf08.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Glenn Beck](/entities/person-glenn-beck.md)
@@ -9007,7 +9009,7 @@ _Type: People_
 - [00:19:06](/episodes/ep-es7PWdFGoFI.md#t-00-18-25) (Claim) **Candace Owens** (via paraphrase): ["Turning Point USA has not seen anything that the public has not seen r..."](/statements/statement-7ed46851b1d3.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:20:30](/episodes/ep-es7PWdFGoFI.md#t-00-19-50) (Opinion) **Candace Owens**: ["I don't believe that Tyler Robinson pulled the trigger"](/statements/statement-c3a8afbf2c68.md)
+- [00:20:42](/episodes/ep-es7PWdFGoFI.md#t-00-20-30) (Opinion) **Candace Owens**: ["I don't believe that Tyler Robinson pulled the trigger"](/statements/statement-cdeead784a48.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:20:42](/episodes/ep-es7PWdFGoFI.md#t-00-20-30) (Opinion) **Candace Owens**: ["Tyler Robinson did not pull the trigger in the Charlie Kirk shooting"](/statements/statement-74fd764b1b2d.md)
@@ -9035,8 +9037,6 @@ _Type: People_
   - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:43:01](/episodes/ep-es7PWdFGoFI.md#t-00-42-21) (Opinion) **Candace Owens**: ["I believe that Charlie Kirk was betrayed by people that are close to h..."](/statements/statement-4776345392e1.md)
-
-- [00:43:11](/episodes/ep-es7PWdFGoFI.md#t-00-43-01) (Opinion) **Candace Owens**: ["I believe that Charlie Kirk was betrayed by people that are close to h..."](/statements/statement-69f81f92b95e.md)
 
 - [00:43:11](/episodes/ep-es7PWdFGoFI.md#t-00-43-01) (Opinion) **Candace Owens**: ["Charlie Kirk was betrayed by people that are close to him"](/statements/statement-b777c31ed2d7.md)
 
@@ -9275,12 +9275,9 @@ _Type: People_
 </details>
 
 <details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (15)</summary>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (14)</summary>
 
 - [00:00:54](/episodes/ep-JQjCAsfoXEE.md#t-00-00-41) (Claim) **Candace Owens**: ["Charlie Kirk was assassinated in broad daylight"](/statements/statement-92dc62419c9a.md)
-  - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
-
-- [00:00:54](/episodes/ep-JQjCAsfoXEE.md#t-00-00-41) (Claim) **Candace Owens**: ["Charlie Kirk was assassinated in broad daylight"](/statements/statement-8536fd8a0214.md)
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 - [00:02:02](/episodes/ep-JQjCAsfoXEE.md#t-00-01-24) (Opinion) **Candace Owens** (via quoted speech): ["Candace lost full faith in Trump after Charlie Kirk's death"](/statements/statement-9c038484a7d2.md)
@@ -9448,7 +9445,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (21)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (20)</summary>
 
 - [00:00:07](/episodes/ep-Cq7nj9rxPdo.md#t-00-00-00) (Claim) **Turning Point USA** (via quoted post): ["Charlie Kirk told Mikey McCoy exactly what he should do in the circums..."](/statements/statement-6f894cffc27b.md)
   - Also about: [Mikey McCoy](/entities/person-mikey-mccoy.md)
@@ -9465,9 +9462,6 @@ _Type: People_
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Kanye West](/entities/person-kanye-west.md)
 
 - [00:11:07](/episodes/ep-Cq7nj9rxPdo.md#t-00-10-48) (Accusation) **Candace Owens**: ["From the moment of the Kanye tweet onward, Charlie Kirk and Candace Ow..."](/statements/statement-2685f32f2368.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md)
-
-- [00:11:18](/episodes/ep-Cq7nj9rxPdo.md#t-00-10-48) (Accusation) **Candace Owens**: ["Things were done intentionally to pull Candace Owens and Charlie Kirk ..."](/statements/statement-400bb4160389.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
 - [00:11:27](/episodes/ep-Cq7nj9rxPdo.md#t-00-10-48) (Accusation) **Candace Owens**: ["From 2018 onward, Charlie Kirk and Candace Owens were assigned handler..."](/statements/statement-b496016250ab.md)
@@ -9548,7 +9542,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (28)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (27)</summary>
 
 - [00:00:18](/episodes/ep-2Riv3I7D0Yk.md#t-00-00-00) (Claim) **Candace Owens**: ["16 hours before Charlie Kirk was assassinated, Josh Hammer retweeted a..."](/statements/statement-bcc6e400e34d.md)
   - Also about: [Josh Hammer](/entities/person-josh-hammer.md), [Donald Trump](/entities/person-donald-trump.md)
@@ -9556,11 +9550,8 @@ _Type: People_
 - [00:00:38](/episodes/ep-2Riv3I7D0Yk.md#t-00-00-00) (Claim) **Candace Owens**: ["Josh Hammer and a rabbi in Israel had a long talk with Charlie Kirk th..."](/statements/statement-d795dae62311.md)
   - Also about: [Josh Hammer](/entities/person-josh-hammer.md)
 
-- [00:04:11](/episodes/ep-2Riv3I7D0Yk.md#t-00-03-33) (Accusation) **Candace Owens**: ["Seth Dillon and Josh Hammer were personally upset with Charlie Kirk's ..."](/statements/statement-ef1df5d865e9.md)
-  - Also about: [Seth Dillon](/entities/person-seth-dillon.md), [Josh Hammer](/entities/person-josh-hammer.md), [Israel](/entities/gpe-israel.md)
-
 - [00:04:14](/episodes/ep-2Riv3I7D0Yk.md#t-00-03-33) (Accusation) **Candace Owens**: ["Seth Dillon and Josh Hammer were personally upset with Charlie Kirk's ..."](/statements/statement-a81ef1a260d0.md)
-  - Also about: [Seth Dillon](/entities/person-seth-dillon.md), [Josh Hammer](/entities/person-josh-hammer.md)
+  - Also about: [Seth Dillon](/entities/person-seth-dillon.md), [Israel](/entities/gpe-israel.md), [Josh Hammer](/entities/person-josh-hammer.md)
 
 - [00:04:25](/episodes/ep-2Riv3I7D0Yk.md#t-00-04-17) (Claim) **Candace Owens**: ["Seth Dillon was more vocal of the two parties in the Hamptons in terms..."](/statements/statement-498e69fe5e18.md)
   - Also about: [Seth Dillon](/entities/person-seth-dillon.md)
@@ -9682,14 +9673,11 @@ _Type: People_
 </details>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (5)</summary>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (4)</summary>
 
 - [00:28:05](/episodes/ep-QZWSsq8ZWzw.md#t-00-28-00) (Opinion) **Rob McCoy** (via quoted speech): ["Charlie Kirk courageously advocated for the sacred principles of freed..."](/statements/statement-0dcf734f1780.md)
 
 - [00:34:12](/episodes/ep-QZWSsq8ZWzw.md#t-00-33-55) (Claim) **Megyn Kelly** (via quoted speech): ["Two weeks before Charlie Kirk was assassinated, the far-left website J..."](/statements/statement-6abe69b7c224.md)
-  - Also about: [Jezebel](/entities/org-jezebel.md)
-
-- [00:34:47](/episodes/ep-QZWSsq8ZWzw.md#t-00-34-32) (Claim) **Megyn Kelly** (via quoted speech): ["Two weeks before Charlie Kirk was assassinated, the far-left website J..."](/statements/statement-745063ebaca7.md)
   - Also about: [Jezebel](/entities/org-jezebel.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 - [00:35:19](/episodes/ep-QZWSsq8ZWzw.md#t-00-35-07) (Claim) **Megyn Kelly** (via quoted speech): ["Erika Kirk and Charlie Kirk contacted a friend, who was a Catholic pri..."](/statements/statement-452be7e34efb.md)
@@ -9832,9 +9820,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (21)</summary>
-
-- [00:00:07](/episodes/ep-aDlhjfW6hz8.md#t-00-00-00) (Claim) **Candace Owens**: ["Two men appeared minutes after Charlie Kirk was shot, moved his chair,..."](/statements/statement-4adb527e5989.md)
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (20)</summary>
 
 - [00:00:07](/episodes/ep-aDlhjfW6hz8.md#t-00-00-00) (Claim) **Candace Owens**: ["Two men appeared mere minutes after Charlie Kirk was shot, moved his c..."](/statements/statement-35b5db0a6a50.md)
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
@@ -9890,7 +9876,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (25)</summary>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (24)</summary>
 
 - [00:00:06](/episodes/ep-sreYYcID-QY.md#t-00-00-00) (Claim) **Candace Owens**: ["Benjamin Netanyahu is again denying that he murdered Charlie Kirk"](/statements/statement-22f427641aa0.md)
   - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
@@ -9933,8 +9919,6 @@ _Type: People_
 
 - [00:38:08](/episodes/ep-sreYYcID-QY.md#t-00-37-49) (Claim) **Candace Owens**: ["Someone at the Hamptons published a statement saying Charlie Kirk said..."](/statements/statement-766f5f30dc3c.md)
   - Also about: [Bill Ackman](/entities/person-bill-ackman.md)
-
-- [00:38:08](/episodes/ep-sreYYcID-QY.md#t-00-37-49) (Claim) **Candace Owens**: ["Someone at the Hamptons published a statement saying Charlie Kirk said..."](/statements/statement-fa0549c3f790.md)
 
 - [00:42:43](/episodes/ep-sreYYcID-QY.md#t-00-42-10) (Accusation) **Candace Owens**: ["Zionists started circling Charlie Kirk and putting pressure on him not..."](/statements/statement-363e4284c750.md)
 

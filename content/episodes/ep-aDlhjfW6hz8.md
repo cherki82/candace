@@ -304,10 +304,8 @@ youtube_url: "https://www.youtube.com/watch?v=aDlhjfW6hz8"
 </details>
 
 <details>
-<summary><strong>Statements (75)</strong></summary>
+<summary><strong>Statements (74)</strong></summary>
 
-- [00:00:07](#t-00-00-00) [○] (Claim) **Candace Owens**: ["Two men appeared minutes after Charlie Kirk was shot, moved his chair, and took ..."](/statements/statement-4adb527e5989.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:00:07](#t-00-00-00) [○] (Claim) **Candace Owens**: ["Two men appeared mere minutes after Charlie Kirk was shot, moved his chair, and ..."](/statements/statement-35b5db0a6a50.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:00:14](#t-00-00-00) [○] (Claim) **Candace Owens**: ["Two men moved Charlie Kirk's chair and took down the camera directly behind his ..."](/statements/statement-1ec3c7f3b8d8.md)

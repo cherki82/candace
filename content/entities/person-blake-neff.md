@@ -401,7 +401,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Blake Neff (13)</strong></summary>
+<summary><strong class="section-title">Statements about Blake Neff (12)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
@@ -412,9 +412,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (5)</summary>
-
-- [00:27:56](/episodes/ep-es7PWdFGoFI.md#t-00-27-24) (Claim) **Candace Owens**: ["Blake Neff's call with his mother lasted 45 seconds"](/statements/statement-5e80ba912048.md)
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (4)</summary>
 
 - [00:27:57](/episodes/ep-es7PWdFGoFI.md#t-00-27-24) (Claim) **Candace Owens**: ["Blake Neff's call with his mother lasted 45 seconds"](/statements/statement-89f562ad0771.md)
 
