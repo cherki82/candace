@@ -1,6 +1,6 @@
 ---
 title: "Britney Spears"
-description: "Britney Spears (People) - 18 mentions"
+description: "Britney Spears (People) - 34 mentions"
 id: "person-britney-spears"
 type: "PERSON"
 ---
@@ -29,7 +29,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (16 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (32 mentions)</summary>
 
 **[00:00:50](/episodes/ep-7RLtGgkTh9o.md#ent-person-britney-spears-t-00-00-44)**
 > "...pulling in all of these elements. And we need to speak a lot more about the Calvary Chapel and also Britney Spears. Britney Spears—suddenly Britney Spears is here. Britney Spears and everything that happened to her..."
@@ -78,6 +78,54 @@ _Type: People_
 
 **[00:32:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-britney-spears-t-00-32-07)**
 > "...t mentioned, whether you're looking into the Courtney Love thing, or whether you are focused on the Britney Spears thing. You need to look here. We need to understand what is happening inside of these churches. And..."
+
+**[00:00:50](/episodes/ep-7RLtGgkTh9o.md#ent-person-britney-spears-t-00-00-44)**
+> "...t the Calvary Chapel and also Britney Spears."
+
+**[00:00:56](/episodes/ep-7RLtGgkTh9o.md#ent-person-britney-spears-t-00-00-44)**
+> "Britney Spears—suddenly Britney Spears is here."
+
+**[00:00:58](/episodes/ep-7RLtGgkTh9o.md#ent-person-britney-spears-t-00-00-44)**
+> "Britney Spears and everything that happened to her is now increa..."
+
+**[00:04:40](/episodes/ep-7RLtGgkTh9o.md#ent-person-britney-spears-t-00-04-14)**
+> "...y Chapel was also involved in Britney Spears' conservatorship."
+
+**[00:04:58](/episodes/ep-7RLtGgkTh9o.md#ent-person-britney-spears-t-00-04-58)**
+> "...e clear, I never got into the Britney Spears web."
+
+**[00:05:51](/episodes/ep-7RLtGgkTh9o.md#ent-person-britney-spears-t-00-05-39)**
+> "...eavily insinuated—and even by Britney Spears herself."
+
+**[00:06:01](/episodes/ep-7RLtGgkTh9o.md#ent-person-britney-spears-t-00-05-39)**
+> "...e doesn't mind—to explain how Britney Spears was effectively infiltrated."
+
+**[00:06:16](/episodes/ep-7RLtGgkTh9o.md#ent-person-britney-spears-t-00-06-14)**
+> "...u Taylor became involved with Britney Spears in 2007 after she was hired to help manage Jamie ..."
+
+**[00:06:40](/episodes/ep-7RLtGgkTh9o.md#ent-person-britney-spears-t-00-06-14)**
+> "...r is the business manager for Britney Spears' father, mother, and younger sister, Jamie Lynn."
+
+**[00:07:54](/episodes/ep-7RLtGgkTh9o.md#ent-person-britney-spears-t-00-07-26)**
+> "the conservatorship of Britney Spears was implemented."
+
+**[00:11:15](/episodes/ep-7RLtGgkTh9o.md#ent-person-britney-spears-t-00-10-43)**
+> "...ome that he was making off of Britney Spears from the conservatorship to the church where Lou ..."
+
+**[00:12:02](/episodes/ep-7RLtGgkTh9o.md#ent-person-britney-spears-t-00-11-28)**
+> "Britney Spears' lawyer emails show ex-business manager helped se..."
+
+**[00:12:27](/episodes/ep-7RLtGgkTh9o.md#ent-person-britney-spears-t-00-12-06)**
+> "...is not just wrapped up in the Britney Spears world."
+
+**[00:12:49](/episodes/ep-7RLtGgkTh9o.md#ent-person-britney-spears-t-00-12-38)**
+> "...ything that was going on with Britney Spears at all."
+
+**[00:15:59](/episodes/ep-7RLtGgkTh9o.md#ent-person-britney-spears-t-00-15-24)**
+> "Britney Spears lives in Thousand Oaks, California—as does Justin..."
+
+**[00:32:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-britney-spears-t-00-32-07)**
+> "...hether you are focused on the Britney Spears thing."
 
 </details>
 

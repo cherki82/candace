@@ -1,6 +1,6 @@
 ---
 title: "Operation Valhalla"
-description: "Operation Valhalla (Events) - 9 mentions"
+description: "Operation Valhalla (Events) - 13 mentions"
 id: "event-operation-valhalla"
 type: "EVENT"
 ---
@@ -40,7 +40,7 @@ _Type: Events_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (5 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (9 mentions)</summary>
 
 **[00:06:40](/episodes/ep-mKXdKV-OBog.md#ent-event-operation-valhalla-t-00-06-30)**
 > "...Security Forces Squadron, a combined military and civilian security force that had just come off of Operation Valhalla, a training exercise in Minnesota from the 24th to the 29th of August, where the security forces pr..."
@@ -56,6 +56,18 @@ _Type: Events_
 
 **[00:09:06](/episodes/ep-mKXdKV-OBog.md#ent-event-operation-valhalla-t-00-08-31)**
 > "...e and nuclear security tactics—the bread and butter of the squadron's mission. The training, called Operation Valhalla Strike, allowed the unit to complete requirements not possible at the Minot Air Force Base, includi..."
+
+**[00:06:40](/episodes/ep-mKXdKV-OBog.md#ent-event-operation-valhalla-t-00-06-30)**
+> "...rce that had just come off of Operation Valhalla, a training exercise in Minnesota"
+
+**[00:08:11](/episodes/ep-mKXdKV-OBog.md#ent-event-operation-valhalla-t-00-07-51)**
+> "Operation Valhalla took place in neighboring Minnesota."
+
+**[00:08:40](/episodes/ep-mKXdKV-OBog.md#ent-event-operation-valhalla-t-00-08-31)**
+> "It says Operation Valhalla Strike was a week-long training where the 891st S..."
+
+**[00:09:06](/episodes/ep-mKXdKV-OBog.md#ent-event-operation-valhalla-t-00-08-31)**
+> "The training, called Operation Valhalla Strike, allowed the unit to complete requirements..."
 
 </details>
 

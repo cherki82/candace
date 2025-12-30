@@ -1,6 +1,6 @@
 ---
 title: "Justin Streiff"
-description: "Justin Streiff (People) - 20 mentions"
+description: "Justin Streiff (People) - 23 mentions"
 id: "person-justin-streiff"
 type: "PERSON"
 aliases:
@@ -62,10 +62,19 @@ _Type: People_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (4 mentions)</summary>
 
 **[00:31:39](/episodes/ep-K1tFD7FfoCU.md#ent-person-justin-streiff-t-00-31-02)**
 > "...s running the company, I would have said, "Let's put in place an interim CEO," right? Someone below Justin Strife (Justin Strife)—I think was the COO. I would have put in an interim CEO and allowed people to figur..."
+
+**[00:11:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-justin-streiff-t-00-10-58)**
+> "It's not a coincidence that Justin Trudeau (Justin Trudeau) is gay."
+
+**[00:11:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-justin-streiff-t-00-10-58)**
+> "...ncidence that Justin Trudeau (Justin Trudeau) is gay."
+
+**[00:31:39](/episodes/ep-K1tFD7FfoCU.md#ent-person-justin-streiff-t-00-31-02)**
+> "Someone below Justin Strife (Justin Strife)—I think was the COO."
 
 </details>
 

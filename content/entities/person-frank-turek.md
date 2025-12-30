@@ -1,6 +1,6 @@
 ---
 title: "Frank Turek"
-description: "Frank Turek (People) - 47 mentions"
+description: "Frank Turek (People) - 54 mentions"
 id: "person-frank-turek"
 type: "PERSON"
 aliases:
@@ -100,7 +100,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (8 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (15 mentions)</summary>
 
 **[00:01:38](/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-01-23)**
 > "We should start, by the way, with Frank Turek."
@@ -125,6 +125,27 @@ _Type: People_
 
 **[00:06:19](/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-05-45)**
 > "...the public. So I would very much invite Frank Turek onto the show. I don't think we've ever covered Frank Turek. He hasn't really come up in this investigation. He hasn't been caught in any lies, certainly. So I..."
+
+**[00:01:38](/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-01-23)**
+> "...hould start, by the way, with Frank Turek."
+
+**[00:01:39](/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-01-23)**
+> "Frank Turek, as a reminder, he is the pastor friend who was n..."
+
+**[00:01:57](/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-01-23)**
+> "Well, I just learned that Frank Turek was reacting to me."
+
+**[00:02:00](/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-01-23)**
+> "... what he had to say. (clip of Frank Turek)"
+
+**[00:04:50](/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-04-24)**
+> "I personally invited Frank Turek onto the show because we legitimately want answer..."
+
+**[00:06:17](/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-05-45)**
+> "So I would very much invite Frank Turek onto the show."
+
+**[00:06:19](/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-05-45)**
+> "...on't think we've ever covered Frank Turek."
 
 </details>
 

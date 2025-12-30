@@ -1,6 +1,6 @@
 ---
 title: "Federal Reserve"
-description: "Federal Reserve (Organizations) - 15 mentions"
+description: "Federal Reserve (Organizations) - 36 mentions"
 id: "org-federal-reserve"
 type: "ORG"
 aliases:
@@ -15,6 +15,32 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (7 mentions)</summary>
+
+**[00:23:39](/episodes/ep-6DhWawD4ZiM.md#ent-org-federal-reserve-t-00-23-32)**
+> "...is blasting the corporate and the fed narrative with common sense."
+
+**[00:30:33](/episodes/ep-6DhWawD4ZiM.md#ent-org-federal-reserve-t-00-29-58)**
+> "...tting out of this garden with the Fed Slop narrative."
+
+**[00:56:57](/episodes/ep-6DhWawD4ZiM.md#ent-org-federal-reserve-t-00-29-58)**
+> "And I don't trust the feds."
+
+**[00:57:05](/episodes/ep-6DhWawD4ZiM.md#ent-org-federal-reserve-t-00-29-58)**
+> "..., we're giving, we're telling the feds to do that."
+
+**[00:57:07](/episodes/ep-6DhWawD4ZiM.md#ent-org-federal-reserve-t-00-29-58)**
+> "Well, I can tell you the feds are not doing that because I was the one who said..."
+
+**[00:57:07](/episodes/ep-6DhWawD4ZiM.md#ent-org-federal-reserve-t-00-29-58)**
+> "... Charlie was assassinated and the feds have not reached out to me."
+
+**[00:57:31](/episodes/ep-6DhWawD4ZiM.md#ent-org-federal-reserve-t-00-29-58)**
+> "...like, whoa, even if I trusted the feds and I trusted my legal team and trusted their ana..."
+
+</details>
 
 <details>
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
@@ -57,10 +83,54 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4 mentions)</summary>
 
 **[00:34:04](/episodes/ep-7RLtGgkTh9o.md#ent-org-federal-reserve-t-00-33-25)**
 > "...ut American Financing because the Fed just dropped interest rates again."
+
+**[00:42:31](/episodes/ep-7RLtGgkTh9o.md#ent-org-federal-reserve-t-00-33-25)**
+> "...at we're never gonna get from the feds."
+
+**[00:51:22](/episodes/ep-7RLtGgkTh9o.md#ent-org-federal-reserve-t-00-33-25)**
+> "...sily believe that the police, the feds, the courts, the lawyers, and even the little gir..."
+
+**[00:52:13](/episodes/ep-7RLtGgkTh9o.md#ent-org-federal-reserve-t-00-33-25)**
+> ""The feds have always been honest with us about everything...."
+
+</details>
+
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (10 mentions)</summary>
+
+**[00:01:32](/episodes/ep-yAIb-NuUh_U.md#ent-org-federal-reserve-t-00-01-23)**
+> "...st ask questions; just accept the fed slop."
+
+**[00:23:00](/episodes/ep-yAIb-NuUh_U.md#ent-org-federal-reserve-t-00-01-23)**
+> "...hen when he sat down, he said the feds are running a cartel operation."
+
+**[00:23:21](/episodes/ep-yAIb-NuUh_U.md#ent-org-federal-reserve-t-00-01-23)**
+> "And he said the feds—you get into trouble."
+
+**[00:23:35](/episodes/ep-yAIb-NuUh_U.md#ent-org-federal-reserve-t-00-01-23)**
+> "...Diddy had been blackmailed by the feds."
+
+**[00:30:34](/episodes/ep-yAIb-NuUh_U.md#ent-org-federal-reserve-t-00-30-06)**
+> "...ionship—with Emmanuel Macron, the Fed-level cover-up,"
+
+**[00:33:00](/episodes/ep-yAIb-NuUh_U.md#ent-org-federal-reserve-t-00-32-50)**
+> "It's godly to accept the fed narrative."
+
+**[00:42:53](/episodes/ep-yAIb-NuUh_U.md#ent-org-federal-reserve-t-00-42-33)**
+> "...y. When you start questioning the feds, suddenly they want to call you crazy. And Tucker..."
+
+**[00:43:10](/episodes/ep-yAIb-NuUh_U.md#ent-org-federal-reserve-t-00-42-33)**
+> "...nd we're just going to accept the Fed slop because that's what we should do as polite c..."
+
+**[00:45:11](/episodes/ep-yAIb-NuUh_U.md#ent-org-federal-reserve-t-00-42-33)**
+> "And the feds are not helping—maybe because Kash Patel is busy ..."
+
+**[00:46:46](/episodes/ep-yAIb-NuUh_U.md#ent-org-federal-reserve-t-00-42-33)**
+> "...e get a copyright strike from the feds?"
 
 </details>
 
@@ -105,10 +175,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
 
 **[00:42:11](/episodes/ep-K1tFD7FfoCU.md#ent-org-federal-reserve-t-00-42-11)**
 > "...ut American Financing because the Fed just dropped interest rates again, and that is gr..."
+
+**[00:35:11](/episodes/ep-K1tFD7FfoCU.md#ent-org-federal-reserve-t-00-42-11)**
+> "...sparent—which doesn't involve the feds—I would do that."
 
 </details>
 

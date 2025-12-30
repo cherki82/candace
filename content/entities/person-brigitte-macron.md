@@ -1,6 +1,6 @@
 ---
 title: "Brigitte Macron"
-description: "Brigitte Macron (People) - 164 mentions"
+description: "Brigitte Macron (People) - 181 mentions"
 id: "person-brigitte-macron"
 type: "PERSON"
 aliases:
@@ -416,7 +416,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (7 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (17 mentions)</summary>
 
 **[00:00:23](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-00-00)**
 > "... book—which I got obsessed with and [that] it's required reading for this podcast— connected to the Brigitte Macron case. I'm gonna tell you about that, connected to Ye (Kanye West), me telling you all about what ha..."
@@ -439,10 +439,40 @@ _Type: People_
 **[00:52:56](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-52-23)**
 > "...Also, the Brigitte jump scares keep sending me." We have no idea what you're talking about with the Brigitte jump scares. I kid, of course. Yes, I'm sorry. We just try to get up-to-date photos. That's all. Gi..."
 
+**[00:00:23](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-00-00)**
+> "connected to the Brigitte Macron case. I'm gonna tell you about that, connected to..."
+
+**[00:01:57](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-01-21)**
+> "Brigitte Macron—where did we end up, by the way?"
+
+**[00:01:59](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-01-21)**
+> "Where did we leave off on Brigitte Macron?"
+
+**[00:01:59](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-01-21)**
+> "... did we leave off on Brigitte Macron?"
+
+**[00:02:03](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-02-03)**
+> "...erything I said in my series, Brigitte Macron and Emmanuel had a heart attack when I started di..."
+
+**[00:02:03](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-02-03)**
+> "...I said in my series, Brigitte Macron and Emmanuel had a heart attack when I started di..."
+
+**[00:30:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-30-07)**
+> "...s very much investigating the Brigitte Macron thing and was arriving very quickly at this weird..."
+
+**[00:30:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-30-07)**
+> "...ch investigating the Brigitte Macron thing and was arriving very quickly at this weird..."
+
+**[00:52:53](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-52-23)**
+> ""Also, the Brigitte jump scares keep sending me.""
+
+**[00:52:56](/episodes/ep-7RLtGgkTh9o.md#ent-person-brigitte-macron-t-00-52-23)**
+> "...you're talking about with the Brigitte jump scares."
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (3 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (9 mentions)</summary>
 
 **[00:30:34](/episodes/ep-yAIb-NuUh_U.md#ent-person-brigitte-macron-t-00-30-06)**
 > "...civilization seems to be ruled by perverts. That's the common thread between my investigations into Brigitte Macron and her strange relationship—his strange relationship—with Emmanuel Macron, the Fed-level cover-up,..."
@@ -452,6 +482,24 @@ _Type: People_
 
 **[00:49:22](/episodes/ep-yAIb-NuUh_U.md#ent-person-brigitte-macron-t-00-49-18)**
 > "...th Brigitte Macron. Apparently, the president of France watches Tim Dillon, and we talked about the Brigitte case, and so he's dragged in there anyways. I'm looking forward to them putting Tim Dillon under oa..."
+
+**[00:30:34](/episodes/ep-yAIb-NuUh_U.md#ent-person-brigitte-macron-t-00-30-06)**
+> "...etween my investigations into Brigitte Macron and her strange relationship—his strange relation..."
+
+**[00:30:34](/episodes/ep-yAIb-NuUh_U.md#ent-person-brigitte-macron-t-00-30-06)**
+> "... investigations into Brigitte Macron and her strange relationship—his strange relation..."
+
+**[00:30:34](/episodes/ep-yAIb-NuUh_U.md#ent-person-brigitte-macron-t-00-30-06)**
+> "...ge relationship—with Emmanuel Macron, the Fed-level cover-up,"
+
+**[00:49:18](/episodes/ep-yAIb-NuUh_U.md#ent-person-brigitte-macron-t-00-49-18)**
+> "...y included in my lawsuit with Brigitte Macron."
+
+**[00:49:18](/episodes/ep-yAIb-NuUh_U.md#ent-person-brigitte-macron-t-00-49-18)**
+> "...d in my lawsuit with Brigitte Macron."
+
+**[00:49:22](/episodes/ep-yAIb-NuUh_U.md#ent-person-brigitte-macron-t-00-49-18)**
+> "...llon, and we talked about the Brigitte case, and so he's dragged in there anyways."
 
 </details>
 
@@ -498,10 +546,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
 
 **[00:11:16](/episodes/ep-K1tFD7FfoCU.md#t-00-10-58)**
 > "... (clip): Obama, gay. Candace Owens (clip): Zelensky (Zelensky), gay. Candace Owens (clip): Emmanuel Macron (Emmanuel Macron), gay and married to a trans man who molested him when he was a child. Candace Owe..."
+
+**[00:11:16](/episodes/ep-K1tFD7FfoCU.md#t-00-10-58)**
+> "Emmanuel Macron (Emmanuel Macron), gay and married to a trans man..."
 
 </details>
 
@@ -664,7 +715,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Brigitte Macron (18)</strong></summary>
+<summary><strong class="section-title">Statements about Brigitte Macron (17)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
@@ -674,10 +725,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (3)</summary>
-
-- [00:06:46](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) (Accusation) **Candace Owens**: ["The Macron couple paid for my assassination"](/statements/statement-2a6aa63ab18f.md)
-  - Also about: [Emmanuel Macron](/entities/person-emmanuel-macron.md)
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2)</summary>
 
 - [00:06:50](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) (Accusation) **Candace Owens**: ["The Macron couple apparently paid for my assassination"](/statements/statement-a99141835461.md)
   - Also about: [Emmanuel Macron](/entities/person-emmanuel-macron.md), [Candace Owens](/entities/person-candace-owens.md)

@@ -1,6 +1,6 @@
 ---
 title: "UCLA"
-description: "UCLA (Organizations) - 3 mentions"
+description: "UCLA (Organizations) - 4 mentions"
 id: "org-ucla"
 type: "ORG"
 ---
@@ -13,10 +13,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:14:19](/episodes/ep-7RLtGgkTh9o.md#ent-org-ucla-t-00-14-12)**
 > "...d Lou Taylor leaked that to the press because they wanted Lindsay to get out sooner and have her in UCLA so she wouldn't spend much time in the rehab. They're destroying my daughter's life. I'm praying th..."
+
+**[00:14:19](/episodes/ep-7RLtGgkTh9o.md#ent-org-ucla-t-00-14-12)**
+> "...et out sooner and have her in UCLA so she wouldn't spend much time in the rehab."
 
 </details>
 

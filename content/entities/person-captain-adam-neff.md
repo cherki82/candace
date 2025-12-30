@@ -1,6 +1,6 @@
 ---
 title: "Captain Adam Neff"
-description: "Captain Adam Neff (People) - 23 mentions"
+description: "Captain Adam Neff (People) - 24 mentions"
 id: "person-captain-adam-neff"
 type: "PERSON"
 aliases:
@@ -44,7 +44,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (12 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (13 mentions)</summary>
 
 **[00:26:36](/episodes/ep-6DhWawD4ZiM.md#ent-person-captain-adam-neff-t-00-39-28)**
 > "...what we got from Blake (Blake Neff), and I know he's untouchable, he's in the fam, b..."
@@ -81,6 +81,9 @@ _Type: People_
 
 **[00:56:14](/episodes/ep-6DhWawD4ZiM.md#ent-person-captain-adam-neff-t-00-45-10)**
 > "...'t look into the Blake (Blake Neff) thing or why he left Fox News because I'm just m..."
+
+**[00:40:11](/episodes/ep-6DhWawD4ZiM.md#ent-person-captain-adam-neff-t-00-40-11)**
+> "Adam Neff, and I'm sure captains have different names, but ..."
 
 </details>
 

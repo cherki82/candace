@@ -1,6 +1,6 @@
 ---
 title: "Las Vegas"
-description: "Las Vegas (Places) - 28 mentions"
+description: "Las Vegas (Places) - 31 mentions"
 id: "gpe-las-vegas"
 type: "GPE"
 aliases:
@@ -97,18 +97,27 @@ _Type: Places_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:28:42](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-las-vegas-t-00-28-42)**
 > "...htsome, the original 'knee fights.'" "So who is it that doesn't drink, doesn't gamble, but they run Vegas? And a lot of the Jews that are in Hollywood—Lou Taylor for Kim Kardashian and Diddy." "Jay-Z, Beyo..."
 
+**[00:28:42](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-las-vegas-t-00-28-42)**
+> "... doesn't gamble, but they run Vegas? And a lot of the Jews that are in Hollywood—Lou ..."
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (3 mentions)</summary>
 
 **[00:19:12](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-las-vegas-t-00-18-59)**
 > "...no Beach—the founder was a pastor named Rob Coy (not McCoy, to be clear), Rob Coy, who was a former Las Vegas casino entertainment director turned religious leader for one of Florida's biggest megachurches. An..."
+
+**[00:19:12](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-las-vegas-t-00-18-59)**
+> "...r), Rob Coy, who was a former Las Vegas casino entertainment director turned religious le..."
+
+**[00:19:12](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-las-vegas-t-00-18-59)**
+> "...Rob Coy, who was a former Las Vegas casino entertainment director turned religious le..."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Trustpilot"
-description: "Trustpilot (Organizations) - 5 mentions"
+description: "Trustpilot (Organizations) - 6 mentions"
 id: "org-trustpilot"
 type: "ORG"
 ---
@@ -21,10 +21,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
 **[00:36:03](/episodes/ep-yAIb-NuUh_U.md#ent-org-trustpilot-t-00-35-40)**
 > "...ness Bureau. It boasts thousands of five-star reviews on Google, and it holds a five-star rating on Trustpilot. It's your money. It's your future. Do not let the system decide for you. You are just 30 seconds a..."
+
+**[00:36:03](/episodes/ep-yAIb-NuUh_U.md#ent-org-trustpilot-t-00-35-40)**
+> "...t holds a five-star rating on Trustpilot."
 
 </details>
 

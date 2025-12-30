@@ -1,6 +1,6 @@
 ---
 title: "Operation Mockingbird"
-description: "Operation Mockingbird (Concepts) - 14 mentions"
+description: "Operation Mockingbird (Concepts) - 17 mentions"
 id: "concept-operation-mockingbird"
 type: "CONCEPT"
 aliases:
@@ -21,6 +21,20 @@ _Type: Concepts_
 
 **[00:55:44](/episodes/ep-9k2xrAC0H88.md#ent-concept-operation-mockingbird-t-00-55-37)**
 > "This person writes, Operation Mockingbird, everything is not what it seems."
+
+</details>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
+
+**[00:19:15](/episodes/ep-6DhWawD4ZiM.md#ent-concept-operation-mockingbird-t-00-19-15)**
+> "...a Kirk), which a lot of these mockingbird influencers seem to be making is essentially they..."
+
+**[00:23:07](/episodes/ep-6DhWawD4ZiM.md#ent-concept-operation-mockingbird-t-00-22-48)**
+> "...e right price, they will join Operation Mockingbird."
+
+**[00:23:07](/episodes/ep-6DhWawD4ZiM.md#ent-concept-operation-mockingbird-t-00-22-48)**
+> "...ice, they will join Operation Mockingbird."
 
 </details>
 
@@ -98,18 +112,16 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Operation Mockingbird (5)</strong></summary>
+<summary><strong class="section-title">Statements about Operation Mockingbird (4)</strong></summary>
 
 <details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (3)</summary>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (2)</summary>
 
 - [00:00:02](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00) (Claim) **Candace Owens**: ["The CIA established Operation Mockingbird after the public execution o..."](/statements/statement-b6c4b6edb33f.md)
   - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [JFK assassination](/entities/event-jfk-assassination.md)
 
 - [00:00:03](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00) (Claim) **Candace Owens**: ["After the public execution of sitting President JFK in 1963, the CIA e..."](/statements/statement-0533f01c5c5b.md)
-
-- [00:00:03](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00) (Claim) **Candace Owens**: ["The CIA established Operation Mockingbird after the public execution o..."](/statements/statement-e318b0075c46.md)
-  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [JFK assassination](/entities/event-jfk-assassination.md)
+  - Also about: [JFK assassination](/entities/event-jfk-assassination.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
 
 </details>
 

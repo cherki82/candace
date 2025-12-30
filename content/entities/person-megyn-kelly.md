@@ -1,6 +1,6 @@
 ---
 title: "Megyn Kelly"
-description: "Megyn Kelly (People) - 131 mentions"
+description: "Megyn Kelly (People) - 144 mentions"
 id: "person-megyn-kelly"
 type: "PERSON"
 aliases:
@@ -43,13 +43,16 @@ _Type: People_
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
 
 **[00:09:59](/episodes/ep-6DhWawD4ZiM.md#ent-person-megyn-kelly-t-00-09-46)**
 > "... done Outnumbered, she's done Megyn (Megyn Kelly) Live."
 
 **[00:11:30](/episodes/ep-6DhWawD4ZiM.md#ent-person-megyn-kelly-t-00-09-46)**
 > "she's done Megyn (Megyn Kelly) Live"
+
+**[00:09:59](/episodes/ep-6DhWawD4ZiM.md#ent-person-megyn-kelly-t-00-09-46)**
+> "...utnumbered, she's done Megyn (Megyn Kelly) Live."
 
 </details>
 
@@ -96,10 +99,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
 **[00:39:49](/episodes/ep-yAIb-NuUh_U.md#ent-person-megyn-kelly-t-00-39-16)**
 > "... just a bad person." "You've got to make a statement against her." Charlie (Charlie Kirk) said no. "Megyn Kelly, it's your career or it's Tucker (Tucker Carlson)?" "You decide, right?" "I'm your friend." "I just..."
+
+**[00:39:49](/episodes/ep-yAIb-NuUh_U.md#ent-person-megyn-kelly-t-00-39-16)**
+> ""Megyn Kelly, it's your career or it's Tucker (Tucker Carlson)..."
 
 </details>
 
@@ -228,7 +234,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (6 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (17 mentions)</summary>
 
 **[00:09:47](/episodes/ep-K1tFD7FfoCU.md#ent-person-megyn-kelly-t-00-09-46)**
 > "... get mad at Tucker Carlson (Tucker Carlson). They attack me. They get mad at me. They kind of punch Megyn Kelly (Megyn Kelly) now. I don't know what Megyn Kelly (Megyn Kelly) has done wrong, but she's done wrong..."
@@ -247,6 +253,39 @@ _Type: People_
 
 **[00:28:58](/episodes/ep-K1tFD7FfoCU.md#ent-person-megyn-kelly-t-00-28-37)**
 > "...doing this—about the pressure that Charlie (Charlie Kirk) was under. And it was not easy for Megyn (Megyn Kelly) to do that, okay? She is still catching heat for the fact that she did that. So I feel like Erika ..."
+
+**[00:09:47](/episodes/ep-K1tFD7FfoCU.md#ent-person-megyn-kelly-t-00-09-46)**
+> "They kind of punch Megyn Kelly (Megyn Kelly) now."
+
+**[00:09:47](/episodes/ep-K1tFD7FfoCU.md#ent-person-megyn-kelly-t-00-09-46)**
+> "...ey kind of punch Megyn Kelly (Megyn Kelly) now."
+
+**[00:09:48](/episodes/ep-K1tFD7FfoCU.md#ent-person-megyn-kelly-t-00-09-46)**
+> "I don't know what Megyn Kelly (Megyn Kelly) has done wrong, but she's done wron..."
+
+**[00:09:48](/episodes/ep-K1tFD7FfoCU.md#ent-person-megyn-kelly-t-00-09-46)**
+> "... don't know what Megyn Kelly (Megyn Kelly) has done wrong, but she's done wrong, is what th..."
+
+**[00:28:42](/episodes/ep-K1tFD7FfoCU.md#ent-person-megyn-kelly-t-00-28-37)**
+> "...s also—I think—slated to join Megyn Kelly (Megyn Kelly) on tour."
+
+**[00:28:42](/episodes/ep-K1tFD7FfoCU.md#ent-person-megyn-kelly-t-00-28-37)**
+> "...k—slated to join Megyn Kelly (Megyn Kelly) on tour."
+
+**[00:28:52](/episodes/ep-K1tFD7FfoCU.md#ent-person-megyn-kelly-t-00-28-37)**
+> "...lie Kirk) opened up to Megyn (Megyn Kelly) in the end."
+
+**[00:28:52](/episodes/ep-K1tFD7FfoCU.md#ent-person-megyn-kelly-t-00-28-37)**
+> "...e (Charlie Kirk) opened up to Megyn (Megyn Kelly) in the end."
+
+**[00:28:55](/episodes/ep-K1tFD7FfoCU.md#ent-person-megyn-kelly-t-00-28-37)**
+> "Megyn (Megyn Kelly) stood 10 toes down on telling the truth—which is..."
+
+**[00:28:58](/episodes/ep-K1tFD7FfoCU.md#ent-person-megyn-kelly-t-00-28-37)**
+> "...nd it was not easy for Megyn (Megyn Kelly) to do that, okay?"
+
+**[00:28:58](/episodes/ep-K1tFD7FfoCU.md#ent-person-megyn-kelly-t-00-28-37)**
+> "And it was not easy for Megyn (Megyn Kelly) to do that, okay?"
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Burton Hibbs"
-description: "Burton Hibbs (People) - 14 mentions"
+description: "Burton Hibbs (People) - 22 mentions"
 id: "person-burton-hibbs"
 type: "PERSON"
 aliases:
@@ -18,7 +18,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (5 mentions)</summary>
 
 **[00:16:46](/episodes/ep-mKXdKV-OBog.md#ent-person-burton-hibbs-t-00-16-27)**
 > "Burton Hibbs (Butch), brother of Pastor Jack Hibbs"
@@ -28,6 +28,12 @@ _Type: People_
 
 **[00:17:19](/episodes/ep-mKXdKV-OBog.md#ent-person-burton-hibbs-t-00-17-10)**
 > "...e could have been a lot of people there that were controlled military men. That's my viewpoint. But Burton Hibbs—Butch—is the brother of Pastor Jack Hibbs. Obviously sons—I showed you—of an Air Force chief. Tyler..."
+
+**[00:16:47](/episodes/ep-mKXdKV-OBog.md#ent-person-burton-hibbs-t-00-16-27)**
+> "Burton Hibbs—Butch—the brother of Pastor Jack Hibbs."
+
+**[00:17:19](/episodes/ep-mKXdKV-OBog.md#ent-person-burton-hibbs-t-00-17-10)**
+> "But Burton Hibbs—Butch—is the brother of Pastor Jack Hibbs. Obviou..."
 
 </details>
 
@@ -40,7 +46,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (5 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (10 mentions)</summary>
 
 **[00:44:56](/episodes/ep-7RLtGgkTh9o.md#ent-person-burton-hibbs-t-00-44-42)**
 > "...roon shirt—but sticking on to this topic of the bush—people also sent me a ton of information about Butch Hibbs—Jack Hibbs' brother who was here. And maybe might have been speaking to that bush—I don't know. But..."
@@ -57,13 +63,31 @@ _Type: People_
 **[00:47:54](/episodes/ep-7RLtGgkTh9o.md#ent-person-burton-hibbs-t-00-47-26)**
 > "...we are really understanding the way that our world works. So if you have any more information about Butch—some people were telling me that he was involved, and I have not been able to confirm this informat..."
 
+**[00:44:56](/episodes/ep-7RLtGgkTh9o.md#ent-person-burton-hibbs-t-00-44-42)**
+> "...me a ton of information about Butch Hibbs—Jack Hibbs' brother who was here."
+
+**[00:45:34](/episodes/ep-7RLtGgkTh9o.md#ent-person-burton-hibbs-t-00-45-25)**
+> "And on the topic of Butch Hibbs, we got a flurry of videos of him after"
+
+**[00:46:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-burton-hibbs-t-00-46-07)**
+> "...he heard and what he saw, and Butch is kind of just lingering in the background—almos..."
+
+**[00:46:20](/episodes/ep-7RLtGgkTh9o.md#ent-person-burton-hibbs-t-00-46-07)**
+> "You're gonna see Butch in the background as another individual is being ..."
+
+**[00:47:54](/episodes/ep-7RLtGgkTh9o.md#ent-person-burton-hibbs-t-00-47-26)**
+> "...ve any more information about Butch—some people were telling me that he was involved,..."
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
 **[00:28:31](/episodes/ep-yAIb-NuUh_U.md#ent-person-burton-hibbs-t-00-27-59)**
 > "...eir obsession with Christian Zionism? Jack Hibbs among them? We mentioned him yesterday—his brother Butch Hibbs, who was just everywhere before and after Charlie (Charlie Kirk)'s assassination. There's like foot..."
+
+**[00:28:31](/episodes/ep-yAIb-NuUh_U.md#ent-person-burton-hibbs-t-00-27-59)**
+> "...ned him yesterday—his brother Butch Hibbs, who was just everywhere before and after C..."
 
 </details>
 

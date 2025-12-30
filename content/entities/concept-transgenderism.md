@@ -1,6 +1,6 @@
 ---
 title: "transgenderism"
-description: "transgenderism (Concepts) - 7 mentions"
+description: "transgenderism (Concepts) - 9 mentions"
 id: "concept-transgenderism"
 type: "CONCEPT"
 aliases:
@@ -34,13 +34,19 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (4 mentions)</summary>
 
 **[00:11:59](/episodes/ep-K1tFD7FfoCU.md#ent-concept-transgenderism-t-00-11-28)**
 > "...ure of vices that we are suffering from today: a culture that is filled with pornography, gambling, transgenderism, radical feminism, modern psychology, pharmaceuticals. If you research these topics historically, y..."
 
 **[00:13:27](/episodes/ep-K1tFD7FfoCU.md#ent-concept-transgenderism-t-00-12-52)**
 > "...ht for that. Samuel Roth (Samuel Roth)—actually, that's his name—fought for that decision in court. Transgenderism—go back and try to figure out where that came from. Magnus Hirschfeld (Magnus Hirschfeld) was the d..."
+
+**[00:11:59](/episodes/ep-K1tFD7FfoCU.md#ent-concept-transgenderism-t-00-11-28)**
+> "...d with pornography, gambling, transgenderism, radical feminism, modern psychology, pharmaceuti..."
+
+**[00:13:27](/episodes/ep-K1tFD7FfoCU.md#ent-concept-transgenderism-t-00-12-52)**
+> "Transgenderism—go back and try to figure out where that came fro..."
 
 </details>
 

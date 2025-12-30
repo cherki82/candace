@@ -1,6 +1,6 @@
 ---
 title: "United States Navy"
-description: "United States Navy (Organizations) - 10 mentions"
+description: "United States Navy (Organizations) - 11 mentions"
 id: "org-united-states-navy"
 type: "ORG"
 aliases:
@@ -25,10 +25,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
 **[00:12:19](/episodes/ep-yAIb-NuUh_U.md#t-00-12-06)**
 > "...employ tactics of psychological gaslighting. Maybe he learned this from his father who did this for Navy intelligence, right? But he is going to host Thomas Camino for a podcast episode on the Bryce Eddie..."
+
+**[00:12:19](/episodes/ep-yAIb-NuUh_U.md#t-00-12-06)**
+> "...m his father who did this for Navy intelligence, right?"
 
 </details>
 

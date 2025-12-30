@@ -1,6 +1,6 @@
 ---
 title: "Skyler"
-description: "Skyler (People) - 13 mentions"
+description: "Skyler (People) - 14 mentions"
 id: "person-skyler"
 type: "PERSON"
 aliases:
@@ -15,6 +15,14 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+
+**[00:57:24](/episodes/ep-yAIb-NuUh_U.md#ent-person-skyler-t-00-57-10)**
+> "...to ask me again tomorrow, but Skyler—put a note to ask me again tomorrow"
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (9 mentions)</summary>

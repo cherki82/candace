@@ -1,6 +1,6 @@
 ---
 title: "Satis"
-description: "Satis (Organizations) - 17 mentions"
+description: "Satis (Organizations) - 22 mentions"
 id: "org-satis"
 type: "ORG"
 aliases:
@@ -45,7 +45,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (9 mentions)</summary>
 
 **[00:00:04](/episodes/ep-mKXdKV-OBog.md#ent-org-satis-t-00-00-00)**
 > "...ight, you guys. Happy Friday. Some more interesting tips are coming in. It seems that that company, Satis—that French company—the Satis angle has opened up a whole new level of possibilities here in this C..."
@@ -58,6 +58,21 @@ _Type: Organizations_
 
 **[00:38:59](/episodes/ep-mKXdKV-OBog.md#ent-org-satis-t-00-38-54)**
 > "...ey certainly did. And the CEO is an Israeli, and it's in Hamburg. There's a lot going on there with Satis. And like I said, we're information-sharing in the background, and we are definitely getting closer..."
+
+**[00:00:04](/episodes/ep-mKXdKV-OBog.md#ent-org-satis-t-00-00-00)**
+> "It seems that that company, Satis—that French company—the Satis angle has opened up..."
+
+**[00:00:04](/episodes/ep-mKXdKV-OBog.md#ent-org-satis-t-00-00-00)**
+> "...Satis—that French company—the Satis angle has opened up a whole new level of possibil..."
+
+**[00:22:17](/episodes/ep-mKXdKV-OBog.md#ent-org-satis-t-00-21-55)**
+> "...definitively were pulled into Satis, and that person was then escorted for whatever r..."
+
+**[00:38:30](/episodes/ep-mKXdKV-OBog.md#ent-org-satis-t-00-38-09)**
+> "..., we should look further into Satis."
+
+**[00:38:59](/episodes/ep-mKXdKV-OBog.md#ent-org-satis-t-00-38-54)**
+> "...e's a lot going on there with Satis."
 
 </details>
 

@@ -23,13 +23,23 @@ type: "factual_claim"
 - [Erika Kirk](/entities/person-erika-kirk.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. Erika And I Sat Down. Here’s What Happened. | Candace Ep 280
 
 **Episode:** [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md)
 **Timestamp:** [01:11:07](/episodes/ep-es7PWdFGoFI.md#t-01-11-03) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(4267);return false;">Play</a>
 
 > Look, obviously, Erika (Erika Kirk) confirmed it. I was always telling the truth.
+
+### 2. Erika And I Sat Down. Here’s What Happened. | Candace Ep 280
+
+**Episode:** [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md)
+**Timestamp:** [01:11:03](/episodes/ep-es7PWdFGoFI.md#t-01-10-18) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(4263);return false;">Play</a>
+
+> Erika confirmed it. I was always telling the truth
 
 ## Verification
 

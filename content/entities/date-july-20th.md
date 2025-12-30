@@ -1,6 +1,6 @@
 ---
 title: "July 20th"
-description: "July 20th (Dates) - 2 mentions"
+description: "July 20th (Dates) - 3 mentions"
 id: "date-july-20th"
 type: "DATE"
 ---
@@ -13,10 +13,13 @@ _Type: Dates_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:11:04](/episodes/ep-mKXdKV-OBog.md#ent-date-july-20th-t-00-10-47)**
 > "...l that up again. I'm also gonna introduce a couple of corrections to yesterday. First and foremost, July 20th, we talked about SUBTT, which came in for its longest trip—that's correct—from Cairo. It went throu..."
+
+**[00:11:04](/episodes/ep-mKXdKV-OBog.md#ent-date-july-20th-t-00-10-47)**
+> "First and foremost, July 20th, we talked about SUBTT, which came in for its lon..."
 
 </details>
 

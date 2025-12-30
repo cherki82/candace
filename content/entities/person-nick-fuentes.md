@@ -1,6 +1,6 @@
 ---
 title: "Nick Fuentes"
-description: "Nick Fuentes (People) - 75 mentions"
+description: "Nick Fuentes (People) - 98 mentions"
 id: "person-nick-fuentes"
 type: "PERSON"
 ---
@@ -172,7 +172,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (11 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (34 mentions)</summary>
 
 **[00:07:28](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-06-49)**
 > "...y control are allowed to be in positions of power. So recently, Tucker (Tucker Carlson) interviewed Nick Fuentes (Nick Fuentes). The reason he did that, I've heard, is because it happens to be a free country, and..."
@@ -206,6 +206,75 @@ _Type: People_
 
 **[00:48:09](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-48-01)**
 > "... and gay." Yeah, Charlie (Charlie Kirk) believed in free speech. He didn't even blink when I hosted Nick Fuentes (Nick Fuentes). What an absurd idea that Charlie (Charlie Kirk) would have—if Charlie (Charlie Kirk..."
+
+**[00:07:28](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-06-49)**
+> "... (Tucker Carlson) interviewed Nick Fuentes (Nick Fuentes)."
+
+**[00:07:28](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-06-49)**
+> "...on) interviewed Nick Fuentes (Nick Fuentes)."
+
+**[00:07:35](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-07-32)**
+> "...(Tucker Carlson) interviewing Nick Fuentes (Nick Fuentes) is a betrayal to Charlie (Charlie ..."
+
+**[00:07:35](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-07-32)**
+> "...n) interviewing Nick Fuentes (Nick Fuentes) is a betrayal to Charlie (Charlie Kirk)."
+
+**[00:08:20](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-08-16)**
+> "...he died in July—I interviewed Nick Fuentes (Nick Fuentes)."
+
+**[00:08:20](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-08-16)**
+> "...y—I interviewed Nick Fuentes (Nick Fuentes)."
+
+**[00:08:23](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-08-16)**
+> "...id he tell me not to speak to Nick Fuentes (Nick Fuentes)."
+
+**[00:08:23](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-08-16)**
+> "...not to speak to Nick Fuentes (Nick Fuentes)."
+
+**[00:08:39](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-08-16)**
+> "...ie (Charlie Kirk) should host Nick Fuentes (Nick Fuentes) on his show and debate him."
+
+**[00:08:39](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-08-16)**
+> "...rk) should host Nick Fuentes (Nick Fuentes) on his show and debate him."
+
+**[00:08:52](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-08-16)**
+> "...n act of betrayal to speak to Nick Fuentes (Nick Fuentes)."
+
+**[00:08:52](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-08-16)**
+> "...yal to speak to Nick Fuentes (Nick Fuentes)."
+
+**[00:09:33](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-09-01)**
+> "...irk (Charlie Kirk) by hosting Nick Fuentes (Nick Fuentes).""
+
+**[00:09:33](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-09-01)**
+> "...irk) by hosting Nick Fuentes (Nick Fuentes).""
+
+**[00:10:00](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-09-57)**
+> "...s where his relationship with Nick Fuentes (Nick Fuentes) begins, with Nick Fuentes (Nick Fu..."
+
+**[00:10:00](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-09-57)**
+> "...lationship with Nick Fuentes (Nick Fuentes) begins, with Nick Fuentes (Nick Fuentes) correct..."
+
+**[00:10:00](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-09-57)**
+> "...s (Nick Fuentes) begins, with Nick Fuentes (Nick Fuentes) correctly pointing out that Tucker..."
+
+**[00:10:00](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-09-57)**
+> "...s) begins, with Nick Fuentes (Nick Fuentes) correctly pointing out that Tucker Carlson (Tuck..."
+
+**[00:14:26](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-14-16)**
+> "... (Charlie Kirk) believed that Nick Fuentes (Nick Fuentes) was vermin."
+
+**[00:14:26](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-14-16)**
+> "...) believed that Nick Fuentes (Nick Fuentes) was vermin."
+
+**[00:14:30](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-14-16)**
+> "He believed that because Nick Fuentes (Nick Fuentes) dedicated his life to destroying C..."
+
+**[00:14:30](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-14-16)**
+> "...ed that because Nick Fuentes (Nick Fuentes) dedicated his life to destroying Charlie Kirk (C..."
+
+**[00:48:09](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-48-01)**
+> "Nick Fuentes (Nick Fuentes). What an absurd idea that Charlie ..."
 
 </details>
 

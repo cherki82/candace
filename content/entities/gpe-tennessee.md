@@ -1,6 +1,6 @@
 ---
 title: "Tennessee"
-description: "Tennessee (Places) - 9 mentions"
+description: "Tennessee (Places) - 12 mentions"
 id: "gpe-tennessee"
 type: "GPE"
 aliases:
@@ -50,6 +50,20 @@ _Type: Places_
 
 **[00:18:59](/episodes/ep-sImMM04XdWY.md#ent-gpe-tennessee-t-00-18-58)**
 > "... have been defamed is here in Tennessee."
+
+</details>
+
+<details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (3 mentions)</summary>
+
+**[00:16:18](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-tennessee-t-00-16-07)**
+> "...ou Taylor moved to Brentwood, Tennessee."
+
+**[00:16:23](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-tennessee-t-00-16-07)**
+> "...ou Taylor moved to Brentwood, Tennessee."
+
+**[00:16:42](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-tennessee-t-00-16-07)**
+> "...ng their church in Brentwood, Tennessee."
 
 </details>
 

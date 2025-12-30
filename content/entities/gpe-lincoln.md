@@ -1,6 +1,6 @@
 ---
 title: "Lincoln"
-description: "Lincoln (Places) - 21 mentions"
+description: "Lincoln (Places) - 23 mentions"
 id: "gpe-lincoln"
 type: "GPE"
 aliases:
@@ -28,13 +28,19 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
 
 **[00:01:54](/episodes/ep-mKXdKV-OBog.md#ent-gpe-lincoln-t-00-10-47)**
 > "...n Founding Fathers. Ben Franklin—I always really enjoyed—um, you know, I—George Washington, Abraham Lincoln, Thomas Jefferson are—I think are too cliché. So one I really enjoy that I just love learning from ..."
 
 **[00:11:22](/episodes/ep-mKXdKV-OBog.md#ent-gpe-lincoln-t-00-10-47)**
 > "...ayed in Wilmington for one night. It stayed in Nebraska for the longest stretch yet, departing from Lincoln, Nebraska, in particular. And this six-day stretch of what they were doing in Nebraska actually might offer u..."
+
+**[00:01:54](/episodes/ep-mKXdKV-OBog.md#ent-gpe-lincoln-t-00-10-47)**
+> "... I—George Washington, Abraham Lincoln, Thomas Jefferson are—I think are too cliché. So ..."
+
+**[00:11:22](/episodes/ep-mKXdKV-OBog.md#ent-gpe-lincoln-t-00-10-47)**
+> "...t stretch yet, departing from Lincoln, Nebraska, in particular."
 
 </details>
 

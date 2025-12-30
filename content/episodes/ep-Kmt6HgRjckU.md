@@ -249,7 +249,7 @@ youtube_url: "https://www.youtube.com/watch?v=Kmt6HgRjckU"
 </details>
 
 <details>
-<summary><strong>Statements (43)</strong></summary>
+<summary><strong>Statements (42)</strong></summary>
 
 - [00:00:29](#t-00-00-00) [○] (Claim) **Candace Owens**: ["Kash Patel has been directly asked about French involvement in Charlie Kirk's as..."](/statements/statement-f29fac89127d.md)
   - About: [Kash Patel](/entities/person-kash-patel.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
@@ -275,8 +275,6 @@ youtube_url: "https://www.youtube.com/watch?v=Kmt6HgRjckU"
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:05:43](#t-00-04-59) [○] (Claim) **Candace Owens**: ["Charlie Kirk said no to money right before he died, which probably means he knew..."](/statements/statement-37bf3ed01fb6.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [00:06:46](#t-00-06-27) [○] (Accusation) **Candace Owens**: ["The Macron couple paid for my assassination"](/statements/statement-2a6aa63ab18f.md)
-  - About: [Emmanuel Macron](/entities/person-emmanuel-macron.md), [Brigitte Macron](/entities/person-brigitte-macron.md)
 - [00:06:50](#t-00-06-27) [○] (Accusation) **Candace Owens**: ["The Macron couple apparently paid for my assassination"](/statements/statement-a99141835461.md)
   - About: [Emmanuel Macron](/entities/person-emmanuel-macron.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md)
 - [00:06:50](#t-00-06-27) [○] (Claim) **Candace Owens**: ["Neither the Pentagon nor the White House nor our intel agencies nor the Élysée P..."](/statements/statement-1c3fbbbdbc0f.md)

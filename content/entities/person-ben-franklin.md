@@ -1,6 +1,6 @@
 ---
 title: "Benjamin Franklin"
-description: "Benjamin Franklin (People) - 1 mention"
+description: "Benjamin Franklin (People) - 2 mentions"
 id: "person-ben-franklin"
 type: "PERSON"
 aliases:
@@ -17,10 +17,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:01:54](/episodes/ep-mKXdKV-OBog.md#ent-person-ben-franklin-t-00-01-47)**
 > "...ing, right? That's the Mensa—I mean, it's—I'm kidding. Um, so I love the American Founding Fathers. Ben Franklin—I always really enjoyed—um, you know, I—George Washington, Abraham Lincoln, Thomas Jefferson are—I ..."
+
+**[00:01:54](/episodes/ep-mKXdKV-OBog.md#ent-person-ben-franklin-t-00-01-47)**
+> "...he American Founding Fathers. Ben Franklin—I always really enjoyed—um, you know, I—George Wa..."
 
 </details>
 

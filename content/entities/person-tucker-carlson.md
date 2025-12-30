@@ -1,6 +1,6 @@
 ---
 title: "Tucker Carlson"
-description: "Tucker Carlson (People) - 361 mentions"
+description: "Tucker Carlson (People) - 509 mentions"
 id: "person-tucker-carlson"
 type: "PERSON"
 aliases:
@@ -127,7 +127,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (8 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (13 mentions)</summary>
 
 **[00:01:05](/episodes/ep-6DhWawD4ZiM.md#ent-person-tucker-carlson-t-00-00-46)**
 > "...the show, it's Knives out for Tucker Carlson."
@@ -152,6 +152,21 @@ _Type: People_
 
 **[00:27:51](/episodes/ep-6DhWawD4ZiM.md#ent-person-tucker-carlson-t-00-27-51)**
 > "Anyways, Tucker then goes on and states the obvious predicament f..."
+
+**[00:01:05](/episodes/ep-6DhWawD4ZiM.md#ent-person-tucker-carlson-t-00-00-46)**
+> "...w, it's Knives out for Tucker Carlson."
+
+**[00:22:27](/episodes/ep-6DhWawD4ZiM.md#ent-person-tucker-carlson-t-00-22-08)**
+> "...on this very same day, Tucker Carlson is standing up to the nonsense."
+
+**[00:23:21](/episodes/ep-6DhWawD4ZiM.md#ent-person-tucker-carlson-t-00-22-48)**
+> "...been able to handle if Tucker Carlson was among those people."
+
+**[00:26:00](/episodes/ep-6DhWawD4ZiM.md#ent-person-tucker-carlson-t-00-26-00)**
+> "... true, what I take from that, Tucker Carlson has been very clear."
+
+**[00:26:00](/episodes/ep-6DhWawD4ZiM.md#ent-person-tucker-carlson-t-00-26-00)**
+> "...what I take from that, Tucker Carlson has been very clear."
 
 </details>
 
@@ -248,13 +263,22 @@ _Type: People_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (5 mentions)</summary>
 
 **[00:13:19](/episodes/ep-mKXdKV-OBog.md#ent-person-tucker-carlson-t-00-12-57)**
 > "...ly comes in on the exact same day. And also minor correction: I think yesterday I said that Tucker (Tucker Carlson) spoke on July 18th; he actually spoke on July 11th. I just kind of copy-and-pasted that wrong, so ..."
 
 **[00:13:36](/episodes/ep-mKXdKV-OBog.md#ent-person-tucker-carlson-t-00-12-57)**
 > "Tucker spoke on July 11th"
+
+**[00:13:19](/episodes/ep-mKXdKV-OBog.md#ent-person-tucker-carlson-t-00-12-57)**
+> "...yesterday I said that Tucker (Tucker Carlson) spoke on July 18th; he actually spoke on July 11..."
+
+**[00:13:19](/episodes/ep-mKXdKV-OBog.md#ent-person-tucker-carlson-t-00-12-57)**
+> "...I think yesterday I said that Tucker (Tucker Carlson) spoke on July 18th; he actually ..."
+
+**[00:13:19](/episodes/ep-mKXdKV-OBog.md#ent-person-tucker-carlson-t-00-12-57)**
+> "...ay I said that Tucker (Tucker Carlson) spoke on July 18th; he actually spoke on July 11..."
 
 </details>
 
@@ -379,7 +403,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (10 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (33 mentions)</summary>
 
 **[00:28:06](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-27-59)**
 > "... stage for Operation Mocking Pastor, where they were all saying the same thing about me and Tucker (Tucker Carlson)—they were the number one offenders. I am not kidding. You start to ask yourself, what is guiding t..."
@@ -410,6 +434,75 @@ _Type: People_
 
 **[00:43:40](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-43-17)**
 > "...tom of this thing. It just reeks. It reeks to high heaven. And so I just—I absolutely adore Tucker (Tucker Carlson) for that. I adore him for just standing up for me. And obviously he's seasoned, so he sees right t..."
+
+**[00:28:06](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-27-59)**
+> "...me thing about me and Tucker (Tucker Carlson)—they were the number one offenders."
+
+**[00:28:06](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-27-59)**
+> "...g the same thing about me and Tucker (Tucker Carlson)—they were the number one offende..."
+
+**[00:28:06](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-27-59)**
+> "...g about me and Tucker (Tucker Carlson)—they were the number one offenders."
+
+**[00:28:52](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-28-43)**
+> "... calls against me and Tucker (Tucker Carlson)."
+
+**[00:28:52](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-28-43)**
+> "...g 5 a.m. calls against me and Tucker (Tucker Carlson)."
+
+**[00:28:52](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-28-43)**
+> "...against me and Tucker (Tucker Carlson)."
+
+**[00:29:46](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-29-27)**
+> "He then tells Tucker (Tucker Carlson) to go max against Jeffrey Epstein."
+
+**[00:39:49](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-39-16)**
+> "...s your career or it's Tucker (Tucker Carlson)?""
+
+**[00:39:49](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-39-16)**
+> "...lly, it's your career or it's Tucker (Tucker Carlson)?""
+
+**[00:39:49](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-39-16)**
+> "...career or it's Tucker (Tucker Carlson)?""
+
+**[00:39:57](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-39-16)**
+> ""Tucker (Tucker Carlson), he's really going a bad way.""
+
+**[00:40:14](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-40-00)**
+> "And Tucker (Tucker Carlson) did just that yesterday—or at least yesterday wh..."
+
+**[00:40:14](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-40-00)**
+> "...ely embarrassed this (clip of Tucker Carlson)"
+
+**[00:40:14](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-40-00)**
+> "...arrassed this (clip of Tucker Carlson)"
+
+**[00:40:20](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-40-00)**
+> "... game with him—asking Tucker (Tucker Carlson) to condemn me live on his show."
+
+**[00:40:20](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-40-00)**
+> "...ing this game with him—asking Tucker (Tucker Carlson) to condemn me live on his show."
+
+**[00:40:20](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-40-00)**
+> "...ith him—asking Tucker (Tucker Carlson) to condemn me live on his show."
+
+**[00:42:53](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-42-33)**
+> "...o call you crazy. And Tucker (Tucker Carlson) just annihilated it instantly. He's like, "Get o..."
+
+**[00:42:53](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-42-33)**
+> "...y want to call you crazy. And Tucker (Tucker Carlson) just annihilated it instantly. H..."
+
+**[00:42:53](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-42-33)**
+> "...you crazy. And Tucker (Tucker Carlson) just annihilated it instantly. He's like, "Get o..."
+
+**[00:43:40](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-43-17)**
+> "...st—I absolutely adore Tucker (Tucker Carlson) for that."
+
+**[00:43:40](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-43-17)**
+> "... so I just—I absolutely adore Tucker (Tucker Carlson) for that."
+
+**[00:43:40](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-43-17)**
+> "...solutely adore Tucker (Tucker Carlson) for that."
 
 </details>
 
@@ -702,7 +795,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (40 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (157 mentions)</summary>
 
 **[00:00:22](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-00-00)**
 > "...iro (Ben Shapiro) apparently woke up this morning and chose violence. He put me in his anti-Tucker (Tucker Carlson) montage monologue. We'll see what he had to say in a little bit. And it just so happens to be exac..."
@@ -823,6 +916,357 @@ _Type: People_
 
 **[00:49:58](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-49-22)**
 > "...ttle fact toys to add to it. And yeah, things got real interesting for Charlie (Charlie Kirk) after Tucker Carlson (Tucker Carlson) hit the stage, and we're gonna speak about that. So I will see you guys tomorrow."
+
+**[00:00:22](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-00-00)**
+> "He put me in his anti-Tucker (Tucker Carlson) montage monologue."
+
+**[00:00:22](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-00-00)**
+> "...me in his anti-Tucker (Tucker Carlson) montage monologue."
+
+**[00:03:26](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-02-58)**
+> ""So Tucker (Tucker Carlson), if you need to take a couple of days off, we ge..."
+
+**[00:03:29](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-02-58)**
+> "But the sign said, "Tucker Carlson (Tucker Carlson) is not MAGA.""
+
+**[00:03:29](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-02-58)**
+> "...e sign said, "Tucker Carlson (Tucker Carlson) is not MAGA.""
+
+**[00:03:29](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-02-58)**
+> "...said, "Tucker Carlson (Tucker Carlson) is not MAGA.""
+
+**[00:03:39](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-02-58)**
+> "Tucker Carlson (Tucker Carlson) is not MAGA."
+
+**[00:03:57](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-03-41)**
+> "No one in MAGA would say "Tucker Carlson (Tucker Carlson) is not MAGA.""
+
+**[00:03:57](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-03-41)**
+> "...GA would say "Tucker Carlson (Tucker Carlson) is not MAGA.""
+
+**[00:03:57](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-03-41)**
+> "...one in MAGA would say "Tucker Carlson (Tucker Carlson) is not MAGA.""
+
+**[00:03:57](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-03-41)**
+> "...d say "Tucker Carlson (Tucker Carlson) is not MAGA.""
+
+**[00:04:24](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-04-24)**
+> ""Tucker Carlson (Tucker Carlson) is not MAGA.""
+
+**[00:04:36](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-04-24)**
+> "Tucker Carlson (Tucker Carlson) is basically akin to—you're goin..."
+
+**[00:04:50](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-04-45)**
+> "Randy Fine (clip): Tucker Carlson (Tucker Carlson) is the most dangerous anti-Semit..."
+
+**[00:04:50](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-04-45)**
+> "... Fine (clip): Tucker Carlson (Tucker Carlson) is the most dangerous anti-Semite in America."
+
+**[00:04:50](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-04-45)**
+> "...clip): Tucker Carlson (Tucker Carlson) is the most dangerous anti-Semite in America."
+
+**[00:05:18](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-04-45)**
+> "Randy Fine (clip): Tucker (Tucker Carlson) is not MAGA."
+
+**[00:05:18](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-04-45)**
+> "...y Fine (clip): Tucker (Tucker Carlson) is not MAGA."
+
+**[00:05:22](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-05-22)**
+> "It is so over for Tucker Carlson (Tucker Carlson)."
+
+**[00:05:22](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-05-22)**
+> "...s so over for Tucker Carlson (Tucker Carlson)."
+
+**[00:05:22](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-05-22)**
+> "...er for Tucker Carlson (Tucker Carlson)."
+
+**[00:05:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-05-22)**
+> "They have declared war on Tucker Carlson (Tucker Carlson), which they happen to do every w..."
+
+**[00:05:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-05-22)**
+> "...clared war on Tucker Carlson (Tucker Carlson), which they happen to do every week, obviously."
+
+**[00:05:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-05-22)**
+> "...y have declared war on Tucker Carlson (Tucker Carlson), which they happen to do every w..."
+
+**[00:05:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-05-22)**
+> "...war on Tucker Carlson (Tucker Carlson), which they happen to do every week, obviously."
+
+**[00:05:49](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-05-22)**
+> "...nstructed to go after Tucker (Tucker Carlson)."
+
+**[00:05:49](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-05-22)**
+> "...y were instructed to go after Tucker (Tucker Carlson)."
+
+**[00:05:49](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-05-22)**
+> "...ed to go after Tucker (Tucker Carlson)."
+
+**[00:05:51](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-05-22)**
+> "...ow that Zionists cannot stand Tucker Carlson (Tucker Carlson)."
+
+**[00:05:51](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-05-22)**
+> "... cannot stand Tucker Carlson (Tucker Carlson)."
+
+**[00:05:51](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-05-22)**
+> "... Zionists cannot stand Tucker Carlson (Tucker Carlson)."
+
+**[00:05:51](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-05-22)**
+> "... stand Tucker Carlson (Tucker Carlson)."
+
+**[00:06:23](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-06-07)**
+> "But Tucker Carlson (Tucker Carlson)?"
+
+**[00:06:43](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-06-07)**
+> "And it turns out Tucker Carlson (Tucker Carlson) actually got even bigger, and he..."
+
+**[00:06:43](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-06-07)**
+> "... it turns out Tucker Carlson (Tucker Carlson) actually got even bigger, and he became even mor..."
+
+**[00:06:43](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-06-07)**
+> "...ns out Tucker Carlson (Tucker Carlson) actually got even bigger, and he became even mor..."
+
+**[00:07:07](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-06-49)**
+> "They wanted—again—Tucker Carlson (Tucker Carlson) to be gone, no longer allowed on..."
+
+**[00:07:07](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-06-49)**
+> "... wanted—again—Tucker Carlson (Tucker Carlson) to be gone, no longer allowed on the Turning Poi..."
+
+**[00:07:07](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-06-49)**
+> "...int USA stage because Tucker (Tucker Carlson) is the natural heir to the populist movement."
+
+**[00:07:07](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-06-49)**
+> "...rning Point USA stage because Tucker (Tucker Carlson) is the natural heir to the popul..."
+
+**[00:07:07](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-06-49)**
+> "...—again—Tucker Carlson (Tucker Carlson) to be gone, no longer allowed on the Turning Poi..."
+
+**[00:07:07](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-06-49)**
+> "... stage because Tucker (Tucker Carlson) is the natural heir to the populist movement."
+
+**[00:07:28](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-06-49)**
+> "So recently, Tucker (Tucker Carlson) interviewed Nick Fuentes (Nick Fuentes)."
+
+**[00:07:35](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-07-32)**
+> "...ame by asserting that Tucker (Tucker Carlson) interviewing Nick Fuentes (Nick Fuentes) is a be..."
+
+**[00:07:35](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-07-32)**
+> "... Kirk) name by asserting that Tucker (Tucker Carlson) interviewing Nick Fuentes (Nick ..."
+
+**[00:07:35](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-07-32)**
+> "...asserting that Tucker (Tucker Carlson) interviewing Nick Fuentes (Nick Fuentes) is a be..."
+
+**[00:08:06](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-07-32)**
+> "...'ve decided posthumously that Tucker Carlson (Tucker Carlson) was a bad friend to Charlie Kirk..."
+
+**[00:08:06](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-07-32)**
+> "...humously that Tucker Carlson (Tucker Carlson) was a bad friend to Charlie Kirk (Charlie Kirk)."
+
+**[00:08:06](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-07-32)**
+> "...ided posthumously that Tucker Carlson (Tucker Carlson) was a bad friend to Charlie Kirk..."
+
+**[00:08:06](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-07-32)**
+> "...y that Tucker Carlson (Tucker Carlson) was a bad friend to Charlie Kirk (Charlie Kirk)."
+
+**[00:09:25](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-09-01)**
+> "...y—dare I say—scripted stab at Tucker Carlson (Tucker Carlson)."
+
+**[00:09:25](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-09-01)**
+> "...ipted stab at Tucker Carlson (Tucker Carlson)."
+
+**[00:09:25](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-09-01)**
+> "...I say—scripted stab at Tucker Carlson (Tucker Carlson)."
+
+**[00:09:25](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-09-01)**
+> "...tab at Tucker Carlson (Tucker Carlson)."
+
+**[00:09:33](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-09-01)**
+> ""Tucker Carlson (Tucker Carlson) has betrayed Charlie Kirk (Charl..."
+
+**[00:09:39](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-09-01)**
+> "...tever reason, they get mad at Tucker Carlson (Tucker Carlson)."
+
+**[00:09:39](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-09-01)**
+> "...ey get mad at Tucker Carlson (Tucker Carlson)."
+
+**[00:09:39](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-09-01)**
+> "...eason, they get mad at Tucker Carlson (Tucker Carlson)."
+
+**[00:09:39](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-09-01)**
+> "...mad at Tucker Carlson (Tucker Carlson)."
+
+**[00:09:57](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-09-57)**
+> "Ben Shapiro (clip): Tucker Carlson (Tucker Carlson), you see, is a coward."
+
+**[00:09:57](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-09-57)**
+> "...apiro (clip): Tucker Carlson (Tucker Carlson), you see, is a coward."
+
+**[00:09:57](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-09-57)**
+> "...clip): Tucker Carlson (Tucker Carlson), you see, is a coward."
+
+**[00:10:00](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-09-57)**
+> "...) correctly pointing out that Tucker Carlson (Tucker Carlson) is a coward."
+
+**[00:10:00](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-09-57)**
+> "...ting out that Tucker Carlson (Tucker Carlson) is a coward."
+
+**[00:10:00](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-09-57)**
+> "...ctly pointing out that Tucker Carlson (Tucker Carlson) is a coward."
+
+**[00:10:00](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-09-57)**
+> "...t that Tucker Carlson (Tucker Carlson) is a coward."
+
+**[00:10:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-09-57)**
+> "Ben Shapiro (clip): You see, Tucker Carlson (Tucker Carlson) a few weeks back had on Candace ..."
+
+**[00:10:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-09-57)**
+> "...ip): You see, Tucker Carlson (Tucker Carlson) a few weeks back had on Candace (Candace Owens) ..."
+
+**[00:10:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-09-57)**
+> "...apiro (clip): You see, Tucker Carlson (Tucker Carlson) a few weeks back had on Candace ..."
+
+**[00:10:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-09-57)**
+> "...u see, Tucker Carlson (Tucker Carlson) a few weeks back had on Candace (Candace Owens) ..."
+
+**[00:11:31](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-11-28)**
+> "The vibe here is that Tucker Carlson (Tucker Carlson) is criminally laundering ideas t..."
+
+**[00:11:31](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-11-28)**
+> "... here is that Tucker Carlson (Tucker Carlson) is criminally laundering ideas through his beyon..."
+
+**[00:11:31](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-11-28)**
+> "...s that Tucker Carlson (Tucker Carlson) is criminally laundering ideas through his beyon..."
+
+**[00:13:46](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-13-35)**
+> "...resent this attack on Tucker (Tucker Carlson) as a noble defense of Charlie (Charlie Kirk)."
+
+**[00:13:46](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-13-35)**
+> "...ity to present this attack on Tucker (Tucker Carlson) as a noble defense of Charlie (C..."
+
+**[00:13:46](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-13-35)**
+> "...this attack on Tucker (Tucker Carlson) as a noble defense of Charlie (Charlie Kirk)."
+
+**[00:13:57](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-13-35)**
+> "...re's no question that Tucker (Tucker Carlson) has become the most virulent superspreader of vi..."
+
+**[00:13:57](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-13-35)**
+> "There's no question that Tucker (Tucker Carlson) has become the most virulent sup..."
+
+**[00:13:57](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-13-35)**
+> "... question that Tucker (Tucker Carlson) has become the most virulent superspreader of vi..."
+
+**[00:14:12](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-13-35)**
+> "Tucker Carlson (Tucker Carlson) preys on the friendship he procl..."
+
+**[00:14:16](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-14-16)**
+> "Tucker Carlson (Tucker Carlson) is, in short, a terrible friend."
+
+**[00:14:23](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-14-16)**
+> "Tucker Carlson (Tucker Carlson) was supposedly Charlie Kirk's (C..."
+
+**[00:18:53](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-18-23)**
+> "... (Charlie Kirk) loved Tucker (Tucker Carlson)."
+
+**[00:18:53](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-18-23)**
+> "... Charlie (Charlie Kirk) loved Tucker (Tucker Carlson)."
+
+**[00:18:53](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-18-23)**
+> "...ie Kirk) loved Tucker (Tucker Carlson)."
+
+**[00:18:55](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-18-23)**
+> "...e Kirk), and he loved Tucker (Tucker Carlson)."
+
+**[00:18:55](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-18-23)**
+> "... (Charlie Kirk), and he loved Tucker (Tucker Carlson)."
+
+**[00:18:55](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-18-23)**
+> "..., and he loved Tucker (Tucker Carlson)."
+
+**[00:19:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-18-23)**
+> "...nd greatly appreciate Tucker (Tucker Carlson), and he fought for Tucker (Tucker Carlson) to be..."
+
+**[00:19:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-18-23)**
+> "...n), and he fought for Tucker (Tucker Carlson) to be on the Turning Point stage until his dying..."
+
+**[00:19:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-18-23)**
+> "...espect and greatly appreciate Tucker (Tucker Carlson), and he fought for Tucker (Tucke..."
+
+**[00:19:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-18-23)**
+> "...r Carlson), and he fought for Tucker (Tucker Carlson) to be on the Turning Point stage..."
+
+**[00:19:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-18-23)**
+> "...tly appreciate Tucker (Tucker Carlson), and he fought for Tucker (Tucker Carlson) to be..."
+
+**[00:19:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-18-23)**
+> "... he fought for Tucker (Tucker Carlson) to be on the Turning Point stage until his dying..."
+
+**[00:23:49](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-23-22)**
+> "...g him—ironically over Tucker (Tucker Carlson)."
+
+**[00:23:49](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-23-22)**
+> "...d pushing him—ironically over Tucker (Tucker Carlson)."
+
+**[00:23:49](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-23-22)**
+> "...ronically over Tucker (Tucker Carlson)."
+
+**[00:23:52](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-23-22)**
+> "... posthumously—to say "Tucker (Tucker Carlson) must never speak on a Turning Point stage.""
+
+**[00:23:52](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-23-22)**
+> "...it again posthumously—to say "Tucker (Tucker Carlson) must never speak on a Turning Po..."
+
+**[00:23:52](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-23-22)**
+> "...mously—to say "Tucker (Tucker Carlson) must never speak on a Turning Point stage.""
+
+**[00:23:58](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-23-58)**
+> ""Tucker (Tucker Carlson) must be canceled because Tucker (Tucker Carlson)..."
+
+**[00:23:58](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-23-58)**
+> "...t be canceled because Tucker (Tucker Carlson) wasn't a true friend to Charlie Kirk (Charlie Ki..."
+
+**[00:23:58](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-23-58)**
+> "...t and for his friendship with Tucker Carlson (Tucker Carlson)."
+
+**[00:23:58](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-23-58)**
+> "...iendship with Tucker Carlson (Tucker Carlson)."
+
+**[00:23:58](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-23-58)**
+> "...son) must be canceled because Tucker (Tucker Carlson) wasn't a true friend to Charlie ..."
+
+**[00:23:58](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-23-58)**
+> "...nceled because Tucker (Tucker Carlson) wasn't a true friend to Charlie Kirk (Charlie Ki..."
+
+**[00:23:58](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-23-58)**
+> "...or his friendship with Tucker Carlson (Tucker Carlson)."
+
+**[00:23:58](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-23-58)**
+> "...p with Tucker Carlson (Tucker Carlson)."
+
+**[00:48:32](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-48-01)**
+> "... you out—as they are doing to Tucker Carlson (Tucker Carlson)—because you're so—you're bigger ..."
+
+**[00:48:32](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-48-01)**
+> "... are doing to Tucker Carlson (Tucker Carlson)—because you're so—you're bigger than them."
+
+**[00:48:32](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-48-01)**
+> "...t—as they are doing to Tucker Carlson (Tucker Carlson)—because you're so—you're bigger ..."
+
+**[00:48:32](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-48-01)**
+> "...ing to Tucker Carlson (Tucker Carlson)—because you're so—you're bigger than them."
+
+**[00:49:00](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-48-38)**
+> ""Tucker (Tucker Carlson) is not MAGA.""
+
+**[00:49:58](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-49-22)**
+> "... Charlie (Charlie Kirk) after Tucker Carlson (Tucker Carlson) hit the stage, and we're gonna s..."
+
+**[00:49:58](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-49-22)**
+> "...e Kirk) after Tucker Carlson (Tucker Carlson) hit the stage, and we're gonna speak about that."
+
+**[00:49:58](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-49-22)**
+> "...e (Charlie Kirk) after Tucker Carlson (Tucker Carlson) hit the stage, and we're gonna s..."
+
+**[00:49:58](/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-49-22)**
+> "... after Tucker Carlson (Tucker Carlson) hit the stage, and we're gonna speak about that."
 
 </details>
 
@@ -1617,7 +2061,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tucker Carlson (33)</strong></summary>
+<summary><strong class="section-title">Statements about Tucker Carlson (32)</strong></summary>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
@@ -1738,7 +2182,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (4)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (3)</summary>
 
 - [00:50:02](/episodes/ep-2Riv3I7D0Yk.md#t-00-49-47) (Claim) **Candace Owens**: ["On the day Charlie Kirk died, I got multiple phone calls from people w..."](/statements/statement-e36bcf2067f9.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -1748,9 +2192,6 @@ _Type: People_
 
 - [00:55:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-55-04) (Claim) **Alex Jones** (via quoted speech): ["Candace Owens sent out a dead man's switch to the Tate brothers, Dave ..."](/statements/statement-e74fc96d3122.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Andrew Tate](/entities/person-andrew-tate.md), [Dave Smith](/entities/person-dave-smith.md)
-
-- [00:55:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-55-04) (Claim) **Alex Jones** (via quoted speech): ["Candace Owens has sent out a dead man's switch to the Tate brothers, D..."](/statements/statement-4bae8e27fedb.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Dave Smith](/entities/person-dave-smith.md), [Max Blumenthal](/entities/person-max-blumenthal.md)
 
 </details>
 

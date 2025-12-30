@@ -1,6 +1,6 @@
 ---
 title: "United States"
-description: "United States (Places) - 699 mentions"
+description: "United States (Places) - 754 mentions"
 id: "gpe-united-states"
 type: "GPE"
 aliases:
@@ -81,46 +81,46 @@ _Type: Places_
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (18 mentions)</summary>
 
-**[00:03:44](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45)**
+**[00:03:44](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-28)**
 > "...r my husband at Turning Point USA, and it will be for the world to see, and it will..."
 
-**[00:07:21](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45)**
+**[00:07:21](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-28)**
 > "...rong defense of Turning Point USA employees who have just as a matter of fact told ..."
 
-**[00:08:26](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45)**
+**[00:08:26](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-28)**
 > "...an that somehow Turning Point USA and all of the handpicked staff that loved my hus..."
 
-**[00:09:23](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45)**
+**[00:09:23](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-28)**
 > "...r my family, my Turning Point USA family, my Charlie Kirk Show family, when you go ..."
 
-**[00:10:14](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45)**
+**[00:10:14](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-28)**
 > "...ssarily related turning point USA affairs, building affairs or whatever it is."
 
-**[00:13:05](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45)**
+**[00:13:05](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-28)**
 > "...rom Mar-a-Lago, Turning Point USA, since Charlie was killed, just so you guys know,..."
 
-**[00:13:53](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45)**
+**[00:13:53](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-28)**
 > "...f yourself says Turning Point USA."
 
-**[00:14:13](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45)**
+**[00:14:13](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-28)**
 > "...o be clear that Turning Point USA is my family."
 
-**[00:15:27](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45)**
+**[00:15:27](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-28)**
 > "...ple don't think Turning Point USA looks so suspicious."
 
-**[00:17:16](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45)**
+**[00:17:16](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-28)**
 > "Turning Point USA is an organization and Erica already had an uphil..."
 
-**[00:26:48](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45)**
+**[00:26:48](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-28)**
 > "...vibe check with Turning Point USA."
 
-**[00:27:07](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45)**
+**[00:27:07](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-28)**
 > "...the chairman of Turning Point USA to answer, okay?"
 
-**[00:31:59](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45)**
+**[00:31:59](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-28)**
 > "...she's saying is turning point USA is untouchable."
 
-**[00:50:23](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45)**
+**[00:50:23](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-28)**
 > "...ver half a million dollars to America's Warrior Partnership."
 
 **[00:50:31](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-50-28)**
@@ -614,7 +614,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (13 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (27 mentions)</summary>
 
 **[00:05:48](/episodes/ep-mKXdKV-OBog.md#ent-gpe-united-states-t-00-05-45)**
 > "...serious look into that one-hour layover stop when our yellow plane, SUBTT—the tail number—came into the United States on September 4th. You might recall it stopped for just one hour in Minot, North Dakota, which I lea..."
@@ -654,6 +654,48 @@ _Type: Places_
 
 **[00:45:44](/episodes/ep-mKXdKV-OBog.md#ent-gpe-united-states-t-00-45-44)**
 > "...ously have this whole idea in America as a meritocracy—"anybody can make it"—is complet..."
+
+**[00:05:48](/episodes/ep-mKXdKV-OBog.md#ent-gpe-united-states-t-00-05-45)**
+> "...the tail number—came into the United States on September 4th."
+
+**[00:05:48](/episodes/ep-mKXdKV-OBog.md#ent-gpe-united-states-t-00-05-45)**
+> "...BTT—the tail number—came into the United States on September 4th."
+
+**[00:09:33](/episodes/ep-mKXdKV-OBog.md#ent-gpe-united-states-t-00-09-13)**
+> "...ence mission by defending the United States with the world's premier combat-ready intercontin..."
+
+**[00:09:33](/episodes/ep-mKXdKV-OBog.md#ent-gpe-united-states-t-00-09-13)**
+> "...terrence mission by defending the United States with the world's premier combat-ready intercontin..."
+
+**[00:23:57](/episodes/ep-mKXdKV-OBog.md#ent-gpe-united-states-t-00-09-13)**
+> "...nd you guys about Tax Network USA because if you owe the IRS back taxes, they can g..."
+
+**[00:24:09](/episodes/ep-mKXdKV-OBog.md#ent-gpe-united-states-t-00-09-13)**
+> "... professionals at Tax Network USA."
+
+**[00:24:18](/episodes/ep-mKXdKV-OBog.md#ent-gpe-united-states-t-00-09-13)**
+> "Tax Network USA is rated A+ and has saved over one billion dollar..."
+
+**[00:24:38](/episodes/ep-mKXdKV-OBog.md#ent-gpe-united-states-t-00-09-13)**
+> "...onsultation, call Tax Network USA today at 1-800-958-1000 or visit tnusa.com/Candac..."
+
+**[00:24:53](/episodes/ep-mKXdKV-OBog.md#ent-gpe-united-states-t-00-24-49)**
+> "...ic having to pretend like the United States is not completely infiltrated by Zionist psychopa..."
+
+**[00:24:53](/episodes/ep-mKXdKV-OBog.md#ent-gpe-united-states-t-00-24-49)**
+> "...public having to pretend like the United States is not completely infiltrated by Zionist psychopa..."
+
+**[00:34:21](/episodes/ep-mKXdKV-OBog.md#ent-gpe-united-states-t-00-34-21)**
+> "And not the United States—not the United States propaganda, by the way."
+
+**[00:34:21](/episodes/ep-mKXdKV-OBog.md#ent-gpe-united-states-t-00-34-21)**
+> "...not the United States—not the United States propaganda, by the way."
+
+**[00:35:06](/episodes/ep-mKXdKV-OBog.md#ent-gpe-united-states-t-00-34-40)**
+> "It is not the United States that they are doing this for."
+
+**[00:35:53](/episodes/ep-mKXdKV-OBog.md#ent-gpe-united-states-t-00-35-24)**
+> "..., it's made right here in the USA by a company that is built on our values: faith, ..."
 
 </details>
 
@@ -879,7 +921,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (16 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (33 mentions)</summary>
 
 **[00:03:48](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-03-30)**
 > ".... We spoke about Rob McCoy being the lead pastor in Thousand Oaks—one of their many churches across the United States—and my sense... which every Christian Zionist influencer under the sun is trying to ward me off of...."
@@ -902,22 +944,22 @@ _Type: Places_
 **[00:49:25](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-48-44)**
 > "... retirement or take your home. Do not let the IRS target you. Call the professionals at Tax Network USA. Their tax lawyers and enrolled agents are experts in powerful programs that may even help you elim..."
 
-**[00:49:34](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-49-28)**
+**[00:49:34](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-48-44)**
 > "...agents are experts in powerful programs that may even help you eliminate your tax debt. Tax Network USA is rated A+ and has saved over $1 billion for their clients. So whether you owe a few thousand or a..."
 
-**[00:49:54](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-49-28)**
+**[00:49:54](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-48-44)**
 > "...all. You should act now while you still have the options. For a free consultation, call Tax Network USA today at 1-800-958-1000, or you can visit tnusa.com slash Candace. Don't let the IRS be the first t..."
 
-**[00:55:43](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-49-28)**
+**[00:55:43](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-48-44)**
 > "...er it on this show. Most of all, when I start to recognize that something happened at Turning Point USA and the faith movement seems to be at the center of it—it's very bizarre. The lies—actually, when y..."
 
-**[00:55:52](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-49-28)**
+**[00:55:52](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-48-44)**
 > "... of it—it's very bizarre. The lies—actually, when you start to go through the list of Turning Point USA lies—so many of them surround the topic of faith, which is very strange. Like, he wasn't allowed to..."
 
-**[00:56:07](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-49-28)**
+**[00:56:07](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-48-44)**
 > "...important? Think about that. Why were the lies that were surrounding that came out of Turning Point USA—which you were able to debunk—so many of them were faith-focused? That's a clue. I recognized that ..."
 
-**[00:56:59](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-49-28)**
+**[00:56:59](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-48-44)**
 > "... I'm sorry. What is that? Actually, what op are we in right now? Where the heiress to Turning Point USA is Allie Stuckey. That is a wild headline. And they repeated that—the heir apparent—in the Wall Str..."
 
 **[00:57:23](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-57-22)**
@@ -929,10 +971,61 @@ _Type: Places_
 **[00:57:55](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-57-22)**
 > "The fate of the future of America—down with the two-party system. I agree fully."
 
+**[00:03:48](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-03-30)**
+> "...heir many churches across the United States—and my sense..."
+
+**[00:03:48](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-03-30)**
+> "...of their many churches across the United States—and my sense..."
+
+**[00:31:30](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-30-07)**
+> "But like Turning Point USA was originally remarketing capitalism."
+
+**[00:33:37](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-33-25)**
+> "It's born in the USA, raised in the USA, and processed right here in t..."
+
+**[00:33:37](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-33-25)**
+> "...orn in the USA, raised in the USA, and processed right here in the USA."
+
+**[00:33:37](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-33-25)**
+> "...d processed right here in the USA."
+
+**[00:48:44](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-48-44)**
+> "..., it's made right here in the USA by a company that is built on our values: faith, ..."
+
+**[00:49:13](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-48-44)**
+> "...ll you guys about Tax Network USA because if you owe the IRS back taxes, they can g..."
+
+**[00:49:25](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-48-44)**
+> "... professionals at Tax Network USA."
+
+**[00:49:34](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-48-44)**
+> "Tax Network USA is rated A+ and has saved over $1 billion for the..."
+
+**[00:49:54](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-48-44)**
+> "...onsultation, call Tax Network USA today at 1-800-958-1000, or you can visit tnusa.c..."
+
+**[00:55:43](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-48-44)**
+> "...ing happened at Turning Point USA and the faith movement seems to be at the center ..."
+
+**[00:55:52](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-48-44)**
+> "...ugh the list of Turning Point USA lies—so many of them surround the topic of faith,..."
+
+**[00:56:07](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-48-44)**
+> "...hat came out of Turning Point USA—which you were able to debunk—so many of them wer..."
+
+**[00:56:59](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-48-44)**
+> "... the heiress to Turning Point USA is Allie Stuckey."
+
+**[00:57:23](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-57-22)**
+> "... the heiress of Turning Point USA would make sense—"
+
+**[00:57:30](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-united-states-t-00-57-22)**
+> "...was the heir to Turning Point USA."
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (9 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (14 mentions)</summary>
 
 **[00:04:16](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-united-states-t-00-38-32)**
 > "...s of people and their connections. I presented a list of how many times he replied to Turning Point USA. They don't know any of that. What they know is that on one episode, Candace (Candace Owens) said t..."
@@ -960,6 +1053,21 @@ _Type: Places_
 
 **[00:51:23](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-united-states-t-00-50-46)**
 > "Seven Weeks Coffee is America's pro-life coffee company that's on a mission to fu..."
+
+**[00:04:16](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-united-states-t-00-38-32)**
+> "...s he replied to Turning Point USA."
+
+**[00:24:25](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-united-states-t-00-38-32)**
+> "... doing now with Turning Point USA. I would say it's very relevant."
+
+**[00:27:23](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-united-states-t-00-38-32)**
+> "...something about Turning Point USA Faith that to me reads like an infiltration of so..."
+
+**[00:48:57](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-united-states-t-00-48-36)**
+> "It feels like that is the country song right now."
+
+**[00:50:41](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-united-states-t-00-50-04)**
+> "..., it's made right here in the USA by a company that is built on our values: faith, ..."
 
 </details>
 
@@ -1279,7 +1387,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (19 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (38 mentions)</summary>
 
 **[00:00:46](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-00-46)**
 > "...cuss it. And lastly, Kash Patel (Kash Patel) is now officially the most embarrassing human being in the United States. Welcome back to Candace. So obviously a major theme of this podcast is that everything truly is fa..."
@@ -1337,6 +1445,63 @@ _Type: Places_
 
 **[00:45:45](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-41-29)**
 > "...we just constantly texted all the time. And as I said, I have no reason to lie. Is it Turning Point USA has access to all his messages? They can tell you that the messages are real—whether they're true o..."
+
+**[00:00:46](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-00-46)**
+> "...barrassing human being in the United States."
+
+**[00:00:46](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-00-46)**
+> "...t embarrassing human being in the United States."
+
+**[00:07:07](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-04-45)**
+> "... allowed on the Turning Point USA stage because Tucker (Tucker Carlson) is the natu..."
+
+**[00:14:56](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-13-35)**
+> "...r the growth of Turning Point USA in our early days—right when things—when we were ..."
+
+**[00:22:13](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-13-35)**
+> "...pokesperson for Turning Point USA, instantly came out and slapped down the rumor."
+
+**[00:25:51](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-25-21)**
+> "...r health concerns rise in the United States because of this, and there is one trusted solutio..."
+
+**[00:25:51](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-25-21)**
+> "...liver health concerns rise in the United States because of this, and there is one trusted solutio..."
+
+**[00:32:13](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-25-21)**
+> "... to anything at Turning Point USA that are being directed at Erika (Erika Kirk)"
+
+**[00:32:18](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-25-21)**
+> "... directed about Turning Point USA and their actions."
+
+**[00:32:53](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-25-21)**
+> "...rman and CEO of Turning Point USA, they could be more transparent about what happen..."
+
+**[00:33:19](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-25-21)**
+> "...e beneficial to Turning Point USA because I don't think Turning Point USA is going ..."
+
+**[00:33:19](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-25-21)**
+> "...e I don't think Turning Point USA is going to survive if they continue down this pa..."
+
+**[00:33:46](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-25-21)**
+> "... to come out of Turning Point USA."
+
+**[00:34:37](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-25-21)**
+> "...t the donors at Turning Point USA.""
+
+**[00:35:32](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-35-20)**
+> "...ost embarrassing human in the United States."
+
+**[00:35:32](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-35-20)**
+> "...he most embarrassing human in the United States."
+
+**[00:41:36](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-41-29)**
+> "...he future for dictator of the United States to consider how I will deal with this immediately..."
+
+**[00:41:36](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-41-29)**
+> "...in the future for dictator of the United States to consider how I will deal with this immediately..."
+
+**[00:45:45](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-united-states-t-00-41-29)**
+> "Is it Turning Point USA has access to all his messages?"
 
 </details>
 

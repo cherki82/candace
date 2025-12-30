@@ -1,6 +1,6 @@
 ---
 title: "Malibu"
-description: "Malibu (Places) - 3 mentions"
+description: "Malibu (Places) - 4 mentions"
 id: "gpe-malibu"
 type: "GPE"
 ---
@@ -21,10 +21,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:36:14](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-malibu-t-00-36-14)**
 > "...don't know much. I've never looked into the conspiracies about cloud seeding and the burning of the Malibu homes. I actually think Spencer Pratt did some really fantastic work—like Spencer Pratt from The Hi..."
+
+**[00:36:14](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-malibu-t-00-36-14)**
+> "...eeding and the burning of the Malibu homes."
 
 </details>
 

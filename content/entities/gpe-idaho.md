@@ -1,6 +1,6 @@
 ---
 title: "Idaho"
-description: "Idaho (Places) - 3 mentions"
+description: "Idaho (Places) - 4 mentions"
 id: "gpe-idaho"
 type: "GPE"
 ---
@@ -13,13 +13,16 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (3 mentions)</summary>
 
 **[00:20:23](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-idaho-t-00-20-23)**
 > "...lvary Chapels, which includes Idaho—the North County Chapel in Post Falls, Idaho."
 
 **[00:20:46](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-idaho-t-00-20-23)**
 > "He was found guilty in Idaho State Correctional Facility for his crimes."
+
+**[00:20:23](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-idaho-t-00-20-23)**
+> "... County Chapel in Post Falls, Idaho."
 
 </details>
 

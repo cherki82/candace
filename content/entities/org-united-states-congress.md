@@ -1,6 +1,6 @@
 ---
 title: "United States Congress"
-description: "United States Congress (Organizations) - 9 mentions"
+description: "United States Congress (Organizations) - 10 mentions"
 id: "org-united-states-congress"
 type: "ORG"
 aliases:
@@ -24,6 +24,14 @@ _Type: Organizations_
 
 **[00:03:53](/episodes/ep-w1oqQbR_bYs.md#ent-org-united-states-congress-t-00-03-53)**
 > "...was wearing an IDF uniform in Congress and he basically said that there's no such thing ..."
+
+</details>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1 mentions)</summary>
+
+**[00:43:57](/episodes/ep-6DhWawD4ZiM.md#ent-org-united-states-congress-t-00-43-45)**
+> "...s of the executive branch and Congress."
 
 </details>
 

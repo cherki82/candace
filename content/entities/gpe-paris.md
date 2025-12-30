@@ -1,6 +1,6 @@
 ---
 title: "Paris"
-description: "Paris (Places) - 20 mentions"
+description: "Paris (Places) - 22 mentions"
 id: "gpe-paris"
 type: "GPE"
 ---
@@ -24,10 +24,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:11:11](/episodes/ep-mKXdKV-OBog.md#ent-gpe-paris-t-00-10-47)**
 > "...alked about SUBTT, which came in for its longest trip—that's correct—from Cairo. It went through to Paris, and then it went to Omaha, Nebraska. I think yesterday I said that it stayed in Wilmington for six..."
+
+**[00:11:11](/episodes/ep-mKXdKV-OBog.md#ent-gpe-paris-t-00-10-47)**
+> "It went through to Paris, and then it went to Omaha, Nebraska."
 
 </details>
 
@@ -66,10 +69,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:24:13](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-paris-t-00-23-52)**
 > "...ho he was fighting owned his catalog. Actually in the news today—this is totally a God thing. I saw Paris Jackson was in the news today. She's lost in court, and she's still fighting over her father's lega..."
+
+**[00:24:13](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-paris-t-00-23-52)**
+> "I saw Paris Jackson was in the news today."
 
 </details>
 

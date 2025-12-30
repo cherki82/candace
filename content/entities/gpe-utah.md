@@ -1,6 +1,6 @@
 ---
 title: "Utah"
-description: "Utah (Places) - 157 mentions"
+description: "Utah (Places) - 160 mentions"
 id: "gpe-utah"
 type: "GPE"
 aliases:
@@ -62,13 +62,19 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
 
 **[00:16:58](/episodes/ep-mKXdKV-OBog.md#ent-gpe-utah-t-00-16-27)**
 > "...you speak?" I guess this—whatever—it was a hotbed. Older people just love Charlie (Charlie Kirk) in Utah. Very hard to find a student that was just, you know, on campus that day who went to hear Charlie (..."
 
 **[00:19:12](/episodes/ep-mKXdKV-OBog.md#ent-gpe-utah-t-00-19-03)**
 > "... most men. In fact, it was so often that I was seeing this color that I reached out to my source at Utah, and I was like, "Maybe it's a school color. Maybe actually they're all buying shirts and buying T-..."
+
+**[00:16:58](/episodes/ep-mKXdKV-OBog.md#ent-gpe-utah-t-00-16-27)**
+> "...ove Charlie (Charlie Kirk) in Utah."
+
+**[00:19:12](/episodes/ep-mKXdKV-OBog.md#ent-gpe-utah-t-00-19-03)**
+> "...I reached out to my source at Utah, and I was like, "Maybe it's a school color."
 
 </details>
 
@@ -165,10 +171,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:46:49](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-utah-t-00-46-25)**
 > "...like a cherry bomb." Unbelievable. Wow. Wow. I'm in shock. I am too. I can't believe it happened in Utah of all places where he has so much support, but obviously the opposition was here. And now we're lo..."
+
+**[00:46:49](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-utah-t-00-46-25)**
+> "... can't believe it happened in Utah of all places where he has so much support, but o..."
 
 </details>
 

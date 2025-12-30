@@ -1,6 +1,6 @@
 ---
 title: "Matt Walsh"
-description: "Matt Walsh (People) - 14 mentions"
+description: "Matt Walsh (People) - 22 mentions"
 id: "person-matt-walsh"
 type: "PERSON"
 ---
@@ -43,7 +43,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (3 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (11 mentions)</summary>
 
 **[00:20:03](/episodes/ep-K1tFD7FfoCU.md#ent-person-matt-walsh-t-00-19-50)**
 > "...re extremely close to Charlie (Charlie Kirk)—including donors—were very touched by a monologue that Matt Walsh (Matt Walsh) did over on the Daily Wire. I didn't see it. I was too aggrieved to watch anything, bu..."
@@ -53,6 +53,30 @@ _Type: People_
 
 **[00:20:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-matt-walsh-t-00-19-50)**
 > "...g, but apparently Matt Walsh (Matt Walsh) did an amazing monologue. So the team reached out to host Matt Walsh (Matt Walsh)—to ask Matt Walsh (Matt Walsh), rather— to host Charlie Kirk's (Charlie Kirk) show bec..."
+
+**[00:20:03](/episodes/ep-K1tFD7FfoCU.md#ent-person-matt-walsh-t-00-19-50)**
+> "...y touched by a monologue that Matt Walsh (Matt Walsh) did over on the Daily Wire."
+
+**[00:20:03](/episodes/ep-K1tFD7FfoCU.md#ent-person-matt-walsh-t-00-19-50)**
+> "... a monologue that Matt Walsh (Matt Walsh) did over on the Daily Wire."
+
+**[00:20:25](/episodes/ep-K1tFD7FfoCU.md#ent-person-matt-walsh-t-00-19-50)**
+> "...atch anything, but apparently Matt Walsh (Matt Walsh) did an amazing monologue."
+
+**[00:20:25](/episodes/ep-K1tFD7FfoCU.md#ent-person-matt-walsh-t-00-19-50)**
+> "...g, but apparently Matt Walsh (Matt Walsh) did an amazing monologue."
+
+**[00:20:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-matt-walsh-t-00-19-50)**
+> "... the team reached out to host Matt Walsh (Matt Walsh)—to ask Matt Walsh (Matt Walsh), rath..."
+
+**[00:20:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-matt-walsh-t-00-19-50)**
+> "...ached out to host Matt Walsh (Matt Walsh)—to ask Matt Walsh (Matt Walsh), rather—"
+
+**[00:20:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-matt-walsh-t-00-19-50)**
+> "...att Walsh (Matt Walsh)—to ask Matt Walsh (Matt Walsh), rather—"
+
+**[00:20:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-matt-walsh-t-00-19-50)**
+> "...att Walsh)—to ask Matt Walsh (Matt Walsh), rather—"
 
 </details>
 

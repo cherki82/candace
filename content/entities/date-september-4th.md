@@ -1,6 +1,6 @@
 ---
 title: "September 4th"
-description: "September 4th (Dates) - 22 mentions"
+description: "September 4th (Dates) - 25 mentions"
 id: "date-september-4th"
 type: "DATE"
 aliases:
@@ -35,6 +35,17 @@ _Type: Dates_
 </details>
 
 <details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
+
+**[00:38:28](/episodes/ep-6DhWawD4ZiM.md#ent-date-september-4th-t-00-38-07)**
+> "...was there for this meeting on September 9th and it's also on September 8th as well."
+
+**[00:44:34](/episodes/ep-6DhWawD4ZiM.md#ent-date-september-4th-t-00-44-27)**
+> "However, at 12 31 p.m. on September 9th, it flies from Fort Huachuca to El Paso and then ..."
+
+</details>
+
+<details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
 
 **[00:25:19](/episodes/ep-a-e7HC6SeK8.md#ent-date-september-4th-t-00-24-50)**
@@ -57,10 +68,13 @@ _Type: Dates_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:05:48](/episodes/ep-mKXdKV-OBog.md#t-00-05-45)**
 > "...t one-hour layover stop when our yellow plane, SUBTT—the tail number—came into the United States on September 4th. You might recall it stopped for just one hour in Minot, North Dakota, which I learned has an Air F..."
+
+**[00:05:48](/episodes/ep-mKXdKV-OBog.md#t-00-05-45)**
+> "...ame into the United States on September 4th."
 
 </details>
 

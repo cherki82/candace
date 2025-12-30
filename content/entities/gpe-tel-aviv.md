@@ -1,6 +1,6 @@
 ---
 title: "Tel Aviv"
-description: "Tel Aviv (Places) - 12 mentions"
+description: "Tel Aviv (Places) - 16 mentions"
 id: "gpe-tel-aviv"
 type: "GPE"
 ---
@@ -46,15 +46,18 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:31:34](/episodes/ep-mKXdKV-OBog.md#ent-gpe-tel-aviv-t-00-30-55)**
 > "...his is journalism, right? Are you shocked if I tell you that Ashley Reinsberg—he happens to live in Tel Aviv? He just cannot make it up. Like, just write your articles. Stop pretending that you're a journalis..."
 
+**[00:31:34](/episodes/ep-mKXdKV-OBog.md#ent-gpe-tel-aviv-t-00-30-55)**
+> "...insberg—he happens to live in Tel Aviv?"
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (4 mentions)</summary>
 
 **[00:47:53](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-tel-aviv-t-00-47-53)**
 > ".... He's real! They're like, "No, no, hold on. You didn't get the lyrics?" You didn't get the lyrics? Tel Aviv, I've been in Tel Aviv. It's such a pretty sea. I love Tel Aviv. Israel is for me. I love Kash Pate..."
@@ -62,13 +65,22 @@ _Type: Places_
 **[00:47:58](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-tel-aviv-t-00-47-53)**
 > "...lyrics?" You didn't get the lyrics? Tel Aviv, I've been in Tel Aviv. It's such a pretty sea. I love Tel Aviv. Israel is for me. I love Kash Patel. Indians don't smell—that stereotype. I'm just a country star...."
 
+**[00:47:53](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-tel-aviv-t-00-47-53)**
+> "Tel Aviv, I've been in Tel Aviv. It's such a pretty sea."
+
+**[00:47:58](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-tel-aviv-t-00-47-53)**
+> "I love Tel Aviv. Israel is for me."
+
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
 
 **[00:12:36](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-tel-aviv-t-00-12-07)**
 > "...maceuticals like the Sackler family (Sackler family). These people have their names on buildings in Tel Aviv. The owners of Purdue Pharma, the architects of the opioid epidemic. Pornography! Our boy Al Goldst..."
+
+**[00:12:36](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-tel-aviv-t-00-12-07)**
+> "...e their names on buildings in Tel Aviv."
 
 </details>
 

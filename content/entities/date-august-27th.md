@@ -1,6 +1,6 @@
 ---
 title: "August 27th"
-description: "August 27th (Dates) - 7 mentions"
+description: "August 27th (Dates) - 9 mentions"
 id: "date-august-27th"
 type: "DATE"
 aliases:
@@ -39,13 +39,19 @@ _Type: Dates_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
 
 **[00:08:03](/episodes/ep-mKXdKV-OBog.md#ent-date-august-27th-t-00-07-51)**
 > "...at in the weeks leading up to Charlie (Charlie Kirk)'s assassination—I mean, literally what he says—August 24th-29th, Operation Valhalla took place in neighboring Minnesota. So they took the Minot boys, and they..."
 
 **[00:13:33](/episodes/ep-mKXdKV-OBog.md#ent-date-august-27th-t-00-12-57)**
 > "...eah, we can then see that we've added this addition. This Valhalla is now here on our timeline from August 24th to 29th. They have this joint operation, Valhalla, that's taking place at Camp Ripley, and we are r..."
+
+**[00:08:03](/episodes/ep-mKXdKV-OBog.md#ent-date-august-27th-t-00-07-51)**
+> "... mean, literally what he says—August 24th-29th,"
+
+**[00:13:33](/episodes/ep-mKXdKV-OBog.md#ent-date-august-27th-t-00-12-57)**
+> "...now here on our timeline from August 24th to 29th."
 
 </details>
 

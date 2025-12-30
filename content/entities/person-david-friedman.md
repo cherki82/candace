@@ -1,6 +1,6 @@
 ---
 title: "David Friedman"
-description: "David Friedman (People) - 2 mentions"
+description: "David Friedman (People) - 3 mentions"
 id: "person-david-friedman"
 type: "PERSON"
 ---
@@ -13,13 +13,16 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
 
 **[00:25:28](/episodes/ep-mKXdKV-OBog.md#ent-person-david-friedman-t-00-25-28)**
 > "...case you missed it back in October—Mike Huckabee and the former U.S. ambassador to Israel—which was David Friedman—took to the stage in Jerusalem to perform "Sweet Home Alabama." And by "Sweet Home Alabama," I mean..."
 
 **[00:25:39](/episodes/ep-mKXdKV-OBog.md#ent-person-david-friedman-t-00-25-28)**
 > "David Friedman, former US ambassador to Israel"
+
+**[00:25:28](/episodes/ep-mKXdKV-OBog.md#ent-person-david-friedman-t-00-25-28)**
+> "...mbassador to Israel—which was David Friedman—took to the stage in Jerusalem to perform"
 
 </details>
 

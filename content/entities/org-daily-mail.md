@@ -1,6 +1,6 @@
 ---
 title: "Daily Mail"
-description: "Daily Mail (Organizations) - 11 mentions"
+description: "Daily Mail (Organizations) - 13 mentions"
 id: "org-daily-mail"
 type: "ORG"
 ---
@@ -21,13 +21,19 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4 mentions)</summary>
 
 **[00:12:15](/episodes/ep-7RLtGgkTh9o.md#ent-org-daily-mail-t-00-12-06)**
 > "...edly having an affair and unlawfully using her money to fund trips of their own. This headline from Daily Mail reads, and claims he charged her estate for the pair's trip to the Holy Land to get baptized. And g..."
 
 **[00:56:32](/episodes/ep-7RLtGgkTh9o.md#ent-org-daily-mail-t-00-55-59)**
 > "...t behind is just too desperate to be genuine." Yeah, of course it's not genuine. Even yesterday—the Daily Mail—their AIPAC reporter, Victoria Churchill— publishes an article—the most bizarre headline I've—what?..."
+
+**[00:12:15](/episodes/ep-7RLtGgkTh9o.md#ent-org-daily-mail-t-00-12-06)**
+> "This headline from Daily Mail reads,"
+
+**[00:56:32](/episodes/ep-7RLtGgkTh9o.md#ent-org-daily-mail-t-00-55-59)**
+> "Even yesterday—the Daily Mail—their AIPAC reporter, Victoria Churchill—"
 
 </details>
 

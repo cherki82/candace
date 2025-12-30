@@ -1,6 +1,6 @@
 ---
 title: "Tyler Bowyer"
-description: "Tyler Bowyer (People) - 52 mentions"
+description: "Tyler Bowyer (People) - 53 mentions"
 id: "person-tyler-bowyer"
 type: "PERSON"
 aliases:
@@ -136,10 +136,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
 
 **[00:33:35](/episodes/ep-K1tFD7FfoCU.md#ent-person-tyler-bowyer-t-00-33-12)**
 > "...e I don't think Turning Point USA is going to survive if they continue down this path of, you know, Tyler Bowyer (Tyler Bowyer) late-night tweeting at donors as he did over the weekend. I think he directed his fi..."
+
+**[00:33:35](/episodes/ep-K1tFD7FfoCU.md#ent-person-tyler-bowyer-t-00-33-12)**
+> "of, you know, Tyler Bowyer (Tyler Bowyer) late-night tweeting at donors as h..."
 
 </details>
 
@@ -369,15 +372,13 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Bowyer (9)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Bowyer (8)</strong></summary>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
 
 - [00:10:43](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) (Accusation) **Candace Owens**: ["Tyler Boyer lied about why Terrell Farnsworth took the camera down"](/statements/statement-3ead32a1417d.md)
   - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
-
-- [00:14:45](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) (Accusation) **Candace Owens**: ["Tyler Boyer lied about why Terrell took the camera down"](/statements/statement-1fac6b161905.md)
 
 </details>
 

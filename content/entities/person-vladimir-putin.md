@@ -1,6 +1,6 @@
 ---
 title: "Vladimir Putin"
-description: "Vladimir Putin (People) - 4 mentions"
+description: "Vladimir Putin (People) - 11 mentions"
 id: "person-vladimir-putin"
 type: "PERSON"
 aliases:
@@ -17,7 +17,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (4 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (11 mentions)</summary>
 
 **[00:36:34](/episodes/ep-K1tFD7FfoCU.md#ent-person-vladimir-putin-t-00-36-34)**
 > "Like I'm gonna go live with Putin (Vladimir Putin)."
@@ -30,6 +30,27 @@ _Type: People_
 
 **[00:41:26](/episodes/ep-K1tFD7FfoCU.md#ent-person-vladimir-putin-t-00-40-46)**
 > "Could you imagine Vladimir Putin (Vladimir Putin) sending this tweet?"
+
+**[00:36:34](/episodes/ep-K1tFD7FfoCU.md#ent-person-vladimir-putin-t-00-36-34)**
+> "...I'm gonna go live with Putin (Vladimir Putin)."
+
+**[00:36:34](/episodes/ep-K1tFD7FfoCU.md#ent-person-vladimir-putin-t-00-36-34)**
+> "... go live with Putin (Vladimir Putin)."
+
+**[00:40:18](/episodes/ep-K1tFD7FfoCU.md#ent-person-vladimir-putin-t-00-40-01)**
+> "...question that Vladimir Putin (Vladimir Putin) and the homies laughed."
+
+**[00:40:18](/episodes/ep-K1tFD7FfoCU.md#ent-person-vladimir-putin-t-00-40-01)**
+> "...was no question that Vladimir Putin (Vladimir Putin) and the homies laughed."
+
+**[00:40:18](/episodes/ep-K1tFD7FfoCU.md#ent-person-vladimir-putin-t-00-40-01)**
+> "...that Vladimir Putin (Vladimir Putin) and the homies laughed."
+
+**[00:41:26](/episodes/ep-K1tFD7FfoCU.md#ent-person-vladimir-putin-t-00-40-46)**
+> "...d you imagine Vladimir Putin (Vladimir Putin) sending this tweet?"
+
+**[00:41:26](/episodes/ep-K1tFD7FfoCU.md#ent-person-vladimir-putin-t-00-40-46)**
+> "...gine Vladimir Putin (Vladimir Putin) sending this tweet?"
 
 </details>
 

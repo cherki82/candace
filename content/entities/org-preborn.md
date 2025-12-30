@@ -1,6 +1,6 @@
 ---
 title: "Preborn"
-description: "Preborn (Organizations) - 95 mentions"
+description: "Preborn (Organizations) - 99 mentions"
 id: "org-preborn"
 type: "ORG"
 ---
@@ -165,13 +165,19 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
 
 **[00:23:39](/episodes/ep-mKXdKV-OBog.md#ent-org-preborn-t-00-23-20)**
 > "...t. Do not wait for permission. Be bold, be clear, and be unapologetically pro-life. You can head to preborn.org/Candace right now. You can give $28. You can give 10 times that if you can. This is the line th..."
 
 **[00:23:52](/episodes/ep-mKXdKV-OBog.md#ent-org-preborn-t-00-23-20)**
 > "... for what's right. We have to save lives from abortion and stand firm in the gospel. Again, that is preborn.org/Candace. Provide an ultrasound for just $28. Also want to remind you guys about Tax Network USA..."
+
+**[00:23:39](/episodes/ep-mKXdKV-OBog.md#ent-org-preborn-t-00-23-20)**
+> "You can head to preborn.org/Candace right now."
+
+**[00:23:52](/episodes/ep-mKXdKV-OBog.md#ent-org-preborn-t-00-23-20)**
+> "Again, that is preborn.org/Candace."
 
 </details>
 
@@ -206,13 +212,19 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (4 mentions)</summary>
 
 **[00:34:55](/episodes/ep-yAIb-NuUh_U.md#ent-org-preborn-t-00-34-16)**
 > "...sit this one out. Don't wait for permission. Be bold. Be clear. Be unapologetically pro-life. Go to preborn.org/candace right now. Give $28. You can give 10 times that amount if you can. This is definitely t..."
 
 **[00:35:09](/episodes/ep-yAIb-NuUh_U.md#ent-org-preborn-t-00-34-59)**
 > "...and what is right. We have to save lives from abortion and stand firm in the gospel. Again, that is preborn.org/candace to provide an ultrasound for just $28. I also want to tell you guys about PDS Debt beca..."
+
+**[00:34:55](/episodes/ep-yAIb-NuUh_U.md#ent-org-preborn-t-00-34-16)**
+> "Go to preborn.org/candace right now."
+
+**[00:35:09](/episodes/ep-yAIb-NuUh_U.md#ent-org-preborn-t-00-34-59)**
+> "Again, that is preborn.org/candace to provide an ultrasound for just $28..."
 
 </details>
 

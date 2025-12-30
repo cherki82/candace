@@ -1,6 +1,6 @@
 ---
 title: "Make Him a Sandwich"
-description: "Make Him a Sandwich (Works & Media) - 43 mentions"
+description: "Make Him a Sandwich (Works & Media) - 51 mentions"
 id: "work-make-him-a-sandwich"
 type: "WORK"
 aliases:
@@ -23,6 +23,17 @@ _Type: Works & Media_
 
 **[00:55:32](/episodes/ep-9k2xrAC0H88.md#ent-work-make-him-a-sandwich-t-00-54-53)**
 > "You guys can buy that at MakeHimASandwich.com or you can just throw it into your Amazon cart fo..."
+
+</details>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
+
+**[00:55:00](/episodes/ep-6DhWawD4ZiM.md#ent-work-make-him-a-sandwich-t-00-54-39)**
+> "MakeHimASandwich.com, if you'd like to buy it from us directly, you ca..."
+
+**[00:55:08](/episodes/ep-6DhWawD4ZiM.md#ent-work-make-him-a-sandwich-t-00-54-39)**
+> "MakeHimASandwich.com."
 
 </details>
 
@@ -85,10 +96,13 @@ _Type: Works & Media_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:37:32](/episodes/ep-mKXdKV-OBog.md#ent-work-make-him-a-sandwich-t-00-37-26)**
 > "...ead "Sigmund Freud and the Jewish Mystical Tradition." You can also buy my book if you head over to MakeHimASandwich.com. That is the regular copy. Signed copies can only be purchased on CandaceOwens.com. And while you a..."
+
+**[00:37:32](/episodes/ep-mKXdKV-OBog.md#ent-work-make-him-a-sandwich-t-00-37-26)**
+> "...y my book if you head over to MakeHimASandwich.com."
 
 </details>
 
@@ -134,7 +148,7 @@ _Type: Works & Media_
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (3 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (6 mentions)</summary>
 
 **[00:55:05](/episodes/ep-yAIb-NuUh_U.md#ent-work-make-him-a-sandwich-t-00-54-59)**
 > "...of course it's going to be fun if it starts with Cardi B and ends with Cardi B. You can buy that at makehimasandwich.com—even though it says it's available for pre-order. I will ship because we've already shipped out pre..."
@@ -144,6 +158,15 @@ _Type: Works & Media_
 
 **[00:55:23](/episodes/ep-yAIb-NuUh_U.md#ent-work-make-him-a-sandwich-t-00-54-59)**
 > "...keHimASandwich.com. Kay writes: "I just read that." Oh no, this is a different comment. "I finished Make Him a Sandwich, and it is a must-read for all." "I am saving this book for when my daughter is old enough to read ..."
+
+**[00:55:05](/episodes/ep-yAIb-NuUh_U.md#ent-work-make-him-a-sandwich-t-00-54-59)**
+> "You can buy that at makehimasandwich.com—even though it says it's available for pre-order."
+
+**[00:55:14](/episodes/ep-yAIb-NuUh_U.md#ent-work-make-him-a-sandwich-t-00-54-59)**
+> "MakeHimASandwich.com."
+
+**[00:55:23](/episodes/ep-yAIb-NuUh_U.md#ent-work-make-him-a-sandwich-t-00-54-59)**
+> ""I finished Make Him a Sandwich, and it is a must-read for all.""
 
 </details>
 
@@ -186,13 +209,19 @@ _Type: Works & Media_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (4 mentions)</summary>
 
 **[00:49:22](/episodes/ep-K1tFD7FfoCU.md#ent-work-make-him-a-sandwich-t-00-49-22)**
 > "...d of us. Very proud of us—people on the book club. So be sure to be there. Also reminding you guys: Make Him a Sandwich. If you want to buy that, go to makehimasandwich.com. You guys are gonna love this book because it ..."
 
 **[00:49:24](/episodes/ep-K1tFD7FfoCU.md#ent-work-make-him-a-sandwich-t-00-49-22)**
 > "...o be sure to be there. Also reminding you guys: Make Him a Sandwich. If you want to buy that, go to makehimasandwich.com. You guys are gonna love this book because it truly is very true, and it's very funny, and it's the..."
+
+**[00:49:22](/episodes/ep-K1tFD7FfoCU.md#ent-work-make-him-a-sandwich-t-00-49-22)**
+> "Also reminding you guys: Make Him a Sandwich."
+
+**[00:49:24](/episodes/ep-K1tFD7FfoCU.md#ent-work-make-him-a-sandwich-t-00-49-22)**
+> "...f you want to buy that, go to makehimasandwich.com."
 
 </details>
 

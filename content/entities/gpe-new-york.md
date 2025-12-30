@@ -1,6 +1,6 @@
 ---
 title: "New York"
-description: "New York (Places) - 48 mentions"
+description: "New York (Places) - 51 mentions"
 id: "gpe-new-york"
 type: "GPE"
 ---
@@ -11,6 +11,17 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
+
+**[00:10:04](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-new-york-t-00-40-11)**
+> "She sat down with the New York Times."
+
+**[00:40:33](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-new-york-t-00-40-11)**
+> "...use that is the division from New York."
+
+</details>
 
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (2 mentions)</summary>
@@ -32,10 +43,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:29:00](/episodes/ep-mKXdKV-OBog.md#t-00-28-48)**
 > "...r, at least, of The Free Press before that—before she went on to CBS News. She notoriously left The New York Times and said it was biased, and we needed to have something that was in the middle of the line, a..."
+
+**[00:29:00](/episodes/ep-mKXdKV-OBog.md#t-00-28-48)**
+> "She notoriously left The New York Times and said it was biased, and we needed to ha..."
 
 </details>
 

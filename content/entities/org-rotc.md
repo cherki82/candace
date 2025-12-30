@@ -1,6 +1,6 @@
 ---
 title: "ROTC"
-description: "ROTC (Organizations) - 3 mentions"
+description: "ROTC (Organizations) - 4 mentions"
 id: "org-rotc"
 type: "ORG"
 aliases:
@@ -27,6 +27,14 @@ _Type: Organizations_
 
 **[00:28:58](/episodes/ep-DqGNvi36ol8.md#ent-org-rotc-t-00-28-22)**
 > "Could be Boy Scouts, could be ROTC, could be Eagle Scouts, could very much be Airbor..."
+
+</details>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+
+**[00:16:09](/episodes/ep-mKXdKV-OBog.md#ent-org-rotc-t-00-15-42)**
+> "...ed by a person that is in the ROTC."
 
 </details>
 

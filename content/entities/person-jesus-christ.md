@@ -1,6 +1,6 @@
 ---
 title: "Jesus Christ"
-description: "Jesus Christ (People) - 36 mentions"
+description: "Jesus Christ (People) - 38 mentions"
 id: "person-jesus-christ"
 type: "PERSON"
 aliases:
@@ -36,13 +36,19 @@ _Type: People_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
 
 **[00:01:35](/episodes/ep-mKXdKV-OBog.md#ent-person-jesus-christ-t-00-01-35)**
 > "... on this—your all-time favorite historical figure? Is it Milton Friedman, or is there someone else? Jesus Christ? Yeah, I would say—I gotta always say—Jesus Christ, probably. Wow, that is a great question, histor..."
 
 **[00:01:36](/episodes/ep-mKXdKV-OBog.md#ent-person-jesus-christ-t-00-01-35)**
 > "...Is it Milton Friedman, or is there someone else? Jesus Christ? Yeah, I would say—I gotta always say—Jesus Christ, probably. Wow, that is a great question, historical figure. So just for like—to make it fun—let's ..."
+
+**[00:01:35](/episodes/ep-mKXdKV-OBog.md#ent-person-jesus-christ-t-00-01-35)**
+> "Jesus Christ?"
+
+**[00:01:36](/episodes/ep-mKXdKV-OBog.md#ent-person-jesus-christ-t-00-01-35)**
+> "... would say—I gotta always say—Jesus Christ, probably."
 
 </details>
 

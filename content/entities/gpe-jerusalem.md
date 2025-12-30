@@ -1,6 +1,6 @@
 ---
 title: "Jerusalem"
-description: "Jerusalem (Places) - 14 mentions"
+description: "Jerusalem (Places) - 21 mentions"
 id: "gpe-jerusalem"
 type: "GPE"
 ---
@@ -13,7 +13,7 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (7 mentions)</summary>
 
 **[00:25:28](/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-25-28)**
 > "...ike Huckabee and the former U.S. ambassador to Israel—which was David Friedman—took to the stage in Jerusalem to perform "Sweet Home Alabama." And by "Sweet Home Alabama," I mean "Sweet Home Jerusalem" in Hebr..."
@@ -26,6 +26,15 @@ _Type: Places_
 
 **[00:43:28](/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-42-51)**
 > "...deny that. L of the Wanger writes: "I lost the cringe challenge." What? You didn't like "Sweet Home Jerusalem"? No? Weird. As Gadgets writes: "Thank you for all that you do. Keep going. Max." Thank you guys. L..."
+
+**[00:25:28](/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-25-28)**
+> "...Friedman—took to the stage in Jerusalem to perform"
+
+**[00:25:41](/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-25-28)**
+> "... Alabama," I mean "Sweet Home Jerusalem" in Hebrew or something."
+
+**[00:43:28](/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-42-51)**
+> "You didn't like "Sweet Home Jerusalem"?"
 
 </details>
 
@@ -52,7 +61,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (4 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (8 mentions)</summary>
 
 **[00:20:53](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-jerusalem-t-00-21-15)**
 > "...ation to stage a hostile takeover of the legacy of Charlie Kirk (Charlie Kirk)—so obsessed that the Jerusalem Post completely fictionalized or rather published a completely deranged lie about Erika Kirk (Erika..."
@@ -65,6 +74,18 @@ _Type: Places_
 
 **[00:22:25](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-jerusalem-t-00-21-15)**
 > "...t) wrote this: "This is the first we're hearing of this." "We've reached out to the reporter at the Jerusalem Post for a correction." How do you just say "Erika Kirk (Erika Kirk) is going to accept this award ..."
+
+**[00:20:53](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-jerusalem-t-00-21-15)**
+> "...ie Kirk)—so obsessed that the Jerusalem Post completely fictionalized or rather published..."
+
+**[00:20:55](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-jerusalem-t-00-21-15)**
+> "...the actual reporting from the Jerusalem Post, which was written by journalist Michael Sta..."
+
+**[00:21:41](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-jerusalem-t-00-21-15)**
+> "The Pillars of Jerusalem Award—inspired by the verse teaching that the wor..."
+
+**[00:22:25](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-jerusalem-t-00-21-15)**
+> "...ed out to the reporter at the Jerusalem Post for a correction.""
 
 </details>
 

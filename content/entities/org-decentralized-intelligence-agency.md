@@ -1,6 +1,6 @@
 ---
 title: "The Decentralized Intelligence Agency"
-description: "The Decentralized Intelligence Agency (Organizations) - 11 mentions"
+description: "The Decentralized Intelligence Agency (Organizations) - 12 mentions"
 id: "org-decentralized-intelligence-agency"
 type: "ORG"
 aliases:
@@ -17,10 +17,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:41:09](/episodes/ep-mKXdKV-OBog.md#ent-org-decentralized-intelligence-agency-t-00-40-40)**
 > "...ntic language. Yeah, that is such an interesting and creative perspective there. This is why I love the decentralized intelligence agency. Holly Carlin writes: "We needed a hoodie that says 'Go Max.'" The Get Me Out of Here writes: "It's..."
+
+**[00:41:09](/episodes/ep-mKXdKV-OBog.md#ent-org-decentralized-intelligence-agency-t-00-40-40)**
+> "This is why I love the decentralized intelligence agency."
 
 </details>
 

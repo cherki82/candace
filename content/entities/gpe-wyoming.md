@@ -1,6 +1,6 @@
 ---
 title: "Wyoming"
-description: "Wyoming (Places) - 19 mentions"
+description: "Wyoming (Places) - 20 mentions"
 id: "gpe-wyoming"
 type: "GPE"
 aliases:
@@ -36,10 +36,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:53:16](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-wyoming-t-00-53-05)**
 > "...aint." Yeah, I spoke about this on another show. It was gifted to me by a priest while I was out in Wyoming, and it is from St. Michael's Holy Cave in Italy. So yes, I was very grateful to have that, and tha..."
+
+**[00:53:16](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-wyoming-t-00-53-05)**
+> "...y a priest while I was out in Wyoming, and it is from St. Michael's Holy Cave in Italy."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "French Foreign Legion"
-description: "French Foreign Legion (Organizations) - 31 mentions"
+description: "French Foreign Legion (Organizations) - 32 mentions"
 id: "org-french-foreign-legion"
 type: "ORG"
 aliases:
@@ -139,10 +139,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:14:02](/episodes/ep-mKXdKV-OBog.md#ent-org-french-foreign-legion-t-00-13-39)**
 > "...tary, okay? We are receiving tips, and we had been receiving tips I had ignored previously that the French Foreign Legion was involved somehow in the assassination. Time will tell, okay? And I will present that more forma..."
+
+**[00:14:02](/episodes/ep-mKXdKV-OBog.md#ent-org-french-foreign-legion-t-00-13-39)**
+> "...d ignored previously that the French Foreign Legion was involved somehow in the assassination."
 
 </details>
 

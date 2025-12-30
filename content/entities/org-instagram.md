@@ -1,6 +1,6 @@
 ---
 title: "Instagram"
-description: "Instagram (Organizations) - 35 mentions"
+description: "Instagram (Organizations) - 37 mentions"
 id: "org-instagram"
 type: "ORG"
 ---
@@ -13,6 +13,14 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1 mentions)</summary>
+
+**[00:06:19](/episodes/ep-6DhWawD4ZiM.md#ent-org-instagram-t-00-06-02)**
+> "...d to publish his dead body on Instagram was a decision that was made by Erika (Erika Kirk..."
+
+</details>
+
+<details>
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
 
 **[00:51:21](/episodes/ep-tB5SXXmd9vU.md#ent-org-instagram-t-00-50-56)**
@@ -21,10 +29,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:12:46](/episodes/ep-7RLtGgkTh9o.md#ent-org-instagram-t-00-12-38)**
 > "...l again—suddenly involved in that part that she's mentioning about the tithing. Since I put onto my Instagram stories that—what is this? You're telling me that this woman Lou Taylor also was involved in the Ca..."
+
+**[00:12:46](/episodes/ep-7RLtGgkTh9o.md#ent-org-instagram-t-00-12-38)**
+> "Since I put onto my Instagram stories that—what is this?"
 
 </details>
 

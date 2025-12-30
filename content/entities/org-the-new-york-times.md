@@ -1,6 +1,6 @@
 ---
 title: "The New York Times"
-description: "The New York Times (Organizations) - 8 mentions"
+description: "The New York Times (Organizations) - 9 mentions"
 id: "org-the-new-york-times"
 type: "ORG"
 aliases:
@@ -39,10 +39,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:29:00](/episodes/ep-mKXdKV-OBog.md#ent-org-the-new-york-times-t-00-28-48)**
 > "...owner, at least, of The Free Press before that—before she went on to CBS News. She notoriously left The New York Times and said it was biased, and we needed to have something that was in the middle of the line, and she..."
+
+**[00:29:00](/episodes/ep-mKXdKV-OBog.md#ent-org-the-new-york-times-t-00-28-48)**
+> "She notoriously left The New York Times and said it was biased, and we needed to have"
 
 </details>
 

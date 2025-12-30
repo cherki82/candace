@@ -1,6 +1,6 @@
 ---
 title: "Cardi B"
-description: "Cardi B (People) - 6 mentions"
+description: "Cardi B (People) - 8 mentions"
 id: "person-cardi-b"
 type: "PERSON"
 ---
@@ -24,13 +24,19 @@ _Type: People_
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (4 mentions)</summary>
 
 **[00:54:59](/episodes/ep-yAIb-NuUh_U.md#ent-person-cardi-b-t-00-54-59)**
 > "It starts with Cardi B and ends with Cardi B."
 
 **[00:55:02](/episodes/ep-yAIb-NuUh_U.md#ent-person-cardi-b-t-00-54-59)**
 > "...g to be fun if it starts with Cardi B and ends with Cardi B."
+
+**[00:54:59](/episodes/ep-yAIb-NuUh_U.md#ent-person-cardi-b-t-00-54-59)**
+> "...ts with Cardi B and ends with Cardi B."
+
+**[00:55:02](/episodes/ep-yAIb-NuUh_U.md#ent-person-cardi-b-t-00-54-59)**
+> "...ts with Cardi B and ends with Cardi B."
 
 </details>
 

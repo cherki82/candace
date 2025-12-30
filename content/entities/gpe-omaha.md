@@ -1,6 +1,6 @@
 ---
 title: "Omaha"
-description: "Omaha (Places) - 7 mentions"
+description: "Omaha (Places) - 8 mentions"
 id: "gpe-omaha"
 type: "GPE"
 ---
@@ -21,10 +21,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:11:11](/episodes/ep-mKXdKV-OBog.md#ent-gpe-omaha-t-00-10-47)**
 > "...me in for its longest trip—that's correct—from Cairo. It went through to Paris, and then it went to Omaha, Nebraska. I think yesterday I said that it stayed in Wilmington for six days. No, it only stayed i..."
+
+**[00:11:11](/episodes/ep-mKXdKV-OBog.md#ent-gpe-omaha-t-00-10-47)**
+> "...to Paris, and then it went to Omaha, Nebraska."
 
 </details>
 

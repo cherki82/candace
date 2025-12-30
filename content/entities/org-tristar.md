@@ -1,6 +1,6 @@
 ---
 title: "Tristar"
-description: "Tristar (Organizations) - 1 mention"
+description: "Tristar (Organizations) - 2 mentions"
 id: "org-tristar"
 type: "ORG"
 ---
@@ -13,10 +13,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:08:15](/episodes/ep-7RLtGgkTh9o.md#ent-org-tristar-t-00-08-11)**
 > "...efore needed to be under his control, Mr. Spears committed her to an eight-month tour named Circus. Tristar—that is Lou Taylor's company—was hired to serve as the tour's business manager, handling its financ..."
+
+**[00:08:15](/episodes/ep-7RLtGgkTh9o.md#ent-org-tristar-t-00-08-11)**
+> "Tristar—that is Lou Taylor's company—was hired to serve a..."
 
 </details>
 

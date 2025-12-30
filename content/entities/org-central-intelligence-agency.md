@@ -355,7 +355,7 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Central Intelligence Agency (15)</strong></summary>
+<summary><strong class="section-title">Statements about Central Intelligence Agency (14)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
@@ -399,13 +399,13 @@ _Type: Organizations_
 - [00:00:02](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00) (Claim) **Candace Owens**: ["The CIA established Operation Mockingbird after the public execution o..."](/statements/statement-b6c4b6edb33f.md)
   - Also about: [JFK assassination](/entities/event-jfk-assassination.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
 
-- [00:00:03](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00) (Claim) **Candace Owens**: ["The CIA established Operation Mockingbird after the public execution o..."](/statements/statement-e318b0075c46.md)
+- [00:00:03](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00) (Claim) **Candace Owens**: ["After the public execution of sitting President JFK in 1963, the CIA e..."](/statements/statement-0533f01c5c5b.md)
   - Also about: [JFK assassination](/entities/event-jfk-assassination.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
 
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (6)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (5)</summary>
 
 - [00:15:06](/episodes/ep-7RLtGgkTh9o.md#t-00-14-40) (Accusation) **Anonymous Source #3 (Ep 7RLtGgkTh9o)** (via read message): ["Rob and Lou Taylor's church is just a front for them and a ruse, and I..."](/statements/statement-0e819256bc06.md)
   - Also about: [Lou Taylor](/entities/person-lou-taylor.md), [Mossad](/entities/org-mossad.md)
@@ -415,9 +415,6 @@ _Type: Organizations_
 
 - [00:21:27](/episodes/ep-7RLtGgkTh9o.md#t-00-21-04) (Claim) **Courtney Love** (via read message): ["Courtney Love was experimented on as a toddler at the Haight-Ashbury C..."](/statements/statement-698fdea4ccc4.md)
   - Also about: [Courtney Love](/entities/person-courtney-love.md), [MKUltra](/entities/concept-mkultra.md)
-
-- [00:22:09](/episodes/ep-7RLtGgkTh9o.md#t-00-21-47) (Accusation) **Courtney Love** (via read message): ["I did not kill Kurt Cobain - that was part of a psychological operatio..."](/statements/statement-8560beb5c605.md)
-  - Also about: [Courtney Love](/entities/person-courtney-love.md), [Kurt Cobain](/entities/person-kurt-cobain.md)
 
 - [00:22:14](/episodes/ep-7RLtGgkTh9o.md#t-00-21-47) (Claim) **Courtney Love** (via read message): ["I did not kill Kurt Cobain. That was part of a psychological operation..."](/statements/statement-0e0f62640500.md)
   - Also about: [Courtney Love](/entities/person-courtney-love.md), [Kurt Cobain](/entities/person-kurt-cobain.md)

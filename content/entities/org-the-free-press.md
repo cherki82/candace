@@ -1,6 +1,6 @@
 ---
 title: "The Free Press"
-description: "The Free Press (Organizations) - 6 mentions"
+description: "The Free Press (Organizations) - 11 mentions"
 id: "org-the-free-press"
 type: "ORG"
 ---
@@ -13,7 +13,7 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (6 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (11 mentions)</summary>
 
 **[00:28:48](/episodes/ep-mKXdKV-OBog.md#ent-org-the-free-press-t-00-28-48)**
 > "...ay about Bari Weiss, I want to remind you that Bari Weiss started and is a part-owner, at least, of The Free Press before that—before she went on to CBS News. She notoriously left The New York Times and said it was..."
@@ -32,6 +32,21 @@ _Type: Organizations_
 
 **[00:29:48](/episodes/ep-mKXdKV-OBog.md#ent-org-the-free-press-t-00-29-33)**
 > "...must be straight middle-of-the-line, right? There can't be any bias here. I'm reporting a piece for The Free Press on the economics of high-engagement political content on YouTube and podcast platforms. I'm reachin..."
+
+**[00:28:48](/episodes/ep-mKXdKV-OBog.md#ent-org-the-free-press-t-00-28-48)**
+> "...is a part-owner, at least, of The Free Press before that—before she went on to CBS News."
+
+**[00:29:06](/episodes/ep-mKXdKV-OBog.md#ent-org-the-free-press-t-00-28-48)**
+> "...anda, and she was gonna start The Free Press, and they were gonna go back to doing hardcore, r..."
+
+**[00:29:20](/episodes/ep-mKXdKV-OBog.md#ent-org-the-free-press-t-00-28-48)**
+> "...nalism are they doing over at The Free Press, okay?"
+
+**[00:29:39](/episodes/ep-mKXdKV-OBog.md#ent-org-the-free-press-t-00-29-33)**
+> "I'm reporting a piece for The Free Press on the economics."
+
+**[00:29:48](/episodes/ep-mKXdKV-OBog.md#ent-org-the-free-press-t-00-29-33)**
+> "I'm reporting a piece for The Free Press on the economics of high-engagement political con..."
 
 </details>
 

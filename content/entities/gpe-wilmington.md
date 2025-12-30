@@ -1,6 +1,6 @@
 ---
 title: "Wilmington"
-description: "Wilmington (Places) - 87 mentions"
+description: "Wilmington (Places) - 90 mentions"
 id: "gpe-wilmington"
 type: "GPE"
 aliases:
@@ -151,7 +151,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (6 mentions)</summary>
 
 **[00:05:25](/episodes/ep-mKXdKV-OBog.md#ent-gpe-wilmington-t-00-05-02)**
 > "...h King on the morning of Charlie (Charlie Kirk)'s assassination—who flew from Provo and landed into Wilmington, Delaware, on the morning of Charlie (Charlie Kirk)'s assassination. It is a very important question that nee..."
@@ -161,6 +161,15 @@ _Type: Places_
 
 **[00:11:20](/episodes/ep-mKXdKV-OBog.md#ent-gpe-wilmington-t-00-10-47)**
 > "...Nebraska. I think yesterday I said that it stayed in Wilmington for six days. No, it only stayed in Wilmington for one night. It stayed in Nebraska for the longest stretch yet, departing from Lincoln, Nebraska,..."
+
+**[00:05:25](/episodes/ep-mKXdKV-OBog.md#ent-gpe-wilmington-t-00-05-02)**
+> "...ew from Provo and landed into Wilmington, Delaware, on the morning of Charlie (Charlie Kir..."
+
+**[00:11:15](/episodes/ep-mKXdKV-OBog.md#ent-gpe-wilmington-t-00-10-47)**
+> "...rday I said that it stayed in Wilmington for six days."
+
+**[00:11:20](/episodes/ep-mKXdKV-OBog.md#ent-gpe-wilmington-t-00-10-47)**
+> "No, it only stayed in Wilmington for one night."
 
 </details>
 

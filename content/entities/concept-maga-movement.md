@@ -1,6 +1,6 @@
 ---
 title: "MAGA movement"
-description: "MAGA movement (Concepts) - 74 mentions"
+description: "MAGA movement (Concepts) - 87 mentions"
 id: "concept-maga-movement"
 type: "CONCEPT"
 aliases:
@@ -105,7 +105,7 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (11 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (24 mentions)</summary>
 
 **[00:00:02](/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-00-00)**
 > "All right, you guys. Happy Monday. MAGA civil war—at least that's what they are trying to brand it as. They say that's what's going on. But..."
@@ -139,6 +139,45 @@ _Type: Concepts_
 
 **[00:49:00](/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-48-38)**
 > "...r-printed signs and do a dance in front of Randy Fine (Randy Fine). "Tucker (Tucker Carlson) is not MAGA." People can see which way the wind is blowing, and it's against Israel because everything they do ..."
+
+**[00:00:02](/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-00-00)**
+> "MAGA civil war—at least that's what they are trying to..."
+
+**[00:00:08](/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-00-00)**
+> "...pers have now infiltrated the MAGA movement, and they're trying to dictate the terms like we ..."
+
+**[00:03:29](/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-02-58)**
+> "...rlson (Tucker Carlson) is not MAGA.""
+
+**[00:03:39](/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-02-58)**
+> "...rlson (Tucker Carlson) is not MAGA."
+
+**[00:03:41](/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-03-41)**
+> "...m anybody that was originally MAGA."
+
+**[00:03:46](/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-03-41)**
+> "...e, "They said to me, 'This is MAGA country.'""
+
+**[00:03:51](/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-03-41)**
+> "And we were like, nobody in MAGA says "this is MAGA country.""
+
+**[00:03:51](/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-03-41)**
+> "... nobody in MAGA says "this is MAGA country.""
+
+**[00:03:57](/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-03-41)**
+> "No one in MAGA would say "Tucker Carlson (Tucker Carlson) is not..."
+
+**[00:03:57](/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-03-41)**
+> "...rlson (Tucker Carlson) is not MAGA.""
+
+**[00:04:24](/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-04-24)**
+> "...rlson (Tucker Carlson) is not MAGA.""
+
+**[00:05:18](/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-04-45)**
+> "...ucker (Tucker Carlson) is not MAGA."
+
+**[00:49:00](/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-48-38)**
+> "...ucker (Tucker Carlson) is not MAGA.""
 
 </details>
 

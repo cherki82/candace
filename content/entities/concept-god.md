@@ -1,6 +1,6 @@
 ---
 title: "God"
-description: "God (Concepts) - 165 mentions"
+description: "God (Concepts) - 178 mentions"
 id: "concept-god"
 type: "CONCEPT"
 ---
@@ -108,10 +108,13 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:28:20](/episodes/ep-mKXdKV-OBog.md#t-00-28-14)**
 > "...enslave us to the gang colony in the Middle East that is pretending that they have been ordained by God to murder. And yeah, I don't know. There is some comedic relief coming though. Tim Dillon covering ..."
+
+**[00:28:20](/episodes/ep-mKXdKV-OBog.md#t-00-28-14)**
+> "...at they have been ordained by God to murder."
 
 </details>
 
@@ -140,7 +143,7 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (8 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (17 mentions)</summary>
 
 **[00:07:04](/episodes/ep-7RLtGgkTh9o.md#t-00-06-46)**
 > "...she's apart from her daughter, that she loves her daughter so much, and again, asking every day for God to give her strength and for her to continue to have hope. And her mom stated in her memoir, Throug..."
@@ -166,16 +169,49 @@ _Type: Concepts_
 **[00:53:44](/episodes/ep-7RLtGgkTh9o.md#t-00-53-05)**
 > "...uth Accountability writes, "Candace (Candace Owens)." "Remember, the devil is striking hard because God placed something powerful within you." "Thieves don't break into an empty house." I totally agree w..."
 
+**[00:07:04](/episodes/ep-7RLtGgkTh9o.md#t-00-06-46)**
+> "...d again, asking every day for God to give her strength and for her to continue to h..."
+
+**[00:08:42](/episodes/ep-7RLtGgkTh9o.md#t-00-08-11)**
+> "...tly, Lou Taylor talking about God and prayers—that's a lot of what you start to see..."
+
+**[00:08:47](/episodes/ep-7RLtGgkTh9o.md#t-00-08-47)**
+> "... questions. Then suddenly the God people get upset, okay?"
+
+**[00:13:28](/episodes/ep-7RLtGgkTh9o.md#t-00-13-13)**
+> "...go to the church if they want God to bless them. This is why they should do this. A..."
+
+**[00:13:28](/episodes/ep-7RLtGgkTh9o.md#t-00-13-13)**
+> "...hose other companies and that God will bless them and they'll pray over them."
+
+**[00:24:10](/episodes/ep-7RLtGgkTh9o.md#t-00-23-52)**
+> "... news today—this is totally a God thing."
+
+**[00:52:46](/episodes/ep-7RLtGgkTh9o.md#t-00-52-23)**
+> "... movement—AKA the Children of God.""
+
+**[00:53:34](/episodes/ep-7RLtGgkTh9o.md#t-00-53-05)**
+> ""May God bless you and keep you and your family safe.""
+
+**[00:53:44](/episodes/ep-7RLtGgkTh9o.md#t-00-53-05)**
+> "...evil is striking hard because God placed something powerful within you.""
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (4 mentions)</summary>
 
 **[00:44:47](/episodes/ep-yAIb-NuUh_U.md#t-00-44-34)**
 > "...n in Palestine and trying to legitimize it to my audience by telling them that somehow this is what God wants because it's right here in the Bible. I don't know. That's so—I'm going to be done addressing..."
 
 **[00:53:39](/episodes/ep-yAIb-NuUh_U.md#t-00-53-29)**
 > "...bat missions as a scout helicopter door gunner in Vietnam in 1970." "But your courage humbles me." "God bless you for the example that you're giving our younger generations about how to be an American an..."
+
+**[00:44:47](/episodes/ep-yAIb-NuUh_U.md#t-00-44-34)**
+> "...hem that somehow this is what God wants because it's right here in the Bible."
+
+**[00:53:39](/episodes/ep-yAIb-NuUh_U.md#t-00-53-29)**
+> ""God bless you for the example that you're giving our ..."
 
 </details>
 
@@ -268,10 +304,13 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
 
 **[00:44:32](/episodes/ep-K1tFD7FfoCU.md#t-00-44-24)**
 > "...harlie)." "He is nine, and you have helped make his name even stronger." "You are an inspiration." "God bless you and your family." Michael (Michael) writes that from Australia. Thank you, Michael (Micha..."
+
+**[00:44:32](/episodes/ep-K1tFD7FfoCU.md#t-00-44-24)**
+> ""God bless you and your family.""
 
 </details>
 

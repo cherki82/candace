@@ -1,6 +1,6 @@
 ---
 title: "Neemi Skin Care"
-description: "Neemi Skin Care (Organizations) - 38 mentions"
+description: "Neemi Skin Care (Organizations) - 41 mentions"
 id: "org-neemi-skin-care"
 type: "ORG"
 aliases:
@@ -84,13 +84,22 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (5 mentions)</summary>
 
 **[00:35:24](/episodes/ep-mKXdKV-OBog.md#ent-org-neemi-skin-care-t-00-35-24)**
 > "...sors. I'm gonna get into some of your comments. Okay, you guys. You have heard me speak a lot about Neeme Skin Care. I love what their three-step anti-aging routine has done for my skin, which is why I am very excit..."
 
 **[00:35:27](/episodes/ep-mKXdKV-OBog.md#ent-org-neemi-skin-care-t-00-35-24)**
 > "... what their three-step anti-aging routine has done for my skin, which is why I am very excited that Neeme Skin Care now has a complete body line as well. They have the Foundations Body Bundle. It's a simple three-st..."
+
+**[00:35:24](/episodes/ep-mKXdKV-OBog.md#ent-org-neemi-skin-care-t-00-35-24)**
+> "...ve heard me speak a lot about Neeme Skin Care."
+
+**[00:35:27](/episodes/ep-mKXdKV-OBog.md#ent-org-neemi-skin-care-t-00-35-24)**
+> "...is why I am very excited that Neeme Skin Care now has a complete body line as well."
+
+**[00:35:53](/episodes/ep-mKXdKV-OBog.md#ent-org-neemi-skin-care-t-00-35-24)**
+> "...ust like the facial care, the Neeme body line is made with clean, clinically proven i..."
 
 </details>
 

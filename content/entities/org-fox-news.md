@@ -1,6 +1,6 @@
 ---
 title: "Fox News"
-description: "Fox News (Organizations) - 48 mentions"
+description: "Fox News (Organizations) - 51 mentions"
 id: "org-fox-news"
 type: "ORG"
 aliases:
@@ -92,7 +92,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (3 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (6 mentions)</summary>
 
 **[00:06:29](/episodes/ep-K1tFD7FfoCU.md#ent-org-fox-news-t-00-27-53)**
 > "... they don't like. It's that simple as to why they go after him. That's also why they fired him from Fox because he was speaking out against the Ukrainian war, and that was not allowed. They thought that ..."
@@ -102,6 +102,15 @@ _Type: Organizations_
 
 **[00:35:20](/episodes/ep-K1tFD7FfoCU.md#ent-org-fox-news-t-00-35-20)**
 > "...o that. I look forward to obviously watching the interview that is going to premiere in two days on Fox News with Jesse Watters (Jesse Watters). I will certainly be watching now. Speaking of a lack of transpa..."
+
+**[00:06:29](/episodes/ep-K1tFD7FfoCU.md#ent-org-fox-news-t-00-27-53)**
+> "... also why they fired him from Fox because he was speaking out against the Ukrainian..."
+
+**[00:28:23](/episodes/ep-K1tFD7FfoCU.md#ent-org-fox-news-t-00-27-53)**
+> "...gave us the most play time on Fox News back in the beginning."
+
+**[00:35:20](/episodes/ep-K1tFD7FfoCU.md#ent-org-fox-news-t-00-35-20)**
+> "...ng to premiere in two days on Fox News with Jesse Watters (Jesse Watters)."
 
 </details>
 

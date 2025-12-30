@@ -1,6 +1,6 @@
 ---
 title: "Joe Rogan"
-description: "Joe Rogan (People) - 11 mentions"
+description: "Joe Rogan (People) - 18 mentions"
 id: "person-joe-rogan"
 type: "PERSON"
 aliases:
@@ -17,7 +17,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (5 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (8 mentions)</summary>
 
 **[00:45:57](/episodes/ep-mKXdKV-OBog.md#ent-person-joe-rogan-t-00-45-44)**
 > "...ruling the world. That's kind of been my conclusion after this year. Lucky Island writes: "Watching Joe Rogan's podcast with Yoval made me a little nervous. Joe seemed to be self-censoring himself and changing..."
@@ -34,6 +34,15 @@ _Type: People_
 **[00:46:15](/episodes/ep-mKXdKV-OBog.md#ent-person-joe-rogan-t-00-45-44)**
 > "...on—spoken about Israel. He's really gone there. He had Ian Carroll. So that would be unusual. Yeah, Joe Rogan has definitely taken a lot of risks. I haven't seen it. And he definitely has shouted out this podc..."
 
+**[00:45:57](/episodes/ep-mKXdKV-OBog.md#ent-person-joe-rogan-t-00-45-44)**
+> "...ucky Island writes: "Watching Joe Rogan's podcast with Yoval made me a little nervous."
+
+**[00:46:09](/episodes/ep-mKXdKV-OBog.md#ent-person-joe-rogan-t-00-45-44)**
+> "I know that Joe Rogan has definitely had people on—spoken about Israel."
+
+**[00:46:15](/episodes/ep-mKXdKV-OBog.md#ent-person-joe-rogan-t-00-45-44)**
+> "Yeah, Joe Rogan has definitely taken a lot of risks."
+
 </details>
 
 <details>
@@ -48,13 +57,25 @@ _Type: People_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (6 mentions)</summary>
 
 **[00:15:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-joe-rogan-t-00-15-41)**
 > "...) was in part upset because I made a joke about him: a literal lighthearted joke when I appeared on Joe Rogan (Joe Rogan) back in 2018. Do we have that clip, Skylar (Skylar)? We can roll that. (Candace Owens (..."
 
 **[00:16:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-joe-rogan-t-00-16-01)**
 > "...in 2018. Do we have that clip, Skylar (Skylar)? We can roll that. (Candace Owens (Candace Owens) on Joe Rogan (Joe Rogan) clip): Candace Owens (clip): Like, I can't take anything seriously anymore. Candace Owe..."
+
+**[00:15:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-joe-rogan-t-00-15-41)**
+> "...arted joke when I appeared on Joe Rogan (Joe Rogan) back in 2018."
+
+**[00:15:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-joe-rogan-t-00-15-41)**
+> "...when I appeared on Joe Rogan (Joe Rogan) back in 2018."
+
+**[00:16:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-joe-rogan-t-00-16-01)**
+> "...dace Owens (Candace Owens) on Joe Rogan (Joe Rogan) clip):"
+
+**[00:16:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-joe-rogan-t-00-16-01)**
+> "...(Candace Owens) on Joe Rogan (Joe Rogan) clip):"
 
 </details>
 

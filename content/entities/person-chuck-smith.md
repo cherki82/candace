@@ -1,6 +1,6 @@
 ---
 title: "Chuck Smith"
-description: "Chuck Smith (People) - 3 mentions"
+description: "Chuck Smith (People) - 4 mentions"
 id: "person-chuck-smith"
 type: "PERSON"
 ---
@@ -21,13 +21,16 @@ _Type: People_
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (3 mentions)</summary>
 
 **[00:29:12](/episodes/ep-yAIb-NuUh_U.md#ent-person-chuck-smith-t-00-28-43)**
 > "Chuck Smith is his name—CIA character that was close to him."
 
 **[00:29:12](/episodes/ep-yAIb-NuUh_U.md#ent-person-chuck-smith-t-00-28-43)**
 > "...of who exactly started the Calvary Chapel—which kind of became the offshoot of the hippie movement. Chuck Smith is his name—CIA character that was close to him. The implications here—when you look at all of the ..."
+
+**[00:29:12](/episodes/ep-yAIb-NuUh_U.md#ent-person-chuck-smith-t-00-28-43)**
+> "Chuck Smith is his name—CIA character that was close to him."
 
 </details>
 

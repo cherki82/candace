@@ -1,6 +1,6 @@
 ---
 title: "BYU"
-description: "BYU (Organizations) - 3 mentions"
+description: "BYU (Organizations) - 4 mentions"
 id: "org-byu"
 type: "ORG"
 aliases:
@@ -25,10 +25,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:44:27](/episodes/ep-7RLtGgkTh9o.md#t-00-43-59)**
 > "...sted a photo with him and the guy in the maroon shirt. And he makes it clear that they both went to BYU—his friend. I would like to know who Samir's friend is on the left. That's who I'm looking for. You..."
+
+**[00:44:27](/episodes/ep-7RLtGgkTh9o.md#t-00-43-59)**
+> "... clear that they both went to BYU—his friend."
 
 </details>
 

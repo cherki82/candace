@@ -1,6 +1,6 @@
 ---
 title: "Germany"
-description: "Germany (Places) - 8 mentions"
+description: "Germany (Places) - 9 mentions"
 id: "gpe-germany"
 type: "GPE"
 ---
@@ -11,6 +11,14 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+
+**[00:38:42](/episodes/ep-mKXdKV-OBog.md#ent-gpe-germany-t-00-38-09)**
+> "...heir subsidiaries in Hamburg, Germany—which is of course interesting because that is wh..."
+
+</details>
 
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>

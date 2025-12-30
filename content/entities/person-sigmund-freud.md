@@ -1,6 +1,6 @@
 ---
 title: "Sigmund Freud"
-description: "Sigmund Freud (People) - 33 mentions"
+description: "Sigmund Freud (People) - 35 mentions"
 id: "person-sigmund-freud"
 type: "PERSON"
 ---
@@ -21,10 +21,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:37:26](/episodes/ep-mKXdKV-OBog.md#ent-person-sigmund-freud-t-00-37-26)**
 > "... book club. We are running late tonight, but we are doing the book club as we can continue to read "Sigmund Freud and the Jewish Mystical Tradition." You can also buy my book if you head over to MakeHimASandwich.c..."
+
+**[00:37:26](/episodes/ep-mKXdKV-OBog.md#ent-person-sigmund-freud-t-00-37-26)**
+> "...b as we can continue to read "Sigmund Freud and the Jewish Mystical Tradition.""
 
 </details>
 
@@ -70,10 +73,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
 
 **[00:12:30](/episodes/ep-K1tFD7FfoCU.md#ent-person-sigmund-freud-t-00-12-07)**
 > "...ere brought to and fought for on our shores by people like Emma Goldman (Emma Goldman) on feminism, Sigmund Freud (Sigmund Freud), the father of modern psychology. The gambling empire is where the Adelson empire w..."
+
+**[00:12:30](/episodes/ep-K1tFD7FfoCU.md#ent-person-sigmund-freud-t-00-12-07)**
+> "Sigmund Freud (Sigmund Freud), the father of modern psychology."
 
 </details>
 

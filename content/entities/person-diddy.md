@@ -1,6 +1,6 @@
 ---
 title: "Diddy"
-description: "Diddy (People) - 7 mentions"
+description: "Diddy (People) - 10 mentions"
 id: "person-diddy"
 type: "PERSON"
 aliases:
@@ -19,7 +19,18 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (7 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
+
+**[00:16:04](/episodes/ep-7RLtGgkTh9o.md#ent-person-diddy-t-00-15-24)**
+> "I believe P. Diddy, I believe, has a house there as well."
+
+**[00:28:42](/episodes/ep-7RLtGgkTh9o.md#ent-person-diddy-t-00-28-42)**
+> "...Taylor for Kim Kardashian and Diddy.""
+
+</details>
+
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (8 mentions)</summary>
 
 **[00:22:52](/episodes/ep-yAIb-NuUh_U.md#ent-person-diddy-t-00-22-28)**
 > "It's why I did not cover the Diddy case."
@@ -41,6 +52,9 @@ _Type: People_
 
 **[00:24:10](/episodes/ep-yAIb-NuUh_U.md#ent-person-diddy-t-00-23-51)**
 > "...ow, flipping back to—from the Diddy insinuations here—flipping back to Rob McCoy, tha..."
+
+**[00:23:35](/episodes/ep-yAIb-NuUh_U.md#ent-person-diddy-t-00-23-11)**
+> "... Diddy got into trouble) that Diddy had been blackmailed by the feds."
 
 </details>
 

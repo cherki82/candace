@@ -1,6 +1,6 @@
 ---
 title: "Fort Huachuca"
-description: "Fort Huachuca (Places) - 41 mentions"
+description: "Fort Huachuca (Places) - 46 mentions"
 id: "gpe-fort-huachuca"
 type: "GPE"
 aliases:
@@ -126,7 +126,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (6 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (11 mentions)</summary>
 
 **[00:44:34](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-44-27)**
 > "... September 9th, it flies from Fort Huachuca to El Paso and then El Paso back to St. Andrews."
@@ -145,6 +145,21 @@ _Type: Places_
 
 **[00:49:34](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-49-01)**
 > "...own, or the best luck down in Fort Huachuca."
+
+**[00:44:34](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-44-27)**
+> "...ember 9th, it flies from Fort Huachuca to El Paso and then El Paso back to St. Andrews."
+
+**[00:46:55](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-46-55)**
+> "...d that this plane was in Fort Huachuca."
+
+**[00:49:01](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-49-01)**
+> "...call sign from Tucson to Fort Huachuca is a standard reach, everything before that is as..."
+
+**[00:49:12](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-49-01)**
+> "...meone of that stature in Fort Huachuca."
+
+**[00:49:34](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-49-01)**
+> "...or the best luck down in Fort Huachuca."
 
 </details>
 

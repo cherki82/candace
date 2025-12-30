@@ -1,6 +1,6 @@
 ---
 title: "Club Candace"
-description: "Club Candace (Organizations) - 82 mentions"
+description: "Club Candace (Organizations) - 96 mentions"
 id: "org-club-candace"
 type: "ORG"
 aliases:
@@ -76,7 +76,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (6 mentions)</summary>
 
 **[00:37:22](/episodes/ep-mKXdKV-OBog.md#ent-org-club-candace-t-00-36-45)**
 > "...housekeeping. If you would like to support us, obviously go to CandaceOwens.com and sign up for the book club. We are running late tonight, but we are doing the book club as we can continue to read "Sigmund Fr..."
@@ -86,6 +86,15 @@ _Type: Organizations_
 
 **[00:46:37](/episodes/ep-mKXdKV-OBog.md#ent-org-club-candace-t-00-46-24)**
 > "...ve just not wanted to go through it for the umpteenth time. Yeah. Anyways, you guys, we do have the book club, so I'm gonna jump off. We will need about 15 minutes. And then I will meet you guys over on Candac..."
+
+**[00:37:22](/episodes/ep-mKXdKV-OBog.md#ent-org-club-candace-t-00-36-45)**
+> "...Owens.com and sign up for the book club."
+
+**[00:37:26](/episodes/ep-mKXdKV-OBog.md#ent-org-club-candace-t-00-37-26)**
+> "...tonight, but we are doing the book club as we can continue to read "Sigmund Freud and the..."
+
+**[00:46:37](/episodes/ep-mKXdKV-OBog.md#ent-org-club-candace-t-00-46-24)**
+> "...ays, you guys, we do have the book club, so I'm gonna jump off."
 
 </details>
 
@@ -140,7 +149,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4 mentions)</summary>
 
 **[00:18:37](/episodes/ep-7RLtGgkTh9o.md#ent-org-club-candace-t-00-18-12)**
 > "...ely must read that book. You have to understand how this thing works. This is why I put together my book club—because it's so much that you just start to wonder what is real, what is fake. Are we actually livi..."
@@ -148,10 +157,16 @@ _Type: Organizations_
 **[00:19:34](/episodes/ep-7RLtGgkTh9o.md#ent-org-club-candace-t-00-18-57)**
 > "...itually so offensive that we go, "There's no way all of this can be going on." And then you join my book club and you read Hollywood Babylon—you're like, "Oh, this is actually how the system was built in Holly..."
 
+**[00:18:37](/episodes/ep-7RLtGgkTh9o.md#ent-org-club-candace-t-00-18-12)**
+> "This is why I put together my book club—because it's so much that you just start to wonde..."
+
+**[00:19:34](/episodes/ep-7RLtGgkTh9o.md#ent-org-club-candace-t-00-18-57)**
+> "And then you join my book club and you read Hollywood Babylon—you're like, "Oh, ..."
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (4 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (9 mentions)</summary>
 
 **[00:53:58](/episodes/ep-yAIb-NuUh_U.md#ent-org-club-candace-t-00-53-29)**
 > "...t's always been a war against Christians. And I'm not going to rant about that because it's not the book club, but I'm going to rant about that now next week in the book club. So there's that. But thank you. T..."
@@ -164,6 +179,21 @@ _Type: Organizations_
 
 **[01:00:38](/episodes/ep-yAIb-NuUh_U.md#ent-org-club-candace-t-01-00-02)**
 > "...ler novel. Their Black Vault—fiction for your book club?" I am not familiar with that thriller. Our book club—we are right now not reading any fiction. Oh, I guess you're saying it's not fiction. I'm not sure ..."
+
+**[00:53:58](/episodes/ep-yAIb-NuUh_U.md#ent-org-club-candace-t-00-53-29)**
+> "...out that because it's not the book club, but I'm going to rant about that now next week i..."
+
+**[00:53:58](/episodes/ep-yAIb-NuUh_U.md#ent-org-club-candace-t-00-53-29)**
+> "...out that now next week in the book club."
+
+**[00:59:47](/episodes/ep-yAIb-NuUh_U.md#ent-org-club-candace-t-00-59-18)**
+> "...of a time—as we learned in my book club reading Chaos. Then they killed JFK, and suddenly..."
+
+**[01:00:26](/episodes/ep-yAIb-NuUh_U.md#ent-org-club-candace-t-01-00-02)**
+> "... Black Vault—fiction for your book club?""
+
+**[01:00:38](/episodes/ep-yAIb-NuUh_U.md#ent-org-club-candace-t-01-00-02)**
+> "Our book club—we are right now not reading any fiction."
 
 </details>
 
@@ -210,7 +240,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (4 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (8 mentions)</summary>
 
 **[00:46:47](/episodes/ep-K1tFD7FfoCU.md#ent-org-club-candace-t-00-46-33)**
 > "...e, and my opinion on that is not something that can be discussed on YouTube. So I'll save it for my book club tomorrow. Peddle (Peddle) writes: "Love you, Candace (Candace Owens)." "Please claim." Oh, people c..."
@@ -223,6 +253,18 @@ _Type: Organizations_
 
 **[00:49:18](/episodes/ep-K1tFD7FfoCU.md#ent-org-club-candace-t-00-48-38)**
 > "...lub. First time ever the book club was infiltrated. I'm proud of us. Very proud of us—people on the book club. So be sure to be there. Also reminding you guys: Make Him a Sandwich. If you want to buy that, go ..."
+
+**[00:46:47](/episodes/ep-K1tFD7FfoCU.md#ent-org-club-candace-t-00-46-33)**
+> "So I'll save it for my book club tomorrow."
+
+**[00:49:12](/episodes/ep-K1tFD7FfoCU.md#ent-org-club-candace-t-00-48-38)**
+> "...you guys—tomorrow we have the book club."
+
+**[00:49:14](/episodes/ep-K1tFD7FfoCU.md#ent-org-club-candace-t-00-48-38)**
+> "First time ever the book club was infiltrated."
+
+**[00:49:18](/episodes/ep-K1tFD7FfoCU.md#ent-org-club-candace-t-00-48-38)**
+> "...ery proud of us—people on the book club."
 
 </details>
 

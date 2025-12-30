@@ -1,6 +1,6 @@
 ---
 title: "Becoming Brigitte"
-description: "Becoming Brigitte (Works & Media) - 14 mentions"
+description: "Becoming Brigitte (Works & Media) - 15 mentions"
 id: "work-becoming-brigitte"
 type: "WORK"
 aliases:
@@ -48,10 +48,13 @@ _Type: Works & Media_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:30:01](/episodes/ep-mKXdKV-OBog.md#ent-work-becoming-brigitte-t-00-29-33)**
 > "...ade in recent episodes, including claims about Israel, the death of Charlie (Charlie Kirk), and the Becoming Brigitte series. I also want to ask about the financial side of your operation because it is central to the story."..."
+
+**[00:30:01](/episodes/ep-mKXdKV-OBog.md#ent-work-becoming-brigitte-t-00-29-33)**
+> "...arlie (Charlie Kirk), and the Becoming Brigitte series."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "America Fest"
-description: "America Fest (Events) - 13 mentions"
+description: "America Fest (Events) - 15 mentions"
 id: "event-america-fest"
 type: "EVENT"
 aliases:
@@ -33,10 +33,26 @@ _Type: Events_
 </details>
 
 <details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1 mentions)</summary>
+
+**[00:37:12](/episodes/ep-6DhWawD4ZiM.md#ent-event-america-fest-t-00-36-57)**
+> "...d that before we went live at AMFest."
+
+</details>
+
+<details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1 mentions)</summary>
 
 **[00:05:18](/episodes/ep-ZAuuSq_j2_w.md#ent-event-america-fest-t-00-04-36)**
 > "...ements made by Candace Owens to set the record straight once and for all." "Prior to the opening of AmericaFest." Now, if it's gonna be once and for all, it sounds pretty final. I mean, I would assume that I wou..."
+
+</details>
+
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+
+**[00:39:41](/episodes/ep-yAIb-NuUh_U.md#ent-event-america-fest-t-00-39-16)**
+> "...t you do not let her speak at Amfest.""
 
 </details>
 

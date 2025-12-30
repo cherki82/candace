@@ -1,6 +1,6 @@
 ---
 title: "PragerU"
-description: "PragerU (Organizations) - 21 mentions"
+description: "PragerU (Organizations) - 23 mentions"
 id: "org-prageru"
 type: "ORG"
 ---
@@ -21,7 +21,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
 
 **[00:01:06](/episodes/ep-mKXdKV-OBog.md#ent-org-prageru-t-00-00-43)**
 > "Interview on PragerU's network"
@@ -29,13 +29,19 @@ _Type: Organizations_
 **[00:01:06](/episodes/ep-mKXdKV-OBog.md#ent-org-prageru-t-00-00-43)**
 > "...ace Owens). Okay, so that interview that I did with Charlie (Charlie Kirk) back when my show was on PragerU's network is becoming increasingly prophetic. At the end of every one of those interviews, I would ..."
 
+**[00:01:06](/episodes/ep-mKXdKV-OBog.md#ent-org-prageru-t-00-00-43)**
+> "...irk) back when my show was on PragerU's network is becoming increasingly prophetic."
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
 **[00:00:03](/episodes/ep-yAIb-NuUh_U.md#ent-org-prageru-t-00-00-01)**
 > "...w somebody sent me this throwback clip from Charlie (Charlie Kirk) and me back when I had a show on PragerU. We were discussing the kind of allies that you need when bullets are flying at you. Take a listen...."
+
+**[00:00:03](/episodes/ep-yAIb-NuUh_U.md#ent-org-prageru-t-00-00-01)**
+> "... me back when I had a show on PragerU."
 
 </details>
 

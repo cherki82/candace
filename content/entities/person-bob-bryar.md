@@ -1,6 +1,6 @@
 ---
 title: "Bob Bryar"
-description: "Bob Bryar (People) - 3 mentions"
+description: "Bob Bryar (People) - 6 mentions"
 id: "person-bob-bryar"
 type: "PERSON"
 ---
@@ -13,7 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (3 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (6 mentions)</summary>
 
 **[00:25:20](/episodes/ep-7RLtGgkTh9o.md#ent-person-bob-bryar-t-00-25-15)**
 > "...mely death. Kurt Cobain, Prince, Michael Jackson, Charlie (Charlie Kirk). And I should also mention Bob Bryar—talk about a—I don't know—timely or untimely death. My Chemical Romance. You guys remember My Chemi..."
@@ -23,6 +23,15 @@ _Type: People_
 
 **[00:26:23](/episodes/ep-7RLtGgkTh9o.md#ent-person-bob-bryar-t-00-25-55)**
 > "...he then died in a very mysterious circumstance. This is People Magazine. My Chemical Romance rocker Bob Bryar's cause of death ruled undetermined; nitrous oxide found near his body. So he died from laughing ga..."
+
+**[00:25:20](/episodes/ep-7RLtGgkTh9o.md#ent-person-bob-bryar-t-00-25-15)**
+> "And I should also mention Bob Bryar—talk about a—I don't know—timely or untimely deat..."
+
+**[00:25:48](/episodes/ep-7RLtGgkTh9o.md#ent-person-bob-bryar-t-00-25-15)**
+> "This is Bob Bryar. He writes,"
+
+**[00:26:23](/episodes/ep-7RLtGgkTh9o.md#ent-person-bob-bryar-t-00-25-55)**
+> "My Chemical Romance rocker Bob Bryar's cause of death ruled undetermined; nitrous oxide ..."
 
 </details>
 

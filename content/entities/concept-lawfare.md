@@ -1,6 +1,6 @@
 ---
 title: "Lawfare"
-description: "Lawfare (Concepts) - 3 mentions"
+description: "Lawfare (Concepts) - 4 mentions"
 id: "concept-lawfare"
 type: "CONCEPT"
 ---
@@ -21,10 +21,13 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:23:39](/episodes/ep-7RLtGgkTh9o.md#ent-concept-lawfare-t-00-23-14)**
 > "...end, my friends. Yeah, let's get deep on these topics. Another way that they accomplish this is via lawfare. They will bankrupt you, okay? This is why what's happening to Elijah Schaffer—this is relevant. Th..."
+
+**[00:23:39](/episodes/ep-7RLtGgkTh9o.md#ent-concept-lawfare-t-00-23-14)**
+> "...t they accomplish this is via lawfare."
 
 </details>
 

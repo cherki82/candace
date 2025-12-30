@@ -1,6 +1,6 @@
 ---
 title: "Alexis Wilkins"
-description: "Alexis Wilkins (People) - 5 mentions"
+description: "Alexis Wilkins (People) - 8 mentions"
 id: "person-alexis-wilkins"
 type: "PERSON"
 aliases:
@@ -17,21 +17,30 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:32:20](/episodes/ep-mKXdKV-OBog.md#ent-person-alexis-wilkins-t-00-32-20)**
 > "...w how he never gets sued. It feels wrong. Like I'm engaged in—I make one slight mention, joke about Alexis Wilkins referring to Tim Dillon's content, and us getting a strike. And she goes on a rant against me—not a..."
 
+**[00:32:20](/episodes/ep-mKXdKV-OBog.md#ent-person-alexis-wilkins-t-00-32-20)**
+> "...ne slight mention, joke about Alexis Wilkins referring to Tim Dillon's content, and us getting..."
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (4 mentions)</summary>
 
 **[00:45:31](/episodes/ep-yAIb-NuUh_U.md#ent-person-alexis-wilkins-t-00-45-19)**
 > "By the way, I should mention Alexis Wilkins is her name—Alexis Wilkins."
 
 **[00:45:31](/episodes/ep-yAIb-NuUh_U.md#ent-person-alexis-wilkins-t-00-45-19)**
 > "...d—just loves him for him and was in the right place at the right time. By the way, I should mention Alexis Wilkins is her name—Alexis Wilkins. She's also a member of the Calvary Chapel Church in California—Chino Hi..."
+
+**[00:45:31](/episodes/ep-yAIb-NuUh_U.md#ent-person-alexis-wilkins-t-00-45-19)**
+> "By the way, I should mention Alexis Wilkins is her name—Alexis Wilkins."
+
+**[00:45:31](/episodes/ep-yAIb-NuUh_U.md#ent-person-alexis-wilkins-t-00-45-19)**
+> "...on Alexis Wilkins is her name—Alexis Wilkins."
 
 </details>
 

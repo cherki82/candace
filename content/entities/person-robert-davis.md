@@ -1,6 +1,6 @@
 ---
 title: "Reverend Robert Davis"
-description: "Reverend Robert Davis (People) - 1 mention"
+description: "Reverend Robert Davis (People) - 2 mentions"
 id: "person-robert-davis"
 type: "PERSON"
 aliases:
@@ -18,10 +18,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
 **[00:20:49](/episodes/ep-yAIb-NuUh_U.md#ent-person-robert-davis-t-00-20-23)**
 > "...ents went to the lead pastor, Reverend Robert Davis, to discuss their son's sexual abuse, Davis ackno..."
+
+**[00:20:49](/episodes/ep-yAIb-NuUh_U.md#ent-person-robert-davis-t-00-20-23)**
+> "... to the lead pastor, Reverend Robert Davis, to discuss their son's sexual abuse, Davis ackno..."
 
 </details>
 

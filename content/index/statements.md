@@ -1,11 +1,11 @@
 ---
 title: "Statements Index"
-description: "Browse 1434 statements extracted from podcast episodes"
+description: "Browse 1416 statements extracted from podcast episodes"
 ---
 
 # Statements
 
-_1434 statements extracted from podcast episodes._
+_1416 statements extracted from podcast episodes._
 
 > **Note:** Statements are extracted from podcast transcripts using AI analysis.
 > Speaker attribution and content may contain errors. Always verify against primary sources.
@@ -51,7 +51,7 @@ _1434 statements extracted from podcast episodes._
 <div class="tab-content tab-content-bytype">
 
 <details open>
-<summary><strong class="section-title">Accusations (270)</strong></summary>
+<summary><strong class="section-title">Accusations (265)</strong></summary>
 
 <details>
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (6)</summary>
@@ -207,7 +207,7 @@ _1434 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (13)</summary>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (12)</summary>
 
 <div class="filter-item">
 
@@ -252,12 +252,6 @@ _1434 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:31:55](/episodes/ep-aDlhjfW6hz8.md#t-00-31-27) [○] **Candace Owens**: ["I believe that Charlie Kirk was betrayed by people who are close to him"](/statements/statement-b3c6f27878e5.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-
-</div>
-<div class="filter-item">
-
 - [00:31:55](/episodes/ep-aDlhjfW6hz8.md#t-00-31-27) [○] **Candace Owens**: ["Charlie Kirk was betrayed by people who are close to him"](/statements/statement-8ce5194ff7d7.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
@@ -289,7 +283,7 @@ _1434 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (18)</summary>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (17)</summary>
 
 <div class="filter-item">
 
@@ -319,12 +313,6 @@ _1434 statements extracted from podcast episodes._
 
 - [00:00:33](/episodes/ep-sreYYcID-QY.md#t-00-00-00) [○] **Candace Owens**: ["Eric Bolling is lying on the PBD podcast to establish the narrative that Candace..."](/statements/statement-06bd3137a057.md)
   - About: [Eric Bolling](/entities/person-eric-bolling.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
-<div class="filter-item">
-
-- [00:00:33](/episodes/ep-sreYYcID-QY.md#t-00-00-00) [○] **Candace Owens**: ["Eric Bolling is lying through his teeth on PBD podcast to establish the narrativ..."](/statements/statement-bfd729f1d514.md)
-  - About: [Eric Bolling](/entities/person-eric-bolling.md)
 
 </div>
 <div class="filter-item">
@@ -827,7 +815,7 @@ _1434 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (29)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (28)</summary>
 
 <div class="filter-item">
 
@@ -941,12 +929,6 @@ _1434 statements extracted from podcast episodes._
 
 - [00:18:27](/episodes/ep-7RLtGgkTh9o.md#t-00-18-12) [○] **Candace Owens**: ["The government employed a military-grade MKUltra program after JFK was shot, act..."](/statements/statement-0af73f1b4477.md)
   - About: [MKUltra](/entities/concept-mkultra.md), [JFK assassination](/entities/event-jfk-assassination.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
-
-</div>
-<div class="filter-item">
-
-- [00:22:09](/episodes/ep-7RLtGgkTh9o.md#t-00-21-47) [○] **Courtney Love**: ["I did not kill Kurt Cobain - that was part of a psychological operation to make ..."](/statements/statement-8560beb5c605.md)
-  - About: [Courtney Love](/entities/person-courtney-love.md), [Kurt Cobain](/entities/person-kurt-cobain.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
 
 </div>
 <div class="filter-item">
@@ -1230,7 +1212,7 @@ _1434 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (9)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (8)</summary>
 
 <div class="filter-item">
 
@@ -1254,12 +1236,6 @@ _1434 statements extracted from podcast episodes._
 
 - [00:04:42](/episodes/ep-Kmt6HgRjckU.md#t-00-04-16) [○] **Candace Owens**: ["Lyndon Baines Johnson was clearly implicated in JFK's assassination"](/statements/statement-60b6bb5b3d5e.md)
   - About: [Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson.md), [JFK assassination](/entities/event-jfk-assassination.md)
-
-</div>
-<div class="filter-item">
-
-- [00:06:46](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) [○] **Candace Owens**: ["The Macron couple paid for my assassination"](/statements/statement-2a6aa63ab18f.md)
-  - About: [Emmanuel Macron](/entities/person-emmanuel-macron.md), [Brigitte Macron](/entities/person-brigitte-macron.md)
 
 </div>
 <div class="filter-item">
@@ -1546,7 +1522,7 @@ _1434 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (17)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (16)</summary>
 
 <div class="filter-item">
 
@@ -1588,12 +1564,6 @@ _1434 statements extracted from podcast episodes._
 
 - [00:13:43](/episodes/ep-es7PWdFGoFI.md#t-00-13-27) [○] **Candace Owens**: ["Terrell Farnsworth lied to Candace several times"](/statements/statement-71248c54a021.md)
   - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
-
-</div>
-<div class="filter-item">
-
-- [00:14:45](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) [○] **Candace Owens**: ["Tyler Boyer lied about why Terrell took the camera down"](/statements/statement-1fac6b161905.md)
-  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
 </div>
 <div class="filter-item">
@@ -1850,7 +1820,7 @@ _1434 statements extracted from podcast episodes._
 </details>
 
 <details open>
-<summary><strong class="section-title">Factual Claims (971)</strong></summary>
+<summary><strong class="section-title">Factual Claims (958)</strong></summary>
 
 <details>
 <summary>To My Friend, Charlie Kirk. (10)</summary>
@@ -2096,7 +2066,7 @@ _1434 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (41)</summary>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (38)</summary>
 
 <div class="filter-item">
 
@@ -2226,12 +2196,6 @@ _1434 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:21:15](/episodes/ep-ja26iltROkM.md#t-00-21-03) [○] **Candace Owens**: ["There was a massive underground pipeline and irrigation system beneath where Cha..."](/statements/statement-dc030dba6e2e.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
-<div class="filter-item">
-
 - [00:23:04](/episodes/ep-ja26iltROkM.md#t-00-22-30) [○] **Candace Owens**: ["The feds repaved the area where Charlie Kirk was shot within 48 hours"](/statements/statement-742f1dcda481.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
@@ -2313,12 +2277,6 @@ _1434 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:58:03](/episodes/ep-ja26iltROkM.md#t-00-57-53) [○] **Candace Owens**: ["Benjamin Netanyahu offered Charlie Kirk a boatload of money, and he rejected it"](/statements/statement-ecd5008986d2.md)
-  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
-<div class="filter-item">
-
 - [00:58:08](/episodes/ep-ja26iltROkM.md#t-00-57-53) [○] **Candace Owens**: ["Benjamin Netanyahu gave 150 million dollars for Operation Mockingpastor - a camp..."](/statements/statement-5ec6141c5921.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Candace Owens](/entities/person-candace-owens.md)
 
@@ -2331,12 +2289,6 @@ _1434 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:59:13](/episodes/ep-ja26iltROkM.md#t-00-58-36) [○] **Candace Owens**: ["Bob Schulman withdrew millions of dollars from Turning Point and wanted his name..."](/statements/statement-87fd2dea2d9d.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-
-</div>
-<div class="filter-item">
-
 - [00:59:53](/episodes/ep-ja26iltROkM.md#t-00-59-15) [○] **Candace Owens**: ["Bob Schulman withdrew millions of dollars from Turning Point USA and wanted his ..."](/statements/statement-79ee9e48b4da.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
@@ -2344,7 +2296,7 @@ _1434 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (42)</summary>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (41)</summary>
 
 <div class="filter-item">
 
@@ -2368,11 +2320,6 @@ _1434 statements extracted from podcast episodes._
 
 - [00:01:09](/episodes/ep-aDlhjfW6hz8.md#t-00-00-55) [○] **Candace Owens**: ["The Senate has voted to pass a bipartisan resolution to designate October 14th a..."](/statements/statement-4fb121a16230.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
-<div class="filter-item">
-
-- [00:01:09](/episodes/ep-aDlhjfW6hz8.md#t-00-00-55) [○] **Candace Owens**: ["The Senate has voted and passed a bipartisan resolution to designate October 14t..."](/statements/statement-f4408ed20abf.md)
 
 </div>
 <div class="filter-item">
@@ -4404,7 +4351,7 @@ _1434 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (34)</summary>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (33)</summary>
 
 <div class="filter-item">
 
@@ -4415,13 +4362,7 @@ _1434 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:00:03](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00) [○] **Candace Owens**: ["After the public execution of sitting President JFK in 1963, the CIA established..."](/statements/statement-0533f01c5c5b.md)
-  - About: [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
-
-</div>
-<div class="filter-item">
-
-- [00:00:03](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00) [○] **Candace Owens**: ["The CIA established Operation Mockingbird after the public execution of sitting ..."](/statements/statement-e318b0075c46.md)
-  - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [JFK assassination](/entities/event-jfk-assassination.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
+  - About: [JFK assassination](/entities/event-jfk-assassination.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
 
 </div>
 <div class="filter-item">
@@ -5199,7 +5140,7 @@ _1434 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (25)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (23)</summary>
 
 <div class="filter-item">
 
@@ -5275,14 +5216,8 @@ _1434 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:28:22](/episodes/ep-2Riv3I7D0Yk.md#t-00-27-45) [○] **Candace Owens**: ["Benjamin Netanyahu invited Charlie Kirk to Israel two weeks before he died, and ..."](/statements/statement-c2ca8bc92442.md)
-  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
-
-</div>
-<div class="filter-item">
-
 - [00:28:27](/episodes/ep-2Riv3I7D0Yk.md#t-00-27-45) [○] **Candace Owens**: ["Benjamin Netanyahu invited Charlie Kirk to Israel two weeks before Charlie died,..."](/statements/statement-61e06a4a6d55.md)
-  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 
 </div>
 <div class="filter-item">
@@ -5337,12 +5272,6 @@ _1434 statements extracted from podcast episodes._
 
 - [00:55:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-55-04) [○] **Alex Jones**: ["Candace Owens sent out a dead man's switch to the Tate brothers, Dave Smith, Max..."](/statements/statement-e74fc96d3122.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Andrew Tate](/entities/person-andrew-tate.md), [Dave Smith](/entities/person-dave-smith.md)
-
-</div>
-<div class="filter-item">
-
-- [00:55:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-55-04) [○] **Alex Jones**: ["Candace Owens has sent out a dead man's switch to the Tate brothers, Dave Smith,..."](/statements/statement-4bae8e27fedb.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md), [Dave Smith](/entities/person-dave-smith.md), [Max Blumenthal](/entities/person-max-blumenthal.md)
 
 </div>
 <div class="filter-item">
@@ -6615,7 +6544,7 @@ _1434 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (109)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (103)</summary>
 
 <div class="filter-item">
 
@@ -6799,23 +6728,6 @@ _1434 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:11:37](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) [○] **Erika Kirk**: ["Rob McCoy does not work with Turning Point USA in any capacity whatsoever"](/statements/statement-40b955ef0d7e.md)
-  - About: [Rob McCoy](/entities/person-rob-mccoy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-
-</div>
-<div class="filter-item">
-
-- [00:11:37](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) [○] **Candace Owens**: ["Rob McCoy does not work with Turning Point USA in any capacity whatsoever"](/statements/statement-276b02748885.md)
-  - About: [Rob McCoy](/entities/person-rob-mccoy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-
-</div>
-<div class="filter-item">
-
-- [00:11:37](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) [○] **Candace Owens**: ["Rob McCoy does not work with Turning Point USA in any capacity"](/statements/statement-f7916895d4f6.md)
-
-</div>
-<div class="filter-item">
-
-- [00:11:39](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) [○] **Erika Kirk**: ["Rob McCoy does not work with Turning Point USA in any capacity"](/statements/statement-038c1d1fe7c1.md)
   - About: [Rob McCoy](/entities/person-rob-mccoy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
@@ -7202,12 +7114,6 @@ _1434 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:56:47](/episodes/ep-es7PWdFGoFI.md#t-00-56-34) [○] **Candace Owens**: ["George Zinn told nurses at Utah Valley Hospital that he was paid to falsely clai..."](/statements/statement-a1f8c2ec0450.md)
-  - About: [George Zinn](/entities/person-george-zinn.md)
-
-</div>
-<div class="filter-item">
-
 - [00:56:47](/episodes/ep-es7PWdFGoFI.md#t-00-56-34) [○] **Candace Owens**: ["Nurses at Utah Valley Hospital were told by George Zinn that he was paid to fals..."](/statements/statement-db0b952250b7.md)
   - About: [George Zinn](/entities/person-george-zinn.md)
 
@@ -7216,12 +7122,6 @@ _1434 statements extracted from podcast episodes._
 
 - [00:58:09](/episodes/ep-es7PWdFGoFI.md#t-00-58-00) [○] **Candace Owens**: ["Megyn Kelly offered to referee the conversation between Candace and Turning Poin..."](/statements/statement-5e460b52965e.md)
   - About: [Megyn Kelly](/entities/person-megyn-kelly.md)
-
-</div>
-<div class="filter-item">
-
-- [01:11:03](/episodes/ep-es7PWdFGoFI.md#t-01-10-18) [○] **Candace Owens**: ["Erika Kirk confirmed Charlie Kirk was going to mass and exploring Catholicism"](/statements/statement-482759ddf3f8.md)
-  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item">
@@ -7240,12 +7140,6 @@ _1434 statements extracted from podcast episodes._
 
 - [01:11:07](/episodes/ep-es7PWdFGoFI.md#t-01-11-03) [○] **Erika Kirk**: ["Erika Kirk confirmed that Charlie Kirk was exploring Catholicism and attending m..."](/statements/statement-b88f90ec5bc7.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
-
-</div>
-<div class="filter-item">
-
-- [01:12:34](/episodes/ep-es7PWdFGoFI.md#t-01-12-31) [○] **Candace Owens**: ["Qatar said they work with Hamas because Israel and the United States asked them ..."](/statements/statement-9b899cf72bc4.md)
-  - About: [Qatar](/entities/gpe-qatar.md)
 
 </div>
 <div class="filter-item">
@@ -9246,7 +9140,7 @@ _1434 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:43:01](/episodes/ep-es7PWdFGoFI.md#t-00-42-21) [○] **Candace Owens**: ["I believe that Charlie Kirk was betrayed by people that are close to him"](/statements/statement-4776345392e1.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
 <div class="filter-item">
@@ -9702,7 +9596,7 @@ _1434 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary><strong>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240</strong> (65)</summary>
+<summary><strong>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240</strong> (62)</summary>
 
 <div class="filter-item">
 
@@ -9904,12 +9798,6 @@ _1434 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:21:15](/episodes/ep-ja26iltROkM.md#t-00-21-03) [○] (Claim) **Candace Owens**: ["There was a massive underground pipeline and irrigation system beneath where Cha..."](/statements/statement-dc030dba6e2e.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
-<div class="filter-item">
-
 - [00:23:04](/episodes/ep-ja26iltROkM.md#t-00-22-30) [○] (Claim) **Candace Owens**: ["The feds repaved the area where Charlie Kirk was shot within 48 hours"](/statements/statement-742f1dcda481.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
@@ -10062,12 +9950,6 @@ _1434 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:58:03](/episodes/ep-ja26iltROkM.md#t-00-57-53) [○] (Claim) **Candace Owens**: ["Benjamin Netanyahu offered Charlie Kirk a boatload of money, and he rejected it"](/statements/statement-ecd5008986d2.md)
-  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
-<div class="filter-item">
-
 - [00:58:08](/episodes/ep-ja26iltROkM.md#t-00-57-53) [○] (Claim) **Candace Owens**: ["Benjamin Netanyahu gave 150 million dollars for Operation Mockingpastor - a camp..."](/statements/statement-5ec6141c5921.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Candace Owens](/entities/person-candace-owens.md)
 
@@ -10080,12 +9962,6 @@ _1434 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:59:13](/episodes/ep-ja26iltROkM.md#t-00-58-36) [○] (Claim) **Candace Owens**: ["Bob Schulman withdrew millions of dollars from Turning Point and wanted his name..."](/statements/statement-87fd2dea2d9d.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-
-</div>
-<div class="filter-item">
-
 - [00:59:53](/episodes/ep-ja26iltROkM.md#t-00-59-15) [○] (Claim) **Candace Owens**: ["Bob Schulman withdrew millions of dollars from Turning Point USA and wanted his ..."](/statements/statement-79ee9e48b4da.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
@@ -10093,7 +9969,7 @@ _1434 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary><strong>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239</strong> (74)</summary>
+<summary><strong>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239</strong> (72)</summary>
 
 <div class="filter-item">
 
@@ -10122,11 +9998,6 @@ _1434 statements extracted from podcast episodes._
 
 - [00:01:09](/episodes/ep-aDlhjfW6hz8.md#t-00-00-55) [○] (Claim) **Candace Owens**: ["The Senate has voted to pass a bipartisan resolution to designate October 14th a..."](/statements/statement-4fb121a16230.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
-<div class="filter-item">
-
-- [00:01:09](/episodes/ep-aDlhjfW6hz8.md#t-00-00-55) [○] (Claim) **Candace Owens**: ["The Senate has voted and passed a bipartisan resolution to designate October 14t..."](/statements/statement-f4408ed20abf.md)
 
 </div>
 <div class="filter-item">
@@ -10367,12 +10238,6 @@ _1434 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:31:55](/episodes/ep-aDlhjfW6hz8.md#t-00-31-27) [○] (Accusation) **Candace Owens**: ["I believe that Charlie Kirk was betrayed by people who are close to him"](/statements/statement-b3c6f27878e5.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-
-</div>
-<div class="filter-item">
-
 - [00:31:55](/episodes/ep-aDlhjfW6hz8.md#t-00-31-27) [○] (Accusation) **Candace Owens**: ["Charlie Kirk was betrayed by people who are close to him"](/statements/statement-8ce5194ff7d7.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
@@ -10533,7 +10398,7 @@ _1434 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary><strong>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238</strong> (92)</summary>
+<summary><strong>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238</strong> (91)</summary>
 
 <div class="filter-item">
 
@@ -10581,12 +10446,6 @@ _1434 statements extracted from podcast episodes._
 
 - [00:00:33](/episodes/ep-sreYYcID-QY.md#t-00-00-00) [○] (Accusation) **Candace Owens**: ["Eric Bolling is lying on the PBD podcast to establish the narrative that Candace..."](/statements/statement-06bd3137a057.md)
   - About: [Eric Bolling](/entities/person-eric-bolling.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
-<div class="filter-item">
-
-- [00:00:33](/episodes/ep-sreYYcID-QY.md#t-00-00-00) [○] (Accusation) **Candace Owens**: ["Eric Bolling is lying through his teeth on PBD podcast to establish the narrativ..."](/statements/statement-bfd729f1d514.md)
-  - About: [Eric Bolling](/entities/person-eric-bolling.md)
 
 </div>
 <div class="filter-item">
@@ -13030,7 +12889,7 @@ _1434 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary><strong>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266</strong> (49)</summary>
+<summary><strong>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266</strong> (48)</summary>
 
 <div class="filter-item">
 
@@ -13041,13 +12900,7 @@ _1434 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:00:03](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00) [○] (Claim) **Candace Owens**: ["After the public execution of sitting President JFK in 1963, the CIA established..."](/statements/statement-0533f01c5c5b.md)
-  - About: [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
-
-</div>
-<div class="filter-item">
-
-- [00:00:03](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00) [○] (Claim) **Candace Owens**: ["The CIA established Operation Mockingbird after the public execution of sitting ..."](/statements/statement-e318b0075c46.md)
-  - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [JFK assassination](/entities/event-jfk-assassination.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
+  - About: [JFK assassination](/entities/event-jfk-assassination.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
 
 </div>
 <div class="filter-item">
@@ -13925,7 +13778,7 @@ _1434 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary><strong>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265</strong> (71)</summary>
+<summary><strong>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265</strong> (70)</summary>
 
 <div class="filter-item">
 
@@ -14228,12 +14081,6 @@ _1434 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:22:09](/episodes/ep-7RLtGgkTh9o.md#t-00-21-47) [○] (Accusation) **Courtney Love**: ["I did not kill Kurt Cobain - that was part of a psychological operation to make ..."](/statements/statement-8560beb5c605.md)
-  - About: [Courtney Love](/entities/person-courtney-love.md), [Kurt Cobain](/entities/person-kurt-cobain.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
-
-</div>
-<div class="filter-item">
-
 - [00:22:14](/episodes/ep-7RLtGgkTh9o.md#t-00-21-47) [○] (Claim) **Courtney Love**: ["I did not kill Kurt Cobain. That was part of a psychological operation to make t..."](/statements/statement-0e0f62640500.md)
   - About: [Courtney Love](/entities/person-courtney-love.md), [Kurt Cobain](/entities/person-kurt-cobain.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
 
@@ -14354,7 +14201,7 @@ _1434 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary><strong>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250</strong> (45)</summary>
+<summary><strong>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250</strong> (43)</summary>
 
 <div class="filter-item">
 
@@ -14514,14 +14361,8 @@ _1434 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:28:22](/episodes/ep-2Riv3I7D0Yk.md#t-00-27-45) [○] (Claim) **Candace Owens**: ["Benjamin Netanyahu invited Charlie Kirk to Israel two weeks before he died, and ..."](/statements/statement-c2ca8bc92442.md)
-  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
-
-</div>
-<div class="filter-item">
-
 - [00:28:27](/episodes/ep-2Riv3I7D0Yk.md#t-00-27-45) [○] (Claim) **Candace Owens**: ["Benjamin Netanyahu invited Charlie Kirk to Israel two weeks before Charlie died,..."](/statements/statement-61e06a4a6d55.md)
-  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 
 </div>
 <div class="filter-item">
@@ -14600,12 +14441,6 @@ _1434 statements extracted from podcast episodes._
 
 - [00:55:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-55-04) [○] (Claim) **Alex Jones**: ["Candace Owens sent out a dead man's switch to the Tate brothers, Dave Smith, Max..."](/statements/statement-e74fc96d3122.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Andrew Tate](/entities/person-andrew-tate.md), [Dave Smith](/entities/person-dave-smith.md)
-
-</div>
-<div class="filter-item">
-
-- [00:55:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-55-04) [○] (Claim) **Alex Jones**: ["Candace Owens has sent out a dead man's switch to the Tate brothers, Dave Smith,..."](/statements/statement-4bae8e27fedb.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md), [Dave Smith](/entities/person-dave-smith.md), [Max Blumenthal](/entities/person-max-blumenthal.md)
 
 </div>
 <div class="filter-item">
@@ -14910,7 +14745,7 @@ _1434 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary><strong>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276</strong> (43)</summary>
+<summary><strong>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276</strong> (42)</summary>
 
 <div class="filter-item">
 
@@ -14982,12 +14817,6 @@ _1434 statements extracted from podcast episodes._
 
 - [00:05:43](/episodes/ep-Kmt6HgRjckU.md#t-00-04-59) [○] (Claim) **Candace Owens**: ["Charlie Kirk said no to money right before he died, which probably means he knew..."](/statements/statement-37bf3ed01fb6.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
-<div class="filter-item">
-
-- [00:06:46](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) [○] (Accusation) **Candace Owens**: ["The Macron couple paid for my assassination"](/statements/statement-2a6aa63ab18f.md)
-  - About: [Emmanuel Macron](/entities/person-emmanuel-macron.md), [Brigitte Macron](/entities/person-brigitte-macron.md)
 
 </div>
 <div class="filter-item">
@@ -16454,7 +16283,7 @@ _1434 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary><strong>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280</strong> (139)</summary>
+<summary><strong>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280</strong> (132)</summary>
 
 <div class="filter-item">
 
@@ -16685,23 +16514,6 @@ _1434 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:11:37](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) [○] (Claim) **Candace Owens**: ["Rob McCoy does not work with Turning Point USA in any capacity whatsoever"](/statements/statement-276b02748885.md)
-  - About: [Rob McCoy](/entities/person-rob-mccoy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-
-</div>
-<div class="filter-item">
-
-- [00:11:37](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) [○] (Claim) **Candace Owens**: ["Rob McCoy does not work with Turning Point USA in any capacity"](/statements/statement-f7916895d4f6.md)
-
-</div>
-<div class="filter-item">
-
-- [00:11:39](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) [○] (Claim) **Erika Kirk**: ["Rob McCoy does not work with Turning Point USA in any capacity"](/statements/statement-038c1d1fe7c1.md)
-  - About: [Rob McCoy](/entities/person-rob-mccoy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-
-</div>
-<div class="filter-item">
-
 - [00:12:04](/episodes/ep-es7PWdFGoFI.md#t-00-11-58) [○] (Accusation) **Candace Owens**: ["Rob McCoy claimed on stage at the memorial to be 'America's pastor' and then had..."](/statements/statement-f7572e40a6e9.md)
   - About: [Rob McCoy](/entities/person-rob-mccoy.md), [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)
 
@@ -16752,12 +16564,6 @@ _1434 statements extracted from podcast episodes._
 
 - [00:14:24](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) [○] (Claim) **Candace Owens**: ["Andrew Kolvet spoke to the surgeon without TPUSA knowing he would write that twe..."](/statements/statement-d884b8c97ce6.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-
-</div>
-<div class="filter-item">
-
-- [00:14:45](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) [○] (Accusation) **Candace Owens**: ["Tyler Boyer lied about why Terrell took the camera down"](/statements/statement-1fac6b161905.md)
-  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
 </div>
 <div class="filter-item">
@@ -17173,7 +16979,7 @@ _1434 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:43:01](/episodes/ep-es7PWdFGoFI.md#t-00-42-21) [○] (Opinion) **Candace Owens**: ["I believe that Charlie Kirk was betrayed by people that are close to him"](/statements/statement-4776345392e1.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
 <div class="filter-item">
@@ -17198,12 +17004,6 @@ _1434 statements extracted from podcast episodes._
 
 - [00:56:46](/episodes/ep-es7PWdFGoFI.md#t-00-56-34) [○] (Claim) **Candace Owens**: ["George Zinn told nurses at Utah Valley Hospital he was paid to falsely claim res..."](/statements/statement-67b910caa0a7.md)
   - About: [George Zinn](/entities/person-george-zinn.md), [Utah Valley Hospital](/entities/org-utah-valley-hospital.md)
-
-</div>
-<div class="filter-item">
-
-- [00:56:47](/episodes/ep-es7PWdFGoFI.md#t-00-56-34) [○] (Claim) **Candace Owens**: ["George Zinn told nurses at Utah Valley Hospital that he was paid to falsely clai..."](/statements/statement-a1f8c2ec0450.md)
-  - About: [George Zinn](/entities/person-george-zinn.md)
 
 </div>
 <div class="filter-item">
@@ -17238,12 +17038,6 @@ _1434 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [01:11:03](/episodes/ep-es7PWdFGoFI.md#t-01-10-18) [○] (Claim) **Candace Owens**: ["Erika Kirk confirmed Charlie Kirk was going to mass and exploring Catholicism"](/statements/statement-482759ddf3f8.md)
-  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
-<div class="filter-item">
-
 - [01:11:07](/episodes/ep-es7PWdFGoFI.md#t-01-11-03) [○] (Claim) **Candace Owens**: ["Erika Kirk confirmed that Charlie Kirk was going to Catholic mass"](/statements/statement-bdf5a422d4f3.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
@@ -17258,12 +17052,6 @@ _1434 statements extracted from podcast episodes._
 
 - [01:11:07](/episodes/ep-es7PWdFGoFI.md#t-01-11-03) [○] (Claim) **Erika Kirk**: ["Erika Kirk confirmed that Charlie Kirk was exploring Catholicism and attending m..."](/statements/statement-b88f90ec5bc7.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
-
-</div>
-<div class="filter-item">
-
-- [01:12:34](/episodes/ep-es7PWdFGoFI.md#t-01-12-31) [○] (Claim) **Candace Owens**: ["Qatar said they work with Hamas because Israel and the United States asked them ..."](/statements/statement-9b899cf72bc4.md)
-  - About: [Qatar](/entities/gpe-qatar.md)
 
 </div>
 <div class="filter-item">
@@ -18123,4 +17911,4 @@ _1434 statements extracted from podcast episodes._
 
 ---
 
-*Generated: 2025-12-30 11:13:52*
+*Generated: 2025-12-30 11:33:19*

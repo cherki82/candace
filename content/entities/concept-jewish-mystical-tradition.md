@@ -1,6 +1,6 @@
 ---
 title: "Jewish mystical tradition"
-description: "Jewish mystical tradition (Concepts) - 7 mentions"
+description: "Jewish mystical tradition (Concepts) - 8 mentions"
 id: "concept-jewish-mystical-tradition"
 type: "CONCEPT"
 ---
@@ -21,10 +21,13 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:37:26](/episodes/ep-mKXdKV-OBog.md#ent-concept-jewish-mystical-tradition-t-00-37-26)**
 > "...ning late tonight, but we are doing the book club as we can continue to read "Sigmund Freud and the Jewish Mystical Tradition." You can also buy my book if you head over to MakeHimASandwich.com. That is the regular copy. Sign..."
+
+**[00:37:26](/episodes/ep-mKXdKV-OBog.md#ent-concept-jewish-mystical-tradition-t-00-37-26)**
+> "...o read "Sigmund Freud and the Jewish Mystical Tradition.""
 
 </details>
 

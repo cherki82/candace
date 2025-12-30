@@ -1,6 +1,6 @@
 ---
 title: "Harley Pasternak"
-description: "Harley Pasternak (People) - 2 mentions"
+description: "Harley Pasternak (People) - 3 mentions"
 id: "person-harley-pasternak"
 type: "PERSON"
 ---
@@ -11,6 +11,14 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+
+**[00:23:05](/episodes/ep-7RLtGgkTh9o.md#ent-person-harley-pasternak-t-00-22-30)**
+> "...was just reading a Bible, and Harley Pasternak—and we got into his backstory and MKUltra—suddenl..."
+
+</details>
 
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2 mentions)</summary>

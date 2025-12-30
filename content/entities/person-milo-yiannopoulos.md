@@ -1,6 +1,6 @@
 ---
 title: "Milo Yiannopoulos"
-description: "Milo Yiannopoulos (People) - 10 mentions"
+description: "Milo Yiannopoulos (People) - 11 mentions"
 id: "person-milo-yiannopoulos"
 type: "PERSON"
 aliases:
@@ -17,13 +17,16 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
 
 **[00:03:01](/episodes/ep-6DhWawD4ZiM.md#ent-person-milo-yiannopoulos-t-00-02-53)**
 > "...ek in a big way because Milo (Milo Yiannopoulos) and a few others have asserted with absolute cer..."
 
 **[00:03:06](/episodes/ep-6DhWawD4ZiM.md#ent-person-milo-yiannopoulos-t-00-02-53)**
 > "Milo (Milo Yiannopoulos) and a few others have asserted with absolute certainty"
+
+**[00:03:01](/episodes/ep-6DhWawD4ZiM.md#ent-person-milo-yiannopoulos-t-00-02-53)**
+> "...his week in a big way because Milo (Milo Yiannopoulos) and a few others have asserte..."
 
 </details>
 

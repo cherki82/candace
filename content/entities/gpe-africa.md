@@ -1,6 +1,6 @@
 ---
 title: "Africa"
-description: "Africa (Places) - 6 mentions"
+description: "Africa (Places) - 7 mentions"
 id: "gpe-africa"
 type: "GPE"
 ---
@@ -32,6 +32,14 @@ _Type: Places_
 
 **[00:19:40](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-africa-t-00-19-40)**
 > "...gers and start a civil war in Africa."
+
+</details>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+
+**[00:12:22](/episodes/ep-mKXdKV-OBog.md#ent-gpe-africa-t-00-12-13)**
+> "Egypt's position in North Africa makes it an ideal gateway to doing business in th..."
 
 </details>
 

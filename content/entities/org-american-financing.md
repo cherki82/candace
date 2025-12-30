@@ -1,6 +1,6 @@
 ---
 title: "American Financing"
-description: "American Financing (Organizations) - 136 mentions"
+description: "American Financing (Organizations) - 142 mentions"
 id: "org-american-financing"
 type: "ORG"
 aliases:
@@ -207,6 +207,20 @@ _Type: Organizations_
 </details>
 
 <details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (3 mentions)</summary>
+
+**[00:34:04](/episodes/ep-7RLtGgkTh9o.md#ent-org-american-financing-t-00-33-25)**
+> "Also reminding you guys about American Financing because the Fed just dropped interest rates again..."
+
+**[00:34:25](/episodes/ep-7RLtGgkTh9o.md#ent-org-american-financing-t-00-34-09)**
+> "American Financing is helping homeowners access the equity in their ..."
+
+**[00:34:51](/episodes/ep-7RLtGgkTh9o.md#ent-org-american-financing-t-00-34-51)**
+> "The number at American Financing is 800-795-1210."
+
+</details>
+
+<details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (4 mentions)</summary>
 
 **[00:43:56](/episodes/ep-MUA9ebCF4Ow.md#ent-org-american-financing-t-00-43-39)**
@@ -251,6 +265,20 @@ _Type: Organizations_
 
 **[00:46:44](/episodes/ep-r1PS67aRmcA.md#ent-org-american-financing-t-00-46-07)**
 > "Call American Financing at 800-795-1210."
+
+</details>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (3 mentions)</summary>
+
+**[00:42:11](/episodes/ep-K1tFD7FfoCU.md#ent-org-american-financing-t-00-42-11)**
+> "...guys—want to remind you about American Financing because the Fed just dropped interest rates again..."
+
+**[00:42:30](/episodes/ep-K1tFD7FfoCU.md#ent-org-american-financing-t-00-42-11)**
+> "American Financing is helping homeowners access the equity that's in..."
+
+**[00:42:58](/episodes/ep-K1tFD7FfoCU.md#ent-org-american-financing-t-00-42-55)**
+> "That number at American Financing is 800-795-1210."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Church of Jesus Christ of Latter-day Saints"
-description: "Church of Jesus Christ of Latter-day Saints (Organizations) - 8 mentions"
+description: "Church of Jesus Christ of Latter-day Saints (Organizations) - 9 mentions"
 id: "org-church-of-jesus-christ-of-latter-day-saints"
 type: "ORG"
 aliases:
@@ -17,10 +17,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:27:52](/episodes/ep-7RLtGgkTh9o.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-27-13)**
 > "... Okay, we know that things are corruptible. This is not an attack on and saying every person in the Mormon Church is involved—every person, the Catholic—every no. But we know that at the top things get corrupted. ..."
+
+**[00:27:52](/episodes/ep-7RLtGgkTh9o.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-27-13)**
+> "...nd saying every person in the Mormon Church is involved—every person, the Catholic—every no."
 
 </details>
 

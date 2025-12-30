@@ -1,6 +1,6 @@
 ---
 title: "Tax Network USA"
-description: "Tax Network USA (Organizations) - 33 mentions"
+description: "Tax Network USA (Organizations) - 37 mentions"
 id: "org-tax-network-usa"
 type: "ORG"
 ---
@@ -86,6 +86,23 @@ _Type: Organizations_
 
 **[00:24:38](/episodes/ep-mKXdKV-OBog.md#ent-org-tax-network-usa-t-00-24-04)**
 > "For a free consultation, call Tax Network USA today at 1-800-958-1000 or visit tnusa.com/Candac..."
+
+</details>
+
+<details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4 mentions)</summary>
+
+**[00:49:13](/episodes/ep-7RLtGgkTh9o.md#ent-org-tax-network-usa-t-00-48-44)**
+> "...o want to tell you guys about Tax Network USA because if you owe the IRS back taxes, they can g..."
+
+**[00:49:25](/episodes/ep-7RLtGgkTh9o.md#ent-org-tax-network-usa-t-00-48-44)**
+> "Call the professionals at Tax Network USA."
+
+**[00:49:34](/episodes/ep-7RLtGgkTh9o.md#ent-org-tax-network-usa-t-00-49-28)**
+> "Tax Network USA is rated A+ and has saved over $1 billion for the..."
+
+**[00:49:54](/episodes/ep-7RLtGgkTh9o.md#ent-org-tax-network-usa-t-00-49-28)**
+> "For a free consultation, call Tax Network USA today at 1-800-958-1000, or you can visit tnusa.c..."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Julius Caesar"
-description: "Julius Caesar (People) - 6 mentions"
+description: "Julius Caesar (People) - 11 mentions"
 id: "person-julius-caesar"
 type: "PERSON"
 ---
@@ -13,7 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (6 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (11 mentions)</summary>
 
 **[00:01:54](/episodes/ep-mKXdKV-OBog.md#ent-person-julius-caesar-t-00-01-47)**
 > "...homas Jefferson are—I think are too cliché. So one I really enjoy that I just love learning from is Julius Caesar. Um, I think he's one of the most interesting historical figures. If you want to talk about someone..."
@@ -32,6 +32,21 @@ _Type: People_
 
 **[00:03:41](/episodes/ep-mKXdKV-OBog.md#ent-person-julius-caesar-t-00-03-38)**
 > "... how close they were. Of course, that didn't stop Brutus from plunging the knife into him. 23 times Julius Caesar was stabbed by senators, and of course Brutus, leading to the famed Shakespearean expression: "Et t..."
+
+**[00:01:54](/episodes/ep-mKXdKV-OBog.md#ent-person-julius-caesar-t-00-01-47)**
+> "... I just love learning from is Julius Caesar. Um, I think he's one of the most"
+
+**[00:02:19](/episodes/ep-mKXdKV-OBog.md#ent-person-julius-caesar-t-00-02-17)**
+> "...e who lived a full life, it's Julius Caesar:"
+
+**[00:02:43](/episodes/ep-mKXdKV-OBog.md#ent-person-julius-caesar-t-00-02-17)**
+> "...learn it through the prism of Julius Caesar."
+
+**[00:03:00](/episodes/ep-mKXdKV-OBog.md#ent-person-julius-caesar-t-00-02-52)**
+> "Gaius Julius Caesar—that is correct—a general who had rightfully earn..."
+
+**[00:03:41](/episodes/ep-mKXdKV-OBog.md#ent-person-julius-caesar-t-00-03-38)**
+> "23 times Julius Caesar was stabbed by senators, and of course Brutus, le..."
 
 </details>
 

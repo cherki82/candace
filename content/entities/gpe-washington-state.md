@@ -1,6 +1,6 @@
 ---
 title: "Washington"
-description: "Washington (Places) - 4 mentions"
+description: "Washington (Places) - 5 mentions"
 id: "gpe-washington-state"
 type: "GPE"
 aliases:
@@ -15,6 +15,14 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+
+**[00:01:54](/episodes/ep-mKXdKV-OBog.md#t-00-01-47)**
+> "...njoyed—um, you know, I—George Washington, Abraham Lincoln, Thomas Jefferson are—I think ar..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (4 mentions)</summary>

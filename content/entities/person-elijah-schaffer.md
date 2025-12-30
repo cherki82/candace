@@ -1,6 +1,6 @@
 ---
 title: "Elijah Schaffer"
-description: "Elijah Schaffer (People) - 8 mentions"
+description: "Elijah Schaffer (People) - 11 mentions"
 id: "person-elijah-schaffer"
 type: "PERSON"
 ---
@@ -13,21 +13,30 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:23:43](/episodes/ep-7RLtGgkTh9o.md#ent-person-elijah-schaffer-t-00-23-14)**
 > "... they accomplish this is via lawfare. They will bankrupt you, okay? This is why what's happening to Elijah Schaffer—this is relevant. This is one of their strategies. When they want you to shut up, they will effecti..."
 
+**[00:23:43](/episodes/ep-7RLtGgkTh9o.md#ent-person-elijah-schaffer-t-00-23-14)**
+> "...is is why what's happening to Elijah Schaffer—this is relevant."
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (4 mentions)</summary>
 
 **[00:45:51](/episodes/ep-yAIb-NuUh_U.md#ent-person-elijah-schaffer-t-00-45-19)**
 > "... backing your life partner as she files a lawsuit because somebody made a joke. Because that's what Elijah Schaffer's lawsuit is about. It's a joke. And in the lawsuit, they talk about his anti-Israel rhetoric. Who ..."
 
 **[00:49:41](/episodes/ep-yAIb-NuUh_U.md#ent-person-elijah-schaffer-t-00-49-18)**
 > "...we have good going for us at this moment would be Tim Dillon under oath. And I strongly advise that Elijah Schaffer puts him under oath as well now that he's making these kinds of jokes. I mean, Kash Patel should su..."
+
+**[00:45:51](/episodes/ep-yAIb-NuUh_U.md#ent-person-elijah-schaffer-t-00-45-19)**
+> "...e a joke. Because that's what Elijah Schaffer's lawsuit is about."
+
+**[00:49:41](/episodes/ep-yAIb-NuUh_U.md#ent-person-elijah-schaffer-t-00-49-18)**
+> "And I strongly advise that Elijah Schaffer puts him under oath as well now that he's making ..."
 
 </details>
 

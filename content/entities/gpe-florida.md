@@ -1,6 +1,6 @@
 ---
 title: "Florida"
-description: "Florida (Places) - 8 mentions"
+description: "Florida (Places) - 11 mentions"
 id: "gpe-florida"
 type: "GPE"
 ---
@@ -13,18 +13,27 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:16:25](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-florida-t-00-16-07)**
 > "...Tennessee. I think Rob and Lou Taylor moved to Brentwood, Tennessee. They lived in Fort Lauderdale, Florida, and attended a very large Calvary Chapel church there. And they were mentored by a man named Bob C..."
 
+**[00:16:25](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-florida-t-00-16-07)**
+> "...hey lived in Fort Lauderdale, Florida, and attended a very large Calvary Chapel church ..."
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (3 mentions)</summary>
 
 **[00:19:12](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-florida-t-00-18-59)**
 > "...means an exhaustive list, just to be clear, but I'm gonna just tell you like a few of these, right? Florida Calvary Chapel in Pompano Beach—the founder was a pastor named Rob Coy (not McCoy, to be clear), Ro..."
+
+**[00:19:12](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-florida-t-00-18-59)**
+> "Florida Calvary Chapel in Pompano Beach—the founder was a..."
+
+**[00:19:12](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-florida-t-00-18-59)**
+> "...d religious leader for one of Florida's biggest megachurches."
 
 </details>
 

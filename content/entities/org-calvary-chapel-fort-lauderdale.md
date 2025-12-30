@@ -1,6 +1,6 @@
 ---
 title: "Calvary Chapel Fort Lauderdale"
-description: "Calvary Chapel Fort Lauderdale (Organizations) - 0 mentions"
+description: "Calvary Chapel Fort Lauderdale (Organizations) - 1 mention"
 id: "org-calvary-chapel-fort-lauderdale"
 type: "ORG"
 ---
@@ -12,7 +12,13 @@ _Type: Organizations_
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
 
-_No mentions recorded._
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+
+**[00:21:34](/episodes/ep-yAIb-NuUh_U.md#t-00-21-05)**
+> "There's the Calvary Chapel in Fort Lauderdale in 2019."
+
+</details>
 
 </details>
 

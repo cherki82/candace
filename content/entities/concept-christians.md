@@ -1,6 +1,6 @@
 ---
 title: "Christians"
-description: "Christians (Concepts) - 44 mentions"
+description: "Christians (Concepts) - 47 mentions"
 id: "concept-christians"
 type: "CONCEPT"
 ---
@@ -85,10 +85,13 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:35:14](/episodes/ep-mKXdKV-OBog.md#ent-concept-christians-t-00-34-40)**
 > "... just don't know where this is all going, I guess. Like, are we gonna be put back in the gulag? Are Christians going back in the gulag? I don't know. But we're certainly going to find out. I'm gonna take a brie..."
+
+**[00:35:14](/episodes/ep-mKXdKV-OBog.md#ent-concept-christians-t-00-34-40)**
+> "Are Christians going back in the gulag?"
 
 </details>
 
@@ -120,18 +123,24 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:54:16](/episodes/ep-7RLtGgkTh9o.md#ent-concept-christians-t-00-53-48)**
 > "...they should be fearful. Whatever they are hiding, I'm going to find. Christopher Jolly writes, "Are Christians." "Many LDS members like me love your work." "Any crooks—please bust them." "We want truth." "Wheat..."
 
+**[00:54:16](/episodes/ep-7RLtGgkTh9o.md#ent-concept-christians-t-00-53-48)**
+> ""Are Christians.""
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
 **[00:53:54](/episodes/ep-yAIb-NuUh_U.md#ent-concept-christians-t-00-53-29)**
 > ".... I'm not gonna rant—Henry Kissinger's war. And the truth about that—it's always been a war against Christians. And I'm not going to rant about that because it's not the book club, but I'm going to rant about t..."
+
+**[00:53:54](/episodes/ep-yAIb-NuUh_U.md#ent-concept-christians-t-00-53-29)**
+> "...t's always been a war against Christians."
 
 </details>
 

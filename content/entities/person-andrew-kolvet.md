@@ -1,6 +1,6 @@
 ---
 title: "Andrew Kolvet"
-description: "Andrew Kolvet (People) - 144 mentions"
+description: "Andrew Kolvet (People) - 152 mentions"
 id: "person-andrew-kolvet"
 type: "PERSON"
 aliases:
@@ -223,13 +223,16 @@ _Type: People_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
 
 **[00:15:22](/episodes/ep-mKXdKV-OBog.md#ent-person-andrew-kolvet-t-00-15-00)**
 > "...address publicly. Yeah, I told you she's also a major in the military. Oh, who would have thunk it? Andrew Kolvet—obviously, his brother and his cousin are captains in the military. That's a fact. Frank Turk, who'..."
 
 **[00:15:25](/episodes/ep-mKXdKV-OBog.md#ent-person-andrew-kolvet-t-00-15-00)**
 > "Andrew Kolvet's brother and cousin are captains in the military"
+
+**[00:15:22](/episodes/ep-mKXdKV-OBog.md#ent-person-andrew-kolvet-t-00-15-00)**
+> "Andrew Kolvet—obviously, his brother and his cousin are captain..."
 
 </details>
 
@@ -322,7 +325,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (5 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (12 mentions)</summary>
 
 **[00:08:39](/episodes/ep-K1tFD7FfoCU.md#ent-person-andrew-kolvet-t-00-08-16)**
 > "...betrayal. To the contrary, I had a very long discussion with him. I also had a long discussion with Andrew Kolvet (Andrew Kolvet) separately, telling them both that Charlie (Charlie Kirk) should host Nick Fuentes ..."
@@ -338,6 +341,27 @@ _Type: People_
 
 **[00:27:51](/episodes/ep-K1tFD7FfoCU.md#ent-person-andrew-kolvet-t-00-27-09)**
 > "...fter Alex Clark (Alex Clark). She lied about the Catholic thing. That was my reason for going after Andrew Kolvet (Andrew Kolvet), Mikey McCoy (Mikey McCoy). Anybody that's told a lie—Rob McCoy (Rob McCoy), blood ..."
+
+**[00:08:39](/episodes/ep-K1tFD7FfoCU.md#ent-person-andrew-kolvet-t-00-08-16)**
+> "...so had a long discussion with Andrew Kolvet (Andrew Kolvet) separately, telling them both tha..."
+
+**[00:08:39](/episodes/ep-K1tFD7FfoCU.md#ent-person-andrew-kolvet-t-00-08-16)**
+> "...iscussion with Andrew Kolvet (Andrew Kolvet) separately, telling them both that Charlie (Char..."
+
+**[00:08:50](/episodes/ep-K1tFD7FfoCU.md#ent-person-andrew-kolvet-t-00-08-16)**
+> "Andrew Kolvet (Andrew Kolvet) can confirm that everything that ..."
+
+**[00:22:13](/episodes/ep-K1tFD7FfoCU.md#ent-person-andrew-kolvet-t-00-21-54)**
+> "Fortunately, Andrew Kolvet (Andrew Kolvet), the spokesperson for Turning Poi..."
+
+**[00:22:18](/episodes/ep-K1tFD7FfoCU.md#ent-person-andrew-kolvet-t-00-21-54)**
+> "Andrew Kolvet (Andrew Kolvet) wrote this: "This is the first we..."
+
+**[00:27:51](/episodes/ep-K1tFD7FfoCU.md#ent-person-andrew-kolvet-t-00-27-09)**
+> "...was my reason for going after Andrew Kolvet (Andrew Kolvet), Mikey McCoy (Mikey McCoy)."
+
+**[00:27:51](/episodes/ep-K1tFD7FfoCU.md#ent-person-andrew-kolvet-t-00-27-09)**
+> "...or going after Andrew Kolvet (Andrew Kolvet), Mikey McCoy (Mikey McCoy)."
 
 </details>
 

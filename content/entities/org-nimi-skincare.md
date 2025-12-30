@@ -1,6 +1,6 @@
 ---
 title: "Nimi Skincare"
-description: "Nimi Skincare (Organizations) - 30 mentions"
+description: "Nimi Skincare (Organizations) - 38 mentions"
 id: "org-nimi-skincare"
 type: "ORG"
 aliases:
@@ -25,6 +25,40 @@ _Type: Organizations_
 
 **[00:50:14](/episodes/ep-w1oqQbR_bYs.md#ent-org-nimi-skincare-t-00-50-07)**
 > "That's NIMISKINCARE.COM."
+
+</details>
+
+<details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4 mentions)</summary>
+
+**[00:48:17](/episodes/ep-7RLtGgkTh9o.md#ent-org-nimi-skincare-t-00-48-05)**
+> "...ve heard me speak a lot about Nimi Skincare."
+
+**[00:48:21](/episodes/ep-7RLtGgkTh9o.md#ent-org-nimi-skincare-t-00-48-05)**
+> "...ch is why I'm so excited that Nimi Skincare now has a complete body line as well."
+
+**[00:48:44](/episodes/ep-7RLtGgkTh9o.md#ent-org-nimi-skincare-t-00-48-44)**
+> "...t like their facial skincare, Nimi Bodyline is made with clean, clinically proven in..."
+
+**[00:49:03](/episodes/ep-7RLtGgkTh9o.md#ent-org-nimi-skincare-t-00-48-44)**
+> "So head to nimiskincare.com and use my code CANDACE10 at checkout."
+
+</details>
+
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (4 mentions)</summary>
+
+**[00:50:04](/episodes/ep-yAIb-NuUh_U.md#ent-org-nimi-skincare-t-00-50-04)**
+> "...ve heard me speak a lot about Nimi Skincare."
+
+**[00:50:11](/episodes/ep-yAIb-NuUh_U.md#ent-org-nimi-skincare-t-00-50-04)**
+> "...h is why I am so excited that Nimi Skincare now has a complete body line as well."
+
+**[00:50:36](/episodes/ep-yAIb-NuUh_U.md#ent-org-nimi-skincare-t-00-50-04)**
+> "...ke their facial skincare, the Nimi body line is made with clean, clinically proven i..."
+
+**[00:50:55](/episodes/ep-yAIb-NuUh_U.md#ent-org-nimi-skincare-t-00-50-46)**
+> "Go to nimiSkincare.com, and you can use my code CANDACE10 at checkout, a..."
 
 </details>
 

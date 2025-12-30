@@ -23,13 +23,23 @@ type: "factual_claim"
 - [Rob McCoy](/entities/person-rob-mccoy.md) (person)
 - [Turning Point USA](/entities/org-turning-point-usa.md) (org)
 
-## Source
+## Appearances (2)
+
+### 1. Erika And I Sat Down. Here’s What Happened. | Candace Ep 280
 
 **Episode:** [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md)
 **Timestamp:** [00:11:37](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(697);return false;">Play</a>
 
 > I was surprised to learn and this is kind of gets into I guess us not knowing the inner workings at turning point USA that Rob McCoy actually does not work with turning point USA in any capacity whatsoever
+
+### 2. Erika And I Sat Down. Here’s What Happened. | Candace Ep 280
+
+**Episode:** [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md)
+**Timestamp:** [00:11:39](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(699);return false;">Play</a>
+
+> Rob McCoy actually does not work with turning point USA in any capacity whatsoever
 
 ## Verification
 

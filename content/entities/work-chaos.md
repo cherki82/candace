@@ -1,6 +1,6 @@
 ---
 title: "Chaos"
-description: "Chaos (Works & Media) - 16 mentions"
+description: "Chaos (Works & Media) - 21 mentions"
 id: "work-chaos"
 type: "WORK"
 ---
@@ -24,7 +24,7 @@ _Type: Works & Media_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (8 mentions)</summary>
 
 **[00:00:13](/episodes/ep-7RLtGgkTh9o.md#ent-work-chaos-t-00-00-00)**
 > "...out. I would have never thought in a million years that there would be something that connected the Chaos book—which I got obsessed with and [that] it's required reading for this podcast— connected to the ..."
@@ -38,13 +38,28 @@ _Type: Works & Media_
 **[00:26:36](/episodes/ep-7RLtGgkTh9o.md#ent-work-chaos-t-00-26-36)**
 > "...ide found near his body. So he died from laughing gas. It's undetermined. And if you read that book Chaos, the medical examiners are always in their pockets—which is really interesting when you have these...."
 
+**[00:00:13](/episodes/ep-7RLtGgkTh9o.md#ent-work-chaos-t-00-00-00)**
+> "... something that connected the Chaos book—which I got obsessed with and [that] it's re..."
+
+**[00:17:43](/episodes/ep-7RLtGgkTh9o.md#ent-work-chaos-t-00-17-28)**
+> "... I was obsessed with the book Chaos."
+
+**[00:20:12](/episodes/ep-7RLtGgkTh9o.md#ent-work-chaos-t-00-19-41)**
+> "It started with that book Chaos, and I've just done so much research since. Now I..."
+
+**[00:26:36](/episodes/ep-7RLtGgkTh9o.md#ent-work-chaos-t-00-26-36)**
+> "And if you read that book Chaos, the medical examiners are always in their pocket..."
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
 **[00:59:47](/episodes/ep-yAIb-NuUh_U.md#ent-work-chaos-t-00-59-18)**
 > "... Yeah, that sounds about right. The '60s was a hell of a time—as we learned in my book club reading Chaos. Then they killed JFK, and suddenly the Calvary Church is born. And you've got all these military m..."
+
+**[00:59:47](/episodes/ep-yAIb-NuUh_U.md#ent-work-chaos-t-00-59-18)**
+> "...arned in my book club reading Chaos. Then they killed JFK, and suddenly the Calvary C..."
 
 </details>
 

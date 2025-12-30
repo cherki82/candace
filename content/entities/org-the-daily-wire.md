@@ -1,6 +1,6 @@
 ---
 title: "The Daily Wire"
-description: "The Daily Wire (Organizations) - 53 mentions"
+description: "The Daily Wire (Organizations) - 55 mentions"
 id: "org-the-daily-wire"
 type: "ORG"
 aliases:
@@ -184,10 +184,16 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (3 mentions)</summary>
 
 **[00:20:03](/episodes/ep-K1tFD7FfoCU.md#ent-org-the-daily-wire-t-00-19-50)**
 > "...ie Kirk)—including donors—were very touched by a monologue that Matt Walsh (Matt Walsh) did over on the Daily Wire. I didn't see it. I was too aggrieved to watch anything, but apparently Matt Walsh (Matt Walsh) did..."
+
+**[00:20:03](/episodes/ep-K1tFD7FfoCU.md#ent-org-the-daily-wire-t-00-19-50)**
+> "...alsh (Matt Walsh) did over on the Daily Wire."
+
+**[00:20:03](/episodes/ep-K1tFD7FfoCU.md#ent-org-the-daily-wire-t-00-19-50)**
+> "... (Matt Walsh) did over on the Daily Wire."
 
 </details>
 

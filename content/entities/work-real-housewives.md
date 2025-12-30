@@ -1,6 +1,6 @@
 ---
 title: "Real Housewives"
-description: "Real Housewives (Works & Media) - 2 mentions"
+description: "Real Housewives (Works & Media) - 3 mentions"
 id: "work-real-housewives"
 type: "WORK"
 ---
@@ -20,6 +20,14 @@ _Type: Works & Media_
 
 **[00:05:36](/episodes/ep-6DhWawD4ZiM.md#ent-work-real-housewives-t-00-05-21)**
 > "Bethany Frankel is on Real Housewives, a reality show"
+
+</details>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
+
+**[00:37:40](/episodes/ep-K1tFD7FfoCU.md#ent-work-real-housewives-t-00-37-08)**
+> "...ohen (Andy Cohen) hosting the Real Housewives of DC or something type tweet where he defends hi..."
 
 </details>
 

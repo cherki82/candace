@@ -114,16 +114,13 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Alex Jones (6)</strong></summary>
+<summary><strong class="section-title">Statements by Alex Jones (5)</strong></summary>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (3)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2)</summary>
 
 - [00:55:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-55-04) [○] (Claim) ["Candace Owens sent out a dead man's switch to the Tate brothers, Dave Smith, Max..."](/statements/statement-e74fc96d3122.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Andrew Tate](/entities/person-andrew-tate.md), [Dave Smith](/entities/person-dave-smith.md)
-
-- [00:55:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-55-04) [○] (Claim) ["Candace Owens has sent out a dead man's switch to the Tate brothers, Dave Smith,..."](/statements/statement-4bae8e27fedb.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md), [Dave Smith](/entities/person-dave-smith.md), [Max Blumenthal](/entities/person-max-blumenthal.md)
 
 - [00:56:50](/episodes/ep-2Riv3I7D0Yk.md#t-00-56-35) [○] (Claim) ["Charlie Kirk specifically thought Israel was going to kill him"](/statements/statement-2a174a3c9f01.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)

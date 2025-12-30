@@ -1,6 +1,6 @@
 ---
 title: "Mossad"
-description: "Mossad (Organizations) - 32 mentions"
+description: "Mossad (Organizations) - 34 mentions"
 id: "org-mossad"
 type: "ORG"
 ---
@@ -82,13 +82,19 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4 mentions)</summary>
 
 **[00:15:14](/episodes/ep-7RLtGgkTh9o.md#ent-org-mossad-t-00-14-40)**
 > "...and a ruse." "I actually have many suspicions about at least Lou being tied to possibly the CIA and Mossad." "All of the security that was hired under the name of—" she's writing "black box"; she means Blac..."
 
 **[00:15:24](/episodes/ep-7RLtGgkTh9o.md#ent-org-mossad-t-00-15-24)**
 > "...ity. "That was also the security that was provided for Harvey Weinstein, where it's really just the Mossad agents who now are mostly with the Kardashians." Now we're gonna talk about Ye (Kanye West) in a bi..."
+
+**[00:15:14](/episodes/ep-7RLtGgkTh9o.md#ent-org-mossad-t-00-14-40)**
+> "... tied to possibly the CIA and Mossad.""
+
+**[00:15:24](/episodes/ep-7RLtGgkTh9o.md#ent-org-mossad-t-00-15-24)**
+> "...n, where it's really just the Mossad agents who now are mostly with the Kardashians.""
 
 </details>
 

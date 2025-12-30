@@ -1,6 +1,6 @@
 ---
 title: "Montana"
-description: "Montana (Places) - 8 mentions"
+description: "Montana (Places) - 10 mentions"
 id: "gpe-montana"
 type: "GPE"
 ---
@@ -13,18 +13,24 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:09:00](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-montana-t-00-08-56)**
 > "...cause also yesterday after I covered Rob McCoy's Potter's Field scandal—the one that happened up in Montana where I described to you an organization, faith-based organization, and I told you that then sudden..."
 
+**[00:09:00](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-montana-t-00-08-56)**
+> "...l—the one that happened up in Montana where I described to you an organization, faith-b..."
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
 **[00:24:32](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-montana-t-00-24-32)**
 > "...with Turning Point USA. I would say it's very relevant. Potter's Fields is an area up in Whitefish, Montana, and the Calvary Church Association funded a ministry which came to be known as Potter's Fields Min..."
+
+**[00:24:32](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-montana-t-00-24-32)**
+> "...s is an area up in Whitefish, Montana, and the Calvary Church Association funded a mini..."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Lindsay Lohan"
-description: "Lindsay Lohan (People) - 2 mentions"
+description: "Lindsay Lohan (People) - 4 mentions"
 id: "person-lindsay-lohan"
 type: "PERSON"
 ---
@@ -13,13 +13,19 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4 mentions)</summary>
 
 **[00:12:30](/episodes/ep-7RLtGgkTh9o.md#ent-person-lindsay-lohan-t-00-12-06)**
 > "... Just a couple of years ago, the New Yorker reported that she also tried to place Courtney Love and Lindsay Lohan into conservatorships. Oh, we're going to get there because as I started following the Calvary Chap..."
 
 **[00:13:50](/episodes/ep-7RLtGgkTh9o.md#ent-person-lindsay-lohan-t-00-13-13)**
 > "...at is happening? How can there be this many Calvary Chapel scandals and stories? She also mentioned Lindsay Lohan. She's not lying there. Well-loved teenager, fantastic actress—who didn't love a Parent Trap when t..."
+
+**[00:12:30](/episodes/ep-7RLtGgkTh9o.md#ent-person-lindsay-lohan-t-00-12-06)**
+> "...ed to place Courtney Love and Lindsay Lohan into conservatorships."
+
+**[00:13:50](/episodes/ep-7RLtGgkTh9o.md#ent-person-lindsay-lohan-t-00-13-13)**
+> "She also mentioned Lindsay Lohan."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Kanye West"
-description: "Kanye West (People) - 99 mentions"
+description: "Kanye West (People) - 115 mentions"
 id: "person-kanye-west"
 type: "PERSON"
 aliases:
@@ -86,7 +86,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (8 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (20 mentions)</summary>
 
 **[00:00:23](/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-00-00)**
 > "...his podcast— connected to the Brigitte Macron case. I'm gonna tell you about that, connected to Ye (Kanye West), me telling you all about what happened behind the scenes when he was effectively kicked out of Ho..."
@@ -112,10 +112,46 @@ _Type: People_
 **[00:23:05](/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-22-30)**
 > "...akdown." "She needs a break." "She's really tired." "Britney's been put on a psych 5150 hold." "Ye (Kanye West), he said he was just reading a Bible, and Harley Pasternak—and we got into his backstory and MKUlt..."
 
+**[00:00:23](/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-00-00)**
+> "... about that, connected to Ye (Kanye West), me telling you all about what happened behind t..."
+
+**[00:00:23](/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-00-00)**
+> "... you about that, connected to Ye (Kanye West), me telling you all about what happe..."
+
+**[00:02:31](/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-02-03)**
+> "Ye (Kanye West)."
+
+**[00:05:16](/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-04-58)**
+> "speaking with Ye (Kanye West) and being a part of that—being around him when e..."
+
+**[00:15:32](/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-15-24)**
+> "...ow we're gonna talk about Ye (Kanye West) in a bit."
+
+**[00:15:32](/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-15-24)**
+> "Now we're gonna talk about Ye (Kanye West) in a bit."
+
+**[00:19:41](/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-19-41)**
+> "... everything happened with Ye (Kanye West), okay?"
+
+**[00:19:41](/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-19-41)**
+> "...fter everything happened with Ye (Kanye West), okay?"
+
+**[00:19:50](/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-19-41)**
+> "...close. And even I thought Ye (Kanye West) was crazy or like having—was being hysterical—wh..."
+
+**[00:19:50](/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-19-41)**
+> "... up close. And even I thought Ye (Kanye West) was crazy or like having—was being h..."
+
+**[00:20:36](/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-20-23)**
+> "He was asking me—Ye (Kanye West)—"Are you a part of the psychological operation t..."
+
+**[00:23:05](/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-22-30)**
+> ""Ye (Kanye West), he said he was just reading a Bible, and Harley..."
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (5 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (9 mentions)</summary>
 
 **[00:23:35](/episodes/ep-yAIb-NuUh_U.md#ent-person-kanye-west-t-00-23-11)**
 > "Something that Kanye also said in an episode that's virtually impossible to find online."
@@ -131,6 +167,18 @@ _Type: People_
 
 **[00:55:54](/episodes/ep-yAIb-NuUh_U.md#ent-person-kanye-west-t-00-55-44)**
 > "...cating what he is saying. But I always find myself suddenly going backwards and going, "Oh, I think Kanye was trying to tell us that." We just couldn't hear him or appreciate it because his style—if he com..."
+
+**[00:23:35](/episodes/ep-yAIb-NuUh_U.md#ent-person-kanye-west-t-00-23-11)**
+> "Something that Kanye also said in an episode that's virtually impossib..."
+
+**[00:23:51](/episodes/ep-yAIb-NuUh_U.md#ent-person-kanye-west-t-00-23-51)**
+> "Kanye. So this theme is kind of coming up when you star..."
+
+**[00:39:26](/episodes/ep-yAIb-NuUh_U.md#ent-person-kanye-west-t-00-39-16)**
+> "...ce Owens), you're better than Kanye.""
+
+**[00:55:54](/episodes/ep-yAIb-NuUh_U.md#ent-person-kanye-west-t-00-55-44)**
+> "Kanye was trying to tell us that.""
 
 </details>
 

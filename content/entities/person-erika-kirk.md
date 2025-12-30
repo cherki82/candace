@@ -1,6 +1,6 @@
 ---
 title: "Erika Kirk"
-description: "Erika Kirk (People) - 342 mentions"
+description: "Erika Kirk (People) - 390 mentions"
 id: "person-erika-kirk"
 type: "PERSON"
 aliases:
@@ -312,7 +312,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (25 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (32 mentions)</summary>
 
 **[00:00:00](/episodes/ep-6DhWawD4ZiM.md#ent-person-erika-kirk-t-00-00-00)**
 > "Okay, you guys, now, I wasn't sure about Erika (Erika Kirk)."
@@ -388,6 +388,27 @@ _Type: People_
 
 **[00:58:26](/episodes/ep-6DhWawD4ZiM.md#ent-person-erika-kirk-t-00-58-14)**
 > "...nmaier writes, it seems to me Erica's moral outrage is manufactured more for an elite t..."
+
+**[00:00:00](/episodes/ep-6DhWawD4ZiM.md#ent-person-erika-kirk-t-00-00-00)**
+> "...w, I wasn't sure about Erika (Erika Kirk)."
+
+**[00:00:59](/episodes/ep-6DhWawD4ZiM.md#ent-person-erika-kirk-t-00-00-46)**
+> "...an opportunity to know Erika (Erika Kirk)."
+
+**[00:02:09](/episodes/ep-6DhWawD4ZiM.md#ent-person-erika-kirk-t-00-02-09)**
+> "...ite into our imaginations how Erika (Erika Kirk) is thinking or how she's feeling or ..."
+
+**[00:06:19](/episodes/ep-6DhWawD4ZiM.md#ent-person-erika-kirk-t-00-06-02)**
+> "...ision that was made by Erika (Erika Kirk) and we can watch that."
+
+**[00:19:15](/episodes/ep-6DhWawD4ZiM.md#ent-person-erika-kirk-t-00-19-15)**
+> "...e broader point, removed from Erika (Erika Kirk), which a lot of these mockingbird in..."
+
+**[00:22:37](/episodes/ep-6DhWawD4ZiM.md#ent-person-erika-kirk-t-00-22-08)**
+> "He's not speaking about Erika (Erika Kirk), obviously."
+
+**[00:36:12](/episodes/ep-6DhWawD4ZiM.md#ent-person-erika-kirk-t-00-36-12)**
+> "...es have been following Erika (Erika Kirk)."
 
 </details>
 
@@ -777,7 +798,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (26 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (67 mentions)</summary>
 
 **[00:00:36](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-00-00)**
 > "...ry Zionist has had to say in the last 24 to 48 hours—almost as though it's scripted. In other news, Erika Kirk sat down with Jesse Watters (Jesse Watters). Now the full interview has not yet aired, but it's alr..."
@@ -856,6 +877,129 @@ _Type: People_
 
 **[00:34:52](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-34-40)**
 > "...atholic topic, which again did not come from Erika (Erika Kirk)?" Okay. It did not come from Erika (Erika Kirk). And I would imagine there are a lot of people that are speaking in your ear. That's what it means..."
+
+**[00:00:36](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-00-00)**
+> "In other news, Erika Kirk sat down with Jesse Watters (Jesse Watters)."
+
+**[00:20:53](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-20-31)**
+> "...completely deranged lie about Erika Kirk (Erika Kirk)."
+
+**[00:20:53](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-20-31)**
+> "...eranged lie about Erika Kirk (Erika Kirk)."
+
+**[00:21:26](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-21-15)**
+> "...Michael Starr) reports, "Mrs. Erika Kirk (Erika Kirk) will accept the award on her husband..."
+
+**[00:21:26](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-21-15)**
+> "...r) reports, "Mrs. Erika Kirk (Erika Kirk) will accept the award on her husband's behalf, a..."
+
+**[00:21:26](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-21-15)**
+> "...arr (Michael Starr) reports, "Mrs. Erika Kirk (Erika Kirk) will accept the award on her husband..."
+
+**[00:22:28](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-21-54)**
+> "How do you just say "Erika Kirk (Erika Kirk) is going to accept this award on beh..."
+
+**[00:22:28](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-21-54)**
+> "... do you just say "Erika Kirk (Erika Kirk) is going to accept this award on behalf of her h..."
+
+**[00:27:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-26-44)**
+> "...er chats—asking me to address Erika Kirk (Erika Kirk). And I guess my question back would ..."
+
+**[00:27:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-26-44)**
+> "...ing me to address Erika Kirk (Erika Kirk). And I guess my question back would be: what—wha..."
+
+**[00:27:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-26-44)**
+> "... All we have seen from Erika (Erika Kirk) has been the speech at the memorial event for Ch..."
+
+**[00:27:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-26-44)**
+> "...erview. All we have seen from Erika (Erika Kirk) has been the speech at the memorial ..."
+
+**[00:28:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-27-53)**
+> "What lie has Erika (Erika Kirk) told that I'm supposed to be focused on, okay?"
+
+**[00:28:17](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-27-53)**
+> "Erika Kirk (Erika Kirk) sat down with Jesse Watters (Jesse W..."
+
+**[00:28:42](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-28-37)**
+> "Erika (Erika Kirk) is also—I think—slated to join Megyn Kelly (Megy..."
+
+**[00:29:07](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-28-37)**
+> "So I feel like Erika (Erika Kirk) is kind of sending a message here that she's not..."
+
+**[00:29:10](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-28-37)**
+> "I said early on: if Erika Kirk (Erika Kirk) asks me to be quiet, I will be quiet..."
+
+**[00:29:10](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-28-37)**
+> "...said early on: if Erika Kirk (Erika Kirk) asks me to be quiet, I will be quiet."
+
+**[00:29:57](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-29-20)**
+> "...to get a lot more from Erika (Erika Kirk), and we're going to see where her mindset is."
+
+**[00:29:57](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-29-20)**
+> "... going to get a lot more from Erika (Erika Kirk), and we're going to see where her mi..."
+
+**[00:30:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-30-01)**
+> "...unsolicited advice for Erika (Erika Kirk), and I appreciate the sentiment of what she's sa..."
+
+**[00:30:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-30-01)**
+> "...e some unsolicited advice for Erika (Erika Kirk), and I appreciate the sentiment of w..."
+
+**[00:30:14](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-30-14)**
+> "(Erika Kirk (Erika Kirk) clip with Jesse Watters (Jesse Watte..."
+
+**[00:30:22](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-30-22)**
+> "Erika Kirk (clip): There were cameras all over my husband wh..."
+
+**[00:30:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-30-22)**
+> "Erika Kirk (clip): There have been cameras all over my frien..."
+
+**[00:30:31](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-30-22)**
+> "Erika Kirk (clip): There have been cameras all over me—analy..."
+
+**[00:30:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-30-22)**
+> "Erika Kirk (clip): We deserve to have cameras in there."
+
+**[00:30:45](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-30-22)**
+> "Erika Kirk (clip): Why not be transparent?"
+
+**[00:30:47](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-30-22)**
+> "Erika Kirk (clip): There's nothing to hide."
+
+**[00:30:49](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-30-22)**
+> "Erika Kirk (clip): I know there's not, because I've seen wha..."
+
+**[00:30:53](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-30-22)**
+> "Erika Kirk (clip): Let everyone see what true evil is."
+
+**[00:30:56](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-30-22)**
+> "Erika Kirk (clip): This is something that could impact a gen..."
+
+**[00:31:23](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-31-02)**
+> "... would not have wanted Erika (Erika Kirk) to—it would not be my—it would not have been my ..."
+
+**[00:31:23](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-31-02)**
+> "...ave been my advice for Erika (Erika Kirk) in a stage of grieving to go from being the wido..."
+
+**[00:31:23](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-31-02)**
+> "was I would not have wanted Erika (Erika Kirk) to—it would not be my—it would not h..."
+
+**[00:31:23](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-31-02)**
+> "...d not have been my advice for Erika (Erika Kirk) in a stage of grieving to go from be..."
+
+**[00:32:13](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-31-47)**
+> "... are being directed at Erika (Erika Kirk)"
+
+**[00:32:13](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-31-47)**
+> "...SA that are being directed at Erika (Erika Kirk)"
+
+**[00:34:46](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-34-40)**
+> "...gain did not come from Erika (Erika Kirk)?""
+
+**[00:34:46](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-34-40)**
+> "...which again did not come from Erika (Erika Kirk)?""
+
+**[00:34:52](/episodes/ep-K1tFD7FfoCU.md#ent-person-erika-kirk-t-00-34-40)**
+> "It did not come from Erika (Erika Kirk)."
 
 </details>
 
@@ -1392,10 +1536,10 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Erika Kirk (29)</strong></summary>
+<summary><strong class="section-title">Statements by Erika Kirk (28)</strong></summary>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (15)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (14)</summary>
 
 - [00:05:25](/episodes/ep-es7PWdFGoFI.md#t-00-04-52) [○] (Claim) ["Turning Point USA employs 650 people"](/statements/statement-7fac3cfc8b41.md)
 
@@ -1418,9 +1562,6 @@ _Type: People_
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Bari Weiss](/entities/person-bari-weiss.md)
 
 - [00:11:37](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) [○] (Claim) ["Rob McCoy does not work with Turning Point USA in any capacity whatsoever"](/statements/statement-40b955ef0d7e.md)
-  - About: [Rob McCoy](/entities/person-rob-mccoy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-
-- [00:11:39](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) [○] (Claim) ["Rob McCoy does not work with Turning Point USA in any capacity"](/statements/statement-038c1d1fe7c1.md)
   - About: [Rob McCoy](/entities/person-rob-mccoy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:14:16](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) [○] (Claim) ["Andrew Kolvet called the surgeon and wrote a tweet about Charlie Kirk's bullet w..."](/statements/statement-e1f8bf06b0d4.md)
@@ -1513,7 +1654,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Erika Kirk (75)</strong></summary>
+<summary><strong class="section-title">Statements about Erika Kirk (74)</strong></summary>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (5)</summary>
@@ -1558,7 +1699,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (28)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (27)</summary>
 
 - [00:02:04](/episodes/ep-es7PWdFGoFI.md#t-00-01-24) (Claim) **Candace Owens**: ["The meeting yesterday was four hours and 30 minutes with no rules. At ..."](/statements/statement-a00acb5ab7d2.md)
   - Also about: [Justin Streiff](/entities/person-justin-streiff.md), [George Farmer](/entities/person-george-farmer.md), [Mia Grant](/entities/person-mia-grant.md)
@@ -1629,9 +1770,6 @@ _Type: People_
 
 - [00:31:28](/episodes/ep-es7PWdFGoFI.md#t-00-31-26) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk said she was not aware of Bibi Netanyahu offering to fund T..."](/statements/statement-aafef4890699.md)
   - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-
-- [01:11:03](/episodes/ep-es7PWdFGoFI.md#t-01-10-18) (Claim) **Candace Owens**: ["Erika Kirk confirmed Charlie Kirk was going to mass and exploring Cath..."](/statements/statement-482759ddf3f8.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [01:11:07](/episodes/ep-es7PWdFGoFI.md#t-01-11-03) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk confirmed that Charlie Kirk was going to Catholic mass"](/statements/statement-bdf5a422d4f3.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)

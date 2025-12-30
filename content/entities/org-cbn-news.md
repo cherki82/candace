@@ -1,6 +1,6 @@
 ---
 title: "CBN News"
-description: "CBN News (Organizations) - 1 mention"
+description: "CBN News (Organizations) - 2 mentions"
 id: "org-cbn-news"
 type: "ORG"
 ---
@@ -13,10 +13,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
 **[00:02:00](/episodes/ep-yAIb-NuUh_U.md#ent-org-cbn-news-t-00-01-23)**
 > "...hicle. He was at the hospital. Well, I just learned that Frank Turek was reacting to me. He went on CBN News recently, and here is what he had to say. (clip of Frank Turek) I have not followed Candace (Candac..."
+
+**[00:02:00](/episodes/ep-yAIb-NuUh_U.md#ent-org-cbn-news-t-00-01-23)**
+> "He went on CBN News recently, and here is what he had to say. (clip o..."
 
 </details>
 

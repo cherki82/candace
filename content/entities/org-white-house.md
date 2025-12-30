@@ -1,6 +1,6 @@
 ---
 title: "White House"
-description: "White House (Organizations) - 39 mentions"
+description: "White House (Organizations) - 43 mentions"
 id: "org-white-house"
 type: "ORG"
 aliases:
@@ -91,10 +91,22 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (5 mentions)</summary>
 
 **[00:27:45](/episodes/ep-mKXdKV-OBog.md#ent-org-white-house-t-00-27-32)**
 > "...hat I don't know. What was it that Karoline Leavitt said? They asked Karoline Leavitt about this at the White House, and she said—and I quote—"The White House was not aware of that meeting, but the president stands ..."
+
+**[00:27:45](/episodes/ep-mKXdKV-OBog.md#ent-org-white-house-t-00-27-32)**
+> "...ine Leavitt about this at the White House, and she said—and I quote—"The White House was no..."
+
+**[00:27:45](/episodes/ep-mKXdKV-OBog.md#ent-org-white-house-t-00-27-32)**
+> "...and she said—and I quote—"The White House was not aware of that meeting, but the president ..."
+
+**[00:27:45](/episodes/ep-mKXdKV-OBog.md#ent-org-white-house-t-00-27-32)**
+> "...aroline Leavitt about this at the White House, and she said—and I quote—"The White House was no..."
+
+**[00:27:45](/episodes/ep-mKXdKV-OBog.md#ent-org-white-house-t-00-27-32)**
+> "...se, and she said—and I quote—"The White House was not aware of that meeting, but the president ..."
 
 </details>
 

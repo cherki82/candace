@@ -1,6 +1,6 @@
 ---
 title: "Blake Neff"
-description: "Blake Neff (People) - 75 mentions"
+description: "Blake Neff (People) - 89 mentions"
 id: "person-blake-neff"
 type: "PERSON"
 aliases:
@@ -40,7 +40,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (18 mentions)</summary>
 
 **[00:26:36](/episodes/ep-6DhWawD4ZiM.md#ent-person-blake-neff-t-00-26-36)**
 > "...week, what we got from Blake (Blake Neff), and I know he's untouchable, he's in the fam, b..."
@@ -53,6 +53,48 @@ _Type: People_
 
 **[00:56:14](/episodes/ep-6DhWawD4ZiM.md#ent-person-blake-neff-t-00-56-08)**
 > "I didn't look into the Blake (Blake Neff) thing or why he left Fox News because I'm just m..."
+
+**[00:26:36](/episodes/ep-6DhWawD4ZiM.md#ent-person-blake-neff-t-00-26-36)**
+> "...t last week, what we got from Blake (Blake Neff), and I know he's untouchable, he's i..."
+
+**[00:26:36](/episodes/ep-6DhWawD4ZiM.md#ent-person-blake-neff-t-00-26-36)**
+> "...what we got from Blake (Blake Neff), and I know he's untouchable, he's in the fam, b..."
+
+**[00:40:03](/episodes/ep-6DhWawD4ZiM.md#ent-person-blake-neff-t-00-26-36)**
+> "...have a positive ID on Captain Neff."
+
+**[00:40:06](/episodes/ep-6DhWawD4ZiM.md#ent-person-blake-neff-t-00-26-36)**
+> "He was not sure what Captain Neff's first name was."
+
+**[00:40:11](/episodes/ep-6DhWawD4ZiM.md#ent-person-blake-neff-t-00-26-36)**
+> "Adam Neff, and I'm sure captains have different names, but ..."
+
+**[00:40:11](/episodes/ep-6DhWawD4ZiM.md#ent-person-blake-neff-t-00-26-36)**
+> "...ave different names, but Adam Neff of the 10th Mountain Division is the individual."
+
+**[00:40:18](/episodes/ep-6DhWawD4ZiM.md#ent-person-blake-neff-t-00-26-36)**
+> "..., and then someone said, Adam Neff, I sent it, and he confirmed that that is the cor..."
+
+**[00:40:27](/episodes/ep-6DhWawD4ZiM.md#ent-person-blake-neff-t-00-26-36)**
+> "... several, obviously, but Adam Neff was leading the interrogation of him."
+
+**[00:42:44](/episodes/ep-6DhWawD4ZiM.md#ent-person-blake-neff-t-00-26-36)**
+> "...lowed him to leave or Captain Neff allowed him to leave."
+
+**[00:45:40](/episodes/ep-6DhWawD4ZiM.md#ent-person-blake-neff-t-00-26-36)**
+> "... oh, is it maybe this Captain Neff?"
+
+**[00:45:47](/episodes/ep-6DhWawD4ZiM.md#ent-person-blake-neff-t-00-26-36)**
+> "... until I gave him the correct Neff."
+
+**[00:56:11](/episodes/ep-6DhWawD4ZiM.md#ent-person-blake-neff-t-00-56-08)**
+> "...making the joke, maybe Blake (Blake Neff)."
+
+**[00:56:11](/episodes/ep-6DhWawD4ZiM.md#ent-person-blake-neff-t-00-56-08)**
+> "... the joke, maybe Blake (Blake Neff)."
+
+**[00:56:14](/episodes/ep-6DhWawD4ZiM.md#ent-person-blake-neff-t-00-56-08)**
+> "...'t look into the Blake (Blake Neff) thing or why he left Fox News because I'm just m..."
 
 </details>
 

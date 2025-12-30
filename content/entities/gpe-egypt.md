@@ -1,6 +1,6 @@
 ---
 title: "Egypt"
-description: "Egypt (Places) - 171 mentions"
+description: "Egypt (Places) - 186 mentions"
 id: "gpe-egypt"
 type: "GPE"
 aliases:
@@ -74,7 +74,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (13 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (14 mentions)</summary>
 
 **[00:01:29](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-egypt-t-00-01-29)**
 > "...rms what I told you about the Egyptian plains."
@@ -114,6 +114,9 @@ _Type: Places_
 
 **[00:58:02](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-egypt-t-00-57-31)**
 > "Are we, what's up with these Egyptian planes?"
+
+**[00:24:41](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-egypt-t-00-24-33)**
+> "...gypt could mean aircraft from Egypt?"
 
 </details>
 
@@ -272,7 +275,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (10 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (21 mentions)</summary>
 
 **[00:00:19](/episodes/ep-mKXdKV-OBog.md#ent-gpe-egypt-t-00-00-00)**
 > "...there was actually this joint military exercise—which was taking place—related exactly to where the Egyptian yellow plane landed on its way to Provo. We need to definitely keep at it. Zionists are mad. I don'..."
@@ -303,6 +306,39 @@ _Type: Places_
 
 **[00:22:17](/episodes/ep-mKXdKV-OBog.md#ent-gpe-egypt-t-00-21-55)**
 > "...f panic, and we're getting a lot of phone calls now from people telling us it has caused panic. The Egyptian planes definitively were pulled into Satis, and that person was then escorted for whatever reason. ..."
+
+**[00:00:19](/episodes/ep-mKXdKV-OBog.md#ent-gpe-egypt-t-00-00-00)**
+> "...—related exactly to where the Egyptian yellow plane landed on its way to Provo."
+
+**[00:04:55](/episodes/ep-mKXdKV-OBog.md#ent-gpe-egypt-t-00-04-21)**
+> "...ssion happening regarding the Egyptian planes."
+
+**[00:11:30](/episodes/ep-mKXdKV-OBog.md#ent-gpe-egypt-t-00-11-30)**
+> "...vestment delegation to Cairo, Egypt."
+
+**[00:11:54](/episodes/ep-mKXdKV-OBog.md#ent-gpe-egypt-t-00-11-30)**
+> "...ou got this plane from Cairo, Egypt, and we're gonna pull this up and show you."
+
+**[00:12:13](/episodes/ep-mKXdKV-OBog.md#ent-gpe-egypt-t-00-12-13)**
+> "...ission, investment mission to Egypt later this year."
+
+**[00:12:22](/episodes/ep-mKXdKV-OBog.md#ent-gpe-egypt-t-00-12-13)**
+> "Egypt's position in North Africa makes it an ideal gatewa..."
+
+**[00:12:22](/episodes/ep-mKXdKV-OBog.md#ent-gpe-egypt-t-00-12-13)**
+> "...xcels in several sectors that Egypt is keen to invest in,"
+
+**[00:12:47](/episodes/ep-mKXdKV-OBog.md#ent-gpe-egypt-t-00-12-13)**
+> "... in joining the delegation to Egypt can visit the Secretary of State's website or con..."
+
+**[00:13:06](/episodes/ep-mKXdKV-OBog.md#ent-gpe-egypt-t-00-12-57)**
+> "...Hey, we should go to Cairo or Egypt," and it happens to line up with this plane that ..."
+
+**[00:17:57](/episodes/ep-mKXdKV-OBog.md#ent-gpe-egypt-t-00-17-38)**
+> "... planes, SUBTT and SUBNT, are Egyptian military planes."
+
+**[00:22:17](/episodes/ep-mKXdKV-OBog.md#ent-gpe-egypt-t-00-21-55)**
+> "The Egyptian planes definitively were pulled into Satis, and t..."
 
 </details>
 
@@ -492,7 +528,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4 mentions)</summary>
 
 **[00:50:28](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-egypt-t-00-50-11)**
 > "...re week because he got swept up into something. So that was a cancellation. The second thing is the Egyptian plane. That—the thing about the Egyptian plane—is so explosive. Like I said to you, I had to try to..."
@@ -500,13 +536,22 @@ _Type: Places_
 **[00:50:30](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-egypt-t-00-50-11)**
 > "...thing. So that was a cancellation. The second thing is the Egyptian plane. That—the thing about the Egyptian plane—is so explosive. Like I said to you, I had to try to get this to the right people in governme..."
 
+**[00:50:28](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-egypt-t-00-50-11)**
+> "The second thing is the Egyptian plane."
+
+**[00:50:30](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-egypt-t-00-50-11)**
+> "That—the thing about the Egyptian plane—is so explosive."
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
 **[00:37:01](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-egypt-t-00-36-27)**
 > "...S that we've heard. I also want to say to you guys, I know that I promised you we would discuss the Egyptian Plains. What we have discovered is actually so big that I had to go through the proper channels to ..."
+
+**[00:37:01](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-egypt-t-00-36-27)**
+> "...ised you we would discuss the Egyptian planes."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Volodymyr Zelensky"
-description: "Volodymyr Zelensky (People) - 7 mentions"
+description: "Volodymyr Zelensky (People) - 8 mentions"
 id: "person-volodymyr-zelensky"
 type: "PERSON"
 aliases:
@@ -39,10 +39,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
 
 **[00:11:15](/episodes/ep-K1tFD7FfoCU.md#ent-person-volodymyr-zelensky-t-00-10-58)**
 > "...hat Justin Trudeau (Justin Trudeau) is gay. Candace Owens (clip): Obama, gay. Candace Owens (clip): Zelensky (Zelensky), gay. Candace Owens (clip): Emmanuel Macron (Emmanuel Macron), gay and married to a tran..."
+
+**[00:11:15](/episodes/ep-K1tFD7FfoCU.md#ent-person-volodymyr-zelensky-t-00-10-58)**
+> "Zelensky (Zelensky), gay."
 
 </details>
 

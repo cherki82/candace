@@ -1,6 +1,6 @@
 ---
 title: "Ukraine"
-description: "Ukraine (Places) - 43 mentions"
+description: "Ukraine (Places) - 48 mentions"
 id: "gpe-ukraine"
 type: "GPE"
 aliases:
@@ -59,10 +59,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:17:38](/episodes/ep-mKXdKV-OBog.md#ent-gpe-ukraine-t-00-17-38)**
 > "...turn himself in, who's working? He's very much involved in the military. I believe with shooting in Ukraine, of all places. It's getting shady. And of course, our now infamous planes, SUBTT and SUBNT, are Eg..."
+
+**[00:17:38](/episodes/ep-mKXdKV-OBog.md#ent-gpe-ukraine-t-00-17-38)**
+> "...y. I believe with shooting in Ukraine, of all places."
 
 </details>
 
@@ -95,7 +98,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (3 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (6 mentions)</summary>
 
 **[00:32:07](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-ukraine-t-00-31-29)**
 > "...t in Israel and its long arm across the world. I told you Charlie (Charlie Kirk) was hitting at the Ukraine stuff. That was a part of my timeline. That's when you really start to see Turning Point Faith ratc..."
@@ -105,6 +108,15 @@ _Type: Places_
 
 **[00:32:17](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-ukraine-t-00-32-11)**
 > "...atchet up—is when Charlie (Charlie Kirk) is going day in and day out speaking about what goes on in Ukraine, speaking about the trafficking of kids in Ukraine. He's just tweeting every day about that stuff. ..."
+
+**[00:32:07](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-ukraine-t-00-31-29)**
+> "...rlie Kirk) was hitting at the Ukraine stuff."
+
+**[00:32:17](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-ukraine-t-00-32-11)**
+> "...peaking about what goes on in Ukraine, speaking about the trafficking of kids in Ukrain..."
+
+**[00:32:17](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-ukraine-t-00-32-11)**
+> "...ut the trafficking of kids in Ukraine."
 
 </details>
 
@@ -117,10 +129,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
 
 **[00:06:29](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-ukraine-t-00-06-07)**
 > "... they go after him. That's also why they fired him from Fox because he was speaking out against the Ukrainian war, and that was not allowed. They thought that firing him would effectively ruin him, and he woul..."
+
+**[00:06:29](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-ukraine-t-00-06-07)**
+> "... was speaking out against the Ukrainian war, and that was not allowed."
 
 </details>
 

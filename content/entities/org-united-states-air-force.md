@@ -1,6 +1,6 @@
 ---
 title: "United States Air Force"
-description: "United States Air Force (Organizations) - 38 mentions"
+description: "United States Air Force (Organizations) - 50 mentions"
 id: "org-united-states-air-force"
 type: "ORG"
 aliases:
@@ -84,7 +84,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (12 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (24 mentions)</summary>
 
 **[00:05:58](/episodes/ep-mKXdKV-OBog.md#ent-org-united-states-air-force-t-00-05-45)**
 > "...r 4th. You might recall it stopped for just one hour in Minot, North Dakota, which I learned has an Air Force base. It pretty much is just the Air Force base, by the way, before making its way onto Provo. And ..."
@@ -121,6 +121,42 @@ _Type: Organizations_
 
 **[00:17:26](/episodes/ep-mKXdKV-OBog.md#ent-org-united-states-air-force-t-00-17-10)**
 > "...oint. But Burton Hibbs—Butch—is the brother of Pastor Jack Hibbs. Obviously sons—I showed you—of an Air Force chief. Tyler Robinson is a Boy Scout whose Uncle Mitchell may be related. People have pulled this o..."
+
+**[00:05:58](/episodes/ep-mKXdKV-OBog.md#ent-org-united-states-air-force-t-00-05-45)**
+> "...akota, which I learned has an Air Force base."
+
+**[00:06:06](/episodes/ep-mKXdKV-OBog.md#ent-org-united-states-air-force-t-00-05-45)**
+> "It pretty much is just the Air Force base, by the way, before making its way onto Prov..."
+
+**[00:06:34](/episodes/ep-mKXdKV-OBog.md#ent-org-united-states-air-force-t-00-06-30)**
+> "...BI office, but it also has an Air Force base among other tenants."
+
+**[00:06:40](/episodes/ep-mKXdKV-OBog.md#ent-org-united-states-air-force-t-00-06-30)**
+> "That Air Force base is home to the 891st Missile Security Forces..."
+
+**[00:07:43](/episodes/ep-mKXdKV-OBog.md#ent-org-united-states-air-force-t-00-07-13)**
+> "... stationed there at the Minot Air Force."
+
+**[00:08:36](/episodes/ep-mKXdKV-OBog.md#ent-org-united-states-air-force-t-00-08-31)**
+> "So this is on the Minot Air Force Base website."
+
+**[00:08:40](/episodes/ep-mKXdKV-OBog.md#ent-org-united-states-air-force-t-00-08-31)**
+> "...the 891st Squadron from Minot Air Force Base, North Dakota, traveled to Camp Ripley Train..."
+
+**[00:09:13](/episodes/ep-mKXdKV-OBog.md#ent-org-united-states-air-force-t-00-09-13)**
+> "at the Minot Air Force Base, including full-distance live-fire exercises..."
+
+**[00:09:18](/episodes/ep-mKXdKV-OBog.md#ent-org-united-states-air-force-t-00-09-13)**
+> "... the capabilities of standard Air Force 25-meter training ranges."
+
+**[00:15:00](/episodes/ep-mKXdKV-OBog.md#ent-org-united-states-air-force-t-00-15-00)**
+> "...t who did his residency at an Air Force base."
+
+**[00:15:30](/episodes/ep-mKXdKV-OBog.md#ent-org-united-states-air-force-t-00-15-00)**
+> "His sons are in the Air Force."
+
+**[00:17:26](/episodes/ep-mKXdKV-OBog.md#ent-org-united-states-air-force-t-00-17-10)**
+> "an Air Force chief."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Minot Air Force Base"
-description: "Minot Air Force Base (Organizations) - 5 mentions"
+description: "Minot Air Force Base (Organizations) - 8 mentions"
 id: "org-minot-air-force-base"
 type: "ORG"
 ---
@@ -21,7 +21,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (7 mentions)</summary>
 
 **[00:06:06](/episodes/ep-mKXdKV-OBog.md#ent-org-minot-air-force-base-t-00-08-31)**
 > "Minot Air Force Base in North Dakota"
@@ -34,6 +34,15 @@ _Type: Organizations_
 
 **[00:09:13](/episodes/ep-mKXdKV-OBog.md#ent-org-minot-air-force-base-t-00-09-13)**
 > "...ng, called Operation Valhalla Strike, allowed the unit to complete requirements not possible at the Minot Air Force Base, including full-distance live-fire exercises. Camp Ripley provided full-distance firing ranges, whi..."
+
+**[00:08:36](/episodes/ep-mKXdKV-OBog.md#ent-org-minot-air-force-base-t-00-08-31)**
+> "So this is on the Minot Air Force Base website."
+
+**[00:08:40](/episodes/ep-mKXdKV-OBog.md#ent-org-minot-air-force-base-t-00-08-31)**
+> "...where the 891st Squadron from Minot Air Force Base, North Dakota, traveled to Camp Ripley Training C..."
+
+**[00:09:13](/episodes/ep-mKXdKV-OBog.md#ent-org-minot-air-force-base-t-00-09-13)**
+> "at the Minot Air Force Base, including full-distance live-fire exercises."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Babylon Bee"
-description: "Babylon Bee (Organizations) - 4 mentions"
+description: "Babylon Bee (Organizations) - 5 mentions"
 id: "org-babylon-bee"
 type: "ORG"
 ---
@@ -13,10 +13,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
 **[00:45:40](/episodes/ep-yAIb-NuUh_U.md#ent-org-babylon-bee-t-00-45-19)**
 > "...lexis Wilkins. She's also a member of the Calvary Chapel Church in California—Chino Hills. Also the Babylon Bee guy—I can't think of his name right now—is also involved in the Calvary Chapel. We gotta look into ..."
+
+**[00:45:40](/episodes/ep-yAIb-NuUh_U.md#ent-org-babylon-bee-t-00-45-19)**
+> "Also the Babylon Bee guy—I can't think of his name right now—is also i..."
 
 </details>
 

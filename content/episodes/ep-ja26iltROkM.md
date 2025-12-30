@@ -275,7 +275,7 @@ youtube_url: "https://www.youtube.com/watch?v=ja26iltROkM"
 </details>
 
 <details>
-<summary><strong>Statements (65)</strong></summary>
+<summary><strong>Statements (62)</strong></summary>
 
 - [00:00:31](#t-00-00-00) [○] (Claim) **Candace Owens**: ["Erika Kirk gave a speech calling for forgiveness instead of calling for war"](/statements/statement-0d027080c33e.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md)
@@ -343,8 +343,6 @@ youtube_url: "https://www.youtube.com/watch?v=ja26iltROkM"
   - About: [Derek Maxfield](/entities/person-derek-maxfield.md), [FBI](/entities/org-fbi.md)
 - [00:20:58](#t-00-20-23) [○] (Claim) **Candace Owens**: ["There is a massive underground pipeline and irrigation system beneath where Char..."](/statements/statement-7892635a1601.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [00:21:15](#t-00-21-03) [○] (Claim) **Candace Owens**: ["There was a massive underground pipeline and irrigation system beneath where Cha..."](/statements/statement-dc030dba6e2e.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:23:04](#t-00-22-30) [○] (Claim) **Candace Owens**: ["The feds repaved the area where Charlie Kirk was shot within 48 hours"](/statements/statement-742f1dcda481.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:23:45](#t-00-23-16) [○] (Claim) **Candace Owens**: ["Somebody reported me to the FBI and the CIA"](/statements/statement-ba5c4e1c78ce.md)
@@ -393,14 +391,10 @@ youtube_url: "https://www.youtube.com/watch?v=ja26iltROkM"
 - [00:56:18](#t-00-55-47) [○] (Claim) **Candace Owens**: ["Intelligence agencies recruit heavily from the Latter-day Saints church and spec..."](/statements/statement-cb37aaa5f1e6.md)
 - [00:58:02](#t-00-57-53) [○] (Claim) **Candace Owens**: ["Benjamin Netanyahu gave 150 million dollars for Operation Mockingpastor when pas..."](/statements/statement-1585cafed12f.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Candace Owens](/entities/person-candace-owens.md)
-- [00:58:03](#t-00-57-53) [○] (Claim) **Candace Owens**: ["Benjamin Netanyahu offered Charlie Kirk a boatload of money, and he rejected it"](/statements/statement-ecd5008986d2.md)
-  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:58:08](#t-00-57-53) [○] (Claim) **Candace Owens**: ["Benjamin Netanyahu gave 150 million dollars for Operation Mockingpastor - a camp..."](/statements/statement-5ec6141c5921.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Candace Owens](/entities/person-candace-owens.md)
 - [00:58:30](#t-00-57-53) [○] (Claim) **Candace Owens**: ["Benjamin Netanyahu offered Charlie Kirk a boatload of money and he rejected it"](/statements/statement-f4674965f90a.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
-- [00:59:13](#t-00-58-36) [○] (Claim) **Candace Owens**: ["Bob Schulman withdrew millions of dollars from Turning Point and wanted his name..."](/statements/statement-87fd2dea2d9d.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:59:53](#t-00-59-15) [○] (Claim) **Candace Owens**: ["Bob Schulman withdrew millions of dollars from Turning Point USA and wanted his ..."](/statements/statement-79ee9e48b4da.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 

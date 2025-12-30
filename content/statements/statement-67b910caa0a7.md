@@ -23,13 +23,23 @@ type: "factual_claim"
 - [George Zinn](/entities/person-george-zinn.md) (person)
 - [Utah Valley Hospital](/entities/org-utah-valley-hospital.md) (org)
 
-## Source
+## Appearances (2)
+
+### 1. Erika And I Sat Down. Here’s What Happened. | Candace Ep 280
 
 **Episode:** [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md)
 **Timestamp:** [00:56:46](/episodes/ep-es7PWdFGoFI.md#t-00-56-34) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3406);return false;">Play</a>
 
 > I broke the story that the nurses were told at Utah Valley, which treated George Zinn. Everyone's ignoring the things that I broke. She has no evidence, but he said he told the nurses that he was paid to do that
+
+### 2. Erika And I Sat Down. Here’s What Happened. | Candace Ep 280
+
+**Episode:** [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md)
+**Timestamp:** [00:56:47](/episodes/ep-es7PWdFGoFI.md#t-00-56-34) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3407);return false;">Play</a>
+
+> I broke the story that the nurses were told at Utah Valley, which treated George (George Farmer) Zinn. Everyone's ignoring the things that I broke. She has no evidence, but he said he told the nurses that he was paid to do that.
 
 ## Verification
 

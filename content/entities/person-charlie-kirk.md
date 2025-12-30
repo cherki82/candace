@@ -1,6 +1,6 @@
 ---
 title: "Charlie Kirk"
-description: "Charlie Kirk (People) - 2627 mentions"
+description: "Charlie Kirk (People) - 2914 mentions"
 id: "person-charlie-kirk"
 type: "PERSON"
 aliases:
@@ -558,7 +558,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (37 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (41 mentions)</summary>
 
 **[00:00:11](/episodes/ep-6DhWawD4ZiM.md#ent-person-charlie-kirk-t-00-00-46)**
 > "we knew Charlie and now we are getting an opportunity to know Erika"
@@ -632,7 +632,7 @@ _Type: People_
 **[00:18:24](/episodes/ep-6DhWawD4ZiM.md#ent-person-charlie-kirk-t-00-18-00)**
 > "... and you're in the room, like Charlie Kirk did, and you have proven to the public, like, hey..."
 
-**[00:19:01](/episodes/ep-6DhWawD4ZiM.md#ent-person-charlie-kirk-t-00-18-38)**
+**[00:19:01](/episodes/ep-6DhWawD4ZiM.md#ent-person-charlie-kirk-t-00-18-00)**
 > "...ight now, because this is the Charlie Kirk Show fam."
 
 **[00:24:16](/episodes/ep-6DhWawD4ZiM.md#ent-person-charlie-kirk-t-00-23-49)**
@@ -670,6 +670,18 @@ _Type: People_
 
 **[00:59:14](/episodes/ep-6DhWawD4ZiM.md#ent-person-charlie-kirk-t-00-58-55)**
 > "...y knew us, nobody knew me and Charlie, and we could get on stage and we could convince ..."
+
+**[00:03:44](/episodes/ep-6DhWawD4ZiM.md#ent-person-charlie-kirk-t-00-03-31)**
+> "...style for our Charlie, for my Charlie."
+
+**[00:10:28](/episodes/ep-6DhWawD4ZiM.md#ent-person-charlie-kirk-t-00-10-28)**
+> "...dy and basically say Charlie, Charlie loved you."
+
+**[00:18:24](/episodes/ep-6DhWawD4ZiM.md#ent-person-charlie-kirk-t-00-18-00)**
+> "...ng this for over a decade, as Charlie Kirk did, you've earned that street cred, okay?"
+
+**[00:27:13](/episodes/ep-6DhWawD4ZiM.md#ent-person-charlie-kirk-t-00-27-13)**
+> "...cause Charlie worked, we knew Charlie was, because he was authentic, okay?"
 
 </details>
 
@@ -1582,7 +1594,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (29 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (84 mentions)</summary>
 
 **[00:00:04](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-00-00)**
 > "...ench company—the Satis angle has opened up a whole new level of possibilities here in this Charlie (Charlie Kirk) assassination story. And I have to tell you, I do not think that they were just painting planes th..."
@@ -1670,6 +1682,171 @@ _Type: People_
 
 **[00:43:15](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-42-51)**
 > "...fact that it's very real. And that was obviously in large part due to my contacts that saw Charlie (Charlie Kirk)'s body and can't deny that. L of the Wanger writes: "I lost the cringe challenge." What? You didn'..."
+
+**[00:00:04](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-00-00)**
+> "...ilities here in this Charlie (Charlie Kirk) assassination story."
+
+**[00:00:04](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-00-00)**
+> "...of possibilities here in this Charlie (Charlie Kirk) assassination story."
+
+**[00:00:19](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-00-00)**
+> "...ned that just before Charlie (Charlie Kirk)'s assassination, there was actually this joint m..."
+
+**[00:00:19](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-00-00)**
+> "...e've learned that just before Charlie (Charlie Kirk)'s assassination, there was actuall..."
+
+**[00:00:43](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-00-43)**
+> "... getting closer, and Charlie (Charlie Kirk) would indeed want us to keep going max."
+
+**[00:00:43](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-00-43)**
+> "...use we're getting closer, and Charlie (Charlie Kirk) would indeed want us to keep going..."
+
+**[00:01:06](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-00-43)**
+> "...view that I did with Charlie (Charlie Kirk) back when my show was on PragerU's network is be..."
+
+**[00:01:06](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-00-43)**
+> "...hat interview that I did with Charlie (Charlie Kirk) back when my show was on PragerU's..."
+
+**[00:01:21](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-00-43)**
+> "...ion that came in for Charlie (Charlie Kirk), and this is how Charlie (Charlie Kirk) chose to..."
+
+**[00:01:21](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-00-43)**
+> "...rk), and this is how Charlie (Charlie Kirk) chose to answer that question."
+
+**[00:01:21](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-00-43)**
+> "...the question that came in for Charlie (Charlie Kirk), and this is how Charlie (Charlie ..."
+
+**[00:01:21](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-00-43)**
+> "...harlie Kirk), and this is how Charlie (Charlie Kirk) chose to answer that question."
+
+**[00:01:29](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-01-28)**
+> "...Clip from past interview with Charlie Kirk) Okay, who is—I already know this; you kind of re..."
+
+**[00:04:30](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-04-21)**
+> "... of betrayal against Charlie (Charlie Kirk)?"
+
+**[00:04:30](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-04-21)**
+> "... this act of betrayal against Charlie (Charlie Kirk)?"
+
+**[00:05:02](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-05-02)**
+> "...d the key to solving Charlie (Charlie Kirk)'s assassination."
+
+**[00:05:02](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-05-02)**
+> "... they hold the key to solving Charlie (Charlie Kirk)'s assassination."
+
+**[00:05:25](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-05-02)**
+> "Charlie (Charlie Kirk)'s assassination—who flew from Provo and landed i..."
+
+**[00:05:25](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-05-02)**
+> "...e, on the morning of Charlie (Charlie Kirk)'s assassination."
+
+**[00:05:25](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-05-02)**
+> "..., Delaware, on the morning of Charlie (Charlie Kirk)'s assassination."
+
+**[00:07:04](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-06-30)**
+> "...Lastly, to my friend Charlie (Charlie Kirk), rest now, my brother."
+
+**[00:07:04](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-06-30)**
+> "... quote, "Lastly, to my friend Charlie (Charlie Kirk), rest now, my brother."
+
+**[00:08:03](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-07-51)**
+> "... weeks leading up to Charlie (Charlie Kirk)'s assassination—I mean, literally what he says—A..."
+
+**[00:08:03](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-07-51)**
+> "...at in the weeks leading up to Charlie (Charlie Kirk)'s assassination—I mean, literally ..."
+
+**[00:10:32](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-10-32)**
+> "...Lastly, to my friend Charlie (Charlie Kirk):"
+
+**[00:10:32](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-10-32)**
+> "...el clip) Lastly, to my friend Charlie (Charlie Kirk):"
+
+**[00:13:45](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-13-39)**
+> "... minus 12 days until Charlie (Charlie Kirk) is going to be assassinated."
+
+**[00:13:45](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-13-39)**
+> "...g about T minus 12 days until Charlie (Charlie Kirk) is going to be assassinated."
+
+**[00:14:28](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-14-17)**
+> "...ctually fighting for Charlie (Charlie Kirk), people that are actually going max and telling ..."
+
+**[00:14:28](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-14-17)**
+> "...hat are actually fighting for Charlie (Charlie Kirk), people that are actually going ma..."
+
+**[00:14:47](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-14-17)**
+> "Charlie (Charlie Kirk)'s surgeon, Dr. Lee Trotter—the alleged surgeon w..."
+
+**[00:15:10](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-15-00)**
+> "...he medical examiner, Charlie (Charlie Kirk)'s medical examiner, who they've curiously not wa..."
+
+**[00:15:10](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-15-00)**
+> "...maro—is the medical examiner, Charlie (Charlie Kirk)'s medical examiner, who they've cu..."
+
+**[00:16:50](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-16-27)**
+> "Jack Hibbs phones up Charlie (Charlie Kirk); he's like, "Hey, can my brother come?"
+
+**[00:16:58](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-16-27)**
+> "...der people just love Charlie (Charlie Kirk) in Utah."
+
+**[00:16:58](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-16-27)**
+> "Older people just love Charlie (Charlie Kirk) in Utah."
+
+**[00:17:04](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-16-27)**
+> "...day who went to hear Charlie (Charlie Kirk) speak—probably because they barely advertised th..."
+
+**[00:17:04](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-16-27)**
+> "...pus that day who went to hear Charlie (Charlie Kirk) speak—probably because they barely..."
+
+**[00:19:49](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-19-46)**
+> "...ollow-up posts about Charlie (Charlie Kirk)."
+
+**[00:19:49](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-19-46)**
+> "... do any follow-up posts about Charlie (Charlie Kirk)."
+
+**[00:20:05](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-19-46)**
+> "... family posted about Charlie (Charlie Kirk)."
+
+**[00:20:05](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-19-46)**
+> "...dy in his family posted about Charlie (Charlie Kirk)."
+
+**[00:20:07](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-19-46)**
+> "...eat, and you watched Charlie (Charlie Kirk) die."
+
+**[00:20:07](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-19-46)**
+> "...ont-row seat, and you watched Charlie (Charlie Kirk) die."
+
+**[00:20:47](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-20-28)**
+> "...from all over to see Charlie (Charlie Kirk). You wanted to control what videos were going to..."
+
+**[00:20:47](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-20-28)**
+> "...iving in from all over to see Charlie (Charlie Kirk). You wanted to control what videos..."
+
+**[00:30:01](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-29-33)**
+> "the death of Charlie (Charlie Kirk), and the Becoming Brigitte series."
+
+**[00:39:44](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-39-36)**
+> "... from having watched Charlie (Charlie Kirk)'s assassination."
+
+**[00:39:44](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-39-36)**
+> "...ally sick from having watched Charlie (Charlie Kirk)'s assassination."
+
+**[00:39:58](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-39-58)**
+> "..., I didn't even know—Charlie (Charlie Kirk), it was just—I don't know. I am tremendously—if ..."
+
+**[00:39:58](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-39-58)**
+> "...rtunately, I didn't even know—Charlie (Charlie Kirk), it was just—I don't know. I am tr..."
+
+**[00:42:42](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-42-07)**
+> "...want to believe that Charlie (Charlie Kirk) is in witness protection—that the FBI and the PO..."
+
+**[00:42:42](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-42-07)**
+> "..., really want to believe that Charlie (Charlie Kirk) is in witness protection—that the ..."
+
+**[00:43:15](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-42-51)**
+> "...my contacts that saw Charlie (Charlie Kirk)'s body and can't deny that."
+
+**[00:43:15](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-42-51)**
+> "...t due to my contacts that saw Charlie (Charlie Kirk)'s body and can't deny that."
 
 </details>
 
@@ -2258,7 +2435,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (19 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (52 mentions)</summary>
 
 **[00:00:44](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-00-44)**
 > "...ndemn him despite insistence from the brood of vipers. I don't know how it's possible, but Charlie (Charlie Kirk)'s assassination is pulling in all of these elements. And we need to speak a lot more about the Cal..."
@@ -2317,10 +2494,109 @@ _Type: People_
 **[00:59:03](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-58-48)**
 > "...you guys. A long week homeschooling. I also said to you that I would address who yelled at Charlie (Charlie Kirk), and I totally forgot to get the last name of that person until I saw it in the notes just now. Bu..."
 
+**[00:00:44](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-00-44)**
+> "...w it's possible, but Charlie (Charlie Kirk)'s assassination is pulling in all of these eleme..."
+
+**[00:00:44](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-00-44)**
+> "...t know how it's possible, but Charlie (Charlie Kirk)'s assassination is pulling in all ..."
+
+**[00:03:40](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-03-30)**
+> "Somehow, the Charlie (Charlie Kirk) Kirk assassination is bringing together every si..."
+
+**[00:04:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-03-30)**
+> "...s) investigating the Charlie (Charlie Kirk) Kirk assassination is crazy."
+
+**[00:04:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-03-30)**
+> "...dace Owens) investigating the Charlie (Charlie Kirk) Kirk assassination is crazy."
+
+**[00:20:23](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-20-23)**
+> "...nd I am certain that Charlie (Charlie Kirk) was also going through that process as well—wher..."
+
+**[00:20:23](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-20-23)**
+> "...in 2024—and I am certain that Charlie (Charlie Kirk) was also going through that proces..."
+
+**[00:21:04](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-21-04)**
+> ""Charlie (Charlie Kirk), if you go down this route of perfect sense—if y..."
+
+**[00:25:15](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-25-15)**
+> "...ce, Michael Jackson, Charlie (Charlie Kirk)."
+
+**[00:25:15](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-25-15)**
+> "...ain, Prince, Michael Jackson, Charlie (Charlie Kirk)."
+
+**[00:31:33](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-31-33)**
+> "...d I remember you and Charlie (Charlie Kirk) running around, and I went—yeah, that shifted pr..."
+
+**[00:31:33](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-31-33)**
+> "And I remember you and Charlie (Charlie Kirk) running around, and I went—yeah, t..."
+
+**[00:35:37](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-35-35)**
+> "... the Hamptons before Charlie (Charlie Kirk) died."
+
+**[00:35:37](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-35-35)**
+> "...ppened in the Hamptons before Charlie (Charlie Kirk) died."
+
+**[00:37:10](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-36-56)**
+> "...umping back into the Charlie (Charlie Kirk) Kirk story."
+
+**[00:37:10](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-36-56)**
+> "Anyway, jumping back into the Charlie (Charlie Kirk) Kirk story."
+
+**[00:37:29](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-36-56)**
+> "... a listen. (Candace Owens and Charlie Kirk clip)"
+
+**[00:37:31](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-37-31)**
+> "...e or that you follow Charlie (Charlie Kirk) that this has by any means been easy."
+
+**[00:37:31](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-37-31)**
+> "... follow me or that you follow Charlie (Charlie Kirk) that this has by any means been ea..."
+
+**[00:39:20](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-39-00)**
+> "...convince masses that Charlie (Charlie Kirk) Kirk and I weren't friends. I will never get ove..."
+
+**[00:39:20](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-39-00)**
+> "...tory and convince masses that Charlie (Charlie Kirk) Kirk and I weren't friends. I will..."
+
+**[00:41:18](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-41-10)**
+> "And when Charlie (Charlie Kirk) goes down, he stood out to me because everyone d..."
+
+**[00:43:40](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-43-14)**
+> "...hing as he was not a Charlie (Charlie Kirk) Kirk fan."
+
+**[00:43:40](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-43-14)**
+> "...ng everything as he was not a Charlie (Charlie Kirk) Kirk fan."
+
+**[00:47:05](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-46-25)**
+> "...t I don't think that Charlie (Charlie Kirk) can survive this unless the EMTs were close."
+
+**[00:47:05](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-46-25)**
+> "But I don't think that Charlie (Charlie Kirk) can survive this unless the EMTs w..."
+
+**[00:47:45](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-47-26)**
+> "...inchpin of this is a Charlie (Charlie Kirk) Kirk assassination. And we are really understand..."
+
+**[00:47:45](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-47-26)**
+> "...and the linchpin of this is a Charlie (Charlie Kirk) Kirk assassination. And we are rea..."
+
+**[00:53:34](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-53-05)**
+> ""You are Charlie (Charlie Kirk)'s David.""
+
+**[00:56:36](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-56-36)**
+> "...he work she's done. "Charlie (Charlie Kirk) Kirk's TPUSA heiress" is how we're describing he..."
+
+**[00:56:36](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-56-36)**
+> "...lie and the work she's done. "Charlie (Charlie Kirk) Kirk's TPUSA heiress" is how we're..."
+
+**[00:59:03](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-58-48)**
+> "...ddress who yelled at Charlie (Charlie Kirk), and I totally forgot to get the last name of th..."
+
+**[00:59:03](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-58-48)**
+> "...I would address who yelled at Charlie (Charlie Kirk), and I totally forgot to get the l..."
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (38 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (100 mentions)</summary>
 
 **[00:00:03](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-00-01)**
 > "All right, you guys. Happy Thursday. Now somebody sent me this throwback clip from Charlie (Charlie Kirk) and me back when I had a show on PragerU. We were discussing the kind of allies that you need when..."
@@ -2435,6 +2711,192 @@ _Type: People_
 
 **[01:01:09](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-01-00-44)**
 > "... And I'm willing to take all of these figurative bullets from the foxhole. I've always had Charlie (Charlie Kirk)'s back. He's always had mine. I'm not gonna stop doing that. I don't care who makes a video. I don..."
+
+**[00:00:03](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-00-01)**
+> "... throwback clip from Charlie (Charlie Kirk) and me back when I had a show on PragerU."
+
+**[00:00:03](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-00-01)**
+> "...t me this throwback clip from Charlie (Charlie Kirk) and me back when I had a show on P..."
+
+**[00:00:57](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-00-37)**
+> "... we are learning who Charlie (Charlie Kirk)'s real allies are and who his real allies were."
+
+**[00:00:57](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-00-37)**
+> "And we are learning who Charlie (Charlie Kirk)'s real allies are and who his real..."
+
+**[00:01:20](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-00-37)**
+> "Who were Charlie (Charlie Kirk)'s real friends?"
+
+**[00:01:39](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-01-23)**
+> "...iend who was next to Charlie (Charlie Kirk)."
+
+**[00:01:39](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-01-23)**
+> "...pastor friend who was next to Charlie (Charlie Kirk)."
+
+**[00:01:51](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-01-23)**
+> "...e that helped to get Charlie (Charlie Kirk) to the vehicle."
+
+**[00:01:51](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-01-23)**
+> "...the people that helped to get Charlie (Charlie Kirk) to the vehicle."
+
+**[00:02:09](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-02-06)**
+> "...was a good friend of Charlie (Charlie Kirk) years ago."
+
+**[00:02:09](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-02-06)**
+> "...know she was a good friend of Charlie (Charlie Kirk) years ago."
+
+**[00:02:11](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-02-06)**
+> "...ct, when I first met Charlie (Charlie Kirk), I said, "You know, tell me a little about your ..."
+
+**[00:02:11](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-02-06)**
+> "In fact, when I first met Charlie (Charlie Kirk), I said, "You know, tell me a litt..."
+
+**[00:02:24](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-02-06)**
+> "And Charlie (Charlie Kirk) would never speak ill of anybody privately unles..."
+
+**[00:02:33](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-02-06)**
+> "So Charlie (Charlie Kirk) never said anything bad about Candace (Candace O..."
+
+**[00:02:46](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-02-46)**
+> "...tions—TPUSA betrayed Charlie (Charlie Kirk)."
+
+**[00:02:46](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-02-46)**
+> "...ng accusations—TPUSA betrayed Charlie (Charlie Kirk)."
+
+**[00:02:56](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-02-46)**
+> "I had a dream that Charlie (Charlie Kirk) told me this."
+
+**[00:03:18](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-02-46)**
+> "...cast two weeks after Charlie (Charlie Kirk)'s martyrdom."
+
+**[00:03:18](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-02-46)**
+> "...on my podcast two weeks after Charlie (Charlie Kirk)'s martyrdom."
+
+**[00:03:43](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-03-41)**
+> "...t I had a dream that Charlie (Charlie Kirk) was betrayed, right?"
+
+**[00:03:43](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-03-41)**
+> "... said that I had a dream that Charlie (Charlie Kirk) was betrayed, right?"
+
+**[00:05:29](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-05-06)**
+> "... questions about why Charlie (Charlie Kirk) wanted to put together the DOGE Committee, how w..."
+
+**[00:05:29](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-05-06)**
+> "... answered questions about why Charlie (Charlie Kirk) wanted to put together the DOGE Co..."
+
+**[00:06:33](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-06-31)**
+> "...blic—we all knew who Charlie (Charlie Kirk) was as a human being, okay?"
+
+**[00:06:33](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-06-31)**
+> "...ew—the public—we all knew who Charlie (Charlie Kirk) was as a human being, okay?"
+
+**[00:06:40](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-06-31)**
+> "Charlie (Charlie Kirk) has been assassinated."
+
+**[00:07:02](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-06-31)**
+> "They are friends of Charlie (Charlie Kirk)."
+
+**[00:07:05](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-06-31)**
+> "They say they loved Charlie (Charlie Kirk), and so we should just trust the science and ign..."
+
+**[00:28:31](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-27-59)**
+> "...ere before and after Charlie (Charlie Kirk)'s assassination."
+
+**[00:28:31](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-27-59)**
+> "...t everywhere before and after Charlie (Charlie Kirk)'s assassination."
+
+**[00:29:27](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-29-27)**
+> "Charlie (Charlie Kirk) was asking a lot of questions towards the end of..."
+
+**[00:31:47](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-31-29)**
+> "...I am telling you the Charlie (Charlie Kirk) case"
+
+**[00:31:47](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-31-29)**
+> "And I am telling you the Charlie (Charlie Kirk) case"
+
+**[00:31:55](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-31-29)**
+> "And I think that Charlie (Charlie Kirk) did not appreciate exactly how things were worki..."
+
+**[00:32:07](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-31-29)**
+> "I told you Charlie (Charlie Kirk) was hitting at the Ukraine stuff."
+
+**[00:32:11](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-32-11)**
+> "...h ratchet up—is when Charlie (Charlie Kirk) is going day in and day out"
+
+**[00:32:11](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-32-11)**
+> "...oint Faith ratchet up—is when Charlie (Charlie Kirk) is going day in and day out"
+
+**[00:36:51](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-36-27)**
+> "Charlie (Charlie Kirk) was betrayed."
+
+**[00:39:37](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-39-16)**
+> ""Charlie (Charlie Kirk), Candace (Candace Owens) is heading into a direc..."
+
+**[00:39:48](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-39-16)**
+> "Charlie (Charlie Kirk) said no."
+
+**[00:40:32](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-40-32)**
+> "...nion on the death of Charlie (Charlie Kirk)."
+
+**[00:40:32](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-40-32)**
+> "...be my opinion on the death of Charlie (Charlie Kirk)."
+
+**[00:43:17](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-43-17)**
+> "...t to know who killed Charlie (Charlie Kirk) because this story seems pretty dark."
+
+**[00:43:17](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-43-17)**
+> "We want to know who killed Charlie (Charlie Kirk) because this story seems pretty da..."
+
+**[00:44:11](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-43-52)**
+> "...at's happened to the Charlie (Charlie Kirk) assassination case."
+
+**[00:44:11](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-43-52)**
+> "...y into what's happened to the Charlie (Charlie Kirk) assassination case."
+
+**[00:44:57](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-44-34)**
+> "...ing what happened to Charlie (Charlie Kirk)."
+
+**[00:44:57](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-44-34)**
+> "...d on solving what happened to Charlie (Charlie Kirk)."
+
+**[00:54:48](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-54-14)**
+> "It's just so Charlie (Charlie Kirk)."
+
+**[00:54:50](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-54-14)**
+> "It's so Charlie (Charlie Kirk) to just say, "Go max.""
+
+**[00:56:11](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-55-44)**
+> "...uards hand off after Charlie (Charlie Kirk) goes down?""
+
+**[00:56:11](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-55-44)**
+> "...ecurity guards hand off after Charlie (Charlie Kirk) goes down?""
+
+**[00:57:01](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-56-26)**
+> "...donor that yelled at Charlie (Charlie Kirk) after one of the TPUSA shows?""
+
+**[00:57:01](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-56-26)**
+> "...the lady donor that yelled at Charlie (Charlie Kirk) after one of the TPUSA shows?""
+
+**[00:58:11](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-57-52)**
+> "... in the mood because Charlie (Charlie Kirk) had just died, and we basically kept the intervi..."
+
+**[00:58:11](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-57-52)**
+> "...the interview before Charlie (Charlie Kirk) died. And I just really did not like that young ..."
+
+**[00:58:11](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-57-52)**
+> "...I was not in the mood because Charlie (Charlie Kirk) had just died, and we basically ke..."
+
+**[00:58:11](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-57-52)**
+> "...d set up the interview before Charlie (Charlie Kirk) died. And I just really did not li..."
+
+**[00:59:02](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-58-36)**
+> "...r caring so much for Charlie (Charlie Kirk) and not stopping until we know what's happening...."
+
+**[00:59:02](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-58-36)**
+> "...nk you for caring so much for Charlie (Charlie Kirk) and not stopping until we know wha..."
+
+**[01:01:09](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-01-00-44)**
+> "I've always had Charlie (Charlie Kirk)'s back."
 
 </details>
 
@@ -3381,7 +3843,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (68 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (201 mentions)</summary>
 
 **[00:07:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-06-49)**
 > "...y that they are going about it right now though is especially sickening. They're now trying to roll Charlie Kirk's (Charlie Kirk) legacy into this. We all know—as I proved—that these same individuals were squeezi..."
@@ -3586,6 +4048,405 @@ _Type: People_
 
 **[00:49:58](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-49-22)**
 > "... got some amazing little fact toys to add to it. And yeah, things got real interesting for Charlie (Charlie Kirk) after Tucker Carlson (Tucker Carlson) hit the stage, and we're gonna speak about that. So I will s..."
+
+**[00:07:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-06-49)**
+> "roll Charlie Kirk's (Charlie Kirk) legacy into this."
+
+**[00:07:05](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-06-49)**
+> "...duals were squeezing Charlie (Charlie Kirk) leading up to the end of his life."
+
+**[00:07:05](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-06-49)**
+> "...me individuals were squeezing Charlie (Charlie Kirk) leading up to the end of his life."
+
+**[00:07:35](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-07-32)**
+> "...nes who were causing Charlie (Charlie Kirk) all of that grief in the final days and hours le..."
+
+**[00:07:35](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-07-32)**
+> "... very same ones that Charlie (Charlie Kirk) thought were going to kill him—they've now decid..."
+
+**[00:07:35](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-07-32)**
+> "...ecided to besmirch Charlie's (Charlie Kirk) name by asserting that Tucker (Tucker Carlson) i..."
+
+**[00:07:35](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-07-32)**
+> "...es) is a betrayal to Charlie (Charlie Kirk)."
+
+**[00:07:35](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-07-32)**
+> "...ry same ones who were causing Charlie (Charlie Kirk) all of that grief in the final day..."
+
+**[00:07:35](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-07-32)**
+> "...tion, the very same ones that Charlie (Charlie Kirk) thought were going to kill him—the..."
+
+**[00:07:35](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-07-32)**
+> "...ey've now decided to besmirch Charlie's (Charlie Kirk) name by asserting that Tucker (Tuc..."
+
+**[00:07:35](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-07-32)**
+> "...ick Fuentes) is a betrayal to Charlie (Charlie Kirk)."
+
+**[00:07:44](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-07-32)**
+> "He's no longer Charlie's (Charlie Kirk) friend."
+
+**[00:08:06](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-07-32)**
+> "... Carlson) was a bad friend to Charlie Kirk (Charlie Kirk)."
+
+**[00:08:06](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-07-32)**
+> "...a bad friend to Charlie Kirk (Charlie Kirk)."
+
+**[00:08:20](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-08-16)**
+> "Before Charlie (Charlie Kirk) died—really kind of just before he died in July—..."
+
+**[00:08:23](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-08-16)**
+> "And Charlie (Charlie Kirk) and I discussed the interview, and never once di..."
+
+**[00:08:39](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-08-16)**
+> "...lling them both that Charlie (Charlie Kirk) should host Nick Fuentes (Nick Fuentes) on his s..."
+
+**[00:08:39](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-08-16)**
+> "...ately, telling them both that Charlie (Charlie Kirk) should host Nick Fuentes (Nick Fue..."
+
+**[00:08:58](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-08-16)**
+> "did Charlie (Charlie Kirk) say, "Don't do that.""
+
+**[00:09:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-09-01)**
+> "They want Charlie's (Charlie Kirk) legacy by any means necessary."
+
+**[00:09:15](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-09-01)**
+> "... the truth about how Charlie (Charlie Kirk) really felt."
+
+**[00:09:15](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-09-01)**
+> "...ing up to the truth about how Charlie (Charlie Kirk) really felt."
+
+**[00:09:33](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-09-01)**
+> "...(Tucker Carlson) has betrayed Charlie Kirk (Charlie Kirk) by hosting Nick Fuentes (Nick Fuen..."
+
+**[00:09:33](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-09-01)**
+> "...n) has betrayed Charlie Kirk (Charlie Kirk) by hosting Nick Fuentes (Nick Fuentes).""
+
+**[00:13:46](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-13-35)**
+> "...s a noble defense of Charlie (Charlie Kirk)."
+
+**[00:13:46](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-13-35)**
+> "...arlson) as a noble defense of Charlie (Charlie Kirk)."
+
+**[00:14:23](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-14-16)**
+> "...ucker Carlson) was supposedly Charlie Kirk's (Charlie Kirk) friend."
+
+**[00:14:23](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-14-16)**
+> "...as supposedly Charlie Kirk's (Charlie Kirk) friend."
+
+**[00:14:26](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-14-16)**
+> "Charlie (Charlie Kirk) believed that Nick Fuentes (Nick Fuentes) was ve..."
+
+**[00:14:30](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-14-16)**
+> "...icated his life to destroying Charlie Kirk (Charlie Kirk) and TPUSA from the inside."
+
+**[00:14:30](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-14-16)**
+> "...e to destroying Charlie Kirk (Charlie Kirk) and TPUSA from the inside."
+
+**[00:14:32](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-14-16)**
+> "...ions is just so anti-Charlie (Charlie Kirk)—it's unbelievable."
+
+**[00:14:32](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-14-16)**
+> "...conversations is just so anti-Charlie (Charlie Kirk)—it's unbelievable."
+
+**[00:14:52](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-14-16)**
+> "...ble sharing now—that Charlie (Charlie Kirk) and Ben Shapiro (Ben Shapiro) did not get along."
+
+**[00:14:52](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-14-16)**
+> "... comfortable sharing now—that Charlie (Charlie Kirk) and Ben Shapiro (Ben Shapiro) did ..."
+
+**[00:14:56](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-14-56)**
+> "Because Charlie (Charlie Kirk) found out that Ben (Ben Shapiro) was operating b..."
+
+**[00:14:56](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-14-56)**
+> "... together, or me and Charlie (Charlie Kirk) as partners getting out there—and I have only ab..."
+
+**[00:14:56](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-14-56)**
+> "...coming up together, or me and Charlie (Charlie Kirk) as partners getting out there—and ..."
+
+**[00:15:04](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-14-56)**
+> "...0 text messages from Charlie (Charlie Kirk) to that effect."
+
+**[00:15:04](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-14-56)**
+> "to 150 text messages from Charlie (Charlie Kirk) to that effect."
+
+**[00:15:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-14-56)**
+> "Now, when Charlie (Charlie Kirk) tried to figure out where the sudden hostility w..."
+
+**[00:15:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-14-56)**
+> "...en Shapiro)—actually Charlie (Charlie Kirk) was the one that told me, "You should watch Ben ..."
+
+**[00:15:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-14-56)**
+> "...ed Ben (Ben Shapiro)—actually Charlie (Charlie Kirk) was the one that told me, "You sho..."
+
+**[00:15:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-15-41)**
+> "...n (Ben Shapiro) told Charlie (Charlie Kirk)—again, this is according to my messages with Cha..."
+
+**[00:15:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-15-41)**
+> "... to my messages with Charlie (Charlie Kirk)—that Ben (Ben Shapiro) was in part upset because..."
+
+**[00:15:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-15-41)**
+> "...n, and Ben (Ben Shapiro) told Charlie (Charlie Kirk)—again, this is according to my mes..."
+
+**[00:15:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-15-41)**
+> "...according to my messages with Charlie (Charlie Kirk)—that Ben (Ben Shapiro) was in part..."
+
+**[00:16:59](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-16-59)**
+> "...Ben Shapiro) said to Charlie (Charlie Kirk) that he was upset about that and that I, Candace..."
+
+**[00:16:59](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-16-59)**
+> "... (Milo) my career if Charlie (Charlie Kirk) didn't get away from me."
+
+**[00:16:59](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-16-59)**
+> "...lly Ben (Ben Shapiro) said to Charlie (Charlie Kirk) that he was upset about that and t..."
+
+**[00:16:59](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-16-59)**
+> "...g to Milo (Milo) my career if Charlie (Charlie Kirk) didn't get away from me."
+
+**[00:17:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-16-59)**
+> "...sly, the story goes, Charlie (Charlie Kirk) stuck with me despite Ben's (Ben Shapiro) urging..."
+
+**[00:17:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-16-59)**
+> "...w, obviously, the story goes, Charlie (Charlie Kirk) stuck with me despite Ben's (Ben S..."
+
+**[00:17:16](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-16-59)**
+> "...int where as a team, Charlie (Charlie Kirk) and I were suddenly undeniable."
+
+**[00:17:16](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-16-59)**
+> "...ched a point where as a team, Charlie (Charlie Kirk) and I were suddenly undeniable."
+
+**[00:17:21](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-16-59)**
+> "...y one of my favorite Charlie (Charlie Kirk) memories—"
+
+**[00:17:21](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-16-59)**
+> "...s actually one of my favorite Charlie (Charlie Kirk) memories—"
+
+**[00:17:26](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-16-59)**
+> "...o reflect on because Charlie (Charlie Kirk), he was never mean-spirited."
+
+**[00:17:26](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-16-59)**
+> "...e smile to reflect on because Charlie (Charlie Kirk), he was never mean-spirited."
+
+**[00:17:50](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-17-40)**
+> "But Charlie's (Charlie Kirk) perspective was just laugh and move on."
+
+**[00:18:07](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-17-40)**
+> "And Charlie's (Charlie Kirk) like, "No, it's great.""
+
+**[00:18:16](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-17-40)**
+> "And Charlie (Charlie Kirk) says to me—we're in the green room—"
+
+**[00:18:35](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-18-23)**
+> "Charlie (Charlie Kirk) did that totally on purpose."
+
+**[00:18:37](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-18-23)**
+> "That was such a Charlie Kirk (Charlie Kirk) thing to do."
+
+**[00:18:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-18-23)**
+> "And that was Charlie (Charlie Kirk)."
+
+**[00:18:47](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-18-23)**
+> "...s just the spirit of Charlie (Charlie Kirk)."
+
+**[00:18:47](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-18-23)**
+> "That was just the spirit of Charlie (Charlie Kirk)."
+
+**[00:18:53](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-18-23)**
+> "...e it very clear that Charlie (Charlie Kirk) loved Tucker (Tucker Carlson)."
+
+**[00:18:53](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-18-23)**
+> "...is to make it very clear that Charlie (Charlie Kirk) loved Tucker (Tucker Carlson)."
+
+**[00:18:55](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-18-23)**
+> "...all my messages with Charlie (Charlie Kirk), and he loved Tucker (Tucker Carlson)."
+
+**[00:18:55](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-18-23)**
+> "... through all my messages with Charlie (Charlie Kirk), and he loved Tucker (Tucker Carls..."
+
+**[00:19:06](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-19-06)**
+> "Charlie (Charlie Kirk) was not in love with Ben Shapiro (Ben Shapiro)."
+
+**[00:19:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-19-06)**
+> "...heir friendship with Charlie (Charlie Kirk)."
+
+**[00:19:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-19-06)**
+> "...traying their friendship with Charlie (Charlie Kirk)."
+
+**[00:19:42](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-19-06)**
+> "... when I reflect on Charlie's (Charlie Kirk), it is probably that he associated success and g..."
+
+**[00:19:42](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-19-06)**
+> "And when I reflect on Charlie's (Charlie Kirk), it is probably that he associated..."
+
+**[00:20:03](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-19-50)**
+> "...diate aftermath of Charlie's (Charlie Kirk) death, people that were extremely close to Charl..."
+
+**[00:20:03](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-19-50)**
+> "...e extremely close to Charlie (Charlie Kirk)—including donors—were very touched by a monologu..."
+
+**[00:20:03](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-19-50)**
+> "...in the immediate aftermath of Charlie's (Charlie Kirk) death, people that were extremely ..."
+
+**[00:20:03](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-19-50)**
+> "... that were extremely close to Charlie (Charlie Kirk)—including donors—were very touched..."
+
+**[00:20:31](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-20-31)**
+> "to host Charlie Kirk's (Charlie Kirk) show because they wanted to keep i..."
+
+**[00:20:40](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-20-31)**
+> "And in the true spirit of Charlie Kirk (Charlie Kirk), Turning Point cordially accepted ..."
+
+**[00:20:40](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-20-31)**
+> "... true spirit of Charlie Kirk (Charlie Kirk), Turning Point cordially accepted those posthumo..."
+
+**[00:20:53](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-20-31)**
+> "...ile takeover of the legacy of Charlie Kirk (Charlie Kirk)—so obsessed that the Jerusalem Pos..."
+
+**[00:20:53](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-20-31)**
+> "...f the legacy of Charlie Kirk (Charlie Kirk)—so obsessed that the Jerusalem Post completely f..."
+
+**[00:21:15](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-21-15)**
+> "They published this: "Charlie Kirk (Charlie Kirk), the founder of TPUSA, will be pos..."
+
+**[00:21:15](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-21-15)**
+> "...ublished this: "Charlie Kirk (Charlie Kirk), the founder of TPUSA, will be posthumously hono..."
+
+**[00:23:19](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-22-39)**
+> "...m continue to lie about where Charlie Kirk (Charlie Kirk) was at in his mind at the end of h..."
+
+**[00:23:19](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-22-39)**
+> "...lie about where Charlie Kirk (Charlie Kirk) was at in his mind at the end of his life."
+
+**[00:23:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-23-22)**
+> "We've been reading Charlie (Charlie Kirk) in his own words, okay?"
+
+**[00:23:58](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-23-58)**
+> "...lson) wasn't a true friend to Charlie Kirk (Charlie Kirk)" when Charlie Kirk (Charlie Kirk) ..."
+
+**[00:23:58](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-23-58)**
+> "... true friend to Charlie Kirk (Charlie Kirk)" when Charlie Kirk (Charlie Kirk) died fighting ..."
+
+**[00:23:58](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-23-58)**
+> "...lie Kirk (Charlie Kirk)" when Charlie Kirk (Charlie Kirk) died fighting for his right and fo..."
+
+**[00:23:58](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-23-58)**
+> "...lie Kirk)" when Charlie Kirk (Charlie Kirk) died fighting for his right and for his friendsh..."
+
+**[00:27:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-26-44)**
+> "...ech at the memorial event for Charlie Kirk (Charlie Kirk)."
+
+**[00:27:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-26-44)**
+> "...orial event for Charlie Kirk (Charlie Kirk)."
+
+**[00:27:31](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-27-09)**
+> "...d in investigating who killed Charlie Kirk (Charlie Kirk)."
+
+**[00:27:31](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-27-09)**
+> "...ting who killed Charlie Kirk (Charlie Kirk)."
+
+**[00:27:38](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-27-09)**
+> "...ple that are just lying about Charlie Kirk (Charlie Kirk)."
+
+**[00:27:38](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-27-09)**
+> "...ust lying about Charlie Kirk (Charlie Kirk)."
+
+**[00:28:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-27-53)**
+> "...e come out and say, "Charlie (Charlie Kirk) never had an issue with Israel in the end"?"
+
+**[00:28:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-27-53)**
+> "...ut—did she come out and say, "Charlie (Charlie Kirk) never had an issue with Israel in ..."
+
+**[00:28:21](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-27-53)**
+> "And I can tell you, Charlie (Charlie Kirk) loved Jesse Watters (Jesse Watters)."
+
+**[00:28:37](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-28-37)**
+> "...ctually friends with Charlie (Charlie Kirk)."
+
+**[00:28:37](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-28-37)**
+> "...ho were actually friends with Charlie (Charlie Kirk)."
+
+**[00:28:52](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-28-37)**
+> "Charlie (Charlie Kirk) opened up to Megyn (Megyn Kelly) in the end."
+
+**[00:28:55](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-28-37)**
+> "...ut the pressure that Charlie (Charlie Kirk) was under."
+
+**[00:28:55](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-28-37)**
+> "... this—about the pressure that Charlie (Charlie Kirk) was under."
+
+**[00:29:33](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-29-20)**
+> "that is the mother of Charlie Kirk's (Charlie Kirk) children."
+
+**[00:29:33](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-29-20)**
+> "...the mother of Charlie Kirk's (Charlie Kirk) children."
+
+**[00:29:36](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-29-20)**
+> "... had a real relationship with Charlie Kirk (Charlie Kirk), a real friendship with Charlie Ki..."
+
+**[00:29:36](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-29-20)**
+> "...lationship with Charlie Kirk (Charlie Kirk), a real friendship with Charlie Kirk (Charlie Ki..."
+
+**[00:29:36](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-29-20)**
+> "...Kirk), a real friendship with Charlie Kirk (Charlie Kirk)."
+
+**[00:29:36](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-29-20)**
+> "...friendship with Charlie Kirk (Charlie Kirk)."
+
+**[00:35:37](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-35-20)**
+> "One, Charlie Kirk (Charlie Kirk) was a big supporter of Kash Patel ..."
+
+**[00:40:58](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-40-46)**
+> "...f for this investigation into Charlie Kirk's (Charlie Kirk) murder."
+
+**[00:40:58](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-40-46)**
+> "...tigation into Charlie Kirk's (Charlie Kirk) murder."
+
+**[00:44:24](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-44-24)**
+> "...ing a true friend to Charlie (Charlie Kirk).""
+
+**[00:44:24](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-44-24)**
+> "...ou for being a true friend to Charlie (Charlie Kirk).""
+
+**[00:44:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-44-24)**
+> "...son's middle name is Charlie (Charlie).""
+
+**[00:45:14](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-45-06)**
+> "...ld have been by assassinating Charlie Kirk (Charlie Kirk) and making me watch it."
+
+**[00:45:14](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-45-06)**
+> "...y assassinating Charlie Kirk (Charlie Kirk) and making me watch it."
+
+**[00:45:31](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-45-06)**
+> "... to be a formidable friend to Charlie Kirk (Charlie Kirk)."
+
+**[00:45:31](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-45-06)**
+> "...dable friend to Charlie Kirk (Charlie Kirk)."
+
+**[00:48:00](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-47-17)**
+> ""Charlie (Charlie Kirk) stood for that.""
+
+**[00:48:05](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-48-01)**
+> "Yeah, Charlie (Charlie Kirk) believed in free speech."
+
+**[00:48:09](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-48-01)**
+> "... an absurd idea that Charlie (Charlie Kirk) would have—if Charlie (Charlie Kirk) ever messag..."
+
+**[00:48:09](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-48-01)**
+> "... Kirk) would have—if Charlie (Charlie Kirk) ever messaged me and said, "You're betraying me ..."
+
+**[00:48:09](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-48-01)**
+> "...es). What an absurd idea that Charlie (Charlie Kirk) would have—if Charlie (Charlie Kir..."
+
+**[00:48:09](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-48-01)**
+> "... (Charlie Kirk) would have—if Charlie (Charlie Kirk) ever messaged me and said, "You're..."
+
+**[00:48:19](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-48-01)**
+> "Charlie (Charlie Kirk) was so cool."
+
+**[00:49:58](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-49-22)**
+> "...real interesting for Charlie (Charlie Kirk) after Tucker Carlson (Tucker Carlson) hit the st..."
+
+**[00:49:58](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-49-22)**
+> "...ings got real interesting for Charlie (Charlie Kirk) after Tucker Carlson (Tucker Carls..."
 
 </details>
 
@@ -8833,7 +9694,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk (411)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk (405)</strong></summary>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (6)</summary>
@@ -8955,7 +9816,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (38)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (37)</summary>
 
 - [00:05:52](/episodes/ep-es7PWdFGoFI.md#t-00-05-30) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk said on Glenn Beck's show that she had Charlie's phone and ..."](/statements/statement-14d3ddbacf08.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Glenn Beck](/entities/person-glenn-beck.md)
@@ -9037,6 +9898,7 @@ _Type: People_
   - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:43:01](/episodes/ep-es7PWdFGoFI.md#t-00-42-21) (Opinion) **Candace Owens**: ["I believe that Charlie Kirk was betrayed by people that are close to h..."](/statements/statement-4776345392e1.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:43:11](/episodes/ep-es7PWdFGoFI.md#t-00-43-01) (Opinion) **Candace Owens**: ["Charlie Kirk was betrayed by people that are close to him"](/statements/statement-b777c31ed2d7.md)
 
@@ -9047,9 +9909,6 @@ _Type: People_
   - Also about: [George Zinn](/entities/person-george-zinn.md)
 
 - [01:03:00](/episodes/ep-es7PWdFGoFI.md#t-01-02-44) (Opinion) **Candace Owens**: ["Candace believes Charlie Kirk was betrayed by people close to him"](/statements/statement-af51cba2e906.md)
-
-- [01:11:03](/episodes/ep-es7PWdFGoFI.md#t-01-10-18) (Claim) **Candace Owens**: ["Erika Kirk confirmed Charlie Kirk was going to mass and exploring Cath..."](/statements/statement-482759ddf3f8.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [01:11:07](/episodes/ep-es7PWdFGoFI.md#t-01-11-03) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk confirmed that Charlie Kirk was going to Catholic mass"](/statements/statement-bdf5a422d4f3.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
@@ -9542,7 +10401,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (27)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (26)</summary>
 
 - [00:00:18](/episodes/ep-2Riv3I7D0Yk.md#t-00-00-00) (Claim) **Candace Owens**: ["16 hours before Charlie Kirk was assassinated, Josh Hammer retweeted a..."](/statements/statement-bcc6e400e34d.md)
   - Also about: [Josh Hammer](/entities/person-josh-hammer.md), [Donald Trump](/entities/person-donald-trump.md)
@@ -9585,11 +10444,8 @@ _Type: People_
 - [00:27:33](/episodes/ep-2Riv3I7D0Yk.md#t-00-27-00) (Claim) **Candace Owens**: ["Rabbi Pesach Wolicki was on the infamous text chain, meaning both he a..."](/statements/statement-4e4a9dc2a3f5.md)
   - Also about: [Rabbi Pesach Wolicki](/entities/person-rabbi-pesach-wolicki.md), [Josh Hammer](/entities/person-josh-hammer.md)
 
-- [00:28:22](/episodes/ep-2Riv3I7D0Yk.md#t-00-27-45) (Claim) **Candace Owens**: ["Benjamin Netanyahu invited Charlie Kirk to Israel two weeks before he ..."](/statements/statement-c2ca8bc92442.md)
-  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Israel](/entities/gpe-israel.md)
-
 - [00:28:27](/episodes/ep-2Riv3I7D0Yk.md#t-00-27-45) (Claim) **Candace Owens**: ["Benjamin Netanyahu invited Charlie Kirk to Israel two weeks before Cha..."](/statements/statement-61e06a4a6d55.md)
-  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Israel](/entities/gpe-israel.md)
 
 - [00:29:05](/episodes/ep-2Riv3I7D0Yk.md#t-00-28-30) (Claim) **Rabbi Pesach Wolicki** (via quoted speech): ["Charlie Kirk was in touch with Rabbi Wolicki on an almost daily basis ..."](/statements/statement-1f32478dd69e.md)
   - Also about: [Rabbi Pesach Wolicki](/entities/person-rabbi-pesach-wolicki.md), [Israel](/entities/gpe-israel.md)
@@ -9728,7 +10584,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (37)</summary>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (34)</summary>
 
 - [00:01:18](/episodes/ep-ja26iltROkM.md#t-00-00-44) (Accusation) **Candace Owens**: ["They are clearly lying to us about what happened on the day that Charl..."](/statements/statement-4f6e06ede836.md)
 
@@ -9774,8 +10630,6 @@ _Type: People_
 
 - [00:20:58](/episodes/ep-ja26iltROkM.md#t-00-20-23) (Claim) **Candace Owens**: ["There is a massive underground pipeline and irrigation system beneath ..."](/statements/statement-7892635a1601.md)
 
-- [00:21:15](/episodes/ep-ja26iltROkM.md#t-00-21-03) (Claim) **Candace Owens**: ["There was a massive underground pipeline and irrigation system beneath..."](/statements/statement-dc030dba6e2e.md)
-
 - [00:23:04](/episodes/ep-ja26iltROkM.md#t-00-22-30) (Claim) **Candace Owens**: ["The feds repaved the area where Charlie Kirk was shot within 48 hours"](/statements/statement-742f1dcda481.md)
 
 - [00:24:21](/episodes/ep-ja26iltROkM.md#t-00-24-01) (Claim) **Candace Owens**: ["The area where Charlie Kirk was shot was repaved within 48 hours of th..."](/statements/statement-d3f1898dcbfd.md)
@@ -9805,14 +10659,8 @@ _Type: People_
 
 - [00:45:39](/episodes/ep-ja26iltROkM.md#t-00-45-12) (Accusation) **Candace Owens**: ["There are more people involved in Charlie Kirk's assassination that ar..."](/statements/statement-a9da203e7dbc.md)
 
-- [00:58:03](/episodes/ep-ja26iltROkM.md#t-00-57-53) (Claim) **Candace Owens**: ["Benjamin Netanyahu offered Charlie Kirk a boatload of money, and he re..."](/statements/statement-ecd5008986d2.md)
-  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
-
 - [00:58:30](/episodes/ep-ja26iltROkM.md#t-00-57-53) (Claim) **Candace Owens**: ["Benjamin Netanyahu offered Charlie Kirk a boatload of money and he rej..."](/statements/statement-f4674965f90a.md)
   - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
-
-- [00:59:13](/episodes/ep-ja26iltROkM.md#t-00-58-36) (Claim) **Candace Owens**: ["Bob Schulman withdrew millions of dollars from Turning Point and wante..."](/statements/statement-87fd2dea2d9d.md)
-  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:59:53](/episodes/ep-ja26iltROkM.md#t-00-59-15) (Claim) **Candace Owens**: ["Bob Schulman withdrew millions of dollars from Turning Point USA and w..."](/statements/statement-79ee9e48b4da.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
@@ -9820,7 +10668,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (20)</summary>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (19)</summary>
 
 - [00:00:07](/episodes/ep-aDlhjfW6hz8.md#t-00-00-00) (Claim) **Candace Owens**: ["Two men appeared mere minutes after Charlie Kirk was shot, moved his c..."](/statements/statement-35b5db0a6a50.md)
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
@@ -9850,9 +10698,6 @@ _Type: People_
 - [00:18:04](/episodes/ep-aDlhjfW6hz8.md#t-00-17-31) (Opinion) **Candace Owens**: ["There is very clearly a government-level conspiracy involved in Charli..."](/statements/statement-aea73a0ccb75.md)
 
 - [00:29:17](/episodes/ep-aDlhjfW6hz8.md#t-00-29-16) (Claim) **Candace Owens**: ["Charlie got in trouble for the stuff that I said on stage. Then they c..."](/statements/statement-97895d2c5c6d.md)
-  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
-
-- [00:31:55](/episodes/ep-aDlhjfW6hz8.md#t-00-31-27) (Accusation) **Candace Owens**: ["I believe that Charlie Kirk was betrayed by people who are close to hi..."](/statements/statement-b3c6f27878e5.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:31:55](/episodes/ep-aDlhjfW6hz8.md#t-00-31-27) (Accusation) **Candace Owens**: ["Charlie Kirk was betrayed by people who are close to him"](/statements/statement-8ce5194ff7d7.md)

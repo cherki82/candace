@@ -1,6 +1,6 @@
 ---
 title: "August 25th"
-description: "August 25th (Dates) - 10 mentions"
+description: "August 25th (Dates) - 11 mentions"
 id: "date-august-25th"
 type: "DATE"
 ---
@@ -50,10 +50,13 @@ _Type: Dates_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:08:24](/episodes/ep-mKXdKV-OBog.md#ent-date-august-25th-t-00-07-51)**
 > "...e military and—of note—the civilians. What's interesting: of note, civilians. And they trained from August 25th to August 29th. And we can read the details of that here. And by details, I mean—this is what the p..."
+
+**[00:08:24](/episodes/ep-mKXdKV-OBog.md#ent-date-august-25th-t-00-07-51)**
+> "...ilians. And they trained from August 25th to August 29th."
 
 </details>
 

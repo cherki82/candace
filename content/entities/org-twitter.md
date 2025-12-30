@@ -1,6 +1,6 @@
 ---
 title: "Twitter"
-description: "Twitter (Organizations) - 27 mentions"
+description: "Twitter (Organizations) - 30 mentions"
 id: "org-twitter"
 type: "ORG"
 aliases:
@@ -38,10 +38,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:25:40](/episodes/ep-7RLtGgkTh9o.md#ent-org-twitter-t-00-25-15)**
 > "...ll, he had an overdose at the right time, right? Kind of a crazy story. The drummer posts this onto Twitter. This was October of last year. This is Bob Bryar. He writes, "Easy answer for that." "Don't forget..."
+
+**[00:25:40](/episodes/ep-7RLtGgkTh9o.md#ent-org-twitter-t-00-25-15)**
+> "The drummer posts this onto Twitter."
 
 </details>
 
@@ -76,13 +79,19 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (4 mentions)</summary>
 
 **[00:20:55](/episodes/ep-K1tFD7FfoCU.md#ent-org-twitter-t-00-20-31)**
 > "...ka Kirk (Erika Kirk). Here is the statement that was issued by the Israeli War Room account over on Twitter, and they were citing the actual reporting from the Jerusalem Post, which was written by journalist..."
 
 **[00:39:27](/episodes/ep-K1tFD7FfoCU.md#ent-org-twitter-t-00-39-19)**
 > "... that we promised—rebuilding this bureau from the ground up. Okay, it's like a lot, and I love that Twitter hit him immediately. They hit him with a little fact check. People are not attacking Kash Patel's (..."
+
+**[00:20:55](/episodes/ep-K1tFD7FfoCU.md#ent-org-twitter-t-00-20-31)**
+> "...aeli War Room account over on Twitter, and they were citing the actual reporting from t..."
+
+**[00:39:27](/episodes/ep-K1tFD7FfoCU.md#ent-org-twitter-t-00-39-19)**
+> "...s like a lot, and I love that Twitter hit him immediately."
 
 </details>
 

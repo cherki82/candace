@@ -1,6 +1,6 @@
 ---
 title: "Thousand Oaks"
-description: "Thousand Oaks (Places) - 16 mentions"
+description: "Thousand Oaks (Places) - 20 mentions"
 id: "gpe-thousand-oaks"
 type: "GPE"
 ---
@@ -21,7 +21,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (8 mentions)</summary>
 
 **[00:03:48](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-thousand-oaks-t-00-03-30)**
 > "...sterday? Well, we spoke about the Calvary Chapel. We spoke about Rob McCoy being the lead pastor in Thousand Oaks—one of their many churches across the United States—and my sense... which every Christian Zionist i..."
@@ -34,6 +34,18 @@ _Type: Places_
 
 **[00:16:54](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-thousand-oaks-t-00-16-07)**
 > "...sh for us to think that Lou Taylor does not know Rob McCoy—exactly, right? All these people live in Thousand Oaks, California, and he's been pastoring that church up until July of this year for a very long time. A..."
+
+**[00:03:48](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-thousand-oaks-t-00-03-30)**
+> "...cCoy being the lead pastor in Thousand Oaks—one of their many churches across the United Stat..."
+
+**[00:15:59](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-thousand-oaks-t-00-03-30)**
+> "Britney Spears lives in Thousand Oaks, California—as does Justin Bieber."
+
+**[00:16:07](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-thousand-oaks-t-00-16-07)**
+> "...eing that he was the mayor of Thousand Oaks and is the pastor of the large Calvary Chapel chu..."
+
+**[00:16:54](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-thousand-oaks-t-00-16-07)**
+> "All these people live in Thousand Oaks, California, and he's been pastoring that church ..."
 
 </details>
 

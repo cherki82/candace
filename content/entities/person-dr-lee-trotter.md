@@ -1,6 +1,6 @@
 ---
 title: "Dr. Lee Trotter"
-description: "Dr. Lee Trotter (People) - 10 mentions"
+description: "Dr. Lee Trotter (People) - 11 mentions"
 id: "person-dr-lee-trotter"
 type: "PERSON"
 ---
@@ -30,13 +30,16 @@ _Type: People_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
 
 **[00:14:47](/episodes/ep-mKXdKV-OBog.md#ent-person-dr-lee-trotter-t-00-14-17)**
 > "...e list of military connects in this story is just too long, okay? Charlie (Charlie Kirk)'s surgeon, Dr. Lee Trotter—the alleged surgeon who apparently spoke about the miracle; we're supposed to assume spoke about th..."
 
 **[00:15:11](/episodes/ep-mKXdKV-OBog.md#ent-person-dr-lee-trotter-t-00-14-17)**
 > "Dr. Lee Trotter, Charlie's surgeon, did residency at Air Force base"
+
+**[00:14:47](/episodes/ep-mKXdKV-OBog.md#ent-person-dr-lee-trotter-t-00-14-17)**
+> "...lie (Charlie Kirk)'s surgeon, Dr. Lee Trotter—the alleged surgeon who apparently spoke about th..."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "FBI"
-description: "FBI (Organizations) - 414 mentions"
+description: "FBI (Organizations) - 451 mentions"
 id: "org-fbi"
 type: "ORG"
 aliases:
@@ -134,7 +134,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (9 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (14 mentions)</summary>
 
 **[00:22:38](/episodes/ep-6DhWawD4ZiM.md#ent-org-fbi-t-00-56-52)**
 > "...just the nonsense of what the FBI is saying, he's waiting in and saying, yeah, the ..."
@@ -162,6 +162,21 @@ _Type: Organizations_
 
 **[00:57:31](/episodes/ep-6DhWawD4ZiM.md#ent-org-fbi-t-00-57-31)**
 > "...like, whoa, even if I trusted the feds and I trusted my legal team and trusted their ana..."
+
+**[00:22:38](/episodes/ep-6DhWawD4ZiM.md#ent-org-fbi-t-00-56-52)**
+> "...ting in and saying, yeah, the FBI is not being clear on what happened."
+
+**[00:57:05](/episodes/ep-6DhWawD4ZiM.md#ent-org-fbi-t-00-56-52)**
+> "...'re giving, we're telling the feds to do that."
+
+**[00:57:07](/episodes/ep-6DhWawD4ZiM.md#ent-org-fbi-t-00-56-52)**
+> "...rlie was assassinated and the feds have not reached out to me."
+
+**[00:57:07](/episodes/ep-6DhWawD4ZiM.md#ent-org-fbi-t-00-56-52)**
+> "... Charlie was assassinated and the feds have not reached out to me."
+
+**[00:57:31](/episodes/ep-6DhWawD4ZiM.md#ent-org-fbi-t-00-57-31)**
+> "..., whoa, even if I trusted the feds and I trusted my legal team and trusted their ana..."
 
 </details>
 
@@ -298,7 +313,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (7 mentions)</summary>
 
 **[00:06:34](/episodes/ep-mKXdKV-OBog.md#t-00-06-30)**
 > "...kota. Why stop there at all on the fourth? Why not fly direct to Provo? Not only does Minot have an FBI office, but it also has an Air Force base among other tenants. That Air Force base is home to the 8..."
@@ -311,6 +326,15 @@ _Type: Organizations_
 
 **[00:42:42](/episodes/ep-mKXdKV-OBog.md#t-00-42-07)**
 > "...es: "I really, really want to believe that Charlie (Charlie Kirk) is in witness protection—that the FBI and the POTUS set it up to catch Bibi (Benjamin Netanyahu). Christ is King will always be king. Lov..."
+
+**[00:06:34](/episodes/ep-mKXdKV-OBog.md#t-00-06-30)**
+> "Not only does Minot have an FBI office, but it also has an Air Force base among o..."
+
+**[00:22:36](/episodes/ep-mKXdKV-OBog.md#t-00-21-55)**
+> "...ng the Secret Service and the FBI and the DEA."
+
+**[00:42:42](/episodes/ep-mKXdKV-OBog.md#t-00-42-07)**
+> "...n witness protection—that the FBI and the POTUS set it up to catch Bibi (Benjamin N..."
 
 </details>
 
@@ -416,7 +440,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (3 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (8 mentions)</summary>
 
 **[00:42:31](/episodes/ep-7RLtGgkTh9o.md#ent-org-fbi-t-00-42-30)**
 > "...t I'm just pointing that out because we have to gather evidence that we're never gonna get from the feds. The second thing that I want to show you is what I just described—which is the clip of the person ..."
@@ -427,10 +451,25 @@ _Type: Organizations_
 **[00:52:13](/episodes/ep-7RLtGgkTh9o.md#ent-org-fbi-t-00-51-38)**
 > "...ke, "How dare Candace (Candace Owens) even ask another question and not accept the narrative?" "The feds have always been honest with us about everything." Something stinks. You are so right. Reminding yo..."
 
+**[00:42:31](/episodes/ep-7RLtGgkTh9o.md#ent-org-fbi-t-00-42-30)**
+> "...e're never gonna get from the feds."
+
+**[00:42:31](/episodes/ep-7RLtGgkTh9o.md#ent-org-fbi-t-00-42-30)**
+> "...at we're never gonna get from the feds."
+
+**[00:51:22](/episodes/ep-7RLtGgkTh9o.md#ent-org-fbi-t-00-50-55)**
+> "... believe that the police, the feds, the courts, the lawyers, and even the little gir..."
+
+**[00:51:22](/episodes/ep-7RLtGgkTh9o.md#ent-org-fbi-t-00-50-55)**
+> "...sily believe that the police, the feds, the courts, the lawyers, and even the little gir..."
+
+**[00:52:13](/episodes/ep-7RLtGgkTh9o.md#ent-org-fbi-t-00-51-38)**
+> ""The feds have always been honest with us about everything...."
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (8 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (20 mentions)</summary>
 
 **[00:23:00](/episodes/ep-yAIb-NuUh_U.md#ent-org-fbi-t-00-22-28)**
 > "...ber he shot up the Trump Miami Doral? He didn't kill anyone. But then when he sat down, he said the feds are running a cartel operation. And when people get into trouble, this is what he alleged before an..."
@@ -455,6 +494,42 @@ _Type: Organizations_
 
 **[01:00:26](/episodes/ep-yAIb-NuUh_U.md#ent-org-fbi-t-00-46-40)**
 > "... Valley writes: "Hi, Candace (Candace Owens). Thank you for your great reporting." "Better than the FBI. Your research inspired parts of my new historical thriller novel. Their Black Vault—fiction for yo..."
+
+**[00:23:00](/episodes/ep-yAIb-NuUh_U.md#ent-org-fbi-t-00-22-28)**
+> "...when he sat down, he said the feds are running a cartel operation."
+
+**[00:23:00](/episodes/ep-yAIb-NuUh_U.md#ent-org-fbi-t-00-22-28)**
+> "...hen when he sat down, he said the feds are running a cartel operation."
+
+**[00:23:21](/episodes/ep-yAIb-NuUh_U.md#ent-org-fbi-t-00-23-11)**
+> "And he said the feds—you get into trouble."
+
+**[00:23:35](/episodes/ep-yAIb-NuUh_U.md#ent-org-fbi-t-00-23-11)**
+> "...y had been blackmailed by the feds."
+
+**[00:23:35](/episodes/ep-yAIb-NuUh_U.md#ent-org-fbi-t-00-23-11)**
+> "...Diddy had been blackmailed by the feds."
+
+**[00:42:53](/episodes/ep-yAIb-NuUh_U.md#ent-org-fbi-t-00-42-33)**
+> "...hen you start questioning the feds, suddenly they want to call you crazy. And Tucker..."
+
+**[00:42:53](/episodes/ep-yAIb-NuUh_U.md#ent-org-fbi-t-00-42-33)**
+> "...y. When you start questioning the feds, suddenly they want to call you crazy. And Tucker..."
+
+**[00:45:11](/episodes/ep-yAIb-NuUh_U.md#ent-org-fbi-t-00-44-34)**
+> "And the feds are not helping—maybe because Kash Patel is busy ..."
+
+**[00:46:40](/episodes/ep-yAIb-NuUh_U.md#ent-org-fbi-t-00-46-40)**
+> "...t a copyright strike from the FBI?"
+
+**[00:46:46](/episodes/ep-yAIb-NuUh_U.md#ent-org-fbi-t-00-46-40)**
+> "...t a copyright strike from the feds?"
+
+**[00:46:46](/episodes/ep-yAIb-NuUh_U.md#ent-org-fbi-t-00-46-40)**
+> "...e get a copyright strike from the feds?"
+
+**[01:00:26](/episodes/ep-yAIb-NuUh_U.md#ent-org-fbi-t-00-46-40)**
+> ""Better than the FBI. Your research inspired parts of my new historica..."
 
 </details>
 
@@ -533,7 +608,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (9 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (21 mentions)</summary>
 
 **[00:35:11](/episodes/ep-K1tFD7FfoCU.md#ent-org-fbi-t-00-34-40)**
 > "...ay. And so, yeah, I would say in every aspect that you can be transparent—which doesn't involve the feds—I would do that. I look forward to obviously watching the interview that is going to premiere in tw..."
@@ -561,6 +636,42 @@ _Type: Organizations_
 
 **[00:46:33](/episodes/ep-K1tFD7FfoCU.md#ent-org-fbi-t-00-34-40)**
 > "...ame—but it was in Connecticut: similar story. He somehow hacked the government system, and then the FBI showed up at his door, and then he was a part of some Yale program. I think it's Adam Lanza (Adam L..."
+
+**[00:35:11](/episodes/ep-K1tFD7FfoCU.md#ent-org-fbi-t-00-34-40)**
+> "...ent—which doesn't involve the feds—I would do that."
+
+**[00:35:11](/episodes/ep-K1tFD7FfoCU.md#ent-org-fbi-t-00-34-40)**
+> "...sparent—which doesn't involve the feds—I would do that."
+
+**[00:35:37](/episodes/ep-K1tFD7FfoCU.md#ent-org-fbi-t-00-34-40)**
+> "...that he is in—director of the FBI—and he has just been terrible in this case."
+
+**[00:36:52](/episodes/ep-K1tFD7FfoCU.md#ent-org-fbi-t-00-34-40)**
+> "I guess he flew down in his FBI plane to go see her down in Nashville."
+
+**[00:37:08](/episodes/ep-K1tFD7FfoCU.md#ent-org-fbi-t-00-34-40)**
+> "he is required to fly on the FBI plane no matter where he goes—whether it's a pers..."
+
+**[00:37:08](/episodes/ep-K1tFD7FfoCU.md#ent-org-fbi-t-00-34-40)**
+> "...atel (Kash Patel) calling the FBI corrupt before he was in the FBI and saying that ..."
+
+**[00:37:08](/episodes/ep-K1tFD7FfoCU.md#ent-org-fbi-t-00-34-40)**
+> "... corrupt before he was in the FBI and saying that taxpayers shouldn't have to fund ..."
+
+**[00:38:06](/episodes/ep-K1tFD7FfoCU.md#ent-org-fbi-t-00-34-40)**
+> "...s is from the director of the FBI, people."
+
+**[00:38:13](/episodes/ep-K1tFD7FfoCU.md#ent-org-fbi-t-00-34-40)**
+> "... am proud of the work of this FBI."
+
+**[00:39:19](/episodes/ep-K1tFD7FfoCU.md#ent-org-fbi-t-00-34-40)**
+> "I and this FBI will stay laser-focused on our mission and contin..."
+
+**[00:40:50](/episodes/ep-K1tFD7FfoCU.md#ent-org-fbi-t-00-34-40)**
+> "...ing about the director of the FBI, and we are supposed to take away from this that ..."
+
+**[00:46:33](/episodes/ep-K1tFD7FfoCU.md#ent-org-fbi-t-00-34-40)**
+> "...vernment system, and then the FBI showed up at his door, and then he was a part of ..."
 
 </details>
 

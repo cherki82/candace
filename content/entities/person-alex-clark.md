@@ -1,6 +1,6 @@
 ---
 title: "Alex Clark"
-description: "Alex Clark (People) - 37 mentions"
+description: "Alex Clark (People) - 39 mentions"
 id: "person-alex-clark"
 type: "PERSON"
 ---
@@ -97,10 +97,16 @@ _Type: People_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (3 mentions)</summary>
 
 **[00:27:47](/episodes/ep-K1tFD7FfoCU.md#ent-person-alex-clark-t-00-27-09)**
 > "...y? People that are just lying about Charlie Kirk (Charlie Kirk). That was my reason for going after Alex Clark (Alex Clark). She lied about the Catholic thing. That was my reason for going after Andrew Kolvet (..."
+
+**[00:27:47](/episodes/ep-K1tFD7FfoCU.md#ent-person-alex-clark-t-00-27-09)**
+> "...was my reason for going after Alex Clark (Alex Clark)."
+
+**[00:27:47](/episodes/ep-K1tFD7FfoCU.md#ent-person-alex-clark-t-00-27-09)**
+> "...n for going after Alex Clark (Alex Clark)."
 
 </details>
 

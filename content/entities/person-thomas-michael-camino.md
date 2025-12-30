@@ -1,6 +1,6 @@
 ---
 title: "Thomas Michael Camino"
-description: "Thomas Michael Camino (People) - 4 mentions"
+description: "Thomas Michael Camino (People) - 7 mentions"
 id: "person-thomas-michael-camino"
 type: "PERSON"
 ---
@@ -13,7 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (4 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (7 mentions)</summary>
 
 **[00:07:47](/episodes/ep-yAIb-NuUh_U.md#ent-person-thomas-michael-camino-t-00-07-47)**
 > "Thomas Michael Camino was a man who was factually put away into prison for abuse—molesting, lewd conduct toward young girls."
@@ -26,6 +26,15 @@ _Type: People_
 
 **[00:09:35](/episodes/ep-yAIb-NuUh_U.md#ent-person-thomas-michael-camino-t-00-09-14)**
 > "...by the parents of three victims." Listen to that: three victims. Okay. The article goes on. It says Thomas Michael Camino, 31 years old, of San Juan Capistrano, was convicted in May of molesting an eight-year-old girl and..."
+
+**[00:07:47](/episodes/ep-yAIb-NuUh_U.md#ent-person-thomas-michael-camino-t-00-07-47)**
+> "...m saying his last name right. Thomas Michael Camino was a man who was factually put away into prison ..."
+
+**[00:09:22](/episodes/ep-yAIb-NuUh_U.md#ent-person-thomas-michael-camino-t-00-09-14)**
+> ""Thomas Michael Camino, who tried to lure girls with a lost cat story, g..."
+
+**[00:09:35](/episodes/ep-yAIb-NuUh_U.md#ent-person-thomas-michael-camino-t-00-09-14)**
+> "The article goes on. It says Thomas Michael Camino, 31 years old, of San Juan Capistrano, was convic..."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Wall Street Journal"
-description: "Wall Street Journal (Organizations) - 6 mentions"
+description: "Wall Street Journal (Organizations) - 7 mentions"
 id: "org-wall-street-journal"
 type: "ORG"
 ---
@@ -13,10 +13,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:57:03](/episodes/ep-7RLtGgkTh9o.md#ent-org-wall-street-journal-t-00-56-36)**
 > "...oint USA is Allie Stuckey. That is a wild headline. And they repeated that—the heir apparent—in the Wall Street Journal. That's weird. It's weird because it's wrong, and it's not true. That's why it's weird. Not because..."
+
+**[00:57:03](/episodes/ep-7RLtGgkTh9o.md#ent-org-wall-street-journal-t-00-56-36)**
+> "...that—the heir apparent—in the Wall Street Journal."
 
 </details>
 

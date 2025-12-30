@@ -1,6 +1,6 @@
 ---
 title: "Utah Valley University"
-description: "Utah Valley University (Organizations) - 130 mentions"
+description: "Utah Valley University (Organizations) - 133 mentions"
 id: "org-utah-valley-university"
 type: "ORG"
 aliases:
@@ -119,13 +119,19 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
 
 **[00:18:04](/episodes/ep-mKXdKV-OBog.md#ent-org-utah-valley-university-t-00-17-38)**
 > "...planes, SUBTT and SUBNT, are Egyptian military planes. And every plane that seems to be flying over UVU that day is somehow military-contracted planes. So are we supposed to think that this is all by coi..."
 
 **[00:19:18](/episodes/ep-mKXdKV-OBog.md#ent-org-utah-valley-university-t-00-19-03)**
 > "...chool color. Maybe actually they're all buying shirts and buying T-shirts, and the school color for UVU is maroon." And he told me, "No, it's not maroon." So this feels like something that we shouldn't i..."
+
+**[00:18:04](/episodes/ep-mKXdKV-OBog.md#ent-org-utah-valley-university-t-00-17-38)**
+> "... that seems to be flying over UVU that day is somehow military-contracted planes."
+
+**[00:19:18](/episodes/ep-mKXdKV-OBog.md#ent-org-utah-valley-university-t-00-19-03)**
+> "...rts, and the school color for UVU is maroon.""
 
 </details>
 
@@ -190,10 +196,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:44:05](/episodes/ep-7RLtGgkTh9o.md#ent-org-utah-valley-university-t-00-43-59)**
 > "...have done videos on Astrid Tuminez—the strange background story of Astrid Tuminez, the president of UVU. He didn't want to send me his number. I wanted to ask him basic questions. One of the questions I ..."
+
+**[00:44:05](/episodes/ep-7RLtGgkTh9o.md#ent-org-utah-valley-university-t-00-43-59)**
+> "...rid Tuminez, the president of UVU."
 
 </details>
 

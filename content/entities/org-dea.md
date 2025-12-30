@@ -1,6 +1,6 @@
 ---
 title: "DEA"
-description: "DEA (Organizations) - 8 mentions"
+description: "DEA (Organizations) - 9 mentions"
 id: "org-dea"
 type: "ORG"
 aliases:
@@ -18,10 +18,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:22:36](/episodes/ep-mKXdKV-OBog.md#t-00-21-55)**
 > "...joint operations going on between the DHS and the DOJ: being the Secret Service and the FBI and the DEA. None of this is normal. We all sense that none of this is normal. And it very much feels to me lik..."
+
+**[00:22:36](/episodes/ep-mKXdKV-OBog.md#t-00-21-55)**
+> "...t Service and the FBI and the DEA."
 
 </details>
 

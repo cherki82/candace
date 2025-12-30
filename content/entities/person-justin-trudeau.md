@@ -1,6 +1,6 @@
 ---
 title: "Justin Trudeau"
-description: "Justin Trudeau (People) - 2 mentions"
+description: "Justin Trudeau (People) - 5 mentions"
 id: "person-justin-trudeau"
 type: "PERSON"
 aliases:
@@ -17,13 +17,22 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (5 mentions)</summary>
 
 **[00:11:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-justin-trudeau-t-00-10-58)**
 > "It's not a coincidence that Justin Trudeau (Justin Trudeau) is gay."
 
 **[00:11:15](/episodes/ep-K1tFD7FfoCU.md#ent-person-justin-trudeau-t-00-10-58)**
 > "It's not a coincidence that Justin Trudeau (Justin Trudeau) is gay."
+
+**[00:11:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-justin-trudeau-t-00-10-58)**
+> "...ncidence that Justin Trudeau (Justin Trudeau) is gay."
+
+**[00:11:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-justin-trudeau-t-00-10-58)**
+> "...not a coincidence that Justin Trudeau (Justin Trudeau) is gay."
+
+**[00:11:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-justin-trudeau-t-00-10-58)**
+> "...e that Justin Trudeau (Justin Trudeau) is gay."
 
 </details>
 

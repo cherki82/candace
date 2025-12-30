@@ -1,6 +1,6 @@
 ---
 title: "Colorado"
-description: "Colorado (Places) - 1 mention"
+description: "Colorado (Places) - 3 mentions"
 id: "gpe-colorado"
 type: "GPE"
 ---
@@ -11,6 +11,17 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
+
+**[00:44:15](/episodes/ep-6DhWawD4ZiM.md#t-00-43-45)**
+> "...he plane flew from Andrews to Colorado Springs."
+
+**[00:44:22](/episodes/ep-6DhWawD4ZiM.md#t-00-43-45)**
+> "...n September 8th, it flew from Colorado Springs to Tucson."
+
+</details>
 
 <details>
 <summary>To My Friend, Charlie Kirk. (1 mentions)</summary>

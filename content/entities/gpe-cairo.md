@@ -1,6 +1,6 @@
 ---
 title: "Cairo"
-description: "Cairo (Places) - 27 mentions"
+description: "Cairo (Places) - 32 mentions"
 id: "gpe-cairo"
 type: "GPE"
 aliases:
@@ -36,7 +36,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (5 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (10 mentions)</summary>
 
 **[00:11:04](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-10-47)**
 > "... foremost, July 20th, we talked about SUBTT, which came in for its longest trip—that's correct—from Cairo. It went through to Paris, and then it went to Omaha, Nebraska. I think yesterday I said that it st..."
@@ -52,6 +52,21 @@ _Type: Places_
 
 **[00:13:06](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-12-57)**
 > "...to our planes. I just don't think people in Nebraska are sitting around like, "Hey, we should go to Cairo or Egypt," and it happens to line up with this plane that comes in—literally comes in on the exact ..."
+
+**[00:11:04](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-10-47)**
+> "...gest trip—that's correct—from Cairo."
+
+**[00:11:30](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-11-30)**
+> "... and investment delegation to Cairo, Egypt."
+
+**[00:11:54](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-11-30)**
+> "You got this plane from Cairo, Egypt, and we're gonna pull this up and show you..."
+
+**[00:11:57](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-11-30)**
+> "...ow what? Let's plan a trip to Cairo and see if we can make some money with them.""
+
+**[00:13:06](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-12-57)**
+> "...d like, "Hey, we should go to Cairo or Egypt," and it happens to line up with this pl..."
 
 </details>
 

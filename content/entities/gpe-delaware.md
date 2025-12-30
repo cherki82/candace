@@ -1,6 +1,6 @@
 ---
 title: "Delaware"
-description: "Delaware (Places) - 83 mentions"
+description: "Delaware (Places) - 85 mentions"
 id: "gpe-delaware"
 type: "GPE"
 aliases:
@@ -156,13 +156,19 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
 
 **[00:05:25](/episodes/ep-mKXdKV-OBog.md#ent-gpe-delaware-t-00-05-02)**
 > "...e morning of Charlie (Charlie Kirk)'s assassination—who flew from Provo and landed into Wilmington, Delaware, on the morning of Charlie (Charlie Kirk)'s assassination. It is a very important question that nee..."
 
 **[00:44:16](/episodes/ep-mKXdKV-OBog.md#ent-gpe-delaware-t-00-43-34)**
 > "...ay that lawsuits work is state by state; they have different laws. And so when we oddly got sued in Delaware, we have to—Noah then has to attach his license, meaning he's my lawyer on this case, but he has to..."
+
+**[00:05:25](/episodes/ep-mKXdKV-OBog.md#ent-gpe-delaware-t-00-05-02)**
+> "...o and landed into Wilmington, Delaware, on the morning of Charlie (Charlie Kirk)'s assas..."
+
+**[00:44:16](/episodes/ep-mKXdKV-OBog.md#ent-gpe-delaware-t-00-43-34)**
+> "... so when we oddly got sued in Delaware,"
 
 </details>
 

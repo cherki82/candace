@@ -1,6 +1,6 @@
 ---
 title: "Australia"
-description: "Australia (Places) - 20 mentions"
+description: "Australia (Places) - 23 mentions"
 id: "gpe-australia"
 type: "GPE"
 ---
@@ -67,7 +67,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (3 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (6 mentions)</summary>
 
 **[00:44:33](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-australia-t-00-44-24)**
 > "...ger." "You are an inspiration." "God bless you and your family." Michael (Michael) writes that from Australia. Thank you, Michael (Michael). I love that what I say has reached Australia. I wish that I was not ..."
@@ -77,6 +77,15 @@ _Type: Places_
 
 **[00:44:38](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-australia-t-00-44-24)**
 > "... Michael (Michael). I love that what I say has reached Australia. I wish that I was not banned from Australia, but you know me—I'm a super bad criminal, bad to the bone. I won't worship Israel. Stacey Massey (..."
+
+**[00:44:33](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-australia-t-00-44-24)**
+> "...el (Michael) writes that from Australia."
+
+**[00:44:35](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-australia-t-00-44-24)**
+> "...e that what I say has reached Australia."
+
+**[00:44:38](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-australia-t-00-44-24)**
+> "...sh that I was not banned from Australia, but you know me—I'm a super bad criminal, bad to..."
 
 </details>
 

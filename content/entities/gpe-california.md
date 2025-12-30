@@ -1,6 +1,6 @@
 ---
 title: "California"
-description: "California (Places) - 31 mentions"
+description: "California (Places) - 40 mentions"
 id: "gpe-california"
 type: "GPE"
 ---
@@ -52,7 +52,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (5 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (10 mentions)</summary>
 
 **[00:02:26](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-california-t-00-02-03)**
 > "... Haight-Ashbury Clinic. We're gonna talk about that and the program that they're running throughout California. Ye (Kanye West). When I said why I didn't speak out was because I recognized that he had done some..."
@@ -69,10 +69,25 @@ _Type: Places_
 **[00:52:41](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-california-t-00-52-23)**
 > "...ess Gaming writes, "Did you see that there are seven Calvary Chapel churches near Huntington Beach, California?" "That is the epicenter of the Family International movement—AKA the Children of God." "Their prac..."
 
+**[00:02:26](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-california-t-00-02-03)**
+> "...at they're running throughout California."
+
+**[00:11:07](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-california-t-00-10-43)**
+> "... Calvary Chapel in Brentwood, California."
+
+**[00:15:59](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-california-t-00-10-43)**
+> "...pears lives in Thousand Oaks, California—as does Justin Bieber."
+
+**[00:16:54](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-california-t-00-10-43)**
+> "...people live in Thousand Oaks, California, and he's been pastoring that church up until Jul..."
+
+**[00:52:41](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-california-t-00-52-23)**
+> "...urches near Huntington Beach, California?""
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (3 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (6 mentions)</summary>
 
 **[00:08:19](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-california-t-00-07-47)**
 > "...hild back in 1995. Here's what it reads in part, okay? "I was eight years old living in Dana Point, California when Thomas approached my friend and me to help him find his cat." "He took us to a park behind my ..."
@@ -82,6 +97,15 @@ _Type: Places_
 
 **[00:45:35](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-california-t-00-45-19)**
 > "...tion Alexis Wilkins is her name—Alexis Wilkins. She's also a member of the Calvary Chapel Church in California—Chino Hills. Also the Babylon Bee guy—I can't think of his name right now—is also involved in the C..."
+
+**[00:08:19](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-california-t-00-07-47)**
+> "...ars old living in Dana Point, California when Thomas approached my friend and me to help h..."
+
+**[00:20:23](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-california-t-00-20-23)**
+> "Then in Santa Ana, California, there's a fellowship of Calvary Chapels, which i..."
+
+**[00:45:35](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-california-t-00-45-19)**
+> "... the Calvary Chapel Church in California—Chino Hills."
 
 </details>
 
@@ -131,10 +155,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
 
 **[00:18:15](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-california-t-00-17-40)**
 > "...(Candace Owens)." And I'm like, "OK, fine." We get to the location. I think it was in Sherman Oaks, California at that time. And Charlie (Charlie Kirk) says to me—we're in the green room— "Hey, will we take a p..."
+
+**[00:18:15](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-california-t-00-17-40)**
+> "...think it was in Sherman Oaks, California at that time."
 
 </details>
 

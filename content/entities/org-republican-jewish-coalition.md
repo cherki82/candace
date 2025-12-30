@@ -1,6 +1,6 @@
 ---
 title: "Republican Jewish Coalition"
-description: "Republican Jewish Coalition (Organizations) - 2 mentions"
+description: "Republican Jewish Coalition (Organizations) - 3 mentions"
 id: "org-republican-jewish-coalition"
 type: "ORG"
 ---
@@ -21,10 +21,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
 
 **[00:01:30](/episodes/ep-K1tFD7FfoCU.md#ent-org-republican-jewish-coalition-t-00-01-30)**
 > "...ndsey Graham) shade, which he threw at American voters. So what happened was he was on stage at the Republican Jewish Coalition. He and many others, by the way—many other treasonous congressmen—basically directed their fire and..."
+
+**[00:01:30](/episodes/ep-K1tFD7FfoCU.md#ent-org-republican-jewish-coalition-t-00-01-30)**
+> "...ed was he was on stage at the Republican Jewish Coalition."
 
 </details>
 

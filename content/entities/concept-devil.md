@@ -1,6 +1,6 @@
 ---
 title: "devil"
-description: "devil (Concepts) - 24 mentions"
+description: "devil (Concepts) - 26 mentions"
 id: "concept-devil"
 type: "CONCEPT"
 ---
@@ -54,13 +54,19 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4 mentions)</summary>
 
 **[00:53:44](/episodes/ep-7RLtGgkTh9o.md#ent-concept-devil-t-00-53-05)**
 > ".... Indeed, we are going, Max. Truth Accountability writes, "Candace (Candace Owens)." "Remember, the devil is striking hard because God placed something powerful within you." "Thieves don't break into an em..."
 
 **[00:55:04](/episodes/ep-7RLtGgkTh9o.md#ent-concept-devil-t-00-54-30)**
 > "...es when you're speaking about something, it can feel like a personal attack. And the reality is the devil loves to go in places where he can be the most deceptive. And what better place to go, right? Peopl..."
+
+**[00:53:44](/episodes/ep-7RLtGgkTh9o.md#ent-concept-devil-t-00-53-05)**
+> ""Remember, the devil is striking hard because God placed something pow..."
+
+**[00:55:04](/episodes/ep-7RLtGgkTh9o.md#ent-concept-devil-t-00-54-30)**
+> "And the reality is the devil loves to go in places where he can be the most de..."
 
 </details>
 

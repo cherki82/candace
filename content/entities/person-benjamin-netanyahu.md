@@ -1,6 +1,6 @@
 ---
 title: "Benjamin Netanyahu"
-description: "Benjamin Netanyahu (People) - 165 mentions"
+description: "Benjamin Netanyahu (People) - 177 mentions"
 id: "person-benjamin-netanyahu"
 type: "PERSON"
 aliases:
@@ -70,7 +70,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (7 mentions)</summary>
 
 **[00:27:27](/episodes/ep-mKXdKV-OBog.md#ent-person-benjamin-netanyahu-t-00-26-47)**
 > "Bibi met Pollard on the runway"
@@ -80,6 +80,18 @@ _Type: People_
 
 **[00:42:42](/episodes/ep-mKXdKV-OBog.md#ent-person-benjamin-netanyahu-t-00-42-07)**
 > "...Charlie (Charlie Kirk) is in witness protection—that the FBI and the POTUS set it up to catch Bibi (Benjamin Netanyahu). Christ is King will always be king. Love you." I can tell you that that is not at all what happen..."
+
+**[00:27:27](/episodes/ep-mKXdKV-OBog.md#ent-person-benjamin-netanyahu-t-00-26-47)**
+> "And I think Bibi (Benjamin Netanyahu) met him on the runway like, "You served us well...."
+
+**[00:42:42](/episodes/ep-mKXdKV-OBog.md#ent-person-benjamin-netanyahu-t-00-42-07)**
+> "...OTUS set it up to catch Bibi (Benjamin Netanyahu)."
+
+**[00:42:42](/episodes/ep-mKXdKV-OBog.md#ent-person-benjamin-netanyahu-t-00-42-07)**
+> "... the POTUS set it up to catch Bibi (Benjamin Netanyahu)."
+
+**[00:42:42](/episodes/ep-mKXdKV-OBog.md#ent-person-benjamin-netanyahu-t-00-42-07)**
+> "...it up to catch Bibi (Benjamin Netanyahu)."
 
 </details>
 
@@ -103,18 +115,30 @@ _Type: People_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:04:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-benjamin-netanyahu-t-00-03-30)**
 > "...der the sun is trying to ward me off of. Well, how dare she? This is—I can't even believe it. Bibi (Benjamin Netanyahu) can blow up thousands and tens of thousands of kids, but Candace (Candace Owens) investigating the..."
 
+**[00:04:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-benjamin-netanyahu-t-00-03-30)**
+> "Bibi (Benjamin Netanyahu) can blow up thousands and tens of thousands of k..."
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (4 mentions)</summary>
 
 **[00:36:29](/episodes/ep-yAIb-NuUh_U.md#ent-person-benjamin-netanyahu-t-00-36-27)**
 > "...re protecting, but if you don't see that it has gone mask off—the people who won't even speak about Benjamin (Bibi) Netanyahu's crimes against humanity (he's being tried for crimes against humanity)—all someh..."
+
+**[00:36:29](/episodes/ep-yAIb-NuUh_U.md#ent-person-benjamin-netanyahu-t-00-36-27)**
+> "...'t even speak about Benjamin (Bibi) Netanyahu's crimes against humanity (he's being ..."
+
+**[00:36:29](/episodes/ep-yAIb-NuUh_U.md#ent-person-benjamin-netanyahu-t-00-36-27)**
+> "...le who won't even speak about Benjamin (Bibi) Netanyahu's crimes against humanity (he's ..."
+
+**[00:36:29](/episodes/ep-yAIb-NuUh_U.md#ent-person-benjamin-netanyahu-t-00-36-27)**
+> "...n speak about Benjamin (Bibi) Netanyahu's crimes against humanity (he's being tried for cri..."
 
 </details>
 
@@ -201,10 +225,22 @@ _Type: People_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (5 mentions)</summary>
 
 **[00:28:34](/episodes/ep-K1tFD7FfoCU.md#ent-person-benjamin-netanyahu-t-00-27-53)**
 > "...d so it's a good fit. It's a fitting program for her to go on to. If she was sitting down with like Benjamin Netanyahu's (Benjamin Netanyahu) entourage, I might have something to say. But everything that she has done h..."
+
+**[00:28:34](/episodes/ep-K1tFD7FfoCU.md#ent-person-benjamin-netanyahu-t-00-27-53)**
+> "...he was sitting down with like Benjamin Netanyahu's (Benjamin Netanyahu) entourage, I might have some..."
+
+**[00:28:34](/episodes/ep-K1tFD7FfoCU.md#ent-person-benjamin-netanyahu-t-00-27-53)**
+> "...th like Benjamin Netanyahu's (Benjamin Netanyahu) entourage, I might have something to say."
+
+**[00:28:34](/episodes/ep-K1tFD7FfoCU.md#ent-person-benjamin-netanyahu-t-00-27-53)**
+> "...tting down with like Benjamin Netanyahu's (Benjamin Netanyahu) entourage, I might have some..."
+
+**[00:28:34](/episodes/ep-K1tFD7FfoCU.md#ent-person-benjamin-netanyahu-t-00-27-53)**
+> "...enjamin Netanyahu's (Benjamin Netanyahu) entourage, I might have something to say."
 
 </details>
 
@@ -829,7 +865,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Benjamin Netanyahu (51)</strong></summary>
+<summary><strong class="section-title">Statements about Benjamin Netanyahu (49)</strong></summary>
 
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (9)</summary>
@@ -883,13 +919,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (4)</summary>
-
-- [00:28:22](/episodes/ep-2Riv3I7D0Yk.md#t-00-27-45) (Claim) **Candace Owens**: ["Benjamin Netanyahu invited Charlie Kirk to Israel two weeks before he ..."](/statements/statement-c2ca8bc92442.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (3)</summary>
 
 - [00:28:27](/episodes/ep-2Riv3I7D0Yk.md#t-00-27-45) (Claim) **Candace Owens**: ["Benjamin Netanyahu invited Charlie Kirk to Israel two weeks before Cha..."](/statements/statement-61e06a4a6d55.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 
 - [00:37:27](/episodes/ep-2Riv3I7D0Yk.md#t-00-36-55) (Claim) **Candace Owens**: ["Benjamin Netanyahu released a statement 24 hours after Charlie Kirk di..."](/statements/statement-1f34d67b8827.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -917,15 +950,12 @@ _Type: People_
 </details>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (5)</summary>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (4)</summary>
 
 - [00:40:05](/episodes/ep-ja26iltROkM.md#t-00-39-59) (Opinion) **Charlie Kirk** (via quoted speech): ["If you call everyone an anti-Semite for not taking a puritanical view ..."](/statements/statement-46d3e292d339.md)
 
 - [00:58:02](/episodes/ep-ja26iltROkM.md#t-00-57-53) (Claim) **Candace Owens**: ["Benjamin Netanyahu gave 150 million dollars for Operation Mockingpasto..."](/statements/statement-1585cafed12f.md)
   - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Candace Owens](/entities/person-candace-owens.md)
-
-- [00:58:03](/episodes/ep-ja26iltROkM.md#t-00-57-53) (Claim) **Candace Owens**: ["Benjamin Netanyahu offered Charlie Kirk a boatload of money, and he re..."](/statements/statement-ecd5008986d2.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:58:08](/episodes/ep-ja26iltROkM.md#t-00-57-53) (Claim) **Candace Owens**: ["Benjamin Netanyahu gave 150 million dollars for Operation Mockingpasto..."](/statements/statement-5ec6141c5921.md)
   - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Candace Owens](/entities/person-candace-owens.md)

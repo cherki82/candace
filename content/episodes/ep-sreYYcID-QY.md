@@ -313,7 +313,7 @@ youtube_url: "https://www.youtube.com/watch?v=sreYYcID-QY"
 </details>
 
 <details>
-<summary><strong>Statements (92)</strong></summary>
+<summary><strong>Statements (91)</strong></summary>
 
 - [00:00:06](#t-00-00-00) [○] (Claim) **Candace Owens**: ["Benjamin Netanyahu is again denying that he murdered Charlie Kirk"](/statements/statement-22f427641aa0.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -331,8 +331,6 @@ youtube_url: "https://www.youtube.com/watch?v=sreYYcID-QY"
   - About: [Eric Bolling](/entities/person-eric-bolling.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:00:33](#t-00-00-00) [○] (Accusation) **Candace Owens**: ["Eric Bolling is lying on the PBD podcast to establish the narrative that Candace..."](/statements/statement-06bd3137a057.md)
   - About: [Eric Bolling](/entities/person-eric-bolling.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [00:00:33](#t-00-00-00) [○] (Accusation) **Candace Owens**: ["Eric Bolling is lying through his teeth on PBD podcast to establish the narrativ..."](/statements/statement-bfd729f1d514.md)
-  - About: [Eric Bolling](/entities/person-eric-bolling.md)
 - [00:02:24](#t-00-02-05) [○] (Opinion) **Candace Owens**: ["In the Tyler-Lance text messages, Tyler Robinson uses the word 'squad car' which..."](/statements/statement-f8d935137fcc.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:02:39](#t-00-02-05) [○] (Accusation) **Candace Owens**: ["Tyler Robinson wrote 'squad car' in his text messages to Lance, which is termino..."](/statements/statement-a0da34a16881.md)

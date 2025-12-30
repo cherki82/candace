@@ -1,6 +1,6 @@
 ---
 title: "Nashville"
-description: "Nashville (Places) - 11 mentions"
+description: "Nashville (Places) - 13 mentions"
 id: "gpe-nashville"
 type: "GPE"
 ---
@@ -44,13 +44,19 @@ _Type: Places_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (4 mentions)</summary>
 
 **[00:36:52](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-nashville-t-00-36-34)**
 > "... Makes videos online. And I don't know. I guess he flew down in his FBI plane to go see her down in Nashville. People found out that he went to go see her down in Nashville. The internet revolted and said this..."
 
 **[00:36:57](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-nashville-t-00-36-34)**
 > "... his FBI plane to go see her down in Nashville. People found out that he went to go see her down in Nashville. The internet revolted and said this is an inappropriate use of taxpayer funds. Now it turns out th..."
+
+**[00:36:52](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-nashville-t-00-36-34)**
+> "...I plane to go see her down in Nashville."
+
+**[00:36:57](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-nashville-t-00-36-34)**
+> "...he went to go see her down in Nashville."
 
 </details>
 

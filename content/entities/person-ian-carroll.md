@@ -1,6 +1,6 @@
 ---
 title: "Ian Carroll"
-description: "Ian Carroll (People) - 22 mentions"
+description: "Ian Carroll (People) - 23 mentions"
 id: "person-ian-carroll"
 type: "PERSON"
 aliases:
@@ -28,13 +28,16 @@ _Type: People_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
 
 **[00:46:13](/episodes/ep-mKXdKV-OBog.md#ent-person-ian-carroll-t-00-45-44)**
 > "...now that Joe Rogan has definitely had people on—spoken about Israel. He's really gone there. He had Ian Carroll. So that would be unusual. Yeah, Joe Rogan has definitely taken a lot of risks. I haven't seen it. ..."
 
 **[00:46:14](/episodes/ep-mKXdKV-OBog.md#ent-person-ian-carroll-t-00-45-44)**
 > "Joe Rogan had Ian Carroll on the show"
+
+**[00:46:13](/episodes/ep-mKXdKV-OBog.md#ent-person-ian-carroll-t-00-45-44)**
+> "He had Ian Carroll."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Juergen Buehler"
-description: "Juergen Buehler (People) - 2 mentions"
+description: "Juergen Buehler (People) - 7 mentions"
 id: "person-juergen-buehler"
 type: "PERSON"
 aliases:
@@ -19,13 +19,28 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (7 mentions)</summary>
 
 **[00:21:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-juergen-buehler-t-00-21-15)**
 > "Douglas Murray (Douglas Murray), Yael Eckstein (Yael Eckstein), and Dr. Juergen Buehler (Dr. Juergen Buehler)"
 
 **[00:21:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-juergen-buehler-t-00-21-15)**
 > "...Eckstein (Yael Eckstein), and Dr. Juergen Buehler (Dr. Juergen Buehler)."
+
+**[00:21:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-juergen-buehler-t-00-21-15)**
+> "...tein (Yael Eckstein), and Dr. Juergen Buehler (Dr. Juergen Buehler)."
+
+**[00:21:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-juergen-buehler-t-00-21-15)**
+> "... and Dr. Juergen Buehler (Dr. Juergen Buehler)."
+
+**[00:21:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-juergen-buehler-t-00-21-15)**
+> "...in), and Dr. Juergen Buehler (Dr. Juergen Buehler)."
+
+**[00:21:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-juergen-buehler-t-00-21-15)**
+> "...el Eckstein), and Dr. Juergen Buehler (Dr. Juergen Buehler)."
+
+**[00:21:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-juergen-buehler-t-00-21-15)**
+> "... Juergen Buehler (Dr. Juergen Buehler)."
 
 </details>
 

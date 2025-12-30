@@ -1,6 +1,6 @@
 ---
 title: "Andrews Air Force Base"
-description: "Andrews Air Force Base (Places) - 8 mentions"
+description: "Andrews Air Force Base (Places) - 9 mentions"
 id: "gpe-andrews-air-force-base"
 type: "GPE"
 aliases:
@@ -35,7 +35,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (5 mentions)</summary>
 
 **[00:43:49](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-andrews-air-force-base-t-00-43-45)**
 > "...ar plane that is based out of Andrews Air Force Base, shown as Camp Springs below."
@@ -48,6 +48,9 @@ _Type: Places_
 
 **[00:44:34](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-andrews-air-force-base-t-00-44-27)**
 > "... and then El Paso back to St. Andrews."
+
+**[00:43:49](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-andrews-air-force-base-t-00-43-45)**
+> "...rews Air Force Base, shown as Camp Springs below."
 
 </details>
 

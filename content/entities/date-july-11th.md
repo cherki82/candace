@@ -1,6 +1,6 @@
 ---
 title: "July 11th"
-description: "July 11th (Dates) - 12 mentions"
+description: "July 11th (Dates) - 14 mentions"
 id: "date-july-11th"
 type: "DATE"
 aliases:
@@ -29,10 +29,16 @@ _Type: Dates_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
 
 **[00:13:19](/episodes/ep-mKXdKV-OBog.md#ent-date-july-11th-t-00-12-57)**
 > "...ion: I think yesterday I said that Tucker (Tucker Carlson) spoke on July 18th; he actually spoke on July 11th. I just kind of copy-and-pasted that wrong, so we made that correction. Anyways, yeah, we can then ..."
+
+**[00:13:19](/episodes/ep-mKXdKV-OBog.md#ent-date-july-11th-t-00-12-57)**
+> "...ly 18th; he actually spoke on July 11th. I just kind of copy-and-pasted"
+
+**[00:13:19](/episodes/ep-mKXdKV-OBog.md#ent-date-july-11th-t-00-12-57)**
+> "...ker (Tucker Carlson) spoke on July 18th; he actually spoke on July 11th. I just kind of c..."
 
 </details>
 

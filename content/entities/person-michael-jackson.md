@@ -1,6 +1,6 @@
 ---
 title: "Michael Jackson"
-description: "Michael Jackson (People) - 4 mentions"
+description: "Michael Jackson (People) - 8 mentions"
 id: "person-michael-jackson"
 type: "PERSON"
 ---
@@ -13,7 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (8 mentions)</summary>
 
 **[00:23:52](/episodes/ep-7RLtGgkTh9o.md#ent-person-michael-jackson-t-00-23-52)**
 > "...t up, they will effectively bankrupt you. Your consequence will be that you have no more money. And Michael Jackson—despite the fact that he was beating Sony, he was owning his own catalog and almost owned the Beatl..."
@@ -26,6 +26,18 @@ _Type: People_
 
 **[00:25:15](/episodes/ep-7RLtGgkTh9o.md#ent-person-michael-jackson-t-00-25-15)**
 > "... way that they can hostilely take over your company is with an untimely death. Kurt Cobain, Prince, Michael Jackson, Charlie (Charlie Kirk). And I should also mention Bob Bryar—talk about a—I don't know—timely or un..."
+
+**[00:23:52](/episodes/ep-7RLtGgkTh9o.md#ent-person-michael-jackson-t-00-23-52)**
+> "And Michael Jackson—despite the fact that he was beating Sony, he was..."
+
+**[00:24:00](/episodes/ep-7RLtGgkTh9o.md#ent-person-michael-jackson-t-00-23-52)**
+> "...y swept in and they took down Michael Jackson."
+
+**[00:24:28](/episodes/ep-7RLtGgkTh9o.md#ent-person-michael-jackson-t-00-23-52)**
+> "Candace (Candace Owens), Michael Jackson."
+
+**[00:25:15](/episodes/ep-7RLtGgkTh9o.md#ent-person-michael-jackson-t-00-25-15)**
+> "Kurt Cobain, Prince, Michael Jackson, Charlie (Charlie Kirk)."
 
 </details>
 

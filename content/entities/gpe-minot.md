@@ -1,6 +1,6 @@
 ---
 title: "Minot"
-description: "Minot (Places) - 15 mentions"
+description: "Minot (Places) - 26 mentions"
 id: "gpe-minot"
 type: "GPE"
 ---
@@ -21,7 +21,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (11 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (22 mentions)</summary>
 
 **[00:05:58](/episodes/ep-mKXdKV-OBog.md#ent-gpe-minot-t-00-05-45)**
 > "...mber—came into the United States on September 4th. You might recall it stopped for just one hour in Minot, North Dakota, which I learned has an Air Force base. It pretty much is just the Air Force base, by..."
@@ -55,6 +55,39 @@ _Type: Places_
 
 **[00:09:13](/episodes/ep-mKXdKV-OBog.md#ent-gpe-minot-t-00-08-31)**
 > "...ng, called Operation Valhalla Strike, allowed the unit to complete requirements not possible at the Minot Air Force Base, including full-distance live-fire exercises. Camp Ripley provided full-distance fir..."
+
+**[00:05:58](/episodes/ep-mKXdKV-OBog.md#ent-gpe-minot-t-00-05-45)**
+> "... stopped for just one hour in Minot, North Dakota, which I learned has an Air Force b..."
+
+**[00:06:23](/episodes/ep-mKXdKV-OBog.md#ent-gpe-minot-t-00-05-45)**
+> "...k here is SUBTT's stopover in Minot, North Dakota."
+
+**[00:06:34](/episodes/ep-mKXdKV-OBog.md#ent-gpe-minot-t-00-06-30)**
+> "Not only does Minot have an FBI office, but it also has an Air Force ..."
+
+**[00:07:24](/episodes/ep-mKXdKV-OBog.md#ent-gpe-minot-t-00-07-13)**
+> "Minot definitely is home to exactly what we are telling..."
+
+**[00:07:31](/episodes/ep-mKXdKV-OBog.md#ent-gpe-minot-t-00-07-13)**
+> "...by the way, about the city of Minot."
+
+**[00:07:43](/episodes/ep-mKXdKV-OBog.md#ent-gpe-minot-t-00-07-13)**
+> "And in Minot, there are just 45,000 people, and that includes ..."
+
+**[00:07:43](/episodes/ep-mKXdKV-OBog.md#ent-gpe-minot-t-00-07-13)**
+> "...ho are stationed there at the Minot Air Force."
+
+**[00:08:15](/episodes/ep-mKXdKV-OBog.md#ent-gpe-minot-t-00-07-51)**
+> "So they took the Minot boys, and they took them over to Minnesota, and i..."
+
+**[00:08:36](/episodes/ep-mKXdKV-OBog.md#ent-gpe-minot-t-00-08-31)**
+> "So this is on the Minot Air Force Base website."
+
+**[00:08:40](/episodes/ep-mKXdKV-OBog.md#ent-gpe-minot-t-00-08-31)**
+> "...where the 891st Squadron from Minot Air Force Base, North Dakota, traveled to Camp Ri..."
+
+**[00:09:13](/episodes/ep-mKXdKV-OBog.md#ent-gpe-minot-t-00-08-31)**
+> "at the Minot Air Force Base, including full-distance live-fire..."
 
 </details>
 

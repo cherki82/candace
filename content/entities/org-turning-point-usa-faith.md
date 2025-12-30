@@ -1,6 +1,6 @@
 ---
 title: "Turning Point USA Faith"
-description: "Turning Point USA Faith (Organizations) - 52 mentions"
+description: "Turning Point USA Faith (Organizations) - 56 mentions"
 id: "org-turning-point-usa-faith"
 type: "ORG"
 aliases:
@@ -30,6 +30,14 @@ _Type: Organizations_
 </details>
 
 <details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1 mentions)</summary>
+
+**[00:52:28](/episodes/ep-6DhWawD4ZiM.md#ent-org-turning-point-usa-faith-t-00-51-49)**
+> "Turning point faith, man."
+
+</details>
+
+<details>
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
 
 **[00:07:49](/episodes/ep-his-JBjlkh8.md#ent-org-turning-point-usa-faith-t-00-07-24)**
@@ -41,15 +49,18 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:32:26](/episodes/ep-7RLtGgkTh9o.md#ent-org-turning-point-usa-faith-t-00-32-07)**
 > "... what is happening inside of these churches. And I am definitively not letting go—obviously—of this TPUSA faith infiltration, which is what it looks like to me. We're going to take a brief break, and we're going..."
 
+**[00:32:26](/episodes/ep-7RLtGgkTh9o.md#ent-org-turning-point-usa-faith-t-00-32-07)**
+> "... letting go—obviously—of this TPUSA faith infiltration, which is what it looks like to me."
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (7 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (9 mentions)</summary>
 
 **[00:07:16](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-faith-t-00-07-16)**
 > "What exactly is TPUSA Faith?"
@@ -71,6 +82,12 @@ _Type: Organizations_
 
 **[01:01:22](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-faith-t-01-00-44)**
 > "...t the people that are running Turning Point Faith"
+
+**[00:07:16](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-faith-t-00-07-16)**
+> "What exactly is TPUSA Faith?"
+
+**[00:27:23](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-faith-t-00-27-15)**
+> "...hat there was something about Turning Point USA Faith that to me reads like an infiltration of sorts, o..."
 
 </details>
 

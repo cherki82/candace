@@ -1,6 +1,6 @@
 ---
 title: "Bethany Frankel"
-description: "Bethany Frankel (People) - 4 mentions"
+description: "Bethany Frankel (People) - 5 mentions"
 id: "person-bethany-frankel"
 type: "PERSON"
 aliases:
@@ -17,7 +17,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (5 mentions)</summary>
 
 **[00:05:16](/episodes/ep-6DhWawD4ZiM.md#ent-person-bethany-frankel-t-00-04-36)**
 > "...tly think it was said best by Bethany (Bethany Frankel), not related to this situation."
@@ -30,6 +30,9 @@ _Type: People_
 
 **[00:05:40](/episodes/ep-6DhWawD4ZiM.md#ent-person-bethany-frankel-t-00-05-21)**
 > "And Bethany (Bethany Frankel) was like, no, this isn't how it works."
+
+**[00:05:16](/episodes/ep-6DhWawD4ZiM.md#ent-person-bethany-frankel-t-00-04-36)**
+> "... it was said best by Bethany (Bethany Frankel), not related to this situation."
 
 </details>
 

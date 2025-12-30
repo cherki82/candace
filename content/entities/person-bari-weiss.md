@@ -1,6 +1,6 @@
 ---
 title: "Bari Weiss"
-description: "Bari Weiss (People) - 47 mentions"
+description: "Bari Weiss (People) - 55 mentions"
 id: "person-bari-weiss"
 type: "PERSON"
 aliases:
@@ -119,7 +119,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (5 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (8 mentions)</summary>
 
 **[00:11:56](/episodes/ep-6DhWawD4ZiM.md#ent-person-bari-weiss-t-00-11-42)**
 > "... News town hall sit down with Barry (Barry Weiss), which was filmed today."
@@ -135,6 +135,15 @@ _Type: People_
 
 **[00:48:54](/episodes/ep-6DhWawD4ZiM.md#ent-person-bari-weiss-t-00-36-57)**
 > "She has also made time for an upcoming CBS News town hall sit down with Barry (Barry Weiss)"
+
+**[00:11:56](/episodes/ep-6DhWawD4ZiM.md#ent-person-bari-weiss-t-00-11-42)**
+> "...own hall sit down with Barry (Barry Weiss), which was filmed today."
+
+**[00:35:01](/episodes/ep-6DhWawD4ZiM.md#ent-person-bari-weiss-t-00-34-47)**
+> "...ly today sat down with Barry (Barry Weiss)."
+
+**[00:35:07](/episodes/ep-6DhWawD4ZiM.md#ent-person-bari-weiss-t-00-34-47)**
+> "...versation moderated by Barry (Barry Weiss)."
 
 </details>
 
@@ -167,7 +176,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (5 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (10 mentions)</summary>
 
 **[00:28:48](/episodes/ep-mKXdKV-OBog.md#ent-person-bari-weiss-t-00-28-48)**
 > "...ur faces now. It's never been this in our face, you know? Before we get to what he had to say about Bari Weiss, I want to remind you that Bari Weiss started and is a part-owner, at least, of The Free Press befo..."
@@ -183,6 +192,21 @@ _Type: People_
 
 **[00:33:40](/episodes/ep-mKXdKV-OBog.md#ent-person-bari-weiss-t-00-33-40)**
 > "...essel of state propaganda. It's all—it's supposed to be. It's not supposed to be anything else. And Bari Weiss—to her credit—is not pretending she's there to do anything else. She's going, "Why are there standa..."
+
+**[00:28:48](/episodes/ep-mKXdKV-OBog.md#ent-person-bari-weiss-t-00-28-48)**
+> "...t to what he had to say about Bari Weiss, I want to remind you that Bari Weiss started and..."
+
+**[00:28:48](/episodes/ep-mKXdKV-OBog.md#ent-person-bari-weiss-t-00-28-48)**
+> "...ss, I want to remind you that Bari Weiss started and is a part-owner, at least, of The Fre..."
+
+**[00:32:48](/episodes/ep-mKXdKV-OBog.md#ent-person-bari-weiss-t-00-32-20)**
+> "...re's what he had to say about Bari Weiss' installation—because that's what it was."
+
+**[00:32:58](/episodes/ep-mKXdKV-OBog.md#ent-person-bari-weiss-t-00-32-58)**
+> "(Tim Dillon clip) Bari Weiss is basically telling people, "Why don't you prete..."
+
+**[00:33:40](/episodes/ep-mKXdKV-OBog.md#ent-person-bari-weiss-t-00-33-40)**
+> "And Bari Weiss—to her credit—is not pretending she's there to do..."
 
 </details>
 

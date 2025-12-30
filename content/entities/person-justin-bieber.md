@@ -1,6 +1,6 @@
 ---
 title: "Justin Bieber"
-description: "Justin Bieber (People) - 5 mentions"
+description: "Justin Bieber (People) - 7 mentions"
 id: "person-justin-bieber"
 type: "PERSON"
 ---
@@ -13,13 +13,19 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4 mentions)</summary>
 
 **[00:15:59](/episodes/ep-7RLtGgkTh9o.md#ent-person-justin-bieber-t-00-15-24)**
 > "...s tied to Epstein somehow via Tony Blair. Britney Spears lives in Thousand Oaks, California—as does Justin Bieber. I believe P. Diddy, I believe, has a house there as well. I know Lou Taylor built a house there an..."
 
 **[00:32:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-justin-bieber-t-00-32-07)**
 > "... to start paying attention to the Calvary Chapel in whatever regard you're researching—whether it's Justin Bieber, as I just mentioned, whether you're looking into the Courtney Love thing, or whether you are focus..."
+
+**[00:15:59](/episodes/ep-7RLtGgkTh9o.md#ent-person-justin-bieber-t-00-15-24)**
+> "...sand Oaks, California—as does Justin Bieber."
+
+**[00:32:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-justin-bieber-t-00-32-07)**
+> "...u're researching—whether it's Justin Bieber, as I just mentioned, whether you're looking into..."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "SU-BTT"
-description: "SU-BTT (Vehicles) - 38 mentions"
+description: "SU-BTT (Vehicles) - 42 mentions"
 id: "vehicle-su-btt"
 type: "VEHICLE"
 aliases:
@@ -28,7 +28,7 @@ _Type: Vehicles_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (8 mentions)</summary>
 
 **[00:05:48](/episodes/ep-mKXdKV-OBog.md#ent-vehicle-su-btt-t-00-05-45)**
 > "...l to this puzzle. Taking a more serious look into that one-hour layover stop when our yellow plane, SUBTT—the tail number—came into the United States on September 4th. You might recall it stopped for just ..."
@@ -41,6 +41,18 @@ _Type: Vehicles_
 
 **[00:17:57](/episodes/ep-mKXdKV-OBog.md#ent-vehicle-su-btt-t-00-17-38)**
 > "...ith shooting in Ukraine, of all places. It's getting shady. And of course, our now infamous planes, SUBTT and SUBNT, are Egyptian military planes. And every plane that seems to be flying over UVU that day ..."
+
+**[00:05:48](/episodes/ep-mKXdKV-OBog.md#ent-vehicle-su-btt-t-00-05-45)**
+> "...r stop when our yellow plane, SUBTT—the tail number—came into the United States on Se..."
+
+**[00:06:23](/episodes/ep-mKXdKV-OBog.md#ent-vehicle-su-btt-t-00-05-45)**
+> "... keys to not overlook here is SUBTT's stopover in Minot, North Dakota."
+
+**[00:11:04](/episodes/ep-mKXdKV-OBog.md#ent-vehicle-su-btt-t-00-10-47)**
+> "...t, July 20th, we talked about SUBTT, which came in for its longest trip—that's correc..."
+
+**[00:17:57](/episodes/ep-mKXdKV-OBog.md#ent-vehicle-su-btt-t-00-17-38)**
+> "...rse, our now infamous planes, SUBTT and SUBNT, are Egyptian military planes."
 
 </details>
 

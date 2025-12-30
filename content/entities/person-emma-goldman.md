@@ -1,6 +1,6 @@
 ---
 title: "Emma Goldman"
-description: "Emma Goldman (People) - 3 mentions"
+description: "Emma Goldman (People) - 7 mentions"
 id: "person-emma-goldman"
 type: "PERSON"
 aliases:
@@ -15,6 +15,23 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4 mentions)</summary>
+
+**[00:17:24](/episodes/ep-6DhWawD4ZiM.md#t-00-17-16)**
+> "just because if this was Goldman Sachs and the president of Goldman Sachs or manag..."
+
+**[00:17:24](/episodes/ep-6DhWawD4ZiM.md#t-00-17-16)**
+> "...an Sachs and the president of Goldman Sachs or managing director of Goldman Sachs died ..."
+
+**[00:17:24](/episodes/ep-6DhWawD4ZiM.md#t-00-17-16)**
+> "...Sachs or managing director of Goldman Sachs died in a horrifically violent way, the Gol..."
+
+**[00:17:24](/episodes/ep-6DhWawD4ZiM.md#t-00-17-16)**
+> "...horrifically violent way, the Goldman Sachs family might mourn for a couple of months, ..."
+
+</details>
 
 <details>
 <summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (3 mentions)</summary>

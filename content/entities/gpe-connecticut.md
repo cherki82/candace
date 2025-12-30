@@ -1,6 +1,6 @@
 ---
 title: "Connecticut"
-description: "Connecticut (Places) - 8 mentions"
+description: "Connecticut (Places) - 9 mentions"
 id: "gpe-connecticut"
 type: "GPE"
 ---
@@ -21,10 +21,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
 
 **[00:46:28](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-connecticut-t-00-45-48)**
 > "... mass shootings. I think also the one that was in—and I can't think of the guy's name—but it was in Connecticut: similar story. He somehow hacked the government system, and then the FBI showed up at his door, an..."
+
+**[00:46:28](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-connecticut-t-00-45-48)**
+> "... the guy's name—but it was in Connecticut: similar story."
 
 </details>
 

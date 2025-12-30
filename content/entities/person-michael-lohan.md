@@ -1,6 +1,6 @@
 ---
 title: "Michael Lohan"
-description: "Michael Lohan (People) - 2 mentions"
+description: "Michael Lohan (People) - 4 mentions"
 id: "person-michael-lohan"
 type: "PERSON"
 ---
@@ -13,13 +13,19 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4 mentions)</summary>
 
 **[00:14:01](/episodes/ep-7RLtGgkTh9o.md#ent-person-michael-lohan-t-00-13-53)**
 > "... Parent Trap when they were growing up—and then somehow became addicted to drugs. Suddenly her dad, Michael Lohan—you might not remember this, but he got in front of a mic speaking to the press and called out Lou ..."
 
 **[00:14:10](/episodes/ep-7RLtGgkTh9o.md#ent-person-michael-lohan-t-00-13-53)**
 > "...this, but he got in front of a mic speaking to the press and called out Lou Taylor. Take a listen. (Michael Lohan clip) When Lindsay was supposed to go into Morningstar rehab, they started to reconstruct everythin..."
+
+**[00:14:01](/episodes/ep-7RLtGgkTh9o.md#ent-person-michael-lohan-t-00-13-53)**
+> "Suddenly her dad, Michael Lohan—you might not remember this, but he got in front ..."
+
+**[00:14:10](/episodes/ep-7RLtGgkTh9o.md#ent-person-michael-lohan-t-00-13-53)**
+> "Take a listen. (Michael Lohan clip)"
 
 </details>
 

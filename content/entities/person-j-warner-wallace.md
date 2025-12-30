@@ -1,6 +1,6 @@
 ---
 title: "J. Warner Wallace"
-description: "J. Warner Wallace (People) - 1 mention"
+description: "J. Warner Wallace (People) - 2 mentions"
 id: "person-j-warner-wallace"
 type: "PERSON"
 ---
@@ -13,10 +13,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
 **[00:03:18](/episodes/ep-yAIb-NuUh_U.md#ent-person-j-warner-wallace-t-00-02-46)**
 > "...g has evidence behind it, and what people don't seem to understand is why I had my friend Detective J. Warner Wallace on my podcast two weeks after Charlie (Charlie Kirk)'s martyrdom. People don't understand how prose..."
+
+**[00:03:18](/episodes/ep-yAIb-NuUh_U.md#ent-person-j-warner-wallace-t-00-02-46)**
+> "...why I had my friend Detective J. Warner Wallace on my podcast two weeks after Charlie (Charlie Ki..."
 
 </details>
 

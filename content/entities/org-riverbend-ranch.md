@@ -1,6 +1,6 @@
 ---
 title: "Riverbend Ranch"
-description: "Riverbend Ranch (Organizations) - 141 mentions"
+description: "Riverbend Ranch (Organizations) - 150 mentions"
 id: "org-riverbend-ranch"
 type: "ORG"
 aliases:
@@ -102,7 +102,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (9 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (18 mentions)</summary>
 
 **[00:32:43](/episodes/ep-7RLtGgkTh9o.md#ent-org-riverbend-ranch-t-00-32-07)**
 > "... that we left off on a couple of days ago. Alright, you guys. I've been speaking to you a lot about Riverbend Ranch because I absolutely love their steaks. Now Black Angus beef is already famous for its great flavor..."
@@ -130,6 +130,33 @@ _Type: Organizations_
 
 **[00:34:00](/episodes/ep-7RLtGgkTh9o.md#ent-org-riverbend-ranch-t-00-33-25)**
 > "...ckout, you will get $20 off your first order. Trust me, you're going to be very impressed. So visit riverbendranch.com and use promo code Candace at checkout. Also reminding you guys about American Financing because th..."
+
+**[00:32:43](/episodes/ep-7RLtGgkTh9o.md#ent-org-riverbend-ranch-t-00-32-07)**
+> "...n speaking to you a lot about Riverbend Ranch because I absolutely love their steaks."
+
+**[00:32:47](/episodes/ep-7RLtGgkTh9o.md#ent-org-riverbend-ranch-t-00-32-47)**
+> "...ous for its great flavor, but Riverbend Ranch has taken Black Angus beef to a whole new level."
+
+**[00:32:53](/episodes/ep-7RLtGgkTh9o.md#ent-org-riverbend-ranch-t-00-32-47)**
+> "Over the last 35 years, Riverbend Ranch has been creating an elite Angus herd by using ul..."
+
+**[00:33:03](/episodes/ep-7RLtGgkTh9o.md#ent-org-riverbend-ranch-t-00-32-47)**
+> "Each year, Riverbend Ranch provides about 850 elite Black Angus bulls contai..."
+
+**[00:33:11](/episodes/ep-7RLtGgkTh9o.md#ent-org-riverbend-ranch-t-00-32-47)**
+> "...ve a substantial premium from Riverbend Ranch for raising those calves without the use of growt..."
+
+**[00:33:19](/episodes/ep-7RLtGgkTh9o.md#ent-org-riverbend-ranch-t-00-32-47)**
+> "...hese elite genetics return to Riverbend Ranch to spend the following summer in lush mountain pa..."
+
+**[00:33:25](/episodes/ep-7RLtGgkTh9o.md#ent-org-riverbend-ranch-t-00-33-25)**
+> "So when you purchase from Riverbend Ranch, you're not only supporting the 64 cowboys and th..."
+
+**[00:33:52](/episodes/ep-7RLtGgkTh9o.md#ent-org-riverbend-ranch-t-00-33-25)**
+> "...ht now, when you head over to riverbendranch.com and use promo code Candace at checkout, you will ..."
+
+**[00:34:00](/episodes/ep-7RLtGgkTh9o.md#ent-org-riverbend-ranch-t-00-33-25)**
+> "So visit riverbendranch.com and use promo code Candace at checkout."
 
 </details>
 

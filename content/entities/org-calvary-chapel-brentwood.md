@@ -1,6 +1,6 @@
 ---
 title: "Calvary Chapel Brentwood"
-description: "Calvary Chapel Brentwood (Organizations) - 0 mentions"
+description: "Calvary Chapel Brentwood (Organizations) - 1 mention"
 id: "org-calvary-chapel-brentwood"
 type: "ORG"
 ---
@@ -12,7 +12,13 @@ _Type: Organizations_
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
 
-_No mentions recorded._
+<details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+
+**[00:11:28](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-brentwood-t-00-11-28)**
+> "...orship income to the Taylors' Calvary Chapel Brentwood—a practice known as tithing—according to a 2010 f..."
+
+</details>
 
 </details>
 

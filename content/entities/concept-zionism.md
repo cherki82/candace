@@ -1,6 +1,6 @@
 ---
 title: "Zionism"
-description: "Zionism (Concepts) - 145 mentions"
+description: "Zionism (Concepts) - 168 mentions"
 id: "concept-zionism"
 type: "CONCEPT"
 aliases:
@@ -63,7 +63,7 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (6 mentions)</summary>
 
 **[00:00:37](/episodes/ep-mKXdKV-OBog.md#ent-concept-zionism-t-00-00-00)**
 > "...ly to where the Egyptian yellow plane landed on its way to Provo. We need to definitely keep at it. Zionists are mad. I don't know why this investigation really has set Zionists off. I think it's because we'r..."
@@ -73,6 +73,15 @@ _Type: Concepts_
 
 **[00:24:53](/episodes/ep-mKXdKV-OBog.md#ent-concept-zionism-t-00-24-49)**
 > "...day is the general public having to pretend like the United States is not completely infiltrated by Zionist psychopaths. And it's just getting odd, right? They're going through extraordinary lengths to let u..."
+
+**[00:00:37](/episodes/ep-mKXdKV-OBog.md#ent-concept-zionism-t-00-00-00)**
+> "Zionists are mad."
+
+**[00:00:38](/episodes/ep-mKXdKV-OBog.md#ent-concept-zionism-t-00-00-00)**
+> "... investigation really has set Zionists off."
+
+**[00:24:53](/episodes/ep-mKXdKV-OBog.md#ent-concept-zionism-t-00-24-49)**
+> "...not completely infiltrated by Zionist psychopaths."
 
 </details>
 
@@ -108,7 +117,7 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (5 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (12 mentions)</summary>
 
 **[00:03:30](/episodes/ep-7RLtGgkTh9o.md#ent-concept-zionism-t-00-03-30)**
 > "...t—via the MeToo movement. And I had posited to And of course, as we've been discussing on the show, Zionist Inc. Everybody understands what Zionist Inc. is now. You see it everywhere. You cannot question Isr..."
@@ -125,10 +134,31 @@ _Type: Concepts_
 **[00:57:59](/episodes/ep-7RLtGgkTh9o.md#ent-concept-zionism-t-00-57-22)**
 > "...th the two-party system. I agree fully. Drew Cass writes, "Candace (Candace Owens), I feel like the Zionists are trying to distract you by making you debunk their lies." "We, as the people, believe you. Stay ..."
 
+**[00:03:30](/episodes/ep-7RLtGgkTh9o.md#ent-concept-zionism-t-00-03-30)**
+> "... been discussing on the show, Zionist Inc. Everybody understands what Zionist Inc. is n..."
+
+**[00:03:30](/episodes/ep-7RLtGgkTh9o.md#ent-concept-zionism-t-00-03-30)**
+> "...c. Everybody understands what Zionist Inc. is now."
+
+**[00:04:00](/episodes/ep-7RLtGgkTh9o.md#ent-concept-zionism-t-00-03-30)**
+> "which every Christian Zionist influencer under the sun is trying to ward me off..."
+
+**[00:27:27](/episodes/ep-7RLtGgkTh9o.md#ent-concept-zionism-t-00-27-13)**
+> "...wood and even sits above many Zionist Jews."
+
+**[00:51:43](/episodes/ep-7RLtGgkTh9o.md#ent-concept-zionism-t-00-51-38)**
+> "...ogical operation of Christian Zionists all saying the same thing—many of them are taking..."
+
+**[00:51:43](/episodes/ep-7RLtGgkTh9o.md#ent-concept-zionism-t-00-51-38)**
+> "...he psychological operation of Christian Zionists all saying the same thing—many of them are taking..."
+
+**[00:57:59](/episodes/ep-7RLtGgkTh9o.md#ent-concept-zionism-t-00-57-22)**
+> "...ndace Owens), I feel like the Zionists are trying to distract you by making you debunk t..."
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (4 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (10 mentions)</summary>
 
 **[00:28:25](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-27-59)**
 > "...What is behind this? Do you really think this is all just accidental—their obsession with Christian Zionism? Jack Hibbs among them? We mentioned him yesterday—his brother Butch Hibbs, who was just everywhere..."
@@ -141,6 +171,24 @@ _Type: Concepts_
 
 **[00:57:39](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-57-10)**
 > "...rites: "No more party loyalists next election." "Vote for the one not taking AIPAC money." "Get the Zionists out of our government." Yeah, I agree because they're evil, and they're involved in something that ..."
+
+**[00:28:25](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-27-59)**
+> "...heir obsession with Christian Zionism? Jack Hibbs among them?"
+
+**[00:28:25](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-27-59)**
+> "...cidental—their obsession with Christian Zionism? Jack Hibbs among them?"
+
+**[00:36:27](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-36-27)**
+> "Christian Zionism is heretical."
+
+**[00:36:52](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-36-27)**
+> "...uding by these same Christian Zionists that he platformed throughout his entire career w..."
+
+**[00:36:52](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-36-27)**
+> "...e day—including by these same Christian Zionists that he platformed throughout his entire career w..."
+
+**[00:57:39](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-57-10)**
+> ""Get the Zionists out of our government.""
 
 </details>
 
@@ -343,7 +391,7 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (7 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (14 mentions)</summary>
 
 **[00:00:28](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-00-00)**
 > "...ogue. We'll see what he had to say in a little bit. And it just so happens to be exactly what every Zionist has had to say in the last 24 to 48 hours—almost as though it's scripted. In other news, Erika Kirk..."
@@ -365,6 +413,27 @@ _Type: Concepts_
 
 **[00:11:49](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-11-28)**
 > "..., if I wind up dead in mysterious circumstances, you should obviously assume it was orchestrated by Zionists—duh. In lengthier clips, which he didn't show, I've asserted that this entire American culture—whic..."
+
+**[00:00:28](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-00-00)**
+> "...pens to be exactly what every Zionist has had to say in the last 24 to 48 hours—almost ..."
+
+**[00:05:51](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-05-22)**
+> "...han anyone else, we know that Zionists cannot stand Tucker Carlson (Tucker Carlson)."
+
+**[00:07:35](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-07-32)**
+> "But of course with Zionists—the very same ones who were causing Charlie (Char..."
+
+**[00:09:01](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-09-01)**
+> "...uth, obviously, is never what Zionists are concerned with."
+
+**[00:10:43](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-10-16)**
+> "...hing happens to me, blame the Zionists."
+
+**[00:10:45](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-10-16)**
+> "Like, 1000% blame the Zionists."
+
+**[00:11:49](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-11-28)**
+> "...assume it was orchestrated by Zionists—duh."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Bob Coy"
-description: "Bob Coy (People) - 4 mentions"
+description: "Bob Coy (People) - 7 mentions"
 id: "person-bob-coy"
 type: "PERSON"
 aliases:
@@ -28,18 +28,27 @@ _Type: People_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:16:29](/episodes/ep-7RLtGgkTh9o.md#ent-person-bob-coy-t-00-16-07)**
 > "...orida, and attended a very large Calvary Chapel church there. And they were mentored by a man named Bob Coy. We brought him up yesterday—the pedophile scandal that we mentioned yesterday—who has since been e..."
 
+**[00:16:29](/episodes/ep-7RLtGgkTh9o.md#ent-person-bob-coy-t-00-16-07)**
+> "... were mentored by a man named Bob Coy."
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (3 mentions)</summary>
 
 **[00:19:12](/episodes/ep-yAIb-NuUh_U.md#ent-person-bob-coy-t-00-18-59)**
 > "... like a few of these, right? Florida Calvary Chapel in Pompano Beach—the founder was a pastor named Rob Coy (not McCoy, to be clear), Rob Coy, who was a former Las Vegas casino entertainment director turned ..."
+
+**[00:19:12](/episodes/ep-yAIb-NuUh_U.md#ent-person-bob-coy-t-00-18-59)**
+> "...he founder was a pastor named Rob Coy (not McCoy, to be clear), Rob Coy, who was a form..."
+
+**[00:19:12](/episodes/ep-yAIb-NuUh_U.md#ent-person-bob-coy-t-00-18-59)**
+> "...Coy (not McCoy, to be clear), Rob Coy, who was a former Las Vegas casino entertainment ..."
 
 </details>
 

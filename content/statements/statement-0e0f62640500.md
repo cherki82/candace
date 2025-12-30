@@ -26,13 +26,23 @@ type: "factual_claim"
 - [Kurt Cobain](/entities/person-kurt-cobain.md) (person)
 - [Central Intelligence Agency](/entities/org-central-intelligence-agency.md) (org)
 
-## Source
+## Appearances (2)
+
+### 1. From Britney To Charlie. With Pastors Like These, Who Needs ...
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 **Timestamp:** [00:22:14](/episodes/ep-7RLtGgkTh9o.md#t-00-21-47) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1334);return false;">Play</a>
 
 > And she told me, I did not kill Kurt Cobain. That was a part of a psychological operation to make the masses look away from what the CIA was guilty of.
+
+### 2. From Britney To Charlie. With Pastors Like These, Who Needs ...
+
+**Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
+**Timestamp:** [00:22:09](/episodes/ep-7RLtGgkTh9o.md#t-00-21-47) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1329);return false;">Play</a>
+
+> And she told me, 'I did not kill Kurt Cobain.' That was a part of a psychological operation to make the masses look away from what the CIA was guilty of.
 
 ## Verification
 

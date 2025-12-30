@@ -1,6 +1,6 @@
 ---
 title: "7 Weeks Coffee"
-description: "7 Weeks Coffee (Organizations) - 5 mentions"
+description: "7 Weeks Coffee (Organizations) - 6 mentions"
 id: "org-7-weeks-coffee"
 type: "ORG"
 ---
@@ -11,6 +11,14 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
+
+**[00:43:12](/episodes/ep-K1tFD7FfoCU.md#ent-org-7-weeks-coffee-t-00-42-55)**
+> "...o, as I always tell you about 7 Weeks Coffee, I'm going to do it again, you know,"
+
+</details>
 
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>

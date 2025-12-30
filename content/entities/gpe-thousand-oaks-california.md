@@ -1,6 +1,6 @@
 ---
 title: "Thousand Oaks, California"
-description: "Thousand Oaks, California (Places) - 5 mentions"
+description: "Thousand Oaks, California (Places) - 7 mentions"
 id: "gpe-thousand-oaks-california"
 type: "GPE"
 ---
@@ -13,13 +13,19 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4 mentions)</summary>
 
 **[00:15:59](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-thousand-oaks-california-t-00-15-24)**
 > "...tney was being held out in 2019 was tied to Epstein somehow via Tony Blair. Britney Spears lives in Thousand Oaks, California—as does Justin Bieber. I believe P. Diddy, I believe, has a house there as well. I know Lou Taylor ..."
 
 **[00:16:54](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-thousand-oaks-california-t-00-16-49)**
 > "...sh for us to think that Lou Taylor does not know Rob McCoy—exactly, right? All these people live in Thousand Oaks, California, and he's been pastoring that church up until July of this year for a very long time. And it's abou..."
+
+**[00:15:59](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-thousand-oaks-california-t-00-15-24)**
+> "Britney Spears lives in Thousand Oaks, California—as does Justin Bieber."
+
+**[00:16:54](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-thousand-oaks-california-t-00-16-49)**
+> "All these people live in Thousand Oaks, California, and he's been pastoring that church up until Jul..."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "America's Warrior Partnership"
-description: "America's Warrior Partnership (Organizations) - 2 mentions"
+description: "America's Warrior Partnership (Organizations) - 3 mentions"
 id: "org-americas-warrior-partnership"
 type: "ORG"
 ---
@@ -19,6 +19,14 @@ _Type: Organizations_
 > "they've been able to donate over half a million dollars to America's Warrior Partnership"
 
 **[00:47:36](/episodes/ep-w1oqQbR_bYs.md#ent-org-americas-warrior-partnership-t-00-47-24)**
+> "...ver half a million dollars to America's Warrior Partnership."
+
+</details>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1 mentions)</summary>
+
+**[00:50:23](/episodes/ep-6DhWawD4ZiM.md#ent-org-americas-warrior-partnership-t-00-49-45)**
 > "...ver half a million dollars to America's Warrior Partnership."
 
 </details>

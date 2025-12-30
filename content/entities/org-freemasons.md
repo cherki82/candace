@@ -1,6 +1,6 @@
 ---
 title: "Freemasons"
-description: "Freemasons (Organizations) - 7 mentions"
+description: "Freemasons (Organizations) - 8 mentions"
 id: "org-freemasons"
 type: "ORG"
 ---
@@ -35,10 +35,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
 **[00:45:19](/episodes/ep-yAIb-NuUh_U.md#ent-org-freemasons-t-00-45-19)**
 > "...'t believe that. I actually don't believe—don't accept that Alex Wilkins—who comes from a family of Freemasons and who's got a spotty background—nobody knows what she was doing in Switzerland—just loves him for..."
+
+**[00:45:19](/episodes/ep-yAIb-NuUh_U.md#ent-org-freemasons-t-00-45-19)**
+> "...ns—who comes from a family of Freemasons and who's got a spotty background—nobody knows wh..."
 
 </details>
 

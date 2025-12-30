@@ -255,14 +255,12 @@ youtube_url: "https://www.youtube.com/watch?v=JQjCAsfoXEE"
 </details>
 
 <details>
-<summary><strong>Statements (49)</strong></summary>
+<summary><strong>Statements (48)</strong></summary>
 
 - [00:00:02](#t-00-00-00) [○] (Claim) **Candace Owens**: ["The CIA established Operation Mockingbird after the public execution of JFK in 1..."](/statements/statement-b6c4b6edb33f.md)
   - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [JFK assassination](/entities/event-jfk-assassination.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
 - [00:00:03](#t-00-00-00) [○] (Claim) **Candace Owens**: ["After the public execution of sitting President JFK in 1963, the CIA established..."](/statements/statement-0533f01c5c5b.md)
-  - About: [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
-- [00:00:03](#t-00-00-00) [○] (Claim) **Candace Owens**: ["The CIA established Operation Mockingbird after the public execution of sitting ..."](/statements/statement-e318b0075c46.md)
-  - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [JFK assassination](/entities/event-jfk-assassination.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
+  - About: [JFK assassination](/entities/event-jfk-assassination.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
 - [00:00:54](#t-00-00-41) [○] (Claim) **Candace Owens**: ["Charlie Kirk was assassinated in broad daylight"](/statements/statement-92dc62419c9a.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:01:41](#t-00-01-24) [○] (Accusation) **Candace Owens**: ["Undercover operatives signed up for Candace's private book club to record and le..."](/statements/statement-b89bc9336eb6.md)

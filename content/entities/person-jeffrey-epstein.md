@@ -1,6 +1,6 @@
 ---
 title: "Jeffrey Epstein"
-description: "Jeffrey Epstein (People) - 87 mentions"
+description: "Jeffrey Epstein (People) - 105 mentions"
 id: "person-jeffrey-epstein"
 type: "PERSON"
 aliases:
@@ -151,7 +151,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (9 mentions)</summary>
 
 **[00:02:54](/episodes/ep-7RLtGgkTh9o.md#ent-person-jeffrey-epstein-t-00-02-48)**
 > "...heir strategies. And effectively, he had been MKUltra'd, right? By putting on that psych 5150 hold. Jeffrey Epstein. I did a mini-series on Jeffrey Epstein. We spoke about the blackmail. We spoke about the trafficki..."
@@ -165,10 +165,25 @@ _Type: People_
 **[00:15:50](/episodes/ep-7RLtGgkTh9o.md#ent-person-jeffrey-epstein-t-00-15-24)**
 > "... some of the dots—and they told me at the house that Britney was being held out in 2019 was tied to Epstein somehow via Tony Blair. Britney Spears lives in Thousand Oaks, California—as does Justin Bieber. I ..."
 
+**[00:02:54](/episodes/ep-7RLtGgkTh9o.md#ent-person-jeffrey-epstein-t-00-02-48)**
+> "Jeffrey Epstein."
+
+**[00:02:56](/episodes/ep-7RLtGgkTh9o.md#ent-person-jeffrey-epstein-t-00-02-48)**
+> "I did a mini-series on Jeffrey Epstein."
+
+**[00:02:56](/episodes/ep-7RLtGgkTh9o.md#ent-person-jeffrey-epstein-t-00-02-48)**
+> "... did a mini-series on Jeffrey Epstein."
+
+**[00:15:42](/episodes/ep-7RLtGgkTh9o.md#ent-person-jeffrey-epstein-t-00-15-24)**
+> "...ties to Ghislaine Maxwell and Epstein, et cetera.""
+
+**[00:15:50](/episodes/ep-7RLtGgkTh9o.md#ent-person-jeffrey-epstein-t-00-15-24)**
+> "... held out in 2019 was tied to Epstein somehow via Tony Blair."
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (9 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (22 mentions)</summary>
 
 **[00:29:30](/episodes/ep-yAIb-NuUh_U.md#ent-person-jeffrey-epstein-t-00-29-27)**
 > "... a lot of questions towards the end of his life, right? He was asking questions, hitting hard about Jeffrey Epstein on his show. He was exasperated at one point saying basically, "I've covered this." "I'm upset abou..."
@@ -196,6 +211,45 @@ _Type: People_
 
 **[00:33:50](/episodes/ep-yAIb-NuUh_U.md#ent-person-jeffrey-epstein-t-00-33-32)**
 > "...at the moment he looked us in the face and he said, "What files?" right? Are we still talking about Jeffrey Epstein? Pam Bondi said it was a Democrat hoax. No, I think the entire nation has been hoaxed by Republican..."
+
+**[00:29:30](/episodes/ep-yAIb-NuUh_U.md#ent-person-jeffrey-epstein-t-00-29-27)**
+> "...questions, hitting hard about Jeffrey Epstein on his show."
+
+**[00:29:30](/episodes/ep-yAIb-NuUh_U.md#ent-person-jeffrey-epstein-t-00-29-27)**
+> "...s, hitting hard about Jeffrey Epstein on his show."
+
+**[00:29:40](/episodes/ep-yAIb-NuUh_U.md#ent-person-jeffrey-epstein-t-00-29-27)**
+> "...g told to stop speaking about Jeffrey Epstein, and he was pushing back on that."
+
+**[00:29:40](/episodes/ep-yAIb-NuUh_U.md#ent-person-jeffrey-epstein-t-00-29-27)**
+> "...o stop speaking about Jeffrey Epstein, and he was pushing back on that."
+
+**[00:29:46](/episodes/ep-yAIb-NuUh_U.md#ent-person-jeffrey-epstein-t-00-29-27)**
+> "...er Carlson) to go max against Jeffrey Epstein."
+
+**[00:29:46](/episodes/ep-yAIb-NuUh_U.md#ent-person-jeffrey-epstein-t-00-29-27)**
+> "...on) to go max against Jeffrey Epstein."
+
+**[00:30:03](/episodes/ep-yAIb-NuUh_U.md#ent-person-jeffrey-epstein-t-00-29-27)**
+> "You guys still talking about Jeffrey Epstein?"
+
+**[00:30:03](/episodes/ep-yAIb-NuUh_U.md#ent-person-jeffrey-epstein-t-00-29-27)**
+> "...s still talking about Jeffrey Epstein?"
+
+**[00:30:53](/episodes/ep-yAIb-NuUh_U.md#ent-person-jeffrey-epstein-t-00-30-45)**
+> "... layers of the onion into our Epstein series that we have done."
+
+**[00:31:14](/episodes/ep-yAIb-NuUh_U.md#ent-person-jeffrey-epstein-t-00-30-45)**
+> "Jeffrey Epstein had his financial tentacles involved in modeling ..."
+
+**[00:31:55](/episodes/ep-yAIb-NuUh_U.md#ent-person-jeffrey-epstein-t-00-31-29)**
+> "... were working—not just in the Epstein case, right?"
+
+**[00:33:50](/episodes/ep-yAIb-NuUh_U.md#ent-person-jeffrey-epstein-t-00-33-32)**
+> "Are we still talking about Jeffrey Epstein?"
+
+**[00:33:50](/episodes/ep-yAIb-NuUh_U.md#ent-person-jeffrey-epstein-t-00-33-32)**
+> "...e still talking about Jeffrey Epstein?"
 
 </details>
 

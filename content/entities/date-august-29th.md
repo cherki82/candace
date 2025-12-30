@@ -1,6 +1,6 @@
 ---
 title: "August 29th"
-description: "August 29th (Dates) - 2 mentions"
+description: "August 29th (Dates) - 3 mentions"
 id: "date-august-29th"
 type: "DATE"
 ---
@@ -21,10 +21,13 @@ _Type: Dates_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:08:24](/episodes/ep-mKXdKV-OBog.md#ent-date-august-29th-t-00-07-51)**
 > "...of note—the civilians. What's interesting: of note, civilians. And they trained from August 25th to August 29th. And we can read the details of that here. And by details, I mean—this is what the public was told ..."
+
+**[00:08:24](/episodes/ep-mKXdKV-OBog.md#ent-date-august-29th-t-00-07-51)**
+> "...y trained from August 25th to August 29th."
 
 </details>
 

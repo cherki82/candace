@@ -1,6 +1,6 @@
 ---
 title: "Donald Trump"
-description: "Donald Trump (People) - 189 mentions"
+description: "Donald Trump (People) - 194 mentions"
 id: "person-donald-trump"
 type: "PERSON"
 aliases:
@@ -141,10 +141,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:42:42](/episodes/ep-mKXdKV-OBog.md#ent-person-donald-trump-t-00-42-07)**
 > "...y, really want to believe that Charlie (Charlie Kirk) is in witness protection—that the FBI and the POTUS set it up to catch Bibi (Benjamin Netanyahu). Christ is King will always be king. Love you." I can ..."
+
+**[00:42:42](/episodes/ep-mKXdKV-OBog.md#ent-person-donald-trump-t-00-42-07)**
+> "...otection—that the FBI and the POTUS set it up to catch Bibi (Benjamin Netanyahu)."
 
 </details>
 
@@ -353,10 +356,22 @@ _Type: People_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (5 mentions)</summary>
 
 **[00:04:51](/episodes/ep-K1tFD7FfoCU.md#ent-person-donald-trump-t-00-04-45)**
 > "...brate the Nazis, those who call for the extermination of Israel, to defend Hamas, to even criticize President Trump (Donald Trump) for stopping Iran's nuclear ambitions. Randy Fine (clip): Friends, make no mistake. ..."
+
+**[00:04:51](/episodes/ep-K1tFD7FfoCU.md#ent-person-donald-trump-t-00-04-45)**
+> "...en criticize President Trump (Donald Trump) for stopping Iran's nuclear ambitions."
+
+**[00:04:51](/episodes/ep-K1tFD7FfoCU.md#ent-person-donald-trump-t-00-04-45)**
+> "..., to even criticize President Trump (Donald Trump) for stopping Iran's nuclear ambiti..."
+
+**[00:04:51](/episodes/ep-K1tFD7FfoCU.md#ent-person-donald-trump-t-00-04-45)**
+> "...icize President Trump (Donald Trump) for stopping Iran's nuclear ambitions."
+
+**[00:04:51](/episodes/ep-K1tFD7FfoCU.md#ent-person-donald-trump-t-00-04-45)**
+> "...fend Hamas, to even criticize President Trump (Donald Trump) for stopping Iran's nuclear ambiti..."
 
 </details>
 

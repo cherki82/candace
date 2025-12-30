@@ -1,6 +1,6 @@
 ---
 title: "Camp Ripley"
-description: "Camp Ripley (Places) - 8 mentions"
+description: "Camp Ripley (Places) - 11 mentions"
 id: "gpe-camp-ripley"
 type: "GPE"
 ---
@@ -38,7 +38,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (6 mentions)</summary>
 
 **[00:08:40](/episodes/ep-mKXdKV-OBog.md#ent-gpe-camp-ripley-t-00-09-13)**
 > "... a week-long training where the 891st Squadron from Minot Air Force Base, North Dakota, traveled to Camp Ripley Training Center in Minnesota, August 24, 2024. The advanced training focused on air-based ground de..."
@@ -48,6 +48,15 @@ _Type: Places_
 
 **[00:13:39](/episodes/ep-mKXdKV-OBog.md#ent-gpe-camp-ripley-t-00-13-39)**
 > "...timeline from August 24th to 29th. They have this joint operation, Valhalla, that's taking place at Camp Ripley, and we are really getting tight here. We are talking about T minus 12 days until Charlie (Charlie ..."
+
+**[00:08:40](/episodes/ep-mKXdKV-OBog.md#ent-gpe-camp-ripley-t-00-09-13)**
+> "...se, North Dakota, traveled to Camp Ripley Training Center in Minnesota,"
+
+**[00:09:18](/episodes/ep-mKXdKV-OBog.md#ent-gpe-camp-ripley-t-00-09-13)**
+> "Camp Ripley provided full-distance firing ranges, which allow..."
+
+**[00:13:39](/episodes/ep-mKXdKV-OBog.md#ent-gpe-camp-ripley-t-00-13-39)**
+> "...halla, that's taking place at Camp Ripley, and we are really getting tight here."
 
 </details>
 

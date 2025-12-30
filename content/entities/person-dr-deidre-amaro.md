@@ -1,6 +1,6 @@
 ---
 title: "Dr. Deidre Amaro"
-description: "Dr. Deidre Amaro (People) - 2 mentions"
+description: "Dr. Deidre Amaro (People) - 3 mentions"
 id: "person-dr-deidre-amaro"
 type: "PERSON"
 ---
@@ -13,13 +13,16 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
 
 **[00:15:10](/episodes/ep-mKXdKV-OBog.md#ent-person-dr-deidre-amaro-t-00-15-00)**
 > "...did his residency at an Air Force base. Oh, okay, that's interesting. We told you that Deidre Amaro—Dr. Deidre Amaro—is the medical examiner, Charlie (Charlie Kirk)'s medical examiner, who they've curiously not wante..."
 
 **[00:15:18](/episodes/ep-mKXdKV-OBog.md#ent-person-dr-deidre-amaro-t-00-15-00)**
 > "Dr. Deidre Amaro, medical examiner, is a major in the military"
+
+**[00:15:10](/episodes/ep-mKXdKV-OBog.md#ent-person-dr-deidre-amaro-t-00-15-00)**
+> "Amaro—Dr. Deidre Amaro—is the medical examiner, Charlie (Charlie Kirk)'s..."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Middle East"
-description: "Middle East (Places) - 21 mentions"
+description: "Middle East (Places) - 26 mentions"
 id: "gpe-middle-east"
 type: "GPE"
 ---
@@ -46,7 +46,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (6 mentions)</summary>
 
 **[00:12:22](/episodes/ep-mKXdKV-OBog.md#ent-gpe-middle-east-t-00-12-13)**
 > "...s year. Egypt's position in North Africa makes it an ideal gateway to doing business in the greater Middle East region, and our state excels in several sectors that Egypt is keen to invest in, including agricult..."
@@ -57,16 +57,31 @@ _Type: Places_
 **[00:28:20](/episodes/ep-mKXdKV-OBog.md#ent-gpe-middle-east-t-00-28-14)**
 > "...a bunch of treasonous spies. Their job, I guess, is to further enslave us to the gang colony in the Middle East that is pretending that they have been ordained by God to murder. And yeah, I don't know. There is ..."
 
+**[00:12:22](/episodes/ep-mKXdKV-OBog.md#ent-gpe-middle-east-t-00-12-13)**
+> "...doing business in the greater Middle East region, and our state excels in several sectors t..."
+
+**[00:20:33](/episodes/ep-mKXdKV-OBog.md#ent-gpe-middle-east-t-00-20-28)**
+> "...s father's connections to the Middle East."
+
+**[00:28:20](/episodes/ep-mKXdKV-OBog.md#ent-gpe-middle-east-t-00-28-14)**
+> "... us to the gang colony in the Middle East that is pretending that they have been ordained b..."
+
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4 mentions)</summary>
 
 **[00:58:47](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-middle-east-t-00-58-06)**
 > "...st sending our sons over to die for Israel. Their borders expand. Talking about the security of the Middle East. We would have no beef in the Middle East if it wasn't for Israel and us constantly protecting them..."
 
 **[00:58:48](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-middle-east-t-00-58-48)**
 > ".... Their borders expand. Talking about the security of the Middle East. We would have no beef in the Middle East if it wasn't for Israel and us constantly protecting them from the trouble that they cause. But I'm..."
+
+**[00:58:47](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-middle-east-t-00-58-06)**
+> "...ing about the security of the Middle East."
+
+**[00:58:48](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-middle-east-t-00-58-48)**
+> "We would have no beef in the Middle East if it wasn't for Israel and us constantly protect..."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Disney"
-description: "Disney (Organizations) - 2 mentions"
+description: "Disney (Organizations) - 3 mentions"
 id: "org-disney"
 type: "ORG"
 ---
@@ -21,10 +21,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:21:42](/episodes/ep-mKXdKV-OBog.md#ent-org-disney-t-00-21-11)**
 > "... I know because I do run kind of a toddler military operation. That's a good way to indicate who at Disney World is your family: everybody wearing the same color. So I think we should be clued into that, co..."
+
+**[00:21:42](/episodes/ep-mKXdKV-OBog.md#ent-org-disney-t-00-21-11)**
+> "who at Disney World is your family: everybody wearing the same ..."
 
 </details>
 

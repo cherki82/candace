@@ -1,6 +1,6 @@
 ---
 title: "Ghislaine Maxwell"
-description: "Ghislaine Maxwell (People) - 5 mentions"
+description: "Ghislaine Maxwell (People) - 6 mentions"
 id: "person-ghislaine-maxwell"
 type: "PERSON"
 ---
@@ -13,10 +13,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:15:42](/episodes/ep-7RLtGgkTh9o.md#ent-person-ghislaine-maxwell-t-00-15-24)**
 > "...nk] and know that they have many ties there." "I've also heard that Lou has connections and ties to Ghislaine Maxwell and Epstein, et cetera." I'm going to say all of this is alleged—obviously this is an email tip. I ..."
+
+**[00:15:42](/episodes/ep-7RLtGgkTh9o.md#ent-person-ghislaine-maxwell-t-00-15-24)**
+> "...u has connections and ties to Ghislaine Maxwell and Epstein, et cetera.""
 
 </details>
 

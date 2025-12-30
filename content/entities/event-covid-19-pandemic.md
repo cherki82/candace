@@ -1,6 +1,6 @@
 ---
 title: "COVID-19 Pandemic"
-description: "COVID-19 Pandemic (Events) - 23 mentions"
+description: "COVID-19 Pandemic (Events) - 25 mentions"
 id: "event-covid-19-pandemic"
 type: "EVENT"
 aliases:
@@ -63,18 +63,24 @@ _Type: Events_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:29:06](/episodes/ep-mKXdKV-OBog.md#ent-event-covid-19-pandemic-t-00-28-48)**
 > "... to have something that was in the middle of the line, and she just couldn't get behind all of this COVID propaganda, and she was gonna start The Free Press, and they were gonna go back to doing hardcore, ..."
 
+**[00:29:06](/episodes/ep-mKXdKV-OBog.md#ent-event-covid-19-pandemic-t-00-28-48)**
+> "...uldn't get behind all of this COVID propaganda, and she was gonna start The Free Pres..."
+
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:18:57](/episodes/ep-7RLtGgkTh9o.md#ent-event-covid-19-pandemic-t-00-18-57)**
 > "... some sort of authority, or they have expertise in this area that they fact-check. And I think post-COVID we're all ready to digest that these are psychological operations. Courtney—at that time—Courtney L..."
+
+**[00:18:57](/episodes/ep-7RLtGgkTh9o.md#ent-event-covid-19-pandemic-t-00-18-57)**
+> "And I think post-COVID we're all ready to digest that these are psycholo..."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "The Matrix"
-description: "The Matrix (Works & Media) - 17 mentions"
+description: "The Matrix (Works & Media) - 19 mentions"
 id: "work-the-matrix"
 type: "WORK"
 aliases:
@@ -50,6 +50,22 @@ _Type: Works & Media_
 
 **[01:01:15](/episodes/ep-tB5SXXmd9vU.md#ent-work-the-matrix-t-01-01-15)**
 > "...ill be attacked for surviving the matrix and committing yourself to truth. That feels like..."
+
+</details>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+
+**[00:45:17](/episodes/ep-mKXdKV-OBog.md#ent-work-the-matrix-t-00-45-02)**
+> "... evil; that much of this is a matrix; the system is rigged; it is not fair. And it can..."
+
+</details>
+
+<details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+
+**[00:19:22](/episodes/ep-7RLtGgkTh9o.md#ent-work-the-matrix-t-00-18-57)**
+> "... are outside of the Hollywood matrix cannot grasp or comprehend what goes on inside of..."
 
 </details>
 

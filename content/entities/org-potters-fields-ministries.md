@@ -1,6 +1,6 @@
 ---
 title: "Potter's Fields Ministries"
-description: "Potter's Fields Ministries (Organizations) - 2 mentions"
+description: "Potter's Fields Ministries (Organizations) - 3 mentions"
 id: "org-potters-fields-ministries"
 type: "ORG"
 ---
@@ -13,13 +13,16 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (3 mentions)</summary>
 
 **[00:24:25](/episodes/ep-yAIb-NuUh_U.md#ent-org-potters-fields-ministries-t-00-24-32)**
 > "There was also a Potter's Field scandal."
 
 **[00:24:32](/episodes/ep-yAIb-NuUh_U.md#ent-org-potters-fields-ministries-t-00-24-32)**
 > "... Whitefish, Montana, and the Calvary Church Association funded a ministry which came to be known as Potter's Fields Ministries, right up there. They have a hunting ground. They have a camp for kids. They have a student program..."
+
+**[00:24:32](/episodes/ep-yAIb-NuUh_U.md#ent-org-potters-fields-ministries-t-00-24-32)**
+> "...try which came to be known as Potter's Fields Ministries, right up there."
 
 </details>
 

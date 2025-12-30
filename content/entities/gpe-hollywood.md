@@ -1,6 +1,6 @@
 ---
 title: "Hollywood"
-description: "Hollywood (Places) - 21 mentions"
+description: "Hollywood (Places) - 31 mentions"
 id: "gpe-hollywood"
 type: "GPE"
 aliases:
@@ -60,7 +60,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (8 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (17 mentions)</summary>
 
 **[00:00:23](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-00-00)**
 > "...st), me telling you all about what happened behind the scenes when he was effectively kicked out of Hollywood, and the reason why I refused to publicly condemn him despite insistence from the brood of vipers. ..."
@@ -86,13 +86,43 @@ _Type: Places_
 **[00:29:16](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-28-42)**
 > "...to be accurate and made no sense to me at the time because I'm not hip. I don't follow a lot of the Hollywood stuff. Then she says, "Christian non-denominational, but she's LDS." "Born and raised LDS." "Bill G..."
 
+**[00:00:23](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-00-00)**
+> "...was effectively kicked out of Hollywood, and the reason why I refused to publicly condemn..."
+
+**[00:19:22](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-18-57)**
+> "...eople that are outside of the Hollywood matrix cannot grasp or comprehend what goes on in..."
+
+**[00:19:34](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-18-57)**
+> "...oin my book club and you read Hollywood Babylon—you're like, "Oh, this is actually how th..."
+
+**[00:19:34](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-18-57)**
+> "...y how the system was built in Hollywood.""
+
+**[00:19:41](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-19-41)**
+> "...ure of what goes on inside of Hollywood, I did start to understand it after everything ha..."
+
+**[00:26:43](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-26-36)**
+> "And again, if you read Hollywood Babylon, it gets into all of these true stories o..."
+
+**[00:27:27](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-27-13)**
+> "...a," which she said sits above Hollywood and even sits above many Zionist Jews."
+
+**[00:28:42](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-28-42)**
+> "...a lot of the Jews that are in Hollywood—Lou Taylor for Kim Kardashian and Diddy.""
+
+**[00:29:16](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-28-42)**
+> "I don't follow a lot of the Hollywood stuff."
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
 **[00:30:59](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-hollywood-t-00-30-45)**
 > "...l the layers of the onion into our Epstein series that we have done. And it looks like they created Hollywood and fashion and movies as a means to traffic individuals, right? No one would blink twice. If you'r..."
+
+**[00:30:59](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-hollywood-t-00-30-45)**
+> "...nd it looks like they created Hollywood and fashion and movies as a means"
 
 </details>
 

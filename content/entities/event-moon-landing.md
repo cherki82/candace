@@ -1,6 +1,6 @@
 ---
 title: "Moon landing"
-description: "Moon landing (Events) - 3 mentions"
+description: "Moon landing (Events) - 4 mentions"
 id: "event-moon-landing"
 type: "EVENT"
 ---
@@ -21,10 +21,13 @@ _Type: Events_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:18:02](/episodes/ep-7RLtGgkTh9o.md#ent-event-moon-landing-t-00-17-28)**
 > "... "Did anybody die that night?" That is how wild of a journey it is—the same year, of course, as the moon landing—entire psychological operation. And you just go—what is real? What is not real? I don't know. If yo..."
+
+**[00:18:02](/episodes/ep-7RLtGgkTh9o.md#ent-event-moon-landing-t-00-17-28)**
+> "... same year, of course, as the moon landing—entire psychological operation."
 
 </details>
 

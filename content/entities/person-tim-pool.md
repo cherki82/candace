@@ -1,6 +1,6 @@
 ---
 title: "Tim Pool"
-description: "Tim Pool (People) - 40 mentions"
+description: "Tim Pool (People) - 41 mentions"
 id: "person-tim-pool"
 type: "PERSON"
 aliases:
@@ -39,7 +39,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4 mentions)</summary>
 
 **[00:21:33](/episodes/ep-6DhWawD4ZiM.md#ent-person-tim-pool-t-00-21-22)**
 > "...o we're not gonna accept Tim (Tim Pool)."
@@ -49,6 +49,9 @@ _Type: People_
 
 **[00:31:07](/episodes/ep-6DhWawD4ZiM.md#ent-person-tim-pool-t-00-21-22)**
 > "And then Tim's all fired up and she's a C-word."
+
+**[00:21:33](/episodes/ep-6DhWawD4ZiM.md#ent-person-tim-pool-t-00-21-22)**
+> "So we're not gonna accept Tim (Tim Pool)."
 
 </details>
 

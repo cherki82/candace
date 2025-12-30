@@ -1,6 +1,6 @@
 ---
 title: "Amazon"
-description: "Amazon (Organizations) - 24 mentions"
+description: "Amazon (Organizations) - 25 mentions"
 id: "org-amazon"
 type: "ORG"
 aliases:
@@ -22,6 +22,14 @@ _Type: Organizations_
 
 **[00:50:25](/episodes/ep-w1oqQbR_bYs.md#ent-org-amazon-t-00-50-07)**
 > "if you would like to purchase my book for Christmas, you can do so on Amazon"
+
+</details>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1 mentions)</summary>
+
+**[00:55:00](/episodes/ep-6DhWawD4ZiM.md#ent-org-amazon-t-00-54-39)**
+> "...irectly, you can also head to Amazon now, throw it in your cart."
 
 </details>
 

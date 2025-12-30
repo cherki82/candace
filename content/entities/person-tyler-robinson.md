@@ -1,6 +1,6 @@
 ---
 title: "Tyler Robinson"
-description: "Tyler Robinson (People) - 336 mentions"
+description: "Tyler Robinson (People) - 345 mentions"
 id: "person-tyler-robinson"
 type: "PERSON"
 aliases:
@@ -161,7 +161,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (7 mentions)</summary>
 
 **[00:17:27](/episodes/ep-mKXdKV-OBog.md#ent-person-tyler-robinson-t-00-17-10)**
 > "...Hibbs—Butch—is the brother of Pastor Jack Hibbs. Obviously sons—I showed you—of an Air Force chief. Tyler Robinson is a Boy Scout whose Uncle Mitchell may be related. People have pulled this off of the internet, an..."
@@ -174,6 +174,15 @@ _Type: People_
 
 **[00:18:53](/episodes/ep-mKXdKV-OBog.md#ent-person-tyler-robinson-t-00-18-21)**
 > "...oon. I'm like, "Who is this guy?" Oh, he's wearing a maroon shirt. Oh, he's wearing a maroon shirt. Tyler Robinson—everyone's wearing a maroon shirt—as if they were told to wear maroon shirts to identify each other..."
+
+**[00:17:27](/episodes/ep-mKXdKV-OBog.md#ent-person-tyler-robinson-t-00-17-10)**
+> "Tyler Robinson is a Boy Scout whose Uncle Mitchell may be relate..."
+
+**[00:17:38](/episodes/ep-mKXdKV-OBog.md#ent-person-tyler-robinson-t-00-17-38)**
+> "Amber Robinson—there's just photos of them visiting—and Uncle Mi..."
+
+**[00:18:53](/episodes/ep-mKXdKV-OBog.md#ent-person-tyler-robinson-t-00-18-21)**
+> "Tyler Robinson—everyone's wearing a maroon shirt—as if they were..."
 
 </details>
 
@@ -221,10 +230,16 @@ _Type: People_
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (3 mentions)</summary>
 
 **[00:05:39](/episodes/ep-yAIb-NuUh_U.md#ent-person-tyler-robinson-t-00-05-06)**
 > "...hat impact the case? We actually... don't really care about the case because we're not feeling like Tyler Robinson acted alone and he's the lone shooter. But we deeply care about whether or not—and why—his friends ..."
+
+**[00:05:39](/episodes/ep-yAIb-NuUh_U.md#ent-person-tyler-robinson-t-00-05-06)**
+> "...ecause we're not feeling like Tyler Robinson acted alone and he's the lone shooter."
+
+**[00:05:39](/episodes/ep-yAIb-NuUh_U.md#ent-person-tyler-robinson-t-00-05-06)**
+> "... we're not feeling like Tyler Robinson acted alone and he's the lone shooter."
 
 </details>
 
@@ -280,13 +295,25 @@ _Type: People_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (6 mentions)</summary>
 
 **[00:33:35](/episodes/ep-K1tFD7FfoCU.md#ent-person-tyler-robinson-t-00-33-12)**
 > "of, you know, Tyler Bowyer (Tyler Bowyer) late-night tweeting at dono..."
 
 **[00:45:55](/episodes/ep-K1tFD7FfoCU.md#ent-person-tyler-robinson-t-00-45-48)**
 > "... they're false. And I—the truth is enough. The truth is always enough. Tom Paul (Tom Paul) writes: "Tyler Robinson's (Tyler Robinson) ACT score was 34, so he was in the 99 percentile." "Thomas Matthew Crooks' (Thom..."
+
+**[00:45:55](/episodes/ep-K1tFD7FfoCU.md#ent-person-tyler-robinson-t-00-45-48)**
+> "Tom Paul (Tom Paul) writes: "Tyler Robinson's (Tyler Robinson) ACT score was 34, so he was in t..."
+
+**[00:45:55](/episodes/ep-K1tFD7FfoCU.md#ent-person-tyler-robinson-t-00-45-48)**
+> "...l) writes: "Tyler Robinson's (Tyler Robinson) ACT score was 34, so he was in the 99 percentile..."
+
+**[00:45:55](/episodes/ep-K1tFD7FfoCU.md#ent-person-tyler-robinson-t-00-45-48)**
+> "...aul (Tom Paul) writes: "Tyler Robinson's (Tyler Robinson) ACT score was 34, so he was in t..."
+
+**[00:45:55](/episodes/ep-K1tFD7FfoCU.md#ent-person-tyler-robinson-t-00-45-48)**
+> "...tes: "Tyler Robinson's (Tyler Robinson) ACT score was 34, so he was in the 99 percentile..."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Marina Mappin"
-description: "Marina Mappin (People) - 4 mentions"
+description: "Marina Mappin (People) - 5 mentions"
 id: "person-marina-mappin"
 type: "PERSON"
 aliases:
@@ -17,13 +17,16 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (3 mentions)</summary>
 
 **[00:33:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-marina-mappin-t-00-33-12)**
 > "...ohn Mappin (John Mappin), and Arena Mappin (Arena Mappin) called John Mappin (John Mappin) a..."
 
 **[00:33:43](/episodes/ep-K1tFD7FfoCU.md#ent-person-marina-mappin-t-00-33-12)**
 > "Tyler Bowyer (Tyler Bowyer) late-night tweeting at donors as he did over the weekend. I think he directed his fire at like John Mappin (John Mappin), and Arena Mappin (Arena Mappin) called John Mappin (John Mappin) a loser."
+
+**[00:33:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-marina-mappin-t-00-33-12)**
+> "...hn Mappin), and Arena Mappin (Arena Mappin) called John Mappin (John Mappin) a loser."
 
 </details>
 

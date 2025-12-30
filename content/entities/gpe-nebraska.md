@@ -1,6 +1,6 @@
 ---
 title: "Nebraska"
-description: "Nebraska (Places) - 27 mentions"
+description: "Nebraska (Places) - 34 mentions"
 id: "gpe-nebraska"
 type: "GPE"
 aliases:
@@ -31,7 +31,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (5 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (12 mentions)</summary>
 
 **[00:11:11](/episodes/ep-mKXdKV-OBog.md#ent-gpe-nebraska-t-00-10-47)**
 > "...or its longest trip—that's correct—from Cairo. It went through to Paris, and then it went to Omaha, Nebraska. I think yesterday I said that it stayed in Wilmington for six days. No, it only stayed in Wilmingt..."
@@ -47,6 +47,27 @@ _Type: Places_
 
 **[00:13:06](/episodes/ep-mKXdKV-OBog.md#ent-gpe-nebraska-t-00-12-57)**
 > "...et with, because I feel like that idea might be related to our planes. I just don't think people in Nebraska are sitting around like, "Hey, we should go to Cairo or Egypt," and it happens to line up with this..."
+
+**[00:11:11](/episodes/ep-mKXdKV-OBog.md#ent-gpe-nebraska-t-00-10-47)**
+> "...s, and then it went to Omaha, Nebraska."
+
+**[00:11:22](/episodes/ep-mKXdKV-OBog.md#ent-gpe-nebraska-t-00-10-47)**
+> "It stayed in Nebraska for the longest stretch yet, departing from Linco..."
+
+**[00:11:22](/episodes/ep-mKXdKV-OBog.md#ent-gpe-nebraska-t-00-10-47)**
+> "... yet, departing from Lincoln, Nebraska, in particular."
+
+**[00:11:30](/episodes/ep-mKXdKV-OBog.md#ent-gpe-nebraska-t-00-11-30)**
+> "...ch of what they were doing in Nebraska actually might offer us a clue because during thi..."
+
+**[00:11:30](/episodes/ep-mKXdKV-OBog.md#ent-gpe-nebraska-t-00-11-30)**
+> "...is stretch, on July 22nd, the Nebraska Secretary of State, Bob Evnen, announced that the..."
+
+**[00:12:13](/episodes/ep-mKXdKV-OBog.md#ent-gpe-nebraska-t-00-12-13)**
+> "(News clip) Nebraska Secretary of State Bob Evnen is inviting business..."
+
+**[00:13:06](/episodes/ep-mKXdKV-OBog.md#ent-gpe-nebraska-t-00-12-57)**
+> "I just don't think people in Nebraska are sitting around like, "Hey, we should go to Ca..."
 
 </details>
 

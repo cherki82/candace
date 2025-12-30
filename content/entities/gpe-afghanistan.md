@@ -1,6 +1,6 @@
 ---
 title: "Afghanistan"
-description: "Afghanistan (Places) - 2 mentions"
+description: "Afghanistan (Places) - 3 mentions"
 id: "gpe-afghanistan"
 type: "GPE"
 ---
@@ -11,6 +11,14 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+
+**[00:58:20](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-afghanistan-t-00-58-06)**
+> "... the poppy fields—and then in Afghanistan—and then we got an opioid crisis. And the Sackler..."
+
+</details>
 
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (2 mentions)</summary>

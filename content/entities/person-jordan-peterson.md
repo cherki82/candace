@@ -1,6 +1,6 @@
 ---
 title: "Jordan Peterson"
-description: "Jordan Peterson (People) - 8 mentions"
+description: "Jordan Peterson (People) - 10 mentions"
 id: "person-jordan-peterson"
 type: "PERSON"
 aliases:
@@ -18,13 +18,19 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4 mentions)</summary>
 
 **[00:18:10](/episodes/ep-6DhWawD4ZiM.md#ent-person-jordan-peterson-t-00-18-00)**
 > "...ally, there's a great clip of Jordan (Jordan Peterson) asking that very question."
 
 **[00:21:42](/episodes/ep-6DhWawD4ZiM.md#ent-person-jordan-peterson-t-00-18-00)**
 > "there's a great clip of Jordan (Jordan Peterson) asking that very question"
+
+**[00:18:10](/episodes/ep-6DhWawD4ZiM.md#ent-person-jordan-peterson-t-00-18-00)**
+> "...ere's a great clip of Jordan (Jordan Peterson) asking that very question."
+
+**[00:18:10](/episodes/ep-6DhWawD4ZiM.md#ent-person-jordan-peterson-t-00-18-00)**
+> "... great clip of Jordan (Jordan Peterson) asking that very question."
 
 </details>
 

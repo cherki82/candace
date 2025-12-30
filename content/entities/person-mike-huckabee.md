@@ -1,6 +1,6 @@
 ---
 title: "Mike Huckabee"
-description: "Mike Huckabee (People) - 7 mentions"
+description: "Mike Huckabee (People) - 12 mentions"
 id: "person-mike-huckabee"
 type: "PERSON"
 ---
@@ -13,7 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (6 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (11 mentions)</summary>
 
 **[00:25:20](/episodes/ep-mKXdKV-OBog.md#ent-person-mike-huckabee-t-00-24-49)**
 > "...serve the state of Israel. So let me show you a couple of these headlines. I guess let's start with Mike Huckabee. He is the ambassador to Israel and apparently is completely shameless. Now just to go back—in case..."
@@ -32,6 +32,21 @@ _Type: People_
 
 **[00:27:34](/episodes/ep-mKXdKV-OBog.md#ent-person-mike-huckabee-t-00-27-32)**
 > "...served us well." You've served us well. And who cares if the American people suffer? So you'd think Mike Huckabee would go, "I'm not going to meet with him because that shows that I am an Israel-first star." But t..."
+
+**[00:25:20](/episodes/ep-mKXdKV-OBog.md#ent-person-mike-huckabee-t-00-24-49)**
+> "I guess let's start with Mike Huckabee."
+
+**[00:25:28](/episodes/ep-mKXdKV-OBog.md#ent-person-mike-huckabee-t-00-25-28)**
+> "...you missed it back in October—Mike Huckabee and the former U.S. ambassador to Israel—which wa..."
+
+**[00:26:26](/episodes/ep-mKXdKV-OBog.md#ent-person-mike-huckabee-t-00-26-11)**
+> "...hat's not humiliating enough, Mike Huckabee just went over to Israel and met with Jonathan Po..."
+
+**[00:26:39](/episodes/ep-mKXdKV-OBog.md#ent-person-mike-huckabee-t-00-26-11)**
+> "...Israel says he met Ambassador Mike Huckabee to thank him for his support because he did suppo..."
+
+**[00:27:34](/episodes/ep-mKXdKV-OBog.md#ent-person-mike-huckabee-t-00-27-32)**
+> "So you'd think Mike Huckabee would go, "I'm not going to meet with him because..."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "North Dakota"
-description: "North Dakota (Places) - 9 mentions"
+description: "North Dakota (Places) - 13 mentions"
 id: "gpe-north-dakota"
 type: "GPE"
 ---
@@ -13,7 +13,7 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (5 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (9 mentions)</summary>
 
 **[00:05:58](/episodes/ep-mKXdKV-OBog.md#ent-gpe-north-dakota-t-00-05-45)**
 > "...me into the United States on September 4th. You might recall it stopped for just one hour in Minot, North Dakota, which I learned has an Air Force base. It pretty much is just the Air Force base, by the way, befo..."
@@ -29,6 +29,18 @@ _Type: Places_
 
 **[00:08:40](/episodes/ep-mKXdKV-OBog.md#ent-gpe-north-dakota-t-00-08-31)**
 > "...ration Valhalla Strike was a week-long training where the 891st Squadron from Minot Air Force Base, North Dakota, traveled to Camp Ripley Training Center in Minnesota, August 24, 2024. The advanced training focus..."
+
+**[00:05:58](/episodes/ep-mKXdKV-OBog.md#ent-gpe-north-dakota-t-00-05-45)**
+> "...d for just one hour in Minot, North Dakota, which I learned has an Air Force base."
+
+**[00:06:23](/episodes/ep-mKXdKV-OBog.md#ent-gpe-north-dakota-t-00-05-45)**
+> "...is SUBTT's stopover in Minot, North Dakota."
+
+**[00:07:33](/episodes/ep-mKXdKV-OBog.md#ent-gpe-north-dakota-t-00-07-13)**
+> "I can tell you that North Dakota in general is not a very populous state."
+
+**[00:08:40](/episodes/ep-mKXdKV-OBog.md#ent-gpe-north-dakota-t-00-08-31)**
+> "...on from Minot Air Force Base, North Dakota, traveled to Camp Ripley Training Center in Minne..."
 
 </details>
 

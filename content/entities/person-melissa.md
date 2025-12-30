@@ -1,6 +1,6 @@
 ---
 title: "Melissa"
-description: "Melissa (People) - 2 mentions"
+description: "Melissa (People) - 3 mentions"
 id: "person-melissa"
 type: "PERSON"
 aliases:
@@ -24,6 +24,14 @@ _Type: People_
 
 **[00:52:25](/episodes/ep-t4U7NjnUEgc.md#ent-person-melissa-t-00-51-47)**
 > "...Matta) has been amazing on X. Melissa (Melissa), I always tell you about Melissa (Melis..."
+
+</details>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+
+**[00:42:42](/episodes/ep-mKXdKV-OBog.md#ent-person-melissa-t-00-42-07)**
+> "Melissa B. writes: "I really, really want to believe that..."
 
 </details>
 

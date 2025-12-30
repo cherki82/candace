@@ -1,6 +1,6 @@
 ---
 title: "Judas"
-description: "Judas (People) - 5 mentions"
+description: "Judas (People) - 7 mentions"
 id: "person-judas"
 type: "PERSON"
 ---
@@ -24,18 +24,24 @@ _Type: People_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:04:27](/episodes/ep-mKXdKV-OBog.md#ent-person-judas-t-00-04-21)**
 > "...s very clear that there is nothing new under the sun, and it appears that history is present again. Judas, Brutus—in the future, when we are long gone from this world, who do you guys think is going to be ..."
 
+**[00:04:27](/episodes/ep-mKXdKV-OBog.md#ent-person-judas-t-00-04-21)**
+> "Judas, Brutus—in the future,"
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
 **[00:38:54](/episodes/ep-yAIb-NuUh_U.md#ent-person-judas-t-00-38-32)**
 > "...erica it is the media that intentionally fosters this sort of a culture. And in some regard, it's a Judas culture, right? There is a psychology that has manifested where people are encouraged to sell out t..."
+
+**[00:38:54](/episodes/ep-yAIb-NuUh_U.md#ent-person-judas-t-00-38-32)**
+> "And in some regard, it's a Judas culture, right?"
 
 </details>
 

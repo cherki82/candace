@@ -1,6 +1,6 @@
 ---
 title: "Texas"
-description: "Texas (Places) - 12 mentions"
+description: "Texas (Places) - 14 mentions"
 id: "gpe-texas"
 type: "GPE"
 ---
@@ -11,6 +11,14 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1 mentions)</summary>
+
+**[00:45:10](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-texas-t-00-45-10)**
+> "Remember El Paso, Texas is where all those weird flights were coming from..."
+
+</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
@@ -40,10 +48,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:53:29](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-texas-t-00-53-05)**
 > "... that is a very powerful prayer of protection. Rianne writes, "Hi, this is Rianne from San Antonio, Texas." "Thank you, Candace (Candace Owens), for never giving up on the truth." "You are Charlie (Charlie..."
+
+**[00:53:29](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-texas-t-00-53-05)**
+> "...s is Rianne from San Antonio, Texas.""
 
 </details>
 

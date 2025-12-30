@@ -1,6 +1,6 @@
 ---
 title: "Lou Taylor"
-description: "Lou Taylor (People) - 28 mentions"
+description: "Lou Taylor (People) - 59 mentions"
 id: "person-lou-taylor"
 type: "PERSON"
 ---
@@ -13,7 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (28 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (59 mentions)</summary>
 
 **[00:05:39](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-05-39)**
 > "...ist. Now, so that we can have a little bit more of a gist—particularly who they were referencing—is Lou Taylor. Lou Taylor apparently was very much involved. That is what has been heavily insinuated—and even by..."
@@ -98,6 +98,99 @@ _Type: People_
 
 **[00:30:25](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-30-07)**
 > "... psychological operations started to take place. And now, of course, we learn that this church that Lou Taylor's husband is a pastor at has this background that involves the CIA. They even explicitly tell the t..."
+
+**[00:05:39](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-05-39)**
+> "... who they were referencing—is Lou Taylor."
+
+**[00:05:46](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-05-39)**
+> "Lou Taylor apparently was very much involved."
+
+**[00:06:14](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-06-14)**
+> "...o understand a little more of Lou Taylor's history."
+
+**[00:06:16](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-06-14)**
+> "So Lou Taylor became involved with Britney Spears in 2007 after..."
+
+**[00:06:40](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-06-14)**
+> "Lou Taylor is the business manager for Britney Spears' fathe..."
+
+**[00:07:41](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-07-26)**
+> "...done this multiple times, and Lou Taylor's firm gave Britney's dad a loan of $40,000."
+
+**[00:08:15](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-08-11)**
+> "Tristar—that is Lou Taylor's company—was hired to serve as the tour's business..."
+
+**[00:08:15](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-08-11)**
+> "... was now under the control of Lou Taylor and Jamie Spears, the father."
+
+**[00:08:42](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-08-11)**
+> "And instantly, Lou Taylor talking about God and prayers—that's a lot of wha..."
+
+**[00:10:35](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-10-20)**
+> "...t Cooper is about to lay out, Lou Taylor's qualifications are somewhat lacking."
+
+**[00:10:43](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-10-43)**
+> "...important to understand about Lou Taylor is that Lou is not a talent manager."
+
+**[00:10:58](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-10-43)**
+> "Even though Lou Taylor had no financial background—she was not even an a..."
+
+**[00:11:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-10-43)**
+> "Lou Taylor actually started her career in a church working a..."
+
+**[00:11:15](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-10-43)**
+> "...vatorship to the church where Lou Taylor's husband was a pastor."
+
+**[00:12:49](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-12-38)**
+> "...re telling me that this woman Lou Taylor also was involved in the Calvary Chapel? And I wa..."
+
+**[00:13:13](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-13-13)**
+> "...hed out to me who worked with Lou Taylor and described exactly what she's referring to—thi..."
+
+**[00:13:13](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-13-13)**
+> "...o—this system of tithing that Lou Taylor makes them say 10% has to go to the church if the..."
+
+**[00:14:01](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-13-53)**
+> "...g to the press and called out Lou Taylor."
+
+**[00:14:19](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-14-12)**
+> "...ean "Chapman" Holly, Sean and Lou Taylor leaked that to the press because they wanted Lind..."
+
+**[00:14:59](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-14-40)**
+> "...t somebody who very much knew Lou Taylor—worked with Lou Taylor—sent me this, which is int..."
+
+**[00:14:59](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-14-40)**
+> "...h knew Lou Taylor—worked with Lou Taylor—sent me this, which is interesting."
+
+**[00:15:08](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-14-40)**
+> "...ce come to think that Rob and Lou Taylor's church is just a front for them and a ruse.""
+
+**[00:16:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-16-07)**
+> "I know Lou Taylor built a house there and would find it very hard t..."
+
+**[00:16:18](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-16-07)**
+> "Before Rob and Lou Taylor moved to Brentwood, Tennessee."
+
+**[00:16:23](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-16-07)**
+> "I think Rob and Lou Taylor moved to Brentwood, Tennessee."
+
+**[00:16:49](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-16-49)**
+> "... foolish for us to think that Lou Taylor does not know Rob McCoy—exactly, right?"
+
+**[00:17:11](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-16-49)**
+> "...as also had allegations about Lou Taylor."
+
+**[00:25:51](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-25-15)**
+> ""Don't forget that Lou Taylor was my business manager for 18 years.""
+
+**[00:28:21](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-27-58)**
+> "I'm not up on—she mentioned Lou Taylor."
+
+**[00:28:42](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-28-42)**
+> "...he Jews that are in Hollywood—Lou Taylor for Kim Kardashian and Diddy.""
+
+**[00:30:25](/episodes/ep-7RLtGgkTh9o.md#ent-person-lou-taylor-t-00-30-07)**
+> "...e learn that this church that Lou Taylor's husband is a pastor at has this background that i..."
 
 </details>
 

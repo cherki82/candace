@@ -1,6 +1,6 @@
 ---
 title: "Pam Bondi"
-description: "Pam Bondi (People) - 6 mentions"
+description: "Pam Bondi (People) - 7 mentions"
 id: "person-pam-bondi"
 type: "PERSON"
 ---
@@ -24,10 +24,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
 **[00:33:53](/episodes/ep-yAIb-NuUh_U.md#ent-person-pam-bondi-t-00-33-32)**
 > "...looked us in the face and he said, "What files?" right? Are we still talking about Jeffrey Epstein? Pam Bondi said it was a Democrat hoax. No, I think the entire nation has been hoaxed by Republicans and Democ..."
+
+**[00:33:53](/episodes/ep-yAIb-NuUh_U.md#ent-person-pam-bondi-t-00-33-32)**
+> "Pam Bondi said it was a Democrat hoax."
 
 </details>
 

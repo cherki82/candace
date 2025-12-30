@@ -1,6 +1,6 @@
 ---
 title: "Better Business Bureau"
-description: "Better Business Bureau (Organizations) - 5 mentions"
+description: "Better Business Bureau (Organizations) - 6 mentions"
 id: "org-better-business-bureau"
 type: "ORG"
 aliases:
@@ -25,10 +25,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
 **[00:36:01](/episodes/ep-yAIb-NuUh_U.md#ent-org-better-business-bureau-t-00-35-40)**
 > "...ff your debt faster, and start putting money back where it belongs. PDS Debt is A-plus rated by the Better Business Bureau. It boasts thousands of five-star reviews on Google, and it holds a five-star rating on Trustpilot...."
+
+**[00:36:01](/episodes/ep-yAIb-NuUh_U.md#ent-org-better-business-bureau-t-00-35-40)**
+> "...S Debt is A-plus rated by the Better Business Bureau."
 
 </details>
 

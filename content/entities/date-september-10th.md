@@ -1,6 +1,6 @@
 ---
 title: "September 10th"
-description: "September 10th (Dates) - 77 mentions"
+description: "September 10th (Dates) - 81 mentions"
 id: "date-september-10th"
 type: "DATE"
 aliases:
@@ -39,6 +39,14 @@ _Type: Dates_
 
 **[00:48:06](/episodes/ep-9k2xrAC0H88.md#t-00-47-35)**
 > "You have information about what happened on September 10"
+
+</details>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1 mentions)</summary>
+
+**[00:16:46](/episodes/ep-6DhWawD4ZiM.md#ent-date-september-10th-t-00-16-35)**
+> "... answer of what took place in September 10th, a CEO, okay, does not get to respond and say, th..."
 
 </details>
 
@@ -98,10 +106,13 @@ _Type: Dates_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:19:49](/episodes/ep-mKXdKV-OBog.md#ent-date-september-10th-t-00-19-46)**
 > "... done anything wrong. But unusually, when I went to check that person's socials, they had posted on September 10th about their bulletproof skateboard—that I don't know if it was like a promo for his skateboard or w..."
+
+**[00:19:49](/episodes/ep-mKXdKV-OBog.md#ent-date-september-10th-t-00-19-46)**
+> "...s socials, they had posted on September 10th about their bulletproof skateboard—that I don't k..."
 
 </details>
 
@@ -174,18 +185,24 @@ _Type: Dates_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:47:39](/episodes/ep-7RLtGgkTh9o.md#t-00-47-26)**
 > "...I'm going to do. I'm going to follow my every instinct in this until we figure out what happened on 9/10 and beyond that, right? This feels to me like so much is being revealed right now, and the linchpin..."
 
+**[00:47:39](/episodes/ep-7RLtGgkTh9o.md#t-00-47-26)**
+> "...e figure out what happened on 9/10 and beyond that, right?"
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
 **[01:01:28](/episodes/ep-yAIb-NuUh_U.md#t-01-01-28)**
 > "...under the guise of Christianity trying to make the rest of the world shut up about what happened on 9/10. So anyways, you guys, thank you for the support. We will see you tomorrow."
+
+**[01:01:28](/episodes/ep-yAIb-NuUh_U.md#t-01-01-28)**
+> "...hut up about what happened on 9/10."
 
 </details>
 

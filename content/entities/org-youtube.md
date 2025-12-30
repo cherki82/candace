@@ -1,6 +1,6 @@
 ---
 title: "YouTube"
-description: "YouTube (Organizations) - 38 mentions"
+description: "YouTube (Organizations) - 44 mentions"
 id: "org-youtube"
 type: "ORG"
 ---
@@ -35,6 +35,14 @@ _Type: Organizations_
 </details>
 
 <details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1 mentions)</summary>
+
+**[00:13:27](/episodes/ep-6DhWawD4ZiM.md#ent-org-youtube-t-00-13-05)**
+> "...dreds of dollars every day on YouTube."
+
+</details>
+
+<details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1 mentions)</summary>
 
 **[00:43:30](/episodes/ep-DqGNvi36ol8.md#ent-org-youtube-t-00-42-55)**
@@ -54,7 +62,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (8 mentions)</summary>
 
 **[00:29:48](/episodes/ep-mKXdKV-OBog.md#ent-org-youtube-t-00-29-33)**
 > ".... I'm reporting a piece for The Free Press on the economics of high-engagement political content on YouTube and podcast platforms. I'm reaching out for comment regarding several assertions that you've made i..."
@@ -67,6 +75,18 @@ _Type: Organizations_
 
 **[00:32:03](/episodes/ep-mKXdKV-OBog.md#ent-org-youtube-t-00-31-40)**
 > "...ng Palestinians right now. So it's about metrics. It's about the SS tab that's behind the scenes of YouTube. So I'll get that content— I'll get those metrics over to you, Ash. Looking forward to that. Furthe..."
+
+**[00:29:48](/episodes/ep-mKXdKV-OBog.md#ent-org-youtube-t-00-29-33)**
+> "...gagement political content on YouTube and podcast platforms."
+
+**[00:30:09](/episodes/ep-mKXdKV-OBog.md#ent-org-youtube-t-00-30-09)**
+> "...ber growth, or revenue across YouTube, Rumble, or your podcast feeds?"
+
+**[00:31:10](/episodes/ep-mKXdKV-OBog.md#ent-org-youtube-t-00-30-55)**
+> "And we have to pull that from YouTube because that's—I can see we've done some tests."
+
+**[00:32:03](/episodes/ep-mKXdKV-OBog.md#ent-org-youtube-t-00-31-40)**
+> "...b that's behind the scenes of YouTube."
 
 </details>
 
@@ -114,10 +134,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
 
 **[00:46:41](/episodes/ep-K1tFD7FfoCU.md#ent-org-youtube-t-00-46-33)**
 > "...nking of— so there's a theme here, and my opinion on that is not something that can be discussed on YouTube. So I'll save it for my book club tomorrow. Peddle (Peddle) writes: "Love you, Candace (Candace Owe..."
+
+**[00:46:41](/episodes/ep-K1tFD7FfoCU.md#ent-org-youtube-t-00-46-33)**
+> "...hing that can be discussed on YouTube."
 
 </details>
 

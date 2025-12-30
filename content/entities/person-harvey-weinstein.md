@@ -1,6 +1,6 @@
 ---
 title: "Harvey Weinstein"
-description: "Harvey Weinstein (People) - 0 mentions"
+description: "Harvey Weinstein (People) - 3 mentions"
 id: "person-harvey-weinstein"
 type: "PERSON"
 ---
@@ -12,7 +12,19 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
 
-_No mentions recorded._
+<details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (3 mentions)</summary>
+
+**[00:03:13](/episodes/ep-7RLtGgkTh9o.md#ent-person-harvey-weinstein-t-00-02-48)**
+> "Harvey Weinstein connection."
+
+**[00:03:17](/episodes/ep-7RLtGgkTh9o.md#ent-person-harvey-weinstein-t-00-02-48)**
+> "...very weird that they took out Harvey Weinstein. That is a fact—via the MeToo movement."
+
+**[00:15:24](/episodes/ep-7RLtGgkTh9o.md#ent-person-harvey-weinstein-t-00-15-24)**
+> "...ecurity that was provided for Harvey Weinstein, where it's really just the Mossad agents who now..."
+
+</details>
 
 </details>
 

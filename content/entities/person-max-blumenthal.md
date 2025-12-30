@@ -94,16 +94,13 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Max Blumenthal (2)</strong></summary>
+<summary><strong class="section-title">Statements about Max Blumenthal (1)</strong></summary>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1)</summary>
 
 - [00:55:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-55-04) (Claim) **Alex Jones** (via quoted speech): ["Candace Owens sent out a dead man's switch to the Tate brothers, Dave ..."](/statements/statement-e74fc96d3122.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Andrew Tate](/entities/person-andrew-tate.md), [Dave Smith](/entities/person-dave-smith.md)
-
-- [00:55:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-55-04) (Claim) **Alex Jones** (via quoted speech): ["Candace Owens has sent out a dead man's switch to the Tate brothers, D..."](/statements/statement-4bae8e27fedb.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Dave Smith](/entities/person-dave-smith.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
 
 </details>
 

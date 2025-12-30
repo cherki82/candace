@@ -1,6 +1,6 @@
 ---
 title: "Charlie Kirk assassination"
-description: "Charlie Kirk assassination (Events) - 234 mentions"
+description: "Charlie Kirk assassination (Events) - 236 mentions"
 id: "event-charlie-kirk-assassination"
 type: "EVENT"
 aliases:
@@ -32,6 +32,17 @@ _Type: Events_
 
 **[00:02:25](/episodes/ep-9k2xrAC0H88.md#ent-event-charlie-kirk-assassination-t-00-02-01)**
 > "...deral prints are all over the Charlie Kirk assassination story, okay?"
+
+</details>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
+
+**[00:13:33](/episodes/ep-6DhWawD4ZiM.md#t-00-13-05)**
+> "talking about Charlie Kirk's assassination and the BS narrative that is being fed and the ve..."
+
+**[00:13:56](/episodes/ep-6DhWawD4ZiM.md#t-00-13-48)**
+> "...ization immediately following Charlie Kirk's assassination."
 
 </details>
 

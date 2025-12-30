@@ -1,6 +1,6 @@
 ---
 title: "JFK assassination"
-description: "JFK assassination (Events) - 9 mentions"
+description: "JFK assassination (Events) - 10 mentions"
 id: "event-jfk-assassination"
 type: "EVENT"
 ---
@@ -30,10 +30,13 @@ _Type: Events_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:05:14](/episodes/ep-mKXdKV-OBog.md#ent-event-jfk-assassination-t-00-05-02)**
 > "...And we're going to find out. I've been confident from the beginning that this was not going to be a JFK assassination story. We are going to figure out who that foreign dignitary was who went to 920 North King on the ..."
+
+**[00:05:14](/episodes/ep-mKXdKV-OBog.md#ent-event-jfk-assassination-t-00-05-02)**
+> "...at this was not going to be a JFK assassination story."
 
 </details>
 
@@ -101,7 +104,7 @@ _No relationships extracted yet._
 - [00:00:02](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00) (Claim) **Candace Owens**: ["The CIA established Operation Mockingbird after the public execution o..."](/statements/statement-b6c4b6edb33f.md)
   - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
 
-- [00:00:03](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00) (Claim) **Candace Owens**: ["The CIA established Operation Mockingbird after the public execution o..."](/statements/statement-e318b0075c46.md)
+- [00:00:03](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00) (Claim) **Candace Owens**: ["After the public execution of sitting President JFK in 1963, the CIA e..."](/statements/statement-0533f01c5c5b.md)
   - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
 
 </details>

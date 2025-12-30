@@ -1,6 +1,6 @@
 ---
 title: "Ashley Reinsberg"
-description: "Ashley Reinsberg (People) - 3 mentions"
+description: "Ashley Reinsberg (People) - 5 mentions"
 id: "person-ashley-reinsberg"
 type: "PERSON"
 ---
@@ -13,7 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (5 mentions)</summary>
 
 **[00:29:33](/episodes/ep-mKXdKV-OBog.md#ent-person-ashley-reinsberg-t-00-29-33)**
 > "...ou're gonna think this is SNL that fluttered into my inbox the other day from a writer. His name is Ashley Reinsberg. And this is—I'm just going to read you the email. This is it. It says, "Hi, Candace (Candace Owens..."
@@ -23,6 +23,12 @@ _Type: People_
 
 **[00:31:34](/episodes/ep-mKXdKV-OBog.md#ent-person-ashley-reinsberg-t-00-30-55)**
 > "...'s implied. Why do we have to pretend this is journalism, right? Are you shocked if I tell you that Ashley Reinsberg—he happens to live in Tel Aviv? He just cannot make it up. Like, just write your articles. Stop pre..."
+
+**[00:29:33](/episodes/ep-mKXdKV-OBog.md#ent-person-ashley-reinsberg-t-00-29-33)**
+> "His name is Ashley Reinsberg."
+
+**[00:31:34](/episodes/ep-mKXdKV-OBog.md#ent-person-ashley-reinsberg-t-00-30-55)**
+> "...ou shocked if I tell you that Ashley Reinsberg—he happens to live in Tel Aviv?"
 
 </details>
 

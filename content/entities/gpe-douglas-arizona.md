@@ -1,6 +1,6 @@
 ---
 title: "Douglas, Arizona"
-description: "Douglas, Arizona (Places) - 4 mentions"
+description: "Douglas, Arizona (Places) - 6 mentions"
 id: "gpe-douglas-arizona"
 type: "GPE"
 aliases:
@@ -36,6 +36,17 @@ _Type: Places_
 
 **[00:09:56](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-douglas-arizona-t-00-09-51)**
 > "...rced tunnel at a warehouse in Douglas, Arizona."
+
+</details>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
+
+**[00:21:41](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-douglas-arizona-t-00-21-15)**
+> "...ace—will also be presented by Douglas Murray (Douglas Murray), Yael Eckstein (Yael Ecks..."
+
+**[00:21:41](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-douglas-arizona-t-00-21-15)**
+> "... presented by Douglas Murray (Douglas Murray), Yael Eckstein (Yael Eckstein), and Dr. J..."
 
 </details>
 

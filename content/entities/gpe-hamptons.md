@@ -1,6 +1,6 @@
 ---
 title: "Hamptons"
-description: "Hamptons (Places) - 56 mentions"
+description: "Hamptons (Places) - 57 mentions"
 id: "gpe-hamptons"
 type: "GPE"
 ---
@@ -40,10 +40,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:35:37](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hamptons-t-00-35-35)**
 > ".... And I go back to something that was very strange when people were telling me what happened in the Hamptons before Charlie (Charlie Kirk) died. But Bill Ackman gave a presentation—don't forget—and told these..."
+
+**[00:35:37](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hamptons-t-00-35-35)**
+> "...lling me what happened in the Hamptons before Charlie (Charlie Kirk) died."
 
 </details>
 

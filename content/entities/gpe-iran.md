@@ -1,6 +1,6 @@
 ---
 title: "Iran"
-description: "Iran (Places) - 25 mentions"
+description: "Iran (Places) - 26 mentions"
 id: "gpe-iran"
 type: "GPE"
 aliases:
@@ -82,10 +82,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
 
 **[00:04:51](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-iran-t-00-04-45)**
 > "...rmination of Israel, to defend Hamas, to even criticize President Trump (Donald Trump) for stopping Iran's nuclear ambitions. Randy Fine (clip): Friends, make no mistake. Randy Fine (clip): Tucker (Tucker..."
+
+**[00:04:51](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-iran-t-00-04-45)**
+> "...p (Donald Trump) for stopping Iran's nuclear ambitions."
 
 </details>
 

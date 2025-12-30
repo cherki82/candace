@@ -1,6 +1,6 @@
 ---
 title: "CBS"
-description: "CBS (Organizations) - 6 mentions"
+description: "CBS (Organizations) - 10 mentions"
 id: "org-cbs"
 type: "ORG"
 ---
@@ -13,6 +13,14 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1 mentions)</summary>
+
+**[00:11:56](/episodes/ep-6DhWawD4ZiM.md#t-00-11-42)**
+> "...lso made time for an upcoming CBS News town hall sit down with Barry (Barry Weiss),..."
+
+</details>
+
+<details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1 mentions)</summary>
 
 **[00:51:30](/episodes/ep-DqGNvi36ol8.md#t-00-51-00)**
@@ -21,7 +29,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (6 mentions)</summary>
 
 **[00:28:48](/episodes/ep-mKXdKV-OBog.md#t-00-28-48)**
 > "...ri Weiss started and is a part-owner, at least, of The Free Press before that—before she went on to CBS News. She notoriously left The New York Times and said it was biased, and we needed to have somethi..."
@@ -31,6 +39,15 @@ _Type: Organizations_
 
 **[00:34:03](/episodes/ep-mKXdKV-OBog.md#t-00-33-40)**
 > "...saying this?" She's very, very much 100% on board. My job is to get rid of any independent voice at CBS. We're here to destroy the network and get rid of anybody that would stand in our way. We are here ..."
+
+**[00:28:48](/episodes/ep-mKXdKV-OBog.md#t-00-28-48)**
+> "...re that—before she went on to CBS News."
+
+**[00:32:55](/episodes/ep-mKXdKV-OBog.md#t-00-32-20)**
+> "At the head of CBS News. Take a listen."
+
+**[00:34:03](/episodes/ep-mKXdKV-OBog.md#t-00-33-40)**
+> "...d of any independent voice at CBS."
 
 </details>
 

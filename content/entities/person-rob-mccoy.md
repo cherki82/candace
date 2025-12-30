@@ -1,6 +1,6 @@
 ---
 title: "Rob McCoy"
-description: "Rob McCoy (People) - 126 mentions"
+description: "Rob McCoy (People) - 154 mentions"
 id: "person-rob-mccoy"
 type: "PERSON"
 aliases:
@@ -62,7 +62,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (5 mentions)</summary>
 
 **[00:14:31](/episodes/ep-6DhWawD4ZiM.md#ent-person-rob-mccoy-t-00-14-31)**
 > "...ly are showing a clip of Rob (Rob McCoy) defending a pedophile or trying to like launder ..."
@@ -72,6 +72,12 @@ _Type: People_
 
 **[00:37:23](/episodes/ep-6DhWawD4ZiM.md#ent-person-rob-mccoy-t-00-37-23)**
 > "...s whole vision, and that Rob (Rob McCoy) was his favorite pastor, and that you should buy..."
+
+**[00:14:31](/episodes/ep-6DhWawD4ZiM.md#ent-person-rob-mccoy-t-00-14-31)**
+> "...ctually are showing a clip of Rob (Rob McCoy) defending a pedophile or trying to li..."
+
+**[00:37:23](/episodes/ep-6DhWawD4ZiM.md#ent-person-rob-mccoy-t-00-37-23)**
+> "...d this whole vision, and that Rob (Rob McCoy) was his favorite pastor, and that you..."
 
 </details>
 
@@ -150,7 +156,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (12 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (20 mentions)</summary>
 
 **[00:03:48](/episodes/ep-7RLtGgkTh9o.md#ent-person-rob-mccoy-t-00-03-30)**
 > "...ring. So, where did we leave off yesterday? Well, we spoke about the Calvary Chapel. We spoke about Rob McCoy being the lead pastor in Thousand Oaks—one of their many churches across the United States—and my s..."
@@ -188,10 +194,34 @@ _Type: People_
 **[00:31:48](/episodes/ep-7RLtGgkTh9o.md#ent-person-rob-mccoy-t-00-31-33)**
 > "...eople that are supposed to be biblical are telling us not to do that—and it's completely crazy. And Rob McCoy is up here trying to—I guess you could say—like launder the reputation of somebody who spent years ..."
 
+**[00:03:48](/episodes/ep-7RLtGgkTh9o.md#ent-person-rob-mccoy-t-00-03-30)**
+> "...alvary Chapel. We spoke about Rob McCoy being the lead pastor in Thousand Oaks—one of the..."
+
+**[00:09:00](/episodes/ep-7RLtGgkTh9o.md#ent-person-rob-mccoy-t-00-08-56)**
+> "...lso yesterday after I covered Rob McCoy's Potter's Field scandal—the one that happened up i..."
+
+**[00:09:21](/episodes/ep-7RLtGgkTh9o.md#ent-person-rob-mccoy-t-00-08-56)**
+> "Rob McCoy steps in as the CFO, and there's articles about i..."
+
+**[00:09:45](/episodes/ep-7RLtGgkTh9o.md#ent-person-rob-mccoy-t-00-09-38)**
+> "...further into this claim—until Rob McCoy got involved and then he intentionally scandalize..."
+
+**[00:16:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-rob-mccoy-t-00-16-07)**
+> "...elieve that she does not know Rob McCoy—seeing that he was the mayor of Thousand Oaks and..."
+
+**[00:16:49](/episodes/ep-7RLtGgkTh9o.md#ent-person-rob-mccoy-t-00-16-49)**
+> "...that Lou Taylor does not know Rob McCoy—exactly, right?"
+
+**[00:31:39](/episodes/ep-7RLtGgkTh9o.md#ent-person-rob-mccoy-t-00-31-33)**
+> "...stuff that I'm learning about Rob McCoy and the fact that people that are supposed to be ..."
+
+**[00:31:48](/episodes/ep-7RLtGgkTh9o.md#ent-person-rob-mccoy-t-00-31-33)**
+> "And Rob McCoy is up here trying to—I guess you could say—like l..."
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (14 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (25 mentions)</summary>
 
 **[00:07:21](/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-07-16)**
 > "Who is Rob McCoy?"
@@ -234,6 +264,39 @@ _Type: People_
 
 **[00:27:51](/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-27-15)**
 > "...ve these pastors and they feel sleazy to me. They just do, okay? They're not honest. We have caught Rob McCoy in multiple lies, so I don't see him as a person that you would want stewarding your faith. And whe..."
+
+**[00:07:21](/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-07-16)**
+> "Who is Rob McCoy?"
+
+**[00:07:36](/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-07-16)**
+> "Why is Rob McCoy adjacent to some of these scandals?"
+
+**[00:11:21](/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-11-21)**
+> "...s in prison for these crimes, Rob McCoy—the pastor who makes my skin crawl—struck up ther..."
+
+**[00:12:06](/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-12-06)**
+> "...nse to this being discovered, Rob McCoy did not apologize."
+
+**[00:12:47](/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-12-47)**
+> "This is how Rob McCoy intros Thomas on his podcast. (clip of Rob McCoy)"
+
+**[00:12:47](/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-12-47)**
+> "...omas on his podcast. (clip of Rob McCoy)"
+
+**[00:19:12](/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-12-47)**
+> "...Coy (not McCoy, to be clear), Rob Coy, who was a former Las Vegas casino entertainm..."
+
+**[00:24:10](/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-23-51)**
+> "...uations here—flipping back to Rob McCoy, that's not the only scandal that he's been invol..."
+
+**[00:27:07](/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-26-34)**
+> "...9, and they brought in Pastor Rob McCoy as a CFO to help steer the ship of their finances..."
+
+**[00:27:07](/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-26-34)**
+> "... in 2019, and they brought in Pastor Rob McCoy as a CFO to help steer the ship of their finances..."
+
+**[00:27:51](/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-27-15)**
+> "We have caught Rob McCoy in multiple lies, so I don't see him as a person ..."
 
 </details>
 
@@ -335,7 +398,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (4 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (11 mentions)</summary>
 
 **[00:27:53](/episodes/ep-K1tFD7FfoCU.md#ent-person-rob-mccoy-t-00-27-53)**
 > "...for going after Andrew Kolvet (Andrew Kolvet), Mikey McCoy (Mikey McCoy). Anybody that's told a lie—Rob McCoy (Rob McCoy), blood all over him— you got my attention. What lie has Erika (Erika Kirk) told that I'..."
@@ -348,6 +411,27 @@ _Type: People_
 
 **[00:33:17](/episodes/ep-K1tFD7FfoCU.md#ent-person-rob-mccoy-t-00-33-12)**
 > "... They don't believe what time text messages were sent or when the phone calls took place. You know, Rob McCoy (Rob McCoy) is lying. In the areas that you can control the transparency, I think doing that would ..."
+
+**[00:27:53](/episodes/ep-K1tFD7FfoCU.md#ent-person-rob-mccoy-t-00-27-53)**
+> "Anybody that's told a lie—Rob McCoy (Rob McCoy), blood all over him—"
+
+**[00:27:53](/episodes/ep-K1tFD7FfoCU.md#ent-person-rob-mccoy-t-00-27-53)**
+> "... that's told a lie—Rob McCoy (Rob McCoy), blood all over him—"
+
+**[00:33:03](/episodes/ep-K1tFD7FfoCU.md#ent-person-rob-mccoy-t-00-32-27)**
+> "... like what they've seen about Rob McCoy (Rob McCoy)."
+
+**[00:33:03](/episodes/ep-K1tFD7FfoCU.md#ent-person-rob-mccoy-t-00-32-27)**
+> "...they've seen about Rob McCoy (Rob McCoy)."
+
+**[00:33:05](/episodes/ep-K1tFD7FfoCU.md#ent-person-rob-mccoy-t-00-32-27)**
+> "...hey don't like the history of Rob McCoy (Rob McCoy) and Mikey McCoy (Mikey McCoy) and the..."
+
+**[00:33:05](/episodes/ep-K1tFD7FfoCU.md#ent-person-rob-mccoy-t-00-32-27)**
+> "...ike the history of Rob McCoy (Rob McCoy) and Mikey McCoy (Mikey McCoy) and their involvem..."
+
+**[00:33:17](/episodes/ep-K1tFD7FfoCU.md#ent-person-rob-mccoy-t-00-33-12)**
+> "You know, Rob McCoy (Rob McCoy) is lying."
 
 </details>
 
@@ -811,20 +895,14 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Rob McCoy (31)</strong></summary>
+<summary><strong class="section-title">Statements about Rob McCoy (29)</strong></summary>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (7)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (5)</summary>
 
 - [00:11:16](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) (Opinion) **Candace Owens**: ["Rob McCoy makes my skin crawl. I look at him and he's a bad person and..."](/statements/statement-c3ad2a946500.md)
 
 - [00:11:37](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) (Claim) **Erika Kirk**: ["Rob McCoy does not work with Turning Point USA in any capacity whatsoe..."](/statements/statement-40b955ef0d7e.md)
-  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
-
-- [00:11:37](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) (Claim) **Candace Owens** (via paraphrase): ["Rob McCoy does not work with Turning Point USA in any capacity whatsoe..."](/statements/statement-276b02748885.md)
-  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
-
-- [00:11:39](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) (Claim) **Erika Kirk** (via quoted speech): ["Rob McCoy does not work with Turning Point USA in any capacity"](/statements/statement-038c1d1fe7c1.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:12:04](/episodes/ep-es7PWdFGoFI.md#t-00-11-58) (Accusation) **Candace Owens**: ["Rob McCoy claimed on stage at the memorial to be 'America's pastor' an..."](/statements/statement-f7572e40a6e9.md)

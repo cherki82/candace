@@ -1,6 +1,6 @@
 ---
 title: "France"
-description: "France (Places) - 195 mentions"
+description: "France (Places) - 198 mentions"
 id: "gpe-france"
 type: "GPE"
 aliases:
@@ -15,6 +15,14 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1 mentions)</summary>
+
+**[00:57:07](/episodes/ep-6DhWawD4ZiM.md#t-00-56-52)**
+> "...had the information about the French Foreign Legion being on the ground the day that C..."
+
+</details>
 
 <details>
 <summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (8 mentions)</summary>
@@ -493,7 +501,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (7 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (8 mentions)</summary>
 
 **[00:00:04](/episodes/ep-mKXdKV-OBog.md#ent-gpe-france-t-00-00-00)**
 > "...that that company, Satis—that French company—the Satis angle has opened up a whole new..."
@@ -515,6 +523,9 @@ _Type: Places_
 
 **[00:41:51](/episodes/ep-mKXdKV-OBog.md#ent-gpe-france-t-00-41-24)**
 > "...i writes: "My money is on the French.""
+
+**[00:40:47](/episodes/ep-mKXdKV-OBog.md#ent-gpe-france-t-00-40-40)**
+> "...ranslates into English when a French person is trying to fabricate a combo between two..."
 
 </details>
 
@@ -607,10 +618,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
 **[00:49:22](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-france-t-00-49-18)**
 > "...ued. Tim Dillon's already included in my lawsuit with Brigitte Macron. Apparently, the president of France watches Tim Dillon, and we talked about the Brigitte case, and so he's dragged in there anyways. I'..."
+
+**[00:49:22](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-france-t-00-49-18)**
+> "Apparently, the president of France watches Tim Dillon, and we talked about the Brigi..."
 
 </details>
 

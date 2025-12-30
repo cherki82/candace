@@ -1,6 +1,6 @@
 ---
 title: "Turning Point USA"
-description: "Turning Point USA (Organizations) - 766 mentions"
+description: "Turning Point USA (Organizations) - 805 mentions"
 id: "org-turning-point-usa"
 type: "ORG"
 aliases:
@@ -229,7 +229,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (21 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (22 mentions)</summary>
 
 **[00:00:42](/episodes/ep-6DhWawD4ZiM.md#ent-org-turning-point-usa-t-00-03-31)**
 > "We will be building the most beautiful memorial for my husband at Turning Point USA"
@@ -285,7 +285,7 @@ _Type: Organizations_
 **[00:37:05](/episodes/ep-6DhWawD4ZiM.md#ent-org-turning-point-usa-t-00-36-57)**
 > "...ood things about Jews and how TPUSA is having Shabbat dinner."
 
-**[00:52:28](/episodes/ep-6DhWawD4ZiM.md#ent-org-turning-point-usa-t-00-51-49)**
+**[00:52:28](/episodes/ep-6DhWawD4ZiM.md#ent-org-turning-point-usa-t-00-36-57)**
 > "Turning point faith, man."
 
 **[00:54:04](/episodes/ep-6DhWawD4ZiM.md#ent-org-turning-point-usa-t-00-53-57)**
@@ -293,6 +293,9 @@ _Type: Organizations_
 
 **[00:59:07](/episodes/ep-6DhWawD4ZiM.md#ent-org-turning-point-usa-t-00-58-55)**
 > "That's what Turning Point USA was."
+
+**[00:15:45](/episodes/ep-6DhWawD4ZiM.md#ent-org-turning-point-usa-t-00-15-07)**
+> "...sidiaries turning point, like turning point action, all that."
 
 </details>
 
@@ -1004,7 +1007,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (11 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (22 mentions)</summary>
 
 **[00:31:11](/episodes/ep-7RLtGgkTh9o.md#ent-org-turning-point-usa-t-00-30-51)**
 > "...And I find all of this to be fascinating. And it has only made me focus more on this faith angle of TPUSA because I am telling you that when that individual— it was at his memorial. I hadn't even processed..."
@@ -1039,10 +1042,43 @@ _Type: Organizations_
 **[00:57:30](/episodes/ep-7RLtGgkTh9o.md#ent-org-turning-point-usa-t-00-57-22)**
 > "...to Erika. That's about it. That's literally probably it because she quite literally was the heir to Turning Point USA. Like she became the chairman. But that was—that's weird. Like that sort of stuff makes me go—what ..."
 
+**[00:31:11](/episodes/ep-7RLtGgkTh9o.md#ent-org-turning-point-usa-t-00-30-51)**
+> "...s more on this faith angle of TPUSA because I am telling you that when that individua..."
+
+**[00:31:30](/episodes/ep-7RLtGgkTh9o.md#ent-org-turning-point-usa-t-00-30-51)**
+> "But like Turning Point USA was originally remarketing capitalism."
+
+**[00:32:26](/episodes/ep-7RLtGgkTh9o.md#ent-org-turning-point-usa-t-00-30-51)**
+> "... letting go—obviously—of this TPUSA faith infiltration, which is what it looks like t..."
+
+**[00:51:53](/episodes/ep-7RLtGgkTh9o.md#ent-org-turning-point-usa-t-00-51-38)**
+> "Turning Point has raised so much money."
+
+**[00:55:43](/episodes/ep-7RLtGgkTh9o.md#ent-org-turning-point-usa-t-00-55-15)**
+> "...ze that something happened at Turning Point USA and the faith movement seems to be at the center ..."
+
+**[00:55:52](/episodes/ep-7RLtGgkTh9o.md#ent-org-turning-point-usa-t-00-55-15)**
+> "...art to go through the list of Turning Point USA lies—so many of them surround the topic of faith,..."
+
+**[00:56:07](/episodes/ep-7RLtGgkTh9o.md#ent-org-turning-point-usa-t-00-55-59)**
+> "... surrounding that came out of Turning Point USA—which you were able to debunk—so many of them wer..."
+
+**[00:56:36](/episodes/ep-7RLtGgkTh9o.md#ent-org-turning-point-usa-t-00-56-36)**
+> "...Charlie (Charlie Kirk) Kirk's TPUSA heiress" is how we're describing her—like—"
+
+**[00:56:59](/episodes/ep-7RLtGgkTh9o.md#ent-org-turning-point-usa-t-00-56-36)**
+> "Where the heiress to Turning Point USA is Allie Stuckey."
+
+**[00:57:23](/episodes/ep-7RLtGgkTh9o.md#ent-org-turning-point-usa-t-00-57-22)**
+> "...lling somebody the heiress of Turning Point USA would make sense—"
+
+**[00:57:30](/episodes/ep-7RLtGgkTh9o.md#ent-org-turning-point-usa-t-00-57-22)**
+> "...ite literally was the heir to Turning Point USA."
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (11 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (21 mentions)</summary>
 
 **[00:02:41](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-t-00-02-46)**
 > "TPUSA betrayed Charlie."
@@ -1076,6 +1112,36 @@ _Type: Organizations_
 
 **[01:01:22](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-t-00-56-26)**
 > "...uestion until we start getting answers. And I sure as hell do not trust the people that are running Turning Point Faith and under the guise of Christianity trying to make the rest of the world shut up about what h..."
+
+**[00:02:46](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-t-00-02-46)**
+> "...u start launching accusations—TPUSA betrayed Charlie (Charlie Kirk)."
+
+**[00:04:16](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-t-00-03-41)**
+> "... how many times he replied to Turning Point USA."
+
+**[00:07:16](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-t-00-03-41)**
+> "What exactly is TPUSA Faith?"
+
+**[00:24:25](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-t-00-23-51)**
+> "...p to what he's doing now with Turning Point USA. I would say it's very relevant."
+
+**[00:27:23](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-t-00-23-51)**
+> "...hat there was something about Turning Point USA Faith that to me reads like an infiltration of so..."
+
+**[00:32:11](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-t-00-23-51)**
+> "... when you really start to see Turning Point Faith ratchet up—is when Charlie (Charlie Kirk) i..."
+
+**[00:32:25](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-t-00-23-51)**
+> "And then Turning Point Faith seems to just kind of take off in a way tha..."
+
+**[00:32:47](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-t-00-23-51)**
+> "you know, support Turning Point Faith—"
+
+**[00:57:01](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-t-00-56-26)**
+> "...harlie Kirk) after one of the TPUSA shows?""
+
+**[01:01:22](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-t-00-56-26)**
+> "...t the people that are running Turning Point Faith"
 
 </details>
 
@@ -1428,7 +1494,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (16 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (33 mentions)</summary>
 
 **[00:07:07](/episodes/ep-K1tFD7FfoCU.md#ent-org-turning-point-usa-t-00-06-49)**
 > "...of his life. They wanted—again—Tucker Carlson (Tucker Carlson) to be gone, no longer allowed on the Turning Point USA stage because Tucker (Tucker Carlson) is the natural heir to the populist movement. And they want h..."
@@ -1477,6 +1543,57 @@ _Type: Organizations_
 
 **[00:45:45](/episodes/ep-K1tFD7FfoCU.md#ent-org-turning-point-usa-t-00-45-06)**
 > "...gness is like we just constantly texted all the time. And as I said, I have no reason to lie. Is it Turning Point USA has access to all his messages? They can tell you that the messages are real—whether they're true o..."
+
+**[00:07:07](/episodes/ep-K1tFD7FfoCU.md#ent-org-turning-point-usa-t-00-06-49)**
+> "...one, no longer allowed on the Turning Point USA stage because Tucker (Tucker Carlson) is the natu..."
+
+**[00:14:30](/episodes/ep-K1tFD7FfoCU.md#ent-org-turning-point-usa-t-00-14-16)**
+> "...arlie Kirk (Charlie Kirk) and TPUSA from the inside."
+
+**[00:14:56](/episodes/ep-K1tFD7FfoCU.md#ent-org-turning-point-usa-t-00-14-56)**
+> "... sort of hinder the growth of Turning Point USA in our early days—right when things—when we were ..."
+
+**[00:19:01](/episodes/ep-K1tFD7FfoCU.md#ent-org-turning-point-usa-t-00-18-23)**
+> "...(Tucker Carlson) to be on the Turning Point stage until his dying day—literally."
+
+**[00:20:40](/episodes/ep-K1tFD7FfoCU.md#ent-org-turning-point-usa-t-00-20-31)**
+> "... Charlie Kirk (Charlie Kirk), Turning Point cordially accepted those posthumous terms."
+
+**[00:21:15](/episodes/ep-K1tFD7FfoCU.md#ent-org-turning-point-usa-t-00-21-15)**
+> "...Charlie Kirk), the founder of TPUSA, will be posthumously honored at Israel's 2025 Ch..."
+
+**[00:22:13](/episodes/ep-K1tFD7FfoCU.md#ent-org-turning-point-usa-t-00-21-54)**
+> "...Kolvet), the spokesperson for Turning Point USA, instantly came out and slapped down the rumor."
+
+**[00:23:52](/episodes/ep-K1tFD7FfoCU.md#ent-org-turning-point-usa-t-00-23-22)**
+> "...arlson) must never speak on a Turning Point stage.""
+
+**[00:32:13](/episodes/ep-K1tFD7FfoCU.md#ent-org-turning-point-usa-t-00-31-47)**
+> "...sms pertaining to anything at Turning Point USA that are being directed at Erika (Erika Kirk)"
+
+**[00:32:18](/episodes/ep-K1tFD7FfoCU.md#ent-org-turning-point-usa-t-00-31-47)**
+> "...ir if they are directed about Turning Point USA and their actions."
+
+**[00:32:53](/episodes/ep-K1tFD7FfoCU.md#ent-org-turning-point-usa-t-00-32-27)**
+> "...pacity of chairman and CEO of Turning Point USA, they could be more transparent about what happen..."
+
+**[00:33:19](/episodes/ep-K1tFD7FfoCU.md#ent-org-turning-point-usa-t-00-33-12)**
+> "...g that would be beneficial to Turning Point USA because I don't think Turning Point USA is going ..."
+
+**[00:33:19](/episodes/ep-K1tFD7FfoCU.md#ent-org-turning-point-usa-t-00-33-12)**
+> "...int USA because I don't think Turning Point USA is going to survive if they continue down this pa..."
+
+**[00:33:46](/episodes/ep-K1tFD7FfoCU.md#ent-org-turning-point-usa-t-00-33-12)**
+> "...rect messaging to come out of Turning Point USA."
+
+**[00:34:37](/episodes/ep-K1tFD7FfoCU.md#ent-org-turning-point-usa-t-00-33-56)**
+> "...We do not trust the donors at Turning Point USA.""
+
+**[00:34:43](/episodes/ep-K1tFD7FfoCU.md#ent-org-turning-point-usa-t-00-34-40)**
+> ""Um, we want Turning Point to hit hard.""
+
+**[00:45:45](/episodes/ep-K1tFD7FfoCU.md#ent-org-turning-point-usa-t-00-45-06)**
+> "Is it Turning Point USA has access to all his messages?"
 
 </details>
 
@@ -2973,7 +3090,7 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point USA (132)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point USA (129)</strong></summary>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3)</summary>
@@ -3000,7 +3117,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (29)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (28)</summary>
 
 - [00:05:07](/episodes/ep-es7PWdFGoFI.md#t-00-04-52) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk immediately owned the lies, or rather miscommunications, th..."](/statements/statement-412e76ec76af.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
@@ -3010,12 +3127,6 @@ _Type: Organizations_
 - [00:05:30](/episodes/ep-es7PWdFGoFI.md#t-00-04-52) (Claim) **Candace Owens**: ["Turning Point USA is a company with 650 people employed"](/statements/statement-0a5e06fd5b13.md)
 
 - [00:11:37](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) (Claim) **Erika Kirk**: ["Rob McCoy does not work with Turning Point USA in any capacity whatsoe..."](/statements/statement-40b955ef0d7e.md)
-  - Also about: [Rob McCoy](/entities/person-rob-mccoy.md)
-
-- [00:11:37](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) (Claim) **Candace Owens** (via paraphrase): ["Rob McCoy does not work with Turning Point USA in any capacity whatsoe..."](/statements/statement-276b02748885.md)
-  - Also about: [Rob McCoy](/entities/person-rob-mccoy.md)
-
-- [00:11:39](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) (Claim) **Erika Kirk** (via quoted speech): ["Rob McCoy does not work with Turning Point USA in any capacity"](/statements/statement-038c1d1fe7c1.md)
   - Also about: [Rob McCoy](/entities/person-rob-mccoy.md)
 
 - [00:14:24](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) (Claim) **Candace Owens**: ["Andrew Kolvet spoke to the surgeon without TPUSA knowing he would writ..."](/statements/statement-d884b8c97ce6.md)
@@ -3083,6 +3194,9 @@ _Type: Organizations_
 
 - [00:32:36](/episodes/ep-es7PWdFGoFI.md#t-00-32-06) (Claim) **Candace Owens**: ["Bibi Netanyahu called Charlie Kirk and made an offer to fund Turning P..."](/statements/statement-2ccc048a4217.md)
   - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:43:01](/episodes/ep-es7PWdFGoFI.md#t-00-42-21) (Opinion) **Candace Owens**: ["I believe that Charlie Kirk was betrayed by people that are close to h..."](/statements/statement-4776345392e1.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
@@ -3358,7 +3472,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (6)</summary>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (5)</summary>
 
 - [00:06:25](/episodes/ep-ja26iltROkM.md#t-00-06-05) (Accusation) **Candace Owens**: ["I believe that people within Turning Point USA betrayed Charlie Kirk"](/statements/statement-c9f85e39e8b0.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -3371,16 +3485,13 @@ _Type: Organizations_
 
 - [00:11:09](/episodes/ep-ja26iltROkM.md#t-00-10-50) (Accusation) **Candace Owens**: ["The TPUSA statement about the miracle bullet is manipulation of a Chri..."](/statements/statement-7de59b8be098.md)
 
-- [00:59:13](/episodes/ep-ja26iltROkM.md#t-00-58-36) (Claim) **Candace Owens**: ["Bob Schulman withdrew millions of dollars from Turning Point and wante..."](/statements/statement-87fd2dea2d9d.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
 - [00:59:53](/episodes/ep-ja26iltROkM.md#t-00-59-15) (Claim) **Candace Owens**: ["Bob Schulman withdrew millions of dollars from Turning Point USA and w..."](/statements/statement-79ee9e48b4da.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (14)</summary>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (13)</summary>
 
 - [00:08:51](/episodes/ep-aDlhjfW6hz8.md#t-00-08-33) (Claim) **Candace Owens** (via paraphrase): ["The Turning Point insider who took the camera footage was sitting righ..."](/statements/statement-fe9e5c199ffa.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -3398,9 +3509,6 @@ _Type: Organizations_
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
 - [00:29:17](/episodes/ep-aDlhjfW6hz8.md#t-00-29-16) (Claim) **Candace Owens**: ["Charlie got in trouble for the stuff that I said on stage. Then they c..."](/statements/statement-97895d2c5c6d.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:31:55](/episodes/ep-aDlhjfW6hz8.md#t-00-31-27) (Accusation) **Candace Owens**: ["I believe that Charlie Kirk was betrayed by people who are close to hi..."](/statements/statement-b3c6f27878e5.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:31:55](/episodes/ep-aDlhjfW6hz8.md#t-00-31-27) (Accusation) **Candace Owens**: ["Charlie Kirk was betrayed by people who are close to him"](/statements/statement-8ce5194ff7d7.md)

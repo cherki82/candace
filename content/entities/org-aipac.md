@@ -1,6 +1,6 @@
 ---
 title: "AIPAC"
-description: "AIPAC (Organizations) - 20 mentions"
+description: "AIPAC (Organizations) - 24 mentions"
 id: "org-aipac"
 type: "ORG"
 aliases:
@@ -28,18 +28,24 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:56:32](/episodes/ep-7RLtGgkTh9o.md#ent-org-aipac-t-00-55-59)**
 > "...too desperate to be genuine." Yeah, of course it's not genuine. Even yesterday—the Daily Mail—their AIPAC reporter, Victoria Churchill— publishes an article—the most bizarre headline I've—what? All respect..."
 
+**[00:56:32](/episodes/ep-7RLtGgkTh9o.md#ent-org-aipac-t-00-55-59)**
+> "...esterday—the Daily Mail—their AIPAC reporter, Victoria Churchill—"
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
 **[00:57:37](/episodes/ep-yAIb-NuUh_U.md#ent-org-aipac-t-00-57-10)**
 > "...nk you for giving—Bub writes: "No more party loyalists next election." "Vote for the one not taking AIPAC money." "Get the Zionists out of our government." Yeah, I agree because they're evil, and they're i..."
+
+**[00:57:37](/episodes/ep-yAIb-NuUh_U.md#ent-org-aipac-t-00-57-10)**
+> ""Vote for the one not taking AIPAC money.""
 
 </details>
 
@@ -60,13 +66,19 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (4 mentions)</summary>
 
 **[00:02:34](/episodes/ep-K1tFD7FfoCU.md#ent-org-aipac-t-00-02-14)**
 > "... rhetoric towards Palestinians—saying essentially that they're just not even truly humans—that even AIPAC had to drop him. That's saying a lot. If AIPAC was like, "You went a little too far for even us." I..."
 
 **[00:02:47](/episodes/ep-K1tFD7FfoCU.md#ent-org-aipac-t-00-02-14)**
 > "...ly that they're just not even truly humans—that even AIPAC had to drop him. That's saying a lot. If AIPAC was like, "You went a little too far for even us." Irrespective of this, Randy Fine (Randy Fine) de..."
+
+**[00:02:34](/episodes/ep-K1tFD7FfoCU.md#ent-org-aipac-t-00-02-14)**
+> "...t even truly humans—that even AIPAC had to drop him."
+
+**[00:02:47](/episodes/ep-K1tFD7FfoCU.md#ent-org-aipac-t-00-02-14)**
+> "If AIPAC was like, "You went a little too far for even us...."
 
 </details>
 

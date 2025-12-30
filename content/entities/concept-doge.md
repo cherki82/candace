@@ -1,6 +1,6 @@
 ---
 title: "Doge"
-description: "Doge (Concepts) - 23 mentions"
+description: "Doge (Concepts) - 24 mentions"
 id: "concept-doge"
 type: "CONCEPT"
 ---
@@ -63,10 +63,13 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
 **[00:05:29](/episodes/ep-yAIb-NuUh_U.md#ent-concept-doge-t-00-05-06)**
 > "... How is that? If you answered questions about why Charlie (Charlie Kirk) wanted to put together the DOGE Committee, how would that impact the case? We actually... don't really care about the case because ..."
+
+**[00:05:29](/episodes/ep-yAIb-NuUh_U.md#ent-concept-doge-t-00-05-06)**
+> "...k) wanted to put together the DOGE Committee, how would that impact the case?"
 
 </details>
 

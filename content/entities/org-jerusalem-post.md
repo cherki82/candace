@@ -1,6 +1,6 @@
 ---
 title: "Jerusalem Post"
-description: "Jerusalem Post (Organizations) - 3 mentions"
+description: "Jerusalem Post (Organizations) - 6 mentions"
 id: "org-jerusalem-post"
 type: "ORG"
 ---
@@ -13,7 +13,7 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (3 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (6 mentions)</summary>
 
 **[00:20:53](/episodes/ep-K1tFD7FfoCU.md#ent-org-jerusalem-post-t-00-20-31)**
 > "...ation to stage a hostile takeover of the legacy of Charlie Kirk (Charlie Kirk)—so obsessed that the Jerusalem Post completely fictionalized or rather published a completely deranged lie about Erika Kirk (Erika Kirk..."
@@ -23,6 +23,15 @@ _Type: Organizations_
 
 **[00:22:25](/episodes/ep-K1tFD7FfoCU.md#ent-org-jerusalem-post-t-00-21-54)**
 > "...t) wrote this: "This is the first we're hearing of this." "We've reached out to the reporter at the Jerusalem Post for a correction." How do you just say "Erika Kirk (Erika Kirk) is going to accept this award on be..."
+
+**[00:20:53](/episodes/ep-K1tFD7FfoCU.md#ent-org-jerusalem-post-t-00-20-31)**
+> "...ie Kirk)—so obsessed that the Jerusalem Post completely fictionalized or rather published a co..."
+
+**[00:20:55](/episodes/ep-K1tFD7FfoCU.md#ent-org-jerusalem-post-t-00-20-31)**
+> "...the actual reporting from the Jerusalem Post, which was written by journalist Michael Starr (M..."
+
+**[00:22:25](/episodes/ep-K1tFD7FfoCU.md#ent-org-jerusalem-post-t-00-21-54)**
+> "...ed out to the reporter at the Jerusalem Post for a correction.""
 
 </details>
 

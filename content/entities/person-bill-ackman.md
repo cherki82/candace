@@ -1,6 +1,6 @@
 ---
 title: "Bill Ackman"
-description: "Bill Ackman (People) - 60 mentions"
+description: "Bill Ackman (People) - 61 mentions"
 id: "person-bill-ackman"
 type: "PERSON"
 aliases:
@@ -48,10 +48,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:35:43](/episodes/ep-7RLtGgkTh9o.md#ent-person-bill-ackman-t-00-35-35)**
 > "...e when people were telling me what happened in the Hamptons before Charlie (Charlie Kirk) died. But Bill Ackman gave a presentation—don't forget—and told these younger people that they shouldn't aspire to own ho..."
+
+**[00:35:43](/episodes/ep-7RLtGgkTh9o.md#ent-person-bill-ackman-t-00-35-35)**
+> "But Bill Ackman gave a presentation—don't forget—and told these y..."
 
 </details>
 

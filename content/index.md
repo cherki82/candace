@@ -13,9 +13,9 @@ This project uses AI to automatically transcribe episodes, extract entities (peo
 ## Browse
 
 - **[Episodes](/index/episodes)** - 50 indexed episodes
-- **[Entities](/index/entities)** - 1060 people, organizations, and concepts
+- **[Entities](/index/entities)** - 1058 people, organizations, and concepts
 - **[Timeline](/index/timeline)** - 548 events in chronological order
-- **[Statements](/index/statements)** - 1434 attributed statements
+- **[Statements](/index/statements)** - 1416 attributed statements
 - **[Relationships](/index/relationships)** - 953 entity relationships
 
 ---
@@ -24,4 +24,4 @@ This project uses AI to automatically transcribe episodes, extract entities (peo
 > Information should be independently verified. Entity identifications and statement
 > extractions may contain errors.
 
-*Last regenerated: 2025-12-30 11:13:52*
+*Last regenerated: 2025-12-30 11:33:19*

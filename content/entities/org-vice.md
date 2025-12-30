@@ -1,6 +1,6 @@
 ---
 title: "Vice"
-description: "Vice (Organizations) - 14 mentions"
+description: "Vice (Organizations) - 16 mentions"
 id: "org-vice"
 type: "ORG"
 ---
@@ -11,6 +11,17 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
+
+**[00:43:07](/episodes/ep-6DhWawD4ZiM.md#ent-org-vice-t-00-43-00)**
+> "... like the president, like the vice president."
+
+**[00:48:41](/episodes/ep-6DhWawD4ZiM.md#ent-org-vice-t-00-48-17)**
+> "... reserved for people like the vice president, cabinet secretaries, senior officials ..."
+
+</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>

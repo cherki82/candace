@@ -1,6 +1,6 @@
 ---
 title: "Kash Patel"
-description: "Kash Patel (People) - 118 mentions"
+description: "Kash Patel (People) - 147 mentions"
 id: "person-kash-patel"
 type: "PERSON"
 aliases:
@@ -93,7 +93,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (6 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (10 mentions)</summary>
 
 **[00:07:04](/episodes/ep-mKXdKV-OBog.md#ent-person-kash-patel-t-00-06-30)**
 > "...y forces practice long-range shooting practice, among other things. Remember on September 12th when Kash Patel ended his press conference with quote, "Lastly, to my friend Charlie (Charlie Kirk), rest now, my b..."
@@ -112,6 +112,18 @@ _Type: People_
 
 **[00:42:25](/episodes/ep-mKXdKV-OBog.md#ent-person-kash-patel-t-00-10-32)**
 > "like Kash would tell: the leaders of our government are lyi..."
+
+**[00:07:04](/episodes/ep-mKXdKV-OBog.md#ent-person-kash-patel-t-00-06-30)**
+> "...member on September 12th when Kash Patel ended his press conference with quote, "Lastly, t..."
+
+**[00:10:17](/episodes/ep-mKXdKV-OBog.md#ent-person-kash-patel-t-00-09-55)**
+> "That's how I felt about Kash Patel's press conference and the things that he was sayin..."
+
+**[00:10:29](/episodes/ep-mKXdKV-OBog.md#ent-person-kash-patel-t-00-09-55)**
+> "Let's take a listen to what Kash Patel said."
+
+**[00:10:32](/episodes/ep-mKXdKV-OBog.md#ent-person-kash-patel-t-00-10-32)**
+> "(Kash Patel clip) Lastly, to my friend Charlie (Charlie Kirk)..."
 
 </details>
 
@@ -167,7 +179,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (7 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (11 mentions)</summary>
 
 **[00:45:11](/episodes/ep-yAIb-NuUh_U.md#ent-person-kash-patel-t-00-44-34)**
 > "...used on solving what happened to Charlie (Charlie Kirk). And the feds are not helping—maybe because Kash Patel is busy crying over his girlfriend. He really needs to believe that she likes him for him. I don't ..."
@@ -189,6 +201,18 @@ _Type: People_
 
 **[00:49:51](/episodes/ep-yAIb-NuUh_U.md#ent-person-kash-patel-t-00-49-18)**
 > "If you'd like me to testify, Kash, give me..."
+
+**[00:45:11](/episodes/ep-yAIb-NuUh_U.md#ent-person-kash-patel-t-00-44-34)**
+> "...are not helping—maybe because Kash Patel is busy crying over his girlfriend."
+
+**[00:46:46](/episodes/ep-yAIb-NuUh_U.md#ent-person-kash-patel-t-00-46-40)**
+> "If we play Kash Patel's girlfriend's country music, will we get a copyrig..."
+
+**[00:48:01](/episodes/ep-yAIb-NuUh_U.md#ent-person-kash-patel-t-00-47-53)**
+> "I love Kash Patel. Indians don't smell—that stereotype."
+
+**[00:49:47](/episodes/ep-yAIb-NuUh_U.md#ent-person-kash-patel-t-00-49-18)**
+> "I mean, Kash Patel should sue—obviously sue Tim Dillon."
 
 </details>
 
@@ -266,7 +290,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (13 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (34 mentions)</summary>
 
 **[00:00:46](/episodes/ep-K1tFD7FfoCU.md#ent-person-kash-patel-t-00-00-46)**
 > "...but it's already going viral. Just a preview clip of it, and we're going to discuss it. And lastly, Kash Patel (Kash Patel) is now officially the most embarrassing human being in the United States. Welcome back..."
@@ -306,6 +330,69 @@ _Type: People_
 
 **[00:41:50](/episodes/ep-K1tFD7FfoCU.md#ent-person-kash-patel-t-00-41-29)**
 > "...ately. I will sentence him to a month of hard labor. Obviously, that's the only correct response to Kash Patel (Kash Patel) writing this like "I don't like these mean girls" tweet. It's ridiculous. We are not s..."
+
+**[00:00:46](/episodes/ep-K1tFD7FfoCU.md#ent-person-kash-patel-t-00-00-46)**
+> "And lastly, Kash Patel (Kash Patel) is now officially the most embarrass..."
+
+**[00:35:32](/episodes/ep-K1tFD7FfoCU.md#ent-person-kash-patel-t-00-35-20)**
+> "...one right now when I say that Kash Patel (Kash Patel) is the most embarrassing human in th..."
+
+**[00:35:32](/episodes/ep-K1tFD7FfoCU.md#ent-person-kash-patel-t-00-35-20)**
+> "...w when I say that Kash Patel (Kash Patel) is the most embarrassing human in the United Sta..."
+
+**[00:35:37](/episodes/ep-K1tFD7FfoCU.md#ent-person-kash-patel-t-00-35-20)**
+> "... Kirk) was a big supporter of Kash Patel (Kash Patel), had him on his show, really pushed ..."
+
+**[00:35:37](/episodes/ep-K1tFD7FfoCU.md#ent-person-kash-patel-t-00-35-20)**
+> "... big supporter of Kash Patel (Kash Patel), had him on his show, really pushed for him to g..."
+
+**[00:36:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-kash-patel-t-00-35-50)**
+> "... Russian right now after what Kash Patel (Kash Patel) tweeted."
+
+**[00:36:27](/episodes/ep-K1tFD7FfoCU.md#ent-person-kash-patel-t-00-35-50)**
+> "...ht now after what Kash Patel (Kash Patel) tweeted."
+
+**[00:36:31](/episodes/ep-K1tFD7FfoCU.md#ent-person-kash-patel-t-00-35-50)**
+> "Kash Patel (Kash Patel) made me wanna be Russian like tomorr..."
+
+**[00:36:38](/episodes/ep-K1tFD7FfoCU.md#ent-person-kash-patel-t-00-36-34)**
+> "And Kash Patel (Kash Patel) is no longer serious."
+
+**[00:36:40](/episodes/ep-K1tFD7FfoCU.md#ent-person-kash-patel-t-00-36-34)**
+> "So the backstory is Kash Patel (Kash Patel)—"
+
+**[00:36:40](/episodes/ep-K1tFD7FfoCU.md#ent-person-kash-patel-t-00-36-34)**
+> "... the backstory is Kash Patel (Kash Patel)—"
+
+**[00:37:08](/episodes/ep-K1tFD7FfoCU.md#ent-person-kash-patel-t-00-37-08)**
+> "...te because there are clips of Kash Patel (Kash Patel) calling the FBI corrupt before he wa..."
+
+**[00:37:08](/episodes/ep-K1tFD7FfoCU.md#ent-person-kash-patel-t-00-37-08)**
+> "...here are clips of Kash Patel (Kash Patel) calling the FBI corrupt before he was in the FBI..."
+
+**[00:37:40](/episodes/ep-K1tFD7FfoCU.md#ent-person-kash-patel-t-00-37-08)**
+> "And what Kash Patel (Kash Patel) did was he wrote this like Andy Cohe..."
+
+**[00:38:13](/episodes/ep-K1tFD7FfoCU.md#ent-person-kash-patel-t-00-37-52)**
+> "(Kash Patel (Kash Patel) tweet): I am proud of the work of th..."
+
+**[00:39:32](/episodes/ep-K1tFD7FfoCU.md#ent-person-kash-patel-t-00-39-19)**
+> "People are not attacking Kash Patel's (Kash Patel) significant other but rather reactin..."
+
+**[00:39:32](/episodes/ep-K1tFD7FfoCU.md#ent-person-kash-patel-t-00-39-19)**
+> "...e not attacking Kash Patel's (Kash Patel) significant other but rather reacting to his fir..."
+
+**[00:40:40](/episodes/ep-K1tFD7FfoCU.md#ent-person-kash-patel-t-00-40-01)**
+> "... were saying about her, Kash (Kash Patel), okay?"
+
+**[00:40:40](/episodes/ep-K1tFD7FfoCU.md#ent-person-kash-patel-t-00-40-01)**
+> "...r they were saying about her, Kash (Kash Patel), okay?"
+
+**[00:41:50](/episodes/ep-K1tFD7FfoCU.md#ent-person-kash-patel-t-00-41-29)**
+> "... the only correct response to Kash Patel (Kash Patel) writing this like "I don't like thes..."
+
+**[00:41:50](/episodes/ep-K1tFD7FfoCU.md#ent-person-kash-patel-t-00-41-29)**
+> "...rrect response to Kash Patel (Kash Patel) writing this like "I don't like these mean girls..."
 
 </details>
 

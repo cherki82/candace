@@ -1,6 +1,6 @@
 ---
 title: "Victoria Churchill"
-description: "Victoria Churchill (People) - 3 mentions"
+description: "Victoria Churchill (People) - 4 mentions"
 id: "person-victoria-churchill"
 type: "PERSON"
 ---
@@ -13,10 +13,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:56:32](/episodes/ep-7RLtGgkTh9o.md#ent-person-victoria-churchill-t-00-55-59)**
 > "... be genuine." Yeah, of course it's not genuine. Even yesterday—the Daily Mail—their AIPAC reporter, Victoria Churchill— publishes an article—the most bizarre headline I've—what? All respect to Allie and the work she's ..."
+
+**[00:56:32](/episodes/ep-7RLtGgkTh9o.md#ent-person-victoria-churchill-t-00-55-59)**
+> "...ly Mail—their AIPAC reporter, Victoria Churchill—"
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "MKUltra"
-description: "MKUltra (Concepts) - 20 mentions"
+description: "MKUltra (Concepts) - 27 mentions"
 id: "concept-mkultra"
 type: "CONCEPT"
 aliases:
@@ -43,6 +43,14 @@ _Type: Concepts_
 </details>
 
 <details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+
+**[00:32:34](/episodes/ep-mKXdKV-OBog.md#ent-concept-mkultra-t-00-32-20)**
+> "...m speaking about Brigitte and MK Ultra."
+
+</details>
+
+<details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
 
 **[00:22:49](/episodes/ep-sImMM04XdWY.md#ent-concept-mkultra-t-00-22-25)**
@@ -71,7 +79,7 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (6 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (12 mentions)</summary>
 
 **[00:02:01](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mkultra-t-00-01-21)**
 > "... we end up, by the way? Where did we leave off on Brigitte Macron? I was speaking to you guys about MKUltra. How odd it was that of everything I said in my series, Brigitte Macron and Emmanuel had a heart at..."
@@ -90,6 +98,24 @@ _Type: Concepts_
 
 **[00:30:07](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mkultra-t-00-30-07)**
 > "...ch investigating the Brigitte Macron thing and was arriving very quickly at this weird backstory of MKUltra and the Haight-Ashbury Clinic when it seems like a button was pressed in America— and big psycholog..."
+
+**[00:02:01](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mkultra-t-00-01-21)**
+> "...as speaking to you guys about MKUltra."
+
+**[00:02:03](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mkultra-t-00-02-03)**
+> "...ack when I started discussing MKUltra."
+
+**[00:02:48](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mkultra-t-00-02-48)**
+> "And effectively, he had been MKUltra'd, right? By putting on that psych 5150 hold."
+
+**[00:18:14](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mkultra-t-00-18-12)**
+> "...e '60s and the military-grade MKUltra program that our government employed in place aft..."
+
+**[00:23:05](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mkultra-t-00-22-30)**
+> "...we got into his backstory and MKUltra—suddenly puts him in a hospital on a psych 5150 h..."
+
+**[00:30:07](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mkultra-t-00-30-07)**
+> "...ly at this weird backstory of MKUltra and the Haight-Ashbury Clinic when it seems like ..."
 
 </details>
 

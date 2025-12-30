@@ -1,6 +1,6 @@
 ---
 title: "Jay-Z"
-description: "Jay-Z (People) - 7 mentions"
+description: "Jay-Z (People) - 8 mentions"
 id: "person-jay-z"
 type: "PERSON"
 aliases:
@@ -36,10 +36,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:28:52](/episodes/ep-7RLtGgkTh9o.md#ent-person-jay-z-t-00-28-42)**
 > "...y run Vegas? And a lot of the Jews that are in Hollywood—Lou Taylor for Kim Kardashian and Diddy." "Jay-Z, Beyoncé—and she also owns the home church, Churchome, to get Bieber from Hillsong." I looked that ..."
+
+**[00:28:52](/episodes/ep-7RLtGgkTh9o.md#ent-person-jay-z-t-00-28-42)**
+> ""Jay-Z, Beyoncé—and she also owns the home church, Churc..."
 
 </details>
 

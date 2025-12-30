@@ -1,6 +1,6 @@
 ---
 title: "Thomas Matthew Crooks"
-description: "Thomas Matthew Crooks (People) - 13 mentions"
+description: "Thomas Matthew Crooks (People) - 14 mentions"
 id: "person-thomas-matthew-crooks"
 type: "PERSON"
 aliases:
@@ -36,10 +36,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
 
 **[00:46:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-thomas-matthew-crooks-t-00-45-48)**
 > "...aul) writes: "Tyler Robinson's (Tyler Robinson) ACT score was 34, so he was in the 99 percentile." "Thomas Matthew Crooks' (Thomas Matthew Crooks) SAT score was in the 99 percentile." "Both recent lone shooters scored in ..."
+
+**[00:46:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-thomas-matthew-crooks-t-00-45-48)**
+> ""Thomas Matthew Crooks' (Thomas Matthew Crooks) SAT score was in the 99 ..."
 
 </details>
 

@@ -360,7 +360,7 @@ youtube_url: "https://www.youtube.com/watch?v=2Riv3I7D0Yk"
 </details>
 
 <details>
-<summary><strong>Statements (45)</strong></summary>
+<summary><strong>Statements (43)</strong></summary>
 
 - [00:00:18](#t-00-00-00) [○] (Claim) **Candace Owens**: ["16 hours before Charlie Kirk was assassinated, Josh Hammer retweeted a 2013 twee..."](/statements/statement-bcc6e400e34d.md)
   - About: [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md)
@@ -414,10 +414,8 @@ youtube_url: "https://www.youtube.com/watch?v=2Riv3I7D0Yk"
   - About: [Matt Gaetz](/entities/person-matt-gaetz.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Michael Knowles](/entities/person-michael-knowles.md)
 - [00:27:33](#t-00-27-00) [○] (Claim) **Candace Owens**: ["Rabbi Pesach Wolicki was on the infamous text chain, meaning both he and Josh Ha..."](/statements/statement-4e4a9dc2a3f5.md)
   - About: [Rabbi Pesach Wolicki](/entities/person-rabbi-pesach-wolicki.md), [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [00:28:22](#t-00-27-45) [○] (Claim) **Candace Owens**: ["Benjamin Netanyahu invited Charlie Kirk to Israel two weeks before he died, and ..."](/statements/statement-c2ca8bc92442.md)
-  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 - [00:28:27](#t-00-27-45) [○] (Claim) **Candace Owens**: ["Benjamin Netanyahu invited Charlie Kirk to Israel two weeks before Charlie died,..."](/statements/statement-61e06a4a6d55.md)
-  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 - [00:29:05](#t-00-28-30) [○] (Claim) **Rabbi Pesach Wolicki**: ["Charlie Kirk was in touch with Rabbi Wolicki on an almost daily basis for months..."](/statements/statement-1f32478dd69e.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Rabbi Pesach Wolicki](/entities/person-rabbi-pesach-wolicki.md), [Israel](/entities/gpe-israel.md)
 - [00:33:43](#t-00-33-35) [○] (Opinion) **Candace Owens**: ["Charlie Kirk was genuinely over supporting Israel towards the end because of Jew..."](/statements/statement-c8ca27a62ead.md)
@@ -444,8 +442,6 @@ youtube_url: "https://www.youtube.com/watch?v=2Riv3I7D0Yk"
   - About: [Kanye West](/entities/person-kanye-west.md)
 - [00:55:20](#t-00-55-04) [○] (Claim) **Alex Jones**: ["Candace Owens sent out a dead man's switch to the Tate brothers, Dave Smith, Max..."](/statements/statement-e74fc96d3122.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Andrew Tate](/entities/person-andrew-tate.md), [Dave Smith](/entities/person-dave-smith.md)
-- [00:55:20](#t-00-55-04) [○] (Claim) **Alex Jones**: ["Candace Owens has sent out a dead man's switch to the Tate brothers, Dave Smith,..."](/statements/statement-4bae8e27fedb.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md), [Dave Smith](/entities/person-dave-smith.md), [Max Blumenthal](/entities/person-max-blumenthal.md)
 - [00:56:50](#t-00-56-35) [○] (Claim) **Alex Jones**: ["Charlie Kirk specifically thought Israel was going to kill him"](/statements/statement-2a174a3c9f01.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 - [01:07:54](#t-01-07-18) [○] (Accusation) **Candace Owens**: ["Tyler Bowyer was sloppy on X, he was accusatory and called people names"](/statements/statement-61b7ba6f1f3c.md)

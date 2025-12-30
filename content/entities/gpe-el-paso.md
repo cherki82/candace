@@ -1,6 +1,6 @@
 ---
 title: "El Paso"
-description: "El Paso (Places) - 6 mentions"
+description: "El Paso (Places) - 7 mentions"
 id: "gpe-el-paso"
 type: "GPE"
 ---
@@ -13,7 +13,7 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (5 mentions)</summary>
 
 **[00:44:34](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-el-paso-t-00-44-27)**
 > "...t flies from Fort Huachuca to El Paso and then El Paso back to St. Andrews."
@@ -26,6 +26,9 @@ _Type: Places_
 
 **[00:45:10](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-el-paso-t-00-45-10)**
 > "Remember El Paso, Texas is where all those weird flights were comi..."
+
+**[00:44:34](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-el-paso-t-00-44-27)**
+> "... Huachuca to El Paso and then El Paso back to St. Andrews."
 
 </details>
 

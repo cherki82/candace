@@ -304,7 +304,7 @@ youtube_url: "https://www.youtube.com/watch?v=aDlhjfW6hz8"
 </details>
 
 <details>
-<summary><strong>Statements (74)</strong></summary>
+<summary><strong>Statements (73)</strong></summary>
 
 - [00:00:07](#t-00-00-00) [○] (Claim) **Candace Owens**: ["Two men appeared mere minutes after Charlie Kirk was shot, moved his chair, and ..."](/statements/statement-35b5db0a6a50.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
@@ -315,7 +315,6 @@ youtube_url: "https://www.youtube.com/watch?v=aDlhjfW6hz8"
 - [00:01:04](#t-00-00-55) [○] (Accusation) **Candace Owens**: ["They are definitely insisting that we stop investigating this"](/statements/statement-623f5c40b6fe.md)
 - [00:01:09](#t-00-00-55) [○] (Claim) **Candace Owens**: ["The Senate has voted to pass a bipartisan resolution to designate October 14th a..."](/statements/statement-4fb121a16230.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [00:01:09](#t-00-00-55) [○] (Claim) **Candace Owens**: ["The Senate has voted and passed a bipartisan resolution to designate October 14t..."](/statements/statement-f4408ed20abf.md)
 - [00:01:09](#t-00-00-55) [○] (Claim) **Candace Owens**: ["The Senate has voted and passed a bipartisan resolution to designate October 14t..."](/statements/statement-b7af7171a6de.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:07:19](#t-00-07-14) [○] (Claim) **Anonymous Source #1 (Ep aDlhjfW6hz8)**: ["I was sitting right to the left of Charlie when Charlie got shot and I instantly..."](/statements/statement-8235c7f3befe.md)
@@ -392,12 +391,12 @@ youtube_url: "https://www.youtube.com/watch?v=aDlhjfW6hz8"
   - About: [AIPAC](/entities/org-aipac.md)
 - [00:30:03](#t-00-30-01) [○] (Claim) **Candace Owens**: ["Victoria Churchill, the Daily Mail journalist who wrote the hit piece, has a con..."](/statements/statement-357b4428dc9b.md)
   - About: [AIPAC](/entities/org-aipac.md)
-- [00:31:55](#t-00-31-27) [○] (Accusation) **Candace Owens**: ["I believe that Charlie Kirk was betrayed by people who are close to him"](/statements/statement-b3c6f27878e5.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:31:55](#t-00-31-27) [○] (Accusation) **Candace Owens**: ["Charlie Kirk was betrayed by people who are close to him"](/statements/statement-8ce5194ff7d7.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:31:55](#t-00-31-27) [○] (Accusation) **Candace Owens**: ["I believe that Charlie Kirk was betrayed by people who are close to him, and the..."](/statements/statement-fb3c99d5c16d.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:31:55](#t-00-31-27) [○] (Opinion) **Candace Owens**: ["I believe that Charlie Kirk was betrayed by people that are close to him"](/statements/statement-4776345392e1.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:31:57](#t-00-31-27) [○] (Claim) **Candace Owens**: ["There was definitely some weird activity leading up to this moment happening at ..."](/statements/statement-7d145dac302b.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:32:05](#t-00-31-27) [○] (Claim) **Candace Owens**: ["There was weird activity at Turning Point USA leading up to Charlie Kirk's assas..."](/statements/statement-ab173afa64c9.md)

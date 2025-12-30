@@ -1,6 +1,6 @@
 ---
 title: "Canada"
-description: "Canada (Places) - 11 mentions"
+description: "Canada (Places) - 12 mentions"
 id: "gpe-canada"
 type: "GPE"
 ---
@@ -11,6 +11,14 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1 mentions)</summary>
+
+**[00:55:05](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-canada-t-00-54-39)**
+> "...d we are now also shipping to Canada."
+
+</details>
 
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1 mentions)</summary>

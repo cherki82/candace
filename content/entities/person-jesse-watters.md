@@ -1,6 +1,6 @@
 ---
 title: "Jesse Watters"
-description: "Jesse Watters (People) - 16 mentions"
+description: "Jesse Watters (People) - 31 mentions"
 id: "person-jesse-watters"
 type: "PERSON"
 aliases:
@@ -45,7 +45,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (9 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (24 mentions)</summary>
 
 **[00:00:36](/episodes/ep-K1tFD7FfoCU.md#ent-person-jesse-watters-t-00-00-00)**
 > "... in the last 24 to 48 hours—almost as though it's scripted. In other news, Erika Kirk sat down with Jesse Watters (Jesse Watters). Now the full interview has not yet aired, but it's already going viral. Just a pre..."
@@ -73,6 +73,51 @@ _Type: People_
 
 **[00:35:20](/episodes/ep-K1tFD7FfoCU.md#ent-person-jesse-watters-t-00-35-20)**
 > "... forward to obviously watching the interview that is going to premiere in two days on Fox News with Jesse Watters (Jesse Watters). I will certainly be watching now. Speaking of a lack of transparency, I am everyon..."
+
+**[00:00:36](/episodes/ep-K1tFD7FfoCU.md#ent-person-jesse-watters-t-00-00-00)**
+> "...ews, Erika Kirk sat down with Jesse Watters (Jesse Watters)."
+
+**[00:00:36](/episodes/ep-K1tFD7FfoCU.md#ent-person-jesse-watters-t-00-00-00)**
+> "... sat down with Jesse Watters (Jesse Watters)."
+
+**[00:28:17](/episodes/ep-K1tFD7FfoCU.md#ent-person-jesse-watters-t-00-27-53)**
+> "...rk (Erika Kirk) sat down with Jesse Watters (Jesse Watters)."
+
+**[00:28:17](/episodes/ep-K1tFD7FfoCU.md#ent-person-jesse-watters-t-00-27-53)**
+> "... sat down with Jesse Watters (Jesse Watters)."
+
+**[00:28:21](/episodes/ep-K1tFD7FfoCU.md#ent-person-jesse-watters-t-00-27-53)**
+> "... Charlie (Charlie Kirk) loved Jesse Watters (Jesse Watters)."
+
+**[00:28:21](/episodes/ep-K1tFD7FfoCU.md#ent-person-jesse-watters-t-00-27-53)**
+> "...ie Kirk) loved Jesse Watters (Jesse Watters)."
+
+**[00:28:23](/episodes/ep-K1tFD7FfoCU.md#ent-person-jesse-watters-t-00-27-53)**
+> "Jesse Watters (Jesse Watters) gave us the most play time on Fox..."
+
+**[00:29:54](/episodes/ep-K1tFD7FfoCU.md#ent-person-jesse-watters-t-00-29-20)**
+> "... forward to the sit-down with Jesse Watters (Jesse Watters)."
+
+**[00:29:54](/episodes/ep-K1tFD7FfoCU.md#ent-person-jesse-watters-t-00-29-20)**
+> "... sit-down with Jesse Watters (Jesse Watters)."
+
+**[00:30:14](/episodes/ep-K1tFD7FfoCU.md#ent-person-jesse-watters-t-00-30-14)**
+> "...a Kirk (Erika Kirk) clip with Jesse Watters (Jesse Watters)):"
+
+**[00:30:14](/episodes/ep-K1tFD7FfoCU.md#ent-person-jesse-watters-t-00-30-14)**
+> "...irk) clip with Jesse Watters (Jesse Watters)):"
+
+**[00:30:16](/episodes/ep-K1tFD7FfoCU.md#ent-person-jesse-watters-t-00-30-14)**
+> "Jesse Watters (clip): The defense wants to ban cameras in the c..."
+
+**[00:30:20](/episodes/ep-K1tFD7FfoCU.md#ent-person-jesse-watters-t-00-30-14)**
+> "Jesse Watters (clip): How do you feel about that?"
+
+**[00:35:20](/episodes/ep-K1tFD7FfoCU.md#ent-person-jesse-watters-t-00-35-20)**
+> "... in two days on Fox News with Jesse Watters (Jesse Watters)."
+
+**[00:35:20](/episodes/ep-K1tFD7FfoCU.md#ent-person-jesse-watters-t-00-35-20)**
+> "... Fox News with Jesse Watters (Jesse Watters)."
 
 </details>
 

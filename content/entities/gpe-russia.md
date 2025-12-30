@@ -1,6 +1,6 @@
 ---
 title: "Russia"
-description: "Russia (Places) - 30 mentions"
+description: "Russia (Places) - 34 mentions"
 id: "gpe-russia"
 type: "GPE"
 aliases:
@@ -72,7 +72,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (4 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (8 mentions)</summary>
 
 **[00:36:27](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-russia-t-00-35-50)**
 > "...realized we are not a serious nation, and the empire is in its decline. I actually think I wanna be Russian right now after what Kash Patel (Kash Patel) tweeted. Kash Patel (Kash Patel) made me wanna be Russ..."
@@ -85,6 +85,18 @@ _Type: Places_
 
 **[00:42:02](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-russia-t-00-41-29)**
 > "... The empire is in decline. So figure out where you're going to live because I'm between Namibia and Russia. That's it. We'll be right back and answer some of your questions. All right, you guys—want to remi..."
+
+**[00:36:27](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-russia-t-00-35-50)**
+> "I actually think I wanna be Russian right now after what Kash Patel (Kash Patel) twee..."
+
+**[00:36:31](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-russia-t-00-35-50)**
+> "...(Kash Patel) made me wanna be Russian like tomorrow."
+
+**[00:38:02](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-russia-t-00-37-52)**
+> "...n I'm gonna get a passport to Russia."
+
+**[00:42:02](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-russia-t-00-41-29)**
+> "...cause I'm between Namibia and Russia."
 
 </details>
 

@@ -162,18 +162,16 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Eric Bolling (4)</strong></summary>
+<summary><strong class="section-title">Statements about Eric Bolling (3)</strong></summary>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (4)</summary>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (3)</summary>
 
 - [00:00:33](/episodes/ep-sreYYcID-QY.md#t-00-00-00) (Accusation) **Candace Owens**: ["Eric Bolling is lying on the PBD podcast to establish the narrative th..."](/statements/statement-7201d968497e.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:00:33](/episodes/ep-sreYYcID-QY.md#t-00-00-00) (Accusation) **Candace Owens**: ["Eric Bolling is lying on the PBD podcast to establish the narrative th..."](/statements/statement-06bd3137a057.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:00:33](/episodes/ep-sreYYcID-QY.md#t-00-00-00) (Accusation) **Candace Owens**: ["Eric Bolling is lying through his teeth on PBD podcast to establish th..."](/statements/statement-bfd729f1d514.md)
 
 - [00:40:50](/episodes/ep-sreYYcID-QY.md#t-00-40-44) (Claim) **Candace Owens**: ["Candace Owens went on tour with Turning Point USA on college campuses ..."](/statements/statement-bd87e1eac306.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)

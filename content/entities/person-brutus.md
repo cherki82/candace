@@ -1,6 +1,6 @@
 ---
 title: "Brutus"
-description: "Brutus (People) - 6 mentions"
+description: "Brutus (People) - 11 mentions"
 id: "person-brutus"
 type: "PERSON"
 ---
@@ -13,7 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (6 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (11 mentions)</summary>
 
 **[00:03:19](/episodes/ep-mKXdKV-OBog.md#ent-person-brutus-t-00-02-52)**
 > "...ourse, the senators, military men, close friends and confidants—the most infamous, of course, being Brutus. Now, some reports say that he viewed Brutus as a son. That's how close they were. Of course, that ..."
@@ -32,6 +32,21 @@ _Type: People_
 
 **[00:04:27](/episodes/ep-mKXdKV-OBog.md#ent-person-brutus-t-00-04-21)**
 > "...clear that there is nothing new under the sun, and it appears that history is present again. Judas, Brutus—in the future, when we are long gone from this world, who do you guys think is going to be the pers..."
+
+**[00:03:19](/episodes/ep-mKXdKV-OBog.md#ent-person-brutus-t-00-02-52)**
+> "...st infamous, of course, being Brutus."
+
+**[00:03:33](/episodes/ep-mKXdKV-OBog.md#ent-person-brutus-t-00-02-52)**
+> "...me reports say that he viewed Brutus as a son."
+
+**[00:03:38](/episodes/ep-mKXdKV-OBog.md#ent-person-brutus-t-00-03-38)**
+> "Of course, that didn't stop Brutus from plunging the knife into him."
+
+**[00:03:41](/episodes/ep-mKXdKV-OBog.md#ent-person-brutus-t-00-03-38)**
+> "...ed by senators, and of course Brutus, leading to the famed Shakespearean expression:"
+
+**[00:04:27](/episodes/ep-mKXdKV-OBog.md#ent-person-brutus-t-00-04-21)**
+> "Judas, Brutus—in the future,"
 
 </details>
 

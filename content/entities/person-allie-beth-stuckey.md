@@ -1,6 +1,6 @@
 ---
 title: "Allie Beth Stuckey"
-description: "Allie Beth Stuckey (People) - 42 mentions"
+description: "Allie Beth Stuckey (People) - 48 mentions"
 id: "person-allie-beth-stuckey"
 type: "PERSON"
 aliases:
@@ -45,7 +45,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (6 mentions)</summary>
 
 **[00:37:21](/episodes/ep-7RLtGgkTh9o.md#ent-person-allie-beth-stuckey-t-00-56-36)**
 > "...you would want to do and what allies you want to have when bullets are flying."
@@ -59,10 +59,16 @@ _Type: People_
 **[00:56:59](/episodes/ep-7RLtGgkTh9o.md#ent-person-allie-beth-stuckey-t-00-56-36)**
 > "...rry. What is that? Actually, what op are we in right now? Where the heiress to Turning Point USA is Allie Stuckey. That is a wild headline. And they repeated that—the heir apparent—in the Wall Street Journal. That..."
 
+**[00:56:36](/episodes/ep-7RLtGgkTh9o.md#ent-person-allie-beth-stuckey-t-00-56-36)**
+> "...ine I've—what? All respect to Allie and the work she's done. "Charlie (Charlie Kirk) ..."
+
+**[00:56:59](/episodes/ep-7RLtGgkTh9o.md#ent-person-allie-beth-stuckey-t-00-56-36)**
+> "...iress to Turning Point USA is Allie Stuckey."
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (8 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (12 mentions)</summary>
 
 **[00:00:09](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24)**
 > "...e were discussing the kind of allies that you need when bullets are flying at you."
@@ -87,6 +93,18 @@ _Type: People_
 
 **[00:44:25](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-43-52)**
 > "...dreams like Candace (Candace Owens)." We see what you're doing. It's petty. Now you're being petty, Allie. If you want to get involved in this case, do it. If you don't, step aside. You are not required to..."
+
+**[00:00:57](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24)**
+> "...l allies are and who his real allies were."
+
+**[00:04:24](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24)**
+> "Allie Stuckey just did this—shot a video and was like, ..."
+
+**[00:43:52](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-43-52)**
+> "...e you using Bible verses like Allie did after she just seated so much—essentially fun..."
+
+**[00:44:25](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-43-52)**
+> "Now you're being petty, Allie."
 
 </details>
 

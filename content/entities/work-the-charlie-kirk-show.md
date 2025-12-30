@@ -1,6 +1,6 @@
 ---
 title: "The Charlie Kirk Show"
-description: "The Charlie Kirk Show (Works & Media) - 8 mentions"
+description: "The Charlie Kirk Show (Works & Media) - 12 mentions"
 id: "work-the-charlie-kirk-show"
 type: "WORK"
 aliases:
@@ -15,6 +15,23 @@ _Type: Works & Media_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4 mentions)</summary>
+
+**[00:09:23](/episodes/ep-6DhWawD4ZiM.md#ent-work-the-charlie-kirk-show-t-00-13-48)**
+> "... Turning Point USA family, my Charlie Kirk Show family, when you go after the people that I love,..."
+
+**[00:14:17](/episodes/ep-6DhWawD4ZiM.md#ent-work-the-charlie-kirk-show-t-00-13-48)**
+> "The Charlie Kirk show is my family."
+
+**[00:19:01](/episodes/ep-6DhWawD4ZiM.md#ent-work-the-charlie-kirk-show-t-00-18-38)**
+> "...es right now, because this is the Charlie Kirk Show fam."
+
+**[00:19:01](/episodes/ep-6DhWawD4ZiM.md#ent-work-the-charlie-kirk-show-t-00-18-38)**
+> "...ight now, because this is the Charlie Kirk Show fam."
+
+</details>
 
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (3 mentions)</summary>

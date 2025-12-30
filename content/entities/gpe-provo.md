@@ -1,6 +1,6 @@
 ---
 title: "Provo"
-description: "Provo (Places) - 65 mentions"
+description: "Provo (Places) - 69 mentions"
 id: "gpe-provo"
 type: "GPE"
 aliases:
@@ -63,7 +63,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (8 mentions)</summary>
 
 **[00:00:19](/episodes/ep-mKXdKV-OBog.md#ent-gpe-provo-t-00-00-00)**
 > "...cise—which was taking place—related exactly to where the Egyptian yellow plane landed on its way to Provo. We need to definitely keep at it. Zionists are mad. I don't know why this investigation really has..."
@@ -76,6 +76,18 @@ _Type: Places_
 
 **[00:06:31](/episodes/ep-mKXdKV-OBog.md#ent-gpe-provo-t-00-06-30)**
 > "...SUBTT's stopover in Minot, North Dakota. Why stop there at all on the fourth? Why not fly direct to Provo? Not only does Minot have an FBI office, but it also has an Air Force base among other tenants. Tha..."
+
+**[00:00:19](/episodes/ep-mKXdKV-OBog.md#ent-gpe-provo-t-00-00-00)**
+> "...ow plane landed on its way to Provo."
+
+**[00:05:25](/episodes/ep-mKXdKV-OBog.md#ent-gpe-provo-t-00-05-02)**
+> "...s assassination—who flew from Provo and landed into Wilmington, Delaware, on the morn..."
+
+**[00:06:06](/episodes/ep-mKXdKV-OBog.md#ent-gpe-provo-t-00-05-45)**
+> "...y, before making its way onto Provo."
+
+**[00:06:31](/episodes/ep-mKXdKV-OBog.md#ent-gpe-provo-t-00-06-30)**
+> "Why not fly direct to Provo?"
 
 </details>
 

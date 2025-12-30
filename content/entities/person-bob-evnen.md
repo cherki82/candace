@@ -1,6 +1,6 @@
 ---
 title: "Bob Evnen"
-description: "Bob Evnen (People) - 5 mentions"
+description: "Bob Evnen (People) - 8 mentions"
 id: "person-bob-evnen"
 type: "PERSON"
 aliases:
@@ -25,7 +25,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (7 mentions)</summary>
 
 **[00:11:30](/episodes/ep-mKXdKV-OBog.md#ent-person-bob-evnen-t-00-11-30)**
 > "...y might offer us a clue because during this stretch, on July 22nd, the Nebraska Secretary of State, Bob Evnen, announced that they were going to put together a trade and investment delegation to Cairo, Egypt. ..."
@@ -38,6 +38,15 @@ _Type: People_
 
 **[00:12:13](/episodes/ep-mKXdKV-OBog.md#ent-person-bob-evnen-t-00-12-13)**
 > "... we have a news clip that will show you that that happened. (News clip) Nebraska Secretary of State Bob Evnen is inviting business and industry leaders to take part in a trade mission, investment mission to Eg..."
+
+**[00:11:30](/episodes/ep-mKXdKV-OBog.md#ent-person-bob-evnen-t-00-11-30)**
+> "... Nebraska Secretary of State, Bob Evnen, announced that they were going to put together a..."
+
+**[00:11:57](/episodes/ep-mKXdKV-OBog.md#ent-person-bob-evnen-t-00-11-30)**
+> "...d suddenly, you got this guy, Bob Evnen, and he says, "You know what? Let's plan a trip t..."
+
+**[00:12:13](/episodes/ep-mKXdKV-OBog.md#ent-person-bob-evnen-t-00-12-13)**
+> "...) Nebraska Secretary of State Bob Evnen is inviting business and industry leaders to take..."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Larry Ellison"
-description: "Larry Ellison (People) - 3 mentions"
+description: "Larry Ellison (People) - 4 mentions"
 id: "person-larry-ellison"
 type: "PERSON"
 ---
@@ -13,13 +13,16 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
 
 **[00:34:31](/episodes/ep-mKXdKV-OBog.md#ent-person-larry-ellison-t-00-34-21)**
 > "...tates propaganda, by the way. She is there to deliver Israeli propaganda. She knows it. We know it. Larry Ellison hired her to do it. That's okay. They've already got a blacklist of actors who will never work at P..."
 
 **[00:34:33](/episodes/ep-mKXdKV-OBog.md#ent-person-larry-ellison-t-00-34-21)**
 > "Larry Ellison hired Bari Weiss"
+
+**[00:34:31](/episodes/ep-mKXdKV-OBog.md#ent-person-larry-ellison-t-00-34-21)**
+> "Larry Ellison hired her to do it."
 
 </details>
 

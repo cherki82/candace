@@ -1,6 +1,6 @@
 ---
 title: "Orange County"
-description: "Orange County (Places) - 4 mentions"
+description: "Orange County (Places) - 8 mentions"
 id: "gpe-orange-county"
 type: "GPE"
 ---
@@ -13,7 +13,7 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (4 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (8 mentions)</summary>
 
 **[00:08:58](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-orange-county-t-00-08-29)**
 > "... probation for pleading no contest to lewd conduct involving children in Manhattan Beach. That's in Orange County. A few years later, he apparently went on a tear to try to lure young girls in an entirely differen..."
@@ -26,6 +26,18 @@ _Type: Places_
 
 **[00:19:52](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-orange-county-t-00-19-42)**
 > "...ns of incest with his own son, bullying, drug addiction, and the misuse of funds. Calvary Chapel in Orange County—the lead pastor in Mission Viejo was convicted of abusing two girls. Calvary Chapel Solid Rock—that..."
+
+**[00:08:58](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-orange-county-t-00-08-29)**
+> "That's in Orange County."
+
+**[00:09:49](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-orange-county-t-00-09-14)**
+> "Orange County Superior Court Commissioner Richard M. Aronson im..."
+
+**[00:14:11](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-orange-county-t-00-14-11)**
+> "...ice little beach community in Orange County."
+
+**[00:19:52](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-orange-county-t-00-19-42)**
+> "Calvary Chapel in Orange County—the lead pastor in Mission Viejo was convicted of..."
 
 </details>
 

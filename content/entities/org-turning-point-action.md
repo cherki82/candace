@@ -1,6 +1,6 @@
 ---
 title: "Turning Point Action"
-description: "Turning Point Action (Organizations) - 5 mentions"
+description: "Turning Point Action (Organizations) - 6 mentions"
 id: "org-turning-point-action"
 type: "ORG"
 ---
@@ -11,6 +11,14 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1 mentions)</summary>
+
+**[00:15:45](/episodes/ep-6DhWawD4ZiM.md#ent-org-turning-point-action-t-00-15-07)**
+> "...sidiaries turning point, like turning point action, all that."
+
+</details>
 
 <details>
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "July 22nd"
-description: "July 22nd (Dates) - 1 mention"
+description: "July 22nd (Dates) - 2 mentions"
 id: "date-july-22nd"
 type: "DATE"
 ---
@@ -13,10 +13,13 @@ _Type: Dates_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:11:30](/episodes/ep-mKXdKV-OBog.md#ent-date-july-22nd-t-00-11-30)**
 > "... of what they were doing in Nebraska actually might offer us a clue because during this stretch, on July 22nd, the Nebraska Secretary of State, Bob Evnen, announced that they were going to put together a trade..."
+
+**[00:11:30](/episodes/ep-mKXdKV-OBog.md#ent-date-july-22nd-t-00-11-30)**
+> "...cause during this stretch, on July 22nd, the Nebraska Secretary of State, Bob Evnen, anno..."
 
 </details>
 

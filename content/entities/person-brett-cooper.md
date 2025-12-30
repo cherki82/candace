@@ -1,6 +1,6 @@
 ---
 title: "Brett Cooper"
-description: "Brett Cooper (People) - 25 mentions"
+description: "Brett Cooper (People) - 31 mentions"
 id: "person-brett-cooper"
 type: "PERSON"
 ---
@@ -24,7 +24,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (5 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (11 mentions)</summary>
 
 **[00:06:01](/episodes/ep-7RLtGgkTh9o.md#ent-person-brett-cooper-t-00-05-39)**
 > "...Got involved and pushed for this conservatorship. That is what has been alleged. I'm going to allow Brett Cooper—I'm just gonna rip this content from her show, hopefully she doesn't mind—to explain how Britney Sp..."
@@ -40,6 +40,24 @@ _Type: People_
 
 **[00:17:11](/episodes/ep-7RLtGgkTh9o.md#ent-person-brett-cooper-t-00-16-49)**
 > "...ry of this year, someone notified me that Courtney Love wanted to reach out to me. So there you go. Brett Cooper has mentioned that Courtney Love has also had allegations about Lou Taylor. We all know who Courtne..."
+
+**[00:06:01](/episodes/ep-7RLtGgkTh9o.md#ent-person-brett-cooper-t-00-05-39)**
+> "I'm going to allow Brett Cooper—I'm just gonna rip this content from her show, ho..."
+
+**[00:06:12](/episodes/ep-7RLtGgkTh9o.md#ent-person-brett-cooper-t-00-05-39)**
+> "Take a listen. (Brett Cooper clip)"
+
+**[00:10:35](/episodes/ep-7RLtGgkTh9o.md#ent-person-brett-cooper-t-00-10-20)**
+> "And as Brett Cooper is about to lay out, Lou Taylor's qualifications ..."
+
+**[00:10:41](/episodes/ep-7RLtGgkTh9o.md#ent-person-brett-cooper-t-00-10-20)**
+> "Take it away again, Brett Cooper. (Brett Cooper clip)"
+
+**[00:10:41](/episodes/ep-7RLtGgkTh9o.md#ent-person-brett-cooper-t-00-10-20)**
+> "...it away again, Brett Cooper. (Brett Cooper clip)"
+
+**[00:17:11](/episodes/ep-7RLtGgkTh9o.md#ent-person-brett-cooper-t-00-16-49)**
+> "Brett Cooper has mentioned that Courtney Love has also had all..."
 
 </details>
 

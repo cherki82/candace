@@ -1,6 +1,6 @@
 ---
 title: "Google"
-description: "Google (Organizations) - 17 mentions"
+description: "Google (Organizations) - 18 mentions"
 id: "org-google"
 type: "ORG"
 ---
@@ -51,10 +51,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
 **[00:36:03](/episodes/ep-yAIb-NuUh_U.md#ent-org-google-t-00-35-40)**
 > "...PDS Debt is A-plus rated by the Better Business Bureau. It boasts thousands of five-star reviews on Google, and it holds a five-star rating on Trustpilot. It's your money. It's your future. Do not let the s..."
+
+**[00:36:03](/episodes/ep-yAIb-NuUh_U.md#ent-org-google-t-00-35-40)**
+> "...sands of five-star reviews on Google, and it holds a five-star rating on Trustpilot."
 
 </details>
 

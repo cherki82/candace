@@ -1,6 +1,6 @@
 ---
 title: "Berkeley"
-description: "Berkeley (Organizations) - 3 mentions"
+description: "Berkeley (Organizations) - 4 mentions"
 id: "org-berkeley"
 type: "ORG"
 ---
@@ -13,10 +13,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
 **[00:58:00](/episodes/ep-yAIb-NuUh_U.md#ent-org-berkeley-t-00-57-52)**
 > "...rying to impart common sense to his radicalized niece who just came back from her first semester at Berkeley." "I hope they release that full interview because she was really something— very patronizing, eyes..."
+
+**[00:58:00](/episodes/ep-yAIb-NuUh_U.md#ent-org-berkeley-t-00-57-52)**
+> "...ck from her first semester at Berkeley.""
 
 </details>
 

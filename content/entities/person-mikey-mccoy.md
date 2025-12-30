@@ -1,6 +1,6 @@
 ---
 title: "Mikey McCoy"
-description: "Mikey McCoy (People) - 194 mentions"
+description: "Mikey McCoy (People) - 206 mentions"
 id: "person-mikey-mccoy"
 type: "PERSON"
 aliases:
@@ -62,13 +62,16 @@ _Type: People_
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
 
 **[00:37:18](/episodes/ep-6DhWawD4ZiM.md#ent-person-mikey-mccoy-t-00-37-23)**
 > "wanted people to know that Mikey (Mikey McCoy) is fantastic"
 
 **[00:37:23](/episodes/ep-6DhWawD4ZiM.md#ent-person-mikey-mccoy-t-00-37-23)**
 > "...ed people to know that Mikey (Mikey McCoy) is fantastic and supercalifragilisticexpialidoci..."
+
+**[00:37:23](/episodes/ep-6DhWawD4ZiM.md#ent-person-mikey-mccoy-t-00-37-23)**
+> "...s, wanted people to know that Mikey (Mikey McCoy) is fantastic and supercalifragilist..."
 
 </details>
 
@@ -236,15 +239,24 @@ _Type: People_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4 mentions)</summary>
 
 **[00:39:46](/episodes/ep-7RLtGgkTh9o.md#ent-person-mikey-mccoy-t-00-39-44)**
 > "...at ending—the way he describes a person behind him walking—walking away—almost wild, considering—um—Mikey McCoy, the amazing Mikey McCoy, the not-so-amazing Mikey McCoy. And then he says this—he points over to t..."
 
+**[00:39:46](/episodes/ep-7RLtGgkTh9o.md#ent-person-mikey-mccoy-t-00-39-44)**
+> "...y—almost wild, considering—um—Mikey McCoy, the amazing Mikey McCoy, the not-so-amazing Mike..."
+
+**[00:39:46](/episodes/ep-7RLtGgkTh9o.md#ent-person-mikey-mccoy-t-00-39-44)**
+> "...g—um—Mikey McCoy, the amazing Mikey McCoy, the not-so-amazing Mikey McCoy."
+
+**[00:39:46](/episodes/ep-7RLtGgkTh9o.md#ent-person-mikey-mccoy-t-00-39-44)**
+> "...key McCoy, the not-so-amazing Mikey McCoy."
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (3 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (5 mentions)</summary>
 
 **[00:00:47](/episodes/ep-yAIb-NuUh_U.md#ent-person-mikey-mccoy-t-00-00-37)**
 > "I am resisting making a comment about Mikey McCoy, but ladies and gentlemen, we are definitively in the foxhole right now."
@@ -254,6 +266,12 @@ _Type: People_
 
 **[00:05:19](/episodes/ep-yAIb-NuUh_U.md#ent-person-mikey-mccoy-t-00-05-06)**
 > "...serve the public interest here. We should not pretend like somehow the case would be put at risk if Mikey McCoy shared his call logs. How's that gonna impact the case? How is that? If you answered questions abou..."
+
+**[00:00:47](/episodes/ep-yAIb-NuUh_U.md#ent-person-mikey-mccoy-t-00-00-37)**
+> "...isting making a comment about Mikey McCoy, but ladies and gentlemen, we are definitively in..."
+
+**[00:05:19](/episodes/ep-yAIb-NuUh_U.md#ent-person-mikey-mccoy-t-00-05-06)**
+> "... case would be put at risk if Mikey McCoy shared his call logs."
 
 </details>
 
@@ -533,7 +551,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (3 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (9 mentions)</summary>
 
 **[00:27:51](/episodes/ep-K1tFD7FfoCU.md#ent-person-mikey-mccoy-t-00-27-09)**
 > "...he lied about the Catholic thing. That was my reason for going after Andrew Kolvet (Andrew Kolvet), Mikey McCoy (Mikey McCoy). Anybody that's told a lie—Rob McCoy (Rob McCoy), blood all over him— you got my atte..."
@@ -543,6 +561,24 @@ _Type: People_
 
 **[00:33:05](/episodes/ep-K1tFD7FfoCU.md#ent-person-mikey-mccoy-t-00-32-27)**
 > "... they've seen about Rob McCoy (Rob McCoy). They don't like the history of Rob McCoy (Rob McCoy) and Mikey McCoy (Mikey McCoy) and their involvement here. They don't like the video of Terrell (Terrell). They don'..."
+
+**[00:27:51](/episodes/ep-K1tFD7FfoCU.md#ent-person-mikey-mccoy-t-00-27-09)**
+> "...ndrew Kolvet (Andrew Kolvet), Mikey McCoy (Mikey McCoy)."
+
+**[00:27:51](/episodes/ep-K1tFD7FfoCU.md#ent-person-mikey-mccoy-t-00-27-09)**
+> "...(Andrew Kolvet), Mikey McCoy (Mikey McCoy)."
+
+**[00:33:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-mikey-mccoy-t-00-32-27)**
+> "...stuff that they've seen about Mikey McCoy (Mikey McCoy)."
+
+**[00:33:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-mikey-mccoy-t-00-32-27)**
+> "...ey've seen about Mikey McCoy (Mikey McCoy)."
+
+**[00:33:05](/episodes/ep-K1tFD7FfoCU.md#ent-person-mikey-mccoy-t-00-32-27)**
+> "... of Rob McCoy (Rob McCoy) and Mikey McCoy (Mikey McCoy) and their involvement here."
+
+**[00:33:05](/episodes/ep-K1tFD7FfoCU.md#ent-person-mikey-mccoy-t-00-32-27)**
+> "... (Rob McCoy) and Mikey McCoy (Mikey McCoy) and their involvement here."
 
 </details>
 

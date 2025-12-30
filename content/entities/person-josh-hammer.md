@@ -1,6 +1,6 @@
 ---
 title: "Josh Hammer"
-description: "Josh Hammer (People) - 132 mentions"
+description: "Josh Hammer (People) - 133 mentions"
 id: "person-josh-hammer"
 type: "PERSON"
 aliases:
@@ -55,13 +55,16 @@ _Type: People_
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
 
 **[00:37:18](/episodes/ep-6DhWawD4ZiM.md#ent-person-josh-hammer-t-00-37-23)**
 > "and that you should buy Josh (Josh Hammer)'s book"
 
 **[00:37:23](/episodes/ep-6DhWawD4ZiM.md#ent-person-josh-hammer-t-00-37-23)**
 > "...and that you should buy Josh (Josh Hammer)'s book, he also wants you to know to just be a J..."
+
+**[00:37:23](/episodes/ep-6DhWawD4ZiM.md#ent-person-josh-hammer-t-00-37-23)**
+> "...stor, and that you should buy Josh (Josh Hammer)'s book, he also wants you to know t..."
 
 </details>
 

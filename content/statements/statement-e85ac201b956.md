@@ -25,13 +25,23 @@ type: "factual_claim"
 - [Israel](/entities/gpe-israel.md) (gpe)
 - [United States](/entities/gpe-united-states.md) (gpe)
 
-## Source
+## Appearances (2)
+
+### 1. Erika And I Sat Down. Here’s What Happened. | Candace Ep 280
 
 **Episode:** [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md)
 **Timestamp:** [01:12:54](/episodes/ep-es7PWdFGoFI.md#t-01-12-31) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(4374);return false;">Play</a>
 
 > Qatar recently came out and said, yeah, we work with Hamas because Israel and the United States asked us to. They asked us to play the intermediary.
+
+### 2. Erika And I Sat Down. Here’s What Happened. | Candace Ep 280
+
+**Episode:** [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md)
+**Timestamp:** [01:12:34](/episodes/ep-es7PWdFGoFI.md#t-01-12-31) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(4354);return false;">Play</a>
+
+> Qatar recently came out and said, yeah, we work with Hamas because Israel and the United States asked us to. They asked us to play the intermediary
 
 ## Verification
 

@@ -1,6 +1,6 @@
 ---
 title: "Candace Owens"
-description: "Candace Owens (People) - 1046 mentions"
+description: "Candace Owens (People) - 1137 mentions"
 id: "person-candace-owens"
 type: "PERSON"
 aliases:
@@ -318,7 +318,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (20 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (32 mentions)</summary>
 
 **[00:00:00](/episodes/ep-6DhWawD4ZiM.md#ent-person-candace-owens-t-00-01-29)**
 > "Candace Owens: Okay, you guys, now, I wasn't sure about Erika"
@@ -379,6 +379,42 @@ _Type: People_
 
 **[01:01:07](/episodes/ep-6DhWawD4ZiM.md#ent-person-candace-owens-t-01-01-07)**
 > "...guys, this is a new strand of Candice 19, and it's resistant."
+
+**[00:01:37](/episodes/ep-6DhWawD4ZiM.md#ent-person-candace-owens-t-00-01-29)**
+> "Welcome back to Candace."
+
+**[00:24:06](/episodes/ep-6DhWawD4ZiM.md#ent-person-candace-owens-t-00-23-49)**
+> "...I know that recently Candice (Candace Owens) said that"
+
+**[00:30:46](/episodes/ep-6DhWawD4ZiM.md#ent-person-candace-owens-t-00-30-38)**
+> "... COVID-19, it's like Candice (Candace Owens) 19."
+
+**[00:30:54](/episodes/ep-6DhWawD4ZiM.md#ent-person-candace-owens-t-00-30-38)**
+> "...cial Distancing from Candice (Candace Owens)."
+
+**[00:31:20](/episodes/ep-6DhWawD4ZiM.md#ent-person-candace-owens-t-00-31-18)**
+> "It's Candace 19, that's what it is."
+
+**[00:34:09](/episodes/ep-6DhWawD4ZiM.md#ent-person-candace-owens-t-00-34-02)**
+> "You guys, Candace 19 is crazy, okay?"
+
+**[00:37:05](/episodes/ep-6DhWawD4ZiM.md#ent-person-candace-owens-t-00-36-57)**
+> "Three, not about Candace, but she talked about Israel and said good things..."
+
+**[00:52:13](/episodes/ep-6DhWawD4ZiM.md#ent-person-candace-owens-t-00-51-49)**
+> "If you use promo code Candace at checkout,"
+
+**[00:52:23](/episodes/ep-6DhWawD4ZiM.md#ent-person-candace-owens-t-00-51-49)**
+> "That's promo code Candace at PurgeStore.com."
+
+**[00:56:52](/episodes/ep-6DhWawD4ZiM.md#ent-person-candace-owens-t-00-56-52)**
+> "Candace speaks truth."
+
+**[00:56:53](/episodes/ep-6DhWawD4ZiM.md#ent-person-candace-owens-t-00-56-52)**
+> "Go Max, Candace."
+
+**[01:00:37](/episodes/ep-6DhWawD4ZiM.md#ent-person-candace-owens-t-01-00-25)**
+> "Please get it to Candace before it gets deleted."
 
 </details>
 
@@ -815,7 +851,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (12 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (20 mentions)</summary>
 
 **[00:00:49](/episodes/ep-mKXdKV-OBog.md#ent-person-candace-owens-t-00-00-43)**
 > "...ser, and Charlie (Charlie Kirk) would indeed want us to keep going max. So welcome back to Candace (Candace Owens). Okay, so that interview that I did with Charlie (Charlie Kirk) back when my show was on PragerU's..."
@@ -852,6 +888,30 @@ _Type: People_
 
 **[00:38:00](/episodes/ep-mKXdKV-OBog.md#ent-person-candace-owens-t-00-37-26)**
 > "...e holidays. Top comments from yesterday. Number one: this person writes, "Brigitte thought Candace (Candace Owens) forgot all about him." Yeah, I mean, look. I did not want to see the French angle. We got tons of ..."
+
+**[00:00:49](/episodes/ep-mKXdKV-OBog.md#ent-person-candace-owens-t-00-00-43)**
+> "So welcome back to Candace (Candace Owens)."
+
+**[00:04:43](/episodes/ep-mKXdKV-OBog.md#ent-person-candace-owens-t-00-04-21)**
+> "It's not going to be Candace (Candace Owens), okay?"
+
+**[00:06:16](/episodes/ep-mKXdKV-OBog.md#ent-person-candace-owens-t-00-05-45)**
+> "It says, "Hi, Candace (Candace Owens), I am [blank]."
+
+**[00:29:38](/episodes/ep-mKXdKV-OBog.md#ent-person-candace-owens-t-00-29-33)**
+> "It says, "Hi, Candace (Candace Owens)."
+
+**[00:37:12](/episodes/ep-mKXdKV-OBog.md#ent-person-candace-owens-t-00-36-45)**
+> "...n visit AmericanFinancing.net/Candace Owens."
+
+**[00:37:17](/episodes/ep-mKXdKV-OBog.md#ent-person-candace-owens-t-00-36-45)**
+> "AmericanFinancing.net/Candace Owens."
+
+**[00:38:00](/episodes/ep-mKXdKV-OBog.md#ent-person-candace-owens-t-00-37-26)**
+> "...s, "Brigitte thought Candace (Candace Owens) forgot all about him.""
+
+**[00:38:00](/episodes/ep-mKXdKV-OBog.md#ent-person-candace-owens-t-00-37-26)**
+> "...son writes, "Brigitte thought Candace (Candace Owens) forgot all about him.""
 
 </details>
 
@@ -1035,7 +1095,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (17 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (32 mentions)</summary>
 
 **[00:01:02](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-00-44)**
 > "...nd gentlemen, welcome back to Candace."
@@ -1088,10 +1148,55 @@ _Type: People_
 **[00:57:59](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-57-22)**
 > "...of the future of America—down with the two-party system. I agree fully. Drew Cass writes, "Candace (Candace Owens), I feel like the Zionists are trying to distract you by making you debunk their lies." "We, as the..."
 
+**[00:04:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-03-30)**
+> "...ousands of kids, but Candace (Candace Owens) investigating the Charlie (Charlie Kirk) Kirk as..."
+
+**[00:04:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-03-30)**
+> "...ens of thousands of kids, but Candace (Candace Owens) investigating the Charlie (Charli..."
+
+**[00:24:28](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-23-52)**
+> "Candace (Candace Owens), Michael Jackson."
+
+**[00:37:29](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-36-56)**
+> "Take a listen. (Candace Owens and Charlie Kirk clip)"
+
+**[00:38:05](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-38-05)**
+> "...elf with people like Candace (Candace Owens) that—whatever you're doing—that can relate and t..."
+
+**[00:38:05](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-38-05)**
+> "...und yourself with people like Candace (Candace Owens) that—whatever you're doing—that c..."
+
+**[00:52:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-51-38)**
+> "...l be like, "How dare Candace (Candace Owens) even ask another question and not accept the nar..."
+
+**[00:52:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-51-38)**
+> "It'll be like, "How dare Candace (Candace Owens) even ask another question and not..."
+
+**[00:53:05](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-53-05)**
+> "Ginny writes, "Hi Candace (Candace Owens), fellow Latin Mass Catholic here.""
+
+**[00:53:32](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-53-05)**
+> ""Thank you, Candace (Candace Owens), for never giving up on the truth.""
+
+**[00:53:43](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-53-05)**
+> "...ountability writes, "Candace (Candace Owens).""
+
+**[00:53:43](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-53-05)**
+> "Truth Accountability writes, "Candace (Candace Owens).""
+
+**[00:57:22](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-57-22)**
+> "She attacks Candace (Candace Owens)."
+
+**[00:57:46](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-57-22)**
+> ""Candace (Candace Owens), keep fighting for the truth and be safe.""
+
+**[00:57:59](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-57-22)**
+> "Drew Cass writes, "Candace (Candace Owens), I feel like the Zionists are trying to distract..."
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (32 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (71 mentions)</summary>
 
 **[00:01:02](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-00-37)**
 > "... Charlie (Charlie Kirk)'s real allies are and who his real allies were. So welcome back to Candace (Candace Owens). Who were Charlie (Charlie Kirk)'s real friends? That's what I wanna know. I just wanna know who w..."
@@ -1188,6 +1293,123 @@ _Type: People_
 
 **[01:00:23](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-01-00-02)**
 > "...propriate. Also, it's anti-Semitic. I read it on the internet. Silicon Valley writes: "Hi, Candace (Candace Owens). Thank you for your great reporting." "Better than the FBI. Your research inspired parts of my new..."
+
+**[00:01:02](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-00-37)**
+> "So welcome back to Candace (Candace Owens)."
+
+**[00:02:06](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-02-06)**
+> "I have not followed Candace (Candace Owens) closely."
+
+**[00:02:21](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-02-06)**
+> "He mentioned Candace (Candace Owens)."
+
+**[00:02:33](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-02-06)**
+> "...d anything bad about Candace (Candace Owens) or anything, but I just find"
+
+**[00:02:33](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-02-06)**
+> "...never said anything bad about Candace (Candace Owens) or anything, but I just find"
+
+**[00:04:20](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-03-41)**
+> "...that on one episode, Candace (Candace Owens) said that she had a dream, right?"
+
+**[00:04:20](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-03-41)**
+> "... know is that on one episode, Candace (Candace Owens) said that she had a dream, right?"
+
+**[00:04:31](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-04-24)**
+> "Candace (Candace Owens) is up on this show like Ms. Cleo from the '90s a..."
+
+**[00:36:29](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-36-27)**
+> "...e energy to come for Candace (Candace Owens), right?"
+
+**[00:36:29](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-36-27)**
+> "...w have the energy to come for Candace (Candace Owens), right?"
+
+**[00:36:44](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-36-27)**
+> "To come for Candace (Candace Owens) and to try to paint her as a crazy person becaus..."
+
+**[00:39:26](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-39-16)**
+> ""Candace (Candace Owens), you're better than Kanye.""
+
+**[00:39:37](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-39-16)**
+> "...rlie (Charlie Kirk), Candace (Candace Owens) is heading into a direction that's only going to..."
+
+**[00:39:37](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-39-16)**
+> ""Charlie (Charlie Kirk), Candace (Candace Owens) is heading into a direction that'..."
+
+**[00:40:32](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-40-32)**
+> "Your good friend Candace (Candace Owens) has been putting out some pretty wacko stuff. I ..."
+
+**[00:41:16](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-41-12)**
+> "...am I going to attack Candace (Candace Owens) because you think I'm not going to do that, Harr..."
+
+**[00:41:16](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-41-12)**
+> "So am I going to attack Candace (Candace Owens) because you think I'm not going t..."
+
+**[00:41:46](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-41-12)**
+> "...ay broadly—not about Candace (Candace Owens), whom I love—but about all people,"
+
+**[00:41:46](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-41-12)**
+> "...I would say broadly—not about Candace (Candace Owens), whom I love—but about all people..."
+
+**[00:43:21](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-43-17)**
+> "... instead calling out Candace (Candace Owens) and waiting for her to make a mistake so they ca..."
+
+**[00:43:21](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-43-17)**
+> "...stions is instead calling out Candace (Candace Owens) and waiting for her to make a mis..."
+
+**[00:44:20](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-43-52)**
+> "...on't get dreams like Candace (Candace Owens).""
+
+**[00:44:20](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-43-52)**
+> ""I don't get dreams like Candace (Candace Owens).""
+
+**[00:44:30](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-43-52)**
+> "...quired to respond to Candace (Candace Owens)' content."
+
+**[00:44:30](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-43-52)**
+> "...re not required to respond to Candace (Candace Owens)' content."
+
+**[00:53:29](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-53-29)**
+> "...st want you to know, Candace (Candace Owens), that I'm 74 and I survived about a thousand hou..."
+
+**[00:53:29](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-53-29)**
+> "...ites: "Just want you to know, Candace (Candace Owens), that I'm 74 and I survived about..."
+
+**[00:54:27](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-54-14)**
+> ""Candace (Candace Owens) speaks with clarity and courage, reminding women..."
+
+**[00:54:35](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-54-14)**
+> ""Thank you, Candace (Candace Owens).""
+
+**[00:55:31](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-54-59)**
+> ""Keep writing, Candace (Candace Owens).""
+
+**[00:57:52](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-57-52)**
+> "...ations writes: "Love Candace (Candace Owens)'s videos. Keep up the great work.""
+
+**[00:57:52](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-57-52)**
+> "...wan Revelations writes: "Love Candace (Candace Owens)'s videos. Keep up the great work...."
+
+**[00:58:55](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-58-36)**
+> "...stor is bad-mouthing Candace (Candace Owens).""
+
+**[00:58:55](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-58-36)**
+> "...d your pastor is bad-mouthing Candace (Candace Owens).""
+
+**[00:59:01](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-58-36)**
+> ""We love you, Candace (Candace Owens).""
+
+**[00:59:18](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-59-18)**
+> "... shouldn't listen to Candace (Candace Owens) talk across."
+
+**[00:59:18](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-59-18)**
+> "...t how you shouldn't listen to Candace (Candace Owens) talk across."
+
+**[01:00:23](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-01-00-02)**
+> "... Valley writes: "Hi, Candace (Candace Owens). Thank you for your great reporting.""
+
+**[01:00:23](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-01-00-02)**
+> "Silicon Valley writes: "Hi, Candace (Candace Owens). Thank you for your great reporti..."
 
 </details>
 
@@ -1552,7 +1774,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (55 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (72 mentions)</summary>
 
 **[00:00:52](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-00-46)**
 > "Welcome back to Candace."
@@ -1718,6 +1940,57 @@ _Type: People_
 
 **[00:48:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-48-01)**
 > "... "Charlie (Charlie Kirk) stood for that." "So anyone who is divisive over this right is—as Candace (Candace Owens) says it—fake and gay." Yeah, Charlie (Charlie Kirk) believed in free speech. He didn't even blink ..."
+
+**[00:10:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-09-57)**
+> "...ew weeks back had on Candace (Candace Owens) to treat her to his usual ideological laundering..."
+
+**[00:10:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-09-57)**
+> "...lson) a few weeks back had on Candace (Candace Owens) to treat her to his usual ideolog..."
+
+**[00:10:09](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-09-57)**
+> "...(clip): That's after years of Candace Owens (Candace Owens) saying things like this."
+
+**[00:10:09](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-09-57)**
+> "...after years of Candace Owens (Candace Owens) saying things like this."
+
+**[00:16:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-16-01)**
+> "We can roll that. (Candace Owens (Candace Owens) on Joe Rogan (Joe Rogan) clip):"
+
+**[00:16:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-16-01)**
+> "...an roll that. (Candace Owens (Candace Owens) on Joe Rogan (Joe Rogan) clip):"
+
+**[00:16:59](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-16-59)**
+> "...out that and that I, Candace (Candace Owens), was going to Milo (Milo) my career if Charlie (..."
+
+**[00:16:59](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-16-59)**
+> "... upset about that and that I, Candace (Candace Owens), was going to Milo (Milo) my care..."
+
+**[00:18:10](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-17-40)**
+> ""OK, we won, Candace (Candace Owens).""
+
+**[00:25:17](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-24-39)**
+> "...t if you're saying, "Candace (Candace Owens), I'm worried about retirement. I'm worried about..."
+
+**[00:25:17](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-24-39)**
+> "But if you're saying, "Candace (Candace Owens), I'm worried about retirement. I'..."
+
+**[00:26:51](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-26-44)**
+> "....co slash Candace or entering Candace at checkout."
+
+**[00:44:24](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-44-24)**
+> "He writes: "Dear Candace (Candace Owens), thank you for being a true friend to Charlie (C..."
+
+**[00:46:49](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-46-33)**
+> "...) writes: "Love you, Candace (Candace Owens).""
+
+**[00:46:49](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-46-33)**
+> "...e (Peddle) writes: "Love you, Candace (Candace Owens).""
+
+**[00:48:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-48-01)**
+> "...ver this right is—as Candace (Candace Owens) says it—fake and gay.""
+
+**[00:48:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-48-01)**
+> "...ivisive over this right is—as Candace (Candace Owens) says it—fake and gay.""
 
 </details>
 
@@ -4104,7 +4377,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Candace Owens (1070)</strong></summary>
+<summary><strong class="section-title">Statements by Candace Owens (1055)</strong></summary>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (27)</summary>
@@ -4409,7 +4682,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (114)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (108)</summary>
 
 - [00:02:04](/episodes/ep-es7PWdFGoFI.md#t-00-01-24) [○] (Claim) ["The meeting yesterday was four hours and 30 minutes with no rules. At the table ..."](/statements/statement-a00acb5ab7d2.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Justin Streiff](/entities/person-justin-streiff.md), [George Farmer](/entities/person-george-farmer.md)
@@ -4492,11 +4765,6 @@ _Type: People_
 - [00:11:16](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) [○] (Opinion) ["Rob McCoy makes my skin crawl. I look at him and he's a bad person and nobody ca..."](/statements/statement-c3ad2a946500.md)
   - About: [Rob McCoy](/entities/person-rob-mccoy.md)
 
-- [00:11:37](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) [○] (Claim) ["Rob McCoy does not work with Turning Point USA in any capacity whatsoever"](/statements/statement-276b02748885.md)
-  - About: [Rob McCoy](/entities/person-rob-mccoy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-
-- [00:11:37](/episodes/ep-es7PWdFGoFI.md#t-00-11-16) [○] (Claim) ["Rob McCoy does not work with Turning Point USA in any capacity"](/statements/statement-f7916895d4f6.md)
-
 - [00:12:04](/episodes/ep-es7PWdFGoFI.md#t-00-11-58) [○] (Accusation) ["Rob McCoy claimed on stage at the memorial to be 'America's pastor' and then had..."](/statements/statement-f7572e40a6e9.md)
   - About: [Rob McCoy](/entities/person-rob-mccoy.md), [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)
 
@@ -4511,9 +4779,6 @@ _Type: People_
 
 - [00:14:24](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) [○] (Claim) ["Andrew Kolvet spoke to the surgeon without TPUSA knowing he would write that twe..."](/statements/statement-d884b8c97ce6.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-
-- [00:14:45](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) [○] (Accusation) ["Tyler Boyer lied about why Terrell took the camera down"](/statements/statement-1fac6b161905.md)
-  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
 - [00:15:17](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) [○] (Claim) ["Turning Point USA did not approve of Brian Harpole going on the Shawn Ryan Show...."](/statements/statement-191d6deb062d.md)
   - About: [Brian Harpole](/entities/person-brian-harpole.md), [The Shawn Ryan Show](/entities/work-the-shawn-ryan-show.md), [Turning Point USA](/entities/org-turning-point-usa.md)
@@ -4695,7 +4960,7 @@ _Type: People_
   - About: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 - [00:43:01](/episodes/ep-es7PWdFGoFI.md#t-00-42-21) [○] (Opinion) ["I believe that Charlie Kirk was betrayed by people that are close to him"](/statements/statement-4776345392e1.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:43:11](/episodes/ep-es7PWdFGoFI.md#t-00-43-01) [○] (Opinion) ["Charlie Kirk was betrayed by people that are close to him"](/statements/statement-b777c31ed2d7.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -4708,9 +4973,6 @@ _Type: People_
 
 - [00:56:46](/episodes/ep-es7PWdFGoFI.md#t-00-56-34) [○] (Claim) ["George Zinn told nurses at Utah Valley Hospital he was paid to falsely claim res..."](/statements/statement-67b910caa0a7.md)
   - About: [George Zinn](/entities/person-george-zinn.md), [Utah Valley Hospital](/entities/org-utah-valley-hospital.md)
-
-- [00:56:47](/episodes/ep-es7PWdFGoFI.md#t-00-56-34) [○] (Claim) ["George Zinn told nurses at Utah Valley Hospital that he was paid to falsely clai..."](/statements/statement-a1f8c2ec0450.md)
-  - About: [George Zinn](/entities/person-george-zinn.md)
 
 - [00:56:47](/episodes/ep-es7PWdFGoFI.md#t-00-56-34) [○] (Claim) ["Nurses at Utah Valley Hospital were told by George Zinn that he was paid to fals..."](/statements/statement-db0b952250b7.md)
   - About: [George Zinn](/entities/person-george-zinn.md)
@@ -4727,17 +4989,11 @@ _Type: People_
 - [01:08:24](/episodes/ep-es7PWdFGoFI.md#t-01-08-09) [○] (Accusation) ["Tim Pool is signaling to people that Candace's security is weak, which she inter..."](/statements/statement-eeba55d9a6f3.md)
   - About: [Tim Pool](/entities/person-tim-pool.md)
 
-- [01:11:03](/episodes/ep-es7PWdFGoFI.md#t-01-10-18) [○] (Claim) ["Erika Kirk confirmed Charlie Kirk was going to mass and exploring Catholicism"](/statements/statement-482759ddf3f8.md)
-  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
 - [01:11:07](/episodes/ep-es7PWdFGoFI.md#t-01-11-03) [○] (Claim) ["Erika Kirk confirmed that Charlie Kirk was going to Catholic mass"](/statements/statement-bdf5a422d4f3.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [01:11:07](/episodes/ep-es7PWdFGoFI.md#t-01-11-03) [○] (Claim) ["Erika Kirk confirmed that Charlie Kirk was going to mass and exploring Catholici..."](/statements/statement-f112fb56df83.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [01:12:34](/episodes/ep-es7PWdFGoFI.md#t-01-12-31) [○] (Claim) ["Qatar said they work with Hamas because Israel and the United States asked them ..."](/statements/statement-9b899cf72bc4.md)
-  - About: [Qatar](/entities/gpe-qatar.md)
 
 - [01:12:34](/episodes/ep-es7PWdFGoFI.md#t-01-12-31) [○] (Claim) ["Qatar said they work with Hamas because Israel and the US asked them to play int..."](/statements/statement-f49618df9e54.md)
   - About: [Qatar](/entities/gpe-qatar.md), [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
@@ -4964,7 +5220,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (31)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (30)</summary>
 
 - [00:00:29](/episodes/ep-Kmt6HgRjckU.md#t-00-00-00) [○] (Claim) ["Kash Patel has been directly asked about French involvement in Charlie Kirk's as..."](/statements/statement-f29fac89127d.md)
   - About: [Kash Patel](/entities/person-kash-patel.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
@@ -4977,9 +5233,6 @@ _Type: People_
 
 - [00:05:43](/episodes/ep-Kmt6HgRjckU.md#t-00-04-59) [○] (Claim) ["Charlie Kirk said no to money right before he died, which probably means he knew..."](/statements/statement-37bf3ed01fb6.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:06:46](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) [○] (Accusation) ["The Macron couple paid for my assassination"](/statements/statement-2a6aa63ab18f.md)
-  - About: [Emmanuel Macron](/entities/person-emmanuel-macron.md), [Brigitte Macron](/entities/person-brigitte-macron.md)
 
 - [00:06:50](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) [○] (Accusation) ["The Macron couple apparently paid for my assassination"](/statements/statement-a99141835461.md)
   - About: [Emmanuel Macron](/entities/person-emmanuel-macron.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md)
@@ -5469,16 +5722,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (40)</summary>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (39)</summary>
 
 - [00:00:02](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00) [○] (Claim) ["The CIA established Operation Mockingbird after the public execution of JFK in 1..."](/statements/statement-b6c4b6edb33f.md)
   - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [JFK assassination](/entities/event-jfk-assassination.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
 
 - [00:00:03](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00) [○] (Claim) ["After the public execution of sitting President JFK in 1963, the CIA established..."](/statements/statement-0533f01c5c5b.md)
-  - About: [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
-
-- [00:00:03](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00) [○] (Claim) ["The CIA established Operation Mockingbird after the public execution of sitting ..."](/statements/statement-e318b0075c46.md)
-  - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [JFK assassination](/entities/event-jfk-assassination.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
+  - About: [JFK assassination](/entities/event-jfk-assassination.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
 
 - [00:00:54](/episodes/ep-JQjCAsfoXEE.md#t-00-00-41) [○] (Claim) ["Charlie Kirk was assassinated in broad daylight"](/statements/statement-92dc62419c9a.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
@@ -6337,7 +6587,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (27)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (26)</summary>
 
 - [00:00:18](/episodes/ep-2Riv3I7D0Yk.md#t-00-00-00) [○] (Claim) ["16 hours before Charlie Kirk was assassinated, Josh Hammer retweeted a 2013 twee..."](/statements/statement-bcc6e400e34d.md)
   - About: [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md)
@@ -6378,11 +6628,8 @@ _Type: People_
 - [00:27:33](/episodes/ep-2Riv3I7D0Yk.md#t-00-27-00) [○] (Claim) ["Rabbi Pesach Wolicki was on the infamous text chain, meaning both he and Josh Ha..."](/statements/statement-4e4a9dc2a3f5.md)
   - About: [Rabbi Pesach Wolicki](/entities/person-rabbi-pesach-wolicki.md), [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:28:22](/episodes/ep-2Riv3I7D0Yk.md#t-00-27-45) [○] (Claim) ["Benjamin Netanyahu invited Charlie Kirk to Israel two weeks before he died, and ..."](/statements/statement-c2ca8bc92442.md)
-  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
-
 - [00:28:27](/episodes/ep-2Riv3I7D0Yk.md#t-00-27-45) [○] (Claim) ["Benjamin Netanyahu invited Charlie Kirk to Israel two weeks before Charlie died,..."](/statements/statement-61e06a4a6d55.md)
-  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 
 - [00:33:43](/episodes/ep-2Riv3I7D0Yk.md#t-00-33-35) [○] (Opinion) ["Charlie Kirk was genuinely over supporting Israel towards the end because of Jew..."](/statements/statement-c8ca27a62ead.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -6658,7 +6905,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (43)</summary>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (40)</summary>
 
 - [00:00:31](/episodes/ep-ja26iltROkM.md#t-00-00-00) [○] (Claim) ["Erika Kirk gave a speech calling for forgiveness instead of calling for war"](/statements/statement-0d027080c33e.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md)
@@ -6720,9 +6967,6 @@ _Type: People_
 - [00:20:58](/episodes/ep-ja26iltROkM.md#t-00-20-23) [○] (Claim) ["There is a massive underground pipeline and irrigation system beneath where Char..."](/statements/statement-7892635a1601.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:21:15](/episodes/ep-ja26iltROkM.md#t-00-21-03) [○] (Claim) ["There was a massive underground pipeline and irrigation system beneath where Cha..."](/statements/statement-dc030dba6e2e.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
 - [00:23:04](/episodes/ep-ja26iltROkM.md#t-00-22-30) [○] (Claim) ["The feds repaved the area where Charlie Kirk was shot within 48 hours"](/statements/statement-742f1dcda481.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
@@ -6772,17 +7016,11 @@ _Type: People_
 - [00:58:02](/episodes/ep-ja26iltROkM.md#t-00-57-53) [○] (Claim) ["Benjamin Netanyahu gave 150 million dollars for Operation Mockingpastor when pas..."](/statements/statement-1585cafed12f.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Candace Owens](/entities/person-candace-owens.md)
 
-- [00:58:03](/episodes/ep-ja26iltROkM.md#t-00-57-53) [○] (Claim) ["Benjamin Netanyahu offered Charlie Kirk a boatload of money, and he rejected it"](/statements/statement-ecd5008986d2.md)
-  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
 - [00:58:08](/episodes/ep-ja26iltROkM.md#t-00-57-53) [○] (Claim) ["Benjamin Netanyahu gave 150 million dollars for Operation Mockingpastor - a camp..."](/statements/statement-5ec6141c5921.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Candace Owens](/entities/person-candace-owens.md)
 
 - [00:58:30](/episodes/ep-ja26iltROkM.md#t-00-57-53) [○] (Claim) ["Benjamin Netanyahu offered Charlie Kirk a boatload of money and he rejected it"](/statements/statement-f4674965f90a.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
-
-- [00:59:13](/episodes/ep-ja26iltROkM.md#t-00-58-36) [○] (Claim) ["Bob Schulman withdrew millions of dollars from Turning Point and wanted his name..."](/statements/statement-87fd2dea2d9d.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:59:53](/episodes/ep-ja26iltROkM.md#t-00-59-15) [○] (Claim) ["Bob Schulman withdrew millions of dollars from Turning Point USA and wanted his ..."](/statements/statement-79ee9e48b4da.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -6790,7 +7028,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (62)</summary>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (60)</summary>
 
 - [00:00:07](/episodes/ep-aDlhjfW6hz8.md#t-00-00-00) [○] (Claim) ["Two men appeared mere minutes after Charlie Kirk was shot, moved his chair, and ..."](/statements/statement-35b5db0a6a50.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
@@ -6805,8 +7043,6 @@ _Type: People_
 
 - [00:01:09](/episodes/ep-aDlhjfW6hz8.md#t-00-00-55) [○] (Claim) ["The Senate has voted to pass a bipartisan resolution to designate October 14th a..."](/statements/statement-4fb121a16230.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:01:09](/episodes/ep-aDlhjfW6hz8.md#t-00-00-55) [○] (Claim) ["The Senate has voted and passed a bipartisan resolution to designate October 14t..."](/statements/statement-f4408ed20abf.md)
 
 - [00:01:09](/episodes/ep-aDlhjfW6hz8.md#t-00-00-55) [○] (Claim) ["The Senate has voted and passed a bipartisan resolution to designate October 14t..."](/statements/statement-b7af7171a6de.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -6903,9 +7139,6 @@ _Type: People_
 - [00:30:03](/episodes/ep-aDlhjfW6hz8.md#t-00-30-01) [○] (Claim) ["Victoria Churchill, the Daily Mail journalist who wrote the hit piece, has a con..."](/statements/statement-357b4428dc9b.md)
   - About: [AIPAC](/entities/org-aipac.md)
 
-- [00:31:55](/episodes/ep-aDlhjfW6hz8.md#t-00-31-27) [○] (Accusation) ["I believe that Charlie Kirk was betrayed by people who are close to him"](/statements/statement-b3c6f27878e5.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-
 - [00:31:55](/episodes/ep-aDlhjfW6hz8.md#t-00-31-27) [○] (Accusation) ["Charlie Kirk was betrayed by people who are close to him"](/statements/statement-8ce5194ff7d7.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
@@ -6973,7 +7206,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (66)</summary>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (65)</summary>
 
 - [00:00:06](/episodes/ep-sreYYcID-QY.md#t-00-00-00) [○] (Claim) ["Benjamin Netanyahu is again denying that he murdered Charlie Kirk"](/statements/statement-22f427641aa0.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -6995,9 +7228,6 @@ _Type: People_
 
 - [00:00:33](/episodes/ep-sreYYcID-QY.md#t-00-00-00) [○] (Accusation) ["Eric Bolling is lying on the PBD podcast to establish the narrative that Candace..."](/statements/statement-06bd3137a057.md)
   - About: [Eric Bolling](/entities/person-eric-bolling.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:00:33](/episodes/ep-sreYYcID-QY.md#t-00-00-00) [○] (Accusation) ["Eric Bolling is lying through his teeth on PBD podcast to establish the narrativ..."](/statements/statement-bfd729f1d514.md)
-  - About: [Eric Bolling](/entities/person-eric-bolling.md)
 
 - [00:02:24](/episodes/ep-sreYYcID-QY.md#t-00-02-05) [○] (Opinion) ["In the Tyler-Lance text messages, Tyler Robinson uses the word 'squad car' which..."](/statements/statement-f8d935137fcc.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
@@ -7495,7 +7725,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Candace Owens (113)</strong></summary>
+<summary><strong class="section-title">Statements about Candace Owens (112)</strong></summary>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (7)</summary>
@@ -7750,7 +7980,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (8)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (7)</summary>
 
 - [00:22:45](/episodes/ep-2Riv3I7D0Yk.md#t-00-22-12) (Accusation) **Josh Hammer** (via quoted speech): ["Candace Owens has chosen to hijack Charlie Kirk's death to blame it on..."](/statements/statement-097b1ff3920f.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -7768,9 +7998,6 @@ _Type: People_
 
 - [00:55:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-55-04) (Claim) **Alex Jones** (via quoted speech): ["Candace Owens sent out a dead man's switch to the Tate brothers, Dave ..."](/statements/statement-e74fc96d3122.md)
   - Also about: [Andrew Tate](/entities/person-andrew-tate.md), [Dave Smith](/entities/person-dave-smith.md), [Max Blumenthal](/entities/person-max-blumenthal.md)
-
-- [00:55:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-55-04) (Claim) **Alex Jones** (via quoted speech): ["Candace Owens has sent out a dead man's switch to the Tate brothers, D..."](/statements/statement-4bae8e27fedb.md)
-  - Also about: [Dave Smith](/entities/person-dave-smith.md), [Max Blumenthal](/entities/person-max-blumenthal.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
 
 - [01:11:47](/episodes/ep-2Riv3I7D0Yk.md#t-01-11-36) (Accusation) **Candace Owens**: ["The Zionist lobby prevented Candace Owens from entering Australia even..."](/statements/statement-a978adf8b773.md)
   - Also about: [Australia](/entities/gpe-australia.md)
