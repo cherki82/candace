@@ -11,12 +11,11 @@ object: "org-american-jewish-committee"
 
 ## [Charlie Kirk](/entities/person-charlie-kirk) criticized by [American Jewish Committee](/entities/org-american-jewish-committee)
 
-### Evidence (2 mentions)
+### Evidence (1 mentions)
 
 **[Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg)**
 
 - [00:46:08](/episodes/ep-2WEHTk0Xewg#t-00-46-08): _The American Jewish Committee called—in a statement—Charlie (Charlie Kirk) an anti-Semite and quote "dangerous."_
-- [00:46:08](/episodes/ep-2WEHTk0Xewg#t-00-46-08): _The American Jewish Committee called, in a statement, Charlie Kirk an anti-Semite,_
 
 ### Related
 

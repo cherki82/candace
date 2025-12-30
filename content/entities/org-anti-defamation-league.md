@@ -139,11 +139,9 @@ _Type: Organizations_
 <summary>Criticized (3)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): "listed Charlie Kirk and his organization, TPUSA, to be extremist."
   - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): "they had listed Charlie Kirk and his organization, TPUSA, to be extremist."
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): "listed Charlie Kirk and his organization, TPUSA, to be extremist."
   - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): "they had listed Charlie Kirk and his organization, TPUSA, to be extremist."
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -176,10 +174,8 @@ _Type: Organizations_
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** criticized by this
   - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24)
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24)
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** criticized by this
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24)
   - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24)
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this

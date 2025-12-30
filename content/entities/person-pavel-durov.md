@@ -30,7 +30,6 @@ _Type: People_
 
 - **[Telegram](/entities/org-telegram.md)**
   - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:10:50](/episodes/ep-tB5SXXmd9vU.md#t-00-10-07): "Pavel Durov, the founder of Telegram, for being one of the first people"
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:10:50](/episodes/ep-tB5SXXmd9vU.md#t-00-10-07): "...I'd like to thank Pavel Durov, the founder of Telegram..."
 
 </details>
 
@@ -38,7 +37,6 @@ _Type: People_
 <summary>Referenced By (1)</summary>
 
 - **[Telegram](/entities/org-telegram.md)** founded by this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:10:50](/episodes/ep-tB5SXXmd9vU.md#t-00-10-07)
   - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:10:50](/episodes/ep-tB5SXXmd9vU.md#t-00-10-07)
 
 </details>

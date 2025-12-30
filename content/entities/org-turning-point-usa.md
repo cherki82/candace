@@ -2592,7 +2592,6 @@ _Type: Organizations_
   - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:12:26](/episodes/ep-ja26iltROkM.md#t-00-12-16): "Alex Jones, he immediately took to X live... The spokesperson for TP USA just posted"
 
 - **[Anti-Defamation League](/entities/org-anti-defamation-league.md)**
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): "listed Charlie Kirk and his organization, TPUSA, to be extremist."
   - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): "they had listed Charlie Kirk and his organization, TPUSA, to be extremist."
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -2642,7 +2641,7 @@ _Type: Organizations_
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
   - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:33:00](/episodes/ep-pc3pxRyNFZk.md#t-00-32-53): "This lawyer was introduced to me by Tyler Boyer at Turning Point USA."
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:25:04](/episodes/ep-a-e7HC6SeK8.md#t-00-24-50): "taking over for Tyler Boyer—who was the COO"
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:25:04](/episodes/ep-a-e7HC6SeK8.md#t-00-24-50): "taking over for Tyler Boyer, who was the COO"
   - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:33:07](/episodes/ep-YFmRH8p5lt0.md#t-00-32-37): "Tyler Boyer is the king of shady at Turning Point USA"
 
 - **[Cam Higby](/entities/person-cam-higby.md)**
@@ -2755,9 +2754,8 @@ _Type: Organizations_
 <summary>Headquartered In (1)</summary>
 
 - **[Phoenix](/entities/gpe-phoenix.md)**
-  - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:05:30](/episodes/ep-ZAuuSq_j2_w.md#t-00-05-21): "a live-streamed event from Charlie's Phoenix Studio."
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:29:01](/episodes/ep-his-JBjlkh8.md#t-00-28-45): "there will be a live stream here in Phoenix where we address... at our studio here in Phoenix."
   - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:05:30](/episodes/ep-ZAuuSq_j2_w.md#t-00-05-21): "We'll be live streaming... from Charlie's Phoenix Studio."
+  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:29:01](/episodes/ep-his-JBjlkh8.md#t-00-28-45): "there will be a live stream here in Phoenix where we address... at our studio here in Phoenix."
 
 </details>
 
@@ -2834,7 +2832,6 @@ _Type: Organizations_
   - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:12:26](/episodes/ep-ja26iltROkM.md#t-00-12-16)
 
 - **[Anti-Defamation League](/entities/org-anti-defamation-league.md)** criticized this
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24)
   - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24)
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this

@@ -99,9 +99,9 @@ _Type: People_
 <summary>Criticized (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:33](/episodes/ep-sreYYcID-QY.md#t-00-00-00): "a guy named Eric Bolling is just lying through his teeth on PBD... to establish this narrative... that I haven't spoken to Charlie Kirk in years."
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:33](/episodes/ep-sreYYcID-QY.md#t-00-00-00): "a guy named Eric Bolling is just lying through his teeth on PBD, the PBD podcast, to establish this narrative... that I haven't spoken to Charlie Kirk in years."
   - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:28:54](/episodes/ep-ja26iltROkM.md#t-00-28-21): "Eric Bolling did this. He said—I even... I don't know if he was even sober on that program because he said he hadn't seen me...since 2015."
+  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:23:58](/episodes/ep-aDlhjfW6hz8.md#t-00-23-17): "PBD platformed, without any pushback, Eric Bolling"
 
 </details>
 
@@ -129,7 +129,7 @@ _Type: People_
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:33](/episodes/ep-sreYYcID-QY.md#t-00-00-00)
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:33](/episodes/ep-sreYYcID-QY.md#t-00-00-00)
+  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:07](/episodes/ep-sreYYcID-QY.md#t-00-00-00)
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** has board member this
   - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:25:58](/episodes/ep-aDlhjfW6hz8.md#t-00-25-42)

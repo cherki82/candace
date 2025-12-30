@@ -3450,11 +3450,9 @@ _Type: People_
 
 - **[Bill Ackman](/entities/person-bill-ackman.md)**
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:24](/episodes/ep-sreYYcID-QY.md#t-00-00-00): "Bill Ackman, who is sending his press hounds after me."
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:24](/episodes/ep-sreYYcID-QY.md#t-00-00-00): "Bill Ackman who is sending his press hounds on me."
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:04](/episodes/ep-sreYYcID-QY.md#t-00-00-00): "We also have Bill Ackman, who is sending his press hounds after me."
 
 - **[Eric Bolling](/entities/person-eric-bolling.md)**
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:33](/episodes/ep-sreYYcID-QY.md#t-00-00-00): "a guy named Eric Bolling is just lying through his teeth on PBD... to establish this narrative... that I haven't spoken to Charlie Kirk in years."
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:33](/episodes/ep-sreYYcID-QY.md#t-00-00-00): "a guy named Eric Bolling is just lying through his teeth on PBD, the PBD podcast, to establish this narrative... that I haven't spoken to Charlie Kirk in years."
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:07](/episodes/ep-sreYYcID-QY.md#t-00-00-00): "And a guy named Eric Bolling is just lying through his teeth on PBD, the PBD podcast"
 
@@ -3667,7 +3665,6 @@ _Type: People_
   - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:01:06](/episodes/ep-mKXdKV-OBog.md#t-00-00-43): "that interview that I did with Charlie (Charlie Kirk) back when my show was on PragerU's network"
 
 - **[Ami Kozak](/entities/person-ami-kozak.md)**
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:42](/episodes/ep-ja26iltROkM.md#t-00-32-41): "the conversation that I had with Ami Kozak"
   - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:42](/episodes/ep-ja26iltROkM.md#t-00-32-41): "I hosted somebody who was a Zionist on my show, and that's what he's referring to: the conversation that I had with Ami Kozak"
 
 - **[Norman Finkelstein](/entities/person-norman-finkelstein.md)**
@@ -3676,9 +3673,8 @@ _Type: People_
   - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:15:11](/episodes/ep-LATnak75Si0.md#t-00-14-30): "when Norm Finkelstein was on our show"
 
 - **[Tim Ballard](/entities/person-tim-ballard.md)**
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:06:28](/episodes/ep-YA1FxrDWNIo.md#t-00-06-12): "I've actually interviewed him."
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:06](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): "I've actually interviewed him."
   - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:06:28](/episodes/ep-YA1FxrDWNIo.md#t-00-06-12): "I know him. I've actually interviewed him. And I used to donate to that charity because I was so moved by my interview with him when I was working for Prager University."
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:06](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): "I've actually interviewed him."
 
 - **[Phil Turney](/entities/person-phil-turney.md)**
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 01:04:06](/episodes/ep-his-JBjlkh8.md#t-01-03-25): "when we interviewed Phil Tourney of the USS Liberty."
@@ -3705,7 +3701,7 @@ _Type: People_
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
   - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:19:08](/episodes/ep-sImMM04XdWY.md#t-00-18-58): "Tucker Carlson releases an episode with me."
   - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:10:02](/episodes/ep-K1tFD7FfoCU.md#t-00-09-57): "Tucker Carlson a few weeks back had on Candace (Candace Owens)"
-  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:28:01](/episodes/ep-adJ4LNGp84I.md#t-00-27-51): "I've been on his show twice."
+  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:28:01](/episodes/ep-adJ4LNGp84I.md#t-00-27-51): "I've been on his show twice. Twice on his independent show."
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
   - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:17:37](/episodes/ep-K1tFD7FfoCU.md#t-00-16-59): "book us on Ben's (Ben Shapiro's) show"
@@ -3842,11 +3838,11 @@ _Type: People_
 
 - **[Bill Ackman](/entities/person-bill-ackman.md)** criticized this
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:24](/episodes/ep-sreYYcID-QY.md#t-00-00-00)
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:24](/episodes/ep-sreYYcID-QY.md#t-00-00-00)
+  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:25:48](/episodes/ep-aDlhjfW6hz8.md#t-00-25-42)
 
 - **[Eric Bolling](/entities/person-eric-bolling.md)** criticized this
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:33](/episodes/ep-sreYYcID-QY.md#t-00-00-00)
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:33](/episodes/ep-sreYYcID-QY.md#t-00-00-00)
+  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:28:54](/episodes/ep-ja26iltROkM.md#t-00-28-21)
 
 - **[Frank Turek](/entities/person-frank-turek.md)** criticized this
   - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:01:57](/episodes/ep-yAIb-NuUh_U.md#t-00-01-23)

@@ -11,12 +11,11 @@ object: "org-longwood-foundation"
 
 ## [Pierre S. du Pont](/entities/person-pierre-s-du-pont) founded [Longwood Foundation](/entities/org-longwood-foundation)
 
-### Evidence (2 mentions)
+### Evidence (1 mentions)
 
 **[Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU)**
 
 - [00:29:28](/episodes/ep-tB5SXXmd9vU#t-00-29-28): _legislation was passed which would provide financial support to the Longwood Foundation, a philanthropic nonprofit that was founded by Pierre S. du Pont_
-- [00:29:28](/episodes/ep-tB5SXXmd9vU#t-00-29-28): _"Longwood Foundation, a philanthropic nonprofit that was founded by Pierre S. du Pont..."_
 
 ### Related
 

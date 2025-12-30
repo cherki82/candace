@@ -99,7 +99,6 @@ _Type: People_
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
   - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:12:06](/episodes/ep-ja26iltROkM.md#t-00-11-35): "The spokesperson for TPUSA just posted"
   - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:12:26](/episodes/ep-ja26iltROkM.md#t-00-12-16): "Alex Jones, he immediately took to X live... The spokesperson for TP USA just posted"
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:12:26](/episodes/ep-ja26iltROkM.md#t-00-12-16): "Alex Jones—he immediately took to X live...he responded to that statement"
 
 </details>
 

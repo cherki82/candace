@@ -11,7 +11,7 @@ object: "person-tyler-bowyer"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) employs [Tyler Bowyer](/entities/person-tyler-bowyer)
 
-### Evidence (7 mentions)
+### Evidence (6 mentions)
 
 **[INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0)**
 
@@ -25,7 +25,6 @@ object: "person-tyler-bowyer"
 **[Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8)**
 
 - [00:24:56](/episodes/ep-a-e7HC6SeK8#t-00-24-56): _[00:24:56] And he announces that Justin Strife is going to be the new COO, taking over for Tyler Boyer, who was the COO._
-- [00:25:04](/episodes/ep-a-e7HC6SeK8#t-00-25-04): _taking over for Tyler Boyer—who was the COO_
 - [00:25:04](/episodes/ep-a-e7HC6SeK8#t-00-25-04): _taking over for Tyler Boyer, who was the COO_
 
 **[REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk)**

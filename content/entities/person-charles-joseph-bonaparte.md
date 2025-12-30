@@ -33,8 +33,6 @@ _Type: People_
 <summary>Founded (1)</summary>
 
 - **[FBI](/entities/org-fbi.md)**
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:04:29](/episodes/ep-a-e7HC6SeK8.md#t-00-04-18): "our FBI was founded by Charles Joseph Bonaparte"
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:04:29](/episodes/ep-a-e7HC6SeK8.md#t-00-04-18): "did you know that our FBI was founded by Charles Joseph Bonaparte?"
   - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:04:29](/episodes/ep-a-e7HC6SeK8.md#t-00-04-18): "...did you know that our FBI was founded by Charles Joseph Bonaparte..."
 
 </details>
@@ -43,7 +41,6 @@ _Type: People_
 <summary>Referenced By (1)</summary>
 
 - **[FBI](/entities/org-fbi.md)** founded by this
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:04:29](/episodes/ep-a-e7HC6SeK8.md#t-00-04-18)
   - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:04:29](/episodes/ep-a-e7HC6SeK8.md#t-00-04-18)
 
 </details>

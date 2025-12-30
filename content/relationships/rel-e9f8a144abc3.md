@@ -11,12 +11,11 @@ object: "org-telegram"
 
 ## [Pavel Durov](/entities/person-pavel-durov) founded [Telegram](/entities/org-telegram)
 
-### Evidence (2 mentions)
+### Evidence (1 mentions)
 
 **[Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU)**
 
 - [00:10:50](/episodes/ep-tB5SXXmd9vU#t-00-10-50): _Pavel Durov, the founder of Telegram, for being one of the first people_
-- [00:10:50](/episodes/ep-tB5SXXmd9vU#t-00-10-50): _...I'd like to thank Pavel Durov, the founder of Telegram..._
 
 ### Related
 

@@ -284,7 +284,6 @@ _Type: People_
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:24](/episodes/ep-sreYYcID-QY.md#t-00-00-00): "Bill Ackman, who is sending his press hounds after me."
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:24](/episodes/ep-sreYYcID-QY.md#t-00-00-00): "Bill Ackman who is sending his press hounds on me."
   - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:25:48](/episodes/ep-aDlhjfW6hz8.md#t-00-25-42): "Bill Ackman brought receipts. How long was that tweet?"
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
@@ -329,7 +328,7 @@ _Type: People_
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:24](/episodes/ep-sreYYcID-QY.md#t-00-00-00)
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:24](/episodes/ep-sreYYcID-QY.md#t-00-00-00)
+  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:04](/episodes/ep-sreYYcID-QY.md#t-00-00-00)
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** criticized by this
   - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:50](/episodes/ep-K5GjF53bfN4.md#t-00-02-40)

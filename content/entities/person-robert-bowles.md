@@ -74,7 +74,6 @@ _Type: People_
 
 - **[Kash Patel](/entities/person-kash-patel.md)** hired this
   - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:05:19](/episodes/ep-adJ4LNGp84I.md#t-00-05-01)
-  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:05:19](/episodes/ep-adJ4LNGp84I.md#t-00-05-01)
 
 </details>
 

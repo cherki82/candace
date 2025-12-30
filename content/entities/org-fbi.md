@@ -1327,8 +1327,6 @@ _Type: Organizations_
 <summary>Founded By (1)</summary>
 
 - **[Charles Joseph Bonaparte](/entities/person-charles-joseph-bonaparte.md)**
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:04:29](/episodes/ep-a-e7HC6SeK8.md#t-00-04-18): "our FBI was founded by Charles Joseph Bonaparte"
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:04:29](/episodes/ep-a-e7HC6SeK8.md#t-00-04-18): "did you know that our FBI was founded by Charles Joseph Bonaparte?"
   - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:04:29](/episodes/ep-a-e7HC6SeK8.md#t-00-04-18): "...did you know that our FBI was founded by Charles Joseph Bonaparte..."
 
 </details>
@@ -1363,7 +1361,6 @@ _Type: Organizations_
   - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:25:01](/episodes/ep-9k2xrAC0H88.md#t-00-24-22)
 
 - **[Charles Joseph Bonaparte](/entities/person-charles-joseph-bonaparte.md)** founded this
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:04:29](/episodes/ep-a-e7HC6SeK8.md#t-00-04-18)
   - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:04:29](/episodes/ep-a-e7HC6SeK8.md#t-00-04-18)
 
 - **[Kash Patel](/entities/person-kash-patel.md)** works for this

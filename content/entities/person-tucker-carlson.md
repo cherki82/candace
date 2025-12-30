@@ -1363,7 +1363,7 @@ _Type: People_
 - **[Candace Owens](/entities/person-candace-owens.md)**
   - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:19:08](/episodes/ep-sImMM04XdWY.md#t-00-18-58): "Tucker Carlson releases an episode with me."
   - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:10:02](/episodes/ep-K1tFD7FfoCU.md#t-00-09-57): "Tucker Carlson a few weeks back had on Candace (Candace Owens)"
-  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:28:01](/episodes/ep-adJ4LNGp84I.md#t-00-27-51): "I've been on his show twice."
+  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:28:01](/episodes/ep-adJ4LNGp84I.md#t-00-27-51): "I've been on his show twice. Twice on his independent show."
 
 - **[Nick Fuentes](/entities/person-nick-fuentes.md)**
   - [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:29:34](/episodes/ep-iHav0PPzUz8.md#t-00-29-27): "Tucker Carlson hosted Nick Fuentes on his show."

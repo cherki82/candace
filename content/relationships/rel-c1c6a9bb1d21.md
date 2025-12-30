@@ -11,12 +11,10 @@ object: "person-tyler-bowyer"
 
 ## [Donald Trump](/entities/person-donald-trump) pardoned [Tyler Bowyer](/entities/person-tyler-bowyer)
 
-### Evidence (3 mentions)
+### Evidence (1 mentions)
 
 **[Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8)**
 
-- [00:13:35](/episodes/ep-a-e7HC6SeK8#t-00-13-35): _Donald Trump pardoned him. He pardoned Tyler Boyer_
-- [00:13:35](/episodes/ep-a-e7HC6SeK8#t-00-13-35): _Donald Trump pardoned him. He pardoned Tyler Boyer a couple of weeks ago_
 - [00:13:35](/episodes/ep-a-e7HC6SeK8#t-00-13-35): _...actually Donald Trump pardoned him. He pardoned Tyler Boyer a couple of weeks ago._
 
 ### Related

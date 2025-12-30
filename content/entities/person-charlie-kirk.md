@@ -8214,14 +8214,11 @@ _Type: People_
 
 - **[American Jewish Committee](/entities/org-american-jewish-committee.md)**
   - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:46:08](/episodes/ep-2WEHTk0Xewg.md#t-00-46-02): "The American Jewish Committee called—in a statement—Charlie (Charlie Kirk) an anti-Semite and quote "dangerous.""
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:46:08](/episodes/ep-2WEHTk0Xewg.md#t-00-46-02): "The American Jewish Committee called, in a statement, Charlie Kirk an anti-Semite,"
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)**
   - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:15:05](/episodes/ep-q7f8r-THr84.md#t-00-14-45): "In one conversation before the shooting, Robinson mentioned that Charlie Kirk would be holding this event at UVU, which Robinson said was a stupid venue for the event. Robinson accused Kirk of spreading hate."
-  - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:15:05](/episodes/ep-q7f8r-THr84.md#t-00-14-45): "Robinson accused Kirk of spreading hate."
 
 - **[Anti-Defamation League](/entities/org-anti-defamation-league.md)**
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): "listed Charlie Kirk and his organization, TPUSA, to be extremist."
   - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): "they had listed Charlie Kirk and his organization, TPUSA, to be extremist."
 
 - **[Seth Dillon](/entities/person-seth-dillon.md)**
@@ -8258,7 +8255,6 @@ _Type: People_
 
 - **[Michael McCoy](/entities/person-mikey-mccoy.md)**
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:04:35](/episodes/ep-his-JBjlkh8.md#t-00-04-17): "She has suggested that Michael McCoy, Charlie Kirk's chief of staff,"
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:04:35](/episodes/ep-his-JBjlkh8.md#t-00-04-17): "She has suggested that Michael McCoy, Charlie's chief of staff,"
 
 - **[Alex Clark](/entities/person-alex-clark.md)**
   - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:07:54](/episodes/ep-ozWJz2spBcI.md#t-00-07-35): "Her boss, Charlie Kirk, had been shot"
@@ -8539,14 +8535,13 @@ _Type: People_
 
 - **[American Jewish Committee](/entities/org-american-jewish-committee.md)** criticized this
   - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:46:08](/episodes/ep-2WEHTk0Xewg.md#t-00-46-02)
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:46:08](/episodes/ep-2WEHTk0Xewg.md#t-00-46-02)
+  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:46:34](/episodes/ep-2WEHTk0Xewg.md#t-00-46-02)
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)** criticized this
   - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:15:05](/episodes/ep-q7f8r-THr84.md#t-00-14-45)
-  - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:15:05](/episodes/ep-q7f8r-THr84.md#t-00-14-45)
+  - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:15:08](/episodes/ep-q7f8r-THr84.md#t-00-14-45)
 
 - **[Anti-Defamation League](/entities/org-anti-defamation-league.md)** criticized this
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24)
   - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24)
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** criticized this
@@ -8705,7 +8700,6 @@ _Type: People_
   - [To My Friend, Charlie Kirk. @ 00:01:43](/episodes/ep-_dRaEO47-co.md#t-00-01-20)
 
 - **[Michael McCoy](/entities/person-mikey-mccoy.md)** works for this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:04:35](/episodes/ep-his-JBjlkh8.md#t-00-04-17)
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:04:35](/episodes/ep-his-JBjlkh8.md#t-00-04-17)
 
 - **[Alex Clark](/entities/person-alex-clark.md)** works for this

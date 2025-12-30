@@ -61,7 +61,6 @@ _Type: Places_
 
 - **[Minnesota](/entities/gpe-minnesota.md)**
   - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:16:44](/episodes/ep-tB5SXXmd9vU.md#t-00-16-09): "...Force Base. And that joint exercise took place in Minnesota at Camp Ripley, and that ran just for a couple of days until August 27th, and that was known as Ope..."
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:23:52](/episodes/ep-a-e7HC6SeK8.md#t-00-23-23): "...takes place between civilians and military men in Minnesota at Camp Ripley. Then we have the first public sign that went out on August 27th. August 27th, that'..."
   - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:23:52](/episodes/ep-a-e7HC6SeK8.md#t-00-23-23): "...ompleted their training. And on August 24th–27th, Operation Valhalla takes place between civilians and military men in Minnesota at Camp Ripley. Then we have the first ..."
 
 </details>

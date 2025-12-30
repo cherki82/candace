@@ -771,7 +771,6 @@ _Type: People_
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:04:35](/episodes/ep-his-JBjlkh8.md#t-00-04-17): "She has suggested that Michael McCoy, Charlie Kirk's chief of staff,"
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:04:35](/episodes/ep-his-JBjlkh8.md#t-00-04-17): "She has suggested that Michael McCoy, Charlie's chief of staff,"
 
 </details>
 
@@ -786,7 +785,6 @@ _Type: People_
   - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:08:57](/episodes/ep-c5BcKF91iec.md#t-00-08-40)
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** employs this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:04:35](/episodes/ep-his-JBjlkh8.md#t-00-04-17)
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:04:35](/episodes/ep-his-JBjlkh8.md#t-00-04-17)
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** has chief of staff this

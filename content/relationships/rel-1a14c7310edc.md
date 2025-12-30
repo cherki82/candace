@@ -11,7 +11,7 @@ object: "person-tucker-carlson"
 
 ## [Candace Owens](/entities/person-candace-owens) interviewed by [Tucker Carlson](/entities/person-tucker-carlson)
 
-### Evidence (4 mentions)
+### Evidence (3 mentions)
 
 **[MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU)**
 
@@ -19,7 +19,6 @@ object: "person-tucker-carlson"
 
 **[BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I)**
 
-- [00:28:01](/episodes/ep-adJ4LNGp84I#t-00-28-01): _I've been on his show twice._
 - [00:28:01](/episodes/ep-adJ4LNGp84I#t-00-28-01): _I've been on his show twice. Twice on his independent show._
 
 **[Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY)**

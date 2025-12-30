@@ -95,7 +95,6 @@ _Type: People_
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
   - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:01:01](/episodes/ep-vwG1juDCQZQ.md#t-00-00-45): "the heavily anticipated interview with Erika Kirk (Charlie Kirk's widow) on Fox News with Jesse Watters."
   - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:00:36](/episodes/ep-K1tFD7FfoCU.md#t-00-00-00): "Erika Kirk sat down with Jesse Watters (Jesse Watters)."
-  - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:01:01](/episodes/ep-vwG1juDCQZQ.md#t-00-00-45): "the heavily anticipated interview with Erika Kirk on Fox News with Jesse Watters"
 
 </details>
 

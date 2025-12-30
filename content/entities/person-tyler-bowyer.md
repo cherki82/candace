@@ -287,8 +287,8 @@ _Type: People_
 
 - **[Stacey Sheridan](/entities/person-stacey-sheridan.md)**
   - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:43](/episodes/ep-c5BcKF91iec.md#t-00-04-27): "All of those people, by the way, were actually brought in by Tyler Boyer."
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:27](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): "She was brought in specifically by Tyler Boyer"
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:27](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): "She was brought in specifically by Tyler Boyer to raise money"
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:27](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): "...she was brought in specifically by Tyler Boyer to raise money and to take Turning Point to the next level."
+  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:01:09](/episodes/ep-c5BcKF91iec.md#t-00-00-45): "She's like the chief money person, essentially, at Turning Point USA. She was brought in to reel in the big donors. I remember exactly when that happened. All of those people, by the way, were actually brought in by Tyler Bowyer."
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
   - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:43](/episodes/ep-c5BcKF91iec.md#t-00-04-27): "All of those people, by the way, were actually brought in by Tyler Boyer."
@@ -307,8 +307,6 @@ _Type: People_
 <summary>Pardoned By (1)</summary>
 
 - **[Donald Trump](/entities/person-donald-trump.md)**
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:35](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): "Donald Trump pardoned him. He pardoned Tyler Boyer"
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:35](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): "Donald Trump pardoned him. He pardoned Tyler Boyer a couple of weeks ago"
   - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:35](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): "...actually Donald Trump pardoned him. He pardoned Tyler Boyer a couple of weeks ago."
 
 </details>
@@ -318,7 +316,7 @@ _Type: People_
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
   - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:33:00](/episodes/ep-pc3pxRyNFZk.md#t-00-32-53): "This lawyer was introduced to me by Tyler Boyer at Turning Point USA."
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:25:04](/episodes/ep-a-e7HC6SeK8.md#t-00-24-50): "taking over for Tyler Boyer—who was the COO"
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:25:04](/episodes/ep-a-e7HC6SeK8.md#t-00-24-50): "taking over for Tyler Boyer, who was the COO"
   - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:33:07](/episodes/ep-YFmRH8p5lt0.md#t-00-32-37): "Tyler Boyer is the king of shady at Turning Point USA"
 
 - **[TP Action](/entities/org-tp-action.md)**
@@ -351,7 +349,6 @@ _Type: People_
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:09:26](/episodes/ep-his-JBjlkh8.md#t-00-09-17)
 
 - **[Donald Trump](/entities/person-donald-trump.md)** pardoned this
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:35](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20)
   - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:35](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20)
 
 </details>

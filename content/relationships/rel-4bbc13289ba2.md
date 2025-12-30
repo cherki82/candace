@@ -11,7 +11,7 @@ object: "person-brigitte-macron"
 
 ## [Candace Owens](/entities/person-candace-owens) sued by [Brigitte Macron](/entities/person-brigitte-macron)
 
-### Evidence (10 mentions)
+### Evidence (8 mentions)
 
 **[From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o)**
 
@@ -19,8 +19,6 @@ object: "person-brigitte-macron"
 
 **[Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8)**
 
-- [00:01:56](/episodes/ep-a-e7HC6SeK8#t-00-01-56): _my lawsuit, me being sued by Brigitte Macron_
-- [00:01:56](/episodes/ep-a-e7HC6SeK8#t-00-01-56): _me being filed by Brigitte Macron, me being sued by Brigitte and Emmanuel Macron_
 - [00:01:56](/episodes/ep-a-e7HC6SeK8#t-00-01-56): _...my lawsuit, me being filed by Brigitte Macron, me being sued by Brigitte and Emmanuel Macron..._
 
 **[BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8)**

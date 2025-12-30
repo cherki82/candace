@@ -90,8 +90,7 @@ _Type: People_
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
   - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:43](/episodes/ep-c5BcKF91iec.md#t-00-04-27): "All of those people, by the way, were actually brought in by Tyler Boyer."
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:27](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): "She was brought in specifically by Tyler Boyer"
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:27](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): "She was brought in specifically by Tyler Boyer to raise money"
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:27](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): "...she was brought in specifically by Tyler Boyer to raise money and to take Turning Point to the next level."
 
 </details>
 

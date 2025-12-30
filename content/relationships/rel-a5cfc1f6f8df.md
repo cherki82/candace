@@ -11,12 +11,10 @@ object: "person-tyler-bowyer"
 
 ## [Stacey Sheridan](/entities/person-stacey-sheridan) hired by [Tyler Bowyer](/entities/person-tyler-bowyer)
 
-### Evidence (4 mentions)
+### Evidence (2 mentions)
 
 **[Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8)**
 
-- [00:13:27](/episodes/ep-a-e7HC6SeK8#t-00-13-27): _She was brought in specifically by Tyler Boyer_
-- [00:13:27](/episodes/ep-a-e7HC6SeK8#t-00-13-27): _She was brought in specifically by Tyler Boyer to raise money_
 - [00:13:27](/episodes/ep-a-e7HC6SeK8#t-00-13-27): _...she was brought in specifically by Tyler Boyer to raise money and to take Turning Point to the next level._
 
 **[Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec)**

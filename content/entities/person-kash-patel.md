@@ -562,7 +562,6 @@ _Type: People_
 <summary>Hired (1)</summary>
 
 - **[Robert Bowles](/entities/person-robert-bowles.md)**
-  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:05:19](/episodes/ep-adJ4LNGp84I.md#t-00-05-01): "Kash Patel... installs a person that has a long tenure in DC, Robert Bowles."
   - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:05:19](/episodes/ep-adJ4LNGp84I.md#t-00-05-01): "Kash Patel, I told you, cleaned house at the State Bureau. He then installs a person that has a long tenure in DC, Robert Bowles."
 
 </details>

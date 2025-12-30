@@ -33,7 +33,6 @@ _Type: Organizations_
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
   - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:46:08](/episodes/ep-2WEHTk0Xewg.md#t-00-46-02): "The American Jewish Committee called—in a statement—Charlie (Charlie Kirk) an anti-Semite and quote "dangerous.""
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:46:08](/episodes/ep-2WEHTk0Xewg.md#t-00-46-02): "The American Jewish Committee called, in a statement, Charlie Kirk an anti-Semite,"
   - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:46:34](/episodes/ep-2WEHTk0Xewg.md#t-00-46-02): "The American Jewish Committee called Charlie Kirk an anti-Semite and quote dangerous"
 
 </details>
@@ -42,7 +41,6 @@ _Type: Organizations_
 <summary>Referenced By (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** criticized by this
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:46:08](/episodes/ep-2WEHTk0Xewg.md#t-00-46-02)
   - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:46:08](/episodes/ep-2WEHTk0Xewg.md#t-00-46-02)
 
 </details>

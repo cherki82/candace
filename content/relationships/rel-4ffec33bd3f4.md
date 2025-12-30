@@ -11,12 +11,11 @@ object: "person-charlie-kirk"
 
 ## [Michael McCoy](/entities/person-mikey-mccoy) works for [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (2 mentions)
+### Evidence (1 mentions)
 
 **[BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8)**
 
 - [00:04:35](/episodes/ep-his-JBjlkh8#t-00-04-35): _She has suggested that Michael McCoy, Charlie Kirk's chief of staff,_
-- [00:04:35](/episodes/ep-his-JBjlkh8#t-00-04-35): _She has suggested that Michael McCoy, Charlie's chief of staff,_
 
 ### Related
 

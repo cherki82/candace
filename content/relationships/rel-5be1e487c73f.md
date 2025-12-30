@@ -11,12 +11,11 @@ object: "person-tyler-robinson"
 
 ## [Charlie Kirk](/entities/person-charlie-kirk) criticized by [Tyler Robinson](/entities/person-tyler-robinson)
 
-### Evidence (2 mentions)
+### Evidence (1 mentions)
 
 **[Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84)**
 
 - [00:15:05](/episodes/ep-q7f8r-THr84#t-00-15-05): _In one conversation before the shooting, Robinson mentioned that Charlie Kirk would be holding this event at UVU, which Robinson said was a stupid venue for the event. Robinson accused Kirk of spreading hate._
-- [00:15:05](/episodes/ep-q7f8r-THr84#t-00-15-05): _Robinson accused Kirk of spreading hate._
 
 ### Related
 

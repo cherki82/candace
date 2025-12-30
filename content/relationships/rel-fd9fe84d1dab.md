@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Bill Ackman](/entities/person-bill-ackman) criticized [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (3 mentions)
+### Evidence (2 mentions)
 
 **[Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8)**
 
@@ -20,7 +20,6 @@ object: "person-candace-owens"
 **[EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY)**
 
 - [00:00:24](/episodes/ep-sreYYcID-QY#t-00-00-24): _Bill Ackman, who is sending his press hounds after me._
-- [00:00:24](/episodes/ep-sreYYcID-QY#t-00-00-24): _Bill Ackman who is sending his press hounds on me._
 
 ### Related
 

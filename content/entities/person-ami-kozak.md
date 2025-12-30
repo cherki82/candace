@@ -38,7 +38,6 @@ _Type: People_
 
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed this
   - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:42](/episodes/ep-ja26iltROkM.md#t-00-32-41)
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:42](/episodes/ep-ja26iltROkM.md#t-00-32-41)
 
 </details>
 

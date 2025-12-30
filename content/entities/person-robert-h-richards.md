@@ -33,8 +33,6 @@ _Type: People_
 <summary>Parent Of (1)</summary>
 
 - **[Robert Richards the Fourth](/entities/person-robert-richards-the-fourth.md)**
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:08:27](/episodes/ep-a-e7HC6SeK8.md#t-00-07-45): "his father is Robert H. Richards"
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:08:27](/episodes/ep-a-e7HC6SeK8.md#t-00-07-45): "his great-grandfather is the DuPont family patriarch, Irénée du Pont, and his father is Robert H. Richards"
   - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:08:27](/episodes/ep-a-e7HC6SeK8.md#t-00-07-45): "...his great-grandfather is the DuPont family patriarch, Irénée du Pont, and his father is Robert H. Richards, a retired partner in the Richards, Layton & Finger law firm."
 
 </details>
@@ -51,7 +49,6 @@ _Type: People_
 <summary>Referenced By (2)</summary>
 
 - **[Robert Richards the Fourth](/entities/person-robert-richards-the-fourth.md)** child of this
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:08:27](/episodes/ep-a-e7HC6SeK8.md#t-00-07-45)
   - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:08:27](/episodes/ep-a-e7HC6SeK8.md#t-00-07-45)
 
 - **[Richards, Layton & Finger](/entities/org-richards-layton-finger.md)** employs this

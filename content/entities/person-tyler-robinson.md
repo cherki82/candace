@@ -1219,7 +1219,6 @@ _Type: People_
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
   - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:15:05](/episodes/ep-q7f8r-THr84.md#t-00-14-45): "In one conversation before the shooting, Robinson mentioned that Charlie Kirk would be holding this event at UVU, which Robinson said was a stupid venue for the event. Robinson accused Kirk of spreading hate."
-  - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:15:05](/episodes/ep-q7f8r-THr84.md#t-00-14-45): "Robinson accused Kirk of spreading hate."
   - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:15:08](/episodes/ep-q7f8r-THr84.md#t-00-14-45): "Robinson accused Kirk of spreading hate."
 
 </details>
@@ -1242,7 +1241,6 @@ _Type: People_
   - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:49:27](/episodes/ep-czVBmqZP6Ss.md#t-00-49-18)
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** criticized by this
-  - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:15:05](/episodes/ep-q7f8r-THr84.md#t-00-14-45)
   - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:15:05](/episodes/ep-q7f8r-THr84.md#t-00-14-45)
 
 </details>

@@ -206,7 +206,6 @@ _Type: Places_
 
 - **[Bruce Bevins](/entities/person-bruce-bevins.md)** works for this
   - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:15:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-15-19)
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:15:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-15-19)
 
 - **[Captain Adam Neff](/entities/person-captain-adam-neff.md)** works for this
   - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:49:24](/episodes/ep-ewBzjVe3LNQ.md#t-00-48-59)

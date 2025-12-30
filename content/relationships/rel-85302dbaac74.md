@@ -11,7 +11,7 @@ object: "person-mikey-mccoy"
 
 ## [Pastor Rob McCoy](/entities/person-rob-mccoy) parent of [Mikey McCoy](/entities/person-mikey-mccoy)
 
-### Evidence (6 mentions)
+### Evidence (5 mentions)
 
 **[The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4)**
 
@@ -32,7 +32,6 @@ object: "person-mikey-mccoy"
 **[BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8)**
 
 - [00:05:25](/episodes/ep-his-JBjlkh8#t-00-05-25): _his own father, Rob McCoy—who I think is highly suspicious_
-- [00:05:25](/episodes/ep-his-JBjlkh8#t-00-05-25): _playing the words of his own father, Rob McCoy..._
 
 ### Related
 

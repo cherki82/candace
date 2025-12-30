@@ -801,8 +801,6 @@ _Type: People_
 <summary>Pardoned (1)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:35](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): "Donald Trump pardoned him. He pardoned Tyler Boyer"
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:35](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): "Donald Trump pardoned him. He pardoned Tyler Boyer a couple of weeks ago"
   - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:35](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): "...actually Donald Trump pardoned him. He pardoned Tyler Boyer a couple of weeks ago."
 
 </details>
@@ -863,7 +861,6 @@ _Type: People_
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:12:23](/episodes/ep-sreYYcID-QY.md#t-00-11-44)
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** pardoned by this
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:35](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20)
   - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:35](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20)
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** political ally of this
