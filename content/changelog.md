@@ -5,6 +5,19 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2025-12-30 11:13:52
+
+**Added 1 new relationship(s)**
+
+**Totals:**
+- Episodes: 52
+- Entities: 1060
+- Events: 548
+- Claims: 1460
+- Relationships: 953
+
+---
+
 ## 2025-12-30 11:07:23
 
 No data changes detected (regeneration only)

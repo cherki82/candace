@@ -65,6 +65,14 @@ _Type: People_
 </details>
 
 <details>
+<summary>Criticized (1)</summary>
+
+- **[Donald Trump](/entities/person-donald-trump.md)**
+  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:12:23](/episodes/ep-sreYYcID-QY.md#t-00-11-44): "When he was going on his rant—if you watch the rest of it—when he says something's not right, he says people who are close to Donald Trump in the first administration cannot get close to him."
+
+</details>
+
+<details>
 <summary>Referenced By (2)</summary>
 
 - **[Donald Trump](/entities/person-donald-trump.md)** criticized by this

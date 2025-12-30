@@ -843,7 +843,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (8)</summary>
+<summary>Referenced By (9)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** appeared with this
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:10:11](/episodes/ep-sreYYcID-QY.md#t-00-09-40)
@@ -858,6 +858,9 @@ _Type: People_
   - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:08:30](/episodes/ep-r1PS67aRmcA.md#t-00-07-46)
 
 - **[Michael Savage](/entities/person-michael-savage.md)** critic of this
+  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:12:23](/episodes/ep-sreYYcID-QY.md#t-00-11-44)
+
+- **[Michael Savage](/entities/person-michael-savage.md)** criticized this
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:12:23](/episodes/ep-sreYYcID-QY.md#t-00-11-44)
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** pardoned by this

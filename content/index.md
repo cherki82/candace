@@ -16,7 +16,7 @@ This project uses AI to automatically transcribe episodes, extract entities (peo
 - **[Entities](/index/entities)** - 1060 people, organizations, and concepts
 - **[Timeline](/index/timeline)** - 548 events in chronological order
 - **[Statements](/index/statements)** - 1434 attributed statements
-- **[Relationships](/index/relationships)** - 952 entity relationships
+- **[Relationships](/index/relationships)** - 953 entity relationships
 
 ---
 
@@ -24,4 +24,4 @@ This project uses AI to automatically transcribe episodes, extract entities (peo
 > Information should be independently verified. Entity identifications and statement
 > extractions may contain errors.
 
-*Last regenerated: 2025-12-30 11:07:22*
+*Last regenerated: 2025-12-30 11:13:52*
