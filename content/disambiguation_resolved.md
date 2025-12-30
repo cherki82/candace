@@ -1,6 +1,6 @@
 # Entity Disambiguation - Resolved Mentions
 
-Generated: 2025-12-30 08:53:32
+Generated: 2025-12-30 10:42:45
 
 **9 ambiguous mentions** were automatically resolved using context.
 
@@ -10,7 +10,7 @@ Review these to verify the disambiguation was correct.
 
 ## `Andrew` (1 resolved)
 
-**Candidates:** Andrew Kolvet, Andrew Klavan
+**Candidates:** Andrew Klavan, Andrew Kolvet
 
 | Episode | Location | Resolved To | Context |
 |---------|----------|-------------|--------|
@@ -18,7 +18,7 @@ Review these to verify the disambiguation was correct.
 
 ## `Macron` (8 resolved)
 
-**Candidates:** Emmanuel Macron, Brigitte Macron
+**Candidates:** Brigitte Macron, Emmanuel Macron
 
 | Episode | Location | Resolved To | Context |
 |---------|----------|-------------|--------|
