@@ -11,7 +11,12 @@ export const sharedPageComponents: SharedLayout = {
       href: "https://buymeacoffee.com/cherki",
     }),
   ],
-  afterBody: [Component.Share(), Component.PageFilter(), Component.AnchorHighlight()],
+  afterBody: [
+    Component.MobileOnly(Component.PagefindSearch()),
+    Component.Share(),
+    Component.PageFilter(),
+    Component.AnchorHighlight(),
+  ],
   footer: Component.Footer({
     links: {
       "☕ Support This Project": "https://buymeacoffee.com/cherki",
@@ -68,6 +73,7 @@ export const defaultContentPageLayout: PageLayout = {
       })
     ),
     Component.DesktopOnly(MainNavigation),
+    Component.DesktopOnly(Component.PagefindSearch()),
   ],
   right: [],
 }
@@ -106,6 +112,7 @@ export const defaultListPageLayout: PageLayout = {
       })
     ),
     Component.DesktopOnly(MainNavigation),
+    Component.DesktopOnly(Component.PagefindSearch()),
   ],
   right: [],
 }

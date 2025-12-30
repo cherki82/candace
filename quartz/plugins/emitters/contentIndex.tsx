@@ -103,13 +103,18 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
         const slug = file.data.slug!
         const date = getDate(ctx.cfg.configuration, file.data) ?? new Date()
         if (opts?.includeEmptyFiles || (file.data.text && file.data.text !== "")) {
+          // Note: Full-text search is handled by Pagefind (chunked loading).
+          // contentIndex only needs minimal content for FlexSearch title/tag lookups.
+          // This keeps the index small (~1MB instead of 30MB+).
+          const fullText = file.data.text ?? ""
+          const contentPreview = fullText.substring(0, 200)
           linkIndex.set(slug, {
             slug,
             filePath: file.data.relativePath!,
             title: file.data.frontmatter?.title!,
             links: file.data.links ?? [],
             tags: file.data.frontmatter?.tags ?? [],
-            content: file.data.text ?? "",
+            content: contentPreview,
             richContent: opts?.rssFullHtml
               ? escapeHTML(toHtml(tree as Root, { allowDangerousHtml: true }))
               : undefined,
