@@ -1,6 +1,6 @@
 ---
 title: "Israel"
-description: "Israel (Places) - 657 mentions"
+description: "Israel (Places) - 654 mentions"
 id: "gpe-israel"
 type: "GPE"
 aliases:
@@ -21,10 +21,7 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (14 mentions)</summary>
-
-**[00:00:42](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-israel-t-00-00-42)**
-> "I grow more certain that Israel might be involved with 9/10"
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (13 mentions)</summary>
 
 **[00:00:42](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-israel-t-00-00-42)**
 > "...aks, I grow more certain that Israel might be involved with 9/10."
@@ -68,10 +65,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3 mentions)</summary>
-
-**[00:48:20](/episodes/ep-9k2xrAC0H88.md#ent-gpe-israel-t-00-48-20)**
-> "I do feel confident in stating that those Egyptian planes are linked to Israel"
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
 
 **[00:48:20](/episodes/ep-9k2xrAC0H88.md#ent-gpe-israel-t-00-48-20)**
 > "...Egyptian planes are linked to Israel and that fully explains the mass freakout so we h..."
@@ -82,7 +76,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (15 mentions)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (14 mentions)</summary>
 
 **[00:00:04](/episodes/ep-es7PWdFGoFI.md#ent-gpe-israel-t-00-00-00)**
 > "Israel does have a right to defend itself"
@@ -92,9 +86,6 @@ _Type: Places_
 
 **[00:07:48](/episodes/ep-es7PWdFGoFI.md#ent-gpe-israel-t-00-07-21)**
 > "...e going to be the reason that Israel gets TikTok because you guys are acting a fool al..."
-
-**[00:08:38](/episodes/ep-es7PWdFGoFI.md#ent-gpe-israel-t-00-08-38)**
-> "... are going to present the pro-Israel cause and talk about anti-Semitism and talk about..."
 
 **[00:08:38](/episodes/ep-es7PWdFGoFI.md#ent-gpe-israel-t-00-08-38)**
 > "...that are going to present the pro-Israel cause and talk about anti-Semitism and talk about..."

@@ -1,6 +1,6 @@
 ---
 title: "Thomas Sowell"
-description: "Thomas Sowell (People) - 15 mentions"
+description: "Thomas Sowell (People) - 13 mentions"
 id: "person-thomas-sowell"
 type: "PERSON"
 ---
@@ -13,10 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (12 mentions)</summary>
-
-**[00:03:23](/episodes/ep-w1oqQbR_bYs.md#ent-person-thomas-sowell-t-00-03-11)**
-> "I'm gonna tell you a story about Thomas Sowell"
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (10 mentions)</summary>
 
 **[00:03:23](/episodes/ep-w1oqQbR_bYs.md#ent-person-thomas-sowell-t-00-03-11)**
 > "... gonna tell you a story about Thomas Sowell."
@@ -26,9 +23,6 @@ _Type: People_
 
 **[00:08:49](/episodes/ep-w1oqQbR_bYs.md#ent-person-thomas-sowell-t-00-08-43)**
 > "... that it was my dream to meet Thomas Sowell, that when I first got into politics, I read a to..."
-
-**[00:08:49](/episodes/ep-w1oqQbR_bYs.md#ent-person-thomas-sowell-t-00-08-43)**
-> "...nto politics, I read a ton of Thomas Sowell books and I had tried many times to meet him."
 
 **[00:09:00](/episodes/ep-w1oqQbR_bYs.md#ent-person-thomas-sowell-t-00-08-43)**
 > "...but I really looked up to Dr. Thomas Sowell."

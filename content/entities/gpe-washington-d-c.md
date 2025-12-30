@@ -1,6 +1,6 @@
 ---
 title: "Washington, D.C."
-description: "Washington, D.C. (Places) - 14 mentions"
+description: "Washington, D.C. (Places) - 13 mentions"
 id: "gpe-washington-d-c"
 type: "GPE"
 aliases:
@@ -19,10 +19,7 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (6 mentions)</summary>
-
-**[00:35:25](/episodes/ep-w1oqQbR_bYs.md#t-00-34-58)**
-> "I was returning to Washington DC"
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (5 mentions)</summary>
 
 **[00:35:25](/episodes/ep-w1oqQbR_bYs.md#t-00-34-58)**
 > "...I was returning to Washington DC from my district and voting on the floor of the H..."

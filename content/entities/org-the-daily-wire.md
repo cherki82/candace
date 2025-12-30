@@ -1,6 +1,6 @@
 ---
 title: "The Daily Wire"
-description: "The Daily Wire (Organizations) - 58 mentions"
+description: "The Daily Wire (Organizations) - 53 mentions"
 id: "org-the-daily-wire"
 type: "ORG"
 aliases:
@@ -18,34 +18,22 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (16 mentions)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (11 mentions)</summary>
 
 **[00:05:40](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-daily-wire-t-00-05-18)**
 > "...ockingly I'm not, nobody from the Daily Wire steps in to manage the situation."
 
-**[00:05:40](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-daily-wire-t-00-05-18)**
-> "...ngly I'm not, nobody from the Daily Wire steps in to manage the situation."
-
 **[00:05:59](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-daily-wire-t-00-05-59)**
 > "...'re not getting anything from the Daily Wire."
 
-**[00:05:59](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-daily-wire-t-00-05-59)**
-> "...not getting anything from the Daily Wire."
-
 **[00:06:11](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-daily-wire-t-00-05-59)**
 > "My PR was the internal PR at the Daily Wire."
-
-**[00:06:11](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-daily-wire-t-00-05-59)**
-> "...PR was the internal PR at the Daily Wire."
 
 **[00:07:56](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-daily-wire-t-00-07-19)**
 > "I got approval from Daily Wire."
 
 **[00:08:14](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-daily-wire-t-00-08-00)**
 > "...ly impact how people perceive the Daily Wire."
-
-**[00:08:14](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-daily-wire-t-00-08-00)**
-> "...mpact how people perceive the Daily Wire."
 
 **[00:10:31](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-daily-wire-t-00-10-31)**
 > "I'm working at the Daily Wire at this moment, and I'm about to give birth in th..."
@@ -58,9 +46,6 @@ _Type: Organizations_
 
 **[00:42:01](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-daily-wire-t-00-41-49)**
 > "...ry long time and he works for the Daily Wire."
-
-**[00:42:01](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-daily-wire-t-00-41-49)**
-> "...ong time and he works for the Daily Wire."
 
 **[00:42:51](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-daily-wire-t-00-42-27)**
 > "...he does the morning wire up a daily wire."

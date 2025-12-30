@@ -1,6 +1,6 @@
 ---
 title: "Mossad"
-description: "Mossad (Organizations) - 33 mentions"
+description: "Mossad (Organizations) - 32 mentions"
 id: "org-mossad"
 type: "ORG"
 ---
@@ -13,10 +13,7 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (4 mentions)</summary>
-
-**[00:19:28](/episodes/ep-w1oqQbR_bYs.md#ent-org-mossad-t-00-19-05)**
-> "spew absolutely baseless trash implicating everyone from French intelligence to Mossad"
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3 mentions)</summary>
 
 **[00:19:28](/episodes/ep-w1oqQbR_bYs.md#ent-org-mossad-t-00-19-05)**
 > "...e from French intelligence to Mossad to members of TPUSA in Charlie's murder or a cove..."

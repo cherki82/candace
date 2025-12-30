@@ -1,6 +1,6 @@
 ---
 title: "Kash Patel"
-description: "Kash Patel (People) - 121 mentions"
+description: "Kash Patel (People) - 118 mentions"
 id: "person-kash-patel"
 type: "PERSON"
 aliases:
@@ -33,10 +33,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (11 mentions)</summary>
-
-**[00:02:25](/episodes/ep-9k2xrAC0H88.md#ent-person-kash-patel-t-00-02-01)**
-> "That's how much of a disaster this is going to be for Kash Patel"
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (8 mentions)</summary>
 
 **[00:02:25](/episodes/ep-9k2xrAC0H88.md#ent-person-kash-patel-t-00-02-01)**
 > "...ow much it is going to be for Kash Patel when we get through with this episode, because fe..."
@@ -48,9 +45,6 @@ _Type: People_
 > "..., is the home of FBI Director Kash Patel."
 
 **[00:38:52](/episodes/ep-9k2xrAC0H88.md#ent-person-kash-patel-t-00-38-25)**
-> "He mentions there Kash Patel obviously we don't have on our fingertips Kash Pa..."
-
-**[00:38:52](/episodes/ep-9k2xrAC0H88.md#ent-person-kash-patel-t-00-38-25)**
 > "... don't have on our fingertips Kash Patel's schedule but it is intriguing that this flight as..."
 
 **[01:01:23](/episodes/ep-9k2xrAC0H88.md#ent-person-kash-patel-t-01-01-17)**
@@ -58,9 +52,6 @@ _Type: People_
 
 **[01:01:31](/episodes/ep-9k2xrAC0H88.md#ent-person-kash-patel-t-01-01-17)**
 > "If we can place Kash Patel, if you guys can help place Kash Patel on the 9th..."
-
-**[01:01:31](/episodes/ep-9k2xrAC0H88.md#ent-person-kash-patel-t-01-01-17)**
-> "...l, if you guys can help place Kash Patel on the 9th."
 
 **[01:01:36](/episodes/ep-9k2xrAC0H88.md#ent-person-kash-patel-t-01-01-17)**
 > "If you guys can help place Kash Patel on August 25th."

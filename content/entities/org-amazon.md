@@ -1,6 +1,6 @@
 ---
 title: "Amazon"
-description: "Amazon (Organizations) - 25 mentions"
+description: "Amazon (Organizations) - 24 mentions"
 id: "org-amazon"
 type: "ORG"
 aliases:
@@ -18,13 +18,10 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
 
 **[00:50:25](/episodes/ep-w1oqQbR_bYs.md#ent-org-amazon-t-00-50-07)**
 > "if you would like to purchase my book for Christmas, you can do so on Amazon"
-
-**[00:50:25](/episodes/ep-w1oqQbR_bYs.md#ent-org-amazon-t-00-50-07)**
-> "...r Christmas, you can do so on Amazon now."
 
 </details>
 

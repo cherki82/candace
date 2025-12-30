@@ -1,6 +1,6 @@
 ---
 title: "Las Vegas"
-description: "Las Vegas (Places) - 38 mentions"
+description: "Las Vegas (Places) - 28 mentions"
 id: "gpe-las-vegas"
 type: "GPE"
 aliases:
@@ -17,16 +17,13 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (9 mentions)</summary>
-
-**[00:34:08](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-las-vegas-t-00-33-40)**
-> "he thought that he saw the congressman from Vegas, Mark Amodei"
-
-**[00:33:57](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-las-vegas-t-00-33-40)**
-> "...t he saw the congressman from Vegas, Mark Amodei."
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (6 mentions)</summary>
 
 **[00:34:08](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-las-vegas-t-00-33-40)**
 > "...ay regarding the call sign in Vegas, we keep telling you that call sign at various ti..."
+
+**[00:33:57](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-las-vegas-t-00-33-40)**
+> "...t he saw the congressman from Vegas, Mark Amodei."
 
 **[00:34:20](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-las-vegas-t-00-33-40)**
 > "Well, 702 is Vegas."
@@ -35,16 +32,10 @@ _Type: Places_
 > "Obviously, 702 is Vegas."
 
 **[00:39:30](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-las-vegas-t-00-39-11)**
-> "And then we landed upon the Las Vegas congressman."
-
-**[00:39:30](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-las-vegas-t-00-39-11)**
 > "...d then we landed upon the Las Vegas congressman."
 
 **[00:39:38](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-las-vegas-t-00-39-11)**
 > "...d the planes and the route to Las Vegas."
-
-**[00:39:38](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-las-vegas-t-00-39-11)**
-> "...e planes and the route to Las Vegas."
 
 </details>
 
@@ -60,7 +51,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (16 mentions)</summary>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (9 mentions)</summary>
 
 **[00:38:20](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-t-00-38-03)**
 > "Las Vegas, you'll recall, is the home of FBI Director Kash Patel"
@@ -68,44 +59,23 @@ _Type: Places_
 **[00:38:14](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-t-00-38-03)**
 > "...ee hours, and then it flew to Las Vegas, arriving there at 4.48 p.m. local time."
 
-**[00:38:14](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-t-00-38-03)**
-> "...ours, and then it flew to Las Vegas, arriving there at 4.48 p.m. local time."
-
 **[00:38:52](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-t-00-38-25)**
 > "...s flight as he says goes into Las Vegas and we're gonna now show you that flight path uh ..."
-
-**[00:38:52](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-t-00-38-25)**
-> "...ight as he says goes into Las Vegas and we're gonna now show you that flight path uh ..."
 
 **[00:39:33](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-t-00-39-24)**
 > "...on August 25th, it flies into Las Vegas, lands at 448 p.m. local time as SAM000."
 
-**[00:39:33](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-t-00-39-24)**
-> "...ugust 25th, it flies into Las Vegas, lands at 448 p.m. local time as SAM000."
-
 **[00:39:40](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-t-00-39-24)**
 > "...wing day, the 26th, it leaves Las Vegas as a reach flight, 658, leaving at 314 p.m. You s..."
-
-**[00:39:40](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-t-00-39-24)**
-> "... day, the 26th, it leaves Las Vegas as a reach flight, 658, leaving at 314 p.m. You s..."
 
 **[00:44:02](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-t-00-43-23)**
 > "...mportant character flies into Las Vegas."
 
-**[00:44:02](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-t-00-43-23)**
-> "...tant character flies into Las Vegas."
-
 **[00:44:12](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-t-00-44-05)**
 > "...ng to get off of the plate of Las Vegas and suddenly that flight is going to be an RCH fl..."
 
-**[00:44:12](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-t-00-44-05)**
-> "...o get off of the plate of Las Vegas and suddenly that flight is going to be an RCH fl..."
-
 **[01:02:06](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-t-01-01-55)**
 > "...at meeting did happen to be a Las Vegas congressman."
-
-**[01:02:06](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-t-01-01-55)**
-> "...eeting did happen to be a Las Vegas congressman."
 
 **[01:02:35](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-t-01-01-55)**
 > "Is it Las Vegas?"

@@ -1,6 +1,6 @@
 ---
 title: "Paul Haller"
-description: "Paul Haller (People) - 3 mentions"
+description: "Paul Haller (People) - 2 mentions"
 id: "person-paul-haller"
 type: "PERSON"
 aliases:
@@ -17,16 +17,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (3 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
 
 **[01:04:14](/episodes/ep-ewBzjVe3LNQ.md#ent-person-paul-haller-t-01-03-55)**
 > "Paul Haller, really good guy, even if he gave me a bunch of crap about stuff"
 
 **[01:03:59](/episodes/ep-ewBzjVe3LNQ.md#ent-person-paul-haller-t-01-03-55)**
 > "...some of the other podcasters, Paul Haller (podcaster), um, really good guy, even if he, he ..."
-
-**[01:03:59](/episodes/ep-ewBzjVe3LNQ.md#ent-person-paul-haller-t-01-03-55)**
-> "...of the other podcasters, Paul Haller (podcaster), um, really good guy, even if he, he ..."
 
 </details>
 

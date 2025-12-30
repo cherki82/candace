@@ -1,6 +1,6 @@
 ---
 title: "Megyn Kelly"
-description: "Megyn Kelly (People) - 132 mentions"
+description: "Megyn Kelly (People) - 131 mentions"
 id: "person-megyn-kelly"
 type: "PERSON"
 aliases:
@@ -32,10 +32,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3 mentions)</summary>
-
-**[00:27:06](/episodes/ep-9k2xrAC0H88.md#ent-person-megyn-kelly-t-00-27-06)**
-> "he does discuss with Megyn Kelly, him getting his bag at the hospital"
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
 
 **[00:27:06](/episodes/ep-9k2xrAC0H88.md#ent-person-megyn-kelly-t-00-27-06)**
 > "And he does discuss with Megyn Kelly, him getting his bag at the hospital after the FB..."

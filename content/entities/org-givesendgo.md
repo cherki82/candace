@@ -1,6 +1,6 @@
 ---
 title: "GiveSendGo"
-description: "GiveSendGo (Organizations) - 5 mentions"
+description: "GiveSendGo (Organizations) - 4 mentions"
 id: "org-givesendgo"
 type: "ORG"
 ---
@@ -13,16 +13,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (5 mentions)</summary>
-
-**[00:33:20](/episodes/ep-w1oqQbR_bYs.md#ent-org-givesendgo-t-00-33-02)**
-> "we would put together a GiveSendGo"
-
-**[00:33:18](/episodes/ep-w1oqQbR_bYs.md#ent-org-givesendgo-t-00-33-02)**
-> "...l you we would put together a GiveSendGo."
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (4 mentions)</summary>
 
 **[00:33:20](/episodes/ep-w1oqQbR_bYs.md#ent-org-givesendgo-t-00-33-02)**
 > "You can support Mitch at GiveSendGo.com slash Candice podcast."
+
+**[00:33:18](/episodes/ep-w1oqQbR_bYs.md#ent-org-givesendgo-t-00-33-02)**
+> "...l you we would put together a GiveSendGo."
 
 **[00:33:32](/episodes/ep-w1oqQbR_bYs.md#ent-org-givesendgo-t-00-33-02)**
 > "...bit more about his story, but GiveSendGo.com slash Candice podcasts to support him."

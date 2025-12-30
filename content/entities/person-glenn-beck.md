@@ -1,6 +1,6 @@
 ---
 title: "Glenn Beck"
-description: "Glenn Beck (People) - 15 mentions"
+description: "Glenn Beck (People) - 13 mentions"
 id: "person-glenn-beck"
 type: "PERSON"
 ---
@@ -24,16 +24,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (10 mentions)</summary>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (8 mentions)</summary>
 
 **[00:16:34](/episodes/ep-6J6lRZPQ4jk.md#ent-person-glenn-beck-t-00-16-17)**
 > "Erika (Erika Kirk) also sat down with Glenn (Glenn Beck) (Glenn Beck) of Blaze TV"
 
 **[00:16:30](/episodes/ep-6J6lRZPQ4jk.md#ent-person-glenn-beck-t-00-16-17)**
 > "...rk) also sat down with Glenn (Glenn Beck) (Glenn Beck) of Blaze TV."
-
-**[00:16:30](/episodes/ep-6J6lRZPQ4jk.md#ent-person-glenn-beck-t-00-16-17)**
-> "...down with Glenn (Glenn Beck) (Glenn Beck) of Blaze TV."
 
 **[00:16:47](/episodes/ep-6J6lRZPQ4jk.md#ent-person-glenn-beck-t-00-16-17)**
 > "Anyways, Glenn (Glenn Beck) (Glenn Beck)'s interview has a bunch of high poi..."
@@ -43,9 +40,6 @@ _Type: People_
 
 **[00:18:59](/episodes/ep-6J6lRZPQ4jk.md#ent-person-glenn-beck-t-00-18-27)**
 > "... organic question from Glenn (Glenn Beck) (Glenn Beck)."
-
-**[00:18:59](/episodes/ep-6J6lRZPQ4jk.md#ent-person-glenn-beck-t-00-18-27)**
-> "...tion from Glenn (Glenn Beck) (Glenn Beck)."
 
 **[00:19:31](/episodes/ep-6J6lRZPQ4jk.md#ent-person-glenn-beck-t-00-19-05)**
 > "No, it's a real thing, Glenn (Glenn Beck), and you get this."

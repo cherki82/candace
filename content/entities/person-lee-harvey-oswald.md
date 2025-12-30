@@ -1,6 +1,6 @@
 ---
 title: "Lee Harvey Oswald"
-description: "Lee Harvey Oswald (People) - 5 mentions"
+description: "Lee Harvey Oswald (People) - 4 mentions"
 id: "person-lee-harvey-oswald"
 type: "PERSON"
 aliases:
@@ -17,16 +17,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3 mentions)</summary>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
 
 **[00:56:09](/episodes/ep-9k2xrAC0H88.md#ent-person-lee-harvey-oswald-t-00-55-37)**
 > "maybe JFK really was just shot by Lee Harvey Oswald"
 
 **[00:56:03](/episodes/ep-9k2xrAC0H88.md#ent-person-lee-harvey-oswald-t-00-55-37)**
 > "...e JFK really was just shot by Lee Harvey Oswald."
-
-**[00:56:03](/episodes/ep-9k2xrAC0H88.md#ent-person-lee-harvey-oswald-t-00-55-37)**
-> "...y was just shot by Lee Harvey Oswald."
 
 </details>
 

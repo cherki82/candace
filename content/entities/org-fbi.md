@@ -1,6 +1,6 @@
 ---
 title: "FBI"
-description: "FBI (Organizations) - 427 mentions"
+description: "FBI (Organizations) - 414 mentions"
 id: "org-fbi"
 type: "ORG"
 aliases:
@@ -20,7 +20,7 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (8 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (5 mentions)</summary>
 
 **[00:35:37](/episodes/ep-ewBzjVe3LNQ.md#ent-org-fbi-t-00-25-09)**
 > "why wasn't the FBI updated as to what my status was"
@@ -28,17 +28,8 @@ _Type: Organizations_
 **[00:05:45](/episodes/ep-ewBzjVe3LNQ.md#ent-org-fbi-t-00-07-39)**
 > "... officers to the weapon lucky feds lucky feds the canines were not provided with the..."
 
-**[00:05:45](/episodes/ep-ewBzjVe3LNQ.md#ent-org-fbi-t-00-07-39)**
-> "...o the weapon lucky feds lucky feds the canines were not provided with the scent of t..."
-
-**[00:07:53](/episodes/ep-ewBzjVe3LNQ.md#ent-org-fbi-t-00-07-39)**
-> "...hanks to the instincts of the feds and not the noses of the dogs."
-
 **[00:07:53](/episodes/ep-ewBzjVe3LNQ.md#ent-org-fbi-t-00-07-39)**
 > "...ed thanks to the instincts of the feds and not the noses of the dogs."
-
-**[00:25:13](/episodes/ep-ewBzjVe3LNQ.md#ent-org-fbi-t-00-25-09)**
-> "...r in life, stumbling upon the feds when there may be up to no good."
 
 **[00:25:13](/episodes/ep-ewBzjVe3LNQ.md#ent-org-fbi-t-00-25-09)**
 > "... ever in life, stumbling upon the feds when there may be up to no good."
@@ -49,7 +40,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (32 mentions)</summary>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (23 mentions)</summary>
 
 **[00:02:06](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-09-50)**
 > "that works for the FBI or the NSA"
@@ -61,37 +52,19 @@ _Type: Organizations_
 > "that works for the FBI or the NSA."
 
 **[00:09:50](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-09-50)**
-> "... high up who then ordered the feds to stand down and to allow him to do what he had ..."
-
-**[00:09:50](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-09-50)**
 > "...very high up who then ordered the feds to stand down and to allow him to do what he had ..."
 
 **[00:10:24](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-09-50)**
 > "And the feds are not just at the hospital trying to take camer..."
 
 **[00:14:48](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-14-36)**
-> "...ory, fast forward to when the feds arrive"
-
-**[00:14:48](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-14-36)**
 > "...s story, fast forward to when the feds arrive"
-
-**[00:15:03](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-14-36)**
-> "... corner with you dogs and the feds are here, the federal officers are going around a..."
 
 **[00:15:03](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-14-36)**
 > "... the corner with you dogs and the feds are here, the federal officers are going around a..."
 
 **[00:18:25](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-18-06)**
-> "...like a wild goose hunt by the feds and the feds were sort of directing the show."
-
-**[00:18:25](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-18-06)**
-> "...oose hunt by the feds and the feds were sort of directing the show."
-
-**[00:18:25](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-18-06)**
 > "...ts, like a wild goose hunt by the feds and the feds were sort of directing the show."
-
-**[00:18:25](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-18-06)**
-> "...ld goose hunt by the feds and the feds were sort of directing the show."
 
 **[00:19:26](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-18-06)**
 > "...because if we're dealing with feds, they change the plates, obviously."
@@ -100,16 +73,10 @@ _Type: Organizations_
 > "...driver of the RAV4 flashes an FBI badge."
 
 **[00:24:46](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-24-22)**
-> "...Charlie Kirk coverup that the feds are engaged in."
-
-**[00:24:46](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-24-22)**
 > "...his Charlie Kirk coverup that the feds are engaged in."
 
 **[00:24:52](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-24-22)**
 > "...nfirmed is going to leave the FBI as assistant director of the FBI."
-
-**[00:24:52](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-24-22)**
-> "... as assistant director of the FBI."
 
 **[00:26:38](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-26-25)**
 > "I would have assumed that the feds impounded the vehicle."
@@ -133,9 +100,6 @@ _Type: Organizations_
 > "I just feel the feds are implicated."
 
 **[00:32:25](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-32-25)**
-> "...who's there that day says the feds were not acting right."
-
-**[00:32:25](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-32-25)**
 > "...ody who's there that day says the feds were not acting right."
 
 **[00:38:20](/episodes/ep-9k2xrAC0H88.md#ent-org-fbi-t-00-32-25)**
@@ -150,13 +114,10 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (6 mentions)</summary>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (5 mentions)</summary>
 
 **[00:50:38](/episodes/ep-6J6lRZPQ4jk.md#ent-org-fbi-t-00-12-41)**
 > "I want like one critique of the FBI"
-
-**[00:12:56](/episodes/ep-6J6lRZPQ4jk.md#ent-org-fbi-t-00-12-41)**
-> "... the same energy also for the feds?"
 
 **[00:12:56](/episodes/ep-6J6lRZPQ4jk.md#ent-org-fbi-t-00-12-41)**
 > "... not the same energy also for the feds?"

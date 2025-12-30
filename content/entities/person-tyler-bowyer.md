@@ -1,6 +1,6 @@
 ---
 title: "Tyler Bowyer"
-description: "Tyler Bowyer (People) - 53 mentions"
+description: "Tyler Bowyer (People) - 52 mentions"
 id: "person-tyler-bowyer"
 type: "PERSON"
 aliases:
@@ -17,10 +17,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
-
-**[00:19:05](/episodes/ep-w1oqQbR_bYs.md#ent-person-tyler-bowyer-t-00-19-05)**
-> "Tyler Bowyer, and yes, at Erika Kirk"
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
 
 **[00:19:05](/episodes/ep-w1oqQbR_bYs.md#ent-person-tyler-bowyer-t-00-19-05)**
 > "...w Kolvet, and Blake Neff, and Tyler Bowyer, and yes, at Erika Kirk, and to imply or outright..."

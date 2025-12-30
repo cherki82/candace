@@ -1,6 +1,6 @@
 ---
 title: "George Farmer"
-description: "George Farmer (People) - 36 mentions"
+description: "George Farmer (People) - 32 mentions"
 id: "person-george-farmer"
 type: "PERSON"
 aliases:
@@ -17,7 +17,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (10 mentions)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (6 mentions)</summary>
 
 **[00:00:45](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-02-04)**
 > "George joined me just for the beginning portion"
@@ -26,25 +26,13 @@ _Type: People_
 > "George (George Farmer) joined me just for the beginning portion of the ..."
 
 **[00:02:54](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-02-48)**
-> "... the four of us until George (George Farmer) left."
-
-**[00:02:54](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-02-48)**
 > "...lly just the four of us until George (George Farmer) left."
 
 **[00:55:26](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-55-15)**
 > "...remember the old man, George (George Farmer) Zinn, arrested for claiming to be the shooter of..."
 
-**[00:55:26](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-55-15)**
-> "You remember the old man, George (George Farmer) Zinn, arrested for claiming to be..."
-
 **[00:55:32](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-55-15)**
 > "...lausible theory here, George (George Farmer) Zinn was probably on some Discord chat with a bu..."
-
-**[00:55:32](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-55-15)**
-> "...king a plausible theory here, George (George Farmer) Zinn was probably on some Discord..."
-
-**[00:56:39](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-56-34)**
-> "...Valley, which treated George (George Farmer) Zinn."
 
 **[00:56:39](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-56-34)**
 > "...at Utah Valley, which treated George (George Farmer) Zinn."

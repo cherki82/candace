@@ -1,6 +1,6 @@
 ---
 title: "Candace Owens"
-description: "Candace Owens (People) - 1055 mentions"
+description: "Candace Owens (People) - 1046 mentions"
 id: "person-candace-owens"
 type: "PERSON"
 aliases:
@@ -19,7 +19,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (39 mentions)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (36 mentions)</summary>
 
 **[00:00:50](/episodes/ep-w1oqQbR_bYs.md#ent-person-candace-owens-t-00-00-42)**
 > "Welcome back to Candice."
@@ -47,9 +47,6 @@ _Type: People_
 
 **[00:13:44](/episodes/ep-w1oqQbR_bYs.md#ent-person-candace-owens-t-00-13-30)**
 > "... only instead of cheering for Candice, found it vile and rebuked her, Candice quickly a..."
-
-**[00:13:44](/episodes/ep-w1oqQbR_bYs.md#ent-person-candace-owens-t-00-13-30)**
-> "...ound it vile and rebuked her, Candice quickly attacked, saying, quote, what's amazing a..."
 
 **[00:14:19](/episodes/ep-w1oqQbR_bYs.md#ent-person-candace-owens-t-00-14-12)**
 > "Within 24 hours, Candice liked to post calling Israeli Prime Minister Benj..."
@@ -93,14 +90,8 @@ _Type: People_
 **[00:28:57](/episodes/ep-w1oqQbR_bYs.md#ent-person-candace-owens-t-00-28-53)**
 > "... now by heading to TWC.health.candice and use code CANDICE if you want to save up to $4..."
 
-**[00:28:57](/episodes/ep-w1oqQbR_bYs.md#ent-person-candace-owens-t-00-28-53)**
-> "...C.health.candice and use code CANDICE if you want to save up to $45 off plus free shipp..."
-
 **[00:29:06](/episodes/ep-w1oqQbR_bYs.md#ent-person-candace-owens-t-00-28-53)**
 > "Again, that's TWC.health.candice and use code CANDICE at checkout."
-
-**[00:29:06](/episodes/ep-w1oqQbR_bYs.md#ent-person-candace-owens-t-00-28-53)**
-> "...C.health.candice and use code CANDICE at checkout."
 
 **[00:30:20](/episodes/ep-w1oqQbR_bYs.md#ent-person-candace-owens-t-00-30-16)**
 > "...1000 or visit tnusa.com slash Candice for your free discovery call with Tax Network USA..."
@@ -141,7 +132,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (18 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (16 mentions)</summary>
 
 **[00:10:38](/episodes/ep-ewBzjVe3LNQ.md#ent-person-candace-owens-t-00-10-25)**
 > "Candace is possessed by a demon."
@@ -167,14 +158,8 @@ _Type: People_
 **[00:22:17](/episodes/ep-ewBzjVe3LNQ.md#ent-person-candace-owens-t-00-22-11)**
 > "... now by heading to TWC.health.candice and be sure to use code CANDICE to save up to $45..."
 
-**[00:22:17](/episodes/ep-ewBzjVe3LNQ.md#ent-person-candace-owens-t-00-22-11)**
-> "...ndice and be sure to use code CANDICE to save up to $45 off plus free shipping."
-
 **[00:22:26](/episodes/ep-ewBzjVe3LNQ.md#ent-person-candace-owens-t-00-22-11)**
 > "That's twc.health slash Candice and use code Candice at checkout."
-
-**[00:22:26](/episodes/ep-ewBzjVe3LNQ.md#ent-person-candace-owens-t-00-22-11)**
-> "...th slash Candice and use code Candice at checkout."
 
 **[00:23:39](/episodes/ep-ewBzjVe3LNQ.md#ent-person-candace-owens-t-00-23-39)**
 > "...1000 or visit tnusa.com slash Candace for your free discovery call with Tax Network USA..."
@@ -256,7 +241,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (28 mentions)</summary>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (24 mentions)</summary>
 
 **[00:07:42](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-07-40)**
 > "the podcaster Candace Owens"
@@ -285,9 +270,6 @@ _Type: People_
 **[00:32:54](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-32-44)**
 > "...by visiting pdsdebt.com slash Candace, again pdsdebt.com slash Candace."
 
-**[00:32:54](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-32-44)**
-> "...dace, again pdsdebt.com slash Candace."
-
 **[00:38:12](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-37-31)**
 > "...is tactic repeatedly, and now Candace has taken a page out of their book."
 
@@ -306,14 +288,8 @@ _Type: People_
 **[00:48:42](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-48-36)**
 > "...rder at paleovalley.com slash Candice, and you can use code Candice at checkout."
 
-**[00:48:42](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-48-36)**
-> "...Candice, and you can use code Candice at checkout."
-
 **[00:48:51](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-48-36)**
 > "That's paleovalley.com slash Candice, promo code Candice at checkout."
-
-**[00:48:51](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-48-36)**
-> "...com slash Candice, promo code Candice at checkout."
 
 **[00:49:35](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-00-49-15)**
 > "You can use my promo code, Candice, at hometitlelock.com, and you'll get a free titl..."
@@ -338,9 +314,6 @@ _Type: People_
 
 **[01:02:14](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-01-01-46)**
 > "So it's same Candice, new year, same Candice, different topic."
-
-**[01:02:14](/episodes/ep-6J6lRZPQ4jk.md#ent-person-candace-owens-t-01-01-46)**
-> "... same Candice, new year, same Candice, different topic."
 
 </details>
 

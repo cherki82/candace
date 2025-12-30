@@ -1,6 +1,6 @@
 ---
 title: "Losee Center"
-description: "Losee Center (Organizations) - 2 mentions"
+description: "Losee Center (Organizations) - 1 mention"
 id: "org-losee-center"
 type: "ORG"
 aliases:
@@ -18,13 +18,10 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>
 
 **[00:17:10](/episodes/ep-9k2xrAC0H88.md#ent-org-losee-center-t-00-16-44)**
 > "the route to the rooftop where Tyler Robinson, the Losee Center rooftop where he allegedly took the shot"
-
-**[00:17:10](/episodes/ep-9k2xrAC0H88.md#ent-org-losee-center-t-00-16-44)**
-> "...top where Tyler Robinson, the Losee Center rooftop where he allegedly took the shot."
 
 </details>
 

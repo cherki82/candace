@@ -1,6 +1,6 @@
 ---
 title: "Yashar Ali"
-description: "Yashar Ali (People) - 5 mentions"
+description: "Yashar Ali (People) - 4 mentions"
 id: "person-yashar-ali"
 type: "PERSON"
 ---
@@ -13,10 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
-
-**[00:04:05](/episodes/ep-w1oqQbR_bYs.md#ent-person-yashar-ali-t-00-03-53)**
-> "shared by Yashar Ali on X"
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
 
 **[00:04:05](/episodes/ep-w1oqQbR_bYs.md#ent-person-yashar-ali-t-00-03-53)**
 > "... when I saw this as shared by Yashar Ali on X, I responded and I said that genocidal langu..."

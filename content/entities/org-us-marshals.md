@@ -1,6 +1,6 @@
 ---
 title: "US Marshals"
-description: "US Marshals (Organizations) - 3 mentions"
+description: "US Marshals (Organizations) - 2 mentions"
 id: "org-us-marshals"
 type: "ORG"
 aliases:
@@ -18,16 +18,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3 mentions)</summary>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
 
 **[00:32:25](/episodes/ep-9k2xrAC0H88.md#ent-org-us-marshals-t-00-31-43)**
 > "including sending US marshals on a wild goose chase"
 
 **[00:32:11](/episodes/ep-9k2xrAC0H88.md#ent-org-us-marshals-t-00-31-43)**
 > "...rything up, including sending US marshals on a wild goose chase."
-
-**[00:32:11](/episodes/ep-9k2xrAC0H88.md#ent-org-us-marshals-t-00-31-43)**
-> "...hing up, including sending US marshals on a wild goose chase."
 
 </details>
 

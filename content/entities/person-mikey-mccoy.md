@@ -1,6 +1,6 @@
 ---
 title: "Mikey McCoy"
-description: "Mikey McCoy (People) - 198 mentions"
+description: "Mikey McCoy (People) - 194 mentions"
 id: "person-mikey-mccoy"
 type: "PERSON"
 aliases:
@@ -20,10 +20,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
-
-**[00:19:05](/episodes/ep-w1oqQbR_bYs.md#ent-person-mikey-mccoy-t-00-19-05)**
-> "cast aspersions at Mikey McCoy"
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
 
 **[00:19:05](/episodes/ep-w1oqQbR_bYs.md#ent-person-mikey-mccoy-t-00-19-05)**
 > "...riends, to cast aspersions at Mikey McCoy, and Andrew Kolvet, and Blake Neff, and Tyler Bow..."
@@ -31,7 +28,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (4 mentions)</summary>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3 mentions)</summary>
 
 **[00:59:32](/episodes/ep-9k2xrAC0H88.md#ent-person-mikey-mccoy-t-00-59-08)**
 > "Mikey's behavior is the most damning evidence of all"
@@ -40,15 +37,12 @@ _Type: People_
 > "Mikey (Mikey McCoy)'s behavior is the most damning evidence of all."
 
 **[00:59:49](/episodes/ep-9k2xrAC0H88.md#ent-person-mikey-mccoy-t-00-59-08)**
-> "...olutely not dismissing Mikey (Mikey McCoy)'s behavior."
-
-**[00:59:49](/episodes/ep-9k2xrAC0H88.md#ent-person-mikey-mccoy-t-00-59-08)**
 > "... am absolutely not dismissing Mikey (Mikey McCoy)'s behavior."
 
 </details>
 
 <details>
-<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (7 mentions)</summary>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (5 mentions)</summary>
 
 **[00:10:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-mikey-mccoy-t-00-09-44)**
 > "Mikey (Mikey McCoy) had blood all over him"
@@ -64,12 +58,6 @@ _Type: People_
 
 **[00:29:32](/episodes/ep-6J6lRZPQ4jk.md#ent-person-mikey-mccoy-t-00-29-23)**
 > "...lic how letting us see Mikey (Mikey McCoy) (Mikey McCoy)'s phone records, just one example,..."
-
-**[00:29:32](/episodes/ep-6J6lRZPQ4jk.md#ent-person-mikey-mccoy-t-00-29-23)**
-> "...g us see Mikey (Mikey McCoy) (Mikey McCoy)'s phone records, just one example, if that's rea..."
-
-**[00:29:32](/episodes/ep-6J6lRZPQ4jk.md#ent-person-mikey-mccoy-t-00-29-23)**
-> "...the public how letting us see Mikey (Mikey McCoy) (Mikey McCoy)'s phone records, just..."
 
 </details>
 

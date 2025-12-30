@@ -1,6 +1,6 @@
 ---
 title: "Mitch"
-description: "Mitch (People) - 26 mentions"
+description: "Mitch (People) - 25 mentions"
 id: "person-mitch-fort-huachuca-witness"
 type: "PERSON"
 aliases:
@@ -61,7 +61,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (13 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (12 mentions)</summary>
 
 **[00:20:40](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mitch-fort-huachuca-witness-t-00-20-04)**
 > "Now, when we get back after this brief break from our sponsors, we are going to bring on, and this is his new name, Mitch."
@@ -92,9 +92,6 @@ _Type: People_
 
 **[01:10:55](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mitch-fort-huachuca-witness-t-01-10-42)**
 > "... writes, we stand behind you, Mitch, and your family just as much as we stand behind,..."
-
-**[01:10:55](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mitch-fort-huachuca-witness-t-01-10-42)**
-> "...ind, oh, we stand behind you, Mitch, and your family just as much as we stand behind ..."
 
 **[01:14:42](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mitch-fort-huachuca-witness-t-01-14-15)**
 > "for Mitch and his family."

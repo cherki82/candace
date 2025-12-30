@@ -1,6 +1,6 @@
 ---
 title: "Brian Harpole"
-description: "Brian Harpole (People) - 59 mentions"
+description: "Brian Harpole (People) - 52 mentions"
 id: "person-brian-harpole"
 type: "PERSON"
 aliases:
@@ -17,7 +17,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (8 mentions)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (7 mentions)</summary>
 
 **[00:36:36](/episodes/ep-w1oqQbR_bYs.md#ent-person-brian-harpole-t-00-36-19)**
 > "Charlie Kirk's security Brian Harpole"
@@ -30,9 +30,6 @@ _Type: People_
 
 **[00:37:38](/episodes/ep-w1oqQbR_bYs.md#ent-person-brian-harpole-t-00-37-03)**
 > "...lly given the travel logs for Brian Harpole, and it is entirely possible that Brian Harpole"
-
-**[00:37:38](/episodes/ep-w1oqQbR_bYs.md#ent-person-brian-harpole-t-00-37-03)**
-> "... it is entirely possible that Brian Harpole"
 
 **[00:37:49](/episodes/ep-w1oqQbR_bYs.md#ent-person-brian-harpole-t-00-37-49)**
 > "...n tell you that definitively, Brian Harpole could have made it to that base for that early mo..."
@@ -60,7 +57,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (11 mentions)</summary>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (10 mentions)</summary>
 
 **[00:33:35](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-33-09)**
 > "we recognized this increase in this botted activity after we started speaking about Fort Huachuca. We talked about Fort Huachuca. We talked about the Elvis guy. He's convinced that he saw Brian Harpole."
@@ -73,9 +70,6 @@ _Type: People_
 
 **[00:41:19](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-40-54)**
 > "And I'm bringing up Brian Harpole, of course, because our eyewitness told us that h..."
-
-**[00:41:19](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-40-54)**
-> "...yewitness told us that he saw Brian Harpole."
 
 **[00:41:26](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-40-54)**
 > "He's convinced he saw Brian Harpole walking out of this big wig meeting on the 9th."
@@ -98,28 +92,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (7 mentions)</summary>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2 mentions)</summary>
 
 **[00:12:31](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brian-harpole-t-00-11-55)**
 > "Brian (Brian Harpole) (Brian Harpole) told that lie"
 
 **[00:12:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brian-harpole-t-00-11-55)**
 > "...t fly drones major lie Brian (Brian Harpole) (Brian Harpole) told that lie Brian (Brian Harpo..."
-
-**[00:12:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brian-harpole-t-00-11-55)**
-> "...or lie Brian (Brian Harpole) (Brian Harpole) told that lie Brian (Brian Harpole) (Brian Harpo..."
-
-**[00:12:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brian-harpole-t-00-11-55)**
-> "...Harpole) told that lie Brian (Brian Harpole) (Brian Harpole) also told"
-
-**[00:12:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brian-harpole-t-00-11-55)**
-> "...at lie Brian (Brian Harpole) (Brian Harpole) also told"
-
-**[00:12:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brian-harpole-t-00-11-55)**
-> "... did not fly drones major lie Brian (Brian Harpole) (Brian Harpole) told that lie Bri..."
-
-**[00:12:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brian-harpole-t-00-11-55)**
-> "...(Brian Harpole) told that lie Brian (Brian Harpole) (Brian Harpole) also told"
 
 </details>
 

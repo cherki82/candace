@@ -1,6 +1,6 @@
 ---
 title: "PureTalk"
-description: "PureTalk (Organizations) - 42 mentions"
+description: "PureTalk (Organizations) - 41 mentions"
 id: "org-puretalk"
 type: "ORG"
 aliases:
@@ -17,16 +17,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (6 mentions)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (5 mentions)</summary>
 
 **[00:47:17](/episodes/ep-w1oqQbR_bYs.md#ent-org-puretalk-t-00-47-24)**
 > "PureTalk for your wireless needs"
 
 **[00:47:28](/episodes/ep-w1oqQbR_bYs.md#ent-org-puretalk-t-00-47-24)**
 > "Well, my friends at PureTalk would like to say thank you from the bottom of th..."
-
-**[00:47:28](/episodes/ep-w1oqQbR_bYs.md#ent-org-puretalk-t-00-47-24)**
-> "... of their hearts for choosing PureTalk for your wireless needs."
 
 **[00:47:48](/episodes/ep-w1oqQbR_bYs.md#ent-org-puretalk-t-00-47-24)**
 > "Your patronage has allowed PureTalk to donate a thousand hand-sewn Made in America fl..."

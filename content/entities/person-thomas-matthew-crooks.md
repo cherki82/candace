@@ -1,6 +1,6 @@
 ---
 title: "Thomas Matthew Crooks"
-description: "Thomas Matthew Crooks (People) - 19 mentions"
+description: "Thomas Matthew Crooks (People) - 13 mentions"
 id: "person-thomas-matthew-crooks"
 type: "PERSON"
 aliases:
@@ -36,18 +36,15 @@ _Type: People_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
 
 **[00:46:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-thomas-matthew-crooks-t-00-45-48)**
 > "...aul) writes: "Tyler Robinson's (Tyler Robinson) ACT score was 34, so he was in the 99 percentile." "Thomas Matthew Crooks' (Thomas Matthew Crooks) SAT score was in the 99 percentile." "Both recent lone shooters scored in ..."
 
-**[00:46:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-thomas-matthew-crooks-t-00-45-48)**
-> "...tthew Crooks' (Thomas Matthew Crooks) SAT score was in the 99 percentile.""
-
 </details>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (14 mentions)</summary>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (9 mentions)</summary>
 
 **[00:00:36](/episodes/ep-QZWSsq8ZWzw.md#ent-person-thomas-matthew-crooks-t-00-00-01)**
 > "do you remember Thomas Matthew Crooks?"
@@ -75,21 +72,6 @@ _Type: People_
 
 **[00:22:09](/episodes/ep-QZWSsq8ZWzw.md#ent-person-thomas-matthew-crooks-t-00-21-55)**
 > "The reality of Thomas Matthew Crooks"
-
-**[00:00:36](/episodes/ep-QZWSsq8ZWzw.md#ent-person-thomas-matthew-crooks-t-00-00-01)**
-> "...o you remember Thomas Matthew Crooks?"
-
-**[00:01:00](/episodes/ep-QZWSsq8ZWzw.md#ent-person-thomas-matthew-crooks-t-00-00-45)**
-> "...een footage of Thomas Matthew Crooks, and it's going to be just the beginning of our c..."
-
-**[00:20:29](/episodes/ep-QZWSsq8ZWzw.md#ent-person-thomas-matthew-crooks-t-00-20-29)**
-> "...h brings me to Thomas Matthew Crooks because that's exactly what we were told—or not t..."
-
-**[00:21:34](/episodes/ep-QZWSsq8ZWzw.md#ent-person-thomas-matthew-crooks-t-00-21-12)**
-> "...erything about Thomas Matthew Crooks before the feds got rid of everything.""
-
-**[00:22:05](/episodes/ep-QZWSsq8ZWzw.md#ent-person-thomas-matthew-crooks-t-00-21-55)**
-> "The reality of Thomas Matthew Crooks is going to be a story that we should get familia..."
 
 </details>
 

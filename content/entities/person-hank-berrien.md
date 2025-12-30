@@ -1,6 +1,6 @@
 ---
 title: "Hank Berrien"
-description: "Hank Berrien (People) - 4 mentions"
+description: "Hank Berrien (People) - 1 mention"
 id: "person-hank-berrien"
 type: "PERSON"
 aliases:
@@ -17,19 +17,10 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (4 mentions)</summary>
-
-**[00:23:32](/episodes/ep-w1oqQbR_bYs.md#ent-person-hank-berrien-t-00-23-20)**
-> "he wrote while Ben was at Breitbart, sent to him by a man called Hank Berrien"
-
-**[00:23:32](/episodes/ep-w1oqQbR_bYs.md#ent-person-hank-berrien-t-00-23-20)**
-> "Hank Berrien of A Daily Wire under the pen name, Hank Berrien,..."
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
 
 **[00:23:32](/episodes/ep-w1oqQbR_bYs.md#ent-person-hank-berrien-t-00-23-20)**
 > "...aily Wire under the pen name, Hank Berrien, as he wrote while Ben was at Breitbart before he..."
-
-**[00:23:32](/episodes/ep-w1oqQbR_bYs.md#ent-person-hank-berrien-t-00-23-20)**
-> "...Wire under the pen name, Hank Berrien, as he wrote while Ben was at Breitbart before he..."
 
 </details>
 

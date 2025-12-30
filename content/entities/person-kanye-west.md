@@ -1,6 +1,6 @@
 ---
 title: "Kanye West"
-description: "Kanye West (People) - 101 mentions"
+description: "Kanye West (People) - 99 mentions"
 id: "person-kanye-west"
 type: "PERSON"
 aliases:
@@ -19,10 +19,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3 mentions)</summary>
-
-**[00:16:18](/episodes/ep-w1oqQbR_bYs.md#ent-person-kanye-west-t-00-15-40)**
-> "it was pertaining to Kanye"
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
 
 **[00:16:18](/episodes/ep-w1oqQbR_bYs.md#ent-person-kanye-west-t-00-15-40)**
 > "And it was pertaining to Kanye."
@@ -33,16 +30,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (4 mentions)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (3 mentions)</summary>
 
 **[00:00:25](/episodes/ep-es7PWdFGoFI.md#ent-person-kanye-west-t-00-00-45)**
 > "I am basically akin to Kanye"
 
 **[00:01:20](/episodes/ep-es7PWdFGoFI.md#ent-person-kanye-west-t-00-00-45)**
 > "I am basically akin to Kanye (Kanye West)."
-
-**[00:01:32](/episodes/ep-es7PWdFGoFI.md#ent-person-kanye-west-t-00-01-24)**
-> "...as like, oh gosh, yes, Kanye (Kanye West), I get this, okay?"
 
 **[00:01:32](/episodes/ep-es7PWdFGoFI.md#ent-person-kanye-west-t-00-01-24)**
 > "...re, I was like, oh gosh, yes, Kanye (Kanye West), I get this, okay?"

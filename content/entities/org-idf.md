@@ -1,6 +1,6 @@
 ---
 title: "IDF"
-description: "IDF (Organizations) - 19 mentions"
+description: "IDF (Organizations) - 18 mentions"
 id: "org-idf"
 type: "ORG"
 aliases:
@@ -18,10 +18,7 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
-
-**[00:03:53](/episodes/ep-w1oqQbR_bYs.md#t-00-03-53)**
-> "wearing an IDF uniform in Congress"
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
 
 **[00:03:53](/episodes/ep-w1oqQbR_bYs.md#t-00-03-53)**
 > "...me, Brian Mast was wearing an IDF uniform in Congress and he basically said that th..."

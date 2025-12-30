@@ -1,6 +1,6 @@
 ---
 title: "HIPAA"
-description: "HIPAA (Laws & Legislation) - 5 mentions"
+description: "HIPAA (Laws & Legislation) - 4 mentions"
 id: "law-hipaa"
 type: "LAW"
 aliases:
@@ -18,10 +18,7 @@ _Type: Laws & Legislation_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3 mentions)</summary>
-
-**[00:04:25](/episodes/ep-9k2xrAC0H88.md#ent-law-hipaa-t-00-04-09)**
-> "First off, HIPAA compliance"
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
 
 **[00:04:25](/episodes/ep-9k2xrAC0H88.md#ent-law-hipaa-t-00-04-09)**
 > "First off, HIPAA compliance."

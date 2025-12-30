@@ -1,6 +1,6 @@
 ---
 title: "Pierre Falcone"
-description: "Pierre Falcone (People) - 10 mentions"
+description: "Pierre Falcone (People) - 9 mentions"
 id: "person-pierre-falcone"
 type: "PERSON"
 aliases:
@@ -17,16 +17,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (3 mentions)</summary>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2 mentions)</summary>
 
 **[00:55:23](/episodes/ep-6J6lRZPQ4jk.md#ent-person-pierre-falcone-t-00-54-48)**
 > "suddenly we start talking about Pierre (Pierre Falcone) and that billion-dollar incentive"
 
 **[00:55:14](/episodes/ep-6J6lRZPQ4jk.md#ent-person-pierre-falcone-t-00-54-48)**
 > "...e start talking about Pierre (Pierre Falcone) and that billion-dollar incentive and they went ..."
-
-**[00:55:14](/episodes/ep-6J6lRZPQ4jk.md#ent-person-pierre-falcone-t-00-54-48)**
-> "... talking about Pierre (Pierre Falcone) and that billion-dollar incentive and they went ..."
 
 </details>
 

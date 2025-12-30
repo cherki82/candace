@@ -1,6 +1,6 @@
 ---
 title: "Jeffrey Epstein"
-description: "Jeffrey Epstein (People) - 91 mentions"
+description: "Jeffrey Epstein (People) - 87 mentions"
 id: "person-jeffrey-epstein"
 type: "PERSON"
 aliases:
@@ -17,7 +17,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (3 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
 
 **[00:24:55](/episodes/ep-ewBzjVe3LNQ.md#ent-person-jeffrey-epstein-t-00-24-24)**
 > "you're supposed to pretend that you're this super financial guru like Jeffrey Epstein"
@@ -25,28 +25,16 @@ _Type: People_
 **[00:24:55](/episodes/ep-ewBzjVe3LNQ.md#ent-person-jeffrey-epstein-t-00-24-24)**
 > "...his super financial guru like Jeffrey Epstein and we're gonna put you"
 
-**[00:24:55](/episodes/ep-ewBzjVe3LNQ.md#ent-person-jeffrey-epstein-t-00-24-24)**
-> "...r financial guru like Jeffrey Epstein and we're gonna put you"
-
 </details>
 
 <details>
-<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (5 mentions)</summary>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2 mentions)</summary>
 
 **[00:06:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-jeffrey-epstein-t-00-06-08)**
 > "the hand of Midas pulling her through the ranks, a la Jeffrey (Jeffrey Epstein (Jeffrey Epstein))"
 
 **[00:06:14](/episodes/ep-6J6lRZPQ4jk.md#ent-person-jeffrey-epstein-t-00-06-08)**
 > "...ough the ranks, a la Jeffrey (Jeffrey Epstein (Jeffrey Epstein))."
-
-**[00:06:14](/episodes/ep-6J6lRZPQ4jk.md#ent-person-jeffrey-epstein-t-00-06-08)**
-> "... la Jeffrey (Jeffrey Epstein (Jeffrey Epstein))."
-
-**[00:06:14](/episodes/ep-6J6lRZPQ4jk.md#ent-person-jeffrey-epstein-t-00-06-08)**
-> "... ranks, a la Jeffrey (Jeffrey Epstein (Jeffrey Epstein))."
-
-**[00:06:14](/episodes/ep-6J6lRZPQ4jk.md#ent-person-jeffrey-epstein-t-00-06-08)**
-> "...rey (Jeffrey Epstein (Jeffrey Epstein))."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "House Appropriations Committee"
-description: "House Appropriations Committee (Organizations) - 4 mentions"
+description: "House Appropriations Committee (Organizations) - 3 mentions"
 id: "org-house-appropriations-committee"
 type: "ORG"
 aliases:
@@ -17,7 +17,7 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (4 mentions)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3 mentions)</summary>
 
 **[00:35:41](/episodes/ep-w1oqQbR_bYs.md#ent-org-house-appropriations-committee-t-00-35-37)**
 > "And on September 9th, in a 12-hour bark up in the House Appropriations Committee"
@@ -27,9 +27,6 @@ _Type: Organizations_
 
 **[00:35:44](/episodes/ep-w1oqQbR_bYs.md#ent-org-house-appropriations-committee-t-00-35-37)**
 > "... please feel free to view the House Appropriations Committee's recording of said event on that date to quote Ron..."
-
-**[00:35:44](/episodes/ep-w1oqQbR_bYs.md#ent-org-house-appropriations-committee-t-00-35-37)**
-> "...e feel free to view the House Appropriations Committee's recording of said event on that date to quote Ron..."
 
 </details>
 

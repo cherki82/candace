@@ -1,6 +1,6 @@
 ---
 title: "Justin Streiff"
-description: "Justin Streiff (People) - 23 mentions"
+description: "Justin Streiff (People) - 20 mentions"
 id: "person-justin-streiff"
 type: "PERSON"
 aliases:
@@ -19,7 +19,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (11 mentions)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (8 mentions)</summary>
 
 **[00:00:42](/episodes/ep-es7PWdFGoFI.md#ent-person-justin-streiff-t-00-02-04)**
 > "It's Justin. Justin was in the room"
@@ -34,22 +34,13 @@ _Type: People_
 > "It was just Justin (Justin Streiff) and Erika (Erika Kirk)."
 
 **[00:03:25](/episodes/ep-es7PWdFGoFI.md#ent-person-justin-streiff-t-00-02-48)**
-> "...ersation started with Justin (Justin Streiff)."
-
-**[00:03:25](/episodes/ep-es7PWdFGoFI.md#ent-person-justin-streiff-t-00-02-48)**
 > "...the conversation started with Justin (Justin Streiff)."
 
 **[00:57:27](/episodes/ep-es7PWdFGoFI.md#ent-person-justin-streiff-t-00-57-19)**
 > "... genuinely think that Justin (Justin Streiff) did a great job reffing that conversation yester..."
 
-**[00:57:27](/episodes/ep-es7PWdFGoFI.md#ent-person-justin-streiff-t-00-57-19)**
-> "I do genuinely think that Justin (Justin Streiff) did a great job reffing that con..."
-
 **[01:06:17](/episodes/ep-es7PWdFGoFI.md#ent-person-justin-streiff-t-01-06-03)**
 > "...ell, by that, I mean, Justin (Justin Streiff) kind of said, the temperature is a little hot ri..."
-
-**[01:06:17](/episodes/ep-es7PWdFGoFI.md#ent-person-justin-streiff-t-01-06-03)**
-> "... okay, well, by that, I mean, Justin (Justin Streiff) kind of said, the temperature is..."
 
 **[01:07:08](/episodes/ep-es7PWdFGoFI.md#ent-person-justin-streiff-t-01-06-47)**
 > "But I think Justin thought that it would be better if after just so ..."

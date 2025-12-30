@@ -1,6 +1,6 @@
 ---
 title: "Brigitte Macron"
-description: "Brigitte Macron (People) - 174 mentions"
+description: "Brigitte Macron (People) - 164 mentions"
 id: "person-brigitte-macron"
 type: "PERSON"
 aliases:
@@ -20,7 +20,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3 mentions)</summary>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
 
 **[00:57:58](/episodes/ep-9k2xrAC0H88.md#ent-person-brigitte-macron-t-00-57-41)**
 > "he still thinks that Brigitte Macron is a woman who just doesn't want to release any photos"
@@ -28,46 +28,16 @@ _Type: People_
 **[00:57:53](/episodes/ep-9k2xrAC0H88.md#ent-person-brigitte-macron-t-00-57-41)**
 > "I mean, he still thinks that Brigitte Macron is a woman who just doesn't want to release any p..."
 
-**[00:57:53](/episodes/ep-9k2xrAC0H88.md#ent-person-brigitte-macron-t-00-57-41)**
-> "...he still thinks that Brigitte Macron is a woman who just doesn't want to release any p..."
-
 </details>
 
 <details>
-<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (12 mentions)</summary>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (3 mentions)</summary>
 
 **[00:56:12](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brigitte-macron-t-00-55-32)**
 > "the coming Brigitte (Brigitte Macron) series"
 
 **[00:56:10](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brigitte-macron-t-00-55-32)**
 > "...es, whether that be Brigitte (Brigitte Macron), the coming Brigitte (Brigitte Macron) series, a..."
-
-**[00:56:10](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brigitte-macron-t-00-55-32)**
-> "...Macron), the coming Brigitte (Brigitte Macron) series, and don't forget coming Brigitte (Brigit..."
-
-**[00:56:10](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brigitte-macron-t-00-55-32)**
-> "...don't forget coming Brigitte (Brigitte Macron)."
-
-**[00:56:10](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brigitte-macron-t-00-55-32)**
-> "...er that be Brigitte (Brigitte Macron), the coming Brigitte (Brigitte Macron) series, a..."
-
-**[00:56:10](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brigitte-macron-t-00-55-32)**
-> "...the coming Brigitte (Brigitte Macron) series, and don't forget coming Brigitte (Brigit..."
-
-**[00:56:10](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brigitte-macron-t-00-55-32)**
-> "...get coming Brigitte (Brigitte Macron)."
-
-**[00:56:10](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brigitte-macron-t-00-55-32)**
-> "...ctioned lies, whether that be Brigitte (Brigitte Macron), the coming Brigitte (Brigitte ..."
-
-**[00:56:10](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brigitte-macron-t-00-55-32)**
-> "...(Brigitte Macron), the coming Brigitte (Brigitte Macron) series, and don't forget coming..."
-
-**[00:56:10](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brigitte-macron-t-00-55-32)**
-> "...ries, and don't forget coming Brigitte (Brigitte Macron)."
-
-**[00:56:23](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brigitte-macron-t-00-56-16)**
-> "And what is Brigitte (Brigitte Macron) saying in court?"
 
 **[00:56:23](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brigitte-macron-t-00-56-16)**
 > "...nd what is Brigitte (Brigitte Macron) saying in court?"

@@ -1,6 +1,6 @@
 ---
 title: "Benjamin Netanyahu"
-description: "Benjamin Netanyahu (People) - 168 mentions"
+description: "Benjamin Netanyahu (People) - 165 mentions"
 id: "person-benjamin-netanyahu"
 type: "PERSON"
 aliases:
@@ -22,16 +22,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (5 mentions)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (4 mentions)</summary>
 
 **[00:21:55](/episodes/ep-w1oqQbR_bYs.md#ent-person-benjamin-netanyahu-t-00-14-12)**
 > "Netanyahu is amazing"
 
 **[00:14:19](/episodes/ep-w1oqQbR_bYs.md#ent-person-benjamin-netanyahu-t-00-14-12)**
 > "...alling Israeli Prime Minister Benjamin Netanyahu a war criminal."
-
-**[00:14:19](/episodes/ep-w1oqQbR_bYs.md#ent-person-benjamin-netanyahu-t-00-14-12)**
-> "...raeli Prime Minister Benjamin Netanyahu a war criminal."
 
 **[00:14:28](/episodes/ep-w1oqQbR_bYs.md#ent-person-benjamin-netanyahu-t-00-14-12)**
 > "...and you're free to oppose the Netanyahu government."
@@ -42,19 +39,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (4 mentions)</summary>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
 
 **[00:54:36](/episodes/ep-9k2xrAC0H88.md#ent-person-benjamin-netanyahu-t-00-54-08)**
 > "You don't want to be name checked with Bibi"
 
 **[00:54:26](/episodes/ep-9k2xrAC0H88.md#ent-person-benjamin-netanyahu-t-00-54-08)**
 > "...to be name checked with Bibi (Benjamin Netanyahu), and they are just growing increasingly volatile..."
-
-**[00:54:26](/episodes/ep-9k2xrAC0H88.md#ent-person-benjamin-netanyahu-t-00-54-08)**
-> "... want to be name checked with Bibi (Benjamin Netanyahu), and they are just growing i..."
-
-**[00:54:26](/episodes/ep-9k2xrAC0H88.md#ent-person-benjamin-netanyahu-t-00-54-08)**
-> "...e checked with Bibi (Benjamin Netanyahu), and they are just growing increasingly volatile..."
 
 </details>
 

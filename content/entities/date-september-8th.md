@@ -1,6 +1,6 @@
 ---
 title: "September 8th"
-description: "September 8th (Dates) - 3 mentions"
+description: "September 8th (Dates) - 2 mentions"
 id: "date-september-8th"
 type: "DATE"
 aliases:
@@ -18,13 +18,10 @@ _Type: Dates_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (3 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
 
 **[00:37:38](/episodes/ep-ewBzjVe3LNQ.md#ent-date-september-8th-t-00-37-20)**
 > "this is on September 8th, the evening of September 8th at the Candlewood Suites"
-
-**[00:37:30](/episodes/ep-ewBzjVe3LNQ.md#ent-date-september-8th-t-00-37-20)**
-> "And this is on September 8th, the evening of September 8th at the Candlewood S..."
 
 **[00:37:30](/episodes/ep-ewBzjVe3LNQ.md#ent-date-september-8th-t-00-37-20)**
 > "...September 8th, the evening of September 8th at the Candlewood Suites, which you have given me..."

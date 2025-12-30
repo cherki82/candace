@@ -1,6 +1,6 @@
 ---
 title: "Ben Shapiro"
-description: "Ben Shapiro (People) - 166 mentions"
+description: "Ben Shapiro (People) - 162 mentions"
 id: "person-ben-shapiro"
 type: "PERSON"
 aliases:
@@ -17,10 +17,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (44 mentions)</summary>
-
-**[00:00:02](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-00-00)**
-> "it's pretty obvious that Ben Shapiro is terrified"
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (42 mentions)</summary>
 
 **[00:00:02](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-00-00)**
 > "...that it's pretty obvious that Ben Shapiro is terrified."
@@ -115,9 +112,6 @@ _Type: People_
 **[00:23:59](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-23-59)**
 > "Of course, what followed Ben Shapiro on stage is somebody who Charlie Kirk loved very ..."
 
-**[00:23:59](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-23-59)**
-> "...ing him, some of them because Ben Shapiro insisted that they do."
-
 **[00:26:57](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-26-46)**
 > "...harlie Kirk knew exactly what Ben Shapiro was and will always be."
 
@@ -154,7 +148,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (9 mentions)</summary>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (7 mentions)</summary>
 
 **[00:11:40](/episodes/ep-6J6lRZPQ4jk.md#ent-person-ben-shapiro-t-00-11-13)**
 > "Ben (Ben Shapiro) said they never had any bad blood between them"
@@ -165,17 +159,11 @@ _Type: People_
 **[00:42:59](/episodes/ep-6J6lRZPQ4jk.md#ent-person-ben-shapiro-t-00-42-30)**
 > "...tted to truth, then when Ben (Ben Shapiro) lied and said that he never had any issues with ..."
 
-**[00:42:59](/episodes/ep-6J6lRZPQ4jk.md#ent-person-ben-shapiro-t-00-42-30)**
-> "...committed to truth, then when Ben (Ben Shapiro) lied and said that he never had any..."
-
 **[00:43:35](/episodes/ep-6J6lRZPQ4jk.md#ent-person-ben-shapiro-t-00-42-30)**
 > "Or, oh, as Ben came out and said that he was good with Charlie o..."
 
 **[00:44:02](/episodes/ep-6J6lRZPQ4jk.md#ent-person-ben-shapiro-t-00-42-30)**
 > "...leased a bunch of texts about Ben between her and between Charlie and, you know, ba..."
-
-**[00:44:02](/episodes/ep-6J6lRZPQ4jk.md#ent-person-ben-shapiro-t-00-42-30)**
-> "... saying that they didn't like Ben very much back in the day seven years ago."
 
 **[00:44:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-ben-shapiro-t-00-42-30)**
 > "...cause those texts didn't make Ben look bad."

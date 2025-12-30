@@ -1,6 +1,6 @@
 ---
 title: "Dallas"
-description: "Dallas (Places) - 12 mentions"
+description: "Dallas (Places) - 9 mentions"
 id: "gpe-dallas"
 type: "GPE"
 ---
@@ -13,10 +13,7 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
-
-**[00:01:51](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-dallas-t-00-01-51)**
-> "I was going to speak in Dallas at their YWLS convention"
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
 
 **[00:01:51](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-dallas-t-00-01-51)**
 > "...ut as I was going to speak in Dallas at their YWLS convention that Ben had sent an int..."
@@ -24,16 +21,10 @@ _Type: Places_
 </details>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3 mentions)</summary>
-
-**[00:46:57](/episodes/ep-9k2xrAC0H88.md#ent-gpe-dallas-t-00-46-51)**
-> "before continuing down to Dallas getting there very early into Dallas early morning"
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>
 
 **[00:46:57](/episodes/ep-9k2xrAC0H88.md#ent-gpe-dallas-t-00-46-51)**
 > "...7th before continuing down to Dallas getting there very early into Dallas early mornin..."
-
-**[00:46:57](/episodes/ep-9k2xrAC0H88.md#ent-gpe-dallas-t-00-46-51)**
-> "...getting there very early into Dallas early morning, very early morning on the 8th."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Tucker Carlson"
-description: "Tucker Carlson (People) - 379 mentions"
+description: "Tucker Carlson (People) - 361 mentions"
 id: "person-tucker-carlson"
 type: "PERSON"
 aliases:
@@ -18,19 +18,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (18 mentions)</summary>
-
-**[00:07:49](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-07-19)**
-> "Tucker Carlson's luck that I had been slated to come on his new show"
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (13 mentions)</summary>
 
 **[00:07:49](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-07-19)**
 > "Now it was just Tucker Carlson's luck that I had been slated to come on his new sh..."
 
 **[00:08:00](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-08-00)**
 > "...rending all over Twitter, and Tucker Carlson is going to be the first person to capture my rea..."
-
-**[00:08:00](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-08-00)**
-> "... all over Twitter, and Tucker Carlson is going to be the first person to capture my rea..."
 
 **[00:08:43](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-08-43)**
 > "...lsewhere in my interview with Tucker, he asks me who I look up to, who I like."
@@ -44,9 +38,6 @@ _Type: People_
 **[00:09:55](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-09-55)**
 > "...ecause he's deeply jealous of Tucker Carlson for reasons that I cannot quite understand."
 
-**[00:09:55](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-09-55)**
-> "...he's deeply jealous of Tucker Carlson for reasons that I cannot quite understand."
-
 **[00:10:24](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-09-55)**
 > "Interview with Tucker is on the 15th, I think it premieres on the 16th,..."
 
@@ -55,12 +46,6 @@ _Type: People_
 
 **[00:18:52](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-18-29)**
 > "... attack me, he's gonna attack Tucker Carlson, and he's gonna attack Megyn Kelly because she's ..."
-
-**[00:18:52](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-18-29)**
-> "... these people have put me and Tucker and Charlie Kirk through."
-
-**[00:18:52](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-18-29)**
-> "... me, he's gonna attack Tucker Carlson, and he's gonna attack Megyn Kelly because she's ..."
 
 **[00:19:45](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-19-45)**
 > "So no, Tucker Carlson, it is not an excuse to go silent on Candace's ta..."
@@ -77,7 +62,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (8 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (4 mentions)</summary>
 
 **[00:10:26](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tucker-carlson-t-00-10-25)**
 > "God doesn't want you to follow Tucker Carlson on Instagram."
@@ -85,34 +70,19 @@ _Type: People_
 **[00:10:47](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tucker-carlson-t-00-10-25)**
 > "...od doesn't want you to follow Tucker Carlson on Instagram."
 
-**[00:10:47](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tucker-carlson-t-00-10-25)**
-> "...n't want you to follow Tucker Carlson on Instagram."
-
 **[00:10:53](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tucker-carlson-t-00-10-25)**
 > "...essed by a demon, so unfollow Tucker Carlson and unfollow Candace."
-
-**[00:10:53](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tucker-carlson-t-00-10-25)**
-> "...y a demon, so unfollow Tucker Carlson and unfollow Candace."
-
-**[00:24:05](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tucker-carlson-t-00-23-39)**
-> "...Turning Point USA event where Tucker asked the question, where does this guy's money c..."
 
 **[00:24:05](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tucker-carlson-t-00-23-39)**
 > "...Point USA event where Tucker (Tucker Carlson) asked the question, where does this guy's money ..."
 
-**[00:24:05](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tucker-carlson-t-00-23-39)**
-> "...SA event where Tucker (Tucker Carlson) asked the question, where does this guy's money ..."
-
 </details>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3 mentions)</summary>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
 
 **[00:54:25](/episodes/ep-9k2xrAC0H88.md#ent-person-tucker-carlson-t-00-54-08)**
 > "They want me and Tucker"
-
-**[00:54:23](/episodes/ep-9k2xrAC0H88.md#ent-person-tucker-carlson-t-00-54-08)**
-> "They want me and Tucker (Tucker Carlson)."
 
 **[00:54:23](/episodes/ep-9k2xrAC0H88.md#ent-person-tucker-carlson-t-00-54-08)**
 > "...ey want me and Tucker (Tucker Carlson)."
@@ -120,7 +90,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (13 mentions)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (7 mentions)</summary>
 
 **[00:00:05](/episodes/ep-es7PWdFGoFI.md#ent-person-tucker-carlson-t-00-00-00)**
 > "Tucker (Tucker Carlson) is Adolf Hitler"
@@ -134,49 +104,25 @@ _Type: People_
 **[01:09:25](/episodes/ep-es7PWdFGoFI.md#ent-person-tucker-carlson-t-01-08-50)**
 > "...g out with TP USA and Tucker (Tucker Carlson) and Marjorie Taylor Greene at Tucker's Christmas..."
 
-**[01:09:25](/episodes/ep-es7PWdFGoFI.md#ent-person-tucker-carlson-t-01-08-50)**
-> "...s hanging out with TP USA and Tucker (Tucker Carlson) and Marjorie Taylor Greene at Tu..."
-
-**[01:09:25](/episodes/ep-es7PWdFGoFI.md#ent-person-tucker-carlson-t-01-08-50)**
-> "...and Marjorie Taylor Greene at Tucker's Christmas party."
-
-**[01:09:25](/episodes/ep-es7PWdFGoFI.md#ent-person-tucker-carlson-t-01-08-50)**
-> "...ith TP USA and Tucker (Tucker Carlson) and Marjorie Taylor Greene at Tucker's Christmas..."
-
 **[01:09:44](/episodes/ep-es7PWdFGoFI.md#ent-person-tucker-carlson-t-01-09-35)**
 > "I had never had beef with Tucker."
 
 **[01:10:03](/episodes/ep-es7PWdFGoFI.md#ent-person-tucker-carlson-t-01-09-35)**
 > "I am sure because Tucker (Tucker Carlson) obviously has a good relationship with them that..."
 
-**[01:10:03](/episodes/ep-es7PWdFGoFI.md#ent-person-tucker-carlson-t-01-09-35)**
-> "...m sure because Tucker (Tucker Carlson) obviously has a good relationship with them that..."
-
-**[01:13:26](/episodes/ep-es7PWdFGoFI.md#ent-person-tucker-carlson-t-01-13-14)**
-> "...e reason, Candice and Tucker (Tucker Carlson) are not."
-
 **[01:13:26](/episodes/ep-es7PWdFGoFI.md#ent-person-tucker-carlson-t-01-13-14)**
 > "... for some reason, Candice and Tucker (Tucker Carlson) are not."
-
-**[01:13:26](/episodes/ep-es7PWdFGoFI.md#ent-person-tucker-carlson-t-01-13-14)**
-> "...n, Candice and Tucker (Tucker Carlson) are not."
 
 </details>
 
 <details>
-<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (4 mentions)</summary>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2 mentions)</summary>
 
 **[00:06:36](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tucker-carlson-t-00-06-08)**
 > "This actually, what I'm saying about Bari Weiss, this gets into Tucker (Tucker Carlson)'s quote-unquote problematic speech"
 
 **[00:06:26](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tucker-carlson-t-00-06-08)**
 > "...Weiss, this gets into Tucker (Tucker Carlson)'s quote-unquote problematic speech at SAS when h..."
-
-**[00:06:26](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tucker-carlson-t-00-06-08)**
-> "...ut Bari Weiss, this gets into Tucker (Tucker Carlson)'s quote-unquote problematic spee..."
-
-**[00:06:26](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tucker-carlson-t-00-06-08)**
-> "...this gets into Tucker (Tucker Carlson)'s quote-unquote problematic speech at SAS when h..."
 
 </details>
 

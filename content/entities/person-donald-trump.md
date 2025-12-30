@@ -1,6 +1,6 @@
 ---
 title: "Donald Trump"
-description: "Donald Trump (People) - 191 mentions"
+description: "Donald Trump (People) - 189 mentions"
 id: "person-donald-trump"
 type: "PERSON"
 aliases:
@@ -33,7 +33,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (9 mentions)</summary>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (7 mentions)</summary>
 
 **[00:25:01](/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-00-24-22)**
 > "Trump said that he thinks that Dan wants to get back to his show"
@@ -45,9 +45,6 @@ _Type: People_
 > "Trump (Donald Trump) said that he thinks that Dan (Dan Bongino) wants..."
 
 **[00:36:07](/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-00-36-07)**
-> "...flown, for example, President Trump's family back from their summer home in Bedminster,..."
-
-**[00:36:07](/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-00-36-07)**
 > "... recently flown, for example, President Trump's family back from their summer home in Bedminster,..."
 
 **[00:38:42](/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-00-38-25)**
@@ -55,9 +52,6 @@ _Type: People_
 
 **[01:01:39](/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-01-01-17)**
 > "...bly said, you know, where was Donald Trump?"
-
-**[01:01:39](/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-01-01-17)**
-> "...d, you know, where was Donald Trump?"
 
 **[01:01:47](/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-01-01-17)**
 > "I found JD Vance with Donald Trump at a restaurant that evening in D.C."

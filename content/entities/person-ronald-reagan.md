@@ -1,6 +1,6 @@
 ---
 title: "Ronald Reagan"
-description: "Ronald Reagan (People) - 7 mentions"
+description: "Ronald Reagan (People) - 5 mentions"
 id: "person-ronald-reagan"
 type: "PERSON"
 aliases:
@@ -18,16 +18,10 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3 mentions)</summary>
-
-**[00:35:44](/episodes/ep-w1oqQbR_bYs.md#ent-person-ronald-reagan-t-00-35-37)**
-> "quote Ronald Reagan, facts are stubborn things"
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
 
 **[00:35:44](/episodes/ep-w1oqQbR_bYs.md#ent-person-ronald-reagan-t-00-35-37)**
 > "...d event on that date to quote Ronald Reagan, facts are stubborn things, Merry Christmas."
-
-**[00:35:44](/episodes/ep-w1oqQbR_bYs.md#ent-person-ronald-reagan-t-00-35-37)**
-> "... on that date to quote Ronald Reagan, facts are stubborn things, Merry Christmas."
 
 </details>
 

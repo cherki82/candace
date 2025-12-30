@@ -1,6 +1,6 @@
 ---
 title: "Andrew Kolvet"
-description: "Andrew Kolvet (People) - 155 mentions"
+description: "Andrew Kolvet (People) - 144 mentions"
 id: "person-andrew-kolvet"
 type: "PERSON"
 aliases:
@@ -18,10 +18,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (8 mentions)</summary>
-
-**[00:02:30](/episodes/ep-w1oqQbR_bYs.md#ent-person-andrew-kolvet-t-00-02-30)**
-> "this is what was divulged to me from Andrew Kolvet"
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (7 mentions)</summary>
 
 **[00:02:30](/episodes/ep-w1oqQbR_bYs.md#ent-person-andrew-kolvet-t-00-02-30)**
 > "... what was divulged to me from Andrew Kolvet at the time, willing to spend an offensive amount..."
@@ -47,13 +44,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (12 mentions)</summary>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (10 mentions)</summary>
 
 **[00:03:12](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-02-44)**
 > "I was told that Andrew Kolvet was allegedly flying blind when he tweeted out the conversation that he had with the surgeon."
-
-**[00:03:12](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-02-44)**
-> "...d to you that I was told that Andrew Kolvet was allegedly flying blind when he tweeted out th..."
 
 **[00:04:27](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-04-09)**
 > "Why would he speak to Andrew Kolvet?"
@@ -66,9 +60,6 @@ _Type: People_
 
 **[00:06:22](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-06-10)**
 > "...cated very clearly to Andrew (Andrew Kolvet), and yes, it is absolutely true that the surgeon..."
-
-**[00:06:22](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-06-10)**
-> "... communicated very clearly to Andrew (Andrew Kolvet), and yes, it is absolutely true t..."
 
 **[00:07:16](/episodes/ep-9k2xrAC0H88.md#ent-person-andrew-kolvet-t-00-06-40)**
 > "Well, Andrew (Andrew Kolvet) also told us that the bullet did ricochet."
@@ -88,7 +79,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (27 mentions)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (19 mentions)</summary>
 
 **[00:01:17](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-04-10)**
 > "Alex and Andrew then jump onto a podcast"
@@ -96,26 +87,14 @@ _Type: People_
 **[00:04:26](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-04-10)**
 > "...Alex (Alex Clark) and Andrew (Andrew Kolvet) then jump onto a podcast and they're doing that ..."
 
-**[00:04:26](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-04-10)**
-> "...to him, Alex (Alex Clark) and Andrew (Andrew Kolvet) then jump onto a podcast and they..."
-
 **[00:06:19](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-06-11)**
 > "... I clarified, I said, Andrew (Andrew Kolvet) told me specifically that he was one of the peop..."
-
-**[00:06:19](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-06-11)**
-> "...how, and I clarified, I said, Andrew (Andrew Kolvet) told me specifically that he was ..."
 
 **[00:06:32](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-06-11)**
 > "...ot that directly from Andrew (Andrew Kolvet)."
 
-**[00:06:32](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-06-11)**
-> "I got that directly from Andrew (Andrew Kolvet)."
-
 **[00:07:02](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-06-43)**
 > "Andrew (Andrew Kolvet) received a message the night before, and Dan (Da..."
-
-**[00:07:15](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-06-43)**
-> "...s almost exactly what Andrew (Andrew Kolvet) said, which is, they're going to kill me."
 
 **[00:07:15](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-06-43)**
 > "...which was almost exactly what Andrew (Andrew Kolvet) said, which is, they're going to ..."
@@ -125,9 +104,6 @@ _Type: People_
 
 **[00:12:48](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-12-42)**
 > "...ickly what happens is Andrew (Andrew Kolvet) whips up this tweet about what happened with the..."
-
-**[00:12:48](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-12-42)**
-> "Very quickly what happens is Andrew (Andrew Kolvet) whips up this tweet about what ha..."
 
 **[00:13:55](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-13-27)**
 > "... in the comments responded to Andrew and he said,"
@@ -144,14 +120,8 @@ _Type: People_
 **[00:14:46](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-14-10)**
 > "...even know, in theory, Andrew (Andrew Kolvet) wasn't even there when Charlie (Charlie Kirk) di..."
 
-**[00:14:46](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-14-10)**
-> "I don't even know, in theory, Andrew (Andrew Kolvet) wasn't even there when Charlie (C..."
-
 **[00:14:53](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-14-53)**
 > "...after, but, you know, Andrew (Andrew Kolvet) was not one of the people that got into the hosp..."
-
-**[00:14:53](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-14-53)**
-> "... around after, but, you know, Andrew (Andrew Kolvet) was not one of the people that go..."
 
 **[00:31:35](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-31-26)**
 > "...with Alex (Alex Clark), where Andrew said, oh, there was not $150 million that's made ..."
@@ -167,9 +137,6 @@ _Type: People_
 
 **[00:56:58](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-56-34)**
 > "...ven be the first time Andrew (Andrew Kolvet) has expressed that he thought that those message..."
-
-**[00:56:58](/episodes/ep-es7PWdFGoFI.md#ent-person-andrew-kolvet-t-00-56-34)**
-> "... might even be the first time Andrew (Andrew Kolvet) has expressed that he thought tha..."
 
 </details>
 

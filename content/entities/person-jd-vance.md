@@ -1,6 +1,6 @@
 ---
 title: "JD Vance"
-description: "JD Vance (People) - 14 mentions"
+description: "JD Vance (People) - 13 mentions"
 id: "person-jd-vance"
 type: "PERSON"
 aliases:
@@ -17,16 +17,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (6 mentions)</summary>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (5 mentions)</summary>
 
 **[00:38:38](/episodes/ep-9k2xrAC0H88.md#ent-person-jd-vance-t-00-38-25)**
 > "And he's like, well, we don't know where JD Vance was on this day"
 
 **[00:38:35](/episodes/ep-9k2xrAC0H88.md#ent-person-jd-vance-t-00-38-25)**
 > "...ke, well, we don't know where JD Vance was on this day."
-
-**[00:38:38](/episodes/ep-9k2xrAC0H88.md#ent-person-jd-vance-t-00-38-25)**
-> "...to dig through a lot and find JD Vance was in DC."
 
 **[00:38:42](/episodes/ep-9k2xrAC0H88.md#ent-person-jd-vance-t-00-38-25)**
 > "This is not JD Vance."

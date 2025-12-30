@@ -1,6 +1,6 @@
 ---
 title: "Nick Fuentes"
-description: "Nick Fuentes (People) - 76 mentions"
+description: "Nick Fuentes (People) - 75 mentions"
 id: "person-nick-fuentes"
 type: "PERSON"
 ---
@@ -13,10 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3 mentions)</summary>
-
-**[00:16:09](/episodes/ep-w1oqQbR_bYs.md#ent-person-nick-fuentes-t-00-15-40)**
-> "he shows videos of Nick Fuentes"
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
 
 **[00:16:09](/episodes/ep-w1oqQbR_bYs.md#ent-person-nick-fuentes-t-00-15-40)**
 > "And he shows videos of Nick Fuentes, which have nothing, had nothing to do with me."

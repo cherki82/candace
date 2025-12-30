@@ -1,6 +1,6 @@
 ---
 title: "American Financing"
-description: "American Financing (Organizations) - 137 mentions"
+description: "American Financing (Organizations) - 136 mentions"
 id: "org-american-financing"
 type: "ORG"
 aliases:
@@ -17,10 +17,7 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (5 mentions)</summary>
-
-**[00:48:15](/episodes/ep-w1oqQbR_bYs.md#ent-org-american-financing-t-00-48-04)**
-> "the Fed has dropped rates for the fourth time... call American financing today"
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (4 mentions)</summary>
 
 **[00:48:15](/episodes/ep-w1oqQbR_bYs.md#ent-org-american-financing-t-00-48-04)**
 > "Also remind you guys about American financing because the Fed has dropped rates for the fourth ..."

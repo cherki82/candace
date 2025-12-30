@@ -1,6 +1,6 @@
 ---
 title: "Bari Weiss"
-description: "Bari Weiss (People) - 49 mentions"
+description: "Bari Weiss (People) - 47 mentions"
 id: "person-bari-weiss"
 type: "PERSON"
 aliases:
@@ -18,10 +18,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3 mentions)</summary>
-
-**[00:02:53](/episodes/ep-w1oqQbR_bYs.md#ent-person-bari-weiss-t-00-02-30)**
-> "he was working with Bari Weiss"
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
 
 **[00:02:53](/episodes/ep-w1oqQbR_bYs.md#ent-person-bari-weiss-t-00-02-30)**
 > "...knew that he was working with Bari Weiss"
@@ -32,16 +29,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (3 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
 
 **[00:24:00](/episodes/ep-ewBzjVe3LNQ.md#ent-person-bari-weiss-t-00-23-39)**
 > "I mean, obviously Barry Weiss is one of these actors."
 
 **[00:24:20](/episodes/ep-ewBzjVe3LNQ.md#ent-person-bari-weiss-t-00-23-39)**
 > "I mean, obviously Barry Weiss"
-
-**[00:24:20](/episodes/ep-ewBzjVe3LNQ.md#ent-person-bari-weiss-t-00-23-39)**
-> "I mean, obviously Bari Weiss"
 
 </details>
 

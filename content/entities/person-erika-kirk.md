@@ -1,6 +1,6 @@
 ---
 title: "Erika Kirk"
-description: "Erika Kirk (People) - 384 mentions"
+description: "Erika Kirk (People) - 342 mentions"
 id: "person-erika-kirk"
 type: "PERSON"
 aliases:
@@ -20,10 +20,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (16 mentions)</summary>
-
-**[00:00:12](/episodes/ep-w1oqQbR_bYs.md#ent-person-erika-kirk-t-00-00-00)**
-> "demanding an allegiance to Erika Kirk"
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (14 mentions)</summary>
 
 **[00:00:12](/episodes/ep-w1oqQbR_bYs.md#ent-person-erika-kirk-t-00-00-00)**
 > "...nd demanding an allegiance to Erika Kirk."
@@ -45,9 +42,6 @@ _Type: People_
 
 **[00:30:52](/episodes/ep-w1oqQbR_bYs.md#ent-person-erika-kirk-t-00-30-16)**
 > "He just keeps calling out Erika Kirk on stage, demanding allegiance to Erika Kirk."
-
-**[00:30:52](/episodes/ep-w1oqQbR_bYs.md#ent-person-erika-kirk-t-00-30-16)**
-> "...tage, demanding allegiance to Erika Kirk."
 
 **[00:40:26](/episodes/ep-w1oqQbR_bYs.md#ent-person-erika-kirk-t-00-40-26)**
 > "...right now on X, which is that Erika Kirk lied about having not dated anybody before Charli..."
@@ -73,13 +67,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (7 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (4 mentions)</summary>
 
 **[00:07:19](/episodes/ep-ewBzjVe3LNQ.md#ent-person-erika-kirk-t-00-06-59)**
 > "he wanted, obviously, the team to get back in there to make sure that Charlie could get cleaned up before Erica came in."
 
 **[00:07:05](/episodes/ep-ewBzjVe3LNQ.md#ent-person-erika-kirk-t-00-06-59)**
-> "...e could get cleaned up before Erica came in."
+> "...) could get cleaned up before Erika (Erika Kirk) came in."
 
 **[00:57:37](/episodes/ep-ewBzjVe3LNQ.md#ent-person-erika-kirk-t-00-57-34)**
 > "There's a picture of Erica Kirk with a ponytail from her past."
@@ -87,25 +81,13 @@ _Type: People_
 **[00:58:00](/episodes/ep-ewBzjVe3LNQ.md#ent-person-erika-kirk-t-00-58-00)**
 > "...il matches the description of Erica Kirk, what percentage would you put that at?"
 
-**[00:07:05](/episodes/ep-ewBzjVe3LNQ.md#ent-person-erika-kirk-t-00-06-59)**
-> "... get cleaned up before Erika (Erika Kirk) came in."
-
-**[00:07:05](/episodes/ep-ewBzjVe3LNQ.md#ent-person-erika-kirk-t-00-06-59)**
-> "...) could get cleaned up before Erika (Erika Kirk) came in."
-
-**[00:57:37](/episodes/ep-ewBzjVe3LNQ.md#ent-person-erika-kirk-t-00-57-34)**
-> "There's a picture of Erika Kirk with a ponytail from her past."
-
 </details>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (11 mentions)</summary>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (7 mentions)</summary>
 
 **[00:08:55](/episodes/ep-9k2xrAC0H88.md#ent-person-erika-kirk-t-00-08-48)**
 > "after his next of kin, obviously Erika, was informed"
-
-**[00:08:48](/episodes/ep-9k2xrAC0H88.md#ent-person-erika-kirk-t-00-08-48)**
-> "...next of kin, obviously Erika (Erika Kirk), was informed."
 
 **[00:08:48](/episodes/ep-9k2xrAC0H88.md#ent-person-erika-kirk-t-00-08-48)**
 > "...er his next of kin, obviously Erika (Erika Kirk), was informed."
@@ -117,19 +99,10 @@ _Type: People_
 > "Everyone sees that Erika (Erika Kirk) acts suspicious all the time and you are dismiss..."
 
 **[01:00:06](/episodes/ep-9k2xrAC0H88.md#ent-person-erika-kirk-t-00-59-52)**
-> "...e says, I have to call Erika (Erika Kirk)."
-
-**[01:00:06](/episodes/ep-9k2xrAC0H88.md#ent-person-erika-kirk-t-00-59-52)**
 > "...m and he says, I have to call Erika (Erika Kirk)."
 
 **[01:00:20](/episodes/ep-9k2xrAC0H88.md#ent-person-erika-kirk-t-00-59-52)**
-> "...u guys have said about Erika (Erika Kirk)."
-
-**[01:00:20](/episodes/ep-9k2xrAC0H88.md#ent-person-erika-kirk-t-00-59-52)**
 > "...that you guys have said about Erika (Erika Kirk)."
-
-**[01:00:25](/episodes/ep-9k2xrAC0H88.md#ent-person-erika-kirk-t-00-59-52)**
-> "...I've said to you, when Erika (Erika Kirk) tells a lie, I am going to reply to that lie."
 
 **[01:00:25](/episodes/ep-9k2xrAC0H88.md#ent-person-erika-kirk-t-00-59-52)**
 > "...ys and I've said to you, when Erika (Erika Kirk) tells a lie, I am going to reply to ..."
@@ -137,7 +110,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (55 mentions)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (37 mentions)</summary>
 
 **[00:00:21](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-00-45)**
 > "Erika said, stop"
@@ -151,12 +124,6 @@ _Type: People_
 **[00:01:40](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-01-24)**
 > "...se questions, and then Erika (Erika Kirk) offers to answer some of these questions and I'm..."
 
-**[00:01:40](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-01-24)**
-> "... of these questions, and then Erika (Erika Kirk) offers to answer some of these quest..."
-
-**[00:02:24](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-02-04)**
-> "...n (Justin Streiff) and Erika (Erika Kirk)."
-
 **[00:02:24](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-02-04)**
 > "...t Justin (Justin Streiff) and Erika (Erika Kirk)."
 
@@ -166,17 +133,11 @@ _Type: People_
 **[00:03:37](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-03-29)**
 > "...e was pretty clear and Erika (Erika Kirk) was very clear that they were sort of most upset..."
 
-**[00:03:37](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-03-29)**
-> "And he was pretty clear and Erika (Erika Kirk) was very clear that they were sort o..."
-
 **[00:04:56](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-04-52)**
 > "And by no means did Erika (Erika Kirk) give any person the authority to go out and say ..."
 
 **[00:05:12](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-04-52)**
 > "... the first things that Erika (Erika Kirk) did was she owned the lies, the lies or rather I..."
-
-**[00:05:12](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-04-52)**
-> "... one of the first things that Erika (Erika Kirk) did was she owned the lies, the lies..."
 
 **[00:05:46](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-05-30)**
 > "We, Erika (Erika Kirk) sat down with Glenn (Glenn Beck)."
@@ -187,14 +148,8 @@ _Type: People_
 **[00:06:43](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-06-43)**
 > "...ht away and explained, Erika (Erika Kirk) said that she has Charlie (Charlie Kirk)'s phone..."
 
-**[00:06:43](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-06-43)**
-> "...hat right away and explained, Erika (Erika Kirk) said that she has Charlie (Charlie K..."
-
 **[00:08:12](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-08-02)**
 > "...'s interesting to hear Erika (Erika Kirk) say that the reason she didn't ask me to stop in..."
-
-**[00:08:12](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-08-02)**
-> "And it's interesting to hear Erika (Erika Kirk) say that the reason she didn't ask m..."
 
 **[00:09:10](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-08-38)**
 > "Erika said that she knew the general idea, like they we..."
@@ -203,16 +158,7 @@ _Type: People_
 > "...t share that information with Erica."
 
 **[00:25:11](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-25-11)**
-> "I need to call Erika (Erika Kirk) and then he takes his phone and he begins callin..."
-
-**[00:25:11](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-25-11)**
 > "... and he begins calling Erika (Erika Kirk) and I don't want to disclose how that call unfol..."
-
-**[00:25:11](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-25-11)**
-> "...s phone and he begins calling Erika (Erika Kirk) and I don't want to disclose how tha..."
-
-**[00:25:11](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-25-11)**
-> "...occurring I remember he calls Erica"
 
 **[00:26:38](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-26-38)**
 > "...first person Mikey called was Erica, right?"
@@ -221,19 +167,10 @@ _Type: People_
 > "He called Erica, we were told this by many people, also that he t..."
 
 **[00:27:17](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-26-38)**
-> "...inutes, he three-wayed Erika (Erika Kirk) three minutes after the shot went off."
-
-**[00:27:17](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-26-38)**
 > "...se 10 minutes, he three-wayed Erika (Erika Kirk) three minutes after the shot went of..."
 
 **[00:28:04](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-28-04)**
-> "... his mother ends, adds Erika (Erika Kirk) to the phone."
-
-**[00:28:04](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-28-04)**
 > "...ll with his mother ends, adds Erika (Erika Kirk) to the phone."
-
-**[00:28:11](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-28-04)**
-> "...e's like, I gotta call Erika (Erika Kirk)."
 
 **[00:28:11](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-28-04)**
 > "..., and he's like, I gotta call Erika (Erika Kirk)."
@@ -243,12 +180,6 @@ _Type: People_
 
 **[00:28:32](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-28-04)**
 > "...ikey McCoy) then drops Erika (Erika Kirk) from the phone call two minutes later, and then ..."
-
-**[00:28:32](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-28-04)**
-> "...ikey (Mikey McCoy) then drops Erika (Erika Kirk) from the phone call two minutes late..."
-
-**[00:29:25](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-28-47)**
-> "... that she's close with Erika (Erika Kirk)."
 
 **[00:29:25](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-28-47)**
 > "...y close that she's close with Erika (Erika Kirk)."
@@ -263,25 +194,13 @@ _Type: People_
 > "Of course, Erika (Erika Kirk) was at some of them, Charlie (Charlie Kirk) was ..."
 
 **[00:43:35](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-43-01)**
-> "...one of the things that Erika (Erika Kirk) was like, well, I'm not like a feminist."
-
-**[00:43:35](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-43-01)**
 > "...k that one of the things that Erika (Erika Kirk) was like, well, I'm not like a femin..."
-
-**[00:45:39](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-45-09)**
-> "...lie (Charlie Kirk) and Erika (Erika Kirk) did."
 
 **[00:45:39](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-00-45-09)**
 > "...as Charlie (Charlie Kirk) and Erika (Erika Kirk) did."
 
 **[01:05:57](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-01-05-19)**
-> "...t came behind that was Erika (Erika Kirk) communicating with Megan Kelly and me."
-
-**[01:05:57](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-01-05-19)**
 > "...hen what came behind that was Erika (Erika Kirk) communicating with Megan Kelly and m..."
-
-**[01:08:46](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-01-08-09)**
-> "...Bays writes, how would Erika (Erika Kirk) and the feds not see those messages?"
 
 **[01:08:46](/episodes/ep-es7PWdFGoFI.md#ent-person-erika-kirk-t-01-08-09)**
 > "Rio Bays writes, how would Erika (Erika Kirk) and the feds not see those messages?"
@@ -307,19 +226,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (42 mentions)</summary>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (27 mentions)</summary>
 
 **[00:00:59](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-00-40)**
 > "I am asking you that because Erika (Erika Kirk) believes it to be so."
 
 **[00:00:59](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-00-40)**
-> "...sking you that because Erika (Erika Kirk) believes it to be so."
-
-**[00:00:59](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-00-40)**
 > "I am asking you that because Erika (Erika Kirk) believes it to be so."
-
-**[00:01:06](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-00-40)**
-> "... pivoting and bringing Erika (Erika Kirk) out to signal to the public."
 
 **[00:01:06](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-00-40)**
 > "...are now pivoting and bringing Erika (Erika Kirk) out to signal to the public."
@@ -327,20 +240,11 @@ _Type: People_
 **[00:01:23](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-01-23)**
 > "...he same conclusions as Erika (Erika Kirk), especially when the story that we have been pre..."
 
-**[00:01:23](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-01-23)**
-> "...ve at the same conclusions as Erika (Erika Kirk), especially when the story that we h..."
-
-**[00:04:21](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-04-04)**
-> "...y if that offends you, Erika (Erika Kirk)."
-
 **[00:04:21](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-04-04)**
 > "...ry sorry if that offends you, Erika (Erika Kirk)."
 
 **[00:05:51](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-05-27)**
 > "...ly, for a lot of reasons, but Erika's, that's now being teased, the interview with Bari..."
-
-**[00:07:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-06-49)**
-> "...is going to deliver to Erika (Erika Kirk)."
 
 **[00:07:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-06-49)**
 > "...at she is going to deliver to Erika (Erika Kirk)."
@@ -354,23 +258,14 @@ _Type: People_
 **[00:09:36](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-08-59)**
 > "...can only honor that if Erika (Erika Kirk) is more explicit in terms of what I have lied ab..."
 
-**[00:09:36](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-08-59)**
-> "I can only honor that if Erika (Erika Kirk) is more explicit in terms of what I ..."
-
 **[00:14:04](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-14-04)**
 > "..., tracking Charlie, following Erika throughout years."
 
 **[00:14:58](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-14-48)**
 > "...cted questions was for Erika (Erika Kirk), and this will come out on Saturday, setting the..."
 
-**[00:14:58](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-14-48)**
-> "...preselected questions was for Erika (Erika Kirk), and this will come out on Saturday,..."
-
 **[00:16:30](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-16-17)**
 > "...gonna get more because Erika (Erika Kirk) also sat down with Glenn (Glenn Beck) (Glenn Bec..."
-
-**[00:16:30](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-16-17)**
-> "We're gonna get more because Erika (Erika Kirk) also sat down with Glenn (Glenn Beck..."
 
 **[00:16:53](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-16-17)**
 > "Foremost, Erika (Erika Kirk) stressing that she believes that the truth is cl..."
@@ -382,13 +277,7 @@ _Type: People_
 > "...oint, that's akin to accusing Erika Kirk of killing her husband, which is utterly ridiculo..."
 
 **[00:18:20](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-17-45)**
-> "...body come out and say, Erika (Erika Kirk) murdered Charlie."
-
-**[00:18:20](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-17-45)**
 > "...t, somebody come out and say, Erika (Erika Kirk) murdered Charlie."
-
-**[00:26:23](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-25-54)**
-> "...ith great deference to Erika (Erika Kirk)."
 
 **[00:26:23](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-25-54)**
 > "... this with great deference to Erika (Erika Kirk)."
@@ -396,17 +285,8 @@ _Type: People_
 **[00:50:07](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-50-01)**
 > "...wrote, Issa Rae wrote, Erika (Erika Kirk) will forgive someone one week later for murderin..."
 
-**[00:50:07](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-50-01)**
-> "...person wrote, Issa Rae wrote, Erika (Erika Kirk) will forgive someone one week later ..."
-
-**[00:50:33](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-50-01)**
-> "...lowed to disagree with Erika (Erika Kirk)."
-
 **[00:50:33](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-50-01)**
 > "...u're allowed to disagree with Erika (Erika Kirk)."
-
-**[00:50:48](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-50-41)**
-> "... several times that if Erika (Erika Kirk) asked you to stop, you would in fact stop."
 
 **[00:50:48](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-50-41)**
 > "...ntioned several times that if Erika (Erika Kirk) asked you to stop, you would in fact..."
@@ -418,16 +298,10 @@ _Type: People_
 > "Two, she's jealous of Erika (Erika Kirk) marrying Charlie."
 
 **[00:55:32](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-55-32)**
-> "...just not understanding Erika (Erika Kirk)'s responses."
-
-**[00:55:32](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-55-32)**
 > "...t I am just not understanding Erika (Erika Kirk)'s responses."
 
 **[00:57:28](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-00-56-57)**
 > "... mentioned the Maroon Boys in Erika's propagandized piece that's going to come out with..."
-
-**[01:01:31](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-01-01-02)**
-> "...r, my beef is not with Erika (Erika Kirk)."
 
 **[01:01:31](/episodes/ep-6J6lRZPQ4jk.md#ent-person-erika-kirk-t-01-01-02)**
 > "...be clear, my beef is not with Erika (Erika Kirk)."

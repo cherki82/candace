@@ -1,6 +1,6 @@
 ---
 title: "America Fest"
-description: "America Fest (Events) - 14 mentions"
+description: "America Fest (Events) - 13 mentions"
 id: "event-america-fest"
 type: "EVENT"
 aliases:
@@ -19,10 +19,7 @@ _Type: Events_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (4 mentions)</summary>
-
-**[00:01:14](/episodes/ep-w1oqQbR_bYs.md#ent-event-america-fest-t-00-00-42)**
-> "Turning Point USA's AmFest"
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3 mentions)</summary>
 
 **[00:01:14](/episodes/ep-w1oqQbR_bYs.md#ent-event-america-fest-t-00-00-42)**
 > "... stage at Turning Point USA's AmFest the other night."

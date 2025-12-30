@@ -1,6 +1,6 @@
 ---
 title: "Mark Amodei"
-description: "Mark Amodei (People) - 12 mentions"
+description: "Mark Amodei (People) - 8 mentions"
 id: "person-mark-amodei"
 type: "PERSON"
 aliases:
@@ -19,19 +19,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (8 mentions)</summary>
-
-**[00:31:54](/episodes/ep-w1oqQbR_bYs.md#ent-person-mark-amodei-t-00-31-41)**
-> "Mark Amodei, we're gonna get to that, actually, that congressman"
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (5 mentions)</summary>
 
 **[00:31:54](/episodes/ep-w1oqQbR_bYs.md#ent-person-mark-amodei-t-00-31-41)**
 > "But Mark Amodei, we're gonna get to that, actually, that congress..."
 
 **[00:33:57](/episodes/ep-w1oqQbR_bYs.md#ent-person-mark-amodei-t-00-33-40)**
 > "...w the congressman from Vegas, Mark Amodei."
-
-**[00:33:57](/episodes/ep-w1oqQbR_bYs.md#ent-person-mark-amodei-t-00-33-40)**
-> "... congressman from Vegas, Mark Amodei."
 
 **[00:34:33](/episodes/ep-w1oqQbR_bYs.md#ent-person-mark-amodei-t-00-34-25)**
 > "Well, Mark Amodei apparently received a ton of phone calls from his..."
@@ -42,22 +36,16 @@ _Type: People_
 **[00:36:24](/episodes/ep-w1oqQbR_bYs.md#ent-person-mark-amodei-t-00-36-19)**
 > "...Denison on X Road exposed rep Mark Amodei tries and fails to give a solid alibi for the all..."
 
-**[00:36:24](/episodes/ep-w1oqQbR_bYs.md#ent-person-mark-amodei-t-00-36-19)**
-> "...on on X Road exposed rep Mark Amodei tries and fails to give a solid alibi for the all..."
-
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (4 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (3 mentions)</summary>
 
 **[01:00:56](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mark-amodei-t-01-00-33)**
 > "Mark Amodei from Las Vegas"
 
 **[01:00:50](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mark-amodei-t-01-00-33)**
 > "...rs, I'm blanking on his name, Mark Amodei."
-
-**[01:00:50](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mark-amodei-t-01-00-33)**
-> "...'m blanking on his name, Mark Amodei."
 
 **[01:00:58](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mark-amodei-t-01-00-33)**
 > "Mark Amodei from Las Vegas."

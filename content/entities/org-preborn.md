@@ -1,6 +1,6 @@
 ---
 title: "Preborn"
-description: "Preborn (Organizations) - 96 mentions"
+description: "Preborn (Organizations) - 95 mentions"
 id: "org-preborn"
 type: "ORG"
 ---
@@ -13,13 +13,10 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (6 mentions)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (5 mentions)</summary>
 
 **[00:27:20](/episodes/ep-w1oqQbR_bYs.md#ent-org-preborn-t-00-26-46)**
 > "double down on supporting life through our partnership with Preborn"
-
-**[00:27:20](/episodes/ep-w1oqQbR_bYs.md#ent-org-preborn-t-00-26-46)**
-> "... through our partnership with Preborn."
 
 **[00:27:30](/episodes/ep-w1oqQbR_bYs.md#ent-org-preborn-t-00-27-30)**
 > "Every day, Preborn's clinics rescue hundreds of babies because when a ..."

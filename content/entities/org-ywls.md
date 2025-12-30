@@ -1,6 +1,6 @@
 ---
 title: "Young Women's Leadership Summit"
-description: "Young Women's Leadership Summit (Organizations) - 7 mentions"
+description: "Young Women's Leadership Summit (Organizations) - 6 mentions"
 id: "org-ywls"
 type: "ORG"
 aliases:
@@ -17,10 +17,7 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
-
-**[00:01:51](/episodes/ep-w1oqQbR_bYs.md#ent-org-ywls-t-00-01-51)**
-> "YWLS convention"
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
 
 **[00:01:51](/episodes/ep-w1oqQbR_bYs.md#ent-org-ywls-t-00-01-51)**
 > "...g to speak in Dallas at their YWLS convention that Ben had sent an intern"

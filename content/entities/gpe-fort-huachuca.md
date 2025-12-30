@@ -1,6 +1,6 @@
 ---
 title: "Fort Huachuca"
-description: "Fort Huachuca (Places) - 66 mentions"
+description: "Fort Huachuca (Places) - 41 mentions"
 id: "gpe-fort-huachuca"
 type: "GPE"
 aliases:
@@ -18,16 +18,13 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (15 mentions)</summary>
-
-**[00:31:41](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-fort-huachuca-t-00-31-41)**
-> "The Fort Huachuca thing, it's definitively compelling"
-
-**[00:31:36](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-fort-huachuca-t-00-31-00)**
-> "The Fort Huachuca thing, it's definitively compelling, I would say."
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (9 mentions)</summary>
 
 **[00:31:41](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-fort-huachuca-t-00-31-41)**
 > "I am learning also that Fort Huachuca has ties to Liberty University and that you can a..."
+
+**[00:31:36](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-fort-huachuca-t-00-31-00)**
+> "The Fort Huachuca thing, it's definitively compelling, I would say."
 
 **[00:33:57](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-fort-huachuca-t-00-33-40)**
 > "Now, regarding Fort Huachuca and what it is or who he believes that he saw, we..."
@@ -35,26 +32,14 @@ _Type: Places_
 **[00:34:49](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-fort-huachuca-t-00-34-25)**
 > "... in the morning on the 9th at Fort Huachuca."
 
-**[00:34:49](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-fort-huachuca-t-00-34-25)**
-> "...he morning on the 9th at Fort Huachuca."
-
 **[00:46:03](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-fort-huachuca-t-00-45-57)**
 > "Fort Huachuca is involved in lawsuits and sworn affidavits rega..."
 
 **[00:46:14](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-fort-huachuca-t-00-45-57)**
 > "at Fort Huachuca, the more of what I learned about Fort Huachuca."
 
-**[00:46:14](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-fort-huachuca-t-00-45-57)**
-> "... more of what I learned about Fort Huachuca."
-
-**[00:46:14](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-fort-huachuca-t-00-45-57)**
-> "... of what I learned about Fort Huachuca."
-
 **[00:46:24](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-fort-huachuca-t-00-45-57)**
 > "... evidence of what occurred at Fort Huachuca on the early morning of the 9th, we want to hear ..."
-
-**[00:46:24](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-fort-huachuca-t-00-45-57)**
-> "...ence of what occurred at Fort Huachuca on the early morning of the 9th, we want to hear ..."
 
 **[00:51:23](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-fort-huachuca-t-00-50-49)**
 > "I'm going to Fort Huachuca"
@@ -62,22 +47,16 @@ _Type: Places_
 **[00:52:49](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-fort-huachuca-t-00-52-49)**
 > "...y verified what he said about Fort Huachuca"
 
-**[00:52:49](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-fort-huachuca-t-00-52-49)**
-> "...ified what he said about Fort Huachuca"
-
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (33 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (18 mentions)</summary>
 
 **[00:00:41](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-11-03)**
 > "I thought long and hard about whether to bring on the eyewitness from Fort Huachuca."
 
 **[00:00:34](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-11-03)**
 > "... bring on the eyewitness from Fort Huachuca."
-
-**[00:00:34](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-11-03)**
-> "...g on the eyewitness from Fort Huachuca."
 
 **[00:11:38](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-11-03)**
 > "Fort Huachuca, as many of you in the military have informed me,..."
@@ -88,38 +67,20 @@ _Type: Places_
 **[00:12:28](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-12-28)**
 > "... that I got, quote, just FYI, Fort Huachuca is where soldiers go for their MIT courses."
 
-**[00:12:28](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-12-28)**
-> "... I got, quote, just FYI, Fort Huachuca is where soldiers go for their MIT courses."
-
 **[00:15:39](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-15-19)**
 > "... class that she was taking on Fort Huachuca taught by none other than Bruce Bevins."
-
-**[00:15:39](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-15-19)**
-> "...s that she was taking on Fort Huachuca taught by none other than Bruce Bevins."
 
 **[00:19:01](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-18-39)**
 > "...panic ever since we mentioned Fort Huachuca."
 
-**[00:19:01](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-18-39)**
-> "... ever since we mentioned Fort Huachuca."
-
 **[00:19:20](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-19-20)**
 > "...was pressed when we mentioned Fort Huachuca in the alleged meeting that happened on the morni..."
-
-**[00:19:20](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-19-20)**
-> "...ressed when we mentioned Fort Huachuca in the alleged meeting that happened on the morni..."
 
 **[00:31:58](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-31-58)**
 > "...u're going to then go back to Fort Huachuca, is that where you were initially trained?"
 
-**[00:31:58](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-31-58)**
-> "...going to then go back to Fort Huachuca, is that where you were initially trained?"
-
 **[00:32:10](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-32-10)**
 > "...you were initially trained in Fort Huachuca."
-
-**[00:32:10](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-32-10)**
-> "...ere initially trained in Fort Huachuca."
 
 **[00:36:51](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-36-34)**
 > "I'm going to go down to Fort Huachuca, book myself into a hotel."
@@ -130,49 +91,25 @@ _Type: Places_
 **[00:57:45](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-57-34)**
 > "...t person matches who I saw at Fort Huachuca in the lobby the night before, and she was with t..."
 
-**[00:57:45](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-57-34)**
-> "...son matches who I saw at Fort Huachuca in the lobby the night before, and she was with t..."
-
 **[01:06:13](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-01-06-12)**
 > "...m sure there's people down at Fort Huachuca and other places that have seen things."
-
-**[01:06:13](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-01-06-12)**
-> "...e there's people down at Fort Huachuca and other places that have seen things."
-
-**[00:15:39](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-15-19)**
-> "...Bruce Bevins) Bevins (alleged Fort Huachuca instructor)."
-
-**[00:15:39](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-15-19)**
-> "... Bevins) Bevins (alleged Fort Huachuca instructor)."
 
 **[00:17:42](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-17-22)**
 > "...Bruce Bevins) Bevins (alleged Fort Huachuca instructor) trained some of these individuals bef..."
 
-**[00:17:42](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-17-22)**
-> "... Bevins) Bevins (alleged Fort Huachuca instructor) trained some of these individuals bef..."
-
 **[00:18:39](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-18-39)**
 > "... a part in these exercises on Fort Huachuca base where you were learning instructions about h..."
-
-**[00:18:39](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-18-39)**
-> "...rt in these exercises on Fort Huachuca base where you were learning instructions about h..."
 
 **[00:35:26](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-35-08)**
 > "... what led me to going down to Fort Huachuca was just to get the original records and find out..."
 
-**[00:35:26](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-35-08)**
-> "... led me to going down to Fort Huachuca was just to get the original records and find out..."
-
 **[01:01:19](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-01-01-19)**
 > "...mebody heavy duty that was at Fort Huachuca."
-
-**[01:01:19](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-01-01-19)**
-> "...y heavy duty that was at Fort Huachuca."
 
 </details>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (8 mentions)</summary>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (4 mentions)</summary>
 
 **[00:33:35](/episodes/ep-9k2xrAC0H88.md#ent-gpe-fort-huachuca-t-00-33-09)**
 > "we recognized this increase in this botted activity after we started speaking about Fort Huachuca"
@@ -180,23 +117,11 @@ _Type: Places_
 **[00:33:24](/episodes/ep-9k2xrAC0H88.md#ent-gpe-fort-huachuca-t-00-33-09)**
 > "...ter we started speaking about Fort Huachuca."
 
-**[00:33:24](/episodes/ep-9k2xrAC0H88.md#ent-gpe-fort-huachuca-t-00-33-09)**
-> "...e started speaking about Fort Huachuca."
-
-**[00:33:35](/episodes/ep-9k2xrAC0H88.md#ent-gpe-fort-huachuca-t-00-33-09)**
-> "We talked about Fort Huachuca."
-
 **[00:44:58](/episodes/ep-9k2xrAC0H88.md#ent-gpe-fort-huachuca-t-00-44-50)**
 > "... know, particularly regarding Fort Huachuca, it is an intelligence base."
 
-**[00:44:58](/episodes/ep-9k2xrAC0H88.md#ent-gpe-fort-huachuca-t-00-44-50)**
-> "..., particularly regarding Fort Huachuca, it is an intelligence base."
-
 **[00:47:55](/episodes/ep-9k2xrAC0H88.md#ent-gpe-fort-huachuca-t-00-47-35)**
 > "...n planes and what happened on Fort Huachuca base."
-
-**[00:47:55](/episodes/ep-9k2xrAC0H88.md#ent-gpe-fort-huachuca-t-00-47-35)**
-> "...nes and what happened on Fort Huachuca base."
 
 </details>
 

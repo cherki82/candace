@@ -1,6 +1,6 @@
 ---
 title: "Dave Rubin"
-description: "Dave Rubin (People) - 9 mentions"
+description: "Dave Rubin (People) - 8 mentions"
 id: "person-dave-rubin"
 type: "PERSON"
 ---
@@ -13,10 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
-
-**[00:13:44](/episodes/ep-w1oqQbR_bYs.md#ent-person-dave-rubin-t-00-13-30)**
-> "when Dave Rubin came to the exact same conclusion"
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
 
 **[00:13:44](/episodes/ep-w1oqQbR_bYs.md#ent-person-dave-rubin-t-00-13-30)**
 > "But when Dave Rubin came to the exact same conclusion as the anti-Sem..."

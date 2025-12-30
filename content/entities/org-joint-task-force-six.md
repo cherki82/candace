@@ -1,6 +1,6 @@
 ---
 title: "Joint Task Force Six"
-description: "Joint Task Force Six (Organizations) - 9 mentions"
+description: "Joint Task Force Six (Organizations) - 8 mentions"
 id: "org-joint-task-force-six"
 type: "ORG"
 aliases:
@@ -18,19 +18,16 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (4 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (3 mentions)</summary>
 
 **[00:25:36](/episodes/ep-ewBzjVe3LNQ.md#ent-org-joint-task-force-six-t-00-26-10)**
 > "Yeah, we were part of a mission going down to the board of JTF-6 assigned from 10th Mountain."
 
 **[00:26:15](/episodes/ep-ewBzjVe3LNQ.md#ent-org-joint-task-force-six-t-00-26-10)**
-> "...on going down to the board of JTF-6 assigned from 10th Mountain."
+> "...n going down to the border of JTF-6 assigned from 10th Mountain Division."
 
 **[00:27:38](/episodes/ep-ewBzjVe3LNQ.md#ent-org-joint-task-force-six-t-00-27-33)**
 > "...when I got pulled back to the JTF-6 headquarters,"
-
-**[00:26:15](/episodes/ep-ewBzjVe3LNQ.md#ent-org-joint-task-force-six-t-00-26-10)**
-> "...n going down to the border of JTF-6 assigned from 10th Mountain Division."
 
 </details>
 

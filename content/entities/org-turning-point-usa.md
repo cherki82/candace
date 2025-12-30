@@ -1,6 +1,6 @@
 ---
 title: "Turning Point USA"
-description: "Turning Point USA (Organizations) - 770 mentions"
+description: "Turning Point USA (Organizations) - 766 mentions"
 id: "org-turning-point-usa"
 type: "ORG"
 aliases:
@@ -21,10 +21,7 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (10 mentions)</summary>
-
-**[00:01:14](/episodes/ep-w1oqQbR_bYs.md#ent-org-turning-point-usa-t-00-00-42)**
-> "Turning Point USA's AmFest"
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (9 mentions)</summary>
 
 **[00:01:14](/episodes/ep-w1oqQbR_bYs.md#ent-org-turning-point-usa-t-00-00-42)**
 > "...ast night he hit the stage at Turning Point USA's AmFest the other night."
@@ -88,13 +85,10 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (4 mentions)</summary>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3 mentions)</summary>
 
 **[00:01:58](/episodes/ep-9k2xrAC0H88.md#ent-org-turning-point-usa-t-00-01-18)**
 > "not every single person is bad at Turning Point USA"
-
-**[00:01:58](/episodes/ep-9k2xrAC0H88.md#ent-org-turning-point-usa-t-00-01-18)**
-> "...every single person is bad at Turning Point USA."
 
 **[00:53:18](/episodes/ep-9k2xrAC0H88.md#ent-org-turning-point-usa-t-00-52-39)**
 > "...can slap that comment under a Turning Point USA episode."
@@ -105,7 +99,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (31 mentions)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (29 mentions)</summary>
 
 **[00:00:35](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-00-01-24)**
 > "why can't Turning Point USA just answer basic questions"
@@ -119,14 +113,8 @@ _Type: Organizations_
 **[00:11:18](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-00-11-16)**
 > "...knowing the inner workings at turning point USA that Rob McCoy actually does not work with turnin..."
 
-**[00:11:18](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-00-11-16)**
-> "...y actually does not work with turning point USA in any capacity whatsoever and so him communicati..."
-
 **[00:11:46](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-00-11-16)**
 > "...m out on that separately from Turning Point USA, I was operating under the assumption that he wor..."
-
-**[00:11:46](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-00-11-16)**
-> "...assumption that he worked for Turning Point USA."
 
 **[00:12:10](/episodes/ep-es7PWdFGoFI.md#ent-org-turning-point-usa-t-00-11-58)**
 > "That he started Turning Point USA faith."

@@ -1,6 +1,6 @@
 ---
 title: "PBS"
-description: "PBS (Organizations) - 4 mentions"
+description: "PBS (Organizations) - 3 mentions"
 id: "org-pbs"
 type: "ORG"
 aliases:
@@ -17,10 +17,7 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
-
-**[00:57:50](/episodes/ep-w1oqQbR_bYs.md#t-00-57-50)**
-> "watch that PBS documentary that they came after me hardcore for speaking about"
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
 
 **[00:57:50](/episodes/ep-w1oqQbR_bYs.md#t-00-57-50)**
 > "... keep telling you, watch that PBS documentary that they came after me hardcore for ..."

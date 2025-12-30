@@ -1,6 +1,6 @@
 ---
 title: "Zohran Mamdani"
-description: "Zohran Mamdani (People) - 36 mentions"
+description: "Zohran Mamdani (People) - 27 mentions"
 id: "person-zohran-mamdani"
 type: "PERSON"
 aliases:
@@ -17,10 +17,10 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (18 mentions)</summary>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (9 mentions)</summary>
 
 **[00:04:23](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-04-12)**
-> "...on) somehow supports Mamdani (Zohran Mamdani)."
+> "...g about that and then spinning it into the accusation that Tucker (Tucker Carlson) somehow supports Mamdani. I don't know. Take a listen. (Clip: Ben Shapiro) So I texted him, and I said, "Thanks so much for ..."
 
 **[00:05:23](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-05-14)**
 > "...art of the conservative push to win. The number of times that Tucker (Tucker Carlson) has mentioned Zohran Mamdani since October 7th on his show is once. And it was in the context of Marjorie Taylor Greene and Tuck..."
@@ -33,33 +33,6 @@ _Type: People_
 
 **[00:05:41](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-05-14)**
 > "... talked about Zohran Mamdani a lot, a lot of us have. Since October 7th, I did 17 separate shows on Zohran Mamdani, including four in the last week before the election. Because when you're orienting against the lef..."
-
-**[00:06:44](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-06-42)**
-> "...tform to speak about Mamdani (Zohran Mamdani) 17 times."
-
-**[00:06:51](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-06-42)**
-> "...n) somehow supported Mamdani (Zohran Mamdani) and said like nice things about him when he sat ..."
-
-**[00:09:02](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-08-31)**
-> "...escribing to you why Mamdani (Zohran Mamdani) won, and you're angry that people are assessing ..."
-
-**[00:52:55](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-52-33)**
-> "...ork together against Mamdani (Zohran Mamdani), yet the DW was all about sabotaging all the oth..."
-
-**[00:04:23](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-04-12)**
-> "...g about that and then spinning it into the accusation that Tucker (Tucker Carlson) somehow supports Mamdani. I don't know. Take a listen. (Clip: Ben Shapiro) So I texted him, and I said, "Thanks so much for ..."
-
-**[00:05:23](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-05-14)**
-> "...the conservative push to win. The number of times that Tucker (Tucker Carlson) has mentioned Zohran Mamdani since October 7th on his show is once. And it was in the context of Marjorie Taylor Greene and Tuck..."
-
-**[00:05:30](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-05-14)**
-> "...he context of Marjorie Taylor Greene and Tucker (Tucker Carlson) talking about the appeal of Zohran Mamdani. Just by way of contrast, not because I'm a perfect representative here, but because you've talked ..."
-
-**[00:05:36](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-05-14)**
-> "... of contrast, not because I'm a perfect representative here, but because you've talked about Zohran Mamdani a lot, a lot of us have. Since October 7th, I did 17 separate shows on Zohran Mamdani, including fo..."
-
-**[00:05:41](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-05-14)**
-> "... about Zohran Mamdani a lot, a lot of us have. Since October 7th, I did 17 separate shows on Zohran Mamdani, including four in the last week before the election. Because when you're orienting against the lef..."
 
 **[00:06:44](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-06-42)**
 > "...lson) doesn't live in New York City. It's not his responsibility to use his platform to speak about Mamdani 17 times. It's very strange. But to the insinuation that Tucker (Tucker Carlson) somehow supported ..."

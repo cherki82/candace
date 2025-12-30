@@ -1,6 +1,6 @@
 ---
 title: "Liberty University"
-description: "Liberty University (Organizations) - 7 mentions"
+description: "Liberty University (Organizations) - 5 mentions"
 id: "org-liberty-university"
 type: "ORG"
 aliases:
@@ -17,16 +17,10 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3 mentions)</summary>
-
-**[00:31:41](/episodes/ep-w1oqQbR_bYs.md#ent-org-liberty-university-t-00-31-41)**
-> "Fort Huachuca has ties to Liberty University"
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
 
 **[00:31:41](/episodes/ep-w1oqQbR_bYs.md#ent-org-liberty-university-t-00-31-41)**
 > "...hat Fort Huachuca has ties to Liberty University and that you can attend classes there and achieve..."
-
-**[00:31:41](/episodes/ep-w1oqQbR_bYs.md#ent-org-liberty-university-t-00-31-41)**
-> "...re and achieve your degree at Liberty University, still working to verify that."
 
 </details>
 

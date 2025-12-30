@@ -1,6 +1,6 @@
 ---
 title: "Operation Mockingbird"
-description: "Operation Mockingbird (Concepts) - 15 mentions"
+description: "Operation Mockingbird (Concepts) - 14 mentions"
 id: "concept-operation-mockingbird"
 type: "CONCEPT"
 aliases:
@@ -17,10 +17,7 @@ _Type: Concepts_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
-
-**[00:55:44](/episodes/ep-9k2xrAC0H88.md#ent-concept-operation-mockingbird-t-00-55-37)**
-> "Operation Mockingbird, everything is not what it seems"
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>
 
 **[00:55:44](/episodes/ep-9k2xrAC0H88.md#ent-concept-operation-mockingbird-t-00-55-37)**
 > "This person writes, Operation Mockingbird, everything is not what it seems."

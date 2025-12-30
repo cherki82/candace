@@ -1,6 +1,6 @@
 ---
 title: "The Morning Wire"
-description: "The Morning Wire (Works & Media) - 4 mentions"
+description: "The Morning Wire (Works & Media) - 3 mentions"
 id: "work-the-morning-wire"
 type: "WORK"
 aliases:
@@ -17,7 +17,7 @@ _Type: Works & Media_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (4 mentions)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3 mentions)</summary>
 
 **[00:42:55](/episodes/ep-w1oqQbR_bYs.md#ent-work-the-morning-wire-t-00-42-27)**
 > "And I know that he does the morning wire up a daily wire"
@@ -27,9 +27,6 @@ _Type: Works & Media_
 
 **[00:42:55](/episodes/ep-w1oqQbR_bYs.md#ent-work-the-morning-wire-t-00-42-27)**
 > "...checked and he's missing from the morning wire."
-
-**[00:42:55](/episodes/ep-w1oqQbR_bYs.md#ent-work-the-morning-wire-t-00-42-27)**
-> "...ked and he's missing from the morning wire."
 
 </details>
 

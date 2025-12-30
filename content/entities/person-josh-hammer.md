@@ -1,6 +1,6 @@
 ---
 title: "Josh Hammer"
-description: "Josh Hammer (People) - 135 mentions"
+description: "Josh Hammer (People) - 132 mentions"
 id: "person-josh-hammer"
 type: "PERSON"
 aliases:
@@ -32,7 +32,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (9 mentions)</summary>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (6 mentions)</summary>
 
 **[00:11:02](/episodes/ep-6J6lRZPQ4jk.md#ent-person-josh-hammer-t-00-10-29)**
 > "Stop, Josh (Josh Hammer) (Josh Hammer)"
@@ -43,17 +43,8 @@ _Type: People_
 **[00:42:15](/episodes/ep-6J6lRZPQ4jk.md#ent-person-josh-hammer-t-00-41-45)**
 > "No one worse than Josh (Josh Hammer) (Josh Hammer), okay?"
 
-**[00:42:15](/episodes/ep-6J6lRZPQ4jk.md#ent-person-josh-hammer-t-00-41-45)**
-> "...orse than Josh (Josh Hammer) (Josh Hammer), okay?"
-
 **[00:42:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-josh-hammer-t-00-41-45)**
 > "Josh (Josh Hammer) explicitly lied about Charlie's state of mind."
-
-**[00:42:30](/episodes/ep-6J6lRZPQ4jk.md#ent-person-josh-hammer-t-00-42-30)**
-> "...nging fruit to say what Josh (Josh Hammer) (Josh Hammer) did here was wrong, okay?"
-
-**[00:42:30](/episodes/ep-6J6lRZPQ4jk.md#ent-person-josh-hammer-t-00-42-30)**
-> "... say what Josh (Josh Hammer) (Josh Hammer) did here was wrong, okay?"
 
 **[00:42:30](/episodes/ep-6J6lRZPQ4jk.md#ent-person-josh-hammer-t-00-42-30)**
 > "...low-hanging fruit to say what Josh (Josh Hammer) (Josh Hammer) did here was wrong, o..."

@@ -1,6 +1,6 @@
 ---
 title: "Mexico"
-description: "Mexico (Places) - 14 mentions"
+description: "Mexico (Places) - 13 mentions"
 id: "gpe-mexico"
 type: "GPE"
 aliases:
@@ -18,7 +18,7 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (6 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (5 mentions)</summary>
 
 **[00:28:45](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-mexico-t-00-29-32)**
 > "There was a Mexican, oh, Mexican sushi place in Sierra Vista."
@@ -28,9 +28,6 @@ _Type: Places_
 
 **[00:30:27](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-mexico-t-00-30-27)**
 > "... a photo that was done on the Mexican side after the tunnel apparently had been built a..."
-
-**[00:30:27](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-mexico-t-00-30-27)**
-> "...d been built along with other Mexican military and U.S. military."
 
 **[00:34:04](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-mexico-t-00-33-46)**
 > "...time, um, the photos from the Mexican side had made their way to the American side and ..."

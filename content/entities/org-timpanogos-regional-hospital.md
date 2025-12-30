@@ -1,6 +1,6 @@
 ---
 title: "Timpanogos Regional Hospital"
-description: "Timpanogos Regional Hospital (Organizations) - 13 mentions"
+description: "Timpanogos Regional Hospital (Organizations) - 12 mentions"
 id: "org-timpanogos-regional-hospital"
 type: "ORG"
 aliases:
@@ -28,10 +28,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
-
-**[00:08:33](/episodes/ep-9k2xrAC0H88.md#ent-org-timpanogos-regional-hospital-t-00-08-09)**
-> "Charlie gets transported to Timpanogos Hospital"
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>
 
 **[00:08:33](/episodes/ep-9k2xrAC0H88.md#ent-org-timpanogos-regional-hospital-t-00-08-09)**
 > "...now I keep saying this wrong, Timpanogos Hospital."

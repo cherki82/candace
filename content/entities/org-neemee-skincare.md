@@ -1,6 +1,6 @@
 ---
 title: "Neemee Skincare"
-description: "Neemee Skincare (Organizations) - 15 mentions"
+description: "Neemee Skincare (Organizations) - 14 mentions"
 id: "org-neemee-skincare"
 type: "ORG"
 aliases:
@@ -18,7 +18,7 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (4 mentions)</summary>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3 mentions)</summary>
 
 **[00:50:29](/episodes/ep-9k2xrAC0H88.md#ent-org-neemee-skincare-t-00-50-27)**
 > "Also telling you guys about Neemee Skincare"
@@ -28,9 +28,6 @@ _Type: Organizations_
 
 **[00:50:40](/episodes/ep-9k2xrAC0H88.md#ent-org-neemee-skincare-t-00-50-27)**
 > "... let me just say, I love what Neemee Skincare is doing this Christmas season because while ever..."
-
-**[00:50:40](/episodes/ep-9k2xrAC0H88.md#ent-org-neemee-skincare-t-00-50-27)**
-> "...heir happy holiday messaging, Neemee is saying absolutely not."
 
 </details>
 

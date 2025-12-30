@@ -1,6 +1,6 @@
 ---
 title: "GSA"
-description: "GSA (Organizations) - 8 mentions"
+description: "GSA (Organizations) - 7 mentions"
 id: "org-gsa"
 type: "ORG"
 aliases:
@@ -18,7 +18,7 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (8 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (7 mentions)</summary>
 
 **[00:47:03](/episodes/ep-ewBzjVe3LNQ.md#t-00-46-23)**
 > "they got into one of the GSAs"
@@ -28,9 +28,6 @@ _Type: Organizations_
 
 **[00:47:03](/episodes/ep-ewBzjVe3LNQ.md#t-00-47-03)**
 > "Um, they got into one of the GSA's, um, for anybody in the military that knows about..."
-
-**[00:47:03](/episodes/ep-ewBzjVe3LNQ.md#t-00-47-03)**
-> "...the military that knows about GSA, it's the, they own everything in the government."
 
 **[00:47:14](/episodes/ep-ewBzjVe3LNQ.md#t-00-47-14)**
 > "... us who don't know about this GSA, just to break it down for us, I'm sorry to be so..."

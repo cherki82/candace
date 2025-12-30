@@ -1,6 +1,6 @@
 ---
 title: "Brian Mast"
-description: "Brian Mast (People) - 4 mentions"
+description: "Brian Mast (People) - 3 mentions"
 id: "person-brian-mast"
 type: "PERSON"
 ---
@@ -13,10 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
-
-**[00:03:53](/episodes/ep-w1oqQbR_bYs.md#ent-person-brian-mast-t-00-03-53)**
-> "Brian Mast was wearing an IDF uniform in Congress"
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
 
 **[00:03:53](/episodes/ep-w1oqQbR_bYs.md#ent-person-brian-mast-t-00-03-53)**
 > "...nyways, throughout this time, Brian Mast was wearing an IDF uniform in Congress and he bas..."

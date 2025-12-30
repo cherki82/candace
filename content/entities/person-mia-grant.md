@@ -1,6 +1,6 @@
 ---
 title: "Mia Grant"
-description: "Mia Grant (People) - 15 mentions"
+description: "Mia Grant (People) - 14 mentions"
 id: "person-mia-grant"
 type: "PERSON"
 aliases:
@@ -17,16 +17,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (3 mentions)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2 mentions)</summary>
 
 **[00:00:47](/episodes/ep-es7PWdFGoFI.md#ent-person-mia-grant-t-00-02-04)**
 > "I brought my cousin Mia, you know, the one that has a really bad attitude"
 
 **[00:02:35](/episodes/ep-es7PWdFGoFI.md#ent-person-mia-grant-t-00-02-04)**
 > "...then I brought my cousin Mia (Mia Grant), you know, the one that has a really bad attitud..."
-
-**[00:02:35](/episodes/ep-es7PWdFGoFI.md#ent-person-mia-grant-t-00-02-04)**
-> "And then I brought my cousin Mia (Mia Grant), you know, the one that has a really ..."
 
 </details>
 

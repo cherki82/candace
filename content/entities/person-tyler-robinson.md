@@ -1,6 +1,6 @@
 ---
 title: "Tyler Robinson"
-description: "Tyler Robinson (People) - 352 mentions"
+description: "Tyler Robinson (People) - 336 mentions"
 id: "person-tyler-robinson"
 type: "PERSON"
 aliases:
@@ -18,16 +18,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (7 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (6 mentions)</summary>
 
 **[00:03:53](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tyler-robinson-t-00-03-30)**
 > "out there right now trying to convince you that there is overwhelming evidence that Tyler Robinson committed this crime."
 
 **[00:03:53](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tyler-robinson-t-00-03-30)**
 > "...is overwhelming evidence that Tyler Robinson committed this crime."
-
-**[00:03:53](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tyler-robinson-t-00-03-30)**
-> "...rwhelming evidence that Tyler Robinson committed this crime."
 
 **[00:07:50](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tyler-robinson-t-00-07-39)**
 > "They got the prints of Tyler Robinson on this gun."
@@ -44,21 +41,15 @@ _Type: People_
 </details>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (3 mentions)</summary>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>
 
 **[00:17:10](/episodes/ep-9k2xrAC0H88.md#ent-person-tyler-robinson-t-00-16-44)**
 > "the canine that sniffed out the route to the rooftop where Tyler Robinson, the Losee Center rooftop where he allegedly took the shot"
 
-**[00:17:10](/episodes/ep-9k2xrAC0H88.md#ent-person-tyler-robinson-t-00-16-44)**
-> "...he route to the rooftop where Tyler Robinson, the Losee Center rooftop where he allegedly took..."
-
-**[00:17:10](/episodes/ep-9k2xrAC0H88.md#ent-person-tyler-robinson-t-00-16-44)**
-> "...te to the rooftop where Tyler Robinson, the Losee Center rooftop where he allegedly took..."
-
 </details>
 
 <details>
-<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (27 mentions)</summary>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (14 mentions)</summary>
 
 **[00:00:40](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-00-40)**
 > "like even if you are somebody who is on the side of those who do believe that Tyler (Tyler Robinson) pulled the trigger"
@@ -66,35 +57,14 @@ _Type: People_
 **[00:00:40](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-00-40)**
 > "...se who do believe that Tyler (Tyler Robinson) pulled the trigger one way or another, would you..."
 
-**[00:00:40](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-00-40)**
-> "... of those who do believe that Tyler (Tyler Robinson) pulled the trigger one way or an..."
-
-**[00:00:40](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-00-40)**
-> "... do believe that Tyler (Tyler Robinson) pulled the trigger one way or another, would you..."
-
 **[00:01:43](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-01-23)**
 > "...e show we will discuss Tyler (Tyler Robinson) who has now made his first in-person appearance ..."
-
-**[00:01:43](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-01-23)**
-> "...n in the show we will discuss Tyler (Tyler Robinson) who has now made his first in-pe..."
-
-**[00:01:43](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-01-23)**
-> "... we will discuss Tyler (Tyler Robinson) who has now made his first in-person appearance ..."
 
 **[00:13:14](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-12-41)**
 > "uh, lying about how Tyler (Tyler Robinson) was arrested."
 
-**[00:13:14](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-12-41)**
-> "... lying about how Tyler (Tyler Robinson) was arrested."
-
 **[00:13:24](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-13-24)**
 > "...ver revealed, uh, that Tyler (Tyler Robinson) was at the Dairy Queen following the assassinati..."
-
-**[00:13:24](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-13-24)**
-> "Never revealed, uh, that Tyler (Tyler Robinson) was at the Dairy Queen following..."
-
-**[00:13:24](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-13-24)**
-> "...vealed, uh, that Tyler (Tyler Robinson) was at the Dairy Queen following the assassinati..."
 
 **[00:13:38](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-13-24)**
 > "They said Tyler (Tyler Robinson) was arrested wearing a maroon shirt."
@@ -103,13 +73,7 @@ _Type: People_
 > "They said Tyler (Tyler Robinson) was suicidal, but also turned himself in because..."
 
 **[00:13:59](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-13-24)**
-> "...ysteriously missing of Tyler (Tyler Robinson) turning himself in."
-
-**[00:13:59](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-13-24)**
 > "...otage mysteriously missing of Tyler (Tyler Robinson) turning himself in."
-
-**[00:13:59](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-13-24)**
-> "...ously missing of Tyler (Tyler Robinson) turning himself in."
 
 **[00:29:04](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-28-43)**
 > "I think Tyler (Tyler Robinson) pulled the trigger, but the text messages are we..."
@@ -123,20 +87,8 @@ _Type: People_
 **[00:34:50](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-34-50)**
 > "...nd you're going to see Tyler (Tyler Robinson) jump down and it's not going to impact her case ..."
 
-**[00:34:50](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-34-50)**
-> "... shot and you're going to see Tyler (Tyler Robinson) jump down and it's not going to ..."
-
-**[00:34:50](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-34-50)**
-> "...'re going to see Tyler (Tyler Robinson) jump down and it's not going to impact her case ..."
-
 **[00:35:01](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-34-50)**
 > "...'m happy to learn that Tyler (Tyler Robinson) is not AI because I mean that it's been so weird..."
-
-**[00:35:01](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-34-50)**
-> "...guys, I'm happy to learn that Tyler (Tyler Robinson) is not AI because I mean that it..."
-
-**[00:35:01](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-34-50)**
-> "...py to learn that Tyler (Tyler Robinson) is not AI because I mean that it's been so weird..."
 
 **[00:57:13](/episodes/ep-6J6lRZPQ4jk.md#ent-person-tyler-robinson-t-00-56-57)**
 > "... have to tell us the color of Tyler's shirt maroon?"

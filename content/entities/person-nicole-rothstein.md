@@ -1,6 +1,6 @@
 ---
 title: "Nicole Rothstein"
-description: "Nicole Rothstein (People) - 3 mentions"
+description: "Nicole Rothstein (People) - 2 mentions"
 id: "person-nicole-rothstein"
 type: "PERSON"
 ---
@@ -13,10 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3 mentions)</summary>
-
-**[00:44:30](/episodes/ep-w1oqQbR_bYs.md#ent-person-nicole-rothstein-t-00-44-30)**
-> "how close she is with her cousin. This Nicole Rothstein"
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
 
 **[00:44:30](/episodes/ep-w1oqQbR_bYs.md#ent-person-nicole-rothstein-t-00-44-30)**
 > "This Nicole Rothstein who defends her in the comments currently, by the..."

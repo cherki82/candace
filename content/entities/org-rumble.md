@@ -1,6 +1,6 @@
 ---
 title: "Rumble"
-description: "Rumble (Organizations) - 7 mentions"
+description: "Rumble (Organizations) - 6 mentions"
 id: "org-rumble"
 type: "ORG"
 aliases:
@@ -17,16 +17,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (7 mentions)</summary>
+<summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (6 mentions)</summary>
 
 **[00:08:31](/episodes/ep-es7PWdFGoFI.md#ent-org-rumble-t-00-37-43)**
 > "the answer is Rumble"
 
 **[00:37:43](/episodes/ep-es7PWdFGoFI.md#ent-org-rumble-t-00-37-43)**
 > "...well, honestly, the answer is Rumble."
-
-**[00:37:56](/episodes/ep-es7PWdFGoFI.md#ent-org-rumble-t-00-37-43)**
-> "If you're not already on Rumble, Rumble is the free speech video platform where y..."
 
 **[00:37:56](/episodes/ep-es7PWdFGoFI.md#ent-org-rumble-t-00-37-43)**
 > "...you're not already on Rumble, Rumble is the free speech video platform where you can f..."

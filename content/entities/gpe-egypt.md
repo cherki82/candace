@@ -1,6 +1,6 @@
 ---
 title: "Egypt"
-description: "Egypt (Places) - 172 mentions"
+description: "Egypt (Places) - 171 mentions"
 id: "gpe-egypt"
 type: "GPE"
 aliases:
@@ -57,7 +57,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (5 mentions)</summary>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (4 mentions)</summary>
 
 **[00:14:14](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-egypt-t-00-14-04)**
 > "the Egyptian plains, tracking Charlie"
@@ -67,9 +67,6 @@ _Type: Places_
 
 **[00:29:52](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-egypt-t-00-29-52)**
 > "... you answered about why these Egyptian planes, why it's a statistical anomaly for these ..."
-
-**[00:29:52](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-egypt-t-00-29-52)**
-> "...statistical anomaly for these Egyptian planes to be surrounding Turning Point USA, faith..."
 
 **[00:58:03](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-egypt-t-00-57-41)**
 > "...ate clubs like maroon shirts, Egyptian planes."

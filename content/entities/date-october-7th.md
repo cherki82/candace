@@ -1,6 +1,6 @@
 ---
 title: "October 7th"
-description: "October 7th (Dates) - 15 mentions"
+description: "October 7th (Dates) - 14 mentions"
 id: "date-october-7th"
 type: "DATE"
 aliases:
@@ -17,13 +17,10 @@ _Type: Dates_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
 
 **[00:03:28](/episodes/ep-w1oqQbR_bYs.md#ent-date-october-7th-t-00-03-11)**
 > "The story begins in 2023, shortly after October 7th"
-
-**[00:03:28](/episodes/ep-w1oqQbR_bYs.md#ent-date-october-7th-t-00-03-11)**
-> "...begins in 2023, shortly after October 7th."
 
 </details>
 
