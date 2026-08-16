@@ -1,16 +1,24 @@
 ---
 title: "Barack Obama"
-description: "Barack Obama (People) - 3 mentions"
+description: "Barack Obama (People) - 1 mention"
 id: "person-barack-obama"
 type: "PERSON"
 aliases:
-  - "Obama"
-  - "Barack"
+  - "Barack H. Obama"
+categories:
+  - "United States politics"
+  - "president"
 ---
 
 _Type: People_
 
-**Also known as:** Obama, Barack
+**Also known as:** Barack H. Obama
+
+**Categories:** United States politics, president
+
+**Entity verification:** verified
+> Archived White House biography confirms canonical name and 44th president role.
+Source: [Barack Obama | whitehouse.gov](https://obamawhitehouse.archives.gov/1600/presidents/barackobama/)
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -18,16 +26,10 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (3 mentions)</summary>
+<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:34:45](/episodes/ep-DqGNvi36ol8.md#ent-person-barack-obama-t-00-34-45)**
-> "love her like Kamala, love her like Obama"
-
-**[00:34:45](/episodes/ep-DqGNvi36ol8.md#ent-person-barack-obama-t-00-34-45)**
-> "...er like Kamala, love her like Obama."
-
-**[00:35:04](/episodes/ep-DqGNvi36ol8.md#ent-person-barack-obama-t-00-34-58)**
-> "...er like Kamala, love her like Obama."
+**[00:08:17](/episodes/ep-ZZGWo6oDscc.md#ent-person-barack-obama-t-00-08-02)**
+> "Trump is not Barack Obama."
 
 </details>
 

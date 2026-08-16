@@ -1,0 +1,253 @@
+---
+title: "Bill Montgomery"
+description: "Bill Montgomery (People) - 18 mentions"
+id: "person-bill-montgomery"
+type: "PERSON"
+aliases:
+  - "William Montgomery"
+  - "William Thomas Montgomery"
+categories:
+  - "Turning Point USA"
+  - "conservative activism"
+---
+
+_Type: People_
+
+**Also known as:** William Montgomery, William Thomas Montgomery
+
+**Categories:** Turning Point USA, conservative activism
+
+**Entity verification:** verified
+> AP identifies William Montgomery as Charlie Kirk's Turning Point USA cofounder; transcript uses Bill Montgomery.
+Source: [What to know about the killing of Charlie Kirk | AP](https://apnews.com/article/e771e3967d5a6024f7cf84d5e0228fed)
+
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
+<details open>
+<summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (10 mentions)</summary>
+
+**[00:27:26](/episodes/ep-A39g5oqB_eM.md#ent-person-bill-montgomery-t-00-27-17)**
+> "conference where a man named Bill Montgomery happened to be in attendance."
+
+**[00:27:33](/episodes/ep-A39g5oqB_eM.md#ent-person-bill-montgomery-t-00-27-17)**
+> "I met Bill Montgomery."
+
+**[00:28:56](/episodes/ep-A39g5oqB_eM.md#ent-person-bill-montgomery-t-00-28-43)**
+> "Now, Bill Montgomery was Air Force. He's in the Air Force Reserves. Bi..."
+
+**[00:29:14](/episodes/ep-A39g5oqB_eM.md#ent-person-bill-montgomery-t-00-28-43)**
+> "...known about what specifically Bill Montgomery did during his time in the military,"
+
+**[00:30:29](/episodes/ep-A39g5oqB_eM.md#ent-person-bill-montgomery-t-00-30-08)**
+> "...as actually good friends with Bill Montgomery and his wife, Edith Montgomery,"
+
+**[00:31:14](/episodes/ep-A39g5oqB_eM.md#ent-person-bill-montgomery-t-00-30-51)**
+> "The person claims that Bill (Bill Montgomery) and his wife and a certain Robert Flood, who is ..."
+
+**[00:32:41](/episodes/ep-A39g5oqB_eM.md#ent-person-bill-montgomery-t-00-32-17)**
+> "...ble learning more about Bill (Bill Montgomery) and Edith."
+
+**[00:32:47](/episodes/ep-A39g5oqB_eM.md#ent-person-bill-montgomery-t-00-32-17)**
+> "Where did Bill (Bill Montgomery) serve in the military?"
+
+**[00:36:23](/episodes/ep-A39g5oqB_eM.md#ent-person-bill-montgomery-t-00-35-54)**
+> "... to be interesting about this Bill Montgomery angle and this Shaklee Corporation and their cont..."
+
+**[00:27:58](/episodes/ep-A39g5oqB_eM.md#ent-person-bill-montgomery-t-00-27-17)**
+> "Montgomery was at Benedictine University in Western Chicago suburb of Lyle,"
+
+</details>
+
+<details>
+<summary>A Legal Turning Point? | Candace Ep 292 (5 mentions)</summary>
+
+**[00:10:42](/episodes/ep-NIEbqsLAK8g.md#ent-person-bill-montgomery-t-00-10-32)**
+> "Robert Eugene Flood, probably knew Bill Montgomery,"
+
+**[00:10:52](/episodes/ep-NIEbqsLAK8g.md#ent-person-bill-montgomery-t-00-10-32)**
+> "Don't forget Bill Montgomery was also military as well. He was Air Force."
+
+**[00:11:11](/episodes/ep-NIEbqsLAK8g.md#ent-person-bill-montgomery-t-00-11-11)**
+> "...since he was young and it was Bill Montgomery who organized and initially paid,"
+
+**[00:11:26](/episodes/ep-NIEbqsLAK8g.md#ent-person-bill-montgomery-t-00-11-11)**
+> "Bill Montgomery chose to hire Shaffer Security,"
+
+**[00:12:04](/episodes/ep-NIEbqsLAK8g.md#ent-person-bill-montgomery-t-00-11-56)**
+> "So Bill Montgomery,"
+
+</details>
+
+<details>
+<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (1 mentions)</summary>
+
+**[01:01:18](/episodes/ep-X92MllIHDzw.md#ent-person-bill-montgomery-t-01-01-18)**
+> "I think he was obviously we can prove that he was tracked by the military. I mean, turning point was established in part by Bill Montgomery, who was Air Force involved with the Air Force."
+
+</details>
+
+<details>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (2 mentions)</summary>
+
+**[00:03:37](/episodes/ep-BKcOm32ZEGk.md#ent-person-bill-montgomery-t-00-03-28)**
+> "security was orchestrated by Bill Montgomery"
+
+**[00:03:41](/episodes/ep-BKcOm32ZEGk.md#ent-person-bill-montgomery-t-00-03-28)**
+> "He has since passed the late Bill Montgomery and he was from the military."
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Relationships</strong></summary>
+
+<details>
+<summary>Formerly Worked For (3)</summary>
+
+- **[United States Armed Forces](/entities/org-united-states-armed-forces.md)**
+  - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:03:41](/episodes/ep-BKcOm32ZEGk.md#t-00-03-28): "He has since passed the late Bill Montgomery and he was from the military."
+
+- **[United States Air Force](/entities/org-united-states-air-force.md)**
+  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:28:56](/episodes/ep-A39g5oqB_eM.md#t-00-28-43): "Now, Bill Montgomery was Air Force. He's in the Air Force Reserves. Bill Montgomery also happened to be from Lincoln,"
+
+- **[Shaklee Corporation](/entities/org-shaklee-corporation.md)**
+  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:31:14](/episodes/ep-A39g5oqB_eM.md#t-00-30-51): "The person claims that Bill (Bill Montgomery) and his wife and a certain Robert Flood, who is in Dan Flood's family, ... said that they knew each other since before the school even got started. They were all working for this evangelical company, ... evangelical sales force known as. ... The Shaklee Corporation is still in existence today."
+
+</details>
+
+<details>
+<summary>Founded (1)</summary>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)**
+  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 01:01:18](/episodes/ep-X92MllIHDzw.md#t-01-01-18): "Turning Point was established in part by Bill Montgomery, who was Air Force involved with the Air Force."
+  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:28:41](/episodes/ep-A39g5oqB_eM.md#t-00-27-58): "A month after Montgomery met Kirk, ... the duo launched Turning Point USA."
+
+</details>
+
+<details>
+<summary>Friend Of (1)</summary>
+
+- **[Helene Bartz](/entities/person-helene-bartz.md)**
+  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:30:29](/episodes/ep-A39g5oqB_eM.md#t-00-30-08): "Helene Bartz. Now, a tip that I received and I was able to confirm is that Helene Bartz was actually good friends with Bill Montgomery and his wife, Edith Montgomery,"
+
+</details>
+
+<details>
+<summary>Hired (2)</summary>
+
+- **[Greg Shaffer](/entities/person-greg-shaffer.md)**
+  - [A Legal Turning Point? | Candace Ep 292 @ 00:12:04](/episodes/ep-NIEbqsLAK8g.md#t-00-11-56): "So Bill Montgomery, you've got you got this guy. He hires Greg Shaffer and Dan Flood. And these are they're going to stay with Charlie forever."
+
+- **[Dan Flood](/entities/person-dan-flood.md)**
+  - [A Legal Turning Point? | Candace Ep 292 @ 00:12:04](/episodes/ep-NIEbqsLAK8g.md#t-00-11-56): "So Bill Montgomery, you've got you got this guy. He hires Greg Shaffer and Dan Flood. And these are they're going to stay with Charlie forever."
+
+</details>
+
+<details>
+<summary>Married To (1)</summary>
+
+- **[Edith Montgomery](/entities/person-edith-montgomery.md)**
+  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:30:29](/episodes/ep-A39g5oqB_eM.md#t-00-30-08): "Helene Bartz. Now, a tip that I received and I was able to confirm is that Helene Bartz was actually good friends with Bill Montgomery and his wife, Edith Montgomery,"
+
+</details>
+
+<details>
+<summary>Met With (2)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:27:33](/episodes/ep-A39g5oqB_eM.md#t-00-27-17): "I met Bill Montgomery."
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:28:41](/episodes/ep-A39g5oqB_eM.md#t-00-27-58): "A month after Montgomery met Kirk,"
+
+</details>
+
+<details>
+<summary>Referenced By (9)</summary>
+
+- **[United States Armed Forces](/entities/org-united-states-armed-forces.md)** formerly employed this
+  - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:03:41](/episodes/ep-BKcOm32ZEGk.md#t-00-03-28)
+
+- **[United States Air Force](/entities/org-united-states-air-force.md)** formerly employed this
+  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:28:56](/episodes/ep-A39g5oqB_eM.md#t-00-28-43)
+
+- **[Shaklee Corporation](/entities/org-shaklee-corporation.md)** formerly employed this
+  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:31:14](/episodes/ep-A39g5oqB_eM.md#t-00-30-51)
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)** founded by this
+  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 01:01:18](/episodes/ep-X92MllIHDzw.md#t-01-01-18)
+  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:28:41](/episodes/ep-A39g5oqB_eM.md#t-00-27-58)
+
+- **[Helene Bartz](/entities/person-helene-bartz.md)** friend of this
+  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:30:29](/episodes/ep-A39g5oqB_eM.md#t-00-30-08)
+
+- **[Greg Shaffer](/entities/person-greg-shaffer.md)** hired by this
+  - [A Legal Turning Point? | Candace Ep 292 @ 00:12:04](/episodes/ep-NIEbqsLAK8g.md#t-00-11-56)
+
+- **[Dan Flood](/entities/person-dan-flood.md)** hired by this
+  - [A Legal Turning Point? | Candace Ep 292 @ 00:12:04](/episodes/ep-NIEbqsLAK8g.md#t-00-11-56)
+
+- **[Candace Owens](/entities/person-candace-owens.md)** met with this
+  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:27:33](/episodes/ep-A39g5oqB_eM.md#t-00-27-17)
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** met with this
+  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:28:41](/episodes/ep-A39g5oqB_eM.md#t-00-27-58)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements by Bill Montgomery (1)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (1)</summary>
+
+- [00:28:30](/episodes/ep-A39g5oqB_eM.md#t-00-27-58) [✓] (Claim) ["Charlie Kirk needed to delay college and start an organization to reach young pe..."](/statements/statement-b5628f2b17f6.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Bill Montgomery](/entities/person-bill-montgomery.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Bill Montgomery (6)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (4)</summary>
+
+- [00:28:30](/episodes/ep-A39g5oqB_eM.md#t-00-27-58) (Claim) **Bill Montgomery** (via quoted article): ["Charlie Kirk needed to delay college and start an organization to reac..."](/statements/statement-b5628f2b17f6.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:28:56](/episodes/ep-A39g5oqB_eM.md#t-00-28-43) (Claim) **Candace Owens**: ["Bill Montgomery served in the U.S. Air Force Reserve and was from Linc..."](/statements/statement-f20ea24a8eac.md)
+  - Also about: [United States Air Force](/entities/org-united-states-air-force.md), [Lincoln, Nebraska](/entities/gpe-lincoln-nebraska.md)
+
+- [00:30:29](/episodes/ep-A39g5oqB_eM.md#t-00-30-08) (Claim) **Candace Owens**: ["Helene Bartz was good friends with Bill Montgomery and Edith Montgomer..."](/statements/statement-62b1218a70e1.md)
+  - Also about: [Helene Bartz](/entities/person-helene-bartz.md), [Edith Montgomery](/entities/person-edith-montgomery.md)
+
+- [00:31:14](/episodes/ep-A39g5oqB_eM.md#t-00-30-51) (Claim) **Anonymous Source #3 (Ep A39g5oqB_eM)** (via paraphrase): ["Bill and Edith Montgomery and Robert Flood knew each other before the ..."](/statements/statement-a6b7ff633170.md)
+  - Also about: [Edith Montgomery](/entities/person-edith-montgomery.md), [Robert Eugene Flood](/entities/person-robert-eugene-flood.md), [Shaklee Corporation](/entities/org-shaklee-corporation.md)
+
+</details>
+
+<details>
+<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (1)</summary>
+
+- [01:01:18](/episodes/ep-X92MllIHDzw.md#t-01-01-18) (Claim) **Candace Owens**: ["Turning Point USA was established in part by Bill Montgomery, who was ..."](/statements/statement-20c8a49ef4e8.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [United States Air Force](/entities/org-united-states-air-force.md)
+
+</details>
+
+<details>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1)</summary>
+
+- [00:03:19](/episodes/ep-BKcOm32ZEGk.md#t-00-02-43) (Claim) **Candace Owens**: ["Before he had much fame, Charlie Kirk was required to have security wi..."](/statements/statement-d72077f27f3f.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+</details>

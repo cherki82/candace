@@ -4,24 +4,15 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [
-    Component.Banner({
-      text: "Help keep this research free and independent",
-      buttonText: "☕ Support This Project",
-      href: "https://buymeacoffee.com/cherki",
-    }),
-  ],
+  header: [],
   afterBody: [
     Component.MobileOnly(Component.PagefindSearch()),
     Component.Share(),
     Component.PageFilter(),
     Component.AnchorHighlight(),
+    Component.YouTubeTimestampLinks(),
   ],
-  footer: Component.Footer({
-    links: {
-      "☕ Support This Project": "https://buymeacoffee.com/cherki",
-    },
-  }),
+  footer: Component.Footer({ links: {} }),
 }
 
 // Main navigation with links to index pages

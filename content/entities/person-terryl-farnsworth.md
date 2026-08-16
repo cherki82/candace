@@ -1,0 +1,174 @@
+---
+title: "Terryl Farnsworth"
+description: "Terryl Farnsworth (People) - 17 mentions"
+id: "person-terryl-farnsworth"
+type: "PERSON"
+aliases:
+  - "Terryl"
+categories:
+  - "video production"
+  - "Turning Point USA"
+---
+
+_Type: People_
+
+**Also known as:** Terryl
+
+**Categories:** video production, Turning Point USA
+
+**Entity verification:** verified
+> BBB profile confirms Terryl Farnsworth as a member of Visual Impulse; no episode allegations are treated as verified identity facts.
+Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/mesa/profile/video-production-services/visual-impulse-llc-1126-1000043623)
+
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
+<details open>
+<summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1 mentions)</summary>
+
+**[00:37:47](/episodes/ep-DYD_QHMPwqM.md#ent-person-terryl-farnsworth-t-00-37-47)**
+> "they don't they literally don't have a smoking gun because the bomb dogs could not smell the dog smell the gun which means it was just planted there and they can't connect the gun to charlie because the 30-06 was supposed to go through and and that's why Terryl (Terryl Farnsworth) was supposed to get those cameras down we were never supposed to see anything again because it didn't go through maybe they're going to ai it or something who knows what they were planning to do with that that fell apart i don't even know what this case is running on other than you"
+
+</details>
+
+<details>
+<summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1 mentions)</summary>
+
+**[00:17:22](/episodes/ep-QdM9jLwjwLw.md#ent-person-terryl-farnsworth-t-00-16-47)**
+> "...s, in the background, that is Terryl Farnsworth,"
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (15 mentions)</summary>
+
+**[00:14:21](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-13-56)**
+> "...e the story regarding Terryl (Terryl Farnsworth)'s strange behavior moments after the assassinati..."
+
+**[00:22:10](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-22-10)**
+> "... I have never felt good about Terryl Farnsworth,"
+
+**[00:23:27](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-22-55)**
+> "..., and I'm following my gut on Terryl Farnsworth,"
+
+**[00:23:50](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-23-32)**
+> "...tion that I have with Terryl (Terryl Farnsworth) to be extremely suspicious is not, of course, an..."
+
+**[00:29:56](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-29-32)**
+> "...prod the narrative on Terryl (Terryl Farnsworth) and Tyler (Tyler Bowyer),"
+
+**[00:30:10](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-29-32)**
+> "I should tell you guys that Terryl Farnsworth and Tyler Bowyer go back."
+
+**[00:30:18](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-30-15)**
+> "Terryl Farnsworth's parents went to high school with Tyler Bowyer's p..."
+
+**[00:30:28](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-30-15)**
+> "And then Tyler Bowyer and Terryl Farnsworth went to high school together."
+
+**[00:31:10](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-30-58)**
+> "...ainted obviously with Terryl (Terryl Farnsworth) on a familial basis"
+
+**[00:31:34](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-30-58)**
+> "...e was very close with Terryl (Terryl Farnsworth)'s family,"
+
+**[00:31:38](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-30-58)**
+> "particularly Terryl (Terryl Farnsworth)'s uncles and cousins."
+
+**[00:31:41](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-31-41)**
+> "Terryl (Terryl Farnsworth)'s father is a man named Dwayne Farnsworth."
+
+**[00:32:16](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-31-41)**
+> "who is Terryl (Terryl Farnsworth)'s father."
+
+**[00:39:48](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-39-39)**
+> "...g way when I spoke to Terryl (Terryl Farnsworth) and I can't let that feeling go."
+
+**[00:39:55](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-39-39)**
+> "...'s there I think that Terryl (Terryl Farnsworth) knows more."
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Relationships</strong></summary>
+
+<details>
+<summary>Accused By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+  - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:23:03](/episodes/ep-HYn0P-P1wUw.md#t-00-22-55): "that man is guilty of something. He's guilty of something. He's lying about weird stuff."
+  - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:37:47](/episodes/ep-DYD_QHMPwqM.md#t-00-37-47): "that's why Terryl (Terryl Farnsworth) was supposed to get those cameras down"
+
+</details>
+
+<details>
+<summary>Child Of (1)</summary>
+
+- **[Dwayne Farnsworth](/entities/person-dwayne-farnsworth.md)**
+  - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:31:41](/episodes/ep-HYn0P-P1wUw.md#t-00-30-58): "Terryl (Terryl Farnsworth)'s father is a man named Dwayne Farnsworth."
+
+</details>
+
+<details>
+<summary>Close Associate Of (1)</summary>
+
+- **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
+  - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:30:10](/episodes/ep-HYn0P-P1wUw.md#t-00-29-32): "I should tell you guys that Terryl Farnsworth and Tyler Bowyer go back. They go way back. I'm talking generationally back, okay? Terryl Farnsworth's parents went to high school with Tyler Bowyer's parents. They're all from Chandler, Arizona. And then Tyler Bowyer and Terryl Farnsworth went to high school together."
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** accused this
+  - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:23:03](/episodes/ep-HYn0P-P1wUw.md#t-00-22-55)
+  - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:37:47](/episodes/ep-DYD_QHMPwqM.md#t-00-37-47)
+
+- **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** close associate of this
+  - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:30:10](/episodes/ep-HYn0P-P1wUw.md#t-00-29-32)
+
+- **[Dwayne Farnsworth](/entities/person-dwayne-farnsworth.md)** parent of this
+  - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:31:41](/episodes/ep-HYn0P-P1wUw.md#t-00-30-58)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Terryl Farnsworth (7)</strong></summary>
+
+<details>
+<summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1)</summary>
+
+- [00:37:47](/episodes/ep-DYD_QHMPwqM.md#t-00-37-47) (Accusation) **Candace Owens**: ["Terryl Farnsworth was supposed to take the cameras down so that no foo..."](/statements/statement-2f261974e039.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (6)</summary>
+
+- [00:22:30](/episodes/ep-HYn0P-P1wUw.md#t-00-22-10) (Accusation) **Candace Owens**: ["Terryl Farnsworth repeatedly lied to Candace Owens during their phone ..."](/statements/statement-7bd8112aa504.md)
+
+- [00:30:10](/episodes/ep-HYn0P-P1wUw.md#t-00-29-32) (Claim) **Candace Owens**: ["Terryl Farnsworth's and Tyler Bowyer's parents attended high school to..."](/statements/statement-2681791717af.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+- [00:31:41](/episodes/ep-HYn0P-P1wUw.md#t-00-30-58) (Claim) **Candace Owens**: ["Arizona politicians Eddie and David Farnsworth are brothers and first ..."](/statements/statement-3913ecc31109.md)
+  - Also about: [Dwayne Farnsworth](/entities/person-dwayne-farnsworth.md), [Eddie Farnsworth](/entities/person-eddie-farnsworth.md), [David Farnsworth](/entities/person-david-farnsworth.md)
+
+- [00:33:39](/episodes/ep-HYn0P-P1wUw.md#t-00-33-05) (Claim) **Candace Owens**: ["The Farnsworth, Bowyer, and Frantzve families had documented connectio..."](/statements/statement-9253c69f0aeb.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:39:19](/episodes/ep-HYn0P-P1wUw.md#t-00-38-59) (Claim) **Candace Owens**: ["Terryl Farnsworth's father-in-law, Tom Burt, served as executive vice ..."](/statements/statement-5ef95466efa5.md)
+  - Also about: [Tom Burt](/entities/person-tom-burt.md), [Duncan Aviation](/entities/org-duncan-aviation.md)
+
+- [00:39:39](/episodes/ep-HYn0P-P1wUw.md#t-00-38-59) (Accusation) **Candace Owens**: ["Terryl Farnsworth knows more about Charlie Kirk's death than he disclo..."](/statements/statement-7a9a96c32e13.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+</details>

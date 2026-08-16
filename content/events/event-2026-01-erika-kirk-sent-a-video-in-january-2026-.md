@@ -1,0 +1,20 @@
+---
+title: "2026-01: Erika Kirk sent a video in January 2026 in respons..."
+description: "2026-01 - Erika Kirk sent a video in January 2026 in response to Candace Owens's request concerning her Fort Huachuca alibi."
+event_id: "event-2026-01-erika-kirk-sent-a-video-in-january-2026-"
+date: "2026-01"
+---
+
+**Date:** 2026-01
+
+## Event
+
+> Erika Kirk sent a video in January 2026 in response to Candace Owens's request concerning her Fort Huachuca alibi.
+
+## Mentioned In
+
+**Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
+**Timestamp:** [00:13:36](/episodes/ep-X92MllIHDzw.md#event-event-2026-01-erika-kirk-sent-a-video-in-january-2026--t-00-13-23) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(816);return false;">▶️ Play</a>
+
+> Erika did send a video that I had been asking for regarding the Fort Huachuca alibi.

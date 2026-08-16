@@ -1,0 +1,77 @@
+---
+title: "State Farm Stadium"
+description: "State Farm Stadium (Organizations) - 3 mentions"
+id: "org-state-farm-stadium"
+type: "ORG"
+categories:
+  - "sports venue"
+  - "Charlie Kirk memorial"
+---
+
+_Type: Organizations_
+
+**Categories:** sports venue, Charlie Kirk memorial
+
+**Entity verification:** verified
+> Official venue page confirms the canonical stadium name and Glendale, Arizona location.
+Source: [About | State Farm Stadium](https://www.statefarmstadium.com/about)
+
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
+<details open>
+<summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (2 mentions)</summary>
+
+**[00:24:55](/episodes/ep-Wjul6YV6izo.md#t-00-24-54)**
+> "Trump had to get personally involved to secure the Cardinal Stadium."
+
+**[00:25:39](/episodes/ep-Wjul6YV6izo.md#t-00-25-39)**
+> "There was no RV show that was on the calendar for this Cardinal Stadium."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (1 mentions)</summary>
+
+**[00:09:35](/episodes/ep-A39g5oqB_eM.md#ent-org-state-farm-stadium-t-00-09-18)**
+> "...emorial event that is held at State Farm Stadium. And on the 22nd, which I had not mentioned befor..."
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Relationships</strong></summary>
+
+_No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about State Farm Stadium (4)</strong></summary>
+
+<details>
+<summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (3)</summary>
+
+- [00:24:55](/episodes/ep-Wjul6YV6izo.md#t-00-24-54) (Claim) **Anonymous Source #3 (Ep Wjul6YV6izo)** (via read message): ["Donald Trump had to become personally involved to secure State Farm St..."](/statements/statement-3999c954cfb4.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:24:59](/episodes/ep-Wjul6YV6izo.md#t-00-24-54) (Claim) **Anonymous Source #3 (Ep Wjul6YV6izo)** (via read message): ["A large and lucrative RV show was scheduled at State Farm Stadium duri..."](/statements/statement-0e440aece08c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:25:39](/episodes/ep-Wjul6YV6izo.md#t-00-24-54) (Citation) **Candace Owens**: ["Archived State Farm Stadium calendars showed no RV show scheduled for ..."](/statements/statement-7bbcc406efeb.md)
+  - Also about: [Wayback Machine](/entities/work-wayback-machine.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (1)</summary>
+
+- [00:11:35](/episodes/ep-A39g5oqB_eM.md#t-00-11-24) (Claim) **Erika Kirk** (via quoted speech): ["More than 275,000 people attended the memorial event across the stadiu..."](/statements/statement-ff6af40b459f.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Westgate Entertainment District](/entities/org-westgate-entertainment-district.md)
+
+</details>
+
+</details>

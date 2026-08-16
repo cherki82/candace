@@ -1,0 +1,53 @@
+---
+title: "Anonymous Source #3 (Ep HYn0P-P1wUw)"
+description: "Anonymous Source #3 (Ep HYn0P-P1wUw) (Anonymous Sources) - 1 mention"
+id: "anon-src-HYn0P-P1wUw-003"
+type: "ANONYMOUS_SOURCE"
+---
+
+_Type: Anonymous Sources_
+
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
+<details open>
+<summary><strong class="section-title">Mentions</strong></summary>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Relationships</strong></summary>
+
+_No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements by Anonymous Source #3 (Ep HYn0P-P1wUw) (1)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1)</summary>
+
+- [00:10:58](/episodes/ep-HYn0P-P1wUw.md#t-00-10-27) [✓] (Claim) ["Tyler Robinson's grandmother said that he did not fire guns and did not commit C..."](/statements/statement-7f09228a0058.md)
+  - About: [Tyler James Robinson](/entities/person-tyler-james-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Anonymous Source #3 (Ep HYn0P-P1wUw) (1)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1)</summary>
+
+- [00:10:33](/episodes/ep-HYn0P-P1wUw.md#t-00-10-27) (Opinion) **Candace Owens**: ["Tyler Robinson may have gone to his grandmother's house after leaving ..."](/statements/statement-d3d1fc988477.md)
+  - Also about: [Tyler James Robinson](/entities/person-tyler-james-robinson.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Anonymous Source Details</strong></summary>
+
+</details>

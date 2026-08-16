@@ -1,6 +1,5 @@
 // Share modal functionality
-const DONATE_URL = "https://buymeacoffee.com/cherki"
-const BASE_URL = "https://cherki82.github.io/candace"
+const BASE_URL = window.location.origin
 
 interface ShareData {
   title: string
@@ -31,12 +30,10 @@ function generateSnippet(): string {
     case "claim":
       const claimText = document.querySelector("blockquote")?.textContent?.trim() || title
       const episodeLink = document.querySelector('a[href*="/episodes/"]')
-      const episodeName = episodeLink?.textContent || "The Candace Owens Show"
+      const episodeName = episodeLink?.textContent || "Content Knowledge Graph"
       snippet = `"${claimText}"
 — ${episodeName}
-📖 ${url}
-
-Support this research: ${DONATE_URL}`
+📖 ${url}`
       break
 
     case "entity":
@@ -44,9 +41,7 @@ Support this research: ${DONATE_URL}`
       const mentionCount = document.querySelectorAll(".mentions li")?.length || 0
       snippet = `${title} (${entityType})
 ${mentionCount > 0 ? `Mentioned in ${mentionCount} episodes` : ""}
-📖 ${url}
-
-Support this research: ${DONATE_URL}`
+📖 ${url}`
       break
 
     case "episode":
@@ -55,9 +50,7 @@ Support this research: ${DONATE_URL}`
       snippet = `${title}
 ${stats}
 ▶ ${youtubeLink}
-📖 ${url}
-
-Support this research: ${DONATE_URL}`
+📖 ${url}`
       break
 
     case "timestamp":
@@ -65,17 +58,13 @@ Support this research: ${DONATE_URL}`
       const tsYoutubeLink = document.querySelector('a[href*="youtube.com"]')?.getAttribute("href") || ""
       snippet = `${title}
 "${transcript.slice(0, 200)}${transcript.length > 200 ? "..." : ""}"
-▶ ${tsYoutubeLink}
-
-Support this research: ${DONATE_URL}`
+▶ ${tsYoutubeLink}`
       break
 
     default:
       snippet = `${title}
 ${description}
-📖 ${url}
-
-Support this research: ${DONATE_URL}`
+📖 ${url}`
   }
 
   return snippet.trim()

@@ -1,0 +1,42 @@
+---
+title: "Anonymous Source #4 (Ep 4YgrOhhy708)"
+description: "Anonymous Source #4 (Ep 4YgrOhhy708) (Anonymous Sources) - 0 mentions"
+id: "anon-src-4YgrOhhy708-004"
+type: "ANONYMOUS_SOURCE"
+---
+
+_Type: Anonymous Sources_
+
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
+<details open>
+<summary><strong class="section-title">Mentions</strong></summary>
+
+_No mentions recorded._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Relationships</strong></summary>
+
+_No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements by Anonymous Source #4 (Ep 4YgrOhhy708) (1)</strong></summary>
+
+<details>
+<summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (1)</summary>
+
+- [00:19:45](/episodes/ep-4YgrOhhy708.md#t-00-19-19) [◐] (Claim) ["A Tucson-based Thomas Martin is reportedly a U.S. Border Patrol director and U.S..."](/statements/statement-aa052369936e.md)
+  - About: [United States Border Patrol](/entities/org-us-border-patrol.md), [U.S. Southern Command](/entities/org-us-southern-command.md), [Tucson, Arizona](/entities/gpe-tucson-arizona.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Anonymous Source Details</strong></summary>
+
+</details>

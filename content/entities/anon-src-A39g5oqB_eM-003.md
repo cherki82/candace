@@ -1,0 +1,42 @@
+---
+title: "Anonymous Source #3 (Ep A39g5oqB_eM)"
+description: "Anonymous Source #3 (Ep A39g5oqB_eM) (Anonymous Sources) - 0 mentions"
+id: "anon-src-A39g5oqB_eM-003"
+type: "ANONYMOUS_SOURCE"
+---
+
+_Type: Anonymous Sources_
+
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
+<details open>
+<summary><strong class="section-title">Mentions</strong></summary>
+
+_No mentions recorded._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Relationships</strong></summary>
+
+_No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements by Anonymous Source #3 (Ep A39g5oqB_eM) (1)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (1)</summary>
+
+- [00:31:14](/episodes/ep-A39g5oqB_eM.md#t-00-30-51) [?] (Claim) ["Bill and Edith Montgomery and Robert Flood knew each other before the gifted sch..."](/statements/statement-a6b7ff633170.md)
+  - About: [Bill Montgomery](/entities/person-bill-montgomery.md), [Edith Montgomery](/entities/person-edith-montgomery.md), [Robert Eugene Flood](/entities/person-robert-eugene-flood.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Anonymous Source Details</strong></summary>
+
+</details>

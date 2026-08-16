@@ -1,0 +1,58 @@
+---
+title: "Allen, Texas"
+description: "Allen, Texas (Places) - 2 mentions"
+id: "gpe-allen-texas"
+type: "GPE"
+aliases:
+  - "Allen"
+categories:
+  - "Texas city"
+---
+
+_Type: Places_
+
+**Also known as:** Allen
+
+**Categories:** Texas city
+
+**Entity verification:** verified
+> Official city website confirms the canonical place name and Texas location.
+Source: [Allen, TX | Official Website](https://www.cityofallen.org/)
+
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
+<details open>
+<summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>A Legal Turning Point? | Candace Ep 292 (2 mentions)</summary>
+
+**[00:13:02](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-allen-texas-t-00-12-40)**
+> "who is from Allen, Texas,"
+
+**[00:13:06](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-allen-texas-t-00-12-40)**
+> "...d high school, by the way, in Allen,"
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Relationships</strong></summary>
+
+_No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Allen, Texas (1)</strong></summary>
+
+<details>
+<summary>A Legal Turning Point? | Candace Ep 292 (1)</summary>
+
+- [00:12:53](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40) (Claim) **Candace Owens**: ["Dan Flood lives in New Braunfels, Texas, and attended middle and high ..."](/statements/statement-83305badaf78.md)
+  - Also about: [Dan Flood](/entities/person-dan-flood.md), [New Braunfels](/entities/gpe-new-braunfels-texas.md)
+
+</details>
+
+</details>

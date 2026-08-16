@@ -1,0 +1,142 @@
+---
+title: "Jerry Falwell Sr."
+description: "Jerry Falwell Sr. (People) - 15 mentions"
+id: "person-jerry-falwell-sr"
+type: "PERSON"
+aliases:
+  - "Jerry Falwell Sr"
+  - "Reverend Jerry Falwell"
+  - "Rev. Jerry Falwell"
+  - "Falwell Senior"
+---
+
+_Type: People_
+
+**Also known as:** Jerry Falwell Sr, Reverend Jerry Falwell, Rev. Jerry Falwell, Falwell Senior
+
+**Entity verification:** verified
+> Liberty University founder discussed extensively.
+
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
+<details open>
+<summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (5 mentions)</summary>
+
+**[00:11:20](/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-falwell-sr-t-00-10-58)**
+> "...d with Liberty University via Jerry Falwell Sr."
+
+**[00:17:03](/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-falwell-sr-t-00-16-29)**
+> "...he church and the school when Jerry Falwell Sr."
+
+**[00:17:09](/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-falwell-sr-t-00-17-09)**
+> "...tors who made a fortune while Jerry Falwell Sr. was alive did not like that."
+
+**[00:23:37](/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-falwell-sr-t-00-23-16)**
+> "...h remained at the school that Jerry Falwell Sr."
+
+**[00:24:41](/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-falwell-sr-t-00-24-41)**
+> "...is is the one that pushed for Jerry Falwell Sr."
+
+</details>
+
+<details>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (10 mentions)</summary>
+
+**[00:25:00](/episodes/ep-wcD2khO3rOA.md#ent-person-jerry-falwell-sr-t-00-25-00)**
+> "Falwell Senior,"
+
+**[00:25:12](/episodes/ep-wcD2khO3rOA.md#ent-person-jerry-falwell-sr-t-00-25-10)**
+> "But Jerry Falwell Sr."
+
+**[00:35:30](/episodes/ep-wcD2khO3rOA.md#ent-person-jerry-falwell-sr-t-00-35-25)**
+> "...maternity home was founded by Jerry Falwell Sr."
+
+**[00:38:30](/episodes/ep-wcD2khO3rOA.md#ent-person-jerry-falwell-sr-t-00-38-25)**
+> "...see she was there when it was Jerry Falwell Sr."
+
+**[00:44:01](/episodes/ep-wcD2khO3rOA.md#ent-person-jerry-falwell-sr-t-00-44-01)**
+> "Jerry Falwell Sr., a $2 million jet in 1979 adjusted for inflation,"
+
+**[00:44:25](/episodes/ep-wcD2khO3rOA.md#ent-person-jerry-falwell-sr-t-00-44-01)**
+> "Jerry Falwell Sr., I should tell you, had a rather radical conversi..."
+
+**[00:46:43](/episodes/ep-wcD2khO3rOA.md#ent-person-jerry-falwell-sr-t-00-46-10)**
+> "...osis of the liver and his son Jerry Falwell Sr."
+
+**[00:47:11](/episodes/ep-wcD2khO3rOA.md#ent-person-jerry-falwell-sr-t-00-46-51)**
+> "Jerry Falwell Sr."
+
+**[00:55:40](/episodes/ep-wcD2khO3rOA.md#ent-person-jerry-falwell-sr-t-00-55-40)**
+> "...ses and even help to bail out Reverend Jerry Falwell's foundering Liberty University. Again, this is 199..."
+
+**[01:06:24](/episodes/ep-wcD2khO3rOA.md#ent-person-jerry-falwell-sr-t-01-06-16)**
+> "rescuing Reverend Jerry Falwell's Lynchburg, Virginia Religious School from the bri..."
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Relationships</strong></summary>
+
+<details>
+<summary>Child Of (1)</summary>
+
+- **[Carey Hezekiah Falwell](/entities/person-carey-hezekiah-falwell.md)**
+  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:44:57](/episodes/ep-wcD2khO3rOA.md#t-00-44-43): "His daddy, a man named Carey Hezekiah, was a drunk."
+
+</details>
+
+<details>
+<summary>Founded (1)</summary>
+
+- **[Liberty Godparent Home](/entities/org-liberty-godparent-home.md)**
+  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:35:30](/episodes/ep-wcD2khO3rOA.md#t-00-35-25): "The maternity home was founded by Jerry Falwell Sr."
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
+
+- **[Liberty Godparent Home](/entities/org-liberty-godparent-home.md)** founded by this
+  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:35:30](/episodes/ep-wcD2khO3rOA.md#t-00-35-25)
+
+- **[Carey Hezekiah Falwell](/entities/person-carey-hezekiah-falwell.md)** parent of this
+  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:44:57](/episodes/ep-wcD2khO3rOA.md#t-00-44-43)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Jerry Falwell Sr. (5)</strong></summary>
+
+<details>
+<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (3)</summary>
+
+- [00:11:20](/episodes/ep-CMcktj3Egfo.md#t-00-10-58) (Claim) **Candace Owens**: ["Sun Myung Moon became involved with Liberty University through Jerry F..."](/statements/statement-e84babb7fb49.md)
+  - Also about: [Sun Myung Moon](/entities/person-sun-myung-moon.md), [Liberty University](/entities/org-liberty-university.md)
+
+- [00:17:14](/episodes/ep-CMcktj3Egfo.md#t-00-17-09) (Accusation) **Anonymous Source #2 (Ep CMcktj3Egfo)** (via paraphrase): ["A Liberty University insider alleged that pastors resented the school-..."](/statements/statement-8bf064474698.md)
+  - Also about: [Liberty University](/entities/org-liberty-university.md), [Jerry Falwell Jr.](/entities/person-jerry-falwell-jr.md)
+
+- [00:24:28](/episodes/ep-CMcktj3Egfo.md#t-00-24-00) (Accusation) **Anonymous Source #3 (Ep CMcktj3Egfo)** (via paraphrase): ["A former schoolmate alleged that a male mentor bought new cars for Joh..."](/statements/statement-cb2342bc1b6d.md)
+  - Also about: [Johnnie Moore](/entities/person-johnnie-moore.md), [Ronald S. Godwin](/entities/person-ronald-s-godwin.md), [Liberty University](/entities/org-liberty-university.md)
+
+</details>
+
+<details>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (2)</summary>
+
+- [00:25:00](/episodes/ep-wcD2khO3rOA.md#t-00-24-56) (Accusation) **Anonymous Source #1 (Ep wcD2khO3rOA)** (via quoted speech): ["Jerry Falwell Sr. personally took photographs of girls at the Liberty ..."](/statements/statement-eb0f128f2a49.md)
+  - Also about: [Liberty Godparent Home](/entities/org-liberty-godparent-home.md)
+
+- [00:47:09](/episodes/ep-wcD2khO3rOA.md#t-00-46-51) (Claim) **Candace Owens**: ["Menachem Begin gifted Jerry Falwell Sr. a Learjet in 1979."](/statements/statement-d9ecb61b898d.md)
+  - Also about: [Menachem Begin](/entities/person-menachem-begin.md), [Israel](/entities/gpe-israel.md)
+
+</details>
+
+</details>

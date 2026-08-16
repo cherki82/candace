@@ -1,0 +1,39 @@
+---
+title: "Turning Point USA's AmericaFest was a coordinated and choreo..."
+description: "\"Turning Point USA's AmericaFest was a coordinated and choreographed spectacle designed to play its audience.\" — Tim Dillon"
+statement_id: "statement-15a77f5932c6"
+speaker: "Tim Dillon"
+type: "opinion"
+---
+
+**Status:** ○ Not yet verified
+
+## Statement
+
+> Turning Point USA's AmericaFest was a coordinated and choreographed spectacle designed to play its audience.
+
+## Attribution
+
+**Speaker:** [Tim Dillon](/entities/person-tim-dillon.md) (Guest)
+
+**Delivery:** Made directly
+
+## About
+
+- [Turning Point USA](/entities/org-turning-point-usa.md) (org)
+
+## Source
+
+**Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
+**Timestamp:** [00:07:03](/episodes/ep-OEAHy3SsIiI.md#t-00-06-50) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(423);return false;">Play</a>
+
+> You feel like this is a coordinated and choreographed spectacle so that you are played.
+
+## Verification
+
+_This statement is marked as not verifiable (opinion/subjective)._
+
+---
+
+**Type:** Opinion | **Verifiable:** No

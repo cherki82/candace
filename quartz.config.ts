@@ -8,13 +8,13 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Candace Knowledge Graph",
-    pageTitleSuffix: " | Candace KG",
+    pageTitle: "Content Knowledge Graph",
+    pageTitleSuffix: " | Knowledge Graph",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "cherki82.github.io/candace",
+    baseUrl: "localhost:8770",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

@@ -1,0 +1,20 @@
+---
+title: "2025-09: Candace Owens said a news report described a perso..."
+description: "2025-09 - Candace Owens said a news report described a person on a Utah Valley University roof before Charlie Kirk's assassination."
+event_id: "event-2025-09-candace-owens-said-a-news-report-describ"
+date: "2025-09"
+---
+
+**Date:** 2025-09
+
+## Event
+
+> Candace Owens said a news report described a person on a Utah Valley University roof before Charlie Kirk's assassination.
+
+## Mentioned In
+
+**Episode:** [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md)
+**Timestamp:** [01:02:27](/episodes/ep-2T39-oADLj0.md#event-event-2025-09-candace-owens-said-a-news-report-describ-t-01-02-21) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3747);return false;">▶️ Play</a>
+
+> There was also a news report that came out a week before that somebody was on the roof

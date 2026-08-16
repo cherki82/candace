@@ -1,11 +1,19 @@
 ---
 title: "Sigmund Freud"
-description: "Sigmund Freud (People) - 35 mentions"
+description: "Sigmund Freud (People) - 20 mentions"
 id: "person-sigmund-freud"
 type: "PERSON"
+categories:
+  - "psychology"
 ---
 
 _Type: People_
+
+**Categories:** psychology
+
+**Entity verification:** verified
+> Library authority record confirms canonical name.
+Source: [Library of Congress — Sigmund Freud authority record](https://www.loc.gov/item/n82003122/sigmund-freud-1856-1939/)
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -13,184 +21,97 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
+<summary>An Open Letter To Erika Kirk | Candace Ep 303 (1 mentions)</summary>
 
-**[00:54:38](/episodes/ep-a-e7HC6SeK8.md#ent-person-sigmund-freud-t-00-54-16)**
-> "...he way, we're about to—when we get off—head to the book club as we continue this conversation about Sigmund Freud and the Jewish mystical tradition—and which correlates directly with what's going on today: kind of..."
-
-</details>
-
-<details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
-
-**[00:37:26](/episodes/ep-mKXdKV-OBog.md#ent-person-sigmund-freud-t-00-37-26)**
-> "... book club. We are running late tonight, but we are doing the book club as we can continue to read "Sigmund Freud and the Jewish Mystical Tradition." You can also buy my book if you head over to MakeHimASandwich.c..."
-
-**[00:37:26](/episodes/ep-mKXdKV-OBog.md#ent-person-sigmund-freud-t-00-37-26)**
-> "...b as we can continue to read "Sigmund Freud and the Jewish Mystical Tradition.""
+**[00:41:55](/episodes/ep-mFuno0TuuQQ.md#ent-person-sigmund-freud-t-00-41-15)**
+> "Read the Sigmund Freud books."
 
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
+<summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (5 mentions)</summary>
 
-**[00:47:18](/episodes/ep-sImMM04XdWY.md#ent-person-sigmund-freud-t-00-47-10)**
-> "...late that when I said to bump it to Thursday. So it will be tomorrow, and we will continue reading "Sigmund Freud and the Jewish Mystical Tradition." Okay, top comment from yesterday. Angela wrote: "To all those w..."
+**[00:12:46](/episodes/ep-DYD_QHMPwqM.md#ent-person-sigmund-freud-t-00-12-39)**
+> "everything that I have learned studying Sigmund Freud."
 
-</details>
+**[00:12:53](/episodes/ep-DYD_QHMPwqM.md#ent-person-sigmund-freud-t-00-12-39)**
+> "I told you Sigmund Freud was a Satanist. He created a social science."
 
-<details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1 mentions)</summary>
+**[00:13:03](/episodes/ep-DYD_QHMPwqM.md#ent-person-sigmund-freud-t-00-12-39)**
+> "Sigmund Freud is explicit that they create the science to mask ..."
 
-**[00:49:58](/episodes/ep-SKGUzGHymcI.md#ent-person-sigmund-freud-t-00-49-41)**
-> "...ebody grow up to be a psychopath. And that's what we're seeing. These are people that are in power. Sigmund Freud explicitly spells that out, that doing these things to children, they will grow up and they will be..."
+**[00:13:24](/episodes/ep-DYD_QHMPwqM.md#ent-person-sigmund-freud-t-00-13-24)**
+> "essentially what Sigmund Freud is famous for is developing a breakthrough strate..."
 
-</details>
-
-<details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (4 mentions)</summary>
-
-**[00:56:03](/episodes/ep-LATnak75Si0.md#ent-person-sigmund-freud-t-00-55-58)**
-> "...appening today. You have to also recognize what Israel—how it came together. You have to start with Sigmund Freud, the early Zionist movement. Theodore Herzl, his connection to him—why they were connected. We talk..."
-
-**[00:56:18](/episodes/ep-LATnak75Si0.md#ent-person-sigmund-freud-t-00-55-58)**
-> "...th "The Assault on Truth" by Jeffrey Masson, and then move on to this most critical book, which is "Sigmund Freud's and the Jewish Mystical Tradition." I think the combination of those two books are absolutely pot..."
-
-**[00:56:36](/episodes/ep-LATnak75Si0.md#ent-person-sigmund-freud-t-00-55-58)**
-> "...tart to recognize the psych tactics that they use on us—the gaslighting. That is why they celebrate Sigmund Freud—because he mainstreamed gaslighting people that they harmed. That's just a fact—an inescapable fact..."
-
-**[00:56:44](/episodes/ep-LATnak75Si0.md#ent-person-sigmund-freud-t-00-56-42)**
-> "...at they harmed. That's just a fact—an inescapable fact— as Jeffrey Masson—who was in control of the Sigmund Freud archives—points out. Andrea writes: "Please help us locate the video of Charlie (Charlie Kirk) Kirk..."
+**[00:40:28](/episodes/ep-DYD_QHMPwqM.md#ent-person-sigmund-freud-t-00-40-28)**
+> "...f this and truly could credit Sigmund Freud with this because I just realized something was v..."
 
 </details>
 
 <details>
-<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
+<summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (2 mentions)</summary>
 
-**[00:38:31](/episodes/ep-Qfwr08Ebczo.md#ent-person-sigmund-freud-t-00-38-31)**
-> "...nd we're gonna get deeper, by the way, into that sort of guiding theology when we get back into the Sigmund Freud book because it really, really connects dots for you. Right? What that guiding philosophy comes fro..."
+**[00:50:28](/episodes/ep-QRS_hR7NXaQ.md#ent-person-sigmund-freud-t-00-49-53)**
+> "as Sigmund Freud"
 
-</details>
-
-<details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
-
-**[00:12:30](/episodes/ep-K1tFD7FfoCU.md#ent-person-sigmund-freud-t-00-12-07)**
-> "...ere brought to and fought for on our shores by people like Emma Goldman (Emma Goldman) on feminism, Sigmund Freud (Sigmund Freud), the father of modern psychology. The gambling empire is where the Adelson empire w..."
-
-**[00:12:30](/episodes/ep-K1tFD7FfoCU.md#ent-person-sigmund-freud-t-00-12-07)**
-> "Sigmund Freud (Sigmund Freud), the father of modern psychology."
+**[00:50:32](/episodes/ep-QRS_hR7NXaQ.md#ent-person-sigmund-freud-t-00-49-53)**
+> "And Sigmund Freud outwardly said,"
 
 </details>
 
 <details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
+<summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (9 mentions)</summary>
 
-**[01:00:52](/episodes/ep-iHav0PPzUz8.md#ent-person-sigmund-freud-t-01-00-41)**
-> "...y and learn about the author—learn about what he went through to tell the truth about the fact that Sigmund Freud was factually defending his pedophile friends. And they brought that to the shores of America. They..."
+**[00:02:06](/episodes/ep-CEF7gQRWYCE.md#ent-person-sigmund-freud-t-00-02-09)**
+> "Sigmund Freud and the Jewish mystical tradition."
 
-</details>
+**[00:02:13](/episodes/ep-CEF7gQRWYCE.md#ent-person-sigmund-freud-t-00-02-09)**
+> "...e I took you through it, what Sigmund Freud and his B'nai B'rith Freemason boys actually beli..."
 
-<details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
+**[00:03:37](/episodes/ep-CEF7gQRWYCE.md#ent-person-sigmund-freud-t-00-03-32)**
+> "...ually a direct quotation from Sigmund Freud."
 
-**[00:46:55](/episodes/ep-Cq7nj9rxPdo.md#ent-person-sigmund-freud-t-00-46-50)**
-> "...ng or out there." So that right there is a psychological operation. And because we're reading about Sigmund Freud, they diagnose you. When they don't want you to look into something, they diagnose you. So right th..."
+**[00:04:13](/episodes/ep-CEF7gQRWYCE.md#ent-person-sigmund-freud-t-00-04-13)**
+> "but Sigmund Freud is writing to Wilhelm Fliess after he gets initia..."
 
-**[00:47:16](/episodes/ep-Cq7nj9rxPdo.md#ent-person-sigmund-freud-t-00-46-50)**
-> "because we are reading about Sigmund Freud they diagnose you"
+**[00:05:49](/episodes/ep-CEF7gQRWYCE.md#ent-person-sigmund-freud-t-00-05-39)**
+> "Sigmund Freud."
 
-**[00:52:46](/episodes/ep-Cq7nj9rxPdo.md#ent-person-sigmund-freud-t-00-52-11)**
-> "...of the Frankist movement. And we go pretty quickly. We're reading these books; we're learning about Sigmund Freud, right? It starts with Sigmund Freud. It ends with Operation Mockingbird—or that's where we are at ..."
+**[00:08:58](/episodes/ep-CEF7gQRWYCE.md#ent-person-sigmund-freud-t-00-08-58)**
+> "...hind closed doors exactly how Sigmund Freud spoke it's racist right I want to make it clear t..."
 
-**[00:52:51](/episodes/ep-Cq7nj9rxPdo.md#ent-person-sigmund-freud-t-00-52-51)**
-> "...retty quickly. We're reading these books; we're learning about Sigmund Freud, right? It starts with Sigmund Freud. It ends with Operation Mockingbird—or that's where we are at right now. And I have so much fun. An..."
+**[00:24:13](/episodes/ep-CEF7gQRWYCE.md#ent-person-sigmund-freud-t-00-23-51)**
+> "...rted people from Vienna where Sigmund Freud was, where his boys were."
 
-</details>
+**[00:37:08](/episodes/ep-CEF7gQRWYCE.md#ent-person-sigmund-freud-t-00-36-37)**
+> "Start with Sigmund Freud,"
 
-<details>
-<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (2 mentions)</summary>
-
-**[01:00:51](/episodes/ep-pc3pxRyNFZk.md#ent-person-sigmund-freud-t-01-00-11)**
-> "...t of us are obviously understanding that and are therefore being called crazy. About the history of Sigmund Freud, the book in my book club. If you can't join the book club, that's fine. You should read The Assaul..."
-
-**[01:03:32](/episodes/ep-pc3pxRyNFZk.md#ent-person-sigmund-freud-t-01-03-09)**
-> "...'re going to go, "How the hell have our public school systems across the world been telling us that Sigmund Freud was like a wonderful man?" Like insane. Brittany Schofield, lastly. She writes, "I'm a stay-at-home..."
+**[00:59:28](/episodes/ep-CEF7gQRWYCE.md#ent-person-sigmund-freud-t-00-36-37)**
+> "Sigmund Freud and the Jewish mystical tradition. And it is craz..."
 
 </details>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1 mentions)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[01:04:43](/episodes/ep-5autG89PW6w.md#ent-person-sigmund-freud-t-01-04-43)**
-> "...night as we begin this introduction to this book, which they will not reprint. What is a must-read? Sigmund Freud and the Jewish Mystical Tradition. So anyways, you guys, I'll see you over on CandaceOwens.com."
-
-</details>
-
-<details>
-<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (2 mentions)</summary>
-
-**[00:59:03](/episodes/ep-ozWJz2spBcI.md#ent-person-sigmund-freud-t-00-58-47)**
-> "...e to protect the most evil people in the entire world. You have to destroy your belief system about Sigmund Freud, and then you're ready to learn about what Sigmund Freud actually—what his major contribution was—a..."
-
-**[00:59:15](/episodes/ep-ozWJz2spBcI.md#ent-person-sigmund-freud-t-00-58-47)**
-> "... Sigmund Freud actually—what his major contribution was—and that's the book we're diving into next. Sigmund Freud and the Jewish Mystical Tradition is the name of that book by David Bakan that we will be starting ..."
+**[01:02:12](/episodes/ep-xjzb_t5Tk9o.md#ent-person-sigmund-freud-t-01-02-12)**
+> "my research into Sigmund Freud"
 
 </details>
 
 <details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (4 mentions)</summary>
+<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (1 mentions)</summary>
 
-**[00:02:10](/episodes/ep-t1YtLS1n8Vs.md#ent-person-sigmund-freud-t-00-02-02)**
-> "...sh Freemason organization known as B'nai B'rith. Now, if you're on my book club, you know this, but Sigmund Freud was a member of B'nai B'rith. We're discussing; we're reading right now the book The Assault on Tru..."
-
-**[00:02:17](/episodes/ep-t1YtLS1n8Vs.md#ent-person-sigmund-freud-t-00-02-02)**
-> "...ember of B'nai B'rith. We're discussing; we're reading right now the book The Assault on Truth, and Sigmund Freud is very relevant. You have to learn the history of Sigmund Freud. He's in all of our schools, all o..."
-
-**[00:02:23](/episodes/ep-t1YtLS1n8Vs.md#ent-person-sigmund-freud-t-00-02-02)**
-> "...the book The Assault on Truth, and Sigmund Freud is very relevant. You have to learn the history of Sigmund Freud. He's in all of our schools, all of our universities, taught as a hero, the history of the psychoan..."
-
-**[00:03:16](/episodes/ep-t1YtLS1n8Vs.md#ent-person-sigmund-freud-t-00-02-47)**
-> "...e to realize how horrific the crimes were that were being committed that they were covering for. So Sigmund Freud was in B'nai B'rith, and the ADL was born out of B'nai B'rith. Why? Well, because they put the orga..."
+**[00:30:33](/episodes/ep-X92MllIHDzw.md#ent-person-sigmund-freud-t-00-30-06)**
+> "And then if you raise a child and Sigmund Freud illustrates this in the book that we're currently reading in book club,"
 
 </details>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (2 mentions)</summary>
+<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
 
-**[00:45:14](/episodes/ep-QZWSsq8ZWzw.md#ent-person-sigmund-freud-t-00-44-45)**
-> "the psychoanalytic community...Sigmund Freud"
-
-**[00:45:14](/episodes/ep-QZWSsq8ZWzw.md#ent-person-sigmund-freud-t-00-44-45)**
-> "... probably follows the same story of a relationship that was really close and then broke off because Sigmund Freud held on to—I can't really say. That's why we have the book club—but you know how the psychoanalytic..."
-
-</details>
-
-<details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (1 mentions)</summary>
-
-**[00:36:36](/episodes/ep-sreYYcID-QY.md#ent-person-sigmund-freud-t-00-36-24)**
-> "...that they have pushed. I gotta tell you, that's the reality, okay? Let's go before him. Let's go to Sigmund Freud—how you guys created this system of propaganda. Who's the real father of modern propaganda, okay? I..."
-
-</details>
-
-<details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (5 mentions)</summary>
-
-**[01:01:55](/episodes/ep-czVBmqZP6Ss.md#ent-person-sigmund-freud-t-01-01-30)**
-> "...o join that—but you should read “The Assault on Truth.” It's a good start, okay, to understand that Sigmund Freud is celebrated in schools as the father of modern psychology. He is the father of nothing but modern..."
-
-**[01:02:10](/episodes/ep-czVBmqZP6Ss.md#ent-person-sigmund-freud-t-01-02-10)**
-> "...on't believe your own eyes. When you understand how severe the lies were that were being told, that Sigmund Freud professionalized in the form of the psychoanalytic movement—I'm talking about parents that were rap..."
-
-**[01:02:14](/episodes/ep-czVBmqZP6Ss.md#ent-person-sigmund-freud-t-01-02-10)**
-> "reading about Sigmund Freud is very important, to understand what modern psychology is"
-
-**[01:02:33](/episodes/ep-czVBmqZP6Ss.md#ent-person-sigmund-freud-t-01-02-10)**
-> "...g like that, okay? You got to confront real evil. And then I would recommend you read David Bakan, “Sigmund Freud and the History of the Jewish Mystical Tradition.” I think those are probably just—and that doesn't..."
-
-**[01:07:46](/episodes/ep-czVBmqZP6Ss.md#ent-person-sigmund-freud-t-01-07-46)**
-> "...have their minds, to impact their minds, to lie to them. It is psychology. That's why reading about Sigmund Freud is very important, to understand what modern psychology is and how much they have invested—how much..."
+**[01:01:41](/episodes/ep-HYn0P-P1wUw.md#t-01-01-41)**
+> "Sigmund Freud and the Jewish Mystical Tradition."
 
 </details>
 
@@ -200,38 +121,63 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Member Of (1)</summary>
+<summary>Criticized By (1)</summary>
 
-- **[B'nai B'rith](/entities/org-b-nai-b-rith.md)**
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:10](/episodes/ep-t1YtLS1n8Vs.md#t-00-02-02): "Sigmund Freud was a member of B'nai B'rith."
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:20](/episodes/ep-t1YtLS1n8Vs.md#t-00-00-42): "Sigmund Freud was a member of B'nai B'rith"
+- **[Candace Owens](/entities/person-candace-owens.md)**
+  - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:12:46](/episodes/ep-DYD_QHMPwqM.md#t-00-12-39): "It's everything that I have learned studying Sigmund Freud. ... I told you Sigmund Freud was a Satanist."
 
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Member Of (1)</summary>
 
-- **[B'nai B'rith](/entities/org-b-nai-b-rith.md)** has member this
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:10](/episodes/ep-t1YtLS1n8Vs.md#t-00-02-02)
+- **[B'nai B'rith International](/entities/org-bnai-brith-international.md)**
+  - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:07:50](/episodes/ep-CEF7gQRWYCE.md#t-00-07-05): "Freud himself was a racist, okay? He was a part, like I said, of the Freemason group in B'nai B'rith,"
+
+</details>
+
+<details>
+<summary>Mentored By (1)</summary>
+
+- **[Wilhelm Fliess](/entities/person-wilhelm-fliess.md)**
+  - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:03:56](/episodes/ep-CEF7gQRWYCE.md#t-00-03-32): "This I'm going to read from you is actually a direct quotation from Sigmund Freud. ... he's writing a letter to his best friend, also the person he was having a gay affair with, who mentored him, Wilhelm Fliess."
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+  - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:12:46](/episodes/ep-DYD_QHMPwqM.md#t-00-12-39)
+
+- **[B'nai B'rith International](/entities/org-bnai-brith-international.md)** has member this
+  - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:07:50](/episodes/ep-CEF7gQRWYCE.md#t-00-07-05)
+
+- **[Wilhelm Fliess](/entities/person-wilhelm-fliess.md)** mentored this
+  - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:03:56](/episodes/ep-CEF7gQRWYCE.md#t-00-03-32)
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Sigmund Freud (2)</strong></summary>
+<summary><strong class="section-title">Statements about Sigmund Freud (3)</strong></summary>
 
 <details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1)</summary>
+<summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (2)</summary>
 
-- [01:01:09](/episodes/ep-iHav0PPzUz8.md#t-01-00-41) (Accusation) **Candace Owens**: ["Sigmund Freud was factually defending his pedophile friends"](/statements/statement-34da4e06d527.md)
+- [00:12:53](/episodes/ep-DYD_QHMPwqM.md#t-00-12-39) (Accusation) **Candace Owens**: ["Sigmund Freud was a Satanist who created a social science."](/statements/statement-455e136ffd27.md)
+  - Also about: [Satanism](/entities/concept-satanism.md)
+
+- [00:13:03](/episodes/ep-DYD_QHMPwqM.md#t-00-12-39) (Citation) **Candace Owens**: ["Sigmund Freud explicitly said that elites create science to mask their..."](/statements/statement-2f78f6225a82.md)
 
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (1)</summary>
+<summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1)</summary>
 
-- [00:36:36](/episodes/ep-sreYYcID-QY.md#t-00-36-24) (Opinion) **Candace Owens**: ["The Freud family, not Joseph Goebbels, is the real father of modern pr..."](/statements/statement-8cb6965121ef.md)
+- [00:05:15](/episodes/ep-CEF7gQRWYCE.md#t-00-04-55) (Accusation) **Candace Owens**: ["Sigmund Freud knew children were being abused in Vienna and created ps..."](/statements/statement-29b6ff3c03a9.md)
+  - Also about: [Vienna](/entities/gpe-vienna.md)
 
 </details>
 

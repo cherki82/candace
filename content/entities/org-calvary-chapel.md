@@ -1,15 +1,20 @@
 ---
 title: "Calvary Chapel"
-description: "Calvary Chapel (Organizations) - 92 mentions"
+description: "Calvary Chapel (Organizations) - 7 mentions"
 id: "org-calvary-chapel"
 type: "ORG"
-aliases:
-  - "Calvary Chapel Church"
+categories:
+  - "church association"
+  - "evangelical Christianity"
 ---
 
 _Type: Organizations_
 
-**Also known as:** Calvary Chapel Church
+**Categories:** church association, evangelical Christianity
+
+**Entity verification:** verified
+> Official association site confirms canonical movement identity.
+Source: [Calvary Chapel Association](https://calvarycca.org/)
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -17,328 +22,43 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>
+<summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1 mentions)</summary>
 
-**[00:09:38](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-04)**
-> "I've covered extensively how even just amongst the Cavalry Chapel, in particular,"
-
-</details>
-
-<details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
-
-**[00:11:15](/episodes/ep-his-JBjlkh8.md#ent-org-calvary-chapel-t-00-11-15)**
-> "...er because they are veterans or because they have family members who are. Yeah, so I do believe the Calvary Chapel—their history with Chuck Smith, the evidence that it was a militant CIA effort to infiltrate the Ch..."
-
-**[00:11:50](/episodes/ep-his-JBjlkh8.md#ent-org-calvary-chapel-t-00-11-15)**
-> "...t's kind of floating into more opinion, but I think well-backed by the facts of the founding of the Calvary Chapel Church during the decade of the '60s, where the CIA was really just spiking the ball on Christians in gene..."
+**[00:31:36](/episodes/ep-DYD_QHMPwqM.md#ent-org-calvary-chapel-t-00-31-36)**
+> "the world of pastors and Calvary Chapel"
 
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (2 mentions)</summary>
 
-**[00:28:28](/episodes/ep-sImMM04XdWY.md#ent-org-calvary-chapel-t-00-27-47)**
-> "...ther you're talking about George Zinn or the person that jumped up and screamed or the pastors, the Calvary Chapel that for whatever reason kept getting into these scandals that we went over the other day. That doe..."
+**[00:23:06](/episodes/ep-xjzb_t5Tk9o.md#ent-org-calvary-chapel-t-00-22-52)**
+> "Calvary Chapel church"
 
-</details>
-
-<details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
-
-**[00:47:20](/episodes/ep-SKGUzGHymcI.md#t-00-46-56)**
-> "...opaganda campaign going on at Calvary Chapels where Israel is directly sending money to an LLC ..."
-
-**[00:51:37](/episodes/ep-SKGUzGHymcI.md#t-00-51-10)**
-> "...e do know what this is really about. Soul Survivor writes, Calvary Global Network branched off from Calvary Chapel Association in 2017. Much like they infiltrated TPUSA, they started branching out into separate thi..."
+**[00:23:34](/episodes/ep-xjzb_t5Tk9o.md#ent-org-calvary-chapel-t-00-23-34)**
+> "This entire church, Calvary Chapel Church is a CIA story."
 
 </details>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (9 mentions)</summary>
+<summary>Myron Gaines x Candace Owens (1 mentions)</summary>
 
-**[00:38:14](/episodes/ep-581dILVcEE4.md#ent-org-calvary-chapel-t-00-37-46)**
-> "...stor—America's pastor—Rob McCoy. I just think in general, by the way, I want to give a shout-out to Calvary Chapel because I knew nothing about Calvary Chapel before this investigation. These pastors are doing the ..."
-
-**[00:38:23](/episodes/ep-581dILVcEE4.md#ent-org-calvary-chapel-t-00-38-23)**
-> "... I have never seen such an obvious and naked propagandist campaign in my life than me exploring the Calvary Chapel Church movement. So America's Pastor Rob McCoy was in Jerusalem on November 16th, apparently. A couple day..."
-
-**[00:38:53](/episodes/ep-581dILVcEE4.md#ent-org-calvary-chapel-t-00-38-23)**
-> "Calvary Chapel magazine with 'Stand with Israel' cover discussed"
-
-**[00:40:49](/episodes/ep-581dILVcEE4.md#ent-org-calvary-chapel-t-00-40-49)**
-> "...xwell campaign—like we had to have the Holocaust education. And I want you to imagine a world where Calvary Chapel churches get to decide how we're educated because somebody sent me an actual magazine that they hav..."
-
-**[00:40:58](/episodes/ep-581dILVcEE4.md#ent-org-calvary-chapel-t-00-40-49)**
-> "...ow we're educated because somebody sent me an actual magazine that they have. Again, I'm new to the Calvary Chapel thing that's happening. I knew they were behind a lot of the attacks against me and Tucker (Tucker ..."
-
-**[00:41:09](/episodes/ep-581dILVcEE4.md#ent-org-calvary-chapel-t-00-40-49)**
-> "...r, but I hadn't realized how—like I said—naked in propaganda this is. This is this month's issue of Calvary Chapel magazine. Apparently they have their own magazine. And this is not parody. This is "Judeo Christian..."
-
-**[00:41:19](/episodes/ep-581dILVcEE4.md#ent-org-calvary-chapel-t-00-40-49)**
-> "...have their own magazine. And this is not parody. This is "Judeo Christianity." This is the cover of Calvary Chapel magazine from this month. And it says, "Stand with Israel." It tells the story of "surfer to shephe..."
-
-**[00:42:42](/episodes/ep-581dILVcEE4.md#ent-org-calvary-chapel-t-00-42-16)**
-> "... obvious what happened here. And of course, Bibi (Benjamin Netanyahu) Netanyahu was involved in the Calvary Chapel churches. We're gonna get to that tomorrow: his relationship with Bob Coy—not to be confused with P..."
-
-**[00:42:45](/episodes/ep-581dILVcEE4.md#ent-org-calvary-chapel-t-00-42-16)**
-> "...etanyahu) was involved in the Calvary Chapel churches."
+**[00:54:16](/episodes/ep-2T39-oADLj0.md#ent-org-calvary-chapel-t-00-53-48)**
+> "at that Calvary Chapel"
 
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (31 mentions)</summary>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (3 mentions)</summary>
 
-**[00:00:50](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-00-44)**
-> "...irk)'s assassination is pulling in all of these elements. And we need to speak a lot more about the Calvary Chapel and also Britney Spears. Britney Spears—suddenly Britney Spears is here. Britney Spears and everyth..."
+**[00:16:42](/episodes/ep-wcD2khO3rOA.md#ent-org-calvary-chapel-t-00-16-42)**
+> "...y, I have covered extensively Calvary Chapel Church riddled with pastor abuse stories. I mean,..."
 
-**[00:03:48](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-03-30)**
-> "... themes that we have been exploring. So, where did we leave off yesterday? Well, we spoke about the Calvary Chapel. We spoke about Rob McCoy being the lead pastor in Thousand Oaks—one of their many churches across ..."
+**[00:16:59](/episodes/ep-wcD2khO3rOA.md#ent-org-calvary-chapel-t-00-16-42)**
+> "... into homes with children via Calvary Chapel."
 
-**[00:04:40](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-04-14)**
-> "...e me perk up—a flurry of emails, actually. Thank you guys—telling me to stay the course because the Calvary Chapel was also involved in Britney Spears' conservatorship. What? Excuse me. Now to be clear, I never got..."
-
-**[00:11:07](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-10-43)**
-> "...ually started her career in a church working alongside her husband, who at the time was a pastor at Calvary Chapel in Brentwood, California. And interestingly enough, according to financial documents that are in th..."
-
-**[00:11:28](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-10-43)**
-> "...was a pastor. Read this. Mr. Spears at times gave 10% of his conservatorship income to the Taylors' Calvary Chapel Brentwood—a practice known as tithing—according to a 2010 financial document. Mr. Spears gave tens ..."
-
-**[00:12:38](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-12-38)**
-> "...indsay Lohan into conservatorships. Oh, we're going to get there because as I started following the Calvary Chapel again—suddenly involved in that part that she's mentioning about the tithing. Since I put onto my I..."
-
-**[00:12:49](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-12-38)**
-> "...am stories that—what is this? You're telling me that this woman Lou Taylor also was involved in the Calvary Chapel? And I was not paying attention to anything that was going on with Britney Spears at all. And I've ..."
-
-**[00:12:56](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-12-38)**
-> "...at seems to be happening with Calvary Chapels. And here's where we are."
-
-**[00:13:46](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-13-13)**
-> "... that God will bless them and they'll pray over them. What is happening? How can there be this many Calvary Chapel scandals and stories? She also mentioned Lindsay Lohan. She's not lying there. Well-loved teenager,..."
-
-**[00:16:07](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-16-07)**
-> "...oes not know Rob McCoy—seeing that he was the mayor of Thousand Oaks and is the pastor of the large Calvary Chapel church there. Before Rob and Lou Taylor moved to Brentwood, Tennessee. I think Rob and Lou Taylor moved to..."
-
-**[00:16:25](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-16-07)**
-> "...or moved to Brentwood, Tennessee. They lived in Fort Lauderdale, Florida, and attended a very large Calvary Chapel church there. And they were mentored by a man named Bob Coy. We brought him up yesterday—the pedophile sca..."
-
-**[00:32:07](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-32-07)**
-> "...ing to put this out there because I think a lot of people now need to start paying attention to the Calvary Chapel in whatever regard you're researching—whether it's Justin Bieber, as I just mentioned, whether you'..."
-
-**[00:52:41](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-52-23)**
-> "...o getting into some more of these comments. Access Gaming writes, "Did you see that there are seven Calvary Chapel churches near Huntington Beach, California?" "That is the epicenter of the Family International mov..."
-
-**[00:55:15](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-55-15)**
-> "...es where he can be the most deceptive. And what better place to go, right? People are showing up to Calvary Chapel because they love Jesus, and they want to pray. And suddenly they're starting to realize you're get..."
-
-**[00:55:22](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-55-15)**
-> "...uddenly they're starting to realize you're getting a political message. Something is not right with Calvary Chapel. I stand by that. We lost someone that has an email and said—because I discussed Calvary Chapel's a..."
-
-**[00:55:25](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-55-15)**
-> "...ith Calvary Chapel. I stand by that. We lost someone that has an email and said—because I discussed Calvary Chapel's abuse history—they would no longer support us. Like, I've always been very clear on the topic of ..."
-
-**[00:00:50](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-00-44)**
-> "...to speak a lot more about the Calvary Chapel and also Britney Spears."
-
-**[00:03:48](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-03-30)**
-> "Well, we spoke about the Calvary Chapel. We spoke about Rob McCoy being the lead pastor i..."
-
-**[00:04:40](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-04-14)**
-> "...o stay the course because the Calvary Chapel was also involved in Britney Spears' conservators..."
-
-**[00:11:07](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-10-43)**
-> "...o at the time was a pastor at Calvary Chapel in Brentwood, California."
-
-**[00:11:28](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-10-43)**
-> "...orship income to the Taylors' Calvary Chapel Brentwood—a practice known as tithing—according t..."
-
-**[00:12:38](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-12-38)**
-> "...se as I started following the Calvary Chapel again—suddenly involved in that part that she's m..."
-
-**[00:12:49](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-12-38)**
-> "...ylor also was involved in the Calvary Chapel? And I was not paying attention to anything that ..."
-
-**[00:13:46](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-13-13)**
-> "How can there be this many Calvary Chapel scandals and stories?"
-
-**[00:16:07](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-16-07)**
-> "...nd is the pastor of the large Calvary Chapel church there."
-
-**[00:16:25](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-16-07)**
-> "...da, and attended a very large Calvary Chapel church there."
-
-**[00:32:07](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-32-07)**
-> "...start paying attention to the Calvary Chapel in whatever regard you're researching—whether it'..."
-
-**[00:52:41](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-52-23)**
-> "... you see that there are seven Calvary Chapel churches near Huntington Beach, California?""
-
-**[00:55:15](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-55-15)**
-> "People are showing up to Calvary Chapel because they love Jesus, and they want to pray. A..."
-
-**[00:55:22](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-55-15)**
-> "Something is not right with Calvary Chapel."
-
-**[00:55:25](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-55-15)**
-> "... and said—because I discussed Calvary Chapel's abuse history—they would no longer support us."
-
-</details>
-
-<details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (39 mentions)</summary>
-
-**[00:07:22](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-11-21)**
-> "Why is it that these Calvary Chapels have a long history of weird abuse and trafficking scandals that seemingly get swept under the rug?"
-
-**[00:07:22](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-11-21)**
-> "Why is it that these Calvary Chapels have a long history of weird abuse and traffickin..."
-
-**[00:11:41](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-11-21)**
-> "...tation is a thing. The problem comes in when Rob then decides that Camino should be involved in the Calvary Chapel Church and, more specifically, that Camino should have access to young children in a program called Home F..."
-
-**[00:18:30](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-18-15)**
-> "... come up, right? Now, that becomes even more interesting when put into the context of the fact that Calvary Chapel full stop has a long history of claims of intentionally putting pedophiles in positions of power, g..."
-
-**[00:19:12](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-18-59)**
-> "... exhaustive list, just to be clear, but I'm gonna just tell you like a few of these, right? Florida Calvary Chapel in Pompano Beach—the founder was a pastor named Rob Coy (not McCoy, to be clear), Rob Coy, who was ..."
-
-**[00:19:33](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-18-59)**
-> "...r one of Florida's biggest megachurches. And then he got accused of molesting a four-year-old girl. Calvary Chapel of the Woodlands. In 2024, the lead pastor was arrested after a sting operation into online sex abu..."
-
-**[00:19:42](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-19-42)**
-> "... 2024, the lead pastor was arrested after a sting operation into online sex abuse against children. Calvary Chapel Cary—the lead pastor resigned amid allegations of incest with his own son, bullying, drug addiction..."
-
-**[00:19:52](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-19-42)**
-> "...ned amid allegations of incest with his own son, bullying, drug addiction, and the misuse of funds. Calvary Chapel in Orange County—the lead pastor in Mission Viejo was convicted of abusing two girls. Calvary Chape..."
-
-**[00:19:59](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-19-42)**
-> "...alvary Chapel in Orange County—the lead pastor in Mission Viejo was convicted of abusing two girls. Calvary Chapel Solid Rock—that's in Minnesota. Jason James Taylor was the lead pastor on the border of Wisconsin, ..."
-
-**[00:20:23](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-19-42)**
-> "...rnia, there's a fellowship of Calvary Chapels, which includes Idaho—the North County Chapel in ..."
-
-**[00:21:19](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-21-05)**
-> "...nvolved in orphanages. And then there's a lot of these abuse scandals. Now, there's also the former Calvary Chapel pastor in Virginia who pled guilty to child sex abuse. The former Calvary pastor's name was Doug D'..."
-
-**[00:21:34](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-21-05)**
-> "...rently serving time in jail in Virginia on multiple charges related to child sex abuse. There's the Calvary Chapel in Fort Lauderdale in 2019. This is not the lead pastor, but an employee who was arrested after aut..."
-
-**[00:21:48](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-21-48)**
-> "...found numerous downloaded images and videos of child pornography on his home computer. There is the Calvary Chapel in North Thurston, Oregon. And this one's a doozy, okay? The lead pastor was this guy, Jeffrey Keon..."
-
-**[00:25:03](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-24-32)**
-> "...inistry came under a scandal with reports of financial abuse, psychological abuse. Essentially, the Calvary Chapel church members were funding the ministry believing that money was going to help and feed and clothe childr..."
-
-**[00:28:01](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-27-59)**
-> "...see him as a person that you would want stewarding your faith. And when you add in the fact... that Calvary Chapel was the chief offender, okay? These churches—when they were all getting on stage for Operation Mock..."
-
-**[00:28:18](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-27-59)**
-> "...hey were the number one offenders. I am not kidding. You start to ask yourself, what is guiding the Calvary Chapel, right? What is behind this? Do you really think this is all just accidental—their obsession with C..."
-
-**[00:29:01](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-28-43)**
-> "...p for something completely different?" The history, the CIA implications of who exactly started the Calvary Chapel—which kind of became the offshoot of the hippie movement. Chuck Smith is his name—CIA character tha..."
-
-**[00:45:35](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-45-19)**
-> "... By the way, I should mention Alexis Wilkins is her name—Alexis Wilkins. She's also a member of the Calvary Chapel Church in California—Chino Hills. Also the Babylon Bee guy—I can't think of his name right now—is also inv..."
-
-**[00:45:40](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-45-19)**
-> "...a—Chino Hills. Also the Babylon Bee guy—I can't think of his name right now—is also involved in the Calvary Chapel. We gotta look into this Calvary Chapel thing. It's getting interesting. It just is getting interes..."
-
-**[00:45:45](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-45-19)**
-> "...I can't think of his name right now—is also involved in the Calvary Chapel. We gotta look into this Calvary Chapel thing. It's getting interesting. It just is getting interesting. Irrespective of that, the lawsuit—..."
-
-**[00:59:28](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-59-18)**
-> "... them a little bit of credit for the 5 a.m. phone call. That's all I'll say. Mama Diaz writes: "The Calvary Chapel I would watch online had a pastor that said, 'If you have a Bible that has a map that shows Palesti..."
-
-**[00:11:41](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-11-21)**
-> "...ino should be involved in the Calvary Chapel Church and, more specifically, that Camino should..."
-
-**[00:18:30](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-18-15)**
-> "... the context of the fact that Calvary Chapel full stop has a long history of claims of intenti..."
-
-**[00:19:12](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-18-59)**
-> "Florida Calvary Chapel in Pompano Beach—the founder was a pastor named R..."
-
-**[00:19:33](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-18-59)**
-> "Calvary Chapel of the Woodlands."
-
-**[00:19:42](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-19-42)**
-> "Calvary Chapel Cary—the lead pastor resigned amid allegations of..."
-
-**[00:19:52](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-19-42)**
-> "Calvary Chapel in Orange County—the lead pastor in Mission Viejo..."
-
-**[00:19:59](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-19-42)**
-> "Calvary Chapel Solid Rock—that's in Minnesota."
-
-**[00:21:19](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-21-05)**
-> "Now, there's also the former Calvary Chapel pastor in Virginia who pled guilty to child sex a..."
-
-**[00:21:34](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-21-05)**
-> "There's the Calvary Chapel in Fort Lauderdale in 2019."
-
-**[00:21:48](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-21-48)**
-> "There is the Calvary Chapel in North Thurston, Oregon."
-
-**[00:25:03](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-24-32)**
-> "Essentially, the Calvary Chapel church members were funding the ministry believin..."
-
-**[00:28:01](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-27-59)**
-> "that Calvary Chapel was the chief offender, okay?"
-
-**[00:28:18](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-27-59)**
-> "...yourself, what is guiding the Calvary Chapel, right?"
-
-**[00:29:01](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-28-43)**
-> "...ns of who exactly started the Calvary Chapel—which kind of became the offshoot of the hippie m..."
-
-**[00:45:35](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-45-19)**
-> "She's also a member of the Calvary Chapel Church in California—Chino Hills."
-
-**[00:45:40](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-45-19)**
-> "...t now—is also involved in the Calvary Chapel."
-
-**[00:45:45](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-45-19)**
-> "We gotta look into this Calvary Chapel thing. It's getting interesting."
-
-**[00:59:28](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-59-18)**
-> "Mama Diaz writes: "The Calvary Chapel I would watch online had a pastor that said, 'If ..."
-
-</details>
-
-<details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (5 mentions)</summary>
-
-**[00:32:45](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-32-19)**
-> "...s, man. These pastors. Pastor Hibbs—great friend of Charlie (Charlie Kirk)—also another leader of a Calvary Chapel, just like our boy McCoy. Pastor McCoy—Calvary Chapel churches in California. Well, yeah. Pastor Ja..."
-
-**[00:32:55](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-32-19)**
-> "...arlie (Charlie Kirk)—also another leader of a Calvary Chapel, just like our boy McCoy. Pastor McCoy—Calvary Chapel churches in California. Well, yeah. Pastor Jack Hibbs leads one. Butch Hibbs is also his brother wh..."
-
-**[00:33:02](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-33-02)**
-> "...ornia. Well, yeah. Pastor Jack Hibbs leads one. Butch Hibbs is also his brother who's involved in a Calvary Chapel church in Utah. And later, what's interesting is he's behind Charlie (Charlie Kirk) when he gets out of th..."
-
-**[00:35:31](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-35-00)**
-> "...r are we looking at an operation? That's the question that I have. Yeah, I would—if you are part of Calvary Chapel anywhere—I would just wonder if your pastor just came from the military. And if he—or if he's from ..."
-
-**[00:45:54](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-45-49)**
-> "...e Oaks. I found that out. I guess Rob McCoy—he's actually even more amazing. He's had so many hats. Calvary Chapel outright purchased—for whatever reason—outright purchased the Christian Academy in 2009, I believe ..."
-
-</details>
-
-<details>
-<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
-
-**[00:13:34](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27)**
-> "...e rather impeccable timing. Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel in Thousand Oaks, California. You should also know, by the way—let me introduce this to you right n..."
-
-</details>
-
-<details>
-<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (1 mentions)</summary>
-
-**[00:03:59](/episodes/ep-Qt0VHV-POCg.md#t-00-03-39)**
-> "...nded Turning Point USA Faith (TPUSA Faith) together." "Along with being a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Faith." "Aligned with the Christian right, McCoy ins..."
+**[00:17:10](/episodes/ep-wcD2khO3rOA.md#ent-org-calvary-chapel-t-00-16-42)**
+> "at the Calvary Chapel church."
 
 </details>
 
@@ -347,76 +67,34 @@ _Type: Organizations_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Employs (1)</summary>
-
-- **[Rob McCoy](/entities/person-rob-mccoy.md)**
-  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:03:48](/episodes/ep-7RLtGgkTh9o.md#t-00-03-30): "Rob McCoy being the lead pastor in Thousand Oaks—one of their many churches across the United States"
-
-</details>
-
-<details>
-<summary>Founded By (1)</summary>
-
-- **[Chuck Smith](/entities/person-chuck-smith.md)**
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:29:32](/episodes/ep-yAIb-NuUh_U.md#t-00-29-27): "Chuck Smith is his name—CIA character that was close to him... who exactly started the Calvary Chapel"
-
-</details>
-
-<details>
-<summary>Has Pastor (2)</summary>
-
-- **[Rob McCoy](/entities/person-rob-mccoy.md)**
-  - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:03:00](/episodes/ep-Qt0VHV-POCg.md#t-00-02-59): "Along with being a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Faith."
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:02:20](/episodes/ep-yAIb-NuUh_U.md#t-00-02-06): "Rob McCoy—the pastor who makes my skin crawl—struck up thereafter and maintained a long friendship with Thomas Camino. Rob then decides that Camino should be involved in the Calvary Chapel Church"
-
-- **[Jack Hibbs](/entities/person-jack-hibbs.md)**
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:55](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24): "Jack Hibbs among them, Calvary Chapel pastors"
-
-</details>
-
-<details>
-<summary>Referenced By (4)</summary>
-
-- **[Chuck Smith](/entities/person-chuck-smith.md)** founded this
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:29:32](/episodes/ep-yAIb-NuUh_U.md#t-00-29-27)
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:05:00](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24)
-
-- **[Rob McCoy](/entities/person-rob-mccoy.md)** pastor of this
-  - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:03:00](/episodes/ep-Qt0VHV-POCg.md#t-00-02-59)
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:02:20](/episodes/ep-yAIb-NuUh_U.md#t-00-02-06)
-
-- **[Jack Hibbs](/entities/person-jack-hibbs.md)** pastor of this
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:55](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24)
-
-- **[Rob McCoy](/entities/person-rob-mccoy.md)** works for this
-  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:03:48](/episodes/ep-7RLtGgkTh9o.md#t-00-03-30)
-
-</details>
+_No relationships extracted yet._
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Calvary Chapel (4)</strong></summary>
+<summary><strong class="section-title">Statements about Calvary Chapel (3)</strong></summary>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1)</summary>
+<summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1)</summary>
 
-- [00:09:42](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-04) (Accusation) **Candace Owens**: ["Calvary Chapel has a pattern of establishing former pedophiles and dru..."](/statements/statement-f304e1a6e67f.md)
+- [00:31:20](/episodes/ep-DYD_QHMPwqM.md#t-00-30-54) (Opinion) **Candace Owens**: ["Turning Point USA's shift from free-market capitalism toward faith and..."](/statements/statement-b270be5c6455.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Turning Point Faith](/entities/org-turning-point-faith.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (3)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>
 
-- [00:04:56](/episodes/ep-7RLtGgkTh9o.md#t-00-04-14) (Claim) **Candace Owens**: ["The Calvary Chapel was involved in Britney Spears' conservatorship"](/statements/statement-a6c091beb979.md)
-  - Also about: [Britney Spears](/entities/person-britney-spears.md)
+- [00:23:06](/episodes/ep-xjzb_t5Tk9o.md#t-00-22-52) (Accusation) **Candace Owens**: ["Calvary Chapel is a CIA operation."](/statements/statement-f627a42dcc06.md)
+  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
 
-- [00:11:27](/episodes/ep-7RLtGgkTh9o.md#t-00-10-43) (Claim) **Brett Cooper** (via quoted speech): ["Lou Taylor started her career in a church working alongside her husban..."](/statements/statement-a99a0c1efe32.md)
-  - Also about: [Lou Taylor](/entities/person-lou-taylor.md)
+</details>
 
-- [00:11:45](/episodes/ep-7RLtGgkTh9o.md#t-00-11-28) (Claim) **Brett Cooper** (via quoted speech): ["Jamie Spears gave 10 percent of his conservatorship income to Calvary ..."](/statements/statement-2f38c392731f.md)
-  - Also about: [Jamie Spears](/entities/person-jamie-spears.md), [Lou Taylor](/entities/person-lou-taylor.md)
+<details>
+<summary>Myron Gaines x Candace Owens (1)</summary>
+
+- [00:54:16](/episodes/ep-2T39-oADLj0.md#t-00-53-48) (Accusation) **Candace Owens**: ["Calvary Chapel has repeatedly been accused of hostile takeovers of fai..."](/statements/statement-069dad6c023a.md)
+  - Also about: [Rob McCoy](/entities/person-rob-mccoy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 

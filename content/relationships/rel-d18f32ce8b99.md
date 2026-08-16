@@ -1,0 +1,31 @@
+---
+title: "The Daily Wire critic of Candace Owens"
+description: "Evidence for the relationship: The Daily Wire critic of Candace Owens"
+relationship_id: "rel-d18f32ce8b99"
+subject: "org-daily-wire"
+predicate: "critic of"
+object: "person-candace-owens"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [The Daily Wire](/entities/org-daily-wire) critic of [Candace Owens](/entities/person-candace-owens)
+
+### Evidence (3 mentions)
+
+**[PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk)**
+
+- [00:40:15](/episodes/ep-BKcOm32ZEGk#t-00-40-15): _They have dropped another video...using my face to attack me in a really strange way_
+
+**[BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw)**
+
+- [00:43:45](/episodes/ep-HYn0P-P1wUw#t-00-43-45): _Daily Wire has been casting people for a show that's designed specifically to make fun of me and also Tucker Carlson._
+
+**[DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw)**
+
+- [00:11:07](/episodes/ep-zSKrxIUMNqw#t-00-11-07): _The entire show was supposed to be designed as an attack against me._
+
+### Related
+
+- [The Daily Wire](/entities/org-daily-wire)
+- [Candace Owens](/entities/person-candace-owens)

@@ -1,0 +1,27 @@
+---
+title: "Erika Kirk worked with United States Army"
+description: "Evidence for the relationship: Erika Kirk worked with United States Army"
+relationship_id: "rel-8e3a2eaea870"
+subject: "person-erika-kirk"
+predicate: "worked with"
+object: "org-united-states-army"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Erika Kirk](/entities/person-erika-kirk) worked with [United States Army](/entities/org-united-states-army)
+
+### Evidence (2 mentions)
+
+**[A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g)**
+
+- [00:31:25](/episodes/ep-NIEbqsLAK8g#t-00-31-25): _I was living in China and doing a lot of work with the victims from sex trafficking and then began to phase that into working with the Marine Corps and the Army_
+
+**[OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw)**
+
+- [00:17:16](/episodes/ep-X92MllIHDzw#t-00-17-16): _I was living in China and doing a lot of work with the victims from sex trafficking and then began to phase that into working with the Marine Corps and the army_
+
+### Related
+
+- [Erika Kirk](/entities/person-erika-kirk)
+- [United States Army](/entities/org-united-states-army)

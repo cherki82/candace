@@ -30,6 +30,7 @@ import Share from "./Share"
 import PageFilter from "./PageFilter"
 import Banner from "./Banner"
 import AnchorHighlight from "./AnchorHighlight"
+import YouTubeTimestampLinks from "./YouTubeTimestampLinks"
 
 export {
   ArticleTitle,
@@ -64,4 +65,5 @@ export {
   PageFilter,
   Banner,
   AnchorHighlight,
+  YouTubeTimestampLinks,
 }

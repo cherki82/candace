@@ -1,0 +1,61 @@
+---
+title: "Al-Qaida"
+description: "Al-Qaida (Organizations) - 3 mentions"
+id: "org-al-qaida"
+type: "ORG"
+aliases:
+  - "Al Qaeda"
+  - "al-Qaeda"
+  - "Al-Qa’ida"
+categories:
+  - "terrorist organization"
+  - "militant organization"
+---
+
+_Type: Organizations_
+
+**Also known as:** Al Qaeda, al-Qaeda, Al-Qa’ida
+
+**Categories:** terrorist organization, militant organization
+
+**Entity verification:** verified
+> Official State Department report confirms the canonical transliteration and common aliases.
+Source: [Country Reports on Terrorism 2019 - U.S. Department of State](https://2017-2021.state.gov/reports/country-reports-on-terrorism-2019/)
+
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
+<details open>
+<summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2 mentions)</summary>
+
+**[01:04:07](/episodes/ep-OEAHy3SsIiI.md#ent-org-al-qaida-t-01-03-51)**
+> "he's going to be gone. A bunch of Christians are going to be mass murdered at that time. Obviously, Israel had been working with Al Qaeda."
+
+**[01:04:13](/episodes/ep-OEAHy3SsIiI.md#ent-org-al-qaida-t-01-03-51)**
+> "or a al-Qaeda adjacent group. I think it's Al-Nusrat is the nam..."
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Relationships</strong></summary>
+
+_No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Al-Qaida (1)</strong></summary>
+
+<details>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1)</summary>
+
+- [01:04:07](/episodes/ep-OEAHy3SsIiI.md#t-01-03-51) (Accusation) **Candace Owens**: ["Israel had been working with Al-Qaeda or an Al-Qaeda-adjacent group in..."](/statements/statement-a9ea16785ff5.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Syria](/entities/gpe-syria.md)
+
+</details>
+
+</details>

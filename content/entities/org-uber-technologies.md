@@ -1,0 +1,102 @@
+---
+title: "Uber Technologies"
+description: "Uber Technologies (Organizations) - 13 mentions"
+id: "org-uber-technologies"
+type: "ORG"
+aliases:
+  - "Uber"
+categories:
+  - "technology company"
+  - "rideshare"
+---
+
+_Type: Organizations_
+
+**Also known as:** Uber
+
+**Categories:** technology company, rideshare
+
+**Entity verification:** verified
+> Uber's official company page verifies the canonical company identity referenced through Uber drivers.
+Source: [About Us | Uber](https://www.uber.com/us/en/about/)
+
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
+<details open>
+<summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1 mentions)</summary>
+
+**[00:36:41](/episodes/ep-ti5Fxrvegno.md#t-00-36-41)**
+> "questioned over the Uber ride by Marina Minas"
+
+</details>
+
+<details>
+<summary>An Open Letter To Erika Kirk | Candace Ep 303 (10 mentions)</summary>
+
+**[00:26:33](/episodes/ep-mFuno0TuuQQ.md#t-00-25-59)**
+> "which was an Uber ride"
+
+**[00:24:17](/episodes/ep-mFuno0TuuQQ.md#t-00-23-40)**
+> "...ed over or questioned over an Uber ride."
+
+**[00:26:34](/episodes/ep-mFuno0TuuQQ.md#t-00-26-34)**
+> "...g Point executive got into an Uber one day and they randomly just kind of started ta..."
+
+**[00:26:58](/episodes/ep-mFuno0TuuQQ.md#t-00-26-34)**
+> "...ecutive proceeded to ask this Uber driver,"
+
+**[00:27:04](/episodes/ep-mFuno0TuuQQ.md#t-00-26-34)**
+> "And the Uber driver told the Turning Point executive that his ..."
+
+**[00:27:23](/episodes/ep-mFuno0TuuQQ.md#t-00-27-14)**
+> "what was the employee's name and the Uber driver allegedly said Aubrey (Aubrey Laitsch), Aubrey (Aubrey Laitsch) who?"
+
+**[00:28:27](/episodes/ep-mFuno0TuuQQ.md#t-00-28-27)**
+> "... your boss about something an Uber driver said."
+
+**[00:28:30](/episodes/ep-mFuno0TuuQQ.md#t-00-28-27)**
+> "... your boss about something an Uber driver said,"
+
+**[00:28:38](/episodes/ep-mFuno0TuuQQ.md#t-00-28-27)**
+> "...ion about what you said to an Uber driver maybe?"
+
+**[00:29:00](/episodes/ep-mFuno0TuuQQ.md#t-00-28-27)**
+> "... a CMO asking questions to an Uber driver is bonkers."
+
+</details>
+
+<details>
+<summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (2 mentions)</summary>
+
+**[00:33:19](/episodes/ep-QdM9jLwjwLw.md#t-00-32-55)**
+> "the COO, who's talking to Uber drivers for the tea."
+
+**[00:33:24](/episodes/ep-QdM9jLwjwLw.md#t-00-32-55)**
+> "Well, I heard that this Uber driver said that you may have said something. Bri..."
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Relationships</strong></summary>
+
+_No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Uber Technologies (1)</strong></summary>
+
+<details>
+<summary>An Open Letter To Erika Kirk | Candace Ep 303 (1)</summary>
+
+- [00:26:33](/episodes/ep-mFuno0TuuQQ.md#t-00-25-59) (Claim) **Aubrey Laitsch**: ["Turning Point USA presented an Uber driver's secondhand account naming..."](/statements/statement-b63461df8d24.md)
+  - Also about: [Aubrey Laitsch](/entities/person-aubrey-laitsch.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+</details>

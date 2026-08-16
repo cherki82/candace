@@ -1,0 +1,53 @@
+---
+title: "VLAT"
+description: "VLAT (Works & Media) - 3 mentions"
+id: "work-vlat"
+type: "WORK"
+categories:
+  - "visualization literacy benchmark"
+---
+
+_Type: Works & Media_
+
+**Categories:** visualization literacy benchmark
+
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
+<details open>
+<summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Prof. Judy Fan: Cognitive Tools for Making the Invisible Visible (3 mentions)</summary>
+
+**[00:52:24](/episodes/ep-AF3XJT9YKpM.md#ent-work-vlat-t-00-51-50)**
+> "To get some traction, we started with these two, GGR and VLAT, these being some of the"
+
+**[00:43:23](/episodes/ep-AF3XJT9YKpM.md#ent-work-vlat-t-00-43-10)**
+> "like GGR, VLAT, CALVI, HOLF, HOLF Multi."
+
+**[00:52:34](/episodes/ep-AF3XJT9YKpM.md#ent-work-vlat-t-00-52-34)**
+> "We gave GGR and VLAT as a composite test to a large and diverse sample..."
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Relationships</strong></summary>
+
+_No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about VLAT (1)</strong></summary>
+
+<details>
+<summary>Prof. Judy Fan: Cognitive Tools for Making the Invisible Visible (1)</summary>
+
+- [00:51:56](/episodes/ep-AF3XJT9YKpM.md#t-00-51-50) (Opinion) **Judy Fan**: ["Existing visualization assessments may not be measuring visualization ..."](/statements/statement-05b055310029.md)
+  - Also about: [Data visualization](/entities/concept-data-visualization.md), [GGR](/entities/work-ggr.md)
+
+</details>
+
+</details>

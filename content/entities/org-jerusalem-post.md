@@ -1,11 +1,24 @@
 ---
-title: "Jerusalem Post"
-description: "Jerusalem Post (Organizations) - 6 mentions"
+title: "The Jerusalem Post"
+description: "The Jerusalem Post (Organizations) - 1 mention"
 id: "org-jerusalem-post"
 type: "ORG"
+aliases:
+  - "Jerusalem Post"
+categories:
+  - "news media"
+  - "Israel"
 ---
 
 _Type: Organizations_
+
+**Also known as:** Jerusalem Post
+
+**Categories:** news media, Israel
+
+**Entity verification:** verified
+> The publication's official about page confirms the canonical title The Jerusalem Post.
+Source: [The Jerusalem Post | About Us](https://www.jpost.com/landedpages/aboutus.aspx)
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -13,25 +26,10 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (6 mentions)</summary>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
 
-**[00:20:53](/episodes/ep-K1tFD7FfoCU.md#ent-org-jerusalem-post-t-00-20-31)**
-> "...ation to stage a hostile takeover of the legacy of Charlie Kirk (Charlie Kirk)—so obsessed that the Jerusalem Post completely fictionalized or rather published a completely deranged lie about Erika Kirk (Erika Kirk..."
-
-**[00:20:55](/episodes/ep-K1tFD7FfoCU.md#ent-org-jerusalem-post-t-00-20-31)**
-> "...by the Israeli War Room account over on Twitter, and they were citing the actual reporting from the Jerusalem Post, which was written by journalist Michael Starr (Michael Starr). They published this: "Charlie Kirk ..."
-
-**[00:22:25](/episodes/ep-K1tFD7FfoCU.md#ent-org-jerusalem-post-t-00-21-54)**
-> "...t) wrote this: "This is the first we're hearing of this." "We've reached out to the reporter at the Jerusalem Post for a correction." How do you just say "Erika Kirk (Erika Kirk) is going to accept this award on be..."
-
-**[00:20:53](/episodes/ep-K1tFD7FfoCU.md#ent-org-jerusalem-post-t-00-20-31)**
-> "...ie Kirk)—so obsessed that the Jerusalem Post completely fictionalized or rather published a co..."
-
-**[00:20:55](/episodes/ep-K1tFD7FfoCU.md#ent-org-jerusalem-post-t-00-20-31)**
-> "...the actual reporting from the Jerusalem Post, which was written by journalist Michael Starr (M..."
-
-**[00:22:25](/episodes/ep-K1tFD7FfoCU.md#ent-org-jerusalem-post-t-00-21-54)**
-> "...ed out to the reporter at the Jerusalem Post for a correction.""
+**[00:40:59](/episodes/ep-9naMwS0kMBE.md#ent-org-jerusalem-post-t-00-40-49)**
+> "Jerusalem Post,"
 
 </details>
 
@@ -41,5 +39,18 @@ _Type: Organizations_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about The Jerusalem Post (1)</strong></summary>
+
+<details>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1)</summary>
+
+- [00:40:57](/episodes/ep-9naMwS0kMBE.md#t-00-40-49) (Citation) **Candace Owens**: ["The Jerusalem Post reported that World Jewish Congress president Ronal..."](/statements/statement-e540999a5ed4.md)
+  - Also about: [Ronald S. Lauder](/entities/person-ronald-s-lauder.md), [Donald J. Trump](/entities/person-donald-trump.md), [World Jewish Congress](/entities/org-world-jewish-congress.md)
+
+</details>
 
 </details>

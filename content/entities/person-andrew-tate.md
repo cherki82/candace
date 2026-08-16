@@ -1,15 +1,20 @@
 ---
 title: "Andrew Tate"
-description: "Andrew Tate (People) - 6 mentions"
+description: "Andrew Tate (People) - 5 mentions"
 id: "person-andrew-tate"
 type: "PERSON"
-aliases:
-  - "Tate"
+categories:
+  - "online influencer"
+  - "Romania trafficking case"
 ---
 
 _Type: People_
 
-**Also known as:** Tate
+**Categories:** online influencer, Romania trafficking case
+
+**Entity verification:** verified
+> Associated Press report confirms canonical name and sibling/legal-context identity.
+Source: [Influencer Tate brothers, who face human trafficking charges in Romania, arrive in the US | AP](https://www.ap.org/news-highlights/spotlights/2025/influencer-tate-brothers-who-face-human-trafficking-charges-in-romania-arrive-in-the-us/)
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -17,40 +22,27 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3 mentions)</summary>
+<summary>Myron Gaines x Candace Owens (4 mentions)</summary>
 
-**[00:26:50](/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-tate-t-00-26-27)**
-> "...er when she messaged me about Andrew Tate."
+**[00:01:45](/episodes/ep-2T39-oADLj0.md#ent-person-andrew-tate-t-00-01-29)**
+> "guys like me and Andrew Tate and others"
 
-**[00:26:59](/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-tate-t-00-26-27)**
-> "... someone on her show that was Andrew Tate's—one of the accusers' lawyers."
+**[00:02:28](/episodes/ep-2T39-oADLj0.md#ent-person-andrew-tate-t-00-02-10)**
+> "...reason why I flew out to meet Andrew Tate there was all these conspiracies that I knew him ..."
 
-**[00:27:19](/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-tate-t-00-26-27)**
-> "messaged me about Andrew Tate accusers lawyer"
+**[00:03:06](/episodes/ep-2T39-oADLj0.md#ent-person-andrew-tate-t-00-02-55)**
+> "...ctually happening was you got Andrew Tate and Tristan Tate and you got Myron Gaines because..."
 
-</details>
-
-<details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1 mentions)</summary>
-
-**[00:55:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-55-04)**
-> "She has sent out to the Tate brothers, Dave Smith, Max Blumenthal, Tucker (Tuc..."
+**[00:51:48](/episodes/ep-2T39-oADLj0.md#ent-person-andrew-tate-t-00-51-48)**
+> "... look at what's going on with andrew tate where you know it's like every other month you kn..."
 
 </details>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1 mentions)</summary>
+<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:27:42](/episodes/ep-5autG89PW6w.md#ent-person-andrew-tate-t-00-27-17)**
-> "...anging from Max Blumenthal to Andrew Tate."
-
-</details>
-
-<details>
-<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (1 mentions)</summary>
-
-**[00:36:20](/episodes/ep-K5GjF53bfN4.md#ent-person-andrew-tate-t-00-36-02)**
-> "...unded by Qatar, I'm funded by Andrew Tate, because Andrew Tate is also from the UK, and my ..."
+**[00:49:50](/episodes/ep-ZZGWo6oDscc.md#ent-person-andrew-tate-t-00-49-46)**
+> "...protected Jeffrey Epstein. If Andrew Tate and Tristan Tate were working for the government ..."
 
 </details>
 
@@ -59,18 +51,48 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Met With (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+  - [Myron Gaines x Candace Owens @ 00:02:28](/episodes/ep-2T39-oADLj0.md#t-00-02-10): "that was the reason why I flew out to meet Andrew Tate there was all these conspiracies that I knew him before and all I met Andrew a total of two times before I did his show"
+
+</details>
+
+<details>
+<summary>Sibling Of (1)</summary>
+
+- **[Tristan Tate](/entities/person-tristan-tate.md)**
+  - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:49:30](/episodes/ep-ZZGWo6oDscc.md#t-00-49-04): "I wonder if the Tate brothers were somehow wrapped up in this situation in Romania."
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** met with this
+  - [Myron Gaines x Candace Owens @ 00:02:28](/episodes/ep-2T39-oADLj0.md#t-00-02-10)
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Tate (1)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Tate (2)</strong></summary>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1)</summary>
+<summary>Myron Gaines x Candace Owens (1)</summary>
 
-- [00:55:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-55-04) (Claim) **Alex Jones** (via quoted speech): ["Candace Owens sent out a dead man's switch to the Tate brothers, Dave ..."](/statements/statement-e74fc96d3122.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Dave Smith](/entities/person-dave-smith.md), [Max Blumenthal](/entities/person-max-blumenthal.md)
+- [00:02:28](/episodes/ep-2T39-oADLj0.md#t-00-02-10) (Claim) **Candace Owens**: ["Before appearing on Andrew Tate's show, Candace Owens had met Andrew T..."](/statements/statement-bdc322c3d413.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
+
+- [00:49:42](/episodes/ep-ZZGWo6oDscc.md#t-00-49-04) (Accusation) **Candace Owens**: ["The government protects its own and protected Jeffrey Epstein; if Andr..."](/statements/statement-3b563919285d.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Tristan Tate](/entities/person-tristan-tate.md), [United States](/entities/gpe-united-states.md)
 
 </details>
 

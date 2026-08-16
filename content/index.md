@@ -1,27 +1,27 @@
 ---
 title: "Knowledge Graph"
-description: "An open-source research database documenting Candace Owens' investigations into the Charlie Kirk assassination and related topics."
-socialDescription: "AI-powered research database with transcripts, entity extraction, timeline events, statement tracking & relationship mapping across 50+ episodes."
+description: "A local research database for imported videos, transcripts, and text sources."
+socialDescription: "AI-powered research database with transcripts, entity extraction, timeline events, statement tracking & relationship mapping across 28+ episodes."
 ---
 
-# Candace Owens Show Knowledge Graph
+# Content Knowledge Graph
 
-An open-source research database documenting Candace Owens' investigations into the Charlie Kirk assassination, the Brigitte Macron controversy, and related topics.
+A local research database for imported videos, transcripts, and text sources.
 
-This project uses AI to automatically transcribe episodes, extract entities (people, organizations, places), track statements, build timelines, and map relationships—making it easy to search, verify, and cross-reference information across hundreds of hours of content.
+This project uses AI to transcribe sources, extract entities, track statements, build timelines, and map relationships.
 
 ## Browse
 
-- **[Episodes](/index/episodes)** - 50 indexed episodes
-- **[Entities](/index/entities)** - 1058 people, organizations, and concepts
-- **[Timeline](/index/timeline)** - 548 events in chronological order
-- **[Statements](/index/statements)** - 1416 attributed statements
-- **[Relationships](/index/relationships)** - 953 entity relationships
+- **[Episodes](/index/episodes)** - 28 indexed episodes
+- **[Entities](/index/entities)** - 1275 people, organizations, and concepts
+- **[Timeline](/index/timeline)** - 256 events in chronological order
+- **[Statements](/index/statements)** - 972 attributed statements
+- **[Relationships](/index/relationships)** - 910 entity relationships
 
 ---
 
-> **Note:** This knowledge graph is generated using AI analysis of podcast transcripts.
+> **Note:** This knowledge graph is generated using AI analysis of imported content.
 > Information should be independently verified. Entity identifications and statement
 > extractions may contain errors.
 
-*Last regenerated: 2025-12-30 11:59:47*
+*Last regenerated: 2026-08-16 10:03:11*

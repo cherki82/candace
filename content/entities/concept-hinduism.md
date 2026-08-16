@@ -1,0 +1,71 @@
+---
+title: "Hinduism"
+description: "Hinduism (Concepts) - 4 mentions"
+id: "concept-hinduism"
+type: "CONCEPT"
+aliases:
+  - "Hindu"
+  - "Hindu faith"
+categories:
+  - "religion"
+  - "South Asian religion"
+---
+
+_Type: Concepts_
+
+**Also known as:** Hindu, Hindu faith
+
+**Categories:** religion, South Asian religion
+
+**Entity verification:** verified
+> Canonical concept records the transcript's explicit Hindu faith reference.
+Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](https://www.youtube.com/watch?v=BKcOm32ZEGk)
+
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
+<details open>
+<summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (2 mentions)</summary>
+
+**[00:11:34](/episodes/ep-DYD_QHMPwqM.md#ent-concept-hinduism-t-00-11-34)**
+> "the Hindu god Shiva"
+
+**[00:12:06](/episodes/ep-DYD_QHMPwqM.md#ent-concept-hinduism-t-00-11-55)**
+> "...re written by people that are Hindu. You guys can disagree amongst yourselves."
+
+</details>
+
+<details>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (2 mentions)</summary>
+
+**[00:36:19](/episodes/ep-BKcOm32ZEGk.md#ent-concept-hinduism-t-00-35-55)**
+> "Shiva in the Hindu faith"
+
+**[00:38:33](/episodes/ep-BKcOm32ZEGk.md#ent-concept-hinduism-t-00-38-07)**
+> "is taking place under a Hindu deity."
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Relationships</strong></summary>
+
+_No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Hinduism (1)</strong></summary>
+
+<details>
+<summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1)</summary>
+
+- [00:11:34](/episodes/ep-DYD_QHMPwqM.md#t-00-11-34) (Claim) **Rob Skiba**: ["CERN placed a statue of the Hindu god Shiva outside its entrance."](/statements/statement-bfeb9e46b34f.md)
+  - Also about: [CERN](/entities/org-cern.md), [Shiva](/entities/concept-shiva.md)
+
+</details>
+
+</details>

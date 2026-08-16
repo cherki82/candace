@@ -1,0 +1,40 @@
+---
+title: "The United States is a psychological experiment shaped throu..."
+description: "\"The United States is a psychological experiment shaped through control of media, education, and Hollywood.\" — Candace Owens"
+statement_id: "statement-ad218993eadf"
+speaker: "Candace Owens"
+type: "opinion"
+---
+
+**Status:** ○ Not yet verified
+
+## Statement
+
+> The United States is a psychological experiment shaped through control of media, education, and Hollywood.
+
+## Attribution
+
+**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+
+**Delivery:** Made directly
+
+## About
+
+- [United States](/entities/gpe-united-states.md) (gpe)
+- [Hollywood](/entities/gpe-hollywood.md) (gpe)
+
+## Source
+
+**Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
+**Timestamp:** [01:36:50](/episodes/ep-xjzb_t5Tk9o.md#t-01-36-50) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(5810);return false;">Play</a>
+
+> Yeah, exactly. We've also been under one of the most intense psychological experiments, ... I think. ... think ever America has been a psychological experiment. ... And if we can control the media, ... if we can control the education system, ... you know, get them into school, we can control Hollywood. Yeah,
+
+## Verification
+
+_This statement is marked as not verifiable (opinion/subjective)._
+
+---
+
+**Type:** Opinion | **Verifiable:** No

@@ -1,15 +1,25 @@
 ---
 title: "United States Navy"
-description: "United States Navy (Organizations) - 11 mentions"
+description: "United States Navy (Organizations) - 6 mentions"
 id: "org-united-states-navy"
 type: "ORG"
 aliases:
+  - "U.S. Navy"
   - "Navy"
+categories:
+  - "United States military"
+  - "naval service"
 ---
 
 _Type: Organizations_
 
-**Also known as:** Navy
+**Also known as:** U.S. Navy, Navy
+
+**Categories:** United States military, naval service
+
+**Entity verification:** verified
+> Official Navy page confirms the canonical service name.
+Source: [About the U.S. Navy](https://www.navy.mil/About/)
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -17,70 +27,40 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
+<summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1 mentions)</summary>
 
-**[00:37:55](/episodes/ep-his-JBjlkh8.md#t-00-37-21)**
-> "... literally the nerve center for the United States Armed Forces. It's headquarters for the Army, the Navy, and the Air Force. And recently, because the American government wants the world to no longer take..."
-
-</details>
-
-<details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
-
-**[00:12:19](/episodes/ep-yAIb-NuUh_U.md#t-00-12-06)**
-> "...employ tactics of psychological gaslighting. Maybe he learned this from his father who did this for Navy intelligence, right? But he is going to host Thomas Camino for a podcast episode on the Bryce Eddie..."
-
-**[00:12:19](/episodes/ep-yAIb-NuUh_U.md#t-00-12-06)**
-> "...m his father who did this for Navy intelligence, right?"
+**[00:20:25](/episodes/ep-CEF7gQRWYCE.md#t-00-20-00)**
+> "...ho's actually working for the Navy,"
 
 </details>
 
 <details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (2 mentions)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (2 mentions)</summary>
 
-**[00:34:22](/episodes/ep-MUA9ebCF4Ow.md#t-00-34-22)**
-> "... of these new age Turning Point pastors—Hibbs is from a military family, okay? Butch Sr. was in the Navy. What he did in the Navy is unclear, but I'm interested. I'm just really interested. Also, somethin..."
+**[00:23:31](/episodes/ep-xjzb_t5Tk9o.md#t-00-22-52)**
+> "for the Navy"
 
-**[00:34:24](/episodes/ep-MUA9ebCF4Ow.md#t-00-34-22)**
-> "... Point pastors—Hibbs is from a military family, okay? Butch Sr. was in the Navy. What he did in the Navy is unclear, but I'm interested. I'm just really interested. Also, something that I'm just gonna say..."
-
-</details>
-
-<details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2 mentions)</summary>
-
-**[00:16:48](/episodes/ep-YaZfwLQ7vrI.md#t-00-16-39)**
-> "...ing military families. High-ranking military families have been around for a long time: ties to the Navy, ties to the Air Force. Frank Turek (Frank Turek), Air Force. Rob McCoy—we discussed about his back..."
-
-**[00:22:29](/episodes/ep-YaZfwLQ7vrI.md#t-00-22-07)**
-> "...o storm into a bar and conduct a mass shooting. And a victim of that bar shooting was a 27-year-old Navy veteran who had survived the Las Vegas shooting. So it just makes me wonder: was he a victim, or wa..."
+**[01:22:12](/episodes/ep-xjzb_t5Tk9o.md#t-01-22-12)**
+> "...usa writes, Ward Boston was a Navy judge advocate general who investigated Liberty,"
 
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
+<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (2 mentions)</summary>
 
-**[00:23:08](/episodes/ep-Cq7nj9rxPdo.md#t-00-22-48)**
-> "...Frank Turek if we have that card. And Frank Turek—again, has been honest—former officer in the U.S. Navy, and then he turned to Christian apologetics. He has two sons that are in the military—fly planes—a..."
+**[00:09:29](/episodes/ep-X92MllIHDzw.md#t-00-09-04)**
+> "knowledge and skill set of a Navy SEAL"
 
-**[00:24:07](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32)**
-> "... kind of shocking—his father was also the assistant chief of staff for psychological warfare in the Navy. Psychological warfare—this is the name of the game. And that trajectory is increasingly interestin..."
-
-</details>
-
-<details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1 mentions)</summary>
-
-**[00:28:22](/episodes/ep-5autG89PW6w.md#t-00-27-54)**
-> "...right now. The feds are lying. That is beyond obvious, which is why I was very happy to hear former Navy SEAL Rob O'Neill explain this plainly when he went on Piers Morgan's show the other day. Let's take..."
+**[00:09:30](/episodes/ep-X92MllIHDzw.md#t-00-09-04)**
+> "... knowledge and skill set of a Navy SEAL be copied and, you know, transferred to some..."
 
 </details>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (1 mentions)</summary>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
 
-**[00:48:35](/episodes/ep-ja26iltROkM.md#t-00-48-05)**
-> "...anuela Palacio writes: "Candace (Candace Owens), is Jack Posobiec trustworthy? I find it odd that a Navy intelligence officer—that the people closest to you betray you often for their own interests. It ha..."
+**[00:13:09](/episodes/ep-BKcOm32ZEGk.md#t-00-13-05)**
+> "a former Navy SEAL"
 
 </details>
 
@@ -90,18 +70,34 @@ _Type: Organizations_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Headquartered In (1)</summary>
+<summary>Formerly Employed (1)</summary>
 
-- **[United States Pentagon](/entities/org-united-states-pentagon.md)**
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31): ""It's headquarters for the Army, the Navy, and the Air Force.""
+- **[Bill Wood](/entities/person-bill-wood.md)**
+  - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:13:09](/episodes/ep-BKcOm32ZEGk.md#t-00-13-05): "a former Navy SEAL with high-level clearance,"
 
 </details>
 
 <details>
 <summary>Referenced By (1)</summary>
 
-- **[United States Pentagon](/entities/org-united-states-pentagon.md)** headquarters of this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31)
+- **[Bill Wood](/entities/person-bill-wood.md)** formerly worked for this
+  - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:13:09](/episodes/ep-BKcOm32ZEGk.md#t-00-13-05)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about United States Navy (2)</strong></summary>
+
+<details>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (2)</summary>
+
+- [00:05:37](/episodes/ep-xjzb_t5Tk9o.md#t-00-05-22) (Claim) **Bassem Youssef**: ["USS Liberty crew members were threatened, placed under a gag order, an..."](/statements/statement-1be9d32310a7.md)
+  - Also about: [USS Liberty](/entities/vehicle-uss-liberty.md)
+
+- [01:22:12](/episodes/ep-xjzb_t5Tk9o.md#t-01-22-12) (Accusation) **Ward Boston** (via quoted document): ["The USS Liberty investigation was a cover-up and the attack was delibe..."](/statements/statement-477a982ea9ac.md)
+  - Also about: [Ward Boston](/entities/person-ward-boston.md), [USS Liberty](/entities/vehicle-uss-liberty.md), [Israel](/entities/gpe-israel.md)
 
 </details>
 
