@@ -20,7 +20,7 @@ type: "factual_claim"
 
 ## About
 
-- [Tyler James Robinson](/entities/person-tyler-james-robinson.md) (person)
+- [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 - [Wilde Electric, Inc.](/entities/org-wilde-electric.md) (org)
 
 ## Source

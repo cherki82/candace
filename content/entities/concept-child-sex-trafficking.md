@@ -1,6 +1,6 @@
 ---
 title: "Child sex trafficking"
-description: "Child sex trafficking (Concepts) - 9 mentions"
+description: "Child sex trafficking (Concepts) - 10 mentions"
 id: "concept-child-sex-trafficking"
 type: "CONCEPT"
 categories:
@@ -20,6 +20,14 @@ Source: [U.S. Department of Justice — Human Trafficking](https://www.justice.g
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:18:15](/episodes/ep-1hcjQGgvxUY.md#ent-concept-child-sex-trafficking-t-00-18-13)**
+> "...he number one human human and child sex trafficking location in arizona a place called arizona mills ..."
+
+</details>
 
 <details>
 <summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1 mentions)</summary>

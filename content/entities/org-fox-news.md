@@ -1,6 +1,6 @@
 ---
 title: "Fox News"
-description: "Fox News (Organizations) - 55 mentions"
+description: "Fox News (Organizations) - 56 mentions"
 id: "org-fox-news"
 type: "ORG"
 aliases:
@@ -26,6 +26,14 @@ Source: [Fox News](https://www.foxnews.com/)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:39:13](/episodes/ep-1hcjQGgvxUY.md#ent-org-fox-news-t-00-38-46)**
+> "...ssage with Martha McCollum on Fox News. And you can see just at the end of that, this li..."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
@@ -363,7 +371,15 @@ Source: [Fox News](https://www.foxnews.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Fox News (3)</strong></summary>
+<summary><strong class="section-title">Statements about Fox News (4)</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1)</summary>
+
+- [00:38:40](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03) (Claim) **Candace Owens**: ["The wedding photo was visible behind Mikey McCoy when he appeared from..."](/statements/statement-14a9b17ecbb0.md)
+  - Also about: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Martha MacCallum](/entities/person-martha-maccallum.md)
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>

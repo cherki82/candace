@@ -1,6 +1,6 @@
 ---
 title: "Erika Kirk"
-description: "Erika Kirk (People) - 789 mentions"
+description: "Erika Kirk (People) - 875 mentions"
 id: "person-erika-kirk"
 type: "PERSON"
 aliases:
@@ -29,6 +29,269 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (86 mentions)</summary>
+
+**[00:00:02](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-00-00)**
+> "...eek preparing for our limited Erika Kirk series."
+
+**[00:00:11](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-00-00)**
+> "...eird relationship that Erica (Erika Kirk) had with a then 15-year-old girl named Jillian (..."
+
+**[00:00:26](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-00-00)**
+> "Erica (Erika Kirk) was 25 years old at the time, and they developed..."
+
+**[00:00:50](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-00-44)**
+> "...about her dynamic with Erica (Erika Kirk)."
+
+**[00:01:39](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-01-26)**
+> "...lling things together for our Erika Kirk biographical series,"
+
+**[00:02:06](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-01-26)**
+> "...this relationship that Erica (Erika Kirk) had over,"
+
+**[00:02:22](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-02-10)**
+> "and therefore Erica (Erika Kirk) has just completed her year as Miss Arizona, and..."
+
+**[00:02:38](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-02-36)**
+> "Erica (Erika Kirk) was 25 years old and she was in a relationship w..."
+
+**[00:02:44](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-02-36)**
+> "...living in Michigan and Erica (Erika Kirk) moved out there to be with him."
+
+**[00:02:51](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-02-36)**
+> "Joshua Harrelson and Erica (Erika Kirk) met a 15-year-old girl named Jillian Falcon."
+
+**[00:03:08](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-02-36)**
+> "...cidentally bumped into Erica (Erika Kirk) and Joshua or if they were introduced."
+
+**[00:03:14](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-03-14)**
+> "...were renting a home to Erica (Erika Kirk) in Michigan."
+
+**[00:03:28](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-03-14)**
+> "...netheless they met and Erica (Erika Kirk) struck up what I view as a very odd relationship..."
+
+**[00:03:47](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-03-40)**
+> "...illian (Jillian Falcon) meets Erika Kirk."
+
+**[00:03:53](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-03-40)**
+> "...iend at the time and she sees Erika Kirk and she thinks, oh my gosh,"
+
+**[00:04:05](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-03-40)**
+> "...rl is so beautiful and Erica (Erika Kirk) is extremely kind to her and they start speaking..."
+
+**[00:04:18](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-03-40)**
+> "Erica (Erika Kirk) and her exchange numbers."
+
+**[00:05:01](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-04-23)**
+> "is 15 years old and Erica (Erika Kirk) is 25."
+
+**[00:05:08](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-05-08)**
+> "Erica (Erika Kirk) is also working with sex trafficking charities."
+
+**[00:05:27](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-05-25)**
+> "...con) replied to one of Erica (Erika Kirk)'s tweets by saying,"
+
+**[00:05:48](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-05-25)**
+> "So Erica (Erika Kirk) says,"
+
+**[00:05:56](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-05-25)**
+> "Erica (Erika Kirk) then says sec."
+
+**[00:06:07](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-06-07)**
+> "...her text messages with Erica (Erika Kirk)."
+
+**[00:06:12](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-06-07)**
+> "Erica (Erika Kirk) says,"
+
+**[00:06:22](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-06-07)**
+> "Erica (Erika Kirk) says,"
+
+**[00:06:25](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-06-07)**
+> "Erika (Erika Kirk)?"
+
+**[00:06:30](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-06-07)**
+> "What the hell, Erika (Erika Kirk)?"
+
+**[00:07:01](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-06-51)**
+> "... later she tweeted did Erica (Erika Kirk) just text me hashtag no new friends oh my fuckin..."
+
+**[00:07:48](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-07-16)**
+> "... her conversation with Erica (Erika Kirk)."
+
+**[00:07:55](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-07-16)**
+> "...alcon) says thank you. Erica (Erika Kirk) says you have the most stunning features."
+
+**[00:08:02](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-07-59)**
+> "Erica (Erika Kirk) says your eyes, your lips,"
+
+**[00:08:07](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-07-59)**
+> "...rip to Puerto Rico and Erica (Erika Kirk) was liking and commenting on her Instagram posts..."
+
+**[00:08:34](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-07-59)**
+> "Erica (Erika Kirk) then responds,"
+
+**[00:08:52](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-08-42)**
+> "The Erika (Erika Kirk) explainers, who are going to be like, 'That's no..."
+
+**[00:10:23](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-09-51)**
+> "Come on, where are my Erika (Erika Kirk) explainers in the chat?"
+
+**[00:10:51](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-10-36)**
+> "...arned everything about Erica (Erika Kirk)'s background,"
+
+**[00:10:57](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-10-36)**
+> "... personal senses about Erica (Erika Kirk) might be clouding my judgment. Maybe there was a..."
+
+**[00:13:53](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-13-30)**
+> "What exactly was Erica (Erika Kirk) harnessing her?"
+
+**[00:14:25](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-13-57)**
+> "... tells me that she and Erica (Erika Kirk) actually never hung out in person beyond that fi..."
+
+**[00:14:37](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-14-37)**
+> "...nic relationship where Erica (Erika Kirk) said stuff even like this to her on Instagram."
+
+**[00:15:16](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-14-37)**
+> "Erica (Erika Kirk) did not actually hang out with her beyond that. ..."
+
+**[00:15:25](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-15-23)**
+> "the one where Erica (Erika Kirk) tells her not to drink and to suck her stomach i..."
+
+**[00:15:34](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-15-23)**
+> "...tually in reference to Erica (Erika Kirk) then having sent this 15-year-old to have photos..."
+
+**[00:15:44](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-15-23)**
+> "...otographer a friend of Erica (Erika Kirk)'s Erica (Erika Kirk) she says arranged the entir..."
+
+**[00:16:56](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-16-46)**
+> "So Erica (Erika Kirk) having done this is completely and utterly creep..."
+
+**[00:17:33](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-17-29)**
+> "if Erica (Erika Kirk)'s message is to be believed,"
+
+**[00:17:48](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-17-29)**
+> "Because everything in Erika Kirk's story,"
+
+**[00:18:43](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-18-13)**
+> "Was Erica (Erika Kirk) the real estate agent?"
+
+**[00:19:04](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-18-57)**
+> "Erica (Erika Kirk)'s best friend,"
+
+**[00:19:53](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-19-36)**
+> "... has been playing the role of Erika Kirk's mother,"
+
+**[00:20:25](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-20-09)**
+> "...Stacey Sheridan is not Erica (Erika Kirk)'s real mom."
+
+**[00:20:27](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-20-09)**
+> "Lori (Erika Kirk's mother; surname unverified) is Erica (Erika Kirk)..."
+
+**[00:20:29](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-20-09)**
+> "...y that she was running, Lori (Erika Kirk's mother; surname unverified) was running on a Nati..."
+
+**[00:21:24](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-20-53)**
+> "Why was Erica (Erika Kirk) being so weird about providing a sensible alibi ..."
+
+**[00:21:40](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-21-36)**
+> "..., but it's a fact that Erica (Erika Kirk) chose that date in particular to break her years..."
+
+**[00:21:49](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-21-36)**
+> "Erica (Erika Kirk) had not authored a tweet since 2023,"
+
+**[00:22:42](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-22-02)**
+> "Erica (Erika Kirk) tweets,"
+
+**[00:24:25](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-24-05)**
+> "who was it that Erica (Erika Kirk) knew that was at the Batman Colorado mass shooti..."
+
+**[00:24:37](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-24-05)**
+> "Erica (Erika Kirk) tweeted and said that she knew somebody that was..."
+
+**[00:24:47](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-24-47)**
+> "...w or remember Erika Frantzve (Erika Kirk) from Ohio?"
+
+**[00:25:04](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-24-47)**
+> "...ded middle school with Erica (Erika Kirk) in Ohio?"
+
+**[00:25:07](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-24-47)**
+> "...tended elementary school with Erika Kirk,"
+
+**[00:26:03](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-25-28)**
+> "...any information pertaining to Erika Kirk's whereabouts on September 8th when she broke her T..."
+
+**[00:26:26](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-26-09)**
+> "... live remembers seeing Erica (Erika Kirk),"
+
+**[00:26:45](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-26-09)**
+> "... far, nobody remembers seeing Erika Kirk on the 10th."
+
+**[00:33:09](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-32-42)**
+> "...s suddenly removed and Erica (Erika Kirk) was speaking to Glenn Beck in December,"
+
+**[00:33:27](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-33-24)**
+> "And the issue was Erica (Erika Kirk) was like, this is my first time. And she's on Gl..."
+
+**[00:34:01](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-34-01)**
+> "... online that appeared to show Erika Kirk having moved or removed a photograph of her and C..."
+
+**[00:34:09](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-34-01)**
+> "...esperson told Newsweek Erica (Erika Kirk) moved it to a lower shelf."
+
+**[00:34:54](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-34-45)**
+> "...Gigi (daughter of Charlie and Erika Kirk; full name unverified). They keep dragging this p..."
+
+**[00:35:04](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-34-45)**
+> "...Gigi (daughter of Charlie and Erika Kirk; full name unverified) like Puerto Rican moms tre..."
+
+**[00:35:15](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-35-15)**
+> "...gi wanted to go for a walk so erica couldn't have been at some Fort Huachuca because ..."
+
+**[00:35:38](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-35-15)**
+> "...Gigi (daughter of Charlie and Erika Kirk; full name unverified) alone."
+
+**[00:36:58](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-36-43)**
+> "Erica (Erika Kirk)."
+
+**[00:37:10](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-36-43)**
+> "...Gigi (daughter of Charlie and Erika Kirk; full name unverified), we can now debunk my earl..."
+
+**[00:37:29](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-37-19)**
+> "...harlie's assassination before erica got in there mikey began doing media hits from it"
+
+**[00:38:12](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-38-03)**
+> "So if Erica (Erika Kirk) was really seeing the notes on his desk for the ..."
+
+**[00:38:52](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-38-46)**
+> "Same day that Erica (Erika Kirk) was on that Zoom call telling the employees to b..."
+
+**[00:40:14](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-40-14)**
+> "...lie (Charlie Kirk) and Erica (Erika Kirk)."
+
+**[00:49:41](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-49-30)**
+> "...continue to gaslight us about Erika Kirk are they going to continue to do the thing refer ..."
+
+**[00:50:25](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-50-14)**
+> "You have questions about Erika Kirk's background?"
+
+**[00:56:27](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-56-27)**
+> "...her we're a family that's not erica stuff to turning point usa we're a family now and..."
+
+**[00:57:57](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-57-57)**
+> "...Gigi (daughter of Charlie and Erika Kirk; full name unverified) did it. Poor Gigi (daughte..."
+
+**[00:59:46](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-59-08)**
+> "...Gigi (daughter of Charlie and Erika Kirk; full name unverified) wanted the pictures."
+
+**[00:59:50](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-59-08)**
+> "Gigi (daughter of Charlie and Erika Kirk; full name unverified) needed,"
+
+**[00:59:51](/episodes/ep-1hcjQGgvxUY.md#ent-person-erika-kirk-t-00-59-51)**
+> "...Gigi (daughter of Charlie and Erika Kirk; full name unverified) or Andrew Kolvet. Those ar..."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (39 mentions)</summary>
@@ -2802,6 +3065,14 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
+<summary>Formerly Dated (1)</summary>
+
+- **[Josh Harrellson](/entities/person-josh-harrellson.md)**
+  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:02:38](/episodes/ep-1hcjQGgvxUY.md#t-00-02-36): "Erica (Erika Kirk) was 25 years old and she was in a relationship with a basketball player named Joshua Harrelson."
+
+</details>
+
+<details>
 <summary>Formerly Worked For (1)</summary>
 
 - **[The Corcoran Group](/entities/org-corcoran-group.md)**
@@ -2853,6 +3124,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - **[Glenn Beck](/entities/person-glenn-beck.md)**
   - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:17:14](/episodes/ep-6J6lRZPQ4jk.md#t-00-17-02): "Erika also sat down with Glenn (Glenn Beck) (Glenn Beck) of Blaze TV."
   - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:05:48](/episodes/ep-es7PWdFGoFI.md#t-00-05-30): "We, Erika sat down with Glenn. I actually missed this portion because I didn't get to watch the interview in its entirety."
+  - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:04:14](/episodes/ep-hWTdXHGQ8R4.md#t-00-04-14): "Well, then fast forward to December 12th. And as a part of her Shabbat Shalom PR blitz, she conducted her very first interview from Charlie (Charlie Kirk)'s home office. She gave an interview to Glenn Beck."
 
 - **[The New York Times](/entities/org-new-york-times.md)**
   - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:06:18](/episodes/ep-A39g5oqB_eM.md#t-00-05-46): "On the 18th, this, by the way, strikes me as odd in the retrospect as I was working on these couple of episodes about Erika (Erika Kirk). ... On the 18th, there's eight days after the assassination, she gave an in-person interview with the New York Times at her and Charlie (Charlie Kirk)'s condo."
@@ -2866,7 +3138,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>Met With (6)</summary>
+<summary>Met With (7)</summary>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)**
   - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 01:05:42](/episodes/ep-es7PWdFGoFI.md#t-01-05-19): "Erika communicating with Megan Kelly and me. Megan Kelly was kind of the intermediary."
@@ -2887,6 +3159,9 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 - **[Lee Trotter](/entities/person-lee-trotter.md)**
   - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:13:24](/episodes/ep-ti5Fxrvegno.md#t-00-12-58): "Erika (Erika Kirk) and Andrew Kolvet had an emergency three-way call with Dr. Lee Trotter, the surgeon, trying to figure out how to respond to the public about why the .30-06 didn't pass through Charlie (Charlie Kirk)'s neck."
+
+- **[Jillian Falcon](/entities/person-jillian-falcon.md)**
+  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:02:51](/episodes/ep-1hcjQGgvxUY.md#t-00-02-36): "Joshua Harrelson and Erica (Erika Kirk) met a 15-year-old girl named Jillian Falcon."
 
 </details>
 
@@ -2947,7 +3222,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>Referenced By (36)</summary>
+<summary>Referenced By (38)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
   - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:44:15](/episodes/ep-CEF7gQRWYCE.md#t-00-43-43)
@@ -2988,6 +3263,9 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 - **[Nicole Rothstein](/entities/person-nicole-rothstein.md)** defended this
   - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:52:42](/episodes/ep-w1oqQbR_bYs.md#t-00-52-09)
+
+- **[Josh Harrellson](/entities/person-josh-harrellson.md)** formerly dated this
+  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:02:38](/episodes/ep-1hcjQGgvxUY.md#t-00-02-36)
 
 - **[The Corcoran Group](/entities/org-corcoran-group.md)** formerly employed this
   - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:26:58](/episodes/ep-ti5Fxrvegno.md#t-00-26-55)
@@ -3031,6 +3309,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 - **[Glenn Beck](/entities/person-glenn-beck.md)** interviewed this
   - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:17:14](/episodes/ep-6J6lRZPQ4jk.md#t-00-17-02)
+  - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:04:14](/episodes/ep-hWTdXHGQ8R4.md#t-00-04-14)
 
 - **[The New York Times](/entities/org-new-york-times.md)** interviewed this
   - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:06:18](/episodes/ep-A39g5oqB_eM.md#t-00-05-46)
@@ -3060,6 +3339,9 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - **[Lee Trotter](/entities/person-lee-trotter.md)** met with this
   - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:13:24](/episodes/ep-ti5Fxrvegno.md#t-00-12-58)
 
+- **[Jillian Falcon](/entities/person-jillian-falcon.md)** met with this
+  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:02:51](/episodes/ep-1hcjQGgvxUY.md#t-00-02-36)
+
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)** parent of this
   - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:32:32](/episodes/ep-HYn0P-P1wUw.md#t-00-32-26)
   - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:11:59](/episodes/ep-gG4ZoYUjUc8.md#t-00-11-22)
@@ -3075,7 +3357,24 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Erika Kirk (59)</strong></summary>
+<summary><strong class="section-title">Statements by Erika Kirk (63)</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (4)</summary>
+
+- [00:05:41](/episodes/ep-1hcjQGgvxUY.md#t-00-05-25) [○] (Promise) ["This Valentine's Day, I am going to touch your butt."](/statements/statement-d778417a3ed6.md)
+  - About: [Jillian Falcon](/entities/person-jillian-falcon.md)
+
+- [00:05:56](/episodes/ep-1hcjQGgvxUY.md#t-00-05-25) [○] (Opinion) ["Sex too, but not from you, lol. You always make me laugh. I don't bat for the ot..."](/statements/statement-2010bccd00d0.md)
+  - About: [Jillian Falcon](/entities/person-jillian-falcon.md)
+
+- [00:07:16](/episodes/ep-1hcjQGgvxUY.md#t-00-07-16) [○] (Opinion) ["Happy sweet 16, beautiful girl. Keep strong in faith and know that you're loved,..."](/statements/statement-f361e09977ef.md)
+  - About: [Jillian Falcon](/entities/person-jillian-falcon.md)
+
+- [00:07:55](/episodes/ep-1hcjQGgvxUY.md#t-00-07-16) [○] (Opinion) ["You have the most stunning features. Your eyes, your lips, your skin, you're abs..."](/statements/statement-bf6c0b4d8a0b.md)
+  - About: [Jillian Falcon](/entities/person-jillian-falcon.md)
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (7)</summary>
@@ -3083,22 +3382,22 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [00:05:03](/episodes/ep-hWTdXHGQ8R4.md#t-00-05-03) [○] (Claim) ["Erika Kirk had not been in Charlie Kirk's home office for a very long time."](/statements/statement-cf57498e457c.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:10:46](/episodes/ep-hWTdXHGQ8R4.md#t-00-10-43) [○] (Claim) ["Charlie Kirk got up around 2:45 or 3 a.m. for a snack, and his three-year-old da..."](/statements/statement-0380a4844e20.md)
+- [00:10:46](/episodes/ep-hWTdXHGQ8R4.md#t-00-10-43) [✓] (Claim) ["Charlie Kirk got up around 2:45 or 3 a.m. for a snack, and his three-year-old da..."](/statements/statement-0380a4844e20.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:11:21](/episodes/ep-hWTdXHGQ8R4.md#t-00-10-43) [○] (Claim) ["Erika Kirk told Charlie Kirk to sleep in their daughter's room so he could get a..."](/statements/statement-b8b2bcf8dfa7.md)
+- [00:11:21](/episodes/ep-hWTdXHGQ8R4.md#t-00-10-43) [✓] (Claim) ["Erika Kirk told Charlie Kirk to sleep in their daughter's room so he could get a..."](/statements/statement-b8b2bcf8dfa7.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:11:33](/episodes/ep-hWTdXHGQ8R4.md#t-00-11-25) [○] (Claim) ["On the morning of September 10, Charlie Kirk retrieved his wedding ring and neck..."](/statements/statement-f8cab53083f5.md)
+- [00:11:33](/episodes/ep-hWTdXHGQ8R4.md#t-00-11-25) [✓] (Claim) ["On the morning of September 10, Charlie Kirk retrieved his wedding ring and neck..."](/statements/statement-f8cab53083f5.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:22:45](/episodes/ep-hWTdXHGQ8R4.md#t-00-22-23) [○] (Claim) ["Charlie Kirk was not messaging people the day before saying that he expected to ..."](/statements/statement-ba0c594d9b20.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:22:56](/episodes/ep-hWTdXHGQ8R4.md#t-00-22-23) [○] (Claim) ["I have Charlie Kirk's cell phone."](/statements/statement-5c22586acb74.md)
+- [00:22:56](/episodes/ep-hWTdXHGQ8R4.md#t-00-22-23) [✓] (Claim) ["I have Charlie Kirk's cell phone."](/statements/statement-5c22586acb74.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:23:08](/episodes/ep-hWTdXHGQ8R4.md#t-00-23-05) [○] (Claim) ["The night before Charlie Kirk's tour, Charlie and Erika Kirk followed their usua..."](/statements/statement-6e76f964a81d.md)
+- [00:23:08](/episodes/ep-hWTdXHGQ8R4.md#t-00-23-05) [✓] (Claim) ["The night before Charlie Kirk's tour, Charlie and Erika Kirk followed their usua..."](/statements/statement-6e76f964a81d.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
@@ -3341,10 +3640,63 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Erika Kirk (234)</strong></summary>
+<summary><strong class="section-title">Statements about Erika Kirk (253)</strong></summary>
 
 <details>
-<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (11)</summary>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (16)</summary>
+
+- [00:00:47](/episodes/ep-1hcjQGgvxUY.md#t-00-00-44) (Claim) **Candace Owens**: ["Candace Owens immediately reached out to Jillian Falcon and spoke with..."](/statements/statement-a658084d11f2.md)
+  - Also about: [Jillian Falcon](/entities/person-jillian-falcon.md)
+
+- [00:02:38](/episodes/ep-1hcjQGgvxUY.md#t-00-02-36) (Claim) **Anonymous Source #1 (Ep 1hcjQGgvxUY)**: ["In 2013, Erika Kirk was 25, was dating Josh Harrellson, and moved to M..."](/statements/statement-2be9ff2592e5.md)
+  - Also about: [Josh Harrellson](/entities/person-josh-harrellson.md), [Michigan](/entities/gpe-michigan.md)
+
+- [00:02:48](/episodes/ep-1hcjQGgvxUY.md#t-00-02-36) (Claim) **Anonymous Source #1 (Ep 1hcjQGgvxUY)**: ["On September 15, 2013, Josh Harrellson and Erika Kirk met 15-year-old ..."](/statements/statement-b8d25b60927f.md)
+  - Also about: [Josh Harrellson](/entities/person-josh-harrellson.md), [Jillian Falcon](/entities/person-jillian-falcon.md)
+
+- [00:03:47](/episodes/ep-1hcjQGgvxUY.md#t-00-03-40) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens says Jillian Falcon met Erika Kirk through a rent paymen..."](/statements/statement-2e8f09ba983e.md)
+  - Also about: [Jillian Falcon](/entities/person-jillian-falcon.md)
+
+- [00:05:08](/episodes/ep-1hcjQGgvxUY.md#t-00-05-08) (Citation) **Candace Owens** (via paraphrase): ["Erika Kirk said she became involved with a sex-trafficking charity in ..."](/statements/statement-5e3239bfd10f.md)
+  - Also about: [China](/entities/gpe-china.md)
+
+- [00:13:38](/episodes/ep-1hcjQGgvxUY.md#t-00-13-30) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens reports that Jillian Falcon, now 27, views the relations..."](/statements/statement-c095ad901ced.md)
+  - Also about: [Jillian Falcon](/entities/person-jillian-falcon.md)
+
+- [00:14:25](/episodes/ep-1hcjQGgvxUY.md#t-00-13-57) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens reports that Jillian Falcon and Erika Kirk never met in ..."](/statements/statement-94a9eff8d7fe.md)
+  - Also about: [Jillian Falcon](/entities/person-jillian-falcon.md)
+
+- [00:15:34](/episodes/ep-1hcjQGgvxUY.md#t-00-15-23) (Claim) **Candace Owens**: ["Erika Kirk arranged for 15-year-old Jillian Falcon to have photographs..."](/statements/statement-11bfa4323505.md)
+  - Also about: [Jillian Falcon](/entities/person-jillian-falcon.md)
+
+- [00:16:40](/episodes/ep-1hcjQGgvxUY.md#t-00-16-04) (Accusation) **Candace Owens**: ["Candace Owens calls Erika Kirk's alleged arrangement of a photo shoot ..."](/statements/statement-6483e6b288b8.md)
+  - Also about: [Jillian Falcon](/entities/person-jillian-falcon.md)
+
+- [00:20:25](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09) (Claim) **Candace Owens**: ["Stacey Sheridan is not Erika Kirk's biological mother; Lori Frantzve i..."](/statements/statement-8d0169d15c59.md)
+  - Also about: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+- [00:21:40](/episodes/ep-1hcjQGgvxUY.md#t-00-21-36) (Claim) **Candace Owens**: ["Erika Kirk had not authored a tweet since 2023 and broke that silence ..."](/statements/statement-5f58859cf4b9.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Twitter](/entities/org-twitter.md)
+
+- [00:22:32](/episodes/ep-1hcjQGgvxUY.md#t-00-22-02) (Claim) **Candace Owens**: ["On the day Charlie Kirk was assassinated, Erika Kirk tweeted at 9:45 a..."](/statements/statement-32a5c5f80f7b.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Twitter](/entities/org-twitter.md)
+
+- [00:26:16](/episodes/ep-1hcjQGgvxUY.md#t-00-26-09) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens reports that Turning Point USA employees were told Erika..."](/statements/statement-72b97bc5a616.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+- [00:34:09](/episodes/ep-1hcjQGgvxUY.md#t-00-34-01) (Claim) **Turning Point USA** (via quoted article): ["Erika Kirk moved the wedding photograph to a lower studio shelf when h..."](/statements/statement-cc46782599d2.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:40:18](/episodes/ep-1hcjQGgvxUY.md#t-00-40-14) (Accusation) **Candace Owens**: ["Candace Owens says she still feels very strongly that Charlie Kirk and..."](/statements/statement-bb52b406727b.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:57:57](/episodes/ep-1hcjQGgvxUY.md#t-00-57-57) (Opinion) **Candace Owens**: ["Candace Owens says it is time for authorities to bring Erika Kirk in b..."](/statements/statement-810358959098.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (14)</summary>
 
 - [00:01:35](/episodes/ep-hWTdXHGQ8R4.md#t-00-01-27) (Opinion) **Laura Loomer** (via quoted post): ["It is time for Erika Kirk to sue Candace Owens; she has gone too far."](/statements/statement-e6150fb610c9.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
@@ -3378,6 +3730,14 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 - [00:23:08](/episodes/ep-hWTdXHGQ8R4.md#t-00-23-05) (Claim) **Erika Kirk** (via quoted speech): ["The night before Charlie Kirk's tour, Charlie and Erika Kirk followed ..."](/statements/statement-6e76f964a81d.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:39:58](/episodes/ep-hWTdXHGQ8R4.md#t-00-39-58) (Claim) **Anonymous Source #3 (Ep hWTdXHGQ8R4)** (via read message): ["Erika Kirk was not present during either of the All-American Halftime ..."](/statements/statement-49876748e489.md)
+  - Also about: [The All-American Halftime Show](/entities/event-all-american-halftime-show-2026.md)
+
+- [00:49:32](/episodes/ep-hWTdXHGQ8R4.md#t-00-49-29) (Accusation) **Anonymous Source #5 (Ep hWTdXHGQ8R4)** (via read message): ["Erika Kirk had an inappropriate relationship with a 15-year-old when s..."](/statements/statement-3d37a70fae77.md)
+  - Also about: [Michigan](/entities/gpe-michigan.md)
+
+- [00:49:56](/episodes/ep-hWTdXHGQ8R4.md#t-00-49-56) (Promise) **Candace Owens**: ["We will produce an Erika Kirk background series that separates fact fr..."](/statements/statement-f1767614f8c5.md)
 
 </details>
 

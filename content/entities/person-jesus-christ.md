@@ -1,6 +1,6 @@
 ---
 title: "Jesus Christ"
-description: "Jesus Christ (People) - 95 mentions"
+description: "Jesus Christ (People) - 97 mentions"
 id: "person-jesus-christ"
 type: "PERSON"
 aliases:
@@ -24,6 +24,17 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>
+
+**[00:55:29](/episodes/ep-1hcjQGgvxUY.md#ent-person-jesus-christ-t-00-54-45)**
+> "can't just go Max Christ is King."
+
+**[00:58:52](/episodes/ep-1hcjQGgvxUY.md#ent-person-jesus-christ-t-00-58-24)**
+> "U.S. flagpole rights in Jesus's name. I command the truth to come forth now."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (3 mentions)</summary>

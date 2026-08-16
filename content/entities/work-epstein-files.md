@@ -1,6 +1,6 @@
 ---
 title: "Epstein Files"
-description: "Epstein Files (Works & Media) - 18 mentions"
+description: "Epstein Files (Works & Media) - 23 mentions"
 id: "work-epstein-files"
 type: "WORK"
 aliases:
@@ -24,6 +24,26 @@ Source: [Epstein Library | U.S. Department of Justice](https://www.justice.gov/e
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (5 mentions)</summary>
+
+**[00:40:24](/episodes/ep-1hcjQGgvxUY.md#ent-work-epstein-files-t-00-40-14)**
+> "...slighting us, at least if the Epstein Files situation."
+
+**[00:40:44](/episodes/ep-1hcjQGgvxUY.md#ent-work-epstein-files-t-00-40-14)**
+> "Regarding the Epstein files,"
+
+**[00:41:20](/episodes/ep-1hcjQGgvxUY.md#ent-work-epstein-files-t-00-40-58)**
+> "...ation put us through with the Epstein files,"
+
+**[00:41:41](/episodes/ep-1hcjQGgvxUY.md#ent-work-epstein-files-t-00-41-41)**
+> "...n influencers part one of the Epstein files."
+
+**[00:44:05](/episodes/ep-1hcjQGgvxUY.md#ent-work-epstein-files-t-00-43-52)**
+> "...ame appears more times in the Epstein files than God's name appears in the book about God."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (4 mentions)</summary>
@@ -119,7 +139,24 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Epstein Files (7)</strong></summary>
+<summary><strong class="section-title">Statements about Epstein Files (11)</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (4)</summary>
+
+- [00:42:58](/episodes/ep-1hcjQGgvxUY.md#t-00-42-25) (Claim) **Jared Moskowitz**: ["The administration did not voluntarily release the Epstein files; Cong..."](/statements/statement-1eb05d7db07d.md)
+  - Also about: [White House](/entities/org-white-house.md), [United States Congress](/entities/org-united-states-congress.md)
+
+- [00:44:00](/episodes/ep-1hcjQGgvxUY.md#t-00-43-52) (Accusation) **Jared Moskowitz**: ["Jared Moskowitz says Kash Patel's under-oath claim that Donald Trump's..."](/statements/statement-960b5ebf630c.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:44:57](/episodes/ep-1hcjQGgvxUY.md#t-00-44-37) (Citation) **Jared Moskowitz**: ["Documents in the Epstein files dispute Donald Trump's claim that he ex..."](/statements/statement-049d7908ab42.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+- [00:46:47](/episodes/ep-1hcjQGgvxUY.md#t-00-46-41) (Claim) **Pam Bondi**: ["The Trump administration released more than three million pages of doc..."](/statements/statement-1bed1a88852c.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [White House](/entities/org-white-house.md)
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1)</summary>

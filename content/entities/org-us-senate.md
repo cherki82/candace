@@ -1,6 +1,6 @@
 ---
 title: "United States Senate"
-description: "United States Senate (Organizations) - 2 mentions"
+description: "United States Senate (Organizations) - 4 mentions"
 id: "org-us-senate"
 type: "ORG"
 aliases:
@@ -17,6 +17,17 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>
+
+**[00:43:04](/episodes/ep-1hcjQGgvxUY.md#ent-org-us-senate-t-00-42-25)**
+> "...use except one and the entire Senate."
+
+**[00:43:13](/episodes/ep-1hcjQGgvxUY.md#ent-org-us-senate-t-00-43-07)**
+> "... but one member and the whole Senate forced the administration to release the files."
+
+</details>
 
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2 mentions)</summary>

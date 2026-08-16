@@ -11,7 +11,11 @@ object: "person-candace-owens"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY)**
+
+- [00:33:01](/episodes/ep-1hcjQGgvxUY#t-00-33-01): _moving on after yesterday's episode regarding photogate, turning point issued a statement about how the wedding photo,_
 
 **[They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw)**
 

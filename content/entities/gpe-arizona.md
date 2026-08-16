@@ -1,6 +1,6 @@
 ---
 title: "Arizona"
-description: "Arizona (Places) - 107 mentions"
+description: "Arizona (Places) - 115 mentions"
 id: "gpe-arizona"
 type: "GPE"
 aliases:
@@ -23,6 +23,35 @@ Source: [State of Arizona official website](https://az.gov/)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (8 mentions)</summary>
+
+**[00:18:15](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-arizona-t-00-18-13)**
+> "...d sex trafficking location in arizona a place called arizona mills if you're in arizona..."
+
+**[00:22:02](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-arizona-t-00-22-02)**
+> "...on September 8th at 1049 a.m. Arizona time she decides to break that silence with this ..."
+
+**[00:22:32](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-arizona-t-00-22-02)**
+> "... is assassinated at 9.45 a.m. Arizona time."
+
+**[00:24:55](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-arizona-t-00-24-47)**
+> "...s in her high school years in Arizona."
+
+**[00:02:22](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-arizona-t-00-02-10)**
+> "...st completed her year as Miss Arizona, and she's 25 years old at the time, Erica (Erika..."
+
+**[00:03:01](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-arizona-t-00-02-36)**
+> "...ter she tweeted just met Miss Arizona and Josh Harrelson heart eyes emoji."
+
+**[00:18:57](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-arizona-t-00-18-13)**
+> "...miliar with the reputation of Arizona Mills."
+
+**[00:19:00](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-arizona-t-00-18-13)**
+> "...miliar with the reputation of Arizona Mills."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>

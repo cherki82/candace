@@ -20,7 +20,7 @@ type: "opinion"
 
 ## About
 
-- [Tyler James Robinson](/entities/person-tyler-james-robinson.md) (person)
+- [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Appearances (2)

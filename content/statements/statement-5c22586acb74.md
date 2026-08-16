@@ -4,9 +4,10 @@ description: "\"I have Charlie Kirk's cell phone.\" — Erika Kirk"
 statement_id: "statement-5c22586acb74"
 speaker: "Erika Kirk"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Transcript context and a public transcript of the Glenn Beck clip directly record Erika Kirk saying she had Charlie Kirk's cell phone. As a first-person claim of present possession, this is supported by the primary speaker, but no independent chain-of-custody record was found, so confidence is medium.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Candace Owens Was Right All Along – Erika Kirk's Cell Phone Lie Collapses LIVE](https://www.listennotes.com/podcasts/liberty-lockdown/candace-owens-was-right-all-UG3dOlyR0BH/)
+
+*Verified: 2026-08-16T10:43:42.702006*
 
 ---
 

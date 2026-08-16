@@ -1,6 +1,6 @@
 ---
 title: "Turning Point USA"
-description: "Turning Point USA (Organizations) - 1167 mentions"
+description: "Turning Point USA (Organizations) - 1177 mentions"
 id: "org-turning-point-usa"
 type: "ORG"
 aliases:
@@ -28,6 +28,41 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (10 mentions)</summary>
+
+**[00:17:53](/episodes/ep-1hcjQGgvxUY.md#ent-org-turning-point-usa-t-00-17-29)**
+> "...e I think I've mentioned this Turning Point USA's headquarters,"
+
+**[00:19:49](/episodes/ep-1hcjQGgvxUY.md#ent-org-turning-point-usa-t-00-19-36)**
+> "Turning Point USA is a charity."
+
+**[00:26:16](/episodes/ep-1hcjQGgvxUY.md#ent-org-turning-point-usa-t-00-26-09)**
+> "Turning point employees were told that she got the news when sh..."
+
+**[00:33:01](/episodes/ep-1hcjQGgvxUY.md#ent-org-turning-point-usa-t-00-32-42)**
+> "... episode regarding photogate, turning point issued a statement about how the wedding photo,"
+
+**[00:34:09](/episodes/ep-1hcjQGgvxUY.md#ent-org-turning-point-usa-t-00-34-01)**
+> "while Turning Point USA spokesperson told Newsweek Erica (Erika Kirk) mov..."
+
+**[00:36:31](/episodes/ep-1hcjQGgvxUY.md#ent-org-turning-point-usa-t-00-35-58)**
+> "I want Turning Point USA to for once in their lives do the right thing and..."
+
+**[00:50:10](/episodes/ep-1hcjQGgvxUY.md#ent-org-turning-point-usa-t-00-49-30)**
+> "...are you destroy the empire of Turning Point USA?"
+
+**[00:50:37](/episodes/ep-1hcjQGgvxUY.md#ent-org-turning-point-usa-t-00-50-14)**
+> "Anyway, speaking of Turning Point USA,"
+
+**[00:50:52](/episodes/ep-1hcjQGgvxUY.md#ent-org-turning-point-usa-t-00-50-52)**
+> "...m people that were fired from Turning Point USA and demanded that they decide they pick me."
+
+**[00:56:27](/episodes/ep-1hcjQGgvxUY.md#ent-org-turning-point-usa-t-00-56-27)**
+> "...ily that's not erica stuff to turning point usa we're a family now and they can just"
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (5 mentions)</summary>
@@ -3952,6 +3987,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
   - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#t-00-21-28): "Even Turning Point USA, they're just like, we've accepted, obviously there are holes in this narrative"
+  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:33:01](/episodes/ep-1hcjQGgvxUY.md#t-00-32-42): "moving on after yesterday's episode regarding photogate, turning point issued a statement about how the wedding photo,"
 
 - **[Tim Dillon](/entities/person-tim-dillon.md)**
   - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:04:48](/episodes/ep-OEAHy3SsIiI.md#t-00-04-13): "This turning point kind of abomination that the right wing of this country has turned into like a bad reality show."
@@ -4503,7 +4539,15 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Turning Point USA (11)</strong></summary>
+<summary><strong class="section-title">Statements by Turning Point USA (12)</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1)</summary>
+
+- [00:34:09](/episodes/ep-1hcjQGgvxUY.md#t-00-34-01) [○] (Claim) ["Erika Kirk moved the wedding photograph to a lower studio shelf when her daughte..."](/statements/statement-cc46782599d2.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (8)</summary>
@@ -4561,16 +4605,39 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point USA (306)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point USA (312)</strong></summary>
 
 <details>
-<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (2)</summary>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (5)</summary>
+
+- [00:18:13](/episodes/ep-1hcjQGgvxUY.md#t-00-18-13) (Claim) **Candace Owens**: ["Turning Point USA headquarters is almost directly across the street fr..."](/statements/statement-222bc2b6d8aa.md)
+  - Also about: [Arizona Mills](/entities/org-arizona-mills.md)
+
+- [00:18:45](/episodes/ep-1hcjQGgvxUY.md#t-00-18-13) (Claim) **Candace Owens**: ["Tyler Bowyer handpicked the location of Turning Point USA's headquarte..."](/statements/statement-e762224537b2.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+- [00:26:16](/episodes/ep-1hcjQGgvxUY.md#t-00-26-09) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens reports that Turning Point USA employees were told Erika..."](/statements/statement-72b97bc5a616.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+- [00:34:09](/episodes/ep-1hcjQGgvxUY.md#t-00-34-01) (Claim) **Turning Point USA** (via quoted article): ["Erika Kirk moved the wedding photograph to a lower studio shelf when h..."](/statements/statement-cc46782599d2.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:50:38](/episodes/ep-1hcjQGgvxUY.md#t-00-50-14) (Accusation) **Candace Owens**: ["Candace Owens says Alex Clark demanded that Seth Dillon call Owens's s..."](/statements/statement-a831f72ad994.md)
+  - Also about: [Alex Clark](/entities/person-alex-clark.md), [Seth Dillon](/entities/person-seth-dillon.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (3)</summary>
 
 - [00:17:40](/episodes/ep-hWTdXHGQ8R4.md#t-00-17-40) (Claim) **Jesse Watters** (via quoted speech): ["Erika Kirk stayed in Phoenix to care for her mother during a medical i..."](/statements/statement-1c2d1232fdec.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Colorado State University](/entities/org-colorado-state-university.md)
 
 - [00:20:30](/episodes/ep-hWTdXHGQ8R4.md#t-00-20-30) (Accusation) **Candace Owens**: ["Turning Point USA and Erika Kirk have not honestly portrayed Charlie a..."](/statements/statement-7e69d590b952.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:42:03](/episodes/ep-hWTdXHGQ8R4.md#t-00-41-22) (Claim) **Anonymous Source #3 (Ep hWTdXHGQ8R4)** (via read message): ["Turning Point USA covered participants' hotel rooms but assigned rando..."](/statements/statement-0d62c39dde8e.md)
+  - Also about: [The All-American Halftime Show](/entities/event-all-american-halftime-show-2026.md), [Kid Rock](/entities/person-kid-rock.md), [Non-disclosure agreement](/entities/concept-nondisclosure-agreement.md)
 
 </details>
 

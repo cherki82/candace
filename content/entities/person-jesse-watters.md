@@ -162,7 +162,7 @@ Source: [Fox News: Jesse Watters](https://www.foxnews.com/person/w/jesse-watters
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1)</summary>
 
-- [00:17:40](/episodes/ep-hWTdXHGQ8R4.md#t-00-17-40) [○] (Claim) ["Erika Kirk stayed in Phoenix to care for her mother during a medical issue and p..."](/statements/statement-1c2d1232fdec.md)
+- [00:17:40](/episodes/ep-hWTdXHGQ8R4.md#t-00-17-40) [◐] (Claim) ["Erika Kirk stayed in Phoenix to care for her mother during a medical issue and p..."](/statements/statement-1c2d1232fdec.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>

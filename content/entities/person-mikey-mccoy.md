@@ -1,6 +1,6 @@
 ---
 title: "Mikey McCoy"
-description: "Mikey McCoy (People) - 194 mentions"
+description: "Mikey McCoy (People) - 207 mentions"
 id: "person-mikey-mccoy"
 type: "PERSON"
 aliases:
@@ -18,6 +18,50 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (13 mentions)</summary>
+
+**[00:37:29](/episodes/ep-1hcjQGgvxUY.md#ent-person-mikey-mccoy-t-00-37-19)**
+> "...ion before erica got in there mikey began doing media hits from it"
+
+**[00:38:00](/episodes/ep-1hcjQGgvxUY.md#ent-person-mikey-mccoy-t-00-37-19)**
+> "...of our mommy sleuths did find Mikey McCoy, the amazing,"
+
+**[00:38:03](/episodes/ep-1hcjQGgvxUY.md#ent-person-mikey-mccoy-t-00-38-03)**
+> "the marvelous Mikey (Mikey McCoy) on November 8th, giving an interview to Real Ame..."
+
+**[00:38:30](/episodes/ep-1hcjQGgvxUY.md#ent-person-mikey-mccoy-t-00-38-03)**
+> "...ey were hard launching Mikey (Mikey McCoy)."
+
+**[00:38:32](/episodes/ep-1hcjQGgvxUY.md#ent-person-mikey-mccoy-t-00-38-03)**
+> "I told you that Mikey (Mikey McCoy) was like slated to take over for Charlie (Charli..."
+
+**[00:39:13](/episodes/ep-1hcjQGgvxUY.md#ent-person-mikey-mccoy-t-00-38-46)**
+> "Mikey (Mikey McCoy) the amazing shared a similar message with Martha..."
+
+**[00:39:28](/episodes/ep-1hcjQGgvxUY.md#ent-person-mikey-mccoy-t-00-39-28)**
+> "mike he got ahead of himself mikey the amazing mike mikey the marvels got a little a..."
+
+**[00:39:55](/episodes/ep-1hcjQGgvxUY.md#ent-person-mikey-mccoy-t-00-39-28)**
+> "Mikey (Mikey McCoy),"
+
+**[00:40:03](/episodes/ep-1hcjQGgvxUY.md#ent-person-mikey-mccoy-t-00-39-28)**
+> "...say anything bad about Mikey (Mikey McCoy),"
+
+**[00:40:07](/episodes/ep-1hcjQGgvxUY.md#ent-person-mikey-mccoy-t-00-39-28)**
+> "Mikey (Mikey McCoy), the wonderful,"
+
+**[00:40:08](/episodes/ep-1hcjQGgvxUY.md#ent-person-mikey-mccoy-t-00-39-28)**
+> "Mikey (Mikey McCoy),"
+
+**[00:40:09](/episodes/ep-1hcjQGgvxUY.md#ent-person-mikey-mccoy-t-00-39-28)**
+> "I stan, I stan the amazing Mikey McCoy."
+
+**[00:48:03](/episodes/ep-1hcjQGgvxUY.md#ent-person-mikey-mccoy-t-00-48-03)**
+> "...y amazing. It's as amazing as Mikey McCoy, right?"
+
+</details>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
@@ -754,6 +798,14 @@ _Type: People_
 </details>
 
 <details>
+<summary>Interviewed By (1)</summary>
+
+- **[Real America's Voice](/entities/org-real-americas-voice.md)**
+  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:38:03](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03): "the marvelous Mikey (Mikey McCoy) on November 8th, giving an interview to Real America's Voice."
+
+</details>
+
+<details>
 <summary>Met With (1)</summary>
 
 - **[Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)**
@@ -775,7 +827,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (7)</summary>
 
 - **[Blake Neff](/entities/person-blake-neff.md)** appeared with this
   - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:22:57](/episodes/ep-es7PWdFGoFI.md#t-00-22-39)
@@ -790,6 +842,9 @@ _Type: People_
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** has chief of staff this
   - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:02:11](/episodes/ep-c5BcKF91iec.md#t-00-01-39)
   - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:03:01](/episodes/ep-Qfwr08Ebczo.md#t-00-02-50)
+
+- **[Real America's Voice](/entities/org-real-americas-voice.md)** interviewed this
+  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:38:03](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03)
 
 - **[Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)** met with this
   - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:30:08](/episodes/ep-SKGUzGHymcI.md#t-00-29-52)
@@ -816,7 +871,21 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mikey McCoy (29)</strong></summary>
+<summary><strong class="section-title">Statements about Mikey McCoy (32)</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (3)</summary>
+
+- [00:38:03](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03) (Claim) **Candace Owens**: ["The wedding photo was absent from Charlie Kirk's home studio during Mi..."](/statements/statement-466c43c50dc3.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Real America's Voice](/entities/org-real-americas-voice.md)
+
+- [00:38:40](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03) (Claim) **Candace Owens**: ["The wedding photo was visible behind Mikey McCoy when he appeared from..."](/statements/statement-14a9b17ecbb0.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Martha MacCallum](/entities/person-martha-maccallum.md), [Fox News](/entities/org-fox-news.md)
+
+- [00:39:28](/episodes/ep-1hcjQGgvxUY.md#t-00-39-28) (Accusation) **Candace Owens**: ["Candace Owens says Mikey McCoy probably moved Charlie Kirk's wedding p..."](/statements/statement-68502daf415a.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (10)</summary>

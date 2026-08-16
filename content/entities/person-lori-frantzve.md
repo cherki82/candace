@@ -1,6 +1,6 @@
 ---
 title: "Lori Frantzve"
-description: "Lori Frantzve (People) - 22 mentions"
+description: "Lori Frantzve (People) - 24 mentions"
 id: "person-lori-frantzve"
 type: "PERSON"
 aliases:
@@ -24,6 +24,17 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>
+
+**[00:20:27](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09)**
+> "Lori (Erika Kirk's mother; surname unverified) is Eric..."
+
+**[00:20:29](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09)**
+> "...company that she was running, Lori (Erika Kirk's mother; surname unverified) was run..."
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (1 mentions)</summary>
@@ -159,6 +170,14 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 <details>
+<summary>Operates (1)</summary>
+
+- **[Desert Spirit Tek, LLC](/entities/org-desert-spirit-tek.md)**
+  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:29](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09): "this desert spirit tech company that she was running, Lori (Erika Kirk's mother; surname unverified) was running"
+
+</details>
+
+<details>
 <summary>Owns (1)</summary>
 
 - **[Desert Spirit Tek, LLC](/entities/org-desert-spirit-tek.md)**
@@ -188,7 +207,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** child of this
   - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:32:32](/episodes/ep-HYn0P-P1wUw.md#t-00-32-26)
@@ -203,6 +222,9 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 - **[GTEC Industries](/entities/org-gtec-industries.md)** has CEO this
   - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:32:49](/episodes/ep-HYn0P-P1wUw.md#t-00-32-26)
 
+- **[Desert Spirit Tek, LLC](/entities/org-desert-spirit-tek.md)** operated by this
+  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:29](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09)
+
 - **[Desert Spirit Tek, LLC](/entities/org-desert-spirit-tek.md)** owned by this
   - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:15:30](/episodes/ep-gG4ZoYUjUc8.md#t-00-14-47)
 
@@ -211,7 +233,21 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lori Frantzve (25)</strong></summary>
+<summary><strong class="section-title">Statements about Lori Frantzve (28)</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (3)</summary>
+
+- [00:20:25](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09) (Claim) **Candace Owens**: ["Stacey Sheridan is not Erika Kirk's biological mother; Lori Frantzve i..."](/statements/statement-8d0169d15c59.md)
+  - Also about: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:20:29](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09) (Claim) **Candace Owens**: ["Candace Owens says someone visited Desert Spirit Tek's listed address ..."](/statements/statement-1aa9c0c7381b.md)
+  - Also about: [Desert Spirit Tek, LLC](/entities/org-desert-spirit-tek.md)
+
+- [00:26:16](/episodes/ep-1hcjQGgvxUY.md#t-00-26-09) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens reports that Turning Point USA employees were told Erika..."](/statements/statement-72b97bc5a616.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (3)</summary>

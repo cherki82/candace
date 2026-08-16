@@ -1,6 +1,6 @@
 ---
 title: "Russia"
-description: "Russia (Places) - 30 mentions"
+description: "Russia (Places) - 31 mentions"
 id: "gpe-russia"
 type: "GPE"
 aliases:
@@ -15,6 +15,14 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:43:36](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-russia-t-00-43-07)**
+> "Russia,"
+
+</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (4 mentions)</summary>

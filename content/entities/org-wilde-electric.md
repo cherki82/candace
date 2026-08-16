@@ -42,7 +42,7 @@ Source: [Santa Clara Sun business directory](https://digitallibrary.utah.gov/aw-
 <details>
 <summary>Employs (1)</summary>
 
-- **[Tyler James Robinson](/entities/person-tyler-james-robinson.md)**
+- **[Tyler James Robinson](/entities/person-tyler-robinson.md)**
   - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:13:52](/episodes/ep-HYn0P-P1wUw.md#t-00-13-13): "Tyler (Tyler Robinson) was working at Wilde Electric, by the way, in Santa Clara, Utah."
 
 </details>
@@ -50,7 +50,7 @@ Source: [Santa Clara Sun business directory](https://digitallibrary.utah.gov/aw-
 <details>
 <summary>Referenced By (1)</summary>
 
-- **[Tyler James Robinson](/entities/person-tyler-james-robinson.md)** works for this
+- **[Tyler James Robinson](/entities/person-tyler-robinson.md)** works for this
   - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:13:52](/episodes/ep-HYn0P-P1wUw.md#t-00-13-13)
 
 </details>
@@ -64,7 +64,7 @@ Source: [Santa Clara Sun business directory](https://digitallibrary.utah.gov/aw-
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1)</summary>
 
 - [00:13:07](/episodes/ep-HYn0P-P1wUw.md#t-00-12-29) (Claim) **Candace Owens**: ["Tyler Robinson called out of work on September 10 to help his grandmot..."](/statements/statement-728f661d2782.md)
-  - Also about: [Tyler James Robinson](/entities/person-tyler-james-robinson.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </details>
 

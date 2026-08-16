@@ -1,6 +1,6 @@
 # Entity Disambiguation Report
 
-Generated: 2026-08-16 10:20:21
+Generated: 2026-08-16 11:28:05
 
 **6 ambiguous mentions** could not be automatically resolved.
 
@@ -18,7 +18,7 @@ These mentions matched multiple entities and the surrounding context was insuffi
 
 ## `Macron` (1 occurrences)
 
-**Could be:** Emmanuel Macron, Brigitte Macron
+**Could be:** Brigitte Macron, Emmanuel Macron
 
 | Episode | Location | Context |
 |---------|----------|--------|

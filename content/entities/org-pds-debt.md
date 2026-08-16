@@ -1,6 +1,6 @@
 ---
 title: "PDS Debt"
-description: "PDS Debt (Organizations) - 34 mentions"
+description: "PDS Debt (Organizations) - 38 mentions"
 id: "org-pds-debt"
 type: "ORG"
 aliases:
@@ -24,6 +24,23 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (4 mentions)</summary>
+
+**[00:28:05](/episodes/ep-1hcjQGgvxUY.md#ent-org-pds-debt-t-00-27-37)**
+> "Also remind you guys about PDS debt because whether you're struggling with credit car..."
+
+**[00:28:10](/episodes/ep-1hcjQGgvxUY.md#ent-org-pds-debt-t-00-27-37)**
+> "PDS debt has custom options to help you get out of debt."
+
+**[00:28:26](/episodes/ep-1hcjQGgvxUY.md#ent-org-pds-debt-t-00-28-21)**
+> "PDS debt is A plus rated by the Better Business Bureau,"
+
+**[00:28:34](/episodes/ep-1hcjQGgvxUY.md#ent-org-pds-debt-t-00-28-21)**
+> "PDS has helped hundreds of thousands of people get ou..."
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (4 mentions)</summary>

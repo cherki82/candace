@@ -1,6 +1,6 @@
 ---
 title: "China"
-description: "China (Places) - 26 mentions"
+description: "China (Places) - 27 mentions"
 id: "gpe-china"
 type: "GPE"
 categories:
@@ -20,6 +20,14 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:05:12](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-china-t-00-05-08)**
+> "...x trafficking charity over in China."
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1 mentions)</summary>
@@ -144,7 +152,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about China (6)</strong></summary>
+<summary><strong class="section-title">Statements about China (7)</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1)</summary>
+
+- [00:05:08](/episodes/ep-1hcjQGgvxUY.md#t-00-05-08) (Citation) **Candace Owens** (via paraphrase): ["Erika Kirk said she became involved with a sex-trafficking charity in ..."](/statements/statement-5e3239bfd10f.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (3)</summary>

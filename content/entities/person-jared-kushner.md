@@ -1,6 +1,6 @@
 ---
 title: "Jared Kushner"
-description: "Jared Kushner (People) - 12 mentions"
+description: "Jared Kushner (People) - 16 mentions"
 id: "person-jared-kushner"
 type: "PERSON"
 aliases:
@@ -24,6 +24,23 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (4 mentions)</summary>
+
+**[00:45:50](/episodes/ep-1hcjQGgvxUY.md#ent-person-jared-kushner-t-00-45-46)**
+> "Howard Lutnick is all over the world with Jared Kushner."
+
+**[00:41:12](/episodes/ep-1hcjQGgvxUY.md#ent-person-jared-kushner-t-00-45-46)**
+> "...is Democratic Representative, Jared Moskowitz, did a really good job recapping"
+
+**[00:41:39](/episodes/ep-1hcjQGgvxUY.md#ent-person-jared-kushner-t-00-45-46)**
+> "Jared Moskowitz."
+
+**[00:45:13](/episodes/ep-1hcjQGgvxUY.md#ent-person-jared-kushner-t-00-45-46)**
+> "...t I'd like to see flip to the Jared Moskowitz section of the binder."
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
@@ -81,7 +98,21 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Worked With (1)</summary>
+
+- **[Howard Lutnick](/entities/person-howard-lutnick.md)**
+  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:45:50](/episodes/ep-1hcjQGgvxUY.md#t-00-45-46): "Howard Lutnick is all over the world with Jared Kushner."
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Howard Lutnick](/entities/person-howard-lutnick.md)** worked with this
+  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:45:50](/episodes/ep-1hcjQGgvxUY.md#t-00-45-46)
+
+</details>
 
 </details>
 

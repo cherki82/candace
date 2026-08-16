@@ -1,6 +1,6 @@
 ---
 title: "TikTok"
-description: "TikTok (Organizations) - 50 mentions"
+description: "TikTok (Organizations) - 51 mentions"
 id: "org-tiktok"
 type: "ORG"
 categories:
@@ -20,6 +20,14 @@ Source: [About TikTok](https://www.tiktok.com/about)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:24:05](/episodes/ep-1hcjQGgvxUY.md#ent-org-tiktok-t-00-24-05)**
+> "...end those like just tag us on TikTok,"
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1 mentions)</summary>

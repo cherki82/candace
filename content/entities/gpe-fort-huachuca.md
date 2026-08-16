@@ -1,6 +1,6 @@
 ---
 title: "Fort Huachuca"
-description: "Fort Huachuca (Places) - 117 mentions"
+description: "Fort Huachuca (Places) - 119 mentions"
 id: "gpe-fort-huachuca"
 type: "GPE"
 aliases:
@@ -25,6 +25,17 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>
+
+**[00:21:24](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-fort-huachuca-t-00-20-53)**
+> "... believes they did see her at Fort Huachuca?"
+
+**[00:35:15](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-fort-huachuca-t-00-35-15)**
+> "...ca couldn't have been at some Fort Huachuca because she was with gigi"
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>

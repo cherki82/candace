@@ -1,6 +1,6 @@
 ---
 title: "Ian Carroll"
-description: "Ian Carroll (People) - 26 mentions"
+description: "Ian Carroll (People) - 28 mentions"
 id: "person-ian-carroll"
 type: "PERSON"
 aliases:
@@ -24,6 +24,17 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>
+
+**[00:55:23](/episodes/ep-1hcjQGgvxUY.md#ent-person-ian-carroll-t-00-54-45)**
+> "... we see an Owens and Carroll (Ian Carroll) or Coleman (Baron Coleman) ticket."
+
+**[00:55:39](/episodes/ep-1hcjQGgvxUY.md#ent-person-ian-carroll-t-00-55-30)**
+> "with Carroll (Ian Carroll) and Coleman (Baron Coleman), is probably because..."
+
+</details>
 
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1 mentions)</summary>

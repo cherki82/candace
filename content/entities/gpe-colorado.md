@@ -1,6 +1,6 @@
 ---
 title: "Colorado"
-description: "Colorado (Places) - 9 mentions"
+description: "Colorado (Places) - 11 mentions"
 id: "gpe-colorado"
 type: "GPE"
 categories:
@@ -19,6 +19,17 @@ Source: [State Information - Colorado.gov](https://co.colorado.gov/state-informa
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>
+
+**[00:24:25](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-colorado-t-00-24-05)**
+> "...) knew that was at the Batman Colorado mass shooting,"
+
+**[00:24:33](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-colorado-t-00-24-05)**
+> "... the Batman movie came out in Colorado,"
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (3 mentions)</summary>
@@ -78,5 +89,18 @@ Source: [State Information - Colorado.gov](https://co.colorado.gov/state-informa
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Colorado (1)</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1)</summary>
+
+- [00:51:58](/episodes/ep-hWTdXHGQ8R4.md#t-00-51-58) (Claim) **Candace Owens**: ["The event scheduled for the day after Utah Valley University was at Ch..."](/statements/statement-ac0c7f4d2a3b.md)
+  - Also about: [Charis Bible College](/entities/org-charis-bible-college.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</details>
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "Ireland"
-description: "Ireland (Places) - 3 mentions"
+description: "Ireland (Places) - 5 mentions"
 id: "gpe-ireland"
 type: "GPE"
 ---
@@ -11,6 +11,17 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>
+
+**[00:59:08](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-ireland-t-00-59-08)**
+> "strength and love from rural Ireland."
+
+**[00:59:11](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-ireland-t-00-59-08)**
+> "...d visit i would love to go to ireland i would my husband was like why do you guys why d..."
+
+</details>
 
 <details>
 <summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (1 mentions)</summary>

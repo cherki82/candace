@@ -1,6 +1,6 @@
 ---
 title: "Seth Dillon"
-description: "Seth Dillon (People) - 63 mentions"
+description: "Seth Dillon (People) - 64 mentions"
 id: "person-seth-dillon"
 type: "PERSON"
 categories:
@@ -20,6 +20,14 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:50:45](/episodes/ep-1hcjQGgvxUY.md#ent-person-seth-dillon-t-00-50-14)**
+> "demanded that Dillon (Seth Dillon) call my sponsors,"
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1 mentions)</summary>
@@ -462,7 +470,15 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Seth Dillon (13)</strong></summary>
+<summary><strong class="section-title">Statements about Seth Dillon (14)</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1)</summary>
+
+- [00:50:38](/episodes/ep-1hcjQGgvxUY.md#t-00-50-14) (Accusation) **Candace Owens**: ["Candace Owens says Alex Clark demanded that Seth Dillon call Owens's s..."](/statements/statement-a831f72ad994.md)
+  - Also about: [Alex Clark](/entities/person-alex-clark.md), [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (5)</summary>

@@ -21,7 +21,7 @@ type: "factual_claim"
 ## About
 
 - [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md) (org)
-- [Tyler James Robinson](/entities/person-tyler-james-robinson.md) (person)
+- [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 - [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md) (org)
 
 ## Source

@@ -24,6 +24,19 @@ _No relationships extracted yet._
 </details>
 
 <details open>
+<summary><strong class="section-title">Statements by Anonymous Source #5 (Ep hWTdXHGQ8R4) (1)</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1)</summary>
+
+- [00:49:32](/episodes/ep-hWTdXHGQ8R4.md#t-00-49-29) [○] (Accusation) ["Erika Kirk had an inappropriate relationship with a 15-year-old when she was 25 ..."](/statements/statement-3d37a70fae77.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Michigan](/entities/gpe-michigan.md)
+
+</details>
+
+</details>
+
+<details open>
 <summary><strong class="section-title">Anonymous Source Details</strong></summary>
 
 </details>

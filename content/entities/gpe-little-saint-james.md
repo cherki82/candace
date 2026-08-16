@@ -1,6 +1,6 @@
 ---
 title: "Little Saint James"
-description: "Little Saint James (Places) - 1 mention"
+description: "Little Saint James (Places) - 3 mentions"
 id: "gpe-little-saint-james"
 type: "GPE"
 aliases:
@@ -27,6 +27,17 @@ Source: [U.S. District Court filing identifying Little Saint James](https://www.
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>
+
+**[00:44:44](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-little-saint-james-t-00-44-37)**
+> "...that he and his family are on Epstein Island."
+
+**[00:44:55](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-little-saint-james-t-00-44-37)**
+> "not to Epstein Island."
+
+</details>
+
+<details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1 mentions)</summary>
 
 **[00:18:40](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-little-saint-james-t-00-18-34)**
@@ -44,7 +55,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Little Saint James (1)</strong></summary>
+<summary><strong class="section-title">Statements about Little Saint James (2)</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1)</summary>
+
+- [00:44:42](/episodes/ep-1hcjQGgvxUY.md#t-00-44-37) (Claim) **Jared Moskowitz**: ["Howard Lutnick and his family were on Epstein Island in 2012, after Ep..."](/statements/statement-f7d3e61fbb17.md)
+  - Also about: [Howard Lutnick](/entities/person-howard-lutnick.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1)</summary>

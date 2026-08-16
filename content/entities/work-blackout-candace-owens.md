@@ -1,6 +1,6 @@
 ---
 title: "Blackout"
-description: "Blackout (Works & Media) - 14 mentions"
+description: "Blackout (Works & Media) - 15 mentions"
 id: "work-blackout-candace-owens"
 type: "WORK"
 categories:
@@ -19,6 +19,14 @@ Source: [Shop Candace — Signed book bundle](https://shop.candaceowens.com/coll
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:53:39](/episodes/ep-1hcjQGgvxUY.md#ent-work-blackout-candace-owens-t-00-53-37)**
+> "...n get Make Him a Sandwich and Blackout, both signed by me."
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1 mentions)</summary>

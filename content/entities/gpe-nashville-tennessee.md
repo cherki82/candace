@@ -1,6 +1,6 @@
 ---
 title: "Nashville, Tennessee"
-description: "Nashville, Tennessee (Places) - 5 mentions"
+description: "Nashville, Tennessee (Places) - 6 mentions"
 id: "gpe-nashville-tennessee"
 type: "GPE"
 aliases:
@@ -24,6 +24,14 @@ Source: [Metropolitan Government of Nashville and Davidson County](https://www.n
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:57:30](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-nashville-tennessee-t-00-57-30)**
+> "...was the person who, after the Nashville shooting, magically got information and got the n..."
+
+</details>
 
 <details>
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (1 mentions)</summary>

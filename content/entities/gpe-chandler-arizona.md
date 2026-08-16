@@ -1,6 +1,6 @@
 ---
 title: "Chandler, Arizona"
-description: "Chandler, Arizona (Places) - 1 mention"
+description: "Chandler, Arizona (Places) - 2 mentions"
 id: "gpe-chandler-arizona"
 type: "GPE"
 aliases:
@@ -23,6 +23,14 @@ Source: [City of Chandler official website](https://www.chandleraz.gov/)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:18:55](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-chandler-arizona-t-00-18-13)**
+> "Chandler Gilbert area."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>

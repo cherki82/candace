@@ -212,7 +212,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <details>
 <summary>Referenced By (1)</summary>
 
-- **[Tyler James Robinson](/entities/person-tyler-james-robinson.md)** dating this
+- **[Tyler James Robinson](/entities/person-tyler-robinson.md)** dating this
   - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:09:34](/episodes/ep-HYn0P-P1wUw.md#t-00-08-57)
 
 </details>

@@ -31,7 +31,7 @@ _No relationships extracted yet._
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1)</summary>
 
-- [00:18:14](/episodes/ep-hWTdXHGQ8R4.md#t-00-18-04) [○] (Claim) ["A priest came to pray over Charlie and Erika Kirk's marriage the night before Ch..."](/statements/statement-6e90d1076104.md)
+- [00:18:14](/episodes/ep-hWTdXHGQ8R4.md#t-00-18-04) [◐] (Claim) ["A priest came to pray over Charlie and Erika Kirk's marriage the night before Ch..."](/statements/statement-6e90d1076104.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>

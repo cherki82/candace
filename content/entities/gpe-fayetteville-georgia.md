@@ -42,3 +42,16 @@ Source: [Fayetteville, GA Official Website](https://www.fayetteville-ga.gov/)
 _No relationships extracted yet._
 
 </details>
+
+<details open>
+<summary><strong class="section-title">Statements about Fayetteville, Georgia (1)</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1)</summary>
+
+- [00:39:11](/episodes/ep-hWTdXHGQ8R4.md#t-00-38-45) (Claim) **Anonymous Source #3 (Ep hWTdXHGQ8R4)** (via read message): ["The All-American Halftime Show was filmed weeks in advance in Fayettev..."](/statements/statement-eea485e7dbd6.md)
+  - Also about: [The All-American Halftime Show](/entities/event-all-american-halftime-show-2026.md)
+
+</details>
+
+</details>

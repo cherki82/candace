@@ -1,6 +1,6 @@
 ---
 title: "Christianity"
-description: "Christianity (Concepts) - 121 mentions"
+description: "Christianity (Concepts) - 122 mentions"
 id: "concept-christianity"
 type: "CONCEPT"
 aliases:
@@ -24,6 +24,14 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:11:05](/episodes/ep-1hcjQGgvxUY.md#ent-concept-christianity-t-00-10-36)**
+> "...d, such a strong and faithful Christian that she wants a 15-year-old to feel sexy or some..."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (2 mentions)</summary>

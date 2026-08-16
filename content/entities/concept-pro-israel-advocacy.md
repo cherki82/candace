@@ -47,7 +47,7 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (3 mentions)</summary>
 
-**[00:39:47](/episodes/ep-CEF7gQRWYCE.md#ent-concept-pro-israel-advocacy-t-00-41-30)**
+**[00:39:47](/episodes/ep-CEF7gQRWYCE.md#ent-concept-pro-israel-advocacy-t-00-39-33)**
 > "that Charlie Kirk remained pro-Israel until his final moments."
 
 **[00:41:30](/episodes/ep-CEF7gQRWYCE.md#ent-concept-pro-israel-advocacy-t-00-41-30)**
@@ -61,7 +61,7 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1 mentions)</summary>
 
-**[00:06:57](/episodes/ep-gG4ZoYUjUc8.md#t-00-06-27)**
+**[00:06:57](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-pro-israel-advocacy-t-00-06-27)**
 > "...ters over to any body that is pro-Israel."
 
 </details>
@@ -72,7 +72,7 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 **[00:56:02](/episodes/ep-2T39-oADLj0.md#ent-concept-pro-israel-advocacy-t-00-55-36)**
 > "abandon the pro-Israel cause"
 
-**[00:32:41](/episodes/ep-2T39-oADLj0.md#ent-concept-pro-israel-advocacy-t-00-55-36)**
+**[00:32:41](/episodes/ep-2T39-oADLj0.md#ent-concept-pro-israel-advocacy-t-00-32-04)**
 > "...there and say things that are pro-Israel."
 
 </details>

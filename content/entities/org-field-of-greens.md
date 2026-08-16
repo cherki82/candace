@@ -1,6 +1,6 @@
 ---
 title: "Field of Greens"
-description: "Field of Greens (Organizations) - 5 mentions"
+description: "Field of Greens (Organizations) - 10 mentions"
 id: "org-field-of-greens"
 type: "ORG"
 aliases:
@@ -24,6 +24,26 @@ Source: [Field of Greens](https://fieldofgreens.com/)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (5 mentions)</summary>
+
+**[00:52:21](/episodes/ep-1hcjQGgvxUY.md#ent-org-field-of-greens-t-00-52-11)**
+> "...want to remind you guys about Field of Greens because most people do not look forward to their ..."
+
+**[00:52:37](/episodes/ep-1hcjQGgvxUY.md#ent-org-field-of-greens-t-00-52-11)**
+> "Make it Field of Greens."
+
+**[00:52:44](/episodes/ep-1hcjQGgvxUY.md#ent-org-field-of-greens-t-00-52-11)**
+> "Field of Greens was designed with that in mind."
+
+**[00:52:52](/episodes/ep-1hcjQGgvxUY.md#ent-org-field-of-greens-t-00-52-52)**
+> "...t participants who only added Field of Greens saw measurable improvements in key health markers..."
+
+**[00:52:59](/episodes/ep-1hcjQGgvxUY.md#ent-org-field-of-greens-t-00-52-52)**
+> "That's why Field of Greens promises your doctor will notice your improved he..."
+
+</details>
 
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (5 mentions)</summary>

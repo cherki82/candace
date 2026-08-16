@@ -1,6 +1,6 @@
 ---
 title: "Freemasonry"
-description: "Freemasonry (Concepts) - 3 mentions"
+description: "Freemasonry (Concepts) - 4 mentions"
 id: "concept-freemasonry"
 type: "CONCEPT"
 aliases:
@@ -26,6 +26,14 @@ Source: [Encyclopaedia Britannica: Freemasonry](https://www.britannica.com/topic
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:54:02](/episodes/ep-1hcjQGgvxUY.md#ent-concept-freemasonry-t-00-54-02)**
+> "...ry excited. The real story of Freemasons, Puritans, and the battle for the New World—not w..."
+
+</details>
 
 <details>
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (1 mentions)</summary>

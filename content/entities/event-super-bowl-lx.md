@@ -39,7 +39,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Super Bowl LX (5)</strong></summary>
+<summary><strong class="section-title">Statements about Super Bowl LX (7)</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (2)</summary>
+
+- [00:39:40](/episodes/ep-hWTdXHGQ8R4.md#t-00-39-28) (Claim) **Anonymous Source #3 (Ep hWTdXHGQ8R4)** (via read message): ["Participants did not know they were signing up for a split halftime sh..."](/statements/statement-91eaeb3d162a.md)
+  - Also about: [The All-American Halftime Show](/entities/event-all-american-halftime-show-2026.md), [Bad Bunny](/entities/person-bad-bunny.md)
+
+- [00:41:22](/episodes/ep-hWTdXHGQ8R4.md#t-00-41-22) (Prediction) **Anonymous Source #6 (Ep hWTdXHGQ8R4)** (via read message): ["A source told us President Trump would watch the All-American Halftime..."](/statements/statement-7ed8c7a9c843.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [The All-American Halftime Show](/entities/event-all-american-halftime-show-2026.md), [Bad Bunny](/entities/person-bad-bunny.md)
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (5)</summary>

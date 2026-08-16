@@ -1,6 +1,6 @@
 ---
 title: "White House"
-description: "White House (Organizations) - 55 mentions"
+description: "White House (Organizations) - 57 mentions"
 id: "org-white-house"
 type: "ORG"
 aliases:
@@ -25,6 +25,17 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>
+
+**[00:42:34](/episodes/ep-1hcjQGgvxUY.md#ent-org-white-house-t-00-42-25)**
+> "the White House says passing the Massie (Thomas Massie) discharge..."
+
+**[00:42:44](/episodes/ep-1hcjQGgvxUY.md#ent-org-white-house-t-00-42-25)**
+> "the White House brought them into the situation room, you know,"
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
@@ -361,7 +372,18 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about White House (7)</strong></summary>
+<summary><strong class="section-title">Statements about White House (9)</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2)</summary>
+
+- [00:42:58](/episodes/ep-1hcjQGgvxUY.md#t-00-42-25) (Claim) **Jared Moskowitz**: ["The administration did not voluntarily release the Epstein files; Cong..."](/statements/statement-1eb05d7db07d.md)
+  - Also about: [United States Congress](/entities/org-united-states-congress.md), [Epstein Files](/entities/work-epstein-files.md)
+
+- [00:46:47](/episodes/ep-1hcjQGgvxUY.md#t-00-46-41) (Claim) **Pam Bondi**: ["The Trump administration released more than three million pages of doc..."](/statements/statement-1bed1a88852c.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Epstein Files](/entities/work-epstein-files.md)
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (1)</summary>

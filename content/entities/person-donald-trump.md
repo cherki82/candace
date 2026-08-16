@@ -1,6 +1,6 @@
 ---
 title: "Donald J. Trump"
-description: "Donald J. Trump (People) - 284 mentions"
+description: "Donald J. Trump (People) - 293 mentions"
 id: "person-donald-trump"
 type: "PERSON"
 aliases:
@@ -30,6 +30,38 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (9 mentions)</summary>
+
+**[00:41:20](/episodes/ep-1hcjQGgvxUY.md#ent-person-donald-trump-t-00-40-58)**
+> "Exactly what the Trump (Donald Trump) administration put us through with..."
+
+**[00:44:00](/episodes/ep-1hcjQGgvxUY.md#ent-person-donald-trump-t-00-43-52)**
+> "Kash Patel, under oath, said Trump (Donald Trump)'s name appears less than 100 times..."
+
+**[00:44:05](/episodes/ep-1hcjQGgvxUY.md#ent-person-donald-trump-t-00-43-52)**
+> "Trump (Donald Trump)'s name appears more times in the E..."
+
+**[00:44:12](/episodes/ep-1hcjQGgvxUY.md#ent-person-donald-trump-t-00-43-52)**
+> "by the way, this is the Trump (Donald Trump) Bible."
+
+**[00:44:15](/episodes/ep-1hcjQGgvxUY.md#ent-person-donald-trump-t-00-43-52)**
+> "Trump (Donald Trump)'s name also appears more times in ..."
+
+**[00:45:31](/episodes/ep-1hcjQGgvxUY.md#ent-person-donald-trump-t-00-45-31)**
+> "...ng the Bible and holding up a Trump (Donald Trump)"
+
+**[00:45:50](/episodes/ep-1hcjQGgvxUY.md#ent-person-donald-trump-t-00-45-46)**
+> "...utnick is practically running Trump (Donald Trump)'s administration. Bibi (Benjamin N..."
+
+**[00:46:53](/episodes/ep-1hcjQGgvxUY.md#ent-person-donald-trump-t-00-46-41)**
+> "over 3 million, and Donald Trump signed that law to release all of those documents..."
+
+**[00:47:19](/episodes/ep-1hcjQGgvxUY.md#ent-person-donald-trump-t-00-46-41)**
+> "Because Donald Trump,"
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (7 mentions)</summary>
@@ -1333,13 +1365,32 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Donald J. Trump (41)</strong></summary>
+<summary><strong class="section-title">Statements about Donald J. Trump (46)</strong></summary>
 
 <details>
-<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1)</summary>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (4)</summary>
+
+- [00:44:00](/episodes/ep-1hcjQGgvxUY.md#t-00-43-52) (Accusation) **Jared Moskowitz**: ["Jared Moskowitz says Kash Patel's under-oath claim that Donald Trump's..."](/statements/statement-960b5ebf630c.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [Epstein Files](/entities/work-epstein-files.md)
+
+- [00:44:57](/episodes/ep-1hcjQGgvxUY.md#t-00-44-37) (Citation) **Jared Moskowitz**: ["Documents in the Epstein files dispute Donald Trump's claim that he ex..."](/statements/statement-049d7908ab42.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Epstein Files](/entities/work-epstein-files.md)
+
+- [00:46:47](/episodes/ep-1hcjQGgvxUY.md#t-00-46-41) (Claim) **Pam Bondi**: ["The Trump administration released more than three million pages of doc..."](/statements/statement-1bed1a88852c.md)
+  - Also about: [White House](/entities/org-white-house.md), [Epstein Files](/entities/work-epstein-files.md)
+
+- [00:47:00](/episodes/ep-1hcjQGgvxUY.md#t-00-46-41) (Opinion) **Pam Bondi**: ["Donald Trump is the most transparent president in the nation's history..."](/statements/statement-80919448aba3.md)
+
+</details>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (2)</summary>
 
 - [00:35:41](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-12) (Claim) **Dan Patrick** (via quoted post): ["Carrie Prejean Boller has been removed from President Trump's Religiou..."](/statements/statement-2ff2370d31cd.md)
   - Also about: [Carrie Prejean Boller](/entities/person-carrie-prejean-boller.md), [Presidential Religious Liberty Commission](/entities/org-presidential-religious-liberty-commission.md)
+
+- [00:41:22](/episodes/ep-hWTdXHGQ8R4.md#t-00-41-22) (Prediction) **Anonymous Source #6 (Ep hWTdXHGQ8R4)** (via read message): ["A source told us President Trump would watch the All-American Halftime..."](/statements/statement-7ed8c7a9c843.md)
+  - Also about: [The All-American Halftime Show](/entities/event-all-american-halftime-show-2026.md), [Bad Bunny](/entities/person-bad-bunny.md), [Super Bowl LX](/entities/event-super-bowl-lx.md)
 
 </details>
 

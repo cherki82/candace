@@ -1,6 +1,6 @@
 ---
 title: "Kash Patel"
-description: "Kash Patel (People) - 126 mentions"
+description: "Kash Patel (People) - 128 mentions"
 id: "person-kash-patel"
 type: "PERSON"
 aliases:
@@ -26,6 +26,17 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>
+
+**[00:43:20](/episodes/ep-1hcjQGgvxUY.md#ent-person-kash-patel-t-00-43-07)**
+> "Kash Patel under oath said to Senator Kennedy,"
+
+**[00:44:00](/episodes/ep-1hcjQGgvxUY.md#ent-person-kash-patel-t-00-43-52)**
+> "Kash Patel, under oath, said Trump (Donald Trump)'s name app..."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (2 mentions)</summary>
@@ -776,7 +787,18 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Kash Patel (14)</strong></summary>
+<summary><strong class="section-title">Statements about Kash Patel (16)</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2)</summary>
+
+- [00:43:20](/episodes/ep-1hcjQGgvxUY.md#t-00-43-07) (Accusation) **Jared Moskowitz**: ["Kash Patel testified that the FBI had no criminal evidence Epstein tra..."](/statements/statement-3d79e5904e4e.md)
+  - Also about: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+- [00:44:00](/episodes/ep-1hcjQGgvxUY.md#t-00-43-52) (Accusation) **Jared Moskowitz**: ["Jared Moskowitz says Kash Patel's under-oath claim that Donald Trump's..."](/statements/statement-960b5ebf630c.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Epstein Files](/entities/work-epstein-files.md)
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1)</summary>

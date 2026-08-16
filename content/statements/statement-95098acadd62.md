@@ -21,7 +21,7 @@ veracity: "false"
 
 ## About
 
-- [Tyler James Robinson](/entities/person-tyler-james-robinson.md) (person)
+- [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 
 ## Source
 

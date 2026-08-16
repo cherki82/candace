@@ -1,6 +1,6 @@
 ---
 title: "United States Congress"
-description: "United States Congress (Organizations) - 14 mentions"
+description: "United States Congress (Organizations) - 16 mentions"
 id: "org-united-states-congress"
 type: "ORG"
 aliases:
@@ -26,6 +26,17 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>
+
+**[00:42:08](/episodes/ep-1hcjQGgvxUY.md#ent-org-united-states-congress-t-00-41-41)**
+> "... Johnson (Mike Johnson) sends Congress home a day early before break."
+
+**[00:43:00](/episodes/ep-1hcjQGgvxUY.md#ent-org-united-states-congress-t-00-42-25)**
+> "You were forced by Congress."
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
@@ -134,7 +145,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Congress (1)</strong></summary>
+<summary><strong class="section-title">Statements about United States Congress (2)</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1)</summary>
+
+- [00:42:58](/episodes/ep-1hcjQGgvxUY.md#t-00-42-25) (Claim) **Jared Moskowitz**: ["The administration did not voluntarily release the Epstein files; Cong..."](/statements/statement-1eb05d7db07d.md)
+  - Also about: [White House](/entities/org-white-house.md), [Epstein Files](/entities/work-epstein-files.md)
+
+</details>
 
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>

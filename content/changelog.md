@@ -5,6 +5,24 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2026-08-16 11:28:11
+
+**Cleaned 1 transcript(s):**
+  - `1hcjQGgvxUY`: Okay…These Text Messages Are Crazy! | Candace Ep 307
+**Added 33 new entity/entities**
+**Removed 1 entity/entities**
+**Added 23 new event(s)**
+**Added 26 new relationship(s)**
+
+**Totals:**
+- Episodes: 81
+- Entities: 2120
+- Events: 827
+- Claims: 1461
+- Relationships: 1824
+
+---
+
 ## 2026-08-16 10:20:28
 
 **Added 50 episode(s):**

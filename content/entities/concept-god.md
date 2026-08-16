@@ -1,6 +1,6 @@
 ---
 title: "God"
-description: "God (Concepts) - 303 mentions"
+description: "God (Concepts) - 310 mentions"
 id: "concept-god"
 type: "CONCEPT"
 categories:
@@ -19,6 +19,32 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (7 mentions)</summary>
+
+**[00:07:01](/episodes/ep-1hcjQGgvxUY.md#t-00-06-51)**
+> "... no new friends oh my fucking god I can't. A few days later on April 5th."
+
+**[00:22:02](/episodes/ep-1hcjQGgvxUY.md#t-00-22-02)**
+> "...r own doing it is the gift of God not a result of work so that no one may boast oka..."
+
+**[00:22:43](/episodes/ep-1hcjQGgvxUY.md#t-00-22-02)**
+> "God is our refuge and strength,"
+
+**[00:23:08](/episodes/ep-1hcjQGgvxUY.md#t-00-22-45)**
+> "...tence that comes out is about God."
+
+**[00:44:05](/episodes/ep-1hcjQGgvxUY.md#t-00-43-52)**
+> "...mes in the Epstein files than God's name appears in the book about God."
+
+**[00:57:30](/episodes/ep-1hcjQGgvxUY.md#t-00-57-30)**
+> "...ident at all. Want to Glorify God writes, 'I can't help but wonder, has there ever ..."
+
+**[00:58:55](/episodes/ep-1hcjQGgvxUY.md#t-00-58-24)**
+> "...rk)'s death starting now. All God's people say amen."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (6 mentions)</summary>

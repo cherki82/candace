@@ -22,7 +22,7 @@ type: "accusation"
 
 - [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md) (org)
 - [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md) (org)
-- [Tyler James Robinson](/entities/person-tyler-james-robinson.md) (person)
+- [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 
 ## Source
 

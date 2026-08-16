@@ -1,6 +1,6 @@
 ---
 title: "Desert Spirit Tek, LLC"
-description: "Desert Spirit Tek, LLC (Organizations) - 5 mentions"
+description: "Desert Spirit Tek, LLC (Organizations) - 6 mentions"
 id: "org-desert-spirit-tek"
 type: "ORG"
 aliases:
@@ -26,6 +26,14 @@ Source: [L22039349 - Desert Spirit Tek, LLC](https://www.city-data.com/business-
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:20:29](/episodes/ep-1hcjQGgvxUY.md#ent-org-desert-spirit-tek-t-00-20-09)**
+> "We had mentioned to you this desert spirit tech company that she was running, Lori (Erika Kirk's ..."
+
+</details>
 
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (5 mentions)</summary>
@@ -69,6 +77,14 @@ Source: [L22039349 - Desert Spirit Tek, LLC](https://www.city-data.com/business-
 </details>
 
 <details>
+<summary>Operated By (1)</summary>
+
+- **[Lori Frantzve](/entities/person-lori-frantzve.md)**
+  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:29](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09): "this desert spirit tech company that she was running, Lori (Erika Kirk's mother; surname unverified) was running"
+
+</details>
+
+<details>
 <summary>Owned By (2)</summary>
 
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)**
@@ -80,10 +96,13 @@ Source: [L22039349 - Desert Spirit Tek, LLC](https://www.city-data.com/business-
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Sacaton, Arizona](/entities/gpe-sacaton-arizona.md)** location of this
   - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:13:20](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-41)
+
+- **[Lori Frantzve](/entities/person-lori-frantzve.md)** operates this
+  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:29](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09)
 
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)** owns this
   - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:15:30](/episodes/ep-gG4ZoYUjUc8.md#t-00-14-47)
@@ -99,7 +118,15 @@ Source: [L22039349 - Desert Spirit Tek, LLC](https://www.city-data.com/business-
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Desert Spirit Tek, LLC (4)</strong></summary>
+<summary><strong class="section-title">Statements about Desert Spirit Tek, LLC (5)</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1)</summary>
+
+- [00:20:29](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09) (Claim) **Candace Owens**: ["Candace Owens says someone visited Desert Spirit Tek's listed address ..."](/statements/statement-1aa9c0c7381b.md)
+  - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</details>
 
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (4)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "TMZ"
-description: "TMZ (Organizations) - 36 mentions"
+description: "TMZ (Organizations) - 37 mentions"
 id: "org-tmz"
 type: "ORG"
 aliases:
@@ -24,6 +24,14 @@ Source: [About TMZ](https://www.tmz.com/pages/about-us/)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:57:30](/episodes/ep-1hcjQGgvxUY.md#ent-org-tmz-t-00-57-30)**
+> "...er's lap in the same way that TMZ just kind of gets these things, and you wonder. O..."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
@@ -222,6 +230,19 @@ Source: [About TMZ](https://www.tmz.com/pages/about-us/)
 
 - **[Central Intelligence Agency](/entities/org-central-intelligence-agency.md)** operated by this
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:02:32](/episodes/ep-sreYYcID-QY.md#t-00-02-05)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about TMZ (1)</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1)</summary>
+
+- [00:57:19](/episodes/ep-1hcjQGgvxUY.md#t-00-57-11) (Accusation) **Candace Owens**: ["Candace Owens says she thinks Steven Crowder knew he was distributing ..."](/statements/statement-65babe2d7be9.md)
+  - Also about: [Steven Crowder](/entities/person-steven-crowder.md)
 
 </details>
 

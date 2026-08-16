@@ -4,9 +4,10 @@ description: "\"A priest came to pray over Charlie and Erika Kirk's marriage the
 statement_id: "statement-6e90d1076104"
 speaker: "Anonymous Source #4 (Ep hWTdXHGQ8R4)"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Transcript context attributes the claim to a private source. Current reporting quotes Megyn Kelly saying the couple contacted a priest who came over the night before and prayed with them over Charlie after the Jezebel curse article. That corroborates the priest, timing, and prayer, but not the specific assertion that the prayer was over their marriage.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Erika Kirk Was 'Rattled' When Jezebel Put 'Etsy Curse' on Charlie](https://www.thedailybeast.com/rattled-erika-kirk-prayed-over-charlie-after-jezebel-cursed-him-megyn-kelly/)
+
+*Verified: 2026-08-16T10:43:41.609082*
 
 ---
 

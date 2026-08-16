@@ -11,7 +11,7 @@ date: "2025-09-10"
 
 > Charlie Kirk was assassinated at Utah Valley University.
 
-## Mentioned In (22 times)
+## Mentioned In (24 times)
 
 ### 1. You Won't Believe What Happened While We Were Off Air... | C...
 
@@ -188,3 +188,19 @@ date: "2025-09-10"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(661);return false;">▶️ Play</a>
 
 > Charlie was assassinated on a Wednesday.
+
+### 23. VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Canda...
+
+**Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
+**Timestamp:** [00:03:46](/episodes/ep-hWTdXHGQ8R4.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-03-34) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(226);return false;">▶️ Play</a>
+
+> and by September 10th, the day that he was assassinated.
+
+### 24. Okay…These Text Messages Are Crazy! | Candace Ep 307
+
+**Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
+**Timestamp:** [00:22:32](/episodes/ep-1hcjQGgvxUY.md#t-00-22-02) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1352);return false;">▶️ Play</a>
+
+> on the day that Charlie is assassinated at 9.45 a.m. Arizona time

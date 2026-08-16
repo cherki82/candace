@@ -12,7 +12,7 @@ time: "10:00"
 
 > Candace Owens said Charlie Kirk hosted his show from his home studio from 10 to 11 a.m. Arizona time.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. BAAL SO HARD: The Epstein Files | Candace Ep 300
 
@@ -29,3 +29,11 @@ time: "10:00"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1775);return false;">▶️ Play</a>
 
 > When he appears in his home studio for Charlie Kirk's show,
+
+### 3. VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Canda...
+
+**Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
+**Timestamp:** [00:03:11](/episodes/ep-hWTdXHGQ8R4.md#event-event-2025-09-08-candace-owens-said-charlie-kirk-hosted-h-t-00-02-51) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(191);return false;">▶️ Play</a>
+
+> Charlie Kirk was awake and he did one hour of the Charlie Kirk show on the 8th from his studio

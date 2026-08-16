@@ -1,6 +1,6 @@
 ---
 title: "Glenn Beck"
-description: "Glenn Beck (People) - 26 mentions"
+description: "Glenn Beck (People) - 29 mentions"
 id: "person-glenn-beck"
 type: "PERSON"
 categories:
@@ -19,6 +19,20 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (3 mentions)</summary>
+
+**[00:33:09](/episodes/ep-1hcjQGgvxUY.md#ent-person-glenn-beck-t-00-32-42)**
+> "... (Erika Kirk) was speaking to Glenn Beck in December,"
+
+**[00:33:27](/episodes/ep-1hcjQGgvxUY.md#ent-person-glenn-beck-t-00-33-24)**
+> "...s my first time. And she's on Glenn Beck."
+
+**[00:38:19](/episodes/ep-1hcjQGgvxUY.md#ent-person-glenn-beck-t-00-38-03)**
+> "as she told Glenn Beck,"
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (4 mentions)</summary>
@@ -175,6 +189,8 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
   - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:17:14](/episodes/ep-6J6lRZPQ4jk.md#t-00-17-02): "Erika also sat down with Glenn (Glenn Beck) (Glenn Beck) of Blaze TV."
+  - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:04:14](/episodes/ep-hWTdXHGQ8R4.md#t-00-04-14): "Well, then fast forward to December 12th. And as a part of her Shabbat Shalom PR blitz, she conducted her very first interview from Charlie (Charlie Kirk)'s home office. She gave an interview to Glenn Beck."
+  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:38:19](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03): "as she told Glenn Beck"
 
 </details>
 

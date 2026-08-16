@@ -1,6 +1,6 @@
 ---
 title: "Zoom Communications"
-description: "Zoom Communications (Organizations) - 10 mentions"
+description: "Zoom Communications (Organizations) - 11 mentions"
 id: "org-zoom-communications"
 type: "ORG"
 aliases:
@@ -24,6 +24,14 @@ Source: [About Zoom](https://www.zoom.com/en/about/)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:38:52](/episodes/ep-1hcjQGgvxUY.md#t-00-38-46)**
+> "...rica (Erika Kirk) was on that Zoom call telling the employees to button it up, get b..."
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (2 mentions)</summary>

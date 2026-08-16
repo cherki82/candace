@@ -1,6 +1,6 @@
 ---
 title: "Florida"
-description: "Florida (Places) - 16 mentions"
+description: "Florida (Places) - 17 mentions"
 id: "gpe-florida"
 type: "GPE"
 categories:
@@ -19,6 +19,14 @@ Source: [MyFlorida | Official Page for Sunshine State Government](https://www.my
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:44:53](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-florida-t-00-44-37)**
+> "I'm from Florida. I take my family to Disney World,"
+
+</details>
 
 <details>
 <summary>An Open Letter To Erika Kirk | Candace Ep 303 (2 mentions)</summary>

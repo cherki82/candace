@@ -1,6 +1,6 @@
 ---
 title: "Satan"
-description: "Satan (Concepts) - 42 mentions"
+description: "Satan (Concepts) - 43 mentions"
 id: "concept-satan"
 type: "CONCEPT"
 aliases:
@@ -25,6 +25,14 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:49:04](/episodes/ep-1hcjQGgvxUY.md#ent-concept-satan-t-00-48-47)**
+> "... that we can go on worshiping Satan?"
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (2 mentions)</summary>

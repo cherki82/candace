@@ -11,7 +11,11 @@ object: "person-charlie-kirk"
 
 ## [Erika Kirk](/entities/person-erika-kirk) widow of [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (13 mentions)
+### Evidence (15 mentions)
+
+**[Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY)**
+
+- [00:22:49](/episodes/ep-1hcjQGgvxUY#t-00-22-49): _this godly woman happened to have tweeted this right before her husband got assassinated._
 
 **[Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708)**
 
@@ -48,6 +52,10 @@ object: "person-charlie-kirk"
 **[Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8)**
 
 - [00:35:19](/episodes/ep-gG4ZoYUjUc8#t-00-35-19): _uh time to grieve that they take time off what's strange about that is the employees are like maybe you need to take time off because your husband just got publicly they thought it was very strange and apparently she didn't now everyone's saying she was in the office every day with Stacey Sheridan I told you that's like the chief fundraiser lady they're in the office every day following Charlie (Charlie Kirk)'s assassination_
+
+**[VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4)**
+
+- [00:06:17](/episodes/ep-hWTdXHGQ8R4#t-00-06-17): _No person in their right mind would go into the home of a grieving widow and move a photo of her and her husband from their wedding day without explicit permission._
 
 **[An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ)**
 

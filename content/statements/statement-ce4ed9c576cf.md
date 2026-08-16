@@ -4,9 +4,10 @@ description: "\"Carrie Prejean Boller was removed from the Presidential Religiou
 statement_id: "statement-ce4ed9c576cf"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Transcript context says removal followed demands by Zionists. AP and later White House reporting confirm Boller was removed after the antisemitism hearing. However, the causal assertion that 'Zionists demanded' and caused the removal is not established by an official record; Patrick publicly cited her conduct and personal/political agenda.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Member of Trump's Religious Liberty Commission ousted in dispute over antisemitism](https://apnews.com/article/trump-religious-liberty-commission-antisemtism-0cbdc1f1aa62286aa7688495555b0aa5)
+
+*Verified: 2026-08-16T10:43:45.363527*
 
 ---
 

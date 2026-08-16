@@ -2,7 +2,7 @@
 title: "Timeline"
 ---
 
-_Total events: 804_
+_Total events: 827_
 
 > **Note:** Events and dates are extracted automatically using AI. Some dates may be approximate or inferred from context.
 
@@ -74,9 +74,9 @@ _Total events: 804_
 <input type="radio" id="tab-historical" name="timeline-tab" class="tab-radio">
 
 <div class="tab-controls">
-  <label for="tab-2025" class="tab-btn">2025 (497)</label>
+  <label for="tab-2025" class="tab-btn">2025 (504)</label>
   <label for="tab-2024" class="tab-btn">2024 (58)</label>
-  <label for="tab-historical" class="tab-btn">Historical (249)</label>
+  <label for="tab-historical" class="tab-btn">Historical (265)</label>
 </div>
 
 <div class="tab-content tab-content-2025">
@@ -458,6 +458,22 @@ _Total events: 804_
 
 - [Who Stood To Benefit From Charlie Kirk's Assass... @ 00:40:25](/episodes/ep-Kmt6HgRjckU.md#t-00-40-07)
 - [Woah: It Was Erika Kirk Who Called For TPUSA To... @ 00:51:15](/episodes/ep-DqGNvi36ol8.md#t-00-51-00)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-12-12-erika-kirk-conducted-an-interview-with-g">
+<div class="timeline-date">2025-12-12</div>
+<div class="timeline-desc"><a href="/events/event-2025-12-12-erika-kirk-conducted-an-interview-with-g.md">Erika Kirk conducted an interview with Glenn Beck from Charlie Kirk's home office.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-12: Erika Kirk conducted an interview with Glenn Beck from Charlie Kirk\'s home office. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [VIRAL: Who Removed Charlie's Wedding Photo, And... @ 00:04:14](/episodes/ep-hWTdXHGQ8R4.md#t-00-04-14)
+- [Okay…These Text Messages Are Crazy! | Candace E... @ 00:33:09](/episodes/ep-1hcjQGgvxUY.md#t-00-32-42)
 
 </details>
 </div>
@@ -6812,6 +6828,21 @@ _Total events: 804_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-11-08-mikey-mccoy-gave-a-real-americas-voice-i">
+<div class="timeline-date">2025-11-08</div>
+<div class="timeline-desc"><a href="/events/event-2025-11-08-mikey-mccoy-gave-a-real-americas-voice-i.md">Mikey McCoy gave a Real America's Voice interview from Charlie Kirk's home studio after the wedding photo had been moved.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-11-08: Mikey McCoy gave a Real America\'s Voice interview from Charlie Kirk\'s home studio after the wedding photo had been moved. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace E... @ 00:38:03](/episodes/ep-1hcjQGgvxUY.md#t-00-37-19)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-11-07-ben-shapiro-joins-megyn-kelly-on-her-tour-stop-in">
 <div class="timeline-date">2025-11-07</div>
 <div class="timeline-desc"><a href="/events/event-2025-11-07-ben-shapiro-joins-megyn-kelly-on-her-tour-stop-in.md">Ben Shapiro joins Megyn Kelly on her tour stop in Florida and criticizes Owens, Carlson.</a></div>
@@ -10734,7 +10765,7 @@ _Total events: 804_
 <div class="timeline-date">2025-09-22</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-22-erika-kirk-led-a-corporate-wide-turning-.md">Erika Kirk led a corporate-wide Turning Point USA Zoom call.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-22: Erika Kirk led a corporate-wide Turning Point USA Zoom call. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -10742,6 +10773,7 @@ _Total events: 804_
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:00:51](/episodes/ep-A39g5oqB_eM.md#t-00-00-40)
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…... @ 00:08:06](/episodes/ep-QdM9jLwjwLw.md#t-00-08-02)
+- [Okay…These Text Messages Are Crazy! | Candace E... @ 00:38:52](/episodes/ep-1hcjQGgvxUY.md#t-00-38-46)
 
 </details>
 </div>
@@ -10757,6 +10789,21 @@ _Total events: 804_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9t... @ 00:16:57](/episodes/ep-Wjul6YV6izo.md#t-00-16-31)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-22-mikey-mccoy-appeared-on-fox-news-from-ch">
+<div class="timeline-date">2025-09-22</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-22-mikey-mccoy-appeared-on-fox-news-from-ch.md">Mikey McCoy appeared on Fox News from Charlie Kirk's chair in his home studio.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-22: Mikey McCoy appeared on Fox News from Charlie Kirk\'s chair in his home studio. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace E... @ 00:38:40](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03)
 
 </details>
 </div>
@@ -17075,6 +17122,21 @@ _Total events: 804_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-11-information-about-inscriptions-on-bullet">
+<div class="timeline-date">2025-09-11</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-11-information-about-inscriptions-on-bullet.md">Information about inscriptions on bullets was leaked to Steven Crowder the day after Charlie Kirk's assassination.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-11: Information about inscriptions on bullets was leaked to Steven Crowder the day after Charlie Kirk\'s assassination. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace E... @ 00:57:19](/episodes/ep-1hcjQGgvxUY.md#t-00-57-11)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-10-tyler-robinson-arrived-at-cowboy-smokeho">
 <div class="timeline-date">2025-09-10 <span class='time'>20:45</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-tyler-robinson-arrived-at-cowboy-smokeho.md">Tyler Robinson arrived at Cowboy Smokehouse in Panguitch, Utah, ate at the bar, and left at approximately 9:30 p.m.</a></div>
@@ -18023,6 +18085,21 @@ _Total events: 804_
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists... @ 00:08:39](/episodes/ep-K1tFD7FfoCU.md#t-00-08-16)
 - [To My Friend, Charlie Kirk. @ 00:14:33](/episodes/ep-_dRaEO47-co.md#t-00-14-11)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:10:37](/episodes/ep-K5GjF53bfN4.md#t-00-09-59)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-erika-kirk-posted-a-psalm-quotation-on-x">
+<div class="timeline-date">2025-09-10 <span class='time'>09:45</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-erika-kirk-posted-a-psalm-quotation-on-x.md">Erika Kirk posted a Psalm quotation on X before Charlie Kirk was assassinated.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 09:45: Erika Kirk posted a Psalm quotation on X before Charlie Kirk was assassinated. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace E... @ 00:22:32](/episodes/ep-1hcjQGgvxUY.md#t-00-22-02)
 
 </details>
 </div>
@@ -20075,7 +20152,7 @@ _Total events: 804_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va.md">Charlie Kirk was assassinated at Utah Valley University.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">22× in 17 eps</span>
+<span class="timeline-badge mentions">24× in 19 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Charlie Kirk was assassinated at Utah Valley University. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -20103,6 +20180,8 @@ _Total events: 804_
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:27:14](/episodes/ep-mFuno0TuuQQ.md#t-00-27-14)
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:14:46](/episodes/ep-4YgrOhhy708.md#t-00-14-03)
 - [Here’s Why It’s Time For The Police To Question... @ 00:11:01](/episodes/ep-ti5Fxrvegno.md#t-00-10-49)
+- [VIRAL: Who Removed Charlie's Wedding Photo, And... @ 00:03:46](/episodes/ep-hWTdXHGQ8R4.md#t-00-03-34)
+- [Okay…These Text Messages Are Crazy! | Candace E... @ 00:22:32](/episodes/ep-1hcjQGgvxUY.md#t-00-22-02)
 
 </details>
 </div>
@@ -20224,13 +20303,14 @@ _Total events: 804_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-said-erika-kirk-described-.md">Candace Owens said Erika Kirk described Charlie Kirk retrieving his wedding band on the morning he was killed.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Candace Owens said Erika Kirk described Charlie Kirk retrieving his wedding band on the morning he was killed. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:12:10](/episodes/ep-mFuno0TuuQQ.md#t-00-11-55)
+- [VIRAL: Who Removed Charlie's Wedding Photo, And... @ 00:11:39](/episodes/ep-hWTdXHGQ8R4.md#t-00-11-25)
 
 </details>
 </div>
@@ -20438,6 +20518,21 @@ _Total events: 804_
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:39:12](/episodes/ep-CEF7gQRWYCE.md#t-00-38-44)
 - [Here’s Why It’s Time For The Police To Question... @ 00:05:31](/episodes/ep-ti5Fxrvegno.md#t-00-04-56)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-09-erika-kirk-posted-a-psalm-quotation-on-x">
+<div class="timeline-date">2025-09-09 <span class='time'>09:44</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-09-erika-kirk-posted-a-psalm-quotation-on-x.md">Erika Kirk posted a Psalm quotation on X.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09 09:44: Erika Kirk posted a Psalm quotation on X. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace E... @ 00:22:23](/episodes/ep-1hcjQGgvxUY.md#t-00-22-02)
 
 </details>
 </div>
@@ -21131,7 +21226,7 @@ _Total events: 804_
 <div class="timeline-date">2025-09-09</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-text-messages-the-day-before-charlie-kirk-s-death.md">Text messages the day before Charlie Kirk's death in which he warned he thought he would be killed.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">32× in 12 eps</span>
+<span class="timeline-badge mentions">33× in 13 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09: Text messages the day before Charlie Kirk\'s death in which he warned he thought he would be killed. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -21169,6 +21264,7 @@ _Total events: 804_
 - [Erika Kirk Forgives. The Feds Forget... | Canda... @ 00:53:40](/episodes/ep-ja26iltROkM.md#t-00-53-40)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:10:48](/episodes/ep-K5GjF53bfN4.md#t-00-10-43)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:10:37](/episodes/ep-K5GjF53bfN4.md#t-00-09-59)
+- [VIRAL: Who Removed Charlie's Wedding Photo, And... @ 00:21:15](/episodes/ep-hWTdXHGQ8R4.md#t-00-21-15)
 
 </details>
 </div>
@@ -21351,7 +21447,7 @@ _Total events: 804_
 <div class="timeline-date">2025-09-09</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-charlie-kirk-texted-tpusa-employees-that.md">Charlie Kirk texted TPUSA employees that he wanted to invite Candace Owens to AmericaFest.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 3 eps</span>
+<span class="timeline-badge mentions">4× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09: Charlie Kirk texted TPUSA employees that he wanted to invite Candace Owens to AmericaFest. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -21360,6 +21456,7 @@ _Total events: 804_
 - [Erika’s Inquisition: TPUSA Employees FIRED For…... @ 00:05:58](/episodes/ep-gG4ZoYUjUc8.md#t-00-05-42)
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:43:00](/episodes/ep-CEF7gQRWYCE.md#t-00-43-00)
 - [Here’s Why It’s Time For The Police To Question... @ 00:05:37](/episodes/ep-ti5Fxrvegno.md#t-00-05-37)
+- [VIRAL: Who Removed Charlie's Wedding Photo, And... @ 00:19:50](/episodes/ep-hWTdXHGQ8R4.md#t-00-19-32)
 
 </details>
 </div>
@@ -21383,7 +21480,7 @@ _Total events: 804_
 <div class="timeline-date">2025-09-09</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-candace-owens-said-charlie-kirk-had-dinn.md">Candace Owens said Charlie Kirk had dinner with his family and a priest who prayed over him.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09: Candace Owens said Charlie Kirk had dinner with his family and a priest who prayed over him. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -21391,6 +21488,7 @@ _Total events: 804_
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:43:47](/episodes/ep-CEF7gQRWYCE.md#t-00-43-43)
 - [Here’s Why It’s Time For The Police To Question... @ 00:08:18](/episodes/ep-ti5Fxrvegno.md#t-00-08-07)
+- [VIRAL: Who Removed Charlie's Wedding Photo, And... @ 00:18:14](/episodes/ep-hWTdXHGQ8R4.md#t-00-18-04)
 
 </details>
 </div>
@@ -21429,13 +21527,14 @@ _Total events: 804_
 <div class="timeline-date">2025-09-09</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-candace-owens-quoted-erika-kirk-as-sayin.md">Candace Owens quoted Erika Kirk as saying Charlie Kirk could not sleep the night before he was killed.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09: Candace Owens quoted Erika Kirk as saying Charlie Kirk could not sleep the night before he was killed. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:10:09](/episodes/ep-mFuno0TuuQQ.md#t-00-09-43)
+- [VIRAL: Who Removed Charlie's Wedding Photo, And... @ 00:10:46](/episodes/ep-hWTdXHGQ8R4.md#t-00-10-43)
 
 </details>
 </div>
@@ -21470,11 +21569,26 @@ _Total events: 804_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-08-erika-kirk-authored-an-x-post-after-a-po">
+<div class="timeline-date">2025-09-08 <span class='time'>10:49</span></div>
+<div class="timeline-desc"><a href="/events/event-2025-09-08-erika-kirk-authored-an-x-post-after-a-po.md">Erika Kirk authored an X post after a posting silence dating to 2023.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08 10:49: Erika Kirk authored an X post after a posting silence dating to 2023. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace E... @ 00:22:02](/episodes/ep-1hcjQGgvxUY.md#t-00-21-36)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-08-candace-owens-said-charlie-kirk-hosted-h">
 <div class="timeline-date">2025-09-08 <span class='time'>10:00</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-08-candace-owens-said-charlie-kirk-hosted-h.md">Candace Owens said Charlie Kirk hosted his show from his home studio from 10 to 11 a.m. Arizona time.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08 10:00: Candace Owens said Charlie Kirk hosted his show from his home studio from 10 to 11 a.m. Arizona time. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -21482,6 +21596,7 @@ _Total events: 804_
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:45:24](/episodes/ep-CEF7gQRWYCE.md#t-00-45-12)
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace ... @ 00:29:35](/episodes/ep-QRS_hR7NXaQ.md#t-00-29-18)
+- [VIRAL: Who Removed Charlie's Wedding Photo, And... @ 00:03:11](/episodes/ep-hWTdXHGQ8R4.md#t-00-02-51)
 
 </details>
 </div>
@@ -22205,7 +22320,7 @@ _Total events: 804_
 <div class="timeline-date">2025-09-08</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-08-mitch-snow-alleged-that-he-saw-erika-kir.md">Mitch Snow alleged that he saw Erika Kirk leaving the Candlewood Suites hotel at Fort Huachuca with someone resembling Cabot Phillips.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08: Mitch Snow alleged that he saw Erika Kirk leaving the Candlewood Suites hotel at Fort Huachuca with someone resembling Cabot Phillips. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -22213,6 +22328,7 @@ _Total events: 804_
 
 - [You Won't Believe What Happened While We Were O... @ 00:38:11](/episodes/ep-OEAHy3SsIiI.md#t-00-37-47)
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:51](/episodes/ep-4YgrOhhy708.md#t-00-18-36)
+- [Okay…These Text Messages Are Crazy! | Candace E... @ 00:21:24](/episodes/ep-1hcjQGgvxUY.md#t-00-20-53)
 
 </details>
 </div>
@@ -22281,13 +22397,14 @@ _Total events: 804_
 <div class="timeline-date">2025-09-08</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-08-candace-owens-said-charlie-kirk-returned.md">Candace Owens said Charlie Kirk returned from Korea and Tokyo via California late September 7 or early September 8 and continued to Arizona.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08: Candace Owens said Charlie Kirk returned from Korea and Tokyo via California late September 7 or early September 8 and continued to Arizona. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace ... @ 00:29:18](/episodes/ep-QRS_hR7NXaQ.md#t-00-29-18)
+- [VIRAL: Who Removed Charlie's Wedding Photo, And... @ 00:03:11](/episodes/ep-hWTdXHGQ8R4.md#t-00-02-51)
 
 </details>
 </div>
@@ -33960,6 +34077,21 @@ _Total events: 804_
 
 <h2 id="year-2008">2008</h2>
 
+<div class="timeline-event filter-item" id="event-2008-howard-lutnick-said-he-visited-jeffrey-e">
+<div class="timeline-date">2008</div>
+<div class="timeline-desc"><a href="/events/event-2008-howard-lutnick-said-he-visited-jeffrey-e.md">Howard Lutnick said he visited Jeffrey Epstein's home and then left with his wife after seeing Epstein's massage table.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2008: Howard Lutnick said he visited Jeffrey Epstein\'s home and then left with his wife after seeing Epstein\'s massage table. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace E... @ 00:44:22](/episodes/ep-1hcjQGgvxUY.md#t-00-43-52)
+
+</details>
+</div>
+
 **February**
 
 <div class="timeline-event filter-item" id="event-2008-02-01-britney-spears-conservatorship-implemented-by-fath">
@@ -34201,6 +34333,21 @@ _Total events: 804_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2012-howard-lutnick-and-his-family-visited-je">
+<div class="timeline-date">2012</div>
+<div class="timeline-desc"><a href="/events/event-2012-howard-lutnick-and-his-family-visited-je.md">Howard Lutnick and his family visited Jeffrey Epstein's island.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2012: Howard Lutnick and his family visited Jeffrey Epstein\'s island. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace E... @ 00:44:44](/episodes/ep-1hcjQGgvxUY.md#t-00-44-37)
+
+</details>
+</div>
+
 **February**
 
 <div class="timeline-event filter-item" id="event-2012-02-andrew-breitbart-hired-28-year-old-ben-s">
@@ -34334,6 +34481,51 @@ _Total events: 804_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2013-erika-kirk-completed-her-year-as-miss-ar">
+<div class="timeline-date">2013</div>
+<div class="timeline-desc"><a href="/events/event-2013-erika-kirk-completed-her-year-as-miss-ar.md">Erika Kirk completed her year as Miss Arizona by 2013.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2013: Erika Kirk completed her year as Miss Arizona by 2013. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace E... @ 00:02:21](/episodes/ep-1hcjQGgvxUY.md#t-00-02-10)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2013-erika-kirk-moved-to-michigan-to-be-with-">
+<div class="timeline-date">2013</div>
+<div class="timeline-desc"><a href="/events/event-2013-erika-kirk-moved-to-michigan-to-be-with-.md">Erika Kirk moved to Michigan to be with Joshua Harrelson.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2013: Erika Kirk moved to Michigan to be with Joshua Harrelson. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace E... @ 00:02:44](/episodes/ep-1hcjQGgvxUY.md#t-00-02-36)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2013-erika-kirk-said-she-became-involved-with">
+<div class="timeline-date">2013</div>
+<div class="timeline-desc"><a href="/events/event-2013-erika-kirk-said-she-became-involved-with.md">Erika Kirk said she became involved with a sex-trafficking charity in China.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2013: Erika Kirk said she became involved with a sex-trafficking charity in China. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace E... @ 00:05:12](/episodes/ep-1hcjQGgvxUY.md#t-00-05-08)
+
+</details>
+</div>
+
 **April**
 
 <div class="timeline-event filter-item" id="event-2013-04-15-boston-marathon-bombing-terrorist-attack">
@@ -34425,6 +34617,23 @@ _Total events: 804_
 </details>
 </div>
 
+**September**
+
+<div class="timeline-event filter-item" id="event-2013-09-15-erika-kirk-and-joshua-harrelson-met-15-y">
+<div class="timeline-date">2013-09-15</div>
+<div class="timeline-desc"><a href="/events/event-2013-09-15-erika-kirk-and-joshua-harrelson-met-15-y.md">Erika Kirk and Joshua Harrelson met 15-year-old Jillian Falcon.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2013-09-15: Erika Kirk and Joshua Harrelson met 15-year-old Jillian Falcon. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace E... @ 00:02:48](/episodes/ep-1hcjQGgvxUY.md#t-00-02-36)
+
+</details>
+</div>
+
 
 <h2 id="year-2014">2014</h2>
 
@@ -34473,6 +34682,149 @@ _Total events: 804_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Woah: It Was Erika Kirk Who Called For TPUSA To... @ 00:18:12](/episodes/ep-DqGNvi36ol8.md#t-00-17-32)
+
+</details>
+</div>
+
+**February**
+
+<div class="timeline-event filter-item" id="event-2014-02-13-jillian-falcon-replied-to-erika-kirk-on-">
+<div class="timeline-date">2014-02-13</div>
+<div class="timeline-desc"><a href="/events/event-2014-02-13-jillian-falcon-replied-to-erika-kirk-on-.md">Jillian Falcon replied to Erika Kirk on Twitter and posted an image Kirk sent her.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2014-02-13: Jillian Falcon replied to Erika Kirk on Twitter and posted an image Kirk sent her. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace E... @ 00:05:25](/episodes/ep-1hcjQGgvxUY.md#t-00-05-08)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2014-02-jillian-falcon-took-a-family-trip-to-pue">
+<div class="timeline-date">2014-02</div>
+<div class="timeline-desc"><a href="/events/event-2014-02-jillian-falcon-took-a-family-trip-to-pue.md">Jillian Falcon took a family trip to Puerto Rico while Erika Kirk interacted with her Instagram posts.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2014-02: Jillian Falcon took a family trip to Puerto Rico while Erika Kirk interacted with her Instagram posts. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace E... @ 00:08:07](/episodes/ep-1hcjQGgvxUY.md#t-00-07-59)
+
+</details>
+</div>
+
+**March**
+
+<div class="timeline-event filter-item" id="event-2014-03-06-jillian-falcon-posted-a-screenshot-of-te">
+<div class="timeline-date">2014-03-06</div>
+<div class="timeline-desc"><a href="/events/event-2014-03-06-jillian-falcon-posted-a-screenshot-of-te.md">Jillian Falcon posted a screenshot of text messages with Erika Kirk.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2014-03-06: Jillian Falcon posted a screenshot of text messages with Erika Kirk. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace E... @ 00:05:44](/episodes/ep-1hcjQGgvxUY.md#t-00-05-25)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2014-03-13-jillian-falcon-shared-another-screenshot">
+<div class="timeline-date">2014-03-13</div>
+<div class="timeline-desc"><a href="/events/event-2014-03-13-jillian-falcon-shared-another-screenshot.md">Jillian Falcon shared another screenshot of text messages with Erika Kirk.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2014-03-13: Jillian Falcon shared another screenshot of text messages with Erika Kirk. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace E... @ 00:06:03](/episodes/ep-1hcjQGgvxUY.md#t-00-05-25)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2014-03-26-jillian-falcon-posted-tweets-and-shared-">
+<div class="timeline-date">2014-03-26</div>
+<div class="timeline-desc"><a href="/events/event-2014-03-26-jillian-falcon-posted-tweets-and-shared-.md">Jillian Falcon posted tweets and shared an image from Erika Kirk.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2014-03-26: Jillian Falcon posted tweets and shared an image from Erika Kirk. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace E... @ 00:06:41](/episodes/ep-1hcjQGgvxUY.md#t-00-06-07)
+
+</details>
+</div>
+
+**April**
+
+<div class="timeline-event filter-item" id="event-2014-04-03-jillian-falcon-posted-a-picture-and-twee">
+<div class="timeline-date">2014-04-03</div>
+<div class="timeline-desc"><a href="/events/event-2014-04-03-jillian-falcon-posted-a-picture-and-twee.md">Jillian Falcon posted a picture and tweeted about receiving a text from Erika Kirk.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2014-04-03: Jillian Falcon posted a picture and tweeted about receiving a text from Erika Kirk. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace E... @ 00:07:01](/episodes/ep-1hcjQGgvxUY.md#t-00-06-51)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2014-04-05-jillian-falcon-posted-about-receiving-ch">
+<div class="timeline-date">2014-04-05</div>
+<div class="timeline-desc"><a href="/events/event-2014-04-05-jillian-falcon-posted-about-receiving-ch.md">Jillian Falcon posted about receiving chocolate-covered strawberries and a birthday card from Erika Kirk.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2014-04-05: Jillian Falcon posted about receiving chocolate-covered strawberries and a birthday card from Erika Kirk. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace E... @ 00:07:16](/episodes/ep-1hcjQGgvxUY.md#t-00-06-51)
+
+</details>
+</div>
+
+**June**
+
+<div class="timeline-event filter-item" id="event-2014-06-07-jillian-falcon-shared-a-text-conversatio">
+<div class="timeline-date">2014-06-07</div>
+<div class="timeline-desc"><a href="/events/event-2014-06-07-jillian-falcon-shared-a-text-conversatio.md">Jillian Falcon shared a text conversation in which Erika Kirk complimented her appearance.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2014-06-07: Jillian Falcon shared a text conversation in which Erika Kirk complimented her appearance. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace E... @ 00:07:45](/episodes/ep-1hcjQGgvxUY.md#t-00-07-16)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2014-06-jillian-falcon-tweeted-that-she-had-not-">
+<div class="timeline-date">2014-06</div>
+<div class="timeline-desc"><a href="/events/event-2014-06-jillian-falcon-tweeted-that-she-had-not-.md">Jillian Falcon tweeted that she had not seen her father in more than two years.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2014-06: Jillian Falcon tweeted that she had not seen her father in more than two years. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace E... @ 00:11:31](/episodes/ep-1hcjQGgvxUY.md#t-00-11-21)
 
 </details>
 </div>
@@ -37715,13 +38067,14 @@ _Total events: 804_
 <div class="timeline-date">2026-02-08</div>
 <div class="timeline-desc"><a href="/events/event-2026-02-08-turning-point-usa-aired-its-prerecorded-.md">Turning Point USA aired its prerecorded All-American Halftime Show as a Super Bowl halftime alternative.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-02-08: Turning Point USA aired its prerecorded All-American Halftime Show as a Super Bowl halftime alternative. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:09:57](/episodes/ep-4YgrOhhy708.md#t-00-09-30)
+- [VIRAL: Who Removed Charlie's Wedding Photo, And... @ 00:39:12](/episodes/ep-hWTdXHGQ8R4.md#t-00-38-45)
 
 </details>
 </div>
@@ -37730,13 +38083,29 @@ _Total events: 804_
 <div class="timeline-date">2026-02-09</div>
 <div class="timeline-desc"><a href="/events/event-2026-02-09-the-religious-liberty-commission-held-a-.md">The Religious Liberty Commission held a hearing on antisemitism where Carrie Prejean Boller questioned Seth Dillon under oath.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-02-09: The Religious Liberty Commission held a hearing on antisemitism where Carrie Prejean Boller questioned Seth Dillon under oath. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:31:24](/episodes/ep-4YgrOhhy708.md#t-00-31-24)
+- [VIRAL: Who Removed Charlie's Wedding Photo, And... @ 00:36:02](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-57)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-02-11-dan-patrick-announced-carrie-prejean-bol">
+<div class="timeline-date">2026-02-11</div>
+<div class="timeline-desc"><a href="/events/event-2026-02-11-dan-patrick-announced-carrie-prejean-bol.md">Dan Patrick announced Carrie Prejean Boller had been removed from the Religious Liberty Commission.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-02-11: Dan Patrick announced Carrie Prejean Boller had been removed from the Religious Liberty Commission. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [VIRAL: Who Removed Charlie's Wedding Photo, And... @ 00:35:41](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-12)
 
 </details>
 </div>

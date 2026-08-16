@@ -1,6 +1,6 @@
 ---
 title: "Cincinnati, Ohio"
-description: "Cincinnati, Ohio (Places) - 1 mention"
+description: "Cincinnati, Ohio (Places) - 2 mentions"
 id: "gpe-cincinnati-ohio"
 type: "GPE"
 aliases:
@@ -24,6 +24,14 @@ Source: [About Cincinnati | City of Cincinnati](https://www.cincinnati-oh.gov/ci
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:25:13](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-cincinnati-ohio-t-00-24-47)**
+> "...to hear from you. You guys in Cincinnati, Ohio,"
+
+</details>
 
 <details>
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (1 mentions)</summary>

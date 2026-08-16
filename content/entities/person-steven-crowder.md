@@ -1,6 +1,6 @@
 ---
 title: "Steven Crowder"
-description: "Steven Crowder (People) - 7 mentions"
+description: "Steven Crowder (People) - 9 mentions"
 id: "person-steven-crowder"
 type: "PERSON"
 aliases:
@@ -15,6 +15,17 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>
+
+**[00:57:19](/episodes/ep-1hcjQGgvxUY.md#ent-person-steven-crowder-t-00-57-11)**
+> "...inscribed with trans stuff to Steven Crowder the day after the 10th, do you think that he was ..."
+
+**[00:57:30](/episodes/ep-1hcjQGgvxUY.md#ent-person-steven-crowder-t-00-57-30)**
+> "...So it just keeps falling into Steven Crowder's lap in the same way that TMZ just kind of gets th..."
+
+</details>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
@@ -114,7 +125,15 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Steven Crowder (1)</strong></summary>
+<summary><strong class="section-title">Statements about Steven Crowder (2)</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1)</summary>
+
+- [00:57:19](/episodes/ep-1hcjQGgvxUY.md#t-00-57-11) (Accusation) **Candace Owens**: ["Candace Owens says she thinks Steven Crowder knew he was distributing ..."](/statements/statement-65babe2d7be9.md)
+  - Also about: [TMZ](/entities/org-tmz.md)
+
+</details>
 
 <details>
 <summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1)</summary>

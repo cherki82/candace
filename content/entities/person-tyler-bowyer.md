@@ -1,6 +1,6 @@
 ---
 title: "Tyler Bowyer"
-description: "Tyler Bowyer (People) - 98 mentions"
+description: "Tyler Bowyer (People) - 99 mentions"
 id: "person-tyler-bowyer"
 type: "PERSON"
 aliases:
@@ -24,6 +24,14 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:18:47](/episodes/ep-1hcjQGgvxUY.md#ent-person-tyler-bowyer-t-00-18-13)**
+> "I was around for that. It was Tyler Bowyer."
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (2 mentions)</summary>
@@ -672,7 +680,15 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Bowyer (24)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Bowyer (25)</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1)</summary>
+
+- [00:18:45](/episodes/ep-1hcjQGgvxUY.md#t-00-18-13) (Claim) **Candace Owens**: ["Tyler Bowyer handpicked the location of Turning Point USA's headquarte..."](/statements/statement-e762224537b2.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1)</summary>

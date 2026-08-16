@@ -51,7 +51,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charis Bible College (1)</strong></summary>
+<summary><strong class="section-title">Statements about Charis Bible College (2)</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1)</summary>
+
+- [00:51:58](/episodes/ep-hWTdXHGQ8R4.md#t-00-51-58) (Claim) **Candace Owens**: ["The event scheduled for the day after Utah Valley University was at Ch..."](/statements/statement-ac0c7f4d2a3b.md)
+  - Also about: [Colorado](/entities/gpe-colorado.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</details>
 
 <details>
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1)</summary>

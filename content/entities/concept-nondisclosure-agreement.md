@@ -49,3 +49,16 @@ Source: [non-disclosure agreement (NDA) | Wex | US Law | LII](https://www.law.co
 _No relationships extracted yet._
 
 </details>
+
+<details open>
+<summary><strong class="section-title">Statements about Non-disclosure agreement (1)</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1)</summary>
+
+- [00:42:03](/episodes/ep-hWTdXHGQ8R4.md#t-00-41-22) (Claim) **Anonymous Source #3 (Ep hWTdXHGQ8R4)** (via read message): ["Turning Point USA covered participants' hotel rooms but assigned rando..."](/statements/statement-0d62c39dde8e.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [The All-American Halftime Show](/entities/event-all-american-halftime-show-2026.md), [Kid Rock](/entities/person-kid-rock.md)
+
+</details>
+
+</details>

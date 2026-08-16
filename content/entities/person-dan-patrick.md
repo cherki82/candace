@@ -40,7 +40,21 @@ Source: [Lieutenant Governor of Texas Dan Patrick: About](https://www.ltgov.texa
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Fired (1)</summary>
+
+- **[Carrie Prejean Boller](/entities/person-carrie-prejean-boller.md)**
+  - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:35:38](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-12): "Here is how Dan Patrick announced it on X, ... Carrie Prejean Boller has been removed from President Trump (Donald J. Trump)'s Religious Liberty Commission. ... This was my decision."
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Carrie Prejean Boller](/entities/person-carrie-prejean-boller.md)** fired by this
+  - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:35:38](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-12)
+
+</details>
 
 </details>
 
@@ -50,10 +64,10 @@ _No relationships extracted yet._
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (2)</summary>
 
-- [00:35:41](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-12) [○] (Claim) ["Carrie Prejean Boller has been removed from President Trump's Religious Liberty ..."](/statements/statement-2ff2370d31cd.md)
+- [00:35:41](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-12) [✓] (Claim) ["Carrie Prejean Boller has been removed from President Trump's Religious Liberty ..."](/statements/statement-2ff2370d31cd.md)
   - About: [Carrie Prejean Boller](/entities/person-carrie-prejean-boller.md), [Presidential Religious Liberty Commission](/entities/org-presidential-religious-liberty-commission.md), [Donald J. Trump](/entities/person-donald-trump.md)
 
-- [00:35:57](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-57) [○] (Accusation) ["Carrie Prejean Boller hijacked the commission's antisemitism hearing for her per..."](/statements/statement-426c8bc5db16.md)
+- [00:35:57](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-57) [◐] (Accusation) ["Carrie Prejean Boller hijacked the commission's antisemitism hearing for her per..."](/statements/statement-426c8bc5db16.md)
   - About: [Carrie Prejean Boller](/entities/person-carrie-prejean-boller.md), [Presidential Religious Liberty Commission](/entities/org-presidential-religious-liberty-commission.md), [Antisemitism](/entities/concept-antisemitism.md)
 
 </details>

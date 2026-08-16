@@ -1,6 +1,6 @@
 ---
 title: "Twitter"
-description: "Twitter (Organizations) - 27 mentions"
+description: "Twitter (Organizations) - 30 mentions"
 id: "org-twitter"
 type: "ORG"
 aliases:
@@ -17,6 +17,20 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (3 mentions)</summary>
+
+**[00:21:40](/episodes/ep-1hcjQGgvxUY.md#ent-org-twitter-t-00-21-36)**
+> "...cular to break her years-long Twitter silence."
+
+**[00:23:01](/episodes/ep-1hcjQGgvxUY.md#ent-org-twitter-t-00-22-45)**
+> "...id suddenly want to break her Twitter silence and she's very,"
+
+**[00:26:03](/episodes/ep-1hcjQGgvxUY.md#ent-org-twitter-t-00-25-28)**
+> "...tember 8th when she broke her Twitter silence,"
+
+</details>
 
 <details>
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
@@ -208,7 +222,18 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Twitter (2)</strong></summary>
+<summary><strong class="section-title">Statements about Twitter (4)</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2)</summary>
+
+- [00:21:40](/episodes/ep-1hcjQGgvxUY.md#t-00-21-36) (Claim) **Candace Owens**: ["Erika Kirk had not authored a tweet since 2023 and broke that silence ..."](/statements/statement-5f58859cf4b9.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:22:32](/episodes/ep-1hcjQGgvxUY.md#t-00-22-02) (Claim) **Candace Owens**: ["On the day Charlie Kirk was assassinated, Erika Kirk tweeted at 9:45 a..."](/statements/statement-32a5c5f80f7b.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>

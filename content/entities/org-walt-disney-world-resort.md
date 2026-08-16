@@ -1,6 +1,6 @@
 ---
 title: "Walt Disney World Resort"
-description: "Walt Disney World Resort (Organizations) - 3 mentions"
+description: "Walt Disney World Resort (Organizations) - 4 mentions"
 id: "org-walt-disney-world-resort"
 type: "ORG"
 aliases:
@@ -25,6 +25,14 @@ Source: [Walt Disney World Resort - Official Site](https://disneyworld.disney.go
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:44:53](/episodes/ep-1hcjQGgvxUY.md#ent-org-walt-disney-world-resort-t-00-44-37)**
+> "... Florida. I take my family to Disney World,"
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1 mentions)</summary>

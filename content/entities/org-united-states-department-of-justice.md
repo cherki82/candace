@@ -1,6 +1,6 @@
 ---
 title: "United States Department of Justice"
-description: "United States Department of Justice (Organizations) - 7 mentions"
+description: "United States Department of Justice (Organizations) - 10 mentions"
 id: "org-united-states-department-of-justice"
 type: "ORG"
 aliases:
@@ -26,6 +26,20 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (3 mentions)</summary>
+
+**[00:30:31](/episodes/ep-1hcjQGgvxUY.md#ent-org-united-states-department-of-justice-t-00-29-58)**
+> "...ke, what if I searched in the DOJ files the term color of the day?"
+
+**[00:32:16](/episodes/ep-1hcjQGgvxUY.md#ent-org-united-states-department-of-justice-t-00-32-12)**
+> "...e said he's going through the DOJ files. Who knows if that particular reference was..."
+
+**[00:43:43](/episodes/ep-1hcjQGgvxUY.md#ent-org-united-states-department-of-justice-t-00-43-07)**
+> "...Epstein associates cut secret DOJ deals."
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (5 mentions)</summary>
@@ -87,7 +101,18 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Department of Justice (3)</strong></summary>
+<summary><strong class="section-title">Statements about United States Department of Justice (5)</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2)</summary>
+
+- [00:30:37](/episodes/ep-1hcjQGgvxUY.md#t-00-30-37) (Citation) **Anonymous Source #2 (Ep 1hcjQGgvxUY)**: ["An anonymous TikTok creator says 40 FBI briefings mention a color of t..."](/statements/statement-09584b6cf183.md)
+  - Also about: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:43:43](/episodes/ep-1hcjQGgvxUY.md#t-00-43-07) (Claim) **Jared Moskowitz**: ["Ghislaine Maxwell says 29 Epstein associates cut secret Justice Depart..."](/statements/statement-8bfdc85db6dc.md)
+  - Also about: [Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1)</summary>

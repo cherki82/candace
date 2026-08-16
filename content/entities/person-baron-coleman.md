@@ -1,6 +1,6 @@
 ---
 title: "Baron Coleman"
-description: "Baron Coleman (People) - 45 mentions"
+description: "Baron Coleman (People) - 52 mentions"
 id: "person-baron-coleman"
 type: "PERSON"
 aliases:
@@ -24,6 +24,32 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (7 mentions)</summary>
+
+**[00:00:11](/episodes/ep-1hcjQGgvxUY.md#ent-person-baron-coleman-t-00-00-00)**
+> "...arge influx of emails because Baron Coleman had a bit of a viral episode regarding a seemingl..."
+
+**[00:00:34](/episodes/ep-1hcjQGgvxUY.md#ent-person-baron-coleman-t-00-00-00)**
+> "Baron Coleman was very clear. He gave specific instructions to ..."
+
+**[00:02:01](/episodes/ep-1hcjQGgvxUY.md#ent-person-baron-coleman-t-00-01-26)**
+> "Baron Coleman picked it up. I love it. We're all just pooling i..."
+
+**[00:55:23](/episodes/ep-1hcjQGgvxUY.md#ent-person-baron-coleman-t-00-54-45)**
+> "...oll (Ian Carroll) or Coleman (Baron Coleman) ticket."
+
+**[00:55:39](/episodes/ep-1hcjQGgvxUY.md#ent-person-baron-coleman-t-00-55-30)**
+> "...ll (Ian Carroll) and Coleman (Baron Coleman), is probably because they're not in D.C. and the..."
+
+**[00:55:48](/episodes/ep-1hcjQGgvxUY.md#ent-person-baron-coleman-t-00-55-30)**
+> "I am making that up, Baron Coleman."
+
+**[01:00:01](/episodes/ep-1hcjQGgvxUY.md#ent-person-baron-coleman-t-00-59-51)**
+> "...ike I sat there and I watched Baron Coleman he was so clear he said do not again I'm going to..."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>

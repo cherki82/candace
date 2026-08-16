@@ -4,9 +4,10 @@ description: "\"The claim that Charlie Kirk used a different messaging app is fa
 statement_id: "statement-16c056171d54"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "false"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✗ False
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Transcript context shows the claim reasons that because Dan Flood used iMessage, Charlie Kirk did not use another messaging app. That inference is directly contradicted by reporting on authenticated group messages sent through WhatsApp. One contact using iMessage cannot disprove use of other apps.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Turning Point](https://harpers.org/archive/2026/01/turning-point-andrew-cockburn-israel-gop-consensus/)
+
+*Verified: 2026-08-16T10:43:43.391839*
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Ghislaine Maxwell"
-description: "Ghislaine Maxwell (People) - 6 mentions"
+description: "Ghislaine Maxwell (People) - 9 mentions"
 id: "person-ghislaine-maxwell"
 type: "PERSON"
 categories:
@@ -20,6 +20,20 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (3 mentions)</summary>
+
+**[00:42:12](/episodes/ep-1hcjQGgvxUY.md#ent-person-ghislaine-maxwell-t-00-41-41)**
+> "...General to meet with Maxwell (Ghislaine Maxwell)."
+
+**[00:43:43](/episodes/ep-1hcjQGgvxUY.md#ent-person-ghislaine-maxwell-t-00-43-07)**
+> "Ghislaine Maxwell says 29 Epstein associates cut secret DOJ deals."
+
+**[00:43:55](/episodes/ep-1hcjQGgvxUY.md#ent-person-ghislaine-maxwell-t-00-43-52)**
+> "Maxwell (Ghislaine Maxwell) recently tells a House Oversight Committee that ..."
+
+</details>
 
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
@@ -88,7 +102,15 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Ghislaine Maxwell (3)</strong></summary>
+<summary><strong class="section-title">Statements about Ghislaine Maxwell (4)</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1)</summary>
+
+- [00:43:43](/episodes/ep-1hcjQGgvxUY.md#t-00-43-07) (Claim) **Jared Moskowitz**: ["Ghislaine Maxwell says 29 Epstein associates cut secret Justice Depart..."](/statements/statement-8bfdc85db6dc.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [United States Department of Justice](/entities/org-united-states-department-of-justice.md)
+
+</details>
 
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>

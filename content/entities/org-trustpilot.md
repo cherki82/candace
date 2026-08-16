@@ -1,6 +1,6 @@
 ---
 title: "Trustpilot"
-description: "Trustpilot (Organizations) - 8 mentions"
+description: "Trustpilot (Organizations) - 10 mentions"
 id: "org-trustpilot"
 type: "ORG"
 categories:
@@ -20,6 +20,17 @@ Source: [Trustpilot Trust Centre](https://corporate.trustpilot.com/trust)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>
+
+**[00:28:29](/episodes/ep-1hcjQGgvxUY.md#ent-org-trustpilot-t-00-28-21)**
+> "...t holds a five-star rating on Trustpilot."
+
+**[00:28:30](/episodes/ep-1hcjQGgvxUY.md#ent-org-trustpilot-t-00-28-21)**
+> "...t holds a five-star rating on Trustpilot."
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1 mentions)</summary>

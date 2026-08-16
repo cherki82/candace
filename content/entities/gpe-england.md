@@ -1,6 +1,6 @@
 ---
 title: "England"
-description: "England (Places) - 5 mentions"
+description: "England (Places) - 6 mentions"
 id: "gpe-england"
 type: "GPE"
 categories:
@@ -20,6 +20,14 @@ Source: [People and places: Countries and regions | Office for National Statisti
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:59:11](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-england-t-00-59-08)**
+> "...at we have a romantic idea of england that's why i married you you guys have beef is it..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (1 mentions)</summary>

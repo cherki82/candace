@@ -11,7 +11,7 @@ date: "2025-09-09"
 
 > Charlie Kirk texted TPUSA employees that he wanted to invite Candace Owens to AmericaFest.
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Cand...
 
@@ -36,3 +36,11 @@ date: "2025-09-09"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(337);return false;">▶️ Play</a>
 
 > he wants Candace back at AmFest that year after the Zionist peer pressure
+
+### 4. VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Canda...
+
+**Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
+**Timestamp:** [00:19:50](/episodes/ep-hWTdXHGQ8R4.md#event-event-2025-09-09-charlie-kirk-texted-tpusa-employees-that-t-00-19-32) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1190);return false;">▶️ Play</a>
+
+> him communicating to people that he wanted to bring me back to AMFest.

@@ -1,6 +1,6 @@
 ---
 title: "Barack Obama"
-description: "Barack Obama (People) - 4 mentions"
+description: "Barack Obama (People) - 7 mentions"
 id: "person-barack-obama"
 type: "PERSON"
 aliases:
@@ -26,6 +26,20 @@ Source: [Barack Obama | whitehouse.gov](https://obamawhitehouse.archives.gov/160
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (3 mentions)</summary>
+
+**[00:41:57](/episodes/ep-1hcjQGgvxUY.md#ent-person-barack-obama-t-00-41-41)**
+> "He blamed Barack Obama."
+
+**[00:46:43](/episodes/ep-1hcjQGgvxUY.md#ent-person-barack-obama-t-00-46-41)**
+> "...his has been around since the Obama administration."
+
+**[00:48:56](/episodes/ep-1hcjQGgvxUY.md#ent-person-barack-obama-t-00-48-47)**
+> "...heaper than it was during the Obama era."
+
+</details>
 
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>

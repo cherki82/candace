@@ -22,7 +22,7 @@ veracity: "mixed"
 ## About
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
-- [Tyler James Robinson](/entities/person-tyler-james-robinson.md) (person)
+- [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 - [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md) (org)
 
 ## Source

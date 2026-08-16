@@ -1,6 +1,6 @@
 ---
 title: "Harry Potter"
-description: "Harry Potter (Works & Media) - 1 mention"
+description: "Harry Potter (Works & Media) - 2 mentions"
 id: "work-harry-potter"
 type: "WORK"
 aliases:
@@ -25,6 +25,14 @@ Source: [Writing | J.K. Rowling](https://www.jkrowling.com/writing/)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:44:15](/episodes/ep-1hcjQGgvxUY.md#ent-work-harry-potter-t-00-43-52)**
+> "...imes in the Epstein file than Harry Potter's name appears in the seven books about Harry Potte..."
+
+</details>
 
 <details>
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (1 mentions)</summary>

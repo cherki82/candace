@@ -13,10 +13,10 @@ This project uses AI to transcribe sources, extract entities, track statements, 
 ## Browse
 
 - **[Episodes](/index/episodes)** - 78 indexed episodes
-- **[Entities](/index/entities)** - 2088 people, organizations, and concepts
-- **[Timeline](/index/timeline)** - 804 events in chronological order
-- **[Statements](/index/statements)** - 2419 attributed statements
-- **[Relationships](/index/relationships)** - 1798 entity relationships
+- **[Entities](/index/entities)** - 2120 people, organizations, and concepts
+- **[Timeline](/index/timeline)** - 827 events in chronological order
+- **[Statements](/index/statements)** - 2476 attributed statements
+- **[Relationships](/index/relationships)** - 1824 entity relationships
 
 ---
 
@@ -24,4 +24,4 @@ This project uses AI to transcribe sources, extract entities, track statements, 
 > Information should be independently verified. Entity identifications and statement
 > extractions may contain errors.
 
-*Last regenerated: 2026-08-16 10:20:28*
+*Last regenerated: 2026-08-16 11:28:11*

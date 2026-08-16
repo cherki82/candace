@@ -1,6 +1,6 @@
 ---
 title: "Baal"
-description: "Baal (Concepts) - 11 mentions"
+description: "Baal (Concepts) - 13 mentions"
 id: "concept-baal"
 type: "CONCEPT"
 categories:
@@ -19,6 +19,17 @@ Source: [Encyclopaedia Britannica: Baal](https://www.britannica.com/topic/Baal-a
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>
+
+**[00:41:02](/episodes/ep-1hcjQGgvxUY.md#ent-concept-baal-t-00-40-58)**
+> "...es, really the occult and the Baal worshippers. And I'm clearly not a Democrat."
+
+**[00:48:27](/episodes/ep-1hcjQGgvxUY.md#ent-concept-baal-t-00-48-03)**
+> "There's all this Baal worship."
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (2 mentions)</summary>

@@ -28,7 +28,7 @@ _No relationships extracted yet._
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1)</summary>
 
 - [00:10:58](/episodes/ep-HYn0P-P1wUw.md#t-00-10-27) [✓] (Claim) ["Tyler Robinson's grandmother said that he did not fire guns and did not commit C..."](/statements/statement-7f09228a0058.md)
-  - About: [Tyler James Robinson](/entities/person-tyler-james-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
@@ -41,7 +41,7 @@ _No relationships extracted yet._
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1)</summary>
 
 - [00:10:33](/episodes/ep-HYn0P-P1wUw.md#t-00-10-27) (Opinion) **Candace Owens**: ["Tyler Robinson may have gone to his grandmother's house after leaving ..."](/statements/statement-d3d1fc988477.md)
-  - Also about: [Tyler James Robinson](/entities/person-tyler-james-robinson.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </details>
 

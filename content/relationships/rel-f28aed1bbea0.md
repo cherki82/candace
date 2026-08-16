@@ -11,7 +11,11 @@ object: "person-tracy-martin"
 
 ## [Erika Kirk](/entities/person-erika-kirk) friend of [Tracy Martin](/entities/person-tracy-martin)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
+
+**[Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY)**
+
+- [00:19:03](/episodes/ep-1hcjQGgvxUY#t-00-19-03): _Tracy Martin, Erica (Erika Kirk)'s best friend_
 
 **[Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708)**
 

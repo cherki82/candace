@@ -4,9 +4,10 @@ description: "\"The night before Charlie Kirk's tour, Charlie and Erika Kirk fol
 statement_id: "statement-6e76f964a81d"
 speaker: "Erika Kirk"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Transcript context directly captures Erika Kirk's first-person account that they followed their usual pre-tour practice of prayer for protection and God's will. Current transcript sources reproduce the statement. It concerns a private practice and rests on one participant's account, so confidence is medium.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Candace Owens Was Right All Along – Erika Kirk's Cell Phone Lie Collapses LIVE](https://www.listennotes.com/podcasts/liberty-lockdown/candace-owens-was-right-all-UG3dOlyR0BH/)
+
+*Verified: 2026-08-16T10:43:43.061315*
 
 ---
 

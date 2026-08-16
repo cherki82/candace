@@ -4,9 +4,10 @@ description: "\"The Likud party is a team of mass murderers whose members have b
 statement_id: "statement-36831386be8f"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -33,7 +34,21 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Transcript context uses 'Likud party' as a sweeping label for Israeli state and military conduct. The ICC found reasonable grounds for alleged murder and attacks on civilians by Netanyahu and Gallant, and a UN committee documented leaked video allegedly showing Israeli soldiers sexually assaulting a detainee. But the public record does not establish that the soldiers were Likud members or that the party itself is literally a team whose members committed every alleged act.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [ICC issues warrants for Benjamin Netanyahu and Yoav Gallant](https://www.icc-cpi.int/news/situation-state-palestine-icc-pre-trial-chamber-i-rejects-state-israels-challenges)
+- [UN Committee against Torture dialogue on Israel](https://docstore.ohchr.org/SelfServices/FilesHandler.ashx?enc=OnSStu6y1NTUTlaEBHNgrIYdYuWRpevzWDJAm%2Bsc16RVMXx%2FdeeZDJnp2ndBMIBKc8fKUXxK7OO8Q20hyaSnYg%3D%3D)
+
+*Verified: 2026-08-16T10:43:44.755237*
 
 ---
 

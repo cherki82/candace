@@ -766,7 +766,15 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah Valley University (11)</strong></summary>
+<summary><strong class="section-title">Statements about Utah Valley University (12)</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1)</summary>
+
+- [00:51:58](/episodes/ep-hWTdXHGQ8R4.md#t-00-51-58) (Claim) **Candace Owens**: ["The event scheduled for the day after Utah Valley University was at Ch..."](/statements/statement-ac0c7f4d2a3b.md)
+  - Also about: [Charis Bible College](/entities/org-charis-bible-college.md), [Colorado](/entities/gpe-colorado.md)
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (1)</summary>

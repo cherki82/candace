@@ -7,7 +7,6 @@ aliases:
   - "Israelis"
   - "Israeli"
   - "Israel"
-  - "pro-Israel"
   - "state of Israel"
 categories:
   - "country"
@@ -16,7 +15,7 @@ categories:
 
 _Type: Places_
 
-**Also known as:** Israelis, Israeli, Israel, pro-Israel, state of Israel
+**Also known as:** Israelis, Israeli, Israel, state of Israel
 
 **Categories:** country, Middle East
 
@@ -919,7 +918,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:07:48](/episodes/ep-es7PWdFGoFI.md#ent-gpe-israel-t-00-07-21)**
 > "...e going to be the reason that Israel gets TikTok because you guys are acting a fool al..."
 
-**[00:08:38](/episodes/ep-es7PWdFGoFI.md#ent-gpe-israel-t-00-08-38)**
+**[00:08:38](/episodes/ep-es7PWdFGoFI.md#ent-gpe-israel-t-00-07-21)**
 > "...that are going to present the pro-Israel cause and talk about anti-Semitism and talk about..."
 
 **[00:34:25](/episodes/ep-es7PWdFGoFI.md#ent-gpe-israel-t-00-34-13)**
@@ -1282,7 +1281,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:46:00](/episodes/ep-581dILVcEE4.md#ent-gpe-israel-t-00-45-45)**
 > "...nt max, and by max I mean just said like basic American principles—like we shouldn't be worshipping Israel, that the Epstein files should be released, and that obviously our relationship is not America-firs..."
 
-**[00:47:01](/episodes/ep-581dILVcEE4.md#ent-gpe-israel-t-00-46-30)**
+**[00:47:01](/episodes/ep-581dILVcEE4.md#ent-gpe-israel-t-00-45-45)**
 > "...hernick is married to Aubrey Chernick. He's a software tech billionaire guy. They fund a variety of pro-Israel causes through the David Horowitz Freedom Center. So that was another donor who went, "Bye-bye, Cha..."
 
 **[00:50:21](/episodes/ep-581dILVcEE4.md#ent-gpe-israel-t-00-50-03)**
@@ -1441,10 +1440,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details>
 <summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (32 mentions)</summary>
 
-**[00:00:12](/episodes/ep-r1PS67aRmcA.md#ent-gpe-israel-t-00-00-00)**
+**[00:00:12](/episodes/ep-r1PS67aRmcA.md#ent-gpe-israel-t-00-01-26)**
 > "...'ve suffered a centuries-old anti-Black trope. That's how this works, right? Like, if you're in the pro-Israel lobby and you deal with any sort of pushback or flak, you gotta fall to the ground and cry victim. ..."
 
-**[00:00:37](/episodes/ep-r1PS67aRmcA.md#ent-gpe-israel-t-00-00-00)**
+**[00:00:37](/episodes/ep-r1PS67aRmcA.md#ent-gpe-israel-t-00-01-26)**
 > "...st has nothing. So he lies and tries to pressure Megyn to respond to the lies. All I can say is the pro-Israel lobby is down real bad. They're writing fan fiction. They're like, it's like Benjamin Netanyahu fan..."
 
 **[00:01:40](/episodes/ep-r1PS67aRmcA.md#ent-gpe-israel-t-00-01-26)**
@@ -1459,25 +1458,25 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:11:11](/episodes/ep-r1PS67aRmcA.md#ent-gpe-israel-t-00-10-50)**
 > "...mptons meeting and that he was pushing; he was pressuring Charlie (Charlie Kirk) about the topic of Israel. I never once accused Seth Dillon of murdering Charlie (Charlie Kirk). So what's he actually doing ..."
 
-**[00:11:35](/episodes/ep-r1PS67aRmcA.md#ent-gpe-israel-t-00-11-35)**
+**[00:11:35](/episodes/ep-r1PS67aRmcA.md#ent-gpe-israel-t-00-10-50)**
 > "...more that's happening that meets the eye, because Ben Shapiro was effectively the final boss of the pro-Israel lobby, and it's because he never comes out and says what he means. He's kind of like more of a behi..."
 
 **[00:21:35](/episodes/ep-r1PS67aRmcA.md#ent-gpe-israel-t-00-21-35)**
 > "...ucker (Tucker Carlson), and now the whole world knows this story. He started asking questions about Israel and he got artificially pushed out of the market when he had his whole life ahead of him, okay? And..."
 
-**[00:23:27](/episodes/ep-r1PS67aRmcA.md#ent-gpe-israel-t-00-23-01)**
+**[00:23:27](/episodes/ep-r1PS67aRmcA.md#ent-gpe-israel-t-00-21-35)**
 > "... and going back to the making it sound like Ben's got a popular position about me. I sense that the pro-Israel lobby is on the brink of collapse. They are desperate for allies, right? And they're so desperate f..."
 
-**[00:23:52](/episodes/ep-r1PS67aRmcA.md#ent-gpe-israel-t-00-23-46)**
+**[00:23:52](/episodes/ep-r1PS67aRmcA.md#ent-gpe-israel-t-00-21-35)**
 > "...ie to get what they want. Ben is lying right now to get what he wants. And for whatever reason, the pro-Israel lobby believes that this repeat failed strategy of lying and threatening people is going to work. N..."
 
-**[00:28:26](/episodes/ep-r1PS67aRmcA.md#ent-gpe-israel-t-00-28-09)**
+**[00:28:26](/episodes/ep-r1PS67aRmcA.md#ent-gpe-israel-t-00-21-35)**
 > "...stions and trying to get her to disavow Tucker (Tucker Carlson). That is not organic, okay? That is pro-Israel people that are paid to do it. Honestly, Megyn, if you're watching, you give me the list of your at..."
 
 **[00:29:02](/episodes/ep-r1PS67aRmcA.md#ent-gpe-israel-t-00-28-46)**
 > "...f Tucker (Tucker Carlson) left you on read and you want to come on this show and you want to debate Israel and you want to discuss Erika Kirk and the things I never said, if you want to discuss your relatio..."
 
-**[00:32:20](/episodes/ep-r1PS67aRmcA.md#ent-gpe-israel-t-00-32-20)**
+**[00:32:20](/episodes/ep-r1PS67aRmcA.md#ent-gpe-israel-t-00-28-46)**
 > ".... I don't work with Megyn Kelly, but I know how this goes. It's the exact same process by which the pro-Israel lobby lost Charlie (Charlie Kirk) because eventually you just get tired of being bullied and you st..."
 
 **[00:33:42](/episodes/ep-r1PS67aRmcA.md#ent-gpe-israel-t-00-33-42)**
@@ -1534,7 +1533,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:50:48](/episodes/ep-r1PS67aRmcA.md#ent-gpe-israel-t-00-48-57)**
 > "... growing up. Tom Simpson writes, "Are we sure Fuentes being pushed isn't as an op to smear the anti-Israel dissident right by association? I don't think he's in on it, but persona non grata for years and th..."
 
-**[00:53:34](/episodes/ep-r1PS67aRmcA.md#ent-gpe-israel-t-00-53-14)**
+**[00:53:34](/episodes/ep-r1PS67aRmcA.md#ent-gpe-israel-t-00-48-57)**
 > "...say you can speak to Nick Fuentes. None of it makes any sense. And genuinely, it's just because the pro-Israel lobby is on its way out. People don't like them anymore because of these tactics, because they're n..."
 
 </details>
@@ -1542,7 +1541,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (2 mentions)</summary>
 
-**[00:03:27](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-israel-t-00-02-51)**
+**[00:03:27](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-israel-t-00-59-48)**
 > "...w the crowd is doing this, but I'm not doing it." And that was me when I no longer wanted to do the pro-Israel thing. Of course, as always, I thank Ben Shapiro. I thank Jeremy Boreing. I thank the Daily Wire an..."
 
 **[01:00:09](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-israel-t-00-59-48)**
@@ -1553,7 +1552,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (36 mentions)</summary>
 
-**[00:06:31](/episodes/ep-LATnak75Si0.md#ent-gpe-israel-t-00-06-20)**
+**[00:06:31](/episodes/ep-LATnak75Si0.md#ent-gpe-israel-t-00-11-48)**
 > "...e the apparent plan was to assassinate Charlie (Charlie Kirk), who had at long last faltered on the pro-Israel cause. Okay, his words, not mine. And then to stage a hostile takeover of his brand and of his lega..."
 
 **[00:11:48](/episodes/ep-LATnak75Si0.md#ent-gpe-israel-t-00-11-48)**
@@ -1634,13 +1633,13 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:26:39](/episodes/ep-LATnak75Si0.md#ent-gpe-israel-t-00-19-10)**
 > "...an, what is wrong with these people? I am telling you, there is no way that we can break bread. The Israel-first movement—like I said—is a true cancer. It just wants to destroy. There is so much hate. But I..."
 
-**[00:46:55](/episodes/ep-LATnak75Si0.md#ent-gpe-israel-t-00-46-55)**
+**[00:46:55](/episodes/ep-LATnak75Si0.md#ent-gpe-israel-t-00-19-10)**
 > "...I said earlier, is: pay very close attention because all of the wrong people—and by this I mean the pro-Israel crowd—are signaling hard to us that another 9/11 is coming. They're jacking up the jihad rhetoric: ..."
 
 **[00:49:17](/episodes/ep-LATnak75Si0.md#ent-gpe-israel-t-00-48-57)**
 > "...gain on people, on places, and on things that she sees with her own eyes—as long as she defends the state of Israel, which has absolutely nothing to do with her and her ethnicity—which is insane, okay? On top of tha..."
 
-**[00:49:44](/episodes/ep-LATnak75Si0.md#ent-gpe-israel-t-00-49-34)**
+**[00:49:44](/episodes/ep-LATnak75Si0.md#ent-gpe-israel-t-00-48-57)**
 > "...ing—along with many others—that there's gonna be another 9/11. (Clip of Josh Hammer) And again, the pro-Israel crowd would know a little something about that. Take a listen to what Josh Hammer said. "New York C..."
 
 **[00:55:40](/episodes/ep-LATnak75Si0.md#ent-gpe-israel-t-00-55-13)**
@@ -1808,7 +1807,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:08:42](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-israel-t-00-08-14)**
 > "...at I think this is relevant. Rob McCoy hosts the first-ever Turning Point USA Faith Pastors Tour of Israel. He's guiding a group of pastors through Jerusalem. On February 20th, I think this might be relevan..."
 
-**[00:12:40](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-israel-t-00-12-27)**
+**[00:12:40](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-israel-t-00-08-14)**
 > "...th what's going on in the world today." And she's been calling people out left and right. She's not pro-Israel. She's also a Catholic. And when her and I spoke about this Turning Point thing, she said, "Are you..."
 
 **[00:18:15](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-israel-t-00-17-41)**
@@ -1829,22 +1828,22 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:32:52](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-israel-t-00-31-52)**
 > "...lie Kirk). Charlie (Charlie Kirk) then gets the full donor squeeze. "You are not allowed to be anti-Israel." This feels like a good time to mention that the last time that I spoke at Turning Point USA's con..."
 
-**[00:33:51](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-israel-t-00-33-17)**
+**[00:33:51](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-israel-t-00-31-52)**
 > "...I'm like pro-conversation." And Tyler said to me, "Turning Point USA will never—will just always be pro-Israel. Like we're just never not gonna be pro-Israel." Didn't think anything of it at the time, but in re..."
 
-**[00:33:58](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-israel-t-00-33-17)**
+**[00:33:58](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-israel-t-00-31-52)**
 > "... but in retrospect, it's kind of a weird thing to say. Like, what do you mean it will never be anti-Israel? What do you mean it will always be pro-Israel? That's just what we are. We're pro-Israel. What do ..."
 
-**[00:34:00](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-israel-t-00-33-17)**
+**[00:34:00](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-israel-t-00-31-52)**
 > "...ing to say. Like, what do you mean it will never be anti-Israel? What do you mean it will always be pro-Israel? That's just what we are. We're pro-Israel. What do you mean that's just what we are? You're suppos..."
 
-**[00:34:01](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-israel-t-00-34-01)**
+**[00:34:01](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-israel-t-00-31-52)**
 > "...never be anti-Israel? What do you mean it will always be pro-Israel? That's just what we are. We're pro-Israel. What do you mean that's just what we are? You're supposed to be an organization that's dedicated t..."
 
-**[00:34:28](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-israel-t-00-34-01)**
+**[00:34:28](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-israel-t-00-31-52)**
 > "... And so I'm just trying to understand this concept that Turning Point is just never going to not be pro-Israel. Actually, in retrospect— and so if we fast forward a year later—Tucker (Tucker Carlson)'s on the s..."
 
-**[00:35:03](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-israel-t-00-34-46)**
+**[00:35:03](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-israel-t-00-31-52)**
 > "... they're basically saying, "Charlie (Charlie Kirk), this can never happen again. And you have to be pro-Israel." That's kind of the vibes that they're putting down, okay? That happens July 11th, and now our pla..."
 
 **[00:36:05](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-israel-t-00-35-27)**
@@ -1915,10 +1914,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:38:52](/episodes/ep-iHav0PPzUz8.md#ent-gpe-israel-t-00-38-52)**
 > "...is is like ridiculous. Yes. He's making a point that he thinks that actually the Christians who put Israel above their own government and believe that like only Jesus can come back if the Jews control the a..."
 
-**[00:39:12](/episodes/ep-iHav0PPzUz8.md#ent-gpe-israel-t-00-39-12)**
+**[00:39:12](/episodes/ep-iHav0PPzUz8.md#ent-gpe-israel-t-00-38-52)**
 > "...ie (Charlie Kirk) was killed, he was explicit in saying he was left with no choice but to leave the pro-Israel cause, which would mean he didn't die a Christian Zionist, right? Common sense: Charlie (Charlie Ki..."
 
-**[00:39:47](/episodes/ep-iHav0PPzUz8.md#ent-gpe-israel-t-00-39-12)**
+**[00:39:47](/episodes/ep-iHav0PPzUz8.md#ent-gpe-israel-t-00-38-52)**
 > "...'t want another Tucker (Tucker Carlson) or Candace (Candace Owens)—people who were very much in the pro-Israel camp and left it because we could not stand your immorality. We could not stand your lies. And we c..."
 
 **[00:46:09](/episodes/ep-iHav0PPzUz8.md#ent-gpe-israel-t-00-45-50)**
@@ -1927,7 +1926,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:47:17](/episodes/ep-iHav0PPzUz8.md#ent-gpe-israel-t-00-46-44)**
 > "... very, very, very excited about that. You're going to love it. It's like I said—even if you support Israel, and that is perfectly your right—I think that you will become educated on a topic that has been by..."
 
-**[00:47:30](/episodes/ep-iHav0PPzUz8.md#ent-gpe-israel-t-00-47-29)**
+**[00:47:30](/episodes/ep-iHav0PPzUz8.md#ent-gpe-israel-t-00-46-44)**
 > "...ans are ignorant on this topic too because that's how this was designed. That's how this whole like pro-Israel matrix was designed to keep us dumb. Just want to shout out before we go to some more sponsors that..."
 
 **[00:56:09](/episodes/ep-iHav0PPzUz8.md#ent-gpe-israel-t-00-55-55)**
@@ -1950,10 +1949,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:12:19](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-israel-t-00-11-50)**
 > "...urther into this death." In fact, I'll challenge you. Do me a favor. Find me one—just one—real-life pro-Israel individual who is expressing that they don't believe that Charlie Kirk was killed by Tyler Robinson..."
 
-**[00:12:41](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-israel-t-00-12-33)**
+**[00:12:41](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-israel-t-00-11-50)**
 > "...re the shot, that Tyler Robinson didn't use a .30-06. Find me just one person with a platform who's pro-Israel and says, "I want this investigation into his death to continue." It's a bit weird, right? It's a b..."
 
-**[00:31:08](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-israel-t-00-31-08)**
+**[00:31:08](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-israel-t-00-11-50)**
 > "...hink they insisted and are pressuring them—as we are hearing—to maintain the idea that Charlie died pro-Israel. But to do that—to have the stomach to do that—to know that you knew where he was buried and attend..."
 
 **[00:38:57](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-israel-t-00-38-57)**
@@ -1988,10 +1987,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (8 mentions)</summary>
 
-**[00:12:11](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-israel-t-00-12-11)**
+**[00:12:11](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-israel-t-00-20-40)**
 > "... can tell you that right away, and I learned that very quickly. But at the time, Charlie and I were pro-Israel. That's, I think, kind of relevant. And we were just so amazed by the tweet that we thought all of ..."
 
-**[00:12:23](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-israel-t-00-12-11)**
+**[00:12:23](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-israel-t-00-20-40)**
 > "Charlie and I were pro-Israel"
 
 **[00:20:56](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-israel-t-00-20-40)**
@@ -2003,7 +2002,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[01:04:51](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-israel-t-01-04-15)**
 > "...husband—think about this. My husband used to work with—and he used to donate to—like the friends of Israel when he was in the UK, and he married me. And so, yeah—I mean, I would say I was pro-Israel when we..."
 
-**[01:04:53](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-israel-t-01-04-53)**
+**[01:04:53](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-israel-t-01-04-15)**
 > "... friends of Israel when he was in the UK, and he married me. And so, yeah—I mean, I would say I was pro-Israel when we met, but life has changed dramatically, and he has been there and has always supported me. ..."
 
 **[01:06:16](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-israel-t-01-05-37)**
@@ -2088,10 +2087,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:52:43](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-israel-t-00-52-05)**
 > "...se. He's like, "I genuinely thought that there's no way Charlie (Charlie Kirk) would ever leave the pro-Israel lobby—first and foremost, his support for Israel." "He loved it so much." "So it's like, you must h..."
 
-**[00:52:56](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-israel-t-00-52-50)**
+**[00:52:56](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-israel-t-00-52-05)**
 > "... which felt too on the nose to Matt Walsh in that text message." "I have no choice but to leave the pro-Israel cause." And anyways, he gave some very sage advice—which is not going to be heeded by the Josh Hamm..."
 
-**[00:53:16](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-israel-t-00-53-16)**
+**[00:53:16](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-israel-t-00-52-05)**
 > "...(Clip: Matt Walsh) Take a listen to what Matt Walsh had to say. And at some point, if you're on the pro-Israel side, you really need to be honest with yourself and engage in some actual honest self-reflection a..."
 
 </details>
@@ -2222,7 +2221,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:33:11](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-israel-t-00-32-53)**
 > "...rlie (Charlie Kirk), like I said, when he got into this—like when I got into this—we were genuinely pro-Israel. There was nothing—there was not payment that was coming in. Was I ignorant? Yes. I've owned that a..."
 
-**[00:33:54](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-israel-t-00-33-35)**
+**[00:33:54](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-israel-t-00-32-53)**
 > "... 48 hours before he died, Charlie (Charlie Kirk) announces that he has no choice but to abandon the pro-Israel cause because of Jewish donors and their behavior—living up to these stereotypes. And despite this ..."
 
 **[00:36:29](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-israel-t-00-36-16)**
@@ -2281,7 +2280,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:07:03](/episodes/ep-5autG89PW6w.md#ent-gpe-israel-t-00-06-51)**
 > "... never changes mind." "He was committed to Israel to the day he died." "In fact, he almost died for Israel." That was the vibe they were putting down. I was getting angrier and angrier and angrier, but self..."
 
-**[00:09:10](/episodes/ep-5autG89PW6w.md#ent-gpe-israel-t-00-09-04)**
+**[00:09:10](/episodes/ep-5autG89PW6w.md#ent-gpe-israel-t-00-06-51)**
 > "...chat screenshots to conveniently back up her narrative that Charlie (Charlie Kirk) was dropping the pro-Israel cause and inviting Candace to the TPUSA stage?" "I'm just asking questions." All fair. We allow que..."
 
 **[00:09:51](/episodes/ep-5autG89PW6w.md#ent-gpe-israel-t-00-09-43)**
@@ -2343,7 +2342,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:16:11](/episodes/ep-ozWJz2spBcI.md#ent-gpe-israel-t-00-15-58)**
 > "..."—not whatever. I don't like it. He knew. And others knew that Charlie (Charlie Kirk) was done with Israel bullying him. And I am now going to present you proof of what I am saying. This is an actual group ..."
 
-**[00:17:07](/episodes/ep-ozWJz2spBcI.md#ent-gpe-israel-t-00-16-33)**
+**[00:17:07](/episodes/ep-ozWJz2spBcI.md#ent-gpe-israel-t-00-15-58)**
 > "... the stereotypes. I cannot and will not be bullied like this, leaving me no choice but to leave the pro-Israel cause." Then somebody writes—Sedona writes—"Please do not invite Candace (Candace Owens). That migh..."
 
 **[00:19:06](/episodes/ep-ozWJz2spBcI.md#ent-gpe-israel-t-00-19-06)**
@@ -2526,7 +2525,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:34:50](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-israel-t-00-34-10)**
 > "... He wrote of his deep love for Israel. He had nothing else to do in May. Wrote of his deep love for Israel. It's a letter to Netanyahu. Netanyahu said they were close, but in the letter, Charlie (Charlie Ki..."
 
-**[00:36:10](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-israel-t-00-36-10)**
+**[00:36:10](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-israel-t-00-34-10)**
 > "...ople at Turning Point—as well as Jewish donors and a rabbi—that he had no choice but to abandon the pro-Israel cause outright, okay? Charlie (Charlie Kirk) was done. He said it explicitly: that he refused to be..."
 
 **[00:38:04](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-israel-t-00-38-04)**
@@ -2649,7 +2648,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:50:49](/episodes/ep-ja26iltROkM.md#ent-gpe-israel-t-00-50-13)**
 > "... comment. Thank you, Marta. Devin Nola writes: "You are a super sleuth. Thanks for all that you do. Israel has the most to lose from Charlie (Charlie Kirk) turning away from them. At this point, I'm waiting..."
 
-**[00:51:07](/episodes/ep-ja26iltROkM.md#ent-gpe-israel-t-00-50-57)**
+**[00:51:07](/episodes/ep-ja26iltROkM.md#ent-gpe-israel-t-00-50-13)**
 > "...is: I would argue that in terms of the free markets, like, you go with your product: "You say, 'I'm pro-Israel. I'm running this business.'" They are losing—badly, badly. There's no question about that. Everyon..."
 
 **[00:51:46](/episodes/ep-ja26iltROkM.md#ent-gpe-israel-t-00-51-39)**

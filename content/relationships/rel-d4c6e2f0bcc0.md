@@ -11,7 +11,11 @@ object: "person-charlie-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) appeared with [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4)**
+
+- [00:12:21](/episodes/ep-hWTdXHGQ8R4#t-00-12-21): _Has Charlie (Charlie Kirk) never been to UVU before? ... No, he has actually been with me. ... I've done UVU with him._
 
 **[What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U)**
 

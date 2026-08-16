@@ -4,9 +4,10 @@ description: "\"The Presidential Religious Liberty Commission punished Carrie Pr
 statement_id: "statement-44ab7574b247"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -34,7 +35,21 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Transcript context frames Boller's removal as punishment for Catholic faith. The timing followed her Catholic-based objections to Zionism, but Patrick's public rationale was that she redirected the antisemitism hearing to a personal and political agenda. The public record supports the religious-context component but does not establish discriminatory motive.
+
+**Confidence:** Low
+
+**Sources:**
+
+- [Transcript: Fifth Hearing of the Religious Liberty Commission, Parts I & II](https://www.justice.gov/religious-liberty-commission/media/1435436/dl?inline=)
+- [Member of Trump's Religious Liberty Commission ousted in dispute over antisemitism](https://apnews.com/article/trump-religious-liberty-commission-antisemtism-0cbdc1f1aa62286aa7688495555b0aa5)
+
+*Verified: 2026-08-16T10:43:46.954877*
 
 ---
 

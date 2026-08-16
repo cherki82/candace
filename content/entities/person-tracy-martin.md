@@ -1,6 +1,6 @@
 ---
 title: "Tracy Martin"
-description: "Tracy Martin (People) - 31 mentions"
+description: "Tracy Martin (People) - 32 mentions"
 id: "person-tracy-martin"
 type: "PERSON"
 aliases:
@@ -24,6 +24,14 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:19:03](/episodes/ep-1hcjQGgvxUY.md#ent-person-tracy-martin-t-00-18-57)**
+> "Tracy Martin,"
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (11 mentions)</summary>

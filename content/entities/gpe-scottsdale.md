@@ -1,6 +1,6 @@
 ---
 title: "Scottsdale, Arizona"
-description: "Scottsdale, Arizona (Places) - 23 mentions"
+description: "Scottsdale, Arizona (Places) - 24 mentions"
 id: "gpe-scottsdale"
 type: "GPE"
 aliases:
@@ -25,6 +25,14 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:26:53](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-scottsdale-t-00-26-53)**
+> "...all run in looking frantic in Scottsdale."
+
+</details>
 
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Alex Clark"
-description: "Alex Clark (People) - 42 mentions"
+description: "Alex Clark (People) - 45 mentions"
 id: "person-alex-clark"
 type: "PERSON"
 categories:
@@ -20,6 +20,20 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (3 mentions)</summary>
+
+**[00:50:38](/episodes/ep-1hcjQGgvxUY.md#ent-person-alex-clark-t-00-50-14)**
+> "...to get back at me, apparently Alex Clark demanded,"
+
+**[00:51:00](/episodes/ep-1hcjQGgvxUY.md#ent-person-alex-clark-t-00-50-52)**
+> "Or Alex Clark,"
+
+**[00:53:17](/episodes/ep-1hcjQGgvxUY.md#ent-person-alex-clark-t-00-52-52)**
+> "Sounds like me and Alex Clark got beef,"
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1 mentions)</summary>
@@ -241,6 +255,14 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 </details>
 
 <details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:51:02](/episodes/ep-1hcjQGgvxUY.md#t-00-50-52): "because I had gone after her for dressing up in boots and standing over the memorial site of Charlie (Charlie Kirk) to pose for what was it the Washington Post,"
+
+</details>
+
+<details>
 <summary>Interviewed (2)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
@@ -267,7 +289,10 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:51:02](/episodes/ep-1hcjQGgvxUY.md#t-00-50-52)
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
   - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:43:04](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30)
@@ -289,7 +314,15 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Alex Clark (2)</strong></summary>
+<summary><strong class="section-title">Statements about Alex Clark (3)</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1)</summary>
+
+- [00:50:38](/episodes/ep-1hcjQGgvxUY.md#t-00-50-14) (Accusation) **Candace Owens**: ["Candace Owens says Alex Clark demanded that Seth Dillon call Owens's s..."](/statements/statement-a831f72ad994.md)
+  - Also about: [Seth Dillon](/entities/person-seth-dillon.md), [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (1)</summary>

@@ -4,9 +4,10 @@ description: "\"Charlie Kirk's wedding photo was visible behind him in his home 
 statement_id: "statement-e216a7e5e578"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -32,7 +33,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Transcript context and the source episode's displayed September 8 studio frame directly show the wedding photograph behind Charlie Kirk. This verifies the visible-set claim, not any inference about who later moved it.
+
+**Confidence:** High
+
+**Sources:**
+
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](https://www.youtube.com/watch?v=hWTdXHGQ8R4)
+
+*Verified: 2026-08-16T10:43:39.132607*
 
 ---
 

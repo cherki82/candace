@@ -1,6 +1,6 @@
 ---
 title: "Jeffrey Epstein"
-description: "Jeffrey Epstein (People) - 141 mentions"
+description: "Jeffrey Epstein (People) - 167 mentions"
 id: "person-jeffrey-epstein"
 type: "PERSON"
 aliases:
@@ -24,6 +24,89 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (26 mentions)</summary>
+
+**[00:10:29](/episodes/ep-1hcjQGgvxUY.md#ent-person-jeffrey-epstein-t-00-09-51)**
+> "...u know, everyone's explaining Jeffrey Epstein and all of his friends."
+
+**[00:19:57](/episodes/ep-1hcjQGgvxUY.md#ent-person-jeffrey-epstein-t-00-19-36)**
+> "worked under Jeffrey Epstein's friend,"
+
+**[00:20:09](/episodes/ep-1hcjQGgvxUY.md#ent-person-jeffrey-epstein-t-00-20-09)**
+> "...time that he was working with Jeffrey Epstein okay"
+
+**[00:29:47](/episodes/ep-1hcjQGgvxUY.md#ent-person-jeffrey-epstein-t-00-29-47)**
+> "guess what? Epstein, the Epstein docs dropped and there was a mention..."
+
+**[00:40:24](/episodes/ep-1hcjQGgvxUY.md#ent-person-jeffrey-epstein-t-00-29-47)**
+> "...slighting us, at least if the Epstein Files situation."
+
+**[00:40:44](/episodes/ep-1hcjQGgvxUY.md#ent-person-jeffrey-epstein-t-00-29-47)**
+> "Regarding the Epstein files,"
+
+**[00:41:20](/episodes/ep-1hcjQGgvxUY.md#ent-person-jeffrey-epstein-t-00-29-47)**
+> "...ation put us through with the Epstein files,"
+
+**[00:41:41](/episodes/ep-1hcjQGgvxUY.md#ent-person-jeffrey-epstein-t-00-41-41)**
+> "...n influencers part one of the Epstein files."
+
+**[00:41:51](/episodes/ep-1hcjQGgvxUY.md#ent-person-jeffrey-epstein-t-00-41-41)**
+> "...of the United States says the Epstein thing is a hoax. He blasts his own base for wanti..."
+
+**[00:43:22](/episodes/ep-1hcjQGgvxUY.md#ent-person-jeffrey-epstein-t-00-43-07)**
+> "...of any criminal evidence that Epstein trafficked girls to anyone but himself."
+
+**[00:43:31](/episodes/ep-1hcjQGgvxUY.md#ent-person-jeffrey-epstein-t-00-43-07)**
+> "Epstein had a worldwide sex trafficking ring."
+
+**[00:43:43](/episodes/ep-1hcjQGgvxUY.md#ent-person-jeffrey-epstein-t-00-43-07)**
+> "Ghislaine Maxwell says 29 Epstein associates cut secret DOJ deals."
+
+**[00:44:05](/episodes/ep-1hcjQGgvxUY.md#ent-person-jeffrey-epstein-t-00-43-52)**
+> "...ame appears more times in the Epstein files than God's name appears in the book about G..."
+
+**[00:44:15](/episodes/ep-1hcjQGgvxUY.md#ent-person-jeffrey-epstein-t-00-43-52)**
+> "...lso appears more times in the Epstein file than Harry Potter's name appears in the seve..."
+
+**[00:44:22](/episodes/ep-1hcjQGgvxUY.md#ent-person-jeffrey-epstein-t-00-43-52)**
+> "... says that in 2008 he went to Epstein's home,"
+
+**[00:44:25](/episodes/ep-1hcjQGgvxUY.md#ent-person-jeffrey-epstein-t-00-43-52)**
+> "...able in the living room, that Epstein said he got one every day,"
+
+**[00:44:34](/episodes/ep-1hcjQGgvxUY.md#ent-person-jeffrey-epstein-t-00-43-52)**
+> "...nick) then says, I'm sure the Epstein stuff is all on video."
+
+**[00:44:44](/episodes/ep-1hcjQGgvxUY.md#ent-person-jeffrey-epstein-t-00-44-37)**
+> "...that he and his family are on Epstein Island."
+
+**[00:44:49](/episodes/ep-1hcjQGgvxUY.md#ent-person-jeffrey-epstein-t-00-44-37)**
+> "after Epstein pled guilty to state charges."
+
+**[00:44:55](/episodes/ep-1hcjQGgvxUY.md#ent-person-jeffrey-epstein-t-00-44-37)**
+> "not to Epstein Island."
+
+**[00:44:57](/episodes/ep-1hcjQGgvxUY.md#ent-person-jeffrey-epstein-t-00-44-37)**
+> "...sident's claim that he kicked Epstein out of his club."
+
+**[00:45:02](/episodes/ep-1hcjQGgvxUY.md#ent-person-jeffrey-epstein-t-00-44-37)**
+> "Allegedly, the president said Epstein,"
+
+**[00:45:03](/episodes/ep-1hcjQGgvxUY.md#ent-person-jeffrey-epstein-t-00-44-37)**
+> "that he asked Epstein to leave,"
+
+**[00:46:41](/episodes/ep-1hcjQGgvxUY.md#ent-person-jeffrey-epstein-t-00-46-41)**
+> "They are talking about Epstein today."
+
+**[00:47:06](/episodes/ep-1hcjQGgvxUY.md#ent-person-jeffrey-epstein-t-00-46-41)**
+> "...ast four years one word about Jeffrey Epstein."
+
+**[00:48:18](/episodes/ep-1hcjQGgvxUY.md#ent-person-jeffrey-epstein-t-00-48-03)**
+> "Yeah, Epstein's trafficking. It's a whole network. Everyone at th..."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (5 mentions)</summary>
@@ -696,7 +779,7 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 <details>
-<summary>Worked With (2)</summary>
+<summary>Worked With (3)</summary>
 
 - **[Harvey Weinstein](/entities/person-harvey-weinstein.md)**
   - [Myron Gaines x Candace Owens @ 00:20:53](/episodes/ep-2T39-oADLj0.md#t-00-20-19): "He was working with Weinstein. He had some notorious fight with Harvey Weinstein right before Harvey went down."
@@ -704,10 +787,13 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 - **[Jean-Luc Brunel](/entities/person-jean-luc-brunel.md)**
   - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:31:05](/episodes/ep-CEF7gQRWYCE.md#t-00-30-39): "what I know about Jeffrey Epstein and the way that he was moving with Jean-Luc Brunel"
 
+- **[Kenneth Starr](/entities/person-kenneth-starr.md)**
+  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:09](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09): "for almost a decade she worked for Ken Star at the exact same time that he was working with Jeffrey Epstein"
+
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (7)</summary>
 
 - **[Steve Bannon](/entities/person-steve-bannon.md)** advisor to this
   - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:26:03](/episodes/ep-Kmt6HgRjckU.md#t-00-26-01)
@@ -727,12 +813,35 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 - **[Rothschild family](/entities/org-rothschild-family.md)** funded this
   - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:37:25](/episodes/ep-CEF7gQRWYCE.md#t-00-37-16)
 
+- **[Kenneth Starr](/entities/person-kenneth-starr.md)** worked with this
+  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:09](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09)
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jeffrey Epstein (41)</strong></summary>
+<summary><strong class="section-title">Statements about Jeffrey Epstein (46)</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (5)</summary>
+
+- [00:20:03](/episodes/ep-1hcjQGgvxUY.md#t-00-19-36) (Claim) **Candace Owens**: ["Stacey Sheridan's résumé says she worked in Kenneth Starr's Pepperdine..."](/statements/statement-768813e26649.md)
+  - Also about: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Kenneth Starr](/entities/person-kenneth-starr.md), [Pepperdine University](/entities/org-pepperdine-university.md)
+
+- [00:43:20](/episodes/ep-1hcjQGgvxUY.md#t-00-43-07) (Accusation) **Jared Moskowitz**: ["Kash Patel testified that the FBI had no criminal evidence Epstein tra..."](/statements/statement-3d79e5904e4e.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+
+- [00:43:43](/episodes/ep-1hcjQGgvxUY.md#t-00-43-07) (Claim) **Jared Moskowitz**: ["Ghislaine Maxwell says 29 Epstein associates cut secret Justice Depart..."](/statements/statement-8bfdc85db6dc.md)
+  - Also about: [Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md), [United States Department of Justice](/entities/org-united-states-department-of-justice.md)
+
+- [00:44:42](/episodes/ep-1hcjQGgvxUY.md#t-00-44-37) (Claim) **Jared Moskowitz**: ["Howard Lutnick and his family were on Epstein Island in 2012, after Ep..."](/statements/statement-f7d3e61fbb17.md)
+  - Also about: [Howard Lutnick](/entities/person-howard-lutnick.md), [Little Saint James](/entities/gpe-little-saint-james.md)
+
+- [00:44:57](/episodes/ep-1hcjQGgvxUY.md#t-00-44-37) (Citation) **Jared Moskowitz**: ["Documents in the Epstein files dispute Donald Trump's claim that he ex..."](/statements/statement-049d7908ab42.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Epstein Files](/entities/work-epstein-files.md)
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (4)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Bible"
-description: "Bible (Works & Media) - 20 mentions"
+description: "Bible (Works & Media) - 24 mentions"
 id: "work-bible"
 type: "WORK"
 aliases:
@@ -24,6 +24,23 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (4 mentions)</summary>
+
+**[00:44:12](/episodes/ep-1hcjQGgvxUY.md#ent-work-bible-t-00-43-52)**
+> "...s is the Trump (Donald Trump) Bible."
+
+**[00:45:31](/episodes/ep-1hcjQGgvxUY.md#ent-work-bible-t-00-45-31)**
+> "...ng is funny about mocking the Bible and holding up a Trump (Donald Trump)"
+
+**[00:45:36](/episodes/ep-1hcjQGgvxUY.md#ent-work-bible-t-00-45-36)**
+> "Bible."
+
+**[00:46:20](/episodes/ep-1hcjQGgvxUY.md#ent-work-bible-t-00-45-46)**
+> "he did not mock the Bible in any way."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (3 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Paleovalley"
-description: "Paleovalley (Organizations) - 6 mentions"
+description: "Paleovalley (Organizations) - 15 mentions"
 id: "org-paleovalley"
 type: "ORG"
 aliases:
@@ -24,6 +24,38 @@ Source: [Paleovalley](https://paleovalley.com/)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (9 mentions)</summary>
+
+**[00:50:49](/episodes/ep-1hcjQGgvxUY.md#ent-org-paleovalley-t-00-50-14)**
+> "Paleo Valley,"
+
+**[00:51:25](/episodes/ep-1hcjQGgvxUY.md#ent-org-paleovalley-t-00-50-52)**
+> "...t time to tell you guys about Paleo Valley,"
+
+**[00:51:30](/episodes/ep-1hcjQGgvxUY.md#ent-org-paleovalley-t-00-51-30)**
+> "Paleo Valley makes their meat sticks with 100% grass-fed beef ..."
+
+**[00:51:56](/episodes/ep-1hcjQGgvxUY.md#ent-org-paleovalley-t-00-51-30)**
+> "Paleo Valley works with your lifestyle,"
+
+**[00:52:08](/episodes/ep-1hcjQGgvxUY.md#ent-org-paleovalley-t-00-51-30)**
+> "Paleo Valley is trusted, proven,"
+
+**[00:52:11](/episodes/ep-1hcjQGgvxUY.md#ent-org-paleovalley-t-00-52-11)**
+> "...t 20% off your first order at PaleoValley.com, and use code CANDACE at checkout."
+
+**[00:52:17](/episodes/ep-1hcjQGgvxUY.md#ent-org-paleovalley-t-00-52-11)**
+> "out, that's paleovalley.com, promo code Candace at checkout."
+
+**[00:53:20](/episodes/ep-1hcjQGgvxUY.md#ent-org-paleovalley-t-00-52-52)**
+> "paleo valley beef."
+
+**[00:53:31](/episodes/ep-1hcjQGgvxUY.md#ent-org-paleovalley-t-00-52-52)**
+> "...dn't tell me that. Respect to Paleo Valley for not even telling me that. It must have been a..."
+
+</details>
 
 <details>
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (6 mentions)</summary>

@@ -11,7 +11,11 @@ object: "person-charlie-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) worked with [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (5 mentions)
+### Evidence (6 mentions)
+
+**[Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY)**
+
+- [00:11:38](/episodes/ep-1hcjQGgvxUY#t-00-11-38): _Charlie Kirk and I did a lot on the road discussing father absence_
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 

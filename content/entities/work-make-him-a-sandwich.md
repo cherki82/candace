@@ -1,6 +1,6 @@
 ---
 title: "Make Him a Sandwich"
-description: "Make Him a Sandwich (Works & Media) - 59 mentions"
+description: "Make Him a Sandwich (Works & Media) - 60 mentions"
 id: "work-make-him-a-sandwich"
 type: "WORK"
 aliases:
@@ -27,6 +27,14 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:53:39](/episodes/ep-1hcjQGgvxUY.md#ent-work-make-him-a-sandwich-t-00-53-37)**
+> "...ographed bundles. You can get Make Him a Sandwich and Blackout, both signed by me."
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (2 mentions)</summary>

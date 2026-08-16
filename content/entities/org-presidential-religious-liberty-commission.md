@@ -49,7 +49,21 @@ Source: [U.S. Department of Justice: Religious Liberty Commission](https://www.j
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Has Former Member (1)</summary>
+
+- **[Carrie Prejean Boller](/entities/person-carrie-prejean-boller.md)**
+  - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:35:41](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-12): "Carrie Prejean Boller has been removed from President Trump (Donald J. Trump)'s Religious Liberty Commission."
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Carrie Prejean Boller](/entities/person-carrie-prejean-boller.md)** formerly member of this
+  - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:35:41](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-12)
+
+</details>
 
 </details>
 

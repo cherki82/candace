@@ -1,6 +1,6 @@
 ---
 title: "Google"
-description: "Google (Organizations) - 23 mentions"
+description: "Google (Organizations) - 25 mentions"
 id: "org-google"
 type: "ORG"
 categories:
@@ -19,6 +19,17 @@ Source: [Google — About](https://about.google/)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>
+
+**[00:28:29](/episodes/ep-1hcjQGgvxUY.md#ent-org-google-t-00-28-21)**
+> "...sands of five-star reviews on Google, and it holds a five-star rating on Trustpilot."
+
+**[00:28:30](/episodes/ep-1hcjQGgvxUY.md#ent-org-google-t-00-28-21)**
+> "...sands of five-star reviews on Google and it holds a five-star rating on Trustpilot."
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1 mentions)</summary>

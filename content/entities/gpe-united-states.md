@@ -1,6 +1,6 @@
 ---
 title: "United States"
-description: "United States (Places) - 1110 mentions"
+description: "United States (Places) - 1122 mentions"
 id: "gpe-united-states"
 type: "GPE"
 aliases:
@@ -31,6 +31,47 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (12 mentions)</summary>
+
+**[00:54:02](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-united-states-t-00-54-02)**
+> "...e story about the founding of America, 'The British are coming, the British are coming'..."
+
+**[00:41:51](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-united-states-t-00-41-41)**
+> "The President of the United States says the Epstein thing is a hoax."
+
+**[00:17:53](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-united-states-t-00-41-41)**
+> "... mentioned this Turning Point USA's headquarters,"
+
+**[00:19:49](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-united-states-t-00-41-41)**
+> "Turning Point USA is a charity."
+
+**[00:34:09](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-united-states-t-00-41-41)**
+> "while Turning Point USA spokesperson told Newsweek Erica (Erika Kirk) mov..."
+
+**[00:36:31](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-united-states-t-00-41-41)**
+> "I want Turning Point USA to for once in their lives do the right thing and..."
+
+**[00:38:03](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-united-states-t-00-41-41)**
+> "..., giving an interview to Real America's Voice."
+
+**[00:50:10](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-united-states-t-00-41-41)**
+> "...y the empire of Turning Point USA?"
+
+**[00:50:37](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-united-states-t-00-41-41)**
+> "...ay, speaking of Turning Point USA,"
+
+**[00:50:52](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-united-states-t-00-41-41)**
+> "...were fired from Turning Point USA and demanded that they decide they pick me."
+
+**[00:53:50](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-united-states-t-00-41-41)**
+> "... book, The Secret Founding of America."
+
+**[00:58:52](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-united-states-t-00-58-24)**
+> "U.S. flagpole rights in Jesus's name. I command the tr..."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (10 mentions)</summary>
@@ -3746,7 +3787,15 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States (39)</strong></summary>
+<summary><strong class="section-title">Statements about United States (40)</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1)</summary>
+
+- [00:52:25](/episodes/ep-hWTdXHGQ8R4.md#t-00-51-58) (Opinion) **Candace Owens**: ["If the legal system can pin Charlie Kirk's killing on a random person ..."](/statements/statement-1bdbc7eceb29.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (2)</summary>

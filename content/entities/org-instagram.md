@@ -1,6 +1,6 @@
 ---
 title: "Instagram"
-description: "Instagram (Organizations) - 67 mentions"
+description: "Instagram (Organizations) - 70 mentions"
 id: "org-instagram"
 type: "ORG"
 categories:
@@ -20,6 +20,20 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (3 mentions)</summary>
+
+**[00:08:07](/episodes/ep-1hcjQGgvxUY.md#ent-org-instagram-t-00-07-59)**
+> "... liking and commenting on her Instagram posts so Jillian (Jillian Falcon) posted this pho..."
+
+**[00:14:37](/episodes/ep-1hcjQGgvxUY.md#ent-org-instagram-t-00-14-37)**
+> "...tuff even like this to her on Instagram."
+
+**[00:17:11](/episodes/ep-1hcjQGgvxUY.md#ent-org-instagram-t-00-16-46)**
+> "...obably thinking she's just on Instagram speaking to whoever,"
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (2 mentions)</summary>

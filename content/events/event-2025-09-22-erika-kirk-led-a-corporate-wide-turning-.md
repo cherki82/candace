@@ -11,7 +11,7 @@ date: "2025-09-22"
 
 > Erika Kirk led a corporate-wide Turning Point USA Zoom call.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296
 
@@ -28,3 +28,11 @@ date: "2025-09-22"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(486);return false;">▶️ Play</a>
 
 > yesterday when we played the corporate-wide call hosted by Erika
+
+### 3. Okay…These Text Messages Are Crazy! | Candace Ep 307
+
+**Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
+**Timestamp:** [00:38:52](/episodes/ep-1hcjQGgvxUY.md#t-00-38-46) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2332);return false;">▶️ Play</a>
+
+> Erica was on that Zoom call telling the employees to button it up, get back to work

@@ -1,6 +1,6 @@
 ---
 title: "Federal Bureau of Investigation"
-description: "Federal Bureau of Investigation (Organizations) - 27 mentions"
+description: "Federal Bureau of Investigation (Organizations) - 30 mentions"
 id: "org-federal-bureau-of-investigation"
 type: "ORG"
 aliases:
@@ -24,6 +24,20 @@ Source: [About - FBI](https://www.fbi.gov/about)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (3 mentions)</summary>
+
+**[00:30:37](/episodes/ep-1hcjQGgvxUY.md#ent-org-federal-bureau-of-investigation-t-00-30-37)**
+> "... find 40 results of different FBI briefings talking about a color of the day. And e..."
+
+**[00:32:24](/episodes/ep-1hcjQGgvxUY.md#ent-org-federal-bureau-of-investigation-t-00-32-12)**
+> "...cause there was maybe another FBI operation and military operation that was taking ..."
+
+**[00:43:22](/episodes/ep-1hcjQGgvxUY.md#ent-org-federal-bureau-of-investigation-t-00-43-07)**
+> "the FBI is not in possession of any criminal evidence tha..."
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1 mentions)</summary>
@@ -196,13 +210,24 @@ Source: [About - FBI](https://www.fbi.gov/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Federal Bureau of Investigation (19)</strong></summary>
+<summary><strong class="section-title">Statements about Federal Bureau of Investigation (21)</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2)</summary>
+
+- [00:30:37](/episodes/ep-1hcjQGgvxUY.md#t-00-30-37) (Citation) **Anonymous Source #2 (Ep 1hcjQGgvxUY)**: ["An anonymous TikTok creator says 40 FBI briefings mention a color of t..."](/statements/statement-09584b6cf183.md)
+  - Also about: [United States Department of Justice](/entities/org-united-states-department-of-justice.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:43:20](/episodes/ep-1hcjQGgvxUY.md#t-00-43-07) (Accusation) **Jared Moskowitz**: ["Kash Patel testified that the FBI had no criminal evidence Epstein tra..."](/statements/statement-3d79e5904e4e.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1)</summary>
 
 - [00:37:47](/episodes/ep-DYD_QHMPwqM.md#t-00-37-47) (Accusation) **Candace Owens**: ["Because bomb-detection dogs could not smell the gun, the gun was plant..."](/statements/statement-37c7915351b4.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler James Robinson](/entities/person-tyler-james-robinson.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </details>
 
@@ -228,7 +253,7 @@ Source: [About - FBI](https://www.fbi.gov/about)
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (2)</summary>
 
 - [00:42:53](/episodes/ep-Wjul6YV6izo.md#t-00-42-21) (Opinion) **Candace Owens**: ["Candace Owens has presented more evidence than the FBI did against Tyl..."](/statements/statement-eb24f2d12e67.md)
-  - Also about: [Tyler James Robinson](/entities/person-tyler-james-robinson.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:46:32](/episodes/ep-Wjul6YV6izo.md#t-00-46-05) (Accusation) **Candace Owens**: ["The FBI and DOJ are pursuing headlines rather than solving crimes and ..."](/statements/statement-30ea06c4415b.md)
   - Also about: [United States Department of Justice](/entities/org-united-states-department-of-justice.md)
@@ -267,10 +292,10 @@ Source: [About - FBI](https://www.fbi.gov/about)
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (6)</summary>
 
 - [00:07:07](/episodes/ep-HYn0P-P1wUw.md#t-00-06-45) (Accusation) **Candace Owens**: ["Federal investigators did not visit Cowboy Smokehouse to interview sta..."](/statements/statement-a8acb595a9d6.md)
-  - Also about: [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md), [Tyler James Robinson](/entities/person-tyler-james-robinson.md)
+  - Also about: [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:08:38](/episodes/ep-HYn0P-P1wUw.md#t-00-08-14) (Claim) **Candace Owens**: ["The FBI possesses the Cowboy Smokehouse receipt documenting Tyler Robi..."](/statements/statement-dff1d8971892.md)
-  - Also about: [Tyler James Robinson](/entities/person-tyler-james-robinson.md), [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
 
 - [00:14:53](/episodes/ep-HYn0P-P1wUw.md#t-00-14-33) (Accusation) **Candace Owens**: ["Federal investigators did not impound the SUV used to transport Charli..."](/statements/statement-37d5607a312a.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)

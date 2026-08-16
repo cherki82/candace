@@ -1,6 +1,6 @@
 ---
 title: "The Washington Post"
-description: "The Washington Post (Organizations) - 4 mentions"
+description: "The Washington Post (Organizations) - 5 mentions"
 id: "org-washington-post"
 type: "ORG"
 aliases:
@@ -24,6 +24,14 @@ Source: [About The Washington Post](https://www.washingtonpost.com/about-the-pos
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:51:02](/episodes/ep-1hcjQGgvxUY.md#ent-org-washington-post-t-00-50-52)**
+> "...Kirk) to pose for what was it the Washington Post,"
+
+</details>
 
 <details>
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (3 mentions)</summary>

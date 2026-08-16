@@ -1,6 +1,6 @@
 ---
 title: "Dream City Church"
-description: "Dream City Church (Organizations) - 6 mentions"
+description: "Dream City Church (Organizations) - 8 mentions"
 id: "org-dream-city-church"
 type: "ORG"
 categories:
@@ -20,6 +20,17 @@ Source: [Dream City Church](https://www.dreamcitychurch.us/)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>
+
+**[00:19:05](/episodes/ep-1hcjQGgvxUY.md#ent-org-dream-city-church-t-00-18-57)**
+> "...k for trafficking victims via Dream City Church,"
+
+**[00:19:11](/episodes/ep-1hcjQGgvxUY.md#ent-org-dream-city-church-t-00-18-57)**
+> "... actually makes sense because Dream City Church runs Phoenix Dream Center."
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (6 mentions)</summary>
@@ -58,7 +69,18 @@ Source: [Dream City Church](https://www.dreamcitychurch.us/)
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Operates (1)</summary>
+
+- **[Phoenix Dream Center](/entities/org-phoenix-dream-center.md)**
+  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:19:11](/episodes/ep-1hcjQGgvxUY.md#t-00-18-57): "Dream City Church runs Phoenix Dream Center."
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
+
+- **[Phoenix Dream Center](/entities/org-phoenix-dream-center.md)** operated by this
+  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:19:11](/episodes/ep-1hcjQGgvxUY.md#t-00-18-57)
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** spoke at this
   - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:27:20](/episodes/ep-DYD_QHMPwqM.md#t-00-26-52)

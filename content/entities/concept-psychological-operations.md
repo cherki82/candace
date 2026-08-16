@@ -1,6 +1,6 @@
 ---
 title: "Psychological operations"
-description: "Psychological operations (Concepts) - 14 mentions"
+description: "Psychological operations (Concepts) - 16 mentions"
 id: "concept-psychological-operations"
 type: "CONCEPT"
 aliases:
@@ -21,6 +21,17 @@ _Type: Concepts_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>
+
+**[00:40:01](/episodes/ep-1hcjQGgvxUY.md#ent-concept-psychological-operations-t-00-39-28)**
+> "the psyop works."
+
+**[00:56:01](/episodes/ep-1hcjQGgvxUY.md#ent-concept-psychological-operations-t-00-56-01)**
+> "...decade of the 60s was one big psyop but it's enough it's enough i think that we start..."
+
+</details>
 
 <details>
 <summary>An Open Letter To Erika Kirk | Candace Ep 303 (3 mentions)</summary>
@@ -89,7 +100,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Psychological operations (5)</strong></summary>
+<summary><strong class="section-title">Statements about Psychological operations (6)</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1)</summary>
+
+- [00:29:24](/episodes/ep-1hcjQGgvxUY.md#t-00-29-04) (Accusation) **Candace Owens**: ["Candace Owens believes September 10 was a military operation."](/statements/statement-79309b49d3b4.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>An Open Letter To Erika Kirk | Candace Ep 303 (1)</summary>

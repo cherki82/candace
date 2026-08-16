@@ -45,7 +45,7 @@ _No relationships extracted yet._
 <summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1)</summary>
 
 - [00:10:53](/episodes/ep-zSKrxIUMNqw.md#t-00-10-51) [○] (Opinion) ["Because Tyler Robinson is alive while bees die after stinging, he could not be t..."](/statements/statement-da83097a367c.md)
-  - About: [Tyler James Robinson](/entities/person-tyler-james-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

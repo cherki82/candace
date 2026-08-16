@@ -4,9 +4,10 @@ description: "\"Carrie Prejean Boller hijacked the commission's antisemitism hea
 statement_id: "statement-426c8bc5db16"
 speaker: "Dan Patrick"
 type: "accusation"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -36,7 +37,21 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Transcript context accurately reproduces Dan Patrick's public rationale. AP confirms he said she hijacked the hearing for a personal and political agenda and that removal was his decision. The DOJ transcript shows repeated intervention and Patrick limiting her questions, but 'hijacked' is Patrick's evaluative characterization rather than an independently provable fact.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Member of Trump's Religious Liberty Commission ousted in dispute over antisemitism](https://apnews.com/article/trump-religious-liberty-commission-antisemtism-0cbdc1f1aa62286aa7688495555b0aa5)
+- [Transcript: Fifth Hearing of the Religious Liberty Commission, Parts I & II](https://www.justice.gov/religious-liberty-commission/media/1435436/dl?inline=)
+
+*Verified: 2026-08-16T10:43:46.246187*
 
 ---
 

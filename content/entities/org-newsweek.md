@@ -1,6 +1,6 @@
 ---
 title: "Newsweek"
-description: "Newsweek (Organizations) - 3 mentions"
+description: "Newsweek (Organizations) - 7 mentions"
 id: "org-newsweek"
 type: "ORG"
 ---
@@ -11,6 +11,23 @@ _Type: Organizations_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (4 mentions)</summary>
+
+**[00:33:51](/episodes/ep-1hcjQGgvxUY.md#ent-org-newsweek-t-00-33-24)**
+> "Oh, they went to Newsweek."
+
+**[00:34:01](/episodes/ep-1hcjQGgvxUY.md#ent-org-newsweek-t-00-34-01)**
+> "This is what they told the Newsweek. A post has gone viral online that appeared to sh..."
+
+**[00:34:09](/episodes/ep-1hcjQGgvxUY.md#ent-org-newsweek-t-00-34-01)**
+> "...g Point USA spokesperson told Newsweek Erica (Erika Kirk) moved it to a lower shelf."
+
+**[00:59:42](/episodes/ep-1hcjQGgvxUY.md#ent-org-newsweek-t-00-59-08)**
+> "...pokesperson will reach out to Newsweek and they will say, oh,"
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>

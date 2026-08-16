@@ -1,6 +1,6 @@
 ---
 title: "Washington, D.C."
-description: "Washington, D.C. (Places) - 13 mentions"
+description: "Washington, D.C. (Places) - 15 mentions"
 id: "gpe-washington-d-c"
 type: "GPE"
 aliases:
@@ -17,6 +17,17 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>
+
+**[00:55:30](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-washington-d-c-t-00-55-30)**
+> "...nothing authentic and real in DC."
+
+**[00:55:39](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-washington-d-c-t-00-55-30)**
+> "...obably because they're not in D.C. and they're real people with real lives."
+
+</details>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (5 mentions)</summary>

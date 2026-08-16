@@ -1,6 +1,6 @@
 ---
 title: "Nimi Skincare"
-description: "Nimi Skincare (Organizations) - 99 mentions"
+description: "Nimi Skincare (Organizations) - 104 mentions"
 id: "org-nimi-skincare"
 type: "ORG"
 aliases:
@@ -27,6 +27,26 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (5 mentions)</summary>
+
+**[00:01:13](/episodes/ep-1hcjQGgvxUY.md#ent-org-nimi-skincare-t-00-00-44)**
+> "Okay, shout out to Nimi Skincare for sponsoring today's episode."
+
+**[00:01:26](/episodes/ep-1hcjQGgvxUY.md#ent-org-nimi-skincare-t-00-01-26)**
+> "You can find them by visiting NimiSkincare.com and use my code CANDACE10 at checkout, and you'll..."
+
+**[00:27:10](/episodes/ep-1hcjQGgvxUY.md#ent-org-nimi-skincare-t-00-26-53)**
+> "All right, you guys, Nimi skincare is the only skincare brand that I have actually s..."
+
+**[00:27:28](/episodes/ep-1hcjQGgvxUY.md#ent-org-nimi-skincare-t-00-26-53)**
+> "That's why Nimi's three-step anti-aging routine is the smart choi..."
+
+**[00:27:37](/episodes/ep-1hcjQGgvxUY.md#ent-org-nimi-skincare-t-00-27-37)**
+> "... simple. You can find Nimi at NimiSkincare.com, and if you use my code CANDACE10 at checkout, yo..."
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (6 mentions)</summary>

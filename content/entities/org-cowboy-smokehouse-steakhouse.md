@@ -71,19 +71,19 @@ Source: [Panguitch City — Dining directory](https://panguitchutah.gov/business
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (5)</summary>
 
 - [00:03:16](/episodes/ep-HYn0P-P1wUw.md#t-00-03-07) (Claim) **Candace Owens**: ["Tyler Robinson ate at Cowboy Smokehouse in Panguitch on the evening of..."](/statements/statement-981a45e6a181.md)
-  - Also about: [Tyler James Robinson](/entities/person-tyler-james-robinson.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:03:40](/episodes/ep-HYn0P-P1wUw.md#t-00-03-07) (Claim) **Candace Owens**: ["A Cowboy Smokehouse server recognized Tyler Robinson from news photos,..."](/statements/statement-fe61eeeffecb.md)
-  - Also about: [Tyler James Robinson](/entities/person-tyler-james-robinson.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:07:07](/episodes/ep-HYn0P-P1wUw.md#t-00-06-45) (Accusation) **Candace Owens**: ["Federal investigators did not visit Cowboy Smokehouse to interview sta..."](/statements/statement-a8acb595a9d6.md)
-  - Also about: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Tyler James Robinson](/entities/person-tyler-james-robinson.md)
+  - Also about: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:08:38](/episodes/ep-HYn0P-P1wUw.md#t-00-08-14) (Claim) **Candace Owens**: ["The FBI possesses the Cowboy Smokehouse receipt documenting Tyler Robi..."](/statements/statement-dff1d8971892.md)
-  - Also about: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Tyler James Robinson](/entities/person-tyler-james-robinson.md)
+  - Also about: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:10:04](/episodes/ep-HYn0P-P1wUw.md#t-00-09-43) (Claim) **Candace Owens**: ["Tyler Robinson arrived at Cowboy Smokehouse at approximately 8:45 p.m...."](/statements/statement-fc81a7fec897.md)
-  - Also about: [Tyler James Robinson](/entities/person-tyler-james-robinson.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </details>
 

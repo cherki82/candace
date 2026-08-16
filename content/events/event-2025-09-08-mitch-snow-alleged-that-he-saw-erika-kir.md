@@ -11,7 +11,7 @@ date: "2025-09-08"
 
 > Mitch Snow alleged that he saw Erika Kirk leaving the Candlewood Suites hotel at Fort Huachuca with someone resembling Cabot Phillips.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. You Won't Believe What Happened While We Were Off Air... | C...
 
@@ -28,3 +28,11 @@ date: "2025-09-08"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1131);return false;">▶️ Play</a>
 
 > Erika Kirk on the evening of the 8th at Fort Huachuca leaving a hotel
+
+### 3. Okay…These Text Messages Are Crazy! | Candace Ep 307
+
+**Episode:** [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md)
+**Timestamp:** [00:21:24](/episodes/ep-1hcjQGgvxUY.md#event-event-2025-09-08-mitch-snow-alleged-that-he-saw-erika-kir-t-00-20-53) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1284);return false;">▶️ Play</a>
+
+> somebody else believes they did see her at Fort Huachuca

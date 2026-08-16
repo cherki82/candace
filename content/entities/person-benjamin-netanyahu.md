@@ -1,6 +1,6 @@
 ---
 title: "Benjamin Netanyahu"
-description: "Benjamin Netanyahu (People) - 235 mentions"
+description: "Benjamin Netanyahu (People) - 236 mentions"
 id: "person-benjamin-netanyahu"
 type: "PERSON"
 aliases:
@@ -30,6 +30,14 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:45:50](/episodes/ep-1hcjQGgvxUY.md#ent-person-benjamin-netanyahu-t-00-45-46)**
+> "...rump)'s administration. Bibi (Benjamin Netanyahu)—I mean, Howard Lutnick is all over the world wit..."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (4 mentions)</summary>

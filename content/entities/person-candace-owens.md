@@ -1,6 +1,6 @@
 ---
 title: "Candace Owens"
-description: "Candace Owens (People) - 1351 mentions"
+description: "Candace Owens (People) - 1363 mentions"
 id: "person-candace-owens"
 type: "PERSON"
 aliases:
@@ -25,6 +25,47 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (12 mentions)</summary>
+
+**[00:28:59](/episodes/ep-1hcjQGgvxUY.md#ent-person-candace-owens-t-00-28-21)**
+> "...tem that we can toss into the Candace Owens was right jar,"
+
+**[00:30:08](/episodes/ep-1hcjQGgvxUY.md#ent-person-candace-owens-t-00-29-58)**
+> "Candace Owens was the first person to point this out and everyb..."
+
+**[00:53:21](/episodes/ep-1hcjQGgvxUY.md#ent-person-candace-owens-t-00-52-52)**
+> "...e, you pick me in my boots or Candace. You can only have one of us."
+
+**[00:55:53](/episodes/ep-1hcjQGgvxUY.md#ent-person-candace-owens-t-00-55-30)**
+> "Candace, I follow your book club only and I am buying and..."
+
+**[00:57:09](/episodes/ep-1hcjQGgvxUY.md#ent-person-candace-owens-t-00-56-27)**
+> "...; surname unverified). Making Candace laugh was priceless."
+
+**[00:00:53](/episodes/ep-1hcjQGgvxUY.md#ent-person-candace-owens-t-00-00-44)**
+> "So welcome back to Candace."
+
+**[00:28:45](/episodes/ep-1hcjQGgvxUY.md#ent-person-candace-owens-t-00-28-21)**
+> "... for you at pdsdebt.com slash Candace. Again, that's pdsdebt."
+
+**[00:28:54](/episodes/ep-1hcjQGgvxUY.md#ent-person-candace-owens-t-00-28-21)**
+> "Debt.com slash Candace."
+
+**[00:52:11](/episodes/ep-1hcjQGgvxUY.md#ent-person-candace-owens-t-00-52-11)**
+> "...PaleoValley.com, and use code CANDACE at checkout."
+
+**[00:52:17](/episodes/ep-1hcjQGgvxUY.md#ent-person-candace-owens-t-00-52-11)**
+> "...s paleovalley.com, promo code Candace at checkout."
+
+**[00:53:09](/episodes/ep-1hcjQGgvxUY.md#ent-person-candace-owens-t-00-52-52)**
+> "...heckout if you use promo code CANDACE at FieldOfGreens.com."
+
+**[00:53:13](/episodes/ep-1hcjQGgvxUY.md#ent-person-candace-owens-t-00-52-52)**
+> "...eldofgreens.com, a promo code Candace."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (12 mentions)</summary>
@@ -4478,6 +4519,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
   - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:09](/episodes/ep-yAIb-NuUh_U.md#t-00-00-01): "throwback clip from Charlie Kirk and me back when I had a show on PragerU"
+  - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:12:21](/episodes/ep-hWTdXHGQ8R4.md#t-00-11-50): "Has Charlie (Charlie Kirk) never been to UVU before? ... No, he has actually been with me. ... I've done UVU with him."
 
 - **[Baron Coleman](/entities/person-baron-coleman.md)**
   - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:00:06](/episodes/ep-9naMwS0kMBE.md#t-00-00-00): "I told you that I was going to be joined by Baron Coleman. None other than Baron Coleman here in studio."
@@ -4538,7 +4580,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Criticized (22)</summary>
+<summary>Criticized (23)</summary>
 
 - **[Nate Brooksby](/entities/person-nate-brooksby.md)**
   - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:17:09](/episodes/ep-ZGxnf5cj4Uw.md#t-00-16-40): "Brooksby, I don't like the way he's moving, I don't like the way Nate Brooksby is breathing."
@@ -4546,6 +4588,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
   - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#t-00-21-28): "Even Turning Point USA, they're just like, we've accepted, obviously there are holes in this narrative"
   - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:02:29](/episodes/ep-6DhWawD4ZiM.md#t-00-02-09): "The majority of people think Turning Point is acting suspicious"
+  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:33:01](/episodes/ep-1hcjQGgvxUY.md#t-00-32-42): "moving on after yesterday's episode regarding photogate, turning point issued a statement about how the wedding photo,"
 
 - **[Stacey Sheridan](/entities/person-stacey-sheridan.md)**
   - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:50](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): "...I did not like her at all, just the vibe was off. I did not like her, and I expressed that to Charlie to his face when she was hired."
@@ -4616,6 +4659,9 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 - **[Sigmund Freud](/entities/person-sigmund-freud.md)**
   - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:12:46](/episodes/ep-DYD_QHMPwqM.md#t-00-12-39): "It's everything that I have learned studying Sigmund Freud. ... I told you Sigmund Freud was a Satanist."
+
+- **[Alex Clark](/entities/person-alex-clark.md)**
+  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:51:02](/episodes/ep-1hcjQGgvxUY.md#t-00-50-52): "because I had gone after her for dressing up in boots and standing over the memorial site of Charlie (Charlie Kirk) to pose for what was it the Washington Post,"
 
 </details>
 
@@ -5117,6 +5163,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
   - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:06:59](/episodes/ep-mFuno0TuuQQ.md#t-00-06-56): "He was naive to what the wrong money could invite into his life. And I warned him."
+  - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:37:16](/episodes/ep-hWTdXHGQ8R4.md#t-00-36-41): "I wish that Charlie Kirk had listened to me because I warned him."
 
 </details>
 
@@ -5171,7 +5218,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Referenced By (159)</summary>
+<summary>Referenced By (160)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** accused this
   - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:12:27](/episodes/ep-CEF7gQRWYCE.md#t-00-12-25)
@@ -5222,6 +5269,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** appeared with this
   - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:09](/episodes/ep-yAIb-NuUh_U.md#t-00-00-01)
+  - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:12:21](/episodes/ep-hWTdXHGQ8R4.md#t-00-11-50)
 
 - **[Foster Friess](/entities/person-foster-friess.md)** appeared with this
   - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:00:37](/episodes/ep-c5BcKF91iec.md#t-00-00-00)
@@ -5342,6 +5390,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** criticized by this
   - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#t-00-21-28)
+  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:33:01](/episodes/ep-1hcjQGgvxUY.md#t-00-32-42)
 
 - **[Stacey Sheridan](/entities/person-stacey-sheridan.md)** criticized by this
   - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:50](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20)
@@ -5407,6 +5456,9 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 - **[Sigmund Freud](/entities/person-sigmund-freud.md)** criticized by this
   - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:12:46](/episodes/ep-DYD_QHMPwqM.md#t-00-12-39)
+
+- **[Alex Clark](/entities/person-alex-clark.md)** criticized by this
+  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:51:02](/episodes/ep-1hcjQGgvxUY.md#t-00-50-52)
 
 - **[Shmuley Boteach](/entities/person-shmuley-boteach.md)** debated this
   - [Myron Gaines x Candace Owens @ 00:34:38](/episodes/ep-2T39-oADLj0.md#t-00-34-12)
@@ -5692,6 +5744,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** warned by this
   - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:06:59](/episodes/ep-mFuno0TuuQQ.md#t-00-06-56)
+  - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:37:16](/episodes/ep-hWTdXHGQ8R4.md#t-00-36-41)
 
 - **[Skylar](/entities/person-skylar.md)** works for this
   - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:00:52](/episodes/ep-ZAuuSq_j2_w.md#t-00-00-43)
@@ -5707,15 +5760,101 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Candace Owens (1681)</strong></summary>
+<summary><strong class="section-title">Statements by Candace Owens (1712)</strong></summary>
 
 <details>
-<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (15)</summary>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (27)</summary>
 
-- [00:03:34](/episodes/ep-hWTdXHGQ8R4.md#t-00-03-34) [○] (Claim) ["Charlie Kirk's wedding photo was visible behind him in his home studio on the mo..."](/statements/statement-e216a7e5e578.md)
+- [00:00:47](/episodes/ep-1hcjQGgvxUY.md#t-00-00-44) [○] (Claim) ["Candace Owens immediately reached out to Jillian Falcon and spoke with her about..."](/statements/statement-a658084d11f2.md)
+  - About: [Jillian Falcon](/entities/person-jillian-falcon.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:03:47](/episodes/ep-1hcjQGgvxUY.md#t-00-03-40) [○] (Claim) ["Candace Owens says Jillian Falcon met Erika Kirk through a rent payment and that..."](/statements/statement-2e8f09ba983e.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Jillian Falcon](/entities/person-jillian-falcon.md)
+
+- [00:05:08](/episodes/ep-1hcjQGgvxUY.md#t-00-05-08) [○] (Citation) ["Erika Kirk said she became involved with a sex-trafficking charity in China that..."](/statements/statement-5e3239bfd10f.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [China](/entities/gpe-china.md)
+
+- [00:13:38](/episodes/ep-1hcjQGgvxUY.md#t-00-13-30) [○] (Claim) ["Candace Owens reports that Jillian Falcon, now 27, views the relationship as wei..."](/statements/statement-c095ad901ced.md)
+  - About: [Jillian Falcon](/entities/person-jillian-falcon.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:14:25](/episodes/ep-1hcjQGgvxUY.md#t-00-13-57) [○] (Claim) ["Candace Owens reports that Jillian Falcon and Erika Kirk never met in person aga..."](/statements/statement-94a9eff8d7fe.md)
+  - About: [Jillian Falcon](/entities/person-jillian-falcon.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:15:34](/episodes/ep-1hcjQGgvxUY.md#t-00-15-23) [○] (Claim) ["Erika Kirk arranged for 15-year-old Jillian Falcon to have photographs taken by ..."](/statements/statement-11bfa4323505.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Jillian Falcon](/entities/person-jillian-falcon.md)
+
+- [00:16:40](/episodes/ep-1hcjQGgvxUY.md#t-00-16-04) [○] (Accusation) ["Candace Owens calls Erika Kirk's alleged arrangement of a photo shoot for a 15-y..."](/statements/statement-6483e6b288b8.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Jillian Falcon](/entities/person-jillian-falcon.md)
+
+- [00:18:13](/episodes/ep-1hcjQGgvxUY.md#t-00-18-13) [○] (Claim) ["Turning Point USA headquarters is almost directly across the street from Arizona..."](/statements/statement-222bc2b6d8aa.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Arizona Mills](/entities/org-arizona-mills.md)
+
+- [00:18:45](/episodes/ep-1hcjQGgvxUY.md#t-00-18-13) [○] (Claim) ["Tyler Bowyer handpicked the location of Turning Point USA's headquarters."](/statements/statement-e762224537b2.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:19:18](/episodes/ep-1hcjQGgvxUY.md#t-00-18-57) [○] (Citation) ["According to its website, Phoenix Dream Center provides residential rehabilitati..."](/statements/statement-77660a0217f8.md)
+  - About: [Phoenix Dream Center](/entities/org-phoenix-dream-center.md)
+
+- [00:20:03](/episodes/ep-1hcjQGgvxUY.md#t-00-19-36) [○] (Claim) ["Stacey Sheridan's résumé says she worked in Kenneth Starr's Pepperdine Universit..."](/statements/statement-768813e26649.md)
+  - About: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Kenneth Starr](/entities/person-kenneth-starr.md), [Pepperdine University](/entities/org-pepperdine-university.md)
+
+- [00:20:25](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09) [○] (Claim) ["Stacey Sheridan is not Erika Kirk's biological mother; Lori Frantzve is."](/statements/statement-8d0169d15c59.md)
+  - About: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:20:29](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09) [○] (Claim) ["Candace Owens says someone visited Desert Spirit Tek's listed address and found ..."](/statements/statement-1aa9c0c7381b.md)
+  - About: [Desert Spirit Tek, LLC](/entities/org-desert-spirit-tek.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+- [00:21:40](/episodes/ep-1hcjQGgvxUY.md#t-00-21-36) [○] (Claim) ["Erika Kirk had not authored a tweet since 2023 and broke that silence on Septemb..."](/statements/statement-5f58859cf4b9.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Twitter](/entities/org-twitter.md)
+
+- [00:22:32](/episodes/ep-1hcjQGgvxUY.md#t-00-22-02) [○] (Claim) ["On the day Charlie Kirk was assassinated, Erika Kirk tweeted at 9:45 a.m. Arizon..."](/statements/statement-32a5c5f80f7b.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Twitter](/entities/org-twitter.md)
+
+- [00:26:16](/episodes/ep-1hcjQGgvxUY.md#t-00-26-09) [○] (Claim) ["Candace Owens reports that Turning Point USA employees were told Erika Kirk rece..."](/statements/statement-72b97bc5a616.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:29:24](/episodes/ep-1hcjQGgvxUY.md#t-00-29-04) [○] (Accusation) ["Candace Owens believes September 10 was a military operation."](/statements/statement-79309b49d3b4.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Psychological operations](/entities/concept-psychological-operations.md)
+
+- [00:32:42](/episodes/ep-1hcjQGgvxUY.md#t-00-32-42) [○] (Accusation) ["Candace Owens says the men wearing maroon at the Charlie Kirk event were somehow..."](/statements/statement-d75bf645cb20.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:04:14](/episodes/ep-hWTdXHGQ8R4.md#t-00-04-14) [○] (Claim) ["The wedding photo was missing from Charlie Kirk's home office during Erika Kirk'..."](/statements/statement-593298d40d44.md)
+- [00:37:10](/episodes/ep-1hcjQGgvxUY.md#t-00-36-43) [○] (Claim) ["Candace Owens says her earlier suspicion that Charlie Kirk moved the wedding pho..."](/statements/statement-cf76207779ed.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:38:03](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03) [○] (Claim) ["The wedding photo was absent from Charlie Kirk's home studio during Mikey McCoy'..."](/statements/statement-466c43c50dc3.md)
+  - About: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Real America's Voice](/entities/org-real-americas-voice.md)
+
+- [00:38:40](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03) [○] (Claim) ["The wedding photo was visible behind Mikey McCoy when he appeared from Charlie K..."](/statements/statement-14a9b17ecbb0.md)
+  - About: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Martha MacCallum](/entities/person-martha-maccallum.md)
+
+- [00:39:28](/episodes/ep-1hcjQGgvxUY.md#t-00-39-28) [○] (Accusation) ["Candace Owens says Mikey McCoy probably moved Charlie Kirk's wedding photo becau..."](/statements/statement-68502daf415a.md)
+  - About: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:40:18](/episodes/ep-1hcjQGgvxUY.md#t-00-40-14) [○] (Accusation) ["Candace Owens says she still feels very strongly that Charlie Kirk and Erika Kir..."](/statements/statement-bb52b406727b.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:41:08](/episodes/ep-1hcjQGgvxUY.md#t-00-40-58) [○] (Opinion) ["Candace Owens retired from politics on the day Charlie Kirk was killed because s..."](/statements/statement-06278ec0beae.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:50:38](/episodes/ep-1hcjQGgvxUY.md#t-00-50-14) [○] (Accusation) ["Candace Owens says Alex Clark demanded that Seth Dillon call Owens's sponsors an..."](/statements/statement-a831f72ad994.md)
+  - About: [Alex Clark](/entities/person-alex-clark.md), [Seth Dillon](/entities/person-seth-dillon.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:57:19](/episodes/ep-1hcjQGgvxUY.md#t-00-57-11) [○] (Accusation) ["Candace Owens says she thinks Steven Crowder knew he was distributing 'Fed slop'..."](/statements/statement-65babe2d7be9.md)
+  - About: [Steven Crowder](/entities/person-steven-crowder.md), [TMZ](/entities/org-tmz.md)
+
+- [00:57:57](/episodes/ep-1hcjQGgvxUY.md#t-00-57-57) [○] (Opinion) ["Candace Owens says it is time for authorities to bring Erika Kirk in because the..."](/statements/statement-810358959098.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (19)</summary>
+
+- [00:03:34](/episodes/ep-hWTdXHGQ8R4.md#t-00-03-34) [✓] (Claim) ["Charlie Kirk's wedding photo was visible behind him in his home studio on the mo..."](/statements/statement-e216a7e5e578.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:04:14](/episodes/ep-hWTdXHGQ8R4.md#t-00-04-14) [✓] (Claim) ["The wedding photo was missing from Charlie Kirk's home office during Erika Kirk'..."](/statements/statement-593298d40d44.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Glenn Beck](/entities/person-glenn-beck.md)
 
 - [00:14:08](/episodes/ep-hWTdXHGQ8R4.md#t-00-14-01) [○] (Claim) ["Charlie Kirk was scheduled to take a 6:30 a.m. flight on September 10."](/statements/statement-d7817d46c5a2.md)
@@ -5733,29 +5872,41 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:21:15](/episodes/ep-hWTdXHGQ8R4.md#t-00-21-15) [○] (Claim) ["Charlie Kirk messaged multiple people the night before he died saying that he th..."](/statements/statement-28b9c7c49e43.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:23:47](/episodes/ep-hWTdXHGQ8R4.md#t-00-23-27) [○] (Claim) ["The claim that Charlie Kirk used a different messaging app is false because Dan ..."](/statements/statement-16c056171d54.md)
+- [00:23:47](/episodes/ep-hWTdXHGQ8R4.md#t-00-23-27) [✗] (Claim) ["The claim that Charlie Kirk used a different messaging app is false because Dan ..."](/statements/statement-16c056171d54.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Dan Flood](/entities/person-dan-flood.md), [iMessage](/entities/work-imessage.md)
 
-- [00:30:52](/episodes/ep-hWTdXHGQ8R4.md#t-00-30-40) [○] (Accusation) ["Israel is violating Palestinians' human rights by taking homes at gunpoint and k..."](/statements/statement-b59cb82a10ad.md)
+- [00:30:52](/episodes/ep-hWTdXHGQ8R4.md#t-00-30-40) [◐] (Accusation) ["Israel is violating Palestinians' human rights by taking homes at gunpoint and k..."](/statements/statement-b59cb82a10ad.md)
   - About: [Israel](/entities/gpe-israel.md), [Zionism](/entities/concept-zionism.md)
 
 - [00:31:18](/episodes/ep-hWTdXHGQ8R4.md#t-00-31-18) [○] (Opinion) ["Having a country to oneself is not a human right."](/statements/statement-468c005de6d3.md)
   - About: [Israel](/entities/gpe-israel.md), [Zionism](/entities/concept-zionism.md)
 
-- [00:32:20](/episodes/ep-hWTdXHGQ8R4.md#t-00-31-48) [○] (Accusation) ["The Likud party is a team of mass murderers whose members have been caught killi..."](/statements/statement-36831386be8f.md)
+- [00:32:20](/episodes/ep-hWTdXHGQ8R4.md#t-00-31-48) [◐] (Accusation) ["The Likud party is a team of mass murderers whose members have been caught killi..."](/statements/statement-36831386be8f.md)
   - About: [Likud](/entities/org-likud.md), [Israel](/entities/gpe-israel.md)
 
-- [00:35:12](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-12) [○] (Accusation) ["Carrie Prejean Boller was removed from the Presidential Religious Liberty Commis..."](/statements/statement-ce4ed9c576cf.md)
+- [00:35:12](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-12) [◐] (Accusation) ["Carrie Prejean Boller was removed from the Presidential Religious Liberty Commis..."](/statements/statement-ce4ed9c576cf.md)
   - About: [Carrie Prejean Boller](/entities/person-carrie-prejean-boller.md), [Presidential Religious Liberty Commission](/entities/org-presidential-religious-liberty-commission.md), [Zionism](/entities/concept-zionism.md)
 
 - [00:36:09](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-57) [○] (Accusation) ["Dan Patrick is purchased by Israel because he takes money from Zionists."](/statements/statement-66fe25bf0033.md)
   - About: [Dan Patrick](/entities/person-dan-patrick.md), [Israel](/entities/gpe-israel.md), [Zionism](/entities/concept-zionism.md)
 
-- [00:36:36](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-57) [○] (Accusation) ["The Presidential Religious Liberty Commission punished Carrie Prejean Boller for..."](/statements/statement-44ab7574b247.md)
+- [00:36:36](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-57) [◐] (Accusation) ["The Presidential Religious Liberty Commission punished Carrie Prejean Boller for..."](/statements/statement-44ab7574b247.md)
   - About: [Carrie Prejean Boller](/entities/person-carrie-prejean-boller.md), [Presidential Religious Liberty Commission](/entities/org-presidential-religious-liberty-commission.md), [Catholicism](/entities/concept-catholicism.md)
 
-- [00:37:15](/episodes/ep-hWTdXHGQ8R4.md#t-00-36-41) [○] (Citation) ["Charlie Kirk began pivoting away from Zionism about a year before his death, and..."](/statements/statement-ef7d41c76953.md)
+- [00:37:15](/episodes/ep-hWTdXHGQ8R4.md#t-00-36-41) [◐] (Citation) ["Charlie Kirk began pivoting away from Zionism about a year before his death, and..."](/statements/statement-ef7d41c76953.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Zionism](/entities/concept-zionism.md), [Catholicism](/entities/concept-catholicism.md)
+
+- [00:49:56](/episodes/ep-hWTdXHGQ8R4.md#t-00-49-56) [✓] (Promise) ["We will produce an Erika Kirk background series that separates fact from fiction..."](/statements/statement-f1767614f8c5.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:51:58](/episodes/ep-hWTdXHGQ8R4.md#t-00-51-58) [◐] (Claim) ["The event scheduled for the day after Utah Valley University was at Charis Bible..."](/statements/statement-ac0c7f4d2a3b.md)
+  - About: [Charis Bible College](/entities/org-charis-bible-college.md), [Colorado](/entities/gpe-colorado.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:52:25](/episodes/ep-hWTdXHGQ8R4.md#t-00-51-58) [○] (Opinion) ["If the legal system can pin Charlie Kirk's killing on a random person without ev..."](/statements/statement-1bdbc7eceb29.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [United States](/entities/gpe-united-states.md)
+
+- [00:52:27](/episodes/ep-hWTdXHGQ8R4.md#t-00-51-58) [✗] (Accusation) ["Not a shred of evidence has been produced tying Tyler Robinson to Charlie Kirk's..."](/statements/statement-c243da673f7e.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
@@ -6024,7 +6175,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
   - About: [Egypt](/entities/gpe-egypt.md), [Turning Point Faith](/entities/org-turning-point-faith.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:37:47](/episodes/ep-DYD_QHMPwqM.md#t-00-37-47) [◐] (Accusation) ["Because bomb-detection dogs could not smell the gun, the gun was planted and can..."](/statements/statement-37c7915351b4.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler James Robinson](/entities/person-tyler-james-robinson.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
 
 - [00:37:47](/episodes/ep-DYD_QHMPwqM.md#t-00-37-47) [○] (Accusation) ["Terryl Farnsworth was supposed to take the cameras down so that no footage would..."](/statements/statement-2f261974e039.md)
   - About: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
@@ -6243,7 +6394,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Turning Point Faith](/entities/org-turning-point-faith.md)
 
 - [00:42:53](/episodes/ep-Wjul6YV6izo.md#t-00-42-21) [○] (Opinion) ["Candace Owens has presented more evidence than the FBI did against Tyler Robinso..."](/statements/statement-eb24f2d12e67.md)
-  - About: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Tyler James Robinson](/entities/person-tyler-james-robinson.md)
+  - About: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:43:54](/episodes/ep-Wjul6YV6izo.md#t-00-43-40) [○] (Accusation) ["Turning Point USA is behaving as though it is guilty and believes it can spend m..."](/statements/statement-6b9fc27743bb.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
@@ -6950,7 +7101,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [01:06:30](/episodes/ep-2T39-oADLj0.md#t-01-06-18) [○] (Accusation) ["Tyler Robinson's prints were not the only prints on the gun, and officials had n..."](/statements/statement-e85799e88406.md)
-  - About: [Tyler James Robinson](/entities/person-tyler-james-robinson.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [01:06:38](/episodes/ep-2T39-oADLj0.md#t-01-06-37) [○] (Accusation) ["I think Lance Twiggs was more involved in Charlie Kirk's killing, but did not fi..."](/statements/statement-5fce59087760.md)
   - About: [Lance Twiggs](/entities/person-lance-twiggs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -6959,7 +7110,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [George Zinn](/entities/person-george-zinn.md)
 
 - [01:07:20](/episodes/ep-2T39-oADLj0.md#t-01-07-17) [✗] (Accusation) ["I think Tyler Robinson's role was to collect clothes near a Dairy Queen and disp..."](/statements/statement-95098acadd62.md)
-  - About: [Tyler James Robinson](/entities/person-tyler-james-robinson.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [01:07:37](/episodes/ep-2T39-oADLj0.md#t-01-07-20) [○] (Accusation) ["I think Lance Twiggs is the person walking with the backpack in the footage."](/statements/statement-1e89fc34f72c.md)
   - About: [Lance Twiggs](/entities/person-lance-twiggs.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
@@ -7501,34 +7652,34 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (44)</summary>
 
 - [00:00:14](/episodes/ep-HYn0P-P1wUw.md#t-00-00-00) [◐] (Claim) ["Before the murder case, Tyler Robinson had never been arrested or committed a cr..."](/statements/statement-149f5698bfd9.md)
-  - About: [Tyler James Robinson](/entities/person-tyler-james-robinson.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:02:49](/episodes/ep-HYn0P-P1wUw.md#t-00-02-25) [○] (Claim) ["Tyler Robinson drove roughly three hours from Orem to Panguitch, Utah, after the..."](/statements/statement-9d6356ccece4.md)
-  - About: [Tyler James Robinson](/entities/person-tyler-james-robinson.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:03:16](/episodes/ep-HYn0P-P1wUw.md#t-00-03-07) [○] (Claim) ["Tyler Robinson ate at Cowboy Smokehouse in Panguitch on the evening of September..."](/statements/statement-981a45e6a181.md)
-  - About: [Tyler James Robinson](/entities/person-tyler-james-robinson.md), [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
 
 - [00:03:40](/episodes/ep-HYn0P-P1wUw.md#t-00-03-07) [◐] (Claim) ["A Cowboy Smokehouse server recognized Tyler Robinson from news photos, and manag..."](/statements/statement-fe61eeeffecb.md)
-  - About: [Tyler James Robinson](/entities/person-tyler-james-robinson.md), [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
 
 - [00:07:07](/episodes/ep-HYn0P-P1wUw.md#t-00-06-45) [○] (Accusation) ["Federal investigators did not visit Cowboy Smokehouse to interview staff or inve..."](/statements/statement-a8acb595a9d6.md)
-  - About: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md), [Tyler James Robinson](/entities/person-tyler-james-robinson.md)
+  - About: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:08:38](/episodes/ep-HYn0P-P1wUw.md#t-00-08-14) [○] (Claim) ["The FBI possesses the Cowboy Smokehouse receipt documenting Tyler Robinson's vis..."](/statements/statement-dff1d8971892.md)
-  - About: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Tyler James Robinson](/entities/person-tyler-james-robinson.md), [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
+  - About: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
 
 - [00:10:04](/episodes/ep-HYn0P-P1wUw.md#t-00-09-43) [◐] (Claim) ["Tyler Robinson arrived at Cowboy Smokehouse at approximately 8:45 p.m. and left ..."](/statements/statement-fc81a7fec897.md)
-  - About: [Tyler James Robinson](/entities/person-tyler-james-robinson.md), [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
 
 - [00:10:33](/episodes/ep-HYn0P-P1wUw.md#t-00-10-27) [○] (Opinion) ["Tyler Robinson may have gone to his grandmother's house after leaving Cowboy Smo..."](/statements/statement-d3d1fc988477.md)
-  - About: [Tyler James Robinson](/entities/person-tyler-james-robinson.md), [Anonymous Source #3 (Ep HYn0P-P1wUw)](/entities/anon-src-HYn0P-P1wUw-003.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Anonymous Source #3 (Ep HYn0P-P1wUw)](/entities/anon-src-HYn0P-P1wUw-003.md)
 
 - [00:12:39](/episodes/ep-HYn0P-P1wUw.md#t-00-12-29) [✓] (Claim) ["Charlie Kirk was abandoning the pro-Israel cause 48 hours before he was assassin..."](/statements/statement-3497281e5ebb.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:13:07](/episodes/ep-HYn0P-P1wUw.md#t-00-12-29) [○] (Claim) ["Tyler Robinson called out of work on September 10 to help his grandmother move f..."](/statements/statement-728f661d2782.md)
-  - About: [Tyler James Robinson](/entities/person-tyler-james-robinson.md), [Wilde Electric, Inc.](/entities/org-wilde-electric.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Wilde Electric, Inc.](/entities/org-wilde-electric.md)
 
 - [00:14:04](/episodes/ep-HYn0P-P1wUw.md#t-00-13-56) [○] (Claim) ["Before his death, Charlie Kirk attended Mass, prayed the rosary, wore a Saint Mi..."](/statements/statement-7cd54cf93ff5.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -7555,7 +7706,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
   - About: [Pierre Falcone](/entities/person-pierre-falcone.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:17:13](/episodes/ep-HYn0P-P1wUw.md#t-00-16-33) [○] (Opinion) ["Candace Owens does not believe Tyler Robinson killed Charlie Kirk."](/statements/statement-fea6612c6404.md)
-  - About: [Tyler James Robinson](/entities/person-tyler-james-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:18:24](/episodes/ep-HYn0P-P1wUw.md#t-00-17-56) [○] (Claim) ["Erika Kirk supplied a Charlie Kirk contact card but had not supplied the request..."](/statements/statement-971e6cda8384.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -11051,7 +11202,18 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Candace Owens (236)</strong></summary>
+<summary><strong class="section-title">Statements about Candace Owens (238)</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2)</summary>
+
+- [00:41:08](/episodes/ep-1hcjQGgvxUY.md#t-00-40-58) (Opinion) **Candace Owens**: ["Candace Owens retired from politics on the day Charlie Kirk was killed..."](/statements/statement-06278ec0beae.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:50:38](/episodes/ep-1hcjQGgvxUY.md#t-00-50-14) (Accusation) **Candace Owens**: ["Candace Owens says Alex Clark demanded that Seth Dillon call Owens's s..."](/statements/statement-a831f72ad994.md)
+  - Also about: [Alex Clark](/entities/person-alex-clark.md), [Seth Dillon](/entities/person-seth-dillon.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1)</summary>

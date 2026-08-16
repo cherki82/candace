@@ -1,6 +1,6 @@
 ---
 title: "Canada"
-description: "Canada (Places) - 15 mentions"
+description: "Canada (Places) - 16 mentions"
 id: "gpe-canada"
 type: "GPE"
 categories:
@@ -19,6 +19,14 @@ Source: [Government of Canada](https://www.canada.ca/en.html)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:32:24](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-canada-t-00-32-12)**
+> "...aking place, I don't know, in Canada or overseas, whatever it is, and people might not..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (2 mentions)</summary>

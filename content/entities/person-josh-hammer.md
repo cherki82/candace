@@ -1,6 +1,6 @@
 ---
 title: "Josh Hammer"
-description: "Josh Hammer (People) - 159 mentions"
+description: "Josh Hammer (People) - 161 mentions"
 id: "person-josh-hammer"
 type: "PERSON"
 aliases:
@@ -25,6 +25,17 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>
+
+**[00:03:01](/episodes/ep-1hcjQGgvxUY.md#ent-person-josh-hammer-t-00-33-24)**
+> "...ted just met Miss Arizona and Josh Harrelson heart eyes emoji."
+
+**[00:33:53](/episodes/ep-1hcjQGgvxUY.md#ent-person-josh-hammer-t-00-33-24)**
+> "... think the editor at large is Josh Hammer."
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (8 mentions)</summary>

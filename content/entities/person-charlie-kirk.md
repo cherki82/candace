@@ -1,6 +1,6 @@
 ---
 title: "Charlie Kirk"
-description: "Charlie Kirk (People) - 3503 mentions"
+description: "Charlie Kirk (People) - 3539 mentions"
 id: "person-charlie-kirk"
 type: "PERSON"
 aliases:
@@ -24,6 +24,119 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (36 mentions)</summary>
+
+**[00:11:38](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-11-21)**
+> "... to point that out is because Charlie Kirk and I did a lot on the road discussing father abs..."
+
+**[00:21:13](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-20-53)**
+> "...ter for wondering if Charlie (Charlie Kirk) also began to notice this theme in the end becau..."
+
+**[00:22:02](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-22-02)**
+> "Charlie (Charlie Kirk)'s death on September 8th at 1049 a.m. Arizona ti..."
+
+**[00:22:32](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-22-02)**
+> "...gain on the day that Charlie (Charlie Kirk) is assassinated at 9.45 a.m. Arizona time."
+
+**[00:26:09](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-26-09)**
+> "... or on the 10th when Charlie (Charlie Kirk) was assassinated because the story goes."
+
+**[00:26:40](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-26-09)**
+> "...specially people who knew who Charlie Kirk was."
+
+**[00:29:59](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-29-58)**
+> "during the Charlie Kirk assassination,"
+
+**[00:30:48](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-30-37)**
+> "...edacted however on the day of charlie kirk's assassination the morning of before his death the..."
+
+**[00:31:19](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-31-19)**
+> "the day of Charlie Kirk's assassination is the only one that has a color of..."
+
+**[00:33:09](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-32-42)**
+> "...curiously there when Charlie (Charlie Kirk) was hosting his last show and then was suddenly ..."
+
+**[00:34:01](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-34-01)**
+> "...moved a photograph of her and Charlie Kirk at their wedding,"
+
+**[00:34:54](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-34-45)**
+> "...justice for Gigi (daughter of Charlie and Erika Kirk; full name unverified). They keep ..."
+
+**[00:35:04](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-34-45)**
+> "...re treating Gigi (daughter of Charlie and Erika Kirk; full name unverified) like Puerto..."
+
+**[00:35:15](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-35-15)**
+> "...he alibi remember gigi kicked charlie out of the bed the night before because she was d..."
+
+**[00:35:38](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-35-15)**
+> "leave Gigi (daughter of Charlie and Erika Kirk; full name unverified) alone."
+
+**[00:37:10](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-36-43)**
+> "...rlier suspicion that Charlie (Charlie Kirk) himself moved the photo because he did not."
+
+**[00:37:29](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-37-19)**
+> "...despite the fact that this is charlie's home studio in the aftermath of charlie's assassi..."
+
+**[00:37:52](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-37-19)**
+> "What does he do for Charlie (Charlie Kirk)? Nobody knows."
+
+**[00:38:20](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-38-03)**
+> "...He's been sitting at Charlie (Charlie Kirk)'s desk."
+
+**[00:38:26](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-38-03)**
+> "...debunk the idea that Charlie (Charlie Kirk) moved the photo,"
+
+**[00:38:32](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-38-03)**
+> "...ted to take over for Charlie (Charlie Kirk) and they were doing it very hard and very quickl..."
+
+**[00:38:40](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-38-03)**
+> "...ember 22nd seated in Charlie (Charlie Kirk)'s chair at home."
+
+**[00:38:46](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-38-46)**
+> "...s just 11 days after Charlie (Charlie Kirk)'s assassination and it also happens to be the sa..."
+
+**[00:39:00](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-38-46)**
+> "It's what Charlie (Charlie Kirk) would want."
+
+**[00:39:01](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-38-46)**
+> "Charlie (Charlie Kirk) is dancing in heaven,"
+
+**[00:39:07](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-38-46)**
+> "If you want Charlie (Charlie Kirk) to dance in heaven when she was giving that whol..."
+
+**[00:39:28](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-39-28)**
+> "... i can't really vibe out with charlie's he's probably he probably even put up his own pho..."
+
+**[00:40:14](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-40-14)**
+> "...nd lying to us about Charlie (Charlie Kirk) and Erica (Erika Kirk)."
+
+**[00:41:09](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-40-58)**
+> "...olitics the day they took out Charlie Kirk and lied to us about it."
+
+**[00:50:13](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-49-30)**
+> "It's all Charlie (Charlie Kirk) was."
+
+**[00:51:02](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-50-52)**
+> "...the memorial site of Charlie (Charlie Kirk) to pose for what was it the Washington Post,"
+
+**[00:57:57](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-57-57)**
+> "...vet did it, Gigi (daughter of Charlie and Erika Kirk; full name unverified) did it. Poo..."
+
+**[00:58:55](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-58-24)**
+> "...hat stands regarding Charlie (Charlie Kirk)'s death starting now. All God's people say amen."
+
+**[00:59:46](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-59-08)**
+> "..., you know, Gigi (daughter of Charlie and Erika Kirk; full name unverified) wanted the ..."
+
+**[00:59:50](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-59-08)**
+> "Gigi (daughter of Charlie and Erika Kirk; full name unverified) needed,"
+
+**[00:59:51](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-59-51)**
+> "...thing about Gigi (daughter of Charlie and Erika Kirk; full name unverified) or Andrew K..."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (63 mentions)</summary>
@@ -10919,6 +11032,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
   - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:09](/episodes/ep-yAIb-NuUh_U.md#t-00-00-01): "throwback clip from Charlie Kirk and me back when I had a show on PragerU"
+  - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:12:21](/episodes/ep-hWTdXHGQ8R4.md#t-00-11-50): "Has Charlie (Charlie Kirk) never been to UVU before? ... No, he has actually been with me. ... I've done UVU with him."
 
 - **[Frank Turek](/entities/person-frank-turek.md)**
   - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:14:13](/episodes/ep-c5BcKF91iec.md#t-00-14-02): "He pointed out that like the only person who was acting right was Frank Turek. Like, the first thing you do is get down, right? Because you don't know if there's going to be another shot."
@@ -11323,6 +11437,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
   - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:06:59](/episodes/ep-mFuno0TuuQQ.md#t-00-06-56): "He was naive to what the wrong money could invite into his life. And I warned him."
+  - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:37:16](/episodes/ep-hWTdXHGQ8R4.md#t-00-36-41): "I wish that Charlie Kirk had listened to me because I warned him."
 
 </details>
 
@@ -11362,6 +11477,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 - **[Candace Owens](/entities/person-candace-owens.md)** appeared with this
   - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:09](/episodes/ep-yAIb-NuUh_U.md#t-00-00-01)
+  - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:12:21](/episodes/ep-hWTdXHGQ8R4.md#t-00-11-50)
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** appeared with this
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:09:24](/episodes/ep-sreYYcID-QY.md#t-00-08-58)
@@ -11606,6 +11722,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 - **[Candace Owens](/entities/person-candace-owens.md)** warned this
   - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:06:59](/episodes/ep-mFuno0TuuQQ.md#t-00-06-56)
+  - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:37:16](/episodes/ep-hWTdXHGQ8R4.md#t-00-36-41)
 
 - **[Candace Owens](/entities/person-candace-owens.md)** warned by this
   - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:01:02](/episodes/ep-sImMM04XdWY.md#t-00-00-39)
@@ -11862,10 +11979,55 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk (630)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk (646)</strong></summary>
 
 <details>
-<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (18)</summary>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (14)</summary>
+
+- [00:21:40](/episodes/ep-1hcjQGgvxUY.md#t-00-21-36) (Claim) **Candace Owens**: ["Erika Kirk had not authored a tweet since 2023 and broke that silence ..."](/statements/statement-5f58859cf4b9.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Twitter](/entities/org-twitter.md)
+
+- [00:22:32](/episodes/ep-1hcjQGgvxUY.md#t-00-22-02) (Claim) **Candace Owens**: ["On the day Charlie Kirk was assassinated, Erika Kirk tweeted at 9:45 a..."](/statements/statement-32a5c5f80f7b.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Twitter](/entities/org-twitter.md)
+
+- [00:26:16](/episodes/ep-1hcjQGgvxUY.md#t-00-26-09) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens reports that Turning Point USA employees were told Erika..."](/statements/statement-72b97bc5a616.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+- [00:29:24](/episodes/ep-1hcjQGgvxUY.md#t-00-29-04) (Accusation) **Candace Owens**: ["Candace Owens believes September 10 was a military operation."](/statements/statement-79309b49d3b4.md)
+  - Also about: [Psychological operations](/entities/concept-psychological-operations.md)
+
+- [00:30:37](/episodes/ep-1hcjQGgvxUY.md#t-00-30-37) (Citation) **Anonymous Source #2 (Ep 1hcjQGgvxUY)**: ["An anonymous TikTok creator says 40 FBI briefings mention a color of t..."](/statements/statement-09584b6cf183.md)
+  - Also about: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [United States Department of Justice](/entities/org-united-states-department-of-justice.md)
+
+- [00:32:42](/episodes/ep-1hcjQGgvxUY.md#t-00-32-42) (Accusation) **Candace Owens**: ["Candace Owens says the men wearing maroon at the Charlie Kirk event we..."](/statements/statement-d75bf645cb20.md)
+
+- [00:34:09](/episodes/ep-1hcjQGgvxUY.md#t-00-34-01) (Claim) **Turning Point USA** (via quoted article): ["Erika Kirk moved the wedding photograph to a lower studio shelf when h..."](/statements/statement-cc46782599d2.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:37:10](/episodes/ep-1hcjQGgvxUY.md#t-00-36-43) (Claim) **Candace Owens**: ["Candace Owens says her earlier suspicion that Charlie Kirk moved the w..."](/statements/statement-cf76207779ed.md)
+
+- [00:38:03](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03) (Claim) **Candace Owens**: ["The wedding photo was absent from Charlie Kirk's home studio during Mi..."](/statements/statement-466c43c50dc3.md)
+  - Also about: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Real America's Voice](/entities/org-real-americas-voice.md)
+
+- [00:38:40](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03) (Claim) **Candace Owens**: ["The wedding photo was visible behind Mikey McCoy when he appeared from..."](/statements/statement-14a9b17ecbb0.md)
+  - Also about: [Mikey McCoy](/entities/person-mikey-mccoy.md), [Martha MacCallum](/entities/person-martha-maccallum.md), [Fox News](/entities/org-fox-news.md)
+
+- [00:39:28](/episodes/ep-1hcjQGgvxUY.md#t-00-39-28) (Accusation) **Candace Owens**: ["Candace Owens says Mikey McCoy probably moved Charlie Kirk's wedding p..."](/statements/statement-68502daf415a.md)
+  - Also about: [Mikey McCoy](/entities/person-mikey-mccoy.md)
+
+- [00:40:18](/episodes/ep-1hcjQGgvxUY.md#t-00-40-14) (Accusation) **Candace Owens**: ["Candace Owens says she still feels very strongly that Charlie Kirk and..."](/statements/statement-bb52b406727b.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:41:08](/episodes/ep-1hcjQGgvxUY.md#t-00-40-58) (Opinion) **Candace Owens**: ["Candace Owens retired from politics on the day Charlie Kirk was killed..."](/statements/statement-06278ec0beae.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:57:57](/episodes/ep-1hcjQGgvxUY.md#t-00-57-57) (Opinion) **Candace Owens**: ["Candace Owens says it is time for authorities to bring Erika Kirk in b..."](/statements/statement-810358959098.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (20)</summary>
 
 - [00:03:34](/episodes/ep-hWTdXHGQ8R4.md#t-00-03-34) (Claim) **Candace Owens**: ["Charlie Kirk's wedding photo was visible behind him in his home studio..."](/statements/statement-e216a7e5e578.md)
 
@@ -11914,6 +12076,12 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 - [00:37:15](/episodes/ep-hWTdXHGQ8R4.md#t-00-36-41) (Citation) **Candace Owens**: ["Charlie Kirk began pivoting away from Zionism about a year before his ..."](/statements/statement-ef7d41c76953.md)
   - Also about: [Zionism](/entities/concept-zionism.md), [Catholicism](/entities/concept-catholicism.md)
+
+- [00:52:25](/episodes/ep-hWTdXHGQ8R4.md#t-00-51-58) (Opinion) **Candace Owens**: ["If the legal system can pin Charlie Kirk's killing on a random person ..."](/statements/statement-1bdbc7eceb29.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [United States](/entities/gpe-united-states.md)
+
+- [00:52:27](/episodes/ep-hWTdXHGQ8R4.md#t-00-51-58) (Accusation) **Candace Owens**: ["Not a shred of evidence has been produced tying Tyler Robinson to Char..."](/statements/statement-c243da673f7e.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </details>
 
@@ -12044,7 +12212,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [Egypt](/entities/gpe-egypt.md)
 
 - [00:37:47](/episodes/ep-DYD_QHMPwqM.md#t-00-37-47) (Accusation) **Candace Owens**: ["Because bomb-detection dogs could not smell the gun, the gun was plant..."](/statements/statement-37c7915351b4.md)
-  - Also about: [Tyler James Robinson](/entities/person-tyler-james-robinson.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
 
 - [00:37:47](/episodes/ep-DYD_QHMPwqM.md#t-00-37-47) (Accusation) **Candace Owens**: ["Terryl Farnsworth was supposed to take the cameras down so that no foo..."](/statements/statement-2f261974e039.md)
   - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Turning Point USA](/entities/org-turning-point-usa.md)
@@ -12538,7 +12706,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Kanye West](/entities/person-kanye-west.md)
 
 - [00:10:53](/episodes/ep-zSKrxIUMNqw.md#t-00-10-51) (Opinion) **Gossy Gossworthy** (via quoted speech): ["Because Tyler Robinson is alive while bees die after stinging, he coul..."](/statements/statement-da83097a367c.md)
-  - Also about: [Tyler James Robinson](/entities/person-tyler-james-robinson.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:16:42](/episodes/ep-zSKrxIUMNqw.md#t-00-16-36) (Accusation) **Candace Owens**: ["Charlie Kirk was killed when he tried to leave an entertainment gang."](/statements/statement-9e4c24f34534.md)
   - Also about: [Organized crime](/entities/concept-organized-crime.md)
@@ -12588,7 +12756,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (11)</summary>
 
 - [00:10:58](/episodes/ep-HYn0P-P1wUw.md#t-00-10-27) (Claim) **Anonymous Source #3 (Ep HYn0P-P1wUw)** (via quoted speech): ["Tyler Robinson's grandmother said that he did not fire guns and did no..."](/statements/statement-7f09228a0058.md)
-  - Also about: [Tyler James Robinson](/entities/person-tyler-james-robinson.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:12:39](/episodes/ep-HYn0P-P1wUw.md#t-00-12-29) (Claim) **Candace Owens**: ["Charlie Kirk was abandoning the pro-Israel cause 48 hours before he wa..."](/statements/statement-3497281e5ebb.md)
 
@@ -12607,7 +12775,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
 
 - [00:17:13](/episodes/ep-HYn0P-P1wUw.md#t-00-16-33) (Opinion) **Candace Owens**: ["Candace Owens does not believe Tyler Robinson killed Charlie Kirk."](/statements/statement-fea6612c6404.md)
-  - Also about: [Tyler James Robinson](/entities/person-tyler-james-robinson.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:18:24](/episodes/ep-HYn0P-P1wUw.md#t-00-17-56) (Claim) **Candace Owens**: ["Erika Kirk supplied a Charlie Kirk contact card but had not supplied t..."](/statements/statement-971e6cda8384.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)

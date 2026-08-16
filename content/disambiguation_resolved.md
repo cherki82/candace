@@ -1,8 +1,8 @@
 # Entity Disambiguation - Resolved Mentions
 
-Generated: 2026-08-16 10:20:21
+Generated: 2026-08-16 11:28:05
 
-**13 ambiguous mentions** were automatically resolved using context.
+**10 ambiguous mentions** were automatically resolved using context.
 
 Review these to verify the disambiguation was correct.
 
@@ -18,7 +18,7 @@ Review these to verify the disambiguation was correct.
 
 ## `Macron` (8 resolved)
 
-**Candidates:** Emmanuel Macron, Brigitte Macron
+**Candidates:** Brigitte Macron, Emmanuel Macron
 
 | Episode | Location | Resolved To | Context |
 |---------|----------|-------------|--------|
@@ -38,14 +38,4 @@ Review these to verify the disambiguation was correct.
 | Episode | Location | Resolved To | Context |
 |---------|----------|-------------|--------|
 | sreYYcID-QY | t-00-00-33 | **PBD Podcast** | ...d Eric Bolling is just lying through his teeth on PBD, the P... |
-
-## `pro-Israel` (3 resolved)
-
-**Candidates:** Israel, Pro-Israel advocacy
-
-| Episode | Location | Resolved To | Context |
-|---------|----------|-------------|--------|
-| 2T39-oADLj0 | t-00-32-04 | **Israel** | ...re on me to get out there and say things that are pro-Israel... |
-| CEF7gQRWYCE | t-00-39-33 | **Israel** | ... Josh Hammer is lying, that Charlie Kirk remained pro-Israel... |
-| gG4ZoYUjUc8 | t-00-06-27 | **Israel** | ...o send any legal letters over to any body that is pro-Israel... |
 

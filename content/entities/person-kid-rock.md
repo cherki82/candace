@@ -54,3 +54,19 @@ Source: [TPUSA: All American Halftime Show lineup](https://tpusa.com/live/tpusa-
 _No relationships extracted yet._
 
 </details>
+
+<details open>
+<summary><strong class="section-title">Statements about Kid Rock (2)</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (2)</summary>
+
+- [00:40:57](/episodes/ep-hWTdXHGQ8R4.md#t-00-40-43) (Claim) **Anonymous Source #3 (Ep hWTdXHGQ8R4)** (via read message): ["Halftime-show participants sometimes waited for hours without communic..."](/statements/statement-c1a78067d7c1.md)
+  - Also about: [The All-American Halftime Show](/entities/event-all-american-halftime-show-2026.md), [Gabby Barrett](/entities/person-gabby-barrett.md)
+
+- [00:42:03](/episodes/ep-hWTdXHGQ8R4.md#t-00-41-22) (Claim) **Anonymous Source #3 (Ep hWTdXHGQ8R4)** (via read message): ["Turning Point USA covered participants' hotel rooms but assigned rando..."](/statements/statement-0d62c39dde8e.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [The All-American Halftime Show](/entities/event-all-american-halftime-show-2026.md), [Non-disclosure agreement](/entities/concept-nondisclosure-agreement.md)
+
+</details>
+
+</details>

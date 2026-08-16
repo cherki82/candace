@@ -1,6 +1,6 @@
 ---
 title: "Genetically modified organisms"
-description: "Genetically modified organisms (Concepts) - 2 mentions"
+description: "Genetically modified organisms (Concepts) - 3 mentions"
 id: "concept-genetically-modified-organisms"
 type: "CONCEPT"
 aliases:
@@ -21,6 +21,14 @@ _Type: Concepts_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:51:43](/episodes/ep-1hcjQGgvxUY.md#t-00-51-30)**
+> "or GMOs, just clean, nutrient-dense fuel the way that foo..."
+
+</details>
 
 <details>
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (1 mentions)</summary>

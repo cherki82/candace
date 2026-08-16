@@ -1,6 +1,6 @@
 ---
 title: "Taylor Swift"
-description: "Taylor Swift (People) - 28 mentions"
+description: "Taylor Swift (People) - 29 mentions"
 id: "person-taylor-swift"
 type: "PERSON"
 aliases:
@@ -24,6 +24,14 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:13:17](/episodes/ep-1hcjQGgvxUY.md#ent-person-taylor-swift-t-00-12-46)**
+> "...ys been my biggest gripe with Taylor Swift,"
+
+</details>
 
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (16 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Thomas Massie"
-description: "Thomas Massie (People) - 3 mentions"
+description: "Thomas Massie (People) - 7 mentions"
 id: "person-thomas-massie"
 type: "PERSON"
 aliases:
@@ -24,6 +24,23 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (4 mentions)</summary>
+
+**[00:42:27](/episodes/ep-1hcjQGgvxUY.md#ent-person-thomas-massie-t-00-42-25)**
+> "We have the Massie (Thomas Massie) discharge petition."
+
+**[00:42:31](/episodes/ep-1hcjQGgvxUY.md#ent-person-thomas-massie-t-00-42-25)**
+> "...on trying to kill the Massie (Thomas Massie) discharge petition,"
+
+**[00:42:34](/episodes/ep-1hcjQGgvxUY.md#ent-person-thomas-massie-t-00-42-25)**
+> "...ouse says passing the Massie (Thomas Massie) discharge petition is a hostile act."
+
+**[00:42:57](/episodes/ep-1hcjQGgvxUY.md#ent-person-thomas-massie-t-00-42-25)**
+> "Massie (Thomas Massie) discharge petition."
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1 mentions)</summary>

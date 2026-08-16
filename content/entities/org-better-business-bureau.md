@@ -1,6 +1,6 @@
 ---
 title: "Better Business Bureau"
-description: "Better Business Bureau (Organizations) - 9 mentions"
+description: "Better Business Bureau (Organizations) - 10 mentions"
 id: "org-better-business-bureau"
 type: "ORG"
 aliases:
@@ -23,6 +23,14 @@ Source: [Better Business Bureau — About BBB](https://www.bbb.org/all/about-bbb
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:28:26](/episodes/ep-1hcjQGgvxUY.md#ent-org-better-business-bureau-t-00-28-21)**
+> "...S debt is A plus rated by the Better Business Bureau,"
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1 mentions)</summary>

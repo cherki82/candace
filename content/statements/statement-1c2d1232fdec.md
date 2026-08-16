@@ -4,9 +4,10 @@ description: "\"Erika Kirk stayed in Phoenix to care for her mother during a med
 statement_id: "statement-1c2d1232fdec"
 speaker: "Jesse Watters"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -37,7 +38,21 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Transcript context accurately quotes Jesse Watters on Erika staying in Phoenix for her mother's medical issue, which Fox corroborates. But the location/timing is conflated: the next-day September 11 engagement was at Charis Bible College; Colorado State was scheduled a week later on September 18.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Erika Kirk recalls last moments with Charlie before his 'horror movie' murder](https://www.foxnews.com/media/erika-kirk-recalls-last-moments-charlie-before-his-horror-movie-murder-addresses-assassination-video/)
+- [Truth & Liberty Coalition 2025 Conference Schedule](https://info.truthandliberty.net/hubfs/Conference_Schedule_2025.pdf)
+
+*Verified: 2026-08-16T10:43:43.713997*
 
 ---
 

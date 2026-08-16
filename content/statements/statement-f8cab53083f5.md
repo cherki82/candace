@@ -4,9 +4,10 @@ description: "\"On the morning of September 10, Charlie Kirk retrieved his weddi
 statement_id: "statement-f8cab53083f5"
 speaker: "Erika Kirk"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Transcript context matches Erika Kirk's first-person account that Charlie collected his wedding ring and necklace from the bathroom and left before she kissed him goodbye. Fox's report of the original interview confirms all core details; the event is private and supported principally by one participant.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Erika Kirk recalls last moments with Charlie before his 'horror movie' murder](https://www.foxnews.com/media/erika-kirk-recalls-last-moments-charlie-before-his-horror-movie-murder-addresses-assassination-video/)
+
+*Verified: 2026-08-16T10:43:40.800844*
 
 ---
 

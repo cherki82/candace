@@ -1,6 +1,6 @@
 ---
 title: "Stacey Sheridan"
-description: "Stacey Sheridan (People) - 12 mentions"
+description: "Stacey Sheridan (People) - 16 mentions"
 id: "person-stacey-sheridan"
 type: "PERSON"
 aliases:
@@ -15,6 +15,23 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (4 mentions)</summary>
+
+**[00:19:52](/episodes/ep-1hcjQGgvxUY.md#ent-person-stacey-sheridan-t-00-19-36)**
+> "Stacey Sheridan,"
+
+**[00:20:25](/episodes/ep-1hcjQGgvxUY.md#ent-person-stacey-sheridan-t-00-20-09)**
+> "But Stacey Sheridan is not Erica (Erika Kirk)'s real mom."
+
+**[00:25:28](/episodes/ep-1hcjQGgvxUY.md#ent-person-stacey-sheridan-t-00-25-28)**
+> "... is also the same school that Stacey Sheridan went to and people who went in that same year as ..."
+
+**[00:26:30](/episodes/ep-1hcjQGgvxUY.md#ent-person-stacey-sheridan-t-00-26-09)**
+> "but she apparently met Stacey Sheridan and a couple other people and then they went to t..."
+
+</details>
 
 <details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (8 mentions)</summary>
@@ -86,6 +103,17 @@ _Type: People_
 </details>
 
 <details>
+<summary>Formerly Worked For (2)</summary>
+
+- **[Kenneth Starr](/entities/person-kenneth-starr.md)**
+  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:09](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09): "for almost a decade she worked for Ken Star at the exact same time that he was working with Jeffrey Epstein"
+
+- **[Pepperdine University](/entities/org-pepperdine-university.md)**
+  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:19:57](/episodes/ep-1hcjQGgvxUY.md#t-00-19-36): "worked under Jeffrey Epstein's friend, Kenneth Starr at Pepperdine University."
+
+</details>
+
+<details>
 <summary>Hired By (1)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
@@ -105,7 +133,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
   - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:50](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20)
@@ -113,6 +141,12 @@ _Type: People_
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
   - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:35](/episodes/ep-c5BcKF91iec.md#t-00-04-27)
   - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:23](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20)
+
+- **[Kenneth Starr](/entities/person-kenneth-starr.md)** formerly employed this
+  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:09](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09)
+
+- **[Pepperdine University](/entities/org-pepperdine-university.md)** formerly employed this
+  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:19:57](/episodes/ep-1hcjQGgvxUY.md#t-00-19-36)
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** hired this
   - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:43](/episodes/ep-c5BcKF91iec.md#t-00-04-27)
@@ -123,7 +157,18 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Stacey Sheridan (1)</strong></summary>
+<summary><strong class="section-title">Statements about Stacey Sheridan (3)</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2)</summary>
+
+- [00:20:03](/episodes/ep-1hcjQGgvxUY.md#t-00-19-36) (Claim) **Candace Owens**: ["Stacey Sheridan's résumé says she worked in Kenneth Starr's Pepperdine..."](/statements/statement-768813e26649.md)
+  - Also about: [Kenneth Starr](/entities/person-kenneth-starr.md), [Pepperdine University](/entities/org-pepperdine-university.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+- [00:20:25](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09) (Claim) **Candace Owens**: ["Stacey Sheridan is not Erika Kirk's biological mother; Lori Frantzve i..."](/statements/statement-8d0169d15c59.md)
+  - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (1)</summary>

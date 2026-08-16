@@ -52,7 +52,35 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The All-American Halftime Show (7)</strong></summary>
+<summary><strong class="section-title">Statements about The All-American Halftime Show (15)</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (8)</summary>
+
+- [00:39:11](/episodes/ep-hWTdXHGQ8R4.md#t-00-38-45) (Claim) **Anonymous Source #3 (Ep hWTdXHGQ8R4)** (via read message): ["The All-American Halftime Show was filmed weeks in advance in Fayettev..."](/statements/statement-eea485e7dbd6.md)
+  - Also about: [Fayetteville, Georgia](/entities/gpe-fayetteville-georgia.md)
+
+- [00:39:28](/episodes/ep-hWTdXHGQ8R4.md#t-00-39-28) (Claim) **Anonymous Source #3 (Ep hWTdXHGQ8R4)** (via read message): ["Performers at the All-American Halftime Show did three to five takes p..."](/statements/statement-d52f602b5b67.md)
+  - Also about: [Gabby Barrett](/entities/person-gabby-barrett.md)
+
+- [00:39:40](/episodes/ep-hWTdXHGQ8R4.md#t-00-39-28) (Claim) **Anonymous Source #3 (Ep hWTdXHGQ8R4)** (via read message): ["Participants did not know they were signing up for a split halftime sh..."](/statements/statement-91eaeb3d162a.md)
+  - Also about: [Super Bowl LX](/entities/event-super-bowl-lx.md), [Bad Bunny](/entities/person-bad-bunny.md)
+
+- [00:39:58](/episodes/ep-hWTdXHGQ8R4.md#t-00-39-58) (Claim) **Anonymous Source #3 (Ep hWTdXHGQ8R4)** (via read message): ["Erika Kirk was not present during either of the All-American Halftime ..."](/statements/statement-49876748e489.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:40:33](/episodes/ep-hWTdXHGQ8R4.md#t-00-39-58) (Claim) **Anonymous Source #3 (Ep hWTdXHGQ8R4)** (via read message): ["All-American Halftime Show participants worked 12-hour days for a $250..."](/statements/statement-6b79f21aaf19.md)
+
+- [00:40:57](/episodes/ep-hWTdXHGQ8R4.md#t-00-40-43) (Claim) **Anonymous Source #3 (Ep hWTdXHGQ8R4)** (via read message): ["Halftime-show participants sometimes waited for hours without communic..."](/statements/statement-c1a78067d7c1.md)
+  - Also about: [Kid Rock](/entities/person-kid-rock.md), [Gabby Barrett](/entities/person-gabby-barrett.md)
+
+- [00:41:22](/episodes/ep-hWTdXHGQ8R4.md#t-00-41-22) (Prediction) **Anonymous Source #6 (Ep hWTdXHGQ8R4)** (via read message): ["A source told us President Trump would watch the All-American Halftime..."](/statements/statement-7ed8c7a9c843.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Bad Bunny](/entities/person-bad-bunny.md), [Super Bowl LX](/entities/event-super-bowl-lx.md)
+
+- [00:42:03](/episodes/ep-hWTdXHGQ8R4.md#t-00-41-22) (Claim) **Anonymous Source #3 (Ep hWTdXHGQ8R4)** (via read message): ["Turning Point USA covered participants' hotel rooms but assigned rando..."](/statements/statement-0d62c39dde8e.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Kid Rock](/entities/person-kid-rock.md), [Non-disclosure agreement](/entities/concept-nondisclosure-agreement.md)
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (7)</summary>

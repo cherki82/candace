@@ -1,6 +1,6 @@
 ---
 title: "The Wall Street Journal"
-description: "The Wall Street Journal (Organizations) - 7 mentions"
+description: "The Wall Street Journal (Organizations) - 8 mentions"
 id: "org-wall-street-journal"
 type: "ORG"
 aliases:
@@ -25,6 +25,14 @@ Source: [Exclusive: Ye, Formerly Kanye West, Tells VF About His WSJ Apology Adve
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:42:22](/episodes/ep-1hcjQGgvxUY.md#ent-org-wall-street-journal-t-00-41-41)**
+> "Miraculously, the leaks to the Wall Street Journal stopped."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (1 mentions)</summary>

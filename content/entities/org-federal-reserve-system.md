@@ -6,14 +6,13 @@ type: "ORG"
 aliases:
   - "Federal Reserve"
   - "the Fed"
-  - "Fed"
 categories:
   - "US central bank"
 ---
 
 _Type: Organizations_
 
-**Also known as:** Federal Reserve, the Fed, Fed
+**Also known as:** Federal Reserve, the Fed
 
 **Categories:** US central bank
 
@@ -44,19 +43,10 @@ Source: [Who owns the Federal Reserve?](https://www.federalreserve.gov/faqs/abou
 </details>
 
 <details>
-<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (5 mentions)</summary>
+<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (2 mentions)</summary>
 
 **[00:50:48](/episodes/ep-X92MllIHDzw.md#ent-org-federal-reserve-system-t-00-50-31)**
 > "The Fed dropped rates for the fourth time in December."
-
-**[00:13:04](/episodes/ep-X92MllIHDzw.md#ent-org-federal-reserve-system-t-00-50-31)**
-> "...s not because they were being fed by the public one way or the other, but because t..."
-
-**[00:40:00](/episodes/ep-X92MllIHDzw.md#ent-org-federal-reserve-system-t-00-50-31)**
-> "...orm the barriers as if he had fed,"
-
-**[00:40:02](/episodes/ep-X92MllIHDzw.md#ent-org-federal-reserve-system-t-00-50-31)**
-> "like he had fed instructions."
 
 **[00:40:11](/episodes/ep-X92MllIHDzw.md#ent-org-federal-reserve-system-t-00-50-31)**
 > "That the feds were going to beat that there was there was some ..."

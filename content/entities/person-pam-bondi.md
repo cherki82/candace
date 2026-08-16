@@ -1,6 +1,6 @@
 ---
 title: "Pam Bondi"
-description: "Pam Bondi (People) - 11 mentions"
+description: "Pam Bondi (People) - 12 mentions"
 id: "person-pam-bondi"
 type: "PERSON"
 aliases:
@@ -24,6 +24,14 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:46:30](/episodes/ep-1hcjQGgvxUY.md#ent-person-pam-bondi-t-00-46-30)**
+> "...onse, this next response from Pam Bondi, her perspective on it,"
+
+</details>
 
 <details>
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (4 mentions)</summary>
@@ -118,7 +126,21 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Pam Bondi (4)</strong></summary>
+<summary><strong class="section-title">Statements by Pam Bondi (7)</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (3)</summary>
+
+- [00:46:47](/episodes/ep-1hcjQGgvxUY.md#t-00-46-41) [○] (Claim) ["The Trump administration released more than three million pages of documents, an..."](/statements/statement-1bed1a88852c.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [White House](/entities/org-white-house.md), [Epstein Files](/entities/work-epstein-files.md)
+
+- [00:47:00](/episodes/ep-1hcjQGgvxUY.md#t-00-46-41) [○] (Opinion) ["Donald Trump is the most transparent president in the nation's history."](/statements/statement-80919448aba3.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:47:26](/episodes/ep-1hcjQGgvxUY.md#t-00-47-26) [○] (Claim) ["The Dow is above 50,000, the S&P is near 7,000, the NASDAQ is setting records, a..."](/statements/statement-ba3e36bb7d5a.md)
+  - About: [Dow Jones Industrial Average](/entities/concept-dow-jones-industrial-average.md), [S&P 500](/entities/concept-sp-500.md), [Nasdaq Composite](/entities/concept-nasdaq-composite.md)
+
+</details>
 
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (4)</summary>

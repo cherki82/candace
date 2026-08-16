@@ -1,6 +1,6 @@
 ---
 title: "The Secret Founding of America"
-description: "The Secret Founding of America (Works & Media) - 1 mention"
+description: "The Secret Founding of America (Works & Media) - 2 mentions"
 id: "work-the-secret-founding-of-america"
 type: "WORK"
 categories:
@@ -21,6 +21,14 @@ Source: [The Secret Founding of America by Nicholas Hagger](https://www.penguin.
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:53:50](/episodes/ep-1hcjQGgvxUY.md#ent-work-the-secret-founding-of-america-t-00-53-37)**
+> "...guys jumping into a new book, The Secret Founding of America."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>

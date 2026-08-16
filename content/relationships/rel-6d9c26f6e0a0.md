@@ -11,7 +11,11 @@ object: "person-glenn-beck"
 
 ## [Erika Kirk](/entities/person-erika-kirk) interviewed by [Glenn Beck](/entities/person-glenn-beck)
 
-### Evidence (2 mentions)
+### Evidence (4 mentions)
+
+**[Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY)**
+
+- [00:38:19](/episodes/ep-1hcjQGgvxUY#t-00-38-19): _as she told Glenn Beck_
 
 **[Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk)**
 
@@ -20,6 +24,10 @@ object: "person-glenn-beck"
 **[Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI)**
 
 - [00:05:48](/episodes/ep-es7PWdFGoFI#t-00-05-48): _We, Erika sat down with Glenn. I actually missed this portion because I didn't get to watch the interview in its entirety._
+
+**[VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4)**
+
+- [00:04:14](/episodes/ep-hWTdXHGQ8R4#t-00-04-14): _Well, then fast forward to December 12th. And as a part of her Shabbat Shalom PR blitz, she conducted her very first interview from Charlie (Charlie Kirk)'s home office. She gave an interview to Glenn Beck._
 
 ### Related
 

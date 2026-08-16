@@ -11,7 +11,7 @@ date: "2025-09-09"
 
 > Text messages the day before Charlie Kirk's death in which he warned he thought he would be killed.
 
-## Mentioned In (32 times)
+## Mentioned In (33 times)
 
 ### 1. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
 
@@ -268,3 +268,11 @@ date: "2025-09-09"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(637);return false;">▶️ Play</a>
 
 > een seeing a lot of vitriol that's been thrown at Andrew Kolvet's way because he is doing press. He is carrying on Charlie Kirk's show. He was already seated on Cha
+
+### 33. VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Canda...
+
+**Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
+**Timestamp:** [00:21:15](/episodes/ep-hWTdXHGQ8R4.md#event-event-2025-09-09-text-messages-the-day-before-charlie-kirk-s-death-t-00-21-15) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1275);return false;">▶️ Play</a>
+
+> messaged multiple people saying that he thought they were going to kill him the night before.

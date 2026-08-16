@@ -1,6 +1,6 @@
 ---
 title: "Andrew Kolvet"
-description: "Andrew Kolvet (People) - 328 mentions"
+description: "Andrew Kolvet (People) - 333 mentions"
 id: "person-andrew-kolvet"
 type: "PERSON"
 aliases:
@@ -25,6 +25,26 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (5 mentions)</summary>
+
+**[00:34:38](/episodes/ep-1hcjQGgvxUY.md#ent-person-andrew-kolvet-t-00-34-01)**
+> "...hey should have went with the Andrew Kolvet went rogue excuse."
+
+**[00:34:45](/episodes/ep-1hcjQGgvxUY.md#ent-person-andrew-kolvet-t-00-34-45)**
+> "I said to go with Andrew Kolvet went rogue. I love him being rogue."
+
+**[00:34:49](/episodes/ep-1hcjQGgvxUY.md#ent-person-andrew-kolvet-t-00-34-45)**
+> "...ainly is more believable that Andrew Kolvet went rogue."
+
+**[00:57:57](/episodes/ep-1hcjQGgvxUY.md#ent-person-andrew-kolvet-t-00-57-57)**
+> "..., and they're like, you know, Andrew Kolvet did it, Gigi (daughter of Charlie and Erika Kirk;..."
+
+**[00:59:51](/episodes/ep-1hcjQGgvxUY.md#ent-person-andrew-kolvet-t-00-59-51)**
+> "...irk; full name unverified) or Andrew Kolvet. Those are their two preferred methods of shoveli..."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (3 mentions)</summary>

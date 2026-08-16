@@ -1,6 +1,6 @@
 ---
 title: "Paris"
-description: "Paris (Places) - 20 mentions"
+description: "Paris (Places) - 21 mentions"
 id: "gpe-paris"
 type: "GPE"
 ---
@@ -11,6 +11,14 @@ _Type: Places_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:43:36](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-paris-t-00-43-07)**
+> "Paris modeling agency sending him girls."
+
+</details>
 
 <details>
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
