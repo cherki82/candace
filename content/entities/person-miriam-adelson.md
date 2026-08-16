@@ -1,6 +1,6 @@
 ---
 title: "Miriam Adelson"
-description: "Miriam Adelson (People) - 6 mentions"
+description: "Miriam Adelson (People) - 10 mentions"
 id: "person-miriam-adelson"
 type: "PERSON"
 categories:
@@ -55,6 +55,28 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 
 </details>
 
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
+
+**[00:57:07](/episodes/ep-yAIb-NuUh_U.md#ent-person-miriam-adelson-t-00-56-26)**
+> ""Was it Miriam Adelson?""
+
+**[00:57:11](/episodes/ep-yAIb-NuUh_U.md#ent-person-miriam-adelson-t-00-57-10)**
+> "No, Miriam Adelson is way too high up to have been that person on th..."
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
+
+**[01:06:47](/episodes/ep-Cq7nj9rxPdo.md#ent-person-miriam-adelson-t-01-07-05)**
+> "Miriam Adelson gave him 00 million"
+
+**[01:07:07](/episodes/ep-Cq7nj9rxPdo.md#ent-person-miriam-adelson-t-01-07-05)**
+> "Miriam Adelson gave him $100 million, and she was explicit."
+
+</details>
+
 </details>
 
 <details open>
@@ -82,13 +104,21 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Miriam Adelson (1)</strong></summary>
+<summary><strong class="section-title">Statements about Miriam Adelson (2)</strong></summary>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>
 
 - [00:19:08](/episodes/ep-xjzb_t5Tk9o.md#t-00-18-39) (Claim) **Matt Lieb** (via quoted speech): ["Matt Lieb said a Birthright trip featuring Benjamin Netanyahu and Miri..."](/statements/statement-38809d948064.md)
   - Also about: [Matt Lieb](/entities/person-matt-lieb.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Zionism](/entities/concept-zionism.md)
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
+
+- [01:07:07](/episodes/ep-Cq7nj9rxPdo.md#t-01-07-05) (Claim) **Candace Owens**: ["Miriam Adelson gave Donald Trump 100 million dollars and was explicit ..."](/statements/statement-c5319102ec05.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
 
 </details>
 

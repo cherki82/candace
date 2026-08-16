@@ -1,6 +1,6 @@
 ---
 title: "Lee Brice"
-description: "Lee Brice (People) - 3 mentions"
+description: "Lee Brice (People) - 4 mentions"
 id: "person-lee-brice"
 type: "PERSON"
 categories:
@@ -21,6 +21,14 @@ Source: [Lee Brice official biography](https://www.leebrice.com/about)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
+
+**[00:42:30](/episodes/ep-hWTdXHGQ8R4.md#ent-person-lee-brice-t-00-42-06)**
+> "...ly like I said, I really like Lee Brice's music. I listen to his music out of all of them."
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (3 mentions)</summary>

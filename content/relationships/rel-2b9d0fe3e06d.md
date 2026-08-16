@@ -1,0 +1,24 @@
+---
+title: "Blake Lively works for The Charlie Kirk Show"
+description: "Evidence for the relationship: Blake Lively works for The Charlie Kirk Show"
+relationship_id: "rel-2b9d0fe3e06d"
+subject: "person-blake-neff"
+predicate: "works for"
+object: "work-the-charlie-kirk-show"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Blake Lively](/entities/person-blake-neff) works for [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show)
+
+### Evidence (2 mentions)
+
+**[BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8)**
+
+- [00:02:54](/episodes/ep-his-JBjlkh8#t-00-02-54): _Blake Neff, by the way, is the producer of The Charlie Kirk Show_
+- [00:02:55](/episodes/ep-his-JBjlkh8#t-00-02-55): _Blake Neff, by the way, is the producer of The Charlie Kirk Show._
+
+### Related
+
+- [Blake Lively](/entities/person-blake-neff)
+- [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show)

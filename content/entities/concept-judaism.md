@@ -1,6 +1,6 @@
 ---
 title: "Judaism"
-description: "Judaism (Concepts) - 70 mentions"
+description: "Judaism (Concepts) - 72 mentions"
 id: "concept-judaism"
 type: "CONCEPT"
 aliases:
@@ -23,6 +23,17 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (2 mentions)</summary>
+
+**[00:30:02](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-judaism-t-00-29-58)**
+> "But if you do not, if the Jewish people are the only people that you deny the righ..."
+
+**[00:33:11](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-judaism-t-00-33-11)**
+> "... actually not a thing because judaism is a faith and you do not just get the rights to ..."
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (2 mentions)</summary>

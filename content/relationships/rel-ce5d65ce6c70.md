@@ -1,0 +1,84 @@
+---
+title: "Turning Point USA has CEO Erika Kirk"
+description: "Evidence for the relationship: Turning Point USA has CEO Erika Kirk"
+relationship_id: "rel-ce5d65ce6c70"
+subject: "org-turning-point-usa"
+predicate: "has CEO"
+object: "person-erika-kirk"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Turning Point USA](/entities/org-turning-point-usa) has CEO [Erika Kirk](/entities/person-erika-kirk)
+
+### Evidence (17 mentions)
+
+**[EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM)**
+
+- [00:00:48](/episodes/ep-A39g5oqB_eM#t-00-00-48): _Erika (Erika Kirk) installed as the new CEO and chairman. ... And she does begin the call by being thankful to the entire Turning Point USA team for their work at the memorial event._
+
+**[IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ)**
+
+- [00:03:39](/episodes/ep-GY6GWceEqtQ#t-00-03-39): _Turning Point USA is going to be thought of as the girl that peaked in high school, ... Now it's suddenly shut up and serve the new queen. ... Erika (Erika Kirk), chairman, CEO._
+
+**[Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE)**
+
+- [00:42:48](/episodes/ep-JQjCAsfoXEE#t-00-42-48): _Erika Kirk assumed the role of CEO of Turning Point USA on September 18, 2025—eight days after Charlie Kirk was murdered._
+
+**[MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU)**
+
+- [00:31:34](/episodes/ep-K1tFD7FfoCU#t-00-31-34): _being the CEO and the chairman of the company_
+
+**[Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4)**
+
+- [00:33:11](/episodes/ep-K5GjF53bfN4#t-00-33-11): _she is stepping into a role: a CEO and the chairman of a company, a company that got bigger than Charlie Kirk_
+
+**[Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow)**
+
+- [00:15:32](/episodes/ep-MUA9ebCF4Ow#t-00-15-32): _Erika Kirk is now the CEO_
+
+**[Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw)**
+
+- [00:09:48](/episodes/ep-QdM9jLwjwLw#t-00-09-48): _And now it is our great pride to announce Erika Kirk as the new CEO and chair of the board for Turning Point USA._
+
+**[Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg)**
+
+- [00:08:59](/episodes/ep-Qt0VHV-POCg#t-00-08-59): _Erika Kirk was the chairman and the CEO 36 hours later._
+- [00:09:05](/episodes/ep-Qt0VHV-POCg#t-00-09-05): _I don't even think they had even yet announced that Erika Kirk was the chairman and the CEO 36 hours later._
+
+**[Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8)**
+
+- [00:38:57](/episodes/ep-UBkFkg4UNY8#t-00-38-57): _Erica—who is taking on this huge step of being the chairman and the CEO—that she has someone in her corner that she really trusts._
+
+**[OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw)**
+
+- [00:20:05](/episodes/ep-X92MllIHDzw#t-00-20-05): _What's interesting is that, and by the way, I do want to add here that Eric has is the chairman and CEO of Turning Point. So going to see your biggest donor wouldn't exactly be a scandal._
+
+**[Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8)**
+
+- [00:54:03](/episodes/ep-a-e7HC6SeK8#t-00-54-03): _Erika Kirk will issue a statement. I think in this new capacity, CEO and chairman_
+
+**[Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8)**
+
+- [00:34:43](/episodes/ep-gG4ZoYUjUc8#t-00-34-43): _if I'm I'm a major donor to Turning Point USA, ... We also now are in possession of a Zoom call, which Erika (Erika Kirk) held as the new CEO just five days after Charlie (Charlie Kirk) was publicly assassinated._
+
+**[Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM)**
+
+- [00:06:05](/episodes/ep-ja26iltROkM#t-00-06-05): _Erika Kirk is at the head of Turning Point USA_
+
+**[An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ)**
+
+- [00:02:58](/episodes/ep-mFuno0TuuQQ#t-00-02-58): _plea to the courts, I don't know, I think that it stands in stark contrast to the actions that are available to Erika Kirk as the CEO and chairman of this massive organization._
+
+**[Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA)**
+
+- [00:18:48](/episodes/ep-r1PS67aRmcA#t-00-18-48): _Erika who wasn't even working for Turning Point USA when Charlie Kirk died because now she's the CEO_
+
+**[#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ)**
+
+- [00:06:41](/episodes/ep-vwG1juDCQZQ#t-00-06-41): _what it's like being at the helm of the organization, what her thoughts are about what that organization is going to look like going forward._
+
+### Related
+
+- [Turning Point USA](/entities/org-turning-point-usa)
+- [Erika Kirk](/entities/person-erika-kirk)

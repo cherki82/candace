@@ -1,6 +1,6 @@
 ---
 title: "Blake Lively"
-description: "Blake Lively (People) - 11 mentions"
+description: "Blake Lively (People) - 18 mentions"
 id: "person-blake-lively"
 type: "PERSON"
 categories:
@@ -61,6 +61,42 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 
 **[00:16:15](/episodes/ep-zSKrxIUMNqw.md#ent-person-blake-lively-t-00-15-52)**
 > "...ey sent out Ryan Reynolds and Blake Lively to go and get it."
+
+</details>
+
+<details>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
+
+**[00:27:04](/episodes/ep-his-JBjlkh8.md#ent-person-blake-lively-t-00-26-34)**
+> "Sometimes it's Blake Lively and Ryan Reynolds when they try to destroy a man'..."
+
+**[00:32:30](/episodes/ep-his-JBjlkh8.md#ent-person-blake-lively-t-00-26-34)**
+> "Sometimes it's Blake Lively and Ryan Reynolds when they try to destroy a man's life..."
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
+
+**[00:05:56](/episodes/ep-vwG1juDCQZQ.md#ent-person-blake-lively-t-00-05-43)**
+> ""Oh, it's because of the Blake Lively lawsuit.""
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
+
+**[00:44:25](/episodes/ep-Cq7nj9rxPdo.md#ent-person-blake-lively-t-00-44-32)**
+> "Blake Lively lawsuit colluding"
+
+**[00:45:02](/episodes/ep-Cq7nj9rxPdo.md#ent-person-blake-lively-t-00-44-32)**
+> "...ought that I was working with Blake Lively's—sorry—working with Justin Baldoni's team—is I qui..."
+
+**[00:45:05](/episodes/ep-Cq7nj9rxPdo.md#ent-person-blake-lively-t-00-44-32)**
+> "Held to my phone. I typed in "Blake Lively," and I showed you the only two times that I had ..."
+
+**[01:04:24](/episodes/ep-Cq7nj9rxPdo.md#ent-person-blake-lively-t-00-44-32)**
+> "...when I was being accused of colluding on the Blake Lively story..."
 
 </details>
 

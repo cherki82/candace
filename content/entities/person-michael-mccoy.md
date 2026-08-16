@@ -1,6 +1,6 @@
 ---
 title: "Michael McCoy"
-description: "Michael McCoy (People) - 15 mentions"
+description: "Michael McCoy (People) - 16 mentions"
 id: "person-michael-mccoy"
 type: "PERSON"
 aliases:
@@ -23,6 +23,14 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
+
+**[00:02:09](/episodes/ep-hWTdXHGQ8R4.md#ent-person-michael-mccoy-t-00-01-27)**
+> "Mikey McCoy's phone logs,"
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (4 mentions)</summary>

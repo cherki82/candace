@@ -1,6 +1,6 @@
 ---
 title: "Stacy Sheridan"
-description: "Stacy Sheridan (People) - 27 mentions"
+description: "Stacy Sheridan (People) - 28 mentions"
 id: "person-stacy-sheridan"
 type: "PERSON"
 categories:
@@ -20,6 +20,14 @@ Source: [At This Trump-Favored Charity, Financial Reporting Is Questionable and 
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
+
+**[00:08:23](/episodes/ep-hWTdXHGQ8R4.md#ent-person-stacy-sheridan-t-00-08-12)**
+> "...ould be much more likely that Stacy Sheridan would have added that picture to the background."
+
+</details>
 
 <details>
 <summary>An Open Letter To Erika Kirk | Candace Ep 303 (1 mentions)</summary>

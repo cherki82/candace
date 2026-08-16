@@ -1,6 +1,6 @@
 ---
 title: "Operation Underground Railroad"
-description: "Operation Underground Railroad (Organizations) - 10 mentions"
+description: "Operation Underground Railroad (Organizations) - 12 mentions"
 id: "org-operation-underground-railroad"
 type: "ORG"
 aliases:
@@ -71,10 +71,38 @@ Source: [Operation Underground Railroad 2014 Form 990](https://ourrescue.org/rep
 
 </details>
 
+<details>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
+
+**[00:06:01](/episodes/ep-YA1FxrDWNIo.md#ent-org-operation-underground-railroad-t-00-05-38)**
+> "...y random. Did not expect to hear that. Tim Ballard, if you're not familiar with him, is formerly of Operation Underground Railroad, which is a charity that is dedicated to helping to stop human sex trafficking. I even remember, by..."
+
+**[00:06:12](/episodes/ep-YA1FxrDWNIo.md#ent-org-operation-underground-railroad-t-00-06-12)**
+> "... that plane transponder that turned off, that the individuals that owned that plane were wearing an Operation Underground Railroad t-shirt. So I wasn't expecting that. I am going to reach out to Tim Ballard. I know him. I've actua..."
+
+</details>
+
 </details>
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
+
+<details>
+<summary>Employs (1)</summary>
+
+- **[Tim Ballard](/entities/person-tim-ballard.md)**
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:06:01](/episodes/ep-YA1FxrDWNIo.md#t-00-05-38): "Tim Ballard, if you're not familiar with him, is formerly of Operation Underground Railroad"
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:06](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): "is formerly of Operation Underground Railroad"
+
+</details>
+
+<details>
+<summary>Formerly Employed (1)</summary>
+
+- **[Tim Ballard](/entities/person-tim-ballard.md)**
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:05:58](/episodes/ep-YA1FxrDWNIo.md#t-00-05-38): "Tim Ballard, if you're not familiar with him, is formerly of Operation Underground Railroad"
+
+</details>
 
 <details>
 <summary>Funded By (2)</summary>
@@ -89,7 +117,10 @@ Source: [Operation Underground Railroad 2014 Form 990](https://ourrescue.org/rep
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (4)</summary>
+
+- **[Tim Ballard](/entities/person-tim-ballard.md)** formerly worked for this
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:05:58](/episodes/ep-YA1FxrDWNIo.md#t-00-05-38)
 
 - **[Candace Owens](/entities/person-candace-owens.md)** funded this
   - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:28:33](/episodes/ep-X92MllIHDzw.md#t-00-28-12)
@@ -97,6 +128,10 @@ Source: [Operation Underground Railroad 2014 Form 990](https://ourrescue.org/rep
 - **[Glenn Beck](/entities/person-glenn-beck.md)** funded this
   - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:35:39](/episodes/ep-HYn0P-P1wUw.md#t-00-35-11)
   - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:15:20](/episodes/ep-X92MllIHDzw.md#t-00-14-50)
+
+- **[Tim Ballard](/entities/person-tim-ballard.md)** works for this
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:06:01](/episodes/ep-YA1FxrDWNIo.md#t-00-05-38)
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:06](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01)
 
 </details>
 

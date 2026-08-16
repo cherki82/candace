@@ -1,6 +1,6 @@
 ---
 title: "Home equity line of credit"
-description: "Home equity line of credit (Concepts) - 10 mentions"
+description: "Home equity line of credit (Concepts) - 11 mentions"
 id: "concept-home-equity-line-of-credit"
 type: "CONCEPT"
 aliases:
@@ -24,6 +24,14 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
+
+**[00:44:30](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-home-equity-line-of-credit-t-00-44-08)**
+> "...r low mortgage rate, unlike a HELOC,"
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (1 mentions)</summary>

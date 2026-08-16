@@ -1,14 +1,18 @@
 ---
 title: "Emma Goldman"
-description: "Emma Goldman (People) - 1 mention"
+description: "Emma Goldman (People) - 4 mentions"
 id: "person-emma-goldman"
 type: "PERSON"
+aliases:
+  - "Goldman"
 categories:
   - "political activism"
   - "feminism history"
 ---
 
 _Type: People_
+
+**Also known as:** Goldman
 
 **Categories:** political activism, feminism history
 
@@ -26,6 +30,20 @@ Source: [Emma Goldman | Biography | Britannica](https://www.britannica.com/biogr
 
 **[00:05:25](/episodes/ep-2T39-oADLj0.md#ent-person-emma-goldman-t-00-05-13)**
 > "these Jewish women like Emma Goldman"
+
+</details>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (3 mentions)</summary>
+
+**[00:12:17](/episodes/ep-K1tFD7FfoCU.md#ent-person-emma-goldman-t-00-12-07)**
+> "brought to and fought for on our shores by people like Emma Goldman (Emma Goldman) on feminism"
+
+**[00:12:17](/episodes/ep-K1tFD7FfoCU.md#ent-person-emma-goldman-t-00-12-07)**
+> "Emma Goldman (Emma Goldman) on feminism,"
+
+**[00:49:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-emma-goldman-t-00-49-22)**
+> "Emma Goldman (Emma Goldman)—speaking of "Beyond the Pale"—that..."
 
 </details>
 

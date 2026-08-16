@@ -1,6 +1,6 @@
 ---
 title: "Lee Harvey Oswald"
-description: "Lee Harvey Oswald (People) - 2 mentions"
+description: "Lee Harvey Oswald (People) - 6 mentions"
 id: "person-lee-harvey-oswald"
 type: "PERSON"
 aliases:
@@ -33,6 +33,28 @@ Source: [Warren Commission Report, Chapter 5 | National Archives](https://www.ar
 
 **[00:22:16](/episodes/ep-9naMwS0kMBE.md#ent-person-lee-harvey-oswald-t-00-22-16)**
 > "I mean, McVeigh, Oswald."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
+
+**[00:56:09](/episodes/ep-9k2xrAC0H88.md#ent-person-lee-harvey-oswald-t-00-55-37)**
+> "maybe JFK really was just shot by Lee Harvey Oswald"
+
+**[00:56:03](/episodes/ep-9k2xrAC0H88.md#ent-person-lee-harvey-oswald-t-00-55-37)**
+> "...e JFK really was just shot by Lee Harvey Oswald."
+
+</details>
+
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
+
+**[00:02:30](/episodes/ep-Kmt6HgRjckU.md#ent-person-lee-harvey-oswald-t-00-02-30)**
+> "we are smarter to believe that it was simply Lee Harvey Oswald"
+
+**[00:02:30](/episodes/ep-Kmt6HgRjckU.md#ent-person-lee-harvey-oswald-t-00-02-30)**
+> "...to believe that it was simply Lee Harvey Oswald."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "The New York Times"
-description: "The New York Times (Organizations) - 18 mentions"
+description: "The New York Times (Organizations) - 19 mentions"
 id: "org-new-york-times"
 type: "ORG"
 aliases:
@@ -23,6 +23,14 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
+
+**[00:04:06](/episodes/ep-hWTdXHGQ8R4.md#ent-org-new-york-times-t-00-03-34)**
+> "...athroom. That's what she told the New York Times a few days later when she welcomed them into that..."
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1 mentions)</summary>

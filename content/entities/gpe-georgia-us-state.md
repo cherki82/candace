@@ -1,6 +1,6 @@
 ---
 title: "Georgia"
-description: "Georgia (Places) - 2 mentions"
+description: "Georgia (Places) - 3 mentions"
 id: "gpe-georgia-us-state"
 type: "GPE"
 aliases:
@@ -23,6 +23,14 @@ Source: [State of Georgia](https://georgia.gov/)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
+
+**[00:39:12](/episodes/ep-hWTdXHGQ8R4.md#t-00-38-45)**
+> "...ing up to it in Fayetteville, Georgia."
+
+</details>
 
 <details>
 <summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (1 mentions)</summary>

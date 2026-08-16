@@ -1,6 +1,6 @@
 ---
 title: "Bible"
-description: "Bible (Works & Media) - 17 mentions"
+description: "Bible (Works & Media) - 20 mentions"
 id: "work-bible"
 type: "WORK"
 aliases:
@@ -24,6 +24,20 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (3 mentions)</summary>
+
+**[00:32:36](/episodes/ep-hWTdXHGQ8R4.md#ent-work-bible-t-00-32-32)**
+> "...ying to now put this into the Bible that you have a right to do this, that you have a..."
+
+**[00:34:40](/episodes/ep-hWTdXHGQ8R4.md#ent-work-bible-t-00-34-40)**
+> "...orals morals fashioned by the Bible thou shalt not kill which I think true Jews would..."
+
+**[00:51:58](/episodes/ep-hWTdXHGQ8R4.md#ent-work-bible-t-00-34-40)**
+> "...ate of colorado and at Charis Bible College and they did not have any arrangements fo..."
+
+</details>
 
 <details>
 <summary>An Open Letter To Erika Kirk | Candace Ep 303 (1 mentions)</summary>

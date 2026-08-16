@@ -1,6 +1,6 @@
 ---
 title: "China"
-description: "China (Places) - 23 mentions"
+description: "China (Places) - 26 mentions"
 id: "gpe-china"
 type: "GPE"
 categories:
@@ -117,6 +117,20 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 
 **[00:48:27](/episodes/ep-CMcktj3Egfo.md#ent-gpe-china-t-00-48-27)**
 > "...u know, she says she lived in China and she says that she lived in Costa Rica and whe..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (3 mentions)</summary>
+
+**[00:30:58](/episodes/ep-adJ4LNGp84I.md#ent-gpe-china-t-00-30-42)**
+> "We don't want China to own TikTok."
+
+**[00:30:58](/episodes/ep-adJ4LNGp84I.md#ent-gpe-china-t-00-30-42)**
+> "We don't want China."
+
+**[00:31:00](/episodes/ep-adJ4LNGp84I.md#ent-gpe-china-t-00-30-42)**
+> "We don't want China to own TikTok."
 
 </details>
 

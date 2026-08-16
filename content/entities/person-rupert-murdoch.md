@@ -1,6 +1,6 @@
 ---
 title: "Rupert Murdoch"
-description: "Rupert Murdoch (People) - 2 mentions"
+description: "Rupert Murdoch (People) - 4 mentions"
 id: "person-rupert-murdoch"
 type: "PERSON"
 categories:
@@ -30,6 +30,17 @@ Source: [Rupert Murdoch | Fox Corporation](https://www.foxcorporation.com/rupert
 
 **[00:19:00](/episodes/ep-9naMwS0kMBE.md#ent-person-rupert-murdoch-t-00-18-46)**
 > "...on signed up for the ideas of Rupert Murdoch or anybody else? No,"
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
+
+**[00:01:14](/episodes/ep-5autG89PW6w.md#ent-person-rupert-murdoch-t-00-00-39)**
+> "...to be kind of fashioned after Rupert Murdoch's throne."
+
+**[00:01:22](/episodes/ep-5autG89PW6w.md#ent-person-rupert-murdoch-t-00-00-39)**
+> "Succession show fashioned after Rupert Murdoch"
 
 </details>
 

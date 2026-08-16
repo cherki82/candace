@@ -1,6 +1,6 @@
 ---
 title: "Jeremy Boreing"
-description: "Jeremy Boreing (People) - 25 mentions"
+description: "Jeremy Boreing (People) - 34 mentions"
 id: "person-jeremy-boreing"
 type: "PERSON"
 aliases:
@@ -125,10 +125,61 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 
 </details>
 
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
+
+**[00:12:17](/episodes/ep-w1oqQbR_bYs.md#ent-person-jeremy-boreing-t-00-12-00)**
+> "the then CEO Jeremy Boring"
+
+</details>
+
+<details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (7 mentions)</summary>
+
+**[00:12:42](/episodes/ep-r1PS67aRmcA.md#ent-person-jeremy-boreing-t-00-12-19)**
+> "...usly fired from the Daily Wire. And during that week, the CEO of the Daily Wire, at the time it was Jeremy Boreing, jumped onto an X space hosted by Lauren Chen and had a conversation with Nick Fuentes where he san..."
+
+**[00:13:28](/episodes/ep-r1PS67aRmcA.md#ent-person-jeremy-boreing-t-00-13-00)**
+> "...tark difference from how he has spoken about Fuentes in the past. On March 25th, the Daily Wire CEO Jeremy Boreing joined Fuentes on X for a live audio chat room. Boreing told Fuentes that he listens to Fuentes' sh..."
+
+**[00:13:35](/episodes/ep-r1PS67aRmcA.md#ent-person-jeremy-boreing-t-00-13-35)**
+> "Boreing (Jeremy Boreing) told Fuentes (Nick Fuentes) that he listens to F..."
+
+**[00:13:50](/episodes/ep-r1PS67aRmcA.md#ent-person-jeremy-boreing-t-00-13-35)**
+> "...r in the discussion, Boreing (Jeremy Boreing) said that he'd be thrilled to have Fuentes (Nick..."
+
+**[00:14:28](/episodes/ep-r1PS67aRmcA.md#ent-person-jeremy-boreing-t-00-14-05)**
+> "...orm. We can actually, we should actually take a listen to a little bit of that conversation between Jeremy Boreing, then CEO of Daily Wire, and Nick Fuentes. (Clip: Jeremy Boreing and Nick Fuentes) People can say, ..."
+
+**[00:21:07](/episodes/ep-r1PS67aRmcA.md#ent-person-jeremy-boreing-t-00-20-55)**
+> "...because of how he treated me. But the backstory is compelling. I learned the backstory listening to Jeremy Boreing, the former CEO of Daily Wire, sit down with Nick. So right after I've been fired, and I didn't kno..."
+
+**[00:21:14](/episodes/ep-r1PS67aRmcA.md#ent-person-jeremy-boreing-t-00-20-55)**
+> "...y out of the market and Ben has never come out and denied anything that Nick Fuentes has said, also Jeremy Boreing denied in a conversation with him. So we have to assume the story is true. And given what I know ab..."
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
+
+**[00:03:33](/episodes/ep-vwG1juDCQZQ.md#ent-person-jeremy-boreing-t-00-02-51)**
+> "...n I no longer wanted to do the pro-Israel thing. Of course, as always, I thank Ben Shapiro. I thank Jeremy Boreing. I thank the Daily Wire and them realizing it before I did that I should be fired. Thank you for fi..."
+
+</details>
+
 </details>
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
+
+<details>
+<summary>Ceo Of (1)</summary>
+
+- **[The Daily Wire](/entities/org-the-daily-wire.md)**
+  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:12:39](/episodes/ep-r1PS67aRmcA.md#t-00-12-19): "the CEO of the Daily Wire, at the time it was Jeremy Boreing"
+  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:00](/episodes/ep-r1PS67aRmcA.md#t-00-04-34): "the CEO of the Daily Wire, at the time it was Jeremy Boreing (Jeremy Boreing)"
+
+</details>
 
 <details>
 <summary>Criticized (2)</summary>
@@ -150,9 +201,18 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
+<summary>Endorsed (1)</summary>
+
+- **[Nick Fuentes](/entities/person-nick-fuentes.md)**
+  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:05](/episodes/ep-r1PS67aRmcA.md#t-00-04-34): "Daily Wire CEO tells white supremacist Nick Fuentes (Nick Fuentes) that he's talented and he's very funny"
+
+</details>
+
+<details>
 <summary>Fired (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:12:18](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00): "Here is a video of the then CEO Jeremy Boring"
   - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:51:39](/episodes/ep-QdM9jLwjwLw.md#t-00-51-07): "It's now been two years and you would think, Jeremy (Jeremy Boreing), ... I might even rank having sent an intern on a secret mission to stalk the woman that you just fired to Dallas, to Turning Point USA,"
 
 </details>
@@ -190,7 +250,7 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
-<summary>Referenced By (8)</summary>
+<summary>Referenced By (10)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
   - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:46:32](/episodes/ep-QdM9jLwjwLw.md#t-00-46-30)
@@ -201,7 +261,11 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** criticized by this
   - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:00:41](/episodes/ep-QdM9jLwjwLw.md#t-00-00-00)
 
+- **[Nick Fuentes](/entities/person-nick-fuentes.md)** endorsed by this
+  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:05](/episodes/ep-r1PS67aRmcA.md#t-00-04-34)
+
 - **[Candace Owens](/entities/person-candace-owens.md)** fired by this
+  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:12:18](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00)
   - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:51:39](/episodes/ep-QdM9jLwjwLw.md#t-00-51-07)
 
 - **[The Daily Wire](/entities/org-daily-wire.md)** formerly employed this
@@ -209,6 +273,9 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 
 - **[Brett Cooper](/entities/person-brett-cooper.md)** formerly worked for this
   - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:53:14](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11)
+
+- **[The Daily Wire](/entities/org-the-daily-wire.md)** has CEO this
+  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:12:39](/episodes/ep-r1PS67aRmcA.md#t-00-12-19)
 
 - **[Candace Owens](/entities/person-candace-owens.md)** hired by this
   - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:38:56](/episodes/ep-QdM9jLwjwLw.md#t-00-38-56)

@@ -1,0 +1,29 @@
+---
+title: "Stacey Sheridan works for Turning Point USA"
+description: "Evidence for the relationship: Stacey Sheridan works for Turning Point USA"
+relationship_id: "rel-ee1aef824cbe"
+subject: "person-stacey-sheridan"
+predicate: "works for"
+object: "org-turning-point-usa"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Stacey Sheridan](/entities/person-stacey-sheridan) works for [Turning Point USA](/entities/org-turning-point-usa)
+
+### Evidence (4 mentions)
+
+**[Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8)**
+
+- [00:12:14](/episodes/ep-a-e7HC6SeK8#t-00-12-14): _...That's Stacey Sheridan of Turning Point USA... Stacey, by the way, is the senior advancement director at Turning Point USA._
+- [00:13:23](/episodes/ep-a-e7HC6SeK8#t-00-13-23): _Stacey, by the way, is the senior advancement director at Turning Point USA_
+
+**[Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec)**
+
+- [00:01:07](/episodes/ep-c5BcKF91iec#t-00-01-07): _She's like the chief money person, essentially, at Turning Point USA._
+- [00:04:35](/episodes/ep-c5BcKF91iec#t-00-04-35): _She's like the chief money person, essentially, at Turning Point USA._
+
+### Related
+
+- [Stacey Sheridan](/entities/person-stacey-sheridan)
+- [Turning Point USA](/entities/org-turning-point-usa)

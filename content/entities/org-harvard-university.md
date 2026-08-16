@@ -1,10 +1,11 @@
 ---
 title: "Harvard University"
-description: "Harvard University (Organizations) - 2 mentions"
+description: "Harvard University (Organizations) - 7 mentions"
 id: "org-harvard-university"
 type: "ORG"
 aliases:
   - "Harvard"
+  - "Harvard University"
 categories:
   - "university"
   - "higher education"
@@ -12,7 +13,7 @@ categories:
 
 _Type: Organizations_
 
-**Also known as:** Harvard
+**Also known as:** Harvard, Harvard University
 
 **Categories:** university, higher education
 
@@ -30,6 +31,31 @@ Source: [About Harvard University](https://www.harvard.edu/about/)
 
 **[00:20:42](/episodes/ep-2T39-oADLj0.md#ent-org-harvard-university-t-00-20-19)**
 > "He had an office on Harvard campus despite only having a high school diploma, which I can't even verify his high school diploma,"
+
+</details>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (3 mentions)</summary>
+
+**[00:25:51](/episodes/ep-6J6lRZPQ4jk.md#ent-org-harvard-university-t-00-25-09)**
+> "why does that mean David Hall gets to go to Harvard?"
+
+**[00:25:51](/episodes/ep-6J6lRZPQ4jk.md#ent-org-harvard-university-t-00-25-09)**
+> "...mean David Hall gets to go to Harvard?"
+
+**[00:25:55](/episodes/ep-6J6lRZPQ4jk.md#ent-org-harvard-university-t-00-25-54)**
+> "Like, does he belong at Harvard?"
+
+</details>
+
+<details>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (2 mentions)</summary>
+
+**[00:49:02](/episodes/ep-pc3pxRyNFZk.md#ent-org-harvard-university-t-00-49-02)**
+> "... Kushner) when he sat down at Harvard, Assad operation, to speak about their aim. (Clip..."
+
+**[00:49:14](/episodes/ep-pc3pxRyNFZk.md#ent-org-harvard-university-t-00-49-02)**
+> "when he sat down at Harvard, Assad operation, to speak about their aim"
 
 </details>
 

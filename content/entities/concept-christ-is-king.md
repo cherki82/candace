@@ -1,6 +1,6 @@
 ---
 title: "Christ Is King"
-description: "Christ Is King (Concepts) - 5 mentions"
+description: "Christ Is King (Concepts) - 7 mentions"
 id: "concept-christ-is-king"
 type: "CONCEPT"
 aliases:
@@ -19,6 +19,17 @@ _Type: Concepts_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (2 mentions)</summary>
+
+**[00:34:40](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-christ-is-king-t-00-34-40)**
+> "but then say Christ is king or say no I don't worship Israel and you're going..."
+
+**[00:51:50](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-christ-is-king-t-00-51-23)**
+> "Christ is king."
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1 mentions)</summary>

@@ -1,0 +1,67 @@
+---
+title: "August 25th"
+description: "August 25th (Dates) - 10 mentions"
+id: "date-august-25th"
+type: "DATE"
+---
+
+_Type: Dates_
+
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
+<details open>
+<summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (8 mentions)</summary>
+
+**[00:37:54](/episodes/ep-9k2xrAC0H88.md#ent-date-august-25th-t-00-37-27)**
+> "On August 25th, 2025, this is 15, 16 days before Charlie Kirk was killed"
+
+**[00:37:47](/episodes/ep-9k2xrAC0H88.md#ent-date-august-25th-t-00-37-27)**
+> "On August 25th, 2025, this is 15, 16 days before Charlie Kirk wa..."
+
+**[00:38:52](/episodes/ep-9k2xrAC0H88.md#ent-date-august-25th-t-00-38-25)**
+> "... gonna also tell you why that August 25th date is particularly"
+
+**[00:39:10](/episodes/ep-9k2xrAC0H88.md#ent-date-august-25th-t-00-39-06)**
+> "...ng in Mark to Marksplain that August 25th trip and how the call signs change, which is even..."
+
+**[00:39:27](/episodes/ep-9k2xrAC0H88.md#ent-date-august-25th-t-00-39-24)**
+> "So on August 25th, let me make this full screen so everyone can see..."
+
+**[00:39:33](/episodes/ep-9k2xrAC0H88.md#ent-date-august-25th-t-00-39-24)**
+> "So on August 25th, it flies into Las Vegas, lands at 448 p.m. local..."
+
+**[00:40:54](/episodes/ep-9k2xrAC0H88.md#ent-date-august-25th-t-00-40-54)**
+> "...can see that, looking at that August 25th date, so we're seeing that the individual flies i..."
+
+**[01:01:36](/episodes/ep-9k2xrAC0H88.md#ent-date-august-25th-t-01-01-17)**
+> "... can help place Kash Patel on August 25th."
+
+</details>
+
+<details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
+
+**[00:15:59](/episodes/ep-tB5SXXmd9vU.md#ent-date-august-25th-t-00-15-25)**
+> "...sination. More specifically, according to the French Foreign Legion website, between August 2nd and August 25th of this year, the legionnaires from the 4th Company, 2nd Foreign Infantry Regiment, the 6th Light A..."
+
+</details>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+
+**[00:08:24](/episodes/ep-mKXdKV-OBog.md#ent-date-august-25th-t-00-07-51)**
+> "...e military and—of note—the civilians. What's interesting: of note, civilians. And they trained from August 25th to August 29th. And we can read the details of that here. And by details, I mean—this is what the p..."
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Relationships</strong></summary>
+
+_No relationships extracted yet._
+
+</details>

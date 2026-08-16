@@ -1,6 +1,6 @@
 ---
 title: "Rumble Wallet"
-description: "Rumble Wallet (Works & Media) - 2 mentions"
+description: "Rumble Wallet (Works & Media) - 5 mentions"
 id: "work-rumble-wallet"
 type: "WORK"
 categories:
@@ -20,6 +20,20 @@ Source: [Rumble Wallet](https://wallet.rumble.com/)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (3 mentions)</summary>
+
+**[00:25:07](/episodes/ep-hWTdXHGQ8R4.md#ent-work-rumble-wallet-t-00-24-53)**
+> "So that's why they launched Rumble Wallet, a wallet that no one can cancel."
+
+**[00:25:11](/episodes/ep-hWTdXHGQ8R4.md#ent-work-rumble-wallet-t-00-24-53)**
+> "With Rumble Wallet, you control your money, not a bank, not a govern..."
+
+**[00:25:35](/episodes/ep-hWTdXHGQ8R4.md#ent-work-rumble-wallet-t-00-25-35)**
+> "...rumble.com, or you can search Rumble wallet in the app stores."
+
+</details>
 
 <details>
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (2 mentions)</summary>

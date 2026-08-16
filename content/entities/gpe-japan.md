@@ -1,14 +1,18 @@
 ---
 title: "Japan"
-description: "Japan (Places) - 13 mentions"
+description: "Japan (Places) - 21 mentions"
 id: "gpe-japan"
 type: "GPE"
+aliases:
+  - "Japan"
 categories:
   - "country, East Asia"
   - "country"
 ---
 
 _Type: Places_
+
+**Also known as:** Japan
 
 **Categories:** country, East Asia, country
 
@@ -77,6 +81,40 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 
 **[01:04:52](/episodes/ep-wcD2khO3rOA.md#ent-gpe-japan-t-01-04-52)**
 > "... the money was going to it is japan not korea that provides the bulk of the church's ..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (4 mentions)</summary>
+
+**[00:00:03](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-japan-t-00-00-00)**
+> "then off to Japan"
+
+**[00:00:10](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-japan-t-00-00-00)**
+> "...ouple of days and then off to Japan."
+
+**[00:29:07](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-japan-t-00-28-37)**
+> "Why would you want to go to Japan a day before you have a college campus event, rig..."
+
+**[00:29:22](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-japan-t-00-29-22)**
+> "And then on the 7th, he's in Japan, and he is on CNN News Japan speaking."
+
+</details>
+
+<details>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (4 mentions)</summary>
+
+**[00:46:52](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-japan-t-00-46-48)**
+> "You know why he went to Korea and Japan?"
+
+**[00:46:52](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-japan-t-00-46-48)**
+> "...know why he went to Korea and Japan?"
+
+**[00:47:13](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-japan-t-00-46-48)**
+> "I think he probably went to Japan and Korea because it's an awesome opportunity."
+
+**[00:47:24](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-japan-t-00-46-48)**
+> "...ey, do you guys want to go to Japan?""
 
 </details>
 

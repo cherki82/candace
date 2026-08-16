@@ -1,11 +1,12 @@
 ---
 title: "Bassem Youssef"
-description: "Bassem Youssef (People) - 11 mentions"
+description: "Bassem Youssef (People) - 12 mentions"
 id: "person-bassem-youssef"
 type: "PERSON"
 aliases:
   - "Basim Youssef"
   - "Basam Youssef"
+  - "Bassam Youssef"
 categories:
   - "political satire"
   - "television"
@@ -14,7 +15,7 @@ categories:
 
 _Type: People_
 
-**Also known as:** Basim Youssef, Basam Youssef
+**Also known as:** Basim Youssef, Basam Youssef, Bassam Youssef
 
 **Categories:** political satire, television, Israel-Palestine commentary
 
@@ -26,6 +27,14 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
+
+**[00:46:01](/episodes/ep-hWTdXHGQ8R4.md#ent-person-bassem-youssef-t-00-46-01)**
+> "...less yeah that gets into what Bassam Youssef was saying he's like even if they came out and th..."
+
+</details>
 
 <details>
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (1 mentions)</summary>

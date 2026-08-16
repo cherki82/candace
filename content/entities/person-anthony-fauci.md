@@ -1,12 +1,12 @@
 ---
 title: "Anthony Fauci"
-description: "Anthony Fauci (People) - 1 mention"
+description: "Anthony Fauci (People) - 3 mentions"
 id: "person-anthony-fauci"
 type: "PERSON"
 aliases:
-  - "Anthony S. Fauci"
-  - "Dr. Fauci"
   - "Fauci"
+  - "Dr. Fauci"
+  - "Anthony S. Fauci"
 categories:
   - "public health"
   - "infectious disease"
@@ -14,7 +14,7 @@ categories:
 
 _Type: People_
 
-**Also known as:** Anthony S. Fauci, Dr. Fauci, Fauci
+**Also known as:** Fauci, Dr. Fauci, Anthony S. Fauci
 
 **Categories:** public health, infectious disease
 
@@ -32,6 +32,17 @@ Source: [NIAID — Anthony S. Fauci, M.D.](https://www.niaid.nih.gov/about/antho
 
 **[00:13:57](/episodes/ep-DYD_QHMPwqM.md#ent-person-anthony-fauci-t-00-13-24)**
 > "Dr. Fauci (Anthony Fauci), we're experts."
+
+</details>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2 mentions)</summary>
+
+**[01:01:28](/episodes/ep-6J6lRZPQ4jk.md#ent-person-anthony-fauci-t-01-01-02)**
+> "the cast is just as likable and believable as Fauci (Anthony Fauci) himself"
+
+**[01:01:21](/episodes/ep-6J6lRZPQ4jk.md#ent-person-anthony-fauci-t-01-01-02)**
+> "... as likable and believable as Fauci (Anthony Fauci) himself."
 
 </details>
 

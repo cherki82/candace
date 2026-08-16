@@ -1,6 +1,6 @@
 ---
 title: "Christianity"
-description: "Christianity (Concepts) - 119 mentions"
+description: "Christianity (Concepts) - 121 mentions"
 id: "concept-christianity"
 type: "CONCEPT"
 aliases:
@@ -24,6 +24,17 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (2 mentions)</summary>
+
+**[00:29:31](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-christianity-t-00-29-09)**
+> "...he 28 Muslim countries and 13 Christian countries in this world is a double standard,"
+
+**[00:32:11](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-christianity-t-00-31-48)**
+> "...ajority country and this is a Christian majority country. And you're saying that means we..."
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (3 mentions)</summary>
@@ -194,7 +205,7 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (14 mentions)</summary>
 
-**[00:00:47](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-00-40)**
+**[00:00:47](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-01-23)**
 > "...me from a loving, very loving Christian Zionist donor."
 
 **[00:01:28](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-01-23)**
@@ -266,10 +277,10 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 <details>
 <summary>Myron Gaines x Candace Owens (9 mentions)</summary>
 
-**[00:32:08](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-00-01)**
+**[00:32:08](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-32-49)**
 > "I'm a Christian"
 
-**[00:00:01](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-00-01)**
+**[00:00:01](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-32-49)**
 > "... allowed to be anything but a Christian Zionist and he was changing in the last few weeks..."
 
 **[00:32:51](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-32-49)**
@@ -290,7 +301,7 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 **[00:55:36](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-55-36)**
 > "you know modern christian miracle you know that's fed slop but it's worse t..."
 
-**[00:56:52](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-56-52)**
+**[00:56:52](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-55-36)**
 > "... allowed to be anything but a christian zionist um and he was changing in the last few we..."
 
 </details>

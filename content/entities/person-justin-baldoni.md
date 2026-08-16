@@ -1,6 +1,6 @@
 ---
 title: "Justin Baldoni"
-description: "Justin Baldoni (People) - 9 mentions"
+description: "Justin Baldoni (People) - 11 mentions"
 id: "person-justin-baldoni"
 type: "PERSON"
 categories:
@@ -55,6 +55,17 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 
 **[00:16:20](/episodes/ep-zSKrxIUMNqw.md#ent-person-justin-baldoni-t-00-15-52)**
 > "...a nutshell. That was what the Justin Baldoni case was about."
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
+
+**[00:44:25](/episodes/ep-Cq7nj9rxPdo.md#ent-person-justin-baldoni-t-00-44-32)**
+> "Justin Baldoni lawsuit"
+
+**[00:45:02](/episodes/ep-Cq7nj9rxPdo.md#ent-person-justin-baldoni-t-00-44-32)**
+> "...e Lively's—sorry—working with Justin Baldoni's team—is I quite literally live-subpoenaed myself."
 
 </details>
 

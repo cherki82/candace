@@ -1,0 +1,39 @@
+---
+title: "PragerU formerly employed Candace Owens"
+description: "Evidence for the relationship: PragerU formerly employed Candace Owens"
+relationship_id: "rel-50b5e19bccfd"
+subject: "org-prageru"
+predicate: "formerly employed"
+object: "person-candace-owens"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [PragerU](/entities/org-prageru) formerly employed [Candace Owens](/entities/person-candace-owens)
+
+### Evidence (5 mentions)
+
+**[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
+
+- [00:32:32](/episodes/ep-2T39-oADLj0#t-00-32-32): _So when I was working and giving the example again for PragerU, I genuinely, first off, wasn't up on the topic of Israel._
+
+**[Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE)**
+
+- [00:29:29](/episodes/ep-9naMwS0kMBE#t-00-29-29): _I worked at Prager University_
+
+**[Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4)**
+
+- [00:08:19](/episodes/ep-K5GjF53bfN4#t-00-08-19): _I obviously worked for PragerU._
+
+**[AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo)**
+
+- [00:55:05](/episodes/ep-Wjul6YV6izo#t-00-55-05): _it's the same way that I say like i'm so grateful that i worked for prageru and turning point usa and um Daily Wire_
+
+**[What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U)**
+
+- [00:00:03](/episodes/ep-yAIb-NuUh_U#t-00-00-03): _back when I had a show on PragerU._
+
+### Related
+
+- [PragerU](/entities/org-prageru)
+- [Candace Owens](/entities/person-candace-owens)

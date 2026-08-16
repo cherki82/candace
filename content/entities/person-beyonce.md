@@ -1,6 +1,6 @@
 ---
 title: "Beyoncé"
-description: "Beyoncé (People) - 1 mention"
+description: "Beyoncé (People) - 2 mentions"
 id: "person-beyonce"
 type: "PERSON"
 aliases:
@@ -24,6 +24,14 @@ Source: [Beyoncé Knowles-Carter | National Women’s History Museum](https://ww
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
+
+**[00:38:48](/episodes/ep-hWTdXHGQ8R4.md#ent-person-beyonce-t-00-38-45)**
+> ".... I've got Jay-Z and I've got Beyonce."
+
+</details>
 
 <details>
 <summary>Myron Gaines x Candace Owens (1 mentions)</summary>

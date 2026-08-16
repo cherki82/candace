@@ -1,6 +1,6 @@
 ---
 title: "Catholic Church"
-description: "Catholic Church (Organizations) - 1 mention"
+description: "Catholic Church (Organizations) - 2 mentions"
 id: "org-catholic-church"
 type: "ORG"
 aliases:
@@ -24,6 +24,14 @@ Source: [The Holy See](https://www.vatican.va/content/vatican/en.html)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
+
+**[00:33:11](/episodes/ep-hWTdXHGQ8R4.md#ent-org-catholic-church-t-00-33-11)**
+> "...true reason that you hate the catholic church because the catholic church remembers america was..."
+
+</details>
 
 <details>
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (1 mentions)</summary>

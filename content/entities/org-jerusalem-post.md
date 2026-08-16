@@ -1,6 +1,6 @@
 ---
 title: "The Jerusalem Post"
-description: "The Jerusalem Post (Organizations) - 1 mention"
+description: "The Jerusalem Post (Organizations) - 4 mentions"
 id: "org-jerusalem-post"
 type: "ORG"
 aliases:
@@ -30,6 +30,20 @@ Source: [The Jerusalem Post | About Us](https://www.jpost.com/landedpages/aboutu
 
 **[00:40:59](/episodes/ep-9naMwS0kMBE.md#ent-org-jerusalem-post-t-00-40-49)**
 > "Jerusalem Post,"
+
+</details>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (3 mentions)</summary>
+
+**[00:20:53](/episodes/ep-K1tFD7FfoCU.md#ent-org-jerusalem-post-t-00-20-31)**
+> "...ation to stage a hostile takeover of the legacy of Charlie Kirk (Charlie Kirk)—so obsessed that the Jerusalem Post completely fictionalized or rather published a completely deranged lie about Erika Kirk (Erika Kirk..."
+
+**[00:20:55](/episodes/ep-K1tFD7FfoCU.md#ent-org-jerusalem-post-t-00-20-31)**
+> "...by the Israeli War Room account over on Twitter, and they were citing the actual reporting from the Jerusalem Post, which was written by journalist Michael Starr (Michael Starr). They published this: "Charlie Kirk ..."
+
+**[00:22:25](/episodes/ep-K1tFD7FfoCU.md#ent-org-jerusalem-post-t-00-21-54)**
+> "...t) wrote this: "This is the first we're hearing of this." "We've reached out to the reporter at the Jerusalem Post for a correction." How do you just say "Erika Kirk (Erika Kirk) is going to accept this award on be..."
 
 </details>
 

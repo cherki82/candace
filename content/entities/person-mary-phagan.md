@@ -1,14 +1,18 @@
 ---
 title: "Mary Phagan"
-description: "Mary Phagan (People) - 1 mention"
+description: "Mary Phagan (People) - 8 mentions"
 id: "person-mary-phagan"
 type: "PERSON"
+aliases:
+  - "Mary Fagan"
 categories:
   - "Leo Frank case"
   - "Georgia history"
 ---
 
 _Type: People_
+
+**Also known as:** Mary Fagan
 
 **Categories:** Leo Frank case, Georgia history
 
@@ -29,12 +33,52 @@ Source: [Digital Library of Georgia: Mary Phagan](https://dlg.usg.edu/record/nge
 
 </details>
 
+<details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (7 mentions)</summary>
+
+**[00:03:44](/episodes/ep-t1YtLS1n8Vs.md#ent-person-mary-phagan-t-00-03-31)**
+> "...d know this happened in 1913. And this is the American South. You know what was going on there. And Mary Phagan was a 13-year-old girl who worked at his pencil factory. She was found brutally raped. She's a Cath..."
+
+**[00:04:43](/episodes/ep-t1YtLS1n8Vs.md#ent-person-mary-phagan-t-00-04-15)**
+> "...ublic. “No, Leo Frank wasn't guilty.” “Look what happened after.” He was lynched for what he did to Mary Phagan. “He is actually a victim of antisemitism.” That's it. “He wasn't guilty.” “I'm sure maybe the blac..."
+
+**[00:05:13](/episodes/ep-t1YtLS1n8Vs.md#ent-person-mary-phagan-t-00-04-56)**
+> "... was really the victim in this tragedy. It's utterly demented. I will never let it stand. He killed Mary Phagan. He is still guilty of that crime, no matter how much the ADL tries to obscure that. And by the way..."
+
+**[00:05:19](/episodes/ep-t1YtLS1n8Vs.md#ent-person-mary-phagan-t-00-04-56)**
+> "...e ADL tries to obscure that. And by the way, if you want to learn more, you should learn more about Mary Phagan's murder. I can point you guys; there's a book called The Murder of Little Mary Phagan, and it is w..."
+
+**[00:05:22](/episodes/ep-t1YtLS1n8Vs.md#ent-person-mary-phagan-t-00-04-56)**
+> "...n more about Mary Phagan's murder. I can point you guys; there's a book called The Murder of Little Mary Phagan, and it is written by a relative of hers. And that relative's name is also Mary Phagan. You should ..."
+
+**[00:05:30](/episodes/ep-t1YtLS1n8Vs.md#ent-person-mary-phagan-t-00-04-56)**
+> "...er of Little Mary Phagan, and it is written by a relative of hers. And that relative's name is also Mary Phagan. You should read the details of what happened 100 years ago. You should read the facts around it. R..."
+
+**[00:44:49](/episodes/ep-t1YtLS1n8Vs.md#ent-person-mary-phagan-t-00-44-21)**
+> "...gin story of the ADL and their relationship with the FBI, you realize that. Go read that book about Mary Phagan written by Mary Phagan, a descendant with her same name. Bill Scott writes, “I came to Christ after..."
+
+</details>
+
 </details>
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Works For (1)</summary>
+
+- **[Leo Frank](/entities/person-leo-frank.md)**
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:03:44](/episodes/ep-t1YtLS1n8Vs.md#t-00-03-31): "Mary Phagan was a 13-year-old girl who worked at his pencil factory."
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Leo Frank](/entities/person-leo-frank.md)** employs this
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:03:44](/episodes/ep-t1YtLS1n8Vs.md#t-00-03-31)
+
+</details>
 
 </details>
 

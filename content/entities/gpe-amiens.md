@@ -1,6 +1,6 @@
 ---
 title: "Amiens"
-description: "Amiens (Places) - 1 mention"
+description: "Amiens (Places) - 2 mentions"
 id: "gpe-amiens"
 type: "GPE"
 categories:
@@ -26,6 +26,14 @@ Source: [Site officiel d'Amiens Métropole](https://www.amiens.fr/)
 
 **[00:36:10](/episodes/ep-BKcOm32ZEGk.md#ent-gpe-amiens-t-00-35-55)**
 > "the god of Amiens"
+
+</details>
+
+<details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
+
+**[01:00:14](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-amiens-t-00-59-56)**
+> "...all the way through to now—not possible. Nazis did an aerial bombardment. They occupied the city of Amiens. This seems to me to be an identity that was just created and materialized for this family and that..."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Catholicism"
-description: "Catholicism (Concepts) - 66 mentions"
+description: "Catholicism (Concepts) - 75 mentions"
 id: "concept-catholicism"
 type: "CONCEPT"
 aliases:
@@ -23,6 +23,38 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (9 mentions)</summary>
+
+**[00:23:37](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-catholicism-t-00-23-27)**
+> "...e (Charlie Kirk) wasn't going Catholic, but we just like the chill priest."
+
+**[00:30:13](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-catholicism-t-00-30-13)**
+> "Well, as you know, I'm a Catholic."
+
+**[00:30:15](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-catholicism-t-00-30-13)**
+> "I'm a Catholic and Catholics do not embrace Zionism, just so you..."
+
+**[00:33:11](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-catholicism-t-00-30-13)**
+> "...true reason that you hate the catholic church because the catholic church remembers amer..."
+
+**[00:36:37](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-catholicism-t-00-35-57)**
+> "...Boller for her faith, being a Catholic,"
+
+**[00:36:41](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-catholicism-t-00-36-41)**
+> "Catholic and Orthodox."
+
+**[00:37:22](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-catholicism-t-00-37-22)**
+> "... We started talking about the Catholic faith,"
+
+**[00:51:14](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-catholicism-t-00-50-41)**
+> "...got booed when she said I'm a Catholic. Yeah,"
+
+**[00:51:23](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-catholicism-t-00-51-23)**
+> "I'm going to Catholic so hard this Lent. Mass every day. We ride at daw..."
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (4 mentions)</summary>
@@ -327,7 +359,21 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Catholicism (1)</strong></summary>
+<summary><strong class="section-title">Statements about Catholicism (4)</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (3)</summary>
+
+- [00:30:13](/episodes/ep-hWTdXHGQ8R4.md#t-00-30-13) (Opinion) **Carrie Prejean Boller** (via quoted speech): ["Catholics do not embrace Zionism, so are all Catholics antisemites acc..."](/statements/statement-ac1df86796fa.md)
+  - Also about: [Zionism](/entities/concept-zionism.md), [Antisemitism](/entities/concept-antisemitism.md)
+
+- [00:36:36](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-57) (Accusation) **Candace Owens**: ["The Presidential Religious Liberty Commission punished Carrie Prejean ..."](/statements/statement-44ab7574b247.md)
+  - Also about: [Carrie Prejean Boller](/entities/person-carrie-prejean-boller.md), [Presidential Religious Liberty Commission](/entities/org-presidential-religious-liberty-commission.md)
+
+- [00:37:15](/episodes/ep-hWTdXHGQ8R4.md#t-00-36-41) (Citation) **Candace Owens**: ["Charlie Kirk began pivoting away from Zionism about a year before his ..."](/statements/statement-ef7d41c76953.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Zionism](/entities/concept-zionism.md)
+
+</details>
 
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Rothschild family"
-description: "Rothschild family (Organizations) - 9 mentions"
+description: "Rothschild family (Organizations) - 10 mentions"
 id: "org-rothschild-family"
 type: "ORG"
 aliases:
@@ -60,6 +60,14 @@ Source: [Encyclopaedia Britannica: Rothschild family](https://www.britannica.com
 
 **[00:37:30](/episodes/ep-CEF7gQRWYCE.md#ent-org-rothschild-family-t-00-37-16)**
 > "So all these rumors about the Rothschilds are probably not rumors."
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1 mentions)</summary>
+
+**[00:56:13](/episodes/ep-Cq7nj9rxPdo.md#ent-org-rothschild-family-t-00-55-46)**
+> "Emmanuel Macron is a Rothschild creation"
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Asia"
-description: "Asia (Places) - 1 mention"
+description: "Asia (Places) - 2 mentions"
 id: "gpe-asia"
 type: "GPE"
 categories:
@@ -19,6 +19,14 @@ Source: [Encyclopaedia Britannica: Asia](https://www.britannica.com/place/Asia)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
+
+**[00:18:41](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-asia-t-00-18-04)**
+> "...returning from a long trip to Asia."
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>

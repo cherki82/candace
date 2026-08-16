@@ -1,6 +1,6 @@
 ---
 title: "Breitbart News"
-description: "Breitbart News (Organizations) - 42 mentions"
+description: "Breitbart News (Organizations) - 45 mentions"
 id: "org-breitbart-news"
 type: "ORG"
 aliases:
@@ -161,6 +161,25 @@ Source: [Who Breitbart Is...Really](https://media.breitbart.com/media/2019/11/ab
 
 </details>
 
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
+
+**[00:23:32](/episodes/ep-w1oqQbR_bYs.md#ent-org-breitbart-news-t-00-23-20)**
+> "... as he wrote while Ben was at Breitbart before he turned his back and betrayed them too, ..."
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
+
+**[00:46:06](/episodes/ep-Cq7nj9rxPdo.md#ent-org-breitbart-news-t-00-45-51)**
+> "...ex Marlow speaking), who runs Breitbart News, was their guest for the day on the show."
+
+**[00:46:13](/episodes/ep-Cq7nj9rxPdo.md#ent-org-breitbart-news-t-00-45-51)**
+> "Alex Marlow who runs Breitbart News"
+
+</details>
+
 </details>
 
 <details open>
@@ -170,6 +189,7 @@ Source: [Who Breitbart Is...Really](https://media.breitbart.com/media/2019/11/ab
 <summary>Employs (2)</summary>
 
 - **[Alex Marlow](/entities/person-alex-marlow.md)**
+  - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:46:06](/episodes/ep-Cq7nj9rxPdo.md#t-00-45-51): "Alex Marlow, who runs Breitbart News, was their guest for the day"
   - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:25:15](/episodes/ep-zSKrxIUMNqw.md#t-00-24-51): "including the editor-in-chief Alex Marlow and editor-at-large John Nolte"
 
 - **[John Nolte](/entities/person-john-nolte.md)**
@@ -231,6 +251,7 @@ Source: [Who Breitbart Is...Really](https://media.breitbart.com/media/2019/11/ab
   - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:31:21](/episodes/ep-zSKrxIUMNqw.md#t-00-31-09)
 
 - **[Alex Marlow](/entities/person-alex-marlow.md)** works for this
+  - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:46:06](/episodes/ep-Cq7nj9rxPdo.md#t-00-45-51)
   - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:25:15](/episodes/ep-zSKrxIUMNqw.md#t-00-24-51)
 
 - **[John Nolte](/entities/person-john-nolte.md)** works for this

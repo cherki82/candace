@@ -1,6 +1,6 @@
 ---
 title: "Tyler James Robinson"
-description: "Tyler James Robinson (People) - 32 mentions"
+description: "Tyler James Robinson (People) - 35 mentions"
 id: "person-tyler-james-robinson"
 type: "PERSON"
 aliases:
@@ -23,6 +23,20 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (3 mentions)</summary>
+
+**[00:19:28](/episodes/ep-hWTdXHGQ8R4.md#ent-person-tyler-james-robinson-t-00-18-48)**
+> "...and he says, it tells me that Tyler Robinson shot Charlie (Charlie Kirk)."
+
+**[00:51:58](/episodes/ep-hWTdXHGQ8R4.md#ent-person-tyler-james-robinson-t-00-51-58)**
+> "...on and stick stick this under tyler robinson it's going this is actually a critical case by th..."
+
+**[00:52:27](/episodes/ep-hWTdXHGQ8R4.md#ent-person-tyler-james-robinson-t-00-51-58)**
+> "... they produced to tie this to Tyler Robinson."
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (2 mentions)</summary>

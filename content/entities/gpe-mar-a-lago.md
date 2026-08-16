@@ -1,6 +1,6 @@
 ---
 title: "Mar-a-Lago"
-description: "Mar-a-Lago (Places) - 7 mentions"
+description: "Mar-a-Lago (Places) - 8 mentions"
 id: "gpe-mar-a-lago"
 type: "GPE"
 categories:
@@ -20,6 +20,14 @@ Source: [Mar-a-Lago National Historic Landmark - NPS](https://www.nps.gov/places
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
+
+**[00:41:47](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-mar-a-lago-t-00-41-22)**
+> "... is in the background he's at Mar-a-Lago"
+
+</details>
 
 <details>
 <summary>An Open Letter To Erika Kirk | Candace Ep 303 (2 mentions)</summary>

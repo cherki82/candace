@@ -1,6 +1,6 @@
 ---
 title: "Kid Rock"
-description: "Kid Rock (People) - 2 mentions"
+description: "Kid Rock (People) - 5 mentions"
 id: "person-kid-rock"
 type: "PERSON"
 categories:
@@ -20,6 +20,20 @@ Source: [TPUSA: All American Halftime Show lineup](https://tpusa.com/live/tpusa-
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (3 mentions)</summary>
+
+**[00:00:01](/episodes/ep-hWTdXHGQ8R4.md#ent-person-kid-rock-t-00-00-01)**
+> "...ink it's appropriate to bring Kid Rock back,"
+
+**[00:40:57](/episodes/ep-hWTdXHGQ8R4.md#ent-person-kid-rock-t-00-40-43)**
+> "...n they waited the longest for Kid Rock I don't think that's that surprising."
+
+**[00:42:11](/episodes/ep-hWTdXHGQ8R4.md#ent-person-kid-rock-t-00-42-06)**
+> "...ere told we need you to match Kid Rock's energy."
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (2 mentions)</summary>

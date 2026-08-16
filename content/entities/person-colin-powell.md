@@ -1,9 +1,10 @@
 ---
 title: "Colin Powell"
-description: "Colin Powell (People) - 3 mentions"
+description: "Colin Powell (People) - 5 mentions"
 id: "person-colin-powell"
 type: "PERSON"
 aliases:
+  - "Colin Powell"
   - "Colin L. Powell"
   - "Colin Luther Powell"
 categories:
@@ -13,7 +14,7 @@ categories:
 
 _Type: People_
 
-**Also known as:** Colin L. Powell, Colin Luther Powell
+**Also known as:** Colin Powell, Colin L. Powell, Colin Luther Powell
 
 **Categories:** United States government, Iraq War
 
@@ -37,6 +38,17 @@ Source: [Colin Luther Powell | Office of the Historian](https://history.state.go
 
 **[00:10:04](/episodes/ep-QRS_hR7NXaQ.md#ent-person-colin-powell-t-00-09-31)**
 > "...hat I got a stand from my boy Colin Powell looking into this because I think he told the tru..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (2 mentions)</summary>
+
+**[00:00:48](/episodes/ep-t4U7NjnUEgc.md#ent-person-colin-powell-t-00-05-14)**
+> "with the help of Colin Powell"
+
+**[00:05:41](/episodes/ep-t4U7NjnUEgc.md#ent-person-colin-powell-t-00-05-14)**
+> "...ith the help of Colin Powell (Colin Powell)."
 
 </details>
 

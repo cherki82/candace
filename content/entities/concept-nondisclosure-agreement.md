@@ -1,6 +1,6 @@
 ---
 title: "Non-disclosure agreement"
-description: "Non-disclosure agreement (Concepts) - 1 mention"
+description: "Non-disclosure agreement (Concepts) - 2 mentions"
 id: "concept-nondisclosure-agreement"
 type: "CONCEPT"
 aliases:
@@ -24,6 +24,14 @@ Source: [non-disclosure agreement (NDA) | Wex | US Law | LII](https://www.law.co
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
+
+**[00:42:14](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-nondisclosure-agreement-t-00-42-06)**
+> "They signed an NDA with that NDA expired one hour after the show."
+
+</details>
 
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>

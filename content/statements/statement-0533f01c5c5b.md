@@ -1,0 +1,51 @@
+---
+title: "After the public execution of sitting President JFK in 1963,..."
+description: "\"After the public execution of sitting President JFK in 1963, the CIA established Operation Mockingbird\" — Candace Owens"
+statement_id: "statement-0533f01c5c5b"
+speaker: "Candace Owens"
+type: "factual_claim"
+---
+
+**Status:** ○ Not yet verified
+
+## Statement
+
+> After the public execution of sitting President JFK in 1963, the CIA established Operation Mockingbird
+
+## Attribution
+
+**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+
+**Delivery:** Made directly
+
+## About
+
+- [JFK assassination](/entities/event-jfk-assassination.md) (event)
+- [Central Intelligence Agency](/entities/org-central-intelligence-agency.md) (org)
+- [Operation Mockingbird](/entities/concept-operation-mockingbird.md) (concept)
+
+## Appearances (2)
+
+### 1. Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | C...
+
+**Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
+**Timestamp:** [00:00:03](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3);return false;">Play</a>
+
+> It was after the public execution of sitting President JFK in 1963 that the CIA established Operation Mockingbird.
+
+### 2. Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | C...
+
+**Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
+**Timestamp:** [00:00:03](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3);return false;">Play</a>
+
+> It was after the public execution of sitting President JFK in 1963 that the CIA established Operation Mockingbird.
+
+## Verification
+
+_This statement has not yet been verified._
+
+---
+
+**Type:** Factual Claim | **Verifiable:** Yes

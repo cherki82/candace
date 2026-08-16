@@ -1,6 +1,6 @@
 ---
 title: "Epstein Files"
-description: "Epstein Files (Works & Media) - 14 mentions"
+description: "Epstein Files (Works & Media) - 18 mentions"
 id: "work-epstein-files"
 type: "WORK"
 aliases:
@@ -24,6 +24,23 @@ Source: [Epstein Library | U.S. Department of Justice](https://www.justice.gov/e
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (4 mentions)</summary>
+
+**[00:46:01](/episodes/ep-hWTdXHGQ8R4.md#ent-work-epstein-files-t-00-46-01)**
+> "...what are we gonna do with the Epstein files and if they admitted everything we just came out ..."
+
+**[00:47:25](/episodes/ep-hWTdXHGQ8R4.md#ent-work-epstein-files-t-00-46-47)**
+> "...annopoulos) to talk about the Epstein files he could give insight because he had that drama a..."
+
+**[00:47:30](/episodes/ep-hWTdXHGQ8R4.md#ent-work-epstein-files-t-00-47-30)**
+> "...annopoulos) to talk about the Epstein files he could give insight because he had that drama a..."
+
+**[00:47:53](/episodes/ep-hWTdXHGQ8R4.md#ent-work-epstein-files-t-00-47-30)**
+> "... about a little bit about the Epstein files."
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1 mentions)</summary>

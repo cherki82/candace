@@ -80,7 +80,7 @@ Source: [Harvey Weinstein | Biography | Britannica](https://www.britannica.com/b
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Harvey Weinstein (4)</strong></summary>
+<summary><strong class="section-title">Statements about Harvey Weinstein (6)</strong></summary>
 
 <details>
 <summary>Myron Gaines x Candace Owens (4)</summary>
@@ -94,6 +94,17 @@ Source: [Harvey Weinstein | Biography | Britannica](https://www.britannica.com/b
 - [00:49:38](/episodes/ep-2T39-oADLj0.md#t-00-49-26) (Accusation) **Candace Owens**: ["Harvey Weinstein should not currently be in prison."](/statements/statement-ae61be4a7ad0.md)
 
 - [00:51:08](/episodes/ep-2T39-oADLj0.md#t-00-50-43) (Accusation) **Candace Owens**: ["The court system is corrupted."](/statements/statement-1effbc2eebd5.md)
+
+</details>
+
+<details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2)</summary>
+
+- [00:03:17](/episodes/ep-7RLtGgkTh9o.md#t-00-02-48) (Accusation) **Candace Owens**: ["Harvey Weinstein was taken out via the MeToo movement"](/statements/statement-f139069c1da4.md)
+  - Also about: [Me Too](/entities/concept-me-too.md)
+
+- [00:15:19](/episodes/ep-7RLtGgkTh9o.md#t-00-14-40) (Accusation) **Anonymous Source #1 (Ep 7RLtGgkTh9o)** (via read message): ["The security hired was Black Cube security which was also provided for..."](/statements/statement-2beac23b0f28.md)
+  - Also about: [Mossad](/entities/org-mossad.md)
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Ryan Reynolds"
-description: "Ryan Reynolds (People) - 1 mention"
+description: "Ryan Reynolds (People) - 2 mentions"
 id: "person-ryan-reynolds"
 type: "PERSON"
 categories:
@@ -26,6 +26,14 @@ Source: [Ryan Reynolds | Biography, Movies, Deadpool, Wife, & Facts](https://www
 
 **[00:16:15](/episodes/ep-zSKrxIUMNqw.md#ent-person-ryan-reynolds-t-00-15-52)**
 > "And they sent out Ryan Reynolds and Blake Lively to go and get it."
+
+</details>
+
+<details>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
+
+**[00:27:04](/episodes/ep-his-JBjlkh8.md#ent-person-ryan-reynolds-t-00-26-34)**
+> "...ident and things aren't making sense and I sense that she is lying. Sometimes it's Blake Lively and Ryan Reynolds when they try to destroy a man's life who's not even on my quote-unquote "political team." Sometime..."
 
 </details>
 

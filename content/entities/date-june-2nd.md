@@ -1,0 +1,30 @@
+---
+title: "June 2nd"
+description: "June 2nd (Dates) - 1 mention"
+id: "date-june-2nd"
+type: "DATE"
+---
+
+_Type: Dates_
+
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
+<details open>
+<summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1 mentions)</summary>
+
+**[00:16:12](/episodes/ep-ZAuuSq_j2_w.md#ent-date-june-2nd-t-00-15-51)**
+> "...nto Provo with Walid Mahmood aboard. Maybe it's a pilot. I don't know. Then we've got it departs on June 2nd, and it is not transponding, okay? So you cannot find a record of this on FlightRadar. Now, why is ..."
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Relationships</strong></summary>
+
+_No relationships extracted yet._
+
+</details>

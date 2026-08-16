@@ -1,14 +1,18 @@
 ---
 title: "Andrew Tate"
-description: "Andrew Tate (People) - 5 mentions"
+description: "Andrew Tate (People) - 11 mentions"
 id: "person-andrew-tate"
 type: "PERSON"
+aliases:
+  - "Tate"
 categories:
   - "online influencer"
   - "Romania trafficking case"
 ---
 
 _Type: People_
+
+**Also known as:** Tate
 
 **Categories:** online influencer, Romania trafficking case
 
@@ -46,6 +50,44 @@ Source: [Influencer Tate brothers, who face human trafficking charges in Romania
 
 </details>
 
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3 mentions)</summary>
+
+**[00:26:50](/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-tate-t-00-26-27)**
+> "...er when she messaged me about Andrew Tate."
+
+**[00:26:59](/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-tate-t-00-26-27)**
+> "... someone on her show that was Andrew Tate's—one of the accusers' lawyers."
+
+**[00:27:19](/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-tate-t-00-26-27)**
+> "messaged me about Andrew Tate accusers lawyer"
+
+</details>
+
+<details>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1 mentions)</summary>
+
+**[00:55:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-55-04)**
+> "She has sent out to the Tate brothers, Dave Smith, Max Blumenthal, Tucker (Tuc..."
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1 mentions)</summary>
+
+**[00:27:42](/episodes/ep-5autG89PW6w.md#ent-person-andrew-tate-t-00-27-17)**
+> "...anging from Max Blumenthal to Andrew Tate."
+
+</details>
+
+<details>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (1 mentions)</summary>
+
+**[00:36:20](/episodes/ep-K5GjF53bfN4.md#ent-person-andrew-tate-t-00-36-02)**
+> "...unded by Qatar, I'm funded by Andrew Tate, because Andrew Tate is also from the UK, and my ..."
+
+</details>
+
 </details>
 
 <details open>
@@ -78,7 +120,7 @@ Source: [Influencer Tate brothers, who face human trafficking charges in Romania
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Tate (2)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Tate (3)</strong></summary>
 
 <details>
 <summary>Myron Gaines x Candace Owens (1)</summary>
@@ -93,6 +135,14 @@ Source: [Influencer Tate brothers, who face human trafficking charges in Romania
 
 - [00:49:42](/episodes/ep-ZZGWo6oDscc.md#t-00-49-04) (Accusation) **Candace Owens**: ["The government protects its own and protected Jeffrey Epstein; if Andr..."](/statements/statement-3b563919285d.md)
   - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Tristan Tate](/entities/person-tristan-tate.md), [United States](/entities/gpe-united-states.md)
+
+</details>
+
+<details>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1)</summary>
+
+- [00:55:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-55-04) (Claim) **Alex Jones** (via quoted speech): ["Candace Owens sent out a dead man's switch to the Tate brothers, Dave ..."](/statements/statement-e74fc96d3122.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Dave Smith](/entities/person-dave-smith.md), [Max Blumenthal](/entities/person-max-blumenthal.md)
 
 </details>
 

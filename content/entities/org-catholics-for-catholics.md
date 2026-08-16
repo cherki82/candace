@@ -1,6 +1,6 @@
 ---
 title: "Catholics for Catholics"
-description: "Catholics for Catholics (Organizations) - 4 mentions"
+description: "Catholics for Catholics (Organizations) - 5 mentions"
 id: "org-catholics-for-catholics"
 type: "ORG"
 aliases:
@@ -40,6 +40,14 @@ Source: [Catholics for Catholics endorses Arizona Catholic Conference statement]
 
 **[00:35:59](/episodes/ep-QRS_hR7NXaQ.md#ent-org-catholics-for-catholics-t-00-35-44)**
 > "Catholics for Catholics is honored to announce that Candace Owens will be..."
+
+</details>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
+
+**[00:39:45](/episodes/ep-w1oqQbR_bYs.md#t-00-39-11)**
+> "having a discussion at dinner with Johnny Yep, who runs Catholic for Catholics"
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "India"
-description: "India (Places) - 2 mentions"
+description: "India (Places) - 5 mentions"
 id: "gpe-india"
 type: "GPE"
 categories:
@@ -29,6 +29,20 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 
 **[00:12:13](/episodes/ep-4YgrOhhy708.md#ent-gpe-india-t-00-12-10)**
 > "...ssion and 8 million people in India tuned into it. That is believable. Okay."
+
+</details>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
+
+**[00:10:14](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-india-t-00-09-46)**
+> "to India as the ambassador to India, which feels kind of o..."
+
+**[00:11:42](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-india-t-00-11-42)**
+> "That's just an ambassador to India swearing in ceremony."
+
+**[00:11:54](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-india-t-00-11-42)**
+> "to be sworn into the ambassador to India"
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Oregon"
-description: "Oregon (Places) - 1 mention"
+description: "Oregon (Places) - 2 mentions"
 id: "gpe-oregon"
 type: "GPE"
 categories:
@@ -25,6 +25,14 @@ Source: [Oregon.gov](https://www.oregon.gov/)
 
 **[00:04:58](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-oregon-t-00-04-16)**
 > "Oregon"
+
+</details>
+
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+
+**[00:21:48](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-oregon-t-00-21-48)**
+> "...ary Chapel in North Thurston, Oregon."
 
 </details>
 

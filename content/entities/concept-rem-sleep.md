@@ -1,6 +1,6 @@
 ---
 title: "Rapid eye movement sleep"
-description: "Rapid eye movement sleep (Concepts) - 1 mention"
+description: "Rapid eye movement sleep (Concepts) - 2 mentions"
 id: "concept-rem-sleep"
 type: "CONCEPT"
 aliases:
@@ -25,6 +25,14 @@ Source: [REM | Cambridge English Dictionary](https://dictionary.cambridge.org/us
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
+
+**[00:13:30](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-rem-sleep-t-00-13-16)**
+> "who should be in the REM stage of sleep."
+
+</details>
 
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>

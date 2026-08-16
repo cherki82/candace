@@ -5,6 +5,73 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2026-08-16 10:20:28
+
+**Added 50 episode(s):**
+  - `2Riv3I7D0Yk`: Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250
+  - `2WEHTk0Xewg`: Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
+  - `581dILVcEE4`: The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267
+  - `5autG89PW6w`: TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249
+  - `6DhWawD4ZiM`: UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278
+  - `6J6lRZPQ4jk`: Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279
+  - `7RLtGgkTh9o`: From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265
+  - `9k2xrAC0H88`: BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281
+  - `Cq7nj9rxPdo`: Charlie Ripped A Hole In Reality | Candace Ep 253
+  - `DqGNvi36ol8`: Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275
+  - `JQjCAsfoXEE`: Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266
+  - `K1tFD7FfoCU`: MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257
+  - `K5GjF53bfN4`: Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243
+  - `Kmt6HgRjckU`: Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276
+  - `LATnak75Si0`: Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259
+  - `MUA9ebCF4Ow`: Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263
+  - `QZWSsq8ZWzw`: BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242
+  - `Qfwr08Ebczo`: EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258
+  - `Qt0VHV-POCg`: Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254
+  - `SKGUzGHymcI`: Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268
+  - `UBkFkg4UNY8`: Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241
+  - `YA1FxrDWNIo`: DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245
+  - `YFmRH8p5lt0`: INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256
+  - `YaZfwLQ7vrI`: Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262
+  - `ZAuuSq_j2_w`: Shocking Revelation About The Egyptian Planes... | Candace Ep 274
+  - `ZGxnf5cj4Uw`: They Are Lying About Tyler Robinson. | Candace Ep 244
+  - `_dRaEO47-co`: To My Friend, Charlie Kirk.
+  - `a-e7HC6SeK8`: Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272
+  - `aDlhjfW6hz8`: Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239
+  - `adJ4LNGp84I`: BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246
+  - `c5BcKF91iec`: Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252
+  - `czVBmqZP6Ss`: They Are Lying About Charlie Kirk. | Candace Ep 235
+  - `es7PWdFGoFI`: Erika And I Sat Down. Here’s What Happened. | Candace Ep 280
+  - `ewBzjVe3LNQ`: EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282
+  - `his-JBjlkh8`: BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273
+  - `iHav0PPzUz8`: BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255
+  - `ja26iltROkM`: Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
+  - `mKXdKV-OBog`: Operation: “See you in Valhalla, Charlie”. | Candace Ep 270
+  - `ozWJz2spBcI`: TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248
+  - `pc3pxRyNFZk`: REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251
+  - `q7f8r-THr84`: Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236
+  - `r1PS67aRmcA`: Ben Shapiro Is Crying Again. | Candace Ep 261
+  - `sImMM04XdWY`: Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269
+  - `sreYYcID-QY`: EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+  - `t1YtLS1n8Vs`: INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247
+  - `t4U7NjnUEgc`: Charlie Kirk’s Last Trip To Asia… | Candace Ep 277
+  - `tB5SXXmd9vU`: Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
+  - `vwG1juDCQZQ`: #1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260
+  - `w1oqQbR_bYs`: What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283
+  - `yAIb-NuUh_U`: What Did Charlie Kirk Discover Near The End? | Candace Ep 264
+**Added 813 new entity/entities**
+**Added 548 new event(s)**
+**Added 1460 new claim(s)**
+**Added 888 new relationship(s)**
+
+**Totals:**
+- Episodes: 81
+- Entities: 2088
+- Events: 804
+- Claims: 1461
+- Relationships: 1798
+
+---
+
 ## 2026-08-16 10:03:11
 
 **Added 29 episode(s):**

@@ -1,6 +1,6 @@
 ---
 title: "Republican Party"
-description: "Republican Party (Organizations) - 4 mentions"
+description: "Republican Party (Organizations) - 6 mentions"
 id: "org-republican-party"
 type: "ORG"
 aliases:
@@ -24,6 +24,17 @@ Source: [Republican National Committee](https://gop.com/)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (2 mentions)</summary>
+
+**[00:38:11](/episodes/ep-hWTdXHGQ8R4.md#ent-org-republican-party-t-00-38-00)**
+> "the Republican Party is very clearly falling apart and they're not ack..."
+
+**[00:38:33](/episodes/ep-hWTdXHGQ8R4.md#ent-org-republican-party-t-00-38-00)**
+> "...is happening right now in the Republican Party. So it's now flipped."
+
+</details>
 
 <details>
 <summary>Myron Gaines x Candace Owens (1 mentions)</summary>

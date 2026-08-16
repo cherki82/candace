@@ -1,6 +1,6 @@
 ---
 title: "Tokyo, Japan"
-description: "Tokyo, Japan (Places) - 2 mentions"
+description: "Tokyo, Japan (Places) - 3 mentions"
 id: "gpe-tokyo-japan"
 type: "GPE"
 aliases:
@@ -24,6 +24,14 @@ Source: [Tokyo Metropolitan Government](https://www.metro.tokyo.lg.jp/english/)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
+
+**[00:03:11](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-tokyo-japan-t-00-02-51)**
+> "...arrived on a flight back from Tokyo shortly before midnight on the 7th, Charlie Kirk ..."
+
+</details>
 
 <details>
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "AmericaFest 2025"
-description: "AmericaFest 2025 (Events) - 27 mentions"
+description: "AmericaFest 2025 (Events) - 28 mentions"
 id: "event-americafest-2025"
 type: "EVENT"
 aliases:
@@ -25,6 +25,14 @@ Source: [AmericaFest](https://www.amfest.com/)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
+
+**[00:19:55](/episodes/ep-hWTdXHGQ8R4.md#ent-event-americafest-2025-t-00-19-32)**
+> "...he wanted to bring me back to AMFest. He was very clear in telling people that on the ..."
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (2 mentions)</summary>

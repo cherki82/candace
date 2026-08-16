@@ -1,6 +1,6 @@
 ---
 title: "SMART Equity Loan"
-description: "SMART Equity Loan (Works & Media) - 18 mentions"
+description: "SMART Equity Loan (Works & Media) - 20 mentions"
 id: "work-smart-equity-loan"
 type: "WORK"
 aliases:
@@ -25,6 +25,17 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (2 mentions)</summary>
+
+**[00:44:30](/episodes/ep-hWTdXHGQ8R4.md#ent-work-smart-equity-loan-t-00-44-08)**
+> "...merican Financing created the Smart Equity Loan, which is a simple, smart way to get your finance..."
+
+**[00:44:40](/episodes/ep-hWTdXHGQ8R4.md#ent-work-smart-equity-loan-t-00-44-08)**
+> "The Smart Equity Loan offers a fixed rate so that you'll have one predi..."
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (2 mentions)</summary>

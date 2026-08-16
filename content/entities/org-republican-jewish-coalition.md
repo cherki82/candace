@@ -1,6 +1,6 @@
 ---
 title: "Republican Jewish Coalition"
-description: "Republican Jewish Coalition (Organizations) - 1 mention"
+description: "Republican Jewish Coalition (Organizations) - 3 mentions"
 id: "org-republican-jewish-coalition"
 type: "ORG"
 aliases:
@@ -30,6 +30,22 @@ Source: [About | Republican Jewish Coalition](https://www.rjchq.org/about)
 
 **[00:44:55](/episodes/ep-2T39-oADLj0.md#ent-org-republican-jewish-coalition-t-00-44-53)**
 > "they had the Republican Jewish coalition"
+
+</details>
+
+<details>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
+
+**[00:17:51](/episodes/ep-LATnak75Si0.md#ent-org-republican-jewish-coalition-t-00-17-51)**
+> "...o do to Brett Cooper because she watched the totally deranged "Tucker (Tucker Carlson) is not MAGA" Republican Jewish coalition event. And she agreed with the majority of sensible people that demands to censor speech, to deplat..."
+
+</details>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
+
+**[00:01:30](/episodes/ep-K1tFD7FfoCU.md#ent-org-republican-jewish-coalition-t-00-01-30)**
+> "...ndsey Graham) shade, which he threw at American voters. So what happened was he was on stage at the Republican Jewish Coalition. He and many others, by the way—many other treasonous congressmen—basically directed their fire and..."
 
 </details>
 

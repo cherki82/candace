@@ -1,11 +1,13 @@
 ---
 title: "Joint Task Force–Southern Border"
-description: "Joint Task Force–Southern Border (Organizations) - 1 mention"
+description: "Joint Task Force–Southern Border (Organizations) - 4 mentions"
 id: "org-joint-task-force-southern-border"
 type: "ORG"
 aliases:
-  - "Joint Task Force-Southern Border"
+  - "Joint Task Force Southern Border"
+  - "JTF Southern Border"
   - "JTF-SB"
+  - "Joint Task Force-Southern Border"
 categories:
   - "United States military task force"
   - "southern border mission"
@@ -14,7 +16,7 @@ categories:
 
 _Type: Organizations_
 
-**Also known as:** Joint Task Force-Southern Border, JTF-SB
+**Also known as:** Joint Task Force Southern Border, JTF Southern Border, JTF-SB, Joint Task Force-Southern Border
 
 **Categories:** United States military task force, southern border mission, Fort Huachuca
 
@@ -32,6 +34,20 @@ Source: [U.S. Northern Command: Joint Task Force–Southern Border assumes autho
 
 **[00:19:02](/episodes/ep-4YgrOhhy708.md#t-00-18-36)**
 > "a military briefing right before a mission ... for the Joint Task Force, the Southern Border Unit"
+
+</details>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (3 mentions)</summary>
+
+**[00:02:56](/episodes/ep-t4U7NjnUEgc.md#ent-org-joint-task-force-southern-border-t-00-17-57)**
+> "the old Joint Task Force Six is now being continued and it's known as JTF, Joint Task Force Southern Border"
+
+**[00:18:31](/episodes/ep-t4U7NjnUEgc.md#ent-org-joint-task-force-southern-border-t-00-17-57)**
+> "...tinued and it's known as JTF, Joint Task Force Southern Border."
+
+**[00:18:47](/episodes/ep-t4U7NjnUEgc.md#ent-org-joint-task-force-southern-border-t-00-18-39)**
+> "... they're like, yeah, it's now JTF Southern Border."
 
 </details>
 

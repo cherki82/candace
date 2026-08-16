@@ -1,6 +1,6 @@
 ---
 title: "Antisemitism"
-description: "Antisemitism (Concepts) - 58 mentions"
+description: "Antisemitism (Concepts) - 68 mentions"
 id: "concept-antisemitism"
 type: "CONCEPT"
 aliases:
@@ -27,6 +27,41 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (10 mentions)</summary>
+
+**[00:28:06](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-antisemitism-t-00-28-06)**
+> "... they were doing a hearing on anti-Semitism because that's what's happening."
+
+**[00:28:29](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-antisemitism-t-00-28-06)**
+> "...t is the actual definition of anti-Semitism? Because it just seems like it's everything these..."
+
+**[00:28:31](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-antisemitism-t-00-28-06)**
+> "...t is the actual definition of anti-Semitism?"
+
+**[00:28:40](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-antisemitism-t-00-28-06)**
+> "...ng why everything seems to be anti-Semitism,"
+
+**[00:28:59](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-antisemitism-t-00-28-59)**
+> "... to be clear, is anti-Zionism anti-Semitism?"
+
+**[00:29:13](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-antisemitism-t-00-29-09)**
+> "Undoubtedly, anti-Zionism is anti-Semitism,"
+
+**[00:29:39](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-antisemitism-t-00-29-09)**
+> "... hypocrisy, and is absolutely anti-Semitism."
+
+**[00:30:09](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-antisemitism-t-00-29-58)**
+> "...double standard hypocrisy and anti-Semitism."
+
+**[00:30:23](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-antisemitism-t-00-30-23)**
+> "...double standard hypocrisy and anti-Semitism."
+
+**[00:36:02](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-antisemitism-t-00-35-57)**
+> "...d on Monday in our hearing on anti-Semitism in America."
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1 mentions)</summary>
@@ -292,7 +327,24 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Antisemitism (11)</strong></summary>
+<summary><strong class="section-title">Statements about Antisemitism (15)</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (4)</summary>
+
+- [00:29:02](/episodes/ep-hWTdXHGQ8R4.md#t-00-29-02) (Opinion) **Anonymous Source #1 (Ep hWTdXHGQ8R4)** (via quoted speech): ["Anti-Zionism is antisemitism."](/statements/statement-2b28118dd5b6.md)
+  - Also about: [Anti-Zionism](/entities/concept-anti-zionism.md)
+
+- [00:29:13](/episodes/ep-hWTdXHGQ8R4.md#t-00-29-09) (Opinion) **Anonymous Source #2 (Ep hWTdXHGQ8R4)** (via quoted speech): ["Anti-Zionism is antisemitism because denying only the Jewish people a ..."](/statements/statement-43bf924d2904.md)
+  - Also about: [Anti-Zionism](/entities/concept-anti-zionism.md), [Israel](/entities/gpe-israel.md)
+
+- [00:30:13](/episodes/ep-hWTdXHGQ8R4.md#t-00-30-13) (Opinion) **Carrie Prejean Boller** (via quoted speech): ["Catholics do not embrace Zionism, so are all Catholics antisemites acc..."](/statements/statement-ac1df86796fa.md)
+  - Also about: [Catholicism](/entities/concept-catholicism.md), [Zionism](/entities/concept-zionism.md)
+
+- [00:35:57](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-57) (Accusation) **Dan Patrick** (via quoted post): ["Carrie Prejean Boller hijacked the commission's antisemitism hearing f..."](/statements/statement-426c8bc5db16.md)
+  - Also about: [Carrie Prejean Boller](/entities/person-carrie-prejean-boller.md), [Presidential Religious Liberty Commission](/entities/org-presidential-religious-liberty-commission.md)
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (2)</summary>

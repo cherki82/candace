@@ -1,6 +1,6 @@
 ---
 title: "Colorado"
-description: "Colorado (Places) - 5 mentions"
+description: "Colorado (Places) - 9 mentions"
 id: "gpe-colorado"
 type: "GPE"
 categories:
@@ -19,6 +19,20 @@ Source: [State Information - Colorado.gov](https://co.colorado.gov/state-informa
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (3 mentions)</summary>
+
+**[00:17:47](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-colorado-t-00-51-58)**
+> "...eduled turning point event at Colorado State just a few days later."
+
+**[00:51:53](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-colorado-t-00-51-58)**
+> "...s supposed to be, I think, at Colorado State."
+
+**[00:51:58](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-colorado-t-00-51-58)**
+> "was in the state of colorado and at Charis Bible College and they did not have..."
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1 mentions)</summary>
@@ -47,6 +61,14 @@ Source: [State Information - Colorado.gov](https://co.colorado.gov/state-informa
 
 **[00:04:46](/episodes/ep-wcD2khO3rOA.md#ent-gpe-colorado-t-00-04-13)**
 > "... the police departments up in Colorado?"
+
+</details>
+
+<details>
+<summary>To My Friend, Charlie Kirk. (1 mentions)</summary>
+
+**[00:09:13](/episodes/ep-_dRaEO47-co.md#ent-gpe-colorado-t-00-09-13)**
+> "...best moments that I can think of, and there are so many to choose from, was we were driving through Colorado, and I put on a Kanye song, you know, on my playlist, and Charlie (Charlie Kirk) goes, “Is this Jay..."
 
 </details>
 

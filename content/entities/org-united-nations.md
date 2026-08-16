@@ -1,6 +1,6 @@
 ---
 title: "United Nations"
-description: "United Nations (Organizations) - 2 mentions"
+description: "United Nations (Organizations) - 3 mentions"
 id: "org-united-nations"
 type: "ORG"
 aliases:
@@ -33,6 +33,14 @@ Source: [About Us | United Nations](https://www.un.org/en/about-us)
 
 **[00:08:57](/episodes/ep-QRS_hR7NXaQ.md#ent-org-united-nations-t-00-10-14)**
 > "... anthrax. He's addressing the United Nations Security Council."
+
+</details>
+
+<details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
+
+**[00:12:19](/episodes/ep-t1YtLS1n8Vs.md#ent-org-united-nations-t-00-12-03)**
+> "...Connecticut, the ADL shares an office space with the FBI.” They also share an office space with the United Nations in New York now. Same building, across the hall, whatever; that's a fact. And it makes sense. You s..."
 
 </details>
 

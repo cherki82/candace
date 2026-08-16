@@ -1,6 +1,6 @@
 ---
 title: "Michigan"
-description: "Michigan (Places) - 1 mention"
+description: "Michigan (Places) - 2 mentions"
 id: "gpe-michigan"
 type: "GPE"
 categories:
@@ -19,6 +19,14 @@ Source: [State of Michigan](https://www.michigan.gov/)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
+
+**[00:49:32](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-michigan-t-00-49-29)**
+> "...rk) at age 25 while living in Michigan had a very inappropriate relationship with a 15-y..."
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>

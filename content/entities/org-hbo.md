@@ -1,14 +1,18 @@
 ---
 title: "HBO"
-description: "HBO (Organizations) - 3 mentions"
+description: "HBO (Organizations) - 5 mentions"
 id: "org-hbo"
 type: "ORG"
+aliases:
+  - "Home Box Office"
 categories:
   - "television network"
   - "entertainment media"
 ---
 
 _Type: Organizations_
+
+**Also known as:** Home Box Office
 
 **Categories:** television network, entertainment media
 
@@ -37,6 +41,17 @@ Source: [About HBO | HBO Official Site](https://www.hbo.com/about)
 
 **[00:46:53](/episodes/ep-QdM9jLwjwLw.md#ent-org-hbo-t-00-46-53)**
 > "...e on a budget that would make HBO blush paying to transport bulls across the contin..."
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
+
+**[00:01:04](/episodes/ep-5autG89PW6w.md#ent-org-hbo-t-00-00-39)**
+> "...s like the show Succession on HBO.""
+
+**[00:01:14](/episodes/ep-5autG89PW6w.md#ent-org-hbo-t-00-00-39)**
+> "Succession on HBO"
 
 </details>
 

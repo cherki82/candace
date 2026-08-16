@@ -1,6 +1,6 @@
 ---
 title: "Croatia"
-description: "Croatia (Places) - 1 mention"
+description: "Croatia (Places) - 4 mentions"
 id: "gpe-croatia"
 type: "GPE"
 categories:
@@ -26,6 +26,20 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 
 **[00:12:41](/episodes/ep-4YgrOhhy708.md#ent-gpe-croatia-t-00-12-10)**
 > "Brazil versus Croatia"
+
+</details>
+
+<details>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (3 mentions)</summary>
+
+**[00:01:11](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-croatia-t-01-10-55)**
+> "Greetings from Croatia."
+
+**[01:11:10](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-croatia-t-01-10-55)**
+> "Greetings from Croatia."
+
+**[01:11:13](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-croatia-t-01-10-55)**
+> "I used to live in Croatia for a couple of months—about three months—working..."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Vladimir Putin"
-description: "Vladimir Putin (People) - 4 mentions"
+description: "Vladimir Putin (People) - 8 mentions"
 id: "person-vladimir-putin"
 type: "PERSON"
 aliases:
@@ -44,6 +44,23 @@ Source: [Vladimir Putin | Biography, KGB, Political Career, & Facts | Britannica
 
 **[01:05:00](/episodes/ep-2T39-oADLj0.md#ent-person-vladimir-putin-t-01-04-36)**
 > "... us because uh there's no way putin's not laughing with his homies right now about that..."
+
+</details>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (4 mentions)</summary>
+
+**[00:36:34](/episodes/ep-K1tFD7FfoCU.md#ent-person-vladimir-putin-t-00-36-34)**
+> "Like I'm gonna go live with Putin (Vladimir Putin)."
+
+**[00:38:58](/episodes/ep-K1tFD7FfoCU.md#ent-person-vladimir-putin-t-00-36-34)**
+> "Could you imagine Vladimir Putin (Vladimir Putin) sending this tweet?"
+
+**[00:40:18](/episodes/ep-K1tFD7FfoCU.md#ent-person-vladimir-putin-t-00-40-01)**
+> "There was no question that Vladimir Putin (Vladimir Putin) and the homies laughed."
+
+**[00:41:26](/episodes/ep-K1tFD7FfoCU.md#ent-person-vladimir-putin-t-00-40-46)**
+> "Could you imagine Vladimir Putin (Vladimir Putin) sending this tweet?"
 
 </details>
 

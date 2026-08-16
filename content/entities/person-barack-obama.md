@@ -1,9 +1,11 @@
 ---
 title: "Barack Obama"
-description: "Barack Obama (People) - 1 mention"
+description: "Barack Obama (People) - 4 mentions"
 id: "person-barack-obama"
 type: "PERSON"
 aliases:
+  - "Obama"
+  - "Barack"
   - "Barack H. Obama"
 categories:
   - "United States politics"
@@ -12,7 +14,7 @@ categories:
 
 _Type: People_
 
-**Also known as:** Barack H. Obama
+**Also known as:** Obama, Barack, Barack H. Obama
 
 **Categories:** United States politics, president
 
@@ -30,6 +32,20 @@ Source: [Barack Obama | whitehouse.gov](https://obamawhitehouse.archives.gov/160
 
 **[00:08:17](/episodes/ep-ZZGWo6oDscc.md#ent-person-barack-obama-t-00-08-02)**
 > "Trump is not Barack Obama."
+
+</details>
+
+<details>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (3 mentions)</summary>
+
+**[00:34:45](/episodes/ep-DqGNvi36ol8.md#ent-person-barack-obama-t-00-34-45)**
+> "love her like Kamala, love her like Obama"
+
+**[00:34:45](/episodes/ep-DqGNvi36ol8.md#ent-person-barack-obama-t-00-34-45)**
+> "...er like Kamala, love her like Obama."
+
+**[00:35:04](/episodes/ep-DqGNvi36ol8.md#ent-person-barack-obama-t-00-34-58)**
+> "...er like Kamala, love her like Obama."
 
 </details>
 

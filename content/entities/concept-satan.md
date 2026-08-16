@@ -1,6 +1,6 @@
 ---
 title: "Satan"
-description: "Satan (Concepts) - 40 mentions"
+description: "Satan (Concepts) - 42 mentions"
 id: "concept-satan"
 type: "CONCEPT"
 aliases:
@@ -25,6 +25,17 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (2 mentions)</summary>
+
+**[00:37:35](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-satan-t-00-37-22)**
+> "There's no halfway with Satan."
+
+**[00:37:37](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-satan-t-00-37-22)**
+> "Satan's an orphan."
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (4 mentions)</summary>

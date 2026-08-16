@@ -1,6 +1,6 @@
 ---
 title: "New Mexico"
-description: "New Mexico (Places) - 1 mention"
+description: "New Mexico (Places) - 2 mentions"
 id: "gpe-new-mexico"
 type: "GPE"
 categories:
@@ -20,6 +20,14 @@ Source: [New Mexico.gov](https://www.nm.gov/)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
+
+**[00:48:46](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-new-mexico-t-00-48-46)**
+> "...rders where jeffrey Epstein's new mexico house was don't quote me on that but i feel like ..."
+
+</details>
 
 <details>
 <summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1 mentions)</summary>

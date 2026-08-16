@@ -1,14 +1,18 @@
 ---
 title: "Piers Morgan"
-description: "Piers Morgan (People) - 12 mentions"
+description: "Piers Morgan (People) - 16 mentions"
 id: "person-piers-morgan"
 type: "PERSON"
+aliases:
+  - "Piers"
 categories:
   - "journalism"
   - "television"
 ---
 
 _Type: People_
+
+**Also known as:** Piers
 
 **Categories:** journalism, television
 
@@ -72,6 +76,23 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 
 </details>
 
+<details>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (4 mentions)</summary>
+
+**[00:55:53](/episodes/ep-9k2xrAC0H88.md#ent-person-piers-morgan-t-00-55-37)**
+> "...is is just me, this is me and Piers Morgan, this is our thing."
+
+**[00:55:47](/episodes/ep-9k2xrAC0H88.md#ent-person-piers-morgan-t-00-55-37)**
+> "Piers Morgan is playing stupid when he eats the fed slop of JF..."
+
+**[00:55:50](/episodes/ep-9k2xrAC0H88.md#ent-person-piers-morgan-t-00-55-37)**
+> "Oh yeah, I did sit down with Piers Morgan this morning."
+
+**[00:57:46](/episodes/ep-9k2xrAC0H88.md#ent-person-piers-morgan-t-00-57-41)**
+> "...on writes, here is the money, Piers."
+
+</details>
+
 </details>
 
 <details open>
@@ -80,28 +101,30 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 <details>
 <summary>Interviewed (3)</summary>
 
+- **[Candace Owens](/entities/person-candace-owens.md)**
+  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:55:53](/episodes/ep-9k2xrAC0H88.md#t-00-55-37): "I did sit down with Piers Morgan this morning."
+  - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:19:46](/episodes/ep-ti5Fxrvegno.md#t-00-19-38): "when I've had her on the show, I get on well with Candace (Candace Owens)"
+
 - **[Bassem Youssef](/entities/person-bassem-youssef.md)**
   - [Candace x Bassem Youssef | Candace Ep 298 @ 01:04:25](/episodes/ep-xjzb_t5Tk9o.md#t-01-04-24): "psychopath are genuinely sick people. The world revolves around them. They can do no wrong. They will gaslight you into denying what's in front of you. They will not engage in conversation except to wear you down and piss you off. In one of the interviews I did with Piers Morgan, they brought someone called Jonathan Conricus, who was the ex-IDF"
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)**
   - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:19:38](/episodes/ep-ti5Fxrvegno.md#t-00-19-38): "And just on Candace Owens, you've been very supportive of her, not critical"
 
-- **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:19:46](/episodes/ep-ti5Fxrvegno.md#t-00-19-38): "when I've had her on the show, I get on well with Candace (Candace Owens)"
-
 </details>
 
 <details>
 <summary>Referenced By (3)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** interviewed by this
+  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:55:53](/episodes/ep-9k2xrAC0H88.md#t-00-55-37)
+  - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:19:46](/episodes/ep-ti5Fxrvegno.md#t-00-19-38)
 
 - **[Bassem Youssef](/entities/person-bassem-youssef.md)** interviewed by this
   - [Candace x Bassem Youssef | Candace Ep 298 @ 01:04:25](/episodes/ep-xjzb_t5Tk9o.md#t-01-04-24)
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)** interviewed by this
   - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:19:38](/episodes/ep-ti5Fxrvegno.md#t-00-19-38)
-
-- **[Candace Owens](/entities/person-candace-owens.md)** interviewed by this
-  - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:19:46](/episodes/ep-ti5Fxrvegno.md#t-00-19-38)
 
 </details>
 

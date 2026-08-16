@@ -1,16 +1,34 @@
 ---
 title: "Charis Bible College"
-description: "Charis Bible College (Organizations) - 2 mentions"
+description: "Charis Bible College (Organizations) - 3 mentions"
 id: "org-charis-bible-college"
 type: "ORG"
+categories:
+  - "Bible college"
+  - "Christian education"
+  - "Turning Point USA campus event"
 ---
 
 _Type: Organizations_
+
+**Categories:** Bible college, Christian education, Turning Point USA campus event
+
+**Entity verification:** verified
+> Official Charis Bible College site confirms the canonical institutional name and its Bible-college educational role; transcript context identifies the Colorado campus event.
+Source: [Charis Bible College](https://www.charisbiblecollege.org/)
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
+
+**[00:51:58](/episodes/ep-hWTdXHGQ8R4.md#ent-org-charis-bible-college-t-00-51-58)**
+> "... the state of colorado and at Charis Bible College and they did not have any arrangements for securi..."
+
+</details>
 
 <details>
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (2 mentions)</summary>

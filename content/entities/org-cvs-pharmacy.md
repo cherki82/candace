@@ -1,6 +1,6 @@
 ---
 title: "CVS Pharmacy"
-description: "CVS Pharmacy (Organizations) - 1 mention"
+description: "CVS Pharmacy (Organizations) - 2 mentions"
 id: "org-cvs-pharmacy"
 type: "ORG"
 aliases:
@@ -24,6 +24,14 @@ Source: [Pharmacy and Drugstore Locations | CVS Pharmacy Locator](https://www.cv
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
+
+**[00:44:08](/episodes/ep-hWTdXHGQ8R4.md#ent-org-cvs-pharmacy-t-00-44-08)**
+> "...r on Amazon and at your local CVS."
+
+</details>
 
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>

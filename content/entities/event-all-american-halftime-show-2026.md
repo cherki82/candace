@@ -1,6 +1,6 @@
 ---
 title: "The All-American Halftime Show"
-description: "The All-American Halftime Show (Events) - 1 mention"
+description: "The All-American Halftime Show (Events) - 2 mentions"
 id: "event-all-american-halftime-show-2026"
 type: "EVENT"
 aliases:
@@ -25,6 +25,14 @@ Source: [TPUSA: All American Halftime Show lineup and streaming details](https:/
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
+
+**[00:40:47](/episodes/ep-hWTdXHGQ8R4.md#ent-event-all-american-halftime-show-2026-t-00-40-43)**
+> "... objectively hilarious for an all-American halftime show."
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (1 mentions)</summary>

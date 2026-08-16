@@ -1,8 +1,10 @@
 ---
 title: "Steve Bannon"
-description: "Steve Bannon (People) - 9 mentions"
+description: "Steve Bannon (People) - 12 mentions"
 id: "person-steve-bannon"
 type: "PERSON"
+aliases:
+  - "Bannon"
 categories:
   - "conservative media"
   - "politics"
@@ -10,6 +12,8 @@ categories:
 ---
 
 _Type: People_
+
+**Also known as:** Bannon
 
 **Categories:** conservative media, politics, Breitbart News
 
@@ -64,10 +68,32 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 
 </details>
 
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (3 mentions)</summary>
+
+**[00:25:55](/episodes/ep-Kmt6HgRjckU.md#ent-person-steve-bannon-t-00-25-55)**
+> "Jeffrey Epstein, as Bannon (Steve Bannon) has said, and who would know better than him, it..."
+
+**[00:26:01](/episodes/ep-Kmt6HgRjckU.md#ent-person-steve-bannon-t-00-26-01)**
+> "Bannon has said Epstein was the key that picks the lock"
+
+**[00:26:01](/episodes/ep-Kmt6HgRjckU.md#ent-person-steve-bannon-t-00-26-01)**
+> "Oh, you're going to quote Bannon (Steve Bannon) who consulted for Epstein?"
+
+</details>
+
 </details>
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
+
+<details>
+<summary>Advisor To (1)</summary>
+
+- **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)**
+  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:26:03](/episodes/ep-Kmt6HgRjckU.md#t-00-26-01): "Oh, you're going to quote Bannon who consulted for Epstein?"
+
+</details>
 
 <details>
 <summary>Chairman Of (1)</summary>
@@ -102,7 +128,10 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
+
+- **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)** advised by this
+  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:26:03](/episodes/ep-Kmt6HgRjckU.md#t-00-26-01)
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized this
   - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:25:33](/episodes/ep-zSKrxIUMNqw.md#t-00-24-51)
@@ -143,7 +172,7 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Steve Bannon (4)</strong></summary>
+<summary><strong class="section-title">Statements about Steve Bannon (5)</strong></summary>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1)</summary>
@@ -164,6 +193,14 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 
 - [00:25:33](/episodes/ep-zSKrxIUMNqw.md#t-00-24-51) (Accusation) **Ben Shapiro** (via quoted document): ["Ben Shapiro accused Steve Bannon of betraying Andrew Breitbart's missi..."](/statements/statement-3ca08f51b7f0.md)
   - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Andrew Breitbart](/entities/person-andrew-breitbart.md), [Corey Lewandowski](/entities/person-corey-lewandowski.md)
+
+</details>
+
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>
+
+- [00:26:03](/episodes/ep-Kmt6HgRjckU.md#t-00-26-01) (Claim) **Milo Yiannopoulos** (via quoted speech): ["Steve Bannon consulted for Jeffrey Epstein"](/statements/statement-4e193801261d.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
 
 </details>
 

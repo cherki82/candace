@@ -1,6 +1,6 @@
 ---
 title: "Costa Rica"
-description: "Costa Rica (Places) - 1 mention"
+description: "Costa Rica (Places) - 2 mentions"
 id: "gpe-costa-rica"
 type: "GPE"
 ---
@@ -17,6 +17,14 @@ _Type: Places_
 
 **[00:48:27](/episodes/ep-CMcktj3Egfo.md#ent-gpe-costa-rica-t-00-48-27)**
 > "...nd she says that she lived in Costa Rica and when and for what."
+
+</details>
+
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+
+**[00:25:03](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-costa-rica-t-00-24-32)**
+> "...en in Uganda, in Cambodia, in Costa Rica, in Guatemala."
 
 </details>
 

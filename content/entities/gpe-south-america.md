@@ -1,11 +1,15 @@
 ---
 title: "South America"
-description: "South America (Places) - 2 mentions"
+description: "South America (Places) - 4 mentions"
 id: "gpe-south-america"
 type: "GPE"
+aliases:
+  - "South America"
 ---
 
 _Type: Places_
+
+**Also known as:** South America
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -20,6 +24,17 @@ _Type: Places_
 
 **[00:48:57](/episodes/ep-wcD2khO3rOA.md#ent-gpe-south-america-t-00-48-52)**
 > "...control what was happening in South America."
+
+</details>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (2 mentions)</summary>
+
+**[00:00:53](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-south-america-t-00-05-54)**
+> "trafficking drugs and weapons throughout South America"
+
+**[00:06:04](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-south-america-t-00-05-54)**
+> "... drugs and weapons throughout South America."
 
 </details>
 

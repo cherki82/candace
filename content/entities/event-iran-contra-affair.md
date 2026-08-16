@@ -1,16 +1,18 @@
 ---
 title: "Iran–Contra affair"
-description: "Iran–Contra affair (Events) - 6 mentions"
+description: "Iran–Contra affair (Events) - 10 mentions"
 id: "event-iran-contra-affair"
 type: "EVENT"
 aliases:
-  - "Iran-Contra scandal"
   - "Iran-Contra affair"
+  - "Iran-Contra"
+  - "Iran-Contra scandal"
+  - "Iran-Contra Affair"
 ---
 
 _Type: Events_
 
-**Also known as:** Iran-Contra scandal, Iran-Contra affair
+**Also known as:** Iran-Contra affair, Iran-Contra, Iran-Contra scandal, Iran-Contra Affair
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -37,6 +39,23 @@ _Type: Events_
 
 **[00:52:11](/episodes/ep-wcD2khO3rOA.md#ent-event-iran-contra-affair-t-00-51-36)**
 > "...her, and yes, attached to the Iran-Contra affair and Israel and pumping money into Liberty Univers..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (4 mentions)</summary>
+
+**[00:00:50](/episodes/ep-t4U7NjnUEgc.md#ent-event-iran-contra-affair-t-00-05-14)**
+> "This took place just after the Iran-Contra affair"
+
+**[00:05:50](/episodes/ep-t4U7NjnUEgc.md#ent-event-iran-contra-affair-t-00-05-14)**
+> "...his took place just after the Iran-Contra affair, right?"
+
+**[00:05:54](/episodes/ep-t4U7NjnUEgc.md#ent-event-iran-contra-affair-t-00-05-54)**
+> "The Iran-Contra affair was from, I think, in 1981 to 1986, happened unde..."
+
+**[00:06:15](/episodes/ep-t4U7NjnUEgc.md#ent-event-iran-contra-affair-t-00-05-54)**
+> "...t he was also involved in the Iran-Contra scandal."
 
 </details>
 

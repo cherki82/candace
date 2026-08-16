@@ -1,0 +1,24 @@
+---
+title: "Sigmund Freud member of B'nai B'rith"
+description: "Evidence for the relationship: Sigmund Freud member of B'nai B'rith"
+relationship_id: "rel-1eb4db65d3a9"
+subject: "person-sigmund-freud"
+predicate: "member of"
+object: "org-b-nai-b-rith"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Sigmund Freud](/entities/person-sigmund-freud) member of [B'nai B'rith](/entities/org-b-nai-b-rith)
+
+### Evidence (2 mentions)
+
+**[INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs)**
+
+- [00:01:20](/episodes/ep-t1YtLS1n8Vs#t-00-01-20): _Sigmund Freud was a member of B'nai B'rith_
+- [00:02:10](/episodes/ep-t1YtLS1n8Vs#t-00-02-10): _Sigmund Freud was a member of B'nai B'rith._
+
+### Related
+
+- [Sigmund Freud](/entities/person-sigmund-freud)
+- [B'nai B'rith](/entities/org-b-nai-b-rith)

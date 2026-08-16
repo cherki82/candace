@@ -1,6 +1,6 @@
 ---
 title: "Islam"
-description: "Islam (Concepts) - 27 mentions"
+description: "Islam (Concepts) - 30 mentions"
 id: "concept-islam"
 type: "CONCEPT"
 aliases:
@@ -20,6 +20,20 @@ _Type: Concepts_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (3 mentions)</summary>
+
+**[00:29:31](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-islam-t-00-29-09)**
+> "...ing that same stand to the 28 Muslim countries and 13 Christian countries in this worl..."
+
+**[00:32:07](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-islam-t-00-31-48)**
+> "well, why do Muslims have their own state? Why do Christians have thei..."
+
+**[00:32:11](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-islam-t-00-31-48)**
+> "... You're just saying this is a Muslim majority country and this is a Christian majority..."
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (2 mentions)</summary>
@@ -147,7 +161,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Islam (2)</strong></summary>
+<summary><strong class="section-title">Statements about Islam (3)</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1)</summary>
+
+- [00:29:46](/episodes/ep-hWTdXHGQ8R4.md#t-00-29-46) (Opinion) **Carrie Prejean Boller** (via quoted speech): ["It is important not to make Islamophobic remarks during a religious-li..."](/statements/statement-dfaf37811d2a.md)
+  - Also about: [Presidential Religious Liberty Commission](/entities/org-presidential-religious-liberty-commission.md)
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (2)</summary>

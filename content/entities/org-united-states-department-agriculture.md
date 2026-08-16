@@ -1,6 +1,6 @@
 ---
 title: "United States Department of Agriculture"
-description: "United States Department of Agriculture (Organizations) - 2 mentions"
+description: "United States Department of Agriculture (Organizations) - 3 mentions"
 id: "org-united-states-department-agriculture"
 type: "ORG"
 aliases:
@@ -24,6 +24,14 @@ Source: [About USDA](https://www.usda.gov/about-usda)
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
+
+**[00:25:54](/episodes/ep-hWTdXHGQ8R4.md#ent-org-united-states-department-agriculture-t-00-25-35)**
+> "...op of the food pyramid by the USDA."
+
+</details>
 
 <details>
 <summary>Myron Gaines x Candace Owens (1 mentions)</summary>

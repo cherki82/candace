@@ -1,6 +1,6 @@
 ---
 title: "Switzerland"
-description: "Switzerland (Places) - 5 mentions"
+description: "Switzerland (Places) - 6 mentions"
 id: "gpe-switzerland"
 type: "GPE"
 categories:
@@ -45,6 +45,14 @@ Source: [About Switzerland | Federal Department of Foreign Affairs](https://www.
 
 **[00:35:00](/episodes/ep-BKcOm32ZEGk.md#ent-gpe-switzerland-t-00-34-34)**
 > "...me of the pods the death pods Switzerland"
+
+</details>
+
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+
+**[00:45:19](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-switzerland-t-00-45-19)**
+> "...y knows what she was doing in Switzerland—just loves him for him and was in the right place..."
 
 </details>
 

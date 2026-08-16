@@ -1,6 +1,6 @@
 ---
 title: "Shabbat"
-description: "Shabbat (Concepts) - 3 mentions"
+description: "Shabbat (Concepts) - 4 mentions"
 id: "concept-shabbat"
 type: "CONCEPT"
 aliases:
@@ -25,6 +25,14 @@ Source: [CBS News — Erika Kirk town hall](https://www.cbsnews.com/news/cbs-new
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
+
+**[00:04:14](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-shabbat-t-00-04-14)**
+> "...er 12th. And as a part of her Shabbat Shalom PR blitz, she conducted her very first int..."
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (3 mentions)</summary>

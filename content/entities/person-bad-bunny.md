@@ -1,6 +1,6 @@
 ---
 title: "Bad Bunny"
-description: "Bad Bunny (People) - 10 mentions"
+description: "Bad Bunny (People) - 14 mentions"
 id: "person-bad-bunny"
 type: "PERSON"
 aliases:
@@ -24,6 +24,23 @@ Source: [NFL: Bad Bunny says he will bring his culture to Super Bowl LX halftime
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (4 mentions)</summary>
+
+**[00:39:49](/episodes/ep-hWTdXHGQ8R4.md#ent-person-bad-bunny-t-00-39-28)**
+> "a lot of them actually liked Bad Bunny as a bad buddy."
+
+**[00:39:58](/episodes/ep-hWTdXHGQ8R4.md#ent-person-bad-bunny-t-00-39-58)**
+> "... of a lot of them are fans of Bad Bunny and they were certain it was not going to rival t..."
+
+**[00:41:33](/episodes/ep-hWTdXHGQ8R4.md#ent-person-bad-bunny-t-00-41-22)**
+> "...ng to get more views than the Bad Bunny halftime show"
+
+**[00:41:47](/episodes/ep-hWTdXHGQ8R4.md#ent-person-bad-bunny-t-00-41-22)**
+> "...ump (Donald J. Trump) and the Bad Bunny halftime show is in the background he's at Mar-a-..."
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (10 mentions)</summary>

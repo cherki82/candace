@@ -1,24 +1,37 @@
 ---
 title: "Likud"
-description: "Likud (Organizations) - 2 mentions"
+description: "Likud (Organizations) - 3 mentions"
 id: "org-likud"
 type: "ORG"
 aliases:
   - "Likud party"
 categories:
   - "politics"
+  - "Israeli political party"
 ---
 
 _Type: Organizations_
 
 **Also known as:** Likud party
 
-**Categories:** politics
+**Categories:** politics, Israeli political party
+
+**Entity verification:** verified
+> Official Likud party site confirms the canonical Likud name and identifies it as the National Liberal Movement founded as a party alliance in 1973.
+Source: [The Likud Party](https://www.likud.org.il/en)
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
+
+**[00:32:32](/episodes/ep-hWTdXHGQ8R4.md#ent-org-likud-t-00-32-32)**
+> "it's being run by the Likud party. And effectively what that is, is just a te..."
+
+</details>
 
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (2 mentions)</summary>
@@ -55,7 +68,15 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Likud (1)</strong></summary>
+<summary><strong class="section-title">Statements about Likud (2)</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1)</summary>
+
+- [00:32:20](/episodes/ep-hWTdXHGQ8R4.md#t-00-31-48) (Accusation) **Candace Owens**: ["The Likud party is a team of mass murderers whose members have been ca..."](/statements/statement-36831386be8f.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
+
+</details>
 
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1)</summary>
