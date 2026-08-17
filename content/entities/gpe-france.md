@@ -1,6 +1,6 @@
 ---
 title: "France"
-description: "France (Places) - 217 mentions"
+description: "France (Places) - 242 mentions"
 id: "gpe-france"
 type: "GPE"
 aliases:
@@ -20,10 +20,178 @@ _Type: Places_
 > United Nations member-state list confirms the canonical country name.
 Source: [Member States - United Nations](https://www.un.org/en/about-us/member-states)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-gpe-france-t-00-01-27">2025-10-06 · 00:01:27</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-04-01-26">2026-08-14 · 04:01:41</a></strong></div>
+<div><span>Episodes</span><strong>27</strong></div>
+<div><span>Mentions</span><strong>242</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>21</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-france-t-00-00-57">Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271</a> (72 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-gpe-france-t-00-01-27" style="--pulse-height:10%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 7 mentions" title="2025-10-06 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-france-t-00-56-19" style="--pulse-height:8%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-france-t-00-19-07" style="--pulse-height:8%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-france-t-00-02-10" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-france-t-00-55-02" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 3 mentions" title="2025-11-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-france-t-00-49-18" style="--pulse-height:8%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-france-t-00-12-23" style="--pulse-height:14%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 10 mentions" title="2025-11-19 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-00-01" style="--pulse-height:22%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 16 mentions" title="2025-11-20 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-france-t-00-00-00" style="--pulse-height:10%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 7 mentions" title="2025-11-21 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-france-t-00-00-57" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 72 mentions" title="2025-12-01 · 72 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-france-t-00-00-00" style="--pulse-height:38%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 27 mentions" title="2025-12-02 · 27 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-gpe-france-t-00-16-49" style="--pulse-height:11%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 8 mentions" title="2025-12-03 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-gpe-france-t-00-21-34" style="--pulse-height:8%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 3 mentions" title="2025-12-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-france-t-00-02-11" style="--pulse-height:12%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 9 mentions" title="2025-12-05 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-france-t-00-00-00" style="--pulse-height:28%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 20 mentions" title="2025-12-08 · 20 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-france-t-00-37-32" style="--pulse-height:11%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 8 mentions" title="2025-12-09 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-france-t-00-19-44" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 3 mentions" title="2026-01-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-france-t-00-53-16" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 4 mentions" title="2026-01-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-france-t-00-56-00" style="--pulse-height:8%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-france-t-00-40-14" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-france-t-00-22-34" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-france-t-01-00-11" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-france-t-00-21-55" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-gpe-france-t-00-12-40" style="--pulse-height:10%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 7 mentions" title="2026-02-05 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-france-t-00-14-13" style="--pulse-height:8%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-france-t-00-02-27" style="--pulse-height:8%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 6 mentions" title="2026-02-27 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-02-21-59" style="--pulse-height:24%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 17 mentions" title="2026-08-14 · 17 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-gpe-france-t-00-01-27) | 7 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-france-t-00-56-19) | 2 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-france-t-00-19-07) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-france-t-00-02-10) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-france-t-00-55-02) | 3 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-france-t-00-49-18) | 1 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-france-t-00-12-23) | 10 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-france-t-00-00-01) | 16 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-france-t-00-00-00) | 7 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-france-t-00-00-57) | 72 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-france-t-00-00-00) | 27 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-gpe-france-t-00-16-49) | 8 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-gpe-france-t-00-21-34) | 3 |
+| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-france-t-00-02-11) | 9 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-france-t-00-00-00) | 20 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-france-t-00-37-32) | 8 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-france-t-00-19-44) | 3 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-france-t-00-53-16) | 4 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-france-t-00-56-00) | 1 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-france-t-00-40-14) | 3 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-france-t-00-22-34) | 1 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-france-t-01-00-11) | 2 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-france-t-00-21-55) | 1 |
+| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-france-t-00-12-40) | 7 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-france-t-00-14-13) | 2 |
+| 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-france-t-00-02-27) | 6 |
+| 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-02-21-59) | 17 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (242)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (17 mentions)</summary>
+
+**[02:21:59](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-02-21-59)**
+> "...omebody who is high up in the French government."
+
+**[02:28:08](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-02-27-56)**
+> "Ink, France, and Israel are involved in Charlie Kirk's assass..."
+
+**[02:28:20](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-02-28-20)**
+> "...ll confidence, you think that France"
+
+**[02:28:25](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-02-28-20)**
+> "...ing that I reported said that French foreign legion were on the ground that day."
+
+**[02:29:55](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-02-29-42)**
+> "... if you think that Israel and France were involved in the assassination of Charlie Kir..."
+
+**[02:31:37](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-02-31-37)**
+> "Israel and France were involved in the most traumatic public assass..."
+
+**[02:31:53](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-02-31-48)**
+> "...ce, where's your evidence for France doing this? I just told you someone who was high ..."
+
+**[02:33:00](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-02-33-00)**
+> "...you have full confidence that France and Israel were involved in the assassination of ..."
+
+**[02:33:18](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-02-33-18)**
+> "... was going to kill there that France killed Charlie Kirk or just that you were in dang..."
+
+**[02:33:22](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-02-33-18)**
+> "they said that the French Foreign Legion was involved and on the ground tha..."
+
+**[02:34:09](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-02-33-18)**
+> "that the French foreign legion was on the ground during Charlie's..."
+
+**[02:36:39](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-02-36-39)**
+> "Is that specifically to the French government or Israel's involvement in the killing"
+
+**[02:36:52](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-02-36-52)**
+> "the French foreign that person as a part of it was saying th..."
+
+**[02:37:13](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-02-37-13)**
+> "...fidence I believe that Israel French was involved."
+
+**[03:56:49](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-03-56-36)**
+> "No positive evidence that France is involved in anything."
+
+**[03:58:04](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-03-57-56)**
+> "...ms that Israel's involved and France is involved and all these different players are i..."
+
+**[04:01:41](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-04-01-26)**
+> "...ckly and to speak to me about France and to talk about this penguin receipt and my tim..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (6 mentions)</summary>
+
+**[00:02:39](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-france-t-00-02-27)**
+> "And he even created his own religion around it, religion of Thelema, Black magic. There are so many stories out there regarding Aleister Crowley attempting to summon various demons in France. He tried to summon Pan, I think, in Paris."
+
+**[00:19:24](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-france-t-00-19-24)**
+> "...d but it also happens to be A French family."
+
+**[00:19:52](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-france-t-00-19-24)**
+> "Ah, France. I could never do a series where you're not there..."
+
+**[00:22:54](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-france-t-00-22-41)**
+> "...erful families in America and France."
+
+**[00:33:19](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-france-t-00-32-48)**
+> "...way, he was on the board of a French American school."
+
+**[00:33:25](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-france-t-00-33-25)**
+> "So he also has French connections, but that's just kind of implied now ..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (2 mentions)</summary>
+
+**[00:14:38](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-france-t-00-14-13)**
+> "the president of France,"
+
+**[00:14:48](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-france-t-00-14-13)**
+> "Why is the president of France, who himself is a victim of minor sex abuse,"
+
+</details>
 
 <details>
 <summary>An Open Letter To Erika Kirk | Candace Ep 303 (7 mentions)</summary>
@@ -802,10 +970,38 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Accused By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 02:28:08](/episodes/ep-nPhCKwJ6ye8.md#t-02-27-56): “How, why, Ink, France, and Israel are involved in Charlie Kirk's assassination. ... And I'm going to put that out there with full confidence. Okay. I Yeah. also involve him. I understand.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Birthplace Of (1)</summary>
 
 - **[Pierre Falcone](/entities/person-pierre-falcone.md)**
-  - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:38:52](/episodes/ep-mFuno0TuuQQ.md#t-00-38-20): "He's a Catholic born in France, living in Tampa, Tampa area in Florida."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:38:52](/episodes/ep-mFuno0TuuQQ.md#t-00-38-20): “He's a Catholic born in France, living in Tampa, Tampa area in Florida.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Has President (1)</summary>
+
+- **[Emmanuel Macron](/entities/person-emmanuel-macron.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:14:37](/episodes/ep-ZAsV0fHGBiM.md#t-00-14-13): “Emmanuel Macron ... the president of France ... is suing me for merely mentioning MKUltra on Tim Dillon's show.”
+
+</details>
 
 </details>
 
@@ -813,7 +1009,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <summary>Location Of (1)</summary>
 
 - **[Satis](/entities/org-satis.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#t-00-23-12): ""Satis, which is a French company, injected $1.5 million...""
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#t-00-23-12): “"Satis, which is a French company, injected $1.5 million..."”
+
+</details>
 
 </details>
 
@@ -821,28 +1021,74 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <summary>Member Of (1)</summary>
 
 - **[Safari Club](/entities/org-safari-club.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:13:29](/episodes/ep-tB5SXXmd9vU.md#t-00-13-15): "...members in pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, and France..."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:13:29](/episodes/ep-tB5SXXmd9vU.md#t-00-13-15): “...members in pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, and France...”
+
+</details>
 
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (5)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 02:28:08](/episodes/ep-nPhCKwJ6ye8.md#t-02-27-56): “How, why, Ink, France, and Israel are involved in Charlie Kirk's assassination. ... And I'm going to put that out there with full confidence. Okay. I Yeah. also involve him. I understand.”
+
+</details>
 
 - **[Satis](/entities/org-satis.md)** based in this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#t-00-23-12)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#t-00-23-12): “"Satis, which is a French company, injected $1.5 million..."”
+
+</details>
 
 - **[Pierre Falcone](/entities/person-pierre-falcone.md)** born in this
-  - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:38:52](/episodes/ep-mFuno0TuuQQ.md#t-00-38-20)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:38:52](/episodes/ep-mFuno0TuuQQ.md#t-00-38-20): “He's a Catholic born in France, living in Tampa, Tampa area in Florida.”
+
+</details>
 
 - **[Safari Club](/entities/org-safari-club.md)** has member this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:13:29](/episodes/ep-tB5SXXmd9vU.md#t-00-13-15)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:13:29](/episodes/ep-tB5SXXmd9vU.md#t-00-13-15): “...members in pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, and France...”
+
+</details>
+
+- **[Emmanuel Macron](/entities/person-emmanuel-macron.md)** president of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:14:37](/episodes/ep-ZAsV0fHGBiM.md#t-00-14-13): “Emmanuel Macron ... the president of France ... is suing me for merely mentioning MKUltra on Tim Dillon's show.”
+
+</details>
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about France (19)</strong></summary>
+<summary><strong class="section-title">Statements about France (21)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
+
+- [02:33:22](/episodes/ep-nPhCKwJ6ye8.md#t-02-33-18) (Accusation) **Anonymous Source #1 (Ep nPhCKwJ6ye8)** (via quoted speech): ["French Foreign Legion personnel were on the ground during Charlie Kirk..."](/statements/statement-0ccadf24fcfc.md)
+  - Also about: [French Foreign Legion](/entities/org-french-foreign-legion.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (1)</summary>
+
+- [00:02:39](/episodes/ep-1IY2oD-_xVA.md#t-00-02-27) (Claim) **Candace Owens**: ["Aleister Crowley created the religion of Thelema and attempted to summ..."](/statements/statement-f65b520f6f75.md)
+  - Also about: [Aleister Crowley](/entities/person-aleister-crowley.md), [Thelema](/entities/concept-thelema.md)
+
+</details>
 
 <details>
 <summary>An Open Letter To Erika Kirk | Candace Ep 303 (1)</summary>

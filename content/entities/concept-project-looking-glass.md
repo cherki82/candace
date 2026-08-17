@@ -1,6 +1,6 @@
 ---
 title: "Project Looking Glass"
-description: "Project Looking Glass (Concepts) - 15 mentions"
+description: "Project Looking Glass (Concepts) - 18 mentions"
 id: "concept-project-looking-glass"
 type: "CONCEPT"
 aliases:
@@ -20,10 +20,64 @@ _Type: Concepts_
 > Named concept appears in the source transcript; no new factual claim is encoded by the concept entity.
 Source: [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](https://www.youtube.com/watch?v=ZZGWo6oDscc)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-project-looking-glass-t-00-51-34">2026-01-13 · 00:51:34</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-concept-project-looking-glass-t-00-53-48">2026-02-25 · 00:53:58</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>1</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-project-looking-glass-t-00-06-54">PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290</a> (6 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-project-looking-glass-t-00-51-34" style="--pulse-height:17%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-project-looking-glass-t-00-06-54" style="--pulse-height:100%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 6 mentions" title="2026-01-14 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-concept-project-looking-glass-t-00-51-52" style="--pulse-height:33%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-concept-project-looking-glass-t-00-43-40" style="--pulse-height:33%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-project-looking-glass-t-00-16-33" style="--pulse-height:17%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-concept-project-looking-glass-t-00-25-52" style="--pulse-height:17%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-concept-project-looking-glass-t-00-07-19" style="--pulse-height:33%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-concept-project-looking-glass-t-00-49-39" style="--pulse-height:50%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 3 mentions" title="2026-02-25 · 3 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-project-looking-glass-t-00-51-34) | 1 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-project-looking-glass-t-00-06-54) | 6 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-project-looking-glass-t-00-51-52) | 2 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-concept-project-looking-glass-t-00-43-40) | 2 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-project-looking-glass-t-00-16-33) | 1 |
+| 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-concept-project-looking-glass-t-00-25-52) | 1 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-concept-project-looking-glass-t-00-07-19) | 2 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-project-looking-glass-t-00-49-39) | 3 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (3 mentions)</summary>
+
+**[00:49:53](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-project-looking-glass-t-00-49-39)**
+> "me discussing specifically Project Looking Glass,"
+
+**[00:53:08](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-project-looking-glass-t-00-53-03)**
+> "... out about this it was like a project looking glass they probably thought i had already known that sh..."
+
+**[00:53:58](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-project-looking-glass-t-00-53-48)**
+> "...ing glass she's talking about project looking glass that's crazy meanwhile they're down in arizona li..."
+
+</details>
 
 <details>
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (2 mentions)</summary>
@@ -114,7 +168,11 @@ Source: [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](https:/
 <summary>Affiliated With (1)</summary>
 
 - **[Central Intelligence Agency](/entities/org-central-intelligence-agency.md)**
-  - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:11:33](/episodes/ep-BKcOm32ZEGk.md#t-00-11-02): "This brings us obviously to the CIA, CIA's Project Looking Glass."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:11:33](/episodes/ep-BKcOm32ZEGk.md#t-00-11-02): “This brings us obviously to the CIA, CIA's Project Looking Glass.”
+
+</details>
 
 </details>
 

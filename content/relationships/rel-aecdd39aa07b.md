@@ -15,7 +15,7 @@ object: "person-alex-clark"
 
 **[Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY)**
 
-- [00:51:02](/episodes/ep-1hcjQGgvxUY#t-00-51-02): _because I had gone after her for dressing up in boots and standing over the memorial site of Charlie (Charlie Kirk) to pose for what was it the Washington Post,_
+- [00:50:38](/episodes/ep-1hcjQGgvxUY#t-00-50-38): _apparently Alex Clark demanded, ... because I had gone after her for dressing up in boots and standing over the memorial site of Charlie (Charlie Kirk) to pose for what was it the Washington Post,_
 
 ### Related
 

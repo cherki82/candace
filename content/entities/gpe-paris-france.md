@@ -1,6 +1,6 @@
 ---
 title: "Paris"
-description: "Paris (Places) - 6 mentions"
+description: "Paris (Places) - 7 mentions"
 id: "gpe-paris-france"
 type: "GPE"
 aliases:
@@ -15,14 +15,56 @@ _Type: Places_
 
 **Categories:** French city
 
+> **Possibly overlapping entity records:** [Paris](/entities/gpe-paris). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > Official city site confirms canonical place name.
 Source: [Ville de Paris](https://www.paris.fr/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-paris-france-t-00-36-16">2026-01-16 · 00:36:50</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-paris-france-t-00-02-27">2026-02-27 · 00:02:39</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-paris-france-t-00-07-04">REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302</a> (3 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-paris-france-t-00-36-16" style="--pulse-height:33%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-paris-france-t-01-07-52" style="--pulse-height:67%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-paris-france-t-00-07-04" style="--pulse-height:100%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 3 mentions" title="2026-02-04 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-paris-france-t-00-02-27" style="--pulse-height:33%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-paris-france-t-00-36-16) | 1 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-paris-france-t-01-07-52) | 2 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-paris-france-t-00-07-04) | 3 |
+| 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-paris-france-t-00-02-27) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (1 mentions)</summary>
+
+**[00:02:39](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-paris-france-t-00-02-27)**
+> "And he even created his own religion around it, religion of Thelema, Black magic. There are so many stories out there regarding Aleister Crowley attempting to summon various demons in France. He tried to summon Pan, I think, in Paris."
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (3 mentions)</summary>

@@ -20,10 +20,66 @@ _Type: People_
 > Official biography confirms the canonical name and media role.
 Source: [About Ian Carroll](https://iancarroll.org/about/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-ian-carroll-t-00-40-46">2025-09-29 · 00:40:49</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-ian-carroll-t-00-28-12">2026-08-14 · 00:28:29</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>28</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-c5BcKF91iec.md#ent-person-ian-carroll-t-00-07-38">Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252</a> (7 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-ian-carroll-t-00-40-46" style="--pulse-height:43%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 3 mentions" title="2025-09-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-ian-carroll-t-00-33-36" style="--pulse-height:14%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-ian-carroll-t-00-22-45" style="--pulse-height:14%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-person-ian-carroll-t-00-07-38" style="--pulse-height:100%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 7 mentions" title="2025-10-27 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-ian-carroll-t-00-40-02" style="--pulse-height:43%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 3 mentions" title="2025-10-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-ian-carroll-t-01-04-11" style="--pulse-height:29%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-person-ian-carroll-t-00-45-44" style="--pulse-height:29%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 2 mentions" title="2025-11-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-ian-carroll-t-00-31-18" style="--pulse-height:29%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 2 mentions" title="2025-12-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-ian-carroll-t-00-42-22" style="--pulse-height:43%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 3 mentions" title="2026-01-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-ian-carroll-t-00-41-07" style="--pulse-height:14%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-ian-carroll-t-00-54-45" style="--pulse-height:29%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-ian-carroll-t-00-28-12" style="--pulse-height:14%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-ian-carroll-t-00-40-46) | 3 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-ian-carroll-t-00-33-36) | 1 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-ian-carroll-t-00-22-45) | 1 |
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-person-ian-carroll-t-00-07-38) | 7 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-ian-carroll-t-00-40-02) | 3 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-ian-carroll-t-01-04-11) | 2 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-ian-carroll-t-00-45-44) | 2 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-person-ian-carroll-t-00-31-18) | 2 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-ian-carroll-t-00-42-22) | 3 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-ian-carroll-t-00-41-07) | 1 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-ian-carroll-t-00-54-45) | 2 |
+| 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-ian-carroll-t-00-28-12) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
+
+**[00:28:29](/episodes/ep-nPhCKwJ6ye8.md#ent-person-ian-carroll-t-00-28-12)**
+> "Day or two of Kirk's death, Ian Carroll claimed that Israel killed Charlie Kirk."
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>
@@ -81,10 +137,7 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 </details>
 
 <details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (3 mentions)</summary>
-
-**[01:04:11](/episodes/ep-vwG1juDCQZQ.md#ent-person-ian-carroll-t-01-04-11)**
-> "you should team up with Dave Smith, Ian Carroll, and Jimmy Dore"
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (2 mentions)</summary>
 
 **[01:04:11](/episodes/ep-vwG1juDCQZQ.md#ent-person-ian-carroll-t-01-04-11)**
 > "...t be lied to by are lying to us. Juan Antonio writes: "Candace, you should team up with Dave Smith, Ian Carroll, and Jimmy Dore. Form a coalition: share editors, push promotion, and spark Occupy Wall Street 2.0 ..."
@@ -170,18 +223,45 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Interviewed By (1)</summary>
+<summary>Accused (1)</summary>
 
-- **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:13:50](/episodes/ep-c5BcKF91iec.md#t-00-13-24): "And as Ian Carroll said when I had him on my show, the truth doesn't need to be repeated over and over again."
+- **[Israel](/entities/gpe-israel.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 00:28:29](/episodes/ep-nPhCKwJ6ye8.md#t-00-28-12): “Within a day or two of Kirk's death, Day or two of Kirk's death, Ian Carroll claimed that Israel killed Charlie Kirk.”
+
+</details>
 
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Interviewed By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:13:50](/episodes/ep-c5BcKF91iec.md#t-00-13-24): “And as Ian Carroll said when I had him on my show, the truth doesn't need to be repeated over and over again.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
+
+- **[Israel](/entities/gpe-israel.md)** accused by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 00:28:29](/episodes/ep-nPhCKwJ6ye8.md#t-00-28-12): “Within a day or two of Kirk's death, Day or two of Kirk's death, Ian Carroll claimed that Israel killed Charlie Kirk.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed this
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:13:50](/episodes/ep-c5BcKF91iec.md#t-00-13-24)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:13:50](/episodes/ep-c5BcKF91iec.md#t-00-13-24): “And as Ian Carroll said when I had him on my show, the truth doesn't need to be repeated over and over again.”
+
+</details>
 
 </details>
 

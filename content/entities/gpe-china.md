@@ -1,6 +1,6 @@
 ---
 title: "China"
-description: "China (Places) - 27 mentions"
+description: "China (Places) - 30 mentions"
 id: "gpe-china"
 type: "GPE"
 categories:
@@ -16,10 +16,69 @@ _Type: Places_
 > Official Chinese government country overview confirms China as a country in East Asia and the canonical country reference.
 Source: [Foreign Investment Guide of the People’s Republic of China: Country Overview](https://fdi.mofcom.gov.cn/EN/come-newzonghe.html?comeID=1&parentId=104)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-china-t-00-30-42">2025-10-01 · 00:30:58</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-china-t-00-21-13">2026-03-03 · 00:21:13</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>30</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-30-28">A Legal Turning Point? | Candace Ep 292</a> (11 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-china-t-00-30-42" style="--pulse-height:18%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 2 mentions" title="2025-10-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-china-t-00-48-27" style="--pulse-height:9%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-china-t-00-16-17" style="--pulse-height:55%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 6 mentions" title="2026-01-16 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-30-28" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 11 mentions" title="2026-01-19 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-china-t-00-48-34" style="--pulse-height:18%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 2 mentions" title="2026-01-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-china-t-00-55-12" style="--pulse-height:18%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-gpe-china-t-00-36-05" style="--pulse-height:9%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-china-t-00-05-08" style="--pulse-height:9%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-china-t-00-19-34" style="--pulse-height:36%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 4 mentions" title="2026-03-03 · 4 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-gpe-china-t-00-30-42) | 2 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-china-t-00-48-27) | 1 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-china-t-00-16-17) | 6 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-30-28) | 11 |
+| 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-gpe-china-t-00-48-34) | 2 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-china-t-00-55-12) | 2 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-gpe-china-t-00-36-05) | 1 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-china-t-00-05-08) | 1 |
+| 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-gpe-china-t-00-19-34) | 4 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (4 mentions)</summary>
+
+**[00:19:34](/episodes/ep-2tFYJf1klgY.md#ent-gpe-china-t-00-19-34)**
+> "...ike You, she's going to go to China to help women who were sex trafficked. So to be c..."
+
+**[00:20:00](/episodes/ep-2tFYJf1klgY.md#ent-gpe-china-t-00-19-34)**
+> "... did Erica (Erika Kirk) go to China? When did Erica (Erika Kirk) go to China in 2009?..."
+
+**[00:20:44](/episodes/ep-2tFYJf1klgY.md#ent-gpe-china-t-00-20-44)**
+> "... more global. I was living in China and doing a lot of work with the victims from sex..."
+
+**[00:21:13](/episodes/ep-2tFYJf1klgY.md#ent-gpe-china-t-00-21-13)**
+> "...th sex trafficking victims in China."
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
@@ -129,13 +188,10 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 </details>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (3 mentions)</summary>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
 
 **[00:30:58](/episodes/ep-adJ4LNGp84I.md#ent-gpe-china-t-00-30-42)**
 > "We don't want China to own TikTok."
-
-**[00:30:58](/episodes/ep-adJ4LNGp84I.md#ent-gpe-china-t-00-30-42)**
-> "We don't want China."
 
 **[00:31:00](/episodes/ep-adJ4LNGp84I.md#ent-gpe-china-t-00-30-42)**
 > "We don't want China to own TikTok."
@@ -147,12 +203,42 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Former Residence Of (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:20:44](/episodes/ep-2tFYJf1klgY.md#t-00-20-44): “I was living in China and doing a lot of work with the victims from sex trafficking”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** formerly lived in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:20:44](/episodes/ep-2tFYJf1klgY.md#t-00-20-44): “I was living in China and doing a lot of work with the victims from sex trafficking”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about China (7)</strong></summary>
+<summary><strong class="section-title">Statements about China (8)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (1)</summary>
+
+- [00:20:44](/episodes/ep-2tFYJf1klgY.md#t-00-20-44) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk said she lived in China and worked with sex-trafficking vic..."](/statements/statement-7983b1c952fc.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md), [United States Army](/entities/org-united-states-army.md)
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1)</summary>

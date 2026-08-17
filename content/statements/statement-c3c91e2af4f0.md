@@ -32,7 +32,7 @@ veracity: "mixed"
 **Timestamp:** [00:05:38](/episodes/ep-4YgrOhhy708.md#t-00-05-31) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(338);return false;">Play</a>
 
-> This means that the, I would say, unnecessary Super Bowl political lines that were drawn by Turner. ... by Turning Point USA was not successful in terms of drawing people away from the NFL's viewership. Now, in case you missed it, when Bad Bunny was announced,
+> This means that the, I would say, unnecessary Super Bowl political lines that were drawn ... by Turning Point USA was not successful in terms of drawing people away from the NFL's viewership. Now, in case you missed it, when Bad Bunny was announced,
 
 ## Verification
 

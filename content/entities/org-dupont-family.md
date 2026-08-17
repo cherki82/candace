@@ -1,6 +1,6 @@
 ---
 title: "DuPont family"
-description: "DuPont family (Organizations) - 34 mentions"
+description: "DuPont family (Organizations) - 38 mentions"
 id: "org-dupont-family"
 type: "ORG"
 aliases:
@@ -12,10 +12,61 @@ _Type: Organizations_
 
 **Also known as:** DuPont, du Pont
 
+> **Possibly overlapping entity records:** [DuPont](/entities/org-dupont). These records share a name or alias; compare their histories before treating either count as complete.
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-dupont-family-t-00-29-47">2025-12-01 · 00:29:28</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-dupont-family-t-00-31-31">2026-02-27 · 00:31:47</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>38</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-04-57">Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272</a> (26 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-dupont-family-t-00-29-47" style="--pulse-height:27%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 7 mentions" title="2025-12-01 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-04-57" style="--pulse-height:100%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 26 mentions" title="2025-12-02 · 26 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#t-00-49-40" style="--pulse-height:8%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-dupont-family-t-00-19-59" style="--pulse-height:15%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 4 mentions" title="2026-02-27 · 4 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-dupont-family-t-00-29-47) | 7 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-04-57) | 26 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#t-00-49-40) | 1 |
+| 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-dupont-family-t-00-19-59) | 4 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (4 mentions)</summary>
+
+**[00:19:59](/episodes/ep-1IY2oD-_xVA.md#ent-org-dupont-family-t-00-19-59)**
+> "I kid you not. She starts working for the DuPont family, becoming the director of employee relations for DuPont because she's so good at psychology."
+
+**[00:20:39](/episodes/ep-1IY2oD-_xVA.md#ent-org-dupont-family-t-00-20-39)**
+> "In 1983, DuPont completes the largest merger in corporate history..."
+
+**[00:20:57](/episodes/ep-1IY2oD-_xVA.md#ent-org-dupont-family-t-00-20-39)**
+> "...ware? And I instantly hit the DuPont family."
+
+**[00:31:47](/episodes/ep-1IY2oD-_xVA.md#ent-org-dupont-family-t-00-31-31)**
+> "...Jerri (Jerri Frantzve)'s with DuPont. That's a natural alliance poisoning the populati..."
+
+</details>
 
 <details>
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
@@ -140,11 +191,27 @@ _Type: Organizations_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Formerly Employed (1)</summary>
+
+- **[Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:19:59](/episodes/ep-1IY2oD-_xVA.md#t-00-19-59): “I kid you not. She starts working for the DuPont family, becoming the director of employee relations for DuPont because she's so good at psychology.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Founded By (1)</summary>
 
 - **[Pierre Samuel du Pont de Nemours](/entities/person-pierre-samuel-du-pont-de-nemours.md)**
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:30:49](/episodes/ep-a-e7HC6SeK8.md#t-00-30-38): "...at I presented to you all of this stuff about the DuPont family that it clicked. And these ladies messaged me and said, oh, you figured it out. It's Pierre du Pont..."
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:29:47](/episodes/ep-tB5SXXmd9vU.md#t-00-29-13): "...American family du Pont, which was descended from Pierre Samuel du Pont de Nemours—excuse my terrible French—a French aristocrat. DuPont also has extreme ties to both the American an..."
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:30:49](/episodes/ep-a-e7HC6SeK8.md#t-00-30-38): “...at I presented to you all of this stuff about the DuPont family that it clicked. And these ladies messaged me and said, oh, you figured it out. It's Pierre du Pont...”
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:29:47](/episodes/ep-tB5SXXmd9vU.md#t-00-29-13): “...American family du Pont, which was descended from Pierre Samuel du Pont de Nemours—excuse my terrible French—a French aristocrat. DuPont also has extreme ties to both the American an...”
+
+</details>
 
 </details>
 
@@ -152,7 +219,11 @@ _Type: Organizations_
 <summary>Has Member (1)</summary>
 
 - **[Lisa Dean](/entities/person-lisa-dean.md)**
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:39](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27): "...It appeared that Lisa Dean, who is a DuPont, didn't approve..."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:39](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27): “...It appeared that Lisa Dean, who is a DuPont, didn't approve...”
+
+</details>
 
 </details>
 
@@ -160,22 +231,61 @@ _Type: Organizations_
 <summary>Headquartered In (1)</summary>
 
 - **[1100 North Market Street](/entities/gpe-1100-north-market-street.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:34:39](/episodes/ep-tB5SXXmd9vU.md#t-00-34-38): ""DuPont, which is connected to 1100 North Market Street.""
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:34:39](/episodes/ep-tB5SXXmd9vU.md#t-00-34-38): “"DuPont, which is connected to 1100 North Market Street."”
+
+</details>
 
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
+
+- **[Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:19:59](/episodes/ep-1IY2oD-_xVA.md#t-00-19-59): “I kid you not. She starts working for the DuPont family, becoming the director of employee relations for DuPont because she's so good at psychology.”
+
+</details>
 
 - **[Pierre Samuel du Pont de Nemours](/entities/person-pierre-samuel-du-pont-de-nemours.md)** founded this
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:30:49](/episodes/ep-a-e7HC6SeK8.md#t-00-30-38)
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:29:47](/episodes/ep-tB5SXXmd9vU.md#t-00-29-13)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:30:49](/episodes/ep-a-e7HC6SeK8.md#t-00-30-38): “...at I presented to you all of this stuff about the DuPont family that it clicked. And these ladies messaged me and said, oh, you figured it out. It's Pierre du Pont...”
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:29:47](/episodes/ep-tB5SXXmd9vU.md#t-00-29-13): “...American family du Pont, which was descended from Pierre Samuel du Pont de Nemours—excuse my terrible French—a French aristocrat. DuPont also has extreme ties to both the American an...”
+
+</details>
 
 - **[1100 North Market Street](/entities/gpe-1100-north-market-street.md)** headquarters of this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:34:39](/episodes/ep-tB5SXXmd9vU.md#t-00-34-38)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:34:39](/episodes/ep-tB5SXXmd9vU.md#t-00-34-38): “"DuPont, which is connected to 1100 North Market Street."”
+
+</details>
 
 - **[Lisa Dean](/entities/person-lisa-dean.md)** member of this
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:39](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:39](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27): “...It appeared that Lisa Dean, who is a DuPont, didn't approve...”
+
+</details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about DuPont family (2)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (2)</summary>
+
+- [00:19:59](/episodes/ep-1IY2oD-_xVA.md#t-00-19-59) (Claim) **Candace Owens**: ["Jerri Frantzve worked for the DuPont family as director of employee re..."](/statements/statement-6245f8bf2eb8.md)
+  - Also about: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md)
+
+- [00:20:39](/episodes/ep-1IY2oD-_xVA.md#t-00-20-39) (Claim) **Candace Owens**: ["DuPont completed what was then the largest corporate merger in history..."](/statements/statement-1288bf793920.md)
+  - Also about: [Conoco Inc.](/entities/org-conoco-inc.md)
 
 </details>
 

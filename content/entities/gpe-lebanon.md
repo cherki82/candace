@@ -1,6 +1,6 @@
 ---
 title: "Lebanon"
-description: "Lebanon (Places) - 7 mentions"
+description: "Lebanon (Places) - 8 mentions"
 id: "gpe-lebanon"
 type: "GPE"
 aliases:
@@ -20,10 +20,44 @@ _Type: Places_
 > Official presidency site confirms the canonical country name Lebanon.
 Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-lebanon-t-00-20-27">2026-01-20 · 00:20:29</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-lebanon-t-00-05-43">2026-02-04 · 00:05:58</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-lebanon-t-01-27-19">Candace x Bassem Youssef | Candace Ep 298</a> (2 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-lebanon-t-00-20-27" style="--pulse-height:50%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-lebanon-t-01-27-19" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-lebanon-t-00-35-55" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-lebanon-t-00-05-17" style="--pulse-height:50%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-lebanon-t-00-05-43" style="--pulse-height:50%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-lebanon-t-00-20-27) | 1 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-lebanon-t-01-27-19) | 2 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-lebanon-t-00-35-55) | 2 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-lebanon-t-00-05-17) | 1 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-lebanon-t-00-05-43) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1 mentions)</summary>
@@ -80,7 +114,11 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 <summary>Has President (1)</summary>
 
 - **[Amine Gemayel](/entities/person-amine-gemayel.md)**
-  - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:20:29](/episodes/ep-9naMwS0kMBE.md#t-00-20-27): "President Gemayel of Beirut, Lebanon at the time of the bombing of the Marine barracks in Lebanon"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:20:29](/episodes/ep-9naMwS0kMBE.md#t-00-20-27): “President Gemayel of Beirut, Lebanon at the time of the bombing of the Marine barracks in Lebanon”
+
+</details>
 
 </details>
 
@@ -88,14 +126,26 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 <summary>Referenced By (1)</summary>
 
 - **[Amine Gemayel](/entities/person-amine-gemayel.md)** president of this
-  - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:20:29](/episodes/ep-9naMwS0kMBE.md#t-00-20-27)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:20:29](/episodes/ep-9naMwS0kMBE.md#t-00-20-27): “President Gemayel of Beirut, Lebanon at the time of the bombing of the Marine barracks in Lebanon”
+
+</details>
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lebanon (2)</strong></summary>
+<summary><strong class="section-title">Statements about Lebanon (3)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1)</summary>
+
+- [00:35:41](/episodes/ep-ZAsV0fHGBiM.md#t-00-35-09) (Claim) **Candace Owens**: ["Erika Kirk is Syrian-Lebanese on her mother's side and Swedish on her ..."](/statements/statement-a9496dfeca5a.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Syria](/entities/gpe-syria.md), [Sweden](/entities/gpe-sweden.md)
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1)</summary>

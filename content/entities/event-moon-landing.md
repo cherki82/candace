@@ -7,10 +7,42 @@ type: "EVENT"
 
 _Type: Events_
 
+> **Possibly overlapping entity records:** [Moon landing](/entities/concept-moon-landing). These records share a name or alias; compare their histories before treating either count as complete.
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#t-00-46-02">2025-11-04 · 00:46:02</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-event-moon-landing-t-00-37-15">2025-12-01 · 00:37:15</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-Qfwr08Ebczo.md#t-00-46-02">EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258</a> (1 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-Qfwr08Ebczo.md#t-00-46-02" style="--pulse-height:100%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-event-moon-landing-t-00-17-28" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-event-moon-landing-t-00-37-15" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#t-00-46-02) | 1 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-event-moon-landing-t-00-17-28) | 1 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-event-moon-landing-t-00-37-15) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
 
 <details>
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>

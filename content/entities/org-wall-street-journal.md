@@ -21,10 +21,44 @@ _Type: Organizations_
 > Vanity Fair's report names The Wall Street Journal as the publication that carried Ye's apology advertisement, confirming the transcript reference and canonical title.
 Source: [Exclusive: Ye, Formerly Kanye West, Tells VF About His WSJ Apology Advertisement | Vanity Fair](https://www.vanityfair.com/hollywood/story/kanye-west-exclusive-apology-antisemitism-brain-injury)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-org-wall-street-journal-t-00-36-00">2025-10-06 · 00:36:00</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-wall-street-journal-t-00-41-41">2026-02-13 · 00:42:22</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-wall-street-journal-t-00-23-38">#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260</a> (3 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-org-wall-street-journal-t-00-36-00" style="--pulse-height:67%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 2 mentions" title="2025-10-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-wall-street-journal-t-00-23-38" style="--pulse-height:100%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 3 mentions" title="2025-11-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-wall-street-journal-t-00-56-36" style="--pulse-height:33%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-org-wall-street-journal-t-00-43-34" style="--pulse-height:33%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-wall-street-journal-t-00-41-41" style="--pulse-height:33%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-org-wall-street-journal-t-00-36-00) | 2 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-org-wall-street-journal-t-00-23-38) | 3 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-wall-street-journal-t-00-56-36) | 1 |
+| 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-org-wall-street-journal-t-00-43-34) | 1 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-wall-street-journal-t-00-41-41) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>

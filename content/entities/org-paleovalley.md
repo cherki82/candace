@@ -1,6 +1,6 @@
 ---
 title: "Paleovalley"
-description: "Paleovalley (Organizations) - 15 mentions"
+description: "Paleovalley (Organizations) - 19 mentions"
 id: "org-paleovalley"
 type: "ORG"
 aliases:
@@ -16,14 +16,44 @@ _Type: Organizations_
 
 **Categories:** nutrition brand, advertiser
 
+> **Possibly overlapping entity records:** [Paleo Valley](/entities/org-paleo-valley). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > The company's official site confirms the one-word canonical brand styling.
 Source: [Paleovalley](https://paleovalley.com/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Wjul6YV6izo.md#ent-org-paleovalley-t-00-49-03">2026-01-30 · 00:49:12</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-paleovalley-t-00-52-52">2026-02-13 · 00:53:31</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-paleovalley-t-00-50-14">Okay…These Text Messages Are Crazy! | Candace Ep 307</a> (9 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-org-paleovalley-t-00-49-03" style="--pulse-height:67%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 6 mentions" title="2026-01-30 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-paleovalley-t-00-50-14" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 9 mentions" title="2026-02-13 · 9 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-paleovalley-t-00-49-03) | 6 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-paleovalley-t-00-50-14) | 9 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (9 mentions)</summary>
@@ -77,6 +107,23 @@ Source: [Paleovalley](https://paleovalley.com/)
 
 **[00:50:05](/episodes/ep-Wjul6YV6izo.md#ent-org-paleovalley-t-00-49-47)**
 > "that's paleovalley.com with promo code Candace at checkout."
+
+</details>
+
+<details>
+<summary>ep-y8lak3CRwDw (4 mentions)</summary>
+
+**[00:47:05](/episodes/ep-y8lak3CRwDw.md#t-00-47-05)**
+> "That's why I have been loving Paleo Valley. Recently, my manager has been nonstop talking ab..."
+
+**[00:47:30](/episodes/ep-y8lak3CRwDw.md#t-00-47-30)**
+> "... it's packed with good stuff. Paleo Valley offers their bone broth protein in a variety of f..."
+
+**[00:47:39](/episodes/ep-y8lak3CRwDw.md#t-00-47-39)**
+> "...t 20% off your first order at paleovalley.com."
+
+**[00:47:55](/episodes/ep-y8lak3CRwDw.md#t-00-47-55)**
+> "...e Candace at checkout. That's paleovalley.com with promo code Candace at checkout."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Tracy Martin"
-description: "Tracy Martin (People) - 32 mentions"
+description: "Tracy Martin (People) - 36 mentions"
 id: "person-tracy-martin"
 type: "PERSON"
 aliases:
@@ -20,10 +20,42 @@ _Type: People_
 > The episode contains Martin's first-person clip identifying her long friendship and jewelry work; later interview coverage independently confirms the canonical name Tracy Martin in the same context.
 Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://www.inkl.com/news/trying-to-lie-graham-allen-dares-candace-owens-to-respond-after-tracy-martin-disputes-erika-kirk-allegations)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-tracy-martin-t-00-26-52">2026-02-04 · 00:27:08</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-tracy-martin-t-00-18-57">2026-02-13 · 00:19:03</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>36</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>5</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-ti5Fxrvegno.md#ent-person-tracy-martin-t-00-02-15">Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305</a> (11 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-tracy-martin-t-00-26-52" style="--pulse-height:91%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 10 mentions" title="2026-02-04 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-person-tracy-martin-t-00-19-19" style="--pulse-height:91%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 10 mentions" title="2026-02-09 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-tracy-martin-t-00-02-15" style="--pulse-height:100%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 11 mentions" title="2026-02-10 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-tracy-martin-t-00-18-57" style="--pulse-height:9%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-tracy-martin-t-00-26-52) | 10 |
+| 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-tracy-martin-t-00-19-19) | 10 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-tracy-martin-t-00-02-15) | 11 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-tracy-martin-t-00-18-57) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (36)</strong></summary>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
@@ -141,6 +173,23 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 
 </details>
 
+<details>
+<summary>ep-y8lak3CRwDw (4 mentions)</summary>
+
+**[00:28:01](/episodes/ep-y8lak3CRwDw.md#t-00-28-01)**
+> "...is going to team up with that Tracy Martin. Tracy says they met backstage and they just deci..."
+
+**[00:28:13](/episodes/ep-y8lak3CRwDw.md#t-00-28-13)**
+> "Tracy's making handbags. She's what we refer to as a seri..."
+
+**[00:52:54](/episodes/ep-y8lak3CRwDw.md#t-00-52-54)**
+> "... you go hmm well she did have tracy barton say that she's been friends with her um yo..."
+
+**[00:53:19](/episodes/ep-y8lak3CRwDw.md#t-00-53-19)**
+> "And I mean, I asked Tracy Martin when I spoke to her on the phone, I'm like, are y..."
+
+</details>
+
 </details>
 
 <details open>
@@ -150,7 +199,11 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 <summary>Close Associate Of (1)</summary>
 
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)**
-  - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:20:01](/episodes/ep-4YgrOhhy708.md#t-00-19-19): "Tracy Martin is Erika (Erika Kirk)'s best friend for over 15 years. How close are Erika (Erika Kirk) and Tracy (Tracy Martin)? They've done everything together, Tracy (Tracy Martin) says, Romanian angels. Erika (Erika Kirk) modeled for her clothing brands, all of it. These two and their families are close. She's also close to Lori (Lori Frantzve) and she's close to Erika (Erika Kirk)'s stepfather's family."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:20:01](/episodes/ep-4YgrOhhy708.md#t-00-19-19): “Tracy Martin is Erika (Erika Kirk)'s best friend for over 15 years. How close are Erika (Erika Kirk) and Tracy (Tracy Martin)? They've done everything together, Tracy (Tracy Martin) says, Romanian angels. Erika (Erika Kirk) modeled for her clothing brands, all of it. These two and their families are close. She's also close to Lori (Lori Frantzve) and she's close to Erika (Erika Kirk)'s stepfather's family.”
+
+</details>
 
 </details>
 
@@ -158,9 +211,14 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 <summary>Friend Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-  - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:28:25](/episodes/ep-DYD_QHMPwqM.md#t-00-28-25): "Erika Kirk has been a dear friend of mine for almost 15 years."
-  - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:20:01](/episodes/ep-4YgrOhhy708.md#t-00-19-19): "Tracy Martin is Erika (Erika Kirk)'s best friend for over 15 years."
-  - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:05:01](/episodes/ep-ti5Fxrvegno.md#t-00-04-56): "Tracy (Tracy Martin), Erika (Erika Kirk)'s best friend, told people in their orbit."
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+
+- [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:28:25](/episodes/ep-DYD_QHMPwqM.md#t-00-28-25): “Erika Kirk has been a dear friend of mine for almost 15 years.”
+- [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:20:01](/episodes/ep-4YgrOhhy708.md#t-00-19-19): “Tracy Martin is Erika (Erika Kirk)'s best friend for over 15 years.”
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:05:01](/episodes/ep-ti5Fxrvegno.md#t-00-04-56): “Tracy (Tracy Martin), Erika (Erika Kirk)'s best friend, told people in their orbit.”
+- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:19:03](/episodes/ep-1hcjQGgvxUY.md#t-00-18-57): “Tracy Martin, Erica (Erika Kirk)'s best friend”
+
+</details>
 
 </details>
 
@@ -168,14 +226,28 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 <summary>Referenced By (3)</summary>
 
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)** close associate of this
-  - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:20:01](/episodes/ep-4YgrOhhy708.md#t-00-19-19)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:20:01](/episodes/ep-4YgrOhhy708.md#t-00-19-19): “Tracy Martin is Erika (Erika Kirk)'s best friend for over 15 years. How close are Erika (Erika Kirk) and Tracy (Tracy Martin)? They've done everything together, Tracy (Tracy Martin) says, Romanian angels. Erika (Erika Kirk) modeled for her clothing brands, all of it. These two and their families are close. She's also close to Lori (Lori Frantzve) and she's close to Erika (Erika Kirk)'s stepfather's family.”
+
+</details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** friend of this
-  - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:28:25](/episodes/ep-DYD_QHMPwqM.md#t-00-28-25)
-  - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:20:01](/episodes/ep-4YgrOhhy708.md#t-00-19-19)
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+
+- [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:28:25](/episodes/ep-DYD_QHMPwqM.md#t-00-28-25): “Erika Kirk has been a dear friend of mine for almost 15 years.”
+- [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:20:01](/episodes/ep-4YgrOhhy708.md#t-00-19-19): “Tracy Martin is Erika (Erika Kirk)'s best friend for over 15 years.”
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:05:01](/episodes/ep-ti5Fxrvegno.md#t-00-04-56): “Tracy (Tracy Martin), Erika (Erika Kirk)'s best friend, told people in their orbit.”
+- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:19:03](/episodes/ep-1hcjQGgvxUY.md#t-00-18-57): “Tracy Martin, Erica (Erika Kirk)'s best friend”
+
+</details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** worked with this
-  - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:28:25](/episodes/ep-DYD_QHMPwqM.md#t-00-28-25)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:28:25](/episodes/ep-DYD_QHMPwqM.md#t-00-28-25): “Erika Kirk has been a dear friend of mine for almost 15 years. We have done multiple projects together.”
+
+</details>
 
 </details>
 

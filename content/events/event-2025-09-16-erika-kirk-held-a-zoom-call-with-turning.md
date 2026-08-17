@@ -11,7 +11,7 @@ date: "2025-09-16"
 
 > Erika Kirk held a Zoom call with Turning Point USA employees five days after Charlie Kirk's assassination.
 
-## Mentioned In (4 times)
+## Mentioned In (5 times)
 
 ### 1. Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Cand...
 
@@ -44,3 +44,11 @@ date: "2025-09-16"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1441);return false;">▶️ Play</a>
 
 > September 16th is actually when she hosted her first Zoom call
+
+### 5. Bride Of Charlie: A Wrinkle In Time | Episode 1
+
+**Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
+**Timestamp:** [00:10:54](/episodes/ep-ZAsV0fHGBiM.md#event-event-2025-09-16-erika-kirk-held-a-zoom-call-with-turning-t-00-10-44) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(654);return false;">▶️ Play</a>
+
+> after her husband's death, she was already laying out ambitious plans for the company over Zoom.

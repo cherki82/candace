@@ -1,6 +1,6 @@
 ---
 title: "Fort Huachuca"
-description: "Fort Huachuca (Places) - 119 mentions"
+description: "Fort Huachuca (Places) - 125 mentions"
 id: "gpe-fort-huachuca"
 type: "GPE"
 aliases:
@@ -21,10 +21,109 @@ _Type: Places_
 > The official U.S. Army installation site confirms the canonical spelling Fort Huachuca; Wachuka is an ASR spelling.
 Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.php)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-fort-huachuca-t-00-12-36">2025-12-09 · 00:01:50</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-fort-huachuca-t-00-25-27">2026-03-03 · 00:25:27</a></strong></div>
+<div><span>Episodes</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>125</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>69</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-fort-huachuca-t-00-00-00">OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291</a> (21 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-fort-huachuca-t-00-12-36" style="--pulse-height:14%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 3 mentions" title="2025-12-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-44-27" style="--pulse-height:29%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 6 mentions" title="2025-12-10 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-fort-huachuca-t-00-33-09" style="--pulse-height:19%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 4 mentions" title="2025-12-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-11-03" style="--pulse-height:86%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 18 mentions" title="2025-12-18 · 18 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-fort-huachuca-t-00-31-41" style="--pulse-height:43%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 9 mentions" title="2025-12-20 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-30-26" style="--pulse-height:71%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 15 mentions" title="2026-01-05 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-fort-huachuca-t-00-15-58" style="--pulse-height:43%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 9 mentions" title="2026-01-06 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-fort-huachuca-t-00-14-55" style="--pulse-height:14%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-fort-huachuca-t-00-01-27" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-fort-huachuca-t-00-28-05" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 7 mentions" title="2026-01-13 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-fort-huachuca-t-00-00-00" style="--pulse-height:100%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 21 mentions" title="2026-01-16 · 21 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-fort-huachuca-t-00-05-42" style="--pulse-height:10%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-fort-huachuca-t-00-04-42" style="--pulse-height:24%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 5 mentions" title="2026-01-20 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-gpe-fort-huachuca-t-00-13-34" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-fort-huachuca-t-00-05-15" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-fort-huachuca-t-01-40-02" style="--pulse-height:8%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-fort-huachuca-t-00-28-00" style="--pulse-height:19%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 4 mentions" title="2026-02-02 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-fort-huachuca-t-00-30-39" style="--pulse-height:14%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 3 mentions" title="2026-02-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-gpe-fort-huachuca-t-00-17-54" style="--pulse-height:10%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-fort-huachuca-t-00-02-51" style="--pulse-height:8%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-fort-huachuca-t-00-20-53" style="--pulse-height:10%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-fort-huachuca-t-00-41-29" style="--pulse-height:8%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-fort-huachuca-t-00-51-36" style="--pulse-height:10%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-fort-huachuca-t-00-25-27" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-fort-huachuca-t-00-12-36) | 3 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-44-27) | 6 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-gpe-fort-huachuca-t-00-33-09) | 4 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-11-03) | 18 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-fort-huachuca-t-00-31-41) | 9 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-30-26) | 15 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-fort-huachuca-t-00-15-58) | 9 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-fort-huachuca-t-00-14-55) | 3 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-fort-huachuca-t-00-01-27) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-fort-huachuca-t-00-28-05) | 7 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-fort-huachuca-t-00-00-00) | 21 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-fort-huachuca-t-00-05-42) | 2 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-fort-huachuca-t-00-04-42) | 5 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-gpe-fort-huachuca-t-00-13-34) | 1 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-fort-huachuca-t-00-05-15) | 1 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-fort-huachuca-t-01-40-02) | 1 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-fort-huachuca-t-00-28-00) | 4 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-fort-huachuca-t-00-30-39) | 3 |
+| 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-gpe-fort-huachuca-t-00-17-54) | 2 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-fort-huachuca-t-00-02-51) | 1 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-fort-huachuca-t-00-20-53) | 2 |
+| 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-fort-huachuca-t-00-41-29) | 1 |
+| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-fort-huachuca-t-00-51-36) | 2 |
+| 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-gpe-fort-huachuca-t-00-25-27) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (125)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (1 mentions)</summary>
+
+**[00:25:27](/episodes/ep-2tFYJf1klgY.md#ent-gpe-fort-huachuca-t-00-25-27)**
+> "...s project are affiliated with Fort Huachuca."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (2 mentions)</summary>
+
+**[00:51:43](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-fort-huachuca-t-00-51-36)**
+> "...w, Tesseract's direct ties to Fort Huachuca."
+
+**[00:51:55](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-fort-huachuca-t-00-51-36)**
+> "...Erica (Erika Kirk) knows what Fort Huachuca is."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (1 mentions)</summary>
+
+**[00:41:38](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-fort-huachuca-t-00-41-29)**
+> "...iven what we've learned about Fort Huachuca and intel base that literally trains Christians, ..."
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>
@@ -485,6 +584,17 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 
 </details>
 
+<details>
+<summary>ep-y8lak3CRwDw (2 mentions)</summary>
+
+**[00:31:12](/episodes/ep-y8lak3CRwDw.md#t-00-31-12)**
+> "...ing mitch no telling us about Fort Huachuca and how generals were working with the cartels in..."
+
+**[00:31:41](/episodes/ep-y8lak3CRwDw.md#t-00-31-41)**
+> "...y that Erika is familiar with Fort Huachuca. I think, Andrew, you might be too."
+
+</details>
+
 </details>
 
 <details open>
@@ -494,8 +604,12 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <summary>Based In (1)</summary>
 
 - **[Arizona](/entities/gpe-arizona.md)**
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:29](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28): "Fort Huachuca in Arizona is, okay? It is a hub for intelligence training."
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:16](/episodes/ep-ewBzjVe3LNQ.md#t-00-11-45): "Fort Huachuca in Arizona is... a hub for intelligence training"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:29](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28): “Fort Huachuca in Arizona is, okay? It is a hub for intelligence training.”
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:16](/episodes/ep-ewBzjVe3LNQ.md#t-00-11-45): “Fort Huachuca in Arizona is... a hub for intelligence training”
+
+</details>
 
 </details>
 
@@ -503,10 +617,18 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <summary>Employs (2)</summary>
 
 - **[Bruce Bevins](/entities/person-bruce-bevins.md)**
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:15:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-15-19): "When I asked for details, she explained that her stress was coming from a class that she was taking on Fort Huachuca taught by none other than Bruce Bevins."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:15:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-15-19): “When I asked for details, she explained that her stress was coming from a class that she was taking on Fort Huachuca taught by none other than Bruce Bevins.”
+
+</details>
 
 - **[Captain Adam Neff](/entities/person-captain-adam-neff.md)**
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:49:24](/episodes/ep-ewBzjVe3LNQ.md#t-00-48-59): "me, one of the captains there, his name was Captain Neff, nice guy."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:49:24](/episodes/ep-ewBzjVe3LNQ.md#t-00-48-59): “me, one of the captains there, his name was Captain Neff, nice guy.”
+
+</details>
 
 </details>
 
@@ -514,7 +636,11 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <summary>Location Of (1)</summary>
 
 - **[Candlewood Suites](/entities/org-candlewood-suites.md)**
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:37:38](/episodes/ep-ewBzjVe3LNQ.md#t-00-37-20): "the evening of September 8th at the Candlewood Suites"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:37:38](/episodes/ep-ewBzjVe3LNQ.md#t-00-37-20): “the evening of September 8th at the Candlewood Suites”
+
+</details>
 
 </details>
 
@@ -522,23 +648,47 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <summary>Referenced By (4)</summary>
 
 - **[Candlewood Suites](/entities/org-candlewood-suites.md)** based in this
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:37:38](/episodes/ep-ewBzjVe3LNQ.md#t-00-37-20)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:37:38](/episodes/ep-ewBzjVe3LNQ.md#t-00-37-20): “the evening of September 8th at the Candlewood Suites”
+
+</details>
 
 - **[Arizona](/entities/gpe-arizona.md)** location of this
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:29](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:29](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28): “Fort Huachuca in Arizona is, okay? It is a hub for intelligence training.”
+
+</details>
 
 - **[Bruce Bevins](/entities/person-bruce-bevins.md)** works for this
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:15:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-15-19)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:15:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-15-19): “When I asked for details, she explained that her stress was coming from a class that she was taking on Fort Huachuca taught by none other than Bruce Bevins.”
+
+</details>
 
 - **[Captain Adam Neff](/entities/person-captain-adam-neff.md)** works for this
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:49:24](/episodes/ep-ewBzjVe3LNQ.md#t-00-48-59)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:49:24](/episodes/ep-ewBzjVe3LNQ.md#t-00-48-59): “me, one of the captains there, his name was Captain Neff, nice guy.”
+
+</details>
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Fort Huachuca (68)</strong></summary>
+<summary><strong class="section-title">Statements about Fort Huachuca (69)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (1)</summary>
+
+- [00:25:27](/episodes/ep-2tFYJf1klgY.md#t-00-25-27) (Claim) **Candace Owens**: ["Actors, directors, and other people working with Erika Kirk on Novembe..."](/statements/statement-94ca08d74bdd.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [November Renaissance](/entities/work-november-renaissance.md)
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (2)</summary>
@@ -632,7 +782,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [November Renaissance](/entities/work-november-renaissance.md)
 
 - [00:05:35](/episodes/ep-X92MllIHDzw.md#t-00-05-32) (Claim) **Candace Owens**: ["Don Frye trained in judo at Fort Huachuca after graduating from high s..."](/statements/statement-b2356e346ac8.md)
-  - Also about: [Don Frye](/entities/person-don-frye.md), [Sierra Vista](/entities/gpe-sierra-vista-arizona.md)
+  - Also about: [Don Frye](/entities/person-don-frye.md), [Sierra Vista](/entities/gpe-sierra-vista.md)
 
 - [00:05:43](/episodes/ep-X92MllIHDzw.md#t-00-05-32) (Claim) **Candace Owens**: ["Peyton McCormick's grandfather was Colonel Pete McCormick, and her fat..."](/statements/statement-71f51f0dcda1.md)
   - Also about: [Peyton McCormick](/entities/person-peyton-mccormick.md)

@@ -1,6 +1,6 @@
 ---
 title: "Satan"
-description: "Satan (Concepts) - 43 mentions"
+description: "Satan (Concepts) - 44 mentions"
 id: "concept-satan"
 type: "CONCEPT"
 aliases:
@@ -21,10 +21,64 @@ _Type: Concepts_
 > CONCEPT represents the named religious figure because the schema has no deity/supernatural-character type.
 Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](https://www.youtube.com/watch?v=BKcOm32ZEGk)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-satan-t-00-31-40">2026-01-14 · 00:31:56</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-concept-satan-t-00-02-13">2026-02-25 · 00:02:29</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>44</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-satan-t-01-02-00">Candace x Bassem Youssef | Candace Ep 298</a> (11 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-satan-t-00-31-40" style="--pulse-height:18%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-concept-satan-t-00-45-38" style="--pulse-height:36%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-concept-satan-t-00-41-32" style="--pulse-height:18%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-satan-t-01-02-00" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 11 mentions" title="2026-01-29 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-concept-satan-t-00-00-45" style="--pulse-height:73%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 8 mentions" title="2026-01-30 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-satan-t-00-00-00" style="--pulse-height:27%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 3 mentions" title="2026-02-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-concept-satan-t-00-17-34" style="--pulse-height:55%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 6 mentions" title="2026-02-03 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-satan-t-00-07-54" style="--pulse-height:36%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 4 mentions" title="2026-02-04 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-satan-t-00-37-22" style="--pulse-height:18%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-concept-satan-t-00-48-47" style="--pulse-height:9%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-concept-satan-t-00-02-13" style="--pulse-height:9%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-satan-t-00-31-40) | 2 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-satan-t-00-45-38) | 4 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-concept-satan-t-00-41-32) | 2 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-satan-t-01-02-00) | 11 |
+| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-concept-satan-t-00-00-45) | 8 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-satan-t-00-00-00) | 3 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-concept-satan-t-00-17-34) | 6 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-concept-satan-t-00-07-54) | 4 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-satan-t-00-37-22) | 2 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-concept-satan-t-00-48-47) | 1 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-satan-t-00-02-13) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1 mentions)</summary>
+
+**[00:02:29](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-satan-t-00-02-13)**
+> "You're Satan,"
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>

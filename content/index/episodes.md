@@ -2,7 +2,7 @@
 title: "Episodes"
 ---
 
-_Total episodes: 78_
+_Total episodes: 84_
 
 <div class="page-filter-container">
   <input type="text" class="page-filter" placeholder="Filter episodes..." autocomplete="off">
@@ -30,6 +30,18 @@ _Total episodes: 78_
 ## Week of Jun 15 - 21, 2026
 
 - [Judy Fan - DISI 2021 - Cognitive Technologies for Making the Invisible Visible](/episodes/ep-yt-koVDYXSIfYo.md) — Fri, Jun 19
+
+## Week of Mar 02 - 08, 2026
+
+- [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md) — Tue, Mar 03
+- [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md) — Mon, Mar 02
+
+## Week of Feb 23 - Mar 01, 2026
+
+- [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md) — Sat, Feb 28
+- [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md) — Fri, Feb 27
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md) — Wed, Feb 25
+- [Coming soon...](/episodes/ep-LKR94FQ5p3o.md) — Mon, Feb 23
 
 ## Week of Feb 09 - 15, 2026
 

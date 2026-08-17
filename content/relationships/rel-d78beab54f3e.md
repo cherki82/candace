@@ -1,0 +1,27 @@
+---
+title: "Elizabeth Lane criticized Erika Kirk"
+description: "Evidence for the relationship: Elizabeth Lane criticized Erika Kirk"
+relationship_id: "rel-d78beab54f3e"
+subject: "person-elizabeth-lane"
+predicate: "criticized"
+object: "person-erika-kirk"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Elizabeth Lane](/entities/person-elizabeth-lane) criticized [Erika Kirk](/entities/person-erika-kirk)
+
+### Evidence (2 mentions)
+
+**[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
+
+- [00:40:37](/episodes/ep-1IY2oD-_xVA#t-00-40-37): _I, uh, suffice to say that Elizabeth Lane was very much on the money when she, when she suggested that, um, that she would have done anything to be famous. And like I said, you just, you simply will not be able to deny that when you see the stuff that we have uncovered about her and the missing year, missing years, I'll say plural of Erika (Erika Kirk)'s life._
+
+**[Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM)**
+
+- [00:04:57](/episodes/ep-ZAsV0fHGBiM#t-00-04-57): _Elizabeth Lane ... authored about Erica (Erika Kirk) ... Elizabeth Lane wrote ... I have reached the point where I find Erika Kirk to be deeply disturbing_
+
+### Related
+
+- [Elizabeth Lane](/entities/person-elizabeth-lane)
+- [Erika Kirk](/entities/person-erika-kirk)

@@ -1,6 +1,6 @@
 ---
 title: "Balance of Nature"
-description: "Balance of Nature (Organizations) - 9 mentions"
+description: "Balance of Nature (Organizations) - 10 mentions"
 id: "org-balance-of-nature"
 type: "ORG"
 categories:
@@ -16,10 +16,50 @@ _Type: Organizations_
 > Canonical brand/organization name verified against its official site.
 Source: [Balance of Nature](https://www.balanceofnature.com/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-balance-of-nature-t-00-38-39">2026-01-19 · 00:39:18</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-org-balance-of-nature-t-00-34-08">2026-03-03 · 00:34:19</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-balance-of-nature-t-00-39-24">A Legal Turning Point? | Candace Ep 292</a> (4 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-balance-of-nature-t-00-39-24" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 4 mentions" title="2026-01-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-balance-of-nature-t-00-42-08" style="--pulse-height:50%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-org-balance-of-nature-t-00-27-23" style="--pulse-height:75%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 3 mentions" title="2026-02-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-org-balance-of-nature-t-00-34-08" style="--pulse-height:25%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-balance-of-nature-t-00-39-24) | 4 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-org-balance-of-nature-t-00-42-08) | 2 |
+| 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-org-balance-of-nature-t-00-27-23) | 3 |
+| 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-org-balance-of-nature-t-00-34-08) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (1 mentions)</summary>
+
+**[00:34:19](/episodes/ep-2tFYJf1klgY.md#ent-org-balance-of-nature-t-00-34-08)**
+> "...o want to tell you guys about balance of nature because what if the reason you feel off some days..."
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (3 mentions)</summary>
@@ -68,6 +108,28 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Endorsed By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:34:19](/episodes/ep-2tFYJf1klgY.md#t-00-34-08): “I also want to tell you guys about balance of nature because what if the reason you feel off some days has to do with what's missing from your nutrition”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:34:19](/episodes/ep-2tFYJf1klgY.md#t-00-34-08): “I also want to tell you guys about balance of nature because what if the reason you feel off some days has to do with what's missing from your nutrition”
+
+</details>
+
+</details>
 
 </details>

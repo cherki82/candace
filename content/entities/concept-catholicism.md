@@ -1,6 +1,6 @@
 ---
 title: "Catholicism"
-description: "Catholicism (Concepts) - 75 mentions"
+description: "Catholicism (Concepts) - 86 mentions"
 id: "concept-catholicism"
 type: "CONCEPT"
 aliases:
@@ -19,10 +19,135 @@ _Type: Concepts_
 > Official Vatican source supports canonical concept name and adjectival form.
 Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/catechism/en.html)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-catholicism-t-00-13-56">2026-01-06 · 00:14:04</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-catholicism-t-00-47-30">2026-03-02 · 00:47:30</a></strong></div>
+<div><span>Episodes</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>86</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-Wjul6YV6izo.md#ent-concept-catholicism-t-00-06-13">AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299</a> (18 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-catholicism-t-00-13-56" style="--pulse-height:11%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-catholicism-t-00-34-37" style="--pulse-height:11%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 2 mentions" title="2026-01-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-concept-catholicism-t-00-42-37" style="--pulse-height:11%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-catholicism-t-00-01-27" style="--pulse-height:11%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-catholicism-t-00-48-21" style="--pulse-height:17%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-concept-catholicism-t-00-46-23" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-concept-catholicism-t-00-38-39" style="--pulse-height:11%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-catholicism-t-00-44-18" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-concept-catholicism-t-00-23-33" style="--pulse-height:17%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 3 mentions" title="2026-01-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-catholicism-t-00-19-12" style="--pulse-height:17%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-concept-catholicism-t-00-05-01" style="--pulse-height:17%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 3 mentions" title="2026-01-27 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-catholicism-t-00-16-46" style="--pulse-height:17%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-concept-catholicism-t-00-06-13" style="--pulse-height:100%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 18 mentions" title="2026-01-30 · 18 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-catholicism-t-00-08-34" style="--pulse-height:22%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 4 mentions" title="2026-02-02 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-concept-catholicism-t-00-14-09" style="--pulse-height:28%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 5 mentions" title="2026-02-03 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-catholicism-t-00-32-21" style="--pulse-height:8%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-concept-catholicism-t-00-08-17" style="--pulse-height:22%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 4 mentions" title="2026-02-05 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-concept-catholicism-t-00-31-24" style="--pulse-height:17%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 3 mentions" title="2026-02-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-concept-catholicism-t-00-08-07" style="--pulse-height:22%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 4 mentions" title="2026-02-10 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-catholicism-t-00-23-27" style="--pulse-height:50%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 9 mentions" title="2026-02-11 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-concept-catholicism-t-00-15-39" style="--pulse-height:17%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 3 mentions" title="2026-02-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-catholicism-t-00-28-09" style="--pulse-height:11%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-concept-catholicism-t-00-29-56" style="--pulse-height:11%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 2 mentions" title="2026-02-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-catholicism-t-00-43-15" style="--pulse-height:22%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 4 mentions" title="2026-03-02 · 4 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-concept-catholicism-t-00-13-56) | 2 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-concept-catholicism-t-00-34-37) | 2 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-concept-catholicism-t-00-42-37) | 2 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-catholicism-t-00-01-27) | 2 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-catholicism-t-00-48-21) | 3 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-catholicism-t-00-46-23) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-concept-catholicism-t-00-38-39) | 2 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-catholicism-t-00-44-18) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-concept-catholicism-t-00-23-33) | 3 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-catholicism-t-00-19-12) | 3 |
+| 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-concept-catholicism-t-00-05-01) | 3 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-catholicism-t-00-16-46) | 3 |
+| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-concept-catholicism-t-00-06-13) | 18 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-catholicism-t-00-08-34) | 4 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-concept-catholicism-t-00-14-09) | 5 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-concept-catholicism-t-00-32-21) | 1 |
+| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-concept-catholicism-t-00-08-17) | 4 |
+| 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-concept-catholicism-t-00-31-24) | 3 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-concept-catholicism-t-00-08-07) | 4 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-catholicism-t-00-23-27) | 9 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-catholicism-t-00-15-39) | 3 |
+| 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-concept-catholicism-t-00-28-09) | 2 |
+| 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-concept-catholicism-t-00-29-56) | 2 |
+| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-concept-catholicism-t-00-43-15) | 4 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (86)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (4 mentions)</summary>
+
+**[00:43:38](/episodes/ep-jTj9Ip46r4w.md#ent-concept-catholicism-t-00-43-15)**
+> "... didn't learn because she was Catholic and they didn't really study the Bible. Then she ..."
+
+**[00:46:10](/episodes/ep-jTj9Ip46r4w.md#ent-concept-catholicism-t-00-46-10)**
+> "... ever I do go back to sin the Catholic mass I'm like now I get I get the Catholic side e..."
+
+**[00:47:14](/episodes/ep-jTj9Ip46r4w.md#ent-concept-catholicism-t-00-46-47)**
+> "...n what brought me back to the Catholic thing like maybe I need to be Catholic this week ..."
+
+**[00:47:30](/episodes/ep-jTj9Ip46r4w.md#ent-concept-catholicism-t-00-47-30)**
+> "...dn't have an appreciation for Catholicism, but now I'm saying that studying the Bible made ..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (2 mentions)</summary>
+
+**[00:30:26](/episodes/ep-cZxHqYsWRYg.md#ent-concept-catholicism-t-00-29-56)**
+> "...ance you would think it was a Catholic school, but actually despite its name, despite it..."
+
+**[00:30:48](/episodes/ep-cZxHqYsWRYg.md#ent-concept-catholicism-t-00-29-56)**
+> "separate from the Catholic Church at this time, from what I've been able to ..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (2 mentions)</summary>
+
+**[00:28:17](/episodes/ep-1IY2oD-_xVA.md#ent-concept-catholicism-t-00-28-09)**
+> "You'll get 2,000 years of Bible commentary and wisdom from the saints, popes, and the church fathers. Its knowledge base grows daily, fueled by exclusive digital work happening directly inside Romans Pontifical Universities. It's the number one Catholic answer engine worldwide for a reason. That's how you can explore the intellectual depth and peace of the Catholic faith."
+
+**[00:28:30](/episodes/ep-1IY2oD-_xVA.md#ent-concept-catholicism-t-00-28-09)**
+> "For one Catholic Answer Engine worldwide for a reason, it's how yo..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (3 mentions)</summary>
+
+**[00:16:18](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-catholicism-t-00-15-39)**
+> "a devout Catholic mother,"
+
+**[00:16:24](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-catholicism-t-00-16-24)**
+> "this Catholic mom."
+
+**[00:22:33](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-catholicism-t-00-16-24)**
+> "...d to gift the hospital to the Catholic Sisters of Charity out of the goodness of their m..."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (9 mentions)</summary>

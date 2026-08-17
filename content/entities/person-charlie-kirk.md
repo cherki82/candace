@@ -1,6 +1,6 @@
 ---
 title: "Charlie Kirk"
-description: "Charlie Kirk (People) - 3539 mentions"
+description: "Charlie Kirk (People) - 3754 mentions"
 id: "person-charlie-kirk"
 type: "PERSON"
 aliases:
@@ -20,10 +20,882 @@ _Type: People_
 > Official Turning Point USA biography confirms canonical name and role.
 Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-charlie-kirk-t-00-00-01">2025-09-11 · 00:00:03</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-04-03-19">2026-08-14 · 04:03:19</a></strong></div>
+<div><span>Episodes</span><strong>83</strong></div>
+<div><span>Mentions</span><strong>3,754</strong></div>
+<div><span>Statements by</span><strong>49</strong></div>
+<div><span>Statements about</span><strong>693</strong></div>
+<div><span>Relationships</span><strong>170</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-charlie-kirk-t-00-00-00">They Are Lying About Charlie Kirk. | Candace Ep 235</a> (110 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-_dRaEO47-co.md#ent-person-charlie-kirk-t-00-00-01" style="--pulse-height:75%" aria-label="To My Friend, Charlie Kirk.: 83 mentions" title="2025-09-11 · 83 mentions"><span></span></a>
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:100%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 110 mentions" title="2025-09-15 · 110 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-person-charlie-kirk-t-00-00-01" style="--pulse-height:60%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 66 mentions" title="2025-09-16 · 66 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-charlie-kirk-t-00-00-01" style="--pulse-height:58%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 64 mentions" title="2025-09-17 · 64 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:53%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 58 mentions" title="2025-09-18 · 58 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:40%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 44 mentions" title="2025-09-19 · 44 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:65%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 72 mentions" title="2025-09-22 · 72 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-charlie-kirk-t-00-00-32" style="--pulse-height:56%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 62 mentions" title="2025-09-23 · 62 mentions"><span></span></a>
+<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-charlie-kirk-t-00-00-01" style="--pulse-height:35%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 38 mentions" title="2025-09-24 · 38 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-person-charlie-kirk-t-00-00-01" style="--pulse-height:61%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 67 mentions" title="2025-09-25 · 67 mentions"><span></span></a>
+<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-charlie-kirk-t-00-03-03" style="--pulse-height:20%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 22 mentions" title="2025-09-29 · 22 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-charlie-kirk-t-00-00-01" style="--pulse-height:40%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 44 mentions" title="2025-09-30 · 44 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-charlie-kirk-t-00-01-30" style="--pulse-height:27%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 30 mentions" title="2025-10-01 · 30 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:24%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 26 mentions" title="2025-10-02 · 26 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-person-charlie-kirk-t-00-02-46" style="--pulse-height:68%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 75 mentions" title="2025-10-06 · 75 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-person-charlie-kirk-t-00-01-22" style="--pulse-height:72%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 79 mentions" title="2025-10-07 · 79 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:79%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 87 mentions" title="2025-10-08 · 87 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:44%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 48 mentions" title="2025-10-09 · 48 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:90%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 99 mentions" title="2025-10-27 · 99 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:76%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 84 mentions" title="2025-10-28 · 84 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:74%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 81 mentions" title="2025-10-29 · 81 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:51%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 56 mentions" title="2025-10-30 · 56 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:75%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 82 mentions" title="2025-10-31 · 82 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-06-49" style="--pulse-height:62%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 68 mentions" title="2025-11-03 · 68 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-charlie-kirk-t-00-00-01" style="--pulse-height:44%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 48 mentions" title="2025-11-04 · 48 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-charlie-kirk-t-00-00-38" style="--pulse-height:44%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 48 mentions" title="2025-11-05 · 48 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-charlie-kirk-t-00-00-45" style="--pulse-height:57%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 63 mentions" title="2025-11-06 · 63 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-person-charlie-kirk-t-00-04-12" style="--pulse-height:35%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 39 mentions" title="2025-11-08 · 39 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:45%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 50 mentions" title="2025-11-10 · 50 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:51%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 56 mentions" title="2025-11-12 · 56 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-00-01" style="--pulse-height:35%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 38 mentions" title="2025-11-13 · 38 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-00-44" style="--pulse-height:17%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 19 mentions" title="2025-11-15 · 19 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-charlie-kirk-t-00-00-41" style="--pulse-height:52%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 57 mentions" title="2025-11-17 · 57 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:35%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 39 mentions" title="2025-11-18 · 39 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:46%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 51 mentions" title="2025-11-19 · 51 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-person-charlie-kirk-t-00-00-39" style="--pulse-height:37%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 41 mentions" title="2025-11-20 · 41 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:26%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 29 mentions" title="2025-11-21 · 29 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-charlie-kirk-t-00-00-57" style="--pulse-height:23%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 25 mentions" title="2025-12-01 · 25 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-charlie-kirk-t-00-02-09" style="--pulse-height:61%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 67 mentions" title="2025-12-02 · 67 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:75%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 82 mentions" title="2025-12-03 · 82 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-person-charlie-kirk-t-00-02-12" style="--pulse-height:22%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 24 mentions" title="2025-12-05 · 24 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-charlie-kirk-t-00-00-43" style="--pulse-height:35%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 39 mentions" title="2025-12-05 · 39 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:29%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 32 mentions" title="2025-12-08 · 32 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:18%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 20 mentions" title="2025-12-09 · 20 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-charlie-kirk-t-00-00-46" style="--pulse-height:34%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 37 mentions" title="2025-12-10 · 37 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:42%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 46 mentions" title="2025-12-12 · 46 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-05-30" style="--pulse-height:41%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 45 mentions" title="2025-12-16 · 45 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-charlie-kirk-t-00-00-35" style="--pulse-height:24%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 26 mentions" title="2025-12-17 · 26 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-00-01-21" style="--pulse-height:15%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 16 mentions" title="2025-12-18 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:34%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 37 mentions" title="2025-12-20 · 37 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-charlie-kirk-t-00-08-38" style="--pulse-height:34%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 37 mentions" title="2026-01-05 · 37 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-charlie-kirk-t-00-00-45" style="--pulse-height:31%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 34 mentions" title="2026-01-06 · 34 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-01-29" style="--pulse-height:54%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 59 mentions" title="2026-01-07 · 59 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-charlie-kirk-t-00-00-57" style="--pulse-height:39%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 43 mentions" title="2026-01-09 · 43 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:35%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 38 mentions" title="2026-01-12 · 38 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-charlie-kirk-t-00-03-11" style="--pulse-height:20%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 22 mentions" title="2026-01-13 · 22 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-charlie-kirk-t-00-00-40" style="--pulse-height:23%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 25 mentions" title="2026-01-14 · 25 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-person-charlie-kirk-t-00-10-47" style="--pulse-height:14%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 15 mentions" title="2026-01-16 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-charlie-kirk-t-00-00-01" style="--pulse-height:16%" aria-label="Myron Gaines x Candace Owens: 18 mentions" title="2026-01-16 · 18 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:35%" aria-label="A Legal Turning Point? | Candace Ep 292: 38 mentions" title="2026-01-19 · 38 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:34%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 37 mentions" title="2026-01-20 · 37 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-charlie-kirk-t-00-02-05" style="--pulse-height:16%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 18 mentions" title="2026-01-21 · 18 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-charlie-kirk-t-00-00-40" style="--pulse-height:30%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 33 mentions" title="2026-01-22 · 33 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:44%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 48 mentions" title="2026-01-27 · 48 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:36%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 40 mentions" title="2026-01-28 · 40 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-charlie-kirk-t-00-09-44" style="--pulse-height:29%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 32 mentions" title="2026-01-29 · 32 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-person-charlie-kirk-t-00-00-45" style="--pulse-height:32%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 35 mentions" title="2026-01-30 · 35 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-charlie-kirk-t-00-29-11" style="--pulse-height:35%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 38 mentions" title="2026-02-02 · 38 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-charlie-kirk-t-00-20-29" style="--pulse-height:17%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 19 mentions" title="2026-02-03 · 19 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-charlie-kirk-t-00-21-46" style="--pulse-height:10%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 11 mentions" title="2026-02-04 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-charlie-kirk-t-00-04-46" style="--pulse-height:52%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 57 mentions" title="2026-02-05 · 57 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-person-charlie-kirk-t-00-12-52" style="--pulse-height:39%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 43 mentions" title="2026-02-09 · 43 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:66%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 73 mentions" title="2026-02-10 · 73 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-charlie-kirk-t-00-00-01" style="--pulse-height:57%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 63 mentions" title="2026-02-11 · 63 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-11-21" style="--pulse-height:33%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 36 mentions" title="2026-02-13 · 36 mentions"><span></span></a>
+<a href="/episodes/ep-LKR94FQ5p3o.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:8%" aria-label="Coming soon...: 3 mentions" title="2026-02-23 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-charlie-kirk-t-00-00-45" style="--pulse-height:20%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 22 mentions" title="2026-02-25 · 22 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-person-charlie-kirk-t-00-01-09" style="--pulse-height:15%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 16 mentions" title="2026-02-27 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-person-charlie-kirk-t-00-20-19" style="--pulse-height:18%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 20 mentions" title="2026-02-28 · 20 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-00-38" style="--pulse-height:35%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 38 mentions" title="2026-03-02 · 38 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-person-charlie-kirk-t-00-00-01" style="--pulse-height:22%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 24 mentions" title="2026-03-03 · 24 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-25-19" style="--pulse-height:84%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 92 mentions" title="2026-08-14 · 92 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-11 | [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md#ent-person-charlie-kirk-t-00-00-01) | 83 |
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-person-charlie-kirk-t-00-00-00) | 110 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-person-charlie-kirk-t-00-00-01) | 66 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-person-charlie-kirk-t-00-00-01) | 64 |
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-person-charlie-kirk-t-00-00-00) | 58 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-charlie-kirk-t-00-00-00) | 44 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-person-charlie-kirk-t-00-00-00) | 72 |
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-person-charlie-kirk-t-00-00-32) | 62 |
+| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-person-charlie-kirk-t-00-00-01) | 38 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-person-charlie-kirk-t-00-00-01) | 67 |
+| 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-charlie-kirk-t-00-03-03) | 22 |
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-person-charlie-kirk-t-00-00-01) | 44 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-charlie-kirk-t-00-01-30) | 30 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-charlie-kirk-t-00-00-00) | 26 |
+| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-person-charlie-kirk-t-00-02-46) | 75 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-charlie-kirk-t-00-01-22) | 79 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-charlie-kirk-t-00-00-00) | 87 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-charlie-kirk-t-00-00-00) | 48 |
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-person-charlie-kirk-t-00-00-00) | 99 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-charlie-kirk-t-00-00-00) | 84 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-person-charlie-kirk-t-00-00-00) | 81 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-charlie-kirk-t-00-00-00) | 56 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-person-charlie-kirk-t-00-00-00) | 82 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-charlie-kirk-t-00-06-49) | 68 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-person-charlie-kirk-t-00-00-01) | 48 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-charlie-kirk-t-00-00-38) | 48 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-charlie-kirk-t-00-00-45) | 63 |
+| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-person-charlie-kirk-t-00-04-12) | 39 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-person-charlie-kirk-t-00-00-00) | 50 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-charlie-kirk-t-00-00-00) | 56 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-charlie-kirk-t-00-00-01) | 38 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-charlie-kirk-t-00-00-44) | 19 |
+| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-person-charlie-kirk-t-00-00-41) | 57 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-charlie-kirk-t-00-00-00) | 39 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-charlie-kirk-t-00-00-00) | 51 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-charlie-kirk-t-00-00-39) | 41 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-charlie-kirk-t-00-00-00) | 29 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-charlie-kirk-t-00-00-57) | 25 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-person-charlie-kirk-t-00-02-09) | 67 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-charlie-kirk-t-00-00-00) | 82 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-person-charlie-kirk-t-00-02-12) | 24 |
+| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-person-charlie-kirk-t-00-00-43) | 39 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-charlie-kirk-t-00-00-00) | 32 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-person-charlie-kirk-t-00-00-00) | 20 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-person-charlie-kirk-t-00-00-46) | 37 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-00-00) | 46 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-charlie-kirk-t-00-05-30) | 45 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-charlie-kirk-t-00-00-35) | 26 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-00-01-21) | 16 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-charlie-kirk-t-00-00-00) | 37 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-charlie-kirk-t-00-08-38) | 37 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-charlie-kirk-t-00-00-45) | 34 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-01-29) | 59 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-charlie-kirk-t-00-00-57) | 43 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-00-00) | 38 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-charlie-kirk-t-00-03-11) | 22 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-charlie-kirk-t-00-00-40) | 25 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-charlie-kirk-t-00-10-47) | 15 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-charlie-kirk-t-00-00-01) | 18 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-charlie-kirk-t-00-00-00) | 38 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-charlie-kirk-t-00-00-00) | 37 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-charlie-kirk-t-00-02-05) | 18 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-charlie-kirk-t-00-00-40) | 33 |
+| 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-person-charlie-kirk-t-00-00-00) | 48 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-charlie-kirk-t-00-00-00) | 40 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-charlie-kirk-t-00-09-44) | 32 |
+| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-charlie-kirk-t-00-00-45) | 35 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-charlie-kirk-t-00-29-11) | 38 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-charlie-kirk-t-00-20-29) | 19 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-charlie-kirk-t-00-21-46) | 11 |
+| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-charlie-kirk-t-00-04-46) | 57 |
+| 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-charlie-kirk-t-00-12-52) | 43 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-charlie-kirk-t-00-00-00) | 73 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-charlie-kirk-t-00-00-01) | 63 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-charlie-kirk-t-00-11-21) | 36 |
+| 2026-02-23 | [Coming soon...](/episodes/ep-LKR94FQ5p3o.md#ent-person-charlie-kirk-t-00-00-00) | 3 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-charlie-kirk-t-00-00-45) | 22 |
+| 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-person-charlie-kirk-t-00-01-09) | 16 |
+| 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-person-charlie-kirk-t-00-20-19) | 20 |
+| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-00-38) | 38 |
+| 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-person-charlie-kirk-t-00-00-01) | 24 |
+| 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-25-19) | 92 |
+
+</details>
+</section>
+
+## Reviewed theory threads
+
+- [How the Hamptons retreat was characterized](/threads/thread-hamptons-retreat-characterization) — Tracks competing on-channel descriptions of the August 2025 Hamptons retreat: first as an intervention over Israel, then as a debate workshop, and later as a retreat convened by Charlie Kirk.
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (3754)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (92 mentions)</summary>
+
+**[00:25:19](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-25-19)**
+> "Charlie Kirk and Candace your position was he's a Patsy Tyler ..."
+
+**[00:25:37](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-25-19)**
+> "...id a lot of good things about charlie respectful towards him you guys may have disagree..."
+
+**[00:27:16](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-27-16)**
+> "...ce that Tyler Robinson killed Charlie Kirk."
+
+**[00:27:36](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-27-27)**
+> "Charlie Kirk was murdered."
+
+**[00:28:21](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-28-12)**
+> "...d States government to murder Charlie Kirk."
+
+**[00:28:29](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-28-12)**
+> "...ll claimed that Israel killed Charlie Kirk."
+
+**[00:28:34](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-28-12)**
+> "...s on or around September 8th, Charlie sent a text message reading,"
+
+**[00:28:54](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-28-54)**
+> "...speculated that Israel killed Charlie Kirk because he would have successfully opposed the Ir..."
+
+**[00:29:06](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-28-54)**
+> "...e that Israel actually killed Charlie Kirk."
+
+**[00:29:22](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-28-54)**
+> "...vidence that a leftist killed Charlie Kirk."
+
+**[00:29:27](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-28-54)**
+> "I believe Charlie Kirk,"
+
+**[00:29:36](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-29-36)**
+> "...ver-before-seen messages from Charlie Kirk to his security team on September 9,"
+
+**[00:29:56](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-29-36)**
+> "Charlie's security team wrote to him,"
+
+**[00:30:12](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-30-12)**
+> "Charlie responded with this,"
+
+**[00:31:13](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-30-52)**
+> "...ce that Tyler Robinson killed Charlie Kirk. And two,"
+
+**[00:33:52](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-33-14)**
+> "...tacking the very organization Charlie spent his life building."
+
+**[00:34:18](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-34-10)**
+> "...nal friendship between me and Charlie and diminishing the pursuit of something that mak..."
+
+**[00:35:32](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-35-32)**
+> "...was because immediately after Charlie died,"
+
+**[00:35:46](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-35-32)**
+> "... to state that I did not kill Charlie Kirk when nobody was having that thought that I can re..."
+
+**[00:36:07](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-36-07)**
+> "... part of a broader shift that Charlie was having over the last I would say actually on ..."
+
+**[00:36:36](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-36-07)**
+> "...onversations that he had with Charlie."
+
+**[00:36:46](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-36-46)**
+> "...nversations that she had with Charlie."
+
+**[00:36:56](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-36-46)**
+> "Charlie was starting to ask questions. I think after Octo..."
+
+**[00:37:16](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-36-46)**
+> "...share that I had a dream that Charlie was betrayed."
+
+**[00:37:25](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-37-25)**
+> "... that I never hadn't speak to Charlie since 2018 and it begins to look like a conspirac..."
+
+**[00:38:09](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-38-09)**
+> "...hould be the person that took Charlie's place,"
+
+**[00:38:22](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-38-22)**
+> "...you think Tyler Robinson shot Charlie Kirk and killed him?"
+
+**[00:38:41](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-38-41)**
+> "...ing that he didn't even shoot Charlie Kirkland,"
+
+**[00:39:01](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-39-01)**
+> "...dn't he didn't shoot and kill Charlie Kirk."
+
+**[00:39:09](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-39-05)**
+> "...t I'm not even convinced that Charlie was shot from the rooftop on Low C that day based..."
+
+**[00:39:18](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-39-18)**
+> "I do not think that Charlie was shot from a 30 odd six from"
+
+**[00:39:25](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-00-39-25)**
+> "I think that a projectile hit Charlie and I'm open to other people's presentations,"
+
+**[01:30:40](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-01-30-40)**
+> "...ple don't feel good about the charlie thing why do we have so many influencers saying t..."
+
+**[01:35:26](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-01-35-14)**
+> "... jumps up and wants to avenge Charlie Kirk and you know we're going to watch you and they we..."
+
+**[01:55:14](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-01-55-02)**
+> "not just the case of Charlie Kirk, his assassination,"
+
+**[01:55:47](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-01-55-47)**
+> "...ean, that Tyler Robinson shot Charlie Kirk,"
+
+**[01:57:15](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-01-57-15)**
+> "... to say Tyler Robinson killed Charlie Kirk?"
+
+**[01:59:52](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-01-59-52)**
+> "...tually belongs to somebody on Charlie's team."
+
+**[02:00:20](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-01-59-52)**
+> "... this belonged to somebody on Charlie's team."
+
+**[02:00:33](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-00-33)**
+> "...at some of the artifacts that Charlie was wearing were immediately returned to Erika."
+
+**[02:00:49](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-00-33)**
+> "...hat the car that they carried Charlie in to go to the hospital, they had immediately to..."
+
+**[02:05:16](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-05-16)**
+> "...s in regards to this case and Charlie"
+
+**[02:23:17](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-23-17)**
+> "involved in the death of Charlie Kirk?"
+
+**[02:23:36](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-23-36)**
+> "...whatsoever that Israel killed Charlie Kirk?"
+
+**[02:23:41](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-23-41)**
+> "...he ground and shot and killed Charlie Kirk."
+
+**[02:24:08](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-23-41)**
+> "...your lunch before you go kill Charlie Kirk for LGBTQ issues,"
+
+**[02:24:34](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-24-26)**
+> "...estion is because truthfully, Charlie's perspectives were changing on Israel and"
+
+**[02:25:14](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-25-14)**
+> "involved in killing Charlie Kirk?"
+
+**[02:26:04](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-26-04)**
+> "...e almost desperate lies about Charlie shifting opinion on Israel lead us to believe tha..."
+
+**[02:26:59](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-26-59)**
+> "...participated in the murder of Charlie Kirk?"
+
+**[02:27:03](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-27-03)**
+> "...participated in the murder of Charlie Kirk. So how could I say that I have?"
+
+**[02:27:07](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-27-03)**
+> "...participated in the murder of Charlie Kirk."
+
+**[02:28:00](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-27-56)**
+> "...e's a reason Pierre knew that Charlie was dead first."
+
+**[02:28:08](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-27-56)**
+> "...e, and Israel are involved in Charlie Kirk's assassination."
+
+**[02:29:55](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-29-42)**
+> "...olved in the assassination of Charlie Kirk and you say with full confidence,"
+
+**[02:30:26](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-30-26)**
+> "claims made about Charlie Kirk's assassination."
+
+**[02:33:00](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-33-00)**
+> "...olved in the assassination of Charlie Kirk"
+
+**[02:33:18](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-33-18)**
+> "...kill there that France killed Charlie Kirk or just that you were in danger"
+
+**[02:34:09](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-34-09)**
+> "...gion was on the ground during Charlie's assassination and that,"
+
+**[02:35:42](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-35-42)**
+> "charlie no no her relationship like"
+
+**[02:36:48](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-36-48)**
+> "of Charlie"
+
+**[02:37:13](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-37-13)**
+> "...olved in the assassination of Charlie Kirk,"
+
+**[02:37:37](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-37-26)**
+> "...ing else that was going on in Charlie's life personally. So if we're not satisfied that T..."
+
+**[02:38:56](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-38-52)**
+> "... sources are legit when i say charlie uh was scared in in the last days and then i drop..."
+
+**[02:42:30](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-42-25)**
+> "... or facilitated the murder of Charlie Kirk?"
+
+**[02:44:39](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-44-39)**
+> "... responsible for the death of Charlie Kirk,"
+
+**[02:46:23](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-46-23)**
+> "charlie kirk"
+
+**[02:49:14](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-49-00)**
+> "... being like, Candace, you and Charlie always say to."
+
+**[02:50:18](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-50-18)**
+> "before anything happened with Charlie,"
+
+**[02:50:26](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-50-26)**
+> "...to a different phase right so Charlie and I hitting the ground running around traveling..."
+
+**[02:50:59](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-50-59)**
+> "George, her and Charlie,"
+
+**[02:51:04](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-51-04)**
+> ".... George traveled with me and Charlie, but Erika and him were just starting to date at ..."
+
+**[02:51:14](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-51-04)**
+> "So George really got to know Charlie."
+
+**[02:51:19](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-51-04)**
+> "... them because I knew how much Charlie wanted to, you know, find love. And so I was kind..."
+
+**[02:55:25](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-55-25)**
+> "...verybody wanting to know what Charlie was going through through his last days,"
+
+**[02:57:14](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-57-14)**
+> "...ay why erica had to take over charlie's company when they don't have a parent at home so ..."
+
+**[02:58:09](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-02-58-09)**
+> "...ing point USA that is part of Charlie Kirk's legs."
+
+**[03:00:03](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-03-00-03)**
+> "... accidentally, because of how Charlie was crouched,"
+
+**[03:00:18](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-03-00-03)**
+> "...bly that a 30-06 got eaten by Charlie much more reasonably obviously than saying that t..."
+
+**[03:01:13](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-03-01-13)**
+> "...as a shape charge that killed Charlie?"
+
+**[03:03:11](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-03-03-11)**
+> "Okay. Do you think that Charlie Kirk was killed with an explosive?"
+
+**[03:03:43](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-03-03-31)**
+> "...the shot rings out that kills Charlie, at least it sounds like a shot to me. People are..."
+
+**[03:07:26](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-03-07-20)**
+> "... necklace breaks first before Charlie even reacts. If you watch it in slow,"
+
+**[03:09:26](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-03-09-00)**
+> "I think first aid to Charlie Kirk,"
+
+**[03:32:34](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-03-32-34)**
+> "it said about Charlie."
+
+**[03:34:31](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-03-34-31)**
+> "...s that um tyler robinson shot charlie kirk yeah"
+
+**[03:46:22](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-03-46-22)**
+> "Charlie."
+
+**[04:01:53](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-04-01-26)**
+> "...show that you did right after Charlie was assassinated that internet sleuths would solv..."
+
+**[04:02:03](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-04-01-26)**
+> "This is the reason why Charlie a year on is still a conversation every single da..."
+
+**[04:02:09](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-04-02-09)**
+> "I knew Charlie. I cared about Charlie."
+
+**[04:02:43](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-04-02-09)**
+> "...ace that I deeply cared about Charlie and I deeply care about the answers."
+
+**[04:03:19](/episodes/ep-nPhCKwJ6ye8.md#ent-person-charlie-kirk-t-04-03-19)**
+> "... love and respect we have for Charlie Kirk,"
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (24 mentions)</summary>
+
+**[00:00:31](/episodes/ep-2tFYJf1klgY.md#ent-person-charlie-kirk-t-00-00-01)**
+> "...ome back to Bride of Charlie (Charlie Kirk)."
+
+**[00:32:14](/episodes/ep-2tFYJf1klgY.md#ent-person-charlie-kirk-t-00-32-14)**
+> "...'re just carrying on Charlie (Charlie Kirk)'s legacy. Everybody grieves differently and it m..."
+
+**[00:36:01](/episodes/ep-2tFYJf1klgY.md#ent-person-charlie-kirk-t-00-35-26)**
+> "..., I guess, and there Charlie (Charlie Kirk) was at the airport in Israel."
+
+**[00:36:10](/episodes/ep-2tFYJf1klgY.md#ent-person-charlie-kirk-t-00-36-10)**
+> "... at the airport with Charlie (Charlie Kirk)."
+
+**[00:36:21](/episodes/ep-2tFYJf1klgY.md#ent-person-charlie-kirk-t-00-36-10)**
+> "...ver said that. I saw Charlie (Charlie Kirk) with Candace (Candace Owens) because we were act..."
+
+**[00:43:35](/episodes/ep-2tFYJf1klgY.md#ent-person-charlie-kirk-t-00-43-25)**
+> "...latant untruth about Charlie (Charlie Kirk)'s daily life that I feel compelled to correct it..."
+
+**[00:43:53](/episodes/ep-2tFYJf1klgY.md#ent-person-charlie-kirk-t-00-43-25)**
+> "...om and suggests that Charlie (Charlie Kirk)'s last book, Stop in the Name of God, about the ..."
+
+**[00:44:06](/episodes/ep-2tFYJf1klgY.md#ent-person-charlie-kirk-t-00-44-06)**
+> "fabrication to make Charlie (Charlie Kirk) appear more pro-Jewish and pro-Israel than he re..."
+
+**[00:44:30](/episodes/ep-2tFYJf1klgY.md#ent-person-charlie-kirk-t-00-44-06)**
+> "...ng first and telling Charlie (Charlie Kirk) he should do before anybody."
+
+**[00:44:48](/episodes/ep-2tFYJf1klgY.md#ent-person-charlie-kirk-t-00-44-48)**
+> "...emind us of how much Charlie (Charlie Kirk) loves Israel."
+
+**[00:45:05](/episodes/ep-2tFYJf1klgY.md#ent-person-charlie-kirk-t-00-44-48)**
+> "...emind us of how much Charlie (Charlie Kirk) loved Israel."
+
+**[00:45:11](/episodes/ep-2tFYJf1klgY.md#ent-person-charlie-kirk-t-00-44-48)**
+> "...scount the fact that Charlie (Charlie Kirk), I just want to be clear, Charlie (Charlie Kirk)..."
+
+**[00:45:42](/episodes/ep-2tFYJf1klgY.md#ent-person-charlie-kirk-t-00-45-28)**
+> "... we cleared that up. Charlie (Charlie Kirk)'s phone was off on Saturdays. Bro was like a rap..."
+
+**[00:49:36](/episodes/ep-2tFYJf1klgY.md#ent-person-charlie-kirk-t-00-49-29)**
+> "...t's what happened to Charlie (Charlie Kirk). So well said. It's just upside down land. It's ..."
+
+**[00:51:23](/episodes/ep-2tFYJf1klgY.md#ent-person-charlie-kirk-t-00-50-53)**
+> "...e two questions. Did Charlie (Charlie Kirk) date anyone else before Erica (Erika Kirk)?"
+
+**[00:51:29](/episodes/ep-2tFYJf1klgY.md#ent-person-charlie-kirk-t-00-51-29)**
+> "...ded to the fact that Charlie (Charlie Kirk) did have one person that he was very very very v..."
+
+**[00:52:09](/episodes/ep-2tFYJf1klgY.md#ent-person-charlie-kirk-t-00-52-09)**
+> "...saw some posts about Charlie (Charlie Kirk)'s parents taking them. Thank you, Candace (Canda..."
+
+**[00:52:30](/episodes/ep-2tFYJf1klgY.md#ent-person-charlie-kirk-t-00-52-09)**
+> "Doing what Charlie (Charlie Kirk) would say to do owes you an apology, go Max. I w..."
+
+**[00:53:48](/episodes/ep-2tFYJf1klgY.md#ent-person-charlie-kirk-t-00-53-22)**
+> "...k scam a genius like Charlie (Charlie Kirk)? The more I hear her past interviews, the dumber..."
+
+**[00:53:56](/episodes/ep-2tFYJf1klgY.md#ent-person-charlie-kirk-t-00-53-56)**
+> "... IQ of people saying Charlie (Charlie Kirk) was a genius. How could he hire people around hi..."
+
+**[00:54:07](/episodes/ep-2tFYJf1klgY.md#ent-person-charlie-kirk-t-00-53-56)**
+> "... the topic of women, Charlie (Charlie Kirk) wasn't a genius. He just wasn't a genius on the ..."
+
+**[00:54:15](/episodes/ep-2tFYJf1klgY.md#ent-person-charlie-kirk-t-00-53-56)**
+> "...ple forget how young Charlie (Charlie Kirk) was. So even in terms of who was around him, you..."
+
+**[00:55:34](/episodes/ep-2tFYJf1klgY.md#ent-person-charlie-kirk-t-00-55-24)**
+> "...finish that DOGE for Charlie (Charlie Kirk). I'd like that DOGE to be finished. I'd like to ..."
+
+**[00:56:43](/episodes/ep-2tFYJf1klgY.md#ent-person-charlie-kirk-t-00-56-43)**
+> "... and then surrounded Charlie (Charlie Kirk) like a November."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (38 mentions)</summary>
+
+**[00:00:38](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-00-38)**
+> "... a full scale war in Iran was Charlie Kirk."
+
+**[00:00:46](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-00-38)**
+> "Charlie Kirk was at the White House and he convinced Trump tha..."
+
+**[00:00:54](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-00-38)**
+> "..., they were angry about that. Charlie Kirk, 31-year-old, he's the person that's stopping us ..."
+
+**[00:01:11](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-00-38)**
+> "... set in motion after Charlie (Charlie Kirk) beat Bibi (Benjamin Netanyahu)'s desires at the ..."
+
+**[00:01:21](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-01-21)**
+> "...sis of evidence that Charlie (Charlie Kirk)'s murder was likely a very sophisticated militar..."
+
+**[00:01:45](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-01-21)**
+> "...ant us to learn that Charlie (Charlie Kirk) had actually abandoned their cause entirely."
+
+**[00:01:52](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-01-21)**
+> "So Charlie (Charlie Kirk) was removed and in his place, we got a Shabbat S..."
+
+**[00:01:59](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-01-59)**
+> "This is the book my Charlie (Charlie Kirk) wanted you to read. He just finished it. He love..."
+
+**[00:02:21](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-01-59)**
+> "...ome back to Bride of Charlie (Charlie Kirk)."
+
+**[00:05:05](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-05-05)**
+> "Oh, Charlie (Charlie Kirk), if only you knew that they're trying to convinc..."
+
+**[00:05:39](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-05-39)**
+> "...nd underscoring what Charlie (Charlie Kirk)'s beliefs were? She loved Charlie (Charlie Kirk)..."
+
+**[00:05:53](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-05-39)**
+> "...to clearly hear what Charlie (Charlie Kirk) felt about Iran."
+
+**[00:06:34](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-06-34)**
+> "...nd that's not to use Charlie (Charlie Kirk) as a shield that is not to use say"
+
+**[00:06:43](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-06-43)**
+> "... feeling the lack of Charlie (Charlie Kirk) in a moment like"
+
+**[00:06:50](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-06-50)**
+> "...tely went to go find Charlie (Charlie Kirk) Clips because he still is even in death like the..."
+
+**[00:07:06](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-07-04)**
+> "...ple that didn't actually know charlie like blake you said it in private he would be not..."
+
+**[00:07:48](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-07-43)**
+> "...'ve got the ghost of Charlie (Charlie Kirk). Aha, we can direct the ghost of Charlie (Charli..."
+
+**[00:08:01](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-07-43)**
+> "...licitly against what Charlie (Charlie Kirk) shared in his own words."
+
+**[00:08:37](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-08-24)**
+> "...a. Because she loved Charlie (Charlie Kirk)."
+
+**[00:09:00](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-09-00)**
+> "...g to you on Bride of Charlie (Charlie Kirk) let's recap them because it's good to remind our..."
+
+**[00:22:51](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-22-18)**
+> "...n a mere days before Charlie (Charlie Kirk)'s assassinated."
+
+**[00:23:40](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-23-40)**
+> "...g up, something that Charlie (Charlie Kirk) shared about Erica (Erika Kirk)'s mother is shoc..."
+
+**[00:35:01](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-34-40)**
+> "...sked me anything segment from Charlie Kirk's show A person emailed me and they said, Candace, ..."
+
+**[00:35:23](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-35-23)**
+> "...he past Super Bowls. Charlie (Charlie Kirk) was speaking about the Green Bay Packers and men..."
+
+**[00:36:10](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-36-10)**
+> "...No, I'd have to hear Charlie (Charlie Kirk) say that myself. That can't be right."
+
+**[00:36:37](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-36-10)**
+> "...t to investigate and Charlie (Charlie Kirk) did communicate that very fact. Take a listen."
+
+**[00:37:17](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-37-13)**
+> "...my first thought was Charlie (Charlie Kirk)'s not lying because take it from me. He's not du..."
+
+**[00:37:36](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-37-13)**
+> "...ot for the fact that Charlie (Charlie Kirk) said that they had a ton of Vince Lombardi's par..."
+
+**[00:37:56](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-37-56)**
+> "I said, Charlie (Charlie Kirk), not known for hyperbole. He knows words have me..."
+
+**[00:39:14](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-39-14)**
+> "...ere, but I know that Charlie (Charlie Kirk) is being pretty explicit and saying direct, dire..."
+
+**[00:40:20](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-39-56)**
+> "...terchangeable, which Charlie (Charlie Kirk) has just confirmed, right? He says she's a Lomba..."
+
+**[00:52:57](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-52-57)**
+> "...g the bible you never checked charlie's texts you never knew charlie was afraid for his l..."
+
+**[00:53:23](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-52-57)**
+> "...uld make sense is if Charlie (Charlie Kirk) thought Erica (Erika Kirk) was going to kill him..."
+
+**[00:54:07](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-53-36)**
+> "...oming up together on Charlie (Charlie Kirk)'s day of Charlie (Charlie Kirk)'s burial."
+
+**[00:57:14](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-56-47)**
+> "...are they still calling it the Charlie Kirk show?"
+
+**[00:57:19](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-56-47)**
+> "...e name in respect of Charlie (Charlie Kirk)'s memory. How about the Turning Point show? I th..."
+
+**[00:57:28](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-57-28)**
+> "...ople think that it's Charlie (Charlie Kirk)'s legacy. It's not. They should rename the compa..."
+
+**[00:57:38](/episodes/ep-jTj9Ip46r4w.md#ent-person-charlie-kirk-t-00-57-28)**
+> "...nions—neocons, which Charlie (Charlie Kirk) could not stand."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (20 mentions)</summary>
+
+**[00:20:19](/episodes/ep-cZxHqYsWRYg.md#ent-person-charlie-kirk-t-00-20-19)**
+> "...troduce Erika (Erika Kirk) to Charlie Kirk."
+
+**[00:22:41](/episodes/ep-cZxHqYsWRYg.md#ent-person-charlie-kirk-t-00-22-29)**
+> "It was Charlie (Charlie Kirk)'s vision, right? He's telling people that Charli..."
+
+**[00:42:00](/episodes/ep-cZxHqYsWRYg.md#ent-person-charlie-kirk-t-00-42-00)**
+> "... impress people like Charlie (Charlie Kirk) by just always having a Bible verse? Now she can..."
+
+**[00:43:31](/episodes/ep-cZxHqYsWRYg.md#ent-person-charlie-kirk-t-00-43-23)**
+> "Meet anybody before Charlie (Charlie Kirk)? Oh no, you guys are messing up. My heart is ove..."
+
+**[00:50:50](/episodes/ep-cZxHqYsWRYg.md#ent-person-charlie-kirk-t-00-50-19)**
+> "These people love Charlie (Charlie Kirk). These people didn't even write their own speech..."
+
+**[00:51:00](/episodes/ep-cZxHqYsWRYg.md#ent-person-charlie-kirk-t-00-51-00)**
+> "...ttle these people cared about Charlie Kirk."
+
+**[00:51:05](/episodes/ep-cZxHqYsWRYg.md#ent-person-charlie-kirk-t-00-51-00)**
+> "Charlie (Charlie Kirk) was a means to them. Go ahead. Call me a monster..."
+
+**[00:52:35](/episodes/ep-cZxHqYsWRYg.md#ent-person-charlie-kirk-t-00-52-35)**
+> ".... He was out there: 'Oh, hey, Charlie. Oh, I'm sick. Hey, nice to see you visit.' Charl..."
+
+**[00:53:00](/episodes/ep-cZxHqYsWRYg.md#ent-person-charlie-kirk-t-00-52-35)**
+> "...he's at the factory. Charlie (Charlie Kirk) was a good kid. He's a good kid. Charlie (Charli..."
+
+**[00:53:43](/episodes/ep-cZxHqYsWRYg.md#ent-person-charlie-kirk-t-00-53-43)**
+> "...years before she met Charlie (Charlie Kirk)."
+
+**[00:55:09](/episodes/ep-cZxHqYsWRYg.md#ent-person-charlie-kirk-t-00-55-09)**
+> "...blessed with, like a Charlie (Charlie Kirk), you have to be the type of woman that will attr..."
+
+**[00:55:59](/episodes/ep-cZxHqYsWRYg.md#ent-person-charlie-kirk-t-00-55-34)**
+> "he had to blanket Charlie (Charlie Kirk) as a job interview. Because if that went in—no j..."
+
+**[00:57:09](/episodes/ep-cZxHqYsWRYg.md#ent-person-charlie-kirk-t-00-57-02)**
+> "...onderful person like Charlie (Charlie Kirk). I did the 20s hard in New York City."
+
+**[00:57:29](/episodes/ep-cZxHqYsWRYg.md#ent-person-charlie-kirk-t-00-57-02)**
+> "... I needed, which was Charlie (Charlie Kirk), and Tyler (Tyler Bowyer) knew that I would have..."
+
+**[00:57:41](/episodes/ep-cZxHqYsWRYg.md#ent-person-charlie-kirk-t-00-57-41)**
+> "...bly everything about Charlie (Charlie Kirk). Just like people say that Lori (Lori Frantzve) ..."
+
+**[00:58:13](/episodes/ep-cZxHqYsWRYg.md#ent-person-charlie-kirk-t-00-57-41)**
+> "...er relationship with Charlie (Charlie Kirk)."
+
+**[00:58:21](/episodes/ep-cZxHqYsWRYg.md#ent-person-charlie-kirk-t-00-58-21)**
+> "Charlie (Charlie Kirk)—Erika (Erika Kirk) had multiple boyfriends. She ..."
+
+**[01:02:38](/episodes/ep-cZxHqYsWRYg.md#ent-person-charlie-kirk-t-01-02-24)**
+> "...joying this Bride of Charlie (Charlie Kirk) series."
+
+**[01:04:16](/episodes/ep-cZxHqYsWRYg.md#ent-person-charlie-kirk-t-01-04-16)**
+> "...hey they really peaked at the charlie kirk assassination and trying to shame us into wanting..."
+
+**[01:06:30](/episodes/ep-cZxHqYsWRYg.md#ent-person-charlie-kirk-t-01-06-30)**
+> "..., Nicole writes: 'I just miss Charlie as an audience member. After the years of listeni..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (16 mentions)</summary>
+
+**[00:01:33](/episodes/ep-1IY2oD-_xVA.md#ent-person-charlie-kirk-t-00-01-09)**
+> "So welcome back. to bride of Charlie (Charlie Kirk)."
+
+**[00:07:28](/episodes/ep-1IY2oD-_xVA.md#ent-person-charlie-kirk-t-00-07-13)**
+> "...geniuses which do exist, like Charlie Kirk."
+
+**[00:08:39](/episodes/ep-1IY2oD-_xVA.md#ent-person-charlie-kirk-t-00-08-39)**
+> "...to have us all watch Charlie (Charlie Kirk)'s execution?"
+
+**[00:09:19](/episodes/ep-1IY2oD-_xVA.md#ent-person-charlie-kirk-t-00-09-19)**
+> "...d her speaking about Charlie (Charlie Kirk) and."
+
+**[00:09:30](/episodes/ep-1IY2oD-_xVA.md#ent-person-charlie-kirk-t-00-09-19)**
+> "...d her speaking about Charlie (Charlie Kirk) and never is emotion coming up which is like yea..."
+
+**[00:20:57](/episodes/ep-1IY2oD-_xVA.md#ent-person-charlie-kirk-t-00-20-39)**
+> "...I'm looking into the Charlie (Charlie Kirk) Egyptian planes and I'm like, what's going on in..."
+
+**[00:44:44](/episodes/ep-1IY2oD-_xVA.md#ent-person-charlie-kirk-t-00-44-37)**
+> "...he introduced her to Charlie (Charlie Kirk)."
+
+**[00:45:02](/episodes/ep-1IY2oD-_xVA.md#ent-person-charlie-kirk-t-00-44-37)**
+> "...omebody very much in Charlie (Charlie Kirk)'s life who said, had reached out to me and said ..."
+
+**[00:45:19](/episodes/ep-1IY2oD-_xVA.md#ent-person-charlie-kirk-t-00-45-19)**
+> "...son definitely knows Charlie (Charlie Kirk) he knows Erika (Erika Kirk) and you know is ther..."
+
+**[00:46:58](/episodes/ep-1IY2oD-_xVA.md#ent-person-charlie-kirk-t-00-46-31)**
+> "...rsion of events that Charlie (Charlie Kirk) established Doge seven days before he died becau..."
+
+**[00:53:18](/episodes/ep-1IY2oD-_xVA.md#ent-person-charlie-kirk-t-00-53-18)**
+> "...dea they were beyond Charlie (Charlie Kirk) writes we all feel what is happening instinctive..."
+
+**[00:54:58](/episodes/ep-1IY2oD-_xVA.md#ent-person-charlie-kirk-t-00-54-22)**
+> "... guy that introduced Charlie (Charlie Kirk) to everybody, including Erika (Erika Kirk)."
+
+**[00:55:38](/episodes/ep-1IY2oD-_xVA.md#ent-person-charlie-kirk-t-00-55-38)**
+> "...that were pressuring Charlie (Charlie Kirk) she's like give them main stage main stage These..."
+
+**[00:56:04](/episodes/ep-1IY2oD-_xVA.md#ent-person-charlie-kirk-t-00-55-38)**
+> "My allies are Charlie (Charlie Kirk)'s enemies. I don't know. None of that's normal. ..."
+
+**[01:00:47](/episodes/ep-1IY2oD-_xVA.md#ent-person-charlie-kirk-t-01-00-27)**
+> "...dismiss me I mean at Charlie (Charlie Kirk)'s real funeral they're on the phone with the doc..."
+
+**[01:01:06](/episodes/ep-1IY2oD-_xVA.md#ent-person-charlie-kirk-t-01-01-06)**
+> "... masses believe that Charlie (Charlie Kirk) had like a superman neck on the day that that th..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (22 mentions)</summary>
+
+**[00:01:02](/episodes/ep-ZAsV0fHGBiM.md#ent-person-charlie-kirk-t-00-00-45)**
+> "...t messages reminding you that Charlie Kirk,"
+
+**[00:01:11](/episodes/ep-ZAsV0fHGBiM.md#ent-person-charlie-kirk-t-00-00-45)**
+> "...ed that that was her Charlie (Charlie Kirk)."
+
+**[00:01:14](/episodes/ep-ZAsV0fHGBiM.md#ent-person-charlie-kirk-t-00-00-45)**
+> "My Charlie (Charlie Kirk) needs your help. Here's how you can give us your..."
+
+**[00:02:33](/episodes/ep-ZAsV0fHGBiM.md#ent-person-charlie-kirk-t-00-02-13)**
+> "...t you are destroying Charlie (Charlie Kirk)'s legacy."
+
+**[00:03:50](/episodes/ep-ZAsV0fHGBiM.md#ent-person-charlie-kirk-t-00-03-42)**
+> "So welcome to Bride of Charlie."
+
+**[00:08:25](/episodes/ep-ZAsV0fHGBiM.md#ent-person-charlie-kirk-t-00-07-48)**
+> "I would say that Charlie (Charlie Kirk) probably was not her type visually,"
+
+**[00:09:04](/episodes/ep-ZAsV0fHGBiM.md#ent-person-charlie-kirk-t-00-08-32)**
+> "...rk) saw a brand with Charlie (Charlie Kirk)."
+
+**[00:09:05](/episodes/ep-ZAsV0fHGBiM.md#ent-person-charlie-kirk-t-00-08-32)**
+> "She also saw that Charlie (Charlie Kirk) could one day become president of the United Sta..."
+
+**[00:09:09](/episodes/ep-ZAsV0fHGBiM.md#ent-person-charlie-kirk-t-00-08-32)**
+> "Charlie (Charlie Kirk) had the ear of the most powerful segment of any ..."
+
+**[00:09:30](/episodes/ep-ZAsV0fHGBiM.md#ent-person-charlie-kirk-t-00-09-17)**
+> "...role that best suits Charlie (Charlie Kirk)'s world,"
+
+**[00:09:59](/episodes/ep-ZAsV0fHGBiM.md#ent-person-charlie-kirk-t-00-09-17)**
+> "It's obvious that Charlie (Charlie Kirk) listens to her,"
+
+**[00:10:14](/episodes/ep-ZAsV0fHGBiM.md#ent-person-charlie-kirk-t-00-10-00)**
+> "...was going well until Charlie (Charlie Kirk) began making decisions based on conscience rathe..."
+
+**[00:10:40](/episodes/ep-ZAsV0fHGBiM.md#ent-person-charlie-kirk-t-00-10-00)**
+> "and now Charlie (Charlie Kirk) refusing to accept the money that can make him a..."
+
+**[00:16:35](/episodes/ep-ZAsV0fHGBiM.md#ent-person-charlie-kirk-t-00-16-24)**
+> "...ork Times days after Charlie (Charlie Kirk) was publicly assassinated and she confirmed to t..."
+
+**[00:16:48](/episodes/ep-ZAsV0fHGBiM.md#ent-person-charlie-kirk-t-00-16-24)**
+> "About Charlie (Charlie Kirk)'s assassination was the prospect of her now havi..."
+
+**[00:39:53](/episodes/ep-ZAsV0fHGBiM.md#ent-person-charlie-kirk-t-00-39-18)**
+> "...ka Kirk) visits with Charlie (Charlie Kirk),"
+
+**[00:39:55](/episodes/ep-ZAsV0fHGBiM.md#ent-person-charlie-kirk-t-00-39-18)**
+> "...'s in Jerusalem with Charlie (Charlie Kirk),"
+
+**[00:40:44](/episodes/ep-ZAsV0fHGBiM.md#ent-person-charlie-kirk-t-00-40-41)**
+> "...he also claimed that Charlie (Charlie Kirk)'s after Charlie (Charlie Kirk)'s assassination,"
+
+**[00:45:06](/episodes/ep-ZAsV0fHGBiM.md#ent-person-charlie-kirk-t-00-44-39)**
+> "...to the hospital when Charlie (Charlie Kirk) was shot and killed."
+
+**[00:46:49](/episodes/ep-ZAsV0fHGBiM.md#ent-person-charlie-kirk-t-00-46-49)**
+> "...nd I guess as me and Charlie (Charlie Kirk) used to say,"
+
+**[00:59:03](/episodes/ep-ZAsV0fHGBiM.md#ent-person-charlie-kirk-t-00-59-01)**
+> "... didn't accuse her of killing Charlie Kirk."
+
+**[00:59:27](/episodes/ep-ZAsV0fHGBiM.md#ent-person-charlie-kirk-t-00-59-01)**
+> "...hen ish hits the fan charlie (Charlie Kirk) deserves the truth to be found out and we all kn..."
+
+</details>
+
+<details>
+<summary>Coming soon... (3 mentions)</summary>
+
+**[00:00:00](/episodes/ep-LKR94FQ5p3o.md#ent-person-charlie-kirk-t-00-00-00)**
+> "President Trump (Donald J. Trump) says that Kirk (Charlie Kirk) has died after he was shot from a nearby building."
+
+**[00:00:06](/episodes/ep-LKR94FQ5p3o.md#ent-person-charlie-kirk-t-00-00-06)**
+> "The great and even legendary Charlie Kirk is dead."
+
+**[00:01:06](/episodes/ep-LKR94FQ5p3o.md#ent-person-charlie-kirk-t-00-01-02)**
+> "...ied through their teeth about Charlie Kirk."
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (36 mentions)</summary>
@@ -3003,13 +3875,10 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (17 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (16 mentions)</summary>
 
 **[00:01:36](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-00-01-21)**
 > "He asked me specifically if I saw black plastic fragmentation over the floor of Charlie's SUV."
-
-**[00:01:32](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-00-01-21)**
-> "... over the floor of Charlie's (Charlie Kirk's) SUV."
 
 **[00:01:46](/episodes/ep-ewBzjVe3LNQ.md#ent-person-charlie-kirk-t-00-01-21)**
 > "...gh those photos of Charlie's (Charlie Kirk's) SUV, I said to my team that it looked like there..."
@@ -3282,13 +4151,10 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (47 mentions)</summary>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (46 mentions)</summary>
 
 **[00:00:28](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-00-00)**
 > "Do you feel, show of hands, okay, that the answer regarding who killed Charlie (Charlie Kirk) and what happened on September 10th is quote unquote, very clear?"
-
-**[00:00:28](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-00-00)**
-> "...regarding who killed Charlie (Charlie Kirk) and what happened on September 10th is quote unq..."
 
 **[00:03:19](/episodes/ep-6J6lRZPQ4jk.md#ent-person-charlie-kirk-t-00-02-55)**
 > "...aign, it's been nonstop since Charlie was shot."
@@ -3710,10 +4576,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (25 mentions)</summary>
-
-**[00:02:28](/episodes/ep-DqGNvi36ol8.md#ent-person-charlie-kirk-t-00-02-12)**
-> "Charlie Kirks show crashed in rankings to number 94 on Apple podcasts"
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (24 mentions)</summary>
 
 **[00:02:28](/episodes/ep-DqGNvi36ol8.md#ent-person-charlie-kirk-t-00-02-12)**
 > "...r it was announced today that Charlie Kirk's show, which they are continuing and which once up..."
@@ -3912,10 +4775,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (83 mentions)</summary>
-
-**[00:00:25](/episodes/ep-his-JBjlkh8.md#ent-person-charlie-kirk-t-00-00-00)**
-> "after a very long diatribe in which they wildly misrepresent the public and global investigation of Charlie's assassination"
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (82 mentions)</summary>
 
 **[00:00:25](/episodes/ep-his-JBjlkh8.md#ent-person-charlie-kirk-t-00-00-00)**
 > "...ery long diatribe in which they wildly misrepresent the public and global investigation of Charlie (Charlie Kirk)'s assassination, they at long last issued a public invitation or a challenge. I'm not sure what it..."
@@ -9170,10 +10030,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (39 mentions)</summary>
-
-**[00:00:10](/episodes/ep-QZWSsq8ZWzw.md#ent-person-charlie-kirk-t-00-00-01)**
-> "that's what they want to happen with the Charlie Kirk case"
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (38 mentions)</summary>
 
 **[00:00:10](/episodes/ep-QZWSsq8ZWzw.md#ent-person-charlie-kirk-t-00-00-01)**
 > "... to hear that the FBI is FBI-ing. That's what they do. And that's what they want to happen with the Charlie Kirk case. Of course, this was inevitable. I gotta tell you all about that. Also, I wanna open up to you..."
@@ -10217,13 +11074,10 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (67 mentions)</summary>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (66 mentions)</summary>
 
 **[00:00:32](/episodes/ep-q7f8r-THr84.md#ent-person-charlie-kirk-t-00-00-01)**
 > "... the day is. What is happening right now in the world, and what just happened to my friend Charlie (Charlie Kirk), is a battle of sheer evil versus goodness. What do I have for you guys today? Okay, well, first a..."
-
-**[00:00:42](/episodes/ep-q7f8r-THr84.md#ent-person-charlie-kirk-t-00-00-01)**
-> "what just happened to my friend Charlie (Charlie Kirk), is a battle of sheer evil versus goodness"
 
 **[00:01:46](/episodes/ep-q7f8r-THr84.md#ent-person-charlie-kirk-t-00-01-14)**
 > "... to really say nothing at all. And I wanna be clear, I am not done, okay? I'm coming for everybody. Charlie Kirk's death is really just a beginning. So welcome back. Let's start with some major updates regarding ..."
@@ -11011,6 +11865,32 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 </details>
 
+<details>
+<summary>ep-y8lak3CRwDw (7 mentions)</summary>
+
+**[00:00:55](/episodes/ep-y8lak3CRwDw.md#t-00-00-55)**
+> ".... So welcome back to Bride of Charlie."
+
+**[00:33:09](/episodes/ep-y8lak3CRwDw.md#t-00-33-09)**
+> "...had already given a speech at Charlie's memorial and stated that Erika called him and sai..."
+
+**[00:39:31](/episodes/ep-y8lak3CRwDw.md#t-00-39-31)**
+> "...f people who were surrounding Charlie had some proximity, some personal story that they..."
+
+**[00:42:10](/episodes/ep-y8lak3CRwDw.md#t-00-42-10)**
+> "...ame the COO seven days before Charlie was assassinated."
+
+**[00:42:20](/episodes/ep-y8lak3CRwDw.md#t-00-42-20)**
+> "... that, that Erika was driving Charlie to give Justin Streiff more power."
+
+**[00:45:58](/episodes/ep-y8lak3CRwDw.md#t-00-45-58)**
+> "...st friends, closest people to Charlie Kirk. Never mind the fact that they're quite literally..."
+
+**[00:50:07](/episodes/ep-y8lak3CRwDw.md#t-00-50-07)**
+> "...his series into how Erika met Charlie, right?"
+
+</details>
+
 </details>
 
 <details open>
@@ -11020,7 +11900,11 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Ceo Of (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:01:22](/episodes/ep-YFmRH8p5lt0.md#t-00-00-49): "the Turning Point USA organization that he was running"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:01:22](/episodes/ep-YFmRH8p5lt0.md#t-00-00-49): “the Turning Point USA organization that he was running”
+
+</details>
 
 </details>
 
@@ -11028,20 +11912,40 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Appeared With (5)</summary>
 
 - **[Foster Friess](/entities/person-foster-friess.md)**
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:00:27](/episodes/ep-c5BcKF91iec.md#t-00-00-00): "And the last time I went to Wyoming, I was with Charlie Kirk. He was the last person I visited with, and it was for, ironically, Foster Friess's funeral—who was a big-time donor to Turning Point USA, still is, I believe."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:00:27](/episodes/ep-c5BcKF91iec.md#t-00-00-00): “And the last time I went to Wyoming, I was with Charlie Kirk. He was the last person I visited with, and it was for, ironically, Foster Friess's funeral—who was a big-time donor to Turning Point USA, still is, I believe.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:09](/episodes/ep-yAIb-NuUh_U.md#t-00-00-01): "throwback clip from Charlie Kirk and me back when I had a show on PragerU"
-  - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:12:21](/episodes/ep-hWTdXHGQ8R4.md#t-00-11-50): "Has Charlie (Charlie Kirk) never been to UVU before? ... No, he has actually been with me. ... I've done UVU with him."
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:09](/episodes/ep-yAIb-NuUh_U.md#t-00-00-01): “throwback clip from Charlie Kirk and me back when I had a show on PragerU”
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:12:21](/episodes/ep-hWTdXHGQ8R4.md#t-00-11-50): “Has Charlie (Charlie Kirk) never been to UVU before? ... No, he has actually been with me. ... I've done UVU with him.”
+
+</details>
 
 - **[Frank Turek](/entities/person-frank-turek.md)**
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:14:13](/episodes/ep-c5BcKF91iec.md#t-00-14-02): "He pointed out that like the only person who was acting right was Frank Turek. Like, the first thing you do is get down, right? Because you don't know if there's going to be another shot."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:14:13](/episodes/ep-c5BcKF91iec.md#t-00-14-02): “He pointed out that like the only person who was acting right was Frank Turek. Like, the first thing you do is get down, right? Because you don't know if there's going to be another shot.”
+
+</details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:09:24](/episodes/ep-sreYYcID-QY.md#t-00-08-58): "It was Tucker because Tucker went to Amfest"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:09:24](/episodes/ep-sreYYcID-QY.md#t-00-08-58): “It was Tucker because Tucker went to Amfest”
+
+</details>
 
 - **[Seth Dillon](/entities/person-seth-dillon.md)**
-  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:30:39](/episodes/ep-es7PWdFGoFI.md#t-00-30-07): "Seth Dillon definitively pressed Charlie at this event."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:30:39](/episodes/ep-es7PWdFGoFI.md#t-00-30-07): “Seth Dillon definitively pressed Charlie at this event.”
+
+</details>
 
 </details>
 
@@ -11049,15 +11953,27 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Close Associate Of (3)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)**
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:00:05](/episodes/ep-581dILVcEE4.md#t-00-00-00): ".... Rob McCoy, America's pastor. Remember, Charlie (Charlie Kirk) told him. Charlie (Charlie Kirk) told me I was America's pastor. Well, it sure as heck seems that ..."
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:03:51](/episodes/ep-581dILVcEE4.md#t-00-03-33): "...y Tuesday. Rob McCoy, America's pastor. Remember, Charlie (Charlie Kirk) told him. Charlie (Charlie Kirk) told me I was America's pastor. Well, it sure as heck seems that this ..."
-  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:15:52](/episodes/ep-MUA9ebCF4Ow.md#t-00-15-12): "...d us these lies. The amazing, heroic, magnificent Mikey McCoy had blood all over him. That's a lie, told by Pastor Rob McCoy. Charlie (Charlie Kirk) was a commit..."
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:00:05](/episodes/ep-581dILVcEE4.md#t-00-00-00): “.... Rob McCoy, America's pastor. Remember, Charlie (Charlie Kirk) told him. Charlie (Charlie Kirk) told me I was America's pastor. Well, it sure as heck seems that ...”
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:03:51](/episodes/ep-581dILVcEE4.md#t-00-03-33): “...y Tuesday. Rob McCoy, America's pastor. Remember, Charlie (Charlie Kirk) told him. Charlie (Charlie Kirk) told me I was America's pastor. Well, it sure as heck seems that this ...”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:15:52](/episodes/ep-MUA9ebCF4Ow.md#t-00-15-12): “...d us these lies. The amazing, heroic, magnificent Mikey McCoy had blood all over him. That's a lie, told by Pastor Rob McCoy. Charlie (Charlie Kirk) was a commit...”
+
+</details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
-  - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:00:48](/episodes/ep-UBkFkg4UNY8.md#t-00-00-32): "Andrew Kolvet, the PR agent, close friend of Charlie, who sat down with Alex Clark to answer questions"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:00:48](/episodes/ep-UBkFkg4UNY8.md#t-00-00-32): “Andrew Kolvet, the PR agent, close friend of Charlie, who sat down with Alex Clark to answer questions”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:32:04](/episodes/ep-UBkFkg4UNY8.md#t-00-31-25): "We were like brother and sister. It's said in humor and in jest."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:32:04](/episodes/ep-UBkFkg4UNY8.md#t-00-31-25): “We were like brother and sister. It's said in humor and in jest.”
+
+</details>
 
 </details>
 
@@ -11065,9 +11981,13 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Contributor To (1)</summary>
 
 - **[PragerU](/entities/org-prageru.md)**
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:03](/episodes/ep-yAIb-NuUh_U.md#t-00-00-01): "...omebody sent me this throwback clip from Charlie (Charlie Kirk) and me back when I had a show on PragerU. We were discussing the kind of allies that you need when..."
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#t-00-47-39): "...er that's The Daily Wire, whether that's PragerU, Charlie Kirk (Charlie Kirk), Steven Crowder. I don't know what's going on even in this room, but it's not like w..."
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:01:46](/episodes/ep-yAIb-NuUh_U.md#t-00-01-23): "...ay. Now somebody sent me this throwback clip from Charlie (Charlie Kirk) and me back when I had a show on PragerU. We were discussing the kind of allies that you need when bull..."
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:03](/episodes/ep-yAIb-NuUh_U.md#t-00-00-01): “...omebody sent me this throwback clip from Charlie (Charlie Kirk) and me back when I had a show on PragerU. We were discussing the kind of allies that you need when...”
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#t-00-47-39): “...er that's The Daily Wire, whether that's PragerU, Charlie Kirk (Charlie Kirk), Steven Crowder. I don't know what's going on even in this room, but it's not like w...”
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:01:46](/episodes/ep-yAIb-NuUh_U.md#t-00-01-23): “...ay. Now somebody sent me this throwback clip from Charlie (Charlie Kirk) and me back when I had a show on PragerU. We were discussing the kind of allies that you need when bull...”
+
+</details>
 
 </details>
 
@@ -11075,14 +11995,27 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Criticized (3)</summary>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:25](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52): "He felt that Benjamin Netanyahu (Benjamin Netanyahu) was a very destructive force."
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:19](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52): "He did not like Benjamin Netanyahu and he said that to me many times and he said that to people around him many times."
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:25](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52): “He felt that Benjamin Netanyahu (Benjamin Netanyahu) was a very destructive force.”
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:19](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52): “He did not like Benjamin Netanyahu and he said that to me many times and he said that to people around him many times.”
+
+</details>
 
 - **[Lindsey Graham](/entities/person-lindsey-graham.md)**
-  - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:04:53](/episodes/ep-ZZGWo6oDscc.md#t-00-04-53): "On one side is the Lindsey Graham, John Bolton types, where they are actively calling for regime change. Here is Lindsey Graham. This is just lunacy."
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:04:53](/episodes/ep-ZZGWo6oDscc.md#t-00-04-53): “On one side is the Lindsey Graham, John Bolton types, where they are actively calling for regime change. Here is Lindsey Graham. This is just lunacy.”
+- [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:04:43](/episodes/ep-jTj9Ip46r4w.md#t-00-04-11): “Lindsey Graham is so consistently out of his mind, it's hard to even comprehend. I honestly don't think the neoconservative extreme needs to be represented philosophically anymore.”
+
+</details>
 
 - **[John Bolton](/entities/person-john-bolton.md)**
-  - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:04:53](/episodes/ep-ZZGWo6oDscc.md#t-00-04-53): "Let's do some updates about Israel and Iran and potentially the United States. On one side is the Lindsey Graham, John Bolton types, where they are actively calling for regime change. Here is Lindsey Graham. This is just lunacy."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:04:53](/episodes/ep-ZZGWo6oDscc.md#t-00-04-53): “Let's do some updates about Israel and Iran and potentially the United States. On one side is the Lindsey Graham, John Bolton types, where they are actively calling for regime change. Here is Lindsey Graham. This is just lunacy.”
+
+</details>
 
 </details>
 
@@ -11090,28 +12023,60 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Criticized By (8)</summary>
 
 - **[American Jewish Committee](/entities/org-american-jewish-committee.md)**
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:46:08](/episodes/ep-2WEHTk0Xewg.md#t-00-46-02): "The American Jewish Committee called—in a statement—Charlie (Charlie Kirk) an anti-Semite and quote "dangerous.""
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:46:08](/episodes/ep-2WEHTk0Xewg.md#t-00-46-02): “The American Jewish Committee called—in a statement—Charlie (Charlie Kirk) an anti-Semite and quote "dangerous."”
+
+</details>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)**
-  - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:15:05](/episodes/ep-q7f8r-THr84.md#t-00-14-45): "In one conversation before the shooting, Robinson mentioned that Charlie Kirk would be holding this event at UVU, which Robinson said was a stupid venue for the event. Robinson accused Kirk of spreading hate."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:15:05](/episodes/ep-q7f8r-THr84.md#t-00-14-45): “In one conversation before the shooting, Robinson mentioned that Charlie Kirk would be holding this event at UVU, which Robinson said was a stupid venue for the event. Robinson accused Kirk of spreading hate.”
+
+</details>
 
 - **[Anti-Defamation League](/entities/org-anti-defamation-league.md)**
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): "they had listed Charlie Kirk and his organization, TPUSA, to be extremist."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): “they had listed Charlie Kirk and his organization, TPUSA, to be extremist.”
+
+</details>
 
 - **[Seth Dillon](/entities/person-seth-dillon.md)**
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58): "What I also don't like are the people like Josh Hammer and Seth Dillon, people that I know who are very nasty and work behind the scenes. I don't like that they have not yet been honest or forthcoming about the pressure that they and others were putting on Charlie (Charlie Kirk)."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58): “What I also don't like are the people like Josh Hammer and Seth Dillon, people that I know who are very nasty and work behind the scenes. I don't like that they have not yet been honest or forthcoming about the pressure that they and others were putting on Charlie (Charlie Kirk).”
+
+</details>
 
 - **[Josh Hammer](/entities/person-josh-hammer.md)**
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58): "What I also don't like are the people like Josh Hammer and Seth Dillon, people that I know who are very nasty and work behind the scenes. I don't like that they have not yet been honest or forthcoming about the pressure that they and others were putting on Charlie (Charlie Kirk)."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58): “What I also don't like are the people like Josh Hammer and Seth Dillon, people that I know who are very nasty and work behind the scenes. I don't like that they have not yet been honest or forthcoming about the pressure that they and others were putting on Charlie (Charlie Kirk).”
+
+</details>
 
 - **[Bill Ackman](/entities/person-bill-ackman.md)**
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:50](/episodes/ep-K5GjF53bfN4.md#t-00-02-40): "And of course, who could forget the word length of Bill Ackman's reply. I tell you guys about this weekend in the Hamptons...And Bill Ackman replies with an essay."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:50](/episodes/ep-K5GjF53bfN4.md#t-00-02-40): “And of course, who could forget the word length of Bill Ackman's reply. I tell you guys about this weekend in the Hamptons...And Bill Ackman replies with an essay.”
+
+</details>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:01](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52): "Benjamin Netanyahu trying to spin this... Tucker completely shredded that narrative... Netanyahu lied so quickly"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- **[The New York Times](/entities/org-new-york-times.md)**
-  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:07:04](/episodes/ep-A39g5oqB_eM.md#t-00-06-30): "But the publication that hated Charlie (Charlie Kirk) the entire time he was alive, ... New York Times was constantly writing pieces about Charlie Kirk or pieces that just were not kind or favorable to Charlie Kirk."
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:01](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52): “Benjamin Netanyahu trying to spin this... Tucker completely shredded that narrative... Netanyahu lied so quickly”
+
+</details>
+
+- **[The New York Times](/entities/org-the-new-york-times.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:07:04](/episodes/ep-A39g5oqB_eM.md#t-00-06-30): “But the publication that hated Charlie (Charlie Kirk) the entire time he was alive, ... New York Times was constantly writing pieces about Charlie Kirk or pieces that just were not kind or favorable to Charlie Kirk.”
+
+</details>
 
 </details>
 
@@ -11119,11 +12084,19 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Debated (2)</summary>
 
 - **[Michael Knowles](/entities/person-michael-knowles.md)**
-  - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:11:23](/episodes/ep-ozWJz2spBcI.md#t-00-11-19): "him debating with Michael Knowles"
-  - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:34:06](/episodes/ep-UBkFkg4UNY8.md#t-00-33-23): "You can go check the videos out—him debating with Michael Knowles, you know, in good fun."
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:11:23](/episodes/ep-ozWJz2spBcI.md#t-00-11-19): “him debating with Michael Knowles”
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:34:06](/episodes/ep-UBkFkg4UNY8.md#t-00-33-23): “You can go check the videos out—him debating with Michael Knowles, you know, in good fun.”
+
+</details>
 
 - **[Ben Carollo](/entities/person-ben-carollo.md)**
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:32:21](/episodes/ep-NIEbqsLAK8g.md#t-00-32-01): "Then somebody emailed me an interesting video of Charlie Kirk, and apparently he disagrees with that new assessment. This is a video of Charlie debating someone named Ben Carollo."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Legal Turning Point? | Candace Ep 292 @ 00:32:21](/episodes/ep-NIEbqsLAK8g.md#t-00-32-01): “Then somebody emailed me an interesting video of Charlie Kirk, and apparently he disagrees with that new assessment. This is a video of Charlie debating someone named Ben Carollo.”
+
+</details>
 
 </details>
 
@@ -11131,9 +12104,28 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Deceased Husband Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-  - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): "but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out."
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:21:14](/episodes/ep-X92MllIHDzw.md#t-00-20-45): "leaving the organization plus carrying forward her late husband's legacy that's directly from the article on Daily Wire Plus."
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:32:51](/episodes/ep-NIEbqsLAK8g.md#t-00-32-51): "my wife lived in China for six months and she'll show you the videos"
+<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
+
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:21:14](/episodes/ep-X92MllIHDzw.md#t-00-20-45): “leaving the organization plus carrying forward her late husband's legacy that's directly from the article on Daily Wire Plus.”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:32:51](/episodes/ep-NIEbqsLAK8g.md#t-00-32-51): “my wife lived in China for six months and she'll show you the videos”
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:35:19](/episodes/ep-gG4ZoYUjUc8.md#t-00-34-39): “uh time to grieve that they take time off what's strange about that is the employees are like maybe you need to take time off because your husband just got publicly they thought it was very strange and apparently she didn't now everyone's saying she was in the office every day with Stacey Sheridan I told you that's like the chief fundraiser lady they're in the office every day following Charlie (Charlie Kirk)'s assassination”
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:12:47](/episodes/ep-A39g5oqB_eM.md#t-00-12-47): “20-hour days for a week during the time of us grieving the loss of my husband and honestly I know several staff that didn't even sleep um again you guys are breathing angels and I'm so grateful for all of you and obviously a huge thank you to the Mosaic team VI you guys are 10 out of 10 like there's we have ... Just lay it to rest and we are moving forward turning point USA 2.0 with Charlie (Charlie Kirk) in our hearts and that's what he would want.”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:17:10](/episodes/ep-QdM9jLwjwLw.md#t-00-16-47): “in the context of Charlie (Charlie Kirk) and how he must be feeling in heaven. ... I'm going to let this play out for five minutes straight and there is no context needed other than this is five and a half days after her husband was publicly assassinated.”
+- [Candace x Bassem Youssef | Candace Ep 298 @ 00:31:37](/episodes/ep-xjzb_t5Tk9o.md#t-00-31-37): “the airport and no more evil muslims will get you and you're like okay what do i have to do to comply with that that's a psychological operation and that's why when we even revealed yesterday you know part of these these erica calls from five days after her husband died and she's appealing to turning point usa”
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:10:13](/episodes/ep-Wjul6YV6izo.md#t-00-10-13): “36 hours after Charlie was assassinated? Maybe it was 48 hours after he was assassinated. Take a listen. ... but my husband's favorite word in the English language was earn.”
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:45:40](/episodes/ep-QRS_hR7NXaQ.md#t-00-45-35): “The top comment from yesterday's episode, by the way, is why is Erika (Erika Kirk) lying to the only person trying to find who killed her husband?”
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:01:11](/episodes/ep-mFuno0TuuQQ.md#t-00-01-11): “I want there to be no hesitation in understanding of what happened to my husband that day. ... you've met with him in the wake of Charlie (Charlie Kirk)'s death.”
+- [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:15:10](/episodes/ep-4YgrOhhy708.md#t-00-14-46): “Erika (Erika Kirk) first addressed the nation, ... and she did this in Charlie (Charlie Kirk)'s studio. ... waiting to see what she was going to say as the widow.”
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:17:02](/episodes/ep-ti5Fxrvegno.md#t-00-16-27): “We can't even get his widow to at least come out and tell the truth about Charlie (Charlie Kirk) shifting positions.”
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:06:17](/episodes/ep-hWTdXHGQ8R4.md#t-00-06-05): “No person in their right mind would go into the home of a grieving widow and move a photo of her and her husband from their wedding day without explicit permission.”
+- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:22:49](/episodes/ep-1hcjQGgvxUY.md#t-00-22-45): “this godly woman happened to have tweeted this right before her husband got assassinated.”
+- [Coming soon... @ 00:00:00](/episodes/ep-LKR94FQ5p3o.md#t-00-00-00): “President Trump (Donald J. Trump) says that Kirk (Charlie Kirk) has died after he was shot from a nearby building. ... The cries of this widow will echo around the world like a battle cry. ... I didn't get to give him a kiss goodbye. ... My husband's dead.”
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:09:04](/episodes/ep-ZAsV0fHGBiM.md#t-00-08-32): “Erica (Erika Kirk) saw a brand with Charlie (Charlie Kirk). ... Her husband died a few days ago...”
+- [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:08:39](/episodes/ep-1IY2oD-_xVA.md#t-00-08-39): “Why did the military choose to have us all watch Charlie (Charlie Kirk)'s execution? ... Erika (Erika Kirk), that was where it was supposed to go. You watched it. She's the widow.”
+- [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:01:52](/episodes/ep-jTj9Ip46r4w.md#t-00-01-21): “So Charlie (Charlie Kirk) was removed and in his place, we got a Shabbat Shalom and not so grieving widow.”
+
+</details>
 
 </details>
 
@@ -11141,16 +12133,32 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Employs (4)</summary>
 
 - **[Brian Harpole](/entities/person-brian-harpole.md)**
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:00](/episodes/ep-581dILVcEE4.md#t-00-23-32): "Brian Harpole is one of Charlie (Charlie Kirk)'s long-term security team members."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:00](/episodes/ep-581dILVcEE4.md#t-00-23-32): “Brian Harpole is one of Charlie (Charlie Kirk)'s long-term security team members.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:30:14](/episodes/ep-YA1FxrDWNIo.md#t-00-30-08): "since I started working for Charlie Kirk."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:30:14](/episodes/ep-YA1FxrDWNIo.md#t-00-30-08): “since I started working for Charlie Kirk.”
+
+</details>
 
 - **[Michael McCoy](/entities/person-mikey-mccoy.md)**
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:04:35](/episodes/ep-his-JBjlkh8.md#t-00-04-17): "She has suggested that Michael McCoy, Charlie Kirk's chief of staff,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:04:35](/episodes/ep-his-JBjlkh8.md#t-00-04-17): “She has suggested that Michael McCoy, Charlie Kirk's chief of staff,”
+
+</details>
 
 - **[Alex Clark](/entities/person-alex-clark.md)**
-  - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:07:54](/episodes/ep-ozWJz2spBcI.md#t-00-07-35): "Her boss, Charlie Kirk, had been shot"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:07:54](/episodes/ep-ozWJz2spBcI.md#t-00-07-35): “Her boss, Charlie Kirk, had been shot”
+
+</details>
 
 </details>
 
@@ -11158,7 +12166,11 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Fired By (1)</summary>
 
 - **[Jerry Prevo](/entities/person-jerry-prevo.md)**
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:10](/episodes/ep-CMcktj3Egfo.md#t-00-26-53): "Is he fires Charlie Kirk and he also moves rather immediately to reinstate none other than the sometimes lurking Johnnie Moore,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:10](/episodes/ep-CMcktj3Egfo.md#t-00-26-53): “Is he fires Charlie Kirk and he also moves rather immediately to reinstate none other than the sometimes lurking Johnnie Moore,”
+
+</details>
 
 </details>
 
@@ -11166,7 +12178,11 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Formerly Employed (1)</summary>
 
 - **[Dan Flood](/entities/person-dan-flood.md)**
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:20:31](/episodes/ep-Kmt6HgRjckU.md#t-00-20-18): "he also messaged Dan Flood, the security that's to his right"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:20:31](/episodes/ep-Kmt6HgRjckU.md#t-00-20-18): “he also messaged Dan Flood, the security that's to his right”
+
+</details>
 
 </details>
 
@@ -11174,16 +12190,43 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Founded (3)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:37:20](/episodes/ep-YaZfwLQ7vrI.md#t-00-36-54): "assassination of its founder, Charlie Kirk"
-  - [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 @ 00:01:44](/episodes/ep-5autG89PW6w.md#t-00-01-22): "Who will succeed Charlie (Charlie Kirk)? Who shall inherit the Turning Point throne?"
-  - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:33:20](/episodes/ep-vwG1juDCQZQ.md#t-00-32-39): "because Charlie Kirk started the organization to disrupt college campuses."
+<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
+
+- [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:37:20](/episodes/ep-YaZfwLQ7vrI.md#t-00-36-54): “assassination of its founder, Charlie Kirk”
+- [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 @ 00:01:44](/episodes/ep-5autG89PW6w.md#t-00-01-22): “Who will succeed Charlie (Charlie Kirk)? Who shall inherit the Turning Point throne?”
+- [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:33:20](/episodes/ep-vwG1juDCQZQ.md#t-00-32-39): “because Charlie Kirk started the organization to disrupt college campuses.”
+- [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:21:15](/episodes/ep-K1tFD7FfoCU.md#t-00-20-31): “Charlie Kirk (Charlie Kirk), the founder of TPUSA”
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:01:48](/episodes/ep-czVBmqZP6Ss.md#t-00-01-09): “the movement my husband built will not die.”
+- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): “Charlie Kirk and his organization, TPUSA”
+- [To My Friend, Charlie Kirk. @ 00:00:54](/episodes/ep-_dRaEO47-co.md#t-00-00-37): “decided not to go to college, started Turning Point USA.”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:43:36](/episodes/ep-sreYYcID-QY.md#t-00-42-55): “they just wanted to take over the company that he had built and turn it into just another outfit of the Mossad.”
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:01:35](/episodes/ep-YFmRH8p5lt0.md#t-00-01-22): “Charlie (Charlie Kirk) was taken out by something much bigger than the Turning Point USA organization that he was running”
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:00:29](/episodes/ep-Kmt6HgRjckU.md#t-00-00-00): “the very organization that Charlie Kirk built”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:40](/episodes/ep-r1PS67aRmcA.md#t-00-00-00): “Charlie Kirk and Turning Point USA”
+- [To My Friend, Charlie Kirk. @ 00:00:54](/episodes/ep-_dRaEO47-co.md#t-00-00-37): “started Turning Point USA”
+- [To My Friend, Charlie Kirk. @ 00:01:03](/episodes/ep-_dRaEO47-co.md#t-00-00-37): “started Turning Point USA”
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:07:35](/episodes/ep-ja26iltROkM.md#t-00-07-29): “I am relieved that Erika Kirk is at the head of Turning Point USA”
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:03:48](/episodes/ep-BKcOm32ZEGk.md#t-00-03-28): “Charlie wanted to go to West Point and then instead started Turning Point USA when he was 18 years old.”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:10:42](/episodes/ep-NIEbqsLAK8g.md#t-00-10-32): “Bill Montgomery, the guy who convinced Charlie to start Turning Point USA in Illinois in the same neighborhood.”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:19:05](/episodes/ep-GY6GWceEqtQ.md#t-00-18-36): “I signed on the dotted line to work beside Charlie Kirk because he built a company that I believed in.”
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:28:41](/episodes/ep-A39g5oqB_eM.md#t-00-27-58): “A month after Montgomery met Kirk, ... the duo launched Turning Point USA.”
+
+</details>
 
 - **[Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)**
-  - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:06:42](/episodes/ep-Qt0VHV-POCg.md#t-00-06-26): "Charlie Kirk founded TPUSA Faith alone." Here it is: "In 2021, Charlie Kirk founded TPUSA Faith..."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:06:42](/episodes/ep-Qt0VHV-POCg.md#t-00-06-26): “Charlie Kirk founded TPUSA Faith alone." Here it is: "In 2021, Charlie Kirk founded TPUSA Faith...”
+
+</details>
 
 - **[Falkirk Center](/entities/org-falkirk-center.md)**
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:08:44](/episodes/ep-wcD2khO3rOA.md#t-00-08-36): "Jerry Falwell Jr. and Charlie Kirk decided to come together to establish the Falkirk Center."
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:17:57](/episodes/ep-CMcktj3Egfo.md#t-00-17-45): "So yeah, they established Jerry Falwell,"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:08:44](/episodes/ep-wcD2khO3rOA.md#t-00-08-36): “Jerry Falwell Jr. and Charlie Kirk decided to come together to establish the Falkirk Center.”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:17:57](/episodes/ep-CMcktj3Egfo.md#t-00-17-45): “So yeah, they established Jerry Falwell,”
+
+</details>
 
 </details>
 
@@ -11191,47 +12234,108 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Friend Of (13)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:11:02](/episodes/ep-K5GjF53bfN4.md#t-00-10-43): "And he's grieving somebody that he knows and who was a very close, if not one of his best friends he saw every day doing the Charlie Kirk (Charlie Kirk) show."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:11:02](/episodes/ep-K5GjF53bfN4.md#t-00-10-43): “And he's grieving somebody that he knows and who was a very close, if not one of his best friends he saw every day doing the Charlie Kirk (Charlie Kirk) show.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:00:21](/episodes/ep-czVBmqZP6Ss.md#t-00-00-00): "Charlie, my friend, is dead."
-  - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:02:53](/episodes/ep-ozWJz2spBcI.md#t-00-02-46): "Charlie Kirk was a friend to Candace and never publicly spoke poorly of her"
-  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:01:43](/episodes/ep-w1oqQbR_bYs.md#t-00-01-18): "We were like brother and sister, always supporting each other publicly"
+<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:00:21](/episodes/ep-czVBmqZP6Ss.md#t-00-00-00): “Charlie, my friend, is dead.”
+- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:02:53](/episodes/ep-ozWJz2spBcI.md#t-00-02-46): “Charlie Kirk was a friend to Candace and never publicly spoke poorly of her”
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:01:43](/episodes/ep-w1oqQbR_bYs.md#t-00-01-18): “We were like brother and sister, always supporting each other publicly”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:31:06](/episodes/ep-zSKrxIUMNqw.md#t-00-30-25): “People like Charlie Kirk, who is my friend,”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:22:22](/episodes/ep-X92MllIHDzw.md#t-00-22-00): “we were just we've just been friends for years, obviously, it's not really that surprising.”
+- [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:38:15](/episodes/ep-9naMwS0kMBE.md#t-00-38-01): “He knew better than anyone that Charlie and I were friends and that we remained friends until the very end.”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:38](/episodes/ep-GY6GWceEqtQ.md#t-01-02-38): “i was charlie's friend not yours”
+- [Candace x Bassem Youssef | Candace Ep 298 @ 00:09:44](/episodes/ep-xjzb_t5Tk9o.md#t-00-09-44): “because during his sit down he brought up two names during our sit down obviously I have no idea what this man was going to say it was not in his letter that he sent me but he looked he looked at the camera and he said and I'd like to call out the people that are saying that this was a hoax and he said Charlie Kirk said something and I'm was always very close Charlie (Charlie Kirk)'s dear friend of mine and he was like Ben Shapiro said something”
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:42:00](/episodes/ep-mFuno0TuuQQ.md#t-00-42-00): “And I got through it and I got through it in large part not because I'm particularly tough, but because I was motivated by true friendship with Charlie (Charlie Kirk).”
+- [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:44:25](/episodes/ep-4YgrOhhy708.md#t-00-44-25): “my relationship with Charlie (Charlie Kirk) was genuine i knew he wasn't his faults were um and he was just like a kid brother”
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:47:47](/episodes/ep-ti5Fxrvegno.md#t-00-47-36): “Everyone also deserves a friend like Charlie (Charlie Kirk). You know, he really had my back through a lot of stuff that, you know, the public will never know.”
+- [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 00:34:18](/episodes/ep-nPhCKwJ6ye8.md#t-00-34-10): “I've obviously had an audience since we've been covering this case. People know that there was a personal friendship between me and Charlie and diminishing the pursuit of something that makes sense regarding what happened on September 10th.”
+
+</details>
 
 - **[Seth Dillon](/entities/person-seth-dillon.md)**
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:13](/episodes/ep-ja26iltROkM.md#t-00-29-48): "I'm going to guess it's either Seth Dillon or Josh Hammer...these messages...a close friend of Charlie Kirk shared these messages"
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:18](/episodes/ep-ja26iltROkM.md#t-00-29-48): "I'm going to guess it's either Seth Dillon or Josh Hammer [as Charlie's close friend who shared the messages]"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:13](/episodes/ep-ja26iltROkM.md#t-00-29-48): “I'm going to guess it's either Seth Dillon or Josh Hammer...these messages...a close friend of Charlie Kirk shared these messages”
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:18](/episodes/ep-ja26iltROkM.md#t-00-29-48): “I'm going to guess it's either Seth Dillon or Josh Hammer [as Charlie's close friend who shared the messages]”
+
+</details>
 
 - **[Josh Hammer](/entities/person-josh-hammer.md)**
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:13](/episodes/ep-ja26iltROkM.md#t-00-29-48): "I'm going to guess it's either Seth Dillon or Josh Hammer...these messages...a close friend of Charlie Kirk shared these messages"
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:18](/episodes/ep-ja26iltROkM.md#t-00-29-48): "I'm going to guess it's either Seth Dillon or Josh Hammer [as Charlie's close friend who shared the messages]"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:13](/episodes/ep-ja26iltROkM.md#t-00-29-48): “I'm going to guess it's either Seth Dillon or Josh Hammer...these messages...a close friend of Charlie Kirk shared these messages”
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:18](/episodes/ep-ja26iltROkM.md#t-00-29-48): “I'm going to guess it's either Seth Dillon or Josh Hammer [as Charlie's close friend who shared the messages]”
+
+</details>
 
 - **[Michael Knowles](/entities/person-michael-knowles.md)**
-  - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:34:06](/episodes/ep-UBkFkg4UNY8.md#t-00-33-23): "You can go check the videos out—him debating with Michael Knowles, you know, in good fun. I mean, they were dear friends, but they loved kind of debating the whole Protestant versus Catholic thing."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:34:06](/episodes/ep-UBkFkg4UNY8.md#t-00-33-23): “You can go check the videos out—him debating with Michael Knowles, you know, in good fun. I mean, they were dear friends, but they loved kind of debating the whole Protestant versus Catholic thing.”
+
+</details>
 
 - **[Kash Patel](/entities/person-kash-patel.md)**
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:49:12](/episodes/ep-YFmRH8p5lt0.md#t-00-48-51): "Kash Patel. Charlie (Charlie Kirk) had him on his show. Kash Patel should be the FBI director. He fought for that. Look how Kash Patel is acting."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:49:12](/episodes/ep-YFmRH8p5lt0.md#t-00-48-51): “Kash Patel. Charlie (Charlie Kirk) had him on his show. Kash Patel should be the FBI director. He fought for that. Look how Kash Patel is acting.”
+
+</details>
 
 - **[Jack Hibbs](/entities/person-jack-hibbs.md)**
-  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:54:40](/episodes/ep-MUA9ebCF4Ow.md#t-00-54-17): "Pastor Hibbs—great friend of Charlie"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:54:40](/episodes/ep-MUA9ebCF4Ow.md#t-00-54-17): “Pastor Hibbs—great friend of Charlie”
+
+</details>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)**
-  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:20](/episodes/ep-r1PS67aRmcA.md#t-00-05-14): "Megyn Kelly, who was actually a very good friend to Charlie Kirk. Charlie Kirk deeply respected her"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:20](/episodes/ep-r1PS67aRmcA.md#t-00-05-14): “Megyn Kelly, who was actually a very good friend to Charlie Kirk. Charlie Kirk deeply respected her”
+
+</details>
 
 - **[Donald Trump Jr.](/entities/person-donald-trump-jr.md)**
-  - [To My Friend, Charlie Kirk. @ 00:08:24](/episodes/ep-_dRaEO47-co.md#t-00-07-52): "Don and Eric got him a gift certificate—I think it was for his birthday—to a fancy suit place"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [To My Friend, Charlie Kirk. @ 00:08:24](/episodes/ep-_dRaEO47-co.md#t-00-07-52): “Don and Eric got him a gift certificate—I think it was for his birthday—to a fancy suit place”
+
+</details>
 
 - **[Eric Trump](/entities/person-eric-trump.md)**
-  - [To My Friend, Charlie Kirk. @ 00:08:24](/episodes/ep-_dRaEO47-co.md#t-00-07-52): "Don and Eric got him a gift certificate—I think it was for his birthday—to a fancy suit place"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [To My Friend, Charlie Kirk. @ 00:08:24](/episodes/ep-_dRaEO47-co.md#t-00-07-52): “Don and Eric got him a gift certificate—I think it was for his birthday—to a fancy suit place”
+
+</details>
 
 - **[Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md)**
-  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:39](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30): "She says she's a good friend to Charlie"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:39](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30): “She says she's a good friend to Charlie”
+
+</details>
 
 - **[Dan Bongino](/entities/person-dan-bongino.md)**
-  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 01:01:17](/episodes/ep-9k2xrAC0H88.md#t-01-01-17): "Charlie Kirk was a friend of Dan Bongino's."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 01:01:17](/episodes/ep-9k2xrAC0H88.md#t-01-01-17): “Charlie Kirk was a friend of Dan Bongino's.”
+
+</details>
 
 - **[John Yep](/entities/person-john-yep.md)**
-  - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:35:48](/episodes/ep-QRS_hR7NXaQ.md#t-00-35-44): "Just 48 hours before my friend Charlie Kirk was shot,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:35:48](/episodes/ep-QRS_hR7NXaQ.md#t-00-35-44): “Just 48 hours before my friend Charlie Kirk was shot,”
+
+</details>
 
 </details>
 
@@ -11239,7 +12343,11 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Funded (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:00:27](/episodes/ep-c5BcKF91iec.md#t-00-00-00): "Charlie, I was thinking out there—remembering [he] paid for my flight to Wyoming."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:00:27](/episodes/ep-c5BcKF91iec.md#t-00-00-00): “Charlie, I was thinking out there—remembering [he] paid for my flight to Wyoming.”
+
+</details>
 
 </details>
 
@@ -11247,8 +12355,12 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Funded By (1)</summary>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:58:02](/episodes/ep-ja26iltROkM.md#t-00-57-53): "I definitively made the statement that Benjamin Netanyahu offered Charlie Kirk a boatload of money, and he rejected it"
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:59:16](/episodes/ep-ja26iltROkM.md#t-00-59-15): "Benjamin Netanyahu offered Charlie Kirk a boatload of money, and he rejected it"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:58:02](/episodes/ep-ja26iltROkM.md#t-00-57-53): “I definitively made the statement that Benjamin Netanyahu offered Charlie Kirk a boatload of money, and he rejected it”
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:59:16](/episodes/ep-ja26iltROkM.md#t-00-59-15): “Benjamin Netanyahu offered Charlie Kirk a boatload of money, and he rejected it”
+
+</details>
 
 </details>
 
@@ -11256,8 +12368,12 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Has Chief Of Staff (1)</summary>
 
 - **[Mikey McCoy](/entities/person-mikey-mccoy.md)**
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:02:11](/episodes/ep-c5BcKF91iec.md#t-00-01-39): "Justin's the chief CFO—chief financial officer—and Mikey's the chief of staff."
-  - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:03:01](/episodes/ep-Qfwr08Ebczo.md#t-00-02-50): "And my husband's chief of staff, the amazing Mikey McCoy"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:02:11](/episodes/ep-c5BcKF91iec.md#t-00-01-39): “Justin's the chief CFO—chief financial officer—and Mikey's the chief of staff.”
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:03:01](/episodes/ep-Qfwr08Ebczo.md#t-00-02-50): “And my husband's chief of staff, the amazing Mikey McCoy”
+
+</details>
 
 </details>
 
@@ -11265,9 +12381,13 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Has Pastor (1)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)**
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:56:56](/episodes/ep-2WEHTk0Xewg.md#t-00-56-12): "Rob McCoy. He wrote: Charlie Kirk was my friend, and I was his pastor"
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:15:08](/episodes/ep-YFmRH8p5lt0.md#t-00-14-58): "He says, 'I was his pastor.'"
-  - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:01:48](/episodes/ep-ozWJz2spBcI.md#t-00-01-27): "He was not attending Pastor Rob McCoy's church"
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:56:56](/episodes/ep-2WEHTk0Xewg.md#t-00-56-12): “Rob McCoy. He wrote: Charlie Kirk was my friend, and I was his pastor”
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:15:08](/episodes/ep-YFmRH8p5lt0.md#t-00-14-58): “He says, 'I was his pastor.'”
+- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:01:48](/episodes/ep-ozWJz2spBcI.md#t-00-01-27): “He was not attending Pastor Rob McCoy's church”
+
+</details>
 
 </details>
 
@@ -11275,8 +12395,12 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Hired (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [To My Friend, Charlie Kirk. @ 00:01:45](/episodes/ep-_dRaEO47-co.md#t-00-01-20): "He hired me on the spot."
-  - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:38:14](/episodes/ep-9naMwS0kMBE.md#t-00-38-01): "He was there when Charlie hired me."
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [To My Friend, Charlie Kirk. @ 00:01:45](/episodes/ep-_dRaEO47-co.md#t-00-01-20): “He hired me on the spot.”
+- [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:38:14](/episodes/ep-9naMwS0kMBE.md#t-00-38-01): “He was there when Charlie hired me.”
+
+</details>
 
 </details>
 
@@ -11284,13 +12408,25 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Interviewed (3)</summary>
 
 - **[Breland Holland](/entities/person-breland-holland.md)**
-  - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:18:45](/episodes/ep-Qt0VHV-POCg.md#t-00-18-22): "Charlie interviewing a fourth grader and he was referring to Breland Holland"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:18:45](/episodes/ep-Qt0VHV-POCg.md#t-00-18-22): “Charlie interviewing a fourth grader and he was referring to Breland Holland”
+
+</details>
 
 - **[Kash Patel](/entities/person-kash-patel.md)**
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:50:32](/episodes/ep-YFmRH8p5lt0.md#t-00-50-18): "Charlie (Charlie Kirk) had him on his show"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:50:32](/episodes/ep-YFmRH8p5lt0.md#t-00-50-18): “Charlie (Charlie Kirk) had him on his show”
+
+</details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-  - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:28:27](/episodes/ep-ti5Fxrvegno.md#t-00-27-56): "And the story that Charlie (Charlie Kirk) was told, the story that I was told, is that Erika (Erika Kirk) and Charlie Kirk fell in love when he was interviewing her for a job with Turning Point USA."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:28:27](/episodes/ep-ti5Fxrvegno.md#t-00-27-56): “And the story that Charlie (Charlie Kirk) was told, the story that I was told, is that Erika (Erika Kirk) and Charlie Kirk fell in love when he was interviewing her for a job with Turning Point USA.”
+
+</details>
 
 </details>
 
@@ -11298,25 +12434,48 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Interviewed By (5)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:04:12](/episodes/ep-r1PS67aRmcA.md#t-00-03-33): "... had a nice conversation on the day that Charlie (Charlie Kirk) died, and Tucker (Tucker Carlson) then sent a nice text because Ben had called him. And I guess Be..."
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:31:58](/episodes/ep-sreYYcID-QY.md#t-00-31-15): "...n Netanyahu (Bibi) murdered Charlie Kirk. Tucker (Tucker Carlson) never said that. Megyn Kelly never said that. Dave Smith never said that. Instead what we are doin..."
-  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:01:06](/episodes/ep-MUA9ebCF4Ow.md#t-00-00-40): "...ce of what Charlie (Charlie Kirk) said to Tucker (Tucker Carlson) backstage at the Student Action Summit in July. We're gonna get to that. Also, do you guys remembe..."
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:04:12](/episodes/ep-r1PS67aRmcA.md#t-00-03-33): “... had a nice conversation on the day that Charlie (Charlie Kirk) died, and Tucker (Tucker Carlson) then sent a nice text because Ben had called him. And I guess Be...”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:31:58](/episodes/ep-sreYYcID-QY.md#t-00-31-15): “...n Netanyahu (Bibi) murdered Charlie Kirk. Tucker (Tucker Carlson) never said that. Megyn Kelly never said that. Dave Smith never said that. Instead what we are doin...”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:01:06](/episodes/ep-MUA9ebCF4Ow.md#t-00-00-40): “...ce of what Charlie (Charlie Kirk) said to Tucker (Tucker Carlson) backstage at the Student Action Summit in July. We're gonna get to that. Also, do you guys remembe...”
+- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:04:26](/episodes/ep-ozWJz2spBcI.md#t-00-04-15): “gratefully, Tucker instantly responded with a much more sensible approach”
+
+</details>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)**
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:31:35](/episodes/ep-SKGUzGHymcI.md#t-00-31-12): "...rlie (Charlie Kirk) into the waiting SUV, he told Megyn Kelly something different about drones on that day. Take a listen. In fact, when we were driving into tha..."
-  - [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 @ 00:27:38](/episodes/ep-QZWSsq8ZWzw.md#t-00-27-09): "...e a pause here. We're gonna get to something that Megyn Kelly shared on her show about a hex that was put on Charlie Kirk—which is important for us to discuss fo..."
-  - [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 @ 00:32:37](/episodes/ep-QZWSsq8ZWzw.md#t-00-32-17): "...e a pause here. We're gonna get to something that Megyn Kelly shared on her show about a hex that was put on Charlie Kirk (Charlie Kirk), which is important for ..."
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:31:35](/episodes/ep-SKGUzGHymcI.md#t-00-31-12): “...rlie (Charlie Kirk) into the waiting SUV, he told Megyn Kelly something different about drones on that day. Take a listen. In fact, when we were driving into tha...”
+- [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 @ 00:27:38](/episodes/ep-QZWSsq8ZWzw.md#t-00-27-09): “...e a pause here. We're gonna get to something that Megyn Kelly shared on her show about a hex that was put on Charlie Kirk—which is important for us to discuss fo...”
+- [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 @ 00:32:37](/episodes/ep-QZWSsq8ZWzw.md#t-00-32-17): “...e a pause here. We're gonna get to something that Megyn Kelly shared on her show about a hex that was put on Charlie Kirk (Charlie Kirk), which is important for ...”
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:11:41](/episodes/ep-czVBmqZP6Ss.md#t-00-11-22): “They were coming after you, after Turning Point...You're not allowed to, though.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:03](/episodes/ep-yAIb-NuUh_U.md#t-00-00-01): "throwback clip from Charlie (Charlie Kirk) and me back when I had a show on PragerU."
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:43:32](/episodes/ep-K5GjF53bfN4.md#t-00-42-54): "Your interview with Charlie Kirk on PragerU showed up on my YouTube algorithm."
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:01:06](/episodes/ep-mKXdKV-OBog.md#t-00-00-43): "that interview that I did with Charlie (Charlie Kirk) back when my show was on PragerU's network"
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:03](/episodes/ep-yAIb-NuUh_U.md#t-00-00-01): “throwback clip from Charlie (Charlie Kirk) and me back when I had a show on PragerU.”
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:43:32](/episodes/ep-K5GjF53bfN4.md#t-00-42-54): “Your interview with Charlie Kirk on PragerU showed up on my YouTube algorithm.”
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:01:06](/episodes/ep-mKXdKV-OBog.md#t-00-00-43): “that interview that I did with Charlie (Charlie Kirk) back when my show was on PragerU's network”
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:43:14](/episodes/ep-K5GjF53bfN4.md#t-00-42-54): “your interview with Charlie Kirk on PragerU”
+
+</details>
 
 - **[Andrew K. Smith](/entities/person-andrew-k-smith.md)**
-  - [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:13:16](/episodes/ep-JQjCAsfoXEE.md#t-00-12-33): "Andrew K. Smith out of nowhere does this "Restaurantology" interview with Charlie Kirk,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:13:16](/episodes/ep-JQjCAsfoXEE.md#t-00-12-33): “Andrew K. Smith out of nowhere does this "Restaurantology" interview with Charlie Kirk,”
+
+</details>
 
 - **[Justus Smith](/entities/person-justus-smith.md)**
-  - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:35:51](/episodes/ep-OEAHy3SsIiI.md#t-00-35-09): "Here is what Charlie (Charlie Kirk) had to say back in October of 2024 regarding the CIA and MKUltra. He is speaking with Justus Smith."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:35:51](/episodes/ep-OEAHy3SsIiI.md#t-00-35-09): “Here is what Charlie (Charlie Kirk) had to say back in October of 2024 regarding the CIA and MKUltra. He is speaking with Justus Smith.”
+
+</details>
 
 </details>
 
@@ -11324,7 +12483,11 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Lives In (1)</summary>
 
 - **[Arizona](/entities/gpe-arizona.md)**
-  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:06:20](/episodes/ep-LATnak75Si0.md#t-00-05-38): "go back home to Arizona"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:06:20](/episodes/ep-LATnak75Si0.md#t-00-05-38): “go back home to Arizona”
+
+</details>
 
 </details>
 
@@ -11332,7 +12495,11 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Mentored By (1)</summary>
 
 - **[Josh Hammer](/entities/person-josh-hammer.md)**
-  - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:06:59](/episodes/ep-ti5Fxrvegno.md#t-00-06-20): "Josh Hammer is brilliant. ... He was a mentor somehow to Charlie (Charlie Kirk) when it came to debating"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:06:59](/episodes/ep-ti5Fxrvegno.md#t-00-06-20): “Josh Hammer is brilliant. ... He was a mentor somehow to Charlie (Charlie Kirk) when it came to debating”
+
+</details>
 
 </details>
 
@@ -11340,38 +12507,80 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Met With (10)</summary>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:07:37](/episodes/ep-czVBmqZP6Ss.md#t-00-07-17): "my son actually, on his 2019 visit to Israel, had lunch with him and his wife Erika."
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:16:54](/episodes/ep-czVBmqZP6Ss.md#t-00-16-28): "It was at this time that Benjamin Netanyahu was called and Charlie was invited to Israel."
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:36:29](/episodes/ep-YFmRH8p5lt0.md#t-00-36-11): "Bibi (Benjamin Netanyahu) rushed—raced out of the gate—to establish Charlie (Charlie Kirk) as like Israel's top goy, and he said probably too much. He said he called him two weeks ago, and he invited him to Israel."
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:07:37](/episodes/ep-czVBmqZP6Ss.md#t-00-07-17): “my son actually, on his 2019 visit to Israel, had lunch with him and his wife Erika.”
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:16:54](/episodes/ep-czVBmqZP6Ss.md#t-00-16-28): “It was at this time that Benjamin Netanyahu was called and Charlie was invited to Israel.”
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:36:29](/episodes/ep-YFmRH8p5lt0.md#t-00-36-11): “Bibi (Benjamin Netanyahu) rushed—raced out of the gate—to establish Charlie (Charlie Kirk) as like Israel's top goy, and he said probably too much. He said he called him two weeks ago, and he invited him to Israel.”
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:59:16](/episodes/ep-ja26iltROkM.md#t-00-59-15): “I definitely made the statement that Benjamin Netanyahu offered Charlie Kirk a boatload of money, and he rejected it”
+- [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:29:20](/episodes/ep-4YgrOhhy708.md#t-00-28-49): “on June 18th, Charlie (Charlie Kirk) goes head to head with the Zionists and Bibi (Benjamin Netanyahu)”
+
+</details>
 
 - **[Seth Dillon](/entities/person-seth-dillon.md)**
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:20:52](/episodes/ep-czVBmqZP6Ss.md#t-00-20-41): "you were present when Ackman lost his mind on Charlie and when Benjamin invited him to Israel"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:20:52](/episodes/ep-czVBmqZP6Ss.md#t-00-20-41): “you were present when Ackman lost his mind on Charlie and when Benjamin invited him to Israel”
+
+</details>
 
 - **[Riverbend Ranch](/entities/org-riverbend-ranch.md)**
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:05:52](/episodes/ep-sreYYcID-QY.md#t-00-05-26): "I actually met the owners of Riverbend Ranch with Charlie."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:05:52](/episodes/ep-sreYYcID-QY.md#t-00-05-26): “I actually met the owners of Riverbend Ranch with Charlie.”
+
+</details>
 
 - **[Bill Ackman](/entities/person-bill-ackman.md)**
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:08:01](/episodes/ep-sreYYcID-QY.md#t-00-07-29): "We can talk about that trip to the Hamptons."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:08:01](/episodes/ep-sreYYcID-QY.md#t-00-07-29): “We can talk about that trip to the Hamptons.”
+
+</details>
 
 - **[Hyun-bo Son](/entities/person-hyun-bo-son.md)**
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:10:25](/episodes/ep-wcD2khO3rOA.md#t-01-10-12): "the late Charlie Kirk, who met Pastor Son in Seoul at a conference."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:10:25](/episodes/ep-wcD2khO3rOA.md#t-01-10-12): “the late Charlie Kirk, who met Pastor Son in Seoul at a conference.”
+
+</details>
 
 - **[Bill Montgomery](/entities/person-bill-montgomery.md)**
-  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:28:41](/episodes/ep-A39g5oqB_eM.md#t-00-27-58): "A month after Montgomery met Kirk,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:28:41](/episodes/ep-A39g5oqB_eM.md#t-00-27-58): “A month after Montgomery met Kirk,”
+
+</details>
 
 - **[Josh Hammer](/entities/person-josh-hammer.md)**
-  - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:39:56](/episodes/ep-CEF7gQRWYCE.md#t-00-39-33): "which would have been 554 p.m., 6 o'clock p.m., Josh Hammer and this rabbi that literally is based in Israel have a Zoom call with Charlie."
-  - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:23:21](/episodes/ep-DYD_QHMPwqM.md#t-00-23-11): "Charlie (Charlie Kirk) texted both Andrew Kolvet and Dan Flood ... after he then had to have this call with a rabbi ... while the rabbi was in Israel and Josh Hammer"
-  - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:07:51](/episodes/ep-ti5Fxrvegno.md#t-00-07-26): "Charlie (Charlie Kirk) concludes this call with Josh (Josh Hammer) and the rabbi"
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:39:56](/episodes/ep-CEF7gQRWYCE.md#t-00-39-33): “which would have been 554 p.m., 6 o'clock p.m., Josh Hammer and this rabbi that literally is based in Israel have a Zoom call with Charlie.”
+- [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:23:21](/episodes/ep-DYD_QHMPwqM.md#t-00-23-11): “Charlie (Charlie Kirk) texted both Andrew Kolvet and Dan Flood ... after he then had to have this call with a rabbi ... while the rabbi was in Israel and Josh Hammer”
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:07:51](/episodes/ep-ti5Fxrvegno.md#t-00-07-26): “Charlie (Charlie Kirk) concludes this call with Josh (Josh Hammer) and the rabbi”
+
+</details>
 
 - **[Frank Turek](/entities/person-frank-turek.md)**
-  - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:46:29](/episodes/ep-CEF7gQRWYCE.md#t-00-46-11): "And per Frank, and I'm going to listen to what Frank Turek says here. He says that he went on a walk with Charlie this day at 8 o'clock p.m. He says that earlier in the day he had been with Charlie, but they then went on this long walk again because he needed advice about how to debate."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:46:29](/episodes/ep-CEF7gQRWYCE.md#t-00-46-11): “And per Frank, and I'm going to listen to what Frank Turek says here. He says that he went on a walk with Charlie this day at 8 o'clock p.m. He says that earlier in the day he had been with Charlie, but they then went on this long walk again because he needed advice about how to debate.”
+
+</details>
 
 - **[Isaac Perlmutter](/entities/person-isaac-perlmutter.md)**
-  - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:05:14](/episodes/ep-mFuno0TuuQQ.md#t-00-04-46): "Charlie (Charlie Kirk) had taken a meeting down in Florida with Ike Perlmutter at Mar-a-Lago. It was a fundraising meeting."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:05:14](/episodes/ep-mFuno0TuuQQ.md#t-00-04-46): “Charlie (Charlie Kirk) had taken a meeting down in Florida with Ike Perlmutter at Mar-a-Lago. It was a fundraising meeting.”
+
+</details>
 
 - **[Pesach Wolicki](/entities/person-pesach-wolicki.md)**
-  - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:06:02](/episodes/ep-ti5Fxrvegno.md#t-00-05-37): "Rabbi Wolicki (Rabbi Pesach Wolicki) lives in Israel. ... he's going to jump on this call with Charlie (Charlie Kirk)"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:06:02](/episodes/ep-ti5Fxrvegno.md#t-00-05-37): “Rabbi Wolicki (Rabbi Pesach Wolicki) lives in Israel. ... he's going to jump on this call with Charlie (Charlie Kirk)”
+
+</details>
 
 </details>
 
@@ -11379,9 +12588,13 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Political Ally Of (1)</summary>
 
 - **[Donald Trump](/entities/person-donald-trump.md)**
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:03:13](/episodes/ep-ZGxnf5cj4Uw.md#t-00-03-03): "...hoosing. I am told that they are fans of Charlie (Charlie Kirk) and they are fans of Donald Trump. Although this source noted that Tyler, like many other conserva..."
-  - [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 00:00:16](/episodes/ep-2Riv3I7D0Yk.md#t-00-00-00): "...nticipated. Because just 16 hours before Charlie (Charlie Kirk) was assassinated, he mysteriously retweeted a 2013 tweet from Donald Trump calling for public exec..."
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:00:19](/episodes/ep-ZGxnf5cj4Uw.md#t-00-00-00): "...f their choosing. I am told that they are fans of Charlie (Charlie Kirk) and they are fans of Donald Trump. Although this source noted that Tyler, like many other conservatives..."
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:03:13](/episodes/ep-ZGxnf5cj4Uw.md#t-00-03-03): “...hoosing. I am told that they are fans of Charlie (Charlie Kirk) and they are fans of Donald Trump. Although this source noted that Tyler, like many other conserva...”
+- [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 00:00:16](/episodes/ep-2Riv3I7D0Yk.md#t-00-00-00): “...nticipated. Because just 16 hours before Charlie (Charlie Kirk) was assassinated, he mysteriously retweeted a 2013 tweet from Donald Trump calling for public exec...”
+- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:00:19](/episodes/ep-ZGxnf5cj4Uw.md#t-00-00-00): “...f their choosing. I am told that they are fans of Charlie (Charlie Kirk) and they are fans of Donald Trump. Although this source noted that Tyler, like many other conservatives...”
+
+</details>
 
 </details>
 
@@ -11389,13 +12602,25 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Spoke At (3)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:21:14](/episodes/ep-BKcOm32ZEGk.md#t-00-21-14): "At the very least, we can all agree it's related to him speaking at a campus event for Turning Point USA."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:21:14](/episodes/ep-BKcOm32ZEGk.md#t-00-21-14): “At the very least, we can all agree it's related to him speaking at a campus event for Turning Point USA.”
+
+</details>
 
 - **[Benedictine University](/entities/org-benedictine-university.md)**
-  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:27:26](/episodes/ep-A39g5oqB_eM.md#t-00-27-17): "conference where a man named Bill Montgomery happened to be in attendance. ... he's in attendance. He's absolutely floored at Benedictine University. ... When Charlie (Charlie Kirk) speaks,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:27:26](/episodes/ep-A39g5oqB_eM.md#t-00-27-17): “conference where a man named Bill Montgomery happened to be in attendance. ... he's in attendance. He's absolutely floored at Benedictine University. ... When Charlie (Charlie Kirk) speaks,”
+
+</details>
 
 - **[Dream City Church](/entities/org-dream-city-church.md)**
-  - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:27:20](/episodes/ep-DYD_QHMPwqM.md#t-00-26-52): "Dream City Church when Charlie (Charlie Kirk) was doing a series of speeches. He would do that weekly at Dream City Church."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:27:20](/episodes/ep-DYD_QHMPwqM.md#t-00-26-52): “Dream City Church when Charlie (Charlie Kirk) was doing a series of speeches. He would do that weekly at Dream City Church.”
+
+</details>
 
 </details>
 
@@ -11403,10 +12628,18 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Supporter Of (2)</summary>
 
 - **[Project Veritas](/entities/org-project-veritas.md)**
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:09:42](/episodes/ep-YFmRH8p5lt0.md#t-00-09-40): "Charlie publicly announces his support for what he perceives—like the rest of the world perceived—was a bit of a hostile takeover"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:09:42](/episodes/ep-YFmRH8p5lt0.md#t-00-09-40): “Charlie publicly announces his support for what he perceives—like the rest of the world perceived—was a bit of a hostile takeover”
+
+</details>
 
 - **[Donald Trump](/entities/person-donald-trump.md)**
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:22:17](/episodes/ep-YFmRH8p5lt0.md#t-00-21-56): "Charlie's (Charlie Kirk's) campus tour is publicly announced."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:22:17](/episodes/ep-YFmRH8p5lt0.md#t-00-21-56): “Charlie's (Charlie Kirk's) campus tour is publicly announced.”
+
+</details>
 
 </details>
 
@@ -11414,13 +12647,25 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Target Of Criticism From (3)</summary>
 
 - **[Seth Dillon](/entities/person-seth-dillon.md)**
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58): "What I also don't like are the people like Josh Hammer and Seth Dillon, people that I know who are very nasty and work behind the scenes. I don't like that they have not yet been honest or forthcoming about the pressure that they and others were putting on Charlie (Charlie Kirk)."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58): “What I also don't like are the people like Josh Hammer and Seth Dillon, people that I know who are very nasty and work behind the scenes. I don't like that they have not yet been honest or forthcoming about the pressure that they and others were putting on Charlie (Charlie Kirk).”
+
+</details>
 
 - **[Josh Hammer](/entities/person-josh-hammer.md)**
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58): "What I also don't like are the people like Josh Hammer and Seth Dillon, people that I know who are very nasty and work behind the scenes. I don't like that they have not yet been honest or forthcoming about the pressure that they and others were putting on Charlie (Charlie Kirk)."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58): “What I also don't like are the people like Josh Hammer and Seth Dillon, people that I know who are very nasty and work behind the scenes. I don't like that they have not yet been honest or forthcoming about the pressure that they and others were putting on Charlie (Charlie Kirk).”
+
+</details>
 
 - **[Bill Ackman](/entities/person-bill-ackman.md)**
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:50](/episodes/ep-K5GjF53bfN4.md#t-00-02-40): "And of course, who could forget the word length of Bill Ackman's reply. I tell you guys about this weekend in the Hamptons...And Bill Ackman replies with an essay."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:50](/episodes/ep-K5GjF53bfN4.md#t-00-02-40): “And of course, who could forget the word length of Bill Ackman's reply. I tell you guys about this weekend in the Hamptons...And Bill Ackman replies with an essay.”
+
+</details>
 
 </details>
 
@@ -11428,7 +12673,11 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Warned (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:01:02](/episodes/ep-sImMM04XdWY.md#t-00-00-39): "Charlie Kirk that called me and told me that they wanted me to stop speaking about Brigitte"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:01:02](/episodes/ep-sImMM04XdWY.md#t-00-00-39): “Charlie Kirk that called me and told me that they wanted me to stop speaking about Brigitte”
+
+</details>
 
 </details>
 
@@ -11436,8 +12685,12 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Warned By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:06:59](/episodes/ep-mFuno0TuuQQ.md#t-00-06-56): "He was naive to what the wrong money could invite into his life. And I warned him."
-  - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:37:16](/episodes/ep-hWTdXHGQ8R4.md#t-00-36-41): "I wish that Charlie Kirk had listened to me because I warned him."
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:06:59](/episodes/ep-mFuno0TuuQQ.md#t-00-06-56): “He was naive to what the wrong money could invite into his life. And I warned him.”
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:37:16](/episodes/ep-hWTdXHGQ8R4.md#t-00-36-41): “I wish that Charlie Kirk had listened to me because I warned him.”
+
+</details>
 
 </details>
 
@@ -11445,7 +12698,11 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Widower Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:00:36](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00): "Charlie's widow"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:00:36](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00): “Charlie's widow”
+
+</details>
 
 </details>
 
@@ -11453,7 +12710,11 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Worked With (1)</summary>
 
 - **[Justin Streiff](/entities/person-justin-streiff.md)**
-  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:21:24](/episodes/ep-A39g5oqB_eM.md#t-00-21-11): "Charlie (Charlie Kirk) was also working on Vision 2030 in the weeks leading up to September 10th and that's and he was working really closely with Justin and that's why Justin had been appointed the role of COO because he was literally I remember phone calls when Charlie (Charlie Kirk) and I would take our night walks and it would be 10 o'clock at night and him and Justin would just be talking about"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:21:24](/episodes/ep-A39g5oqB_eM.md#t-00-21-11): “Charlie (Charlie Kirk) was also working on Vision 2030 in the weeks leading up to September 10th and that's and he was working really closely with Justin and that's why Justin had been appointed the role of COO because he was literally I remember phone calls when Charlie (Charlie Kirk) and I would take our night walks and it would be 10 o'clock at night and him and Justin would just be talking about”
+
+</details>
 
 </details>
 
@@ -11461,8 +12722,12 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Works For (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:11:38](/episodes/ep-czVBmqZP6Ss.md#t-00-11-22): "They were coming after you, after Turning Point, for among other things."
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#t-00-00-01): "a week before Charlie lost his life, he expressed some concerns about the finances at Turning Point USA"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:11:38](/episodes/ep-czVBmqZP6Ss.md#t-00-11-22): “They were coming after you, after Turning Point, for among other things.”
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#t-00-00-01): “a week before Charlie lost his life, he expressed some concerns about the finances at Turning Point USA”
+
+</details>
 
 </details>
 
@@ -11470,295 +12735,727 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <summary>Referenced By (85)</summary>
 
 - **[Frank Turek](/entities/person-frank-turek.md)** appeared with this
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:14:13](/episodes/ep-c5BcKF91iec.md#t-00-14-02)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:14:13](/episodes/ep-c5BcKF91iec.md#t-00-14-02): “He pointed out that like the only person who was acting right was Frank Turek. Like, the first thing you do is get down, right? Because you don't know if there's going to be another shot.”
+
+</details>
 
 - **[Foster Friess](/entities/person-foster-friess.md)** appeared with this
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:00:27](/episodes/ep-c5BcKF91iec.md#t-00-00-00)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:00:27](/episodes/ep-c5BcKF91iec.md#t-00-00-00): “And the last time I went to Wyoming, I was with Charlie Kirk. He was the last person I visited with, and it was for, ironically, Foster Friess's funeral—who was a big-time donor to Turning Point USA, still is, I believe.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** appeared with this
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:09](/episodes/ep-yAIb-NuUh_U.md#t-00-00-01)
-  - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:12:21](/episodes/ep-hWTdXHGQ8R4.md#t-00-11-50)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:09](/episodes/ep-yAIb-NuUh_U.md#t-00-00-01): “throwback clip from Charlie Kirk and me back when I had a show on PragerU”
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:12:21](/episodes/ep-hWTdXHGQ8R4.md#t-00-11-50): “Has Charlie (Charlie Kirk) never been to UVU before? ... No, he has actually been with me. ... I've done UVU with him.”
+
+</details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** appeared with this
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:09:24](/episodes/ep-sreYYcID-QY.md#t-00-08-58)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:09:24](/episodes/ep-sreYYcID-QY.md#t-00-08-58): “It was Tucker because Tucker went to Amfest”
+
+</details>
 
 - **[Seth Dillon](/entities/person-seth-dillon.md)** appeared with this
-  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:30:39](/episodes/ep-es7PWdFGoFI.md#t-00-30-07)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:30:39](/episodes/ep-es7PWdFGoFI.md#t-00-30-07): “Seth Dillon definitively pressed Charlie at this event.”
+
+</details>
 
 - **[Mikey McCoy](/entities/person-mikey-mccoy.md)** chief of staff to this
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:02:11](/episodes/ep-c5BcKF91iec.md#t-00-01-39)
-  - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:03:01](/episodes/ep-Qfwr08Ebczo.md#t-00-02-50)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:02:11](/episodes/ep-c5BcKF91iec.md#t-00-01-39): “Justin's the chief CFO—chief financial officer—and Mikey's the chief of staff.”
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:03:01](/episodes/ep-Qfwr08Ebczo.md#t-00-02-50): “And my husband's chief of staff, the amazing Mikey McCoy”
+
+</details>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** close associate of this
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:00:05](/episodes/ep-581dILVcEE4.md#t-00-00-00)
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:03:51](/episodes/ep-581dILVcEE4.md#t-00-03-33)
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:00:05](/episodes/ep-581dILVcEE4.md#t-00-00-00): “.... Rob McCoy, America's pastor. Remember, Charlie (Charlie Kirk) told him. Charlie (Charlie Kirk) told me I was America's pastor. Well, it sure as heck seems that ...”
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:03:51](/episodes/ep-581dILVcEE4.md#t-00-03-33): “...y Tuesday. Rob McCoy, America's pastor. Remember, Charlie (Charlie Kirk) told him. Charlie (Charlie Kirk) told me I was America's pastor. Well, it sure as heck seems that this ...”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:15:52](/episodes/ep-MUA9ebCF4Ow.md#t-00-15-12): “...d us these lies. The amazing, heroic, magnificent Mikey McCoy had blood all over him. That's a lie, told by Pastor Rob McCoy. Charlie (Charlie Kirk) was a commit...”
+
+</details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** close associate of this
-  - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:00:48](/episodes/ep-UBkFkg4UNY8.md#t-00-00-32)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:00:48](/episodes/ep-UBkFkg4UNY8.md#t-00-00-32): “Andrew Kolvet, the PR agent, close friend of Charlie, who sat down with Alex Clark to answer questions”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** close associate of this
-  - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:32:04](/episodes/ep-UBkFkg4UNY8.md#t-00-31-25)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:32:04](/episodes/ep-UBkFkg4UNY8.md#t-00-31-25): “We were like brother and sister. It's said in humor and in jest.”
+
+</details>
 
 - **[Seth Dillon](/entities/person-seth-dillon.md)** critic of this
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58): “What I also don't like are the people like Josh Hammer and Seth Dillon, people that I know who are very nasty and work behind the scenes. I don't like that they have not yet been honest or forthcoming about the pressure that they and others were putting on Charlie (Charlie Kirk).”
+
+</details>
 
 - **[Josh Hammer](/entities/person-josh-hammer.md)** critic of this
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58): “What I also don't like are the people like Josh Hammer and Seth Dillon, people that I know who are very nasty and work behind the scenes. I don't like that they have not yet been honest or forthcoming about the pressure that they and others were putting on Charlie (Charlie Kirk).”
+
+</details>
 
 - **[Bill Ackman](/entities/person-bill-ackman.md)** critic of this
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:50](/episodes/ep-K5GjF53bfN4.md#t-00-02-40)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:50](/episodes/ep-K5GjF53bfN4.md#t-00-02-40): “And of course, who could forget the word length of Bill Ackman's reply. I tell you guys about this weekend in the Hamptons...And Bill Ackman replies with an essay.”
+
+</details>
 
 - **[American Jewish Committee](/entities/org-american-jewish-committee.md)** criticized this
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:46:08](/episodes/ep-2WEHTk0Xewg.md#t-00-46-02)
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:46:34](/episodes/ep-2WEHTk0Xewg.md#t-00-46-02)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:46:08](/episodes/ep-2WEHTk0Xewg.md#t-00-46-02): “The American Jewish Committee called—in a statement—Charlie (Charlie Kirk) an anti-Semite and quote "dangerous."”
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:46:34](/episodes/ep-2WEHTk0Xewg.md#t-00-46-02): “The American Jewish Committee called Charlie Kirk an anti-Semite and quote dangerous”
+
+</details>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)** criticized this
-  - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:15:05](/episodes/ep-q7f8r-THr84.md#t-00-14-45)
-  - [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:15:08](/episodes/ep-q7f8r-THr84.md#t-00-14-45)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:15:05](/episodes/ep-q7f8r-THr84.md#t-00-14-45): “In one conversation before the shooting, Robinson mentioned that Charlie Kirk would be holding this event at UVU, which Robinson said was a stupid venue for the event. Robinson accused Kirk of spreading hate.”
+- [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 @ 00:15:08](/episodes/ep-q7f8r-THr84.md#t-00-14-45): “Robinson accused Kirk of spreading hate.”
+
+</details>
 
 - **[Anti-Defamation League](/entities/org-anti-defamation-league.md)** criticized this
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): “they had listed Charlie Kirk and his organization, TPUSA, to be extremist.”
+
+</details>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** criticized this
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:01](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:01](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52): “Benjamin Netanyahu trying to spin this... Tucker completely shredded that narrative... Netanyahu lied so quickly”
+
+</details>
 
 - **[Bill Ackman](/entities/person-bill-ackman.md)** criticized this
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:16:01](/episodes/ep-czVBmqZP6Ss.md#t-00-15-45)
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:50](/episodes/ep-K5GjF53bfN4.md#t-00-02-40)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:16:01](/episodes/ep-czVBmqZP6Ss.md#t-00-15-45): “Charlie was surrounded by his friends, quote-unquote friends. Bill Ackman was very upset and threats were made.”
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:50](/episodes/ep-K5GjF53bfN4.md#t-00-02-40): “And of course, who could forget the word length of Bill Ackman's reply. I tell you guys about this weekend in the Hamptons...And Bill Ackman replies with an essay.”
+
+</details>
 
 - **[Seth Dillon](/entities/person-seth-dillon.md)** criticized this
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:36:01](/episodes/ep-YFmRH8p5lt0.md#t-00-35-27)
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:36:01](/episodes/ep-YFmRH8p5lt0.md#t-00-35-27): “People that were there said Seth Dillon was rowdy and pushing Charlie (Charlie Kirk) and his views on Israel.”
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58): “What I also don't like are the people like Josh Hammer and Seth Dillon, people that I know who are very nasty and work behind the scenes. I don't like that they have not yet been honest or forthcoming about the pressure that they and others were putting on Charlie (Charlie Kirk).”
+
+</details>
 
 - **[Josh Hammer](/entities/person-josh-hammer.md)** criticized this
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- **[The New York Times](/entities/org-new-york-times.md)** criticized this
-  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:07:04](/episodes/ep-A39g5oqB_eM.md#t-00-06-30)
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58): “What I also don't like are the people like Josh Hammer and Seth Dillon, people that I know who are very nasty and work behind the scenes. I don't like that they have not yet been honest or forthcoming about the pressure that they and others were putting on Charlie (Charlie Kirk).”
+
+</details>
+
+- **[The New York Times](/entities/org-the-new-york-times.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:07:04](/episodes/ep-A39g5oqB_eM.md#t-00-06-30): “But the publication that hated Charlie (Charlie Kirk) the entire time he was alive, ... New York Times was constantly writing pieces about Charlie Kirk or pieces that just were not kind or favorable to Charlie Kirk.”
+
+</details>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** criticized by this
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:25](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52)
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:19](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:25](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52): “He felt that Benjamin Netanyahu (Benjamin Netanyahu) was a very destructive force.”
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:19](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52): “He did not like Benjamin Netanyahu and he said that to me many times and he said that to people around him many times.”
+
+</details>
 
 - **[Lindsey Graham](/entities/person-lindsey-graham.md)** criticized by this
-  - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:04:53](/episodes/ep-ZZGWo6oDscc.md#t-00-04-53)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:04:53](/episodes/ep-ZZGWo6oDscc.md#t-00-04-53): “On one side is the Lindsey Graham, John Bolton types, where they are actively calling for regime change. Here is Lindsey Graham. This is just lunacy.”
+- [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:04:43](/episodes/ep-jTj9Ip46r4w.md#t-00-04-11): “Lindsey Graham is so consistently out of his mind, it's hard to even comprehend. I honestly don't think the neoconservative extreme needs to be represented philosophically anymore.”
+
+</details>
 
 - **[John Bolton](/entities/person-john-bolton.md)** criticized by this
-  - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:04:53](/episodes/ep-ZZGWo6oDscc.md#t-00-04-53)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:04:53](/episodes/ep-ZZGWo6oDscc.md#t-00-04-53): “Let's do some updates about Israel and Iran and potentially the United States. On one side is the Lindsey Graham, John Bolton types, where they are actively calling for regime change. Here is Lindsey Graham. This is just lunacy.”
+
+</details>
 
 - **[Michael Knowles](/entities/person-michael-knowles.md)** debated this
-  - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:11:23](/episodes/ep-ozWJz2spBcI.md#t-00-11-19)
-  - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:34:06](/episodes/ep-UBkFkg4UNY8.md#t-00-33-23)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:11:23](/episodes/ep-ozWJz2spBcI.md#t-00-11-19): “him debating with Michael Knowles”
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:34:06](/episodes/ep-UBkFkg4UNY8.md#t-00-33-23): “You can go check the videos out—him debating with Michael Knowles, you know, in good fun.”
+
+</details>
 
 - **[Ben Carollo](/entities/person-ben-carollo.md)** debated this
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:32:21](/episodes/ep-NIEbqsLAK8g.md#t-00-32-01)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Legal Turning Point? | Candace Ep 292 @ 00:32:21](/episodes/ep-NIEbqsLAK8g.md#t-00-32-01): “Then somebody emailed me an interesting video of Charlie Kirk, and apparently he disagrees with that new assessment. This is a video of Charlie debating someone named Ben Carollo.”
+
+</details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:11:38](/episodes/ep-czVBmqZP6Ss.md#t-00-11-22)
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#t-00-00-01)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:11:38](/episodes/ep-czVBmqZP6Ss.md#t-00-11-22): “They were coming after you, after Turning Point, for among other things.”
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#t-00-00-01): “a week before Charlie lost his life, he expressed some concerns about the finances at Turning Point USA”
+
+</details>
 
 - **[Jerry Prevo](/entities/person-jerry-prevo.md)** fired this
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:10](/episodes/ep-CMcktj3Egfo.md#t-00-26-53)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:10](/episodes/ep-CMcktj3Egfo.md#t-00-26-53): “Is he fires Charlie Kirk and he also moves rather immediately to reinstate none other than the sometimes lurking Johnnie Moore,”
+
+</details>
 
 - **[Dan Flood](/entities/person-dan-flood.md)** formerly worked for this
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:20:31](/episodes/ep-Kmt6HgRjckU.md#t-00-20-18)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:20:31](/episodes/ep-Kmt6HgRjckU.md#t-00-20-18): “he also messaged Dan Flood, the security that's to his right”
+
+</details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** founded by this
-  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:37:20](/episodes/ep-YaZfwLQ7vrI.md#t-00-36-54)
-  - [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 @ 00:01:44](/episodes/ep-5autG89PW6w.md#t-00-01-22)
+<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
+
+- [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:37:20](/episodes/ep-YaZfwLQ7vrI.md#t-00-36-54): “assassination of its founder, Charlie Kirk”
+- [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 @ 00:01:44](/episodes/ep-5autG89PW6w.md#t-00-01-22): “Who will succeed Charlie (Charlie Kirk)? Who shall inherit the Turning Point throne?”
+- [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:33:20](/episodes/ep-vwG1juDCQZQ.md#t-00-32-39): “because Charlie Kirk started the organization to disrupt college campuses.”
+- [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:21:15](/episodes/ep-K1tFD7FfoCU.md#t-00-20-31): “Charlie Kirk (Charlie Kirk), the founder of TPUSA”
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:01:48](/episodes/ep-czVBmqZP6Ss.md#t-00-01-09): “the movement my husband built will not die.”
+- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): “Charlie Kirk and his organization, TPUSA”
+- [To My Friend, Charlie Kirk. @ 00:00:54](/episodes/ep-_dRaEO47-co.md#t-00-00-37): “decided not to go to college, started Turning Point USA.”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:43:36](/episodes/ep-sreYYcID-QY.md#t-00-42-55): “they just wanted to take over the company that he had built and turn it into just another outfit of the Mossad.”
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:03:48](/episodes/ep-BKcOm32ZEGk.md#t-00-03-28): “Charlie wanted to go to West Point and then instead started Turning Point USA when he was 18 years old.”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:10:42](/episodes/ep-NIEbqsLAK8g.md#t-00-10-32): “Bill Montgomery, the guy who convinced Charlie to start Turning Point USA in Illinois in the same neighborhood.”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:19:05](/episodes/ep-GY6GWceEqtQ.md#t-00-18-36): “I signed on the dotted line to work beside Charlie Kirk because he built a company that I believed in.”
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:28:41](/episodes/ep-A39g5oqB_eM.md#t-00-27-58): “A month after Montgomery met Kirk, ... the duo launched Turning Point USA.”
+
+</details>
 
 - **[Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)** founded by this
-  - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:06:42](/episodes/ep-Qt0VHV-POCg.md#t-00-06-26)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:06:42](/episodes/ep-Qt0VHV-POCg.md#t-00-06-26): “Charlie Kirk founded TPUSA Faith alone." Here it is: "In 2021, Charlie Kirk founded TPUSA Faith...”
+
+</details>
 
 - **[Falkirk Center](/entities/org-falkirk-center.md)** founded by this
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:08:44](/episodes/ep-wcD2khO3rOA.md#t-00-08-36)
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:17:57](/episodes/ep-CMcktj3Egfo.md#t-00-17-45)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:08:44](/episodes/ep-wcD2khO3rOA.md#t-00-08-36): “Jerry Falwell Jr. and Charlie Kirk decided to come together to establish the Falkirk Center.”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:17:57](/episodes/ep-CMcktj3Egfo.md#t-00-17-45): “So yeah, they established Jerry Falwell,”
+
+</details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** friend of this
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:11:02](/episodes/ep-K5GjF53bfN4.md#t-00-10-43)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:11:02](/episodes/ep-K5GjF53bfN4.md#t-00-10-43): “And he's grieving somebody that he knows and who was a very close, if not one of his best friends he saw every day doing the Charlie Kirk (Charlie Kirk) show.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** friend of this
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:00:21](/episodes/ep-czVBmqZP6Ss.md#t-00-00-00)
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:00:10](/episodes/ep-YFmRH8p5lt0.md#t-00-00-00)
+<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:00:21](/episodes/ep-czVBmqZP6Ss.md#t-00-00-00): “Charlie, my friend, is dead.”
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:00:10](/episodes/ep-YFmRH8p5lt0.md#t-00-00-00): “This is real life: the assassination of my friend, Charlie (Charlie Kirk).”
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:00:33](/episodes/ep-ja26iltROkM.md#t-00-00-00): “Charlie and I were in New York for something or another, and he was falling for her hard”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:04:00](/episodes/ep-r1PS67aRmcA.md#t-00-03-33): “Charlie Kirk and I had this friendship”
+- [To My Friend, Charlie Kirk. @ 00:17:33](/episodes/ep-_dRaEO47-co.md#t-00-17-19): “Charlie was my best friend and my brother”
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:02:33](/episodes/ep-ja26iltROkM.md#t-00-02-10): “Charlie and I were in New York for something or another, and he was falling for her hard”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:10:18](/episodes/ep-sreYYcID-QY.md#t-00-09-40): “Charlie and I never—for a single second—stopped being friends.”
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:07:43](/episodes/ep-6J6lRZPQ4jk.md#t-00-07-40): “At one time, a friend of Charlie's.”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:31:06](/episodes/ep-zSKrxIUMNqw.md#t-00-30-25): “People like Charlie Kirk, who is my friend,”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:22:22](/episodes/ep-X92MllIHDzw.md#t-00-22-00): “we were just we've just been friends for years, obviously, it's not really that surprising.”
+- [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:38:15](/episodes/ep-9naMwS0kMBE.md#t-00-38-01): “He knew better than anyone that Charlie and I were friends and that we remained friends until the very end.”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:38](/episodes/ep-GY6GWceEqtQ.md#t-01-02-38): “i was charlie's friend not yours”
+- [Candace x Bassem Youssef | Candace Ep 298 @ 00:09:44](/episodes/ep-xjzb_t5Tk9o.md#t-00-09-44): “because during his sit down he brought up two names during our sit down obviously I have no idea what this man was going to say it was not in his letter that he sent me but he looked he looked at the camera and he said and I'd like to call out the people that are saying that this was a hoax and he said Charlie Kirk said something and I'm was always very close Charlie (Charlie Kirk)'s dear friend of mine and he was like Ben Shapiro said something”
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:42:00](/episodes/ep-mFuno0TuuQQ.md#t-00-42-00): “And I got through it and I got through it in large part not because I'm particularly tough, but because I was motivated by true friendship with Charlie (Charlie Kirk).”
+- [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:44:25](/episodes/ep-4YgrOhhy708.md#t-00-44-25): “my relationship with Charlie (Charlie Kirk) was genuine i knew he wasn't his faults were um and he was just like a kid brother”
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:47:47](/episodes/ep-ti5Fxrvegno.md#t-00-47-36): “Everyone also deserves a friend like Charlie (Charlie Kirk). You know, he really had my back through a lot of stuff that, you know, the public will never know.”
+- [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 00:34:18](/episodes/ep-nPhCKwJ6ye8.md#t-00-34-10): “I've obviously had an audience since we've been covering this case. People know that there was a personal friendship between me and Charlie and diminishing the pursuit of something that makes sense regarding what happened on September 10th.”
+
+</details>
 
 - **[Seth Dillon](/entities/person-seth-dillon.md)** friend of this
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:13](/episodes/ep-ja26iltROkM.md#t-00-29-48)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:13](/episodes/ep-ja26iltROkM.md#t-00-29-48): “I'm going to guess it's either Seth Dillon or Josh Hammer...these messages...a close friend of Charlie Kirk shared these messages”
+
+</details>
 
 - **[Josh Hammer](/entities/person-josh-hammer.md)** friend of this
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:13](/episodes/ep-ja26iltROkM.md#t-00-29-48)
-  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:38](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:13](/episodes/ep-ja26iltROkM.md#t-00-29-48): “I'm going to guess it's either Seth Dillon or Josh Hammer...these messages...a close friend of Charlie Kirk shared these messages”
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:38](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30): “If you are a Christian and you purport to have been a good friend to Charlie”
+
+</details>
 
 - **[Michael Knowles](/entities/person-michael-knowles.md)** friend of this
-  - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:34:06](/episodes/ep-UBkFkg4UNY8.md#t-00-33-23)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:34:06](/episodes/ep-UBkFkg4UNY8.md#t-00-33-23): “You can go check the videos out—him debating with Michael Knowles, you know, in good fun. I mean, they were dear friends, but they loved kind of debating the whole Protestant versus Catholic thing.”
+
+</details>
 
 - **[Kash Patel](/entities/person-kash-patel.md)** friend of this
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:49:12](/episodes/ep-YFmRH8p5lt0.md#t-00-48-51)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:49:12](/episodes/ep-YFmRH8p5lt0.md#t-00-48-51): “Kash Patel. Charlie (Charlie Kirk) had him on his show. Kash Patel should be the FBI director. He fought for that. Look how Kash Patel is acting.”
+
+</details>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)** friend of this
-  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:20](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:20](/episodes/ep-r1PS67aRmcA.md#t-00-05-14): “Megyn Kelly, who was actually a very good friend to Charlie Kirk. Charlie Kirk deeply respected her”
+
+</details>
 
 - **[Jack Hibbs](/entities/person-jack-hibbs.md)** friend of this
-  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:54:40](/episodes/ep-MUA9ebCF4Ow.md#t-00-54-17)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:54:40](/episodes/ep-MUA9ebCF4Ow.md#t-00-54-17): “Pastor Hibbs—great friend of Charlie”
+
+</details>
 
 - **[Donald Trump Jr.](/entities/person-donald-trump-jr.md)** friend of this
-  - [To My Friend, Charlie Kirk. @ 00:08:24](/episodes/ep-_dRaEO47-co.md#t-00-07-52)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [To My Friend, Charlie Kirk. @ 00:08:24](/episodes/ep-_dRaEO47-co.md#t-00-07-52): “Don and Eric got him a gift certificate—I think it was for his birthday—to a fancy suit place”
+
+</details>
 
 - **[Eric Trump](/entities/person-eric-trump.md)** friend of this
-  - [To My Friend, Charlie Kirk. @ 00:08:24](/episodes/ep-_dRaEO47-co.md#t-00-07-52)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [To My Friend, Charlie Kirk. @ 00:08:24](/episodes/ep-_dRaEO47-co.md#t-00-07-52): “Don and Eric got him a gift certificate—I think it was for his birthday—to a fancy suit place”
+
+</details>
 
 - **[Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md)** friend of this
-  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:39](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:39](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30): “She says she's a good friend to Charlie”
+
+</details>
 
 - **[Dan Bongino](/entities/person-dan-bongino.md)** friend of this
-  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 01:01:17](/episodes/ep-9k2xrAC0H88.md#t-01-01-17)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 01:01:17](/episodes/ep-9k2xrAC0H88.md#t-01-01-17): “Charlie Kirk was a friend of Dan Bongino's.”
+
+</details>
 
 - **[John Yep](/entities/person-john-yep.md)** friend of this
-  - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:35:48](/episodes/ep-QRS_hR7NXaQ.md#t-00-35-44)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:35:48](/episodes/ep-QRS_hR7NXaQ.md#t-00-35-44): “Just 48 hours before my friend Charlie Kirk was shot,”
+
+</details>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** funded this
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:58:02](/episodes/ep-ja26iltROkM.md#t-00-57-53)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:58:02](/episodes/ep-ja26iltROkM.md#t-00-57-53): “I definitively made the statement that Benjamin Netanyahu offered Charlie Kirk a boatload of money, and he rejected it”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** funded by this
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:00:27](/episodes/ep-c5BcKF91iec.md#t-00-00-00)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:00:27](/episodes/ep-c5BcKF91iec.md#t-00-00-00): “Charlie, I was thinking out there—remembering [he] paid for my flight to Wyoming.”
+
+</details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** has CEO this
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:01:22](/episodes/ep-YFmRH8p5lt0.md#t-00-00-49)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:01:22](/episodes/ep-YFmRH8p5lt0.md#t-00-00-49): “the Turning Point USA organization that he was running”
+
+</details>
 
 - **[PragerU](/entities/org-prageru.md)** has contributor this
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:03](/episodes/ep-yAIb-NuUh_U.md#t-00-00-01)
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#t-00-47-39)
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:03](/episodes/ep-yAIb-NuUh_U.md#t-00-00-01): “...omebody sent me this throwback clip from Charlie (Charlie Kirk) and me back when I had a show on PragerU. We were discussing the kind of allies that you need when...”
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#t-00-47-39): “...er that's The Daily Wire, whether that's PragerU, Charlie Kirk (Charlie Kirk), Steven Crowder. I don't know what's going on even in this room, but it's not like w...”
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:01:46](/episodes/ep-yAIb-NuUh_U.md#t-00-01-23): “...ay. Now somebody sent me this throwback clip from Charlie (Charlie Kirk) and me back when I had a show on PragerU. We were discussing the kind of allies that you need when bull...”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** hired by this
-  - [To My Friend, Charlie Kirk. @ 00:01:45](/episodes/ep-_dRaEO47-co.md#t-00-01-20)
-  - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:38:14](/episodes/ep-9naMwS0kMBE.md#t-00-38-01)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [To My Friend, Charlie Kirk. @ 00:01:45](/episodes/ep-_dRaEO47-co.md#t-00-01-20): “He hired me on the spot.”
+- [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:38:14](/episodes/ep-9naMwS0kMBE.md#t-00-38-01): “He was there when Charlie hired me.”
+
+</details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** hosted speaker this
-  - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:21:14](/episodes/ep-BKcOm32ZEGk.md#t-00-21-14)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:21:14](/episodes/ep-BKcOm32ZEGk.md#t-00-21-14): “At the very least, we can all agree it's related to him speaking at a campus event for Turning Point USA.”
+
+</details>
 
 - **[Benedictine University](/entities/org-benedictine-university.md)** hosted speaker this
-  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:27:26](/episodes/ep-A39g5oqB_eM.md#t-00-27-17)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:27:26](/episodes/ep-A39g5oqB_eM.md#t-00-27-17): “conference where a man named Bill Montgomery happened to be in attendance. ... he's in attendance. He's absolutely floored at Benedictine University. ... When Charlie (Charlie Kirk) speaks,”
+
+</details>
 
 - **[Dream City Church](/entities/org-dream-city-church.md)** hosted speaker this
-  - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:27:20](/episodes/ep-DYD_QHMPwqM.md#t-00-26-52)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:27:20](/episodes/ep-DYD_QHMPwqM.md#t-00-26-52): “Dream City Church when Charlie (Charlie Kirk) was doing a series of speeches. He would do that weekly at Dream City Church.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed this
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:03](/episodes/ep-yAIb-NuUh_U.md#t-00-00-01)
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:43:32](/episodes/ep-K5GjF53bfN4.md#t-00-42-54)
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:03](/episodes/ep-yAIb-NuUh_U.md#t-00-00-01): “throwback clip from Charlie (Charlie Kirk) and me back when I had a show on PragerU.”
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:43:32](/episodes/ep-K5GjF53bfN4.md#t-00-42-54): “Your interview with Charlie Kirk on PragerU showed up on my YouTube algorithm.”
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:01:06](/episodes/ep-mKXdKV-OBog.md#t-00-00-43): “that interview that I did with Charlie (Charlie Kirk) back when my show was on PragerU's network”
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:43:14](/episodes/ep-K5GjF53bfN4.md#t-00-42-54): “your interview with Charlie Kirk on PragerU”
+
+</details>
 
 - **[Andrew K. Smith](/entities/person-andrew-k-smith.md)** interviewed this
-  - [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:13:16](/episodes/ep-JQjCAsfoXEE.md#t-00-12-33)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:13:16](/episodes/ep-JQjCAsfoXEE.md#t-00-12-33): “Andrew K. Smith out of nowhere does this "Restaurantology" interview with Charlie Kirk,”
+
+</details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** interviewed this
-  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:04:12](/episodes/ep-r1PS67aRmcA.md#t-00-03-33)
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:31:58](/episodes/ep-sreYYcID-QY.md#t-00-31-15)
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:04:12](/episodes/ep-r1PS67aRmcA.md#t-00-03-33): “... had a nice conversation on the day that Charlie (Charlie Kirk) died, and Tucker (Tucker Carlson) then sent a nice text because Ben had called him. And I guess Be...”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:31:58](/episodes/ep-sreYYcID-QY.md#t-00-31-15): “...n Netanyahu (Bibi) murdered Charlie Kirk. Tucker (Tucker Carlson) never said that. Megyn Kelly never said that. Dave Smith never said that. Instead what we are doin...”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:01:06](/episodes/ep-MUA9ebCF4Ow.md#t-00-00-40): “...ce of what Charlie (Charlie Kirk) said to Tucker (Tucker Carlson) backstage at the Student Action Summit in July. We're gonna get to that. Also, do you guys remembe...”
+
+</details>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)** interviewed this
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:31:35](/episodes/ep-SKGUzGHymcI.md#t-00-31-12)
-  - [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 @ 00:27:38](/episodes/ep-QZWSsq8ZWzw.md#t-00-27-09)
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:31:35](/episodes/ep-SKGUzGHymcI.md#t-00-31-12): “...rlie (Charlie Kirk) into the waiting SUV, he told Megyn Kelly something different about drones on that day. Take a listen. In fact, when we were driving into tha...”
+- [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 @ 00:27:38](/episodes/ep-QZWSsq8ZWzw.md#t-00-27-09): “...e a pause here. We're gonna get to something that Megyn Kelly shared on her show about a hex that was put on Charlie Kirk—which is important for us to discuss fo...”
+- [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 @ 00:32:37](/episodes/ep-QZWSsq8ZWzw.md#t-00-32-17): “...e a pause here. We're gonna get to something that Megyn Kelly shared on her show about a hex that was put on Charlie Kirk (Charlie Kirk), which is important for ...”
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:40:03](/episodes/ep-ja26iltROkM.md#t-00-39-59): “as Megyn Kelly said...Charlie was trying to communicate that their tactics”
+
+</details>
 
 - **[Justus Smith](/entities/person-justus-smith.md)** interviewed this
-  - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:35:51](/episodes/ep-OEAHy3SsIiI.md#t-00-35-09)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:35:51](/episodes/ep-OEAHy3SsIiI.md#t-00-35-09): “Here is what Charlie (Charlie Kirk) had to say back in October of 2024 regarding the CIA and MKUltra. He is speaking with Justus Smith.”
+
+</details>
 
 - **[Breland Holland](/entities/person-breland-holland.md)** interviewed by this
-  - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:18:45](/episodes/ep-Qt0VHV-POCg.md#t-00-18-22)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:18:45](/episodes/ep-Qt0VHV-POCg.md#t-00-18-22): “Charlie interviewing a fourth grader and he was referring to Breland Holland”
+
+</details>
 
 - **[Kash Patel](/entities/person-kash-patel.md)** interviewed by this
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:50:32](/episodes/ep-YFmRH8p5lt0.md#t-00-50-18)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:50:32](/episodes/ep-YFmRH8p5lt0.md#t-00-50-18): “Charlie (Charlie Kirk) had him on his show”
+
+</details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** interviewed by this
-  - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:28:27](/episodes/ep-ti5Fxrvegno.md#t-00-27-56)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:28:27](/episodes/ep-ti5Fxrvegno.md#t-00-27-56): “And the story that Charlie (Charlie Kirk) was told, the story that I was told, is that Erika (Erika Kirk) and Charlie Kirk fell in love when he was interviewing her for a job with Turning Point USA.”
+
+</details>
 
 - **[Josh Hammer](/entities/person-josh-hammer.md)** mentored this
-  - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:06:59](/episodes/ep-ti5Fxrvegno.md#t-00-06-20)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:06:59](/episodes/ep-ti5Fxrvegno.md#t-00-06-20): “Josh Hammer is brilliant. ... He was a mentor somehow to Charlie (Charlie Kirk) when it came to debating”
+
+</details>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** met with this
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:07:37](/episodes/ep-czVBmqZP6Ss.md#t-00-07-17)
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:16:54](/episodes/ep-czVBmqZP6Ss.md#t-00-16-28)
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:07:37](/episodes/ep-czVBmqZP6Ss.md#t-00-07-17): “my son actually, on his 2019 visit to Israel, had lunch with him and his wife Erika.”
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:16:54](/episodes/ep-czVBmqZP6Ss.md#t-00-16-28): “It was at this time that Benjamin Netanyahu was called and Charlie was invited to Israel.”
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:36:29](/episodes/ep-YFmRH8p5lt0.md#t-00-36-11): “Bibi (Benjamin Netanyahu) rushed—raced out of the gate—to establish Charlie (Charlie Kirk) as like Israel's top goy, and he said probably too much. He said he called him two weeks ago, and he invited him to Israel.”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:07:13](/episodes/ep-sreYYcID-QY.md#t-00-06-50): “A few weeks before his death, I spoke to Charlie.”
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:32:40](/episodes/ep-es7PWdFGoFI.md#t-00-32-06): “BB Net and Yahoo offered to Fund Turning Point to the next level. And it was part of my frustration”
+- [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:29:20](/episodes/ep-4YgrOhhy708.md#t-00-28-49): “on June 18th, Charlie (Charlie Kirk) goes head to head with the Zionists and Bibi (Benjamin Netanyahu)”
+
+</details>
 
 - **[Seth Dillon](/entities/person-seth-dillon.md)** met with this
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:20:52](/episodes/ep-czVBmqZP6Ss.md#t-00-20-41)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:20:52](/episodes/ep-czVBmqZP6Ss.md#t-00-20-41): “you were present when Ackman lost his mind on Charlie and when Benjamin invited him to Israel”
+
+</details>
 
 - **[Riverbend Ranch](/entities/org-riverbend-ranch.md)** met with this
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:05:52](/episodes/ep-sreYYcID-QY.md#t-00-05-26)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:05:52](/episodes/ep-sreYYcID-QY.md#t-00-05-26): “I actually met the owners of Riverbend Ranch with Charlie.”
+
+</details>
 
 - **[Bill Ackman](/entities/person-bill-ackman.md)** met with this
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:08:01](/episodes/ep-sreYYcID-QY.md#t-00-07-29)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:08:01](/episodes/ep-sreYYcID-QY.md#t-00-07-29): “We can talk about that trip to the Hamptons.”
+
+</details>
 
 - **[Hyun-bo Son](/entities/person-hyun-bo-son.md)** met with this
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:10:25](/episodes/ep-wcD2khO3rOA.md#t-01-10-12)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:10:25](/episodes/ep-wcD2khO3rOA.md#t-01-10-12): “the late Charlie Kirk, who met Pastor Son in Seoul at a conference.”
+
+</details>
 
 - **[Bill Montgomery](/entities/person-bill-montgomery.md)** met with this
-  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:28:41](/episodes/ep-A39g5oqB_eM.md#t-00-27-58)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:28:41](/episodes/ep-A39g5oqB_eM.md#t-00-27-58): “A month after Montgomery met Kirk,”
+
+</details>
 
 - **[Josh Hammer](/entities/person-josh-hammer.md)** met with this
-  - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:39:56](/episodes/ep-CEF7gQRWYCE.md#t-00-39-33)
-  - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:23:21](/episodes/ep-DYD_QHMPwqM.md#t-00-23-11)
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:39:56](/episodes/ep-CEF7gQRWYCE.md#t-00-39-33): “which would have been 554 p.m., 6 o'clock p.m., Josh Hammer and this rabbi that literally is based in Israel have a Zoom call with Charlie.”
+- [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:23:21](/episodes/ep-DYD_QHMPwqM.md#t-00-23-11): “Charlie (Charlie Kirk) texted both Andrew Kolvet and Dan Flood ... after he then had to have this call with a rabbi ... while the rabbi was in Israel and Josh Hammer”
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:07:51](/episodes/ep-ti5Fxrvegno.md#t-00-07-26): “Charlie (Charlie Kirk) concludes this call with Josh (Josh Hammer) and the rabbi”
+
+</details>
 
 - **[Frank Turek](/entities/person-frank-turek.md)** met with this
-  - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:46:29](/episodes/ep-CEF7gQRWYCE.md#t-00-46-11)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:46:29](/episodes/ep-CEF7gQRWYCE.md#t-00-46-11): “And per Frank, and I'm going to listen to what Frank Turek says here. He says that he went on a walk with Charlie this day at 8 o'clock p.m. He says that earlier in the day he had been with Charlie, but they then went on this long walk again because he needed advice about how to debate.”
+
+</details>
 
 - **[Isaac Perlmutter](/entities/person-isaac-perlmutter.md)** met with this
-  - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:05:14](/episodes/ep-mFuno0TuuQQ.md#t-00-04-46)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:05:14](/episodes/ep-mFuno0TuuQQ.md#t-00-04-46): “Charlie (Charlie Kirk) had taken a meeting down in Florida with Ike Perlmutter at Mar-a-Lago. It was a fundraising meeting.”
+
+</details>
 
 - **[Pesach Wolicki](/entities/person-pesach-wolicki.md)** met with this
-  - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:06:02](/episodes/ep-ti5Fxrvegno.md#t-00-05-37)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:06:02](/episodes/ep-ti5Fxrvegno.md#t-00-05-37): “Rabbi Wolicki (Rabbi Pesach Wolicki) lives in Israel. ... he's going to jump on this call with Charlie (Charlie Kirk)”
+
+</details>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** pastor of this
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:56:56](/episodes/ep-2WEHTk0Xewg.md#t-00-56-12)
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:15:08](/episodes/ep-YFmRH8p5lt0.md#t-00-14-58)
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:56:56](/episodes/ep-2WEHTk0Xewg.md#t-00-56-12): “Rob McCoy. He wrote: Charlie Kirk was my friend, and I was his pastor”
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:15:08](/episodes/ep-YFmRH8p5lt0.md#t-00-14-58): “He says, 'I was his pastor.'”
+- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:01:48](/episodes/ep-ozWJz2spBcI.md#t-00-01-27): “He was not attending Pastor Rob McCoy's church”
+
+</details>
 
 - **[Donald Trump](/entities/person-donald-trump.md)** political ally of this
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:03:13](/episodes/ep-ZGxnf5cj4Uw.md#t-00-03-03)
-  - [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 00:00:16](/episodes/ep-2Riv3I7D0Yk.md#t-00-00-00)
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+
+- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:03:13](/episodes/ep-ZGxnf5cj4Uw.md#t-00-03-03): “...hoosing. I am told that they are fans of Charlie (Charlie Kirk) and they are fans of Donald Trump. Although this source noted that Tyler, like many other conserva...”
+- [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 00:00:16](/episodes/ep-2Riv3I7D0Yk.md#t-00-00-00): “...nticipated. Because just 16 hours before Charlie (Charlie Kirk) was assassinated, he mysteriously retweeted a 2013 tweet from Donald Trump calling for public exec...”
+- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:00:19](/episodes/ep-ZGxnf5cj4Uw.md#t-00-00-00): “...f their choosing. I am told that they are fans of Charlie (Charlie Kirk) and they are fans of Donald Trump. Although this source noted that Tyler, like many other conservatives...”
+- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:08:17](/episodes/ep-ozWJz2spBcI.md#t-00-07-35): “I remember feeling angry when Trump moved to kind of do a same-time post”
+
+</details>
 
 - **[Arizona](/entities/gpe-arizona.md)** residence of this
-  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:06:20](/episodes/ep-LATnak75Si0.md#t-00-05-38)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:06:20](/episodes/ep-LATnak75Si0.md#t-00-05-38): “go back home to Arizona”
+
+</details>
 
 - **[Project Veritas](/entities/org-project-veritas.md)** supported by this
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:09:42](/episodes/ep-YFmRH8p5lt0.md#t-00-09-40)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:09:42](/episodes/ep-YFmRH8p5lt0.md#t-00-09-40): “Charlie publicly announces his support for what he perceives—like the rest of the world perceived—was a bit of a hostile takeover”
+
+</details>
 
 - **[Donald Trump](/entities/person-donald-trump.md)** supported by this
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:22:17](/episodes/ep-YFmRH8p5lt0.md#t-00-21-56)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:22:17](/episodes/ep-YFmRH8p5lt0.md#t-00-21-56): “Charlie's (Charlie Kirk's) campus tour is publicly announced.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** warned this
-  - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:06:59](/episodes/ep-mFuno0TuuQQ.md#t-00-06-56)
-  - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:37:16](/episodes/ep-hWTdXHGQ8R4.md#t-00-36-41)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:06:59](/episodes/ep-mFuno0TuuQQ.md#t-00-06-56): “He was naive to what the wrong money could invite into his life. And I warned him.”
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:37:16](/episodes/ep-hWTdXHGQ8R4.md#t-00-36-41): “I wish that Charlie Kirk had listened to me because I warned him.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** warned by this
-  - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:01:02](/episodes/ep-sImMM04XdWY.md#t-00-00-39)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:01:02](/episodes/ep-sImMM04XdWY.md#t-00-00-39): “Charlie Kirk that called me and told me that they wanted me to stop speaking about Brigitte”
+
+</details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** widow of this
-  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:00:36](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00)
-  - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01)
+<details class="relationship-evidence"><summary>Show all evidence (19)</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:00:36](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00): “Charlie's widow”
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:03](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:21:14](/episodes/ep-X92MllIHDzw.md#t-00-20-45): “leaving the organization plus carrying forward her late husband's legacy that's directly from the article on Daily Wire Plus.”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:32:51](/episodes/ep-NIEbqsLAK8g.md#t-00-32-51): “my wife lived in China for six months and she'll show you the videos”
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:35:19](/episodes/ep-gG4ZoYUjUc8.md#t-00-34-39): “uh time to grieve that they take time off what's strange about that is the employees are like maybe you need to take time off because your husband just got publicly they thought it was very strange and apparently she didn't now everyone's saying she was in the office every day with Stacey Sheridan I told you that's like the chief fundraiser lady they're in the office every day following Charlie (Charlie Kirk)'s assassination”
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:12:47](/episodes/ep-A39g5oqB_eM.md#t-00-12-47): “20-hour days for a week during the time of us grieving the loss of my husband and honestly I know several staff that didn't even sleep um again you guys are breathing angels and I'm so grateful for all of you and obviously a huge thank you to the Mosaic team VI you guys are 10 out of 10 like there's we have ... Just lay it to rest and we are moving forward turning point USA 2.0 with Charlie (Charlie Kirk) in our hearts and that's what he would want.”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:17:10](/episodes/ep-QdM9jLwjwLw.md#t-00-16-47): “in the context of Charlie (Charlie Kirk) and how he must be feeling in heaven. ... I'm going to let this play out for five minutes straight and there is no context needed other than this is five and a half days after her husband was publicly assassinated.”
+- [Candace x Bassem Youssef | Candace Ep 298 @ 00:31:37](/episodes/ep-xjzb_t5Tk9o.md#t-00-31-37): “the airport and no more evil muslims will get you and you're like okay what do i have to do to comply with that that's a psychological operation and that's why when we even revealed yesterday you know part of these these erica calls from five days after her husband died and she's appealing to turning point usa”
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:10:13](/episodes/ep-Wjul6YV6izo.md#t-00-10-13): “36 hours after Charlie was assassinated? Maybe it was 48 hours after he was assassinated. Take a listen. ... but my husband's favorite word in the English language was earn.”
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:45:40](/episodes/ep-QRS_hR7NXaQ.md#t-00-45-35): “The top comment from yesterday's episode, by the way, is why is Erika (Erika Kirk) lying to the only person trying to find who killed her husband?”
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:01:11](/episodes/ep-mFuno0TuuQQ.md#t-00-01-11): “I want there to be no hesitation in understanding of what happened to my husband that day. ... you've met with him in the wake of Charlie (Charlie Kirk)'s death.”
+- [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:15:10](/episodes/ep-4YgrOhhy708.md#t-00-14-46): “Erika (Erika Kirk) first addressed the nation, ... and she did this in Charlie (Charlie Kirk)'s studio. ... waiting to see what she was going to say as the widow.”
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:17:02](/episodes/ep-ti5Fxrvegno.md#t-00-16-27): “We can't even get his widow to at least come out and tell the truth about Charlie (Charlie Kirk) shifting positions.”
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:06:17](/episodes/ep-hWTdXHGQ8R4.md#t-00-06-05): “No person in their right mind would go into the home of a grieving widow and move a photo of her and her husband from their wedding day without explicit permission.”
+- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:22:49](/episodes/ep-1hcjQGgvxUY.md#t-00-22-45): “this godly woman happened to have tweeted this right before her husband got assassinated.”
+- [Coming soon... @ 00:00:00](/episodes/ep-LKR94FQ5p3o.md#t-00-00-00): “President Trump (Donald J. Trump) says that Kirk (Charlie Kirk) has died after he was shot from a nearby building. ... The cries of this widow will echo around the world like a battle cry. ... I didn't get to give him a kiss goodbye. ... My husband's dead.”
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:09:04](/episodes/ep-ZAsV0fHGBiM.md#t-00-08-32): “Erica (Erika Kirk) saw a brand with Charlie (Charlie Kirk). ... Her husband died a few days ago...”
+- [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:08:39](/episodes/ep-1IY2oD-_xVA.md#t-00-08-39): “Why did the military choose to have us all watch Charlie (Charlie Kirk)'s execution? ... Erika (Erika Kirk), that was where it was supposed to go. You watched it. She's the widow.”
+- [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:01:52](/episodes/ep-jTj9Ip46r4w.md#t-00-01-21): “So Charlie (Charlie Kirk) was removed and in his place, we got a Shabbat Shalom and not so grieving widow.”
+
+</details>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** worked with this
-  - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:28:51](/episodes/ep-HYn0P-P1wUw.md#t-00-28-21)
-  - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:29:01](/episodes/ep-ti5Fxrvegno.md#t-00-28-47)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:28:51](/episodes/ep-HYn0P-P1wUw.md#t-00-28-21): “At his wedding, I told the story of talking Charlie (Charlie Kirk) into moving to Arizona. He was an adamant Chicago boy. I needed to break that. Selfishly, I wanted him to love Arizona because I had recently convinced him to move Turning Point USA to Arizona.”
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:29:01](/episodes/ep-ti5Fxrvegno.md#t-00-28-47): “After that we talked. It was obvious she was the perfect person for the job that Charlie (Charlie Kirk) and I had devised in one of our 24-hour planning sessions.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** worked with this
-  - [Myron Gaines x Candace Owens @ 00:52:09](/episodes/ep-2T39-oADLj0.md#t-00-52-09)
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:19:05](/episodes/ep-GY6GWceEqtQ.md#t-00-18-36)
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:52:09](/episodes/ep-2T39-oADLj0.md#t-00-52-09): “um so let me ask you this with uh charlie kirk because uh you're definitely one of the most outspoken people um when it comes to the charlie kirk investigation and what's going on there obviously you knew him personally you guys have worked together for many years um i'll kind of just turn it to you and you can just tell me because you've been looking at this for a while now it's almost two yeah it's over two months now um can you take us through”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:19:05](/episodes/ep-GY6GWceEqtQ.md#t-00-18-36): “I signed on the dotted line to work beside Charlie Kirk because he built a company that I believed in.”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 01:01:12](/episodes/ep-QdM9jLwjwLw.md#t-01-00-48): “and their mamas good bye again unconscionable something i could not have known when i signed that agreement to tour with Charlie (Charlie Kirk) kirk is that he was going to be publicly assassinated and the people at the organization that he built okay many nights of no sleep”
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:05:28](/episodes/ep-mFuno0TuuQQ.md#t-00-05-28): “It was strange because we had always collaborated on and taken those sorts of meetings together.”
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:09:15](/episodes/ep-ti5Fxrvegno.md#t-00-08-49): “no one on earth has done more college campus events with Charlie Kirk than me.”
+- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:11:38](/episodes/ep-1hcjQGgvxUY.md#t-00-11-21): “Charlie Kirk and I did a lot on the road discussing father absence”
+
+</details>
 
 - **[Brian Harpole](/entities/person-brian-harpole.md)** works for this
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:00](/episodes/ep-581dILVcEE4.md#t-00-23-32)
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:26:39](/episodes/ep-581dILVcEE4.md#t-00-26-26)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:00](/episodes/ep-581dILVcEE4.md#t-00-23-32): “Brian Harpole is one of Charlie (Charlie Kirk)'s long-term security team members.”
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:26:39](/episodes/ep-581dILVcEE4.md#t-00-26-26): “Brian Harpole is one of Charlie Kirk's long-term security team members”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** works for this
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:30:14](/episodes/ep-YA1FxrDWNIo.md#t-00-30-08)
-  - [To My Friend, Charlie Kirk. @ 00:01:43](/episodes/ep-_dRaEO47-co.md#t-00-01-20)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:30:14](/episodes/ep-YA1FxrDWNIo.md#t-00-30-08): “since I started working for Charlie Kirk.”
+- [To My Friend, Charlie Kirk. @ 00:01:43](/episodes/ep-_dRaEO47-co.md#t-00-01-20): “He hired me on the spot. We were at this conference in Florida.”
+
+</details>
 
 - **[Michael McCoy](/entities/person-mikey-mccoy.md)** works for this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:04:35](/episodes/ep-his-JBjlkh8.md#t-00-04-17)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:04:35](/episodes/ep-his-JBjlkh8.md#t-00-04-17): “She has suggested that Michael McCoy, Charlie Kirk's chief of staff,”
+
+</details>
 
 - **[Alex Clark](/entities/person-alex-clark.md)** works for this
-  - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:07:54](/episodes/ep-ozWJz2spBcI.md#t-00-07-35)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:07:54](/episodes/ep-ozWJz2spBcI.md#t-00-07-35): “Her boss, Charlie Kirk, had been shot”
+
+</details>
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Charlie Kirk (44)</strong></summary>
+<summary><strong class="section-title">Statements by Charlie Kirk (49)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
+
+- [00:30:12](/episodes/ep-nPhCKwJ6ye8.md#t-00-30-12) [○] (Accusation) ["Charlie Kirk said he was somewhat worried that the left was trying to kill him."](/statements/statement-407f287ebc38.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (3)</summary>
+
+- [00:03:00](/episodes/ep-jTj9Ip46r4w.md#t-00-02-47) [○] (Opinion) ["Puritanical ideological approaches to situations such as Iran are not helpful."](/statements/statement-b742385b8ac8.md)
+  - About: [Iran](/entities/gpe-iran.md), [Neoconservatism](/entities/concept-neoconservatism.md)
+
+- [00:04:11](/episodes/ep-jTj9Ip46r4w.md#t-00-04-11) [○] (Opinion) ["Donald Trump was doing a phenomenal job resisting calls for regime change in Ira..."](/statements/statement-12710c18ef75.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md), [Neoconservatism](/entities/concept-neoconservatism.md)
+
+- [00:36:46](/episodes/ep-jTj9Ip46r4w.md#t-00-36-46) [✓] (Claim) ["Erika Kirk is from the Lombardi family."](/statements/statement-52f6ca5aa51e.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Vince Lombardi](/entities/person-vince-lombardi.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (1)</summary>
+
+- [00:45:02](/episodes/ep-1IY2oD-_xVA.md#t-00-44-37) [○] (Claim) ["Charlie Kirk told a close associate that he was establishing a DOGE initiative b..."](/statements/statement-83440f161c1b.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (1)</summary>
@@ -11979,7 +13676,178 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk (646)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk (693)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (19)</summary>
+
+- [00:30:12](/episodes/ep-nPhCKwJ6ye8.md#t-00-30-12) (Accusation) **Charlie Kirk** (via read message): ["Charlie Kirk said he was somewhat worried that the left was trying to ..."](/statements/statement-407f287ebc38.md)
+
+- [00:31:26](/episodes/ep-nPhCKwJ6ye8.md#t-00-30-52) (Claim) **Andrew Wilson**: ["Based on the evidence available so far, Andrew Wilson believes the sta..."](/statements/statement-3523ec3378a3.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:32:10](/episodes/ep-nPhCKwJ6ye8.md#t-00-32-10) (Citation) **Andrew Wilson**: ["Andrew Wilson says the case against Tyler Robinson is supported by cor..."](/statements/statement-53a47c80d7fd.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:41:45](/episodes/ep-nPhCKwJ6ye8.md#t-00-41-45) (Claim) **Andrew Wilson**: ["Tyler Robinson's rifle was found near the crime scene."](/statements/statement-cd79a291a603.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:42:21](/episodes/ep-nPhCKwJ6ye8.md#t-00-42-21) (Claim) **Andrew Wilson**: ["The ammunition in the case was a 150-grain Remington Core-Lokt soft-po..."](/statements/statement-bab7a17138a4.md)
+  - Also about: [Remington Ammunition](/entities/org-remington-ammunition.md)
+
+- [01:58:14](/episodes/ep-nPhCKwJ6ye8.md#t-01-58-01) (Accusation) **Candace Owens**: ["Candace Owens believes Tyler Robinson was involved somehow but conside..."](/statements/statement-2683c02b1ee5.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md)
+
+- [01:59:52](/episodes/ep-nPhCKwJ6ye8.md#t-01-59-52) (Claim) **Candace Owens**: ["The FBI stopped testing a backpack found along the alleged gunman's ro..."](/statements/statement-240c0f8e341e.md)
+  - Also about: [FBI](/entities/org-fbi.md)
+
+- [02:00:33](/episodes/ep-nPhCKwJ6ye8.md#t-02-00-33) (Claim) **Candace Owens**: ["Some items Charlie Kirk was wearing were immediately returned to Erika..."](/statements/statement-89847e8b961f.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [02:01:40](/episodes/ep-nPhCKwJ6ye8.md#t-02-01-40) (Citation) **Candace Owens** (via paraphrase): ["The contractor who paved the crime scene said the call described a pav..."](/statements/statement-e8088f9593f9.md)
+  - Also about: [FBI](/entities/org-fbi.md)
+
+- [02:25:29](/episodes/ep-nPhCKwJ6ye8.md#t-02-25-29) (Citation) **Candace Owens** (via paraphrase): ["Candace Owens cited Joe Kent as saying that 12 Israeli cell phones wer..."](/statements/statement-b5e4a547905b.md)
+  - Also about: [Joe Kent](/entities/person-joe-kent.md), [Israel](/entities/gpe-israel.md)
+
+- [02:33:22](/episodes/ep-nPhCKwJ6ye8.md#t-02-33-18) (Accusation) **Anonymous Source #1 (Ep nPhCKwJ6ye8)** (via quoted speech): ["French Foreign Legion personnel were on the ground during Charlie Kirk..."](/statements/statement-0ccadf24fcfc.md)
+  - Also about: [French Foreign Legion](/entities/org-french-foreign-legion.md), [France](/entities/gpe-france.md)
+
+- [02:37:26](/episodes/ep-nPhCKwJ6ye8.md#t-02-37-26) (Prediction) **Candace Owens**: ["Candace Owens predicts that Israel will ultimately be found to have be..."](/statements/statement-d5c74ed071c8.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
+
+- [02:38:23](/episodes/ep-nPhCKwJ6ye8.md#t-02-38-11) (Accusation) **Anonymous Source #3 (Ep nPhCKwJ6ye8)** (via quoted speech): ["United States Marshals Service sources said marshals were sent on a wi..."](/statements/statement-51c476305dbc.md)
+  - Also about: [United States Marshals Service](/entities/org-united-states-marshals-service.md)
+
+- [03:03:15](/episodes/ep-nPhCKwJ6ye8.md#t-03-03-15) (Opinion) **Candace Owens**: ["Candace Owens believes the theory that Charlie Kirk may have been kill..."](/statements/statement-27a11cc63d15.md)
+  - Also about: [Jon Aaron Bray](/entities/person-jon-aaron-bray.md)
+
+- [03:09:20](/episodes/ep-nPhCKwJ6ye8.md#t-03-09-00) (Opinion) **Rob O'Neill** (via quoted speech): ["Rob O'Neill said the movement of Charlie Kirk's shirt looked like an e..."](/statements/statement-349dd6aaaa90.md)
+
+- [03:09:26](/episodes/ep-nPhCKwJ6ye8.md#t-03-09-00) (Accusation) **Rob O'Neill** (via quoted speech): ["Rob O'Neill said people at the scene seemed more concerned with removi..."](/statements/statement-59ffbe2ba8c0.md)
+
+- [03:26:38](/episodes/ep-nPhCKwJ6ye8.md#t-03-26-38) (Opinion) **Candace Owens**: ["Candace Owens believes Erika Kirk should be formally questioned becaus..."](/statements/statement-c8adff2dd148.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [03:57:47](/episodes/ep-nPhCKwJ6ye8.md#t-03-57-15) (Opinion) **Andrew Wilson**: ["Andrew Wilson concluded that no alternative theory presented in the de..."](/statements/statement-d32537eb2441.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [04:01:26](/episodes/ep-nPhCKwJ6ye8.md#t-04-01-26) (Accusation) **Candace Owens**: ["Candace Owens still believes there is more evidence that multiple peop..."](/statements/statement-4735330c37c9.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [FBI](/entities/org-fbi.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (5)</summary>
+
+- [00:43:35](/episodes/ep-2tFYJf1klgY.md#t-00-43-25) (Accusation) **Blake Neff** (via quoted post): ["Blake Neff said Candace Owens's prior episode contained a blatant untr..."](/statements/statement-1c454043fe46.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:44:06](/episodes/ep-2tFYJf1klgY.md#t-00-44-06) (Claim) **Blake Neff** (via quoted post): ["Blake Neff said Charlie Kirk observed an evangelical Christian version..."](/statements/statement-3ac1950a9552.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Shabbat](/entities/concept-shabbat.md), [Evangelicalism](/entities/concept-evangelicalism.md)
+
+- [00:44:30](/episodes/ep-2tFYJf1klgY.md#t-00-44-06) (Claim) **Candace Owens**: ["Candace Owens said she began turning off her phone on Saturdays before..."](/statements/statement-3c22ceff0f3d.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:51:29](/episodes/ep-2tFYJf1klgY.md#t-00-51-29) (Claim) **Candace Owens**: ["Before Erika Kirk, Charlie Kirk had one woman he was very interested i..."](/statements/statement-0dcab5b91065.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:54:57](/episodes/ep-2tFYJf1klgY.md#t-00-54-40) (Claim) **Candace Owens**: ["Charlie Kirk did not know many of the things Candace Owens has present..."](/statements/statement-76d9390d8302.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (8)</summary>
+
+- [00:00:38](/episodes/ep-jTj9Ip46r4w.md#t-00-00-38) (Claim) **Candace Owens**: ["Charlie Kirk was the one person who stood between the United States an..."](/statements/statement-5859022c9868.md)
+  - Also about: [United States](/entities/gpe-united-states.md), [Iran](/entities/gpe-iran.md)
+
+- [00:00:46](/episodes/ep-jTj9Ip46r4w.md#t-00-00-38) (Claim) **Candace Owens**: ["Charlie Kirk was at the White House and convinced Donald Trump that a ..."](/statements/statement-97b1ed9cf8ca.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md)
+
+- [00:01:03](/episodes/ep-jTj9Ip46r4w.md#t-00-00-38) (Accusation) **Candace Owens**: ["It is Candace Owens's personal belief that they colluded to have Charl..."](/statements/statement-f52c4565bac5.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [White House](/entities/org-white-house.md)
+
+- [00:01:21](/episodes/ep-jTj9Ip46r4w.md#t-00-01-21) (Accusation) **Candace Owens**: ["Candace Owens believes, based on evidence, that Charlie Kirk's murder ..."](/statements/statement-7812137609ed.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
+
+- [00:01:45](/episodes/ep-jTj9Ip46r4w.md#t-00-01-21) (Claim) **Candace Owens**: ["Charlie Kirk had abandoned the pro-Israel cause entirely before his de..."](/statements/statement-2cd66649f19c.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Zionism](/entities/concept-zionism.md)
+
+- [00:07:06](/episodes/ep-jTj9Ip46r4w.md#t-00-07-04) (Opinion) **Michael McCoy** (via quoted speech): ["Mikey McCoy was irritated to see people who did not know Charlie Kirk ..."](/statements/statement-be923152161f.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:22:51](/episodes/ep-jTj9Ip46r4w.md#t-00-22-18) (Claim) **Candace Owens**: ["Erika Kirk posted her mother in a vulnerable, sick condition two to th..."](/statements/statement-be0c860d86f2.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+- [00:54:15](/episodes/ep-jTj9Ip46r4w.md#t-00-54-15) (Accusation) **Candace Owens**: ["Erika Kirk has directed Turning Point USA's public-relations messaging..."](/statements/statement-dbcc488709c5.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (2)</summary>
+
+- [00:50:50](/episodes/ep-cZxHqYsWRYg.md#t-00-50-19) (Accusation) **Candace Owens**: ["Candace Owens accused speakers at Charlie Kirk's memorial of not writi..."](/statements/statement-ea86dab5b203.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:58:13](/episodes/ep-cZxHqYsWRYg.md#t-00-57-41) (Accusation) **Candace Owens**: ["Candace Owens accused Erika Kirk of lying about not dating in New York..."](/statements/statement-8f23a4761c50.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [New York City](/entities/gpe-new-york-city.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (6)</summary>
+
+- [00:08:39](/episodes/ep-1IY2oD-_xVA.md#t-00-08-39) (Accusation) **Candace Owens**: ["Candace Owens believes the military deliberately made the public watch..."](/statements/statement-b6fbde5d0b41.md)
+
+- [00:08:51](/episodes/ep-1IY2oD-_xVA.md#t-00-08-39) (Accusation) **Candace Owens**: ["The purpose of publicly showing Charlie Kirk’s killing was to harness ..."](/statements/statement-5b49473c35d5.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:44:44](/episodes/ep-1IY2oD-_xVA.md#t-00-44-37) (Claim) **Candace Owens**: ["Tyler Bowyer introduced Erika Kirk to Charlie Kirk"](/statements/statement-a5051df38fb6.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:45:02](/episodes/ep-1IY2oD-_xVA.md#t-00-44-37) (Claim) **Charlie Kirk** (via quoted speech): ["Charlie Kirk told a close associate that he was establishing a DOGE in..."](/statements/statement-83440f161c1b.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:46:58](/episodes/ep-1IY2oD-_xVA.md#t-00-46-31) (Opinion) **Candace Owens**: ["Candace Owens does not believe Turning Point’s account that Charlie Ki..."](/statements/statement-2fd16fcb60f6.md)
+  - Also about: [Elon Musk](/entities/person-elon-musk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [01:01:06](/episodes/ep-1IY2oD-_xVA.md#t-01-01-06) (Accusation) **Candace Owens**: ["Erika Kirk originated a public-relations narrative that Charlie Kirk h..."](/statements/statement-868f76061f17.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Superman](/entities/concept-superman.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (4)</summary>
+
+- [00:09:04](/episodes/ep-ZAsV0fHGBiM.md#t-00-08-32) (Opinion) **Elizabeth Lane** (via quoted post): ["Erika Kirk saw Charlie Kirk as a brand and as someone who could become..."](/statements/statement-1dc901f67b06.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:09:17](/episodes/ep-ZAsV0fHGBiM.md#t-00-09-17) (Opinion) **Elizabeth Lane** (via quoted post): ["Erika Kirk's public identity changed after her relationship with Charl..."](/statements/statement-2ed73b3574b4.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Christianity](/entities/concept-christianity.md)
+
+- [00:10:54](/episodes/ep-ZAsV0fHGBiM.md#t-00-10-44) (Claim) **Elizabeth Lane** (via quoted post): ["Just days after Charlie Kirk's death, Erika Kirk was laying out ambiti..."](/statements/statement-abcccb467cb0.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Zoom Communications](/entities/org-zoom-communications.md)
+
+- [00:40:44](/episodes/ep-ZAsV0fHGBiM.md#t-00-40-41) (Claim) **Candace Owens** (via paraphrase): ["Nicole Rothstein described Erika Kirk as her best friend and cousin af..."](/statements/statement-85af7d8fe890.md)
+  - Also about: [Nicole Rothstein](/entities/person-nicole-rothstein.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>Coming soon... (3)</summary>
+
+- [00:00:06](/episodes/ep-LKR94FQ5p3o.md#t-00-00-06) (Claim) **Donald J. Trump**: ["The great and even legendary Charlie Kirk is dead."](/statements/statement-8b4427689f08.md)
+
+- [00:00:49](/episodes/ep-LKR94FQ5p3o.md#t-00-00-49) (Claim) **Anonymous Source #2 (Ep LKR94FQ5p3o)**: ["Nobody knows why she's out there in a glittering pantsuit in a recreat..."](/statements/statement-142bb554e60f.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:01:02](/episodes/ep-LKR94FQ5p3o.md#t-00-01-02) (Accusation) **Anonymous Source #3 (Ep LKR94FQ5p3o)**: ["Zionists, the Prime Minister of Israel (Benjamin Netanyahu), all lied ..."](/statements/statement-366f47c962a4.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (14)</summary>
@@ -12369,7 +14237,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:06:18](/episodes/ep-A39g5oqB_eM.md#t-00-05-46) (Claim) **Candace Owens**: ["Erika Kirk gave an in-person interview with The New York Times at her ..."](/statements/statement-b7d0dbdedd99.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [The New York Times](/entities/org-new-york-times.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [The New York Times](/entities/org-the-new-york-times.md)
 
 - [00:08:19](/episodes/ep-A39g5oqB_eM.md#t-00-07-54) (Opinion) **Erika Kirk** (via quoted article): ["Becoming a single mother is actually the least traumatizing thing for ..."](/statements/statement-25d305f5012f.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
@@ -12718,7 +14586,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
   - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:22:31](/episodes/ep-zSKrxIUMNqw.md#t-00-22-03) (Accusation) **Anonymous Source #3 (Ep zSKrxIUMNqw)** (via paraphrase): ["A Breitbart executive told Candace Owens and Charlie Kirk that Ben Sha..."](/statements/statement-c6e9c9f99b51.md)
-  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [The Daily Wire](/entities/org-daily-wire.md), [Breitbart News](/entities/org-breitbart-news.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Breitbart News](/entities/org-breitbart-news.md)
 
 - [00:41:49](/episodes/ep-zSKrxIUMNqw.md#t-00-41-46) (Claim) **Candace Owens**: ["Charlie Kirk repeatedly told Candace Owens that he would die young and..."](/statements/statement-aeb277b5e217.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)

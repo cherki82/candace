@@ -11,7 +11,7 @@ date: "2025-08-05"
 
 > Hamptons Summit pressures Charlie Kirk on Israel views
 
-## Mentioned In (255 times)
+## Mentioned In (256 times)
 
 ### 1. BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. |...
 
@@ -2052,3 +2052,11 @@ date: "2025-08-05"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(637);return false;">▶️ Play</a>
 
 > een seeing a lot of vitriol that's been thrown at Andrew Kolvet's way because he is doing press. He is carrying on Charlie Kirk's show. He was already seated on Cha
+
+### 256. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
+
+**Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
+**Timestamp:** [02:25:51](/episodes/ep-nPhCKwJ6ye8.md#event-event-2025-08-05-hamptons-summit-pressures-charlie-kirk-on-israel-v-t-02-25-29) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(8751);return false;">▶️ Play</a>
+
+> in the Hamptons the week prior or not the week prior, I think it was around August 5th or 6th

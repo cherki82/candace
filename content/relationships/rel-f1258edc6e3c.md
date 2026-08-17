@@ -4,12 +4,12 @@ description: "Evidence for the relationship: Candace Owens employs Skylar"
 relationship_id: "rel-f1258edc6e3c"
 subject: "person-candace-owens"
 predicate: "employs"
-object: "person-skylar"
+object: "person-schuyler-pryor"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Candace Owens](/entities/person-candace-owens) employs [Skylar](/entities/person-skylar)
+## [Candace Owens](/entities/person-candace-owens) employs [Skylar](/entities/person-schuyler-pryor)
 
 ### Evidence (1 mentions)
 
@@ -20,4 +20,4 @@ object: "person-skylar"
 ### Related
 
 - [Candace Owens](/entities/person-candace-owens)
-- [Skylar](/entities/person-skylar)
+- [Skylar](/entities/person-schuyler-pryor)

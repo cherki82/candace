@@ -1,20 +1,110 @@
 ---
 title: "Dave Smith"
-description: "Dave Smith (People) - 26 mentions"
+description: "Dave Smith (People) - 30 mentions"
 id: "person-dave-smith"
 type: "PERSON"
 aliases:
   - "Dave Smith"
+categories:
+  - "comedy"
+  - "podcasting"
+  - "libertarian commentary"
 ---
 
 _Type: People_
 
 **Also known as:** Dave Smith
 
+**Categories:** comedy, podcasting, libertarian commentary
+
+**Entity verification:** verified
+> Official show page identifies Dave Smith as comedian, political commentator, and host, resolving the common-name ambiguity.
+Source: [Part of the Problem - About](https://partoftheproblem.com/about)
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-dave-smith-t-00-11-22">2025-09-15 · 00:11:32</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-dave-smith-t-00-13-18">2026-02-02 · 00:58:46</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>30</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-dave-smith-t-00-11-22">They Are Lying About Charlie Kirk. | Candace Ep 235</a> (7 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-dave-smith-t-00-11-22" style="--pulse-height:100%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 7 mentions" title="2025-09-15 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-person-dave-smith-t-00-40-20" style="--pulse-height:43%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 3 mentions" title="2025-09-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-dave-smith-t-00-36-35" style="--pulse-height:14%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-person-dave-smith-t-00-31-58" style="--pulse-height:14%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 1 mentions" title="2025-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-dave-smith-t-00-55-04" style="--pulse-height:29%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 2 mentions" title="2025-10-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-dave-smith-t-00-34-51" style="--pulse-height:71%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 5 mentions" title="2025-10-30 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-dave-smith-t-00-31-52" style="--pulse-height:14%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-dave-smith-t-00-32-18" style="--pulse-height:29%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-dave-smith-t-01-04-11" style="--pulse-height:29%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-person-dave-smith-t-00-40-02" style="--pulse-height:14%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-person-dave-smith-t-00-44-56" style="--pulse-height:29%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-dave-smith-t-01-00-37" style="--pulse-height:14%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-dave-smith-t-00-13-18" style="--pulse-height:29%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-person-dave-smith-t-00-11-22) | 7 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-person-dave-smith-t-00-40-20) | 3 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-person-dave-smith-t-00-36-35) | 1 |
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-person-dave-smith-t-00-31-58) | 1 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-dave-smith-t-00-55-04) | 2 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-dave-smith-t-00-34-51) | 5 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-person-dave-smith-t-00-31-52) | 1 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-person-dave-smith-t-00-32-18) | 2 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-dave-smith-t-01-04-11) | 2 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-dave-smith-t-00-40-02) | 1 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-dave-smith-t-00-44-56) | 2 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-dave-smith-t-01-00-37) | 1 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-dave-smith-t-00-13-18) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+
+<details>
+<summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (2 mentions)</summary>
+
+**[00:13:18](/episodes/ep-CEF7gQRWYCE.md#ent-person-dave-smith-t-00-13-18)**
+> "...damental difference between a Dave Smith and a Ben Shapiro I have a suspicion that I could..."
+
+**[00:58:46](/episodes/ep-CEF7gQRWYCE.md#ent-person-dave-smith-t-00-13-18)**
+> "...g when you can't separate the Dave Smiths from the Ben Shapiros."
+
+</details>
+
+<details>
+<summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
+
+**[01:00:48](/episodes/ep-GY6GWceEqtQ.md#ent-person-dave-smith-t-01-00-37)**
+> "Dave Smith is another"
+
+</details>
+
+<details>
+<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (2 mentions)</summary>
+
+**[00:45:21](/episodes/ep-X92MllIHDzw.md#ent-person-dave-smith-t-00-44-56)**
+> "News. That's why I don't like Dave Smith."
+
+**[00:45:23](/episodes/ep-X92MllIHDzw.md#ent-person-dave-smith-t-00-44-56)**
+> "I don't even like Dave Smith,"
+
+</details>
 
 <details>
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
@@ -25,10 +115,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (3 mentions)</summary>
-
-**[01:04:11](/episodes/ep-vwG1juDCQZQ.md#ent-person-dave-smith-t-01-04-11)**
-> "you should team up with Dave Smith, Ian Carroll, and Jimmy Dore"
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (2 mentions)</summary>
 
 **[01:04:11](/episodes/ep-vwG1juDCQZQ.md#ent-person-dave-smith-t-01-04-11)**
 > "... we shouldn't be lied to by are lying to us. Juan Antonio writes: "Candace, you should team up with Dave Smith, Ian Carroll, and Jimmy Dore. Form a coalition: share editors, push promotion, and spark Occupy Wal..."
@@ -153,7 +240,11 @@ _Type: People_
 <summary>Debated (1)</summary>
 
 - **[Josh Hammer](/entities/person-josh-hammer.md)**
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:58](/episodes/ep-his-JBjlkh8.md#t-00-03-40): ""he hosted Dave Smith, who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer,""
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:58](/episodes/ep-his-JBjlkh8.md#t-00-03-40): “"he hosted Dave Smith, who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer,"”
+
+</details>
 
 </details>
 
@@ -161,8 +252,12 @@ _Type: People_
 <summary>Spoke At (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:13:35](/episodes/ep-czVBmqZP6Ss.md#t-00-12-57): "how could Charlie allow Dave Smith, who by the way is Jewish, how could Charlie allow this other position to meet the stage?"
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:31:57](/episodes/ep-YFmRH8p5lt0.md#t-00-31-52): "Dave Smith is speaking. They're talking about Israel being a problem. He's getting cheers from the crowd, right?"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:13:35](/episodes/ep-czVBmqZP6Ss.md#t-00-12-57): “how could Charlie allow Dave Smith, who by the way is Jewish, how could Charlie allow this other position to meet the stage?”
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:31:57](/episodes/ep-YFmRH8p5lt0.md#t-00-31-52): “Dave Smith is speaking. They're talking about Israel being a problem. He's getting cheers from the crowd, right?”
+
+</details>
 
 </details>
 
@@ -170,11 +265,19 @@ _Type: People_
 <summary>Referenced By (2)</summary>
 
 - **[Josh Hammer](/entities/person-josh-hammer.md)** debated this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:58](/episodes/ep-his-JBjlkh8.md#t-00-03-40)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:58](/episodes/ep-his-JBjlkh8.md#t-00-03-40): “"he hosted Dave Smith, who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer,"”
+
+</details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** hosted speaker this
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:13:35](/episodes/ep-czVBmqZP6Ss.md#t-00-12-57)
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:31:57](/episodes/ep-YFmRH8p5lt0.md#t-00-31-52)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:13:35](/episodes/ep-czVBmqZP6Ss.md#t-00-12-57): “how could Charlie allow Dave Smith, who by the way is Jewish, how could Charlie allow this other position to meet the stage?”
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:31:57](/episodes/ep-YFmRH8p5lt0.md#t-00-31-52): “Dave Smith is speaking. They're talking about Israel being a problem. He's getting cheers from the crowd, right?”
+
+</details>
 
 </details>
 

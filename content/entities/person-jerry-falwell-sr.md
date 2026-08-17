@@ -17,10 +17,38 @@ _Type: People_
 **Entity verification:** verified
 > Liberty University founder discussed extensively.
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-jerry-falwell-sr-t-00-25-00">2026-01-09 · 00:25:00</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-falwell-sr-t-00-24-41">2026-01-12 · 00:24:41</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-jerry-falwell-sr-t-00-25-00">The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</a> (10 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-jerry-falwell-sr-t-00-25-00" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 10 mentions" title="2026-01-09 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-falwell-sr-t-00-10-58" style="--pulse-height:50%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 5 mentions" title="2026-01-12 · 5 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-jerry-falwell-sr-t-00-25-00) | 10 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-falwell-sr-t-00-10-58) | 5 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
 
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (5 mentions)</summary>
@@ -86,7 +114,11 @@ _Type: People_
 <summary>Child Of (1)</summary>
 
 - **[Carey Hezekiah Falwell](/entities/person-carey-hezekiah-falwell.md)**
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:44:57](/episodes/ep-wcD2khO3rOA.md#t-00-44-43): "His daddy, a man named Carey Hezekiah, was a drunk."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:44:57](/episodes/ep-wcD2khO3rOA.md#t-00-44-43): “His daddy, a man named Carey Hezekiah, was a drunk.”
+
+</details>
 
 </details>
 
@@ -94,7 +126,11 @@ _Type: People_
 <summary>Founded (1)</summary>
 
 - **[Liberty Godparent Home](/entities/org-liberty-godparent-home.md)**
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:35:30](/episodes/ep-wcD2khO3rOA.md#t-00-35-25): "The maternity home was founded by Jerry Falwell Sr."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:35:30](/episodes/ep-wcD2khO3rOA.md#t-00-35-25): “The maternity home was founded by Jerry Falwell Sr.”
+
+</details>
 
 </details>
 
@@ -102,10 +138,18 @@ _Type: People_
 <summary>Referenced By (2)</summary>
 
 - **[Liberty Godparent Home](/entities/org-liberty-godparent-home.md)** founded by this
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:35:30](/episodes/ep-wcD2khO3rOA.md#t-00-35-25)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:35:30](/episodes/ep-wcD2khO3rOA.md#t-00-35-25): “The maternity home was founded by Jerry Falwell Sr.”
+
+</details>
 
 - **[Carey Hezekiah Falwell](/entities/person-carey-hezekiah-falwell.md)** parent of this
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:44:57](/episodes/ep-wcD2khO3rOA.md#t-00-44-43)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:44:57](/episodes/ep-wcD2khO3rOA.md#t-00-44-43): “His daddy, a man named Carey Hezekiah, was a drunk.”
+
+</details>
 
 </details>
 

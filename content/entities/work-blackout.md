@@ -1,16 +1,169 @@
 ---
 title: "Blackout"
-description: "Blackout (Works & Media) - 2 mentions"
+description: "Blackout (Works & Media) - 17 mentions"
 id: "work-blackout"
 type: "WORK"
+categories:
+  - "book"
 ---
 
 _Type: Works & Media_
 
+**Categories:** book
+
+**Entity verification:** verified
+> Author storefront confirms the title in the referenced bundle.
+Source: [Shop Candace — Signed book bundle](https://shop.candaceowens.com/collections/bundles)
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-work-blackout-t-00-43-37">2025-09-25 · 00:44:07</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-work-blackout-t-00-53-37">2026-02-13 · 00:53:39</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-X92MllIHDzw.md#ent-work-blackout-t-00-51-13">OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291</a> (3 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-work-blackout-t-00-43-37" style="--pulse-height:67%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 2 mentions" title="2025-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-work-blackout-t-00-57-56" style="--pulse-height:33%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-work-blackout-t-00-56-00" style="--pulse-height:33%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-blackout-t-00-41-33" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-work-blackout-t-00-51-13" style="--pulse-height:100%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-work-blackout-t-00-07-35" style="--pulse-height:33%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-work-blackout-t-00-39-10" style="--pulse-height:33%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-work-blackout-t-00-58-10" style="--pulse-height:67%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-work-blackout-t-00-50-31" style="--pulse-height:33%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-blackout-t-00-55-01" style="--pulse-height:33%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-work-blackout-t-00-35-59" style="--pulse-height:33%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-work-blackout-t-00-53-37" style="--pulse-height:33%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-work-blackout-t-00-43-37) | 2 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-work-blackout-t-00-57-56) | 1 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-work-blackout-t-00-56-00) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-work-blackout-t-00-41-33) | 1 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-work-blackout-t-00-51-13) | 3 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-work-blackout-t-00-07-35) | 1 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-work-blackout-t-00-39-10) | 1 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-work-blackout-t-00-58-10) | 2 |
+| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-work-blackout-t-00-50-31) | 1 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-work-blackout-t-00-55-01) | 1 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-work-blackout-t-00-35-59) | 1 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-work-blackout-t-00-53-37) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
+
+**[00:53:39](/episodes/ep-1hcjQGgvxUY.md#ent-work-blackout-t-00-53-37)**
+> "...n get Make Him a Sandwich and Blackout, both signed by me."
+
+</details>
+
+<details>
+<summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1 mentions)</summary>
+
+**[00:36:08](/episodes/ep-DYD_QHMPwqM.md#ent-work-blackout-t-00-35-59)**
+> "a hard copy of making a sandwich and blackout"
+
+</details>
+
+<details>
+<summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1 mentions)</summary>
+
+**[00:55:12](/episodes/ep-CEF7gQRWYCE.md#ent-work-blackout-t-00-55-01)**
+> "Make Him a Sandwich and Blackout, both of them."
+
+</details>
+
+<details>
+<summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (1 mentions)</summary>
+
+**[00:50:33](/episodes/ep-Wjul6YV6izo.md#ent-work-blackout-t-00-50-31)**
+> "That's Make Him a Sandwich and Blackout, both hand-signed."
+
+</details>
+
+<details>
+<summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (2 mentions)</summary>
+
+**[00:58:10](/episodes/ep-QdM9jLwjwLw.md#ent-work-blackout-t-00-58-10)**
+> "Make Him a Sandwich and Blackout, both hand-signed by me."
+
+**[00:23:45](/episodes/ep-QdM9jLwjwLw.md#ent-work-blackout-t-00-58-10)**
+> "We still have major blackouts in Nashville,"
+
+</details>
+
+<details>
+<summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1 mentions)</summary>
+
+**[00:39:50](/episodes/ep-gG4ZoYUjUc8.md#ent-work-blackout-t-00-39-10)**
+> "...es of Make Him a Sandwich and Blackout, both hand signed by me."
+
+</details>
+
+<details>
+<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (3 mentions)</summary>
+
+**[00:51:49](/episodes/ep-X92MllIHDzw.md#ent-work-blackout-t-00-51-13)**
+> "both of my books, Make Him a Sandwich and Blackout"
+
+**[00:53:05](/episodes/ep-X92MllIHDzw.md#ent-work-blackout-t-00-52-37)**
+> "Total memory blackout from ages 4 to 10, the exact years,"
+
+**[00:53:09](/episodes/ep-X92MllIHDzw.md#ent-work-blackout-t-00-52-37)**
+> "...omebody else who had a memory blackout being a part of this program."
+
+</details>
+
+<details>
+<summary>Myron Gaines x Candace Owens (1 mentions)</summary>
+
+**[00:07:40](/episodes/ep-2T39-oADLj0.md#ent-work-blackout-t-00-07-35)**
+> "actually. It's in Blackout of this teacher that I had and I was required to take Feminism 101. It was called Women's Studies."
+
+</details>
+
+<details>
+<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
+
+**[00:41:50](/episodes/ep-ZZGWo6oDscc.md#ent-work-blackout-t-00-41-33)**
+> "Make Him a Sandwich and Blackout."
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1 mentions)</summary>
+
+**[00:56:00](/episodes/ep-zSKrxIUMNqw.md#ent-work-blackout-t-00-56-00)**
+> "...shop: Make Him a Sandwich and Blackout, both hand-signed by me. All right, let's get int..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
+
+**[00:58:03](/episodes/ep-HYn0P-P1wUw.md#ent-work-blackout-t-00-57-56)**
+> "...ooks, Make Him a Sandwich and Blackout, hand signed by me."
+
+</details>
 
 <details>
 <summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2 mentions)</summary>
@@ -28,6 +181,34 @@ _Type: Works & Media_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Authored By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:07:38](/episodes/ep-2T39-oADLj0.md#t-00-07-35): “actually. I think it's in this book or it's in my last book, actually. It's in Blackout of this teacher that I had and I was required to take Feminism 101. It was called Women's Studies.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-33): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:51:49](/episodes/ep-X92MllIHDzw.md#t-00-51-13): “the hard copy autographed bundle, both of my books, Make Him a Sandwich and Blackout.”
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:55:07](/episodes/ep-CEF7gQRWYCE.md#t-00-55-01): “You can also buy the hard copied bundle, both of our books, my books, pardon, Make Him a Sandwich and Blackout, both of them.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** authored this
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:07:38](/episodes/ep-2T39-oADLj0.md#t-00-07-35): “actually. I think it's in this book or it's in my last book, actually. It's in Blackout of this teacher that I had and I was required to take Feminism 101. It was called Women's Studies.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-33): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:51:49](/episodes/ep-X92MllIHDzw.md#t-00-51-13): “the hard copy autographed bundle, both of my books, Make Him a Sandwich and Blackout.”
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:55:07](/episodes/ep-CEF7gQRWYCE.md#t-00-55-01): “You can also buy the hard copied bundle, both of our books, my books, pardon, Make Him a Sandwich and Blackout, both of them.”
+
+</details>
+
+</details>
 
 </details>

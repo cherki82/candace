@@ -1,6 +1,6 @@
 ---
 title: "Blake Neff"
-description: "Blake Neff (People) - 79 mentions"
+description: "Blake Neff (People) - 87 mentions"
 id: "person-blake-neff"
 type: "PERSON"
 aliases:
@@ -21,10 +21,109 @@ _Type: People_
 > Megyn Kelly's program page confirms canonical spelling Blake Neff and identifies him as a producer of The Charlie Kirk Show.
 Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving 6 Months After Tragic Death](https://www.megynkelly.com/watch/charlie-kirks-friends-and-producers-on-how-turning-point-is-thriving-6-months-after-tragic-death/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#ent-person-blake-neff-t-00-15-02">2025-10-07 · 00:15:25</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-person-blake-neff-t-00-48-45">2026-03-03 · 00:49:17</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>87</strong></div>
+<div><span>Statements by</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-blake-neff-t-00-04-36">Shocking Revelation About The Egyptian Planes... | Candace Ep 274</a> (14 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-5autG89PW6w.md#ent-person-blake-neff-t-00-15-02" style="--pulse-height:21%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 3 mentions" title="2025-10-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#t-00-44-32" style="--pulse-height:14%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-blake-neff-t-00-10-04" style="--pulse-height:14%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-35-24" style="--pulse-height:57%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 8 mentions" title="2025-11-05 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#t-00-05-43" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-21-22" style="--pulse-height:64%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 9 mentions" title="2025-11-18 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-person-blake-neff-t-00-02-14" style="--pulse-height:64%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 9 mentions" title="2025-12-03 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-person-blake-neff-t-00-03-41" style="--pulse-height:86%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 12 mentions" title="2025-12-05 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-blake-neff-t-00-04-36" style="--pulse-height:100%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 14 mentions" title="2025-12-05 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-blake-neff-t-00-37-15" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-blake-neff-t-00-25-05" style="--pulse-height:21%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 3 mentions" title="2025-12-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-blake-neff-t-00-26-36" style="--pulse-height:29%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 4 mentions" title="2025-12-10 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-blake-neff-t-00-59-52" style="--pulse-height:14%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-blake-neff-t-00-19-05" style="--pulse-height:14%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-blake-neff-t-01-01-57" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-blake-neff-t-00-11-31" style="--pulse-height:14%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-blake-neff-t-00-07-27" style="--pulse-height:8%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-blake-neff-t-00-05-39" style="--pulse-height:14%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-person-blake-neff-t-00-41-55" style="--pulse-height:50%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 7 mentions" title="2026-03-03 · 7 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-blake-neff-t-00-15-02) | 3 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#t-00-44-32) | 2 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-person-blake-neff-t-00-10-04) | 2 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-blake-neff-t-00-35-24) | 8 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#t-00-05-43) | 1 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-21-22) | 9 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-blake-neff-t-00-02-14) | 9 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-person-blake-neff-t-00-03-41) | 12 |
+| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-person-blake-neff-t-00-04-36) | 14 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-blake-neff-t-00-37-15) | 1 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-person-blake-neff-t-00-25-05) | 3 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-person-blake-neff-t-00-26-36) | 4 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-blake-neff-t-00-59-52) | 2 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-blake-neff-t-00-19-05) | 2 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-blake-neff-t-01-01-57) | 1 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-blake-neff-t-00-11-31) | 2 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-blake-neff-t-00-07-27) | 1 |
+| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-blake-neff-t-00-05-39) | 2 |
+| 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-person-blake-neff-t-00-41-55) | 7 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (87)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (7 mentions)</summary>
+
+**[00:42:05](/episodes/ep-2tFYJf1klgY.md#ent-person-blake-neff-t-00-41-55)**
+> "Blake Neff is obviously demented. I don't know what's wrong ..."
+
+**[00:43:08](/episodes/ep-2tFYJf1klgY.md#ent-person-blake-neff-t-00-42-40)**
+> "...t there's only one thing that Blake Neff could not bear. He couldn't bear it. He put his f..."
+
+**[00:43:25](/episodes/ep-2tFYJf1klgY.md#ent-person-blake-neff-t-00-43-25)**
+> "...at Turning Point, what Blake (Blake Neff) actually authored. This is not a joke, okay?"
+
+**[00:44:30](/episodes/ep-2tFYJf1klgY.md#ent-person-blake-neff-t-00-44-06)**
+> "...oring this. First off, Blake (Blake Neff), I could show you text messages that turning you..."
+
+**[00:45:35](/episodes/ep-2tFYJf1klgY.md#ent-person-blake-neff-t-00-45-28)**
+> "...o say this. I'm sorry, Blake (Blake Neff). I'd like to apologize. Shabbat shalom. Daddy's ..."
+
+**[00:45:54](/episodes/ep-2tFYJf1klgY.md#ent-person-blake-neff-t-00-45-28)**
+> "... Kirk). And I'm sorry, Blake (Blake Neff). I will never do this again. I'll be back after ..."
+
+**[00:49:17](/episodes/ep-2tFYJf1klgY.md#ent-person-blake-neff-t-00-48-45)**
+> "...an meet in the middle, Blake (Blake Neff). You better be Jewish. If I find out you're not ..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (2 mentions)</summary>
+
+**[00:06:06](/episodes/ep-jTj9Ip46r4w.md#ent-person-blake-neff-t-00-05-39)**
+> "...Coy and, of course, wargaming Blake Neff, actually got into his studio and shared this."
+
+**[00:07:06](/episodes/ep-jTj9Ip46r4w.md#ent-person-blake-neff-t-00-07-04)**
+> "...'t actually know charlie like blake you said it in private he would be not happy with..."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
@@ -115,10 +214,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (13 mentions)</summary>
-
-**[00:03:53](/episodes/ep-DqGNvi36ol8.md#ent-person-blake-neff-t-00-03-41)**
-> "Blake Neff says on Charlie Kirk show that it was Erikas direction"
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (12 mentions)</summary>
 
 **[00:03:53](/episodes/ep-DqGNvi36ol8.md#ent-person-blake-neff-t-00-03-41)**
 > "At least that's what Blake Neff is saying on the Charlie Kirk show."
@@ -206,10 +302,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (10 mentions)</summary>
-
-**[00:02:54](/episodes/ep-his-JBjlkh8.md#ent-person-blake-neff-t-00-02-14)**
-> "they sent Blake Neff out. Blake Neff, by the way, is the producer of The Charlie Kirk Show."
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (9 mentions)</summary>
 
 **[00:02:54](/episodes/ep-his-JBjlkh8.md#ent-person-blake-neff-t-00-02-14)**
 > "...nobody knows. We can hear their explanation for why they didn't in just a moment, because they sent Blake Neff out. Blake Neff, by the way, is the producer of The Charlie Kirk Show. Now he is kind of the rotati..."
@@ -241,16 +334,13 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (10 mentions)</summary>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (9 mentions)</summary>
 
 **[00:21:32](/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-21-22)**
 > "...ght back because Turning Point is dropping receipts—kind of a little bit. We're going to talk about Blake Neff, who dropped a receipt; Brian Harpole, the security who dropped a receipt—right after a few of our ..."
 
 **[00:31:52](/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-31-27)**
 > "... be passing the buck. So thank you for the receipt that wasn't actually a receipt. Next up, we have Blake Neff. Obviously, you guys will recall Blake Neff was the Turning Point USA employee that was standing di..."
-
-**[00:31:54](/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-31-27)**
-> "Blake Neff dropped receipt of phone call after assassination"
 
 **[00:31:54](/episodes/ep-581dILVcEE4.md#ent-person-blake-neff-t-00-31-27)**
 > "...eceipt that wasn't actually a receipt. Next up, we have Blake Neff. Obviously, you guys will recall Blake Neff was the Turning Point USA employee that was standing directly next to super-Mikey McCoy when the sh..."
@@ -348,6 +438,17 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 </details>
 
+<details>
+<summary>ep-y8lak3CRwDw (2 mentions)</summary>
+
+**[00:00:00](/episodes/ep-y8lak3CRwDw.md#t-00-00-00)**
+> "... guys, Shabbat Shalom. Hello, Blake Neff. How are you doing, sir? Question for you, if you..."
+
+**[00:00:10](/episodes/ep-y8lak3CRwDw.md#t-00-00-10)**
+> "Romania. Romania, Blake, what goes on in Romania? Why are so many people ..."
+
+</details>
+
 </details>
 
 <details open>
@@ -357,7 +458,35 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary>Appeared With (1)</summary>
 
 - **[Mikey McCoy](/entities/person-mikey-mccoy.md)**
-  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:22:57](/episodes/ep-es7PWdFGoFI.md#t-00-22-39): "Blake Neff called his mom. His call with his mother lasted 45 seconds."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:22:57](/episodes/ep-es7PWdFGoFI.md#t-00-22-39): “Blake Neff called his mom. His call with his mother lasted 45 seconds.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Criticized (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:43:35](/episodes/ep-2tFYJf1klgY.md#t-00-43-25): “I have avoided commenting on most of what Candace Owens' claims are the past few months. However, her last episode contained such a blatant untruth about Charlie (Charlie Kirk)'s daily life that I feel compelled to correct it.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
+
+</details>
 
 </details>
 
@@ -365,7 +494,11 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary>Formerly Worked For (1)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-  - [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 @ 00:45:57](/episodes/ep-DqGNvi36ol8.md#t-00-45-50)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 @ 00:45:57](/episodes/ep-DqGNvi36ol8.md#t-00-45-50)
+
+</details>
 
 </details>
 
@@ -373,38 +506,88 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary>Works For (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:31:31](/episodes/ep-581dILVcEE4.md#t-00-31-27): "Blake Neff was the Turning Point USA employee that was standing directly next to super-Mikey McCoy"
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:31:54](/episodes/ep-581dILVcEE4.md#t-00-31-27): "Blake Neff was the Turning Point USA employee that was standing directly next to Mikey McCoy"
-  - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:00:57](/episodes/ep-ZAuuSq_j2_w.md#t-00-00-43): "I opened the tweets, which went out from Blake Neff around midnight last night"
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:31:31](/episodes/ep-581dILVcEE4.md#t-00-31-27): “Blake Neff was the Turning Point USA employee that was standing directly next to super-Mikey McCoy”
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:31:54](/episodes/ep-581dILVcEE4.md#t-00-31-27): “Blake Neff was the Turning Point USA employee that was standing directly next to Mikey McCoy”
+- [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:00:57](/episodes/ep-ZAuuSq_j2_w.md#t-00-00-43): “I opened the tweets, which went out from Blake Neff around midnight last night”
+- [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 @ 00:03:53](/episodes/ep-DqGNvi36ol8.md#t-00-03-41)
+
+</details>
 
 - **[The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)**
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#t-00-02-14): "Blake Neff, by the way, is the producer of The Charlie Kirk Show."
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:54](/episodes/ep-his-JBjlkh8.md#t-00-02-14): "Blake Neff, by the way, is the producer of The Charlie Kirk Show"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#t-00-02-14): “Blake Neff, by the way, is the producer of The Charlie Kirk Show.”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:54](/episodes/ep-his-JBjlkh8.md#t-00-02-14): “Blake Neff, by the way, is the producer of The Charlie Kirk Show”
+
+</details>
 
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Mikey McCoy](/entities/person-mikey-mccoy.md)** appeared with this
-  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:22:57](/episodes/ep-es7PWdFGoFI.md#t-00-22-39)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:22:57](/episodes/ep-es7PWdFGoFI.md#t-00-22-39): “Blake Neff called his mom. His call with his mother lasted 45 seconds.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:43:35](/episodes/ep-2tFYJf1klgY.md#t-00-43-25): “I have avoided commenting on most of what Candace Owens' claims are the past few months. However, her last episode contained such a blatant untruth about Charlie (Charlie Kirk)'s daily life that I feel compelled to correct it.”
+
+</details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:31:31](/episodes/ep-581dILVcEE4.md#t-00-31-27)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:31:31](/episodes/ep-581dILVcEE4.md#t-00-31-27): “Blake Neff was the Turning Point USA employee that was standing directly next to super-Mikey McCoy”
+
+</details>
 
 - **[The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)** employs this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#t-00-02-14)
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:54](/episodes/ep-his-JBjlkh8.md#t-00-02-14)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#t-00-02-14): “Blake Neff, by the way, is the producer of The Charlie Kirk Show.”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:54](/episodes/ep-his-JBjlkh8.md#t-00-02-14): “Blake Neff, by the way, is the producer of The Charlie Kirk Show”
+
+</details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** formerly employed this
-  - [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 @ 00:45:57](/episodes/ep-DqGNvi36ol8.md#t-00-45-50)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 @ 00:45:57](/episodes/ep-DqGNvi36ol8.md#t-00-45-50)
+
+</details>
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Blake Neff (6)</strong></summary>
+<summary><strong class="section-title">Statements by Blake Neff (8)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (2)</summary>
+
+- [00:43:35](/episodes/ep-2tFYJf1klgY.md#t-00-43-25) [✓] (Accusation) ["Blake Neff said Candace Owens's prior episode contained a blatant untruth about ..."](/statements/statement-1c454043fe46.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:44:06](/episodes/ep-2tFYJf1klgY.md#t-00-44-06) [✓] (Claim) ["Blake Neff said Charlie Kirk observed an evangelical Christian version of Shabba..."](/statements/statement-3ac1950a9552.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Blake Neff](/entities/person-blake-neff.md), [Shabbat](/entities/concept-shabbat.md)
+
+</details>
 
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2)</summary>
@@ -437,7 +620,15 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Blake Neff (13)</strong></summary>
+<summary><strong class="section-title">Statements about Blake Neff (14)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (1)</summary>
+
+- [00:44:06](/episodes/ep-2tFYJf1klgY.md#t-00-44-06) (Claim) **Blake Neff** (via quoted post): ["Blake Neff said Charlie Kirk observed an evangelical Christian version..."](/statements/statement-3ac1950a9552.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Shabbat](/entities/concept-shabbat.md), [Evangelicalism](/entities/concept-evangelicalism.md)
+
+</details>
 
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1)</summary>

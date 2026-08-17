@@ -1,6 +1,6 @@
 ---
 title: "BBC"
-description: "BBC (Organizations) - 7 mentions"
+description: "BBC (Organizations) - 6 mentions"
 id: "org-bbc"
 type: "ORG"
 aliases:
@@ -21,10 +21,38 @@ _Type: Organizations_
 > UK government page confirms BBC as the British Broadcasting Corporation.
 Source: [About us | BBC | GOV.UK](https://www.gov.uk/government/organisations/bbc/about)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-bbc-t-00-16-13">2025-09-18 · 00:16:49</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-bbc-t-00-12-15">2026-02-03 · 00:12:23</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-sreYYcID-QY.md#ent-org-bbc-t-00-16-13">EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238</a> (4 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-sreYYcID-QY.md#ent-org-bbc-t-00-16-13" style="--pulse-height:100%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 4 mentions" title="2025-09-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-bbc-t-00-08-46" style="--pulse-height:50%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-org-bbc-t-00-16-13) | 4 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-org-bbc-t-00-08-46) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
 
 <details>
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (2 mentions)</summary>
@@ -38,10 +66,7 @@ Source: [About us | BBC | GOV.UK](https://www.gov.uk/government/organisations/bb
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (5 mentions)</summary>
-
-**[00:16:49](/episodes/ep-sreYYcID-QY.md#ent-org-bbc-t-00-16-13)**
-> "Sherry Steele, and she spoke to the BBC about how she had witnessed the police swarm"
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (4 mentions)</summary>
 
 **[00:16:49](/episodes/ep-sreYYcID-QY.md#ent-org-bbc-t-00-16-13)**
 > "... Steele, and she spoke to the BBC about how she had witnessed the police swarm the ..."
@@ -66,7 +91,11 @@ Source: [About us | BBC | GOV.UK](https://www.gov.uk/government/organisations/bb
 <summary>Interviewed (1)</summary>
 
 - **[Sherry Steele](/entities/person-sherry-steele.md)**
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:03:33](/episodes/ep-sreYYcID-QY.md#t-00-03-26): "Her name is Sherry Steele, and she spoke to the BBC about how she had witnessed the police swarm the townhouse of Tyler Robinson and Lance"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:03:33](/episodes/ep-sreYYcID-QY.md#t-00-03-26): “Her name is Sherry Steele, and she spoke to the BBC about how she had witnessed the police swarm the townhouse of Tyler Robinson and Lance”
+
+</details>
 
 </details>
 
@@ -74,7 +103,11 @@ Source: [About us | BBC | GOV.UK](https://www.gov.uk/government/organisations/bb
 <summary>Referenced By (1)</summary>
 
 - **[Sherry Steele](/entities/person-sherry-steele.md)** interviewed by this
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:03:33](/episodes/ep-sreYYcID-QY.md#t-00-03-26)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:03:33](/episodes/ep-sreYYcID-QY.md#t-00-03-26): “Her name is Sherry Steele, and she spoke to the BBC about how she had witnessed the police swarm the townhouse of Tyler Robinson and Lance”
+
+</details>
 
 </details>
 

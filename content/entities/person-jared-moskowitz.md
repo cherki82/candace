@@ -21,10 +21,36 @@ _Type: People_
 > The member's official House biography confirms the canonical name Jared Moskowitz and representative role.
 Source: [About Jared | U.S. Representative Jared Moskowitz](https://moskowitz.house.gov/about)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-jared-moskowitz-t-00-40-58">2026-02-13 · 00:41:12</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-jared-moskowitz-t-00-44-37">2026-02-13 · 00:45:13</a></strong></div>
+<div><span>Episodes</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Statements by</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-jared-moskowitz-t-00-40-58">Okay…These Text Messages Are Crazy! | Candace Ep 307</a> (3 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-jared-moskowitz-t-00-40-58" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 3 mentions" title="2026-02-13 · 3 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-jared-moskowitz-t-00-40-58) | 3 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (3 mentions)</summary>
@@ -55,22 +81,22 @@ _No relationships extracted yet._
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (6)</summary>
 
-- [00:42:58](/episodes/ep-1hcjQGgvxUY.md#t-00-42-25) [○] (Claim) ["The administration did not voluntarily release the Epstein files; Congress force..."](/statements/statement-1eb05d7db07d.md)
+- [00:42:58](/episodes/ep-1hcjQGgvxUY.md#t-00-42-25) [✓] (Claim) ["The administration did not voluntarily release the Epstein files; Congress force..."](/statements/statement-1eb05d7db07d.md)
   - About: [White House](/entities/org-white-house.md), [United States Congress](/entities/org-united-states-congress.md), [Epstein Files](/entities/work-epstein-files.md)
 
-- [00:43:20](/episodes/ep-1hcjQGgvxUY.md#t-00-43-07) [○] (Accusation) ["Kash Patel testified that the FBI had no criminal evidence Epstein trafficked gi..."](/statements/statement-3d79e5904e4e.md)
+- [00:43:20](/episodes/ep-1hcjQGgvxUY.md#t-00-43-07) [◐] (Accusation) ["Kash Patel testified that the FBI had no criminal evidence Epstein trafficked gi..."](/statements/statement-3d79e5904e4e.md)
   - About: [Kash Patel](/entities/person-kash-patel.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
 
-- [00:43:43](/episodes/ep-1hcjQGgvxUY.md#t-00-43-07) [○] (Claim) ["Ghislaine Maxwell says 29 Epstein associates cut secret Justice Department deals..."](/statements/statement-8bfdc85db6dc.md)
+- [00:43:43](/episodes/ep-1hcjQGgvxUY.md#t-00-43-07) [◐] (Claim) ["Ghislaine Maxwell says 29 Epstein associates cut secret Justice Department deals..."](/statements/statement-8bfdc85db6dc.md)
   - About: [Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [United States Department of Justice](/entities/org-united-states-department-of-justice.md)
 
-- [00:44:00](/episodes/ep-1hcjQGgvxUY.md#t-00-43-52) [○] (Accusation) ["Jared Moskowitz says Kash Patel's under-oath claim that Donald Trump's name appe..."](/statements/statement-960b5ebf630c.md)
+- [00:44:00](/episodes/ep-1hcjQGgvxUY.md#t-00-43-52) [✓] (Accusation) ["Jared Moskowitz says Kash Patel's under-oath claim that Donald Trump's name appe..."](/statements/statement-960b5ebf630c.md)
   - About: [Kash Patel](/entities/person-kash-patel.md), [Donald J. Trump](/entities/person-donald-trump.md), [Epstein Files](/entities/work-epstein-files.md)
 
-- [00:44:42](/episodes/ep-1hcjQGgvxUY.md#t-00-44-37) [○] (Claim) ["Howard Lutnick and his family were on Epstein Island in 2012, after Epstein plea..."](/statements/statement-f7d3e61fbb17.md)
+- [00:44:42](/episodes/ep-1hcjQGgvxUY.md#t-00-44-37) [✓] (Claim) ["Howard Lutnick and his family were on Epstein Island in 2012, after Epstein plea..."](/statements/statement-f7d3e61fbb17.md)
   - About: [Howard Lutnick](/entities/person-howard-lutnick.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Little Saint James](/entities/gpe-little-saint-james.md)
 
-- [00:44:57](/episodes/ep-1hcjQGgvxUY.md#t-00-44-37) [○] (Citation) ["Documents in the Epstein files dispute Donald Trump's claim that he expelled Jef..."](/statements/statement-049d7908ab42.md)
+- [00:44:57](/episodes/ep-1hcjQGgvxUY.md#t-00-44-37) [✓] (Citation) ["Documents in the Epstein files dispute Donald Trump's claim that he expelled Jef..."](/statements/statement-049d7908ab42.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Epstein Files](/entities/work-epstein-files.md)
 
 </details>

@@ -23,10 +23,46 @@ _Type: People_
 > Official biography confirms Bassem Youssef; transcript ASR rendered the first name as Basim.
 Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-person-bassem-youssef-t-00-33-05">2026-01-16 · 00:33:19</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-bassem-youssef-t-00-46-01">2026-02-11 · 00:46:01</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Statements by</span><strong>25</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-bassem-youssef-t-00-02-28">Candace x Bassem Youssef | Candace Ep 298</a> (4 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-bassem-youssef-t-00-33-05" style="--pulse-height:25%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-bassem-youssef-t-01-08-08" style="--pulse-height:50%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-bassem-youssef-t-00-02-28" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 4 mentions" title="2026-01-29 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-person-bassem-youssef-t-00-50-31" style="--pulse-height:75%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 3 mentions" title="2026-01-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-bassem-youssef-t-00-40-04" style="--pulse-height:25%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-bassem-youssef-t-00-46-01" style="--pulse-height:25%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-bassem-youssef-t-00-33-05) | 1 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-bassem-youssef-t-01-08-08) | 2 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-bassem-youssef-t-00-02-28) | 4 |
+| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-bassem-youssef-t-00-50-31) | 3 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-bassem-youssef-t-00-40-04) | 1 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-bassem-youssef-t-00-46-01) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
@@ -103,10 +139,18 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 <summary>Appeared With (2)</summary>
 
 - **[Jonathan Conricus](/entities/person-jonathan-conricus.md)**
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:04:25](/episodes/ep-xjzb_t5Tk9o.md#t-01-04-24): "psychopath are genuinely sick people. The world revolves around them. They can do no wrong. They will gaslight you into denying what's in front of you. They will not engage in conversation except to wear you down and piss you off. In one of the interviews I did with Piers Morgan, they brought someone called Jonathan Conricus, who was the ex-IDF"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:04:25](/episodes/ep-xjzb_t5Tk9o.md#t-01-04-24): “psychopath are genuinely sick people. The world revolves around them. They can do no wrong. They will gaslight you into denying what's in front of you. They will not engage in conversation except to wear you down and piss you off. In one of the interviews I did with Piers Morgan, they brought someone called Jonathan Conricus, who was the ex-IDF”
+
+</details>
 
 - **[Lioness](/entities/work-lioness.md)**
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:25:18](/episodes/ep-xjzb_t5Tk9o.md#t-01-25-17): "Candace, please tell Bassem (Bassem Youssef) that I loved him in the TV show Lioness as Amrohi."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:25:18](/episodes/ep-xjzb_t5Tk9o.md#t-01-25-17): “Candace, please tell Bassem (Bassem Youssef) that I loved him in the TV show Lioness as Amrohi.”
+
+</details>
 
 </details>
 
@@ -114,7 +158,11 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 <summary>Friend Of (1)</summary>
 
 - **[Matt Lieb](/entities/person-matt-lieb.md)**
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 00:18:39](/episodes/ep-xjzb_t5Tk9o.md#t-00-18-39): "actually make this the mainstream and a lot of my Jewish friends are feel that they're silenced they're sidelined we have seen a lot of like Jewish artists directors and and and actresses and actors they go on and they speak up and you see what happens they are being called an anti-semitic the next day one of my love closest friend Matt Leib is a"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 00:18:39](/episodes/ep-xjzb_t5Tk9o.md#t-00-18-39): “actually make this the mainstream and a lot of my Jewish friends are feel that they're silenced they're sidelined we have seen a lot of like Jewish artists directors and and and actresses and actors they go on and they speak up and you see what happens they are being called an anti-semitic the next day one of my love closest friend Matt Leib is a”
+
+</details>
 
 </details>
 
@@ -122,12 +170,20 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 <summary>Interviewed By (2)</summary>
 
 - **[Piers Morgan](/entities/person-piers-morgan.md)**
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:04:25](/episodes/ep-xjzb_t5Tk9o.md#t-01-04-24): "psychopath are genuinely sick people. The world revolves around them. They can do no wrong. They will gaslight you into denying what's in front of you. They will not engage in conversation except to wear you down and piss you off. In one of the interviews I did with Piers Morgan, they brought someone called Jonathan Conricus, who was the ex-IDF"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:04:25](/episodes/ep-xjzb_t5Tk9o.md#t-01-04-24): “psychopath are genuinely sick people. The world revolves around them. They can do no wrong. They will gaslight you into denying what's in front of you. They will not engage in conversation except to wear you down and piss you off. In one of the interviews I did with Piers Morgan, they brought someone called Jonathan Conricus, who was the ex-IDF”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:47:56](/episodes/ep-xjzb_t5Tk9o.md#t-01-47-56): "I brought him on here to say that I didn't do anything."
-  - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:50:46](/episodes/ep-Wjul6YV6izo.md#t-00-50-31): "This person writes, and this is obviously my sit down with Bassem Youssef."
-  - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:40:15](/episodes/ep-QRS_hR7NXaQ.md#t-00-40-04): "Candace (Candace Owens) also interviewed Bassem Youssef and told him she thinks something bad happened in your childhood because you fixate and lack empathy."
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:47:56](/episodes/ep-xjzb_t5Tk9o.md#t-01-47-56): “I brought him on here to say that I didn't do anything.”
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:50:46](/episodes/ep-Wjul6YV6izo.md#t-00-50-31): “This person writes, and this is obviously my sit down with Bassem Youssef.”
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:40:15](/episodes/ep-QRS_hR7NXaQ.md#t-00-40-04): “Candace (Candace Owens) also interviewed Bassem Youssef and told him she thinks something bad happened in your childhood because you fixate and lack empathy.”
+
+</details>
 
 </details>
 
@@ -135,7 +191,11 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 <summary>Lives In (1)</summary>
 
 - **[United States](/entities/gpe-united-states.md)**
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:10:09](/episodes/ep-xjzb_t5Tk9o.md#t-01-09-52): "live the American dream. ... I'm actually very happy. I'm a proud American, ... by the way. I got my passport six years ago, and I'm happy that I've established my American dream to finally come here, ... live in America,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:10:09](/episodes/ep-xjzb_t5Tk9o.md#t-01-09-52): “live the American dream. ... I'm actually very happy. I'm a proud American, ... by the way. I got my passport six years ago, and I'm happy that I've established my American dream to finally come here, ... live in America,”
+
+</details>
 
 </details>
 
@@ -143,23 +203,48 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 <summary>Referenced By (6)</summary>
 
 - **[Jonathan Conricus](/entities/person-jonathan-conricus.md)** appeared with this
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:04:25](/episodes/ep-xjzb_t5Tk9o.md#t-01-04-24)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:04:25](/episodes/ep-xjzb_t5Tk9o.md#t-01-04-24): “psychopath are genuinely sick people. The world revolves around them. They can do no wrong. They will gaslight you into denying what's in front of you. They will not engage in conversation except to wear you down and piss you off. In one of the interviews I did with Piers Morgan, they brought someone called Jonathan Conricus, who was the ex-IDF”
+
+</details>
 
 - **[Lioness](/entities/work-lioness.md)** appeared with this
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:25:18](/episodes/ep-xjzb_t5Tk9o.md#t-01-25-17)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:25:18](/episodes/ep-xjzb_t5Tk9o.md#t-01-25-17): “Candace, please tell Bassem (Bassem Youssef) that I loved him in the TV show Lioness as Amrohi.”
+
+</details>
 
 - **[Matt Lieb](/entities/person-matt-lieb.md)** friend of this
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 00:18:39](/episodes/ep-xjzb_t5Tk9o.md#t-00-18-39)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 00:18:39](/episodes/ep-xjzb_t5Tk9o.md#t-00-18-39): “actually make this the mainstream and a lot of my Jewish friends are feel that they're silenced they're sidelined we have seen a lot of like Jewish artists directors and and and actresses and actors they go on and they speak up and you see what happens they are being called an anti-semitic the next day one of my love closest friend Matt Leib is a”
+
+</details>
 
 - **[Piers Morgan](/entities/person-piers-morgan.md)** interviewed this
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:04:25](/episodes/ep-xjzb_t5Tk9o.md#t-01-04-24)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:04:25](/episodes/ep-xjzb_t5Tk9o.md#t-01-04-24): “psychopath are genuinely sick people. The world revolves around them. They can do no wrong. They will gaslight you into denying what's in front of you. They will not engage in conversation except to wear you down and piss you off. In one of the interviews I did with Piers Morgan, they brought someone called Jonathan Conricus, who was the ex-IDF”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed this
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:47:56](/episodes/ep-xjzb_t5Tk9o.md#t-01-47-56)
-  - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:50:46](/episodes/ep-Wjul6YV6izo.md#t-00-50-31)
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:47:56](/episodes/ep-xjzb_t5Tk9o.md#t-01-47-56): “I brought him on here to say that I didn't do anything.”
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:50:46](/episodes/ep-Wjul6YV6izo.md#t-00-50-31): “This person writes, and this is obviously my sit down with Bassem Youssef.”
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:40:15](/episodes/ep-QRS_hR7NXaQ.md#t-00-40-04): “Candace (Candace Owens) also interviewed Bassem Youssef and told him she thinks something bad happened in your childhood because you fixate and lack empathy.”
+
+</details>
 
 - **[United States](/entities/gpe-united-states.md)** residence of this
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:10:09](/episodes/ep-xjzb_t5Tk9o.md#t-01-09-52)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:10:09](/episodes/ep-xjzb_t5Tk9o.md#t-01-09-52): “live the American dream. ... I'm actually very happy. I'm a proud American, ... by the way. I got my passport six years ago, and I'm happy that I've established my American dream to finally come here, ... live in America,”
+
+</details>
 
 </details>
 
@@ -238,10 +323,10 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
   - About: [Palestine](/entities/gpe-palestine.md), [United States](/entities/gpe-united-states.md)
 
 - [01:23:49](/episodes/ep-xjzb_t5Tk9o.md#t-01-23-21) [◐] (Accusation) ["The New York Times published a completely fabricated rape story whose named Isra..."](/statements/statement-9d5a06e8c485.md)
-  - About: [The New York Times](/entities/org-new-york-times.md), [Israel](/entities/gpe-israel.md)
+  - About: [The New York Times](/entities/org-the-new-york-times.md), [Israel](/entities/gpe-israel.md)
 
 - [01:24:42](/episodes/ep-xjzb_t5Tk9o.md#t-01-24-42) [◐] (Citation) ["Israeli media reported the Hannibal Directive, Israeli soldiers killing Israelis..."](/statements/statement-dffdfa972b19.md)
-  - About: [Israel Defense Forces](/entities/org-israel-defense-forces.md), [Israel](/entities/gpe-israel.md), [The New York Times](/entities/org-new-york-times.md)
+  - About: [Israel Defense Forces](/entities/org-israel-defense-forces.md), [Israel](/entities/gpe-israel.md), [The New York Times](/entities/org-the-new-york-times.md)
 
 - [01:28:15](/episodes/ep-xjzb_t5Tk9o.md#t-01-28-13) [✗] (Claim) ["By Way of Deception was the only book in U.S. history placed under a gag order, ..."](/statements/statement-47bd902c30ba.md)
   - About: [By Way of Deception](/entities/work-by-way-of-deception.md), [United States](/entities/gpe-united-states.md)
@@ -257,7 +342,7 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>
 
 - [00:02:52](/episodes/ep-xjzb_t5Tk9o.md#t-00-02-28) (Accusation) **Candace Owens**: ["The Daily Wire refused to host Bassem Youssef because he had hurt Ben ..."](/statements/statement-07991641f9f1.md)
-  - Also about: [The Daily Wire](/entities/org-daily-wire.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
 
 </details>
 
@@ -265,7 +350,7 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1)</summary>
 
 - [01:08:14](/episodes/ep-QdM9jLwjwLw.md#t-01-08-08) (Claim) **Candace Owens**: ["The Daily Wire denied my request to host Bassem Youssef while I worked..."](/statements/statement-97b38798c1ab.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </details>
 

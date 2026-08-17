@@ -1,6 +1,6 @@
 ---
 title: "New York"
-description: "New York (Places) - 68 mentions"
+description: "New York (Places) - 77 mentions"
 id: "gpe-new-york"
 type: "GPE"
 categories:
@@ -15,10 +15,128 @@ _Type: Places_
 > Official state source verifies New York as the canonical location name; context refers generally to New York.
 Source: [State of New York](https://www.ny.gov/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-50-22">2025-09-15 · 00:50:22</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-new-york-t-00-52-57">2026-03-02 · 00:52:57</a></strong></div>
+<div><span>Episodes</span><strong>26</strong></div>
+<div><span>Mentions</span><strong>77</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-LATnak75Si0.md#ent-gpe-new-york-t-00-09-05">Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259</a> (13 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-czVBmqZP6Ss.md#t-00-50-22" style="--pulse-height:8%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 1 mentions" title="2025-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#t-00-18-10" style="--pulse-height:38%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 5 mentions" title="2025-09-17 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#t-00-12-30" style="--pulse-height:23%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 3 mentions" title="2025-09-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-gpe-new-york-t-00-02-10" style="--pulse-height:15%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 2 mentions" title="2025-09-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#t-00-34-10" style="--pulse-height:8%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#t-00-20-14" style="--pulse-height:15%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 2 mentions" title="2025-10-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-new-york-t-00-12-03" style="--pulse-height:23%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 3 mentions" title="2025-10-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#t-00-34-57" style="--pulse-height:8%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#t-00-20-35" style="--pulse-height:8%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-new-york-t-00-35-27" style="--pulse-height:8%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-new-york-t-00-28-43" style="--pulse-height:15%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-gpe-new-york-t-00-09-05" style="--pulse-height:100%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 13 mentions" title="2025-11-05 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-t-00-07-46" style="--pulse-height:46%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 6 mentions" title="2025-11-08 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-new-york-t-00-03-20" style="--pulse-height:8%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#t-00-11-40" style="--pulse-height:8%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-new-york-t-00-14-43" style="--pulse-height:8%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#t-00-28-48" style="--pulse-height:8%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#t-00-19-05" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#t-00-17-32" style="--pulse-height:15%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-new-york-t-01-35-51" style="--pulse-height:38%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 5 mentions" title="2026-01-29 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-new-york-t-00-28-00" style="--pulse-height:23%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 3 mentions" title="2026-02-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-gpe-new-york-t-00-51-35" style="--pulse-height:23%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 3 mentions" title="2026-02-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-gpe-new-york-t-00-30-11" style="--pulse-height:69%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 9 mentions" title="2026-02-10 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-new-york-t-00-24-28" style="--pulse-height:15%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-new-york-t-00-13-19" style="--pulse-height:46%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 6 mentions" title="2026-02-28 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-new-york-t-00-52-57" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#t-00-50-22) | 1 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#t-00-18-10) | 5 |
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#t-00-12-30) | 3 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-gpe-new-york-t-00-02-10) | 2 |
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#t-00-34-10) | 1 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#t-00-20-14) | 2 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-new-york-t-00-12-03) | 3 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#t-00-34-57) | 1 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#t-00-20-35) | 1 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-new-york-t-00-35-27) | 1 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-new-york-t-00-28-43) | 2 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-gpe-new-york-t-00-09-05) | 13 |
+| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-t-00-07-46) | 6 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-new-york-t-00-03-20) | 1 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#t-00-11-40) | 1 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-new-york-t-00-14-43) | 1 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#t-00-28-48) | 1 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#t-00-19-05) | 1 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#t-00-17-32) | 2 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-new-york-t-01-35-51) | 5 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-new-york-t-00-28-00) | 3 |
+| 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-gpe-new-york-t-00-51-35) | 3 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-gpe-new-york-t-00-30-11) | 9 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-new-york-t-00-24-28) | 2 |
+| 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-new-york-t-00-13-19) | 6 |
+| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-new-york-t-00-52-57) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (77)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1 mentions)</summary>
+
+**[00:52:57](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-new-york-t-00-52-57)**
+> "...never dated for five years in new york you never ever entered beauty pageants you stayed..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (6 mentions)</summary>
+
+**[00:13:32](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-new-york-t-00-13-19)**
+> "...ight here. I'm a notary up in New York. That jumps out at me."
+
+**[00:53:43](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-new-york-t-00-13-19)**
+> "...hrough recounting her time in New York City, whether or not she was dating. And I want y..."
+
+**[00:54:07](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-new-york-t-00-13-19)**
+> "...old Christian woman living in New York City. I would like to stay here long term, but I ..."
+
+**[00:55:34](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-new-york-t-00-13-19)**
+> "...t because I was not dating in New York City, he knew that in order for me to know that t..."
+
+**[00:57:09](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-new-york-t-00-13-19)**
+> "... Kirk). I did the 20s hard in New York City."
+
+**[00:58:21](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-new-york-t-00-58-21)**
+> "...I did not have a boyfriend in New York. I didn't go out to meet a boyfriend because I al..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (2 mentions)</summary>
+
+**[00:16:35](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-new-york-t-00-24-28)**
+> "... in-person interview with the New York Times days after Charlie (Charlie Kirk) was publi..."
+
+**[00:24:33](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-new-york-t-00-24-28)**
+> "...a notary, one in the state of New York, although my license is expired."
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (9 mentions)</summary>

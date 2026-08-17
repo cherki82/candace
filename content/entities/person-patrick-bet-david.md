@@ -1,34 +1,101 @@
 ---
 title: "Patrick Bet-David"
-description: "Patrick Bet-David (People) - 17 mentions"
+description: "Patrick Bet-David (People) - 22 mentions"
 id: "person-patrick-bet-david"
 type: "PERSON"
 aliases:
   - "PBD"
+categories:
+  - "entrepreneurship"
+  - "PBD Podcast"
 ---
 
 _Type: People_
 
 **Also known as:** PBD
 
+**Categories:** entrepreneurship, PBD Podcast
+
+**Entity verification:** verified
+> Patrick Bet-David's official biography verifies his canonical name and identifies him as Valuetainment's founder and a podcast host.
+Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com/)
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#t-00-57-35">2025-09-16 · 00:58:07</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-patrick-bet-david-t-04-02-53">2026-08-14 · 04:02:57</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-sreYYcID-QY.md#ent-person-patrick-bet-david-t-00-00-33">EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238</a> (5 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-q7f8r-THr84.md#t-00-57-35" style="--pulse-height:20%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-person-patrick-bet-david-t-00-00-33" style="--pulse-height:100%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 5 mentions" title="2025-09-18 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-patrick-bet-david-t-00-20-25" style="--pulse-height:80%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 4 mentions" title="2025-09-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-patrick-bet-david-t-00-44-06" style="--pulse-height:40%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 2 mentions" title="2025-10-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-patrick-bet-david-t-00-48-55" style="--pulse-height:20%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-patrick-bet-david-t-00-46-12" style="--pulse-height:80%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 4 mentions" title="2025-12-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-patrick-bet-david-t-02-54-51" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 5 mentions" title="2026-08-14 · 5 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#t-00-57-35) | 1 |
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-person-patrick-bet-david-t-00-00-33) | 5 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-patrick-bet-david-t-00-20-25) | 4 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-patrick-bet-david-t-00-44-06) | 2 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-patrick-bet-david-t-00-48-55) | 1 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-patrick-bet-david-t-00-46-12) | 4 |
+| 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-patrick-bet-david-t-02-54-51) | 5 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (5 mentions)</summary>
+
+**[00:26:13](/episodes/ep-nPhCKwJ6ye8.md#ent-person-patrick-bet-david-t-02-54-51)**
+> "...are watching as well. And the PBD podcast,"
+
+**[01:26:09](/episodes/ep-nPhCKwJ6ye8.md#ent-person-patrick-bet-david-t-02-54-51)**
+> "And if you're watching it on PBD Podcast,"
+
+**[02:55:01](/episodes/ep-nPhCKwJ6ye8.md#ent-person-patrick-bet-david-t-02-54-51)**
+> "... it. They could release it to PBD."
+
+**[04:01:11](/episodes/ep-nPhCKwJ6ye8.md#ent-person-patrick-bet-david-t-04-00-43)**
+> "I stressed to PBD from the beginning."
+
+**[04:02:57](/episodes/ep-nPhCKwJ6ye8.md#ent-person-patrick-bet-david-t-04-02-53)**
+> "PBD, just for being a great moderator,"
+
+</details>
 
 <details>
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (4 mentions)</summary>
 
-**[00:46:38](/episodes/ep-tB5SXXmd9vU.md#t-00-46-12)**
+**[00:46:38](/episodes/ep-tB5SXXmd9vU.md#ent-person-patrick-bet-david-t-00-46-12)**
 > "...derstand what is happening to PBD's show, which I very much used to enjoy."
 
-**[00:47:33](/episodes/ep-tB5SXXmd9vU.md#t-00-46-56)**
+**[00:47:33](/episodes/ep-tB5SXXmd9vU.md#ent-person-patrick-bet-david-t-00-46-12)**
 > "... people that are engaged in the sport of politics. Take a listen to what Adam Sosnick had to say on Patrick Bet-David's podcast. Disgusting. Forget about what she said about Israel and Jews and BLM and liberals. This ..."
 
-**[00:51:25](/episodes/ep-tB5SXXmd9vU.md#t-00-50-56)**
+**[00:51:25](/episodes/ep-tB5SXXmd9vU.md#ent-person-patrick-bet-david-t-00-50-56)**
 > "and PBD's entire team under the bus in three seconds, and..."
 
-**[00:57:23](/episodes/ep-tB5SXXmd9vU.md#t-00-57-16)**
+**[00:57:23](/episodes/ep-tB5SXXmd9vU.md#ent-person-patrick-bet-david-t-00-50-56)**
 > "...who won't stop talking on the PBD podcast because his only mission in life is to de..."
 
 </details>
@@ -72,19 +139,19 @@ _Type: People_
 <details>
 <summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (5 mentions)</summary>
 
-**[00:00:33](/episodes/ep-sreYYcID-QY.md#t-00-00-33)**
+**[00:00:33](/episodes/ep-sreYYcID-QY.md#ent-person-patrick-bet-david-t-00-00-33)**
 > "...st lying through his teeth on PBD, the PBD podcast, to establish this narrative whi..."
 
-**[00:38:37](/episodes/ep-sreYYcID-QY.md#t-00-38-34)**
+**[00:38:37](/episodes/ep-sreYYcID-QY.md#ent-person-patrick-bet-david-t-00-00-33)**
 > "He goes on the PBD podcast."
 
-**[00:38:56](/episodes/ep-sreYYcID-QY.md#t-00-38-34)**
+**[00:38:56](/episodes/ep-sreYYcID-QY.md#ent-person-patrick-bet-david-t-00-00-33)**
 > "...ric Bolling had to say on the PBD podcast."
 
-**[00:44:36](/episodes/ep-sreYYcID-QY.md#t-00-44-23)**
+**[00:44:36](/episodes/ep-sreYYcID-QY.md#ent-person-patrick-bet-david-t-00-44-23)**
 > "...en a good fact-check for you, PBD—“said that Charlie (Charlie Kirk) had a quiet bre..."
 
-**[00:57:47](/episodes/ep-sreYYcID-QY.md#t-00-57-13)**
+**[00:57:47](/episodes/ep-sreYYcID-QY.md#ent-person-patrick-bet-david-t-00-57-13)**
 > "...you guys, like, you know, the PBD chat going crazy."
 
 </details>
@@ -103,24 +170,68 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Interviewed (2)</summary>
+<summary>Interviewed (4)</summary>
 
 - **[Eric Bolling](/entities/person-eric-bolling.md)**
-  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:20:25](/episodes/ep-aDlhjfW6hz8.md#t-00-19-43): "PBD (Patrick Bet-David)... platformed, without any pushback, Eric Bolling"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:20:25](/episodes/ep-aDlhjfW6hz8.md#t-00-19-43): “PBD (Patrick Bet-David)... platformed, without any pushback, Eric Bolling”
+
+</details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
-  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:26:39](/episodes/ep-aDlhjfW6hz8.md#t-00-25-59): "Patrick Bet-David: When's the last time you saw Candace Owens in person?"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:26:39](/episodes/ep-aDlhjfW6hz8.md#t-00-25-59): “Patrick Bet-David: When's the last time you saw Candace Owens in person?”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 00:24:41](/episodes/ep-nPhCKwJ6ye8.md#t-00-24-41): “Okay, so we're officially live. Candace, Andrew (Andrew Wilson), you know, good to sit down here with you talking to you guys about the conversation that I think started with you being on Joe Rogan”
+
+</details>
+
+- **[Andrew Wilson](/entities/person-andrew-wilson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 00:24:41](/episodes/ep-nPhCKwJ6ye8.md#t-00-24-41): “Okay, so we're officially live. Candace, Andrew (Andrew Wilson), you know, good to sit down here with you talking to you guys about the conversation that I think started with you being on Joe Rogan”
+
+</details>
 
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[Eric Bolling](/entities/person-eric-bolling.md)** interviewed by this
-  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:20:25](/episodes/ep-aDlhjfW6hz8.md#t-00-19-43)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:20:25](/episodes/ep-aDlhjfW6hz8.md#t-00-19-43): “PBD (Patrick Bet-David)... platformed, without any pushback, Eric Bolling”
+
+</details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** interviewed by this
-  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:26:39](/episodes/ep-aDlhjfW6hz8.md#t-00-25-59)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:26:39](/episodes/ep-aDlhjfW6hz8.md#t-00-25-59): “Patrick Bet-David: When's the last time you saw Candace Owens in person?”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 00:24:41](/episodes/ep-nPhCKwJ6ye8.md#t-00-24-41): “Okay, so we're officially live. Candace, Andrew (Andrew Wilson), you know, good to sit down here with you talking to you guys about the conversation that I think started with you being on Joe Rogan”
+
+</details>
+
+- **[Andrew Wilson](/entities/person-andrew-wilson.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 00:24:41](/episodes/ep-nPhCKwJ6ye8.md#t-00-24-41): “Okay, so we're officially live. Candace, Andrew (Andrew Wilson), you know, good to sit down here with you talking to you guys about the conversation that I think started with you being on Joe Rogan”
+
+</details>
 
 </details>
 

@@ -16,14 +16,60 @@ _Type: Places_
 
 **Categories:** city, Nevada
 
+> **Possibly overlapping entity records:** [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > Official municipal website confirms the canonical place name.
 Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-las-vegas-t-00-20-48">2025-11-10 · 00:21:23</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-las-vegas-t-00-28-56">2026-01-16 · 00:28:56</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-t-00-38-03">BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281</a> (9 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-las-vegas-t-00-20-48" style="--pulse-height:67%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 6 mentions" title="2025-11-10 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-las-vegas-t-00-18-59" style="--pulse-height:11%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-las-vegas-t-00-28-42" style="--pulse-height:11%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-las-vegas-t-00-09-45" style="--pulse-height:33%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 3 mentions" title="2025-12-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-t-00-38-03" style="--pulse-height:100%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 9 mentions" title="2025-12-17 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-las-vegas-t-01-00-33" style="--pulse-height:22%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-las-vegas-t-00-33-40" style="--pulse-height:67%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 6 mentions" title="2025-12-20 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-las-vegas-t-00-04-13" style="--pulse-height:22%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-las-vegas-t-00-39-09" style="--pulse-height:11%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-las-vegas-t-00-25-17" style="--pulse-height:22%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-las-vegas-t-00-20-48) | 6 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-las-vegas-t-00-18-59) | 1 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-las-vegas-t-00-28-42) | 1 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-las-vegas-t-00-09-45) | 3 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-gpe-las-vegas-t-00-38-03) | 9 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-las-vegas-t-01-00-33) | 2 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-las-vegas-t-00-33-40) | 6 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-las-vegas-t-00-04-13) | 2 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-las-vegas-t-00-39-09) | 1 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-las-vegas-t-00-25-17) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (33)</strong></summary>
 
 <details>
 <summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (2 mentions)</summary>
@@ -183,7 +229,11 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 <summary>Residence Of (1)</summary>
 
 - **[Kash Patel](/entities/person-kash-patel.md)**
-  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:38:20](/episodes/ep-9k2xrAC0H88.md#t-00-38-03): "Las Vegas, you'll recall, is the home of FBI Director Kash Patel."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:38:20](/episodes/ep-9k2xrAC0H88.md#t-00-38-03): “Las Vegas, you'll recall, is the home of FBI Director Kash Patel.”
+
+</details>
 
 </details>
 
@@ -191,7 +241,11 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 <summary>Referenced By (1)</summary>
 
 - **[Kash Patel](/entities/person-kash-patel.md)** lives in this
-  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:38:20](/episodes/ep-9k2xrAC0H88.md#t-00-38-03)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:38:20](/episodes/ep-9k2xrAC0H88.md#t-00-38-03): “Las Vegas, you'll recall, is the home of FBI Director Kash Patel.”
+
+</details>
 
 </details>
 

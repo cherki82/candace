@@ -22,7 +22,7 @@ type: "factual_claim"
 
 - [Gary Melton](/entities/person-gary-melton.md) (person)
 - [Utah Valley University](/entities/org-utah-valley-university.md) (org)
-- [Federal Aviation Administration](/entities/org-federal-aviation-administration.md) (org)
+- [Federal Aviation Administration](/entities/org-faa.md) (org)
 
 ## Source
 

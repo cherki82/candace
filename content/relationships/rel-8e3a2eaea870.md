@@ -11,7 +11,11 @@ object: "org-united-states-army"
 
 ## [Erika Kirk](/entities/person-erika-kirk) worked with [United States Army](/entities/org-united-states-army)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
+
+**[Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY)**
+
+- [00:20:44](/episodes/ep-2tFYJf1klgY#t-00-20-44): _began to phase that into working with the Marine Corps and the Army_
 
 **[A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g)**
 

@@ -21,10 +21,48 @@ _Type: People_
 > Official site confirms Norman Finkelstein and the Owens interview; transcript uses the shortened Norm.
 Source: [Candace Owens x Norman Finkelstein | Norman Finkelstein](https://www.normanfinkelstein.com/candace-owens-x-norman-finkelstein/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-norman-finkelstein-t-00-38-57">2025-10-29 · 00:39:19</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-norman-finkelstein-t-00-51-03">2026-02-03 · 00:51:03</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Statements by</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-norman-finkelstein-t-00-38-57">Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254</a> (5 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-norman-finkelstein-t-00-38-57" style="--pulse-height:100%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 5 mentions" title="2025-10-29 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-norman-finkelstein-t-00-45-27" style="--pulse-height:60%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 3 mentions" title="2025-10-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-norman-finkelstein-t-01-01-43" style="--pulse-height:40%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-norman-finkelstein-t-00-15-11" style="--pulse-height:20%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-norman-finkelstein-t-00-33-39" style="--pulse-height:20%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-norman-finkelstein-t-01-24-01" style="--pulse-height:40%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-norman-finkelstein-t-00-50-37" style="--pulse-height:80%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 4 mentions" title="2026-02-03 · 4 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-person-norman-finkelstein-t-00-38-57) | 5 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-norman-finkelstein-t-00-45-27) | 3 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-person-norman-finkelstein-t-01-01-43) | 2 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-norman-finkelstein-t-00-15-11) | 1 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-norman-finkelstein-t-00-33-39) | 1 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-norman-finkelstein-t-01-24-01) | 2 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-norman-finkelstein-t-00-50-37) | 4 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
 
 <details>
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (4 mentions)</summary>
@@ -124,9 +162,14 @@ Source: [Candace Owens x Norman Finkelstein | Norman Finkelstein](https://www.no
 <summary>Interviewed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:39:19](/episodes/ep-Qt0VHV-POCg.md#t-00-38-57): "I was very excited to sit down and have a conversation... with Norman Finkelstein."
-  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:15:11](/episodes/ep-LATnak75Si0.md#t-00-14-30): "when Norm Finkelstein was on our show"
-  - [Myron Gaines x Candace Owens @ 00:33:39](/episodes/ep-2T39-oADLj0.md#t-00-33-39): "a jackass about it was just kind of using humor which is the best tool and being like so what's the equation of how many lives are worth so I'm going okay so I'm supposed to believe these are the evil people but this is how many people and then I had Norm Finkelstein on my show"
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:39:19](/episodes/ep-Qt0VHV-POCg.md#t-00-38-57): “I was very excited to sit down and have a conversation... with Norman Finkelstein.”
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:15:11](/episodes/ep-LATnak75Si0.md#t-00-14-30): “when Norm Finkelstein was on our show”
+- [Myron Gaines x Candace Owens @ 00:33:39](/episodes/ep-2T39-oADLj0.md#t-00-33-39): “a jackass about it was just kind of using humor which is the best tool and being like so what's the equation of how many lives are worth so I'm going okay so I'm supposed to believe these are the evil people but this is how many people and then I had Norm Finkelstein on my show”
+- [Candace x Bassem Youssef | Candace Ep 298 @ 00:38:25](/episodes/ep-xjzb_t5Tk9o.md#t-00-38-21): “numbers change and i was grateful to sit down with norm finkelstein and i asked him about that question you know because he's like my parents uh one of his parents was in auschwitz and the other parent was i'm blanking on which of the other camps they were in and he said he acknowledges it he's like yeah of course he said my parents told me some people were taking the tattoos off and some people were putting them on you”
+
+</details>
 
 </details>
 
@@ -134,8 +177,15 @@ Source: [Candace Owens x Norman Finkelstein | Norman Finkelstein](https://www.no
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed this
-  - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:39:19](/episodes/ep-Qt0VHV-POCg.md#t-00-38-57)
-  - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:39:42](/episodes/ep-Qt0VHV-POCg.md#t-00-39-34)
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:39:19](/episodes/ep-Qt0VHV-POCg.md#t-00-38-57): “I was very excited to sit down and have a conversation... with Norman Finkelstein.”
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:39:42](/episodes/ep-Qt0VHV-POCg.md#t-00-39-34): “we will be releasing on Friday with Norman Finkelstein...I was able to sit down with him again—this time on my totally owned show.”
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:15:11](/episodes/ep-LATnak75Si0.md#t-00-14-30): “when Norm Finkelstein was on our show”
+- [Myron Gaines x Candace Owens @ 00:33:39](/episodes/ep-2T39-oADLj0.md#t-00-33-39): “a jackass about it was just kind of using humor which is the best tool and being like so what's the equation of how many lives are worth so I'm going okay so I'm supposed to believe these are the evil people but this is how many people and then I had Norm Finkelstein on my show”
+- [Candace x Bassem Youssef | Candace Ep 298 @ 00:38:25](/episodes/ep-xjzb_t5Tk9o.md#t-00-38-21): “numbers change and i was grateful to sit down with norm finkelstein and i asked him about that question you know because he's like my parents uh one of his parents was in auschwitz and the other parent was i'm blanking on which of the other camps they were in and he said he acknowledges it he's like yeah of course he said my parents told me some people were taking the tattoos off and some people were putting them on you”
+
+</details>
 
 </details>
 

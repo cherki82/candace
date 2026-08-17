@@ -25,7 +25,7 @@ type: "factual_claim"
 - [Maggie Wegner](/entities/person-maggie-wegner.md) (person)
 - [Candace Owens](/entities/person-candace-owens.md) (person)
 - [Tucker Carlson](/entities/person-tucker-carlson.md) (person)
-- [The Daily Wire](/entities/org-daily-wire.md) (org)
+- [The Daily Wire](/entities/org-the-daily-wire.md) (org)
 
 ## Source
 

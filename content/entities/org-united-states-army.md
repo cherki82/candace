@@ -1,6 +1,6 @@
 ---
 title: "United States Army"
-description: "United States Army (Organizations) - 17 mentions"
+description: "United States Army (Organizations) - 27 mentions"
 id: "org-united-states-army"
 type: "ORG"
 aliases:
@@ -21,10 +21,110 @@ _Type: Organizations_
 > The official Fort Huachuca site identifies the U.S. Army installation and confirms the canonical U.S. Army name used in the episode.
 Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.php)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#t-00-28-44">2025-09-30 · 00:28:44</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-44-16">2026-08-14 · 00:44:16</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>27</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>5</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-43-58">Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast</a> (6 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-YA1FxrDWNIo.md#t-00-28-44" style="--pulse-height:17%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#t-00-47-46" style="--pulse-height:17%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#t-00-29-20" style="--pulse-height:33%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#t-00-01-22" style="--pulse-height:17%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#t-00-16-19" style="--pulse-height:17%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#t-01-04-53" style="--pulse-height:17%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#t-00-14-09" style="--pulse-height:17%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#t-00-48-25" style="--pulse-height:17%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#t-00-52-13" style="--pulse-height:17%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#t-00-37-21" style="--pulse-height:17%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#t-00-26-52" style="--pulse-height:17%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-united-states-army-t-00-35-55" style="--pulse-height:17%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#t-00-27-22" style="--pulse-height:17%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#t-00-14-50" style="--pulse-height:17%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#t-00-08-25" style="--pulse-height:17%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-united-states-army-t-00-20-00" style="--pulse-height:17%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#t-00-04-42" style="--pulse-height:67%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 4 mentions" title="2026-03-03 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-43-58" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 6 mentions" title="2026-08-14 · 6 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#t-00-28-44) | 1 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#t-00-47-46) | 1 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#t-00-29-20) | 2 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#t-00-01-22) | 1 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#t-00-16-19) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#t-01-04-53) | 1 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#t-00-14-09) | 1 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#t-00-48-25) | 1 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#t-00-52-13) | 1 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#t-00-37-21) | 1 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#t-00-26-52) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-united-states-army-t-00-35-55) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#t-00-27-22) | 1 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#t-00-14-50) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#t-00-08-25) | 1 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-united-states-army-t-00-20-00) | 1 |
+| 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#t-00-04-42) | 4 |
+| 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-00-43-58) | 6 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (6 mentions)</summary>
+
+**[00:43:58](/episodes/ep-nPhCKwJ6ye8.md#t-00-43-58)**
+> "...ou also said that you were an army sniper?"
+
+**[00:44:01](/episodes/ep-nPhCKwJ6ye8.md#t-00-44-01)**
+> "wasn't a sniper in the army and"
+
+**[00:44:04](/episodes/ep-nPhCKwJ6ye8.md#t-00-44-04)**
+> "...wife tweeted that you were an army sniper."
+
+**[00:44:13](/episodes/ep-nPhCKwJ6ye8.md#t-00-44-13)**
+> "Army sniper is a colloquial term?"
+
+**[00:44:14](/episodes/ep-nPhCKwJ6ye8.md#t-00-44-14)**
+> "...ah, I'm not an I was never an army sniper"
+
+**[00:44:16](/episodes/ep-nPhCKwJ6ye8.md#t-00-44-16)**
+> "Okay. What did you do in the army? Did you teach this? You then I correct it and sa..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (4 mentions)</summary>
+
+**[00:04:42](/episodes/ep-2tFYJf1klgY.md#t-00-04-42)**
+> "...cement officer at the Seventh Army in Europe. That's in Germany, Stuttgart, Germany ..."
+
+**[00:17:01](/episodes/ep-2tFYJf1klgY.md#t-00-16-51)**
+> "...ceive a lot of money from the Army National Guard."
+
+**[00:17:11](/episodes/ep-2tFYJf1klgY.md#t-00-16-51)**
+> "..., is going, the national, the Army National Guard, pardon me, is going to have to di..."
+
+**[00:20:44](/episodes/ep-2tFYJf1klgY.md#t-00-20-44)**
+> "...with the Marine Corps and the Army and then was able to work with a orphanage in Rom..."
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1 mentions)</summary>
@@ -166,7 +266,11 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <summary>Formerly Employed (1)</summary>
 
 - **[Robert Eugene Flood](/entities/person-robert-eugene-flood.md)**
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:08:25](/episodes/ep-NIEbqsLAK8g.md#t-00-08-25): "at first second and third glance okay then this random electro rent corporation which runs from tokyo japan to chicago let me know if you guys know what that is then we learned he became a lieutenant colonel in the army reserve okay we can scroll up here then he retired as a lieutenant colonel"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Legal Turning Point? | Candace Ep 292 @ 00:08:25](/episodes/ep-NIEbqsLAK8g.md#t-00-08-25): “at first second and third glance okay then this random electro rent corporation which runs from tokyo japan to chicago let me know if you guys know what that is then we learned he became a lieutenant colonel in the army reserve okay we can scroll up here then he retired as a lieutenant colonel”
+
+</details>
 
 </details>
 
@@ -174,7 +278,11 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <summary>Headquartered In (1)</summary>
 
 - **[United States Pentagon](/entities/org-united-states-pentagon.md)**
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31): ""It's headquarters for the Army, the Navy, and the Air Force.""
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31): “"It's headquarters for the Army, the Navy, and the Air Force."”
+
+</details>
 
 </details>
 
@@ -182,21 +290,50 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <summary>Referenced By (3)</summary>
 
 - **[Robert Eugene Flood](/entities/person-robert-eugene-flood.md)** formerly worked for this
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:08:25](/episodes/ep-NIEbqsLAK8g.md#t-00-08-25)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Legal Turning Point? | Candace Ep 292 @ 00:08:25](/episodes/ep-NIEbqsLAK8g.md#t-00-08-25): “at first second and third glance okay then this random electro rent corporation which runs from tokyo japan to chicago let me know if you guys know what that is then we learned he became a lieutenant colonel in the army reserve okay we can scroll up here then he retired as a lieutenant colonel”
+
+</details>
 
 - **[United States Pentagon](/entities/org-united-states-pentagon.md)** headquarters of this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31): “"It's headquarters for the Army, the Navy, and the Air Force."”
+
+</details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** worked with this
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:17:16](/episodes/ep-X92MllIHDzw.md#t-00-17-16)
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:31:25](/episodes/ep-NIEbqsLAK8g.md#t-00-30-58)
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:17:16](/episodes/ep-X92MllIHDzw.md#t-00-17-16): “I was living in China and doing a lot of work with the victims from sex trafficking and then began to phase that into working with the Marine Corps and the army”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:31:25](/episodes/ep-NIEbqsLAK8g.md#t-00-30-58): “I was living in China and doing a lot of work with the victims from sex trafficking and then began to phase that into working with the Marine Corps and the Army”
+- [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:20:44](/episodes/ep-2tFYJf1klgY.md#t-00-20-44): “began to phase that into working with the Marine Corps and the Army”
+
+</details>
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Army (6)</strong></summary>
+<summary><strong class="section-title">Statements about United States Army (8)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
+
+- [00:44:14](/episodes/ep-nPhCKwJ6ye8.md#t-00-44-14) (Claim) **Andrew Wilson**: ["Andrew Wilson says he was never an Army sniper."](/statements/statement-3ca42fa6f73b.md)
+  - Also about: [Andrew Wilson](/entities/person-andrew-wilson.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (1)</summary>
+
+- [00:20:44](/episodes/ep-2tFYJf1klgY.md#t-00-20-44) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk said she lived in China and worked with sex-trafficking vic..."](/statements/statement-7983b1c952fc.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [China](/entities/gpe-china.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md)
+
+</details>
 
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (2)</summary>

@@ -23,7 +23,7 @@ type: "opinion"
 - [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Appearances (2)
+## Appearances (3)
 
 ### 1. BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/1...
 
@@ -40,6 +40,14 @@ type: "opinion"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3721);return false;">Play</a>
 
 > of course they're past i mean come on it's so dumb it's so he wasn't even on campus that day they can't show us one clear image not even one all of these cameras turning point has everything in 4k so shouldn't you have caught the shooter on the roof in 4k like you had cameras everywhere that day every inch So that campus
+
+### 3. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
+
+**Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
+**Timestamp:** [00:38:54](/episodes/ep-nPhCKwJ6ye8.md#t-00-38-49) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2334);return false;">Play</a>
+
+> I don't know what role he played, but as the shooter, zero percent.
 
 ## Verification
 

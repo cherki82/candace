@@ -1,6 +1,6 @@
 ---
 title: "Pentadecanoic acid"
-description: "Pentadecanoic acid (Concepts) - 4 mentions"
+description: "Pentadecanoic acid (Concepts) - 7 mentions"
 id: "concept-pentadecanoic-acid"
 type: "CONCEPT"
 aliases:
@@ -23,10 +23,52 @@ _Type: Concepts_
 > NIST confirms pentadecanoic acid and formula C15H30O2; ChEBI and PubChem also recognize C15/C15:0 as synonyms.
 Source: [Pentadecanoic acid | NIST Chemistry WebBook](https://webbook.nist.gov/cgi/cbook.cgi?ID=C1002842&Mask=383)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-pentadecanoic-acid-t-01-04-44">2026-01-20 · 01:05:16</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-pentadecanoic-acid-t-00-41-51">2026-02-27 · 00:41:51</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-pentadecanoic-acid-t-01-04-44">Candace x Baron Coleman LIVE!! | Candace Ep 293</a> (4 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-pentadecanoic-acid-t-01-04-44" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-pentadecanoic-acid-t-00-41-16" style="--pulse-height:75%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 3 mentions" title="2026-02-27 · 3 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-pentadecanoic-acid-t-01-04-44) | 4 |
+| 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-concept-pentadecanoic-acid-t-00-41-16) | 3 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (3 mentions)</summary>
+
+**[00:41:16](/episodes/ep-1IY2oD-_xVA.md#ent-concept-pentadecanoic-acid-t-00-41-16)**
+> "It's called C15, a powerful essential fatty acid that research shows many people are deficient in. That's why I've been taking a science-backed supplement designed to help optimize your C15 levels."
+
+**[00:41:46](/episodes/ep-1IY2oD-_xVA.md#ent-concept-pentadecanoic-acid-t-00-41-16)**
+> "...t some fats are essential and C15 is one of them."
+
+**[00:41:51](/episodes/ep-1IY2oD-_xVA.md#ent-concept-pentadecanoic-acid-t-00-41-51)**
+> "...on a mission to optimize your C15 levels to help support your long-term health and ..."
+
+</details>
 
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (4 mentions)</summary>

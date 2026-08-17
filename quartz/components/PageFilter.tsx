@@ -1,10 +1,8 @@
 // @ts-ignore
 import pageFilterScript from "./scripts/pagefilter.inline"
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { QuartzComponent, QuartzComponentConstructor } from "./types"
 
-const PageFilter: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
-  return <></>
-}
+const PageFilter: QuartzComponent = () => <></>
 
 PageFilter.afterDOMLoaded = pageFilterScript
 

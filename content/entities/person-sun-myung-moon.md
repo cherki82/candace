@@ -16,10 +16,38 @@ _Type: People_
 **Entity verification:** verified
 > Founder of the Unification Church and subject of the quoted Washington Post reporting.
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-sun-myung-moon-t-00-48-52">2026-01-09 · 00:49:16</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-person-sun-myung-moon-t-00-24-41">2026-01-12 · 00:25:34</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>45</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-sun-myung-moon-t-00-48-52">The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</a> (39 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-sun-myung-moon-t-00-48-52" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 39 mentions" title="2026-01-09 · 39 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-sun-myung-moon-t-00-10-58" style="--pulse-height:15%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 6 mentions" title="2026-01-12 · 6 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-sun-myung-moon-t-00-48-52) | 39 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-sun-myung-moon-t-00-10-58) | 6 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (45)</strong></summary>
 
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (6 mentions)</summary>
@@ -175,7 +203,11 @@ _Type: People_
 <summary>Close Associate Of (1)</summary>
 
 - **[Ronald S. Godwin](/entities/person-ronald-s-godwin.md)**
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:24:57](/episodes/ep-CMcktj3Egfo.md#t-00-24-41): "the protege of Sun Myung Moon."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:24:57](/episodes/ep-CMcktj3Egfo.md#t-00-24-41): “the protege of Sun Myung Moon.”
+
+</details>
 
 </details>
 
@@ -183,8 +215,12 @@ _Type: People_
 <summary>Founded (1)</summary>
 
 - **[Unification Church](/entities/org-unification-church.md)**
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:51:35](/episodes/ep-wcD2khO3rOA.md#t-00-50-55): "the Reverend Sun Myung Moon, his Unification Church."
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:13:25](/episodes/ep-CMcktj3Egfo.md#t-00-12-51): "the Unification Church,"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:51:35](/episodes/ep-wcD2khO3rOA.md#t-00-50-55): “the Reverend Sun Myung Moon, his Unification Church.”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:13:25](/episodes/ep-CMcktj3Egfo.md#t-00-12-51): “the Unification Church,”
+
+</details>
 
 </details>
 
@@ -192,7 +228,11 @@ _Type: People_
 <summary>Funded (1)</summary>
 
 - **[Liberty University](/entities/org-liberty-university.md)**
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:55:40](/episodes/ep-wcD2khO3rOA.md#t-00-54-55): "even help to bail out Reverend Jerry Falwell's foundering Liberty University."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:55:40](/episodes/ep-wcD2khO3rOA.md#t-00-54-55): “even help to bail out Reverend Jerry Falwell's foundering Liberty University.”
+
+</details>
 
 </details>
 
@@ -200,14 +240,26 @@ _Type: People_
 <summary>Referenced By (3)</summary>
 
 - **[Ronald S. Godwin](/entities/person-ronald-s-godwin.md)** close associate of this
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:24:57](/episodes/ep-CMcktj3Egfo.md#t-00-24-41)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:24:57](/episodes/ep-CMcktj3Egfo.md#t-00-24-41): “the protege of Sun Myung Moon.”
+
+</details>
 
 - **[Unification Church](/entities/org-unification-church.md)** founded by this
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:51:35](/episodes/ep-wcD2khO3rOA.md#t-00-50-55)
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:13:25](/episodes/ep-CMcktj3Egfo.md#t-00-12-51)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:51:35](/episodes/ep-wcD2khO3rOA.md#t-00-50-55): “the Reverend Sun Myung Moon, his Unification Church.”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:13:25](/episodes/ep-CMcktj3Egfo.md#t-00-12-51): “the Unification Church,”
+
+</details>
 
 - **[Liberty University](/entities/org-liberty-university.md)** funded by this
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:55:40](/episodes/ep-wcD2khO3rOA.md#t-00-54-55)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:55:40](/episodes/ep-wcD2khO3rOA.md#t-00-54-55): “even help to bail out Reverend Jerry Falwell's foundering Liberty University.”
+
+</details>
 
 </details>
 
@@ -243,7 +295,7 @@ _Type: People_
   - Also about: [Liberty University](/entities/org-liberty-university.md)
 
 - [00:52:18](/episodes/ep-wcD2khO3rOA.md#t-00-51-36) (Claim) **The Washington Post** (via quoted article): ["In 1997, Moon-affiliated organizations controlled more than $300 milli..."](/statements/statement-44e4197a4f21.md)
-  - Also about: [Unification Church](/entities/org-unification-church.md), [Washington, D.C.](/entities/gpe-washington-dc.md)
+  - Also about: [Unification Church](/entities/org-unification-church.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
 - [00:52:51](/episodes/ep-wcD2khO3rOA.md#t-00-52-18) (Claim) **The Washington Post** (via quoted article): ["Moon’s network was a sprawling collection of churches, nonprofit found..."](/statements/statement-5b5828e1394e.md)
   - Also about: [Moon Inc.](/entities/concept-moon-inc.md), [Unification Church](/entities/org-unification-church.md)

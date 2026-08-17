@@ -11,7 +11,11 @@ object: "person-tyler-bowyer"
 
 ## [Erika Kirk](/entities/person-erika-kirk) worked with [Tyler Bowyer](/entities/person-tyler-bowyer)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
+
+- [00:44:16](/episodes/ep-1IY2oD-_xVA#t-00-44-16): _the most important relationship that Erika (Erika Kirk) had at Turning Point USA is Tyler Bowyer._
 
 **[BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw)**
 

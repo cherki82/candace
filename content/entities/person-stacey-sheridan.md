@@ -1,20 +1,72 @@
 ---
 title: "Stacey Sheridan"
-description: "Stacey Sheridan (People) - 16 mentions"
+description: "Stacey Sheridan (People) - 17 mentions"
 id: "person-stacey-sheridan"
 type: "PERSON"
 aliases:
   - "Stacey"
+categories:
+  - "Turning Point USA"
 ---
 
 _Type: People_
 
 **Also known as:** Stacey
 
+**Categories:** Turning Point USA
+
+**Entity verification:** verified
+> The source video names Stacey Sheridan in the documented Air Force Two/Utah Valley University context, matching the existing entity and prior episode mentions.
+Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.com/watch?v=ZAsV0fHGBiM)
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-person-stacey-sheridan-t-00-03-48">2025-10-27 · 00:04:23</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-stacey-sheridan-t-00-45-19">2026-02-25 · 00:45:19</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-11-53">Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272</a> (8 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-c5BcKF91iec.md#ent-person-stacey-sheridan-t-00-03-48" style="--pulse-height:25%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 2 mentions" title="2025-10-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#t-00-44-24" style="--pulse-height:12%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-stacey-sheridan-t-00-29-09" style="--pulse-height:12%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-11-53" style="--pulse-height:100%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 8 mentions" title="2025-12-02 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-stacey-sheridan-t-00-19-36" style="--pulse-height:50%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 4 mentions" title="2026-02-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-stacey-sheridan-t-00-45-19" style="--pulse-height:12%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-person-stacey-sheridan-t-00-03-48) | 2 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#t-00-44-24) | 1 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-stacey-sheridan-t-00-29-09) | 1 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-11-53) | 8 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-stacey-sheridan-t-00-19-36) | 4 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-stacey-sheridan-t-00-45-19) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1 mentions)</summary>
+
+**[00:45:19](/episodes/ep-ZAsV0fHGBiM.md#ent-person-stacey-sheridan-t-00-45-19)**
+> "... (Carla Frantzve) rather than Stacey Sheridan accompanying you onto Air Force Two as your husba..."
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (4 mentions)</summary>
@@ -98,7 +150,11 @@ _Type: People_
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:50](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): "...I did not like her at all, just the vibe was off. I did not like her, and I expressed that to Charlie to his face when she was hired."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:50](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): “...I did not like her at all, just the vibe was off. I did not like her, and I expressed that to Charlie to his face when she was hired.”
+
+</details>
 
 </details>
 
@@ -106,10 +162,18 @@ _Type: People_
 <summary>Formerly Worked For (2)</summary>
 
 - **[Kenneth Starr](/entities/person-kenneth-starr.md)**
-  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:09](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09): "for almost a decade she worked for Ken Star at the exact same time that he was working with Jeffrey Epstein"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:09](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09): “for almost a decade she worked for Ken Star at the exact same time that he was working with Jeffrey Epstein”
+
+</details>
 
 - **[Pepperdine University](/entities/org-pepperdine-university.md)**
-  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:19:57](/episodes/ep-1hcjQGgvxUY.md#t-00-19-36): "worked under Jeffrey Epstein's friend, Kenneth Starr at Pepperdine University."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:19:57](/episodes/ep-1hcjQGgvxUY.md#t-00-19-36): “worked under Jeffrey Epstein's friend, Kenneth Starr at Pepperdine University.”
+
+</details>
 
 </details>
 
@@ -117,8 +181,12 @@ _Type: People_
 <summary>Hired By (1)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:43](/episodes/ep-c5BcKF91iec.md#t-00-04-27): "All of those people, by the way, were actually brought in by Tyler Boyer."
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:27](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): "...she was brought in specifically by Tyler Boyer to raise money and to take Turning Point to the next level."
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:43](/episodes/ep-c5BcKF91iec.md#t-00-04-27): “All of those people, by the way, were actually brought in by Tyler Boyer.”
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:27](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): “...she was brought in specifically by Tyler Boyer to raise money and to take Turning Point to the next level.”
+
+</details>
 
 </details>
 
@@ -126,9 +194,14 @@ _Type: People_
 <summary>Works For (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:35](/episodes/ep-c5BcKF91iec.md#t-00-04-27): "She's like the chief money person, essentially, at Turning Point USA."
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:23](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): "Stacey, by the way, is the senior advancement director at Turning Point USA"
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:12:14](/episodes/ep-a-e7HC6SeK8.md#t-00-11-53): "...That's Stacey Sheridan of Turning Point USA... Stacey, by the way, is the senior advancement director at Turning Point USA."
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:35](/episodes/ep-c5BcKF91iec.md#t-00-04-27): “She's like the chief money person, essentially, at Turning Point USA.”
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:23](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): “Stacey, by the way, is the senior advancement director at Turning Point USA”
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:12:14](/episodes/ep-a-e7HC6SeK8.md#t-00-11-53): “...That's Stacey Sheridan of Turning Point USA... Stacey, by the way, is the senior advancement director at Turning Point USA.”
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:01:07](/episodes/ep-c5BcKF91iec.md#t-00-00-45): “She's like the chief money person, essentially, at Turning Point USA.”
+
+</details>
 
 </details>
 
@@ -136,21 +209,44 @@ _Type: People_
 <summary>Referenced By (5)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:50](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:50](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): “...I did not like her at all, just the vibe was off. I did not like her, and I expressed that to Charlie to his face when she was hired.”
+
+</details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:35](/episodes/ep-c5BcKF91iec.md#t-00-04-27)
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:23](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20)
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:35](/episodes/ep-c5BcKF91iec.md#t-00-04-27): “She's like the chief money person, essentially, at Turning Point USA.”
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:23](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): “Stacey, by the way, is the senior advancement director at Turning Point USA”
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:12:14](/episodes/ep-a-e7HC6SeK8.md#t-00-11-53): “...That's Stacey Sheridan of Turning Point USA... Stacey, by the way, is the senior advancement director at Turning Point USA.”
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:01:07](/episodes/ep-c5BcKF91iec.md#t-00-00-45): “She's like the chief money person, essentially, at Turning Point USA.”
+
+</details>
 
 - **[Kenneth Starr](/entities/person-kenneth-starr.md)** formerly employed this
-  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:09](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:09](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09): “for almost a decade she worked for Ken Star at the exact same time that he was working with Jeffrey Epstein”
+
+</details>
 
 - **[Pepperdine University](/entities/org-pepperdine-university.md)** formerly employed this
-  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:19:57](/episodes/ep-1hcjQGgvxUY.md#t-00-19-36)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:19:57](/episodes/ep-1hcjQGgvxUY.md#t-00-19-36): “worked under Jeffrey Epstein's friend, Kenneth Starr at Pepperdine University.”
+
+</details>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** hired this
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:43](/episodes/ep-c5BcKF91iec.md#t-00-04-27)
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:27](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20)
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:43](/episodes/ep-c5BcKF91iec.md#t-00-04-27): “All of those people, by the way, were actually brought in by Tyler Boyer.”
+- [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:27](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): “...she was brought in specifically by Tyler Boyer to raise money and to take Turning Point to the next level.”
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:01:09](/episodes/ep-c5BcKF91iec.md#t-00-00-45): “She's like the chief money person, essentially, at Turning Point USA. She was brought in to reel in the big donors. I remember exactly when that happened. All of those people, by the way, were actually brought in by Tyler Bowyer.”
+
+</details>
 
 </details>
 

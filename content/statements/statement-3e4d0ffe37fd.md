@@ -24,7 +24,7 @@ type: "opinion"
 
 - [Justin Baldoni](/entities/person-justin-baldoni.md) (person)
 - [Blake Lively](/entities/person-blake-lively.md) (person)
-- [The New York Times](/entities/org-new-york-times.md) (org)
+- [The New York Times](/entities/org-the-new-york-times.md) (org)
 
 ## Source
 

@@ -22,7 +22,7 @@ type: "accusation"
 
 - [Jeremy Boreing](/entities/person-jeremy-boreing.md) (person)
 - [Brett Cooper](/entities/person-brett-cooper.md) (person)
-- [The Daily Wire](/entities/org-daily-wire.md) (org)
+- [The Daily Wire](/entities/org-the-daily-wire.md) (org)
 
 ## Source
 

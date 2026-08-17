@@ -16,10 +16,38 @@ _Type: Organizations_
 > The church's official site confirms the canonical name Dream City Church.
 Source: [Dream City Church](https://www.dreamcitychurch.us/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-dream-city-church-t-00-26-52">2026-02-04 · 00:27:11</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-dream-city-church-t-00-18-57">2026-02-13 · 00:19:11</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-dream-city-church-t-00-26-52">REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302</a> (6 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-dream-city-church-t-00-26-52" style="--pulse-height:100%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 6 mentions" title="2026-02-04 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-dream-city-church-t-00-18-57" style="--pulse-height:33%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-org-dream-city-church-t-00-26-52) | 6 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-dream-city-church-t-00-18-57) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>
@@ -64,7 +92,11 @@ Source: [Dream City Church](https://www.dreamcitychurch.us/)
 <summary>Hosted Speaker (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:27:20](/episodes/ep-DYD_QHMPwqM.md#t-00-26-52): "Dream City Church when Charlie (Charlie Kirk) was doing a series of speeches. He would do that weekly at Dream City Church."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:27:20](/episodes/ep-DYD_QHMPwqM.md#t-00-26-52): “Dream City Church when Charlie (Charlie Kirk) was doing a series of speeches. He would do that weekly at Dream City Church.”
+
+</details>
 
 </details>
 
@@ -72,7 +104,11 @@ Source: [Dream City Church](https://www.dreamcitychurch.us/)
 <summary>Operates (1)</summary>
 
 - **[Phoenix Dream Center](/entities/org-phoenix-dream-center.md)**
-  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:19:11](/episodes/ep-1hcjQGgvxUY.md#t-00-18-57): "Dream City Church runs Phoenix Dream Center."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:19:11](/episodes/ep-1hcjQGgvxUY.md#t-00-18-57): “Dream City Church runs Phoenix Dream Center.”
+
+</details>
 
 </details>
 
@@ -80,10 +116,18 @@ Source: [Dream City Church](https://www.dreamcitychurch.us/)
 <summary>Referenced By (2)</summary>
 
 - **[Phoenix Dream Center](/entities/org-phoenix-dream-center.md)** operated by this
-  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:19:11](/episodes/ep-1hcjQGgvxUY.md#t-00-18-57)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:19:11](/episodes/ep-1hcjQGgvxUY.md#t-00-18-57): “Dream City Church runs Phoenix Dream Center.”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** spoke at this
-  - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:27:20](/episodes/ep-DYD_QHMPwqM.md#t-00-26-52)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:27:20](/episodes/ep-DYD_QHMPwqM.md#t-00-26-52): “Dream City Church when Charlie (Charlie Kirk) was doing a series of speeches. He would do that weekly at Dream City Church.”
+
+</details>
 
 </details>
 

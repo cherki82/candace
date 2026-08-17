@@ -1,6 +1,6 @@
 ---
 title: "Tim Pool"
-description: "Tim Pool (People) - 41 mentions"
+description: "Tim Pool (People) - 40 mentions"
 id: "person-tim-pool"
 type: "PERSON"
 aliases:
@@ -21,10 +21,52 @@ _Type: People_
 > Official Timcast site and public biography identify Tim Pool as the commentator referenced in context.
 Source: [Timcast](https://timcast.com/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-person-tim-pool-t-00-52-11">2025-11-18 · 00:52:22</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-person-tim-pool-t-00-44-18">2026-01-20 · 00:44:49</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>40</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-42-07">Charlie Kirk’s Last Trip To Asia… | Candace Ep 277</a> (12 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-581dILVcEE4.md#ent-person-tim-pool-t-00-52-11" style="--pulse-height:17%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-tim-pool-t-00-42-11" style="--pulse-height:50%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 6 mentions" title="2025-11-19 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-tim-pool-t-00-31-17" style="--pulse-height:92%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 11 mentions" title="2025-12-05 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#t-00-24-33" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-42-07" style="--pulse-height:100%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 12 mentions" title="2025-12-09 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-tim-pool-t-00-21-22" style="--pulse-height:25%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#t-00-22-36" style="--pulse-height:17%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 2 mentions" title="2025-12-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-tim-pool-t-00-51-55" style="--pulse-height:17%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-tim-pool-t-00-44-18" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-tim-pool-t-00-52-11) | 2 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-pool-t-00-42-11) | 6 |
+| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-person-tim-pool-t-00-31-17) | 11 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#t-00-24-33) | 1 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-person-tim-pool-t-00-42-07) | 12 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-person-tim-pool-t-00-21-22) | 3 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#t-00-22-36) | 2 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-tim-pool-t-00-51-55) | 2 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-tim-pool-t-00-44-18) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (40)</strong></summary>
 
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
@@ -181,13 +223,10 @@ Source: [Timcast](https://timcast.com/)
 </details>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (3 mentions)</summary>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
 
 **[00:52:22](/episodes/ep-581dILVcEE4.md#ent-person-tim-pool-t-00-52-11)**
 > "...these five vehicles that we have now shown you. L. Hodges writes, "I find it insane how influencers Tim Pool were speaking up against you regarding Turning Point USA and you no longer being invited to AmFest...."
-
-**[00:52:32](/episodes/ep-581dILVcEE4.md#ent-person-tim-pool-t-00-52-11)**
-> "Tim Pool said investigation was for clicks"
 
 **[00:52:37](/episodes/ep-581dILVcEE4.md#ent-person-tim-pool-t-00-52-11)**
 > "...t." Apparently he said something hurtful, and they said he can't go. Weird. I am not following what Tim Pool has been saying. I know that he was kind of—he always kind of throws shade about me investigating t..."
@@ -203,10 +242,18 @@ Source: [Timcast](https://timcast.com/)
 <summary>Appeared With (2)</summary>
 
 - **[Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md)**
-  - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:45:46](/episodes/ep-t4U7NjnUEgc.md#t-00-45-33): "he accused me in a full episode with Milo Yiannopoulos"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:45:46](/episodes/ep-t4U7NjnUEgc.md#t-00-45-33): “he accused me in a full episode with Milo Yiannopoulos”
+
+</details>
 
 - **[George Santos](/entities/person-george-santos.md)**
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:25:53](/episodes/ep-Kmt6HgRjckU.md#t-00-25-47): "And I will add that he is sitting also with George, who joined them."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:25:53](/episodes/ep-Kmt6HgRjckU.md#t-00-25-47): “And I will add that he is sitting also with George, who joined them.”
+
+</details>
 
 </details>
 
@@ -214,7 +261,11 @@ Source: [Timcast](https://timcast.com/)
 <summary>Critic Of (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:07:11](/episodes/ep-ZAuuSq_j2_w.md#t-00-06-44): "And she is a f***ing scumbag. Okay? And she's getting worse every day. And she crossed the line"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:07:11](/episodes/ep-ZAuuSq_j2_w.md#t-00-06-44): “And she is a f***ing scumbag. Okay? And she's getting worse every day. And she crossed the line”
+
+</details>
 
 </details>
 
@@ -222,9 +273,13 @@ Source: [Timcast](https://timcast.com/)
 <summary>Criticized (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:07:11](/episodes/ep-ZAuuSq_j2_w.md#t-00-06-44): "And she is a f***ing scumbag. Okay? And she's getting worse every day. And she crossed the line"
-  - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:45:46](/episodes/ep-t4U7NjnUEgc.md#t-00-45-33): "Tim Pool doesn't even have the intellect to understand that we put him in the thumbnail because he accused me in a full episode with Milo Yiannopoulos"
-  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:44:36](/episodes/ep-es7PWdFGoFI.md#t-00-44-27): "Tim Poole has now gone out and extraordinarily claimed that I have the same security as Charlie Kirk and that I have a fraud"
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:07:11](/episodes/ep-ZAuuSq_j2_w.md#t-00-06-44): “And she is a f***ing scumbag. Okay? And she's getting worse every day. And she crossed the line”
+- [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:45:46](/episodes/ep-t4U7NjnUEgc.md#t-00-45-33): “Tim Pool doesn't even have the intellect to understand that we put him in the thumbnail because he accused me in a full episode with Milo Yiannopoulos”
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:44:36](/episodes/ep-es7PWdFGoFI.md#t-00-44-27): “Tim Poole has now gone out and extraordinarily claimed that I have the same security as Charlie Kirk and that I have a fraud”
+
+</details>
 
 </details>
 
@@ -232,7 +287,11 @@ Source: [Timcast](https://timcast.com/)
 <summary>Interviewed (1)</summary>
 
 - **[Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md)**
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:24:45](/episodes/ep-Kmt6HgRjckU.md#t-00-24-33): "So he hosted Milo on his show."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:24:45](/episodes/ep-Kmt6HgRjckU.md#t-00-24-33): “So he hosted Milo on his show.”
+
+</details>
 
 </details>
 
@@ -240,19 +299,39 @@ Source: [Timcast](https://timcast.com/)
 <summary>Referenced By (5)</summary>
 
 - **[George Santos](/entities/person-george-santos.md)** appeared with this
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:25:53](/episodes/ep-Kmt6HgRjckU.md#t-00-25-47)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:25:53](/episodes/ep-Kmt6HgRjckU.md#t-00-25-47): “And I will add that he is sitting also with George, who joined them.”
+
+</details>
 
 - **[Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md)** appeared with this
-  - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:45:46](/episodes/ep-t4U7NjnUEgc.md#t-00-45-33)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:45:46](/episodes/ep-t4U7NjnUEgc.md#t-00-45-33): “he accused me in a full episode with Milo Yiannopoulos”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-  - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:07:11](/episodes/ep-ZAuuSq_j2_w.md#t-00-06-44)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:07:11](/episodes/ep-ZAuuSq_j2_w.md#t-00-06-44): “And she is a f***ing scumbag. Okay? And she's getting worse every day. And she crossed the line”
+
+</details>
 
 - **[Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md)** interviewed by this
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:24:45](/episodes/ep-Kmt6HgRjckU.md#t-00-24-33)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:24:45](/episodes/ep-Kmt6HgRjckU.md#t-00-24-33): “So he hosted Milo on his show.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** target of criticism from this
-  - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:07:11](/episodes/ep-ZAuuSq_j2_w.md#t-00-06-44)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:07:11](/episodes/ep-ZAuuSq_j2_w.md#t-00-06-44): “And she is a f***ing scumbag. Okay? And she's getting worse every day. And she crossed the line”
+
+</details>
 
 </details>
 

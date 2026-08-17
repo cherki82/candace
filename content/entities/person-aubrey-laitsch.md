@@ -16,10 +16,38 @@ _Type: People_
 > The subject public account uses Aubrey Laitsch, and the first-person episode clip self-identifies her; transcript Leitch is an ASR spelling and is not retained as an alias.
 Source: [Aubrey Laitsch (@AubreyLaitsch) on X](https://x.com/AubreyLaitsch)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-aubrey-laitsch-t-00-24-36">2026-02-05 · 00:24:36</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#ent-person-aubrey-laitsch-t-00-36-41">2026-02-10 · 00:36:41</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Statements by</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-aubrey-laitsch-t-00-27-14">An Open Letter To Erika Kirk | Candace Ep 303</a> (3 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-aubrey-laitsch-t-00-27-14" style="--pulse-height:100%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 3 mentions" title="2026-02-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-aubrey-laitsch-t-00-36-41" style="--pulse-height:33%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-aubrey-laitsch-t-00-27-14) | 3 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-aubrey-laitsch-t-00-36-41) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1 mentions)</summary>
@@ -52,8 +80,12 @@ Source: [Aubrey Laitsch (@AubreyLaitsch) on X](https://x.com/AubreyLaitsch)
 <summary>Fired By (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:27:44](/episodes/ep-mFuno0TuuQQ.md#t-00-27-14): "I was terminated from Turning Point because I am questioning the narrative of what happened to my role model and CEO Charlie Kirk on the day of his assassination."
-  - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:36:41](/episodes/ep-ti5Fxrvegno.md#t-00-36-41): "one of the people who was fired, the one who spoke out, Aubrey Laitsch at Turning Point USA"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:27:44](/episodes/ep-mFuno0TuuQQ.md#t-00-27-14): “I was terminated from Turning Point because I am questioning the narrative of what happened to my role model and CEO Charlie Kirk on the day of his assassination.”
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:36:41](/episodes/ep-ti5Fxrvegno.md#t-00-36-41): “one of the people who was fired, the one who spoke out, Aubrey Laitsch at Turning Point USA”
+
+</details>
 
 </details>
 
@@ -61,16 +93,32 @@ Source: [Aubrey Laitsch (@AubreyLaitsch) on X](https://x.com/AubreyLaitsch)
 <summary>Formerly Worked For (4)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:25:09](/episodes/ep-mFuno0TuuQQ.md#t-00-24-36): "Prior to that, I did work for Turning Point USA."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:25:09](/episodes/ep-mFuno0TuuQQ.md#t-00-24-36): “Prior to that, I did work for Turning Point USA.”
+
+</details>
 
 - **[The ATK Company](/entities/org-the-atk-company.md)**
-  - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:24:36](/episodes/ep-mFuno0TuuQQ.md#t-00-24-24): "My name is Aubrey Laitsch and I am the former public relations manager for Turning Point USA and I was a part of the recent kind of mass termination group at Turning Point and was let go about three weeks ago and at the time of my release I was working for the ATK company which is spokesman Andrew Kolvet's private business that contracts out with"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:24:36](/episodes/ep-mFuno0TuuQQ.md#t-00-24-24): “My name is Aubrey Laitsch and I am the former public relations manager for Turning Point USA and I was a part of the recent kind of mass termination group at Turning Point and was let go about three weeks ago and at the time of my release I was working for the ATK company which is spokesman Andrew Kolvet's private business that contracts out with”
+
+</details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
-  - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:25:03](/episodes/ep-mFuno0TuuQQ.md#t-00-24-36): "So encompassing of Turning Point USA and Turning Point Action, I was working directly for him."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:25:03](/episodes/ep-mFuno0TuuQQ.md#t-00-24-36): “So encompassing of Turning Point USA and Turning Point Action, I was working directly for him.”
+
+</details>
 
 - **[Marina Minas](/entities/person-marina-minas.md)**
-  - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:26:13](/episodes/ep-mFuno0TuuQQ.md#t-00-25-59): "Andrew Kolvet, and Marina Muniz, who is the CMO of Turning Point USA, who I used to work for when I was just full-time with Turning Point."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:26:13](/episodes/ep-mFuno0TuuQQ.md#t-00-25-59): “Andrew Kolvet, and Marina Muniz, who is the CMO of Turning Point USA, who I used to work for when I was just full-time with Turning Point.”
+
+</details>
 
 </details>
 
@@ -78,20 +126,40 @@ Source: [Aubrey Laitsch (@AubreyLaitsch) on X](https://x.com/AubreyLaitsch)
 <summary>Referenced By (5)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** fired this
-  - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:27:44](/episodes/ep-mFuno0TuuQQ.md#t-00-27-14)
-  - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:36:41](/episodes/ep-ti5Fxrvegno.md#t-00-36-41)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:27:44](/episodes/ep-mFuno0TuuQQ.md#t-00-27-14): “I was terminated from Turning Point because I am questioning the narrative of what happened to my role model and CEO Charlie Kirk on the day of his assassination.”
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:36:41](/episodes/ep-ti5Fxrvegno.md#t-00-36-41): “one of the people who was fired, the one who spoke out, Aubrey Laitsch at Turning Point USA”
+
+</details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** formerly employed this
-  - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:25:09](/episodes/ep-mFuno0TuuQQ.md#t-00-24-36)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:25:09](/episodes/ep-mFuno0TuuQQ.md#t-00-24-36): “Prior to that, I did work for Turning Point USA.”
+
+</details>
 
 - **[The ATK Company](/entities/org-the-atk-company.md)** formerly employed this
-  - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:24:36](/episodes/ep-mFuno0TuuQQ.md#t-00-24-24)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:24:36](/episodes/ep-mFuno0TuuQQ.md#t-00-24-24): “My name is Aubrey Laitsch and I am the former public relations manager for Turning Point USA and I was a part of the recent kind of mass termination group at Turning Point and was let go about three weeks ago and at the time of my release I was working for the ATK company which is spokesman Andrew Kolvet's private business that contracts out with”
+
+</details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** formerly employed this
-  - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:25:03](/episodes/ep-mFuno0TuuQQ.md#t-00-24-36)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:25:03](/episodes/ep-mFuno0TuuQQ.md#t-00-24-36): “So encompassing of Turning Point USA and Turning Point Action, I was working directly for him.”
+
+</details>
 
 - **[Marina Minas](/entities/person-marina-minas.md)** formerly employed this
-  - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:26:13](/episodes/ep-mFuno0TuuQQ.md#t-00-25-59)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:26:13](/episodes/ep-mFuno0TuuQQ.md#t-00-25-59): “Andrew Kolvet, and Marina Muniz, who is the CMO of Turning Point USA, who I used to work for when I was just full-time with Turning Point.”
+
+</details>
 
 </details>
 

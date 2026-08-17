@@ -12,10 +12,38 @@ _Type: Organizations_
 
 **Also known as:** KAIROS, Kairos Company
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-kairos-company-t-00-07-06">2026-01-09 · 00:07:14</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-org-kairos-company-t-00-25-24">2026-01-12 · 00:25:53</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-CMcktj3Egfo.md#ent-org-kairos-company-t-00-18-28">American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288</a> (7 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-kairos-company-t-00-07-06" style="--pulse-height:29%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-kairos-company-t-00-18-28" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 7 mentions" title="2026-01-12 · 7 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-kairos-company-t-00-07-06) | 2 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-kairos-company-t-00-18-28) | 7 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
 
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (7 mentions)</summary>
@@ -63,8 +91,12 @@ _Type: Organizations_
 <summary>Formerly Employed (1)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:14](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): "Andrew Kolvet was working PR for the KAIROS Company under Johnnie Moore."
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:10](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): "Andrew Kolvet was the executive vice president and he effectively was working for the Kairos company,"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:14](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): “Andrew Kolvet was working PR for the KAIROS Company under Johnnie Moore.”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:10](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): “Andrew Kolvet was the executive vice president and he effectively was working for the Kairos company,”
+
+</details>
 
 </details>
 
@@ -72,7 +104,11 @@ _Type: Organizations_
 <summary>Founded By (1)</summary>
 
 - **[Johnnie Moore](/entities/person-johnnie-moore.md)**
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): "he went to Hollywood to start the PR company, the KAIROS Company."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): “he went to Hollywood to start the PR company, the KAIROS Company.”
+
+</details>
 
 </details>
 
@@ -80,11 +116,19 @@ _Type: Organizations_
 <summary>Referenced By (2)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** formerly worked for this
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:14](/episodes/ep-wcD2khO3rOA.md#t-00-07-06)
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:10](/episodes/ep-CMcktj3Egfo.md#t-00-18-28)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:14](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): “Andrew Kolvet was working PR for the KAIROS Company under Johnnie Moore.”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:10](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): “Andrew Kolvet was the executive vice president and he effectively was working for the Kairos company,”
+
+</details>
 
 - **[Johnnie Moore](/entities/person-johnnie-moore.md)** founded this
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): “he went to Hollywood to start the PR company, the KAIROS Company.”
+
+</details>
 
 </details>
 

@@ -3,14 +3,69 @@ title: "Michael Knowles"
 description: "Michael Knowles (People) - 9 mentions"
 id: "person-michael-knowles"
 type: "PERSON"
+categories:
+  - "conservative media"
+  - "political commentary"
 ---
 
 _Type: People_
 
+**Categories:** conservative media, political commentary
+
+**Entity verification:** verified
+> The Daily Wire's official author biography verifies the canonical name Michael Knowles and his media role.
+Source: [Michael Knowles — The Daily Wire](https://www.dailywire.com/author/michael-j-knowles)
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-michael-knowles-t-00-34-06">2025-09-23 · 00:34:06</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-michael-knowles-t-00-26-33">2026-08-14 · 00:26:59</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-michael-knowles-t-00-24-59">Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250</a> (3 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-michael-knowles-t-00-34-06" style="--pulse-height:33%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 1 mentions" title="2025-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-person-michael-knowles-t-00-11-19" style="--pulse-height:33%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-michael-knowles-t-00-24-59" style="--pulse-height:100%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 3 mentions" title="2025-10-08 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-michael-knowles-t-00-22-10" style="--pulse-height:33%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-michael-knowles-t-00-41-49" style="--pulse-height:33%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#t-00-35-32" style="--pulse-height:33%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-michael-knowles-t-00-26-33" style="--pulse-height:33%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-person-michael-knowles-t-00-34-06) | 1 |
+| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-person-michael-knowles-t-00-11-19) | 1 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-michael-knowles-t-00-24-59) | 3 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-michael-knowles-t-00-22-10) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-michael-knowles-t-00-41-49) | 1 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#t-00-35-32) | 1 |
+| 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-michael-knowles-t-00-26-33) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
+
+**[00:26:59](/episodes/ep-nPhCKwJ6ye8.md#ent-person-michael-knowles-t-00-26-33)**
+> "kudos to Michael Knowles. Your name was mentioned a lot. You missed that r..."
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1 mentions)</summary>
@@ -21,10 +76,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (2 mentions)</summary>
-
-**[00:41:53](/episodes/ep-vwG1juDCQZQ.md#ent-person-michael-knowles-t-00-41-49)**
-> "They will burn you in effigy—as they did to Michael Knowles at a Turning Point USA event"
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
 
 **[00:41:53](/episodes/ep-vwG1juDCQZQ.md#ent-person-michael-knowles-t-00-41-49)**
 > "...e, okay? Because it meant there were gonna be protests. They will burn you in effigy—as they did to Michael Knowles at a Turning Point USA event. So there has to be certain parameters that are set to allow these par..."
@@ -78,8 +130,12 @@ _Type: People_
 <summary>Debated (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:11:23](/episodes/ep-ozWJz2spBcI.md#t-00-11-19): "him debating with Michael Knowles"
-  - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:34:06](/episodes/ep-UBkFkg4UNY8.md#t-00-33-23): "You can go check the videos out—him debating with Michael Knowles, you know, in good fun."
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:11:23](/episodes/ep-ozWJz2spBcI.md#t-00-11-19): “him debating with Michael Knowles”
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:34:06](/episodes/ep-UBkFkg4UNY8.md#t-00-33-23): “You can go check the videos out—him debating with Michael Knowles, you know, in good fun.”
+
+</details>
 
 </details>
 
@@ -87,7 +143,11 @@ _Type: People_
 <summary>Friend Of (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:34:06](/episodes/ep-UBkFkg4UNY8.md#t-00-33-23): "You can go check the videos out—him debating with Michael Knowles, you know, in good fun. I mean, they were dear friends, but they loved kind of debating the whole Protestant versus Catholic thing."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:34:06](/episodes/ep-UBkFkg4UNY8.md#t-00-33-23): “You can go check the videos out—him debating with Michael Knowles, you know, in good fun. I mean, they were dear friends, but they loved kind of debating the whole Protestant versus Catholic thing.”
+
+</details>
 
 </details>
 
@@ -95,11 +155,19 @@ _Type: People_
 <summary>Referenced By (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** debated this
-  - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:11:23](/episodes/ep-ozWJz2spBcI.md#t-00-11-19)
-  - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:34:06](/episodes/ep-UBkFkg4UNY8.md#t-00-33-23)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:11:23](/episodes/ep-ozWJz2spBcI.md#t-00-11-19): “him debating with Michael Knowles”
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:34:06](/episodes/ep-UBkFkg4UNY8.md#t-00-33-23): “You can go check the videos out—him debating with Michael Knowles, you know, in good fun.”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
-  - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:34:06](/episodes/ep-UBkFkg4UNY8.md#t-00-33-23)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:34:06](/episodes/ep-UBkFkg4UNY8.md#t-00-33-23): “You can go check the videos out—him debating with Michael Knowles, you know, in good fun. I mean, they were dear friends, but they loved kind of debating the whole Protestant versus Catholic thing.”
+
+</details>
 
 </details>
 

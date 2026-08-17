@@ -1,6 +1,6 @@
 ---
 title: "Lindsey Graham"
-description: "Lindsey Graham (People) - 18 mentions"
+description: "Lindsey Graham (People) - 22 mentions"
 id: "person-lindsey-graham"
 type: "PERSON"
 aliases:
@@ -20,10 +20,61 @@ _Type: People_
 > Official Senate biography confirms canonical name and role.
 Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.senate.gov/public/index.cfm/biography)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-lindsey-graham-t-00-00-46">2025-11-03 · 00:01:25</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-lindsey-graham-t-00-04-11">2026-03-02 · 00:04:43</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-lindsey-graham-t-00-04-53">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (8 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-lindsey-graham-t-00-00-46" style="--pulse-height:75%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 6 mentions" title="2025-11-03 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-lindsey-graham-t-00-29-56" style="--pulse-height:12%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-lindsey-graham-t-00-04-53" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 8 mentions" title="2026-01-13 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-lindsey-graham-t-01-10-43" style="--pulse-height:38%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-lindsey-graham-t-00-02-47" style="--pulse-height:50%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 4 mentions" title="2026-03-02 · 4 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-lindsey-graham-t-00-00-46) | 6 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-lindsey-graham-t-00-29-56) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-lindsey-graham-t-00-04-53) | 8 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-lindsey-graham-t-01-10-43) | 3 |
+| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-lindsey-graham-t-00-02-47) | 4 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (4 mentions)</summary>
+
+**[00:03:11](/episodes/ep-jTj9Ip46r4w.md#ent-person-lindsey-graham-t-00-02-47)**
+> "On one side is the Lindsey Graham, John Bolton types where they are actively callin..."
+
+**[00:03:19](/episodes/ep-jTj9Ip46r4w.md#ent-person-lindsey-graham-t-00-02-47)**
+> "Here is Lindsey Graham. This is just lunacy. We want to go all in and ta..."
+
+**[00:04:11](/episodes/ep-jTj9Ip46r4w.md#ent-person-lindsey-graham-t-00-04-11)**
+> "...g to run the country exactly, Lindsey Graham? This sounds like Hillary Rodham Clinton in Libya..."
+
+**[00:04:43](/episodes/ep-jTj9Ip46r4w.md#ent-person-lindsey-graham-t-00-04-11)**
+> "Lindsey Graham is so consistently out of his mind, it's hard to ..."
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (3 mentions)</summary>
@@ -108,10 +159,19 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 <summary>Criticized By (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:04:53](/episodes/ep-ZZGWo6oDscc.md#t-00-04-53): "On one side is the Lindsey Graham, John Bolton types, where they are actively calling for regime change. Here is Lindsey Graham. This is just lunacy."
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:04:53](/episodes/ep-ZZGWo6oDscc.md#t-00-04-53): “On one side is the Lindsey Graham, John Bolton types, where they are actively calling for regime change. Here is Lindsey Graham. This is just lunacy.”
+- [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:04:43](/episodes/ep-jTj9Ip46r4w.md#t-00-04-11): “Lindsey Graham is so consistently out of his mind, it's hard to even comprehend. I honestly don't think the neoconservative extreme needs to be represented philosophically anymore.”
+
+</details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-  - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:08:47](/episodes/ep-ZZGWo6oDscc.md#t-00-08-31): "Lindsey Graham really is the drunk girlfriend."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:08:47](/episodes/ep-ZZGWo6oDscc.md#t-00-08-31): “Lindsey Graham really is the drunk girlfriend.”
+
+</details>
 
 </details>
 
@@ -119,7 +179,11 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 <summary>Supporter Of (1)</summary>
 
 - **[Israel](/entities/gpe-israel.md)**
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:10:53](/episodes/ep-xjzb_t5Tk9o.md#t-01-10-43): "he's like terrifyingly supportive of Israel."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:10:53](/episodes/ep-xjzb_t5Tk9o.md#t-01-10-43): “he's like terrifyingly supportive of Israel.”
+
+</details>
 
 </details>
 
@@ -127,13 +191,26 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 <summary>Referenced By (3)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** criticized this
-  - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:04:53](/episodes/ep-ZZGWo6oDscc.md#t-00-04-53)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:04:53](/episodes/ep-ZZGWo6oDscc.md#t-00-04-53): “On one side is the Lindsey Graham, John Bolton types, where they are actively calling for regime change. Here is Lindsey Graham. This is just lunacy.”
+- [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:04:43](/episodes/ep-jTj9Ip46r4w.md#t-00-04-11): “Lindsey Graham is so consistently out of his mind, it's hard to even comprehend. I honestly don't think the neoconservative extreme needs to be represented philosophically anymore.”
+
+</details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** criticized this
-  - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:08:47](/episodes/ep-ZZGWo6oDscc.md#t-00-08-31)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:08:47](/episodes/ep-ZZGWo6oDscc.md#t-00-08-31): “Lindsey Graham really is the drunk girlfriend.”
+
+</details>
 
 - **[Israel](/entities/gpe-israel.md)** supported by this
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:10:53](/episodes/ep-xjzb_t5Tk9o.md#t-01-10-43)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:10:53](/episodes/ep-xjzb_t5Tk9o.md#t-01-10-43): “he's like terrifyingly supportive of Israel.”
+
+</details>
 
 </details>
 
@@ -170,7 +247,7 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
   - Also about: [John Bolton](/entities/person-john-bolton.md), [Iran](/entities/gpe-iran.md), [Neoconservatism](/entities/concept-neoconservatism.md)
 
 - [00:07:11](/episodes/ep-ZZGWo6oDscc.md#t-00-07-08) (Accusation) **Candace Owens**: ["I think personally he's got the largest blackmail file, whatever Israe..."](/statements/statement-7c2487d3cfc3.md)
-  - Also about: [Israel](/entities/gpe-israel.md), [Washington, D.C.](/entities/gpe-washington-dc.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
 - [00:07:43](/episodes/ep-ZZGWo6oDscc.md#t-00-07-08) (Accusation) **Tucker Carlson** (via quoted speech): ["What you don't want are flighty, emotionally incontinent, silly people..."](/statements/statement-b3c35b55e3f1.md)
 

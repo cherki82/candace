@@ -11,10 +11,40 @@ _Type: People_
 
 **Also known as:** Adam
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-adam-sosnick-t-00-46-56">2025-12-01 · 00:46:49</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#ent-person-adam-sosnick-t-00-47-19">2025-12-05 · 00:47:39</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-adam-sosnick-t-00-46-56">Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271</a> (8 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-adam-sosnick-t-00-46-56" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 8 mentions" title="2025-12-01 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-person-adam-sosnick-t-00-47-19" style="--pulse-height:62%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 5 mentions" title="2025-12-05 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-adam-sosnick-t-00-47-08" style="--pulse-height:12%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-adam-sosnick-t-00-46-56) | 8 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-person-adam-sosnick-t-00-47-19) | 5 |
+| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-person-adam-sosnick-t-00-47-08) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
 
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (5 mentions)</summary>
@@ -82,7 +112,11 @@ _Type: People_
 <summary>Criticized (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:39](/episodes/ep-tB5SXXmd9vU.md#t-00-46-56): "[00:47:39] SPEAKER_2: Disgusting. Forget about what she said about Israel and Jews and BLM and liberals. This is friendship stuff. This is friendship stuff. The most valuable currency you have are the relationships you have with your friends. In my opinion, she's burned every bridge she's ever been associated with."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:39](/episodes/ep-tB5SXXmd9vU.md#t-00-46-56): “[00:47:39] SPEAKER_2: Disgusting. Forget about what she said about Israel and Jews and BLM and liberals. This is friendship stuff. This is friendship stuff. The most valuable currency you have are the relationships you have with your friends. In my opinion, she's burned every bridge she's ever been associated with.”
+
+</details>
 
 </details>
 
@@ -90,7 +124,11 @@ _Type: People_
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:39](/episodes/ep-tB5SXXmd9vU.md#t-00-46-56)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:39](/episodes/ep-tB5SXXmd9vU.md#t-00-46-56): “[00:47:39] SPEAKER_2: Disgusting. Forget about what she said about Israel and Jews and BLM and liberals. This is friendship stuff. This is friendship stuff. The most valuable currency you have are the relationships you have with your friends. In my opinion, she's burned every bridge she's ever been associated with.”
+
+</details>
 
 </details>
 

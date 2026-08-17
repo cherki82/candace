@@ -26,7 +26,7 @@ veracity: "true"
 
 - [Sun Myung Moon](/entities/person-sun-myung-moon.md) (person)
 - [Unification Church](/entities/org-unification-church.md) (org)
-- [Washington, D.C.](/entities/gpe-washington-dc.md) (gpe)
+- [Washington, D.C.](/entities/gpe-washington-d-c.md) (gpe)
 
 ## Source
 

@@ -1,6 +1,6 @@
 ---
 title: "Alex Clark"
-description: "Alex Clark (People) - 45 mentions"
+description: "Alex Clark (People) - 44 mentions"
 id: "person-alex-clark"
 type: "PERSON"
 categories:
@@ -16,10 +16,68 @@ _Type: People_
 > Official TPUSA biography confirms the canonical name and contributor role.
 Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-alex-clark-t-00-57-12">2025-09-22 · 00:57:40</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-alex-clark-t-00-52-52">2026-02-13 · 00:53:17</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>44</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-ozWJz2spBcI.md#ent-person-alex-clark-t-00-00-00">TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248</a> (9 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ja26iltROkM.md#ent-person-alex-clark-t-00-57-12" style="--pulse-height:22%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 2 mentions" title="2025-09-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-alex-clark-t-00-00-32" style="--pulse-height:56%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 5 mentions" title="2025-09-23 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-person-alex-clark-t-00-00-00" style="--pulse-height:100%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 9 mentions" title="2025-10-06 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-person-alex-clark-t-00-20-43" style="--pulse-height:11%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-alex-clark-t-00-29-08" style="--pulse-height:11%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-alex-clark-t-00-27-09" style="--pulse-height:11%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-alex-clark-t-00-23-38" style="--pulse-height:44%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 4 mentions" title="2025-11-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-alex-clark-t-00-56-54" style="--pulse-height:11%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-alex-clark-t-00-15-57" style="--pulse-height:22%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-alex-clark-t-00-11-07" style="--pulse-height:33%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 3 mentions" title="2025-11-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-alex-clark-t-00-11-13" style="--pulse-height:33%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 3 mentions" title="2025-12-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-alex-clark-t-00-04-10" style="--pulse-height:44%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 4 mentions" title="2025-12-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-clark-t-00-52-31" style="--pulse-height:11%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-person-alex-clark-t-00-15-10" style="--pulse-height:22%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 2 mentions" title="2026-01-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-person-alex-clark-t-00-17-21" style="--pulse-height:11%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-alex-clark-t-00-48-20" style="--pulse-height:11%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-alex-clark-t-00-50-14" style="--pulse-height:33%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 3 mentions" title="2026-02-13 · 3 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-person-alex-clark-t-00-57-12) | 2 |
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-person-alex-clark-t-00-00-32) | 5 |
+| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-person-alex-clark-t-00-00-00) | 9 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-alex-clark-t-00-20-43) | 1 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-person-alex-clark-t-00-29-08) | 1 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-alex-clark-t-00-27-09) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-alex-clark-t-00-23-38) | 4 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-person-alex-clark-t-00-56-54) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-alex-clark-t-00-15-57) | 2 |
+| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-person-alex-clark-t-00-11-07) | 3 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-person-alex-clark-t-00-11-13) | 3 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-alex-clark-t-00-04-10) | 4 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-clark-t-00-52-31) | 1 |
+| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-alex-clark-t-00-15-10) | 2 |
+| 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-alex-clark-t-00-17-21) | 1 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-alex-clark-t-00-48-20) | 1 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-alex-clark-t-00-50-14) | 3 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (44)</strong></summary>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (3 mentions)</summary>
@@ -88,10 +146,7 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 </details>
 
 <details>
-<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (4 mentions)</summary>
-
-**[00:11:45](/episodes/ep-6J6lRZPQ4jk.md#ent-person-alex-clark-t-00-11-13)**
-> "Alex (Alex Clark) pulling that move"
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (3 mentions)</summary>
 
 **[00:11:44](/episodes/ep-6J6lRZPQ4jk.md#ent-person-alex-clark-t-00-11-13)**
 > "Alex (Alex Clark) pulling that move."
@@ -250,7 +305,11 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 <summary>Criticized (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:43:04](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30): "Alex (Alex Clark) pulling that move."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:43:04](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30): “Alex (Alex Clark) pulling that move.”
+
+</details>
 
 </details>
 
@@ -258,7 +317,11 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:51:02](/episodes/ep-1hcjQGgvxUY.md#t-00-50-52): "because I had gone after her for dressing up in boots and standing over the memorial site of Charlie (Charlie Kirk) to pose for what was it the Washington Post,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:50:38](/episodes/ep-1hcjQGgvxUY.md#t-00-50-14): “apparently Alex Clark demanded, ... because I had gone after her for dressing up in boots and standing over the memorial site of Charlie (Charlie Kirk) to pose for what was it the Washington Post,”
+
+</details>
 
 </details>
 
@@ -266,13 +329,21 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 <summary>Interviewed (2)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
-  - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:00:48](/episodes/ep-UBkFkg4UNY8.md#t-00-00-32): "Andrew Kolvet, the PR agent, close friend of Charlie (Charlie Kirk), who sat down with Alex Clark to answer questions pertaining to whether or not Charlie (Charlie Kirk) was converting to Catholicism and whether or not he was offered $150 million from Israel."
-  - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:30:26](/episodes/ep-UBkFkg4UNY8.md#t-00-30-03): "He went onto the Alex Clark podcast"
-  - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:29:42](/episodes/ep-Qt0VHV-POCg.md#t-00-29-08): "I reflect on that moment, and I think it was right after memorial service—a couple of days after the memorial service—where Alex Clark released that interview with her and Andrew Kolvet"
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:00:48](/episodes/ep-UBkFkg4UNY8.md#t-00-00-32): “Andrew Kolvet, the PR agent, close friend of Charlie (Charlie Kirk), who sat down with Alex Clark to answer questions pertaining to whether or not Charlie (Charlie Kirk) was converting to Catholicism and whether or not he was offered $150 million from Israel.”
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:30:26](/episodes/ep-UBkFkg4UNY8.md#t-00-30-03): “He went onto the Alex Clark podcast”
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:29:42](/episodes/ep-Qt0VHV-POCg.md#t-00-29-08): “I reflect on that moment, and I think it was right after memorial service—a couple of days after the memorial service—where Alex Clark released that interview with her and Andrew Kolvet”
+
+</details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:57:49](/episodes/ep-ja26iltROkM.md#t-00-57-12): "Erika Kirk is going on—I think—Alex Clark's show"
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:59:09](/episodes/ep-ja26iltROkM.md#t-00-58-36): "I saw people that were going: 'Erika Kirk is going on—I think—Alex Clark's show'"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:57:49](/episodes/ep-ja26iltROkM.md#t-00-57-12): “Erika Kirk is going on—I think—Alex Clark's show”
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:59:09](/episodes/ep-ja26iltROkM.md#t-00-58-36): “I saw people that were going: 'Erika Kirk is going on—I think—Alex Clark's show'”
+
+</details>
 
 </details>
 
@@ -280,11 +351,19 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 <summary>Works For (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:34](/episodes/ep-ozWJz2spBcI.md#t-00-00-00): "highlighted by Alex Clark, who has a show over there on Instagram"
-  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:04:18](/episodes/ep-es7PWdFGoFI.md#t-00-04-10): "I was like, look, I say something in a tribute to him, Alex and Andrew then jump onto a podcast"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:34](/episodes/ep-ozWJz2spBcI.md#t-00-00-00): “highlighted by Alex Clark, who has a show over there on Instagram”
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:04:18](/episodes/ep-es7PWdFGoFI.md#t-00-04-10): “I was like, look, I say something in a tribute to him, Alex and Andrew then jump onto a podcast”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:07:54](/episodes/ep-ozWJz2spBcI.md#t-00-07-35): "Her boss, Charlie Kirk, had been shot"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:07:54](/episodes/ep-ozWJz2spBcI.md#t-00-07-35): “Her boss, Charlie Kirk, had been shot”
+
+</details>
 
 </details>
 
@@ -292,22 +371,46 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 <summary>Referenced By (6)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:51:02](/episodes/ep-1hcjQGgvxUY.md#t-00-50-52)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:50:38](/episodes/ep-1hcjQGgvxUY.md#t-00-50-14): “apparently Alex Clark demanded, ... because I had gone after her for dressing up in boots and standing over the memorial site of Charlie (Charlie Kirk) to pose for what was it the Washington Post,”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:43:04](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:43:04](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30): “Alex (Alex Clark) pulling that move.”
+
+</details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
-  - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:34](/episodes/ep-ozWJz2spBcI.md#t-00-00-00)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:34](/episodes/ep-ozWJz2spBcI.md#t-00-00-00): “highlighted by Alex Clark, who has a show over there on Instagram”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** employs this
-  - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:07:54](/episodes/ep-ozWJz2spBcI.md#t-00-07-35)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:07:54](/episodes/ep-ozWJz2spBcI.md#t-00-07-35): “Her boss, Charlie Kirk, had been shot”
+
+</details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** interviewed by this
-  - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:00:48](/episodes/ep-UBkFkg4UNY8.md#t-00-00-32)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:00:48](/episodes/ep-UBkFkg4UNY8.md#t-00-00-32): “Andrew Kolvet, the PR agent, close friend of Charlie (Charlie Kirk), who sat down with Alex Clark to answer questions pertaining to whether or not Charlie (Charlie Kirk) was converting to Catholicism and whether or not he was offered $150 million from Israel.”
+
+</details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** interviewed by this
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:57:49](/episodes/ep-ja26iltROkM.md#t-00-57-12)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:57:49](/episodes/ep-ja26iltROkM.md#t-00-57-12): “Erika Kirk is going on—I think—Alex Clark's show”
+
+</details>
 
 </details>
 

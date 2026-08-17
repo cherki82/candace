@@ -1,6 +1,6 @@
 ---
 title: "Skyler"
-description: "Skyler (People) - 13 mentions"
+description: "Skyler (People) - 12 mentions"
 id: "person-skyler"
 type: "PERSON"
 aliases:
@@ -11,19 +11,44 @@ _Type: People_
 
 **Also known as:** Skyler Broderick
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-skyler-t-00-22-30">2025-09-22 · 00:22:56</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-skyler-t-00-16-58">2025-10-01 · 00:17:31</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-adJ4LNGp84I.md#ent-person-skyler-t-00-07-42">BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246</a> (8 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ja26iltROkM.md#ent-person-skyler-t-00-22-30" style="--pulse-height:50%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 4 mentions" title="2025-09-22 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-skyler-t-00-07-42" style="--pulse-height:100%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 8 mentions" title="2025-10-01 · 8 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-person-skyler-t-00-22-30) | 4 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-skyler-t-00-07-42) | 8 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (9 mentions)</summary>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (8 mentions)</summary>
 
 **[00:07:42](/episodes/ep-adJ4LNGp84I.md#ent-person-skyler-t-00-07-42)**
 > "We'll jump back in here regarding Skyler Broderick, who is, according to Phil Lyman, a cousin, who he refers to Phil as his uncle across interviews."
-
-**[00:07:42](/episodes/ep-adJ4LNGp84I.md#ent-person-skyler-t-00-07-42)**
-> "...l jump back in here regarding Skyler Broderick, who is, according to Phil Lyman, a cou..."
 
 **[00:07:56](/episodes/ep-adJ4LNGp84I.md#ent-person-skyler-t-00-07-42)**
 > "And Skyler Broderick has, of course, mysteriously deleted al..."
@@ -74,7 +99,11 @@ _Type: People_
 <summary>Works For (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:44:04](/episodes/ep-ja26iltROkM.md#t-00-43-32): "was it 48 hours, Skyler?"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:44:04](/episodes/ep-ja26iltROkM.md#t-00-43-32): “was it 48 hours, Skyler?”
+
+</details>
 
 </details>
 
@@ -82,7 +111,11 @@ _Type: People_
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** employs this
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:44:04](/episodes/ep-ja26iltROkM.md#t-00-43-32)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:44:04](/episodes/ep-ja26iltROkM.md#t-00-43-32): “was it 48 hours, Skyler?”
+
+</details>
 
 </details>
 

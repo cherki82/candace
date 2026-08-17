@@ -11,7 +11,15 @@ object: "person-candace-owens"
 
 ## [Tyler Bowyer](/entities/person-tyler-bowyer) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (3 mentions)
+### Evidence (6 mentions)
+
+**[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
+
+- [00:44:52](/episodes/ep-1IY2oD-_xVA#t-00-44-52): _He set that up, right? Not a good guy, Tyler Bowyer. And there was a rumor, which I will tell you what Turning Point's response was, but I had, it was stronger than a rumor._
+
+**[Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY)**
+
+- [00:30:43](/episodes/ep-2tFYJf1klgY#t-00-30-43): _I told you he's a sexual deviant. It's like, I mean, there's just so much out there._
 
 **[IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ)**
 
@@ -20,6 +28,10 @@ object: "person-candace-owens"
 **[BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw)**
 
 - [00:26:34](/episodes/ep-HYn0P-P1wUw#t-00-26-34): _I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character. I'm going to stand by that._
+
+**[Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg)**
+
+- [00:21:56](/episodes/ep-cZxHqYsWRYg#t-00-21-56): _And Tyler Bowyer, probably the same. I know that he recently required a literal federal pardon from the president of the United States for fraud. He was credibly accused of nine felonies related to trying to subvert the election, including fraud, forgery, and conspiracy._
 
 **[DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw)**
 

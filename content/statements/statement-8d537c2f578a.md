@@ -20,7 +20,7 @@ type: "accusation"
 
 ## About
 
-- [The Daily Wire](/entities/org-daily-wire.md) (org)
+- [The Daily Wire](/entities/org-the-daily-wire.md) (org)
 - [Candace Owens](/entities/person-candace-owens.md) (person)
 - [Tucker Carlson](/entities/person-tucker-carlson.md) (person)
 - [The More You No-No](/entities/work-the-more-you-no-no.md) (work)

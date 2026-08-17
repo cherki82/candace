@@ -23,13 +23,23 @@ veracity: "mixed"
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. Myron Gaines x Candace Owens
 
 **Episode:** [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md)
 **Timestamp:** [01:03:36](/episodes/ep-2T39-oADLj0.md#t-01-03-36) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3816);return false;">Play</a>
 
 > uh to the side of the audience I think that's more that's the more likely story because he wasn't shot with 30 out of six six ... six first and foremost and the bullets did not destroy his neck i know that for a fact
+
+### 2. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
+
+**Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
+**Timestamp:** [00:39:52](/episodes/ep-nPhCKwJ6ye8.md#t-00-39-52) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2392);return false;">Play</a>
+
+> was definitely hit with a projectile of some description. If we're talking about was he shot from a gun, a 30-odd-6, I would say definitively no.
 
 ## Verification
 

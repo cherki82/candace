@@ -20,10 +20,50 @@ _Type: People_
 > The Daily Wire’s official about page identifies Jeremy Boreing as a co-founder.
 Source: [About | The Daily Wire](https://www.dailywire.com/about)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-jeremy-boreing-t-00-02-51">2025-11-06 · 00:03:33</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-jeremy-boreing-t-00-41-24">2026-02-03 · 00:41:24</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>34</strong></div>
+<div><span>Statements by</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Relationships</span><strong>20</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-jeremy-boreing-t-00-00-41">Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297</a> (19 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-jeremy-boreing-t-00-02-51" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-person-jeremy-boreing-t-00-12-19" style="--pulse-height:37%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 7 mentions" title="2025-11-08 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-jeremy-boreing-t-00-12-00" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-jeremy-boreing-t-00-14-33" style="--pulse-height:16%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 3 mentions" title="2026-01-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#t-00-43-14" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-jeremy-boreing-t-00-00-41" style="--pulse-height:100%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 19 mentions" title="2026-01-28 · 19 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-jeremy-boreing-t-00-10-44" style="--pulse-height:8%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-jeremy-boreing-t-00-41-24" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-jeremy-boreing-t-00-02-51) | 1 |
+| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-person-jeremy-boreing-t-00-12-19) | 7 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-jeremy-boreing-t-00-12-00) | 1 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-jeremy-boreing-t-00-14-33) | 3 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#t-00-43-14) | 1 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-jeremy-boreing-t-00-00-41) | 19 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-jeremy-boreing-t-00-10-44) | 1 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-jeremy-boreing-t-00-41-24) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (34)</strong></summary>
 
 <details>
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (1 mentions)</summary>
@@ -176,8 +216,12 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <summary>Ceo Of (1)</summary>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
-  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:12:39](/episodes/ep-r1PS67aRmcA.md#t-00-12-19): "the CEO of the Daily Wire, at the time it was Jeremy Boreing"
-  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:00](/episodes/ep-r1PS67aRmcA.md#t-00-04-34): "the CEO of the Daily Wire, at the time it was Jeremy Boreing (Jeremy Boreing)"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:12:39](/episodes/ep-r1PS67aRmcA.md#t-00-12-19): “the CEO of the Daily Wire, at the time it was Jeremy Boreing”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:00](/episodes/ep-r1PS67aRmcA.md#t-00-04-34): “the CEO of the Daily Wire, at the time it was Jeremy Boreing (Jeremy Boreing)”
+
+</details>
 
 </details>
 
@@ -185,10 +229,18 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <summary>Criticized (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:40:11](/episodes/ep-QdM9jLwjwLw.md#t-00-39-48): "Candace (Candace Owens), all those same gifts that she has at various times used for good, she's now using for ill, ... The problem is, if what you're pursuing is bad and you're the best at it, you're going to do an incredible amount of damage, and Candace (Candace Owens) is doing an incredible amount of damage."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:40:11](/episodes/ep-QdM9jLwjwLw.md#t-00-39-48): “Candace (Candace Owens), all those same gifts that she has at various times used for good, she's now using for ill, ... The problem is, if what you're pursuing is bad and you're the best at it, you're going to do an incredible amount of damage, and Candace (Candace Owens) is doing an incredible amount of damage.”
+
+</details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-  - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:00:41](/episodes/ep-QdM9jLwjwLw.md#t-00-00-00): "Jeremy Boreing, is back trying to make a comeback to proclaim his name in the press after he ran the company into the ground. ... And like everyone in the mainstream media, he appears to be auditioning for a role at AIPAC in the very tried and true manner of publicly attacking Tucker Carlson and yours truly,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:00:41](/episodes/ep-QdM9jLwjwLw.md#t-00-00-00): “Jeremy Boreing, is back trying to make a comeback to proclaim his name in the press after he ran the company into the ground. ... And like everyone in the mainstream media, he appears to be auditioning for a role at AIPAC in the very tried and true manner of publicly attacking Tucker Carlson and yours truly,”
+
+</details>
 
 </details>
 
@@ -196,7 +248,11 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:46:32](/episodes/ep-QdM9jLwjwLw.md#t-00-46-30): "really build stages every time he speaks at Daily Wire. Jeremy Boreing is a person that is so obsessed with himself and thinks about nobody else that he put the company into debt what happened what's the true story what happened to the Daily Wire Jeremy Boreing was wanting to live out his boyhood theater kid dreams right he ... blew out virtually the entire company to Hungary to bring a book that he read in middle school to life on a budget that would make HBO blush paying to transport bulls across the continent of Europe and the process obviously plummeting a once financially healthy company into the ground I am told last number I heard was 67 million dollars"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:46:32](/episodes/ep-QdM9jLwjwLw.md#t-00-46-30): “really build stages every time he speaks at Daily Wire. Jeremy Boreing is a person that is so obsessed with himself and thinks about nobody else that he put the company into debt what happened what's the true story what happened to the Daily Wire Jeremy Boreing was wanting to live out his boyhood theater kid dreams right he ... blew out virtually the entire company to Hungary to bring a book that he read in middle school to life on a budget that would make HBO blush paying to transport bulls across the continent of Europe and the process obviously plummeting a once financially healthy company into the ground I am told last number I heard was 67 million dollars”
+
+</details>
 
 </details>
 
@@ -204,7 +260,11 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <summary>Endorsed (1)</summary>
 
 - **[Nick Fuentes](/entities/person-nick-fuentes.md)**
-  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:05](/episodes/ep-r1PS67aRmcA.md#t-00-04-34): "Daily Wire CEO tells white supremacist Nick Fuentes (Nick Fuentes) that he's talented and he's very funny"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:05](/episodes/ep-r1PS67aRmcA.md#t-00-04-34): “Daily Wire CEO tells white supremacist Nick Fuentes (Nick Fuentes) that he's talented and he's very funny”
+
+</details>
 
 </details>
 
@@ -212,8 +272,12 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <summary>Fired (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:12:18](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00): "Here is a video of the then CEO Jeremy Boring"
-  - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:51:39](/episodes/ep-QdM9jLwjwLw.md#t-00-51-07): "It's now been two years and you would think, Jeremy (Jeremy Boreing), ... I might even rank having sent an intern on a secret mission to stalk the woman that you just fired to Dallas, to Turning Point USA,"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:12:18](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00): “Here is a video of the then CEO Jeremy Boring”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:51:39](/episodes/ep-QdM9jLwjwLw.md#t-00-51-07): “It's now been two years and you would think, Jeremy (Jeremy Boreing), ... I might even rank having sent an intern on a secret mission to stalk the woman that you just fired to Dallas, to Turning Point USA,”
+
+</details>
 
 </details>
 
@@ -221,15 +285,23 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <summary>Formerly Employed (1)</summary>
 
 - **[Brett Cooper](/entities/person-brett-cooper.md)**
-  - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:53:14](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11): "Jeremy (Jeremy Boreing), ... I might even rank you bizarrely telling Brett Cooper, ... then a very young employee of yours, just a few weeks before she was slated to get married, sitting her down and telling her that she shouldn't do that because you had big plans and you were going to turn her into a star because you're the magic."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:53:14](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11): “Jeremy (Jeremy Boreing), ... I might even rank you bizarrely telling Brett Cooper, ... then a very young employee of yours, just a few weeks before she was slated to get married, sitting her down and telling her that she shouldn't do that because you had big plans and you were going to turn her into a star because you're the magic.”
+
+</details>
 
 </details>
 
 <details>
 <summary>Formerly Worked For (1)</summary>
 
-- **[The Daily Wire](/entities/org-daily-wire.md)**
-  - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:00:37](/episodes/ep-QdM9jLwjwLw.md#t-00-00-00): "And speaking of different ways to grieve, the now former CEO of Daily Wire, ... Jeremy Boreing, is back trying to make a comeback to proclaim his name in the press after he ran the company into the ground."
+- **[The Daily Wire](/entities/org-the-daily-wire.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:00:37](/episodes/ep-QdM9jLwjwLw.md#t-00-00-00): “And speaking of different ways to grieve, the now former CEO of Daily Wire, ... Jeremy Boreing, is back trying to make a comeback to proclaim his name in the press after he ran the company into the ground.”
+
+</details>
 
 </details>
 
@@ -237,7 +309,11 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <summary>Hired (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:38:56](/episodes/ep-QdM9jLwjwLw.md#t-00-38-56): "When Candace (Candace Owens) works for you, ... do you sometimes look back at the decision and think that wasn't a good one when she was working at the wire? ... Yeah, ... well, ... I certainly think that hiring Candace (Candace Owens) is probably the biggest mistake of my professional life so far."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:38:56](/episodes/ep-QdM9jLwjwLw.md#t-00-38-56): “When Candace (Candace Owens) works for you, ... do you sometimes look back at the decision and think that wasn't a good one when she was working at the wire? ... Yeah, ... well, ... I certainly think that hiring Candace (Candace Owens) is probably the biggest mistake of my professional life so far.”
+
+</details>
 
 </details>
 
@@ -245,7 +321,11 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <summary>Sued (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:53:14](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11): "Jeremy (Jeremy Boreing), ... And when you sued me for that, for standing up for Brett Cooper,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:53:14](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11): “Jeremy (Jeremy Boreing), ... And when you sued me for that, for standing up for Brett Cooper,”
+
+</details>
 
 </details>
 
@@ -253,35 +333,75 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <summary>Referenced By (10)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-  - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:46:32](/episodes/ep-QdM9jLwjwLw.md#t-00-46-30)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:46:32](/episodes/ep-QdM9jLwjwLw.md#t-00-46-30): “really build stages every time he speaks at Daily Wire. Jeremy Boreing is a person that is so obsessed with himself and thinks about nobody else that he put the company into debt what happened what's the true story what happened to the Daily Wire Jeremy Boreing was wanting to live out his boyhood theater kid dreams right he ... blew out virtually the entire company to Hungary to bring a book that he read in middle school to life on a budget that would make HBO blush paying to transport bulls across the continent of Europe and the process obviously plummeting a once financially healthy company into the ground I am told last number I heard was 67 million dollars”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-  - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:40:11](/episodes/ep-QdM9jLwjwLw.md#t-00-39-48)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:40:11](/episodes/ep-QdM9jLwjwLw.md#t-00-39-48): “Candace (Candace Owens), all those same gifts that she has at various times used for good, she's now using for ill, ... The problem is, if what you're pursuing is bad and you're the best at it, you're going to do an incredible amount of damage, and Candace (Candace Owens) is doing an incredible amount of damage.”
+
+</details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** criticized by this
-  - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:00:41](/episodes/ep-QdM9jLwjwLw.md#t-00-00-00)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:00:41](/episodes/ep-QdM9jLwjwLw.md#t-00-00-00): “Jeremy Boreing, is back trying to make a comeback to proclaim his name in the press after he ran the company into the ground. ... And like everyone in the mainstream media, he appears to be auditioning for a role at AIPAC in the very tried and true manner of publicly attacking Tucker Carlson and yours truly,”
+
+</details>
 
 - **[Nick Fuentes](/entities/person-nick-fuentes.md)** endorsed by this
-  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:05](/episodes/ep-r1PS67aRmcA.md#t-00-04-34)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:05](/episodes/ep-r1PS67aRmcA.md#t-00-04-34): “Daily Wire CEO tells white supremacist Nick Fuentes (Nick Fuentes) that he's talented and he's very funny”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** fired by this
-  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:12:18](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00)
-  - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:51:39](/episodes/ep-QdM9jLwjwLw.md#t-00-51-07)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- **[The Daily Wire](/entities/org-daily-wire.md)** formerly employed this
-  - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:00:37](/episodes/ep-QdM9jLwjwLw.md#t-00-00-00)
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:12:18](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00): “Here is a video of the then CEO Jeremy Boring”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:51:39](/episodes/ep-QdM9jLwjwLw.md#t-00-51-07): “It's now been two years and you would think, Jeremy (Jeremy Boreing), ... I might even rank having sent an intern on a secret mission to stalk the woman that you just fired to Dallas, to Turning Point USA,”
+
+</details>
+
+- **[The Daily Wire](/entities/org-the-daily-wire.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:00:37](/episodes/ep-QdM9jLwjwLw.md#t-00-00-00): “And speaking of different ways to grieve, the now former CEO of Daily Wire, ... Jeremy Boreing, is back trying to make a comeback to proclaim his name in the press after he ran the company into the ground.”
+
+</details>
 
 - **[Brett Cooper](/entities/person-brett-cooper.md)** formerly worked for this
-  - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:53:14](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:53:14](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11): “Jeremy (Jeremy Boreing), ... I might even rank you bizarrely telling Brett Cooper, ... then a very young employee of yours, just a few weeks before she was slated to get married, sitting her down and telling her that she shouldn't do that because you had big plans and you were going to turn her into a star because you're the magic.”
+
+</details>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** has CEO this
-  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:12:39](/episodes/ep-r1PS67aRmcA.md#t-00-12-19)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:12:39](/episodes/ep-r1PS67aRmcA.md#t-00-12-19): “the CEO of the Daily Wire, at the time it was Jeremy Boreing”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** hired by this
-  - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:38:56](/episodes/ep-QdM9jLwjwLw.md#t-00-38-56)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:38:56](/episodes/ep-QdM9jLwjwLw.md#t-00-38-56): “When Candace (Candace Owens) works for you, ... do you sometimes look back at the decision and think that wasn't a good one when she was working at the wire? ... Yeah, ... well, ... I certainly think that hiring Candace (Candace Owens) is probably the biggest mistake of my professional life so far.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** sued by this
-  - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:53:14](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:53:14](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11): “Jeremy (Jeremy Boreing), ... And when you sued me for that, for standing up for Brett Cooper,”
+
+</details>
 
 </details>
 
@@ -294,7 +414,7 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (7)</summary>
 
 - [00:39:05](/episodes/ep-QdM9jLwjwLw.md#t-00-39-04) [○] (Opinion) ["Hiring Candace Owens was probably the biggest mistake of my professional life so..."](/statements/statement-0862ed4e26eb.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 - [00:39:24](/episodes/ep-QdM9jLwjwLw.md#t-00-39-04) [○] (Opinion) ["Candace Owens is the most talented person I have ever met, not just in conservat..."](/statements/statement-56e5544ccc82.md)
   - About: [Candace Owens](/entities/person-candace-owens.md)
@@ -325,31 +445,31 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (9)</summary>
 
 - [00:46:53](/episodes/ep-QdM9jLwjwLw.md#t-00-46-30) (Accusation) **Candace Owens**: ["Owens said she was told Jeremy Boreing spent about $67 million on his ..."](/statements/statement-e105cd32e317.md)
-  - Also about: [The Daily Wire](/entities/org-daily-wire.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md)
 
 - [00:47:18](/episodes/ep-QdM9jLwjwLw.md#t-00-46-53) (Accusation) **Candace Owens**: ["The Daily Wire emptied a savings account and borrowed money personally..."](/statements/statement-ddbe7f83380d.md)
-  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 - [00:50:36](/episodes/ep-QdM9jLwjwLw.md#t-00-50-24) (Accusation) **Candace Owens**: ["Owens sarcastically characterized The Daily Wire's decision as a plan ..."](/statements/statement-6470de56359a.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-daily-wire.md), [Antisemitism](/entities/concept-antisemitism.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Antisemitism](/entities/concept-antisemitism.md)
 
 - [00:51:17](/episodes/ep-QdM9jLwjwLw.md#t-00-51-07) (Claim) **Candace Owens**: ["Jeremy Boreing personally reviewed Andrew Klavan's first episode attac..."](/statements/statement-a7a27a3b9955.md)
-  - Also about: [Andrew Klavan](/entities/person-andrew-klavan.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - Also about: [Andrew Klavan](/entities/person-andrew-klavan.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 - [00:52:27](/episodes/ep-QdM9jLwjwLw.md#t-00-51-50) (Accusation) **Candace Owens**: ["Jeremy Boreing sent an intern to follow me to a Turning Point USA even..."](/statements/statement-c88afe6fd106.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-daily-wire.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:53:15](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11) (Accusation) **Candace Owens**: ["Jeremy Boreing told Brett Cooper a few weeks before her wedding that s..."](/statements/statement-f49b5ad7509e.md)
-  - Also about: [Brett Cooper](/entities/person-brett-cooper.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - Also about: [Brett Cooper](/entities/person-brett-cooper.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 - [00:54:07](/episodes/ep-QdM9jLwjwLw.md#t-00-53-54) (Accusation) **Candace Owens**: ["The Daily Wire offered Brett Cooper's maid of honor a large sum to rep..."](/statements/statement-1910477f2c11.md)
-  - Also about: [Brett Cooper](/entities/person-brett-cooper.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - Also about: [Brett Cooper](/entities/person-brett-cooper.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 - [00:55:57](/episodes/ep-QdM9jLwjwLw.md#t-00-55-17) (Claim) **Candace Owens**: ["Jeremy Boreing admitted to me that he had a mental breakdown in Hungar..."](/statements/statement-db0eae515314.md)
-  - Also about: [Hungary](/entities/gpe-hungary.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - Also about: [Hungary](/entities/gpe-hungary.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 - [01:03:05](/episodes/ep-QdM9jLwjwLw.md#t-01-02-58) (Accusation) **Candace Owens** (via paraphrase): ["Jeremy Boreing repeatedly threatened that The Daily Wire would bankrup..."](/statements/statement-41320863a4cd.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </details>
 
@@ -357,10 +477,10 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (2)</summary>
 
 - [00:14:33](/episodes/ep-zSKrxIUMNqw.md#t-00-13-54) (Accusation) **Candace Owens**: ["Jeremy Boreing publicly identified Owens's views that genocide is alwa..."](/statements/statement-22bf3ad02120.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-daily-wire.md), [Genocide](/entities/concept-genocide.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Genocide](/entities/concept-genocide.md)
 
 - [00:39:34](/episodes/ep-zSKrxIUMNqw.md#t-00-39-32) (Accusation) **Candace Owens**: ["The Daily Wire threatened to reduce Candace Owens's contract unless sh..."](/statements/statement-ced70ad0f846.md)
-  - Also about: [The Daily Wire](/entities/org-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Kanye West](/entities/person-kanye-west.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Kanye West](/entities/person-kanye-west.md)
 
 </details>
 

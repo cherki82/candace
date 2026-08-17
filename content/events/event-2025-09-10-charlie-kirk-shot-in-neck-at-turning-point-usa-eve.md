@@ -11,7 +11,7 @@ date: "2025-09-10"
 
 > Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University
 
-## Mentioned In (392 times)
+## Mentioned In (393 times)
 
 ### 1. REVELATIONS: The Truth About Charlie's Medical Report | Cand...
 
@@ -3148,3 +3148,11 @@ date: "2025-09-10"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(4080);return false;">▶️ Play</a>
 
 > Charlie just got assassinated in broad daylight and I feel like everyone is sort of singling that.
+
+### 393. Coming soon...
+
+**Episode:** [Coming soon...](/episodes/ep-LKR94FQ5p3o.md)
+**Timestamp:** [00:00:00](/episodes/ep-LKR94FQ5p3o.md#t-00-00-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(0);return false;">▶️ Play</a>
+
+> President Trump says that Kirk has died after he was shot

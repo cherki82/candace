@@ -1,6 +1,6 @@
 ---
 title: "Just Thrive"
-description: "Just Thrive (Organizations) - 30 mentions"
+description: "Just Thrive (Organizations) - 34 mentions"
 id: "org-just-thrive"
 type: "ORG"
 aliases:
@@ -20,10 +20,66 @@ _Type: Organizations_
 > Official company page confirms canonical brand name.
 Source: [Our Story – Just Thrive](https://justthrivehealth.com/pages/our-story)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-just-thrive-t-00-34-41">2025-09-15 · 00:34:42</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-org-just-thrive-t-00-46-52">2026-03-03 · 00:46:52</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>34</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-just-thrive-t-00-34-41">They Are Lying About Charlie Kirk. | Candace Ep 235</a> (7 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-just-thrive-t-00-34-41" style="--pulse-height:100%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 7 mentions" title="2025-09-15 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-org-just-thrive-t-00-36-43" style="--pulse-height:86%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 6 mentions" title="2025-09-25 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-org-just-thrive-t-00-31-20" style="--pulse-height:71%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 5 mentions" title="2025-10-27 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-just-thrive-t-00-27-29" style="--pulse-height:71%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 5 mentions" title="2026-01-05 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-just-thrive-t-00-19-40" style="--pulse-height:86%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 6 mentions" title="2026-02-04 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-org-just-thrive-t-00-46-09" style="--pulse-height:71%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 5 mentions" title="2026-03-03 · 5 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-org-just-thrive-t-00-34-41) | 7 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-org-just-thrive-t-00-36-43) | 6 |
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-org-just-thrive-t-00-31-20) | 5 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-just-thrive-t-00-27-29) | 5 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-org-just-thrive-t-00-19-40) | 6 |
+| 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-org-just-thrive-t-00-46-09) | 5 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (5 mentions)</summary>
+
+**[00:46:09](/episodes/ep-2tFYJf1klgY.md#ent-org-just-thrive-t-00-46-09)**
+> "The Just Thrive Gut Essentials Bundle gives your body the support..."
+
+**[00:46:16](/episodes/ep-2tFYJf1klgY.md#ent-org-just-thrive-t-00-46-09)**
+> "It starts with Just Thrive probiotic, clinically proven to have 1,000 times ..."
+
+**[00:46:27](/episodes/ep-2tFYJf1klgY.md#ent-org-just-thrive-t-00-46-09)**
+> "...ism. Then add in the magic of just Thrive digestive bitters. These combine 12 traditional b..."
+
+**[00:46:38](/episodes/ep-2tFYJf1klgY.md#ent-org-just-thrive-t-00-46-09)**
+> "... support healthy blood sugar. Just Thrive has been helping thousands of people take control..."
+
+**[00:46:52](/episodes/ep-2tFYJf1klgY.md#ent-org-just-thrive-t-00-46-52)**
+> "...notice, like I do when I take Just Thrive, then take the Just Thrive gut health challenge t..."
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (6 mentions)</summary>
@@ -89,13 +145,10 @@ Source: [Our Story – Just Thrive](https://justthrivehealth.com/pages/our-story
 </details>
 
 <details>
-<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (7 mentions)</summary>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (6 mentions)</summary>
 
 **[00:36:53](/episodes/ep-K5GjF53bfN4.md#ent-org-just-thrive-t-00-36-43)**
 > "I want to tell you about Just Thrive because the biggest health secret that is not talked about is that everything starts in your gut"
-
-**[00:36:53](/episodes/ep-K5GjF53bfN4.md#ent-org-just-thrive-t-00-36-43)**
-> "...nts, I want to tell you about Just Thrive because the biggest health secret that is not tal..."
 
 **[00:37:17](/episodes/ep-K5GjF53bfN4.md#ent-org-just-thrive-t-00-36-43)**
 > "And that's what makes Just Thrive's spore-based probiotic completely different."
@@ -145,6 +198,28 @@ Source: [Our Story – Just Thrive](https://justthrivehealth.com/pages/our-story
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Endorsed By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:46:52](/episodes/ep-2tFYJf1klgY.md#t-00-46-52): “If you're ready to feel a difference that you can actually notice, like I do when I take Just Thrive, then take the Just Thrive gut health challenge today.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:46:52](/episodes/ep-2tFYJf1klgY.md#t-00-46-52): “If you're ready to feel a difference that you can actually notice, like I do when I take Just Thrive, then take the Just Thrive gut health challenge today.”
+
+</details>
+
+</details>
 
 </details>

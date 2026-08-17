@@ -1,6 +1,6 @@
 ---
 title: "Feminism"
-description: "Feminism (Concepts) - 14 mentions"
+description: "Feminism (Concepts) - 17 mentions"
 id: "concept-feminism"
 type: "CONCEPT"
 categories:
@@ -12,10 +12,66 @@ _Type: Concepts_
 
 **Categories:** social movement, political ideology
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-concept-feminism-t-00-01-29">2026-01-16 · 00:01:41</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-feminism-t-02-58-41">2026-08-14 · 02:58:41</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-2T39-oADLj0.md#ent-concept-feminism-t-00-01-29">Myron Gaines x Candace Owens</a> (13 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-2T39-oADLj0.md#ent-concept-feminism-t-00-01-29" style="--pulse-height:100%" aria-label="Myron Gaines x Candace Owens: 13 mentions" title="2026-01-16 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-feminism-t-00-23-59" style="--pulse-height:8%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-feminism-t-00-01-29" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-feminism-t-02-58-41" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-feminism-t-00-01-29) | 13 |
+| 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-concept-feminism-t-00-23-59) | 1 |
+| 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-concept-feminism-t-00-01-29) | 1 |
+| 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-feminism-t-02-58-41) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
+
+**[02:58:41](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-feminism-t-02-58-41)**
+> "...i'm still just as critical of feminism inside of tp usa as i've always been and i'm just..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (1 mentions)</summary>
+
+**[00:01:41](/episodes/ep-2tFYJf1klgY.md#ent-concept-feminism-t-00-01-29)**
+> "...f exploring issues related to feminism and gender studies."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (1 mentions)</summary>
+
+**[00:24:16](/episodes/ep-1IY2oD-_xVA.md#ent-concept-feminism-t-00-23-59)**
+> "That's just effectively Mormon mafia, right? We've done a report. I guess we can go into Native American, they need feminism or something."
+
+</details>
 
 <details>
 <summary>Myron Gaines x Candace Owens (13 mentions)</summary>
@@ -70,10 +126,18 @@ _Type: Concepts_
 <summary>Target Of Criticism From (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Myron Gaines x Candace Owens @ 00:01:41](/episodes/ep-2T39-oADLj0.md#t-00-01-29): "We've both been pretty critical of feminism."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:01:41](/episodes/ep-2T39-oADLj0.md#t-00-01-29): “We've both been pretty critical of feminism.”
+
+</details>
 
 - **[Myron Gaines](/entities/person-myron-gaines.md)**
-  - [Myron Gaines x Candace Owens @ 00:01:41](/episodes/ep-2T39-oADLj0.md#t-00-01-29): "We've both been pretty critical of feminism."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:01:41](/episodes/ep-2T39-oADLj0.md#t-00-01-29): “We've both been pretty critical of feminism.”
+
+</details>
 
 </details>
 
@@ -81,10 +145,18 @@ _Type: Concepts_
 <summary>Referenced By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** critic of this
-  - [Myron Gaines x Candace Owens @ 00:01:41](/episodes/ep-2T39-oADLj0.md#t-00-01-29)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:01:41](/episodes/ep-2T39-oADLj0.md#t-00-01-29): “We've both been pretty critical of feminism.”
+
+</details>
 
 - **[Myron Gaines](/entities/person-myron-gaines.md)** critic of this
-  - [Myron Gaines x Candace Owens @ 00:01:41](/episodes/ep-2T39-oADLj0.md#t-00-01-29)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:01:41](/episodes/ep-2T39-oADLj0.md#t-00-01-29): “We've both been pretty critical of feminism.”
+
+</details>
 
 </details>
 

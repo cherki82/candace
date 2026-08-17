@@ -20,10 +20,40 @@ _Type: People_
 > Official Harvest page confirms Greg Laurie as the pastor who founded Harvest Christian Fellowship and launched Harvest Ministries.
 Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-greg-laurie-t-00-13-35">2026-01-09 · 00:13:35</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-X92MllIHDzw.md#ent-person-greg-laurie-t-00-14-50">2026-01-16 · 00:14:56</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>5</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-greg-laurie-t-00-32-45">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (6 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-greg-laurie-t-00-13-35" style="--pulse-height:33%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-greg-laurie-t-00-32-45" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 6 mentions" title="2026-01-13 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-person-greg-laurie-t-00-14-50" style="--pulse-height:17%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-greg-laurie-t-00-13-35) | 2 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-greg-laurie-t-00-32-45) | 6 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-greg-laurie-t-00-14-50) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
 
 <details>
 <summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (1 mentions)</summary>
@@ -76,7 +106,11 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 <summary>Founded (1)</summary>
 
 - **[Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md)**
-  - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:33:28](/episodes/ep-ZZGWo6oDscc.md#t-00-33-28): "Here's an article which tells us that Greg Laurie, there's been a number of lawsuits filed against Harvest Christian Fellowship. The founder, Greg Laurie, and also the churches related to alleged abuse of young men at a children's home in Romania."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:33:28](/episodes/ep-ZZGWo6oDscc.md#t-00-33-28): “Here's an article which tells us that Greg Laurie, there's been a number of lawsuits filed against Harvest Christian Fellowship. The founder, Greg Laurie, and also the churches related to alleged abuse of young men at a children's home in Romania.”
+
+</details>
 
 </details>
 
@@ -84,7 +118,11 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 <summary>Pastor Of (1)</summary>
 
 - **[Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md)**
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:13:35](/episodes/ep-wcD2khO3rOA.md#t-00-12-53): "Turning Point USA obviously working with Pastor Greg Laurie despite Harvest Church being accused of trafficking children from Romania."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:13:35](/episodes/ep-wcD2khO3rOA.md#t-00-12-53): “Turning Point USA obviously working with Pastor Greg Laurie despite Harvest Church being accused of trafficking children from Romania.”
+
+</details>
 
 </details>
 
@@ -92,13 +130,25 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 <summary>Referenced By (3)</summary>
 
 - **[Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md)** founded by this
-  - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:33:28](/episodes/ep-ZZGWo6oDscc.md#t-00-33-28)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:33:28](/episodes/ep-ZZGWo6oDscc.md#t-00-33-28): “Here's an article which tells us that Greg Laurie, there's been a number of lawsuits filed against Harvest Christian Fellowship. The founder, Greg Laurie, and also the churches related to alleged abuse of young men at a children's home in Romania.”
+
+</details>
 
 - **[Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md)** has pastor this
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:13:35](/episodes/ep-wcD2khO3rOA.md#t-00-12-53)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:13:35](/episodes/ep-wcD2khO3rOA.md#t-00-12-53): “Turning Point USA obviously working with Pastor Greg Laurie despite Harvest Church being accused of trafficking children from Romania.”
+
+</details>
 
 - **[Turning Point Faith](/entities/org-turning-point-faith.md)** worked with this
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:15:31](/episodes/ep-wcD2khO3rOA.md#t-00-14-55)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:15:31](/episodes/ep-wcD2khO3rOA.md#t-00-14-55): “TPUSA Faith works with Pastor Greg Laurie”
+
+</details>
 
 </details>
 

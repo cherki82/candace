@@ -22,10 +22,36 @@ _Type: People_
 > Vogue confirms Victoria Beckham as Brooklyn Beckham's mother and a pop star turned designer; source context supports Posh Spice and Vicky B as spoken variants.
 Source: [Nicola Peltz Marries Brooklyn Beckham at Her Family’s Oceanfront Palm Beach Estate](https://www.vogue.com/article/nicola-peltz-marries-brooklyn-beckham-palm-beach-wedding)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-victoria-beckham-t-00-31-02">2026-01-21 · 00:31:02</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-victoria-beckham-t-00-55-49">2026-01-21 · 00:56:02</a></strong></div>
+<div><span>Episodes</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-victoria-beckham-t-00-31-02">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (11 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-victoria-beckham-t-00-31-02" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 11 mentions" title="2026-01-21 · 11 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-victoria-beckham-t-00-31-02) | 11 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
 
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (11 mentions)</summary>
@@ -74,7 +100,11 @@ Source: [Nicola Peltz Marries Brooklyn Beckham at Her Family’s Oceanfront Palm
 <summary>Accused By (1)</summary>
 
 - **[Brooklyn Beckham](/entities/person-brooklyn-beckham.md)**
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:36:06](/episodes/ep-GY6GWceEqtQ.md#t-00-36-06): "My parents have been trying endlessly to ruin my relationship since before my wedding and has not stopped."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:36:06](/episodes/ep-GY6GWceEqtQ.md#t-00-36-06): “My parents have been trying endlessly to ruin my relationship since before my wedding and has not stopped.”
+
+</details>
 
 </details>
 
@@ -82,7 +112,11 @@ Source: [Nicola Peltz Marries Brooklyn Beckham at Her Family’s Oceanfront Palm
 <summary>Member Of (1)</summary>
 
 - **[Spice Girls](/entities/org-spice-girls.md)**
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:55:49](/episodes/ep-GY6GWceEqtQ.md#t-00-55-49): "I grew up on the Spice Girls. I loved them. ... And Vicky B (Victoria Beckham) gave me some hits."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:55:49](/episodes/ep-GY6GWceEqtQ.md#t-00-55-49): “I grew up on the Spice Girls. I loved them. ... And Vicky B (Victoria Beckham) gave me some hits.”
+
+</details>
 
 </details>
 
@@ -90,7 +124,11 @@ Source: [Nicola Peltz Marries Brooklyn Beckham at Her Family’s Oceanfront Palm
 <summary>Parent Of (1)</summary>
 
 - **[Brooklyn Beckham](/entities/person-brooklyn-beckham.md)**
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:31:02](/episodes/ep-GY6GWceEqtQ.md#t-00-31-02): "Who is, I think he's the firstborn son of Victoria (Victoria Beckham) Posh Spice Beckham, David Beckham, the football player, much adored family unit,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:31:02](/episodes/ep-GY6GWceEqtQ.md#t-00-31-02): “Who is, I think he's the firstborn son of Victoria (Victoria Beckham) Posh Spice Beckham, David Beckham, the football player, much adored family unit,”
+
+</details>
 
 </details>
 
@@ -98,13 +136,25 @@ Source: [Nicola Peltz Marries Brooklyn Beckham at Her Family’s Oceanfront Palm
 <summary>Referenced By (3)</summary>
 
 - **[Brooklyn Beckham](/entities/person-brooklyn-beckham.md)** accused this
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:36:06](/episodes/ep-GY6GWceEqtQ.md#t-00-36-06)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:36:06](/episodes/ep-GY6GWceEqtQ.md#t-00-36-06): “My parents have been trying endlessly to ruin my relationship since before my wedding and has not stopped.”
+
+</details>
 
 - **[Brooklyn Beckham](/entities/person-brooklyn-beckham.md)** child of this
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:31:02](/episodes/ep-GY6GWceEqtQ.md#t-00-31-02)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:31:02](/episodes/ep-GY6GWceEqtQ.md#t-00-31-02): “Who is, I think he's the firstborn son of Victoria (Victoria Beckham) Posh Spice Beckham, David Beckham, the football player, much adored family unit,”
+
+</details>
 
 - **[Spice Girls](/entities/org-spice-girls.md)** has member this
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:55:49](/episodes/ep-GY6GWceEqtQ.md#t-00-55-49)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:55:49](/episodes/ep-GY6GWceEqtQ.md#t-00-55-49): “I grew up on the Spice Girls. I loved them. ... And Vicky B (Victoria Beckham) gave me some hits.”
+
+</details>
 
 </details>
 

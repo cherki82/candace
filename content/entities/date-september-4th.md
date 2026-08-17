@@ -12,10 +12,58 @@ _Type: Dates_
 
 **Also known as:** 9/4, September 9th
 
+> **Possibly overlapping entity records:** [September 9th](/entities/date-september-9th). These records share a name or alias; compare their histories before treating either count as complete.
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-date-september-4th-t-00-16-32">2025-09-24 · 00:16:34</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-date-september-4th-t-00-42-27">2025-12-20 · 00:43:06</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-iHav0PPzUz8.md#ent-date-september-4th-t-00-12-53">BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255</a> (4 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-date-september-4th-t-00-16-32" style="--pulse-height:25%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 1 mentions" title="2025-09-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-date-september-4th-t-00-40-46" style="--pulse-height:25%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-date-september-4th-t-00-10-26" style="--pulse-height:75%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 3 mentions" title="2025-10-08 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-date-september-4th-t-00-12-53" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 4 mentions" title="2025-10-30 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-date-september-4th-t-00-39-39" style="--pulse-height:50%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-date-september-4th-t-00-03-33" style="--pulse-height:25%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-date-september-4th-t-00-20-22" style="--pulse-height:25%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#t-00-05-45" style="--pulse-height:25%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#t-00-39-28" style="--pulse-height:75%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 3 mentions" title="2025-12-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-date-september-4th-t-00-24-50" style="--pulse-height:25%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-date-september-4th-t-00-42-27" style="--pulse-height:100%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 4 mentions" title="2025-12-20 · 4 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-date-september-4th-t-00-16-32) | 1 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-date-september-4th-t-00-40-46) | 1 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-date-september-4th-t-00-10-26) | 3 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-date-september-4th-t-00-12-53) | 4 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-date-september-4th-t-00-39-39) | 2 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-date-september-4th-t-00-03-33) | 1 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-date-september-4th-t-00-20-22) | 1 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#t-00-05-45) | 1 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#t-00-39-28) | 3 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-date-september-4th-t-00-24-50) | 1 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-date-september-4th-t-00-42-27) | 4 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (4 mentions)</summary>

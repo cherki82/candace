@@ -16,10 +16,19 @@ _Type: People_
 > Project Camelot's first-party material identifies Kerry Cassidy as the interviewer associated with the Project Looking Glass material; the episode itself role-labels this speaker.
 Source: [Project Camelot | Project Looking Glass](https://projectcamelot.org/project_looking_glass.html)
 
+<div class="entity-summary-grid">
+<div><span>Episodes</span><strong>0</strong></div>
+<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (1)</strong></summary>
 
 </details>
 

@@ -14,10 +14,50 @@ _Type: Vehicles_
 
 **Also known as:** SUBTT, SU BTT, tail number SUBTT, BTT
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-vehicle-su-btt-t-00-12-29">2025-10-30 · 00:12:46</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-vehicle-su-btt-t-00-23-12">2025-12-01 · 00:23:24</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>38</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-YFmRH8p5lt0.md#ent-vehicle-su-btt-t-00-04-11">INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256</a> (13 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-vehicle-su-btt-t-00-12-29" style="--pulse-height:15%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-vehicle-su-btt-t-00-04-11" style="--pulse-height:100%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 13 mentions" title="2025-10-31 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-vehicle-su-btt-t-00-11-07" style="--pulse-height:15%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 2 mentions" title="2025-11-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-vehicle-su-btt-t-00-03-33" style="--pulse-height:8%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-01-26" style="--pulse-height:85%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 11 mentions" title="2025-11-19 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-vehicle-su-btt-t-00-05-36" style="--pulse-height:31%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 4 mentions" title="2025-11-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-vehicle-su-btt-t-00-05-45" style="--pulse-height:31%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 4 mentions" title="2025-11-21 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-vehicle-su-btt-t-00-23-12" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-vehicle-su-btt-t-00-12-29) | 2 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-vehicle-su-btt-t-00-04-11) | 13 |
+| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-vehicle-su-btt-t-00-11-07) | 2 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-vehicle-su-btt-t-00-03-33) | 1 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-01-26) | 11 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-vehicle-su-btt-t-00-05-36) | 4 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-vehicle-su-btt-t-00-05-45) | 4 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-vehicle-su-btt-t-00-23-12) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (38)</strong></summary>
 
 <details>
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>

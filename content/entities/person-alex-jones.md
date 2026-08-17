@@ -16,10 +16,56 @@ _Type: People_
 > Official archived show page confirms canonical name and hosting role.
 Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-show/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-alex-jones-t-00-11-35">2025-09-22 · 00:12:12</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Wjul6YV6izo.md#ent-person-alex-jones-t-00-54-08">2026-01-30 · 00:54:18</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>27</strong></div>
+<div><span>Statements by</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-39-50">You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284</a> (12 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ja26iltROkM.md#ent-person-alex-jones-t-00-11-35" style="--pulse-height:17%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 2 mentions" title="2025-09-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-alex-jones-t-00-30-28" style="--pulse-height:8%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 1 mentions" title="2025-09-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-alex-jones-t-00-12-14" style="--pulse-height:25%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 3 mentions" title="2025-09-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-alex-jones-t-00-22-22" style="--pulse-height:8%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-alex-jones-t-00-21-03" style="--pulse-height:8%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-alex-jones-t-00-53-26" style="--pulse-height:17%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 2 mentions" title="2025-10-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-alex-jones-t-00-28-07" style="--pulse-height:8%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 1 mentions" title="2025-10-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-alex-jones-t-00-59-19" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-39-50" style="--pulse-height:100%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 12 mentions" title="2026-01-05 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-alex-jones-t-00-05-15" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-person-alex-jones-t-00-54-08" style="--pulse-height:8%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-person-alex-jones-t-00-11-35) | 2 |
+| 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-alex-jones-t-00-30-28) | 1 |
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-person-alex-jones-t-00-12-14) | 3 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-alex-jones-t-00-22-22) | 1 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-alex-jones-t-00-21-03) | 1 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-alex-jones-t-00-53-26) | 2 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-alex-jones-t-00-28-07) | 1 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-alex-jones-t-00-59-19) | 1 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-39-50) | 12 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-alex-jones-t-00-05-15) | 1 |
+| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-alex-jones-t-00-54-08) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (27)</strong></summary>
 
 <details>
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (1 mentions)</summary>
@@ -163,11 +209,19 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 <summary>Criticized (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:12:06](/episodes/ep-ja26iltROkM.md#t-00-11-35): "The spokesperson for TPUSA just posted"
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:12:26](/episodes/ep-ja26iltROkM.md#t-00-12-16): "Alex Jones, he immediately took to X live... The spokesperson for TP USA just posted"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:12:06](/episodes/ep-ja26iltROkM.md#t-00-11-35): “The spokesperson for TPUSA just posted”
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:12:26](/episodes/ep-ja26iltROkM.md#t-00-12-16): “Alex Jones, he immediately took to X live... The spokesperson for TP USA just posted”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:40:54](/episodes/ep-OEAHy3SsIiI.md#t-00-40-45): "She's a globalist agent."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:40:54](/episodes/ep-OEAHy3SsIiI.md#t-00-40-45): “She's a globalist agent.”
+
+</details>
 
 </details>
 
@@ -175,11 +229,19 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 <summary>Referenced By (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** criticized by this
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:12:06](/episodes/ep-ja26iltROkM.md#t-00-11-35)
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:12:26](/episodes/ep-ja26iltROkM.md#t-00-12-16)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:12:06](/episodes/ep-ja26iltROkM.md#t-00-11-35): “The spokesperson for TPUSA just posted”
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:12:26](/episodes/ep-ja26iltROkM.md#t-00-12-16): “Alex Jones, he immediately took to X live... The spokesperson for TP USA just posted”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-  - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:40:54](/episodes/ep-OEAHy3SsIiI.md#t-00-40-45)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:40:54](/episodes/ep-OEAHy3SsIiI.md#t-00-40-45): “She's a globalist agent.”
+
+</details>
 
 </details>
 

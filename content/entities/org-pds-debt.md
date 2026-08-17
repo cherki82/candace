@@ -1,6 +1,6 @@
 ---
 title: "PDS Debt"
-description: "PDS Debt (Organizations) - 38 mentions"
+description: "PDS Debt (Organizations) - 41 mentions"
 id: "org-pds-debt"
 type: "ORG"
 aliases:
@@ -20,10 +20,70 @@ _Type: Organizations_
 > BBB profile confirms canonical business name.
 Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profile/financial-consultants/pds-debt-1166-90028569/customer-reviews)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-org-pds-debt-t-00-25-11">2025-09-25 · 00:25:11</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-pds-debt-t-00-30-57">2026-02-25 · 00:31:26</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>41</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-K5GjF53bfN4.md#ent-org-pds-debt-t-00-25-11">Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243</a> (4 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-org-pds-debt-t-00-25-11" style="--pulse-height:100%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 4 mentions" title="2025-09-25 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-pds-debt-t-00-37-50" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 4 mentions" title="2025-10-28 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-pds-debt-t-00-27-16" style="--pulse-height:100%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 4 mentions" title="2025-11-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-pds-debt-t-00-34-59" style="--pulse-height:100%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 4 mentions" title="2025-11-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-pds-debt-t-00-48-38" style="--pulse-height:50%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-pds-debt-t-00-41-49" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 4 mentions" title="2026-01-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-pds-debt-t-00-30-18" style="--pulse-height:100%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 4 mentions" title="2026-01-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-pds-debt-t-00-16-55" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 4 mentions" title="2026-01-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-org-pds-debt-t-00-24-29" style="--pulse-height:100%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 4 mentions" title="2026-02-10 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-pds-debt-t-00-27-37" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 4 mentions" title="2026-02-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-pds-debt-t-00-30-57" style="--pulse-height:75%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 3 mentions" title="2026-02-25 · 3 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-org-pds-debt-t-00-25-11) | 4 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-pds-debt-t-00-37-50) | 4 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-org-pds-debt-t-00-27-16) | 4 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-org-pds-debt-t-00-34-59) | 4 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-org-pds-debt-t-00-48-38) | 2 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-pds-debt-t-00-41-49) | 4 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-pds-debt-t-00-30-18) | 4 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-pds-debt-t-00-16-55) | 4 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-pds-debt-t-00-24-29) | 4 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-pds-debt-t-00-27-37) | 4 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-org-pds-debt-t-00-30-57) | 3 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (3 mentions)</summary>
+
+**[00:31:02](/episodes/ep-ZAsV0fHGBiM.md#ent-org-pds-debt-t-00-30-57)**
+> "PDS Debt has custom options to help you get out of debt."
+
+**[00:31:18](/episodes/ep-ZAsV0fHGBiM.md#ent-org-pds-debt-t-00-30-57)**
+> "PDS Debt is A-plus rated by the Better Business Bureau. It..."
+
+**[00:31:26](/episodes/ep-ZAsV0fHGBiM.md#ent-org-pds-debt-t-00-30-57)**
+> "PDS has helped hundreds of thousands of people get ou..."
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (4 mentions)</summary>

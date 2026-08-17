@@ -1,6 +1,6 @@
 ---
 title: "Pierre Falcone"
-description: "Pierre Falcone (People) - 25 mentions"
+description: "Pierre Falcone (People) - 26 mentions"
 id: "person-pierre-falcone"
 type: "PERSON"
 aliases:
@@ -19,10 +19,62 @@ _Type: People_
 > Independent report confirms the canonical name; the episode explicitly treats its identification of a donor as uncertain.
 Source: [Global Witness — Time for Transparency](https://www.globalwitness.org/documents/17833/time_for_transparency.pdf)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-pierre-falcone-t-00-12-04">2025-12-08 · 00:12:17</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#t-02-27-56">2026-08-14 · 02:28:00</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-pierre-falcone-t-00-12-40">An Open Letter To Erika Kirk | Candace Ep 303</a> (14 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-pierre-falcone-t-00-12-04" style="--pulse-height:50%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 7 mentions" title="2025-12-08 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-pierre-falcone-t-00-54-48" style="--pulse-height:8%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-pierre-falcone-t-00-16-33" style="--pulse-height:14%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-pierre-falcone-t-00-12-40" style="--pulse-height:100%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 14 mentions" title="2026-02-05 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-pierre-falcone-t-00-00-00" style="--pulse-height:8%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#t-02-27-56" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-pierre-falcone-t-00-12-04) | 7 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-person-pierre-falcone-t-00-54-48) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-pierre-falcone-t-00-16-33) | 2 |
+| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-pierre-falcone-t-00-12-40) | 14 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-pierre-falcone-t-00-00-00) | 1 |
+| 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-02-27-56) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
+
+**[02:28:00](/episodes/ep-nPhCKwJ6ye8.md#t-02-27-56)**
+> "Is Pierre Carrico?"
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1 mentions)</summary>
+
+**[00:00:31](/episodes/ep-ZAsV0fHGBiM.md#ent-person-pierre-falcone-t-00-00-00)**
+> "...deal with a man named Pierre (Pierre Falcone)."
+
+</details>
 
 <details>
 <summary>An Open Letter To Erika Kirk | Candace Ep 303 (14 mentions)</summary>
@@ -83,10 +135,7 @@ Source: [Global Witness — Time for Transparency](https://www.globalwitness.org
 </details>
 
 <details>
-<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2 mentions)</summary>
-
-**[00:55:23](/episodes/ep-6J6lRZPQ4jk.md#ent-person-pierre-falcone-t-00-54-48)**
-> "suddenly we start talking about Pierre (Pierre Falcone) and that billion-dollar incentive"
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1 mentions)</summary>
 
 **[00:55:14](/episodes/ep-6J6lRZPQ4jk.md#ent-person-pierre-falcone-t-00-54-48)**
 > "...e start talking about Pierre (Pierre Falcone) and that billion-dollar incentive and they went ..."
@@ -128,7 +177,11 @@ Source: [Global Witness — Time for Transparency](https://www.globalwitness.org
 <summary>Born In (1)</summary>
 
 - **[France](/entities/gpe-france.md)**
-  - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:38:52](/episodes/ep-mFuno0TuuQQ.md#t-00-38-20): "He's a Catholic born in France, living in Tampa, Tampa area in Florida."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:38:52](/episodes/ep-mFuno0TuuQQ.md#t-00-38-20): “He's a Catholic born in France, living in Tampa, Tampa area in Florida.”
+
+</details>
 
 </details>
 
@@ -136,7 +189,11 @@ Source: [Global Witness — Time for Transparency](https://www.globalwitness.org
 <summary>Lives In (1)</summary>
 
 - **[Tampa, Florida](/entities/gpe-tampa-florida.md)**
-  - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:38:52](/episodes/ep-mFuno0TuuQQ.md#t-00-38-20): "He's a Catholic born in France, living in Tampa, Tampa area in Florida."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:38:52](/episodes/ep-mFuno0TuuQQ.md#t-00-38-20): “He's a Catholic born in France, living in Tampa, Tampa area in Florida.”
+
+</details>
 
 </details>
 
@@ -144,10 +201,18 @@ Source: [Global Witness — Time for Transparency](https://www.globalwitness.org
 <summary>Met With (2)</summary>
 
 - **[Justin Streiff](/entities/person-justin-streiff.md)**
-  - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:12:44](/episodes/ep-mFuno0TuuQQ.md#t-00-12-40): "You know him. You've met with him. You've personally met with Pierre (Pierre Falcone)."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:12:44](/episodes/ep-mFuno0TuuQQ.md#t-00-12-40): “You know him. You've met with him. You've personally met with Pierre (Pierre Falcone).”
+
+</details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-  - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:12:49](/episodes/ep-mFuno0TuuQQ.md#t-00-12-40): "you've met with him in the wake of Charlie (Charlie Kirk)'s death."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:12:49](/episodes/ep-mFuno0TuuQQ.md#t-00-12-40): “you've met with him in the wake of Charlie (Charlie Kirk)'s death.”
+
+</details>
 
 </details>
 
@@ -155,23 +220,47 @@ Source: [Global Witness — Time for Transparency](https://www.globalwitness.org
 <summary>Referenced By (4)</summary>
 
 - **[France](/entities/gpe-france.md)** birthplace of this
-  - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:38:52](/episodes/ep-mFuno0TuuQQ.md#t-00-38-20)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:38:52](/episodes/ep-mFuno0TuuQQ.md#t-00-38-20): “He's a Catholic born in France, living in Tampa, Tampa area in Florida.”
+
+</details>
 
 - **[Justin Streiff](/entities/person-justin-streiff.md)** met with this
-  - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:12:44](/episodes/ep-mFuno0TuuQQ.md#t-00-12-40)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:12:44](/episodes/ep-mFuno0TuuQQ.md#t-00-12-40): “You know him. You've met with him. You've personally met with Pierre (Pierre Falcone).”
+
+</details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** met with this
-  - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:12:49](/episodes/ep-mFuno0TuuQQ.md#t-00-12-40)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:12:49](/episodes/ep-mFuno0TuuQQ.md#t-00-12-40): “you've met with him in the wake of Charlie (Charlie Kirk)'s death.”
+
+</details>
 
 - **[Tampa, Florida](/entities/gpe-tampa-florida.md)** residence of this
-  - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:38:52](/episodes/ep-mFuno0TuuQQ.md#t-00-38-20)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:38:52](/episodes/ep-mFuno0TuuQQ.md#t-00-38-20): “He's a Catholic born in France, living in Tampa, Tampa area in Florida.”
+
+</details>
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Pierre Falcone (14)</strong></summary>
+<summary><strong class="section-title">Statements about Pierre Falcone (15)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1)</summary>
+
+- [00:00:31](/episodes/ep-ZAsV0fHGBiM.md#t-00-00-00) (Claim) **Candace Owens**: ["Turning Point USA does not pay tax on the quarter-billion-plus dollars..."](/statements/statement-ee0c911aae60.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>An Open Letter To Erika Kirk | Candace Ep 303 (2)</summary>

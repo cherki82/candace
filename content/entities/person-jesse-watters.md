@@ -19,10 +19,48 @@ _Type: People_
 > Official Fox News profile verifies Jesse Watters; candidate Jesse Waters is an ASR spelling error, not an alias.
 Source: [Fox News: Jesse Watters](https://www.foxnews.com/person/w/jesse-watters)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-jesse-watters-t-00-12-44">2025-10-09 · 00:13:01</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-jesse-watters-t-00-15-58">2026-02-11 · 00:16:31</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-jesse-watters-t-00-00-00">MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257</a> (9 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-jesse-watters-t-00-12-44" style="--pulse-height:11%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 1 mentions" title="2025-10-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-jesse-watters-t-00-00-00" style="--pulse-height:100%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 9 mentions" title="2025-11-03 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-jesse-watters-t-00-46-22" style="--pulse-height:11%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-jesse-watters-t-00-00-45" style="--pulse-height:56%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 5 mentions" title="2025-11-06 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#t-00-33-32" style="--pulse-height:11%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-jesse-watters-t-00-11-10" style="--pulse-height:22%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-jesse-watters-t-00-15-58" style="--pulse-height:11%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-jesse-watters-t-00-12-44) | 1 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-jesse-watters-t-00-00-00) | 9 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-jesse-watters-t-00-46-22) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-jesse-watters-t-00-00-45) | 5 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#t-00-33-32) | 1 |
+| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-jesse-watters-t-00-11-10) | 2 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-jesse-watters-t-00-15-58) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
@@ -128,9 +166,14 @@ Source: [Fox News: Jesse Watters](https://www.foxnews.com/person/w/jesse-watters
 <summary>Interviewed (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-  - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:01:01](/episodes/ep-vwG1juDCQZQ.md#t-00-00-45): "the heavily anticipated interview with Erika Kirk (Charlie Kirk's widow) on Fox News with Jesse Watters."
-  - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:00:36](/episodes/ep-K1tFD7FfoCU.md#t-00-00-00): "Erika Kirk sat down with Jesse Watters (Jesse Watters)."
-  - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:11:44](/episodes/ep-mFuno0TuuQQ.md#t-00-11-10): "In that interview with Jesse Watters that you wanted Charlie (Charlie Kirk) to have a good night's sleep."
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+
+- [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:01:01](/episodes/ep-vwG1juDCQZQ.md#t-00-00-45): “the heavily anticipated interview with Erika Kirk (Charlie Kirk's widow) on Fox News with Jesse Watters.”
+- [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:00:36](/episodes/ep-K1tFD7FfoCU.md#t-00-00-00): “Erika Kirk sat down with Jesse Watters (Jesse Watters).”
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:11:44](/episodes/ep-mFuno0TuuQQ.md#t-00-11-10): “In that interview with Jesse Watters that you wanted Charlie (Charlie Kirk) to have a good night's sleep.”
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:16:51](/episodes/ep-hWTdXHGQ8R4.md#t-00-16-51): “Tell me about the day before the shooting. ... He was at the office, ... and we were going to meet for dinner beforehand with a dear friend of ours who I wanted to just be with us and pray with us before the event.”
+
+</details>
 
 </details>
 
@@ -138,7 +181,11 @@ Source: [Fox News: Jesse Watters](https://www.foxnews.com/person/w/jesse-watters
 <summary>Works For (1)</summary>
 
 - **[Fox News](/entities/org-fox-news.md)**
-  - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:02:00](/episodes/ep-vwG1juDCQZQ.md#t-00-01-30): "Jesse Watters, who hosted this discussion on Fox News"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:02:00](/episodes/ep-vwG1juDCQZQ.md#t-00-01-30): “Jesse Watters, who hosted this discussion on Fox News”
+
+</details>
 
 </details>
 
@@ -146,11 +193,21 @@ Source: [Fox News: Jesse Watters](https://www.foxnews.com/person/w/jesse-watters
 <summary>Referenced By (2)</summary>
 
 - **[Fox News](/entities/org-fox-news.md)** employs this
-  - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:02:00](/episodes/ep-vwG1juDCQZQ.md#t-00-01-30)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:02:00](/episodes/ep-vwG1juDCQZQ.md#t-00-01-30): “Jesse Watters, who hosted this discussion on Fox News”
+
+</details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** interviewed by this
-  - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:01:01](/episodes/ep-vwG1juDCQZQ.md#t-00-00-45)
-  - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:00:36](/episodes/ep-K1tFD7FfoCU.md#t-00-00-00)
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+
+- [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:01:01](/episodes/ep-vwG1juDCQZQ.md#t-00-00-45): “the heavily anticipated interview with Erika Kirk (Charlie Kirk's widow) on Fox News with Jesse Watters.”
+- [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:00:36](/episodes/ep-K1tFD7FfoCU.md#t-00-00-00): “Erika Kirk sat down with Jesse Watters (Jesse Watters).”
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:11:44](/episodes/ep-mFuno0TuuQQ.md#t-00-11-10): “In that interview with Jesse Watters that you wanted Charlie (Charlie Kirk) to have a good night's sleep.”
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:16:51](/episodes/ep-hWTdXHGQ8R4.md#t-00-16-51): “Tell me about the day before the shooting. ... He was at the office, ... and we were going to meet for dinner beforehand with a dear friend of ours who I wanted to just be with us and pray with us before the event.”
+
+</details>
 
 </details>
 

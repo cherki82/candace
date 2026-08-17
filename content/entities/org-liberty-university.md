@@ -20,10 +20,54 @@ _Type: Organizations_
 > Liberty University’s official About page confirms its canonical name and institutional identity.
 Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-liberty-university-t-00-04-24">2025-10-29 · 00:04:34</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#ent-org-liberty-university-t-00-36-05">2026-02-10 · 00:36:05</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>67</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>19</strong></div>
+<div><span>Relationships</span><strong>17</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-liberty-university-t-00-06-24">The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</a> (39 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-liberty-university-t-00-04-24" style="--pulse-height:8%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-liberty-university-t-00-08-19" style="--pulse-height:8%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-liberty-university-t-00-47-31" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-org-liberty-university-t-00-06-15" style="--pulse-height:8%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-liberty-university-t-00-31-41" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-liberty-university-t-00-06-24" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 39 mentions" title="2026-01-09 · 39 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-liberty-university-t-00-00-00" style="--pulse-height:46%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 18 mentions" title="2026-01-12 · 18 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-liberty-university-t-00-09-30" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-org-liberty-university-t-00-14-06" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-org-liberty-university-t-00-32-21" style="--pulse-height:8%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-org-liberty-university-t-00-04-24) | 1 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-org-liberty-university-t-00-08-19) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-org-liberty-university-t-00-47-31) | 1 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-liberty-university-t-00-06-15) | 1 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-liberty-university-t-00-31-41) | 1 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-liberty-university-t-00-06-24) | 39 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-liberty-university-t-00-00-00) | 18 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-liberty-university-t-00-09-30) | 1 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-liberty-university-t-00-14-06) | 2 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-liberty-university-t-00-32-21) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (67)</strong></summary>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (2 mentions)</summary>
@@ -285,7 +329,11 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 <summary>Employs (1)</summary>
 
 - **[Johnnie Moore](/entities/person-johnnie-moore.md)**
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:19](/episodes/ep-CMcktj3Egfo.md#t-00-26-53): "paying him, I am told, an absurd amount monthly retainer."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:19](/episodes/ep-CMcktj3Egfo.md#t-00-26-53): “paying him, I am told, an absurd amount monthly retainer.”
+
+</details>
 
 </details>
 
@@ -293,11 +341,19 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 <summary>Formerly Employed (2)</summary>
 
 - **[Johnnie Moore](/entities/person-johnnie-moore.md)**
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:20](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): "Johnnie Moore was the lead pastor at Liberty University prior to then leaving Liberty University to start the PR firm."
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): "when Johnnie left Liberty University in 2014, he went to Hollywood to start the PR company, the KAIROS Company."
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:20](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): “Johnnie Moore was the lead pastor at Liberty University prior to then leaving Liberty University to start the PR firm.”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): “when Johnnie left Liberty University in 2014, he went to Hollywood to start the PR company, the KAIROS Company.”
+
+</details>
 
 - **[Ronald S. Godwin](/entities/person-ronald-s-godwin.md)**
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:26:21](/episodes/ep-CMcktj3Egfo.md#t-00-26-09): "We can tell you that when Ron Godwin retired from Liberty University in October of 2014,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:26:21](/episodes/ep-CMcktj3Egfo.md#t-00-26-09): “We can tell you that when Ron Godwin retired from Liberty University in October of 2014,”
+
+</details>
 
 </details>
 
@@ -305,13 +361,25 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 <summary>Funded By (3)</summary>
 
 - **[Sun Myung Moon](/entities/person-sun-myung-moon.md)**
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:55:40](/episodes/ep-wcD2khO3rOA.md#t-00-54-55): "even help to bail out Reverend Jerry Falwell's foundering Liberty University."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:55:40](/episodes/ep-wcD2khO3rOA.md#t-00-54-55): “even help to bail out Reverend Jerry Falwell's foundering Liberty University.”
+
+</details>
 
 - **[Christian Heritage Foundation](/entities/org-christian-heritage-foundation.md)**
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:06:21](/episodes/ep-wcD2khO3rOA.md#t-01-06-16): "which later bought a portion of Liberty University's debt"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:06:21](/episodes/ep-wcD2khO3rOA.md#t-01-06-16): “which later bought a portion of Liberty University's debt”
+
+</details>
 
 - **[News World Communications](/entities/org-news-world-communications.md)**
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:06:39](/episodes/ep-wcD2khO3rOA.md#t-01-06-16): "lent $400,000 to Liberty at a 6% interest according to the promissory note."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:06:39](/episodes/ep-wcD2khO3rOA.md#t-01-06-16): “lent $400,000 to Liberty at a 6% interest according to the promissory note.”
+
+</details>
 
 </details>
 
@@ -319,7 +387,11 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 <summary>Has President (1)</summary>
 
 - **[Jerry Prevo](/entities/person-jerry-prevo.md)**
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:02](/episodes/ep-CMcktj3Egfo.md#t-00-26-53): "Jerry Prevo is named as his successor and the very first thing that Jerry Prevo does."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:02](/episodes/ep-CMcktj3Egfo.md#t-00-26-53): “Jerry Prevo is named as his successor and the very first thing that Jerry Prevo does.”
+
+</details>
 
 </details>
 
@@ -327,35 +399,75 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 <summary>Referenced By (10)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** affiliated with this
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:06:32](/episodes/ep-wcD2khO3rOA.md#t-00-06-24)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:06:32](/episodes/ep-wcD2khO3rOA.md#t-00-06-24): “Tyler Bowyer attended and he graduated”
+
+</details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** affiliated with this
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:06:38](/episodes/ep-wcD2khO3rOA.md#t-00-06-24)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:06:38](/episodes/ep-wcD2khO3rOA.md#t-00-06-24): “Erika Kirk attended and she graduated”
+
+</details>
 
 - **[Cabot Phillips](/entities/person-cabot-phillips.md)** affiliated with this
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:06:42](/episodes/ep-wcD2khO3rOA.md#t-00-06-24)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:06:42](/episodes/ep-wcD2khO3rOA.md#t-00-06-24): “Cabot Phillips attended and he graduated”
+
+</details>
 
 - **[Johnnie Moore](/entities/person-johnnie-moore.md)** formerly worked for this
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:20](/episodes/ep-wcD2khO3rOA.md#t-00-07-06)
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:20](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): “Johnnie Moore was the lead pastor at Liberty University prior to then leaving Liberty University to start the PR firm.”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): “when Johnnie left Liberty University in 2014, he went to Hollywood to start the PR company, the KAIROS Company.”
+
+</details>
 
 - **[Ronald S. Godwin](/entities/person-ronald-s-godwin.md)** formerly worked for this
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:26:21](/episodes/ep-CMcktj3Egfo.md#t-00-26-09)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:26:21](/episodes/ep-CMcktj3Egfo.md#t-00-26-09): “We can tell you that when Ron Godwin retired from Liberty University in October of 2014,”
+
+</details>
 
 - **[Sun Myung Moon](/entities/person-sun-myung-moon.md)** funded this
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:55:40](/episodes/ep-wcD2khO3rOA.md#t-00-54-55)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:55:40](/episodes/ep-wcD2khO3rOA.md#t-00-54-55): “even help to bail out Reverend Jerry Falwell's foundering Liberty University.”
+
+</details>
 
 - **[Christian Heritage Foundation](/entities/org-christian-heritage-foundation.md)** funded this
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:06:21](/episodes/ep-wcD2khO3rOA.md#t-01-06-16)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:06:21](/episodes/ep-wcD2khO3rOA.md#t-01-06-16): “which later bought a portion of Liberty University's debt”
+
+</details>
 
 - **[News World Communications](/entities/org-news-world-communications.md)** funded this
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:06:39](/episodes/ep-wcD2khO3rOA.md#t-01-06-16)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:06:39](/episodes/ep-wcD2khO3rOA.md#t-01-06-16): “lent $400,000 to Liberty at a 6% interest according to the promissory note.”
+
+</details>
 
 - **[Jerry Prevo](/entities/person-jerry-prevo.md)** president of this
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:02](/episodes/ep-CMcktj3Egfo.md#t-00-26-53)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:02](/episodes/ep-CMcktj3Egfo.md#t-00-26-53): “Jerry Prevo is named as his successor and the very first thing that Jerry Prevo does.”
+
+</details>
 
 - **[Johnnie Moore](/entities/person-johnnie-moore.md)** works for this
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:19](/episodes/ep-CMcktj3Egfo.md#t-00-26-53)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:19](/episodes/ep-CMcktj3Egfo.md#t-00-26-53): “paying him, I am told, an absurd amount monthly retainer.”
+
+</details>
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Japan"
-description: "Japan (Places) - 21 mentions"
+description: "Japan (Places) - 20 mentions"
 id: "gpe-japan"
 type: "GPE"
 aliases:
@@ -20,10 +20,46 @@ _Type: Places_
 > The United Nations Member States directory confirms the canonical country name Japan.
 Source: [Member States | United Nations](https://www.un.org/about-us/member-states)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-japan-t-00-46-48">2025-11-06 · 00:46:52</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-japan-t-00-08-25">2026-01-19 · 00:08:25</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-japan-t-00-55-40">The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</a> (5 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-japan-t-00-46-48" style="--pulse-height:60%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 3 mentions" title="2025-11-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-japan-t-00-00-00" style="--pulse-height:80%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 4 mentions" title="2025-12-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-japan-t-00-55-40" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 5 mentions" title="2026-01-09 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-japan-t-00-12-09" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 5 mentions" title="2026-01-12 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-japan-t-00-15-13" style="--pulse-height:40%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-japan-t-00-08-25" style="--pulse-height:20%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-japan-t-00-46-48) | 3 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-japan-t-00-00-00) | 4 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-japan-t-00-55-40) | 5 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-japan-t-00-12-09) | 5 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-japan-t-00-15-13) | 2 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-japan-t-00-08-25) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
 
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
@@ -102,13 +138,10 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 </details>
 
 <details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (4 mentions)</summary>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (3 mentions)</summary>
 
 **[00:46:52](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-japan-t-00-46-48)**
 > "You know why he went to Korea and Japan?"
-
-**[00:46:52](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-japan-t-00-46-48)**
-> "...know why he went to Korea and Japan?"
 
 **[00:47:13](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-japan-t-00-46-48)**
 > "I think he probably went to Japan and Korea because it's an awesome opportunity."

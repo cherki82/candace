@@ -21,10 +21,52 @@ _Type: People_
 > Official website confirms the canonical professional name.
 Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-28-47">2025-11-06 · 00:29:11</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-allie-beth-stuckey-t-01-06-43">2026-01-05 · 01:06:43</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>43</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-28-47">#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260</a> (15 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-28-47" style="--pulse-height:100%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 15 mentions" title="2025-11-06 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-allie-beth-stuckey-t-00-32-33" style="--pulse-height:67%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 10 mentions" title="2025-11-10 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-allie-beth-stuckey-t-00-18-09" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24" style="--pulse-height:53%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 8 mentions" title="2025-11-13 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-allie-beth-stuckey-t-00-56-36" style="--pulse-height:27%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 4 mentions" title="2025-11-15 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-allie-beth-stuckey-t-00-19-44" style="--pulse-height:13%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#t-00-20-39" style="--pulse-height:8%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 1 mentions" title="2025-12-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#t-00-34-50" style="--pulse-height:8%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-allie-beth-stuckey-t-01-06-43" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-28-47) | 15 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-person-allie-beth-stuckey-t-00-32-33) | 10 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-allie-beth-stuckey-t-00-18-09) | 1 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24) | 8 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-allie-beth-stuckey-t-00-56-36) | 4 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-person-allie-beth-stuckey-t-00-19-44) | 2 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#t-00-20-39) | 1 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#t-00-34-50) | 1 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-allie-beth-stuckey-t-01-06-43) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (43)</strong></summary>
 
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
@@ -209,11 +251,19 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 <summary>Criticized (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:24](/episodes/ep-yAIb-NuUh_U.md#t-00-03-41): "Allie Stuckey just did this—shot a video and was like, "I don't have these dreams.""
-  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:43](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30): "Ali Beth Stuckey does the same like tactic of attacking people, sniping them."
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:24](/episodes/ep-yAIb-NuUh_U.md#t-00-03-41): “Allie Stuckey just did this—shot a video and was like, "I don't have these dreams."”
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:43](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30): “Ali Beth Stuckey does the same like tactic of attacking people, sniping them.”
+
+</details>
 
 - **[Lila Rose](/entities/person-lila-rose.md)**
-  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:44:47](/episodes/ep-6J6lRZPQ4jk.md#t-00-44-35): "she's also criticized Lila Rose heavily and she's kind of questioned Lila's military connections"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:44:47](/episodes/ep-6J6lRZPQ4jk.md#t-00-44-35): “she's also criticized Lila Rose heavily and she's kind of questioned Lila's military connections”
+
+</details>
 
 </details>
 
@@ -221,7 +271,11 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 <summary>Friend Of (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:39](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30): "She says she's a good friend to Charlie"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:39](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30): “She says she's a good friend to Charlie”
+
+</details>
 
 </details>
 
@@ -229,13 +283,25 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 <summary>Referenced By (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:24](/episodes/ep-yAIb-NuUh_U.md#t-00-03-41)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:24](/episodes/ep-yAIb-NuUh_U.md#t-00-03-41): “Allie Stuckey just did this—shot a video and was like, "I don't have these dreams."”
+
+</details>
 
 - **[Lila Rose](/entities/person-lila-rose.md)** criticized by this
-  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:44:47](/episodes/ep-6J6lRZPQ4jk.md#t-00-44-35)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:44:47](/episodes/ep-6J6lRZPQ4jk.md#t-00-44-35): “she's also criticized Lila Rose heavily and she's kind of questioned Lila's military connections”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
-  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:39](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:39](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30): “She says she's a good friend to Charlie”
+
+</details>
 
 </details>
 

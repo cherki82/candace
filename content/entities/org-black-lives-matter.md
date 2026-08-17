@@ -1,6 +1,6 @@
 ---
 title: "Black Lives Matter"
-description: "Black Lives Matter (Organizations) - 30 mentions"
+description: "Black Lives Matter (Organizations) - 31 mentions"
 id: "org-black-lives-matter"
 type: "ORG"
 aliases:
@@ -20,10 +20,62 @@ _Type: Organizations_
 > The official Black Lives Matter site verifies the canonical name and BLM movement/foundation context.
 Source: [About Black Lives Matter](https://blacklivesmatter.com/about/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-black-lives-matter-t-00-04-16">2025-09-11 · 00:04:47</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#ent-org-black-lives-matter-t-00-20-50">2026-02-10 · 00:21:25</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>31</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-black-lives-matter-t-00-37-31">Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279</a> (7 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-_dRaEO47-co.md#ent-org-black-lives-matter-t-00-04-16" style="--pulse-height:14%" aria-label="To My Friend, Charlie Kirk.: 1 mentions" title="2025-09-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-org-black-lives-matter-t-00-54-45" style="--pulse-height:14%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-black-lives-matter-t-00-38-26" style="--pulse-height:14%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-org-black-lives-matter-t-00-32-53" style="--pulse-height:14%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-black-lives-matter-t-00-02-49" style="--pulse-height:29%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-black-lives-matter-t-00-07-51" style="--pulse-height:14%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-org-black-lives-matter-t-00-36-55" style="--pulse-height:14%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 1 mentions" title="2025-11-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-black-lives-matter-t-00-06-50" style="--pulse-height:14%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-black-lives-matter-t-00-47-39" style="--pulse-height:14%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-org-black-lives-matter-t-00-48-04" style="--pulse-height:43%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 3 mentions" title="2025-12-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-black-lives-matter-t-00-37-31" style="--pulse-height:100%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 7 mentions" title="2025-12-12 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-black-lives-matter-t-00-39-48" style="--pulse-height:86%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 6 mentions" title="2026-01-28 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-black-lives-matter-t-00-57-00" style="--pulse-height:43%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-org-black-lives-matter-t-00-20-50" style="--pulse-height:14%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-11 | [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md#ent-org-black-lives-matter-t-00-04-16) | 1 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-org-black-lives-matter-t-00-54-45) | 1 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-org-black-lives-matter-t-00-38-26) | 1 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-org-black-lives-matter-t-00-32-53) | 1 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-black-lives-matter-t-00-02-49) | 2 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-org-black-lives-matter-t-00-07-51) | 1 |
+| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-org-black-lives-matter-t-00-36-55) | 1 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-org-black-lives-matter-t-00-06-50) | 1 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-black-lives-matter-t-00-47-39) | 1 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-org-black-lives-matter-t-00-48-04) | 3 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-org-black-lives-matter-t-00-37-31) | 7 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-black-lives-matter-t-00-39-48) | 6 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-black-lives-matter-t-00-57-00) | 3 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-black-lives-matter-t-00-20-50) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (31)</strong></summary>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1 mentions)</summary>
@@ -182,6 +234,14 @@ Source: [About Black Lives Matter](https://blacklivesmatter.com/about/)
 
 **[00:04:47](/episodes/ep-_dRaEO47-co.md#ent-org-black-lives-matter-t-00-04-16)**
 > "...te House and what this person does, things I'd never even heard before. I was just passionate about Black Lives Matter. I knew it was going to be harmful for Black Americans, and I wanted to share that message. And Cha..."
+
+</details>
+
+<details>
+<summary>ep-y8lak3CRwDw (1 mentions)</summary>
+
+**[00:44:54](/episodes/ep-y8lak3CRwDw.md#t-00-44-54)**
+> "...08, so it was more about like BLM narrative."
 
 </details>
 

@@ -4,9 +4,10 @@ description: "\"Turning Point USA headquarters is almost directly across the str
 statement_id: "statement-222bc2b6d8aa"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -33,7 +34,22 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Official addresses place TPUSA headquarters and Arizona Mills in the same broader south-Phoenix/Tempe corridor, but not 'almost directly across' in a clear literal sense. Arizona's official trafficking material does not identify Arizona Mills as the state's number-one trafficking location, so that ranking remains unsupported.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Turning Point USA Contact Us](https://www.tpusa.com/contactus/)
+- [About Arizona Mills](https://www.simon.com/mall/arizona-mills/about/30)
+- [Arizona Attorney General: Human Trafficking](https://www.azag.gov/issues/human-trafficking)
+
+*Verified: 2026-08-16T11:38:36.602359*
 
 ---
 

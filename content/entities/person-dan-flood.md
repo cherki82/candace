@@ -20,10 +20,78 @@ _Type: People_
 > Professional directory confirms the canonical name and former TPUSA security role; the current TPUSA team page does not provide a bio.
 Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-turning-point-usa/70723731)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-person-dan-flood-t-00-33-24">2025-11-20 · 00:33:44</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-dan-flood-t-00-53-36">2026-03-02 · 00:53:49</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>72</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>28</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-dan-flood-t-00-00-00">A Legal Turning Point? | Candace Ep 292</a> (12 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-sImMM04XdWY.md#ent-person-dan-flood-t-00-33-24" style="--pulse-height:58%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 7 mentions" title="2025-11-20 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-dan-flood-t-00-20-18" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-dan-flood-t-00-28-37" style="--pulse-height:33%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 4 mentions" title="2025-12-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-dan-flood-t-00-06-11" style="--pulse-height:58%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 7 mentions" title="2025-12-16 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-dan-flood-t-01-08-10" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-dan-flood-t-00-15-17" style="--pulse-height:17%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-dan-flood-t-00-41-46" style="--pulse-height:8%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-dan-flood-t-00-04-13" style="--pulse-height:17%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-dan-flood-t-00-00-00" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 12 mentions" title="2026-01-19 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-dan-flood-t-00-05-07" style="--pulse-height:83%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 10 mentions" title="2026-01-20 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-dan-flood-t-00-12-05" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-person-dan-flood-t-00-30-51" style="--pulse-height:25%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 3 mentions" title="2026-01-27 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-dan-flood-t-00-40-46" style="--pulse-height:83%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 10 mentions" title="2026-02-02 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-dan-flood-t-00-23-11" style="--pulse-height:25%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 3 mentions" title="2026-02-04 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-dan-flood-t-00-45-20" style="--pulse-height:17%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-dan-flood-t-00-07-26" style="--pulse-height:17%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-dan-flood-t-00-01-27" style="--pulse-height:17%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-dan-flood-t-00-53-36" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-dan-flood-t-00-33-24) | 7 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-dan-flood-t-00-20-18) | 1 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-person-dan-flood-t-00-28-37) | 4 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-dan-flood-t-00-06-11) | 7 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-dan-flood-t-01-08-10) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-dan-flood-t-00-15-17) | 2 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-dan-flood-t-00-41-46) | 1 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-dan-flood-t-00-04-13) | 2 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-dan-flood-t-00-00-00) | 12 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-dan-flood-t-00-05-07) | 10 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-dan-flood-t-00-12-05) | 1 |
+| 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-person-dan-flood-t-00-30-51) | 3 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-dan-flood-t-00-40-46) | 10 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-dan-flood-t-00-23-11) | 3 |
+| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-dan-flood-t-00-45-20) | 2 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-dan-flood-t-00-07-26) | 2 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-dan-flood-t-00-01-27) | 2 |
+| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-dan-flood-t-00-53-36) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (72)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1 mentions)</summary>
+
+**[00:53:49](/episodes/ep-jTj9Ip46r4w.md#ent-person-dan-flood-t-00-53-36)**
+> "...u had the phone and access to Dan Flood, who you're, as I broke the story, he did not get..."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (2 mentions)</summary>
@@ -287,10 +355,7 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
-
-**[00:20:31](/episodes/ep-Kmt6HgRjckU.md#ent-person-dan-flood-t-00-20-18)**
-> "Charlie messaged Dan Flood, security, saying they are going to kill me tomorrow"
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>
 
 **[00:20:31](/episodes/ep-Kmt6HgRjckU.md#ent-person-dan-flood-t-00-20-18)**
 > "... to me, that he also messaged Dan Flood, the security that's to his right, and allegedly ..."
@@ -332,7 +397,11 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 <summary>Child Of (1)</summary>
 
 - **[Robert Eugene Flood](/entities/person-robert-eugene-flood.md)**
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:06:28](/episodes/ep-NIEbqsLAK8g.md#t-00-06-17): "Because let me introduce to you guys Dan Flood's daddy. Mr. Robert Eugene Flood."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Legal Turning Point? | Candace Ep 292 @ 00:06:28](/episodes/ep-NIEbqsLAK8g.md#t-00-06-17): “Because let me introduce to you guys Dan Flood's daddy. Mr. Robert Eugene Flood.”
+
+</details>
 
 </details>
 
@@ -340,10 +409,18 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 <summary>Formerly Worked For (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:20:31](/episodes/ep-Kmt6HgRjckU.md#t-00-20-18): "he also messaged Dan Flood, the security that's to his right"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:20:31](/episodes/ep-Kmt6HgRjckU.md#t-00-20-18): “he also messaged Dan Flood, the security that's to his right”
+
+</details>
 
 - **[Schaefer Security](/entities/org-schaefer-security.md)**
-  - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:42:21](/episodes/ep-zSKrxIUMNqw.md#t-00-41-46): "It was Schaefer Security, where Dan Flood came out of, and Brian Harpole."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:42:21](/episodes/ep-zSKrxIUMNqw.md#t-00-41-46): “It was Schaefer Security, where Dan Flood came out of, and Brian Harpole.”
+
+</details>
 
 </details>
 
@@ -351,7 +428,11 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 <summary>Hired By (1)</summary>
 
 - **[Bill Montgomery](/entities/person-bill-montgomery.md)**
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:12:04](/episodes/ep-NIEbqsLAK8g.md#t-00-11-56): "So Bill Montgomery, you've got you got this guy. He hires Greg Shaffer and Dan Flood. And these are they're going to stay with Charlie forever."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Legal Turning Point? | Candace Ep 292 @ 00:12:04](/episodes/ep-NIEbqsLAK8g.md#t-00-11-56): “So Bill Montgomery, you've got you got this guy. He hires Greg Shaffer and Dan Flood. And these are they're going to stay with Charlie forever.”
+
+</details>
 
 </details>
 
@@ -359,7 +440,11 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 <summary>Lives In (1)</summary>
 
 - **[New Braunfels](/entities/gpe-new-braunfels-texas.md)**
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:12:53](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40): "Dan Flood also lives in New Braunfels, Texas. I can confirm that. That's a fact."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Legal Turning Point? | Candace Ep 292 @ 00:12:53](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40): “Dan Flood also lives in New Braunfels, Texas. I can confirm that. That's a fact.”
+
+</details>
 
 </details>
 
@@ -367,8 +452,12 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 <summary>Works For (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:05:32](/episodes/ep-9naMwS0kMBE.md#t-00-05-07): "tip yesterday that Dan Flood, not only has he not been fired, he's been promoted at Turning Point USA."
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:13:36](/episodes/ep-NIEbqsLAK8g.md#t-00-13-21): "this dude has been in private security for at least 20 years. I had no idea he was running it for TPUSA."
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:05:32](/episodes/ep-9naMwS0kMBE.md#t-00-05-07): “tip yesterday that Dan Flood, not only has he not been fired, he's been promoted at Turning Point USA.”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:13:36](/episodes/ep-NIEbqsLAK8g.md#t-00-13-21): “this dude has been in private security for at least 20 years. I had no idea he was running it for TPUSA.”
+
+</details>
 
 </details>
 
@@ -376,23 +465,47 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 <summary>Referenced By (6)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
-  - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:05:32](/episodes/ep-9naMwS0kMBE.md#t-00-05-07)
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:13:36](/episodes/ep-NIEbqsLAK8g.md#t-00-13-21)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:05:32](/episodes/ep-9naMwS0kMBE.md#t-00-05-07): “tip yesterday that Dan Flood, not only has he not been fired, he's been promoted at Turning Point USA.”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:13:36](/episodes/ep-NIEbqsLAK8g.md#t-00-13-21): “this dude has been in private security for at least 20 years. I had no idea he was running it for TPUSA.”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** formerly employed this
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:20:31](/episodes/ep-Kmt6HgRjckU.md#t-00-20-18)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:20:31](/episodes/ep-Kmt6HgRjckU.md#t-00-20-18): “he also messaged Dan Flood, the security that's to his right”
+
+</details>
 
 - **[Schaefer Security](/entities/org-schaefer-security.md)** formerly employed this
-  - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:42:21](/episodes/ep-zSKrxIUMNqw.md#t-00-41-46)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:42:21](/episodes/ep-zSKrxIUMNqw.md#t-00-41-46): “It was Schaefer Security, where Dan Flood came out of, and Brian Harpole.”
+
+</details>
 
 - **[Bill Montgomery](/entities/person-bill-montgomery.md)** hired this
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:12:04](/episodes/ep-NIEbqsLAK8g.md#t-00-11-56)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Legal Turning Point? | Candace Ep 292 @ 00:12:04](/episodes/ep-NIEbqsLAK8g.md#t-00-11-56): “So Bill Montgomery, you've got you got this guy. He hires Greg Shaffer and Dan Flood. And these are they're going to stay with Charlie forever.”
+
+</details>
 
 - **[Robert Eugene Flood](/entities/person-robert-eugene-flood.md)** parent of this
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:06:28](/episodes/ep-NIEbqsLAK8g.md#t-00-06-17)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Legal Turning Point? | Candace Ep 292 @ 00:06:28](/episodes/ep-NIEbqsLAK8g.md#t-00-06-17): “Because let me introduce to you guys Dan Flood's daddy. Mr. Robert Eugene Flood.”
+
+</details>
 
 - **[New Braunfels](/entities/gpe-new-braunfels-texas.md)** residence of this
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:12:53](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Legal Turning Point? | Candace Ep 292 @ 00:12:53](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40): “Dan Flood also lives in New Braunfels, Texas. I can confirm that. That's a fact.”
+
+</details>
 
 </details>
 

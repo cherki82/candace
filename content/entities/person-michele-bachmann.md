@@ -16,10 +16,38 @@ _Type: People_
 > Biographical reference confirms canonical spelling Michele Bachmann; Michelle is a common misspelling.
 Source: [Michele Bachmann](https://en.wikipedia.org/wiki/Michele_Bachmann)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-michele-bachmann-t-00-08-33">2026-01-22 · 00:08:33</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-A39g5oqB_eM.md#t-00-39-08">2026-01-27 · 00:39:42</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-michele-bachmann-t-00-08-33">Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295</a> (1 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-michele-bachmann-t-00-08-33" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#t-00-39-08" style="--pulse-height:100%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-michele-bachmann-t-00-08-33) | 1 |
+| 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#t-00-39-08) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (1 mentions)</summary>
@@ -46,7 +74,11 @@ Source: [Michele Bachmann](https://en.wikipedia.org/wiki/Michele_Bachmann)
 <summary>Spoke At (1)</summary>
 
 - **[2025 Student Action Summit](/entities/event-2025-student-action-summit.md)**
-  - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:08:29](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-51): "Your TPUSA Tampa event was a disaster. Michele Bachmann was booed and about 10% walked out on her when she talked about standing with Israel."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:08:29](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-51): “Your TPUSA Tampa event was a disaster. Michele Bachmann was booed and about 10% walked out on her when she talked about standing with Israel.”
+
+</details>
 
 </details>
 
@@ -54,7 +86,11 @@ Source: [Michele Bachmann](https://en.wikipedia.org/wiki/Michele_Bachmann)
 <summary>Supporter Of (1)</summary>
 
 - **[Israel](/entities/gpe-israel.md)**
-  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:39:45](/episodes/ep-A39g5oqB_eM.md#t-00-39-08): "Right after him comes Michelle Bachmann. ... Michelle (Michelle Bachmann) has five minutes to make an argument for why we have to stand with Israel to these young people at TPUSA. ... When she starts talking in that conference about supporting Israel and why America should stand with Israel,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:39:45](/episodes/ep-A39g5oqB_eM.md#t-00-39-08): “Right after him comes Michelle Bachmann. ... Michelle (Michelle Bachmann) has five minutes to make an argument for why we have to stand with Israel to these young people at TPUSA. ... When she starts talking in that conference about supporting Israel and why America should stand with Israel,”
+
+</details>
 
 </details>
 
@@ -62,10 +98,18 @@ Source: [Michele Bachmann](https://en.wikipedia.org/wiki/Michele_Bachmann)
 <summary>Referenced By (2)</summary>
 
 - **[2025 Student Action Summit](/entities/event-2025-student-action-summit.md)** hosted speaker this
-  - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:08:29](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-51)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:08:29](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-51): “Your TPUSA Tampa event was a disaster. Michele Bachmann was booed and about 10% walked out on her when she talked about standing with Israel.”
+
+</details>
 
 - **[Israel](/entities/gpe-israel.md)** supported by this
-  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:39:45](/episodes/ep-A39g5oqB_eM.md#t-00-39-08)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:39:45](/episodes/ep-A39g5oqB_eM.md#t-00-39-08): “Right after him comes Michelle Bachmann. ... Michelle (Michelle Bachmann) has five minutes to make an argument for why we have to stand with Israel to these young people at TPUSA. ... When she starts talking in that conference about supporting Israel and why America should stand with Israel,”
+
+</details>
 
 </details>
 

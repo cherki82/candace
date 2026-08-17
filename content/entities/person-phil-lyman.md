@@ -19,10 +19,56 @@ _Type: People_
 > Official Utah voter guide confirms canonical name.
 Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/uploads/sites/42/2024/10/2024-VIP-final.pdf)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-phil-lyman-t-01-11-54">2025-09-16 · 01:12:21</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-X92MllIHDzw.md#ent-person-phil-lyman-t-00-14-50">2026-01-16 · 00:15:20</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>60</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-phil-lyman-t-00-25-45">They Are Lying About Tyler Robinson. | Candace Ep 244</a> (24 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-q7f8r-THr84.md#ent-person-phil-lyman-t-01-11-54" style="--pulse-height:8%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-phil-lyman-t-00-07-53" style="--pulse-height:8%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 2 mentions" title="2025-09-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-phil-lyman-t-00-25-45" style="--pulse-height:100%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 24 mentions" title="2025-09-29 · 24 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-phil-lyman-t-00-00-39" style="--pulse-height:62%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 15 mentions" title="2025-09-30 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-02-54" style="--pulse-height:42%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 10 mentions" title="2025-10-01 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-phil-lyman-t-00-20-20" style="--pulse-height:12%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 3 mentions" title="2025-10-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-phil-lyman-t-00-27-06" style="--pulse-height:8%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 1 mentions" title="2025-10-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-person-phil-lyman-t-00-18-25" style="--pulse-height:8%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-phil-lyman-t-00-35-11" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-phil-lyman-t-00-18-01" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-person-phil-lyman-t-00-14-50" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-person-phil-lyman-t-01-11-54) | 1 |
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-person-phil-lyman-t-00-07-53) | 2 |
+| 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-phil-lyman-t-00-25-45) | 24 |
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-person-phil-lyman-t-00-00-39) | 15 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-phil-lyman-t-00-02-54) | 10 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-phil-lyman-t-00-20-20) | 3 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-phil-lyman-t-00-27-06) | 1 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-phil-lyman-t-00-18-25) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-phil-lyman-t-00-35-11) | 1 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-phil-lyman-t-00-18-01) | 1 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-phil-lyman-t-00-14-50) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (60)</strong></summary>
 
 <details>
 <summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (1 mentions)</summary>
@@ -268,7 +314,11 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 <summary>Criticized (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:21:12](/episodes/ep-t1YtLS1n8Vs.md#t-00-21-03): "Phil Lyman... he really does not like me at all."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:21:12](/episodes/ep-t1YtLS1n8Vs.md#t-00-21-03): “Phil Lyman... he really does not like me at all.”
+
+</details>
 
 </details>
 
@@ -276,7 +326,11 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 <summary>Endorsed By (1)</summary>
 
 - **[George Zinn](/entities/person-george-zinn.md)**
-  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:03:27](/episodes/ep-adJ4LNGp84I.md#t-00-02-54): "George Zin is one of just 20 people that is a featured endorsement. He endorses Phil Lyman's character."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:03:27](/episodes/ep-adJ4LNGp84I.md#t-00-02-54): “George Zin is one of just 20 people that is a featured endorsement. He endorses Phil Lyman's character.”
+
+</details>
 
 </details>
 
@@ -284,7 +338,11 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 <summary>Interviewed By (1)</summary>
 
 - **[Kayleigh McEnany](/entities/person-kayleigh-mcenany.md)**
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:28:46](/episodes/ep-ZGxnf5cj4Uw.md#t-00-28-37): "Here he is in his interview speaking to Kayleigh McEnany."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:28:46](/episodes/ep-ZGxnf5cj4Uw.md#t-00-28-37): “Here he is in his interview speaking to Kayleigh McEnany.”
+
+</details>
 
 </details>
 
@@ -292,8 +350,12 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 <summary>Lives In (1)</summary>
 
 - **[Blanding](/entities/gpe-blanding.md)**
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:34:49](/episodes/ep-ZGxnf5cj4Uw.md#t-00-34-14): "heading back from Salt Lake to Blanding"
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:34:55](/episodes/ep-ZGxnf5cj4Uw.md#t-00-34-49): "I was just heading back from Salt Lake to Blanding."
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:34:49](/episodes/ep-ZGxnf5cj4Uw.md#t-00-34-14): “heading back from Salt Lake to Blanding”
+- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:34:55](/episodes/ep-ZGxnf5cj4Uw.md#t-00-34-49): “I was just heading back from Salt Lake to Blanding.”
+
+</details>
 
 </details>
 
@@ -301,7 +363,11 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 <summary>Met With (1)</summary>
 
 - **[Tim Ballard](/entities/person-tim-ballard.md)**
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:05:55](/episodes/ep-YA1FxrDWNIo.md#t-00-05-38): "what Phil Lyman was doing in town on Saturday was he was meeting with Tim Ballard"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:05:55](/episodes/ep-YA1FxrDWNIo.md#t-00-05-38): “what Phil Lyman was doing in town on Saturday was he was meeting with Tim Ballard”
+
+</details>
 
 </details>
 
@@ -309,8 +375,12 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 <summary>Ran Against (1)</summary>
 
 - **[Utah](/entities/gpe-utah.md)**
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:05:10](/episodes/ep-t1YtLS1n8Vs.md#t-00-04-56): "Phil Lyman ran for Utah governor in 2024"
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:25:45](/episodes/ep-ZGxnf5cj4Uw.md#t-00-25-45): "he worked on Phil Lyman's gubernatorial campaign"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:05:10](/episodes/ep-t1YtLS1n8Vs.md#t-00-04-56): “Phil Lyman ran for Utah governor in 2024”
+- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:25:45](/episodes/ep-ZGxnf5cj4Uw.md#t-00-25-45): “he worked on Phil Lyman's gubernatorial campaign”
+
+</details>
 
 </details>
 
@@ -318,7 +388,11 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 <summary>Uncle/Aunt Of (1)</summary>
 
 - **[Shaner Broderick](/entities/person-shaner-broderick.md)**
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:00](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): "He said, 'My uncle, Phil Lyman.'"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:00](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): “He said, 'My uncle, Phil Lyman.'”
+
+</details>
 
 </details>
 
@@ -326,28 +400,56 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 <summary>Referenced By (7)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:21:12](/episodes/ep-t1YtLS1n8Vs.md#t-00-21-03)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:21:12](/episodes/ep-t1YtLS1n8Vs.md#t-00-21-03): “Phil Lyman... he really does not like me at all.”
+
+</details>
 
 - **[George Zinn](/entities/person-george-zinn.md)** endorsed this
-  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:03:27](/episodes/ep-adJ4LNGp84I.md#t-00-02-54)
-  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:03:39](/episodes/ep-adJ4LNGp84I.md#t-00-03-37)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:03:27](/episodes/ep-adJ4LNGp84I.md#t-00-02-54): “George Zin is one of just 20 people that is a featured endorsement. He endorses Phil Lyman's character.”
+- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:03:39](/episodes/ep-adJ4LNGp84I.md#t-00-03-37): “George Zin writes, 'Rare to find a more caring man with uncompromising goals to make Utah great for generations than Phil Lyman...He needs our support.'”
+
+</details>
 
 - **[Kayleigh McEnany](/entities/person-kayleigh-mcenany.md)** interviewed this
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:28:46](/episodes/ep-ZGxnf5cj4Uw.md#t-00-28-37)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:28:46](/episodes/ep-ZGxnf5cj4Uw.md#t-00-28-37): “Here he is in his interview speaking to Kayleigh McEnany.”
+
+</details>
 
 - **[Tim Ballard](/entities/person-tim-ballard.md)** met with this
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:05:55](/episodes/ep-YA1FxrDWNIo.md#t-00-05-38)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:05:55](/episodes/ep-YA1FxrDWNIo.md#t-00-05-38): “what Phil Lyman was doing in town on Saturday was he was meeting with Tim Ballard”
+
+</details>
 
 - **[Shaner Broderick](/entities/person-shaner-broderick.md)** niece/nephew of this
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:00](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:00](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): “He said, 'My uncle, Phil Lyman.'”
+
+</details>
 
 - **[Utah](/entities/gpe-utah.md)** ran against this
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:05:10](/episodes/ep-t1YtLS1n8Vs.md#t-00-04-56)
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:25:45](/episodes/ep-ZGxnf5cj4Uw.md#t-00-25-45)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:05:10](/episodes/ep-t1YtLS1n8Vs.md#t-00-04-56): “Phil Lyman ran for Utah governor in 2024”
+- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:25:45](/episodes/ep-ZGxnf5cj4Uw.md#t-00-25-45): “he worked on Phil Lyman's gubernatorial campaign”
+
+</details>
 
 - **[Blanding](/entities/gpe-blanding.md)** residence of this
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:34:49](/episodes/ep-ZGxnf5cj4Uw.md#t-00-34-14)
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:34:55](/episodes/ep-ZGxnf5cj4Uw.md#t-00-34-49)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:34:49](/episodes/ep-ZGxnf5cj4Uw.md#t-00-34-14): “heading back from Salt Lake to Blanding”
+- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:34:55](/episodes/ep-ZGxnf5cj4Uw.md#t-00-34-49): “I was just heading back from Salt Lake to Blanding.”
+
+</details>
 
 </details>
 

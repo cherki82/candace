@@ -15,10 +15,38 @@ _Type: People_
 **Entity verification:** verified
 > Former Liberty University president discussed by name.
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-jerry-falwell-jr-t-00-06-24">2026-01-09 · 00:07:02</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-falwell-jr-t-00-16-29">2026-01-12 · 00:16:35</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-falwell-jr-t-00-00-45">American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288</a> (3 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-jerry-falwell-jr-t-00-06-24" style="--pulse-height:67%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-falwell-jr-t-00-00-45" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-jerry-falwell-jr-t-00-06-24) | 2 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-falwell-jr-t-00-00-45) | 3 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
 
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (3 mentions)</summary>
@@ -54,8 +82,12 @@ _Type: People_
 <summary>Founded (1)</summary>
 
 - **[Falkirk Center](/entities/org-falkirk-center.md)**
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:08:44](/episodes/ep-wcD2khO3rOA.md#t-00-08-36): "Jerry Falwell Jr. and Charlie Kirk decided to come together to establish the Falkirk Center."
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:17:57](/episodes/ep-CMcktj3Egfo.md#t-00-17-45): "So yeah, they established Jerry Falwell,"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:08:44](/episodes/ep-wcD2khO3rOA.md#t-00-08-36): “Jerry Falwell Jr. and Charlie Kirk decided to come together to establish the Falkirk Center.”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:17:57](/episodes/ep-CMcktj3Egfo.md#t-00-17-45): “So yeah, they established Jerry Falwell,”
+
+</details>
 
 </details>
 
@@ -63,8 +95,12 @@ _Type: People_
 <summary>Referenced By (1)</summary>
 
 - **[Falkirk Center](/entities/org-falkirk-center.md)** founded by this
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:08:44](/episodes/ep-wcD2khO3rOA.md#t-00-08-36)
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:17:57](/episodes/ep-CMcktj3Egfo.md#t-00-17-45)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:08:44](/episodes/ep-wcD2khO3rOA.md#t-00-08-36): “Jerry Falwell Jr. and Charlie Kirk decided to come together to establish the Falkirk Center.”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:17:57](/episodes/ep-CMcktj3Egfo.md#t-00-17-45): “So yeah, they established Jerry Falwell,”
+
+</details>
 
 </details>
 

@@ -24,7 +24,7 @@ veracity: "mixed"
 - [Farris Wilks](/entities/person-farris-wilks.md) (person)
 - [Dan Wilks](/entities/person-dan-wilks.md) (person)
 - [PragerU](/entities/org-prageru.md) (org)
-- [The Daily Wire](/entities/org-daily-wire.md) (org)
+- [The Daily Wire](/entities/org-the-daily-wire.md) (org)
 - [Rob McCoy](/entities/person-rob-mccoy.md) (person)
 
 ## Source

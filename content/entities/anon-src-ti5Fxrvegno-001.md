@@ -15,10 +15,19 @@ _Type: Anonymous Sources_
 > The cleaned source resolves this embedded speaker's role from video and turn context but supplies no defensible personal name; retained as a source-local anonymous speaker with an explicit caveat.
 Source: [Here's Why It's Time For The Police To Question Erika Kirk - Candace Ep 305](https://www.youtube.com/watch?v=ti5Fxrvegno)
 
+<div class="entity-summary-grid">
+<div><span>Episodes</span><strong>0</strong></div>
+<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Statements by</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (1)</strong></summary>
 
 </details>
 
@@ -29,7 +38,11 @@ Source: [Here's Why It's Time For The Police To Question Erika Kirk - Candace Ep
 <summary>Accused (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-  - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:26:41](/episodes/ep-ti5Fxrvegno.md#t-00-26-13): "I knew at that point that I was on the right track, was suspecting that Erika Kirk could be involved in something bigger than what we're being told."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:26:41](/episodes/ep-ti5Fxrvegno.md#t-00-26-13): “I knew at that point that I was on the right track, was suspecting that Erika Kirk could be involved in something bigger than what we're being told.”
+
+</details>
 
 </details>
 
@@ -37,7 +50,11 @@ Source: [Here's Why It's Time For The Police To Question Erika Kirk - Candace Ep
 <summary>Referenced By (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** accused by this
-  - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:26:41](/episodes/ep-ti5Fxrvegno.md#t-00-26-13)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:26:41](/episodes/ep-ti5Fxrvegno.md#t-00-26-13): “I knew at that point that I was on the right track, was suspecting that Erika Kirk could be involved in something bigger than what we're being told.”
+
+</details>
 
 </details>
 

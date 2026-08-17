@@ -12,10 +12,44 @@ _Type: People_
 
 **Also known as:** LBJ, Lyndon Johnson
 
+> **Possibly overlapping entity records:** [Lyndon B. Johnson](/entities/person-lyndon-b-johnson). These records share a name or alias; compare their histories before treating either count as complete.
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-person-lyndon-baines-johnson-t-00-05-52">2025-10-27 · 00:05:52</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-person-lyndon-baines-johnson-t-00-56-20">2025-12-17 · 00:56:37</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-c5BcKF91iec.md#ent-person-lyndon-baines-johnson-t-00-05-52">Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252</a> (4 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-c5BcKF91iec.md#ent-person-lyndon-baines-johnson-t-00-05-52" style="--pulse-height:100%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 4 mentions" title="2025-10-27 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-lyndon-baines-johnson-t-00-59-18" style="--pulse-height:25%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-lyndon-baines-johnson-t-00-01-46" style="--pulse-height:100%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 4 mentions" title="2025-12-08 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-lyndon-baines-johnson-t-00-56-20" style="--pulse-height:25%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-person-lyndon-baines-johnson-t-00-05-52) | 4 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-lyndon-baines-johnson-t-00-59-18) | 1 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-lyndon-baines-johnson-t-00-01-46) | 4 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-lyndon-baines-johnson-t-00-56-20) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>
@@ -76,7 +110,11 @@ _Type: People_
 <summary>Accused (1)</summary>
 
 - **[John F. Kennedy](/entities/person-john-f-kennedy.md)**
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:02:12](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46): "definitely, Lyndon Baines Johnson and parts of our own government and the Cubans wanted him dead."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:02:12](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46): “definitely, Lyndon Baines Johnson and parts of our own government and the Cubans wanted him dead.”
+
+</details>
 
 </details>
 
@@ -84,7 +122,11 @@ _Type: People_
 <summary>Referenced By (1)</summary>
 
 - **[John F. Kennedy](/entities/person-john-f-kennedy.md)** accused by this
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:02:12](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:02:12](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46): “definitely, Lyndon Baines Johnson and parts of our own government and the Cubans wanted him dead.”
+
+</details>
 
 </details>
 

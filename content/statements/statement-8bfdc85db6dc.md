@@ -4,9 +4,10 @@ description: "\"Ghislaine Maxwell says 29 Epstein associates cut secret Justice 
 statement_id: "statement-8bfdc85db6dc"
 speaker: "Jared Moskowitz"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Maxwell's filed claim, as summarized in an official congressional letter, identifies four named co-conspirators plus 25 men who allegedly received secret settlements and were not indicted. That supports the 29-person arithmetic but overstates the record by describing all 29 as associates who received secret DOJ deals and by merging distinct groups.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Rep. Khanna Letter Regarding Maxwell Deposition](https://khanna.house.gov/sites/evo-subsites/khanna.house.gov/files/evo-media-document/rep-khanna-letter-to-chair-comer-re-maxwell-deposition-88.pdf)
+
+*Verified: 2026-08-16T11:38:39.571793*
 
 ---
 

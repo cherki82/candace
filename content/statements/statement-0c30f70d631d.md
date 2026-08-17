@@ -21,7 +21,7 @@ type: "factual_claim"
 ## About
 
 - [Harvey Weinstein](/entities/person-harvey-weinstein.md) (person)
-- [The Daily Wire](/entities/org-daily-wire.md) (org)
+- [The Daily Wire](/entities/org-the-daily-wire.md) (org)
 - [Candace Owens](/entities/person-candace-owens.md) (person)
 
 ## Source

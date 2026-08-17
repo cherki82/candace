@@ -23,10 +23,40 @@ _Type: People_
 > KAIROS biography confirms the spelling, Liberty role, and KAIROS role.
 Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/johnniemoorebio/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-johnnie-moore-t-00-07-06">2026-01-09 · 00:07:14</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-johnnie-moore-t-00-43-53">2026-01-13 · 00:43:53</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Relationships</span><strong>17</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-17-45">American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288</a> (28 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-johnnie-moore-t-00-07-06" style="--pulse-height:21%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 6 mentions" title="2026-01-09 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-17-45" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 28 mentions" title="2026-01-12 · 28 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-johnnie-moore-t-00-43-53" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-johnnie-moore-t-00-07-06) | 6 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-17-45) | 28 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-johnnie-moore-t-00-43-53) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
 
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
@@ -157,7 +187,11 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 <summary>Advisor To (1)</summary>
 
 - **[Aspen Institute](/entities/org-aspen-institute.md)**
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:21:55](/episodes/ep-CMcktj3Egfo.md#t-00-21-45): "you know, I'm on the advisory board for the Aspen Institute and ADL's civil society fellowship."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:21:55](/episodes/ep-CMcktj3Egfo.md#t-00-21-45): “you know, I'm on the advisory board for the Aspen Institute and ADL's civil society fellowship.”
+
+</details>
 
 </details>
 
@@ -165,7 +199,11 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 <summary>Affiliated With (1)</summary>
 
 - **[Anti-Defamation League](/entities/org-anti-defamation-league.md)**
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:21:45](/episodes/ep-CMcktj3Egfo.md#t-00-21-21): "So now, you know, I'm involved in the ADL in all kinds of ways, you know, I'm a part of the ADL and Aspen Institute's civil society fellowship,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:21:45](/episodes/ep-CMcktj3Egfo.md#t-00-21-21): “So now, you know, I'm involved in the ADL in all kinds of ways, you know, I'm a part of the ADL and Aspen Institute's civil society fellowship,”
+
+</details>
 
 </details>
 
@@ -173,7 +211,11 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 <summary>Chairman Of (1)</summary>
 
 - **[Gaza Humanitarian Foundation](/entities/org-gaza-humanitarian-foundation.md)**
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:47](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): "He was somehow equipped to lead the Gaza Humanitarian Fund"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:47](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): “He was somehow equipped to lead the Gaza Humanitarian Fund”
+
+</details>
 
 </details>
 
@@ -181,10 +223,18 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 <summary>Close Associate Of (2)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:03](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): "You'll recall that. He's Johnnie Moore's partner,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:03](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): “You'll recall that. He's Johnnie Moore's partner,”
+
+</details>
 
 - **[Ronald S. Godwin](/entities/person-ronald-s-godwin.md)**
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:24:51](/episodes/ep-CMcktj3Egfo.md#t-00-24-41): "That man's name is Ron Godwin, Johnnie's mentor."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:24:51](/episodes/ep-CMcktj3Egfo.md#t-00-24-41): “That man's name is Ron Godwin, Johnnie's mentor.”
+
+</details>
 
 </details>
 
@@ -192,8 +242,12 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 <summary>Formerly Worked For (1)</summary>
 
 - **[Liberty University](/entities/org-liberty-university.md)**
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:20](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): "Johnnie Moore was the lead pastor at Liberty University prior to then leaving Liberty University to start the PR firm."
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): "when Johnnie left Liberty University in 2014, he went to Hollywood to start the PR company, the KAIROS Company."
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:20](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): “Johnnie Moore was the lead pastor at Liberty University prior to then leaving Liberty University to start the PR firm.”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): “when Johnnie left Liberty University in 2014, he went to Hollywood to start the PR company, the KAIROS Company.”
+
+</details>
 
 </details>
 
@@ -201,7 +255,11 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 <summary>Founded (1)</summary>
 
 - **[KAIROS Company](/entities/org-kairos-company.md)**
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): "he went to Hollywood to start the PR company, the KAIROS Company."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): “he went to Hollywood to start the PR company, the KAIROS Company.”
+
+</details>
 
 </details>
 
@@ -209,7 +267,11 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 <summary>Hired By (1)</summary>
 
 - **[Jerry Prevo](/entities/person-jerry-prevo.md)**
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:10](/episodes/ep-CMcktj3Egfo.md#t-00-26-53): "he also moves rather immediately to reinstate none other than the sometimes lurking Johnnie Moore,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:10](/episodes/ep-CMcktj3Egfo.md#t-00-26-53): “he also moves rather immediately to reinstate none other than the sometimes lurking Johnnie Moore,”
+
+</details>
 
 </details>
 
@@ -217,7 +279,11 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 <summary>Works For (1)</summary>
 
 - **[Liberty University](/entities/org-liberty-university.md)**
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:19](/episodes/ep-CMcktj3Egfo.md#t-00-26-53): "paying him, I am told, an absurd amount monthly retainer."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:19](/episodes/ep-CMcktj3Egfo.md#t-00-26-53): “paying him, I am told, an absurd amount monthly retainer.”
+
+</details>
 
 </details>
 
@@ -225,29 +291,61 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 <summary>Referenced By (8)</summary>
 
 - **[Aspen Institute](/entities/org-aspen-institute.md)** advised by this
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:21:55](/episodes/ep-CMcktj3Egfo.md#t-00-21-45)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:21:55](/episodes/ep-CMcktj3Egfo.md#t-00-21-45): “you know, I'm on the advisory board for the Aspen Institute and ADL's civil society fellowship.”
+
+</details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** close associate of this
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:03](/episodes/ep-CMcktj3Egfo.md#t-00-18-28)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:03](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): “You'll recall that. He's Johnnie Moore's partner,”
+
+</details>
 
 - **[Ronald S. Godwin](/entities/person-ronald-s-godwin.md)** close associate of this
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:24:51](/episodes/ep-CMcktj3Egfo.md#t-00-24-41)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:24:51](/episodes/ep-CMcktj3Egfo.md#t-00-24-41): “That man's name is Ron Godwin, Johnnie's mentor.”
+
+</details>
 
 - **[Liberty University](/entities/org-liberty-university.md)** employs this
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:19](/episodes/ep-CMcktj3Egfo.md#t-00-26-53)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:19](/episodes/ep-CMcktj3Egfo.md#t-00-26-53): “paying him, I am told, an absurd amount monthly retainer.”
+
+</details>
 
 - **[Liberty University](/entities/org-liberty-university.md)** formerly employed this
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:20](/episodes/ep-wcD2khO3rOA.md#t-00-07-06)
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:20](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): “Johnnie Moore was the lead pastor at Liberty University prior to then leaving Liberty University to start the PR firm.”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): “when Johnnie left Liberty University in 2014, he went to Hollywood to start the PR company, the KAIROS Company.”
+
+</details>
 
 - **[KAIROS Company](/entities/org-kairos-company.md)** founded by this
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): “he went to Hollywood to start the PR company, the KAIROS Company.”
+
+</details>
 
 - **[Gaza Humanitarian Foundation](/entities/org-gaza-humanitarian-foundation.md)** has chairman this
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:47](/episodes/ep-wcD2khO3rOA.md#t-00-07-06)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:47](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): “He was somehow equipped to lead the Gaza Humanitarian Fund”
+
+</details>
 
 - **[Jerry Prevo](/entities/person-jerry-prevo.md)** hired this
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:10](/episodes/ep-CMcktj3Egfo.md#t-00-26-53)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:10](/episodes/ep-CMcktj3Egfo.md#t-00-26-53): “he also moves rather immediately to reinstate none other than the sometimes lurking Johnnie Moore,”
+
+</details>
 
 </details>
 

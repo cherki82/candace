@@ -20,10 +20,38 @@ _Type: Organizations_
 > The Church of Satan’s official history confirms its canonical name and founder Anton Szandor LaVey.
 Source: [Anton Szandor LaVey | Church of Satan](https://churchofsatan.com/history-anton-szandor-lavey/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-church-of-satan-t-00-22-07">2026-01-13 · 00:22:22</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-church-of-satan-t-01-40-56">2026-01-29 · 01:40:56</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-church-of-satan-t-00-22-07">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (5 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-church-of-satan-t-00-22-07" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 5 mentions" title="2026-01-13 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-church-of-satan-t-01-40-38" style="--pulse-height:60%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-church-of-satan-t-00-22-07) | 5 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-church-of-satan-t-01-40-38) | 3 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (3 mentions)</summary>
@@ -68,7 +96,11 @@ Source: [Anton Szandor LaVey | Church of Satan](https://churchofsatan.com/histor
 <summary>Founded By (1)</summary>
 
 - **[Anton Szandor LaVey](/entities/person-anton-szandor-lavey.md)**
-  - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:23:08](/episodes/ep-ZZGWo6oDscc.md#t-00-22-52): "And so they had the great satanic schism, you could say. He accuses Anton LaVey, who's the founder of the Church of Satan, of heresy for claiming that Satan was merely a metaphor and not an actual being."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:23:08](/episodes/ep-ZZGWo6oDscc.md#t-00-22-52): “And so they had the great satanic schism, you could say. He accuses Anton LaVey, who's the founder of the Church of Satan, of heresy for claiming that Satan was merely a metaphor and not an actual being.”
+
+</details>
 
 </details>
 
@@ -76,7 +108,11 @@ Source: [Anton Szandor LaVey | Church of Satan](https://churchofsatan.com/histor
 <summary>Has Former Member (1)</summary>
 
 - **[Michael Aquino](/entities/person-michael-aquino.md)**
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:40:35](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-35): "that's Aquino, that guy. ... he more. started his own church of satan after he had disagreement about with he was in the church of satan and then he had disagreement ... with the guy who started the Church of Satan because the guy was like well we're saying like Satan as an idea and he was like no I mean like real Satan like this Satan is not an idea this is their great schism the satanic schism and so then"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:40:35](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-35): “that's Aquino, that guy. ... he more. started his own church of satan after he had disagreement about with he was in the church of satan and then he had disagreement ... with the guy who started the Church of Satan because the guy was like well we're saying like Satan as an idea and he was like no I mean like real Satan like this Satan is not an idea this is their great schism the satanic schism and so then”
+
+</details>
 
 </details>
 
@@ -84,10 +120,18 @@ Source: [Anton Szandor LaVey | Church of Satan](https://churchofsatan.com/histor
 <summary>Referenced By (2)</summary>
 
 - **[Michael Aquino](/entities/person-michael-aquino.md)** formerly member of this
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:40:35](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-35)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:40:35](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-35): “that's Aquino, that guy. ... he more. started his own church of satan after he had disagreement about with he was in the church of satan and then he had disagreement ... with the guy who started the Church of Satan because the guy was like well we're saying like Satan as an idea and he was like no I mean like real Satan like this Satan is not an idea this is their great schism the satanic schism and so then”
+
+</details>
 
 - **[Anton Szandor LaVey](/entities/person-anton-szandor-lavey.md)** founded this
-  - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:23:08](/episodes/ep-ZZGWo6oDscc.md#t-00-22-52)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:23:08](/episodes/ep-ZZGWo6oDscc.md#t-00-22-52): “And so they had the great satanic schism, you could say. He accuses Anton LaVey, who's the founder of the Church of Satan, of heresy for claiming that Satan was merely a metaphor and not an actual being.”
+
+</details>
 
 </details>
 

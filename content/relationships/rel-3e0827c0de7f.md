@@ -11,7 +11,7 @@ object: "org-turning-point-usa"
 
 ## [Andrew Kolvet](/entities/person-andrew-kolvet) works for [Turning Point USA](/entities/org-turning-point-usa)
 
-### Evidence (24 mentions)
+### Evidence (25 mentions)
 
 **[TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w)**
 
@@ -78,6 +78,10 @@ object: "org-turning-point-usa"
 - [00:08:07](/episodes/ep-ja26iltROkM#t-00-08-07): _the Turning Point USA spokesperson, Andrew Kolvet_
 - [00:09:56](/episodes/ep-ja26iltROkM#t-00-09-56): _Andrew Kolvet tweeted this over the weekend...he is a PR agent_
 - [00:09:57](/episodes/ep-ja26iltROkM#t-00-09-57): _Andrew Kolvet's literal job. Okay, he is a PR agent. He runs a PR company, and his job is to respond to online chatter_
+
+**[Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8)**
+
+- [02:41:45](/episodes/ep-nPhCKwJ6ye8#t-02-41-45): _Yeah, well, I feel like I'm answering your questions and his questions about, I mean, I'm talking about Andrew Kolvet at his position as he's a spokesperson for Turning Point USA._
 
 **[TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI)**
 

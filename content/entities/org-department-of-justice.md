@@ -11,10 +11,46 @@ _Type: Organizations_
 
 **Also known as:** DOJ
 
+> **Possibly overlapping entity records:** [United States Department of Justice](/entities/org-united-states-department-of-justice). These records share a name or alias; compare their histories before treating either count as complete.
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-org-department-of-justice-t-00-33-51">2025-10-06 · 00:33:59</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-department-of-justice-t-00-25-29">2025-12-02 · 00:25:47</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-ozWJz2spBcI.md#ent-org-department-of-justice-t-00-33-51">TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248</a> (9 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-org-department-of-justice-t-00-33-51" style="--pulse-height:100%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 9 mentions" title="2025-10-06 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-org-department-of-justice-t-00-10-15" style="--pulse-height:67%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 6 mentions" title="2025-11-19 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-org-department-of-justice-t-00-06-16" style="--pulse-height:11%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-org-department-of-justice-t-00-21-55" style="--pulse-height:11%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-department-of-justice-t-00-24-50" style="--pulse-height:22%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-org-department-of-justice-t-00-33-51) | 9 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-org-department-of-justice-t-00-10-15) | 6 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-department-of-justice-t-00-06-16) | 1 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-org-department-of-justice-t-00-21-55) | 1 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-org-department-of-justice-t-00-24-50) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
 
 <details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
@@ -107,7 +143,11 @@ _Type: Organizations_
 <summary>Based In (1)</summary>
 
 - **[Wilmington, Delaware](/entities/gpe-wilmington.md)**
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:10:15](/episodes/ep-SKGUzGHymcI.md#t-00-09-44): "the Department of Justice's own directory lists, quote, Wilmington Residence Office, 1 Rodney Square, Suite 404, 920 King Street, Wilmington, Delaware, 19801."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:10:15](/episodes/ep-SKGUzGHymcI.md#t-00-09-44): “the Department of Justice's own directory lists, quote, Wilmington Residence Office, 1 Rodney Square, Suite 404, 920 King Street, Wilmington, Delaware, 19801.”
+
+</details>
 
 </details>
 
@@ -115,7 +155,11 @@ _Type: Organizations_
 <summary>Referenced By (1)</summary>
 
 - **[Wilmington, Delaware](/entities/gpe-wilmington.md)** location of this
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:10:15](/episodes/ep-SKGUzGHymcI.md#t-00-09-44)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:10:15](/episodes/ep-SKGUzGHymcI.md#t-00-09-44): “the Department of Justice's own directory lists, quote, Wilmington Residence Office, 1 Rodney Square, Suite 404, 920 King Street, Wilmington, Delaware, 19801.”
+
+</details>
 
 </details>
 

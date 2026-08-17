@@ -11,7 +11,11 @@ object: "person-erika-kirk"
 
 ## [Everyday Heroes Like You](/entities/org-everyday-heroes-like-you) founded by [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
+
+**[Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY)**
+
+- [00:20:09](/episodes/ep-2tFYJf1klgY#t-00-20-09): _I decided to create something called Everyday Heroes Like You_
 
 **[A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g)**
 

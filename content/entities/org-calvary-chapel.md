@@ -1,6 +1,6 @@
 ---
 title: "Calvary Chapel"
-description: "Calvary Chapel (Organizations) - 67 mentions"
+description: "Calvary Chapel (Organizations) - 66 mentions"
 id: "org-calvary-chapel"
 type: "ORG"
 aliases:
@@ -20,10 +20,64 @@ _Type: Organizations_
 > Official association site confirms canonical movement identity.
 Source: [Calvary Chapel Association](https://calvarycca.org/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#t-00-03-39">2025-10-29 · 00:03:59</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-calvary-chapel-t-00-35-12">2026-02-11 · 00:35:12</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>66</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-11-21">What Did Charlie Kirk Discover Near The End? | Candace Ep 264</a> (20 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-Qt0VHV-POCg.md#t-00-03-39" style="--pulse-height:8%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#t-00-13-27" style="--pulse-height:8%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-32-19" style="--pulse-height:25%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 5 mentions" title="2025-11-12 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-11-21" style="--pulse-height:100%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 20 mentions" title="2025-11-13 · 20 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-00-44" style="--pulse-height:80%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 16 mentions" title="2025-11-15 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-org-calvary-chapel-t-00-37-46" style="--pulse-height:45%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 9 mentions" title="2025-11-18 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#t-00-46-56" style="--pulse-height:10%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 2 mentions" title="2025-11-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-org-calvary-chapel-t-00-27-47" style="--pulse-height:8%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-org-calvary-chapel-t-00-11-15" style="--pulse-height:10%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 2 mentions" title="2025-12-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#t-00-09-04" style="--pulse-height:8%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-calvary-chapel-t-00-16-42" style="--pulse-height:15%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-org-calvary-chapel-t-00-53-48" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-calvary-chapel-t-00-22-52" style="--pulse-height:10%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-calvary-chapel-t-00-31-36" style="--pulse-height:8%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-calvary-chapel-t-00-35-12" style="--pulse-height:8%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#t-00-03-39) | 1 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-org-calvary-chapel-t-00-32-19) | 5 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-11-21) | 20 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-calvary-chapel-t-00-00-44) | 16 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-calvary-chapel-t-00-37-46) | 9 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#t-00-46-56) | 2 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-calvary-chapel-t-00-27-47) | 1 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-calvary-chapel-t-00-11-15) | 2 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-04) | 1 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-calvary-chapel-t-00-16-42) | 3 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-calvary-chapel-t-00-53-48) | 1 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-calvary-chapel-t-00-22-52) | 2 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-org-calvary-chapel-t-00-31-36) | 1 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-calvary-chapel-t-00-35-12) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (66)</strong></summary>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
@@ -198,13 +252,10 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (21 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (20 mentions)</summary>
 
 **[00:07:22](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-11-21)**
 > "Why is it that these Calvary Chapels have a long history of weird abuse and trafficking scandals that seemingly get swept under the rug?"
-
-**[00:07:22](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-11-21)**
-> "Why is it that these Calvary Chapels have a long history of weird abuse and traffickin..."
 
 **[00:11:41](/episodes/ep-yAIb-NuUh_U.md#ent-org-calvary-chapel-t-00-11-21)**
 > "...tation is a thing. The problem comes in when Rob then decides that Camino should be involved in the Calvary Chapel Church and, more specifically, that Camino should have access to young children in a program called Home F..."
@@ -310,7 +361,11 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 <summary>Employs (1)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)**
-  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:03:48](/episodes/ep-7RLtGgkTh9o.md#t-00-03-30): "Rob McCoy being the lead pastor in Thousand Oaks—one of their many churches across the United States"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:03:48](/episodes/ep-7RLtGgkTh9o.md#t-00-03-30): “Rob McCoy being the lead pastor in Thousand Oaks—one of their many churches across the United States”
+
+</details>
 
 </details>
 
@@ -318,7 +373,11 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 <summary>Founded By (1)</summary>
 
 - **[Chuck Smith](/entities/person-chuck-smith.md)**
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:29:32](/episodes/ep-yAIb-NuUh_U.md#t-00-29-27): "Chuck Smith is his name—CIA character that was close to him... who exactly started the Calvary Chapel"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:29:32](/episodes/ep-yAIb-NuUh_U.md#t-00-29-27): “Chuck Smith is his name—CIA character that was close to him... who exactly started the Calvary Chapel”
+
+</details>
 
 </details>
 
@@ -326,11 +385,19 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 <summary>Has Pastor (2)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)**
-  - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:03:00](/episodes/ep-Qt0VHV-POCg.md#t-00-02-59): "Along with being a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Faith."
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:02:20](/episodes/ep-yAIb-NuUh_U.md#t-00-02-06): "Rob McCoy—the pastor who makes my skin crawl—struck up thereafter and maintained a long friendship with Thomas Camino. Rob then decides that Camino should be involved in the Calvary Chapel Church"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:03:00](/episodes/ep-Qt0VHV-POCg.md#t-00-02-59): “Along with being a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Faith.”
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:02:20](/episodes/ep-yAIb-NuUh_U.md#t-00-02-06): “Rob McCoy—the pastor who makes my skin crawl—struck up thereafter and maintained a long friendship with Thomas Camino. Rob then decides that Camino should be involved in the Calvary Chapel Church”
+
+</details>
 
 - **[Jack Hibbs](/entities/person-jack-hibbs.md)**
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:55](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24): "Jack Hibbs among them, Calvary Chapel pastors"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:55](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24): “Jack Hibbs among them, Calvary Chapel pastors”
+
+</details>
 
 </details>
 
@@ -338,18 +405,35 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 <summary>Referenced By (4)</summary>
 
 - **[Chuck Smith](/entities/person-chuck-smith.md)** founded this
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:29:32](/episodes/ep-yAIb-NuUh_U.md#t-00-29-27)
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:05:00](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:29:32](/episodes/ep-yAIb-NuUh_U.md#t-00-29-27): “Chuck Smith is his name—CIA character that was close to him... who exactly started the Calvary Chapel”
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:05:00](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24): “Chuck Smith is his name—CIA character that was close to him, who exactly started the Calvary Chapel”
+
+</details>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** pastor of this
-  - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:03:00](/episodes/ep-Qt0VHV-POCg.md#t-00-02-59)
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:02:20](/episodes/ep-yAIb-NuUh_U.md#t-00-02-06)
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:03:00](/episodes/ep-Qt0VHV-POCg.md#t-00-02-59): “Along with being a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Faith.”
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:02:20](/episodes/ep-yAIb-NuUh_U.md#t-00-02-06): “Rob McCoy—the pastor who makes my skin crawl—struck up thereafter and maintained a long friendship with Thomas Camino. Rob then decides that Camino should be involved in the Calvary Chapel Church”
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:10:12](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-42): “the beliefs and the preferences of Rob McCoy who makes my skin crawl”
+
+</details>
 
 - **[Jack Hibbs](/entities/person-jack-hibbs.md)** pastor of this
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:55](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:55](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24): “Jack Hibbs among them, Calvary Chapel pastors”
+
+</details>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** works for this
-  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:03:48](/episodes/ep-7RLtGgkTh9o.md#t-00-03-30)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:03:48](/episodes/ep-7RLtGgkTh9o.md#t-00-03-30): “Rob McCoy being the lead pastor in Thousand Oaks—one of their many churches across the United States”
+
+</details>
 
 </details>
 

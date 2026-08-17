@@ -1,16 +1,100 @@
 ---
 title: "Jerusalem"
-description: "Jerusalem (Places) - 17 mentions"
+description: "Jerusalem (Places) - 24 mentions"
 id: "gpe-jerusalem"
 type: "GPE"
+categories:
+  - "Middle East geography"
+  - "Old City landmarks"
 ---
 
 _Type: Places_
 
+**Categories:** Middle East geography, Old City landmarks
+
+**Entity verification:** verified
+> Jerusalem municipality site confirms canonical English place name Jerusalem.
+Source: [Jerusalem Municipality](https://www.jerusalem.muni.il/en/)
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-jerusalem-t-00-04-50">2025-10-08 · 00:05:02</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-jerusalem-t-01-16-34">2026-08-14 · 01:16:34</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-jerusalem-t-00-39-18">Bride Of Charlie: A Wrinkle In Time | Episode 1</a> (6 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-jerusalem-t-00-04-50" style="--pulse-height:17%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-jerusalem-t-00-08-14" style="--pulse-height:17%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-gpe-jerusalem-t-00-21-15" style="--pulse-height:67%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 4 mentions" title="2025-11-03 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-jerusalem-t-00-43-16" style="--pulse-height:33%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-gpe-jerusalem-t-00-38-23" style="--pulse-height:33%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-25-28" style="--pulse-height:67%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 4 mentions" title="2025-11-21 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-jerusalem-t-00-34-41" style="--pulse-height:17%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-jerusalem-t-00-29-02" style="--pulse-height:33%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-jerusalem-t-00-39-18" style="--pulse-height:100%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 6 mentions" title="2026-02-25 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-jerusalem-t-01-16-34" style="--pulse-height:17%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-jerusalem-t-00-04-50) | 1 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-jerusalem-t-00-08-14) | 1 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-jerusalem-t-00-21-15) | 4 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-jerusalem-t-00-43-16) | 2 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-gpe-jerusalem-t-00-38-23) | 2 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-25-28) | 4 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-jerusalem-t-00-34-41) | 1 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-jerusalem-t-00-29-02) | 2 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-jerusalem-t-00-39-18) | 6 |
+| 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-jerusalem-t-01-16-34) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
+
+**[01:16:34](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-jerusalem-t-01-16-34)**
+> "...ends just outside comfort, of Jerusalem called"
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (6 mentions)</summary>
+
+**[00:39:55](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-jerusalem-t-00-39-18)**
+> "she's in Jerusalem with Charlie (Charlie Kirk),"
+
+**[00:39:57](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-jerusalem-t-00-39-57)**
+> "...at is known as Zion's Gate in Jerusalem. She posts a picture with a pretty curious captio..."
+
+**[00:40:09](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-jerusalem-t-00-39-57)**
+> "...or restoring the Zion Gate in Jerusalem."
+
+**[00:43:03](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-jerusalem-t-00-42-30)**
+> "...Rothsteins, her dedication to Jerusalem, if and only if we take Erica (Erika Kirk) litera..."
+
+**[00:44:05](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-jerusalem-t-00-43-57)**
+> "...restoration of Zion's Gate in Jerusalem."
+
+**[00:45:35](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-jerusalem-t-00-43-57)**
+> "... director of the University's Jerusalem Center."
+
+</details>
 
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (2 mentions)</summary>
@@ -112,7 +196,11 @@ _Type: Places_
 <summary>Location Of (1)</summary>
 
 - **[Knesset](/entities/org-knesset.md)**
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:34:42](/episodes/ep-CMcktj3Egfo.md#t-00-34-41): "members of the Knesset, I stand here in Jerusalem,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:34:42](/episodes/ep-CMcktj3Egfo.md#t-00-34-41): “members of the Knesset, I stand here in Jerusalem,”
+
+</details>
 
 </details>
 
@@ -120,14 +208,29 @@ _Type: Places_
 <summary>Referenced By (1)</summary>
 
 - **[Knesset](/entities/org-knesset.md)** based in this
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:34:42](/episodes/ep-CMcktj3Egfo.md#t-00-34-41)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:34:42](/episodes/ep-CMcktj3Egfo.md#t-00-34-41): “members of the Knesset, I stand here in Jerusalem,”
+
+</details>
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jerusalem (1)</strong></summary>
+<summary><strong class="section-title">Statements about Jerusalem (3)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (2)</summary>
+
+- [00:40:06](/episodes/ep-ZAsV0fHGBiM.md#t-00-39-57) (Claim) **Erika Kirk** (via quoted post): ["Erika Kirk wrote that a woman was sitting by 'my family's dedication s..."](/statements/statement-32a6078e5629.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Zion Gate](/entities/gpe-zion-gate.md)
+
+- [00:43:43](/episodes/ep-ZAsV0fHGBiM.md#t-00-43-15) (Claim) **Candace Owens**: ["Jack Solomon married Karla Frantzve in 2002 and financed the restorati..."](/statements/statement-11c01e36b823.md)
+  - Also about: [Jack David Solomon](/entities/person-jack-david-solomon.md), [Karla Marie Frantzve Solomon](/entities/person-karla-marie-frantzve-solomon.md), [Zion Gate](/entities/gpe-zion-gate.md)
+
+</details>
 
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1)</summary>

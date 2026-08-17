@@ -7,10 +7,46 @@ type: "ORG"
 
 _Type: Organizations_
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-caldera-engineering-t-00-14-56">2025-09-18 · 00:15:29</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-caldera-engineering-t-00-32-53">2025-10-09 · 00:33:19</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-caldera-engineering-t-00-28-43">REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251</a> (12 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-sreYYcID-QY.md#ent-org-caldera-engineering-t-00-14-56" style="--pulse-height:17%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 2 mentions" title="2025-09-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-caldera-engineering-t-00-14-44" style="--pulse-height:25%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 3 mentions" title="2025-09-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-org-caldera-engineering-t-00-19-19" style="--pulse-height:8%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-caldera-engineering-t-00-01-57" style="--pulse-height:17%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 2 mentions" title="2025-09-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-caldera-engineering-t-00-44-08" style="--pulse-height:17%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 2 mentions" title="2025-09-24 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-caldera-engineering-t-00-28-43" style="--pulse-height:100%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 12 mentions" title="2025-10-09 · 12 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-org-caldera-engineering-t-00-14-56) | 2 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-org-caldera-engineering-t-00-14-44) | 3 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-org-caldera-engineering-t-00-19-19) | 1 |
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-org-caldera-engineering-t-00-01-57) | 2 |
+| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-org-caldera-engineering-t-00-44-08) | 2 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-org-caldera-engineering-t-00-28-43) | 12 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
 
 <details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (12 mentions)</summary>
@@ -117,9 +153,13 @@ _Type: Organizations_
 <summary>Based In (1)</summary>
 
 - **[Provo](/entities/gpe-provo.md)**
-  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:18:48](/episodes/ep-aDlhjfW6hz8.md#t-00-18-15): "Caldera Engineering in Provo, Utah"
-  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:18:58](/episodes/ep-aDlhjfW6hz8.md#t-00-18-15): "companies like Caldera Engineering in Provo, Utah"
-  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:18:18](/episodes/ep-aDlhjfW6hz8.md#t-00-18-15): "companies like Caldera Engineering in Provo, Utah, manufacture specialized industrial valves"
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:18:48](/episodes/ep-aDlhjfW6hz8.md#t-00-18-15): “Caldera Engineering in Provo, Utah”
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:18:58](/episodes/ep-aDlhjfW6hz8.md#t-00-18-15): “companies like Caldera Engineering in Provo, Utah”
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:18:18](/episodes/ep-aDlhjfW6hz8.md#t-00-18-15): “companies like Caldera Engineering in Provo, Utah, manufacture specialized industrial valves”
+
+</details>
 
 </details>
 
@@ -127,7 +167,11 @@ _Type: Organizations_
 <summary>Employs (1)</summary>
 
 - **[Erwin Steele](/entities/person-erwin-steele.md)**
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:03:15](/episodes/ep-sreYYcID-QY.md#t-00-02-45): "And it turns out that they work for an engineering place, a place that makes—called Caldera Engineering."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:03:15](/episodes/ep-sreYYcID-QY.md#t-00-02-45): “And it turns out that they work for an engineering place, a place that makes—called Caldera Engineering.”
+
+</details>
 
 </details>
 
@@ -135,11 +179,19 @@ _Type: Organizations_
 <summary>Referenced By (2)</summary>
 
 - **[Provo](/entities/gpe-provo.md)** location of this
-  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:18:48](/episodes/ep-aDlhjfW6hz8.md#t-00-18-15)
-  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:18:58](/episodes/ep-aDlhjfW6hz8.md#t-00-18-15)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:18:48](/episodes/ep-aDlhjfW6hz8.md#t-00-18-15): “Caldera Engineering in Provo, Utah”
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:18:58](/episodes/ep-aDlhjfW6hz8.md#t-00-18-15): “companies like Caldera Engineering in Provo, Utah”
+
+</details>
 
 - **[Erwin Steele](/entities/person-erwin-steele.md)** works for this
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:03:15](/episodes/ep-sreYYcID-QY.md#t-00-02-45)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:03:15](/episodes/ep-sreYYcID-QY.md#t-00-02-45): “And it turns out that they work for an engineering place, a place that makes—called Caldera Engineering.”
+
+</details>
 
 </details>
 

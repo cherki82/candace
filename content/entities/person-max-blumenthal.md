@@ -1,6 +1,6 @@
 ---
 title: "Max Blumenthal"
-description: "Max Blumenthal (People) - 14 mentions"
+description: "Max Blumenthal (People) - 13 mentions"
 id: "person-max-blumenthal"
 type: "PERSON"
 categories:
@@ -16,10 +16,48 @@ _Type: People_
 > Official author page confirms the canonical name and editor role.
 Source: [Max Blumenthal - The Grayzone](https://thegrayzone.com/author/max-blumenthal/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-max-blumenthal-t-00-15-45">2025-09-15 · 00:16:09</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4YgrOhhy708.md#ent-person-max-blumenthal-t-00-30-58">2026-02-09 · 00:31:03</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-max-blumenthal-t-00-52-41">Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250</a> (3 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-max-blumenthal-t-00-15-45" style="--pulse-height:67%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 2 mentions" title="2025-09-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-max-blumenthal-t-00-51-57" style="--pulse-height:67%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 2 mentions" title="2025-09-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-max-blumenthal-t-00-37-04" style="--pulse-height:67%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 2 mentions" title="2025-10-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-person-max-blumenthal-t-00-27-17" style="--pulse-height:33%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-max-blumenthal-t-00-52-41" style="--pulse-height:100%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 3 mentions" title="2025-10-08 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-max-blumenthal-t-00-53-16" style="--pulse-height:33%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-person-max-blumenthal-t-00-30-13" style="--pulse-height:67%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-person-max-blumenthal-t-00-15-45) | 2 |
+| 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-max-blumenthal-t-00-51-57) | 2 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-max-blumenthal-t-00-37-04) | 2 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-max-blumenthal-t-00-27-17) | 1 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-max-blumenthal-t-00-52-41) | 3 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-max-blumenthal-t-00-53-16) | 1 |
+| 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-max-blumenthal-t-00-30-13) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (2 mentions)</summary>
@@ -85,10 +123,7 @@ Source: [Max Blumenthal - The Grayzone](https://thegrayzone.com/author/max-blume
 </details>
 
 <details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (3 mentions)</summary>
-
-**[00:16:09](/episodes/ep-czVBmqZP6Ss.md#ent-person-max-blumenthal-t-00-15-45)**
-> "Max Blumenthal went out to him today"
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (2 mentions)</summary>
 
 **[00:16:09](/episodes/ep-czVBmqZP6Ss.md#ent-person-max-blumenthal-t-00-15-45)**
 > "...y happy for Bill Ackman to dispute this narrative. In fact, he was asked to dispute this narrative. Max Blumenthal went out to him today and Bill Ackman came back and said, I have receipts, I can show you. And he d..."
@@ -107,7 +142,11 @@ Source: [Max Blumenthal - The Grayzone](https://thegrayzone.com/author/max-blume
 <summary>Criticized (1)</summary>
 
 - **[Bill Ackman](/entities/person-bill-ackman.md)**
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:16:09](/episodes/ep-czVBmqZP6Ss.md#t-00-15-45): "Max Blumenthal went out to him today"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:16:09](/episodes/ep-czVBmqZP6Ss.md#t-00-15-45): “Max Blumenthal went out to him today”
+
+</details>
 
 </details>
 
@@ -115,7 +154,11 @@ Source: [Max Blumenthal - The Grayzone](https://thegrayzone.com/author/max-blume
 <summary>Referenced By (1)</summary>
 
 - **[Bill Ackman](/entities/person-bill-ackman.md)** criticized by this
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:16:09](/episodes/ep-czVBmqZP6Ss.md#t-00-15-45)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:16:09](/episodes/ep-czVBmqZP6Ss.md#t-00-15-45): “Max Blumenthal went out to him today”
+
+</details>
 
 </details>
 

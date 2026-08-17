@@ -23,7 +23,7 @@ type: "factual_claim"
 ## About
 
 - [Maggie Wegner](/entities/person-maggie-wegner.md) (person)
-- [The Daily Wire](/entities/org-daily-wire.md) (org)
+- [The Daily Wire](/entities/org-the-daily-wire.md) (org)
 
 ## Source
 

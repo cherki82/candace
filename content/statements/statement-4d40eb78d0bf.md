@@ -23,7 +23,7 @@ veracity: "true"
 
 - [Catholics for Catholics](/entities/org-catholics-for-catholics.md) (org)
 - [Candace Owens](/entities/person-candace-owens.md) (person)
-- [Washington, D.C.](/entities/gpe-washington-dc.md) (gpe)
+- [Washington, D.C.](/entities/gpe-washington-d-c.md) (gpe)
 
 ## Source
 

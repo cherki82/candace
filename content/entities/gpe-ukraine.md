@@ -1,6 +1,6 @@
 ---
 title: "Ukraine"
-description: "Ukraine (Places) - 50 mentions"
+description: "Ukraine (Places) - 51 mentions"
 id: "gpe-ukraine"
 type: "GPE"
 aliases:
@@ -20,10 +20,85 @@ _Type: Places_
 > Ukraine’s Ministry of Foreign Affairs confirms the canonical country name and its location in Europe.
 Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov.ua/en/about-ukraine/general-facts)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-ukraine-t-00-00-01">2025-09-16 · 00:00:27</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-ukraine-t-00-30-39">2026-03-02 · 00:30:51</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>51</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-ukraine-t-00-07-32">INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256</a> (10 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-ukraine-t-00-00-01" style="--pulse-height:10%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-gpe-ukraine-t-00-30-33" style="--pulse-height:10%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-ukraine-t-00-18-55" style="--pulse-height:70%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 7 mentions" title="2025-10-01 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-ukraine-t-00-37-57" style="--pulse-height:20%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-ukraine-t-00-07-35" style="--pulse-height:10%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-ukraine-t-00-07-32" style="--pulse-height:100%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 10 mentions" title="2025-10-31 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-gpe-ukraine-t-00-06-07" style="--pulse-height:10%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-gpe-ukraine-t-00-11-56" style="--pulse-height:10%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-ukraine-t-00-31-29" style="--pulse-height:30%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 3 mentions" title="2025-11-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-ukraine-t-00-43-44" style="--pulse-height:10%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-11-43" style="--pulse-height:50%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 5 mentions" title="2025-11-20 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-ukraine-t-00-17-38" style="--pulse-height:10%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-gpe-ukraine-t-00-50-22" style="--pulse-height:10%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-gpe-ukraine-t-00-18-15" style="--pulse-height:50%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 5 mentions" title="2025-12-05 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-ukraine-t-00-00-00" style="--pulse-height:20%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 2 mentions" title="2025-12-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-ukraine-t-00-12-53" style="--pulse-height:20%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-ukraine-t-00-52-57" style="--pulse-height:10%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-ukraine-t-01-15-19" style="--pulse-height:20%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-ukraine-t-00-16-47" style="--pulse-height:20%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-ukraine-t-00-04-53" style="--pulse-height:20%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-gpe-ukraine-t-00-00-01) | 1 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-gpe-ukraine-t-00-30-33) | 1 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-gpe-ukraine-t-00-18-55) | 7 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-ukraine-t-00-37-57) | 2 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-ukraine-t-00-07-35) | 1 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-ukraine-t-00-07-32) | 10 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-ukraine-t-00-06-07) | 1 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-gpe-ukraine-t-00-11-56) | 1 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-ukraine-t-00-31-29) | 3 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-ukraine-t-00-43-44) | 1 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-ukraine-t-00-11-43) | 5 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-ukraine-t-00-17-38) | 1 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-gpe-ukraine-t-00-50-22) | 1 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-gpe-ukraine-t-00-18-15) | 5 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-ukraine-t-00-00-00) | 2 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-ukraine-t-00-12-53) | 2 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-ukraine-t-00-52-57) | 1 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-ukraine-t-01-15-19) | 2 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-ukraine-t-00-16-47) | 2 |
+| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-ukraine-t-00-04-53) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (51)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (2 mentions)</summary>
+
+**[00:04:53](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-ukraine-t-00-04-53)**
+> "...ibya, the entire Middle East, Ukraine. We know what the neoconservatives believe."
+
+**[00:30:51](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-ukraine-t-00-30-39)**
+> "...nsisted of modern-day Poland, Ukraine, and Lithuania. This is very important for you to..."
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (2 mentions)</summary>
@@ -67,10 +142,7 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 </details>
 
 <details>
-<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (3 mentions)</summary>
-
-**[00:00:25](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-ukraine-t-00-00-00)**
-> "whether it's COVID, the Ukraine war"
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2 mentions)</summary>
 
 **[00:00:15](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-ukraine-t-00-00-00)**
 > "...know, whether it's COVID, the Ukraine war, it's like the entire media apparatus and est..."

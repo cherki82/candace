@@ -23,10 +23,38 @@ _Type: People_
 > National Angels gives the canonical name Nelda Yaw Buckman and identifies her public nonprofit and production roles; transcript short forms are genuine variants.
 Source: [Founder & CEO | Nelda Studios | National Angels](https://www.nationalangels.org/national-advisory-council/nelda)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-X92MllIHDzw.md#ent-person-nelda-yaw-buckman-t-00-20-05">2026-01-16 · 00:20:33</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-nelda-yaw-buckman-t-00-12-40">2026-01-19 · 00:12:44</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-X92MllIHDzw.md#ent-person-nelda-yaw-buckman-t-00-20-05">OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291</a> (9 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-X92MllIHDzw.md#ent-person-nelda-yaw-buckman-t-00-20-05" style="--pulse-height:100%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 9 mentions" title="2026-01-16 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-nelda-yaw-buckman-t-00-12-40" style="--pulse-height:11%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-nelda-yaw-buckman-t-00-20-05) | 9 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-nelda-yaw-buckman-t-00-12-40) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
 
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
@@ -77,7 +105,11 @@ Source: [Founder & CEO | Nelda Studios | National Angels](https://www.nationalan
 <summary>Close Associate Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:20:45](/episodes/ep-X92MllIHDzw.md#t-00-20-45): "Nelda gave an interview ... about her now budding relationship with Erika ... after Charlie's assassination, the two of them got really close."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:20:45](/episodes/ep-X92MllIHDzw.md#t-00-20-45): “Nelda gave an interview ... about her now budding relationship with Erika ... after Charlie's assassination, the two of them got really close.”
+
+</details>
 
 </details>
 
@@ -85,14 +117,26 @@ Source: [Founder & CEO | Nelda Studios | National Angels](https://www.nationalan
 <summary>Funded (3)</summary>
 
 - **[Identity Crisis](/entities/work-identity-crisis-2025.md)**
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:21:32](/episodes/ep-X92MllIHDzw.md#t-00-21-25): "Nelda Buckman ... executively produced, which is kind of a fancy way of saying financed the documentary ... called Identity Crisis."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:21:32](/episodes/ep-X92MllIHDzw.md#t-00-21-25): “Nelda Buckman ... executively produced, which is kind of a fancy way of saying financed the documentary ... called Identity Crisis.”
+
+</details>
 
 - **[Courage House Nevada](/entities/org-courage-house-nevada.md)**
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:24:57](/episodes/ep-X92MllIHDzw.md#t-00-24-39): "Nelda is one of the largest donors, she might even be the largest donor, to Courage House Nevada."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:24:57](/episodes/ep-X92MllIHDzw.md#t-00-24-39): “Nelda is one of the largest donors, she might even be the largest donor, to Courage House Nevada.”
+
+</details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:20:29](/episodes/ep-X92MllIHDzw.md#t-00-20-05): "large donation from the couple,"
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-11-56): "because Turning Point's number one donor who last year in June. Cut a check for $10 million, the couple, Nelda and Karl Buckman, they live there,"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:20:29](/episodes/ep-X92MllIHDzw.md#t-00-20-05): “large donation from the couple,”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-11-56): “because Turning Point's number one donor who last year in June. Cut a check for $10 million, the couple, Nelda and Karl Buckman, they live there,”
+
+</details>
 
 </details>
 
@@ -100,7 +144,11 @@ Source: [Founder & CEO | Nelda Studios | National Angels](https://www.nationalan
 <summary>Lives In (1)</summary>
 
 - **[New Braunfels](/entities/gpe-new-braunfels-texas.md)**
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:12:40](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40): "the couple, Nelda and Karl Buckman, they live there"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Legal Turning Point? | Candace Ep 292 @ 00:12:40](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40): “the couple, Nelda and Karl Buckman, they live there”
+
+</details>
 
 </details>
 
@@ -108,13 +156,25 @@ Source: [Founder & CEO | Nelda Studios | National Angels](https://www.nationalan
 <summary>Worked With (3)</summary>
 
 - **[National Angels](/entities/org-national-angels.md)**
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:24:26](/episodes/ep-X92MllIHDzw.md#t-00-23-56): "Nelda works with National Angels"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:24:26](/episodes/ep-X92MllIHDzw.md#t-00-23-56): “Nelda works with National Angels”
+
+</details>
 
 - **[Austin Angels](/entities/org-austin-angels.md)**
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:24:26](/episodes/ep-X92MllIHDzw.md#t-00-23-56): "Nelda works with National Angels ... Austin Angels ... She works with all of them to help foster children."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:24:26](/episodes/ep-X92MllIHDzw.md#t-00-23-56): “Nelda works with National Angels ... Austin Angels ... She works with all of them to help foster children.”
+
+</details>
 
 - **[New Jersey Angels](/entities/org-new-jersey-angels.md)**
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:24:26](/episodes/ep-X92MllIHDzw.md#t-00-23-56): "Nelda works with National Angels ... New Jersey Angels. She works with all of them to help foster children."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:24:26](/episodes/ep-X92MllIHDzw.md#t-00-23-56): “Nelda works with National Angels ... New Jersey Angels. She works with all of them to help foster children.”
+
+</details>
 
 </details>
 
@@ -122,24 +182,48 @@ Source: [Founder & CEO | Nelda Studios | National Angels](https://www.nationalan
 <summary>Referenced By (6)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** close associate of this
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:20:45](/episodes/ep-X92MllIHDzw.md#t-00-20-45)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:20:45](/episodes/ep-X92MllIHDzw.md#t-00-20-45): “Nelda gave an interview ... about her now budding relationship with Erika ... after Charlie's assassination, the two of them got really close.”
+
+</details>
 
 - **[Identity Crisis](/entities/work-identity-crisis-2025.md)** funded by this
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:21:32](/episodes/ep-X92MllIHDzw.md#t-00-21-25)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:21:32](/episodes/ep-X92MllIHDzw.md#t-00-21-25): “Nelda Buckman ... executively produced, which is kind of a fancy way of saying financed the documentary ... called Identity Crisis.”
+
+</details>
 
 - **[Courage House Nevada](/entities/org-courage-house-nevada.md)** funded by this
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:24:57](/episodes/ep-X92MllIHDzw.md#t-00-24-39)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:24:57](/episodes/ep-X92MllIHDzw.md#t-00-24-39): “Nelda is one of the largest donors, she might even be the largest donor, to Courage House Nevada.”
+
+</details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** funded by this
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:20:29](/episodes/ep-X92MllIHDzw.md#t-00-20-05)
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-11-56)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:20:29](/episodes/ep-X92MllIHDzw.md#t-00-20-05): “large donation from the couple,”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-11-56): “because Turning Point's number one donor who last year in June. Cut a check for $10 million, the couple, Nelda and Karl Buckman, they live there,”
+
+</details>
 
 - **[Karl Buckman](/entities/person-karl-buckman.md)** married to this
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:20:33](/episodes/ep-X92MllIHDzw.md#t-00-20-05)
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-11-56)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:20:33](/episodes/ep-X92MllIHDzw.md#t-00-20-05): “which came from Karl and his wife, Nelda Buckman.”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-11-56): “because Turning Point's number one donor who last year in June. Cut a check for $10 million, the couple, Nelda and Karl Buckman, they live there,”
+
+</details>
 
 - **[New Braunfels](/entities/gpe-new-braunfels-texas.md)** residence of this
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:12:40](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Legal Turning Point? | Candace Ep 292 @ 00:12:40](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40): “the couple, Nelda and Karl Buckman, they live there”
+
+</details>
 
 </details>
 
@@ -173,7 +257,7 @@ Source: [Founder & CEO | Nelda Studios | National Angels](https://www.nationalan
 <summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (2)</summary>
 
 - [00:20:22](/episodes/ep-X92MllIHDzw.md#t-00-20-05) (Citation) **Candace Owens**: ["Karl and Nelda Buckman's $10 million gift led to the planned renaming ..."](/statements/statement-143a9760fe14.md)
-  - Also about: [Karl Buckman](/entities/person-karl-buckman.md), [Turning Point USA](/entities/org-turning-point-usa.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - Also about: [Karl Buckman](/entities/person-karl-buckman.md), [Turning Point USA](/entities/org-turning-point-usa.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 - [00:24:07](/episodes/ep-X92MllIHDzw.md#t-00-23-56) (Claim) **Candace Owens**: ["Nelda Buckman has done extensive work with foster children and sex-tra..."](/statements/statement-efc6b496fa46.md)
   - Also about: [National Angels](/entities/org-national-angels.md)

@@ -22,7 +22,7 @@ veracity: "true"
 ## About
 
 - [Catholics for Catholics](/entities/org-catholics-for-catholics.md) (org)
-- [Washington, D.C.](/entities/gpe-washington-dc.md) (gpe)
+- [Washington, D.C.](/entities/gpe-washington-d-c.md) (gpe)
 
 ## Source
 

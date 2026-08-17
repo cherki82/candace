@@ -11,7 +11,7 @@ date: "2025-09-09"
 
 > Text messages the day before Charlie Kirk's death in which he warned he thought he would be killed.
 
-## Mentioned In (33 times)
+## Mentioned In (35 times)
 
 ### 1. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
 
@@ -276,3 +276,19 @@ date: "2025-09-09"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1275);return false;">▶️ Play</a>
 
 > messaged multiple people saying that he thought they were going to kill him the night before.
+
+### 34. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
+
+**Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
+**Timestamp:** [00:30:12](/episodes/ep-nPhCKwJ6ye8.md#event-event-2025-09-09-text-messages-the-day-before-charlie-kirk-s-death-t-00-29-36) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1812);return false;">▶️ Play</a>
+
+> Remind them that they are there for one person's security only, because I'm somewhat worried
+
+### 35. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
+
+**Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
+**Timestamp:** [00:29:36](/episodes/ep-nPhCKwJ6ye8.md#event-event-2025-09-09-text-messages-the-day-before-charlie-kirk-s-death-t-00-29-36) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1776);return false;">▶️ Play</a>
+
+> never-before-seen messages from Charlie Kirk to his security team on September 9, 2025.

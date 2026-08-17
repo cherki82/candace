@@ -1,6 +1,6 @@
 ---
 title: "Josh Hammer"
-description: "Josh Hammer (People) - 161 mentions"
+description: "Josh Hammer (People) - 159 mentions"
 id: "person-josh-hammer"
 type: "PERSON"
 aliases:
@@ -21,10 +21,90 @@ _Type: People_
 > Publisher biography confirms canonical identity and public roles.
 Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/authors/Josh-Hammer/232142434)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-josh-hammer-t-00-41-03">2025-09-16 · 00:41:22</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-josh-hammer-t-00-33-24">2026-02-13 · 00:33:53</a></strong></div>
+<div><span>Episodes</span><strong>28</strong></div>
+<div><span>Mentions</span><strong>159</strong></div>
+<div><span>Statements by</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>29</strong></div>
+<div><span>Relationships</span><strong>24</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-josh-hammer-t-00-00-00">Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250</a> (55 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-q7f8r-THr84.md#ent-person-josh-hammer-t-00-41-03" style="--pulse-height:9%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 5 mentions" title="2025-09-16 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-josh-hammer-t-00-49-32" style="--pulse-height:8%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-person-josh-hammer-t-00-29-48" style="--pulse-height:8%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-person-josh-hammer-t-00-01-58" style="--pulse-height:8%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 2 mentions" title="2025-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-person-josh-hammer-t-00-17-17" style="--pulse-height:8%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-person-josh-hammer-t-00-13-12" style="--pulse-height:18%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 10 mentions" title="2025-10-07 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-josh-hammer-t-00-00-00" style="--pulse-height:100%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 55 mentions" title="2025-10-08 · 55 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-josh-hammer-t-00-00-00" style="--pulse-height:15%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 8 mentions" title="2025-10-09 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-person-josh-hammer-t-00-32-37" style="--pulse-height:9%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 5 mentions" title="2025-10-27 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-josh-hammer-t-00-19-52" style="--pulse-height:8%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 3 mentions" title="2025-10-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-josh-hammer-t-00-30-48" style="--pulse-height:22%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 12 mentions" title="2025-10-30 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-josh-hammer-t-00-34-46" style="--pulse-height:8%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-josh-hammer-t-00-15-44" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 3 mentions" title="2025-11-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-josh-hammer-t-00-43-54" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-josh-hammer-t-00-00-00" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 3 mentions" title="2025-11-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-josh-hammer-t-00-17-32" style="--pulse-height:8%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-person-josh-hammer-t-00-13-03" style="--pulse-height:8%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 2 mentions" title="2025-12-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-josh-hammer-t-00-29-14" style="--pulse-height:8%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 4 mentions" title="2025-12-05 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-josh-hammer-t-00-37-23" style="--pulse-height:8%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-josh-hammer-t-00-10-29" style="--pulse-height:11%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 6 mentions" title="2025-12-12 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-josh-hammer-t-00-10-25" style="--pulse-height:8%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 3 mentions" title="2025-12-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-josh-hammer-t-00-42-37" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-josh-hammer-t-00-57-40" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-josh-hammer-t-00-38-44" style="--pulse-height:22%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 12 mentions" title="2026-02-02 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-josh-hammer-t-00-23-11" style="--pulse-height:8%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-person-josh-hammer-t-00-38-46" style="--pulse-height:8%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 3 mentions" title="2026-02-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-josh-hammer-t-00-06-20" style="--pulse-height:15%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 8 mentions" title="2026-02-10 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-josh-hammer-t-00-33-24" style="--pulse-height:8%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-person-josh-hammer-t-00-41-03) | 5 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-person-josh-hammer-t-00-49-32) | 1 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-person-josh-hammer-t-00-29-48) | 1 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-person-josh-hammer-t-00-01-58) | 2 |
+| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-person-josh-hammer-t-00-17-17) | 1 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-josh-hammer-t-00-13-12) | 10 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-josh-hammer-t-00-00-00) | 55 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-josh-hammer-t-00-00-00) | 8 |
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-person-josh-hammer-t-00-32-37) | 5 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-person-josh-hammer-t-00-19-52) | 3 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-josh-hammer-t-00-30-48) | 12 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-person-josh-hammer-t-00-34-46) | 1 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-josh-hammer-t-00-15-44) | 3 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-josh-hammer-t-00-43-54) | 2 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-josh-hammer-t-00-00-00) | 3 |
+| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-person-josh-hammer-t-00-17-32) | 1 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-josh-hammer-t-00-13-03) | 2 |
+| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-person-josh-hammer-t-00-29-14) | 4 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-person-josh-hammer-t-00-37-23) | 2 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-person-josh-hammer-t-00-10-29) | 6 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-person-josh-hammer-t-00-10-25) | 3 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-josh-hammer-t-00-42-37) | 1 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-josh-hammer-t-00-57-40) | 1 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-josh-hammer-t-00-38-44) | 12 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-josh-hammer-t-00-23-11) | 1 |
+| 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-josh-hammer-t-00-38-46) | 3 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-josh-hammer-t-00-06-20) | 8 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-josh-hammer-t-00-33-24) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (159)</strong></summary>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>
@@ -194,13 +274,10 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 </details>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (5 mentions)</summary>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (4 mentions)</summary>
 
 **[00:06:54](/episodes/ep-ZAuuSq_j2_w.md#ent-person-josh-hammer-t-00-29-14)**
 > "Just really just wanted Josh Hammer's book to be sold."
-
-**[00:29:24](/episodes/ep-ZAuuSq_j2_w.md#ent-person-josh-hammer-t-00-29-14)**
-> "He told Josh Hammer that his book was the greatest thing and everyone should buy Josh Hammer's book."
 
 **[00:29:24](/episodes/ep-ZAuuSq_j2_w.md#ent-person-josh-hammer-t-00-29-14)**
 > "...accept that, okay? And that's what he told me. By the way, he had a very busy night before. He told Josh Hammer that his book was the greatest thing and everyone should buy Josh Hammer's book. He had that meetin..."
@@ -624,13 +701,10 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 </details>
 
 <details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (6 mentions)</summary>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (5 mentions)</summary>
 
 **[00:41:22](/episodes/ep-q7f8r-THr84.md#ent-person-josh-hammer-t-00-41-03)**
 > "... in the Hamptons, okay? Bring in our movie poster. I Know What You Did This Summer. Okay, gotta add Josh Hammer's face to that poster as well, because suddenly everybody's talking. So let's buckle up for some mo..."
-
-**[00:42:42](/episodes/ep-q7f8r-THr84.md#ent-person-josh-hammer-t-00-42-21)**
-> "gotta add Josh Hammer's face to that poster as well, because suddenly everybody's talking"
 
 **[00:42:42](/episodes/ep-q7f8r-THr84.md#ent-person-josh-hammer-t-00-42-21)**
 > "...ying like, yeah, because that would be antisemitic. I heard that after Charlie (Charlie Kirk) left, Josh Hammer was upset. Josh Hammer, I know for a fact, was a part of the beehive that was swarming him about pe..."
@@ -655,7 +729,11 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 <summary>Critic Of (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58): "What I also don't like are the people like Josh Hammer and Seth Dillon, people that I know who are very nasty and work behind the scenes. I don't like that they have not yet been honest or forthcoming about the pressure that they and others were putting on Charlie (Charlie Kirk)."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58): “What I also don't like are the people like Josh Hammer and Seth Dillon, people that I know who are very nasty and work behind the scenes. I don't like that they have not yet been honest or forthcoming about the pressure that they and others were putting on Charlie (Charlie Kirk).”
+
+</details>
 
 </details>
 
@@ -663,14 +741,26 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 <summary>Criticized (3)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:34:59](/episodes/ep-YFmRH8p5lt0.md#t-00-34-46): "Josh Hammer is angry."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:34:59](/episodes/ep-YFmRH8p5lt0.md#t-00-34-46): “Josh Hammer is angry.”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58): "What I also don't like are the people like Josh Hammer and Seth Dillon, people that I know who are very nasty and work behind the scenes. I don't like that they have not yet been honest or forthcoming about the pressure that they and others were putting on Charlie (Charlie Kirk)."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58): “What I also don't like are the people like Josh Hammer and Seth Dillon, people that I know who are very nasty and work behind the scenes. I don't like that they have not yet been honest or forthcoming about the pressure that they and others were putting on Charlie (Charlie Kirk).”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:23](/episodes/ep-6J6lRZPQ4jk.md#t-00-41-45): "Josh (Josh Hammer) explicitly lied about Charlie's state of mind. He went on multiple podcasts. He called me a liar."
-  - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:39:33](/episodes/ep-CEF7gQRWYCE.md#t-00-39-29): "Candace Owens sees on this totally out of context screenshot of Charlie Kirk being very upset that a Jewish donor was withholding his ... And she used this as an attempt to say, oh, Josh Hammer is lying, that Charlie Kirk remained pro-Israel until his final moments."
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:23](/episodes/ep-6J6lRZPQ4jk.md#t-00-41-45): “Josh (Josh Hammer) explicitly lied about Charlie's state of mind. He went on multiple podcasts. He called me a liar.”
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:39:33](/episodes/ep-CEF7gQRWYCE.md#t-00-39-29): “Candace Owens sees on this totally out of context screenshot of Charlie Kirk being very upset that a Jewish donor was withholding his ... And she used this as an attempt to say, oh, Josh Hammer is lying, that Charlie Kirk remained pro-Israel until his final moments.”
+
+</details>
 
 </details>
 
@@ -678,7 +768,11 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:10:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-10-25): "God doesn't want you to follow Tucker Carlson on Instagram. Josh Hammer is amazing. Candace is possessed by a demon."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:10:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-10-25): “God doesn't want you to follow Tucker Carlson on Instagram. Josh Hammer is amazing. Candace is possessed by a demon.”
+
+</details>
 
 </details>
 
@@ -686,7 +780,11 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 <summary>Debated (1)</summary>
 
 - **[Dave Smith](/entities/person-dave-smith.md)**
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:58](/episodes/ep-his-JBjlkh8.md#t-00-03-40): ""he hosted Dave Smith, who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer,""
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:58](/episodes/ep-his-JBjlkh8.md#t-00-03-40): “"he hosted Dave Smith, who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer,"”
+
+</details>
 
 </details>
 
@@ -694,8 +792,12 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 <summary>Friend Of (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:13](/episodes/ep-ja26iltROkM.md#t-00-29-48): "I'm going to guess it's either Seth Dillon or Josh Hammer...these messages...a close friend of Charlie Kirk shared these messages"
-  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:38](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30): "If you are a Christian and you purport to have been a good friend to Charlie"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:13](/episodes/ep-ja26iltROkM.md#t-00-29-48): “I'm going to guess it's either Seth Dillon or Josh Hammer...these messages...a close friend of Charlie Kirk shared these messages”
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:38](/episodes/ep-6J6lRZPQ4jk.md#t-00-42-30): “If you are a Christian and you purport to have been a good friend to Charlie”
+
+</details>
 
 </details>
 
@@ -703,7 +805,11 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 <summary>Mentored (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:06:59](/episodes/ep-ti5Fxrvegno.md#t-00-06-20): "Josh Hammer is brilliant. ... He was a mentor somehow to Charlie (Charlie Kirk) when it came to debating"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:06:59](/episodes/ep-ti5Fxrvegno.md#t-00-06-20): “Josh Hammer is brilliant. ... He was a mentor somehow to Charlie (Charlie Kirk) when it came to debating”
+
+</details>
 
 </details>
 
@@ -711,9 +817,13 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 <summary>Met With (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:39:56](/episodes/ep-CEF7gQRWYCE.md#t-00-39-33): "which would have been 554 p.m., 6 o'clock p.m., Josh Hammer and this rabbi that literally is based in Israel have a Zoom call with Charlie."
-  - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:23:21](/episodes/ep-DYD_QHMPwqM.md#t-00-23-11): "Charlie (Charlie Kirk) texted both Andrew Kolvet and Dan Flood ... after he then had to have this call with a rabbi ... while the rabbi was in Israel and Josh Hammer"
-  - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:07:51](/episodes/ep-ti5Fxrvegno.md#t-00-07-26): "Charlie (Charlie Kirk) concludes this call with Josh (Josh Hammer) and the rabbi"
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:39:56](/episodes/ep-CEF7gQRWYCE.md#t-00-39-33): “which would have been 554 p.m., 6 o'clock p.m., Josh Hammer and this rabbi that literally is based in Israel have a Zoom call with Charlie.”
+- [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:23:21](/episodes/ep-DYD_QHMPwqM.md#t-00-23-11): “Charlie (Charlie Kirk) texted both Andrew Kolvet and Dan Flood ... after he then had to have this call with a rabbi ... while the rabbi was in Israel and Josh Hammer”
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:07:51](/episodes/ep-ti5Fxrvegno.md#t-00-07-26): “Charlie (Charlie Kirk) concludes this call with Josh (Josh Hammer) and the rabbi”
+
+</details>
 
 </details>
 
@@ -721,7 +831,11 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 <summary>Sued (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:08:43](/episodes/ep-c5BcKF91iec.md#t-00-08-40): "Also, I wanna shout out John Miller on X. He made me laugh. I mean, I was really laughing when I saw his tweet about Josh Hammer threatening to sue me."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:08:43](/episodes/ep-c5BcKF91iec.md#t-00-08-40): “Also, I wanna shout out John Miller on X. He made me laugh. I mean, I was really laughing when I saw his tweet about Josh Hammer threatening to sue me.”
+
+</details>
 
 </details>
 
@@ -729,10 +843,18 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 <summary>Works For (2)</summary>
 
 - **[Newsweek](/entities/org-newsweek.md)**
-  - [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:49:38](/episodes/ep-iHav0PPzUz8.md#t-00-49-33): "Josh Hammer is actually the editor at large at Newsweek."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:49:38](/episodes/ep-iHav0PPzUz8.md#t-00-49-33): “Josh Hammer is actually the editor at large at Newsweek.”
+
+</details>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
-  - [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 00:15:43](/episodes/ep-2Riv3I7D0Yk.md#t-00-15-07): "He was at one point the editor-at-large of the Daily Wire"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 00:15:43](/episodes/ep-2Riv3I7D0Yk.md#t-00-15-07): “He was at one point the editor-at-large of the Daily Wire”
+
+</details>
 
 </details>
 
@@ -740,43 +862,92 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 <summary>Referenced By (12)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:10:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-10-25)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:10:47](/episodes/ep-ewBzjVe3LNQ.md#t-00-10-25): “God doesn't want you to follow Tucker Carlson on Instagram. Josh Hammer is amazing. Candace is possessed by a demon.”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** criticized by this
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58): “What I also don't like are the people like Josh Hammer and Seth Dillon, people that I know who are very nasty and work behind the scenes. I don't like that they have not yet been honest or forthcoming about the pressure that they and others were putting on Charlie (Charlie Kirk).”
+
+</details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** criticized by this
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:34:59](/episodes/ep-YFmRH8p5lt0.md#t-00-34-46)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:34:59](/episodes/ep-YFmRH8p5lt0.md#t-00-34-46): “Josh Hammer is angry.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:23](/episodes/ep-6J6lRZPQ4jk.md#t-00-41-45)
-  - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:39:33](/episodes/ep-CEF7gQRWYCE.md#t-00-39-29)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:42:23](/episodes/ep-6J6lRZPQ4jk.md#t-00-41-45): “Josh (Josh Hammer) explicitly lied about Charlie's state of mind. He went on multiple podcasts. He called me a liar.”
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:39:33](/episodes/ep-CEF7gQRWYCE.md#t-00-39-29): “Candace Owens sees on this totally out of context screenshot of Charlie Kirk being very upset that a Jewish donor was withholding his ... And she used this as an attempt to say, oh, Josh Hammer is lying, that Charlie Kirk remained pro-Israel until his final moments.”
+
+</details>
 
 - **[Dave Smith](/entities/person-dave-smith.md)** debated this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:58](/episodes/ep-his-JBjlkh8.md#t-00-03-40)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:58](/episodes/ep-his-JBjlkh8.md#t-00-03-40): “"he hosted Dave Smith, who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer,"”
+
+</details>
 
 - **[Newsweek](/entities/org-newsweek.md)** employs this
-  - [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:49:38](/episodes/ep-iHav0PPzUz8.md#t-00-49-33)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:49:38](/episodes/ep-iHav0PPzUz8.md#t-00-49-33): “Josh Hammer is actually the editor at large at Newsweek.”
+
+</details>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** employs this
-  - [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 00:15:43](/episodes/ep-2Riv3I7D0Yk.md#t-00-15-07)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 00:15:43](/episodes/ep-2Riv3I7D0Yk.md#t-00-15-07): “He was at one point the editor-at-large of the Daily Wire”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:13](/episodes/ep-ja26iltROkM.md#t-00-29-48)
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:18](/episodes/ep-ja26iltROkM.md#t-00-29-48)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:13](/episodes/ep-ja26iltROkM.md#t-00-29-48): “I'm going to guess it's either Seth Dillon or Josh Hammer...these messages...a close friend of Charlie Kirk shared these messages”
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:18](/episodes/ep-ja26iltROkM.md#t-00-29-48): “I'm going to guess it's either Seth Dillon or Josh Hammer [as Charlie's close friend who shared the messages]”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** mentored by this
-  - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:06:59](/episodes/ep-ti5Fxrvegno.md#t-00-06-20)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:06:59](/episodes/ep-ti5Fxrvegno.md#t-00-06-20): “Josh Hammer is brilliant. ... He was a mentor somehow to Charlie (Charlie Kirk) when it came to debating”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** met with this
-  - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:39:56](/episodes/ep-CEF7gQRWYCE.md#t-00-39-33)
-  - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:23:21](/episodes/ep-DYD_QHMPwqM.md#t-00-23-11)
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:39:56](/episodes/ep-CEF7gQRWYCE.md#t-00-39-33): “which would have been 554 p.m., 6 o'clock p.m., Josh Hammer and this rabbi that literally is based in Israel have a Zoom call with Charlie.”
+- [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:23:21](/episodes/ep-DYD_QHMPwqM.md#t-00-23-11): “Charlie (Charlie Kirk) texted both Andrew Kolvet and Dan Flood ... after he then had to have this call with a rabbi ... while the rabbi was in Israel and Josh Hammer”
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:07:51](/episodes/ep-ti5Fxrvegno.md#t-00-07-26): “Charlie (Charlie Kirk) concludes this call with Josh (Josh Hammer) and the rabbi”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** sued by this
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:08:43](/episodes/ep-c5BcKF91iec.md#t-00-08-40)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:08:43](/episodes/ep-c5BcKF91iec.md#t-00-08-40): “Also, I wanna shout out John Miller on X. He made me laugh. I mean, I was really laughing when I saw his tweet about Josh Hammer threatening to sue me.”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** target of criticism from this
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58): “What I also don't like are the people like Josh Hammer and Seth Dillon, people that I know who are very nasty and work behind the scenes. I don't like that they have not yet been honest or forthcoming about the pressure that they and others were putting on Charlie (Charlie Kirk).”
+
+</details>
 
 </details>
 

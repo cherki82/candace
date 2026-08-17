@@ -17,14 +17,136 @@ _Type: People_
 
 **Categories:** United States politics, former head of state
 
+> **Possibly overlapping entity records:** [John Kennedy](/entities/person-john-kennedy-louisiana). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > Official presidential biography confirms canonical name.
 Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-the-white-house/presidents/john-f-kennedy/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-john-f-kennedy-t-00-00-55">2025-09-19 · 00:01:25</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-john-f-kennedy-t-00-37-25">2026-08-14 · 00:37:25</a></strong></div>
+<div><span>Episodes</span><strong>36</strong></div>
+<div><span>Mentions</span><strong>72</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-john-f-kennedy-t-00-01-20">Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276</a> (14 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-john-f-kennedy-t-00-00-55" style="--pulse-height:8%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-person-john-f-kennedy-t-00-56-30" style="--pulse-height:8%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-john-f-kennedy-t-00-30-03" style="--pulse-height:8%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 1 mentions" title="2025-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-john-f-kennedy-t-00-27-09" style="--pulse-height:8%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 1 mentions" title="2025-09-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#t-00-43-43" style="--pulse-height:8%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-john-f-kennedy-t-00-27-37" style="--pulse-height:21%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 3 mentions" title="2025-10-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-person-john-f-kennedy-t-00-29-05" style="--pulse-height:8%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-person-john-f-kennedy-t-00-34-55" style="--pulse-height:8%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-john-f-kennedy-t-00-19-31" style="--pulse-height:14%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 2 mentions" title="2025-10-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-person-john-f-kennedy-t-00-05-52" style="--pulse-height:21%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 3 mentions" title="2025-10-27 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-john-f-kennedy-t-00-30-02" style="--pulse-height:21%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 3 mentions" title="2025-10-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-john-f-kennedy-t-00-10-16" style="--pulse-height:8%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-john-f-kennedy-t-01-02-42" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-john-f-kennedy-t-00-35-39" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-john-f-kennedy-t-00-59-18" style="--pulse-height:8%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-john-f-kennedy-t-00-18-12" style="--pulse-height:8%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-john-f-kennedy-t-00-00-00" style="--pulse-height:8%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-person-john-f-kennedy-t-00-50-03" style="--pulse-height:8%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#t-00-05-02" style="--pulse-height:8%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-person-john-f-kennedy-t-00-41-15" style="--pulse-height:8%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-john-f-kennedy-t-00-47-54" style="--pulse-height:14%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-john-f-kennedy-t-00-01-20" style="--pulse-height:100%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 14 mentions" title="2025-12-08 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-john-f-kennedy-t-00-55-37" style="--pulse-height:43%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 6 mentions" title="2025-12-17 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-john-f-kennedy-t-00-57-56" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-john-f-kennedy-t-00-52-31" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-john-f-kennedy-t-00-53-21" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-john-f-kennedy-t-00-01-25" style="--pulse-height:29%" aria-label="A Legal Turning Point? | Candace Ep 292: 4 mentions" title="2026-01-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-john-f-kennedy-t-00-18-46" style="--pulse-height:14%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-person-john-f-kennedy-t-00-43-34" style="--pulse-height:8%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-john-f-kennedy-t-00-12-00" style="--pulse-height:29%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 4 mentions" title="2026-01-29 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-person-john-f-kennedy-t-00-52-58" style="--pulse-height:8%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-john-f-kennedy-t-00-20-48" style="--pulse-height:8%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-john-f-kennedy-t-00-15-44" style="--pulse-height:21%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 3 mentions" title="2026-02-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-john-f-kennedy-t-00-13-33" style="--pulse-height:8%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-john-f-kennedy-t-00-08-24" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-john-f-kennedy-t-00-37-25" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-john-f-kennedy-t-00-00-55) | 1 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-person-john-f-kennedy-t-00-56-30) | 1 |
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-person-john-f-kennedy-t-00-30-03) | 1 |
+| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-person-john-f-kennedy-t-00-27-09) | 1 |
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#t-00-43-43) | 1 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-john-f-kennedy-t-00-27-37) | 3 |
+| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-person-john-f-kennedy-t-00-29-05) | 1 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-john-f-kennedy-t-00-34-55) | 1 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-john-f-kennedy-t-00-19-31) | 2 |
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-person-john-f-kennedy-t-00-05-52) | 3 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-john-f-kennedy-t-00-30-02) | 3 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-john-f-kennedy-t-00-10-16) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-john-f-kennedy-t-01-02-42) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-john-f-kennedy-t-00-35-39) | 1 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-john-f-kennedy-t-00-59-18) | 1 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-john-f-kennedy-t-00-18-12) | 1 |
+| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-person-john-f-kennedy-t-00-00-00) | 1 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-john-f-kennedy-t-00-50-03) | 1 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#t-00-05-02) | 1 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-john-f-kennedy-t-00-41-15) | 1 |
+| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-person-john-f-kennedy-t-00-47-54) | 2 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-john-f-kennedy-t-00-01-20) | 14 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-john-f-kennedy-t-00-55-37) | 6 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-john-f-kennedy-t-00-57-56) | 1 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-john-f-kennedy-t-00-52-31) | 1 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-john-f-kennedy-t-00-53-21) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-john-f-kennedy-t-00-01-25) | 4 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-john-f-kennedy-t-00-18-46) | 2 |
+| 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-person-john-f-kennedy-t-00-43-34) | 1 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-john-f-kennedy-t-00-12-00) | 4 |
+| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-john-f-kennedy-t-00-52-58) | 1 |
+| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-john-f-kennedy-t-00-20-48) | 1 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-john-f-kennedy-t-00-15-44) | 3 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-john-f-kennedy-t-00-13-33) | 1 |
+| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-john-f-kennedy-t-00-08-24) | 1 |
+| 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-john-f-kennedy-t-00-37-25) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (72)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
+
+**[00:37:25](/episodes/ep-nPhCKwJ6ye8.md#ent-person-john-f-kennedy-t-00-37-25)**
+> "...le after the assassination of JFK. So it's not exactly one that makes me nervous li..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1 mentions)</summary>
+
+**[00:08:43](/episodes/ep-jTj9Ip46r4w.md#ent-person-john-f-kennedy-t-00-08-24)**
+> "...e Lyndon Baines Johnson loved JFK. No time to grieve. She needed to be sworn in as ..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1 mentions)</summary>
+
+**[00:13:42](/episodes/ep-ZAsV0fHGBiM.md#ent-person-john-f-kennedy-t-00-13-33)**
+> "...ld after the assassination of JFK."
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (3 mentions)</summary>
@@ -231,10 +353,7 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 </details>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
-
-**[00:50:21](/episodes/ep-581dILVcEE4.md#ent-person-john-f-kennedy-t-00-50-03)**
-> "JFK tried to make Israel follow FARA before being shot"
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1 mentions)</summary>
 
 **[00:50:21](/episodes/ep-581dILVcEE4.md#ent-person-john-f-kennedy-t-00-50-03)**
 > "Don't forget that when JFK tried to put an end to that—well, I guess rather ..."
@@ -290,10 +409,7 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
-
-**[00:30:46](/episodes/ep-Cq7nj9rxPdo.md#ent-person-john-f-kennedy-t-00-30-02)**
-> "military industrial complex that shot JFK to maintain power"
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3 mentions)</summary>
 
 **[00:30:46](/episodes/ep-Cq7nj9rxPdo.md#ent-person-john-f-kennedy-t-00-30-02)**
 > "... industrial complex that shot JFK to maintain power—has created a veneer of reality..."
@@ -370,13 +486,10 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 </details>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (2 mentions)</summary>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (1 mentions)</summary>
 
 **[00:27:09](/episodes/ep-QZWSsq8ZWzw.md#ent-person-john-f-kennedy-t-00-27-09)**
 > "...ht from what they did to when JFK was assassinated, where the feds are obscuring. T..."
-
-**[00:27:27](/episodes/ep-QZWSsq8ZWzw.md#ent-person-john-f-kennedy-t-00-27-09)**
-> "when JFK was assassinated"
 
 </details>
 
@@ -413,7 +526,11 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 <summary>Accused By (1)</summary>
 
 - **[Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson.md)**
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:02:12](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46): "definitely, Lyndon Baines Johnson and parts of our own government and the Cubans wanted him dead."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:02:12](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46): “definitely, Lyndon Baines Johnson and parts of our own government and the Cubans wanted him dead.”
+
+</details>
 
 </details>
 
@@ -421,14 +538,26 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 <summary>Referenced By (1)</summary>
 
 - **[Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson.md)** accused this
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:02:12](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:02:12](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46): “definitely, Lyndon Baines Johnson and parts of our own government and the Cubans wanted him dead.”
+
+</details>
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about John F. Kennedy (6)</strong></summary>
+<summary><strong class="section-title">Statements about John F. Kennedy (7)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1)</summary>
+
+- [00:13:38](/episodes/ep-ZAsV0fHGBiM.md#t-00-13-33) (Accusation) **Candace Owens**: ["The Manson murders and the events of the 1960s were the U.S. governmen..."](/statements/statement-58c0cd378779.md)
+  - Also about: [Charles Manson](/entities/person-charles-manson.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (1)</summary>

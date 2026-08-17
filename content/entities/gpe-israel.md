@@ -1,6 +1,6 @@
 ---
 title: "Israel"
-description: "Israel (Places) - 891 mentions"
+description: "Israel (Places) - 937 mentions"
 id: "gpe-israel"
 type: "GPE"
 aliases:
@@ -23,10 +23,354 @@ _Type: Places_
 > United Nations member-state list confirms the canonical country name.
 Source: [Member States - United Nations](https://www.un.org/en/about-us/member-states)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-israel-t-00-13-27">2025-09-11 · 00:13:27</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-03-57-56">2026-08-14 · 03:58:04</a></strong></div>
+<div><span>Episodes</span><strong>73</strong></div>
+<div><span>Mentions</span><strong>937</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>136</strong></div>
+<div><span>Relationships</span><strong>24</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-israel-t-00-00-00">Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250</a> (57 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-israel-t-00-13-27" style="--pulse-height:8%" aria-label="To My Friend, Charlie Kirk.: 2 mentions" title="2025-09-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-gpe-israel-t-00-07-17" style="--pulse-height:75%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 43 mentions" title="2025-09-15 · 43 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-israel-t-00-40-20" style="--pulse-height:51%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 29 mentions" title="2025-09-16 · 29 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-gpe-israel-t-00-43-13" style="--pulse-height:18%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 10 mentions" title="2025-09-17 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-israel-t-00-33-10" style="--pulse-height:23%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 13 mentions" title="2025-09-18 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-gpe-israel-t-00-14-06" style="--pulse-height:33%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 19 mentions" title="2025-09-19 · 19 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-gpe-israel-t-00-29-48" style="--pulse-height:25%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 14 mentions" title="2025-09-22 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-gpe-israel-t-00-00-32" style="--pulse-height:16%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 9 mentions" title="2025-09-23 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-gpe-israel-t-00-01-27" style="--pulse-height:16%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 9 mentions" title="2025-09-25 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-gpe-israel-t-00-00-01" style="--pulse-height:35%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 20 mentions" title="2025-09-30 · 20 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-israel-t-00-26-38" style="--pulse-height:39%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 22 mentions" title="2025-10-01 · 22 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-israel-t-00-07-42" style="--pulse-height:12%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 7 mentions" title="2025-10-02 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-gpe-israel-t-00-12-17" style="--pulse-height:32%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 18 mentions" title="2025-10-06 · 18 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-gpe-israel-t-00-06-51" style="--pulse-height:32%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 18 mentions" title="2025-10-07 · 18 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-israel-t-00-00-00" style="--pulse-height:100%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 57 mentions" title="2025-10-08 · 57 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-israel-t-00-30-49" style="--pulse-height:33%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 19 mentions" title="2025-10-09 · 19 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-gpe-israel-t-00-33-21" style="--pulse-height:9%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 5 mentions" title="2025-10-27 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-israel-t-00-20-40" style="--pulse-height:14%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 8 mentions" title="2025-10-28 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-gpe-israel-t-00-11-50" style="--pulse-height:25%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 14 mentions" title="2025-10-29 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-israel-t-00-28-43" style="--pulse-height:25%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 14 mentions" title="2025-10-30 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-israel-t-00-08-14" style="--pulse-height:49%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 28 mentions" title="2025-10-31 · 28 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-gpe-israel-t-00-01-30" style="--pulse-height:37%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 21 mentions" title="2025-11-03 · 21 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-israel-t-00-16-17" style="--pulse-height:39%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 22 mentions" title="2025-11-04 · 22 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-gpe-israel-t-00-11-48" style="--pulse-height:63%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 36 mentions" title="2025-11-05 · 36 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-israel-t-00-59-48" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-gpe-israel-t-00-01-26" style="--pulse-height:56%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 32 mentions" title="2025-11-08 · 32 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-israel-t-00-24-13" style="--pulse-height:9%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 5 mentions" title="2025-11-10 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-israel-t-00-08-59" style="--pulse-height:26%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 15 mentions" title="2025-11-12 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-israel-t-00-31-29" style="--pulse-height:12%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 7 mentions" title="2025-11-13 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-israel-t-00-03-30" style="--pulse-height:8%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 4 mentions" title="2025-11-15 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-israel-t-00-08-30" style="--pulse-height:14%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 8 mentions" title="2025-11-17 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-gpe-israel-t-00-00-00" style="--pulse-height:18%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 10 mentions" title="2025-11-18 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-israel-t-00-43-44" style="--pulse-height:11%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 6 mentions" title="2025-11-19 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-israel-t-00-06-16" style="--pulse-height:8%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 2 mentions" title="2025-11-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-israel-t-00-24-49" style="--pulse-height:32%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 18 mentions" title="2025-11-21 · 18 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-israel-t-00-03-07" style="--pulse-height:30%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 17 mentions" title="2025-12-01 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-israel-t-00-15-27" style="--pulse-height:14%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 8 mentions" title="2025-12-02 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-gpe-israel-t-00-11-15" style="--pulse-height:9%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 5 mentions" title="2025-12-03 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-israel-t-00-47-54" style="--pulse-height:8%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-israel-t-00-01-46" style="--pulse-height:11%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 6 mentions" title="2025-12-08 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-israel-t-00-35-36" style="--pulse-height:16%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 9 mentions" title="2025-12-09 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-israel-t-00-36-57" style="--pulse-height:8%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-israel-t-00-10-29" style="--pulse-height:8%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 4 mentions" title="2025-12-12 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-gpe-israel-t-00-00-00" style="--pulse-height:25%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 14 mentions" title="2025-12-16 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-israel-t-00-48-20" style="--pulse-height:8%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-israel-t-00-00-42" style="--pulse-height:23%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 13 mentions" title="2025-12-20 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-israel-t-00-53-58" style="--pulse-height:12%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 7 mentions" title="2026-01-05 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-israel-t-00-55-24" style="--pulse-height:8%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-israel-t-00-34-01" style="--pulse-height:23%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 13 mentions" title="2026-01-09 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-israel-t-00-00-45" style="--pulse-height:26%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 15 mentions" title="2026-01-12 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-03-11" style="--pulse-height:21%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 12 mentions" title="2026-01-13 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-gpe-israel-t-00-43-45" style="--pulse-height:9%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 5 mentions" title="2026-01-14 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-israel-t-00-37-15" style="--pulse-height:9%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 5 mentions" title="2026-01-16 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-israel-t-00-18-05" style="--pulse-height:25%" aria-label="Myron Gaines x Candace Owens: 14 mentions" title="2026-01-16 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-israel-t-00-02-06" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 4 mentions" title="2026-01-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-israel-t-00-29-10" style="--pulse-height:11%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 6 mentions" title="2026-01-20 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-gpe-israel-t-00-17-50" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-israel-t-00-02-39" style="--pulse-height:21%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 12 mentions" title="2026-01-22 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-israel-t-00-39-08" style="--pulse-height:12%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 7 mentions" title="2026-01-27 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-israel-t-00-04-19" style="--pulse-height:11%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 6 mentions" title="2026-01-28 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-israel-t-00-04-20" style="--pulse-height:98%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 56 mentions" title="2026-01-29 · 56 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-gpe-israel-t-00-32-43" style="--pulse-height:8%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 2 mentions" title="2026-01-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-israel-t-00-09-42" style="--pulse-height:30%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 17 mentions" title="2026-02-02 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-israel-t-00-02-20" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-israel-t-00-23-11" style="--pulse-height:8%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 3 mentions" title="2026-02-04 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-gpe-israel-t-00-15-54" style="--pulse-height:11%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 6 mentions" title="2026-02-05 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-gpe-israel-t-00-28-49" style="--pulse-height:28%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 16 mentions" title="2026-02-09 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-gpe-israel-t-00-05-37" style="--pulse-height:30%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 17 mentions" title="2026-02-10 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-israel-t-00-00-01" style="--pulse-height:16%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 9 mentions" title="2026-02-11 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-israel-t-00-39-57" style="--pulse-height:8%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-israel-t-00-01-21" style="--pulse-height:9%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 5 mentions" title="2026-03-02 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-israel-t-00-35-26" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 4 mentions" title="2026-03-03 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-00-28-12" style="--pulse-height:68%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 39 mentions" title="2026-08-14 · 39 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-11 | [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md#ent-gpe-israel-t-00-13-27) | 2 |
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-gpe-israel-t-00-07-17) | 43 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-gpe-israel-t-00-40-20) | 29 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-israel-t-00-43-13) | 10 |
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-gpe-israel-t-00-33-10) | 13 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-israel-t-00-14-06) | 19 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-gpe-israel-t-00-29-48) | 14 |
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-gpe-israel-t-00-00-32) | 9 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-gpe-israel-t-00-01-27) | 9 |
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-israel-t-00-00-01) | 20 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-gpe-israel-t-00-26-38) | 22 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-israel-t-00-07-42) | 7 |
+| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-gpe-israel-t-00-12-17) | 18 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-gpe-israel-t-00-06-51) | 18 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-israel-t-00-00-00) | 57 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-israel-t-00-30-49) | 19 |
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-gpe-israel-t-00-33-21) | 5 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-israel-t-00-20-40) | 8 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-israel-t-00-11-50) | 14 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-israel-t-00-28-43) | 14 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-israel-t-00-08-14) | 28 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-israel-t-00-01-30) | 21 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-israel-t-00-16-17) | 22 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-gpe-israel-t-00-11-48) | 36 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-israel-t-00-59-48) | 2 |
+| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-gpe-israel-t-00-01-26) | 32 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-israel-t-00-24-13) | 5 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-israel-t-00-08-59) | 15 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-israel-t-00-31-29) | 7 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-israel-t-00-03-30) | 4 |
+| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-israel-t-00-08-30) | 8 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-gpe-israel-t-00-00-00) | 10 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-israel-t-00-43-44) | 6 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-israel-t-00-06-16) | 2 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-israel-t-00-24-49) | 18 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-israel-t-00-03-07) | 17 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-israel-t-00-15-27) | 8 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-gpe-israel-t-00-11-15) | 5 |
+| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-israel-t-00-47-54) | 2 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-israel-t-00-01-46) | 6 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-israel-t-00-35-36) | 9 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-israel-t-00-36-57) | 3 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-israel-t-00-10-29) | 4 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-gpe-israel-t-00-00-00) | 14 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-gpe-israel-t-00-48-20) | 2 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-israel-t-00-00-42) | 13 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-israel-t-00-53-58) | 7 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-israel-t-00-55-24) | 1 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-israel-t-00-34-01) | 13 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-israel-t-00-00-45) | 15 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-03-11) | 12 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-gpe-israel-t-00-43-45) | 5 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-israel-t-00-37-15) | 5 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-israel-t-00-18-05) | 14 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-israel-t-00-02-06) | 4 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-israel-t-00-29-10) | 6 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-gpe-israel-t-00-17-50) | 1 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-israel-t-00-02-39) | 12 |
+| 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-gpe-israel-t-00-39-08) | 7 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-israel-t-00-04-19) | 6 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-israel-t-00-04-20) | 56 |
+| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-gpe-israel-t-00-32-43) | 2 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-israel-t-00-09-42) | 17 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-israel-t-00-02-20) | 2 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-israel-t-00-23-11) | 3 |
+| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-israel-t-00-15-54) | 6 |
+| 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-gpe-israel-t-00-28-49) | 16 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-gpe-israel-t-00-05-37) | 17 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-israel-t-00-00-01) | 9 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-israel-t-00-39-57) | 2 |
+| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-israel-t-00-01-21) | 5 |
+| 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-gpe-israel-t-00-35-26) | 4 |
+| 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-00-28-12) | 39 |
+
+</details>
+</section>
+
+## Reviewed theory threads
+
+- [How the Hamptons retreat was characterized](/threads/thread-hamptons-retreat-characterization) — Tracks competing on-channel descriptions of the August 2025 Hamptons retreat: first as an intervention over Israel, then as a debate workshop, and later as a retreat convened by Charlie Kirk.
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (937)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (39 mentions)</summary>
+
+**[00:28:21](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-00-28-12)**
+> "... the conspiracy verse is that Israel worked with the United States government to murde..."
+
+**[00:28:29](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-00-28-12)**
+> "...ath, Ian Carroll claimed that Israel killed Charlie Kirk."
+
+**[00:28:54](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-00-28-54)**
+> "it was speculated that Israel killed Charlie Kirk because he would have success..."
+
+**[00:29:06](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-00-28-54)**
+> "But there is no evidence that Israel actually killed Charlie Kirk."
+
+**[00:35:32](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-00-35-32)**
+> "...nd remember how much he loved Israel. It's because the prime minister of Israel who's ..."
+
+**[00:36:07](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-00-36-07)**
+> "changing on Israel that he wasn't having any disagreements regarding..."
+
+**[00:36:56](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-00-36-46)**
+> "...examine our relationship with Israel."
+
+**[02:23:17](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-23-17)**
+> "...e times that you believe that Israel's involved."
+
+**[02:23:28](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-23-28)**
+> "...peaking why people think that Israel's involved?"
+
+**[02:23:36](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-23-36)**
+> "...tive evidence whatsoever that Israel killed Charlie Kirk?"
+
+**[02:23:41](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-23-41)**
+> "Well, I couldn't say Israel was on the ground and shot and killed Charlie Kir..."
+
+**[02:24:34](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-24-26)**
+> "Why people find Israel to be an interesting question is because truthful..."
+
+**[02:25:10](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-25-10)**
+> "...ngs, do you have any evidence Israel was"
+
+**[02:25:16](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-25-16)**
+> "...ral sense of why people think Israel's involved."
+
+**[02:25:23](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-25-16)**
+> "That is Israelis."
+
+**[02:25:29](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-25-29)**
+> "... it, noted that there were 12 Israeli cell phones on the ground that day. I think most ..."
+
+**[02:25:38](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-25-29)**
+> "...ents, you know, and they were Israeli students in Utah that day."
+
+**[02:25:44](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-25-29)**
+> "...ve seen after coming from the Israeli government,"
+
+**[02:26:04](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-26-04)**
+> "...t Charlie shifting opinion on Israel lead us to believe that there could be an Israeli..."
+
+**[02:26:16](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-26-04)**
+> "that Israel called the shots and this is how it happens."
+
+**[02:26:47](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-26-33)**
+> "...e way they tried to shove the Israel narrative down our throat immediately, I mean, th..."
+
+**[02:27:34](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-27-25)**
+> "... said she has full confidence Israel was involved."
+
+**[02:28:08](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-27-56)**
+> "Ink, France, and Israel are involved in Charlie Kirk's assassination."
+
+**[02:28:23](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-28-23)**
+> "I think Israel's"
+
+**[02:28:24](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-28-24)**
+> "and involved. Israel,"
+
+**[02:29:13](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-29-13)**
+> "I think that Israel."
+
+**[02:29:55](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-29-42)**
+> "... I'm asking if you think that Israel and France were involved in the assassination of ..."
+
+**[02:31:06](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-31-06)**
+> "...beginning of this why I think Israel is ultimately going to be proven to have involvem..."
+
+**[02:31:37](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-31-37)**
+> "Israel and France were involved in the most traumatic pu..."
+
+**[02:33:00](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-33-00)**
+> "...ll confidence that France and Israel were involved in the assassination of Charlie Kir..."
+
+**[02:36:39](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-36-39)**
+> "...y to the French government or Israel's involvement in the killing"
+
+**[02:36:48](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-36-48)**
+> "That wasn't about Israel."
+
+**[02:37:13](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-37-13)**
+> "...e that somebody told you that Israel was involved in the assassination of Charlie Kirk..."
+
+**[02:37:26](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-37-26)**
+> "we are going to find that Israel was involved. I do."
+
+**[02:38:56](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-38-52)**
+> "...saying he was leaving the pro israel cause when everyone was lying about that then the..."
+
+**[03:07:58](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-03-07-58)**
+> "...s a lot of if you look at the Israeli pagers, it's assumed that it's a similar,"
+
+**[03:56:44](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-03-56-36)**
+> "She had no positive evidence Israel's involved in anything."
+
+**[03:58:04](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-03-57-56)**
+> "...o make these bold claims that Israel's involved and France is involved and all these dif..."
+
+**[02:25:09](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-25-09)**
+> "So it. He then loved other Israel."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (4 mentions)</summary>
+
+**[00:36:01](/episodes/ep-2tFYJf1klgY.md#ent-gpe-israel-t-00-35-26)**
+> "...e Kirk) was at the airport in Israel."
+
+**[00:44:48](/episodes/ep-2tFYJf1klgY.md#ent-gpe-israel-t-00-44-48)**
+> "... Charlie (Charlie Kirk) loves Israel."
+
+**[00:45:05](/episodes/ep-2tFYJf1klgY.md#ent-gpe-israel-t-00-44-48)**
+> "... Charlie (Charlie Kirk) loved Israel."
+
+**[00:49:29](/episodes/ep-2tFYJf1klgY.md#ent-gpe-israel-t-00-49-29)**
+> "...cron) was a man and she loved Israel."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (5 mentions)</summary>
+
+**[00:01:37](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-israel-t-00-01-21)**
+> "this American support behind Israel. That was their plan. That's why Bibi (Benjamin N..."
+
+**[00:11:25](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-israel-t-00-10-59)**
+> "And Zion's Gate in Israel is his family's dedication, not Erica (Erika Kirk..."
+
+**[00:28:11](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-israel-t-00-27-38)**
+> "That the people that live in Israel right now are the Khazarian mafia. They call that..."
+
+**[00:28:15](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-israel-t-00-28-15)**
+> "...ad books that were printed in Israel by the Israelis, they themselves declared that th..."
+
+**[00:52:28](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-israel-t-00-52-11)**
+> "...m. That is not selling out to Israel or to anyone, not to the MAGA party, not to the n..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (2 mentions)</summary>
+
+**[00:40:06](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-israel-t-00-39-57)**
+> "Meet Darla (Romanian Israeli woman; surname unverified),"
+
+**[00:40:07](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-israel-t-00-39-57)**
+> "a Romanian Jew that now calls Israel home."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (9 mentions)</summary>
@@ -954,10 +1298,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (5 mentions)</summary>
-
-**[00:10:49](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-israel-t-00-10-29)**
-> "Charlie never wavered in his support for Israel"
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (4 mentions)</summary>
 
 **[00:10:45](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-israel-t-00-10-29)**
 > "...er wavered in his support for Israel was a nasty lie."
@@ -1043,10 +1384,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (3 mentions)</summary>
-
-**[00:48:33](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-israel-t-00-47-54)**
-> "He authentically loved Israel."
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2 mentions)</summary>
 
 **[00:48:33](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-israel-t-00-47-54)**
 > "...I get what you are saying." And Charlie (Charlie Kirk) was always authentic. He authentically loved Israel. And then he authentically had questions after October 7th. And then he was authentically angry and..."
@@ -1162,16 +1500,13 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (19 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (18 mentions)</summary>
 
 **[00:25:15](/episodes/ep-mKXdKV-OBog.md#ent-gpe-israel-t-00-24-49)**
 > "... gonna do whatever it is that they want. And they're just engaging in naked propaganda to serve the state of Israel. So let me show you a couple of these headlines. I guess let's start with Mike Huckabee. He is the ..."
 
 **[00:25:22](/episodes/ep-mKXdKV-OBog.md#ent-gpe-israel-t-00-24-49)**
 > "...ow you a couple of these headlines. I guess let's start with Mike Huckabee. He is the ambassador to Israel and apparently is completely shameless. Now just to go back—in case you missed it back in October—M..."
-
-**[00:25:25](/episodes/ep-mKXdKV-OBog.md#ent-gpe-israel-t-00-24-49)**
-> "Mike Huckabee is ambassador to Israel"
 
 **[00:25:28](/episodes/ep-mKXdKV-OBog.md#ent-gpe-israel-t-00-25-28)**
 > "...st to go back—in case you missed it back in October—Mike Huckabee and the former U.S. ambassador to Israel—which was David Friedman—took to the stage in Jerusalem to perform "Sweet Home Alabama." And by "Sw..."
@@ -1339,10 +1674,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (8 mentions)</summary>
-
-**[00:32:03](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-israel-t-00-31-29)**
-> "Not just in Israel and its long arm across the world."
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (7 mentions)</summary>
 
 **[00:32:03](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-israel-t-00-31-29)**
 > "...did not appreciate exactly how things were working—not just in the Epstein case, right? Not just in Israel and its long arm across the world. I told you Charlie (Charlie Kirk) was hitting at the Ukraine stu..."
@@ -3046,13 +3378,40 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Accused By (2)</summary>
+
+- **[Ian Carroll](/entities/person-ian-carroll.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 00:28:29](/episodes/ep-nPhCKwJ6ye8.md#t-00-28-12): “Within a day or two of Kirk's death, Day or two of Kirk's death, Ian Carroll claimed that Israel killed Charlie Kirk.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 02:28:08](/episodes/ep-nPhCKwJ6ye8.md#t-02-27-56): “How, why, Ink, France, and Israel are involved in Charlie Kirk's assassination. ... And I'm going to put that out there with full confidence. Okay. I Yeah. also involve him. I understand.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Has Ambassador From (2)</summary>
 
 - **[Mike Huckabee](/entities/person-mike-huckabee.md)**
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:25:22](/episodes/ep-mKXdKV-OBog.md#t-00-24-49): "Mike Huckabee is the ambassador to Israel"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:25:22](/episodes/ep-mKXdKV-OBog.md#t-00-24-49): “Mike Huckabee is the ambassador to Israel”
+
+</details>
 
 - **[David Friedman](/entities/person-david-friedman.md)**
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:25:39](/episodes/ep-mKXdKV-OBog.md#t-00-25-28): "David Friedman, the former U.S. ambassador to Israel"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:25:39](/episodes/ep-mKXdKV-OBog.md#t-00-25-28): “David Friedman, the former U.S. ambassador to Israel”
+
+</details>
 
 </details>
 
@@ -3060,7 +3419,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <summary>Member Of (1)</summary>
 
 - **[Safari Club](/entities/org-safari-club.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:13:29](/episodes/ep-tB5SXXmd9vU.md#t-00-13-15): "...Israel's involved, Rhodesia, South Africa."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:13:29](/episodes/ep-tB5SXXmd9vU.md#t-00-13-15): “...Israel's involved, Rhodesia, South Africa.”
+
+</details>
 
 </details>
 
@@ -3068,10 +3431,18 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <summary>Residence Of (2)</summary>
 
 - **[Ashley Reinsberg](/entities/person-ashley-reinsberg.md)**
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:31:40](/episodes/ep-mKXdKV-OBog.md#t-00-30-55): "Ashley Reinsberg, he happens to live in Tel Aviv"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:31:40](/episodes/ep-mKXdKV-OBog.md#t-00-30-55): “Ashley Reinsberg, he happens to live in Tel Aviv”
+
+</details>
 
 - **[Pesach Wolicki](/entities/person-pesach-wolicki.md)**
-  - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:06:06](/episodes/ep-ti5Fxrvegno.md#t-00-05-37): "Rabbi Wolicki (Rabbi Pesach Wolicki) lives in Israel."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:06:06](/episodes/ep-ti5Fxrvegno.md#t-00-05-37): “Rabbi Wolicki (Rabbi Pesach Wolicki) lives in Israel.”
+
+</details>
 
 </details>
 
@@ -3079,10 +3450,18 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <summary>Supported By (2)</summary>
 
 - **[Michele Bachmann](/entities/person-michele-bachmann.md)**
-  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:39:45](/episodes/ep-A39g5oqB_eM.md#t-00-39-08): "Right after him comes Michelle Bachmann. ... Michelle (Michelle Bachmann) has five minutes to make an argument for why we have to stand with Israel to these young people at TPUSA. ... When she starts talking in that conference about supporting Israel and why America should stand with Israel,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:39:45](/episodes/ep-A39g5oqB_eM.md#t-00-39-08): “Right after him comes Michelle Bachmann. ... Michelle (Michelle Bachmann) has five minutes to make an argument for why we have to stand with Israel to these young people at TPUSA. ... When she starts talking in that conference about supporting Israel and why America should stand with Israel,”
+
+</details>
 
 - **[Lindsey Graham](/entities/person-lindsey-graham.md)**
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:10:53](/episodes/ep-xjzb_t5Tk9o.md#t-01-10-43): "he's like terrifyingly supportive of Israel."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:10:53](/episodes/ep-xjzb_t5Tk9o.md#t-01-10-43): “he's like terrifyingly supportive of Israel.”
+
+</details>
 
 </details>
 
@@ -3090,57 +3469,151 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <summary>Target Of Criticism From (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Myron Gaines x Candace Owens @ 00:42:03](/episodes/ep-2T39-oADLj0.md#t-00-42-00): "between you tucker nick uh they're attacking all three of you guys saying oh you guys are anti-semites and you guys are pushing this whole thing and i and i give credit because you three have done an incredible job of you know awareing the american public on this topic uh when it comes to israel's control of the middle east what they're doing over there how they've been able to get away with this for so long killing people and no one knowing and you know they've been targeting you guys quite a bit uh and i see that you know there's been a bunch of drama with megan kelly and ben shapiro and everything else like that what are your thoughts on the entire on the situation because like you know anytime they mention dr you're right there right when it comes to the criticism of israel yeah"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:42:03](/episodes/ep-2T39-oADLj0.md#t-00-42-00): “between you tucker nick uh they're attacking all three of you guys saying oh you guys are anti-semites and you guys are pushing this whole thing and i and i give credit because you three have done an incredible job of you know awareing the american public on this topic uh when it comes to israel's control of the middle east what they're doing over there how they've been able to get away with this for so long killing people and no one knowing and you know they've been targeting you guys quite a bit uh and i see that you know there's been a bunch of drama with megan kelly and ben shapiro and everything else like that what are your thoughts on the entire on the situation because like you know anytime they mention dr you're right there right when it comes to the criticism of israel yeah”
+
+</details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-  - [Myron Gaines x Candace Owens @ 00:42:03](/episodes/ep-2T39-oADLj0.md#t-00-42-00): "between you tucker nick uh they're attacking all three of you guys saying oh you guys are anti-semites and you guys are pushing this whole thing and i and i give credit because you three have done an incredible job of you know awareing the american public on this topic uh when it comes to israel's control of the middle east what they're doing over there how they've been able to get away with this for so long killing people and no one knowing and you know they've been targeting you guys quite a bit uh and i see that you know there's been a bunch of drama with megan kelly and ben shapiro and everything else like that what are your thoughts on the entire on the situation because like you know anytime they mention dr you're right there right when it comes to the criticism of israel yeah"
-  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:39:08](/episodes/ep-A39g5oqB_eM.md#t-00-39-08): "crossing with his mocking voice and his mocking laughter they were horrified by what they saw I had three couples reach out to me who had been to the Turning Point USA conference and this was in Tampa a couple weeks ago they called me and said they were horrified by what they saw horrified they saw Tucker Carlson get up and act like ... condemning Israel, ... praising Qatar with his mocking voice and his mocking laughter."
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:42:03](/episodes/ep-2T39-oADLj0.md#t-00-42-00): “between you tucker nick uh they're attacking all three of you guys saying oh you guys are anti-semites and you guys are pushing this whole thing and i and i give credit because you three have done an incredible job of you know awareing the american public on this topic uh when it comes to israel's control of the middle east what they're doing over there how they've been able to get away with this for so long killing people and no one knowing and you know they've been targeting you guys quite a bit uh and i see that you know there's been a bunch of drama with megan kelly and ben shapiro and everything else like that what are your thoughts on the entire on the situation because like you know anytime they mention dr you're right there right when it comes to the criticism of israel yeah”
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:39:08](/episodes/ep-A39g5oqB_eM.md#t-00-39-08): “crossing with his mocking voice and his mocking laughter they were horrified by what they saw I had three couples reach out to me who had been to the Turning Point USA conference and this was in Tampa a couple weeks ago they called me and said they were horrified by what they saw horrified they saw Tucker Carlson get up and act like ... condemning Israel, ... praising Qatar with his mocking voice and his mocking laughter.”
+
+</details>
 
 - **[Nick Fuentes](/entities/person-nick-fuentes.md)**
-  - [Myron Gaines x Candace Owens @ 00:42:03](/episodes/ep-2T39-oADLj0.md#t-00-42-00): "between you tucker nick uh they're attacking all three of you guys saying oh you guys are anti-semites and you guys are pushing this whole thing and i and i give credit because you three have done an incredible job of you know awareing the american public on this topic uh when it comes to israel's control of the middle east what they're doing over there how they've been able to get away with this for so long killing people and no one knowing and you know they've been targeting you guys quite a bit uh and i see that you know there's been a bunch of drama with megan kelly and ben shapiro and everything else like that what are your thoughts on the entire on the situation because like you know anytime they mention dr you're right there right when it comes to the criticism of israel yeah"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:42:03](/episodes/ep-2T39-oADLj0.md#t-00-42-00): “between you tucker nick uh they're attacking all three of you guys saying oh you guys are anti-semites and you guys are pushing this whole thing and i and i give credit because you three have done an incredible job of you know awareing the american public on this topic uh when it comes to israel's control of the middle east what they're doing over there how they've been able to get away with this for so long killing people and no one knowing and you know they've been targeting you guys quite a bit uh and i see that you know there's been a bunch of drama with megan kelly and ben shapiro and everything else like that what are your thoughts on the entire on the situation because like you know anytime they mention dr you're right there right when it comes to the criticism of israel yeah”
+
+</details>
 
 </details>
 
 <details>
-<summary>Referenced By (10)</summary>
+<summary>Referenced By (12)</summary>
+
+- **[Ian Carroll](/entities/person-ian-carroll.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 00:28:29](/episodes/ep-nPhCKwJ6ye8.md#t-00-28-12): “Within a day or two of Kirk's death, Day or two of Kirk's death, Ian Carroll claimed that Israel killed Charlie Kirk.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 02:28:08](/episodes/ep-nPhCKwJ6ye8.md#t-02-27-56): “How, why, Ink, France, and Israel are involved in Charlie Kirk's assassination. ... And I'm going to put that out there with full confidence. Okay. I Yeah. also involve him. I understand.”
+
+</details>
 
 - **[Mike Huckabee](/entities/person-mike-huckabee.md)** ambassador to this
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:25:22](/episodes/ep-mKXdKV-OBog.md#t-00-24-49)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:25:22](/episodes/ep-mKXdKV-OBog.md#t-00-24-49): “Mike Huckabee is the ambassador to Israel”
+
+</details>
 
 - **[David Friedman](/entities/person-david-friedman.md)** ambassador to this
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:25:39](/episodes/ep-mKXdKV-OBog.md#t-00-25-28)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:25:39](/episodes/ep-mKXdKV-OBog.md#t-00-25-28): “David Friedman, the former U.S. ambassador to Israel”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** critic of this
-  - [Myron Gaines x Candace Owens @ 00:42:03](/episodes/ep-2T39-oADLj0.md#t-00-42-00)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:42:03](/episodes/ep-2T39-oADLj0.md#t-00-42-00): “between you tucker nick uh they're attacking all three of you guys saying oh you guys are anti-semites and you guys are pushing this whole thing and i and i give credit because you three have done an incredible job of you know awareing the american public on this topic uh when it comes to israel's control of the middle east what they're doing over there how they've been able to get away with this for so long killing people and no one knowing and you know they've been targeting you guys quite a bit uh and i see that you know there's been a bunch of drama with megan kelly and ben shapiro and everything else like that what are your thoughts on the entire on the situation because like you know anytime they mention dr you're right there right when it comes to the criticism of israel yeah”
+
+</details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** critic of this
-  - [Myron Gaines x Candace Owens @ 00:42:03](/episodes/ep-2T39-oADLj0.md#t-00-42-00)
-  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:39:08](/episodes/ep-A39g5oqB_eM.md#t-00-39-08)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:42:03](/episodes/ep-2T39-oADLj0.md#t-00-42-00): “between you tucker nick uh they're attacking all three of you guys saying oh you guys are anti-semites and you guys are pushing this whole thing and i and i give credit because you three have done an incredible job of you know awareing the american public on this topic uh when it comes to israel's control of the middle east what they're doing over there how they've been able to get away with this for so long killing people and no one knowing and you know they've been targeting you guys quite a bit uh and i see that you know there's been a bunch of drama with megan kelly and ben shapiro and everything else like that what are your thoughts on the entire on the situation because like you know anytime they mention dr you're right there right when it comes to the criticism of israel yeah”
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:39:08](/episodes/ep-A39g5oqB_eM.md#t-00-39-08): “crossing with his mocking voice and his mocking laughter they were horrified by what they saw I had three couples reach out to me who had been to the Turning Point USA conference and this was in Tampa a couple weeks ago they called me and said they were horrified by what they saw horrified they saw Tucker Carlson get up and act like ... condemning Israel, ... praising Qatar with his mocking voice and his mocking laughter.”
+
+</details>
 
 - **[Nick Fuentes](/entities/person-nick-fuentes.md)** critic of this
-  - [Myron Gaines x Candace Owens @ 00:42:03](/episodes/ep-2T39-oADLj0.md#t-00-42-00)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:42:03](/episodes/ep-2T39-oADLj0.md#t-00-42-00): “between you tucker nick uh they're attacking all three of you guys saying oh you guys are anti-semites and you guys are pushing this whole thing and i and i give credit because you three have done an incredible job of you know awareing the american public on this topic uh when it comes to israel's control of the middle east what they're doing over there how they've been able to get away with this for so long killing people and no one knowing and you know they've been targeting you guys quite a bit uh and i see that you know there's been a bunch of drama with megan kelly and ben shapiro and everything else like that what are your thoughts on the entire on the situation because like you know anytime they mention dr you're right there right when it comes to the criticism of israel yeah”
+
+</details>
 
 - **[Safari Club](/entities/org-safari-club.md)** has member this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:13:29](/episodes/ep-tB5SXXmd9vU.md#t-00-13-15)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:13:29](/episodes/ep-tB5SXXmd9vU.md#t-00-13-15): “...Israel's involved, Rhodesia, South Africa.”
+
+</details>
 
 - **[Ashley Reinsberg](/entities/person-ashley-reinsberg.md)** lives in this
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:31:40](/episodes/ep-mKXdKV-OBog.md#t-00-30-55)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:31:40](/episodes/ep-mKXdKV-OBog.md#t-00-30-55): “Ashley Reinsberg, he happens to live in Tel Aviv”
+
+</details>
 
 - **[Pesach Wolicki](/entities/person-pesach-wolicki.md)** lives in this
-  - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:06:06](/episodes/ep-ti5Fxrvegno.md#t-00-05-37)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:06:06](/episodes/ep-ti5Fxrvegno.md#t-00-05-37): “Rabbi Wolicki (Rabbi Pesach Wolicki) lives in Israel.”
+
+</details>
 
 - **[Michele Bachmann](/entities/person-michele-bachmann.md)** supporter of this
-  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:39:45](/episodes/ep-A39g5oqB_eM.md#t-00-39-08)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:39:45](/episodes/ep-A39g5oqB_eM.md#t-00-39-08): “Right after him comes Michelle Bachmann. ... Michelle (Michelle Bachmann) has five minutes to make an argument for why we have to stand with Israel to these young people at TPUSA. ... When she starts talking in that conference about supporting Israel and why America should stand with Israel,”
+
+</details>
 
 - **[Lindsey Graham](/entities/person-lindsey-graham.md)** supporter of this
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:10:53](/episodes/ep-xjzb_t5Tk9o.md#t-01-10-43)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:10:53](/episodes/ep-xjzb_t5Tk9o.md#t-01-10-43): “he's like terrifyingly supportive of Israel.”
+
+</details>
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel (130)</strong></summary>
+<summary><strong class="section-title">Statements about Israel (136)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2)</summary>
+
+- [02:25:29](/episodes/ep-nPhCKwJ6ye8.md#t-02-25-29) (Citation) **Candace Owens** (via paraphrase): ["Candace Owens cited Joe Kent as saying that 12 Israeli cell phones wer..."](/statements/statement-b5e4a547905b.md)
+  - Also about: [Joe Kent](/entities/person-joe-kent.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [02:37:26](/episodes/ep-nPhCKwJ6ye8.md#t-02-37-26) (Prediction) **Candace Owens**: ["Candace Owens predicts that Israel will ultimately be found to have be..."](/statements/statement-d5c74ed071c8.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (4)</summary>
+
+- [00:01:21](/episodes/ep-jTj9Ip46r4w.md#t-00-01-21) (Accusation) **Candace Owens**: ["Candace Owens believes, based on evidence, that Charlie Kirk's murder ..."](/statements/statement-7812137609ed.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [United States](/entities/gpe-united-states.md)
+
+- [00:01:45](/episodes/ep-jTj9Ip46r4w.md#t-00-01-21) (Claim) **Candace Owens**: ["Charlie Kirk had abandoned the pro-Israel cause entirely before his de..."](/statements/statement-2cd66649f19c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Zionism](/entities/concept-zionism.md)
+
+- [00:11:25](/episodes/ep-jTj9Ip46r4w.md#t-00-10-59) (Claim) **Candace Owens**: ["The dedication at Zion's Gate in Israel belongs to Jack David Solomon'..."](/statements/statement-d64fec5e45a5.md)
+  - Also about: [Jack David Solomon](/entities/person-jack-david-solomon.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:28:15](/episodes/ep-jTj9Ip46r4w.md#t-00-28-15) (Citation) **Candace Owens**: ["Abraham Polak wrote a researched book arguing that Israelis descend fr..."](/statements/statement-df257682834e.md)
+  - Also about: [Abraham Polak](/entities/person-abraham-polak.md), [Khazar Khaganate](/entities/gpe-khazar-khaganate.md), [Judaism](/entities/concept-judaism.md)
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (5)</summary>
@@ -3275,7 +3748,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
   - Also about: [United States](/entities/gpe-united-states.md)
 
 - [01:06:21](/episodes/ep-xjzb_t5Tk9o.md#t-01-06-12) (Accusation) **Candace Owens**: ["The media company where Candace Owens worked used her to appear commit..."](/statements/statement-2a737a7f8122.md)
-  - Also about: [The Daily Wire](/entities/org-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
 
 - [01:09:18](/episodes/ep-xjzb_t5Tk9o.md#t-01-09-18) (Accusation) **Candace Owens**: ["Candace Owens is convinced the Egyptian planes connected to Charlie Ki..."](/statements/statement-cca1d6a784f0.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Egypt](/entities/gpe-egypt.md)
@@ -3287,10 +3760,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
   - Also about: [Ward Boston](/entities/person-ward-boston.md), [USS Liberty](/entities/vehicle-uss-liberty.md), [United States Navy](/entities/org-united-states-navy.md)
 
 - [01:23:49](/episodes/ep-xjzb_t5Tk9o.md#t-01-23-21) (Accusation) **Bassem Youssef**: ["The New York Times published a completely fabricated rape story whose ..."](/statements/statement-9d5a06e8c485.md)
-  - Also about: [The New York Times](/entities/org-new-york-times.md)
+  - Also about: [The New York Times](/entities/org-the-new-york-times.md)
 
 - [01:24:42](/episodes/ep-xjzb_t5Tk9o.md#t-01-24-42) (Citation) **Bassem Youssef**: ["Israeli media reported the Hannibal Directive, Israeli soldiers killin..."](/statements/statement-dffdfa972b19.md)
-  - Also about: [Israel Defense Forces](/entities/org-israel-defense-forces.md), [The New York Times](/entities/org-new-york-times.md), [CNN](/entities/org-cnn.md)
+  - Also about: [Israel Defense Forces](/entities/org-israel-defense-forces.md), [The New York Times](/entities/org-the-new-york-times.md), [CNN](/entities/org-cnn.md)
 
 - [01:44:18](/episodes/ep-xjzb_t5Tk9o.md#t-01-44-14) (Accusation) **Candace Owens**: ["The post-9/11 media environment conditioned children to fear Muslims s..."](/statements/statement-2350154ebb84.md)
   - Also about: [Islam](/entities/concept-islam.md), [Middle East](/entities/gpe-middle-east.md), [United States](/entities/gpe-united-states.md)
@@ -3393,7 +3866,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
   - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 
 - [00:07:11](/episodes/ep-ZZGWo6oDscc.md#t-00-07-08) (Accusation) **Candace Owens**: ["I think personally he's got the largest blackmail file, whatever Israe..."](/statements/statement-7c2487d3cfc3.md)
-  - Also about: [Lindsey Graham](/entities/person-lindsey-graham.md), [Washington, D.C.](/entities/gpe-washington-dc.md)
+  - Also about: [Lindsey Graham](/entities/person-lindsey-graham.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
 - [00:14:12](/episodes/ep-ZZGWo6oDscc.md#t-00-13-49) (Accusation) **Candace Owens**: ["Charlie Kirk's assassination was good for Benjamin Netanyahu's war amb..."](/statements/statement-ba3417f20e97.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Iran](/entities/gpe-iran.md)

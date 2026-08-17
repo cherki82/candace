@@ -1,6 +1,6 @@
 ---
 title: "Jesus Christ"
-description: "Jesus Christ (People) - 97 mentions"
+description: "Jesus Christ (People) - 110 mentions"
 id: "person-jesus-christ"
 type: "PERSON"
 aliases:
@@ -20,10 +20,168 @@ _Type: People_
 > Reference source supports canonical historical/religious name; transcript uses the alias Christ.
 Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biography/Jesus)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jesus-christ-t-00-08-02">2025-09-15 · 00:08:04</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-person-jesus-christ-t-00-50-14">2026-03-03 · 00:50:32</a></strong></div>
+<div><span>Episodes</span><strong>38</strong></div>
+<div><span>Mentions</span><strong>110</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-Wjul6YV6izo.md#ent-person-jesus-christ-t-00-13-55">AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299</a> (9 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jesus-christ-t-00-08-02" style="--pulse-height:44%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 4 mentions" title="2025-09-15 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-person-jesus-christ-t-00-36-55" style="--pulse-height:33%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 3 mentions" title="2025-09-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-person-jesus-christ-t-00-10-50" style="--pulse-height:89%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 8 mentions" title="2025-09-22 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-QZWSsq8ZWzw.md#t-00-17-09" style="--pulse-height:33%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 3 mentions" title="2025-09-24 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-person-jesus-christ-t-00-37-25" style="--pulse-height:11%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-jesus-christ-t-00-52-38" style="--pulse-height:11%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 1 mentions" title="2025-09-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-jesus-christ-t-00-36-29" style="--pulse-height:22%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-person-jesus-christ-t-00-04-11" style="--pulse-height:22%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 2 mentions" title="2025-10-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-jesus-christ-t-00-04-17" style="--pulse-height:22%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 2 mentions" title="2025-10-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-jesus-christ-t-00-56-42" style="--pulse-height:22%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 2 mentions" title="2025-11-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-jesus-christ-t-01-01-17" style="--pulse-height:11%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-person-jesus-christ-t-00-01-35" style="--pulse-height:22%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 2 mentions" title="2025-11-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-jesus-christ-t-00-04-16" style="--pulse-height:22%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-jesus-christ-t-00-52-32" style="--pulse-height:11%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 1 mentions" title="2025-12-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-jesus-christ-t-00-58-37" style="--pulse-height:33%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 3 mentions" title="2026-01-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-jesus-christ-t-01-09-47" style="--pulse-height:22%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#t-00-20-37" style="--pulse-height:33%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-jesus-christ-t-00-45-20" style="--pulse-height:11%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-person-jesus-christ-t-00-59-24" style="--pulse-height:22%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-jesus-christ-t-00-54-19" style="--pulse-height:22%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-jesus-christ-t-00-41-46" style="--pulse-height:22%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-person-jesus-christ-t-00-18-10" style="--pulse-height:11%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-jesus-christ-t-00-50-24" style="--pulse-height:33%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 3 mentions" title="2026-01-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-jesus-christ-t-00-34-16" style="--pulse-height:67%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 6 mentions" title="2026-01-29 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-person-jesus-christ-t-00-13-55" style="--pulse-height:100%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 9 mentions" title="2026-01-30 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-jesus-christ-t-00-47-50" style="--pulse-height:56%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 5 mentions" title="2026-02-02 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-jesus-christ-t-00-33-44" style="--pulse-height:44%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 4 mentions" title="2026-02-03 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-jesus-christ-t-00-10-16" style="--pulse-height:11%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-jesus-christ-t-00-42-45" style="--pulse-height:33%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 3 mentions" title="2026-02-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-person-jesus-christ-t-00-00-00" style="--pulse-height:100%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 9 mentions" title="2026-02-09 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-jesus-christ-t-00-45-02" style="--pulse-height:22%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-jesus-christ-t-00-48-13" style="--pulse-height:33%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 3 mentions" title="2026-02-11 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-jesus-christ-t-00-54-45" style="--pulse-height:22%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#t-00-58-16" style="--pulse-height:22%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-person-jesus-christ-t-00-59-05" style="--pulse-height:33%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 3 mentions" title="2026-02-27 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-person-jesus-christ-t-01-05-52" style="--pulse-height:22%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 2 mentions" title="2026-02-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-jesus-christ-t-00-43-59" style="--pulse-height:22%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-person-jesus-christ-t-00-50-14" style="--pulse-height:22%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 2 mentions" title="2026-03-03 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-person-jesus-christ-t-00-08-02) | 4 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-person-jesus-christ-t-00-36-55) | 3 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-person-jesus-christ-t-00-10-50) | 8 |
+| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#t-00-17-09) | 3 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-person-jesus-christ-t-00-37-25) | 1 |
+| 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-jesus-christ-t-00-52-38) | 1 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-jesus-christ-t-00-36-29) | 2 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-jesus-christ-t-00-04-11) | 2 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-jesus-christ-t-00-04-17) | 2 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-jesus-christ-t-00-56-42) | 2 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-jesus-christ-t-01-01-17) | 1 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-jesus-christ-t-00-01-35) | 2 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-jesus-christ-t-00-04-16) | 2 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-person-jesus-christ-t-00-52-32) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-jesus-christ-t-00-58-37) | 3 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-jesus-christ-t-01-09-47) | 2 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#t-00-20-37) | 3 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-jesus-christ-t-00-45-20) | 1 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-jesus-christ-t-00-59-24) | 2 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-jesus-christ-t-00-54-19) | 2 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-jesus-christ-t-00-41-46) | 2 |
+| 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-person-jesus-christ-t-00-18-10) | 1 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-jesus-christ-t-00-50-24) | 3 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-jesus-christ-t-00-34-16) | 6 |
+| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-jesus-christ-t-00-13-55) | 9 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-jesus-christ-t-00-47-50) | 5 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-jesus-christ-t-00-33-44) | 4 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-jesus-christ-t-00-10-16) | 1 |
+| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-jesus-christ-t-00-42-45) | 3 |
+| 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-jesus-christ-t-00-00-00) | 9 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-jesus-christ-t-00-45-02) | 2 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-jesus-christ-t-00-48-13) | 3 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-jesus-christ-t-00-54-45) | 2 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#t-00-58-16) | 2 |
+| 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-person-jesus-christ-t-00-59-05) | 3 |
+| 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-person-jesus-christ-t-01-05-52) | 2 |
+| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-jesus-christ-t-00-43-59) | 2 |
+| 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-person-jesus-christ-t-00-50-14) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (110)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (2 mentions)</summary>
+
+**[00:50:27](/episodes/ep-2tFYJf1klgY.md#ent-person-jesus-christ-t-00-50-14)**
+> "...monsters running our world in Jesus' name."
+
+**[00:50:32](/episodes/ep-2tFYJf1klgY.md#ent-person-jesus-christ-t-00-50-14)**
+> "Please, amen. Christ is king. Yes, pray. It means something. Guys, I a..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (2 mentions)</summary>
+
+**[00:43:59](/episodes/ep-jTj9Ip46r4w.md#ent-person-jesus-christ-t-00-43-59)**
+> "...as so sold out and focused on Christ that I didn't want anything from that"
+
+**[00:55:24](/episodes/ep-jTj9Ip46r4w.md#ent-person-jesus-christ-t-00-55-00)**
+> "Christ is King. Jesus is Lord of all. Agreed. Thank you for the support..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (2 mentions)</summary>
+
+**[01:06:15](/episodes/ep-cZxHqYsWRYg.md#ent-person-jesus-christ-t-01-05-52)**
+> "Go, Max. Candace, Christ is King. Why do you guys think the real reason wa..."
+
+**[01:06:30](/episodes/ep-cZxHqYsWRYg.md#ent-person-jesus-christ-t-01-06-30)**
+> "...s won't. I'm praying for you. Christ is King. There will never be another Charlie.' An..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (3 mentions)</summary>
+
+**[00:59:15](/episodes/ep-1IY2oD-_xVA.md#ent-person-jesus-christ-t-00-59-05)**
+> "Yes, they are. are satanic and we have to just acknowledge that thing first remain optimistic in the end god wins okay he's already won has no says me i'm like in the end we win he's like Christ has already won."
+
+**[00:58:59](/episodes/ep-1IY2oD-_xVA.md#ent-person-jesus-christ-t-00-59-05)**
+> "...course, we stand with Candace Christ is King."
+
+**[01:00:05](/episodes/ep-1IY2oD-_xVA.md#ent-person-jesus-christ-t-00-59-05)**
+> ".... I wondered about his death. Christ is king."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (2 mentions)</summary>
+
+**[00:58:25](/episodes/ep-ZAsV0fHGBiM.md#t-00-58-16)**
+> "...e loved and supported by many christ is king thank you i uh keep going because it's im..."
+
+**[01:02:56](/episodes/ep-ZAsV0fHGBiM.md#t-01-02-56)**
+> "...or you and your team's safety christ is king yeah crazy i've never seen it in politics..."
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>
@@ -90,6 +248,20 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 
 **[00:32:41](/episodes/ep-4YgrOhhy708.md#ent-person-jesus-christ-t-00-32-41)**
 > "...o) fired her because she said Christ is king."
+
+</details>
+
+<details>
+<summary>An Open Letter To Erika Kirk | Candace Ep 303 (3 mentions)</summary>
+
+**[00:42:53](/episodes/ep-mFuno0TuuQQ.md#ent-person-jesus-christ-t-00-42-45)**
+> "Christ is king."
+
+**[00:45:55](/episodes/ep-mFuno0TuuQQ.md#ent-person-jesus-christ-t-00-45-55)**
+> "...arlie (Charlie Kirk)'s David. Christ is King. Keep going, Max, and stay max.' Thank yo..."
+
+**[00:46:36](/episodes/ep-mFuno0TuuQQ.md#ent-person-jesus-christ-t-00-45-55)**
+> "Christ is King."
 
 </details>
 
@@ -408,7 +580,7 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 </details>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (9 mentions)</summary>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (8 mentions)</summary>
 
 **[00:11:20](/episodes/ep-ja26iltROkM.md#ent-person-jesus-christ-t-00-10-50)**
 > "... Christ and the miracles that Jesus performed, right?"
@@ -427,9 +599,6 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 
 **[00:44:42](/episodes/ep-ja26iltROkM.md#ent-person-jesus-christ-t-00-44-16)**
 > "...ur core prayer—given to us by Jesus, the Lord's Prayer—"
-
-**[00:45:04](/episodes/ep-ja26iltROkM.md#ent-person-jesus-christ-t-00-44-54)**
-> "The only real solution is Jesus"
 
 **[00:45:04](/episodes/ep-ja26iltROkM.md#ent-person-jesus-christ-t-00-44-54)**
 > "...all to change our hearts from Jesus. And that is the only way forward.""

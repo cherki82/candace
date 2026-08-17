@@ -1,6 +1,6 @@
 ---
 title: "Riverbend Ranch"
-description: "Riverbend Ranch (Organizations) - 153 mentions"
+description: "Riverbend Ranch (Organizations) - 152 mentions"
 id: "org-riverbend-ranch"
 type: "ORG"
 aliases:
@@ -22,10 +22,78 @@ _Type: Organizations_
 > Official ranch source confirms canonical identity and cattle operation.
 Source: [Our Ranch | Riverbend Ranch](https://riverbendranch.com/our-ranch/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-riverbend-ranch-t-00-37-18">2025-09-17 · 00:37:26</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-riverbend-ranch-t-00-26-18">2026-02-11 · 00:26:39</a></strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>152</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-riverbend-ranch-t-00-36-28">Charlie Ripped A Hole In Reality | Candace Ep 253</a> (9 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-riverbend-ranch-t-00-37-18" style="--pulse-height:33%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 3 mentions" title="2025-09-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-org-riverbend-ranch-t-00-28-06" style="--pulse-height:44%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 4 mentions" title="2025-09-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-riverbend-ranch-t-00-27-09" style="--pulse-height:56%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 5 mentions" title="2025-09-24 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-org-riverbend-ranch-t-00-24-00" style="--pulse-height:89%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 8 mentions" title="2025-09-25 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-riverbend-ranch-t-00-24-38" style="--pulse-height:78%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 7 mentions" title="2025-09-30 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-riverbend-ranch-t-00-24-48" style="--pulse-height:89%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 8 mentions" title="2025-10-02 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-org-riverbend-ranch-t-00-29-56" style="--pulse-height:78%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 7 mentions" title="2025-10-07 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-org-riverbend-ranch-t-00-37-39" style="--pulse-height:89%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 8 mentions" title="2025-10-08 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-org-riverbend-ranch-t-00-28-26" style="--pulse-height:89%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 8 mentions" title="2025-10-27 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-riverbend-ranch-t-00-36-28" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 9 mentions" title="2025-10-28 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-riverbend-ranch-t-00-23-23" style="--pulse-height:100%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 9 mentions" title="2025-10-29 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-org-riverbend-ranch-t-00-27-22" style="--pulse-height:89%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 8 mentions" title="2025-11-05 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-riverbend-ranch-t-00-25-52" style="--pulse-height:78%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 7 mentions" title="2025-11-06 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-org-riverbend-ranch-t-00-28-46" style="--pulse-height:89%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 8 mentions" title="2025-11-08 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-riverbend-ranch-t-00-25-59" style="--pulse-height:100%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 9 mentions" title="2025-11-12 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-riverbend-ranch-t-00-32-07" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 9 mentions" title="2025-11-15 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-org-riverbend-ranch-t-00-24-32" style="--pulse-height:89%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 8 mentions" title="2025-11-19 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-org-riverbend-ranch-t-00-34-23" style="--pulse-height:78%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 7 mentions" title="2025-12-03 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-riverbend-ranch-t-00-20-32" style="--pulse-height:89%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 8 mentions" title="2025-12-05 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-riverbend-ranch-t-00-29-43" style="--pulse-height:44%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 4 mentions" title="2026-01-12 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-org-riverbend-ranch-t-00-25-47" style="--pulse-height:44%" aria-label="Myron Gaines x Candace Owens: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-riverbend-ranch-t-00-25-35" style="--pulse-height:44%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 4 mentions" title="2026-02-11 · 4 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-org-riverbend-ranch-t-00-37-18) | 3 |
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-org-riverbend-ranch-t-00-28-06) | 4 |
+| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-org-riverbend-ranch-t-00-27-09) | 5 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-org-riverbend-ranch-t-00-24-00) | 8 |
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-org-riverbend-ranch-t-00-24-38) | 7 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-riverbend-ranch-t-00-24-48) | 8 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-org-riverbend-ranch-t-00-29-56) | 7 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-org-riverbend-ranch-t-00-37-39) | 8 |
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-org-riverbend-ranch-t-00-28-26) | 8 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-riverbend-ranch-t-00-36-28) | 9 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-org-riverbend-ranch-t-00-23-23) | 9 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-org-riverbend-ranch-t-00-27-22) | 8 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-org-riverbend-ranch-t-00-25-52) | 7 |
+| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-org-riverbend-ranch-t-00-28-46) | 8 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-org-riverbend-ranch-t-00-25-59) | 9 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-riverbend-ranch-t-00-32-07) | 9 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-org-riverbend-ranch-t-00-24-32) | 8 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-riverbend-ranch-t-00-34-23) | 7 |
+| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-org-riverbend-ranch-t-00-20-32) | 8 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-riverbend-ranch-t-00-29-43) | 4 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-riverbend-ranch-t-00-25-47) | 4 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-riverbend-ranch-t-00-25-35) | 4 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (152)</strong></summary>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (4 mentions)</summary>
@@ -543,10 +611,7 @@ Source: [Our Ranch | Riverbend Ranch](https://riverbendranch.com/our-ranch/)
 </details>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (6 mentions)</summary>
-
-**[00:27:49](/episodes/ep-QZWSsq8ZWzw.md#ent-org-riverbend-ranch-t-00-27-09)**
-> "Riverbend Ranch—I absolutely love them"
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (5 mentions)</summary>
 
 **[00:27:49](/episodes/ep-QZWSsq8ZWzw.md#ent-org-riverbend-ranch-t-00-27-09)**
 > "...s important for us to discuss for a variety of reasons. First, I'm gonna throw it to some sponsors. Riverbend Ranch—I absolutely love them. Everyone has wanted to do something to try and heal and remember Charlie Ki..."
@@ -605,7 +670,11 @@ Source: [Our Ranch | Riverbend Ranch](https://riverbendranch.com/our-ranch/)
 <summary>Based In (1)</summary>
 
 - **[USA](/entities/gpe-united-states.md)**
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:35:38](/episodes/ep-his-JBjlkh8.md#t-00-35-06): ""All Riverbend Ranch cattle were born and raised here in the USA.""
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:35:38](/episodes/ep-his-JBjlkh8.md#t-00-35-06): “"All Riverbend Ranch cattle were born and raised here in the USA."”
+
+</details>
 
 </details>
 
@@ -613,7 +682,11 @@ Source: [Our Ranch | Riverbend Ranch](https://riverbendranch.com/our-ranch/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:34:52](/episodes/ep-his-JBjlkh8.md#t-00-34-23): ""this holiday season, you can express your love with a very special gift of premium steaks from Riverbend Ranch.""
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:34:52](/episodes/ep-his-JBjlkh8.md#t-00-34-23): “"this holiday season, you can express your love with a very special gift of premium steaks from Riverbend Ranch."”
+
+</details>
 
 </details>
 
@@ -621,10 +694,18 @@ Source: [Our Ranch | Riverbend Ranch](https://riverbendranch.com/our-ranch/)
 <summary>Met With (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:05:52](/episodes/ep-sreYYcID-QY.md#t-00-05-26): "I actually met the owners of Riverbend Ranch with Charlie."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:05:52](/episodes/ep-sreYYcID-QY.md#t-00-05-26): “I actually met the owners of Riverbend Ranch with Charlie.”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:05:52](/episodes/ep-sreYYcID-QY.md#t-00-05-26): "I actually met the owners of Riverbend Ranch with Charlie."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:05:52](/episodes/ep-sreYYcID-QY.md#t-00-05-26): “I actually met the owners of Riverbend Ranch with Charlie.”
+
+</details>
 
 </details>
 
@@ -632,16 +713,32 @@ Source: [Our Ranch | Riverbend Ranch](https://riverbendranch.com/our-ranch/)
 <summary>Referenced By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:34:52](/episodes/ep-his-JBjlkh8.md#t-00-34-23)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:34:52](/episodes/ep-his-JBjlkh8.md#t-00-34-23): “"this holiday season, you can express your love with a very special gift of premium steaks from Riverbend Ranch."”
+
+</details>
 
 - **[USA](/entities/gpe-united-states.md)** location of this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:35:38](/episodes/ep-his-JBjlkh8.md#t-00-35-06)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:35:38](/episodes/ep-his-JBjlkh8.md#t-00-35-06): “"All Riverbend Ranch cattle were born and raised here in the USA."”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** met with this
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:05:52](/episodes/ep-sreYYcID-QY.md#t-00-05-26)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:05:52](/episodes/ep-sreYYcID-QY.md#t-00-05-26): “I actually met the owners of Riverbend Ranch with Charlie.”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** met with this
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:05:52](/episodes/ep-sreYYcID-QY.md#t-00-05-26)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:05:52](/episodes/ep-sreYYcID-QY.md#t-00-05-26): “I actually met the owners of Riverbend Ranch with Charlie.”
+
+</details>
 
 </details>
 

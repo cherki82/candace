@@ -11,10 +11,42 @@ _Type: Organizations_
 
 **Also known as:** Satis
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-org-satis-t-00-04-54">2025-11-20 · 00:00:55</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-satis-t-00-15-27">2025-12-02 · 00:15:27</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>5</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-sImMM04XdWY.md#ent-org-satis-t-00-04-54">Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269</a> (7 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-sImMM04XdWY.md#ent-org-satis-t-00-04-54" style="--pulse-height:100%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 7 mentions" title="2025-11-20 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-org-satis-t-00-00-00" style="--pulse-height:57%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 4 mentions" title="2025-11-21 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-satis-t-00-23-42" style="--pulse-height:71%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 5 mentions" title="2025-12-01 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-satis-t-00-15-27" style="--pulse-height:14%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-satis-t-00-04-54) | 7 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-org-satis-t-00-00-00) | 4 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-satis-t-00-23-42) | 5 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-org-satis-t-00-15-27) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
 
 <details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
@@ -96,7 +128,11 @@ _Type: Organizations_
 <summary>Based In (1)</summary>
 
 - **[France](/entities/gpe-france.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#t-00-23-12): ""Satis, which is a French company, injected $1.5 million...""
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#t-00-23-12): “"Satis, which is a French company, injected $1.5 million..."”
+
+</details>
 
 </details>
 
@@ -104,8 +140,12 @@ _Type: Organizations_
 <summary>Has Investor (1)</summary>
 
 - **[ACE Partners](/entities/org-ace-partners.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/episodes/ep-tB5SXXmd9vU.md#t-00-38-00): "the second-largest shareholder for Satis is Israel. Yeah, it's an Israeli firm based in Tel Aviv called ACE Partners. They are the second-largest shareholder to Satis."
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:47](/episodes/ep-tB5SXXmd9vU.md#t-00-38-43): ""They are the second-largest shareholder to Satis.""
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/episodes/ep-tB5SXXmd9vU.md#t-00-38-00): “the second-largest shareholder for Satis is Israel. Yeah, it's an Israeli firm based in Tel Aviv called ACE Partners. They are the second-largest shareholder to Satis.”
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:47](/episodes/ep-tB5SXXmd9vU.md#t-00-38-43): “"They are the second-largest shareholder to Satis."”
+
+</details>
 
 </details>
 
@@ -113,8 +153,12 @@ _Type: Organizations_
 <summary>Investor Includes (1)</summary>
 
 - **[ACE Partners](/entities/org-ace-partners.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/episodes/ep-tB5SXXmd9vU.md#t-00-38-00): "the second-largest shareholder for Satis is Israel. Yeah, it's an Israeli firm based in Tel Aviv called ACE Partners. They are the second-largest shareholder to Satis."
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:47](/episodes/ep-tB5SXXmd9vU.md#t-00-38-43): ""They are the second-largest shareholder to Satis.""
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/episodes/ep-tB5SXXmd9vU.md#t-00-38-00): “the second-largest shareholder for Satis is Israel. Yeah, it's an Israeli firm based in Tel Aviv called ACE Partners. They are the second-largest shareholder to Satis.”
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:47](/episodes/ep-tB5SXXmd9vU.md#t-00-38-43): “"They are the second-largest shareholder to Satis."”
+
+</details>
 
 </details>
 
@@ -122,11 +166,19 @@ _Type: Organizations_
 <summary>Referenced By (2)</summary>
 
 - **[ACE Partners](/entities/org-ace-partners.md)** invested in this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/episodes/ep-tB5SXXmd9vU.md#t-00-38-00)
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:47](/episodes/ep-tB5SXXmd9vU.md#t-00-38-43)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/episodes/ep-tB5SXXmd9vU.md#t-00-38-00): “the second-largest shareholder for Satis is Israel. Yeah, it's an Israeli firm based in Tel Aviv called ACE Partners. They are the second-largest shareholder to Satis.”
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:47](/episodes/ep-tB5SXXmd9vU.md#t-00-38-43): “"They are the second-largest shareholder to Satis."”
+
+</details>
 
 - **[France](/entities/gpe-france.md)** location of this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#t-00-23-12)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#t-00-23-12): “"Satis, which is a French company, injected $1.5 million..."”
+
+</details>
 
 </details>
 

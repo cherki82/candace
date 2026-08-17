@@ -1,6 +1,6 @@
 ---
 title: "Marina Mappin"
-description: "Marina Mappin (People) - 4 mentions"
+description: "Marina Mappin (People) - 3 mentions"
 id: "person-marina-mappin"
 type: "PERSON"
 aliases:
@@ -11,16 +11,41 @@ _Type: People_
 
 **Also known as:** Arena Mappin
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-marina-mappin-t-00-15-43">2025-10-28 · 00:16:23</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-marina-mappin-t-00-33-12">2025-11-03 · 00:33:43</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-marina-mappin-t-00-15-43">Charlie Ripped A Hole In Reality | Candace Ep 253</a> (2 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-marina-mappin-t-00-15-43" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-marina-mappin-t-00-33-12" style="--pulse-height:50%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-marina-mappin-t-00-15-43) | 2 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-marina-mappin-t-00-33-12) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
-
-**[00:33:41](/episodes/ep-K1tFD7FfoCU.md#ent-person-marina-mappin-t-00-33-12)**
-> "...ohn Mappin (John Mappin), and Arena Mappin (Arena Mappin) called John Mappin (John Mappin) a..."
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
 
 **[00:33:43](/episodes/ep-K1tFD7FfoCU.md#ent-person-marina-mappin-t-00-33-12)**
 > "Tyler Bowyer (Tyler Bowyer) late-night tweeting at donors as he did over the weekend. I think he directed his fire at like John Mappin (John Mappin), and Arena Mappin (Arena Mappin) called John Mappin (John Mappin) a loser."

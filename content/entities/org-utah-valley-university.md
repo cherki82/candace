@@ -1,6 +1,6 @@
 ---
 title: "Utah Valley University"
-description: "Utah Valley University (Organizations) - 154 mentions"
+description: "Utah Valley University (Organizations) - 164 mentions"
 id: "org-utah-valley-university"
 type: "ORG"
 aliases:
@@ -8,6 +8,8 @@ aliases:
   - "UV"
   - "UV Hospital"
   - "Utah Valley"
+  - "Utah Valley State College"
+  - "UVSC"
 categories:
   - "university"
   - "Utah"
@@ -15,7 +17,7 @@ categories:
 
 _Type: Organizations_
 
-**Also known as:** UVU, UV, UV Hospital, Utah Valley
+**Also known as:** UVU, UV, UV Hospital, Utah Valley, Utah Valley State College, UVSC
 
 **Categories:** university, Utah
 
@@ -23,10 +25,181 @@ _Type: Organizations_
 > Official university page confirms the canonical name and UVU acronym.
 Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-utah-valley-university-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-utah-valley-university-t-02-01-40">2026-08-14 · 02:02:13</a></strong></div>
+<div><span>Episodes</span><strong>46</strong></div>
+<div><span>Mentions</span><strong>164</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-utah-valley-university-t-00-16-56">EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258</a> (9 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-utah-valley-university-t-00-39-50" style="--pulse-height:44%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 4 mentions" title="2025-09-15 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-org-utah-valley-university-t-00-08-44" style="--pulse-height:33%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 3 mentions" title="2025-09-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-utah-valley-university-t-00-05-48" style="--pulse-height:33%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 3 mentions" title="2025-09-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-org-utah-valley-university-t-00-01-20" style="--pulse-height:22%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 2 mentions" title="2025-09-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-utah-valley-university-t-00-51-24" style="--pulse-height:11%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-org-utah-valley-university-t-00-18-36" style="--pulse-height:33%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 3 mentions" title="2025-09-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-utah-valley-university-t-00-00-32" style="--pulse-height:44%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 4 mentions" title="2025-09-23 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-utah-valley-university-t-00-33-34" style="--pulse-height:33%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 3 mentions" title="2025-09-24 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-utah-valley-university-t-00-06-10" style="--pulse-height:67%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 6 mentions" title="2025-09-29 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-utah-valley-university-t-00-29-25" style="--pulse-height:11%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-utah-valley-university-t-00-09-08" style="--pulse-height:44%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 4 mentions" title="2025-10-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-utah-valley-university-t-00-13-12" style="--pulse-height:78%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 7 mentions" title="2025-10-02 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-org-utah-valley-university-t-00-41-54" style="--pulse-height:33%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 3 mentions" title="2025-10-08 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-utah-valley-university-t-00-11-28" style="--pulse-height:56%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 5 mentions" title="2025-10-09 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-org-utah-valley-university-t-00-15-22" style="--pulse-height:22%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 2 mentions" title="2025-10-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-utah-valley-university-t-00-32-11" style="--pulse-height:89%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 8 mentions" title="2025-10-28 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-utah-valley-university-t-00-04-55" style="--pulse-height:11%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-utah-valley-university-t-00-48-18" style="--pulse-height:22%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-utah-valley-university-t-00-16-56" style="--pulse-height:100%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 9 mentions" title="2025-11-04 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-org-utah-valley-university-t-00-00-38" style="--pulse-height:33%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 3 mentions" title="2025-11-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-utah-valley-university-t-00-24-22" style="--pulse-height:67%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 6 mentions" title="2025-11-06 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-utah-valley-university-t-00-02-01" style="--pulse-height:33%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 3 mentions" title="2025-11-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-utah-valley-university-t-00-18-54" style="--pulse-height:44%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 4 mentions" title="2025-11-12 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-utah-valley-university-t-00-43-59" style="--pulse-height:11%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-utah-valley-university-t-00-13-59" style="--pulse-height:44%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 4 mentions" title="2025-11-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-org-utah-valley-university-t-00-10-23" style="--pulse-height:56%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 5 mentions" title="2025-11-18 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-org-utah-valley-university-t-00-16-08" style="--pulse-height:67%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 6 mentions" title="2025-11-20 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-org-utah-valley-university-t-00-17-38" style="--pulse-height:22%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 2 mentions" title="2025-11-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-utah-valley-university-t-00-00-57" style="--pulse-height:78%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 7 mentions" title="2025-12-01 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-utah-valley-university-t-00-17-39" style="--pulse-height:22%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-org-utah-valley-university-t-00-06-37" style="--pulse-height:33%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 3 mentions" title="2025-12-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-org-utah-valley-university-t-00-19-27" style="--pulse-height:89%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 8 mentions" title="2025-12-05 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-utah-valley-university-t-00-11-07" style="--pulse-height:56%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 5 mentions" title="2025-12-17 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-utah-valley-university-t-00-10-01" style="--pulse-height:33%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 3 mentions" title="2026-01-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-utah-valley-university-t-00-13-35" style="--pulse-height:33%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-org-utah-valley-university-t-00-31-37" style="--pulse-height:22%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-utah-valley-university-t-00-25-07" style="--pulse-height:22%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-org-utah-valley-university-t-00-16-07" style="--pulse-height:11%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-org-utah-valley-university-t-00-25-22" style="--pulse-height:22%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-org-utah-valley-university-t-00-04-15" style="--pulse-height:67%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 6 mentions" title="2026-02-10 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-utah-valley-university-t-00-11-50" style="--pulse-height:56%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 5 mentions" title="2026-02-11 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-LKR94FQ5p3o.md#ent-org-utah-valley-university-t-00-00-00" style="--pulse-height:11%" aria-label="Coming soon...: 1 mentions" title="2026-02-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-utah-valley-university-t-00-44-39" style="--pulse-height:44%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 4 mentions" title="2026-02-25 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-utah-valley-university-t-00-54-22" style="--pulse-height:11%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-utah-valley-university-t-00-10-20" style="--pulse-height:22%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-utah-valley-university-t-01-08-52" style="--pulse-height:22%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-org-utah-valley-university-t-00-39-50) | 4 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-org-utah-valley-university-t-00-08-44) | 3 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-org-utah-valley-university-t-00-05-48) | 3 |
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-org-utah-valley-university-t-00-01-20) | 2 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-org-utah-valley-university-t-00-51-24) | 1 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-org-utah-valley-university-t-00-18-36) | 3 |
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-org-utah-valley-university-t-00-00-32) | 4 |
+| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-org-utah-valley-university-t-00-33-34) | 3 |
+| 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-utah-valley-university-t-00-06-10) | 6 |
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-org-utah-valley-university-t-00-29-25) | 1 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-utah-valley-university-t-00-09-08) | 4 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-utah-valley-university-t-00-13-12) | 7 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-org-utah-valley-university-t-00-41-54) | 3 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-org-utah-valley-university-t-00-11-28) | 5 |
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-org-utah-valley-university-t-00-15-22) | 2 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-utah-valley-university-t-00-32-11) | 8 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-org-utah-valley-university-t-00-04-55) | 1 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-org-utah-valley-university-t-00-48-18) | 2 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-org-utah-valley-university-t-00-16-56) | 9 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-org-utah-valley-university-t-00-00-38) | 3 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-org-utah-valley-university-t-00-24-22) | 6 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-org-utah-valley-university-t-00-02-01) | 3 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-org-utah-valley-university-t-00-18-54) | 4 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-utah-valley-university-t-00-43-59) | 1 |
+| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-org-utah-valley-university-t-00-13-59) | 4 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-utah-valley-university-t-00-10-23) | 5 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-utah-valley-university-t-00-16-08) | 6 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-org-utah-valley-university-t-00-17-38) | 2 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-utah-valley-university-t-00-00-57) | 7 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-org-utah-valley-university-t-00-17-39) | 2 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-utah-valley-university-t-00-06-37) | 3 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-org-utah-valley-university-t-00-19-27) | 8 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-utah-valley-university-t-00-11-07) | 5 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-utah-valley-university-t-00-10-01) | 3 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-utah-valley-university-t-00-13-35) | 3 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-utah-valley-university-t-00-31-37) | 2 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-utah-valley-university-t-00-25-07) | 2 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-org-utah-valley-university-t-00-16-07) | 1 |
+| 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-org-utah-valley-university-t-00-25-22) | 2 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-utah-valley-university-t-00-04-15) | 6 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-utah-valley-university-t-00-11-50) | 5 |
+| 2026-02-23 | [Coming soon...](/episodes/ep-LKR94FQ5p3o.md#ent-org-utah-valley-university-t-00-00-00) | 1 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-org-utah-valley-university-t-00-44-39) | 4 |
+| 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-utah-valley-university-t-00-54-22) | 1 |
+| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-org-utah-valley-university-t-00-10-20) | 2 |
+| 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-utah-valley-university-t-01-08-52) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (164)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
+
+**[01:08:52](/episodes/ep-nPhCKwJ6ye8.md#ent-org-utah-valley-university-t-01-08-52)**
+> "...o see me in footage at the at UVU. And I'm paraphrasing,"
+
+**[02:02:13](/episodes/ep-nPhCKwJ6ye8.md#ent-org-utah-valley-university-t-02-01-40)**
+> "UVU's washed their hands of it. And what he's saying ..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (2 mentions)</summary>
+
+**[00:10:45](/episodes/ep-jTj9Ip46r4w.md#ent-org-utah-valley-university-t-00-10-20)**
+> "... graduated from what is today UVU, or at least that's what his resume says, his bio..."
+
+**[00:10:59](/episodes/ep-jTj9Ip46r4w.md#ent-org-utah-valley-university-t-00-10-59)**
+> "... UVSC. He helped to build the UVU campus as a board member for UVU Center for Jewis..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (1 mentions)</summary>
+
+**[00:54:22](/episodes/ep-1IY2oD-_xVA.md#ent-org-utah-valley-university-t-00-54-22)**
+> "intuition generates it seems really weird and now a bit suspicious that there are so many Mormons involved with Turning Point USA and Erika (Erika Kirk) thank you for continuing to go max the Mormon thread will continue to happen I do want to say this first and foremost so many Mormons helped me in the trial of Kirk investigation and I could not have done a lot of that early research into UVU campus if it was not Mormons running around getting information and them acknowledging what's going on What's going on at this university?"
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (4 mentions)</summary>
+
+**[00:44:39](/episodes/ep-ZAsV0fHGBiM.md#ent-org-utah-valley-university-t-00-44-39)**
+> "...d from what is today known as Utah Valley University."
+
+**[00:44:45](/episodes/ep-ZAsV0fHGBiM.md#ent-org-utah-valley-university-t-00-44-39)**
+> "It was formerly known as Utah Valley State College when he graduated from there."
+
+**[00:45:19](/episodes/ep-ZAsV0fHGBiM.md#ent-org-utah-valley-university-t-00-45-19)**
+> "... family has a lot of power at UVU. Why not Auntie Carla (Carla Frantzve) rather tha..."
+
+**[00:45:39](/episodes/ep-ZAsV0fHGBiM.md#ent-org-utah-valley-university-t-00-45-19)**
+> "...ewish Studies on the board at UVU. Zion's Gate,"
+
+</details>
+
+<details>
+<summary>Coming soon... (1 mentions)</summary>
+
+**[00:00:04](/episodes/ep-LKR94FQ5p3o.md#ent-org-utah-valley-university-t-00-00-00)**
+> "After being shot at Utah Valley University."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (5 mentions)</summary>
@@ -704,7 +877,11 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <summary>Based In (1)</summary>
 
 - **[Orem](/entities/gpe-orem.md)**
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:06:17](/episodes/ep-2WEHTk0Xewg.md#t-00-05-48): "I'm stuck in Orem, that's the town that UVU is at,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:06:17](/episodes/ep-2WEHTk0Xewg.md#t-00-05-48): “I'm stuck in Orem, that's the town that UVU is at,”
+
+</details>
 
 </details>
 
@@ -712,7 +889,11 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <summary>Employs (1)</summary>
 
 - **[Jeff Long](/entities/person-jeff-long.md)**
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:59](/episodes/ep-581dILVcEE4.md#t-00-24-53): "the UVU police chief, Jeff Long."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:59](/episodes/ep-581dILVcEE4.md#t-00-24-53): “the UVU police chief, Jeff Long.”
+
+</details>
 
 </details>
 
@@ -720,7 +901,11 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <summary>Has Member (1)</summary>
 
 - **[UVU students](/entities/org-uvu-students.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:59:06](/episodes/ep-tB5SXXmd9vU.md#t-00-58-43): "...when you speak to the UVU students, the fact that they didn't recognize anybody..."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:59:06](/episodes/ep-tB5SXXmd9vU.md#t-00-58-43): “...when you speak to the UVU students, the fact that they didn't recognize anybody...”
+
+</details>
 
 </details>
 
@@ -728,7 +913,11 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <summary>Headquartered In (1)</summary>
 
 - **[Orem](/entities/gpe-orem.md)**
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:06:17](/episodes/ep-2WEHTk0Xewg.md#t-00-05-48): "stuck in Orem, that's the town that UVU is at"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:06:17](/episodes/ep-2WEHTk0Xewg.md#t-00-05-48): “stuck in Orem, that's the town that UVU is at”
+
+</details>
 
 </details>
 
@@ -745,28 +934,60 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <summary>Referenced By (6)</summary>
 
 - **[Orem](/entities/gpe-orem.md)** headquarters of this
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:06:17](/episodes/ep-2WEHTk0Xewg.md#t-00-05-48)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:06:17](/episodes/ep-2WEHTk0Xewg.md#t-00-05-48): “stuck in Orem, that's the town that UVU is at”
+
+</details>
 
 - **[Orem](/entities/gpe-orem.md)** location of this
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:06:17](/episodes/ep-2WEHTk0Xewg.md#t-00-05-48)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:06:17](/episodes/ep-2WEHTk0Xewg.md#t-00-05-48): “I'm stuck in Orem, that's the town that UVU is at,”
+
+</details>
 
 - **[UVU students](/entities/org-uvu-students.md)** member of this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:59:06](/episodes/ep-tB5SXXmd9vU.md#t-00-58-43)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:59:06](/episodes/ep-tB5SXXmd9vU.md#t-00-58-43): “...when you speak to the UVU students, the fact that they didn't recognize anybody...”
+
+</details>
 
 - **[Lozier Center](/entities/org-lozier-center.md)** part of this
 
 - **[Sorensen Center](/entities/org-sorensen-center.md)** part of this
 
 - **[Jeff Long](/entities/person-jeff-long.md)** works for this
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:59](/episodes/ep-581dILVcEE4.md#t-00-24-53)
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:25:05](/episodes/ep-581dILVcEE4.md#t-00-24-53)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:59](/episodes/ep-581dILVcEE4.md#t-00-24-53): “the UVU police chief, Jeff Long.”
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:25:05](/episodes/ep-581dILVcEE4.md#t-00-24-53): “UVU police chief Jeff Long”
+
+</details>
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah Valley University (12)</strong></summary>
+<summary><strong class="section-title">Statements about Utah Valley University (14)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
+
+- [01:58:01](/episodes/ep-nPhCKwJ6ye8.md#t-01-58-01) (Claim) **Candace Owens** (via paraphrase): ["An unnamed source told Candace Owens that Tyler Robinson did not set f..."](/statements/statement-82eb250891a7.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1)</summary>
+
+- [00:44:39](/episodes/ep-ZAsV0fHGBiM.md#t-00-44-39) (Claim) **Candace Owens**: ["Jack Solomon graduated from Utah Valley University, created its Center..."](/statements/statement-244d63ae0c3c.md)
+  - Also about: [Jack David Solomon](/entities/person-jack-david-solomon.md), [Utah Center for Jewish Studies](/entities/org-utah-center-for-jewish-studies.md), [BYU](/entities/org-byu.md)
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1)</summary>
@@ -788,7 +1009,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <summary>A Legal Turning Point? | Candace Ep 292 (2)</summary>
 
 - [00:25:20](/episodes/ep-NIEbqsLAK8g.md#t-00-25-07) (Claim) **Gary Melton**: ["UVU law enforcement required Gary Melton's team to ground its drone, a..."](/statements/statement-b2e19b557fe5.md)
-  - Also about: [Gary Melton](/entities/person-gary-melton.md), [Federal Aviation Administration](/entities/org-federal-aviation-administration.md)
+  - Also about: [Gary Melton](/entities/person-gary-melton.md), [Federal Aviation Administration](/entities/org-faa.md)
 
 - [00:28:05](/episodes/ep-NIEbqsLAK8g.md#t-00-27-33) (Claim) **Turning Point USA** (via quoted document): ["Turning Point USA's lawyer stated that UVU prohibited the security tea..."](/statements/statement-c1ad323530c9.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)

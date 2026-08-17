@@ -16,10 +16,44 @@ _Type: People_
 > SMU biography confirms the canonical name and technology entrepreneur/investor roles.
 Source: [Peter Thiel biography | SMU](https://www.smu.edu/tateseries/~/media/site/tateseries/speakers/1415/bios/peter%20thiel)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-peter-thiel-t-00-25-30">2026-01-14 · 00:25:34</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-peter-thiel-t-00-17-28">2026-02-04 · 00:17:28</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-peter-thiel-t-00-33-17">Candace x Baron Coleman LIVE!! | Candace Ep 293</a> (7 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-peter-thiel-t-00-25-30" style="--pulse-height:14%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-peter-thiel-t-00-33-17" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 7 mentions" title="2026-01-20 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-peter-thiel-t-00-46-04" style="--pulse-height:14%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-peter-thiel-t-00-24-28" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 7 mentions" title="2026-02-02 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-peter-thiel-t-00-17-28" style="--pulse-height:14%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-peter-thiel-t-00-25-30) | 1 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-peter-thiel-t-00-33-17) | 7 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-peter-thiel-t-00-46-04) | 1 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-peter-thiel-t-00-24-28) | 7 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-peter-thiel-t-00-17-28) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1 mentions)</summary>
@@ -106,10 +140,18 @@ Source: [Peter Thiel biography | SMU](https://www.smu.edu/tateseries/~/media/sit
 <summary>Friend Of (2)</summary>
 
 - **[Dave Rubin](/entities/person-dave-rubin.md)**
-  - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:37:21](/episodes/ep-9naMwS0kMBE.md#t-00-37-21): "he went to his friend billionaire Peter Thiel and asked for five million dollars"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:37:21](/episodes/ep-9naMwS0kMBE.md#t-00-37-21): “he went to his friend billionaire Peter Thiel and asked for five million dollars”
+
+</details>
 
 - **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)**
-  - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:28:00](/episodes/ep-CEF7gQRWYCE.md#t-00-27-57): "and thought about it he did because he was emailing Jeffrey Epstein a lot meeting up with him a lot uh definitely sounds like they were very close inviting him to the island basically this guy is going to be here from Europe also you should come this weekend they were together all throughout New York constantly messaging each other it is not a good look there is no question these two were friends and I do not accept that the person who's effectively spying on all of us he's got to deal with the military through"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:28:00](/episodes/ep-CEF7gQRWYCE.md#t-00-27-57): “and thought about it he did because he was emailing Jeffrey Epstein a lot meeting up with him a lot uh definitely sounds like they were very close inviting him to the island basically this guy is going to be here from Europe also you should come this weekend they were together all throughout New York constantly messaging each other it is not a good look there is no question these two were friends and I do not accept that the person who's effectively spying on all of us he's got to deal with the military through”
+
+</details>
 
 </details>
 
@@ -117,10 +159,18 @@ Source: [Peter Thiel biography | SMU](https://www.smu.edu/tateseries/~/media/sit
 <summary>Funded (2)</summary>
 
 - **[Israel Defense Forces](/entities/org-israel-defense-forces.md)**
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 00:46:18](/episodes/ep-xjzb_t5Tk9o.md#t-00-46-04): "You have all of these billionaires, Peter Thiel, Alex Karp, ... Larry Ellison, ... they have a weird affair with Israel. ... They openly donate to the IDF. They openly have their headquarters in Israel."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 00:46:18](/episodes/ep-xjzb_t5Tk9o.md#t-00-46-04): “You have all of these billionaires, Peter Thiel, Alex Karp, ... Larry Ellison, ... they have a weird affair with Israel. ... They openly donate to the IDF. They openly have their headquarters in Israel.”
+
+</details>
 
 - **[JD Vance](/entities/person-jd-vance.md)**
-  - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:25:55](/episodes/ep-CEF7gQRWYCE.md#t-00-25-53): "But everyone knows that Peter Thiel effectively funded J.D. Vance's career."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:25:55](/episodes/ep-CEF7gQRWYCE.md#t-00-25-53): “But everyone knows that Peter Thiel effectively funded J.D. Vance's career.”
+
+</details>
 
 </details>
 
@@ -128,7 +178,11 @@ Source: [Peter Thiel biography | SMU](https://www.smu.edu/tateseries/~/media/sit
 <summary>Interviewed By (1)</summary>
 
 - **[Joe Rogan](/entities/person-joe-rogan.md)**
-  - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:26:27](/episodes/ep-CEF7gQRWYCE.md#t-00-25-53): "And Peter Thiel, who was mentioned early on as being someone who was friends with Epstein, went on to Rogan at the end of last year and sort of intimated that he really didn't know Epstein that well,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:26:27](/episodes/ep-CEF7gQRWYCE.md#t-00-25-53): “And Peter Thiel, who was mentioned early on as being someone who was friends with Epstein, went on to Rogan at the end of last year and sort of intimated that he really didn't know Epstein that well,”
+
+</details>
 
 </details>
 
@@ -136,7 +190,11 @@ Source: [Peter Thiel biography | SMU](https://www.smu.edu/tateseries/~/media/sit
 <summary>Met With (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:34:10](/episodes/ep-9naMwS0kMBE.md#t-00-34-08): "he then said let's go to Peter Thiel's house okay ... i met him at his la he was having a party or whatever it was a very unique day"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:34:10](/episodes/ep-9naMwS0kMBE.md#t-00-34-08): “he then said let's go to Peter Thiel's house okay ... i met him at his la he was having a party or whatever it was a very unique day”
+
+</details>
 
 </details>
 
@@ -144,22 +202,46 @@ Source: [Peter Thiel biography | SMU](https://www.smu.edu/tateseries/~/media/sit
 <summary>Referenced By (6)</summary>
 
 - **[Dave Rubin](/entities/person-dave-rubin.md)** friend of this
-  - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:37:21](/episodes/ep-9naMwS0kMBE.md#t-00-37-21)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:37:21](/episodes/ep-9naMwS0kMBE.md#t-00-37-21): “he went to his friend billionaire Peter Thiel and asked for five million dollars”
+
+</details>
 
 - **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)** friend of this
-  - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:28:00](/episodes/ep-CEF7gQRWYCE.md#t-00-27-57)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:28:00](/episodes/ep-CEF7gQRWYCE.md#t-00-27-57): “and thought about it he did because he was emailing Jeffrey Epstein a lot meeting up with him a lot uh definitely sounds like they were very close inviting him to the island basically this guy is going to be here from Europe also you should come this weekend they were together all throughout New York constantly messaging each other it is not a good look there is no question these two were friends and I do not accept that the person who's effectively spying on all of us he's got to deal with the military through”
+
+</details>
 
 - **[Israel Defense Forces](/entities/org-israel-defense-forces.md)** funded by this
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 00:46:18](/episodes/ep-xjzb_t5Tk9o.md#t-00-46-04)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 00:46:18](/episodes/ep-xjzb_t5Tk9o.md#t-00-46-04): “You have all of these billionaires, Peter Thiel, Alex Karp, ... Larry Ellison, ... they have a weird affair with Israel. ... They openly donate to the IDF. They openly have their headquarters in Israel.”
+
+</details>
 
 - **[JD Vance](/entities/person-jd-vance.md)** funded by this
-  - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:25:55](/episodes/ep-CEF7gQRWYCE.md#t-00-25-53)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:25:55](/episodes/ep-CEF7gQRWYCE.md#t-00-25-53): “But everyone knows that Peter Thiel effectively funded J.D. Vance's career.”
+
+</details>
 
 - **[Joe Rogan](/entities/person-joe-rogan.md)** interviewed this
-  - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:26:27](/episodes/ep-CEF7gQRWYCE.md#t-00-25-53)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:26:27](/episodes/ep-CEF7gQRWYCE.md#t-00-25-53): “And Peter Thiel, who was mentioned early on as being someone who was friends with Epstein, went on to Rogan at the end of last year and sort of intimated that he really didn't know Epstein that well,”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** met with this
-  - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:34:10](/episodes/ep-9naMwS0kMBE.md#t-00-34-08)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:34:10](/episodes/ep-9naMwS0kMBE.md#t-00-34-08): “he then said let's go to Peter Thiel's house okay ... i met him at his la he was having a party or whatever it was a very unique day”
+
+</details>
 
 </details>
 

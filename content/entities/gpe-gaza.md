@@ -1,6 +1,6 @@
 ---
 title: "Gaza"
-description: "Gaza (Places) - 88 mentions"
+description: "Gaza (Places) - 81 mentions"
 id: "gpe-gaza"
 type: "GPE"
 aliases:
@@ -20,10 +20,74 @@ _Type: Places_
 > United Nations geographic material uses Gaza Strip for the territory; Gaza is the transcript’s established short form and existing alias.
 Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitallibrary.un.org/record/133785/files/E_ESCWA_AGR_85_4-EN.pdf)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-03">2025-09-18 · 00:35:14</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#ent-gpe-gaza-t-00-49-04">2026-02-10 · 00:49:30</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>81</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-gaza-t-00-01-59">Candace x Bassem Youssef | Candace Ep 298</a> (14 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-03" style="--pulse-height:29%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 4 mentions" title="2025-09-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-gpe-gaza-t-00-30-33" style="--pulse-height:36%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 5 mentions" title="2025-09-22 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-gaza-t-00-46-58" style="--pulse-height:86%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 12 mentions" title="2025-10-09 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-gpe-gaza-t-00-39-34" style="--pulse-height:29%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 4 mentions" title="2025-10-29 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-gaza-t-00-36-18" style="--pulse-height:21%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 3 mentions" title="2025-10-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-gaza-t-01-02-26" style="--pulse-height:14%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-gpe-gaza-t-00-18-49" style="--pulse-height:36%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 5 mentions" title="2025-11-08 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-gaza-t-00-28-16" style="--pulse-height:21%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 3 mentions" title="2025-11-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-gaza-t-00-52-05" style="--pulse-height:14%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-gaza-t-00-07-06" style="--pulse-height:36%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 5 mentions" title="2026-01-09 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-gaza-t-00-33-15" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-gaza-t-00-43-53" style="--pulse-height:21%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-gpe-gaza-t-00-43-45" style="--pulse-height:14%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-gaza-t-00-33-39" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-gaza-t-00-35-58" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-gaza-t-00-09-53" style="--pulse-height:8%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-gaza-t-00-41-08" style="--pulse-height:14%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-gaza-t-00-01-59" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 14 mentions" title="2026-01-29 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-gaza-t-00-17-34" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-gpe-gaza-t-00-20-06" style="--pulse-height:57%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 8 mentions" title="2026-02-10 · 8 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-03) | 4 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-gpe-gaza-t-00-30-33) | 5 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-gaza-t-00-46-58) | 12 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-gaza-t-00-39-34) | 4 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-gaza-t-00-36-18) | 3 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-gaza-t-01-02-26) | 2 |
+| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-gpe-gaza-t-00-18-49) | 5 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-gaza-t-00-28-16) | 3 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-gaza-t-00-52-05) | 2 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-gaza-t-00-07-06) | 5 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-gaza-t-00-33-15) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-gaza-t-00-43-53) | 3 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-gpe-gaza-t-00-43-45) | 2 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-gaza-t-00-33-39) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-gaza-t-00-35-58) | 1 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-gaza-t-00-09-53) | 1 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-gaza-t-00-41-08) | 2 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-gaza-t-00-01-59) | 14 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-gaza-t-00-17-34) | 1 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-gpe-gaza-t-00-20-06) | 8 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (81)</strong></summary>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (8 mentions)</summary>
@@ -209,10 +273,7 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 </details>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (4 mentions)</summary>
-
-**[00:28:57](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-gaza-t-00-28-16)**
-> "about what was happening in Gaza."
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (3 mentions)</summary>
 
 **[00:28:57](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-gaza-t-00-28-16)**
 > "about what was happening in Gaza."
@@ -257,13 +318,10 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 </details>
 
 <details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (4 mentions)</summary>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (3 mentions)</summary>
 
 **[00:36:34](/episodes/ep-iHav0PPzUz8.md#ent-gpe-gaza-t-00-36-18)**
 > "And the reason why they got so much support behind them is because they were against this destruction of Gaza"
-
-**[00:36:34](/episodes/ep-iHav0PPzUz8.md#ent-gpe-gaza-t-00-36-18)**
-> "...e against this destruction of Gaza—which was just like the most just horrible, inexc..."
 
 **[00:45:50](/episodes/ep-iHav0PPzUz8.md#ent-gpe-gaza-t-00-45-50)**
 > "...onomist magazine—it describes Gaza as quote, a human rubbish heap."
@@ -274,13 +332,10 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 </details>
 
 <details>
-<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (5 mentions)</summary>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (4 mentions)</summary>
 
 **[00:39:34](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-gaza-t-00-39-34)**
 > "the single greatest contributor to me being sort of just smacked in the gut about Gaza"
-
-**[00:39:34](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-gaza-t-00-39-34)**
-> "...just smacked in the gut about Gaza and learning about Gaza."
 
 **[00:39:44](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-gaza-t-00-39-34)**
 > "...anything about the history of Gaza; knew nothing about it because it has been such a..."
@@ -355,28 +410,16 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (8 mentions)</summary>
-
-**[00:35:14](/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-03)**
-> "Gaza's not helpful"
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (4 mentions)</summary>
 
 **[00:35:14](/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-03)**
 > "Gaza's not helpful."
 
 **[00:35:19](/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-03)**
-> "Gaza just kind of being bombarded because you want to make a beachside place vacation"
-
-**[00:35:19](/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-03)**
 > "...talking about a free country; Gaza just kind of being bombarded because you want to ..."
 
 **[00:35:34](/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-03)**
-> "looking at what's happening in Gaza"
-
-**[00:35:34](/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-03)**
 > "...ooking at what's happening in Gaza. There's no question about that—how many kids hav..."
-
-**[00:35:57](/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-45)**
-> "It was actually related to Gaza and what you were gonna do with Gaza thereafter"
 
 **[00:35:57](/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-45)**
 > "It was actually related to Gaza and what you were gonna do with Gaza thereafter."

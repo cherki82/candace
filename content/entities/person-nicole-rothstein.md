@@ -1,16 +1,92 @@
 ---
 title: "Nicole Rothstein"
-description: "Nicole Rothstein (People) - 2 mentions"
+description: "Nicole Rothstein (People) - 11 mentions"
 id: "person-nicole-rothstein"
 type: "PERSON"
+categories:
+  - "Rothstein family"
+  - "Erika Kirk personal network"
 ---
 
 _Type: People_
 
+**Categories:** Rothstein family, Erika Kirk personal network
+
+**Entity verification:** verified
+> The source video repeatedly shows and names Nicole Rothstein in Erika Kirk family/roommate context; spelling matches the existing entity and prior source mentions.
+Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.com/watch?v=ZAsV0fHGBiM)
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-nicole-rothstein-t-00-44-30">2025-12-20 · 00:44:30</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-nicole-rothstein-t-00-55-42">2026-03-02 · 00:55:49</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-nicole-rothstein-t-00-39-57">Bride Of Charlie: A Wrinkle In Time | Episode 1</a> (8 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-nicole-rothstein-t-00-44-30" style="--pulse-height:25%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-nicole-rothstein-t-00-39-57" style="--pulse-height:100%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 8 mentions" title="2026-02-25 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-nicole-rothstein-t-00-55-42" style="--pulse-height:12%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-nicole-rothstein-t-00-44-30) | 2 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-nicole-rothstein-t-00-39-57) | 8 |
+| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-nicole-rothstein-t-00-55-42) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1 mentions)</summary>
+
+**[00:55:49](/episodes/ep-jTj9Ip46r4w.md#ent-person-nicole-rothstein-t-00-55-42)**
+> "you know Nicole Rothstein cousin she's probably over there same as my famil..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (8 mentions)</summary>
+
+**[00:40:34](/episodes/ep-ZAsV0fHGBiM.md#ent-person-nicole-rothstein-t-00-39-57)**
+> "Nicole Rothstein,"
+
+**[00:40:53](/episodes/ep-ZAsV0fHGBiM.md#ent-person-nicole-rothstein-t-00-40-41)**
+> "Nicole Rothstein said this. I want to be clear. The Rothstein fami..."
+
+**[00:41:03](/episodes/ep-ZAsV0fHGBiM.md#ent-person-nicole-rothstein-t-00-40-41)**
+> "...ow did Erica (Erika Kirk) and Nicole Rothstein get so close?"
+
+**[00:41:14](/episodes/ep-ZAsV0fHGBiM.md#ent-person-nicole-rothstein-t-00-40-41)**
+> "then Nicole Rothstein, I want you to understand who this would be to he..."
+
+**[00:41:17](/episodes/ep-ZAsV0fHGBiM.md#ent-person-nicole-rothstein-t-00-40-41)**
+> "Nicole Rothstein, it's going to sound ridiculous, but this is the ..."
+
+**[00:41:23](/episodes/ep-ZAsV0fHGBiM.md#ent-person-nicole-rothstein-t-00-40-41)**
+> "Nicole Rothstein would be Erica (Erika Kirk)'s father's sisters,"
+
+**[00:41:45](/episodes/ep-ZAsV0fHGBiM.md#ent-person-nicole-rothstein-t-00-41-26)**
+> "Nicole (Nicole Rothstein)'s father online."
+
+**[00:44:13](/episodes/ep-ZAsV0fHGBiM.md#ent-person-nicole-rothstein-t-00-41-26)**
+> "then a Koh Rothstein would indeed be her blood relative cousin"
+
+</details>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
@@ -29,10 +105,26 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Child Of (1)</summary>
+
+- **[Allan P. Rothstein](/entities/person-allan-p-rothstein.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:41:42](/episodes/ep-ZAsV0fHGBiM.md#t-00-41-26): “Alan Rothstein ... Nicole (Nicole Rothstein)'s father”
+
+</details>
+
+</details>
+
+<details>
 <summary>Cousin Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:52:48](/episodes/ep-w1oqQbR_bYs.md#t-00-52-09): "I'm her cousin"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:52:48](/episodes/ep-w1oqQbR_bYs.md#t-00-52-09): “I'm her cousin”
+
+</details>
 
 </details>
 
@@ -40,25 +132,80 @@ _Type: People_
 <summary>Defended (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:52:42](/episodes/ep-w1oqQbR_bYs.md#t-00-52-09): "This Nicole Rothstein who defends her in the comments currently"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:52:42](/episodes/ep-w1oqQbR_bYs.md#t-00-52-09): “This Nicole Rothstein who defends her in the comments currently”
+
+</details>
 
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Friend Of (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:40:50](/episodes/ep-ZAsV0fHGBiM.md#t-00-40-41): “Erica (Erika Kirk) was her best friend and her cousin. Nicole Rothstein said this.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (4)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** cousin of this
-  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:52:48](/episodes/ep-w1oqQbR_bYs.md#t-00-52-09)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:52:48](/episodes/ep-w1oqQbR_bYs.md#t-00-52-09): “I'm her cousin”
+
+</details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** defended by this
-  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:52:42](/episodes/ep-w1oqQbR_bYs.md#t-00-52-09)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:52:42](/episodes/ep-w1oqQbR_bYs.md#t-00-52-09): “This Nicole Rothstein who defends her in the comments currently”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:40:50](/episodes/ep-ZAsV0fHGBiM.md#t-00-40-41): “Erica (Erika Kirk) was her best friend and her cousin. Nicole Rothstein said this.”
+
+</details>
+
+- **[Allan P. Rothstein](/entities/person-allan-p-rothstein.md)** parent of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:41:42](/episodes/ep-ZAsV0fHGBiM.md#t-00-41-26): “Alan Rothstein ... Nicole (Nicole Rothstein)'s father”
+
+</details>
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Nicole Rothstein (1)</strong></summary>
+<summary><strong class="section-title">Statements about Nicole Rothstein (5)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (4)</summary>
+
+- [00:40:30](/episodes/ep-ZAsV0fHGBiM.md#t-00-39-57) (Claim) **Candace Owens** (via paraphrase): ["Nicole Rothstein alleged that half of the family she shared with Erika..."](/statements/statement-7979264d5f73.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Judaism](/entities/concept-judaism.md)
+
+- [00:40:44](/episodes/ep-ZAsV0fHGBiM.md#t-00-40-41) (Claim) **Candace Owens** (via paraphrase): ["Nicole Rothstein described Erika Kirk as her best friend and cousin af..."](/statements/statement-85af7d8fe890.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:41:17](/episodes/ep-ZAsV0fHGBiM.md#t-00-40-41) (Claim) **Candace Owens**: ["Under Erika Kirk's publicly stated parentage, Nicole and Allan Rothste..."](/statements/statement-68670113ee8d.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Allan P. Rothstein](/entities/person-allan-p-rothstein.md)
+
+- [00:41:40](/episodes/ep-ZAsV0fHGBiM.md#t-00-41-26) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk referred to Allan Rothstein as her uncle in an online tribu..."](/statements/statement-fd3c9814870a.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Allan P. Rothstein](/entities/person-allan-p-rothstein.md)
+
+</details>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>

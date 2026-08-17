@@ -1,0 +1,27 @@
+---
+title: "Madison Bransford works for The Daily Wire"
+description: "Evidence for the relationship: Madison Bransford works for The Daily Wire"
+relationship_id: "rel-db8a17e5efa3"
+subject: "person-madison-bransford"
+predicate: "works for"
+object: "org-the-daily-wire"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Madison Bransford](/entities/person-madison-bransford) works for [The Daily Wire](/entities/org-the-daily-wire)
+
+### Evidence (2 mentions)
+
+**[BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw)**
+
+- [00:45:24](/episodes/ep-HYn0P-P1wUw#t-00-45-24): _Maddie (Madison Bransford) was then landed upon and they decided because we're really going to stick it to Candace (Candace Owens), we're going to have her name the show in the no-no._
+
+**[You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI)**
+
+- [00:33:19](/episodes/ep-OEAHy3SsIiI#t-00-33-19): _they are trying to hard launch a young woman named Madison Bransford okay now she's apparently an intern at the Daily Wire_
+
+### Related
+
+- [Madison Bransford](/entities/person-madison-bransford)
+- [The Daily Wire](/entities/org-the-daily-wire)

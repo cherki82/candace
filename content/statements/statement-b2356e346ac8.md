@@ -23,7 +23,7 @@ veracity: "mixed"
 
 - [Don Frye](/entities/person-don-frye.md) (person)
 - [Fort Huachuca](/entities/gpe-fort-huachuca.md) (gpe)
-- [Sierra Vista](/entities/gpe-sierra-vista-arizona.md) (gpe)
+- [Sierra Vista](/entities/gpe-sierra-vista.md) (gpe)
 
 ## Source
 

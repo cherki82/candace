@@ -1,6 +1,6 @@
 ---
 title: "Chicago, Illinois"
-description: "Chicago, Illinois (Places) - 13 mentions"
+description: "Chicago, Illinois (Places) - 16 mentions"
 id: "gpe-chicago-illinois"
 type: "GPE"
 aliases:
@@ -15,14 +15,75 @@ _Type: Places_
 
 **Categories:** Illinois
 
+> **Possibly overlapping entity records:** [Chicago](/entities/gpe-chicago). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > Official city portal confirms canonical place name.
 Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-chicago-illinois-t-00-28-51">2026-01-06 · 00:28:55</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-chicago-illinois-t-00-31-57">2026-03-02 · 00:32:14</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-Wjul6YV6izo.md#ent-gpe-chicago-illinois-t-00-16-31">AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299</a> (4 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-chicago-illinois-t-00-28-51" style="--pulse-height:75%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 3 mentions" title="2026-01-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-chicago-illinois-t-00-42-29" style="--pulse-height:25%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-chicago-illinois-t-00-08-25" style="--pulse-height:25%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-chicago-illinois-t-00-27-58" style="--pulse-height:75%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 3 mentions" title="2026-01-27 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-chicago-illinois-t-00-01-26" style="--pulse-height:25%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-gpe-chicago-illinois-t-00-16-31" style="--pulse-height:100%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 4 mentions" title="2026-01-30 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-chicago-illinois-t-00-17-00" style="--pulse-height:25%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-chicago-illinois-t-00-31-57" style="--pulse-height:50%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-chicago-illinois-t-00-28-51) | 3 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-chicago-illinois-t-00-42-29) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-chicago-illinois-t-00-08-25) | 1 |
+| 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-gpe-chicago-illinois-t-00-27-58) | 3 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-chicago-illinois-t-00-01-26) | 1 |
+| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-gpe-chicago-illinois-t-00-16-31) | 4 |
+| 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-chicago-illinois-t-00-17-00) | 1 |
+| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-chicago-illinois-t-00-31-57) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (2 mentions)</summary>
+
+**[00:09:30](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-chicago-illinois-t-00-31-57)**
+> "... this right, Baha'i Temple in Chicago."
+
+**[00:32:14](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-chicago-illinois-t-00-31-57)**
+> "...ca at the Haymarket Square in Chicago that involved, quote unquote, German immigrants."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (1 mentions)</summary>
+
+**[00:17:00](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-chicago-illinois-t-00-17-00)**
+> "You can thank Indiana for the hippies movement. Thank you, Indiana. Anyway, suddenly Jerri (Jerri Frantzve)'s big time. Okay. In 1971, she heads out to Chicago and she begins working for Quaker Oats for three years. Now, if you're..."
+
+</details>
 
 <details>
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (4 mentions)</summary>
@@ -99,5 +160,26 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Chicago, Illinois (2)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1)</summary>
+
+- [00:09:30](/episodes/ep-jTj9Ip46r4w.md#t-00-09-00) (Claim) **Candace Owens**: ["Jerri Frantzve and Kent Frantzve were married at the Baha'i House of W..."](/statements/statement-19f5c259f6de.md)
+  - Also about: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md), [Baháʼí House of Worship for North America](/entities/org-bahai-house-of-worship-wilmette.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (1)</summary>
+
+- [00:17:00](/episodes/ep-1IY2oD-_xVA.md#t-00-17-00) (Claim) **Candace Owens**: ["Jerri Frantzve began working for Quaker Oats in Chicago in 1971 and re..."](/statements/statement-252db2171f45.md)
+  - Also about: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [The Quaker Oats Company](/entities/org-quaker-oats-company.md)
+
+</details>
 
 </details>

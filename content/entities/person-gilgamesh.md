@@ -16,10 +16,42 @@ _Type: People_
 > Reference identifies Gilgamesh as the legendary king of Uruk.
 Source: [Encyclopedia of the Bible: Gilgamesh](https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Gilgamesh)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-gilgamesh-t-00-33-44">2026-02-02 · 00:34:03</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-gilgamesh-t-00-47-15">2026-02-05 · 00:47:15</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>27</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-gilgamesh-t-00-02-15">REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302</a> (12 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-gilgamesh-t-00-33-44" style="--pulse-height:33%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 4 mentions" title="2026-02-02 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-gilgamesh-t-00-05-55" style="--pulse-height:83%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 10 mentions" title="2026-02-03 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-gilgamesh-t-00-02-15" style="--pulse-height:100%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 12 mentions" title="2026-02-04 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-gilgamesh-t-00-47-15" style="--pulse-height:8%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-gilgamesh-t-00-33-44) | 4 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-gilgamesh-t-00-05-55) | 10 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-gilgamesh-t-00-02-15) | 12 |
+| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-gilgamesh-t-00-47-15) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (27)</strong></summary>
 
 <details>
 <summary>An Open Letter To Erika Kirk | Candace Ep 303 (1 mentions)</summary>

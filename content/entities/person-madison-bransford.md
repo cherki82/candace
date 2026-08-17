@@ -20,10 +20,38 @@ _Type: People_
 > Syndicated episode transcript and matching public social profile support the canonical name and nickname.
 Source: [You Won't Believe What Happened While We Were Off Air | Candace Ep 284](https://pod.wave.co/podcast/candace-cc79581b-6fe8-428e-ac65-6f1bc0d005e4/you-wont-believe-what-happened-while-we-were-off-air-candace-ep-284)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-madison-bransford-t-00-33-19">2026-01-05 · 00:33:19</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-madison-bransford-t-01-05-11">2026-01-06 · 01:05:15</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-madison-bransford-t-00-44-50">BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285</a> (8 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-madison-bransford-t-00-33-19" style="--pulse-height:25%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-madison-bransford-t-00-44-50" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 8 mentions" title="2026-01-06 · 8 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-madison-bransford-t-00-33-19) | 2 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-madison-bransford-t-00-44-50) | 8 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (8 mentions)</summary>
@@ -73,17 +101,25 @@ Source: [You Won't Believe What Happened While We Were Off Air | Candace Ep 284]
 <details>
 <summary>Works For (1)</summary>
 
-- **[The Daily Wire](/entities/org-daily-wire.md)**
-  - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:33:19](/episodes/ep-OEAHy3SsIiI.md#t-00-32-53): "they are trying to hard launch a young woman named Madison Bransford okay now she's apparently an intern at the Daily Wire"
-  - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:45:24](/episodes/ep-HYn0P-P1wUw.md#t-00-44-50): "Maddie (Madison Bransford) was then landed upon and they decided because we're really going to stick it to Candace (Candace Owens), we're going to have her name the show in the no-no."
+- **[The Daily Wire](/entities/org-the-daily-wire.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:33:19](/episodes/ep-OEAHy3SsIiI.md#t-00-32-53): “they are trying to hard launch a young woman named Madison Bransford okay now she's apparently an intern at the Daily Wire”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:45:24](/episodes/ep-HYn0P-P1wUw.md#t-00-44-50): “Maddie (Madison Bransford) was then landed upon and they decided because we're really going to stick it to Candace (Candace Owens), we're going to have her name the show in the no-no.”
+
+</details>
 
 </details>
 
 <details>
 <summary>Referenced By (1)</summary>
 
-- **[The Daily Wire](/entities/org-daily-wire.md)** employs this
-  - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:33:19](/episodes/ep-OEAHy3SsIiI.md#t-00-32-53)
+- **[The Daily Wire](/entities/org-the-daily-wire.md)** employs this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:33:19](/episodes/ep-OEAHy3SsIiI.md#t-00-32-53): “they are trying to hard launch a young woman named Madison Bransford okay now she's apparently an intern at the Daily Wire”
+
+</details>
 
 </details>
 
@@ -96,7 +132,7 @@ Source: [You Won't Believe What Happened While We Were Off Air | Candace Ep 284]
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1)</summary>
 
 - [00:45:24](/episodes/ep-HYn0P-P1wUw.md#t-00-44-50) (Accusation) **Candace Owens**: ["The Daily Wire selected Madison Bransford to host a show called In the..."](/statements/statement-7a95cf8eb79f.md)
-  - Also about: [The Daily Wire](/entities/org-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [In the No-No](/entities/work-in-the-no-no.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [In the No-No](/entities/work-in-the-no-no.md)
 
 </details>
 

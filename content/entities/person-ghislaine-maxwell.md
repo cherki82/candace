@@ -16,10 +16,46 @@ _Type: People_
 > DOJ SDNY page confirms canonical name in the Maxwell/Epstein case context.
 Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department of Justice](https://www.justice.gov/usao-sdny/human-trafficking-and-sexual-exploitation-minors)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-28-54">2025-09-15 · 00:29:10</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-ghislaine-maxwell-t-00-43-52">2026-02-13 · 00:43:55</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-ghislaine-maxwell-t-00-41-41">Okay…These Text Messages Are Crazy! | Candace Ep 307</a> (3 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-czVBmqZP6Ss.md#t-00-28-54" style="--pulse-height:67%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 2 mentions" title="2025-09-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-ghislaine-maxwell-t-00-18-10" style="--pulse-height:33%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-ghislaine-maxwell-t-00-53-32" style="--pulse-height:33%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-ghislaine-maxwell-t-00-15-24" style="--pulse-height:33%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-ghislaine-maxwell-t-00-36-11" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-ghislaine-maxwell-t-00-41-41" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 3 mentions" title="2026-02-13 · 3 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#t-00-28-54) | 2 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-person-ghislaine-maxwell-t-00-18-10) | 1 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-person-ghislaine-maxwell-t-00-53-32) | 1 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-ghislaine-maxwell-t-00-15-24) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-ghislaine-maxwell-t-00-36-11) | 1 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-ghislaine-maxwell-t-00-41-41) | 3 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (3 mentions)</summary>
@@ -87,7 +123,11 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 <summary>Child Of (1)</summary>
 
 - **[Robert Maxwell](/entities/person-robert-maxwell.md)**
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:29:10](/episodes/ep-czVBmqZP6Ss.md#t-00-28-54): "Ghislaine's father, Robert Maxwell"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:29:10](/episodes/ep-czVBmqZP6Ss.md#t-00-28-54): “Ghislaine's father, Robert Maxwell”
+
+</details>
 
 </details>
 
@@ -95,7 +135,11 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 <summary>Referenced By (1)</summary>
 
 - **[Robert Maxwell](/entities/person-robert-maxwell.md)** parent of this
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:29:10](/episodes/ep-czVBmqZP6Ss.md#t-00-28-54)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:29:10](/episodes/ep-czVBmqZP6Ss.md#t-00-28-54): “Ghislaine's father, Robert Maxwell”
+
+</details>
 
 </details>
 

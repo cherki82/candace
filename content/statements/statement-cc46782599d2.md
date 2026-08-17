@@ -4,9 +4,10 @@ description: "\"Erika Kirk moved the wedding photograph to a lower studio shelf 
 statement_id: "statement-cc46782599d2"
 speaker: "Turning Point USA"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -36,7 +37,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+A published report quotes a TPUSA spokesperson saying Erika moved the wedding photograph to a lower shelf so her daughter could see it and that it remained in the studio. This verifies that TPUSA made the quoted explanation, not independent physical custody of the photograph.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Why the Internet Is Obsessed With Erika Kirk's Bookshelf](https://www.inquisitr.com/why-the-internet-is-obsessed-with-erika-kirks-bookshelf-and-whats-really-behind-the-missing-charlie-kirk-wedding-photo/)
+
+*Verified: 2026-08-16T11:38:38.366056*
 
 ---
 

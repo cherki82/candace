@@ -1,6 +1,6 @@
 ---
 title: "George Farmer"
-description: "George Farmer (People) - 34 mentions"
+description: "George Farmer (People) - 39 mentions"
 id: "person-george-farmer"
 type: "PERSON"
 aliases:
@@ -20,10 +20,79 @@ _Type: People_
 > Candace Owens's official channel identifies her husband as George Farmer, resolving the episode's spouse-context first name.
 Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.com/watch?v=fdSjgsa9RtE)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-george-farmer-t-00-00-37">2025-09-11 · 00:00:37</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-george-farmer-t-02-51-04">2026-08-14 · 02:51:14</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>39</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>1</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-5autG89PW6w.md#ent-person-george-farmer-t-00-06-06">TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249</a> (11 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-_dRaEO47-co.md#ent-person-george-farmer-t-00-00-37" style="--pulse-height:36%" aria-label="To My Friend, Charlie Kirk.: 4 mentions" title="2025-09-11 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-george-farmer-t-00-46-26" style="--pulse-height:27%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 3 mentions" title="2025-09-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-person-george-farmer-t-00-06-06" style="--pulse-height:100%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 11 mentions" title="2025-10-07 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-george-farmer-t-00-57-17" style="--pulse-height:36%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 4 mentions" title="2025-10-30 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-person-george-farmer-t-00-15-21" style="--pulse-height:18%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-02-04" style="--pulse-height:55%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 6 mentions" title="2025-12-16 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-george-farmer-t-00-06-16" style="--pulse-height:9%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-george-farmer-t-00-45-47" style="--pulse-height:9%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-person-george-farmer-t-00-44-06" style="--pulse-height:9%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-george-farmer-t-01-32-20" style="--pulse-height:36%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-11 | [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md#ent-person-george-farmer-t-00-00-37) | 4 |
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-person-george-farmer-t-00-46-26) | 3 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-george-farmer-t-00-06-06) | 11 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-george-farmer-t-00-57-17) | 4 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-person-george-farmer-t-00-15-21) | 2 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-02-04) | 6 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-george-farmer-t-00-06-16) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-george-farmer-t-00-45-47) | 1 |
+| 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-person-george-farmer-t-00-44-06) | 1 |
+| 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-george-farmer-t-01-32-20) | 4 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
+
+**[01:32:35](/episodes/ep-nPhCKwJ6ye8.md#ent-person-george-farmer-t-01-32-20)**
+> "George could be sending text messages right now. We are ..."
+
+**[02:50:59](/episodes/ep-nPhCKwJ6ye8.md#ent-person-george-farmer-t-02-50-59)**
+> "George, her and Charlie,"
+
+**[02:51:04](/episodes/ep-nPhCKwJ6ye8.md#ent-person-george-farmer-t-02-51-04)**
+> "...was kind of in my bubble with George. George traveled with me and Charlie, but Erika a..."
+
+**[02:51:14](/episodes/ep-nPhCKwJ6ye8.md#ent-person-george-farmer-t-02-51-04)**
+> "George and I were planning our marriage."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (1 mentions)</summary>
+
+**[00:44:40](/episodes/ep-2tFYJf1klgY.md#ent-person-george-farmer-t-00-44-06)**
+> "As soon as I met George (George Farmer), that became a thing. I'm aware he turned his ph..."
+
+</details>
 
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
@@ -170,8 +239,13 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** married to this
-  - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:06:24](/episodes/ep-BKcOm32ZEGk.md#t-00-06-16)
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:46:12](/episodes/ep-GY6GWceEqtQ.md#t-00-45-47)
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:06:24](/episodes/ep-BKcOm32ZEGk.md#t-00-06-16): “The story had my husband. I've told it many times how I got engaged 18 days later... But I already knew George... I looked at my husband's face and I already knew him.”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:46:12](/episodes/ep-GY6GWceEqtQ.md#t-00-45-47): “I could bake cookies with any of George (George Farmer)'s exes. I just don't care. He's my husband.”
+- [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 01:32:35](/episodes/ep-nPhCKwJ6ye8.md#t-01-32-20): “George could be sending text messages right now. We are married. He has every login that I have.”
+
+</details>
 
 </details>
 

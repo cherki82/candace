@@ -1,6 +1,6 @@
 ---
 title: "Steven Crowder"
-description: "Steven Crowder (People) - 9 mentions"
+description: "Steven Crowder (People) - 8 mentions"
 id: "person-steven-crowder"
 type: "PERSON"
 aliases:
@@ -11,10 +11,42 @@ _Type: People_
 
 **Also known as:** Crowder
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-steven-crowder-t-00-04-16">2025-11-17 · 00:04:51</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-steven-crowder-t-00-57-30">2026-02-13 · 00:57:30</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-steven-crowder-t-00-04-16">Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266</a> (3 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-steven-crowder-t-00-04-16" style="--pulse-height:100%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 3 mentions" title="2025-11-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-steven-crowder-t-00-47-39" style="--pulse-height:67%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 2 mentions" title="2025-12-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-steven-crowder-t-00-12-00" style="--pulse-height:33%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-steven-crowder-t-00-57-11" style="--pulse-height:67%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-person-steven-crowder-t-00-04-16) | 3 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-steven-crowder-t-00-47-39) | 2 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-steven-crowder-t-00-12-00) | 1 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-steven-crowder-t-00-57-11) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>
@@ -28,10 +60,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
-
-**[00:12:17](/episodes/ep-w1oqQbR_bYs.md#ent-person-steven-crowder-t-00-12-00)**
-> "Steven Crowder got a hold of this week"
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
 
 **[00:12:09](/episodes/ep-w1oqQbR_bYs.md#ent-person-steven-crowder-t-00-12-00)**
 > "... Jeremy Boring, which somehow Steven Crowder got a hold of this week or last week or whatever."
@@ -72,7 +101,11 @@ _Type: People_
 <summary>Contributor To (1)</summary>
 
 - **[PragerU](/entities/org-prageru.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#t-00-47-39): "...e she's ever been associated with. Whether that's Turning Point USA, whether that's The Daily Wire, whether that's PragerU, Charlie Kirk (Charlie Kirk), Steven Crowder..."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#t-00-47-39): “...e she's ever been associated with. Whether that's Turning Point USA, whether that's The Daily Wire, whether that's PragerU, Charlie Kirk (Charlie Kirk), Steven Crowder...”
+
+</details>
 
 </details>
 
@@ -80,7 +113,23 @@ _Type: People_
 <summary>Criticized (1)</summary>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
-  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:12:18](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00): "Steven Crowder got a hold of this week or last week or whatever"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:12:18](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00): “Steven Crowder got a hold of this week or last week or whatever”
+
+</details>
+
+</details>
+
+<details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:57:19](/episodes/ep-1hcjQGgvxUY.md#t-00-57-11): “I think he knew he was ... Stop shoveling out Fed slop.”
+
+</details>
 
 </details>
 
@@ -88,21 +137,44 @@ _Type: People_
 <summary>Has Contributor (1)</summary>
 
 - **[PragerU](/entities/org-prageru.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#t-00-47-39): "...e she's ever been associated with. Whether that's Turning Point USA, whether that's The Daily Wire, whether that's PragerU, Charlie Kirk (Charlie Kirk), Steven Crowder..."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#t-00-47-39): “...e she's ever been associated with. Whether that's Turning Point USA, whether that's The Daily Wire, whether that's PragerU, Charlie Kirk (Charlie Kirk), Steven Crowder...”
+
+</details>
 
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[PragerU](/entities/org-prageru.md)** contributor to this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#t-00-47-39)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#t-00-47-39): “...e she's ever been associated with. Whether that's Turning Point USA, whether that's The Daily Wire, whether that's PragerU, Charlie Kirk (Charlie Kirk), Steven Crowder...”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:57:19](/episodes/ep-1hcjQGgvxUY.md#t-00-57-11): “I think he knew he was ... Stop shoveling out Fed slop.”
+
+</details>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** criticized by this
-  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:12:18](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:12:18](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00): “Steven Crowder got a hold of this week or last week or whatever”
+
+</details>
 
 - **[PragerU](/entities/org-prageru.md)** has contributor this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#t-00-47-39)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#t-00-47-39): “...e she's ever been associated with. Whether that's Turning Point USA, whether that's The Daily Wire, whether that's PragerU, Charlie Kirk (Charlie Kirk), Steven Crowder...”
+
+</details>
 
 </details>
 

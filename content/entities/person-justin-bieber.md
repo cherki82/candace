@@ -16,10 +16,44 @@ _Type: People_
 > Britannica confirms the canonical name and public identity.
 Source: [Justin Bieber | Biography, Albums, Songs, & Facts](https://www.britannica.com/biography/Justin-Bieber)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-person-justin-bieber-t-00-06-45">2025-09-25 · 00:06:45</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-justin-bieber-t-00-15-52">2026-01-07 · 00:15:58</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-justin-bieber-t-00-15-24">From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265</a> (2 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-person-justin-bieber-t-00-06-45" style="--pulse-height:50%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-justin-bieber-t-00-33-36" style="--pulse-height:50%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-justin-bieber-t-00-41-49" style="--pulse-height:50%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-justin-bieber-t-00-15-24" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 2 mentions" title="2025-11-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-justin-bieber-t-00-15-52" style="--pulse-height:50%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-person-justin-bieber-t-00-06-45) | 1 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-justin-bieber-t-00-33-36) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-justin-bieber-t-00-41-49) | 1 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-justin-bieber-t-00-15-24) | 2 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-justin-bieber-t-00-15-52) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
 
 <details>
 <summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1 mentions)</summary>
@@ -73,7 +107,11 @@ Source: [Justin Bieber | Biography, Albums, Songs, & Facts](https://www.britanni
 <summary>Lives In (1)</summary>
 
 - **[Thousand Oaks, California](/entities/gpe-thousand-oaks-california.md)**
-  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:16:04](/episodes/ep-7RLtGgkTh9o.md#t-00-15-24): "as does Justin Bieber"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:16:04](/episodes/ep-7RLtGgkTh9o.md#t-00-15-24): “as does Justin Bieber”
+
+</details>
 
 </details>
 
@@ -81,7 +119,11 @@ Source: [Justin Bieber | Biography, Albums, Songs, & Facts](https://www.britanni
 <summary>Referenced By (1)</summary>
 
 - **[Thousand Oaks, California](/entities/gpe-thousand-oaks-california.md)** residence of this
-  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:16:04](/episodes/ep-7RLtGgkTh9o.md#t-00-15-24)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:16:04](/episodes/ep-7RLtGgkTh9o.md#t-00-15-24): “as does Justin Bieber”
+
+</details>
 
 </details>
 

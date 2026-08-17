@@ -1,6 +1,6 @@
 ---
 title: "Derek Maxfield"
-description: "Derek Maxfield (People) - 9 mentions"
+description: "Derek Maxfield (People) - 8 mentions"
 id: "person-derek-maxfield"
 type: "PERSON"
 ---
@@ -10,16 +10,43 @@ _Type: People_
 **Entity verification:** verified
 > Saprea board member and spouse of Shelaine Maxfield, named in the episode.
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-derek-maxfield-t-00-17-09">2025-09-22 · 00:17:13</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-person-derek-maxfield-t-00-09-53">2025-10-30 · 00:10:01</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-derek-maxfield-t-00-38-41">REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251</a> (3 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ja26iltROkM.md#ent-person-derek-maxfield-t-00-17-09" style="--pulse-height:67%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 2 mentions" title="2025-09-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-derek-maxfield-t-00-38-41" style="--pulse-height:100%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 3 mentions" title="2025-10-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-derek-maxfield-t-00-04-12" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 3 mentions" title="2025-10-30 · 3 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-person-derek-maxfield-t-00-17-09) | 2 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-derek-maxfield-t-00-38-41) | 3 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-derek-maxfield-t-00-04-12) | 3 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
 
 <details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (4 mentions)</summary>
-
-**[00:04:28](/episodes/ep-iHav0PPzUz8.md#ent-person-derek-maxfield-t-00-04-12)**
-> "The second mysterious flight...warranted a response from one of the owners of the plane, who was Derek Maxfield"
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (3 mentions)</summary>
 
 **[00:04:28](/episodes/ep-iHav0PPzUz8.md#ent-person-derek-maxfield-t-00-04-12)**
 > "... created so much pressure that it warranted a response from one of the owners of the plane, who was Derek Maxfield. Candace Owens: He's married to Shalane Maxfield. Candace Owens: The two of them—they're a billiona..."
@@ -66,7 +93,11 @@ _Type: People_
 <summary>Works For (1)</summary>
 
 - **[Saprea](/entities/org-saprea.md)**
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:18:14](/episodes/ep-wcD2khO3rOA.md#t-00-18-01): "Derek and Shelaine Maxfield, who run this abuse charity"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:18:14](/episodes/ep-wcD2khO3rOA.md#t-00-18-01): “Derek and Shelaine Maxfield, who run this abuse charity”
+
+</details>
 
 </details>
 
@@ -74,7 +105,11 @@ _Type: People_
 <summary>Referenced By (1)</summary>
 
 - **[Saprea](/entities/org-saprea.md)** employs this
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:18:14](/episodes/ep-wcD2khO3rOA.md#t-00-18-01)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:18:14](/episodes/ep-wcD2khO3rOA.md#t-00-18-01): “Derek and Shelaine Maxfield, who run this abuse charity”
+
+</details>
 
 </details>
 

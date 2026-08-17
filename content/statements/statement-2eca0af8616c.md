@@ -21,7 +21,7 @@ veracity: "mixed"
 
 ## About
 
-- [The Daily Wire](/entities/org-daily-wire.md) (org)
+- [The Daily Wire](/entities/org-the-daily-wire.md) (org)
 - [Perdue Farms](/entities/org-perdue-farms.md) (org)
 - [Pharmaceutical industry](/entities/concept-pharmaceutical-industry.md) (concept)
 

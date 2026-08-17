@@ -21,10 +21,36 @@ _Type: People_
 > Associated Press confirms Brooklyn Beckham as the eldest child of David and Victoria Beckham and husband of Nicola Peltz.
 Source: [Brooklyn Beckham accuses David and Victoria of putting branding before family and sabotaging wedding](https://apnews.com/article/fb386d4ef5cde9fa55b97604482e8ff0)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-brooklyn-beckham-t-00-00-41">2026-01-21 · 00:00:41</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-brooklyn-beckham-t-00-55-04">2026-01-21 · 00:55:11</a></strong></div>
+<div><span>Episodes</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Statements by</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Relationships</span><strong>17</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-brooklyn-beckham-t-00-30-19">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (15 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-brooklyn-beckham-t-00-30-19" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 15 mentions" title="2026-01-21 · 15 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-brooklyn-beckham-t-00-30-19) | 15 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
 
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (15 mentions)</summary>
@@ -85,10 +111,18 @@ Source: [Brooklyn Beckham accuses David and Victoria of putting branding before 
 <summary>Accused (2)</summary>
 
 - **[Victoria Beckham](/entities/person-victoria-beckham.md)**
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:36:06](/episodes/ep-GY6GWceEqtQ.md#t-00-36-06): "My parents have been trying endlessly to ruin my relationship since before my wedding and has not stopped."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:36:06](/episodes/ep-GY6GWceEqtQ.md#t-00-36-06): “My parents have been trying endlessly to ruin my relationship since before my wedding and has not stopped.”
+
+</details>
 
 - **[David Beckham](/entities/person-david-beckham.md)**
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:36:06](/episodes/ep-GY6GWceEqtQ.md#t-00-36-06): "My parents have been trying endlessly to ruin my relationship since before my wedding and has not stopped."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:36:06](/episodes/ep-GY6GWceEqtQ.md#t-00-36-06): “My parents have been trying endlessly to ruin my relationship since before my wedding and has not stopped.”
+
+</details>
 
 </details>
 
@@ -96,10 +130,18 @@ Source: [Brooklyn Beckham accuses David and Victoria of putting branding before 
 <summary>Child Of (2)</summary>
 
 - **[Victoria Beckham](/entities/person-victoria-beckham.md)**
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:31:02](/episodes/ep-GY6GWceEqtQ.md#t-00-31-02): "Who is, I think he's the firstborn son of Victoria (Victoria Beckham) Posh Spice Beckham, David Beckham, the football player, much adored family unit,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:31:02](/episodes/ep-GY6GWceEqtQ.md#t-00-31-02): “Who is, I think he's the firstborn son of Victoria (Victoria Beckham) Posh Spice Beckham, David Beckham, the football player, much adored family unit,”
+
+</details>
 
 - **[David Beckham](/entities/person-david-beckham.md)**
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:31:02](/episodes/ep-GY6GWceEqtQ.md#t-00-31-02): "Who is, I think he's the firstborn son of Victoria (Victoria Beckham) Posh Spice Beckham, David Beckham, the football player, much adored family unit,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:31:02](/episodes/ep-GY6GWceEqtQ.md#t-00-31-02): “Who is, I think he's the firstborn son of Victoria (Victoria Beckham) Posh Spice Beckham, David Beckham, the football player, much adored family unit,”
+
+</details>
 
 </details>
 
@@ -107,13 +149,25 @@ Source: [Brooklyn Beckham accuses David and Victoria of putting branding before 
 <summary>Criticized By (3)</summary>
 
 - **[British Woman 1 (Ep GY6GWceEqtQ)](/entities/anon-src-GY6GWceEqtQ-001.md)**
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:54:10](/episodes/ep-GY6GWceEqtQ.md#t-00-54-10): "This is a message for Brooklyn Beckham. Go to bed ... seven stories slandering your parents."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:54:10](/episodes/ep-GY6GWceEqtQ.md#t-00-54-10): “This is a message for Brooklyn Beckham. Go to bed ... seven stories slandering your parents.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:38:51](/episodes/ep-GY6GWceEqtQ.md#t-00-38-51): "This is not a problem that is worth saying your parents are dead to you over ... You are not suffering."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:38:51](/episodes/ep-GY6GWceEqtQ.md#t-00-38-51): “This is not a problem that is worth saying your parents are dead to you over ... You are not suffering.”
+
+</details>
 
 - **[British Woman 2 (Ep GY6GWceEqtQ)](/entities/anon-src-GY6GWceEqtQ-002.md)**
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:54:32](/episodes/ep-GY6GWceEqtQ.md#t-00-54-31): "I don't even have words for the words that you've written in the notes on your phone and thought it was okay to just put that on your Instagram ... Brooklyn (Brooklyn Beckham), story."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:54:32](/episodes/ep-GY6GWceEqtQ.md#t-00-54-31): “I don't even have words for the words that you've written in the notes on your phone and thought it was okay to just put that on your Instagram ... Brooklyn (Brooklyn Beckham), story.”
+
+</details>
 
 </details>
 
@@ -121,7 +175,11 @@ Source: [Brooklyn Beckham accuses David and Victoria of putting branding before 
 <summary>Married To (1)</summary>
 
 - **[Nicola Peltz](/entities/person-nicola-peltz.md)**
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:45:34](/episodes/ep-GY6GWceEqtQ.md#t-00-45-05): "My wife has been consistently disrespected by my family no matter how hard we have tried to come together as one."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:45:34](/episodes/ep-GY6GWceEqtQ.md#t-00-45-05): “My wife has been consistently disrespected by my family no matter how hard we have tried to come together as one.”
+
+</details>
 
 </details>
 
@@ -129,10 +187,18 @@ Source: [Brooklyn Beckham accuses David and Victoria of putting branding before 
 <summary>Sibling Of (2)</summary>
 
 - **[Romeo Beckham](/entities/person-romeo-beckham.md)**
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:42:40](/episodes/ep-GY6GWceEqtQ.md#t-00-42-06): "Brooklyn (Brooklyn Beckham), best men, his brothers, Romeo and Cruz,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:42:40](/episodes/ep-GY6GWceEqtQ.md#t-00-42-06): “Brooklyn (Brooklyn Beckham), best men, his brothers, Romeo and Cruz,”
+
+</details>
 
 - **[Cruz Beckham](/entities/person-cruz-beckham.md)**
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:42:40](/episodes/ep-GY6GWceEqtQ.md#t-00-42-06): "Brooklyn (Brooklyn Beckham), best men, his brothers, Romeo and Cruz,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:42:40](/episodes/ep-GY6GWceEqtQ.md#t-00-42-06): “Brooklyn (Brooklyn Beckham), best men, his brothers, Romeo and Cruz,”
+
+</details>
 
 </details>
 
@@ -140,25 +206,53 @@ Source: [Brooklyn Beckham accuses David and Victoria of putting branding before 
 <summary>Referenced By (7)</summary>
 
 - **[Victoria Beckham](/entities/person-victoria-beckham.md)** accused by this
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:36:06](/episodes/ep-GY6GWceEqtQ.md#t-00-36-06)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:36:06](/episodes/ep-GY6GWceEqtQ.md#t-00-36-06): “My parents have been trying endlessly to ruin my relationship since before my wedding and has not stopped.”
+
+</details>
 
 - **[David Beckham](/entities/person-david-beckham.md)** accused by this
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:36:06](/episodes/ep-GY6GWceEqtQ.md#t-00-36-06)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:36:06](/episodes/ep-GY6GWceEqtQ.md#t-00-36-06): “My parents have been trying endlessly to ruin my relationship since before my wedding and has not stopped.”
+
+</details>
 
 - **[British Woman 1 (Ep GY6GWceEqtQ)](/entities/anon-src-GY6GWceEqtQ-001.md)** criticized this
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:54:10](/episodes/ep-GY6GWceEqtQ.md#t-00-54-10)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:54:10](/episodes/ep-GY6GWceEqtQ.md#t-00-54-10): “This is a message for Brooklyn Beckham. Go to bed ... seven stories slandering your parents.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:38:51](/episodes/ep-GY6GWceEqtQ.md#t-00-38-51)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:38:51](/episodes/ep-GY6GWceEqtQ.md#t-00-38-51): “This is not a problem that is worth saying your parents are dead to you over ... You are not suffering.”
+
+</details>
 
 - **[British Woman 2 (Ep GY6GWceEqtQ)](/entities/anon-src-GY6GWceEqtQ-002.md)** criticized this
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:54:32](/episodes/ep-GY6GWceEqtQ.md#t-00-54-31)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:54:32](/episodes/ep-GY6GWceEqtQ.md#t-00-54-31): “I don't even have words for the words that you've written in the notes on your phone and thought it was okay to just put that on your Instagram ... Brooklyn (Brooklyn Beckham), story.”
+
+</details>
 
 - **[Victoria Beckham](/entities/person-victoria-beckham.md)** parent of this
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:31:02](/episodes/ep-GY6GWceEqtQ.md#t-00-31-02)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:31:02](/episodes/ep-GY6GWceEqtQ.md#t-00-31-02): “Who is, I think he's the firstborn son of Victoria (Victoria Beckham) Posh Spice Beckham, David Beckham, the football player, much adored family unit,”
+
+</details>
 
 - **[David Beckham](/entities/person-david-beckham.md)** parent of this
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:31:02](/episodes/ep-GY6GWceEqtQ.md#t-00-31-02)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:31:02](/episodes/ep-GY6GWceEqtQ.md#t-00-31-02): “Who is, I think he's the firstborn son of Victoria (Victoria Beckham) Posh Spice Beckham, David Beckham, the football player, much adored family unit,”
+
+</details>
 
 </details>
 

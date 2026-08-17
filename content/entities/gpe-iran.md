@@ -1,6 +1,6 @@
 ---
 title: "Iran"
-description: "Iran (Places) - 54 mentions"
+description: "Iran (Places) - 62 mentions"
 id: "gpe-iran"
 type: "GPE"
 aliases:
@@ -21,10 +21,105 @@ _Type: Places_
 > Reference source confirms canonical country name and Persia alias.
 Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-gpe-iran-t-00-35-19">2025-09-22 · 00:35:22</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54">2026-08-14 · 00:28:54</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>62</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-02-32">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (15 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ja26iltROkM.md#ent-gpe-iran-t-00-35-19" style="--pulse-height:8%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-gpe-iran-t-00-37-27" style="--pulse-height:8%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 1 mentions" title="2025-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-iran-t-00-20-29" style="--pulse-height:33%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 5 mentions" title="2025-09-24 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-gpe-iran-t-00-00-00" style="--pulse-height:8%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-gpe-iran-t-00-04-45" style="--pulse-height:8%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-gpe-iran-t-00-50-59" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-gpe-iran-t-00-07-09" style="--pulse-height:47%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 7 mentions" title="2025-11-08 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iran-t-00-08-59" style="--pulse-height:40%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 6 mentions" title="2025-11-12 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-iran-t-00-13-15" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-02-32" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 15 mentions" title="2026-01-13 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-iran-t-00-46-00" style="--pulse-height:20%" aria-label="Myron Gaines x Candace Owens: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-iran-t-00-55-12" style="--pulse-height:20%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-iran-t-00-35-10" style="--pulse-height:13%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-iran-t-00-05-17" style="--pulse-height:13%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-gpe-iran-t-00-28-49" style="--pulse-height:27%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 4 mentions" title="2026-02-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-iran-t-00-00-00" style="--pulse-height:53%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 8 mentions" title="2026-03-02 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-gpe-iran-t-00-35-19) | 1 |
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-gpe-iran-t-00-37-27) | 1 |
+| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-iran-t-00-20-29) | 5 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-gpe-iran-t-00-00-00) | 1 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-iran-t-00-04-45) | 1 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-gpe-iran-t-00-50-59) | 1 |
+| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-gpe-iran-t-00-07-09) | 7 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iran-t-00-08-59) | 6 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-iran-t-00-13-15) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-02-32) | 15 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-iran-t-00-46-00) | 3 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-iran-t-00-55-12) | 3 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-iran-t-00-35-10) | 2 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-iran-t-00-05-17) | 2 |
+| 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-gpe-iran-t-00-28-49) | 4 |
+| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-iran-t-00-00-00) | 8 |
+| 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (62)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
+
+**[00:28:54](/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54)**
+> "opposed the Iranian war"
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (8 mentions)</summary>
+
+**[00:00:00](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-iran-t-00-00-00)**
+> "...y. It's looking like war with Iran, ladies and gentlemen, war with Iran."
+
+**[00:00:17](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-iran-t-00-00-00)**
+> "...taking on a limited strike on Iran's nuclear sites."
+
+**[00:00:38](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-iran-t-00-00-38)**
+> "...ment with a full scale war in Iran was Charlie Kirk."
+
+**[00:02:47](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-iran-t-00-02-47)**
+> "...mp has said, I will not allow Iran to get a nuclear weapon because he has said when ..."
+
+**[00:05:05](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-iran-t-00-05-05)**
+> "...eering about regime change in Iran today are the very people that your wife is going..."
+
+**[00:05:53](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-iran-t-00-05-39)**
+> "...lie (Charlie Kirk) felt about Iran."
+
+**[00:06:06](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-iran-t-00-05-39)**
+> "... the idea of regime change in Iran, his best friends, the amazing McCoy and, of cour..."
+
+**[00:07:53](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-iran-t-00-07-43)**
+> "...nd told not to go to war with Iran?"
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (4 mentions)</summary>
@@ -225,10 +320,7 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 </details>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (6 mentions)</summary>
-
-**[00:21:02](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-iran-t-00-20-29)**
-> "Iran did this"
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (5 mentions)</summary>
 
 **[00:21:02](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-iran-t-00-20-29)**
 > "...were told virtually nothing. In fact, we were—and I'm laughing because it's so absurd— we were told Iran did this. What? Because they were itching for war with Iran. Like, they're still itching for war wi..."
@@ -272,7 +364,11 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <summary>Member Of (1)</summary>
 
 - **[Safari Club](/entities/org-safari-club.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:13:29](/episodes/ep-tB5SXXmd9vU.md#t-00-13-15): "...members in pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, and France..."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:13:29](/episodes/ep-tB5SXXmd9vU.md#t-00-13-15): “...members in pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, and France...”
+
+</details>
 
 </details>
 
@@ -280,14 +376,35 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <summary>Referenced By (1)</summary>
 
 - **[Safari Club](/entities/org-safari-club.md)** has member this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:13:29](/episodes/ep-tB5SXXmd9vU.md#t-00-13-15)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:13:29](/episodes/ep-tB5SXXmd9vU.md#t-00-13-15): “...members in pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, and France...”
+
+</details>
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Iran (10)</strong></summary>
+<summary><strong class="section-title">Statements about Iran (14)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (4)</summary>
+
+- [00:00:38](/episodes/ep-jTj9Ip46r4w.md#t-00-00-38) (Claim) **Candace Owens**: ["Charlie Kirk was the one person who stood between the United States an..."](/statements/statement-5859022c9868.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [United States](/entities/gpe-united-states.md)
+
+- [00:00:46](/episodes/ep-jTj9Ip46r4w.md#t-00-00-38) (Claim) **Candace Owens**: ["Charlie Kirk was at the White House and convinced Donald Trump that a ..."](/statements/statement-97b1ed9cf8ca.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:03:00](/episodes/ep-jTj9Ip46r4w.md#t-00-02-47) (Opinion) **Charlie Kirk** (via quoted speech): ["Puritanical ideological approaches to situations such as Iran are not ..."](/statements/statement-b742385b8ac8.md)
+  - Also about: [Neoconservatism](/entities/concept-neoconservatism.md)
+
+- [00:04:11](/episodes/ep-jTj9Ip46r4w.md#t-00-04-11) (Opinion) **Charlie Kirk** (via quoted speech): ["Donald Trump was doing a phenomenal job resisting calls for regime cha..."](/statements/statement-12710c18ef75.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Neoconservatism](/entities/concept-neoconservatism.md)
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (1)</summary>

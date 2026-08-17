@@ -1,6 +1,6 @@
 ---
 title: "Turning Point Action"
-description: "Turning Point Action (Organizations) - 17 mentions"
+description: "Turning Point Action (Organizations) - 22 mentions"
 id: "org-turning-point-action"
 type: "ORG"
 aliases:
@@ -20,10 +20,83 @@ _Type: Organizations_
 > Official organization site confirms the canonical name.
 Source: [Turning Point Action](https://www.tpaction.com/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-org-turning-point-action-t-00-23-46">2025-10-06 · 00:24:04</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-turning-point-action-t-00-20-19">2026-02-28 · 00:20:19</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-turning-point-action-t-00-01-29">DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286</a> (7 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-org-turning-point-action-t-00-23-46" style="--pulse-height:14%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-org-turning-point-action-t-00-50-43" style="--pulse-height:14%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-turning-point-action-t-00-34-07" style="--pulse-height:29%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 2 mentions" title="2025-11-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-org-turning-point-action-t-00-04-17" style="--pulse-height:14%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-turning-point-action-t-00-01-29" style="--pulse-height:100%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 7 mentions" title="2026-01-07 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-turning-point-action-t-00-54-55" style="--pulse-height:14%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-turning-point-action-t-00-17-27" style="--pulse-height:14%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-turning-point-action-t-00-14-17" style="--pulse-height:14%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-org-turning-point-action-t-00-17-26" style="--pulse-height:14%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-org-turning-point-action-t-00-24-36" style="--pulse-height:14%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-turning-point-action-t-00-45-57" style="--pulse-height:29%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-turning-point-action-t-00-00-01" style="--pulse-height:43%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 3 mentions" title="2026-02-28 · 3 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-org-turning-point-action-t-00-23-46) | 1 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-org-turning-point-action-t-00-50-43) | 1 |
+| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-org-turning-point-action-t-00-34-07) | 2 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-turning-point-action-t-00-04-17) | 1 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-org-turning-point-action-t-00-01-29) | 7 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-turning-point-action-t-00-54-55) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-turning-point-action-t-00-17-27) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-turning-point-action-t-00-14-17) | 1 |
+| 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-org-turning-point-action-t-00-17-26) | 1 |
+| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-org-turning-point-action-t-00-24-36) | 1 |
+| 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-turning-point-action-t-00-45-57) | 2 |
+| 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-turning-point-action-t-00-00-01) | 3 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (3 mentions)</summary>
+
+**[00:00:30](/episodes/ep-cZxHqYsWRYg.md#ent-org-turning-point-action-t-00-00-01)**
+> "...erfeed Technologies alongside Turning Point Action's COO."
+
+**[00:00:52](/episodes/ep-cZxHqYsWRYg.md#ent-org-turning-point-action-t-00-00-42)**
+> "...irling online that money from turning point action has been routed into Superfeed. Now, I'm not a fo..."
+
+**[00:20:19](/episodes/ep-cZxHqYsWRYg.md#ent-org-turning-point-action-t-00-20-19)**
+> "...owyer, this very shady COO of Turning Point Action who is going to introduce Erika (Erika Kirk) to C..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (2 mentions)</summary>
+
+**[00:45:57](/episodes/ep-1IY2oD-_xVA.md#ent-org-turning-point-action-t-00-45-57)**
+> "And they specifically said that the money was missing out of Turning Point Action, which is headed up by Tyler Bowyer."
+
+**[00:56:04](/episodes/ep-1IY2oD-_xVA.md#ent-org-turning-point-action-t-00-55-38)**
+> "...normal. And if I find out the turning point action was indeed for a fact and not allegedly, and I fe..."
+
+</details>
 
 <details>
 <summary>An Open Letter To Erika Kirk | Candace Ep 303 (1 mentions)</summary>
@@ -135,7 +208,23 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 <summary>Accused By (1)</summary>
 
 - **[Anonymous Source #5 (Ep zSKrxIUMNqw)](/entities/anon-src-zSKrxIUMNqw-005.md)**
-  - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:50:28](/episodes/ep-zSKrxIUMNqw.md#t-00-50-17): "One of the early tips that we got from somebody inside of Turning Point USA was that a lot of money was missing from turning point action."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:50:28](/episodes/ep-zSKrxIUMNqw.md#t-00-50-17): “One of the early tips that we got from somebody inside of Turning Point USA was that a lot of money was missing from turning point action.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Employs (1)</summary>
+
+- **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:45:57](/episodes/ep-1IY2oD-_xVA.md#t-00-45-57): “And they specifically said that the money was missing out of Turning Point Action, which is headed up by Tyler Bowyer.”
+
+</details>
 
 </details>
 
@@ -143,7 +232,23 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 <summary>Formerly Employed (1)</summary>
 
 - **[Austin Smith](/entities/person-austin-smith.md)**
-  - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:56](/episodes/ep-zSKrxIUMNqw.md#t-00-48-53): "served as a leader for the conservative group Turning Point Action"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:56](/episodes/ep-zSKrxIUMNqw.md#t-00-48-53): “served as a leader for the conservative group Turning Point Action”
+
+</details>
+
+</details>
+
+<details>
+<summary>Has Coo (1)</summary>
+
+- **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:20:19](/episodes/ep-cZxHqYsWRYg.md#t-00-20-19): “Later on, Lori (Lori Frantzve)'s going to start working with the Farnsworths, camera guy taking down the camera, and then she's going to strike up this partnership with Tyler Bowyer, this very shady COO of Turning Point Action who is going to introduce Erika (Erika Kirk) to Charlie Kirk.”
+
+</details>
 
 </details>
 
@@ -151,28 +256,76 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 <summary>Part Of (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:49:52](/episodes/ep-zSKrxIUMNqw.md#t-00-49-33): "the campaign arm of Turning Point USA,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:49:52](/episodes/ep-zSKrxIUMNqw.md#t-00-49-33): “the campaign arm of Turning Point USA,”
+
+</details>
 
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (5)</summary>
+
+- **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** COO of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:20:19](/episodes/ep-cZxHqYsWRYg.md#t-00-20-19): “Later on, Lori (Lori Frantzve)'s going to start working with the Farnsworths, camera guy taking down the camera, and then she's going to strike up this partnership with Tyler Bowyer, this very shady COO of Turning Point Action who is going to introduce Erika (Erika Kirk) to Charlie Kirk.”
+
+</details>
 
 - **[Anonymous Source #5 (Ep zSKrxIUMNqw)](/entities/anon-src-zSKrxIUMNqw-005.md)** accused this
-  - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:50:28](/episodes/ep-zSKrxIUMNqw.md#t-00-50-17)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:50:28](/episodes/ep-zSKrxIUMNqw.md#t-00-50-17): “One of the early tips that we got from somebody inside of Turning Point USA was that a lot of money was missing from turning point action.”
+
+</details>
 
 - **[Austin Smith](/entities/person-austin-smith.md)** formerly worked for this
-  - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:56](/episodes/ep-zSKrxIUMNqw.md#t-00-48-53)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:56](/episodes/ep-zSKrxIUMNqw.md#t-00-48-53): “served as a leader for the conservative group Turning Point Action”
+
+</details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** includes this
-  - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:49:52](/episodes/ep-zSKrxIUMNqw.md#t-00-49-33)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:49:52](/episodes/ep-zSKrxIUMNqw.md#t-00-49-33): “the campaign arm of Turning Point USA,”
+
+</details>
+
+- **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:45:57](/episodes/ep-1IY2oD-_xVA.md#t-00-45-57): “And they specifically said that the money was missing out of Turning Point Action, which is headed up by Tyler Bowyer.”
+
+</details>
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point Action (6)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point Action (9)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (1)</summary>
+
+- [00:00:30](/episodes/ep-cZxHqYsWRYg.md#t-00-00-01) (Claim) **Candace Owens**: ["Lori Frantzve was placed on the Superfeed Technologies board alongside..."](/statements/statement-7005646340ac.md)
+  - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (2)</summary>
+
+- [00:45:57](/episodes/ep-1IY2oD-_xVA.md#t-00-45-57) (Accusation) **Anonymous Source #4 (Ep 1IY2oD-_xVA)** (via quoted speech): ["The missing money was specifically from Turning Point Action, which Ty..."](/statements/statement-fc9de08969ab.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+- [00:56:20](/episodes/ep-1IY2oD-_xVA.md#t-00-56-20) (Citation) **Candace Owens**: ["Two separate sources said Turning Point Action was missing about $10 m..."](/statements/statement-1d028d0b03b3.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (1)</summary>

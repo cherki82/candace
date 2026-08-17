@@ -7,10 +7,48 @@ type: "GPE"
 
 _Type: Places_
 
+> **Possibly overlapping entity records:** [Orem, Utah](/entities/gpe-orem-utah). These records share a name or alias; compare their histories before treating either count as complete.
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-orem-t-00-20-25">2025-09-16 · 00:20:48</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-gpe-orem-t-00-29-50">2025-11-18 · 00:30:07</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-orem-t-00-16-10">INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247</a> (6 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-orem-t-00-20-25" style="--pulse-height:50%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 3 mentions" title="2025-09-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-gpe-orem-t-00-05-48" style="--pulse-height:33%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 2 mentions" title="2025-09-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-orem-t-00-05-26" style="--pulse-height:50%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 3 mentions" title="2025-09-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#t-00-15-27" style="--pulse-height:17%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-orem-t-00-16-10" style="--pulse-height:100%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 6 mentions" title="2025-10-02 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-gpe-orem-t-00-29-50" style="--pulse-height:17%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-gpe-orem-t-00-20-25) | 3 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-orem-t-00-05-48) | 2 |
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-gpe-orem-t-00-05-26) | 3 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#t-00-15-27) | 1 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-orem-t-00-16-10) | 6 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-gpe-orem-t-00-29-50) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
 
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1 mentions)</summary>
@@ -99,7 +137,11 @@ _Type: Places_
 <summary>Headquarters Of (1)</summary>
 
 - **[UVU](/entities/org-utah-valley-university.md)**
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:06:17](/episodes/ep-2WEHTk0Xewg.md#t-00-05-48): "stuck in Orem, that's the town that UVU is at"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:06:17](/episodes/ep-2WEHTk0Xewg.md#t-00-05-48): “stuck in Orem, that's the town that UVU is at”
+
+</details>
 
 </details>
 
@@ -107,7 +149,11 @@ _Type: Places_
 <summary>Location Of (1)</summary>
 
 - **[UVU](/entities/org-utah-valley-university.md)**
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:06:17](/episodes/ep-2WEHTk0Xewg.md#t-00-05-48): "I'm stuck in Orem, that's the town that UVU is at,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:06:17](/episodes/ep-2WEHTk0Xewg.md#t-00-05-48): “I'm stuck in Orem, that's the town that UVU is at,”
+
+</details>
 
 </details>
 
@@ -115,10 +161,18 @@ _Type: Places_
 <summary>Referenced By (2)</summary>
 
 - **[UVU](/entities/org-utah-valley-university.md)** based in this
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:06:17](/episodes/ep-2WEHTk0Xewg.md#t-00-05-48)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:06:17](/episodes/ep-2WEHTk0Xewg.md#t-00-05-48): “I'm stuck in Orem, that's the town that UVU is at,”
+
+</details>
 
 - **[UVU](/entities/org-utah-valley-university.md)** headquartered in this
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:06:17](/episodes/ep-2WEHTk0Xewg.md#t-00-05-48)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:06:17](/episodes/ep-2WEHTk0Xewg.md#t-00-05-48): “stuck in Orem, that's the town that UVU is at”
+
+</details>
 
 </details>
 

@@ -22,7 +22,7 @@ type: "factual_claim"
 
 - [Jeremy Boreing](/entities/person-jeremy-boreing.md) (person)
 - [Hungary](/entities/gpe-hungary.md) (gpe)
-- [The Daily Wire](/entities/org-daily-wire.md) (org)
+- [The Daily Wire](/entities/org-the-daily-wire.md) (org)
 
 ## Source
 

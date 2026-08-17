@@ -1,16 +1,80 @@
 ---
 title: "Hamptons"
-description: "Hamptons (Places) - 56 mentions"
+description: "Hamptons (Places) - 55 mentions"
 id: "gpe-hamptons"
 type: "GPE"
 ---
 
 _Type: Places_
 
+> **Possibly overlapping entity records:** [The Hamptons](/entities/gpe-the-hamptons). These records share a name or alias; compare their histories before treating either count as complete.
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-gpe-hamptons-t-00-15-01">2025-09-15 · 00:15:18</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-hamptons-t-00-21-13">2025-12-02 · 00:21:40</a></strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>55</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-hamptons-t-00-01-14">Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236</a> (9 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-gpe-hamptons-t-00-15-01" style="--pulse-height:67%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 6 mentions" title="2025-09-15 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-hamptons-t-00-01-14" style="--pulse-height:100%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 9 mentions" title="2025-09-16 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-hamptons-t-00-37-04" style="--pulse-height:44%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 4 mentions" title="2025-09-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-gpe-hamptons-t-00-52-10" style="--pulse-height:33%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 3 mentions" title="2025-09-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-gpe-hamptons-t-00-29-05" style="--pulse-height:11%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-gpe-hamptons-t-00-43-33" style="--pulse-height:11%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 1 mentions" title="2025-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-gpe-hamptons-t-00-02-40" style="--pulse-height:100%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 9 mentions" title="2025-09-25 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-gpe-hamptons-t-00-36-52" style="--pulse-height:11%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-gpe-hamptons-t-00-13-01" style="--pulse-height:33%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 3 mentions" title="2025-10-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-hamptons-t-00-03-33" style="--pulse-height:33%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 3 mentions" title="2025-10-08 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-hamptons-t-00-44-21" style="--pulse-height:22%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 2 mentions" title="2025-10-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-hamptons-t-00-34-51" style="--pulse-height:33%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 3 mentions" title="2025-10-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-hamptons-t-00-35-27" style="--pulse-height:22%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-gpe-hamptons-t-00-10-50" style="--pulse-height:11%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 1 mentions" title="2025-11-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-hamptons-t-00-23-50" style="--pulse-height:22%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hamptons-t-00-35-35" style="--pulse-height:11%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-gpe-hamptons-t-00-02-51" style="--pulse-height:22%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-hamptons-t-00-19-39" style="--pulse-height:11%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-hamptons-t-00-21-13" style="--pulse-height:11%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-gpe-hamptons-t-00-15-01) | 6 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-gpe-hamptons-t-00-01-14) | 9 |
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-gpe-hamptons-t-00-37-04) | 4 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-hamptons-t-00-52-10) | 3 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-gpe-hamptons-t-00-29-05) | 1 |
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-gpe-hamptons-t-00-43-33) | 1 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-gpe-hamptons-t-00-02-40) | 9 |
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-hamptons-t-00-36-52) | 1 |
+| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-gpe-hamptons-t-00-13-01) | 3 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-hamptons-t-00-03-33) | 3 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-hamptons-t-00-44-21) | 2 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-hamptons-t-00-34-51) | 3 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-hamptons-t-00-35-27) | 2 |
+| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-gpe-hamptons-t-00-10-50) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-hamptons-t-00-23-50) | 2 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hamptons-t-00-35-35) | 1 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-gpe-hamptons-t-00-02-51) | 2 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-hamptons-t-00-19-39) | 1 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-hamptons-t-00-21-13) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (55)</strong></summary>
 
 <details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
@@ -218,16 +282,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (10 mentions)</summary>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (9 mentions)</summary>
 
 **[00:01:14](/episodes/ep-q7f8r-THr84.md#ent-gpe-hamptons-t-00-01-14)**
 > "...ay? And I am not liking what I am hearing from them about things that took place leading up to that Hamptons event, some changes at the organization in the months leading up to that event, and what had been h..."
 
 **[00:01:32](/episodes/ep-q7f8r-THr84.md#ent-gpe-hamptons-t-00-01-14)**
 > "...he last year. Speaking of which, Bill Ackman, you may have caught that he responded to me about the Hamptons. With a lot of words to really say nothing at all. And I wanna be clear, I am not done, okay? I'm c..."
-
-**[00:01:34](/episodes/ep-q7f8r-THr84.md#ent-gpe-hamptons-t-00-01-14)**
-> "what had been happening more broadly at the company over the last year. Speaking of which, Bill Ackman, you may have caught that he responded to me about the Hamptons"
 
 **[00:41:16](/episodes/ep-q7f8r-THr84.md#ent-gpe-hamptons-t-00-41-03)**
 > "...ace and I said no to your money, okay? Don't push me or I will name more names. What happens in the Hamptons? It's not going to stay in the Hamptons, okay? Bring in our movie poster. I Know What You Did This ..."

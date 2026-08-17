@@ -1,6 +1,6 @@
 ---
 title: "Judaism"
-description: "Judaism (Concepts) - 72 mentions"
+description: "Judaism (Concepts) - 96 mentions"
 id: "concept-judaism"
 type: "CONCEPT"
 aliases:
@@ -19,10 +19,178 @@ _Type: Concepts_
 > United States Holocaust Memorial Museum reference confirms Judaism as a monotheistic religion and distinguishes religious, ethnic, and cultural identification.
 Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/content/en/article/introduction-to-judaism)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-judaism-t-00-22-23">2026-01-12 · 00:22:34</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-judaism-t-00-28-12">2026-08-14 · 00:28:34</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>96</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-00-16-11">Candace x Bassem Youssef | Candace Ep 298</a> (24 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-judaism-t-00-22-23" style="--pulse-height:12%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-judaism-t-00-51-34" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-concept-judaism-t-00-37-15" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-concept-judaism-t-00-05-13" style="--pulse-height:17%" aria-label="Myron Gaines x Candace Owens: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#t-00-40-49" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-judaism-t-00-01-23" style="--pulse-height:8%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-concept-judaism-t-00-38-43" style="--pulse-height:8%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-concept-judaism-t-00-41-08" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-00-16-11" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 24 mentions" title="2026-01-29 · 24 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-judaism-t-00-02-51" style="--pulse-height:96%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 23 mentions" title="2026-02-02 · 23 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-concept-judaism-t-00-50-37" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#t-00-25-24" style="--pulse-height:8%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-concept-judaism-t-00-40-11" style="--pulse-height:8%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-concept-judaism-t-00-06-20" style="--pulse-height:8%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-judaism-t-00-29-58" style="--pulse-height:8%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-concept-judaism-t-00-12-10" style="--pulse-height:29%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 7 mentions" title="2026-02-25 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-judaism-t-00-05-15" style="--pulse-height:8%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-concept-judaism-t-00-29-14" style="--pulse-height:8%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 2 mentions" title="2026-02-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-judaism-t-00-08-24" style="--pulse-height:46%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 11 mentions" title="2026-03-02 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-judaism-t-00-41-55" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 2 mentions" title="2026-03-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-judaism-t-00-28-12" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-judaism-t-00-22-23) | 3 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-judaism-t-00-51-34) | 1 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-judaism-t-00-37-15) | 2 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-judaism-t-00-05-13) | 4 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#t-00-40-49) | 1 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-judaism-t-00-01-23) | 2 |
+| 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-concept-judaism-t-00-38-43) | 1 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-concept-judaism-t-00-41-08) | 2 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-00-16-11) | 24 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-judaism-t-00-02-51) | 23 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-concept-judaism-t-00-50-37) | 1 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#t-00-25-24) | 1 |
+| 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-concept-judaism-t-00-40-11) | 2 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-concept-judaism-t-00-06-20) | 2 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-judaism-t-00-29-58) | 2 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-judaism-t-00-12-10) | 7 |
+| 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-concept-judaism-t-00-05-15) | 1 |
+| 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-concept-judaism-t-00-29-14) | 2 |
+| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-concept-judaism-t-00-08-24) | 11 |
+| 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-concept-judaism-t-00-41-55) | 2 |
+| 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-judaism-t-00-28-12) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (96)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
+
+**[00:28:34](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-judaism-t-00-28-12)**
+> "... sent a text message reading, Jewish donors play into all the stereotypes."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (2 mentions)</summary>
+
+**[00:42:05](/episodes/ep-2tFYJf1klgY.md#ent-concept-judaism-t-00-41-55)**
+> "...on't know if he's—he might be Jewish. I don't even know, because, like, I don't—that's..."
+
+**[00:49:17](/episodes/ep-2tFYJf1klgY.md#ent-concept-judaism-t-00-48-45)**
+> "...e (Blake Neff). You better be Jewish. If I find out you're not Jewish, you're in so mu..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (11 mentions)</summary>
+
+**[00:08:54](/episodes/ep-jTj9Ip46r4w.md#ent-concept-judaism-t-00-08-24)**
+> "...rypto Jew, as they term it, a Jewish gangster."
+
+**[00:10:59](/episodes/ep-jTj9Ip46r4w.md#ent-concept-judaism-t-00-08-24)**
+> "...ard member for UVU Center for Jewish Studies, professor of political science at BYU."
+
+**[00:27:48](/episodes/ep-jTj9Ip46r4w.md#ent-concept-judaism-t-00-27-38)**
+> "...d then they mass converted to Judaism, okay?"
+
+**[00:27:58](/episodes/ep-jTj9Ip46r4w.md#ent-concept-judaism-t-00-27-38)**
+> "...ewish. They mass converted to Judaism, and they mixed in, okay? They mixed in with peop..."
+
+**[00:28:33](/episodes/ep-jTj9Ip46r4w.md#ent-concept-judaism-t-00-28-15)**
+> "...the Turks that mass converted Judaism. And then he was told it was that was inconvenien..."
+
+**[00:28:50](/episodes/ep-jTj9Ip46r4w.md#ent-concept-judaism-t-00-28-50)**
+> "...talian mafia? It was actually Jewish, maybe Khazarian Jewish."
+
+**[00:29:04](/episodes/ep-jTj9Ip46r4w.md#ent-concept-judaism-t-00-28-50)**
+> "...we know, factually started by Jewish gangs. Universal, MGM, there's no hiding that, ok..."
+
+**[00:29:45](/episodes/ep-jTj9Ip46r4w.md#ent-concept-judaism-t-00-29-32)**
+> "...el, the Italian, and then the Jewish mafia got together."
+
+**[00:29:57](/episodes/ep-jTj9Ip46r4w.md#ent-concept-judaism-t-00-29-57)**
+> "...an Tsar was assassinated by a Jewish revolutionary gang from what was known as the Pal..."
+
+**[00:30:23](/episodes/ep-jTj9Ip46r4w.md#ent-concept-judaism-t-00-29-57)**
+> "...rved out was like if you were Jewish, you had to live in the Pale of Settlement becaus..."
+
+**[00:32:26](/episodes/ep-jTj9Ip46r4w.md#ent-concept-judaism-t-00-31-57)**
+> "...osz, who was radicalized by a Jewish Russian immigrant named Emma Goldman."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (2 mentions)</summary>
+
+**[00:29:37](/episodes/ep-cZxHqYsWRYg.md#ent-concept-judaism-t-00-29-14)**
+> "...id, the school's being run by Jewish women. They're even renting from a Jewish school,..."
+
+**[00:29:56](/episodes/ep-cZxHqYsWRYg.md#ent-concept-judaism-t-00-29-56)**
+> "...y something. Stereotypically, Jewish people are known for very good accounting, but no..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (1 mentions)</summary>
+
+**[00:05:37](/episodes/ep-1IY2oD-_xVA.md#ent-concept-judaism-t-00-05-15)**
+> "Throughout this series that you fully digest, as I told you yesterday, that Operation Paperclip was not about rescuing brilliant Jewish scientists who were being persecuted from Germany."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (7 mentions)</summary>
+
+**[00:12:41](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-judaism-t-00-12-10)**
+> "They believed in mystical Judaism. They were practicing the occult."
+
+**[00:40:35](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-judaism-t-00-39-57)**
+> "...ica (Erika Kirk)'s family, is Jewish?"
+
+**[00:44:49](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-judaism-t-00-39-57)**
+> "...n their campus the Center for Jewish Studies."
+
+**[00:45:39](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-judaism-t-00-39-57)**
+> "...also served on the Center for Jewish Studies on the board at UVU. Zion's Gate,"
+
+**[00:52:47](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-judaism-t-00-52-19)**
+> "... building that was owned by a Jewish school."
+
+**[00:53:08](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-judaism-t-00-53-03)**
+> "... school itself is exceedingly jewish in terms of the administration it was run by jewi..."
+
+**[00:58:16](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-judaism-t-00-58-16)**
+> "... and i look at this why would jewish people naming their schools looking glass i'm jus..."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (2 mentions)</summary>
@@ -322,7 +490,43 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Judaism (7)</strong></summary>
+<summary><strong class="section-title">Statements about Judaism (14)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (4)</summary>
+
+- [00:28:15](/episodes/ep-jTj9Ip46r4w.md#t-00-28-15) (Citation) **Candace Owens**: ["Abraham Polak wrote a researched book arguing that Israelis descend fr..."](/statements/statement-df257682834e.md)
+  - Also about: [Abraham Polak](/entities/person-abraham-polak.md), [Khazar Khaganate](/entities/gpe-khazar-khaganate.md), [Israel](/entities/gpe-israel.md)
+
+- [00:28:50](/episodes/ep-jTj9Ip46r4w.md#t-00-28-50) (Claim) **Candace Owens**: ["The Italian mafia was actually Jewish and perhaps Khazarian Jewish."](/statements/statement-90deac9a5b6c.md)
+  - Also about: [Italy](/entities/gpe-italy.md)
+
+- [00:29:04](/episodes/ep-jTj9Ip46r4w.md#t-00-28-50) (Claim) **Candace Owens**: ["Hollywood was factually started by Jewish gangs, including the people ..."](/statements/statement-cd93785f985e.md)
+  - Also about: [Hollywood](/entities/gpe-hollywood.md), [Universal Studios](/entities/org-universal-studios.md), [Metro-Goldwyn-Mayer](/entities/org-metro-goldwyn-mayer.md)
+
+- [00:29:57](/episodes/ep-jTj9Ip46r4w.md#t-00-29-57) (Claim) **Candace Owens**: ["The Russian Tsar was assassinated in 1881 by a Jewish revolutionary ga..."](/statements/statement-66da5feb5798.md)
+  - Also about: [Russia](/entities/gpe-russia.md), [Pale of Settlement](/entities/gpe-pale-of-settlement.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (1)</summary>
+
+- [00:05:37](/episodes/ep-1IY2oD-_xVA.md#t-00-05-15) (Claim) **Candace Owens**: ["Operation Paperclip was not about rescuing brilliant Jewish scientists..."](/statements/statement-feaf9ba3112e.md)
+  - Also about: [Operation Paperclip](/entities/concept-operation-paperclip.md), [Germany](/entities/gpe-germany.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (2)</summary>
+
+- [00:12:32](/episodes/ep-ZAsV0fHGBiM.md#t-00-12-10) (Claim) **Candace Owens**: ["Modern psychology was created by German mystical Jews who practiced th..."](/statements/statement-fd613744a507.md)
+  - Also about: [Sigmund Freud](/entities/person-sigmund-freud.md)
+
+- [00:40:30](/episodes/ep-ZAsV0fHGBiM.md#t-00-39-57) (Claim) **Candace Owens** (via paraphrase): ["Nicole Rothstein alleged that half of the family she shared with Erika..."](/statements/statement-7979264d5f73.md)
+  - Also about: [Nicole Rothstein](/entities/person-nicole-rothstein.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (2)</summary>

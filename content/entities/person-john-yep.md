@@ -16,10 +16,36 @@ _Type: People_
 > Catholics for Catholics' official site confirms the canonical name John Yep and identifies him as its president.
 Source: [John Yep Shares Final Heartfelt Salute | Catholics for Catholics](https://cforc.com/2025/09/john-yep-shares-final-heartfelt-salute-to-a-brother-in-arms-and-beloved-friend-charlie-kirk/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-john-yep-t-00-35-13">2026-02-03 · 00:35:27</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-john-yep-t-00-36-39">2026-02-03 · 00:36:39</a></strong></div>
+<div><span>Episodes</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-john-yep-t-00-35-13">CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301</a> (3 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-john-yep-t-00-35-13" style="--pulse-height:100%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 3 mentions" title="2026-02-03 · 3 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-john-yep-t-00-35-13) | 3 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
 
 <details>
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (3 mentions)</summary>
@@ -44,7 +70,11 @@ Source: [John Yep Shares Final Heartfelt Salute | Catholics for Catholics](https
 <summary>Friend Of (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:35:48](/episodes/ep-QRS_hR7NXaQ.md#t-00-35-44): "Just 48 hours before my friend Charlie Kirk was shot,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:35:48](/episodes/ep-QRS_hR7NXaQ.md#t-00-35-44): “Just 48 hours before my friend Charlie Kirk was shot,”
+
+</details>
 
 </details>
 
@@ -52,7 +82,11 @@ Source: [John Yep Shares Final Heartfelt Salute | Catholics for Catholics](https
 <summary>Met With (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:36:39](/episodes/ep-QRS_hR7NXaQ.md#t-00-36-39): "John Yep randomly visited me ... he came down he saw me my husband"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:36:39](/episodes/ep-QRS_hR7NXaQ.md#t-00-36-39): “John Yep randomly visited me ... he came down he saw me my husband”
+
+</details>
 
 </details>
 
@@ -60,10 +94,18 @@ Source: [John Yep Shares Final Heartfelt Salute | Catholics for Catholics](https
 <summary>Referenced By (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
-  - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:35:48](/episodes/ep-QRS_hR7NXaQ.md#t-00-35-44)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:35:48](/episodes/ep-QRS_hR7NXaQ.md#t-00-35-44): “Just 48 hours before my friend Charlie Kirk was shot,”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** met with this
-  - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:36:39](/episodes/ep-QRS_hR7NXaQ.md#t-00-36-39)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:36:39](/episodes/ep-QRS_hR7NXaQ.md#t-00-36-39): “John Yep randomly visited me ... he came down he saw me my husband”
+
+</details>
 
 </details>
 
@@ -79,7 +121,7 @@ Source: [John Yep Shares Final Heartfelt Salute | Catholics for Catholics](https
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
 
 - [00:35:57](/episodes/ep-QRS_hR7NXaQ.md#t-00-35-44) [✓] (Promise) ["Catholics for Catholics announced Candace Owens as a keynote speaker at its Nati..."](/statements/statement-4d40eb78d0bf.md)
-  - About: [Catholics for Catholics](/entities/org-catholics-for-catholics.md), [Candace Owens](/entities/person-candace-owens.md), [Washington, D.C.](/entities/gpe-washington-dc.md)
+  - About: [Catholics for Catholics](/entities/org-catholics-for-catholics.md), [Candace Owens](/entities/person-candace-owens.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
 </details>
 

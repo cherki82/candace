@@ -20,7 +20,7 @@ type: "accusation"
 
 ## About
 
-- [The Daily Wire](/entities/org-daily-wire.md) (org)
+- [The Daily Wire](/entities/org-the-daily-wire.md) (org)
 - [Bassem Youssef](/entities/person-bassem-youssef.md) (person)
 - [Ben Shapiro](/entities/person-ben-shapiro.md) (person)
 

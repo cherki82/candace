@@ -16,14 +16,60 @@ _Type: People_
 
 **Categories:** podcast guest, Fort Huachuca claims
 
+> **Possibly overlapping entity records:** [Mitch](/entities/person-mitch-fort-huachuca-witness). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > External episode transcript records Candace introducing the guest and his self-identification as Mitch Snow.
 Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died - Transcript](https://fight.fudgie.org/search/show/co/episode/20251218_Thu_v71099a)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-mitch-snow-t-00-35-09">2026-01-05 · 00:35:20</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4YgrOhhy708.md#ent-person-mitch-snow-t-00-18-36">2026-02-09 · 00:18:46</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>50</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-mitch-snow-t-00-35-09">You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284</a> (19 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-mitch-snow-t-00-35-09" style="--pulse-height:100%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 19 mentions" title="2026-01-05 · 19 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-mitch-snow-t-00-15-58" style="--pulse-height:32%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 6 mentions" title="2026-01-06 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-mitch-snow-t-00-34-01" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-mitch-snow-t-00-01-27" style="--pulse-height:11%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-mitch-snow-t-00-28-47" style="--pulse-height:32%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 6 mentions" title="2026-01-13 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-person-mitch-snow-t-00-11-29" style="--pulse-height:16%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-mitch-snow-t-00-47-30" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-mitch-snow-t-00-04-42" style="--pulse-height:26%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 5 mentions" title="2026-01-20 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-mitch-snow-t-00-05-51" style="--pulse-height:26%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 5 mentions" title="2026-01-28 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-person-mitch-snow-t-00-17-54" style="--pulse-height:11%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-mitch-snow-t-00-35-09) | 19 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-mitch-snow-t-00-15-58) | 6 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-mitch-snow-t-00-34-01) | 1 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-mitch-snow-t-00-01-27) | 2 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-mitch-snow-t-00-28-47) | 6 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-mitch-snow-t-00-11-29) | 3 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-mitch-snow-t-00-47-30) | 1 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-mitch-snow-t-00-04-42) | 5 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-mitch-snow-t-00-05-51) | 5 |
+| 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-mitch-snow-t-00-17-54) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (50)</strong></summary>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (2 mentions)</summary>
@@ -234,7 +280,11 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 <summary>Formerly Member Of (1)</summary>
 
 - **[Joint Task Force–Southern Border](/entities/org-joint-task-force-southern-border.md)**
-  - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:46](/episodes/ep-4YgrOhhy708.md#t-00-18-36): "Mitch (Mitch Snow) was certain. He was certain. And I want to be clear, he also hasn't moved his story since, not one inch. He was certain that he saw Erika Kirk on the evening of the 8th at Fort Huachuca leaving a hotel with a Cabot Phillips lookalike. He has not adopted, he has not adapted that story. He has not adapted that story. Despite the undue harassment that he received, in particular, after seeing Erika (Erika Kirk) on the evening of the 8th, he claims that he stumbled upon what appeared to him to be the conclusion of a military briefing right before a mission taking place in a borrowed building site for the Joint Task Force, the Southern Border Unit. And he was a border unit and he was surprised he saw a guy. Running the JTF thing, I think he said it was JTF 10, the 10th Mountain Brigade. He's like, oh, where are you guys? I thought this was like disbanded. I used to be on this same task force, Southern Border."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:46](/episodes/ep-4YgrOhhy708.md#t-00-18-36): “Mitch (Mitch Snow) was certain. He was certain. And I want to be clear, he also hasn't moved his story since, not one inch. He was certain that he saw Erika Kirk on the evening of the 8th at Fort Huachuca leaving a hotel with a Cabot Phillips lookalike. He has not adopted, he has not adapted that story. He has not adapted that story. Despite the undue harassment that he received, in particular, after seeing Erika (Erika Kirk) on the evening of the 8th, he claims that he stumbled upon what appeared to him to be the conclusion of a military briefing right before a mission taking place in a borrowed building site for the Joint Task Force, the Southern Border Unit. And he was a border unit and he was surprised he saw a guy. Running the JTF thing, I think he said it was JTF 10, the 10th Mountain Brigade. He's like, oh, where are you guys? I thought this was like disbanded. I used to be on this same task force, Southern Border.”
+
+</details>
 
 </details>
 
@@ -242,7 +292,11 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 <summary>Parent Of (1)</summary>
 
 - **[Anonymous Source #3 (Ep OEAHy3SsIiI)](/entities/anon-src-OEAHy3SsIiI-003.md)**
-  - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:45:13](/episodes/ep-OEAHy3SsIiI.md#t-00-44-34): "They were going to bring his son on,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:45:13](/episodes/ep-OEAHy3SsIiI.md#t-00-44-34): “They were going to bring his son on,”
+
+</details>
 
 </details>
 
@@ -250,7 +304,11 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 <summary>Works For (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:11:31](/episodes/ep-QdM9jLwjwLw.md#t-00-11-31): "Now, my first 72 hours was a little bit different. On my end, when Mitchell (Mitch Snow), my PR agent sent me a very kind message about the infinite press requests that we had been receiving, people seeking a statement from me regarding how I felt about Charlie (Charlie Kirk)'s public assassination,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:11:31](/episodes/ep-QdM9jLwjwLw.md#t-00-11-31): “Now, my first 72 hours was a little bit different. On my end, when Mitchell (Mitch Snow), my PR agent sent me a very kind message about the infinite press requests that we had been receiving, people seeking a statement from me regarding how I felt about Charlie (Charlie Kirk)'s public assassination,”
+
+</details>
 
 </details>
 
@@ -258,13 +316,25 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 <summary>Referenced By (3)</summary>
 
 - **[Anonymous Source #3 (Ep OEAHy3SsIiI)](/entities/anon-src-OEAHy3SsIiI-003.md)** child of this
-  - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:45:13](/episodes/ep-OEAHy3SsIiI.md#t-00-44-34)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:45:13](/episodes/ep-OEAHy3SsIiI.md#t-00-44-34): “They were going to bring his son on,”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** employs this
-  - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:11:31](/episodes/ep-QdM9jLwjwLw.md#t-00-11-31)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:11:31](/episodes/ep-QdM9jLwjwLw.md#t-00-11-31): “Now, my first 72 hours was a little bit different. On my end, when Mitchell (Mitch Snow), my PR agent sent me a very kind message about the infinite press requests that we had been receiving, people seeking a statement from me regarding how I felt about Charlie (Charlie Kirk)'s public assassination,”
+
+</details>
 
 - **[Joint Task Force–Southern Border](/entities/org-joint-task-force-southern-border.md)** has former member this
-  - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:46](/episodes/ep-4YgrOhhy708.md#t-00-18-36)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:46](/episodes/ep-4YgrOhhy708.md#t-00-18-36): “Mitch (Mitch Snow) was certain. He was certain. And I want to be clear, he also hasn't moved his story since, not one inch. He was certain that he saw Erika Kirk on the evening of the 8th at Fort Huachuca leaving a hotel with a Cabot Phillips lookalike. He has not adopted, he has not adapted that story. He has not adapted that story. Despite the undue harassment that he received, in particular, after seeing Erika (Erika Kirk) on the evening of the 8th, he claims that he stumbled upon what appeared to him to be the conclusion of a military briefing right before a mission taking place in a borrowed building site for the Joint Task Force, the Southern Border Unit. And he was a border unit and he was surprised he saw a guy. Running the JTF thing, I think he said it was JTF 10, the 10th Mountain Brigade. He's like, oh, where are you guys? I thought this was like disbanded. I used to be on this same task force, Southern Border.”
+
+</details>
 
 </details>
 

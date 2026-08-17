@@ -1,6 +1,6 @@
 ---
 title: "Zionism"
-description: "Zionism (Concepts) - 231 mentions"
+description: "Zionism (Concepts) - 233 mentions"
 id: "concept-zionism"
 type: "CONCEPT"
 aliases:
@@ -20,14 +20,143 @@ _Type: Concepts_
 
 **Categories:** political movement, Jewish nationalism, political movement
 
+> **Possibly overlapping entity records:** [Christian Zionism](/entities/concept-christian-zionism). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > The U.S. Holocaust Memorial Museum's Holocaust Encyclopedia confirms Zionism as the canonical movement name; transcript forms Zionist and Zionists are already stored aliases.
 Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https://encyclopedia.ushmm.org/content/en/article/resistance-in-the-smaller-ghettos-of-eastern-europe-glossary)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-concept-zionism-t-00-31-15">2025-09-18 · 00:31:27</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-zionism-t-00-00-00">2026-03-02 · 00:00:30</a></strong></div>
+<div><span>Episodes</span><strong>42</strong></div>
+<div><span>Mentions</span><strong>233</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>18</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-zionism-t-00-20-01">Candace x Bassem Youssef | Candace Ep 298</a> (14 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-sreYYcID-QY.md#ent-concept-zionism-t-00-31-15" style="--pulse-height:57%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 8 mentions" title="2025-09-18 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-concept-zionism-t-00-36-12" style="--pulse-height:21%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 3 mentions" title="2025-09-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-concept-zionism-t-00-26-14" style="--pulse-height:29%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 4 mentions" title="2025-09-22 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-concept-zionism-t-00-07-21" style="--pulse-height:8%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-concept-zionism-t-00-30-42" style="--pulse-height:14%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 2 mentions" title="2025-10-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-concept-zionism-t-01-01-09" style="--pulse-height:8%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-00-06-59" style="--pulse-height:36%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 5 mentions" title="2025-10-08 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-concept-zionism-t-00-34-06" style="--pulse-height:14%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 2 mentions" title="2025-10-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-concept-zionism-t-00-00-43" style="--pulse-height:14%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-concept-zionism-t-00-09-15" style="--pulse-height:29%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 4 mentions" title="2025-10-29 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-00-00" style="--pulse-height:71%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 10 mentions" title="2025-10-30 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-concept-zionism-t-00-05-35" style="--pulse-height:86%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 12 mentions" title="2025-10-31 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-00-00" style="--pulse-height:50%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 7 mentions" title="2025-11-03 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-concept-zionism-t-00-32-18" style="--pulse-height:64%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 9 mentions" title="2025-11-04 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-00-00" style="--pulse-height:57%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 8 mentions" title="2025-11-05 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-00-00" style="--pulse-height:50%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 7 mentions" title="2025-11-06 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-11-35" style="--pulse-height:71%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 10 mentions" title="2025-11-08 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-00-41" style="--pulse-height:79%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 11 mentions" title="2025-11-10 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-concept-zionism-t-00-00-40" style="--pulse-height:79%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 11 mentions" title="2025-11-12 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-27-59" style="--pulse-height:29%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 4 mentions" title="2025-11-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-concept-zionism-t-00-03-30" style="--pulse-height:36%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 5 mentions" title="2025-11-15 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-concept-zionism-t-00-53-47" style="--pulse-height:8%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-concept-zionism-t-00-00-00" style="--pulse-height:43%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 6 mentions" title="2025-11-18 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-concept-zionism-t-00-00-00" style="--pulse-height:21%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 3 mentions" title="2025-11-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-concept-zionism-t-00-57-16" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-11-15" style="--pulse-height:43%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 6 mentions" title="2025-12-03 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-concept-zionism-t-00-54-08" style="--pulse-height:8%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-zionism-t-00-04-51" style="--pulse-height:50%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 7 mentions" title="2026-01-12 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-zionism-t-00-03-48" style="--pulse-height:14%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-zionism-t-00-52-31" style="--pulse-height:21%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 3 mentions" title="2026-01-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-concept-zionism-t-00-31-31" style="--pulse-height:93%" aria-label="Myron Gaines x Candace Owens: 13 mentions" title="2026-01-16 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-zionism-t-00-28-19" style="--pulse-height:50%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 7 mentions" title="2026-01-20 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-zionism-t-00-00-40" style="--pulse-height:43%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 6 mentions" title="2026-01-22 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-zionism-t-00-20-01" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 14 mentions" title="2026-01-29 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-concept-zionism-t-00-45-12" style="--pulse-height:29%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 4 mentions" title="2026-01-30 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-zionism-t-00-08-58" style="--pulse-height:29%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 4 mentions" title="2026-02-02 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-concept-zionism-t-00-33-44" style="--pulse-height:21%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 3 mentions" title="2026-02-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-concept-zionism-t-00-33-15" style="--pulse-height:50%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 7 mentions" title="2026-02-09 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-concept-zionism-t-00-15-44" style="--pulse-height:36%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 5 mentions" title="2026-02-10 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-zionism-t-00-00-46" style="--pulse-height:79%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 11 mentions" title="2026-02-11 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-concept-zionism-t-00-01-29" style="--pulse-height:14%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-zionism-t-00-00-00" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-concept-zionism-t-00-31-15) | 8 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-concept-zionism-t-00-36-12) | 3 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-concept-zionism-t-00-26-14) | 4 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-concept-zionism-t-00-07-21) | 1 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-concept-zionism-t-00-30-42) | 2 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-concept-zionism-t-01-01-09) | 1 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-concept-zionism-t-00-06-59) | 5 |
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-concept-zionism-t-00-34-06) | 2 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-zionism-t-00-00-43) | 2 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-concept-zionism-t-00-09-15) | 4 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-00-00) | 10 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-concept-zionism-t-00-05-35) | 12 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-concept-zionism-t-00-00-00) | 7 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-concept-zionism-t-00-32-18) | 9 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-concept-zionism-t-00-00-00) | 8 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-concept-zionism-t-00-00-00) | 7 |
+| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-concept-zionism-t-00-11-35) | 10 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-00-41) | 11 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-zionism-t-00-00-40) | 11 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-concept-zionism-t-00-27-59) | 4 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-concept-zionism-t-00-03-30) | 5 |
+| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-concept-zionism-t-00-53-47) | 1 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-concept-zionism-t-00-00-00) | 6 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-concept-zionism-t-00-00-00) | 3 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-concept-zionism-t-00-57-16) | 1 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-11-15) | 6 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-concept-zionism-t-00-54-08) | 1 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-zionism-t-00-04-51) | 7 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-zionism-t-00-03-48) | 2 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-zionism-t-00-52-31) | 3 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-zionism-t-00-31-31) | 13 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-zionism-t-00-28-19) | 7 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-zionism-t-00-00-40) | 6 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-zionism-t-00-20-01) | 14 |
+| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-concept-zionism-t-00-45-12) | 4 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-zionism-t-00-08-58) | 4 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-concept-zionism-t-00-33-44) | 3 |
+| 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-concept-zionism-t-00-33-15) | 7 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-concept-zionism-t-00-15-44) | 5 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-zionism-t-00-00-46) | 11 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-zionism-t-00-01-29) | 2 |
+| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-concept-zionism-t-00-00-00) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (233)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1 mentions)</summary>
+
+**[00:00:30](/episodes/ep-jTj9Ip46r4w.md#ent-concept-zionism-t-00-00-00)**
+> "...yahu) wanted. That's what the Zionists around Trump wanted."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (2 mentions)</summary>
+
+**[00:01:44](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-zionism-t-00-01-29)**
+> "of course, Zionists implied,"
+
+**[00:59:46](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-zionism-t-00-59-46)**
+> "the Zionists, they always are forecasting something."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (11 mentions)</summary>
@@ -353,10 +482,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 </details>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
-
-**[00:54:45](/episodes/ep-9k2xrAC0H88.md#ent-concept-zionism-t-00-54-08)**
-> "how greatly evil these Zionists are"
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>
 
 **[00:54:36](/episodes/ep-9k2xrAC0H88.md#ent-concept-zionism-t-00-54-08)**
 > "...ognize how greatly evil these Zionists are."
@@ -931,7 +1057,11 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <summary>Target Of Criticism From (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:58:15](/episodes/ep-Wjul6YV6izo.md#t-00-57-51): "Try and take notes and really understand things and that probably was part of the beginning of the end of my support for Zionism because I now believe that it is a objectively racist philosophy."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:58:15](/episodes/ep-Wjul6YV6izo.md#t-00-57-51): “Try and take notes and really understand things and that probably was part of the beginning of the end of my support for Zionism because I now believe that it is a objectively racist philosophy.”
+
+</details>
 
 </details>
 
@@ -939,14 +1069,26 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** critic of this
-  - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:58:15](/episodes/ep-Wjul6YV6izo.md#t-00-57-51)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:58:15](/episodes/ep-Wjul6YV6izo.md#t-00-57-51): “Try and take notes and really understand things and that probably was part of the beginning of the end of my support for Zionism because I now believe that it is a objectively racist philosophy.”
+
+</details>
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Zionism (17)</strong></summary>
+<summary><strong class="section-title">Statements about Zionism (18)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1)</summary>
+
+- [00:01:45](/episodes/ep-jTj9Ip46r4w.md#t-00-01-21) (Claim) **Candace Owens**: ["Charlie Kirk had abandoned the pro-Israel cause entirely before his de..."](/statements/statement-2cd66649f19c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (6)</summary>

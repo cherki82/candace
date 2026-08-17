@@ -1,6 +1,6 @@
 ---
 title: "Tiffany Peterson Barker"
-description: "Tiffany Peterson Barker (People) - 21 mentions"
+description: "Tiffany Peterson Barker (People) - 20 mentions"
 id: "person-tiffany-peterson-barker"
 type: "PERSON"
 aliases:
@@ -12,10 +12,48 @@ _Type: People_
 
 **Also known as:** Tiffany, Tiffany Barker
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-person-tiffany-peterson-barker-t-00-18-59">2025-09-18 · 00:19:22</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#ent-person-tiffany-peterson-barker-t-00-33-14">2025-12-05 · 00:33:14</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Statements by</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-tiffany-peterson-barker-t-00-26-27">They Are Lying About Tyler Robinson. | Candace Ep 244</a> (7 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-sreYYcID-QY.md#ent-person-tiffany-peterson-barker-t-00-18-59" style="--pulse-height:57%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 4 mentions" title="2025-09-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-02-39" style="--pulse-height:71%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 5 mentions" title="2025-09-23 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-tiffany-peterson-barker-t-00-26-27" style="--pulse-height:100%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 7 mentions" title="2025-09-29 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-tiffany-peterson-barker-t-00-02-13" style="--pulse-height:14%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-tiffany-peterson-barker-t-00-20-20" style="--pulse-height:14%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-tiffany-peterson-barker-t-00-22-56" style="--pulse-height:14%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 1 mentions" title="2025-10-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-person-tiffany-peterson-barker-t-00-33-14" style="--pulse-height:14%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-person-tiffany-peterson-barker-t-00-18-59) | 4 |
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-02-39) | 5 |
+| 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-tiffany-peterson-barker-t-00-26-27) | 7 |
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-person-tiffany-peterson-barker-t-00-02-13) | 1 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-tiffany-peterson-barker-t-00-20-20) | 1 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-tiffany-peterson-barker-t-00-22-56) | 1 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-person-tiffany-peterson-barker-t-00-33-14) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
 
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1 mentions)</summary>
@@ -76,10 +114,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (6 mentions)</summary>
-
-**[00:02:58](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-02-39)**
-> "We're joined now by Tiffany Barker and her nieces"
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (5 mentions)</summary>
 
 **[00:02:58](/episodes/ep-UBkFkg4UNY8.md#ent-person-tiffany-peterson-barker-t-00-02-39)**
 > "...s were students of UVU. I guess that's just coincidental. Just to go back, we had already discussed Tiffany Barker and that early morning GMA interview—Good Morning America interview—that she did with her nieces. S..."
@@ -124,10 +159,18 @@ _Type: People_
 <summary>Uncle/Aunt Of (2)</summary>
 
 - **[Elle Steele](/entities/person-elle-steele.md)**
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:04:00](/episodes/ep-sreYYcID-QY.md#t-00-03-26): "Tiffany Barker and her nieces Elle and Mia were interviewed on Good Morning America"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:04:00](/episodes/ep-sreYYcID-QY.md#t-00-03-26): “Tiffany Barker and her nieces Elle and Mia were interviewed on Good Morning America”
+
+</details>
 
 - **[Mia Grant](/entities/person-mia-grant.md)**
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:04:00](/episodes/ep-sreYYcID-QY.md#t-00-03-26): "Tiffany Barker and her nieces Elle and Mia were interviewed on Good Morning America"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:04:00](/episodes/ep-sreYYcID-QY.md#t-00-03-26): “Tiffany Barker and her nieces Elle and Mia were interviewed on Good Morning America”
+
+</details>
 
 </details>
 
@@ -135,10 +178,18 @@ _Type: People_
 <summary>Referenced By (2)</summary>
 
 - **[Elle Steele](/entities/person-elle-steele.md)** niece/nephew of this
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:04:00](/episodes/ep-sreYYcID-QY.md#t-00-03-26)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:04:00](/episodes/ep-sreYYcID-QY.md#t-00-03-26): “Tiffany Barker and her nieces Elle and Mia were interviewed on Good Morning America”
+
+</details>
 
 - **[Mia Grant](/entities/person-mia-grant.md)** niece/nephew of this
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:04:00](/episodes/ep-sreYYcID-QY.md#t-00-03-26)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:04:00](/episodes/ep-sreYYcID-QY.md#t-00-03-26): “Tiffany Barker and her nieces Elle and Mia were interviewed on Good Morning America”
+
+</details>
 
 </details>
 

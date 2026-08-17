@@ -1,12 +1,6 @@
 // Share modal functionality
 const BASE_URL = window.location.origin
 
-interface ShareData {
-  title: string
-  text: string
-  url: string
-}
-
 function getPageType(): string {
   const path = window.location.pathname
   if (path.includes("/claims/")) return "claim"
@@ -22,7 +16,8 @@ function generateSnippet(): string {
   const pageType = getPageType()
   const title = document.querySelector("h1")?.textContent || document.title
   const url = window.location.href
-  const description = document.querySelector('meta[name="description"]')?.getAttribute("content") || ""
+  const description =
+    document.querySelector('meta[name="description"]')?.getAttribute("content") || ""
 
   let snippet = ""
 
@@ -37,7 +32,8 @@ function generateSnippet(): string {
       break
 
     case "entity":
-      const entityType = document.querySelector("em")?.textContent?.replace("Type: ", "") || "Entity"
+      const entityType =
+        document.querySelector("em")?.textContent?.replace("Type: ", "") || "Entity"
       const mentionCount = document.querySelectorAll(".mentions li")?.length || 0
       snippet = `${title} (${entityType})
 ${mentionCount > 0 ? `Mentioned in ${mentionCount} episodes` : ""}
@@ -46,7 +42,8 @@ ${mentionCount > 0 ? `Mentioned in ${mentionCount} episodes` : ""}
 
     case "episode":
       const stats = document.querySelector("p strong")?.parentElement?.textContent || ""
-      const youtubeLink = document.querySelector('a[href*="youtube.com"]')?.getAttribute("href") || ""
+      const youtubeLink =
+        document.querySelector('a[href*="youtube.com"]')?.getAttribute("href") || ""
       snippet = `${title}
 ${stats}
 ▶ ${youtubeLink}
@@ -55,7 +52,8 @@ ${stats}
 
     case "timestamp":
       const transcript = document.querySelector("blockquote")?.textContent?.trim() || ""
-      const tsYoutubeLink = document.querySelector('a[href*="youtube.com"]')?.getAttribute("href") || ""
+      const tsYoutubeLink =
+        document.querySelector('a[href*="youtube.com"]')?.getAttribute("href") || ""
       snippet = `${title}
 "${transcript.slice(0, 200)}${transcript.length > 200 ? "..." : ""}"
 ▶ ${tsYoutubeLink}`

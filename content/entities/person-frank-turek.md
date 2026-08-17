@@ -1,6 +1,6 @@
 ---
 title: "Frank Turek"
-description: "Frank Turek (People) - 66 mentions"
+description: "Frank Turek (People) - 63 mentions"
 id: "person-frank-turek"
 type: "PERSON"
 aliases:
@@ -22,10 +22,80 @@ _Type: People_
 > Canonical identity confirmed through CrossExamined, the organization founded and led by Frank Turek.
 Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-frank-turek-t-00-54-23">2025-09-22 · 00:54:58</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-frank-turek-t-00-18-04">2026-02-11 · 00:18:09</a></strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>63</strong></div>
+<div><span>Statements by</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Relationships</span><strong>18</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-01-23">What Did Charlie Kirk Discover Near The End? | Candace Ep 264</a> (7 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ja26iltROkM.md#ent-person-frank-turek-t-00-54-23" style="--pulse-height:29%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 2 mentions" title="2025-09-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-person-frank-turek-t-01-02-32" style="--pulse-height:43%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 3 mentions" title="2025-10-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-person-frank-turek-t-00-56-33" style="--pulse-height:29%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 2 mentions" title="2025-10-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-frank-turek-t-00-00-43" style="--pulse-height:86%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 6 mentions" title="2025-10-28 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-frank-turek-t-00-43-24" style="--pulse-height:29%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 2 mentions" title="2025-11-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-frank-turek-t-01-00-33" style="--pulse-height:29%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-frank-turek-t-00-16-39" style="--pulse-height:86%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 6 mentions" title="2025-11-10 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-01-23" style="--pulse-height:100%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 7 mentions" title="2025-11-13 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-frank-turek-t-00-01-24" style="--pulse-height:14%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-frank-turek-t-00-31-12" style="--pulse-height:29%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 2 mentions" title="2025-11-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-person-frank-turek-t-00-15-00" style="--pulse-height:29%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 2 mentions" title="2025-11-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-frank-turek-t-00-47-57" style="--pulse-height:14%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-person-frank-turek-t-00-10-58" style="--pulse-height:14%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-frank-turek-t-00-27-46" style="--pulse-height:43%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 3 mentions" title="2025-12-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-frank-turek-t-00-03-34" style="--pulse-height:14%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-frank-turek-t-00-27-06" style="--pulse-height:43%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 3 mentions" title="2025-12-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-frank-turek-t-00-19-13" style="--pulse-height:14%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-frank-turek-t-01-01-26" style="--pulse-height:14%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-frank-turek-t-00-24-18" style="--pulse-height:57%" aria-label="A Legal Turning Point? | Candace Ep 292: 4 mentions" title="2026-01-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-person-frank-turek-t-00-00-00" style="--pulse-height:86%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 6 mentions" title="2026-01-30 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-frank-turek-t-00-46-11" style="--pulse-height:57%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 4 mentions" title="2026-02-02 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-frank-turek-t-00-29-18" style="--pulse-height:14%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-frank-turek-t-00-02-11" style="--pulse-height:29%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-person-frank-turek-t-00-54-23) | 2 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-frank-turek-t-01-02-32) | 3 |
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-person-frank-turek-t-00-56-33) | 2 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-frank-turek-t-00-00-43) | 6 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-frank-turek-t-00-43-24) | 2 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-frank-turek-t-01-00-33) | 2 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-person-frank-turek-t-00-16-39) | 6 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-01-23) | 7 |
+| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-person-frank-turek-t-00-01-24) | 1 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-frank-turek-t-00-31-12) | 2 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-frank-turek-t-00-15-00) | 2 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-person-frank-turek-t-00-47-57) | 1 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-frank-turek-t-00-10-58) | 1 |
+| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-person-frank-turek-t-00-27-46) | 3 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-frank-turek-t-00-03-34) | 1 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-frank-turek-t-00-27-06) | 3 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-frank-turek-t-00-19-13) | 1 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-frank-turek-t-01-01-26) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-frank-turek-t-00-24-18) | 4 |
+| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-frank-turek-t-00-00-00) | 6 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-frank-turek-t-00-46-11) | 4 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-frank-turek-t-00-29-18) | 1 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-frank-turek-t-00-02-11) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (63)</strong></summary>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (2 mentions)</summary>
@@ -202,10 +272,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (8 mentions)</summary>
-
-**[00:01:38](/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-01-23)**
-> "We should start, by the way, with Frank Turek."
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (7 mentions)</summary>
 
 **[00:01:38](/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-01-23)**
 > "...ions; just accept the fed slop. It seems a little bit ridiculous. We should start, by the way, with Frank Turek. Frank Turek, as a reminder, he is the pastor friend who was next to Charlie (Charlie Kirk). Actual..."
@@ -254,10 +321,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (3 mentions)</summary>
-
-**[01:00:49](/episodes/ep-vwG1juDCQZQ.md#ent-person-frank-turek-t-01-00-33)**
-> "Frank Turek said it on stage—that he knew in the car that he was gone"
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (2 mentions)</summary>
 
 **[01:00:49](/episodes/ep-vwG1juDCQZQ.md#ent-person-frank-turek-t-01-00-33)**
 > "... into surgery? Because they explained that he had died instantly. It wasn't just Erika, by the way: Frank Turek said it on stage—that he knew in the car that he was gone. But maybe he still had a pulse. Again: t..."
@@ -279,10 +343,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (7 mentions)</summary>
-
-**[00:00:48](/episodes/ep-Cq7nj9rxPdo.md#ent-person-frank-turek-t-00-00-43)**
-> "Frank Turek is also being added into the mix"
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (6 mentions)</summary>
 
 **[00:00:48](/episodes/ep-Cq7nj9rxPdo.md#ent-person-frank-turek-t-00-00-43)**
 > "... so I can return home. And if you do, I will transfer you $1 million when I get back to my kingdom. Frank Turek is also being added into the mix. He is telling me, plus other conspiracy theorists, to shut up unl..."
@@ -349,7 +410,11 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <summary>Appeared With (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:14:13](/episodes/ep-c5BcKF91iec.md#t-00-14-02): "He pointed out that like the only person who was acting right was Frank Turek. Like, the first thing you do is get down, right? Because you don't know if there's going to be another shot."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:14:13](/episodes/ep-c5BcKF91iec.md#t-00-14-02): “He pointed out that like the only person who was acting right was Frank Turek. Like, the first thing you do is get down, right? Because you don't know if there's going to be another shot.”
+
+</details>
 
 </details>
 
@@ -357,8 +422,12 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <summary>Criticized (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:01:57](/episodes/ep-yAIb-NuUh_U.md#t-00-01-23): "Well, I just learned that Frank Turek was reacting to me."
-  - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:39:02](/episodes/ep-Wjul6YV6izo.md#t-00-39-02): "I think Candace Owens is completely lost any credibility when she's saying that certain dreams. ... are where she's getting her information from,"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:01:57](/episodes/ep-yAIb-NuUh_U.md#t-00-01-23): “Well, I just learned that Frank Turek was reacting to me.”
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:39:02](/episodes/ep-Wjul6YV6izo.md#t-00-39-02): “I think Candace Owens is completely lost any credibility when she's saying that certain dreams. ... are where she's getting her information from,”
+
+</details>
 
 </details>
 
@@ -366,7 +435,11 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:40:58](/episodes/ep-Wjul6YV6izo.md#t-00-40-58): "Frank Turek murder where murder when you see that act of murder and you see it in broad daylight there's probably like a synagogue of Satan hiding behind it and you guys just don't seem interested all in going on this story to figure out who killed Charlie Kirk which is giving us a little bit of intuition that something's amiss"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:40:58](/episodes/ep-Wjul6YV6izo.md#t-00-40-58): “Frank Turek murder where murder when you see that act of murder and you see it in broad daylight there's probably like a synagogue of Satan hiding behind it and you guys just don't seem interested all in going on this story to figure out who killed Charlie Kirk which is giving us a little bit of intuition that something's amiss”
+
+</details>
 
 </details>
 
@@ -374,7 +447,11 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <summary>Formerly Worked For (1)</summary>
 
 - **[U.S. Navy](/entities/org-us-navy.md)**
-  - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:23:09](/episodes/ep-Cq7nj9rxPdo.md#t-00-22-48): "Frank Turek—former officer in the U.S. Navy, and then he turned to Christian apologetics"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:23:09](/episodes/ep-Cq7nj9rxPdo.md#t-00-22-48): “Frank Turek—former officer in the U.S. Navy, and then he turned to Christian apologetics”
+
+</details>
 
 </details>
 
@@ -382,7 +459,11 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <summary>Interviewed (1)</summary>
 
 - **[J. Warner Wallace](/entities/person-j-warner-wallace.md)**
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:03:18](/episodes/ep-yAIb-NuUh_U.md#t-00-02-46): "why I had my friend Detective J. Warner Wallace on my podcast two weeks after Charlie (Charlie Kirk)'s martyrdom."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:03:18](/episodes/ep-yAIb-NuUh_U.md#t-00-02-46): “why I had my friend Detective J. Warner Wallace on my podcast two weeks after Charlie (Charlie Kirk)'s martyrdom.”
+
+</details>
 
 </details>
 
@@ -390,7 +471,11 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <summary>Interviewed By (1)</summary>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)**
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:31:36](/episodes/ep-SKGUzGHymcI.md#t-00-31-12): "Frank, who was with Charlie, he died with Charlie in the hospital, and carried Charlie into the waiting SUV, he told Megyn Kelly something different about drones on that day."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:31:36](/episodes/ep-SKGUzGHymcI.md#t-00-31-12): “Frank, who was with Charlie, he died with Charlie in the hospital, and carried Charlie into the waiting SUV, he told Megyn Kelly something different about drones on that day.”
+
+</details>
 
 </details>
 
@@ -398,7 +483,11 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <summary>Member Of (1)</summary>
 
 - **[United States Air Force](/entities/org-united-states-air-force.md)**
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:15:30](/episodes/ep-mKXdKV-OBog.md#t-00-15-00): "Frank Turk is a naval flight officer, his sons are in the Air Force"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:15:30](/episodes/ep-mKXdKV-OBog.md#t-00-15-00): “Frank Turk is a naval flight officer, his sons are in the Air Force”
+
+</details>
 
 </details>
 
@@ -406,7 +495,11 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <summary>Met With (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:46:29](/episodes/ep-CEF7gQRWYCE.md#t-00-46-11): "And per Frank, and I'm going to listen to what Frank Turek says here. He says that he went on a walk with Charlie this day at 8 o'clock p.m. He says that earlier in the day he had been with Charlie, but they then went on this long walk again because he needed advice about how to debate."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:46:29](/episodes/ep-CEF7gQRWYCE.md#t-00-46-11): “And per Frank, and I'm going to listen to what Frank Turek says here. He says that he went on a walk with Charlie this day at 8 o'clock p.m. He says that earlier in the day he had been with Charlie, but they then went on this long walk again because he needed advice about how to debate.”
+
+</details>
 
 </details>
 
@@ -414,7 +507,11 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <summary>Spoke At (1)</summary>
 
 - **[Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)**
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:55:34](/episodes/ep-ja26iltROkM.md#t-00-55-02): "He gave the speech that he wanted to give, and nothing in my research has come up about—thus far has come up about—Frank Turek"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:55:34](/episodes/ep-ja26iltROkM.md#t-00-55-02): “He gave the speech that he wanted to give, and nothing in my research has come up about—thus far has come up about—Frank Turek”
+
+</details>
 
 </details>
 
@@ -422,32 +519,68 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <summary>Referenced By (9)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** appeared with this
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:14:13](/episodes/ep-c5BcKF91iec.md#t-00-14-02)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:14:13](/episodes/ep-c5BcKF91iec.md#t-00-14-02): “He pointed out that like the only person who was acting right was Frank Turek. Like, the first thing you do is get down, right? Because you don't know if there's going to be another shot.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-  - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:40:58](/episodes/ep-Wjul6YV6izo.md#t-00-40-58)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:40:58](/episodes/ep-Wjul6YV6izo.md#t-00-40-58): “Frank Turek murder where murder when you see that act of murder and you see it in broad daylight there's probably like a synagogue of Satan hiding behind it and you guys just don't seem interested all in going on this story to figure out who killed Charlie Kirk which is giving us a little bit of intuition that something's amiss”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:01:57](/episodes/ep-yAIb-NuUh_U.md#t-00-01-23)
-  - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:39:02](/episodes/ep-Wjul6YV6izo.md#t-00-39-02)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:01:57](/episodes/ep-yAIb-NuUh_U.md#t-00-01-23): “Well, I just learned that Frank Turek was reacting to me.”
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:39:02](/episodes/ep-Wjul6YV6izo.md#t-00-39-02): “I think Candace Owens is completely lost any credibility when she's saying that certain dreams. ... are where she's getting her information from,”
+
+</details>
 
 - **[U.S. Navy](/entities/org-us-navy.md)** formerly employed this
-  - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:23:09](/episodes/ep-Cq7nj9rxPdo.md#t-00-22-48)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:23:09](/episodes/ep-Cq7nj9rxPdo.md#t-00-22-48): “Frank Turek—former officer in the U.S. Navy, and then he turned to Christian apologetics”
+
+</details>
 
 - **[United States Air Force](/entities/org-united-states-air-force.md)** has member this
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:15:30](/episodes/ep-mKXdKV-OBog.md#t-00-15-00)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:15:30](/episodes/ep-mKXdKV-OBog.md#t-00-15-00): “Frank Turk is a naval flight officer, his sons are in the Air Force”
+
+</details>
 
 - **[Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)** hosted speaker this
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:55:34](/episodes/ep-ja26iltROkM.md#t-00-55-02)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:55:34](/episodes/ep-ja26iltROkM.md#t-00-55-02): “He gave the speech that he wanted to give, and nothing in my research has come up about—thus far has come up about—Frank Turek”
+
+</details>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)** interviewed this
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:31:36](/episodes/ep-SKGUzGHymcI.md#t-00-31-12)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:31:36](/episodes/ep-SKGUzGHymcI.md#t-00-31-12): “Frank, who was with Charlie, he died with Charlie in the hospital, and carried Charlie into the waiting SUV, he told Megyn Kelly something different about drones on that day.”
+
+</details>
 
 - **[J. Warner Wallace](/entities/person-j-warner-wallace.md)** interviewed by this
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:03:18](/episodes/ep-yAIb-NuUh_U.md#t-00-02-46)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:03:18](/episodes/ep-yAIb-NuUh_U.md#t-00-02-46): “why I had my friend Detective J. Warner Wallace on my podcast two weeks after Charlie (Charlie Kirk)'s martyrdom.”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** met with this
-  - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:46:29](/episodes/ep-CEF7gQRWYCE.md#t-00-46-11)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:46:29](/episodes/ep-CEF7gQRWYCE.md#t-00-46-11): “And per Frank, and I'm going to listen to what Frank Turek says here. He says that he went on a walk with Charlie this day at 8 o'clock p.m. He says that earlier in the day he had been with Charlie, but they then went on this long walk again because he needed advice about how to debate.”
+
+</details>
 
 </details>
 

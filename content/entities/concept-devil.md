@@ -7,10 +7,58 @@ type: "CONCEPT"
 
 _Type: Concepts_
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-concept-devil-t-00-54-20">2025-09-18 · 00:54:43</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-concept-devil-t-00-43-39">2025-12-05 · 00:44:00</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-adJ4LNGp84I.md#ent-concept-devil-t-00-48-55">BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246</a> (5 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-sreYYcID-QY.md#ent-concept-devil-t-00-54-20" style="--pulse-height:20%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 1 mentions" title="2025-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-concept-devil-t-00-48-55" style="--pulse-height:100%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 5 mentions" title="2025-10-01 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-concept-devil-t-00-11-59" style="--pulse-height:40%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 2 mentions" title="2025-10-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-concept-devil-t-00-48-28" style="--pulse-height:20%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-devil-t-00-20-26" style="--pulse-height:40%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-concept-devil-t-00-23-02" style="--pulse-height:40%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-concept-devil-t-00-15-24" style="--pulse-height:40%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 2 mentions" title="2025-11-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-concept-devil-t-00-53-05" style="--pulse-height:40%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 2 mentions" title="2025-11-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-concept-devil-t-00-42-11" style="--pulse-height:60%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 3 mentions" title="2025-11-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-concept-devil-t-00-59-13" style="--pulse-height:20%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-concept-devil-t-00-41-05" style="--pulse-height:40%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-concept-devil-t-00-43-39" style="--pulse-height:20%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-concept-devil-t-00-54-20) | 1 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-concept-devil-t-00-48-55) | 5 |
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-concept-devil-t-00-11-59) | 2 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-concept-devil-t-00-48-28) | 1 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-concept-devil-t-00-20-26) | 2 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-concept-devil-t-00-23-02) | 2 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-devil-t-00-15-24) | 2 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-concept-devil-t-00-53-05) | 2 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-concept-devil-t-00-42-11) | 3 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-concept-devil-t-00-59-13) | 1 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-concept-devil-t-00-41-05) | 2 |
+| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-concept-devil-t-00-43-39) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
 
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1 mentions)</summary>

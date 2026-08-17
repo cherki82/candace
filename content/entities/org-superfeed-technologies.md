@@ -1,6 +1,6 @@
 ---
 title: "Superfeed Technologies, Inc."
-description: "Superfeed Technologies, Inc. (Organizations) - 1 mention"
+description: "Superfeed Technologies, Inc. (Organizations) - 3 mentions"
 id: "org-superfeed-technologies"
 type: "ORG"
 aliases:
@@ -21,22 +21,106 @@ _Type: Organizations_
 > Arizona Corporation Commission record confirms the canonical registered company name Superfeed Technologies, Inc.
 Source: [Entity Details: SUPERFEED TECHNOLOGIES, INC. | Arizona Corporation Commission](https://ecorp.azcc.gov/PublicBusinessSearch/Print?businessId=1981489)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-superfeed-technologies-t-00-00-01">2026-02-28 · 00:00:30</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-superfeed-technologies-t-00-20-59">2026-02-28 · 00:21:20</a></strong></div>
+<div><span>Episodes</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-superfeed-technologies-t-00-00-01">Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3</a> (2 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-superfeed-technologies-t-00-00-01" style="--pulse-height:100%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 2 mentions" title="2026-02-28 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-superfeed-technologies-t-00-00-01) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (2 mentions)</summary>
+
+**[00:00:30](/episodes/ep-cZxHqYsWRYg.md#ent-org-superfeed-technologies-t-00-00-01)**
+> "...ntly been put on the board of Superfeed Technologies alongside Turning Point Action's COO."
+
+**[00:21:20](/episodes/ep-cZxHqYsWRYg.md#ent-org-superfeed-technologies-t-00-20-59)**
+> "...m. Yeah, they're referring to Superfeed Technologies had its business revoked by the state of Arizona ..."
+
+</details>
 
 </details>
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Has Board Member (2)</summary>
+
+- **[Lori Frantzve](/entities/person-lori-frantzve.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:00:30](/episodes/ep-cZxHqYsWRYg.md#t-00-00-01): “Lori Frantzve, despite being ill, has recently been put on the board of Superfeed Technologies alongside Turning Point Action's COO.”
+
+</details>
+
+- **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:00:30](/episodes/ep-cZxHqYsWRYg.md#t-00-00-01): “Lori Frantzve, despite being ill, has recently been put on the board of Superfeed Technologies alongside Turning Point Action's COO. Oh, Tyler Bowyer, shady dude.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
+
+- **[Lori Frantzve](/entities/person-lori-frantzve.md)** board member of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:00:30](/episodes/ep-cZxHqYsWRYg.md#t-00-00-01): “Lori Frantzve, despite being ill, has recently been put on the board of Superfeed Technologies alongside Turning Point Action's COO.”
+
+</details>
+
+- **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** board member of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:00:30](/episodes/ep-cZxHqYsWRYg.md#t-00-00-01): “Lori Frantzve, despite being ill, has recently been put on the board of Superfeed Technologies alongside Turning Point Action's COO. Oh, Tyler Bowyer, shady dude.”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Superfeed Technologies, Inc. (1)</strong></summary>
+<summary><strong class="section-title">Statements about Superfeed Technologies, Inc. (3)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (2)</summary>
+
+- [00:00:30](/episodes/ep-cZxHqYsWRYg.md#t-00-00-01) (Claim) **Candace Owens**: ["Lori Frantzve was placed on the Superfeed Technologies board alongside..."](/statements/statement-7005646340ac.md)
+  - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Turning Point Action](/entities/org-turning-point-action.md)
+
+- [00:21:20](/episodes/ep-cZxHqYsWRYg.md#t-00-20-59) (Citation) **Candace Owens**: ["A Yahoo News report said Superfeed Technologies had its Arizona busine..."](/statements/statement-f8a16cb746f5.md)
+  - Also about: [Kari Lake](/entities/person-kari-lake.md), [Jeff DeWit](/entities/person-jeff-dewit.md), [Arizona](/entities/gpe-arizona.md)
+
+</details>
 
 <details>
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (1)</summary>

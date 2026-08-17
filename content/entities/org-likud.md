@@ -20,10 +20,38 @@ _Type: Organizations_
 > Official Likud party site confirms the canonical Likud name and identifies it as the National Liberal Movement founded as a party alliance in 1973.
 Source: [The Likud Party](https://www.likud.org.il/en)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-org-likud-t-00-34-00">2026-01-12 · 00:34:14</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-likud-t-00-32-32">2026-02-11 · 00:32:32</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-CMcktj3Egfo.md#ent-org-likud-t-00-34-00">American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288</a> (2 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-likud-t-00-34-00" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-likud-t-00-32-32" style="--pulse-height:50%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-likud-t-00-34-00) | 2 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-likud-t-00-32-32) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
@@ -53,7 +81,11 @@ Source: [The Likud Party](https://www.likud.org.il/en)
 <summary>Has Member (1)</summary>
 
 - **[Dan Illouz](/entities/person-dan-illouz.md)**
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:34:14](/episodes/ep-CMcktj3Egfo.md#t-00-34-00): "when there was a Likud party representative who got up and gave a speech and declared me and Tucker Carlson to be enemies of the state of Israel."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:34:14](/episodes/ep-CMcktj3Egfo.md#t-00-34-00): “when there was a Likud party representative who got up and gave a speech and declared me and Tucker Carlson to be enemies of the state of Israel.”
+
+</details>
 
 </details>
 
@@ -61,7 +93,11 @@ Source: [The Likud Party](https://www.likud.org.il/en)
 <summary>Referenced By (1)</summary>
 
 - **[Dan Illouz](/entities/person-dan-illouz.md)** member of this
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:34:14](/episodes/ep-CMcktj3Egfo.md#t-00-34-00)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:34:14](/episodes/ep-CMcktj3Egfo.md#t-00-34-00): “when there was a Likud party representative who got up and gave a speech and declared me and Tucker Carlson to be enemies of the state of Israel.”
+
+</details>
 
 </details>
 

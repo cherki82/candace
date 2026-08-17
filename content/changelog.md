@@ -5,6 +5,35 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2026-08-17 07:04:57
+
+**Added 11 episode(s):**
+  - `1IY2oD-_xVA`: Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2
+  - `2tFYJf1klgY`: Bride Of Charlie: The Lost Years... | Episode 5
+  - `DdPjoy5W-wY`: Bride Of Charlie: Crazy In Love | Episode 7
+  - `LKR94FQ5p3o`: Coming soon...
+  - `ZAsV0fHGBiM`: Bride Of Charlie: A Wrinkle In Time | Episode 1
+  - `ZzAT2xijKGQ`: Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309
+  - `all_threads`: 
+  - `cZxHqYsWRYg`: Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3
+  - `i8m_6D4QGmk`: Donald Trump Has Betrayed America. | Candace Ep 308
+  - `jTj9Ip46r4w`: Bride Of Charlie: The Ties That Bind | Episode 4
+  - `y8lak3CRwDw`: Bride Of Charlie: What Happened In Romania? | Episode 6
+**Added 227 new entity/entities**
+**Removed 14 entity/entities**
+**Added 115 new event(s)**
+**Removed 1 event(s)**
+**Added 234 new relationship(s)**
+
+**Totals:**
+- Episodes: 92
+- Entities: 2333
+- Events: 941
+- Claims: 1461
+- Relationships: 2058
+
+---
+
 ## 2026-08-16 11:28:11
 
 **Cleaned 1 transcript(s):**

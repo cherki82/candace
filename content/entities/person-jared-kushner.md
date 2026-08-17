@@ -20,10 +20,42 @@ _Type: People_
 > Archived White House material confirms Jared Kushner's canonical name and Senior Advisor role; episode context jointly names him with Ivanka Trump.
 Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived White House](https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-senior-advisor-jared-kushner-call-jewish-leaders/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-46-58">2025-10-09 · 00:47:28</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-jared-kushner-t-00-45-46">2026-02-13 · 00:45:50</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>1</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-jared-kushner-t-00-31-07">Candace x Baron Coleman LIVE!! | Candace Ep 293</a> (7 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-46-58" style="--pulse-height:57%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 4 mentions" title="2025-10-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-jared-kushner-t-00-31-07" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 7 mentions" title="2026-01-20 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-jared-kushner-t-00-11-06" style="--pulse-height:14%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-jared-kushner-t-00-45-46" style="--pulse-height:57%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 4 mentions" title="2026-02-13 · 4 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-46-58) | 4 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-jared-kushner-t-00-31-07) | 7 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-jared-kushner-t-00-11-06) | 1 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-jared-kushner-t-00-45-46) | 4 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (4 mentions)</summary>
@@ -99,18 +131,14 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Worked With (1)</summary>
-
-- **[Howard Lutnick](/entities/person-howard-lutnick.md)**
-  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:45:50](/episodes/ep-1hcjQGgvxUY.md#t-00-45-46): "Howard Lutnick is all over the world with Jared Kushner."
-
-</details>
-
-<details>
 <summary>Referenced By (1)</summary>
 
 - **[Howard Lutnick](/entities/person-howard-lutnick.md)** worked with this
-  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:45:50](/episodes/ep-1hcjQGgvxUY.md#t-00-45-46)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:45:50](/episodes/ep-1hcjQGgvxUY.md#t-00-45-46): “Howard Lutnick is all over the world with Jared Kushner.”
+
+</details>
 
 </details>
 

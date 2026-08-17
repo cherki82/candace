@@ -11,16 +11,49 @@ _Type: Organizations_
 
 **Also known as:** Wiki
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-wikipedia-t-00-00-00">2025-10-29 · 00:00:02</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-wikipedia-t-00-01-48">2026-02-27 · 00:01:48</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-wikipedia-t-00-00-00">Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254</a> (13 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-wikipedia-t-00-00-00" style="--pulse-height:100%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 13 mentions" title="2025-10-29 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-wikipedia-t-00-01-48" style="--pulse-height:8%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-org-wikipedia-t-00-00-00) | 13 |
+| 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-wikipedia-t-00-01-48) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
 
 <details>
-<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (14 mentions)</summary>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (1 mentions)</summary>
 
-**[00:00:02](/episodes/ep-Qt0VHV-POCg.md#ent-org-wikipedia-t-00-00-00)**
-> "the Turning Point USA Wikipedia entry got a very interesting update"
+**[00:01:48](/episodes/ep-1IY2oD-_xVA.md#ent-org-wikipedia-t-00-01-48)**
+> "Okay, so on background, I don't know how far down various rabbit holes you have gone, but if you are a regular viewer of the show, then you are very familiar with the name Aleister Crowley. If you are not, please, in your spare time, hit Wikipedia, read maybe Hollywood Babylon, Chaos."
+
+</details>
+
+<details>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (13 mentions)</summary>
 
 **[00:00:02](/episodes/ep-Qt0VHV-POCg.md#ent-org-wikipedia-t-00-00-00)**
 > "Well, the Turning Point USA Wikipedia entry got a very interesting update the night aft..."

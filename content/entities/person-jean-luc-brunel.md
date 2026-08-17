@@ -16,10 +16,38 @@ _Type: People_
 > BBC reporting identifies the canonical hyphenated name Jean-Luc Brunel and matches the transcript context.
 Source: [Epstein used modelling agent to recruit girls, Brazilian women tell BBC](https://sg.news.yahoo.com/epstein-used-modelling-agent-recruit-000557326.html)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-X92MllIHDzw.md#ent-person-jean-luc-brunel-t-00-36-16">2026-01-16 · 00:36:50</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-jean-luc-brunel-t-00-31-05">2026-02-02 · 00:31:32</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>3</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-jean-luc-brunel-t-00-31-05">BAAL SO HARD: The Epstein Files | Candace Ep 300</a> (2 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-X92MllIHDzw.md#ent-person-jean-luc-brunel-t-00-36-16" style="--pulse-height:50%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-jean-luc-brunel-t-00-31-05" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-jean-luc-brunel-t-00-36-16) | 1 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-jean-luc-brunel-t-00-31-05) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (2 mentions)</summary>
@@ -49,7 +77,11 @@ Source: [Epstein used modelling agent to recruit girls, Brazilian women tell BBC
 <summary>Friend Of (1)</summary>
 
 - **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)**
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:36:50](/episodes/ep-X92MllIHDzw.md#t-00-36-16): "And his friend, Jean-Luc Brunel in Paris,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:36:50](/episodes/ep-X92MllIHDzw.md#t-00-36-16): “And his friend, Jean-Luc Brunel in Paris,”
+
+</details>
 
 </details>
 
@@ -57,10 +89,18 @@ Source: [Epstein used modelling agent to recruit girls, Brazilian women tell BBC
 <summary>Referenced By (2)</summary>
 
 - **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)** friend of this
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:36:50](/episodes/ep-X92MllIHDzw.md#t-00-36-16)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:36:50](/episodes/ep-X92MllIHDzw.md#t-00-36-16): “And his friend, Jean-Luc Brunel in Paris,”
+
+</details>
 
 - **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)** worked with this
-  - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:31:05](/episodes/ep-CEF7gQRWYCE.md#t-00-30-39)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:31:05](/episodes/ep-CEF7gQRWYCE.md#t-00-30-39): “what I know about Jeffrey Epstein and the way that he was moving with Jean-Luc Brunel”
+
+</details>
 
 </details>
 

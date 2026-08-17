@@ -15,10 +15,42 @@ _Type: Organizations_
 > Official company archive confirms canonical name.
 Source: [Duncan Aviation — Tom Burt retirement](https://www.duncanaviation.aero/news/tom-burt-executive-vice-president-coo-of-duncan-aviation-in-battle-creek-michigan-to-retire-after-40-years)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-duncan-aviation-t-00-18-55">2025-11-17 · 00:19:34</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-duncan-aviation-t-00-38-59">2026-01-06 · 00:39:19</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-duncan-aviation-t-00-18-55">Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266</a> (4 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-duncan-aviation-t-00-18-55" style="--pulse-height:100%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 4 mentions" title="2025-11-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-org-duncan-aviation-t-00-06-18" style="--pulse-height:100%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 4 mentions" title="2025-11-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-duncan-aviation-t-00-13-44" style="--pulse-height:50%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-duncan-aviation-t-00-38-59" style="--pulse-height:25%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-org-duncan-aviation-t-00-18-55) | 4 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-duncan-aviation-t-00-06-18) | 4 |
+| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-org-duncan-aviation-t-00-13-44) | 2 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-duncan-aviation-t-00-38-59) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
@@ -82,7 +114,11 @@ Source: [Duncan Aviation — Tom Burt retirement](https://www.duncanaviation.aer
 <summary>Has Coo (1)</summary>
 
 - **[Tom Burt](/entities/person-tom-burt.md)**
-  - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:39:19](/episodes/ep-HYn0P-P1wUw.md#t-00-38-59): "It's Tom Burt, who ran Duncan Aviation. The FBO, I told you, that rented the cars for the feds, he actually ran Duncan Aviation as the executive vice president and COO for 22 years."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:39:19](/episodes/ep-HYn0P-P1wUw.md#t-00-38-59): “It's Tom Burt, who ran Duncan Aviation. The FBO, I told you, that rented the cars for the feds, he actually ran Duncan Aviation as the executive vice president and COO for 22 years.”
+
+</details>
 
 </details>
 
@@ -90,7 +126,11 @@ Source: [Duncan Aviation — Tom Burt retirement](https://www.duncanaviation.aer
 <summary>Referenced By (1)</summary>
 
 - **[Tom Burt](/entities/person-tom-burt.md)** COO of this
-  - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:39:19](/episodes/ep-HYn0P-P1wUw.md#t-00-38-59)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:39:19](/episodes/ep-HYn0P-P1wUw.md#t-00-38-59): “It's Tom Burt, who ran Duncan Aviation. The FBO, I told you, that rented the cars for the feds, he actually ran Duncan Aviation as the executive vice president and COO for 22 years.”
+
+</details>
 
 </details>
 

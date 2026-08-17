@@ -16,10 +16,38 @@ _Type: People_
 > Associated Press reporting and the federal complaints identify the former Harvest Christian Fellowship pastor and missionary as Paul Havsgaard.
 Source: [Lawsuits accuse former California megachurch pastor of child sex abuse in Bucharest | AP](https://apnews.com/article/f1a8c9e20021387e387ec4240a330f83)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-paul-havsgaard-t-00-33-28">2026-01-13 · 00:33:52</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-X92MllIHDzw.md#ent-person-paul-havsgaard-t-00-14-50">2026-01-16 · 00:15:03</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-paul-havsgaard-t-00-33-28">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (2 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-paul-havsgaard-t-00-33-28" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-person-paul-havsgaard-t-00-14-50" style="--pulse-height:50%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-paul-havsgaard-t-00-33-28) | 2 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-paul-havsgaard-t-00-14-50) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
 
 <details>
 <summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (1 mentions)</summary>
@@ -49,7 +77,11 @@ Source: [Lawsuits accuse former California megachurch pastor of child sex abuse 
 <summary>Formerly Worked For (1)</summary>
 
 - **[Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md)**
-  - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:33:52](/episodes/ep-ZZGWo6oDscc.md#t-00-33-28): "Paul Havsgaard, he is a former pastor and a missionary at Harvest Christian Fellowship in Riverside, California."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:33:52](/episodes/ep-ZZGWo6oDscc.md#t-00-33-28): “Paul Havsgaard, he is a former pastor and a missionary at Harvest Christian Fellowship in Riverside, California.”
+
+</details>
 
 </details>
 
@@ -57,7 +89,11 @@ Source: [Lawsuits accuse former California megachurch pastor of child sex abuse 
 <summary>Funded By (1)</summary>
 
 - **[Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md)**
-  - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:34:40](/episodes/ep-ZZGWo6oDscc.md#t-00-34-07): "The court documents claim that Greg Laurie and the Harvest Christian Fellowship sent funding to Havsgaard, which they obviously did send funding to him while he was there, and they were negligent in supervising him while he was there,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:34:40](/episodes/ep-ZZGWo6oDscc.md#t-00-34-07): “The court documents claim that Greg Laurie and the Harvest Christian Fellowship sent funding to Havsgaard, which they obviously did send funding to him while he was there, and they were negligent in supervising him while he was there,”
+
+</details>
 
 </details>
 
@@ -65,10 +101,18 @@ Source: [Lawsuits accuse former California megachurch pastor of child sex abuse 
 <summary>Referenced By (2)</summary>
 
 - **[Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md)** formerly employed this
-  - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:33:52](/episodes/ep-ZZGWo6oDscc.md#t-00-33-28)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:33:52](/episodes/ep-ZZGWo6oDscc.md#t-00-33-28): “Paul Havsgaard, he is a former pastor and a missionary at Harvest Christian Fellowship in Riverside, California.”
+
+</details>
 
 - **[Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md)** funded this
-  - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:34:40](/episodes/ep-ZZGWo6oDscc.md#t-00-34-07)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:34:40](/episodes/ep-ZZGWo6oDscc.md#t-00-34-07): “The court documents claim that Greg Laurie and the Harvest Christian Fellowship sent funding to Havsgaard, which they obviously did send funding to him while he was there, and they were negligent in supervising him while he was there,”
+
+</details>
 
 </details>
 

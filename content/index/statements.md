@@ -1,11 +1,11 @@
 ---
 title: "Statements Index"
-description: "Browse 2476 statements extracted from podcast episodes"
+description: "Browse 2790 statements extracted from podcast episodes"
 ---
 
 # Statements
 
-_2476 statements extracted from podcast episodes._
+_2790 statements extracted from podcast episodes._
 
 > **Note:** Statements are extracted from podcast transcripts using AI analysis.
 > Speaker attribution and content may contain errors. Always verify against primary sources.
@@ -34,7 +34,7 @@ _2476 statements extracted from podcast episodes._
 
 <div class="tab-controls">
   <label for="tab-bytype" class="tab-btn">By Type</label>
-  <label for="tab-byepisode" class="tab-btn">By Episode (68)</label>
+  <label for="tab-byepisode" class="tab-btn">By Episode (75)</label>
 </div>
 
 <style>
@@ -51,7 +51,7 @@ _2476 statements extracted from podcast episodes._
 <div class="tab-content tab-content-bytype">
 
 <details open>
-<summary><strong class="section-title">Accusations (623)</strong></summary>
+<summary><strong class="section-title">Accusations (691)</strong></summary>
 
 <details>
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (6)</summary>
@@ -1990,19 +1990,19 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:43:45](/episodes/ep-HYn0P-P1wUw.md#t-00-43-07) [○] **Candace Owens**: ["The Daily Wire had been casting presenters for a show designed specifically to m..."](/statements/statement-c256dab684fa.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
 
 </div>
 <div class="filter-item">
 
 - [00:45:24](/episodes/ep-HYn0P-P1wUw.md#t-00-44-50) [○] **Candace Owens**: ["The Daily Wire selected Madison Bransford to host a show called In the No-No."](/statements/statement-7a95cf8eb79f.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Madison Bransford](/entities/person-madison-bransford.md), [Candace Owens](/entities/person-candace-owens.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Madison Bransford](/entities/person-madison-bransford.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
 <div class="filter-item">
 
 - [00:50:43](/episodes/ep-HYn0P-P1wUw.md#t-00-50-23) [○] **Candace Owens**: ["The Daily Wire's continuing focus on Candace Owens amounts to a dangerous obsess..."](/statements/statement-74ac93f4dc49.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
 <div class="filter-item">
@@ -2019,7 +2019,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:00:45](/episodes/ep-zSKrxIUMNqw.md#t-00-00-00) [◐] **Candace Owens**: ["The Daily Wire has spent two years fighting Candace Owens after she left the com..."](/statements/statement-8f269b375d35.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
 <div class="filter-item">
@@ -2031,7 +2031,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:02:16](/episodes/ep-zSKrxIUMNqw.md#t-00-02-11) [○] **Candace Owens**: ["The Daily Wire designed a new show specifically to mock Candace Owens and Tucker..."](/statements/statement-8d537c2f578a.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
 
 </div>
 <div class="filter-item">
@@ -2061,7 +2061,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:14:33](/episodes/ep-zSKrxIUMNqw.md#t-00-13-54) [○] **Candace Owens**: ["Jeremy Boreing publicly identified Owens's views that genocide is always wrong a..."](/statements/statement-22bf3ad02120.md)
-  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </div>
 <div class="filter-item">
@@ -2109,7 +2109,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:22:31](/episodes/ep-zSKrxIUMNqw.md#t-00-22-03) [○] **Anonymous Source #3 (Ep zSKrxIUMNqw)**: ["A Breitbart executive told Candace Owens and Charlie Kirk that Ben Shapiro start..."](/statements/statement-c6e9c9f99b51.md)
-  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [The Daily Wire](/entities/org-daily-wire.md), [Breitbart News](/entities/org-breitbart-news.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Breitbart News](/entities/org-breitbart-news.md)
 
 </div>
 <div class="filter-item">
@@ -2133,13 +2133,13 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:31:43](/episodes/ep-zSKrxIUMNqw.md#t-00-31-09) [◐] **Candace Owens**: ["The Daily Wire pursued Candace Owens through litigation, donor pressure, and int..."](/statements/statement-a5535fb1488b.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
 <div class="filter-item">
 
 - [00:39:34](/episodes/ep-zSKrxIUMNqw.md#t-00-39-32) [○] **Candace Owens**: ["The Daily Wire threatened to reduce Candace Owens's contract unless she publicly..."](/statements/statement-ced70ad0f846.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Kanye West](/entities/person-kanye-west.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Kanye West](/entities/person-kanye-west.md)
 
 </div>
 <div class="filter-item">
@@ -2163,7 +2163,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:57:00](/episodes/ep-zSKrxIUMNqw.md#t-00-57-00) [◐] **Candace Owens**: ["Candace Owens said she believed chicken feed had been poisoned, questioned wheth..."](/statements/statement-2eca0af8616c.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Perdue Farms](/entities/org-perdue-farms.md), [Pharmaceutical industry](/entities/concept-pharmaceutical-industry.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Perdue Farms](/entities/org-perdue-farms.md), [Pharmaceutical industry](/entities/concept-pharmaceutical-industry.md)
 
 </div>
 <div class="filter-item">
@@ -2466,7 +2466,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:07:11](/episodes/ep-ZZGWo6oDscc.md#t-00-07-08) [◐] **Candace Owens**: ["I think personally he's got the largest blackmail file, whatever Israel has on h..."](/statements/statement-7c2487d3cfc3.md)
-  - About: [Lindsey Graham](/entities/person-lindsey-graham.md), [Israel](/entities/gpe-israel.md), [Washington, D.C.](/entities/gpe-washington-dc.md)
+  - About: [Lindsey Graham](/entities/person-lindsey-graham.md), [Israel](/entities/gpe-israel.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
 </div>
 <div class="filter-item">
@@ -3272,49 +3272,49 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:46:53](/episodes/ep-QdM9jLwjwLw.md#t-00-46-30) [◐] **Candace Owens**: ["Owens said she was told Jeremy Boreing spent about $67 million on his film proje..."](/statements/statement-e105cd32e317.md)
-  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </div>
 <div class="filter-item">
 
 - [00:47:18](/episodes/ep-QdM9jLwjwLw.md#t-00-46-53) [○] **Candace Owens**: ["The Daily Wire emptied a savings account and borrowed money personally from Ben ..."](/statements/statement-ddbe7f83380d.md)
-  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </div>
 <div class="filter-item">
 
 - [00:50:36](/episodes/ep-QdM9jLwjwLw.md#t-00-50-24) [○] **Candace Owens**: ["Owens sarcastically characterized The Daily Wire's decision as a plan to create ..."](/statements/statement-6470de56359a.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md), [Jeremy Boreing](/entities/person-jeremy-boreing.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Jeremy Boreing](/entities/person-jeremy-boreing.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </div>
 <div class="filter-item">
 
 - [00:51:28](/episodes/ep-QdM9jLwjwLw.md#t-00-51-07) [○] **Candace Owens**: ["The Daily Wire's management believed firing me would produce mass subscriptions ..."](/statements/statement-6de1995a2afb.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </div>
 <div class="filter-item">
 
 - [00:52:27](/episodes/ep-QdM9jLwjwLw.md#t-00-51-50) [○] **Candace Owens**: ["Jeremy Boreing sent an intern to follow me to a Turning Point USA event in Dalla..."](/statements/statement-c88afe6fd106.md)
-  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </div>
 <div class="filter-item">
 
 - [00:53:15](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11) [○] **Candace Owens**: ["Jeremy Boreing told Brett Cooper a few weeks before her wedding that she should ..."](/statements/statement-f49b5ad7509e.md)
-  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Brett Cooper](/entities/person-brett-cooper.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Brett Cooper](/entities/person-brett-cooper.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </div>
 <div class="filter-item">
 
 - [00:54:07](/episodes/ep-QdM9jLwjwLw.md#t-00-53-54) [◐] **Candace Owens**: ["The Daily Wire offered Brett Cooper's maid of honor a large sum to replace Coope..."](/statements/statement-1910477f2c11.md)
-  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Brett Cooper](/entities/person-brett-cooper.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Brett Cooper](/entities/person-brett-cooper.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </div>
 <div class="filter-item">
 
 - [01:03:05](/episodes/ep-QdM9jLwjwLw.md#t-01-02-58) [○] **Candace Owens**: ["Jeremy Boreing repeatedly threatened that The Daily Wire would bankrupt me if I ..."](/statements/statement-41320863a4cd.md)
-  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </div>
 </details>
@@ -3325,7 +3325,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:02:52](/episodes/ep-xjzb_t5Tk9o.md#t-00-02-28) [○] **Candace Owens**: ["The Daily Wire refused to host Bassem Youssef because he had hurt Ben Shapiro's ..."](/statements/statement-07991641f9f1.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Bassem Youssef](/entities/person-bassem-youssef.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Bassem Youssef](/entities/person-bassem-youssef.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
 
 </div>
 <div class="filter-item">
@@ -3343,7 +3343,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:10:07](/episodes/ep-xjzb_t5Tk9o.md#t-00-10-07) [○] **Candace Owens**: ["The Daily Wire sued Candace Owens for letting USS Liberty survivor Phil Tourney ..."](/statements/statement-2bff31e56fad.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Phil Tourney](/entities/person-phil-tourney.md), [USS Liberty](/entities/vehicle-uss-liberty.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Phil Tourney](/entities/person-phil-tourney.md), [USS Liberty](/entities/vehicle-uss-liberty.md)
 
 </div>
 <div class="filter-item">
@@ -3409,7 +3409,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [01:06:21](/episodes/ep-xjzb_t5Tk9o.md#t-01-06-12) [○] **Candace Owens**: ["The media company where Candace Owens worked used her to appear committed to fre..."](/statements/statement-2a737a7f8122.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Israel](/entities/gpe-israel.md), [Candace Owens](/entities/person-candace-owens.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Israel](/entities/gpe-israel.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
 <div class="filter-item">
@@ -3439,7 +3439,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [01:23:49](/episodes/ep-xjzb_t5Tk9o.md#t-01-23-21) [◐] **Bassem Youssef**: ["The New York Times published a completely fabricated rape story whose named Isra..."](/statements/statement-9d5a06e8c485.md)
-  - About: [The New York Times](/entities/org-new-york-times.md), [Israel](/entities/gpe-israel.md)
+  - About: [The New York Times](/entities/org-the-new-york-times.md), [Israel](/entities/gpe-israel.md)
 
 </div>
 <div class="filter-item">
@@ -3682,19 +3682,19 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:37:48](/episodes/ep-QRS_hR7NXaQ.md#t-00-37-23) [○] **Candace Owens**: ["Candace Owens suspects Daily Wire producers write questions Ben Shapiro wants as..."](/statements/statement-55512d36c4be.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
 <div class="filter-item">
 
 - [00:41:24](/episodes/ep-QRS_hR7NXaQ.md#t-00-41-24) [○] **Candace Owens**: ["At the Daily Wire, Alyssa Cordova kept a file of Candace Owens show clips that w..."](/statements/statement-73aa9a3c1cfa.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Alyssa Cordova](/entities/person-alyssa-cordova.md), [Candace Owens](/entities/person-candace-owens.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Alyssa Cordova](/entities/person-alyssa-cordova.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
 <div class="filter-item">
 
 - [00:41:57](/episodes/ep-QRS_hR7NXaQ.md#t-00-41-24) [○] **Candace Owens**: ["The Daily Wire pays people to circulate clips that call Candace Owens an idiot o..."](/statements/statement-ecae9e46acd2.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Antisemitism](/entities/concept-antisemitism.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Antisemitism](/entities/concept-antisemitism.md)
 
 </div>
 <div class="filter-item">
@@ -4065,13 +4065,13 @@ _2476 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:43:20](/episodes/ep-1hcjQGgvxUY.md#t-00-43-07) [○] **Jared Moskowitz**: ["Kash Patel testified that the FBI had no criminal evidence Epstein trafficked gi..."](/statements/statement-3d79e5904e4e.md)
+- [00:43:20](/episodes/ep-1hcjQGgvxUY.md#t-00-43-07) [◐] **Jared Moskowitz**: ["Kash Patel testified that the FBI had no criminal evidence Epstein trafficked gi..."](/statements/statement-3d79e5904e4e.md)
   - About: [Kash Patel](/entities/person-kash-patel.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
 
 </div>
 <div class="filter-item">
 
-- [00:44:00](/episodes/ep-1hcjQGgvxUY.md#t-00-43-52) [○] **Jared Moskowitz**: ["Jared Moskowitz says Kash Patel's under-oath claim that Donald Trump's name appe..."](/statements/statement-960b5ebf630c.md)
+- [00:44:00](/episodes/ep-1hcjQGgvxUY.md#t-00-43-52) [✓] **Jared Moskowitz**: ["Jared Moskowitz says Kash Patel's under-oath claim that Donald Trump's name appe..."](/statements/statement-960b5ebf630c.md)
   - About: [Kash Patel](/entities/person-kash-patel.md), [Donald J. Trump](/entities/person-donald-trump.md), [Epstein Files](/entities/work-epstein-files.md)
 
 </div>
@@ -4089,10 +4089,451 @@ _2476 statements extracted from podcast episodes._
 </div>
 </details>
 
+<details>
+<summary>Coming soon... (1)</summary>
+
+<div class="filter-item">
+
+- [00:01:02](/episodes/ep-LKR94FQ5p3o.md#t-00-01-02) [?] **Anonymous Source #3 (Ep LKR94FQ5p3o)**: ["Zionists, the Prime Minister of Israel (Benjamin Netanyahu), all lied through th..."](/statements/statement-366f47c962a4.md)
+  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (6)</summary>
+
+<div class="filter-item">
+
+- [00:00:00](/episodes/ep-ZAsV0fHGBiM.md#t-00-00-00) [◐] **Candace Owens**: ["Erika Kirk, despite having no professional qualifications, was placed at the top..."](/statements/statement-e96658700847.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:38](/episodes/ep-ZAsV0fHGBiM.md#t-00-13-33) [○] **Candace Owens**: ["The Manson murders and the events of the 1960s were the U.S. government and CIA ..."](/statements/statement-58c0cd378779.md)
+  - About: [Charles Manson](/entities/person-charles-manson.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [John F. Kennedy](/entities/person-john-f-kennedy.md)
+
+</div>
+<div class="filter-item">
+
+- [00:14:20](/episodes/ep-ZAsV0fHGBiM.md#t-00-14-13) [✗] **Candace Owens**: ["If you think that MKUltra ever stopped, I hope that the Epstein files and the st..."](/statements/statement-2f046a337a54.md)
+  - About: [MKUltra](/entities/concept-mkultra.md), [Epstein Files](/entities/work-epstein-files.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+
+</div>
+<div class="filter-item">
+
+- [00:15:13](/episodes/ep-ZAsV0fHGBiM.md#t-00-14-59) [○] **Candace Owens**: ["Erika Kirk lies, but Candace Owens is unsure whether Kirk is aware that she is l..."](/statements/statement-628892265732.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:26:33](/episodes/ep-ZAsV0fHGBiM.md#t-00-25-57) [○] **Candace Owens**: ["The handwritten changes to the Frantzve divorce records may have been made after..."](/statements/statement-445676ccf18e.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:02](/episodes/ep-ZAsV0fHGBiM.md#t-00-31-35) [○] **Candace Owens**: ["Lori Frantzve's family has a history of breaking the law and committing fraud."](/statements/statement-79d2a319b9ad.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Loretta Abbas](/entities/person-loretta-abbas.md), [Mason Abbas](/entities/person-mason-abbas.md)
+
+</div>
+</details>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (9)</summary>
+
+<div class="filter-item">
+
+- [00:30:12](/episodes/ep-nPhCKwJ6ye8.md#t-00-30-12) [○] **Charlie Kirk**: ["Charlie Kirk said he was somewhat worried that the left was trying to kill him."](/statements/statement-407f287ebc38.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [01:58:14](/episodes/ep-nPhCKwJ6ye8.md#t-01-58-01) [○] **Candace Owens**: ["Candace Owens believes Tyler Robinson was involved somehow but considers Lance T..."](/statements/statement-2683c02b1ee5.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [02:33:22](/episodes/ep-nPhCKwJ6ye8.md#t-02-33-18) [○] **Anonymous Source #1 (Ep nPhCKwJ6ye8)**: ["French Foreign Legion personnel were on the ground during Charlie Kirk's assassi..."](/statements/statement-0ccadf24fcfc.md)
+  - About: [French Foreign Legion](/entities/org-french-foreign-legion.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [France](/entities/gpe-france.md)
+
+</div>
+<div class="filter-item">
+
+- [02:38:23](/episodes/ep-nPhCKwJ6ye8.md#t-02-38-11) [○] **Anonymous Source #3 (Ep nPhCKwJ6ye8)**: ["United States Marshals Service sources said marshals were sent on a wild goose c..."](/statements/statement-51c476305dbc.md)
+  - About: [United States Marshals Service](/entities/org-united-states-marshals-service.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [02:47:57](/episodes/ep-nPhCKwJ6ye8.md#t-02-47-57) [○] **Candace Owens**: ["Candace Owens believes Erika Kirk was complicit in trying to convince the public..."](/statements/statement-8f4c7fed2ec6.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [02:55:09](/episodes/ep-nPhCKwJ6ye8.md#t-02-55-09) [○] **Candace Owens**: ["Candace Owens believes Turning Point USA was using Andrew Wilson as its proxy in..."](/statements/statement-8baab8e2c54c.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Andrew Wilson](/entities/person-andrew-wilson.md)
+
+</div>
+<div class="filter-item">
+
+- [03:09:26](/episodes/ep-nPhCKwJ6ye8.md#t-03-09-00) [✓] **Rob O'Neill**: ["Rob O'Neill said people at the scene seemed more concerned with removing camera ..."](/statements/statement-59ffbe2ba8c0.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [03:44:08](/episodes/ep-nPhCKwJ6ye8.md#t-03-43-56) [✓] **Candace Owens**: ["Candace Owens believes it is plausible that the screwdriver found on the roof wa..."](/statements/statement-58a5ee7b6ddc.md)
+  - About: [Chris Bagley](/entities/person-chris-bagley.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [04:01:26](/episodes/ep-nPhCKwJ6ye8.md#t-04-01-26) [✓] **Candace Owens**: ["Candace Owens still believes there is more evidence that multiple people were in..."](/statements/statement-4735330c37c9.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
+
+</div>
+</details>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (25)</summary>
+
+<div class="filter-item">
+
+- [00:02:06](/episodes/ep-1IY2oD-_xVA.md#t-00-01-48) [○] **Candace Owens**: ["Elites practice occult sex magic"](/statements/statement-750d51d49992.md)
+  - About: [Satanism](/entities/concept-satanism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:48](/episodes/ep-1IY2oD-_xVA.md#t-00-05-48) [✗] **Candace Owens**: ["Operation Paperclip was about rescuing wealthy occult figures such as Sigmund Fr..."](/statements/statement-cf5c264208cc.md)
+  - About: [Operation Paperclip](/entities/concept-operation-paperclip.md), [Sigmund Freud](/entities/person-sigmund-freud.md)
+
+</div>
+<div class="filter-item">
+
+- [00:07:13](/episodes/ep-1IY2oD-_xVA.md#t-00-07-13) [○] **Candace Owens**: ["Bill Gates went from computers to pharmaceuticals to poisoning African children"](/statements/statement-b420a3fb7d1c.md)
+  - About: [Bill Gates](/entities/person-bill-gates.md)
+
+</div>
+<div class="filter-item">
+
+- [00:07:48](/episodes/ep-1IY2oD-_xVA.md#t-00-07-13) [○] **Candace Owens**: ["People who build something valuable must yield control to elites or wind up dead"](/statements/statement-77b15efbefdc.md)
+
+</div>
+<div class="filter-item">
+
+- [00:07:56](/episodes/ep-1IY2oD-_xVA.md#t-00-07-56) [○] **Candace Owens**: ["The military is responsible for keeping particular families in power"](/statements/statement-49ff875572e2.md)
+
+</div>
+<div class="filter-item">
+
+- [00:08:39](/episodes/ep-1IY2oD-_xVA.md#t-00-08-39) [✓] **Candace Owens**: ["Candace Owens believes the military deliberately made the public watch Charlie K..."](/statements/statement-b6fbde5d0b41.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:08:51](/episodes/ep-1IY2oD-_xVA.md#t-00-08-39) [○] **Candace Owens**: ["The purpose of publicly showing Charlie Kirk’s killing was to harness viewers’ e..."](/statements/statement-5b49473c35d5.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:24](/episodes/ep-1IY2oD-_xVA.md#t-00-09-56) [◐] **Candace Owens**: ["Good Samaritan Hospital was gifted by the Marine Corps after the Corps was caugh..."](/statements/statement-043fc53d3da7.md)
+  - About: [Good Samaritan Hospital (Cincinnati)](/entities/org-good-samaritan-hospital-cincinnati.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:48](/episodes/ep-1IY2oD-_xVA.md#t-00-17-39) [◐] **Candace Owens**: ["Quaker Oats conducted experiments in which unsuspecting boys were fed radioactiv..."](/statements/statement-1e590e6e275e.md)
+  - About: [The Quaker Oats Company](/entities/org-quaker-oats-company.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:04](/episodes/ep-1IY2oD-_xVA.md#t-00-17-39) [✓] **Candace Owens**: ["The United States Atomic Energy Commission partnered with Quaker Oats to experim..."](/statements/statement-caea2cbb3dda.md)
+  - About: [United States Atomic Energy Commission](/entities/org-united-states-atomic-energy-commission.md), [The Quaker Oats Company](/entities/org-quaker-oats-company.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:09](/episodes/ep-1IY2oD-_xVA.md#t-00-22-41) [○] **Candace Owens**: ["Jerri Frantzve was a fraud"](/statements/statement-3136e3b2b8ca.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:48](/episodes/ep-1IY2oD-_xVA.md#t-00-23-18) [◐] **Candace Owens**: ["A Radford University report coauthored by Jerri Frantzve included her mother Mar..."](/statements/statement-e44f10d0cdb7.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Marjorie C. Ferrin Weiland](/entities/person-marjorie-ferrin-weiland.md), [Radford University](/entities/org-radford-university.md)
+
+</div>
+<div class="filter-item">
+
+- [00:34:50](/episodes/ep-1IY2oD-_xVA.md#t-00-34-50) [✓] **Candace Owens**: ["Tesseract faced accusations of financial impropriety and of using invalid method..."](/statements/statement-577898cc50b8.md)
+  - About: [Tesseract School](/entities/org-tesseract-school.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:32](/episodes/ep-1IY2oD-_xVA.md#t-00-35-32) [○] **Anonymous Source #3 (Ep 1IY2oD-_xVA)**: ["An adult former Tesseract student maintained that specific people at the top of ..."](/statements/statement-e43c6e4a00b6.md)
+  - About: [Tesseract School](/entities/org-tesseract-school.md)
+
+</div>
+<div class="filter-item">
+
+- [00:37:09](/episodes/ep-1IY2oD-_xVA.md#t-00-37-09) [✓] **Anonymous Source #2 (Ep 1IY2oD-_xVA)**: ["John Money publicly claimed his gender experiment succeeded, but the participant..."](/statements/statement-b0057eda388f.md)
+  - About: [John Money](/entities/person-john-money.md), [David Peter Reimer](/entities/person-david-peter-reimer.md)
+
+</div>
+<div class="filter-item">
+
+- [00:38:49](/episodes/ep-1IY2oD-_xVA.md#t-00-38-49) [○] **Anonymous Source #7 (Ep 1IY2oD-_xVA)**: ["A beauty-pageant source warned that Erika Kirk would do anything to reach the to..."](/statements/statement-a765d5a858ad.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:39:42](/episodes/ep-1IY2oD-_xVA.md#t-00-39-15) [○] **Candace Owens**: ["Erika Kirk’s claim that she grew up with a single mother is not true"](/statements/statement-d0aeb3694c6a.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:19](/episodes/ep-1IY2oD-_xVA.md#t-00-45-19) [○] **Anonymous Source #4 (Ep 1IY2oD-_xVA)**: ["Money was missing from Turning Point USA"](/statements/statement-1e47dfe87b37.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:48](/episodes/ep-1IY2oD-_xVA.md#t-00-45-19) [○] **Candace Owens**: ["Millions of dollars were missing from Turning Point USA"](/statements/statement-dbee6673ed56.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:57](/episodes/ep-1IY2oD-_xVA.md#t-00-45-57) [◐] **Anonymous Source #4 (Ep 1IY2oD-_xVA)**: ["The missing money was specifically from Turning Point Action, which Tyler Bowyer..."](/statements/statement-fc9de08969ab.md)
+  - About: [Turning Point Action](/entities/org-turning-point-action.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+</div>
+<div class="filter-item">
+
+- [00:49:25](/episodes/ep-1IY2oD-_xVA.md#t-00-49-25) [◐] **Candace Owens**: ["Erika Kirk’s account that pageants were not an early part of her life was untrue..."](/statements/statement-d812801974b2.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Miss Arizona USA](/entities/org-miss-arizona-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:49:32](/episodes/ep-1IY2oD-_xVA.md#t-00-49-25) [○] **Candace Owens**: ["Lori Frantzve pushed Erika Kirk into pageants"](/statements/statement-62afc94fd4e0.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Erika Kirk](/entities/person-erika-kirk.md), [Miss Arizona USA](/entities/org-miss-arizona-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [01:00:35](/episodes/ep-1IY2oD-_xVA.md#t-01-00-27) [○] **Anonymous Source #5 (Ep 1IY2oD-_xVA)**: ["Turning Point USA employees said the organization had been behind attacks agains..."](/statements/statement-914fe79cbf9d.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [01:00:47](/episodes/ep-1IY2oD-_xVA.md#t-01-00-27) [○] **Candace Owens**: ["Turning Point USA was behind an early public-relations campaign to dismiss Canda..."](/statements/statement-edbb73ed6efa.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [01:01:06](/episodes/ep-1IY2oD-_xVA.md#t-01-01-06) [○] **Candace Owens**: ["Erika Kirk originated a public-relations narrative that Charlie Kirk had a “Supe..."](/statements/statement-868f76061f17.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Superman](/entities/concept-superman.md)
+
+</div>
+</details>
+
+<details>
+<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (10)</summary>
+
+<div class="filter-item">
+
+- [00:01:03](/episodes/ep-cZxHqYsWRYg.md#t-00-00-42) [○] **Candace Owens**: ["Candace Owens said Lori Frantzve and Tyler Bowyer were in cahoots"](/statements/statement-300d4c89979b.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+</div>
+<div class="filter-item">
+
+- [00:01:09](/episodes/ep-cZxHqYsWRYg.md#t-00-00-42) [?] **Candace Owens**: ["Candace Owens alleged that Tyler Bowyer was taking Turning Point into the real-e..."](/statements/statement-931cca63b837.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:48](/episodes/ep-cZxHqYsWRYg.md#t-00-17-48) [○] **Candace Owens**: ["Candace Owens accused fraud of repeatedly surrounding Lori Frantzve through her ..."](/statements/statement-67d7df5261ea.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md)
+
+</div>
+<div class="filter-item">
+
+- [00:21:56](/episodes/ep-cZxHqYsWRYg.md#t-00-21-44) [◐] **Candace Owens**: ["Tyler Bowyer received a federal pardon for conduct involving alleged election su..."](/statements/statement-f29baa6b0441.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+</div>
+<div class="filter-item">
+
+- [00:38:57](/episodes/ep-cZxHqYsWRYg.md#t-00-38-57) [◐] **Candace Owens**: ["Regis University records show Erika Kirk playing basketball only in the 2007-200..."](/statements/statement-5c9f6a1a5171.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Regis University](/entities/org-regis-university.md), [Notre Dame Preparatory High School](/entities/org-notre-dame-preparatory-high-school.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:25](/episodes/ep-cZxHqYsWRYg.md#t-00-45-00) [✓] **Anonymous Source #2 (Ep cZxHqYsWRYg)**: ["Ashley relayed an unverified word-on-the-street allegation that Terry and Judith..."](/statements/statement-600a633777a4.md)
+  - About: [Terry Crist](/entities/person-terry-crist.md), [Judith Crist](/entities/person-judith-crist.md), [City of Grace Church](/entities/org-city-of-grace-church.md)
+
+</div>
+<div class="filter-item">
+
+- [00:50:50](/episodes/ep-cZxHqYsWRYg.md#t-00-50-19) [?] **Candace Owens**: ["Candace Owens accused speakers at Charlie Kirk's memorial of not writing their o..."](/statements/statement-ea86dab5b203.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:51:29](/episodes/ep-cZxHqYsWRYg.md#t-00-51-00) [◐] **Candace Owens**: ["Why did Erika Kirk have a sufficiently clear mind to call a board vote making he..."](/statements/statement-17a9b50ce31a.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:57:41](/episodes/ep-cZxHqYsWRYg.md#t-00-57-02) [○] **Candace Owens**: ["Candace Owens said reports that Lori Frantzve tells Erika Kirk what to say and w..."](/statements/statement-f50fcfbd5748.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:58:13](/episodes/ep-cZxHqYsWRYg.md#t-00-57-41) [◐] **Candace Owens**: ["Candace Owens accused Erika Kirk of lying about not dating in New York, saying s..."](/statements/statement-8f23a4761c50.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [New York City](/entities/gpe-new-york-city.md)
+
+</div>
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (9)</summary>
+
+<div class="filter-item">
+
+- [00:01:03](/episodes/ep-jTj9Ip46r4w.md#t-00-00-38) [✓] **Candace Owens**: ["It is Candace Owens's personal belief that they colluded to have Charlie Kirk re..."](/statements/statement-f52c4565bac5.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [White House](/entities/org-white-house.md)
+
+</div>
+<div class="filter-item">
+
+- [00:01:21](/episodes/ep-jTj9Ip46r4w.md#t-00-01-21) [✓] **Candace Owens**: ["Candace Owens believes, based on evidence, that Charlie Kirk's murder was likely..."](/statements/statement-7812137609ed.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:53](/episodes/ep-jTj9Ip46r4w.md#t-00-11-41) [○] **Candace Owens**: ["Lori Frantzve has many companies that repeatedly fail to file on time and have t..."](/statements/statement-cdbb58a8098c.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:05](/episodes/ep-jTj9Ip46r4w.md#t-00-13-05) [◐] **Candace Owens**: ["Bill Erpenbeck served more than two decades in prison for financial fraud, tried..."](/statements/statement-a88395f37266.md)
+  - About: [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:21](/episodes/ep-jTj9Ip46r4w.md#t-00-13-05) [◐] **Candace Owens**: ["William 'Tony' Erpenbeck tried to arrange the kidnapping and murder of children ..."](/statements/statement-aa2c7efb9870.md)
+  - About: [Anthony Erpenbeck Sr.](/entities/person-anthony-erpenbeck-sr.md)
+
+</div>
+<div class="filter-item">
+
+- [00:21:34](/episodes/ep-jTj9Ip46r4w.md#t-00-21-34) [○] **Elizabeth Lane**: ["Elizabeth Lane argued in her investigative thesis that Erika Kirk might be a psy..."](/statements/statement-80348a14cd7c.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:40:33](/episodes/ep-jTj9Ip46r4w.md#t-00-40-33) [○] **Candace Owens**: ["If Lombardo and Lombardi are interchangeable, Lori Frantzve may have ties to the..."](/statements/statement-da66ecbaf434.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:54:15](/episodes/ep-jTj9Ip46r4w.md#t-00-54-15) [○] **Candace Owens**: ["Erika Kirk has directed Turning Point USA's public-relations messaging from the ..."](/statements/statement-dbcc488709c5.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+</div>
+<div class="filter-item">
+
+- [00:58:02](/episodes/ep-jTj9Ip46r4w.md#t-00-57-28) [○] **Candace Owens**: ["Erika Kirk's conduct registers to Candace Owens as that of a pathological liar."](/statements/statement-25420457f4a6.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (8)</summary>
+
+<div class="filter-item">
+
+- [00:03:55](/episodes/ep-2tFYJf1klgY.md#t-00-03-23) [○] **Candace Owens**: ["I don't think Jerri Frantzve, who is a verifiable fraud, was in Eastern Europe r..."](/statements/statement-89290ab57780.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Eastern Europe](/entities/gpe-eastern-europe.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:28](/episodes/ep-2tFYJf1klgY.md#t-00-11-13) [◐] **Candace Owens**: ["Tesseract School went bankrupt in 2000 and millions were apparently missing."](/statements/statement-605c0d469599.md)
+  - About: [Tesseract School](/entities/org-tesseract-school.md)
+
+</div>
+<div class="filter-item">
+
+- [00:28:37](/episodes/ep-2tFYJf1klgY.md#t-00-28-30) [◐] **Candace Owens**: ["Colonel Otto Buescher was accused of running a brothel and human-trafficking rin..."](/statements/statement-94139db35c98.md)
+  - About: [Otto Busher III](/entities/person-otto-busher-iii.md)
+
+</div>
+<div class="filter-item">
+
+- [00:30:43](/episodes/ep-2tFYJf1klgY.md#t-00-30-43) [○] **Candace Owens**: ["Tyler Bowyer is a sexual deviant."](/statements/statement-62ae60889131.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:36](/episodes/ep-2tFYJf1klgY.md#t-00-35-26) [○] **Candace Owens**: ["I think Erika Kirk, the Frantzves, and Tyler Bowyer may have known one another s..."](/statements/statement-4e6bbf5f346f.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+</div>
+<div class="filter-item">
+
+- [00:43:35](/episodes/ep-2tFYJf1klgY.md#t-00-43-25) [✓] **Blake Neff**: ["Blake Neff said Candace Owens's prior episode contained a blatant untruth about ..."](/statements/statement-1c454043fe46.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:56:00](/episodes/ep-2tFYJf1klgY.md#t-00-56-00) [○] **Candace Owens**: ["Nothing said by the current leaders of Turning Point USA, including Erika Kirk, ..."](/statements/statement-65d03811da02.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:56:12](/episodes/ep-2tFYJf1klgY.md#t-00-56-00) [○] **Candace Owens**: ["Erika Kirk is keeping people around her whom Candace Owens knows are corrupt, li..."](/statements/statement-e199921d78f9.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+</details>
+
 </details>
 
 <details open>
-<summary><strong class="section-title">Factual Claims (1461)</strong></summary>
+<summary><strong class="section-title">Factual Claims (1623)</strong></summary>
 
 <details>
 <summary>To My Friend, Charlie Kirk. (10)</summary>
@@ -10091,7 +10532,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:00:30](/episodes/ep-OEAHy3SsIiI.md#t-00-00-00) [✓] **Candace Owens**: ["The Daily Wire seemingly reactivated Candace Owens's old social-media accounts a..."](/statements/statement-5e8c87aa2eec.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
 <div class="filter-item">
@@ -10383,7 +10824,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:06:43](/episodes/ep-zSKrxIUMNqw.md#t-00-06-11) [○] **Maggie Wegner**: ["A Daily Wire producer contacted Maggie Wegner about auditioning for a solo show ..."](/statements/statement-2343c09ee5ca.md)
-  - About: [Maggie Wegner](/entities/person-maggie-wegner.md), [Anonymous Source #2 (Ep zSKrxIUMNqw)](/entities/anon-src-zSKrxIUMNqw-002.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - About: [Maggie Wegner](/entities/person-maggie-wegner.md), [Anonymous Source #2 (Ep zSKrxIUMNqw)](/entities/anon-src-zSKrxIUMNqw-002.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </div>
 <div class="filter-item">
@@ -10401,13 +10842,13 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:08:26](/episodes/ep-zSKrxIUMNqw.md#t-00-08-12) [○] **Maggie Wegner**: ["Maggie Wegner declined to submit the audition because it felt untrue and like hi..."](/statements/statement-c4a08b48a105.md)
-  - About: [Maggie Wegner](/entities/person-maggie-wegner.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - About: [Maggie Wegner](/entities/person-maggie-wegner.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </div>
 <div class="filter-item">
 
 - [00:12:24](/episodes/ep-zSKrxIUMNqw.md#t-00-11-46) [○] **Candace Owens**: ["Maggie Wegner did not receive the Daily Wire role after declining to make the au..."](/statements/statement-564a2d8e110c.md)
-  - About: [Maggie Wegner](/entities/person-maggie-wegner.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - About: [Maggie Wegner](/entities/person-maggie-wegner.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </div>
 <div class="filter-item">
@@ -10473,7 +10914,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:27:30](/episodes/ep-zSKrxIUMNqw.md#t-00-26-53) [◐] **Candace Owens**: ["The Daily Wire was being built quietly by the end of 2015 but lacked the support..."](/statements/statement-bf654a3ba7de.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Breitbart News](/entities/org-breitbart-news.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Breitbart News](/entities/org-breitbart-news.md)
 
 </div>
 <div class="filter-item">
@@ -10694,7 +11135,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:52:18](/episodes/ep-wcD2khO3rOA.md#t-00-51-36) [✓] **The Washington Post**: ["In 1997, Moon-affiliated organizations controlled more than $300 million in Wash..."](/statements/statement-44e4197a4f21.md)
-  - About: [Sun Myung Moon](/entities/person-sun-myung-moon.md), [Unification Church](/entities/org-unification-church.md), [Washington, D.C.](/entities/gpe-washington-dc.md)
+  - About: [Sun Myung Moon](/entities/person-sun-myung-moon.md), [Unification Church](/entities/org-unification-church.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
 </div>
 <div class="filter-item">
@@ -11109,7 +11550,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:05:35](/episodes/ep-X92MllIHDzw.md#t-00-05-32) [◐] **Candace Owens**: ["Don Frye trained in judo at Fort Huachuca after graduating from high school in S..."](/statements/statement-b2356e346ac8.md)
-  - About: [Don Frye](/entities/person-don-frye.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Sierra Vista](/entities/gpe-sierra-vista-arizona.md)
+  - About: [Don Frye](/entities/person-don-frye.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Sierra Vista](/entities/gpe-sierra-vista.md)
 
 </div>
 <div class="filter-item">
@@ -11300,7 +11741,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:27:51](/episodes/ep-2T39-oADLj0.md#t-00-27-50) [◐] **Candace Owens**: ["The Daily Wire fired Candace Owens in March 2024 without advance warning."](/statements/statement-27686b3d8a63.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
 <div class="filter-item">
@@ -11318,7 +11759,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:49:22](/episodes/ep-2T39-oADLj0.md#t-00-49-21) [○] **Candace Owens**: ["Candace Owens began working on a Harvey Weinstein documentary while at The Daily..."](/statements/statement-0c30f70d631d.md)
-  - About: [Harvey Weinstein](/entities/person-harvey-weinstein.md), [The Daily Wire](/entities/org-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
+  - About: [Harvey Weinstein](/entities/person-harvey-weinstein.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
 <div class="filter-item">
@@ -11407,7 +11848,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:25:20](/episodes/ep-NIEbqsLAK8g.md#t-00-25-07) [○] **Gary Melton**: ["UVU law enforcement required Gary Melton's team to ground its drone, after which..."](/statements/statement-b2e19b557fe5.md)
-  - About: [Gary Melton](/entities/person-gary-melton.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Federal Aviation Administration](/entities/org-federal-aviation-administration.md)
+  - About: [Gary Melton](/entities/person-gary-melton.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Federal Aviation Administration](/entities/org-faa.md)
 
 </div>
 <div class="filter-item">
@@ -11787,7 +12228,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:06:18](/episodes/ep-A39g5oqB_eM.md#t-00-05-46) [✓] **Candace Owens**: ["Erika Kirk gave an in-person interview with The New York Times at her and Charli..."](/statements/statement-b7d0dbdedd99.md)
-  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [The New York Times](/entities/org-new-york-times.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [The New York Times](/entities/org-the-new-york-times.md)
 
 </div>
 <div class="filter-item">
@@ -12008,13 +12449,13 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:55:57](/episodes/ep-QdM9jLwjwLw.md#t-00-55-17) [○] **Candace Owens**: ["Jeremy Boreing admitted to me that he had a mental breakdown in Hungary and did ..."](/statements/statement-db0eae515314.md)
-  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Hungary](/entities/gpe-hungary.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Hungary](/entities/gpe-hungary.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </div>
 <div class="filter-item">
 
 - [01:08:14](/episodes/ep-QdM9jLwjwLw.md#t-01-08-08) [○] **Candace Owens**: ["The Daily Wire denied my request to host Bassem Youssef while I worked there."](/statements/statement-97b38798c1ab.md)
-  - About: [Bassem Youssef](/entities/person-bassem-youssef.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - About: [Bassem Youssef](/entities/person-bassem-youssef.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </div>
 </details>
@@ -13041,13 +13482,13 @@ _2476 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:02:38](/episodes/ep-1hcjQGgvxUY.md#t-00-02-36) [○] **Anonymous Source #1 (Ep 1hcjQGgvxUY)**: ["In 2013, Erika Kirk was 25, was dating Josh Harrellson, and moved to Michigan to..."](/statements/statement-2be9ff2592e5.md)
+- [00:02:38](/episodes/ep-1hcjQGgvxUY.md#t-00-02-36) [◐] **Anonymous Source #1 (Ep 1hcjQGgvxUY)**: ["In 2013, Erika Kirk was 25, was dating Josh Harrellson, and moved to Michigan to..."](/statements/statement-2be9ff2592e5.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Josh Harrellson](/entities/person-josh-harrellson.md), [Michigan](/entities/gpe-michigan.md)
 
 </div>
 <div class="filter-item">
 
-- [00:02:48](/episodes/ep-1hcjQGgvxUY.md#t-00-02-36) [○] **Anonymous Source #1 (Ep 1hcjQGgvxUY)**: ["On September 15, 2013, Josh Harrellson and Erika Kirk met 15-year-old Jillian Fa..."](/statements/statement-b8d25b60927f.md)
+- [00:02:48](/episodes/ep-1hcjQGgvxUY.md#t-00-02-36) [◐] **Anonymous Source #1 (Ep 1hcjQGgvxUY)**: ["On September 15, 2013, Josh Harrellson and Erika Kirk met 15-year-old Jillian Fa..."](/statements/statement-b8d25b60927f.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Josh Harrellson](/entities/person-josh-harrellson.md), [Jillian Falcon](/entities/person-jillian-falcon.md)
 
 </div>
@@ -13077,7 +13518,7 @@ _2476 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:18:13](/episodes/ep-1hcjQGgvxUY.md#t-00-18-13) [○] **Candace Owens**: ["Turning Point USA headquarters is almost directly across the street from Arizona..."](/statements/statement-222bc2b6d8aa.md)
+- [00:18:13](/episodes/ep-1hcjQGgvxUY.md#t-00-18-13) [◐] **Candace Owens**: ["Turning Point USA headquarters is almost directly across the street from Arizona..."](/statements/statement-222bc2b6d8aa.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Arizona Mills](/entities/org-arizona-mills.md)
 
 </div>
@@ -13089,13 +13530,13 @@ _2476 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:20:03](/episodes/ep-1hcjQGgvxUY.md#t-00-19-36) [○] **Candace Owens**: ["Stacey Sheridan's résumé says she worked in Kenneth Starr's Pepperdine Universit..."](/statements/statement-768813e26649.md)
+- [00:20:03](/episodes/ep-1hcjQGgvxUY.md#t-00-19-36) [✓] **Candace Owens**: ["Stacey Sheridan's résumé says she worked in Kenneth Starr's Pepperdine Universit..."](/statements/statement-768813e26649.md)
   - About: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Kenneth Starr](/entities/person-kenneth-starr.md), [Pepperdine University](/entities/org-pepperdine-university.md)
 
 </div>
 <div class="filter-item">
 
-- [00:20:25](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09) [○] **Candace Owens**: ["Stacey Sheridan is not Erika Kirk's biological mother; Lori Frantzve is."](/statements/statement-8d0169d15c59.md)
+- [00:20:25](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09) [✓] **Candace Owens**: ["Stacey Sheridan is not Erika Kirk's biological mother; Lori Frantzve is."](/statements/statement-8d0169d15c59.md)
   - About: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </div>
@@ -13113,7 +13554,7 @@ _2476 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:22:32](/episodes/ep-1hcjQGgvxUY.md#t-00-22-02) [○] **Candace Owens**: ["On the day Charlie Kirk was assassinated, Erika Kirk tweeted at 9:45 a.m. Arizon..."](/statements/statement-32a5c5f80f7b.md)
+- [00:22:32](/episodes/ep-1hcjQGgvxUY.md#t-00-22-02) [✓] **Candace Owens**: ["On the day Charlie Kirk was assassinated, Erika Kirk tweeted at 9:45 a.m. Arizon..."](/statements/statement-32a5c5f80f7b.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Twitter](/entities/org-twitter.md)
 
 </div>
@@ -13125,7 +13566,7 @@ _2476 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:34:09](/episodes/ep-1hcjQGgvxUY.md#t-00-34-01) [○] **Turning Point USA**: ["Erika Kirk moved the wedding photograph to a lower studio shelf when her daughte..."](/statements/statement-cc46782599d2.md)
+- [00:34:09](/episodes/ep-1hcjQGgvxUY.md#t-00-34-01) [✓] **Turning Point USA**: ["Erika Kirk moved the wedding photograph to a lower studio shelf when her daughte..."](/statements/statement-cc46782599d2.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
@@ -13149,32 +13590,1039 @@ _2476 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:42:58](/episodes/ep-1hcjQGgvxUY.md#t-00-42-25) [○] **Jared Moskowitz**: ["The administration did not voluntarily release the Epstein files; Congress force..."](/statements/statement-1eb05d7db07d.md)
+- [00:42:58](/episodes/ep-1hcjQGgvxUY.md#t-00-42-25) [✓] **Jared Moskowitz**: ["The administration did not voluntarily release the Epstein files; Congress force..."](/statements/statement-1eb05d7db07d.md)
   - About: [White House](/entities/org-white-house.md), [United States Congress](/entities/org-united-states-congress.md), [Epstein Files](/entities/work-epstein-files.md)
 
 </div>
 <div class="filter-item">
 
-- [00:43:43](/episodes/ep-1hcjQGgvxUY.md#t-00-43-07) [○] **Jared Moskowitz**: ["Ghislaine Maxwell says 29 Epstein associates cut secret Justice Department deals..."](/statements/statement-8bfdc85db6dc.md)
+- [00:43:43](/episodes/ep-1hcjQGgvxUY.md#t-00-43-07) [◐] **Jared Moskowitz**: ["Ghislaine Maxwell says 29 Epstein associates cut secret Justice Department deals..."](/statements/statement-8bfdc85db6dc.md)
   - About: [Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [United States Department of Justice](/entities/org-united-states-department-of-justice.md)
 
 </div>
 <div class="filter-item">
 
-- [00:44:42](/episodes/ep-1hcjQGgvxUY.md#t-00-44-37) [○] **Jared Moskowitz**: ["Howard Lutnick and his family were on Epstein Island in 2012, after Epstein plea..."](/statements/statement-f7d3e61fbb17.md)
+- [00:44:42](/episodes/ep-1hcjQGgvxUY.md#t-00-44-37) [✓] **Jared Moskowitz**: ["Howard Lutnick and his family were on Epstein Island in 2012, after Epstein plea..."](/statements/statement-f7d3e61fbb17.md)
   - About: [Howard Lutnick](/entities/person-howard-lutnick.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Little Saint James](/entities/gpe-little-saint-james.md)
 
 </div>
 <div class="filter-item">
 
-- [00:46:47](/episodes/ep-1hcjQGgvxUY.md#t-00-46-41) [○] **Pam Bondi**: ["The Trump administration released more than three million pages of documents, an..."](/statements/statement-1bed1a88852c.md)
+- [00:46:47](/episodes/ep-1hcjQGgvxUY.md#t-00-46-41) [✓] **Pam Bondi**: ["The Trump administration released more than three million pages of documents, an..."](/statements/statement-1bed1a88852c.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [White House](/entities/org-white-house.md), [Epstein Files](/entities/work-epstein-files.md)
 
 </div>
 <div class="filter-item">
 
-- [00:47:26](/episodes/ep-1hcjQGgvxUY.md#t-00-47-26) [○] **Pam Bondi**: ["The Dow is above 50,000, the S&P is near 7,000, the NASDAQ is setting records, a..."](/statements/statement-ba3e36bb7d5a.md)
+- [00:47:26](/episodes/ep-1hcjQGgvxUY.md#t-00-47-26) [◐] **Pam Bondi**: ["The Dow is above 50,000, the S&P is near 7,000, the NASDAQ is setting records, a..."](/statements/statement-ba3e36bb7d5a.md)
   - About: [Dow Jones Industrial Average](/entities/concept-dow-jones-industrial-average.md), [S&P 500](/entities/concept-sp-500.md), [Nasdaq Composite](/entities/concept-nasdaq-composite.md)
+
+</div>
+</details>
+
+<details>
+<summary>Coming soon... (4)</summary>
+
+<div class="filter-item">
+
+- [00:00:06](/episodes/ep-LKR94FQ5p3o.md#t-00-00-06) [✓] **Donald J. Trump**: ["The great and even legendary Charlie Kirk is dead."](/statements/statement-8b4427689f08.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:00:30](/episodes/ep-LKR94FQ5p3o.md#t-00-00-30) [✓] **Anonymous Source #1 (Ep LKR94FQ5p3o)**: ["Erika Kirk has been named the new CEO of Turning Point USA."](/statements/statement-916bcba24c0f.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:00:46](/episodes/ep-LKR94FQ5p3o.md#t-00-00-46) [?] **Erika Kirk**: ["We have 50,000-plus hat orders."](/statements/statement-7f561a4b45f5.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:00:49](/episodes/ep-LKR94FQ5p3o.md#t-00-00-49) [◐] **Anonymous Source #2 (Ep LKR94FQ5p3o)**: ["Nobody knows why she's out there in a glittering pantsuit in a recreated tent th..."](/statements/statement-142bb554e60f.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (28)</summary>
+
+<div class="filter-item">
+
+- [00:00:31](/episodes/ep-ZAsV0fHGBiM.md#t-00-00-00) [◐] **Candace Owens**: ["Turning Point USA does not pay tax on the quarter-billion-plus dollars it receiv..."](/statements/statement-ee0c911aae60.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Pierre Falcone](/entities/person-pierre-falcone.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:54](/episodes/ep-ZAsV0fHGBiM.md#t-00-10-44) [✓] **Elizabeth Lane**: ["Just days after Charlie Kirk's death, Erika Kirk was laying out ambitious plans ..."](/statements/statement-abcccb467cb0.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:32](/episodes/ep-ZAsV0fHGBiM.md#t-00-12-10) [✗] **Candace Owens**: ["Modern psychology was created by German mystical Jews who practiced the occult."](/statements/statement-fd613744a507.md)
+  - About: [Judaism](/entities/concept-judaism.md), [Sigmund Freud](/entities/person-sigmund-freud.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:04](/episodes/ep-ZAsV0fHGBiM.md#t-00-12-53) [◐] **Candace Owens**: ["The author of The Assault on Truth controlled the Sigmund Freud Archives and los..."](/statements/statement-4498ab606dc4.md)
+  - About: [The Assault on Truth: Freud's Suppression of the Seduction Theory](/entities/work-the-assault-on-truth.md), [Sigmund Freud](/entities/person-sigmund-freud.md)
+
+</div>
+<div class="filter-item">
+
+- [00:14:33](/episodes/ep-ZAsV0fHGBiM.md#t-00-14-13) [✗] **Candace Owens**: ["Emmanuel Macron is suing Candace Owens merely for mentioning MKUltra on Tim Dill..."](/statements/statement-55115b5eabcd.md)
+  - About: [Emmanuel Macron](/entities/person-emmanuel-macron.md), [Candace Owens](/entities/person-candace-owens.md), [MKUltra](/entities/concept-mkultra.md)
+
+</div>
+<div class="filter-item">
+
+- [00:15:50](/episodes/ep-ZAsV0fHGBiM.md#t-00-15-39) [○] **Candace Owens**: ["Candace Owens sent Erika Kirk four questions about past statements that did not ..."](/statements/statement-baf5e2632b31.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:04](/episodes/ep-ZAsV0fHGBiM.md#t-00-16-24) [✓] **People magazine**: ["People magazine reported that Lori Frantzve divorced Erika Kirk's father after E..."](/statements/statement-f275b5faafd0.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:38](/episodes/ep-ZAsV0fHGBiM.md#t-00-17-08) [◐] **Candace Owens**: ["Erika Kirk was not raised by a single mother; her father was always in her life ..."](/statements/statement-e006c73e20e7.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:20](/episodes/ep-ZAsV0fHGBiM.md#t-00-18-10) [✓] **Erika Kirk**: ["Erika Kirk's father was a stay-at-home dad for a few years when she was young."](/statements/statement-72e6a823604b.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:19:06](/episodes/ep-ZAsV0fHGBiM.md#t-00-18-53) [✗] **Candace Owens**: ["Erika Kirk was 10 years old when her parents divorced in 1998."](/statements/statement-bc98adf7a15d.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:20:05](/episodes/ep-ZAsV0fHGBiM.md#t-00-19-36) [○] **Candace Owens**: ["Larry Guinta was present in Erika Kirk's life from before her parents' divorce, ..."](/statements/statement-07770ec9732d.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Larry Guinta](/entities/person-larry-guinta.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:34:54](/episodes/ep-ZAsV0fHGBiM.md#t-00-34-24) [◐] **Candace Owens**: ["Erika Kirk's paternal grandfather Carl Kenneth Frantzve participated in horse ra..."](/statements/statement-fe48430745d2.md)
+  - About: [Carl Kenneth Frantzve](/entities/person-carl-kenneth-frantzve.md), [Erika Kirk](/entities/person-erika-kirk.md), [American Bank Note Company](/entities/org-american-bank-note-company.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:41](/episodes/ep-ZAsV0fHGBiM.md#t-00-35-09) [✓] **Candace Owens**: ["Erika Kirk is Syrian-Lebanese on her mother's side and Swedish on her father's s..."](/statements/statement-a9496dfeca5a.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Syria](/entities/gpe-syria.md), [Lebanon](/entities/gpe-lebanon.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:23](/episodes/ep-ZAsV0fHGBiM.md#t-00-35-48) [○] **Candace Owens**: ["In 2019 Erika Kirk began the process of obtaining dual citizenship because of he..."](/statements/statement-9c75bf6aef39.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Sweden](/entities/gpe-sweden.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:47](/episodes/ep-ZAsV0fHGBiM.md#t-00-36-24) [○] **Candace Owens**: ["Erika Kirk comes from a long line of Swedish Freemasons through her paternal fam..."](/statements/statement-0dce2fa9148a.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Carl Kenneth Frantzve](/entities/person-carl-kenneth-frantzve.md), [Freemasonry](/entities/concept-freemasonry.md)
+
+</div>
+<div class="filter-item">
+
+- [00:40:06](/episodes/ep-ZAsV0fHGBiM.md#t-00-39-57) [✓] **Erika Kirk**: ["Erika Kirk wrote that a woman was sitting by 'my family's dedication sign' for r..."](/statements/statement-32a6078e5629.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Zion Gate](/entities/gpe-zion-gate.md), [Jerusalem](/entities/gpe-jerusalem.md)
+
+</div>
+<div class="filter-item">
+
+- [00:40:30](/episodes/ep-ZAsV0fHGBiM.md#t-00-39-57) [○] **Candace Owens**: ["Nicole Rothstein alleged that half of the family she shared with Erika Kirk is J..."](/statements/statement-7979264d5f73.md)
+  - About: [Nicole Rothstein](/entities/person-nicole-rothstein.md), [Erika Kirk](/entities/person-erika-kirk.md), [Judaism](/entities/concept-judaism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:40:44](/episodes/ep-ZAsV0fHGBiM.md#t-00-40-41) [○] **Candace Owens**: ["Nicole Rothstein described Erika Kirk as her best friend and cousin after Charli..."](/statements/statement-85af7d8fe890.md)
+  - About: [Nicole Rothstein](/entities/person-nicole-rothstein.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:41:17](/episodes/ep-ZAsV0fHGBiM.md#t-00-40-41) [✓] **Candace Owens**: ["Under Erika Kirk's publicly stated parentage, Nicole and Allan Rothstein have no..."](/statements/statement-68670113ee8d.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Nicole Rothstein](/entities/person-nicole-rothstein.md), [Allan P. Rothstein](/entities/person-allan-p-rothstein.md)
+
+</div>
+<div class="filter-item">
+
+- [00:41:40](/episodes/ep-ZAsV0fHGBiM.md#t-00-41-26) [✓] **Candace Owens**: ["Erika Kirk referred to Allan Rothstein as her uncle in an online tribute."](/statements/statement-fd3c9814870a.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Allan P. Rothstein](/entities/person-allan-p-rothstein.md), [Nicole Rothstein](/entities/person-nicole-rothstein.md)
+
+</div>
+<div class="filter-item">
+
+- [00:43:43](/episodes/ep-ZAsV0fHGBiM.md#t-00-43-15) [✓] **Candace Owens**: ["Jack Solomon married Karla Frantzve in 2002 and financed the restoration of Zion..."](/statements/statement-11c01e36b823.md)
+  - About: [Jack David Solomon](/entities/person-jack-david-solomon.md), [Karla Marie Frantzve Solomon](/entities/person-karla-marie-frantzve-solomon.md), [Zion Gate](/entities/gpe-zion-gate.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:39](/episodes/ep-ZAsV0fHGBiM.md#t-00-44-39) [✗] **Candace Owens**: ["Jack Solomon graduated from Utah Valley University, created its Center for Jewis..."](/statements/statement-244d63ae0c3c.md)
+  - About: [Jack David Solomon](/entities/person-jack-david-solomon.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Utah Center for Jewish Studies](/entities/org-utah-center-for-jewish-studies.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:51](/episodes/ep-ZAsV0fHGBiM.md#t-00-45-19) [◐] **Candace Owens**: ["Jack Solomon and Norman Vance founded Advanced Patent Technology in 1968; it man..."](/statements/statement-2e0ea31a6b66.md)
+  - About: [Jack David Solomon](/entities/person-jack-david-solomon.md), [Norman LaVerne Vance](/entities/person-norman-laverne-vance.md), [Advanced Patent Technology, Inc.](/entities/org-advanced-patent-technology.md)
+
+</div>
+<div class="filter-item">
+
+- [00:50:08](/episodes/ep-ZAsV0fHGBiM.md#t-00-49-39) [✓] **Candace Owens**: ["Erika Kirk was living in Arizona before her parents divorced in 1998, contrary t..."](/statements/statement-284a8c2d9ea5.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Arizona](/entities/gpe-arizona.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:50:33](/episodes/ep-ZAsV0fHGBiM.md#t-00-50-23) [○] **Candace Owens**: ["Erika Kirk attended Walnut Corner Children's Center in Cincinnati in 1992 before..."](/statements/statement-b0345e34cb8d.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Walnut Corner Children's Center](/entities/org-walnut-corner-childrens-center.md), [Cincinnati, Ohio](/entities/gpe-cincinnati-ohio.md)
+
+</div>
+<div class="filter-item">
+
+- [00:51:21](/episodes/ep-ZAsV0fHGBiM.md#t-00-50-55) [◐] **Candace Owens**: ["John T. Golle incorporated Education Alternatives in Minnesota and later appeare..."](/statements/statement-ccf81f332955.md)
+  - About: [John T. Golle](/entities/person-john-t-golle.md), [Education Alternatives, Inc.](/entities/org-education-alternatives-inc.md), [Jeb Bush](/entities/person-jeb-bush.md)
+
+</div>
+<div class="filter-item">
+
+- [00:52:05](/episodes/ep-ZAsV0fHGBiM.md#t-00-51-40) [✓] **Candace Owens**: ["Tesseract Schools were named after A Wrinkle in Time."](/statements/statement-78a833c233e2.md)
+  - About: [Tesseract School](/entities/org-tesseract-school.md), [A Wrinkle in Time](/entities/work-a-wrinkle-in-time.md)
+
+</div>
+<div class="filter-item">
+
+- [00:52:31](/episodes/ep-ZAsV0fHGBiM.md#t-00-52-19) [○] **Candace Owens**: ["The Paradise Valley Tesseract School that Erika Kirk attended rented a building ..."](/statements/statement-ffaf0382129a.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tesseract School](/entities/org-tesseract-school.md), [Gan Yeladeem: The Looking Glass School](/entities/org-gan-yeladeem-the-looking-glass-school.md)
+
+</div>
+</details>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (18)</summary>
+
+<div class="filter-item">
+
+- [00:31:26](/episodes/ep-nPhCKwJ6ye8.md#t-00-30-52) [✓] **Andrew Wilson**: ["Based on the evidence available so far, Andrew Wilson believes the state is corr..."](/statements/statement-3523ec3378a3.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:41:45](/episodes/ep-nPhCKwJ6ye8.md#t-00-41-45) [✓] **Andrew Wilson**: ["Tyler Robinson's rifle was found near the crime scene."](/statements/statement-cd79a291a603.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:42:21](/episodes/ep-nPhCKwJ6ye8.md#t-00-42-21) [◐] **Andrew Wilson**: ["The ammunition in the case was a 150-grain Remington Core-Lokt soft-point round ..."](/statements/statement-bab7a17138a4.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Remington Ammunition](/entities/org-remington-ammunition.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:14](/episodes/ep-nPhCKwJ6ye8.md#t-00-44-14) [✓] **Andrew Wilson**: ["Andrew Wilson says he was never an Army sniper."](/statements/statement-3ca42fa6f73b.md)
+  - About: [Andrew Wilson](/entities/person-andrew-wilson.md), [United States Army](/entities/org-united-states-army.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:21](/episodes/ep-nPhCKwJ6ye8.md#t-00-44-16) [✓] **Andrew Wilson**: ["Andrew Wilson says he was an NRA firearms instructor for many years and taught r..."](/statements/statement-5d4f036404fb.md)
+  - About: [Andrew Wilson](/entities/person-andrew-wilson.md), [National Rifle Association](/entities/org-national-rifle-association.md)
+
+</div>
+<div class="filter-item">
+
+- [00:47:02](/episodes/ep-nPhCKwJ6ye8.md#t-00-47-02) [✓] **Andrew Wilson**: ["Tyler Robinson's DNA was on the rifle, while the available testimony did not est..."](/statements/statement-8208e54f6594.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md)
+
+</div>
+<div class="filter-item">
+
+- [00:51:24](/episodes/ep-nPhCKwJ6ye8.md#t-00-51-07) [○] **Candace Owens**: ["Candace Owens says family members told her Tyler Robinson inherited the rifle bu..."](/statements/statement-dca32711f19b.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:53:36](/episodes/ep-nPhCKwJ6ye8.md#t-00-53-31) [◐] **Candace Owens**: ["Candace Owens says the overwhelming majority of the preliminary-hearing evidence..."](/statements/statement-cfc3b8ceb673.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Utah Constitution](/entities/law-utah-constitution.md)
+
+</div>
+<div class="filter-item">
+
+- [01:10:29](/episodes/ep-nPhCKwJ6ye8.md#t-01-10-29) [✓] **Candace Owens**: ["Lance Twiggs received use immunity before his recorded testimony, according to C..."](/statements/statement-4dbfe37d9a8a.md)
+  - About: [Lance Twiggs](/entities/person-lance-twiggs.md)
+
+</div>
+<div class="filter-item">
+
+- [01:35:26](/episodes/ep-nPhCKwJ6ye8.md#t-01-35-14) [○] **Anonymous Source #2 (Ep nPhCKwJ6ye8)**: ["Federal authorities placed members of Tyler Robinson's family in a safe house, a..."](/statements/statement-dbd628f5074b.md)
+  - About: [Matt Robinson](/entities/person-matt-robinson.md), [Amber Robinson](/entities/person-amber-robinson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [01:39:29](/episodes/ep-nPhCKwJ6ye8.md#t-01-38-59) [◐] **Candace Owens**: ["Mike Mitchell had worked as an undercover police officer for more than 20 years ..."](/statements/statement-2018b40928fe.md)
+  - About: [Mike Mitchell](/entities/person-mike-mitchell.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [01:53:27](/episodes/ep-nPhCKwJ6ye8.md#t-01-53-24) [○] **Candace Owens**: ["The defense received a large volume of requested discovery shortly after the pre..."](/statements/statement-a0a8cf63a5c5.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Kathryn Nester](/entities/person-kathryn-nester.md)
+
+</div>
+<div class="filter-item">
+
+- [01:58:01](/episodes/ep-nPhCKwJ6ye8.md#t-01-58-01) [○] **Candace Owens**: ["An unnamed source told Candace Owens that Tyler Robinson did not set foot on the..."](/statements/statement-82eb250891a7.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</div>
+<div class="filter-item">
+
+- [01:59:52](/episodes/ep-nPhCKwJ6ye8.md#t-01-59-52) [◐] **Candace Owens**: ["The FBI stopped testing a backpack found along the alleged gunman's route after ..."](/statements/statement-240c0f8e341e.md)
+  - About: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [02:00:33](/episodes/ep-nPhCKwJ6ye8.md#t-02-00-33) [◐] **Candace Owens**: ["Some items Charlie Kirk was wearing were immediately returned to Erika Kirk rath..."](/statements/statement-89847e8b961f.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [02:21:45](/episodes/ep-nPhCKwJ6ye8.md#t-02-21-45) [✓] **Candace Owens**: ["Candace Owens reported the alleged French Foreign Legion threat to Tulsi Gabbard..."](/statements/statement-09827ba5d6e7.md)
+  - About: [Tulsi Gabbard](/entities/person-tulsi-gabbard.md), [Donald J. Trump](/entities/person-donald-trump.md), [French Foreign Legion](/entities/org-french-foreign-legion.md)
+
+</div>
+<div class="filter-item">
+
+- [02:53:43](/episodes/ep-nPhCKwJ6ye8.md#t-02-53-43) [✓] **Andrew Wilson**: ["Andrew Wilson says Turning Point USA invited him to provide debate training and ..."](/statements/statement-ad134c309014.md)
+  - About: [Andrew Wilson](/entities/person-andrew-wilson.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [03:41:36](/episodes/ep-nPhCKwJ6ye8.md#t-03-41-36) [✓] **Candace Owens**: ["Candace Owens says she spoke to the steakhouse owner and saw a receipt, which sh..."](/statements/statement-a19c5a074696.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+</details>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (47)</summary>
+
+<div class="filter-item">
+
+- [00:02:27](/episodes/ep-1IY2oD-_xVA.md#t-00-02-27) [◐] **Candace Owens**: ["Aleister Crowley hosted occult sex-magic parties around the world"](/statements/statement-c240735074b0.md)
+  - About: [Aleister Crowley](/entities/person-aleister-crowley.md), [Satanism](/entities/concept-satanism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:02:39](/episodes/ep-1IY2oD-_xVA.md#t-00-02-27) [◐] **Candace Owens**: ["Aleister Crowley created the religion of Thelema and attempted to summon demons ..."](/statements/statement-f65b520f6f75.md)
+  - About: [Aleister Crowley](/entities/person-aleister-crowley.md), [Thelema](/entities/concept-thelema.md), [France](/entities/gpe-france.md)
+
+</div>
+<div class="filter-item">
+
+- [00:03:25](/episodes/ep-1IY2oD-_xVA.md#t-00-03-06) [✓] **Candace Owens**: ["A 23-year-old Oxford student whom Aleister Crowley regarded as his magical heir ..."](/statements/statement-b195a17ff497.md)
+  - About: [Aleister Crowley](/entities/person-aleister-crowley.md), [Frederick Charles Loveday](/entities/person-frederick-charles-raoul-loveday.md), [University of Oxford](/entities/org-university-of-oxford.md)
+
+</div>
+<div class="filter-item">
+
+- [00:03:47](/episodes/ep-1IY2oD-_xVA.md#t-00-03-47) [○] **Anonymous Source #1 (Ep 1IY2oD-_xVA)**: ["Aleister Crowley believed he could make himself invisible and tried to bestow th..."](/statements/statement-ef749e840763.md)
+  - About: [Aleister Crowley](/entities/person-aleister-crowley.md), [Frederick Charles Loveday](/entities/person-frederick-charles-raoul-loveday.md)
+
+</div>
+<div class="filter-item">
+
+- [00:03:59](/episodes/ep-1IY2oD-_xVA.md#t-00-03-47) [○] **Anonymous Source #1 (Ep 1IY2oD-_xVA)**: ["Aleister Crowley and Raoul Loveday became seriously ill during a ceremony at Cro..."](/statements/statement-f1b02338a6e6.md)
+  - About: [Aleister Crowley](/entities/person-aleister-crowley.md), [Frederick Charles Loveday](/entities/person-frederick-charles-raoul-loveday.md), [Sicily](/entities/gpe-sicily.md)
+
+</div>
+<div class="filter-item">
+
+- [00:04:42](/episodes/ep-1IY2oD-_xVA.md#t-00-04-37) [◐] **Candace Owens**: ["Benito Mussolini expelled Aleister Crowley from Italy for being a Satanist"](/statements/statement-89dc27d032d0.md)
+  - About: [Benito Mussolini](/entities/person-benito-mussolini.md), [Aleister Crowley](/entities/person-aleister-crowley.md), [Satanism](/entities/concept-satanism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:04](/episodes/ep-1IY2oD-_xVA.md#t-00-04-37) [✗] **Candace Owens**: ["Pauline Robinson Pierce gave birth to Barbara Bush a little over eight and a hal..."](/statements/statement-9d911a6b27ba.md)
+  - About: [Pauline Robinson Pierce](/entities/person-pauline-robinson-pierce.md), [Barbara Bush](/entities/person-barbara-bush.md), [Aleister Crowley](/entities/person-aleister-crowley.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:37](/episodes/ep-1IY2oD-_xVA.md#t-00-05-15) [✓] **Candace Owens**: ["Operation Paperclip was not about rescuing brilliant Jewish scientists who were ..."](/statements/statement-feaf9ba3112e.md)
+  - About: [Operation Paperclip](/entities/concept-operation-paperclip.md), [Germany](/entities/gpe-germany.md), [Judaism](/entities/concept-judaism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:24](/episodes/ep-1IY2oD-_xVA.md#t-00-05-48) [◐] **Candace Owens**: ["Jack Parsons created the Jet Propulsion Laboratory"](/statements/statement-645ea2b105f0.md)
+  - About: [Jack Parsons](/entities/person-jack-parsons.md), [Jet Propulsion Laboratory](/entities/org-jet-propulsion-laboratory.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:31](/episodes/ep-1IY2oD-_xVA.md#t-00-06-31) [◐] **Candace Owens**: ["The Jet Propulsion Laboratory was a precursor to NASA’s Apollo program"](/statements/statement-f5c1012f147a.md)
+  - About: [Jet Propulsion Laboratory](/entities/org-jet-propulsion-laboratory.md), [NASA](/entities/org-nasa.md), [Apollo program](/entities/concept-apollo-program.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:31](/episodes/ep-1IY2oD-_xVA.md#t-00-06-31) [◐] **Candace Owens**: ["Jack Parsons was Aleister Crowley’s protégé and conducted occult sex rituals int..."](/statements/statement-3808f6447a2d.md)
+  - About: [Jack Parsons](/entities/person-jack-parsons.md), [Aleister Crowley](/entities/person-aleister-crowley.md), [Satanism](/entities/concept-satanism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:51](/episodes/ep-1IY2oD-_xVA.md#t-00-06-31) [✓] **Candace Owens**: ["Bill Gates appears in the Epstein files"](/statements/statement-f42e8e2ecb59.md)
+  - About: [Bill Gates](/entities/person-bill-gates.md), [Epstein Files](/entities/work-epstein-files.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:12](/episodes/ep-1IY2oD-_xVA.md#t-00-09-56) [✗] **Candace Owens**: ["Sources disagree whether Erika Kirk was born on November 20 or November 22, 1988..."](/statements/statement-8e2abaea98ae.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Good Samaritan Hospital (Cincinnati)](/entities/org-good-samaritan-hospital-cincinnati.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:41](/episodes/ep-1IY2oD-_xVA.md#t-00-10-41) [○] **Candace Owens**: ["Carl Kenneth Frantzve served in the United States Army Corps of Engineers"](/statements/statement-921e3793580a.md)
+  - About: [Carl Kenneth Frantzve](/entities/person-carl-kenneth-frantzve.md), [United States Army Corps of Engineers](/entities/org-united-states-army-corps-of-engineers.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:37](/episodes/ep-1IY2oD-_xVA.md#t-00-12-29) [◐] **Candace Owens**: ["Jerri Frantzve was born Jerri Pitts in 1943 into a strict Mormon household"](/statements/statement-1af802b6d746.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Mormonism](/entities/concept-mormonism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:55](/episodes/ep-1IY2oD-_xVA.md#t-00-12-29) [○] **Candace Owens**: ["Jerri Frantzve’s Mormon family was from Arizona, while she was raised in Indiana..."](/statements/statement-d3e10c922462.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Arizona](/entities/gpe-arizona.md), [Indianapolis, Indiana](/entities/gpe-indianapolis-indiana.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:48](/episodes/ep-1IY2oD-_xVA.md#t-00-13-48) [○] **Jerri L. Frantzve**: ["At age 14, Jerri Frantzve lied about her age, altered her birth certificate, and..."](/statements/statement-92388112d735.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Clearasil](/entities/work-clearasil.md)
+
+</div>
+<div class="filter-item">
+
+- [00:14:31](/episodes/ep-1IY2oD-_xVA.md#t-00-14-31) [○] **Candace Owens**: ["Jerri Frantzve married Carl Pangerl when he was five or six years older than she..."](/statements/statement-37f07ed2ed9e.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Carl Alan Pangerl](/entities/person-carl-alan-pangerl.md)
+
+</div>
+<div class="filter-item">
+
+- [00:14:48](/episodes/ep-1IY2oD-_xVA.md#t-00-14-31) [✓] **Candace Owens**: ["Carl Pangerl later became a bishop in the Mormon church"](/statements/statement-86031c49c66d.md)
+  - About: [Carl Alan Pangerl](/entities/person-carl-alan-pangerl.md), [Mormonism](/entities/concept-mormonism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:15:32](/episodes/ep-1IY2oD-_xVA.md#t-00-15-10) [◐] **Candace Owens**: ["Jerri Frantzve’s second husband Kenneth Himsel was a captain in the Indiana Nati..."](/statements/statement-39552e32ba04.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Kenneth Wayne Himsel](/entities/person-kenneth-wayne-himsel.md), [Indiana National Guard](/entities/org-indiana-national-guard.md)
+
+</div>
+<div class="filter-item">
+
+- [00:15:46](/episodes/ep-1IY2oD-_xVA.md#t-00-15-46) [◐] **Candace Owens**: ["Kenneth Himsel later became a major general, married Jerri Frantzve in 1965, and..."](/statements/statement-129e9138f3cc.md)
+  - About: [Kenneth Wayne Himsel](/entities/person-kenneth-wayne-himsel.md), [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:16:04](/episodes/ep-1IY2oD-_xVA.md#t-00-15-46) [○] **Candace Owens**: ["Jerri Frantzve became a social worker in Indiana in 1970 at age 27"](/statements/statement-b463b09c9e3e.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Indiana](/entities/gpe-indiana.md)
+
+</div>
+<div class="filter-item">
+
+- [00:16:47](/episodes/ep-1IY2oD-_xVA.md#t-00-16-20) [◐] **Candace Owens**: ["Indiana universities participated in human experimentation, and the government m..."](/statements/statement-9c58537b4f4e.md)
+  - About: [Indiana](/entities/gpe-indiana.md), [MKUltra](/entities/concept-mkultra.md), [Lysergic acid diethylamide](/entities/concept-lysergic-acid-diethylamide.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:00](/episodes/ep-1IY2oD-_xVA.md#t-00-17-00) [○] **Candace Owens**: ["Jerri Frantzve began working for Quaker Oats in Chicago in 1971 and remained the..."](/statements/statement-252db2171f45.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [The Quaker Oats Company](/entities/org-quaker-oats-company.md), [Chicago, Illinois](/entities/gpe-chicago-illinois.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:19](/episodes/ep-1IY2oD-_xVA.md#t-00-18-19) [✗] **Candace Owens**: ["The military ordered the destruction of all MKUltra-related files in 1975"](/statements/statement-9c716138b443.md)
+  - About: [MKUltra](/entities/concept-mkultra.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:59](/episodes/ep-1IY2oD-_xVA.md#t-00-18-19) [○] **Candace Owens**: ["Jerri Frantzve met and married Kent Frantzve while she was working for Quaker Oa..."](/statements/statement-0a517836c800.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md), [The Quaker Oats Company](/entities/org-quaker-oats-company.md)
+
+</div>
+<div class="filter-item">
+
+- [00:19:13](/episodes/ep-1IY2oD-_xVA.md#t-00-19-00) [○] **Candace Owens**: ["Jerri and Kent Frantzve moved to Paradise Valley, Arizona before divorcing"](/statements/statement-f83f36713c65.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md), [Paradise Valley, Arizona](/entities/gpe-paradise-valley-arizona.md)
+
+</div>
+<div class="filter-item">
+
+- [00:19:59](/episodes/ep-1IY2oD-_xVA.md#t-00-19-59) [○] **Candace Owens**: ["Jerri Frantzve worked for the DuPont family as director of employee relations"](/statements/statement-6245f8bf2eb8.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [DuPont family](/entities/org-dupont-family.md)
+
+</div>
+<div class="filter-item">
+
+- [00:20:39](/episodes/ep-1IY2oD-_xVA.md#t-00-20-39) [✗] **Candace Owens**: ["DuPont completed what was then the largest corporate merger in history with Cono..."](/statements/statement-1288bf793920.md)
+  - About: [DuPont family](/entities/org-dupont-family.md), [Conoco Inc.](/entities/org-conoco-inc.md)
+
+</div>
+<div class="filter-item">
+
+- [00:21:39](/episodes/ep-1IY2oD-_xVA.md#t-00-21-24) [✗] **Candace Owens**: ["Jerri Frantzve was awarded a gender research center at Radford University in 198..."](/statements/statement-57b7ade71ccb.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Radford University](/entities/org-radford-university.md), [Center for Gender Studies at Radford University](/entities/org-center-for-gender-studies-radford.md)
+
+</div>
+<div class="filter-item">
+
+- [00:21:53](/episodes/ep-1IY2oD-_xVA.md#t-00-21-24) [○] **Candace Owens**: ["Jerri Frantzve’s gender clinic provided lessons to the military"](/statements/statement-ca8786751826.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Center for Gender Studies at Radford University](/entities/org-center-for-gender-studies-radford.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:59](/episodes/ep-1IY2oD-_xVA.md#t-00-23-59) [○] **Candace Owens**: ["Richard Castor, another author of Jerri Frantzve’s Radford report, was her nephe..."](/statements/statement-56c20781484e.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Richard R. Castor](/entities/person-richard-r-castor.md), [Radford University](/entities/org-radford-university.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:15](/episodes/ep-1IY2oD-_xVA.md#t-00-24-43) [○] **Candace Owens**: ["Jerri Frantzve helped develop psychological methods for charter-school students ..."](/statements/statement-ee078c8918f8.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Tesseract School](/entities/org-tesseract-school.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:26](/episodes/ep-1IY2oD-_xVA.md#t-00-25-26) [○] **Candace Owens**: ["Erika Kirk attended a Tesseract school"](/statements/statement-200cdc35b969.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tesseract School](/entities/org-tesseract-school.md)
+
+</div>
+<div class="filter-item">
+
+- [00:30:00](/episodes/ep-1IY2oD-_xVA.md#t-00-29-35) [○] **Candace Owens**: ["The Tesseract school attended by Erika Kirk was backed by the Bush and Walton fa..."](/statements/statement-bbd3b30c72bc.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tesseract School](/entities/org-tesseract-school.md)
+
+</div>
+<div class="filter-item">
+
+- [00:31:37](/episodes/ep-1IY2oD-_xVA.md#t-00-31-31) [◐] **Candace Owens**: ["John T. Golle was the CEO of Tesseract and announced the school initiative with ..."](/statements/statement-72caf7300616.md)
+  - About: [John T. Golle](/entities/person-john-t-golle.md), [Tesseract School](/entities/org-tesseract-school.md), [Jeb Bush](/entities/person-jeb-bush.md)
+
+</div>
+<div class="filter-item">
+
+- [00:31:47](/episodes/ep-1IY2oD-_xVA.md#t-00-31-31) [○] **Candace Owens**: ["John T. Golle worked with Monsanto on the launch of Roundup"](/statements/statement-54699dab5ef7.md)
+  - About: [John T. Golle](/entities/person-john-t-golle.md), [Monsanto Company](/entities/org-monsanto.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:38](/episodes/ep-1IY2oD-_xVA.md#t-00-32-12) [✓] **Candace Owens**: ["Philip Bliss co-founded Mid-Peninsula High School in Palo Alto after working on ..."](/statements/statement-45fbb19fe128.md)
+  - About: [Philip Nelson Bliss](/entities/person-philip-nelson-bliss.md), [Mid-Peninsula High School](/entities/org-mid-peninsula-high-school.md), [Stanford Health Care](/entities/org-stanford-health-care.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:48](/episodes/ep-1IY2oD-_xVA.md#t-00-32-48) [◐] **Candace Owens**: ["A student who carried out a shooting at Mid-Peninsula High School in 1996 had be..."](/statements/statement-fcea62eb5fb4.md)
+  - About: [Philip Nelson Bliss](/entities/person-philip-nelson-bliss.md), [Mid-Peninsula High School](/entities/org-mid-peninsula-high-school.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:08](/episodes/ep-1IY2oD-_xVA.md#t-00-36-08) [○] **Candace Owens**: ["Jerri Frantzve was a friend and colleague of John Money"](/statements/statement-83b696bd60cf.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [John Money](/entities/person-john-money.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:36](/episodes/ep-1IY2oD-_xVA.md#t-00-36-36) [✓] **Anonymous Source #2 (Ep 1IY2oD-_xVA)**: ["John Money promoted gender ideology through an experiment in which a boy injured..."](/statements/statement-582ff46e4266.md)
+  - About: [John Money](/entities/person-john-money.md), [David Peter Reimer](/entities/person-david-peter-reimer.md), [transgenderism](/entities/concept-transgenderism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:44](/episodes/ep-1IY2oD-_xVA.md#t-00-44-37) [○] **Candace Owens**: ["Tyler Bowyer introduced Erika Kirk to Charlie Kirk"](/statements/statement-a5051df38fb6.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:02](/episodes/ep-1IY2oD-_xVA.md#t-00-44-37) [○] **Charlie Kirk**: ["Charlie Kirk told a close associate that he was establishing a DOGE initiative b..."](/statements/statement-83440f161c1b.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:46:31](/episodes/ep-1IY2oD-_xVA.md#t-00-46-31) [✓] **Erika Kirk**: ["Erika Kirk said Lori Frantzve was put on the board of a Turning Point-related co..."](/statements/statement-776cf9ea6c71.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:48:06](/episodes/ep-1IY2oD-_xVA.md#t-00-48-06) [✓] **Erika Kirk**: ["Erika Kirk said pageants were never something she had been groomed for"](/statements/statement-cd89b11128df.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Miss Arizona USA](/entities/org-miss-arizona-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:48:15](/episodes/ep-1IY2oD-_xVA.md#t-00-48-06) [✓] **Erika Kirk**: ["Erika Kirk said pageants had never been on her radar"](/statements/statement-08a3acff3158.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Miss Arizona USA](/entities/org-miss-arizona-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:48:23](/episodes/ep-1IY2oD-_xVA.md#t-00-48-23) [✓] **Erika Kirk**: ["Erika Kirk said she entered pageants after receiving an unsolicited nomination f..."](/statements/statement-9499e1b6f3a1.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Miss Arizona USA](/entities/org-miss-arizona-usa.md)
+
+</div>
+</details>
+
+<details>
+<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (22)</summary>
+
+<div class="filter-item">
+
+- [00:00:24](/episodes/ep-cZxHqYsWRYg.md#t-00-00-01) [?] **Candace Owens**: ["Candace Owens disputed that Erika Kirk was with Lori Frantzve on September 10 wh..."](/statements/statement-69af9bf5ce80.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:00:30](/episodes/ep-cZxHqYsWRYg.md#t-00-00-01) [✓] **Candace Owens**: ["Lori Frantzve was placed on the Superfeed Technologies board alongside Turning P..."](/statements/statement-7005646340ac.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:36](/episodes/ep-cZxHqYsWRYg.md#t-00-09-36) [✓] **Anonymous Source #1 (Ep cZxHqYsWRYg)**: ["Bill Erpenbeck served 21 years after pleading guilty in April 2003 to defrauding..."](/statements/statement-375b07f47ca5.md)
+  - About: [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr.md), [Erpenbeck Development Company](/entities/org-erpenbeck-development-company.md)
+
+</div>
+<div class="filter-item">
+
+- [00:16:11](/episodes/ep-cZxHqYsWRYg.md#t-00-15-35) [✓] **Richard William Erpenbeck**: ["Richard Erpenbeck testified that he viewed Tony Erpenbeck's asset transfer as a ..."](/statements/statement-082d6332cb04.md)
+  - About: [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md), [Anthony Erpenbeck Sr.](/entities/person-anthony-erpenbeck-sr.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:25](/episodes/ep-cZxHqYsWRYg.md#t-00-17-01) [✓] **Anonymous Source #1 (Ep cZxHqYsWRYg)**: ["In 2009 FBI agents recovered a cooler of cash buried at Summit Hills Country Clu..."](/statements/statement-4dda7f080dbb.md)
+  - About: [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Summit Hills Country Club](/entities/org-summit-hills-country-club.md)
+
+</div>
+<div class="filter-item">
+
+- [00:30:03](/episodes/ep-cZxHqYsWRYg.md#t-00-29-56) [?] **Candace Owens**: ["Candace Owens said there was non-conclusive evidence that Erika Kirk attended St..."](/statements/statement-ca90bd0fdae3.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [St. Ursula Villa](/entities/org-st-ursula-villa.md), [Ohio](/entities/gpe-ohio.md)
+
+</div>
+<div class="filter-item">
+
+- [00:30:26](/episodes/ep-cZxHqYsWRYg.md#t-00-29-56) [◐] **Candace Owens**: ["St. Ursula Villa was privately funded and separate from St. Ursula Academy and t..."](/statements/statement-fcf673e8104b.md)
+  - About: [St. Ursula Villa](/entities/org-st-ursula-villa.md), [Saint Ursula Academy](/entities/org-saint-ursula-academy.md), [Catholic Church](/entities/org-catholic-church.md)
+
+</div>
+<div class="filter-item">
+
+- [00:31:25](/episodes/ep-cZxHqYsWRYg.md#t-00-31-16) [◐] **Candace Owens**: ["Notre Dame Preparatory High School formerly operated as the Tesseract School tha..."](/statements/statement-4c5dad0d8dd3.md)
+  - About: [Notre Dame Preparatory High School](/entities/org-notre-dame-preparatory-high-school.md), [Tesseract School](/entities/org-tesseract-school.md), [Scottsdale, Arizona](/entities/gpe-scottsdale.md)
+
+</div>
+<div class="filter-item">
+
+- [00:33:40](/episodes/ep-cZxHqYsWRYg.md#t-00-33-28) [◐] **Candace Owens**: ["From 2005 through 2012, Erika Kirk participated in beauty pageants every year Ca..."](/statements/statement-07aed7154395.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [National American Miss](/entities/org-national-american-miss.md), [Miss Arizona USA](/entities/org-miss-arizona-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:33:56](/episodes/ep-cZxHqYsWRYg.md#t-00-33-28) [?] **Candace Owens**: ["Pageant participants told Candace Owens that minors are not freely solicited for..."](/statements/statement-6a4e1d585211.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Miss Arizona USA](/entities/org-miss-arizona-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:34:22](/episodes/ep-cZxHqYsWRYg.md#t-00-34-13) [?] **Candace Owens**: ["During the 2005-2006 school year Erika Kirk was a Notre Dame Prep junior and fir..."](/statements/statement-77af8948ffc8.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Notre Dame Preparatory High School](/entities/org-notre-dame-preparatory-high-school.md), [National American Miss](/entities/org-national-american-miss.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:10](/episodes/ep-cZxHqYsWRYg.md#t-00-34-55) [◐] **Candace Owens**: ["In August 2006 Erika Kirk won a National American Miss Teen title and traveled t..."](/statements/statement-bbb03b55139a.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [National American Miss](/entities/org-national-american-miss.md), [John D. Hayworth Jr.](/entities/person-john-d-hayworth-jr.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:17](/episodes/ep-cZxHqYsWRYg.md#t-00-36-06) [?] **Candace Owens**: ["Arizona tax authorities canceled Virtual Registration International because Lori..."](/statements/statement-afc9c97d744b.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md), [Arizona](/entities/gpe-arizona.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:57](/episodes/ep-cZxHqYsWRYg.md#t-00-36-51) [✓] **Candace Owens**: ["Erika Kirk graduated from Notre Dame Prep in 2007 with a full basketball and aca..."](/statements/statement-d6ec1eb3ee65.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Notre Dame Preparatory High School](/entities/org-notre-dame-preparatory-high-school.md), [Regis University](/entities/org-regis-university.md)
+
+</div>
+<div class="filter-item">
+
+- [00:40:45](/episodes/ep-cZxHqYsWRYg.md#t-00-40-16) [✓] **Erika Kirk**: ["After giving up her pageant crown, Erika Kirk said she became a hermit for about..."](/statements/statement-5c106dbf6d8c.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:42:43](/episodes/ep-cZxHqYsWRYg.md#t-00-42-38) [?] **Candace Owens**: ["Turning Point USA did not answer Candace Owens's question asking who Erika Kirk'..."](/statements/statement-751fca658890.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:43:55](/episodes/ep-cZxHqYsWRYg.md#t-00-43-23) [✓] **Brian Houston**: ["Brian Houston said he had no doubt that his father was a serial pedophile and th..."](/statements/statement-9435c22d1e41.md)
+  - About: [Brian Houston](/entities/person-brian-houston.md), [Hillsong Church](/entities/org-hillsong-church.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:32](/episodes/ep-cZxHqYsWRYg.md#t-00-44-32) [?] **Anonymous Source #2 (Ep cZxHqYsWRYg)**: ["Ashley said Terry and Judith Crist were very close with Erika Kirk from approxim..."](/statements/statement-d5548877cc70.md)
+  - About: [Terry Crist](/entities/person-terry-crist.md), [Judith Crist](/entities/person-judith-crist.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:53](/episodes/ep-cZxHqYsWRYg.md#t-00-44-32) [✗] **Anonymous Source #2 (Ep cZxHqYsWRYg)**: ["Ashley said Terry Crist was a close friend of Hillsong founder Brian Houston and..."](/statements/statement-24bda22c18a9.md)
+  - About: [Terry Crist](/entities/person-terry-crist.md), [Brian Houston](/entities/person-brian-houston.md), [Hillsong Church](/entities/org-hillsong-church.md)
+
+</div>
+<div class="filter-item">
+
+- [00:46:54](/episodes/ep-cZxHqYsWRYg.md#t-00-46-54) [✓] **Candace Owens**: ["Despite her reported eight-month hiatus, Erika Kirk competed in Miss Colorado US..."](/statements/statement-52e6aa83a3ab.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Colorado](/entities/gpe-colorado.md)
+
+</div>
+<div class="filter-item">
+
+- [00:53:17](/episodes/ep-cZxHqYsWRYg.md#t-00-53-17) [?] **Candace Owens**: ["Erika Kirk told Candace Owens that she received the questions ahead of her Bari ..."](/statements/statement-024f7c811cbf.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Bari Weiss](/entities/person-bari-weiss.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:54:31](/episodes/ep-cZxHqYsWRYg.md#t-00-54-25) [✓] **Erika Kirk**: ["Erika Kirk said she lived in New York City for five years and never dated there"](/statements/statement-9b39e1b295e4.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [New York City](/entities/gpe-new-york-city.md)
+
+</div>
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (22)</summary>
+
+<div class="filter-item">
+
+- [00:00:38](/episodes/ep-jTj9Ip46r4w.md#t-00-00-38) [○] **Candace Owens**: ["Charlie Kirk was the one person who stood between the United States and involvem..."](/statements/statement-5859022c9868.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [United States](/entities/gpe-united-states.md), [Iran](/entities/gpe-iran.md)
+
+</div>
+<div class="filter-item">
+
+- [00:00:46](/episodes/ep-jTj9Ip46r4w.md#t-00-00-38) [◐] **Candace Owens**: ["Charlie Kirk was at the White House and convinced Donald Trump that a full-scale..."](/statements/statement-97b1ed9cf8ca.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md)
+
+</div>
+<div class="filter-item">
+
+- [00:01:45](/episodes/ep-jTj9Ip46r4w.md#t-00-01-21) [◐] **Candace Owens**: ["Charlie Kirk had abandoned the pro-Israel cause entirely before his death."](/statements/statement-2cd66649f19c.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md), [Zionism](/entities/concept-zionism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:08:13](/episodes/ep-jTj9Ip46r4w.md#t-00-07-43) [○] **Candace Owens**: ["Erika Kirk was slated to record something with Benjamin Netanyahu and Ben Shapir..."](/statements/statement-9d25ce5f57e9.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:30](/episodes/ep-jTj9Ip46r4w.md#t-00-09-00) [○] **Candace Owens**: ["Jerri Frantzve and Kent Frantzve were married at the Baha'i House of Worship in ..."](/statements/statement-19f5c259f6de.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md), [Baháʼí House of Worship for North America](/entities/org-bahai-house-of-worship-wilmette.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:55](/episodes/ep-jTj9Ip46r4w.md#t-00-09-39) [◐] **Candace Owens**: ["Jerri Frantzve married at age 14, later became a psychologist, created the Tesse..."](/statements/statement-0fc66f0e3e96.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Radford University](/entities/org-radford-university.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:20](/episodes/ep-jTj9Ip46r4w.md#t-00-09-39) [○] **Candace Owens**: ["Jerri Frantzve worked as a psychologist with DuPont Chemicals."](/statements/statement-a50e251785f5.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [DuPont](/entities/org-dupont.md), [Eastern Europe](/entities/gpe-eastern-europe.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:15](/episodes/ep-jTj9Ip46r4w.md#t-00-10-59) [✓] **Candace Owens**: ["Jack David Solomon founded the company now known as Bally Technologies."](/statements/statement-b86292eb51eb.md)
+  - About: [Jack David Solomon](/entities/person-jack-david-solomon.md), [Bally Technologies, Inc.](/entities/org-bally-technologies.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:25](/episodes/ep-jTj9Ip46r4w.md#t-00-10-59) [○] **Candace Owens**: ["The dedication at Zion's Gate in Israel belongs to Jack David Solomon's family, ..."](/statements/statement-d64fec5e45a5.md)
+  - About: [Jack David Solomon](/entities/person-jack-david-solomon.md), [Erika Kirk](/entities/person-erika-kirk.md), [Israel](/entities/gpe-israel.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:42](/episodes/ep-jTj9Ip46r4w.md#t-00-13-42) [○] **Candace Owens**: ["Erika Kirk is close to Rick Erpenbeck."](/statements/statement-3667e5dd4bb3.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md), [Instagram](/entities/org-instagram.md)
+
+</div>
+<div class="filter-item">
+
+- [00:22:51](/episodes/ep-jTj9Ip46r4w.md#t-00-22-18) [○] **Candace Owens**: ["Erika Kirk posted her mother in a vulnerable, sick condition two to three days b..."](/statements/statement-be0c860d86f2.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:28:50](/episodes/ep-jTj9Ip46r4w.md#t-00-28-50) [✗] **Candace Owens**: ["The Italian mafia was actually Jewish and perhaps Khazarian Jewish."](/statements/statement-90deac9a5b6c.md)
+  - About: [Italy](/entities/gpe-italy.md), [Judaism](/entities/concept-judaism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:29:04](/episodes/ep-jTj9Ip46r4w.md#t-00-28-50) [◐] **Candace Owens**: ["Hollywood was factually started by Jewish gangs, including the people behind Uni..."](/statements/statement-cd93785f985e.md)
+  - About: [Hollywood](/entities/gpe-hollywood.md), [Universal Studios](/entities/org-universal-studios.md), [Metro-Goldwyn-Mayer](/entities/org-metro-goldwyn-mayer.md)
+
+</div>
+<div class="filter-item">
+
+- [00:29:57](/episodes/ep-jTj9Ip46r4w.md#t-00-29-57) [✗] **Candace Owens**: ["The Russian Tsar was assassinated in 1881 by a Jewish revolutionary gang from th..."](/statements/statement-66da5feb5798.md)
+  - About: [Russia](/entities/gpe-russia.md), [Pale of Settlement](/entities/gpe-pale-of-settlement.md), [Judaism](/entities/concept-judaism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:31:17](/episodes/ep-jTj9Ip46r4w.md#t-00-31-17) [✗] **Candace Owens**: ["There is no evidence that the Jewish revolutionaries associated with the Tsar's ..."](/statements/statement-d70a499c2236.md)
+  - About: [Russia](/entities/gpe-russia.md), [Italy](/entities/gpe-italy.md), [United States](/entities/gpe-united-states.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:26](/episodes/ep-jTj9Ip46r4w.md#t-00-31-57) [✓] **Candace Owens**: ["President William McKinley's assassin, Leon Czolgosz, was radicalized by Jewish ..."](/statements/statement-ea6493486398.md)
+  - About: [William McKinley](/entities/person-william-mckinley.md), [Leon Czolgosz](/entities/person-leon-czolgosz.md), [Emma Goldman](/entities/person-emma-goldman.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:55](/episodes/ep-jTj9Ip46r4w.md#t-00-32-39) [◐] **Candace Owens**: ["Emma Goldman was behind Margaret Sanger and Planned Parenthood."](/statements/statement-121697e7db97.md)
+  - About: [Emma Goldman](/entities/person-emma-goldman.md), [Margaret Sanger](/entities/person-margaret-sanger.md), [Planned Parenthood](/entities/org-planned-parenthood.md)
+
+</div>
+<div class="filter-item">
+
+- [00:33:33](/episodes/ep-jTj9Ip46r4w.md#t-00-33-20) [✗] **Candace Owens**: ["Unions were established to enable racketeering mafias, which is why unions are a..."](/statements/statement-6490f60b68bd.md)
+  - About: [United States](/entities/gpe-united-states.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:46](/episodes/ep-jTj9Ip46r4w.md#t-00-36-46) [✓] **Charlie Kirk**: ["Erika Kirk is from the Lombardi family."](/statements/statement-52f6ca5aa51e.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Vince Lombardi](/entities/person-vince-lombardi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:42:21](/episodes/ep-jTj9Ip46r4w.md#t-00-42-21) [◐] **Anonymous Source #1 (Ep jTj9Ip46r4w)**: ["Erika Kirk did not play basketball for Regis University in the 2008-2009 season,..."](/statements/statement-5c047e06c835.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Regis University](/entities/org-regis-university.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:16](/episodes/ep-jTj9Ip46r4w.md#t-00-43-59) [✓] **Erika Kirk**: ["After leaving the Miss Arizona world, Erika Kirk locked herself in her room, rea..."](/statements/statement-34ae145de898.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Bible](/entities/work-bible.md), [Christianity](/entities/concept-christianity.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:39](/episodes/ep-jTj9Ip46r4w.md#t-00-45-39) [✓] **Erika Kirk**: ["The first time Erika Kirk read the Bible cover to cover was in 2016, and it chan..."](/statements/statement-ccef73a32562.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Bible](/entities/work-bible.md)
+
+</div>
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (21)</summary>
+
+<div class="filter-item">
+
+- [00:02:11](/episodes/ep-2tFYJf1klgY.md#t-00-02-11) [✓] **Jerri L. Frantzve**: ["The final big project of Jerri Frantzve's semester would take students to Easter..."](/statements/statement-f1ed06d9f20c.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Eastern Europe](/entities/gpe-eastern-europe.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:59](/episodes/ep-2tFYJf1klgY.md#t-00-05-25) [✓] **Candace Owens**: ["Erika Kirk was born on either November 20 or November 22, depending on the sourc..."](/statements/statement-f649112b4860.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:07:17](/episodes/ep-2tFYJf1klgY.md#t-00-07-17) [◐] **Candace Owens**: ["Kent Randall Frantzve and Lori Frantzve allegedly married in Marblehead, Massach..."](/statements/statement-7fe22e3d029d.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:08:18](/episodes/ep-2tFYJf1klgY.md#t-00-07-55) [○] **Candace Owens**: ["No St. Ursula Villa yearbook has yet confirmed Erika Kirk's attendance there fro..."](/statements/statement-8b106ec3afc7.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [St. Ursula Villa](/entities/org-st-ursula-villa.md), [Cincinnati, Ohio](/entities/gpe-cincinnati-ohio.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:55](/episodes/ep-2tFYJf1klgY.md#t-00-10-34) [○] **Candace Owens**: ["Lori Frantzve formed Virtual Registration International Incorporated with Richar..."](/statements/statement-e582e6b173d9.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:13](/episodes/ep-2tFYJf1klgY.md#t-00-11-13) [✓] **Candace Owens**: ["Lori Frantzve formed Intellimet International Incorporated of Delaware on Decemb..."](/statements/statement-98853befecc9.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Delaware](/entities/gpe-delaware.md)
+
+</div>
+<div class="filter-item">
+
+- [00:19:20](/episodes/ep-2tFYJf1klgY.md#t-00-18-48) [✗] **Candace Owens**: ["In October 2009, the Romanian government agreed to allow the United States to es..."](/statements/statement-05a36286243c.md)
+  - About: [Romania](/entities/gpe-romania.md), [United States](/entities/gpe-united-states.md), [Black Sea](/entities/gpe-black-sea.md)
+
+</div>
+<div class="filter-item">
+
+- [00:20:44](/episodes/ep-2tFYJf1klgY.md#t-00-20-44) [✓] **Erika Kirk**: ["Erika Kirk said she lived in China and worked with sex-trafficking victims, then..."](/statements/statement-7983b1c952fc.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [China](/entities/gpe-china.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md)
+
+</div>
+<div class="filter-item">
+
+- [00:21:58](/episodes/ep-2tFYJf1klgY.md#t-00-21-58) [✓] **Candace Owens**: ["Erika Kirk competed for Miss Colorado 2010 in November 2009 and placed fourth ru..."](/statements/statement-d68324451315.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Colorado](/entities/gpe-colorado.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:25](/episodes/ep-2tFYJf1klgY.md#t-00-23-14) [○] **Candace Owens**: ["Erika Kirk claimed she attended Loyola Marymount University during her junior ye..."](/statements/statement-82fa3641e21b.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Loyola Marymount University](/entities/org-loyola-marymount-university.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:27](/episodes/ep-2tFYJf1klgY.md#t-00-25-27) [○] **Candace Owens**: ["Actors, directors, and other people working with Erika Kirk on November Renaissa..."](/statements/statement-94ca08d74bdd.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [November Renaissance](/entities/work-november-renaissance.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:26:31](/episodes/ep-2tFYJf1klgY.md#t-00-26-07) [✓] **Candace Owens**: ["Erika Kirk formed Table 4 LLC with her then-boyfriend Tyler Sandford in 2010."](/statements/statement-b544ece98ad2.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:28:49](/episodes/ep-2tFYJf1klgY.md#t-00-28-30) [✓] **Candace Owens**: ["Erika Kirk came into contact with Colonel Otto Buescher."](/statements/statement-c3eef5212da7.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Otto Busher III](/entities/person-otto-busher-iii.md)
+
+</div>
+<div class="filter-item">
+
+- [00:29:22](/episodes/ep-2tFYJf1klgY.md#t-00-29-09) [○] **Tyler Bowyer**: ["Tyler Bowyer said he went to Romania to work with a senator in its parliament, a..."](/statements/statement-519304cbe46c.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Romania](/entities/gpe-romania.md)
+
+</div>
+<div class="filter-item">
+
+- [00:29:50](/episodes/ep-2tFYJf1klgY.md#t-00-29-50) [○] **Tyler Bowyer**: ["Tyler Bowyer said he spent four days at the beach, got 'completely Romanian slos..."](/statements/statement-3ab4add06966.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Romania](/entities/gpe-romania.md)
+
+</div>
+<div class="filter-item">
+
+- [00:31:28](/episodes/ep-2tFYJf1klgY.md#t-00-31-28) [○] **Candace Owens**: ["Erika Kirk told Candace Owens that she might have met Tyler Bowyer through a sen..."](/statements/statement-eb28de4d75c3.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:06](/episodes/ep-2tFYJf1klgY.md#t-00-44-06) [✓] **Blake Neff**: ["Blake Neff said Charlie Kirk observed an evangelical Christian version of Shabba..."](/statements/statement-3ac1950a9552.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Blake Neff](/entities/person-blake-neff.md), [Shabbat](/entities/concept-shabbat.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:30](/episodes/ep-2tFYJf1klgY.md#t-00-44-06) [○] **Candace Owens**: ["Candace Owens said she began turning off her phone on Saturdays before Charlie K..."](/statements/statement-3c22ceff0f3d.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:51:29](/episodes/ep-2tFYJf1klgY.md#t-00-51-29) [○] **Candace Owens**: ["Before Erika Kirk, Charlie Kirk had one woman he was very interested in, and Can..."](/statements/statement-0dcab5b91065.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:52:15](/episodes/ep-2tFYJf1klgY.md#t-00-52-09) [◐] **Candace Owens**: ["Erika Kirk definitively still has her children."](/statements/statement-209a3ad1a7da.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:54:57](/episodes/ep-2tFYJf1klgY.md#t-00-54-40) [○] **Candace Owens**: ["Charlie Kirk did not know many of the things Candace Owens has presented about E..."](/statements/statement-76d9390d8302.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </div>
 </details>
@@ -13182,7 +14630,7 @@ _2476 statements extracted from podcast episodes._
 </details>
 
 <details open>
-<summary><strong class="section-title">Predictions (19)</strong></summary>
+<summary><strong class="section-title">Predictions (20)</strong></summary>
 
 <details>
 <summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (3)</summary>
@@ -13368,10 +14816,21 @@ _2476 statements extracted from podcast episodes._
 </div>
 </details>
 
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
+
+<div class="filter-item">
+
+- [02:37:26](/episodes/ep-nPhCKwJ6ye8.md#t-02-37-26) [○] **Candace Owens**: ["Candace Owens predicts that Israel will ultimately be found to have been involve..."](/statements/statement-d5c74ed071c8.md)
+  - About: [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+</details>
+
 </details>
 
 <details open>
-<summary><strong class="section-title">Promises (37)</strong></summary>
+<summary><strong class="section-title">Promises (38)</strong></summary>
 
 <details>
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1)</summary>
@@ -13674,13 +15133,13 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:34:20](/episodes/ep-QRS_hR7NXaQ.md#t-00-33-44) [✓] **Candace Owens**: ["Candace Owens will speak at the Catholics for Catholics conference in Washington..."](/statements/statement-2ebb604e6d76.md)
-  - About: [Catholics for Catholics](/entities/org-catholics-for-catholics.md), [Washington, D.C.](/entities/gpe-washington-dc.md)
+  - About: [Catholics for Catholics](/entities/org-catholics-for-catholics.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
 </div>
 <div class="filter-item">
 
 - [00:35:57](/episodes/ep-QRS_hR7NXaQ.md#t-00-35-44) [✓] **John Yep**: ["Catholics for Catholics announced Candace Owens as a keynote speaker at its Nati..."](/statements/statement-4d40eb78d0bf.md)
-  - About: [Catholics for Catholics](/entities/org-catholics-for-catholics.md), [Candace Owens](/entities/person-candace-owens.md), [Washington, D.C.](/entities/gpe-washington-dc.md)
+  - About: [Catholics for Catholics](/entities/org-catholics-for-catholics.md), [Candace Owens](/entities/person-candace-owens.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
 </div>
 </details>
@@ -13718,10 +15177,21 @@ _2476 statements extracted from podcast episodes._
 </div>
 </details>
 
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
+
+<div class="filter-item">
+
+- [03:43:16](/episodes/ep-nPhCKwJ6ye8.md#t-03-43-16) [✓] **Candace Owens**: ["Candace Owens promises to remove the steakhouse stop from her personal timeline ..."](/statements/statement-6e4c87e8d0c6.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+</details>
+
 </details>
 
 <details open>
-<summary><strong class="section-title">Citations (84)</strong></summary>
+<summary><strong class="section-title">Citations (143)</strong></summary>
 
 <details>
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1)</summary>
@@ -13997,7 +15467,7 @@ _2476 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:10:39](/episodes/ep-X92MllIHDzw.md#t-00-10-12) [✓] **Candace Owens**: ["November Renaissance was never released despite updates through 2017."](/statements/statement-5e118bcecd65.md)
+- [00:10:39](/episodes/ep-X92MllIHDzw.md#t-00-10-12) [✓] **Candace Owens**: ["November Renaissance was never released."](/statements/statement-5e118bcecd65.md)
   - About: [November Renaissance](/entities/work-november-renaissance.md), [Kickstarter](/entities/org-kickstarter.md)
 
 </div>
@@ -14136,7 +15606,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [01:24:42](/episodes/ep-xjzb_t5Tk9o.md#t-01-24-42) [◐] **Bassem Youssef**: ["Israeli media reported the Hannibal Directive, Israeli soldiers killing Israelis..."](/statements/statement-dffdfa972b19.md)
-  - About: [Israel Defense Forces](/entities/org-israel-defense-forces.md), [Israel](/entities/gpe-israel.md), [The New York Times](/entities/org-new-york-times.md)
+  - About: [Israel Defense Forces](/entities/org-israel-defense-forces.md), [Israel](/entities/gpe-israel.md), [The New York Times](/entities/org-the-new-york-times.md)
 
 </div>
 <div class="filter-item">
@@ -14361,20 +15831,404 @@ _2476 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:19:18](/episodes/ep-1hcjQGgvxUY.md#t-00-18-57) [○] **Candace Owens**: ["According to its website, Phoenix Dream Center provides residential rehabilitati..."](/statements/statement-77660a0217f8.md)
+- [00:19:18](/episodes/ep-1hcjQGgvxUY.md#t-00-18-57) [✓] **Candace Owens**: ["According to its website, Phoenix Dream Center provides residential rehabilitati..."](/statements/statement-77660a0217f8.md)
   - About: [Phoenix Dream Center](/entities/org-phoenix-dream-center.md)
 
 </div>
 <div class="filter-item">
 
-- [00:30:37](/episodes/ep-1hcjQGgvxUY.md#t-00-30-37) [○] **Anonymous Source #2 (Ep 1hcjQGgvxUY)**: ["An anonymous TikTok creator says 40 FBI briefings mention a color of the day, an..."](/statements/statement-09584b6cf183.md)
+- [00:30:37](/episodes/ep-1hcjQGgvxUY.md#t-00-30-37) [✗] **Anonymous Source #2 (Ep 1hcjQGgvxUY)**: ["An anonymous TikTok creator says 40 FBI briefings mention a color of the day, an..."](/statements/statement-09584b6cf183.md)
   - About: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [United States Department of Justice](/entities/org-united-states-department-of-justice.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item">
 
-- [00:44:57](/episodes/ep-1hcjQGgvxUY.md#t-00-44-37) [○] **Jared Moskowitz**: ["Documents in the Epstein files dispute Donald Trump's claim that he expelled Jef..."](/statements/statement-049d7908ab42.md)
+- [00:44:57](/episodes/ep-1hcjQGgvxUY.md#t-00-44-37) [✓] **Jared Moskowitz**: ["Documents in the Epstein files dispute Donald Trump's claim that he expelled Jef..."](/statements/statement-049d7908ab42.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Epstein Files](/entities/work-epstein-files.md)
+
+</div>
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (15)</summary>
+
+<div class="filter-item">
+
+- [00:04:17](/episodes/ep-ZAsV0fHGBiM.md#t-00-04-07) [✓] **Candace Owens**: ["A signed letter from the U.S. Secretary of the Treasury described Turning Point ..."](/statements/statement-174f3df4d506.md)
+  - About: [United States Department of the Treasury](/entities/org-united-states-department-of-the-treasury.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:35](/episodes/ep-ZAsV0fHGBiM.md#t-00-11-29) [○] **Candace Owens**: ["Candace Owens spoke with Erika Kirk's former boyfriends and old classmates while..."](/statements/statement-2665222525b1.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:53](/episodes/ep-ZAsV0fHGBiM.md#t-00-12-53) [◐] **Candace Owens**: ["The Assault on Truth lays out a direct relationship between modern psychology, c..."](/statements/statement-31763746fb3c.md)
+  - About: [The Assault on Truth: Freud's Suppression of the Seduction Theory](/entities/work-the-assault-on-truth.md), [Sigmund Freud](/entities/person-sigmund-freud.md)
+
+</div>
+<div class="filter-item">
+
+- [00:19:42](/episodes/ep-ZAsV0fHGBiM.md#t-00-19-36) [✓] **Candace Owens**: ["Erika Kirk's high-school yearbook collage included her biological father, patern..."](/statements/statement-7228d5b29791.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md), [Carl Kenneth Frantzve](/entities/person-carl-kenneth-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:21:56](/episodes/ep-ZAsV0fHGBiM.md#t-00-21-37) [○] **Candace Owens**: ["A newspaper birth announcement says Erika Kirk was born on November 20, 1988, at..."](/statements/statement-6fe3cb442c37.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Good Samaritan Hospital (Cincinnati)](/entities/org-good-samaritan-hospital-cincinnati.md), [Cincinnati, Ohio](/entities/gpe-cincinnati-ohio.md)
+
+</div>
+<div class="filter-item">
+
+- [00:22:57](/episodes/ep-ZAsV0fHGBiM.md#t-00-22-22) [✓] **Candace Owens**: ["Lori Frantzve's 1998 divorce filing repeatedly lists Erika Kirk's birth date as ..."](/statements/statement-e5926f430383.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:32](/episodes/ep-ZAsV0fHGBiM.md#t-00-23-00) [✓] **Candace Owens**: ["Lori Frantzve's divorce filing says Lori and Kent Frantzve married on November 2..."](/statements/statement-201f23eeb8d6.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md), [Marblehead, Massachusetts](/entities/gpe-marblehead-massachusetts.md)
+
+</div>
+<div class="filter-item">
+
+- [00:24:06](/episodes/ep-ZAsV0fHGBiM.md#t-00-23-45) [✓] **Candace Owens**: ["An attached, unnotarized and undated separation agreement changes Lori and Kent ..."](/statements/statement-329379d26428.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:33](/episodes/ep-ZAsV0fHGBiM.md#t-00-25-13) [◐] **Candace Owens**: ["The Frantzves' divorce decree again lists a November 20, 1995 marriage date, but..."](/statements/statement-c14bb0cacefb.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md), [Marblehead, Massachusetts](/entities/gpe-marblehead-massachusetts.md)
+
+</div>
+<div class="filter-item">
+
+- [00:27:13](/episodes/ep-ZAsV0fHGBiM.md#t-00-26-39) [○] **Candace Owens**: ["Across two divorce documents there are four plausible marriage dates for Kent an..."](/statements/statement-18aacb0f9374.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md), [Marblehead, Massachusetts](/entities/gpe-marblehead-massachusetts.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:44](/episodes/ep-ZAsV0fHGBiM.md#t-00-32-17) [○] **Candace Owens**: ["Loretta Abbas was repeatedly arrested for running illegal slot machines and plea..."](/statements/statement-13f49c8b2a94.md)
+  - About: [Loretta Abbas](/entities/person-loretta-abbas.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:33:52](/episodes/ep-ZAsV0fHGBiM.md#t-00-33-40) [○] **Candace Owens**: ["Mason Abbas was arrested after a multi-mile police chase during which he alleged..."](/statements/statement-e68d58cd7e81.md)
+  - About: [Mason Abbas](/entities/person-mason-abbas.md), [Frank Kreps](/entities/person-frank-kreps.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:54](/episodes/ep-ZAsV0fHGBiM.md#t-00-36-24) [✓] **Candace Owens**: ["Erika Kirk repeatedly referred to her paternal grandfather Carl Kenneth Frantzve..."](/statements/statement-f1a46fb1a1d2.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Carl Kenneth Frantzve](/entities/person-carl-kenneth-frantzve.md), [Sweden](/entities/gpe-sweden.md)
+
+</div>
+<div class="filter-item">
+
+- [00:37:51](/episodes/ep-ZAsV0fHGBiM.md#t-00-37-49) [◐] **Anonymous Source #1 (Ep ZAsV0fHGBiM)**: ["In Swedish, 'morfar' literally means mother's father and 'farfar' means father's..."](/statements/statement-c1573a5d582f.md)
+  - About: [Sweden](/entities/gpe-sweden.md), [Erika Kirk](/entities/person-erika-kirk.md), [Carl Kenneth Frantzve](/entities/person-carl-kenneth-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:53:38](/episodes/ep-ZAsV0fHGBiM.md#t-00-53-03) [○] **Candace Owens**: ["Yearbooks place Erika Kirk at Tesseract School in first grade in 1995-96, second..."](/statements/statement-8e7c1814dc37.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tesseract School](/entities/org-tesseract-school.md)
+
+</div>
+</details>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (8)</summary>
+
+<div class="filter-item">
+
+- [00:32:10](/episodes/ep-nPhCKwJ6ye8.md#t-00-32-10) [✓] **Andrew Wilson**: ["Andrew Wilson says the case against Tyler Robinson is supported by corroborating..."](/statements/statement-53a47c80d7fd.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:52](/episodes/ep-nPhCKwJ6ye8.md#t-00-45-41) [◐] **Candace Owens**: ["According to the forensic testimony cited by Candace Owens, Tyler Robinson's DNA..."](/statements/statement-456408c60fb5.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [01:28:03](/episodes/ep-nPhCKwJ6ye8.md#t-01-27-53) [✓] **Candace Owens**: ["Tyler Robinson's defense requested an extension because it had not received disc..."](/statements/statement-c4c56eb41213.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Kathryn Nester](/entities/person-kathryn-nester.md)
+
+</div>
+<div class="filter-item">
+
+- [01:31:52](/episodes/ep-nPhCKwJ6ye8.md#t-01-31-37) [✓] **Candace Owens**: ["Kathryn Nester said during the hearing that she had not been given access to her..."](/statements/statement-f32233b3deb7.md)
+  - About: [Kathryn Nester](/entities/person-kathryn-nester.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [01:37:49](/episodes/ep-nPhCKwJ6ye8.md#t-01-37-41) [✓] **Candace Owens**: ["The authorities did not produce statements from Tyler Robinson's parents saying ..."](/statements/statement-a152aa832f58.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Matt Robinson](/entities/person-matt-robinson.md), [Amber Robinson](/entities/person-amber-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [02:01:40](/episodes/ep-nPhCKwJ6ye8.md#t-02-01-40) [✓] **Candace Owens**: ["The contractor who paved the crime scene said the call described a paver emergen..."](/statements/statement-e8088f9593f9.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [02:25:29](/episodes/ep-nPhCKwJ6ye8.md#t-02-25-29) [✓] **Candace Owens**: ["Candace Owens cited Joe Kent as saying that 12 Israeli cell phones were on the g..."](/statements/statement-b5e4a547905b.md)
+  - About: [Joe Kent](/entities/person-joe-kent.md), [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [03:25:17](/episodes/ep-nPhCKwJ6ye8.md#t-03-25-12) [✓] **Candace Owens**: ["After rewatching the testimony, Candace Owens corrected her earlier claim: only ..."](/statements/statement-7d36617db0e1.md)
+  - About: [Matt Robinson](/entities/person-matt-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Amber Robinson](/entities/person-amber-robinson.md)
+
+</div>
+</details>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (4)</summary>
+
+<div class="filter-item">
+
+- [00:04:30](/episodes/ep-1IY2oD-_xVA.md#t-00-04-30) [✓] **Anonymous Source #1 (Ep 1IY2oD-_xVA)**: ["A later account in 1929 said Raoul Loveday died from inflammation of the intesti..."](/statements/statement-e780a8966ba6.md)
+  - About: [Frederick Charles Loveday](/entities/person-frederick-charles-raoul-loveday.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:15](/episodes/ep-1IY2oD-_xVA.md#t-00-05-15) [✓] **Candace Owens**: ["The timing of Pauline Robinson Pierce’s contact with Aleister Crowley is the sou..."](/statements/statement-f656fa7bce19.md)
+  - About: [Pauline Robinson Pierce](/entities/person-pauline-robinson-pierce.md), [Barbara Bush](/entities/person-barbara-bush.md), [Aleister Crowley](/entities/person-aleister-crowley.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:17](/episodes/ep-1IY2oD-_xVA.md#t-00-11-17) [✓] **Candace Owens**: ["Candace Owens could not find proof that Lori and Kent Frantzve’s reported marria..."](/statements/statement-4959a43ce796.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md), [Marblehead, Massachusetts](/entities/gpe-marblehead-massachusetts.md)
+
+</div>
+<div class="filter-item">
+
+- [00:56:20](/episodes/ep-1IY2oD-_xVA.md#t-00-56-20) [○] **Candace Owens**: ["Two separate sources said Turning Point Action was missing about $10 million"](/statements/statement-1d028d0b03b3.md)
+  - About: [Turning Point Action](/entities/org-turning-point-action.md)
+
+</div>
+</details>
+
+<details>
+<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (15)</summary>
+
+<div class="filter-item">
+
+- [00:04:06](/episodes/ep-cZxHqYsWRYg.md#t-00-03-28) [?] **Candace Owens**: ["A divorce document listed Richard Erpenbeck as a witness, and its address let Ca..."](/statements/statement-bacd2fdbc656.md)
+  - About: [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:42](/episodes/ep-cZxHqYsWRYg.md#t-00-05-31) [?] **Candace Owens**: ["Members of the Erpenbeck family repeatedly served as secretary, incorporator, or..."](/statements/statement-498ef9834773.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:02](/episodes/ep-cZxHqYsWRYg.md#t-00-05-31) [?] **Candace Owens**: ["Lori Frantzve filed for Eurotech in June 1993, with Richard Erpenbeck appearing ..."](/statements/statement-bb5434d5a19f.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:09](/episodes/ep-cZxHqYsWRYg.md#t-00-05-31) [?] **Candace Owens**: ["Lori Frantzve and Richard Erpenbeck filed for Eurotech International UK in 1995"](/statements/statement-0ee3e83d3f2f.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md), [United Kingdom](/entities/gpe-united-kingdom.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:16](/episodes/ep-cZxHqYsWRYg.md#t-00-06-16) [?] **Candace Owens**: ["Lori Frantzve filed for TechMetrics International in 1993, and 1998 records list..."](/statements/statement-f3140481655c.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:54](/episodes/ep-cZxHqYsWRYg.md#t-00-06-16) [✓] **Candace Owens**: ["Lori Frantzve filed for AZ Tech in August 1997 and renamed it E3 Tech in 2017"](/statements/statement-3464d5576f7a.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [AZ-Tech International](/entities/org-az-tech-international.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:56](/episodes/ep-cZxHqYsWRYg.md#t-00-10-40) [✓] **Candace Owens**: ["Lori Ann Erpenbeck told her lawyer that Tony Erpenbeck offered money to change h..."](/statements/statement-25baa798a75c.md)
+  - About: [Lori Ann Erpenbeck](/entities/person-lori-ann-erpenbeck.md), [Anthony Erpenbeck Sr.](/entities/person-anthony-erpenbeck-sr.md), [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:29](/episodes/ep-cZxHqYsWRYg.md#t-00-11-21) [◐] **Candace Owens**: ["Tony Erpenbeck tried from federal prison to hire someone to murder a federal jud..."](/statements/statement-a44cdfdbb3f2.md)
+  - About: [Anthony Erpenbeck Sr.](/entities/person-anthony-erpenbeck-sr.md), [S. Arthur Spiegel](/entities/person-s-arthur-spiegel.md), [Kathleen Brinkman](/entities/person-kathleen-brinkman.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:55](/episodes/ep-cZxHqYsWRYg.md#t-00-12-42) [?] **Candace Owens**: ["A notary testified that Bill Erpenbeck sometimes asked her to notarize documents..."](/statements/statement-3e100f27921d.md)
+  - About: [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr.md), [Erpenbeck Development Company](/entities/org-erpenbeck-development-company.md)
+
+</div>
+<div class="filter-item">
+
+- [00:14:54](/episodes/ep-cZxHqYsWRYg.md#t-00-14-13) [◐] **Candace Owens**: ["Bill Erpenbeck received a 30-year sentence and served 21 years after a later red..."](/statements/statement-29bd878d2ffc.md)
+  - About: [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr.md), [Anthony Erpenbeck Sr.](/entities/person-anthony-erpenbeck-sr.md)
+
+</div>
+<div class="filter-item">
+
+- [00:15:42](/episodes/ep-cZxHqYsWRYg.md#t-00-15-35) [◐] **Candace Owens**: ["Richard Erpenbeck surrendered his Kentucky law license but avoided criminal char..."](/statements/statement-80821100eee7.md)
+  - About: [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md), [Erpenbeck Development Company](/entities/org-erpenbeck-development-company.md)
+
+</div>
+<div class="filter-item">
+
+- [00:15:58](/episodes/ep-cZxHqYsWRYg.md#t-00-15-35) [✓] **Candace Owens**: ["A central issue in Richard Erpenbeck's testimony was why Tony Erpenbeck transfer..."](/statements/statement-244ceec5bd1a.md)
+  - About: [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md), [Anthony Erpenbeck Sr.](/entities/person-anthony-erpenbeck-sr.md)
+
+</div>
+<div class="filter-item">
+
+- [00:21:20](/episodes/ep-cZxHqYsWRYg.md#t-00-20-59) [✓] **Candace Owens**: ["A Yahoo News report said Superfeed Technologies had its Arizona business status ..."](/statements/statement-f8a16cb746f5.md)
+  - About: [Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md), [Kari Lake](/entities/person-kari-lake.md), [Jeff DeWit](/entities/person-jeff-dewit.md)
+
+</div>
+<div class="filter-item">
+
+- [00:27:57](/episodes/ep-cZxHqYsWRYg.md#t-00-27-32) [?] **Candace Owens**: ["Deeds obtained by a researcher listed Lori and Kent Frantzve as a couple from No..."](/statements/statement-0a5691622ac0.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md), [North Kingstown, Rhode Island](/entities/gpe-north-kingstown-rhode-island.md)
+
+</div>
+<div class="filter-item">
+
+- [00:43:06](/episodes/ep-cZxHqYsWRYg.md#t-00-42-38) [?] **Candace Owens**: ["Erika Kirk's social-media posts from 2011 praised Terry Crist and described frie..."](/statements/statement-187f4cec9ba6.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Terry Crist](/entities/person-terry-crist.md), [Judith Crist](/entities/person-judith-crist.md)
+
+</div>
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (3)</summary>
+
+<div class="filter-item">
+
+- [00:19:08](/episodes/ep-jTj9Ip46r4w.md#t-00-18-49) [○] **Candace Owens**: ["A November 10, 1998 final divorce decree types Erika Kirk's name and lists her b..."](/statements/statement-b4de01c0296c.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:28:15](/episodes/ep-jTj9Ip46r4w.md#t-00-28-15) [◐] **Candace Owens**: ["Abraham Polak wrote a researched book arguing that Israelis descend from the Kha..."](/statements/statement-df257682834e.md)
+  - About: [Abraham Polak](/entities/person-abraham-polak.md), [Khazar Khaganate](/entities/gpe-khazar-khaganate.md), [Israel](/entities/gpe-israel.md)
+
+</div>
+<div class="filter-item">
+
+- [00:38:57](/episodes/ep-jTj9Ip46r4w.md#t-00-38-32) [○] **Candace Owens**: ["An obituary from 1970 identifies Erika Kirk's maternal grandmother as Angeline L..."](/statements/statement-12b6fd2f8653.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Cincinnati, Ohio](/entities/gpe-cincinnati-ohio.md)
+
+</div>
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (14)</summary>
+
+<div class="filter-item">
+
+- [00:06:11](/episodes/ep-2tFYJf1klgY.md#t-00-06-06) [○] **Candace Owens**: ["Candace Owens's team could find neither marriage records for Lori Frantzve and K..."](/statements/statement-22de5f4af6e6.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md), [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:52](/episodes/ep-2tFYJf1klgY.md#t-00-09-52) [◐] **Candace Owens**: ["E3Tech's current website says the company participated in Operation Enduring Fre..."](/statements/statement-8192527b76c3.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:26](/episodes/ep-2tFYJf1klgY.md#t-00-09-52) [◐] **Candace Owens**: ["E3Tech received an award for its work connected to Operation Enduring Freedom."](/statements/statement-085b3a803f91.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:34](/episodes/ep-2tFYJf1klgY.md#t-00-12-34) [○] **Candace Owens**: ["A House budget bill listed Intellimet Laboratories as receiving money from the D..."](/statements/statement-02b626588ee5.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [United States Department of Homeland Security](/entities/org-us-department-homeland-security.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:11](/episodes/ep-2tFYJf1klgY.md#t-00-16-51) [◐] **Candace Owens**: ["The Army National Guard disclosed that it gave $2.4 million to Intellimet Labora..."](/statements/statement-7b6d1a9a7d0e.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Army National Guard](/entities/org-army-national-guard.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:21](/episodes/ep-2tFYJf1klgY.md#t-00-18-13) [◐] **Candace Owens**: ["Lori Frantzve established Everyday Heroes Like You in April 2009, and its filing..."](/statements/statement-a1c5a67c330b.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Everyday Heroes Like You](/entities/org-everyday-heroes-like-you.md)
+
+</div>
+<div class="filter-item">
+
+- [00:22:24](/episodes/ep-2tFYJf1klgY.md#t-00-21-58) [◐] **Candace Owens**: ["Jeffrey Epstein's emails from 2009 show him procuring women from Romania, includ..."](/statements/statement-12980285908c.md)
+  - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Romania](/entities/gpe-romania.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:10](/episodes/ep-2tFYJf1klgY.md#t-00-24-45) [◐] **Candace Owens**: ["Erika Kirk was filming November Renaissance in November 2010, and a trailer was ..."](/statements/statement-61b647be82fa.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [November Renaissance](/entities/work-november-renaissance.md), [Kickstarter](/entities/org-kickstarter.md)
+
+</div>
+<div class="filter-item">
+
+- [00:27:36](/episodes/ep-2tFYJf1klgY.md#t-00-27-28) [◐] **Candace Owens**: ["The Black Sea Rotational Force 2010 established a base at Mihail Kogălniceanu Ai..."](/statements/statement-d09c22cec0e4.md)
+  - About: [Black Sea Rotational Force](/entities/org-black-sea-rotational-force.md), [Romania](/entities/gpe-romania.md), [Black Sea](/entities/gpe-black-sea.md)
+
+</div>
+<div class="filter-item">
+
+- [00:37:08](/episodes/ep-2tFYJf1klgY.md#t-00-36-53) [✓] **Candace Owens**: ["Richard William Erpenbeck's Kentucky law license was first removed because he di..."](/statements/statement-5b30f54c6dab.md)
+  - About: [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md)
+
+</div>
+<div class="filter-item">
+
+- [00:37:28](/episodes/ep-2tFYJf1klgY.md#t-00-37-28) [✓] **Candace Owens**: ["A 2007 investigation found that Richard William Erpenbeck failed to tell the Ban..."](/statements/statement-3290b7cb0250.md)
+  - About: [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md), [Bank of Corbin](/entities/org-bank-of-corbin.md)
+
+</div>
+<div class="filter-item">
+
+- [00:38:20](/episodes/ep-2tFYJf1klgY.md#t-00-38-00) [✓] **Candace Owens**: ["William Erpenbeck Jr. transferred 50% of his B&G Holdings stock to Bill Erpenbec..."](/statements/statement-3fac431b5442.md)
+  - About: [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr.md), [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md), [Bill Erpenbeck Children, LLC](/entities/org-bill-erpenbeck-children-llc.md)
+
+</div>
+<div class="filter-item">
+
+- [00:39:36](/episodes/ep-2tFYJf1klgY.md#t-00-39-26) [✓] **Candace Owens**: ["Richard William Erpenbeck prepared but did not record a deed transferring proper..."](/statements/statement-f3cf0c143740.md)
+  - About: [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md), [Anita Andrews](/entities/person-anita-andrews.md)
+
+</div>
+<div class="filter-item">
+
+- [00:40:16](/episodes/ep-2tFYJf1klgY.md#t-00-40-11) [✓] **Candace Owens**: ["Richard William Erpenbeck's Kentucky law license was suspended in August 2009, a..."](/statements/statement-2169a7c2197d.md)
+  - About: [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md)
 
 </div>
 </details>
@@ -14382,7 +16236,7 @@ _2476 statements extracted from podcast episodes._
 </details>
 
 <details open>
-<summary><strong class="section-title">Opinions (252)</strong></summary>
+<summary><strong class="section-title">Opinions (275)</strong></summary>
 
 <details>
 <summary>To My Friend, Charlie Kirk. (2)</summary>
@@ -15831,7 +17685,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:29:17](/episodes/ep-GY6GWceEqtQ.md#t-00-28-53) [○] **Taylor Swift**: ["Taylor Swift wrote that she thought Justin Baldoni knew something was coming bec..."](/statements/statement-3e4d0ffe37fd.md)
-  - About: [Justin Baldoni](/entities/person-justin-baldoni.md), [Blake Lively](/entities/person-blake-lively.md), [The New York Times](/entities/org-new-york-times.md)
+  - About: [Justin Baldoni](/entities/person-justin-baldoni.md), [Blake Lively](/entities/person-blake-lively.md), [The New York Times](/entities/org-the-new-york-times.md)
 
 </div>
 </details>
@@ -15906,7 +17760,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:39:05](/episodes/ep-QdM9jLwjwLw.md#t-00-39-04) [○] **Jeremy Boreing**: ["Hiring Candace Owens was probably the biggest mistake of my professional life so..."](/statements/statement-0862ed4e26eb.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </div>
 <div class="filter-item">
@@ -16180,6 +18034,174 @@ _2476 statements extracted from podcast episodes._
 
 - [00:57:57](/episodes/ep-1hcjQGgvxUY.md#t-00-57-57) [○] **Candace Owens**: ["Candace Owens says it is time for authorities to bring Erika Kirk in because the..."](/statements/statement-810358959098.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (6)</summary>
+
+<div class="filter-item">
+
+- [00:04:11](/episodes/ep-ZAsV0fHGBiM.md#t-00-04-07) [○] **Candace Owens**: ["Something is not right with Erika Kirk."](/statements/statement-21c00b5b4c20.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:19](/episodes/ep-ZAsV0fHGBiM.md#t-00-04-51) [○] **Elizabeth Lane**: ["Erika Kirk is deeply disturbing because of consistent observable patterns of beh..."](/statements/statement-b5bb8b3b3510.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:55](/episodes/ep-ZAsV0fHGBiM.md#t-00-05-35) [○] **Elizabeth Lane**: ["Erika Kirk may be a psychopath."](/statements/statement-c9e257b94777.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:08:01](/episodes/ep-ZAsV0fHGBiM.md#t-00-07-48) [○] **Elizabeth Lane**: ["Erika Kirk appears to pursue proximity to power through television, nonprofits, ..."](/statements/statement-1e58b2ef7600.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:04](/episodes/ep-ZAsV0fHGBiM.md#t-00-08-32) [○] **Elizabeth Lane**: ["Erika Kirk saw Charlie Kirk as a brand and as someone who could become president..."](/statements/statement-1dc901f67b06.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:17](/episodes/ep-ZAsV0fHGBiM.md#t-00-09-17) [○] **Elizabeth Lane**: ["Erika Kirk's public identity changed after her relationship with Charlie Kirk be..."](/statements/statement-2ed73b3574b4.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Christianity](/entities/concept-christianity.md)
+
+</div>
+</details>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (5)</summary>
+
+<div class="filter-item">
+
+- [02:59:13](/episodes/ep-nPhCKwJ6ye8.md#t-02-59-13) [○] **Candace Owens**: ["Candace Owens believes Erika Kirk is underqualified to run Turning Point USA."](/statements/statement-513faa7c49b5.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [03:03:15](/episodes/ep-nPhCKwJ6ye8.md#t-03-03-15) [○] **Candace Owens**: ["Candace Owens believes the theory that Charlie Kirk may have been killed by an e..."](/statements/statement-27a11cc63d15.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Jon Aaron Bray](/entities/person-jon-aaron-bray.md)
+
+</div>
+<div class="filter-item">
+
+- [03:09:20](/episodes/ep-nPhCKwJ6ye8.md#t-03-09-00) [○] **Rob O'Neill**: ["Rob O'Neill said the movement of Charlie Kirk's shirt looked like an explosion t..."](/statements/statement-349dd6aaaa90.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [03:26:38](/episodes/ep-nPhCKwJ6ye8.md#t-03-26-38) [○] **Candace Owens**: ["Candace Owens believes Erika Kirk should be formally questioned because of perce..."](/statements/statement-c8adff2dd148.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [03:57:47](/episodes/ep-nPhCKwJ6ye8.md#t-03-57-15) [○] **Andrew Wilson**: ["Andrew Wilson concluded that no alternative theory presented in the debate had e..."](/statements/statement-d32537eb2441.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+</details>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (4)</summary>
+
+<div class="filter-item">
+
+- [00:00:32](/episodes/ep-1IY2oD-_xVA.md#t-00-00-32) [○] **Anonymous Source #6 (Ep 1IY2oD-_xVA)**: ["An unnamed former partner of Erika Kirk said he no longer recognized who she had..."](/statements/statement-01042ca2803e.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:46:58](/episodes/ep-1IY2oD-_xVA.md#t-00-46-31) [○] **Candace Owens**: ["Candace Owens does not believe Turning Point’s account that Charlie Kirk created..."](/statements/statement-2fd16fcb60f6.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Elon Musk](/entities/person-elon-musk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:49:11](/episodes/ep-1IY2oD-_xVA.md#t-00-48-46) [○] **Erika Kirk**: ["Erika Kirk said pageants were not narcissistic for her but a way to serve as a s..."](/statements/statement-1bf2de798297.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Miss Arizona USA](/entities/org-miss-arizona-usa.md), [Arizona](/entities/gpe-arizona.md)
+
+</div>
+<div class="filter-item">
+
+- [00:49:48](/episodes/ep-1IY2oD-_xVA.md#t-00-49-25) [○] **Candace Owens**: ["Erika Kirk badly wanted to become famous"](/statements/statement-9051b51b3377.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+</details>
+
+<details>
+<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (3)</summary>
+
+<div class="filter-item">
+
+- [00:07:17](/episodes/ep-cZxHqYsWRYg.md#t-00-07-02) [○] **Candace Owens**: ["Candace Owens said that the many unexplained technology LLCs made her mind go to..."](/statements/statement-7c73ac111d64.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:41:38](/episodes/ep-cZxHqYsWRYg.md#t-00-41-29) [○] **Candace Owens**: ["Candace Owens speculated that Erika Kirk's eight-month isolation could have been..."](/statements/statement-eba282bfcd4f.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Christianity](/entities/concept-christianity.md)
+
+</div>
+<div class="filter-item">
+
+- [00:42:58](/episodes/ep-cZxHqYsWRYg.md#t-00-42-38) [○] **Candace Owens**: ["Candace Owens identified City of Grace in Scottsdale only as a possible church c..."](/statements/statement-4a7803c8b511.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [City of Grace Church](/entities/org-city-of-grace-church.md), [Scottsdale, Arizona](/entities/gpe-scottsdale.md)
+
+</div>
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (4)</summary>
+
+<div class="filter-item">
+
+- [00:03:00](/episodes/ep-jTj9Ip46r4w.md#t-00-02-47) [○] **Charlie Kirk**: ["Puritanical ideological approaches to situations such as Iran are not helpful."](/statements/statement-b742385b8ac8.md)
+  - About: [Iran](/entities/gpe-iran.md), [Neoconservatism](/entities/concept-neoconservatism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:04:11](/episodes/ep-jTj9Ip46r4w.md#t-00-04-11) [○] **Charlie Kirk**: ["Donald Trump was doing a phenomenal job resisting calls for regime change in Ira..."](/statements/statement-12710c18ef75.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md), [Neoconservatism](/entities/concept-neoconservatism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:07:06](/episodes/ep-jTj9Ip46r4w.md#t-00-07-04) [○] **Michael McCoy**: ["Mikey McCoy was irritated to see people who did not know Charlie Kirk use his vo..."](/statements/statement-be923152161f.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+<div class="filter-item">
+
+- [00:48:11](/episodes/ep-jTj9Ip46r4w.md#t-00-48-11) [○] **Candace Owens**: ["Erika Kirk is not fit to serve as CEO and chairman of Turning Point USA because ..."](/statements/statement-17956b92e844.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (1)</summary>
+
+<div class="filter-item">
+
+- [00:56:33](/episodes/ep-2tFYJf1klgY.md#t-00-56-00) [○] **Candace Owens**: ["I think prior existing military relationships explain why Erika Kirk is keeping ..."](/statements/statement-7e7c3fd5e4f7.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
 </details>
@@ -24983,7 +27005,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:00:30](/episodes/ep-OEAHy3SsIiI.md#t-00-00-00) [✓] (Claim) **Candace Owens**: ["The Daily Wire seemingly reactivated Candace Owens's old social-media accounts a..."](/statements/statement-5e8c87aa2eec.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
 <div class="filter-item">
@@ -25450,19 +27472,19 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:43:45](/episodes/ep-HYn0P-P1wUw.md#t-00-43-07) [○] (Accusation) **Candace Owens**: ["The Daily Wire had been casting presenters for a show designed specifically to m..."](/statements/statement-c256dab684fa.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
 
 </div>
 <div class="filter-item">
 
 - [00:45:24](/episodes/ep-HYn0P-P1wUw.md#t-00-44-50) [○] (Accusation) **Candace Owens**: ["The Daily Wire selected Madison Bransford to host a show called In the No-No."](/statements/statement-7a95cf8eb79f.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Madison Bransford](/entities/person-madison-bransford.md), [Candace Owens](/entities/person-candace-owens.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Madison Bransford](/entities/person-madison-bransford.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
 <div class="filter-item">
 
 - [00:50:43](/episodes/ep-HYn0P-P1wUw.md#t-00-50-23) [○] (Accusation) **Candace Owens**: ["The Daily Wire's continuing focus on Candace Owens amounts to a dangerous obsess..."](/statements/statement-74ac93f4dc49.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
 <div class="filter-item">
@@ -25515,7 +27537,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:00:45](/episodes/ep-zSKrxIUMNqw.md#t-00-00-00) [◐] (Accusation) **Candace Owens**: ["The Daily Wire has spent two years fighting Candace Owens after she left the com..."](/statements/statement-8f269b375d35.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
 <div class="filter-item">
@@ -25533,7 +27555,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:02:16](/episodes/ep-zSKrxIUMNqw.md#t-00-02-11) [○] (Accusation) **Candace Owens**: ["The Daily Wire designed a new show specifically to mock Candace Owens and Tucker..."](/statements/statement-8d537c2f578a.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
 
 </div>
 <div class="filter-item">
@@ -25563,7 +27585,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:06:43](/episodes/ep-zSKrxIUMNqw.md#t-00-06-11) [○] (Claim) **Maggie Wegner**: ["A Daily Wire producer contacted Maggie Wegner about auditioning for a solo show ..."](/statements/statement-2343c09ee5ca.md)
-  - About: [Maggie Wegner](/entities/person-maggie-wegner.md), [Anonymous Source #2 (Ep zSKrxIUMNqw)](/entities/anon-src-zSKrxIUMNqw-002.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - About: [Maggie Wegner](/entities/person-maggie-wegner.md), [Anonymous Source #2 (Ep zSKrxIUMNqw)](/entities/anon-src-zSKrxIUMNqw-002.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </div>
 <div class="filter-item">
@@ -25581,7 +27603,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:08:26](/episodes/ep-zSKrxIUMNqw.md#t-00-08-12) [○] (Claim) **Maggie Wegner**: ["Maggie Wegner declined to submit the audition because it felt untrue and like hi..."](/statements/statement-c4a08b48a105.md)
-  - About: [Maggie Wegner](/entities/person-maggie-wegner.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - About: [Maggie Wegner](/entities/person-maggie-wegner.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </div>
 <div class="filter-item">
@@ -25593,13 +27615,13 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:12:24](/episodes/ep-zSKrxIUMNqw.md#t-00-11-46) [○] (Claim) **Candace Owens**: ["Maggie Wegner did not receive the Daily Wire role after declining to make the au..."](/statements/statement-564a2d8e110c.md)
-  - About: [Maggie Wegner](/entities/person-maggie-wegner.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - About: [Maggie Wegner](/entities/person-maggie-wegner.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </div>
 <div class="filter-item">
 
 - [00:14:33](/episodes/ep-zSKrxIUMNqw.md#t-00-13-54) [○] (Accusation) **Candace Owens**: ["Jeremy Boreing publicly identified Owens's views that genocide is always wrong a..."](/statements/statement-22bf3ad02120.md)
-  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </div>
 <div class="filter-item">
@@ -25695,7 +27717,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:22:31](/episodes/ep-zSKrxIUMNqw.md#t-00-22-03) [○] (Accusation) **Anonymous Source #3 (Ep zSKrxIUMNqw)**: ["A Breitbart executive told Candace Owens and Charlie Kirk that Ben Shapiro start..."](/statements/statement-c6e9c9f99b51.md)
-  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [The Daily Wire](/entities/org-daily-wire.md), [Breitbart News](/entities/org-breitbart-news.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Breitbart News](/entities/org-breitbart-news.md)
 
 </div>
 <div class="filter-item">
@@ -25731,7 +27753,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:27:30](/episodes/ep-zSKrxIUMNqw.md#t-00-26-53) [◐] (Claim) **Candace Owens**: ["The Daily Wire was being built quietly by the end of 2015 but lacked the support..."](/statements/statement-bf654a3ba7de.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Breitbart News](/entities/org-breitbart-news.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Breitbart News](/entities/org-breitbart-news.md)
 
 </div>
 <div class="filter-item">
@@ -25767,7 +27789,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:31:43](/episodes/ep-zSKrxIUMNqw.md#t-00-31-09) [◐] (Accusation) **Candace Owens**: ["The Daily Wire pursued Candace Owens through litigation, donor pressure, and int..."](/statements/statement-a5535fb1488b.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
 <div class="filter-item">
@@ -25797,7 +27819,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:39:34](/episodes/ep-zSKrxIUMNqw.md#t-00-39-32) [○] (Accusation) **Candace Owens**: ["The Daily Wire threatened to reduce Candace Owens's contract unless she publicly..."](/statements/statement-ced70ad0f846.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Kanye West](/entities/person-kanye-west.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Kanye West](/entities/person-kanye-west.md)
 
 </div>
 <div class="filter-item">
@@ -25905,7 +27927,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:57:00](/episodes/ep-zSKrxIUMNqw.md#t-00-57-00) [◐] (Accusation) **Candace Owens**: ["Candace Owens said she believed chicken feed had been poisoned, questioned wheth..."](/statements/statement-2eca0af8616c.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Perdue Farms](/entities/org-perdue-farms.md), [Pharmaceutical industry](/entities/concept-pharmaceutical-industry.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Perdue Farms](/entities/org-perdue-farms.md), [Pharmaceutical industry](/entities/concept-pharmaceutical-industry.md)
 
 </div>
 <div class="filter-item">
@@ -26162,7 +28184,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:52:18](/episodes/ep-wcD2khO3rOA.md#t-00-51-36) [✓] (Claim) **The Washington Post**: ["In 1997, Moon-affiliated organizations controlled more than $300 million in Wash..."](/statements/statement-44e4197a4f21.md)
-  - About: [Sun Myung Moon](/entities/person-sun-myung-moon.md), [Unification Church](/entities/org-unification-church.md), [Washington, D.C.](/entities/gpe-washington-dc.md)
+  - About: [Sun Myung Moon](/entities/person-sun-myung-moon.md), [Unification Church](/entities/org-unification-church.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
 </div>
 <div class="filter-item">
@@ -26658,7 +28680,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:07:11](/episodes/ep-ZZGWo6oDscc.md#t-00-07-08) [◐] (Accusation) **Candace Owens**: ["I think personally he's got the largest blackmail file, whatever Israel has on h..."](/statements/statement-7c2487d3cfc3.md)
-  - About: [Lindsey Graham](/entities/person-lindsey-graham.md), [Israel](/entities/gpe-israel.md), [Washington, D.C.](/entities/gpe-washington-dc.md)
+  - About: [Lindsey Graham](/entities/person-lindsey-graham.md), [Israel](/entities/gpe-israel.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
 </div>
 <div class="filter-item">
@@ -27057,7 +29079,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:05:35](/episodes/ep-X92MllIHDzw.md#t-00-05-32) [◐] (Claim) **Candace Owens**: ["Don Frye trained in judo at Fort Huachuca after graduating from high school in S..."](/statements/statement-b2356e346ac8.md)
-  - About: [Don Frye](/entities/person-don-frye.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Sierra Vista](/entities/gpe-sierra-vista-arizona.md)
+  - About: [Don Frye](/entities/person-don-frye.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Sierra Vista](/entities/gpe-sierra-vista.md)
 
 </div>
 <div class="filter-item">
@@ -27080,7 +29102,7 @@ _2476 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:10:39](/episodes/ep-X92MllIHDzw.md#t-00-10-12) [✓] (Citation) **Candace Owens**: ["November Renaissance was never released despite updates through 2017."](/statements/statement-5e118bcecd65.md)
+- [00:10:39](/episodes/ep-X92MllIHDzw.md#t-00-10-12) [✓] (Citation) **Candace Owens**: ["November Renaissance was never released."](/statements/statement-5e118bcecd65.md)
   - About: [November Renaissance](/entities/work-november-renaissance.md), [Kickstarter](/entities/org-kickstarter.md)
 
 </div>
@@ -27426,7 +29448,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:27:51](/episodes/ep-2T39-oADLj0.md#t-00-27-50) [◐] (Claim) **Candace Owens**: ["The Daily Wire fired Candace Owens in March 2024 without advance warning."](/statements/statement-27686b3d8a63.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
 <div class="filter-item">
@@ -27462,7 +29484,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:49:22](/episodes/ep-2T39-oADLj0.md#t-00-49-21) [○] (Claim) **Candace Owens**: ["Candace Owens began working on a Harvey Weinstein documentary while at The Daily..."](/statements/statement-0c30f70d631d.md)
-  - About: [Harvey Weinstein](/entities/person-harvey-weinstein.md), [The Daily Wire](/entities/org-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
+  - About: [Harvey Weinstein](/entities/person-harvey-weinstein.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
 <div class="filter-item">
@@ -27713,7 +29735,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:25:20](/episodes/ep-NIEbqsLAK8g.md#t-00-25-07) [○] (Claim) **Gary Melton**: ["UVU law enforcement required Gary Melton's team to ground its drone, after which..."](/statements/statement-b2e19b557fe5.md)
-  - About: [Gary Melton](/entities/person-gary-melton.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Federal Aviation Administration](/entities/org-federal-aviation-administration.md)
+  - About: [Gary Melton](/entities/person-gary-melton.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Federal Aviation Administration](/entities/org-faa.md)
 
 </div>
 <div class="filter-item">
@@ -28239,7 +30261,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:29:17](/episodes/ep-GY6GWceEqtQ.md#t-00-28-53) [○] (Opinion) **Taylor Swift**: ["Taylor Swift wrote that she thought Justin Baldoni knew something was coming bec..."](/statements/statement-3e4d0ffe37fd.md)
-  - About: [Justin Baldoni](/entities/person-justin-baldoni.md), [Blake Lively](/entities/person-blake-lively.md), [The New York Times](/entities/org-new-york-times.md)
+  - About: [Justin Baldoni](/entities/person-justin-baldoni.md), [Blake Lively](/entities/person-blake-lively.md), [The New York Times](/entities/org-the-new-york-times.md)
 
 </div>
 <div class="filter-item">
@@ -28561,7 +30583,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:06:18](/episodes/ep-A39g5oqB_eM.md#t-00-05-46) [✓] (Claim) **Candace Owens**: ["Erika Kirk gave an in-person interview with The New York Times at her and Charli..."](/statements/statement-b7d0dbdedd99.md)
-  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [The New York Times](/entities/org-new-york-times.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [The New York Times](/entities/org-the-new-york-times.md)
 
 </div>
 <div class="filter-item">
@@ -28884,7 +30906,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:39:05](/episodes/ep-QdM9jLwjwLw.md#t-00-39-04) [○] (Opinion) **Jeremy Boreing**: ["Hiring Candace Owens was probably the biggest mistake of my professional life so..."](/statements/statement-0862ed4e26eb.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </div>
 <div class="filter-item">
@@ -28926,19 +30948,19 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:46:53](/episodes/ep-QdM9jLwjwLw.md#t-00-46-30) [◐] (Accusation) **Candace Owens**: ["Owens said she was told Jeremy Boreing spent about $67 million on his film proje..."](/statements/statement-e105cd32e317.md)
-  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </div>
 <div class="filter-item">
 
 - [00:47:18](/episodes/ep-QdM9jLwjwLw.md#t-00-46-53) [○] (Accusation) **Candace Owens**: ["The Daily Wire emptied a savings account and borrowed money personally from Ben ..."](/statements/statement-ddbe7f83380d.md)
-  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </div>
 <div class="filter-item">
 
 - [00:50:36](/episodes/ep-QdM9jLwjwLw.md#t-00-50-24) [○] (Accusation) **Candace Owens**: ["Owens sarcastically characterized The Daily Wire's decision as a plan to create ..."](/statements/statement-6470de56359a.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md), [Jeremy Boreing](/entities/person-jeremy-boreing.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Jeremy Boreing](/entities/person-jeremy-boreing.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </div>
 <div class="filter-item">
@@ -28950,43 +30972,43 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:51:28](/episodes/ep-QdM9jLwjwLw.md#t-00-51-07) [○] (Accusation) **Candace Owens**: ["The Daily Wire's management believed firing me would produce mass subscriptions ..."](/statements/statement-6de1995a2afb.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </div>
 <div class="filter-item">
 
 - [00:52:27](/episodes/ep-QdM9jLwjwLw.md#t-00-51-50) [○] (Accusation) **Candace Owens**: ["Jeremy Boreing sent an intern to follow me to a Turning Point USA event in Dalla..."](/statements/statement-c88afe6fd106.md)
-  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </div>
 <div class="filter-item">
 
 - [00:53:15](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11) [○] (Accusation) **Candace Owens**: ["Jeremy Boreing told Brett Cooper a few weeks before her wedding that she should ..."](/statements/statement-f49b5ad7509e.md)
-  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Brett Cooper](/entities/person-brett-cooper.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Brett Cooper](/entities/person-brett-cooper.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </div>
 <div class="filter-item">
 
 - [00:54:07](/episodes/ep-QdM9jLwjwLw.md#t-00-53-54) [◐] (Accusation) **Candace Owens**: ["The Daily Wire offered Brett Cooper's maid of honor a large sum to replace Coope..."](/statements/statement-1910477f2c11.md)
-  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Brett Cooper](/entities/person-brett-cooper.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Brett Cooper](/entities/person-brett-cooper.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </div>
 <div class="filter-item">
 
 - [00:55:57](/episodes/ep-QdM9jLwjwLw.md#t-00-55-17) [○] (Claim) **Candace Owens**: ["Jeremy Boreing admitted to me that he had a mental breakdown in Hungary and did ..."](/statements/statement-db0eae515314.md)
-  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Hungary](/entities/gpe-hungary.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Hungary](/entities/gpe-hungary.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </div>
 <div class="filter-item">
 
 - [01:03:05](/episodes/ep-QdM9jLwjwLw.md#t-01-02-58) [○] (Accusation) **Candace Owens**: ["Jeremy Boreing repeatedly threatened that The Daily Wire would bankrupt me if I ..."](/statements/statement-41320863a4cd.md)
-  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </div>
 <div class="filter-item">
 
 - [01:08:14](/episodes/ep-QdM9jLwjwLw.md#t-01-08-08) [○] (Claim) **Candace Owens**: ["The Daily Wire denied my request to host Bassem Youssef while I worked there."](/statements/statement-97b38798c1ab.md)
-  - About: [Bassem Youssef](/entities/person-bassem-youssef.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - About: [Bassem Youssef](/entities/person-bassem-youssef.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </div>
 </details>
@@ -28997,7 +31019,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:02:52](/episodes/ep-xjzb_t5Tk9o.md#t-00-02-28) [○] (Accusation) **Candace Owens**: ["The Daily Wire refused to host Bassem Youssef because he had hurt Ben Shapiro's ..."](/statements/statement-07991641f9f1.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Bassem Youssef](/entities/person-bassem-youssef.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Bassem Youssef](/entities/person-bassem-youssef.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
 
 </div>
 <div class="filter-item">
@@ -29027,7 +31049,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:10:07](/episodes/ep-xjzb_t5Tk9o.md#t-00-10-07) [○] (Accusation) **Candace Owens**: ["The Daily Wire sued Candace Owens for letting USS Liberty survivor Phil Tourney ..."](/statements/statement-2bff31e56fad.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Phil Tourney](/entities/person-phil-tourney.md), [USS Liberty](/entities/vehicle-uss-liberty.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Phil Tourney](/entities/person-phil-tourney.md), [USS Liberty](/entities/vehicle-uss-liberty.md)
 
 </div>
 <div class="filter-item">
@@ -29213,7 +31235,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [01:06:21](/episodes/ep-xjzb_t5Tk9o.md#t-01-06-12) [○] (Accusation) **Candace Owens**: ["The media company where Candace Owens worked used her to appear committed to fre..."](/statements/statement-2a737a7f8122.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Israel](/entities/gpe-israel.md), [Candace Owens](/entities/person-candace-owens.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Israel](/entities/gpe-israel.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
 <div class="filter-item">
@@ -29249,13 +31271,13 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [01:23:49](/episodes/ep-xjzb_t5Tk9o.md#t-01-23-21) [◐] (Accusation) **Bassem Youssef**: ["The New York Times published a completely fabricated rape story whose named Isra..."](/statements/statement-9d5a06e8c485.md)
-  - About: [The New York Times](/entities/org-new-york-times.md), [Israel](/entities/gpe-israel.md)
+  - About: [The New York Times](/entities/org-the-new-york-times.md), [Israel](/entities/gpe-israel.md)
 
 </div>
 <div class="filter-item">
 
 - [01:24:42](/episodes/ep-xjzb_t5Tk9o.md#t-01-24-42) [◐] (Citation) **Bassem Youssef**: ["Israeli media reported the Hannibal Directive, Israeli soldiers killing Israelis..."](/statements/statement-dffdfa972b19.md)
-  - About: [Israel Defense Forces](/entities/org-israel-defense-forces.md), [Israel](/entities/gpe-israel.md), [The New York Times](/entities/org-new-york-times.md)
+  - About: [Israel Defense Forces](/entities/org-israel-defense-forces.md), [Israel](/entities/gpe-israel.md), [The New York Times](/entities/org-the-new-york-times.md)
 
 </div>
 <div class="filter-item">
@@ -29996,7 +32018,7 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:34:20](/episodes/ep-QRS_hR7NXaQ.md#t-00-33-44) [✓] (Promise) **Candace Owens**: ["Candace Owens will speak at the Catholics for Catholics conference in Washington..."](/statements/statement-2ebb604e6d76.md)
-  - About: [Catholics for Catholics](/entities/org-catholics-for-catholics.md), [Washington, D.C.](/entities/gpe-washington-dc.md)
+  - About: [Catholics for Catholics](/entities/org-catholics-for-catholics.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
 </div>
 <div class="filter-item">
@@ -30014,25 +32036,25 @@ _2476 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:35:57](/episodes/ep-QRS_hR7NXaQ.md#t-00-35-44) [✓] (Promise) **John Yep**: ["Catholics for Catholics announced Candace Owens as a keynote speaker at its Nati..."](/statements/statement-4d40eb78d0bf.md)
-  - About: [Catholics for Catholics](/entities/org-catholics-for-catholics.md), [Candace Owens](/entities/person-candace-owens.md), [Washington, D.C.](/entities/gpe-washington-dc.md)
+  - About: [Catholics for Catholics](/entities/org-catholics-for-catholics.md), [Candace Owens](/entities/person-candace-owens.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
 </div>
 <div class="filter-item">
 
 - [00:37:48](/episodes/ep-QRS_hR7NXaQ.md#t-00-37-23) [○] (Accusation) **Candace Owens**: ["Candace Owens suspects Daily Wire producers write questions Ben Shapiro wants as..."](/statements/statement-55512d36c4be.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
 <div class="filter-item">
 
 - [00:41:24](/episodes/ep-QRS_hR7NXaQ.md#t-00-41-24) [○] (Accusation) **Candace Owens**: ["At the Daily Wire, Alyssa Cordova kept a file of Candace Owens show clips that w..."](/statements/statement-73aa9a3c1cfa.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Alyssa Cordova](/entities/person-alyssa-cordova.md), [Candace Owens](/entities/person-candace-owens.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Alyssa Cordova](/entities/person-alyssa-cordova.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
 <div class="filter-item">
 
 - [00:41:57](/episodes/ep-QRS_hR7NXaQ.md#t-00-41-24) [○] (Accusation) **Candace Owens**: ["The Daily Wire pays people to circulate clips that call Candace Owens an idiot o..."](/statements/statement-ecae9e46acd2.md)
-  - About: [The Daily Wire](/entities/org-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Antisemitism](/entities/concept-antisemitism.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Antisemitism](/entities/concept-antisemitism.md)
 
 </div>
 <div class="filter-item">
@@ -31093,13 +33115,13 @@ _2476 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:02:38](/episodes/ep-1hcjQGgvxUY.md#t-00-02-36) [○] (Claim) **Anonymous Source #1 (Ep 1hcjQGgvxUY)**: ["In 2013, Erika Kirk was 25, was dating Josh Harrellson, and moved to Michigan to..."](/statements/statement-2be9ff2592e5.md)
+- [00:02:38](/episodes/ep-1hcjQGgvxUY.md#t-00-02-36) [◐] (Claim) **Anonymous Source #1 (Ep 1hcjQGgvxUY)**: ["In 2013, Erika Kirk was 25, was dating Josh Harrellson, and moved to Michigan to..."](/statements/statement-2be9ff2592e5.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Josh Harrellson](/entities/person-josh-harrellson.md), [Michigan](/entities/gpe-michigan.md)
 
 </div>
 <div class="filter-item">
 
-- [00:02:48](/episodes/ep-1hcjQGgvxUY.md#t-00-02-36) [○] (Claim) **Anonymous Source #1 (Ep 1hcjQGgvxUY)**: ["On September 15, 2013, Josh Harrellson and Erika Kirk met 15-year-old Jillian Fa..."](/statements/statement-b8d25b60927f.md)
+- [00:02:48](/episodes/ep-1hcjQGgvxUY.md#t-00-02-36) [◐] (Claim) **Anonymous Source #1 (Ep 1hcjQGgvxUY)**: ["On September 15, 2013, Josh Harrellson and Erika Kirk met 15-year-old Jillian Fa..."](/statements/statement-b8d25b60927f.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Josh Harrellson](/entities/person-josh-harrellson.md), [Jillian Falcon](/entities/person-jillian-falcon.md)
 
 </div>
@@ -31165,7 +33187,7 @@ _2476 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:18:13](/episodes/ep-1hcjQGgvxUY.md#t-00-18-13) [○] (Claim) **Candace Owens**: ["Turning Point USA headquarters is almost directly across the street from Arizona..."](/statements/statement-222bc2b6d8aa.md)
+- [00:18:13](/episodes/ep-1hcjQGgvxUY.md#t-00-18-13) [◐] (Claim) **Candace Owens**: ["Turning Point USA headquarters is almost directly across the street from Arizona..."](/statements/statement-222bc2b6d8aa.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Arizona Mills](/entities/org-arizona-mills.md)
 
 </div>
@@ -31177,19 +33199,19 @@ _2476 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:19:18](/episodes/ep-1hcjQGgvxUY.md#t-00-18-57) [○] (Citation) **Candace Owens**: ["According to its website, Phoenix Dream Center provides residential rehabilitati..."](/statements/statement-77660a0217f8.md)
+- [00:19:18](/episodes/ep-1hcjQGgvxUY.md#t-00-18-57) [✓] (Citation) **Candace Owens**: ["According to its website, Phoenix Dream Center provides residential rehabilitati..."](/statements/statement-77660a0217f8.md)
   - About: [Phoenix Dream Center](/entities/org-phoenix-dream-center.md)
 
 </div>
 <div class="filter-item">
 
-- [00:20:03](/episodes/ep-1hcjQGgvxUY.md#t-00-19-36) [○] (Claim) **Candace Owens**: ["Stacey Sheridan's résumé says she worked in Kenneth Starr's Pepperdine Universit..."](/statements/statement-768813e26649.md)
+- [00:20:03](/episodes/ep-1hcjQGgvxUY.md#t-00-19-36) [✓] (Claim) **Candace Owens**: ["Stacey Sheridan's résumé says she worked in Kenneth Starr's Pepperdine Universit..."](/statements/statement-768813e26649.md)
   - About: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Kenneth Starr](/entities/person-kenneth-starr.md), [Pepperdine University](/entities/org-pepperdine-university.md)
 
 </div>
 <div class="filter-item">
 
-- [00:20:25](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09) [○] (Claim) **Candace Owens**: ["Stacey Sheridan is not Erika Kirk's biological mother; Lori Frantzve is."](/statements/statement-8d0169d15c59.md)
+- [00:20:25](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09) [✓] (Claim) **Candace Owens**: ["Stacey Sheridan is not Erika Kirk's biological mother; Lori Frantzve is."](/statements/statement-8d0169d15c59.md)
   - About: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </div>
@@ -31207,7 +33229,7 @@ _2476 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:22:32](/episodes/ep-1hcjQGgvxUY.md#t-00-22-02) [○] (Claim) **Candace Owens**: ["On the day Charlie Kirk was assassinated, Erika Kirk tweeted at 9:45 a.m. Arizon..."](/statements/statement-32a5c5f80f7b.md)
+- [00:22:32](/episodes/ep-1hcjQGgvxUY.md#t-00-22-02) [✓] (Claim) **Candace Owens**: ["On the day Charlie Kirk was assassinated, Erika Kirk tweeted at 9:45 a.m. Arizon..."](/statements/statement-32a5c5f80f7b.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Twitter](/entities/org-twitter.md)
 
 </div>
@@ -31225,7 +33247,7 @@ _2476 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:30:37](/episodes/ep-1hcjQGgvxUY.md#t-00-30-37) [○] (Citation) **Anonymous Source #2 (Ep 1hcjQGgvxUY)**: ["An anonymous TikTok creator says 40 FBI briefings mention a color of the day, an..."](/statements/statement-09584b6cf183.md)
+- [00:30:37](/episodes/ep-1hcjQGgvxUY.md#t-00-30-37) [✗] (Citation) **Anonymous Source #2 (Ep 1hcjQGgvxUY)**: ["An anonymous TikTok creator says 40 FBI briefings mention a color of the day, an..."](/statements/statement-09584b6cf183.md)
   - About: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [United States Department of Justice](/entities/org-united-states-department-of-justice.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
@@ -31237,7 +33259,7 @@ _2476 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:34:09](/episodes/ep-1hcjQGgvxUY.md#t-00-34-01) [○] (Claim) **Turning Point USA**: ["Erika Kirk moved the wedding photograph to a lower studio shelf when her daughte..."](/statements/statement-cc46782599d2.md)
+- [00:34:09](/episodes/ep-1hcjQGgvxUY.md#t-00-34-01) [✓] (Claim) **Turning Point USA**: ["Erika Kirk moved the wedding photograph to a lower studio shelf when her daughte..."](/statements/statement-cc46782599d2.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
@@ -31279,43 +33301,43 @@ _2476 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:42:58](/episodes/ep-1hcjQGgvxUY.md#t-00-42-25) [○] (Claim) **Jared Moskowitz**: ["The administration did not voluntarily release the Epstein files; Congress force..."](/statements/statement-1eb05d7db07d.md)
+- [00:42:58](/episodes/ep-1hcjQGgvxUY.md#t-00-42-25) [✓] (Claim) **Jared Moskowitz**: ["The administration did not voluntarily release the Epstein files; Congress force..."](/statements/statement-1eb05d7db07d.md)
   - About: [White House](/entities/org-white-house.md), [United States Congress](/entities/org-united-states-congress.md), [Epstein Files](/entities/work-epstein-files.md)
 
 </div>
 <div class="filter-item">
 
-- [00:43:20](/episodes/ep-1hcjQGgvxUY.md#t-00-43-07) [○] (Accusation) **Jared Moskowitz**: ["Kash Patel testified that the FBI had no criminal evidence Epstein trafficked gi..."](/statements/statement-3d79e5904e4e.md)
+- [00:43:20](/episodes/ep-1hcjQGgvxUY.md#t-00-43-07) [◐] (Accusation) **Jared Moskowitz**: ["Kash Patel testified that the FBI had no criminal evidence Epstein trafficked gi..."](/statements/statement-3d79e5904e4e.md)
   - About: [Kash Patel](/entities/person-kash-patel.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
 
 </div>
 <div class="filter-item">
 
-- [00:43:43](/episodes/ep-1hcjQGgvxUY.md#t-00-43-07) [○] (Claim) **Jared Moskowitz**: ["Ghislaine Maxwell says 29 Epstein associates cut secret Justice Department deals..."](/statements/statement-8bfdc85db6dc.md)
+- [00:43:43](/episodes/ep-1hcjQGgvxUY.md#t-00-43-07) [◐] (Claim) **Jared Moskowitz**: ["Ghislaine Maxwell says 29 Epstein associates cut secret Justice Department deals..."](/statements/statement-8bfdc85db6dc.md)
   - About: [Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [United States Department of Justice](/entities/org-united-states-department-of-justice.md)
 
 </div>
 <div class="filter-item">
 
-- [00:44:00](/episodes/ep-1hcjQGgvxUY.md#t-00-43-52) [○] (Accusation) **Jared Moskowitz**: ["Jared Moskowitz says Kash Patel's under-oath claim that Donald Trump's name appe..."](/statements/statement-960b5ebf630c.md)
+- [00:44:00](/episodes/ep-1hcjQGgvxUY.md#t-00-43-52) [✓] (Accusation) **Jared Moskowitz**: ["Jared Moskowitz says Kash Patel's under-oath claim that Donald Trump's name appe..."](/statements/statement-960b5ebf630c.md)
   - About: [Kash Patel](/entities/person-kash-patel.md), [Donald J. Trump](/entities/person-donald-trump.md), [Epstein Files](/entities/work-epstein-files.md)
 
 </div>
 <div class="filter-item">
 
-- [00:44:42](/episodes/ep-1hcjQGgvxUY.md#t-00-44-37) [○] (Claim) **Jared Moskowitz**: ["Howard Lutnick and his family were on Epstein Island in 2012, after Epstein plea..."](/statements/statement-f7d3e61fbb17.md)
+- [00:44:42](/episodes/ep-1hcjQGgvxUY.md#t-00-44-37) [✓] (Claim) **Jared Moskowitz**: ["Howard Lutnick and his family were on Epstein Island in 2012, after Epstein plea..."](/statements/statement-f7d3e61fbb17.md)
   - About: [Howard Lutnick](/entities/person-howard-lutnick.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Little Saint James](/entities/gpe-little-saint-james.md)
 
 </div>
 <div class="filter-item">
 
-- [00:44:57](/episodes/ep-1hcjQGgvxUY.md#t-00-44-37) [○] (Citation) **Jared Moskowitz**: ["Documents in the Epstein files dispute Donald Trump's claim that he expelled Jef..."](/statements/statement-049d7908ab42.md)
+- [00:44:57](/episodes/ep-1hcjQGgvxUY.md#t-00-44-37) [✓] (Citation) **Jared Moskowitz**: ["Documents in the Epstein files dispute Donald Trump's claim that he expelled Jef..."](/statements/statement-049d7908ab42.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Epstein Files](/entities/work-epstein-files.md)
 
 </div>
 <div class="filter-item">
 
-- [00:46:47](/episodes/ep-1hcjQGgvxUY.md#t-00-46-41) [○] (Claim) **Pam Bondi**: ["The Trump administration released more than three million pages of documents, an..."](/statements/statement-1bed1a88852c.md)
+- [00:46:47](/episodes/ep-1hcjQGgvxUY.md#t-00-46-41) [✓] (Claim) **Pam Bondi**: ["The Trump administration released more than three million pages of documents, an..."](/statements/statement-1bed1a88852c.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [White House](/entities/org-white-house.md), [Epstein Files](/entities/work-epstein-files.md)
 
 </div>
@@ -31327,7 +33349,7 @@ _2476 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:47:26](/episodes/ep-1hcjQGgvxUY.md#t-00-47-26) [○] (Claim) **Pam Bondi**: ["The Dow is above 50,000, the S&P is near 7,000, the NASDAQ is setting records, a..."](/statements/statement-ba3e36bb7d5a.md)
+- [00:47:26](/episodes/ep-1hcjQGgvxUY.md#t-00-47-26) [◐] (Claim) **Pam Bondi**: ["The Dow is above 50,000, the S&P is near 7,000, the NASDAQ is setting records, a..."](/statements/statement-ba3e36bb7d5a.md)
   - About: [Dow Jones Industrial Average](/entities/concept-dow-jones-industrial-average.md), [S&P 500](/entities/concept-sp-500.md), [Nasdaq Composite](/entities/concept-nasdaq-composite.md)
 
 </div>
@@ -31351,8 +33373,1925 @@ _2476 statements extracted from podcast episodes._
 </div>
 </details>
 
+<details>
+<summary><strong>Coming soon...</strong> (5)</summary>
+
+<div class="filter-item">
+
+- [00:00:06](/episodes/ep-LKR94FQ5p3o.md#t-00-00-06) [✓] (Claim) **Donald J. Trump**: ["The great and even legendary Charlie Kirk is dead."](/statements/statement-8b4427689f08.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:00:30](/episodes/ep-LKR94FQ5p3o.md#t-00-00-30) [✓] (Claim) **Anonymous Source #1 (Ep LKR94FQ5p3o)**: ["Erika Kirk has been named the new CEO of Turning Point USA."](/statements/statement-916bcba24c0f.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:00:46](/episodes/ep-LKR94FQ5p3o.md#t-00-00-46) [?] (Claim) **Erika Kirk**: ["We have 50,000-plus hat orders."](/statements/statement-7f561a4b45f5.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:00:49](/episodes/ep-LKR94FQ5p3o.md#t-00-00-49) [◐] (Claim) **Anonymous Source #2 (Ep LKR94FQ5p3o)**: ["Nobody knows why she's out there in a glittering pantsuit in a recreated tent th..."](/statements/statement-142bb554e60f.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:01:02](/episodes/ep-LKR94FQ5p3o.md#t-00-01-02) [?] (Accusation) **Anonymous Source #3 (Ep LKR94FQ5p3o)**: ["Zionists, the Prime Minister of Israel (Benjamin Netanyahu), all lied through th..."](/statements/statement-366f47c962a4.md)
+  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+</details>
+
+<details>
+<summary><strong>Bride Of Charlie: A Wrinkle In Time | Episode 1</strong> (55)</summary>
+
+<div class="filter-item">
+
+- [00:00:00](/episodes/ep-ZAsV0fHGBiM.md#t-00-00-00) [◐] (Accusation) **Candace Owens**: ["Erika Kirk, despite having no professional qualifications, was placed at the top..."](/statements/statement-e96658700847.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:00:31](/episodes/ep-ZAsV0fHGBiM.md#t-00-00-00) [◐] (Claim) **Candace Owens**: ["Turning Point USA does not pay tax on the quarter-billion-plus dollars it receiv..."](/statements/statement-ee0c911aae60.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Pierre Falcone](/entities/person-pierre-falcone.md)
+
+</div>
+<div class="filter-item">
+
+- [00:04:11](/episodes/ep-ZAsV0fHGBiM.md#t-00-04-07) [○] (Opinion) **Candace Owens**: ["Something is not right with Erika Kirk."](/statements/statement-21c00b5b4c20.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:04:17](/episodes/ep-ZAsV0fHGBiM.md#t-00-04-07) [✓] (Citation) **Candace Owens**: ["A signed letter from the U.S. Secretary of the Treasury described Turning Point ..."](/statements/statement-174f3df4d506.md)
+  - About: [United States Department of the Treasury](/entities/org-united-states-department-of-the-treasury.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:19](/episodes/ep-ZAsV0fHGBiM.md#t-00-04-51) [○] (Opinion) **Elizabeth Lane**: ["Erika Kirk is deeply disturbing because of consistent observable patterns of beh..."](/statements/statement-b5bb8b3b3510.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:55](/episodes/ep-ZAsV0fHGBiM.md#t-00-05-35) [○] (Opinion) **Elizabeth Lane**: ["Erika Kirk may be a psychopath."](/statements/statement-c9e257b94777.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:08:01](/episodes/ep-ZAsV0fHGBiM.md#t-00-07-48) [○] (Opinion) **Elizabeth Lane**: ["Erika Kirk appears to pursue proximity to power through television, nonprofits, ..."](/statements/statement-1e58b2ef7600.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:04](/episodes/ep-ZAsV0fHGBiM.md#t-00-08-32) [○] (Opinion) **Elizabeth Lane**: ["Erika Kirk saw Charlie Kirk as a brand and as someone who could become president..."](/statements/statement-1dc901f67b06.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:17](/episodes/ep-ZAsV0fHGBiM.md#t-00-09-17) [○] (Opinion) **Elizabeth Lane**: ["Erika Kirk's public identity changed after her relationship with Charlie Kirk be..."](/statements/statement-2ed73b3574b4.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Christianity](/entities/concept-christianity.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:54](/episodes/ep-ZAsV0fHGBiM.md#t-00-10-44) [✓] (Claim) **Elizabeth Lane**: ["Just days after Charlie Kirk's death, Erika Kirk was laying out ambitious plans ..."](/statements/statement-abcccb467cb0.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:35](/episodes/ep-ZAsV0fHGBiM.md#t-00-11-29) [○] (Citation) **Candace Owens**: ["Candace Owens spoke with Erika Kirk's former boyfriends and old classmates while..."](/statements/statement-2665222525b1.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:32](/episodes/ep-ZAsV0fHGBiM.md#t-00-12-10) [✗] (Claim) **Candace Owens**: ["Modern psychology was created by German mystical Jews who practiced the occult."](/statements/statement-fd613744a507.md)
+  - About: [Judaism](/entities/concept-judaism.md), [Sigmund Freud](/entities/person-sigmund-freud.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:53](/episodes/ep-ZAsV0fHGBiM.md#t-00-12-53) [◐] (Citation) **Candace Owens**: ["The Assault on Truth lays out a direct relationship between modern psychology, c..."](/statements/statement-31763746fb3c.md)
+  - About: [The Assault on Truth: Freud's Suppression of the Seduction Theory](/entities/work-the-assault-on-truth.md), [Sigmund Freud](/entities/person-sigmund-freud.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:04](/episodes/ep-ZAsV0fHGBiM.md#t-00-12-53) [◐] (Claim) **Candace Owens**: ["The author of The Assault on Truth controlled the Sigmund Freud Archives and los..."](/statements/statement-4498ab606dc4.md)
+  - About: [The Assault on Truth: Freud's Suppression of the Seduction Theory](/entities/work-the-assault-on-truth.md), [Sigmund Freud](/entities/person-sigmund-freud.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:38](/episodes/ep-ZAsV0fHGBiM.md#t-00-13-33) [○] (Accusation) **Candace Owens**: ["The Manson murders and the events of the 1960s were the U.S. government and CIA ..."](/statements/statement-58c0cd378779.md)
+  - About: [Charles Manson](/entities/person-charles-manson.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [John F. Kennedy](/entities/person-john-f-kennedy.md)
+
+</div>
+<div class="filter-item">
+
+- [00:14:20](/episodes/ep-ZAsV0fHGBiM.md#t-00-14-13) [✗] (Accusation) **Candace Owens**: ["If you think that MKUltra ever stopped, I hope that the Epstein files and the st..."](/statements/statement-2f046a337a54.md)
+  - About: [MKUltra](/entities/concept-mkultra.md), [Epstein Files](/entities/work-epstein-files.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+
+</div>
+<div class="filter-item">
+
+- [00:14:33](/episodes/ep-ZAsV0fHGBiM.md#t-00-14-13) [✗] (Claim) **Candace Owens**: ["Emmanuel Macron is suing Candace Owens merely for mentioning MKUltra on Tim Dill..."](/statements/statement-55115b5eabcd.md)
+  - About: [Emmanuel Macron](/entities/person-emmanuel-macron.md), [Candace Owens](/entities/person-candace-owens.md), [MKUltra](/entities/concept-mkultra.md)
+
+</div>
+<div class="filter-item">
+
+- [00:15:13](/episodes/ep-ZAsV0fHGBiM.md#t-00-14-59) [○] (Accusation) **Candace Owens**: ["Erika Kirk lies, but Candace Owens is unsure whether Kirk is aware that she is l..."](/statements/statement-628892265732.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:15:50](/episodes/ep-ZAsV0fHGBiM.md#t-00-15-39) [○] (Claim) **Candace Owens**: ["Candace Owens sent Erika Kirk four questions about past statements that did not ..."](/statements/statement-baf5e2632b31.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:04](/episodes/ep-ZAsV0fHGBiM.md#t-00-16-24) [✓] (Claim) **People magazine**: ["People magazine reported that Lori Frantzve divorced Erika Kirk's father after E..."](/statements/statement-f275b5faafd0.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:38](/episodes/ep-ZAsV0fHGBiM.md#t-00-17-08) [◐] (Claim) **Candace Owens**: ["Erika Kirk was not raised by a single mother; her father was always in her life ..."](/statements/statement-e006c73e20e7.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:20](/episodes/ep-ZAsV0fHGBiM.md#t-00-18-10) [✓] (Claim) **Erika Kirk**: ["Erika Kirk's father was a stay-at-home dad for a few years when she was young."](/statements/statement-72e6a823604b.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:19:06](/episodes/ep-ZAsV0fHGBiM.md#t-00-18-53) [✗] (Claim) **Candace Owens**: ["Erika Kirk was 10 years old when her parents divorced in 1998."](/statements/statement-bc98adf7a15d.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:19:42](/episodes/ep-ZAsV0fHGBiM.md#t-00-19-36) [✓] (Citation) **Candace Owens**: ["Erika Kirk's high-school yearbook collage included her biological father, patern..."](/statements/statement-7228d5b29791.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md), [Carl Kenneth Frantzve](/entities/person-carl-kenneth-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:20:05](/episodes/ep-ZAsV0fHGBiM.md#t-00-19-36) [○] (Claim) **Candace Owens**: ["Larry Guinta was present in Erika Kirk's life from before her parents' divorce, ..."](/statements/statement-07770ec9732d.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Larry Guinta](/entities/person-larry-guinta.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:21:56](/episodes/ep-ZAsV0fHGBiM.md#t-00-21-37) [○] (Citation) **Candace Owens**: ["A newspaper birth announcement says Erika Kirk was born on November 20, 1988, at..."](/statements/statement-6fe3cb442c37.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Good Samaritan Hospital (Cincinnati)](/entities/org-good-samaritan-hospital-cincinnati.md), [Cincinnati, Ohio](/entities/gpe-cincinnati-ohio.md)
+
+</div>
+<div class="filter-item">
+
+- [00:22:57](/episodes/ep-ZAsV0fHGBiM.md#t-00-22-22) [✓] (Citation) **Candace Owens**: ["Lori Frantzve's 1998 divorce filing repeatedly lists Erika Kirk's birth date as ..."](/statements/statement-e5926f430383.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:32](/episodes/ep-ZAsV0fHGBiM.md#t-00-23-00) [✓] (Citation) **Candace Owens**: ["Lori Frantzve's divorce filing says Lori and Kent Frantzve married on November 2..."](/statements/statement-201f23eeb8d6.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md), [Marblehead, Massachusetts](/entities/gpe-marblehead-massachusetts.md)
+
+</div>
+<div class="filter-item">
+
+- [00:24:06](/episodes/ep-ZAsV0fHGBiM.md#t-00-23-45) [✓] (Citation) **Candace Owens**: ["An attached, unnotarized and undated separation agreement changes Lori and Kent ..."](/statements/statement-329379d26428.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:33](/episodes/ep-ZAsV0fHGBiM.md#t-00-25-13) [◐] (Citation) **Candace Owens**: ["The Frantzves' divorce decree again lists a November 20, 1995 marriage date, but..."](/statements/statement-c14bb0cacefb.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md), [Marblehead, Massachusetts](/entities/gpe-marblehead-massachusetts.md)
+
+</div>
+<div class="filter-item">
+
+- [00:26:33](/episodes/ep-ZAsV0fHGBiM.md#t-00-25-57) [○] (Accusation) **Candace Owens**: ["The handwritten changes to the Frantzve divorce records may have been made after..."](/statements/statement-445676ccf18e.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:27:13](/episodes/ep-ZAsV0fHGBiM.md#t-00-26-39) [○] (Citation) **Candace Owens**: ["Across two divorce documents there are four plausible marriage dates for Kent an..."](/statements/statement-18aacb0f9374.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md), [Marblehead, Massachusetts](/entities/gpe-marblehead-massachusetts.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:02](/episodes/ep-ZAsV0fHGBiM.md#t-00-31-35) [○] (Accusation) **Candace Owens**: ["Lori Frantzve's family has a history of breaking the law and committing fraud."](/statements/statement-79d2a319b9ad.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Loretta Abbas](/entities/person-loretta-abbas.md), [Mason Abbas](/entities/person-mason-abbas.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:44](/episodes/ep-ZAsV0fHGBiM.md#t-00-32-17) [○] (Citation) **Candace Owens**: ["Loretta Abbas was repeatedly arrested for running illegal slot machines and plea..."](/statements/statement-13f49c8b2a94.md)
+  - About: [Loretta Abbas](/entities/person-loretta-abbas.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:33:52](/episodes/ep-ZAsV0fHGBiM.md#t-00-33-40) [○] (Citation) **Candace Owens**: ["Mason Abbas was arrested after a multi-mile police chase during which he alleged..."](/statements/statement-e68d58cd7e81.md)
+  - About: [Mason Abbas](/entities/person-mason-abbas.md), [Frank Kreps](/entities/person-frank-kreps.md)
+
+</div>
+<div class="filter-item">
+
+- [00:34:54](/episodes/ep-ZAsV0fHGBiM.md#t-00-34-24) [◐] (Claim) **Candace Owens**: ["Erika Kirk's paternal grandfather Carl Kenneth Frantzve participated in horse ra..."](/statements/statement-fe48430745d2.md)
+  - About: [Carl Kenneth Frantzve](/entities/person-carl-kenneth-frantzve.md), [Erika Kirk](/entities/person-erika-kirk.md), [American Bank Note Company](/entities/org-american-bank-note-company.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:41](/episodes/ep-ZAsV0fHGBiM.md#t-00-35-09) [✓] (Claim) **Candace Owens**: ["Erika Kirk is Syrian-Lebanese on her mother's side and Swedish on her father's s..."](/statements/statement-a9496dfeca5a.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Syria](/entities/gpe-syria.md), [Lebanon](/entities/gpe-lebanon.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:23](/episodes/ep-ZAsV0fHGBiM.md#t-00-35-48) [○] (Claim) **Candace Owens**: ["In 2019 Erika Kirk began the process of obtaining dual citizenship because of he..."](/statements/statement-9c75bf6aef39.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Sweden](/entities/gpe-sweden.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:47](/episodes/ep-ZAsV0fHGBiM.md#t-00-36-24) [○] (Claim) **Candace Owens**: ["Erika Kirk comes from a long line of Swedish Freemasons through her paternal fam..."](/statements/statement-0dce2fa9148a.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Carl Kenneth Frantzve](/entities/person-carl-kenneth-frantzve.md), [Freemasonry](/entities/concept-freemasonry.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:54](/episodes/ep-ZAsV0fHGBiM.md#t-00-36-24) [✓] (Citation) **Candace Owens**: ["Erika Kirk repeatedly referred to her paternal grandfather Carl Kenneth Frantzve..."](/statements/statement-f1a46fb1a1d2.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Carl Kenneth Frantzve](/entities/person-carl-kenneth-frantzve.md), [Sweden](/entities/gpe-sweden.md)
+
+</div>
+<div class="filter-item">
+
+- [00:37:51](/episodes/ep-ZAsV0fHGBiM.md#t-00-37-49) [◐] (Citation) **Anonymous Source #1 (Ep ZAsV0fHGBiM)**: ["In Swedish, 'morfar' literally means mother's father and 'farfar' means father's..."](/statements/statement-c1573a5d582f.md)
+  - About: [Sweden](/entities/gpe-sweden.md), [Erika Kirk](/entities/person-erika-kirk.md), [Carl Kenneth Frantzve](/entities/person-carl-kenneth-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:40:06](/episodes/ep-ZAsV0fHGBiM.md#t-00-39-57) [✓] (Claim) **Erika Kirk**: ["Erika Kirk wrote that a woman was sitting by 'my family's dedication sign' for r..."](/statements/statement-32a6078e5629.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Zion Gate](/entities/gpe-zion-gate.md), [Jerusalem](/entities/gpe-jerusalem.md)
+
+</div>
+<div class="filter-item">
+
+- [00:40:30](/episodes/ep-ZAsV0fHGBiM.md#t-00-39-57) [○] (Claim) **Candace Owens**: ["Nicole Rothstein alleged that half of the family she shared with Erika Kirk is J..."](/statements/statement-7979264d5f73.md)
+  - About: [Nicole Rothstein](/entities/person-nicole-rothstein.md), [Erika Kirk](/entities/person-erika-kirk.md), [Judaism](/entities/concept-judaism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:40:44](/episodes/ep-ZAsV0fHGBiM.md#t-00-40-41) [○] (Claim) **Candace Owens**: ["Nicole Rothstein described Erika Kirk as her best friend and cousin after Charli..."](/statements/statement-85af7d8fe890.md)
+  - About: [Nicole Rothstein](/entities/person-nicole-rothstein.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:41:17](/episodes/ep-ZAsV0fHGBiM.md#t-00-40-41) [✓] (Claim) **Candace Owens**: ["Under Erika Kirk's publicly stated parentage, Nicole and Allan Rothstein have no..."](/statements/statement-68670113ee8d.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Nicole Rothstein](/entities/person-nicole-rothstein.md), [Allan P. Rothstein](/entities/person-allan-p-rothstein.md)
+
+</div>
+<div class="filter-item">
+
+- [00:41:40](/episodes/ep-ZAsV0fHGBiM.md#t-00-41-26) [✓] (Claim) **Candace Owens**: ["Erika Kirk referred to Allan Rothstein as her uncle in an online tribute."](/statements/statement-fd3c9814870a.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Allan P. Rothstein](/entities/person-allan-p-rothstein.md), [Nicole Rothstein](/entities/person-nicole-rothstein.md)
+
+</div>
+<div class="filter-item">
+
+- [00:43:43](/episodes/ep-ZAsV0fHGBiM.md#t-00-43-15) [✓] (Claim) **Candace Owens**: ["Jack Solomon married Karla Frantzve in 2002 and financed the restoration of Zion..."](/statements/statement-11c01e36b823.md)
+  - About: [Jack David Solomon](/entities/person-jack-david-solomon.md), [Karla Marie Frantzve Solomon](/entities/person-karla-marie-frantzve-solomon.md), [Zion Gate](/entities/gpe-zion-gate.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:39](/episodes/ep-ZAsV0fHGBiM.md#t-00-44-39) [✗] (Claim) **Candace Owens**: ["Jack Solomon graduated from Utah Valley University, created its Center for Jewis..."](/statements/statement-244d63ae0c3c.md)
+  - About: [Jack David Solomon](/entities/person-jack-david-solomon.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Utah Center for Jewish Studies](/entities/org-utah-center-for-jewish-studies.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:51](/episodes/ep-ZAsV0fHGBiM.md#t-00-45-19) [◐] (Claim) **Candace Owens**: ["Jack Solomon and Norman Vance founded Advanced Patent Technology in 1968; it man..."](/statements/statement-2e0ea31a6b66.md)
+  - About: [Jack David Solomon](/entities/person-jack-david-solomon.md), [Norman LaVerne Vance](/entities/person-norman-laverne-vance.md), [Advanced Patent Technology, Inc.](/entities/org-advanced-patent-technology.md)
+
+</div>
+<div class="filter-item">
+
+- [00:50:08](/episodes/ep-ZAsV0fHGBiM.md#t-00-49-39) [✓] (Claim) **Candace Owens**: ["Erika Kirk was living in Arizona before her parents divorced in 1998, contrary t..."](/statements/statement-284a8c2d9ea5.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Arizona](/entities/gpe-arizona.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:50:33](/episodes/ep-ZAsV0fHGBiM.md#t-00-50-23) [○] (Claim) **Candace Owens**: ["Erika Kirk attended Walnut Corner Children's Center in Cincinnati in 1992 before..."](/statements/statement-b0345e34cb8d.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Walnut Corner Children's Center](/entities/org-walnut-corner-childrens-center.md), [Cincinnati, Ohio](/entities/gpe-cincinnati-ohio.md)
+
+</div>
+<div class="filter-item">
+
+- [00:51:21](/episodes/ep-ZAsV0fHGBiM.md#t-00-50-55) [◐] (Claim) **Candace Owens**: ["John T. Golle incorporated Education Alternatives in Minnesota and later appeare..."](/statements/statement-ccf81f332955.md)
+  - About: [John T. Golle](/entities/person-john-t-golle.md), [Education Alternatives, Inc.](/entities/org-education-alternatives-inc.md), [Jeb Bush](/entities/person-jeb-bush.md)
+
+</div>
+<div class="filter-item">
+
+- [00:52:05](/episodes/ep-ZAsV0fHGBiM.md#t-00-51-40) [✓] (Claim) **Candace Owens**: ["Tesseract Schools were named after A Wrinkle in Time."](/statements/statement-78a833c233e2.md)
+  - About: [Tesseract School](/entities/org-tesseract-school.md), [A Wrinkle in Time](/entities/work-a-wrinkle-in-time.md)
+
+</div>
+<div class="filter-item">
+
+- [00:52:31](/episodes/ep-ZAsV0fHGBiM.md#t-00-52-19) [○] (Claim) **Candace Owens**: ["The Paradise Valley Tesseract School that Erika Kirk attended rented a building ..."](/statements/statement-ffaf0382129a.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tesseract School](/entities/org-tesseract-school.md), [Gan Yeladeem: The Looking Glass School](/entities/org-gan-yeladeem-the-looking-glass-school.md)
+
+</div>
+<div class="filter-item">
+
+- [00:53:38](/episodes/ep-ZAsV0fHGBiM.md#t-00-53-03) [○] (Citation) **Candace Owens**: ["Yearbooks place Erika Kirk at Tesseract School in first grade in 1995-96, second..."](/statements/statement-8e7c1814dc37.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tesseract School](/entities/org-tesseract-school.md)
+
+</div>
+</details>
+
+<details>
+<summary><strong>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast</strong> (42)</summary>
+
+<div class="filter-item">
+
+- [00:30:12](/episodes/ep-nPhCKwJ6ye8.md#t-00-30-12) [○] (Accusation) **Charlie Kirk**: ["Charlie Kirk said he was somewhat worried that the left was trying to kill him."](/statements/statement-407f287ebc38.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:31:26](/episodes/ep-nPhCKwJ6ye8.md#t-00-30-52) [✓] (Claim) **Andrew Wilson**: ["Based on the evidence available so far, Andrew Wilson believes the state is corr..."](/statements/statement-3523ec3378a3.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:10](/episodes/ep-nPhCKwJ6ye8.md#t-00-32-10) [✓] (Citation) **Andrew Wilson**: ["Andrew Wilson says the case against Tyler Robinson is supported by corroborating..."](/statements/statement-53a47c80d7fd.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:41:45](/episodes/ep-nPhCKwJ6ye8.md#t-00-41-45) [✓] (Claim) **Andrew Wilson**: ["Tyler Robinson's rifle was found near the crime scene."](/statements/statement-cd79a291a603.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:42:21](/episodes/ep-nPhCKwJ6ye8.md#t-00-42-21) [◐] (Claim) **Andrew Wilson**: ["The ammunition in the case was a 150-grain Remington Core-Lokt soft-point round ..."](/statements/statement-bab7a17138a4.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Remington Ammunition](/entities/org-remington-ammunition.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:14](/episodes/ep-nPhCKwJ6ye8.md#t-00-44-14) [✓] (Claim) **Andrew Wilson**: ["Andrew Wilson says he was never an Army sniper."](/statements/statement-3ca42fa6f73b.md)
+  - About: [Andrew Wilson](/entities/person-andrew-wilson.md), [United States Army](/entities/org-united-states-army.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:21](/episodes/ep-nPhCKwJ6ye8.md#t-00-44-16) [✓] (Claim) **Andrew Wilson**: ["Andrew Wilson says he was an NRA firearms instructor for many years and taught r..."](/statements/statement-5d4f036404fb.md)
+  - About: [Andrew Wilson](/entities/person-andrew-wilson.md), [National Rifle Association](/entities/org-national-rifle-association.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:52](/episodes/ep-nPhCKwJ6ye8.md#t-00-45-41) [◐] (Citation) **Candace Owens**: ["According to the forensic testimony cited by Candace Owens, Tyler Robinson's DNA..."](/statements/statement-456408c60fb5.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:47:02](/episodes/ep-nPhCKwJ6ye8.md#t-00-47-02) [✓] (Claim) **Andrew Wilson**: ["Tyler Robinson's DNA was on the rifle, while the available testimony did not est..."](/statements/statement-8208e54f6594.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md)
+
+</div>
+<div class="filter-item">
+
+- [00:51:24](/episodes/ep-nPhCKwJ6ye8.md#t-00-51-07) [○] (Claim) **Candace Owens**: ["Candace Owens says family members told her Tyler Robinson inherited the rifle bu..."](/statements/statement-dca32711f19b.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:53:36](/episodes/ep-nPhCKwJ6ye8.md#t-00-53-31) [◐] (Claim) **Candace Owens**: ["Candace Owens says the overwhelming majority of the preliminary-hearing evidence..."](/statements/statement-cfc3b8ceb673.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Utah Constitution](/entities/law-utah-constitution.md)
+
+</div>
+<div class="filter-item">
+
+- [01:10:29](/episodes/ep-nPhCKwJ6ye8.md#t-01-10-29) [✓] (Claim) **Candace Owens**: ["Lance Twiggs received use immunity before his recorded testimony, according to C..."](/statements/statement-4dbfe37d9a8a.md)
+  - About: [Lance Twiggs](/entities/person-lance-twiggs.md)
+
+</div>
+<div class="filter-item">
+
+- [01:28:03](/episodes/ep-nPhCKwJ6ye8.md#t-01-27-53) [✓] (Citation) **Candace Owens**: ["Tyler Robinson's defense requested an extension because it had not received disc..."](/statements/statement-c4c56eb41213.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Kathryn Nester](/entities/person-kathryn-nester.md)
+
+</div>
+<div class="filter-item">
+
+- [01:31:52](/episodes/ep-nPhCKwJ6ye8.md#t-01-31-37) [✓] (Citation) **Candace Owens**: ["Kathryn Nester said during the hearing that she had not been given access to her..."](/statements/statement-f32233b3deb7.md)
+  - About: [Kathryn Nester](/entities/person-kathryn-nester.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [01:35:26](/episodes/ep-nPhCKwJ6ye8.md#t-01-35-14) [○] (Claim) **Anonymous Source #2 (Ep nPhCKwJ6ye8)**: ["Federal authorities placed members of Tyler Robinson's family in a safe house, a..."](/statements/statement-dbd628f5074b.md)
+  - About: [Matt Robinson](/entities/person-matt-robinson.md), [Amber Robinson](/entities/person-amber-robinson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [01:37:49](/episodes/ep-nPhCKwJ6ye8.md#t-01-37-41) [✓] (Citation) **Candace Owens**: ["The authorities did not produce statements from Tyler Robinson's parents saying ..."](/statements/statement-a152aa832f58.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Matt Robinson](/entities/person-matt-robinson.md), [Amber Robinson](/entities/person-amber-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [01:39:29](/episodes/ep-nPhCKwJ6ye8.md#t-01-38-59) [◐] (Claim) **Candace Owens**: ["Mike Mitchell had worked as an undercover police officer for more than 20 years ..."](/statements/statement-2018b40928fe.md)
+  - About: [Mike Mitchell](/entities/person-mike-mitchell.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [01:53:27](/episodes/ep-nPhCKwJ6ye8.md#t-01-53-24) [○] (Claim) **Candace Owens**: ["The defense received a large volume of requested discovery shortly after the pre..."](/statements/statement-a0a8cf63a5c5.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Kathryn Nester](/entities/person-kathryn-nester.md)
+
+</div>
+<div class="filter-item">
+
+- [01:58:01](/episodes/ep-nPhCKwJ6ye8.md#t-01-58-01) [○] (Claim) **Candace Owens**: ["An unnamed source told Candace Owens that Tyler Robinson did not set foot on the..."](/statements/statement-82eb250891a7.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</div>
+<div class="filter-item">
+
+- [01:58:14](/episodes/ep-nPhCKwJ6ye8.md#t-01-58-01) [○] (Accusation) **Candace Owens**: ["Candace Owens believes Tyler Robinson was involved somehow but considers Lance T..."](/statements/statement-2683c02b1ee5.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [01:59:52](/episodes/ep-nPhCKwJ6ye8.md#t-01-59-52) [◐] (Claim) **Candace Owens**: ["The FBI stopped testing a backpack found along the alleged gunman's route after ..."](/statements/statement-240c0f8e341e.md)
+  - About: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [02:00:33](/episodes/ep-nPhCKwJ6ye8.md#t-02-00-33) [◐] (Claim) **Candace Owens**: ["Some items Charlie Kirk was wearing were immediately returned to Erika Kirk rath..."](/statements/statement-89847e8b961f.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [02:01:40](/episodes/ep-nPhCKwJ6ye8.md#t-02-01-40) [✓] (Citation) **Candace Owens**: ["The contractor who paved the crime scene said the call described a paver emergen..."](/statements/statement-e8088f9593f9.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [02:21:45](/episodes/ep-nPhCKwJ6ye8.md#t-02-21-45) [✓] (Claim) **Candace Owens**: ["Candace Owens reported the alleged French Foreign Legion threat to Tulsi Gabbard..."](/statements/statement-09827ba5d6e7.md)
+  - About: [Tulsi Gabbard](/entities/person-tulsi-gabbard.md), [Donald J. Trump](/entities/person-donald-trump.md), [French Foreign Legion](/entities/org-french-foreign-legion.md)
+
+</div>
+<div class="filter-item">
+
+- [02:25:29](/episodes/ep-nPhCKwJ6ye8.md#t-02-25-29) [✓] (Citation) **Candace Owens**: ["Candace Owens cited Joe Kent as saying that 12 Israeli cell phones were on the g..."](/statements/statement-b5e4a547905b.md)
+  - About: [Joe Kent](/entities/person-joe-kent.md), [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [02:33:22](/episodes/ep-nPhCKwJ6ye8.md#t-02-33-18) [○] (Accusation) **Anonymous Source #1 (Ep nPhCKwJ6ye8)**: ["French Foreign Legion personnel were on the ground during Charlie Kirk's assassi..."](/statements/statement-0ccadf24fcfc.md)
+  - About: [French Foreign Legion](/entities/org-french-foreign-legion.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [France](/entities/gpe-france.md)
+
+</div>
+<div class="filter-item">
+
+- [02:37:26](/episodes/ep-nPhCKwJ6ye8.md#t-02-37-26) [○] (Prediction) **Candace Owens**: ["Candace Owens predicts that Israel will ultimately be found to have been involve..."](/statements/statement-d5c74ed071c8.md)
+  - About: [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [02:38:23](/episodes/ep-nPhCKwJ6ye8.md#t-02-38-11) [○] (Accusation) **Anonymous Source #3 (Ep nPhCKwJ6ye8)**: ["United States Marshals Service sources said marshals were sent on a wild goose c..."](/statements/statement-51c476305dbc.md)
+  - About: [United States Marshals Service](/entities/org-united-states-marshals-service.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [02:47:57](/episodes/ep-nPhCKwJ6ye8.md#t-02-47-57) [○] (Accusation) **Candace Owens**: ["Candace Owens believes Erika Kirk was complicit in trying to convince the public..."](/statements/statement-8f4c7fed2ec6.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [02:53:43](/episodes/ep-nPhCKwJ6ye8.md#t-02-53-43) [✓] (Claim) **Andrew Wilson**: ["Andrew Wilson says Turning Point USA invited him to provide debate training and ..."](/statements/statement-ad134c309014.md)
+  - About: [Andrew Wilson](/entities/person-andrew-wilson.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [02:55:09](/episodes/ep-nPhCKwJ6ye8.md#t-02-55-09) [○] (Accusation) **Candace Owens**: ["Candace Owens believes Turning Point USA was using Andrew Wilson as its proxy in..."](/statements/statement-8baab8e2c54c.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Andrew Wilson](/entities/person-andrew-wilson.md)
+
+</div>
+<div class="filter-item">
+
+- [02:59:13](/episodes/ep-nPhCKwJ6ye8.md#t-02-59-13) [○] (Opinion) **Candace Owens**: ["Candace Owens believes Erika Kirk is underqualified to run Turning Point USA."](/statements/statement-513faa7c49b5.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [03:03:15](/episodes/ep-nPhCKwJ6ye8.md#t-03-03-15) [○] (Opinion) **Candace Owens**: ["Candace Owens believes the theory that Charlie Kirk may have been killed by an e..."](/statements/statement-27a11cc63d15.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Jon Aaron Bray](/entities/person-jon-aaron-bray.md)
+
+</div>
+<div class="filter-item">
+
+- [03:09:20](/episodes/ep-nPhCKwJ6ye8.md#t-03-09-00) [○] (Opinion) **Rob O'Neill**: ["Rob O'Neill said the movement of Charlie Kirk's shirt looked like an explosion t..."](/statements/statement-349dd6aaaa90.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [03:09:26](/episodes/ep-nPhCKwJ6ye8.md#t-03-09-00) [✓] (Accusation) **Rob O'Neill**: ["Rob O'Neill said people at the scene seemed more concerned with removing camera ..."](/statements/statement-59ffbe2ba8c0.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [03:25:17](/episodes/ep-nPhCKwJ6ye8.md#t-03-25-12) [✓] (Citation) **Candace Owens**: ["After rewatching the testimony, Candace Owens corrected her earlier claim: only ..."](/statements/statement-7d36617db0e1.md)
+  - About: [Matt Robinson](/entities/person-matt-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Amber Robinson](/entities/person-amber-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [03:26:38](/episodes/ep-nPhCKwJ6ye8.md#t-03-26-38) [○] (Opinion) **Candace Owens**: ["Candace Owens believes Erika Kirk should be formally questioned because of perce..."](/statements/statement-c8adff2dd148.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [03:41:36](/episodes/ep-nPhCKwJ6ye8.md#t-03-41-36) [✓] (Claim) **Candace Owens**: ["Candace Owens says she spoke to the steakhouse owner and saw a receipt, which sh..."](/statements/statement-a19c5a074696.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [03:43:16](/episodes/ep-nPhCKwJ6ye8.md#t-03-43-16) [✓] (Promise) **Candace Owens**: ["Candace Owens promises to remove the steakhouse stop from her personal timeline ..."](/statements/statement-6e4c87e8d0c6.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [03:44:08](/episodes/ep-nPhCKwJ6ye8.md#t-03-43-56) [✓] (Accusation) **Candace Owens**: ["Candace Owens believes it is plausible that the screwdriver found on the roof wa..."](/statements/statement-58a5ee7b6ddc.md)
+  - About: [Chris Bagley](/entities/person-chris-bagley.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [03:57:47](/episodes/ep-nPhCKwJ6ye8.md#t-03-57-15) [○] (Opinion) **Andrew Wilson**: ["Andrew Wilson concluded that no alternative theory presented in the debate had e..."](/statements/statement-d32537eb2441.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [04:01:26](/episodes/ep-nPhCKwJ6ye8.md#t-04-01-26) [✓] (Accusation) **Candace Owens**: ["Candace Owens still believes there is more evidence that multiple people were in..."](/statements/statement-4735330c37c9.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
+
+</div>
+</details>
+
+<details>
+<summary><strong>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2</strong> (80)</summary>
+
+<div class="filter-item">
+
+- [00:00:32](/episodes/ep-1IY2oD-_xVA.md#t-00-00-32) [○] (Opinion) **Anonymous Source #6 (Ep 1IY2oD-_xVA)**: ["An unnamed former partner of Erika Kirk said he no longer recognized who she had..."](/statements/statement-01042ca2803e.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:02:06](/episodes/ep-1IY2oD-_xVA.md#t-00-01-48) [○] (Accusation) **Candace Owens**: ["Elites practice occult sex magic"](/statements/statement-750d51d49992.md)
+  - About: [Satanism](/entities/concept-satanism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:02:27](/episodes/ep-1IY2oD-_xVA.md#t-00-02-27) [◐] (Claim) **Candace Owens**: ["Aleister Crowley hosted occult sex-magic parties around the world"](/statements/statement-c240735074b0.md)
+  - About: [Aleister Crowley](/entities/person-aleister-crowley.md), [Satanism](/entities/concept-satanism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:02:39](/episodes/ep-1IY2oD-_xVA.md#t-00-02-27) [◐] (Claim) **Candace Owens**: ["Aleister Crowley created the religion of Thelema and attempted to summon demons ..."](/statements/statement-f65b520f6f75.md)
+  - About: [Aleister Crowley](/entities/person-aleister-crowley.md), [Thelema](/entities/concept-thelema.md), [France](/entities/gpe-france.md)
+
+</div>
+<div class="filter-item">
+
+- [00:03:25](/episodes/ep-1IY2oD-_xVA.md#t-00-03-06) [✓] (Claim) **Candace Owens**: ["A 23-year-old Oxford student whom Aleister Crowley regarded as his magical heir ..."](/statements/statement-b195a17ff497.md)
+  - About: [Aleister Crowley](/entities/person-aleister-crowley.md), [Frederick Charles Loveday](/entities/person-frederick-charles-raoul-loveday.md), [University of Oxford](/entities/org-university-of-oxford.md)
+
+</div>
+<div class="filter-item">
+
+- [00:03:47](/episodes/ep-1IY2oD-_xVA.md#t-00-03-47) [○] (Claim) **Anonymous Source #1 (Ep 1IY2oD-_xVA)**: ["Aleister Crowley believed he could make himself invisible and tried to bestow th..."](/statements/statement-ef749e840763.md)
+  - About: [Aleister Crowley](/entities/person-aleister-crowley.md), [Frederick Charles Loveday](/entities/person-frederick-charles-raoul-loveday.md)
+
+</div>
+<div class="filter-item">
+
+- [00:03:59](/episodes/ep-1IY2oD-_xVA.md#t-00-03-47) [○] (Claim) **Anonymous Source #1 (Ep 1IY2oD-_xVA)**: ["Aleister Crowley and Raoul Loveday became seriously ill during a ceremony at Cro..."](/statements/statement-f1b02338a6e6.md)
+  - About: [Aleister Crowley](/entities/person-aleister-crowley.md), [Frederick Charles Loveday](/entities/person-frederick-charles-raoul-loveday.md), [Sicily](/entities/gpe-sicily.md)
+
+</div>
+<div class="filter-item">
+
+- [00:04:30](/episodes/ep-1IY2oD-_xVA.md#t-00-04-30) [✓] (Citation) **Anonymous Source #1 (Ep 1IY2oD-_xVA)**: ["A later account in 1929 said Raoul Loveday died from inflammation of the intesti..."](/statements/statement-e780a8966ba6.md)
+  - About: [Frederick Charles Loveday](/entities/person-frederick-charles-raoul-loveday.md)
+
+</div>
+<div class="filter-item">
+
+- [00:04:42](/episodes/ep-1IY2oD-_xVA.md#t-00-04-37) [◐] (Claim) **Candace Owens**: ["Benito Mussolini expelled Aleister Crowley from Italy for being a Satanist"](/statements/statement-89dc27d032d0.md)
+  - About: [Benito Mussolini](/entities/person-benito-mussolini.md), [Aleister Crowley](/entities/person-aleister-crowley.md), [Satanism](/entities/concept-satanism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:04](/episodes/ep-1IY2oD-_xVA.md#t-00-04-37) [✗] (Claim) **Candace Owens**: ["Pauline Robinson Pierce gave birth to Barbara Bush a little over eight and a hal..."](/statements/statement-9d911a6b27ba.md)
+  - About: [Pauline Robinson Pierce](/entities/person-pauline-robinson-pierce.md), [Barbara Bush](/entities/person-barbara-bush.md), [Aleister Crowley](/entities/person-aleister-crowley.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:15](/episodes/ep-1IY2oD-_xVA.md#t-00-05-15) [✓] (Citation) **Candace Owens**: ["The timing of Pauline Robinson Pierce’s contact with Aleister Crowley is the sou..."](/statements/statement-f656fa7bce19.md)
+  - About: [Pauline Robinson Pierce](/entities/person-pauline-robinson-pierce.md), [Barbara Bush](/entities/person-barbara-bush.md), [Aleister Crowley](/entities/person-aleister-crowley.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:37](/episodes/ep-1IY2oD-_xVA.md#t-00-05-15) [✓] (Claim) **Candace Owens**: ["Operation Paperclip was not about rescuing brilliant Jewish scientists who were ..."](/statements/statement-feaf9ba3112e.md)
+  - About: [Operation Paperclip](/entities/concept-operation-paperclip.md), [Germany](/entities/gpe-germany.md), [Judaism](/entities/concept-judaism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:48](/episodes/ep-1IY2oD-_xVA.md#t-00-05-48) [✗] (Accusation) **Candace Owens**: ["Operation Paperclip was about rescuing wealthy occult figures such as Sigmund Fr..."](/statements/statement-cf5c264208cc.md)
+  - About: [Operation Paperclip](/entities/concept-operation-paperclip.md), [Sigmund Freud](/entities/person-sigmund-freud.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:24](/episodes/ep-1IY2oD-_xVA.md#t-00-05-48) [◐] (Claim) **Candace Owens**: ["Jack Parsons created the Jet Propulsion Laboratory"](/statements/statement-645ea2b105f0.md)
+  - About: [Jack Parsons](/entities/person-jack-parsons.md), [Jet Propulsion Laboratory](/entities/org-jet-propulsion-laboratory.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:31](/episodes/ep-1IY2oD-_xVA.md#t-00-06-31) [◐] (Claim) **Candace Owens**: ["The Jet Propulsion Laboratory was a precursor to NASA’s Apollo program"](/statements/statement-f5c1012f147a.md)
+  - About: [Jet Propulsion Laboratory](/entities/org-jet-propulsion-laboratory.md), [NASA](/entities/org-nasa.md), [Apollo program](/entities/concept-apollo-program.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:31](/episodes/ep-1IY2oD-_xVA.md#t-00-06-31) [◐] (Claim) **Candace Owens**: ["Jack Parsons was Aleister Crowley’s protégé and conducted occult sex rituals int..."](/statements/statement-3808f6447a2d.md)
+  - About: [Jack Parsons](/entities/person-jack-parsons.md), [Aleister Crowley](/entities/person-aleister-crowley.md), [Satanism](/entities/concept-satanism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:51](/episodes/ep-1IY2oD-_xVA.md#t-00-06-31) [✓] (Claim) **Candace Owens**: ["Bill Gates appears in the Epstein files"](/statements/statement-f42e8e2ecb59.md)
+  - About: [Bill Gates](/entities/person-bill-gates.md), [Epstein Files](/entities/work-epstein-files.md)
+
+</div>
+<div class="filter-item">
+
+- [00:07:13](/episodes/ep-1IY2oD-_xVA.md#t-00-07-13) [○] (Accusation) **Candace Owens**: ["Bill Gates went from computers to pharmaceuticals to poisoning African children"](/statements/statement-b420a3fb7d1c.md)
+  - About: [Bill Gates](/entities/person-bill-gates.md)
+
+</div>
+<div class="filter-item">
+
+- [00:07:48](/episodes/ep-1IY2oD-_xVA.md#t-00-07-13) [○] (Accusation) **Candace Owens**: ["People who build something valuable must yield control to elites or wind up dead"](/statements/statement-77b15efbefdc.md)
+
+</div>
+<div class="filter-item">
+
+- [00:07:56](/episodes/ep-1IY2oD-_xVA.md#t-00-07-56) [○] (Accusation) **Candace Owens**: ["The military is responsible for keeping particular families in power"](/statements/statement-49ff875572e2.md)
+
+</div>
+<div class="filter-item">
+
+- [00:08:39](/episodes/ep-1IY2oD-_xVA.md#t-00-08-39) [✓] (Accusation) **Candace Owens**: ["Candace Owens believes the military deliberately made the public watch Charlie K..."](/statements/statement-b6fbde5d0b41.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:08:51](/episodes/ep-1IY2oD-_xVA.md#t-00-08-39) [○] (Accusation) **Candace Owens**: ["The purpose of publicly showing Charlie Kirk’s killing was to harness viewers’ e..."](/statements/statement-5b49473c35d5.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:12](/episodes/ep-1IY2oD-_xVA.md#t-00-09-56) [✗] (Claim) **Candace Owens**: ["Sources disagree whether Erika Kirk was born on November 20 or November 22, 1988..."](/statements/statement-8e2abaea98ae.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Good Samaritan Hospital (Cincinnati)](/entities/org-good-samaritan-hospital-cincinnati.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:24](/episodes/ep-1IY2oD-_xVA.md#t-00-09-56) [◐] (Accusation) **Candace Owens**: ["Good Samaritan Hospital was gifted by the Marine Corps after the Corps was caugh..."](/statements/statement-043fc53d3da7.md)
+  - About: [Good Samaritan Hospital (Cincinnati)](/entities/org-good-samaritan-hospital-cincinnati.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:41](/episodes/ep-1IY2oD-_xVA.md#t-00-10-41) [○] (Claim) **Candace Owens**: ["Carl Kenneth Frantzve served in the United States Army Corps of Engineers"](/statements/statement-921e3793580a.md)
+  - About: [Carl Kenneth Frantzve](/entities/person-carl-kenneth-frantzve.md), [United States Army Corps of Engineers](/entities/org-united-states-army-corps-of-engineers.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:17](/episodes/ep-1IY2oD-_xVA.md#t-00-11-17) [✓] (Citation) **Candace Owens**: ["Candace Owens could not find proof that Lori and Kent Frantzve’s reported marria..."](/statements/statement-4959a43ce796.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md), [Marblehead, Massachusetts](/entities/gpe-marblehead-massachusetts.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:37](/episodes/ep-1IY2oD-_xVA.md#t-00-12-29) [◐] (Claim) **Candace Owens**: ["Jerri Frantzve was born Jerri Pitts in 1943 into a strict Mormon household"](/statements/statement-1af802b6d746.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Mormonism](/entities/concept-mormonism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:55](/episodes/ep-1IY2oD-_xVA.md#t-00-12-29) [○] (Claim) **Candace Owens**: ["Jerri Frantzve’s Mormon family was from Arizona, while she was raised in Indiana..."](/statements/statement-d3e10c922462.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Arizona](/entities/gpe-arizona.md), [Indianapolis, Indiana](/entities/gpe-indianapolis-indiana.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:48](/episodes/ep-1IY2oD-_xVA.md#t-00-13-48) [○] (Claim) **Jerri L. Frantzve**: ["At age 14, Jerri Frantzve lied about her age, altered her birth certificate, and..."](/statements/statement-92388112d735.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Clearasil](/entities/work-clearasil.md)
+
+</div>
+<div class="filter-item">
+
+- [00:14:31](/episodes/ep-1IY2oD-_xVA.md#t-00-14-31) [○] (Claim) **Candace Owens**: ["Jerri Frantzve married Carl Pangerl when he was five or six years older than she..."](/statements/statement-37f07ed2ed9e.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Carl Alan Pangerl](/entities/person-carl-alan-pangerl.md)
+
+</div>
+<div class="filter-item">
+
+- [00:14:48](/episodes/ep-1IY2oD-_xVA.md#t-00-14-31) [✓] (Claim) **Candace Owens**: ["Carl Pangerl later became a bishop in the Mormon church"](/statements/statement-86031c49c66d.md)
+  - About: [Carl Alan Pangerl](/entities/person-carl-alan-pangerl.md), [Mormonism](/entities/concept-mormonism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:15:32](/episodes/ep-1IY2oD-_xVA.md#t-00-15-10) [◐] (Claim) **Candace Owens**: ["Jerri Frantzve’s second husband Kenneth Himsel was a captain in the Indiana Nati..."](/statements/statement-39552e32ba04.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Kenneth Wayne Himsel](/entities/person-kenneth-wayne-himsel.md), [Indiana National Guard](/entities/org-indiana-national-guard.md)
+
+</div>
+<div class="filter-item">
+
+- [00:15:46](/episodes/ep-1IY2oD-_xVA.md#t-00-15-46) [◐] (Claim) **Candace Owens**: ["Kenneth Himsel later became a major general, married Jerri Frantzve in 1965, and..."](/statements/statement-129e9138f3cc.md)
+  - About: [Kenneth Wayne Himsel](/entities/person-kenneth-wayne-himsel.md), [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:16:04](/episodes/ep-1IY2oD-_xVA.md#t-00-15-46) [○] (Claim) **Candace Owens**: ["Jerri Frantzve became a social worker in Indiana in 1970 at age 27"](/statements/statement-b463b09c9e3e.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Indiana](/entities/gpe-indiana.md)
+
+</div>
+<div class="filter-item">
+
+- [00:16:47](/episodes/ep-1IY2oD-_xVA.md#t-00-16-20) [◐] (Claim) **Candace Owens**: ["Indiana universities participated in human experimentation, and the government m..."](/statements/statement-9c58537b4f4e.md)
+  - About: [Indiana](/entities/gpe-indiana.md), [MKUltra](/entities/concept-mkultra.md), [Lysergic acid diethylamide](/entities/concept-lysergic-acid-diethylamide.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:00](/episodes/ep-1IY2oD-_xVA.md#t-00-17-00) [○] (Claim) **Candace Owens**: ["Jerri Frantzve began working for Quaker Oats in Chicago in 1971 and remained the..."](/statements/statement-252db2171f45.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [The Quaker Oats Company](/entities/org-quaker-oats-company.md), [Chicago, Illinois](/entities/gpe-chicago-illinois.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:48](/episodes/ep-1IY2oD-_xVA.md#t-00-17-39) [◐] (Accusation) **Candace Owens**: ["Quaker Oats conducted experiments in which unsuspecting boys were fed radioactiv..."](/statements/statement-1e590e6e275e.md)
+  - About: [The Quaker Oats Company](/entities/org-quaker-oats-company.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:04](/episodes/ep-1IY2oD-_xVA.md#t-00-17-39) [✓] (Accusation) **Candace Owens**: ["The United States Atomic Energy Commission partnered with Quaker Oats to experim..."](/statements/statement-caea2cbb3dda.md)
+  - About: [United States Atomic Energy Commission](/entities/org-united-states-atomic-energy-commission.md), [The Quaker Oats Company](/entities/org-quaker-oats-company.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:19](/episodes/ep-1IY2oD-_xVA.md#t-00-18-19) [✗] (Claim) **Candace Owens**: ["The military ordered the destruction of all MKUltra-related files in 1975"](/statements/statement-9c716138b443.md)
+  - About: [MKUltra](/entities/concept-mkultra.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:59](/episodes/ep-1IY2oD-_xVA.md#t-00-18-19) [○] (Claim) **Candace Owens**: ["Jerri Frantzve met and married Kent Frantzve while she was working for Quaker Oa..."](/statements/statement-0a517836c800.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md), [The Quaker Oats Company](/entities/org-quaker-oats-company.md)
+
+</div>
+<div class="filter-item">
+
+- [00:19:13](/episodes/ep-1IY2oD-_xVA.md#t-00-19-00) [○] (Claim) **Candace Owens**: ["Jerri and Kent Frantzve moved to Paradise Valley, Arizona before divorcing"](/statements/statement-f83f36713c65.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md), [Paradise Valley, Arizona](/entities/gpe-paradise-valley-arizona.md)
+
+</div>
+<div class="filter-item">
+
+- [00:19:59](/episodes/ep-1IY2oD-_xVA.md#t-00-19-59) [○] (Claim) **Candace Owens**: ["Jerri Frantzve worked for the DuPont family as director of employee relations"](/statements/statement-6245f8bf2eb8.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [DuPont family](/entities/org-dupont-family.md)
+
+</div>
+<div class="filter-item">
+
+- [00:20:39](/episodes/ep-1IY2oD-_xVA.md#t-00-20-39) [✗] (Claim) **Candace Owens**: ["DuPont completed what was then the largest corporate merger in history with Cono..."](/statements/statement-1288bf793920.md)
+  - About: [DuPont family](/entities/org-dupont-family.md), [Conoco Inc.](/entities/org-conoco-inc.md)
+
+</div>
+<div class="filter-item">
+
+- [00:21:39](/episodes/ep-1IY2oD-_xVA.md#t-00-21-24) [✗] (Claim) **Candace Owens**: ["Jerri Frantzve was awarded a gender research center at Radford University in 198..."](/statements/statement-57b7ade71ccb.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Radford University](/entities/org-radford-university.md), [Center for Gender Studies at Radford University](/entities/org-center-for-gender-studies-radford.md)
+
+</div>
+<div class="filter-item">
+
+- [00:21:53](/episodes/ep-1IY2oD-_xVA.md#t-00-21-24) [○] (Claim) **Candace Owens**: ["Jerri Frantzve’s gender clinic provided lessons to the military"](/statements/statement-ca8786751826.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Center for Gender Studies at Radford University](/entities/org-center-for-gender-studies-radford.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:09](/episodes/ep-1IY2oD-_xVA.md#t-00-22-41) [○] (Accusation) **Candace Owens**: ["Jerri Frantzve was a fraud"](/statements/statement-3136e3b2b8ca.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:48](/episodes/ep-1IY2oD-_xVA.md#t-00-23-18) [◐] (Accusation) **Candace Owens**: ["A Radford University report coauthored by Jerri Frantzve included her mother Mar..."](/statements/statement-e44f10d0cdb7.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Marjorie C. Ferrin Weiland](/entities/person-marjorie-ferrin-weiland.md), [Radford University](/entities/org-radford-university.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:59](/episodes/ep-1IY2oD-_xVA.md#t-00-23-59) [○] (Claim) **Candace Owens**: ["Richard Castor, another author of Jerri Frantzve’s Radford report, was her nephe..."](/statements/statement-56c20781484e.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Richard R. Castor](/entities/person-richard-r-castor.md), [Radford University](/entities/org-radford-university.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:15](/episodes/ep-1IY2oD-_xVA.md#t-00-24-43) [○] (Claim) **Candace Owens**: ["Jerri Frantzve helped develop psychological methods for charter-school students ..."](/statements/statement-ee078c8918f8.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Tesseract School](/entities/org-tesseract-school.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:26](/episodes/ep-1IY2oD-_xVA.md#t-00-25-26) [○] (Claim) **Candace Owens**: ["Erika Kirk attended a Tesseract school"](/statements/statement-200cdc35b969.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tesseract School](/entities/org-tesseract-school.md)
+
+</div>
+<div class="filter-item">
+
+- [00:30:00](/episodes/ep-1IY2oD-_xVA.md#t-00-29-35) [○] (Claim) **Candace Owens**: ["The Tesseract school attended by Erika Kirk was backed by the Bush and Walton fa..."](/statements/statement-bbd3b30c72bc.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tesseract School](/entities/org-tesseract-school.md)
+
+</div>
+<div class="filter-item">
+
+- [00:31:37](/episodes/ep-1IY2oD-_xVA.md#t-00-31-31) [◐] (Claim) **Candace Owens**: ["John T. Golle was the CEO of Tesseract and announced the school initiative with ..."](/statements/statement-72caf7300616.md)
+  - About: [John T. Golle](/entities/person-john-t-golle.md), [Tesseract School](/entities/org-tesseract-school.md), [Jeb Bush](/entities/person-jeb-bush.md)
+
+</div>
+<div class="filter-item">
+
+- [00:31:47](/episodes/ep-1IY2oD-_xVA.md#t-00-31-31) [○] (Claim) **Candace Owens**: ["John T. Golle worked with Monsanto on the launch of Roundup"](/statements/statement-54699dab5ef7.md)
+  - About: [John T. Golle](/entities/person-john-t-golle.md), [Monsanto Company](/entities/org-monsanto.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:38](/episodes/ep-1IY2oD-_xVA.md#t-00-32-12) [✓] (Claim) **Candace Owens**: ["Philip Bliss co-founded Mid-Peninsula High School in Palo Alto after working on ..."](/statements/statement-45fbb19fe128.md)
+  - About: [Philip Nelson Bliss](/entities/person-philip-nelson-bliss.md), [Mid-Peninsula High School](/entities/org-mid-peninsula-high-school.md), [Stanford Health Care](/entities/org-stanford-health-care.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:48](/episodes/ep-1IY2oD-_xVA.md#t-00-32-48) [◐] (Claim) **Candace Owens**: ["A student who carried out a shooting at Mid-Peninsula High School in 1996 had be..."](/statements/statement-fcea62eb5fb4.md)
+  - About: [Philip Nelson Bliss](/entities/person-philip-nelson-bliss.md), [Mid-Peninsula High School](/entities/org-mid-peninsula-high-school.md)
+
+</div>
+<div class="filter-item">
+
+- [00:34:50](/episodes/ep-1IY2oD-_xVA.md#t-00-34-50) [✓] (Accusation) **Candace Owens**: ["Tesseract faced accusations of financial impropriety and of using invalid method..."](/statements/statement-577898cc50b8.md)
+  - About: [Tesseract School](/entities/org-tesseract-school.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:32](/episodes/ep-1IY2oD-_xVA.md#t-00-35-32) [○] (Accusation) **Anonymous Source #3 (Ep 1IY2oD-_xVA)**: ["An adult former Tesseract student maintained that specific people at the top of ..."](/statements/statement-e43c6e4a00b6.md)
+  - About: [Tesseract School](/entities/org-tesseract-school.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:08](/episodes/ep-1IY2oD-_xVA.md#t-00-36-08) [○] (Claim) **Candace Owens**: ["Jerri Frantzve was a friend and colleague of John Money"](/statements/statement-83b696bd60cf.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [John Money](/entities/person-john-money.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:36](/episodes/ep-1IY2oD-_xVA.md#t-00-36-36) [✓] (Claim) **Anonymous Source #2 (Ep 1IY2oD-_xVA)**: ["John Money promoted gender ideology through an experiment in which a boy injured..."](/statements/statement-582ff46e4266.md)
+  - About: [John Money](/entities/person-john-money.md), [David Peter Reimer](/entities/person-david-peter-reimer.md), [transgenderism](/entities/concept-transgenderism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:37:09](/episodes/ep-1IY2oD-_xVA.md#t-00-37-09) [✓] (Accusation) **Anonymous Source #2 (Ep 1IY2oD-_xVA)**: ["John Money publicly claimed his gender experiment succeeded, but the participant..."](/statements/statement-b0057eda388f.md)
+  - About: [John Money](/entities/person-john-money.md), [David Peter Reimer](/entities/person-david-peter-reimer.md)
+
+</div>
+<div class="filter-item">
+
+- [00:38:49](/episodes/ep-1IY2oD-_xVA.md#t-00-38-49) [○] (Accusation) **Anonymous Source #7 (Ep 1IY2oD-_xVA)**: ["A beauty-pageant source warned that Erika Kirk would do anything to reach the to..."](/statements/statement-a765d5a858ad.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:39:42](/episodes/ep-1IY2oD-_xVA.md#t-00-39-15) [○] (Accusation) **Candace Owens**: ["Erika Kirk’s claim that she grew up with a single mother is not true"](/statements/statement-d0aeb3694c6a.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:44](/episodes/ep-1IY2oD-_xVA.md#t-00-44-37) [○] (Claim) **Candace Owens**: ["Tyler Bowyer introduced Erika Kirk to Charlie Kirk"](/statements/statement-a5051df38fb6.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:02](/episodes/ep-1IY2oD-_xVA.md#t-00-44-37) [○] (Claim) **Charlie Kirk**: ["Charlie Kirk told a close associate that he was establishing a DOGE initiative b..."](/statements/statement-83440f161c1b.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:19](/episodes/ep-1IY2oD-_xVA.md#t-00-45-19) [○] (Accusation) **Anonymous Source #4 (Ep 1IY2oD-_xVA)**: ["Money was missing from Turning Point USA"](/statements/statement-1e47dfe87b37.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:48](/episodes/ep-1IY2oD-_xVA.md#t-00-45-19) [○] (Accusation) **Candace Owens**: ["Millions of dollars were missing from Turning Point USA"](/statements/statement-dbee6673ed56.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:57](/episodes/ep-1IY2oD-_xVA.md#t-00-45-57) [◐] (Accusation) **Anonymous Source #4 (Ep 1IY2oD-_xVA)**: ["The missing money was specifically from Turning Point Action, which Tyler Bowyer..."](/statements/statement-fc9de08969ab.md)
+  - About: [Turning Point Action](/entities/org-turning-point-action.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+</div>
+<div class="filter-item">
+
+- [00:46:31](/episodes/ep-1IY2oD-_xVA.md#t-00-46-31) [✓] (Claim) **Erika Kirk**: ["Erika Kirk said Lori Frantzve was put on the board of a Turning Point-related co..."](/statements/statement-776cf9ea6c71.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:46:58](/episodes/ep-1IY2oD-_xVA.md#t-00-46-31) [○] (Opinion) **Candace Owens**: ["Candace Owens does not believe Turning Point’s account that Charlie Kirk created..."](/statements/statement-2fd16fcb60f6.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Elon Musk](/entities/person-elon-musk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:48:06](/episodes/ep-1IY2oD-_xVA.md#t-00-48-06) [✓] (Claim) **Erika Kirk**: ["Erika Kirk said pageants were never something she had been groomed for"](/statements/statement-cd89b11128df.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Miss Arizona USA](/entities/org-miss-arizona-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:48:15](/episodes/ep-1IY2oD-_xVA.md#t-00-48-06) [✓] (Claim) **Erika Kirk**: ["Erika Kirk said pageants had never been on her radar"](/statements/statement-08a3acff3158.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Miss Arizona USA](/entities/org-miss-arizona-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:48:23](/episodes/ep-1IY2oD-_xVA.md#t-00-48-23) [✓] (Claim) **Erika Kirk**: ["Erika Kirk said she entered pageants after receiving an unsolicited nomination f..."](/statements/statement-9499e1b6f3a1.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Miss Arizona USA](/entities/org-miss-arizona-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:49:11](/episodes/ep-1IY2oD-_xVA.md#t-00-48-46) [○] (Opinion) **Erika Kirk**: ["Erika Kirk said pageants were not narcissistic for her but a way to serve as a s..."](/statements/statement-1bf2de798297.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Miss Arizona USA](/entities/org-miss-arizona-usa.md), [Arizona](/entities/gpe-arizona.md)
+
+</div>
+<div class="filter-item">
+
+- [00:49:25](/episodes/ep-1IY2oD-_xVA.md#t-00-49-25) [◐] (Accusation) **Candace Owens**: ["Erika Kirk’s account that pageants were not an early part of her life was untrue..."](/statements/statement-d812801974b2.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Miss Arizona USA](/entities/org-miss-arizona-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:49:32](/episodes/ep-1IY2oD-_xVA.md#t-00-49-25) [○] (Accusation) **Candace Owens**: ["Lori Frantzve pushed Erika Kirk into pageants"](/statements/statement-62afc94fd4e0.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Erika Kirk](/entities/person-erika-kirk.md), [Miss Arizona USA](/entities/org-miss-arizona-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:49:48](/episodes/ep-1IY2oD-_xVA.md#t-00-49-25) [○] (Opinion) **Candace Owens**: ["Erika Kirk badly wanted to become famous"](/statements/statement-9051b51b3377.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:56:20](/episodes/ep-1IY2oD-_xVA.md#t-00-56-20) [○] (Citation) **Candace Owens**: ["Two separate sources said Turning Point Action was missing about $10 million"](/statements/statement-1d028d0b03b3.md)
+  - About: [Turning Point Action](/entities/org-turning-point-action.md)
+
+</div>
+<div class="filter-item">
+
+- [01:00:35](/episodes/ep-1IY2oD-_xVA.md#t-01-00-27) [○] (Accusation) **Anonymous Source #5 (Ep 1IY2oD-_xVA)**: ["Turning Point USA employees said the organization had been behind attacks agains..."](/statements/statement-914fe79cbf9d.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [01:00:47](/episodes/ep-1IY2oD-_xVA.md#t-01-00-27) [○] (Accusation) **Candace Owens**: ["Turning Point USA was behind an early public-relations campaign to dismiss Canda..."](/statements/statement-edbb73ed6efa.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [01:01:06](/episodes/ep-1IY2oD-_xVA.md#t-01-01-06) [○] (Accusation) **Candace Owens**: ["Erika Kirk originated a public-relations narrative that Charlie Kirk had a “Supe..."](/statements/statement-868f76061f17.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Superman](/entities/concept-superman.md)
+
+</div>
+</details>
+
+<details>
+<summary><strong>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3</strong> (50)</summary>
+
+<div class="filter-item">
+
+- [00:00:24](/episodes/ep-cZxHqYsWRYg.md#t-00-00-01) [?] (Claim) **Candace Owens**: ["Candace Owens disputed that Erika Kirk was with Lori Frantzve on September 10 wh..."](/statements/statement-69af9bf5ce80.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:00:30](/episodes/ep-cZxHqYsWRYg.md#t-00-00-01) [✓] (Claim) **Candace Owens**: ["Lori Frantzve was placed on the Superfeed Technologies board alongside Turning P..."](/statements/statement-7005646340ac.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md)
+
+</div>
+<div class="filter-item">
+
+- [00:01:03](/episodes/ep-cZxHqYsWRYg.md#t-00-00-42) [○] (Accusation) **Candace Owens**: ["Candace Owens said Lori Frantzve and Tyler Bowyer were in cahoots"](/statements/statement-300d4c89979b.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+</div>
+<div class="filter-item">
+
+- [00:01:09](/episodes/ep-cZxHqYsWRYg.md#t-00-00-42) [?] (Accusation) **Candace Owens**: ["Candace Owens alleged that Tyler Bowyer was taking Turning Point into the real-e..."](/statements/statement-931cca63b837.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:04:06](/episodes/ep-cZxHqYsWRYg.md#t-00-03-28) [?] (Citation) **Candace Owens**: ["A divorce document listed Richard Erpenbeck as a witness, and its address let Ca..."](/statements/statement-bacd2fdbc656.md)
+  - About: [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:42](/episodes/ep-cZxHqYsWRYg.md#t-00-05-31) [?] (Citation) **Candace Owens**: ["Members of the Erpenbeck family repeatedly served as secretary, incorporator, or..."](/statements/statement-498ef9834773.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:02](/episodes/ep-cZxHqYsWRYg.md#t-00-05-31) [?] (Citation) **Candace Owens**: ["Lori Frantzve filed for Eurotech in June 1993, with Richard Erpenbeck appearing ..."](/statements/statement-bb5434d5a19f.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:09](/episodes/ep-cZxHqYsWRYg.md#t-00-05-31) [?] (Citation) **Candace Owens**: ["Lori Frantzve and Richard Erpenbeck filed for Eurotech International UK in 1995"](/statements/statement-0ee3e83d3f2f.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md), [United Kingdom](/entities/gpe-united-kingdom.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:16](/episodes/ep-cZxHqYsWRYg.md#t-00-06-16) [?] (Citation) **Candace Owens**: ["Lori Frantzve filed for TechMetrics International in 1993, and 1998 records list..."](/statements/statement-f3140481655c.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:54](/episodes/ep-cZxHqYsWRYg.md#t-00-06-16) [✓] (Citation) **Candace Owens**: ["Lori Frantzve filed for AZ Tech in August 1997 and renamed it E3 Tech in 2017"](/statements/statement-3464d5576f7a.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [AZ-Tech International](/entities/org-az-tech-international.md)
+
+</div>
+<div class="filter-item">
+
+- [00:07:17](/episodes/ep-cZxHqYsWRYg.md#t-00-07-02) [○] (Opinion) **Candace Owens**: ["Candace Owens said that the many unexplained technology LLCs made her mind go to..."](/statements/statement-7c73ac111d64.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:36](/episodes/ep-cZxHqYsWRYg.md#t-00-09-36) [✓] (Claim) **Anonymous Source #1 (Ep cZxHqYsWRYg)**: ["Bill Erpenbeck served 21 years after pleading guilty in April 2003 to defrauding..."](/statements/statement-375b07f47ca5.md)
+  - About: [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr.md), [Erpenbeck Development Company](/entities/org-erpenbeck-development-company.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:56](/episodes/ep-cZxHqYsWRYg.md#t-00-10-40) [✓] (Citation) **Candace Owens**: ["Lori Ann Erpenbeck told her lawyer that Tony Erpenbeck offered money to change h..."](/statements/statement-25baa798a75c.md)
+  - About: [Lori Ann Erpenbeck](/entities/person-lori-ann-erpenbeck.md), [Anthony Erpenbeck Sr.](/entities/person-anthony-erpenbeck-sr.md), [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:29](/episodes/ep-cZxHqYsWRYg.md#t-00-11-21) [◐] (Citation) **Candace Owens**: ["Tony Erpenbeck tried from federal prison to hire someone to murder a federal jud..."](/statements/statement-a44cdfdbb3f2.md)
+  - About: [Anthony Erpenbeck Sr.](/entities/person-anthony-erpenbeck-sr.md), [S. Arthur Spiegel](/entities/person-s-arthur-spiegel.md), [Kathleen Brinkman](/entities/person-kathleen-brinkman.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:55](/episodes/ep-cZxHqYsWRYg.md#t-00-12-42) [?] (Citation) **Candace Owens**: ["A notary testified that Bill Erpenbeck sometimes asked her to notarize documents..."](/statements/statement-3e100f27921d.md)
+  - About: [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr.md), [Erpenbeck Development Company](/entities/org-erpenbeck-development-company.md)
+
+</div>
+<div class="filter-item">
+
+- [00:14:54](/episodes/ep-cZxHqYsWRYg.md#t-00-14-13) [◐] (Citation) **Candace Owens**: ["Bill Erpenbeck received a 30-year sentence and served 21 years after a later red..."](/statements/statement-29bd878d2ffc.md)
+  - About: [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr.md), [Anthony Erpenbeck Sr.](/entities/person-anthony-erpenbeck-sr.md)
+
+</div>
+<div class="filter-item">
+
+- [00:15:42](/episodes/ep-cZxHqYsWRYg.md#t-00-15-35) [◐] (Citation) **Candace Owens**: ["Richard Erpenbeck surrendered his Kentucky law license but avoided criminal char..."](/statements/statement-80821100eee7.md)
+  - About: [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md), [Erpenbeck Development Company](/entities/org-erpenbeck-development-company.md)
+
+</div>
+<div class="filter-item">
+
+- [00:15:58](/episodes/ep-cZxHqYsWRYg.md#t-00-15-35) [✓] (Citation) **Candace Owens**: ["A central issue in Richard Erpenbeck's testimony was why Tony Erpenbeck transfer..."](/statements/statement-244ceec5bd1a.md)
+  - About: [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md), [Anthony Erpenbeck Sr.](/entities/person-anthony-erpenbeck-sr.md)
+
+</div>
+<div class="filter-item">
+
+- [00:16:11](/episodes/ep-cZxHqYsWRYg.md#t-00-15-35) [✓] (Claim) **Richard William Erpenbeck**: ["Richard Erpenbeck testified that he viewed Tony Erpenbeck's asset transfer as a ..."](/statements/statement-082d6332cb04.md)
+  - About: [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md), [Anthony Erpenbeck Sr.](/entities/person-anthony-erpenbeck-sr.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:25](/episodes/ep-cZxHqYsWRYg.md#t-00-17-01) [✓] (Claim) **Anonymous Source #1 (Ep cZxHqYsWRYg)**: ["In 2009 FBI agents recovered a cooler of cash buried at Summit Hills Country Clu..."](/statements/statement-4dda7f080dbb.md)
+  - About: [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Summit Hills Country Club](/entities/org-summit-hills-country-club.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:48](/episodes/ep-cZxHqYsWRYg.md#t-00-17-48) [○] (Accusation) **Candace Owens**: ["Candace Owens accused fraud of repeatedly surrounding Lori Frantzve through her ..."](/statements/statement-67d7df5261ea.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md)
+
+</div>
+<div class="filter-item">
+
+- [00:21:20](/episodes/ep-cZxHqYsWRYg.md#t-00-20-59) [✓] (Citation) **Candace Owens**: ["A Yahoo News report said Superfeed Technologies had its Arizona business status ..."](/statements/statement-f8a16cb746f5.md)
+  - About: [Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md), [Kari Lake](/entities/person-kari-lake.md), [Jeff DeWit](/entities/person-jeff-dewit.md)
+
+</div>
+<div class="filter-item">
+
+- [00:21:56](/episodes/ep-cZxHqYsWRYg.md#t-00-21-44) [◐] (Accusation) **Candace Owens**: ["Tyler Bowyer received a federal pardon for conduct involving alleged election su..."](/statements/statement-f29baa6b0441.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+</div>
+<div class="filter-item">
+
+- [00:27:57](/episodes/ep-cZxHqYsWRYg.md#t-00-27-32) [?] (Citation) **Candace Owens**: ["Deeds obtained by a researcher listed Lori and Kent Frantzve as a couple from No..."](/statements/statement-0a5691622ac0.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md), [North Kingstown, Rhode Island](/entities/gpe-north-kingstown-rhode-island.md)
+
+</div>
+<div class="filter-item">
+
+- [00:30:03](/episodes/ep-cZxHqYsWRYg.md#t-00-29-56) [?] (Claim) **Candace Owens**: ["Candace Owens said there was non-conclusive evidence that Erika Kirk attended St..."](/statements/statement-ca90bd0fdae3.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [St. Ursula Villa](/entities/org-st-ursula-villa.md), [Ohio](/entities/gpe-ohio.md)
+
+</div>
+<div class="filter-item">
+
+- [00:30:26](/episodes/ep-cZxHqYsWRYg.md#t-00-29-56) [◐] (Claim) **Candace Owens**: ["St. Ursula Villa was privately funded and separate from St. Ursula Academy and t..."](/statements/statement-fcf673e8104b.md)
+  - About: [St. Ursula Villa](/entities/org-st-ursula-villa.md), [Saint Ursula Academy](/entities/org-saint-ursula-academy.md), [Catholic Church](/entities/org-catholic-church.md)
+
+</div>
+<div class="filter-item">
+
+- [00:31:25](/episodes/ep-cZxHqYsWRYg.md#t-00-31-16) [◐] (Claim) **Candace Owens**: ["Notre Dame Preparatory High School formerly operated as the Tesseract School tha..."](/statements/statement-4c5dad0d8dd3.md)
+  - About: [Notre Dame Preparatory High School](/entities/org-notre-dame-preparatory-high-school.md), [Tesseract School](/entities/org-tesseract-school.md), [Scottsdale, Arizona](/entities/gpe-scottsdale.md)
+
+</div>
+<div class="filter-item">
+
+- [00:33:40](/episodes/ep-cZxHqYsWRYg.md#t-00-33-28) [◐] (Claim) **Candace Owens**: ["From 2005 through 2012, Erika Kirk participated in beauty pageants every year Ca..."](/statements/statement-07aed7154395.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [National American Miss](/entities/org-national-american-miss.md), [Miss Arizona USA](/entities/org-miss-arizona-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:33:56](/episodes/ep-cZxHqYsWRYg.md#t-00-33-28) [?] (Claim) **Candace Owens**: ["Pageant participants told Candace Owens that minors are not freely solicited for..."](/statements/statement-6a4e1d585211.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Miss Arizona USA](/entities/org-miss-arizona-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:34:22](/episodes/ep-cZxHqYsWRYg.md#t-00-34-13) [?] (Claim) **Candace Owens**: ["During the 2005-2006 school year Erika Kirk was a Notre Dame Prep junior and fir..."](/statements/statement-77af8948ffc8.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Notre Dame Preparatory High School](/entities/org-notre-dame-preparatory-high-school.md), [National American Miss](/entities/org-national-american-miss.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:10](/episodes/ep-cZxHqYsWRYg.md#t-00-34-55) [◐] (Claim) **Candace Owens**: ["In August 2006 Erika Kirk won a National American Miss Teen title and traveled t..."](/statements/statement-bbb03b55139a.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [National American Miss](/entities/org-national-american-miss.md), [John D. Hayworth Jr.](/entities/person-john-d-hayworth-jr.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:17](/episodes/ep-cZxHqYsWRYg.md#t-00-36-06) [?] (Claim) **Candace Owens**: ["Arizona tax authorities canceled Virtual Registration International because Lori..."](/statements/statement-afc9c97d744b.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md), [Arizona](/entities/gpe-arizona.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:57](/episodes/ep-cZxHqYsWRYg.md#t-00-36-51) [✓] (Claim) **Candace Owens**: ["Erika Kirk graduated from Notre Dame Prep in 2007 with a full basketball and aca..."](/statements/statement-d6ec1eb3ee65.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Notre Dame Preparatory High School](/entities/org-notre-dame-preparatory-high-school.md), [Regis University](/entities/org-regis-university.md)
+
+</div>
+<div class="filter-item">
+
+- [00:38:57](/episodes/ep-cZxHqYsWRYg.md#t-00-38-57) [◐] (Accusation) **Candace Owens**: ["Regis University records show Erika Kirk playing basketball only in the 2007-200..."](/statements/statement-5c9f6a1a5171.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Regis University](/entities/org-regis-university.md), [Notre Dame Preparatory High School](/entities/org-notre-dame-preparatory-high-school.md)
+
+</div>
+<div class="filter-item">
+
+- [00:40:45](/episodes/ep-cZxHqYsWRYg.md#t-00-40-16) [✓] (Claim) **Erika Kirk**: ["After giving up her pageant crown, Erika Kirk said she became a hermit for about..."](/statements/statement-5c106dbf6d8c.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:41:38](/episodes/ep-cZxHqYsWRYg.md#t-00-41-29) [○] (Opinion) **Candace Owens**: ["Candace Owens speculated that Erika Kirk's eight-month isolation could have been..."](/statements/statement-eba282bfcd4f.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Christianity](/entities/concept-christianity.md)
+
+</div>
+<div class="filter-item">
+
+- [00:42:43](/episodes/ep-cZxHqYsWRYg.md#t-00-42-38) [?] (Claim) **Candace Owens**: ["Turning Point USA did not answer Candace Owens's question asking who Erika Kirk'..."](/statements/statement-751fca658890.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:42:58](/episodes/ep-cZxHqYsWRYg.md#t-00-42-38) [○] (Opinion) **Candace Owens**: ["Candace Owens identified City of Grace in Scottsdale only as a possible church c..."](/statements/statement-4a7803c8b511.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [City of Grace Church](/entities/org-city-of-grace-church.md), [Scottsdale, Arizona](/entities/gpe-scottsdale.md)
+
+</div>
+<div class="filter-item">
+
+- [00:43:06](/episodes/ep-cZxHqYsWRYg.md#t-00-42-38) [?] (Citation) **Candace Owens**: ["Erika Kirk's social-media posts from 2011 praised Terry Crist and described frie..."](/statements/statement-187f4cec9ba6.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Terry Crist](/entities/person-terry-crist.md), [Judith Crist](/entities/person-judith-crist.md)
+
+</div>
+<div class="filter-item">
+
+- [00:43:55](/episodes/ep-cZxHqYsWRYg.md#t-00-43-23) [✓] (Claim) **Brian Houston**: ["Brian Houston said he had no doubt that his father was a serial pedophile and th..."](/statements/statement-9435c22d1e41.md)
+  - About: [Brian Houston](/entities/person-brian-houston.md), [Hillsong Church](/entities/org-hillsong-church.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:32](/episodes/ep-cZxHqYsWRYg.md#t-00-44-32) [?] (Claim) **Anonymous Source #2 (Ep cZxHqYsWRYg)**: ["Ashley said Terry and Judith Crist were very close with Erika Kirk from approxim..."](/statements/statement-d5548877cc70.md)
+  - About: [Terry Crist](/entities/person-terry-crist.md), [Judith Crist](/entities/person-judith-crist.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:53](/episodes/ep-cZxHqYsWRYg.md#t-00-44-32) [✗] (Claim) **Anonymous Source #2 (Ep cZxHqYsWRYg)**: ["Ashley said Terry Crist was a close friend of Hillsong founder Brian Houston and..."](/statements/statement-24bda22c18a9.md)
+  - About: [Terry Crist](/entities/person-terry-crist.md), [Brian Houston](/entities/person-brian-houston.md), [Hillsong Church](/entities/org-hillsong-church.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:25](/episodes/ep-cZxHqYsWRYg.md#t-00-45-00) [✓] (Accusation) **Anonymous Source #2 (Ep cZxHqYsWRYg)**: ["Ashley relayed an unverified word-on-the-street allegation that Terry and Judith..."](/statements/statement-600a633777a4.md)
+  - About: [Terry Crist](/entities/person-terry-crist.md), [Judith Crist](/entities/person-judith-crist.md), [City of Grace Church](/entities/org-city-of-grace-church.md)
+
+</div>
+<div class="filter-item">
+
+- [00:46:54](/episodes/ep-cZxHqYsWRYg.md#t-00-46-54) [✓] (Claim) **Candace Owens**: ["Despite her reported eight-month hiatus, Erika Kirk competed in Miss Colorado US..."](/statements/statement-52e6aa83a3ab.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Colorado](/entities/gpe-colorado.md)
+
+</div>
+<div class="filter-item">
+
+- [00:50:50](/episodes/ep-cZxHqYsWRYg.md#t-00-50-19) [?] (Accusation) **Candace Owens**: ["Candace Owens accused speakers at Charlie Kirk's memorial of not writing their o..."](/statements/statement-ea86dab5b203.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:51:29](/episodes/ep-cZxHqYsWRYg.md#t-00-51-00) [◐] (Accusation) **Candace Owens**: ["Why did Erika Kirk have a sufficiently clear mind to call a board vote making he..."](/statements/statement-17a9b50ce31a.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:53:17](/episodes/ep-cZxHqYsWRYg.md#t-00-53-17) [?] (Claim) **Candace Owens**: ["Erika Kirk told Candace Owens that she received the questions ahead of her Bari ..."](/statements/statement-024f7c811cbf.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Bari Weiss](/entities/person-bari-weiss.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:54:31](/episodes/ep-cZxHqYsWRYg.md#t-00-54-25) [✓] (Claim) **Erika Kirk**: ["Erika Kirk said she lived in New York City for five years and never dated there"](/statements/statement-9b39e1b295e4.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [New York City](/entities/gpe-new-york-city.md)
+
+</div>
+<div class="filter-item">
+
+- [00:57:41](/episodes/ep-cZxHqYsWRYg.md#t-00-57-02) [○] (Accusation) **Candace Owens**: ["Candace Owens said reports that Lori Frantzve tells Erika Kirk what to say and w..."](/statements/statement-f50fcfbd5748.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:58:13](/episodes/ep-cZxHqYsWRYg.md#t-00-57-41) [◐] (Accusation) **Candace Owens**: ["Candace Owens accused Erika Kirk of lying about not dating in New York, saying s..."](/statements/statement-8f23a4761c50.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [New York City](/entities/gpe-new-york-city.md)
+
+</div>
+</details>
+
+<details>
+<summary><strong>Bride Of Charlie: The Ties That Bind | Episode 4</strong> (38)</summary>
+
+<div class="filter-item">
+
+- [00:00:38](/episodes/ep-jTj9Ip46r4w.md#t-00-00-38) [○] (Claim) **Candace Owens**: ["Charlie Kirk was the one person who stood between the United States and involvem..."](/statements/statement-5859022c9868.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [United States](/entities/gpe-united-states.md), [Iran](/entities/gpe-iran.md)
+
+</div>
+<div class="filter-item">
+
+- [00:00:46](/episodes/ep-jTj9Ip46r4w.md#t-00-00-38) [◐] (Claim) **Candace Owens**: ["Charlie Kirk was at the White House and convinced Donald Trump that a full-scale..."](/statements/statement-97b1ed9cf8ca.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md)
+
+</div>
+<div class="filter-item">
+
+- [00:01:03](/episodes/ep-jTj9Ip46r4w.md#t-00-00-38) [✓] (Accusation) **Candace Owens**: ["It is Candace Owens's personal belief that they colluded to have Charlie Kirk re..."](/statements/statement-f52c4565bac5.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [White House](/entities/org-white-house.md)
+
+</div>
+<div class="filter-item">
+
+- [00:01:21](/episodes/ep-jTj9Ip46r4w.md#t-00-01-21) [✓] (Accusation) **Candace Owens**: ["Candace Owens believes, based on evidence, that Charlie Kirk's murder was likely..."](/statements/statement-7812137609ed.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
+
+</div>
+<div class="filter-item">
+
+- [00:01:45](/episodes/ep-jTj9Ip46r4w.md#t-00-01-21) [◐] (Claim) **Candace Owens**: ["Charlie Kirk had abandoned the pro-Israel cause entirely before his death."](/statements/statement-2cd66649f19c.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md), [Zionism](/entities/concept-zionism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:03:00](/episodes/ep-jTj9Ip46r4w.md#t-00-02-47) [○] (Opinion) **Charlie Kirk**: ["Puritanical ideological approaches to situations such as Iran are not helpful."](/statements/statement-b742385b8ac8.md)
+  - About: [Iran](/entities/gpe-iran.md), [Neoconservatism](/entities/concept-neoconservatism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:04:11](/episodes/ep-jTj9Ip46r4w.md#t-00-04-11) [○] (Opinion) **Charlie Kirk**: ["Donald Trump was doing a phenomenal job resisting calls for regime change in Ira..."](/statements/statement-12710c18ef75.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md), [Neoconservatism](/entities/concept-neoconservatism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:07:06](/episodes/ep-jTj9Ip46r4w.md#t-00-07-04) [○] (Opinion) **Michael McCoy**: ["Mikey McCoy was irritated to see people who did not know Charlie Kirk use his vo..."](/statements/statement-be923152161f.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</div>
+<div class="filter-item">
+
+- [00:08:13](/episodes/ep-jTj9Ip46r4w.md#t-00-07-43) [○] (Claim) **Candace Owens**: ["Erika Kirk was slated to record something with Benjamin Netanyahu and Ben Shapir..."](/statements/statement-9d25ce5f57e9.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:30](/episodes/ep-jTj9Ip46r4w.md#t-00-09-00) [○] (Claim) **Candace Owens**: ["Jerri Frantzve and Kent Frantzve were married at the Baha'i House of Worship in ..."](/statements/statement-19f5c259f6de.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md), [Baháʼí House of Worship for North America](/entities/org-bahai-house-of-worship-wilmette.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:55](/episodes/ep-jTj9Ip46r4w.md#t-00-09-39) [◐] (Claim) **Candace Owens**: ["Jerri Frantzve married at age 14, later became a psychologist, created the Tesse..."](/statements/statement-0fc66f0e3e96.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Radford University](/entities/org-radford-university.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:20](/episodes/ep-jTj9Ip46r4w.md#t-00-09-39) [○] (Claim) **Candace Owens**: ["Jerri Frantzve worked as a psychologist with DuPont Chemicals."](/statements/statement-a50e251785f5.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [DuPont](/entities/org-dupont.md), [Eastern Europe](/entities/gpe-eastern-europe.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:15](/episodes/ep-jTj9Ip46r4w.md#t-00-10-59) [✓] (Claim) **Candace Owens**: ["Jack David Solomon founded the company now known as Bally Technologies."](/statements/statement-b86292eb51eb.md)
+  - About: [Jack David Solomon](/entities/person-jack-david-solomon.md), [Bally Technologies, Inc.](/entities/org-bally-technologies.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:25](/episodes/ep-jTj9Ip46r4w.md#t-00-10-59) [○] (Claim) **Candace Owens**: ["The dedication at Zion's Gate in Israel belongs to Jack David Solomon's family, ..."](/statements/statement-d64fec5e45a5.md)
+  - About: [Jack David Solomon](/entities/person-jack-david-solomon.md), [Erika Kirk](/entities/person-erika-kirk.md), [Israel](/entities/gpe-israel.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:53](/episodes/ep-jTj9Ip46r4w.md#t-00-11-41) [○] (Accusation) **Candace Owens**: ["Lori Frantzve has many companies that repeatedly fail to file on time and have t..."](/statements/statement-cdbb58a8098c.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:05](/episodes/ep-jTj9Ip46r4w.md#t-00-13-05) [◐] (Accusation) **Candace Owens**: ["Bill Erpenbeck served more than two decades in prison for financial fraud, tried..."](/statements/statement-a88395f37266.md)
+  - About: [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:21](/episodes/ep-jTj9Ip46r4w.md#t-00-13-05) [◐] (Accusation) **Candace Owens**: ["William 'Tony' Erpenbeck tried to arrange the kidnapping and murder of children ..."](/statements/statement-aa2c7efb9870.md)
+  - About: [Anthony Erpenbeck Sr.](/entities/person-anthony-erpenbeck-sr.md)
+
+</div>
+<div class="filter-item">
+
+- [00:13:42](/episodes/ep-jTj9Ip46r4w.md#t-00-13-42) [○] (Claim) **Candace Owens**: ["Erika Kirk is close to Rick Erpenbeck."](/statements/statement-3667e5dd4bb3.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md), [Instagram](/entities/org-instagram.md)
+
+</div>
+<div class="filter-item">
+
+- [00:19:08](/episodes/ep-jTj9Ip46r4w.md#t-00-18-49) [○] (Citation) **Candace Owens**: ["A November 10, 1998 final divorce decree types Erika Kirk's name and lists her b..."](/statements/statement-b4de01c0296c.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:21:34](/episodes/ep-jTj9Ip46r4w.md#t-00-21-34) [○] (Accusation) **Elizabeth Lane**: ["Elizabeth Lane argued in her investigative thesis that Erika Kirk might be a psy..."](/statements/statement-80348a14cd7c.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:22:51](/episodes/ep-jTj9Ip46r4w.md#t-00-22-18) [○] (Claim) **Candace Owens**: ["Erika Kirk posted her mother in a vulnerable, sick condition two to three days b..."](/statements/statement-be0c860d86f2.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:28:15](/episodes/ep-jTj9Ip46r4w.md#t-00-28-15) [◐] (Citation) **Candace Owens**: ["Abraham Polak wrote a researched book arguing that Israelis descend from the Kha..."](/statements/statement-df257682834e.md)
+  - About: [Abraham Polak](/entities/person-abraham-polak.md), [Khazar Khaganate](/entities/gpe-khazar-khaganate.md), [Israel](/entities/gpe-israel.md)
+
+</div>
+<div class="filter-item">
+
+- [00:28:50](/episodes/ep-jTj9Ip46r4w.md#t-00-28-50) [✗] (Claim) **Candace Owens**: ["The Italian mafia was actually Jewish and perhaps Khazarian Jewish."](/statements/statement-90deac9a5b6c.md)
+  - About: [Italy](/entities/gpe-italy.md), [Judaism](/entities/concept-judaism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:29:04](/episodes/ep-jTj9Ip46r4w.md#t-00-28-50) [◐] (Claim) **Candace Owens**: ["Hollywood was factually started by Jewish gangs, including the people behind Uni..."](/statements/statement-cd93785f985e.md)
+  - About: [Hollywood](/entities/gpe-hollywood.md), [Universal Studios](/entities/org-universal-studios.md), [Metro-Goldwyn-Mayer](/entities/org-metro-goldwyn-mayer.md)
+
+</div>
+<div class="filter-item">
+
+- [00:29:57](/episodes/ep-jTj9Ip46r4w.md#t-00-29-57) [✗] (Claim) **Candace Owens**: ["The Russian Tsar was assassinated in 1881 by a Jewish revolutionary gang from th..."](/statements/statement-66da5feb5798.md)
+  - About: [Russia](/entities/gpe-russia.md), [Pale of Settlement](/entities/gpe-pale-of-settlement.md), [Judaism](/entities/concept-judaism.md)
+
+</div>
+<div class="filter-item">
+
+- [00:31:17](/episodes/ep-jTj9Ip46r4w.md#t-00-31-17) [✗] (Claim) **Candace Owens**: ["There is no evidence that the Jewish revolutionaries associated with the Tsar's ..."](/statements/statement-d70a499c2236.md)
+  - About: [Russia](/entities/gpe-russia.md), [Italy](/entities/gpe-italy.md), [United States](/entities/gpe-united-states.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:26](/episodes/ep-jTj9Ip46r4w.md#t-00-31-57) [✓] (Claim) **Candace Owens**: ["President William McKinley's assassin, Leon Czolgosz, was radicalized by Jewish ..."](/statements/statement-ea6493486398.md)
+  - About: [William McKinley](/entities/person-william-mckinley.md), [Leon Czolgosz](/entities/person-leon-czolgosz.md), [Emma Goldman](/entities/person-emma-goldman.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:55](/episodes/ep-jTj9Ip46r4w.md#t-00-32-39) [◐] (Claim) **Candace Owens**: ["Emma Goldman was behind Margaret Sanger and Planned Parenthood."](/statements/statement-121697e7db97.md)
+  - About: [Emma Goldman](/entities/person-emma-goldman.md), [Margaret Sanger](/entities/person-margaret-sanger.md), [Planned Parenthood](/entities/org-planned-parenthood.md)
+
+</div>
+<div class="filter-item">
+
+- [00:33:33](/episodes/ep-jTj9Ip46r4w.md#t-00-33-20) [✗] (Claim) **Candace Owens**: ["Unions were established to enable racketeering mafias, which is why unions are a..."](/statements/statement-6490f60b68bd.md)
+  - About: [United States](/entities/gpe-united-states.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:46](/episodes/ep-jTj9Ip46r4w.md#t-00-36-46) [✓] (Claim) **Charlie Kirk**: ["Erika Kirk is from the Lombardi family."](/statements/statement-52f6ca5aa51e.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Vince Lombardi](/entities/person-vince-lombardi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:38:57](/episodes/ep-jTj9Ip46r4w.md#t-00-38-32) [○] (Citation) **Candace Owens**: ["An obituary from 1970 identifies Erika Kirk's maternal grandmother as Angeline L..."](/statements/statement-12b6fd2f8653.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Cincinnati, Ohio](/entities/gpe-cincinnati-ohio.md)
+
+</div>
+<div class="filter-item">
+
+- [00:40:33](/episodes/ep-jTj9Ip46r4w.md#t-00-40-33) [○] (Accusation) **Candace Owens**: ["If Lombardo and Lombardi are interchangeable, Lori Frantzve may have ties to the..."](/statements/statement-da66ecbaf434.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:42:21](/episodes/ep-jTj9Ip46r4w.md#t-00-42-21) [◐] (Claim) **Anonymous Source #1 (Ep jTj9Ip46r4w)**: ["Erika Kirk did not play basketball for Regis University in the 2008-2009 season,..."](/statements/statement-5c047e06c835.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Regis University](/entities/org-regis-university.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:16](/episodes/ep-jTj9Ip46r4w.md#t-00-43-59) [✓] (Claim) **Erika Kirk**: ["After leaving the Miss Arizona world, Erika Kirk locked herself in her room, rea..."](/statements/statement-34ae145de898.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Bible](/entities/work-bible.md), [Christianity](/entities/concept-christianity.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:39](/episodes/ep-jTj9Ip46r4w.md#t-00-45-39) [✓] (Claim) **Erika Kirk**: ["The first time Erika Kirk read the Bible cover to cover was in 2016, and it chan..."](/statements/statement-ccef73a32562.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Bible](/entities/work-bible.md)
+
+</div>
+<div class="filter-item">
+
+- [00:48:11](/episodes/ep-jTj9Ip46r4w.md#t-00-48-11) [○] (Opinion) **Candace Owens**: ["Erika Kirk is not fit to serve as CEO and chairman of Turning Point USA because ..."](/statements/statement-17956b92e844.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:54:15](/episodes/ep-jTj9Ip46r4w.md#t-00-54-15) [○] (Accusation) **Candace Owens**: ["Erika Kirk has directed Turning Point USA's public-relations messaging from the ..."](/statements/statement-dbcc488709c5.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+</div>
+<div class="filter-item">
+
+- [00:58:02](/episodes/ep-jTj9Ip46r4w.md#t-00-57-28) [○] (Accusation) **Candace Owens**: ["Erika Kirk's conduct registers to Candace Owens as that of a pathological liar."](/statements/statement-25420457f4a6.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+</details>
+
+<details>
+<summary><strong>Bride Of Charlie: The Lost Years... | Episode 5</strong> (44)</summary>
+
+<div class="filter-item">
+
+- [00:02:11](/episodes/ep-2tFYJf1klgY.md#t-00-02-11) [✓] (Claim) **Jerri L. Frantzve**: ["The final big project of Jerri Frantzve's semester would take students to Easter..."](/statements/statement-f1ed06d9f20c.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Eastern Europe](/entities/gpe-eastern-europe.md)
+
+</div>
+<div class="filter-item">
+
+- [00:03:55](/episodes/ep-2tFYJf1klgY.md#t-00-03-23) [○] (Accusation) **Candace Owens**: ["I don't think Jerri Frantzve, who is a verifiable fraud, was in Eastern Europe r..."](/statements/statement-89290ab57780.md)
+  - About: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Eastern Europe](/entities/gpe-eastern-europe.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:59](/episodes/ep-2tFYJf1klgY.md#t-00-05-25) [✓] (Claim) **Candace Owens**: ["Erika Kirk was born on either November 20 or November 22, depending on the sourc..."](/statements/statement-f649112b4860.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:11](/episodes/ep-2tFYJf1klgY.md#t-00-06-06) [○] (Citation) **Candace Owens**: ["Candace Owens's team could find neither marriage records for Lori Frantzve and K..."](/statements/statement-22de5f4af6e6.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md), [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:07:17](/episodes/ep-2tFYJf1klgY.md#t-00-07-17) [◐] (Claim) **Candace Owens**: ["Kent Randall Frantzve and Lori Frantzve allegedly married in Marblehead, Massach..."](/statements/statement-7fe22e3d029d.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:08:18](/episodes/ep-2tFYJf1klgY.md#t-00-07-55) [○] (Claim) **Candace Owens**: ["No St. Ursula Villa yearbook has yet confirmed Erika Kirk's attendance there fro..."](/statements/statement-8b106ec3afc7.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [St. Ursula Villa](/entities/org-st-ursula-villa.md), [Cincinnati, Ohio](/entities/gpe-cincinnati-ohio.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:52](/episodes/ep-2tFYJf1klgY.md#t-00-09-52) [◐] (Citation) **Candace Owens**: ["E3Tech's current website says the company participated in Operation Enduring Fre..."](/statements/statement-8192527b76c3.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:26](/episodes/ep-2tFYJf1klgY.md#t-00-09-52) [◐] (Citation) **Candace Owens**: ["E3Tech received an award for its work connected to Operation Enduring Freedom."](/statements/statement-085b3a803f91.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</div>
+<div class="filter-item">
+
+- [00:10:55](/episodes/ep-2tFYJf1klgY.md#t-00-10-34) [○] (Claim) **Candace Owens**: ["Lori Frantzve formed Virtual Registration International Incorporated with Richar..."](/statements/statement-e582e6b173d9.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:13](/episodes/ep-2tFYJf1klgY.md#t-00-11-13) [✓] (Claim) **Candace Owens**: ["Lori Frantzve formed Intellimet International Incorporated of Delaware on Decemb..."](/statements/statement-98853befecc9.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Delaware](/entities/gpe-delaware.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:28](/episodes/ep-2tFYJf1klgY.md#t-00-11-13) [◐] (Accusation) **Candace Owens**: ["Tesseract School went bankrupt in 2000 and millions were apparently missing."](/statements/statement-605c0d469599.md)
+  - About: [Tesseract School](/entities/org-tesseract-school.md)
+
+</div>
+<div class="filter-item">
+
+- [00:12:34](/episodes/ep-2tFYJf1klgY.md#t-00-12-34) [○] (Citation) **Candace Owens**: ["A House budget bill listed Intellimet Laboratories as receiving money from the D..."](/statements/statement-02b626588ee5.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [United States Department of Homeland Security](/entities/org-us-department-homeland-security.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:11](/episodes/ep-2tFYJf1klgY.md#t-00-16-51) [◐] (Citation) **Candace Owens**: ["The Army National Guard disclosed that it gave $2.4 million to Intellimet Labora..."](/statements/statement-7b6d1a9a7d0e.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Army National Guard](/entities/org-army-national-guard.md)
+
+</div>
+<div class="filter-item">
+
+- [00:18:21](/episodes/ep-2tFYJf1klgY.md#t-00-18-13) [◐] (Citation) **Candace Owens**: ["Lori Frantzve established Everyday Heroes Like You in April 2009, and its filing..."](/statements/statement-a1c5a67c330b.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Everyday Heroes Like You](/entities/org-everyday-heroes-like-you.md)
+
+</div>
+<div class="filter-item">
+
+- [00:19:20](/episodes/ep-2tFYJf1klgY.md#t-00-18-48) [✗] (Claim) **Candace Owens**: ["In October 2009, the Romanian government agreed to allow the United States to es..."](/statements/statement-05a36286243c.md)
+  - About: [Romania](/entities/gpe-romania.md), [United States](/entities/gpe-united-states.md), [Black Sea](/entities/gpe-black-sea.md)
+
+</div>
+<div class="filter-item">
+
+- [00:20:44](/episodes/ep-2tFYJf1klgY.md#t-00-20-44) [✓] (Claim) **Erika Kirk**: ["Erika Kirk said she lived in China and worked with sex-trafficking victims, then..."](/statements/statement-7983b1c952fc.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [China](/entities/gpe-china.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md)
+
+</div>
+<div class="filter-item">
+
+- [00:21:58](/episodes/ep-2tFYJf1klgY.md#t-00-21-58) [✓] (Claim) **Candace Owens**: ["Erika Kirk competed for Miss Colorado 2010 in November 2009 and placed fourth ru..."](/statements/statement-d68324451315.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Colorado](/entities/gpe-colorado.md)
+
+</div>
+<div class="filter-item">
+
+- [00:22:24](/episodes/ep-2tFYJf1klgY.md#t-00-21-58) [◐] (Citation) **Candace Owens**: ["Jeffrey Epstein's emails from 2009 show him procuring women from Romania, includ..."](/statements/statement-12980285908c.md)
+  - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Romania](/entities/gpe-romania.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:25](/episodes/ep-2tFYJf1klgY.md#t-00-23-14) [○] (Claim) **Candace Owens**: ["Erika Kirk claimed she attended Loyola Marymount University during her junior ye..."](/statements/statement-82fa3641e21b.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Loyola Marymount University](/entities/org-loyola-marymount-university.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:10](/episodes/ep-2tFYJf1klgY.md#t-00-24-45) [◐] (Citation) **Candace Owens**: ["Erika Kirk was filming November Renaissance in November 2010, and a trailer was ..."](/statements/statement-61b647be82fa.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [November Renaissance](/entities/work-november-renaissance.md), [Kickstarter](/entities/org-kickstarter.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:27](/episodes/ep-2tFYJf1klgY.md#t-00-25-27) [○] (Claim) **Candace Owens**: ["Actors, directors, and other people working with Erika Kirk on November Renaissa..."](/statements/statement-94ca08d74bdd.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [November Renaissance](/entities/work-november-renaissance.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</div>
+<div class="filter-item">
+
+- [00:26:31](/episodes/ep-2tFYJf1klgY.md#t-00-26-07) [✓] (Claim) **Candace Owens**: ["Erika Kirk formed Table 4 LLC with her then-boyfriend Tyler Sandford in 2010."](/statements/statement-b544ece98ad2.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:27:36](/episodes/ep-2tFYJf1klgY.md#t-00-27-28) [◐] (Citation) **Candace Owens**: ["The Black Sea Rotational Force 2010 established a base at Mihail Kogălniceanu Ai..."](/statements/statement-d09c22cec0e4.md)
+  - About: [Black Sea Rotational Force](/entities/org-black-sea-rotational-force.md), [Romania](/entities/gpe-romania.md), [Black Sea](/entities/gpe-black-sea.md)
+
+</div>
+<div class="filter-item">
+
+- [00:28:37](/episodes/ep-2tFYJf1klgY.md#t-00-28-30) [◐] (Accusation) **Candace Owens**: ["Colonel Otto Buescher was accused of running a brothel and human-trafficking rin..."](/statements/statement-94139db35c98.md)
+  - About: [Otto Busher III](/entities/person-otto-busher-iii.md)
+
+</div>
+<div class="filter-item">
+
+- [00:28:49](/episodes/ep-2tFYJf1klgY.md#t-00-28-30) [✓] (Claim) **Candace Owens**: ["Erika Kirk came into contact with Colonel Otto Buescher."](/statements/statement-c3eef5212da7.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Otto Busher III](/entities/person-otto-busher-iii.md)
+
+</div>
+<div class="filter-item">
+
+- [00:29:22](/episodes/ep-2tFYJf1klgY.md#t-00-29-09) [○] (Claim) **Tyler Bowyer**: ["Tyler Bowyer said he went to Romania to work with a senator in its parliament, a..."](/statements/statement-519304cbe46c.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Romania](/entities/gpe-romania.md)
+
+</div>
+<div class="filter-item">
+
+- [00:29:50](/episodes/ep-2tFYJf1klgY.md#t-00-29-50) [○] (Claim) **Tyler Bowyer**: ["Tyler Bowyer said he spent four days at the beach, got 'completely Romanian slos..."](/statements/statement-3ab4add06966.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Romania](/entities/gpe-romania.md)
+
+</div>
+<div class="filter-item">
+
+- [00:30:43](/episodes/ep-2tFYJf1klgY.md#t-00-30-43) [○] (Accusation) **Candace Owens**: ["Tyler Bowyer is a sexual deviant."](/statements/statement-62ae60889131.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+</div>
+<div class="filter-item">
+
+- [00:31:28](/episodes/ep-2tFYJf1klgY.md#t-00-31-28) [○] (Claim) **Candace Owens**: ["Erika Kirk told Candace Owens that she might have met Tyler Bowyer through a sen..."](/statements/statement-eb28de4d75c3.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:36](/episodes/ep-2tFYJf1klgY.md#t-00-35-26) [○] (Accusation) **Candace Owens**: ["I think Erika Kirk, the Frantzves, and Tyler Bowyer may have known one another s..."](/statements/statement-4e6bbf5f346f.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+</div>
+<div class="filter-item">
+
+- [00:37:08](/episodes/ep-2tFYJf1klgY.md#t-00-36-53) [✓] (Citation) **Candace Owens**: ["Richard William Erpenbeck's Kentucky law license was first removed because he di..."](/statements/statement-5b30f54c6dab.md)
+  - About: [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md)
+
+</div>
+<div class="filter-item">
+
+- [00:37:28](/episodes/ep-2tFYJf1klgY.md#t-00-37-28) [✓] (Citation) **Candace Owens**: ["A 2007 investigation found that Richard William Erpenbeck failed to tell the Ban..."](/statements/statement-3290b7cb0250.md)
+  - About: [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md), [Bank of Corbin](/entities/org-bank-of-corbin.md)
+
+</div>
+<div class="filter-item">
+
+- [00:38:20](/episodes/ep-2tFYJf1klgY.md#t-00-38-00) [✓] (Citation) **Candace Owens**: ["William Erpenbeck Jr. transferred 50% of his B&G Holdings stock to Bill Erpenbec..."](/statements/statement-3fac431b5442.md)
+  - About: [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr.md), [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md), [Bill Erpenbeck Children, LLC](/entities/org-bill-erpenbeck-children-llc.md)
+
+</div>
+<div class="filter-item">
+
+- [00:39:36](/episodes/ep-2tFYJf1klgY.md#t-00-39-26) [✓] (Citation) **Candace Owens**: ["Richard William Erpenbeck prepared but did not record a deed transferring proper..."](/statements/statement-f3cf0c143740.md)
+  - About: [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md), [Anita Andrews](/entities/person-anita-andrews.md)
+
+</div>
+<div class="filter-item">
+
+- [00:40:16](/episodes/ep-2tFYJf1klgY.md#t-00-40-11) [✓] (Citation) **Candace Owens**: ["Richard William Erpenbeck's Kentucky law license was suspended in August 2009, a..."](/statements/statement-2169a7c2197d.md)
+  - About: [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md)
+
+</div>
+<div class="filter-item">
+
+- [00:43:35](/episodes/ep-2tFYJf1klgY.md#t-00-43-25) [✓] (Accusation) **Blake Neff**: ["Blake Neff said Candace Owens's prior episode contained a blatant untruth about ..."](/statements/statement-1c454043fe46.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:06](/episodes/ep-2tFYJf1klgY.md#t-00-44-06) [✓] (Claim) **Blake Neff**: ["Blake Neff said Charlie Kirk observed an evangelical Christian version of Shabba..."](/statements/statement-3ac1950a9552.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Blake Neff](/entities/person-blake-neff.md), [Shabbat](/entities/concept-shabbat.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:30](/episodes/ep-2tFYJf1klgY.md#t-00-44-06) [○] (Claim) **Candace Owens**: ["Candace Owens said she began turning off her phone on Saturdays before Charlie K..."](/statements/statement-3c22ceff0f3d.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:51:29](/episodes/ep-2tFYJf1klgY.md#t-00-51-29) [○] (Claim) **Candace Owens**: ["Before Erika Kirk, Charlie Kirk had one woman he was very interested in, and Can..."](/statements/statement-0dcab5b91065.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:52:15](/episodes/ep-2tFYJf1klgY.md#t-00-52-09) [◐] (Claim) **Candace Owens**: ["Erika Kirk definitively still has her children."](/statements/statement-209a3ad1a7da.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:54:57](/episodes/ep-2tFYJf1klgY.md#t-00-54-40) [○] (Claim) **Candace Owens**: ["Charlie Kirk did not know many of the things Candace Owens has presented about E..."](/statements/statement-76d9390d8302.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:56:00](/episodes/ep-2tFYJf1klgY.md#t-00-56-00) [○] (Accusation) **Candace Owens**: ["Nothing said by the current leaders of Turning Point USA, including Erika Kirk, ..."](/statements/statement-65d03811da02.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:56:12](/episodes/ep-2tFYJf1klgY.md#t-00-56-00) [○] (Accusation) **Candace Owens**: ["Erika Kirk is keeping people around her whom Candace Owens knows are corrupt, li..."](/statements/statement-e199921d78f9.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:56:33](/episodes/ep-2tFYJf1klgY.md#t-00-56-00) [○] (Opinion) **Candace Owens**: ["I think prior existing military relationships explain why Erika Kirk is keeping ..."](/statements/statement-7e7c3fd5e4f7.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+</details>
+
 </div>
 
 ---
 
-*Generated: 2026-08-16 11:28:11*
+*Generated: 2026-08-17 07:04:57*

@@ -4,9 +4,10 @@ description: "\"Stacey Sheridan is not Erika Kirk's biological mother; Lori Fran
 statement_id: "statement-8d0169d15c59"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -34,7 +35,21 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Current biographical reporting identifies Lori Frantzve as Erika Kirk's mother, while TPUSA's official biography identifies Stacy Sheridan as an employee and describes her own family. No reliable source identifies Sheridan as Erika's biological mother.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [What to Know About Erika Kirk's Mom, Lori Frantzve](https://www.aol.com/know-erika-kirks-mom-lori-142209077.html)
+- [Turning Point USA Team](https://tpusa.com/team/)
+
+*Verified: 2026-08-16T11:38:37.205281*
 
 ---
 

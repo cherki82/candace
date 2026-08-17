@@ -24,13 +24,23 @@ veracity: "false"
 - [Project Monarch](/entities/concept-project-monarch.md) (concept)
 - [MKUltra](/entities/concept-mkultra.md) (concept)
 
-## Source
+## Appearances (2)
+
+### 1. EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296
 
 **Episode:** [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md)
 **Timestamp:** [00:37:17](/episodes/ep-A39g5oqB_eM.md#t-00-37-17) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2237);return false;">Play</a>
 
 > Project Monarch, which was the precursor to MKUltra. ... The precursor being Project Monarch, where they were intentionally harming children, ... trying to sort of abuse people into compliance, ... mind control.
+
+### 2. Bride Of Charlie: A Wrinkle In Time | Episode 1
+
+**Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
+**Timestamp:** [00:13:33](/episodes/ep-ZAsV0fHGBiM.md#t-00-13-33) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(813);return false;">Play</a>
+
+> He explains that they abused children with the goal of transforming them into future psychopaths that can be controlled. ... That is the science that was brought here to America via Operation Paperclip. ... What began as Project Monarch in Germany ultimately became MKUltra in America.
 
 ## Verification
 

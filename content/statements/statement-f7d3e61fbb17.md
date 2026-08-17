@@ -4,9 +4,10 @@ description: "\"Howard Lutnick and his family were on Epstein Island in 2012, af
 statement_id: "statement-f7d3e61fbb17"
 speaker: "Jared Moskowitz"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Associated Press reporting based on released records and congressional questioning confirms Howard Lutnick and his family visited Epstein's private island in 2012, after Epstein's 2008 guilty plea.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Records show Lutnick and family visited Epstein's island in 2012](https://apnews.com/article/682447e50bf9a3643a36c9b54ccdfa22)
+
+*Verified: 2026-08-16T11:38:39.907815*
 
 ---
 

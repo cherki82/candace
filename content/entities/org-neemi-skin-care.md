@@ -1,6 +1,6 @@
 ---
 title: "Neemi Skin Care"
-description: "Neemi Skin Care (Organizations) - 38 mentions"
+description: "Neemi Skin Care (Organizations) - 36 mentions"
 id: "org-neemi-skin-care"
 type: "ORG"
 aliases:
@@ -16,10 +16,50 @@ _Type: Organizations_
 
 **Also known as:** Neeme Skin Care, Neemi, neemiskincare.com, Nimmie, Nimmie Skincare, Neeme
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-neemi-skin-care-t-00-39-28">2025-09-30 · 00:39:40</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-neemi-skin-care-t-00-49-29">2025-12-20 · 00:49:38</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>36</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-neemi-skin-care-t-00-39-28">DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245</a> (9 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-neemi-skin-care-t-00-39-28" style="--pulse-height:100%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 9 mentions" title="2025-09-30 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-neemi-skin-care-t-00-40-00" style="--pulse-height:67%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 6 mentions" title="2025-10-01 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-org-neemi-skin-care-t-00-53-51" style="--pulse-height:78%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 7 mentions" title="2025-10-06 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-org-neemi-skin-care-t-00-35-24" style="--pulse-height:22%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 2 mentions" title="2025-11-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-org-neemi-skin-care-t-00-54-11" style="--pulse-height:67%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 6 mentions" title="2025-12-03 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-neemi-skin-care-t-00-35-08" style="--pulse-height:22%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#t-01-08-39" style="--pulse-height:11%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-neemi-skin-care-t-00-49-29" style="--pulse-height:33%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 3 mentions" title="2025-12-20 · 3 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-org-neemi-skin-care-t-00-39-28) | 9 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-neemi-skin-care-t-00-40-00) | 6 |
+| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-org-neemi-skin-care-t-00-53-51) | 7 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-org-neemi-skin-care-t-00-35-24) | 2 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-neemi-skin-care-t-00-54-11) | 6 |
+| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-org-neemi-skin-care-t-00-35-08) | 2 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#t-01-08-39) | 1 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-neemi-skin-care-t-00-49-29) | 3 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (36)</strong></summary>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3 mentions)</summary>
@@ -44,10 +84,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (3 mentions)</summary>
-
-**[00:35:26](/episodes/ep-ZAuuSq_j2_w.md#ent-org-neemi-skin-care-t-00-35-08)**
-> "Also, of course, I want to tell you guys about Neeme Skin Care because it is cold outside."
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2 mentions)</summary>
 
 **[00:35:26](/episodes/ep-ZAuuSq_j2_w.md#ent-org-neemi-skin-care-t-00-35-08)**
 > "...we'll take a quick break and get into your comments. Also, of course, I want to tell you guys about Neeme Skin Care because it is cold outside. December is here; the weather is dry. And if you are anything like me, ..."
@@ -58,13 +95,10 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (7 mentions)</summary>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (6 mentions)</summary>
 
 **[00:54:41](/episodes/ep-his-JBjlkh8.md#ent-org-neemi-skin-care-t-00-54-11)**
 > "you guys know I have to tell you about Nimmie Skincare"
-
-**[00:54:41](/episodes/ep-his-JBjlkh8.md#ent-org-neemi-skin-care-t-00-54-11)**
-> "...know I have to tell you about Nimmie Skincare."
 
 **[00:54:55](/episodes/ep-his-JBjlkh8.md#ent-org-neemi-skin-care-t-00-54-55)**
 > "...I'm excited to tell you about Nimmie Skincare, because if you're looking for a gift th..."

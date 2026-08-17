@@ -12,10 +12,19 @@ _Type: People_
 
 **Categories:** politics, government
 
+<div class="entity-summary-grid">
+<div><span>Episodes</span><strong>0</strong></div>
+<div><span>Mentions</span><strong>0</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (0)</strong></summary>
 
 _No mentions recorded._
 
@@ -28,10 +37,18 @@ _No mentions recorded._
 <summary>Criticized (2)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:35:12](/episodes/ep-CMcktj3Egfo.md#t-00-34-41): "I am speaking of the intellectual vandalism of Tucker Carlson and Candace Owens."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:35:12](/episodes/ep-CMcktj3Egfo.md#t-00-34-41): “I am speaking of the intellectual vandalism of Tucker Carlson and Candace Owens.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:35:12](/episodes/ep-CMcktj3Egfo.md#t-00-34-41): "I am speaking of the intellectual vandalism of Tucker Carlson and Candace Owens."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:35:12](/episodes/ep-CMcktj3Egfo.md#t-00-34-41): “I am speaking of the intellectual vandalism of Tucker Carlson and Candace Owens.”
+
+</details>
 
 </details>
 
@@ -39,10 +56,18 @@ _No mentions recorded._
 <summary>Member Of (2)</summary>
 
 - **[Likud](/entities/org-likud.md)**
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:34:14](/episodes/ep-CMcktj3Egfo.md#t-00-34-00): "when there was a Likud party representative who got up and gave a speech and declared me and Tucker Carlson to be enemies of the state of Israel."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:34:14](/episodes/ep-CMcktj3Egfo.md#t-00-34-00): “when there was a Likud party representative who got up and gave a speech and declared me and Tucker Carlson to be enemies of the state of Israel.”
+
+</details>
 
 - **[Knesset](/entities/org-knesset.md)**
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:34:42](/episodes/ep-CMcktj3Egfo.md#t-00-34-41): "members of the Knesset, I stand here in Jerusalem,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:34:42](/episodes/ep-CMcktj3Egfo.md#t-00-34-41): “members of the Knesset, I stand here in Jerusalem,”
+
+</details>
 
 </details>
 
@@ -50,16 +75,32 @@ _No mentions recorded._
 <summary>Referenced By (4)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** criticized by this
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:35:12](/episodes/ep-CMcktj3Egfo.md#t-00-34-41)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:35:12](/episodes/ep-CMcktj3Egfo.md#t-00-34-41): “I am speaking of the intellectual vandalism of Tucker Carlson and Candace Owens.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:35:12](/episodes/ep-CMcktj3Egfo.md#t-00-34-41)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:35:12](/episodes/ep-CMcktj3Egfo.md#t-00-34-41): “I am speaking of the intellectual vandalism of Tucker Carlson and Candace Owens.”
+
+</details>
 
 - **[Likud](/entities/org-likud.md)** has member this
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:34:14](/episodes/ep-CMcktj3Egfo.md#t-00-34-00)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:34:14](/episodes/ep-CMcktj3Egfo.md#t-00-34-00): “when there was a Likud party representative who got up and gave a speech and declared me and Tucker Carlson to be enemies of the state of Israel.”
+
+</details>
 
 - **[Knesset](/entities/org-knesset.md)** has member this
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:34:42](/episodes/ep-CMcktj3Egfo.md#t-00-34-41)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:34:42](/episodes/ep-CMcktj3Egfo.md#t-00-34-41): “members of the Knesset, I stand here in Jerusalem,”
+
+</details>
 
 </details>
 

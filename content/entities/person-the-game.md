@@ -1,22 +1,47 @@
 ---
 title: "The Game"
-description: "The Game (People) - 14 mentions"
+description: "The Game (People) - 12 mentions"
 id: "person-the-game"
 type: "PERSON"
 ---
 
 _Type: People_
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-his-JBjlkh8.md#ent-person-the-game-t-00-00-44">2025-12-03 · 00:01:00</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#ent-person-the-game-t-00-43-37">2025-12-05 · 00:44:10</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-his-JBjlkh8.md#ent-person-the-game-t-00-00-44">BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273</a> (7 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-his-JBjlkh8.md#ent-person-the-game-t-00-00-44" style="--pulse-height:100%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 7 mentions" title="2025-12-03 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-person-the-game-t-00-00-00" style="--pulse-height:71%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 5 mentions" title="2025-12-05 · 5 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-the-game-t-00-00-44) | 7 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-person-the-game-t-00-00-00) | 5 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (6 mentions)</summary>
-
-**[00:00:04](/episodes/ep-DqGNvi36ol8.md#ent-person-the-game-t-00-00-00)**
-> "The rapper The Game dropped song The Assassination of Candace Owens"
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (5 mentions)</summary>
 
 **[00:00:04](/episodes/ep-DqGNvi36ol8.md#ent-person-the-game-t-00-00-00)**
 > "...t excited because the rapper, the game has dropped his song entitled The Assassination o..."
@@ -36,10 +61,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (8 mentions)</summary>
-
-**[00:01:00](/episodes/ep-his-JBjlkh8.md#ent-person-the-game-t-00-00-44)**
-> "The Game, who is releasing a song that is entitled 'The Assassination of Candace Owens.'"
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (7 mentions)</summary>
 
 **[00:01:00](/episodes/ep-his-JBjlkh8.md#ent-person-the-game-t-00-00-44)**
 > "...those things. So major, major win. I am excited. Also, later on in the show, what I have for you is The Game, whose rapper is releasing a song that is entitled "The Assassination of Candace Owens." And I have..."

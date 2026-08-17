@@ -1,6 +1,6 @@
 ---
 title: "Shabbat"
-description: "Shabbat (Concepts) - 4 mentions"
+description: "Shabbat (Concepts) - 15 mentions"
 id: "concept-shabbat"
 type: "CONCEPT"
 aliases:
@@ -21,10 +21,85 @@ _Type: Concepts_
 > CBS coverage confirms Sabbath as the subject of Charlie Kirk's final book; Shabbat is used as the canonical Jewish observance name and Jewish Sabbath as the spoken alias.
 Source: [CBS News — Erika Kirk town hall](https://www.cbsnews.com/news/cbs-news-town-hall-erika-kirk-how-to-watch/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-shabbat-t-00-25-24">2026-02-04 · 00:25:31</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-shabbat-t-00-45-28">2026-03-03 · 00:45:50</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-shabbat-t-00-42-40">Bride Of Charlie: The Lost Years... | Episode 5</a> (7 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-shabbat-t-00-25-24" style="--pulse-height:43%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 3 mentions" title="2026-02-04 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-shabbat-t-00-04-14" style="--pulse-height:14%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-shabbat-t-00-01-21" style="--pulse-height:57%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 4 mentions" title="2026-03-02 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-shabbat-t-00-42-40" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 7 mentions" title="2026-03-03 · 7 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-concept-shabbat-t-00-25-24) | 3 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-shabbat-t-00-04-14) | 1 |
+| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-concept-shabbat-t-00-01-21) | 4 |
+| 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-concept-shabbat-t-00-42-40) | 7 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (7 mentions)</summary>
+
+**[00:43:16](/episodes/ep-2tFYJf1klgY.md#ent-concept-shabbat-t-00-42-40)**
+> "...hard because no one comes for Shabbat Shalom. No one comes for Erica (Erika Kirk) Shabb..."
+
+**[00:43:25](/episodes/ep-2tFYJf1klgY.md#ent-concept-shabbat-t-00-43-25)**
+> "...guess when I was joking about Shabbat Shalom, daddy's home, throw down the phone. Look ..."
+
+**[00:43:35](/episodes/ep-2tFYJf1klgY.md#ent-concept-shabbat-t-00-43-25)**
+> "...ling Erica (Erika Kirk). Over Shabbat Shalom, this is what he wrote on X, I have avoide..."
+
+**[00:43:53](/episodes/ep-2tFYJf1klgY.md#ent-concept-shabbat-t-00-43-25)**
+> "...ka Kirk) for using the phrase Shabbat Shalom and suggests that Charlie (Charlie Kirk)'s..."
+
+**[00:44:06](/episodes/ep-2tFYJf1klgY.md#ent-concept-shabbat-t-00-44-06)**
+> "...ngelical Christian version of Shabbat. Like, I can't even do something—it's absurd. You..."
+
+**[00:45:35](/episodes/ep-2tFYJf1klgY.md#ent-concept-shabbat-t-00-45-28)**
+> "...Neff). I'd like to apologize. Shabbat shalom. Daddy's home."
+
+**[00:45:50](/episodes/ep-2tFYJf1klgY.md#ent-concept-shabbat-t-00-45-28)**
+> "Daddy's home. Shabbat shalom."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (4 mentions)</summary>
+
+**[00:01:52](/episodes/ep-jTj9Ip46r4w.md#ent-concept-shabbat-t-00-01-21)**
+> "...ed and in his place, we got a Shabbat Shalom and not so grieving widow."
+
+**[00:01:59](/episodes/ep-jTj9Ip46r4w.md#ent-concept-shabbat-t-00-01-59)**
+> "...ng about how much he loves to Shabbat and to Shalom and to say Daddy's home and to thro..."
+
+**[00:57:28](/episodes/ep-jTj9Ip46r4w.md#ent-concept-shabbat-t-00-57-28)**
+> "...ompany. They should rename it Shabbat Shalom."
+
+**[00:57:38](/episodes/ep-jTj9Ip46r4w.md#ent-concept-shabbat-t-00-57-28)**
+> "Shabbat Shalom USA, and that would be a better representa..."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
@@ -54,5 +129,18 @@ Source: [CBS News — Erika Kirk town hall](https://www.cbsnews.com/news/cbs-new
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Shabbat (1)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (1)</summary>
+
+- [00:44:06](/episodes/ep-2tFYJf1klgY.md#t-00-44-06) (Claim) **Blake Neff** (via quoted post): ["Blake Neff said Charlie Kirk observed an evangelical Christian version..."](/statements/statement-3ac1950a9552.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Blake Neff](/entities/person-blake-neff.md), [Evangelicalism](/entities/concept-evangelicalism.md)
+
+</details>
 
 </details>

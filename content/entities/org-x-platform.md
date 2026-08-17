@@ -1,6 +1,6 @@
 ---
 title: "X"
-description: "X (Organizations) - 13 mentions"
+description: "X (Organizations) - 18 mentions"
 id: "org-x-platform"
 type: "ORG"
 aliases:
@@ -15,14 +15,78 @@ _Type: Organizations_
 
 **Categories:** social media platform
 
+> **Possibly overlapping entity records:** [Twitter](/entities/org-twitter). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > Official company page confirms canonical current name; matching the one-character name is intentionally avoided by mention backfill.
 Source: [X — About](https://about.x.com/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#t-00-20-03">2026-01-06 · 00:20:25</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-x-platform-t-04-01-26">2026-08-14 · 04:02:03</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-x-platform-t-01-01-06">Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast</a> (5 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-HYn0P-P1wUw.md#t-00-20-03" style="--pulse-height:20%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-org-x-platform-t-00-43-14" style="--pulse-height:20%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-org-x-platform-t-00-08-18" style="--pulse-height:80%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#t-00-58-15" style="--pulse-height:20%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#t-00-32-11" style="--pulse-height:40%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-x-platform-t-00-28-30" style="--pulse-height:40%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-org-x-platform-t-00-48-14" style="--pulse-height:20%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#t-00-13-40" style="--pulse-height:20%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-x-platform-t-01-01-06" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 5 mentions" title="2026-08-14 · 5 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#t-00-20-03) | 1 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-x-platform-t-00-43-14) | 1 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-org-x-platform-t-00-08-18) | 4 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#t-00-58-15) | 1 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#t-00-32-11) | 2 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-x-platform-t-00-28-30) | 2 |
+| 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-org-x-platform-t-00-48-14) | 1 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#t-00-13-40) | 1 |
+| 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-x-platform-t-01-01-06) | 5 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (5 mentions)</summary>
+
+**[01:01:11](/episodes/ep-nPhCKwJ6ye8.md#ent-org-x-platform-t-01-01-06)**
+> "... facts you listed on your own Twitter that what you found to be convincing was somethin..."
+
+**[01:05:53](/episodes/ep-nPhCKwJ6ye8.md#ent-org-x-platform-t-01-05-53)**
+> "...ing what you asserted on your twitter was like the hard evidence that convinced you was..."
+
+**[01:15:01](/episodes/ep-nPhCKwJ6ye8.md#ent-org-x-platform-t-01-15-01)**
+> "Well, you said that in your Twitter."
+
+**[01:15:05](/episodes/ep-nPhCKwJ6ye8.md#ent-org-x-platform-t-01-15-05)**
+> "...ly thing I've ever said on my Twitter about this case."
+
+**[04:02:03](/episodes/ep-nPhCKwJ6ye8.md#ent-org-x-platform-t-04-01-26)**
+> "... every single day trending on Twitter."
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1 mentions)</summary>

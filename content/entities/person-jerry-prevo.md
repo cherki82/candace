@@ -12,10 +12,36 @@ _Type: People_
 
 **Categories:** education, religion
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-prevo-t-00-26-53">2026-01-12 · 00:27:02</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-prevo-t-00-26-53">2026-01-12 · 00:27:02</a></strong></div>
+<div><span>Episodes</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-prevo-t-00-26-53">American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288</a> (1 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-prevo-t-00-26-53" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-prevo-t-00-26-53) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (1)</strong></summary>
 
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1 mentions)</summary>
@@ -34,7 +60,11 @@ _Type: People_
 <summary>Fired (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:10](/episodes/ep-CMcktj3Egfo.md#t-00-26-53): "Is he fires Charlie Kirk and he also moves rather immediately to reinstate none other than the sometimes lurking Johnnie Moore,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:10](/episodes/ep-CMcktj3Egfo.md#t-00-26-53): “Is he fires Charlie Kirk and he also moves rather immediately to reinstate none other than the sometimes lurking Johnnie Moore,”
+
+</details>
 
 </details>
 
@@ -42,7 +72,11 @@ _Type: People_
 <summary>Hired (1)</summary>
 
 - **[Johnnie Moore](/entities/person-johnnie-moore.md)**
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:10](/episodes/ep-CMcktj3Egfo.md#t-00-26-53): "he also moves rather immediately to reinstate none other than the sometimes lurking Johnnie Moore,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:10](/episodes/ep-CMcktj3Egfo.md#t-00-26-53): “he also moves rather immediately to reinstate none other than the sometimes lurking Johnnie Moore,”
+
+</details>
 
 </details>
 
@@ -50,7 +84,11 @@ _Type: People_
 <summary>President Of (1)</summary>
 
 - **[Liberty University](/entities/org-liberty-university.md)**
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:02](/episodes/ep-CMcktj3Egfo.md#t-00-26-53): "Jerry Prevo is named as his successor and the very first thing that Jerry Prevo does."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:02](/episodes/ep-CMcktj3Egfo.md#t-00-26-53): “Jerry Prevo is named as his successor and the very first thing that Jerry Prevo does.”
+
+</details>
 
 </details>
 
@@ -58,13 +96,25 @@ _Type: People_
 <summary>Referenced By (3)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** fired by this
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:10](/episodes/ep-CMcktj3Egfo.md#t-00-26-53)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:10](/episodes/ep-CMcktj3Egfo.md#t-00-26-53): “Is he fires Charlie Kirk and he also moves rather immediately to reinstate none other than the sometimes lurking Johnnie Moore,”
+
+</details>
 
 - **[Liberty University](/entities/org-liberty-university.md)** has president this
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:02](/episodes/ep-CMcktj3Egfo.md#t-00-26-53)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:02](/episodes/ep-CMcktj3Egfo.md#t-00-26-53): “Jerry Prevo is named as his successor and the very first thing that Jerry Prevo does.”
+
+</details>
 
 - **[Johnnie Moore](/entities/person-johnnie-moore.md)** hired by this
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:10](/episodes/ep-CMcktj3Egfo.md#t-00-26-53)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:10](/episodes/ep-CMcktj3Egfo.md#t-00-26-53): “he also moves rather immediately to reinstate none other than the sometimes lurking Johnnie Moore,”
+
+</details>
 
 </details>
 

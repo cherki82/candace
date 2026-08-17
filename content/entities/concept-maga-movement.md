@@ -1,6 +1,6 @@
 ---
 title: "MAGA movement"
-description: "MAGA movement (Concepts) - 81 mentions"
+description: "MAGA movement (Concepts) - 73 mentions"
 id: "concept-maga-movement"
 type: "CONCEPT"
 aliases:
@@ -21,10 +21,88 @@ _Type: Concepts_
 > Canonical concept records the explicit MAGA political-movement reference in transcript context; no claim about the movement is encoded.
 Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](https://www.youtube.com/watch?v=BKcOm32ZEGk)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-36-23">2025-09-15 · 00:36:29</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-maga-movement-t-00-52-11">2026-03-02 · 00:52:28</a></strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>73</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-LATnak75Si0.md#ent-concept-maga-movement-t-00-15-11">Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259</a> (12 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-czVBmqZP6Ss.md#t-00-36-23" style="--pulse-height:8%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 1 mentions" title="2025-09-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-concept-maga-movement-t-00-26-08" style="--pulse-height:17%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 2 mentions" title="2025-09-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-concept-maga-movement-t-00-21-38" style="--pulse-height:25%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 3 mentions" title="2025-09-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-concept-maga-movement-t-00-47-14" style="--pulse-height:33%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 4 mentions" title="2025-09-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#t-00-39-12" style="--pulse-height:8%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-concept-maga-movement-t-00-13-55" style="--pulse-height:17%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 2 mentions" title="2025-09-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-concept-maga-movement-t-00-41-04" style="--pulse-height:42%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 5 mentions" title="2025-09-23 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-concept-maga-movement-t-00-07-30" style="--pulse-height:8%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 1 mentions" title="2025-09-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-concept-maga-movement-t-00-38-10" style="--pulse-height:42%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 5 mentions" title="2025-10-06 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#t-00-14-16" style="--pulse-height:8%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#t-00-10-33" style="--pulse-height:8%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-maga-movement-t-00-31-26" style="--pulse-height:67%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 8 mentions" title="2025-10-30 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-00-00" style="--pulse-height:92%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 11 mentions" title="2025-11-03 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-concept-maga-movement-t-00-15-11" style="--pulse-height:100%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 12 mentions" title="2025-11-05 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#t-00-41-57" style="--pulse-height:8%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 1 mentions" title="2025-11-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-concept-maga-movement-t-00-05-21" style="--pulse-height:42%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 5 mentions" title="2025-11-10 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#t-00-33-32" style="--pulse-height:8%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-concept-maga-movement-t-00-38-52" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-maga-movement-t-00-52-31" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-concept-maga-movement-t-00-18-50" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-maga-movement-t-00-11-11" style="--pulse-height:17%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-maga-movement-t-00-26-58" style="--pulse-height:25%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 3 mentions" title="2026-02-11 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-maga-movement-t-00-52-11" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#t-00-36-23) | 1 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-concept-maga-movement-t-00-26-08) | 2 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-concept-maga-movement-t-00-21-38) | 3 |
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-concept-maga-movement-t-00-47-14) | 4 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#t-00-39-12) | 1 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-concept-maga-movement-t-00-13-55) | 2 |
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-concept-maga-movement-t-00-41-04) | 5 |
+| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-concept-maga-movement-t-00-07-30) | 1 |
+| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-concept-maga-movement-t-00-38-10) | 5 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#t-00-14-16) | 1 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#t-00-10-33) | 1 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-concept-maga-movement-t-00-31-26) | 8 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-00-00) | 11 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-concept-maga-movement-t-00-15-11) | 12 |
+| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#t-00-41-57) | 1 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-maga-movement-t-00-05-21) | 5 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#t-00-33-32) | 1 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-concept-maga-movement-t-00-38-52) | 1 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-maga-movement-t-00-52-31) | 1 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-maga-movement-t-00-18-50) | 1 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-maga-movement-t-00-11-11) | 2 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-maga-movement-t-00-26-58) | 3 |
+| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-concept-maga-movement-t-00-52-11) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (73)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1 mentions)</summary>
+
+**[00:52:28](/episodes/ep-jTj9Ip46r4w.md#ent-concept-maga-movement-t-00-52-11)**
+> "...rael or to anyone, not to the MAGA party, not to the neocons ever."
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (3 mentions)</summary>
@@ -84,10 +162,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 </details>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (6 mentions)</summary>
-
-**[00:05:27](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-maga-movement-t-00-05-21)**
-> "And they're like, "Oh, my dad's MAGA.""
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (5 mentions)</summary>
 
 **[00:05:27](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-maga-movement-t-00-05-21)**
 > "...ady to take the fed slop. This time it was the messages, obviously. And they're like, "Oh, my dad's MAGA." "He just—he was MAGAing too hard." And the left was supposed to go, "See, it's his dad's fault." ..."
@@ -239,10 +314,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 </details>
 
 <details>
-<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (6 mentions)</summary>
-
-**[00:37:37](/episodes/ep-ozWJz2spBcI.md#ent-concept-maga-movement-t-00-38-10)**
-> "She says, 'The very first thought that popped into my head was, I'm so glad that Charlie knew Jesus,' said Clark, 32, who hosts the MAGA-friendly podcast Culture Apothecary for Turning Point USA."
+<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (5 mentions)</summary>
 
 **[00:37:37](/episodes/ep-ozWJz2spBcI.md#ent-concept-maga-movement-t-00-38-10)**
 > "...nto my head was, I'm so glad that Charlie (Charlie Kirk) knew Jesus,' said Clark, 32, who hosts the MAGA-friendly podcast Culture Apothecary for Turning Point USA. The second thought was, 'What will happe..."
@@ -262,10 +334,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 </details>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (2 mentions)</summary>
-
-**[00:07:48](/episodes/ep-QZWSsq8ZWzw.md#ent-concept-maga-movement-t-00-07-30)**
-> "my MAGA daddy"
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (1 mentions)</summary>
 
 **[00:07:48](/episodes/ep-QZWSsq8ZWzw.md#ent-concept-maga-movement-t-00-07-30)**
 > "...s carving the bullets? Yes. Yes. Exactly. This time is when I did it. And these are the reasons, my MAGA daddy, my love. Thou wilt not, my love. Cool. Cool story. Very cool story, feds. Kind of feeling li..."
@@ -273,10 +342,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 </details>
 
 <details>
-<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (6 mentions)</summary>
-
-**[00:41:43](/episodes/ep-UBkFkg4UNY8.md#ent-concept-maga-movement-t-00-41-04)**
-> "Did I answer your MAGA question sufficiently?"
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (5 mentions)</summary>
 
 **[00:41:43](/episodes/ep-UBkFkg4UNY8.md#ent-concept-maga-movement-t-00-41-04)**
 > "... the SD card so that nobody could get that, so that law enforcement could get it. Did I answer your MAGA question sufficiently? Yeah, OK. He loved MAGA. He loved MAGA moms, too. I think I would have proba..."
@@ -315,28 +381,16 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (8 mentions)</summary>
-
-**[00:47:51](/episodes/ep-sreYYcID-QY.md#ent-concept-maga-movement-t-00-47-14)**
-> "If we're not taking the MAGA bait—the dad MAGA; he's been more MAGA than ever"
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (4 mentions)</summary>
 
 **[00:47:51](/episodes/ep-sreYYcID-QY.md#ent-concept-maga-movement-t-00-47-14)**
 > "...lematic. Left and right, we are realizing something more sinister happened. If we're not taking the MAGA bait—“the dad MAGA; he's been more MAGA than ever.” One of the commenters pointed out, why would th..."
 
 **[00:47:52](/episodes/ep-sreYYcID-QY.md#ent-concept-maga-movement-t-00-47-14)**
-> "why would the dad suddenly be more MAGA than ever"
-
-**[00:47:52](/episodes/ep-sreYYcID-QY.md#ent-concept-maga-movement-t-00-47-14)**
 > "...'s been more MAGA than ever.” One of the commenters pointed out, why would the dad suddenly be more MAGA than ever? Like, what happened recently? Like, we're in September. Like, what happened that someone..."
 
 **[00:48:10](/episodes/ep-sreYYcID-QY.md#ent-concept-maga-movement-t-00-47-55)**
-> "More MAGA than ever"
-
-**[00:48:10](/episodes/ep-sreYYcID-QY.md#ent-concept-maga-movement-t-00-47-55)**
 > "...ke, what happened that someone would commit themselves further to Donald Trump (Donald Trump)? More MAGA than ever. In fact, it's been kind of the opposite. People think we're occupied by Zionists. More M..."
-
-**[00:48:18](/episodes/ep-sreYYcID-QY.md#ent-concept-maga-movement-t-00-47-55)**
-> "More MAGA people are going, like, it seems like Donald Trump has kind of given up"
 
 **[00:48:18](/episodes/ep-sreYYcID-QY.md#ent-concept-maga-movement-t-00-47-55)**
 > "...A than ever. In fact, it's been kind of the opposite. People think we're occupied by Zionists. More MAGA people are going, like, it seems like Donald Trump (Donald Trump) has kind of given up on free spee..."
@@ -344,10 +398,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 </details>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (4 mentions)</summary>
-
-**[00:21:43](/episodes/ep-2WEHTk0Xewg.md#ent-concept-maga-movement-t-00-21-38)**
-> "Since Trump (Donald Trump) got into office, my dad has been pretty die-hard MAGA."
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (3 mentions)</summary>
 
 **[00:21:43](/episodes/ep-2WEHTk0Xewg.md#ent-concept-maga-movement-t-00-21-38)**
 > "... answering. He writes, "Since Trump (Donald Trump) got into office, my dad has been pretty die-hard MAGA." There's something here for everyone if you want to take the low-hanging fruit and think of this a..."

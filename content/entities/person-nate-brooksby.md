@@ -1,20 +1,68 @@
 ---
 title: "Nate Brooksby"
-description: "Nate Brooksby (People) - 10 mentions"
+description: "Nate Brooksby (People) - 11 mentions"
 id: "person-nate-brooksby"
 type: "PERSON"
 aliases:
   - "Brooksby"
+  - "Sheriff Brooksby"
+categories:
+  - "Charlie Kirk assassination case"
+  - "law enforcement"
 ---
 
 _Type: People_
 
-**Also known as:** Brooksby
+**Also known as:** Brooksby, Sheriff Brooksby
+
+**Categories:** Charlie Kirk assassination case, law enforcement
+
+**Entity verification:** verified
+> Official Utah public-meeting material identifies Washington County Sheriff Nate Brooksby; transcript uses the title Sheriff Brooksby.
+Source: [Leeds Town Council Agenda](https://www.utah.gov/pmn/files/1233197.pdf)
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-nate-brooksby-t-00-08-57">2025-09-29 · 00:08:57</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-nate-brooksby-t-01-38-59">2026-08-14 · 01:39:03</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-nate-brooksby-t-00-08-57">They Are Lying About Tyler Robinson. | Candace Ep 244</a> (9 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-nate-brooksby-t-00-08-57" style="--pulse-height:100%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 9 mentions" title="2025-09-29 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-person-nate-brooksby-t-00-40-42" style="--pulse-height:11%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-nate-brooksby-t-01-38-59" style="--pulse-height:11%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-nate-brooksby-t-00-08-57) | 9 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-nate-brooksby-t-00-40-42) | 1 |
+| 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-nate-brooksby-t-01-38-59) | 1 |
+
+</details>
+</section>
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
+
+**[01:39:03](/episodes/ep-nPhCKwJ6ye8.md#ent-person-nate-brooksby-t-01-38-59)**
+> "... happened in terms of Sheriff Brooksby who was present there and gave a press conference..."
+
+</details>
 
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
@@ -65,7 +113,11 @@ _Type: People_
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:17:09](/episodes/ep-ZGxnf5cj4Uw.md#t-00-16-40): "Brooksby, I don't like the way he's moving, I don't like the way Nate Brooksby is breathing."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:17:09](/episodes/ep-ZGxnf5cj4Uw.md#t-00-16-40): “Brooksby, I don't like the way he's moving, I don't like the way Nate Brooksby is breathing.”
+
+</details>
 
 </details>
 
@@ -73,7 +125,11 @@ _Type: People_
 <summary>Employs (1)</summary>
 
 - **[Mike Mitchell](/entities/person-mike-mitchell.md)**
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:17:28](/episodes/ep-ZGxnf5cj4Uw.md#t-00-17-23): "a retired detective that worked for me for many years"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:17:28](/episodes/ep-ZGxnf5cj4Uw.md#t-00-17-23): “a retired detective that worked for me for many years”
+
+</details>
 
 </details>
 
@@ -81,7 +137,11 @@ _Type: People_
 <summary>Sheriff Of (1)</summary>
 
 - **[Washington County](/entities/gpe-washington-county.md)**
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:20:18](/episodes/ep-ZGxnf5cj4Uw.md#t-00-20-04): "Sheriff Brooksby and Detective Mitchell both had some wonderful stories to share"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:20:18](/episodes/ep-ZGxnf5cj4Uw.md#t-00-20-04): “Sheriff Brooksby and Detective Mitchell both had some wonderful stories to share”
+
+</details>
 
 </details>
 
@@ -89,13 +149,25 @@ _Type: People_
 <summary>Referenced By (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:17:09](/episodes/ep-ZGxnf5cj4Uw.md#t-00-16-40)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:17:09](/episodes/ep-ZGxnf5cj4Uw.md#t-00-16-40): “Brooksby, I don't like the way he's moving, I don't like the way Nate Brooksby is breathing.”
+
+</details>
 
 - **[Washington County](/entities/gpe-washington-county.md)** has sheriff this
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:20:18](/episodes/ep-ZGxnf5cj4Uw.md#t-00-20-04)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:20:18](/episodes/ep-ZGxnf5cj4Uw.md#t-00-20-04): “Sheriff Brooksby and Detective Mitchell both had some wonderful stories to share”
+
+</details>
 
 - **[Mike Mitchell](/entities/person-mike-mitchell.md)** works for this
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:17:28](/episodes/ep-ZGxnf5cj4Uw.md#t-00-17-23)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:17:28](/episodes/ep-ZGxnf5cj4Uw.md#t-00-17-23): “a retired detective that worked for me for many years”
+
+</details>
 
 </details>
 

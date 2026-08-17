@@ -11,7 +11,11 @@ object: "person-lori-frantzve"
 
 ## [Erika Kirk](/entities/person-erika-kirk) child of [Lori Frantzve](/entities/person-lori-frantzve)
 
-### Evidence (4 mentions)
+### Evidence (8 mentions)
+
+**[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
+
+- [00:11:06](/episodes/ep-1IY2oD-_xVA#t-00-11-06): _Now, Erika (Erika Kirk)'s father and her mother, Lori (Lori Frantzve) and Kent Frantzve, as we learned, were married in Marblehead, Massachusetts._
 
 **[Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY)**
 
@@ -25,9 +29,21 @@ object: "person-lori-frantzve"
 
 - [00:21:40](/episodes/ep-QRS_hR7NXaQ#t-00-21-40): _And these question marks are really regarding her mother, Lori Frantzve._
 
+**[Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM)**
+
+- [00:17:04](/episodes/ep-ZAsV0fHGBiM#t-00-17-04): _Erika Kirk has learned a lot from her mother, Lori Frantzve._
+
+**[Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg)**
+
+- [00:00:01](/episodes/ep-cZxHqYsWRYg#t-00-00-01): _So yesterday we told you that by all accounts, the voice that is in Erika (Erika Kirk)'s ear is Lori (Lori Frantzve), her mother._
+
 **[Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8)**
 
 - [00:11:59](/episodes/ep-gG4ZoYUjUc8#t-00-11-59): _Lori Frantzve. Erika (Erika Kirk)'s mom, Lori Frantzve._
+
+**[Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w)**
+
+- [00:11:32](/episodes/ep-jTj9Ip46r4w#t-00-11-32): _And of course, probably the one that took us on the greatest journey is Lori (Lori Frantzve) Abbas Stanley, Erica (Erika Kirk)'s mom Lori (Lori Frantzve)._
 
 ### Related
 

@@ -23,10 +23,36 @@ _Type: People_
 > FamilySearch identifies William Thomas Montgomery's spouse as Edith Marie, while his archived obituary identifies his wife as Edie; the transcript supplies the spoken Walker variants. Canonicalized conservatively as Edith Montgomery.
 Source: [William Thomas Montgomery (1940-2020) | FamilySearch](https://ancestors.familysearch.org/en/P7S7-9PY/william-thomas-montgomery-1940-2020)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-A39g5oqB_eM.md#ent-person-edith-montgomery-t-00-30-08">2026-01-27 · 00:30:29</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-A39g5oqB_eM.md#ent-person-edith-montgomery-t-00-33-43">2026-01-27 · 00:33:55</a></strong></div>
+<div><span>Episodes</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>7</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-A39g5oqB_eM.md#ent-person-edith-montgomery-t-00-30-08">EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296</a> (7 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-person-edith-montgomery-t-00-30-08" style="--pulse-height:100%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 7 mentions" title="2026-01-27 · 7 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-person-edith-montgomery-t-00-30-08) | 7 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (7 mentions)</summary>
@@ -63,7 +89,11 @@ Source: [William Thomas Montgomery (1940-2020) | FamilySearch](https://ancestors
 <summary>Formerly Worked For (1)</summary>
 
 - **[Shaklee Corporation](/entities/org-shaklee-corporation.md)**
-  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:31:14](/episodes/ep-A39g5oqB_eM.md#t-00-30-51): "The person claims that Bill (Bill Montgomery) and his wife and a certain Robert Flood, who is in Dan Flood's family, ... said that they knew each other since before the school even got started. They were all working for this evangelical company, ... evangelical sales force known as. ... The Shaklee Corporation is still in existence today."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:31:14](/episodes/ep-A39g5oqB_eM.md#t-00-30-51): “The person claims that Bill (Bill Montgomery) and his wife and a certain Robert Flood, who is in Dan Flood's family, ... said that they knew each other since before the school even got started. They were all working for this evangelical company, ... evangelical sales force known as. ... The Shaklee Corporation is still in existence today.”
+
+</details>
 
 </details>
 
@@ -71,7 +101,11 @@ Source: [William Thomas Montgomery (1940-2020) | FamilySearch](https://ancestors
 <summary>Founded (1)</summary>
 
 - **[Quest Academy](/entities/org-quest-academy-palatine.md)**
-  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:30:58](/episodes/ep-A39g5oqB_eM.md#t-00-30-51): "So she was a psychiatric nurse to the youth and that she was actually the person that started the school with Helene Bartz. And that has since virtually been wiped from public record, but that."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:30:58](/episodes/ep-A39g5oqB_eM.md#t-00-30-51): “So she was a psychiatric nurse to the youth and that she was actually the person that started the school with Helene Bartz. And that has since virtually been wiped from public record, but that.”
+
+</details>
 
 </details>
 
@@ -79,7 +113,11 @@ Source: [William Thomas Montgomery (1940-2020) | FamilySearch](https://ancestors
 <summary>Friend Of (1)</summary>
 
 - **[Helene Bartz](/entities/person-helene-bartz.md)**
-  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:30:29](/episodes/ep-A39g5oqB_eM.md#t-00-30-08): "Helene Bartz. Now, a tip that I received and I was able to confirm is that Helene Bartz was actually good friends with Bill Montgomery and his wife, Edith Montgomery,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:30:29](/episodes/ep-A39g5oqB_eM.md#t-00-30-08): “Helene Bartz. Now, a tip that I received and I was able to confirm is that Helene Bartz was actually good friends with Bill Montgomery and his wife, Edith Montgomery,”
+
+</details>
 
 </details>
 
@@ -87,16 +125,32 @@ Source: [William Thomas Montgomery (1940-2020) | FamilySearch](https://ancestors
 <summary>Referenced By (4)</summary>
 
 - **[Shaklee Corporation](/entities/org-shaklee-corporation.md)** formerly employed this
-  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:31:14](/episodes/ep-A39g5oqB_eM.md#t-00-30-51)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:31:14](/episodes/ep-A39g5oqB_eM.md#t-00-30-51): “The person claims that Bill (Bill Montgomery) and his wife and a certain Robert Flood, who is in Dan Flood's family, ... said that they knew each other since before the school even got started. They were all working for this evangelical company, ... evangelical sales force known as. ... The Shaklee Corporation is still in existence today.”
+
+</details>
 
 - **[Quest Academy](/entities/org-quest-academy-palatine.md)** founded by this
-  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:30:58](/episodes/ep-A39g5oqB_eM.md#t-00-30-51)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:30:58](/episodes/ep-A39g5oqB_eM.md#t-00-30-51): “So she was a psychiatric nurse to the youth and that she was actually the person that started the school with Helene Bartz. And that has since virtually been wiped from public record, but that.”
+
+</details>
 
 - **[Helene Bartz](/entities/person-helene-bartz.md)** friend of this
-  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:30:29](/episodes/ep-A39g5oqB_eM.md#t-00-30-08)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:30:29](/episodes/ep-A39g5oqB_eM.md#t-00-30-08): “Helene Bartz. Now, a tip that I received and I was able to confirm is that Helene Bartz was actually good friends with Bill Montgomery and his wife, Edith Montgomery,”
+
+</details>
 
 - **[Bill Montgomery](/entities/person-bill-montgomery.md)** married to this
-  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:30:29](/episodes/ep-A39g5oqB_eM.md#t-00-30-08)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:30:29](/episodes/ep-A39g5oqB_eM.md#t-00-30-08): “Helene Bartz. Now, a tip that I received and I was able to confirm is that Helene Bartz was actually good friends with Bill Montgomery and his wife, Edith Montgomery,”
+
+</details>
 
 </details>
 

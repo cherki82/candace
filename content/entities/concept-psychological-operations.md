@@ -1,6 +1,6 @@
 ---
 title: "Psychological operations"
-description: "Psychological operations (Concepts) - 16 mentions"
+description: "Psychological operations (Concepts) - 19 mentions"
 id: "concept-psychological-operations"
 type: "CONCEPT"
 aliases:
@@ -17,10 +17,72 @@ _Type: Concepts_
 
 **Categories:** military doctrine
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-psychological-operations-t-00-02-03">2026-01-12 · 00:02:03</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-psychological-operations-t-00-44-48">2026-03-03 · 00:45:11</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-22-07">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (10 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-psychological-operations-t-00-02-03" style="--pulse-height:10%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-22-07" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 10 mentions" title="2026-01-13 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-concept-psychological-operations-t-00-17-23" style="--pulse-height:30%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 3 mentions" title="2026-02-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-concept-psychological-operations-t-00-39-28" style="--pulse-height:20%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-concept-psychological-operations-t-00-58-16" style="--pulse-height:10%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-psychological-operations-t-00-07-56" style="--pulse-height:10%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-psychological-operations-t-00-44-48" style="--pulse-height:10%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-psychological-operations-t-00-02-03) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-22-07) | 10 |
+| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-concept-psychological-operations-t-00-17-23) | 3 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-concept-psychological-operations-t-00-39-28) | 2 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-psychological-operations-t-00-58-16) | 1 |
+| 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-concept-psychological-operations-t-00-07-56) | 1 |
+| 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-concept-psychological-operations-t-00-44-48) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (1 mentions)</summary>
+
+**[00:45:11](/episodes/ep-2tFYJf1klgY.md#ent-concept-psychological-operations-t-00-44-48)**
+> "We're aware of the psyop and it failed, but that this would be the thing t..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (1 mentions)</summary>
+
+**[00:08:32](/episodes/ep-1IY2oD-_xVA.md#ent-concept-psychological-operations-t-00-07-56)**
+> "This is what the military does best, okay? Psychological operations. You've seen it in this entire lead up to Erika Kirk."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1 mentions)</summary>
+
+**[00:58:25](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-psychological-operations-t-00-58-16)**
+> "...ike day in and day out it's a psychological operation on the masses like you're awful you're terrible y..."
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>

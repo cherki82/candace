@@ -11,7 +11,7 @@ date: "2025-09-10"
 
 > Charlie Kirk was assassinated at Utah Valley University.
 
-## Mentioned In (24 times)
+## Mentioned In (28 times)
 
 ### 1. You Won't Believe What Happened While We Were Off Air... | C...
 
@@ -204,3 +204,35 @@ date: "2025-09-10"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1352);return false;">▶️ Play</a>
 
 > on the day that Charlie is assassinated at 9.45 a.m. Arizona time
+
+### 25. Bride Of Charlie: A Wrinkle In Time | Episode 1
+
+**Episode:** [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md)
+**Timestamp:** [00:16:35](/episodes/ep-ZAsV0fHGBiM.md#t-00-16-24) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(995);return false;">▶️ Play</a>
+
+> days after Charlie was publicly assassinated and she confirmed to them
+
+### 26. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
+
+**Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
+**Timestamp:** [00:27:36](/episodes/ep-nPhCKwJ6ye8.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-27-27) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1656);return false;">▶️ Play</a>
+
+> On September 10th, 2025, Charlie Kirk was murdered. Many of you already know
+
+### 27. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
+
+**Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
+**Timestamp:** [00:34:18](/episodes/ep-nPhCKwJ6ye8.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-27-27) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2058);return false;">▶️ Play</a>
+
+> diminishing the pursuit of something that makes sense regarding what happened on September 10th
+
+### 28. Bride Of Charlie: The Ties That Bind | Episode 4
+
+**Episode:** [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md)
+**Timestamp:** [00:22:51](/episodes/ep-jTj9Ip46r4w.md#t-00-22-18) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1371);return false;">▶️ Play</a>
+
+> a mere days before Charlie's assassinated.

@@ -1,6 +1,6 @@
 ---
 title: "Mikey McCoy"
-description: "Mikey McCoy (People) - 207 mentions"
+description: "Mikey McCoy (People) - 202 mentions"
 id: "person-mikey-mccoy"
 type: "PERSON"
 aliases:
@@ -14,10 +14,86 @@ _Type: People_
 
 **Also known as:** Michael McCoy, Uncle Mikey, Mikey McCoy, Mikey
 
+> **Possibly overlapping entity records:** [Michael McCoy](/entities/person-michael-mccoy). These records share a name or alias; compare their histories before treating either count as complete.
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-mikey-mccoy-t-00-19-30">2025-10-01 · 00:19:30</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-mikey-mccoy-t-00-48-03">2026-02-13 · 00:48:03</a></strong></div>
+<div><span>Episodes</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>202</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>32</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-mikey-mccoy-t-00-02-07">EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258</a> (39 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-mikey-mccoy-t-00-19-30" style="--pulse-height:8%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 3 mentions" title="2025-10-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-person-mikey-mccoy-t-00-00-00" style="--pulse-height:56%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 22 mentions" title="2025-10-27 · 22 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-00-00" style="--pulse-height:41%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 16 mentions" title="2025-10-28 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-mikey-mccoy-t-00-26-17" style="--pulse-height:8%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 3 mentions" title="2025-10-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-mikey-mccoy-t-00-19-41" style="--pulse-height:13%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 5 mentions" title="2025-10-31 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-mikey-mccoy-t-00-27-09" style="--pulse-height:8%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 3 mentions" title="2025-11-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-mikey-mccoy-t-00-02-07" style="--pulse-height:100%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 39 mentions" title="2025-11-04 · 39 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-mikey-mccoy-t-00-07-48" style="--pulse-height:54%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 21 mentions" title="2025-11-05 · 21 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-21-29" style="--pulse-height:28%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 11 mentions" title="2025-11-06 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-15-12" style="--pulse-height:36%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 14 mentions" title="2025-11-12 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-mikey-mccoy-t-00-00-37" style="--pulse-height:8%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 2 mentions" title="2025-11-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-mikey-mccoy-t-00-39-44" style="--pulse-height:8%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-mikey-mccoy-t-00-11-07" style="--pulse-height:10%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 4 mentions" title="2025-11-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-person-mikey-mccoy-t-00-32-11" style="--pulse-height:41%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 16 mentions" title="2025-11-18 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-mikey-mccoy-t-00-28-27" style="--pulse-height:8%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 2 mentions" title="2025-11-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-mikey-mccoy-t-00-18-23" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-03-40" style="--pulse-height:23%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 9 mentions" title="2025-12-03 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-mikey-mccoy-t-00-29-14" style="--pulse-height:8%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 3 mentions" title="2025-12-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-mikey-mccoy-t-00-37-59" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-mikey-mccoy-t-00-55-15" style="--pulse-height:8%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 2 mentions" title="2025-12-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-mikey-mccoy-t-00-37-23" style="--pulse-height:8%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-mikey-mccoy-t-00-09-44" style="--pulse-height:10%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 4 mentions" title="2025-12-12 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-mikey-mccoy-t-00-59-08" style="--pulse-height:8%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 3 mentions" title="2025-12-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-mikey-mccoy-t-00-19-05" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-mikey-mccoy-t-00-37-19" style="--pulse-height:33%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 13 mentions" title="2026-02-13 · 13 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-mikey-mccoy-t-00-19-30) | 3 |
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-person-mikey-mccoy-t-00-00-00) | 22 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-00-00) | 16 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-person-mikey-mccoy-t-00-26-17) | 3 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-person-mikey-mccoy-t-00-19-41) | 5 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-mikey-mccoy-t-00-27-09) | 3 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-person-mikey-mccoy-t-00-02-07) | 39 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-mikey-mccoy-t-00-07-48) | 21 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-mikey-mccoy-t-00-21-29) | 11 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-mikey-mccoy-t-00-15-12) | 14 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-mikey-mccoy-t-00-00-37) | 2 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-mikey-mccoy-t-00-39-44) | 1 |
+| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-person-mikey-mccoy-t-00-11-07) | 4 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-mikey-mccoy-t-00-32-11) | 16 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-mikey-mccoy-t-00-28-27) | 2 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-person-mikey-mccoy-t-00-18-23) | 2 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-03-40) | 9 |
+| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-person-mikey-mccoy-t-00-29-14) | 3 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-mikey-mccoy-t-00-37-59) | 1 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-person-mikey-mccoy-t-00-55-15) | 2 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-person-mikey-mccoy-t-00-37-23) | 2 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-person-mikey-mccoy-t-00-09-44) | 4 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-mikey-mccoy-t-00-59-08) | 3 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-mikey-mccoy-t-00-19-05) | 1 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-mikey-mccoy-t-00-37-19) | 13 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (202)</strong></summary>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (13 mentions)</summary>
@@ -86,10 +162,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (5 mentions)</summary>
-
-**[00:10:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-mikey-mccoy-t-00-09-44)**
-> "Mikey (Mikey McCoy) had blood all over him"
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (4 mentions)</summary>
 
 **[00:10:18](/episodes/ep-6J6lRZPQ4jk.md#ent-person-mikey-mccoy-t-00-09-44)**
 > "You know, Mikey (Mikey McCoy) had blood all over him."
@@ -128,10 +201,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
-
-**[00:38:16](/episodes/ep-Kmt6HgRjckU.md#ent-person-mikey-mccoy-t-00-37-59)**
-> "Questions about Mikeys call logs and metadata before and after 12:23 pm"
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>
 
 **[00:38:16](/episodes/ep-Kmt6HgRjckU.md#ent-person-mikey-mccoy-t-00-37-59)**
 > "Can we see Mikey (Mikey McCoy)'s call logs and the metadata before and after 12..."
@@ -153,10 +223,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (10 mentions)</summary>
-
-**[00:03:40](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-03-40)**
-> "When he defends the actions of Mikey McCoy on that day, I sense that he believes that he is telling the truth."
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (9 mentions)</summary>
 
 **[00:03:40](/episodes/ep-his-JBjlkh8.md#ent-person-mikey-mccoy-t-00-03-40)**
 > "...hat has been responding in a way that feels even remotely authentic. When he defends the actions of Mikey McCoy on that day, I sense that he believes that he is telling the truth. Anyways, let's listen to what B..."
@@ -288,10 +355,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (3 mentions)</summary>
-
-**[00:00:47](/episodes/ep-yAIb-NuUh_U.md#ent-person-mikey-mccoy-t-00-00-37)**
-> "I am resisting making a comment about Mikey McCoy, but ladies and gentlemen, we are definitively in the foxhole right now."
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
 **[00:00:47](/episodes/ep-yAIb-NuUh_U.md#ent-person-mikey-mccoy-t-00-00-37)**
 > "... you. We've had those. We definitely know who our allies are. I am resisting making a comment about Mikey McCoy, but ladies and gentlemen, we are definitively in the foxhole right now. And we are learning who Ch..."
@@ -625,10 +689,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (17 mentions)</summary>
-
-**[00:00:07](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-00-00)**
-> "reason that Mikey McCoy walked away so swiftly after Charlie got shot"
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (16 mentions)</summary>
 
 **[00:00:07](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mikey-mccoy-t-00-00-00)**
 > "...oint USA has issued a statement, a couple of statements actually. For one, they say the reason that Mikey McCoy walked away so swiftly after Charlie (Charlie Kirk) got shot is because Charlie himself told Mikey ..."
@@ -774,7 +835,11 @@ _Type: People_
 <summary>Appeared With (1)</summary>
 
 - **[Blake Neff](/entities/person-blake-neff.md)**
-  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:22:57](/episodes/ep-es7PWdFGoFI.md#t-00-22-39): "Blake Neff called his mom. His call with his mother lasted 45 seconds."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:22:57](/episodes/ep-es7PWdFGoFI.md#t-00-22-39): “Blake Neff called his mom. His call with his mother lasted 45 seconds.”
+
+</details>
 
 </details>
 
@@ -782,8 +847,12 @@ _Type: People_
 <summary>Chief Of Staff To (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:02:11](/episodes/ep-c5BcKF91iec.md#t-00-01-39): "Justin's the chief CFO—chief financial officer—and Mikey's the chief of staff."
-  - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:03:01](/episodes/ep-Qfwr08Ebczo.md#t-00-02-50): "And my husband's chief of staff, the amazing Mikey McCoy"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:02:11](/episodes/ep-c5BcKF91iec.md#t-00-01-39): “Justin's the chief CFO—chief financial officer—and Mikey's the chief of staff.”
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:03:01](/episodes/ep-Qfwr08Ebczo.md#t-00-02-50): “And my husband's chief of staff, the amazing Mikey McCoy”
+
+</details>
 
 </details>
 
@@ -791,9 +860,18 @@ _Type: People_
 <summary>Child Of (1)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)**
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:35:03](/episodes/ep-581dILVcEE4.md#t-00-34-30): "He calls Rob McCoy. And he says, "Dad, someone shot Charlie (Charlie Kirk).""
-  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:38:52](/episodes/ep-LATnak75Si0.md#t-00-38-18): "he immediately calls his dad. He calls Rob McCoy."
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:06:08](/episodes/ep-his-JBjlkh8.md#t-00-05-36): "his own father, Rob McCoy"
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:35:03](/episodes/ep-581dILVcEE4.md#t-00-34-30): “He calls Rob McCoy. And he says, "Dad, someone shot Charlie (Charlie Kirk)."”
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:38:52](/episodes/ep-LATnak75Si0.md#t-00-38-18): “he immediately calls his dad. He calls Rob McCoy.”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:06:08](/episodes/ep-his-JBjlkh8.md#t-00-05-36): “his own father, Rob McCoy”
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:02:11](/episodes/ep-c5BcKF91iec.md#t-00-01-39): “Justin's the chief CFO—chief financial officer—and Mikey's the chief of staff.”
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:19:59](/episodes/ep-YFmRH8p5lt0.md#t-00-19-41): “January 3, 2024—Mikey McCoy's promoted to the chief of staff of Turning Point USA. I have the internal email, so that is a fact. He gets the promotion. Now you can see, I guess, the McCoys are much more involved in Turning Point USA.”
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:50](/episodes/ep-yAIb-NuUh_U.md#t-00-00-37): “Mikey McCoy son of Rob McCoy”
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:13:00](/episodes/ep-6J6lRZPQ4jk.md#t-00-12-41): “Mikey (Mikey McCoy) has offered that his dad was confused.”
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:05:51](/episodes/ep-es7PWdFGoFI.md#t-00-05-30): “And he immediately calls his dad. He calls Robin McCoy. And he says, dad, someone shot Charlie.”
+
+</details>
 
 </details>
 
@@ -801,7 +879,11 @@ _Type: People_
 <summary>Interviewed By (1)</summary>
 
 - **[Real America's Voice](/entities/org-real-americas-voice.md)**
-  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:38:03](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03): "the marvelous Mikey (Mikey McCoy) on November 8th, giving an interview to Real America's Voice."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:38:03](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03): “the marvelous Mikey (Mikey McCoy) on November 8th, giving an interview to Real America's Voice.”
+
+</details>
 
 </details>
 
@@ -809,7 +891,11 @@ _Type: People_
 <summary>Met With (1)</summary>
 
 - **[Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)**
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:30:08](/episodes/ep-SKGUzGHymcI.md#t-00-29-52): "Elizabeth McCoy screamed, she grabbed her phone, she ran out. Mikey probably called her, that would make sense."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:30:08](/episodes/ep-SKGUzGHymcI.md#t-00-29-52): “Elizabeth McCoy screamed, she grabbed her phone, she ran out. Mikey probably called her, that would make sense.”
+
+</details>
 
 </details>
 
@@ -817,12 +903,26 @@ _Type: People_
 <summary>Works For (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:00:41](/episodes/ep-c5BcKF91iec.md#t-00-00-00): "There was a video that is currently circulating of his chief of staff, Mikey McCoy."
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:08:57](/episodes/ep-c5BcKF91iec.md#t-00-08-40): "Justin's the chief CFO—chief financial officer—and Mikey's the chief of staff."
-  - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:02:26](/episodes/ep-Qfwr08Ebczo.md#t-00-02-07): "Mikey McCoy, the chief of staff of Turning Point USA—Mikey McCoy—for whatever reason,"
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:00:41](/episodes/ep-c5BcKF91iec.md#t-00-00-00): “There was a video that is currently circulating of his chief of staff, Mikey McCoy.”
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:08:57](/episodes/ep-c5BcKF91iec.md#t-00-08-40): “Justin's the chief CFO—chief financial officer—and Mikey's the chief of staff.”
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:02:26](/episodes/ep-Qfwr08Ebczo.md#t-00-02-07): “Mikey McCoy, the chief of staff of Turning Point USA—Mikey McCoy—for whatever reason,”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:04:35](/episodes/ep-his-JBjlkh8.md#t-00-04-17): “She has suggested that Michael McCoy, Charlie's chief of staff...”
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:19:49](/episodes/ep-YFmRH8p5lt0.md#t-00-19-41): “Mikey McCoy's promoted to the chief of staff of Turning Point USA”
+- [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:06:51](/episodes/ep-ZAuuSq_j2_w.md#t-00-06-44): “Can you tell us, Blake Neff? Can you tell us, Mikey McCoy?”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:40](/episodes/ep-his-JBjlkh8.md#t-00-02-58): “When he defends the actions of Mikey McCoy on that day”
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:19:59](/episodes/ep-YFmRH8p5lt0.md#t-00-19-41): “January 3, 2024—Mikey McCoy's promoted to the chief of staff of Turning Point USA. I have the internal email, so that is a fact.”
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:15:47](/episodes/ep-Qfwr08Ebczo.md#t-00-15-33): “When McCoy's responsibilities grew at Turning Point USA, he and his wife sold their home”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:04:35](/episodes/ep-his-JBjlkh8.md#t-00-04-17): "She has suggested that Michael McCoy, Charlie Kirk's chief of staff,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:04:35](/episodes/ep-his-JBjlkh8.md#t-00-04-17): “She has suggested that Michael McCoy, Charlie Kirk's chief of staff,”
+
+</details>
 
 </details>
 
@@ -830,28 +930,62 @@ _Type: People_
 <summary>Referenced By (7)</summary>
 
 - **[Blake Neff](/entities/person-blake-neff.md)** appeared with this
-  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:22:57](/episodes/ep-es7PWdFGoFI.md#t-00-22-39)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:22:57](/episodes/ep-es7PWdFGoFI.md#t-00-22-39): “Blake Neff called his mom. His call with his mother lasted 45 seconds.”
+
+</details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:00:41](/episodes/ep-c5BcKF91iec.md#t-00-00-00)
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:08:57](/episodes/ep-c5BcKF91iec.md#t-00-08-40)
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:00:41](/episodes/ep-c5BcKF91iec.md#t-00-00-00): “There was a video that is currently circulating of his chief of staff, Mikey McCoy.”
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:08:57](/episodes/ep-c5BcKF91iec.md#t-00-08-40): “Justin's the chief CFO—chief financial officer—and Mikey's the chief of staff.”
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:02:26](/episodes/ep-Qfwr08Ebczo.md#t-00-02-07): “Mikey McCoy, the chief of staff of Turning Point USA—Mikey McCoy—for whatever reason,”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:04:35](/episodes/ep-his-JBjlkh8.md#t-00-04-17): “She has suggested that Michael McCoy, Charlie's chief of staff...”
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:19:49](/episodes/ep-YFmRH8p5lt0.md#t-00-19-41): “Mikey McCoy's promoted to the chief of staff of Turning Point USA”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** employs this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:04:35](/episodes/ep-his-JBjlkh8.md#t-00-04-17)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:04:35](/episodes/ep-his-JBjlkh8.md#t-00-04-17): “She has suggested that Michael McCoy, Charlie Kirk's chief of staff,”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** has chief of staff this
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:02:11](/episodes/ep-c5BcKF91iec.md#t-00-01-39)
-  - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:03:01](/episodes/ep-Qfwr08Ebczo.md#t-00-02-50)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:02:11](/episodes/ep-c5BcKF91iec.md#t-00-01-39): “Justin's the chief CFO—chief financial officer—and Mikey's the chief of staff.”
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:03:01](/episodes/ep-Qfwr08Ebczo.md#t-00-02-50): “And my husband's chief of staff, the amazing Mikey McCoy”
+
+</details>
 
 - **[Real America's Voice](/entities/org-real-americas-voice.md)** interviewed this
-  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:38:03](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:38:03](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03): “the marvelous Mikey (Mikey McCoy) on November 8th, giving an interview to Real America's Voice.”
+
+</details>
 
 - **[Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)** met with this
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:30:08](/episodes/ep-SKGUzGHymcI.md#t-00-29-52)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:30:08](/episodes/ep-SKGUzGHymcI.md#t-00-29-52): “Elizabeth McCoy screamed, she grabbed her phone, she ran out. Mikey probably called her, that would make sense.”
+
+</details>
 
 - **[Pastor Rob McCoy](/entities/person-rob-mccoy.md)** parent of this
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:08:12](/episodes/ep-c5BcKF91iec.md#t-00-07-38)
-  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:16:41](/episodes/ep-MUA9ebCF4Ow.md#t-00-15-57)
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:08:12](/episodes/ep-c5BcKF91iec.md#t-00-07-38): “It's a video of, of course, Pastor Rob McCoy's son.”
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:16:41](/episodes/ep-MUA9ebCF4Ow.md#t-00-15-57): “Mikey McCoy called his dad first. That's a lie. Rob McCoy told that lie”
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:03:14](/episodes/ep-Qfwr08Ebczo.md#t-00-02-50): “I used to be known as Charlie Kirk's pastor. Now I'm known as Mikey McCoy's dad.”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:05:25](/episodes/ep-his-JBjlkh8.md#t-00-05-03): “his own father, Rob McCoy—who I think is highly suspicious”
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:34:47](/episodes/ep-581dILVcEE4.md#t-00-34-30): “Blake Neff says Mikey called his dad Rob McCoy after the shooting”
+
+</details>
 
 </details>
 

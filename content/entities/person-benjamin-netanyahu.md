@@ -1,6 +1,6 @@
 ---
 title: "Benjamin Netanyahu"
-description: "Benjamin Netanyahu (People) - 236 mentions"
+description: "Benjamin Netanyahu (People) - 245 mentions"
 id: "person-benjamin-netanyahu"
 type: "PERSON"
 aliases:
@@ -26,10 +26,193 @@ _Type: People_
 > Official Israeli government biography confirms canonical name and nickname Bibi.
 Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/elections/Elections-knesset-15/heb/pm/ebio_pm_4.html)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-06-16">2025-09-15 · 00:01:28</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-02-52-41">2026-08-14 · 02:52:41</a></strong></div>
+<div><span>Episodes</span><strong>54</strong></div>
+<div><span>Mentions</span><strong>245</strong></div>
+<div><span>Statements by</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>73</strong></div>
+<div><span>Relationships</span><strong>20</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-06-16">They Are Lying About Charlie Kirk. | Candace Ep 235</a> (28 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-06-16" style="--pulse-height:100%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 28 mentions" title="2025-09-15 · 28 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-person-benjamin-netanyahu-t-00-42-21" style="--pulse-height:54%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 15 mentions" title="2025-09-16 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-36-35" style="--pulse-height:79%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 22 mentions" title="2025-09-17 · 22 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-person-benjamin-netanyahu-t-00-00-00" style="--pulse-height:32%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 9 mentions" title="2025-09-18 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-benjamin-netanyahu-t-00-14-06" style="--pulse-height:21%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 6 mentions" title="2025-09-19 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-person-benjamin-netanyahu-t-00-51-39" style="--pulse-height:18%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 5 mentions" title="2025-09-22 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-benjamin-netanyahu-t-00-35-39" style="--pulse-height:11%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 3 mentions" title="2025-09-23 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-person-benjamin-netanyahu-t-00-01-27" style="--pulse-height:18%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 5 mentions" title="2025-09-25 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-benjamin-netanyahu-t-00-01-30" style="--pulse-height:11%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 3 mentions" title="2025-09-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-benjamin-netanyahu-t-00-25-54" style="--pulse-height:21%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 6 mentions" title="2025-10-01 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-person-benjamin-netanyahu-t-00-38-56" style="--pulse-height:11%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 3 mentions" title="2025-10-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-person-benjamin-netanyahu-t-00-17-07" style="--pulse-height:8%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 2 mentions" title="2025-10-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-benjamin-netanyahu-t-00-27-45" style="--pulse-height:18%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 5 mentions" title="2025-10-08 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-benjamin-netanyahu-t-00-48-17" style="--pulse-height:11%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 3 mentions" title="2025-10-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-benjamin-netanyahu-t-00-11-30" style="--pulse-height:8%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-benjamin-netanyahu-t-00-21-20" style="--pulse-height:8%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-benjamin-netanyahu-t-00-39-12" style="--pulse-height:8%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-benjamin-netanyahu-t-00-36-11" style="--pulse-height:21%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 6 mentions" title="2025-10-31 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-benjamin-netanyahu-t-00-27-53" style="--pulse-height:8%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-benjamin-netanyahu-t-00-20-26" style="--pulse-height:25%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 7 mentions" title="2025-11-04 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-benjamin-netanyahu-t-00-18-27" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-person-benjamin-netanyahu-t-00-00-00" style="--pulse-height:29%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 8 mentions" title="2025-11-08 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-benjamin-netanyahu-t-00-43-42" style="--pulse-height:8%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-benjamin-netanyahu-t-00-00-00" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-benjamin-netanyahu-t-00-36-27" style="--pulse-height:8%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-benjamin-netanyahu-t-00-03-30" style="--pulse-height:8%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-person-benjamin-netanyahu-t-00-42-16" style="--pulse-height:8%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-person-benjamin-netanyahu-t-00-20-22" style="--pulse-height:8%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-person-benjamin-netanyahu-t-00-26-47" style="--pulse-height:8%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 2 mentions" title="2025-11-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-benjamin-netanyahu-t-00-21-56" style="--pulse-height:18%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 5 mentions" title="2025-12-02 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-benjamin-netanyahu-t-00-54-08" style="--pulse-height:8%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-benjamin-netanyahu-t-00-14-12" style="--pulse-height:14%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 4 mentions" title="2025-12-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-benjamin-netanyahu-t-00-53-16" style="--pulse-height:21%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 6 mentions" title="2026-01-05 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-benjamin-netanyahu-t-00-15-17" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-benjamin-netanyahu-t-00-38-04" style="--pulse-height:8%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 2 mentions" title="2026-01-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-benjamin-netanyahu-t-00-47-30" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-benjamin-netanyahu-t-00-05-35" style="--pulse-height:14%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 4 mentions" title="2026-01-12 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-benjamin-netanyahu-t-00-02-32" style="--pulse-height:11%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-benjamin-netanyahu-t-00-42-40" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-benjamin-netanyahu-t-00-25-07" style="--pulse-height:11%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 3 mentions" title="2026-01-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-benjamin-netanyahu-t-00-03-36" style="--pulse-height:18%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 5 mentions" title="2026-01-28 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-benjamin-netanyahu-t-00-17-22" style="--pulse-height:50%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 14 mentions" title="2026-01-29 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-person-benjamin-netanyahu-t-00-51-11" style="--pulse-height:8%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-benjamin-netanyahu-t-00-29-11" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-benjamin-netanyahu-t-00-16-39" style="--pulse-height:25%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 7 mentions" title="2026-02-05 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-person-benjamin-netanyahu-t-00-28-49" style="--pulse-height:32%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 9 mentions" title="2026-02-09 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-benjamin-netanyahu-t-00-14-24" style="--pulse-height:21%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 6 mentions" title="2026-02-10 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-benjamin-netanyahu-t-00-26-58" style="--pulse-height:14%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 4 mentions" title="2026-02-11 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-benjamin-netanyahu-t-00-45-46" style="--pulse-height:8%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LKR94FQ5p3o.md#ent-person-benjamin-netanyahu-t-00-01-02" style="--pulse-height:8%" aria-label="Coming soon...: 1 mentions" title="2026-02-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-benjamin-netanyahu-t-00-00-00" style="--pulse-height:21%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 6 mentions" title="2026-03-02 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-person-benjamin-netanyahu-t-00-44-48" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-00-35-32" style="--pulse-height:11%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-06-16) | 28 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-person-benjamin-netanyahu-t-00-42-21) | 15 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-36-35) | 22 |
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-person-benjamin-netanyahu-t-00-00-00) | 9 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-benjamin-netanyahu-t-00-14-06) | 6 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-person-benjamin-netanyahu-t-00-51-39) | 5 |
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-person-benjamin-netanyahu-t-00-35-39) | 3 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-person-benjamin-netanyahu-t-00-01-27) | 5 |
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-person-benjamin-netanyahu-t-00-01-30) | 3 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-benjamin-netanyahu-t-00-25-54) | 6 |
+| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-person-benjamin-netanyahu-t-00-38-56) | 3 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-benjamin-netanyahu-t-00-17-07) | 2 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-benjamin-netanyahu-t-00-27-45) | 5 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-benjamin-netanyahu-t-00-48-17) | 3 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-benjamin-netanyahu-t-00-11-30) | 2 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-person-benjamin-netanyahu-t-00-21-20) | 1 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-benjamin-netanyahu-t-00-39-12) | 1 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-person-benjamin-netanyahu-t-00-36-11) | 6 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-benjamin-netanyahu-t-00-27-53) | 1 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-person-benjamin-netanyahu-t-00-20-26) | 7 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-benjamin-netanyahu-t-00-18-27) | 1 |
+| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-person-benjamin-netanyahu-t-00-00-00) | 8 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-person-benjamin-netanyahu-t-00-43-42) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-benjamin-netanyahu-t-00-00-00) | 2 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-benjamin-netanyahu-t-00-36-27) | 1 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-benjamin-netanyahu-t-00-03-30) | 1 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-benjamin-netanyahu-t-00-42-16) | 2 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-benjamin-netanyahu-t-00-20-22) | 1 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-benjamin-netanyahu-t-00-26-47) | 2 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-person-benjamin-netanyahu-t-00-21-56) | 5 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-benjamin-netanyahu-t-00-54-08) | 1 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-benjamin-netanyahu-t-00-14-12) | 4 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-benjamin-netanyahu-t-00-53-16) | 6 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-benjamin-netanyahu-t-00-15-17) | 1 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-benjamin-netanyahu-t-00-38-04) | 2 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-benjamin-netanyahu-t-00-47-30) | 2 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-benjamin-netanyahu-t-00-05-35) | 4 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-benjamin-netanyahu-t-00-02-32) | 3 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-benjamin-netanyahu-t-00-42-40) | 1 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-benjamin-netanyahu-t-00-25-07) | 3 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-benjamin-netanyahu-t-00-03-36) | 5 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-benjamin-netanyahu-t-00-17-22) | 14 |
+| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-benjamin-netanyahu-t-00-51-11) | 1 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-benjamin-netanyahu-t-00-29-11) | 2 |
+| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-benjamin-netanyahu-t-00-16-39) | 7 |
+| 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-benjamin-netanyahu-t-00-28-49) | 9 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-benjamin-netanyahu-t-00-14-24) | 6 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-benjamin-netanyahu-t-00-26-58) | 4 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-benjamin-netanyahu-t-00-45-46) | 1 |
+| 2026-02-23 | [Coming soon...](/episodes/ep-LKR94FQ5p3o.md#ent-person-benjamin-netanyahu-t-00-01-02) | 1 |
+| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-benjamin-netanyahu-t-00-00-00) | 6 |
+| 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-person-benjamin-netanyahu-t-00-44-48) | 1 |
+| 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-00-35-32) | 3 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (245)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3 mentions)</summary>
+
+**[00:35:46](/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-00-35-32)**
+> "... nobody was going I wonder if Bibi Netanyahu killed Charlie Kirk and then we had a r..."
+
+**[02:26:42](/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-02-26-33)**
+> "Bibi (Benjamin Netanyahu) and Ackman (Bill Ackman), right?"
+
+**[02:52:41](/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-02-52-41)**
+> "...ld take a supporter like owen benjamin he called you bad names and one and called your h..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (1 mentions)</summary>
+
+**[00:45:05](/episodes/ep-2tFYJf1klgY.md#ent-person-benjamin-netanyahu-t-00-44-48)**
+> "I mean, Bibi (Benjamin Netanyahu) came out within 48 hours to remind us of how muc..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (6 mentions)</summary>
+
+**[00:00:30](/episodes/ep-jTj9Ip46r4w.md#ent-person-benjamin-netanyahu-t-00-00-00)**
+> "... scale war. That's what Bibi (Benjamin Netanyahu) wanted. That's what the Zionists around Trump wa..."
+
+**[00:00:54](/episodes/ep-jTj9Ip46r4w.md#ent-person-benjamin-netanyahu-t-00-00-38)**
+> "ruined his legacy. Bibi (Benjamin Netanyahu) and his minions, they were angry about that. Cha..."
+
+**[00:01:11](/episodes/ep-jTj9Ip46r4w.md#ent-person-benjamin-netanyahu-t-00-00-38)**
+> "...lie (Charlie Kirk) beat Bibi (Benjamin Netanyahu)'s desires at the White House."
+
+**[00:01:37](/episodes/ep-jTj9Ip46r4w.md#ent-person-benjamin-netanyahu-t-00-01-21)**
+> "... their plan. That's why Bibi (Benjamin Netanyahu) immediately got on the air to remind you all how..."
+
+**[00:08:13](/episodes/ep-jTj9Ip46r4w.md#ent-person-benjamin-netanyahu-t-00-07-43)**
+> "...ord something alongside Bibi (Benjamin Netanyahu) and Ben Shapiro. No one even believed me. I twee..."
+
+**[00:08:37](/episodes/ep-jTj9Ip46r4w.md#ent-person-benjamin-netanyahu-t-00-08-24)**
+> "And Bibi (Benjamin Netanyahu). And then maybe somebody was like, hey, this isn..."
+
+</details>
+
+<details>
+<summary>Coming soon... (1 mentions)</summary>
+
+**[00:01:02](/episodes/ep-LKR94FQ5p3o.md#ent-person-benjamin-netanyahu-t-00-01-02)**
+> "Zionists, the Prime Minister of Israel (Benjamin Netanyahu),"
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
@@ -347,10 +530,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
-
-**[00:54:36](/episodes/ep-9k2xrAC0H88.md#ent-person-benjamin-netanyahu-t-00-54-08)**
-> "You don't want to be name checked with Bibi"
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>
 
 **[00:54:26](/episodes/ep-9k2xrAC0H88.md#ent-person-benjamin-netanyahu-t-00-54-08)**
 > "...to be name checked with Bibi (Benjamin Netanyahu), and they are just growing increasingly volatile..."
@@ -378,10 +558,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
-
-**[00:27:27](/episodes/ep-mKXdKV-OBog.md#ent-person-benjamin-netanyahu-t-00-26-47)**
-> "Bibi met Pollard on the runway"
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:27:27](/episodes/ep-mKXdKV-OBog.md#ent-person-benjamin-netanyahu-t-00-26-47)**
 > "...was welcomed in Israel—the red carpet was rolled out for him, I think, literally. And I think Bibi (Benjamin Netanyahu) met him on the runway like, "You served us well." You've served us well. And who cares if the Amer..."
@@ -740,10 +917,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (10 mentions)</summary>
-
-**[00:00:06](/episodes/ep-sreYYcID-QY.md#ent-person-benjamin-netanyahu-t-00-00-00)**
-> "Benjamin Netanyahu is again denying that he murdered Charlie despite the fact that no one that I know accused him"
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (9 mentions)</summary>
 
 **[00:00:06](/episodes/ep-sreYYcID-QY.md#ent-person-benjamin-netanyahu-t-00-00-00)**
 > "All right, you guys. Let's take a pause. There is a lot happening right now, okay? Benjamin Netanyahu is again denying that he murdered Charlie Kirk despite the fact that no one that I know accused him..."
@@ -984,6 +1158,14 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 </details>
 
+<details>
+<summary>ep-y8lak3CRwDw (1 mentions)</summary>
+
+**[00:57:43](/episodes/ep-y8lak3CRwDw.md#t-00-57-43)**
+> "Yes, yes, that's how Benjamin Mileikowsky, Benjamin Mileikowsky becomes Netanya..."
+
+</details>
+
 </details>
 
 <details open>
@@ -993,10 +1175,18 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <summary>Criticized (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:01](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52): "Benjamin Netanyahu trying to spin this... Tucker completely shredded that narrative... Netanyahu lied so quickly"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:01](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52): “Benjamin Netanyahu trying to spin this... Tucker completely shredded that narrative... Netanyahu lied so quickly”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:54:23](/episodes/ep-9k2xrAC0H88.md#t-00-54-08): "They want me and Tucker. You don't want to be name checked with Bibi"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:54:23](/episodes/ep-9k2xrAC0H88.md#t-00-54-08): “They want me and Tucker. You don't want to be name checked with Bibi”
+
+</details>
 
 </details>
 
@@ -1004,11 +1194,19 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <summary>Criticized By (2)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:37:11](/episodes/ep-2WEHTk0Xewg.md#t-00-36-35): "Tucker (Tucker Carlson) completely destroyed the Benjamin Netanyahu (Benjamin Netanyahu) narrative."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:37:11](/episodes/ep-2WEHTk0Xewg.md#t-00-36-35): “Tucker (Tucker Carlson) completely destroyed the Benjamin Netanyahu (Benjamin Netanyahu) narrative.”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:25](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52): "He felt that Benjamin Netanyahu (Benjamin Netanyahu) was a very destructive force."
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:19](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52): "He did not like Benjamin Netanyahu and he said that to me many times and he said that to people around him many times."
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:25](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52): “He felt that Benjamin Netanyahu (Benjamin Netanyahu) was a very destructive force.”
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:19](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52): “He did not like Benjamin Netanyahu and he said that to me many times and he said that to people around him many times.”
+
+</details>
 
 </details>
 
@@ -1016,10 +1214,18 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <summary>Funded (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:58:02](/episodes/ep-ja26iltROkM.md#t-00-57-53): "I definitively made the statement that Benjamin Netanyahu offered Charlie Kirk a boatload of money, and he rejected it"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:58:02](/episodes/ep-ja26iltROkM.md#t-00-57-53): “I definitively made the statement that Benjamin Netanyahu offered Charlie Kirk a boatload of money, and he rejected it”
+
+</details>
 
 - **[Hamas](/entities/org-hamas.md)**
-  - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:51:24](/episodes/ep-Wjul6YV6izo.md#t-00-51-11): "I mean, who do you guys think funded Hamas? ... Benjamin Netanyahu did, ... obviously."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:51:24](/episodes/ep-Wjul6YV6izo.md#t-00-51-11): “I mean, who do you guys think funded Hamas? ... Benjamin Netanyahu did, ... obviously.”
+
+</details>
 
 </details>
 
@@ -1027,13 +1233,25 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <summary>Interviewed By (3)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
-  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:20:01](/episodes/ep-r1PS67aRmcA.md#t-00-19-31): "Ben Shapiro sat down with him last month"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:20:01](/episodes/ep-r1PS67aRmcA.md#t-00-19-31): “Ben Shapiro sat down with him last month”
+
+</details>
 
 - **[Greta Van Susteren](/entities/person-greta-van-susteren.md)**
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:01:38](/episodes/ep-K5GjF53bfN4.md#t-00-01-27): "when he went on multiple hits doing Fox News and Greta Van Susteren's show"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:01:38](/episodes/ep-K5GjF53bfN4.md#t-00-01-27): “when he went on multiple hits doing Fox News and Greta Van Susteren's show”
+
+</details>
 
 - **[Fox News](/entities/org-fox-news.md)**
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:07:12](/episodes/ep-czVBmqZP6Ss.md#t-00-07-02): "what Benjamin Netanyahu had to say on Fox News"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:07:12](/episodes/ep-czVBmqZP6Ss.md#t-00-07-02): “what Benjamin Netanyahu had to say on Fox News”
+
+</details>
 
 </details>
 
@@ -1041,9 +1259,16 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <summary>Met With (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:07:37](/episodes/ep-czVBmqZP6Ss.md#t-00-07-17): "my son actually, on his 2019 visit to Israel, had lunch with him and his wife Erika."
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:16:54](/episodes/ep-czVBmqZP6Ss.md#t-00-16-28): "It was at this time that Benjamin Netanyahu was called and Charlie was invited to Israel."
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:36:29](/episodes/ep-YFmRH8p5lt0.md#t-00-36-11): "Bibi (Benjamin Netanyahu) rushed—raced out of the gate—to establish Charlie (Charlie Kirk) as like Israel's top goy, and he said probably too much. He said he called him two weeks ago, and he invited him to Israel."
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:07:37](/episodes/ep-czVBmqZP6Ss.md#t-00-07-17): “my son actually, on his 2019 visit to Israel, had lunch with him and his wife Erika.”
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:16:54](/episodes/ep-czVBmqZP6Ss.md#t-00-16-28): “It was at this time that Benjamin Netanyahu was called and Charlie was invited to Israel.”
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:36:29](/episodes/ep-YFmRH8p5lt0.md#t-00-36-11): “Bibi (Benjamin Netanyahu) rushed—raced out of the gate—to establish Charlie (Charlie Kirk) as like Israel's top goy, and he said probably too much. He said he called him two weeks ago, and he invited him to Israel.”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:07:13](/episodes/ep-sreYYcID-QY.md#t-00-06-50): “A few weeks before his death, I spoke to Charlie.”
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:32:40](/episodes/ep-es7PWdFGoFI.md#t-00-32-06): “BB Net and Yahoo offered to Fund Turning Point to the next level. And it was part of my frustration”
+- [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:29:20](/episodes/ep-4YgrOhhy708.md#t-00-28-49): “on June 18th, Charlie (Charlie Kirk) goes head to head with the Zionists and Bibi (Benjamin Netanyahu)”
+
+</details>
 
 </details>
 
@@ -1051,39 +1276,83 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <summary>Referenced By (10)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** criticized this
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:37:11](/episodes/ep-2WEHTk0Xewg.md#t-00-36-35)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:37:11](/episodes/ep-2WEHTk0Xewg.md#t-00-36-35): “Tucker (Tucker Carlson) completely destroyed the Benjamin Netanyahu (Benjamin Netanyahu) narrative.”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** criticized this
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:25](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52)
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:19](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:25](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52): “He felt that Benjamin Netanyahu (Benjamin Netanyahu) was a very destructive force.”
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:19](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52): “He did not like Benjamin Netanyahu and he said that to me many times and he said that to people around him many times.”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** criticized by this
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:01](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:44:01](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52): “Benjamin Netanyahu trying to spin this... Tucker completely shredded that narrative... Netanyahu lied so quickly”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:54:23](/episodes/ep-9k2xrAC0H88.md#t-00-54-08)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:54:23](/episodes/ep-9k2xrAC0H88.md#t-00-54-08): “They want me and Tucker. You don't want to be name checked with Bibi”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** funded by this
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:58:02](/episodes/ep-ja26iltROkM.md#t-00-57-53)
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:59:16](/episodes/ep-ja26iltROkM.md#t-00-59-15)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:58:02](/episodes/ep-ja26iltROkM.md#t-00-57-53): “I definitively made the statement that Benjamin Netanyahu offered Charlie Kirk a boatload of money, and he rejected it”
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:59:16](/episodes/ep-ja26iltROkM.md#t-00-59-15): “Benjamin Netanyahu offered Charlie Kirk a boatload of money, and he rejected it”
+
+</details>
 
 - **[Hamas](/entities/org-hamas.md)** funded by this
-  - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:51:24](/episodes/ep-Wjul6YV6izo.md#t-00-51-11)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:51:24](/episodes/ep-Wjul6YV6izo.md#t-00-51-11): “I mean, who do you guys think funded Hamas? ... Benjamin Netanyahu did, ... obviously.”
+
+</details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** interviewed this
-  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:20:01](/episodes/ep-r1PS67aRmcA.md#t-00-19-31)
-  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:07:30](/episodes/ep-r1PS67aRmcA.md#t-00-07-09)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:20:01](/episodes/ep-r1PS67aRmcA.md#t-00-19-31): “Ben Shapiro sat down with him last month”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:07:30](/episodes/ep-r1PS67aRmcA.md#t-00-07-09): “Benjamin Netanyahu is committing a genocide, and Ben Shapiro sat down with him last month”
+
+</details>
 
 - **[Greta Van Susteren](/entities/person-greta-van-susteren.md)** interviewed this
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:01:38](/episodes/ep-K5GjF53bfN4.md#t-00-01-27)
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:26:36](/episodes/ep-czVBmqZP6Ss.md#t-00-26-07)
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:01:38](/episodes/ep-K5GjF53bfN4.md#t-00-01-27): “when he went on multiple hits doing Fox News and Greta Van Susteren's show”
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:26:36](/episodes/ep-czVBmqZP6Ss.md#t-00-26-07): “as Greta Van Susteren asked Benjamin Netanyahu in his secondary hit regarding Charlie's assassination.”
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:26:16](/episodes/ep-czVBmqZP6Ss.md#t-00-26-07): “as Greta Van Susteren asked Benjamin Netanyahu in his secondary hit regarding Charlie's assassination”
+
+</details>
 
 - **[Fox News](/entities/org-fox-news.md)** interviewed this
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:07:12](/episodes/ep-czVBmqZP6Ss.md#t-00-07-02)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:07:12](/episodes/ep-czVBmqZP6Ss.md#t-00-07-02): “what Benjamin Netanyahu had to say on Fox News”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** met with this
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:07:37](/episodes/ep-czVBmqZP6Ss.md#t-00-07-17)
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:16:54](/episodes/ep-czVBmqZP6Ss.md#t-00-16-28)
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:07:37](/episodes/ep-czVBmqZP6Ss.md#t-00-07-17): “my son actually, on his 2019 visit to Israel, had lunch with him and his wife Erika.”
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:16:54](/episodes/ep-czVBmqZP6Ss.md#t-00-16-28): “It was at this time that Benjamin Netanyahu was called and Charlie was invited to Israel.”
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:36:29](/episodes/ep-YFmRH8p5lt0.md#t-00-36-11): “Bibi (Benjamin Netanyahu) rushed—raced out of the gate—to establish Charlie (Charlie Kirk) as like Israel's top goy, and he said probably too much. He said he called him two weeks ago, and he invited him to Israel.”
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:59:16](/episodes/ep-ja26iltROkM.md#t-00-59-15): “I definitely made the statement that Benjamin Netanyahu offered Charlie Kirk a boatload of money, and he rejected it”
+- [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:29:20](/episodes/ep-4YgrOhhy708.md#t-00-28-49): “on June 18th, Charlie (Charlie Kirk) goes head to head with the Zionists and Bibi (Benjamin Netanyahu)”
+
+</details>
 
 </details>
 
@@ -1143,7 +1412,26 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Benjamin Netanyahu (70)</strong></summary>
+<summary><strong class="section-title">Statements about Benjamin Netanyahu (73)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (2)</summary>
+
+- [00:01:03](/episodes/ep-jTj9Ip46r4w.md#t-00-00-38) (Accusation) **Candace Owens**: ["It is Candace Owens's personal belief that they colluded to have Charl..."](/statements/statement-f52c4565bac5.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [White House](/entities/org-white-house.md)
+
+- [00:08:13](/episodes/ep-jTj9Ip46r4w.md#t-00-07-43) (Claim) **Candace Owens**: ["Erika Kirk was slated to record something with Benjamin Netanyahu and ..."](/statements/statement-9d25ce5f57e9.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Mar-a-Lago](/entities/gpe-mar-a-lago.md)
+
+</details>
+
+<details>
+<summary>Coming soon... (1)</summary>
+
+- [00:01:02](/episodes/ep-LKR94FQ5p3o.md#t-00-01-02) (Accusation) **Anonymous Source #3 (Ep LKR94FQ5p3o)**: ["Zionists, the Prime Minister of Israel (Benjamin Netanyahu), all lied ..."](/statements/statement-366f47c962a4.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (2)</summary>

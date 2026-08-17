@@ -15,10 +15,56 @@ _Type: People_
 > The subject’s official biography verifies the canonical name Laura Loomer.
 Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/about/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-laura-loomer-t-01-03-56">2025-09-16 · 01:04:32</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-laura-loomer-t-00-24-08">2026-02-11 · 00:24:34</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-ja26iltROkM.md#ent-person-laura-loomer-t-00-26-14">Erika Kirk Forgives. The Feds Forget... | Candace Ep 240</a> (5 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-q7f8r-THr84.md#ent-person-laura-loomer-t-01-03-56" style="--pulse-height:20%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-person-laura-loomer-t-00-26-14" style="--pulse-height:100%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 5 mentions" title="2025-09-22 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-laura-loomer-t-00-42-16" style="--pulse-height:20%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-person-laura-loomer-t-00-09-04" style="--pulse-height:40%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 2 mentions" title="2025-10-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-laura-loomer-t-01-15-04" style="--pulse-height:20%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-laura-loomer-t-00-47-39" style="--pulse-height:80%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 4 mentions" title="2025-11-05 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-person-laura-loomer-t-00-37-59" style="--pulse-height:60%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 3 mentions" title="2025-12-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-laura-loomer-t-01-37-45" style="--pulse-height:60%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-laura-loomer-t-00-32-35" style="--pulse-height:20%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-laura-loomer-t-00-42-56" style="--pulse-height:20%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-laura-loomer-t-00-00-46" style="--pulse-height:80%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 4 mentions" title="2026-02-11 · 4 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-person-laura-loomer-t-01-03-56) | 1 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-person-laura-loomer-t-00-26-14) | 5 |
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-person-laura-loomer-t-00-42-16) | 1 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-laura-loomer-t-00-09-04) | 2 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-laura-loomer-t-01-15-04) | 1 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-laura-loomer-t-00-47-39) | 4 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-laura-loomer-t-00-37-59) | 3 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-laura-loomer-t-01-37-45) | 3 |
+| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-laura-loomer-t-00-32-35) | 1 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-laura-loomer-t-00-42-56) | 1 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-laura-loomer-t-00-00-46) | 4 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (4 mentions)</summary>
@@ -162,9 +208,14 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <summary>Criticized (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:27:34](/episodes/ep-ja26iltROkM.md#t-00-26-58): "Candace Owens is selling a CIA line of merchandise"
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:26:54](/episodes/ep-ja26iltROkM.md#t-00-26-14): "A real live tweet came from Laura Loomer... She's been attacking me nonstop"
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:27:39](/episodes/ep-ja26iltROkM.md#t-00-27-37): "A real live tweet came from Laura Loomer, our resident psycho. She's been attacking me nonstop"
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:27:34](/episodes/ep-ja26iltROkM.md#t-00-26-58): “Candace Owens is selling a CIA line of merchandise”
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:26:54](/episodes/ep-ja26iltROkM.md#t-00-26-14): “A real live tweet came from Laura Loomer... She's been attacking me nonstop”
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:27:39](/episodes/ep-ja26iltROkM.md#t-00-27-37): “A real live tweet came from Laura Loomer, our resident psycho. She's been attacking me nonstop”
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:26:58](/episodes/ep-ja26iltROkM.md#t-00-26-14): “Laura Loomer, our resident psycho. She's been attacking me nonstop.”
+
+</details>
 
 </details>
 
@@ -172,8 +223,12 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:27:34](/episodes/ep-ja26iltROkM.md#t-00-26-58)
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:26:54](/episodes/ep-ja26iltROkM.md#t-00-26-14)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:27:34](/episodes/ep-ja26iltROkM.md#t-00-26-58): “Candace Owens is selling a CIA line of merchandise”
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:26:54](/episodes/ep-ja26iltROkM.md#t-00-26-14): “A real live tweet came from Laura Loomer... She's been attacking me nonstop”
+
+</details>
 
 </details>
 

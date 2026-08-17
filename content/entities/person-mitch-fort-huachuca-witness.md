@@ -1,6 +1,6 @@
 ---
 title: "Mitch"
-description: "Mitch (People) - 25 mentions"
+description: "Mitch (People) - 24 mentions"
 id: "person-mitch-fort-huachuca-witness"
 type: "PERSON"
 aliases:
@@ -11,22 +11,49 @@ _Type: People_
 
 **Also known as:** Mitch
 
+> **Possibly overlapping entity records:** [Mitch Snow](/entities/person-mitch-snow). These records share a name or alias; compare their histories before treating either count as complete.
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-mitch-fort-huachuca-witness-t-00-00-00">2025-12-18 · 00:00:34</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-mitch-fort-huachuca-witness-t-00-51-30">2025-12-20 · 00:52:00</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>18</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-mitch-fort-huachuca-witness-t-00-20-04">EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282</a> (12 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-mitch-fort-huachuca-witness-t-00-20-04" style="--pulse-height:100%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 12 mentions" title="2025-12-18 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-mitch-fort-huachuca-witness-t-00-33-02" style="--pulse-height:100%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 12 mentions" title="2025-12-20 · 12 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-person-mitch-fort-huachuca-witness-t-00-20-04) | 12 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-mitch-fort-huachuca-witness-t-00-33-02) | 12 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (13 mentions)</summary>
-
-**[00:33:27](/episodes/ep-w1oqQbR_bYs.md#ent-person-mitch-fort-huachuca-witness-t-00-33-02)**
-> "You can support Mitch at GiveSendGo.com"
-
-**[00:32:19](/episodes/ep-w1oqQbR_bYs.md#ent-person-mitch-fort-huachuca-witness-t-00-32-19)**
-> "...le are trying to dig up about Mitch."
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (12 mentions)</summary>
 
 **[00:33:20](/episodes/ep-w1oqQbR_bYs.md#ent-person-mitch-fort-huachuca-witness-t-00-33-02)**
 > "You can support Mitch at GiveSendGo.com slash Candice podcast."
+
+**[00:32:19](/episodes/ep-w1oqQbR_bYs.md#ent-person-mitch-fort-huachuca-witness-t-00-32-19)**
+> "...le are trying to dig up about Mitch."
 
 **[00:37:23](/episodes/ep-w1oqQbR_bYs.md#ent-person-mitch-fort-huachuca-witness-t-00-37-03)**
 > "...e can confirm every aspect of Mitch's story, but we can't confirm his memory and whethe..."
@@ -110,7 +137,11 @@ _Type: People_
 <summary>Based In (1)</summary>
 
 - **[Sierra Vista](/entities/gpe-sierra-vista.md)**
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:47:42](/episodes/ep-ewBzjVe3LNQ.md#t-00-47-31): "Yeah, I get down to the base for those that think that people can't get on base...I certainly did."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:47:42](/episodes/ep-ewBzjVe3LNQ.md#t-00-47-31): “Yeah, I get down to the base for those that think that people can't get on base...I certainly did.”
+
+</details>
 
 </details>
 
@@ -118,10 +149,18 @@ _Type: People_
 <summary>Formerly Worked For (2)</summary>
 
 - **[10th Mountain Division](/entities/org-10th-mountain-division.md)**
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:32:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-31-58): "we were part of a mission going down to the border of JTF-6 assigned from 10th Mountain Division"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:32:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-31-58): “we were part of a mission going down to the border of JTF-6 assigned from 10th Mountain Division”
+
+</details>
 
 - **[Joint Task Force Six](/entities/org-joint-task-force-six.md)**
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:32:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-31-58): "we were part of a mission going down to the border of JTF-6"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:32:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-31-58): “we were part of a mission going down to the border of JTF-6”
+
+</details>
 
 </details>
 
@@ -129,7 +168,11 @@ _Type: People_
 <summary>Interviewed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:00:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-59-52): "Okay, everyone, happy Thursday...Welcome back to Candice...we are going to bring on, and this is his new name, Mitch."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:00:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-59-52): “Okay, everyone, happy Thursday...Welcome back to Candice...we are going to bring on, and this is his new name, Mitch.”
+
+</details>
 
 </details>
 
@@ -137,7 +180,11 @@ _Type: People_
 <summary>Lives In (1)</summary>
 
 - **[Sierra Vista](/entities/gpe-sierra-vista.md)**
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:13:02](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28): "I was absolutely floored when a person who grew up and lives just outside of the base in in Sierra Vista."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:13:02](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28): “I was absolutely floored when a person who grew up and lives just outside of the base in in Sierra Vista.”
+
+</details>
 
 </details>
 
@@ -145,17 +192,33 @@ _Type: People_
 <summary>Met With (4)</summary>
 
 - **[Captain Adam Neff](/entities/person-captain-adam-neff.md)**
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:49:24](/episodes/ep-ewBzjVe3LNQ.md#t-00-48-59): "me, one of the captains there, his name was Captain Neff, nice guy...Yeah, and I started telling him my story"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:49:24](/episodes/ep-ewBzjVe3LNQ.md#t-00-48-59): “me, one of the captains there, his name was Captain Neff, nice guy...Yeah, and I started telling him my story”
+
+</details>
 
 - **[Mark Amodei](/entities/person-mark-amodei.md)**
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:01:57](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-19): "This is, and Skyler, someone's got to get in my ears, I'm blanking on his name, Mark Amodi...That's 95. I'm absolutely, you know, after I've looked at it, that's, yeah, that was definitely the guy."
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:01:10](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-05): "Mark Amodei... And you thought that this could potentially be the congressman that you saw on the 9th?... Yeah, that's the one I walked closest to"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:01:57](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-19): “This is, and Skyler, someone's got to get in my ears, I'm blanking on his name, Mark Amodi...That's 95. I'm absolutely, you know, after I've looked at it, that's, yeah, that was definitely the guy.”
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:01:10](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-05): “Mark Amodei... And you thought that this could potentially be the congressman that you saw on the 9th?... Yeah, that's the one I walked closest to”
+
+</details>
 
 - **[Brian Harpole](/entities/person-brian-harpole.md)**
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:56:20](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-15): "If you had to put it at a percentage that you saw Brian Harpole... Ninety-five. Ninety-five percent."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:56:20](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-15): “If you had to put it at a percentage that you saw Brian Harpole... Ninety-five. Ninety-five percent.”
+
+</details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:58:10](/episodes/ep-ewBzjVe3LNQ.md#t-00-58-00): "There is a picture of Erika Kirk with a ponytail from her past. That person matches who I saw at Fort Huachuca in the lobby the night before"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:58:10](/episodes/ep-ewBzjVe3LNQ.md#t-00-58-00): “There is a picture of Erika Kirk with a ponytail from her past. That person matches who I saw at Fort Huachuca in the lobby the night before”
+
+</details>
 
 </details>
 
@@ -163,33 +226,69 @@ _Type: People_
 <summary>Referenced By (9)</summary>
 
 - **[10th Mountain Division](/entities/org-10th-mountain-division.md)** formerly employed this
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:32:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-31-58)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:32:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-31-58): “we were part of a mission going down to the border of JTF-6 assigned from 10th Mountain Division”
+
+</details>
 
 - **[Joint Task Force Six](/entities/org-joint-task-force-six.md)** formerly employed this
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:32:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-31-58)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:32:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-31-58): “we were part of a mission going down to the border of JTF-6”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed this
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:00:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-59-52)
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:25:33](/episodes/ep-ewBzjVe3LNQ.md#t-00-25-09)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:00:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-59-52): “Okay, everyone, happy Thursday...Welcome back to Candice...we are going to bring on, and this is his new name, Mitch.”
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:25:33](/episodes/ep-ewBzjVe3LNQ.md#t-00-25-09): “Mitch, welcome to my podcast. It is so great to have you here.”
+
+</details>
 
 - **[Sierra Vista](/entities/gpe-sierra-vista.md)** location of this
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:47:42](/episodes/ep-ewBzjVe3LNQ.md#t-00-47-31)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:47:42](/episodes/ep-ewBzjVe3LNQ.md#t-00-47-31): “Yeah, I get down to the base for those that think that people can't get on base...I certainly did.”
+
+</details>
 
 - **[Captain Adam Neff](/entities/person-captain-adam-neff.md)** met with this
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:49:24](/episodes/ep-ewBzjVe3LNQ.md#t-00-48-59)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:49:24](/episodes/ep-ewBzjVe3LNQ.md#t-00-48-59): “me, one of the captains there, his name was Captain Neff, nice guy...Yeah, and I started telling him my story”
+
+</details>
 
 - **[Mark Amodei](/entities/person-mark-amodei.md)** met with this
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:01:57](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-19)
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:01:10](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-05)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:01:57](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-19): “This is, and Skyler, someone's got to get in my ears, I'm blanking on his name, Mark Amodi...That's 95. I'm absolutely, you know, after I've looked at it, that's, yeah, that was definitely the guy.”
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 01:01:10](/episodes/ep-ewBzjVe3LNQ.md#t-01-01-05): “Mark Amodei... And you thought that this could potentially be the congressman that you saw on the 9th?... Yeah, that's the one I walked closest to”
+
+</details>
 
 - **[Brian Harpole](/entities/person-brian-harpole.md)** met with this
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:56:20](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-15)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:56:20](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-15): “If you had to put it at a percentage that you saw Brian Harpole... Ninety-five. Ninety-five percent.”
+
+</details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** met with this
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:58:10](/episodes/ep-ewBzjVe3LNQ.md#t-00-58-00)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:58:10](/episodes/ep-ewBzjVe3LNQ.md#t-00-58-00): “There is a picture of Erika Kirk with a ponytail from her past. That person matches who I saw at Fort Huachuca in the lobby the night before”
+
+</details>
 
 - **[Sierra Vista](/entities/gpe-sierra-vista.md)** residence of this
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:13:02](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:13:02](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28): “I was absolutely floored when a person who grew up and lives just outside of the base in in Sierra Vista.”
+
+</details>
 
 </details>
 

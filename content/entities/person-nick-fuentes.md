@@ -16,10 +16,66 @@ _Type: People_
 > Associated Press reporting confirms the canonical public identity Nick Fuentes and describes him as a far-right influencer.
 Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on his doorstep - AP News](https://apnews.com/article/25e77dc172c2612ae24ba41c9fb45f89)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-person-nick-fuentes-t-00-46-12">2025-10-06 · 00:46:28</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-nick-fuentes-t-00-49-39">2026-01-28 · 00:50:09</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>87</strong></div>
+<div><span>Statements by</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Relationships</span><strong>20</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-01-26">Ben Shapiro Is Crying Again. | Candace Ep 261</a> (29 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-person-nick-fuentes-t-00-46-12" style="--pulse-height:14%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 4 mentions" title="2025-10-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-person-nick-fuentes-t-00-11-47" style="--pulse-height:10%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 3 mentions" title="2025-10-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-nick-fuentes-t-00-29-27" style="--pulse-height:45%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 13 mentions" title="2025-10-30 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-nick-fuentes-t-00-33-17" style="--pulse-height:8%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-06-49" style="--pulse-height:38%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 11 mentions" title="2025-11-03 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-nick-fuentes-t-00-32-18" style="--pulse-height:21%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 6 mentions" title="2025-11-04 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-nick-fuentes-t-00-16-27" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 2 mentions" title="2025-11-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-01-26" style="--pulse-height:100%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 29 mentions" title="2025-11-08 · 29 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-nick-fuentes-t-00-33-36" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-nick-fuentes-t-00-51-55" style="--pulse-height:8%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-nick-fuentes-t-00-15-40" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-nick-fuentes-t-00-40-43" style="--pulse-height:10%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-nick-fuentes-t-00-54-42" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-person-nick-fuentes-t-00-34-38" style="--pulse-height:17%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 5 mentions" title="2026-01-16 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-nick-fuentes-t-00-43-14" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-nick-fuentes-t-00-49-39" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-person-nick-fuentes-t-00-46-12) | 4 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-nick-fuentes-t-00-11-47) | 3 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-nick-fuentes-t-00-29-27) | 13 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-person-nick-fuentes-t-00-33-17) | 1 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-nick-fuentes-t-00-06-49) | 11 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-person-nick-fuentes-t-00-32-18) | 6 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-nick-fuentes-t-00-16-27) | 2 |
+| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-01-26) | 29 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-nick-fuentes-t-00-33-36) | 2 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-nick-fuentes-t-00-51-55) | 2 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-nick-fuentes-t-00-15-40) | 2 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-nick-fuentes-t-00-40-43) | 3 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-nick-fuentes-t-00-54-42) | 1 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-nick-fuentes-t-00-34-38) | 5 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-nick-fuentes-t-00-43-14) | 2 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-nick-fuentes-t-00-49-39) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (87)</strong></summary>
 
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1 mentions)</summary>
@@ -371,8 +427,12 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 <summary>Accused By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:54:46](/episodes/ep-BKcOm32ZEGk.md#t-00-54-42): "i don't watch nick fuentes...it was the most obvious thing to me in the entire world he's a federal informant"
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:01:07](/episodes/ep-X92MllIHDzw.md#t-00-00-45): "I also have maintained that he's clearly a federal informant, but who cares if people want to follow him?"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:54:46](/episodes/ep-BKcOm32ZEGk.md#t-00-54-42): “i don't watch nick fuentes...it was the most obvious thing to me in the entire world he's a federal informant”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:01:07](/episodes/ep-X92MllIHDzw.md#t-00-00-45): “I also have maintained that he's clearly a federal informant, but who cares if people want to follow him?”
+
+</details>
 
 </details>
 
@@ -380,7 +440,11 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 <summary>Critic Of (1)</summary>
 
 - **[Israel](/entities/gpe-israel.md)**
-  - [Myron Gaines x Candace Owens @ 00:42:03](/episodes/ep-2T39-oADLj0.md#t-00-42-00): "between you tucker nick uh they're attacking all three of you guys saying oh you guys are anti-semites and you guys are pushing this whole thing and i and i give credit because you three have done an incredible job of you know awareing the american public on this topic uh when it comes to israel's control of the middle east what they're doing over there how they've been able to get away with this for so long killing people and no one knowing and you know they've been targeting you guys quite a bit uh and i see that you know there's been a bunch of drama with megan kelly and ben shapiro and everything else like that what are your thoughts on the entire on the situation because like you know anytime they mention dr you're right there right when it comes to the criticism of israel yeah"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:42:03](/episodes/ep-2T39-oADLj0.md#t-00-42-00): “between you tucker nick uh they're attacking all three of you guys saying oh you guys are anti-semites and you guys are pushing this whole thing and i and i give credit because you three have done an incredible job of you know awareing the american public on this topic uh when it comes to israel's control of the middle east what they're doing over there how they've been able to get away with this for so long killing people and no one knowing and you know they've been targeting you guys quite a bit uh and i see that you know there's been a bunch of drama with megan kelly and ben shapiro and everything else like that what are your thoughts on the entire on the situation because like you know anytime they mention dr you're right there right when it comes to the criticism of israel yeah”
+
+</details>
 
 </details>
 
@@ -388,7 +452,11 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 <summary>Criticized (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:44:02](/episodes/ep-X92MllIHDzw.md#t-00-43-39): "This whole movement of Gen X idiots that are obsessed with satanic pedophile elite and psycho conspiracy kookery that doesn't even make sense, this Candace Owens bullshit."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:44:02](/episodes/ep-X92MllIHDzw.md#t-00-43-39): “This whole movement of Gen X idiots that are obsessed with satanic pedophile elite and psycho conspiracy kookery that doesn't even make sense, this Candace Owens bullshit.”
+
+</details>
 
 </details>
 
@@ -396,11 +464,19 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 <summary>Criticized By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:09:49](/episodes/ep-ozWJz2spBcI.md#t-00-09-44): "foolish people that are so deceived, like a Candace Owens and like a Nick Fuentes"
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:44:25](/episodes/ep-X92MllIHDzw.md#t-00-44-18): "Nick strikes me as someone who was really bright in high school. Then he got a little bit of fame and he stopped reading books."
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:09:49](/episodes/ep-ozWJz2spBcI.md#t-00-09-44): “foolish people that are so deceived, like a Candace Owens and like a Nick Fuentes”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:44:25](/episodes/ep-X92MllIHDzw.md#t-00-44-18): “Nick strikes me as someone who was really bright in high school. Then he got a little bit of fame and he stopped reading books.”
+
+</details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
-  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:25](/episodes/ep-r1PS67aRmcA.md#t-00-00-00): "Ben Shapiro accusing Nick Fuentes of anti-Semitism"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:25](/episodes/ep-r1PS67aRmcA.md#t-00-00-00): “Ben Shapiro accusing Nick Fuentes of anti-Semitism”
+
+</details>
 
 </details>
 
@@ -408,7 +484,11 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 <summary>Endorsed By (1)</summary>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)**
-  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:05](/episodes/ep-r1PS67aRmcA.md#t-00-04-34): "Daily Wire CEO tells white supremacist Nick Fuentes (Nick Fuentes) that he's talented and he's very funny"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:05](/episodes/ep-r1PS67aRmcA.md#t-00-04-34): “Daily Wire CEO tells white supremacist Nick Fuentes (Nick Fuentes) that he's talented and he's very funny”
+
+</details>
 
 </details>
 
@@ -416,13 +496,22 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 <summary>Interviewed By (2)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-  - [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:29:34](/episodes/ep-iHav0PPzUz8.md#t-00-29-27): "Tucker Carlson hosted Nick Fuentes on his show."
-  - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:07:28](/episodes/ep-K1tFD7FfoCU.md#t-00-06-49): "Tucker (Tucker Carlson) interviewed Nick Fuentes."
-  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:03](/episodes/ep-r1PS67aRmcA.md#t-00-04-34): "after I saw what he did with Nick Fuentes"
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+
+- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:29:34](/episodes/ep-iHav0PPzUz8.md#t-00-29-27): “Tucker Carlson hosted Nick Fuentes on his show.”
+- [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:07:28](/episodes/ep-K1tFD7FfoCU.md#t-00-06-49): “Tucker (Tucker Carlson) interviewed Nick Fuentes.”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:03](/episodes/ep-r1PS67aRmcA.md#t-00-04-34): “after I saw what he did with Nick Fuentes”
+- [Myron Gaines x Candace Owens @ 00:45:26](/episodes/ep-2T39-oADLj0.md#t-00-45-26): “because when you hear nick's point has his backstory it's compelling it just is i was compelled when i heard it i actually haven't gotten around to watching his interview with tucker it's on my list this weekend”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:29:38](/episodes/ep-iHav0PPzUz8.md#t-00-29-27): "I've hosted Nick Fuentes on my show."
-  - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:08:20](/episodes/ep-K1tFD7FfoCU.md#t-00-08-16): "I interviewed Nick Fuentes."
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:29:38](/episodes/ep-iHav0PPzUz8.md#t-00-29-27): “I've hosted Nick Fuentes on my show.”
+- [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:08:20](/episodes/ep-K1tFD7FfoCU.md#t-00-08-16): “I interviewed Nick Fuentes.”
+
+</details>
 
 </details>
 
@@ -430,7 +519,11 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 <summary>Met With (1)</summary>
 
 - **[Defend Texas Liberty PAC](/entities/org-defend-texas-liberty-pac.md)**
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:39:29](/episodes/ep-X92MllIHDzw.md#t-00-38-51): "Nick Fuentes ... took a meeting with Defend Texas Liberty."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:39:29](/episodes/ep-X92MllIHDzw.md#t-00-38-51): “Nick Fuentes ... took a meeting with Defend Texas Liberty.”
+
+</details>
 
 </details>
 
@@ -438,7 +531,11 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 <summary>Warned By (1)</summary>
 
 - **[Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md)**
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:40:07](/episodes/ep-X92MllIHDzw.md#t-00-39-31): "the night before by Milo Yiannopoulos."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:40:07](/episodes/ep-X92MllIHDzw.md#t-00-39-31): “the night before by Milo Yiannopoulos.”
+
+</details>
 
 </details>
 
@@ -446,38 +543,80 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 <summary>Referenced By (10)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-  - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:54:46](/episodes/ep-BKcOm32ZEGk.md#t-00-54-42)
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:01:07](/episodes/ep-X92MllIHDzw.md#t-00-00-45)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:54:46](/episodes/ep-BKcOm32ZEGk.md#t-00-54-42): “i don't watch nick fuentes...it was the most obvious thing to me in the entire world he's a federal informant”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:01:07](/episodes/ep-X92MllIHDzw.md#t-00-00-45): “I also have maintained that he's clearly a federal informant, but who cares if people want to follow him?”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-  - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:09:49](/episodes/ep-ozWJz2spBcI.md#t-00-09-44)
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:44:25](/episodes/ep-X92MllIHDzw.md#t-00-44-18)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:09:49](/episodes/ep-ozWJz2spBcI.md#t-00-09-44): “foolish people that are so deceived, like a Candace Owens and like a Nick Fuentes”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:44:25](/episodes/ep-X92MllIHDzw.md#t-00-44-18): “Nick strikes me as someone who was really bright in high school. Then he got a little bit of fame and he stopped reading books.”
+
+</details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized this
-  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:25](/episodes/ep-r1PS67aRmcA.md#t-00-00-00)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:25](/episodes/ep-r1PS67aRmcA.md#t-00-00-00): “Ben Shapiro accusing Nick Fuentes of anti-Semitism”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:44:02](/episodes/ep-X92MllIHDzw.md#t-00-43-39)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:44:02](/episodes/ep-X92MllIHDzw.md#t-00-43-39): “This whole movement of Gen X idiots that are obsessed with satanic pedophile elite and psycho conspiracy kookery that doesn't even make sense, this Candace Owens bullshit.”
+
+</details>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** endorsed this
-  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:05](/episodes/ep-r1PS67aRmcA.md#t-00-04-34)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:05](/episodes/ep-r1PS67aRmcA.md#t-00-04-34): “Daily Wire CEO tells white supremacist Nick Fuentes (Nick Fuentes) that he's talented and he's very funny”
+
+</details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** interviewed this
-  - [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:29:34](/episodes/ep-iHav0PPzUz8.md#t-00-29-27)
-  - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:07:28](/episodes/ep-K1tFD7FfoCU.md#t-00-06-49)
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+
+- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:29:34](/episodes/ep-iHav0PPzUz8.md#t-00-29-27): “Tucker Carlson hosted Nick Fuentes on his show.”
+- [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:07:28](/episodes/ep-K1tFD7FfoCU.md#t-00-06-49): “Tucker (Tucker Carlson) interviewed Nick Fuentes.”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:03](/episodes/ep-r1PS67aRmcA.md#t-00-04-34): “after I saw what he did with Nick Fuentes”
+- [Myron Gaines x Candace Owens @ 00:45:26](/episodes/ep-2T39-oADLj0.md#t-00-45-26): “because when you hear nick's point has his backstory it's compelling it just is i was compelled when i heard it i actually haven't gotten around to watching his interview with tucker it's on my list this weekend”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed this
-  - [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:29:38](/episodes/ep-iHav0PPzUz8.md#t-00-29-27)
-  - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:08:20](/episodes/ep-K1tFD7FfoCU.md#t-00-08-16)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:29:38](/episodes/ep-iHav0PPzUz8.md#t-00-29-27): “I've hosted Nick Fuentes on my show.”
+- [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:08:20](/episodes/ep-K1tFD7FfoCU.md#t-00-08-16): “I interviewed Nick Fuentes.”
+
+</details>
 
 - **[Defend Texas Liberty PAC](/entities/org-defend-texas-liberty-pac.md)** met with this
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:39:29](/episodes/ep-X92MllIHDzw.md#t-00-38-51)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:39:29](/episodes/ep-X92MllIHDzw.md#t-00-38-51): “Nick Fuentes ... took a meeting with Defend Texas Liberty.”
+
+</details>
 
 - **[Israel](/entities/gpe-israel.md)** target of criticism from this
-  - [Myron Gaines x Candace Owens @ 00:42:03](/episodes/ep-2T39-oADLj0.md#t-00-42-00)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:42:03](/episodes/ep-2T39-oADLj0.md#t-00-42-00): “between you tucker nick uh they're attacking all three of you guys saying oh you guys are anti-semites and you guys are pushing this whole thing and i and i give credit because you three have done an incredible job of you know awareing the american public on this topic uh when it comes to israel's control of the middle east what they're doing over there how they've been able to get away with this for so long killing people and no one knowing and you know they've been targeting you guys quite a bit uh and i see that you know there's been a bunch of drama with megan kelly and ben shapiro and everything else like that what are your thoughts on the entire on the situation because like you know anytime they mention dr you're right there right when it comes to the criticism of israel yeah”
+
+</details>
 
 - **[Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md)** warned this
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:40:07](/episodes/ep-X92MllIHDzw.md#t-00-39-31)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:40:07](/episodes/ep-X92MllIHDzw.md#t-00-39-31): “the night before by Milo Yiannopoulos.”
+
+</details>
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Bill Ackman"
-description: "Bill Ackman (People) - 63 mentions"
+description: "Bill Ackman (People) - 61 mentions"
 id: "person-bill-ackman"
 type: "PERSON"
 aliases:
@@ -21,10 +21,80 @@ _Type: People_
 > Pershing Square team page confirms canonical name, full name, and investment-management role.
 Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/bill-ackman/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-bill-ackman-t-00-13-40">2025-09-15 · 00:14:07</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-bill-ackman-t-02-26-33">2026-08-14 · 02:26:42</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>61</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>17</strong></div>
+<div><span>Relationships</span><strong>16</strong></div>
+<div><span>Threads</span><strong>1</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-q7f8r-THr84.md#ent-person-bill-ackman-t-00-01-14">Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236</a> (19 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-bill-ackman-t-00-13-40" style="--pulse-height:79%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 15 mentions" title="2025-09-15 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-person-bill-ackman-t-00-01-14" style="--pulse-height:100%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 19 mentions" title="2025-09-16 · 19 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-bill-ackman-t-01-04-30" style="--pulse-height:8%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-person-bill-ackman-t-00-00-00" style="--pulse-height:21%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 4 mentions" title="2025-09-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-bill-ackman-t-00-25-42" style="--pulse-height:8%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-person-bill-ackman-t-00-29-05" style="--pulse-height:8%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-bill-ackman-t-00-38-06" style="--pulse-height:8%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 1 mentions" title="2025-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-person-bill-ackman-t-00-02-40" style="--pulse-height:11%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 2 mentions" title="2025-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-bill-ackman-t-00-31-52" style="--pulse-height:8%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-bill-ackman-t-00-16-17" style="--pulse-height:11%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-bill-ackman-t-00-09-44" style="--pulse-height:11%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 2 mentions" title="2025-11-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-bill-ackman-t-00-35-35" style="--pulse-height:8%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-person-bill-ackman-t-00-14-43" style="--pulse-height:26%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 5 mentions" title="2025-11-20 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-bill-ackman-t-00-16-56" style="--pulse-height:11%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-bill-ackman-t-00-01-23" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-bill-ackman-t-00-54-01" style="--pulse-height:11%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-bill-ackman-t-02-26-33" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-person-bill-ackman-t-00-13-40) | 15 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-person-bill-ackman-t-00-01-14) | 19 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-person-bill-ackman-t-01-04-30) | 1 |
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-person-bill-ackman-t-00-00-00) | 4 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-bill-ackman-t-00-25-42) | 1 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-person-bill-ackman-t-00-29-05) | 1 |
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-person-bill-ackman-t-00-38-06) | 1 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-person-bill-ackman-t-00-02-40) | 2 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-person-bill-ackman-t-00-31-52) | 1 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-person-bill-ackman-t-00-16-17) | 2 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-bill-ackman-t-00-09-44) | 2 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-bill-ackman-t-00-35-35) | 1 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-bill-ackman-t-00-14-43) | 5 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-person-bill-ackman-t-00-16-56) | 2 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-bill-ackman-t-00-01-23) | 1 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-bill-ackman-t-00-54-01) | 2 |
+| 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-bill-ackman-t-02-26-33) | 1 |
+
+</details>
+</section>
+
+## Reviewed theory threads
+
+- [How the Hamptons retreat was characterized](/threads/thread-hamptons-retreat-characterization) — Tracks competing on-channel descriptions of the August 2025 Hamptons retreat: first as an intervention over Israel, then as a debate workshop, and later as a retreat convened by Charlie Kirk.
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (61)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
+
+**[02:26:42](/episodes/ep-nPhCKwJ6ye8.md#ent-person-bill-ackman-t-02-26-33)**
+> "...njamin Netanyahu) and Ackman (Bill Ackman), right?"
+
+</details>
 
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (2 mentions)</summary>
@@ -150,10 +220,7 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (5 mentions)</summary>
-
-**[00:00:24](/episodes/ep-sreYYcID-QY.md#ent-person-bill-ackman-t-00-00-00)**
-> "Bill Ackman, who is sending his press hounds after me"
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (4 mentions)</summary>
 
 **[00:00:24](/episodes/ep-sreYYcID-QY.md#ent-person-bill-ackman-t-00-00-00)**
 > "...a state leader of a foreign country to have to twice deny that on national television? We also have Bill Ackman, who is sending his press hounds after me. There's no other way to say it. He's also dropping text ..."
@@ -170,21 +237,15 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 </details>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (2 mentions)</summary>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (1 mentions)</summary>
 
 **[01:04:55](/episodes/ep-2WEHTk0Xewg.md#ent-person-bill-ackman-t-01-04-30)**
 > "...t I didn't say. You know, their new thing that went around is today I woke up, and like all of like Bill Ackman's cronies were like, "Would you like to comment?" The New York Post would like to—I said literally:..."
 
-**[01:04:59](/episodes/ep-2WEHTk0Xewg.md#ent-person-bill-ackman-t-01-04-30)**
-> "Bill Ackman's cronies were like, Would you like to comment?"
-
 </details>
 
 <details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (20 mentions)</summary>
-
-**[00:01:32](/episodes/ep-q7f8r-THr84.md#ent-person-bill-ackman-t-00-01-14)**
-> "Speaking of which, Bill Ackman, you may have caught that he responded to me about the Hamptons"
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (19 mentions)</summary>
 
 **[00:01:32](/episodes/ep-q7f8r-THr84.md#ent-person-bill-ackman-t-00-01-14)**
 > "...ent, and what had been happening more broadly at the company over the last year. Speaking of which, Bill Ackman, you may have caught that he responded to me about the Hamptons. With a lot of words to really say ..."
@@ -304,7 +365,11 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 <summary>Critic Of (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:50](/episodes/ep-K5GjF53bfN4.md#t-00-02-40): "And of course, who could forget the word length of Bill Ackman's reply. I tell you guys about this weekend in the Hamptons...And Bill Ackman replies with an essay."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:50](/episodes/ep-K5GjF53bfN4.md#t-00-02-40): “And of course, who could forget the word length of Bill Ackman's reply. I tell you guys about this weekend in the Hamptons...And Bill Ackman replies with an essay.”
+
+</details>
 
 </details>
 
@@ -312,15 +377,27 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 <summary>Criticized (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:24](/episodes/ep-sreYYcID-QY.md#t-00-00-00): "Bill Ackman, who is sending his press hounds after me."
-  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:25:48](/episodes/ep-aDlhjfW6hz8.md#t-00-25-42): "Bill Ackman brought receipts. How long was that tweet?"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:24](/episodes/ep-sreYYcID-QY.md#t-00-00-00): “Bill Ackman, who is sending his press hounds after me.”
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:25:48](/episodes/ep-aDlhjfW6hz8.md#t-00-25-42): “Bill Ackman brought receipts. How long was that tweet?”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:16:01](/episodes/ep-czVBmqZP6Ss.md#t-00-15-45): "Charlie was surrounded by his friends, quote-unquote friends. Bill Ackman was very upset and threats were made."
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:50](/episodes/ep-K5GjF53bfN4.md#t-00-02-40): "And of course, who could forget the word length of Bill Ackman's reply. I tell you guys about this weekend in the Hamptons...And Bill Ackman replies with an essay."
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:16:01](/episodes/ep-czVBmqZP6Ss.md#t-00-15-45): “Charlie was surrounded by his friends, quote-unquote friends. Bill Ackman was very upset and threats were made.”
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:50](/episodes/ep-K5GjF53bfN4.md#t-00-02-40): “And of course, who could forget the word length of Bill Ackman's reply. I tell you guys about this weekend in the Hamptons...And Bill Ackman replies with an essay.”
+
+</details>
 
 - **[Zohran Mamdani](/entities/person-zohran-mamdani.md)**
-  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:14:40](/episodes/ep-LATnak75Si0.md#t-00-14-30): "Bill Ackman almost personally ran against Mamdani"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:14:40](/episodes/ep-LATnak75Si0.md#t-00-14-30): “Bill Ackman almost personally ran against Mamdani”
+
+</details>
 
 </details>
 
@@ -328,10 +405,18 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 <summary>Criticized By (2)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:14:14](/episodes/ep-czVBmqZP6Ss.md#t-00-13-40): "Tucker specifically asked the question, where does Bill Ackman's money come from? You know, who is this guy?"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:14:14](/episodes/ep-czVBmqZP6Ss.md#t-00-13-40): “Tucker specifically asked the question, where does Bill Ackman's money come from? You know, who is this guy?”
+
+</details>
 
 - **[Max Blumenthal](/entities/person-max-blumenthal.md)**
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:16:09](/episodes/ep-czVBmqZP6Ss.md#t-00-15-45): "Max Blumenthal went out to him today"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:16:09](/episodes/ep-czVBmqZP6Ss.md#t-00-15-45): “Max Blumenthal went out to him today”
+
+</details>
 
 </details>
 
@@ -339,10 +424,18 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 <summary>Met With (2)</summary>
 
 - **[Seth Dillon](/entities/person-seth-dillon.md)**
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:20:39](/episodes/ep-czVBmqZP6Ss.md#t-00-19-58): "another person that was there—and I am not surprised this person was there. If you've been listening to my show, Seth Dillon"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:20:39](/episodes/ep-czVBmqZP6Ss.md#t-00-19-58): “another person that was there—and I am not surprised this person was there. If you've been listening to my show, Seth Dillon”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:08:01](/episodes/ep-sreYYcID-QY.md#t-00-07-29): "We can talk about that trip to the Hamptons."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:08:01](/episodes/ep-sreYYcID-QY.md#t-00-07-29): “We can talk about that trip to the Hamptons.”
+
+</details>
 
 </details>
 
@@ -350,29 +443,61 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 <summary>Referenced By (8)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** criticized this
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:14:14](/episodes/ep-czVBmqZP6Ss.md#t-00-13-40)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:14:14](/episodes/ep-czVBmqZP6Ss.md#t-00-13-40): “Tucker specifically asked the question, where does Bill Ackman's money come from? You know, who is this guy?”
+
+</details>
 
 - **[Max Blumenthal](/entities/person-max-blumenthal.md)** criticized this
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:16:09](/episodes/ep-czVBmqZP6Ss.md#t-00-15-45)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:16:09](/episodes/ep-czVBmqZP6Ss.md#t-00-15-45): “Max Blumenthal went out to him today”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:24](/episodes/ep-sreYYcID-QY.md#t-00-00-00)
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:04](/episodes/ep-sreYYcID-QY.md#t-00-00-00)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:24](/episodes/ep-sreYYcID-QY.md#t-00-00-00): “Bill Ackman, who is sending his press hounds after me.”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:04](/episodes/ep-sreYYcID-QY.md#t-00-00-00): “We also have Bill Ackman, who is sending his press hounds after me.”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** criticized by this
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:50](/episodes/ep-K5GjF53bfN4.md#t-00-02-40)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:50](/episodes/ep-K5GjF53bfN4.md#t-00-02-40): “And of course, who could forget the word length of Bill Ackman's reply. I tell you guys about this weekend in the Hamptons...And Bill Ackman replies with an essay.”
+
+</details>
 
 - **[Zohran Mamdani](/entities/person-zohran-mamdani.md)** criticized by this
-  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:14:40](/episodes/ep-LATnak75Si0.md#t-00-14-30)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:14:40](/episodes/ep-LATnak75Si0.md#t-00-14-30): “Bill Ackman almost personally ran against Mamdani”
+
+</details>
 
 - **[Seth Dillon](/entities/person-seth-dillon.md)** met with this
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:20:39](/episodes/ep-czVBmqZP6Ss.md#t-00-19-58)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:20:39](/episodes/ep-czVBmqZP6Ss.md#t-00-19-58): “another person that was there—and I am not surprised this person was there. If you've been listening to my show, Seth Dillon”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** met with this
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:08:01](/episodes/ep-sreYYcID-QY.md#t-00-07-29)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:08:01](/episodes/ep-sreYYcID-QY.md#t-00-07-29): “We can talk about that trip to the Hamptons.”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** target of criticism from this
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:50](/episodes/ep-K5GjF53bfN4.md#t-00-02-40)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:50](/episodes/ep-K5GjF53bfN4.md#t-00-02-40): “And of course, who could forget the word length of Bill Ackman's reply. I tell you guys about this weekend in the Hamptons...And Bill Ackman replies with an essay.”
+
+</details>
 
 </details>
 

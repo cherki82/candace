@@ -31,6 +31,7 @@ import PageFilter from "./PageFilter"
 import Banner from "./Banner"
 import AnchorHighlight from "./AnchorHighlight"
 import YouTubeTimestampLinks from "./YouTubeTimestampLinks"
+import ResearchWorkbench from "./ResearchWorkbench"
 
 export {
   ArticleTitle,
@@ -66,4 +67,5 @@ export {
   Banner,
   AnchorHighlight,
   YouTubeTimestampLinks,
+  ResearchWorkbench,
 }

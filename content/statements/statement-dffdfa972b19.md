@@ -23,7 +23,7 @@ veracity: "mixed"
 
 - [Israel Defense Forces](/entities/org-israel-defense-forces.md) (org)
 - [Israel](/entities/gpe-israel.md) (gpe)
-- [The New York Times](/entities/org-new-york-times.md) (org)
+- [The New York Times](/entities/org-the-new-york-times.md) (org)
 - [CNN](/entities/org-cnn.md) (org)
 
 ## Source

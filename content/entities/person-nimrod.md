@@ -15,10 +15,42 @@ _Type: People_
 > Britannica reference verifies canonical biblical figure name.
 Source: [Encyclopaedia Britannica: Nimrod](https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Nimrod)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-nimrod-t-00-33-44">2026-02-02 · 00:34:15</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-nimrod-t-00-47-15">2026-02-05 · 00:47:15</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-nimrod-t-00-04-47">CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301</a> (15 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-nimrod-t-00-33-44" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-nimrod-t-00-04-47" style="--pulse-height:100%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 15 mentions" title="2026-02-03 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-nimrod-t-00-08-21" style="--pulse-height:53%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 8 mentions" title="2026-02-04 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-nimrod-t-00-47-15" style="--pulse-height:8%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-nimrod-t-00-33-44) | 1 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-nimrod-t-00-04-47) | 15 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-nimrod-t-00-08-21) | 8 |
+| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-nimrod-t-00-47-15) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
 
 <details>
 <summary>An Open Letter To Erika Kirk | Candace Ep 303 (1 mentions)</summary>

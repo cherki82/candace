@@ -4,9 +4,10 @@ description: "\"The Trump administration released more than three million pages 
 statement_id: "statement-1bed1a88852c"
 speaker: "Pam Bondi"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -34,7 +35,21 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The DOJ states it published more than three million additional pages in January 2026 in compliance with the Epstein Files Transparency Act, and the White House records that Trump signed H.R. 4405 into law.
+
+**Confidence:** High
+
+**Sources:**
+
+- [DOJ Publishes 3.5 Million Responsive Pages](https://www.justice.gov/opa/pr/department-justice-publishes-35-million-responsive-pages-compliance-epstein-files)
+- [H.R. 4405 Signed Into Law](https://www.whitehouse.gov/briefings-statements/2025/11/congressional-bill-h-r-4405-signed-into-law/)
+
+*Verified: 2026-08-16T11:38:40.243741*
 
 ---
 

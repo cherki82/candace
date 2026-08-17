@@ -1,6 +1,6 @@
 ---
 title: "MKUltra"
-description: "MKUltra (Concepts) - 27 mentions"
+description: "MKUltra (Concepts) - 37 mentions"
 id: "concept-mkultra"
 type: "CONCEPT"
 aliases:
@@ -23,10 +23,106 @@ _Type: Concepts_
 > Declassified CIA record confirms the project name.
 Source: [Project MKULTRA, Subproject A - CIA Reading Room](https://www.cia.gov/readingroom/document/cia-rdp78-04913a000100030118-2)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-concept-mkultra-t-00-26-44">2025-09-24 · 00:26:49</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-mkultra-t-00-32-12">2026-02-27 · 00:32:12</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>37</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-mkultra-t-00-15-46">Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2</a> (7 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-concept-mkultra-t-00-26-44" style="--pulse-height:29%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 2 mentions" title="2025-09-24 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-concept-mkultra-t-00-01-21" style="--pulse-height:86%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 6 mentions" title="2025-11-15 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-concept-mkultra-t-00-47-35" style="--pulse-height:43%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 3 mentions" title="2025-11-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-concept-mkultra-t-00-22-25" style="--pulse-height:29%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 2 mentions" title="2025-11-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-concept-mkultra-t-00-37-15" style="--pulse-height:43%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 3 mentions" title="2025-12-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-concept-mkultra-t-00-02-59" style="--pulse-height:29%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-concept-mkultra-t-00-35-51" style="--pulse-height:29%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-concept-mkultra-t-00-30-06" style="--pulse-height:14%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-mkultra-t-00-16-33" style="--pulse-height:14%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-concept-mkultra-t-00-36-32" style="--pulse-height:29%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 2 mentions" title="2026-01-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-mkultra-t-00-32-21" style="--pulse-height:14%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-concept-mkultra-t-00-13-33" style="--pulse-height:71%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 5 mentions" title="2026-02-25 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-mkultra-t-00-15-46" style="--pulse-height:100%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 7 mentions" title="2026-02-27 · 7 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-concept-mkultra-t-00-26-44) | 2 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mkultra-t-00-01-21) | 6 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-concept-mkultra-t-00-47-35) | 3 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-concept-mkultra-t-00-22-25) | 2 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-concept-mkultra-t-00-37-15) | 3 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-concept-mkultra-t-00-02-59) | 2 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-concept-mkultra-t-00-35-51) | 2 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-mkultra-t-00-30-06) | 1 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-mkultra-t-00-16-33) | 1 |
+| 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-concept-mkultra-t-00-36-32) | 2 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-concept-mkultra-t-00-32-21) | 1 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-mkultra-t-00-13-33) | 5 |
+| 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-concept-mkultra-t-00-15-46) | 7 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (7 mentions)</summary>
+
+**[00:16:13](/episodes/ep-1IY2oD-_xVA.md#ent-concept-mkultra-t-00-15-46)**
+> "And instantly in my mind, and I get it, I'm a conspiracy theorist, but I'm pretty obsessed with MKUltra."
+
+**[00:16:20](/episodes/ep-1IY2oD-_xVA.md#ent-concept-mkultra-t-00-16-20)**
+> "...mmediately suspicious because MKUltra was in full swing. And if you did not know, India..."
+
+**[00:17:22](/episodes/ep-1IY2oD-_xVA.md#ent-concept-mkultra-t-00-17-00)**
+> "...s never involved in any weird MKUltra type experimentation or anything."
+
+**[00:18:10](/episodes/ep-1IY2oD-_xVA.md#ent-concept-mkultra-t-00-17-39)**
+> "...ats? Was this even related to MKUltra?"
+
+**[00:18:19](/episodes/ep-1IY2oD-_xVA.md#ent-concept-mkultra-t-00-18-19)**
+> "...n of all the files related to MKUltra."
+
+**[00:18:39](/episodes/ep-1IY2oD-_xVA.md#ent-concept-mkultra-t-00-18-19)**
+> "...ly, I've always believed that MKUltra was tasked with creating Manchurian candidates. I..."
+
+**[00:32:12](/episodes/ep-1IY2oD-_xVA.md#ent-concept-mkultra-t-00-32-12)**
+> ".... I'm not going to, yes, I am MKUltra, MKUltra."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (5 mentions)</summary>
+
+**[00:13:33](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-mkultra-t-00-13-33)**
+> "... in Germany ultimately became MKUltra in America."
+
+**[00:14:08](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-mkultra-t-00-13-33)**
+> "Yeah, MKUltra was a military grade program."
+
+**[00:14:20](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-mkultra-t-00-14-13)**
+> "If you think that MKUltra ever stopped, I hope that the Epstein files and t..."
+
+**[00:14:33](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-mkultra-t-00-14-13)**
+> "We discussed MKUltra during the Kamala Chronicles."
+
+**[00:14:40](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-mkultra-t-00-14-13)**
+> "...uing me for merely mentioning MKUltra on Tim Dillon's show."
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1 mentions)</summary>
@@ -111,10 +207,7 @@ Source: [Project MKULTRA, Subproject A - CIA Reading Room](https://www.cia.gov/r
 </details>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (4 mentions)</summary>
-
-**[00:47:52](/episodes/ep-SKGUzGHymcI.md#ent-concept-mkultra-t-00-47-35)**
-> "Yeah, this is this is like MK Ultra"
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (3 mentions)</summary>
 
 **[00:47:52](/episodes/ep-SKGUzGHymcI.md#ent-concept-mkultra-t-00-47-35)**
 > "Yeah, this is this is like MK Ultra."
@@ -151,10 +244,7 @@ Source: [Project MKULTRA, Subproject A - CIA Reading Room](https://www.cia.gov/r
 </details>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (3 mentions)</summary>
-
-**[00:26:49](/episodes/ep-QZWSsq8ZWzw.md#ent-concept-mkultra-t-00-26-44)**
-> "when MKUltra—when that program was running"
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (2 mentions)</summary>
 
 **[00:26:49](/episodes/ep-QZWSsq8ZWzw.md#ent-concept-mkultra-t-00-26-44)**
 > "... was looking through the period and learning the reality of what happened throughout the 1960s when MKUltra—when that program was running. And I have no reason to believe that that program was ever discontin..."
@@ -174,7 +264,28 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about MKUltra (8)</strong></summary>
+<summary><strong class="section-title">Statements about MKUltra (12)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (2)</summary>
+
+- [00:16:47](/episodes/ep-1IY2oD-_xVA.md#t-00-16-20) (Claim) **Candace Owens**: ["Indiana universities participated in human experimentation, and the go..."](/statements/statement-9c58537b4f4e.md)
+  - Also about: [Indiana](/entities/gpe-indiana.md), [Lysergic acid diethylamide](/entities/concept-lysergic-acid-diethylamide.md)
+
+- [00:18:19](/episodes/ep-1IY2oD-_xVA.md#t-00-18-19) (Claim) **Candace Owens**: ["The military ordered the destruction of all MKUltra-related files in 1..."](/statements/statement-9c716138b443.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (2)</summary>
+
+- [00:14:20](/episodes/ep-ZAsV0fHGBiM.md#t-00-14-13) (Accusation) **Candace Owens**: ["If you think that MKUltra ever stopped, I hope that the Epstein files ..."](/statements/statement-2f046a337a54.md)
+  - Also about: [Epstein Files](/entities/work-epstein-files.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+
+- [00:14:33](/episodes/ep-ZAsV0fHGBiM.md#t-00-14-13) (Claim) **Candace Owens**: ["Emmanuel Macron is suing Candace Owens merely for mentioning MKUltra o..."](/statements/statement-55115b5eabcd.md)
+  - Also about: [Emmanuel Macron](/entities/person-emmanuel-macron.md), [Candace Owens](/entities/person-candace-owens.md), [Tim Dillon](/entities/person-tim-dillon.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (1)</summary>

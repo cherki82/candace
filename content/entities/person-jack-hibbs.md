@@ -1,6 +1,6 @@
 ---
 title: "Jack Hibbs"
-description: "Jack Hibbs (People) - 20 mentions"
+description: "Jack Hibbs (People) - 18 mentions"
 id: "person-jack-hibbs"
 type: "PERSON"
 aliases:
@@ -14,10 +14,46 @@ _Type: People_
 **Entity verification:** verified
 > Pastor discussed in the episode.
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-jack-hibbs-t-00-59-37">2025-10-31 · 00:59:59</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-jack-hibbs-t-00-19-58">2026-01-09 · 00:20:40</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-jack-hibbs-t-00-59-37">INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256</a> (5 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-jack-hibbs-t-00-59-37" style="--pulse-height:100%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 5 mentions" title="2025-10-31 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-jack-hibbs-t-00-32-19" style="--pulse-height:100%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 5 mentions" title="2025-11-12 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-jack-hibbs-t-00-27-59" style="--pulse-height:60%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 3 mentions" title="2025-11-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-jack-hibbs-t-00-44-42" style="--pulse-height:20%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-person-jack-hibbs-t-00-16-27" style="--pulse-height:60%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 3 mentions" title="2025-11-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-jack-hibbs-t-00-19-58" style="--pulse-height:20%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-person-jack-hibbs-t-00-59-37) | 5 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-jack-hibbs-t-00-32-19) | 5 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-jack-hibbs-t-00-27-59) | 3 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-jack-hibbs-t-00-44-42) | 1 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-jack-hibbs-t-00-16-27) | 3 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-jack-hibbs-t-00-19-58) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
 
 <details>
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1 mentions)</summary>
@@ -28,13 +64,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
 
 **[00:16:47](/episodes/ep-mKXdKV-OBog.md#ent-person-jack-hibbs-t-00-16-27)**
 > "...ctually teaches shooting. So this is not a military campus, guys. Burton Hibbs—Butch—the brother of Pastor Jack Hibbs. Jack Hibbs phones up Charlie (Charlie Kirk); he's like, "Hey, can my brother come? Can my brother ..."
-
-**[00:16:50](/episodes/ep-mKXdKV-OBog.md#ent-person-jack-hibbs-t-00-16-27)**
-> "Pastor Jack Hibbs phoned Charlie to let his brother come"
 
 **[00:16:50](/episodes/ep-mKXdKV-OBog.md#ent-person-jack-hibbs-t-00-16-27)**
 > "...oting. So this is not a military campus, guys. Burton Hibbs—Butch—the brother of Pastor Jack Hibbs. Jack Hibbs phones up Charlie (Charlie Kirk); he's like, "Hey, can my brother come? Can my brother come and lis..."
@@ -67,10 +100,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (6 mentions)</summary>
-
-**[00:32:30](/episodes/ep-MUA9ebCF4Ow.md#ent-person-jack-hibbs-t-00-32-19)**
-> "And it is interesting because it turned out that that old man is the brother of Pastor Jack Hibbs"
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (5 mentions)</summary>
 
 **[00:32:30](/episodes/ep-MUA9ebCF4Ow.md#ent-person-jack-hibbs-t-00-32-19)**
 > "...o that we received. And it is interesting because it turned out that that old man is the brother of Pastor Jack Hibbs. I'm speaking about these pastors, man. These pastors. Pastor Hibbs—great friend of Charlie (Charli..."
@@ -118,10 +148,18 @@ _Type: People_
 <summary>Criticized (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:56](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24): "Pastor Hibbs—Jack Hibbs—has gone mask off. He's hosting 5 a.m. calls against me and Tucker Carlson"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:56](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24): “Pastor Hibbs—Jack Hibbs—has gone mask off. He's hosting 5 a.m. calls against me and Tucker Carlson”
+
+</details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:56](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24): "He's hosting 5 a.m. calls against me and Tucker Carlson"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:56](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24): “He's hosting 5 a.m. calls against me and Tucker Carlson”
+
+</details>
 
 </details>
 
@@ -129,7 +167,11 @@ _Type: People_
 <summary>Friend Of (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:54:40](/episodes/ep-MUA9ebCF4Ow.md#t-00-54-17): "Pastor Hibbs—great friend of Charlie"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:54:40](/episodes/ep-MUA9ebCF4Ow.md#t-00-54-17): “Pastor Hibbs—great friend of Charlie”
+
+</details>
 
 </details>
 
@@ -137,7 +179,11 @@ _Type: People_
 <summary>Pastor Of (1)</summary>
 
 - **[Calvary Chapel](/entities/org-calvary-chapel.md)**
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:55](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24): "Jack Hibbs among them, Calvary Chapel pastors"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:55](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24): “Jack Hibbs among them, Calvary Chapel pastors”
+
+</details>
 
 </details>
 
@@ -145,16 +191,32 @@ _Type: People_
 <summary>Referenced By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:56](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:56](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24): “Pastor Hibbs—Jack Hibbs—has gone mask off. He's hosting 5 a.m. calls against me and Tucker Carlson”
+
+</details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** criticized by this
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:56](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:56](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24): “He's hosting 5 a.m. calls against me and Tucker Carlson”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
-  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:54:40](/episodes/ep-MUA9ebCF4Ow.md#t-00-54-17)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:54:40](/episodes/ep-MUA9ebCF4Ow.md#t-00-54-17): “Pastor Hibbs—great friend of Charlie”
+
+</details>
 
 - **[Calvary Chapel](/entities/org-calvary-chapel.md)** has pastor this
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:55](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:55](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24): “Jack Hibbs among them, Calvary Chapel pastors”
+
+</details>
 
 </details>
 

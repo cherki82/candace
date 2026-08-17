@@ -1,6 +1,6 @@
 ---
 title: "Big Pharma"
-description: "Big Pharma (Concepts) - 4 mentions"
+description: "Big Pharma (Concepts) - 3 mentions"
 id: "concept-big-pharma"
 type: "CONCEPT"
 aliases:
@@ -11,16 +11,41 @@ _Type: Concepts_
 
 **Also known as:** pharmaceutical complex
 
+> **Possibly overlapping entity records:** [Pharmaceutical industry](/entities/concept-pharmaceutical-industry). These records share a name or alias; compare their histories before treating either count as complete.
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-concept-big-pharma-t-00-50-05">2025-12-05 · 00:50:31</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-concept-big-pharma-t-00-50-48">2025-12-05 · 00:51:03</a></strong></div>
+<div><span>Episodes</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-concept-big-pharma-t-00-50-05">Shocking Revelation About The Egyptian Planes... | Candace Ep 274</a> (3 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-concept-big-pharma-t-00-50-05" style="--pulse-height:100%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 3 mentions" title="2025-12-05 · 3 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-concept-big-pharma-t-00-50-05) | 3 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (4 mentions)</summary>
-
-**[00:50:31](/episodes/ep-ZAuuSq_j2_w.md#ent-concept-big-pharma-t-00-50-05)**
-> "The pharmaceutical complex—learn about that."
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (3 mentions)</summary>
 
 **[00:50:31](/episodes/ep-ZAuuSq_j2_w.md#ent-concept-big-pharma-t-00-50-05)**
 > "...own capacity to collapse the system—great. Stop taking their pills, right? That's another part. The pharmaceutical complex—learn about that. Stop offering your children's bodies to the state. You can do that in your own ca..."

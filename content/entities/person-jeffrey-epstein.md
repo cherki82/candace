@@ -1,6 +1,6 @@
 ---
 title: "Jeffrey Epstein"
-description: "Jeffrey Epstein (People) - 167 mentions"
+description: "Jeffrey Epstein (People) - 174 mentions"
 id: "person-jeffrey-epstein"
 type: "PERSON"
 aliases:
@@ -20,10 +20,168 @@ _Type: People_
 > Official federal case page confirms the canonical name.
 Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.justice.gov/usao-sdny/pr/jeffrey-epstein-charged-manhattan-federal-court-sex-trafficking-minors)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jeffrey-epstein-t-00-28-54">2025-09-15 · 00:29:05</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-person-jeffrey-epstein-t-00-50-14">2026-03-03 · 00:50:21</a></strong></div>
+<div><span>Episodes</span><strong>47</strong></div>
+<div><span>Mentions</span><strong>174</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>47</strong></div>
+<div><span>Relationships</span><strong>15</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-jeffrey-epstein-t-00-09-51">Okay…These Text Messages Are Crazy! | Candace Ep 307</a> (26 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jeffrey-epstein-t-00-28-54" style="--pulse-height:42%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 11 mentions" title="2025-09-15 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-person-jeffrey-epstein-t-00-04-51" style="--pulse-height:19%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 5 mentions" title="2025-09-16 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-jeffrey-epstein-t-00-02-22" style="--pulse-height:8%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 2 mentions" title="2025-09-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-person-jeffrey-epstein-t-00-17-52" style="--pulse-height:8%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-person-jeffrey-epstein-t-00-09-59" style="--pulse-height:8%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-jeffrey-epstein-t-00-00-55" style="--pulse-height:8%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 1 mentions" title="2025-09-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-jeffrey-epstein-t-00-35-47" style="--pulse-height:12%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 3 mentions" title="2025-10-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-jeffrey-epstein-t-00-37-55" style="--pulse-height:8%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 1 mentions" title="2025-10-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-jeffrey-epstein-t-00-17-39" style="--pulse-height:23%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 6 mentions" title="2025-10-29 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-jeffrey-epstein-t-00-31-52" style="--pulse-height:8%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-jeffrey-epstein-t-00-22-17" style="--pulse-height:12%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 3 mentions" title="2025-11-04 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-jeffrey-epstein-t-00-16-27" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 2 mentions" title="2025-11-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-jeffrey-epstein-t-00-10-53" style="--pulse-height:12%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 3 mentions" title="2025-11-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-jeffrey-epstein-t-00-08-59" style="--pulse-height:15%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 4 mentions" title="2025-11-12 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-jeffrey-epstein-t-00-29-27" style="--pulse-height:35%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 9 mentions" title="2025-11-13 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-jeffrey-epstein-t-00-02-48" style="--pulse-height:15%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 4 mentions" title="2025-11-15 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-person-jeffrey-epstein-t-00-45-45" style="--pulse-height:8%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-jeffrey-epstein-t-00-37-20" style="--pulse-height:8%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 2 mentions" title="2025-11-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-person-jeffrey-epstein-t-00-13-11" style="--pulse-height:23%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 6 mentions" title="2025-11-20 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-jeffrey-epstein-t-00-49-28" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-jeffrey-epstein-t-00-11-12" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-person-jeffrey-epstein-t-00-44-57" style="--pulse-height:8%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-jeffrey-epstein-t-00-34-25" style="--pulse-height:8%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-jeffrey-epstein-t-00-25-55" style="--pulse-height:35%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 9 mentions" title="2025-12-08 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-jeffrey-epstein-t-00-06-08" style="--pulse-height:8%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 2 mentions" title="2025-12-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-jeffrey-epstein-t-00-24-24" style="--pulse-height:8%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-jeffrey-epstein-t-00-21-09" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-jeffrey-epstein-t-00-34-01" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-jeffrey-epstein-t-00-37-22" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-jeffrey-epstein-t-00-25-58" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-jeffrey-epstein-t-00-53-58" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-person-jeffrey-epstein-t-00-29-22" style="--pulse-height:15%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-jeffrey-epstein-t-00-22-57" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-jeffrey-epstein-t-00-24-17" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-jeffrey-epstein-t-00-02-05" style="--pulse-height:12%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-jeffrey-epstein-t-01-28-44" style="--pulse-height:12%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-person-jeffrey-epstein-t-00-47-40" style="--pulse-height:8%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-jeffrey-epstein-t-00-09-42" style="--pulse-height:50%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 13 mentions" title="2026-02-02 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-jeffrey-epstein-t-00-50-37" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-jeffrey-epstein-t-00-01-00" style="--pulse-height:35%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 9 mentions" title="2026-02-04 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-jeffrey-epstein-t-00-26-55" style="--pulse-height:8%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-jeffrey-epstein-t-00-48-46" style="--pulse-height:19%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 5 mentions" title="2026-02-11 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-jeffrey-epstein-t-00-09-51" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 26 mentions" title="2026-02-13 · 26 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-jeffrey-epstein-t-00-08-32" style="--pulse-height:8%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#t-00-06-31" style="--pulse-height:8%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-person-jeffrey-epstein-t-00-21-58" style="--pulse-height:19%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 5 mentions" title="2026-03-03 · 5 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-person-jeffrey-epstein-t-00-28-54) | 11 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-person-jeffrey-epstein-t-00-04-51) | 5 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-person-jeffrey-epstein-t-00-02-22) | 2 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-person-jeffrey-epstein-t-00-17-52) | 1 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-person-jeffrey-epstein-t-00-09-59) | 1 |
+| 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-jeffrey-epstein-t-00-00-55) | 1 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-jeffrey-epstein-t-00-35-47) | 3 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-jeffrey-epstein-t-00-37-55) | 1 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-person-jeffrey-epstein-t-00-17-39) | 6 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-person-jeffrey-epstein-t-00-31-52) | 2 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-person-jeffrey-epstein-t-00-22-17) | 3 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-jeffrey-epstein-t-00-16-27) | 2 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-person-jeffrey-epstein-t-00-10-53) | 3 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-jeffrey-epstein-t-00-08-59) | 4 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-jeffrey-epstein-t-00-29-27) | 9 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-jeffrey-epstein-t-00-02-48) | 4 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-jeffrey-epstein-t-00-45-45) | 1 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-jeffrey-epstein-t-00-37-20) | 2 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-jeffrey-epstein-t-00-13-11) | 6 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-jeffrey-epstein-t-00-49-28) | 1 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-person-jeffrey-epstein-t-00-11-12) | 2 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-jeffrey-epstein-t-00-44-57) | 1 |
+| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-person-jeffrey-epstein-t-00-34-25) | 1 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-jeffrey-epstein-t-00-25-55) | 9 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-person-jeffrey-epstein-t-00-06-08) | 2 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-person-jeffrey-epstein-t-00-24-24) | 1 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-jeffrey-epstein-t-00-21-09) | 1 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-jeffrey-epstein-t-00-34-01) | 2 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-jeffrey-epstein-t-00-37-22) | 2 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-jeffrey-epstein-t-00-25-58) | 2 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-jeffrey-epstein-t-00-53-58) | 1 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-jeffrey-epstein-t-00-29-22) | 4 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-jeffrey-epstein-t-00-22-57) | 2 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-jeffrey-epstein-t-00-24-17) | 1 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-jeffrey-epstein-t-00-02-05) | 3 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-jeffrey-epstein-t-01-28-44) | 3 |
+| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-jeffrey-epstein-t-00-47-40) | 1 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-jeffrey-epstein-t-00-09-42) | 13 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-jeffrey-epstein-t-00-50-37) | 1 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-jeffrey-epstein-t-00-01-00) | 9 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-jeffrey-epstein-t-00-26-55) | 2 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-jeffrey-epstein-t-00-48-46) | 5 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-jeffrey-epstein-t-00-09-51) | 26 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-jeffrey-epstein-t-00-08-32) | 2 |
+| 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#t-00-06-31) | 2 |
+| 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-person-jeffrey-epstein-t-00-21-58) | 5 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (174)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (5 mentions)</summary>
+
+**[00:22:24](/episodes/ep-2tFYJf1klgY.md#ent-person-jeffrey-epstein-t-00-21-58)**
+> "That's when you start to see Jeffrey Epstein. beginning to procure women from Romania per his ..."
+
+**[00:22:51](/episodes/ep-2tFYJf1klgY.md#ent-person-jeffrey-epstein-t-00-22-34)**
+> "...women named in newly released Epstein case files."
+
+**[00:23:07](/episodes/ep-2tFYJf1klgY.md#ent-person-jeffrey-epstein-t-00-22-34)**
+> "... of right now, just know that Jeffrey Epstein, we have emails going back to 2009, right when th..."
+
+**[00:31:54](/episodes/ep-2tFYJf1klgY.md#ent-person-jeffrey-epstein-t-00-31-28)**
+> "...odels in Romania. Do you know Jeffrey Epstein? Tyler (Tyler Bowyer), did you guys come across e..."
+
+**[00:50:21](/episodes/ep-2tFYJf1klgY.md#ent-person-jeffrey-epstein-t-00-50-14)**
+> "...writes, day of prayer for the Epstein victims is set for July 4th. Father in heaven, bl..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (2 mentions)</summary>
+
+**[00:06:51](/episodes/ep-1IY2oD-_xVA.md#t-00-06-31)**
+> "Look, Elon Musk seems like a nice guy, but do I believe he's running 17 trillion air dollar companies at the same time while also having 49 baby mamas? No, I don't. I don't accept that. Bill Gates, that one bothers me the most. Oh my God, shocker. He's in the Epstein files."
+
+**[00:07:06](/episodes/ep-1IY2oD-_xVA.md#t-00-06-31)**
+> "...s face. Of course he's in the Epstein files."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (2 mentions)</summary>
+
+**[00:08:52](/episodes/ep-ZAsV0fHGBiM.md#ent-person-jeffrey-epstein-t-00-08-32)**
+> "...she's sticking around despite Epstein and Lewinsky."
+
+**[00:14:20](/episodes/ep-ZAsV0fHGBiM.md#ent-person-jeffrey-epstein-t-00-08-32)**
+> "...ever stopped, I hope that the Epstein files and the stunning defense of the Epstein fil..."
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (26 mentions)</summary>
@@ -345,13 +503,10 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 <details>
-<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
+<summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (1 mentions)</summary>
 
 **[00:24:55](/episodes/ep-ewBzjVe3LNQ.md#ent-person-jeffrey-epstein-t-00-24-24)**
 > "you're supposed to pretend that you're this super financial guru like Jeffrey Epstein"
-
-**[00:24:55](/episodes/ep-ewBzjVe3LNQ.md#ent-person-jeffrey-epstein-t-00-24-24)**
-> "...his super financial guru like Jeffrey Epstein and we're gonna put you"
 
 </details>
 
@@ -367,13 +522,10 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (10 mentions)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (9 mentions)</summary>
 
 **[00:25:55](/episodes/ep-Kmt6HgRjckU.md#ent-person-jeffrey-epstein-t-00-25-55)**
 > "Epstein files discussion as central pillar of Trump voter expectations"
-
-**[00:25:55](/episodes/ep-Kmt6HgRjckU.md#ent-person-jeffrey-epstein-t-00-25-55)**
-> "Jeffrey Epstein, as Bannon (Steve Bannon) has said, and who would..."
 
 **[00:26:01](/episodes/ep-Kmt6HgRjckU.md#ent-person-jeffrey-epstein-t-00-26-01)**
 > "...eve Bannon) who consulted for Epstein?"
@@ -695,7 +847,7 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 <details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (12 mentions)</summary>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (11 mentions)</summary>
 
 **[00:29:05](/episodes/ep-czVBmqZP6Ss.md#ent-person-jeffrey-epstein-t-00-28-54)**
 > "...ritten. That pressure was increasing every single day. In fact, he was telling the truth even about Jeffrey Epstein. Take a listen. (Clip: Charlie Kirk) Epstein with his little friend Ghislaine, and Ghislaine's fath..."
@@ -716,9 +868,6 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 > "...was not some sort of whiz-kid hedge fund manager. Epstein was playing a part. Epstein was a LARPer. Epstein was cast for a specific role, and he played it really well. The sweatpants and the Harvard jacket, ..."
 
 **[00:29:49](/episodes/ep-czVBmqZP6Ss.md#ent-person-jeffrey-epstein-t-00-29-49)**
-> "In fact, he was telling the truth even about Jeffrey Epstein"
-
-**[00:29:49](/episodes/ep-czVBmqZP6Ss.md#ent-person-jeffrey-epstein-t-00-29-49)**
 > "...ions on the back of napkins. But if you actually go into some of the videos of people that met with Epstein at the time, they said he was awfully unimpressive when it came to finance and markets and economic..."
 
 **[00:30:12](/episodes/ep-czVBmqZP6Ss.md#ent-person-jeffrey-epstein-t-00-29-49)**
@@ -735,6 +884,14 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 
 </details>
 
+<details>
+<summary>ep-y8lak3CRwDw (1 mentions)</summary>
+
+**[00:33:53](/episodes/ep-y8lak3CRwDw.md#t-00-33-53)**
+> "...ens to be the university that jeffrey epstein was pouring all of his money into by the way and ..."
+
+</details>
+
 </details>
 
 <details open>
@@ -744,7 +901,11 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <summary>Advised By (1)</summary>
 
 - **[Steve Bannon](/entities/person-steve-bannon.md)**
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:26:03](/episodes/ep-Kmt6HgRjckU.md#t-00-26-01): "Oh, you're going to quote Bannon who consulted for Epstein?"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:26:03](/episodes/ep-Kmt6HgRjckU.md#t-00-26-01): “Oh, you're going to quote Bannon who consulted for Epstein?”
+
+</details>
 
 </details>
 
@@ -752,10 +913,18 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <summary>Formerly Worked For (2)</summary>
 
 - **[Mossad](/entities/org-mossad.md)**
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:28:44](/episodes/ep-xjzb_t5Tk9o.md#t-01-28-44): "But Viktor Ostrovsky also was on camera speaking about how Jeffrey Epstein worked for them. ... except the Mossad agent who literally came out and said that he was working for the Mossad and the other Mossad agent as well who came out and said he was working for the Mossad but there's no evidence I love when they just say there's no evidence that's one of my favorite lies there's no evidence just because you keep saying there's no evidence does not make it so but they believe if they just keep saying the same thing over and over again it will eventually become the truth"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:28:44](/episodes/ep-xjzb_t5Tk9o.md#t-01-28-44): “But Viktor Ostrovsky also was on camera speaking about how Jeffrey Epstein worked for them. ... except the Mossad agent who literally came out and said that he was working for the Mossad and the other Mossad agent as well who came out and said he was working for the Mossad but there's no evidence I love when they just say there's no evidence that's one of my favorite lies there's no evidence just because you keep saying there's no evidence does not make it so but they believe if they just keep saying the same thing over and over again it will eventually become the truth”
+
+</details>
 
 - **[Rothschild family](/entities/org-rothschild-family.md)**
-  - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:07:34](/episodes/ep-DYD_QHMPwqM.md#t-00-07-27): "Jeffrey Epstein worked for the Rothschilds."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:07:34](/episodes/ep-DYD_QHMPwqM.md#t-00-07-27): “Jeffrey Epstein worked for the Rothschilds.”
+
+</details>
 
 </details>
 
@@ -763,10 +932,18 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <summary>Friend Of (2)</summary>
 
 - **[Jean-Luc Brunel](/entities/person-jean-luc-brunel.md)**
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:36:50](/episodes/ep-X92MllIHDzw.md#t-00-36-16): "And his friend, Jean-Luc Brunel in Paris,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:36:50](/episodes/ep-X92MllIHDzw.md#t-00-36-16): “And his friend, Jean-Luc Brunel in Paris,”
+
+</details>
 
 - **[Peter Thiel](/entities/person-peter-thiel.md)**
-  - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:28:00](/episodes/ep-CEF7gQRWYCE.md#t-00-27-57): "and thought about it he did because he was emailing Jeffrey Epstein a lot meeting up with him a lot uh definitely sounds like they were very close inviting him to the island basically this guy is going to be here from Europe also you should come this weekend they were together all throughout New York constantly messaging each other it is not a good look there is no question these two were friends and I do not accept that the person who's effectively spying on all of us he's got to deal with the military through"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:28:00](/episodes/ep-CEF7gQRWYCE.md#t-00-27-57): “and thought about it he did because he was emailing Jeffrey Epstein a lot meeting up with him a lot uh definitely sounds like they were very close inviting him to the island basically this guy is going to be here from Europe also you should come this weekend they were together all throughout New York constantly messaging each other it is not a good look there is no question these two were friends and I do not accept that the person who's effectively spying on all of us he's got to deal with the military through”
+
+</details>
 
 </details>
 
@@ -774,21 +951,30 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <summary>Funded By (1)</summary>
 
 - **[Rothschild family](/entities/org-rothschild-family.md)**
-  - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:37:25](/episodes/ep-CEF7gQRWYCE.md#t-00-37-16): "we certainly know Jeffrey Epstein was, according to him, he was funded by the Rothschilds family."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:37:25](/episodes/ep-CEF7gQRWYCE.md#t-00-37-16): “we certainly know Jeffrey Epstein was, according to him, he was funded by the Rothschilds family.”
+
+</details>
 
 </details>
 
 <details>
-<summary>Worked With (3)</summary>
+<summary>Worked With (2)</summary>
 
 - **[Harvey Weinstein](/entities/person-harvey-weinstein.md)**
-  - [Myron Gaines x Candace Owens @ 00:20:53](/episodes/ep-2T39-oADLj0.md#t-00-20-19): "He was working with Weinstein. He had some notorious fight with Harvey Weinstein right before Harvey went down."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:20:53](/episodes/ep-2T39-oADLj0.md#t-00-20-19): “He was working with Weinstein. He had some notorious fight with Harvey Weinstein right before Harvey went down.”
+
+</details>
 
 - **[Jean-Luc Brunel](/entities/person-jean-luc-brunel.md)**
-  - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:31:05](/episodes/ep-CEF7gQRWYCE.md#t-00-30-39): "what I know about Jeffrey Epstein and the way that he was moving with Jean-Luc Brunel"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- **[Kenneth Starr](/entities/person-kenneth-starr.md)**
-  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:09](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09): "for almost a decade she worked for Ken Star at the exact same time that he was working with Jeffrey Epstein"
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:31:05](/episodes/ep-CEF7gQRWYCE.md#t-00-30-39): “what I know about Jeffrey Epstein and the way that he was moving with Jean-Luc Brunel”
+
+</details>
 
 </details>
 
@@ -796,32 +982,68 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <summary>Referenced By (7)</summary>
 
 - **[Steve Bannon](/entities/person-steve-bannon.md)** advisor to this
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:26:03](/episodes/ep-Kmt6HgRjckU.md#t-00-26-01)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:26:03](/episodes/ep-Kmt6HgRjckU.md#t-00-26-01): “Oh, you're going to quote Bannon who consulted for Epstein?”
+
+</details>
 
 - **[Mossad](/entities/org-mossad.md)** formerly employed this
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:28:44](/episodes/ep-xjzb_t5Tk9o.md#t-01-28-44)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:28:44](/episodes/ep-xjzb_t5Tk9o.md#t-01-28-44): “But Viktor Ostrovsky also was on camera speaking about how Jeffrey Epstein worked for them. ... except the Mossad agent who literally came out and said that he was working for the Mossad and the other Mossad agent as well who came out and said he was working for the Mossad but there's no evidence I love when they just say there's no evidence that's one of my favorite lies there's no evidence just because you keep saying there's no evidence does not make it so but they believe if they just keep saying the same thing over and over again it will eventually become the truth”
+
+</details>
 
 - **[Rothschild family](/entities/org-rothschild-family.md)** formerly employed this
-  - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:07:34](/episodes/ep-DYD_QHMPwqM.md#t-00-07-27)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:07:34](/episodes/ep-DYD_QHMPwqM.md#t-00-07-27): “Jeffrey Epstein worked for the Rothschilds.”
+
+</details>
 
 - **[Jean-Luc Brunel](/entities/person-jean-luc-brunel.md)** friend of this
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:36:50](/episodes/ep-X92MllIHDzw.md#t-00-36-16)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:36:50](/episodes/ep-X92MllIHDzw.md#t-00-36-16): “And his friend, Jean-Luc Brunel in Paris,”
+
+</details>
 
 - **[Peter Thiel](/entities/person-peter-thiel.md)** friend of this
-  - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:28:00](/episodes/ep-CEF7gQRWYCE.md#t-00-27-57)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:28:00](/episodes/ep-CEF7gQRWYCE.md#t-00-27-57): “and thought about it he did because he was emailing Jeffrey Epstein a lot meeting up with him a lot uh definitely sounds like they were very close inviting him to the island basically this guy is going to be here from Europe also you should come this weekend they were together all throughout New York constantly messaging each other it is not a good look there is no question these two were friends and I do not accept that the person who's effectively spying on all of us he's got to deal with the military through”
+
+</details>
 
 - **[Rothschild family](/entities/org-rothschild-family.md)** funded this
-  - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:37:25](/episodes/ep-CEF7gQRWYCE.md#t-00-37-16)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:37:25](/episodes/ep-CEF7gQRWYCE.md#t-00-37-16): “we certainly know Jeffrey Epstein was, according to him, he was funded by the Rothschilds family.”
+
+</details>
 
 - **[Kenneth Starr](/entities/person-kenneth-starr.md)** worked with this
-  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:09](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:09](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09): “for almost a decade she worked for Ken Star at the exact same time that he was working with Jeffrey Epstein”
+
+</details>
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jeffrey Epstein (46)</strong></summary>
+<summary><strong class="section-title">Statements about Jeffrey Epstein (47)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (1)</summary>
+
+- [00:22:24](/episodes/ep-2tFYJf1klgY.md#t-00-21-58) (Citation) **Candace Owens**: ["Jeffrey Epstein's emails from 2009 show him procuring women from Roman..."](/statements/statement-12980285908c.md)
+  - Also about: [Romania](/entities/gpe-romania.md)
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (5)</summary>

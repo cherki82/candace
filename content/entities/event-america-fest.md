@@ -1,6 +1,6 @@
 ---
 title: "America Fest"
-description: "America Fest (Events) - 13 mentions"
+description: "America Fest (Events) - 12 mentions"
 id: "event-america-fest"
 type: "EVENT"
 aliases:
@@ -13,10 +13,48 @@ _Type: Events_
 
 **Also known as:** AmericaFest, Amfest, AmFest
 
+> **Possibly overlapping entity records:** [AmericaFest 2025](/entities/event-americafest-2025). These records share a name or alias; compare their histories before treating either count as complete.
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-event-america-fest-t-00-12-57">2025-09-15 · 00:13:18</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-event-america-fest-t-00-02-30">2025-12-20 · 00:02:30</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-ja26iltROkM.md#ent-event-america-fest-t-00-33-19">Erika Kirk Forgives. The Feds Forget... | Candace Ep 240</a> (4 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-event-america-fest-t-00-12-57" style="--pulse-height:50%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 2 mentions" title="2025-09-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-event-america-fest-t-00-40-20" style="--pulse-height:25%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-event-america-fest-t-00-33-19" style="--pulse-height:100%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 4 mentions" title="2025-09-22 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-event-america-fest-t-00-43-33" style="--pulse-height:25%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 1 mentions" title="2025-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-event-america-fest-t-00-04-36" style="--pulse-height:25%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-event-america-fest-t-00-00-42" style="--pulse-height:75%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 3 mentions" title="2025-12-20 · 3 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-event-america-fest-t-00-12-57) | 2 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-event-america-fest-t-00-40-20) | 1 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-event-america-fest-t-00-33-19) | 4 |
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-event-america-fest-t-00-43-33) | 1 |
+| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-event-america-fest-t-00-04-36) | 1 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-event-america-fest-t-00-00-42) | 3 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3 mentions)</summary>
@@ -41,10 +79,7 @@ _Type: Events_
 </details>
 
 <details>
-<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (2 mentions)</summary>
-
-**[00:43:37](/episodes/ep-UBkFkg4UNY8.md#ent-event-america-fest-t-00-43-33)**
-> "AmFest"
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (1 mentions)</summary>
 
 **[00:43:37](/episodes/ep-UBkFkg4UNY8.md#ent-event-america-fest-t-00-43-33)**
 > "...g to give two speeches now at AmFest."
@@ -96,7 +131,11 @@ _Type: Events_
 <summary>Hosted Speaker (1)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
-  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:01:10](/episodes/ep-w1oqQbR_bYs.md#t-00-00-42): "Ben Shapiro just keeps calling my name out on stage... at Turning Point USA's AmFest"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:01:10](/episodes/ep-w1oqQbR_bYs.md#t-00-00-42): “Ben Shapiro just keeps calling my name out on stage... at Turning Point USA's AmFest”
+
+</details>
 
 </details>
 
@@ -104,7 +143,11 @@ _Type: Events_
 <summary>Referenced By (1)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** spoke at this
-  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:01:10](/episodes/ep-w1oqQbR_bYs.md#t-00-00-42)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:01:10](/episodes/ep-w1oqQbR_bYs.md#t-00-00-42): “Ben Shapiro just keeps calling my name out on stage... at Turning Point USA's AmFest”
+
+</details>
 
 </details>
 

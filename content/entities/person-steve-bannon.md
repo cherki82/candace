@@ -1,6 +1,6 @@
 ---
 title: "Steve Bannon"
-description: "Steve Bannon (People) - 12 mentions"
+description: "Steve Bannon (People) - 11 mentions"
 id: "person-steve-bannon"
 type: "PERSON"
 aliases:
@@ -21,10 +21,42 @@ _Type: People_
 > Breitbart’s masthead announcement identifies Stephen K. Bannon as executive chairman; the source transcript uses Steve Bannon.
 Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbart News](https://www.breitbart.com/the-media/2013/10/18/breitbart-protege-eic/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-steve-bannon-t-00-25-55">2025-12-08 · 00:25:55</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-steve-bannon-t-00-31-36">2026-02-04 · 00:32:07</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Statements by</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-steve-bannon-t-00-17-20">DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286</a> (7 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-steve-bannon-t-00-25-55" style="--pulse-height:29%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-steve-bannon-t-00-17-20" style="--pulse-height:100%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 7 mentions" title="2026-01-07 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-steve-bannon-t-00-46-00" style="--pulse-height:14%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-steve-bannon-t-00-31-36" style="--pulse-height:14%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-steve-bannon-t-00-25-55) | 2 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-steve-bannon-t-00-17-20) | 7 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-steve-bannon-t-00-46-00) | 1 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-steve-bannon-t-00-31-36) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1 mentions)</summary>
@@ -69,13 +101,10 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (3 mentions)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
 
 **[00:25:55](/episodes/ep-Kmt6HgRjckU.md#ent-person-steve-bannon-t-00-25-55)**
 > "Jeffrey Epstein, as Bannon (Steve Bannon) has said, and who would know better than him, it..."
-
-**[00:26:01](/episodes/ep-Kmt6HgRjckU.md#ent-person-steve-bannon-t-00-26-01)**
-> "Bannon has said Epstein was the key that picks the lock"
 
 **[00:26:01](/episodes/ep-Kmt6HgRjckU.md#ent-person-steve-bannon-t-00-26-01)**
 > "Oh, you're going to quote Bannon (Steve Bannon) who consulted for Epstein?"
@@ -91,7 +120,11 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 <summary>Advisor To (1)</summary>
 
 - **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)**
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:26:03](/episodes/ep-Kmt6HgRjckU.md#t-00-26-01): "Oh, you're going to quote Bannon who consulted for Epstein?"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:26:03](/episodes/ep-Kmt6HgRjckU.md#t-00-26-01): “Oh, you're going to quote Bannon who consulted for Epstein?”
+
+</details>
 
 </details>
 
@@ -99,7 +132,11 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 <summary>Chairman Of (1)</summary>
 
 - **[Breitbart News](/entities/org-breitbart-news.md)**
-  - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:25:33](/episodes/ep-zSKrxIUMNqw.md#t-00-24-51): "Breitbart News under the chairmanship of Steve Bannon has put a stake through the heart of Andrew (Andrew Breitbart)'s legacy."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:25:33](/episodes/ep-zSKrxIUMNqw.md#t-00-24-51): “Breitbart News under the chairmanship of Steve Bannon has put a stake through the heart of Andrew (Andrew Breitbart)'s legacy.”
+
+</details>
 
 </details>
 
@@ -107,7 +144,11 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 <summary>Criticized (1)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
-  - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:18:09](/episodes/ep-zSKrxIUMNqw.md#t-00-18-02): "But Ben Shapiro is like a cancer,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:18:09](/episodes/ep-zSKrxIUMNqw.md#t-00-18-02): “But Ben Shapiro is like a cancer,”
+
+</details>
 
 </details>
 
@@ -115,7 +156,11 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 <summary>Criticized By (1)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
-  - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:25:33](/episodes/ep-zSKrxIUMNqw.md#t-00-24-51): "Breitbart News under the chairmanship of Steve Bannon has put a stake through the heart of Andrew (Andrew Breitbart)'s legacy."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:25:33](/episodes/ep-zSKrxIUMNqw.md#t-00-24-51): “Breitbart News under the chairmanship of Steve Bannon has put a stake through the heart of Andrew (Andrew Breitbart)'s legacy.”
+
+</details>
 
 </details>
 
@@ -123,7 +168,11 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 <summary>Warned (1)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
-  - [Myron Gaines x Candace Owens @ 00:46:15](/episodes/ep-2T39-oADLj0.md#t-00-46-00): "he had a lot of pressure on him not to do it right and he was like kind of going back and forth i know steve bannon had like went to the white house and told him don't do it or at least push it off a little bit and he bombed him and then he ended it there right who knows if you know if he didn't have that pressure from his base to not go to war if he had it would have expanded the conflict because we know israel wanted to right if this was like 2003 who knows if we wouldn't have just gone into like a full-on war but i think big voices in social media that we didn't have back in 03 were able to kind of pressure like hey we voted"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:46:15](/episodes/ep-2T39-oADLj0.md#t-00-46-00): “he had a lot of pressure on him not to do it right and he was like kind of going back and forth i know steve bannon had like went to the white house and told him don't do it or at least push it off a little bit and he bombed him and then he ended it there right who knows if you know if he didn't have that pressure from his base to not go to war if he had it would have expanded the conflict because we know israel wanted to right if this was like 2003 who knows if we wouldn't have just gone into like a full-on war but i think big voices in social media that we didn't have back in 03 were able to kind of pressure like hey we voted”
+
+</details>
 
 </details>
 
@@ -131,19 +180,39 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 <summary>Referenced By (5)</summary>
 
 - **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)** advised by this
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:26:03](/episodes/ep-Kmt6HgRjckU.md#t-00-26-01)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:26:03](/episodes/ep-Kmt6HgRjckU.md#t-00-26-01): “Oh, you're going to quote Bannon who consulted for Epstein?”
+
+</details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized this
-  - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:25:33](/episodes/ep-zSKrxIUMNqw.md#t-00-24-51)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:25:33](/episodes/ep-zSKrxIUMNqw.md#t-00-24-51): “Breitbart News under the chairmanship of Steve Bannon has put a stake through the heart of Andrew (Andrew Breitbart)'s legacy.”
+
+</details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized by this
-  - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:18:09](/episodes/ep-zSKrxIUMNqw.md#t-00-18-02)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:18:09](/episodes/ep-zSKrxIUMNqw.md#t-00-18-02): “But Ben Shapiro is like a cancer,”
+
+</details>
 
 - **[Breitbart News](/entities/org-breitbart-news.md)** has chairman this
-  - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:25:33](/episodes/ep-zSKrxIUMNqw.md#t-00-24-51)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:25:33](/episodes/ep-zSKrxIUMNqw.md#t-00-24-51): “Breitbart News under the chairmanship of Steve Bannon has put a stake through the heart of Andrew (Andrew Breitbart)'s legacy.”
+
+</details>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** warned by this
-  - [Myron Gaines x Candace Owens @ 00:46:15](/episodes/ep-2T39-oADLj0.md#t-00-46-00)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:46:15](/episodes/ep-2T39-oADLj0.md#t-00-46-00): “he had a lot of pressure on him not to do it right and he was like kind of going back and forth i know steve bannon had like went to the white house and told him don't do it or at least push it off a little bit and he bombed him and then he ended it there right who knows if you know if he didn't have that pressure from his base to not go to war if he had it would have expanded the conflict because we know israel wanted to right if this was like 2003 who knows if we wouldn't have just gone into like a full-on war but i think big voices in social media that we didn't have back in 03 were able to kind of pressure like hey we voted”
+
+</details>
 
 </details>
 

@@ -23,7 +23,7 @@ type: "accusation"
 ## About
 
 - [Ben Shapiro](/entities/person-ben-shapiro.md) (person)
-- [The Daily Wire](/entities/org-daily-wire.md) (org)
+- [The Daily Wire](/entities/org-the-daily-wire.md) (org)
 - [Breitbart News](/entities/org-breitbart-news.md) (org)
 - [Candace Owens](/entities/person-candace-owens.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)

@@ -7,10 +7,19 @@ type: "ORG"
 
 _Type: Organizations_
 
+<div class="entity-summary-grid">
+<div><span>Episodes</span><strong>0</strong></div>
+<div><span>Mentions</span><strong>0</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (0)</strong></summary>
 
 _No mentions recorded._
 
@@ -23,7 +32,11 @@ _No mentions recorded._
 <summary>Funded (1)</summary>
 
 - **[Christian Heritage Foundation](/entities/org-christian-heritage-foundation.md)**
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:06:16](/episodes/ep-wcD2khO3rOA.md#t-01-05-32): "It gave a $3.5 million grant to the Christian Heritage Foundation"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:06:16](/episodes/ep-wcD2khO3rOA.md#t-01-05-32): “It gave a $3.5 million grant to the Christian Heritage Foundation”
+
+</details>
 
 </details>
 
@@ -31,7 +44,11 @@ _No mentions recorded._
 <summary>Referenced By (1)</summary>
 
 - **[Christian Heritage Foundation](/entities/org-christian-heritage-foundation.md)** funded by this
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:06:16](/episodes/ep-wcD2khO3rOA.md#t-01-05-32)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:06:16](/episodes/ep-wcD2khO3rOA.md#t-01-05-32): “It gave a $3.5 million grant to the Christian Heritage Foundation”
+
+</details>
 
 </details>
 

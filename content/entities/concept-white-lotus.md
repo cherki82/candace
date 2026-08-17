@@ -1,25 +1,48 @@
 ---
 title: "White Lotus"
-description: "White Lotus (Concepts) - 2 mentions"
+description: "White Lotus (Concepts) - 1 mention"
 id: "concept-white-lotus"
 type: "CONCEPT"
 ---
 
 _Type: Concepts_
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-concept-white-lotus-t-00-21-40">2025-10-01 · 00:22:08</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-concept-white-lotus-t-00-21-40">2025-10-01 · 00:22:08</a></strong></div>
+<div><span>Episodes</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-adJ4LNGp84I.md#ent-concept-white-lotus-t-00-21-40">BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246</a> (1 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-concept-white-lotus-t-00-21-40" style="--pulse-height:100%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-concept-white-lotus-t-00-21-40) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (1)</strong></summary>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
 
 **[00:22:08](/episodes/ep-adJ4LNGp84I.md#ent-concept-white-lotus-t-00-21-40)**
 > "So the English here isn't perfect, but it is telling, about White Lotus sect, of all things, for those of you that followed the Becoming Brigitte series"
-
-**[00:22:08](/episodes/ep-adJ4LNGp84I.md#ent-concept-white-lotus-t-00-21-40)**
-> "...ect, but it is telling, about White Lotus sect, of all things, for those of you that follow..."
 
 </details>
 

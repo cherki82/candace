@@ -1,16 +1,69 @@
 ---
 title: "Terrell Farnsworth"
-description: "Terrell Farnsworth (People) - 13 mentions"
+description: "Terrell Farnsworth (People) - 14 mentions"
 id: "person-terrell-farnsworth"
 type: "PERSON"
+categories:
+  - "audiovisual production"
+  - "Charlie Kirk assassination case"
 ---
 
 _Type: People_
 
+**Categories:** audiovisual production, Charlie Kirk assassination case
+
+**Entity verification:** verified
+> Published preliminary-hearing testimony identifies Terrell Farnsworth and describes his association with Visual Impulse; the source corroborates the transcript's full name.
+Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgie.org/search/show/mgx/episode/20260706_Mon_RgXG8NvEbcQ)
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#t-00-16-41">2025-11-12 · 00:16:44</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-terrell-farnsworth-t-03-02-07">2026-08-14 · 03:02:25</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-terrell-farnsworth-t-00-11-13">Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279</a> (4 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-MUA9ebCF4Ow.md#t-00-16-41" style="--pulse-height:25%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-terrell-farnsworth-t-00-11-52" style="--pulse-height:50%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 2 mentions" title="2025-11-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-terrell-farnsworth-t-00-11-13" style="--pulse-height:100%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 4 mentions" title="2025-12-12 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-terrell-farnsworth-t-00-09-22" style="--pulse-height:75%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 3 mentions" title="2025-12-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-terrell-farnsworth-t-00-06-18" style="--pulse-height:75%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 3 mentions" title="2025-12-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-terrell-farnsworth-t-03-02-07" style="--pulse-height:25%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#t-00-16-41) | 1 |
+| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-person-terrell-farnsworth-t-00-11-52) | 2 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-person-terrell-farnsworth-t-00-11-13) | 4 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-terrell-farnsworth-t-00-09-22) | 3 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-person-terrell-farnsworth-t-00-06-18) | 3 |
+| 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-terrell-farnsworth-t-03-02-07) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
+
+**[03:02:25](/episodes/ep-nPhCKwJ6ye8.md#ent-person-terrell-farnsworth-t-03-02-07)**
+> "...makes sense, without question Terrell Farnsworth is someone who made me think that we were missing..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (3 mentions)</summary>
@@ -85,9 +138,14 @@ _Type: People_
 <summary>Works For (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:12:15](/episodes/ep-JQjCAsfoXEE.md#t-00-11-52): "Terrell Farnsworth, the guy who takes out the SD cards, was there at all. Okay, Terrell does not do college campus events. He doesn't do that. He's at the top of the company."
-  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:02:15](/episodes/ep-es7PWdFGoFI.md#t-00-02-04): "My skin crawled after I spoke to Terrell Farnsworth, the person who took the cameras down."
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:06:27](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-18): "Terrell Farnsworth still major question marks he raced to remove the camera that was directly behind Charlie's head."
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:12:15](/episodes/ep-JQjCAsfoXEE.md#t-00-11-52): “Terrell Farnsworth, the guy who takes out the SD cards, was there at all. Okay, Terrell does not do college campus events. He doesn't do that. He's at the top of the company.”
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:02:15](/episodes/ep-es7PWdFGoFI.md#t-00-02-04): “My skin crawled after I spoke to Terrell Farnsworth, the person who took the cameras down.”
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:06:27](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-18): “Terrell Farnsworth still major question marks he raced to remove the camera that was directly behind Charlie's head.”
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:06:09](/episodes/ep-ewBzjVe3LNQ.md#t-00-05-35): “Terrell Farnsworth still major question marks he raced to remove the camera that was directly behind Charlie's head”
+
+</details>
 
 </details>
 
@@ -95,7 +153,11 @@ _Type: People_
 <summary>Referenced By (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
-  - [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:12:15](/episodes/ep-JQjCAsfoXEE.md#t-00-11-52)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:12:15](/episodes/ep-JQjCAsfoXEE.md#t-00-11-52): “Terrell Farnsworth, the guy who takes out the SD cards, was there at all. Okay, Terrell does not do college campus events. He doesn't do that. He's at the top of the company.”
+
+</details>
 
 </details>
 

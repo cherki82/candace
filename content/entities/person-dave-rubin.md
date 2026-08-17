@@ -21,10 +21,50 @@ _Type: People_
 > Official biography confirms Dave Rubin as host of The Rubin Report and a former stand-up comedian, matching the episode context.
 Source: [About | The Rubin Report](https://www.daverubin.com/about)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-dave-rubin-t-00-07-08">2025-09-11 · 00:07:09</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-dave-rubin-t-01-05-01">2026-01-21 · 01:05:01</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>9</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-28-19">Candace x Baron Coleman LIVE!! | Candace Ep 293</a> (16 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-_dRaEO47-co.md#ent-person-dave-rubin-t-00-07-08" style="--pulse-height:8%" aria-label="To My Friend, Charlie Kirk.: 1 mentions" title="2025-09-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-person-dave-rubin-t-00-55-29" style="--pulse-height:8%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-person-dave-rubin-t-00-31-57" style="--pulse-height:8%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-dave-rubin-t-00-37-04" style="--pulse-height:8%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-dave-rubin-t-00-05-50" style="--pulse-height:19%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 3 mentions" title="2025-11-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-dave-rubin-t-00-13-30" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-28-19" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 16 mentions" title="2026-01-20 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-dave-rubin-t-01-05-01" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-11 | [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md#ent-person-dave-rubin-t-00-07-08) | 1 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-person-dave-rubin-t-00-55-29) | 1 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-person-dave-rubin-t-00-31-57) | 1 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-dave-rubin-t-00-37-04) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-dave-rubin-t-00-05-50) | 3 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-dave-rubin-t-00-13-30) | 1 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-28-19) | 16 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-dave-rubin-t-01-05-01) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
 
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
@@ -150,7 +190,11 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 <summary>Accused By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:34:30](/episodes/ep-9naMwS0kMBE.md#t-00-34-30): "the real reason that I stopped being friends with Dave Rubin is a situation that made me extremely uncomfortable and made me feel that Dave Rubin was a groomer"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:34:30](/episodes/ep-9naMwS0kMBE.md#t-00-34-30): “the real reason that I stopped being friends with Dave Rubin is a situation that made me extremely uncomfortable and made me feel that Dave Rubin was a groomer”
+
+</details>
 
 </details>
 
@@ -158,8 +202,12 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 <summary>Criticized (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:22](/episodes/ep-ja26iltROkM.md#t-00-31-57): "Dave Rubin instantly replied and said something about Israel—even though I didn't mention Israel in the tweet"
-  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:13:57](/episodes/ep-w1oqQbR_bYs.md#t-00-13-30): "Dave Rubin came to the exact same conclusion as the anti-Semites, only instead of cheering for Candice, found it vile and rebuked her"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:22](/episodes/ep-ja26iltROkM.md#t-00-31-57): “Dave Rubin instantly replied and said something about Israel—even though I didn't mention Israel in the tweet”
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:13:57](/episodes/ep-w1oqQbR_bYs.md#t-00-13-30): “Dave Rubin came to the exact same conclusion as the anti-Semites, only instead of cheering for Candice, found it vile and rebuked her”
+
+</details>
 
 </details>
 
@@ -167,7 +215,11 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 <summary>Defended (1)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
-  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:07:10](/episodes/ep-MUA9ebCF4Ow.md#t-00-07-09): "Dave Rubin weighed in on the matter, and he called what Ben did...he referred to it as almost an act of bravery"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:07:10](/episodes/ep-MUA9ebCF4Ow.md#t-00-07-09): “Dave Rubin weighed in on the matter, and he called what Ben did...he referred to it as almost an act of bravery”
+
+</details>
 
 </details>
 
@@ -175,7 +227,11 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 <summary>Friend Of (1)</summary>
 
 - **[Peter Thiel](/entities/person-peter-thiel.md)**
-  - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:37:21](/episodes/ep-9naMwS0kMBE.md#t-00-37-21): "he went to his friend billionaire Peter Thiel and asked for five million dollars"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:37:21](/episodes/ep-9naMwS0kMBE.md#t-00-37-21): “he went to his friend billionaire Peter Thiel and asked for five million dollars”
+
+</details>
 
 </details>
 
@@ -183,19 +239,39 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 <summary>Referenced By (5)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-  - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:34:30](/episodes/ep-9naMwS0kMBE.md#t-00-34-30)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:34:30](/episodes/ep-9naMwS0kMBE.md#t-00-34-30): “the real reason that I stopped being friends with Dave Rubin is a situation that made me extremely uncomfortable and made me feel that Dave Rubin was a groomer”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:22](/episodes/ep-ja26iltROkM.md#t-00-31-57)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:22](/episodes/ep-ja26iltROkM.md#t-00-31-57): “Dave Rubin instantly replied and said something about Israel—even though I didn't mention Israel in the tweet”
+
+</details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** defended by this
-  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:07:10](/episodes/ep-MUA9ebCF4Ow.md#t-00-07-09)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:07:10](/episodes/ep-MUA9ebCF4Ow.md#t-00-07-09): “Dave Rubin weighed in on the matter, and he called what Ben did...he referred to it as almost an act of bravery”
+
+</details>
 
 - **[Peter Thiel](/entities/person-peter-thiel.md)** friend of this
-  - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:37:21](/episodes/ep-9naMwS0kMBE.md#t-00-37-21)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:37:21](/episodes/ep-9naMwS0kMBE.md#t-00-37-21): “he went to his friend billionaire Peter Thiel and asked for five million dollars”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** worked with this
-  - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:29:29](/episodes/ep-9naMwS0kMBE.md#t-00-29-29)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:29:29](/episodes/ep-9naMwS0kMBE.md#t-00-29-29): “I worked with uh David Rubin actually one of the very first shows that I did”
+
+</details>
 
 </details>
 

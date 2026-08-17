@@ -1,6 +1,6 @@
 ---
 title: "Hollywood Babylon"
-description: "Hollywood Babylon (Works & Media) - 4 mentions"
+description: "Hollywood Babylon (Works & Media) - 5 mentions"
 id: "work-hollywood-babylon"
 type: "WORK"
 categories:
@@ -16,10 +16,50 @@ _Type: Works & Media_
 > Library catalog confirms the canonical book title.
 Source: [Hollywood Babylon | Open Library](https://openlibrary.org/works/OL2745595W/Hollywood_Babylon)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-X92MllIHDzw.md#ent-work-hollywood-babylon-t-00-35-50">2026-01-16 · 00:35:50</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-work-hollywood-babylon-t-00-01-48">2026-02-27 · 00:01:48</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-work-hollywood-babylon-t-01-28-35">Candace x Bassem Youssef | Candace Ep 298</a> (2 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-X92MllIHDzw.md#ent-work-hollywood-babylon-t-00-35-50" style="--pulse-height:50%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-work-hollywood-babylon-t-01-28-35" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-hollywood-babylon-t-00-23-51" style="--pulse-height:50%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-work-hollywood-babylon-t-00-01-48" style="--pulse-height:50%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-work-hollywood-babylon-t-00-35-50) | 1 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-work-hollywood-babylon-t-01-28-35) | 2 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-work-hollywood-babylon-t-00-23-51) | 1 |
+| 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-work-hollywood-babylon-t-00-01-48) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (1 mentions)</summary>
+
+**[00:01:48](/episodes/ep-1IY2oD-_xVA.md#ent-work-hollywood-babylon-t-00-01-48)**
+> "Okay, so on background, I don't know how far down various rabbit holes you have gone, but if you are a regular viewer of the show, then you are very familiar with the name Aleister Crowley. If you are not, please, in your spare time, hit Wikipedia, read maybe Hollywood Babylon, Chaos."
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1 mentions)</summary>

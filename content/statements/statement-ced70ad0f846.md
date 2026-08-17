@@ -20,7 +20,7 @@ type: "accusation"
 
 ## About
 
-- [The Daily Wire](/entities/org-daily-wire.md) (org)
+- [The Daily Wire](/entities/org-the-daily-wire.md) (org)
 - [Candace Owens](/entities/person-candace-owens.md) (person)
 - [Kanye West](/entities/person-kanye-west.md) (person)
 - [Jeremy Boreing](/entities/person-jeremy-boreing.md) (person)

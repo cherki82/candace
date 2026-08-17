@@ -1,22 +1,99 @@
 ---
 title: "Washington, D.C."
-description: "Washington, D.C. (Places) - 15 mentions"
+description: "Washington, D.C. (Places) - 33 mentions"
 id: "gpe-washington-d-c"
 type: "GPE"
 aliases:
   - "D.C."
   - "Washington D.C."
   - "DC"
+categories:
+  - "United States"
 ---
 
 _Type: Places_
 
 **Also known as:** D.C., Washington D.C., DC
 
+**Categories:** United States
+
+**Entity verification:** verified
+> Official district portal confirms canonical place name.
+Source: [District of Columbia official website](https://dc.gov/)
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-washington-d-c-t-00-12-10">2025-09-11 · 00:12:29</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-washington-d-c-t-00-34-55">2026-02-28 · 00:58:39</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-washington-d-c-t-00-34-58">What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283</a> (5 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-washington-d-c-t-00-12-10" style="--pulse-height:20%" aria-label="To My Friend, Charlie Kirk.: 1 mentions" title="2025-09-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-gpe-washington-d-c-t-00-32-45" style="--pulse-height:20%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-washington-d-c-t-00-59-21" style="--pulse-height:20%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-washington-d-c-t-00-06-06" style="--pulse-height:20%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#t-00-09-46" style="--pulse-height:60%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-washington-d-c-t-00-34-58" style="--pulse-height:100%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 5 mentions" title="2025-12-20 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-washington-d-c-t-00-14-33" style="--pulse-height:20%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-washington-d-c-t-00-19-13" style="--pulse-height:20%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-washington-d-c-t-00-10-59" style="--pulse-height:40%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#t-00-18-50" style="--pulse-height:20%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-washington-d-c-t-00-07-13" style="--pulse-height:20%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#t-01-04-00" style="--pulse-height:40%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 2 mentions" title="2026-01-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-washington-d-c-t-01-10-43" style="--pulse-height:60%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-washington-d-c-t-00-34-29" style="--pulse-height:60%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 3 mentions" title="2026-02-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-gpe-washington-d-c-t-00-05-28" style="--pulse-height:20%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-washington-d-c-t-00-55-30" style="--pulse-height:40%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-washington-d-c-t-00-34-55" style="--pulse-height:40%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 2 mentions" title="2026-02-28 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-11 | [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md#ent-gpe-washington-d-c-t-00-12-10) | 1 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-washington-d-c-t-00-32-45) | 1 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-washington-d-c-t-00-59-21) | 1 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-washington-d-c-t-00-06-06) | 1 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#t-00-09-46) | 3 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-washington-d-c-t-00-34-58) | 5 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-washington-d-c-t-00-14-33) | 1 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-washington-d-c-t-00-19-13) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-washington-d-c-t-00-10-59) | 2 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#t-00-18-50) | 1 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-washington-d-c-t-00-07-13) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#t-01-04-00) | 2 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-washington-d-c-t-01-10-43) | 3 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-washington-d-c-t-00-34-29) | 3 |
+| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-washington-d-c-t-00-05-28) | 1 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-washington-d-c-t-00-55-30) | 2 |
+| 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-washington-d-c-t-00-34-55) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (2 mentions)</summary>
+
+**[00:35:10](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-washington-d-c-t-00-34-55)**
+> "...nce and takes it to travel to D.C."
+
+**[00:58:39](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-washington-d-c-t-00-34-55)**
+> "And maybe he was living in DC or something, but that's the reason that I didn't..."
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>
@@ -26,6 +103,96 @@ _Type: Places_
 
 **[00:55:39](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-washington-d-c-t-00-55-30)**
 > "...obably because they're not in D.C. and they're real people with real lives."
+
+</details>
+
+<details>
+<summary>An Open Letter To Erika Kirk | Candace Ep 303 (1 mentions)</summary>
+
+**[00:05:34](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-washington-d-c-t-00-05-28)**
+> "the Trump Hotel in D.C."
+
+</details>
+
+<details>
+<summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (3 mentions)</summary>
+
+**[00:34:29](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-washington-d-c-t-00-34-29)**
+> "on March 19th in Washington, D.C."
+
+**[00:34:34](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-washington-d-c-t-00-34-29)**
+> "D.C."
+
+**[00:36:08](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-washington-d-c-t-00-35-44)**
+> "D.C. on March 19th."
+
+</details>
+
+<details>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (3 mentions)</summary>
+
+**[01:10:40](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-washington-d-c-t-01-10-43)**
+> "go to D.C."
+
+**[01:10:43](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-washington-d-c-t-01-10-43)**
+> "...ch of homosexual men to go to D.C., you know, catch them on the apps,"
+
+**[01:16:42](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-washington-d-c-t-01-10-43)**
+> "...oys that really want to go to DC because they want to be on stage."
+
+</details>
+
+<details>
+<summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (2 mentions)</summary>
+
+**[01:04:13](/episodes/ep-GY6GWceEqtQ.md#t-01-04-00)**
+> "DC and Hollywood are the same thing"
+
+**[01:04:16](/episodes/ep-GY6GWceEqtQ.md#t-01-04-00)**
+> "...er and they're like uglier in DC."
+
+</details>
+
+<details>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
+
+**[00:07:13](/episodes/ep-9naMwS0kMBE.md#ent-gpe-washington-d-c-t-00-07-13)**
+> "D.C. when she be. was there?"
+
+</details>
+
+<details>
+<summary>Myron Gaines x Candace Owens (1 mentions)</summary>
+
+**[00:19:00](/episodes/ep-2T39-oADLj0.md#t-00-18-50)**
+> "...scary and sinister that is in DC,"
+
+</details>
+
+<details>
+<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2 mentions)</summary>
+
+**[00:11:23](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-washington-d-c-t-00-10-59)**
+> "..., who knows, maybe it went to D.C."
+
+**[00:11:27](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-washington-d-c-t-00-10-59)**
+> "...e could have actually gone to D.C. I don't know. I shouldn't even say it went back t..."
+
+</details>
+
+<details>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1 mentions)</summary>
+
+**[00:19:51](/episodes/ep-wcD2khO3rOA.md#ent-gpe-washington-d-c-t-00-19-13)**
+> "...t the Joint Chief of Staff in D.C. His other son."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
+
+**[00:15:12](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-washington-d-c-t-00-14-33)**
+> "...phone call was then placed to D.C. We are still trying to figure out to whom."
 
 </details>
 
@@ -105,7 +272,42 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Washington, D.C. (2)</strong></summary>
+<summary><strong class="section-title">Statements about Washington, D.C. (7)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (1)</summary>
+
+- [00:35:10](/episodes/ep-cZxHqYsWRYg.md#t-00-34-55) (Claim) **Candace Owens**: ["In August 2006 Erika Kirk won a National American Miss Teen title and ..."](/statements/statement-bbb03b55139a.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [National American Miss](/entities/org-national-american-miss.md), [John D. Hayworth Jr.](/entities/person-john-d-hayworth-jr.md)
+
+</details>
+
+<details>
+<summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (2)</summary>
+
+- [00:34:20](/episodes/ep-QRS_hR7NXaQ.md#t-00-33-44) (Promise) **Candace Owens**: ["Candace Owens will speak at the Catholics for Catholics conference in ..."](/statements/statement-2ebb604e6d76.md)
+  - Also about: [Catholics for Catholics](/entities/org-catholics-for-catholics.md)
+
+- [00:35:57](/episodes/ep-QRS_hR7NXaQ.md#t-00-35-44) (Promise) **John Yep**: ["Catholics for Catholics announced Candace Owens as a keynote speaker a..."](/statements/statement-4d40eb78d0bf.md)
+  - Also about: [Catholics for Catholics](/entities/org-catholics-for-catholics.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
+
+- [00:07:11](/episodes/ep-ZZGWo6oDscc.md#t-00-07-08) (Accusation) **Candace Owens**: ["I think personally he's got the largest blackmail file, whatever Israe..."](/statements/statement-7c2487d3cfc3.md)
+  - Also about: [Lindsey Graham](/entities/person-lindsey-graham.md), [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1)</summary>
+
+- [00:52:18](/episodes/ep-wcD2khO3rOA.md#t-00-51-36) (Claim) **The Washington Post** (via quoted article): ["In 1997, Moon-affiliated organizations controlled more than $300 milli..."](/statements/statement-44e4197a4f21.md)
+  - Also about: [Sun Myung Moon](/entities/person-sun-myung-moon.md), [Unification Church](/entities/org-unification-church.md)
+
+</details>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>

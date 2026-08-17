@@ -4,9 +4,10 @@ description: "\"On September 15, 2013, Josh Harrellson and Erika Kirk met 15-yea
 statement_id: "statement-b8d25b60927f"
 speaker: "Anonymous Source #1 (Ep 1hcjQGgvxUY)"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -34,7 +35,21 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Archived links to Jillian Falcon's original public posts support that she had met Erika by September 17, 2013 and continued corresponding with her. They do not independently establish the exact September 15 meeting date or every age/detail in the statement.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [The Texts Erika Kirk Doesn't Want You To See](https://5149jamesli.com/the-texts-erika-kirk-doesnt-want-you-to-see/)
+- [Did Erika Kirk send explicit texts to 15-year-old in 2014?](https://www.hindustantimes.com/world-news/us-news/did-erika-kirk-send-explicit-texts-to-15-year-old-in-2014-grooming-allegation-surface-101770740014763-amp.html)
+
+*Verified: 2026-08-16T11:38:35.527013*
 
 ---
 

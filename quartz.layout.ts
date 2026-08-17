@@ -11,17 +11,43 @@ export const sharedPageComponents: SharedLayout = {
     Component.PageFilter(),
     Component.AnchorHighlight(),
     Component.YouTubeTimestampLinks(),
+    Component.ResearchWorkbench(),
   ],
   footer: Component.Footer({ links: {} }),
 }
 
-// Main navigation with links to index pages
-const MainNavigation = Component.Navigation({
-  title: "Browse",
+const mobileLinks = [
+  { text: "Research Explorer", href: "index/explorer" },
+  { text: "Theory Threads", href: "index/threads" },
+  { text: "Episodes", href: "index/episodes" },
+  { text: "Entities", href: "index/entities" },
+  { text: "Timeline", href: "index/timeline" },
+  { text: "Research Sources", href: "index/sources" },
+  { text: "Statements", href: "index/statements" },
+  { text: "Relationships", href: "index/relationships" },
+]
+
+const InvestigateNavigation = Component.Navigation({
+  title: "Investigate",
+  links: [
+    { text: "Research Explorer", href: "index/explorer" },
+    { text: "Theory Threads", href: "index/threads" },
+  ],
+})
+
+const CorpusNavigation = Component.Navigation({
+  title: "Browse the corpus",
   links: [
     { text: "Episodes", href: "index/episodes" },
     { text: "Entities", href: "index/entities" },
     { text: "Timeline", href: "index/timeline" },
+  ],
+})
+
+const EvidenceNavigation = Component.Navigation({
+  title: "Audit the evidence",
+  links: [
+    { text: "Research Sources", href: "index/sources" },
     { text: "Statements", href: "index/statements" },
     { text: "Relationships", href: "index/relationships" },
   ],
@@ -29,28 +55,21 @@ const MainNavigation = Component.Navigation({
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
-  beforeBody: [
-    Component.ArticleTitle(),
-    Component.TagList(),
-  ],
+  beforeBody: [Component.ArticleTitle(), Component.TagList()],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(
       Component.Flex({
         components: [
-          { Component: Component.MobileNavigation({
-            links: [
-              { text: "Episodes", href: "index/episodes" },
-              { text: "Entities", href: "index/entities" },
-              { text: "Timeline", href: "index/timeline" },
-              { text: "Statements", href: "index/statements" },
-              { text: "Relationships", href: "index/relationships" },
-            ],
-          }) },
+          {
+            Component: Component.MobileNavigation({
+              links: mobileLinks,
+            }),
+          },
           { Component: Component.Search(), grow: true },
           { Component: Component.Darkmode() },
         ],
-      })
+      }),
     ),
     Component.DesktopOnly(
       Component.Flex({
@@ -61,12 +80,14 @@ export const defaultContentPageLayout: PageLayout = {
           },
           { Component: Component.Darkmode() },
         ],
-      })
+      }),
     ),
-    Component.DesktopOnly(MainNavigation),
+    Component.DesktopOnly(InvestigateNavigation),
+    Component.DesktopOnly(CorpusNavigation),
+    Component.DesktopOnly(EvidenceNavigation),
     Component.DesktopOnly(Component.PagefindSearch()),
   ],
-  right: [],
+  right: [Component.DesktopOnly(Component.TableOfContents())],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
@@ -77,19 +98,15 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(
       Component.Flex({
         components: [
-          { Component: Component.MobileNavigation({
-            links: [
-              { text: "Episodes", href: "index/episodes" },
-              { text: "Entities", href: "index/entities" },
-              { text: "Timeline", href: "index/timeline" },
-              { text: "Statements", href: "index/statements" },
-              { text: "Relationships", href: "index/relationships" },
-            ],
-          }) },
+          {
+            Component: Component.MobileNavigation({
+              links: mobileLinks,
+            }),
+          },
           { Component: Component.Search(), grow: true },
           { Component: Component.Darkmode() },
         ],
-      })
+      }),
     ),
     Component.DesktopOnly(
       Component.Flex({
@@ -100,10 +117,12 @@ export const defaultListPageLayout: PageLayout = {
           },
           { Component: Component.Darkmode() },
         ],
-      })
+      }),
     ),
-    Component.DesktopOnly(MainNavigation),
+    Component.DesktopOnly(InvestigateNavigation),
+    Component.DesktopOnly(CorpusNavigation),
+    Component.DesktopOnly(EvidenceNavigation),
     Component.DesktopOnly(Component.PagefindSearch()),
   ],
-  right: [],
+  right: [Component.DesktopOnly(Component.TableOfContents())],
 }

@@ -1,6 +1,6 @@
 ---
 title: "Everyday Heroes Like You"
-description: "Everyday Heroes Like You (Organizations) - 3 mentions"
+description: "Everyday Heroes Like You (Organizations) - 9 mentions"
 id: "org-everyday-heroes-like-you"
 type: "ORG"
 aliases:
@@ -20,10 +20,56 @@ _Type: Organizations_
 > Official founder site identifies Everyday Heroes Like You as a 501(c)(3) ministry; corroborating contemporary coverage identifies Erika Frantzve as founder and CEO.
 Source: [Erika Frantzve | Ministry](https://www.mrserikakirk.com/ministry)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-everyday-heroes-like-you-t-00-10-47">2026-01-09 · 00:10:55</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-org-everyday-heroes-like-you-t-00-20-09">2026-03-03 · 00:20:09</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-2tFYJf1klgY.md#ent-org-everyday-heroes-like-you-t-00-18-13">Bride Of Charlie: The Lost Years... | Episode 5</a> (3 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-everyday-heroes-like-you-t-00-10-47" style="--pulse-height:33%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-org-everyday-heroes-like-you-t-00-16-50" style="--pulse-height:33%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-everyday-heroes-like-you-t-00-30-58" style="--pulse-height:33%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-org-everyday-heroes-like-you-t-00-18-13" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 3 mentions" title="2026-03-03 · 3 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-everyday-heroes-like-you-t-00-10-47) | 1 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-everyday-heroes-like-you-t-00-16-50) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-everyday-heroes-like-you-t-00-30-58) | 1 |
+| 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-org-everyday-heroes-like-you-t-00-18-13) | 3 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (3 mentions)</summary>
+
+**[00:18:21](/episodes/ep-2tFYJf1klgY.md#ent-org-everyday-heroes-like-you-t-00-18-13)**
+> "...rantzve is going to establish Everyday Heroes Like You in April."
+
+**[00:19:34](/episodes/ep-2tFYJf1klgY.md#ent-org-everyday-heroes-like-you-t-00-19-34)**
+> "...hey established this charity, Everyday Heroes Like You, she's going to go to China to help women who wer..."
+
+**[00:20:09](/episodes/ep-2tFYJf1klgY.md#ent-org-everyday-heroes-like-you-t-00-20-09)**
+> "...ed to create something called Everyday Heroes Like You where we're able to originally it was focused on ..."
+
+</details>
 
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
@@ -49,17 +95,43 @@ Source: [Erika Frantzve | Ministry](https://www.mrserikakirk.com/ministry)
 
 </details>
 
+<details>
+<summary>ep-y8lak3CRwDw (3 mentions)</summary>
+
+**[00:25:52](/episodes/ep-y8lak3CRwDw.md#t-00-25-52)**
+> "...as Miss Arizona. In February, Everyday Heroes Like You begins what's known as Johnny's Locker Ministry, ..."
+
+**[00:26:44](/episodes/ep-y8lak3CRwDw.md#t-00-26-44)**
+> "Johnny's Locker is an everyday Heroes Like You program that is targeted towards enhancing the li..."
+
+**[00:30:20](/episodes/ep-y8lak3CRwDw.md#t-00-30-20)**
+> "...ens next in August of 2012 is Everyday Heroes Like You visits the Black Sea Air Support Team in Constant..."
+
+</details>
+
 </details>
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Founded By (1)</summary>
+<summary>Founded By (2)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:16:50](/episodes/ep-X92MllIHDzw.md#t-00-16-50): "I decided to create something called Everyday Heroes Like You"
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:30:58](/episodes/ep-NIEbqsLAK8g.md#t-00-30-58): "I decided to create something called Everyday Heroes Like You"
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:16:50](/episodes/ep-X92MllIHDzw.md#t-00-16-50): “I decided to create something called Everyday Heroes Like You”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:30:58](/episodes/ep-NIEbqsLAK8g.md#t-00-30-58): “I decided to create something called Everyday Heroes Like You”
+- [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:20:09](/episodes/ep-2tFYJf1klgY.md#t-00-20-09): “I decided to create something called Everyday Heroes Like You”
+
+</details>
+
+- **[Lori Frantzve](/entities/person-lori-frantzve.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:18:21](/episodes/ep-2tFYJf1klgY.md#t-00-18-13): “In 2009, Lori Frantzve is going to establish Everyday Heroes Like You in April.”
+
+</details>
 
 </details>
 
@@ -67,26 +139,54 @@ Source: [Erika Frantzve | Ministry](https://www.mrserikakirk.com/ministry)
 <summary>Includes (1)</summary>
 
 - **[Romanian Angels Project](/entities/org-romanian-angels-project.md)**
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:11:13](/episodes/ep-wcD2khO3rOA.md#t-00-10-47): "what spun out from Lori's charity was the Romanian Angels Project"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:11:13](/episodes/ep-wcD2khO3rOA.md#t-00-10-47): “what spun out from Lori's charity was the Romanian Angels Project”
+
+</details>
 
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** founded this
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:16:50](/episodes/ep-X92MllIHDzw.md#t-00-16-50)
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:30:58](/episodes/ep-NIEbqsLAK8g.md#t-00-30-58)
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:16:50](/episodes/ep-X92MllIHDzw.md#t-00-16-50): “I decided to create something called Everyday Heroes Like You”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:30:58](/episodes/ep-NIEbqsLAK8g.md#t-00-30-58): “I decided to create something called Everyday Heroes Like You”
+- [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:20:09](/episodes/ep-2tFYJf1klgY.md#t-00-20-09): “I decided to create something called Everyday Heroes Like You”
+
+</details>
+
+- **[Lori Frantzve](/entities/person-lori-frantzve.md)** founded this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:18:21](/episodes/ep-2tFYJf1klgY.md#t-00-18-13): “In 2009, Lori Frantzve is going to establish Everyday Heroes Like You in April.”
+
+</details>
 
 - **[Romanian Angels Project](/entities/org-romanian-angels-project.md)** part of this
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:11:13](/episodes/ep-wcD2khO3rOA.md#t-00-10-47)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:11:13](/episodes/ep-wcD2khO3rOA.md#t-00-10-47): “what spun out from Lori's charity was the Romanian Angels Project”
+
+</details>
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Everyday Heroes Like You (2)</strong></summary>
+<summary><strong class="section-title">Statements about Everyday Heroes Like You (3)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (1)</summary>
+
+- [00:18:21](/episodes/ep-2tFYJf1klgY.md#t-00-18-13) (Citation) **Candace Owens**: ["Lori Frantzve established Everyday Heroes Like You in April 2009, and ..."](/statements/statement-a1c5a67c330b.md)
+  - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md)
+
+</details>
 
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (2)</summary>

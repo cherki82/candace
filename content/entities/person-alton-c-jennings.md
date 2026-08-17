@@ -21,10 +21,36 @@ _Type: People_
 > Reporting based on the Arizona court petition identifies the decedent as Alton C. Jennings; this confirms Alton is a distinct person, not an ASR error for Anton LaVey.
 Source: [Turning Point USA and Young America’s Foundation In Legal Battle Over A Dead Grandfather’s Will](https://www.anarchistfederation.net/exclusive-turning-point-usa-and-young-americas-foundation-in-legal-battle-over-a-dead-grandfathers-will/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-alton-c-jennings-t-00-15-13">2026-01-13 · 00:15:43</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-alton-c-jennings-t-00-15-58">2026-01-13 · 00:16:01</a></strong></div>
+<div><span>Episodes</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-alton-c-jennings-t-00-15-13">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (3 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-alton-c-jennings-t-00-15-13" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-alton-c-jennings-t-00-15-13) | 3 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
 
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (3 mentions)</summary>
@@ -49,7 +75,11 @@ Source: [Turning Point USA and Young America’s Foundation In Legal Battle Over
 <summary>Hired (1)</summary>
 
 - **[Mitchell Manley Sr.](/entities/person-mitchell-manley-sr.md)**
-  - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:16:01](/episodes/ep-ZZGWo6oDscc.md#t-00-15-58): "Alton began showing signs of cognitive decline in 2020. And at that time, a year later, rather in 2021, he hired a caretaker. That caretaker's name is Mitch Manley Sr."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:16:01](/episodes/ep-ZZGWo6oDscc.md#t-00-15-58): “Alton began showing signs of cognitive decline in 2020. And at that time, a year later, rather in 2021, he hired a caretaker. That caretaker's name is Mitch Manley Sr.”
+
+</details>
 
 </details>
 
@@ -57,7 +87,11 @@ Source: [Turning Point USA and Young America’s Foundation In Legal Battle Over
 <summary>Referenced By (1)</summary>
 
 - **[Mitchell Manley Sr.](/entities/person-mitchell-manley-sr.md)** hired by this
-  - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:16:01](/episodes/ep-ZZGWo6oDscc.md#t-00-15-58)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:16:01](/episodes/ep-ZZGWo6oDscc.md#t-00-15-58): “Alton began showing signs of cognitive decline in 2020. And at that time, a year later, rather in 2021, he hired a caretaker. That caretaker's name is Mitch Manley Sr.”
+
+</details>
 
 </details>
 

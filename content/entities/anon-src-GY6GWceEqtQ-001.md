@@ -16,10 +16,19 @@ _Type: Anonymous Sources_
 > The cleaned episode JSON intentionally labels this embedded-clip speaker British Woman 1 because the source provides no name.
 Source: [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](https://www.youtube.com/watch?v=GY6GWceEqtQ)
 
+<div class="entity-summary-grid">
+<div><span>Episodes</span><strong>0</strong></div>
+<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (1)</strong></summary>
 
 </details>
 
@@ -30,7 +39,11 @@ Source: [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 2
 <summary>Criticized (1)</summary>
 
 - **[Brooklyn Beckham](/entities/person-brooklyn-beckham.md)**
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:54:10](/episodes/ep-GY6GWceEqtQ.md#t-00-54-10): "This is a message for Brooklyn Beckham. Go to bed ... seven stories slandering your parents."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:54:10](/episodes/ep-GY6GWceEqtQ.md#t-00-54-10): “This is a message for Brooklyn Beckham. Go to bed ... seven stories slandering your parents.”
+
+</details>
 
 </details>
 
@@ -38,7 +51,11 @@ Source: [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 2
 <summary>Referenced By (1)</summary>
 
 - **[Brooklyn Beckham](/entities/person-brooklyn-beckham.md)** criticized by this
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:54:10](/episodes/ep-GY6GWceEqtQ.md#t-00-54-10)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:54:10](/episodes/ep-GY6GWceEqtQ.md#t-00-54-10): “This is a message for Brooklyn Beckham. Go to bed ... seven stories slandering your parents.”
+
+</details>
 
 </details>
 

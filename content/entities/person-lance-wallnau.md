@@ -1,25 +1,66 @@
 ---
 title: "Lance Wallnau"
-description: "Lance Wallnau (People) - 114 mentions"
+description: "Lance Wallnau (People) - 106 mentions"
 id: "person-lance-wallnau"
 type: "PERSON"
 ---
 
 _Type: People_
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#t-00-00-45">2025-09-16 · 00:00:45</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-20-07">2025-11-10 · 00:20:19</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>106</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>5</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-2WEHTk0Xewg.md#t-00-00-01">Who Ordered The Hit On Charlie Kirk? | Candace Ep 237</a> (36 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-q7f8r-THr84.md#t-00-00-45" style="--pulse-height:56%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 20 mentions" title="2025-09-16 · 20 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#t-00-00-01" style="--pulse-height:100%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 36 mentions" title="2025-09-17 · 36 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#t-00-02-05" style="--pulse-height:19%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 7 mentions" title="2025-09-18 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#t-00-44-23" style="--pulse-height:8%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QZWSsq8ZWzw.md#t-00-06-51" style="--pulse-height:8%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 2 mentions" title="2025-09-24 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#t-00-11-24" style="--pulse-height:8%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 3 mentions" title="2025-09-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZGxnf5cj4Uw.md#t-00-12-42" style="--pulse-height:33%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 12 mentions" title="2025-09-29 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#t-00-29-56" style="--pulse-height:28%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 10 mentions" title="2025-10-07 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#t-00-49-29" style="--pulse-height:8%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-11-32" style="--pulse-height:39%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 14 mentions" title="2025-11-10 · 14 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#t-00-00-45) | 20 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#t-00-00-01) | 36 |
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#t-00-02-05) | 7 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#t-00-44-23) | 1 |
+| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#t-00-06-51) | 2 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#t-00-11-24) | 3 |
+| 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#t-00-12-42) | 12 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#t-00-29-56) | 10 |
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#t-00-49-29) | 1 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-11-32) | 14 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (106)</strong></summary>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (15 mentions)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (14 mentions)</summary>
 
 **[00:11:54](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-11-32)**
 > "... had to fight for justice. They went out immediately following the election results. One person was Lance Wallnau (Lance Wallnau), okay? I want you to remember this guy's name: Lance Wallnau (Lance Wallnau). Immed..."
-
-**[00:11:57](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-11-32)**
-> "Lance Wallnau described Seven Mountain Mandate infiltration philosophy"
 
 **[00:11:57](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-11-32)**
 > "...esults. One person was Lance Wallnau (Lance Wallnau), okay? I want you to remember this guy's name: Lance Wallnau (Lance Wallnau). Immediately—just three days after the election of 2020, on November 6th—he publish..."
@@ -180,46 +221,25 @@ _Type: People_
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (14 mentions)</summary>
-
-**[00:02:15](/episodes/ep-sreYYcID-QY.md#t-00-02-05)**
-> "As he texted these Fed messages—him and Lance are texting"
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (7 mentions)</summary>
 
 **[00:02:15](/episodes/ep-sreYYcID-QY.md#t-00-02-05)**
 > "...to be idling nearby the campus for a very long time, right? As he texted these Fed messages—him and Lance are texting, and he's telling him every second, minute by minute, what he's done—and he mentions th..."
 
 **[00:03:21](/episodes/ep-sreYYcID-QY.md#t-00-02-45)**
-> "He says to Lance, allegedly, quote, I worry about prints"
-
-**[00:03:21](/episodes/ep-sreYYcID-QY.md#t-00-02-45)**
 > "...That's why it didn't flag me as weird when I was reading this; it didn't flag me as odd. He says to Lance, allegedly, quote, "I worry about prints." "I had to leave it," referring to the rifle, "in a bush ..."
-
-**[00:08:48](/episodes/ep-sreYYcID-QY.md#t-00-08-13)**
-> "first correspondence between Tyler Robinson and Lance after six o'clock p.m."
 
 **[00:08:48](/episodes/ep-sreYYcID-QY.md#t-00-08-13)**
 > "...orrespondence that allegedly took place between these two had to have taken place between Tyler and Lance after six o'clock p.m. Well, there we go. 6:38 p.m. We get this confirmed photo—or I should say, I ..."
 
 **[00:16:49](/episodes/ep-sreYYcID-QY.md#t-00-16-13)**
-> "witnessed the police swarm the townhouse of Tyler Robinson and Lance"
-
-**[00:16:49](/episodes/ep-sreYYcID-QY.md#t-00-16-13)**
 > "...e spoke to the BBC about how she had witnessed the police swarm the townhouse of Tyler Robinson and Lance while she was walking her dog in the evening. Here is what she says. I'm gonna read it directly her..."
-
-**[00:18:27](/episodes/ep-sreYYcID-QY.md#t-00-18-18)**
-> "they brought in Lance, and then according to Lance's own family"
 
 **[00:18:27](/episodes/ep-sreYYcID-QY.md#t-00-18-18)**
 > "...they didn't move at all, okay? We're supposed to believe that it was overnight that they brought in Lance, and then—according to Lance's own family—it was overnight that they, after bringing Lance in aroun..."
 
 **[00:18:55](/episodes/ep-sreYYcID-QY.md#t-00-18-18)**
-> "contacted Lance's family to see if they're familiar with that name"
-
-**[00:18:55](/episodes/ep-sreYYcID-QY.md#t-00-18-18)**
 > "...hing about Sherry Steele is I can't find her. We stalked; we looked through databases; we contacted Lance's family to see if they're familiar with that name. I cannot find a woman named Sherry Steele that ..."
-
-**[00:26:31](/episodes/ep-sreYYcID-QY.md#t-00-26-02)**
-> "Tyler Robinson and Lance could have gotten mixed up in some deep internet stuff"
 
 **[00:26:31](/episodes/ep-sreYYcID-QY.md#t-00-26-02)**
 > "...t? “I did it, I did it. Oh, actually, it turns out that I have child pornography”—is that Tyler and Lance could have gotten mixed up in some deep internet stuff, which makes sense because—as we have learne..."
@@ -413,7 +433,11 @@ _Type: People_
 <summary>Child Of (1)</summary>
 
 - **[Carl Wallnau](/entities/person-carl-wallnau.md)**
-  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:17:14](/episodes/ep-YaZfwLQ7vrI.md#t-00-16-39): "His father, Carl Wallnau"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:17:14](/episodes/ep-YaZfwLQ7vrI.md#t-00-16-39): “His father, Carl Wallnau”
+
+</details>
 
 </details>
 
@@ -421,7 +445,11 @@ _Type: People_
 <summary>Invested In (1)</summary>
 
 - **[Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)**
-  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:20:07](/episodes/ep-YaZfwLQ7vrI.md#t-00-19-33): "he put a ton of money into Turning Point USA Faith operations"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:20:07](/episodes/ep-YaZfwLQ7vrI.md#t-00-19-33): “he put a ton of money into Turning Point USA Faith operations”
+
+</details>
 
 </details>
 
@@ -429,13 +457,25 @@ _Type: People_
 <summary>Referenced By (3)</summary>
 
 - **[Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)** has investor this
-  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:20:07](/episodes/ep-YaZfwLQ7vrI.md#t-00-19-33)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:20:07](/episodes/ep-YaZfwLQ7vrI.md#t-00-19-33): “he put a ton of money into Turning Point USA Faith operations”
+
+</details>
 
 - **[Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)** investor includes this
-  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:20:07](/episodes/ep-YaZfwLQ7vrI.md#t-00-19-33)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:20:07](/episodes/ep-YaZfwLQ7vrI.md#t-00-19-33): “he put a ton of money into Turning Point USA Faith operations”
+
+</details>
 
 - **[Carl Wallnau](/entities/person-carl-wallnau.md)** parent of this
-  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:17:14](/episodes/ep-YaZfwLQ7vrI.md#t-00-16-39)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:17:14](/episodes/ep-YaZfwLQ7vrI.md#t-00-16-39): “His father, Carl Wallnau”
+
+</details>
 
 </details>
 

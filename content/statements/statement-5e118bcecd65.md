@@ -1,6 +1,6 @@
 ---
-title: "November Renaissance was never released despite updates thro..."
-description: "\"November Renaissance was never released despite updates through 2017.\" — Candace Owens"
+title: "November Renaissance was never released."
+description: "\"November Renaissance was never released.\" — Candace Owens"
 statement_id: "statement-5e118bcecd65"
 speaker: "Candace Owens"
 type: "citation"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> November Renaissance was never released despite updates through 2017.
+> November Renaissance was never released.
 
 ## Attribution
 
@@ -25,13 +25,23 @@ veracity: "true"
 - [November Renaissance](/entities/work-november-renaissance.md) (work)
 - [Kickstarter](/entities/org-kickstarter.md) (org)
 
-## Source
+## Appearances (2)
+
+### 1. OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291
 
 **Episode:** [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md)
 **Timestamp:** [00:10:39](/episodes/ep-X92MllIHDzw.md#t-00-10-12) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(639);return false;">Play</a>
 
 > Again, to be clear, this project was never released despite posting updates up to 2017.
+
+### 2. Bride Of Charlie: The Lost Years... | Episode 5
+
+**Episode:** [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md)
+**Timestamp:** [00:25:44](/episodes/ep-2tFYJf1klgY.md#t-00-25-27) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1544);return false;">Play</a>
+
+> How is she doing this in addition to her studies? Maybe that's why she takes a year longer to graduate. I'm not sure, but I'm certainly interested in the fact that this movie, which never came out, was about corporate espionage, spies going into a corporate company working on behalf of a global government.
 
 ## Verification
 

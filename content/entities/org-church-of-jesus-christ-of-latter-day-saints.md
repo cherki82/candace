@@ -18,14 +18,58 @@ _Type: Organizations_
 
 **Categories:** religion
 
+> **Possibly overlapping entity records:** [LDS church](/entities/org-lds-church). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > Official church page confirms canonical name.
 Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://www.churchofjesuschrist.org/learn/about-us?lang=eng)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-17-09">2025-09-24 · 00:17:37</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-14-31">2026-02-27 · 00:14:48</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-17-09">BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242</a> (5 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-17-09" style="--pulse-height:100%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 5 mentions" title="2025-09-24 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-28-10" style="--pulse-height:20%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-27-13" style="--pulse-height:20%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-47-19" style="--pulse-height:40%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-14-31" style="--pulse-height:20%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-17-09) | 5 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-28-10) | 1 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-27-13) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-47-19) | 2 |
+| 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-14-31) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (1 mentions)</summary>
+
+**[00:14:48](/episodes/ep-1IY2oD-_xVA.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-14-31)**
+> "And just so you know, he's going to go on to become a bishop in the Mormon church because marrying a child is apparently not a disqualifier. In fact, she tells us her parents welcome them back into the home."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (2 mentions)</summary>
@@ -55,10 +99,7 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 </details>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (6 mentions)</summary>
-
-**[00:17:37](/episodes/ep-QZWSsq8ZWzw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-17-09)**
-> "the Church of Jesus Christ of Latter-day Saints"
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (5 mentions)</summary>
 
 **[00:17:37](/episodes/ep-QZWSsq8ZWzw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-17-09)**
 > "...products, they rank number 24. It's actually the Beehive State. It relates to the Mormon Church—the Church of Jesus Christ of Latter-day Saints. Early Mormon pioneers founded that state, and they liked the idea of a beehive working toward a co..."

@@ -22,10 +22,64 @@ _Type: Places_
 > Official city website confirms canonical city name.
 Source: [Provo, UT | Official Website](https://www.provo.gov/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-gpe-provo-t-00-18-15">2025-09-19 · 00:18:48</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-provo-t-00-24-40">2026-02-04 · 00:24:43</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>77</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-02-07">BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255</a> (17 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-gpe-provo-t-00-18-15" style="--pulse-height:8%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-gpe-provo-t-00-18-54" style="--pulse-height:29%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 5 mentions" title="2025-09-30 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-02-07" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 17 mentions" title="2025-10-30 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-provo-t-00-05-35" style="--pulse-height:59%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 10 mentions" title="2025-10-31 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-provo-t-00-05-44" style="--pulse-height:41%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 7 mentions" title="2025-11-17 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-gpe-provo-t-00-05-00" style="--pulse-height:29%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 5 mentions" title="2025-11-18 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-provo-t-00-00-00" style="--pulse-height:29%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 5 mentions" title="2025-11-19 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-provo-t-00-00-00" style="--pulse-height:24%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 4 mentions" title="2025-11-21 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-provo-t-00-23-12" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-gpe-provo-t-00-16-49" style="--pulse-height:8%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-provo-t-00-00-43" style="--pulse-height:47%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 8 mentions" title="2025-12-05 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-provo-t-00-09-30" style="--pulse-height:35%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 6 mentions" title="2026-01-13 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-provo-t-01-07-21" style="--pulse-height:18%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 3 mentions" title="2026-01-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-provo-t-00-06-35" style="--pulse-height:12%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-provo-t-00-24-40" style="--pulse-height:8%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-provo-t-00-18-15) | 1 |
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-provo-t-00-18-54) | 5 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-02-07) | 17 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-provo-t-00-05-35) | 10 |
+| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-provo-t-00-05-44) | 7 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-gpe-provo-t-00-05-00) | 5 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-provo-t-00-00-00) | 5 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-provo-t-00-00-00) | 4 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-provo-t-00-23-12) | 1 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-gpe-provo-t-00-16-49) | 1 |
+| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-provo-t-00-00-43) | 8 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-provo-t-00-09-30) | 6 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-provo-t-01-07-21) | 3 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-provo-t-00-06-35) | 2 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-provo-t-00-24-40) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (77)</strong></summary>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1 mentions)</summary>
@@ -339,8 +393,12 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 <summary>Location Of (1)</summary>
 
 - **[Caldera Engineering](/entities/org-caldera-engineering.md)**
-  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:18:48](/episodes/ep-aDlhjfW6hz8.md#t-00-18-15): "Caldera Engineering in Provo, Utah"
-  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:18:58](/episodes/ep-aDlhjfW6hz8.md#t-00-18-15): "companies like Caldera Engineering in Provo, Utah"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:18:48](/episodes/ep-aDlhjfW6hz8.md#t-00-18-15): “Caldera Engineering in Provo, Utah”
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:18:58](/episodes/ep-aDlhjfW6hz8.md#t-00-18-15): “companies like Caldera Engineering in Provo, Utah”
+
+</details>
 
 </details>
 
@@ -348,8 +406,13 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 <summary>Referenced By (1)</summary>
 
 - **[Caldera Engineering](/entities/org-caldera-engineering.md)** based in this
-  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:18:48](/episodes/ep-aDlhjfW6hz8.md#t-00-18-15)
-  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:18:58](/episodes/ep-aDlhjfW6hz8.md#t-00-18-15)
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:18:48](/episodes/ep-aDlhjfW6hz8.md#t-00-18-15): “Caldera Engineering in Provo, Utah”
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:18:58](/episodes/ep-aDlhjfW6hz8.md#t-00-18-15): “companies like Caldera Engineering in Provo, Utah”
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:18:18](/episodes/ep-aDlhjfW6hz8.md#t-00-18-15): “companies like Caldera Engineering in Provo, Utah, manufacture specialized industrial valves”
+
+</details>
 
 </details>
 

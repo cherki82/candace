@@ -11,10 +11,19 @@ _Type: Organizations_
 
 **Also known as:** GHF
 
+<div class="entity-summary-grid">
+<div><span>Episodes</span><strong>0</strong></div>
+<div><span>Mentions</span><strong>0</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (0)</strong></summary>
 
 _No mentions recorded._
 
@@ -27,7 +36,11 @@ _No mentions recorded._
 <summary>Has Chairman (1)</summary>
 
 - **[Johnnie Moore](/entities/person-johnnie-moore.md)**
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:47](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): "He was somehow equipped to lead the Gaza Humanitarian Fund"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:47](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): “He was somehow equipped to lead the Gaza Humanitarian Fund”
+
+</details>
 
 </details>
 
@@ -35,7 +48,11 @@ _No mentions recorded._
 <summary>Referenced By (1)</summary>
 
 - **[Johnnie Moore](/entities/person-johnnie-moore.md)** chairman of this
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:47](/episodes/ep-wcD2khO3rOA.md#t-00-07-06)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:47](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): “He was somehow equipped to lead the Gaza Humanitarian Fund”
+
+</details>
 
 </details>
 

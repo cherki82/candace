@@ -20,10 +20,42 @@ _Type: People_
 > Official TPUSA speaker profile confirms canonical name.
 Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers/cabotphillips)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-cabot-phillips-t-00-41-05">2025-12-20 · 00:41:42</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4YgrOhhy708.md#ent-person-cabot-phillips-t-00-18-36">2026-02-09 · 00:18:51</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>3</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-cabot-phillips-t-00-41-49">What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283</a> (9 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-cabot-phillips-t-00-41-49" style="--pulse-height:100%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 9 mentions" title="2025-12-20 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-cabot-phillips-t-00-37-47" style="--pulse-height:44%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 4 mentions" title="2026-01-05 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-cabot-phillips-t-00-06-24" style="--pulse-height:11%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-person-cabot-phillips-t-00-18-36" style="--pulse-height:11%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-cabot-phillips-t-00-41-49) | 9 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-cabot-phillips-t-00-37-47) | 4 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-cabot-phillips-t-00-06-24) | 1 |
+| 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-cabot-phillips-t-00-18-36) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (1 mentions)</summary>
@@ -99,7 +131,11 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 <summary>Affiliated With (1)</summary>
 
 - **[Liberty University](/entities/org-liberty-university.md)**
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:06:42](/episodes/ep-wcD2khO3rOA.md#t-00-06-24): "Cabot Phillips attended and he graduated"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:06:42](/episodes/ep-wcD2khO3rOA.md#t-00-06-24): “Cabot Phillips attended and he graduated”
+
+</details>
 
 </details>
 
@@ -107,7 +143,11 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 <summary>Works For (1)</summary>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
-  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:42:04](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49): "I know that he does the morning wire at Daily Wire"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:42:04](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49): “I know that he does the morning wire at Daily Wire”
+
+</details>
 
 </details>
 
@@ -115,7 +155,11 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 <summary>Referenced By (1)</summary>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** employs this
-  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:42:04](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:42:04](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49): “I know that he does the morning wire at Daily Wire”
+
+</details>
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "IDF"
-description: "IDF (Organizations) - 18 mentions"
+description: "IDF (Organizations) - 16 mentions"
 id: "org-idf"
 type: "ORG"
 aliases:
@@ -12,10 +12,56 @@ _Type: Organizations_
 
 **Also known as:** Israel Defense Forces, Israeli Defense Forces
 
+> **Possibly overlapping entity records:** [Israel Defense Forces](/entities/org-israel-defense-forces). These records share a name or alias; compare their histories before treating either count as complete.
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-idf-t-01-02-48">2025-09-15 · 01:03:26</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-idf-t-00-03-53">2025-12-20 · 00:03:53</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-adJ4LNGp84I.md#ent-org-idf-t-00-44-06">BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246</a> (3 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-idf-t-01-02-48" style="--pulse-height:67%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 2 mentions" title="2025-09-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-org-idf-t-00-08-02" style="--pulse-height:33%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-idf-t-00-44-06" style="--pulse-height:100%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 3 mentions" title="2025-10-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-org-idf-t-00-50-57" style="--pulse-height:33%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-org-idf-t-00-32-20" style="--pulse-height:33%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-idf-t-00-20-40" style="--pulse-height:67%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-idf-t-00-49-32" style="--pulse-height:33%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-idf-t-00-40-43" style="--pulse-height:67%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-org-idf-t-00-41-34" style="--pulse-height:67%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-idf-t-00-03-53" style="--pulse-height:33%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-org-idf-t-01-02-48) | 2 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-org-idf-t-00-08-02) | 1 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-idf-t-00-44-06) | 3 |
+| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-org-idf-t-00-50-57) | 1 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-org-idf-t-00-32-20) | 1 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-idf-t-00-20-40) | 2 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-org-idf-t-00-49-32) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-org-idf-t-00-40-43) | 2 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-idf-t-00-41-34) | 2 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-idf-t-00-03-53) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
@@ -26,10 +72,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (3 mentions)</summary>
-
-**[00:41:49](/episodes/ep-581dILVcEE4.md#ent-org-idf-t-00-41-34)**
-> "IDF soldiers featured in Calvary Chapel magazine"
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
 
 **[00:41:49](/episodes/ep-581dILVcEE4.md#ent-org-idf-t-00-41-34)**
 > "...en more amazing. Here we go. Here we are learning about Christianity. Oh, actually, it's a photo of IDF soldiers wearing yarmulkes coming home. And it has a quotation here that said, "God began to paint ..."
@@ -40,13 +83,10 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (3 mentions)</summary>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (2 mentions)</summary>
 
 **[00:40:43](/episodes/ep-MUA9ebCF4Ow.md#ent-org-idf-t-00-40-43)**
 > "...Other than people saying she works for Marissa Strait, PragerU—who, you know, she's formerly of the IDF Intelligence Unit. I worked for PragerU. I'm not a Mossad honeypot person, so that's not evidence. ..."
-
-**[00:50:54](/episodes/ep-MUA9ebCF4Ow.md#ent-org-idf-t-00-50-50)**
-> "Didn't spot one IDF soldier during my time in Iraq or Afghanistan"
 
 **[00:50:54](/episodes/ep-MUA9ebCF4Ow.md#ent-org-idf-t-00-50-50)**
 > ".... Don't be dumb rights: "Israel isn't even our ally. No treaty to help if attacked. Didn't spot one IDF soldier during my time in Iraq or Afghanistan. Yeah, they don't have enough bodies. They need us. S..."
@@ -130,7 +170,11 @@ _Type: Organizations_
 <summary>Employs (1)</summary>
 
 - **[Marissa Streit](/entities/person-marissa-streit.md)**
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:08:33](/episodes/ep-K5GjF53bfN4.md#t-00-08-02): "Marissa Streit has not always been open about the fact that she worked for the IDF intelligence."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:08:33](/episodes/ep-K5GjF53bfN4.md#t-00-08-02): “Marissa Streit has not always been open about the fact that she worked for the IDF intelligence.”
+
+</details>
 
 </details>
 
@@ -138,7 +182,11 @@ _Type: Organizations_
 <summary>Formerly Employed (1)</summary>
 
 - **[Alexis Wilkins](/entities/person-alexis-wilkins.md)**
-  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:40:43](/episodes/ep-MUA9ebCF4Ow.md#t-00-39-59): "she's formerly of the IDF Intelligence Unit"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:40:43](/episodes/ep-MUA9ebCF4Ow.md#t-00-39-59): “she's formerly of the IDF Intelligence Unit”
+
+</details>
 
 </details>
 
@@ -146,11 +194,19 @@ _Type: Organizations_
 <summary>Referenced By (2)</summary>
 
 - **[Alexis Wilkins](/entities/person-alexis-wilkins.md)** formerly worked for this
-  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:40:43](/episodes/ep-MUA9ebCF4Ow.md#t-00-39-59)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:40:43](/episodes/ep-MUA9ebCF4Ow.md#t-00-39-59): “she's formerly of the IDF Intelligence Unit”
+
+</details>
 
 - **[Marissa Streit](/entities/person-marissa-streit.md)** works for this
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:08:33](/episodes/ep-K5GjF53bfN4.md#t-00-08-02)
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:08:19](/episodes/ep-K5GjF53bfN4.md#t-00-08-02)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:08:33](/episodes/ep-K5GjF53bfN4.md#t-00-08-02): “Marissa Streit has not always been open about the fact that she worked for the IDF intelligence.”
+- [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:08:19](/episodes/ep-K5GjF53bfN4.md#t-00-08-02): “You know, Marissa (Marissa Streit) has not always been open about the fact that she worked for the IDF intelligence.”
+
+</details>
 
 </details>
 

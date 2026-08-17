@@ -1,0 +1,54 @@
+---
+title: "Some items Charlie Kirk was wearing were immediately returne..."
+description: "\"Some items Charlie Kirk was wearing were immediately returned to Erika Kirk rather than retained as evidence.\" — Candace Owens"
+statement_id: "statement-89847e8b961f"
+speaker: "Candace Owens"
+type: "factual_claim"
+veracity: "mixed"
+---
+
+**Status:** ◐ Mixed
+
+## Statement
+
+> Some items Charlie Kirk was wearing were immediately returned to Erika Kirk rather than retained as evidence.
+
+## Attribution
+
+**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Guest)
+
+**Delivery:** Made directly
+
+## About
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Erika Kirk](/entities/person-erika-kirk.md) (person)
+
+## Source
+
+**Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
+**Timestamp:** [02:00:33](/episodes/ep-nPhCKwJ6ye8.md#t-02-00-33) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(7233);return false;">Play</a>
+
+> some of the artifacts that Charlie was wearing were immediately returned to Erika.
+
+## Verification
+
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Current reporting supports that Kirk's cross necklace was released after the SUV was cleared and later held by Erika Kirk. The broader assertion that multiple worn items were immediately returned rather than retained as evidence was not established by the reviewed source.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Charlie Kirk's final moments detailed by mentor Frank Turek](https://www.foxnews.com/us/charlie-kirks-final-moments-emotionally-detailed-mentor-frank-turek-he-jesus-already)
+
+*Verified: 2026-08-16T14:38:03.236067*
+
+---
+
+**Type:** Factual Claim | **Verifiable:** Yes

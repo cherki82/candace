@@ -4,9 +4,10 @@ description: "\"The administration did not voluntarily release the Epstein files
 statement_id: "statement-1eb05d7db07d"
 speaker: "Jared Moskowitz"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -34,7 +35,21 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Congress's official action record shows the Epstein Files Transparency Act passed the House 427-1 and the Senate by unanimous consent, margins sufficient to override a veto. The White House records that President Trump signed H.R. 4405 into law.
+
+**Confidence:** High
+
+**Sources:**
+
+- [H.R. 4405 All Actions](https://www.congress.gov/bill/119th-congress/house-bill/4405/all-actions)
+- [H.R. 4405 Signed Into Law](https://www.whitehouse.gov/briefings-statements/2025/11/congressional-bill-h-r-4405-signed-into-law/)
+
+*Verified: 2026-08-16T11:38:39.255405*
 
 ---
 

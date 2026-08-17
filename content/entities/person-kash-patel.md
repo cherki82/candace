@@ -1,6 +1,6 @@
 ---
 title: "Kash Patel"
-description: "Kash Patel (People) - 128 mentions"
+description: "Kash Patel (People) - 129 mentions"
 id: "person-kash-patel"
 type: "PERSON"
 aliases:
@@ -22,10 +22,104 @@ _Type: People_
 > Official FBI biography confirms canonical name.
 Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-structure/director-patel)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-kash-patel-t-00-08-42">2025-09-17 · 00:09:04</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-kash-patel-t-00-43-52">2026-02-13 · 00:44:00</a></strong></div>
+<div><span>Episodes</span><strong>36</strong></div>
+<div><span>Mentions</span><strong>129</strong></div>
+<div><span>Statements by</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>16</strong></div>
+<div><span>Relationships</span><strong>27</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-kash-patel-t-00-00-46">MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257</a> (13 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-kash-patel-t-00-08-42" style="--pulse-height:15%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 2 mentions" title="2025-09-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-person-kash-patel-t-00-00-44" style="--pulse-height:23%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 3 mentions" title="2025-09-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-kash-patel-t-00-58-45" style="--pulse-height:8%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 1 mentions" title="2025-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-kash-patel-t-00-31-28" style="--pulse-height:15%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 2 mentions" title="2025-09-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-kash-patel-t-00-05-01" style="--pulse-height:8%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-kash-patel-t-00-00-00" style="--pulse-height:31%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 4 mentions" title="2025-10-02 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-person-kash-patel-t-00-38-10" style="--pulse-height:8%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-kash-patel-t-00-37-55" style="--pulse-height:38%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 5 mentions" title="2025-10-09 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-kash-patel-t-01-06-20" style="--pulse-height:15%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-kash-patel-t-00-17-39" style="--pulse-height:69%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 9 mentions" title="2025-10-29 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-kash-patel-t-00-14-18" style="--pulse-height:85%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 11 mentions" title="2025-10-30 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-kash-patel-t-00-25-27" style="--pulse-height:38%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 5 mentions" title="2025-10-31 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-kash-patel-t-00-00-46" style="--pulse-height:100%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 13 mentions" title="2025-11-03 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-kash-patel-t-00-21-03" style="--pulse-height:31%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 4 mentions" title="2025-11-04 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-kash-patel-t-01-01-30" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-kash-patel-t-00-57-54" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-kash-patel-t-00-02-39" style="--pulse-height:8%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-kash-patel-t-00-36-22" style="--pulse-height:69%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 9 mentions" title="2025-11-12 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-kash-patel-t-00-44-34" style="--pulse-height:54%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 7 mentions" title="2025-11-13 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-person-kash-patel-t-00-05-00" style="--pulse-height:38%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 5 mentions" title="2025-11-18 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-kash-patel-t-00-20-55" style="--pulse-height:23%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 3 mentions" title="2025-11-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-person-kash-patel-t-00-48-34" style="--pulse-height:31%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 4 mentions" title="2025-11-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-person-kash-patel-t-00-06-30" style="--pulse-height:46%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 6 mentions" title="2025-11-21 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-person-kash-patel-t-00-48-04" style="--pulse-height:8%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-kash-patel-t-00-00-00" style="--pulse-height:46%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 6 mentions" title="2025-12-08 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-kash-patel-t-00-02-01" style="--pulse-height:62%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 8 mentions" title="2025-12-17 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-kash-patel-t-01-01-19" style="--pulse-height:23%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 3 mentions" title="2025-12-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-kash-patel-t-00-14-17" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-kash-patel-t-00-08-57" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-kash-patel-t-00-18-50" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-kash-patel-t-00-42-16" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-kash-patel-t-00-34-19" style="--pulse-height:8%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-kash-patel-t-00-29-56" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-kash-patel-t-00-24-08" style="--pulse-height:15%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-kash-patel-t-00-43-07" style="--pulse-height:15%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-person-kash-patel-t-00-08-42) | 2 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-person-kash-patel-t-00-00-44) | 3 |
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-person-kash-patel-t-00-58-45) | 1 |
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-person-kash-patel-t-00-31-28) | 2 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-kash-patel-t-00-05-01) | 1 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-kash-patel-t-00-00-00) | 4 |
+| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-person-kash-patel-t-00-38-10) | 1 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-kash-patel-t-00-37-55) | 5 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kash-patel-t-01-06-20) | 2 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-person-kash-patel-t-00-17-39) | 9 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-kash-patel-t-00-14-18) | 11 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-person-kash-patel-t-00-25-27) | 5 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-kash-patel-t-00-00-46) | 13 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-person-kash-patel-t-00-21-03) | 4 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-kash-patel-t-01-01-30) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-kash-patel-t-00-57-54) | 1 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-person-kash-patel-t-00-02-39) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kash-patel-t-00-36-22) | 9 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-kash-patel-t-00-44-34) | 7 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-kash-patel-t-00-05-00) | 5 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-kash-patel-t-00-20-55) | 3 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-kash-patel-t-00-48-34) | 4 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-kash-patel-t-00-06-30) | 6 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-person-kash-patel-t-00-48-04) | 1 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-kash-patel-t-00-00-00) | 6 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-kash-patel-t-00-02-01) | 8 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-person-kash-patel-t-01-01-19) | 3 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-kash-patel-t-00-14-17) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-kash-patel-t-00-08-57) | 1 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-kash-patel-t-00-18-50) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-kash-patel-t-00-42-16) | 1 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-kash-patel-t-00-34-19) | 1 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-kash-patel-t-00-29-56) | 1 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-kash-patel-t-00-24-08) | 2 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-kash-patel-t-00-43-07) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (129)</strong></summary>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2 mentions)</summary>
@@ -586,6 +680,14 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 
 </details>
 
+<details>
+<summary>ep-y8lak3CRwDw (1 mentions)</summary>
+
+**[00:50:30](/episodes/ep-y8lak3CRwDw.md#t-00-50-30)**
+> "...ow it well I mean where is uh Kash Patel from isn't he from Reno or Las Vegas you'll have ..."
+
+</details>
+
 </details>
 
 <details open>
@@ -595,8 +697,12 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <summary>Ceo Of (1)</summary>
 
 - **[FBI](/entities/org-fbi.md)**
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:15:05](/episodes/ep-ja26iltROkM.md#t-00-14-38): "Here, as the Director of the FBI, I am committed to ensuring the investigation into Charlie Kirk's assassination is thorough"
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:08:16](/episodes/ep-Kmt6HgRjckU.md#t-00-08-04): "If there's anything to it, this FBI will respond to it."
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:15:05](/episodes/ep-ja26iltROkM.md#t-00-14-38): “Here, as the Director of the FBI, I am committed to ensuring the investigation into Charlie Kirk's assassination is thorough”
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:08:16](/episodes/ep-Kmt6HgRjckU.md#t-00-08-04): “If there's anything to it, this FBI will respond to it.”
+
+</details>
 
 </details>
 
@@ -604,9 +710,14 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <summary>Appointed (1)</summary>
 
 - **[Robert Bowles](/entities/person-robert-bowles.md)**
-  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:05:17](/episodes/ep-adJ4LNGp84I.md#t-00-05-01): "Kash Patel... cleaned house at the State Bureau. He then installs a person that has a long tenure in DC, Robert Bowles."
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:32:20](/episodes/ep-YA1FxrDWNIo.md#t-00-32-13): "replaced her with Robert Bowles"
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:32](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): "Kash Patel... fired... the chief of the Utah bureau... and replaced her with Robert Bowles"
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+
+- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:05:17](/episodes/ep-adJ4LNGp84I.md#t-00-05-01): “Kash Patel... cleaned house at the State Bureau. He then installs a person that has a long tenure in DC, Robert Bowles.”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:32:20](/episodes/ep-YA1FxrDWNIo.md#t-00-32-13): “replaced her with Robert Bowles”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:32](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): “Kash Patel... fired... the chief of the Utah bureau... and replaced her with Robert Bowles”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:32:13](/episodes/ep-YA1FxrDWNIo.md#t-00-31-28): “He fired the chief—among other people—and replaced her with Robert Bowles in August”
+
+</details>
 
 </details>
 
@@ -614,7 +725,11 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <summary>Criticized (1)</summary>
 
 - **[Anti-Defamation League](/entities/org-anti-defamation-league.md)**
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:00:48](/episodes/ep-t1YtLS1n8Vs.md#t-00-00-42): "Kash Patel wants to distance the feds from the ADL"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:00:48](/episodes/ep-t1YtLS1n8Vs.md#t-00-00-42): “Kash Patel wants to distance the feds from the ADL”
+
+</details>
 
 </details>
 
@@ -622,7 +737,11 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <summary>Dating (1)</summary>
 
 - **[Alexis Wilkins](/entities/person-alexis-wilkins.md)**
-  - [Myron Gaines x Candace Owens @ 01:04:28](/episodes/ep-2T39-oADLj0.md#t-01-04-28): "I think that's way more important is trusting Alexis Wilkins is a sensational singer and to people. uh okay Be careful. i don't She might sue you. want to talk about like the feds right now like they're doing what they have to the more important thing is that this sensational country singer is left alone we are just not a serious nation i mean i think if putin's fbi director or put that out he would just putin would just quietly have him assassinated or something i don't know uh but we are just not a serious nation that is just they are tweeting like girls on tiktok talk right now and it's embarrassing it is so embarrassing he should have been forced to resign trump should have made him resign for embarrassing us because uh there's no way putin's not laughing with his homies right now about that tweet my girlfriend my life partner we are"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Myron Gaines x Candace Owens @ 01:04:28](/episodes/ep-2T39-oADLj0.md#t-01-04-28): “I think that's way more important is trusting Alexis Wilkins is a sensational singer and to people. uh okay Be careful. i don't She might sue you. want to talk about like the feds right now like they're doing what they have to the more important thing is that this sensational country singer is left alone we are just not a serious nation i mean i think if putin's fbi director or put that out he would just putin would just quietly have him assassinated or something i don't know uh but we are just not a serious nation that is just they are tweeting like girls on tiktok talk right now and it's embarrassing it is so embarrassing he should have been forced to resign trump should have made him resign for embarrassing us because uh there's no way putin's not laughing with his homies right now about that tweet my girlfriend my life partner we are”
+
+</details>
 
 </details>
 
@@ -630,10 +749,18 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <summary>Director Of (2)</summary>
 
 - **[FBI](/entities/org-fbi.md)**
-  - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:08:06](/episodes/ep-ozWJz2spBcI.md#t-00-07-35): "she praises the FBI director, Kash Patel"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:08:06](/episodes/ep-ozWJz2spBcI.md#t-00-07-35): “she praises the FBI director, Kash Patel”
+
+</details>
 
 - **[Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)**
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 00:34:22](/episodes/ep-xjzb_t5Tk9o.md#t-00-34-19): "is that I mean Erika (Erika Kirk) is playing a part but there is people who are supposed to serve the American people like the director of an FBI Mr. ... Kash Patel who even before he got into office he said America needs to wake up and prioritize Israel which is a very weird thing to say by"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 00:34:22](/episodes/ep-xjzb_t5Tk9o.md#t-00-34-19): “is that I mean Erika (Erika Kirk) is playing a part but there is people who are supposed to serve the American people like the director of an FBI Mr. ... Kash Patel who even before he got into office he said America needs to wake up and prioritize Israel which is a very weird thing to say by”
+
+</details>
 
 </details>
 
@@ -641,10 +768,18 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <summary>Friend Of (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:49:12](/episodes/ep-YFmRH8p5lt0.md#t-00-48-51): "Kash Patel. Charlie (Charlie Kirk) had him on his show. Kash Patel should be the FBI director. He fought for that. Look how Kash Patel is acting."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:49:12](/episodes/ep-YFmRH8p5lt0.md#t-00-48-51): “Kash Patel. Charlie (Charlie Kirk) had him on his show. Kash Patel should be the FBI director. He fought for that. Look how Kash Patel is acting.”
+
+</details>
 
 - **[Dan Bongino](/entities/person-dan-bongino.md)**
-  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 01:01:23](/episodes/ep-9k2xrAC0H88.md#t-01-01-17): "He was also a friend of Kash Patel's"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 01:01:23](/episodes/ep-9k2xrAC0H88.md#t-01-01-17): “He was also a friend of Kash Patel's”
+
+</details>
 
 </details>
 
@@ -652,7 +787,11 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <summary>Hired (1)</summary>
 
 - **[Robert Bowles](/entities/person-robert-bowles.md)**
-  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:05:19](/episodes/ep-adJ4LNGp84I.md#t-00-05-01): "Kash Patel, I told you, cleaned house at the State Bureau. He then installs a person that has a long tenure in DC, Robert Bowles."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:05:19](/episodes/ep-adJ4LNGp84I.md#t-00-05-01): “Kash Patel, I told you, cleaned house at the State Bureau. He then installs a person that has a long tenure in DC, Robert Bowles.”
+
+</details>
 
 </details>
 
@@ -660,10 +799,18 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <summary>Interviewed By (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:50:32](/episodes/ep-YFmRH8p5lt0.md#t-00-50-18): "Charlie (Charlie Kirk) had him on his show"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:50:32](/episodes/ep-YFmRH8p5lt0.md#t-00-50-18): “Charlie (Charlie Kirk) had him on his show”
+
+</details>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)**
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:07:16](/episodes/ep-Kmt6HgRjckU.md#t-00-07-01): "Kash Patel recently gave an interview to Megyn Kelly"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:07:16](/episodes/ep-Kmt6HgRjckU.md#t-00-07-01): “Kash Patel recently gave an interview to Megyn Kelly”
+
+</details>
 
 </details>
 
@@ -671,10 +818,18 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <summary>Lives In (2)</summary>
 
 - **[Las Vegas](/entities/gpe-las-vegas.md)**
-  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:38:20](/episodes/ep-9k2xrAC0H88.md#t-00-38-03): "Las Vegas, you'll recall, is the home of FBI Director Kash Patel."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:38:20](/episodes/ep-9k2xrAC0H88.md#t-00-38-03): “Las Vegas, you'll recall, is the home of FBI Director Kash Patel.”
+
+</details>
 
 - **[Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)**
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 00:34:39](/episodes/ep-xjzb_t5Tk9o.md#t-00-34-39): "He lives in ... Las Vegas with ... a dude."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 00:34:39](/episodes/ep-xjzb_t5Tk9o.md#t-00-34-39): “He lives in ... Las Vegas with ... a dude.”
+
+</details>
 
 </details>
 
@@ -682,8 +837,12 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <summary>Works For (1)</summary>
 
 - **[FBI](/entities/org-fbi.md)**
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:15:13](/episodes/ep-ja26iltROkM.md#t-00-14-38): "Here, as the Director of the FBI"
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:14:53](/episodes/ep-ja26iltROkM.md#t-00-14-38): "Here, as the Director of the FBI, I am committed to ensuring the investigation into Charlie Kirk's assassination is thorough"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:15:13](/episodes/ep-ja26iltROkM.md#t-00-14-38): “Here, as the Director of the FBI”
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:14:53](/episodes/ep-ja26iltROkM.md#t-00-14-38): “Here, as the Director of the FBI, I am committed to ensuring the investigation into Charlie Kirk's assassination is thorough”
+
+</details>
 
 </details>
 
@@ -691,44 +850,97 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <summary>Referenced By (13)</summary>
 
 - **[Robert Bowles](/entities/person-robert-bowles.md)** appointed by this
-  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:05:17](/episodes/ep-adJ4LNGp84I.md#t-00-05-01)
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:32:20](/episodes/ep-YA1FxrDWNIo.md#t-00-32-13)
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:05:17](/episodes/ep-adJ4LNGp84I.md#t-00-05-01): “Kash Patel... cleaned house at the State Bureau. He then installs a person that has a long tenure in DC, Robert Bowles.”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:32:20](/episodes/ep-YA1FxrDWNIo.md#t-00-32-13): “replaced her with Robert Bowles”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:32](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): “Kash Patel... fired... the chief of the Utah bureau... and replaced her with Robert Bowles”
+
+</details>
 
 - **[Anti-Defamation League](/entities/org-anti-defamation-league.md)** criticized by this
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:00:48](/episodes/ep-t1YtLS1n8Vs.md#t-00-00-42)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:00:48](/episodes/ep-t1YtLS1n8Vs.md#t-00-00-42): “Kash Patel wants to distance the feds from the ADL”
+
+</details>
 
 - **[FBI](/entities/org-fbi.md)** employs this
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:15:13](/episodes/ep-ja26iltROkM.md#t-00-14-38)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:15:13](/episodes/ep-ja26iltROkM.md#t-00-14-38): “Here, as the Director of the FBI”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:49:12](/episodes/ep-YFmRH8p5lt0.md#t-00-48-51)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:49:12](/episodes/ep-YFmRH8p5lt0.md#t-00-48-51): “Kash Patel. Charlie (Charlie Kirk) had him on his show. Kash Patel should be the FBI director. He fought for that. Look how Kash Patel is acting.”
+
+</details>
 
 - **[Dan Bongino](/entities/person-dan-bongino.md)** friend of this
-  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 01:01:23](/episodes/ep-9k2xrAC0H88.md#t-01-01-17)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 01:01:23](/episodes/ep-9k2xrAC0H88.md#t-01-01-17): “He was also a friend of Kash Patel's”
+
+</details>
 
 - **[FBI](/entities/org-fbi.md)** has CEO this
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:15:05](/episodes/ep-ja26iltROkM.md#t-00-14-38)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:15:05](/episodes/ep-ja26iltROkM.md#t-00-14-38): “Here, as the Director of the FBI, I am committed to ensuring the investigation into Charlie Kirk's assassination is thorough”
+
+</details>
 
 - **[FBI](/entities/org-fbi.md)** has director this
-  - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:08:06](/episodes/ep-ozWJz2spBcI.md#t-00-07-35)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:08:06](/episodes/ep-ozWJz2spBcI.md#t-00-07-35): “she praises the FBI director, Kash Patel”
+
+</details>
 
 - **[Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)** has director this
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 00:34:22](/episodes/ep-xjzb_t5Tk9o.md#t-00-34-19)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 00:34:22](/episodes/ep-xjzb_t5Tk9o.md#t-00-34-19): “is that I mean Erika (Erika Kirk) is playing a part but there is people who are supposed to serve the American people like the director of an FBI Mr. ... Kash Patel who even before he got into office he said America needs to wake up and prioritize Israel which is a very weird thing to say by”
+
+</details>
 
 - **[Robert Bowles](/entities/person-robert-bowles.md)** hired by this
-  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:05:19](/episodes/ep-adJ4LNGp84I.md#t-00-05-01)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:05:19](/episodes/ep-adJ4LNGp84I.md#t-00-05-01): “Kash Patel... installs a person that has a long tenure in DC, Robert Bowles.”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** interviewed this
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:50:32](/episodes/ep-YFmRH8p5lt0.md#t-00-50-18)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:50:32](/episodes/ep-YFmRH8p5lt0.md#t-00-50-18): “Charlie (Charlie Kirk) had him on his show”
+
+</details>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)** interviewed this
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:07:16](/episodes/ep-Kmt6HgRjckU.md#t-00-07-01)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:07:16](/episodes/ep-Kmt6HgRjckU.md#t-00-07-01): “Kash Patel recently gave an interview to Megyn Kelly”
+
+</details>
 
 - **[Las Vegas](/entities/gpe-las-vegas.md)** residence of this
-  - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:38:20](/episodes/ep-9k2xrAC0H88.md#t-00-38-03)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:38:20](/episodes/ep-9k2xrAC0H88.md#t-00-38-03): “Las Vegas, you'll recall, is the home of FBI Director Kash Patel.”
+
+</details>
 
 - **[Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)** residence of this
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 00:34:39](/episodes/ep-xjzb_t5Tk9o.md#t-00-34-39)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 00:34:39](/episodes/ep-xjzb_t5Tk9o.md#t-00-34-39): “He lives in ... Las Vegas with ... a dude.”
+
+</details>
 
 </details>
 

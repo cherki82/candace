@@ -1,6 +1,6 @@
 ---
 title: "Thomas Matthew Crooks"
-description: "Thomas Matthew Crooks (People) - 13 mentions"
+description: "Thomas Matthew Crooks (People) - 11 mentions"
 id: "person-thomas-matthew-crooks"
 type: "PERSON"
 aliases:
@@ -11,10 +11,42 @@ _Type: People_
 
 **Also known as:** Thomas Crooks
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-thomas-matthew-crooks-t-00-00-01">2025-09-24 · 00:00:36</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#t-00-51-40">2025-12-01 · 00:51:40</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-thomas-matthew-crooks-t-00-00-01">BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242</a> (7 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-thomas-matthew-crooks-t-00-00-01" style="--pulse-height:100%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 7 mentions" title="2025-09-24 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-thomas-matthew-crooks-t-00-45-48" style="--pulse-height:14%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-person-thomas-matthew-crooks-t-00-30-43" style="--pulse-height:29%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#t-00-51-40" style="--pulse-height:14%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-person-thomas-matthew-crooks-t-00-00-01) | 7 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-thomas-matthew-crooks-t-00-45-48) | 1 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-thomas-matthew-crooks-t-00-30-43) | 2 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#t-00-51-40) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
 
 <details>
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
@@ -44,10 +76,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (9 mentions)</summary>
-
-**[00:00:36](/episodes/ep-QZWSsq8ZWzw.md#ent-person-thomas-matthew-crooks-t-00-00-01)**
-> "do you remember Thomas Matthew Crooks?"
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (7 mentions)</summary>
 
 **[00:00:36](/episodes/ep-QZWSsq8ZWzw.md#ent-person-thomas-matthew-crooks-t-00-00-01)**
 > "... also somewhat related to another explosive story that I have for you today because do you remember Thomas Matthew Crooks? Probably not, because oddly the feds told us that, hey, don't even worry about that 20-year-old wh..."
@@ -60,9 +89,6 @@ _Type: People_
 
 **[00:20:29](/episodes/ep-QZWSsq8ZWzw.md#ent-person-thomas-matthew-crooks-t-00-20-29)**
 > "...e. There's no online history that we can reflect on. What are you talking about? Which brings me to Thomas Matthew Crooks because that's exactly what we were told—or not told—when, on July 13th, 2024, a 20-year-old Thomas..."
-
-**[00:21:34](/episodes/ep-QZWSsq8ZWzw.md#ent-person-thomas-matthew-crooks-t-00-21-12)**
-> "I had been able to scrape everything about Thomas Matthew Crooks before the feds got rid of everything"
 
 **[00:21:34](/episodes/ep-QZWSsq8ZWzw.md#ent-person-thomas-matthew-crooks-t-00-21-12)**
 > ".... I feel it spiritually. And they said, "Look, actually, I had been able to scrape everything about Thomas Matthew Crooks before the feds got rid of everything." And it's shocking what you look at. There is no way this pe..."

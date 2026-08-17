@@ -20,10 +20,46 @@ _Type: Organizations_
 > Official organization source confirms canonical identity and ADL alias.
 Source: [About ADL](https://www.adl.org/about)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-org-anti-defamation-league-t-00-31-25">2025-10-01 · 00:31:45</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-anti-defamation-league-t-00-08-34">2026-02-02 · 00:08:34</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>41</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>13</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-00-00">INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247</a> (29 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-anti-defamation-league-t-00-31-25" style="--pulse-height:10%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 3 mentions" title="2025-10-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-00-00" style="--pulse-height:100%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 29 mentions" title="2025-10-02 · 29 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-org-anti-defamation-league-t-00-22-18" style="--pulse-height:8%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 1 mentions" title="2025-11-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-anti-defamation-league-t-00-19-52" style="--pulse-height:17%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 5 mentions" title="2026-01-12 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-org-anti-defamation-league-t-00-36-37" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-anti-defamation-league-t-00-08-34" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-anti-defamation-league-t-00-31-25) | 3 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-00-00) | 29 |
+| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-org-anti-defamation-league-t-00-22-18) | 1 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-anti-defamation-league-t-00-19-52) | 5 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-anti-defamation-league-t-00-36-37) | 2 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-anti-defamation-league-t-00-08-34) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (41)</strong></summary>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1 mentions)</summary>
@@ -187,13 +223,25 @@ Source: [About ADL](https://www.adl.org/about)
 <summary>Criticized (3)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): "they had listed Charlie Kirk and his organization, TPUSA, to be extremist."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): “they had listed Charlie Kirk and his organization, TPUSA, to be extremist.”
+
+</details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): "they had listed Charlie Kirk and his organization, TPUSA, to be extremist."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): “they had listed Charlie Kirk and his organization, TPUSA, to be extremist.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:11:21](/episodes/ep-t1YtLS1n8Vs.md#t-00-11-19): "Candace Owens is on there though."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:11:21](/episodes/ep-t1YtLS1n8Vs.md#t-00-11-19): “Candace Owens is on there though.”
+
+</details>
 
 </details>
 
@@ -201,7 +249,11 @@ Source: [About ADL](https://www.adl.org/about)
 <summary>Criticized By (1)</summary>
 
 - **[Kash Patel](/entities/person-kash-patel.md)**
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:00:48](/episodes/ep-t1YtLS1n8Vs.md#t-00-00-42): "Kash Patel wants to distance the feds from the ADL"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:00:48](/episodes/ep-t1YtLS1n8Vs.md#t-00-00-42): “Kash Patel wants to distance the feds from the ADL”
+
+</details>
 
 </details>
 
@@ -209,8 +261,12 @@ Source: [About ADL](https://www.adl.org/about)
 <summary>Founded By (1)</summary>
 
 - **[B'nai B'rith](/entities/org-b-nai-b-rith.md)**
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:02](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): "the ADL was born out of a Jewish Freemason organization known as B'nai B'rith."
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:15](/episodes/ep-t1YtLS1n8Vs.md#t-00-00-42): "The ADL was born out of a Jewish Freemason organization known as B'nai B'rith"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:02](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): “the ADL was born out of a Jewish Freemason organization known as B'nai B'rith.”
+- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:15](/episodes/ep-t1YtLS1n8Vs.md#t-00-00-42): “The ADL was born out of a Jewish Freemason organization known as B'nai B'rith”
+
+</details>
 
 </details>
 
@@ -218,7 +274,11 @@ Source: [About ADL](https://www.adl.org/about)
 <summary>Funded By (1)</summary>
 
 - **[Harvey Weinstein](/entities/person-harvey-weinstein.md)**
-  - [Myron Gaines x Candace Owens @ 00:49:36](/episodes/ep-2T39-oADLj0.md#t-00-49-26): "gave millions to the ADL you"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:49:36](/episodes/ep-2T39-oADLj0.md#t-00-49-26): “gave millions to the ADL you”
+
+</details>
 
 </details>
 
@@ -226,25 +286,53 @@ Source: [About ADL](https://www.adl.org/about)
 <summary>Referenced By (7)</summary>
 
 - **[Johnnie Moore](/entities/person-johnnie-moore.md)** affiliated with this
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:21:45](/episodes/ep-CMcktj3Egfo.md#t-00-21-21)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:21:45](/episodes/ep-CMcktj3Egfo.md#t-00-21-21): “So now, you know, I'm involved in the ADL in all kinds of ways, you know, I'm a part of the ADL and Aspen Institute's civil society fellowship,”
+
+</details>
 
 - **[Kash Patel](/entities/person-kash-patel.md)** criticized this
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:00:48](/episodes/ep-t1YtLS1n8Vs.md#t-00-00-42)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:00:48](/episodes/ep-t1YtLS1n8Vs.md#t-00-00-42): “Kash Patel wants to distance the feds from the ADL”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** criticized by this
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): “they had listed Charlie Kirk and his organization, TPUSA, to be extremist.”
+
+</details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** criticized by this
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): “they had listed Charlie Kirk and his organization, TPUSA, to be extremist.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:11:21](/episodes/ep-t1YtLS1n8Vs.md#t-00-11-19)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:11:21](/episodes/ep-t1YtLS1n8Vs.md#t-00-11-19): “Candace Owens is on there though.”
+
+</details>
 
 - **[B'nai B'rith](/entities/org-b-nai-b-rith.md)** founded this
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:02](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:02](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): “the ADL was born out of a Jewish Freemason organization known as B'nai B'rith.”
+
+</details>
 
 - **[Harvey Weinstein](/entities/person-harvey-weinstein.md)** funded this
-  - [Myron Gaines x Candace Owens @ 00:49:36](/episodes/ep-2T39-oADLj0.md#t-00-49-26)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:49:36](/episodes/ep-2T39-oADLj0.md#t-00-49-26): “gave millions to the ADL you”
+
+</details>
 
 </details>
 

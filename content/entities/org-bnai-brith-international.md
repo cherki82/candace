@@ -18,14 +18,44 @@ _Type: Organizations_
 
 **Categories:** Jewish organization, fraternal organization
 
+> **Possibly overlapping entity records:** [B'nai B'rith](/entities/org-b-nai-b-rith). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > Official organization site verifies canonical name and 1843 founding.
 Source: [B'nai B'rith International: organizational history](https://www.bnaibrith.org/news-media/bnai-brith-impact-spring-2021/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-bnai-brith-international-t-00-02-09">2026-02-02 · 00:02:13</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-bnai-brith-international-t-00-43-33">2026-02-03 · 00:44:15</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-bnai-brith-international-t-00-02-09">BAAL SO HARD: The Epstein Files | Candace Ep 300</a> (5 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-bnai-brith-international-t-00-02-09" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 5 mentions" title="2026-02-02 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-bnai-brith-international-t-00-43-33" style="--pulse-height:20%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-bnai-brith-international-t-00-02-09) | 5 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-org-bnai-brith-international-t-00-43-33) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
 
 <details>
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (1 mentions)</summary>
@@ -64,7 +94,11 @@ Source: [B'nai B'rith International: organizational history](https://www.bnaibri
 <summary>Has Member (1)</summary>
 
 - **[Sigmund Freud](/entities/person-sigmund-freud.md)**
-  - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:07:50](/episodes/ep-CEF7gQRWYCE.md#t-00-07-05): "Freud himself was a racist, okay? He was a part, like I said, of the Freemason group in B'nai B'rith,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:07:50](/episodes/ep-CEF7gQRWYCE.md#t-00-07-05): “Freud himself was a racist, okay? He was a part, like I said, of the Freemason group in B'nai B'rith,”
+
+</details>
 
 </details>
 
@@ -72,7 +106,11 @@ Source: [B'nai B'rith International: organizational history](https://www.bnaibri
 <summary>Referenced By (1)</summary>
 
 - **[Sigmund Freud](/entities/person-sigmund-freud.md)** member of this
-  - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:07:50](/episodes/ep-CEF7gQRWYCE.md#t-00-07-05)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:07:50](/episodes/ep-CEF7gQRWYCE.md#t-00-07-05): “Freud himself was a racist, okay? He was a part, like I said, of the Freemason group in B'nai B'rith,”
+
+</details>
 
 </details>
 

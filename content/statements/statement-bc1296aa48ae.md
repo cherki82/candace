@@ -15,7 +15,7 @@ veracity: "true"
 
 ## Attribution
 
-**Speaker:** [The New York Times](/entities/org-new-york-times.md) (Quoted)
+**Speaker:** [The New York Times](/entities/org-the-new-york-times.md) (Quoted)
 
 **Delivery:** Quoted from article
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)

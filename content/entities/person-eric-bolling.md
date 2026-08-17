@@ -1,6 +1,6 @@
 ---
 title: "Eric Bolling"
-description: "Eric Bolling (People) - 12 mentions"
+description: "Eric Bolling (People) - 11 mentions"
 id: "person-eric-bolling"
 type: "PERSON"
 aliases:
@@ -11,10 +11,42 @@ _Type: People_
 
 **Also known as:** Bolling
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-person-eric-bolling-t-00-00-33">2025-09-18 · 00:00:33</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-eric-bolling-t-00-53-46">2025-12-01 · 00:54:03</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-sreYYcID-QY.md#ent-person-eric-bolling-t-00-00-33">EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238</a> (5 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-sreYYcID-QY.md#ent-person-eric-bolling-t-00-00-33" style="--pulse-height:100%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 5 mentions" title="2025-09-18 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-eric-bolling-t-00-20-25" style="--pulse-height:20%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-person-eric-bolling-t-00-28-21" style="--pulse-height:40%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 2 mentions" title="2025-09-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-eric-bolling-t-00-50-56" style="--pulse-height:60%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 3 mentions" title="2025-12-01 · 3 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-person-eric-bolling-t-00-00-33) | 5 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-eric-bolling-t-00-20-25) | 1 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-person-eric-bolling-t-00-28-21) | 2 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-eric-bolling-t-00-50-56) | 3 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
 
 <details>
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (3 mentions)</summary>
@@ -50,10 +82,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (6 mentions)</summary>
-
-**[00:00:33](/episodes/ep-sreYYcID-QY.md#ent-person-eric-bolling-t-00-00-33)**
-> "Eric Bolling is just lying through his teeth on PBD podcast to establish this narrative"
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (5 mentions)</summary>
 
 **[00:00:33](/episodes/ep-sreYYcID-QY.md#ent-person-eric-bolling-t-00-00-33)**
 > "...here's no other way to say it. He's also dropping text messages that prove nothing. And a guy named Eric Bolling is just lying through his teeth on PBD, the PBD podcast, to establish this narrative which, for som..."
@@ -81,7 +110,11 @@ _Type: People_
 <summary>Appeared With (1)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:08:27](/episodes/ep-sreYYcID-QY.md#t-00-08-13): "Andrew Kolvet was there in the room."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:08:27](/episodes/ep-sreYYcID-QY.md#t-00-08-13): “Andrew Kolvet was there in the room.”
+
+</details>
 
 </details>
 
@@ -89,9 +122,13 @@ _Type: People_
 <summary>Board Member Of (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:25:58](/episodes/ep-aDlhjfW6hz8.md#t-00-25-42): "You're on the board of Turning Point? Yeah."
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:39:21](/episodes/ep-sreYYcID-QY.md#t-00-38-58): "You're on the board of Turning Point? Yeah."
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:08:28](/episodes/ep-sreYYcID-QY.md#t-00-08-13): "You're on the board of Turning Point?"
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:25:58](/episodes/ep-aDlhjfW6hz8.md#t-00-25-42): “You're on the board of Turning Point? Yeah.”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:39:21](/episodes/ep-sreYYcID-QY.md#t-00-38-58): “You're on the board of Turning Point? Yeah.”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:08:28](/episodes/ep-sreYYcID-QY.md#t-00-08-13): “You're on the board of Turning Point?”
+
+</details>
 
 </details>
 
@@ -99,9 +136,13 @@ _Type: People_
 <summary>Criticized (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:33](/episodes/ep-sreYYcID-QY.md#t-00-00-00): "a guy named Eric Bolling is just lying through his teeth on PBD, the PBD podcast, to establish this narrative... that I haven't spoken to Charlie Kirk in years."
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:28:54](/episodes/ep-ja26iltROkM.md#t-00-28-21): "Eric Bolling did this. He said—I even... I don't know if he was even sober on that program because he said he hadn't seen me...since 2015."
-  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:23:58](/episodes/ep-aDlhjfW6hz8.md#t-00-23-17): "PBD platformed, without any pushback, Eric Bolling"
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:33](/episodes/ep-sreYYcID-QY.md#t-00-00-00): “a guy named Eric Bolling is just lying through his teeth on PBD, the PBD podcast, to establish this narrative... that I haven't spoken to Charlie Kirk in years.”
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:28:54](/episodes/ep-ja26iltROkM.md#t-00-28-21): “Eric Bolling did this. He said—I even... I don't know if he was even sober on that program because he said he hadn't seen me...since 2015.”
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:23:58](/episodes/ep-aDlhjfW6hz8.md#t-00-23-17): “PBD platformed, without any pushback, Eric Bolling”
+
+</details>
 
 </details>
 
@@ -109,7 +150,11 @@ _Type: People_
 <summary>Interviewed (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:07](/episodes/ep-ja26iltROkM.md#t-00-29-48): "He interviewed me in 2020"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:07](/episodes/ep-ja26iltROkM.md#t-00-29-48): “He interviewed me in 2020”
+
+</details>
 
 </details>
 
@@ -117,7 +162,11 @@ _Type: People_
 <summary>Interviewed By (1)</summary>
 
 - **[Patrick Bet-David](/entities/person-patrick-bet-david.md)**
-  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:20:25](/episodes/ep-aDlhjfW6hz8.md#t-00-19-43): "PBD (Patrick Bet-David)... platformed, without any pushback, Eric Bolling"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:20:25](/episodes/ep-aDlhjfW6hz8.md#t-00-19-43): “PBD (Patrick Bet-David)... platformed, without any pushback, Eric Bolling”
+
+</details>
 
 </details>
 
@@ -125,21 +174,41 @@ _Type: People_
 <summary>Referenced By (5)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** appeared with this
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:08:27](/episodes/ep-sreYYcID-QY.md#t-00-08-13)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:08:27](/episodes/ep-sreYYcID-QY.md#t-00-08-13): “Andrew Kolvet was there in the room.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:33](/episodes/ep-sreYYcID-QY.md#t-00-00-00)
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:07](/episodes/ep-sreYYcID-QY.md#t-00-00-00)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:33](/episodes/ep-sreYYcID-QY.md#t-00-00-00): “a guy named Eric Bolling is just lying through his teeth on PBD, the PBD podcast, to establish this narrative... that I haven't spoken to Charlie Kirk in years.”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:07](/episodes/ep-sreYYcID-QY.md#t-00-00-00): “And a guy named Eric Bolling is just lying through his teeth on PBD, the PBD podcast”
+
+</details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** has board member this
-  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:25:58](/episodes/ep-aDlhjfW6hz8.md#t-00-25-42)
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:39:21](/episodes/ep-sreYYcID-QY.md#t-00-38-58)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:25:58](/episodes/ep-aDlhjfW6hz8.md#t-00-25-42): “You're on the board of Turning Point? Yeah.”
+- [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:39:21](/episodes/ep-sreYYcID-QY.md#t-00-38-58): “You're on the board of Turning Point? Yeah.”
+
+</details>
 
 - **[Patrick Bet-David](/entities/person-patrick-bet-david.md)** interviewed this
-  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:20:25](/episodes/ep-aDlhjfW6hz8.md#t-00-19-43)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:20:25](/episodes/ep-aDlhjfW6hz8.md#t-00-19-43): “PBD (Patrick Bet-David)... platformed, without any pushback, Eric Bolling”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed by this
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:07](/episodes/ep-ja26iltROkM.md#t-00-29-48)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:30:07](/episodes/ep-ja26iltROkM.md#t-00-29-48): “He interviewed me in 2020”
+
+</details>
 
 </details>
 

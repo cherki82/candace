@@ -11,10 +11,38 @@ _Type: People_
 
 **Also known as:** Mamdani
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-person-zohran-mamdani-t-00-00-00">2025-11-05 · 00:00:05</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-52-33">2025-11-08 · 00:52:55</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>27</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-LATnak75Si0.md#ent-person-zohran-mamdani-t-00-00-00">Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259</a> (18 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-zohran-mamdani-t-00-00-00" style="--pulse-height:100%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 18 mentions" title="2025-11-05 · 18 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-04-12" style="--pulse-height:50%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 9 mentions" title="2025-11-08 · 9 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-zohran-mamdani-t-00-00-00) | 18 |
+| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-04-12) | 9 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (27)</strong></summary>
 
 <details>
 <summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (9 mentions)</summary>
@@ -116,7 +144,11 @@ _Type: People_
 <summary>Criticized By (1)</summary>
 
 - **[Bill Ackman](/entities/person-bill-ackman.md)**
-  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:14:40](/episodes/ep-LATnak75Si0.md#t-00-14-30): "Bill Ackman almost personally ran against Mamdani"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:14:40](/episodes/ep-LATnak75Si0.md#t-00-14-30): “Bill Ackman almost personally ran against Mamdani”
+
+</details>
 
 </details>
 
@@ -124,10 +156,18 @@ _Type: People_
 <summary>Ran Against (2)</summary>
 
 - **[New York City](/entities/gpe-new-york-city.md)**
-  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:00:06](/episodes/ep-LATnak75Si0.md#t-00-00-00): "Mamdani won. election for mayor of New York"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:00:06](/episodes/ep-LATnak75Si0.md#t-00-00-00): “Mamdani won. election for mayor of New York”
+
+</details>
 
 - **[Andrew Cuomo](/entities/person-andrew-cuomo.md)**
-  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:14:10](/episodes/ep-LATnak75Si0.md#t-00-13-49): "He won pretty handily against Andrew Cuomo"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:14:10](/episodes/ep-LATnak75Si0.md#t-00-13-49): “He won pretty handily against Andrew Cuomo”
+
+</details>
 
 </details>
 
@@ -135,13 +175,25 @@ _Type: People_
 <summary>Referenced By (3)</summary>
 
 - **[Bill Ackman](/entities/person-bill-ackman.md)** criticized this
-  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:14:40](/episodes/ep-LATnak75Si0.md#t-00-14-30)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:14:40](/episodes/ep-LATnak75Si0.md#t-00-14-30): “Bill Ackman almost personally ran against Mamdani”
+
+</details>
 
 - **[New York City](/entities/gpe-new-york-city.md)** ran against this
-  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:00:06](/episodes/ep-LATnak75Si0.md#t-00-00-00)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:00:06](/episodes/ep-LATnak75Si0.md#t-00-00-00): “Mamdani won. election for mayor of New York”
+
+</details>
 
 - **[Andrew Cuomo](/entities/person-andrew-cuomo.md)** ran against this
-  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:14:10](/episodes/ep-LATnak75Si0.md#t-00-13-49)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:14:10](/episodes/ep-LATnak75Si0.md#t-00-13-49): “He won pretty handily against Andrew Cuomo”
+
+</details>
 
 </details>
 

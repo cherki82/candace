@@ -16,10 +16,46 @@ _Type: People_
 > Britannica confirms the canonical name and public identity.
 Source: [Britney Spears | Biography, Songs, Albums, Documentary, & Facts](https://www.britannica.com/biography/Britney-Spears)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-britney-spears-t-00-00-44">2025-11-15 · 00:00:50</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-person-britney-spears-t-00-40-25">2026-01-20 · 00:40:28</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-britney-spears-t-00-00-44">From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265</a> (16 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-britney-spears-t-00-00-44" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 16 mentions" title="2025-11-15 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-britney-spears-t-00-45-28" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-person-britney-spears-t-00-02-57" style="--pulse-height:8%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-britney-spears-t-00-15-52" style="--pulse-height:12%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 2 mentions" title="2026-01-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-britney-spears-t-00-50-02" style="--pulse-height:12%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-britney-spears-t-00-40-25" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-britney-spears-t-00-00-44) | 16 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-britney-spears-t-00-45-28) | 1 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-person-britney-spears-t-00-02-57) | 1 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-britney-spears-t-00-15-52) | 2 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-britney-spears-t-00-50-02) | 2 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-britney-spears-t-00-40-25) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
 
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
@@ -129,7 +165,11 @@ Source: [Britney Spears | Biography, Songs, Albums, Documentary, & Facts](https:
 <summary>Child Of (1)</summary>
 
 - **[Jamie Spears](/entities/person-jamie-spears.md)**
-  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:06:40](/episodes/ep-7RLtGgkTh9o.md#t-00-06-14): "Lou Taylor is the business manager for Britney Spears' father"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:06:40](/episodes/ep-7RLtGgkTh9o.md#t-00-06-14): “Lou Taylor is the business manager for Britney Spears' father”
+
+</details>
 
 </details>
 
@@ -137,7 +177,11 @@ Source: [Britney Spears | Biography, Songs, Albums, Documentary, & Facts](https:
 <summary>Lives In (1)</summary>
 
 - **[Thousand Oaks, California](/entities/gpe-thousand-oaks-california.md)**
-  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:15:59](/episodes/ep-7RLtGgkTh9o.md#t-00-15-24): "Britney Spears lives in Thousand Oaks, California"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:15:59](/episodes/ep-7RLtGgkTh9o.md#t-00-15-24): “Britney Spears lives in Thousand Oaks, California”
+
+</details>
 
 </details>
 
@@ -145,10 +189,18 @@ Source: [Britney Spears | Biography, Songs, Albums, Documentary, & Facts](https:
 <summary>Referenced By (2)</summary>
 
 - **[Jamie Spears](/entities/person-jamie-spears.md)** parent of this
-  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:06:40](/episodes/ep-7RLtGgkTh9o.md#t-00-06-14)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:06:40](/episodes/ep-7RLtGgkTh9o.md#t-00-06-14): “Lou Taylor is the business manager for Britney Spears' father”
+
+</details>
 
 - **[Thousand Oaks, California](/entities/gpe-thousand-oaks-california.md)** residence of this
-  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:15:59](/episodes/ep-7RLtGgkTh9o.md#t-00-15-24)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:15:59](/episodes/ep-7RLtGgkTh9o.md#t-00-15-24): “Britney Spears lives in Thousand Oaks, California”
+
+</details>
 
 </details>
 

@@ -11,10 +11,38 @@ _Type: Organizations_
 
 **Also known as:** Washington Times
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-washington-times-t-00-49-36">2026-01-09 · 00:49:55</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-org-washington-times-t-00-24-41">2026-01-12 · 00:25:08</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-washington-times-t-00-49-36">The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</a> (5 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-washington-times-t-00-49-36" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 5 mentions" title="2026-01-09 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-washington-times-t-00-24-41" style="--pulse-height:20%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-washington-times-t-00-49-36) | 5 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-washington-times-t-00-24-41) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
 
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1 mentions)</summary>
@@ -53,7 +81,11 @@ _Type: Organizations_
 <summary>Formerly Employed (1)</summary>
 
 - **[Ronald S. Godwin](/entities/person-ronald-s-godwin.md)**
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:25:08](/episodes/ep-CMcktj3Egfo.md#t-00-24-41): "picked Ron Godwin not only just to run the Washington Times for him"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:25:08](/episodes/ep-CMcktj3Egfo.md#t-00-24-41): “picked Ron Godwin not only just to run the Washington Times for him”
+
+</details>
 
 </details>
 
@@ -61,11 +93,19 @@ _Type: Organizations_
 <summary>Owned By (2)</summary>
 
 - **[Unification Church](/entities/org-unification-church.md)**
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:53:49](/episodes/ep-wcD2khO3rOA.md#t-00-53-40): "Of moon's u s holdings, those include the Washington Times"
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:25:08](/episodes/ep-CMcktj3Egfo.md#t-00-24-41): "which I told you they purchased the Washington Times"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:53:49](/episodes/ep-wcD2khO3rOA.md#t-00-53-40): “Of moon's u s holdings, those include the Washington Times”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:25:08](/episodes/ep-CMcktj3Egfo.md#t-00-24-41): “which I told you they purchased the Washington Times”
+
+</details>
 
 - **[News World Communications](/entities/org-news-world-communications.md)**
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:06:24](/episodes/ep-wcD2khO3rOA.md#t-01-06-16): "News World Communications, which is a parent company of the money-losing Washington Times"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:06:24](/episodes/ep-wcD2khO3rOA.md#t-01-06-16): “News World Communications, which is a parent company of the money-losing Washington Times”
+
+</details>
 
 </details>
 
@@ -73,14 +113,26 @@ _Type: Organizations_
 <summary>Referenced By (3)</summary>
 
 - **[Ronald S. Godwin](/entities/person-ronald-s-godwin.md)** formerly worked for this
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:25:08](/episodes/ep-CMcktj3Egfo.md#t-00-24-41)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:25:08](/episodes/ep-CMcktj3Egfo.md#t-00-24-41): “picked Ron Godwin not only just to run the Washington Times for him”
+
+</details>
 
 - **[Unification Church](/entities/org-unification-church.md)** owns this
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:53:49](/episodes/ep-wcD2khO3rOA.md#t-00-53-40)
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:25:08](/episodes/ep-CMcktj3Egfo.md#t-00-24-41)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:53:49](/episodes/ep-wcD2khO3rOA.md#t-00-53-40): “Of moon's u s holdings, those include the Washington Times”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:25:08](/episodes/ep-CMcktj3Egfo.md#t-00-24-41): “which I told you they purchased the Washington Times”
+
+</details>
 
 - **[News World Communications](/entities/org-news-world-communications.md)** owns this
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:06:24](/episodes/ep-wcD2khO3rOA.md#t-01-06-16)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:06:24](/episodes/ep-wcD2khO3rOA.md#t-01-06-16): “News World Communications, which is a parent company of the money-losing Washington Times”
+
+</details>
 
 </details>
 

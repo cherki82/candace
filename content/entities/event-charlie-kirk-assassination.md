@@ -1,6 +1,6 @@
 ---
 title: "Charlie Kirk assassination"
-description: "Charlie Kirk assassination (Events) - 234 mentions"
+description: "Charlie Kirk assassination (Events) - 232 mentions"
 id: "event-charlie-kirk-assassination"
 type: "EVENT"
 aliases:
@@ -14,10 +14,114 @@ _Type: Events_
 
 **Also known as:** Charlie assassination, Charlie Kirk's murder, Charlie Kirk's assassination, assassination of Charlie Kirk
 
+> **Possibly overlapping entity records:** [Assassination of Charlie Kirk](/entities/event-assassination-charlie-kirk). These records share a name or alias; compare their histories before treating either count as complete.
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-event-charlie-kirk-assassination-t-00-36-02">2025-09-15 · 00:24:03</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#t-00-45-12">2025-12-20 · 00:45:41</a></strong></div>
+<div><span>Episodes</span><strong>39</strong></div>
+<div><span>Mentions</span><strong>232</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>116</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-his-JBjlkh8.md#t-00-00-00">BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273</a> (19 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-event-charlie-kirk-assassination-t-00-36-02" style="--pulse-height:21%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 4 mentions" title="2025-09-15 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#t-00-42-35" style="--pulse-height:8%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#t-00-10-23" style="--pulse-height:47%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 9 mentions" title="2025-09-18 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-event-charlie-kirk-assassination-t-00-34-12" style="--pulse-height:32%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 6 mentions" title="2025-09-19 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#t-00-15-13" style="--pulse-height:32%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 6 mentions" title="2025-09-22 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#t-00-00-00" style="--pulse-height:16%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 3 mentions" title="2025-09-23 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-event-charlie-kirk-assassination-t-00-00-01" style="--pulse-height:26%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 5 mentions" title="2025-09-24 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#t-00-09-14" style="--pulse-height:11%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 2 mentions" title="2025-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZGxnf5cj4Uw.md#t-00-00-00" style="--pulse-height:16%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 3 mentions" title="2025-09-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#t-00-02-13" style="--pulse-height:32%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 6 mentions" title="2025-09-30 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#t-00-02-54" style="--pulse-height:26%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 5 mentions" title="2025-10-01 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#t-00-00-00" style="--pulse-height:21%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 4 mentions" title="2025-10-02 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#t-00-04-58" style="--pulse-height:37%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 7 mentions" title="2025-10-06 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#t-00-24-12" style="--pulse-height:37%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 7 mentions" title="2025-10-07 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#t-00-01-27" style="--pulse-height:26%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 5 mentions" title="2025-10-08 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-event-charlie-kirk-assassination-t-00-15-29" style="--pulse-height:26%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 5 mentions" title="2025-10-29 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#t-00-00-00" style="--pulse-height:26%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 5 mentions" title="2025-10-30 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#t-00-00-00" style="--pulse-height:47%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 9 mentions" title="2025-10-31 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#t-00-07-32" style="--pulse-height:8%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-event-charlie-kirk-assassination-t-00-01-25" style="--pulse-height:16%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 3 mentions" title="2025-11-04 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#t-01-00-48" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-event-charlie-kirk-assassination-t-00-05-43" style="--pulse-height:32%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 6 mentions" title="2025-11-06 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#t-00-00-00" style="--pulse-height:37%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 7 mentions" title="2025-11-10 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#t-00-01-51" style="--pulse-height:16%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 3 mentions" title="2025-11-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#t-00-27-59" style="--pulse-height:11%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 2 mentions" title="2025-11-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#t-00-00-44" style="--pulse-height:32%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 6 mentions" title="2025-11-15 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#t-00-05-44" style="--pulse-height:37%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 7 mentions" title="2025-11-17 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#t-00-03-33" style="--pulse-height:63%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 12 mentions" title="2025-11-18 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#t-00-00-00" style="--pulse-height:32%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 6 mentions" title="2025-11-19 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#t-00-00-39" style="--pulse-height:42%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 8 mentions" title="2025-11-20 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#t-00-00-00" style="--pulse-height:53%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 10 mentions" title="2025-11-21 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#t-00-00-57" style="--pulse-height:89%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 17 mentions" title="2025-12-01 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#t-00-14-05" style="--pulse-height:47%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 9 mentions" title="2025-12-02 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#t-00-00-00" style="--pulse-height:100%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 19 mentions" title="2025-12-03 · 19 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-event-charlie-kirk-assassination-t-00-19-27" style="--pulse-height:11%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#t-00-00-00" style="--pulse-height:68%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 13 mentions" title="2025-12-05 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-event-charlie-kirk-assassination-t-00-00-00" style="--pulse-height:26%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 5 mentions" title="2025-12-08 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-event-charlie-kirk-assassination-t-00-02-01" style="--pulse-height:8%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#t-00-45-12" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-event-charlie-kirk-assassination-t-00-36-02) | 4 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#t-00-42-35) | 1 |
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#t-00-10-23) | 9 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-event-charlie-kirk-assassination-t-00-34-12) | 6 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#t-00-15-13) | 6 |
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#t-00-00-00) | 3 |
+| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-event-charlie-kirk-assassination-t-00-00-01) | 5 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#t-00-09-14) | 2 |
+| 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#t-00-00-00) | 3 |
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#t-00-02-13) | 6 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#t-00-02-54) | 5 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#t-00-00-00) | 4 |
+| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#t-00-04-58) | 7 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#t-00-24-12) | 7 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#t-00-01-27) | 5 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-event-charlie-kirk-assassination-t-00-15-29) | 5 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#t-00-00-00) | 5 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#t-00-00-00) | 9 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#t-00-07-32) | 1 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-event-charlie-kirk-assassination-t-00-01-25) | 3 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#t-01-00-48) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-event-charlie-kirk-assassination-t-00-05-43) | 6 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#t-00-00-00) | 7 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#t-00-01-51) | 3 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#t-00-27-59) | 2 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#t-00-00-44) | 6 |
+| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#t-00-05-44) | 7 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#t-00-03-33) | 12 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#t-00-00-00) | 6 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#t-00-00-39) | 8 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#t-00-00-00) | 10 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#t-00-00-57) | 17 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#t-00-14-05) | 9 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#t-00-00-00) | 19 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-event-charlie-kirk-assassination-t-00-19-27) | 2 |
+| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#t-00-00-00) | 13 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-event-charlie-kirk-assassination-t-00-00-00) | 5 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-event-charlie-kirk-assassination-t-00-02-01) | 1 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#t-00-45-12) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (232)</strong></summary>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1 mentions)</summary>
@@ -111,10 +215,7 @@ _Type: Events_
 </details>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (20 mentions)</summary>
-
-**[00:00:25](/episodes/ep-his-JBjlkh8.md#t-00-00-00)**
-> "the public and global investigation of Charlie's assassination"
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (19 mentions)</summary>
 
 **[00:00:25](/episodes/ep-his-JBjlkh8.md#t-00-00-00)**
 > "...e in which they wildly misrepresent the public and global investigation of Charlie (Charlie Kirk)'s assassination, they at long last issued a public invitation or a challenge. I'm not sure what it is, but I accept..."
@@ -774,10 +875,7 @@ _Type: Events_
 </details>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (6 mentions)</summary>
-
-**[00:00:17](/episodes/ep-QZWSsq8ZWzw.md#ent-event-charlie-kirk-assassination-t-00-00-01)**
-> "10 days prior to Charlie Kirk's assassination"
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (5 mentions)</summary>
 
 **[00:00:17](/episodes/ep-QZWSsq8ZWzw.md#ent-event-charlie-kirk-assassination-t-00-00-01)**
 > "...t this overwhelming sense of doom that came over me about 10 days prior to Charlie (Charlie Kirk)'s assassination. The story's kind of unbelievable, but I think it's important to share—especially with the way that..."
@@ -922,13 +1020,25 @@ _Type: Events_
 <summary>Hosted Speaker (3)</summary>
 
 - **[Frank Turek](/entities/person-frank-turek.md)**
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:55:34](/episodes/ep-ja26iltROkM.md#t-00-55-02): "He gave the speech that he wanted to give, and nothing in my research has come up about—thus far has come up about—Frank Turek"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:55:34](/episodes/ep-ja26iltROkM.md#t-00-55-02): “He gave the speech that he wanted to give, and nothing in my research has come up about—thus far has come up about—Frank Turek”
+
+</details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:02:17](/episodes/ep-ja26iltROkM.md#t-00-02-10): "They should watch Tucker Carlson's speech"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:02:17](/episodes/ep-ja26iltROkM.md#t-00-02-10): “They should watch Tucker Carlson's speech”
+
+</details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:00:06](/episodes/ep-ja26iltROkM.md#t-00-00-00): "The speech that she gave—everybody was just wowed by her"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:00:06](/episodes/ep-ja26iltROkM.md#t-00-00-00): “The speech that she gave—everybody was just wowed by her”
+
+</details>
 
 </details>
 
@@ -936,7 +1046,11 @@ _Type: Events_
 <summary>Interviewed By (1)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)**
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:03:19](/episodes/ep-YFmRH8p5lt0.md#t-00-02-47): "Obviously, he's very close to Charlie (Charlie Kirk) when his shooting happens."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:03:19](/episodes/ep-YFmRH8p5lt0.md#t-00-02-47): “Obviously, he's very close to Charlie (Charlie Kirk) when his shooting happens.”
+
+</details>
 
 </details>
 
@@ -944,16 +1058,32 @@ _Type: Events_
 <summary>Referenced By (4)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** interviewed this
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:03:19](/episodes/ep-YFmRH8p5lt0.md#t-00-02-47)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:03:19](/episodes/ep-YFmRH8p5lt0.md#t-00-02-47): “Obviously, he's very close to Charlie (Charlie Kirk) when his shooting happens.”
+
+</details>
 
 - **[Frank Turek](/entities/person-frank-turek.md)** spoke at this
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:55:34](/episodes/ep-ja26iltROkM.md#t-00-55-02)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:55:34](/episodes/ep-ja26iltROkM.md#t-00-55-02): “He gave the speech that he wanted to give, and nothing in my research has come up about—thus far has come up about—Frank Turek”
+
+</details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** spoke at this
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:02:17](/episodes/ep-ja26iltROkM.md#t-00-02-10)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:02:17](/episodes/ep-ja26iltROkM.md#t-00-02-10): “They should watch Tucker Carlson's speech”
+
+</details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** spoke at this
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:00:06](/episodes/ep-ja26iltROkM.md#t-00-00-00)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:00:06](/episodes/ep-ja26iltROkM.md#t-00-00-00): “The speech that she gave—everybody was just wowed by her”
+
+</details>
 
 </details>
 

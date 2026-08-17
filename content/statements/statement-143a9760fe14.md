@@ -25,7 +25,7 @@ veracity: "true"
 - [Karl Buckman](/entities/person-karl-buckman.md) (person)
 - [Nelda Yaw Buckman](/entities/person-nelda-yaw-buckman.md) (person)
 - [Turning Point USA](/entities/org-turning-point-usa.md) (org)
-- [The Daily Wire](/entities/org-daily-wire.md) (org)
+- [The Daily Wire](/entities/org-the-daily-wire.md) (org)
 
 ## Source
 

@@ -1,25 +1,70 @@
 ---
 title: "Otto Busher III"
-description: "Otto Busher III (People) - 4 mentions"
+description: "Otto Busher III (People) - 8 mentions"
 id: "person-otto-busher-iii"
 type: "PERSON"
 aliases:
   - "Colonel Otto Busher III"
   - "Colonel Otto Busher"
   - "Colonel Busher"
+categories:
+  - "United States Army officer"
+  - "Romania military deployment"
 ---
 
 _Type: People_
 
 **Also known as:** Colonel Otto Busher III, Colonel Otto Busher, Colonel Busher
 
+**Categories:** United States Army officer, Romania military deployment
+
 **Entity verification:** verified
-> Name normalized after review; the episode attributes unproven allegations to him and those claims require separate verification.
+> Washington Post identifies Otto Albert Busher III as a U.S. Army Corps of Engineers lieutenant colonel; corroborating professional biography identifies his later Romania garrison command. Transcript spelling 'Buescher' is an ASR/name variant of Busher.
+Source: [Billion-Dollar Start Falls Short in Iraq](https://www.washingtonpost.com/archive/politics/2006/04/16/billion-dollar-start-falls-short-in-iraq-span-classbankheadus-officials-worry-about-leaving-baghdad-without-basic-servicesspan/d7dd7198-d72e-4949-9b52-0f9d3a235caa/)
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-otto-busher-iii-t-00-11-27">2026-01-09 · 00:11:27</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#t-00-28-30">2026-03-03 · 00:28:49</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>1</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-otto-busher-iii-t-00-11-27">The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</a> (4 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-otto-busher-iii-t-00-11-27" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 4 mentions" title="2026-01-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#t-00-28-30" style="--pulse-height:50%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 2 mentions" title="2026-03-03 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-otto-busher-iii-t-00-11-27) | 4 |
+| 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#t-00-28-30) | 2 |
+
+</details>
+</section>
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (2 mentions)</summary>
+
+**[00:28:37](/episodes/ep-2tFYJf1klgY.md#t-00-28-30)**
+> "The reality is that Colonel Otto Buescher is going to be accused of running a brothel and a human trafficking ring from 2010, the very year that this was established, all the way through to 2015."
+
+**[00:28:49](/episodes/ep-2tFYJf1klgY.md#t-00-28-30)**
+> "Yes, Erica (Erika Kirk) will come into contact with Colonel Otto Buescher. We're not going to focus on that today because the more important thing I'd like to introduce to you is Tyler (Tyler Bowyer)."
+
+</details>
 
 <details>
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (4 mentions)</summary>
@@ -38,6 +83,17 @@ _Type: People_
 
 </details>
 
+<details>
+<summary>ep-y8lak3CRwDw (2 mentions)</summary>
+
+**[00:30:42](/episodes/ep-y8lak3CRwDw.md#t-00-30-42)**
+> "...working. Working with Colonel Otto Busher III."
+
+**[00:30:51](/episodes/ep-y8lak3CRwDw.md#t-00-30-51)**
+> "... And yes, this is the Colonel Otto Busher III who will be accused of running a brothel, of traf..."
+
+</details>
+
 </details>
 
 <details open>
@@ -47,14 +103,28 @@ _Type: People_
 <summary>Referenced By (1)</summary>
 
 - **[Romanian Angels Project](/entities/org-romanian-angels-project.md)** worked with this
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:11:27](/episodes/ep-wcD2khO3rOA.md#t-00-10-47)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:11:27](/episodes/ep-wcD2khO3rOA.md#t-00-10-47): “it is a fact that they worked with at that time Colonel Otto Busher III.”
+
+</details>
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Otto Busher III (2)</strong></summary>
+<summary><strong class="section-title">Statements about Otto Busher III (4)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (2)</summary>
+
+- [00:28:37](/episodes/ep-2tFYJf1klgY.md#t-00-28-30) (Accusation) **Candace Owens**: ["Colonel Otto Buescher was accused of running a brothel and human-traff..."](/statements/statement-94139db35c98.md)
+
+- [00:28:49](/episodes/ep-2tFYJf1klgY.md#t-00-28-30) (Claim) **Candace Owens**: ["Erika Kirk came into contact with Colonel Otto Buescher."](/statements/statement-c3eef5212da7.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (2)</summary>

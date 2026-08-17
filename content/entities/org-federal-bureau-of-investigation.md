@@ -1,6 +1,6 @@
 ---
 title: "Federal Bureau of Investigation"
-description: "Federal Bureau of Investigation (Organizations) - 30 mentions"
+description: "Federal Bureau of Investigation (Organizations) - 40 mentions"
 id: "org-federal-bureau-of-investigation"
 type: "ORG"
 aliases:
@@ -16,14 +16,112 @@ _Type: Organizations_
 
 **Categories:** United States government, law enforcement
 
+> **Possibly overlapping entity records:** [FBI](/entities/org-fbi). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > Official agency page confirms the canonical name and acronym.
 Source: [About - FBI](https://www.fbi.gov/about)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-federal-bureau-of-investigation-t-00-14-17">2026-01-05 · 00:14:50</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-federal-bureau-of-investigation-t-00-49-34">2026-03-02 · 00:49:44</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>40</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>24</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-federal-bureau-of-investigation-t-00-07-01">A Legal Turning Point? | Candace Ep 292</a> (7 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-federal-bureau-of-investigation-t-00-14-17" style="--pulse-height:29%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-federal-bureau-of-investigation-t-00-08-14" style="--pulse-height:14%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-federal-bureau-of-investigation-t-00-42-37" style="--pulse-height:14%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-org-federal-bureau-of-investigation-t-00-18-50" style="--pulse-height:57%" aria-label="Myron Gaines x Candace Owens: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-federal-bureau-of-investigation-t-00-07-01" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 7 mentions" title="2026-01-19 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-federal-bureau-of-investigation-t-00-36-04" style="--pulse-height:14%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-federal-bureau-of-investigation-t-00-34-40" style="--pulse-height:43%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-org-federal-bureau-of-investigation-t-00-46-05" style="--pulse-height:14%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-federal-bureau-of-investigation-t-00-14-45" style="--pulse-height:71%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 5 mentions" title="2026-02-02 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-federal-bureau-of-investigation-t-00-03-40" style="--pulse-height:14%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-federal-bureau-of-investigation-t-00-38-16" style="--pulse-height:14%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-federal-bureau-of-investigation-t-00-30-37" style="--pulse-height:43%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 3 mentions" title="2026-02-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-federal-bureau-of-investigation-t-00-07-03" style="--pulse-height:29%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-federal-bureau-of-investigation-t-00-10-40" style="--pulse-height:86%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 6 mentions" title="2026-02-28 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-federal-bureau-of-investigation-t-00-49-34" style="--pulse-height:14%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-federal-bureau-of-investigation-t-00-14-17) | 2 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-federal-bureau-of-investigation-t-00-08-14) | 1 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-federal-bureau-of-investigation-t-00-42-37) | 1 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-federal-bureau-of-investigation-t-00-18-50) | 4 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-federal-bureau-of-investigation-t-00-07-01) | 7 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-federal-bureau-of-investigation-t-00-36-04) | 1 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-federal-bureau-of-investigation-t-00-34-40) | 3 |
+| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-federal-bureau-of-investigation-t-00-46-05) | 1 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-federal-bureau-of-investigation-t-00-14-45) | 5 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-org-federal-bureau-of-investigation-t-00-03-40) | 1 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-org-federal-bureau-of-investigation-t-00-38-16) | 1 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-federal-bureau-of-investigation-t-00-30-37) | 3 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-org-federal-bureau-of-investigation-t-00-07-03) | 2 |
+| 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-federal-bureau-of-investigation-t-00-10-40) | 6 |
+| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-org-federal-bureau-of-investigation-t-00-49-34) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1 mentions)</summary>
+
+**[00:49:44](/episodes/ep-jTj9Ip46r4w.md#ent-org-federal-bureau-of-investigation-t-00-49-34)**
+> "...u need to listen to this. The FBI has been warning homeowners about a type of real ..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (6 mentions)</summary>
+
+**[00:10:56](/episodes/ep-cZxHqYsWRYg.md#ent-org-federal-bureau-of-investigation-t-00-10-40)**
+> "...bout the conversation and the FBI was looped in."
+
+**[00:11:21](/episodes/ep-cZxHqYsWRYg.md#ent-org-federal-bureau-of-investigation-t-00-11-21)**
+> "The FBI soon arrested both men. Oh, okay. Sister wore a w..."
+
+**[00:11:51](/episodes/ep-cZxHqYsWRYg.md#ent-org-federal-bureau-of-investigation-t-00-11-21)**
+> "...y Erpenbeck) also targeted an FBI agent's children. He told a would-be hitman to bu..."
+
+**[00:12:04](/episodes/ep-cZxHqYsWRYg.md#ent-org-federal-bureau-of-investigation-t-00-12-04)**
+> "...nbeck and wore a wire for the FBI."
+
+**[00:15:19](/episodes/ep-cZxHqYsWRYg.md#ent-org-federal-bureau-of-investigation-t-00-14-54)**
+> "...e, the U.S. attorney, and the FBI agent's children."
+
+**[00:17:25](/episodes/ep-cZxHqYsWRYg.md#ent-org-federal-bureau-of-investigation-t-00-17-25)**
+> "...back in the news in 2009 when FBI agents dug up a cooler full of cash from Summit H..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (2 mentions)</summary>
+
+**[00:07:25](/episodes/ep-ZAsV0fHGBiM.md#ent-org-federal-bureau-of-investigation-t-00-07-03)**
+> "...o be a suspect if not for the FBI's terrible mistakes,"
+
+**[00:48:50](/episodes/ep-ZAsV0fHGBiM.md#ent-org-federal-bureau-of-investigation-t-00-48-15)**
+> "...to listen to this because the FBI has been warning homeowners about a type of real ..."
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (3 mentions)</summary>
@@ -175,6 +273,14 @@ Source: [About - FBI](https://www.fbi.gov/about)
 
 </details>
 
+<details>
+<summary>ep-y8lak3CRwDw (1 mentions)</summary>
+
+**[00:50:30](/episodes/ep-y8lak3CRwDw.md#t-00-50-30)**
+> "...ndedly better than the entire FBI and they know it well I mean where is uh Kash Pat..."
+
+</details>
+
 </details>
 
 <details open>
@@ -184,7 +290,11 @@ Source: [About - FBI](https://www.fbi.gov/about)
 <summary>Formerly Employed (1)</summary>
 
 - **[Greg Shaffer](/entities/person-greg-shaffer.md)**
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:11:37](/episodes/ep-NIEbqsLAK8g.md#t-00-11-11): "He also is from Dallas, Texas, working for the FBI on the elite Hostage Rescue Team. He was a supervisor on the Dallas Joint Terrorism Task Force."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Legal Turning Point? | Candace Ep 292 @ 00:11:37](/episodes/ep-NIEbqsLAK8g.md#t-00-11-11): “He also is from Dallas, Texas, working for the FBI on the elite Hostage Rescue Team. He was a supervisor on the Dallas Joint Terrorism Task Force.”
+
+</details>
 
 </details>
 
@@ -192,7 +302,11 @@ Source: [About - FBI](https://www.fbi.gov/about)
 <summary>Has Director (1)</summary>
 
 - **[Kash Patel](/entities/person-kash-patel.md)**
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 00:34:22](/episodes/ep-xjzb_t5Tk9o.md#t-00-34-19): "is that I mean Erika (Erika Kirk) is playing a part but there is people who are supposed to serve the American people like the director of an FBI Mr. ... Kash Patel who even before he got into office he said America needs to wake up and prioritize Israel which is a very weird thing to say by"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 00:34:22](/episodes/ep-xjzb_t5Tk9o.md#t-00-34-19): “is that I mean Erika (Erika Kirk) is playing a part but there is people who are supposed to serve the American people like the director of an FBI Mr. ... Kash Patel who even before he got into office he said America needs to wake up and prioritize Israel which is a very weird thing to say by”
+
+</details>
 
 </details>
 
@@ -200,17 +314,39 @@ Source: [About - FBI](https://www.fbi.gov/about)
 <summary>Referenced By (2)</summary>
 
 - **[Kash Patel](/entities/person-kash-patel.md)** director of this
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 00:34:22](/episodes/ep-xjzb_t5Tk9o.md#t-00-34-19)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 00:34:22](/episodes/ep-xjzb_t5Tk9o.md#t-00-34-19): “is that I mean Erika (Erika Kirk) is playing a part but there is people who are supposed to serve the American people like the director of an FBI Mr. ... Kash Patel who even before he got into office he said America needs to wake up and prioritize Israel which is a very weird thing to say by”
+
+</details>
 
 - **[Greg Shaffer](/entities/person-greg-shaffer.md)** formerly worked for this
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:11:37](/episodes/ep-NIEbqsLAK8g.md#t-00-11-11)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Legal Turning Point? | Candace Ep 292 @ 00:11:37](/episodes/ep-NIEbqsLAK8g.md#t-00-11-11): “He also is from Dallas, Texas, working for the FBI on the elite Hostage Rescue Team. He was a supervisor on the Dallas Joint Terrorism Task Force.”
+
+</details>
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Federal Bureau of Investigation (21)</strong></summary>
+<summary><strong class="section-title">Statements about Federal Bureau of Investigation (24)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (3)</summary>
+
+- [00:10:56](/episodes/ep-cZxHqYsWRYg.md#t-00-10-40) (Citation) **Candace Owens**: ["Lori Ann Erpenbeck told her lawyer that Tony Erpenbeck offered money t..."](/statements/statement-25baa798a75c.md)
+  - Also about: [Lori Ann Erpenbeck](/entities/person-lori-ann-erpenbeck.md), [Anthony Erpenbeck Sr.](/entities/person-anthony-erpenbeck-sr.md), [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr.md)
+
+- [00:11:29](/episodes/ep-cZxHqYsWRYg.md#t-00-11-21) (Citation) **Candace Owens**: ["Tony Erpenbeck tried from federal prison to hire someone to murder a f..."](/statements/statement-a44cdfdbb3f2.md)
+  - Also about: [Anthony Erpenbeck Sr.](/entities/person-anthony-erpenbeck-sr.md), [S. Arthur Spiegel](/entities/person-s-arthur-spiegel.md), [Kathleen Brinkman](/entities/person-kathleen-brinkman.md)
+
+- [00:17:25](/episodes/ep-cZxHqYsWRYg.md#t-00-17-01) (Claim) **Anonymous Source #1 (Ep cZxHqYsWRYg)** (via quoted speech): ["In 2009 FBI agents recovered a cooler of cash buried at Summit Hills C..."](/statements/statement-4dda7f080dbb.md)
+  - Also about: [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr.md), [Summit Hills Country Club](/entities/org-summit-hills-country-club.md), [Crestview Hills, Kentucky](/entities/gpe-crestview-hills-kentucky.md)
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (2)</summary>

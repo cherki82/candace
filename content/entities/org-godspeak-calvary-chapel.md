@@ -7,10 +7,36 @@ type: "ORG"
 
 _Type: Organizations_
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-godspeak-calvary-chapel-t-00-13-27">2025-11-04 · 00:13:34</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-godspeak-calvary-chapel-t-00-13-27">2025-11-04 · 00:13:34</a></strong></div>
+<div><span>Episodes</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>9</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-godspeak-calvary-chapel-t-00-13-27">EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258</a> (1 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-godspeak-calvary-chapel-t-00-13-27" style="--pulse-height:100%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-org-godspeak-calvary-chapel-t-00-13-27) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (1)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
@@ -29,7 +55,11 @@ _Type: Organizations_
 <summary>Based In (1)</summary>
 
 - **[Thousand Oaks, California](/entities/gpe-thousand-oaks-california.md)**
-  - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:34](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27): "Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel in Thousand Oaks, California."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:34](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27): “Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel in Thousand Oaks, California.”
+
+</details>
 
 </details>
 
@@ -37,7 +67,11 @@ _Type: Organizations_
 <summary>Employs (1)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)**
-  - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:34](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27): "Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel in Thousand Oaks, California."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:34](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27): “Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel in Thousand Oaks, California.”
+
+</details>
 
 </details>
 
@@ -45,7 +79,11 @@ _Type: Organizations_
 <summary>Has Investor (1)</summary>
 
 - **[Wilks Brothers](/entities/person-wilks-brothers.md)**
-  - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:44](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27): "because I didn't know that he was funded; his church was funded by the Wilks Brothers down in Texas."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:44](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27): “because I didn't know that he was funded; his church was funded by the Wilks Brothers down in Texas.”
+
+</details>
 
 </details>
 
@@ -53,7 +91,11 @@ _Type: Organizations_
 <summary>Has Pastor (1)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)**
-  - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:14:33](/episodes/ep-Qfwr08Ebczo.md#t-00-14-10): "Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:14:33](/episodes/ep-Qfwr08Ebczo.md#t-00-14-10): “Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel”
+
+</details>
 
 </details>
 
@@ -61,7 +103,11 @@ _Type: Organizations_
 <summary>Investor Includes (1)</summary>
 
 - **[Wilks Brothers](/entities/person-wilks-brothers.md)**
-  - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:44](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27): "because I didn't know that he was funded; his church was funded by the Wilks Brothers down in Texas."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:44](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27): “because I didn't know that he was funded; his church was funded by the Wilks Brothers down in Texas.”
+
+</details>
 
 </details>
 
@@ -69,16 +115,32 @@ _Type: Organizations_
 <summary>Referenced By (4)</summary>
 
 - **[Wilks Brothers](/entities/person-wilks-brothers.md)** invested in this
-  - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:44](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:44](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27): “because I didn't know that he was funded; his church was funded by the Wilks Brothers down in Texas.”
+
+</details>
 
 - **[Thousand Oaks, California](/entities/gpe-thousand-oaks-california.md)** location of this
-  - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:34](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:34](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27): “Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel in Thousand Oaks, California.”
+
+</details>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** pastor of this
-  - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:14:33](/episodes/ep-Qfwr08Ebczo.md#t-00-14-10)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:14:33](/episodes/ep-Qfwr08Ebczo.md#t-00-14-10): “Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel”
+
+</details>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** works for this
-  - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:34](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:34](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27): “Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel in Thousand Oaks, California.”
+
+</details>
 
 </details>
 

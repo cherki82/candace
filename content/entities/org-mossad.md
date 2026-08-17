@@ -1,6 +1,6 @@
 ---
 title: "Mossad"
-description: "Mossad (Organizations) - 57 mentions"
+description: "Mossad (Organizations) - 56 mentions"
 id: "org-mossad"
 type: "ORG"
 aliases:
@@ -20,10 +20,76 @@ _Type: Organizations_
 > The agency’s official site confirms the canonical short name Mossad and describes it as Israel’s intelligence agency.
 Source: [Mossad | Home](https://www.mossad.gov.il/en)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-mossad-t-00-29-49">2025-09-15 · 00:30:12</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-mossad-t-00-57-03">2026-02-02 · 00:57:03</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>56</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>20</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-mossad-t-00-19-18">BAAL SO HARD: The Epstein Files | Candace Ep 300</a> (10 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-mossad-t-00-29-49" style="--pulse-height:20%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 2 mentions" title="2025-09-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-org-mossad-t-00-51-57" style="--pulse-height:10%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-mossad-t-01-05-15" style="--pulse-height:10%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-org-mossad-t-00-38-34" style="--pulse-height:20%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 2 mentions" title="2025-09-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-mossad-t-00-44-47" style="--pulse-height:10%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-org-mossad-t-00-29-05" style="--pulse-height:20%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 2 mentions" title="2025-10-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-mossad-t-00-10-24" style="--pulse-height:70%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 7 mentions" title="2025-11-12 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-mossad-t-00-14-40" style="--pulse-height:20%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 2 mentions" title="2025-11-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-mossad-t-00-07-24" style="--pulse-height:10%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-mossad-t-00-35-20" style="--pulse-height:10%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-mossad-t-00-01-46" style="--pulse-height:30%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 3 mentions" title="2025-12-08 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-org-mossad-t-00-00-00" style="--pulse-height:20%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 2 mentions" title="2025-12-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-mossad-t-00-11-03" style="--pulse-height:20%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-mossad-t-00-19-05" style="--pulse-height:30%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 3 mentions" title="2025-12-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-mossad-t-00-48-07" style="--pulse-height:30%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-mossad-t-00-31-49" style="--pulse-height:10%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-mossad-t-00-13-05" style="--pulse-height:10%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-mossad-t-00-04-06" style="--pulse-height:10%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-mossad-t-00-13-07" style="--pulse-height:80%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 8 mentions" title="2026-01-29 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-org-mossad-t-00-50-31" style="--pulse-height:10%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-mossad-t-00-19-18" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 10 mentions" title="2026-02-02 · 10 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-org-mossad-t-00-29-49) | 2 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-org-mossad-t-00-51-57) | 1 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-org-mossad-t-01-05-15) | 1 |
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-org-mossad-t-00-38-34) | 2 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-mossad-t-00-44-47) | 1 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-org-mossad-t-00-29-05) | 2 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-org-mossad-t-00-10-24) | 7 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-mossad-t-00-14-40) | 2 |
+| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-org-mossad-t-00-07-24) | 1 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-mossad-t-00-35-20) | 1 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-org-mossad-t-00-01-46) | 3 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-org-mossad-t-00-00-00) | 2 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-mossad-t-00-11-03) | 2 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-mossad-t-00-19-05) | 3 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-mossad-t-00-48-07) | 3 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-mossad-t-00-31-49) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-mossad-t-00-13-05) | 1 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-mossad-t-00-04-06) | 1 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-mossad-t-00-13-07) | 8 |
+| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-mossad-t-00-50-31) | 1 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-mossad-t-00-19-18) | 10 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (56)</strong></summary>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (10 mentions)</summary>
@@ -172,10 +238,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (4 mentions)</summary>
-
-**[00:01:46](/episodes/ep-Kmt6HgRjckU.md#ent-org-mossad-t-00-01-46)**
-> "In the JFK files, Mossad is mentioned"
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (3 mentions)</summary>
 
 **[00:01:46](/episodes/ep-Kmt6HgRjckU.md#ent-org-mossad-t-00-01-46)**
 > "In the JFK files, Mossad is mentioned."
@@ -307,10 +370,18 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <summary>Formerly Employed (2)</summary>
 
 - **[Viktor Ostrovsky](/entities/person-viktor-ostrovsky.md)**
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:27:48](/episodes/ep-xjzb_t5Tk9o.md#t-01-27-19): "And there is a book by a Mossad agent called Viktor Ostrovsky."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:27:48](/episodes/ep-xjzb_t5Tk9o.md#t-01-27-19): “And there is a book by a Mossad agent called Viktor Ostrovsky.”
+
+</details>
 
 - **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)**
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:28:44](/episodes/ep-xjzb_t5Tk9o.md#t-01-28-44): "But Viktor Ostrovsky also was on camera speaking about how Jeffrey Epstein worked for them. ... except the Mossad agent who literally came out and said that he was working for the Mossad and the other Mossad agent as well who came out and said he was working for the Mossad but there's no evidence I love when they just say there's no evidence that's one of my favorite lies there's no evidence just because you keep saying there's no evidence does not make it so but they believe if they just keep saying the same thing over and over again it will eventually become the truth"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:28:44](/episodes/ep-xjzb_t5Tk9o.md#t-01-28-44): “But Viktor Ostrovsky also was on camera speaking about how Jeffrey Epstein worked for them. ... except the Mossad agent who literally came out and said that he was working for the Mossad and the other Mossad agent as well who came out and said he was working for the Mossad but there's no evidence I love when they just say there's no evidence that's one of my favorite lies there's no evidence just because you keep saying there's no evidence does not make it so but they believe if they just keep saying the same thing over and over again it will eventually become the truth”
+
+</details>
 
 </details>
 
@@ -318,10 +389,18 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <summary>Referenced By (2)</summary>
 
 - **[Viktor Ostrovsky](/entities/person-viktor-ostrovsky.md)** formerly worked for this
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:27:48](/episodes/ep-xjzb_t5Tk9o.md#t-01-27-19)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:27:48](/episodes/ep-xjzb_t5Tk9o.md#t-01-27-19): “And there is a book by a Mossad agent called Viktor Ostrovsky.”
+
+</details>
 
 - **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)** formerly worked for this
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:28:44](/episodes/ep-xjzb_t5Tk9o.md#t-01-28-44)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:28:44](/episodes/ep-xjzb_t5Tk9o.md#t-01-28-44): “But Viktor Ostrovsky also was on camera speaking about how Jeffrey Epstein worked for them. ... except the Mossad agent who literally came out and said that he was working for the Mossad and the other Mossad agent as well who came out and said he was working for the Mossad but there's no evidence I love when they just say there's no evidence that's one of my favorite lies there's no evidence just because you keep saying there's no evidence does not make it so but they believe if they just keep saying the same thing over and over again it will eventually become the truth”
+
+</details>
 
 </details>
 

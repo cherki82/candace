@@ -4,9 +4,10 @@ description: "\"Kash Patel testified that the FBI had no criminal evidence Epste
 statement_id: "statement-3d79e5904e4e"
 speaker: "Jared Moskowitz"
 type: "accusation"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -34,7 +35,21 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Official testimony confirms Patel said the FBI found no credible, chargeable evidence that Epstein trafficked victims to other people, while DOJ records establish more than 250 victims, multiple locations, and co-conspirator/network evidence. The 'worldwide ring' material does not by itself directly refute Patel's narrower chargeable-evidence formulation.
+
+**Confidence:** High
+
+**Sources:**
+
+- [FBI Oversight Hearing Transcript](https://www.congress.gov/119/chrg/CHRG-119hhrg61655/CHRG-119hhrg61655.pdf)
+- [DOJ Releases First Phase of Declassified Epstein Files](https://www.justice.gov/opa/pr/attorney-general-pamela-bondi-releases-first-phase-declassified-epstein-files)
+
+*Verified: 2026-08-16T11:38:39.403817*
 
 ---
 

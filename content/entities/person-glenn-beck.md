@@ -15,10 +15,58 @@ _Type: People_
 > Official website confirms canonical public name.
 Source: [Glenn Beck official website](https://www.glennbeck.com/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-glenn-beck-t-00-07-38">2025-09-23 · 00:07:44</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-glenn-beck-t-00-38-03">2026-02-13 · 00:38:19</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>29</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-glenn-beck-t-00-16-17">Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279</a> (8 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-glenn-beck-t-00-07-38" style="--pulse-height:12%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 1 mentions" title="2025-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-glenn-beck-t-00-08-45" style="--pulse-height:25%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 2 mentions" title="2025-11-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-glenn-beck-t-00-16-17" style="--pulse-height:100%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 8 mentions" title="2025-12-12 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-glenn-beck-t-00-05-30" style="--pulse-height:25%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 2 mentions" title="2025-12-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-glenn-beck-t-00-35-11" style="--pulse-height:12%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-glenn-beck-t-00-16-42" style="--pulse-height:50%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 4 mentions" title="2026-01-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-person-glenn-beck-t-00-14-50" style="--pulse-height:12%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-glenn-beck-t-00-12-05" style="--pulse-height:12%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-glenn-beck-t-00-23-11" style="--pulse-height:12%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-glenn-beck-t-00-13-40" style="--pulse-height:12%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-glenn-beck-t-00-04-14" style="--pulse-height:50%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 4 mentions" title="2026-02-11 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-glenn-beck-t-00-32-42" style="--pulse-height:38%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 3 mentions" title="2026-02-13 · 3 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-person-glenn-beck-t-00-07-38) | 1 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-person-glenn-beck-t-00-08-45) | 2 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-person-glenn-beck-t-00-16-17) | 8 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-glenn-beck-t-00-05-30) | 2 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-glenn-beck-t-00-35-11) | 1 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-glenn-beck-t-00-16-42) | 4 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-glenn-beck-t-00-14-50) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-glenn-beck-t-00-12-05) | 1 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-glenn-beck-t-00-23-11) | 1 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-glenn-beck-t-00-13-40) | 1 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-glenn-beck-t-00-04-14) | 4 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-glenn-beck-t-00-32-42) | 3 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (29)</strong></summary>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (3 mentions)</summary>
@@ -176,8 +224,12 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 <summary>Funded (1)</summary>
 
 - **[Operation Underground Railroad](/entities/org-operation-underground-railroad.md)**
-  - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:35:39](/episodes/ep-HYn0P-P1wUw.md#t-00-35-11): "Tim Ballard, he used to run Operation Underground Railroad because he had gotten donation and support from Glenn Beck. back for Operation Underground Railroad."
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:15:20](/episodes/ep-X92MllIHDzw.md#t-00-14-50): "how Phil Lyman went to see him the next day. Glenn Beck had funded that Operation Underground, which for Tim Ballard ended in scandal without question."
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:35:39](/episodes/ep-HYn0P-P1wUw.md#t-00-35-11): “Tim Ballard, he used to run Operation Underground Railroad because he had gotten donation and support from Glenn Beck. back for Operation Underground Railroad.”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:15:20](/episodes/ep-X92MllIHDzw.md#t-00-14-50): “how Phil Lyman went to see him the next day. Glenn Beck had funded that Operation Underground, which for Tim Ballard ended in scandal without question.”
+
+</details>
 
 </details>
 
@@ -185,12 +237,20 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 <summary>Interviewed (2)</summary>
 
 - **[Steve Baker](/entities/person-steve-baker.md)**
-  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:08:35](/episodes/ep-YaZfwLQ7vrI.md#t-00-08-05): "listen to Glenn Beck, who is interviewing Steve Baker"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:08:35](/episodes/ep-YaZfwLQ7vrI.md#t-00-08-05): “listen to Glenn Beck, who is interviewing Steve Baker”
+
+</details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:17:14](/episodes/ep-6J6lRZPQ4jk.md#t-00-17-02): "Erika also sat down with Glenn (Glenn Beck) (Glenn Beck) of Blaze TV."
-  - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:04:14](/episodes/ep-hWTdXHGQ8R4.md#t-00-04-14): "Well, then fast forward to December 12th. And as a part of her Shabbat Shalom PR blitz, she conducted her very first interview from Charlie (Charlie Kirk)'s home office. She gave an interview to Glenn Beck."
-  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:38:19](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03): "as she told Glenn Beck"
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:17:14](/episodes/ep-6J6lRZPQ4jk.md#t-00-17-02): “Erika also sat down with Glenn (Glenn Beck) (Glenn Beck) of Blaze TV.”
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:04:14](/episodes/ep-hWTdXHGQ8R4.md#t-00-04-14): “Well, then fast forward to December 12th. And as a part of her Shabbat Shalom PR blitz, she conducted her very first interview from Charlie (Charlie Kirk)'s home office. She gave an interview to Glenn Beck.”
+- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:38:19](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03): “as she told Glenn Beck”
+
+</details>
 
 </details>
 
@@ -198,16 +258,30 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 <summary>Referenced By (3)</summary>
 
 - **[Operation Underground Railroad](/entities/org-operation-underground-railroad.md)** funded by this
-  - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:35:39](/episodes/ep-HYn0P-P1wUw.md#t-00-35-11)
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:15:20](/episodes/ep-X92MllIHDzw.md#t-00-14-50)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:35:39](/episodes/ep-HYn0P-P1wUw.md#t-00-35-11): “Tim Ballard, he used to run Operation Underground Railroad because he had gotten donation and support from Glenn Beck. back for Operation Underground Railroad.”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:15:20](/episodes/ep-X92MllIHDzw.md#t-00-14-50): “how Phil Lyman went to see him the next day. Glenn Beck had funded that Operation Underground, which for Tim Ballard ended in scandal without question.”
+
+</details>
 
 - **[Steve Baker](/entities/person-steve-baker.md)** interviewed by this
-  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:08:35](/episodes/ep-YaZfwLQ7vrI.md#t-00-08-05)
-  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:08:45](/episodes/ep-YaZfwLQ7vrI.md#t-00-08-05)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:08:35](/episodes/ep-YaZfwLQ7vrI.md#t-00-08-05): “listen to Glenn Beck, who is interviewing Steve Baker”
+- [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:08:45](/episodes/ep-YaZfwLQ7vrI.md#t-00-08-05): “Glenn Beck interviewing Steve Baker about the pipe bomb discovery”
+
+</details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** interviewed by this
-  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:17:14](/episodes/ep-6J6lRZPQ4jk.md#t-00-17-02)
-  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:05:48](/episodes/ep-es7PWdFGoFI.md#t-00-05-30)
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:17:14](/episodes/ep-6J6lRZPQ4jk.md#t-00-17-02): “Erika also sat down with Glenn (Glenn Beck) (Glenn Beck) of Blaze TV.”
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:05:48](/episodes/ep-es7PWdFGoFI.md#t-00-05-30): “We, Erika sat down with Glenn. I actually missed this portion because I didn't get to watch the interview in its entirety.”
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:04:14](/episodes/ep-hWTdXHGQ8R4.md#t-00-04-14): “Well, then fast forward to December 12th. And as a part of her Shabbat Shalom PR blitz, she conducted her very first interview from Charlie (Charlie Kirk)'s home office. She gave an interview to Glenn Beck.”
+- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:38:19](/episodes/ep-1hcjQGgvxUY.md#t-00-38-03): “as she told Glenn Beck”
+
+</details>
 
 </details>
 

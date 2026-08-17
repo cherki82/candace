@@ -7,10 +7,19 @@ type: "ANONYMOUS_SOURCE"
 
 _Type: Anonymous Sources_
 
+<div class="entity-summary-grid">
+<div><span>Episodes</span><strong>0</strong></div>
+<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (1)</strong></summary>
 
 </details>
 
@@ -21,7 +30,11 @@ _Type: Anonymous Sources_
 <summary>Accused (1)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
-  - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:26](/episodes/ep-zSKrxIUMNqw.md#t-00-48-11): "And one person told me on record. that he would also offer bribes to people,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:26](/episodes/ep-zSKrxIUMNqw.md#t-00-48-11): “And one person told me on record. that he would also offer bribes to people,”
+
+</details>
 
 </details>
 
@@ -29,7 +42,11 @@ _Type: Anonymous Sources_
 <summary>Referenced By (1)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** accused by this
-  - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:26](/episodes/ep-zSKrxIUMNqw.md#t-00-48-11)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:26](/episodes/ep-zSKrxIUMNqw.md#t-00-48-11): “And one person told me on record. that he would also offer bribes to people,”
+
+</details>
 
 </details>
 

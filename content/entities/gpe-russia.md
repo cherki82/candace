@@ -1,20 +1,114 @@
 ---
 title: "Russia"
-description: "Russia (Places) - 31 mentions"
+description: "Russia (Places) - 36 mentions"
 id: "gpe-russia"
 type: "GPE"
 aliases:
   - "Russian"
+categories:
+  - "Eastern Europe and Northern Asia"
 ---
 
 _Type: Places_
 
 **Also known as:** Russian
 
+**Categories:** Eastern Europe and Northern Asia
+
+**Entity verification:** verified
+> The United Nations member-state register confirms the formal name Russian Federation; Russia is the established short English name used in the episode.
+Source: [United Nations Member States](https://www.un.org/en/about-us/member-states)
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-russia-t-00-00-01">2025-09-16 · 00:00:27</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-52">2026-08-14 · 03:39:52</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>36</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-russia-t-00-48-18">INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256</a> (7 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-russia-t-00-00-01" style="--pulse-height:14%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-gpe-russia-t-00-36-02" style="--pulse-height:14%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-russia-t-00-18-55" style="--pulse-height:71%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 5 mentions" title="2025-10-01 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-russia-t-00-37-57" style="--pulse-height:14%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-gpe-russia-t-00-51-40" style="--pulse-height:14%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-russia-t-00-48-18" style="--pulse-height:100%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 7 mentions" title="2025-10-31 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-gpe-russia-t-00-35-50" style="--pulse-height:57%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 4 mentions" title="2025-11-03 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-gpe-russia-t-00-26-26" style="--pulse-height:14%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-russia-t-00-12-26" style="--pulse-height:14%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-russia-t-00-06-34" style="--pulse-height:29%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 2 mentions" title="2025-12-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-russia-t-00-42-29" style="--pulse-height:29%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-russia-t-00-13-24" style="--pulse-height:57%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 4 mentions" title="2025-12-08 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-russia-t-00-43-07" style="--pulse-height:14%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-russia-t-01-05-08" style="--pulse-height:14%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-russia-t-00-29-57" style="--pulse-height:29%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-45" style="--pulse-height:29%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-gpe-russia-t-00-00-01) | 1 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-gpe-russia-t-00-36-02) | 1 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-gpe-russia-t-00-18-55) | 5 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-russia-t-00-37-57) | 1 |
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-gpe-russia-t-00-51-40) | 1 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-russia-t-00-48-18) | 7 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-russia-t-00-35-50) | 4 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-gpe-russia-t-00-26-26) | 1 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-russia-t-00-12-26) | 1 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-russia-t-00-06-34) | 2 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-russia-t-00-42-29) | 2 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-russia-t-00-13-24) | 4 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-russia-t-00-43-07) | 1 |
+| 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-russia-t-01-05-08) | 1 |
+| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-russia-t-00-29-57) | 2 |
+| 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-45) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (36)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
+
+**[03:39:45](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-45)**
+> "...ve signal. Telegram I used in Russia."
+
+**[03:39:52](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-52)**
+> "Russia."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (2 mentions)</summary>
+
+**[00:29:57](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-russia-t-00-29-57)**
+> "... reality is that in 1881, the Russian Tsar was assassinated by a Jewish revolutionary g..."
+
+**[00:32:26](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-russia-t-00-31-57)**
+> "...o was radicalized by a Jewish Russian immigrant named Emma Goldman."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (1 mentions)</summary>
+
+**[01:05:34](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-russia-t-01-05-08)**
+> "...elling you this is why i like russia i just feel like in russia when you go on youtube..."
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
@@ -180,5 +274,21 @@ _Type: Places_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Russia (2)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (2)</summary>
+
+- [00:29:57](/episodes/ep-jTj9Ip46r4w.md#t-00-29-57) (Claim) **Candace Owens**: ["The Russian Tsar was assassinated in 1881 by a Jewish revolutionary ga..."](/statements/statement-66da5feb5798.md)
+  - Also about: [Pale of Settlement](/entities/gpe-pale-of-settlement.md), [Judaism](/entities/concept-judaism.md)
+
+- [00:31:17](/episodes/ep-jTj9Ip46r4w.md#t-00-31-17) (Claim) **Candace Owens**: ["There is no evidence that the Jewish revolutionaries associated with t..."](/statements/statement-d70a499c2236.md)
+  - Also about: [Italy](/entities/gpe-italy.md), [United States](/entities/gpe-united-states.md), [Europe](/entities/gpe-europe.md)
+
+</details>
 
 </details>

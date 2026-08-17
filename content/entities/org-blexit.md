@@ -1,6 +1,6 @@
 ---
 title: "Blexit"
-description: "Blexit (Organizations) - 12 mentions"
+description: "Blexit (Organizations) - 11 mentions"
 id: "org-blexit"
 type: "ORG"
 aliases:
@@ -12,16 +12,43 @@ _Type: Organizations_
 
 **Also known as:** Blexit Foundation, Black Exit
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-blexit-t-00-16-36">2025-09-11 · 00:17:05</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-blexit-t-00-55-08">2025-11-06 · 00:55:39</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-blexit-t-00-03-31">Charlie Ripped A Hole In Reality | Candace Ep 253</a> (7 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-_dRaEO47-co.md#ent-org-blexit-t-00-16-36" style="--pulse-height:29%" aria-label="To My Friend, Charlie Kirk.: 2 mentions" title="2025-09-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-blexit-t-00-03-31" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 7 mentions" title="2025-10-28 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-blexit-t-00-55-08" style="--pulse-height:29%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-11 | [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md#ent-org-blexit-t-00-16-36) | 2 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-blexit-t-00-03-31) | 7 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-org-blexit-t-00-55-08) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
 
 <details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (3 mentions)</summary>
-
-**[00:55:29](/episodes/ep-vwG1juDCQZQ.md#ent-org-blexit-t-00-55-08)**
-> "business arrangement with Blexit"
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (2 mentions)</summary>
 
 **[00:55:29](/episodes/ep-vwG1juDCQZQ.md#ent-org-blexit-t-00-55-08)**
 > "...A's business arrangement with Blexit.""
@@ -77,7 +104,11 @@ _Type: Organizations_
 <summary>Founded By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [To My Friend, Charlie Kirk. @ 00:17:05](/episodes/ep-_dRaEO47-co.md#t-00-16-36): "Charlie was right by my side when I started Blexit, obviously."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [To My Friend, Charlie Kirk. @ 00:17:05](/episodes/ep-_dRaEO47-co.md#t-00-16-36): “Charlie was right by my side when I started Blexit, obviously.”
+
+</details>
 
 </details>
 
@@ -85,7 +116,11 @@ _Type: Organizations_
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** founded this
-  - [To My Friend, Charlie Kirk. @ 00:17:05](/episodes/ep-_dRaEO47-co.md#t-00-16-36)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [To My Friend, Charlie Kirk. @ 00:17:05](/episodes/ep-_dRaEO47-co.md#t-00-16-36): “Charlie was right by my side when I started Blexit, obviously.”
+
+</details>
 
 </details>
 

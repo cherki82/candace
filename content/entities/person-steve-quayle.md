@@ -20,10 +20,36 @@ _Type: People_
 > The subject's official site identifies Steve Quayle and notes the formal variant Stephen Quayle.
 Source: [About Steve Quayle](https://www.stevequayle.com/index.php?s=28)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-steve-quayle-t-00-14-29">2026-02-04 · 00:14:35</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-steve-quayle-t-00-14-29">2026-02-04 · 00:14:35</a></strong></div>
+<div><span>Episodes</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-steve-quayle-t-00-14-29">REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302</a> (1 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-steve-quayle-t-00-14-29" style="--pulse-height:100%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-steve-quayle-t-00-14-29) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (1)</strong></summary>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1 mentions)</summary>
@@ -42,7 +68,11 @@ Source: [About Steve Quayle](https://www.stevequayle.com/index.php?s=28)
 <summary>Appeared With (1)</summary>
 
 - **[Thomas R. Horn](/entities/person-tom-horn.md)**
-  - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:14:35](/episodes/ep-DYD_QHMPwqM.md#t-00-14-29): "I heard a recent interview with Tom Horn and Steve Quayle talking on Omega Man Radio"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:14:35](/episodes/ep-DYD_QHMPwqM.md#t-00-14-29): “I heard a recent interview with Tom Horn and Steve Quayle talking on Omega Man Radio”
+
+</details>
 
 </details>
 
@@ -50,7 +80,11 @@ Source: [About Steve Quayle](https://www.stevequayle.com/index.php?s=28)
 <summary>Interviewed By (1)</summary>
 
 - **[OMEGAMAN Radio](/entities/org-omega-man-radio.md)**
-  - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:14:35](/episodes/ep-DYD_QHMPwqM.md#t-00-14-29): "I heard a recent interview with Tom Horn and Steve Quayle talking on Omega Man Radio"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:14:35](/episodes/ep-DYD_QHMPwqM.md#t-00-14-29): “I heard a recent interview with Tom Horn and Steve Quayle talking on Omega Man Radio”
+
+</details>
 
 </details>
 
@@ -58,10 +92,18 @@ Source: [About Steve Quayle](https://www.stevequayle.com/index.php?s=28)
 <summary>Referenced By (2)</summary>
 
 - **[Thomas R. Horn](/entities/person-tom-horn.md)** appeared with this
-  - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:14:35](/episodes/ep-DYD_QHMPwqM.md#t-00-14-29)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:14:35](/episodes/ep-DYD_QHMPwqM.md#t-00-14-29): “I heard a recent interview with Tom Horn and Steve Quayle talking on Omega Man Radio”
+
+</details>
 
 - **[OMEGAMAN Radio](/entities/org-omega-man-radio.md)** interviewed this
-  - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:14:35](/episodes/ep-DYD_QHMPwqM.md#t-00-14-29)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:14:35](/episodes/ep-DYD_QHMPwqM.md#t-00-14-29): “I heard a recent interview with Tom Horn and Steve Quayle talking on Omega Man Radio”
+
+</details>
 
 </details>
 

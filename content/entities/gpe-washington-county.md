@@ -7,10 +7,42 @@ type: "GPE"
 
 _Type: Places_
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#t-00-06-59">2025-09-16 · 00:07:05</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-washington-county-t-00-42-04">2025-11-20 · 00:42:04</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-gpe-washington-county-t-00-09-49">They Are Lying About Tyler Robinson. | Candace Ep 244</a> (4 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-q7f8r-THr84.md#t-00-06-59" style="--pulse-height:50%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 2 mentions" title="2025-09-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-gpe-washington-county-t-00-28-30" style="--pulse-height:50%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 2 mentions" title="2025-09-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-gpe-washington-county-t-00-09-49" style="--pulse-height:100%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 4 mentions" title="2025-09-29 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-washington-county-t-00-40-42" style="--pulse-height:100%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 4 mentions" title="2025-11-20 · 4 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#t-00-06-59) | 2 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-washington-county-t-00-28-30) | 2 |
+| 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-gpe-washington-county-t-00-09-49) | 4 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-washington-county-t-00-40-42) | 4 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
 
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (4 mentions)</summary>
@@ -77,7 +109,11 @@ _Type: Places_
 <summary>Employs (1)</summary>
 
 - **[Mike Mitchell](/entities/person-mike-mitchell.md)**
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:20:11](/episodes/ep-ZGxnf5cj4Uw.md#t-00-20-04): "Today we celebrated the career of Detective Mike Mitchell. After over 24 years of serving, 24 years, Washington County"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:20:11](/episodes/ep-ZGxnf5cj4Uw.md#t-00-20-04): “Today we celebrated the career of Detective Mike Mitchell. After over 24 years of serving, 24 years, Washington County”
+
+</details>
 
 </details>
 
@@ -85,7 +121,11 @@ _Type: Places_
 <summary>Formerly Employed (1)</summary>
 
 - **[Mike Mitchell](/entities/person-mike-mitchell.md)**
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:20:11](/episodes/ep-ZGxnf5cj4Uw.md#t-00-20-04): "After over 24 years of serving Washington County, he is retiring"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:20:11](/episodes/ep-ZGxnf5cj4Uw.md#t-00-20-04): “After over 24 years of serving Washington County, he is retiring”
+
+</details>
 
 </details>
 
@@ -93,7 +133,11 @@ _Type: Places_
 <summary>Has Sheriff (1)</summary>
 
 - **[Nate Brooksby](/entities/person-nate-brooksby.md)**
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:20:18](/episodes/ep-ZGxnf5cj4Uw.md#t-00-20-04): "Sheriff Brooksby and Detective Mitchell both had some wonderful stories to share"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:20:18](/episodes/ep-ZGxnf5cj4Uw.md#t-00-20-04): “Sheriff Brooksby and Detective Mitchell both had some wonderful stories to share”
+
+</details>
 
 </details>
 
@@ -101,13 +145,25 @@ _Type: Places_
 <summary>Referenced By (3)</summary>
 
 - **[Mike Mitchell](/entities/person-mike-mitchell.md)** formerly worked for this
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:20:11](/episodes/ep-ZGxnf5cj4Uw.md#t-00-20-04)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:20:11](/episodes/ep-ZGxnf5cj4Uw.md#t-00-20-04): “After over 24 years of serving Washington County, he is retiring”
+
+</details>
 
 - **[Nate Brooksby](/entities/person-nate-brooksby.md)** sheriff of this
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:20:18](/episodes/ep-ZGxnf5cj4Uw.md#t-00-20-04)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:20:18](/episodes/ep-ZGxnf5cj4Uw.md#t-00-20-04): “Sheriff Brooksby and Detective Mitchell both had some wonderful stories to share”
+
+</details>
 
 - **[Mike Mitchell](/entities/person-mike-mitchell.md)** works for this
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:20:11](/episodes/ep-ZGxnf5cj4Uw.md#t-00-20-04)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:20:11](/episodes/ep-ZGxnf5cj4Uw.md#t-00-20-04): “Today we celebrated the career of Detective Mike Mitchell. After over 24 years of serving, 24 years, Washington County”
+
+</details>
 
 </details>
 

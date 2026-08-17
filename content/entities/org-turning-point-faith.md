@@ -18,14 +18,52 @@ _Type: Organizations_
 
 **Categories:** Turning Point USA affiliate, faith outreach
 
+> **Possibly overlapping entity records:** [Turning Point USA Faith](/entities/org-turning-point-usa-faith). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > TPUSA coverage confirms Turning Point Faith as a TPUSA faith initiative and uses the canonical name.
 Source: [TPUSA's The Believers' Summit: A Call to Unity and Biblical Truth | TPUSA](https://tpusa.com/live/tpusas-the-believers-summit-a-call-to-unity-and-biblical-truth/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-turning-point-faith-t-00-09-20">2026-01-09 · 00:09:26</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-turning-point-faith-t-00-35-14">2026-02-04 · 00:35:34</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>27</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-turning-point-faith-t-00-09-20">The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</a> (9 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-turning-point-faith-t-00-09-20" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 9 mentions" title="2026-01-09 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-turning-point-faith-t-00-10-58" style="--pulse-height:67%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 6 mentions" title="2026-01-12 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-turning-point-faith-t-00-00-00" style="--pulse-height:56%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 5 mentions" title="2026-01-13 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-turning-point-faith-t-00-35-11" style="--pulse-height:11%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-org-turning-point-faith-t-00-00-00" style="--pulse-height:33%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 3 mentions" title="2026-01-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-turning-point-faith-t-00-30-54" style="--pulse-height:33%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 3 mentions" title="2026-02-04 · 3 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-turning-point-faith-t-00-09-20) | 9 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-turning-point-faith-t-00-10-58) | 6 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-turning-point-faith-t-00-00-00) | 5 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-turning-point-faith-t-00-35-11) | 1 |
+| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-turning-point-faith-t-00-00-00) | 3 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-org-turning-point-faith-t-00-30-54) | 3 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (27)</strong></summary>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (3 mentions)</summary>
@@ -147,7 +185,11 @@ Source: [TPUSA's The Believers' Summit: A Call to Unity and Biblical Truth | TPU
 <summary>Affiliated With (1)</summary>
 
 - **[Falkirk Center](/entities/org-falkirk-center.md)**
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:09:26](/episodes/ep-wcD2khO3rOA.md#t-00-09-20): "what happened after it fell apart was that they decided to instead create Turning Point Faith."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:09:26](/episodes/ep-wcD2khO3rOA.md#t-00-09-20): “what happened after it fell apart was that they decided to instead create Turning Point Faith.”
+
+</details>
 
 </details>
 
@@ -155,7 +197,11 @@ Source: [TPUSA's The Believers' Summit: A Call to Unity and Biblical Truth | TPU
 <summary>Target Of Criticism From (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:00:26](/episodes/ep-ZZGWo6oDscc.md#t-00-00-00): "I'm an enemy of turning point faith."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:00:26](/episodes/ep-ZZGWo6oDscc.md#t-00-00-00): “I'm an enemy of turning point faith.”
+
+</details>
 
 </details>
 
@@ -163,7 +209,11 @@ Source: [TPUSA's The Believers' Summit: A Call to Unity and Biblical Truth | TPU
 <summary>Worked With (1)</summary>
 
 - **[Greg Laurie](/entities/person-greg-laurie.md)**
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:15:31](/episodes/ep-wcD2khO3rOA.md#t-00-14-55): "TPUSA Faith works with Pastor Greg Laurie"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:15:31](/episodes/ep-wcD2khO3rOA.md#t-00-14-55): “TPUSA Faith works with Pastor Greg Laurie”
+
+</details>
 
 </details>
 
@@ -171,7 +221,11 @@ Source: [TPUSA's The Believers' Summit: A Call to Unity and Biblical Truth | TPU
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** critic of this
-  - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:00:26](/episodes/ep-ZZGWo6oDscc.md#t-00-00-00)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:00:26](/episodes/ep-ZZGWo6oDscc.md#t-00-00-00): “I'm an enemy of turning point faith.”
+
+</details>
 
 </details>
 

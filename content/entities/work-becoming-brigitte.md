@@ -1,6 +1,6 @@
 ---
 title: "Becoming Brigitte"
-description: "Becoming Brigitte (Works & Media) - 17 mentions"
+description: "Becoming Brigitte (Works & Media) - 18 mentions"
 id: "work-becoming-brigitte"
 type: "WORK"
 aliases:
@@ -20,10 +20,62 @@ _Type: Works & Media_
 > Official Candace site lists Becoming Brigitte as a content series.
 Source: [Candace Owens | Official Site](https://candaceowens.com/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-work-becoming-brigitte-t-00-50-13">2025-09-22 · 00:50:34</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-work-becoming-brigitte-t-00-20-53">2026-02-25 · 00:20:53</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-tB5SXXmd9vU.md#ent-work-becoming-brigitte-t-00-10-07">Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271</a> (5 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ja26iltROkM.md#ent-work-becoming-brigitte-t-00-50-13" style="--pulse-height:20%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-work-becoming-brigitte-t-00-21-40" style="--pulse-height:20%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-work-becoming-brigitte-t-00-55-02" style="--pulse-height:20%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-work-becoming-brigitte-t-00-07-38" style="--pulse-height:60%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 3 mentions" title="2025-11-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-work-becoming-brigitte-t-00-29-33" style="--pulse-height:20%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-work-becoming-brigitte-t-00-10-07" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 5 mentions" title="2025-12-01 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#t-00-05-38" style="--pulse-height:40%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-becoming-brigitte-t-00-00-00" style="--pulse-height:40%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-work-becoming-brigitte-t-00-35-55" style="--pulse-height:20%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-work-becoming-brigitte-t-00-20-53" style="--pulse-height:20%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-work-becoming-brigitte-t-00-50-13) | 1 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-work-becoming-brigitte-t-00-21-40) | 1 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-work-becoming-brigitte-t-00-55-02) | 1 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-work-becoming-brigitte-t-00-07-38) | 3 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-work-becoming-brigitte-t-00-29-33) | 1 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-work-becoming-brigitte-t-00-10-07) | 5 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#t-00-05-38) | 2 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-work-becoming-brigitte-t-00-00-00) | 2 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-work-becoming-brigitte-t-00-35-55) | 1 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-work-becoming-brigitte-t-00-20-53) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1 mentions)</summary>
+
+**[00:20:53](/episodes/ep-ZAsV0fHGBiM.md#ent-work-becoming-brigitte-t-00-20-53)**
+> "...ng in Xavier Poussard's book, Becoming Brigitte, that it is actually an intentional strategy of d..."
+
+</details>
 
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
@@ -126,6 +178,28 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Authored By (1)</summary>
+
+- **[Xavier Poussard](/entities/person-xavier-poussard.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:20:53](/episodes/ep-ZAsV0fHGBiM.md#t-00-20-53): “Xavier Poussard's book, Becoming Brigitte”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Xavier Poussard](/entities/person-xavier-poussard.md)** authored this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:20:53](/episodes/ep-ZAsV0fHGBiM.md#t-00-20-53): “Xavier Poussard's book, Becoming Brigitte”
+
+</details>
+
+</details>
 
 </details>

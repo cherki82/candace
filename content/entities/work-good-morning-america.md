@@ -1,20 +1,74 @@
 ---
 title: "Good Morning America"
-description: "Good Morning America (Works & Media) - 14 mentions"
+description: "Good Morning America (Works & Media) - 15 mentions"
 id: "work-good-morning-america"
 type: "WORK"
 aliases:
   - "GMA"
+categories:
+  - "United States morning television"
 ---
 
 _Type: Works & Media_
 
 **Also known as:** GMA
 
+**Categories:** United States morning television
+
+**Entity verification:** verified
+> ABC's official program page confirms canonical title Good Morning America.
+Source: [Good Morning America](https://www.goodmorningamerica.com/)
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#t-00-19-38">2025-09-18 · 00:19:47</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-work-good-morning-america-t-00-51-40">2026-02-25 · 00:52:05</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-work-good-morning-america-t-00-26-27">They Are Lying About Tyler Robinson. | Candace Ep 244</a> (6 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-sreYYcID-QY.md#t-00-19-38" style="--pulse-height:17%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 1 mentions" title="2025-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-work-good-morning-america-t-00-48-44" style="--pulse-height:17%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-work-good-morning-america-t-00-02-39" style="--pulse-height:67%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 4 mentions" title="2025-09-23 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-work-good-morning-america-t-00-26-27" style="--pulse-height:100%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 6 mentions" title="2025-09-29 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-work-good-morning-america-t-00-21-03" style="--pulse-height:17%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-work-good-morning-america-t-00-22-56" style="--pulse-height:17%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 1 mentions" title="2025-10-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-work-good-morning-america-t-00-51-40" style="--pulse-height:17%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#t-00-19-38) | 1 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-work-good-morning-america-t-00-48-44) | 1 |
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-work-good-morning-america-t-00-02-39) | 4 |
+| 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-work-good-morning-america-t-00-26-27) | 6 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-work-good-morning-america-t-00-21-03) | 1 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-work-good-morning-america-t-00-22-56) | 1 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-work-good-morning-america-t-00-51-40) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1 mentions)</summary>
+
+**[00:52:05](/episodes/ep-ZAsV0fHGBiM.md#ent-work-good-morning-america-t-00-51-40)**
+> "...Golle and Jeb Bush went on to Good Morning America to announce the project the schools would come to..."
+
+</details>
 
 <details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (1 mentions)</summary>
@@ -94,5 +148,18 @@ _Type: Works & Media_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Good Morning America (1)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1)</summary>
+
+- [00:51:21](/episodes/ep-ZAsV0fHGBiM.md#t-00-50-55) (Claim) **Candace Owens**: ["John T. Golle incorporated Education Alternatives in Minnesota and lat..."](/statements/statement-ccf81f332955.md)
+  - Also about: [John T. Golle](/entities/person-john-t-golle.md), [Education Alternatives, Inc.](/entities/org-education-alternatives-inc.md), [Jeb Bush](/entities/person-jeb-bush.md)
+
+</details>
 
 </details>

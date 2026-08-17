@@ -7,10 +7,38 @@ type: "PERSON"
 
 _Type: People_
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-harry-myers-t-00-03-26">2025-12-09 · 00:00:31</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#t-00-59-39">2025-12-10 · 00:59:46</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Statements by</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-harry-myers-t-00-03-26">Charlie Kirk’s Last Trip To Asia… | Candace Ep 277</a> (9 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-harry-myers-t-00-03-26" style="--pulse-height:100%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 9 mentions" title="2025-12-09 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#t-00-40-11" style="--pulse-height:44%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 4 mentions" title="2025-12-10 · 4 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-person-harry-myers-t-00-03-26) | 9 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#t-00-40-11) | 4 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4 mentions)</summary>
@@ -70,7 +98,11 @@ _Type: People_
 <summary>Formerly Worked For (1)</summary>
 
 - **[Joint Task Force Six](/entities/org-joint-task-force-six.md)**
-  - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:05:00](/episodes/ep-t4U7NjnUEgc.md#t-00-04-35): "In 1990, this young man named Harry Myers discovered something"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:05:00](/episodes/ep-t4U7NjnUEgc.md#t-00-04-35): “In 1990, this young man named Harry Myers discovered something”
+
+</details>
 
 </details>
 
@@ -78,7 +110,11 @@ _Type: People_
 <summary>Referenced By (1)</summary>
 
 - **[Joint Task Force Six](/entities/org-joint-task-force-six.md)** formerly employed this
-  - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:05:00](/episodes/ep-t4U7NjnUEgc.md#t-00-04-35)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:05:00](/episodes/ep-t4U7NjnUEgc.md#t-00-04-35): “In 1990, this young man named Harry Myers discovered something”
+
+</details>
 
 </details>
 

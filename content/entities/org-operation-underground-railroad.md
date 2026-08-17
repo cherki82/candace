@@ -21,10 +21,42 @@ _Type: Organizations_
 > Organization tax filing confirms the legal and canonical name.
 Source: [Operation Underground Railroad 2014 Form 990](https://ourrescue.org/reports/2014-irs.pdf)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-operation-underground-railroad-t-00-05-38">2025-09-30 · 00:06:01</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-X92MllIHDzw.md#ent-org-operation-underground-railroad-t-00-28-12">2026-01-16 · 00:28:35</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-operation-underground-railroad-t-00-35-11">BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285</a> (4 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-operation-underground-railroad-t-00-05-38" style="--pulse-height:50%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 2 mentions" title="2025-09-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-operation-underground-railroad-t-00-35-11" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 4 mentions" title="2026-01-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-operation-underground-railroad-t-00-16-42" style="--pulse-height:75%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-org-operation-underground-railroad-t-00-14-50" style="--pulse-height:75%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-org-operation-underground-railroad-t-00-05-38) | 2 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-operation-underground-railroad-t-00-35-11) | 4 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-operation-underground-railroad-t-00-16-42) | 3 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-operation-underground-railroad-t-00-14-50) | 3 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
 
 <details>
 <summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (3 mentions)</summary>
@@ -91,8 +123,12 @@ Source: [Operation Underground Railroad 2014 Form 990](https://ourrescue.org/rep
 <summary>Employs (1)</summary>
 
 - **[Tim Ballard](/entities/person-tim-ballard.md)**
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:06:01](/episodes/ep-YA1FxrDWNIo.md#t-00-05-38): "Tim Ballard, if you're not familiar with him, is formerly of Operation Underground Railroad"
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:06](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): "is formerly of Operation Underground Railroad"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:06:01](/episodes/ep-YA1FxrDWNIo.md#t-00-05-38): “Tim Ballard, if you're not familiar with him, is formerly of Operation Underground Railroad”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:06](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): “is formerly of Operation Underground Railroad”
+
+</details>
 
 </details>
 
@@ -100,7 +136,11 @@ Source: [Operation Underground Railroad 2014 Form 990](https://ourrescue.org/rep
 <summary>Formerly Employed (1)</summary>
 
 - **[Tim Ballard](/entities/person-tim-ballard.md)**
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:05:58](/episodes/ep-YA1FxrDWNIo.md#t-00-05-38): "Tim Ballard, if you're not familiar with him, is formerly of Operation Underground Railroad"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:05:58](/episodes/ep-YA1FxrDWNIo.md#t-00-05-38): “Tim Ballard, if you're not familiar with him, is formerly of Operation Underground Railroad”
+
+</details>
 
 </details>
 
@@ -108,11 +148,19 @@ Source: [Operation Underground Railroad 2014 Form 990](https://ourrescue.org/rep
 <summary>Funded By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:28:33](/episodes/ep-X92MllIHDzw.md#t-00-28-12): "I used to give annually ... to Operation Underground, which was run by Tim Ballard"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:28:33](/episodes/ep-X92MllIHDzw.md#t-00-28-12): “I used to give annually ... to Operation Underground, which was run by Tim Ballard”
+
+</details>
 
 - **[Glenn Beck](/entities/person-glenn-beck.md)**
-  - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:35:39](/episodes/ep-HYn0P-P1wUw.md#t-00-35-11): "Tim Ballard, he used to run Operation Underground Railroad because he had gotten donation and support from Glenn Beck. back for Operation Underground Railroad."
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:15:20](/episodes/ep-X92MllIHDzw.md#t-00-14-50): "how Phil Lyman went to see him the next day. Glenn Beck had funded that Operation Underground, which for Tim Ballard ended in scandal without question."
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:35:39](/episodes/ep-HYn0P-P1wUw.md#t-00-35-11): “Tim Ballard, he used to run Operation Underground Railroad because he had gotten donation and support from Glenn Beck. back for Operation Underground Railroad.”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:15:20](/episodes/ep-X92MllIHDzw.md#t-00-14-50): “how Phil Lyman went to see him the next day. Glenn Beck had funded that Operation Underground, which for Tim Ballard ended in scandal without question.”
+
+</details>
 
 </details>
 
@@ -120,18 +168,34 @@ Source: [Operation Underground Railroad 2014 Form 990](https://ourrescue.org/rep
 <summary>Referenced By (4)</summary>
 
 - **[Tim Ballard](/entities/person-tim-ballard.md)** formerly worked for this
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:05:58](/episodes/ep-YA1FxrDWNIo.md#t-00-05-38)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:05:58](/episodes/ep-YA1FxrDWNIo.md#t-00-05-38): “Tim Ballard, if you're not familiar with him, is formerly of Operation Underground Railroad”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** funded this
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:28:33](/episodes/ep-X92MllIHDzw.md#t-00-28-12)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:28:33](/episodes/ep-X92MllIHDzw.md#t-00-28-12): “I used to give annually ... to Operation Underground, which was run by Tim Ballard”
+
+</details>
 
 - **[Glenn Beck](/entities/person-glenn-beck.md)** funded this
-  - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:35:39](/episodes/ep-HYn0P-P1wUw.md#t-00-35-11)
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:15:20](/episodes/ep-X92MllIHDzw.md#t-00-14-50)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:35:39](/episodes/ep-HYn0P-P1wUw.md#t-00-35-11): “Tim Ballard, he used to run Operation Underground Railroad because he had gotten donation and support from Glenn Beck. back for Operation Underground Railroad.”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:15:20](/episodes/ep-X92MllIHDzw.md#t-00-14-50): “how Phil Lyman went to see him the next day. Glenn Beck had funded that Operation Underground, which for Tim Ballard ended in scandal without question.”
+
+</details>
 
 - **[Tim Ballard](/entities/person-tim-ballard.md)** works for this
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:06:01](/episodes/ep-YA1FxrDWNIo.md#t-00-05-38)
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:06](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:06:01](/episodes/ep-YA1FxrDWNIo.md#t-00-05-38): “Tim Ballard, if you're not familiar with him, is formerly of Operation Underground Railroad”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:06](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): “is formerly of Operation Underground Railroad”
+
+</details>
 
 </details>
 

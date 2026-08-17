@@ -20,10 +20,44 @@ _Type: Organizations_
 > The organization’s official about page confirms the canonical name and satirical-media role.
 Source: [Your Trusted Source for Christian News Satire](https://babylonbee.com/about)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-babylon-bee-t-00-46-47">2025-09-17 · 00:47:18</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4YgrOhhy708.md#ent-org-babylon-bee-t-00-40-11">2026-02-09 · 00:40:41</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>1</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-babylon-bee-t-00-27-42">Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262</a> (2 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-babylon-bee-t-00-46-47" style="--pulse-height:50%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-babylon-bee-t-00-27-42" style="--pulse-height:100%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 2 mentions" title="2025-11-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-babylon-bee-t-00-45-19" style="--pulse-height:50%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-babylon-bee-t-00-29-40" style="--pulse-height:50%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-org-babylon-bee-t-00-31-24" style="--pulse-height:100%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-org-babylon-bee-t-00-46-47) | 1 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-org-babylon-bee-t-00-27-42) | 2 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-org-babylon-bee-t-00-45-19) | 1 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-org-babylon-bee-t-00-29-40) | 1 |
+| 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-org-babylon-bee-t-00-31-24) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (2 mentions)</summary>
@@ -80,7 +114,11 @@ Source: [Your Trusted Source for Christian News Satire](https://babylonbee.com/a
 <summary>Referenced By (1)</summary>
 
 - **[Seth Dillon](/entities/person-seth-dillon.md)** affiliated with this
-  - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:31:24](/episodes/ep-4YgrOhhy708.md#t-00-31-24)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:31:24](/episodes/ep-4YgrOhhy708.md#t-00-31-24): “Seth Dillon gets up there of the Babylon Bee”
+
+</details>
 
 </details>
 

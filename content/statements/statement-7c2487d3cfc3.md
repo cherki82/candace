@@ -23,7 +23,7 @@ veracity: "mixed"
 
 - [Lindsey Graham](/entities/person-lindsey-graham.md) (person)
 - [Israel](/entities/gpe-israel.md) (gpe)
-- [Washington, D.C.](/entities/gpe-washington-dc.md) (gpe)
+- [Washington, D.C.](/entities/gpe-washington-d-c.md) (gpe)
 
 ## Appearances (2)
 

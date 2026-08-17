@@ -1,6 +1,6 @@
 ---
 title: "Magisterium AI"
-description: "Magisterium AI (Organizations) - 29 mentions"
+description: "Magisterium AI (Organizations) - 34 mentions"
 id: "org-magisterium-ai"
 type: "ORG"
 aliases:
@@ -21,10 +21,70 @@ _Type: Organizations_
 > Official service site confirms the canonical product and organization name.
 Source: [Magisterium AI](https://www.magisterium.com/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-magisterium-ai-t-00-33-59">2026-01-07 · 00:34:25</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-magisterium-ai-t-00-28-09">2026-02-27 · 00:28:46</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>34</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-magisterium-ai-t-00-22-49">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (5 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-magisterium-ai-t-00-33-59" style="--pulse-height:80%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 4 mentions" title="2026-01-07 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-magisterium-ai-t-00-37-57" style="--pulse-height:80%" aria-label="A Legal Turning Point? | Candace Ep 292: 4 mentions" title="2026-01-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-magisterium-ai-t-00-22-49" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 5 mentions" title="2026-01-21 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-magisterium-ai-t-00-18-28" style="--pulse-height:80%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 4 mentions" title="2026-01-22 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-org-magisterium-ai-t-00-45-42" style="--pulse-height:80%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 4 mentions" title="2026-01-27 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-magisterium-ai-t-00-40-41" style="--pulse-height:80%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 4 mentions" title="2026-01-29 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-org-magisterium-ai-t-00-35-35" style="--pulse-height:80%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 4 mentions" title="2026-01-30 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-magisterium-ai-t-00-27-31" style="--pulse-height:100%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 5 mentions" title="2026-02-27 · 5 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-org-magisterium-ai-t-00-33-59) | 4 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-magisterium-ai-t-00-37-57) | 4 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-magisterium-ai-t-00-22-49) | 5 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-magisterium-ai-t-00-18-28) | 4 |
+| 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-org-magisterium-ai-t-00-45-42) | 4 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-magisterium-ai-t-00-40-41) | 4 |
+| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-magisterium-ai-t-00-35-35) | 4 |
+| 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-magisterium-ai-t-00-27-31) | 5 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (5 mentions)</summary>
+
+**[00:27:42](/episodes/ep-1IY2oD-_xVA.md#ent-org-magisterium-ai-t-00-27-31)**
+> "Again, that's dosedaily.co slash kandis for 35% off. off your first month's subscription. Also want to tell you guys about Magisterium AI because I said it before and I'll say it again. We are in the middle of a war on truth."
+
+**[00:28:01](/episodes/ep-1IY2oD-_xVA.md#ent-org-magisterium-ai-t-00-27-31)**
+> "That's why I switched to Magisterium AI because when you face real tough questions about ..."
+
+**[00:28:09](/episodes/ep-1IY2oD-_xVA.md#ent-org-magisterium-ai-t-00-28-09)**
+> "... the mainstream alternatives, Magisterium AI actually brings the receipts. Every single answer..."
+
+**[00:28:36](/episodes/ep-1IY2oD-_xVA.md#ent-org-magisterium-ai-t-00-28-09)**
+> "So head to magisterium.com slash Candace or download the free app on iOS..."
+
+**[00:28:46](/episodes/ep-1IY2oD-_xVA.md#ent-org-magisterium-ai-t-00-28-09)**
+> "...coffee. It's no brainer visit magisterium.com slash Candace."
+
+</details>
 
 <details>
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (4 mentions)</summary>

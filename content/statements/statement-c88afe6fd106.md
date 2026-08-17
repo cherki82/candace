@@ -22,7 +22,7 @@ type: "accusation"
 
 - [Jeremy Boreing](/entities/person-jeremy-boreing.md) (person)
 - [Candace Owens](/entities/person-candace-owens.md) (person)
-- [The Daily Wire](/entities/org-daily-wire.md) (org)
+- [The Daily Wire](/entities/org-the-daily-wire.md) (org)
 - [Turning Point USA](/entities/org-turning-point-usa.md) (org)
 - [Dallas, Texas](/entities/gpe-dallas-texas.md) (gpe)
 

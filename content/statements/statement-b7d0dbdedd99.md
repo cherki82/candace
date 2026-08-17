@@ -23,7 +23,7 @@ veracity: "true"
 
 - [Erika Kirk](/entities/person-erika-kirk.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
-- [The New York Times](/entities/org-new-york-times.md) (org)
+- [The New York Times](/entities/org-the-new-york-times.md) (org)
 
 ## Source
 

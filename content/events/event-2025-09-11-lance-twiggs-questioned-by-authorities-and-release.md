@@ -12,7 +12,7 @@ time: "23:00"
 
 > Lance Twiggs questioned by authorities and released
 
-## Mentioned In (5 times)
+## Mentioned In (6 times)
 
 ### 1. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
 
@@ -53,3 +53,11 @@ time: "23:00"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(56);return false;">▶️ Play</a>
 
 > eed to be answered regarding his trans boyfriend, Lance Twiggs. Well, I just spoke to a family member who told me a lot about Lance Twiggs because the media is ki
+
+### 6. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
+
+**Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
+**Timestamp:** [01:31:52](/episodes/ep-nPhCKwJ6ye8.md#event-event-2025-09-11-lance-twiggs-questioned-by-authorities-and-release-t-01-31-37) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(5512);return false;">▶️ Play</a>
+
+> you took Lance's phone okay and that you collected his phone on September 11th

@@ -4,9 +4,10 @@ description: "\"According to its website, Phoenix Dream Center provides resident
 statement_id: "statement-77660a0217f8"
 speaker: "Candace Owens"
 type: "citation"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -33,7 +34,21 @@ type: "citation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Phoenix Dream Center and Arizona public-service materials describe residential recovery, safe beds/housing, behavioral and medical care, and a dedicated human-trafficking restoration program. This substantially confirms the statement.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Phoenix Dream Center: What We Do](https://phoenixdreamcenter.org/what-we-do)
+- [Arizona SECC: Phoenix Dream Center](https://secc.az.gov/participating-charity/phoenix-dream-center)
+
+*Verified: 2026-08-16T11:38:36.909954*
 
 ---
 

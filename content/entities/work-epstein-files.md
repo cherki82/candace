@@ -1,6 +1,6 @@
 ---
 title: "Epstein Files"
-description: "Epstein Files (Works & Media) - 23 mentions"
+description: "Epstein Files (Works & Media) - 26 mentions"
 id: "work-epstein-files"
 type: "WORK"
 aliases:
@@ -20,10 +20,71 @@ _Type: Works & Media_
 > Official DOJ library confirms the canonical document collection.
 Source: [Epstein Library | U.S. Department of Justice](https://www.justice.gov/epstein)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-work-epstein-files-t-00-18-05">2026-01-16 · 00:18:05</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-work-epstein-files-t-00-06-31">2026-02-27 · 00:07:06</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-epstein-files-t-00-00-00">BAAL SO HARD: The Epstein Files | Candace Ep 300</a> (6 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-2T39-oADLj0.md#ent-work-epstein-files-t-00-18-05" style="--pulse-height:67%" aria-label="Myron Gaines x Candace Owens: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-epstein-files-t-00-00-00" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 6 mentions" title="2026-02-02 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-work-epstein-files-t-00-15-24" style="--pulse-height:17%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-work-epstein-files-t-00-31-36" style="--pulse-height:33%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-work-epstein-files-t-00-26-13" style="--pulse-height:17%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-work-epstein-files-t-00-46-01" style="--pulse-height:67%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 4 mentions" title="2026-02-11 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-work-epstein-files-t-00-40-14" style="--pulse-height:83%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 5 mentions" title="2026-02-13 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-work-epstein-files-t-00-14-13" style="--pulse-height:17%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-work-epstein-files-t-00-06-31" style="--pulse-height:33%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-work-epstein-files-t-00-18-05) | 4 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-work-epstein-files-t-00-00-00) | 6 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-work-epstein-files-t-00-15-24) | 1 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-work-epstein-files-t-00-31-36) | 2 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-work-epstein-files-t-00-26-13) | 1 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-work-epstein-files-t-00-46-01) | 4 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-work-epstein-files-t-00-40-14) | 5 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-work-epstein-files-t-00-14-13) | 1 |
+| 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-work-epstein-files-t-00-06-31) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (2 mentions)</summary>
+
+**[00:06:51](/episodes/ep-1IY2oD-_xVA.md#ent-work-epstein-files-t-00-06-31)**
+> "Look, Elon Musk seems like a nice guy, but do I believe he's running 17 trillion air dollar companies at the same time while also having 49 baby mamas? No, I don't. I don't accept that. Bill Gates, that one bothers me the most. Oh my God, shocker. He's in the Epstein files."
+
+**[00:07:06](/episodes/ep-1IY2oD-_xVA.md#ent-work-epstein-files-t-00-06-31)**
+> "...s face. Of course he's in the Epstein files."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1 mentions)</summary>
+
+**[00:14:20](/episodes/ep-ZAsV0fHGBiM.md#ent-work-epstein-files-t-00-14-13)**
+> "...ever stopped, I hope that the Epstein files and the stunning defense of the Epstein files fro..."
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (5 mentions)</summary>
@@ -139,7 +200,23 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Epstein Files (11)</strong></summary>
+<summary><strong class="section-title">Statements about Epstein Files (13)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (1)</summary>
+
+- [00:06:51](/episodes/ep-1IY2oD-_xVA.md#t-00-06-31) (Claim) **Candace Owens**: ["Bill Gates appears in the Epstein files"](/statements/statement-f42e8e2ecb59.md)
+  - Also about: [Bill Gates](/entities/person-bill-gates.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1)</summary>
+
+- [00:14:20](/episodes/ep-ZAsV0fHGBiM.md#t-00-14-13) (Accusation) **Candace Owens**: ["If you think that MKUltra ever stopped, I hope that the Epstein files ..."](/statements/statement-2f046a337a54.md)
+  - Also about: [MKUltra](/entities/concept-mkultra.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (4)</summary>

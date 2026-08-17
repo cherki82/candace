@@ -7,10 +7,36 @@ type: "ORG"
 
 _Type: Organizations_
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-org-the-free-press-t-00-28-48">2025-11-21 · 00:28:48</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-org-the-free-press-t-00-29-33">2025-11-21 · 00:29:48</a></strong></div>
+<div><span>Episodes</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-mKXdKV-OBog.md#ent-org-the-free-press-t-00-28-48">Operation: “See you in Valhalla, Charlie”. | Candace Ep 270</a> (6 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-org-the-free-press-t-00-28-48" style="--pulse-height:100%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 6 mentions" title="2025-11-21 · 6 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-org-the-free-press-t-00-28-48) | 6 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
 
 <details>
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (6 mentions)</summary>
@@ -44,8 +70,12 @@ _Type: Organizations_
 <summary>Employs (1)</summary>
 
 - **[Ashley Reinsberg](/entities/person-ashley-reinsberg.md)**
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:29:33](/episodes/ep-mKXdKV-OBog.md#t-00-28-48): "a writer. His name is Ashley Reinsberg... reporting a piece for The Free Press"
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:30:55](/episodes/ep-mKXdKV-OBog.md#t-00-30-09): "Ashley Reinsberg, a writer for The Free Press"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:29:33](/episodes/ep-mKXdKV-OBog.md#t-00-28-48): “a writer. His name is Ashley Reinsberg... reporting a piece for The Free Press”
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:30:55](/episodes/ep-mKXdKV-OBog.md#t-00-30-09): “Ashley Reinsberg, a writer for The Free Press”
+
+</details>
 
 </details>
 
@@ -53,7 +83,11 @@ _Type: Organizations_
 <summary>Founded By (1)</summary>
 
 - **[Bari Weiss](/entities/person-bari-weiss.md)**
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#t-00-28-14): "Bari Weiss started and is a part-owner, at least, of The Free Press"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#t-00-28-14): “Bari Weiss started and is a part-owner, at least, of The Free Press”
+
+</details>
 
 </details>
 
@@ -61,7 +95,11 @@ _Type: Organizations_
 <summary>Owned By (1)</summary>
 
 - **[Bari Weiss](/entities/person-bari-weiss.md)**
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#t-00-28-14): "Bari Weiss started and is a part-owner, at least, of The Free Press"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#t-00-28-14): “Bari Weiss started and is a part-owner, at least, of The Free Press”
+
+</details>
 
 </details>
 
@@ -69,14 +107,26 @@ _Type: Organizations_
 <summary>Referenced By (3)</summary>
 
 - **[Bari Weiss](/entities/person-bari-weiss.md)** founded this
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#t-00-28-14)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#t-00-28-14): “Bari Weiss started and is a part-owner, at least, of The Free Press”
+
+</details>
 
 - **[Bari Weiss](/entities/person-bari-weiss.md)** owns this
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#t-00-28-14)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#t-00-28-14): “Bari Weiss started and is a part-owner, at least, of The Free Press”
+
+</details>
 
 - **[Ashley Reinsberg](/entities/person-ashley-reinsberg.md)** works for this
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:29:33](/episodes/ep-mKXdKV-OBog.md#t-00-28-48)
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:30:55](/episodes/ep-mKXdKV-OBog.md#t-00-30-09)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:29:33](/episodes/ep-mKXdKV-OBog.md#t-00-28-48): “a writer. His name is Ashley Reinsberg... reporting a piece for The Free Press”
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:30:55](/episodes/ep-mKXdKV-OBog.md#t-00-30-09): “Ashley Reinsberg, a writer for The Free Press”
+
+</details>
 
 </details>
 

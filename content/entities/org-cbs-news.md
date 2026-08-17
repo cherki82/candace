@@ -16,14 +16,50 @@ _Type: Organizations_
 
 **Categories:** news media, broadcast media
 
+> **Possibly overlapping entity records:** [CBS](/entities/org-cbs). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > Official publishing-principles page confirms the canonical news organization.
 Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs-news-publishing-principles/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-org-cbs-news-t-00-28-48">2025-11-21 · 00:28:48</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-cbs-news-t-01-12-16">2026-01-29 · 01:12:16</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-mKXdKV-OBog.md#ent-org-cbs-news-t-00-28-48">Operation: “See you in Valhalla, Charlie”. | Candace Ep 270</a> (3 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-org-cbs-news-t-00-28-48" style="--pulse-height:100%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 3 mentions" title="2025-11-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-cbs-news-t-00-06-08" style="--pulse-height:100%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 3 mentions" title="2025-12-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-cbs-news-t-00-15-33" style="--pulse-height:67%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-cbs-news-t-00-35-55" style="--pulse-height:33%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-cbs-news-t-01-12-16" style="--pulse-height:67%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-org-cbs-news-t-00-28-48) | 3 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-org-cbs-news-t-00-06-08) | 3 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-cbs-news-t-00-15-33) | 2 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-cbs-news-t-00-35-55) | 1 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-cbs-news-t-01-12-16) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (2 mentions)</summary>
@@ -92,8 +128,12 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 <summary>Employs (1)</summary>
 
 - **[Bari Weiss](/entities/person-bari-weiss.md)**
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#t-00-28-14): "before she went on to CBS News"
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:12:16](/episodes/ep-xjzb_t5Tk9o.md#t-01-12-16): "why they put Bari Weiss at CBS."
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#t-00-28-14): “before she went on to CBS News”
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:12:16](/episodes/ep-xjzb_t5Tk9o.md#t-01-12-16): “why they put Bari Weiss at CBS.”
+
+</details>
 
 </details>
 
@@ -101,7 +141,11 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 <summary>Formerly Employed (1)</summary>
 
 - **[Bari Weiss](/entities/person-bari-weiss.md)**
-  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:06:23](/episodes/ep-6J6lRZPQ4jk.md#t-00-06-08): "She somehow becomes a chief over at CBS News."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:06:23](/episodes/ep-6J6lRZPQ4jk.md#t-00-06-08): “She somehow becomes a chief over at CBS News.”
+
+</details>
 
 </details>
 
@@ -109,11 +153,19 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 <summary>Referenced By (2)</summary>
 
 - **[Bari Weiss](/entities/person-bari-weiss.md)** formerly worked for this
-  - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:06:23](/episodes/ep-6J6lRZPQ4jk.md#t-00-06-08)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:06:23](/episodes/ep-6J6lRZPQ4jk.md#t-00-06-08): “She somehow becomes a chief over at CBS News.”
+
+</details>
 
 - **[Bari Weiss](/entities/person-bari-weiss.md)** works for this
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#t-00-28-14)
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:12:16](/episodes/ep-xjzb_t5Tk9o.md#t-01-12-16)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#t-00-28-14): “before she went on to CBS News”
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:12:16](/episodes/ep-xjzb_t5Tk9o.md#t-01-12-16): “why they put Bari Weiss at CBS.”
+
+</details>
 
 </details>
 

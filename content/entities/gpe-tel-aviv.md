@@ -1,25 +1,62 @@
 ---
 title: "Tel Aviv"
-description: "Tel Aviv (Places) - 12 mentions"
+description: "Tel Aviv (Places) - 11 mentions"
 id: "gpe-tel-aviv"
 type: "GPE"
 ---
 
 _Type: Places_
 
+> **Possibly overlapping entity records:** [Tel Aviv-Yafo](/entities/gpe-tel-aviv-yafo). These records share a name or alias; compare their histories before treating either count as complete.
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-01-02-48">2025-09-15 · 01:03:09</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-tel-aviv-t-00-06-08">2025-12-12 · 00:06:08</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-czVBmqZP6Ss.md#t-01-02-48">They Are Lying About Charlie Kirk. | Candace Ep 235</a> (2 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-czVBmqZP6Ss.md#t-01-02-48" style="--pulse-height:100%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 2 mentions" title="2025-09-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-gpe-tel-aviv-t-00-12-07" style="--pulse-height:50%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-tel-aviv-t-00-47-53" style="--pulse-height:100%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 2 mentions" title="2025-11-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-tel-aviv-t-00-30-55" style="--pulse-height:50%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-tel-aviv-t-00-38-00" style="--pulse-height:50%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-tel-aviv-t-00-40-46" style="--pulse-height:100%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 2 mentions" title="2025-12-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-tel-aviv-t-00-05-27" style="--pulse-height:100%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 2 mentions" title="2025-12-12 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#t-01-02-48) | 2 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-tel-aviv-t-00-12-07) | 1 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-tel-aviv-t-00-47-53) | 2 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-tel-aviv-t-00-30-55) | 1 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-tel-aviv-t-00-38-00) | 1 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-tel-aviv-t-00-40-46) | 2 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-tel-aviv-t-00-05-27) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
 
 <details>
-<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (3 mentions)</summary>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2 mentions)</summary>
 
 **[00:06:03](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-tel-aviv-t-00-05-27)**
 > "And Bari (Bari Weiss) is obviously just a Tel Aviv agent"
-
-**[00:06:03](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-tel-aviv-t-00-05-27)**
-> "...ri Weiss) is obviously just a Tel Aviv agent."
 
 **[00:06:08](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-tel-aviv-t-00-06-08)**
 > "...ry, her rise, her studying in Tel Aviv, her family ties,"
@@ -92,7 +129,11 @@ _Type: Places_
 <summary>Location Of (1)</summary>
 
 - **[ACE Partners](/entities/org-ace-partners.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/episodes/ep-tB5SXXmd9vU.md#t-00-38-00): ""...it's an Israeli firm based in Tel Aviv called ACE Partners.""
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/episodes/ep-tB5SXXmd9vU.md#t-00-38-00): “"...it's an Israeli firm based in Tel Aviv called ACE Partners."”
+
+</details>
 
 </details>
 
@@ -100,7 +141,11 @@ _Type: Places_
 <summary>Referenced By (1)</summary>
 
 - **[ACE Partners](/entities/org-ace-partners.md)** based in this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/episodes/ep-tB5SXXmd9vU.md#t-00-38-00)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/episodes/ep-tB5SXXmd9vU.md#t-00-38-00): “"...it's an Israeli firm based in Tel Aviv called ACE Partners."”
+
+</details>
 
 </details>
 

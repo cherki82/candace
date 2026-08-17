@@ -1,6 +1,6 @@
 ---
 title: "CNN"
-description: "CNN (Organizations) - 29 mentions"
+description: "CNN (Organizations) - 32 mentions"
 id: "org-cnn"
 type: "ORG"
 aliases:
@@ -20,10 +20,77 @@ _Type: Organizations_
 > Official network page confirms the canonical outlet name.
 Source: [About CNN](https://www.cnn.com/about)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-org-cnn-t-00-20-16">2025-10-27 · 00:20:54</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-cnn-t-02-38-31">2026-08-14 · 02:38:34</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>32</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-r1PS67aRmcA.md#ent-org-cnn-t-00-00-44">Ben Shapiro Is Crying Again. | Candace Ep 261</a> (5 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-c5BcKF91iec.md#ent-org-cnn-t-00-20-16" style="--pulse-height:20%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-cnn-t-00-27-09" style="--pulse-height:20%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-cnn-t-00-33-30" style="--pulse-height:40%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-org-cnn-t-00-14-30" style="--pulse-height:60%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 3 mentions" title="2025-11-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-org-cnn-t-00-00-44" style="--pulse-height:100%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 5 mentions" title="2025-11-08 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-cnn-t-00-06-06" style="--pulse-height:60%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 3 mentions" title="2025-11-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-org-cnn-t-00-11-38" style="--pulse-height:80%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 4 mentions" title="2025-11-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-org-cnn-t-00-36-25" style="--pulse-height:20%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-org-cnn-t-00-29-22" style="--pulse-height:40%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 2 mentions" title="2025-12-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-org-cnn-t-00-22-01" style="--pulse-height:20%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-org-cnn-t-00-18-46" style="--pulse-height:20%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-cnn-t-00-35-23" style="--pulse-height:80%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 4 mentions" title="2026-01-29 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-cnn-t-01-37-04" style="--pulse-height:80%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-org-cnn-t-00-20-16) | 1 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-cnn-t-00-27-09) | 1 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-org-cnn-t-00-33-30) | 2 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-org-cnn-t-00-14-30) | 3 |
+| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-org-cnn-t-00-00-44) | 5 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-org-cnn-t-00-06-06) | 3 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-cnn-t-00-11-38) | 4 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-org-cnn-t-00-36-25) | 1 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-org-cnn-t-00-29-22) | 2 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-cnn-t-00-22-01) | 1 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-org-cnn-t-00-18-46) | 1 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-cnn-t-00-35-23) | 4 |
+| 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-cnn-t-01-37-04) | 4 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
+
+**[01:37:04](/episodes/ep-nPhCKwJ6ye8.md#ent-org-cnn-t-01-37-04)**
+> "do you mean you saw this on CNN or you saw this play out in the hearing?"
+
+**[01:47:23](/episodes/ep-nPhCKwJ6ye8.md#ent-org-cnn-t-01-47-15)**
+> "They would be shouting it on CNN."
+
+**[02:38:34](/episodes/ep-nPhCKwJ6ye8.md#ent-org-cnn-t-02-38-31)**
+> "is CNN allowed to have sources,"
+
+**[02:38:31](/episodes/ep-nPhCKwJ6ye8.md#ent-org-cnn-t-02-38-31)**
+> "...ing news. is funny So well is CNN allowed to have sources, hang on but i have we ca..."
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (4 mentions)</summary>
@@ -78,10 +145,7 @@ Source: [About CNN](https://www.cnn.com/about)
 </details>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (5 mentions)</summary>
-
-**[00:12:12](/episodes/ep-581dILVcEE4.md#ent-org-cnn-t-00-11-38)**
-> "CNN article about student seeing someone on roof before assassination"
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (4 mentions)</summary>
 
 **[00:12:12](/episodes/ep-581dILVcEE4.md#ent-org-cnn-t-00-11-38)**
 > "...eone on the roof a week earlier. And I think we should try to track down these students. Of course, CNN, which ran this article—which I can show you here—didn't include their names, but here is the artic..."
@@ -181,7 +245,11 @@ Source: [About CNN](https://www.cnn.com/about)
 <summary>Formerly Employed (1)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-  - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:18:48](/episodes/ep-9naMwS0kMBE.md#t-00-18-46): "Tucker Carlson, who used to work for CNN"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:18:48](/episodes/ep-9naMwS0kMBE.md#t-00-18-46): “Tucker Carlson, who used to work for CNN”
+
+</details>
 
 </details>
 
@@ -189,7 +257,11 @@ Source: [About CNN](https://www.cnn.com/about)
 <summary>Referenced By (1)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** formerly worked for this
-  - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:18:48](/episodes/ep-9naMwS0kMBE.md#t-00-18-46)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:18:48](/episodes/ep-9naMwS0kMBE.md#t-00-18-46): “Tucker Carlson, who used to work for CNN”
+
+</details>
 
 </details>
 
@@ -205,7 +277,7 @@ Source: [About CNN](https://www.cnn.com/about)
   - Also about: [ABC News](/entities/org-abc-news.md), [Fox News](/entities/org-fox-news.md), [CNBC](/entities/org-cnbc.md)
 
 - [01:24:42](/episodes/ep-xjzb_t5Tk9o.md#t-01-24-42) (Citation) **Bassem Youssef**: ["Israeli media reported the Hannibal Directive, Israeli soldiers killin..."](/statements/statement-dffdfa972b19.md)
-  - Also about: [Israel Defense Forces](/entities/org-israel-defense-forces.md), [Israel](/entities/gpe-israel.md), [The New York Times](/entities/org-new-york-times.md)
+  - Also about: [Israel Defense Forces](/entities/org-israel-defense-forces.md), [Israel](/entities/gpe-israel.md), [The New York Times](/entities/org-the-new-york-times.md)
 
 </details>
 

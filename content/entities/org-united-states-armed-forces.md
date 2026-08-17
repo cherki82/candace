@@ -1,12 +1,13 @@
 ---
 title: "United States Armed Forces"
-description: "United States Armed Forces (Organizations) - 5 mentions"
+description: "United States Armed Forces (Organizations) - 6 mentions"
 id: "org-united-states-armed-forces"
 type: "ORG"
 aliases:
   - "United States military"
   - "U.S. military"
   - "American military"
+  - "the United States military"
 categories:
   - "government"
   - "military"
@@ -14,18 +15,62 @@ categories:
 
 _Type: Organizations_
 
-**Also known as:** United States military, U.S. military, American military
+**Also known as:** United States military, U.S. military, American military, the United States military
 
 **Categories:** government, military
+
+> **Possibly overlapping entity records:** [United States military](/entities/org-united-states-military). These records share a name or alias; compare their histories before treating either count as complete.
 
 **Entity verification:** verified
 > The Department of Defense official branches page identifies the armed forces of the United States and their constituent services.
 Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branches/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-org-united-states-armed-forces-t-00-32-35">2026-01-12 · 00:32:46</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-armed-forces-t-00-18-13">2026-03-03 · 00:18:13</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Relationships</span><strong>7</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-united-states-armed-forces-t-00-16-16">REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302</a> (2 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-united-states-armed-forces-t-00-32-35" style="--pulse-height:50%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-united-states-armed-forces-t-00-35-31" style="--pulse-height:50%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-united-states-armed-forces-t-00-13-05" style="--pulse-height:50%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-united-states-armed-forces-t-00-16-16" style="--pulse-height:100%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-armed-forces-t-00-18-13" style="--pulse-height:50%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-united-states-armed-forces-t-00-32-35) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-united-states-armed-forces-t-00-35-31) | 1 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-united-states-armed-forces-t-00-13-05) | 1 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-org-united-states-armed-forces-t-00-16-16) | 2 |
+| 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-armed-forces-t-00-18-13) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (1 mentions)</summary>
+
+**[00:18:13](/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-armed-forces-t-00-18-13)**
+> "...e)'s already working with the United States military. She's receiving millions. Do not forget that."
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (2 mentions)</summary>
@@ -68,10 +113,21 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Formerly Employed (1)</summary>
+<summary>Formerly Employed (2)</summary>
 
 - **[Bill Montgomery](/entities/person-bill-montgomery.md)**
-  - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:03:41](/episodes/ep-BKcOm32ZEGk.md#t-00-03-28): "He has since passed the late Bill Montgomery and he was from the military."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:03:41](/episodes/ep-BKcOm32ZEGk.md#t-00-03-28): “He has since passed the late Bill Montgomery and he was from the military.”
+
+</details>
+
+- **[Paul Tracy Gerard Jr.](/entities/person-paul-tracy-gerard-jr.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:05:07](/episodes/ep-2tFYJf1klgY.md#t-00-04-42): “Nancy's brother, Paul Tracy Gerard... Gerard Jr. would follow in his father's footsteps. He was a major in the military in 1977”
+
+</details>
 
 </details>
 
@@ -79,18 +135,44 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 <summary>Hired (1)</summary>
 
 - **[Michael Aquino](/entities/person-michael-aquino.md)**
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:40:35](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-35): "that's Aquino, that guy. ... And they then the military was like, I like what you're doing there. ... Let's bring you in to run psychological operations."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:40:35](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-35): “that's Aquino, that guy. ... And they then the military was like, I like what you're doing there. ... Let's bring you in to run psychological operations.”
+
+</details>
 
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[Bill Montgomery](/entities/person-bill-montgomery.md)** formerly worked for this
-  - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:03:41](/episodes/ep-BKcOm32ZEGk.md#t-00-03-28)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:03:41](/episodes/ep-BKcOm32ZEGk.md#t-00-03-28): “He has since passed the late Bill Montgomery and he was from the military.”
+
+</details>
+
+- **[Paul Tracy Gerard Jr.](/entities/person-paul-tracy-gerard-jr.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:05:07](/episodes/ep-2tFYJf1klgY.md#t-00-04-42): “Nancy's brother, Paul Tracy Gerard... Gerard Jr. would follow in his father's footsteps. He was a major in the military in 1977”
+
+</details>
 
 - **[Michael Aquino](/entities/person-michael-aquino.md)** hired by this
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:40:35](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-35)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:40:35](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-35): “that's Aquino, that guy. ... And they then the military was like, I like what you're doing there. ... Let's bring you in to run psychological operations.”
+
+</details>
+
+- **[Lori Frantzve](/entities/person-lori-frantzve.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:18:13](/episodes/ep-2tFYJf1klgY.md#t-00-18-13): “Lori (Lori Frantzve)'s already working with the United States military.”
+
+</details>
 
 </details>
 

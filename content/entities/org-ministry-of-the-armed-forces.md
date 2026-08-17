@@ -14,10 +14,42 @@ _Type: Organizations_
 
 **Also known as:** French Ministry of the Armed Forces, Minister of the Armed Forces, Ministry, Ministry of the Armed Forces (France)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#t-00-26-47">2025-10-31 · 00:26:47</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-ministry-of-the-armed-forces-t-00-39-28">2025-12-01 · 00:39:53</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-ministry-of-the-armed-forces-t-00-18-18">Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271</a> (6 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-YFmRH8p5lt0.md#t-00-26-47" style="--pulse-height:50%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 3 mentions" title="2025-10-31 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#t-00-02-06" style="--pulse-height:83%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 5 mentions" title="2025-11-13 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#t-00-09-38" style="--pulse-height:17%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-ministry-of-the-armed-forces-t-00-18-18" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 6 mentions" title="2025-12-01 · 6 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#t-00-26-47) | 3 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#t-00-02-06) | 5 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#t-00-09-38) | 1 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-ministry-of-the-armed-forces-t-00-18-18) | 6 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
 
 <details>
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (6 mentions)</summary>

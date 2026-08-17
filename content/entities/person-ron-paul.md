@@ -1,16 +1,44 @@
 ---
 title: "Ron Paul"
-description: "Ron Paul (People) - 6 mentions"
+description: "Ron Paul (People) - 5 mentions"
 id: "person-ron-paul"
 type: "PERSON"
 ---
 
 _Type: People_
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-r1PS67aRmcA.md#ent-person-ron-paul-t-00-01-26">2025-11-08 · 00:01:57</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-person-ron-paul-t-00-49-20">2025-11-20 · 00:49:30</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-r1PS67aRmcA.md#ent-person-ron-paul-t-00-01-26">Ben Shapiro Is Crying Again. | Candace Ep 261</a> (4 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-person-ron-paul-t-00-01-26" style="--pulse-height:100%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 4 mentions" title="2025-11-08 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-person-ron-paul-t-00-49-20" style="--pulse-height:25%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-person-ron-paul-t-00-01-26) | 4 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-ron-paul-t-00-49-20) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
 
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
@@ -46,7 +74,11 @@ _Type: People_
 <summary>Criticized By (1)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
-  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:28](/episodes/ep-r1PS67aRmcA.md#t-00-00-00): "Ron Paul is manifestly insane directed at Ron Paul by Ben Shapiro"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:28](/episodes/ep-r1PS67aRmcA.md#t-00-00-00): “Ron Paul is manifestly insane directed at Ron Paul by Ben Shapiro”
+
+</details>
 
 </details>
 
@@ -54,7 +86,11 @@ _Type: People_
 <summary>Referenced By (1)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized this
-  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:28](/episodes/ep-r1PS67aRmcA.md#t-00-00-00)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:28](/episodes/ep-r1PS67aRmcA.md#t-00-00-00): “Ron Paul is manifestly insane directed at Ron Paul by Ben Shapiro”
+
+</details>
 
 </details>
 

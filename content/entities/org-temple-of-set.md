@@ -20,10 +20,38 @@ _Type: Organizations_
 > The Temple of Set’s Xeper site identifies Michael A. Aquino as its founder and high priest, confirming the canonical organization name.
 Source: [Michael A. Aquino | Xeper.org](https://www.xeper.org/maquino/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-temple-of-set-t-00-22-52">2026-01-13 · 00:23:27</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-temple-of-set-t-01-40-59">2026-01-29 · 01:40:59</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-temple-of-set-t-00-22-52">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (4 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-temple-of-set-t-00-22-52" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 4 mentions" title="2026-01-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-temple-of-set-t-01-40-02" style="--pulse-height:75%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-temple-of-set-t-00-22-52) | 4 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-temple-of-set-t-01-40-02) | 3 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (3 mentions)</summary>
@@ -65,8 +93,12 @@ Source: [Michael A. Aquino | Xeper.org](https://www.xeper.org/maquino/)
 <summary>Founded By (1)</summary>
 
 - **[Michael Aquino](/entities/person-michael-aquino.md)**
-  - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:23:20](/episodes/ep-ZZGWo6oDscc.md#t-00-22-52): "So I'm going to now let Michael Aquino, who's head of PSYOPs, along with Paul Vallely, who's a board member, tell you what the goals were when he established the Temple of Set. Take a listen."
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:40:59](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-59): "then he started the Temple of Set"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:23:20](/episodes/ep-ZZGWo6oDscc.md#t-00-22-52): “So I'm going to now let Michael Aquino, who's head of PSYOPs, along with Paul Vallely, who's a board member, tell you what the goals were when he established the Temple of Set. Take a listen.”
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:40:59](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-59): “then he started the Temple of Set”
+
+</details>
 
 </details>
 
@@ -74,8 +106,12 @@ Source: [Michael A. Aquino | Xeper.org](https://www.xeper.org/maquino/)
 <summary>Referenced By (1)</summary>
 
 - **[Michael Aquino](/entities/person-michael-aquino.md)** founded this
-  - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:23:20](/episodes/ep-ZZGWo6oDscc.md#t-00-22-52)
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:40:59](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-59)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:23:20](/episodes/ep-ZZGWo6oDscc.md#t-00-22-52): “So I'm going to now let Michael Aquino, who's head of PSYOPs, along with Paul Vallely, who's a board member, tell you what the goals were when he established the Temple of Set. Take a listen.”
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:40:59](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-59): “then he started the Temple of Set”
+
+</details>
 
 </details>
 

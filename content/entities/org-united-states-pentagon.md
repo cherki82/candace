@@ -12,10 +12,48 @@ _Type: Organizations_
 
 **Also known as:** Pentagon, The Pentagon
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-united-states-pentagon-t-00-04-43">2025-09-18 · 00:04:43</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-pentagon-t-00-44-50">2025-12-17 · 00:44:52</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-his-JBjlkh8.md#ent-org-united-states-pentagon-t-00-37-21">BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273</a> (10 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-sreYYcID-QY.md#ent-org-united-states-pentagon-t-00-04-43" style="--pulse-height:10%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 1 mentions" title="2025-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-46-55" style="--pulse-height:40%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 4 mentions" title="2025-11-05 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-org-united-states-pentagon-t-00-37-21" style="--pulse-height:100%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 10 mentions" title="2025-12-03 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-united-states-pentagon-t-00-02-11" style="--pulse-height:60%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 6 mentions" title="2025-12-05 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-united-states-pentagon-t-00-06-27" style="--pulse-height:10%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-org-united-states-pentagon-t-00-19-57" style="--pulse-height:20%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 2 mentions" title="2025-12-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-pentagon-t-00-34-40" style="--pulse-height:20%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-org-united-states-pentagon-t-00-04-43) | 1 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-org-united-states-pentagon-t-00-46-55) | 4 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-united-states-pentagon-t-00-37-21) | 10 |
+| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-org-united-states-pentagon-t-00-02-11) | 6 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-org-united-states-pentagon-t-00-06-27) | 1 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-org-united-states-pentagon-t-00-19-57) | 2 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-pentagon-t-00-34-40) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
@@ -139,7 +177,11 @@ _Type: Organizations_
 <summary>Employs (1)</summary>
 
 - **[Kingsley Wilson](/entities/person-kingsley-wilson.md)**
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:05:51](/episodes/ep-his-JBjlkh8.md#t-00-05-36): ""I'm Kingsley Wilson. I'm the press secretary here at the Pentagon.""
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:05:51](/episodes/ep-his-JBjlkh8.md#t-00-05-36): “"I'm Kingsley Wilson. I'm the press secretary here at the Pentagon."”
+
+</details>
 
 </details>
 
@@ -147,16 +189,32 @@ _Type: Organizations_
 <summary>Headquarters Of (4)</summary>
 
 - **[Department of Defense](/entities/org-department-of-defense.md)**
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:30](/episodes/ep-his-JBjlkh8.md#t-00-00-44): ""The United States Pentagon, in case you don't know, is the complex that houses our Department of Defense.""
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:30](/episodes/ep-his-JBjlkh8.md#t-00-00-44): “"The United States Pentagon, in case you don't know, is the complex that houses our Department of Defense."”
+
+</details>
 
 - **[United States Army](/entities/org-united-states-army.md)**
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31): ""It's headquarters for the Army, the Navy, and the Air Force.""
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31): “"It's headquarters for the Army, the Navy, and the Air Force."”
+
+</details>
 
 - **[United States Navy](/entities/org-united-states-navy.md)**
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31): ""It's headquarters for the Army, the Navy, and the Air Force.""
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31): “"It's headquarters for the Army, the Navy, and the Air Force."”
+
+</details>
 
 - **[United States Air Force](/entities/org-united-states-air-force.md)**
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31): ""It's headquarters for the Army, the Navy, and the Air Force.""
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31): “"It's headquarters for the Army, the Navy, and the Air Force."”
+
+</details>
 
 </details>
 
@@ -164,19 +222,39 @@ _Type: Organizations_
 <summary>Referenced By (5)</summary>
 
 - **[Department of Defense](/entities/org-department-of-defense.md)** headquartered in this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:30](/episodes/ep-his-JBjlkh8.md#t-00-00-44)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:30](/episodes/ep-his-JBjlkh8.md#t-00-00-44): “"The United States Pentagon, in case you don't know, is the complex that houses our Department of Defense."”
+
+</details>
 
 - **[United States Army](/entities/org-united-states-army.md)** headquartered in this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31): “"It's headquarters for the Army, the Navy, and the Air Force."”
+
+</details>
 
 - **[United States Navy](/entities/org-united-states-navy.md)** headquartered in this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31): “"It's headquarters for the Army, the Navy, and the Air Force."”
+
+</details>
 
 - **[United States Air Force](/entities/org-united-states-air-force.md)** headquartered in this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31): “"It's headquarters for the Army, the Navy, and the Air Force."”
+
+</details>
 
 - **[Kingsley Wilson](/entities/person-kingsley-wilson.md)** works for this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:05:51](/episodes/ep-his-JBjlkh8.md#t-00-05-36)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:05:51](/episodes/ep-his-JBjlkh8.md#t-00-05-36): “"I'm Kingsley Wilson. I'm the press secretary here at the Pentagon."”
+
+</details>
 
 </details>
 

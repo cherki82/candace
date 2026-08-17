@@ -22,10 +22,38 @@ _Type: Organizations_
 > Arizona entity record gives the canonical legal spelling Desert Spirit Tek, LLC and filing ID L22039349; transcript spellings are ASR variants.
 Source: [L22039349 - Desert Spirit Tek, LLC](https://www.city-data.com/business-entities/AZ/DESERT-SPIRIT-TEK-LLC-L22039349-AZ.html)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-desert-spirit-tek-t-00-14-05">2026-01-22 · 00:14:07</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-desert-spirit-tek-t-00-20-09">2026-02-13 · 00:20:29</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-desert-spirit-tek-t-00-14-05">Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295</a> (5 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-desert-spirit-tek-t-00-14-05" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 5 mentions" title="2026-01-22 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-desert-spirit-tek-t-00-20-09" style="--pulse-height:20%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-desert-spirit-tek-t-00-14-05) | 5 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-desert-spirit-tek-t-00-20-09) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
@@ -64,7 +92,11 @@ Source: [L22039349 - Desert Spirit Tek, LLC](https://www.city-data.com/business-
 <summary>Based In (1)</summary>
 
 - **[Sacaton, Arizona](/entities/gpe-sacaton-arizona.md)**
-  - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:13:20](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-41): "Located on a Native American reservation in a town called Saukett in Arizona, ... the business that they filed is called Desert Spirit Tech, LLC."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:13:20](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-41): “Located on a Native American reservation in a town called Saukett in Arizona, ... the business that they filed is called Desert Spirit Tech, LLC.”
+
+</details>
 
 </details>
 
@@ -72,7 +104,11 @@ Source: [L22039349 - Desert Spirit Tek, LLC](https://www.city-data.com/business-
 <summary>Has Registered Agent (1)</summary>
 
 - **[Larry Guinta](/entities/person-larry-guinta.md)**
-  - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:15:39](/episodes/ep-gG4ZoYUjUc8.md#t-00-15-32): "The business that they filed is called Desert Spirit Tech, LLC ... Larry Guinta ... is also listed ... as the business's registered agent."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:15:39](/episodes/ep-gG4ZoYUjUc8.md#t-00-15-32): “The business that they filed is called Desert Spirit Tech, LLC ... Larry Guinta ... is also listed ... as the business's registered agent.”
+
+</details>
 
 </details>
 
@@ -80,7 +116,11 @@ Source: [L22039349 - Desert Spirit Tek, LLC](https://www.city-data.com/business-
 <summary>Operated By (1)</summary>
 
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)**
-  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:29](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09): "this desert spirit tech company that she was running, Lori (Erika Kirk's mother; surname unverified) was running"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:29](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09): “this desert spirit tech company that she was running, Lori (Erika Kirk's mother; surname unverified) was running”
+
+</details>
 
 </details>
 
@@ -88,10 +128,18 @@ Source: [L22039349 - Desert Spirit Tek, LLC](https://www.city-data.com/business-
 <summary>Owned By (2)</summary>
 
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)**
-  - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:15:30](/episodes/ep-gG4ZoYUjUc8.md#t-00-14-47): "The business that they filed is called Desert Spirit Tech, LLC ... Lorin Frantzve is listed as a 20% stakeholder in the business."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:15:30](/episodes/ep-gG4ZoYUjUc8.md#t-00-14-47): “The business that they filed is called Desert Spirit Tech, LLC ... Lorin Frantzve is listed as a 20% stakeholder in the business.”
+
+</details>
 
 - **[Larry Guinta](/entities/person-larry-guinta.md)**
-  - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:15:39](/episodes/ep-gG4ZoYUjUc8.md#t-00-15-32): "But what we can discern from the filing of Desert Tech is that Lorin Frantzve is listed as a 20% stakeholder in the business. Larry Guinta, her husband, is also listed as a stakeholder and as the business's registered agent."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:15:39](/episodes/ep-gG4ZoYUjUc8.md#t-00-15-32): “But what we can discern from the filing of Desert Tech is that Lorin Frantzve is listed as a 20% stakeholder in the business. Larry Guinta, her husband, is also listed as a stakeholder and as the business's registered agent.”
+
+</details>
 
 </details>
 
@@ -99,19 +147,39 @@ Source: [L22039349 - Desert Spirit Tek, LLC](https://www.city-data.com/business-
 <summary>Referenced By (5)</summary>
 
 - **[Sacaton, Arizona](/entities/gpe-sacaton-arizona.md)** location of this
-  - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:13:20](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-41)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:13:20](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-41): “Located on a Native American reservation in a town called Saukett in Arizona, ... the business that they filed is called Desert Spirit Tech, LLC.”
+
+</details>
 
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)** operates this
-  - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:29](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:29](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09): “this desert spirit tech company that she was running, Lori (Erika Kirk's mother; surname unverified) was running”
+
+</details>
 
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)** owns this
-  - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:15:30](/episodes/ep-gG4ZoYUjUc8.md#t-00-14-47)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:15:30](/episodes/ep-gG4ZoYUjUc8.md#t-00-14-47): “The business that they filed is called Desert Spirit Tech, LLC ... Lorin Frantzve is listed as a 20% stakeholder in the business.”
+
+</details>
 
 - **[Larry Guinta](/entities/person-larry-guinta.md)** owns this
-  - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:15:39](/episodes/ep-gG4ZoYUjUc8.md#t-00-15-32)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:15:39](/episodes/ep-gG4ZoYUjUc8.md#t-00-15-32): “But what we can discern from the filing of Desert Tech is that Lorin Frantzve is listed as a 20% stakeholder in the business. Larry Guinta, her husband, is also listed as a stakeholder and as the business's registered agent.”
+
+</details>
 
 - **[Larry Guinta](/entities/person-larry-guinta.md)** registered agent for this
-  - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:15:39](/episodes/ep-gG4ZoYUjUc8.md#t-00-15-32)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:15:39](/episodes/ep-gG4ZoYUjUc8.md#t-00-15-32): “The business that they filed is called Desert Spirit Tech, LLC ... Larry Guinta ... is also listed ... as the business's registered agent.”
+
+</details>
 
 </details>
 

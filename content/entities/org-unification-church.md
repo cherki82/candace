@@ -24,10 +24,42 @@ _Type: Organizations_
 > Associated Press confirms the commonly used name Unification Church and the current official name Family Federation for World Peace and Unification.
 Source: [What is the Unification Church and why did a Japanese court order it dissolved? | AP](https://apnews.com/article/eefc8dabe21bb4dd4ed43acd197572a3)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-unification-church-t-00-49-36">2026-01-09 · 00:49:36</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-unification-church-t-00-22-10">2026-01-28 · 00:22:25</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-CMcktj3Egfo.md#ent-org-unification-church-t-00-12-51">American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288</a> (14 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-unification-church-t-00-49-36" style="--pulse-height:57%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 8 mentions" title="2026-01-09 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-unification-church-t-00-12-51" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 14 mentions" title="2026-01-12 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-unification-church-t-00-14-32" style="--pulse-height:21%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-unification-church-t-00-22-10" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-unification-church-t-00-49-36) | 8 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-unification-church-t-00-12-51) | 14 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-unification-church-t-00-14-32) | 3 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-unification-church-t-00-22-10) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
 
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1 mentions)</summary>
@@ -136,8 +168,12 @@ Source: [What is the Unification Church and why did a Japanese court order it di
 <summary>Founded By (1)</summary>
 
 - **[Sun Myung Moon](/entities/person-sun-myung-moon.md)**
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:51:35](/episodes/ep-wcD2khO3rOA.md#t-00-50-55): "the Reverend Sun Myung Moon, his Unification Church."
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:13:25](/episodes/ep-CMcktj3Egfo.md#t-00-12-51): "the Unification Church,"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:51:35](/episodes/ep-wcD2khO3rOA.md#t-00-50-55): “the Reverend Sun Myung Moon, his Unification Church.”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:13:25](/episodes/ep-CMcktj3Egfo.md#t-00-12-51): “the Unification Church,”
+
+</details>
 
 </details>
 
@@ -145,8 +181,12 @@ Source: [What is the Unification Church and why did a Japanese court order it di
 <summary>Owns (1)</summary>
 
 - **[The Washington Times](/entities/org-washington-times.md)**
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:53:49](/episodes/ep-wcD2khO3rOA.md#t-00-53-40): "Of moon's u s holdings, those include the Washington Times"
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:25:08](/episodes/ep-CMcktj3Egfo.md#t-00-24-41): "which I told you they purchased the Washington Times"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:53:49](/episodes/ep-wcD2khO3rOA.md#t-00-53-40): “Of moon's u s holdings, those include the Washington Times”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:25:08](/episodes/ep-CMcktj3Egfo.md#t-00-24-41): “which I told you they purchased the Washington Times”
+
+</details>
 
 </details>
 
@@ -154,12 +194,20 @@ Source: [What is the Unification Church and why did a Japanese court order it di
 <summary>Referenced By (2)</summary>
 
 - **[Sun Myung Moon](/entities/person-sun-myung-moon.md)** founded this
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:51:35](/episodes/ep-wcD2khO3rOA.md#t-00-50-55)
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:13:25](/episodes/ep-CMcktj3Egfo.md#t-00-12-51)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:51:35](/episodes/ep-wcD2khO3rOA.md#t-00-50-55): “the Reverend Sun Myung Moon, his Unification Church.”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:13:25](/episodes/ep-CMcktj3Egfo.md#t-00-12-51): “the Unification Church,”
+
+</details>
 
 - **[The Washington Times](/entities/org-washington-times.md)** owned by this
-  - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:53:49](/episodes/ep-wcD2khO3rOA.md#t-00-53-40)
-  - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:25:08](/episodes/ep-CMcktj3Egfo.md#t-00-24-41)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:53:49](/episodes/ep-wcD2khO3rOA.md#t-00-53-40): “Of moon's u s holdings, those include the Washington Times”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:25:08](/episodes/ep-CMcktj3Egfo.md#t-00-24-41): “which I told you they purchased the Washington Times”
+
+</details>
 
 </details>
 
@@ -201,7 +249,7 @@ Source: [What is the Unification Church and why did a Japanese court order it di
   - Also about: [Sun Myung Moon](/entities/person-sun-myung-moon.md), [The Washington Times](/entities/org-washington-times.md), [Central America](/entities/gpe-central-america.md)
 
 - [00:52:18](/episodes/ep-wcD2khO3rOA.md#t-00-51-36) (Claim) **The Washington Post** (via quoted article): ["In 1997, Moon-affiliated organizations controlled more than $300 milli..."](/statements/statement-44e4197a4f21.md)
-  - Also about: [Sun Myung Moon](/entities/person-sun-myung-moon.md), [Washington, D.C.](/entities/gpe-washington-dc.md)
+  - Also about: [Sun Myung Moon](/entities/person-sun-myung-moon.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
 - [00:52:51](/episodes/ep-wcD2khO3rOA.md#t-00-52-18) (Claim) **The Washington Post** (via quoted article): ["Moon’s network was a sprawling collection of churches, nonprofit found..."](/statements/statement-5b5828e1394e.md)
   - Also about: [Sun Myung Moon](/entities/person-sun-myung-moon.md), [Moon Inc.](/entities/concept-moon-inc.md)

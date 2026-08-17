@@ -20,10 +20,38 @@ _Type: People_
 > Exact Candace Owens interview context resolves the forgotten rabbi surname to Michael Barclay.
 Source: [Candace Owens Insists She Has Not Insulted Ben Shapiro | Mediaite](https://www.mediaite.com/media/news/candace-owens-insists-she-has-not-insulted-ben-shapiro-despite-anti-semitic-crack-calling-him-emotionally-unhinged/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-michael-barclay-t-01-32-25">2026-01-29 · 01:32:31</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Wjul6YV6izo.md#ent-person-michael-barclay-t-00-57-25">2026-01-30 · 00:57:25</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-michael-barclay-t-01-32-25">Candace x Bassem Youssef | Candace Ep 298</a> (2 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-michael-barclay-t-01-32-25" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-person-michael-barclay-t-00-38-29" style="--pulse-height:100%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 2 mentions" title="2026-01-30 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-michael-barclay-t-01-32-25) | 2 |
+| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-michael-barclay-t-00-38-29) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
 
 <details>
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (2 mentions)</summary>
@@ -56,8 +84,12 @@ Source: [Candace Owens Insists She Has Not Insulted Ben Shapiro | Mediaite](http
 <summary>Debated (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Myron Gaines x Candace Owens @ 00:34:38](/episodes/ep-2T39-oADLj0.md#t-00-34-12): "you start talking about it i remember you had debated uh a rabbi forget i can't remember his name a a couple of them rabbi couple of there was them rabbi shmuley yeah and then there was that idiot and the other one who was oh gosh i have i have to remember his name he was my favorite candace this yeah yeah the is the worst anti-semitism he actually was low-key my favorite because he was so over the top oh yeah like oh hey yeah he was so over the top and he was like you can't even say what was it witches skylar what was What was the name of that rabbi? barclay Rabbi yeah okay Barclay."
-  - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:38:29](/episodes/ep-Wjul6YV6izo.md#t-00-38-29): "Frank Turek, I've invited him on this show many times. He gives me Rabbi Barclay, who I had that debate with when I was over the Daily Wire."
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:34:38](/episodes/ep-2T39-oADLj0.md#t-00-34-12): “you start talking about it i remember you had debated uh a rabbi forget i can't remember his name a a couple of them rabbi couple of there was them rabbi shmuley yeah and then there was that idiot and the other one who was oh gosh i have i have to remember his name he was my favorite candace this yeah yeah the is the worst anti-semitism he actually was low-key my favorite because he was so over the top oh yeah like oh hey yeah he was so over the top and he was like you can't even say what was it witches skylar what was What was the name of that rabbi? barclay Rabbi yeah okay Barclay.”
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:38:29](/episodes/ep-Wjul6YV6izo.md#t-00-38-29): “Frank Turek, I've invited him on this show many times. He gives me Rabbi Barclay, who I had that debate with when I was over the Daily Wire.”
+
+</details>
 
 </details>
 
@@ -65,7 +97,11 @@ Source: [Candace Owens Insists She Has Not Insulted Ben Shapiro | Mediaite](http
 <summary>Interviewed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:32:31](/episodes/ep-xjzb_t5Tk9o.md#t-01-32-25): "Rabbi Barclay. ... It is still one of my favorite interviews."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:32:31](/episodes/ep-xjzb_t5Tk9o.md#t-01-32-25): “Rabbi Barclay. ... It is still one of my favorite interviews.”
+
+</details>
 
 </details>
 
@@ -73,11 +109,19 @@ Source: [Candace Owens Insists She Has Not Insulted Ben Shapiro | Mediaite](http
 <summary>Referenced By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** debated this
-  - [Myron Gaines x Candace Owens @ 00:34:38](/episodes/ep-2T39-oADLj0.md#t-00-34-12)
-  - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:38:29](/episodes/ep-Wjul6YV6izo.md#t-00-38-29)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:34:38](/episodes/ep-2T39-oADLj0.md#t-00-34-12): “you start talking about it i remember you had debated uh a rabbi forget i can't remember his name a a couple of them rabbi couple of there was them rabbi shmuley yeah and then there was that idiot and the other one who was oh gosh i have i have to remember his name he was my favorite candace this yeah yeah the is the worst anti-semitism he actually was low-key my favorite because he was so over the top oh yeah like oh hey yeah he was so over the top and he was like you can't even say what was it witches skylar what was What was the name of that rabbi? barclay Rabbi yeah okay Barclay.”
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:38:29](/episodes/ep-Wjul6YV6izo.md#t-00-38-29): “Frank Turek, I've invited him on this show many times. He gives me Rabbi Barclay, who I had that debate with when I was over the Daily Wire.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed this
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:32:31](/episodes/ep-xjzb_t5Tk9o.md#t-01-32-25)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:32:31](/episodes/ep-xjzb_t5Tk9o.md#t-01-32-25): “Rabbi Barclay. ... It is still one of my favorite interviews.”
+
+</details>
 
 </details>
 

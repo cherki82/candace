@@ -16,10 +16,54 @@ _Type: People_
 > Official TPUSA team page lists Elizabeth McCoy as Administrative Director of Events.
 Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-person-elizabeth-mccoy-t-00-42-01">2025-11-05 · 00:42:32</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#ent-person-elizabeth-mccoy-t-00-02-54">2026-02-10 · 00:02:54</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>5</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-elizabeth-mccoy-t-00-19-00">A Legal Turning Point? | Candace Ep 292</a> (4 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-elizabeth-mccoy-t-00-42-01" style="--pulse-height:25%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-elizabeth-mccoy-t-00-29-52" style="--pulse-height:50%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 2 mentions" title="2025-11-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#t-00-18-23" style="--pulse-height:25%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-elizabeth-mccoy-t-00-11-36" style="--pulse-height:75%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 3 mentions" title="2026-01-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-elizabeth-mccoy-t-00-17-13" style="--pulse-height:25%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-elizabeth-mccoy-t-00-19-00" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 4 mentions" title="2026-01-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-elizabeth-mccoy-t-01-08-36" style="--pulse-height:25%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-elizabeth-mccoy-t-01-05-44" style="--pulse-height:25%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-elizabeth-mccoy-t-00-27-33" style="--pulse-height:50%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-elizabeth-mccoy-t-00-02-54" style="--pulse-height:25%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-elizabeth-mccoy-t-00-42-01) | 1 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-elizabeth-mccoy-t-00-29-52) | 2 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#t-00-18-23) | 1 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-elizabeth-mccoy-t-00-11-36) | 3 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-elizabeth-mccoy-t-00-17-13) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-elizabeth-mccoy-t-00-19-00) | 4 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-elizabeth-mccoy-t-01-08-36) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-elizabeth-mccoy-t-01-05-44) | 1 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-elizabeth-mccoy-t-00-27-33) | 2 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-elizabeth-mccoy-t-00-02-54) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1 mentions)</summary>
@@ -131,8 +175,12 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Close Associate Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-  - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:11:51](/episodes/ep-OEAHy3SsIiI.md#t-00-11-36): "she's very close with Elizabeth McCoy. She's very close with her."
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:18:57](/episodes/ep-NIEbqsLAK8g.md#t-00-18-17): "It's probably Elizabeth McCoy. I feel like if I had to guess, it's her, because they're best friends"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:11:51](/episodes/ep-OEAHy3SsIiI.md#t-00-11-36): “she's very close with Elizabeth McCoy. She's very close with her.”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:18:57](/episodes/ep-NIEbqsLAK8g.md#t-00-18-17): “It's probably Elizabeth McCoy. I feel like if I had to guess, it's her, because they're best friends”
+
+</details>
 
 </details>
 
@@ -140,7 +188,11 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Married To (1)</summary>
 
 - **[Michael McCoy](/entities/person-michael-mccoy.md)**
-  - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:11:46](/episodes/ep-OEAHy3SsIiI.md#t-00-11-36): "potentially more amazing than her husband Michael McCoy."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:11:46](/episodes/ep-OEAHy3SsIiI.md#t-00-11-36): “potentially more amazing than her husband Michael McCoy.”
+
+</details>
 
 </details>
 
@@ -148,7 +200,11 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Met With (1)</summary>
 
 - **[Mikey McCoy](/entities/person-mikey-mccoy.md)**
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:30:08](/episodes/ep-SKGUzGHymcI.md#t-00-29-52): "Elizabeth McCoy screamed, she grabbed her phone, she ran out. Mikey probably called her, that would make sense."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:30:08](/episodes/ep-SKGUzGHymcI.md#t-00-29-52): “Elizabeth McCoy screamed, she grabbed her phone, she ran out. Mikey probably called her, that would make sense.”
+
+</details>
 
 </details>
 
@@ -156,11 +212,19 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Referenced By (2)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** close associate of this
-  - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:11:51](/episodes/ep-OEAHy3SsIiI.md#t-00-11-36)
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:18:57](/episodes/ep-NIEbqsLAK8g.md#t-00-18-17)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:11:51](/episodes/ep-OEAHy3SsIiI.md#t-00-11-36): “she's very close with Elizabeth McCoy. She's very close with her.”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:18:57](/episodes/ep-NIEbqsLAK8g.md#t-00-18-17): “It's probably Elizabeth McCoy. I feel like if I had to guess, it's her, because they're best friends”
+
+</details>
 
 - **[Mikey McCoy](/entities/person-mikey-mccoy.md)** met with this
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:30:08](/episodes/ep-SKGUzGHymcI.md#t-00-29-52)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:30:08](/episodes/ep-SKGUzGHymcI.md#t-00-29-52): “Elizabeth McCoy screamed, she grabbed her phone, she ran out. Mikey probably called her, that would make sense.”
+
+</details>
 
 </details>
 

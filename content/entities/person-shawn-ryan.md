@@ -1,6 +1,6 @@
 ---
 title: "Shawn Ryan"
-description: "Shawn Ryan (People) - 20 mentions"
+description: "Shawn Ryan (People) - 19 mentions"
 id: "person-shawn-ryan"
 type: "PERSON"
 aliases:
@@ -15,10 +15,52 @@ _Type: People_
 **Entity verification:** verified
 > Podcast host identified by the source clip and episode context.
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-person-shawn-ryan-t-00-22-50">2025-11-05 · 00:23:08</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-shawn-ryan-t-00-24-18">2026-01-19 · 00:24:44</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-sImMM04XdWY.md#ent-person-shawn-ryan-t-00-00-01">Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269</a> (5 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-shawn-ryan-t-00-22-50" style="--pulse-height:60%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 3 mentions" title="2025-11-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-shawn-ryan-t-00-54-31" style="--pulse-height:40%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 2 mentions" title="2025-11-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#t-00-24-10" style="--pulse-height:40%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-shawn-ryan-t-00-33-15" style="--pulse-height:20%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-person-shawn-ryan-t-00-00-01" style="--pulse-height:100%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 5 mentions" title="2025-11-20 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-person-shawn-ryan-t-00-08-43" style="--pulse-height:20%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-shawn-ryan-t-00-40-54" style="--pulse-height:60%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 3 mentions" title="2025-12-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-shawn-ryan-t-00-00-57" style="--pulse-height:20%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-shawn-ryan-t-00-24-18" style="--pulse-height:20%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-shawn-ryan-t-00-22-50) | 3 |
+| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-person-shawn-ryan-t-00-54-31) | 2 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#t-00-24-10) | 2 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-shawn-ryan-t-00-33-15) | 1 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-shawn-ryan-t-00-00-01) | 5 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-shawn-ryan-t-00-08-43) | 1 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-shawn-ryan-t-00-40-54) | 3 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-shawn-ryan-t-00-00-57) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-shawn-ryan-t-00-24-18) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
 
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
@@ -51,10 +93,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
-
-**[00:08:56](/episodes/ep-his-JBjlkh8.md#ent-person-shawn-ryan-t-00-08-43)**
-> "In a sit-down with Sean Ryan, Brian Harpole said"
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
 
 **[00:08:56](/episodes/ep-his-JBjlkh8.md#ent-person-shawn-ryan-t-00-08-43)**
 > "...lled out any gauze and tried to stop the bleeding. And they've admitted to that. In a sit-down with Sean Ryan, Brian Harpole said, "It was because of the severity of the injury." I'm sorry again that we notice..."
@@ -134,9 +173,13 @@ _Type: People_
 <summary>Interviewed (1)</summary>
 
 - **[Brian Harpole](/entities/person-brian-harpole.md)**
-  - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01): "Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day."
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:09:02](/episodes/ep-his-JBjlkh8.md#t-00-08-43): "In a sit down with Sean Ryan, Brian Harpole said, 'It was because of the severity of the injury.'"
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:31:16](/episodes/ep-SKGUzGHymcI.md#t-00-31-12): "Yesterday we talked about Brian, the security guy who was not convincing at all... elsewhere in that interview with Brian Harpole, the security guy with Sean Ryan"
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01): “Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day.”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:09:02](/episodes/ep-his-JBjlkh8.md#t-00-08-43): “In a sit down with Sean Ryan, Brian Harpole said, 'It was because of the severity of the injury.'”
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:31:16](/episodes/ep-SKGUzGHymcI.md#t-00-31-12): “Yesterday we talked about Brian, the security guy who was not convincing at all... elsewhere in that interview with Brian Harpole, the security guy with Sean Ryan”
+
+</details>
 
 </details>
 
@@ -144,8 +187,12 @@ _Type: People_
 <summary>Referenced By (1)</summary>
 
 - **[Brian Harpole](/entities/person-brian-harpole.md)** interviewed by this
-  - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01)
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:09:02](/episodes/ep-his-JBjlkh8.md#t-00-08-43)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01): “Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day.”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:09:02](/episodes/ep-his-JBjlkh8.md#t-00-08-43): “In a sit down with Sean Ryan, Brian Harpole said, 'It was because of the severity of the injury.'”
+
+</details>
 
 </details>
 

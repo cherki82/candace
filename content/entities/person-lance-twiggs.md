@@ -1,6 +1,6 @@
 ---
 title: "Lance Twiggs"
-description: "Lance Twiggs (People) - 48 mentions"
+description: "Lance Twiggs (People) - 81 mentions"
 id: "person-lance-twiggs"
 type: "PERSON"
 aliases:
@@ -16,14 +16,166 @@ _Type: People_
 
 **Categories:** Charlie Kirk case
 
+> **Possibly overlapping entity records:** [Lance](/entities/person-lance-robinson-boyfriend). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > Official charging document confirms canonical name in the case context.
 Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.gov/cms/uploads/TJR_Information_49872215e3.pdf)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-00-45">2025-09-16 · 00:00:45</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-04-02-09">2026-08-14 · 04:02:22</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>81</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Relationships</span><strong>1</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-00-47-02">Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast</a> (35 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-00-45" style="--pulse-height:57%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 20 mentions" title="2025-09-16 · 20 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-00-01" style="--pulse-height:11%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 4 mentions" title="2025-09-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-lance-twiggs-t-00-44-23" style="--pulse-height:8%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZGxnf5cj4Uw.md#t-00-12-42" style="--pulse-height:34%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 12 mentions" title="2025-09-29 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-person-lance-twiggs-t-00-29-56" style="--pulse-height:14%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 5 mentions" title="2025-10-07 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-lance-twiggs-t-00-08-57" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-lance-twiggs-t-01-06-38" style="--pulse-height:9%" aria-label="Myron Gaines x Candace Owens: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-00-47-02" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 35 mentions" title="2026-08-14 · 35 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-00-45) | 20 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-00-01) | 4 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-lance-twiggs-t-00-44-23) | 1 |
+| 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#t-00-12-42) | 12 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-lance-twiggs-t-00-29-56) | 5 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-lance-twiggs-t-00-08-57) | 1 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-lance-twiggs-t-01-06-38) | 3 |
+| 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-00-47-02) | 35 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (81)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (35 mentions)</summary>
+
+**[00:47:02](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-00-47-02)**
+> "Lance Twigg's DNA was on there, and it was not."
+
+**[00:48:57](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-00-48-46)**
+> "Lance Twiggs. Those are the three names they named, and—"
+
+**[00:49:00](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-00-49-00)**
+> "saying that Twiggs's (Lance Twiggs's) fingerprints?"
+
+**[00:49:08](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-00-49-08)**
+> "...t robinson amber robinson and lance twigs as the elimination samples that she was usi..."
+
+**[00:50:39](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-00-50-33)**
+> "... that these fingerprints were Lance Twiggs or that he had any DNA there?"
+
+**[00:51:07](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-00-50-54)**
+> "Twiggs's (Lance Twiggs's) family,"
+
+**[00:51:50](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-00-51-44)**
+> "...n's prints on this, obviously Lance Twiggs, even if he has prints on things they live togeth..."
+
+**[00:56:27](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-00-56-27)**
+> "...ased off of hearsay. In fact, Lance's testimony."
+
+**[00:56:46](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-00-56-27)**
+> "Lance,"
+
+**[00:56:54](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-00-56-27)**
+> "...d say we get to cross-examine Lance Lance"
+
+**[01:09:05](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-01-09-05)**
+> "thing you said was Lance's testimony where, and actually what Lance says is ..."
+
+**[01:09:11](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-01-09-11)**
+> "...would like to remind you that lance's statement would not be permitted this was a huge ..."
+
+**[01:09:45](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-01-09-45)**
+> "... it particularly happened for lance and this testimony and i would also like to point..."
+
+**[01:12:25](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-01-12-25)**
+> "and they discussed how if Lance was in court and he was giving his first party, y..."
+
+**[01:31:52](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-01-31-37)**
+> "... you are saying that you took Lance's phone okay and that you collected his phone on Se..."
+
+**[01:32:52](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-01-32-20)**
+> "Lance, my boyfriend,"
+
+**[01:33:42](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-01-33-42)**
+> "Lance was his boyfriend."
+
+**[01:35:18](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-01-35-14)**
+> "Lance Twiggs,"
+
+**[01:58:14](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-01-58-01)**
+> "...se immunity that was given to Lance by the feds, the fact that the feds didn't ask."
+
+**[01:58:26](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-01-58-01)**
+> "...s. The fact that I spoke with Lance Twiggs'"
+
+**[02:20:35](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-02-20-35)**
+> "...irect question super easy was Lance Twiggs DNA on the rifle as far as you know as"
+
+**[02:23:49](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-02-23-41)**
+> "which Lance testified that he never spoke about with him, nor..."
+
+**[03:23:37](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-03-23-25)**
+> "...I do want to play the Twiggs (Lance Twiggs) clip."
+
+**[03:23:46](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-03-23-46)**
+> "...ly watched it, I thought that Lance Twiggs' DNA,"
+
+**[03:23:59](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-03-23-46)**
+> "...got the samples and they said Lance Matt and Anderson sorry Lance Matt and Amber Robi..."
+
+**[03:24:16](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-03-23-46)**
+> "... haven't officially said that Lance or Amber are on the gun."
+
+**[03:24:30](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-03-24-30)**
+> "Twiggs's (Lance Twiggs's)"
+
+**[03:25:29](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-03-25-12)**
+> "So we don't know yet if Lance Twiggs has his DNA on the prints, DNA on the gun officia..."
+
+**[03:32:34](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-03-32-34)**
+> "did this crime okay because Lance"
+
+**[03:32:39](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-03-32-34)**
+> "the towel Lance"
+
+**[03:32:54](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-03-32-54)**
+> "Lance"
+
+**[03:32:57](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-03-32-57)**
+> "...ed they didn't explicitly say Lance Twiggs they said five other profiles were on it and that..."
+
+**[04:02:22](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-04-02-09)**
+> "...d that I didn't misspeak on a Lance thing."
+
+**[00:48:46](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-00-48-46)**
+> "... Robinson, Matt Robinson, and Lance."
+
+**[00:51:01](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-00-50-54)**
+> "...he Robinson family, Twiggs's (Lance Twiggs's) family, both of them."
+
+</details>
 
 <details>
 <summary>Myron Gaines x Candace Owens (3 mentions)</summary>
@@ -117,10 +269,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (5 mentions)</summary>
-
-**[00:00:18](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-00-01)**
-> "the alleged conversation held between Tyler Robinson and his 22-year-old boyfriend, Lance Twiggs"
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (4 mentions)</summary>
 
 **[00:00:18](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-00-01)**
 > "...2-year-old alleged killer of Charlie (Charlie Kirk), Tyler Robinson, and his 22-year-old boyfriend, Lance Twiggs. The first term I want you to search is "retrieve." Look it up. When was the last time that you use..."
@@ -137,13 +286,10 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (21 mentions)</summary>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (20 mentions)</summary>
 
 **[00:00:45](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-00-45)**
 > "...ased, and I have a lot of questions that I think need to be answered regarding his trans boyfriend, Lance Twiggs. Well, I just spoke to a family member who told me a lot about Lance Twiggs because the media is ki..."
-
-**[00:00:56](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-00-45)**
-> "I have a lot of questions that I think need to be answered regarding his trans boyfriend, Lance Twiggs"
 
 **[00:00:56](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-00-45)**
 > "...ng his trans boyfriend, Lance Twiggs. Well, I just spoke to a family member who told me a lot about Lance Twiggs because the media is kind of presenting him as this do-gooder. You might be interested to know that..."
@@ -213,14 +359,35 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <summary>Referenced By (1)</summary>
 
 - **[Tyler James Robinson](/entities/person-tyler-robinson.md)** dating this
-  - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:09:34](/episodes/ep-HYn0P-P1wUw.md#t-00-08-57)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:09:34](/episodes/ep-HYn0P-P1wUw.md#t-00-08-57): “is when we are gauging the first correspondence to have taken place between Tyler (Tyler Robinson) and Lance (Lance Twiggs) based on the conversation that they were having.”
+- [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 01:33:42](/episodes/ep-nPhCKwJ6ye8.md#t-01-33-02): “Lance was his boyfriend. That is a that is a crucial fact here. That discovery was not met by the time I got to preliminary hearing.”
+
+</details>
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lance Twiggs (11)</strong></summary>
+<summary><strong class="section-title">Statements about Lance Twiggs (15)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4)</summary>
+
+- [00:47:02](/episodes/ep-nPhCKwJ6ye8.md#t-00-47-02) (Claim) **Andrew Wilson**: ["Tyler Robinson's DNA was on the rifle, while the available testimony d..."](/statements/statement-8208e54f6594.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [01:10:29](/episodes/ep-nPhCKwJ6ye8.md#t-01-10-29) (Claim) **Candace Owens**: ["Lance Twiggs received use immunity before his recorded testimony, acco..."](/statements/statement-4dbfe37d9a8a.md)
+
+- [01:58:14](/episodes/ep-nPhCKwJ6ye8.md#t-01-58-01) (Accusation) **Candace Owens**: ["Candace Owens believes Tyler Robinson was involved somehow but conside..."](/statements/statement-2683c02b1ee5.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [03:25:17](/episodes/ep-nPhCKwJ6ye8.md#t-03-25-12) (Citation) **Candace Owens**: ["After rewatching the testimony, Candace Owens corrected her earlier cl..."](/statements/statement-7d36617db0e1.md)
+  - Also about: [Matt Robinson](/entities/person-matt-robinson.md), [Amber Robinson](/entities/person-amber-robinson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
 
 <details>
 <summary>Myron Gaines x Candace Owens (2)</summary>

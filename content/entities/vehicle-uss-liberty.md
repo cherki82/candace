@@ -19,10 +19,36 @@ _Type: Vehicles_
 > Official U.S. Navy history verifies the canonical ship name USS Liberty (AGTR-5).
 Source: [Naval History and Heritage Command: The Six-Day War and USS Liberty](https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/middle-east/six-day-war-liberty.html)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-vehicle-uss-liberty-t-00-04-59">2026-01-29 · 00:05:09</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-vehicle-uss-liberty-t-01-25-31">2026-01-29 · 01:25:34</a></strong></div>
+<div><span>Episodes</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-vehicle-uss-liberty-t-00-04-59">Candace x Bassem Youssef | Candace Ep 298</a> (5 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-vehicle-uss-liberty-t-00-04-59" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 5 mentions" title="2026-01-29 · 5 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-vehicle-uss-liberty-t-00-04-59) | 5 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (5 mentions)</summary>
@@ -53,7 +79,11 @@ Source: [Naval History and Heritage Command: The Six-Day War and USS Liberty](ht
 <summary>Investigated By (1)</summary>
 
 - **[Ward Boston](/entities/person-ward-boston.md)**
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:22:12](/episodes/ep-xjzb_t5Tk9o.md#t-01-22-12): "Ama Musa writes, Ward Boston was a Navy judge advocate general who investigated Liberty, ... U.S. Liberty."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:22:12](/episodes/ep-xjzb_t5Tk9o.md#t-01-22-12): “Ama Musa writes, Ward Boston was a Navy judge advocate general who investigated Liberty, ... U.S. Liberty.”
+
+</details>
 
 </details>
 
@@ -61,7 +91,11 @@ Source: [Naval History and Heritage Command: The Six-Day War and USS Liberty](ht
 <summary>Referenced By (1)</summary>
 
 - **[Ward Boston](/entities/person-ward-boston.md)** investigated this
-  - [Candace x Bassem Youssef | Candace Ep 298 @ 01:22:12](/episodes/ep-xjzb_t5Tk9o.md#t-01-22-12)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:22:12](/episodes/ep-xjzb_t5Tk9o.md#t-01-22-12): “Ama Musa writes, Ward Boston was a Navy judge advocate general who investigated Liberty, ... U.S. Liberty.”
+
+</details>
 
 </details>
 
@@ -80,7 +114,7 @@ Source: [Naval History and Heritage Command: The Six-Day War and USS Liberty](ht
   - Also about: [Israel](/entities/gpe-israel.md)
 
 - [00:10:07](/episodes/ep-xjzb_t5Tk9o.md#t-00-10-07) (Accusation) **Candace Owens**: ["The Daily Wire sued Candace Owens for letting USS Liberty survivor Phi..."](/statements/statement-2bff31e56fad.md)
-  - Also about: [The Daily Wire](/entities/org-daily-wire.md), [Phil Tourney](/entities/person-phil-tourney.md), [Candace Owens](/entities/person-candace-owens.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Phil Tourney](/entities/person-phil-tourney.md), [Candace Owens](/entities/person-candace-owens.md)
 
 - [01:22:12](/episodes/ep-xjzb_t5Tk9o.md#t-01-22-12) (Accusation) **Ward Boston** (via quoted document): ["The USS Liberty investigation was a cover-up and the attack was delibe..."](/statements/statement-477a982ea9ac.md)
   - Also about: [Ward Boston](/entities/person-ward-boston.md), [United States Navy](/entities/org-united-states-navy.md), [Israel](/entities/gpe-israel.md)

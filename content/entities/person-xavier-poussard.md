@@ -1,19 +1,63 @@
 ---
 title: "Xavier Poussard"
-description: "Xavier Poussard (People) - 11 mentions"
+description: "Xavier Poussard (People) - 12 mentions"
 id: "person-xavier-poussard"
 type: "PERSON"
+categories:
+  - "French investigative publishing"
 ---
 
 _Type: People_
 
+**Categories:** French investigative publishing
+
 **Entity verification:** verified
 > Researcher cited by Candace Owens.
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-person-xavier-poussard-t-00-07-38">2025-11-20 · 00:08:00</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-xavier-poussard-t-00-20-53">2026-02-25 · 00:20:53</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-sImMM04XdWY.md#ent-person-xavier-poussard-t-00-07-38">Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269</a> (9 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-sImMM04XdWY.md#ent-person-xavier-poussard-t-00-07-38" style="--pulse-height:100%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 9 mentions" title="2025-11-20 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-xavier-poussard-t-00-03-45" style="--pulse-height:11%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-xavier-poussard-t-00-34-01" style="--pulse-height:11%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-xavier-poussard-t-00-20-53" style="--pulse-height:11%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-xavier-poussard-t-00-07-38) | 9 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-xavier-poussard-t-00-03-45) | 1 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-xavier-poussard-t-00-34-01) | 1 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-xavier-poussard-t-00-20-53) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1 mentions)</summary>
+
+**[00:20:53](/episodes/ep-ZAsV0fHGBiM.md#ent-person-xavier-poussard-t-00-20-53)**
+> "...hat and I remember reading in Xavier Poussard's book, Becoming Brigitte, that it is actually an i..."
+
+</details>
 
 <details>
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1 mentions)</summary>
@@ -69,18 +113,45 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Interviewed By (1)</summary>
+<summary>Authored (1)</summary>
 
-- **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:10:31](/episodes/ep-sImMM04XdWY.md#t-00-10-19): "on December 21st, I interview Xavier Poussard in London."
+- **[Becoming Brigitte](/entities/work-becoming-brigitte.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:20:53](/episodes/ep-ZAsV0fHGBiM.md#t-00-20-53): “Xavier Poussard's book, Becoming Brigitte”
+
+</details>
 
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Interviewed By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:10:31](/episodes/ep-sImMM04XdWY.md#t-00-10-19): “on December 21st, I interview Xavier Poussard in London.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
+
+- **[Becoming Brigitte](/entities/work-becoming-brigitte.md)** authored by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:20:53](/episodes/ep-ZAsV0fHGBiM.md#t-00-20-53): “Xavier Poussard's book, Becoming Brigitte”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed this
-  - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:10:31](/episodes/ep-sImMM04XdWY.md#t-00-10-19)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:10:31](/episodes/ep-sImMM04XdWY.md#t-00-10-19): “on December 21st, I interview Xavier Poussard in London.”
+
+</details>
 
 </details>
 

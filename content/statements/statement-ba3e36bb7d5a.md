@@ -4,9 +4,10 @@ description: "\"The Dow is above 50,000, the S&P is near 7,000, the NASDAQ is se
 statement_id: "statement-ba3e36bb7d5a"
 speaker: "Pam Bondi"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -34,7 +35,21 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Market data for February 11, 2026 confirms the Dow closed above 50,000 and the S&P 500 near 7,000. But the Nasdaq fell that day and was down year-to-date, while 'retirement savings are booming' is a broad value judgment rather than a defined statistic.
+
+**Confidence:** High
+
+**Sources:**
+
+- [How major US stock indexes fared Wednesday, 2/11/2026](https://apnews.com/article/wall-street-stocks-dow-nasdaq-dd3855ed6aa5141ba7eaf2bda38498f6)
+- [DOJ Oversight Hearing, February 11, 2026](https://www.govinfo.gov/content/pkg/CHRG-119hhrg62874/pdf/CHRG-119hhrg62874.pdf)
+
+*Verified: 2026-08-16T11:38:40.522860*
 
 ---
 

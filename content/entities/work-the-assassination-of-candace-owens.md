@@ -1,16 +1,44 @@
 ---
 title: "The Assassination of Candace Owens"
-description: "The Assassination of Candace Owens (Works & Media) - 6 mentions"
+description: "The Assassination of Candace Owens (Works & Media) - 5 mentions"
 id: "work-the-assassination-of-candace-owens"
 type: "WORK"
 ---
 
 _Type: Works & Media_
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-his-JBjlkh8.md#ent-work-the-assassination-of-candace-owens-t-00-00-44">2025-12-03 · 00:01:00</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#ent-work-the-assassination-of-candace-owens-t-00-33-47">2025-12-05 · 00:34:19</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-his-JBjlkh8.md#ent-work-the-assassination-of-candace-owens-t-00-00-44">BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273</a> (3 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-his-JBjlkh8.md#ent-work-the-assassination-of-candace-owens-t-00-00-44" style="--pulse-height:100%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 3 mentions" title="2025-12-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-work-the-assassination-of-candace-owens-t-00-00-00" style="--pulse-height:67%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-work-the-assassination-of-candace-owens-t-00-00-44) | 3 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-work-the-assassination-of-candace-owens-t-00-00-00) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
 
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (2 mentions)</summary>
@@ -24,10 +52,7 @@ _Type: Works & Media_
 </details>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (4 mentions)</summary>
-
-**[00:01:00](/episodes/ep-his-JBjlkh8.md#ent-work-the-assassination-of-candace-owens-t-00-00-44)**
-> "The Game, who is releasing a song that is entitled 'The Assassination of Candace Owens.'"
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (3 mentions)</summary>
 
 **[00:01:00](/episodes/ep-his-JBjlkh8.md#ent-work-the-assassination-of-candace-owens-t-00-00-44)**
 > "...on in the show, what I have for you is The Game, whose rapper is releasing a song that is entitled "The Assassination of Candace Owens." And I have more questions. I've got questions. Am I allowed to have questions? Welcome back to Ca..."

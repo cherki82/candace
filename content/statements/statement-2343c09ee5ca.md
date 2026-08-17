@@ -24,7 +24,7 @@ type: "factual_claim"
 
 - [Maggie Wegner](/entities/person-maggie-wegner.md) (person)
 - [Anonymous Source #2 (Ep zSKrxIUMNqw)](/entities/anon-src-zSKrxIUMNqw-002.md) (anonymous_source)
-- [The Daily Wire](/entities/org-daily-wire.md) (org)
+- [The Daily Wire](/entities/org-the-daily-wire.md) (org)
 - [Ben Shapiro](/entities/person-ben-shapiro.md) (person)
 - [AmericaFest 2025](/entities/event-americafest-2025.md) (event)
 

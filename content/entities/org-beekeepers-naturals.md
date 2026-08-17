@@ -1,6 +1,6 @@
 ---
 title: "Beekeeper's Naturals"
-description: "Beekeeper's Naturals (Organizations) - 13 mentions"
+description: "Beekeeper's Naturals (Organizations) - 20 mentions"
 id: "org-beekeepers-naturals"
 type: "ORG"
 aliases:
@@ -20,10 +20,61 @@ _Type: Organizations_
 > The company's official site confirms the canonical possessive spelling Beekeeper's Naturals and its propolis wellness products.
 Source: [Bee Propolis-Powered Wellness | Beekeeper's Naturals](https://www.beekeepersnaturals.com/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-beekeepers-naturals-t-00-38-20">2025-09-17 · 00:38:20</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-beekeepers-naturals-t-00-26-21">2026-02-28 · 00:26:27</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-beekeepers-naturals-t-00-38-20">Who Ordered The Hit On Charlie Kirk? | Candace Ep 237</a> (6 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-beekeepers-naturals-t-00-38-20" style="--pulse-height:100%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 6 mentions" title="2025-09-17 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-beekeepers-naturals-t-00-26-45" style="--pulse-height:17%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-beekeepers-naturals-t-00-35-34" style="--pulse-height:17%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-beekeepers-naturals-t-00-55-49" style="--pulse-height:83%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 5 mentions" title="2026-01-21 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-beekeepers-naturals-t-00-25-37" style="--pulse-height:67%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 4 mentions" title="2026-02-28 · 4 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-org-beekeepers-naturals-t-00-38-20) | 6 |
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-org-beekeepers-naturals-t-00-26-45) | 1 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-org-beekeepers-naturals-t-00-35-34) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-beekeepers-naturals-t-00-55-49) | 5 |
+| 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-beekeepers-naturals-t-00-25-37) | 4 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (4 mentions)</summary>
+
+**[00:25:37](/episodes/ep-cZxHqYsWRYg.md#ent-org-beekeepers-naturals-t-00-25-37)**
+> "...o want to tell you guys about Beekeeper's Naturals because if you're a parent, you know exactly what..."
+
+**[00:25:47](/episodes/ep-cZxHqYsWRYg.md#ent-org-beekeepers-naturals-t-00-25-37)**
+> "...ut being prepared. That's why Beekeeper's Naturals is always stocked in our home, especially at this..."
+
+**[00:26:21](/episodes/ep-cZxHqYsWRYg.md#ent-org-beekeepers-naturals-t-00-26-21)**
+> "...hemicals, and no fake sugars. Beekeepers Naturals recently launched a kid-friendly version of their..."
+
+**[00:26:27](/episodes/ep-cZxHqYsWRYg.md#ent-org-beekeepers-naturals-t-00-26-21)**
+> "... will actually use it. Today, Beekeepers Naturals is giving my listeners an exclusive offer."
+
+</details>
 
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (5 mentions)</summary>
@@ -81,6 +132,20 @@ Source: [Bee Propolis-Powered Wellness | Beekeeper's Naturals](https://www.beeke
 
 **[00:39:22](/episodes/ep-2WEHTk0Xewg.md#ent-org-beekeepers-naturals-t-00-39-04)**
 > "Beekeeper's Naturals products are also available at Target, Whole Food..."
+
+</details>
+
+<details>
+<summary>ep-y8lak3CRwDw (3 mentions)</summary>
+
+**[00:37:22](/episodes/ep-y8lak3CRwDw.md#t-00-37-22)**
+> "...I have to tell you guys about Beekeeper's Naturals because if you are a parent, you know exactly wha..."
+
+**[00:37:31](/episodes/ep-y8lak3CRwDw.md#t-00-37-31)**
+> "...ut being prepared. That's why Beekeeper's Naturals is always stocked in our home, especially at this..."
+
+**[00:38:09](/episodes/ep-y8lak3CRwDw.md#t-00-38-09)**
+> "Today, Beekeepers Naturals is giving my viewers an exclusive offer. Go to be..."
 
 </details>
 

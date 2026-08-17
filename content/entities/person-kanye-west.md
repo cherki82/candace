@@ -1,6 +1,6 @@
 ---
 title: "Kanye West"
-description: "Kanye West (People) - 145 mentions"
+description: "Kanye West (People) - 143 mentions"
 id: "person-kanye-west"
 type: "PERSON"
 aliases:
@@ -22,10 +22,94 @@ _Type: People_
 > Britannica confirms the canonical public name; Ye is retained as an alias.
 Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.com/biography/Kanye-West)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-kanye-west-t-00-09-13">2025-09-11 · 00:09:13</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4YgrOhhy708.md#ent-person-kanye-west-t-00-48-47">2026-02-09 · 00:48:47</a></strong></div>
+<div><span>Episodes</span><strong>30</strong></div>
+<div><span>Mentions</span><strong>143</strong></div>
+<div><span>Statements by</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>21</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-02-10">Charlie Ripped A Hole In Reality | Candace Ep 253</a> (35 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-_dRaEO47-co.md#ent-person-kanye-west-t-00-09-13" style="--pulse-height:26%" aria-label="To My Friend, Charlie Kirk.: 9 mentions" title="2025-09-11 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-czVBmqZP6Ss.md#t-00-03-27" style="--pulse-height:8%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 2 mentions" title="2025-09-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-kanye-west-t-00-27-13" style="--pulse-height:8%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#t-00-26-14" style="--pulse-height:8%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-person-kanye-west-t-00-26-42" style="--pulse-height:8%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 2 mentions" title="2025-10-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-51-56" style="--pulse-height:17%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 6 mentions" title="2025-10-08 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-kanye-west-t-00-53-16" style="--pulse-height:8%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 2 mentions" title="2025-10-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-person-kanye-west-t-00-01-39" style="--pulse-height:14%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 5 mentions" title="2025-10-27 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-02-10" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 35 mentions" title="2025-10-28 · 35 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#t-00-18-22" style="--pulse-height:8%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-kanye-west-t-00-02-51" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-48-38" style="--pulse-height:17%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 6 mentions" title="2025-11-12 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-kanye-west-t-00-23-11" style="--pulse-height:11%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 4 mentions" title="2025-11-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-00-00" style="--pulse-height:23%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 8 mentions" title="2025-11-15 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-person-kanye-west-t-00-15-24" style="--pulse-height:8%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-kanye-west-t-00-45-28" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 2 mentions" title="2025-12-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-person-kanye-west-t-01-02-05" style="--pulse-height:17%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 6 mentions" title="2025-12-03 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-kanye-west-t-00-00-45" style="--pulse-height:9%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 3 mentions" title="2025-12-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-kanye-west-t-00-15-40" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-kanye-west-t-00-00-00" style="--pulse-height:43%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 15 mentions" title="2026-01-07 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-kanye-west-t-00-38-18" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-kanye-west-t-00-50-02" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-kanye-west-t-00-33-58" style="--pulse-height:17%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 6 mentions" title="2026-01-20 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-kanye-west-t-00-25-31" style="--pulse-height:11%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 4 mentions" title="2026-01-21 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-person-kanye-west-t-00-43-34" style="--pulse-height:26%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 9 mentions" title="2026-01-27 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-kanye-west-t-01-32-52" style="--pulse-height:8%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#t-00-52-38" style="--pulse-height:8%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-kanye-west-t-00-00-00" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-kanye-west-t-00-04-02" style="--pulse-height:8%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-person-kanye-west-t-00-04-02" style="--pulse-height:8%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-11 | [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md#ent-person-kanye-west-t-00-09-13) | 9 |
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#t-00-03-27) | 2 |
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-kanye-west-t-00-27-13) | 1 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#t-00-26-14) | 1 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-kanye-west-t-00-26-42) | 2 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-kanye-west-t-00-51-56) | 6 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-kanye-west-t-00-53-16) | 2 |
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-person-kanye-west-t-00-01-39) | 5 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kanye-west-t-00-02-10) | 35 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#t-00-18-22) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-kanye-west-t-00-02-51) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-kanye-west-t-00-48-38) | 6 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-kanye-west-t-00-23-11) | 4 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-kanye-west-t-00-00-00) | 8 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-kanye-west-t-00-15-24) | 1 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-kanye-west-t-00-45-28) | 2 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-kanye-west-t-01-02-05) | 6 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-kanye-west-t-00-00-45) | 3 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-kanye-west-t-00-15-40) | 2 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-kanye-west-t-00-00-00) | 15 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-kanye-west-t-00-38-18) | 1 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-kanye-west-t-00-50-02) | 2 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-kanye-west-t-00-33-58) | 6 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-kanye-west-t-00-25-31) | 4 |
+| 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-person-kanye-west-t-00-43-34) | 9 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-kanye-west-t-01-32-52) | 1 |
+| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#t-00-52-38) | 1 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-kanye-west-t-00-00-00) | 2 |
+| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-kanye-west-t-00-04-02) | 2 |
+| 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-kanye-west-t-00-04-02) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (143)</strong></summary>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (2 mentions)</summary>
@@ -314,10 +398,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (5 mentions)</summary>
-
-**[00:23:35](/episodes/ep-yAIb-NuUh_U.md#ent-person-kanye-west-t-00-23-11)**
-> "Something that Kanye also said in an episode that's virtually impossible to find online."
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (4 mentions)</summary>
 
 **[00:23:35](/episodes/ep-yAIb-NuUh_U.md#ent-person-kanye-west-t-00-23-11)**
 > "...g that they run drugs, right? That they blackmail certain people and they run drugs. Something that Kanye also said in an episode that's virtually impossible to find online because it was during his cancel..."
@@ -564,13 +645,10 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 </details>
 
 <details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (3 mentions)</summary>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (2 mentions)</summary>
 
 **[00:03:59](/episodes/ep-czVBmqZP6Ss.md#t-00-03-27)**
 > "to reach out to Ye, speaking about things, talking about his mood when he wrote the song"
-
-**[00:03:59](/episodes/ep-czVBmqZP6Ss.md#t-00-03-27)**
-> "...t appropriate to reach out to Ye, speaking about things, talking about his mood wh..."
 
 **[00:04:34](/episodes/ep-czVBmqZP6Ss.md#t-00-04-11)**
 > "Ye asks, do you have the power to let power go?"
@@ -618,7 +696,11 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <summary>Criticized By (1)</summary>
 
 - **[Scott Adams](/entities/person-scott-adams.md)**
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:13:09](/episodes/ep-c5BcKF91iec.md#t-00-12-41): "It was actually Scott Adams, who did a video that I'll never forget when that happened. And he said like it ripped a hole in the universe—this tweet—and it was never supposed to happen."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:13:09](/episodes/ep-c5BcKF91iec.md#t-00-12-41): “It was actually Scott Adams, who did a video that I'll never forget when that happened. And he said like it ripped a hole in the universe—this tweet—and it was never supposed to happen.”
+
+</details>
 
 </details>
 
@@ -626,7 +708,11 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <summary>Formerly Married To (1)</summary>
 
 - **[Kim Kardashian](/entities/person-kim-kardashian.md)**
-  - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:13:25](/episodes/ep-Cq7nj9rxPdo.md#t-00-12-53): "This is in the time of Kim Kardashian and Kanye"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:13:25](/episodes/ep-Cq7nj9rxPdo.md#t-00-12-53): “This is in the time of Kim Kardashian and Kanye”
+
+</details>
 
 </details>
 
@@ -634,7 +720,11 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <summary>Friend Of (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:39:15](/episodes/ep-zSKrxIUMNqw.md#t-00-38-48): "because he's my friend."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:39:15](/episodes/ep-zSKrxIUMNqw.md#t-00-38-48): “because he's my friend.”
+
+</details>
 
 </details>
 
@@ -642,7 +732,11 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <summary>Interviewed (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:00:35](/episodes/ep-c5BcKF91iec.md#t-00-00-00): "But then I had to very quickly get over to Wyoming because Kanye had invited me to his album release party."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:00:35](/episodes/ep-c5BcKF91iec.md#t-00-00-00): “But then I had to very quickly get over to Wyoming because Kanye had invited me to his album release party.”
+
+</details>
 
 </details>
 
@@ -650,8 +744,12 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <summary>Met With (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:03:59](/episodes/ep-czVBmqZP6Ss.md#t-00-03-27): "it felt appropriate to reach out to Ye, speaking about things, talking about his mood when he wrote the song."
-  - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:33:58](/episodes/ep-9naMwS0kMBE.md#t-00-33-17): "it was 2018 because this was the trip when i went to go see kanye right"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:03:59](/episodes/ep-czVBmqZP6Ss.md#t-00-03-27): “it felt appropriate to reach out to Ye, speaking about things, talking about his mood when he wrote the song.”
+- [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:33:58](/episodes/ep-9naMwS0kMBE.md#t-00-33-17): “it was 2018 because this was the trip when i went to go see kanye right”
+
+</details>
 
 </details>
 
@@ -659,8 +757,12 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <summary>Supported By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 01:12:30](/episodes/ep-w1oqQbR_bYs.md#t-01-00-35): "Kanye was right. He was totally right"
-  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:44:31](/episodes/ep-A39g5oqB_eM.md#t-00-44-17): "Because this comes up all the time. There's always this Candace, Ye (Kanye West). ... I support Kanye (Kanye West) in everything that he does, you know, and if I don't support him in anything,"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 01:12:30](/episodes/ep-w1oqQbR_bYs.md#t-01-00-35): “Kanye was right. He was totally right”
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:44:31](/episodes/ep-A39g5oqB_eM.md#t-00-44-17): “Because this comes up all the time. There's always this Candace, Ye (Kanye West). ... I support Kanye (Kanye West) in everything that he does, you know, and if I don't support him in anything,”
+
+</details>
 
 </details>
 
@@ -668,24 +770,48 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <summary>Referenced By (6)</summary>
 
 - **[Scott Adams](/entities/person-scott-adams.md)** criticized this
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:13:09](/episodes/ep-c5BcKF91iec.md#t-00-12-41)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:13:09](/episodes/ep-c5BcKF91iec.md#t-00-12-41): “It was actually Scott Adams, who did a video that I'll never forget when that happened. And he said like it ripped a hole in the universe—this tweet—and it was never supposed to happen.”
+
+</details>
 
 - **[Kim Kardashian](/entities/person-kim-kardashian.md)** formerly married to this
-  - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:13:25](/episodes/ep-Cq7nj9rxPdo.md#t-00-12-53)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:13:25](/episodes/ep-Cq7nj9rxPdo.md#t-00-12-53): “This is in the time of Kim Kardashian and Kanye”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** friend of this
-  - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:39:15](/episodes/ep-zSKrxIUMNqw.md#t-00-38-48)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:39:15](/episodes/ep-zSKrxIUMNqw.md#t-00-38-48): “because he's my friend.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed by this
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:00:35](/episodes/ep-c5BcKF91iec.md#t-00-00-00)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:00:35](/episodes/ep-c5BcKF91iec.md#t-00-00-00): “But then I had to very quickly get over to Wyoming because Kanye had invited me to his album release party.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** met with this
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:03:59](/episodes/ep-czVBmqZP6Ss.md#t-00-03-27)
-  - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:33:58](/episodes/ep-9naMwS0kMBE.md#t-00-33-17)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:03:59](/episodes/ep-czVBmqZP6Ss.md#t-00-03-27): “it felt appropriate to reach out to Ye, speaking about things, talking about his mood when he wrote the song.”
+- [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:33:58](/episodes/ep-9naMwS0kMBE.md#t-00-33-17): “it was 2018 because this was the trip when i went to go see kanye right”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** supporter of this
-  - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 01:12:30](/episodes/ep-w1oqQbR_bYs.md#t-01-00-35)
-  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:44:31](/episodes/ep-A39g5oqB_eM.md#t-00-44-17)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 01:12:30](/episodes/ep-w1oqQbR_bYs.md#t-01-00-35): “Kanye was right. He was totally right”
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:44:31](/episodes/ep-A39g5oqB_eM.md#t-00-44-17): “Because this comes up all the time. There's always this Candace, Ye (Kanye West). ... I support Kanye (Kanye West) in everything that he does, you know, and if I don't support him in anything,”
+
+</details>
 
 </details>
 
@@ -749,7 +875,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
   - Also about: [Adidas](/entities/org-adidas.md), [Gap Inc.](/entities/org-gap-inc.md), [Kanye West’s “Death Con 3” tweet](/entities/event-kanye-west-death-con-3-tweet.md)
 
 - [00:39:34](/episodes/ep-zSKrxIUMNqw.md#t-00-39-32) (Accusation) **Candace Owens**: ["The Daily Wire threatened to reduce Candace Owens's contract unless sh..."](/statements/statement-ced70ad0f846.md)
-  - Also about: [The Daily Wire](/entities/org-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Jeremy Boreing](/entities/person-jeremy-boreing.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Jeremy Boreing](/entities/person-jeremy-boreing.md)
 
 - [00:52:47](/episodes/ep-zSKrxIUMNqw.md#t-00-52-31) (Claim) **Candace Owens**: ["Candace Owens turned down millions of dollars rather than denounce Kan..."](/statements/statement-f1ea4a5740c9.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)

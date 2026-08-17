@@ -22,7 +22,7 @@ type: "factual_claim"
 
 - [Bassem Youssef](/entities/person-bassem-youssef.md) (person)
 - [Candace Owens](/entities/person-candace-owens.md) (person)
-- [The Daily Wire](/entities/org-daily-wire.md) (org)
+- [The Daily Wire](/entities/org-the-daily-wire.md) (org)
 
 ## Appearances (2)
 

@@ -1,6 +1,6 @@
 ---
 title: "SU-BND"
-description: "SU-BND (Vehicles) - 11 mentions"
+description: "SU-BND (Vehicles) - 10 mentions"
 id: "vehicle-su-bnd"
 type: "VEHICLE"
 aliases:
@@ -12,10 +12,44 @@ _Type: Vehicles_
 
 **Also known as:** SUBND, SU BND
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-vehicle-su-bnd-t-00-55-55">2025-10-30 · 00:55:55</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-vehicle-su-bnd-t-00-13-44">2025-12-05 · 00:13:44</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-JQjCAsfoXEE.md#ent-vehicle-su-bnd-t-00-11-07">Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266</a> (4 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-vehicle-su-bnd-t-00-55-55" style="--pulse-height:25%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-vehicle-su-bnd-t-00-05-35" style="--pulse-height:50%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-vehicle-su-bnd-t-00-11-07" style="--pulse-height:100%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 4 mentions" title="2025-11-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-vehicle-su-bnd-t-00-09-05" style="--pulse-height:50%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-vehicle-su-bnd-t-00-13-44" style="--pulse-height:25%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-vehicle-su-bnd-t-00-55-55) | 1 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-vehicle-su-bnd-t-00-05-35) | 2 |
+| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-vehicle-su-bnd-t-00-11-07) | 4 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-vehicle-su-bnd-t-00-09-05) | 2 |
+| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-vehicle-su-bnd-t-00-13-44) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
 
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1 mentions)</summary>
@@ -54,10 +88,7 @@ _Type: Vehicles_
 </details>
 
 <details>
-<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (3 mentions)</summary>
-
-**[00:05:59](/episodes/ep-YFmRH8p5lt0.md#ent-vehicle-su-bnd-t-00-05-35)**
-> "And that tail number is SUBND"
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
 
 **[00:05:59](/episodes/ep-YFmRH8p5lt0.md#ent-vehicle-su-bnd-t-00-05-35)**
 > "...hree hours after Charlie (Charlie Kirk) was assassinated from Provo, Utah." And that tail number is SUBND. And you should take a look at that. And I thought to myself, "Okay, I'll take a look at that. Mayb..."

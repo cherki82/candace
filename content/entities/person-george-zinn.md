@@ -21,10 +21,62 @@ _Type: People_
 > Utah County Sheriff press release confirms the canonical spelling George Zinn and identifies him as the person taken into custody after falsely saying he shot Charlie Kirk.
 Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.utahcounty.gov/Dept/Sheriff/Data/WNData/GeorgeZinnPressRelease.pdf)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-george-zinn-t-00-43-44">2025-09-15 · 00:44:22</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-person-george-zinn-t-01-06-38">2026-01-16 · 01:06:46</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>52</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-george-zinn-t-00-09-16">Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241</a> (15 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-george-zinn-t-00-43-44" style="--pulse-height:20%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 3 mentions" title="2025-09-15 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-person-george-zinn-t-00-02-49" style="--pulse-height:53%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 8 mentions" title="2025-09-16 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-george-zinn-t-00-07-18" style="--pulse-height:47%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 7 mentions" title="2025-09-17 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-person-george-zinn-t-00-04-41" style="--pulse-height:8%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-george-zinn-t-00-09-16" style="--pulse-height:100%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 15 mentions" title="2025-09-23 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-george-zinn-t-00-22-32" style="--pulse-height:8%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-george-zinn-t-00-02-54" style="--pulse-height:20%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 3 mentions" title="2025-10-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-george-zinn-t-00-21-03" style="--pulse-height:8%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-person-george-zinn-t-00-19-15" style="--pulse-height:53%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 8 mentions" title="2025-10-07 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-george-zinn-t-00-41-54" style="--pulse-height:8%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-person-george-zinn-t-00-27-47" style="--pulse-height:8%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-george-zinn-t-00-15-39" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-person-george-zinn-t-00-14-50" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-george-zinn-t-01-06-38" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-person-george-zinn-t-00-43-44) | 3 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-person-george-zinn-t-00-02-49) | 8 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-person-george-zinn-t-00-07-18) | 7 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-person-george-zinn-t-00-04-41) | 1 |
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-person-george-zinn-t-00-09-16) | 15 |
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-person-george-zinn-t-00-22-32) | 1 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-george-zinn-t-00-02-54) | 3 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-george-zinn-t-00-21-03) | 1 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-george-zinn-t-00-19-15) | 8 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-person-george-zinn-t-00-41-54) | 1 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-george-zinn-t-00-27-47) | 1 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-george-zinn-t-00-15-39) | 1 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-george-zinn-t-00-14-50) | 1 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-george-zinn-t-01-06-38) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (52)</strong></summary>
 
 <details>
 <summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (1 mentions)</summary>
@@ -261,8 +313,12 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 <summary>Endorsed (1)</summary>
 
 - **[Phil Lyman](/entities/person-phil-lyman.md)**
-  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:03:27](/episodes/ep-adJ4LNGp84I.md#t-00-02-54): "George Zin is one of just 20 people that is a featured endorsement. He endorses Phil Lyman's character."
-  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:03:39](/episodes/ep-adJ4LNGp84I.md#t-00-03-37): "George Zin writes, 'Rare to find a more caring man with uncompromising goals to make Utah great for generations than Phil Lyman...He needs our support.'"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:03:27](/episodes/ep-adJ4LNGp84I.md#t-00-02-54): “George Zin is one of just 20 people that is a featured endorsement. He endorses Phil Lyman's character.”
+- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:03:39](/episodes/ep-adJ4LNGp84I.md#t-00-03-37): “George Zin writes, 'Rare to find a more caring man with uncompromising goals to make Utah great for generations than Phil Lyman...He needs our support.'”
+
+</details>
 
 </details>
 
@@ -270,7 +326,11 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 <summary>Referenced By (1)</summary>
 
 - **[Phil Lyman](/entities/person-phil-lyman.md)** endorsed by this
-  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:03:27](/episodes/ep-adJ4LNGp84I.md#t-00-02-54)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:03:27](/episodes/ep-adJ4LNGp84I.md#t-00-02-54): “George Zin is one of just 20 people that is a featured endorsement. He endorses Phil Lyman's character.”
+
+</details>
 
 </details>
 

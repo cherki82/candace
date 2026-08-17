@@ -12,10 +12,38 @@ _Type: Organizations_
 
 **Also known as:** Joint Task Force Six, JTF-6
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-t4U7NjnUEgc.md#ent-org-joint-task-force-six-t-00-05-14">2025-12-09 · 00:01:11</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-joint-task-force-six-t-00-27-33">2025-12-18 · 00:27:38</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-t4U7NjnUEgc.md#ent-org-joint-task-force-six-t-00-05-14">Charlie Kirk’s Last Trip To Asia… | Candace Ep 277</a> (5 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-org-joint-task-force-six-t-00-05-14" style="--pulse-height:100%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 5 mentions" title="2025-12-09 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-joint-task-force-six-t-00-26-10" style="--pulse-height:60%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 3 mentions" title="2025-12-18 · 3 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-org-joint-task-force-six-t-00-05-14) | 5 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-joint-task-force-six-t-00-26-10) | 3 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (3 mentions)</summary>
@@ -60,10 +88,18 @@ _Type: Organizations_
 <summary>Formerly Employed (2)</summary>
 
 - **[Harry Myers](/entities/person-harry-myers.md)**
-  - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:05:00](/episodes/ep-t4U7NjnUEgc.md#t-00-04-35): "In 1990, this young man named Harry Myers discovered something"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:05:00](/episodes/ep-t4U7NjnUEgc.md#t-00-04-35): “In 1990, this young man named Harry Myers discovered something”
+
+</details>
 
 - **[Mitch](/entities/person-mitch-fort-huachuca-witness.md)**
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:32:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-31-58): "we were part of a mission going down to the border of JTF-6"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:32:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-31-58): “we were part of a mission going down to the border of JTF-6”
+
+</details>
 
 </details>
 
@@ -71,7 +107,11 @@ _Type: Organizations_
 <summary>Founded By (1)</summary>
 
 - **[George H.W. Bush](/entities/person-george-hw-bush.md)**
-  - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:05:14](/episodes/ep-t4U7NjnUEgc.md#t-00-04-35): "He was just 20 years old, and he was put on what was actually a brand new command, the first ever Joint Task Force Six, and this new command was being created down at the border by President George H.W. Bush"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:05:14](/episodes/ep-t4U7NjnUEgc.md#t-00-04-35): “He was just 20 years old, and he was put on what was actually a brand new command, the first ever Joint Task Force Six, and this new command was being created down at the border by President George H.W. Bush”
+
+</details>
 
 </details>
 
@@ -79,13 +119,25 @@ _Type: Organizations_
 <summary>Referenced By (3)</summary>
 
 - **[Harry Myers](/entities/person-harry-myers.md)** formerly worked for this
-  - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:05:00](/episodes/ep-t4U7NjnUEgc.md#t-00-04-35)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:05:00](/episodes/ep-t4U7NjnUEgc.md#t-00-04-35): “In 1990, this young man named Harry Myers discovered something”
+
+</details>
 
 - **[Mitch](/entities/person-mitch-fort-huachuca-witness.md)** formerly worked for this
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:32:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-31-58)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:32:00](/episodes/ep-ewBzjVe3LNQ.md#t-00-31-58): “we were part of a mission going down to the border of JTF-6”
+
+</details>
 
 - **[George H.W. Bush](/entities/person-george-hw-bush.md)** founded this
-  - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:05:14](/episodes/ep-t4U7NjnUEgc.md#t-00-04-35)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:05:14](/episodes/ep-t4U7NjnUEgc.md#t-00-04-35): “He was just 20 years old, and he was put on what was actually a brand new command, the first ever Joint Task Force Six, and this new command was being created down at the border by President George H.W. Bush”
+
+</details>
 
 </details>
 

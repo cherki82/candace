@@ -1,6 +1,6 @@
 ---
 title: "Nicolás Maduro"
-description: "Nicolás Maduro (People) - 5 mentions"
+description: "Nicolás Maduro (People) - 6 mentions"
 id: "person-nicolas-maduro"
 type: "PERSON"
 aliases:
@@ -21,10 +21,36 @@ _Type: People_
 > Associated Press reporting confirms the canonical accented name and identity.
 Source: [After ousting Maduro in Venezuela - Associated Press](https://apnews.com/article/b6e272ee8e23636a1ab9618d8257ae59)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-nicolas-maduro-t-01-03-08">2026-01-05 · 01:03:14</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-nicolas-maduro-t-01-06-01">2026-01-05 · 01:06:05</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-nicolas-maduro-t-01-03-08">You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284</a> (5 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-nicolas-maduro-t-01-03-08" style="--pulse-height:100%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 5 mentions" title="2026-01-05 · 5 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-nicolas-maduro-t-01-03-08) | 5 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
 
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (5 mentions)</summary>
@@ -43,6 +69,14 @@ Source: [After ousting Maduro in Venezuela - Associated Press](https://apnews.co
 
 **[01:06:05](/episodes/ep-OEAHy3SsIiI.md#ent-person-nicolas-maduro-t-01-06-01)**
 > "I am not team Maduro, nor do I think that Assad was some perfect presi..."
+
+</details>
+
+<details>
+<summary>ep-y8lak3CRwDw (1 mentions)</summary>
+
+**[00:05:22](/episodes/ep-y8lak3CRwDw.md#t-00-05-22)**
+> "...e killed Gaddafi. We arrested Nicolas Maduro. And in that vacuum of leadership, the oligarchs ..."
 
 </details>
 

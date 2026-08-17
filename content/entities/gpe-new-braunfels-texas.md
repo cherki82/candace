@@ -19,10 +19,40 @@ _Type: Places_
 > Official city site confirms canonical place name.
 Source: [City of New Braunfels](https://newbraunfels.gov/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-new-braunfels-texas-t-00-18-37">2026-01-16 · 00:19:00</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-new-braunfels-texas-t-00-16-07">2026-01-20 · 00:16:07</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-new-braunfels-texas-t-00-05-42">Candace x Baron Coleman LIVE!! | Candace Ep 293</a> (6 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-new-braunfels-texas-t-00-18-37" style="--pulse-height:17%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-new-braunfels-texas-t-00-11-56" style="--pulse-height:67%" aria-label="A Legal Turning Point? | Candace Ep 292: 4 mentions" title="2026-01-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-new-braunfels-texas-t-00-05-42" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 6 mentions" title="2026-01-20 · 6 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-new-braunfels-texas-t-00-18-37) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-new-braunfels-texas-t-00-11-56) | 4 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-new-braunfels-texas-t-00-05-42) | 6 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
 
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (6 mentions)</summary>
@@ -81,13 +111,25 @@ Source: [City of New Braunfels](https://newbraunfels.gov/)
 <summary>Residence Of (3)</summary>
 
 - **[Dan Flood](/entities/person-dan-flood.md)**
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:12:53](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40): "Dan Flood also lives in New Braunfels, Texas. I can confirm that. That's a fact."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Legal Turning Point? | Candace Ep 292 @ 00:12:53](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40): “Dan Flood also lives in New Braunfels, Texas. I can confirm that. That's a fact.”
+
+</details>
 
 - **[Nelda Yaw Buckman](/entities/person-nelda-yaw-buckman.md)**
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:12:40](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40): "the couple, Nelda and Karl Buckman, they live there"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Legal Turning Point? | Candace Ep 292 @ 00:12:40](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40): “the couple, Nelda and Karl Buckman, they live there”
+
+</details>
 
 - **[Karl Buckman](/entities/person-karl-buckman.md)**
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:12:40](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40): "the couple, Nelda and Karl Buckman, they live there"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Legal Turning Point? | Candace Ep 292 @ 00:12:40](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40): “the couple, Nelda and Karl Buckman, they live there”
+
+</details>
 
 </details>
 
@@ -95,13 +137,25 @@ Source: [City of New Braunfels](https://newbraunfels.gov/)
 <summary>Referenced By (3)</summary>
 
 - **[Dan Flood](/entities/person-dan-flood.md)** lives in this
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:12:53](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Legal Turning Point? | Candace Ep 292 @ 00:12:53](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40): “Dan Flood also lives in New Braunfels, Texas. I can confirm that. That's a fact.”
+
+</details>
 
 - **[Nelda Yaw Buckman](/entities/person-nelda-yaw-buckman.md)** lives in this
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:12:40](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Legal Turning Point? | Candace Ep 292 @ 00:12:40](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40): “the couple, Nelda and Karl Buckman, they live there”
+
+</details>
 
 - **[Karl Buckman](/entities/person-karl-buckman.md)** lives in this
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:12:40](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Legal Turning Point? | Candace Ep 292 @ 00:12:40](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40): “the couple, Nelda and Karl Buckman, they live there”
+
+</details>
 
 </details>
 

@@ -4,9 +4,10 @@ description: "\"Documents in the Epstein files dispute Donald Trump's claim that
 statement_id: "statement-049d7908ab42"
 speaker: "Jared Moskowitz"
 type: "citation"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,21 @@ type: "citation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Current reporting on lawmakers' review of unredacted Epstein records identifies multiple witness accounts—and later an unredacted 2009 attorney email saying Epstein was never asked to leave Mar-a-Lago—that dispute Trump's expulsion account. This verifies the statement that released records dispute the claim.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Unredacted Epstein Files Contradict Trump's Mar-a-Lago Claim, Says Lawmaker](https://time.com/7379910/epstein-files-trump-maxwell-frost-mar-a-lago/)
+- [DOJ Oversight Hearing, February 11, 2026](https://www.govinfo.gov/content/pkg/CHRG-119hhrg62874/pdf/CHRG-119hhrg62874.pdf)
+
+*Verified: 2026-08-16T11:38:40.075722*
 
 ---
 

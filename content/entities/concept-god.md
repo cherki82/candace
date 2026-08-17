@@ -1,6 +1,6 @@
 ---
 title: "God"
-description: "God (Concepts) - 310 mentions"
+description: "God (Concepts) - 321 mentions"
 id: "concept-god"
 type: "CONCEPT"
 categories:
@@ -15,10 +15,215 @@ _Type: Concepts_
 > Reference source supports canonical religious concept.
 Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-57-16">2025-09-15 · 00:57:42</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#t-04-03-55">2026-08-14 · 04:03:55</a></strong></div>
+<div><span>Episodes</span><strong>60</strong></div>
+<div><span>Mentions</span><strong>321</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#t-00-21-32">Candace x Bassem Youssef | Candace Ep 298</a> (30 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-czVBmqZP6Ss.md#t-00-57-16" style="--pulse-height:10%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 3 mentions" title="2025-09-15 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#t-00-40-20" style="--pulse-height:20%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 6 mentions" title="2025-09-16 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#t-00-56-56" style="--pulse-height:27%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 8 mentions" title="2025-09-17 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#t-00-55-05" style="--pulse-height:13%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 4 mentions" title="2025-09-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#t-00-18-36" style="--pulse-height:13%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 4 mentions" title="2025-09-22 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#t-00-45-23" style="--pulse-height:8%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 2 mentions" title="2025-09-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QZWSsq8ZWzw.md#t-00-10-16" style="--pulse-height:20%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 6 mentions" title="2025-09-24 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#t-00-38-45" style="--pulse-height:8%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 2 mentions" title="2025-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZGxnf5cj4Uw.md#t-00-49-47" style="--pulse-height:8%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 2 mentions" title="2025-09-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#t-00-47-52" style="--pulse-height:8%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 2 mentions" title="2025-09-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#t-00-36-29" style="--pulse-height:13%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 4 mentions" title="2025-10-02 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#t-00-13-44" style="--pulse-height:27%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 8 mentions" title="2025-10-06 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#t-00-23-28" style="--pulse-height:27%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 8 mentions" title="2025-10-07 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#t-00-31-38" style="--pulse-height:27%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 8 mentions" title="2025-10-08 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#t-00-52-05" style="--pulse-height:13%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 4 mentions" title="2025-10-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#t-00-24-51" style="--pulse-height:40%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 12 mentions" title="2025-10-27 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#t-00-52-11" style="--pulse-height:17%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 5 mentions" title="2025-10-28 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#t-00-37-41" style="--pulse-height:17%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 5 mentions" title="2025-10-29 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#t-00-39-54" style="--pulse-height:17%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 5 mentions" title="2025-10-30 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#t-00-28-55" style="--pulse-height:33%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 10 mentions" title="2025-10-31 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#t-00-44-24" style="--pulse-height:8%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#t-00-33-02" style="--pulse-height:13%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 4 mentions" title="2025-11-04 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#t-00-08-14" style="--pulse-height:30%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 9 mentions" title="2025-11-06 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#t-00-14-38" style="--pulse-height:8%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 2 mentions" title="2025-11-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#t-00-11-32" style="--pulse-height:17%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 5 mentions" title="2025-11-10 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#t-00-50-06" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#t-00-44-34" style="--pulse-height:8%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 2 mentions" title="2025-11-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#t-00-06-46" style="--pulse-height:27%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 8 mentions" title="2025-11-15 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#t-00-41-34" style="--pulse-height:8%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#t-00-54-45" style="--pulse-height:8%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#t-00-47-10" style="--pulse-height:8%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#t-00-28-14" style="--pulse-height:8%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#t-00-03-45" style="--pulse-height:10%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 3 mentions" title="2025-12-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#t-00-11-12" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#t-01-04-06" style="--pulse-height:8%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#t-00-27-39" style="--pulse-height:8%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#t-00-42-17" style="--pulse-height:10%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 3 mentions" title="2025-12-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#t-00-45-47" style="--pulse-height:20%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 6 mentions" title="2025-12-10 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#t-00-21-11" style="--pulse-height:13%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 4 mentions" title="2025-12-12 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#t-01-00-57" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#t-00-32-35" style="--pulse-height:10%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 3 mentions" title="2026-01-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#t-00-22-55" style="--pulse-height:13%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 4 mentions" title="2026-01-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#t-00-36-40" style="--pulse-height:17%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 5 mentions" title="2026-01-12 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#t-00-00-00" style="--pulse-height:20%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 6 mentions" title="2026-01-13 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#t-00-56-58" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#t-00-13-59" style="--pulse-height:23%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 7 mentions" title="2026-01-27 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#t-00-08-46" style="--pulse-height:53%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 16 mentions" title="2026-01-28 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#t-00-21-32" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 30 mentions" title="2026-01-29 · 30 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#t-00-14-33" style="--pulse-height:100%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 30 mentions" title="2026-01-30 · 30 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#t-00-00-00" style="--pulse-height:33%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 10 mentions" title="2026-02-02 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#t-00-05-17" style="--pulse-height:40%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 12 mentions" title="2026-02-03 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#t-00-25-59" style="--pulse-height:8%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#t-00-27-56" style="--pulse-height:17%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 5 mentions" title="2026-02-10 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#t-00-21-44" style="--pulse-height:20%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 6 mentions" title="2026-02-11 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#t-00-06-51" style="--pulse-height:23%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 7 mentions" title="2026-02-13 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#t-01-03-25" style="--pulse-height:8%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#t-00-59-05" style="--pulse-height:17%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 5 mentions" title="2026-02-27 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#t-00-52-57" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#t-00-43-25" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#t-02-07-34" style="--pulse-height:13%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#t-00-57-16) | 3 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#t-00-40-20) | 6 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#t-00-56-56) | 8 |
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#t-00-55-05) | 4 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#t-00-18-36) | 4 |
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#t-00-45-23) | 2 |
+| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#t-00-10-16) | 6 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#t-00-38-45) | 2 |
+| 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#t-00-49-47) | 2 |
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#t-00-47-52) | 2 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#t-00-36-29) | 4 |
+| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#t-00-13-44) | 8 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#t-00-23-28) | 8 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#t-00-31-38) | 8 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#t-00-52-05) | 4 |
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#t-00-24-51) | 12 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#t-00-52-11) | 5 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#t-00-37-41) | 5 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#t-00-39-54) | 5 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#t-00-28-55) | 10 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#t-00-44-24) | 1 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#t-00-33-02) | 4 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#t-00-08-14) | 9 |
+| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#t-00-14-38) | 2 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#t-00-11-32) | 5 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#t-00-50-06) | 1 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#t-00-44-34) | 2 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#t-00-06-46) | 8 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#t-00-41-34) | 1 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#t-00-54-45) | 1 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#t-00-47-10) | 1 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#t-00-28-14) | 1 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#t-00-03-45) | 3 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#t-00-11-12) | 2 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#t-01-04-06) | 1 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#t-00-27-39) | 1 |
+| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#t-00-42-17) | 3 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#t-00-45-47) | 6 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#t-00-21-11) | 4 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#t-01-00-57) | 2 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#t-00-32-35) | 3 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#t-00-22-55) | 4 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#t-00-36-40) | 5 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#t-00-00-00) | 6 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#t-00-56-58) | 1 |
+| 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#t-00-13-59) | 7 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#t-00-08-46) | 16 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#t-00-21-32) | 30 |
+| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#t-00-14-33) | 30 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#t-00-00-00) | 10 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#t-00-05-17) | 12 |
+| 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#t-00-25-59) | 1 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#t-00-27-56) | 5 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#t-00-21-44) | 6 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#t-00-06-51) | 7 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#t-01-03-25) | 1 |
+| 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#t-00-59-05) | 5 |
+| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#t-00-52-57) | 1 |
+| 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#t-00-43-25) | 1 |
+| 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-02-07-34) | 4 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (321)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
+
+**[02:07:51](/episodes/ep-nPhCKwJ6ye8.md#t-02-07-34)**
+> "...ys, if you have true faith in God, you have absolutely nothing to fear. God bless a..."
+
+**[03:13:36](/episodes/ep-nPhCKwJ6ye8.md#t-03-13-19)**
+> "...ys, if you have true faith in God, you have absolutely nothing to fear. God bless, ..."
+
+**[03:51:29](/episodes/ep-nPhCKwJ6ye8.md#t-03-51-12)**
+> "...ys, if you have true faith in God, you have absolutely nothing to fear. God bless a..."
+
+**[04:03:55](/episodes/ep-nPhCKwJ6ye8.md#t-04-03-55)**
+> "...eing said take care everybody god bless have a great weekend"
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (1 mentions)</summary>
+
+**[00:43:53](/episodes/ep-2tFYJf1klgY.md#t-00-43-25)**
+> "...ast book, Stop in the Name of God, about the value of observing the Sabbath is a"
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1 mentions)</summary>
+
+**[00:52:57](/episodes/ep-jTj9Ip46r4w.md#t-00-52-57)**
+> "...ance the rock want to glorify god writes sure erica you never dated for five years ..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (5 mentions)</summary>
+
+**[00:59:15](/episodes/ep-1IY2oD-_xVA.md#t-00-59-05)**
+> "Yes, they are. are satanic and we have to just acknowledge that thing first remain optimistic in the end god wins okay he's already won has no says me i'm like in the end we win he's like Christ has already won."
+
+**[00:06:51](/episodes/ep-1IY2oD-_xVA.md#t-00-06-31)**
+> "...ne bothers me the most. Oh my God, shocker. He's in the Epstein files."
+
+**[00:08:27](/episodes/ep-1IY2oD-_xVA.md#t-00-07-56)**
+> "Oh my God, we had no idea it caused cancer. What do you Wha..."
+
+**[00:27:54](/episodes/ep-1IY2oD-_xVA.md#t-00-27-31)**
+> "...a secular worldview and erase God from our culture."
+
+**[00:53:18](/episodes/ep-1IY2oD-_xVA.md#t-00-53-18)**
+> "...ut together we are strong and god and truth you know what i used to play that game ..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1 mentions)</summary>
+
+**[01:03:25](/episodes/ep-ZAsV0fHGBiM.md#t-01-03-25)**
+> "like it's a job oh my god he wants to do content on kids i'm gonna blame th..."
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (7 mentions)</summary>
@@ -1089,10 +1294,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 </details>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (7 mentions)</summary>
-
-**[00:10:26](/episodes/ep-QZWSsq8ZWzw.md#t-00-10-16)**
-> "it had to have been God"
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (6 mentions)</summary>
 
 **[00:10:26](/episodes/ep-QZWSsq8ZWzw.md#t-00-10-16)**
 > ".... And the only thing I can say is that it was an intuition. We describe it that it had to have been God. We just had no reason, no other reason to be there. And then Charlie (Charlie Kirk) set up a speak..."

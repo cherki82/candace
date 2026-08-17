@@ -1,6 +1,6 @@
 ---
 title: "Arizona"
-description: "Arizona (Places) - 115 mentions"
+description: "Arizona (Places) - 152 mentions"
 id: "gpe-arizona"
 type: "GPE"
 aliases:
@@ -19,10 +19,255 @@ _Type: Places_
 > Official state portal confirms canonical name.
 Source: [State of Arizona official website](https://az.gov/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-arizona-t-01-11-09">2025-09-16 · 01:11:11</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-arizona-t-00-35-26">2026-03-03 · 00:35:36</a></strong></div>
+<div><span>Episodes</span><strong>41</strong></div>
+<div><span>Mentions</span><strong>152</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-25-35">BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285</a> (16 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-arizona-t-01-11-09" style="--pulse-height:8%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-arizona-t-00-43-40" style="--pulse-height:19%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 3 mentions" title="2025-09-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-arizona-t-00-33-55" style="--pulse-height:8%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 1 mentions" title="2025-09-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-gpe-arizona-t-00-32-51" style="--pulse-height:8%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-arizona-t-00-15-20" style="--pulse-height:38%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 6 mentions" title="2025-10-09 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-gpe-arizona-t-00-21-00" style="--pulse-height:19%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 3 mentions" title="2025-10-27 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-gpe-arizona-t-00-08-31" style="--pulse-height:8%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-arizona-t-00-06-25" style="--pulse-height:25%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 4 mentions" title="2025-10-30 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-arizona-t-00-29-39" style="--pulse-height:25%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 4 mentions" title="2025-10-31 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-gpe-arizona-t-00-06-20" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-arizona-t-00-36-54" style="--pulse-height:8%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-arizona-t-00-27-38" style="--pulse-height:19%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 3 mentions" title="2025-11-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-gpe-arizona-t-00-07-02" style="--pulse-height:12%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-arizona-t-00-29-09" style="--pulse-height:8%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-arizona-t-00-00-43" style="--pulse-height:8%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#t-00-12-04" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-arizona-t-00-07-30" style="--pulse-height:44%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 7 mentions" title="2025-12-09 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-arizona-t-00-39-28" style="--pulse-height:19%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-11-45" style="--pulse-height:38%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 6 mentions" title="2025-12-18 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-arizona-t-00-36-19" style="--pulse-height:12%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-25-35" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 16 mentions" title="2026-01-06 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-arizona-t-00-01-29" style="--pulse-height:31%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 5 mentions" title="2026-01-07 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-arizona-t-00-09-20" style="--pulse-height:25%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 4 mentions" title="2026-01-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-arizona-t-00-17-27" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-arizona-t-00-08-31" style="--pulse-height:25%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-arizona-t-00-00-01" style="--pulse-height:50%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 8 mentions" title="2026-01-22 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-arizona-t-00-13-23" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-gpe-arizona-t-00-17-57" style="--pulse-height:8%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-arizona-t-00-29-56" style="--pulse-height:19%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 3 mentions" title="2026-02-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-arizona-t-00-21-55" style="--pulse-height:12%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-arizona-t-00-26-52" style="--pulse-height:8%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#t-00-25-18" style="--pulse-height:8%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#t-00-19-19" style="--pulse-height:19%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 3 mentions" title="2026-02-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-gpe-arizona-t-00-10-49" style="--pulse-height:19%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 3 mentions" title="2026-02-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-arizona-t-00-48-46" style="--pulse-height:8%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-arizona-t-00-18-13" style="--pulse-height:50%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 8 mentions" title="2026-02-13 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-arizona-t-00-45-19" style="--pulse-height:50%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 8 mentions" title="2026-02-25 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-arizona-t-00-12-29" style="--pulse-height:50%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 8 mentions" title="2026-02-27 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-arizona-t-00-06-16" style="--pulse-height:56%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 9 mentions" title="2026-02-28 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-arizona-t-00-41-14" style="--pulse-height:19%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 3 mentions" title="2026-03-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-arizona-t-00-00-56" style="--pulse-height:62%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 10 mentions" title="2026-03-03 · 10 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-gpe-arizona-t-01-11-09) | 1 |
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-gpe-arizona-t-00-43-40) | 3 |
+| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-arizona-t-00-33-55) | 1 |
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-arizona-t-00-32-51) | 1 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-arizona-t-00-15-20) | 6 |
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-gpe-arizona-t-00-21-00) | 3 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-arizona-t-00-08-31) | 1 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-arizona-t-00-06-25) | 4 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-arizona-t-00-29-39) | 4 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-gpe-arizona-t-00-06-20) | 1 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-arizona-t-00-36-54) | 1 |
+| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-arizona-t-00-27-38) | 3 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-gpe-arizona-t-00-07-02) | 2 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-arizona-t-00-29-09) | 1 |
+| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-arizona-t-00-00-43) | 1 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#t-00-12-04) | 1 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-arizona-t-00-07-30) | 7 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-arizona-t-00-39-28) | 3 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-11-45) | 6 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-arizona-t-00-36-19) | 2 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-25-35) | 16 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-arizona-t-00-01-29) | 5 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-arizona-t-00-09-20) | 4 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-arizona-t-00-17-27) | 1 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-arizona-t-00-08-31) | 4 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-arizona-t-00-00-01) | 8 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-arizona-t-00-13-23) | 1 |
+| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-gpe-arizona-t-00-17-57) | 1 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-arizona-t-00-29-56) | 3 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-arizona-t-00-21-55) | 2 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-arizona-t-00-26-52) | 1 |
+| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#t-00-25-18) | 1 |
+| 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#t-00-19-19) | 3 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-gpe-arizona-t-00-10-49) | 3 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-arizona-t-00-48-46) | 1 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-arizona-t-00-18-13) | 8 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-arizona-t-00-45-19) | 8 |
+| 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-arizona-t-00-12-29) | 8 |
+| 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-arizona-t-00-06-16) | 9 |
+| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-arizona-t-00-41-14) | 3 |
+| 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-gpe-arizona-t-00-00-56) | 10 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (152)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (10 mentions)</summary>
+
+**[00:01:02](/episodes/ep-2tFYJf1klgY.md#ent-gpe-arizona-t-00-00-56)**
+> "...ough of that. What goes on in Arizona? Now, at the time, of course, this was a brand ne..."
+
+**[00:07:55](/episodes/ep-2tFYJf1klgY.md#ent-gpe-arizona-t-00-07-55)**
+> "...rantzve) is living already in Arizona and Lori (Lori Frantzve) is listed as living in C..."
+
+**[00:12:05](/episodes/ep-2tFYJf1klgY.md#ent-gpe-arizona-t-00-11-55)**
+> "...ny. This one is Intellimet of Arizona, LLC."
+
+**[00:12:24](/episodes/ep-2tFYJf1klgY.md#ent-gpe-arizona-t-00-11-55)**
+> "...of the National American Miss Arizona pageant."
+
+**[00:12:58](/episodes/ep-2tFYJf1klgY.md#ent-gpe-arizona-t-00-12-34)**
+> "... starting all with Intellimet Arizona, Intellimet, Intellimet, Intellimet. It could be ..."
+
+**[00:14:34](/episodes/ep-2tFYJf1klgY.md#ent-gpe-arizona-t-00-14-02)**
+> "But in the state of Arizona, 80% of the population lives in Maricopa County. ..."
+
+**[00:22:59](/episodes/ep-2tFYJf1klgY.md#ent-gpe-arizona-t-00-14-02)**
+> "... seems to be involved with is Arizona State University."
+
+**[00:24:19](/episodes/ep-2tFYJf1klgY.md#ent-gpe-arizona-t-00-24-00)**
+> "...cularly of charter schools in Arizona, you have to or I had to ask myself, what what ar..."
+
+**[00:25:10](/episodes/ep-2tFYJf1klgY.md#ent-gpe-arizona-t-00-24-45)**
+> "Arizona, which begins with Tesseract and now it continues..."
+
+**[00:35:36](/episodes/ep-2tFYJf1klgY.md#ent-gpe-arizona-t-00-35-26)**
+> "...ng around each other there in Arizona, all getting involved in the same stuff—charter s..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (3 mentions)</summary>
+
+**[00:15:23](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-arizona-t-00-41-14)**
+> "...l pathway for her to win Miss Arizona in 2012 because, you know, NBC Universal, Univers..."
+
+**[00:41:30](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-arizona-t-00-41-14)**
+> "...t was before she went down to Arizona."
+
+**[00:43:59](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-arizona-t-00-41-14)**
+> "like with Miss Arizona I was so done with that world it was very toxic I..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (9 mentions)</summary>
+
+**[00:06:54](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-arizona-t-00-06-16)**
+> "...iles for AZ Tech. She goes to Arizona. We're in Europe. We're doing tech everywhere."
+
+**[00:07:54](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-arizona-t-00-07-45)**
+> "...s, following her from Ohio to Arizona, and also there's a Donna Erpenbeck mentioned who..."
+
+**[00:19:45](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-arizona-t-00-19-45)**
+> "... (Erika Kirk) to Tesseract in Arizona and the school then suddenly has to shutter its d..."
+
+**[00:21:20](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-arizona-t-00-20-59)**
+> "...iness revoked by the state of Arizona while it employed Jeff DeWitt, its former COO, an..."
+
+**[00:32:26](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-arizona-t-00-20-59)**
+> "...y, you should compete at Miss Arizona USA. Someone nominated you.' And I was like, 'I d..."
+
+**[00:34:34](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-arizona-t-00-34-13)**
+> "...in the National American Miss Arizona pageant, and she will represent Arizona in the up..."
+
+**[00:35:28](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-arizona-t-00-35-28)**
+> "...with the hospital in Winslow, Arizona for kids."
+
+**[00:35:55](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-arizona-t-00-35-28)**
+> "...so as a resident of Surprise, Arizona, concerned."
+
+**[00:37:09](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-arizona-t-00-35-28)**
+> "...o named as a finalist for the Arizona Interscholastic Association's Everyday Heroes Awa..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (8 mentions)</summary>
+
+**[00:12:29](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-arizona-t-00-12-29)**
+> "She also dies in Arizona. There are everybody's in Arizona. You would have no idea that these people were exes and they seem to get along quite well."
+
+**[00:12:55](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-arizona-t-00-12-29)**
+> "...tzve)'s Mormon family is from Arizona, a very powerful Mormon family, but she herself w..."
+
+**[00:19:13](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-arizona-t-00-12-29)**
+> "...move down to Paradise Valley, Arizona before deciding to divorce, okay?"
+
+**[00:30:40](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-arizona-t-00-30-12)**
+> "...entire Mormon family, is from Arizona."
+
+**[00:30:50](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-arizona-t-00-30-50)**
+> "...d Kent had a home together in Arizona and in Paradise Valley, which is exactly where th..."
+
+**[00:33:35](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-arizona-t-00-33-25)**
+> "...nd she says that she moved to Arizona for her husband's job and he is a pediatric devel..."
+
+**[00:48:23](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-arizona-t-00-33-25)**
+> "...ey you should compete at Miss Arizona USA someone nominated you and I was like I don't ..."
+
+**[00:55:11](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-arizona-t-00-55-06)**
+> "...'s worth clan a few times and arizona there's there's stuff"
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (8 mentions)</summary>
+
+**[00:17:15](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-arizona-t-00-45-19)**
+> "... single mother in Scottsdale, Arizona."
+
+**[00:45:19](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-arizona-t-00-45-19)**
+> "...husband's body is escorted to Arizona?"
+
+**[00:50:08](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-arizona-t-00-49-39)**
+> "...t Erica (Erika Kirk) moved to Arizona after her parents divorced."
+
+**[00:50:13](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-arizona-t-00-49-39)**
+> "That would put her in Arizona after 1998."
+
+**[00:50:55](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-arizona-t-00-50-55)**
+> "...rable thereafter she moves to Arizona and she attends a school that they have virtually..."
+
+**[00:52:31](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-arizona-t-00-52-19)**
+> "...start the Tesseract School in Arizona,"
+
+**[00:53:08](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-arizona-t-00-53-03)**
+> "...oking glass school down in um arizona by the way tesseract the school itself is exceedi..."
+
+**[00:53:58](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-arizona-t-00-53-48)**
+> "...azy meanwhile they're down in arizona like naming their schools project looking glass l..."
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (8 mentions)</summary>
@@ -365,13 +610,10 @@ Source: [State of Arizona official website](https://az.gov/)
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>
 
 **[00:12:04](/episodes/ep-Kmt6HgRjckU.md#t-00-12-04)**
 > "...rson who lives in Scottsdale, Arizona and is a billionaire, and that is where Turning P..."
-
-**[00:12:11](/episodes/ep-Kmt6HgRjckU.md#t-00-12-04)**
-> "Scottsdale, Arizona - Turning Point HQ location"
 
 </details>
 
@@ -558,7 +800,11 @@ Source: [State of Arizona official website](https://az.gov/)
 <summary>Headquarters Of (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:28:55](/episodes/ep-HYn0P-P1wUw.md#t-00-28-51): "I wanted him to love Arizona because I had recently convinced him to move Turning Point USA to Arizona."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:28:55](/episodes/ep-HYn0P-P1wUw.md#t-00-28-51): “I wanted him to love Arizona because I had recently convinced him to move Turning Point USA to Arizona.”
+
+</details>
 
 </details>
 
@@ -566,15 +812,27 @@ Source: [State of Arizona official website](https://az.gov/)
 <summary>Location Of (3)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:21:19](/episodes/ep-c5BcKF91iec.md#t-00-21-00): "he was on the phone with the ops that were back in Arizona watching."
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:33:36](/episodes/ep-YA1FxrDWNIo.md#t-00-32-51): "feed it back instantly to Arizona."
-  - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:01:25](/episodes/ep-ZAuuSq_j2_w.md#t-00-00-43): "I wanna know what is happening over there in Arizona."
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:21:19](/episodes/ep-c5BcKF91iec.md#t-00-21-00): “he was on the phone with the ops that were back in Arizona watching.”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:33:36](/episodes/ep-YA1FxrDWNIo.md#t-00-32-51): “feed it back instantly to Arizona.”
+- [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:01:25](/episodes/ep-ZAuuSq_j2_w.md#t-00-00-43): “I wanna know what is happening over there in Arizona.”
+
+</details>
 
 - **[Fort Huachuca](/entities/gpe-fort-huachuca.md)**
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:29](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28): "Fort Huachuca in Arizona is, okay? It is a hub for intelligence training."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:29](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28): “Fort Huachuca in Arizona is, okay? It is a hub for intelligence training.”
+
+</details>
 
 - **[Sierra Vista](/entities/gpe-sierra-vista.md)**
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:13:02](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28): "person who grew up and lives just outside of the base in in Sierra Vista."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:13:02](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28): “person who grew up and lives just outside of the base in in Sierra Vista.”
+
+</details>
 
 </details>
 
@@ -582,7 +840,11 @@ Source: [State of Arizona official website](https://az.gov/)
 <summary>Residence Of (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:06:20](/episodes/ep-LATnak75Si0.md#t-00-05-38): "go back home to Arizona"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:06:20](/episodes/ep-LATnak75Si0.md#t-00-05-38): “go back home to Arizona”
+
+</details>
 
 </details>
 
@@ -590,28 +852,82 @@ Source: [State of Arizona official website](https://az.gov/)
 <summary>Referenced By (5)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** based in this
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:21:19](/episodes/ep-c5BcKF91iec.md#t-00-21-00)
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:33:36](/episodes/ep-YA1FxrDWNIo.md#t-00-32-51)
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:21:19](/episodes/ep-c5BcKF91iec.md#t-00-21-00): “he was on the phone with the ops that were back in Arizona watching.”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:33:36](/episodes/ep-YA1FxrDWNIo.md#t-00-32-51): “feed it back instantly to Arizona.”
+- [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:01:25](/episodes/ep-ZAuuSq_j2_w.md#t-00-00-43): “I wanna know what is happening over there in Arizona.”
+
+</details>
 
 - **[Fort Huachuca](/entities/gpe-fort-huachuca.md)** based in this
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:29](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28)
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:16](/episodes/ep-ewBzjVe3LNQ.md#t-00-11-45)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:29](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28): “Fort Huachuca in Arizona is, okay? It is a hub for intelligence training.”
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:16](/episodes/ep-ewBzjVe3LNQ.md#t-00-11-45): “Fort Huachuca in Arizona is... a hub for intelligence training”
+
+</details>
 
 - **[Sierra Vista](/entities/gpe-sierra-vista.md)** based in this
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:13:02](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:13:02](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28): “person who grew up and lives just outside of the base in in Sierra Vista.”
+
+</details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** headquartered in this
-  - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:28:55](/episodes/ep-HYn0P-P1wUw.md#t-00-28-51)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:28:55](/episodes/ep-HYn0P-P1wUw.md#t-00-28-51): “I wanted him to love Arizona because I had recently convinced him to move Turning Point USA to Arizona.”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** lives in this
-  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:06:20](/episodes/ep-LATnak75Si0.md#t-00-05-38)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:06:20](/episodes/ep-LATnak75Si0.md#t-00-05-38): “go back home to Arizona”
+
+</details>
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Arizona (8)</strong></summary>
+<summary><strong class="section-title">Statements about Arizona (14)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (2)</summary>
+
+- [00:21:20](/episodes/ep-cZxHqYsWRYg.md#t-00-20-59) (Citation) **Candace Owens**: ["A Yahoo News report said Superfeed Technologies had its Arizona busine..."](/statements/statement-f8a16cb746f5.md)
+  - Also about: [Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md), [Kari Lake](/entities/person-kari-lake.md), [Jeff DeWit](/entities/person-jeff-dewit.md)
+
+- [00:36:17](/episodes/ep-cZxHqYsWRYg.md#t-00-36-06) (Claim) **Candace Owens**: ["Arizona tax authorities canceled Virtual Registration International be..."](/statements/statement-afc9c97d744b.md)
+  - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md), [Richard William Erpenbeck](/entities/person-richard-william-erpenbeck.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (2)</summary>
+
+- [00:12:55](/episodes/ep-1IY2oD-_xVA.md#t-00-12-29) (Claim) **Candace Owens**: ["Jerri Frantzve’s Mormon family was from Arizona, while she was raised ..."](/statements/statement-d3e10c922462.md)
+  - Also about: [Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md), [Indianapolis, Indiana](/entities/gpe-indianapolis-indiana.md), [Mormonism](/entities/concept-mormonism.md)
+
+- [00:49:11](/episodes/ep-1IY2oD-_xVA.md#t-00-48-46) (Opinion) **Erika Kirk** (via quoted speech): ["Erika Kirk said pageants were not narcissistic for her but a way to se..."](/statements/statement-1bf2de798297.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Miss Arizona USA](/entities/org-miss-arizona-usa.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (2)</summary>
+
+- [00:50:08](/episodes/ep-ZAsV0fHGBiM.md#t-00-49-39) (Claim) **Candace Owens**: ["Erika Kirk was living in Arizona before her parents divorced in 1998, ..."](/statements/statement-284a8c2d9ea5.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md)
+
+- [00:50:33](/episodes/ep-ZAsV0fHGBiM.md#t-00-50-23) (Claim) **Candace Owens**: ["Erika Kirk attended Walnut Corner Children's Center in Cincinnati in 1..."](/statements/statement-b0345e34cb8d.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Walnut Corner Children's Center](/entities/org-walnut-corner-childrens-center.md), [Cincinnati, Ohio](/entities/gpe-cincinnati-ohio.md)
+
+</details>
 
 <details>
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (2)</summary>

@@ -11,13 +11,45 @@ _Type: People_
 
 **Also known as:** Sean Foyt
 
+> **Possibly overlapping entity records:** [Sean Foyt](/entities/person-sean-foyt). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > Pastor-summit participant named in the episode.
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-sean-feucht-t-00-10-20">2025-10-31 · 00:10:20</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-sean-feucht-t-00-58-29">2026-01-09 · 00:58:33</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-sean-feucht-t-00-10-20">INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256</a> (15 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-sean-feucht-t-00-10-20" style="--pulse-height:100%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 15 mentions" title="2025-10-31 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-sean-feucht-t-00-13-01" style="--pulse-height:13%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 2 mentions" title="2025-11-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-sean-feucht-t-00-58-29" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-person-sean-feucht-t-00-10-20) | 15 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-person-sean-feucht-t-00-13-01) | 2 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-sean-feucht-t-00-58-29) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
 
 <details>
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1 mentions)</summary>
@@ -97,7 +129,11 @@ _Type: People_
 <summary>Born In (1)</summary>
 
 - **[Montana](/entities/gpe-montana.md)**
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:11:33](/episodes/ep-YFmRH8p5lt0.md#t-00-11-02): "he was born in Montana"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:11:33](/episodes/ep-YFmRH8p5lt0.md#t-00-11-02): “he was born in Montana”
+
+</details>
 
 </details>
 
@@ -105,7 +141,11 @@ _Type: People_
 <summary>Works For (1)</summary>
 
 - **[Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)**
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:10:31](/episodes/ep-YFmRH8p5lt0.md#t-00-10-20): "Sean Feucht is announced as the Turning Point USA Faith contributor"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:10:31](/episodes/ep-YFmRH8p5lt0.md#t-00-10-20): “Sean Feucht is announced as the Turning Point USA Faith contributor”
+
+</details>
 
 </details>
 
@@ -113,10 +153,18 @@ _Type: People_
 <summary>Referenced By (2)</summary>
 
 - **[Montana](/entities/gpe-montana.md)** birthplace of this
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:11:33](/episodes/ep-YFmRH8p5lt0.md#t-00-11-02)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:11:33](/episodes/ep-YFmRH8p5lt0.md#t-00-11-02): “he was born in Montana”
+
+</details>
 
 - **[Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)** employs this
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:10:31](/episodes/ep-YFmRH8p5lt0.md#t-00-10-20)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:10:31](/episodes/ep-YFmRH8p5lt0.md#t-00-10-20): “Sean Feucht is announced as the Turning Point USA Faith contributor”
+
+</details>
 
 </details>
 

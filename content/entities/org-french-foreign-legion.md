@@ -1,6 +1,6 @@
 ---
 title: "French Foreign Legion"
-description: "French Foreign Legion (Organizations) - 33 mentions"
+description: "French Foreign Legion (Organizations) - 36 mentions"
 id: "org-french-foreign-legion"
 type: "ORG"
 aliases:
@@ -22,10 +22,69 @@ _Type: Organizations_
 > The French Army official portal confirms the Foreign Legion as the canonical military organization.
 Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.terre.defense.gouv.fr/legion-etrangere/qui-sommes-nous/presentation-legion-etrangere)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-org-french-foreign-legion-t-00-13-39">2025-11-21 · 00:14:02</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-french-foreign-legion-t-02-36-52">2026-08-14 · 02:36:52</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>36</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-french-foreign-legion-t-00-00-57">Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271</a> (18 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-org-french-foreign-legion-t-00-13-39" style="--pulse-height:8%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-french-foreign-legion-t-00-00-57" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 18 mentions" title="2025-12-01 · 18 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-french-foreign-legion-t-00-21-13" style="--pulse-height:11%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-org-french-foreign-legion-t-00-40-39" style="--pulse-height:17%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 3 mentions" title="2025-12-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-french-foreign-legion-t-00-56-52" style="--pulse-height:11%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-french-foreign-legion-t-00-58-24" style="--pulse-height:11%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-french-foreign-legion-t-01-04-24" style="--pulse-height:11%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-org-french-foreign-legion-t-00-14-04" style="--pulse-height:11%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-french-foreign-legion-t-02-28-25" style="--pulse-height:22%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-org-french-foreign-legion-t-00-13-39) | 1 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-french-foreign-legion-t-00-00-57) | 18 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-org-french-foreign-legion-t-00-21-13) | 2 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-french-foreign-legion-t-00-40-39) | 3 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-org-french-foreign-legion-t-00-56-52) | 2 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-french-foreign-legion-t-00-58-24) | 2 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-french-foreign-legion-t-01-04-24) | 2 |
+| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-org-french-foreign-legion-t-00-14-04) | 2 |
+| 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-french-foreign-legion-t-02-28-25) | 4 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (36)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
+
+**[02:28:25](/episodes/ep-nPhCKwJ6ye8.md#ent-org-french-foreign-legion-t-02-28-25)**
+> "...ing that I reported said that French foreign legion were on the ground that day."
+
+**[02:33:22](/episodes/ep-nPhCKwJ6ye8.md#ent-org-french-foreign-legion-t-02-33-22)**
+> "they said that the French Foreign Legion was involved and on the ground that day."
+
+**[02:34:09](/episodes/ep-nPhCKwJ6ye8.md#ent-org-french-foreign-legion-t-02-34-09)**
+> "that the French foreign legion was on the ground during Charlie's assassination ..."
+
+**[02:36:52](/episodes/ep-nPhCKwJ6ye8.md#ent-org-french-foreign-legion-t-02-36-52)**
+> "...it was saying that it was the French foreign legion that was on the ground that"
+
+</details>
 
 <details>
 <summary>An Open Letter To Erika Kirk | Candace Ep 303 (2 mentions)</summary>
@@ -72,10 +131,7 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 </details>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (4 mentions)</summary>
-
-**[00:41:04](/episodes/ep-his-JBjlkh8.md#ent-org-french-foreign-legion-t-00-40-39)**
-> "the French Foreign Legion were apparently on the ground on the day of Charlie Kirk's assassination"
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (3 mentions)</summary>
 
 **[00:41:04](/episodes/ep-his-JBjlkh8.md#ent-org-french-foreign-legion-t-00-40-39)**
 > "...out the foreign angle of Charlie (Charlie Kirk)'s assassination. Now, I obviously reported that the French Foreign Legion were apparently on the ground on the day of Charlie (Charlie Kirk)'s assassination. So here is Cam ..."
@@ -175,16 +231,32 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 <summary>Has Member (4)</summary>
 
 - **[4th Company, 2nd Foreign Infantry Regiment](/entities/org-4th-company-2nd-foreign-infantry-regiment.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:15:59](/episodes/ep-tB5SXXmd9vU.md#t-00-15-25): "...the legionnaires from the 4th Company, 2nd Foreign Infantry Regiment, the 6th Light Armored Brigade, were integrated..."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:15:59](/episodes/ep-tB5SXXmd9vU.md#t-00-15-25): “...the legionnaires from the 4th Company, 2nd Foreign Infantry Regiment, the 6th Light Armored Brigade, were integrated...”
+
+</details>
 
 - **[6th Light Armored Brigade](/entities/org-6th-light-armored-brigade.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:15:59](/episodes/ep-tB5SXXmd9vU.md#t-00-15-25): "...the legionnaires from the 4th Company, 2nd Foreign Infantry Regiment, the 6th Light Armored Brigade, were integrated..."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:15:59](/episodes/ep-tB5SXXmd9vU.md#t-00-15-25): “...the legionnaires from the 4th Company, 2nd Foreign Infantry Regiment, the 6th Light Armored Brigade, were integrated...”
+
+</details>
 
 - **[2nd Foreign Infantry Regiment](/entities/org-2nd-foreign-infantry-regiment.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:20:07](/episodes/ep-tB5SXXmd9vU.md#t-00-19-45): ""a training exercise by the 2nd Foreign Infantry Regiment, a unit of the French Foreign Legion...""
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:20:07](/episodes/ep-tB5SXXmd9vU.md#t-00-19-45): “"a training exercise by the 2nd Foreign Infantry Regiment, a unit of the French Foreign Legion..."”
+
+</details>
 
 - **[French Foreign Legionnaires](/entities/org-french-foreign-legionnaires.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:59:13](/episodes/ep-tB5SXXmd9vU.md#t-00-58-43): "...some French Foreign Legionnaires that were there..."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:59:13](/episodes/ep-tB5SXXmd9vU.md#t-00-58-43): “...some French Foreign Legionnaires that were there...”
+
+</details>
 
 </details>
 
@@ -192,16 +264,48 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 <summary>Referenced By (4)</summary>
 
 - **[4th Company, 2nd Foreign Infantry Regiment](/entities/org-4th-company-2nd-foreign-infantry-regiment.md)** member of this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:15:59](/episodes/ep-tB5SXXmd9vU.md#t-00-15-25)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:15:59](/episodes/ep-tB5SXXmd9vU.md#t-00-15-25): “...the legionnaires from the 4th Company, 2nd Foreign Infantry Regiment, the 6th Light Armored Brigade, were integrated...”
+
+</details>
 
 - **[6th Light Armored Brigade](/entities/org-6th-light-armored-brigade.md)** member of this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:15:59](/episodes/ep-tB5SXXmd9vU.md#t-00-15-25)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:15:59](/episodes/ep-tB5SXXmd9vU.md#t-00-15-25): “...the legionnaires from the 4th Company, 2nd Foreign Infantry Regiment, the 6th Light Armored Brigade, were integrated...”
+
+</details>
 
 - **[2nd Foreign Infantry Regiment](/entities/org-2nd-foreign-infantry-regiment.md)** member of this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:20:07](/episodes/ep-tB5SXXmd9vU.md#t-00-19-45)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:20:07](/episodes/ep-tB5SXXmd9vU.md#t-00-19-45): “"a training exercise by the 2nd Foreign Infantry Regiment, a unit of the French Foreign Legion..."”
+
+</details>
 
 - **[French Foreign Legionnaires](/entities/org-french-foreign-legionnaires.md)** member of this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:59:13](/episodes/ep-tB5SXXmd9vU.md#t-00-58-43)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:59:13](/episodes/ep-tB5SXXmd9vU.md#t-00-58-43): “...some French Foreign Legionnaires that were there...”
+
+</details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about French Foreign Legion (2)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2)</summary>
+
+- [02:21:45](/episodes/ep-nPhCKwJ6ye8.md#t-02-21-45) (Claim) **Candace Owens**: ["Candace Owens reported the alleged French Foreign Legion threat to Tul..."](/statements/statement-09827ba5d6e7.md)
+  - Also about: [Tulsi Gabbard](/entities/person-tulsi-gabbard.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [02:33:22](/episodes/ep-nPhCKwJ6ye8.md#t-02-33-18) (Accusation) **Anonymous Source #1 (Ep nPhCKwJ6ye8)** (via quoted speech): ["French Foreign Legion personnel were on the ground during Charlie Kirk..."](/statements/statement-0ccadf24fcfc.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [France](/entities/gpe-france.md)
 
 </details>
 

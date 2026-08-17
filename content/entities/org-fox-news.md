@@ -1,6 +1,6 @@
 ---
 title: "Fox News"
-description: "Fox News (Organizations) - 56 mentions"
+description: "Fox News (Organizations) - 55 mentions"
 id: "org-fox-news"
 type: "ORG"
 aliases:
@@ -22,10 +22,86 @@ _Type: Organizations_
 > Official network site confirms the canonical organization name.
 Source: [Fox News](https://www.foxnews.com/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-fox-news-t-00-03-31">2025-09-11 · 00:03:31</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-fox-news-t-00-38-46">2026-02-13 · 00:39:13</a></strong></div>
+<div><span>Episodes</span><strong>26</strong></div>
+<div><span>Mentions</span><strong>55</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-fox-news-t-00-12-44">REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251</a> (8 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-_dRaEO47-co.md#ent-org-fox-news-t-00-03-31" style="--pulse-height:38%" aria-label="To My Friend, Charlie Kirk.: 3 mentions" title="2025-09-11 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-fox-news-t-00-06-16" style="--pulse-height:50%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 4 mentions" title="2025-09-15 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-org-fox-news-t-00-24-02" style="--pulse-height:12%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-fox-news-t-00-13-01" style="--pulse-height:50%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 4 mentions" title="2025-09-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-org-fox-news-t-00-01-58" style="--pulse-height:12%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-fox-news-t-00-02-50" style="--pulse-height:12%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-fox-news-t-00-15-29" style="--pulse-height:12%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-fox-news-t-00-21-03" style="--pulse-height:12%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-fox-news-t-00-12-44" style="--pulse-height:100%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 8 mentions" title="2025-10-09 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-org-fox-news-t-00-20-16" style="--pulse-height:12%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-fox-news-t-00-02-49" style="--pulse-height:38%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 3 mentions" title="2025-10-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#t-00-32-06" style="--pulse-height:12%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-org-fox-news-t-00-27-53" style="--pulse-height:38%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 3 mentions" title="2025-11-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-fox-news-t-00-17-34" style="--pulse-height:62%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 5 mentions" title="2025-11-04 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-fox-news-t-00-00-45" style="--pulse-height:38%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 3 mentions" title="2025-11-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-fox-news-t-00-38-20" style="--pulse-height:12%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-org-fox-news-t-00-45-50" style="--pulse-height:12%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-fox-news-t-00-00-00" style="--pulse-height:62%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 5 mentions" title="2025-12-10 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-fox-news-t-00-35-58" style="--pulse-height:12%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-org-fox-news-t-00-18-46" style="--pulse-height:12%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-fox-news-t-00-35-23" style="--pulse-height:12%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-fox-news-t-00-45-32" style="--pulse-height:12%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-org-fox-news-t-00-00-00" style="--pulse-height:12%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-org-fox-news-t-00-14-03" style="--pulse-height:12%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-fox-news-t-00-15-58" style="--pulse-height:12%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-fox-news-t-00-38-46" style="--pulse-height:12%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-11 | [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md#ent-org-fox-news-t-00-03-31) | 3 |
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-org-fox-news-t-00-06-16) | 4 |
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-org-fox-news-t-00-24-02) | 1 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-org-fox-news-t-00-13-01) | 4 |
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-org-fox-news-t-00-01-58) | 1 |
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-org-fox-news-t-00-02-50) | 1 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-fox-news-t-00-15-29) | 1 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-fox-news-t-00-21-03) | 1 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-org-fox-news-t-00-12-44) | 8 |
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-org-fox-news-t-00-20-16) | 1 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-fox-news-t-00-02-49) | 3 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#t-00-32-06) | 1 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-org-fox-news-t-00-27-53) | 3 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-org-fox-news-t-00-17-34) | 5 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-org-fox-news-t-00-00-45) | 3 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-org-fox-news-t-00-38-20) | 1 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-org-fox-news-t-00-45-50) | 1 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-org-fox-news-t-00-00-00) | 5 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-fox-news-t-00-35-58) | 1 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-org-fox-news-t-00-18-46) | 1 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-fox-news-t-00-35-23) | 1 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-fox-news-t-00-45-32) | 1 |
+| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-org-fox-news-t-00-00-00) | 1 |
+| 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-org-fox-news-t-00-14-03) | 1 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-fox-news-t-00-15-58) | 1 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-fox-news-t-00-38-46) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (55)</strong></summary>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
@@ -92,13 +168,10 @@ Source: [Fox News](https://www.foxnews.com/)
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (6 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (5 mentions)</summary>
 
 **[00:00:34](/episodes/ep-6DhWawD4ZiM.md#ent-org-fox-news-t-00-00-00)**
 > "... live with Harris Faulkner on Fox News, where she finally addressed the quote unquote co..."
-
-**[00:00:36](/episodes/ep-6DhWawD4ZiM.md#ent-org-fox-news-t-00-00-00)**
-> "she just gave an interview live with Harris Faulkner on Fox News"
 
 **[00:09:59](/episodes/ep-6DhWawD4ZiM.md#ent-org-fox-news-t-00-00-00)**
 > "...e's done The Five, she's done Fox and Friends, she's done Outnumbered, she's done M..."
@@ -334,7 +407,11 @@ Source: [Fox News](https://www.foxnews.com/)
 <summary>Employs (1)</summary>
 
 - **[Jesse Watters](/entities/person-jesse-watters.md)**
-  - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:02:00](/episodes/ep-vwG1juDCQZQ.md#t-00-01-30): "Jesse Watters, who hosted this discussion on Fox News"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:02:00](/episodes/ep-vwG1juDCQZQ.md#t-00-01-30): “Jesse Watters, who hosted this discussion on Fox News”
+
+</details>
 
 </details>
 
@@ -342,7 +419,11 @@ Source: [Fox News](https://www.foxnews.com/)
 <summary>Formerly Employed (1)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-  - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:18:52](/episodes/ep-9naMwS0kMBE.md#t-00-18-46): "used to work for Fox News"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:18:52](/episodes/ep-9naMwS0kMBE.md#t-00-18-46): “used to work for Fox News”
+
+</details>
 
 </details>
 
@@ -350,7 +431,11 @@ Source: [Fox News](https://www.foxnews.com/)
 <summary>Interviewed (1)</summary>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:07:12](/episodes/ep-czVBmqZP6Ss.md#t-00-07-02): "what Benjamin Netanyahu had to say on Fox News"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:07:12](/episodes/ep-czVBmqZP6Ss.md#t-00-07-02): “what Benjamin Netanyahu had to say on Fox News”
+
+</details>
 
 </details>
 
@@ -358,13 +443,25 @@ Source: [Fox News](https://www.foxnews.com/)
 <summary>Referenced By (3)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** formerly worked for this
-  - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:18:52](/episodes/ep-9naMwS0kMBE.md#t-00-18-46)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:18:52](/episodes/ep-9naMwS0kMBE.md#t-00-18-46): “used to work for Fox News”
+
+</details>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** interviewed by this
-  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:07:12](/episodes/ep-czVBmqZP6Ss.md#t-00-07-02)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:07:12](/episodes/ep-czVBmqZP6Ss.md#t-00-07-02): “what Benjamin Netanyahu had to say on Fox News”
+
+</details>
 
 - **[Jesse Watters](/entities/person-jesse-watters.md)** works for this
-  - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:02:00](/episodes/ep-vwG1juDCQZQ.md#t-00-01-30)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:02:00](/episodes/ep-vwG1juDCQZQ.md#t-00-01-30): “Jesse Watters, who hosted this discussion on Fox News”
+
+</details>
 
 </details>
 

@@ -16,10 +16,40 @@ _Type: People_
 > The industry profile confirms the canonical name and film role.
 Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-justin-baldoni-t-00-44-32">2025-10-28 · 00:44:25</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-justin-baldoni-t-00-29-36">2026-01-21 · 00:29:36</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-justin-baldoni-t-00-24-46">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (7 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-justin-baldoni-t-00-44-32" style="--pulse-height:29%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-justin-baldoni-t-00-15-52" style="--pulse-height:29%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 2 mentions" title="2026-01-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-justin-baldoni-t-00-24-46" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 7 mentions" title="2026-01-21 · 7 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-justin-baldoni-t-00-44-32) | 2 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-justin-baldoni-t-00-15-52) | 2 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-justin-baldoni-t-00-24-46) | 7 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
 
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (7 mentions)</summary>
@@ -78,7 +108,11 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 <summary>Accused By (1)</summary>
 
 - **[Blake Lively](/entities/person-blake-lively.md)**
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:27:26](/episodes/ep-GY6GWceEqtQ.md#t-00-26-58): "But now her messages are out and it turns out that Taylor Swift called Justin Baldoni a B-I-T-C-H with a tiny violin and she knew that Blake Lively was going to file that sexual harassment complaint to get these publishing rights,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:27:26](/episodes/ep-GY6GWceEqtQ.md#t-00-26-58): “But now her messages are out and it turns out that Taylor Swift called Justin Baldoni a B-I-T-C-H with a tiny violin and she knew that Blake Lively was going to file that sexual harassment complaint to get these publishing rights,”
+
+</details>
 
 </details>
 
@@ -86,7 +120,11 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 <summary>Criticized By (1)</summary>
 
 - **[Taylor Swift](/entities/person-taylor-swift.md)**
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:27:26](/episodes/ep-GY6GWceEqtQ.md#t-00-26-58): "But now her messages are out and it turns out that Taylor Swift called Justin Baldoni a B-I-T-C-H with a tiny violin and she knew that Blake Lively was going to file that sexual harassment complaint to get these publishing rights,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:27:26](/episodes/ep-GY6GWceEqtQ.md#t-00-26-58): “But now her messages are out and it turns out that Taylor Swift called Justin Baldoni a B-I-T-C-H with a tiny violin and she knew that Blake Lively was going to file that sexual harassment complaint to get these publishing rights,”
+
+</details>
 
 </details>
 
@@ -94,10 +132,18 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 <summary>Referenced By (2)</summary>
 
 - **[Blake Lively](/entities/person-blake-lively.md)** accused this
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:27:26](/episodes/ep-GY6GWceEqtQ.md#t-00-26-58)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:27:26](/episodes/ep-GY6GWceEqtQ.md#t-00-26-58): “But now her messages are out and it turns out that Taylor Swift called Justin Baldoni a B-I-T-C-H with a tiny violin and she knew that Blake Lively was going to file that sexual harassment complaint to get these publishing rights,”
+
+</details>
 
 - **[Taylor Swift](/entities/person-taylor-swift.md)** criticized this
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:27:26](/episodes/ep-GY6GWceEqtQ.md#t-00-26-58)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:27:26](/episodes/ep-GY6GWceEqtQ.md#t-00-26-58): “But now her messages are out and it turns out that Taylor Swift called Justin Baldoni a B-I-T-C-H with a tiny violin and she knew that Blake Lively was going to file that sexual harassment complaint to get these publishing rights,”
+
+</details>
 
 </details>
 
@@ -119,7 +165,7 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
   - Also about: [Blake Lively](/entities/person-blake-lively.md), [Taylor Swift](/entities/person-taylor-swift.md)
 
 - [00:29:17](/episodes/ep-GY6GWceEqtQ.md#t-00-28-53) (Opinion) **Taylor Swift** (via read message): ["Taylor Swift wrote that she thought Justin Baldoni knew something was ..."](/statements/statement-3e4d0ffe37fd.md)
-  - Also about: [Blake Lively](/entities/person-blake-lively.md), [The New York Times](/entities/org-new-york-times.md)
+  - Also about: [Blake Lively](/entities/person-blake-lively.md), [The New York Times](/entities/org-the-new-york-times.md)
 
 </details>
 

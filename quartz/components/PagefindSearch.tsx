@@ -95,7 +95,7 @@ const loadPagefind = async () => {
     })
   } catch (e) {
     console.warn('Pagefind not available:', e)
-    container.innerHTML = '<p style="color: var(--gray); font-size: 0.9rem;">Full-text search unavailable. Use Ctrl+K for title search.</p>'
+    container.innerHTML = '<p style="color: var(--gray); font-size: 0.9rem;">Quick jump searches page titles. Use Research Explorer for statements and transcript snippets.</p>'
   }
 }
 

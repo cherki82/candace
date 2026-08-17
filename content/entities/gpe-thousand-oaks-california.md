@@ -7,10 +7,42 @@ type: "GPE"
 
 _Type: Places_
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-thousand-oaks-california-t-00-13-27">2025-11-04 · 00:13:34</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-thousand-oaks-california-t-00-16-49">2025-11-15 · 00:16:54</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-thousand-oaks-california-t-00-15-24">From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265</a> (2 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-thousand-oaks-california-t-00-13-27" style="--pulse-height:50%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-thousand-oaks-california-t-00-21-31" style="--pulse-height:50%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-thousand-oaks-california-t-00-22-23" style="--pulse-height:50%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-thousand-oaks-california-t-00-15-24" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 2 mentions" title="2025-11-15 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-thousand-oaks-california-t-00-13-27) | 1 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-thousand-oaks-california-t-00-21-31) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-thousand-oaks-california-t-00-22-23) | 1 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-thousand-oaks-california-t-00-15-24) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
 
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
@@ -56,7 +88,11 @@ _Type: Places_
 <summary>Location Of (1)</summary>
 
 - **[Godspeak Calvary Chapel](/entities/org-godspeak-calvary-chapel.md)**
-  - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:34](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27): "Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel in Thousand Oaks, California."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:34](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27): “Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel in Thousand Oaks, California.”
+
+</details>
 
 </details>
 
@@ -64,10 +100,18 @@ _Type: Places_
 <summary>Residence Of (2)</summary>
 
 - **[Britney Spears](/entities/person-britney-spears.md)**
-  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:15:59](/episodes/ep-7RLtGgkTh9o.md#t-00-15-24): "Britney Spears lives in Thousand Oaks, California"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:15:59](/episodes/ep-7RLtGgkTh9o.md#t-00-15-24): “Britney Spears lives in Thousand Oaks, California”
+
+</details>
 
 - **[Justin Bieber](/entities/person-justin-bieber.md)**
-  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:16:04](/episodes/ep-7RLtGgkTh9o.md#t-00-15-24): "as does Justin Bieber"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:16:04](/episodes/ep-7RLtGgkTh9o.md#t-00-15-24): “as does Justin Bieber”
+
+</details>
 
 </details>
 
@@ -75,13 +119,25 @@ _Type: Places_
 <summary>Referenced By (3)</summary>
 
 - **[Godspeak Calvary Chapel](/entities/org-godspeak-calvary-chapel.md)** based in this
-  - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:34](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:34](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27): “Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel in Thousand Oaks, California.”
+
+</details>
 
 - **[Britney Spears](/entities/person-britney-spears.md)** lives in this
-  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:15:59](/episodes/ep-7RLtGgkTh9o.md#t-00-15-24)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:15:59](/episodes/ep-7RLtGgkTh9o.md#t-00-15-24): “Britney Spears lives in Thousand Oaks, California”
+
+</details>
 
 - **[Justin Bieber](/entities/person-justin-bieber.md)** lives in this
-  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:16:04](/episodes/ep-7RLtGgkTh9o.md#t-00-15-24)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:16:04](/episodes/ep-7RLtGgkTh9o.md#t-00-15-24): “as does Justin Bieber”
+
+</details>
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Christianity"
-description: "Christianity (Concepts) - 122 mentions"
+description: "Christianity (Concepts) - 139 mentions"
 id: "concept-christianity"
 type: "CONCEPT"
 aliases:
@@ -20,10 +20,156 @@ _Type: Concepts_
 > Britannica confirms the canonical concept name.
 Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & Facts](https://www.britannica.com/topic/Christianity)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-christianity-t-00-07-28">2026-01-07 · 00:04:48</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10">2026-08-14 · 02:57:10</a></strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>139</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-wcD2khO3rOA.md#ent-concept-christianity-t-00-22-55">The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</a> (35 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-christianity-t-00-07-28" style="--pulse-height:11%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 4 mentions" title="2026-01-07 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-concept-christianity-t-00-22-55" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 35 mentions" title="2026-01-09 · 35 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-christianity-t-00-22-23" style="--pulse-height:9%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-christianity-t-00-18-50" style="--pulse-height:17%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 6 mentions" title="2026-01-13 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-concept-christianity-t-00-02-09" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-32-49" style="--pulse-height:26%" aria-label="Myron Gaines x Candace Owens: 9 mentions" title="2026-01-16 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-christianity-t-00-35-08" style="--pulse-height:11%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-01-23" style="--pulse-height:40%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 14 mentions" title="2026-01-22 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-concept-christianity-t-00-33-43" style="--pulse-height:14%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 5 mentions" title="2026-01-27 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christianity-t-00-21-04" style="--pulse-height:49%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 17 mentions" title="2026-01-29 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-concept-christianity-t-00-40-25" style="--pulse-height:14%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 5 mentions" title="2026-01-30 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-christianity-t-00-02-09" style="--pulse-height:9%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 3 mentions" title="2026-02-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-concept-christianity-t-00-09-31" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-christianity-t-00-17-28" style="--pulse-height:9%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 3 mentions" title="2026-02-04 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-concept-christianity-t-00-17-54" style="--pulse-height:11%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 4 mentions" title="2026-02-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-concept-christianity-t-00-31-37" style="--pulse-height:9%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 3 mentions" title="2026-02-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-christianity-t-00-29-09" style="--pulse-height:8%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-concept-christianity-t-00-10-36" style="--pulse-height:8%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-concept-christianity-t-00-09-17" style="--pulse-height:8%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-concept-christianity-t-00-41-29" style="--pulse-height:11%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 4 mentions" title="2026-02-28 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-christianity-t-00-29-57" style="--pulse-height:23%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 8 mentions" title="2026-03-02 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-christianity-t-00-30-17" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 2 mentions" title="2026-03-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-concept-christianity-t-00-07-28) | 4 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-concept-christianity-t-00-22-55) | 35 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-christianity-t-00-22-23) | 3 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-christianity-t-00-18-50) | 6 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-christianity-t-00-02-09) | 1 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-32-49) | 9 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-christianity-t-00-35-08) | 4 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-01-23) | 14 |
+| 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-concept-christianity-t-00-33-43) | 5 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christianity-t-00-21-04) | 17 |
+| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-concept-christianity-t-00-40-25) | 5 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-christianity-t-00-02-09) | 3 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-concept-christianity-t-00-09-31) | 2 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-concept-christianity-t-00-17-28) | 3 |
+| 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-concept-christianity-t-00-17-54) | 4 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-concept-christianity-t-00-31-37) | 3 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-christianity-t-00-29-09) | 2 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-concept-christianity-t-00-10-36) | 1 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-christianity-t-00-09-17) | 2 |
+| 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-concept-christianity-t-00-41-29) | 4 |
+| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-concept-christianity-t-00-29-57) | 8 |
+| 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-concept-christianity-t-00-30-17) | 2 |
+| 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (139)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
+
+**[02:57:10](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10)**
+> "lot of the actual. So I'm a Christian ethicist. and I then always"
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (2 mentions)</summary>
+
+**[00:30:17](/episodes/ep-2tFYJf1klgY.md#ent-concept-christianity-t-00-30-17)**
+> "...or appearances anyways. Super Christian company—who cares what they're actually doing? Le..."
+
+**[00:44:06](/episodes/ep-2tFYJf1klgY.md#ent-concept-christianity-t-00-44-06)**
+> "...was observing his evangelical Christian version of Shabbat. Like, I can't even do somethi..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (8 mentions)</summary>
+
+**[00:30:23](/episodes/ep-jTj9Ip46r4w.md#ent-concept-christianity-t-00-29-57)**
+> "So you had a Christian empire, and then what was carved out was like if ..."
+
+**[00:30:34](/episodes/ep-jTj9Ip46r4w.md#ent-concept-christianity-t-00-29-57)**
+> "The world was dominated by Christian kingdoms. And so you know that expression when yo..."
+
+**[00:30:46](/episodes/ep-jTj9Ip46r4w.md#ent-concept-christianity-t-00-30-39)**
+> "... kingdom, but you had to be a Christian to live within the kingdom."
+
+**[00:31:29](/episodes/ep-jTj9Ip46r4w.md#ent-concept-christianity-t-00-31-17)**
+> "...rying to overthrow and divide Christian kingdoms—deeply organized revolutions."
+
+**[00:33:58](/episodes/ep-jTj9Ip46r4w.md#ent-concept-christianity-t-00-33-58)**
+> "...oss Europe, but they did. The Christian empires got divided."
+
+**[00:45:16](/episodes/ep-jTj9Ip46r4w.md#ent-concept-christianity-t-00-45-16)**
+> "...ed with the Bible thanks to a Christian friend of hers, not in 2008, but in 2016."
+
+**[00:45:44](/episodes/ep-jTj9Ip46r4w.md#ent-concept-christianity-t-00-45-39)**
+> "...t I'm doing and you've been a Christian your whole life and I just want to have an accoun..."
+
+**[00:57:07](/episodes/ep-jTj9Ip46r4w.md#ent-concept-christianity-t-00-56-47)**
+> "... feel like she was doing some Christian training, perhaps."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (4 mentions)</summary>
+
+**[00:41:38](/episodes/ep-cZxHqYsWRYg.md#ent-concept-christianity-t-00-41-29)**
+> "...ika Kirk) trained to become a Christian. Again, this is my personal opinion. It's my podc..."
+
+**[00:42:00](/episodes/ep-cZxHqYsWRYg.md#ent-concept-christianity-t-00-42-00)**
+> "Was she training to become a Christian? Was she training to be able to impress people li..."
+
+**[00:54:07](/episodes/ep-cZxHqYsWRYg.md#ent-concept-christianity-t-00-54-07)**
+> "I'm a 26-year-old Christian woman living in New York City. I would like to st..."
+
+**[00:54:14](/episodes/ep-cZxHqYsWRYg.md#ent-concept-christianity-t-00-54-07)**
+> "...t also marrying a like-minded Christian conservative man?"
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (2 mentions)</summary>
+
+**[00:09:33](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-christianity-t-00-09-17)**
+> "devoted Christian,"
+
+**[00:16:12](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-christianity-t-00-15-39)**
+> "...o taught her how to be a good Christian,"
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
@@ -488,7 +634,31 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Christianity (9)</strong></summary>
+<summary><strong class="section-title">Statements about Christianity (12)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1)</summary>
+
+- [00:44:16](/episodes/ep-jTj9Ip46r4w.md#t-00-43-59) (Claim) **Erika Kirk** (via quoted speech): ["After leaving the Miss Arizona world, Erika Kirk locked herself in her..."](/statements/statement-34ae145de898.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Bible](/entities/work-bible.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (1)</summary>
+
+- [00:41:38](/episodes/ep-cZxHqYsWRYg.md#t-00-41-29) (Opinion) **Candace Owens**: ["Candace Owens speculated that Erika Kirk's eight-month isolation could..."](/statements/statement-eba282bfcd4f.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1)</summary>
+
+- [00:09:17](/episodes/ep-ZAsV0fHGBiM.md#t-00-09-17) (Opinion) **Elizabeth Lane** (via quoted post): ["Erika Kirk's public identity changed after her relationship with Charl..."](/statements/statement-2ed73b3574b4.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (2)</summary>

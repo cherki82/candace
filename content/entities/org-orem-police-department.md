@@ -7,10 +7,40 @@ type: "ORG"
 
 _Type: Organizations_
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-org-orem-police-department-t-00-15-27">2025-09-25 · 00:15:46</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#t-00-29-50">2025-11-18 · 00:30:07</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-orem-police-department-t-00-18-54">INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247</a> (3 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-org-orem-police-department-t-00-15-27" style="--pulse-height:33%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-orem-police-department-t-00-18-54" style="--pulse-height:100%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 3 mentions" title="2025-10-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#t-00-29-50" style="--pulse-height:33%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-org-orem-police-department-t-00-15-27) | 1 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-orem-police-department-t-00-18-54) | 3 |
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#t-00-29-50) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
 
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1 mentions)</summary>
@@ -51,7 +81,11 @@ _Type: Organizations_
 <summary>Employs (1)</summary>
 
 - **[Olivia Bishop](/entities/person-olivia-bishop.md)**
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:19:20](/episodes/ep-t1YtLS1n8Vs.md#t-00-18-54): "she works for the Orem Police Department."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:19:20](/episodes/ep-t1YtLS1n8Vs.md#t-00-18-54): “she works for the Orem Police Department.”
+
+</details>
 
 </details>
 
@@ -59,8 +93,12 @@ _Type: Organizations_
 <summary>Referenced By (1)</summary>
 
 - **[Olivia Bishop](/entities/person-olivia-bishop.md)** works for this
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:19:20](/episodes/ep-t1YtLS1n8Vs.md#t-00-18-54)
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:05:15](/episodes/ep-t1YtLS1n8Vs.md#t-00-04-56)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:19:20](/episodes/ep-t1YtLS1n8Vs.md#t-00-18-54): “she works for the Orem Police Department.”
+- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:05:15](/episodes/ep-t1YtLS1n8Vs.md#t-00-04-56): “Olivia Bishop works for the Orem Police, records specialist”
+
+</details>
 
 </details>
 

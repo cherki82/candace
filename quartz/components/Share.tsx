@@ -1,10 +1,8 @@
 // @ts-ignore
 import shareScript from "./scripts/share.inline"
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { QuartzComponent, QuartzComponentConstructor } from "./types"
 
-const Share: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
-  return <></>
-}
+const Share: QuartzComponent = () => <></>
 
 Share.afterDOMLoaded = shareScript
 

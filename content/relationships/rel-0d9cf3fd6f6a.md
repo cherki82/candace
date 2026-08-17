@@ -11,7 +11,7 @@ object: "person-george-farmer"
 
 ## [Candace Owens](/entities/person-candace-owens) married to [George Farmer](/entities/person-george-farmer)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
 
 **[PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk)**
 
@@ -20,6 +20,10 @@ object: "person-george-farmer"
 **[IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ)**
 
 - [00:46:12](/episodes/ep-GY6GWceEqtQ#t-00-46-12): _I could bake cookies with any of George (George Farmer)'s exes. I just don't care. He's my husband._
+
+**[Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8)**
+
+- [01:32:35](/episodes/ep-nPhCKwJ6ye8#t-01-32-35): _George could be sending text messages right now. We are married. He has every login that I have._
 
 ### Related
 

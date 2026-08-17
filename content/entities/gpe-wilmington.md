@@ -12,10 +12,56 @@ _Type: Places_
 
 **Also known as:** Wilmington, Delaware, Wilmington
 
+> **Possibly overlapping entity records:** [Wilmington, Delaware](/entities/gpe-wilmington-delaware). These records share a name or alias; compare their histories before treating either count as complete.
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-wilmington-t-00-15-42">2025-10-30 · 00:16:16</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-wilmington-t-00-36-12">2025-12-10 · 00:36:36</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>87</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-02-04">Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268</a> (33 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-wilmington-t-00-15-42" style="--pulse-height:8%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-wilmington-t-00-22-39" style="--pulse-height:8%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-02-04" style="--pulse-height:100%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 33 mentions" title="2025-11-19 · 33 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-wilmington-t-00-05-36" style="--pulse-height:39%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 13 mentions" title="2025-11-20 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-wilmington-t-00-05-02" style="--pulse-height:9%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 3 mentions" title="2025-11-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-wilmington-t-00-23-42" style="--pulse-height:52%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 17 mentions" title="2025-12-01 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-wilmington-t-00-00-46" style="--pulse-height:39%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 13 mentions" title="2025-12-02 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-gpe-wilmington-t-00-17-22" style="--pulse-height:8%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-wilmington-t-00-13-44" style="--pulse-height:8%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-wilmington-t-00-36-12" style="--pulse-height:9%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-wilmington-t-00-15-42) | 1 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-wilmington-t-00-22-39) | 1 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-wilmington-t-00-02-04) | 33 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-wilmington-t-00-05-36) | 13 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-wilmington-t-00-05-02) | 3 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-wilmington-t-00-23-42) | 17 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-wilmington-t-00-00-46) | 13 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-gpe-wilmington-t-00-17-22) | 1 |
+| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-wilmington-t-00-13-44) | 2 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-wilmington-t-00-36-12) | 3 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (87)</strong></summary>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
@@ -337,9 +383,13 @@ _Type: Places_
 <summary>Based In (1)</summary>
 
 - **[Delaware](/entities/gpe-delaware.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:24](/episodes/ep-tB5SXXmd9vU.md#t-00-23-12): "...harlie Kirk's (Charlie Kirk's) assassination from Provo, went over to Wilmington, Delaware. We learned that regarding that hangar, Satis, which is a French..."
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#t-00-23-12): "...harlie Kirk's (Charlie Kirk's) assassination from Provo, went over to Wilmington, Delaware. We learned that regarding that hangar, Satis, which is a French..."
-  - [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:16:16](/episodes/ep-iHav0PPzUz8.md#t-00-15-42): "... September 10th. It then laid over in Wilmington, Delaware, and departed back for Cairo on the 11th. I am telling you that when that plane left, okay, those p..."
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:24](/episodes/ep-tB5SXXmd9vU.md#t-00-23-12): “...harlie Kirk's (Charlie Kirk's) assassination from Provo, went over to Wilmington, Delaware. We learned that regarding that hangar, Satis, which is a French...”
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#t-00-23-12): “...harlie Kirk's (Charlie Kirk's) assassination from Provo, went over to Wilmington, Delaware. We learned that regarding that hangar, Satis, which is a French...”
+- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:16:16](/episodes/ep-iHav0PPzUz8.md#t-00-15-42): “... September 10th. It then laid over in Wilmington, Delaware, and departed back for Cairo on the 11th. I am telling you that when that plane left, okay, those p...”
+
+</details>
 
 </details>
 
@@ -347,16 +397,32 @@ _Type: Places_
 <summary>Location Of (5)</summary>
 
 - **[Department of Justice](/entities/org-department-of-justice.md)**
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:10:15](/episodes/ep-SKGUzGHymcI.md#t-00-09-44): "the Department of Justice's own directory lists, quote, Wilmington Residence Office, 1 Rodney Square, Suite 404, 920 King Street, Wilmington, Delaware, 19801."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:10:15](/episodes/ep-SKGUzGHymcI.md#t-00-09-44): “the Department of Justice's own directory lists, quote, Wilmington Residence Office, 1 Rodney Square, Suite 404, 920 King Street, Wilmington, Delaware, 19801.”
+
+</details>
 
 - **[DEA](/entities/org-dea.md)**
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:11:00](/episodes/ep-SKGUzGHymcI.md#t-00-10-15): "you will find the DEA, Drug Enforcement Agency, at 920 North King Street, and at the same address, the United States Secret Service, 920 North King Street, Wilmington, Delaware, 19801."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:11:00](/episodes/ep-SKGUzGHymcI.md#t-00-10-15): “you will find the DEA, Drug Enforcement Agency, at 920 North King Street, and at the same address, the United States Secret Service, 920 North King Street, Wilmington, Delaware, 19801.”
+
+</details>
 
 - **[United States Secret Service](/entities/org-united-states-secret-service.md)**
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:11:00](/episodes/ep-SKGUzGHymcI.md#t-00-10-15): "you will find the DEA, Drug Enforcement Agency, at 920 North King Street, and at the same address, the United States Secret Service, 920 North King Street, Wilmington, Delaware, 19801."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:11:00](/episodes/ep-SKGUzGHymcI.md#t-00-10-15): “you will find the DEA, Drug Enforcement Agency, at 920 North King Street, and at the same address, the United States Secret Service, 920 North King Street, Wilmington, Delaware, 19801.”
+
+</details>
 
 - **[FBI](/entities/org-federal-reserve.md)**
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:15:30](/episodes/ep-SKGUzGHymcI.md#t-00-14-53): "When you Google FBI Wilmington Resident Agency, you will likely get 920 North King Street with the label Federal Bureau of Investigation."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:15:30](/episodes/ep-SKGUzGHymcI.md#t-00-14-53): “When you Google FBI Wilmington Resident Agency, you will likely get 920 North King Street with the label Federal Bureau of Investigation.”
+
+</details>
 
 - **[920 North King Street](/entities/gpe-920-north-king-street.md)**
 
@@ -366,22 +432,43 @@ _Type: Places_
 <summary>Referenced By (6)</summary>
 
 - **[Department of Justice](/entities/org-department-of-justice.md)** based in this
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:10:15](/episodes/ep-SKGUzGHymcI.md#t-00-09-44)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:10:15](/episodes/ep-SKGUzGHymcI.md#t-00-09-44): “the Department of Justice's own directory lists, quote, Wilmington Residence Office, 1 Rodney Square, Suite 404, 920 King Street, Wilmington, Delaware, 19801.”
+
+</details>
 
 - **[DEA](/entities/org-dea.md)** based in this
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:11:00](/episodes/ep-SKGUzGHymcI.md#t-00-10-15)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:11:00](/episodes/ep-SKGUzGHymcI.md#t-00-10-15): “you will find the DEA, Drug Enforcement Agency, at 920 North King Street, and at the same address, the United States Secret Service, 920 North King Street, Wilmington, Delaware, 19801.”
+
+</details>
 
 - **[United States Secret Service](/entities/org-united-states-secret-service.md)** based in this
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:11:00](/episodes/ep-SKGUzGHymcI.md#t-00-10-15)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:11:00](/episodes/ep-SKGUzGHymcI.md#t-00-10-15): “you will find the DEA, Drug Enforcement Agency, at 920 North King Street, and at the same address, the United States Secret Service, 920 North King Street, Wilmington, Delaware, 19801.”
+
+</details>
 
 - **[FBI](/entities/org-federal-reserve.md)** based in this
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:15:30](/episodes/ep-SKGUzGHymcI.md#t-00-14-53)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:15:30](/episodes/ep-SKGUzGHymcI.md#t-00-14-53): “When you Google FBI Wilmington Resident Agency, you will likely get 920 North King Street with the label Federal Bureau of Investigation.”
+
+</details>
 
 - **[920 North King Street](/entities/gpe-920-north-king-street.md)** based in this
 
 - **[Delaware](/entities/gpe-delaware.md)** location of this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:24](/episodes/ep-tB5SXXmd9vU.md#t-00-23-12)
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#t-00-23-12)
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:24](/episodes/ep-tB5SXXmd9vU.md#t-00-23-12): “...harlie Kirk's (Charlie Kirk's) assassination from Provo, went over to Wilmington, Delaware. We learned that regarding that hangar, Satis, which is a French...”
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#t-00-23-12): “...harlie Kirk's (Charlie Kirk's) assassination from Provo, went over to Wilmington, Delaware. We learned that regarding that hangar, Satis, which is a French...”
+- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:16:16](/episodes/ep-iHav0PPzUz8.md#t-00-15-42): “... September 10th. It then laid over in Wilmington, Delaware, and departed back for Cairo on the 11th. I am telling you that when that plane left, okay, those p...”
+
+</details>
 
 </details>
 

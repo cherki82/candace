@@ -1,6 +1,6 @@
 ---
 title: "transgenderism"
-description: "transgenderism (Concepts) - 7 mentions"
+description: "transgenderism (Concepts) - 8 mentions"
 id: "concept-transgenderism"
 type: "CONCEPT"
 aliases:
@@ -11,10 +11,50 @@ _Type: Concepts_
 
 **Also known as:** trans surgeries
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-concept-transgenderism-t-00-55-46">2025-10-28 · 00:56:13</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-transgenderism-t-00-36-08">2026-02-27 · 00:36:08</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-tB5SXXmd9vU.md#ent-concept-transgenderism-t-00-40-44">Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271</a> (4 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-concept-transgenderism-t-00-55-46" style="--pulse-height:25%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-concept-transgenderism-t-00-11-28" style="--pulse-height:50%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 2 mentions" title="2025-11-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-concept-transgenderism-t-00-40-44" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 4 mentions" title="2025-12-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-transgenderism-t-00-36-08" style="--pulse-height:25%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-transgenderism-t-00-55-46) | 1 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-concept-transgenderism-t-00-11-28) | 2 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-concept-transgenderism-t-00-40-44) | 4 |
+| 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-concept-transgenderism-t-00-36-08) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (1 mentions)</summary>
+
+**[00:36:08](/episodes/ep-1IY2oD-_xVA.md#ent-concept-transgenderism-t-00-36-08)**
+> "John Money. The notorious psychologist who like was one of the fathers of transgenderism who then it turned out notoriously abused children."
+
+</details>
 
 <details>
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (4 mentions)</summary>
@@ -62,7 +102,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about transgenderism (1)</strong></summary>
+<summary><strong class="section-title">Statements about transgenderism (2)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (1)</summary>
+
+- [00:36:36](/episodes/ep-1IY2oD-_xVA.md#t-00-36-36) (Claim) **Anonymous Source #2 (Ep 1IY2oD-_xVA)**: ["John Money promoted gender ideology through an experiment in which a b..."](/statements/statement-582ff46e4266.md)
+  - Also about: [John Money](/entities/person-john-money.md), [David Peter Reimer](/entities/person-david-peter-reimer.md)
+
+</details>
 
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>

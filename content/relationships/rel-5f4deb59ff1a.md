@@ -11,7 +11,11 @@ object: "person-erika-kirk"
 
 ## [Larry Guinta](/entities/person-larry-guinta) stepparent of [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM)**
+
+- [00:19:36](/episodes/ep-ZAsV0fHGBiM#t-00-19-36): _Erica (Erika Kirk) was raised with her stepfather in her home, a man named Larry Guinta._
 
 **[Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8)**
 

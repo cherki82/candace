@@ -20,10 +20,65 @@ _Type: Organizations_
 > Discord's official company page confirms the canonical name and communications-platform identity.
 Source: [Discord — About Discord](https://discord.com/company)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-discord-t-00-51-44">2025-09-15 · 00:52:03</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-discord-t-01-48-55">2026-08-14 · 01:48:55</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-discord-t-00-51-44">They Are Lying About Charlie Kirk. | Candace Ep 235</a> (7 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-discord-t-00-51-44" style="--pulse-height:100%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 7 mentions" title="2025-09-15 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-discord-t-00-16-59" style="--pulse-height:57%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 4 mentions" title="2025-09-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-org-discord-t-00-15-13" style="--pulse-height:14%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-discord-t-00-06-51" style="--pulse-height:43%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 3 mentions" title="2025-09-24 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-org-discord-t-00-38-02" style="--pulse-height:14%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-discord-t-00-42-32" style="--pulse-height:14%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-discord-t-00-01-24" style="--pulse-height:29%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 2 mentions" title="2025-11-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-org-discord-t-00-22-05" style="--pulse-height:14%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-discord-t-00-37-12" style="--pulse-height:29%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-discord-t-01-32-20" style="--pulse-height:29%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-org-discord-t-00-51-44) | 7 |
+| 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-org-discord-t-00-16-59) | 4 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-org-discord-t-00-15-13) | 1 |
+| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-org-discord-t-00-06-51) | 3 |
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-org-discord-t-00-38-02) | 1 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-org-discord-t-00-42-32) | 1 |
+| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-org-discord-t-00-01-24) | 2 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-discord-t-00-22-05) | 1 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-org-discord-t-00-37-12) | 2 |
+| 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-discord-t-01-32-20) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
+
+**[01:32:30](/episodes/ep-nPhCKwJ6ye8.md#ent-org-discord-t-01-32-20)**
+> "...e someone who logged into his discord? Could there be someone who logged in to his Appl..."
+
+**[01:48:55](/episodes/ep-nPhCKwJ6ye8.md#ent-org-discord-t-01-48-55)**
+> "...ying in fact i've had tons of discord calls about this My position's always been clear."
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (2 mentions)</summary>
@@ -72,10 +127,7 @@ Source: [Discord — About Discord](https://discord.com/company)
 </details>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (4 mentions)</summary>
-
-**[00:07:14](/episodes/ep-QZWSsq8ZWzw.md#ent-org-discord-t-00-06-51)**
-> "the Discord messages"
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (3 mentions)</summary>
 
 **[00:07:14](/episodes/ep-QZWSsq8ZWzw.md#ent-org-discord-t-00-06-51)**
 > "...they believe they are going to convict Tyler Robinson on this. Oh, you know what? It's probably the Discord messages. I forgot, silly me. The Discord. I forgot. It was so explicit. How could we forget? Oh, L..."
@@ -114,7 +166,7 @@ Source: [Discord — About Discord](https://discord.com/company)
 </details>
 
 <details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (8 mentions)</summary>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (7 mentions)</summary>
 
 **[00:52:03](/episodes/ep-czVBmqZP6Ss.md#ent-org-discord-t-00-51-44)**
 > "...he did this alone? Absolutely not. This story makes entirely no sense. And then there's this random Discord, over Discord, okay? So Governor Cox came out and told us that there were messages about the rifle ..."
@@ -133,9 +185,6 @@ Source: [Discord — About Discord](https://discord.com/company)
 
 **[00:54:16](/episodes/ep-czVBmqZP6Ss.md#ent-org-discord-t-00-53-41)**
 > "...ompletely unnecessary. You're getting nothing out of changing your outfit. We have a statement from Discord which kind of disputes that. Discord says, “In the course of our investigation, we identified a Dis..."
-
-**[00:54:20](/episodes/ep-czVBmqZP6Ss.md#ent-org-discord-t-00-54-20)**
-> "We have a statement from Discord which kind of disputes that"
 
 **[00:54:20](/episodes/ep-czVBmqZP6Ss.md#ent-org-discord-t-00-54-20)**
 > "... nothing out of changing your outfit. We have a statement from Discord which kind of disputes that. Discord says, “In the course of our investigation, we identified a Discord account associated with the susp..."

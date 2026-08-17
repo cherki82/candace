@@ -1,6 +1,6 @@
 ---
 title: "Milo Yiannopoulos"
-description: "Milo Yiannopoulos (People) - 15 mentions"
+description: "Milo Yiannopoulos (People) - 14 mentions"
 id: "person-milo-yiannopoulos"
 type: "PERSON"
 aliases:
@@ -20,10 +20,48 @@ _Type: People_
 > BBC profile confirms the canonical spelling Milo Yiannopoulos.
 Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC News](https://feeds.bbci.co.uk/news/world-us-canada-39026870)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-milo-yiannopoulos-t-00-19-43">2025-11-04 · 00:20:12</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-milo-yiannopoulos-t-00-47-30">2026-02-11 · 00:47:53</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-milo-yiannopoulos-t-00-24-33">Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276</a> (4 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-milo-yiannopoulos-t-00-19-43" style="--pulse-height:25%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-milo-yiannopoulos-t-00-24-33" style="--pulse-height:100%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 4 mentions" title="2025-12-08 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-milo-yiannopoulos-t-00-44-11" style="--pulse-height:75%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 3 mentions" title="2025-12-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-milo-yiannopoulos-t-00-02-53" style="--pulse-height:25%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 1 mentions" title="2025-12-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-person-milo-yiannopoulos-t-00-39-31" style="--pulse-height:25%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#t-01-31-04" style="--pulse-height:25%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-milo-yiannopoulos-t-00-46-47" style="--pulse-height:75%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 3 mentions" title="2026-02-11 · 3 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-person-milo-yiannopoulos-t-00-19-43) | 1 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-milo-yiannopoulos-t-00-24-33) | 4 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-person-milo-yiannopoulos-t-00-44-11) | 3 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-person-milo-yiannopoulos-t-00-02-53) | 1 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-milo-yiannopoulos-t-00-39-31) | 1 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#t-01-31-04) | 1 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-milo-yiannopoulos-t-00-46-47) | 3 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (3 mentions)</summary>
@@ -56,13 +94,10 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1 mentions)</summary>
 
 **[00:03:01](/episodes/ep-6DhWawD4ZiM.md#ent-person-milo-yiannopoulos-t-00-02-53)**
 > "...ek in a big way because Milo (Milo Yiannopoulos) and a few others have asserted with absolute cer..."
-
-**[00:03:06](/episodes/ep-6DhWawD4ZiM.md#ent-person-milo-yiannopoulos-t-00-02-53)**
-> "Milo (Milo Yiannopoulos) and a few others have asserted with absolute certainty"
 
 </details>
 
@@ -114,10 +149,18 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 <summary>Appeared With (2)</summary>
 
 - **[Tim Pool](/entities/person-tim-pool.md)**
-  - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:45:46](/episodes/ep-t4U7NjnUEgc.md#t-00-45-33): "he accused me in a full episode with Milo Yiannopoulos"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:45:46](/episodes/ep-t4U7NjnUEgc.md#t-00-45-33): “he accused me in a full episode with Milo Yiannopoulos”
+
+</details>
 
 - **[George Santos](/entities/person-george-santos.md)**
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:25:53](/episodes/ep-Kmt6HgRjckU.md#t-00-25-47): "And I will add that he is sitting also with George, who joined them."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:25:53](/episodes/ep-Kmt6HgRjckU.md#t-00-25-47): “And I will add that he is sitting also with George, who joined them.”
+
+</details>
 
 </details>
 
@@ -125,7 +168,11 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 <summary>Defended (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:45:49](/episodes/ep-t4U7NjnUEgc.md#t-00-45-33): "Milo defended me and explained that I am not to blame for the lame excuses that the feds have given us regarding Charlie Kirk's assassination"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:45:49](/episodes/ep-t4U7NjnUEgc.md#t-00-45-33): “Milo defended me and explained that I am not to blame for the lame excuses that the feds have given us regarding Charlie Kirk's assassination”
+
+</details>
 
 </details>
 
@@ -133,7 +180,11 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 <summary>Interviewed By (1)</summary>
 
 - **[Tim Pool](/entities/person-tim-pool.md)**
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:24:45](/episodes/ep-Kmt6HgRjckU.md#t-00-24-33): "So he hosted Milo on his show."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:24:45](/episodes/ep-Kmt6HgRjckU.md#t-00-24-33): “So he hosted Milo on his show.”
+
+</details>
 
 </details>
 
@@ -141,7 +192,11 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 <summary>Warned (1)</summary>
 
 - **[Nick Fuentes](/entities/person-nick-fuentes.md)**
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:40:07](/episodes/ep-X92MllIHDzw.md#t-00-39-31): "the night before by Milo Yiannopoulos."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:40:07](/episodes/ep-X92MllIHDzw.md#t-00-39-31): “the night before by Milo Yiannopoulos.”
+
+</details>
 
 </details>
 
@@ -149,19 +204,39 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 <summary>Referenced By (5)</summary>
 
 - **[George Santos](/entities/person-george-santos.md)** appeared with this
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:25:53](/episodes/ep-Kmt6HgRjckU.md#t-00-25-47)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:25:53](/episodes/ep-Kmt6HgRjckU.md#t-00-25-47): “And I will add that he is sitting also with George, who joined them.”
+
+</details>
 
 - **[Tim Pool](/entities/person-tim-pool.md)** appeared with this
-  - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:45:46](/episodes/ep-t4U7NjnUEgc.md#t-00-45-33)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:45:46](/episodes/ep-t4U7NjnUEgc.md#t-00-45-33): “he accused me in a full episode with Milo Yiannopoulos”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** defended by this
-  - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:45:49](/episodes/ep-t4U7NjnUEgc.md#t-00-45-33)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:45:49](/episodes/ep-t4U7NjnUEgc.md#t-00-45-33): “Milo defended me and explained that I am not to blame for the lame excuses that the feds have given us regarding Charlie Kirk's assassination”
+
+</details>
 
 - **[Tim Pool](/entities/person-tim-pool.md)** interviewed this
-  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:24:45](/episodes/ep-Kmt6HgRjckU.md#t-00-24-33)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:24:45](/episodes/ep-Kmt6HgRjckU.md#t-00-24-33): “So he hosted Milo on his show.”
+
+</details>
 
 - **[Nick Fuentes](/entities/person-nick-fuentes.md)** warned by this
-  - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:40:07](/episodes/ep-X92MllIHDzw.md#t-00-39-31)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:40:07](/episodes/ep-X92MllIHDzw.md#t-00-39-31): “the night before by Milo Yiannopoulos.”
+
+</details>
 
 </details>
 

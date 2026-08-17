@@ -20,10 +20,36 @@ _Type: People_
 > The official Hall of Fame profile confirms the canonical name and episode context.
 Source: [Kobe Bryant | Naismith Basketball Hall of Fame](https://www.hoophall.com/hall-of-famers/kobe-bryant)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Wjul6YV6izo.md#ent-person-kobe-bryant-t-00-06-13">2026-01-30 · 00:06:20</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Wjul6YV6izo.md#ent-person-kobe-bryant-t-00-40-58">2026-01-30 · 00:41:15</a></strong></div>
+<div><span>Episodes</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-Wjul6YV6izo.md#ent-person-kobe-bryant-t-00-06-13">AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299</a> (9 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-person-kobe-bryant-t-00-06-13" style="--pulse-height:100%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 9 mentions" title="2026-01-30 · 9 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-kobe-bryant-t-00-06-13) | 9 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
 
 <details>
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (9 mentions)</summary>
@@ -66,7 +92,11 @@ Source: [Kobe Bryant | Naismith Basketball Hall of Fame](https://www.hoophall.co
 <summary>Deceased Husband Of (1)</summary>
 
 - **[Vanessa Bryant](/entities/person-vanessa-bryant.md)**
-  - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:06:20](/episodes/ep-Wjul6YV6izo.md#t-00-06-13): "when Kobe Bryant died in the helicopter. ... And I never for a single second do I remember the conversation being about his wife being inappropriate. In fact, there was a memorial."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:06:20](/episodes/ep-Wjul6YV6izo.md#t-00-06-13): “when Kobe Bryant died in the helicopter. ... And I never for a single second do I remember the conversation being about his wife being inappropriate. In fact, there was a memorial.”
+
+</details>
 
 </details>
 
@@ -74,7 +104,11 @@ Source: [Kobe Bryant | Naismith Basketball Hall of Fame](https://www.hoophall.co
 <summary>Member Of (1)</summary>
 
 - **[Naismith Memorial Basketball Hall of Fame](/entities/org-naismith-memorial-basketball-hall-of-fame.md)**
-  - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:08:26](/episodes/ep-Wjul6YV6izo.md#t-00-08-21): "And it was because she was accepting on behalf of Kobe him being inducted into the Hall of Fame."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:08:26](/episodes/ep-Wjul6YV6izo.md#t-00-08-21): “And it was because she was accepting on behalf of Kobe him being inducted into the Hall of Fame.”
+
+</details>
 
 </details>
 
@@ -82,10 +116,18 @@ Source: [Kobe Bryant | Naismith Basketball Hall of Fame](https://www.hoophall.co
 <summary>Referenced By (2)</summary>
 
 - **[Naismith Memorial Basketball Hall of Fame](/entities/org-naismith-memorial-basketball-hall-of-fame.md)** has member this
-  - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:08:26](/episodes/ep-Wjul6YV6izo.md#t-00-08-21)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:08:26](/episodes/ep-Wjul6YV6izo.md#t-00-08-21): “And it was because she was accepting on behalf of Kobe him being inducted into the Hall of Fame.”
+
+</details>
 
 - **[Vanessa Bryant](/entities/person-vanessa-bryant.md)** widow of this
-  - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:06:20](/episodes/ep-Wjul6YV6izo.md#t-00-06-13)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:06:20](/episodes/ep-Wjul6YV6izo.md#t-00-06-13): “when Kobe Bryant died in the helicopter. ... And I never for a single second do I remember the conversation being about his wife being inappropriate. In fact, there was a memorial.”
+
+</details>
 
 </details>
 

@@ -21,10 +21,36 @@ _Type: People_
 > Vogue confirms canonical spelling Nicola Peltz, her marriage to Brooklyn Beckham, and her parents.
 Source: [Nicola Peltz Marries Brooklyn Beckham at Her Family’s Oceanfront Palm Beach Estate](https://www.vogue.com/article/nicola-peltz-marries-brooklyn-beckham-palm-beach-wedding)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-nicola-peltz-t-00-31-47">2026-01-21 · 00:31:50</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-nicola-peltz-t-00-55-04">2026-01-21 · 00:55:11</a></strong></div>
+<div><span>Episodes</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Relationships</span><strong>7</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-nicola-peltz-t-00-31-47">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (17 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-nicola-peltz-t-00-31-47" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 17 mentions" title="2026-01-21 · 17 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-nicola-peltz-t-00-31-47) | 17 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
 
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (17 mentions)</summary>
@@ -91,10 +117,18 @@ Source: [Nicola Peltz Marries Brooklyn Beckham at Her Family’s Oceanfront Palm
 <summary>Child Of (2)</summary>
 
 - **[Nelson Peltz](/entities/person-nelson-peltz.md)**
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:52:47](/episodes/ep-GY6GWceEqtQ.md#t-00-52-47): "I think that he should know when not to give business advice and to give personal advice to his daughter."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:52:47](/episodes/ep-GY6GWceEqtQ.md#t-00-52-47): “I think that he should know when not to give business advice and to give personal advice to his daughter.”
+
+</details>
 
 - **[Claudia Heffner Peltz](/entities/person-claudia-heffner-peltz.md)**
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:53:22](/episodes/ep-GY6GWceEqtQ.md#t-00-53-22): "the wife as well claudia her mother was really nice"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:53:22](/episodes/ep-GY6GWceEqtQ.md#t-00-53-22): “the wife as well claudia her mother was really nice”
+
+</details>
 
 </details>
 
@@ -102,7 +136,11 @@ Source: [Nicola Peltz Marries Brooklyn Beckham at Her Family’s Oceanfront Palm
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:48:02](/episodes/ep-GY6GWceEqtQ.md#t-00-47-30): "Brooklyn ... Your wife, who has a very long record of being unbearable."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:48:02](/episodes/ep-GY6GWceEqtQ.md#t-00-47-30): “Brooklyn ... Your wife, who has a very long record of being unbearable.”
+
+</details>
 
 </details>
 
@@ -110,16 +148,32 @@ Source: [Nicola Peltz Marries Brooklyn Beckham at Her Family’s Oceanfront Palm
 <summary>Referenced By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:48:02](/episodes/ep-GY6GWceEqtQ.md#t-00-47-30)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:48:02](/episodes/ep-GY6GWceEqtQ.md#t-00-47-30): “Brooklyn ... Your wife, who has a very long record of being unbearable.”
+
+</details>
 
 - **[Brooklyn Beckham](/entities/person-brooklyn-beckham.md)** married to this
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:45:34](/episodes/ep-GY6GWceEqtQ.md#t-00-45-05)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:45:34](/episodes/ep-GY6GWceEqtQ.md#t-00-45-05): “My wife has been consistently disrespected by my family no matter how hard we have tried to come together as one.”
+
+</details>
 
 - **[Nelson Peltz](/entities/person-nelson-peltz.md)** parent of this
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:52:47](/episodes/ep-GY6GWceEqtQ.md#t-00-52-47)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:52:47](/episodes/ep-GY6GWceEqtQ.md#t-00-52-47): “I think that he should know when not to give business advice and to give personal advice to his daughter.”
+
+</details>
 
 - **[Claudia Heffner Peltz](/entities/person-claudia-heffner-peltz.md)** parent of this
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:53:22](/episodes/ep-GY6GWceEqtQ.md#t-00-53-22)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:53:22](/episodes/ep-GY6GWceEqtQ.md#t-00-53-22): “the wife as well claudia her mother was really nice”
+
+</details>
 
 </details>
 

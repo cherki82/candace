@@ -1,16 +1,52 @@
 ---
 title: "Thousand Oaks"
-description: "Thousand Oaks (Places) - 16 mentions"
+description: "Thousand Oaks (Places) - 17 mentions"
 id: "gpe-thousand-oaks"
 type: "GPE"
 ---
 
 _Type: Places_
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-thousand-oaks-t-00-14-58">2025-10-31 · 00:15:15</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-thousand-oaks-t-00-51-52">2025-11-19 · 00:51:52</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-thousand-oaks-t-00-03-30">From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265</a> (4 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-thousand-oaks-t-00-14-58" style="--pulse-height:75%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 3 mentions" title="2025-10-31 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-thousand-oaks-t-00-15-33" style="--pulse-height:75%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 3 mentions" title="2025-11-04 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-thousand-oaks-t-00-22-44" style="--pulse-height:75%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 3 mentions" title="2025-11-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-thousand-oaks-t-00-45-05" style="--pulse-height:50%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-thousand-oaks-t-00-03-30" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 4 mentions" title="2025-11-15 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-thousand-oaks-t-00-51-52" style="--pulse-height:25%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-thousand-oaks-t-00-14-58) | 3 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-thousand-oaks-t-00-15-33) | 3 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-thousand-oaks-t-00-22-44) | 3 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-thousand-oaks-t-00-45-05) | 2 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-thousand-oaks-t-00-03-30) | 4 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-thousand-oaks-t-00-51-52) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
 
 <details>
 <summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1 mentions)</summary>
@@ -90,6 +126,14 @@ _Type: Places_
 
 </details>
 
+<details>
+<summary>ep-y8lak3CRwDw (1 mentions)</summary>
+
+**[00:39:48](/episodes/ep-y8lak3CRwDw.md#t-00-39-48)**
+> "...e lost two congregants in the Thousand Oaks shooting at the Borderline Bar in 2018. And then ..."
+
+</details>
+
 </details>
 
 <details open>
@@ -99,7 +143,11 @@ _Type: Places_
 <summary>Residence Of (1)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)**
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:15:15](/episodes/ep-YFmRH8p5lt0.md#t-00-14-58): "Rob McCoy—who is from Thousand Oaks"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:15:15](/episodes/ep-YFmRH8p5lt0.md#t-00-14-58): “Rob McCoy—who is from Thousand Oaks”
+
+</details>
 
 </details>
 
@@ -107,7 +155,11 @@ _Type: Places_
 <summary>Referenced By (1)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** lives in this
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:15:15](/episodes/ep-YFmRH8p5lt0.md#t-00-14-58)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:15:15](/episodes/ep-YFmRH8p5lt0.md#t-00-14-58): “Rob McCoy—who is from Thousand Oaks”
+
+</details>
 
 </details>
 

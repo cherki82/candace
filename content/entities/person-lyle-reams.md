@@ -16,10 +16,36 @@ _Type: People_
 > Arizona business-record mirror lists Lyle Reams as a member of Desert Spirit Tek, LLC at Sacaton; canonical spelling matches the episode.
 Source: [L22039349 - Desert Spirit Tek, LLC](https://www.city-data.com/business-entities/AZ/DESERT-SPIRIT-TEK-LLC-L22039349-AZ.html)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-lyle-reams-t-00-12-06">2026-01-22 · 00:12:15</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-lyle-reams-t-00-14-47">2026-01-22 · 00:15:15</a></strong></div>
+<div><span>Episodes</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>5</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-lyle-reams-t-00-12-06">Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295</a> (5 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-lyle-reams-t-00-12-06" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 5 mentions" title="2026-01-22 · 5 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-lyle-reams-t-00-12-06) | 5 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
 
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (5 mentions)</summary>
@@ -50,7 +76,11 @@ Source: [L22039349 - Desert Spirit Tek, LLC](https://www.city-data.com/business-
 <summary>Married To (1)</summary>
 
 - **[Shelly M. Reams](/entities/person-shelly-reams.md)**
-  - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:15:11](/episodes/ep-gG4ZoYUjUc8.md#t-00-14-47): "There's another business on the same road that is owned by Mr. Lyle Reams and his wife Shelly, which is called Generation 7 Farms."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:15:11](/episodes/ep-gG4ZoYUjUc8.md#t-00-14-47): “There's another business on the same road that is owned by Mr. Lyle Reams and his wife Shelly, which is called Generation 7 Farms.”
+
+</details>
 
 </details>
 
@@ -58,7 +88,11 @@ Source: [L22039349 - Desert Spirit Tek, LLC](https://www.city-data.com/business-
 <summary>Member Of (1)</summary>
 
 - **[Tohono O'odham Nation](/entities/org-tohono-oodham-nation.md)**
-  - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:12:18](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-06): "Lyle Reams ostensibly is Native American, a part of the ... Tohono O'odham Nation."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:12:18](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-06): “Lyle Reams ostensibly is Native American, a part of the ... Tohono O'odham Nation.”
+
+</details>
 
 </details>
 
@@ -66,13 +100,25 @@ Source: [L22039349 - Desert Spirit Tek, LLC](https://www.city-data.com/business-
 <summary>Referenced By (3)</summary>
 
 - **[Tohono O'odham Nation](/entities/org-tohono-oodham-nation.md)** has member this
-  - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:12:18](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-06)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:12:18](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-06): “Lyle Reams ostensibly is Native American, a part of the ... Tohono O'odham Nation.”
+
+</details>
 
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)** worked with this
-  - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:12:08](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-06)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:12:08](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-06): “Guinta is Erika (Erika Kirk)'s stepfather, and they have a repeat business partner, a repeat business couple, Shelley and Lyle Reams, meaning they formed businesses with these people.”
+
+</details>
 
 - **[Larry Guinta](/entities/person-larry-guinta.md)** worked with this
-  - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:12:08](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-06)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:12:08](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-06): “Guinta is Erika (Erika Kirk)'s stepfather, and they have a repeat business partner, a repeat business couple, Shelley and Lyle Reams, meaning they formed businesses with these people.”
+
+</details>
 
 </details>
 

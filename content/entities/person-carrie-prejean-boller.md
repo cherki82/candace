@@ -20,10 +20,40 @@ _Type: People_
 > Official DOJ transcript verifies the canonical speaker name Carrie Prejean Boller.
 Source: [DOJ: Fifth Hearing of the Religious Liberty Commission transcript](https://www.justice.gov/religious-liberty-commission/media/1435436/dl?inline=)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-4YgrOhhy708.md#ent-person-carrie-prejean-boller-t-00-31-24">2026-02-09 · 00:31:24</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-carrie-prejean-boller-t-00-35-57">2026-02-11 · 00:36:37</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Statements by</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-carrie-prejean-boller-t-00-00-01">VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306</a> (7 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-4YgrOhhy708.md#ent-person-carrie-prejean-boller-t-00-31-24" style="--pulse-height:29%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-carrie-prejean-boller-t-00-42-56" style="--pulse-height:29%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-carrie-prejean-boller-t-00-00-01" style="--pulse-height:100%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 7 mentions" title="2026-02-11 · 7 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-carrie-prejean-boller-t-00-31-24) | 2 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-carrie-prejean-boller-t-00-42-56) | 2 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-carrie-prejean-boller-t-00-00-01) | 7 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (7 mentions)</summary>
@@ -82,7 +112,11 @@ Source: [DOJ: Fifth Hearing of the Religious Liberty Commission transcript](http
 <summary>Fired By (1)</summary>
 
 - **[Dan Patrick](/entities/person-dan-patrick.md)**
-  - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:35:38](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-12): "Here is how Dan Patrick announced it on X, ... Carrie Prejean Boller has been removed from President Trump (Donald J. Trump)'s Religious Liberty Commission. ... This was my decision."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:35:38](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-12): “Here is how Dan Patrick announced it on X, ... Carrie Prejean Boller has been removed from President Trump (Donald J. Trump)'s Religious Liberty Commission. ... This was my decision.”
+
+</details>
 
 </details>
 
@@ -90,7 +124,11 @@ Source: [DOJ: Fifth Hearing of the Religious Liberty Commission transcript](http
 <summary>Formerly Member Of (1)</summary>
 
 - **[Presidential Religious Liberty Commission](/entities/org-presidential-religious-liberty-commission.md)**
-  - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:35:41](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-12): "Carrie Prejean Boller has been removed from President Trump (Donald J. Trump)'s Religious Liberty Commission."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:35:41](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-12): “Carrie Prejean Boller has been removed from President Trump (Donald J. Trump)'s Religious Liberty Commission.”
+
+</details>
 
 </details>
 
@@ -98,10 +136,18 @@ Source: [DOJ: Fifth Hearing of the Religious Liberty Commission transcript](http
 <summary>Referenced By (2)</summary>
 
 - **[Dan Patrick](/entities/person-dan-patrick.md)** fired this
-  - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:35:38](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-12)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:35:38](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-12): “Here is how Dan Patrick announced it on X, ... Carrie Prejean Boller has been removed from President Trump (Donald J. Trump)'s Religious Liberty Commission. ... This was my decision.”
+
+</details>
 
 - **[Presidential Religious Liberty Commission](/entities/org-presidential-religious-liberty-commission.md)** has former member this
-  - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:35:41](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-12)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:35:41](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-12): “Carrie Prejean Boller has been removed from President Trump (Donald J. Trump)'s Religious Liberty Commission.”
+
+</details>
 
 </details>
 

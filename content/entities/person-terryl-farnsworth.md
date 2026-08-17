@@ -20,10 +20,40 @@ _Type: People_
 > BBB profile confirms Terryl Farnsworth as a member of Visual Impulse; no episode allegations are treated as verified identity facts.
 Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/mesa/profile/video-production-services/visual-impulse-llc-1126-1000043623)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-13-56">2026-01-06 · 00:14:21</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-terryl-farnsworth-t-00-37-47">2026-02-04 · 00:37:47</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-13-56">BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285</a> (15 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-13-56" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 15 mentions" title="2026-01-06 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-terryl-farnsworth-t-00-16-47" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-terryl-farnsworth-t-00-37-47" style="--pulse-height:8%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-13-56) | 15 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-terryl-farnsworth-t-00-16-47) | 1 |
+| 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-terryl-farnsworth-t-00-37-47) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1 mentions)</summary>
@@ -100,8 +130,12 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 <summary>Accused By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:23:03](/episodes/ep-HYn0P-P1wUw.md#t-00-22-55): "that man is guilty of something. He's guilty of something. He's lying about weird stuff."
-  - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:37:47](/episodes/ep-DYD_QHMPwqM.md#t-00-37-47): "that's why Terryl (Terryl Farnsworth) was supposed to get those cameras down"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:23:03](/episodes/ep-HYn0P-P1wUw.md#t-00-22-55): “that man is guilty of something. He's guilty of something. He's lying about weird stuff.”
+- [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:37:47](/episodes/ep-DYD_QHMPwqM.md#t-00-37-47): “that's why Terryl (Terryl Farnsworth) was supposed to get those cameras down”
+
+</details>
 
 </details>
 
@@ -109,7 +143,11 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 <summary>Child Of (1)</summary>
 
 - **[Dwayne Farnsworth](/entities/person-dwayne-farnsworth.md)**
-  - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:31:41](/episodes/ep-HYn0P-P1wUw.md#t-00-30-58): "Terryl (Terryl Farnsworth)'s father is a man named Dwayne Farnsworth."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:31:41](/episodes/ep-HYn0P-P1wUw.md#t-00-30-58): “Terryl (Terryl Farnsworth)'s father is a man named Dwayne Farnsworth.”
+
+</details>
 
 </details>
 
@@ -117,7 +155,11 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 <summary>Close Associate Of (1)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
-  - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:30:10](/episodes/ep-HYn0P-P1wUw.md#t-00-29-32): "I should tell you guys that Terryl Farnsworth and Tyler Bowyer go back. They go way back. I'm talking generationally back, okay? Terryl Farnsworth's parents went to high school with Tyler Bowyer's parents. They're all from Chandler, Arizona. And then Tyler Bowyer and Terryl Farnsworth went to high school together."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:30:10](/episodes/ep-HYn0P-P1wUw.md#t-00-29-32): “I should tell you guys that Terryl Farnsworth and Tyler Bowyer go back. They go way back. I'm talking generationally back, okay? Terryl Farnsworth's parents went to high school with Tyler Bowyer's parents. They're all from Chandler, Arizona. And then Tyler Bowyer and Terryl Farnsworth went to high school together.”
+
+</details>
 
 </details>
 
@@ -125,14 +167,26 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 <summary>Referenced By (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-  - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:23:03](/episodes/ep-HYn0P-P1wUw.md#t-00-22-55)
-  - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:37:47](/episodes/ep-DYD_QHMPwqM.md#t-00-37-47)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:23:03](/episodes/ep-HYn0P-P1wUw.md#t-00-22-55): “that man is guilty of something. He's guilty of something. He's lying about weird stuff.”
+- [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:37:47](/episodes/ep-DYD_QHMPwqM.md#t-00-37-47): “that's why Terryl (Terryl Farnsworth) was supposed to get those cameras down”
+
+</details>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** close associate of this
-  - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:30:10](/episodes/ep-HYn0P-P1wUw.md#t-00-29-32)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:30:10](/episodes/ep-HYn0P-P1wUw.md#t-00-29-32): “I should tell you guys that Terryl Farnsworth and Tyler Bowyer go back. They go way back. I'm talking generationally back, okay? Terryl Farnsworth's parents went to high school with Tyler Bowyer's parents. They're all from Chandler, Arizona. And then Tyler Bowyer and Terryl Farnsworth went to high school together.”
+
+</details>
 
 - **[Dwayne Farnsworth](/entities/person-dwayne-farnsworth.md)** parent of this
-  - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:31:41](/episodes/ep-HYn0P-P1wUw.md#t-00-30-58)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:31:41](/episodes/ep-HYn0P-P1wUw.md#t-00-30-58): “Terryl (Terryl Farnsworth)'s father is a man named Dwayne Farnsworth.”
+
+</details>
 
 </details>
 

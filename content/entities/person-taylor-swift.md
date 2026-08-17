@@ -1,6 +1,6 @@
 ---
 title: "Taylor Swift"
-description: "Taylor Swift (People) - 29 mentions"
+description: "Taylor Swift (People) - 28 mentions"
 id: "person-taylor-swift"
 type: "PERSON"
 aliases:
@@ -20,10 +20,44 @@ _Type: People_
 > Official artist site confirms the canonical name used in the transcript.
 Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-taylor-swift-t-00-38-16">2025-11-06 · 00:38:34</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-taylor-swift-t-00-12-46">2026-02-13 · 00:13:17</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>28</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>5</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-taylor-swift-t-00-24-46">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (16 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-taylor-swift-t-00-38-16" style="--pulse-height:44%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 7 mentions" title="2025-11-06 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-taylor-swift-t-00-23-48" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-taylor-swift-t-00-13-35" style="--pulse-height:12%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-taylor-swift-t-00-24-46" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 16 mentions" title="2026-01-21 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-taylor-swift-t-00-12-46" style="--pulse-height:8%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-taylor-swift-t-00-38-16) | 7 |
+| 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-taylor-swift-t-00-23-48) | 1 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-taylor-swift-t-00-13-35) | 2 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-taylor-swift-t-00-24-46) | 16 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-taylor-swift-t-00-12-46) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (28)</strong></summary>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
@@ -98,10 +132,7 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
-
-**[00:23:51](/episodes/ep-Kmt6HgRjckU.md#ent-person-taylor-swift-t-00-23-48)**
-> "Like if it's a Taylor Swift concert, no one's gonna question if there's tons ..."
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>
 
 **[00:23:55](/episodes/ep-Kmt6HgRjckU.md#ent-person-taylor-swift-t-00-23-48)**
 > "Like if it's a Taylor Swift concert, no one's gonna question if there's tons of jets that are coming in and there's tons of trucks that are coming in."
@@ -143,7 +174,11 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 <summary>Criticized (1)</summary>
 
 - **[Justin Baldoni](/entities/person-justin-baldoni.md)**
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:27:26](/episodes/ep-GY6GWceEqtQ.md#t-00-26-58): "But now her messages are out and it turns out that Taylor Swift called Justin Baldoni a B-I-T-C-H with a tiny violin and she knew that Blake Lively was going to file that sexual harassment complaint to get these publishing rights,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:27:26](/episodes/ep-GY6GWceEqtQ.md#t-00-26-58): “But now her messages are out and it turns out that Taylor Swift called Justin Baldoni a B-I-T-C-H with a tiny violin and she knew that Blake Lively was going to file that sexual harassment complaint to get these publishing rights,”
+
+</details>
 
 </details>
 
@@ -151,7 +186,11 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 <summary>Employs (1)</summary>
 
 - **[Tree Paine](/entities/person-tree-paine.md)**
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:25:40](/episodes/ep-GY6GWceEqtQ.md#t-00-25-31): "Taylor ... Tree, her agent, is like, nope, cut that front off. We're going to save you."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:25:40](/episodes/ep-GY6GWceEqtQ.md#t-00-25-31): “Taylor ... Tree, her agent, is like, nope, cut that front off. We're going to save you.”
+
+</details>
 
 </details>
 
@@ -159,7 +198,11 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 <summary>Worked With (1)</summary>
 
 - **[Blake Lively](/entities/person-blake-lively.md)**
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:27:26](/episodes/ep-GY6GWceEqtQ.md#t-00-26-58): "But now her messages are out and it turns out that Taylor Swift called Justin Baldoni a B-I-T-C-H with a tiny violin and she knew that Blake Lively was going to file that sexual harassment complaint to get these publishing rights, take over the movie and TMZ's like oh this doesn't look great for Taylor (Taylor Swift) because she remember her story she was like I just walked into the apartment Justin Baldoni was there had nothing to do with anything And I felt compelled to suddenly comment on the scripts, you know, I was being set up. I'm the victim too. And I'm going to give her a little bit of truth here. What we learn when you get into the nitty gritty is that she was on her way to the apartment. But while she was on the way, Blake (Blake Lively) did text her over the script, the scene that she wanted to be replaced. And she basically said, when you get here, review this. Let's gang gang Justin Baldoni and make him feel pressured exactly as Justin Baldoni. baloney described it and she did it so did she have a ton of heads up about it going into the department no but she had enough of a heads up that she knew she was going to play her role and she replied to Blake Lively and she's like yeah yeah I got you girl let's do this and she's joking with Blake Lively behind the scenes about how Justin was smart"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:27:26](/episodes/ep-GY6GWceEqtQ.md#t-00-26-58): “But now her messages are out and it turns out that Taylor Swift called Justin Baldoni a B-I-T-C-H with a tiny violin and she knew that Blake Lively was going to file that sexual harassment complaint to get these publishing rights, take over the movie and TMZ's like oh this doesn't look great for Taylor (Taylor Swift) because she remember her story she was like I just walked into the apartment Justin Baldoni was there had nothing to do with anything And I felt compelled to suddenly comment on the scripts, you know, I was being set up. I'm the victim too. And I'm going to give her a little bit of truth here. What we learn when you get into the nitty gritty is that she was on her way to the apartment. But while she was on the way, Blake (Blake Lively) did text her over the script, the scene that she wanted to be replaced. And she basically said, when you get here, review this. Let's gang gang Justin Baldoni and make him feel pressured exactly as Justin Baldoni. baloney described it and she did it so did she have a ton of heads up about it going into the department no but she had enough of a heads up that she knew she was going to play her role and she replied to Blake Lively and she's like yeah yeah I got you girl let's do this and she's joking with Blake Lively behind the scenes about how Justin was smart”
+
+</details>
 
 </details>
 
@@ -167,10 +210,18 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 <summary>Referenced By (2)</summary>
 
 - **[Justin Baldoni](/entities/person-justin-baldoni.md)** criticized by this
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:27:26](/episodes/ep-GY6GWceEqtQ.md#t-00-26-58)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:27:26](/episodes/ep-GY6GWceEqtQ.md#t-00-26-58): “But now her messages are out and it turns out that Taylor Swift called Justin Baldoni a B-I-T-C-H with a tiny violin and she knew that Blake Lively was going to file that sexual harassment complaint to get these publishing rights,”
+
+</details>
 
 - **[Tree Paine](/entities/person-tree-paine.md)** works for this
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:25:40](/episodes/ep-GY6GWceEqtQ.md#t-00-25-31)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:25:40](/episodes/ep-GY6GWceEqtQ.md#t-00-25-31): “Taylor ... Tree, her agent, is like, nope, cut that front off. We're going to save you.”
+
+</details>
 
 </details>
 
@@ -183,7 +234,7 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1)</summary>
 
 - [00:29:17](/episodes/ep-GY6GWceEqtQ.md#t-00-28-53) [○] (Opinion) ["Taylor Swift wrote that she thought Justin Baldoni knew something was coming bec..."](/statements/statement-3e4d0ffe37fd.md)
-  - About: [Justin Baldoni](/entities/person-justin-baldoni.md), [Blake Lively](/entities/person-blake-lively.md), [The New York Times](/entities/org-new-york-times.md)
+  - About: [Justin Baldoni](/entities/person-justin-baldoni.md), [Blake Lively](/entities/person-blake-lively.md), [The New York Times](/entities/org-the-new-york-times.md)
 
 </details>
 

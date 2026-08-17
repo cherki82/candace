@@ -1,6 +1,6 @@
 ---
 title: "Brian Harpole"
-description: "Brian Harpole (People) - 86 mentions"
+description: "Brian Harpole (People) - 84 mentions"
 id: "person-brian-harpole"
 type: "PERSON"
 aliases:
@@ -20,10 +20,70 @@ _Type: People_
 > Profile confirms canonical name and security role.
 Source: [Security chief recounts moments after Charlie Kirk was shot](https://www.deseret.com/politics/2025/11/18/brian-harpole-moments-following-charlie-kirk-assassination/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-21-22">2025-11-18 · 00:21:32</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-brian-harpole-t-00-11-21">2026-01-21 · 00:11:52</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>84</strong></div>
+<div><span>Statements by</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>25</strong></div>
+<div><span>Relationships</span><strong>18</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-33-09">BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281</a> (10 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-21-22" style="--pulse-height:80%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 8 mentions" title="2025-11-18 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-brian-harpole-t-00-30-31" style="--pulse-height:40%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 4 mentions" title="2025-11-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-person-brian-harpole-t-00-00-01" style="--pulse-height:50%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 5 mentions" title="2025-11-20 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-person-brian-harpole-t-00-08-43" style="--pulse-height:10%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-brian-harpole-t-00-20-43" style="--pulse-height:60%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 6 mentions" title="2025-12-09 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-brian-harpole-t-00-59-39" style="--pulse-height:40%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 4 mentions" title="2025-12-10 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-brian-harpole-t-00-11-55" style="--pulse-height:20%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 2 mentions" title="2025-12-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-33-09" style="--pulse-height:100%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 10 mentions" title="2025-12-17 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-brian-harpole-t-00-56-15" style="--pulse-height:30%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 3 mentions" title="2025-12-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-brian-harpole-t-00-36-19" style="--pulse-height:70%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 7 mentions" title="2025-12-20 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-brian-harpole-t-00-37-47" style="--pulse-height:90%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 9 mentions" title="2026-01-05 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-brian-harpole-t-00-19-20" style="--pulse-height:40%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 4 mentions" title="2026-01-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-brian-harpole-t-00-41-46" style="--pulse-height:10%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-brian-harpole-t-00-00-00" style="--pulse-height:40%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 4 mentions" title="2026-01-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-brian-harpole-t-00-28-47" style="--pulse-height:10%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-brian-harpole-t-00-11-11" style="--pulse-height:80%" aria-label="A Legal Turning Point? | Candace Ep 292: 8 mentions" title="2026-01-19 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-brian-harpole-t-00-07-06" style="--pulse-height:50%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 5 mentions" title="2026-01-20 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-brian-harpole-t-00-09-13" style="--pulse-height:20%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 2 mentions" title="2026-01-21 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-21-22) | 8 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-brian-harpole-t-00-30-31) | 4 |
+| 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-brian-harpole-t-00-00-01) | 5 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-brian-harpole-t-00-08-43) | 1 |
+| 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-person-brian-harpole-t-00-20-43) | 6 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-person-brian-harpole-t-00-59-39) | 4 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brian-harpole-t-00-11-55) | 2 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-brian-harpole-t-00-33-09) | 10 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-person-brian-harpole-t-00-56-15) | 3 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-brian-harpole-t-00-36-19) | 7 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-brian-harpole-t-00-37-47) | 9 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-brian-harpole-t-00-19-20) | 4 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-brian-harpole-t-00-41-46) | 1 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-brian-harpole-t-00-00-00) | 4 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-brian-harpole-t-00-28-47) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-brian-harpole-t-00-11-11) | 8 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-brian-harpole-t-00-07-06) | 5 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-brian-harpole-t-00-09-13) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (84)</strong></summary>
 
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (2 mentions)</summary>
@@ -302,10 +362,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (6 mentions)</summary>
-
-**[00:00:00](/episodes/ep-sImMM04XdWY.md#ent-person-brian-harpole-t-00-00-01)**
-> "Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave"
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (5 mentions)</summary>
 
 **[00:00:01](/episodes/ep-sImMM04XdWY.md#ent-person-brian-harpole-t-00-00-01)**
 > "...urning Point USA and their affiliates are really reaching a fever pitch because we can confirm that Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day. And I..."
@@ -342,7 +399,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (9 mentions)</summary>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (8 mentions)</summary>
 
 **[00:21:32](/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-21-22)**
 > "...ropping receipts—kind of a little bit. We're going to talk about Blake Neff, who dropped a receipt; Brian Harpole, the security who dropped a receipt—right after a few of our sponsors. Many people have been vilifi..."
@@ -355,9 +412,6 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 
 **[00:24:53](/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-24-53)**
 > "For one, Brian offers up that the lack of security on the roofto..."
-
-**[00:24:58](/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-24-53)**
-> "Brian Harpole interview with Sean Bryan about security failures"
 
 **[00:25:08](/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-25-08)**
 > "...rooftop can actually be attributed to the UVU police chief, Jeff Long. Here is what he had to say. (Brian Harpole Clip) On Monday before this correspondence went to Chief Long: "Hello, Chief Long." "We received th..."
@@ -382,7 +436,11 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <summary>Born In (1)</summary>
 
 - **[Dallas, Texas](/entities/gpe-dallas-texas.md)**
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:14:16](/episodes/ep-NIEbqsLAK8g.md#t-00-14-04): "Brian Harpole, you should know, was also born in Dallas, Texas"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Legal Turning Point? | Candace Ep 292 @ 00:14:16](/episodes/ep-NIEbqsLAK8g.md#t-00-14-04): “Brian Harpole, you should know, was also born in Dallas, Texas”
+
+</details>
 
 </details>
 
@@ -390,7 +448,11 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <summary>Child Of (1)</summary>
 
 - **[Bobby Harpole](/entities/person-bobby-harpole.md)**
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:14:07](/episodes/ep-NIEbqsLAK8g.md#t-00-14-04): "all of Charlie's security that day was from Texas, from Rick Cutler to Dan Flood, even Brian Harpole. Brian Harpole, you should know, was also born in Dallas, Texas, and similar to Dan, his father, Bobby Harpole"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Legal Turning Point? | Candace Ep 292 @ 00:14:07](/episodes/ep-NIEbqsLAK8g.md#t-00-14-04): “all of Charlie's security that day was from Texas, from Rick Cutler to Dan Flood, even Brian Harpole. Brian Harpole, you should know, was also born in Dallas, Texas, and similar to Dan, his father, Bobby Harpole”
+
+</details>
 
 </details>
 
@@ -398,7 +460,11 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:09:30](/episodes/ep-GY6GWceEqtQ.md#t-00-09-13): "brian harpole that's a lot a lot happened there with that car crash interview am i being punished because you lied"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:09:30](/episodes/ep-GY6GWceEqtQ.md#t-00-09-13): “brian harpole that's a lot a lot happened there with that car crash interview am i being punished because you lied”
+
+</details>
 
 </details>
 
@@ -406,10 +472,18 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <summary>Formerly Worked For (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:14:13](/episodes/ep-es7PWdFGoFI.md#t-00-14-10): "I don't believe he works there anymore. So that was kind of him just getting out there and perhaps trying to rescue his own reputation."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:14:13](/episodes/ep-es7PWdFGoFI.md#t-00-14-10): “I don't believe he works there anymore. So that was kind of him just getting out there and perhaps trying to rescue his own reputation.”
+
+</details>
 
 - **[Schaefer Security](/entities/org-schaefer-security.md)**
-  - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:42:21](/episodes/ep-zSKrxIUMNqw.md#t-00-41-46): "It was Schaefer Security, where Dan Flood came out of, and Brian Harpole."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:42:21](/episodes/ep-zSKrxIUMNqw.md#t-00-41-46): “It was Schaefer Security, where Dan Flood came out of, and Brian Harpole.”
+
+</details>
 
 </details>
 
@@ -417,8 +491,12 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <summary>Interviewed By (1)</summary>
 
 - **[Shawn Ryan](/entities/person-shawn-ryan.md)**
-  - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01): "Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day."
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:09:02](/episodes/ep-his-JBjlkh8.md#t-00-08-43): "In a sit down with Sean Ryan, Brian Harpole said, 'It was because of the severity of the injury.'"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01): “Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day.”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:09:02](/episodes/ep-his-JBjlkh8.md#t-00-08-43): “In a sit down with Sean Ryan, Brian Harpole said, 'It was because of the severity of the injury.'”
+
+</details>
 
 </details>
 
@@ -426,7 +504,11 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <summary>Met With (1)</summary>
 
 - **[Mitch](/entities/person-mitch-fort-huachuca-witness.md)**
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:56:20](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-15): "If you had to put it at a percentage that you saw Brian Harpole... Ninety-five. Ninety-five percent."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:56:20](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-15): “If you had to put it at a percentage that you saw Brian Harpole... Ninety-five. Ninety-five percent.”
+
+</details>
 
 </details>
 
@@ -434,13 +516,22 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <summary>Works For (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:00](/episodes/ep-581dILVcEE4.md#t-00-23-32): "Brian Harpole is one of Charlie (Charlie Kirk)'s long-term security team members."
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:26:39](/episodes/ep-581dILVcEE4.md#t-00-26-26): "Brian Harpole is one of Charlie Kirk's long-term security team members"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:00](/episodes/ep-581dILVcEE4.md#t-00-23-32): “Brian Harpole is one of Charlie (Charlie Kirk)'s long-term security team members.”
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:26:39](/episodes/ep-581dILVcEE4.md#t-00-26-26): “Brian Harpole is one of Charlie Kirk's long-term security team members”
+
+</details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01): "Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day."
-  - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:00](/episodes/ep-sImMM04XdWY.md#t-00-00-01): "Brian Harpole... heads of security"
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:55:41](/episodes/ep-ewBzjVe3LNQ.md#t-00-55-17): "the head of security there, he was one of the people walking out with the congressman...face, waxy look on his face, hand gestures, shoulder shrug, gait, approximate height, haircut, definitely walk past me."
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01): “Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day.”
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:00](/episodes/ep-sImMM04XdWY.md#t-00-00-01): “Brian Harpole... heads of security”
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:55:41](/episodes/ep-ewBzjVe3LNQ.md#t-00-55-17): “the head of security there, he was one of the people walking out with the congressman...face, waxy look on his face, hand gestures, shoulder shrug, gait, approximate height, haircut, definitely walk past me.”
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:55:40](/episodes/ep-ewBzjVe3LNQ.md#t-00-55-17): “the head of security there, he was one of the people walking out with the congressman”
+
+</details>
 
 </details>
 
@@ -448,33 +539,70 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <summary>Referenced By (9)</summary>
 
 - **[Dallas, Texas](/entities/gpe-dallas-texas.md)** birthplace of this
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:14:16](/episodes/ep-NIEbqsLAK8g.md#t-00-14-04)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Legal Turning Point? | Candace Ep 292 @ 00:14:16](/episodes/ep-NIEbqsLAK8g.md#t-00-14-04): “Brian Harpole, you should know, was also born in Dallas, Texas”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:09:30](/episodes/ep-GY6GWceEqtQ.md#t-00-09-13)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:09:30](/episodes/ep-GY6GWceEqtQ.md#t-00-09-13): “brian harpole that's a lot a lot happened there with that car crash interview am i being punished because you lied”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** employs this
-  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:00](/episodes/ep-581dILVcEE4.md#t-00-23-32)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:00](/episodes/ep-581dILVcEE4.md#t-00-23-32): “Brian Harpole is one of Charlie (Charlie Kirk)'s long-term security team members.”
+
+</details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
-  - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01)
-  - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:00](/episodes/ep-sImMM04XdWY.md#t-00-00-01)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01): “Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day.”
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:00](/episodes/ep-sImMM04XdWY.md#t-00-00-01): “Brian Harpole... heads of security”
+
+</details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** formerly employed this
-  - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:14:13](/episodes/ep-es7PWdFGoFI.md#t-00-14-10)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:14:13](/episodes/ep-es7PWdFGoFI.md#t-00-14-10): “I don't believe he works there anymore. So that was kind of him just getting out there and perhaps trying to rescue his own reputation.”
+
+</details>
 
 - **[Schaefer Security](/entities/org-schaefer-security.md)** formerly employed this
-  - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:42:21](/episodes/ep-zSKrxIUMNqw.md#t-00-41-46)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:42:21](/episodes/ep-zSKrxIUMNqw.md#t-00-41-46): “It was Schaefer Security, where Dan Flood came out of, and Brian Harpole.”
+
+</details>
 
 - **[Shawn Ryan](/entities/person-shawn-ryan.md)** interviewed this
-  - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01)
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:09:02](/episodes/ep-his-JBjlkh8.md#t-00-08-43)
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01): “Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day.”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:09:02](/episodes/ep-his-JBjlkh8.md#t-00-08-43): “In a sit down with Sean Ryan, Brian Harpole said, 'It was because of the severity of the injury.'”
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:31:16](/episodes/ep-SKGUzGHymcI.md#t-00-31-12): “Yesterday we talked about Brian, the security guy who was not convincing at all... elsewhere in that interview with Brian Harpole, the security guy with Sean Ryan”
+
+</details>
 
 - **[Mitch](/entities/person-mitch-fort-huachuca-witness.md)** met with this
-  - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:56:20](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-15)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:56:20](/episodes/ep-ewBzjVe3LNQ.md#t-00-56-15): “If you had to put it at a percentage that you saw Brian Harpole... Ninety-five. Ninety-five percent.”
+
+</details>
 
 - **[Bobby Harpole](/entities/person-bobby-harpole.md)** parent of this
-  - [A Legal Turning Point? | Candace Ep 292 @ 00:14:07](/episodes/ep-NIEbqsLAK8g.md#t-00-14-04)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Legal Turning Point? | Candace Ep 292 @ 00:14:07](/episodes/ep-NIEbqsLAK8g.md#t-00-14-04): “all of Charlie's security that day was from Texas, from Rick Cutler to Dan Flood, even Brian Harpole. Brian Harpole, you should know, was also born in Dallas, Texas, and similar to Dan, his father, Bobby Harpole”
+
+</details>
 
 </details>
 

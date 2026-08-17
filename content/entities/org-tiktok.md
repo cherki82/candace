@@ -1,6 +1,6 @@
 ---
 title: "TikTok"
-description: "TikTok (Organizations) - 51 mentions"
+description: "TikTok (Organizations) - 52 mentions"
 id: "org-tiktok"
 type: "ORG"
 categories:
@@ -16,10 +16,84 @@ _Type: Organizations_
 > Official platform page confirms the canonical brand name.
 Source: [About TikTok](https://www.tiktok.com/about)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-tiktok-t-00-43-02">2025-09-19 · 00:43:35</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-tiktok-t-00-27-27">2026-08-14 · 00:27:46</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>52</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-adJ4LNGp84I.md#ent-org-tiktok-t-00-29-09">BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246</a> (9 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-tiktok-t-00-43-02" style="--pulse-height:67%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 6 mentions" title="2025-09-19 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-org-tiktok-t-00-17-52" style="--pulse-height:11%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-tiktok-t-00-23-57" style="--pulse-height:11%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-tiktok-t-00-29-09" style="--pulse-height:100%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 9 mentions" title="2025-10-01 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-tiktok-t-00-39-23" style="--pulse-height:11%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-org-tiktok-t-00-50-57" style="--pulse-height:67%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 6 mentions" title="2025-10-06 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-tiktok-t-00-42-13" style="--pulse-height:22%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 2 mentions" title="2025-10-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-tiktok-t-00-11-30" style="--pulse-height:22%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-tiktok-t-00-54-55" style="--pulse-height:11%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-tiktok-t-00-49-32" style="--pulse-height:22%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-org-tiktok-t-00-43-11" style="--pulse-height:11%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 1 mentions" title="2025-11-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#t-00-04-58" style="--pulse-height:11%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-tiktok-t-00-48-07" style="--pulse-height:11%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-org-tiktok-t-00-22-59" style="--pulse-height:11%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-org-tiktok-t-00-00-00" style="--pulse-height:44%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 4 mentions" title="2025-12-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-org-tiktok-t-00-42-40" style="--pulse-height:22%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-tiktok-t-00-49-20" style="--pulse-height:67%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 6 mentions" title="2026-01-29 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-org-tiktok-t-00-43-45" style="--pulse-height:22%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-org-tiktok-t-00-27-56" style="--pulse-height:11%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-tiktok-t-00-24-05" style="--pulse-height:11%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-tiktok-t-00-27-27" style="--pulse-height:11%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-org-tiktok-t-00-43-02) | 6 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-org-tiktok-t-00-17-52) | 1 |
+| 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-org-tiktok-t-00-23-57) | 1 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-tiktok-t-00-29-09) | 9 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-tiktok-t-00-39-23) | 1 |
+| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-org-tiktok-t-00-50-57) | 6 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-org-tiktok-t-00-42-13) | 2 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-tiktok-t-00-11-30) | 2 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-org-tiktok-t-00-54-55) | 1 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-org-tiktok-t-00-49-32) | 2 |
+| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-org-tiktok-t-00-43-11) | 1 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#t-00-04-58) | 1 |
+| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-org-tiktok-t-00-48-07) | 1 |
+| 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-org-tiktok-t-00-22-59) | 1 |
+| 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-org-tiktok-t-00-00-00) | 4 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-tiktok-t-00-42-40) | 2 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-tiktok-t-00-49-20) | 6 |
+| 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-org-tiktok-t-00-43-45) | 2 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-tiktok-t-00-27-56) | 1 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-tiktok-t-00-24-05) | 1 |
+| 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-tiktok-t-00-27-27) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (52)</strong></summary>
+
+<details>
+<summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
+
+**[00:27:46](/episodes/ep-nPhCKwJ6ye8.md#ent-org-tiktok-t-00-27-27)**
+> "from TikTok invasions, debates,"
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
@@ -283,7 +357,11 @@ Source: [About TikTok](https://www.tiktok.com/about)
 <summary>Employs (1)</summary>
 
 - **[Erica Mindel](/entities/person-erica-mindel.md)**
-  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:44:18](/episodes/ep-adJ4LNGp84I.md#t-00-44-06): "Erika Mendl... currently serving as the public policy manager of hate speech. And she's been at TikTok since July of this year"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:44:18](/episodes/ep-adJ4LNGp84I.md#t-00-44-06): “Erika Mendl... currently serving as the public policy manager of hate speech. And she's been at TikTok since July of this year”
+
+</details>
 
 </details>
 
@@ -291,10 +369,18 @@ Source: [About TikTok](https://www.tiktok.com/about)
 <summary>Has Investor (2)</summary>
 
 - **[Marc Andreessen](/entities/person-marc-andreessen.md)**
-  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:43:49](/episodes/ep-aDlhjfW6hz8.md#t-00-43-41): "Marc Andreessen—in on a deal with...Silver Lake—they're all coming together"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:43:49](/episodes/ep-aDlhjfW6hz8.md#t-00-43-41): “Marc Andreessen—in on a deal with...Silver Lake—they're all coming together”
+
+</details>
 
 - **[Silver Lake](/entities/org-silver-lake.md)**
-  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:43:49](/episodes/ep-aDlhjfW6hz8.md#t-00-43-41): "Marc Andreessen—in on a deal with...Silver Lake—they're all coming together"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:43:49](/episodes/ep-aDlhjfW6hz8.md#t-00-43-41): “Marc Andreessen—in on a deal with...Silver Lake—they're all coming together”
+
+</details>
 
 </details>
 
@@ -302,10 +388,18 @@ Source: [About TikTok](https://www.tiktok.com/about)
 <summary>Investor Includes (2)</summary>
 
 - **[Marc Andreessen](/entities/person-marc-andreessen.md)**
-  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:43:49](/episodes/ep-aDlhjfW6hz8.md#t-00-43-41): "Marc Andreessen—in on a deal with...Silver Lake—they're all coming together"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:43:49](/episodes/ep-aDlhjfW6hz8.md#t-00-43-41): “Marc Andreessen—in on a deal with...Silver Lake—they're all coming together”
+
+</details>
 
 - **[Silver Lake](/entities/org-silver-lake.md)**
-  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:43:49](/episodes/ep-aDlhjfW6hz8.md#t-00-43-41): "Marc Andreessen—in on a deal with...Silver Lake—they're all coming together"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:43:49](/episodes/ep-aDlhjfW6hz8.md#t-00-43-41): “Marc Andreessen—in on a deal with...Silver Lake—they're all coming together”
+
+</details>
 
 </details>
 
@@ -313,13 +407,25 @@ Source: [About TikTok](https://www.tiktok.com/about)
 <summary>Referenced By (3)</summary>
 
 - **[Marc Andreessen](/entities/person-marc-andreessen.md)** invested in this
-  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:43:49](/episodes/ep-aDlhjfW6hz8.md#t-00-43-41)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:43:49](/episodes/ep-aDlhjfW6hz8.md#t-00-43-41): “Marc Andreessen—in on a deal with...Silver Lake—they're all coming together”
+
+</details>
 
 - **[Silver Lake](/entities/org-silver-lake.md)** invested in this
-  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:43:49](/episodes/ep-aDlhjfW6hz8.md#t-00-43-41)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:43:49](/episodes/ep-aDlhjfW6hz8.md#t-00-43-41): “Marc Andreessen—in on a deal with...Silver Lake—they're all coming together”
+
+</details>
 
 - **[Erica Mindel](/entities/person-erica-mindel.md)** works for this
-  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:44:18](/episodes/ep-adJ4LNGp84I.md#t-00-44-06)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:44:18](/episodes/ep-adJ4LNGp84I.md#t-00-44-06): “Erika Mendl... currently serving as the public policy manager of hate speech. And she's been at TikTok since July of this year”
+
+</details>
 
 </details>
 

@@ -21,10 +21,54 @@ _Type: Organizations_
 > AIPAC’s official About page confirms that AIPAC stands for American Israel Public Affairs Committee; APAC in the transcript is an ASR error.
 Source: [About AIPAC](https://aipac.org/about)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-aipac-t-00-30-01">2025-09-19 · 00:30:01</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-aipac-t-00-00-41">2026-01-28 · 00:00:51</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-ja26iltROkM.md#ent-org-aipac-t-00-26-14">Erika Kirk Forgives. The Feds Forget... | Candace Ep 240</a> (8 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-aipac-t-00-30-01" style="--pulse-height:38%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 3 mentions" title="2025-09-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-org-aipac-t-00-26-14" style="--pulse-height:100%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 8 mentions" title="2025-09-22 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-org-aipac-t-00-59-21" style="--pulse-height:12%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-org-aipac-t-00-02-14" style="--pulse-height:25%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 2 mentions" title="2025-11-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-aipac-t-00-46-02" style="--pulse-height:12%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-org-aipac-t-00-59-19" style="--pulse-height:12%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-aipac-t-00-57-10" style="--pulse-height:12%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-aipac-t-00-55-59" style="--pulse-height:12%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-aipac-t-00-56-20" style="--pulse-height:25%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-aipac-t-00-00-41" style="--pulse-height:12%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-org-aipac-t-00-30-01) | 3 |
+| 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-org-aipac-t-00-26-14) | 8 |
+| 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-org-aipac-t-00-59-21) | 1 |
+| 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-org-aipac-t-00-02-14) | 2 |
+| 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-org-aipac-t-00-46-02) | 1 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-org-aipac-t-00-59-19) | 1 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-org-aipac-t-00-57-10) | 1 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-aipac-t-00-55-59) | 1 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-aipac-t-00-56-20) | 2 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-aipac-t-00-00-41) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
 
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1 mentions)</summary>
@@ -148,7 +192,11 @@ Source: [About AIPAC](https://aipac.org/about)
 <summary>Criticized By (1)</summary>
 
 - **[Anthony Aguilar](/entities/person-anthony-aguilar.md)**
-  - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:44:20](/episodes/ep-ZZGWo6oDscc.md#t-00-43-53): "Anthony Aguilar, the Gaza whistleblower, Green Beret, I've been to Gaza. I was arrested on the 3rd of September in Congress for calling out APAC."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:44:20](/episodes/ep-ZZGWo6oDscc.md#t-00-43-53): “Anthony Aguilar, the Gaza whistleblower, Green Beret, I've been to Gaza. I was arrested on the 3rd of September in Congress for calling out APAC.”
+
+</details>
 
 </details>
 
@@ -156,7 +204,11 @@ Source: [About AIPAC](https://aipac.org/about)
 <summary>Referenced By (1)</summary>
 
 - **[Anthony Aguilar](/entities/person-anthony-aguilar.md)** criticized this
-  - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:44:20](/episodes/ep-ZZGWo6oDscc.md#t-00-43-53)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:44:20](/episodes/ep-ZZGWo6oDscc.md#t-00-43-53): “Anthony Aguilar, the Gaza whistleblower, Green Beret, I've been to Gaza. I was arrested on the 3rd of September in Congress for calling out APAC.”
+
+</details>
 
 </details>
 

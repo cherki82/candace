@@ -1,6 +1,6 @@
 ---
 title: "Turning Point USA Faith"
-description: "Turning Point USA Faith (Organizations) - 52 mentions"
+description: "Turning Point USA Faith (Organizations) - 51 mentions"
 id: "org-turning-point-usa-faith"
 type: "ORG"
 aliases:
@@ -13,10 +13,54 @@ _Type: Organizations_
 
 **Also known as:** TPUSA Faith affiliated, TPUSA Faith, Turning Point Faith
 
+> **Possibly overlapping entity records:** [Turning Point Faith](/entities/org-turning-point-faith). These records share a name or alias; compare their histories before treating either count as complete.
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-org-turning-point-usa-faith-t-00-42-50">2025-10-01 · 00:43:09</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-faith-t-00-18-07">2025-12-18 · 00:18:20</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>51</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>15</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-turning-point-usa-faith-t-00-08-14">INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256</a> (17 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-turning-point-usa-faith-t-00-42-50" style="--pulse-height:8%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-03-39" style="--pulse-height:65%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 11 mentions" title="2025-10-29 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-turning-point-usa-faith-t-00-08-14" style="--pulse-height:100%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 17 mentions" title="2025-10-31 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-13-01" style="--pulse-height:47%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 8 mentions" title="2025-11-10 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-turning-point-usa-faith-t-00-25-59" style="--pulse-height:18%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 3 mentions" title="2025-11-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-faith-t-00-07-16" style="--pulse-height:35%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 6 mentions" title="2025-11-13 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-turning-point-usa-faith-t-00-32-07" style="--pulse-height:8%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-org-turning-point-usa-faith-t-00-07-24" style="--pulse-height:12%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 2 mentions" title="2025-12-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-faith-t-00-18-07" style="--pulse-height:12%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-turning-point-usa-faith-t-00-42-50) | 1 |
+| 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-org-turning-point-usa-faith-t-00-03-39) | 11 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-org-turning-point-usa-faith-t-00-08-14) | 17 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-13-01) | 8 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-org-turning-point-usa-faith-t-00-25-59) | 3 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-faith-t-00-07-16) | 6 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-turning-point-usa-faith-t-00-32-07) | 1 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-turning-point-usa-faith-t-00-07-24) | 2 |
+| 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-faith-t-00-18-07) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (51)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2 mentions)</summary>
@@ -49,10 +93,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (7 mentions)</summary>
-
-**[00:07:16](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-faith-t-00-07-16)**
-> "What exactly is TPUSA Faith?"
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (6 mentions)</summary>
 
 **[00:07:16](/episodes/ep-yAIb-NuUh_U.md#ent-org-turning-point-usa-faith-t-00-07-16)**
 > "...o we should just trust the science and ignore the many lies that they have told us. What exactly is TPUSA Faith? Who is Rob McCoy? Why is it that these Calvary Chapels have a long history of weird abuse and traf..."
@@ -228,7 +269,11 @@ _Type: Organizations_
 <summary>Advised By (1)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)**
-  - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:09:32](/episodes/ep-Qt0VHV-POCg.md#t-00-09-15): "He was one of the advisors put on the board of advisory for TPUSA Faith."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:09:32](/episodes/ep-Qt0VHV-POCg.md#t-00-09-15): “He was one of the advisors put on the board of advisory for TPUSA Faith.”
+
+</details>
 
 </details>
 
@@ -236,7 +281,11 @@ _Type: Organizations_
 <summary>Employs (1)</summary>
 
 - **[Sean Feucht](/entities/person-sean-feucht.md)**
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:10:31](/episodes/ep-YFmRH8p5lt0.md#t-00-10-20): "Sean Feucht is announced as the Turning Point USA Faith contributor"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:10:31](/episodes/ep-YFmRH8p5lt0.md#t-00-10-20): “Sean Feucht is announced as the Turning Point USA Faith contributor”
+
+</details>
 
 </details>
 
@@ -244,7 +293,11 @@ _Type: Organizations_
 <summary>Founded By (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:06:42](/episodes/ep-Qt0VHV-POCg.md#t-00-06-26): "Charlie Kirk founded TPUSA Faith alone." Here it is: "In 2021, Charlie Kirk founded TPUSA Faith..."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:06:42](/episodes/ep-Qt0VHV-POCg.md#t-00-06-26): “Charlie Kirk founded TPUSA Faith alone." Here it is: "In 2021, Charlie Kirk founded TPUSA Faith...”
+
+</details>
 
 </details>
 
@@ -252,7 +305,11 @@ _Type: Organizations_
 <summary>Has Board Member (1)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)**
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:13:21](/episodes/ep-YFmRH8p5lt0.md#t-00-13-10): "Rob McCoy is obviously now the co-chair of TPUSA Faith"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:13:21](/episodes/ep-YFmRH8p5lt0.md#t-00-13-10): “Rob McCoy is obviously now the co-chair of TPUSA Faith”
+
+</details>
 
 </details>
 
@@ -260,8 +317,12 @@ _Type: Organizations_
 <summary>Has Chairman (1)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)**
-  - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:04:08](/episodes/ep-Qt0VHV-POCg.md#t-00-03-39): "Along with being a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Faith."
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:13:17](/episodes/ep-YFmRH8p5lt0.md#t-00-13-10): "Rob McCoy is obviously now the co-chair of TPUSA Faith."
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:04:08](/episodes/ep-Qt0VHV-POCg.md#t-00-03-39): “Along with being a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Faith.”
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:13:17](/episodes/ep-YFmRH8p5lt0.md#t-00-13-10): “Rob McCoy is obviously now the co-chair of TPUSA Faith.”
+
+</details>
 
 </details>
 
@@ -269,7 +330,11 @@ _Type: Organizations_
 <summary>Has Investor (1)</summary>
 
 - **[Lance Wallnau](/entities/person-lance-wallnau.md)**
-  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:20:07](/episodes/ep-YaZfwLQ7vrI.md#t-00-19-33): "he put a ton of money into Turning Point USA Faith operations"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:20:07](/episodes/ep-YaZfwLQ7vrI.md#t-00-19-33): “he put a ton of money into Turning Point USA Faith operations”
+
+</details>
 
 </details>
 
@@ -277,7 +342,11 @@ _Type: Organizations_
 <summary>Interviewed By (1)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)**
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:08:44](/episodes/ep-YFmRH8p5lt0.md#t-00-08-14): "January 10th to 19th—I'm going to also say that I think this is relevant. Rob McCoy hosts the first-ever Turning Point USA Faith Pastors Tour of Israel."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:08:44](/episodes/ep-YFmRH8p5lt0.md#t-00-08-14): “January 10th to 19th—I'm going to also say that I think this is relevant. Rob McCoy hosts the first-ever Turning Point USA Faith Pastors Tour of Israel.”
+
+</details>
 
 </details>
 
@@ -285,7 +354,11 @@ _Type: Organizations_
 <summary>Investor Includes (1)</summary>
 
 - **[Lance Wallnau](/entities/person-lance-wallnau.md)**
-  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:20:07](/episodes/ep-YaZfwLQ7vrI.md#t-00-19-33): "he put a ton of money into Turning Point USA Faith operations"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:20:07](/episodes/ep-YaZfwLQ7vrI.md#t-00-19-33): “he put a ton of money into Turning Point USA Faith operations”
+
+</details>
 
 </details>
 
@@ -293,26 +366,54 @@ _Type: Organizations_
 <summary>Referenced By (7)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** advisor to this
-  - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:09:32](/episodes/ep-Qt0VHV-POCg.md#t-00-09-15)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:09:32](/episodes/ep-Qt0VHV-POCg.md#t-00-09-15): “He was one of the advisors put on the board of advisory for TPUSA Faith.”
+
+</details>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** board member of this
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:13:21](/episodes/ep-YFmRH8p5lt0.md#t-00-13-10)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:13:21](/episodes/ep-YFmRH8p5lt0.md#t-00-13-10): “Rob McCoy is obviously now the co-chair of TPUSA Faith”
+
+</details>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** chairman of this
-  - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:04:08](/episodes/ep-Qt0VHV-POCg.md#t-00-03-39)
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:13:17](/episodes/ep-YFmRH8p5lt0.md#t-00-13-10)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:04:08](/episodes/ep-Qt0VHV-POCg.md#t-00-03-39): “Along with being a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Faith.”
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:13:17](/episodes/ep-YFmRH8p5lt0.md#t-00-13-10): “Rob McCoy is obviously now the co-chair of TPUSA Faith.”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** founded this
-  - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:06:42](/episodes/ep-Qt0VHV-POCg.md#t-00-06-26)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:06:42](/episodes/ep-Qt0VHV-POCg.md#t-00-06-26): “Charlie Kirk founded TPUSA Faith alone." Here it is: "In 2021, Charlie Kirk founded TPUSA Faith...”
+
+</details>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** interviewed this
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:08:44](/episodes/ep-YFmRH8p5lt0.md#t-00-08-14)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:08:44](/episodes/ep-YFmRH8p5lt0.md#t-00-08-14): “January 10th to 19th—I'm going to also say that I think this is relevant. Rob McCoy hosts the first-ever Turning Point USA Faith Pastors Tour of Israel.”
+
+</details>
 
 - **[Lance Wallnau](/entities/person-lance-wallnau.md)** invested in this
-  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:20:07](/episodes/ep-YaZfwLQ7vrI.md#t-00-19-33)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:20:07](/episodes/ep-YaZfwLQ7vrI.md#t-00-19-33): “he put a ton of money into Turning Point USA Faith operations”
+
+</details>
 
 - **[Sean Feucht](/entities/person-sean-feucht.md)** works for this
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:10:31](/episodes/ep-YFmRH8p5lt0.md#t-00-10-20)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:10:31](/episodes/ep-YFmRH8p5lt0.md#t-00-10-20): “Sean Feucht is announced as the Turning Point USA Faith contributor”
+
+</details>
 
 </details>
 

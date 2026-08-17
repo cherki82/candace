@@ -20,10 +20,36 @@ _Type: Organizations_
 > Corcoran's official publication identifies the legal brand as Corcoran Group LLC and uses The Corcoran Group; transcript variants refer to the same brokerage.
 Source: [Corcoran Arrives in Washington, D.C. - The Corcoran Group](https://inhabit.corcoran.com/corcoran-arrives-in-washington-dc/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#ent-org-corcoran-group-t-00-26-55">2026-02-10 · 00:26:58</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#ent-org-corcoran-group-t-00-32-21">2026-02-10 · 00:32:38</a></strong></div>
+<div><span>Episodes</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-ti5Fxrvegno.md#ent-org-corcoran-group-t-00-26-55">Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305</a> (6 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-org-corcoran-group-t-00-26-55" style="--pulse-height:100%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 6 mentions" title="2026-02-10 · 6 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-corcoran-group-t-00-26-55) | 6 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (6 mentions)</summary>
@@ -57,7 +83,11 @@ Source: [Corcoran Arrives in Washington, D.C. - The Corcoran Group](https://inha
 <summary>Formerly Employed (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-  - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:26:58](/episodes/ep-ti5Fxrvegno.md#t-00-26-55): "Now this article that was posted shortly after Charlie Kirk's assassination by USA Today states that Erika Kirk worked as a real estate agent in New York City for the Corcoran Group."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:26:58](/episodes/ep-ti5Fxrvegno.md#t-00-26-55): “Now this article that was posted shortly after Charlie Kirk's assassination by USA Today states that Erika Kirk worked as a real estate agent in New York City for the Corcoran Group.”
+
+</details>
 
 </details>
 
@@ -65,7 +95,11 @@ Source: [Corcoran Arrives in Washington, D.C. - The Corcoran Group](https://inha
 <summary>Has Ceo (1)</summary>
 
 - **[Pamela Liebman](/entities/person-pamela-liebman.md)**
-  - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:27:11](/episodes/ep-ti5Fxrvegno.md#t-00-26-55): "Pamela (Pamela Liebman) has been the president and CEO of the Corcoran Group since..."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:27:11](/episodes/ep-ti5Fxrvegno.md#t-00-26-55): “Pamela (Pamela Liebman) has been the president and CEO of the Corcoran Group since...”
+
+</details>
 
 </details>
 
@@ -73,7 +107,11 @@ Source: [Corcoran Arrives in Washington, D.C. - The Corcoran Group](https://inha
 <summary>Has President (1)</summary>
 
 - **[Pamela Liebman](/entities/person-pamela-liebman.md)**
-  - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:27:11](/episodes/ep-ti5Fxrvegno.md#t-00-26-55): "Pamela (Pamela Liebman) has been the president and CEO of the Corcoran Group since..."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:27:11](/episodes/ep-ti5Fxrvegno.md#t-00-26-55): “Pamela (Pamela Liebman) has been the president and CEO of the Corcoran Group since...”
+
+</details>
 
 </details>
 
@@ -81,13 +119,25 @@ Source: [Corcoran Arrives in Washington, D.C. - The Corcoran Group](https://inha
 <summary>Referenced By (3)</summary>
 
 - **[Pamela Liebman](/entities/person-pamela-liebman.md)** CEO of this
-  - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:27:11](/episodes/ep-ti5Fxrvegno.md#t-00-26-55)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:27:11](/episodes/ep-ti5Fxrvegno.md#t-00-26-55): “Pamela (Pamela Liebman) has been the president and CEO of the Corcoran Group since...”
+
+</details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** formerly worked for this
-  - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:26:58](/episodes/ep-ti5Fxrvegno.md#t-00-26-55)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:26:58](/episodes/ep-ti5Fxrvegno.md#t-00-26-55): “Now this article that was posted shortly after Charlie Kirk's assassination by USA Today states that Erika Kirk worked as a real estate agent in New York City for the Corcoran Group.”
+
+</details>
 
 - **[Pamela Liebman](/entities/person-pamela-liebman.md)** president of this
-  - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:27:11](/episodes/ep-ti5Fxrvegno.md#t-00-26-55)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:27:11](/episodes/ep-ti5Fxrvegno.md#t-00-26-55): “Pamela (Pamela Liebman) has been the president and CEO of the Corcoran Group since...”
+
+</details>
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Europe"
-description: "Europe (Places) - 19 mentions"
+description: "Europe (Places) - 31 mentions"
 id: "gpe-europe"
 type: "GPE"
 categories:
@@ -15,10 +15,108 @@ _Type: Places_
 > United Nations geographic standard confirms Europe as a canonical geographic region.
 Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/methodology/m49/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-europe-t-00-02-55">2025-12-02 · 00:02:55</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-europe-t-00-04-42">2026-03-03 · 00:06:23</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>31</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-europe-t-00-04-42">Bride Of Charlie: The Lost Years... | Episode 5</a> (8 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-europe-t-00-02-55" style="--pulse-height:62%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 5 mentions" title="2025-12-02 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-europe-t-00-57-06" style="--pulse-height:25%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-europe-t-00-14-04" style="--pulse-height:25%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-europe-t-00-46-53" style="--pulse-height:12%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-europe-t-00-13-07" style="--pulse-height:50%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 4 mentions" title="2026-01-29 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-europe-t-00-28-00" style="--pulse-height:12%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-europe-t-00-27-17" style="--pulse-height:38%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 3 mentions" title="2026-02-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-europe-t-00-06-16" style="--pulse-height:12%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-europe-t-00-31-17" style="--pulse-height:50%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 4 mentions" title="2026-03-02 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-europe-t-00-04-42" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 8 mentions" title="2026-03-03 · 8 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-europe-t-00-02-55) | 5 |
+| 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-europe-t-00-57-06) | 2 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-europe-t-00-14-04) | 2 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-europe-t-00-46-53) | 1 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-europe-t-00-13-07) | 4 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-europe-t-00-28-00) | 1 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-europe-t-00-27-17) | 3 |
+| 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-europe-t-00-06-16) | 1 |
+| 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-europe-t-00-31-17) | 4 |
+| 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-gpe-europe-t-00-04-42) | 8 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (8 mentions)</summary>
+
+**[00:00:11](/episodes/ep-2tFYJf1klgY.md#ent-gpe-europe-t-00-04-42)**
+> "...ere is she? Is she in Eastern Europe? Why was she ever in Eastern Europe?"
+
+**[00:00:31](/episodes/ep-2tFYJf1klgY.md#ent-gpe-europe-t-00-04-42)**
+> "...ania? What goes on in Eastern Europe? What is everybody doing there? We have a lot to ..."
+
+**[00:01:58](/episodes/ep-2tFYJf1klgY.md#ent-gpe-europe-t-00-04-42)**
+> "...ardon, she travels to Eastern Europe. She did this with a team to research gender issu..."
+
+**[00:02:11](/episodes/ep-2tFYJf1klgY.md#ent-gpe-europe-t-00-04-42)**
+> "... group of students to Eastern Europe."
+
+**[00:02:33](/episodes/ep-2tFYJf1klgY.md#ent-gpe-europe-t-00-04-42)**
+> "...oing to go in 1990 to Eastern Europe after the wall came down, the fall of the Berlin ..."
+
+**[00:04:04](/episodes/ep-2tFYJf1klgY.md#ent-gpe-europe-t-00-04-42)**
+> "...e fraud, was there in Eastern Europe researching gender issues. May she rest in peace."
+
+**[00:04:42](/episodes/ep-2tFYJf1klgY.md#ent-gpe-europe-t-00-04-42)**
+> "...fficer at the Seventh Army in Europe. That's in Germany, Stuttgart, Germany in the 195..."
+
+**[00:06:23](/episodes/ep-2tFYJf1klgY.md#ent-gpe-europe-t-00-04-42)**
+> "...onducting research in Eastern Europe."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (4 mentions)</summary>
+
+**[00:10:28](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-europe-t-00-31-17)**
+> "...earch specifically in Eastern Europe."
+
+**[00:10:36](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-europe-t-00-31-17)**
+> "...zing. So many ties to Eastern Europe. Bosnia, we're going to get into that. Another ch..."
+
+**[00:31:17](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-europe-t-00-31-17)**
+> "...olutions happening all across Europe,"
+
+**[00:33:58](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-europe-t-00-33-58)**
+> "...merica. Successful all across Europe, but they did. The Christian empires got divided."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (1 mentions)</summary>
+
+**[00:06:54](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-europe-t-00-06-16)**
+> "...She goes to Arizona. We're in Europe. We're doing tech everywhere."
+
+</details>
 
 <details>
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (3 mentions)</summary>
@@ -90,13 +188,10 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 </details>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (6 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (5 mentions)</summary>
 
 **[00:02:55](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-europe-t-00-02-55)**
 > "I told you guys a long time ago how when I was considering whether or not I should be Orthodox or Catholic, but I knew that I was sort of done with Protestantism, I had been taking instruction from these priests in Europe"
-
-**[00:02:55](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-europe-t-00-02-55)**
-> "...ruction from these priests in Europe"
 
 **[00:03:33](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-europe-t-00-03-33)**
 > "...ad been sort of waging across Europe for centuries had then spilled into America."
@@ -122,7 +217,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Europe (1)</strong></summary>
+<summary><strong class="section-title">Statements about Europe (2)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1)</summary>
+
+- [00:31:17](/episodes/ep-jTj9Ip46r4w.md#t-00-31-17) (Claim) **Candace Owens**: ["There is no evidence that the Jewish revolutionaries associated with t..."](/statements/statement-d70a499c2236.md)
+  - Also about: [Russia](/entities/gpe-russia.md), [Italy](/entities/gpe-italy.md), [United States](/entities/gpe-united-states.md)
+
+</details>
 
 <details>
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (1)</summary>

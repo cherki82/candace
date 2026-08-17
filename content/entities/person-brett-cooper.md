@@ -15,10 +15,48 @@ _Type: People_
 > Publisher archive confirms canonical public name.
 Source: [The Daily Wire — Brett Cooper author page](https://www.dailywire.com/author/brett-cooper)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#ent-person-brett-cooper-t-00-58-31">2025-10-07 · 00:58:31</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-brett-cooper-t-01-03-35">2026-01-28 · 01:03:53</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>32</strong></div>
+<div><span>Statements by</span><strong>19</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-LATnak75Si0.md#ent-person-brett-cooper-t-00-00-38">Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259</a> (17 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-5autG89PW6w.md#ent-person-brett-cooper-t-00-58-31" style="--pulse-height:8%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-brett-cooper-t-00-00-38" style="--pulse-height:100%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 17 mentions" title="2025-11-05 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-brett-cooper-t-00-05-39" style="--pulse-height:29%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 5 mentions" title="2025-11-15 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-brett-cooper-t-00-36-46" style="--pulse-height:12%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 2 mentions" title="2025-12-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-brett-cooper-t-00-43-45" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-person-brett-cooper-t-00-56-58" style="--pulse-height:12%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-brett-cooper-t-00-53-11" style="--pulse-height:24%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 4 mentions" title="2026-01-28 · 4 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-brett-cooper-t-00-58-31) | 1 |
+| 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-brett-cooper-t-00-00-38) | 17 |
+| 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-brett-cooper-t-00-05-39) | 5 |
+| 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brett-cooper-t-00-36-46) | 2 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-brett-cooper-t-00-43-45) | 1 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-brett-cooper-t-00-56-58) | 2 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-brett-cooper-t-00-53-11) | 4 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (32)</strong></summary>
 
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (4 mentions)</summary>
@@ -160,10 +198,18 @@ Source: [The Daily Wire — Brett Cooper author page](https://www.dailywire.com/
 <summary>Criticized (2)</summary>
 
 - **[Randy Fine](/entities/person-randy-fine.md)**
-  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:18:27](/episodes/ep-LATnak75Si0.md#t-00-17-51): "Like Randy Fine—if you don't know who he is—he's a representative from Florida... my advice to you, Randy Fine—is just move to Israel"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:18:27](/episodes/ep-LATnak75Si0.md#t-00-17-51): “Like Randy Fine—if you don't know who he is—he's a representative from Florida... my advice to you, Randy Fine—is just move to Israel”
+
+</details>
 
 - **[Ted Cruz](/entities/person-ted-cruz.md)**
-  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:19:19](/episodes/ep-LATnak75Si0.md#t-00-19-15): "You are so blinded by your ridiculous, insane hatred of Tucker (Tucker Carlson) Carlson... these tweets from Ted Cruz"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:19:19](/episodes/ep-LATnak75Si0.md#t-00-19-15): “You are so blinded by your ridiculous, insane hatred of Tucker (Tucker Carlson) Carlson... these tweets from Ted Cruz”
+
+</details>
 
 </details>
 
@@ -171,7 +217,11 @@ Source: [The Daily Wire — Brett Cooper author page](https://www.dailywire.com/
 <summary>Formerly Worked For (1)</summary>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)**
-  - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:53:14](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11): "Jeremy (Jeremy Boreing), ... I might even rank you bizarrely telling Brett Cooper, ... then a very young employee of yours, just a few weeks before she was slated to get married, sitting her down and telling her that she shouldn't do that because you had big plans and you were going to turn her into a star because you're the magic."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:53:14](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11): “Jeremy (Jeremy Boreing), ... I might even rank you bizarrely telling Brett Cooper, ... then a very young employee of yours, just a few weeks before she was slated to get married, sitting her down and telling her that she shouldn't do that because you had big plans and you were going to turn her into a star because you're the magic.”
+
+</details>
 
 </details>
 
@@ -179,7 +229,11 @@ Source: [The Daily Wire — Brett Cooper author page](https://www.dailywire.com/
 <summary>Works For (1)</summary>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
-  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:22:21](/episodes/ep-LATnak75Si0.md#t-00-22-10): "a movie that Brett Cooper starred in at the Daily Wire"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:22:21](/episodes/ep-LATnak75Si0.md#t-00-22-10): “a movie that Brett Cooper starred in at the Daily Wire”
+
+</details>
 
 </details>
 
@@ -187,16 +241,32 @@ Source: [The Daily Wire — Brett Cooper author page](https://www.dailywire.com/
 <summary>Referenced By (4)</summary>
 
 - **[Randy Fine](/entities/person-randy-fine.md)** criticized by this
-  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:18:27](/episodes/ep-LATnak75Si0.md#t-00-17-51)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:18:27](/episodes/ep-LATnak75Si0.md#t-00-17-51): “Like Randy Fine—if you don't know who he is—he's a representative from Florida... my advice to you, Randy Fine—is just move to Israel”
+
+</details>
 
 - **[Ted Cruz](/entities/person-ted-cruz.md)** criticized by this
-  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:19:19](/episodes/ep-LATnak75Si0.md#t-00-19-15)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:19:19](/episodes/ep-LATnak75Si0.md#t-00-19-15): “You are so blinded by your ridiculous, insane hatred of Tucker (Tucker Carlson) Carlson... these tweets from Ted Cruz”
+
+</details>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** employs this
-  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:22:21](/episodes/ep-LATnak75Si0.md#t-00-22-10)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:22:21](/episodes/ep-LATnak75Si0.md#t-00-22-10): “a movie that Brett Cooper starred in at the Daily Wire”
+
+</details>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** formerly employed this
-  - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:53:14](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:53:14](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11): “Jeremy (Jeremy Boreing), ... I might even rank you bizarrely telling Brett Cooper, ... then a very young employee of yours, just a few weeks before she was slated to get married, sitting her down and telling her that she shouldn't do that because you had big plans and you were going to turn her into a star because you're the magic.”
+
+</details>
 
 </details>
 
@@ -281,10 +351,10 @@ Source: [The Daily Wire — Brett Cooper author page](https://www.dailywire.com/
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (2)</summary>
 
 - [00:53:15](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11) (Accusation) **Candace Owens**: ["Jeremy Boreing told Brett Cooper a few weeks before her wedding that s..."](/statements/statement-f49b5ad7509e.md)
-  - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 - [00:54:07](/episodes/ep-QdM9jLwjwLw.md#t-00-53-54) (Accusation) **Candace Owens**: ["The Daily Wire offered Brett Cooper's maid of honor a large sum to rep..."](/statements/statement-1910477f2c11.md)
-  - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [The Daily Wire](/entities/org-daily-wire.md)
+  - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </details>
 

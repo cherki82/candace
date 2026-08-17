@@ -16,10 +16,44 @@ _Type: People_
 > Britannica confirms the canonical name and public identity.
 Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://www.britannica.com/biography/Blake-Lively)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-blake-lively-t-00-44-32">2025-10-28 · 00:44:25</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-blake-lively-t-00-59-55">2026-01-21 · 00:59:55</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>7</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-blake-lively-t-00-24-46">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (10 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-blake-lively-t-00-44-32" style="--pulse-height:40%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 4 mentions" title="2025-10-28 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-blake-lively-t-00-05-43" style="--pulse-height:10%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-person-blake-lively-t-00-26-34" style="--pulse-height:20%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 2 mentions" title="2025-12-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-blake-lively-t-00-15-52" style="--pulse-height:10%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-blake-lively-t-00-24-46" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 10 mentions" title="2026-01-21 · 10 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-blake-lively-t-00-44-32) | 4 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-blake-lively-t-00-05-43) | 1 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-blake-lively-t-00-26-34) | 2 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-blake-lively-t-00-15-52) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-blake-lively-t-00-24-46) | 10 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
 
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (10 mentions)</summary>
@@ -109,7 +143,11 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 <summary>Accused (1)</summary>
 
 - **[Justin Baldoni](/entities/person-justin-baldoni.md)**
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:27:26](/episodes/ep-GY6GWceEqtQ.md#t-00-26-58): "But now her messages are out and it turns out that Taylor Swift called Justin Baldoni a B-I-T-C-H with a tiny violin and she knew that Blake Lively was going to file that sexual harassment complaint to get these publishing rights,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:27:26](/episodes/ep-GY6GWceEqtQ.md#t-00-26-58): “But now her messages are out and it turns out that Taylor Swift called Justin Baldoni a B-I-T-C-H with a tiny violin and she knew that Blake Lively was going to file that sexual harassment complaint to get these publishing rights,”
+
+</details>
 
 </details>
 
@@ -117,7 +155,11 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 <summary>Accused By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:24:46](/episodes/ep-GY6GWceEqtQ.md#t-00-24-46): "behave how are we glorifying these people it made us spiritually sick looking at the Justin Baldoni case I couldn't believe it it was just mean girls Blake Lively never told no very bratty wanted some publishing rights because that's what happened and when she was told no you can't take this over she said oh I don't I don't nobody tells me no never been told no my whole life and her and her husband conspired you"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:24:46](/episodes/ep-GY6GWceEqtQ.md#t-00-24-46): “behave how are we glorifying these people it made us spiritually sick looking at the Justin Baldoni case I couldn't believe it it was just mean girls Blake Lively never told no very bratty wanted some publishing rights because that's what happened and when she was told no you can't take this over she said oh I don't I don't nobody tells me no never been told no my whole life and her and her husband conspired you”
+
+</details>
 
 </details>
 
@@ -125,7 +167,11 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:24:46](/episodes/ep-GY6GWceEqtQ.md#t-00-24-46): "looking at the Justin Baldoni case I couldn't believe it it was just mean girls Blake Lively never told no very bratty wanted some publishing rights"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:24:46](/episodes/ep-GY6GWceEqtQ.md#t-00-24-46): “looking at the Justin Baldoni case I couldn't believe it it was just mean girls Blake Lively never told no very bratty wanted some publishing rights”
+
+</details>
 
 </details>
 
@@ -133,16 +179,32 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
 <summary>Referenced By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:24:46](/episodes/ep-GY6GWceEqtQ.md#t-00-24-46)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:24:46](/episodes/ep-GY6GWceEqtQ.md#t-00-24-46): “behave how are we glorifying these people it made us spiritually sick looking at the Justin Baldoni case I couldn't believe it it was just mean girls Blake Lively never told no very bratty wanted some publishing rights because that's what happened and when she was told no you can't take this over she said oh I don't I don't nobody tells me no never been told no my whole life and her and her husband conspired you”
+
+</details>
 
 - **[Justin Baldoni](/entities/person-justin-baldoni.md)** accused by this
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:27:26](/episodes/ep-GY6GWceEqtQ.md#t-00-26-58)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:27:26](/episodes/ep-GY6GWceEqtQ.md#t-00-26-58): “But now her messages are out and it turns out that Taylor Swift called Justin Baldoni a B-I-T-C-H with a tiny violin and she knew that Blake Lively was going to file that sexual harassment complaint to get these publishing rights,”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:24:46](/episodes/ep-GY6GWceEqtQ.md#t-00-24-46)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:24:46](/episodes/ep-GY6GWceEqtQ.md#t-00-24-46): “looking at the Justin Baldoni case I couldn't believe it it was just mean girls Blake Lively never told no very bratty wanted some publishing rights”
+
+</details>
 
 - **[Taylor Swift](/entities/person-taylor-swift.md)** worked with this
-  - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:27:26](/episodes/ep-GY6GWceEqtQ.md#t-00-26-58)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:27:26](/episodes/ep-GY6GWceEqtQ.md#t-00-26-58): “But now her messages are out and it turns out that Taylor Swift called Justin Baldoni a B-I-T-C-H with a tiny violin and she knew that Blake Lively was going to file that sexual harassment complaint to get these publishing rights, take over the movie and TMZ's like oh this doesn't look great for Taylor (Taylor Swift) because she remember her story she was like I just walked into the apartment Justin Baldoni was there had nothing to do with anything And I felt compelled to suddenly comment on the scripts, you know, I was being set up. I'm the victim too. And I'm going to give her a little bit of truth here. What we learn when you get into the nitty gritty is that she was on her way to the apartment. But while she was on the way, Blake (Blake Lively) did text her over the script, the scene that she wanted to be replaced. And she basically said, when you get here, review this. Let's gang gang Justin Baldoni and make him feel pressured exactly as Justin Baldoni. baloney described it and she did it so did she have a ton of heads up about it going into the department no but she had enough of a heads up that she knew she was going to play her role and she replied to Blake Lively and she's like yeah yeah I got you girl let's do this and she's joking with Blake Lively behind the scenes about how Justin was smart”
+
+</details>
 
 </details>
 
@@ -164,7 +226,7 @@ Source: [Blake Lively | Biography, Movies, TV Shows, Husband, & Facts](https://w
   - Also about: [Taylor Swift](/entities/person-taylor-swift.md), [Justin Baldoni](/entities/person-justin-baldoni.md)
 
 - [00:29:17](/episodes/ep-GY6GWceEqtQ.md#t-00-28-53) (Opinion) **Taylor Swift** (via read message): ["Taylor Swift wrote that she thought Justin Baldoni knew something was ..."](/statements/statement-3e4d0ffe37fd.md)
-  - Also about: [Justin Baldoni](/entities/person-justin-baldoni.md), [The New York Times](/entities/org-new-york-times.md)
+  - Also about: [Justin Baldoni](/entities/person-justin-baldoni.md), [The New York Times](/entities/org-the-new-york-times.md)
 
 </details>
 

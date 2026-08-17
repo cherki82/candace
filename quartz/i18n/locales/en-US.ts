@@ -50,8 +50,8 @@ export default {
       linkToOriginal: "Link to original",
     },
     search: {
-      title: "Search",
-      searchBarPlaceholder: "Search for something",
+      title: "Quick jump",
+      searchBarPlaceholder: "Find a page by title",
     },
     tableOfContents: {
       title: "Table of Contents",

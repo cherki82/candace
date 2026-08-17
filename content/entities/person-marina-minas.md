@@ -16,10 +16,42 @@ _Type: People_
 > TPUSA press release names Marina Minas as executive producer; TPUSA staff materials identify her as Chief Marketing Officer.
 Source: [Turning Point USA Releases BORDER BATTLE](https://tpusa.com/wp-content/uploads/2025/04/Press-Release-Border-Battle-Limited-Series_10052022.pdf)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-marina-minas-t-00-31-57">2026-01-22 · 00:32:38</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#ent-person-marina-minas-t-00-36-41">2026-02-10 · 00:36:41</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-marina-minas-t-00-31-57">Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295</a> (2 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-marina-minas-t-00-31-57" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-marina-minas-t-00-58-52" style="--pulse-height:100%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#t-00-25-59" style="--pulse-height:50%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-marina-minas-t-00-36-41" style="--pulse-height:50%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-marina-minas-t-00-31-57) | 2 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-marina-minas-t-00-58-52) | 2 |
+| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#t-00-25-59) | 1 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-marina-minas-t-00-36-41) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1 mentions)</summary>
@@ -68,7 +100,11 @@ Source: [Turning Point USA Releases BORDER BATTLE](https://tpusa.com/wp-content/
 <summary>Coo Of (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:33:14](/episodes/ep-QdM9jLwjwLw.md#t-00-32-55): "For no reason other than loyalty tests that are being conducted by Marina (Marina Minas), ... the COO, who's talking to Uber drivers for the tea. ... Hey, have you heard anything about Turning Point USA?"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:33:14](/episodes/ep-QdM9jLwjwLw.md#t-00-32-55): “For no reason other than loyalty tests that are being conducted by Marina (Marina Minas), ... the COO, who's talking to Uber drivers for the tea. ... Hey, have you heard anything about Turning Point USA?”
+
+</details>
 
 </details>
 
@@ -76,7 +112,11 @@ Source: [Turning Point USA Releases BORDER BATTLE](https://tpusa.com/wp-content/
 <summary>Formerly Employed (1)</summary>
 
 - **[Aubrey Laitsch](/entities/person-aubrey-laitsch.md)**
-  - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:26:13](/episodes/ep-mFuno0TuuQQ.md#t-00-25-59): "Andrew Kolvet, and Marina Muniz, who is the CMO of Turning Point USA, who I used to work for when I was just full-time with Turning Point."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:26:13](/episodes/ep-mFuno0TuuQQ.md#t-00-25-59): “Andrew Kolvet, and Marina Muniz, who is the CMO of Turning Point USA, who I used to work for when I was just full-time with Turning Point.”
+
+</details>
 
 </details>
 
@@ -84,8 +124,12 @@ Source: [Turning Point USA Releases BORDER BATTLE](https://tpusa.com/wp-content/
 <summary>Works For (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:26:13](/episodes/ep-mFuno0TuuQQ.md#t-00-25-59): "Andrew Kolvet, and Marina Muniz, who is the CMO of Turning Point USA, who I used to work for when I was just full-time with Turning Point."
-  - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:36:41](/episodes/ep-ti5Fxrvegno.md#t-00-36-41): "Marina Minas, the CMO over at Turning Point USA"
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:26:13](/episodes/ep-mFuno0TuuQQ.md#t-00-25-59): “Andrew Kolvet, and Marina Muniz, who is the CMO of Turning Point USA, who I used to work for when I was just full-time with Turning Point.”
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:36:41](/episodes/ep-ti5Fxrvegno.md#t-00-36-41): “Marina Minas, the CMO over at Turning Point USA”
+
+</details>
 
 </details>
 
@@ -93,14 +137,26 @@ Source: [Turning Point USA Releases BORDER BATTLE](https://tpusa.com/wp-content/
 <summary>Referenced By (3)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
-  - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:26:13](/episodes/ep-mFuno0TuuQQ.md#t-00-25-59)
-  - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:36:41](/episodes/ep-ti5Fxrvegno.md#t-00-36-41)
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:26:13](/episodes/ep-mFuno0TuuQQ.md#t-00-25-59): “Andrew Kolvet, and Marina Muniz, who is the CMO of Turning Point USA, who I used to work for when I was just full-time with Turning Point.”
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:36:41](/episodes/ep-ti5Fxrvegno.md#t-00-36-41): “Marina Minas, the CMO over at Turning Point USA”
+
+</details>
 
 - **[Aubrey Laitsch](/entities/person-aubrey-laitsch.md)** formerly worked for this
-  - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:26:13](/episodes/ep-mFuno0TuuQQ.md#t-00-25-59)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:26:13](/episodes/ep-mFuno0TuuQQ.md#t-00-25-59): “Andrew Kolvet, and Marina Muniz, who is the CMO of Turning Point USA, who I used to work for when I was just full-time with Turning Point.”
+
+</details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** has COO this
-  - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:33:14](/episodes/ep-QdM9jLwjwLw.md#t-00-32-55)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:33:14](/episodes/ep-QdM9jLwjwLw.md#t-00-32-55): “For no reason other than loyalty tests that are being conducted by Marina (Marina Minas), ... the COO, who's talking to Uber drivers for the tea. ... Hey, have you heard anything about Turning Point USA?”
+
+</details>
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "NASA"
-description: "NASA (Organizations) - 5 mentions"
+description: "NASA (Organizations) - 6 mentions"
 id: "org-nasa"
 type: "ORG"
 aliases:
@@ -20,10 +20,48 @@ _Type: Organizations_
 > Official agency site confirms NASA's canonical name.
 Source: [About NASA](https://www.nasa.gov/about/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-X92MllIHDzw.md#ent-org-nasa-t-00-45-38">2026-01-16 · 00:45:48</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-nasa-t-00-06-31">2026-02-27 · 00:06:31</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>3</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-A39g5oqB_eM.md#ent-org-nasa-t-00-31-34">EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296</a> (4 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-X92MllIHDzw.md#ent-org-nasa-t-00-45-38" style="--pulse-height:25%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-org-nasa-t-00-31-34" style="--pulse-height:100%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 4 mentions" title="2026-01-27 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-nasa-t-00-06-31" style="--pulse-height:25%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-nasa-t-00-45-38) | 1 |
+| 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-org-nasa-t-00-31-34) | 4 |
+| 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-nasa-t-00-06-31) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (1 mentions)</summary>
+
+**[00:06:31](/episodes/ep-1IY2oD-_xVA.md#ent-org-nasa-t-00-06-31)**
+> "That's the precursor to NASA's Apollo program. Oh, he was such a genius. Yes, he was trying to literally summon demons. He was Aleister Crowley's protege. He was doing the exact same thing that Aleister Crowley was doing, throwing elite sex parties, saying we're going to create a moon child, everyone sex, drugs."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (4 mentions)</summary>
@@ -59,7 +97,11 @@ Source: [About NASA](https://www.nasa.gov/about/)
 <summary>Formerly Employed (1)</summary>
 
 - **[Stanley Clark Moore](/entities/person-stanley-clark-moore.md)**
-  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:42:21](/episodes/ep-A39g5oqB_eM.md#t-00-42-10): "also went to go work for NASA, ... if his Wikipedia is to be believed for a little bit,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:42:21](/episodes/ep-A39g5oqB_eM.md#t-00-42-10): “also went to go work for NASA, ... if his Wikipedia is to be believed for a little bit,”
+
+</details>
 
 </details>
 
@@ -67,17 +109,33 @@ Source: [About NASA](https://www.nasa.gov/about/)
 <summary>Referenced By (2)</summary>
 
 - **[Stanley Clark Moore](/entities/person-stanley-clark-moore.md)** formerly worked for this
-  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:42:21](/episodes/ep-A39g5oqB_eM.md#t-00-42-10)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:42:21](/episodes/ep-A39g5oqB_eM.md#t-00-42-10): “also went to go work for NASA, ... if his Wikipedia is to be believed for a little bit,”
+
+</details>
 
 - **[Shaklee Corporation](/entities/org-shaklee-corporation.md)** worked with this
-  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:32:05](/episodes/ep-A39g5oqB_eM.md#t-00-31-34)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:32:05](/episodes/ep-A39g5oqB_eM.md#t-00-31-34): “gospel is what this is really about and it grew to be a massive company that engaged in a 25-year contract with NASA. ... for supplements that they could take to space.”
+
+</details>
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about NASA (3)</strong></summary>
+<summary><strong class="section-title">Statements about NASA (4)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (1)</summary>
+
+- [00:06:31](/episodes/ep-1IY2oD-_xVA.md#t-00-06-31) (Claim) **Candace Owens**: ["The Jet Propulsion Laboratory was a precursor to NASA’s Apollo program"](/statements/statement-f5c1012f147a.md)
+  - Also about: [Jet Propulsion Laboratory](/entities/org-jet-propulsion-laboratory.md), [Apollo program](/entities/concept-apollo-program.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (3)</summary>

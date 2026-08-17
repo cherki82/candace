@@ -1,6 +1,6 @@
 ---
 title: "United States Air Force"
-description: "United States Air Force (Organizations) - 50 mentions"
+description: "United States Air Force (Organizations) - 51 mentions"
 id: "org-united-states-air-force"
 type: "ORG"
 aliases:
@@ -21,10 +21,86 @@ _Type: Organizations_
 > Official service page confirms the canonical organization name and mission of the United States Air Force.
 Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-united-states-air-force-t-00-50-29">2025-09-29 · 00:50:39</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-air-force-t-00-05-25">2026-03-03 · 00:05:31</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>51</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-mKXdKV-OBog.md#ent-org-united-states-air-force-t-00-05-45">Operation: “See you in Valhalla, Charlie”. | Candace Ep 270</a> (12 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-united-states-air-force-t-00-50-29" style="--pulse-height:8%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 1 mentions" title="2025-09-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#t-00-04-27" style="--pulse-height:8%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-united-states-air-force-t-00-28-37" style="--pulse-height:33%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 4 mentions" title="2025-10-28 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-united-states-air-force-t-00-18-24" style="--pulse-height:33%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 4 mentions" title="2025-10-30 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-united-states-air-force-t-00-16-39" style="--pulse-height:17%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 2 mentions" title="2025-11-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-org-united-states-air-force-t-00-05-45" style="--pulse-height:100%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 12 mentions" title="2025-11-21 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#t-00-16-09" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#t-00-14-05" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-org-united-states-air-force-t-00-37-21" style="--pulse-height:25%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 3 mentions" title="2025-12-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-united-states-air-force-t-00-43-45" style="--pulse-height:33%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 4 mentions" title="2025-12-10 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-air-force-t-00-35-25" style="--pulse-height:33%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 4 mentions" title="2025-12-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-united-states-air-force-t-00-19-13" style="--pulse-height:17%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-org-united-states-air-force-t-01-01-18" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-united-states-air-force-t-00-10-32" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-org-united-states-air-force-t-00-14-10" style="--pulse-height:25%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 3 mentions" title="2026-01-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-org-united-states-air-force-t-00-28-43" style="--pulse-height:42%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 5 mentions" title="2026-01-27 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#t-00-45-19" style="--pulse-height:8%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-air-force-t-00-05-25" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-united-states-air-force-t-00-50-29) | 1 |
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#t-00-04-27) | 1 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-united-states-air-force-t-00-28-37) | 4 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-org-united-states-air-force-t-00-18-24) | 4 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-org-united-states-air-force-t-00-16-39) | 2 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-org-united-states-air-force-t-00-05-45) | 12 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#t-00-16-09) | 1 |
+| 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#t-00-14-05) | 1 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-united-states-air-force-t-00-37-21) | 3 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-org-united-states-air-force-t-00-43-45) | 4 |
+| 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-air-force-t-00-35-25) | 4 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-united-states-air-force-t-00-19-13) | 2 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-united-states-air-force-t-01-01-18) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-united-states-air-force-t-00-10-32) | 1 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-org-united-states-air-force-t-00-14-10) | 3 |
+| 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-org-united-states-air-force-t-00-28-43) | 5 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#t-00-45-19) | 1 |
+| 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-air-force-t-00-05-25) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (51)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: The Lost Years... | Episode 5 (1 mentions)</summary>
+
+**[00:05:31](/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-air-force-t-00-05-25)**
+> "...as a second lieutenant in the Air Force when they married. So that's Nancy. She's in char..."
+
+</details>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1 mentions)</summary>
+
+**[00:45:19](/episodes/ep-ZAsV0fHGBiM.md#t-00-45-19)**
+> "...heridan accompanying you onto Air Force Two as your husband's body is escorted to Arizona..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (5 mentions)</summary>
@@ -88,13 +164,10 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 </details>
 
 <details>
-<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (5 mentions)</summary>
+<summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (4 mentions)</summary>
 
 **[00:35:47](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-air-force-t-00-35-25)**
 > "The United States Air Force Special Air Mission exists to provide safe and secure transport"
-
-**[00:35:40](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-air-force-t-00-35-25)**
-> "The United States Air Force Special Air Mission exists to provide safe and se..."
 
 **[00:36:41](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-air-force-t-00-36-07)**
 > "...o call sign instantly becomes Air Force One."
@@ -265,7 +338,11 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 <summary>Employs (1)</summary>
 
 - **[Carl Wallnau](/entities/person-carl-wallnau.md)**
-  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:17:14](/episodes/ep-YaZfwLQ7vrI.md#t-00-16-39): "His father, Carl Wallnau, was a major in the United States Air Force"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:17:14](/episodes/ep-YaZfwLQ7vrI.md#t-00-16-39): “His father, Carl Wallnau, was a major in the United States Air Force”
+
+</details>
 
 </details>
 
@@ -273,7 +350,11 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 <summary>Formerly Employed (1)</summary>
 
 - **[Bill Montgomery](/entities/person-bill-montgomery.md)**
-  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:28:56](/episodes/ep-A39g5oqB_eM.md#t-00-28-43): "Now, Bill Montgomery was Air Force. He's in the Air Force Reserves. Bill Montgomery also happened to be from Lincoln,"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:28:56](/episodes/ep-A39g5oqB_eM.md#t-00-28-43): “Now, Bill Montgomery was Air Force. He's in the Air Force Reserves. Bill Montgomery also happened to be from Lincoln,”
+
+</details>
 
 </details>
 
@@ -281,10 +362,18 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 <summary>Has Member (2)</summary>
 
 - **[Dr. Deidre Amaro](/entities/person-dr-deidre-amaro.md)**
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:15:21](/episodes/ep-mKXdKV-OBog.md#t-00-15-00): "Dr. Deidre Amaro is also a major in the military"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:15:21](/episodes/ep-mKXdKV-OBog.md#t-00-15-00): “Dr. Deidre Amaro is also a major in the military”
+
+</details>
 
 - **[Frank Turek](/entities/person-frank-turek.md)**
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:15:30](/episodes/ep-mKXdKV-OBog.md#t-00-15-00): "Frank Turk is a naval flight officer, his sons are in the Air Force"
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:15:30](/episodes/ep-mKXdKV-OBog.md#t-00-15-00): “Frank Turk is a naval flight officer, his sons are in the Air Force”
+
+</details>
 
 </details>
 
@@ -292,7 +381,11 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 <summary>Headquartered In (1)</summary>
 
 - **[United States Pentagon](/entities/org-united-states-pentagon.md)**
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31): ""It's headquarters for the Army, the Navy, and the Air Force.""
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31): “"It's headquarters for the Army, the Navy, and the Air Force."”
+
+</details>
 
 </details>
 
@@ -300,19 +393,39 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 <summary>Referenced By (5)</summary>
 
 - **[Bill Montgomery](/entities/person-bill-montgomery.md)** formerly worked for this
-  - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:28:56](/episodes/ep-A39g5oqB_eM.md#t-00-28-43)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:28:56](/episodes/ep-A39g5oqB_eM.md#t-00-28-43): “Now, Bill Montgomery was Air Force. He's in the Air Force Reserves. Bill Montgomery also happened to be from Lincoln,”
+
+</details>
 
 - **[United States Pentagon](/entities/org-united-states-pentagon.md)** headquarters of this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31): “"It's headquarters for the Army, the Navy, and the Air Force."”
+
+</details>
 
 - **[Dr. Deidre Amaro](/entities/person-dr-deidre-amaro.md)** member of this
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:15:21](/episodes/ep-mKXdKV-OBog.md#t-00-15-00)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:15:21](/episodes/ep-mKXdKV-OBog.md#t-00-15-00): “Dr. Deidre Amaro is also a major in the military”
+
+</details>
 
 - **[Frank Turek](/entities/person-frank-turek.md)** member of this
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:15:30](/episodes/ep-mKXdKV-OBog.md#t-00-15-00)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:15:30](/episodes/ep-mKXdKV-OBog.md#t-00-15-00): “Frank Turk is a naval flight officer, his sons are in the Air Force”
+
+</details>
 
 - **[Carl Wallnau](/entities/person-carl-wallnau.md)** works for this
-  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:17:14](/episodes/ep-YaZfwLQ7vrI.md#t-00-16-39)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:17:14](/episodes/ep-YaZfwLQ7vrI.md#t-00-16-39): “His father, Carl Wallnau, was a major in the United States Air Force”
+
+</details>
 
 </details>
 

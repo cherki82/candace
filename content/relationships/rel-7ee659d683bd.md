@@ -11,7 +11,7 @@ object: "person-charlie-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) friend of [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (16 mentions)
+### Evidence (17 mentions)
 
 **[Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708)**
 
@@ -53,6 +53,10 @@ object: "person-charlie-kirk"
 **[An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ)**
 
 - [00:42:00](/episodes/ep-mFuno0TuuQQ#t-00-42-00): _And I got through it and I got through it in large part not because I'm particularly tough, but because I was motivated by true friendship with Charlie (Charlie Kirk)._
+
+**[Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8)**
+
+- [00:34:18](/episodes/ep-nPhCKwJ6ye8#t-00-34-18): _I've obviously had an audience since we've been covering this case. People know that there was a personal friendship between me and Charlie and diminishing the pursuit of something that makes sense regarding what happened on September 10th._
 
 **[Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA)**
 

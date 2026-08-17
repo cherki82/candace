@@ -1,6 +1,6 @@
 ---
 title: "Tim Dillon"
-description: "Tim Dillon (People) - 43 mentions"
+description: "Tim Dillon (People) - 44 mentions"
 id: "person-tim-dillon"
 type: "PERSON"
 categories:
@@ -16,10 +16,66 @@ _Type: People_
 > Official website confirms the comedian and podcast host canonical name.
 Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-tim-dillon-t-00-46-02">2025-11-13 · 00:46:17</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-tim-dillon-t-00-14-13">2026-02-25 · 00:14:40</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>44</strong></div>
+<div><span>Statements by</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-tim-dillon-t-00-46-02">What Did Charlie Kirk Discover Near The End? | Candace Ep 264</a> (10 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-tim-dillon-t-00-46-02" style="--pulse-height:100%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 10 mentions" title="2025-11-13 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-person-tim-dillon-t-00-52-35" style="--pulse-height:10%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-person-tim-dillon-t-00-28-14" style="--pulse-height:80%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 8 mentions" title="2025-11-21 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-tim-dillon-t-00-04-13" style="--pulse-height:80%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 8 mentions" title="2026-01-05 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-tim-dillon-t-01-00-00" style="--pulse-height:10%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-tim-dillon-t-00-38-25" style="--pulse-height:10%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-tim-dillon-t-00-28-10" style="--pulse-height:10%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-tim-dillon-t-00-03-29" style="--pulse-height:50%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 5 mentions" title="2026-01-21 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-tim-dillon-t-01-38-54" style="--pulse-height:20%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-tim-dillon-t-00-46-57" style="--pulse-height:10%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-tim-dillon-t-00-33-13" style="--pulse-height:20%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-tim-dillon-t-00-14-13" style="--pulse-height:10%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-tim-dillon-t-00-46-02) | 10 |
+| 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-dillon-t-00-52-35) | 1 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-tim-dillon-t-00-28-14) | 8 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-tim-dillon-t-00-04-13) | 8 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-tim-dillon-t-01-00-00) | 1 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-tim-dillon-t-00-38-25) | 1 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-tim-dillon-t-00-28-10) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-tim-dillon-t-00-03-29) | 5 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-tim-dillon-t-01-38-54) | 2 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-tim-dillon-t-00-46-57) | 1 |
+| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-tim-dillon-t-00-33-13) | 2 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-tim-dillon-t-00-14-13) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1 mentions)</summary>
+
+**[00:14:40](/episodes/ep-ZAsV0fHGBiM.md#ent-person-tim-dillon-t-00-14-13)**
+> "... merely mentioning MKUltra on Tim Dillon's show."
+
+</details>
 
 <details>
 <summary>An Open Letter To Erika Kirk | Candace Ep 303 (2 mentions)</summary>
@@ -205,7 +261,11 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 <summary>Criticized (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:04:48](/episodes/ep-OEAHy3SsIiI.md#t-00-04-13): "This turning point kind of abomination that the right wing of this country has turned into like a bad reality show."
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:04:48](/episodes/ep-OEAHy3SsIiI.md#t-00-04-13): “This turning point kind of abomination that the right wing of this country has turned into like a bad reality show.”
+
+</details>
 
 </details>
 
@@ -213,7 +273,11 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 <summary>Referenced By (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** criticized by this
-  - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:04:48](/episodes/ep-OEAHy3SsIiI.md#t-00-04-13)
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:04:48](/episodes/ep-OEAHy3SsIiI.md#t-00-04-13): “This turning point kind of abomination that the right wing of this country has turned into like a bad reality show.”
+
+</details>
 
 </details>
 
@@ -241,6 +305,19 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 
 - [00:07:32](/episodes/ep-OEAHy3SsIiI.md#t-00-06-50) [○] (Accusation) ["Turning Point USA wants the audience's money and wants to be associated with cel..."](/statements/statement-453f89695768.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Tim Dillon (1)</strong></summary>
+
+<details>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1)</summary>
+
+- [00:14:33](/episodes/ep-ZAsV0fHGBiM.md#t-00-14-13) (Claim) **Candace Owens**: ["Emmanuel Macron is suing Candace Owens merely for mentioning MKUltra o..."](/statements/statement-55115b5eabcd.md)
+  - Also about: [Emmanuel Macron](/entities/person-emmanuel-macron.md), [Candace Owens](/entities/person-candace-owens.md), [MKUltra](/entities/concept-mkultra.md)
 
 </details>
 

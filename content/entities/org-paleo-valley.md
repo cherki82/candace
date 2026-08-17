@@ -1,6 +1,6 @@
 ---
 title: "Paleo Valley"
-description: "Paleo Valley (Organizations) - 32 mentions"
+description: "Paleo Valley (Organizations) - 28 mentions"
 id: "org-paleo-valley"
 type: "ORG"
 aliases:
@@ -11,10 +11,48 @@ _Type: Organizations_
 
 **Also known as:** Paleovalley
 
+> **Possibly overlapping entity records:** [Paleovalley](/entities/org-paleovalley). These records share a name or alias; compare their histories before treating either count as complete.
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-paleo-valley-t-00-39-02">2025-09-16 · 00:39:06</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-paleo-valley-t-00-27-23">2025-11-12 · 00:27:41</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>28</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-adJ4LNGp84I.md#ent-org-paleo-valley-t-00-24-30">BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246</a> (7 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-q7f8r-THr84.md#ent-org-paleo-valley-t-00-39-02" style="--pulse-height:57%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 4 mentions" title="2025-09-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-paleo-valley-t-00-24-30" style="--pulse-height:100%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 7 mentions" title="2025-10-01 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-paleo-valley-t-00-35-45" style="--pulse-height:86%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 6 mentions" title="2025-10-09 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-paleo-valley-t-00-50-17" style="--pulse-height:71%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 5 mentions" title="2025-10-30 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-paleo-valley-t-00-52-25" style="--pulse-height:71%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 5 mentions" title="2025-11-06 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-paleo-valley-t-00-27-23" style="--pulse-height:14%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-org-paleo-valley-t-00-39-02) | 4 |
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-paleo-valley-t-00-24-30) | 7 |
+| 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-org-paleo-valley-t-00-35-45) | 6 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-org-paleo-valley-t-00-50-17) | 5 |
+| 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-org-paleo-valley-t-00-52-25) | 5 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-org-paleo-valley-t-00-27-23) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
-<details open>
-<summary><strong class="section-title">Mentions</strong></summary>
+<details>
+<summary><strong class="section-title">Raw mentions (28)</strong></summary>
 
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
@@ -25,13 +63,10 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (6 mentions)</summary>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (5 mentions)</summary>
 
 **[00:52:36](/episodes/ep-vwG1juDCQZQ.md#ent-org-paleo-valley-t-00-52-25)**
 > "I want to remind you about Paleovalley because something my team and I are always craving are their beef sticks"
-
-**[00:52:36](/episodes/ep-vwG1juDCQZQ.md#ent-org-paleo-valley-t-00-52-25)**
-> "...s: I want to remind you about Paleovalley because something my team and I are always cravin..."
 
 **[00:53:09](/episodes/ep-vwG1juDCQZQ.md#ent-org-paleo-valley-t-00-53-09)**
 > "Paleovalley will work with your lifestyle, not against it."
@@ -48,13 +83,10 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (6 mentions)</summary>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (5 mentions)</summary>
 
 **[00:50:17](/episodes/ep-iHav0PPzUz8.md#ent-org-paleo-valley-t-00-50-17)**
 > "All right, you guys—telling you about Paleo Valley because something my team and I are always craving are their beef sticks"
-
-**[00:50:17](/episodes/ep-iHav0PPzUz8.md#ent-org-paleo-valley-t-00-50-17)**
-> "...t, you guys—telling you about Paleo Valley because something my team and I are always cravin..."
 
 **[00:50:50](/episodes/ep-iHav0PPzUz8.md#ent-org-paleo-valley-t-00-50-17)**
 > "Paleo Valley works with your lifestyle, not against it."
@@ -94,10 +126,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (8 mentions)</summary>
-
-**[00:24:41](/episodes/ep-adJ4LNGp84I.md#ent-org-paleo-valley-t-00-24-30)**
-> "Also telling you guys about Paleo Valley."
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (7 mentions)</summary>
 
 **[00:24:41](/episodes/ep-adJ4LNGp84I.md#ent-org-paleo-valley-t-00-24-30)**
 > "Also telling you guys about Paleo Valley."
@@ -123,13 +152,10 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (5 mentions)</summary>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (4 mentions)</summary>
 
 **[00:39:06](/episodes/ep-q7f8r-THr84.md#ent-org-paleo-valley-t-00-39-02)**
 > "Something that my team and I are always craving are beef sticks, specifically the ones from my friends over at Paleo Valley"
-
-**[00:39:06](/episodes/ep-q7f8r-THr84.md#ent-org-paleo-valley-t-00-39-02)**
-> "... ones from my friends over at Paleo Valley."
 
 **[00:39:11](/episodes/ep-q7f8r-THr84.md#ent-org-paleo-valley-t-00-39-02)**
 > "Paleo Valley makes their meat sticks with 100% grass-fed beef,..."
